@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-profesiones-para-el-estado-de-guanajuato-48160"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2019-05-15"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2005.
 
@@ -251,9 +251,7 @@ IX. Rama profesional. Conocimientos especializados de una profesión, obtenidos 
 
 X. Secretaría. La Secretaría de Educación de Guanajuato, y
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-XI. SICES. La Secretaría de Innovación, Ciencia y Educación Superior, y
+XI. (DEROGADA, P.O. 22 DE JULIO DE 2020)
 
 XII. Título profesional. Documento expedido por autoridad competente o por instituciones educativas oficiales y particulares con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley de la materia, en favor de la persona física que cumplió con los requisitos y lineamientos académico-administrativos previamente establecidos o que hayan sido acreditados mediante otro procedimiento previsto por las disposiciones jurídicas aplicables.
 
@@ -393,11 +391,11 @@ XXIII. Las demás que se deriven de esta Ley, de su reglamento y de otras dispos
 
 El Titular del Poder Ejecutivo podrá convocar a los colegios municipales de profesionistas para implementar programas de asistencia social en beneficio de la colectividad.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2020)</small>
 
 ###### Artículo 12.
 
-Las autoridades estatales y municipales y los particulares están obligados a proporcionar a la Secretaría y a la SICES, los datos, informes y documentos que se les soliciten, en relación a la materia regulada por esta ley.
+Las autoridades estatales y municipales y los particulares están obligados a proporcionar a la Secretaría, los datos, informes y documentos que se les soliciten, en relación a la materia regulada por esta ley.
 
 ### CAPÍTULO V. DEL EJERCICIO PROFESIONAL
 
@@ -685,9 +683,7 @@ I. Los presidentes de todos los colegios estatales por profesión, con voz y vot
 
 II. El Secretario de Educación del Estado, con voz y sin derecho a voto, y
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-III. El Secretario de Innovación, Ciencia y Educación Superior, con voz y sin derecho a voto; y
+III. (DEROGADA, P.O. 22 DE JULIO DE 2020)
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -711,9 +707,9 @@ b) Acciones para el fomento del ejercicio profesional;
 
 c) Proyectos en materia educativa y del ejercicio profesional;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2020)</small>
 
-d) Actualizaciones a los planes y programas de estudio del tipo medio superior y superior a la Secretaría y a la SICES, respectivamente, con el objeto de mejorar la formación de los profesionistas que egresen de las instituciones educativas pertenecientes al sistema educativo estatal;
+d) Actualizaciones a los planes y programas de estudio del tipo medio superior y superior a la Secretaría, con el objeto de mejorar la formación de los profesionistas que egresen de las instituciones educativas pertenecientes al sistema educativo estatal;
 
 e) Diagnósticos relativos a las necesidades de oferta y demanda educativa del tipo medio superior y superior en el Estado;
 
@@ -749,9 +745,7 @@ Cada consejo técnico estará integrado por:
 
 I. Un representante de la Secretaría, designado por el Secretario de Educación del Estado, quien fungirá como presidente;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-II. Un representante de la SICES, designado por el Secretario de Innovación, Ciencia y Educación Superior;
+II. (DEROGADA, P.O. 22 DE JULIO DE 2020)
 
 III. Los presidentes de los colegios estatales por profesión, que pertenezcan al área del conocimiento de que se trate, y
 
@@ -1398,3 +1392,35 @@ Artículo segundo. La Secretaría de Educación de Guanajuato, a través de la D
 Artículo tercero. El Ejecutivo del Estado deberá adecuar los reglamentos de las leyes del presente Decreto en un término de ciento ochenta días, contados a partir del inicio de la vigencia.
 
 Artículo cuarto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días contados a partir de su entrada en vigencia.
+
+P.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 203 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE EXPIDE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO, SE ABROGAN DIVERSOS ORDENAMIENTOS; ASÍ COMO SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE VARIAS LEYES”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta ciento ochenta días contados a partir de la entrada en vigencia del presente decreto, para crear el instituto responsable de la innovación en el estado de Guanajuato. La Secretaría de Innovación, Ciencia y Educación Superior, continuará ejerciendo las atribuciones en materia de innovación, ciencia y tecnología, hasta el acto formal de entrega recepción.
+
+Artículo Tercero. La Secretaría de Innovación, Ciencia y Educación Superior transferirá a la Secretaría de Educación, los programas, proyectos y procesos, asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, a través de la entrega-recepción respectiva.
+
+El personal de la Secretaría de Innovación, Ciencia y Educación Superior, conforme a su situación laboral pasará a integrarse a la Secretaría de Educación o el Instituto responsable de la innovación en el estado de Guanajuato, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Artículo Cuarto. La Secretaría de Innovación, Ciencia y Educación Superior continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos hasta en tanto el instituto responsable de la innovación en el estado de Guanajuato inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos.
+
+Artículo Quinto. La Secretaría de Educación sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Innovación, Ciencia y Educación Superior en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, el instituto responsable de la innovación en el estado de Guanajuato sustituye en todas sus obligaciones, así como los compromisos adquiridos por la Secretaría de Innovación, Ciencia y Educación Superior, en materia de innovación, ciencia y tecnología, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, el instituto responsable de la innovación en el estado de Guanajuato a que alude el presente Decreto, y la Secretaría de Educación, en lo correspondiente a educación superior, se entenderá referido a la Secretaría de Innovación, Ciencia y Educación Superior, en cuanto a la competencia en materia de ciencia e innovación y educación superior, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Artículo Sexto. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Innovación, Ciencia y Educación Superior y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se abroga mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Artículo Séptimo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Educación y el Instituto responsable de la innovación en el estado de Guanajuato, para la correcta operación de las atribuciones conferidas.
+
+El personal de la Secretaría de Innovación, Ciencia y Educación Superior que a la fecha ha operado y participado en el procesamiento, cálculo y pago de la nómina, durante el plazo de hasta 4 meses, contados a partir del acto general de entrega recepción, se instalará de manera permanente en las oficinas de la Secretaría de Educación de Guanajuato y se coordinará con el personal que esta dependencia designe para dar continuidad a dichos procesos y acordar la conciliación y entrega de la nómina, con el fin de asegurar la remuneración oportuna del salario y prestaciones del personal transferido. En este proceso de coordinación y de instrumentación de la ruta crítica a seguir y en el establecimiento de los acuerdos respectivos participará la Secretaría de Finanzas Inversión y Administración, debiendo ministrar oportunamente los recursos correspondientes para que la Secretaría de Educación de Guanajuato continúe con dicho pago de nómina.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
