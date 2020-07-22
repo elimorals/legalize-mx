@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2019-05-15"
+last_updated: "2020-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -2770,3 +2770,21 @@ Artículo segundo. La Secretaría de Educación de Guanajuato, a través de la D
 Artículo tercero. El Ejecutivo del Estado deberá adecuar los reglamentos de las leyes del presente Decreto en un término de ciento ochenta días, contados a partir del inicio de la vigencia.
 
 Artículo cuarto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días contados a partir de su entrada en vigencia.
+
+P.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley de Educación para el Estado de Guanajuato, contenida en el Decreto Legislativo número 188 emitido por la Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de Guanajuato y, publicada en el Periódico Oficial del Gobierno del Estado, número 160, Segunda Parte, de fecha siete de octubre de dos mil once.
+
+Artículo Tercero. El Ejecutivo del Estado expedirá los reglamentos correspondientes en un plazo no mayor a 180 días, contados a partir de que entre en vigencia la presente Ley. Hasta la emisión de tales ordenamientos, continuarán aplicándose los emitidos con anterioridad al presente Decreto, en aquello que no se contravengan sus disposiciones.
+
+Artículo Cuarto. Los acuerdos y lineamientos y demás disposiciones de carácter general que hayan emitido previamente las autoridades educativas reguladas por la presente Ley, podrán continuar su aplicación en lo que no contravenga a la misma.
+
+Artículo Quinto. Los procedimientos que se encuentren en trámite a la entrada en vigencia de la presente Ley se tramitarán con base en los dispositivos que se abroguen, hasta su debida conclusión, así como los recursos que deriven de los mismos y aquellos que se encuentren pendientes de resolución.
+
+Artículo Sexto. Las erogaciones que se generen con motivo de la entrada en vigencia del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva.
+
+Artículo Séptimo. La prestación de educación inicial en el Estado se atenderá de manera progresiva y de acuerdo a la disponibilidad presupuestaria, así como de conformidad con las disposiciones que emita la autoridad educativa federal.
