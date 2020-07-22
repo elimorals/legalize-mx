@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-fomento-del-aprovechamiento-de-las-fuentes-83600"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-08"
-last_updated: "2018-10-10"
+last_updated: "2020-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGIA Y SUSTENTABILIDAD ENERGETICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 203 MEDIANTE EL CUAL SE EXPIDE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGÍA Y SUSTENTABILIDAD ENERGÉTICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 8 de noviembre del 2011.
 
@@ -660,3 +660,35 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE JULIO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 203 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE EXPIDE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO, SE ABROGAN DIVERSOS ORDENAMIENTOS; ASÍ COMO SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE VARIAS LEYES”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta ciento ochenta días contados a partir de la entrada en vigencia del presente decreto, para crear el instituto responsable de la innovación en el estado de Guanajuato. La Secretaría de Innovación, Ciencia y Educación Superior, continuará ejerciendo las atribuciones en materia de innovación, ciencia y tecnología, hasta el acto formal de entrega recepción.
+
+Artículo Tercero. La Secretaría de Innovación, Ciencia y Educación Superior transferirá a la Secretaría de Educación, los programas, proyectos y procesos, asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, a través de la entrega-recepción respectiva.
+
+El personal de la Secretaría de Innovación, Ciencia y Educación Superior, conforme a su situación laboral pasará a integrarse a la Secretaría de Educación o el (sic) Instituto responsable de la innovación en el estado de Guanajuato, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Artículo Cuarto. La Secretaría de Innovación, Ciencia y Educación Superior continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos hasta en tanto el instituto responsable de la innovación en el estado de Guanajuato inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos.
+
+Artículo Quinto. La Secretaría de Educación sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Innovación, Ciencia y Educación Superior en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, el instituto responsable de la innovación en el estado de Guanajuato sustituye en todas sus obligaciones, así como los compromisos adquiridos por la Secretaría de Innovación, Ciencia y Educación Superior, en materia de innovación, ciencia y tecnología, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, el instituto responsable de la innovación en el estado de Guanajuato a que alude el presente Decreto, y la Secretaría de Educación, en lo correspondiente a educación superior, se entenderá referido a la Secretaría de Innovación, Ciencia y Educación Superior, en cuanto a la competencia en materia de ciencia e innovación y educación superior, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Artículo Sexto. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Innovación, Ciencia y Educación Superior y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se abroga mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Artículo Séptimo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Educación y el Instituto responsable de la innovación en el estado de Guanajuato, para la correcta operación de las atribuciones conferidas.
+
+El personal de la Secretaría de Innovación, Ciencia y Educación Superior que a la fecha ha operado y participado en el procesamiento, cálculo y pago de la nómina, durante el plazo de hasta 4 meses, contados a partir del acto general de entrega recepción, se instalará de manera permanente en las oficinas de la Secretaría de Educación de Guanajuato y se coordinará con el personal que esta dependencia designe para dar continuidad a dichos procesos y acordar la conciliación y entrega de la nómina, con el fin de asegurar la remuneración oportuna del salario y prestaciones del personal transferido. En este proceso de coordinación y de instrumentación de la ruta crítica a seguir y en el establecimiento de los acuerdos respectivos participará la Secretaría de Finanzas Inversión y Administración, debiendo ministrar oportunamente los recursos correspondientes para que la Secretaría de Educación de Guanajuato continúe con dicho pago de nómina.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
