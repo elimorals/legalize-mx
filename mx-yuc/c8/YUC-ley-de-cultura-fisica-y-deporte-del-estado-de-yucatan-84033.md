@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-cultura-fisica-y-deporte-del-estado-de-yucatan-84033"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-02"
-last_updated: "2019-07-31"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 2 de diciembre de 2011.
 
@@ -195,7 +195,9 @@ VI. El secretario de Desarrollo Social;
 
 VII. Los presidentes municipales de las cabeceras de cada una de las regiones en las que se distribuye el Estado, de conformidad a lo previsto en el Reglamento de la Ley de Planeación para el Desarrollo del Estado de Yucatán, y
 
-VIII. Tres representantes de las asociaciones y sociedades deportivas estatales.
+> <small>(REFORMADA, D.O. 22 DE JULIO DE 2020)</small>
+
+VIII. Tres representantes de las asociaciones y sociedades deportivas estatales, debiendo ser por lo menos una la que represente y se dedique exclusivamente al deporte para personas con discapacidad.
 
 El consejo estatal contará con un secretario técnico, quien será designado por el presidente y participará en las sesiones únicamente con derecho a voz.
 
@@ -1318,3 +1320,11 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 259/2020 POR EL QUE SE MODIFICA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN, EN MATERIA DE INCLUSIÓN”.]
+
+Artículo único. Entrada en vigor
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
