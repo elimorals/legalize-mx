@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-transmision-124714"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-07"
-last_updated: "2018-06-28"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124714&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-13"
 
 ESTATUTO ORGÁNICO DE CFE TRANSMISIÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2020.
 
 Estatuto publicado en la Primera Sección al Número 6 del Diario Oficial de la Federación, el jueves 7 de diciembre de 2017.
 
@@ -255,9 +255,17 @@ f) Gerencia Regional de Transmisión Central;
 
 g) Gerencia Regional de Transmisión Oriente;
 
-h) Gerencia Regional de Transmisión Sureste, y
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2020)</small>
 
-i) Gerencia Regional de Transmisión Peninsular.
+h) Gerencia Regional de Transmisión Sureste;
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2020)</small>
+
+i) Gerencia Regional de Transmisión Peninsular, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 2020)</small>
+
+j) Gerencia Regional de Transmisión Valle de México.
 
 Las demás Empresas Filiales y unidades de negocio que lleguen a crearse de conformidad con las disposiciones jurídicas aplicables.
 
@@ -923,21 +931,7 @@ h) Superintendencia Zona de Operación de Transmisión Guerrero Morelos, y
 
 i) Superintendencia Zona de Operación de Transmisión Puebla Tlaxcala.
 
-j) Subgerencia Regional de Transmisión Valle de México
-
-j.1) Superintendencia Zona de Transmisión Valle de México Sur;
-
-j.2) Superintendencia Zona de Transmisión Valle de México Centro;
-
-j.3) Superintendencia Zona de Transmisión Valle de México Norte;
-
-j.4) Superintendencia Zona de Transmisión Valle de México Centro Oriente;
-
-j.5) Superintendencia Zona de Operación de Transmisión Metropolitana;
-
-j.6) Superintendencia Zona de Operación de Transmisión Toluca, y
-
-j.7) Superintendencia Zona de Operación de Transmisión Pachuca.
+j) (DEROGADO, D.O.F. 22 DE JULIO DE 2020)
 
 VII. Gerencia Regional de Transmisión Oriente:
 
@@ -994,6 +988,24 @@ g) Superintendencia Zona de Operación de Transmisión Yucatán;
 h) Superintendencia Zona de Operación de Transmisión Cancún, y
 
 i) Superintendencia Zona de Operación de Transmisión Chetumal.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 22 DE JULIO DE 2020)</small>
+
+X. Gerencia Regional de Transmisión Valle de México:
+
+a) Superintendencia Zona de Transmisión Valle de México Norte;
+
+b) Superintendencia Zona de Transmisión Valle de México Centro;
+
+c) Superintendencia Zona de Transmisión Valle de México Centro Oriente;
+
+d) Superintendencia Zona de Transmisión Valle de México Sur;
+
+e) Superintendencia Zona de Operación de Transmisión Metropolitana;
+
+f) Superintendencia Zona de Operación de Transmisión Toluca, y
+
+g) Superintendencia Zona de Operación de Transmisión Pachuca.
 
 I. La Gerencia Regional de Transmisión Baja California tiene competencia territorial en el Estado de Baja California en los municipios de Ensenada, Mexicali, Tecate, Tijuana, Playas de Rosarito, del Estado de Baja California Sur, en los municipios de La Paz, Loreto, Los Cabos, Comondú, Mulegé, del Estado de Sonora en los municipios de General Plutarco Elías Calles, Puerto Peñasco y San Luis Río Colorado.
 
@@ -1121,7 +1133,9 @@ g) La Superintendencia Zona de Transmisión San Luis Potosí tiene competencia t
 
 VI. La Gerencia Regional de Transmisión Central tiene competencia territorial en el Estado de Estado de México en el Municipio de Ecatepec de Morelos, Apaxco, Hueypoxtla, Coacalco de Berriozábal, Otumba, Tepetlaoxtoc, Axapusco, Temascalapa, Nextlalpan, San Martín de las Pirámides, Jaltenco, Zumpango, Tequixquiac, Tultitlán, Coyotepec, Cuautitlán Izcalli, Cuautitlán, Texcoco, Tlalnepantla de Baz, Amecameca, Teotihuacán, Nezahualcóyotl, Naucalpan de Juárez, Chiautla, Acolman, Atenco, Tezoyuca, Tepetlixpa, Juchitepec, Ecatzingo, Acambay, Aculco, Chapa de Mota, Huehuetoca, Jilotepec, Nicolás Romero, Polotitlán, Soyaniquilpan De Juárez, Timilpan, Villa del Carbón, Almoloya de Alquisiras, Almoloya de Juárez, Amanalco, Amatepec, Atlacomulco, Donato Guerra, El Oro, Huixquilucan, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Lerma, Ocoyoacac, Otzoloapan, Otzolotepec, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón De Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Texcaltitlan, Tlatlaya, Toluca, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec, Atizapán de Zaragoza, Atizapán, Chicoloapan, Jilotzingo, Melchor Ocampo, Tecámac, Teoloyucan, Tepotzotlán, Tultepec, Calimaya, Metepec, Ocuilan, Tenancingo, Tenango del Valle, Tianguistenco, La Paz, Chimalhuacán, Chalco e Ixtapaluca; en el Estado de Hidalgo en el Municipio de Acaxochiitlán, Cuautepec de Hinojosa, Tizayuca, Tepeapulco, Apan, Singuilucan, Zempoala, Tula de Allende, Tulancingo de Bravo, Nopala de Villagrán, Actopan, Ajacuba, Atitalaquia, Atotonilco de Tula, Epazoyucan, Huichapan, Ixmiquilpan, Jacala de Ledezma, La Misión, Mineral de la Reforma, Mineral del Monte, Pachuca de Soto, Pacula, Pisaflores, San Agustín Tlaxiaca, Santiago de Anaya, Tasquillo, Tecozautla, Tepeapulco, Tepeji del Río de Ocampo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, Zimapán, Atotonilco El Grande, Mineral del Chico, Molango de Escamilla, Omitlan de Juárez, Metepec, Tolcayuca, Francisco I. Madero y San Salvador; en el Estado de Puebla en el Municipio de San Martín Texmelucan, Tlahuapan, Chiautzingo, Chignahuapan, San Salvador El Verde, Atlixco, Ocoyucan, Puebla, Tochimilco, Cuautlancingo, Tecali De Herrera, Acatzingo, San Miguel Xoxtla, Coronango, Cuautinchán, Amozoc, Acajete, Atoyatempan, Huitziltepec, San Salvador Huixcolotla, Tecamachalco, Tepeaca, Tepeyahualco de Cuauhtémoc, Tlanepantla, Tochtepec, Tzicatlacoyan, Acatlán, Esperanza, Huejotzingo, Izúcar de Matamoros, Libres, Palmar de Bravo, Quecholac, San Andrés Cholula, San Pedro Cholula, Santa Isabel Cholula, Tehuacán, Tepexi de Rodríguez, Tlacotepec de Benito Juárez, Zinacatepec, Tehuitzingo, Santa Inés Ahuatempan, Chietla, Tepeojuma, Huauchinango, Juan Galindo, Xicotepec y Ahuazotepec; en el Estado de Tlaxcala en el Municipio de, Tlaxco, Benito Juárez, Apizaco, Calpulalpan, Emiliano Zapata, Nanacamilpa De Mariano Arista, Altzayanca, Mazatecochco De José María Morelos, Papalotla De Xicohténcatl, San Pablo Del Monte, Tetla De Solidaridad, Cuapiaxtla, Huamantla, Cuaxomulco, San José Teacalco, Contla De Juan Cuamatzi, Chiautempan, Natívitas, Zacatelco, San Francisco Tetlanohcan, Teolocholco, Panotla, Tlaxcala, Tzompantepec, Xaloztoc, Santa Ana Nopalucan y Santa Isabel Xiloxoxtla; en el Estado de Querétaro en el municipio de San Juan Del Río, Pedro Escobedo, El Marqués, Corregidora, Cadereyta De Montes, Colón, Ezequiel Montes, Huimilpan, Querétaro y Tequisquiapan; en el Estado de Guanajuato en el Municipio de Acámbaro, Apaseo el Grande, Apaseo el Alto, Celaya, Comonfort, Coroneo, Cortazar, Villagrán, Salamanca, Salvatierra, San Luis de la Paz, San Miguel de Allende, San José Iturbide, San Diego de La Unión, San Felipe, Santiago Maravatío, Santa Cruz de Juventino Rosas, Dolores Hidalgo Cuna de la Independencia Nacional, Irapuato, Valle de Santiago, Moroleón, Jerécuaro, Jaral del Progreso, Tarimoro, Tarandacuao, Uriangato y Yuriria; en el Estado de Morelos en el Municipio de Yautepec, Cuautla, Ayala, Tlayacapan, Tepoztlán, Tetela Del Volcán, Huitzilac, Xochitepec, Puente De Ixtla, Amacuzac, Ocuituco, Zacualpan De Amilpas, Jiutepec, Emiliano Zapata, Mazatepec, Jantetelco, Yecapixtla, Totolapan, Tlaltizapán De Zapata, Jojutla, Jonacatepec, Cuernavaca, y Temixco; en el Estado de Guerrero en el Municipio de Buenavista de Cuéllar, Huitzuco de los Figueroa, Iguala de la Independencia, Tepecoacuilco de Trujano, Apaxtla de Castrejón, Taxco de Alarcón, La Unión de Isidoro Montes de Oca, Zihuatanejo de Azueta, Petatlán, Tecpan de Galeana, Benito Juárez, Coyuca de Benítez, Acapulco de Juárez, Chilpancingo de los Bravo, Eduardo Neri, Quechultenango, Ayutla de los Libres, Tecoanapa, Mochitlán, General Heliodoro Castillo, Tixtla de Guerrero, Chilapa de Alvarez, Atlixtac, Tlapa de Comonfort, Xalpatláhuac, Alcozauca de Guerrero, Metlatónoc, Alpoyeca, Huamuxtitlán, Ahuacuotzingo, Cualác, Olinalá, San Luis Acatlán, Malinaltepec, San Marcos, Florencio Villareal, Copala, Marquelia, Juchitán, Azoyú, Ometepec, Tlacoachistlahuaca, Iliatenco, Juan R. Escudero, Arcelia, Coyuca de Catalán, Cutzamala de Pinzón, General Canuto A. Neri, Pungarabato, San Miguel Totolapan, Teloloapan, Tlalchapa y Tlapehuala; en el Estado de Michoacán en el Municipio de Huetamo, San Lucas, Susupuato, Tiquicheo, Tlalpujahua, Tuzantla y Contepec; en la Ciudad de México en la Delegación Gustavo A. Madero, Coyoacán, Alvaro Obregón, Cuauhtémoc, Miguel Hidalgo, Iztapalapa, Xochimilco, Cuajimalpa de Morelos, Tlalpan, Venustiano Carranza, Milpa Alta, Magdalena Contreras, Azcapotzalco, Benito Juárez, Tláhuac e Iztacalco.
 
-La Gerencia Regional de Transmisión Central cuenta con las siguientes Superintendencias y una Subgerencia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JULIO DE 2020)</small>
+
+La Gerencia Regional de Transmisión Central cuenta con las siguientes Superintendencias:
 
 a) Superintendencia Zona de Transmisión Centro;
 
@@ -1137,7 +1151,7 @@ f) Superintendencia Zona de Transmisión Guerrero;
 
 g) Superintendencia Zona de Transmisión Estado de México, y
 
-h) Subgerencia Regional de Transmisión Valle de México.
+h) (DEROGADO, D.O.F. 22 DE JULIO DE 2020)
 
 a) La Superintendencia Zona de Transmisión Centro tiene competencia territorial en el Estado de Hidalgo en los municipios de Acaxochitlán, Cuautepec de Hinojosa, Atitalaquia, Atotonilco de Tula, Tizayuca, Tepeapulco, Apan, Singuilucan, Zempoala, Tula de Allende y Tulancingo de Bravo, del Estado de México en los municipios de Ecatepec de Morelos, Apaxco, Hueypoxtla, Coacalco Berriozábal, Otumba, Tepetlaoxtoc, Axapusco, Temascalapa, Nextlalpan, San Martín de las Pirámides, Jaltenco, Zumpango, Tequixquiac, Tultitlán, Coyotepec, Cuautitlán Izcalli, Cuautitlán, Texcoco, Tlalnepantla de Baz, Amecameca, Teotihuacán, Netzahualcóyotl, Naucalpan de Juárez, Chiautla, Acolman, Atenco y Tezoyuca, en el Estado de Tlaxcala en los municipio (sic) de Tlaxco, Benito Juárez, Apizaco, Calpulalpan, Emiliano Zapata y Nanacamilpa de Mariano Arista, en el Estado de Puebla en los municipios de San Martín Texmelucan, Tlahuapan, Chiautzingo, Chignahuapan y San Salvador El Verde y en la Ciudad de México en las Delegaciones Gustavo A. Madero, Coyoacán, Alvaro, Obregón, Cuauhtémoc, Miguel Hidalgo, Iztapalapa, Xochimilco, Cuajimalpa de Morelos, Tlalpan y Venustiano Carranza.
 
@@ -1153,23 +1167,15 @@ f) La Superintendencia Zona de Transmisión Guerrero tiene competencia territori
 
 g) La Superintendencia Zona de Transmisión Estado de México tiene competencia territorial en el Estado de México en los municipio (sic) de Almoloya de Alquisiras, Almoloya de Juárez, Amanalco, Amatepec, Atlacomulco, Donato Guerra, El Oro, Huixquilucan, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Lerma, Naucalpan de Juárez, Ocoyoacac, Otzoloapan, Otzolotepec, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Texcaltitlán, Tlatlaya, Toluca, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan y Zinacantepec, en el Estado de Michoacán en los municipios de Huetamo, San Lucas, Susupuato, Tiquicheo, Tlalpujahua y Tuzantla, en el Estado de Guerrero en los municipios de Arcelia, Coyuca de Catalán, Cutzamala de Pinzón, General Canuto A. Neri, Pungarabato, San Miguel Totolapan, Teloloapan, Tlalchapa y Tlapehuala y de la Ciudad de México en las Delegaciones Alvaro Obregón, Coyoacán, Cuajimalpa de Morelos, Magdalena Contreras y Tlalpan.
 
-La Subgerencia Regional de Transmisión Valle de México cuenta con las siguientes Superintendencias.
+(DEROGADO [N. DE E. SEGUNDO PÁRRAFO DEL INCISO G) CON SUS INCISOS], D.O.F. 22 DE JULIO DE 2020)
 
-a) Superintendencia Zona de Transmisión Valle de México Norte
+a) (DEROGADO, D.O.F. 22 DE JULIO DE 2020)
 
-b) Superintendencia Zona de Transmisión Valle de México Sur
+b) (DEROGADO, D.O.F. 22 DE JULIO DE 2020)
 
-c) Superintendencia Zona de Transmisión Valle de México Centro
+c) (DEROGADO, D.O.F. 22 DE JULIO DE 2020)
 
-d) Superintendencia Zona de Transmisión Valle de México Centro Oriente
-
-a) La Superintendencia Zona de Transmisión Valle de México Norte tiene competencia territorial en el Estado de México en los municipios de Acolman, Apaxco, Atizapán de Zaragoza, Atizapán, Coacalco de Berriozábal, Coyotepec, Cuautitlán Izcalli, Chicoloapan, Ecatepec de Morelos, Huehuetoca, Huixquilucan, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nicolás Romero, Tecámac, Teoloyucan, Tepotzotlán, Tequixquiac, Texcoco, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango y en el Estado de Hidalgo en los municipios Atitalaquia, Atotonilco de Tula, Tepeji del Rio de Ocampo y Tula de Allende y en la Ciudad de México en las Delegaciones de Azcapotzalco, Cuauhtémoc, Gustavo A. Madero y Venustiano Carranza.
-
-b) La Superintendencia Zona de Transmisión Valle de México Sur tiene competencia territorial en el Estado de México en el municipio de Almoloya de Juárez, Atizapán, Calimaya, El Oro, Huixquilucan, Ixtlahuaca, Lerma, Metepec, Naucalpan de Juárez, Ocuilan, Otzolotepec, San Felipe del Progreso, San Mateo Atenco, Tenancingo, Tenango del Valle, Tianguistenco, Toluca, Xonacatlan y Zinacantepec, en el Estado de Michoacan en el municipio de Contepec, en el Estado de Morelos en el municipio de Cuernavaca, Emiliano Zapata, Huitzilac y Temixco y el (sic) Ciudad de México, Alvaro Obregón, Benito Juárez, Coyoacán, Cuajimalpa de Morelos, Cuauhtémoc, Iztapalapa, Magdalena Contreras, Miguel Hidalgo, Tláhuac, Tlalpan, Xochimilco.
-
-c) La Superintendencia Zona de Transmisión Valle de México Centro tiene competencia territorial en el Estado de México en los municipios de Amecameca, Naucalpan de Juárez, Tlalnepantla de Baz, Huixquilucan, Nezahualcóyotl, La Paz, Chimalhuacán, Chalco, Ecatepec de Morelos, Ixtapaluca, Teotihuacán, Otumba, Texcoco y Acolman, en la Ciudad de México en las delegaciones Gustavo A. Madero, Cuauhtémoc, Venustiano Carranza, Azcapotzalco, Miguel Hidalgo, Alvaro Obregón, Iztacalco e Iztapalapa.
-
-d) La Superintendencia Zona de Transmisión Valle de México Centro Oriente tiene competencia territorial en el Estado de Hidalgo en los municipios de Pachuca de Soto, Singuilucan, Mineral de la Reforma, Tulancingo de Bravo, Actopan, San Agustín Tlaxiaca, Tepeapulco, Cuautepec de Hinojosa, Tizayuca, Tula de Allende, Tepeji del Río de Ocampo, Atotonilco El Grande, Atotonilco de Tula, Mineral del Chico, Tlahuelilpan, Mineral del Monte, Molango de Escamilla, Omitan de Juárez, Metepec, Tolcayuca, Ajacuba, Francisco I. Madero , San Salvador e Ixmiquilpan y en el Estado de Puebla en los municipios de Huauchinango, Juan Galindo, Xicotepec y Ahuazotepec.
+d) (DEROGADO, D.O.F. 22 DE JULIO DE 2020)
 
 VII. La Gerencia Regional de Transmisión Oriente tiene competencia territorial en los Estados de Hidalgo en los municipios Acaxochitlán, Agua Blanca de Iturbide, Huehuetla, Huejutla de Reyes, Metepec, Pisaflores y San Bartolo Tutotepec. En el Estado (sic) Oaxaca en los municipios de Acatlán de Pérez Figueroa, Cosolapa, Loma Bonita, San Felipe Jalapa de Díaz, San José Chiltepec, San Juan Bautista Tuxtepec, San Juan Bautista Valle Nacional, San Lucas Ojitlán y San Miguel Soyaltepec. En el Estado de Puebla en los municipios de Acateno, Atempan, Atzala, Atzitzintla, Ayotoxco de Guerrero, Cañada Morelos, Chalchicomula de Sesma, Chapulco, Chiconcuautla, Chignahuapan, Chignautla, Cuyoaco, Eloxochitlán, Esperanza, Francisco Z. Mena, Huauchinango, Hueyapan, Hueytamalco, Jalpan, Jopala, Libres, Naupan, Nicolás Bravo, Ocotepec, Palmar de Bravo, Quecholac, San Sebastián Tlacotepec, Tenampulco, Tepeyahualco, Teteles de Avila Castillo, Teziutlán, Tlaola, Tlatlauquitepec, Venustiano Carranza, Vicente Guerrero, Xicotepec, Xiutetelco, Yaonahuac, Zacapoaxtla, Zacatlán, Zaragoza, Zihuateutla, Zoquiapan y Zoquitlán. En el Estado de San Luis Potosí en los municipios de Aquismón, Axtla de Terrazas, Ciudad Valles, Ebano, El Naranjo, Huehuetlán, Matlapa, Rayón, Rioverde, San Antonio, San Vicente Tancuayalab, Tamasopo, Tamazuchale, Tampacán, Tampamolón Corona, Tamuín y Tanlajás. En el Estado de Tabasco en el municipio de Huimanguillo. En el Estado (sic) Tamaulipas en los municipios de Aldama, Altamira, Antiguo Morelos, Ciudad Madero, El Mante, González, Nuevo Morelos y Tampico. En el Estado de Tlaxcala en los municipios de Atltzayanca, Tetla de la Solidaridad y Terrenate. En el Estado (sic) Veracruz en los municipios de Acajete, Acayucan, Actopan, Acultzingo, Agua Dulce, Alamo Temapache, Alto Lucero de Gutiérrez Barrios, Altotonga, Alvarado, Amatlán de los Reyes, Angel R. Cabada, Apazapan, Astacinga, Atoyac, Atzacan, Banderilla, Boca del Río, Camarón de Tejeda, Castillo de Teayo, Catemaco, Cerro Azul, Chalma, Chicontepec, Chinameca, Chocamán, Coacoatzintla, Coatepec, Coatzacoalcos, Coatzintla, Córdoba, Cosamaloapan, Coscomatepec, Cosoleacaque, Cotaxtla, Cuichapa, Cuitláhuac, El Higo, Emiliano Zapata, Espinal, Fortín, Gutiérrez Zamora, Hidalgotitlán, Huatusco, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Isla, Ixhuatlán de Madero, Ixhuatlán del Sureste, Ixhuatlancillo, Ixtaczoquitlán, Jalacingo, Jáltipan, Jesús Carranza, Jilotepec, Juan Rodríguez Clara, Juchique de Ferrer, La Antigua, Las Choapas, Las Minas, Las Vigas de Ramírez, Lerdo de Tejada, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Martínez de la Torre, Medellín de Bravo, Minatitlán, Misantla, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naolinco, Naranjal, Naranjos-Amatlán, Nogales, Oluta, Omealca, Orizaba, Oteapan, Ozuluama, Pánuco, Papantla, Paso del Macho, Perote, Platón Sánchez, Playa Vicente, Poza Rica de Hidalgo, Pueblo Viejo, Puente Nacional, Rafael Delgado, Río Blanco, San Andrés Tuxtla, San Juan Evangelista, Santiago Tuxtla, Sayula de Alemán, Soconusco, Soledad de Doblado, Tamalín, Tampico Alto, Tantima, Tancoco, Tantoyuca, Tatatila, Tecolutla, Tehuipango, Tempoal, Tepetlán, Tepetzintla, Tezonapa, Tierra Blanca, Tihuatlán, Tlacolulan, Tlacotalpan, Tlalixcoyan, Tlalnelhuayocan, Tlaquilpa, Tres Valles, Tuxpan, Vega de Alatorre, Xalapa, Yanga, Yecuatla, Zongolica.
 
@@ -1255,6 +1261,28 @@ e) La Superintendencia Zona de Transmisión Campeche tiene competencia territori
 
 f) La Superintendencia Zona de Transmisión Escárcega tiene competencia territorial en el Estado de Campeche, en los municipios de Calakmul, Escárcega, Candelaria, Champotón, Palizada y Carmen.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 22 DE JULIO DE 2020)</small>
+
+X. La Gerencia Regional de Transmisión Valle de México tiene competencia territorial en el Estado de Estado (sic) de México en el Municipio de Ecatepec de Morelos, Apaxco, Coacalco de Berriozábal, Otumba, Temascalapa, Zumpango, Tequixquiac, Tultitlán, Coyotepec, Cuautitlán Izcalli, Texcoco, Tlalnepantla de Baz, Amecameca, Teotihuacán, Nezahualcóyotl, Naucalpan de Juárez, Acolman, Huehuetoca, Nicolás Romero, Villa del Carbón, Almoloya de Juárez, El Oro, Huixquilucan, Ixtlahuaca, Lerma, Otzolotepec, San Felipe del Progreso, San Mateo Atenco, Toluca, Xonacatlán, Zinacantepec, Atizapán de Zaragoza, Atizapán, Chicoloapan, Jilotzingo, Melchor Ocampo, Tecámac, Teoloyucan, Tepotzotlán, Tultepec, Calimaya, Metepec, Ocuilan, Tenancingo, Tenango del Valle, Tianguistenco, La Paz, Chimalhuacán, Chalco e Ixtapaluca; en el Estado de Hidalgo en el Municipio de Acaxochiitlán (sic), Cuautepec de Hinojosa, Tizayuca, Singuilucan, Tula de Allende, Tulancingo de Bravo, Actopan, Ajacuba, Atitalaquia, Atotonilco de Tula, Ixmiquilpan, Mineral de la Reforma, Mineral del Monte, Pachuca de Soto, San Agustín Tlaxiaca, Tepeapulco, Tepeji del Río de Ocampo, Tlahuelilpan, Atotonilco El Grande, Mineral del Chico, Molango de Escamilla, Omitlan de Juárez, Metepec, Tolcayuca, Francisco I. Madero y San Salvador; en el Estado de Puebla en el Municipio Huauchinango, Juan Galindo, Xicotepec y Ahuazotepec; en el Estado de Morelos en el Municipio de Emiliano Zapata, Huitzilac, Cuernavaca, y Temixco; en el Estado de Michoacán en el Municipio de Contepec; en la Ciudad de México en las Alcaldías Gustavo A. Madero, Coyoacán, Álvaro Obregón, Cuauhtémoc, Miguel Hidalgo, Iztapalapa, Xochimilco, Cuajimalpa de Morelos, Tlalpan, Venustiano Carranza, Magdalena Contreras, Azcapotzalco, Benito Juárez, Tláhuac, Milpa Alta e Iztacalco.
+
+La Gerencia Regional de Transmisión Valle de México cuenta con las siguientes Superintendencias:
+
+a) Superintendencia Zona de Transmisión Valle de México Norte;
+
+b) Superintendencia Zona de Transmisión Valle de México Centro;
+
+c) Superintendencia Zona de Transmisión Valle de México Centro Oriente,
+
+d) Superintendencia Zona de Transmisión Valle de Sur.
+
+a) La Superintendencia Zona de Transmisión Valle de México Norte tiene competencia territorial en el Estado de México en los municipios de Acolman, Apaxco, Atizapán de Zaragoza, Atizapán, Coacalco de Berriozábal, Coyotepec, Cuautitlán Izcalli, Chicoloapan, Ecatepec de Morelos, Huehuetoca, Huixquilucan, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nicolás Romero, Tecámac, Teoloyucan, Tepotzotlán, Tequixquiac, Texcoco, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango y en el Estado de Hidalgo en los municipios Atitalaquia, Atotonilco de Tula, Tepeji del Río de Ocampo y Tula de Allende y en la Ciudad de México en las Alcaldías de Azcapotzalco, Cuauhtémoc, Gustavo A. Madero y Venustiano Carranza.
+
+b) La Superintendencia Zona de Transmisión Valle de México Centro tiene competencia territorial en el Estado de México en los municipios de Amecameca, Naucalpan de Juárez, Tlalnepantla de Baz, Huixquilucan, Nezahualcóyotl, La Paz, Chimalhuacán, Chalco, Ecatepec de Morelos, Ixtapaluca, Teotihuacán, Otumba, Texcoco y Acolman, en la Ciudad de México en las Alcaldías Gustavo A. Madero, Cuauhtémoc, Venustiano Carranza, Azcapotzalco, Miguel Hidalgo, Álvaro Obregón, Iztacalco e Iztapalapa.
+
+c) La Superintendencia Zona de Transmisión Valle de México Centro Oriente tiene competencia territorial en el Estado de Hidalgo en los municipios de Pachuca de Soto, Singuilucan, Mineral de la Reforma, Tulancingo de Bravo, Actopan, San Agustín Tlaxiaca, Tepeapulco, Cuautepec de Hinojosa, Tizayuca, Tula de Allende, Tepeji del Río de Ocampo, Atotonilco El Grande, Atotonilco de Tula, Mineral del Chico, Tlahuelilpan, Mineral del Monte, Molango de Escamilla, Omitan de Juárez, Metepec, Tolcayuca, Ajacuba, Francisco I. Madero, San Salvador e Ixmiquilpan y en el Estado de Puebla en los municipios de Huauchinango, Juan Galindo, Xicotepec y Ahuazotepec.
+
+d) La Superintendencia Zona de Transmisión Valle de México Sur tiene competencia territorial en el Estado de México en el municipio de Almoloya de Juárez, Atizapán, Calimaya, El Oro, Huixquilucan, Ixtlahuaca, Lerma, Metepec, Naucalpan de Juárez, Ocuilan, Otzolotepec, San Felipe del Progreso, San Mateo Atenco, Tenancingo, Tenango del Valle, Tianguistenco, Toluca, Xonacatlán y Zinacantepec, en el Estado de Michoacán en el municipio de Contepec, en el Estado de Morelos en el municipio de Cuernavaca, Emiliano Zapata, Huitzilac y Temixco y en la Ciudad de México, las Alcaldías Álvaro Obregón, Benito Juárez, Coyoacán, Cuajimalpa de Morelos, Cuauhtémoc, Iztapalapa, Magdalena Contreras, Miguel Hidalgo, Tláhuac, Tlalpan, Xochimilco y Milpa Alta.
+
 ###### Artículo 27.
 
 A los Titulares de las Gerencias Regionales de Transmisión y de las Superintendencias de Zona, les corresponden en el ámbito de su competencia las funciones genéricas siguientes:
@@ -1281,9 +1309,17 @@ X. Suscribir los contratos de interconexión y conexión que el CENACE instruya 
 
 XI. Coadyuvar a la implementación del Sistema de Control Interno y promover el fortalecimiento de la cultura de control;
 
-XII. Acordar con el Director General el despacho de los asuntos a su cargo, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 22 DE JULIO DE 2020)</small>
 
-XIII. Las demás que emita el Consejo o el Director General, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
+XII. Proporcionar la información solicitada por autoridad competente o por otras áreas de la CFE Transmisión o de la Comisión, y cotejar y expedir constancias de los documentos que obren en los archivos de su área, asimismo expedir, a petición del interesado, copias certificadas de los documentos que obren en sus archivos, en términos de lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Transparencia y Acceso a la Información Pública.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 22 DE JULIO DE 2020)</small>
+
+XIII. Acordar con el Director General el despacho de los asuntos a su cargo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 22 DE JULIO DE 2020)</small>
+
+XIV. Las demás que emita el Consejo o el Director General, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
 
 Las funciones señaladas en las fracciones I, II, III, IV, V y IX a que este precepto se refiere también podrán ser ejercidas por los Titulares de las Subgerencias Regionales de Administración.
 
@@ -1432,3 +1468,7 @@ D.O.F. 28 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DE LAS "ADICIONES DEL ESTATUTO ORGÁNICO DE CFE TRANSMISIÓN, PUBLICADO EL 7 DE DICIEMBRE DE 2017".]
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JULIO DE 2020.
+
+> <small>[N. DE E. LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE CFE TRANSMISIÓN", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
