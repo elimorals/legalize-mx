@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-gobierno-del-poder-legislativo-del-8401
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2020-06-09"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 1 de diciembre de 2011.
 
@@ -113,9 +113,13 @@ XXVI.- Reunión de trabajo: la que realizan los órganos del Congreso, para trat
 
 XXVII.- Secretaría General: la Secretaría General del Poder Legislativo del Estado de Yucatán;
 
-XXVIII.- Sesión: la que realizan los órganos del Congreso legalmente constituido, cumpliendo las formalidades establecidas en este Reglamento;
+> <small>(REFORMADA, D.O. 22 DE JULIO DE 2020)</small>
 
-XXIX.- Sistema Electrónico: el Registro de Asistencia, Votación y Audio Automatizado que utilizan de (sic) los diputados en las sesiones del Pleno;
+XXVIII.- Sesión: la que realizan los órganos del congreso legalmente constituido, cumpliendo las formalidades establecidas en este reglamento; las cuales podrán ser presenciales en el lugar que ocupe el recinto legislativo o fuera del recinto legislativo mediante las tecnologías de la información y la comunicación tanto en pleno como en las comisiones;
+
+> <small>(REFORMADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXIX.- Sistema Electrónico: el Registro de Asistencia, Votación y Audio Automatizado que utilizan los diputados, de manera presencial, en las sesiones del pleno. Así como la plataforma o tecnología de la información utilizada en las sesiones fuera del recinto legislativo;
 
 XXX.- Suplencia: el mecanismo de ocupación del cargo de diputado, que se presenta cuando el propietario fallece, está imposibilitado física o jurídicamente, o por la autorización de una licencia;
 
@@ -1325,6 +1329,186 @@ VI. Una vez finalizados los cuestionamientos la servidora o servidor público co
 
 VII. Una vez realizada la comparecencia, se levantará un acta en la que se hará constar todo lo sucedido en la misma, y se dará vista a la autoridad competente, para los efectos legales correspondientes.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 22 DE JULIO DE 2020)</small>
+
+#### Sección Décimo Cuarta
+
+Del procedimiento de las sesiones del pleno y comisiones fuera del recinto legislativo mediante el uso de las tecnologías de la información y la comunicación.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Ter.
+
+Las sesiones fuera del recinto legislativo que celebre el Congreso del Estado se realizan mediante la tecnología de la información y la comunicación o plataforma del sistema electrónico cuando, por las causas expresadas en la ley, los integrantes de la legislatura interactúan de manera remota como usuarios para tratar y resolver los asuntos enlistados para su trámite y resolución.
+
+En todos los casos que la presente sección señale a sesiones fuera del recinto legislativo se entenderá que son las que se realizan mediante el uso de las tecnologías de la información y la comunicación o la plataforma del sistema electrónico legislativo dispuesto para tal fin.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Quáter.
+
+Las sesiones solo podrán realizarse mediante las tecnologías de la información y la comunicación o plataforma del sistema electrónico que para tal efecto instale, disponga o proporcione el personal del Congreso del Estado de Yucatán a las y los diputados.
+
+Los medios tecnológicos a los que hace referencia el presente artículo deberán contemplar un soporte técnico amplio que garantice su ininterrupción; así como ser susceptibles de transmitirse mediante las diversas plataformas o aplicaciones streaming de acceso público disponibles en la internet.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Quinquies.
+
+Las tecnologías de la información y la comunicación o la plataforma del sistema electrónico utilizado por las y los diputados deberán contar con un nombre usuario y contraseña como medio de identificación que garantice la seguridad en el registro dentro de la sesión, el uso y al efectuar las votaciones a las que hace referencia esta sección.
+
+Una vez registrado el nombre del usuario a las tecnologías de la información y la comunicación o plataforma del sistema electrónico, aquél, tendrá el carácter de intransferible y no podrá ser utilizado por persona distinta a la o el diputado, bajo su estricta responsabilidad.
+
+El mal uso y daño ocasionado se sancionará en términos de las leyes aplicables.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Sexies.
+
+El Congreso del Estado de Yucatán, a través del área encargada, verificará que las y los diputados, cuenten con las condiciones técnicas para operar y utilizar de manera óptima la tecnología de la información y la comunicación o plataforma del sistema electrónico para sesionar desde cualquier punto del Estado de Yucatán mediante una red de internet fijo, inalámbrico o de fibra óptica.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Septies.
+
+Las sesiones del pleno fuera del recinto legislativo se iniciarán en la fecha y hora fijada en la convocatoria por la o el Presidente de la Mesa Directiva o de la diputación permanente del Honorable Congreso del Estado de Yucatán o quien pueda suplirlo en términos de la ley. La referida convocatoria podrá ser de manera física o digital y en ella se incluirá el orden del día.
+
+Para el caso de que la convocatoria a dicha sesión sea física deberá contener la firma autógrafa de la o el Presidente de la Mesa Directiva, en caso de ser digital bastará con el solo documento electrónico en el que se especifique la fecha y hora de celebración de la sesión fuera del recinto legislativo, así como los asuntos a tratar.
+
+Cuando las condiciones lo permitan, la convocatoria digital deberá ser enviada a los correos institucionales de las y los diputados o ante la imposibilidad de ello, por cualquier otra tecnología de la información y la comunicación que permita notificar y enterar a los integrantes de la legislatura de dicha sesión.
+
+Cuando se convoque a sesión del pleno fuera del recinto legislativo con motivo y por la afectación de fenómenos naturales, emergencia o catástrofe, previamente decretada por autoridad estatal o federal competente, se dispensarán todas las formalidades contenidas en esta sección y se estará a los acuerdos que tome el Congreso para lograr el desarrollo de la sesión y atender los asuntos más urgentes cuya resolución evite daños al interés público estatal y nacional, principalmente aquellos que tengan que ver con la salud, seguridad pública y administración de justicia.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Octies.
+
+Al inicio de la sesión de pleno fuera del recinto legislativo, se verificará el quórum legal con el respectivo pase de lista en términos del artículo 44 de este reglamento.
+
+Las y los diputados mediante la tecnología de la información y la comunicación o plataforma del sistema electrónico pasarán lista de su asistencia.
+
+Una vez verificado el quórum legal se procederá al desahogo del orden del día en los términos que señale el propio reglamento.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Nonies.
+
+No podrán incluirse asuntos distintos al orden del día en las sesiones del pleno del congreso fuera del recinto legislativo salvo que su inclusión sea aprobada por la mayoría absoluta de las y los diputados.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Decies.
+
+Quien ocupe la Presidencia de la Mesa Directiva moderará las intervenciones de las y los diputados durante el desarrollo de las sesiones del pleno, para ello preservará en todo momento el orden y respeto entre cada uno (sic) los integrantes del pleno conminando a aquel que haga mal uso de la tecnología de la información y la comunicación o plataforma del sistema electrónico.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Undecies.- En las sesiones de Pleno fuera del recinto legislativo no se permitirá el diálogo entre las y los diputados, solamente estará autorizado a intervenir a quien se le otorgue el uso de la voz por parte de la presidencia durante el desarrollo de la sesión.
+
+Quien presida la Mesa Directiva del Congreso podrá solicitar al área encargada del soporte técnico sea retirado el audio a quien, a pesar de haber sido conminado, no guarde el debido orden y respeto hacia las y los diputados integrantes del pleno.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Duodecis.- En las sesiones de Pleno fuera del recinto legislativo para el desahogo de los trámites y discusiones se estará a lo establecido en este reglamento.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Terdecies.- En las sesiones del pleno fuera del recinto legislativo sólo se podrán (sic) abrir discusión respecto a los documentos y solicitudes a las que hace referencia el artículo 88 de este reglamento.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Quaterdecies.- Las votaciones efectuadas por las y los diputados durante las sesiones del pleno fuera del recinto legislativo en términos de esta sección tendrán el carácter de nominales.
+
+Una vez que la o el Presidente de la Mesa Directiva someta a votación un asunto dentro de tal sesión, se concederá un máximo de 5 minutos para efectuarlo.
+
+En caso de que la tecnología de la información y la comunicación o plataforma del sistema electrónico no pueda registrar el sentido de la votación, se hará de manera verbal, indicando la o el diputado el sentido de éste, expresando su nombre completo seguido de SI o NO en cuanto al tema que se aborde.
+
+Si no fuera posible conocer el sentido de la votación de forma verbal a través del audio, podrá expresarse de manera visual el sentido del voto expresado, a fin de que no quede lugar a dudas la manifestación realizada.
+
+Ningún diputado podrá abstenerse de votar, si lo hiciere se tomará como voto en contra.
+
+Para la debida visualización y verificación de las votaciones a las que hace referencia este artículo, la plataforma del sistema electrónico deberá contar con un apartado el cual registre el sentido de la votación, expresando el nombre de cada una de las diputadas y diputados, así como si el voto fue a favor o en contra.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Quinquies Decies.
+
+Las sesiones de pleno fuera del recinto legislativo no podrán interrumpirse, salvo que la o el Presidente dicte un receso, el cual no podrá ser mayor a 30 minutos, por lo que una vez iniciada la sesión deberá continuar hasta su finalización.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Sexies Decies.
+
+Cuando por fuerza mayor, o motivos ajenos a los integrantes del pleno no se pudiera continuar con dicha sesión del pleno a través de las tecnologías de la información y la comunicación o plataforma del sistema electrónico, pasados treinta minutos, quedará suspendida de manera definitiva.
+
+Los asuntos enlistados en el orden del día que hubieren sido resueltos deberán continuar con el trámite correspondiente. Aquellos asuntos no resueltos quedarán enlistados para desahogarse en la próxima sesión presencial o sesión fuera del recinto legislativo del pleno que para efecto dispusiere la o el Presidente de la Mesa Directiva.
+
+Lo señalado en este artículo se observará de igual forma para el caso de que una sesión de comisión fuera del recinto legislativo se vea interrumpida. Para lo no previsto se estará a lo establecido en la ley.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Septies Decies.
+
+Las y los diputados que ostenten el cargo de presidentes tanto de las comisiones permanentes como especiales podrán solicitar a quien ocupe la presidencia de la Mesa Directiva la realización de sesiones de comisión fuera del recinto legislativo.
+
+Dicha solicitud deberá realizarse por escrito, con al menos tres días de anticipación a la fecha en que deba verificarse la sesión de comisión manifestando el o los asuntos a tratar, así como las causas y motivos por lo (sic) que se solicita sesionar de dicha forma. Ninguna sesión de comisión podrá llevarse a cabo en esta modalidad sin la autorización expresa del pleno del congreso.
+
+Lo establecido en el párrafo anterior no será necesario en caso de presentarse alguna de las causas contempladas en el párrafo cuarto del artículo 150 Septies de este reglamento.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 150 Octies Decies.
+
+Las sesiones de comisión fuera del recinto legislativo se iniciarán en la fecha y hora fijada en la convocatoria por la o el Presidente o quien pueda convocar en su lugar de acuerdo a la ley. La referida convocatoria podrá ser de manera física o digital y en ella se incluirán los asuntos a tratar.
+
+Para el caso de que la convocatoria a sesión sea física deberá contener la firma autógrafa de la o el Presidente de la comisión o quien pueda convocar en su lugar de acuerdo a la ley, en caso de ser digital bastará con el solo documento electrónico en el que se especifique la fecha y hora de celebración de la sesión con los asuntos a tratar.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Novies Decies.- Al inicio de la sesión de comisión, se verificará el quorum legal con el respectivo pase de lista en términos del artículo 138 del presente reglamento.
+
+Las y los diputados mediante la tecnología de la información y la comunicación o plataforma del sistema electrónico verificarán de viva voz su asistencia.
+
+Una vez verificado el quorum legal se procederá al desahogo del orden del día en los términos que señale el propio reglamento.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Vicies.- En las sesiones de comisión, la o el Presidente tendrá la conducción, y velará por el orden y respeto entre los integrantes del cuerpo colegiado.
+
+Durante el desarrollo de las sesiones de comisión permanente o especial no se permitirá el diálogo entre las y los diputados, solamente estará autorizado a intervenir a quien la o el Presidente otorgue el uso de la voz.
+
+Quien presida la comisión permanente o especial podrá solicitar al área encargada del soporte técnico sea retirado el audio a quien, a pesar de haber sido conminado, no guarde el debido orden y respeto hacia las y los diputados integrantes de la comisión.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Unvicies.- En las sesiones de comisión para el desahogo de los trámites se estará a lo establecido en este reglamento.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Duovicies.- Para todo lo referente a las votaciones dentro de las sesiones de comisión se estará a lo dispuesto en este capítulo para las sesiones del pleno fuera del recinto legislativo.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Tervicies.- El Secretario General del Poder Legislativo deberá participar en el desarrollo de las sesiones del pleno y comisiones a fin de brindar apoyo técnico parlamentario y jurídico a las y los diputados.
+
+Para tal fin, el área correspondiente del Congreso del Estado de Yucatán garantizará su interacción mediante la tecnología de la información o plataforma del sistema electrónico utilizado durante dichas sesiones.
+
+El Secretario General sólo podrá intervenir directamente a través del audio y video a petición o solicitud expresa que se haga a la o el Presidente de la Mesa Directiva, de la diputación permanente o de la comisión cuando existan dudas respecto al procedimiento legislativo. En todos los demás casos el Secretario General solo dará seguimiento al desarrollo de la sesión.
+
+En la celebración de las sesiones a las que alude la presente sección, con la finalidad de realizar sus actividades y obligaciones, deberán ser informadas las áreas correspondientes al Diario de los Debates, Comunicación Social, los correspondientes a la Secretaria General, la Dirección de Administración y Finanzas, al titular del área encargada de informática y al Instituto de Investigaciones Legislativas.
+
+De igual modo las y los legisladores podrán contar con el apoyo de los secretarios técnicos, en los términos que disponga este reglamento, a fin de garantizar su interacción mediante el uso de las tecnologías de la comunicación y la información o de la plataforma del sistema informático legislativo.
+
+Si dentro de los asuntos tratados en las sesiones contempladas en este artículo fuera necesaria la participación del personal de las demás áreas que conforman el Poder Legislativo del Estado se deberá garantizar su acceso.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Quatervicies.- La Secretaría General a través de la Coordinación de Servicios Parlamentarios llevará el registro de la documentación física y digital que se genere como resultado de las sesiones de pleno y de comisiones fuera del recinto legislativo.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+Artículo 150 Quinvicies.- En todo lo que no se oponga al presente capítulo se aplicará (sic) de manera supletoria los procedimientos y términos establecidos para la celebración presencial de sesión de pleno y comisiones señalados en este reglamento.
+
 ### CAPÍTULO II. De las faltas en comisiones de los Diputados
 
 ###### Artículo 151.
@@ -1810,3 +1994,13 @@ Segundo.- El Congreso del Estado en un plazo que no excederá de 180 días natur
 Sin perjuicio de lo ordenado en el párrafo anterior, los ajustes administrativos y estructurales para dar cumplimiento al presente decreto se harán conforme a la capacidad presupuestal.
 
 Tercero.- Se derogan todas las normas que se opongan al presente decreto.
+
+D.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 260/2020 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE SESIONES FUERA DEL RECINTO LEGISLATIVO”.]
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se instruye al Director General de Administración y Finanzas del Honorable Congreso del Estado de Yucatán para que un plazo no mayor a 15 días, contados a partir de la entrada en vigor de este decreto para que presente a la Junta de Gobierno y Coordinación Política y a la Presidencia de la Mesa Directiva, la plataforma tecnológica que habrá de funcionar para las sesiones a las que se refiere este decreto.
+
+Artículo tercero. La Secretaría General y la Dirección de Administración y Finanzas del Poder Legislativo en conjunto con el área encargada del sistema informático legislativo deberán realizar, periódicamente, simulacros de Sesiones Fuera del Recinto Legislativo mediante el uso de las tecnologías de la información y la comunicación a efecto de mantener actualizadas a las y los diputados en el uso y metodología de las mismas.
