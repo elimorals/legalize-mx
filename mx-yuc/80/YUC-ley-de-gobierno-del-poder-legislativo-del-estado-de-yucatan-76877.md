@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2020-06-09"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -415,9 +415,95 @@ En la apertura de la primera sesión de un período, el Presidente o en su caso 
 
 El Congreso en la clausura del período de sesiones, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán, clausura hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
 
-### CAPÍTULO III. De los Proyectos y Reformas de Leyes, Decretos y Resoluciones del Congreso
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 22 DE JULIO DE 2020)</small>
 
-### CAPÍTULO IV. De los Diputados
+### CAPÍTULO II BIS
+
+De las sesiones fuera del recinto legislativo mediante el uso de las tecnologías de la información y la comunicación.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Quáter.
+
+Se entenderá por sesión fuera del recinto legislativo aquella que se realice mediante la utilización de cualquiera de las tecnologías de información y la comunicación, asociadas a la red de internet en conjunto con el sistema informático legislativo que garanticen tanto la posibilidad de una comunicación simultánea o consecutiva entre las y los diputados mientras transcurra la sesión.
+
+El medio o plataforma tecnológica deberá ser de acceso común a todos los integrantes de forma simultánea, además de contener, para consulta, los archivos electrónicos de los asuntos a tratar en la sesión y la normatividad del congreso.
+
+Las sesiones a las que hace referencia el primer párrafo de este artículo, deberán ser aprobadas por el Pleno del Congreso con el voto de las dos terceras partes de sus integrantes.
+
+Ante la imposibilidad física de que se reúna el Pleno para aprobar la realización de sesiones fuera del Recinto del Poder Legislativo o cuando exista razón fundada para ello, la Junta de Gobierno y Coordinación Política y de la Mesa Directiva, o en su caso, y la diputación permanente, podrán acordar lo correspondiente.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Quinquies.
+
+Podrán sesionar fuera del recinto legislativo:
+
+I. El Pleno del Honorable Congreso del Estado de Yucatán.
+
+II. La diputación permanente.
+
+III. La Junta de Gobierno y Coordinación Política.
+
+IV. Las comisiones permanentes y especiales.
+
+En todos los casos, la celebración a dichas sesiones, deberán informarse oportunamente a todos los integrantes de la legislatura y a todas las áreas que conforman el Poder Legislativo del Estado de manera física o electrónica.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Sexies.
+
+Se podrán realizar sesiones fuera del recinto legislativo cuando así lo disponga el Pleno del Congreso del Estado, a propuesta de la Junta de Gobierno y Coordinación Política, en los siguientes casos:
+
+I. Por causas de fuerza mayor, por afectación de fenómenos naturales, emergencia o catástrofe estatal o nacional, en todos los casos, previamente decretada por las autoridades correspondientes.
+
+II. Sesiones extraordinarias, que a criterio de la Mesa Directiva, sean de carácter urgente.
+
+III. Para salvaguardar el interés público.
+
+Ante la imposibilidad física de que se reúna el pleno del congreso para aprobar la realización de tales sesiones y cuando exista razón fundada para ello, la Junta de Gobierno y Coordinación Política y la Mesa Directiva o, en su caso, y la diputación permanente podrán acordar lo correspondiente, sin perjuicio de lo señalado en el artículo 6 de esta ley.
+
+En las convocatorias que para tal efecto se realicen se deberá señalar el objeto u objetos de esas sesiones, no pudiendo el congreso ocuparse de más asuntos que aquellos para los que fue convocado.
+
+Quedan exceptuados de trámite y desahogo aquellos que versen sobre juicios políticos, empréstitos y las minutas federales de las cámaras de senadores y de diputados del Honorable Congreso de la Unión.
+
+Los presidentes de las comisiones permanentes o especiales, sin perjuicio de los casos señalados en este artículo, podrán solicitar al congreso, la autorización para llevar a cabo sesiones fuera del recinto legislativo de la comisión que presidan, justificando el motivo o importancia.
+
+La Junta de Gobierno y Coordinación Política del Congreso del Estado podrá solicitar al pleno la realización de sus sesiones fuera del recinto legislativo justificando el motivo o importancia de conformidad con las fracciones anteriores de este artículo.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Septies.
+
+Las sesiones fuera del recinto legislativo a las que se refiere este capítulo, una vez verificado el quórum legal, surtirán sus efectos como si se desarrollaran en el salón de sesiones del pleno, de las comisiones o de la sala de reuniones de la Junta de Gobierno y Coordinación Política del recinto del Poder Legislativo. Una vez iniciada una sesión no podrá suspenderse salvo lo dispuesto en este capítulo.
+
+En todas las sesiones fuera del recinto legislativo a las que hace referencia este capítulo, el Secretario General del Poder Legislativo deberá dar seguimiento y podrá participar en caso de que quien presida la sesión requiera del apoyo técnico jurídico.
+
+De igual modo las y los legisladores podrán contar con el apoyo de los secretarios técnicos, en los términos que disponga esta ley, a fin de garantizar su interacción mediante el uso de las tecnologías de la comunicación y la información o de la plataforma del sistema informático legislativo.
+
+Si dentro de los asuntos tratados en las sesiones contempladas en este capítulo, fuera necesaria la participación del personal de las demás áreas que conforman el Poder Legislativo del Estado, se deberá garantizar su acceso mediante las tecnologías de la información y la comunicación o la plataforma del sistema electrónico legislativo.
+
+Las sesiones del Pleno o de las comisiones que se realicen mediante el uso de las tecnologías de la información y comunicación en conjunto con el sistema informático legislativo garantizarán en todo momento, según sea el caso, los principios de parlamento abierto establecidos en la ley y el reglamento.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Octies.
+
+Los dictámenes o minutas de los acuerdos, decretos o leyes, y cualquier otra documentación resuelta por el pleno o comisiones, así como los asuntos aprobados por la Junta de Gobierno y Coordinación Política en sesión fuera del recinto Legislativo, deberán ser firmados a más tardar dentro de los tres días hábiles siguientes a la sesión de que se trate para el trámite legal correspondiente.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 15 Nonies.
+
+En caso de que una sesión fuera del recinto legislativo se interrumpa por causas ajenas y fortuitas y ésta no pueda continuarse, pasados treinta minutos, se tendrá por suspendida, debiéndose levantar la debida constancia por el Secretario General en la cual se expresen los asuntos inconclusos. Dicha constancia deberá hacerse llegar a los correos institucionales de las y los diputados en un plazo no mayor a cuarenta y ocho horas.
+
+Cuando por causas ajenas, fortuitas o de fuerza mayor una diputada o diputado no pueda establecer conexión o comunicación a través de las tecnologías de la información y comunicación o mediante la plataforma del sistema informático legislativo para participar en la (sic) sesiones a las que hace referencia el presente capítulo, pasados sesenta minutos se tendrá por suspendida, debiéndose levantar constancia a la que hace referencia el párrafo anterior.
+
+La suspensión de la sesión, en ambos casos, dará lugar a que los asuntos no tratados puedan llevarse a cabo en una sesión subsecuente.
+
+Para la conducción y desarrollo de las sesiones fuera del recinto legislativo se estará a lo que al efecto disponga esta ley y su reglamento.
+
+### CAPÍTULO III. De los Proyectos y Reformas de Leyes, Decretos y Resoluciones del Congreso
 
 ###### Artículo 16.
 
@@ -445,7 +531,7 @@ Las resoluciones del Congreso tendrán el carácter de leyes y decretos.
 
 El Congreso podrá emitir acuerdos para dar cumplimiento a las atribuciones y funciones del Poder Legislativo, y que por su naturaleza no requieren de sanción y promulgación.
 
-### CAPÍTULO V. De la Mesa Directiva del Congreso
+### CAPÍTULO IV. De los Diputados
 
 ###### Artículo 19.
 
@@ -523,9 +609,7 @@ Cuando sin causa justificada, un Diputado faltare a tres sesiones consecutivas, 
 
 Para suplir a los diputados electos, el Congreso mandará llamar al que deba sustituirlo, conforme a lo establecido en la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán.
 
-### CAPÍTULO VI. De la Diputación Permanente
-
-> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
+### CAPÍTULO V. De la Mesa Directiva del Congreso
 
 #### Sección Primera. De su Conformación y Atribuciones
 
@@ -667,9 +751,9 @@ Los procedimientos para el desahogo de las sesiones del Pleno para los acuerdos,
 
 El vicepresidente auxiliará al Presidente en las distintas tareas correspondientes a la Mesa Directiva y sustituirá al mismo en sus ausencias, faltas, o imposibilidad para desempeñar el cargo, con todas las funciones y condiciones inherentes.
 
-### CAPÍTULO VII. De las Comisiones
+### CAPÍTULO VI. De la Diputación Permanente
 
-> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 36.
 
@@ -703,7 +787,9 @@ La Diputación Permanente celebrará sesiones cuando así lo acuerde, para lo cu
 
 Al inicio del siguiente período ordinario de sesiones el Presidente de la Diputación Permanente rendirá un informe de labores a la Mesa Directiva, sobre los asuntos tratados durante el período de receso, el trámite que se les dio y el estado en que se encuentran.
 
-### CAPÍTULO VIII. De las Fracciones y Representaciones Legislativas
+### CAPÍTULO VII. De las Comisiones
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 41.
 
@@ -1097,9 +1183,7 @@ V.- Contar con estudios de Maestría, preferentemente.
 
 Los dictámenes aprobados en las Comisiones y de los que no llegue a conocer el Pleno de la Legislatura saliente, quedarán a disposición del Pleno de la Legislatura entrante, el cual podrá, en caso de ser necesario, enviarlo de nueva cuenta a la Comisión competente para los efectos legales procedentes.
 
-### CAPITULO IX. De la Designación de los Titulares de los Órganos de Control Interno de los Organismos Constitucionales Autónomos
-
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+### CAPÍTULO VIII. De las Fracciones y Representaciones Legislativas
 
 ###### Artículo 53.
 
@@ -1125,7 +1209,9 @@ Los diputados que dejen de pertenecer a una Fracción o Representación Legislat
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO I. De la Junta de Gobierno y Coordinación Política
+### CAPITULO IX. De la Designación de los Titulares de los Órganos de Control Interno de los Organismos Constitucionales Autónomos
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 56 Bis.
 
@@ -1191,7 +1277,7 @@ Cualquier persona, cuando presuma que los titulares de los órganos de control i
 
 ## TÍTULO TERCERO. GOBIERNO Y ADMINISTRACIÓN DEL PODER LEGISLATIVO
 
-### CAPÍTULO II. De los Órganos Técnicos y Administrativos
+### CAPÍTULO I. De la Junta de Gobierno y Coordinación Política
 
 ###### Artículo 57.
 
@@ -1297,7 +1383,7 @@ VI.- Proveer a la Junta de los asuntos, estudios, análisis y proyectos legislat
 
 VII.- Las demás que deriven de esta Ley, reglamento o que le fueren conferidas por la propia Junta.
 
-### CAPÍTULO III. De las Áreas Administrativas
+### CAPÍTULO II. De los Órganos Técnicos y Administrativos
 
 ###### Artículo 65.
 
@@ -1561,7 +1647,7 @@ III.- Poseer al día del nombramiento, título profesional en el ramo contable o
 
 IV.- No haber sido sentenciado con resolución firme de autoridad judicial competente por la comisión de delito doloso.
 
-### CAPÍTULO ÚNICO. Del Servicio Profesional Legislativo
+### CAPÍTULO III. De las Áreas Administrativas
 
 ###### Artículo 76.
 
@@ -1623,7 +1709,7 @@ Las tareas de difusión serán objetivas e imparciales.
 
 ## TÍTULO CUARTO. Del Personal Técnico y Administrativo del Poder Legislativo
 
-### CAPÍTULO PRIMERO. De la sustanciación del trámite para suspender ayuntamientos, declarar su desaparición, o suspender o revocar el mandato de alguno de sus miembros
+### CAPÍTULO ÚNICO. Del Servicio Profesional Legislativo
 
 ###### Artículo 81.
 
@@ -1653,13 +1739,15 @@ V.- Los programas para la capacitación, actualización, estímulos y desarrollo
 
 ## TÍTULO QUINTO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO SEGUNDO. De la Responsabilidad de los Servidores Públicos
+### CAPÍTULO PRIMERO. De la sustanciación del trámite para suspender ayuntamientos, declarar su desaparición, o suspender o revocar el mandato de alguno de sus miembros
 
 ###### Artículo 84.
 
 Al Congreso corresponde, con el voto de las dos terceras partes de sus integrantes, suspender o revocar el mandato a los integrantes del Cabildo o, declarar la desaparición de un Ayuntamiento.
 
 Las causas, los términos y las modalidades para la suspensión o revocación del mandato y la desaparición de un Ayuntamiento, se sujetarán a lo previsto en la Ley reglamentaria de la fracción XL, del artículo 30 de la Constitución Política del Estado de Yucatán.
+
+### CAPÍTULO SEGUNDO. De la Responsabilidad de los Servidores Públicos
 
 ###### Artículo 85.
 
@@ -1902,3 +1990,13 @@ D.O. 9 DE JUNIO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 SEGUNDO.- Las áreas correspondientes del Congreso del Estado de Yucatán implementarán las presentes disposiciones del Parlamento Abierto en un plazo no mayor a 30 días hábiles posteriores a la entrada en vigor del presente decreto.
+
+D.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 260/2020 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE SESIONES FUERA DEL RECINTO LEGISLATIVO".]
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se instruye al Director General de Administración y Finanzas del Honorable Congreso del Estado de Yucatán para que (sic) un plazo no mayor a 15 días, contados a partir de la entrada en vigor de este decreto para que (sic) presente a la Junta de Gobierno y Coordinación Política y a la Presidencia de la Mesa Directiva, la plataforma tecnológica que habrá de funcionar para las sesiones a las que se refiere este decreto.
+
+Artículo tercero. La Secretaría General y la Dirección de Administración y Finanzas del Poder Legislativo en conjunto con el área encargada del sistema informático legislativo deberán realizar, periódicamente, simulacros de Sesiones Fuera del Recinto Legislativo mediante el uso de las tecnologías de la información y la comunicación a efecto de mantener actualizadas a las y los diputados en el uso y metodología de las mismas.
