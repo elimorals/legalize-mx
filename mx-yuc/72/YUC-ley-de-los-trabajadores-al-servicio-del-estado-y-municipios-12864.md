@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2019-07-31"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -247,13 +247,15 @@ Los trabajadores al servicio del estado disfrutarán de un permiso de ocho días
 
 Cuando no se ejerza el derecho a gozar del permiso por paternidad o adopción, en ningún caso podrá reclamarse pago compensatorio alguno derivado de dicha situación.
 
-> <small>(REFORMADO, D.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 22 DE JULIO DE 2020)</small>
 
-ARTICULO 32 bis.- Las mujeres trabajadoras gozarán del permiso de un día al año, con goce íntegro de su sueldo, para someterse a la realización de exámenes médicos de prevención del cáncer de mama y cervicouterino; para justificar este permiso, se deberá presentar el certificado médico correspondiente expedido por una institución pública o privada de salud.
+ARTICULO 32 bis.- Las mujeres trabajadoras gozarán del permiso de un día al año con goce íntegro de su sueldo, para someterse a la realización de exámenes médicos de prevención del cáncer de mama y cervicouterino; para justificarles permiso, se deberá presentar el certificado médico correspondiente expedido por una institución pública o privada de salud.
 
-Los hombres trabajadores también gozarán del permiso de un día al año, con goce íntegro de sueldo para someterse a la realización de exámenes médicos de prevención y detección de cáncer de próstata; para justificar este permiso, deberán presentar el documento que se señala en el párrafo anterior.
+Los hombres trabajadores también gozarán del permiso de un día al año, con goce íntegro de su sueldo, para someterse (sic) la realización de exámenes médicos de prevención y detección de cáncer de próstata; para justificar este permiso, deberán presentar el documento que se señala en el párrafo anterior.
 
-Todos los trabajadores gozarán de permiso con goce de sueldo para acudir a citas médicas cuya finalidad sea la práctica de quimioterapias, radioterapias o procedimiento oncológico diverso en contra de cualquier tipo de cáncer cuando algún hijo menor de edad padezca tal enfermedad. Para justificar dicho permiso bastará con presentar constancia médica expedida por institución pública o privada.
+Las y los trabajadores gozarán de permiso con goce de sueldo para acudir a citas médicas cuya finalidad sea la práctica de quimioterapias, radioterapias o procedimiento oncológico diverso en contra de cualquier tipo de cáncer cuando algún hijo o hija menor de edad padezca tal enfermedad. Asimismo las y los trabajadores, gozarán del permiso de un día al año, con goce íntegro de sueldo para acudir a citas para la donación de sangre.
+
+Para justificar dicho permiso bastará con presentar constancia médica expedida por institución pública o privada, así como bancos de sangre públicos o privados.
 
 Los permisos señalados en este artículo no podrán ser sujetos de compensación económica en caso de no ser ejercidos.
 
@@ -1398,3 +1400,11 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 22 DE JULIO DE 2020.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO 258/2020 POR EL QUE SE MODIFICAN LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN; LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
