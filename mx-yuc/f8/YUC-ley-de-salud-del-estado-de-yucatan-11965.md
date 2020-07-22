@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2020-04-01"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -742,6 +742,10 @@ Para efectos de esta Ley, se considera usuario de los servicios de salud, a toda
 ###### ARTICULO 50.
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional éticamente responsable, así como de trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 22 DE JULIO DE 2020)</small>
+
+En ningún momento se podrán negar los servicios de salud a un paciente con motivo de no haber donado sangre.
 
 ###### ARTICULO 51.
 
@@ -3474,3 +3478,11 @@ Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opon
 Artículo cuarto. Plazo de modificación del reglamento.
 
 El Poder Ejecutivo del Estado tendrá un plazo de 90 días contados a partir de la entrada en vigor de este decreto, para modificar el reglamento de la materia con las disposiciones necesarias.
+
+D.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 258/2020 POR EL QUE SE MODIFICAN LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN; LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
