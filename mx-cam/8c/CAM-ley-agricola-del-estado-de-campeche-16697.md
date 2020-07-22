@@ -4,7 +4,7 @@ identifier: "CAM-ley-agricola-del-estado-de-campeche-16697"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2019-10-18"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY AGRÍCOLA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 26 de junio de 2000.
 
@@ -245,9 +245,11 @@ VIII. La intervención que deban tener las dependencias de los Ejecutivos Estata
 
 IX. Las demás medidas necesarias para el cumplimiento de dichos Programas.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-Las Secretarías de Finanzas y Administración, de Desarrollo Social y de Ecología de la Administración Pública del Estado, intervendrán, conforme a sus facultades, para hacer compatible el Programa Sectorial de Desarrollo Agrícola con el Plan Estatal de Desarrollo y autorizar, en su oportunidad, las asignaciones presupuestales de los programas que en la materia apruebe el Ejecutivo Estatal.
+Las Secretarías de Finanzas, de Desarrollo Rural, de Planeación, de Desarrollo Social y Humano y, de Medio Ambiente, Biodiversidad y Cambio Climático de la Administración Pública del Estado, intervendrán, conforme a sus facultades, para hacer compatible el Programa Sectorial de Desarrollo Agrícola con el Plan Estatal de Desarrollo y autorizar, en su oportunidad, las asignaciones presupuestales de los programas que en la materia apruebe el Ejecutivo Estatal.
 
 ###### ARTÍCULO 17.
 
@@ -776,6 +778,14 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 P.O. 18 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 79 POR EL QUE “SE REFORMA EL ARTÍCULO 29 DE LA LEY AGRÍCOLA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan al contenido del presente decreto.
+
+P.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 136 POR EL QUE “SE REFORMA EL ARTÍCULO 16 DE LA LEY AGRÍCOLA DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
