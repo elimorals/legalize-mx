@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-127150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-15"
-last_updated: "2018-10-03"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127150&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-05"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE JULIO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 15 de marzo de 2018.
 
@@ -596,6 +596,10 @@ Cuando no puedan determinarse los límites de la zona o cuando el predio se ubiq
 
 Para la aplicación de las normas generales y particulares de ordenación que no sean de aplicación directa, los interesados podrán solicitar a la Secretaría que emita el Dictamen de Aplicación de Normatividad correspondiente, en el que establezca la procedencia o no de aplicación de la norma de que se trate al caso específico. La Secretaría a través de la Dirección General de Desarrollo Urbano emitirá los dictámenes de aplicación de normatividad que se turnarán al Registro de los Planes y Programas para su inscripción y la expedición del certificado correspondiente. Los interesados deberán presentar a la Secretaría la documentación derivada de los requisitos establecidos en la normatividad aplicable.
 
+> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2020)</small>
+
+La vigencia del Dictamen será permanente siempre y cuando se realice el pago anual de la contribución, conforme lo prevea el Código Fiscal de la Ciudad de México.
+
 ###### Artículo 38.
 
 Para la aplicación de la Norma General de Ordenación número 13, los interesados podrán solicitar a la Secretaría, a través de la Dirección General de Desarrollo Urbano, Dictamen de Aplicación de la Norma General de Ordenación número 13, en el que se resuelva lo conducente y en caso de ser positivo se turnará al Registro de los Planes y Programas, para su inscripción y la expedición del certificado correspondiente. Los interesados deberán presentar a la Secretaría la documentación derivada de los requisitos establecidos en la normatividad aplicable.
@@ -905,6 +909,10 @@ V. Opinión Técnica para la exención de licencia original de construcción de 
 VI. Opinión Técnica para la fusión/subdivisión/relotificación de predios, condición patrimonial y factibilidad de demolición y/o proyecto, en inmuebles afectos al patrimonio cultural urbano y/o en Áreas de Conservación Patrimonial.
 
 VII. Dictamen Técnico u Opinión Técnica para la instalación, modificación, colocación o retiro de anuncios y/o publicidad exterior en inmuebles afectos al patrimonio cultural urbano y/o en Áreas de Conservación Patrimonial.
+
+> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2020)</small>
+
+La vigencia de los dictámenes, registros, certificados y opiniones referidos en las fracciones anteriores, será permanente siempre y cuando se realice el pago anual de la contribución respectiva, conforme lo prevea el Código Fiscal de la Ciudad de México.
 
 #### SECCIÓN TERCERA. DE LAS AUTORIDADES, ÓRGANOS DE APOYO Y PARTICIPACIÓN CIUDADANA
 
@@ -1910,9 +1918,13 @@ I. Certificado Único de Zonificación de Uso del Suelo. Es el documento públic
 
 II. Certificado Único de Zonificación de Uso del Suelo Digital. Es el documento público en el que se hacen constar las disposiciones específicas que para un predio o inmueble determinado establecen los instrumentos de planeación de desarrollo urbano, cuya solicitud y expedición se realizará en medios electrónicos. Este documento no crea derechos de propiedad, posesión, ni prejuzga sobre ellos ni constituye permiso, autorización o licencia alguna.
 
-El tiempo de vigencia para ejercitar las actividades para las que se expiden los certificados señalados en las fracciones I y II es de un año contado a partir del día siguiente al de su expedición.
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2020)</small>
 
-Una vez realizado el trámite para el cual fue solicitado cualquiera de los certificados antes señalados, y habiéndolo ejercido con una declaración de apertura, licencia de funcionamiento, licencia o manifestación de construcción, no será necesario obtener un nuevo Certificado, a menos que se modifique el uso y superficie solicitado del inmueble, o debido a las modificaciones a los Programas Parciales de Desarrollo Urbano o Delegacionales de Desarrollo Urbano que entren en vigor;
+La vigencia de los certificados señalados en las fracciones I y II será permanente siempre y cuando se realice el pago anual de la contribución respectiva, conforme lo prevea el Código Fiscal de la Ciudad de México. La vigencia no estará sujeta a esta condición en (sic) tratándose de los certificados únicos de zonificación que contemplen la aplicación de la Norma General de Ordenación 26 "Norma para impulsar y facilitar la construcción de vivienda de interés social y popular en suelo urbano".
+
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2020)</small>
+
+De igual manera, perderán su vigencia si se modificare el uso y superficie solicitado del inmueble, o si hubiere modificaciones a los Programas Parciales de Desarrollo Urbano o Delegacionales de Desarrollo Urbano que entren en vigor.
 
 III. Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos. Es el documento público que tiene por objeto reconocer los derechos de uso del suelo y superficie de uso que por el aprovechamiento legítimo y continuo tienen los propietarios, poseedores o causahabientes de un bien inmueble, en su totalidad o en unidades identificables de éste, con anterioridad a la entrada en vigor del Programa Parcial de Desarrollo Urbano o del Programa Delegacional de Desarrollo Urbano que los prohibió.
 
@@ -2429,3 +2441,11 @@ G.O. 3 DE OCTUBRE DE 2018.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
