@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-donacion-y-trasplantes-de-organos-tejidos-y-80911"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-19"
-last_updated: "2011-04-19"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de abril de 2011.
 
@@ -100,6 +100,50 @@ XIX.- Secretaría: la Secretaría de Salud del Poder Ejecutivo del Gobierno del 
 XX.- Tejido: la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñan una misma función, y
 
 XXI.- Trasplante: la transferencia de un órgano, tejido, o células de una parte del cuerpo a otra, de un individuo a otro y que se integra a un organismo.
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXII.- Sangre: El tejido hemático con todos sus componentes;
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXIII.- Donación: Consentimiento expreso de una persona para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes sean utilizados para trasplantes;
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXIV.- Disposición de sangre: El conjunto de actividades relativas a la obtención, recolección, análisis, conservación, preparación, suministro, utilización y destino final de la sangre y componentes sanguíneos, con fines terapéuticos y científicos.
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXV.- Banco de sangre: El establecimiento autorizado de conformidad con la legislación aplicable, para obtener, recolectar, analizar, fraccionar, conservar, aplicar y proveer sangre humana; así como para analizar, conservar, aplicar y proveer los componentes de la misma;
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXVI.- Puesto de sangrado: Establecimiento móvil o fijo que cuenta con los elementos necesarios exclusivamente para extraer sangre de disponentes de sangre humana y que funciona bajo la responsabilidad de un Banco de Sangre autorizado;
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXVII.- Registro: Registro Estatal de Donadores Voluntarios de Sangre;
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXVIII.- Donante Familiar: Persona que proporciona su sangre o componentes sanguíneos a favor de un paciente, en respuesta a una solicitud específica por parte del personal de salud, familiares o amigos del paciente.
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXIX.- Donante Regular: La persona que ha proporcionado sangre o cualquier componente sanguíneo en más de una ocasión en el lapso de los últimos dos años en el mismo centro de colecta;
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXX.- Donante de repetición: La persona que ha proporcionado sangre o cualquier componente sanguíneo en más de una ocasión en el lapso de los últimos dos años en distintos centros de colecta;
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXXI.- Donante Voluntario o altruista: Persona que proporciona su sangre o componentes sanguíneos para uso terapéutico de quien lo requiera, sin la intención de beneficiar a una persona en particular, motivada únicamente por sentimientos humanitarios y de solidaridad, sin esperar retribución alguna a cambio y sin que medie una solicitud específica por parte del personal de salud, familiares o amigos del paciente.
+
+> <small>(ADICIONADA, D.O. 22 DE JULIO DE 2020)</small>
+
+XXXII.- CETS: Centro Estatal de Transfusión Sanguínea.
 
 ###### Artículo 3.
 
@@ -328,6 +372,12 @@ I.- Electroencefalograma que demuestre ausencia total de actividad eléctrica ce
 II.- Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, y
 
 III.- Cualquier otro estudio de gabinete que demuestre en forma documental la ausencia permanente de flujo encefálico arterial.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 34 Bis.
+
+Una vez comprobada la inviabilidad vital y certificada la muerte del potencial donante, se podrá (sic) reanudar las maniobras de mantenimiento de flujo sanguíneo a los órganos, en los casos de asistolia, conforme a las autorizaciones correspondientes.
 
 ###### Artículo 35.
 
@@ -657,7 +707,7 @@ XII.- Promover el desarrollo de investigaciones en materia de trasplantes de ór
 
 XIII.- Aprobar su Reglamento de funcionamiento, y
 
-XlV.- Las demás que le confiera esta Ley y otras disposiciones legales aplicables.
+XIV.- Las demás que le confiera esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 60.
 
@@ -749,6 +799,106 @@ IV.- Administrar los recursos obtenidos a través de su gestión;
 
 V.- Las demás que resulten necesarias para el cumplimiento de su objeto y las que le otorgue de manera expresa el Presidente del COETRY.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 22 DE JULIO DE 2020)</small>
+
+### Capítulo XI. De la Donación de Sangre
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 68.
+
+El Poder Ejecutivo por conducto de la Secretaría y el CETS, deberán acondicionar los hospitales generales, clínicas, centros médicos y cualquier otro centro de salud en el estado que cuente con un banco de sangre, con las herramientas necesarias para poder recibir a los donantes de sangre o cualquiera de sus componentes y llevar a cabo los procedimientos correspondientes para su correcto almacenamiento y donación.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 69.
+
+Los trabajadores del servicio podrán solicitar un día de su trabajo con goce de salario para acudir de manera voluntaria a donar sangre o cualquiera de sus componentes, siempre que den aviso con la oportunidad debida y que su ausencia no perjudique la buena marcha del establecimiento. Para justificar su inasistencia el trabajador deberá presentar el comprobante expedido por un banco de sangre, ya sea de una institución pública o privada.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 70.
+
+Es de interés público promover, impulsar y fomentar la cultura de la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales entre la población, como forma esencialmente humanista y de solidaridad entre las personas, en virtud de que representa una alternativa para coadyuvar en el tratamiento o curación de los pacientes que las requieran.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 71.
+
+El Titular de la Secretaría podrá celebrar con la Secretaría de Salud Federal; los gobiernos municipales; las entidades públicas y privadas y las organizaciones no gubernamentales, los convenios de coordinación necesarios para la aplicación oportuna y eficiente de la presente ley.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 72.
+
+Las dependencias y entidades de la administración pública estatal y municipal serán coadyuvantes del CETS en la promoción y difusión de la cultura de la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, para tal efecto, dentro de sus instalaciones deberán establecer en áreas de atención al público, de trámites, o de obtención de documentos, información concerniente a la importancia de esta donación.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 73.
+
+El CETS deberá llevar un registro, denominado Registro Estatal de Donadores Voluntarios de Sangre, el cual tendrá por objeto primordial, conformar un padrón de las personas que expresamente hayan decidido donar voluntariamente su sangre, sus componentes sanguíneos, hemoderivados, tejidos y células troncales en los términos previstos por la legislación aplicable, así como el asegurar con eficacia, el cumplimiento y la observancia de su voluntad; dicho registro tiene carácter confidencial, por lo que la autoridad judicial, la sanitaria y los establecimientos autorizados conforme a la legislación aplicable para la realización de extracción de sangre, podrán solicitarlo, de conformidad con las disposiciones legales en materia de transparencia y acceso a la información pública. Dicho registro contendrá toda la información identificadora del donador voluntario, el cual deberá de ser compartido por todos los bancos de sangre del estado.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 74.
+
+La donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales es un acto de disposición voluntaria, solidaria, altruista, no remunerativa, mediante el cual la persona acepta su extracción, en los términos de esta ley, el donante voluntario deberá de ser tratado de manera respetuosa, protegiendo sus (sic) privacidad y confidencialidad, tendrá la posibilidad de interrumpir el procedimiento en el momento que lo considere pertinente y podrá plantear las preguntas que considere necesarias respecto a la práctica de la donación.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 75.
+
+La extracción de sangre y sus componentes sólo podrá efectuarse en los bancos de sangre autorizados por la autoridad competente.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 76.
+
+El poder ejecutivo, por conducto de la Secretaría y el CETS, en cada acto de extracción de sangre deberá impulsar y promover entre los donadores y sus familiares, así como estos entre la población en general, una actitud positiva hacia la donación voluntaria, informándoles de la importancia y utilidad que conlleva el donar sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, al coadyuvar en el tratamiento o curación de otras personas, debiendo recabar el consentimiento informado de los donantes.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 77.
+
+La determinación de los donantes deberá realizarse a través de procedimientos para la identificación segura de los mismos, la entrevista de idoneidad y la evaluación de la selección.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 78.
+
+Podrá ser donador toda persona que cumpla las siguientes condiciones:
+
+I. Ser mayor de 18 años de edad y menor a los 65 años de edad.
+
+II. Tener un peso mínimo de 50 kilogramos;
+
+III. Contar con buena salud;
+
+IV. Contar con identificación oficial vigente;
+
+V. Al momento de la extracción no padecer enfermedades como tos, gripe, dolores de cabeza o de estómago;
+
+VI. No padecer o haber padecido, epilepsia, hepatitis, sífilis, paludismo, cáncer, VIH Sida o enfermedades severas del corazón;
+
+VII. No haber ingerido bebidas alcohólicas en las últimas 48 horas;
+
+VIII. No haber tenido ningún tipo de cirugía en los últimos seis meses;
+
+IX. No haberse realizado tatuaje, perforación o acupuntura en el último año;
+
+X. No haber sido vacunado (a) contra hepatitis o rabia en el último año;
+
+XI. Presentarse en ayuno mínimo de 4 horas anteriores a la extracción de sangre, y
+
+XII. Las demás que establezcan las Normas Oficiales Mexicanas y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+###### Artículo 79.
+
+Tanto el proceso de disposición de sangre como en la atención médica durante el acto transfusional debe llevarse a cabo con privacidad y confidencialidad así como con respeto al secreto profesional.
+
 T R A N S I T O R I O S:
 
 ###### ARTÍCULO PRIMERO.
@@ -810,3 +960,13 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 258/2020 POR EL QUE SE MODIFICAN LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN; LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
