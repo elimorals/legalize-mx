@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2020-06-09"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -223,6 +223,86 @@ Cuando una empresa, grupo u organización carezca de personalidad jurídica, per
 
 Quedan exceptuados de lo dispuesto en este artículo las instituciones públicas.
 
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+A las personas morales podrá imponérseles alguna o varias de las penas o medidas de seguridad previstas en las fracciones VIII, IX, X, XI, XII, XIII, XIV Y XV del artículo 28 de conformidad a lo establecido en los artículos 52, 53 Y 54 de este código, cuando a estas se les impute responsabilidad con respecto a los siguientes delitos:
+
+I.- Conspiración, previsto en el artículo 147.
+
+II.- Evasión de presos, previsto en los artículos 153 al 160.
+
+III.- Desobediencia y resistencia de particulares, previsto en los artículos 177 al 181.
+
+IV.- Oposición a ejecución de obras y trabajos públicos, previsto en el artículo 182.
+
+V.- Violación de sellos, previsto en los artículos 183 al 184.
+
+VI.- Encubrimiento, previsto en los artículos 186 al 188.
+
+VII.- Del peligro de contagio, previsto en los artículos 189 al 192.
+
+VIII.- Alteraciones nocivas, previsto en los artículos 193 al 194.
+
+IX.- Delitos en materia sanitaria, previsto en el artículo 195.
+
+X.- Delitos en materia de comestibles y bebidas, previsto en los artículos 196 al 197.
+
+XI.- Delitos contra el medio ambiente, previsto en los artículos 198 al 206.
+
+XII.- Ultrajes a la moral pública y a las buenas costumbres, previsto en el artículo 207.
+
+XIII.- Corrupción de menores e incapaces, trata de menores y pornografía infantil, previsto en los artículos 208 al 213.
+
+XIV.- Lenocinio y trata de personas, previsto en los artículos 214 al 215.
+
+XV.- Delitos contra la inviolabilidad del secreto, previsto en los artículos 218 al 219.
+
+XVI.- Privación ilegal de la libertad y de otras garantías, previsto en los artículos 241 al 243 Bis 1.
+
+XVII.- Delito contra la Intimidad Personal, previsto en los artículos 243 Bis al 243 Bis 2.
+
+XVIII.- Delitos contra la imagen personal, previsto en los artículos 243 Bis 3 al 243 Bis 4.
+
+XIX.- Abuso de autoridad, previsto en la fracción X de artículo 251 y 252.
+
+XX.- Uso Ilícito de atribuciones y facultades, previsto en el artículo 255.
+
+XXI.- Intimidación previsto en el numeral 258 Bis respecto del diverso 248.
+
+XXII.- Ejercicio abusivo de funciones previsto en los artículos 259 y 260 Bis.
+
+XXIII.- Tráfico de influencias, previsto en los artículos 261 al 262.
+
+XXIV.- Cohecho, previsto en los artículos 262 Bis al 262 Ter.
+
+XXV.- Peculado, previsto en los artículos 263 al 264.
+
+XXVI.- Enriquecimiento ilícito, previsto en los artículos 265 al 266.
+
+XXVII.- Falsificación y uso indebido de sellos, llaves, marcas, contraseñas y otros objetos, previsto en los artículos 277 al 280.
+
+XXVIII.- Falsificación de documentos en general, previsto en los artículos 281 al 284 Bis.
+
+XXIX.- Abuso de confianza, previsto en los artículos 318 al 322.
+
+XXX.- Fraude, previsto en los artículos 323 al 326.
+
+XXXI.- Extorsión, previsto en el artículo 327.
+
+XXXII.- Usura, previsto en el artículo 328.
+
+XXXIII.- Despojo de cosa inmueble, previsto en el artículo 329.
+
+XXXIV.- Robo, previsto en los artículos 330 al 337.
+
+XXXV.- Robo de vehículo, previsto en el artículo 338.
+
+XXXVI.- Lesiones, previsto en los artículos 357 al 378.
+
+XXXVII.- Homicidio, previsto en los artículos 368 al 373 Bis.
+
+XXXVIII.- Delitos contra la salud en su modalidad de narcomenudeo, previstos en los artículos 473 al 479 de la Ley General de Salud.
+
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2016)</small>
 
 ARTÍCULO 16 TER. No serán causas de exclusión ni modificación de la responsabilidad penal de la persona moral:
@@ -236,6 +316,62 @@ III.- La disolución aparente, que consiste en que la persona moral continúe su
 En el caso de la fracción II, la responsabilidad se trasladará a la entidad en que se transforme, fusione, absorba o escinda. Para evitar que el hecho delictivo quede impune, el órgano jurisdiccional podrá anular la transformación, fusión, absorción o escisión de la persona moral.
 
 En caso de que la transformación, fusión, absorción o escisión a que se refiere la fracción II constituya delito diverso por el que se está sancionando a la persona moral, el órgano jurisdiccional deberá aplicar las reglas que del concurso prevé este Código y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+ARTÍCULO 16 QUÁTER. Si el delito fuere cometido por los representantes o administradores de hecho o de derecho, la persona moral quedará excluida de responsabilidad si se cumplen las siguientes condiciones:
+
+a) El órgano de administración ha adoptado y ejecutado con eficacia, antes de la comisión del delito, modelos de organización, gestión y prevención que incluyen las medidas de vigilancia y control idóneos y adecuados para prevenir delitos de la misma naturaleza o para reducir de forma significativa el riesgo de su comisión.
+
+b) La supervisión del funcionamiento y del cumplimiento del modelo de organización, gestión y prevención implantado ha sido confiada a un órgano de la persona moral con poderes autónomos de iniciativa y de control o que tenga encomendada legalmente la función de supervisar la eficacia de los controles internos de la persona moral.
+
+c) Los autores individuales han cometido el delito eludiendo fraudulentamente los modelos de organización y de prevención.
+
+d) No se ha producido una omisión o un ejercicio insuficiente de sus funciones de supervisión, vigilancia y control por parte del órgano al que se refiere la condición del inciso b).
+
+En los casos en los que las anteriores condiciones solamente puedan ser objeto de acreditación parcial, esta circunstancia será valorada para los efectos de atenuación de la pena.
+
+En las personas morales que entren en la clasificación de micro y pequeñas empresas, las funciones de supervisión a que se refiere la condición marcada con el inciso b) de este artículo, podrán ser asumidas directamente por el órgano de administración.
+
+Para efecto del párrafo anterior, son personas morales consideradas como micro y pequeñas empresas, aquéllas que estén consideradas así según su tamaño en la estratificación emitida por la legislación aplicable vigente.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+ARTÍCULO 16 QUINQUIES. Si el delito fuera cometido por quienes estando subordinados o sometidos a la autoridad de las personas físicas mencionadas en el primer párrafo del artículo anterior, la persona moral quedará excluida de responsabilidad si, antes de la comisión del delito, ha adoptado y ejecutado eficazmente un modelo de organización, gestión y prevención que resulte idóneo y adecuado para prevenir delitos de la naturaleza del que fue cometido o para reducir de forma significativa el riesgo de su comisión y, además, que los autores individuales han cometido el delito eludiendo fraudulentamente dicho modelo.
+
+En los casos en los que la anterior circunstancia solamente pueda ser objeto de acreditación parcial, será valorada para los efectos de atenuación de la pena.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+ARTÍCULO 16 SEXIES. Los modelos de organización, gestión y prevención a que se refieren el inciso a) del artículo 16 Quáter y el artículo 16 Quinquies, deberán cumplir los siguientes requisitos:
+
+I.- Identificarán las actividades en cuyo ámbito puedan ser cometidos los delitos que deben ser prevenidos;
+
+II.- Adoptarán protocolos o procedimientos que concreten el proceso de formación de la voluntad de la persona moral, de adopción de decisiones y de ejecución de las mismas con relación a aquéllos, todo esto para prevenir el delito;
+
+III.- Dispondrán de modelos de gestión de los recursos financieros adecuados para impedir la comisión de los delitos que deben ser prevenidos, así como compromisos de los órganos directivos o de administración para destinar recursos a la prevención de delitos;
+
+IV.- Impondrán la obligación de informar de posibles riesgos e incumplimientos al organismo encargado de vigilar el funcionamiento y observancia del modelo de prevención;
+
+V.- Establecerán un sistema disciplinario que sancione adecuadamente el incumplimiento de las medidas de prevención que establezca el modelo, y
+
+VI.- Realizarán una verificación periódica del modelo y de su eventual modificación cuando se pongan de manifiesto infracciones relevantes de sus disposiciones, o cuando se produzcan cambios en la organización, en la estructura de control o en la actividad desarrollada que los hagan necesarios.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+ARTÍCULO 16 SEPTIES. La responsabilidad penal de las personas jurídicas será exigible siempre que se constate la comisión de un delito que haya tenido que cometerse por quien ostente los cargos o funciones aludidas en los artículos 16 Quáter y 16 Quinquies, aun cuando la concreta persona física responsable no haya sido individualizada o no haya sido posible dirigir el procedimiento contra ella. Cuando como consecuencia de los mismos hechos se impusiere a ambas la pena de multa, los jueces o tribunales modularán las respectivas cuantías, de modo que la suma resultante no sea desproporcionada en relación con la gravedad del delito que se trate. La concurrencia, en las personas que materialmente hayan realizado los hechos o en las que los hubiesen hecho posibles por no haber ejercido el debido control, de circunstancias que afecten a la culpabilidad del acusado o agraven su responsabilidad, o el hecho de que dichas personas hayan fallecido o se hubieren sustraído a la acción de la justicia, no excluirá ni modificará la responsabilidad penal de las personas jurídicas, sin perjuicio de lo que se dispone en el artículo siguiente.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+ARTÍCULO 16 OCTIES. Sólo podrán considerarse circunstancias atenuantes de la responsabilidad penal de las personas morales haber realizado, con posterioridad a la comisión del delito y a través de sus representantes legales, las siguientes acciones:
+
+I.- Haber procedido, antes de conocer que el procedimiento judicial se dirige contra ella, a aceptar su responsabilidad ante las autoridades investigadoras;
+
+II.- Haber colaborado en la investigación del hecho aportando pruebas, en cualquier momento del proceso, que fueran nuevas y decisivas para esclarecer las responsabilidades penales dimanantes de los hechos;
+
+III.- Haber procedido en cualquier momento del procedimiento y con anterioridad al auto de apertura a juicio, a reparar o disminuir el daño causado por el delito;
+
+IV.- Haber establecido, antes del auto de apertura a juicio, medidas eficaces para prevenir y descubrir los delitos que en el futuro pudieran cometerse con los medios o bajo la cobertura de la persona moral.
 
 ### CAPÍTULO V. DE LA TENTATIVA
 
@@ -1881,6 +2017,14 @@ Se impondrá pena de seis meses a cinco años de prisión y hasta veinte días-m
 
 Se impondrá de tres meses a ocho años de prisión y de cien a quinientos días-multa, a quien sin tomar las debidas precauciones e informar previamente a las autoridades competentes, inicie un incendio que rebase los límites del terreno que posea y dé lugar a un daño generalizado.
 
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+ARTÍCULO 202 BIS. Se impondrá sanción de seis meses a dos años de prisión y de cincuenta a cien días multas, a quien, derribe dolosamente uno o más árboles urbanos sin previa autorización emitida por la autoridad correspondiente, en términos a lo dispuesto en la Ley de Conservación y Desarrollo del Arbolado Urbano del Estado de Yucatán.
+
+(NOTA: EL 10 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 233/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE JULIO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 256/2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Cuando la conducta descrita en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral o jurídica, a ésta se le impondrá la consecuencia jurídica consistente en LA PROHIBICIÓN DE REALIZAR DETERMINADOS NEGOCIOS U OPERACIONES HASTA POR 2 AÑOS, multa hasta por doscientos días multa, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 203.
@@ -1903,7 +2047,7 @@ Tratándose de los delitos contra el medio ambiente, los trabajos en favor de la
 
 ###### ARTÍCULO 206.
 
-Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que previamente la Secretaría de Ecología del Gobierno del Estado formule la denuncia correspondiente, salvo que se trate de casos de flagrante delito.
+(DEROGADO, D.O. 22 DE JULIO DE 2020)
 
 ## TÍTULO SÉPTIMO. DELITOS CONTRA LA MORAL PÚBLICA
 
@@ -5178,3 +5322,27 @@ D.O. 9 DE JUNIO DE 2020.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 256/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DELITOS CONTRA EL MEDIO AMBIENTE".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación expresa
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) al presente decreto.
+
+D.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 257/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DELITOS SUSCEPTIBLES DE SER COMETIDOS POR PERSONAS MORALES”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación expresa
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) al presente decreto.
