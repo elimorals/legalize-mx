@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2020-06-09"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -403,9 +403,9 @@ EN AMBOS CASOS, el 30% de la cantidad que resulte de acuerdo a lo señalado ante
 
 b) Para actividades tendientes a la obtención del voto durante el año en el que se elija Gobernador, diputados y ayuntamientos equivaldrá al 60 % del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año. Cuando sólo se elijan diputados y ayuntamientos equivaldrá al 50 % de dicho financiamiento por actividades ordinarias, y
 
-> <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, D.O. 22 DE JULIO DE 2020)</small>
 
-c) Para actividades específicas equivaldrá al 7% del monto total que corresponda cada año por actividades ordinarias. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente se distribuirá entre los partidos políticos de forma igualitaria y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. Los partidos políticos deberán destinar el 25% del monto que les corresponda de las actividades específicas para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+c) Para actividades específicas equivaldrá al 7% del monto total que corresponda cada año por actividades ordinarias. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente se distribuirá entre los partidos políticos de forma igualitaria y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. Los partidos políticos deberán destinar, entre el 25% hasta el 50%, del monto que les corresponda de las actividades específicas para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
 
 > <small>(REFORMADO, D.O. 30 DE MAYO DE 2017)</small>
 
@@ -524,6 +524,10 @@ La ley determinará la forma de establecer la demarcación territorial de los di
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 Los diputados podrán ser electos hasta por cuatro períodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieran postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.
+
+> <small>(ADICIONADO, D.O. 22 DE JULIO DE 2020)</small>
+
+La integración del Congreso del Estado deberá ser bajo el principio de integración paritaria, asignando diputaciones de representación proporcional, compensando al género con el menor número de Diputados de mayoría relativa, en los términos que al efecto disponga la legislación local de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE JULIO DE 2009)</small>
 
@@ -4774,3 +4778,11 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 Artículo segundo. Derogación expresa.
 
 Se derogan todas las disposiciones de igual o mayor jerarquía que se opongan al presente decreto.
+
+D.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 255/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE INTEGRACIÓN PARITARIA DEL CONGRESO DEL ESTADO Y FORTALECIMIENTO AL DESARROLLO POLÍTICO DE LAS MUJERES”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
