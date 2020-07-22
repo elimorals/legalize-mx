@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-en-materia-de-96089"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-03"
-last_updated: "2013-10-03"
+last_updated: "2020-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96089&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2013-08-29"
 ---
 # REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS DE MUEBLES Y SERVICIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS DE BIENES MUEBLES Y SERVICIOS, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, PUBLICADO EN EL D.O.F. DE 22 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS DE MUEBLES Y SERVICIOS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PUNTO QUINTO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL CATORCE.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2020 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 3 de octubre de 2013.
 
@@ -663,7 +665,7 @@ XIII. Los criterios específicos que se utilizarán para la evaluación de las p
 
 XIV. El domicilio de la Contraloría, en donde se podrán presentar inconformidades, de acuerdo a lo dispuesto en el artículo 91 del presente Reglamento;
 
-XV. Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes, y (sic)
+XV. Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes, y
 
 XVI. Modelo de contrato al que para la licitación de que se trate se sujetarán las partes, el cual deberá contener los requisitos a que se refiere el artículo 54 del presente Reglamento.
 
@@ -1341,7 +1343,7 @@ Las responsabilidades y las sanciones a que se refiere el presente Reglamento se
 
 ###### Artículo 86.
 
-No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por alguna instancia del Instituto o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas, así como en el supuesto de la fracción IV del artículo 81 del presente Reglamento, relativa a los proveedores que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una solicitud de conciliación o de una inconformidad; (sic)
+No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por alguna instancia del Instituto o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas, así como en el supuesto de la fracción IV del artículo 81 del presente Reglamento, relativa a los proveedores que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una solicitud de conciliación o de una inconformidad;
 
 ###### Artículo 87.
 
@@ -1898,3 +1900,41 @@ TERCERO.- Los procedimientos de contratación que se encuentren en trámite a la
 CUARTO.- Los contratos celebrados antes de la entrada en vigor del presente Reglamento, continuarán regulándose hasta su terminación por las disposiciones del Reglamento del Instituto Federal Electoral en materia de Adquisiciones, Arrendamientos y Servicios vigente a la fecha del inicio del trámite.
 
 QUINTO.- El Instituto Federal Electoral implementará el sistema electrónico de información pública sobre adquisiciones, arrendamientos y servicios (Compra IFE) el 31 de diciembre del 2013.
+
+D.O.F. 22 DE JULIO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG167/2020".]</small>
+
+PRIMERO.- Se aprueba el Reglamento del Instituto Nacional Electoral en Materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios, en los términos de su Anexo, el cual se adjunta al presente y forma parte integrante del mismo.
+
+SEGUNDO.- El presente Reglamento entrará en vigor a partir del día de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se abroga el Reglamento del Instituto Federal Electoral en Materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios, aprobado mediante Acuerdo CG209/2013.
+
+CUARTO.- Se derogan todas las disposiciones internas del Instituto que se opongan a lo dispuesto en este Reglamento o que se encuentren dispersas en otros documentos normativos.
+
+QUINTO.- La Junta General Ejecutiva, deberá expedir de ser necesario, la actualización y/o emisión de las Políticas Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios del Instituto Nacional Electoral, y demás disposiciones de carácter administrativo, en estricta correspondencia con el Reglamento mencionado, en términos de lo expuesto en el presente Acuerdo.
+
+SEXTO.- La Dirección Ejecutiva de Administración y la Dirección Jurídica, en su ámbito de competencia, estarán facultadas para interpretar el presente Reglamento para efectos administrativos y legales, respectivamente.
+
+SÉPTIMO.- Las disposiciones contenidas en el Reglamento a que se refiere el Acuerdo Primero, son de observancia general y carácter obligatorio para los órganos del Instituto Nacional Electoral y las personas físicas o morales que participen en las actividades, previas, durante o posteriores a los procedimientos de contratación o en los medios que se utilicen para la formalización de contrataciones en materia de adquisiciones, arrendamientos de bienes muebles y servicios.
+
+OCTAVO.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento, continuarán hasta su conclusión en los términos y las disposiciones establecidas en el Reglamento del Instituto Federal Electoral en Materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios vigente a la fecha del inicio del trámite.
+
+NOVENO.- Los contratos celebrados antes de la entrada en vigor del presente Reglamento, continuarán regulándose hasta su terminación por las disposiciones del Reglamento del Instituto Federal Electoral en Materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios vigente a la fecha del inicio del trámite.
+
+DÉCIMO.- Las controversias y procedimientos administrativos relativos a la instancia de inconformidad, sanción a proveedores, conciliaciones y arbitraje, así como los recursos de revisión que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado.
+
+DÉCIMO PRIMERO.- Publíquese el presente Acuerdo en la NormaINE (SIC), en la Gaceta Electoral y en el portal de internet del Instituto Nacional Electoral, así como un extracto del mismo en el Diario Oficial de la Federación con la liga electrónica para la ubicación del Anexo en dicho medio.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS DE BIENES MUEBLES Y SERVICIOS, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Instituto, de ser necesario, actualizará sus políticas, bases y lineamientos y demás disposiciones de carácter administrativo para ajustarlos al contenido del presente reglamento.
+
+TERCERO.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento, continuarán hasta su conclusión en los términos y las disposiciones establecidas en el Reglamento del Instituto Federal Electoral en materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios vigente a la fecha del inicio del trámite.
+
+CUARTO.- Los contratos celebrados antes de la entrada en vigor del presente Reglamento, continuarán regulándose hasta su terminación por las disposiciones del Reglamento del Instituto Federal Electoral en materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios vigente a la fecha del inicio del trámite.
