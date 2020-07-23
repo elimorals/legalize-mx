@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2020-02-20"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 20 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 2020.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 26 de agosto de 2004.
 
@@ -301,9 +299,9 @@ XXX. Vigilar que las Remuneraciones de los servidores públicos del Estado y Mun
 
 XXXI. Proporcionar a solicitud de los Ayuntamientos, asesoría técnica, información y orientación en materia de catálogos generales de puestos y de tabuladores de remuneraciones;
 
-> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, G.G. 23 DE JULIO DE 2020)</small>
 
-XXXII. Proporcionar la información que el Consejo Consultivo de Valoración Salarial en el cumplimiento de sus obligaciones le solicite; y
+XXXII. Proporcionar a la Comisión de Planeación y Gasto Público de la Legislatura, para el cumplimiento de sus atribuciones, la información, asesoría técnica, orientación y demás apoyo que le solicite en materia de catálogos generales de puestos y tabuladores de remuneraciones de los servidores públicos estatales y municipales;
 
 > <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1722,3 +1720,13 @@ Durante el periodo del 01 de enero al 30 de junio del 2020, para determinar el I
 SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
 
 OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
+
+G.G. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 158.- POR EL QUE SE REFORMA LA FRACCIÓN XXXII DEL ARTÍCULO 8 DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
