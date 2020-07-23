@@ -4,7 +4,7 @@ identifier: "SON-ley-de-donacion-y-trasplantes-para-organismos-humanos-sonora-45
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-20"
-last_updated: "2018-04-09"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JULIO DE 2020.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 20 de junio de 2005.
 
@@ -451,9 +451,13 @@ IX.- Habiéndose realizado el trasplante, el Coordinador Hospitalario dará avis
 
 El Gobierno del Estado otorgará todas las facilidades posibles para el aprovechamiento de los vehículos terrestres y aéreos a su disposición, para el traslado de órganos o tejidos destinados a ser trasplantados, así como a los receptores de la donación, cuando la urgencia del caso así lo amerite.
 
-ADICIONADO, B.O. 6 DE NOVIEMBRE DE 2017)
+> <small>(REFORMADO, B.O. 23 DE JULIO DE 2020)</small>
 
-Se otorgarán becas, estímulos educativos a los hijos de personas con pérdida de vida, que donen sus órganos para trasplante que así lo decidieron de manera voluntaria; dichos estímulos serán entregados por el Gobierno del Estado, a través del Instituto de Becas y Estímulos Educativos del Estado de Sonora.
+Se otorgarán becas y estímulos educativos hasta el nivel medio superior, solicitadas por las hijas e hijos de personas que, con pérdida de vida, donen sus órganos para trasplante y que así lo haya decido de manera voluntaria, bajo los principios de altruismo, ausencia de ánimo de lucro, factibilidad, confidencialidad, gratuidad y demás que señala la Ley General de Salud; dichos estímulos serán entregados por el Gobierno del Estado, a través del Instituto de Becas y Crédito Educativo del Estado del (sic) Sonora.
+
+> <small>(ADICIONADO, B.O. 23 DE JULIO DE 2020)</small>
+
+Así mismo, el Poder Ejecutivo del Estado, deberá otorgar atención médica obligatoria posterior al trasplante, a través y por conducto del Sistema Estatal de Salud, para atender todas las secuelas y el seguimiento médico correspondiente.
 
 ###### ARTICULO 21.
 
@@ -554,3 +558,23 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 9 DE ABRIL DE 2018.
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SONORA.]</small>
+
+B.O. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 114, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA Y DE LA LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con 90 días para adecuar sus disposiciones reglamentarias al presente Decreto, además el titular del Poder Ejecutivo del estado deberá de llevar a cabo dentro del presente ejercicio fiscal y subsecuentes, las adecuaciones presupuestales que se requieran y resulten suficientes al presupuesto de egresos, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto de Becas y Crédito Educativo del Estado de Sonora deberá tomar las medidas pertinentes y elaborar los lineamientos necesarios para implementar las disposiciones del presente decreto, tanto para el otorgamiento de las becas, como para dotar de suficiencia presupuestal, esto último en colaboración con la Secretaría de Hacienda.
+
+###### ARTÍCULO CUARTO.
+
+Cualquier dependencia estatal que tenga a su cargo programas de becas o estímulos educativos a la fecha de publicación del presente Decreto, deberá reportarlos de inmediato a la dirección del Instituto de Becas y Crédito Educativo del Estado de Sonora y tendrá un máximo de 30 días naturales para transferir al referido Instituto los recursos correspondientes, así como los padrones de beneficiarios, a fin de dar cumplimiento a lo dispuesto en el artículo 38 de la Ley del Instituto de Becas y Crédito Educativo del Estado de Sonora, modificado en el presente Decreto. Procurando la atención adecuada y pertinente a los grupos vulnerables e integrantes de los pueblos indígenas en cuanto a becas y estímulos educativos.
