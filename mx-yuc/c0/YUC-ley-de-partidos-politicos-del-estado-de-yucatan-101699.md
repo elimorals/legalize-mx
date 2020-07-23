@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-partidos-politicos-del-estado-de-yucatan-101699"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2017-05-31"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -69,9 +69,11 @@ IX. El régimen normativo aplicable en caso de pérdida de registro y liquidaci�
 
 X. El régimen jurídico aplicable a las agrupaciones políticas locales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2020)</small>
+
 ###### Artículo 2.
 
-Son derechos político-electorales de los ciudadanos yucatecos, con relación a los partidos políticos, los siguientes:
+Son derechos político-electorales de la ciudadanía yucateca, con relación a los partidos políticos, los siguientes:
 
 I. Asociarse o reunirse pacíficamente para tomar parte en los asuntos políticos del Estado;
 
@@ -87,7 +89,9 @@ Los partidos políticos son entidades de interés público con personalidad jur�
 
 Los partidos políticos tienen personalidad jurídica, gozan de los derechos y las prerrogativas y quedan sujetos a las obligaciones y, en su caso, a las sanciones que establecen la Constitución Federal, la Constitución y la Ley de Instituciones.
 
-Es derecho exclusivo de los ciudadanos yucatecos formar parte de agrupaciones y partidos políticos, así como afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 23 DE JULIO DE 2020)</small>
+
+Es derecho exclusivo de la ciudadanía yucateca formar parte de agrupaciones y partidos políticos, así como afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de:
 
 I. Organizaciones civiles, sociales o gremiales, nacionales o extranjeras;
 
@@ -95,11 +99,17 @@ II. Organizaciones con objeto social diferente a la creación de partidos polít
 
 III. Cualquier forma de afiliación corporativa.
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes. En la integración de sus órganos internos, buscarán la participación efectiva de ambos géneros.
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, D.O. 31 DE MAYO DE 2017)</small>
+Los partidos políticos promoverán los valores cívicos y la cultura democrática, la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación paritaria en la integración de sus órganos, así como en la postulación de candidaturas.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados locales, presidentes municipales, síndicos y regidores de los ayuntamientos. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a las diputaciones, así como en la integración de los ayuntamientos. Éstos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
+
+En caso de incumplimiento a esta disposición serán acreedores a las sanciones que establezcan las leyes en la materia.
 
 En ningún caso, se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos electorales locales en los que el partido político haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
@@ -107,7 +117,9 @@ En ningún caso, se admitirán criterios que tengan como resultado que alguno de
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Afiliado o militante: El ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+
+I. Afiliado o militante: La ciudadana o el ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
 
 II. Consejo General del Instituto: El Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán;
 
@@ -123,11 +135,19 @@ VII. Ley General: La Ley General de Partidos Políticos;
 
 VIII. Ley: Ley de Partidos Políticos del Estado de Yucatán;
 
-IX. Partidos políticos: Los partidos políticos nacionales y locales;
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
 
-X. Tribunal Electoral: El Tribunal Electoral del Estado de Yucatán, y
+IX. Ley General de Acceso: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-XI. Unidad Técnica de Fiscalización: La Unidad Técnica de Fiscalización del Instituto Electoral y de Participación Ciudadana de Yucatán.
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+X. Ley de Acceso: Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán;
+
+XI. Partidos políticos: Los partidos políticos nacionales y locales;
+
+XII. Tribunal Electoral: El Tribunal Electoral del Estado de Yucatán, y
+
+XIII. Unidad Técnica de Fiscalización: La Unidad Técnica de Fiscalización del Instituto Electoral y de Participación Ciudadana de Yucatán.
 
 ###### Artículo 5.
 
@@ -371,7 +391,9 @@ III. Gozar de facultades para regular su vida interna y determinar su organizaci
 
 IV. Acceder a las prerrogativas y recibir el financiamiento público en los términos de esta Ley así como en las demás leyes y disposiciones aplicables de la materia;
 
-V. Organizar procesos internos para seleccionar y postular candidatos en las elecciones, en los términos de esta Ley y demás leyes aplicables a la materia;
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+
+V. Organizar procesos internos para seleccionar y postular candidaturas en las elecciones garantizando la participación de mujeres y hombres en igualdad de condiciones, en los términos de esta Ley;
 
 VI. Formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección que establezca el Estatuto de cada uno de los partidos políticos, en los términos de esta Ley y demás aplicables a la materia;
 
@@ -419,7 +441,9 @@ III. Mantener el mínimo de militantes requeridos en las leyes respectivas para 
 
 IV. Ostentar la denominación, emblema y color o colores que tengan registrados, los cuales no podrán ser iguales o semejantes a los utilizados por partidos políticos ya existentes;
 
-V. Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidatos;
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+
+V. Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidaturas;
 
 VI. Mantener en funcionamiento efectivo a sus órganos estatutarios;
 
@@ -467,13 +491,27 @@ XXIV. Garantizar la paridad entre los géneros en candidaturas a legisladores lo
 
 XXV. Diseñar y poner en práctica programas para institucionalizar la perspectiva de género en el partido;
 
-> <small>(ADICIONADA, D.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
-XXVI. Garantizar a las militantes que contiendan o ejerzan un cargo de elección popular, el no ejercicio de la violencia política contra ellas; así como sancionar a quienes lo ejerzan, y
+XXVI. Garantizar a las militantes que contiendan o ejerzan un cargo de elección popular, el no ejercicio de la violencia política contra ellas; así como sancionar a quienes lo ejerzan;
 
-> <small>(ADICIONADA, D.O. 8 DE MAYO DE 2017)</small>
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
 
-XXVII. Las demás que establezca esta Ley y las aplicables a la materia.
+XXVII. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones;
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+XXVIII. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de la Ley General de Acceso y la Ley de Acceso;
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+XXIX. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+XXX. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la presente Ley, dentro de los cuales deberán informar trimestralmente de manera pormenorizada y justificada sobre la aplicación de los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres; y,
+
+XXXI. Las demás que establezca esta Ley y las aplicables a la materia.
 
 ###### Artículo 26.
 
@@ -631,9 +669,21 @@ II. Los principios ideológicos de carácter político, económico y social que 
 
 III. La declaración de no aceptar pacto o acuerdo que sujete o subordine al solicitante a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como no solicitar o, en su caso, rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de los cultos de cualquier religión, así como de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a las que esta Ley prohíbe financiar a los partidos políticos;
 
-IV. La obligación de conducir sus actividades por medios pacíficos y por la vía democrática, y
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
-V. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres.
+IV. La obligación de conducir sus actividades por medios pacíficos y por la vía democrática;
+
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+
+V. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres;
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+VI. La obligación de promover, proteger y respetar los derechos políticos y electorales de las mujeres, establecidos en la constitución, la constitución federal y en los tratados internacionales firmados y ratificados por México, y
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+VII. Establecer mecanismos de sanción aplicables a quien o quienes ejerzan violencia política contra las mujeres en razón de género, acorde a lo estipulado en la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán, Ley de (sic) General de Acceso de las Mujeres a una Vida Libre de Violencia, en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán y las demás leyes aplicables.
 
 ###### Artículo 39.
 
@@ -643,9 +693,21 @@ I. Realizar los postulados y alcanzar los objetivos enunciados en su declaració
 
 II. Proponer políticas públicas;
 
-III. Formar ideológica y políticamente a sus militantes infundiendo en ellos el respeto al adversario y a sus derechos en la contienda política, y
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
-IV. Preparar la participación activa de sus militantes en los procesos electorales.
+III. Formar ideológica y políticamente a sus militantes infundiendo en ellos el respeto al adversario y a sus derechos en la contienda política;
+
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+
+IV. Preparar la participación activa de sus militantes en los procesos electorales;
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+V. Establecer mecanismos de promoción y acceso de las mujeres a la actividad política del partido, así como la formación de liderazgos políticos, y
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+VI. Preparar la participación activa de las y los militantes en los procesos electorales.
 
 ###### Artículo 40.
 
@@ -669,9 +731,21 @@ VIII. La obligación de sus candidatos de sostener y difundir la plataforma elec
 
 IX. Los tipos y las reglas de financiamiento privado a los que recurrirán los partidos políticos, en términos de lo dispuesto en esta Ley, y demás normas aplicables;
 
-X. Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones, y
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
-XI. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva.
+X. Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones;
+
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+
+XI. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva;
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+XII. Los mecanismos y procedimientos que permitirán garantizar la integración de liderazgos políticos de mujeres al interior del partido, y
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+XIII. Los mecanismos que garanticen la prevención, atención y sanción de la violencia política contra las mujeres en razón de género.
 
 ### CAPÍTULO III. De los derechos y obligaciones de los militantes
 
@@ -739,11 +813,17 @@ III. Un órgano responsable de la administración de su patrimonio y recursos fi
 
 IV. Un órgano de decisión colegiada, democráticamente integrado, responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidatos a cargos de elección popular;
 
-V. Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo;
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+
+V. Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial, objetivo y aplicará la perspectiva de género en todas las resoluciones que emita.
 
 VI. Un órgano encargado de cumplir con las obligaciones de transparencia y acceso a la información que la Constitución y las leyes de la materia imponen a los partidos políticos, y
 
 VII. Un órgano encargado de la educación y capacitación cívica de los militantes y dirigentes.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
+
+En dichos órganos internos se garantizará el principio de paridad de género.
 
 ### CAPÍTULO V. De los procesos de integración de órganos internos y de selección de candidatos
 
@@ -767,7 +847,9 @@ f) Reglas generales y topes de gastos de campaña para la elección de dirigente
 
 g) Método de selección, para el caso de voto de los militantes, éste deberá ser libre y secreto;
 
-h) Fecha y lugar de la elección, y
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
+
+h) Fecha y lugar de la elección, e
 
 i) Fechas en las que se deberán presentar los informes de ingresos y egresos de campaña o de precampaña, en su caso.
 
@@ -775,7 +857,9 @@ II. El órgano colegiado a que se refiere la fracción IV del artículo anterior
 
 a) Registrará a los precandidatos o candidatos y dictaminará sobre su elegibilidad, y
 
-b) Garantizará la imparcialidad, equidad, transparencia y legalidad de las etapas del proceso.
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
+
+b) Garantizará la imparcialidad, igualdad, equidad, transparencia, paridad y legalidad de las etapas del proceso.
 
 ###### Artículo 46.
 
@@ -787,7 +871,9 @@ Los partidos políticos locales podrán solicitar al Instituto Nacional Electora
 
 Los partidos políticos establecerán procedimientos de justicia intrapartidaria, que incluyan mecanismos alternativos de solución de controversias.
 
-El órgano de decisión colegiado previsto en la fracción V del artículo 44 de esta Ley, deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de miembros; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así como con respeto a los plazos que establezcan los estatutos de los partidos políticos.
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
+
+El órgano de decisión colegiado previsto en la fracción V del artículo 44 de esta Ley, deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de integrantes; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así mismo deberá sustanciar cualquier procedimiento con perspectiva de género, y el respeto a los plazos que establezcan los estatutos de los partidos políticos.
 
 Los estatutos de los partidos políticos establecerán medios alternativos de solución de controversias sobre asuntos internos, para lo cual deberán prever los supuestos en los que serán procedentes, la sujeción voluntaria, los plazos y las formalidades del procedimiento.
 
@@ -803,7 +889,9 @@ En las resoluciones de los órganos de decisión colegiados se deberán ponderar
 
 El sistema de justicia interna de los partidos políticos deberá tener las siguientes características:
 
-I. Tener una sola instancia de resolución de conflictos internos a efecto de que las resoluciones se emitan de manera pronta y expedita;
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
+
+I. Tener una sola instancia de resolución de conflictos internos a efecto de que las resoluciones se emitan de manera pronta y expedita, aplicando la perspectiva de género y garantizando el acceso a la justicia;
 
 II. Establecer plazos ciertos para la interposición, sustanciación y resolución de los medios de justicia interna;
 
@@ -887,7 +975,9 @@ III. Para actividades específicas como entidades de interés público:
 
 a) La educación, capacitación y profesionalización política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al 7 % del que corresponda en el mismo año para las actividades ordinarias permanentes; el monto total será distribuido en los términos establecidos en el inciso c) de la fracción I de este artículo.
 
-b) En este mismo rubro y para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, con base en un programa anual, cada partido político deberá garantizar y destinar anualmente al menos el 25 % del financiamiento para actividades específicas.
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2020)</small>
+
+b) En este mismo rubro y para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, con base en un programa anual, cada partido político deberá garantizar y destinar anualmente un mínimo del 25 % y un máximo de hasta el 50% del financiamiento para actividades específicas.
 
 c) El Instituto, a través de la Unidad Técnica de Fiscalización, en caso de tener delegada la facultad, vigilará que los partidos políticos destinen el financiamiento a que se refiere la presente fracción, exclusivamente a las actividades señaladas, y que cumplan con las actividades del respectivo programa anual para promover el avance de los derechos políticos de las mujeres.
 
@@ -905,9 +995,15 @@ Las cantidades a que se refiere este artículo serán entregadas por la parte pr
 
 La Junta General Ejecutiva del Instituto, es el órgano responsable de la aplicación de las disposiciones contenidas en el presente artículo y el artículo 52 de esta Ley, así como de entregar el financiamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 23 DE JULIO DE 2020)</small>
+
 ###### Artículo 54.
 
 Para que un partido político nacional cuente con recursos públicos locales, deberá haber obtenido el 3 % de la votación válida emitida en cualquier elección del proceso electoral ordinario anterior en el Estado.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
+
+Los partidos nacionales que no alcancen el porcentaje establecido en este artículo, tendrán derecho a recibir financiamiento público para la obtención del voto, sólo en el año de la elección y conforme a lo establecido en la fracción I del artículo 53 de esta ley.
 
 Para que un partido político local cuente con recursos públicos locales, deberá haber conservado el registro estatal conforme a esta Ley.
 
@@ -1141,11 +1237,15 @@ II. La elaboración, publicación y distribución de libros, revistas, folletos 
 
 III. La organización de mesas de trabajo, conferencias, talleres, eventos y proyecciones que permitan difundir temas relacionados con el desarrollo de la mujer en su incorporación a la vida política;
 
-IV. La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia;
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
 
-V. Todo gasto necesario para la organización y difusión de las acciones referidas, y
+IV. La creación o fortalecimiento de mecanismos para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género;
 
-VI. Las demás que sean similares a la materia.
+V. La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia;
+
+VI. Todo gasto necesario para la organización y difusión de las acciones referidas, y
+
+VII. Las demás que sean similares a la materia.
 
 ###### Artículo 69.
 
@@ -1672,3 +1772,17 @@ Artículo cuarto. El Director Ejecutivo de Procedimientos Electorales y Particip
 Artículo quinto. El Contralor del Instituto, a partir de la entrada en vigor del presente decreto será Titular del Órgano Interno de Control.
 
 Artículo sexto. La reforma contenida en el artículo 52 de la Ley de Partidos Políticos del Estado de Yucatán, referente al financiamiento público entrará en vigor a partir del 1 de octubre de 2017.
+
+D.O. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 264/2020 POR EL QUE SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA POLÍTICA POR RAZÓN DE GÉNERO Y PARIDAD DE GÉNERO".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párrafo, 156, 165 y 189 de la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán a la que se refiere este decreto, los cuales entrarán en vigor a partir del 1 de septiembre de 2021.
+
+Artículo segundo. Derogación tácita
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
