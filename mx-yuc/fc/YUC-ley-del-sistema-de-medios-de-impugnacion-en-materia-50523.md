@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-de-medios-de-impugnacion-en-materia-50523"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-24"
-last_updated: "2017-05-31"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 24 de mayo de 2006.
 
@@ -277,13 +277,17 @@ III.- Habiéndose asociado con otros ciudadanos para tomar parte en forma pacíf
 
 IV.- Considere que un acto o resolución de la autoridad, organismos electorales o de asociaciones políticas, vulneren sus derechos de votar y ser votado en las elecciones locales, y de afiliarse o asociarse libre e individualmente a los partidos políticos;
 
-> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
-V.- Existan violaciones al derecho de ser votado en su vertiente de acceso y desempeño de un cargo de elección popular o su correspondiente remuneración, y
+V.- Existan violaciones al derecho de ser votado en su vertiente de acceso y desempeño de un cargo de elección popular o su correspondiente remuneración;
 
-> <small>(ADICIONADA, D.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
-VI.- Existan violaciones al derecho a integrar órganos electorales en su vertiente de acceso y desempeño del cargo o su correspondiente remuneración.
+VI.- Existan violaciones al derecho a integrar órganos electorales en su vertiente de acceso y desempeño del cargo o su correspondiente remuneración; y
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+VII.- Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán y en la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán.
 
 ## TITULO CUARTO. DE LAS REGLAS DE ADMISION
 
@@ -1242,3 +1246,17 @@ Artículo cuarto. El Director Ejecutivo de Procedimientos Electorales y Particip
 Artículo quinto. El Contralor del Instituto, a partir de la entrada en vigor del presente decreto será Titular del Órgano Interno de Control.
 
 Artículo sexto. La reforma contenida en el artículo 52 de la Ley de Partidos Políticos del Estado de Yucatán, referente al financiamiento público entrará en vigor a partir del 1 de octubre de 2017.
+
+D.O. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 264/2020 POR EL QUE SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA POLÍTICA POR RAZÓN DE GÉNERO Y PARIDAD DE GÉNERO”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párrafo, 156, 165 y 189 de la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán a la que se refiere este decreto, los cuales entrarán en vigor a partir del 1 de septiembre de 2021.
+
+Artículo segundo. Derogación tácita
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
