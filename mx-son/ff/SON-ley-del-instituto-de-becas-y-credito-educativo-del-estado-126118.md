@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-becas-y-credito-educativo-del-estado-12611
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-29"
-last_updated: "2018-01-29"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JULIO DE 2020.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de enero de 2018.
 
@@ -413,7 +413,9 @@ V. Presentar el Programa Operativo Anual y presentarlo para su aprobación a la 
 
 VI. Administrar y asegurar el uso adecuado de los recursos del Instituto;
 
-VII. Celebrar acuerdos, convenios y contratos con los sectores públicos, privado y social;
+> <small>(REFORMADA, B.O. 23 DE JULIO DE 2020)</small>
+
+VII. Gestionar y celebrar acuerdos, convenios y contratos con los sectores públicos, privado y social, de forma que el Instituto obtenga mayor financiamiento público o privado para el otorgamiento de becas, promoviendo los estímulos fiscales que existan a favor de posibles donantes de recursos;
 
 VIII. Integrar y difundir la información de todos los programas de becas, estímulos y créditos educativos disponibles en el Estado, incluyendo tanto los del sector público como los de los sectores privado y social, con los que se tenga convenio;
 
@@ -587,9 +589,15 @@ En las ausencias temporales de uno o varios titulares de las Unidades Administra
 
 La Junta Directiva a propuesta del Comité y del Director aprobará las disposiciones generales para el otorgamiento de becas las cuales deberán apegarse a los criterios de objetividad, equidad, transparencia, publicidad, selectividad, honradez, eficiencia y eficacia.
 
-Dentro de las disposiciones y criterios que al efecto se determinen en el reglamento, manuales y convocatoria respectiva se deberá privilegiar el aspecto socioeconómico para el otorgamiento de las becas.
+> <small>(REFORMADO, B.O. 23 DE JULIO DE 2020)</small>
 
-La única instancia para el otorgamiento de becas lo será el Instituto, sin que estas sean otorgadas a través de planes o programas ni servidores públicos distintos a los autorizados por esta Ley, los reglamentos y manuales respectivos.
+Dentro de las disposiciones y criterios que al efecto se determinen en el reglamento, manuales y convocatoria respectiva se deberá privilegiar el aspecto socioeconómico para el otorgamiento de las becas, salvo tratándose de los supuestos de Becas y/o Estímulos Educativos otorgados por la donación de órganos y por discapacidad, en concordancia con lo establecido en los artículos 39, inciso f), y 39 (sic)
+
+(sic) BIS Procurando la atención adecuada y pertinente a los grupos vulnerables e integrantes de los pueblos indígenas en cuanto a becas y estímulos educativos.
+
+> <small>(REFORMADO, B.O. 23 DE JULIO DE 2020)</small>
+
+La única instancia autorizada del Gobierno del Estado para el otorgamiento de becas y estímulos educativos será el Instituto, y éstas no pueden ser otorgadas a través de planes o programas ni servidores públicos distintos a los autorizados por esta Ley, los reglamentos y manuales respectivos.
 
 ###### Artículo 39.
 
@@ -603,9 +611,17 @@ b) Para alumnos de escuelas públicas y particulares de educación media superio
 
 c) Especiales para alumnos que tengan alguna discapacidad que se encuentren inscritos en escuelas públicas de educación básica y media superior; y para alumnos en escuelas particulares se atenderá lo dispuesto en la Ley de Educación para el Estado de Sonora
 
-d) Para posgrados, y
+> <small>(REFORMADO, B.O. 23 DE JULIO DE 2020)</small>
 
-e) A descendientes de personas con pérdida de vida, que hayan donado sus órganos altruista y voluntariamente para trasplante, siempre y cuando se mantengan en el sistema escolar, conforme a la Ley de Donación y Trasplantes para organismos humanos
+d) Para alumnos que requieran desplazarse a lugares distintos a los de su residencia para realizar sus estudios y que sean de escasos recursos económicos.
+
+> <small>(REFORMADO, B.O. 23 DE JULIO DE 2020)</small>
+
+e) Para posgrados; y
+
+> <small>(ADICIONADO, B.O. 23 DE JULIO DE 2020)</small>
+
+f) A descendientes de personas fallecidas, que en vida hayan donado sus órganos de forma altruista y voluntaria para trasplante, siempre y cuando se mantengan en el sistema escolar desde educación básica hasta media superior, conforme a la Ley de Donación y Trasplantes para Organismos Humanos.
 
 El promedio mínimo para el otorgamiento de las becas será de 8.0, la Junta podrá determinar en el Reglamento respectivo los promedios para cada uno de los niveles escolares, así como autorizar los casos de excepción y especiales para el otorgamiento de las becas cuando no se cumpla con el promedio mínimo requerido por esta Ley
 
@@ -631,9 +647,15 @@ Además de las modalidades de becas y estímulos educativos anteriores, la Junta
 
 Ninguna persona podrá recibir más de una beca o estímulo educativo de los antes señalados durante el mismo ciclo escolar.
 
+> <small>(ADICIONADO, B.O. 23 DE JULIO DE 2020)</small>
+
+Artículo 39 BIS.- El Instituto tiene la obligación de otorgar las becas especiales a que se refiere el artículo 39, fracción I, inciso c), que sean solicitadas por alumnos de educación básica y media superior, que cuenten con alguna discapacidad en términos de la Ley para la Inclusión y Desarrollo de las Personas con Discapacidad o Personas en Situación de Discapacidad del Estado de Sonora, salvo los casos señalados en el artículo 47.
+
+> <small>(REFORMADO, B.O. 23 DE JULIO DE 2020)</small>
+
 ###### Artículo 40.
 
-El número de becas y estímulos educativos que el Instituto ofrezca y otorgue para cada ciclo escolar, dependerá de la previsión presupuestal autorizada para tal efecto, la cual no deberá ser menor a la correspondiente al ejercicio fiscal inmediato anterior, procurando, en su caso, conforme al presupuesto autorizado un incremento en el número de becarios.
+El número de becas y estímulos educativos que el Instituto ofrezca y otorgue para cada ciclo escolar, se financiará de la previsión presupuestal autorizada para tal efecto, la cual será irreductible respecto al ejercicio fiscal inmediato anterior y no podrá ser reducida por ningún motivo durante el ejercicio fiscal en curso, procurando, en su caso, conforme al presupuesto autorizado un incremento en el número de becarios.
 
 ###### Artículo 41.
 
@@ -671,7 +693,9 @@ Los requisitos para cada modalidad de beca y estímulo educativo se establecerá
 
 Los criterios para la selección de becarios, considerando dentro de la aplicación de éstos el promover la reducción del ausentismo y la deserción escolar, serán guardando un orden jerárquico entre éstos, los siguientes:
 
-I. Alumnos con alguna discapacidad de las previstas en las diversas disposiciones legales;
+> <small>(REFORMADA, B.O. 23 DE JULIO DE 2020)</small>
+
+I. Alumnos con alguna discapacidad en términos de la Ley para la Inclusión y Desarrollo de las Personas con Discapacidad o Personas en Situación de Discapacidad del Estado de Sonora;
 
 II. Alumnos en condiciones de pobreza extrema;
 
@@ -685,9 +709,17 @@ VI. Alumnos cuya madre sea jefa de familia, viuda o soltera o cuyo padre sea el 
 
 VII. Alumnos que cuenten con un promedio sobresaliente y sean de escasos recursos económicos;
 
-VIII. Alumnos que requieran desplazarse a lugares distintos a los de su residencia para realizar sus estudios y de escasos recursos económicos;
+> <small>(REFORMADA, B.O. 23 DE JULIO DE 2020)</small>
+
+VIII. Alumnos que requieran desplazarse a lugares distintos a los de su residencia para realizar sus estudios y que sean de escasos recursos económicos; y
 
 IX. Aquellos que sean aprobados por la Junta de acuerdo al caso o programa que se establezca.
+
+> <small>(ADICIONADO, B.O. 23 DE JULIO DE 2020)</small>
+
+Artículo 45 BIS.- Para el caso de alumnos inscritos en el nivel superior que requieran desplazarse a lugares distintos de su residencia para realizar sus estudios y que sean de escasos recursos económicos, el Instituto destinará una reserva presupuestal específica para el otorgamiento de becas.
+
+El monto a que hace alusión el párrafo anterior deberá ser determinado por el Instituto por sí mismo y en coordinación con la Secretaría de Hacienda del Estado al momento de formular el proyecto de presupuesto de Egresos y la Ley de Ingresos para cada ejercicio fiscal, tomando en cuenta los criterios estadísticos que genera el propio Instituto, así como las consideraciones expuestas en su Plan Operativo Anual.
 
 ###### Artículo 46.
 
@@ -814,3 +846,25 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los ocho días del mes de enero del año dos mil dieciocho.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 114, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA Y DE LA LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con 90 días para adecuar sus disposiciones reglamentarias al presente Decreto, además el titular del Poder Ejecutivo del estado deberá de llevar a cabo dentro del presente ejercicio fiscal y subsecuentes, las adecuaciones presupuestales que se requieran y resulten suficientes al presupuesto de egresos, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto de Becas y Crédito Educativo del Estado de Sonora deberá tomar las medidas pertinentes y elaborar los lineamientos necesarios para implementar las disposiciones del presente decreto, tanto para el otorgamiento de las becas, como para dotar de suficiencia presupuestal, esto último en colaboración con la Secretaría de Hacienda.
+
+###### ARTÍCULO CUARTO.
+
+Cualquier dependencia estatal que tenga a su cargo programas de becas o estímulos educativos a la fecha de publicación del presente Decreto, deberá reportarlos de inmediato a la dirección del Instituto de Becas y Crédito Educativo del Estado de Sonora y tendrá un máximo de 30 días naturales para transferir al referido Instituto los recursos correspondientes, así como los padrones de beneficiarios, a fin de dar cumplimiento a lo dispuesto en el artículo 38 de la Ley del Instituto de Becas y Crédito Educativo del Estado de Sonora, modificado en el presente Decreto. Procurando la atención adecuada y pertinente a los grupos vulnerables e integrantes de los pueblos indígenas en cuanto a becas y estímulos educativos.
