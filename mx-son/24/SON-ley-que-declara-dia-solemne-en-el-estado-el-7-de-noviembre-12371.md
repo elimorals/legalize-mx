@@ -4,7 +4,7 @@ identifier: "SON-ley-que-declara-dia-solemne-en-el-estado-el-7-de-noviembre-1237
 country: "mx"
 rank: "ley"
 publication_date: "1964-11-04"
-last_updated: "1964-11-04"
+last_updated: "2020-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY QUE DECLARA DIA SOLEMNE EN EL ESTADO EL 7 DE NOVIEMBRE DE CADA AÑO, EN CONMEMORACION DE LA GESTA HEROICA DE JESUS GARCIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO FRACCIÓN II DEL TRANSITORIO DE LA LEY QUE DECLARA LAS FECHAS CÍVICAS DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 23 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE DECLARA DIA SOLEMNE EN EL ESTADO DE SONORA EL 7 DE NOVIEMBRE DE CADA AÑO, EN CONMEMORACION DE LA GESTA HEROICA DE JESUS GARCIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el miércoles 4 de noviembre de 1964.
 
@@ -68,3 +70,23 @@ LIC. LUIS ENCINAS
 El Secretario de Gobierno,
 
 LIC. ENRIQUE FOX ROMERO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “LEY NÚMERO 165 QUE DECLARA LAS FECHAS CÍVICAS DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan:
+
+I.- La Ley que declara Día de Luto en el Estado, el 17 de Julio, aprobada el 30 de julio de 1928;
+
+II.- La Ley que declara Día Solemne en el Estado de Sonora el 7 de Noviembre de cada Año, en Conmemoración de la Gesta Heroica de Jesús García, publicada en el Boletín Oficial del Gobierno del Estado número 37, de fecha 04 de noviembre de 1964;
+
+III.- La Ley que Declara los Días Estatales de las Gestas Heroicas de los Municipios de Guaymas, Caborca, Ures, Cananea y Nogales, publicada en el Boletín Oficial del Gobierno del Estado número 34, sección I, de fecha 26 de abril de 2018.
