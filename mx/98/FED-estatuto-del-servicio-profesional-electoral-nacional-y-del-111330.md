@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-nacional-y-del-1113
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-01-15"
-last_updated: "2017-09-01"
+last_updated: "2020-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-10-30"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA, PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2020 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de enero de 2016.
 
@@ -5838,3 +5840,145 @@ D.O.F. 1 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA, PARA ARMONIZARLO CON LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES REFORMADA MEDIANTE DECRETO PUBLICADO EL 27 DE ENERO DEL 2017, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA".]
 
 ÚNICO. El titular del Órgano Interno de Control del Instituto Nacional Electoral, resolverá los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, conforme las normas vigentes al momento de su inicio.
+
+D.O.F. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA REFORMA AL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA”.]
+
+Primero. Las disposiciones del presente Estatuto entrarán en vigor el día hábil siguiente a su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente Estatuto, se abroga el Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa del Instituto Nacional Electoral publicado en el Diario Oficial de la Federación el 15 de enero de 2016 y se derogan todas las disposiciones que lo contravengan.
+
+Tercero. Se le reconocerán al personal del Instituto las prestaciones devengadas o generadas durante la vigencia de las normas anteriores a la entrada en vigor del presente Estatuto.
+
+Cuarto. Se mantendrá en vigor toda normativa secundaria que no se oponga al presente Estatuto, hasta en tanto se expidan o reformen las disposiciones que surjan del presente ordenamiento.
+
+Quinto. La Junta aprobará la actualización del Catálogo de Cargos y Puestos del Servicio que comprenda la definición de los niveles para el sistema del Instituto, los cargos y puestos a los que dan acceso, así como la revisión y homologación de los perfiles para favorecer la carrera profesional electoral, a más tardar el 31 de diciembre de dos mil veinte.
+
+Con base en dicha actualización, a propuesta de la DESPEN y la DEA, la Junta aprobará el manual de remuneraciones para los servidores públicos de mando; la publicación de la estructura ocupacional en el Diario Oficial de la Federación y la actualización de los Tabuladores de Sueldos para el Personal del Servicio Profesional Electoral Nacional del sistema del Instituto, para el personal de la Rama Administrativa y el de remuneraciones para las contrataciones bajo el régimen de honorarios permanentes, a más tardar el 28 de febrero de dos mil veintiuno.
+
+Sexto. Los nombramientos que hayan sido otorgados a las y los miembros del Servicio del sistema del Instituto anteriores a la entrada en vigor del presente Estatuto serán adaptados en los términos comprendidos en el mismo, sin que dichas modificaciones afecten sus prestaciones y demás derechos laborales adquiridos.
+
+Séptimo. En virtud de que los ciclos trianuales se organizan en función del proceso electoral federal, el primer ciclo íntegro será de septiembre de 2022 a agosto de 2025. Para efectos de la carrera profesional electoral en el Instituto se contemplará como un primer ciclo de transición el que se extiende de septiembre de 2020 a agosto de 2022.
+
+Octavo. Las y los servidores públicos miembros del Servicio del sistema del Instituto que a la entrada en vigor del presente Estatuto sean titulares de rango inicial pasarán a ser titulares con rango A; los titulares con rango C serán titulares con rango B y los que tengan el carácter de titulares con rango B pasarán a ser titulares con rango C, de conformidad con el presente ordenamiento estatutario.
+
+Noveno. Las y los miembros del Servicio que tienen el carácter de provisionales en términos del anterior Estatuto, a partir de la entrada en vigor del presente ordenamiento pasarán a ser miembros asociados.
+
+Para la obtención de la titularidad les serán aplicadas las normas contenidas en el presente Estatuto y se les reconocerán los avances obtenidos en el programa de formación y los resultados de la evaluación del desempeño.
+
+Décimo. Con la finalidad de que la titularidad de los rangos A, B y C se refleje en la compensación garantizada mensual de las y los miembros del Servicio del sistema del Instituto, se incluirá dicha previsión en el proyecto de presupuesto del Instituto para el ejercicio fiscal dos mil veintiuno, año en que se concretará el nuevo modelo de reconocimiento a la titularidad y rangos. En tanto sea aprobado el nuevo Tabulador de Sueldos del Instituto, las y los miembros del Servicio con la actual titularidad y rangos, así como quienes la obtengan en el transcurso de 2020 continuarán percibiendo los pagos en los términos del ejercicio fiscal en curso.
+
+Undécimo. El Consejo General designará en los meses de septiembre y octubre de 2020 a las y los funcionarios que durante los procesos electorales actuarán como presidentes de los consejos locales y distritales, respectivamente, y que en todo tiempo fungirán como vocales ejecutivos de las juntas correspondientes. A partir del nombramiento, el desempeño del cargo como presidente se mantendrá durante todos los procesos electorales en que el Instituto participe.
+
+Cuando se genere una vacante de vocal ejecutiva o ejecutivo local o distrital, al momento de realizar la designación de la persona que ocupe la plaza, se realizará la designación de la presidencia del consejo local o distrital correspondiente. Dichas designaciones se mantendrán vigentes sin importar la adscripción en que se encuentren.
+
+Duodécimo. Los lineamientos y demás disposiciones normativas referidos en los Libros Primero y Segundo del presente Estatuto que no sean materia del Servicio Profesional Electoral, serán desarrollados por la Dirección Ejecutiva de Administración con posterioridad a su entrada en vigor, de la siguiente manera:
+
+En un plazo de seis meses:
+
+a) Lineamientos para la elaboración o actualización de manuales de organización del INE;
+
+b) Lineamientos para la elaboración y actualización de manuales de procesos y procedimientos;
+
+c) Lineamientos para el pago de aguinaldo y gratificación de fin de año;
+
+d) Manual de Normas Administrativas en Materia de Recursos Humanos, y
+
+e) Reglas de operación para el uso del fondo de InnovaINE, así como el otorgamiento de premios que son resultado de concursos de Innovación.
+
+Décimo tercero. Los lineamientos referidos en el Libro Tercero del presente Estatuto serán desarrollados por la Dirección Ejecutiva del Servicio Profesional Electoral Nacional con posterioridad a su entrada en vigor, de la siguiente manera:
+
+En un plazo de tres meses:
+
+a) Lineamientos para la Evaluación del Desempeño.
+
+En un plazo de seis meses:
+
+b) Lineamientos para los Encargos de Despacho;
+
+c) Lineamientos para la Incorporación Temporal;
+
+d) Lineamientos para el Reingreso y la Reincorporación;
+
+e) Lineamientos para Titularidad y Promoción en rango;
+
+f) Lineamientos para Incentivos;
+
+g) Lineamientos para la actualización del Catálogo del Servicio.
+
+h) Lineamientos de los Sistemas de Información y Registro del Servicio, y
+
+i) Lineamientos para la Planeación y Evaluación del Servicio.
+
+En un plazo de doce meses:
+
+j) Lineamientos para la Permanencia;
+
+k) Lineamientos para el Concurso Público;
+
+l) Lineamientos para Cursos y Prácticas;
+
+m) Lineamientos para el Ascenso y Certamen Interno;
+
+n) Lineamientos para Cambios de Adscripción y Rotación;
+
+o) Lineamientos para la Profesionalización y Capacitación;
+
+p) Lineamientos para la regulación de las asesorías impartidas por los Miembros del Servicio en materia de los mecanismos de Profesionalización y Capacitación, y
+
+q) Lineamientos para Actividades externas y disponibilidad.
+
+Para el certamen interno para el ascenso, la Junta deberá definir en un plazo de doce meses las equivalencias correspondientes a cada nivel, así como los perfiles de los cargos y puestos de quienes podrán participar.
+
+Décimo cuarto. Los Lineamientos referidos en el Libro Cuarto del presente Estatuto serán desarrollados por la Dirección Jurídica del Instituto con posterioridad a su entrada en vigor de la siguiente manera:
+
+En un plazo de dos meses:
+
+a) Lineamientos aplicables a la Conciliación Laboral; al Procedimiento Laboral Sancionador y al Recurso de Inconformidad.
+
+Décimo quinto. Los Lineamientos referidos en el Libro Quinto del presente Estatuto serán desarrollados por la Dirección Ejecutiva del Servicio Profesional Electoral Nacional en un plazo no mayor a los dos meses a partir de que el lineamiento respectivo para el sistema del INE haya sido aprobado. Dichos lineamientos son:
+
+a) Lineamientos para la Permanencia,
+
+b) Lineamientos para Incentivos;
+
+c) Lineamientos para los Encargos de Despacho;
+
+d) Lineamientos para la Incorporación Temporal;
+
+e) Lineamientos para el Reingreso y la Reincorporación;
+
+f) Lineamientos para Titularidad y Promoción en rango, y
+
+g) Lineamientos para la Evaluación del Desempeño
+
+h) Lineamientos aplicables a la Conciliación Laboral; al Procedimiento Laboral Sancionador y al Recurso de Inconformidad de los OPLE, y
+
+i) Lineamientos para el Concurso Público;
+
+j) Lineamientos para el Ascenso y Certamen Interno;
+
+k) Lineamientos para Cambios de Adscripción y Rotación;
+
+l) Lineamientos para la Profesionalización y la Capacitación, y
+
+m) Lineamientos para Actividades externas y disponibilidad.
+
+Décimo sexto. En tanto se aprueban los nuevos lineamientos que regulan los mecanismos de Selección e Ingreso, Capacitación, Profesionalización, Cambios de Adscripción y Rotación, Evaluación, Promoción, Permanencia y Disciplina del sistema del Servicio para los OPLE previstos en el presente Estatuto seguirán vigentes los del Estatuto anterior.
+
+Décimo séptimo. Los avances en el actual programa de formación de las y los miembros del Servicio se reconocerán a través de un acuerdo que para tal efecto emita la Comisión a propuesta de la DESPEN en un plazo no mayor a 90 días de la entrada en vigor del presente Estatuto.
+
+Décimo octavo. Los permisos por actividades externas y disponibilidad que fueron otorgados a miembros del Servicio antes de la entrada en vigor del presente Estatuto continuarán vigentes hasta su fecha de término, conforme a las disposiciones vigentes al momento de su otorgamiento.
+
+De igual forma, aquellas inconformidades relativas a la evaluación del desempeño presentadas por miembros del Servicio correspondientes a los ejercicios 2019 y 2020, se resolverán conforme a las disposiciones vigentes al momento de la aplicación de la evaluación correspondiente.
+
+Décimo noveno. Los asuntos, recursos, procesos y procedimientos que se encuentren en desarrollo o trámite a la fecha de entrada en vigor del presente Estatuto se concluirán conforme a las disposiciones vigentes al momento de su inicio.
+
+Vigésimo. Los procedimientos laborales disciplinarios que se encuentren en curso legal a la entrada en vigor del presente Estatuto se desahogarán conforme a las disposiciones del Estatuto publicado en el Diario Oficial de la Federación el 15 de enero de 2016.
+
+Los procedimientos que surjan después de la entrada en vigor del presente Estatuto previstos en el Libro Cuarto deberán ser sustanciados con la disposición estatutaria publicada en el Diario Oficial de la Federación el 15 de enero de 2016, hasta en tanto se encuentre en funciones el área de la Dirección Jurídica que será la responsable de los mismos.
+
+Vigésimo primero. La persona titular de la Secretaría Ejecutiva aprobará, a más tardar seis meses después de la aprobación del presente Estatuto, el diseño y estructura del área de la Dirección Jurídica señalada en el Libro Cuarto del presente Estatuto, así como la reestructura de la Dirección Ejecutiva del Servicio Profesional Electoral Nacional. Ambas previsiones deberán estar contempladas en el anteproyecto de presupuesto del Instituto para el ejercicio fiscal dos mil veintiuno.
+
+Vigésimo segundo. Se instruye a la Comisión de Igualdad de Género y No Discriminación para que, a más tardar, en el plazo de doce meses a partir de la entrada en vigor de este Estatuto, presente al Consejo General del INE un proyecto de reforma al Protocolo para prevenir, atender y sancionar el hostigamiento y acoso sexual o laboral.
