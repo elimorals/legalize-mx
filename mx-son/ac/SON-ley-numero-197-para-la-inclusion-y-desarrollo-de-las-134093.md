@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-197-para-la-inclusion-y-desarrollo-de-las-134093"
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-14"
-last_updated: "2020-04-27"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SON"
 ---
 # LEY NUMERO 197 PARA LA INCLUSION Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACION DE DISCAPACIDAD DEL ESTADO DE SONORA
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 206/2020, DECLARÓ LA INVALIDEZ DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 107, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA Y DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, PUBLICADO EN EL BOLETÍN OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTISIETE DE ABRIL DE DOS MIL VEINTE, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JULIO DE 2020.
 
 Ley publicada en el Número 4 Secc. II del Boletín Oficial del Estado de Sonora, el lunes 14 de enero de 2019.
 
@@ -474,6 +472,14 @@ XX.- En la ley de Educación para el Estado de Sonora, se regularán las caracte
 XXI.- Admitir y atender a menores con discapacidad en los centros de desarrollo infantil y guarderías públicas en el Estado; y
 
 XXII.- En coordinación con la Secretaría de Salud, promover y fortalecer en educación preescolar y primaria con respecto de nutrición, hacia la población más susceptible de adquirir cualquier tipo de discapacidad para su prevención.
+
+> <small>(ADICIONADO, B.O. 23 DE JULIO DE 2020)</small>
+
+ARTÍCULO 25 BIS.- En la educación se considerará la formación académica de las personas con discapacidad de acuerdo a lo establecido en los diferentes niveles educativos. Su discapacidad no será causa de rechazo o exclusión de ninguna institución de educación pública o privada en el Estado, conforme a lo estipulado en la Ley de Educación Estatal.
+
+A efecto de garantizar el derecho establecido en el párrafo anterior, el Instituto de Becas y Crédito Educativo del Estado de Sonora, otorgará becas solicitadas por alumnos inscritos en educación básica y media superior, que cuenten con alguna discapacidad en términos de la presente Ley.
+
+Los mayores de edad que presenten signos de discapacidad, que no hayan cursado o concluido la educación básica, serán incorporados al Sistema Estatal o Nacional de Educación para Adultos.
 
 ### CAPÍTULO VI. DERECHO AL TRABAJO Y A LA CAPACITACIÓN
 
@@ -1302,3 +1308,23 @@ B.O. 27 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 114, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA Y DE LA LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con 90 días para adecuar sus disposiciones reglamentarias al presente Decreto, además el titular del Poder Ejecutivo del estado deberá de llevar a cabo dentro del presente ejercicio fiscal y subsecuentes, las adecuaciones presupuestales que se requieran y resulten suficientes al presupuesto de egresos, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto de Becas y Crédito Educativo del Estado de Sonora deberá tomar las medidas pertinentes y elaborar los lineamientos necesarios para implementar las disposiciones del presente decreto, tanto para el otorgamiento de las becas, como para dotar de suficiencia presupuestal, esto último en colaboración con la Secretaría de Hacienda.
+
+###### ARTÍCULO CUARTO.
+
+Cualquier dependencia estatal que tenga a su cargo programas de becas o estímulos educativos a la fecha de publicación del presente Decreto, deberá reportarlos de inmediato a la dirección del Instituto de Becas y Crédito Educativo del Estado de Sonora y tendrá un máximo de 30 días naturales para transferir al referido Instituto los recursos correspondientes, así como los padrones de beneficiarios, a fin de dar cumplimiento a lo dispuesto en el artículo 38 de la Ley del Instituto de Becas y Crédito Educativo del Estado de Sonora, modificado en el presente Decreto. Procurando la atención adecuada y pertinente a los grupos vulnerables e integrantes de los pueblos indígenas en cuanto a becas y estímulos educativos.
