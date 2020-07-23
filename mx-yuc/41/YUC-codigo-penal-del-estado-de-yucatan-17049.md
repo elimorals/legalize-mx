@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2020-07-22"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -1908,6 +1908,10 @@ Lo dispuesto en la fracción II del artículo 186 de este Código no comprende, 
 > <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ARTÍCULO 188 BIS. Se impondrá de seis meses a dos años de prisión a las personas que violen cualquiera de las órdenes de protección a que se refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán; o incumplan, divulguen o revelen información sobre las medidas de protección otorgadas conforme a la Ley para la Protección de las Personas que intervienen en el Proceso Penal del Estado de Yucatán, en perjuicio de la persona protegida.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
+
+En el caso de violencia política contra las mujeres en razón de género, se impondrá la pena señalada en el párrafo anterior, independientemente de las penas establecidas en el artículo 20 Bis de la Ley General en Materia de Delitos Electorales.
 
 ## TÍTULO QUINTO. DELITOS CONTRA LA SALUD PÚBLICA
 
@@ -5346,3 +5350,17 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo segundo. Derogación expresa
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) al presente decreto.
+
+D.O. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 264/2020 POR EL QUE SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA POLÍTICA POR RAZÓN DE GÉNERO Y PARIDAD DE GÉNERO”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párrafo, 156, 165 y 189 de la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán a la que se refiere este decreto, los cuales entrarán en vigor a partir del 1 de septiembre de 2021.
+
+Artículo segundo. Derogación tácita
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
