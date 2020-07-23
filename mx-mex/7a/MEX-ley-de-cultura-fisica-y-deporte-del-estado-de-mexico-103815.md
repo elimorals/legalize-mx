@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cultura-fisica-y-deporte-del-estado-de-mexico-103815"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2016-12-20"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 28 de noviembre de 2014.
 
@@ -74,6 +74,10 @@ VIII. Incentivar la actividad deportiva que se desarrolla en forma organizada y 
 IX. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación del medio ambiente.
 
 X. Garantizar a las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen.
+
+> <small>(ADICIONADA, G.G. 23 DE JULIO DE 2020)</small>
+
+XI. Promover y fomentar la práctica de actividades físicas, recreativas y deportivas para las niñas, niños y adolescentes con discapacidades.
 
 ###### Artículo 3.
 
@@ -599,7 +603,7 @@ V. Que sigan programas deportivos tutelados por las Asociaciones Deportivas.
 
 Los deportistas y entrenadores de alto rendimiento mexiquenses y los considerados como talentos deportivos que integren preselecciones y selecciones Estatales y Nacionales recibirán apoyos económicos y materiales para su preparación de acuerdo a la competencia para la que fueren convocados así como incentivos económicos, con base en los resultados obtenidos.
 
-El procedimiento correspondiente quedará establecido en las normas de la materia y las que establezca (sic) el IMCUFIDE.
+El procedimiento correspondiente quedará establecido en las normas de la materia y las que establezca el IMCUFIDE.
 
 ###### Artículo 56.
 
@@ -1238,3 +1242,15 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 161.-·POR EL QUE SE ADICIONA LA FRACCIÓN XI AL ARTICULO 2 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
