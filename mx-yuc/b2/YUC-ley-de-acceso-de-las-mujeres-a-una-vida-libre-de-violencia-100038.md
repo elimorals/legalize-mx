@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2019-07-31"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -195,7 +195,11 @@ VII. Violencia obstétrica: es la acción u omisión por parte del personal de s
 
 VIII. Violencia estética: es cualquier acción u omisión que ejerce una persona sobre otra, sin su consentimiento o bajo amenazas, para realizar un cambio físico con el objeto de cumplir con modelos, estereotipos y patrones de belleza, que pueden tener como resultado un daño permanente, psicológico, físico o la muerte.
 
-IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+IX. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -235,13 +239,71 @@ c) Cuando se le prohíba o condicione la permanencia a un lugar público por mot
 
 V. Violencia institucional: es la cometida por las personas con calidad de servidores públicos que tenga como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia, así como a cualquier otra a que tengan derecho, siempre que cubran los requisitos exigidos por la normativa vigente.
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
-VI. Violencia política: es la practicada en el marco del ejercicio de los derechos político-electorales, por medio de acción u omisión, con el fin de menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
+VI. Violencia política: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Este tipo de acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 > <small>(ADICIONADA, D.O. 3 DE JULIO DE 2019)</small>
 
 VII. Violencia digital: es cualquier acto realizado a través del uso de la tecnología de la información y comunicación (TIC), medio digital, redes sociales, u otra tecnología de transmisión de datos que de manera directa o indirecta facilite el intercambio de información entre personas, mediante conductas como el acoso, hostigamiento, amenazas, divulgación sin consentimiento de información privada, así como fotografías, textos, videos, datos personales sensibles, impresiones gráficas o sonoras con independencia de si son verdaderas o apócrifas, atentando en contra de la dignidad humana, imagen, integridad, intimidad, libertad, honor, seguridad u otro derecho y causando sufrimiento psicológico, físico, económico o sexual tanto a las mujeres como a su familia, dentro de cualquier ámbito público o privado.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
+
+###### Artículo 7 Bis.
+
+Modalidades de violencia política contra las mujeres en razón de género
+
+La violencia política contra las mujeres, en el estado de Yucatán, puede expresarse, entre otras, a través de las siguientes conductas:
+
+I. Incumplir las disposiciones jurídicas, municipales, estatales, nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres.
+
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género.
+
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades.
+
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones.
+
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso.
+
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones.
+
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad.
+
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales.
+
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos.
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género.
+
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada.
+
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto.
+
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos.
+
+XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función.
+
+XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad.
+
+XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos.
+
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad.
+
+XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley.
+
+XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos.
+
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad.
+
+XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad.
+
+XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 ###### Artículo 8.
 
@@ -314,6 +376,10 @@ III. Los ayuntamientos a través de los organismos o dependencias municipales en
 > <small>(ADICIONADA, D.O. 3 DE JULIO DE 2019)</small>
 
 IV. Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+V. Instituto Electoral y de Participación Ciudadana de Yucatán.
 
 ###### Artículo 11.
 
@@ -619,6 +685,20 @@ I. Otorgar asesoría jurídica y seguimiento a las personas que ejerzan el proce
 
 II. Promover, en coordinación con la Secretaría de las Mujeres y la Secretaría de Educación, la realización de cursos y talleres, en las escuelas, para dar a conocer la existencia del derecho de cancelación, así como el procedimiento para su ejercicio.
 
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
+
+###### Artículo 23 Ter.
+
+Instituto Electoral y de Participación Ciudadana del Estado de Yucatán
+
+El Instituto Electoral y de Participación Ciudadana de Yucatán, en el ámbito de sus competencias, tendrá las atribuciones siguientes:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres.
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales.
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
 ###### Artículo 24.
 
 Ayuntamientos
@@ -725,7 +805,11 @@ IX. La Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 X. El Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Yucatán.
 
-XI. Tres organizaciones de la sociedad civil, debidamente constituidas conforme a la legislación aplicable y con actividad acreditada en temas de violencia contra las mujeres, que serán designados por medio de convocatoria, y durarán cuatro años en el cargo.
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+
+XI. El Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+XII. Tres organizaciones de la sociedad civil, debidamente constituidas conforme a la legislación aplicable y con actividad acreditada en temas de violencia contra las mujeres, que serán designados por medio de convocatoria, y durarán cuatro años en el cargo.
 
 > <small>(REFORMADO, D.O. 4 DE MARZO DE 2016)</small>
 
@@ -888,6 +972,10 @@ IV. Las demás medidas de atención que son competencia de las autoridades integ
 Objetivo de las órdenes de protección
 
 Las órdenes de protección son las medidas personalísimas e intransferibles que tienen por objetivo prevenir, impedir o interrumpir los actos de violencia contra las mujeres establecidos en esta ley.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Yucatán y el Instituto Electoral y de Participación Ciudadana de Yucatán podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere este capítulo.
 
 ###### Artículo 43.
 
@@ -1426,3 +1514,17 @@ A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto d
 Quinto. Procedimientos, juicios y asuntos en trámite
 
 Todos los procedimientos, juicios y demás asuntos relacionados con las materias relacionadas con este decreto que se encuentren en trámite a su entrada en vigor, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
+
+D.O. 23 DE JULIO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO 264/2020 POR EL QUE SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA POLÍTICA POR RAZÓN DE GÉNERO Y PARIDAD DE GÉNERO”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párrafo, 156, 165 y 189 de la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán a la que se refiere este decreto, los cuales entrarán en vigor a partir del 1 de septiembre de 2021.
+
+Artículo segundo. Derogación tácita
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
