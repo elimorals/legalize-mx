@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2020-02-20"
+last_updated: "2020-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 20 DE FEBRERO DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1285,9 +1283,11 @@ XVII. Atención médica gratuita a niñas, niños y adolescentes.
 
 XVIII. Atención médica a las personas que padezcan obesidad mórbida a través de su tratamiento, terapia psicológica, intervención quirúrgica y rehabilitación.
 
-> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, G.G. 23 DE JULIO DE 2020)</small>
 
-XIX. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
+XIX. Atención médica a las personas que padezcan diabetes, así como brindar de manera permanente el tratamiento requerido de conformidad con las disposiciones jurídicas aplicables.
+
+XX. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
 
 ###### Artículo 2.
 
@@ -18396,3 +18396,11 @@ CADA RANGO
 SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
 
 OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
+
+G.G. 23 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 160.- POR EL QUE SE ADICIONA LA FRACCIÓN XIX RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 2.16 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto, en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
