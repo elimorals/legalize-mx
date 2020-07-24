@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2020-04-14"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JULIO DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3414,6 +3414,10 @@ IX. Cuando las lesiones se produzcan contra una persona en ejercicio de la activ
 > <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
 
 X. Cuando las lesiones se produzcan por discriminación, aversión o rechazo en contra de la víctima, condición social o económica, por su origen étnico, raza, religión, discapacidad, orientación sexual o identidad de género, se aplicarán de seis meses a dos años de prisión, y de cincuenta a ciento cincuenta días multa.
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2020)</small>
+
+XI. Cuando las lesiones se produzcan dolosamente mediante el uso de ácidos, sustancias corrosivas, o químicas o flamables, se aplicarán de cinco a diez años de prisión y de cien a doscientos días multa.
 
 ###### Artículo 239.
 
@@ -7134,3 +7138,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 165.- POR EL QUE SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 238 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno.
