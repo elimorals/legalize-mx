@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2020-05-07"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1737,7 +1737,9 @@ XIX. Proporcionar, a su costa, capacitación contínua y permanente a sus operad
 
 XX. Proporcionar a la Secretaría, cuando ésta la requiera, todos los informes, datos y documentos necesarios para conocer y evaluar la prestación del servicio concesionado o permisionado;
 
-XXI. Cumplir y acreditar las obligaciones de seguridad social de sus operadores;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+XXI. Cumplir y acreditar las obligaciones de Seguridad Social de sus operadores, debiendo comprobar ello ante la Secretaría en cada pase de revista;
 
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -3146,5 +3148,13 @@ P.O. 7 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0671.- SE REFORMA (SIC) LOS ARTÍCULOS 4 EN SU FRACCIÓN III Y 6 EN SU FRACCIÓN I, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0721.- SE REFORMA EL ARTÍCULO 81 EN SU FRACCIÓN XXI, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
