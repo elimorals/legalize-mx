@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-12-2020-del-pleno-del-consejo-de-la-143196"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-12"
-last_updated: "2020-06-12"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143196&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-06-08"
 ---
 # ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION Y TRAMITE DE EXPEDIENTE ELECTRONICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ORGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JULIO DE 2020 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 12/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE JULIO DE 2020.]
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de junio de 2020.
 
@@ -873,7 +873,9 @@ En los procesos penales federales tramitados conforme al sistema mixto, tanto en
 
 Adicionalmente, será posible recibir y tramitar promociones electrónicas, así como realizar notificaciones electrónicas. No obstante, la integración de las constancias generadas con anterioridad a la entrada en vigor del presente Acuerdo General, a los expedientes electrónicos que al efecto se formen, estará sujeta a las cargas de trabajo, atendiendo al volumen y antigüedad de las causas tramitadas.
 
-Las notificaciones electrónicas surtirán efectos el día en que se consulten o cuando se genere la constancia de notificación, conforme a la regla prevista en el artículo 182-C del Código Federal de Procedimientos Penales.
+> <small>(F. DE E., D.O.F. 24 DE JULIO DE 2020)</small>
+
+Las notificaciones electrónicas surtirán efectos el día en que se consulten o cuando se genere la constancia de notificación, conforme a la regla prevista en el artículo 71 del Código Federal de Procedimientos Penales.
 
 ###### Artículo 102.
 
