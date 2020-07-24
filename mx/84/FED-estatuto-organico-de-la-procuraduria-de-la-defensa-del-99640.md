@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-de-la-defensa-del-99640"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-18"
-last_updated: "2014-03-18"
+last_updated: "2020-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-02-19"
 ---
 # ESTATUTO ORGANICO DE LA PROCURADURIA DE LA DEFENSA DEL CONTRIBUYENTE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 24 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2020 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de marzo de 2014.
 
@@ -1766,3 +1768,19 @@ SEPTIMO.- La estructura orgánica prevista en el presente Estatuto Orgánico deb
 OCTAVO.- Los expedientes y documentación que obren en las unidades administrativas cuyas funciones se transfieren, por virtud del presente Estatuto Orgánico, a otras unidades administrativas, pasarán a formar parte de éstas a fin de continuar su trámite y resolución.
 
 México, D.F., a 19 de febrero de 2014.- La Procuradora de la Defensa del Contribuyente, Diana Rosalía Bernal Ladrón de Guevara.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Procuraduría de la Defensa del Contribuyente, publicado en el Diario Oficial de la Federación el 18 de marzo de 2014, en cumplimiento al acuerdo número SO2/OG/ST/01/2020, tomado en la Segunda Sesión Ordinaria, celebrada el día 2 de junio de 2020, por el Órgano de Gobierno de la Procuraduría de la Defensa del Contribuyente.
+
+TERCERO.- Se deja sin efectos cualquier acuerdo o disposición interna que se oponga a lo previsto en el presente Estatuto Orgánico.
+
+CUARTO.- Los expedientes y documentación que obren en las unidades administrativas cuyas funciones se transfieren, por virtud del presente Estatuto Orgánico, a otras unidades administrativas, pasarán a formar parte de éstas a fin de continuar su trámite y resolución.
+
+QUINTO.- La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante las Secretarías de la Función Pública y de Hacienda y Crédito Público.
