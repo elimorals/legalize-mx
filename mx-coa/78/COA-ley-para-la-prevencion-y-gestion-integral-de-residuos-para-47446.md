@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-y-gestion-integral-de-residuos-para-4744
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2019-06-25"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 2 de diciembre de 2005.
 
@@ -89,9 +89,17 @@ I. Las medidas necesarias para evitar el deterioro o la destrucción que los ele
 
 II. La ejecución de obras destinadas a la prevención, conservación, protección del medio ambiente y remediación de sitios contaminados cuando éstas sean imprescindibles para reducir riesgos a la salud;
 
-III. Las medidas de emergencia que las autoridades apliquen en caso fortuito o fuerza mayor, tratándose de contaminación por residuos de competencia de esta ley, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-IV. Las acciones de emergencia para contener los riesgos a la salud derivados del manejo de residuos competencia de esta ley.
+III. Las medidas de emergencia que las autoridades apliquen en caso fortuito o fuerza mayor, tratándose de contaminación por residuos de competencia de esta ley,
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+IV. Las acciones de emergencia para contener los riesgos a la salud derivados del manejo de residuos competencia de esta ley, y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2020)</small>
+
+V. La implementación de acciones y medidas tendientes a disminuir la generación de residuos que no puedan ser reutilizados y, con ello, evitar se conviertan en un problema de acumulación sin el manejo adecuado.
 
 ## TÍTULO SEGUNDO. DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN DE LAS AUTORIDADES
 
@@ -181,9 +189,21 @@ XV. Autorizar y controlar las actividades realizadas por los microgeneradores de
 
 XVI. Coadyuvar en la promoción de la prevención de la contaminación de sitios con residuos peligrosos y su remediación,
 
-XVII. Celebrar acuerdos y convenios con el gobierno de los tres niveles así como con instituciones educativas, organismos no gubernamentales, personas físicas y morales, para realizar acciones que faciliten el cumplimiento de la presente ley y;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-XVIII. Las demás que se establezcan en esta ley y otros ordenamientos que resulten aplicables.
+XVII. Celebrar acuerdos y convenios con el gobierno de los tres niveles, así como con instituciones educativas, organismos no gubernamentales, personas físicas y morales, para realizar acciones que faciliten el cumplimiento de la presente ley;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2020)</small>
+
+XVIII. Establecer las acciones y políticas para promover en la población el uso de productos reutilizables, reciclables y/o biodegradables para la envoltura, transportación, carga o traslado de alimentos y bebidas, así como evitar el uso de popotes plásticos y poliestireno expandido cuando se pretenda emplear para estos fines, salvo las excepciones que establezcan las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2020)</small>
+
+XIX. Establecer las bases que permitan la transición del uso de bolsas y popotes de plástico, así como de productos elaborados a base de poliestireno expandido para transportación, carga o traslado al consumidor final, al uso de materiales reutilizables, reciclables y, en su caso, biodegradables, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2020)</small>
+
+XX. Las demás que se establezcan en esta ley y otros ordenamientos que resulten aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -195,9 +215,17 @@ I. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas en m
 
 II. Inspeccionar y vigilar el manejo integral de los residuos de manejo especial;
 
-III. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la federación y con los municipios, conforme a lo dispuesto en los artículos 11 y 12 de este ordenamiento, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-IV. Las demás que se establezcan en esta ley y otros ordenamientos jurídicos aplicables.
+III. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la federación y con los municipios, conforme a lo dispuesto en los artículos 11 y 12 de este ordenamiento;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2020)</small>
+
+IV. Vigilar que los establecimientos comerciales y restaurantes cumplan con las disposiciones referentes a la prohibición de entrega de bolsas de plástico y popotes, señaladas en la presente ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2020)</small>
+
+V. Las demás que se establezcan en esta ley y otros ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -227,9 +255,9 @@ X. Participar en el control de los residuos peligrosos generados o manejados por
 
 XI. Coadyuvar en la prevención de la contaminación de sitios con residuos peligrosos y su remediación;
 
-> <small>(REFORMADA P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-XII. Determinar con la asistencia técnica de la Secretaría, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos;
+XII. Determinar con la asistencia técnica de la Secretaría, los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos, así como las acciones que pudieran implementarse para promover el reciclaje en su municipio;
 
 XIII. Proponer al Congreso del Estado, las tarifas aplicables al derecho por la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final, comprendido en las etapas del manejo integral de residuos sólidos urbanos;
 
@@ -294,6 +322,18 @@ IX. Establecer las medidas adecuadas para reincorporar al ciclo productivo resid
 X. Determinar las medidas conducentes para evitar la disposición final de residuos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que no hayan sido sometidos a procesos de tratamiento, y
 
 XI. Los demás que establezca el reglamento de esta ley y otros ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 11 BIS. El programa estatal para la prevención y gestión integral de los residuos contendrá, además la información necesaria para reemplazar las bolsas de plástico y popotes por productos degradables o biodegradables, bajo los siguientes lineamientos:
+
+I. Elaborar campañas de asistencia gratuita para capacitar a los consumidores en general, sobre las posibles alternativas con las que podrán sustituir las bolsas de plástico y popotes no degradables o no biodegradables;
+
+II. Realizar diversas campañas de difusión y concientización sobre los beneficios que se obtendrán al utilizar materiales degradables o biodegradables.
+
+III. Promover campañas de concientización entre los propietarios de establecimientos y empresas relacionadas con la comercialización de los productos.
+
+IV. Promover el otorgamiento de incentivos y estímulos para aquellos que realicen acciones tendientes a reemplazar las bolsas de plásticos y popotes por artículos degradables o biodegradables con el fin de procurar mantener el equilibrio ecológico.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -531,9 +571,17 @@ II. Fomentar la reutilización y reciclaje de los residuos;
 
 III. Cumplir con las disposiciones específicas, criterios, normas y recomendaciones técnicas aplicables al manejo integral de los residuos sólidos urbanos y de manejo especial;
 
-IV. Poner en conocimiento de las autoridades competentes las infracciones que se estimen se hubieran cometido contra la normatividad de los residuos, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-V. Las demás que establezcan los ordenamientos jurídicos aplicables.
+IV. Poner en conocimiento de las autoridades competentes las infracciones que se estimen se hubieran cometido contra la normatividad de los residuos,
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2020)</small>
+
+V. Evitar el uso de bolsas y popotes de plástico, así como productos de poliestireno expandido, comúnmente empleado para empacado y distribución de alimentos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2020)</small>
+
+VI. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 34.
 
@@ -1002,3 +1050,13 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 700.- SE REFORMAN: LA FRACCIÓN VI DEL ARTÍCULO 8°, LA FRACCIÓN X DEL ARTÍCULO 9°, LAS FRACCIONES XXXVI Y XXXVIII DEL ARTÍCULO 10, LA FRACCIÓN XXVI DEL ARTÍCULO 11, EL PRIMER PÁRRAFO DEL ARTÍCULO 104 BIS, LA FRACCIÓN V DEL ARTÍCULO 142, EL ARTÍCULO 148 BIS, EL ARTÍCULO 150 BIS, EL ARTÍCULO 150 TER, EL PRIMER PÁRRAFO DEL ARTÍCULO 156 BIS Y SE DEROGAN: LA FRACCIÓN XI DEL ARTÍCULO 1°, LA FRACCIÓN VI DEL ARTÍCULO 2°, LAS FRACCIONES LXI, LXII Y LXIII DEL ARTÍCULO 3°, LA FRACCIÓN XXXVII DEL ARTÍCULO 10, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 104 BIS, EL TERCER PÁRRAFO DEL ARTÍCULO 156 BIS Y EL ARTÍCULO 156 QUATER DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN: LAS FRACCIONES III Y IV DEL ARTÍCULO 3°, LA FRACCIÓN XVII DEL ARTÍCULO 6°, LA FRACCIÓN III DEL ARTÍCULO 7°, LA FRACCIÓN XII DEL ARTÍCULO 8°, LA FRACCIÓN IV DEL ARTÍCULO 33 Y SE ADICIONAN: LA FRACCIÓN V AL ARTÍCULO 3°, LAS FRACCIONES XVIII, XIX Y XX DEL ARTÍCULO 6°, LAS FRACCIONES IV Y V AL ARTÍCULO 7° EL ARTÍCULO 11 BIS Y LAS FRACCIONES V Y VI AL ARTÍCULO 33 A LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a los ocho meses contados a partir de su publicación oficial.
+
+SEGUNDO.- La Secretaría de Medio Ambiente contará con un plazo de 365 días contados a partir de la entrada en vigor de este decreto, para elaborar las disposiciones relativas a las excepciones sobre el uso de bolsas y popotes plásticos y productos de poliestireno expandido.
+
+TERCERO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
