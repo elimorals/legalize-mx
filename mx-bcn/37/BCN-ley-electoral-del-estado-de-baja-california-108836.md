@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2020-03-27"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -281,17 +281,25 @@ En el caso de diputados electos como candidatos independientes solo podrán post
 
 Los diputados que hayan ocupado su cargo público por la vía de una candidatura independiente y pretendan su elección consecutiva por la misma vía, para obtener el registro de su candidatura deben cumplir con los requisitos señalados en los artículos 14, 26 y 27 de la Ley que Reglamenta las Candidaturas Independientes.
 
-### CAPÍTULO SEGUNDO. De la asignación de diputados de representación proporcional
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2020)</small>
+
+### CAPÍTULO SEGUNDO. De la asignación de diputaciones de representación proporcional
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
 ###### Artículo 22.
 
-Para que los partidos políticos tengan derecho a la asignación de diputados por el principio de representación proporcional, deberán reunir los siguientes requisitos:
+Para que los partidos políticos tengan derecho a la asignación de diputaciones por el principio de representación proporcional, deberán reunir los siguientes requisitos:
 
-I. Participar con candidatos a diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-II. Haber obtenido por lo menos el tres por ciento de la votación valida emitida en la elección de Diputados por el principio de representación proporcional, y
+I. Participar con candidatos a diputaciones por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales, y
 
-III. Haber obtenido el registro de la lista de candidatos a Diputados por el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+II. Haber obtenido por lo menos el tres por ciento de la votación valida emitida en la elección de Diputados por el principio de representación proporcional.
+
+III. (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
 La votación estatal emitida en la elección de Diputados por el principio de representación proporcional, es aquella que resulte de sumar la que se obtuviere en las casillas especiales para esta elección, a la suma obtenida en la elección de Diputados por el principio de mayoría relativa en cada uno de los distritos electorales, deduciendo los votos nulos y los correspondientes a los candidatos no registrados.
 
@@ -331,9 +339,11 @@ IV. Se asignará una diputación de representación proporcional por cada númer
 
 V. Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en la fracción anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
+
 ###### Artículo 27.
 
-El Consejo General hará la asignación de diputados a cada partido político conforme al resultado obtenido en los artículos anteriores, en los siguientes términos:
+El Consejo General hará la asignación de diputaciones a cada partido político conforme al resultado obtenido en los artículos anteriores, en los siguientes términos:
 
 I. Determinará que candidatos a Diputados de cada partido político no obtuvieron la constancia de mayoría; debiendo identificar, en el caso de coalición, a qué partido político pertenece el candidato en coalición.
 
@@ -343,23 +353,19 @@ Se entenderá por votación valida, la sumatoria de los votos obtenidos por los 
 
 III. Si dos o más candidatos de un partido político tienen el mismo porcentaje en la lista, hasta antes del séptimo lugar, el Consejo General le solicitará al partido político, para que dentro de las veinticuatro horas siguientes a que sea notificado, determine el lugar que le corresponderá;
 
-IV. Si dentro del plazo señalado en la fracción anterior el partido político no da respuesta, el Consejo General procederá a determinarlo mediante sorteo;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-V. Una vez determinada la lista anterior se procederá a su intercalación con la que hubiere registrado cada partido político por el principio de representación a que se refiere el inciso c) de la fracción I del artículo 15 de la Constitución del Estado; atendiendo lo siguiente:
+IV. Si dentro del plazo señalado en la fracción anterior el partido político no da respuesta, el Consejo General procederá a determinarlo mediante sorteo; y
 
-a) La intercalación iniciará con el que ocupe el primer lugar de acuerdo a la lista registrada por el principio de representación proporcional, si así lo hubiera determinado el partido político en los plazos y condiciones previstos en esta ley, seguido de quien ocupe el primer lugar en la lista obtenida de la fracción II de este artículo, continuando de manera alternada en el orden de prelación resultante, en cada caso, para lograr una lista de hasta ocho diputaciones a asignar.
-
-b) Si el partido político no hubiere realizado la determinación a que se refiere el inciso anterior, la intercalación iniciará con el que ocupe el primer lugar en la lista obtenida de la fracción II de este artículo, seguido de quien ocupe el primer lugar de acuerdo a la lista registrada por el principio de representación proporcional, continuando de manera alternada en el orden de prelación resultante, en cada caso, para lograr una lista de hasta ocho diputaciones a asignar.
-
-c) En los casos, de partidos políticos que hubieren participado coaligados, y sus candidatos que conformen la lista en base al porcentaje de votación valida no fueran suficientes para la intercalación de hasta ocho diputaciones, la intercalación se hará hasta donde fuera posible continuado con los de la lista de representación proporcional registrada.
-
-d) En los casos, de partidos políticos que hubieren participado coaligados, y no cuenten con candidatos para integrar la lista en base al porcentaje de votación valida, la asignación que les corresponda se hará de la lista de representación proporcional registrada en términos de ley.
-
-En caso de que un partido político obtenga trece o más diputaciones por el principio de mayoría relativa, la lista se integrará sólo con aquellos candidatos que no obtengan constancia de mayoría, junto con los registrados en la lista de representación proporcional, respetando en todo momento lo señalado en los incisos anteriores, con excepción de los lugares que no podrán ser ocupados por aquéllos, recorriendo en dichos espacios a éstos, y
+V. (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
 VI. En caso de que la asignación recaiga en quien este inhabilitado o no reúna los requisitos para ser electo la asignación deberá ser cubierta por el suplente de la fórmula respectiva. Si éste último también resulta inhabilitado o no reúne los requisitos para ser electo, se asignará aquella fórmula de candidatos del mismo partido político que siga en el orden de la lista.
 
 Las vacantes de propietarios de Diputados por el principio de representación proporcional, deberá (sic) ser cubiertas por los suplentes de la fórmula respectiva. Si la vacante se presenta respecto de la fórmula completa será cubierta por aquella fórmula del mismo partido que sigue en el orden de la lista que para efectos de asignación haya elaborado el Consejo General.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+
+Artículo 27 BIS.- El Consejo General integrará un sistema de listas, una para mujeres y otra para hombres respecto a las candidatas y candidatos que se encuentren en el supuesto del artículo anterior. La asignación de diputaciones por este principio se hará de manera alternada garantizando en todo momento la paridad de género.
 
 ## TÍTULO TERCERO. Del Poder Ejecutivo
 
@@ -655,7 +661,9 @@ XIV. Resolver sobre los convenios de coalición o fusión que celebren los parti
 
 XV. Imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional;
 
-XVI. Registrar las candidaturas a Gobernador del Estado, Munícipes, las listas de Diputados y regidores por el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+XVI. Registrar las candidaturas a Gobernador del Estado y Munícipes.
 
 XVII. Recibir supletoriamente las solicitudes de registro de fórmulas de candidatos a diputados por el principio de mayoría relativa, cuando exista imposibilidad por parte de la autoridad distrital electoral competente de recibirlas, para su posterior remisión al órgano correspondiente;
 
@@ -1779,9 +1787,13 @@ I. La de diputados, se hará por fórmulas integradas por propietario y suplente
 
 II. La de munícipes se hará por planillas completas integradas por propietarios y suplentes del mismo género, de los cargos de Presidente Municipal, que encabezará la planilla; Síndico Procurador, que ocupará la segunda posición en la planilla; y Regidores, estos últimos en orden de prelación, para el caso de la elección consecutiva, el candidato suplente podrá ser diverso que el registrado en la fórmula anterior, y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JULIO DE 2020)</small>
+
 III. La de Gobernador del Estado, será unipersonal.
 
-Los propietarios y suplentes de la fórmula de diputados, de la lista de diputados y de la planilla de munícipes, a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, serán considerados separadamente, salvo para los efectos del voto válidamente emitidos.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
+
+Los propietarios y suplentes de la fórmula de diputados, y de la planilla de munícipes, a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, serán considerados separadamente, salvo para los efectos del voto válidamente emitidos.
 
 ###### Artículo 137.
 
@@ -1839,7 +1851,9 @@ II. Para las candidaturas a diputados y munícipes por ambos principios, que ten
 
 a) Las fórmulas de candidatos a diputados por el principio de mayoría relativa, deberán registrarse ante el Consejo Distrital Electoral correspondiente, y
 
-b) Las planillas completas de munícipes y la lista de cuatro candidatos a diputados por el principio de representación proporcional, ante el Consejo General.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
+
+b) Las planillas completas de munícipes, ante el Consejo General.
 
 Los partidos políticos o coaliciones, dentro del plazo señalado en este artículo, podrán modificar o sustituir las solicitudes presentadas.
 
@@ -1863,9 +1877,11 @@ V. Clave de la credencial para votar;
 
 VI. Cargo para el que se les postule, y
 
-VII. Los candidatos al Congreso del Estado y a los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO No. 85 DE FECHA P.O. 24 DE JULIO DE 2020, SE ADVIERTE LA OMISIÓN EN LA PUBLICACIÓN DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO. VÉASE PÁG. 12 DE PUBLICACIÓN OFICIAL Y PÁGINA DE LA LEGISLATURA DEL ESTADO: https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20200724_LEYELECTORAL.PDF]</small>
 
-En la solicitud de registro de las listas de candidatos a diputados por el principio de representación proporcional, deberá especificar cuáles de los integrantes de cada lista están optando por reelegirse en sus cargos y el número de veces que han ocupado la misma posición de manera consecutiva. También deberá establecer la determinación a que se refiere el inciso c) de la fracción I del artículo 15 de la Constitución del Estado.
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2020)</small>
+
+VII. Los candidatos al Congreso del Estado y a los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
 
 ###### Artículo 146.
 
@@ -2341,7 +2357,9 @@ IV. Las boletas tendrán un talón con folio, del cual serán desprendibles. La 
 
 V. Apellidos paterno, materno y nombre completo del candidato o candidatos;
 
-VI. En la elección de Diputados, aparecerá en el anverso un recuadro que contenga el nombre del candidato a Diputado por el principio de mayoría relativa a propietario y el de su suplente, postulado por cada partido político; al reverso la lista de los candidatos a Diputados por el principio de representación proporcional, señalando el carácter de propietarios y suplentes;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+VI. En la elección de Diputados, aparecerá en el anverso un recuadro que contenga el nombre del candidato a Diputado por el principio de mayoría relativa a propietario y el de su suplente, postulado por cada partido político; al reverso los recuadros que contengan el logo y denominación de los partidos políticos con la leyenda "elección de diputados por el principio de representación proporcional".
 
 VII. En la elección de Munícipes, aparecerá en el anverso un recuadro que contenga el nombre del candidato a Presidente Municipal y el de su suplente, postulado por cada partido político; al reverso el nombre de los candidatos a Síndico Procurador y el de los Regidores, señalando el carácter de propietarios y suplentes;
 
@@ -4708,3 +4726,13 @@ PRIMERO.- Publíquese el contenido de la presente reforma en el Periódico Ofici
 SEGUNDO.- La presente reforma entrará en vigor hasta en tanto sea publicada la modificación al artículo 5 párrafo quinto de la Constitución Política del Estado Libre y Soberano de Baja California, así como el párrafo segundo del APARTADO B, del mismo artículo.
 
 TERCERO.- Remítase el contenido del presente Decreto al Instituto Estatal Electoral del Estado de Baja California, para los efectos legales correspondientes.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 85 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22, 27, 46, 136, 144, 145 Y 190 Y LA ADICIÓN DEL ARTÍCULO 27 BIS, TODOS DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. Publíquese la presente reforma en el Periódico Oficial del Estado.
+
+SEGUNDO. La presente reforma entrará en vigor hasta en tanto sea publicada la modificación al artículo 15 de la Constitución Política del Estado Libre y Soberano de Baja California, materia del presente Decreto y serán aplicables al siguiente proceso electoral ordinario que se celebre en la entidad.
+
+TERCERO. El Consejo General Electoral del Instituto Estatal Electoral de Baja California, deberá en su caso, adecuar la reglamentación interna correspondiente, antes del inicio del proceso electoral 2020-2021.
