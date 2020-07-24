@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2020-03-12"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -387,13 +387,17 @@ LVIII.- VERIFICACIÓN.- Es el análisis técnico para determinar las emisiones d
 
 LIX.- VIALIDADES DE JURISDICCIÓN ESTATAL.- Las vialidades de competencia estatal, que con tal carácter contempla la Ley de Vialidad para el Estado Libre y Soberano de Puebla;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2020)</small>
 
-LX.- VIALIDADES DE JURISDICCIÓN MUNICIPAL.- Las vialidades de competencia municipal, de acuerdo con la Ley de Vialidad para el Estado Libre y Soberano de Puebla, y
+LX.- VIALIDADES DE JURISDICCIÓN FEDERAL.- Aquellas de jurisdicción federal, conforme a la normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2020)</small>
 
-LXI.- ZONAS ADYACENTES.- Las que lindan con una vialidad de jurisdicción estatal o municipal, de conformidad con la normatividad aplicable.
+LXI.- VIALIDADES DE JURISDICCIÓN MUNICIPAL.- Las vialidades de competencia municipal, de acuerdo con la Ley de Vialidad para el Estado Libre y Soberano de Puebla, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JULIO DE 2020)</small>
+
+LXII.- ZONAS ADYACENTES.- Las que lindan con una vialidad de jurisdicción federal, estatal o municipal, hasta en una distancia de cien metros tratándose de Vialidades de Jurisdicción Municipal y trecientos (sic) metros tratándose de Vialidades de Jurisdicción Estatal y Vialidades de Jurisdicción Federal, contados en el caso de las estatales a partir del límite de éstas y en el caso de las federales a partir del límite de su jurisdicción.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES, CONCURRENCIAS Y COORDINACIÓN DE LAS AUTORIDADES
 
@@ -1941,15 +1945,23 @@ Los Ayuntamientos deben incorporar en sus Iniciativas de Leyes de Ingresos y Reg
 
 Para los efectos del párrafo anterior la Secretaría y los Ayuntamientos se atendrán a lo establecido en el artículo 20 de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
-ARTÍCULO 143 BIS.- El Gobierno del Estado, a través de la Secretaría prevendrá y controlará la Contaminación Visual en Vialidades de Jurisdicción Estatal, Zonas Adyacentes a las mismas y bienes inmuebles propiedad o al cuidado del Estado.
+ARTÍCULO 143 BIS.- El Gobierno del Estado, a través de la Secretaría prevendrá y controlará la contaminación visual en Vialidades de Jurisdicción Estatal, sus Zonas Adyacentes y las Zonas Adyacentes de las Vialidades de Jurisdicción Federal, así como los bienes inmuebles propiedad o al cuidado del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2020)</small>
 
 Los Ayuntamientos prevendrán y controlarán la Contaminación Visual en los centros de población, Vialidades de Jurisdicción Municipal, sus Zonas Adyacentes, espacios públicos y bienes inmuebles propiedad o al cuidado del Municipio.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2020)</small>
+
 La Secretaría y los Ayuntamientos en el ámbito de sus facultades, determinarán a través de lineamientos y reglamentos, respectivamente, las características y especificaciones que deban cumplir los anuncios, estructuras publicitarias y publicidad, en cuanto a sus dimensiones y espacio físico, densidad por zona, tipo, ubicación, alcance, luminosidad, requerimientos para su colocación o instalación, tiempo de permanencia y cantidad; así como los casos en que exista afectación al paisaje urbano.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2020)</small>
+
 Bajo ninguna circunstancia se autorizará la colocación de anuncios publicitarios con contenidos que muestren estereotipos sexistas, degradantes o peyorativos sobre las mujeres; para lo cual los Ayuntamientos en el ámbito de su competencia deberán regular rigurosamente los términos de dicha prohibición.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2020)</small>
 
 Entendiendo como publicidad sexista, aquella que presenta hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia el género femenino.
 
@@ -2646,3 +2658,15 @@ TERCERO. Los Ayuntamientos y las dependencias estatales competentes propondrán 
 CUARTO. El Ejecutivo del Estado, la Secretaría y los Ayuntamientos emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto.
 
 QUINTO. Las licencias, autorizaciones y permisos otorgadas hasta antes de la entrada en vigor del presente Decreto, continuarán vigentes y surtiendo efectos jurídicos en los términos y condiciones bajo los cuales fueron expedidos por la Autoridad facultada para ello.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES LX Y LXI DEL ARTÍCULO 4, EL PRIMER PÁRRAFO DEL A (SIC) 143 BIS; Y ADICIONA LA FRACCIÓN LXII AL ARTÍCULO 4 DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos y las Dependencias Estatales competentes propondrán, y en su caso, aprobarán las propuestas para reformar los ordenamientos necesarios para la aplicacion del presente Decreto.
+
+CUARTO. El Ejecutivo del Estado, la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial y los Ayuntamientos, emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto.
