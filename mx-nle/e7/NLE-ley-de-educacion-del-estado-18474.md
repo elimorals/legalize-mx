@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2020-03-25"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -213,7 +213,11 @@ X.- Impulsar la creación artística, la adquisición, enriquecimiento y difusi�
 
 XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales y en particular, desarrollar una cultura del agua;
 
-XII.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre la planeación familiar, la paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
+(NOTA: EL 22 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 238/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+XII.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre el respeto a la vida, DESDE LA CONCEPCIÓN HASTA LA MUERTE NATURAL y la integridad física y psicológica de todas las personas, así como sobre su formación para la vida adulta, incluyendo la planeación familiar, la paternidad y maternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
 XIII.- Contribuir a la construcción de una cultura de la salud promoviendo la educación física, la práctica del deporte, los hábitos de higiene y sana alimentación, así como la educación sexual, la prevención de adicciones y la erradicación de la violencia familiar;
 
@@ -247,9 +251,9 @@ XX.- Impartir la enseñanza del idioma inglés, en los programas establecidos pa
 
 XXI.- Promover en forma permanente el hábito a la lectura y del libro;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-XXII.- Fomentar la convivencia pacífica y respetuosa entre las personas;
+XXII.- Fomentar la convivencia pacífica y respetuosa entre las personas y la inclusión mediante el desarrollo de programas especiales de fomento y capacitación para el empleo de personas con algún tipo de discapacidad;
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
 
@@ -977,11 +981,11 @@ La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas 
 
 Para el caso de los servicios educativos correspondientes a los tipos medio superior y superior, las autoridades educativas promoverán acciones similares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
 ###### Artículo 49.
 
-La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje en un contexto educativo incluyente, basándose en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
+La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje con equidad inclusiva, en un contexto educativo incluyente, basándose en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
@@ -1009,13 +1013,17 @@ En el caso de personas con discapacidad, la educación deberá atender lo dispue
 
 Para cumplir con los fines de la educación especial, la autoridad educativa estatal deberá ampliar gradualmente este servicio a todos los niveles de educación básica, asignando a cada escuela donde exista la necesidad, un equipo interdisciplinario conformado entre otros por maestros y maestras especialistas, psicólogos y psicólogas, así como, trabajadores y trabajadoras sociales que apoyen el proceso de integración escolar de los alumnos y alumnas con necesidades educativas especiales.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
 ###### Artículo 51.
 
-Los niños, niñas y adolescentes con necesidades educativas especiales deberán ser atendidos de manera adecuada a sus propias condiciones con equidad social incluyente y con perspectiva de género con el fin de promover la satisfacción de sus necesidades de aprendizaje. Además, se establecerán mecanismos que favorezcan su movilidad escolar con base en los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, educación normal, así como la media superior y superior en el ámbito de su competencia.
+Los niños, niñas y adolescentes con necesidades educativas especiales deberán ser atendidos de manera adecuada a sus propias condiciones con equidad social inclusiva y con perspectiva de género con el fin de promover la satisfacción de sus necesidades de aprendizaje. Además, se establecerán mecanismos que favorezcan su movilidad escolar con base en los lineamientos para la evaluación diagnosticada, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, educación normal, así como la media superior y superior en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
 Para la identificación, evaluación, atención educativa, acreditación y certificación, de alumnos con capacidades y aptitudes sobresalientes, las instituciones que integran el sistema educativo estatal se sujetarán a los lineamientos establecidos por la autoridad educativa federal en la materia, con base en la disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
 Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
 
@@ -2260,3 +2268,9 @@ P.O. 25 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 278. SE REFORMA EL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 311. SE REFORMA LAS FRACCIONES XII Y XXII DEL ARTÍCULO 7 Y EL PRIMER PÁRRAFO DE LOS ARTÍCULOS 49 Y 51 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
