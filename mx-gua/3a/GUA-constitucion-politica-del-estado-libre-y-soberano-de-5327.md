@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2020-07-13"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1366,6 +1366,10 @@ Integrar la lista de candidatos a Fiscal General del Estado; nombrar a dicho ser
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
 Aprobar por el voto de las dos terceras partes de sus miembros el nombramiento de los Magistrados del Tribunal de Justicia Administrativa a propuesta del Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+
+Separar de su cargo, a solicitud del Pleno del Tribunal de Justicia Administrativa, a los Magistrados que violen de manera grave la Constitución y las leyes.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
@@ -4128,5 +4132,11 @@ Artículo único. El presente Decreto entrará en vigencia al día siguiente de 
 P.O. 13 DE JULIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 196 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 201 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONA EL ARTÍCULO 63, FRACCIÓN XXI, CON UN PÁRRAFO NOVENO Y LOS ACTUALES PÁRRAFOS NOVENO Y DÉCIMO PASAN A SER PÁRRAFOS DÉCIMO Y DÉCIMO PRIMERO, RESPECTIVAMENTE DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
