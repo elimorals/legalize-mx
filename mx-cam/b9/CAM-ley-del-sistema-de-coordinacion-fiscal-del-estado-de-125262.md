@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-coordinacion-fiscal-del-estado-de-125262"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2020-05-29"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DEL SISTEMA DE COORDINACION FISCAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Sección al Número 592 del Periódico Oficial de Campeche, el miércoles 27 de diciembre de 2017.
 
@@ -135,7 +137,9 @@ VIII. El 20% de la aplicación de las cuotas previstas en el artículo 2-A, frac
 
 IX. El 100% de la recaudación del Impuesto Sobre la Renta en los términos que establece el artículo 3-B de la Ley de Coordinación Fiscal; y
 
-X. El 20% de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+X. El 20% de la recaudación del Impuesto Sobre la Renta, incluyendo la actualización, recargos, honorarios por notificación, gastos de ejecución, indemnización a que se refiere el artículo 21, séptimo párrafo del Código Fiscal de la Federación y por el monto efectivamente pagado de los créditos determinados y que hayan quedado firmes, de los contribuyentes a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta y de conformidad con lo establecido en el Convenio de Colaboración Administrativa en materia Fiscal Federal suscrito entre el Gobierno Federal y el Estado de Campeche.
 
 Lo anterior en el entendido que según corresponda, los conceptos anteriores sean sustituidos, modificados, adicionados o complementados de tiempo en tiempo.
 
@@ -199,6 +203,16 @@ La fórmula de distribución del Fondo de Extracción de Hidrocarburos no será 
 
 En los términos del artículo 3-B de la Ley de Coordinación Fiscal, corresponderá a cada Municipio el 100% de la recaudación del Impuesto Sobre la Renta que efectivamente entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las dependencias del Municipio, así como en sus respectivas entidades paramunicipales y, en su caso, organismos autónomos municipales, siempre que el salario sea efectivamente pagado con cargo a sus Participaciones u otros ingresos municipales.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 10 BIS.- De la recaudación obtenida por concepto del Impuesto Sobre la Renta, su actualización, recargos, honorarios por notificación, gastos de ejecución, indemnización a que se refiere el artículo 21, séptimo párrafo del Código Fiscal de la Federación y por el monto efectivamente pagado de los créditos determinados y que hayan quedado firmes, de los contribuyentes a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta y de conformidad con lo establecido en el Convenio de Colaboración Administrativa en materia Fiscal Federal suscrito entre el Gobierno Federal y el Estado de Campeche, corresponderá a los municipios el 20%, distribuyéndose de acuerdo con lo siguiente:
+
+I.- El 80% en razón directa a la población que registre cada municipio, de acuerdo con la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía; y
+
+II.- El 20% por partes iguales entre la totalidad de los municipios del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 11.
 
 Se transferirá a los Municipios que se ubiquen en las hipótesis de distribución, el 20% de los recursos que correspondan al Estado del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos conforme al artículo 57 de la Ley de Ingresos sobre Hidrocarburos, que deberán aplicarse, invertirse y ejercerse de conformidad con lo dispuesto en la fracción IV, del tercer párrafo del citado artículo, así como en las Reglas de Operación para la distribución y aplicación de los Recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
@@ -215,9 +229,7 @@ a) Daño al entorno social derivado de las actividades de exploración y extracc
 
 b) Daño al entorno ecológico derivado de las actividades de exploración y extracción de hidrocarburos.- Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mensurable del hábitat, de los ecosistemas, de los elementos y recursos naturales, de sus condiciones químicas, físicas o biológicas, de las relaciones de interacción que se dan entre éstos, así como de los servicios ambientales que proporcionan, derivado de las actividades de exploración y extracción de hidrocarburos.
 
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE AGOSTO DE 2019)</small>
-
-2. La distribución a los municipios será de conformidad con la siguiente fórmula:
+2.- La distribución a los municipios será de conformidad con la siguiente fórmula:
 
 1. El 15% en la proporción que representen los daños al entorno social que registre;
 
@@ -237,33 +249,43 @@ Se aplica el 15% en la proporción que representen los daños al entorno social;
 
 Cada una de estas variables tendrán la ponderación que se muestra en la siguiente fórmula para la determinación del Factor Social para la distribución de los recursos del Fondo:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA TERCERA SECCIÓN DEL P.O. DE 24 DE JULIO DE 2020, PÁGINA 5.]</small>
 
-II. DAÑOS AL ENTORNO ECOLÓGICO:
+II.- DAÑOS AL ENTORNO ECOLÓGICO:
 
 Se aplica el 15% en la proporción que representen los daños al entorno ecológico que registre, mediante la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA TERCERA SECCIÓN DEL P.O. DE 24 DE JULIO DE 2020, PÁGINA 5.]</small>
 
-III. NÚMERO DE HABITANTES DE LOS MUNICIPIOS QUE REGISTREN DAÑOS AL ENTORNO SOCIAL Y ECOLÓGICO, DERIVADO DE LAS ACTIVIDADES DE EXPLORACIÓN Y EXTRACCIÓN DE HIDROCARBUROS.
+III.- NÚMERO DE HABITANTES DE LOS MUNICIPIOS QUE REGISTREN DAÑOS AL ENTORNO SOCIAL Y ECOLÓGICO, DERIVADO DE LAS ACTIVIDADES DE EXPLORACIÓN Y EXTRACCIÓN DE HIDROCARBUROS.
 
-a) La fórmula para la determinación del 70% en proporción directa al número de habitantes que tenga el Municipio que registre los daños al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos, es la siguiente:
+a) La fórmula para la determinación del 70% en proporción directa al número de habitantes que tenga el Municipio que registre los daños al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos de acuerdo con la fórmula siguiente:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 9.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA TERCERA SECCIÓN DEL P.O. DE 24 DE JULIO DE 2020, PÁGINAS 5 Y 6.]</small>
 
-b) La fórmula para la determinación del 15 % en la proporción que representen los daños al entorno social que registre, es la siguiente:
+b) La fórmula para la determinación del 15 % en la proporción que representen los daños al entorno social que registre de acuerdo con la fórmula siguiente:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 9.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA TERCERA SECCIÓN DEL P.O. DE 24 DE JULIO DE 2020, PÁGINA 6.]</small>
 
-c) La fórmula para la determinación del 15 % en la proporción que representen los daños al entorno ecológico que registre, es la siguiente:
+c) La fórmula para la determinación del 15% en la proporción que representen los daños al entorno ecológico que registre de acuerdo con la fórmula siguiente:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 9.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA TERCERA SECCIÓN DEL P.O. DE 24 DE JULIO DE 2020, PÁGINAS 6 Y 7.]</small>
 
-3.- La Secretaría publicará anualmente en el POE, durante el mes de enero, la composición por Municipio de las variables establecidas en el apartado anterior, con base en la información que para ello le proporcione de manera tripartita, el Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche, la Secretaría de Medio Ambiente y Recursos Naturales y, la Secretaría de Desarrollo Social y Humano, sujetándose a lo siguiente:
+3.- La Secretaría publicará anualmente en el POE, durante el mes de enero, la composición por Municipio de las variables establecidas en el apartado anterior, con base en la información que para ello le proporcione de manera tripartita, el Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche, la Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático y, la Secretaría de Desarrollo Social y Humano, sujetándose a lo siguiente:
 
-a) Para la medición de los daños al entorno social y ecológico deberá tomarse en cuenta los indicadores de medición establecidos por el INEGI, en los temas de "Medio Ambiente" y "Asentamientos Humanos y Actividades Humanas" según estos sean modificados de tiempo en tiempo o aquellos que los sustituyan, derivado de las actividades de exploración y extracción de hidrocarburos.
+a) Para la medición de los daños al entorno social y ecológico deberá tomarse en cuenta los indicadores de medición establecidos por el INEGI, en los temas de “Medio Ambiente” y “Asentamientos Humanos y Actividades Humanas” según estos sean modificados de tiempo en tiempo o aquellos que los sustituyan, derivado de las actividades de exploración y extracción de hidrocarburos.
 
 b) Cuando no se conozcan los precitados indicadores de medición que emite el INEGI, las precitadas instancias estatales podrán proceder conforme a las disposiciones jurídicas aplicables a la medición a través de los indicadores y sistemas que demuestren los daños al entorno social y ecológico, derivado de las actividades de exploración y extracción de hidrocarburos.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 11 BIS.- En caso de crearse un Municipio y en tanto no se genere la información conforme el artículo 18 bis de la presente Ley, las fórmulas descritas en los artículos 6, 7, 8, 9 y 11 de la Ley se calcularán considerando el Municipio de origen, es decir, sin la división correspondiente. Posteriormente, para dividir los montos de Participaciones y del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos que corresponden al Municipio nuevo y al Municipio escindido se aplicarán los coeficientes de participación poblacional sobre el monto correspondiente al Municipio de origen, mediante las siguientes fórmulas:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA TERCERA SECCIÓN DEL P.O. DE 24 DE JULIO DE 2020, PÁGINA 8.]</small>
+
+La aplicación de ambos coeficientes podrá ser utilizado a partir de la entrada en vigor del decreto que genere la creación del nuevo Municipio y hasta en tanto no se genere la información conforme el artículo 18 bis de la Ley.
+
+A partir del año en que el Municipio nuevo cuente con la información necesaria para su inclusión en el cálculo de los artículos 6, 7, 8, 9 y 11 de la presente Ley, se integrará al mismo, considerando para la primera parte de la fórmula de los artículo (sic) 6, 8 y 9, los recursos que recibió el Municipio de origen en el ejercicio fiscal 2016, distribuido conforme a los coeficientes de participación poblacional previstos en este artículo, y considerando la información disponible al momento de decretarse la creación del Municipio nuevo.
 
 ###### ARTÍCULO 12.
 
@@ -284,6 +306,10 @@ Las Participaciones son inembargables, no pueden afectarse para fines específic
 Los Municipios podrán convenir que la Entidad afecte sus participaciones o aportaciones susceptibles de afectación, para efectos de lo establecido en el párrafo anterior de este artículo.
 
 No estarán sujetas a lo dispuesto en el primer párrafo de este artículo, las compensaciones que se requieran efectuar a la Entidad como consecuencia de ajustes en Participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las Participaciones e incentivos de la Entidad y de los Municipios y las obligaciones que tengan con la Federación, cuando exista acuerdo entre las partes interesadas o la Ley de Coordinación Fiscal así lo autorice.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+
+En caso de crearse un Municipio, este participará de los ajustes, descuentos y compensaciones correspondientes al Municipio de origen, en la proporción de la población del nuevo Municipio al momento de su creación, conforme a la fórmula establecida en el artículo 11 bis de la presente Ley, y hasta en tanto no se genere la información conforme el artículo 18 bis de la Ley.
 
 ###### ARTÍCULO 15.
 
@@ -334,6 +360,14 @@ En caso de que el Municipio no remita la información que deba contener los Anex
 Con independencia de lo anterior, durante la primera quincena de cada mes, los Municipios deberán proporcionar a la Secretaría copia del informe mensual de la recaudación captada en el mes anterior enviado al H. Congreso del Estado.
 
 Cuando los Municipios presenten al H. Congreso del Estado sus cuentas públicas dentro del plazo establecido en el artículo 54 de la Constitución Política del Estado de Campeche, deberán entregar un ejemplar grabado en medio electrónico a la Secretaría, para los efectos de la actualización de la información a que se refiere el artículo 15 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 18 BIS.- En caso de crearse un Municipio, éste, así como el Municipio escindido, tendrán derecho a recibir las Participaciones y los recursos correspondientes al Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos señalados en la presente Ley.
+
+Con el fin de cumplir con las obligaciones establecidas, así como de conservar la metodología vigente y los criterios de distribución definidos, los Municipios nuevos y Municipios escindidos tendrán derecho a recibir los recursos a los que hacen referencia los artículos 6, 7, 8, 9 y 11 de la presente Ley aplicando una distribución basada en la participación poblacional, de acuerdo con lo establecido en el artículo 11 bis de la presente Ley.
+
+Los Municipios nuevos serán responsables de implementar las acciones necesarias para generar la información recaudatoria de todos los impuestos y derechos, incluyendo el impuesto predial y los derechos por suministro de agua, con el fin de realizar los cálculos de distribución conforme a los artículos 6, 7, 8 y 9 de la presente Ley, así como de implementar las acciones necesarias para generar la información que a ellos competa y apoyar a las instituciones competentes en la generación de la información correspondiente al artículo 11 de la presente Ley, y la que fuere necesaria para su cumplimiento.
 
 ###### ARTÍCULO 19.
 
@@ -672,3 +706,19 @@ P.O. 7 DE ABRIL DE 2020.
 P.O. 29 DE MAYO DE 2020.
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.]</small>
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 139 POR EL QUE “SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 4 Y EL ARTÍCULO 11 Y, SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 14 DE LA LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE” Y “SE ADICIONAN LOS ARTÍCULOS 10 BIS, 11 BIS Y 18 BIS A LA LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.– El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las salvedades que en este y en los demás artículos transitorios se establezcan.
+
+La fracción X del artículo 4 y el artículo 10 bis de este decreto, en lo que concierne exclusivamente al 20% de la recaudación del Impuesto Sobre la Renta distribuible a municipios y, únicamente para los efectos de su distribución, tendrán efectos retroactivos al 1 de enero de 2020 de conformidad con el transitorio primero del Acuerdo por el que se modifica el Convenio de Colaboración Administrativa en materia fiscal federal, celebrado entre el Gobierno Federal y el Gobierno del Estado de Campeche. Las cantidades que por esos conceptos deban otorgarse a los municipios deberán transferirse a estos por esta única ocasión, a más tardar al quinto día hábil a partir de la publicación de este Decreto en el citado Periódico Oficial por lo que, en su caso, se contemplarán los rendimientos que se hubieren generado desde el día del entero al Estado por parte de la Secretaría de Hacienda y Crédito Público de estos incentivos hasta el día de su distribución a los municipios y, hecho lo anterior, los subsecuentes enteros a los municipios deberán regularizarse y efectuarse con la periodicidad que corresponda a este tipo de incentivos.
+
+SEGUNDO.– La fórmula de distribución de los incentivos establecidos en el artículo 10 Bis del presente decreto, podrá ser sustituida por una distribución que atienda a la proporción de la recaudación que del mismo se obtenga en las respectivas circunscripciones territoriales de cada municipio, única y exclusivamente cuando el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público, esté en posibilidad de otorgar la información oficial de las cantidades efectivamente recaudadas en cada uno de los municipios, sin que ello pueda dar lugar a ajustes y/o compensaciones entre lo ya pagado, conforme a lo previsto en el artículo 10 bis de la Ley y lo previsto en este artículo Transitorio.
+
+TERCERO.– Los artículos 11 bis y 18 bis de este decreto entrarán en vigor el día en que inicie su vigencia la reforma al artículo 4 de la Constitución Política del Estado, con motivo de la creación de los municipios de Dzitbalché y Seybaplaya fijado para el día 1° de enero del año 2021.
+
+CUARTO.– Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+QUINTO.– De conformidad con el Decreto número 4 publicado en el Periódico Oficial del Estado el día 20 de noviembre de 2015, la determinación de los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter Estatal, correspondiente a Ejercicios Fiscales de 2015 y anteriores se realizarán conforme a las disposiciones jurídicas vigentes en el Ejercicio Fiscal correspondiente, en tal sentido las obligaciones derivadas de este impuesto abrogado que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en la Ley de Hacienda del Estado de Campeche, deberán ser cumplidas en las formas y plazos establecidos en la misma y en las demás disposiciones jurídicas aplicables y que se encuentra señalado en la Ley de Ingresos del Estado de Campeche para el Ejercicio Fiscal 2020 en su artículo 1, fracción 1.9. “Impuestos no comprendidos en las fracciones anteriores de la Ley de Ingresos causados en Ejercicios Fiscales anteriores pendientes de liquidación o pago”. La vigencia de este transitorio concluye al 31 de diciembre de 2020 fecha que al cumplirse da paso a la prescripción de oficio.
