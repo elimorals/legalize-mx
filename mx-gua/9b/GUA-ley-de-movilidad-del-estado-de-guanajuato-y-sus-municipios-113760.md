@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2020-07-22"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -1459,13 +1459,13 @@ Servicios público y especial de transporte
 
 El servicio de estacionamiento público, prestado por una autoridad o un particular, tiene por finalidad la recepción, guarda y devolución de vehículos motorizados y no motorizados en los lugares debidamente autorizados y en los términos de los reglamentos respectivos.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
 
 Regulación de estacionamientos
 
 ###### Artículo 94.
 
-La unidad administrativa de transporte y los ayuntamientos en el ámbito de sus competencias y de conformidad con los resultados de los estudios en materia de movilidad que al respecto se realicen, y las disposiciones que para el efecto señale el reglamento respectivo, podrán establecer condiciones, limitantes y en su caso tarifas para el establecimiento y funcionamiento de estacionamientos públicos.
+La unidad administrativa de transporte y los ayuntamientos en el ámbito de sus competencias y de conformidad con los resultados de los estudios en materia de movilidad y de accesibilidad universal que al respecto se realicen, y las disposiciones que para el efecto señale el reglamento respectivo, podrán establecer condiciones, limitantes y en su caso tarifas para el establecimiento y funcionamiento de estacionamientos públicos.
 
 ### Capítulo II. Servicio Público de Transporte
 
@@ -1855,17 +1855,21 @@ Coadyuvancia en materia de movilidad
 
 Los concesionarios y permisionarios en lo individual u organizados coadyuvarán en materia de movilidad con las autoridades estatales o municipales, de conformidad con las necesidades del servicio o del interés público y con los acuerdos o convenios que al efecto se celebren.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
+
 Equipamiento u operación en los servicios de transporte
 
 ###### Artículo 132.
 
-El reglamento de la Ley y los reglamentos municipales que deriven de la misma, establecerán las características o requisitos de equipamiento u operación en los servicios de transporte, adoptando al efecto las medidas que aseguren la prestación del servicio de manera eficaz, oportuna y eficiente.
+El reglamento de la Ley y los reglamentos municipales que deriven de la misma, establecerán las características o requisitos de equipamiento u operación en los servicios de transporte, adoptando al efecto las medidas que aseguren la prestación del servicio de manera eficaz, oportuna, eficienle (sic) y privilegiando la accesibilidad universal.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
 
 Lugares de acceso para personas con discapacidad o movilidad reducida
 
 ###### Artículo 133.
 
-Las autoridades de movilidad estatales y municipales, según corresponda, deberán proponer a las autoridades correspondientes las medidas necesarias de infraestructura urbana y vehicular que faciliten a las personas con discapacidad o movilidad reducida el ascenso y descenso de los vehículos de los servicios público y especial de transporte; asimismo, deberán determinar, en su caso, el número, ubicación y características que deberán reunir los espacios que serán destinados a las personas con discapacidad o movilidad reducida en los vehículos de los servicios público y especial de transporte.
+Las autoridades de movilidad estatales y municipales, según corresponda, deberán proponer a las autoridades correspondientes las medidas necesarias de infraestructura urbana y vehicular, con perspectiva de accesibilidad universal, que faciliten a las personas con discapacidad o movilidad reducida el ascenso y descenso de los vehículos de los servicios público y especial de transporte; asimismo, deberán determinar, en su caso, el número, ubicación y características que deberán reunir los espacios que serán destinados a las personas con discapacidad o movilidad reducida en los vehículos de los servicios público y especial de transporte.
 
 Póliza de seguro
 
@@ -2951,6 +2955,10 @@ XVIII. Las demás que les establezca esta Ley, los reglamentos respectivos y dem
 
 En caso de que los concesionarios o permisionarios no cumplan con las obligaciones a su cargo, se harán acreedores a las sanciones señaladas en la presente Ley, los reglamentos respectivos y demás disposiciones aplicables, sin perjuicio de la responsabilidad penal o civil en que pudieran incurrir.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2020)</small>
+
+Los vehículos destinados a la prestación del servicio público de transporte urbano y suburbano en ruta fija se sujetarán a los lineamientos y normatividad en materia de accesibilidad universal y acceso para personas con discapacidad y movilidad reducida de conformidad con lo que al respecto se establezcan en los reglamentos municipales que deriven de esta Ley.
+
 Prohibiciones
 
 ###### Artículo 237.
@@ -3534,3 +3542,13 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 202 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 94, 132, 133 Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 236 DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los ayuntamientos tendrán un plazo de 180 días contados a partir de la publicación del presente decreto para realizar y publicar las reformas necesarias a sus reglamentos en materia de movilidad.
+
+Artículo Tercero. Los concesionarios realizarán, de manera gradual, las modificaciones que correspondan en materia de accesibilidad universal, de conformidad con el programa que para tal efecto expidan las autoridades de transporte.
