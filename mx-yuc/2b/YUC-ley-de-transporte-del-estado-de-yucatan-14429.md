@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transporte-del-estado-de-yucatan-14429"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2019-12-31"
+last_updated: "2020-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en el Diario Oficial del estado de Yucatán, el sábado 15 de Mayo de 1999.
 
@@ -409,6 +409,12 @@ Los vehículos destinados al servicio de transporte de pasajeros deberán contar
 
 En cualquier caso, las empresas de redes de transporte, en el supuesto de que el seguro a que se refiere este artículo no se encontrase vigente, serán consideradas obligados solidarios de los operadores del servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas frente al Estado, los usuarios del servicio y terceros, por la responsabilidad civil que pudiera surgir con motivo de su operación, únicamente hasta por un monto igual a las sumas aseguradas en la póliza de seguro del vehículo que deberán entregar los operadores a estas empresas, para su inscripción.
 
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 22 BIS.- Los vehículos destinados al servicio de transporte de pasajeros en su modalidad de taxi de alquiler y los contratados a través de plataformas tecnológicas, deberán tener integrado, un dispositivo de rastreo satelital que emita una señal de alerta, mismo que esté plenamente al alcance de los pasajeros y del conductor.
+
+Estos dispositivos antes señalados, estarán enlazados vía satelital con los cuerpos de seguridad que al efecto determine la secretaria de seguridad pública del Estado, las cuales, al recibir alguna señal, deberán acudir al llamado de la misma, notificando a la brevedad cualquier llamado de auxilio recibido a la dirección de transporte.
+
 > <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 23.
@@ -725,7 +731,9 @@ ARTÍCULO 40 SEXIES. El certificado vehicular será expedido a favor del propiet
 
 I. Acreditar la propiedad o legal posesión del vehículo con el que se pretende prestar el servicio de transporte de pasajeros o de carga contratado a través de plataformas tecnológicas;
 
-II. En el caso de vehículos para la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, que el año modelo, de fabricación o ejercicio automotriz del vehículo no sea anterior a siete años; que tenga máximo siete plazas, incluyendo al operador, mínimo dos puertas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire delanteras; y que el vehículo cumpla con los requisitos administrativos para su circulación previstos en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento;
+> <small>(REFORMADA, D.O. 24 DE JULIO DE 2020)</small>
+
+II. En el caso de vehículos para la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, que el año modelo de fabricación o ejercicio automotriz del vehículo no sea anterior a siete años; que tenga máximo siete plazas, incluyendo al operador, mínimo dos puertas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire delantera y un sistema de rastreo satelital; y que el vehículo cumpla con los requisitos administrativos para su circulación previstos en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento;
 
 III. Entregar una copia de la póliza del seguro vehicular a que se refiere el artículo 22 de esta ley, y
 
@@ -1432,3 +1440,23 @@ Las constancias y los certificados vehiculares que, a la entrada en vigor de est
 Artículo Cuarto. Plazo para el trámite de constancias y certificados
 
 Los operadores del servicio de transporte de pasajeros o de carga que, a la entrada en vigor de este decreto, no contasen con certificado de operador titular o adhesivo, según sea el caso, contarán con un plazo de noventa días naturales para tramitarlo, contado a partir de la entrada en vigor de este decreto, de conformidad con los requisitos previstos en la Ley de Transporte del Estado de Yucatán y previo pago de los derechos correspondientes, en términos de la Ley General de Hacienda del Estado de Yucatán.
+
+D.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 265/2020 POR EL QUE SE MODIFICA LA LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN, EN MATERIA DE RASTREADORES SATELITALES"]
+
+Primero.- Entrada en Vigor
+
+El presente decreto entrara en vigor, al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo.- Plazos para los concesionarios o permisionarios
+
+Los concesionarios o permisionarios a que hace referencia el artículo 22 Bis de esta Ley, tendrá (sic) un plazo de un año para cumplir con lo dispuesto, a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- Derogación expresa
+
+Se deroga (sic) las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+Cuarto.- Plazo para adecuaciones
+
+El Poder Ejecutivo deberá realizar las adecuaciones al reglamento de esta ley en un plazo no mayor a 90 días naturales, contados a partir del día siguiente a la publicación del presente decreto.
