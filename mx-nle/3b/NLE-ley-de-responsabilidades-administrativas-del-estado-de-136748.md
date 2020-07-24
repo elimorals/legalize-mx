@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-administrativas-del-estado-de-136748"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2020-01-24"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley Publicada en la Sección Tercera al Número 70 del Periódico Oficial del Estado de Nuevo León, el viernes 7 de junio de 2019.
 
@@ -71,7 +71,7 @@ VI. Determinar los mecanismos para la prevención, corrección e investigación 
 
 VII. Crear las bases para que todo Ente público establezca políticas eficaces de ética pública y responsabilidad en el servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2020)</small>
+((REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2020)
 
 ###### Artículo 3.
 
@@ -641,9 +641,11 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior, será aplicable, inclusive cuando el servidor público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
+
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realice por sí o a través de un tercero, alguna de las conductas descritas en la fracción VI del artículo 6, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 58.
 
@@ -2007,7 +2009,7 @@ Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por l
 
 (NOTA: EL 5 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 114/2024, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA ATRIBUIDA AL CONGRESO DEL ESTADO DE NUEVO LEÓN, ATINENTE A NO ADECUAR EL ARTÍCULO 221 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN A LO ESTABLECIDO EN EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO DE REFORMAS CONSTITUCIONALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTISIETE DE MAYO DE DOS MIL QUINCE, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDIÓ LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, PUBLICADO EN EL MISMO MEDIO DE DIFUSIÓN EL DIECIOCHO DE JULIO DE DOS MIL DIECISÉIS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 ###### Artículo 221.
 
@@ -2124,3 +2126,9 @@ P.O. 24 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 263. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN X Y 63; DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 336. SE REFORMA EL ARTÍCULO 57 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
