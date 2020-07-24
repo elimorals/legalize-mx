@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2020-05-12"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -71,9 +71,7 @@ IX.- Establecer los mecanismos de coordinación, inducción y concertación de a
 
 X.- Establecer las atribuciones que, en el ámbito de sus respectivas competencias, correspondan al Gobierno del Estado y a los gobiernos municipales en materia ambiental, así como las que les competan bajo el principio de fidelidad municipal, conforme lo previsto por el artículo 172 de la Constitución Política del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
-
-XI.- Implementar políticas públicas encaminadas a la eliminación del uso de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, así como las que impulsen su sustitución definitiva por productos elaborados con materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos composteables.
+XI.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
 (ADICIONADO, P.O. 19 DE DICIEMBRE DE 2014) (F. DE E., P.O. 24 DE MARZO DE 2015)
 
@@ -95,9 +93,7 @@ IV.- El establecimiento, protección y preservación de las áreas naturales pro
 
 V.- El establecimiento de museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones y exhibiciones similares, destinados a promover el cumplimiento de la presente ley.
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
-
-VI.- Las acciones encaminadas a la prohibición y eliminación del uso de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos.
+VI.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
 ###### ARTICULO 3º.
 
@@ -257,17 +253,11 @@ LIX.- Reuso: La utilización de todos los residuos o desechos sólidos, líquido
 
 LX.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2014)</small>
+LXI.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
-LXI.- Vocación Natural: Las Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+LXII.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
-
-LXII.- Biodegradable (s): Calificativo para productos hechos a base de sustancias (macromoléculas o polímeros) susceptibles a degradación por actividad biológica. Se entiende por degradación a la pérdida progresiva de las características ya sean físicas y/o químicas de una sustancia, el proceso de biodegradación depende de la cantidad de oxígeno, el grado de humedad y de la temperatura, y puede ser descompuesto por microorganismos.
-
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
-
-LXIII.- Bolsa plástico desechable: Tipo de empaque fabricado con derivados del petróleo y el cual es distribuido por establecimientos comerciales para el acarreo, carga, envoltura o empaque de productos de los consumidores.
+LXIII.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
 > <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
 
@@ -353,17 +343,19 @@ IV.- Celebrar convenios en materia ambiental con la Federación, otros estados y
 
 V.- Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los recursos materiales utilizados por los servidores públicos de las diversas dependencias y organismos del Gobierno estatal, así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos del Estado la educación ambiental y el fortalecimiento de una cultura ecológica; y
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-VI.- Establecer, los criterios, lineamientos y normas técnicas ecológicas ambientales para el estado, referentes a la producción y el consumo sustentable de productos plásticos incluyendo popotes y poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes.
+VI.- Establecer las acciones y políticas para promover en la población el conocimiento y el uso de productos reutilizables y reciclables para la envoltura, transportación, carga o traslado de alimentos y bebidas, así como evitar el uso de popotes plásticos y poliestireno expandido cuando se pretenda emplear para estos fines, salvo las excepciones que establezcan las disposiciones aplicables.
 
-Estos criterios, lineamientos y normas técnicas ecológicas ambientales deberán emitirse bajo esquemas de participación ciudadana e integrarse en el Programa Estatal para la Prevención y Gestión Integral de Residuos para el Estado de Coahuila de Zaragoza; en su elaboración se considerará lo siguiente:
+Así mismo, establecer acciones y políticas para promover el conocimiento y uso de productos biodegradables, empleados éstos cuando no sea posible la reutilización o reciclaje de productos elaborados para los fines descritos en el párrafo que antecede.
 
-a) Establecer principios de reducción, reciclaje y reutilización en el manejo de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos;
+Estas acciones y políticas deberán integrarse en el Programa Estatal para la Prevención y Gestión Integral de Residuos para el Estado de Coahuila de Zaragoza; en su elaboración se considerará lo siguiente:
 
-b) Garantizar la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de los productos plásticos mencionados en el párrafo anterior, promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables; por lo que una vez terminada la vida útil de estos, sus residuos se incorporen para su reciclaje y reutilización, minimizando la disposición final;
+a) Establecer principios de reducción, reutilización y reciclaje en el manejo de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos;
 
-c) Garantizar que los popotes, bolsas de plástico y poliestireno expandido, se sustituyan por la utilización de materiales provenientes de recursos renovables, para su pronta biodegradación en los destinos finales.
+b) Fomentar la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de los productos plásticos mencionados en el párrafo anterior, promoviendo el uso de materias primas provenientes de los recursos naturales renovables, reutilizables y reciclables; por lo que una vez terminada la vida útil de estos, sus residuos se incorporen para su reciclaje y reutilización, cuando esto sea posible, minimizando la disposición final;
+
+c) Instaurar acciones y recomendaciones paraevitar (sic) el uso de popotes, bolsas de plástico y poliestireno expandido.
 
 VII.- Las demás que le confiera esta ley, sus reglamentos y otras disposiciones legales.
 
@@ -391,7 +383,9 @@ VIII.- Supervisar, en la esfera de su competencia, el adecuado uso de sistemas d
 
 IX.- Vigilar, en coordinación con las autoridades federales y municipales competentes, en los términos de las disposiciones aplicables, el cumplimiento de las normas y programas para la protección y restauración del medio ambiente;
 
-X.- Supervisar, en el ámbito de su competencia, el debido cumplimiento de los criterios ecológicos, así como las normas de carácter general que deban satisfacer las descargas de aguas residuales, a fin de evitar la contaminación que ponga en peligro o degrade los ecosistemas;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+
+X.- Proponer la política estatal de información y difusión en materia ambiental, dirigida a una educación ambiental y la cultura del reuso y reciclaje entre comercios, empresas y negocios mercantiles.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -515,17 +509,15 @@ XXXIV.- Vigilar en el ámbito de su competencia, el debido cumplimiento de las n
 
 XXXV.- Difundir los proyectos de educación ambiental y de conservación y desarrollo ecológico de alcance general en la entidad, a fin de desarrollar una mayor conciencia ambiental en estas materias; y
 
-(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE ENERO DE 2019).
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-XXXVI. Establecer las bases que permitan la transición del uso de bolsas de plástico de uso único y popotes, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final, al uso de materiales biodegradables;
+XXXVI. Establecer las bases que permitan la transición y sustitución del uso de bolsas y popotes de plástico y empaques de poliestireno expandido para transportación, carga o traslado al consumidor final, al uso de materiales reutilizables, reciclables y como última opción, biodegradables;
 
-(ADICIONADA, P.O. 15 DE ENERO DE 2019).
+XXXVII. (DEROGADA, P.O. 24 DE JULIO DE 2020)
 
-XXXVII. Verificar que las bolsas de plástico y popotes biodegradables que se entreguen en los establecimientos mercantiles y comerciales, cumplan con los criterios sustentables de reducción, reciclaje y reutilización, garantizando la disminución del impacto ambiental; promoviendo el uso de materias primas provenientes de los recursos naturales reciclables o en su caso renovables;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
-
-XXXVIII. Vigilar que los establecimientos comerciales y restaurantes cumplan con las disposiciones referentes a la prohibición de entrega de bolsas de plástico y popotes, señaladas en la presente ley; y
+XXXVIII. Vigilar que los establecimientos cumplan con las disposiciones referentes a la prohibición de entrega gratuita de bolsas de plástico y popotes, señaladas en la presente ley; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ENERO DE 2019)</small>
 
@@ -611,9 +603,9 @@ XXIV.- Otorgar autorizaciones para uso de suelo, licencias de construcción u op
 
 XXV.- Establecer y aplicar las medidas correctivas e imponer las sanciones correspondientes por infracciones a la presente ley, sus reglamentos y demás disposiciones en el ámbito de sus respectivas competencias; y
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-XXVI.- Expedir los programas municipales de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos, de conformidad con esta ley y las reglas establecidas en el Programa Estatal para la Prevención y Gestión Integral de Residuos para el Estado de Coahuila de Zaragoza y la norma técnica ecológica ambiental de la materia;
+XXVI.- Expedir los programas municipales de sustitución de bolsas y popotes plásticas y contenedores de poliestireno expandido, así como de las prácticas de reutilización y reciclaje de dichos productos, empleados para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, de conformidad con esta ley y demás disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
@@ -1945,13 +1937,13 @@ XI.- Ejercer las demás facultades que les confieran las disposiciones legales y
 
 No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera, deberán de ser observadas las previsiones de esta ley y de las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas así como de las normas técnicas estatales que se emitan.
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
-ARTICULO 104 BIS.- Se prohíbe a todo establecimiento comercial dentro del territorio del Estado de Coahuila, proporcionar a los consumidores cualquier tipo de bolsa de plástico desechable para acarreo, carga, envoltura o empaque de productos, ya sea de manera gratuita a la venta para este fin.
+ARTICULO 104 BIS.- Se prohíbe a todo establecimiento comercial dentro del territorio del Estado de Coahuila, proporcionar a los consumidores cualquier tipo de bolsa de plástico para acarreo, carga, envoltura o empaque de productos de manera gratuita.
 
-No se aplicará lo dispuesto en el párrafo anterior, cuando las bolsas de plástico sean fabricadas con materiales que permitan su reciclado, reutilización o pronta degradación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
-En todo caso el ciclo de vida de las bolsas de plastico no será mayor a diez años, procurando la utilización de materiales provenientes de recursos renovables, como los biopolímeros para su pronta biodegradación en los destinos finales. En el caso de las bolsas que cuenten con un aditivo que se (sic) incompatible con el reciclaje, estas deberán garantizar tener un ciclo de vida menor a cinco años.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
 #### SECCION II. Del Control de Emisiones Provenientes de Fuentes Fijas
 
@@ -2265,9 +2257,9 @@ III.- Que es necesario prevenir y reducir la generación de residuos sólidos e 
 
 IV.- Que en los suelos contaminados por la presencia de materiales o residuos no peligrosos, deberán llevarse a cabo las acciones para recuperar o reestablecer sus condiciones, de tal manera que puedan ser utilizados en cualquier tipo de actividad prevista por el plan de desarrollo urbano o de ordenamiento ecológico que resulte aplicable.
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-V.- Es necesario normar y regular el uso de bolsas, popotes, envases, empaques y embalajes de materiales no biodegradables o no reciclables.
+V.- Es necesario promover la eliminación del uso de productos plásticos de un único uso y optar por alternativas que admitan el reuso, reciclaje o, en su caso, que se empleen materiales biodegradables en la elaboración de estos productos.
 
 ###### ARTICULO 143.
 
@@ -2321,9 +2313,9 @@ Toda descarga o depósito de residuos sólidos no peligrosos en los suelos de co
 
 Para la localización, instalación y funcionamiento de sistemas de manejo de residuos sólidos no peligrosos, se tomará en cuenta el ordenamiento ecológico y los planes y programas de desarrollo urbano estatal y municipal.
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
 
-ARTICULO 148 BIS.- Las autoridades estatales y los municipios deberán promover en base a las leyes de la materia, la utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos y la clasificación de los mismos de acuerdo a las normas técnicas ecológicas correspondientes.
+ARTICULO 148 BIS.- Las autoridades estatales y los municipios deberán promover en base a las leyes de la materia, la utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos y la clasificación de los mismos de acuerdo a las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2020)</small>
 
@@ -2339,15 +2331,15 @@ I.- La implantación y mejoramiento de sistemas de recolección, tratamiento y d
 
 II.- La identificación de alternativas de reuso y disposición final de los referidos residuos, incluyendo la elaboración de inventarios de los mismos y de sus fuentes generadoras.
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
 
-ARTICULO 150 BIS.- En el estado de Coahuila de Zaragoza, se restringe la venta, facilitación y obsequio de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares.
+ARTICULO 150 BIS.- En el Estado de Coahuila de Zaragoza, se restringe la facilitación y obsequio de bolsas y popotes plásticos, así como contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares.
 
-Toda persona física o jurídica que infrinja lo establecido en el presente artículo será acreedor a las sanciones que se prevén en la presente ley.
+Toda persona física o jurídica que infrinja lo establecido en el presente artículo será acreedor a las sanciones previstas en esta ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
 
-ARTICULO 150 TER.- El estado y municipios en coordinación con las cámaras empresariales, organizaciones de la sociedad civil y la sociedad en general, deberán instrumentar estrategias y campañas de promoción y concientización ciudadana sobre el uso y destino final de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos que incluyan educación sobre el impacto ambiental producido por los plásticos no biodegradables y biodegradables y de los recipientes elaborados con poliestireno expandido, así como fomentar la utilización de materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos composteables.
+ARTICULO 150 TER.- El Estado y municipios en coordinación con las cámaras empresariales, organizaciones de la sociedad civil y la sociedad en general, deberán instrumentar estrategias y campañas de promoción y concientización ciudadana sobre los beneficios del uso de productos reutilizables y reciclables, así como aquellos que por sus características y composición tengan una pronta degradación.
 
 #### SECCION II. De los Servicios Públicos Municipales
 
@@ -2405,13 +2397,15 @@ Los municipios promoverán ante la Secretaría la atención de los asuntos relac
 
 ### CAPITULO VII. DEL USO DEL PLASTICO EN ESTABLECIMIENTOS MERCANTILES Y COMERCIALES
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
-ARTICULO 156 BIS.- Para el resguardo y traslado de la mercancía adquirida en establecimientos mercantiles y comerciales, queda prohibida la entrega y/o uso de bolsas de plástico no biodegradables.
+ARTÍCULO 156 BIS.- Para el resguardo y traslado de la mercancía adquirida en establecimientos mercantiles y comerciales, queda prohibida la entrega gratuita de bolsas de plástico.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
 
 Queda prohibida la entrega y/o uso de popotes de plástico a los consumidores en restaurantes, cafeterías, bares y en cualquier otro establecimiento mercantil o comercial, salvo aquellos que sean biodegradables.
 
-La Secretaría deberá de realizar las acciones necesarias, para que la población prefiera utilizar alternativas que tengan mínimo impacto ambiental, para el traslado de sus compras y desarrolle mejores prácticas en el consumo de líquidos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
 
@@ -2425,9 +2419,7 @@ III. Promover campañas de concientización entre los propietarios de establecim
 
 IV. Promover el otorgamiento de incentivos y estímulos para aquellos que realicen acciones tendientes a reemplazar las bolsas de plásticos y popotes por artículos degradables o biodegradables con el fin de procurar mantener el equilibrio ecológico.
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
-
-ARTICULO 156 QUATER.- La utilización de bolsas de plástico y popotes sólo se permitirá en caso de que sean creadas bajo procedimientos tecnológicos que les den la calidad de biodegradables.
+ARTICULO 156 QUATER.- (DEROGADO, P.O. 24 DE JULIO DE 2020)
 
 ## TITULO QUINTO. DE LA PARTICIPACION SOCIAL Y DE LA INFORMACION AMBIENTAL
 
@@ -3324,3 +3316,13 @@ P.O. 12 DE MAYO DE 2020.
 PRIMERO.- Las presentes adiciones de la fracción V del artículo 3°, la fracción XXVII del artículo 11 y la fracción XI del artículo 25, de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Coahuila de Zaragoza, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los Ayuntamientos deberán actualizar, dentro de un periodo máximo de 120 días naturales a partir de la entrada en vigor del presente Decreto, el Programa de Ordenamiento Ecológico municipal con el fin de incluir el plan de arborización municipal.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 700.- SE REFORMAN: LA FRACCIÓN VI DEL ARTÍCULO 8°, LA FRACCIÓN X DEL ARTÍCULO 9º, LAS FRACCIONES XXXVI Y XXXVIII DEL ARTÍCULO 10, LA FRACCIÓN XXVI DEL ARTÍCULO 11, EL PRIMER PÁRRAFO DEL ARTÍCULO 104 BIS, LA FRACCIÓN V DEL ARTÍCULO 142, EL ARTÍCULO 148 BIS, EL ARTÍCULO 150 BIS, EL ARTÍCULO 150 TER, EL PRIMER PÁRRAFO DEL ARTÍCULO 156 BIS Y SE DEROGAN: LA FRACCIÓN XI DEL ARTÍCULO 1°, LA FRACCIÓN VI DEL ARTÍCULO 2°, LAS FRACCIONES LXI, LXII Y LXIII DEL ARTÍCULO 3°, LA FRACCIÓN XXXVII DEL ARTÍCULO 10, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 104 BIS, EL TERCER PÁRRAFO DEL ARTÍCULO 156 BIS Y EL ARTÍCULO 156 QUATER DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN: LAS FRACCIONES III Y IV DEL ARTÍCULO 3°, LA FRACCIÓN XVII DEL ARTÍCULO 6°, LA FRACCIÓN III DEL ARTÍCULO 7º, FRACCIÓN XII DEL ARTÍCULO 8°, LA FRACCIÓN IV DEL ARTÍCULO 33 Y SE ADICIONAN: LA FRACCIÓN V AL ARTÍCULO 3°, LAS FRACCIONES XVIII, XIX Y XX DEL ARTÍCULO 6°, LAS FRACCIONES IV Y V AL ARTÍCULO 7' EL ARTÍCULO 11 BIS Y LAS FRACCIONES V Y VI AL ARTÍCULO 33 A LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a los ocho meses contados a partir de su publicación oficial.
+
+SEGUNDO.- La Secretaría de Medio Ambiente contará con un plazo de 365 días contados a partir de la entrada en vigor de este decreto, para elaborar las disposiciones relativas a las excepciones sobre el uso de bolsas y popotes plásticos y productos de poliestireno expandido.
+
+TERCERO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
