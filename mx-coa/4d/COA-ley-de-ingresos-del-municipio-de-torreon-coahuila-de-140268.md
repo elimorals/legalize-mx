@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-municipio-de-torreon-coahuila-de-140268"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2020-01-10"
+last_updated: "2020-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL MUNICIPIO DE TORREÓN, COAHUILA DE ZARAGOZA, PARA EL EJERCICIO FISCAL 2020
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE ENERO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO 512 PUBLICADO EN EL P.O. DE 27 DE ENERO DE 2010.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Sección al Número 104 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de diciembre de 2019.
 
