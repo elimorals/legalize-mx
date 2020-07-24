@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2017-07-31"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -4897,11 +4897,17 @@ II.- Se colocará o fijará en inmuebles de propiedad privada, siempre que medie
 
 III.- Previo acuerdo con las autoridades correspondientes y conforme a las bases que el propio Consejo General establezca, podrá fijarse en los lugares de uso común que determinen los Consejos Distritales; para tal efecto, los Ayuntamientos de los Municipios de la Entidad deberán remitir al Consejo General, a más tardar en el mes de enero del año de la elección, la relación de lugares de uso común que se podrán utilizar para ese fin;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
 
-IV.- No podrá colgarse, fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico.
+IV.- No podrá colgarse, fijarse o pintarse en elementos del equipamiento urbano, incluyendo si en éste se encuentran mamparas, bastidores o cualquier accesorio que se le cuelgue o fije; así como en equipamiento carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico, en la que de igual forma no se podrá contener portadas de revistas, libros, anuncios de entrevistas o de diarios, o cualquier otro elemento que contenga la imagen, nombre, símbolos, siglas o elementos que induzcan a la persona a saber que se trata de determinado candidato o candidata a un cargo de elección popular.
 
-Tampoco podrá obstaculizar en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población; de lo contrario, el Instituto ordenará el retiro de la propaganda electoral;
+Tampoco podrá obstaculizar en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población; de lo contrario, el Instituto ordenará el retiro de la propaganda electoral.
+
+No podrá fijarse, ni pintarse, en espectaculares o usar pantallas electrónicas, ni colgarse en algún elemento adherido a ellos, incluyendo portadas de revistas, libros, anuncios de entrevistas o de diarios, o cualquier otro elemento que contenga la imagen, nombre, símbolos, siglas o elementos que induzcan a la persona a saber que se trata de determinado candidato o candidata a un cargo de elección popular, en el Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2020)</small>
+
+IV Bis.- No podrá colgarse, fijarse, pintarse o adherirse propaganda electoral de partidos políticos y personas candidatas, incluyendo portadas de revistas, libros, anuncios de entrevistas o de diarios, o cualquier otro elemento que contenga la imagen, nombre, símbolos, siglas o elementos que induzcan a la persona a saber que se trata de determinado candidato o candidata a un cargo de elección popular, en taxis, autobuses, microbuses, camionetas de pasajeros y todo vehículo del Servicio Público de Transporte de pasajeros, el Servicio Mercantil, los Servicios Auxiliares y el Servicio Ejecutivo, así como en sus respectivas terminales, así como sitios, bases u oficinas;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -8342,5 +8348,13 @@ P.O. 31 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV, SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 232 DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
