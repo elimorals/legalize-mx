@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2020-04-01"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2020.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -1247,13 +1247,17 @@ XVII.- Coordinarse con las demás dependencias del Ejecutivo para generar la inf
 
 XVIII.- Realizar, bajo la coordinación de la Fiscalía General del Estado, la investigación de los hechos que la ley señale como delito, de manera objetiva, técnica, científica y sin dilaciones; y elaborar los registros de las diligencias efectuadas, para la integración de la carpeta de investigación;
 
-> <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, D.O. 24 DE JULIO DE 2020)</small>
 
-XIX.- Realizar las detenciones en flagrancia así como las ordenadas por la Fiscalía General del Estado por casos urgentes, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la ley procesal; y elaborar el registro de las detenciones, y
+XIX.- Realizar las detenciones en flagrancia así como las ordenadas por la Fiscalía General del Estado por casos urgentes, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la ley procesal; y elaborar el registro de las detenciones;
 
-> <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, D.O. 24 DE JULIO DE 2020)</small>
 
-XX.- Prestar el servicio de escolta pública en los términos del ordenamiento que regule el sistema de seguridad pública del estado.
+XX.- Prestar el servicio de escolta pública en los términos del ordenamiento que regule el sistema de seguridad pública del estado; y
+
+> <small>(ADICIONADA, D.O. 24 DE JULIO DE 2020)</small>
+
+XXI.- Crear y mantener actualizado el Registro Único de Prestadores de Servicios de Cerrajería, así como instrumentar un mecanismo de monitoreo a la actividad y prestación de dicho servicio en la entidad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3354,3 +3358,19 @@ D.O. 1 DE ABRIL DE 2020.
 Artículo único. Entrada en vigor
 
 Este Decreto entrará en vigor a los 180 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 266/2020 POR EL QUE SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE CERRAJEROS".]
+
+Artículo primero. Vigencia del Código Penal
+
+La reforma al Código Penal del Estado de Yucatán entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Vigencia al Código de la Administración Pública de Yucatán
+
+Las reformas y adiciones al Código de la Administración Pública de Yucatán entrarán en vigor el día 01 de enero del año 2021.
+
+Artículo tercero. Adecuaciones reglamentarias
+
+El Poder Ejecutivo del Estado de Yucatán deberá realizar las adecuaciones correspondientes y expedir las disposiciones reglamentarias en un término no mayor a 90 días naturales a partir de la entrada en vigor de lo ordenado en el artículo transitorio que antecede.
