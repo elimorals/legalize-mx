@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2020-07-23"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JULIO DE 2020 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2020.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -3631,6 +3633,8 @@ DELITOS SEXUALES
 
 ### CAPÍTULO IV. VIOLACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 308.
 
 A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá prisión de dos a cinco años o de doscientos a quinientos días-multa y de cien a quinientos días de trabajo en favor de la comunidad.
@@ -3687,7 +3691,7 @@ Al que tenga cópula con persona mayor de quince y menor de dieciocho años de e
 
 ###### ARTÍCULO 313.
 
-A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de seis a veinte años y de doscientos a quinientos días-multa.
+A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a veinte años y de mil a tres mil días-multa.
 
 > <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -3695,19 +3699,21 @@ Para los efectos de este Capítulo se entiende por cópula la introducción del 
 
 Se aplicará la misma sanción al que introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
+
+Si además de todo lo expuesto en los párrafos anteriores resultare en embarazo y/o en contagio de enfermedad de transmisión sexual, la sanción se aumentará en una mitad.
+
 ###### ARTÍCULO 314.
 
 La violación entre cónyuges o entre concubina o concubinario únicamente se perseguirá por querella.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2020)</small>
 
 ###### Artículo 315.
 
-Se equipara a la violación y se sancionará con prisión de ocho a veinticinco años, y de doscientos a quinientos días-multa, a quien sin violencia y con fines lascivos tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona menor de quince años de edad o a persona privada de razón o sentido o cuando por enfermedad o cualquier otra causa no pudiera resistir.
+Se equipara a la violación y se sancionará con prisión de ocho a treinta años, y de tres mil a cinco mil días-multa, a quien sin violencia y con fines lascivos tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona menor de quince años de edad o a persona privada de razón o sentido o cuando por enfermedad o cualquier otra causa no pudiera resistir.
 
-> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
-
-Si además se ejerciere violencia física o moral, el mínimo y el máximo de la sanción se aumentarán en una mitad.
+Si además se ejerciere violencia física o moral, y en su caso, resultare en embarazo y/o en contagio de enfermad (sic) de transmisión sexual, el mínimo y el máximo de la sanción se aumentarán en una mitad.
 
 ### CAPÍTULO IV. EXTORSIÓN
 
@@ -3935,7 +3941,21 @@ A quien sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo o
 
 Las sanciones se aumentarán hasta el doble si el constreñimiento se realiza mediante una asociación delictuosa o por quien sea o haya sido servidor público. En este caso, se impondrá además al servidor, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos y al ex-servidor público únicamente la inhabilitación por el mismo término.
 
-### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+### CAPÍTULO VIII BIS. PORTACIÓN ILEGAL DE INSTRUMENTOS DESTINADOS PARA EL OFICIO DE CERRAJERO
+
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 350 BIS. Se entenderá en este capítulo por cerrajero a la persona que de acuerdo a sus conocimientos se dedica a abrir, reparar, colocar y darle mantenimiento a las llaves, cerraduras, candados, cerrojos y cilindros, tanto de puertas comunes así como también de vehículos, cajas de seguridad y que para el desempeño de tal oficio utiliza herramientas, instrumentos y toda clase de dispositivos físicos, electrónicos o digitales para apertura de bienes muebles o inmuebles.
+
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 350 TER. Cuando una persona aprovechándose de los conocimientos de cerrajería cometa, facilite o a sabiendas permita un ilícito mediante el uso de ganzúas, chorlas, llaves maestras o limadas o cualquier otro instrumento u objeto físico, scanner o cualquier otro dispositivo electrónico, destinado para abrir, bloquear, inhibir o forzar cerraduras o dispositivos de seguridad, se le impondrá una pena de prisión de uno a cinco años y hasta una multa de cincuenta a quinientos días-multa.
+
+Lo anterior, sin perjuicio de las sanciones que correspondan si resultare cometido otro u otros delitos. En todos los casos, para los instrumentos u objetos del delito, se estará a lo dispuesto en este código.
+
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2020)</small>
+
+ARTÍCULO 350 QUÁTER. Será obligación de todo cerrajero al prestar su servicio proporcionar aviso oportuno a la autoridad correspondiente ante cualquier indicio de la comisión de un posible hecho delictivo.
 
 ###### ARTÍCULO 328.
 
@@ -3949,9 +3969,7 @@ Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer 
 
 La usura será perseguida por querella.
 
-### CAPÍTULO I. ABANDONO DE PERSONAS
-
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
 
 ###### ARTÍCULO 329.
 
@@ -3973,7 +3991,9 @@ Si el despojo se efectúa por dos o más personas o con violencia, se aumentará
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO II. LESIONES
+### CAPÍTULO I. ABANDONO DE PERSONAS
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 330.
 
@@ -4199,7 +4219,7 @@ IV. Comercie total o parcialmente cualquier bien robado.
 
 En caso de tratarse de robo de ganado, sea mayor o menor, o de aves de corral, las conductas a que se refiere este artículo, se sancionarán hasta en una mitad más de las establecidas en los artículos 339, 340 y 341.
 
-### CAPÍTULO III. HOMICIDIO
+### CAPÍTULO II. LESIONES
 
 ###### ARTÍCULO 348.
 
@@ -4241,9 +4261,11 @@ En los casos de daño, destrucción o deterioro de cosa ajena o de cosa propia e
 
 Este delito será perseguido por querella.
 
-### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE JULIO DE 2020)</small>
 
-### CAPÍTULO V. ATAQUES PELIGROSOS
+### CAPÍTULO III. HOMICIDIO
+
+### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTÍCULO 351.
 
@@ -4253,7 +4275,7 @@ Igualmente, se requerirá querella para la persecución de terceros que hubiesen
 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA LA VIDA E INTEGRIDAD CORPORAL
 
-### CAPÍTULO VI. ABORTO
+### CAPÍTULO V. ATAQUES PELIGROSOS
 
 ###### ARTÍCULO 352.
 
@@ -4285,9 +4307,7 @@ No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia o e
 
 Cuando alguna de las conductas delictivas a que se refiere este Capítulo se realice contra persona mayor de setenta años de edad, la sanción a imponer se aumentará hasta en el doble de la sanción máxima que corresponda a la conducta de que se trate.
 
-### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
-
-> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
+### CAPÍTULO VI. ABORTO
 
 ###### ARTÍCULO 357.
 
@@ -4353,17 +4373,9 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 
 Cuando concurra una sola de las circunstancias a que se refiere el artículo 378 de este Código y la lesión fuere simple, se aumentará hasta en un tercio la sanción que correspondería; cuando concurran dos o más de dichas circunstancias, se aumentará la pena hasta en dos terceras partes.
 
-### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
+### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
 
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
-
-ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
-
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
-
-ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 368.
 
@@ -4407,25 +4419,17 @@ Al responsable de homicidio en riña se le impondrá de cuatro a doce años de p
 
 ARTÍCULO 373 BIS.- No constituirá delito de homicidio, las conductas realizadas por el personal de las instituciones de salud, el representante que conste en el documento de voluntad anticipada ni los familiares del signatario de dicho documento, para efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada del Estado de Yucatán.
 
-### CAPÍTULO IX. ESTERILIDAD PROVOCADA
+### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
-ARTÍCULO 394 QUATER. A quien sin haber dado su consentimiento, o de quien legalmente deba otorgarlo por razón de patria potestad, guarda, custodia o tutoría de una persona mayor de dieciocho años de edad, después de haber sido plenamente informada de las posibles consecuencias, practique en ella cualquier procedimiento, sea químico, quirúrgico o de cualquier otra índole, que le provoque esterilidad, se le impondrán de ocho a diez años de prisión y de mil a dos mil días-multa, así como el pago total de la reparación de los daños y perjuicios ocasionados, que incluirán los gastos de hospitalización, los del procedimiento, sea quirúrgico o de cualquier otra índole, necesario para revertir la esterilidad, en caso de que sea posible, y el tratamiento médico y psicológico.
+ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
-Si la conducta prevista en el párrafo anterior se cometiera aún con el consentimiento de la víctima, en una persona menor de dieciocho años, con algún trastorno mental, alguna discapacidad intelectual o en quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción prevista en el párrafo anterior se incrementará en una mitad.
+ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
 
-Si como consecuencia de algún procedimiento médico o quirúrgico que se realice con el consentimiento de la persona se provoca esterilidad por negligencia o falta de cuidado, se le impondrá al sujeto activo una sanción de dos a cuatro años de prisión y de cincuenta a ciento cincuenta días-multa.
-
-A quien sin contar con cédula profesional que acredite su preparación médica, realice alguna actividad o procedimiento que provoque esterilidad, se le impondrá una sanción de ocho a quince años de prisión y de cien a cuatrocientos días-multa.
-
-> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
-
-Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 374.
 
@@ -4523,6 +4527,38 @@ De las lesiones o muerte que a una persona cause algún animal, será responsabl
 
 BIS. Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta unidades de medida y actualización, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin cumplir los requisitos legales correspondientes.
 
+### CAPÍTULO IX. ESTERILIDAD PROVOCADA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
+ARTÍCULO 394 QUATER. A quien sin haber dado su consentimiento, o de quien legalmente deba otorgarlo por razón de patria potestad, guarda, custodia o tutoría de una persona mayor de dieciocho años de edad, después de haber sido plenamente informada de las posibles consecuencias, practique en ella cualquier procedimiento, sea químico, quirúrgico o de cualquier otra índole, que le provoque esterilidad, se le impondrán de ocho a diez años de prisión y de mil a dos mil días-multa, así como el pago total de la reparación de los daños y perjuicios ocasionados, que incluirán los gastos de hospitalización, los del procedimiento, sea quirúrgico o de cualquier otra índole, necesario para revertir la esterilidad, en caso de que sea posible, y el tratamiento médico y psicológico.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Si la conducta prevista en el párrafo anterior se cometiera aún con el consentimiento de la víctima, en una persona menor de dieciocho años, con algún trastorno mental, alguna discapacidad intelectual o en quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción prevista en el párrafo anterior se incrementará en una mitad.
+
+Si como consecuencia de algún procedimiento médico o quirúrgico que se realice con el consentimiento de la persona se provoca esterilidad por negligencia o falta de cuidado, se le impondrá al sujeto activo una sanción de dos a cuatro años de prisión y de cincuenta a ciento cincuenta días-multa.
+
+A quien sin contar con cédula profesional que acredite su preparación médica, realice alguna actividad o procedimiento que provoque esterilidad, se le impondrá una sanción de ocho a quince años de prisión y de cien a cuatrocientos días-multa.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 388.
+
+Se impondrá sanción de tres meses hasta dos años de prisión y de dos a veinte días-multa:
+
+I. Al que dispare sobre alguna persona un arma de fuego, y
+
+II. Al que ataque a alguien de tal manera que en razón del arma, instrumento u objeto empleados, de la fuerza o destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado la muerte.
+
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+
+Si de las agresiones mencionadas resultaren una o más lesiones, se observarán las reglas de acumulación, menos en los casos en que dichas lesiones causaren la muerte del ofendido o fueren de las que ponen en peligro la vida, en los que se aplicarán las sanciones correspondientes al delito de lesiones o de homicidio. Cuando el delito por ataques peligrosos no ponga en peligro la vida, éste se perseguirá por querella de la parte ofendida
+
 ### CAPÍTULO X. FEMINICIDIO
 
 > <small>(REFORMADO, D.O. 1 DE ABRIL DE 2014)</small>
@@ -4575,22 +4611,6 @@ TÍTULO VIGESIMOPRIMERO
 
 DELITOS ELECTORALES
 
-###### ARTÍCULO 388.
-
-Se impondrá sanción de tres meses hasta dos años de prisión y de dos a veinte días-multa:
-
-I. Al que dispare sobre alguna persona un arma de fuego, y
-
-II. Al que ataque a alguien de tal manera que en razón del arma, instrumento u objeto empleados, de la fuerza o destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado la muerte.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
-
-Si de las agresiones mencionadas resultaren una o más lesiones, se observarán las reglas de acumulación, menos en los casos en que dichas lesiones causaren la muerte del ofendido o fueren de las que ponen en peligro la vida, en los que se aplicarán las sanciones correspondientes al delito de lesiones o de homicidio. Cuando el delito por ataques peligrosos no ponga en peligro la vida, éste se perseguirá por querella de la parte ofendida
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
-
 ###### ARTÍCULO 389.
 
 Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
@@ -4633,13 +4653,17 @@ IV. Cuando el aborto obedezca a causas económicas graves y justificadas y siemp
 
 V. Cuando se practique con el consentimiento de la madre y del padre en su caso y a juicio de dos médicos exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves.
 
-### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 394.
 
 A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación, se le impondrá prisión de treinta a cuarenta años y será privado de todo derecho de familia sobre los bienes de aquella persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 372 de este Código, sin menoscabo de observar alguna circunstancia que agrave o atenúe las sanciones a que se refieren los capítulos III y IV anteriores.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
+
+### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
 
 ### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
 
@@ -4648,8 +4672,6 @@ A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea
 ### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
 
 ### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
-
-### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 395.
 
@@ -4665,7 +4687,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 397.
 
@@ -4677,15 +4699,17 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
-
-> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 399.
 
 (DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 400.
 
@@ -5364,3 +5388,27 @@ Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párra
 Artículo segundo. Derogación tácita
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
+
+D.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 266/2020 POR EL QUE SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE CERRAJEROS”.]
+
+Artículo primero. Vigencia del Código Penal
+
+La reforma al Código Penal del Estado de Yucatán entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Vigencia al Código de la Administración Pública de Yucatán
+
+Las reformas y adiciones al Código de la Administración Pública de Yucatán entrarán en vigor el día 01 de enero del año 2021.
+
+Artículo Tercero. Adecuaciones reglamentarias
+
+El Poder Ejecutivo del Estado de Yucatán deberá realizar las adecuaciones correspondientes y expedir las disposiciones reglamentarias en un término no mayor a 90 días naturales a partir de la entrada en vigor de lo ordenado en el artículo transitorio que antecede.
+
+D.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 267/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE INCREMENTACIÓN DE PENAS EN LOS DELITOS DE VIOLACIÓN Y VIOLACIÓN EQUIPARADA".]
+
+Único. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
