@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2020-06-16"
+last_updated: "2020-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -665,31 +665,29 @@ Todos los Diputados tendrán idéntica categoría e igualdad de obligaciones y g
 
 Los Diputados, como representantes del pueblo, podrán auxiliar a sus representados y a las comunidades del Estado en sus demandas sociales y de orden administrativo de interés general, a fin de lograr su oportuna solución, por lo que las autoridades administrativas del Estado y los Ayuntamientos deberán atender su intervención y ver por la oportuna resolución de sus promociones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 15.
 
-La asignación de los Diputados por el principio de representación proporcional que le correspondan a cada partido político, se hará por el Instituto Estatal Electoral de acuerdo con el procedimiento que se establezca en la Ley, y atendiendo lo siguiente:
+La asignación de diputaciones por el principio de representación proporcional que le correspondan a cada partido político, se hará por el Instituto Estatal Electoral de acuerdo con el procedimiento que se establezca en la Ley, y atendiendo lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2020)</small>
 
 I.- Para que los partidos políticos tengan este derecho deberán:
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
 
-a).- Participar con candidatos a Diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales;
+a) Participar con candidaturas a diputaciones por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales, y
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
 
-b).- Haber obtenido por lo menos el tres por ciento de la votación válida emitida en la elección de Diputados por el principio de representación proporcional, y
+b) Haber obtenido por lo menos el tres por ciento de la votación válida emitida en la elección de diputaciones por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+c) (DEROGADO, P.O. 24 DE JULIO DE 2020)
 
-c) Haber obtenido el registro de la lista de cuatro candidatos a Diputados por el principio de representación proporcional. Corresponde a cada partido político o coalición, en su caso, determinar si la primera asignación que le corresponda por este principio, será con base en la lista registrada o por porcentaje de votación válida, especificándolo en el periodo de registro de la lista de candidatos o en su caso, en el convenio de coalición, ante el Instituto Estatal Electoral.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2015)</small>
-
-II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político que tenga derecho a ello. Esta primera asignación corresponderá a los candidatos a diputados de las listas previamente registradas ante la autoridad electoral o los que tengan mayor porcentaje de votación válida en el distrito y que no hayan obtenido constancia de mayoría.
+II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará una diputación a cada partido político que tenga derecho a ello. Las asignaciones corresponderán solo a las candidaturas que tengan mayor porcentaje de votación válida en el distrito y que no hayan obtenido constancia de mayoría. En el caso de coaliciones, la primera asignación a cada partido político deberá determinarse, además, con base en el convenio de coalición registrado.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -5016,3 +5014,9 @@ P.O. 16 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 74 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 16, 78 Y 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 85 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22, 27, 46, 136, 144, 145 Y 190 Y LA ADICIÓN DEL ARTÍCULO 27 BIS, TODOS DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
