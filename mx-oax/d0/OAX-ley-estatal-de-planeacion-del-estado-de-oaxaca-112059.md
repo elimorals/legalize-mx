@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-planeacion-del-estado-de-oaxaca-112059"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-09"
-last_updated: "2020-02-15"
+last_updated: "2020-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de enero de 2016.
 
@@ -67,7 +67,9 @@ I. Acuerdos de desempeño: Instrumentos de planeación que permiten a las instan
 
 II. Áreas administrativas: Unidades Institucionales de Planeación y Evaluación del Desempeño que se integrarán para efectos de la presente Ley por las Unidades de administración que establece la fracción LIX del artículo 2 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
 
-III. Auditoría: Auditoría Superior del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2020)</small>
+
+III. Órgano Superior de Fiscalización: Órgano Superior de Fiscalización del Estado de Oaxaca;
 
 IV. Banco de proyectos de Inversión Pública: Herramienta tecnológica y metodológica que regula procedimientos e instrumentos para la formulación, preparación, evaluación ex ante, viabilización y registro de proyectos de Inversión Pública en el Estado;
 
@@ -819,13 +821,19 @@ V. La identificación de los responsables institucionales y de los arreglos de c
 
 Para la ejecución de los planes municipales, los Ayuntamientos elaborarán, los correspondientes POA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2020)</small>
+
 ###### Artículo 66.
 
-El COPLADE, por conducto de su Coordinación General y, en coordinación con la Secretaría y la Auditoría promoverán el fortalecimiento de las capacidades de las autoridades municipales y de las organizaciones de las sociedades civiles y sociales, en relación con los procesos de planeación, ejecución y seguimiento de los planes, programas y proyectos de inversión del nivel municipal.
+El COPLADE, por conducto de su Coordinación General y, en coordinación con la Secretaría y el Órgano Superior de Fiscalización promoverán el fortalecimiento de las capacidades de las autoridades municipales y de las organizaciones de las sociedades civiles y sociales, en relación con los procesos de planeación, ejecución y seguimiento de los planes, programas y proyectos de inversión del nivel municipal.
 
-Para ello, asistirá a los ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales y coordinará la capacitación integral de los Municipios, con la Secretaría, Contraloría, Auditoría, y demás instituciones públicas y privadas relevantes.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
 
-La evaluación del desempeño de los Planes Municipales de Desarrollo serán evaluados a través de la Auditoría Superior del Estado.
+Para ello, asistirá a los ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales y coordinará la capacitación integral de los Municipios, con la Secretaría, Contraloría, el Órgano Superior de Fiscalización, y demás instituciones públicas y privadas relevantes.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+
+La evaluación del desempeño de los Planes Municipales de Desarrollo, serán evaluados a través del Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 ### Capítulo Octavo. Planes Microrregionales
 
@@ -1221,9 +1229,11 @@ III. Integrar la información estadística producida de la Dependencia o Entidad
 
 IV. Remitir la información estadística producida a la Coordinación General o a la Instancia Técnica de Evaluación en los plazos y términos que éstas determinen.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+
 ###### Artículo 112.
 
-Las Áreas administrativas de las Dependencias y Entidades estatales y municipales serán fortalecidas en sus capacidades de gestión de información a través de convenios con la Coordinación General, Secretaría, Auditoria u otras Entidades con conocimiento y capacidad técnica en la materia.
+Las Áreas administrativas de las Dependencias y Entidades estatales y municipales serán fortalecidas en sus capacidades de gestión de información a través de convenios con la Coordinación General, Secretaría, el Órgano Superior de Fiscalización u otras Entidades con conocimiento y capacidad técnica en la materia.
 
 ###### Artículo 113.
 
@@ -1277,9 +1287,11 @@ La Instancia Técnica de Evaluación será el responsable de establecer y coordi
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+
 ###### Artículo 120.
 
-Los actos u omisiones de servidores públicos que en ejercicio de sus funciones incumplan los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+Los actos u omisiones de servidores públicos que en ejercicio de sus funciones incumplan los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 ###### Artículo 121.
 
@@ -1382,3 +1394,9 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
+
+P.O. 25 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM.- 1592.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 2; EL PRIMERO, SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 66, EL ARTÍCULO 112 Y EL ARTÍCULO 120 DE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+ÚNICO. El Presente Decreto entrará en vigor el día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
