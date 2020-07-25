@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2020-02-15"
+last_updated: "2020-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -967,11 +967,13 @@ La persona que al conducir cualquier tipo de vehículo bajo la influencia de est
 
 En todos los operativos, se protegerán los datos personales de conformidad con la ley de la materia.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+
 ###### Artículo 88.
 
-Si con motivo de la detención, arrastre o encierro del vehículo este sufriera daños o robo, las autoridades o las empresas concesionarias que hayan tomado parte tendrán la obligación solidaria de reparar los daños y responder por el robo, siempre y cuando se compruebe de acuerdo a la relación pormenorizada de sus pertenencias del conductor.
+Si con motivo de la detención, arrastre o encierro del vehículo este sufriera robo, daños parciales o destrucción total por incendio o cualquier otra causa, las autoridades o las empresas concesionarias que hayan tomado parte, tendrán la obligación de reparar los daños o responder por el robo, siempre y cuando se compruebe de acuerdo a la relación pormenorizada de las pertenencias del conductor, o en su caso, se compruebe la propiedad del vehículo siniestrado.
 
-La Dirección de Tránsito deberán (sic) establecer los procedimientos para garantizar el estado que guarda el vehículo y las pertenencias, accesorios o bienes con que cuente al momento del encierro, arrastre o detención.
+La Dirección General de la Policía Vial Estatal deberán (sic) establecer los procedimientos para constatar, registrar y garantizar es (sic) estado que guarda el vehículo y las pertenencias, accesorios o bienes con que cuente al momento del encierro, arrastre o detención.
 
 ### CAPÍTULO XIII. DE LA CULTURA Y EDUCACIÓN VIAL
 
@@ -1220,3 +1222,11 @@ P.O. 15 DE FEBRERO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Todas las disposiciones legales vigentes que hagan referencia a la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca, se entenderán que se refieren a la Ley de Tránsito y Vialidad del Estado de Oaxaca, de igual manera, las facultades establecidas a las autoridades en materia de Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca, continuaran vigentes y se entenderán que se refieren a la Ley de Tránsito y Vialidad del Estado de Oaxaca.
+
+P.O. 25 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 1571.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 88 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado de Oaxaca, contará con noventa días hábiles contados a partir de la publicación del presente Decreto, para establecer en el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca, la normatividad que regule la aplicación de las reformas contenidas en el presente Decreto.
