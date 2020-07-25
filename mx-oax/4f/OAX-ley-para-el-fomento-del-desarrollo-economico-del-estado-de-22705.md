@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2020-03-21"
+last_updated: "2020-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -135,11 +135,15 @@ III.- Gobierno Municipal.
 
 Los Consejos Estatal, Regionales y Municipales son los órganos técnicos y de asesoría del Ejecutivo Estatal y de los gobiernos municipales, para la promoción de las actividades de fomento del desarrollo integral de la Entidad, quienes además impulsarán programas para la inclusión en la vida productiva de sectores vulnerables, observando la paridad y perspectiva de género, en especial impulsarán las consideradas como Zonas Económicas Especiales.
 
-En todos ellos participarán, además de los servidores públicos que correspondan, los representantes de los sectores productivos social y privado, así como las instituciones de educación media superior y superior e investigación científica. Sus atribuciones se especificarán en el reglamento de esta Ley, en coordinación y de conformidad con lo dispuesto en la Ley de Planeación del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
 
-###### ARTICULO 5º.
+En todos ellos participarán, además de los servidores públicos que correspondan, los representantes de los sectores productivos social y privado, EL Honorable Congreso del Estado a través de las comisiones permanentes competentes en la materia, así como las instituciones de educación media superior y superior e investigación científica. Sus atribuciones se especificarán en el reglamento de esta Ley, en coordinación y de conformidad con lo dispuesto en la Ley de Planeación del Estado de Oaxaca.
 
-Los Consejos Estatal y Regionales estarán integrados por los titulares de las dependencias y entidades gubernamentales, integrantes de los gobiernos municipales, representantes de los sectores productivos social y privado, a través de los organismos constituidos en cada Región, contando con la asesoría de las instituciones de educación media superior, superior y de investigación científica; que al efecto establezca el reglamento correspondiente, quienes ejercerán sus funciones de manera honorífica.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+
+###### ARTICULO 5°.
+
+Los Consejos Estatal y Regionales estarán integrados por los titulares de las dependencias y entidades gubernamentales, integrantes de los gobiernos municipales, representantes de los sectores productivos social y privado, a través de los organismos constituidos en cada Región, contando con la asesoría del Honorable Congreso del Estado a través de las comisiones permanentes competentes en la materia e instituciones de educación media superior, superior y de investigación científica; que al efecto establezca el reglamento correspondiente, quienes ejercerán sus funciones de manera honorifica.
 
 ###### ARTICULO 6º.
 
@@ -534,3 +538,11 @@ P.O. 21 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1200.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XI AL ARTÍCULO 1°, XIV ARTÍCULO 2°, EL INCISO M) A LA FRACCIÓN I DEL ARTICULO 9°, Y LA FRACCIÓN X AL ARTÍCULO 15 DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1541.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4 Y EL ARTÍCULO 5 DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
