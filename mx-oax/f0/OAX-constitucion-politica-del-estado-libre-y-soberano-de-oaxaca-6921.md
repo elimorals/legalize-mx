@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-05-30"
+last_updated: "2020-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2011,9 +2011,9 @@ LXXIII. Legislar en materia de responsabilidades de los servidores públicos del
 
 LXXIV. Expedir leyes que establezcan la concurrencia del Gobierno del Estado y de los Municipios, en el ámbito de sus competencias, en materia de alimentación; y
 
-> <small>(REFORMADA [ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2020)</small>
 
-LXXV. Designar por el voto de las dos terceras partes de sus miembros a los órganos de control interno de los órganos autónomos reconocidos en esta Constitución que ejerzan recursos del presupuesto de egresos del Estado.
+LXXV. Designar por el voto de las dos terceras partes de sus miembros a los Titulares de Órganos de Control Interno de los Órganos Autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -5606,3 +5606,11 @@ P.O. 30 DE MAYO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 1542.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LXXV DEL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
