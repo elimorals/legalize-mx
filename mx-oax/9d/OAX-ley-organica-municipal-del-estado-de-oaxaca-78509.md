@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-02-29"
+last_updated: "2020-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -500,6 +500,10 @@ XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los progr
 Los programas de obras públicas a que hace referencia la presente ley, tratándose de instalaciones públicas e infraestructura urbana deberán asegurar la accesibilidad, evacuación, y libre tránsito, para todas las personas con discapacidad, para ello deberán cumplir con las normas de diseño y de señalización que contengan, asimismo, se deberá de proponer las adecuaciones tanto a las instalaciones públicas como infraestructura urbana existente, a efecto de que cubran las necesidades de las personas con discapacidad.
 
 XVI.- Administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano y los mecanismos que se requieran para la adecuada conducción del mismo, la creación de zonas territoriales, de reserva ecológica y los de alta productividad agrícola, previo dictamen de la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2020)</small>
+
+XVI Bis.- Aprobar la denominación o modificación, de las vías públicas y asentamientos humanos ya existentes o de nueva creación; establecer o modificar la nomenclatura de las vías públicas, parques, jardines, plazas, y asentamientos humanos, así como el alineamiento y número oficial de avenidas, calles y predios, conforme al reglamento respectivo. El ayuntamiento dará aviso por conducto de la Secretaría, al Servicio Postal Mexicano, al Instituto Nacional Electoral, al Instituto Nacional de Geografía y Estadística, al Instituto de la Función Registral del Estado, y a los demás organismos públicos correspondientes, a fin de que se hagan las modificaciones necesarias en los registros correspondientes.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -981,17 +985,21 @@ XXI.- De Derechos Humanos;
 
 XXII.- Del Pueblo y Comunidades Afromexicanas;
 
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2020)</small>
+
+XXIII.- De Atención al Migrante y Asuntos Internacionales;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2020)</small>
+
+XXIVV (SIC).- De Desarrollo Cultural y Artesanal;
+
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXIII.- De Desarrollo Cultural y Artesanal;
+XXV.- De Protección Civil, y
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXIV.- De Protección Civil, y
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-XXV.- Las demás que apruebe el Ayuntamiento.
+XXVI.- Las demás que apruebe el Ayuntamiento.
 
 La Comisión de Hacienda estará integrada por el Presidente, el Síndico o los Síndicos y el Regidor de Hacienda; será presidida por el Presidente Municipal. Las demás comisiones estarán presididas por el regidor de la materia.
 
@@ -3706,3 +3714,19 @@ P.O. 29 DE FEBRERO DE 2020.
 Primero: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 Segundo: El presente Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 1546.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XXIII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 1548.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
