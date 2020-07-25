@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2019-08-24"
+last_updated: "2020-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -2947,15 +2947,19 @@ Proyectista es la persona física que cuenta con título y cédula profesional, 
 
 #### Sección II. Director Responsable de Obra
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 200.
 
-Director Responsable de Obra es la persona física que cuenta con título y cédula profesional en las carreras de Arquitecto, Ingeniero Civil o Ingeniero-Arquitecto con autorización y registro otorgado por la Secretaría, que adquiere derechos y obligaciones en el acto en que otorga su responsiva relativa al ámbito de su intervención profesional, en la ejecución de obras públicas y/o privadas.
+Director Responsable de Obra es la persona física que cuenta con título y cédula profesional en las carreras de Arquitecto, Ingeniero Civil o Ingeniero-Arquitecto con autorización y registro otorgado por la Secretaría, que adquiere derechos y obligaciones en el acto en que otorga su responsiva relativa al ámbito de su intervención profesional, en la ejecución de obras públicas y/o privadas. Las autorizaciones y el registro, clasificación, revalidación o refrendo y reclasificación de los Directores Responsables de Obra en el Estado no deben ser sujetos a cuotas económicas o de pagos indebidos por su obtención.
 
 Podrán obtener el registro de Director Responsable de Obra, además de los profesionistas citados, los egresados de carreras equivalentes con las anteriores, que cuenten con título, cédula profesional y el Dictamen de Equivalencia expedido por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 201.
 
-Los requisitos para obtener el registro o admisión de Director Responsable de Obra en el Estado, su evaluación, clasificación, revalidación o refrendo, reclasificación, derechos y obligaciones, así como el procedimiento del control de actuación se establecerán en el reglamento respectivo y demás disposiciones aplicables.
+Los requisitos para obtener el registro o admisión de Director Responsable de Obra en el Estado, su evaluación, clasificación, revalidación o refrendo, reclasificación, derechos y obligaciones, así como el procedimiento del control de actuación estará sometida prioritariamente a la acreditación de la Cédula Profesional para el libre ejercicio de la profesión en la construcción.
 
 #### Sección III. Corresponsable de Obra
 
@@ -2973,13 +2977,17 @@ Para el caso de los profesionistas provenientes de otras entidades federativas y
 
 #### Sección V. Comisión de Admisión de Directores Responsables de Obra en el Estado de Oaxaca
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 204.
 
-La Comisión de Admisión de Directores Responsables de Obra en el Estado de Oaxaca, es el órgano de consulta y de apoyo de la Secretaría, que tiene por objeto verificar y evaluar que los profesionistas aspirantes a obtener el registro de Director Responsable de Obra, clasificación, revalidación o refrendo, y reclasificación cumplan con los requisitos establecidos en la presente Ley y su reglamento, así como emitir opinión sobre su actuación cuando le sea solicitado por la autoridad competente.
+La Comisión de Admisión de Directores Responsables de Obra en el Estado de Oaxaca, es el órgano de consulta y de apoyo de la Secretaría, que tiene por objeto verificar y evaluar que los profesionistas aspirantes a obtener el registro de Director Responsable de Obra, clasificación, revalidación o refrendo, y reclasificación cumplan con los requisitos establecidos en la presente Ley y su reglamento, así como emitir opinión sobre su actuación cuando le sea solicitado por la autoridad competente. Las autorizaciones, evaluaciones y el registro, clasificación, revalidación o refrendo y reclasificación de los Directores Responsables de Obra en el Estado no deben ser sujetos de cuotas económicas o de pagos indebidos por su obtención.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 205.
 
-La estructura interna de la Comisión de Admisión de Directores Responsables de Obra en el Estado de Oaxaca, sus atribuciones, obligaciones, funciones y remoción de sus miembros, así como los procedimientos de tramitación, registro, clasificación, revalidación o refrendo, reclasificación y de opinión de actuación a que se refiere el artículo anterior, se establecerán en el reglamento correspondiente y en el Manual de Funcionamiento de la Comisión de Admisión de Directores Responsables de Obra.
+La estructura interna de la Comisión de Admisión de Directores Responsables de Obra en el Estado de Oaxaca, sus atribuciones, obligaciones, funciones y remoción de sus miembros, así como los procedimientos de tramitación, registro, clasificación, revalidación o refrendo, reclasificación y de opinión de actuación a que se refiere el artículo anterior, estará sometida prioritariamente a la acreditación de la Cédula Profesional para el libre ejecicio (sic) de la profesión en la construcción, se establecerán en el reglamento correspondiente y en el Manuel (sic) de Funcionamiento de la Comisión de Admisión de Directores Responsables de Obra.
 
 ## TÍTULO SÉPTIMO.. INSTRUMENTOS DE CONTROL
 
@@ -3330,3 +3338,11 @@ P.O. 24 DE AGOSTO DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 1567.- MEDIANTE EL CUAL REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 200, EL ARTÍCULO 201, EL ARTÍCULO 204 Y EL ARTÍCULO 205 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, dispondrá de 180 días para realizar las adecuaciones al Reglamento correspondiente y al Manual de Funcionamiento de la Comisión de Admisión de Directores Responsables de Obra, de conformidad al artículo 205 de la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca.
