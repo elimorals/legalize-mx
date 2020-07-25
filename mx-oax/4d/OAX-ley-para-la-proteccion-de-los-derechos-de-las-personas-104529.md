@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2020-03-21"
+last_updated: "2020-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -349,7 +349,11 @@ Las instituciones sociales y privadas cuyo objeto preponderante sea la atención
 
 I. Fomentar una cultura de trato digno a las personas adultas mayores, favorecer su revaloración y plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre generaciones, con el fin de evitar toda forma de discriminación, descuido, abandono o indiferencia por motivo de su edad, estado físico o mental;
 
-II. Implementar procedimientos alternativos y los ajustes razonables en la infraestructura de sus sedes, cuando su función sea la realización de trámites, prestación de servicios o ejecución de programas sociales;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2020)</small>
+
+II. Implementar procedimientos ágiles para reducir el tiempo de espera, que podrán ser ventanillas o filas especiales y los ajustes razonables en la infraestructura de sus sedes, para que éstas sean fácilmente identificables.
+
+Contar con espacios que garanticen su descanso como: sillas, bancas, sillones, cuando su función sea la realización de trámites, prestación de servicios o ejecución de programas sociales;
 
 III. Procurar la salud física y psicológica de las personas adultas mayores a su cuidado, así como su plena integración social;
 
@@ -675,9 +679,19 @@ VI. Obtener, en caso de ser posible, los nombres, domicilios, teléfonos y traba
 
 Las instituciones públicas, privadas y sociales que preste (sic) servicios de asistencia a las personas adultas mayores, deberán contar con personal especializado y capacitado, para tal efecto.
 
-### CAPÍTULO II. DE LAS DENUNCIAS, PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE JULIO DE 2020)</small>
 
-### CAPÍTULO III. DE LAS RESPONSABILIDADES Y SANCIONES
+### CAPÍTULO I BIS. DE LOS CONOCIMIENTOS Y ENSEÑANZAS TRANSMITIDOS POR LAS PERSONAS ADULTAS MAYORES
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2020)</small>
+
+###### Artículo 29 Bis.
+
+En las comunidades y/o municipios se destinarán espacios adecuados para que las personas adultas mayores transmitan sus conocimientos, enseñanzas, experiencias, habilidades y cosmovisión a las generaciones más jóvenes, así como para la enseñanza y transmisión de su lengua materna en el caso de comunidades indígenas.
+
+Cuando la comunidad o municipio cuente con una Casa de la Cultura, destinarán dentro de la misma un espacio específico para que las personas adultas mayores transmitan los conocimientos y enseñanzas señalados en el párrafo anterior, y en el caso donde no haya Casa de la Cultura, se podrá constituir un espacio adecuado en el que las personas adultas mayores transmitan sus conocimientos y enseñanzas, garantizando con ello su participación e inclusión.
+
+### CAPÍTULO II. DE LAS DENUNCIAS, PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE
 
 ###### Artículo 30.
 
@@ -704,6 +718,8 @@ Si la denuncia presentada fuera competencia de autoridad distinta de aquella ant
 ###### Artículo 34.
 
 Los conflictos surgidos entre las personas adultas mayores y sus familiares podrán resolverse mediante las instancias de mediación y conciliación competentes.
+
+### CAPÍTULO III. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 35.
 
@@ -810,3 +826,11 @@ P.O. 21 DE MARZO DE 2020.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) al presente Decreto
+
+P.O. 25 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM.- 1564.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 12; SE ADICIONA EL CAPÍTULO I BIS DENOMINADO "DE LOS CONOCIMIENTOS Y ENSEÑANZAS TRASMITIDOS POR LAS PERSONAS ADULTAS MAYORES" QUE CONTIENE EL ARTÍCULO 29 BIS, AL TÍTULO TERCERO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
