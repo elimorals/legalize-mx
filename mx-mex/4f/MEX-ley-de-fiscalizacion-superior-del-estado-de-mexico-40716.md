@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2020-07-23"
+last_updated: "2020-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2020.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 26 de agosto de 2004.
 
@@ -79,9 +79,9 @@ IX. Gestión Financiera: A la actividad de las Entidades Fiscalizables respecto 
 
 X. Fiscalización: A la revisión que realiza el órgano Superior, conforme a esta Ley y las disposiciones constitucionales y legales aplicables.
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
 
-XI. Informe Mensual: Al documento que mensualmente envían para su análisis al Órgano Superior de Fiscalización de la Legislatura, las Tesorerías Municipales y la Secretaría de Finanzas;
+XI. Informe Trimestral: Al documento físico y/o electrónico que trimestralmente presentan las entidades fiscalizables sobre la situación económica, las finanzas públicas, y en su caso deuda pública para su análisis al Órgano Superior, a través de las tesorerías municipales y la Secretaría de Finanzas y, en su caso, las áreas competentes;
 
 XII. Informe de Resultados: Al documento que contiene el resultado de la fiscalización de las cuentas públicas, que el Organo Superior, por conducto de la Comisión, presenta a la Legislatura;
 
@@ -116,6 +116,22 @@ XIX. Recomendaciones de desempeño: A las sugerencias de acciones de mejora para
 > <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
 XX. Unidad: Unidad Técnica de Evaluación y Control.
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2020)</small>
+
+XXI. Medios Electrónicos: A la tecnología que permita transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, microondas o de cualquier otra naturaleza;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2020)</small>
+
+XXII. Documento electrónico: Al soporte escrito con caracteres alfanuméricos, archivo de imagen, video, audio o cualquier otro formato tecnológicamente disponible, que contenga información en lenguaje natural o convencional, intercambiado por medios electrónicos, con el que sea posible dar constancia de un hecho y que esté signado con la firma electrónica avanzada y/o en el que se encuentre plasmado el sello electrónico;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2020)</small>
+
+XXIII. Expediente digital: Al conjunto de documentos electrónicos que, sujetos a los requisitos de esta ley, se utilicen en la gestión electrónica de trámites, servicios, procesos y procedimientos administrativos y jurisdiccionales;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2020)</small>
+
+XXIV. Plataforma Digital: Solución de comunicación personalizada en línea que posibilita la estrategia digital del Órgano Superior, mediante la ejecución de diversas actividades en un mismo lugar a través de internet. Para su uso es asignado un usuario y contraseña encriptada, información que es intransferible ya que forma parte de la cadena de seguridad que se registra en cada movimiento realizado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE ENERO DE 2007)</small>
 
@@ -171,11 +187,11 @@ Para efectos del párrafo anterior, el Órgano Superior podrá solicitar la info
 
 El Órgano Superior en el ejercicio de sus atribuciones, desarrollará la función de fiscalización conforme a los principios de legalidad, definitividad, imparcialidad, confiabilidad y de máxima publicidad. Asimismo, deberá fiscalizar las acciones de las entidades fiscalizables en materia de fondos, recursos públicos y deuda pública de conformidad con las leyes aplicables.
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 7.
 
-A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, el Código Financiero del Estado de México y Municipios, el Código Administrativo del Estado de México, el Código de Procedimientos Administrativos del Estado de México, la Ley de Planeación del Estado de México y Municipios, las demás disposiciones relativas a los sistemas nacional y estatal anticorrupción y los principios generales de derecho.
+A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, el Código Financiero del Estado de México y Municipios, el Código Administrativo del Estado de México, el Código de Procedimientos Administrativos del Estado de México, la Ley de Planeación del Estado de México y Municipios, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Coordinación Fiscal, así como las demás disposiciones relativas a los sistemas Nacional y Estatal Anticorrupción.
 
 ## TITULO SEGUNDO. DEL ORGANO SUPERIOR DE FISCALIZACION
 
@@ -219,9 +235,17 @@ IX. Revisar que los subsidios otorgados por las entidades fiscalizables, con car
 
 X. Realizar, de acuerdo con el programa anual de auditorías aprobado, las auditorías y revisiones, conforme a las normas profesionales homologadas emitidas por el Sistema Nacional de Fiscalización, el Sistema Estatal de Fiscalización y otras normas de auditoría, procedimientos de auditoría, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, que le permitan la práctica idónea de las auditorias y revisiones, que respondan a los estándares internacionales, con apego a las disposiciones legales, reglamentarias y administrativas aplicables.
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 2020)</small>
 
-XI. Establecer los lineamientos, criterios, procedimientos, métodos y sistemas para las acciones de control y evaluación, necesarios para la fiscalización de las cuentas públicas y los informes mensuales.
+El Órgano Superior podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que en su caso realice, deberán referirse a la información definitiva presentada en las cuentas públicas estatal y municipales. Una vez que le sean entregadas, podrá realizar las modificaciones al programa anual de las auditorías que se requieran y lo hará de conocimiento a la Comisión.
+
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 2020)</small>
+
+Los procesos de fiscalización a que hace referencia esta Ley se podrán realizar de manera presencial o por expedientes digitales a través de una plataforma digital; para tal efecto, el Órgano Superior emitirá los lineamientos correspondientes.
+
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
+
+XI. Establecer los lineamientos, criterios, procedimientos, métodos y sistemas, así como todas aquellas disposiciones de carácter general para las acciones de control y evaluación, necesarios para la fiscalización de las cuentas públicas y los informes trimestrales;
 
 > <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -231,13 +255,13 @@ XII. Fiscalizar las obras públicas y servicios relacionados con las mismas que,
 
 XIII. Fiscalizar la adquisición, enajenación y arrendamiento de bienes, así como la contratación de servicios de cualquier naturaleza, que realicen las entidades fiscalizables de conformidad con la ley de la materia.
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
 
-XIV. Verificar que las cuentas públicas, los informes mensuales y la información financiera, se hayan presentado de conformidad con lo dispuesto en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
+XIV. Verificar que las cuentas públicas, los informes trimestrales y la información económica, financiera y, en su caso, la deuda pública, se hayan presentado de conformidad con lo dispuesto en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones aplicables;
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
 
-XV. Rendir los informes a la Comisión sobre el resultado de la revisión de los informes mensuales sobre los ingresos obtenidos y aplicación de recursos de las entidades fiscalizables, así como de las revisiones a las que se refieren las fracciones I y II del presente artículo.
+XV. Rendir los informes a la Comisión sobre el resultado de la revisión de los informes trimestrales sobre los ingresos obtenidos y aplicación de recursos de las entidades fiscalizables, así como de las revisiones a las que se refieren las fracciones I y II del presente artículo;
 
 XVI. Requerir, según corresponda, a los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los demás órganos de control interno de las entidades fiscalizables, en términos de las disposiciones legales aplicables, los dictámenes de acciones de control y evaluación por ellos practicadas, relacionados con las cuentas públicas que el Organo Superior esté fiscalizando, así como las observaciones y recomendaciones formuladas, las sanciones impuestas y los seguimientos practicados;
 
@@ -245,9 +269,11 @@ XVII. Requerir, según corresponda, por conducto de los titulares de la Secretar
 
 XVIII. Requerir, en su caso, a los terceros que hubieren contratado obras, bienes o servicios, mediante cualquier título legal, con las entidades fiscalizables, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas, con la única finalidad de realizar la compulsa correspondiente;
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 27 DE JULIO DE 2020)</small>
 
-XIX. Requerir a las entidades fiscalizables la información y documentos necesarios para los actos de fiscalización, así como solicitar a otras autoridades el auxilio o colaboración para el cumplimiento de sus atribuciones.
+XIX. Requerir a las entidades fiscalizables la información, documentos físicos y/o electrónicos necesarios para los actos de fiscalización, así como solicitar a otras autoridades el auxilio o colaboración para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
 De no proporcionar la información, los responsables serán sancionados en los términos de la legislación aplicable.
 
@@ -419,7 +445,9 @@ XI. Expedir el Reglamento Interior del Órgano Superior;
 
 XII. Expedir los manuales de organización y de procedimientos que se requieran;
 
-XIII. Elaborar el plan operativo anual del Organo Superior y hacerlo del conocimiento de la Comisión;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
+
+XIII. Elaborar el Plan Anual de Metas del Órgano Superior, y hacerlo del conocimiento de la Comisión;
 
 XIV. Presentar a la Comisión el anteproyecto de presupuesto anual del Organo Superior, conforme a las previsiones de gasto y recursos necesarios para el cumplimiento de las atribuciones de éste, a fin de que se integre a la iniciativa de presupuesto de egresos en los términos de la legislación aplicable;
 
@@ -637,11 +665,11 @@ XVII. Las demás que señale esta Ley, el Reglamento y demás disposiciones jur�
 
 El Auditor Superior y los Auditores Especiales sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación del Órgano Superior o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 25.
 
-Los Auditores Especiales tendrán las atribuciones de la autoridad investigadora, previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+El Órgano Superior, contará con una autoridad investigadora, con las funciones y atribuciones previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ###### Artículo 26.
 
@@ -839,23 +867,23 @@ VII. Las demás que le atribuyan esta ley y las disposiciones legales y reglamen
 
 Para el correcto ejercicio de sus funciones de la Unidad, dispondrá de los servidores públicos, unidades administrativas y áreas suficientes, en función del reglamento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA] SU DENOMINACIÓN, G.G. 27 DE JULIO DE 2020)</small>
 
 ## TITULO CUARTO. DE LAS CUENTAS PUBLICAS, SU REVISION, FISCALIZACION Y CALIFICACION
 
 ### CAPITULO PRIMERO. DE LAS CUENTAS PUBLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 32.
 
+Las cuentas públicas estatal y municipal, deberán presentarse conforme a lo establecido en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones aplicables; así mismo, las entidades fiscalizables deberán presentar los informes trimestrales dentro de los veinte días hábiles posteriores al término del trimestre correspondiente.
+
 El Gobernador del Estado, por conducto del titular de la dependencia competente, presentará a la Legislatura la cuenta pública del Gobierno del Estado del ejercicio fiscal inmediato anterior, a más tardar el treinta de abril de cada año.
 
-Los Presidentes Municipales presentarán a la Legislatura las cuentas públicas anuales de sus respectivos municipios, del ejercicio fiscal inmediato anterior, dentro de los quince primeros días del mes de marzo de cada año; asimismo, los informes mensuales los deberán presentar dentro de los veinte días posteriores al término del mes correspondiente.
+Los presidentes municipales presentarán a la Legislatura las cuentas públicas de sus respectivos municipios, del ejercicio fiscal inmediato anterior, dentro de los quince primeros días del mes de marzo de cada año.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
-
-Las cuentas públicas deberán presentarse conforme a lo establecido en la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera delas (sic) Entidades Federativas y los Municipios y demás disposiciones aplicables.
+Si el día del vencimiento de los plazos señalados, corresponde a un día inhábil, se podrá presentar al día hábil inmediato siguiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -925,11 +953,11 @@ XIV. Si los resultados de desempeño de todos los programas presupuestarios obtu
 
 Las cuentas públicas serán remitidas a la Legislatura, su Presidente deberá hacerlas del conocimiento de sus integrantes y de la Comisión, quien la remitirá al Órgano Superior para su revisión y fiscalización superior en la forma y plazos establecidos por la Ley.
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 37.
 
-Respecto de los informes mensuales el Órgano Superior podrá emitir los resultados de la fiscalización de acuerdo con lo que se señale en el Reglamento.
+Respecto de los informes trimestrales el Órgano Superior, podrá emitir los resultados de la fiscalización de acuerdo con lo que se señale en el Reglamento.
 
 ###### Artículo 38.
 
@@ -1013,15 +1041,17 @@ Los Presidentes Municipales y los Síndicos estarán obligados a informar al Ór
 
 La cuenta pública de los municipios, deberá firmarse por el Presidente Municipal, él o los Síndicos según corresponda; el Tesorero y el Secretario del Ayuntamiento.
 
-Los informes mensuales deberán firmarse por el Presidente Municipal, el Tesorero y el Secretario del Ayuntamiento.
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
+
+Los informes trimestrales deberán firmarse por el presidente municipal, el tesorero y el secretario del ayuntamiento.
 
 Quienes firmen la cuenta pública o el informe de que se trate y no estén de acuerdo con su contenido, tendrán derecho a asentar las observaciones que tengan respecto del documento en cuestión en el cuerpo del mismo, debiendo fundar y motivar cada una de ellas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 49.
 
-Los informes mensuales o la cuenta pública municipal, según corresponda, así como la documentación comprobatoria y justificativa que los ampare, quedarán a disposición de los sujetos obligados a firmarlos, para que puedan revisarlos y en su caso, anotar sus observaciones; así mismo, y en relación a los informes mensuales que no firman él o los Síndicos del Ayuntamiento, también recibirán dicha documentación.
+Los informes trimestrales o la cuenta pública municipal, según corresponda, así como la documentación comprobatoria y justificativa que los ampare, quedarán a disposición de los sujetos obligados a firmarlos, para que puedan revisarlos y en su caso, anotar sus observaciones. Dichos informes serán revisados por los síndicos sin que se requiera su firma para la remisión.
 
 Los tesoreros municipales deberán notificar por escrito esta situación a los sujetos obligados a firmar dichos documentos y apercibirlos de que en caso de que no acudan a hacerlo, se tendrá por aceptada la documentación de que se trate en los términos señalados en el informe o cuenta pública respectiva.
 
@@ -1029,15 +1059,15 @@ Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipa
 
 ### CAPITULO CUARTO. DEL INFORME DE RESULTADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 50.
 
-El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para presentar el Informe de Resultados ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, mismo que tendrá el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a la entrega que haga el Órgano Superior a la Comisión de Vigilancia; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
+El Órgano Superior tendrá un plazo improrrogable que vence el 30 de enero del año siguiente en que se entreguen las cuentas públicas, para presentar el Informe de Resultados ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, mismo que tendrá el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a su entrega; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
 
-> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
-La revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, y el estudio del contenido de la cuenta pública, servirán como principal instrumento para que la Comisión de Vigilancia del Órgano Superior de Fiscalización elabore el dictamen de las cuentas públicas, el cual deberá presentarse ante el Pleno de la Legislatura para su votación y emisión del decreto que tenga por fiscalizadas las cuentas públicas del Estado y Municipios a más tardar el 05 de diciembre del año en que se presente dicho informe.
+La revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, y el estudio del contenido de la cuenta pública, servirán como principal instrumento para que la Comisión de Vigilancia del Órgano Superior de Fiscalización elabore el dictamen de las cuentas públicas, el cual deberá presentarse ante el Pleno de la Legislatura para su votación y emisión del decreto que tenga por fiscalizadas y calificadas las cuentas públicas del Estado y municipios a más tardar el 10 de marzo del año en que se presente dicho informe.
 
 > <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
@@ -1093,51 +1123,67 @@ El informe de resultados deberá elaborarse considerando los principios de conta
 
 El Órgano Superior en el informe de resultados, dará cuenta por medio de la Comisión, a la Legislatura de los pliegos de las observaciones que hubiere formulado, así como de los procedimientos que las autoridades competentes hubieren iniciado para el fincamiento de responsabilidades y la imposición de sanciones.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 2020)</small>
 
-### CAPITULO PRIMERO. DE LA ETAPA DE ACLARACION
+### CAPITULO QUINTO. DE LAS ACCIONES Y RECOMENDACIONES DERIVADAS DE LA FISCALIZACION
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 53.
 
-Si del ejercicio de las atribuciones de fiscalización del Órgano Superior, se observa o determina alguna irregularidad que implique daño a la hacienda pública estatal o municipal o al patrimonio de las entidades fiscalizables, se deberá iniciar una etapa de aclaración, previo a la calificación de las faltas administrativas y emisión del informe de presunta responsabilidad administrativa, que refiere la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+Si del ejercicio de las atribuciones de fiscalización del Órgano Superior, se observa alguna probable irregularidad, daño y/o perjuicio a la hacienda pública estatal o municipal, o al patrimonio de las entidades fiscalizadas, procederá lo siguiente:
 
-La etapa de aclaración tiene como finalidad dar oportunidad a los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo, para solventar y aclarar el contenido de las observaciones o la determinación del daño y, en su caso, cubrir el monto a que ascienda y quede resarcido.
+I. Acciones y previsiones, incluidas solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la Fiscalía General de Justicia del Estado de México y denuncias de juicio político; atendiendo a los principios del debido proceso, así como a la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México; y
+
+II. Recomendaciones.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 54.
 
+La etapa de aclaración tiene como finalidad que la entidad fiscalizada, solvente o aclare el contenido de las observaciones.
+
 La etapa de aclaración se desarrollará de la siguiente manera:
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+I. El Órgano Superior, formulará y entregará el contenido de las observaciones, del posible daño y/o perjuicio a la hacienda pública estatal o municipal, o al patrimonio de las entidades fiscalizadas dentro de los informes de auditoría; para que, dentro del plazo de treinta días hábiles, aclare, solvente o manifieste lo que a su derecho convenga;
 
-I. El Auditor Superior o el Auditor Especial correspondiente, notificará el contenido de las observaciones o la determinación del daño y concederá a los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo un plazo de treinta días hábiles, para que las solvente o repare y manifieste lo que a su interés convenga.
+II. A través de las solicitudes de aclaración, el Órgano Superior, requerirá a la entidad fiscalizada para que presente, dentro del plazo a que se refiere la fracción anterior, la información adicional para atender las observaciones que se hayan realizado;
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+III. Si las observaciones que derivaron en una solicitud de aclaración han quedado solventadas, el daño y/o perjuicio reparado, el Órgano Superior, emitirá el dictamen de solventación, de lo contrario, formulará el pliego de observaciones, otorgando el plazo previsto en la fracción I de este artículo;
 
-II. Los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo, dentro del plazo concedido, presentarán los elementos que consideren necesarios para justificar o aclarar las observaciones efectuadas, para acreditar la reparación o inexistencia del daño. En caso de no hacerlo, se entenderá que aceptan en sus términos lo expuesto por el Órgano Superior y éste procederá conforme a lo previsto en esta Ley, la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+IV. El Órgano Superior, tratándose de los pliegos de observaciones, determinará en cantidad líquida los posibles daños o perjuicios, o ambos a la hacienda pública estatal o municipal, o en su caso al patrimonio de las entidades fiscalizadas;
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+V. Una vez agotado el procedimiento previo, investigado y substanciado, el Órgano Superior, promoverá el informe de presunta responsabilidad administrativa ante el Tribunal de Justicia Administrativa del Estado de México; la denuncia de hechos ante la Fiscalía General de Justicia del Estado de México, la denuncia de juicio político ante la Legislatura, o los informes de auditoría ante el órgano interno de control competente, en los términos del Título Quinto de esta Ley.
 
-III. Si las observaciones han quedado debidamente solventadas o el daño reparado, el Órgano Superior dictará el acuerdo de conclusión y archivo del expediente, mismos que notificará a los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo, así como a los denunciantes, en su caso, cuando proceda y éstos fueren identificables.
+> <small>(ADICIONADO, G.G. 27 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+###### Artículo 54 Bis.
 
-IV. Si las observaciones no fueron debidamente solventadas o el daño reparado, las Auditorías Especiales, como autoridades investigadoras, calificarán las faltas administrativas y emitirán el informe de presunta responsabilidad administrativa, para que se presente ante la Unidad de Asuntos Jurídicos como autoridad substanciadora, a efecto de iniciar el procedimiento de responsabilidad administrativa, en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+Con relación a las recomendaciones, el proceso de su atención se desarrollará de la siguiente manera:
+
+I. El Órgano Superior en las reuniones de resultados preliminares y finales con las entidades fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes, las actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas y los mecanismos para su atención, lo anterior, sin perjuicio de que el Órgano Superior podrá emitir recomendaciones en los casos en que no logre acuerdos con las entidades fiscalizadas; y
+
+II. La información, documentación o consideraciones aportadas por las entidades fiscalizadas para atender las recomendaciones en los plazos convenidos, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar su improcedencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE MAYO DE 2017)</small>
 
 ## TITULO QUINTO. DE LAS RESPONSABILIDADES
 
-### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES
+(REUBICADO [N. DE E. ANTES CAPÍTULO SEGUNDO], G.G. 27 DE JULIO DE 2020)
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+### CAPITULO PRIMERO. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
 ###### Artículo 55.
 
-La promoción del procedimiento de responsabilidad administrativa ante el Tribunal de Justicia Administrativa del Estado de México, tiene por objeto resarcir el monto de los daños y perjuicios estimables en dinero que se hayan causado a la Hacienda Pública o, en su caso, al patrimonio de las entidades fiscalizables.
+A través del informe de presunta responsabilidad administrativa, una vez investigado y substanciado, el Órgano Superior promoverá ante el Tribunal de Justicia Administrativa del Estado de México, en los términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, investigaciones y/o denuncias, así como sanciones a los particulares, incluidos los de situación especial, vinculados con dichas faltas.
 
-Para los efectos de esta Ley incurren en responsabilidad resarcitoria los servidores públicos de la entidad fiscalizable o quienes hayan dejado de serlo o las personas físicas o jurídicas colectivas que reciban, administren o manejen recursos del erario y quienes no manejen recursos cuyos actos u omisiones causen daño y/o perjuicio a las haciendas públicas o al patrimonio de las demás entidades fiscalizables, los cuales serán fijados en cantidad líquida.
+Cuando el Órgano Superior detecte probables faltas administrativas y éstas no sean graves, por medio de las promociones de responsabilidad administrativa dará vista a la Secretaría de la Contraloría del Estado de México o a los órganos internos de control, remitiendo el expediente integrado, para que éstos continúen la investigación respectiva y, en su caso, inicie el proceso de responsabilidad administrativa correspondiente, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-Lo anterior, sin perjuicio de las demás faltas administrativas a que se refiere la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y las sanciones administrativas que, en su caso, el Tribunal de Justicia Administrativa del Estado de México o los órganos internos de control, impongan a los responsables.
+Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía General de Justicia del Estado de México, la posible comisión de hechos delictivos.
+
+A través de la denuncia de juicio político, hará del conocimiento de la Legislatura la presunción de actos u omisiones de los servidores públicos a que se refiere el artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, y el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
 > <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -1177,9 +1223,9 @@ IV. Apercibimiento que, en caso de no cumplir, se hará acreedor al procedimient
 
 (DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017) (REUBICADO [N. DE E. ANTES CAPÍTULO TERCERO], G.G. 27 DE JULIO DE 2020)
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO DE FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS
+### CAPITULO SEGUNDO. DEL PROCEDIMIENTO DE FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS
 
 ###### Artículo 61.
 
@@ -1205,7 +1251,9 @@ IV. Apercibimiento que, en caso de no cumplir, se hará acreedor al procedimient
 
 (DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-### CAPITULO CUARTO. DEL MEDIO DE IMPUGNACION
+(REUBICADO [N. DE E. ANTES CAPÍTULO CUARTO], G.G. 27 DE JULIO DE 2020)
+
+### CAPITULO TERCERO. DEL MEDIO DE IMPUGNACION
 
 > <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -1261,7 +1309,9 @@ Las resoluciones que se dicten en materia del recurso de revisión no admitirán
 
 (DEROGADO, G.G. 21 DE DICIEMBRE DE 2016)
 
-### CAPITULO QUINTO. DE LA PRESCRIPCION
+(REUBICADO [N. DE E. ANTES CAPÍTULO QUINTO], G.G. 27 DE JULIO DE 2020)
+
+### CAPITULO CUARTO. DE LA PRESCRIPCION
 
 > <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -1730,3 +1780,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 27 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 169.- POR EL QUE SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 2, EL ARTÍCULO 7, LAS FRACCIONES XI, XIV, XV Y EL PRIMER PÁRRAFO DE LA FRACCIÓN XIX DEL ARTÍCULO 8, LA FRACCIÓN XIII DEL ARTÍCULO 13, LOS ARTÍCULOS 25, 32, 37, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 48, EL PRIMER PÁRRAFO DEL ARTÍCULO 49, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 50, LOS ARTÍCULOS 53, 54 Y 55, LA DENOMINACIÓN DEL TÍTULO CUARTO, DE LAS CUENTAS PÚBLICAS, SU REVISIÓN, FISCALIZACIÓN Y CALIFICACIÓN; SE ADICIONAN LAS FRACCIONES XXI, XXII, XXIII Y XXIV AL ARTÍCULO 2, LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN X DEL ARTÍCULO 8, LAS FRACCIONES I Y II AL ARTÍCULO 53, EL ARTÍCULO 54 BIS, EL CAPÍTULO QUINTO NOMBRADO DE LAS ACCIONES Y RECOMENDACIONES DERIVADAS DE LA FISCALIZACIÓN, REUBICÁNDOSE EN ESTE LOS ARTÍCULOS 53 Y 54, SE RECORRE LA NUMERACIÓN DE LOS CAPÍTULOS DEL TÍTULO QUINTO, QUEDANDO DE LA SIGUIENTE MANERA: CAPÍTULO PRIMERO “DE LAS RESPONSABILIDADES”, CAPÍTULO SEGUNDO “DEL PROCEDIMIENTO DE FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS”, CAPÍTULO TERCERO “DEL MEDIO DE IMPUGNACIÓN” Y CAPÍTULO CUARTO “DE LA PRESCRIPCIÓN”; TODOS DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, sin perjuicio de lo previsto de los transitorios siguientes.
+
+TERCERO. Las disposiciones del informe trimestral, a que se refieren los artículos 2 fracción XI, 8 fracciones XI y XIV, 32 párrafo primero, 37, 48 segundo párrafo y 49 primer párrafo, de este Decreto, entrarán en vigor el primero de enero del año dos mil veintiuno.
+
+CUARTO. Todas las referencias que se hagan al informe mensual, en cualquier ordenamiento legal, se entenderán hechas al Informe trimestral.
+
+QUINTO. Las acciones de fiscalización, investigaciones y los procedimientos administrativos iniciados por el Órgano Superior con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+SEXTO. El Reglamento Interior del Órgano Superior que se encuentre vigente a la entrada en vigor de este Decreto, se aplicará en aquello que no se oponga a éste, hasta que se expidan las modificaciones al Reglamento, mismas que deberán realizarse en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
