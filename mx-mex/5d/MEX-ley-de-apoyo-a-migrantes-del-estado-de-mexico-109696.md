@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-apoyo-a-migrantes-del-estado-de-mexico-109696"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-29"
-last_updated: "2015-06-29"
+last_updated: "2020-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE APOYO A MIGRANTES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2020.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 29 de junio de 2015.
 
@@ -99,7 +99,9 @@ III. Ser sujeto de un trato respetuoso, oportuno y con calidad.
 
 IV. El acceso a servicios y prestaciones de los programas de atención a migrantes.
 
-V. Aquellas que sean necesarias para la protección de los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria.
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
+
+V. Aquellas que sean necesarias para la protección de los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria, a través de las dependencias y organismos competentes, en función de sus atribuciones y de acuerdo con las disposiciones jurídicas aplicables.
 
 VI. Las demás que establezcan otros ordenamientos o disposiciones aplicables.
 
@@ -196,3 +198,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 168.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 8 DE LA LEY DE APOYO A MIGRANTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
