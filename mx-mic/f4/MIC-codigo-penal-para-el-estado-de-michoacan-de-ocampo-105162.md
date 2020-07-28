@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2020-05-14"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1948,6 +1948,28 @@ Violencia familiar
 Comete el delito de violencia familiar quien lleve a cabo conductas que agredan física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre unida por viínculo (sic) matrimonial, de parentesco, por consanguinidad, afinidad, civil, concubinato, relación de pareja o familiar de hecho o este sujeta a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para constituir concubinato, siempre que hagan vida en común, dentro o fuera del domicilio familiar. Se considerará violencia familiar la alienación parental demostrada, respecto de sus hijos o adoptados. Se impondrá de uno a cinco años de prisión, suspensión de los derechos que tenga respecto de la víctima por el término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él, así como tratamiento psicoterapéutico.
 
 El delito de violencia familiar se perseguirá por querella, salvo que la víctima sea una persona menor de edad o que no tenga capacidad para comprender el significado del hecho, casos en los cuales se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2020)</small>
+
+###### Artículo 178 Bis.
+
+Tratamiento al sujeto activo y atención a la víctima. El sujeto activo del delito de violencia familiar seraì (sic) remitido a tratamiento psicoterapéutico a traveìs (sic) de instituciones puìblicas (sic), cuyos servicios deberaìn (sic) ser integrales y especializados; dichas instituciones deberaìn (sic) informar perioìdicamente (sic) al juez sobre los avances del tratamiento. En todo momento el Juez podraì (sic) ordenar las medidas necesarias para el cumplimiento de estas disposiciones.
+
+El Estado preveraì (sic) lo necesario para que las viìctimas (sic) del delito accedan de manera gratuita a atención psicoterapéutica y a información para su protección y prevención.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2020)</small>
+
+###### Artículo 178 Ter.
+
+Agravantes.
+
+Las penas por el delito de violencia familiar aumentaraìn (sic) hasta en una mitad cuando:
+
+I. La víctima sea: menor de edad; adulto mayor de sesenta anÞos (sic); esteì (sic) embarazada o tenga hasta tres meses posteriores al parto;
+
+II. La víctima no tenga capacidad para comprender el significado del hecho o para resistirlo; o,
+
+III. El delito se cometa en el lugar y durante el periodo de tiempo que, previa resolución de autoridad competente, se decrete o se recomiende la limitación del tránsito de personas en espacios públicos.
 
 ### CAPÍTULO II. ALLANAMIENTO
 
@@ -4214,3 +4236,9 @@ P.O. 14 DE MAYO DE 2020.
 PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 337.- SE ADICIONAN LOS ARTIÌCULOS (SIC) 178 BIS Y 178 TER AL COÌDIGO (SIC) PENAL PARA EL ESTADO DE MICHOACAÌN (SIC) DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
