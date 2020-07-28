@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2020-06-16"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1307,6 +1307,10 @@ VIII. Contribuir a una mayor participación municipal en los programas de desarr
 
 IX. Contribuir al fortalecimiento y autonomía municipal;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2020)</small>
+
+IX Bis. Conocer, revisar y presentar opinión, previo a la aprobación que en su caso realice la Comisión Inspectora de la Auditoría Superior de Michoacán, respecto al proyecto que contenga los lineamientos relativos a las fianzas o cauciones que se fijen a los servidores públicos, establecidos en la Ley de la materia, presentado por el Auditor Superior;
+
 X. El conocimiento y dictamen de los asuntos encaminados a coadyuvar en la capacitación y actualización a los integrantes de los Ayuntamientos y su personal de apoyo, sobre las atribuciones que las leyes y reglamentos les señalen;
 
 XI. Los relacionados con la fijación y modificación de la división territorial de la Entidad;
@@ -1420,6 +1424,10 @@ X. Revisar, analizar y dictaminar la aplicación de los recursos de las entidade
 XI. Revisar, analizar y dictaminar las cuentas públicas con base en los Informes de Resultados de la revisión de la Cuenta Pública del Estado y de los Ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía;
 
 XII. Los asuntos señalados en la Ley de Fiscalización Superior de Michoacán;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2020)</small>
+
+XII Bis. Conocer, estudiar, analizar y proponer al Pleno el Acuerdo que contenga los lineamientos relativos a las fianzas o cauciones que se fijen a los servidores públicos;
 
 XIII. Emitir las medidas necesarias para que la Auditoría Superior de Michoacán cumpla con las funciones que le correspondan; y,
 
@@ -4154,3 +4162,13 @@ P.O. 16 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 333 POR EL QUE “SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 243 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 343.- SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 78; Y LA FRACCIÓN XII BIS AL ARTÍCULO 82, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 10, LA FRACCIÓN X DEL ARTÍCULO 16; EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y II DEL ARTÍCULO 88; EL ARTÍCULO 89 Y EL ARTÍCULO 90, TODOS DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Se deroga todo lo que se oponga al presente Decreto. La Auditoría Superior de Michoacán, en un plazo no mayor a treinta días naturales a la publicación del presente Decreto, hará la devolución respectiva de las fianzas o cauciones, en la forma como se hayan presentado, de todos aquellos servidores públicos que acataron lo establecido en su momento en los "LINEAMIENTOS PARA LA TRAMITACIÓN, CONTRATACIÓN, RECEPCIÓN, REGISTRO, OPERACIÓN, APLICACIÓN Y DETERMINACIÓN DE MONTOS DE LAS FIANZAS QUE DEBEN OTORGAR LOS SERVIDORES PÚBLICOS MUNICIPALES Y ESTATALES DEL ESTADO DE MICHOACÁN DE OCAMPO", Publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 13 de mayo de 2020, Séptima Sección.
+
+TERCERO. Las Comisión Inspectora de la Auditoría Superior de Michoacán, en un plazo no mayor a diez días hábiles, posteriores a la publicación del presente Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, solicitará al Auditor Superior, un nuevo proyecto de lineamientos sobre las fianzas o cauciones conforme al presente Decreto, mismo que en caso de ser aprobado será aplicable exclusivamente para los servidores públicos que no hayan exhibido fianza o caución conforme a la normatividad vigente al momento de asumir su encargo.
