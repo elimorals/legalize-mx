@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2020-05-29"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "VER"
 ---
 # LEY NUMERO 9 ORGANICA DEL MUNICIPIO LIBRE, VERACRUZ
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y SE REFORMAN LOS ARTÍCULOS 22 Y 171, AMBOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, PUBLICADO EN LA GACETA OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIOCHO DE JULIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/].
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JULIO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -285,15 +287,19 @@ VI. Hasta quince, para los municipios cuya población exceda de 400 000 habitant
 
 El Congreso del Estado podrá modificar, por el voto de las dos terceras partes de sus integrantes, el número de Ediles con base en el Censo de Población y Vivienda de los Estados Unidos Mexicanos y antes de la elección que corresponda, escuchando la opinión de los Ayuntamientos respectivos, a fin de actualizar su número para efectos de lo dispuesto en las fracciones anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2013)</small>
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 22.
 
-Los Ediles serán elegidos de conformidad con lo dispuesto por la Constitución Política local, esta Ley y el Código Electoral del Estado, durarán en su cargo cuatro años y deberán tomar posesión el día uno de enero inmediato a la elección. Si alguno no se presentare o dejare de desempeñar su cargo sin causa justificada, será sustituido por el suplente o se procederá según lo disponga la Ley.
+Las y los Ediles serán elegidos de conformidad con lo dispuesto por la Constitución Política local, esta Ley y el Código Electoral del Estado, durarán en su cargo tres años y deberán tomar posesión el día uno de enero inmediato a la elección. Si alguno no se presentare o dejare de desempeñar su cargo sin causa justificada, será sustituido por el suplente o se procederá según lo disponga la Ley.
 
-El desempeño de los cargos de Presidente Municipal, Síndico y Regidor, será obligatorio y su remuneración se fijará en el presupuesto de egresos del Municipio, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público.
+Las y los ediles podrán ser elegidos hasta por un segundo período consecutivo de tres años. Para su postulación y elección deberán cumplir con los principios y reglas previstos por el Código Electoral del Estado.
 
-Los Ediles sólo podrán separarse de su cargo por renuncia o por las causas graves que señalen la Constitución Local, esta ley y demás leyes del Estado, en ambos casos, calificadas por el Congreso del Estado o la Diputación Permanente.
+El desempeño de los cargos de Presidenta o Presidente Municipal, Síndica o Síndico, así como Regidora o Regidor, será obligatorio y su remuneración se fijará en el presupuesto de egresos del Municipio, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público.
+
+Las y los Ediles sólo podrán separarse de su cargo por renuncia o por las causas graves que señalen la Constitución Local, esta ley y demás leyes del Estado, en ambos casos, calificadas por el Congreso del Estado o la Diputación Permanente.
 
 ###### Artículo 23.
 
@@ -3169,11 +3175,13 @@ El Congreso del Estado, podrá suspender o remover a los miembros del Concejo Mu
 
 ### CAPÍTULO I
 
-> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2013)</small>
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 171.
 
-Los Ayuntamientos serán responsables en la preparación, desarrollo y vigilancia de la aplicación de los procedimientos de elección de los Agentes y Subagentes Municipales. La duración de los cargos de agentes y subagentes municipales será hasta de cuatro años y no podrá extenderse más allá del treinta de abril del año de la elección de quienes deban sucederlos.
+Los Ayuntamientos serán responsables en la preparación, desarrollo y vigilancia de la aplicación de los procedimientos de elección de las y los Agentes y Subagentes Municipales. La duración de los cargos de agentes y subagentes municipales será hasta de tres años y no podrá extenderse más allá del treinta de abril del año de la elección de quienes deban sucederlos.
 
 ###### Artículo 172.
 
@@ -4418,3 +4426,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. En un plazo no mayor a los sesenta días naturales, contado a partir de la entrada en vigor de este Decreto, los Ayuntamientos deberán realizar las adecuaciones a sus Reglamentos Municipales, conforme a lo previsto en la presente reforma.
 
 Tercero. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y SE REFORMAN LOS ARTÍCULOS 22 Y 171, AMBOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, PUBLICADO EN LA GACETA OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIOCHO DE JULIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+G.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 580 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y SE REFORMAN LOS ARTÍCULOS 22 Y 171, AMBOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Organismo Público Local Electoral del Estado de Veracruz, reintegrará a la Secretaria de Finanzas y Planeación del Gobierno del Estado, a partir de la entrada en vigor de la presente disposición los recursos estatales del ejercicio presupuestal 2020 que conforme al nuevo método de cálculo para la asignación de financiamiento público y demás ajustes presupuestales, resulten legalmente no aplicables.
+
+CUARTO. El Organismo Público Local Electoral del Estado de Veracruz y el Tribunal Electoral de Veracruz, dentro de un plazo de noventa días naturales, en el ámbito de su competencia deberán adecuar y aprobar la normatividad correlativa al presente decreto. En el mismo plazo revisarán y, en su caso, observarán los ajustes necesarios a las estructuras orgánicas para cumplir con los principios de racionalidad y austeridad republicana.
+
+QUINTO. Las disposiciones correspondientes a la reelección de integrantes de los Ayuntamientos serán aplicables a los ediles que resulten electos a partir del proceso electoral del año 2021.
