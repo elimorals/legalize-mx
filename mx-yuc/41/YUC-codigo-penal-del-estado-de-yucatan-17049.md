@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2020-07-24"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JULIO DE 2020 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2020.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 28 DE JULIO DE 2020.]
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -5405,9 +5405,9 @@ Artículo Tercero. Adecuaciones reglamentarias
 
 El Poder Ejecutivo del Estado de Yucatán deberá realizar las adecuaciones correspondientes y expedir las disposiciones reglamentarias en un término no mayor a 90 días naturales a partir de la entrada en vigor de lo ordenado en el artículo transitorio que antecede.
 
-D.O. 24 DE JULIO DE 2020.
+D.O. 24 DE JULIO DE 2020 Y F. DE E., D.O. 28 DE JULIO DE 2020.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 267/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE INCREMENTACIÓN DE PENAS EN LOS DELITOS DE VIOLACIÓN Y VIOLACIÓN EQUIPARADA".]
+## [N. DE E. TRANSITORIO DEL "DECRETO 267/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE INCREMENTO DE PENAS EN LOS DELITOS DE VIOLACIÓN Y VIOLACIÓN EQUIPARADA".]
 
 Único. Entrada en vigor.
 
