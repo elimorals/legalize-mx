@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-fiscalia-general-de-justicia-de-la-139605"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-24"
-last_updated: "2019-12-24"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139605&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-12-23"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE JULIO DE 2020.
 
 Ley publicada en el Número 248 Bis de la Gaceta Oficial de la Ciudad de México, el martes 24 de diciembre de 2019.
 
@@ -616,7 +616,11 @@ XVIII. Adoptar instrumentos en materia de tecnología digital, con el fin de gar
 
 XIX. Proponer, formular y ejecutar los mecanismos en materia de tecnología, a fin de atender de manera efectiva la recepción de denuncias o querellas; y
 
-XX. Las demás que señale la normatividad aplicable.
+> <small>(ADICIONADA, G.O. 28 DE JULIO DE 2020)</small>
+
+XX. Asignar competencia y autorizar a las áreas de investigación de la Fiscalía, para conocer o llevar a cabo los registros y actos de investigación correspondientes en determinada carpeta de investigación, y
+
+XXI. Las demás que señale la normatividad aplicable.
 
 ###### Artículo 36.
 
@@ -764,6 +768,22 @@ g) No haber desempeñado un cargo de elección popular, o cargo de dirección de
 
 La persona Fiscal General será de reputación honorable, con conocimientos y experiencia en el ámbito jurídico y de procuración de justicia, capacidad de administración y dirección institucional, diseño y ejecución de políticas públicas, independiente en su actuación, con una visión de respeto y protección a los Derechos Humanos, a las víctimas y perspectiva de género.
 
+> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2020)</small>
+
+###### Artículo 39.
+
+BIS (SIC)
+
+La persona titular de la Fiscalía Especializada para la Atención de Delitos Electorales deberá cumplir los mismos requisitos que para ser Fiscal General.
+
+La persona titular de la Fiscalía Especializada en Combate a la Corrupción, deberá cumplir los requisitos señalados en la Ley Orgánica del Congreso de la Ciudad de México.
+
+La persona titular de la Fiscalía Especializada para la Atención de Delitos Electorales, deberá contar con el siguiente perfil: Será de reputación honorable, con conocimientos y experiencia en el ámbito jurídico, especialmente en derecho constitucional, derecho electoral, sistemas políticos y participación ciudadana, con capacidad de administración y dirección institucional e independiente en su actuación. Deberá contar además con una visión de respeto y protección a los derechos humanos y perspectiva de género.
+
+La persona titular de la Fiscalía Especializada en Combate a la Corrupción, deberá contar con el siguiente perfil: Será de reputación honorable con conocimientos y experiencia en el ámbito jurídico de la administración pública, sistemas de fiscalización de recursos públicos, auditorías, prevención, detección y combate a la corrupción y delitos cometidos por personas servidoras públicas, con capacidad de administración y dirección institucional, diseño y ejecución de políticas públicas e independiente en su actuación.
+
+La persona titular de la Fiscalía en investigación de Delitos Complejos, deberá tener el mismo perfil que de la persona Titular de la Fiscalía General.
+
 ###### Artículo 40.
 
 Nombramiento
@@ -794,13 +814,15 @@ La persona Fiscal General, podrá ser ratificada hasta por un periodo similar al
 
 ### Capítulo Tercero. Designaciones y suplencia
 
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+
 ###### Artículo 43.
 
 Designación de Titulares de Fiscalías Especializadas.
 
 La persona Titular de la Fiscalía General, remitirá una propuesta compuesta por una terna para ocupar el cargo del titular de a (sic) Fiscalía Especializada para la investigación de los Delitos Complejos, procurando siempre el principio de la paridad de género, y esta será ratificada por mayoría calificada del Congreso Local, conforme al procedimiento que marca la Constitución Local y la Ley Orgánica del Congreso de la Ciudad de México.
 
-La persona titular de la Fiscalía Especializada en Delitos Complejos deberá cumplir con los mismos requisitos que para ser titular de la Fiscalía General.
+La persona titular de la Fiscalía Especializada en Delitos Complejos deberá cumplir con los mismos requisitos que para ser titular de la Fiscalía General. Será designada por un período de 4 años y podrá ser ratificada por un mismo período.
 
 ###### Artículo 44.
 
@@ -856,31 +878,57 @@ IX. Coordinación General de Investigación Forense y Servicios Periciales;
 
 X. Coordinación General de Investigación Territorial;
 
-XI. Coordinación General de Investigación, Protección y Asistencia a Víctimas;
+> <small>(REFORMADA, G.O. 28 DE JULIO DE 2020)</small>
+
+XI. Coordinación General de Investigación de Delitos de Género y Atención a Víctimas;
 
 XII. Coordinación General Jurídica y de Derechos Humanos;
 
 XIII. Coordinación General de Investigación Estratégica;
 
-XIV. Coordinación General de Administración;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE JULIO DE 2020)</small>
 
-XV. Jefatura General de la Policía de Investigación;
+XIV. Coordinación General de Investigación de Delitos de Alto Impacto;
 
-XVI. Supervisión General de Liquidación de Casos;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIV], G.O. 28 DE JULIO DE 2020)</small>
 
-XVII. Supervisión General de Justicia Alternativa;
+XV. Coordinación General de Administración;
 
-XVIII. Órgano de Gestión Administrativa de casos no penales;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XV], G.O. 28 DE JULIO DE 2020)</small>
 
-XIX. Instituto de Formación Profesional y Estudios Superiores;
+XVI. Jefatura General de la Policía de Investigación;
 
-XX. Consejo de Honor y Justicia;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVI], G.O. 28 DE JULIO DE 2020)</small>
 
-XXI. Órgano Interno de Control;
+XVII. Supervisión General de Liquidación de Casos;
 
-XXII. Unidad de Investigación de delitos de personas servidoras públicas;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVII], G.O. 28 DE JULIO DE 2020)</small>
 
-XXIII. Los demás órganos o unidades operativas, de investigación, acusación, de protección a víctimas y administrativas que determinen otras disposiciones jurídicas y las que la persona titular de la Fiscalía General establezca en el ejercicio de la autonomía constitucional en el Reglamento de esta Ley o mediante Acuerdo.
+XVIII. Supervisión General de Justicia Alternativa;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], G.O. 28 DE JULIO DE 2020)</small>
+
+XIX. Órgano de Gestión Administrativa de casos no penales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIX], G.O. 28 DE JULIO DE 2020)</small>
+
+XX. Instituto de Formación Profesional y Estudios Superiores;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XX], G.O. 28 DE JULIO DE 2020)</small>
+
+XXI. Consejo de Honor y Justicia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXI], G.O. 28 DE JULIO DE 2020)</small>
+
+XXII. Órgano Interno de Control;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXII], G.O. 28 DE JULIO DE 2020)</small>
+
+XXIII. Unidad de Investigación de delitos de personas servidoras públicas, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIII], G.O. 28 DE JULIO DE 2020)</small>
+
+XXIV. Los demás órganos o unidades operativas, de investigación, acusación, de protección a víctimas y administrativas que determinen otras disposiciones jurídicas y las que la persona titular de la Fiscalía General establezca en el ejercicio de la autonomía constitucional en el Reglamento de esta Ley o mediante Acuerdo.
 
 ###### Artículo 49.
 
@@ -980,11 +1028,21 @@ IV. Formar un grupo especializado de las personas Agentes del Ministerio Públic
 
 Los casos pendientes de resolución relacionados con violaciones graves de Derechos Humanos o corrupción no podrán ser liquidados. La persona Titular de la Fiscalía General, determinará la forma de atención y trámite a estos casos hasta su conclusión en una unidad especializada distinta de la Supervisión General de Liquidación de Casos.
 
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+
 ###### Artículo 55.
 
-Fiscalías Especializadas
+Nombramiento y disposiciones comunes de las Fiscalías Especializadas.
 
-En el ámbito de su competencia tendrán las siguientes atribuciones comunes:
+El nombramiento de las Personas Titulares de las Fiscalías Especializadas en Atención de Delitos Electorales, de Combate a la Corrupción, y de Delitos Complejos, se realizará conforme a los procedimientos correspondientes establecidos en la Constitución de la Ciudad de México y en esta ley, respectivamente. Su designación, será por mayoría calificada del Congreso de la Ciudad de México.
+
+Las Fiscalías Especializadas en Atención de Delitos Electorales y de Combate a la Corrupción, estarán adscritas a la Fiscalía General y trabajarán en coordinación para la investigación de los delitos de las que son competentes. Su estructura orgánica se establecerá en el Reglamento de la Ley.
+
+Con independencia de las facultades que en materia de investigación y procuración de justicia se dispongan en la presente Ley, deberán coordinarse con las autoridades en materia anticorrupción y electoral, respectivamente, según las leyes de la materia.
+
+Las Fiscalías Especializadas en Atención de Delitos Electorales, y de Combate a la Corrupción, gozarán de autonomía técnica y de gestión, en el ámbito de su competencia.
+
+Tendrán también, las atribuciones comunes siguientes:
 
 I. Proponer a la persona Titular de la Fiscalía General la celebración de convenios y acuerdos de colaboración con las instancias públicas o privadas que se requieran para el ejercicio de sus funciones;
 
@@ -992,49 +1050,93 @@ II. En ejercicio de su especialización, participar en estrategias de coordinaci
 
 III. Emitir dentro del ámbito de su competencia, la normativa necesaria para el desempeño de sus funciones;
 
-IV. Participar en la integración del Plan de Política Criminal; y
+IV. Participar en la integración del Plan de Política Criminal;
 
-V. Las demás que establezcan la Constitución Local y las leyes para el cumplimiento de sus funciones.
+V. Las demás que establezcan la Constitución Local y las leyes para el cumplimiento de sus funciones, y
+
+VI. Rendir informes necesarios a la persona titular de la Fiscalía General de Justicia sobre las investigaciones de delitos en sus correspondientes áreas.
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 56.
 
-Fiscalía Especializada en Combate a la Corrupción
+Fiscalía Especializada en Combate a la Corrupción.
 
-La Fiscalía Especializada en Combate a la Corrupción, además de las atribuciones señaladas en su Ley Orgánica, tendrá las facultades siguientes:
+La persona Titular de la Fiscalía Especializada en Combate a la Corrupción, será nombrada por un periodo de cuatro años y podrá ser ratificada hasta por un periodo igual, debiéndose seguir el procedimiento que establece la Constitución Local.
 
-I. Coordinar y supervisar la actuación de la Policía de investigación, técnica y científica que se encuentre adscrita a la Fiscalía en términos de las disposiciones aplicables;
+La Fiscalía Especializada en Combate a la Corrupción, tendrá las facultades siguientes:
 
-II. Diseñar, Generar e implementar herramientas metodológicas, estrategias y líneas de acción para prevenir y combatir los hechos que la ley considera como delitos en materia de corrupción, e identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+I. Recibir denuncias y querellas que se presenten en las Agencias del Ministerio Público, por hechos que la ley considera como delitos en materia de corrupción;
 
-III. Instrumentar mecanismos de colaboración y coordinación con otras autoridades locales, nacionales y de otras Entidades Federativas para la elaboración de estrategias y programas tendientes a prevenir y combatir los hechos que la ley considera como delitos en materia de corrupción;
+II. Investigar de manera oficiosa cualquier conducta presumiblemente ilícita en materia de corrupción.
 
-IV. Proponer a la persona Titular de la Fiscalía General de Justicia de la Ciudad de México, la celebración de convenios con las Entidades Federativas para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad, así como, de las unidades de inteligencia financiera de las Entidades Federativas, para la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+III. Investigar los hechos que la ley considera como delitos en materia de corrupción con la Policía de Investigación que estará bajo su conducción y mando, los Servicios Periciales y las demás instancias competentes, en los términos de las disposiciones legales aplicables;
 
-V. Las demás que señalen otras disposiciones legales aplicables en la materia.
+IV. Disponer de los medios e instrumentos tecnológicos necesarios para la debida y pronta investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+V. En ejercicio de su especialización, participar en estrategias de coordinación con las instancias federales y estatales, homólogas o que resulten necesarias para el ejercicio de sus funciones;
+
+VI. Asegurar los bienes muebles e inmuebles, instrumentos, huellas, objetos, vestigios o productos relacionados con los hechos delictivos, en los casos que corresponda;
+
+VII. Remitir a las autoridades correspondientes las investigaciones de hechos que la ley considera como delitos en materia de corrupción que no sean competencia del Ministerio Público del fuero común de la Ciudad de México;
+
+VIII. Ejercer la acción penal ante la autoridad judicial correspondiente de los asuntos de su competencia;
+
+IX. Abstenerse de conocer de carpetas de investigación en las que se encuentren relacionados el personal adscrito a dicha Fiscalía Especializada, en los términos que determine la normatividad aplicable;
+
+X. Poner a disposición de la ciudadanía mecanismos para llevar a cabo la denuncia pública y elaborar campañas preventivas sobre las acciones que tipifican delitos en materia de corrupción;
+
+XI. Dar vista inmediatamente a la Fiscalía Especializada en Atención de Delitos Electorales en caso de existir alguna correlación entre los delitos electorales y posibles actos de corrupción;
+
+XII. Dar vista al Órgano Interno de Control, cuando con motivo de su investigación se pudiera actualizar alguna responsabilidad en materia de su competencia;
+
+XIII. Participar en el Sistema Anticorrupción de la Ciudad de México en los términos que dispongan las leyes aplicables, y
+
+XIV. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 57.
 
-Fiscalía Especializada en Atención a Delitos Electorales
+Fiscalía Especializada en Atención a Delitos Electorales.
 
-La Fiscalía Especializada para la atención de Delitos Electorales tendrá bajo su cargo la investigación, prevención y persecución de los delitos establecidos en el Título Vigésimo Sexto del Código Penal, así como los previstos en la Ley General en Materia de Delitos Electorales;
+La persona titular de la Fiscalía Especializada en Atención a Delitos Electorales, será nombrada por un periodo de cuatro años y podrá ser ratificada hasta por un periodo igual, debiéndose seguir el procedimiento que establece la Constitución Local.
 
-I. Investigar, prevenir y perseguir los delitos previstos en el Título Vigésimo Sexto del Código Penal, así como los previstos en la Ley General en Materia de Delitos Electorales;
+La Fiscalía Especializada para la Atención de Delitos Electorales tendrá bajo su cargo la investigación, prevención y persecución de los delitos establecidos en el Título Vigésimo Sexto del Código Penal, así como los previstos en la Ley General en Materia de Delitos Electorales, en lo que corresponda a su competencia.
 
-II. Realizar operativos de observación y supervisión en procesos electorales en cada una de las Alcaldías, cuando se lleven a cabo elecciones o consultas populares;
+La Fiscalía Especializada en Atención de Delitos Electorales, tendrá las facultades siguientes:
 
-III. Poner a disposición de la ciudadanía mecanismos para llevar a cabo la denuncia pública electoral. Además instruirá al personal operativo de la Fiscalía electoral, para que conforme a suficiencia presupuestal, desplieguen campañas informativas;
+I. Recibir denuncias y querellas que se presenten en las Agencias del Ministerio Público por hechos que la ley considera como delitos en materia de delitos electorales;
 
-IV. Rendir los informes necesarios a la persona titular de Fiscalía General de Justicia sobre las investigaciones de delitos electorales, los cuales serán públicos de acuerdo a las disposiciones de la Ley de Transparencia, Acceso a la Información Pública y Rendición de cuentas de la Ciudad de México;
+II. Investigar de manera oficiosa cualquier conducta presumiblemente ilícita en materia electoral;
 
-V. Dar vista inmediatamente a La Fiscalía Especializada en Combate a la Corrupción para generar esquemas de colaboración en la investigación correspondiente, y así mismo delimitar el grado de competencia de cada Fiscalía especializada, en caso de existir alguna correlación entre los delitos electorales y posibles actos de corrupción;
+III. Investigar los hechos que la ley considera como delitos en materia electoral con la Policía de Investigación que estará bajo su conducción y mando, los Servicios Periciales y las demás instancias competentes, en los términos de las disposiciones legales aplicables;
 
-VI. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia;
+IV. Disponer de los medios e instrumentos tecnológicos necesarios para la debida y pronta investigación de los hechos que la ley considera como delitos en materia electoral;
 
-VII. Dar vista al Instituto Electoral de la Ciudad de México, cuando ocurra alguna irregularidad en materia electoral conforme a la normativa aplicable;
+V. En ejercicio de su especialización, participar en estrategias de coordinación con las instancias federales y estatales, homólogas o que resulten necesarias para el ejercicio de sus funciones;
 
-VIII. Establecer esquemas de colaboración con el Instituto Electoral de la Ciudad de México, para la creación de programas, estrategias y demás medidas aplicables;
+VI. Asegurar los bienes muebles e inmuebles, instrumentos, huellas, objetos, vestigios o productos relacionados con los hechos delictivos, en los casos que corresponda;
 
-IX. Las demás que señalen otras disposiciones legales aplicables en la materia.
+VII. Remitir a las autoridades correspondientes las investigaciones de hechos que la ley considera como delitos en materia electoral que no sean competencia del Ministerio Público del fuero común de la Ciudad de México;
+
+VIII. Ejercer la acción penal ante la autoridad judicial correspondiente de los asuntos de su competencia;
+
+IX. Abstenerse de conocer de carpetas de investigación en las que se encuentren relacionados el personal adscrito a dicha Fiscalía Especializada, en los términos que determine la normatividad aplicable;
+
+X. Poner a disposición de la ciudadanía mecanismos para llevar a cabo la denuncia pública y elaborar campañas preventivas sobre las acciones que tipifican delitos electorales;
+
+XII. Dar vista inmediatamente a la Fiscalía Especializada en Combate a la Corrupción en caso de existir alguna correlación entre los delitos electorales y posibles actos de corrupción;
+
+XII. Dar vista inmediatamente a las áreas de investigación correspondientes de la Fiscalía cuando exista un tema de su competencia;
+
+XIII. Realizar operativos de observación y supervisión en procesos electorales en cada una de las Alcaldías, cuando se lleven a cabo elecciones o consultas populares;
+
+XIV. Dar vista al Instituto Electoral de la Ciudad de México, cuando con motivo de su investigación se pudiera actualizar alguna responsabilidad en materia de su competencia;
+
+XV. Establecer esquemas de colaboración con el Instituto Electoral de la Ciudad de México para la creación de programas, estrategias y demás medidas aplicables, en materia de prevención de delitos en materia electoral, y
+
+XVI. Las demás que en su caso le confieran otras disposiciones legales aplicables.
 
 ###### Artículo 58.
 
@@ -1104,13 +1206,21 @@ IX. Dirigir las Unidades de Atención Temprana;
 
 X. Las demás que señalen otras disposiciones legales aplicables.
 
-Artículos 61. Coordinación General de Investigación, Protección y Asistencia a Víctimas
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JULIO DE 2020)</small>
 
-La Coordinación General de Investigación, Protección y Asistencia a Víctimas, en el ámbito de su competencia tendrá las atribuciones siguientes:
+Artículos 61. Coordinación General de Investigación de Delitos de Género y Atención a Víctimas.
 
-I. Realizar investigaciones de los delitos de violencia de género contra las mujeres y niñas, a través de las Fiscalías a su cargo y prestar la atención multidisciplinaria de urgencia con personal especializado y certificado a través de sus Centros;
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
-II. Coordinar las funciones de la unidad de análisis y contexto de los delitos de género, y las de violencia familiar contra las mujeres y las niñas, delitos contra niñas y niños, delitos cometidos contra la población LBGTTTIQ, delitos sexuales, trata de personas, delitos contra adultas mayores, desaparición de mujeres y niñas y feminicidio;
+La Coordinación General de Investigación de Delitos de Género y Atención a Víctimas, en el ámbito de su competencia tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, G.O. 28 DE JULIO DE 2020)</small>
+
+I. Realizar investigaciones de los delitos de violencia de género contra las mujeres y niñas, violencia familiar, delitos sexuales, delitos contra niñas, niños y adolescentes, delitos cometidos contra la población de la diversidad sexual, trata de personas, delitos contra personas adultas mayores, personas integrantes de comunidades indígenas, desaparición forzada de personas, desaparición cometida por particulares y feminicidio, así como ejercer las funciones en materia de justicia penal para adolescentes y de cualquier otro grupo de atención prioritaria.
+
+> <small>(REFORMADA, G.O. 28 DE JULIO DE 2020)</small>
+
+II. Coordinar las funciones de la unidad de análisis y contexto de los delitos materia de su competencia y prestar la atención multidisciplinaria de urgencia con personal especializado y certificado a través de sus Centros;
 
 III. Proponer criterios de actuación y normatividad para el personal policial, ministerial y pericial para la adecuada intervención en la atención e investigación de delitos de violencia de género, dentro del ámbito de su competencia así como para la reparación integral del daño;
 
@@ -1174,7 +1284,9 @@ XIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones ju
 
 Coordinación General de Investigación Estratégica
 
-La Coordinación General de Investigación Estratégica tendrá a su cargo la investigación y persecución de los siguientes delitos: homicidio, secuestro, robo de vehículos, robo a casa habitación, robo de autopartes, extorsión, narcomenudeo, desaparición forzada de personas, fraude, abuso de confianza, fraude procesal, despojo, encubrimiento por receptación, fiscales, ambientales y contra el desarrollo urbano y los demás que señale el Plan de Política Criminal.
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+
+La Coordinación General de Investigación Estratégica tendrá a su cargo la investigación y persecución de los siguientes delitos: homicidio, robo de vehículos, fraude, abuso de confianza, fraude procesal, encubrimiento por receptación, financieros y los demás que señalen las disposiciones normativas aplicables.
 
 la persona Titular de la Fiscalía General podrá establecer en el Reglamento de esta ley o mediante acuerdo, la creación de Fiscalías para investigar y perseguir dichos delitos, para lo cual nombrará y removerá libremente a sus titulares, quienes ejercerán las atribuciones del Ministerio Público señaladas en la presente Ley y demás normativa.
 
@@ -1199,6 +1311,42 @@ VII. Evaluar riesgos y proteger a las personas ofendidas, víctimas, testigos y 
 VIII. Coordinar y colaborar con otras entidades gubernamentales para la implementación de los esquemas de seguridad de víctimas, testigos y demás sujetos procesales;
 
 IX. Las demás que señalen otras disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2020)</small>
+
+###### Artículo 63 Bis.
+
+Coordinación General de Investigación de Delitos de Alto impacto.
+
+La Coordinación General de Investigación de Delitos de Alto Impacto tendrá a su cargo la investigación de los siguientes delitos: secuestro, extorsión, narcomenudeo y cualquier otro que por su relevancia social, peligrosidad o reiteración, deba ser atraído a su competencia, previa autorización de la persona titular de la Fiscalía.
+
+Tendrá las siguientes facultades:
+
+I. Dirigir la investigación y ejercer la acción penal en los casos que determine la ley de la materia;
+
+II. Coordinar los esquemas de colaboración con otras autoridades en la materia de sus competencias;
+
+III. Garantizar la independencia y condiciones de trabajo de las unidades de investigación y litigio;
+
+IV. Analizar de forma estratégica los datos agregados del fenómeno criminal, la realización de estudios criminalísticos, criminógenos criminológicos y geodelictivos, así como la información de contexto que se considere relevante para coadyuvar en la investigación;
+
+V. Efectuar reportes estratégicos sobre criminalidad por tipos de delitos, identificación de patrones, estructuras y organizaciones, así como cualquier otro que se considere necesario para la investigación de los casos;
+
+VI. Suministrar información al Órgano de Política Criminal, relativa a los patrones, estructuras y organizaciones criminales para el diseño de las políticas institucionales y toma de decisiones;
+
+VII. Comunicar la información de utilidad relativa a la seguridad ciudadana que obtenga en el ejercicio de sus funciones para que la remita a la autoridad competente en su caso;
+
+VIII. Evaluar riesgos y proteger a las o los ofendidos, víctimas, testigos y demás sujetos procesales en los casos que existan amenazas a su integridad o vida;
+
+IX. Coordinar y colaborar con otras entidades gubernamentales para la implementación de los esquemas de seguridad de víctimas, testigos y demás sujetos procesales;
+
+X. Sistematizar la información obtenida a través de las distintas investigaciones realizadas;
+
+XI. Solicitar información a las compañías proveedoras de telefonía móvil y fija, con los requisitos que señale la ley;
+
+XII. Conocer de las investigaciones realizadas en cualquier otra Coordinación General o Unidad o Agencia del Ministerio Público que tengan conexidad con los delitos considerados de alto impacto o relevancia social; previa autorización de la persona Titular de la Fiscalía, y
+
+XIII. Las demás que señalen otras disposiciones jurídicas aplicables.
 
 ###### Artículo 64.
 
@@ -1300,13 +1448,13 @@ XXIII. Las demás que le asigne de manera directa la persona Fiscal General.
 
 ### Capítulo Segundo. Órganos auxiliares
 
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+
 ###### Artículo 66.
 
-Unidad de Implementación
+Unidad de Implementación.
 
-La Unidad es un órgano consultor, auxiliar y temporal de la Fiscalía General que tendrá como objetivo la coordinación, implantación, implementación y evaluación del Plan de transición. De conformidad con el artículo 19 de la Ley de transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia de la Ciudad de México.
-
-Las funciones de la Unidad de Implementación se transferirán al Órgano de Política Criminal una vez que se implemente en su totalidad la nueva estructura de la Fiscalía General.
+La Unidad tendrá como objeto la coordinación, implementación, ejecución y evaluación del Plan de Transición.
 
 ###### Artículo 67.
 
@@ -1536,13 +1684,31 @@ X. Denunciar ante las autoridades competentes hechos de corrupción con aparienc
 
 XI. Las demás que señale el Reglamento de esta Ley.
 
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+
 ###### Artículo 81.
 
 Intervención.
 
-El Consejo, intervendrá en los casos del personal sustantivo que le sean sometidos a su consideración, no obstante, si existiera una notoria conducta que investigar, La o El Secretario Ejecutivo de dicho Consejo, determinará la suspensión temporal como medida precautoria, dentro de las 72 horas a que se tuvo conocimiento del hecho, para que se pueda efectuar la debida investigación, lo anterior sin menoscabo de las atribuciones del Órgano de Control.
+El Consejo de asuntos internos, intervendrá en los casos del personal sustantivo que le sean sometidos a su consideración, no obstante, si existiera una notoria conducta que investigar, la persona Secretaria Ejecutiva de dicho Consejo, determinará la suspensión temporal de la persona servidora pública, como medida precautoria teniendo para ello, un plazo de hasta 5 días naturales, contados a partir de la fecha en que se tuvo conocimiento del hecho, para que se pueda efectuar la debida investigación, lo anterior sin menoscabo de las atribuciones del Órgano de Control.
 
-Para los efectos de esta disposición la persona Secretaria Ejecutiva, será la persona que ocupe el cargo de coordinadora jurídica y de derechos humanos, quien se auxiliará de una Oficina de Asuntos Internos.
+La Unidad de Asuntos Internos tendrá el carácter de Secretaría Ejecutiva del Consejo y estará adscrita a la Oficina de la persona titular de la Fiscalía General.
+
+Tendrá las facultades siguientes:
+
+I. Instrumentar procedimientos, de oficio o por queja, en contra del personal de estructura, sustantivo y de confianza de la Fiscalía General, por incumplimiento de las disposiciones jurídicas aplicables al ejercicio de sus funciones y conforme al procedimiento que señale el Reglamento de esta Ley;
+
+II. Conocer de las quejas de las personas usuarias por probables irregularidades de las personas servidoras públicas de la Fiscalía General y, en su caso, iniciar el procedimiento correspondiente;
+
+III. Establecer mecanismos de vigilancia de la función del Ministerio Público, conforme a la normatividad que emita la persona titular de la Fiscalía General;
+
+IV. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean competencia del Consejo de Asuntos Internos, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas;
+
+V. Emitir recomendaciones a las Unidades Administrativas de la Fiscalía General, sobre el desempeño de su personal y sobre mecanismos de prevención de infracciones administrativas;
+
+VI. Instrumentar, en el ámbito de su competencia, las recomendaciones y acuerdos que emita el Consejo Ciudadano de la Fiscalía General, y
+
+VII. Las demás que señale el Reglamento de esta ley.
 
 ###### Artículo 82.
 
@@ -1927,3 +2093,15 @@ VIGÉSIMO TERCERO. Los requisitos de ingreso, promoción y permanencia para el p
 Palacio Legislativo del Congreso de la Ciudad de México, a los trece días del mes de diciembre del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD VENTURA ÁVILA, SECRETARIA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintitrés días del mes diciembre del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 43, 48, 55, 56, 57, 61, 63, 66 Y 81. SE ADICIONAN: UNA FRACCIÓN XX AL ARTÍCULO 35, RECORRIÉNDOSE LA FRACCIÓN SUBSECUENTE EN SU ORDEN, RESPETANDO DE MANERA ÍNTEGRA SU CONTENIDO; UN ARTÍCULO 39 BIS Y UN NUEVO ARTÍCULO 63 BIS, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+Primero. El presente decreto entrará en vigor, el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Remítase el presente decreto a la Jefa de Gobierno para sus efectos legales.
