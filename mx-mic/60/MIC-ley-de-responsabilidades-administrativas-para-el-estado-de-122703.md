@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-administrativas-para-el-estado-de-1227
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2020-07-07"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de julio de 2017.
 
@@ -1617,7 +1617,9 @@ VIII. Dentro de los quince días hábiles siguientes al cierre de la Audiencia I
 
 IX. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la Autoridad Substanciadora declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
 
-X. Una vez trascurrido el periodo de alegatos, la Autoridad Resolutora del asunto, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello; y,
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
+
+X. Una vez trascurrido el periodo de alegatos, la Autoridad Sustanciadora remitirá en un período de diez días hábiles el expediente respectivo a la Autoridad Resolutora del asunto, la cual de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello; y,
 
 XI. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
@@ -1808,3 +1810,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Una vez publicado el presente Decreto y por única ocasión, la Fiscalía General del Estado de Michoacán, contará con treinta días naturales para presentar ante el Congreso del Estado, la adecuación a su Plan de Persecución de Delitos 2019-2028, en la que se incorpore la creación de la Base Estadística Estatal de Violencia Política contra las Mujeres en Razón de Género.
+
+P.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 341 POR EL QUE “SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 208 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
