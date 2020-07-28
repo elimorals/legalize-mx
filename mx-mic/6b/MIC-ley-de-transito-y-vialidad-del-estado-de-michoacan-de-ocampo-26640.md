@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2020-02-12"
+last_updated: "2020-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -275,9 +275,9 @@ IV. Dictar medidas tendientes al mejoramiento de los servicios de tránsito y vi
 
 V. Realizar las tareas relativas a la ingeniería de tránsito y los señalamientos de vialidad en los centros de población;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
 
-VI. Realizar los estudios necesarios sobre tránsito de peatones y vehículos, a fin de lograr una mejor utilización de las vías públicas y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida humana, seguridad, comodidad y fluidez de la vialidad, de acuerdo con las disposiciones internacionales, federales y estatales, que existan en la materia;
+VI. Realizar los estudios necesarios sobre tránsito de peatones y vehículos, a fin de lograr una mejor utilización de las vías públicas y de los medios de transporte público en sus distintas modalidades, que conduzcan a la más eficaz protección de la vida humana, seguridad, comodidad, movilidad y fluidez de la vialidad, de acuerdo con las disposiciones internacionales, federales y estatales, que existan en la materia;
 
 VII. Establecer programas de control de emisiones contaminantes de origen vehicular, en coordinación con las autoridades ambientales competentes;
 
@@ -289,7 +289,9 @@ X. Coordinarse con el Gobernador del Estado y con los municipios, para el cumpli
 
 XI. Autorizar la localización y características de los elementos que integran la infraestructura y el equipamiento vial de los centros de población, a través de los planes municipales y programas de desarrollo urbano que les corresponda sancionar y aplicar en la esfera de su competencia;
 
-XII. Determinar previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos, foráneos y de carga; y los itinerarios de estos últimos;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
+
+XII. Determinar previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público en sus distintas modalidades, así como el ascenso y descenso de los usuarios en paradas establecidas exclusivamente autorizadas, del transporte de pasajeros, urbano, suburbanos, foráneos y de carga; de conformidad a los itinerarios establecidos;
 
 XIII. Autorizar en coordinación con el Gobernador del Estado, la localización de las obras de infraestructura carretera, infraestructura y equipamiento vial, derechos de vía como destinos, zonas de restricción y las normas que regulen su uso;
 
@@ -703,13 +705,17 @@ e) Señales humanas, verticales y horizontales, preventivas, restrictivas e info
 
 f) Conocimiento y aplicación de esta Ley, su reglamento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
+
 ###### Artículo 53.
 
-Los prestadores de servicios públicos, están obligados a garantizar que sus operadores eviten el manejo de vehículos en estado de ebriedad, bajo los efectos de sustancias tóxicas, psicotrópicos o estupefacientes, así como en estados emocionales que alteren las funciones del conductor y deberán implementar cursos permanentes para:
+Los prestadores del servicio de transporte público, están obligados a lo siguiente:
 
-I. La prevención de accidentes viales; y,
+I. Utilizar exclusivamente las paradas autorizadas para el ascenso y descenso de los usuarios;
 
-II. Respetar los límites de velocidad en todas las vialidades.
+II. No conducir en estado de ebriedad, bajo los efectos de sustancias tóxicas, psicotrópicos, estupefacientes o en estados emocionales que alteren sus funciones; y,
+
+III. Deberán implementar cursos permanentes de prevención de accidentes viales y cultura vial.
 
 ###### Artículo 54.
 
@@ -1020,3 +1026,9 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo para su conocimiento, promulgación y publicación correspondiente.
+
+P.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 340 POR EL QUE “SE REFORMAN LAS FRACCIONES VI Y XII DEL ARTÍCULO 15; Y EL ARTÍCULO 53 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
