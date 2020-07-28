@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-135186
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-29"
-last_updated: "2019-04-02"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ABRIL DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
 
 Ley publicada en la Décima Tercera Sección al Número 17 del Periódico Oficial del Estado de Michoacán, el viernes 29 de marzo de 2019.
 
@@ -225,7 +223,9 @@ III. Elaborar el proyecto de presupuesto anual de la Auditoría Superior y remit
 
 IV. Elaborar y aprobar los reglamentos y disposiciones normativas necesarias para el ejercicio de las funciones y atribuciones de la Auditoría Superior. Todo reglamento y disposición normativa deberá ser publicado en el Periódico Oficial;
 
-V. Emitir los lineamientos para requerir, tramitar, recibir, registrar, aplicar y determinar los montos de las fianzas a los servidores públicos que recauden, ejerzan, administren, controlen, manejen o custodien recursos públicos, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
+
+V. Elaborar y presentar ante la Comisión Inspectora de la Auditoría Superior de Michoacán, los lineamientos para requerir, tramitar, recibir, registrar, aplicar y determinar los montos de las fianzas a los servidores públicos que recauden, ejerzan, administren, controlen, manejen o custodien recursos públicos, en los términos de esta Ley;
 
 VI. Elaborar el Programa Operativo Anual de la Auditoría Superior, estableciendo indicadores suficientes para evaluar su desempeño;
 
@@ -365,7 +365,9 @@ VIII. Presentar al Congreso el proyecto del plan anual de fiscalización, por co
 
 IX. Emitir los lineamientos, procedimientos técnicos, circulares, instructivos, formatos que deberán observar las Entidades, conforme a las leyes y normas que expida el Congreso;
 
-X. Determinar los montos, requerir, recibir, registrar y custodiar las fianzas que deban presentar los servidores públicos que manejen fondos públicos. La ejecución, en su caso, se hará efectiva a favor de la Entidad respectiva;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
+
+X. Elaborar y presentar a la Comisión Inspectora de la Auditoría Superior de Michoacán, el proyecto de lineamientos para determinar los montos, requerir, recibir, registrar y custodiar las fianzas que deban presentar los servidores públicos que manejen fondos públicos, conforme a lo establecido en la presente Ley. La ejecución, en su caso, se hará efectiva a favor de la Entidad respectiva;
 
 XI. Verificar que las Entidades que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables, así como requerir la documentación necesaria y pertinente a dichas Entidades;
 
@@ -1177,27 +1179,59 @@ Los plazos a los que se refiere el presente artículo se computarán en días na
 
 Las fianzas o cauciones que deban entregar los servidores públicos garantizarán la responsabilidad en el desempeño de su empleo, encargo o comisión.
 
+> <small>(REFORMADO PRIMER PÀRRAFO, P.O. 28 DE JULIO DE 2020)</small>
+
 ###### Artículo 88.
 
-Los servidores públicos que deban garantizar su responsabilidad mediante fianza o caución serán aquellos dispuestos en la Constitución del Estado y en la presente ley, los cuales son:
+Los servidores públicos que deberán garantizar su responsabilidad mediante fianza o caución serán:
 
-I. En el caso de los ayuntamientos, concejos municipales y comunidades o consejos indígenas y ciudadanos: el presidente municipal, el síndico, el tesorero o el responsable de la administración o ejecución de recursos públicos, el titular o responsable del área correspondiente a las obras públicas y el titular o responsable del organismo operador de agua potable y alcantarillado; y,
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
 
-II. A nivel estatal: los titulares de las dependencias de la administración pública centralizada, Entidades paraestatales y órganos constitucionales autónomos. Los servidores públicos enumerados contarán con un plazo de treinta días hábiles a partir de la asunción del cargo respectivo para exhibir ante la Auditoría Superior la respectiva fianza, en términos de los lineamientos que al respecto ésta emita.
+I. En el caso de los ayuntamientos, concejos municipales y comunidades o consejos indígenas y ciudadanos: el tesorero o el responsable de la administración o ejecución de recursos públicos, el titular o responsable del área correspondiente a las obras públicas y el titular o responsable del organismo operador de agua potable y alcantarillado; y,
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
+
+II. A nivel estatal: los titulares de las dependencias de la administración pública centralizada, entidades paraestatales y órganos constitucionales autónomos. Los servidores públicos enumerados contarán con un plazo de sesenta días hábiles a partir de la asunción del cargo respectivo para exhibir ante la Auditoría Superior la respectiva fianza, en términos de los lineamientos que al respecto se emitan.
 
 Los servidores públicos podrán constituir la fianza de forma individual o colectiva sobre bienes privados, propios o ajenos, que nunca serán públicos.
 
 La vigencia de la fianza o caución no será menor al proceso de fiscalización previsto en la Ley y sólo podrá ser cancelado al momento en que la Auditoría Superior emita la liberación correspondiente sobre lo afianzado.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
+
 ###### Artículo 89.
 
-Los lineamientos sobre las fianzas o cauciones garantizarán que el monto de éstas sea racional, deberán aprobarse previo conocimiento de la Comisión y publicarse en el Periódico Oficial.
+Los lineamientos sobre las fianzas o cauciones garantizarán que el monto de éstas sea racional y justificado, debiendo ser aprobados bajo el siguiente procedimiento:
 
-La Auditoría Superior contará con una unidad administrativa ante la cual se exhibirán las fianzas respectivas.
+I. El Auditor Superior, deberá presentar ante el Congreso del Estado, un proyecto de lineamientos para requerir, tramitar, recibir, registrar, aplicar y determinar los montos de las fianzas o cauciones que se fijen a los servidores públicos en los términos de la presente Ley. Dicho proyecto, será turnado en la próxima sesión inmediata a la Comisión Inspectora de la Auditoría Superior de Michoacán, debiendo contener al menos lo siguiente:
+
+a) Fundamentación jurídica;
+
+b) Objeto;
+
+c) Sujetos;
+
+d) Justificación;
+
+e) Montos generales y desglosados;
+
+f) Explicación y metodología del cálculo de los montos;
+
+g) Presentación y ejecución de la fianza; y,
+
+h) Sanciones.
+
+II. La Comisión Inspectora de la Auditoría Superior de Michoacán hará del conocimiento de la Comisión de Fortalecimiento Municipal y Límites Territoriales el proyecto a efecto de que remita sus observaciones respecto a los servidores públicos municipales en un plazo de diez días hábiles;
+
+III. Agotado el término señalado, la Comisión Inspectora de la Auditoría Superior de Michoacán analizará y elaborará una Propuesta de Acuerdo, conforme a lo establecido en la Ley Orgánica y de Procedimientos del Congreso del Estado. Dicha Propuesta de Acuerdo será sometida al Pleno del Congreso del Estado para su posible aprobación; y,
+
+IV. Se ordenará su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 90.
 
-Las fianzas o cauciones que se fijen a los servidores públicos deberán atender a su función de recaudación, manejo, custodia o autorización de recursos públicos. El monto de las fianzas o cauciones no podrá ser mayor al cinco por ciento del presupuesto total de la respectiva Entidad.
+Las fianzas o cauciones que se fijen a los servidores públicos establecidos en la presente Ley, deberán atender a su función de recaudación, manejo, custodia o autorización de recursos públicos. El monto de las fianzas o cauciones no podrá ser mayor al cinco por ciento del presupuesto total de la respectiva Entidad. Para lo cual, la Auditoría se deberá basar en estudios actualizados, apegados a la realidad social y económica, en materia estatal y municipal.
 
 ### CAPÍTULO XXI. SERVICIO CIVIL DE CARRERA
 
@@ -1274,3 +1308,15 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de marzo de 2019 dos mil diecinueve.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. PASCUAL SIGALA PÁEZ.- (Firmados)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P. O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 343.- SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 78; Y LA FRACCIÓN XII BIS AL ARTÍCULO 82, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 10, LA FRACCIÓN X DEL ARTÍCULO 16; EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y II DEL ARTÍCULO 88; EL ARTÍCULO 89 Y EL ARTÍCULO 90, TODOS DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Se deroga todo lo que se oponga al presente Decreto. La Auditoría Superior de Michoacán, en un plazo no mayor a treinta días naturales a la publicación del presente Decreto, hará la devolución respectiva de las fianzas o cauciones, en la forma como se hayan presentado, de todos aquellos servidores públicos que acataron lo establecido en su momento en los «LINEAMIENTOS PARA LA TRAMITACIÓN, CONTRATACIÓN, RECEPCIÓN, REGISTRO, OPERACIÓN, APLICACIÓN Y DETERMINACIÓN DE MONTOS DE LAS FIANZAS QUE DEBEN OTORGAR LOS SERVIDORES PÚBLICOS MUNICIPALES Y ESTATALES DEL ESTADO DE MICHOACÁN DE OCAMPO», Publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 13 de mayo de 2020, Séptima Sección.
+
+TERCERO. La Comisión Inspectora de la Auditoría Superior de Michoacán, en un plazo no mayor a diez días hábiles, posteriores a la publicación del presente Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, solicitará al Auditor Superior, un nuevo proyecto de lineamientos sobre las fianzas o cauciones conforme al presente Decreto, mismo que en caso de ser aprobado será aplicable exclusivamente para los servidores públicos que no hayan exhibido fianza o caución conforme a la normatividad vigente al momento de asumir su encargo.
