@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2019-12-21"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2020 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1551,9 +1553,9 @@ Los Magistrados del Tribunal Superior de Justicia son inviolables por las opinio
 
 Los titulares de los Juzgados deberán satisfacer los requisitos que exija la ley; durarán en su encargo seis años, a cuyo vencimiento podrán ser ratificados, previa evaluación, en los términos que fije la ley, y si lo fueren, sólo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
-El nombramiento, adscripción, readscripción y remoción de jueces se hará atendiendo a los principios de especialización, idoneidad, experiencia, honorabilidad, equidad de género y no discriminación; con base a méritos y criterios objetivos y mediante los requisitos y procedimientos que para efecto establezca la Ley Orgánica del Poder Judicial para el Estado de Nayarit. Las decisiones del Consejo de la Judicatura dictadas en esa materia, podrán ser impugnadas ante el Pleno del Tribunal, el cual resolverá de manera definitiva e inatacable sin que proceda juicio o recurso alguno en contra de las mismas.
+El nombramiento, adscripción y readscripción de jueces se hará atendiendo a los principios de especialización, idoneidad, experiencia, honorabilidad, equidad de género y no discriminación; con base a méritos y criterios objetivos y mediante los requisitos y procedimientos que para efecto establezca la Ley Orgánica del Poder Judicial para el Estado de Nayarit. Las decisiones del Consejo de la Judicatura dictadas con relación al nombramiento, suspensión temporal impuesta como sanción, destitución e inhabilitación de jueces, podrán ser impugnadas ante el Pleno del Tribunal, el cual resolverá de manera definitiva e inatacable sin que proceda juicio o recurso alguno en contra de las mismas.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1579,7 +1581,9 @@ El procedimiento para la designación de los Consejeros mediante insaculación d
 
 Asimismo, contará con un Secretario Ejecutivo que será la instancia de coordinación de los órganos internos. Será nombrado por el propio Consejo para un periodo de cinco años, de entre el personal de carrera judicial, quien tendrá voz, pero no voto y percibirá una remuneración adecuada al ejercicio del cargo.
 
-Los Consejeros nombrados por los Poderes Legislativo y Ejecutivo, deberán reunir los mismos requisitos que para ser Magistrado, durarán en el cargo el tiempo que se encuentre en funciones la Legislatura o el Poder Ejecutivo que los designó y percibirán una remuneración igual a la de un Juez.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
+
+Los Consejeros nombrados por los Poderes Legislativo y Ejecutivo, deberán reunir los mismos requisitos que para ser Magistrado, durarán en el cargo el tiempo que se encuentre en funciones la Legislatura o el Poder Ejecutivo que los designó y hasta que la siguiente legislatura o Poder Ejecutivo designen a sus respectivos consejeros. Percibirán una remuneración igual a la de un Juez.
 
 A excepción de los Magistrados, el resto de Consejeros no podrán ser reelectos.
 
@@ -1597,11 +1601,11 @@ El Pleno resolverá sobre la designación, adscripción, ratificación y remoci�
 
 7.- El Consejo Consultivo se integrará por cinco consejeros abogados de reconocido prestigio en el Estado, con carácter honorario, designados por el Tribunal Superior de Justicia y funcionará según lo disponga la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2020)</small>
 
 ###### Art. 86.
 
-El Tribunal Superior de justicia cada año designará uno de sus miembros como Presidente, quien podrá ser reelecto hasta por tres ocasiones para el periodo siguiente. En ningún caso la temporalidad al frente de la Presidencia podrá exceder el periodo para el que fue designado como Magistrado.
+El Tribunal Superior de justicia cada tres años designará a uno de sus miembros como Presidente, sin posibilidad de ser reelecto. En ningún caso la temporalidad al frente de la Presidencia podrá exceder el periodo para el que fue designado como Magistrado.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1737,9 +1741,21 @@ La resolución que declare fundada la acción de inconstitucionalidad por omisi�
 
 IV.- De las cuestiones de inconstitucionalidad planteadas por cualquier autoridad u organismo autónomo, cuando consideren de oficio o a petición de parte, que una norma con carácter general, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a esta Constitución, en los términos que establezca la ley;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
 
-V.- Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos fundamentales, por actos u omisiones que vulneren los derechos reconocidos por esta Constitución, provenientes de cualquier autoridad;
+V.- Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos fundamentales, por normas generales por actos u omisiones que vulneren los derechos reconocidos por esta Constitución, provenientes de cualquier autoridad pública; de particulares que realicen actos equivalentes a los de una autoridad y que sus funciones estén determinadas en una norma general.
+
+El juicio de protección de derechos fundamentales se regirá por los siguientes principios:
+
+a).- Será a instancia de parte agraviada, teniendo tal carácter quien aduzca ser titular de un derecho subjetivo que se afecte de manera personal y directa o de un interés legítimo individual o colectivo.
+
+b).- La sentencia solo se ocupará de las partes que hayan acudido a juicio.
+
+c).- Suplir la deficiencia de la queja.
+
+d).- Agotar los medios ordinarios de defensa, con las excepciones que prevea la ley.
+
+El juicio de protección de derechos fundamentales será improcedente contra resolución (sic) interlocutorias o definitivas dictadas por otras salas del Tribunal Superior de Justicia.
 
 VI.- (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
@@ -1750,8 +1766,6 @@ VII.- De los conflictos por límites territoriales entre dos o más municipios d
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 VIII.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -1953,23 +1967,19 @@ El Tribunal de Justicia Administrativa tendrá a su cargo dirimir las controvers
 
 Asimismo, será el órgano competente para imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
 ###### Art. 104.
 
-El Tribunal de Justicia Administrativa se compondrá de tres magistrados numerarios, garantizándose en su integración ambos géneros, y durarán en su encargo diez años, pudiendo ser ratificados por una sola vez y por el mismo periodo, previa evaluación en los términos que disponga la Ley de la materia. Sólo podrán ser privados de su cargo en los términos del Título Octavo de esta Constitución y las leyes aplicables.
+El Tribunal de Justicia Administrativa se compondrá por cinco Magistrados Numerarios y funcionará en Pleno o en Salas, Colegiadas y Unitarias. Desarrollará sus funciones en una Sala Colegiada Administrativa integrada por tres Magistrados Numerarios y un Supernumerario; y por dos Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, integradas por un Magistrado Numerario y un Magistrado Supernumerario para ambas.
 
-El Tribunal será presidido por el Magistrado que resulte electo por mayoría de votos de sus integrantes.
+En la designación de los Magistrados Numerarios se observará la paridad de género, durarán en su encargo diez años, pudiendo ser ratificados por una sola vez y por el mismo periodo, previa evaluación en los términos que disponga la ley de la materia. Sólo podrán ser privados de su cargo en los términos del Título Octavo de esta Constitución y las leyes aplicables.
 
-La presidencia se ejercerá por tres años y podrá reelegirse.
+El Pleno del Tribunal será presidido por el Magistrado que resulte electo por mayoría de votos de sus integrantes. El Magistrado Presidente, ejercerá su encargo por tres años y podrá reelegirse.
 
-Se podrán nombrar hasta dos Magistrados Supernumerarios y durarán en su cargo diez años, los cuales podrán ser designados de entre las ternas que para Magistrados Numerarios envíe el Gobernador.
-
-Los Magistrados Numerarios serán suplidos en sus faltas por los Supernumerarios de acuerdo al orden de prelación previsto en el decreto de su designación y de conformidad a las formalidades que determine la ley.
+Los Magistrados Supernumerarios durarán en su cargo diez años, los cuales podrán ser designados de entre las ternas que para Magistrados Numerarios envíe el Gobernador del Estado; y suplirán las faltas de los Magistrados Numerarios en los términos que determine la ley aplicable.
 
 Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistrado Supernumerario que corresponda, situación que se hará del conocimiento del Gobernador y del Congreso o Diputación Permanente para proceder a la designación de un Magistrado Numerario por el periodo restante, de conformidad a lo previsto por el artículo 105 de esta Constitución, sin exceder del término de sesenta días entre la ausencia y la designación.
-
-La terna que someta el Gobernador para la designación del Magistrado Numerario, podrá incluir a quienes tengan en ese momento el carácter de Magistrados Supernumerarios.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -1993,7 +2003,9 @@ VII.- No haber tenido el cargo de diputado local durante el año previo al día 
 
 VIII.- No ser ministro de algún culto religioso, a menos que se haya separado formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de la designación.
 
-Para la designación de Magistrados, el Gobernador someterá tres ternas a consideración del Congreso, quien previa comparecencia de las personas propuestas elegirá a los Magistrados que deban cubrir cada una de las vacantes. La elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocuparán el cargo de Magistrados las personas que, dentro de dichas ternas, designe el Gobernador.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
+
+Para la designación de Magistrados, el Gobernador someterá las ternas a consideración del Congreso, quien previa comparecencia de las personas propuestas elegirá a los Magistrados que deban cubrir cada una de las vacantes. La elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocuparán el cargo de Magistrados las personas que, dentro de dichas ternas, designe el Gobernador.
 
 Si la Legislatura rechaza alguna o la totalidad de las ternas propuestas, el Gobernador someterá a su consideración unas nuevas, en los términos del párrafo anterior. Si estas segundas tampoco son aceptadas, ocuparán el cargo las personas que dentro de esas ternas designe el Gobernador.
 
@@ -4158,3 +4170,41 @@ P.O. 21 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto a los Ayuntamientos del Estado de Nayarit, para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+P.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LOS ARTÍCULOS 104 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Para la designación de los dos nuevos Magistrados Numerarios o Magistradas Numerarias, y un Magistrado Supernumerario o Magistrada Supernumeraria del Tribunal de Justicia Administrativa, el Gobernador del Estado presentará las ternas ante el Congreso del Estado, en los términos del artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit, dentro de treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Los nuevos Magistrados Numerarios o Magistradas Numerarias a que se refiere el párrafo anterior, tendrán su adscripción a las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, al menos durante los primeros cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que el Pleno del Tribunal de Justicia Administrativa, modifique sus adscripciones durante su encargo.
+
+TERCERO.- El Magistrado Supernumerario por el Decreto que designa a los Magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit el día 12 de Noviembre del 2016, será el Magistrado Supernumerario o Magistrada Supernumeraria de la Sala Colegiada Administrativa, y durará en su encargo para el periodo que fue designado.
+
+La persona que sea designada como Magistrado Supernumerario en cumplimiento del presente Decreto, será el Magistrado Supernumerario o Magistrada Supernumeraria de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas.
+
+CUARTO.- En un plazo que no exceda de ciento ochenta días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones legales necesarias para armonizar el marco jurídico local con la presente reforma. Debiendo considerarse la instauración de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas.
+
+QUINTO.- El Tribunal de Justicia Administrativa deberá realizar las adecuaciones presupuestarias necesarias para el cumplimiento del presente Decreto.
+
+SEXTO.- Dentro de los 30 días posteriores a la designación de los Magistrados Numerarios de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, el Pleno del Tribunal de Justicia Administrativa, podrá sesionar de existir el consenso para ello, a efecto de designar o ratificar a su Presidente, en función de su nueva integración.
+
+SÉPTIMO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, RELACIONADOS CON EL PODER JUDICIAL".]
+
+PRIMERO.- La (sic) presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los Consejeros nombrados por los Poderes Legislativo y Ejecutivo, así como el Magistrado Consejero actualmente en funciones, seguirán en el cargo hasta la conclusión del periodo para el que fueron designados.
+
+TERCERO.- El actual presidente seguirá en funciones hasta la conclusión del periodo para el que fue designado, quedando a salvo su derecho para participar en la elección en los términos de la presente reforma.
+
+CUARTO.- Dentro de los ciento veinte días naturales siguientes a que entre en vigor el presente Decreto, el Congreso del Estado deberá armonizar con la presente reforma, las disposiciones legales correspondientes.
+
+QUINTO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+SEXTO.- Por única ocasión el Consejo de la Judicatura del Poder Judicial del Estado de Nayarit, remitirá al Congreso del Estado propuesta de la terna para la designación de la siguiente vacante de Magistrado Numerario del Tribunal Superior de Justicia, previa convocatoria pública para el concurso de oposición, entre los jueces de primera instancia que cuenten con más de 10 años de carrera judicial al día de la designación.
