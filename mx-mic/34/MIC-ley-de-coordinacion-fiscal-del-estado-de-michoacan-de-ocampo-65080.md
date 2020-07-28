@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2020-02-12"
+last_updated: "2020-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -549,9 +549,9 @@ Las responsabilidades administrativas, civiles y penales en que incurran las aut
 
 ARTÍCULO 35 BIS. Con independencia de lo establecido en el Capítulo II de esta Ley, respecto de los recursos que los Municipios reciben del Fondo Participable y del Fondo de Gasolinas y Diesel, se establece una aportación estatal, como recurso que el Estado transfiere a los Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para dicha aportación establece el presente artículo, para un Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, el cual se destinará a las inversiones públicas productivas de los Municipios.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
-El Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se constituirá con un monto equivalente al 5% de los recursos financieros que corresponde al Estado efectivamente pagado por la Federación en el Fondo General de Participaciones, una vez descontado el porcentaje que de dicho Fondo General se aporta al Fondo Participable, a que se refiere la fracción I, inciso a), del artículo 3° de la presente Ley. A los recursos a que se refiere el presente párrafo se podrá aplicar el beneficio de la ampliación del pago a que se refiere el segundo párrafo del artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+El Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se constituirá con un monto equivalente al 5% de lo que corresponde al Estado en el Fondo General de Participaciones, una vez descontado el porcentaje que de dicho Fondo General se aporte al Fondo Participable, a que se refiere la fracción I, inciso a), del artículo 3° de la presente ley. Del monto correspondiente a cada municipio, éste destinará hasta un 20% para la adquisición de nuevas tecnologías que tengan como finalidad la recuperación, conservación y mejoramiento del medio ambiente. Esta disposición solo aplica para los municipios que reciban 5000,000 (sic) de pesos o más por concepto del FAEISPUM.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -884,3 +884,19 @@ P.O. 12 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1º de enero de 2020, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 339.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrarai (sic) en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exhorta al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán de Ocampo, para que en las reglas de operación y demás disposiciones relativas al Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales para el Ejercicio Fiscal del año 2021, se realicen las adecuaciones necesarias para que la presente reforma transite de manera adecuada a partir de ese año.
+
+###### ARTÍCULO TERCERO.
+
+Se exhorta a los Ayuntamientos del Estado, para que durante el ejercicio fiscal 2020 consideren proyectos que vayan encaminados a la recuperación, conservación y mejoramiento del medio-ambiente, independientemente si son sujetos de la presente reforma.
