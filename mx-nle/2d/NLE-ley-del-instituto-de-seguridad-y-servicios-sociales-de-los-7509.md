@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-7509
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-13"
-last_updated: "2013-10-25"
+last_updated: "2020-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 29 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 1993.
 
@@ -1644,3 +1646,137 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 25 DE OCTUBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 342. SE EXPIDE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, contenida en el Decreto número 201 publicada en el Periódico Oficial del Estado el 13 de octubre de 1993; y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Para los efectos de los artículos transitorios de esta Ley, se entiende por:
+
+I. Personal en Transición Ley 1983: a los jubilados, pensionados, pensionistas y servidores públicos sujetos al régimen de cotización de la Ley del ISSSTELEON de 1983 y que continuaron sujetos a la Ley del ISSSTELEON de 1993;
+
+II. Personal en Transición Ley 1993: a aquellos servidores públicos y jubilados cuya fecha de afiliación al Instituto fue a partir del 13 de octubre de 1993 y anterior a la entrada en vigor de la presente Ley;
+
+III. Cuentas personales Físicas: a la parte de la cuenta personal que se encuentre fondeada en los términos de la presente Ley, incluyendo los rendimientos que obtengan los fondos;
+
+IV. Cuentas personales Nocionales: a la parte de la cuenta personal cuyos recursos se hubieran dispuesto por el Instituto, incluyendo los rendimientos que se registren mensualmente, en los términos del artículo séptimo transitorio de esta Ley y, por lo tanto, no se encuentre fondeada;
+
+V. Costo Anual Neto de Transición 1983: al gasto anual de las pensiones del personal de Transición Ley 1983, mismo que resulta de la diferencia entre el costo de las pensiones y jubilaciones a que se refiere el artículo décimo quinto y los ingresos contemplados en el artículo décimo octavo transitorios de la Ley 1993 que se abroga; y
+
+VI. Nómina de Cotización. A la suma de los salarios base de cotización de los servidores públicos considerando que dichos salarios tienen como límite superior el equivalente a veinticinco veces el salario mínimo vigente en la entidad.
+
+CUARTO.- Quienes en el momento de entrada en vigor del presente ordenamiento tuvieren derecho a una pensión, jubilación, renta vitalicia, o retiros programados, ésta se tramitará conforme a los términos y condiciones establecidos en la Ley que se abroga.
+
+El personal en transición Ley 1993 tendrá, en su caso, derecho a lo dispuesto en el artículo décimo segundo transitorio de esta Ley.
+
+QUINTO.- Quienes en el momento de entrar en vigor este ordenamiento estuvieran disfrutando de las prestaciones señaladas en la Ley que se abroga, continuarán haciéndolo en los términos y condiciones señalados por dicho ordenamiento. El personal en transición Ley 1993 tendrá, en su caso, derecho a lo dispuesto en el artículo décimo segundo transitorio de esta Ley.
+
+SEXTO.- El servidor público proveniente del personal en transición ley 1983 podrá jubilarse a los treinta años de servicio y veintiocho en el caso de la mujer, alcanzando una pensión proporcional a su último salario de cotización neto, conforme a la siguiente tabla:
+
+Años de Servicio Años de Servicio Monto de la
+
+Mujeres Hombres Pensión
+
+28 30 85%
+
+29 31 90%
+
+30 32 95%
+
+31 33 100%
+
+Así mismo tendrán derecho a una pensión por vejez al cumplir sesenta años de edad y quince años de servicio, consistente en el equivalente al 50% de su último salario de cotización neto percibido. Cuando se rebasen los quince años y se dé el supuesto de edad que aquí se contempla, para los efectos del monto de la pensión se aplicará la siguiente tabla:
+
+15 años de cotización 50%
+
+16 años de cotización 51%
+
+17 años de cotización 52%
+
+18 años de cotización 53%
+
+19 años de cotización 54%
+
+20 años de cotización 55%
+
+21 años de cotización 57%
+
+22 años de cotización 59%
+
+23 años de cotización 61%
+
+24 años de cotización 63%
+
+25 años de cotización 65%
+
+26 años de cotización 69%
+
+27 años de cotización 73%
+
+28 años de cotización 77%
+
+29 años de cotización 81%
+
+30 años de cotización en adelante 85%
+
+Las pensiones que se refiere este artículo serán actualizadas cada año en los términos del artículo 16 de la presente Ley.
+
+SÉPTIMO.- Para ayudar a financiar única y exclusivamente el costo anual neto del Personal en Transición Ley 1983 a cargo del Gobierno del Estado, el Instituto podrá disponer de las cuotas y aportaciones obligatorias del Sistema Certificado para Jubilación correspondientes a las cuentas personales que se efectúen a partir de la entrada en vigor de la presente Ley, sin que se incluyan los recursos adicionales enterados por el servidor público, ni los que formen parte del fondo para la pensión garantizada, el Instituto no podrá disponer para otro fin lo señalado en el presente artículo.
+
+El Instituto no podrá disponer para este fin, de las reservas de las cuentas personales que se generaron por las cuotas, aportaciones y recursos adicionales enterados antes de la entrada en vigor de la presente Ley.
+
+Las cuentas personales de los servidores públicos amparados por el Sistema Certificado para Jubilación se podrán integrar de cuentas personales físicas y cuentas personales nocionales.
+
+El Instituto llevará un control contable de los saldos y rendimientos de las cuentas personales físicas y nocionales, mismo que deberá publicar de manera cuatrimestral en el portal del Instituto.
+
+El rendimiento que el Instituto retribuirá mensualmente a las cuentas personales nocionales, con cargo al Gobierno del Estado y en los plazos establecidos en los artículos transitorios de esta Ley, será de tres punto cinco por ciento real anual mensualizado y se calculará conforme a lo establecido en el Reglamento respectivo.
+
+El saldo de los fondos globales de las cuentas personales nocionales de los trabajadores que obtengan una renta vitalicia o retiro programado de acuerdo con esta Ley, continuará generando rendimientos de acuerdo con lo establecido en el párrafo anterior.
+
+El saldo de los fondos globales de las cuentas personales físicas de los trabajadores que obtengan una renta vitalicia o retiro programado de acuerdo con esta Ley, continuará generando rendimientos de acuerdo con lo establecido en el artículo 95 de esta Ley.
+
+OCTAVO.- Para los servidores públicos pertenecientes al personal en transición ley 1983, las cuotas y aportaciones a que se refieren la fracción II del artículo 22 y la fracción II del artículo 27 de esta Ley, serán equivalentes al 6% del salario base de cotización del servidor público a cargo de éste y del 6% del mismo salario base de cotización a cargo de las entidades públicas respectivamente. Las cuotas y aportaciones a que se refiere el presente artículo serán patrimonio del Instituto y se destinarán al pago de las pensiones del personal en transición Ley 1983. Los servidores públicos a que se refiere este artículo y las entidades públicas en las que laboren, no enterarán las cuotas y aportaciones correspondientes a las fracciones V del artículo 22 y V del artículo 27 de esta Ley destinadas para el fondo de pensión garantizada por jubilación.
+
+NOVENO.- El Gobierno del Estado, mediante partida presupuestal anual previamente autorizada, entregará al Instituto las cantidades suficientes para cubrir la diferencia entre el costo anual neto de transición 1983 y el monto correspondiente a la disposición de las cuotas y aportaciones mencionadas en el primer párrafo del artículo séptimo transitorio de esta Ley.
+
+En las partidas establecidas en el artículo 190 de esta Ley, está incluido lo dispuesto en el presente artículo.
+
+DÉCIMO.- A partir de la entrada en vigor de la presente Ley, el Gobierno del Estado, mediante partida presupuestal anual previamente autorizada, entregará al Instituto las cantidades suficientes para cubrir el monto de las cuentas personales nocionales y sus respectivos intereses calculados conforme al quinto párrafo del artículo séptimo transitorio de esta Ley, cuando las rentas vitalicias, retiros programados o la devolución de la cuenta personal, sean exigidos por los servidores públicos o sus beneficiarios que cumplan con los requisitos establecidos en esta Ley para obtenerlos. Lo anterior complementará, en su caso, a los recursos de la cuenta personal física de dichos servidores públicos.
+
+En las partidas establecidas en el artículo 190 de esta Ley, está incluido lo dispuesto en el presente artículo.
+
+Este artículo será aplicable desde la entrada en vigor de esta Ley y hasta el 31 de diciembre de 2028.
+
+DÉCIMO PRIMERO.- El Gobierno del Estado, entregará al Instituto, desde la entrada en vigor de la presente Ley y hasta el 31 de diciembre de 2028 la suma de los montos que resulten según lo establecido en los artículos noveno transitorio y el primer párrafo del décimo transitorio de esta Ley.
+
+En la primera quincena del año 2029, el Instituto calculará el porcentaje que hubiere representado el gasto realizado por el Gobierno del Estado durante el año 2028 en términos del párrafo anterior con respecto a la nómina de cotización del mismo año 2028.
+
+A partir de enero de 2029 y durante los ejercicios subsecuentes, el Gobierno del Estado, mediante partida presupuestal anual previamente autorizada, entregará al Instituto un monto equivalente al resultado de multiplicar el porcentaje mencionado en el párrafo anterior por la nómina de cotización de cada ejercicio. Dicho monto se utilizará para cubrir los conceptos establecidos en los artículos noveno transitorio y en el primer párrafo del décimo transitorio de esta Ley. El remanente se destinará para fondear paulatinamente las cuentas personales nocionales hasta el momento en que solo operen cuentas personales físicas, así mismo, a partir de estos plazos y si hubiere incumplimiento serán aplicables los intereses por mora señalados en el artículo treinta de la presente ley.
+
+A partir de que se encuentren totalmente fondeadas las cuentas personales del Sistema Certificado para Jubilación, el Gobierno del Estado dejará de cubrir el monto mencionado en el párrafo anterior y solo cubrirá, en su caso, los conceptos establecidos en el artículo noveno transitorio y las aportaciones obligatorias que señala esta Ley, extinguiéndose la obligación descrita en el primer párrafo del artículo décimo transitorio.
+
+En las partidas establecidas en el artículo 190 de esta Ley, está incluido lo dispuesto en el presente artículo.
+
+DÉCIMO SEGUNDO.- El monto de la pensión garantizada por jubilación para la generación de los servidores públicos provenientes del personal en transición Ley 1993, será el máximo entre el monto establecido en la fracción XXIII del artículo 3 de esta Ley y el equivalente al 40% de su salario regulador, más un 1.5% de dicho salario por cada año de servicio en exceso de 20, sin que esta pensión garantizada pueda exceder del 65% del mismo salario regulador. Esta pensión garantizada se otorgará siempre y cuando el servidor público cumpla con los requisitos establecidos en el artículo 83 de esta Ley.
+
+También tendrán derecho a la pensión garantizada por jubilación a que se refiere el párrafo anterior, aquellos servidores públicos que se hayan retirado amparados mediante el Sistema Certificado para Jubilación hasta antes de la entrada en vigor de la presente Ley y hubieran cumplido con los requisitos establecidos en el artículo 83 de esta Ley. Para lo anterior, el fondo de pensiones garantizadas por jubilación cubrirá, a partir de la entrada en vigor de la presente Ley, el diferencial entre dicha pensión garantizada por jubilación y el monto que hubiera resultado por concepto de renta vitalicia al momento de su retiro en el estudio actuarial correspondiente, actualizado con la inflación.
+
+DÉCIMO TERCERO.- Para efecto de lo establecido en el tercer párrafo del artículo 55, las Entidades Públicas harán la aportación correspondiente de manera gradual, iniciando con 1% durante el primer año de vigencia de esta Ley, incrementando en lo sucesivo un uno por ciento por cada año, hasta completar el 6%. En lo subsecuente se continuará con este mismo porcentaje del 6%.
+
+DÉCIMO CUARTO.- El estado de cuenta del Certificado para Jubilación de cada servidor público deberá contener lo siguiente: sus datos generales, número de cuenta personal, registro federal de contribuyentes, clave única del registro de población, entidad pública donde presta sus servicios, salario base de cotización, antigüedad, cuotas y aportaciones obligatorias, fondo físico, fondo nocional, subcuenta de vivienda, aportaciones adicionales, rendimientos y saldo acumulado a la fecha del corte de la información.
+
+DÉCIMO QUINTO. Posterior a la terminación de la vigencia del artículo DÉCIMO TRANSITORIO y considerando el posible impacto presupuestal, el Congreso deberá analizar la modificación del inciso b de la fracción IV del artículo 3, de la presente Ley con el fin de procurar la incorporación progresiva como beneficiarios de los esposos de las servidoras públicas independientemente de su edad y su estado de salud, siempre que estos no sean beneficiarios de otro servicio de salud.
+
+DÉCIMO SEXTO.- El Instituto, previa aprobación del Consejo Directivo, expedirá la reglamentación derivada de la presente ley en un plazo no mayor a noventa días naturales contados a partir de que entre en vigor el presente ordenamiento legal.
+
+DÉCIMO SÉPTIMO.- Para dar cumplimiento a lo establecido en el artículo 52 de esta ley, el Instituto elaborará el reglamento interno en un plazo de 90 días hábiles posterior a la entrada en vigor a que se refiere el artículo transitorio Décimo Octavo de este Decreto.
+
+DÉCIMO OCTAVO.- En materia de educación inicial o temprana como parte de la seguridad social a cargo del Instituto iniciará su vigencia a partir del 2023, las erogaciones que se generen con motivo de la entrada en vigor en materia de educación inicial o temprana, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al Instituto, en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrá a su cargo el Instituto.
+
+DÉCIMO NOVENO.- El Ejecutivo del Estado, el Instituto y el Congreso del Estado, en el ámbito de sus respectivas competencias, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial o temprana.
+
+VIGÉSIMO.- Los requisitos para ser Director General del Instituto contemplados en el Artículo 164, serán aplicables al nombramiento que se haga a partir de la entrada en vigor del presente Decreto.
