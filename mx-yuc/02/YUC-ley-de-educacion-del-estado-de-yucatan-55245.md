@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2020-05-22"
+last_updated: "2020-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "YUC"
 ---
 # LEY DE EDUCACION DEL ESTADO DE YUCATAN
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 29 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. SIN EMBARGO, LA SECCIÓN DÉCIMO PRIMERA DEL CAPÍTULO IV DEL TÍTULO CUARTO DEL PRESENTE ORDENAMIENTO CONTINUARÁ VIGENTE HASTA EN TANTO SE EXPIDE LA LEY GENERAL DE EDUCACIÓN SUPERIOR Y SE ARMONIZA EL MARCO JURÍDICO ESTATAL EN LA MATERIA.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -2596,3 +2598,51 @@ D.O. 22 DE MAYO DE 2020.
 Entrada en vigor.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 270/2020 POR EL QUE SE EMITE LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Abrogación de ley
+
+A partir de la entrada en vigor de este decreto quedará abrogada la Ley de Educación del Estado de Yucatán publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de abril del 2007. Sin embargo, la sección décimo primera del capítulo IV del título cuarto de la Ley de Educación del Estado de Yucatán continuará vigente hasta en tanto se expide la Ley General de Educación Superior y se armoniza el marco jurídico estatal en la materia.
+
+Tercero. Obligación normativa
+
+La Secretaría de Educación del Gobierno del Estado de Yucatán emitirá los lineamientos para el funcionamiento y operación del Sistema Educativo Estatal, que deberán ser concordantes con las disposiciones normativas que para el Sistema Educativo Nacional emita la autoridad educativa federal, dentro del año siguiente a la emisión de los lineamientos que regulen al Sistema Educativo Nacional.
+
+Cuarto. Obligación normativa
+
+Las autoridades educativas competentes deberán emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este decreto, en un plazo no mayor a un año contado a partir de su entrada en vigor. Hasta en tanto se emitan estas disposiciones continuarán aplicándose los que se encuentren en vigor, en lo que no contravengan lo establecido de este decreto.
+
+Quinto. Procedimientos y trámites pendientes
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Sexto. Reconocimientos de validez oficial previos
+
+Lo dispuesto en el artículo 143, párrafo tercero de la Ley de Educación del Estado de Yucatán, no será aplicado respecto de aquellos trámites iniciados con anterioridad a su entrada en vigor.
+
+Séptimo. Aptitudes y conocimientos de los trabajadores sociales
+
+Las autoridades educativas correspondientes dispondrán del periodo comprendido entre la publicación de este decreto y el inicio del ciclo escolar 2020-2021 para implementar los mecanismos de evaluación de aptitudes y conocimientos de los trabajadores sociales que se requieran en los planteles educativos del estado de Yucatán.
+
+Octavo. Infraestructura reducida
+
+Las escuelas de educación básica y nivel medio superior que cuenten con infraestructura reducida y solo puedan prestar atención educativa a veinte o veinticinco alumnos, seguirán funcionando de la misma forma sin aumento de alumnos en tanto no sean ampliadas en cuanto a su infraestructura y equipamiento adecuado para la atención de hasta treinta alumnos.
+
+Noveno. Erogaciones Adicionales.
+
+Las demás erogaciones que se generen con motivo de la entrada en vigor de este decreto, se realizarán con cargo a la disponibilidad presupuestal que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Decimo. Presupuesto para los trabajadores Sociales
+
+El Ejecutivo del estado deberá prever en su presupuesto de egresos de manera paulatina hasta el 2024 las partidas presupuestales necesarias que garanticen la contratación y pago de los trabajadores sociales que se requieran; así como celebrar convenios y acuerdos de colaboración para tal efecto.
+
+Décimo primero. Partidas presupuestarias
+
+El Poder Ejecutivo del Estado de forma gradual desde la entrada en vigor de este decreto hasta el año 2030, preverá en su Presupuesto de Egresos del Estado las partidas presupuestales necesarias para cubrir con la infraestructura escolar que se requiera para dar cumplimiento a lo establecido.
