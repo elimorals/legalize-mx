@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-de-la-ciudad-de-mexico-121815"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-07"
-last_updated: "2020-02-06"
+last_updated: "2020-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -58,11 +58,15 @@ LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. Ámbito de Aplicación e Interpretación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en ésta ley son de orden público y de observancia obligatoria y general en toda la Ciudad de México y para los ciudadanos que ejerzan sus derechos político electorales en territorio extranjero. Para los efectos de esta ley, se entenderá por:
+Las disposiciones contenidas en esta ley son de orden público y de observancia obligatoria y general en toda la Ciudad de México y para las ciudadanas y ciudadanos que ejerzan sus derechos político electorales en territorio extranjero. Para los efectos de esta ley, se entenderá por:
 
-I. Candidato a cargo electivo: Aquella persona que en materia de participación ciudadana es elegible para ser integrante de los Comités y Consejos de los Pueblos.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+I. Persona candidata a cargo electivo: Aquella persona que en materia de participación ciudadana es elegible para ser integrante de los Comités y Consejos de los Pueblos;
 
 II. Código: El Código de Instituciones y Procedimientos Electorales de la Ciudad de México;
 
@@ -74,25 +78,61 @@ V. Consejo General: Consejo General del Instituto Electoral de la Ciudad de Méx
 
 VI. Comisión: Comisión de controversias Laborales y Administrativas del Tribunal Electoral de la Ciudad de México;
 
-VII. Gaceta Oficial: La Gaceta Oficial de la Ciudad de México;
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-VIII. Instituto: Instituto Electoral de la Ciudad de México;
+VII. El derecho de igualdad política entre mujeres y hombres: Aquel que se garantiza con la integración cualitativa y cuantitativa de 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical;
 
-IX. Instrumentos de participación ciudadana: Los previstos expresamente en la Ley de Participación, como competencia del Tribunal;
+VIII. Gaceta Oficial: La Gaceta Oficial de la Ciudad de México;
 
-X. Ley de Participación: Ley de Participación Ciudadana de la Ciudad de México;
+IX. Instituto: Instituto Electoral de la Ciudad de México;
 
-XI. Pleno: Pleno del Tribunal Electoral de la Ciudad de México;
+X. Instrumentos de participación ciudadana: Los previstos expresamente en la Ley de Participación, como competencia del Tribunal;
 
-XII. Proceso democrático: El organizado por una autoridad de la Ciudad de México que tenga por objeto consultar a la ciudadanía o someter a elección algún cargo o decisión, siempre y cuando, guarden similitud con alguna o algunas etapas de los procesos electorales constitucionales;
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-XIII. Proceso electivo: El relativo a la renovación de los Comités Ciudadanos, los Consejos de los Pueblos y demás procedimientos de participación ciudadana previstos en la ley de la materia;
+XI. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
 
-XIV. Proceso electoral: El relativo a la renovación periódica por voto universal, libre, secreto y directo de la Jefatura de Gobierno, Diputaciones al Congreso de la Ciudad de México, Alcaldías y Concejales. Se considerarán también aquellos relativos a la renovación de cargos de elección popular en los pueblos y barrios originarios y comunidades indígenas, mediante el sistema de usos y costumbres, cuando guarden similitud con las etapas de los procesos electorales constitucionales;
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-XV. Reglamento Interior: Reglamento Interior del Tribunal Electoral de la Ciudad de México; y
+XII. Ley de Acceso: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México;
 
-XVI. Tribunal: Tribunal Electoral de la Ciudad de México.
+XIII. Ley de Participación: Ley de Participación Ciudadana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XIV. Paridad de género: Es el principio constitucional que ordena el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político electorales. El derecho de igualdad política entre mujeres y hombres, que se garantiza con la integración cualitativa y cuantitativa del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XV. Paridad de género horizontal. Obligación que tienen los partidos políticos de postular en igualdad de porcentajes a los géneros femenino y masculino que encabezan las fórmulas de diputaciones, alcaldías o planillas para las concejalías en todos los distritos electorales de la ciudad de México;
+
+XVI. Pleno: Pleno del Tribunal Electoral de la Ciudad de México;
+
+XVII. Proceso democrático: El organizado por una autoridad de la Ciudad de México que tenga por objeto consultar a la ciudadanía o someter a elección algún cargo o decisión, siempre y cuando, guarden similitud con alguna o algunas etapas de los procesos electorales constitucionales;
+
+XVIII. Proceso electivo: El relativo a la renovación de los Comités Ciudadanos, los Consejos de los Pueblos y demás procedimientos de participación ciudadana previstos en la ley de la materia;
+
+XIX. Proceso electoral: El relativo a la renovación periódica por voto universal, libre, secreto y directo de la Jefatura de Gobierno, Diputaciones al Congreso de la Ciudad de México, Alcaldías y Concejales. Se considerarán también aquellos relativos a la renovación de cargos de elección popular en los pueblos y barrios originarios y comunidades indígenas, mediante el sistema de usos y costumbres, cuando guarden similitud con las etapas de los procesos electorales constitucionales;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XX. Reglamento Interior: Reglamento Interior del Tribunal Electoral de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XXI. Tribunal: Tribunal Electoral de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XXII. Violencia política contra las mujeres en razón de género: es toda acción, conducta u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXII, G.O. 29 DE JULIO DE 2020.]</small>
+
+La violencia política basada en género y la violencia política contra las mujeres constituyen una forma de discriminación de los espacios de poder y de decisión; fomenta la desigualdad y transgrede los derechos políticos y civiles de las mujeres.
 
 El servicio de la Gaceta Oficial de la Ciudad de México será gratuito para todas las publicaciones del Tribunal Electoral y no podrá cobrarse ninguna cantidad por ningún concepto o condicionarse alguna publicación por cualquier motivo o causa.
 
@@ -116,25 +156,97 @@ Para la sustanciación y resolución de dichos procedimientos serán aplicables,
 
 Para la investigación y determinación de sanciones por presuntas faltas cometidas a las disposiciones electorales por los Partidos Políticos, las candidaturas sin partido, la ciudadanía, observadoras u observadores electorales y en general cualquier sujeto bajo el imperio de las mismas, el Instituto Electoral iniciará el trámite y sustanciación de alguno de los siguientes procedimientos:
 
-I. Procedimiento Ordinario Sancionador Electoral. Procede cuando a instancia de parte o de oficio, el Instituto Electoral tenga conocimiento de la comisión de conductas infractoras de los sujetos obligados. Se encontrará sujeto al principio dispositivo, que faculta a las partes a instar al órgano competente para la apertura de la instancia y a ofrecer las pruebas que estime conducentes. El procedimiento ordinario sancionador electoral será aplicable por faltas cometidas dentro y fuera de los procesos electorales, con excepción de las señaladas en el procedimiento especial sancionador electoral. Dicho procedimiento será resuelto por el Consejo General del Instituto Electoral; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+I. Procedimiento Ordinario Sancionador Electoral. Procede cuando a instancia de parte o de oficio, el Instituto Electoral tenga conocimiento de la comisión de conductas infractoras de los sujetos obligados. Se encontrará sujeto al principio dispositivo, que faculta a las partes a instar al órgano competente para la apertura de la instancia y a ofrecer las pruebas que estime conducentes. El procedimiento ordinario sancionador electoral será aplicable por faltas cometidas dentro y fuera de los procesos electorales, incluido el incumplimiento de la aplicación de los protocolos de atención (sic) erradicación de la Violencia Política contra las Mujeres en Razón de Género, con excepción de las señaladas en el procedimiento especial sancionador electoral. Dicho procedimiento será resuelto por el Consejo General del Instituto Electoral; y
 
 II. Procedimiento Especial Sancionador Electoral. Será instrumentado dentro del proceso electoral respecto de las conductas contrarias a la norma electoral; es primordialmente inquisitivo y el órgano instructor tiene la facultad de investigar los hechos por todos los medios legales a su alcance, sin que deba sujetarse únicamente a las pruebas allegadas al procedimiento por las partes. Dicho procedimiento será resuelto por el Tribunal Electoral. El Procedimiento Especial Sancionador Electoral será instrumentado en los casos siguientes:
 
 a) La Comisión de Fiscalización del Instituto Electoral, en el caso de que el Instituto Nacional delegue dicha función podrá llevar a cabo los procedimientos de investigación conforme a la normatividad aplicable.
 
-b) Por propaganda política o electoral de partidos políticos, candidatas o candidatos sin partidos que calumnie a las instituciones, a los propios partidos políticos o a las personas. En este caso, la queja o denuncia solo procederá a instancia de parte;
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
 
-c) Cuando las denuncias tengan como motivo la comisión de conductas referidas a la confección, colocación o al contenido de propaganda o de cualquier otra diferente a la transmitida por radio o televisión; y
+b) Por propaganda política o electoral de partidos políticos, candidatas o candidatos sin partidos que calumnie o constituyan actos o expresiones de violencia política contra las mujeres en razón de género, que degraden o discriminen a las instituciones, a los propios partidos políticos o a las personas. En este caso, la queja o denuncia solo procederá a instancia de parte;
 
-d) Por actos anticipados de precampaña o campaña.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
 
-Cuando se tenga conocimiento de faltas que contravengan lo señalado en la Base III del artículo 41 de la Constitución Federal y las que se refieren en general a irregularidades e incumplimientos sobre presuntas contrataciones y adquisiciones de la persona que ostente las candidaturas sin partido, partidos políticos o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; la propaganda política o electoral de partidos políticos que calumnie a las personas o a las instituciones y los partidos políticos; así como a publicidad de gobierno emitida durante las campañas en los medios electrónicos, la Secretaría Ejecutiva, realizará las diligencias necesarias para recabar la información que haga presumir la conducta y los presentará al Consejo General, quien determinará si hace suya la denuncia y la formula al Instituto Nacional, a través de la Secretaría del Consejo.
+c) Cuando las denuncias tengan como motivo la comisión de conductas referidas a la confección, colocación o al contenido de propaganda o de cualquier otra diferente a la transmitida por radio o televisión;
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+d) Por actos anticipados de precampaña o campaña; y
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+e) Por quejas o denuncias por violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Cuando se tenga conocimiento de faltas que contravengan lo señalado en la Base III del artículo 41 de la Constitución Federal y las que se refieren en general a irregularidades e incumplimientos sobre presuntas contrataciones y adquisiciones de la persona que ostente las candidaturas sin partido, partidos políticos o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; la propaganda política o electoral de partidos políticos que calumnie o constituyan actos o expresiones de violencia política contra las mujeres en razón de género o que degraden, denigren o discriminen a las personas o a las instituciones y los partidos políticos; así como a publicidad de gobierno emitida durante las campañas en los medios electrónicos, la Secretaría Ejecutiva, realizará las diligencias necesarias para recabar la información que haga presumir la conducta y los presentará al Consejo General, quien determinará si hace suya la denuncia y la fórmula al Instituto Nacional, a través de la Secretaría del Consejo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 29 DE JULIO DE 2020)</small>
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la legislación electoral, por parte de los sujetos de responsabilidad señalados en el artículo 442 de la Ley General y/o 7 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+a) Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+b) Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+c) Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+d) Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+e) Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad, y
+
+f) Cualesquiera otras acciones que lesionen o dañen la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales, en términos de la Ley de Acceso, la Ley General y este Código.
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 4.
 
 Cuando algún órgano del Instituto Electoral reciba una queja o denuncia o tenga conocimiento de la probable comisión de infracciones en materia electoral, deberá informarlo y turnar el escrito correspondiente a la Secretaría Ejecutiva quien realizará las actuaciones previas en coadyuvancia de la Dirección Ejecutiva de Asociaciones Políticas y pondrá a consideración de la Comisión correspondiente el proyecto de acuerdo que corresponda.
 
-La Comisión aprobará el inicio del procedimiento o, en su caso, el desechamiento, turnando el expediente a la Secretaría Ejecutiva quien a través de la Dirección Ejecutiva de Asociaciones Política llevará a cabo la sustanciación del procedimiento en los plazos y con las formalidades señaladas en la normativa que al efecto emita el Consejo General.
+El escrito de denuncia en los procedimientos sancionadores deberá contener lo siguiente:
+
+a) Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+b) Nombre de la persona señalada como probable responsable;
+
+c) Domicilio para oír y recibir notificaciones;
+
+d) Narración expresa de los hechos en que se basa la denuncia;
+
+e) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrá de requerir la autoridad, por no tener posibilidad de recabarlas;
+
+f) En su caso, las medidas cautelares y de protección, de manera inmediata.
+
+g) En caso de que la persona promovente actúe por medio de una o un representante, quien ejerza el mandato deberá presentar las constancias originales o, en su defecto, copias certificadas con las que acredite dicha representación. Tratándose de las representaciones de las asociaciones políticas acreditadas ante el Instituto, no será necesario que exhiban documento alguno para demostrar su personería.
+
+La Secretaría Ejecutiva propondrá a la Comisión el inicio oficioso de un procedimiento sancionador, cuando se tenga conocimiento del incumplimiento de las medidas cautelares ordenadas por esta autoridad o por hechos relacionados con violencia política contra las mujeres en razón de género.
+
+La Comisión aprobará el inicio del procedimiento o, en su caso, el desechamiento, turnando el expediente a la Secretaría Ejecutiva quien a través de la Dirección Ejecutiva de Asociaciones Política (sic) llevará a cabo la sustanciación del procedimiento en los plazos y con las formalidades señaladas en la normativa que al efecto emita el Consejo General.
+
+En los casos de violencia política en razón de género y aquellos en los que se soliciten medias (sic) cautelares o de protección la Comisión deberá determinar sobre la adopción de las mismas en el plazo de veinticuatro horas. Las medidas pueden ser sometidas a consideración de la Comisión en todo momento por integrantes de la Comisión, por la Secretaría Ejecutiva o por las partes.
+
+La medida cautelar es el acto procedimental determinado por la Comisión a fin de preservar provisionalmente la materia sobre la que se resolverá el fondo del asunto, lograr la cesación de los actos o hechos que constituyan a la presunta infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en el Código, hasta en tanto se emita la resolución definitiva que ponga fin al procedimiento.
+
+Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+a) Realizar análisis de riesgos y un plan de seguridad;
+
+b) Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+c) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+d) Ordenar la suspensión del cargo partidista, de la persona agresora; y
+
+e) Cualquier otra requerida para la protección de la mujer víctima, o de quien ella solicite.
+
+Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+En el caso de que la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales, de inmediato la remitirán a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
+
+Cuando las denuncias presentadas sean en contra de alguna persona servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que inicien los procedimientos a que haya lugar y, en su caso, apliquen las sanciones que correspondan en términos de la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
 En la tramitación de los procedimientos sancionadores, serán admitidas las siguientes pruebas:
 
@@ -160,15 +272,19 @@ Una vez sustanciado dicho procedimiento, la Secretaria o Secretario Ejecutivo ac
 
 El Reglamento que expida el Consejo General a fin de establecer las características de los procedimientos administrativos sancionadores, deberá considerar cuando menos los siguientes aspectos:
 
-I. La obligación de quien recibe una queja o denuncia de turnarla de inmediato a la Secretaría Ejecutiva para que ponga a consideración de la Comisión el acuerdo correspondiente, así como el emplazamiento a los probables responsables para que en el plazo de cinco días hábiles, contados a partir del siguiente a que la notificación haya surtidos sus efectos, contesten por escrito lo que a su derecho convenga y, en su caso, aporten las pruebas que consideren pertinentes. Si se ofrece la pericial contable, ésta será con cargo a la parte promovente;
+I. La obligación de quien recibe una queja o denuncia de turnarla de inmediato a la Secretaría Ejecutiva para que ponga a consideración de la Comisión el acuerdo correspondiente, así como el emplazamiento a las personas probables responsables para que en el plazo de cinco días hábiles, contados a partir del siguiente a que la notificación haya surtidos (sic) sus efectos, contesten por escrito lo que a su derecho convenga y, en su caso, aporten las pruebas que consideren pertinentes. Si se ofrece la pericial contable, ésta será con cargo a la parte promovente;
 
-II. El establecimiento de las medidas de apremio y cautelares, así como su tramitación para el debido cumplimiento de las obligaciones derivadas del procedimiento; III (sic). La mención de que los medios de prueba deberán ser exhibidas junto con el escrito en el que se comparezca al procedimiento. Ninguna prueba aportada fuera del plazo previsto para ello será tomada en cuenta, excepto las supervenientes;
+II. El establecimiento de las medidas de apremio y cautelares, así como su tramitación para el debido cumplimiento de las obligaciones derivadas del procedimiento;
 
-III. Que para la integración del expediente, se podrá solicitar la información y documentación con que cuenten las instancias competentes del propio instituto electoral, otras autoridades, así como a personas físicas o jurídicas;
+III. La mención de que los medios de prueba deberán ser exhibidas (sic) junto con el escrito en el que se comparezca al procedimiento. Ninguna prueba aportada fuera del plazo previsto para ello será tomada en cuenta, a excepción de las supervenientes;
 
-IV. El establecimiento de los plazos máximos para la sustanciación de la queja y los relativos para la formulación y presentación del proyecto de resolución correspondiente al Consejo General para su determinación;
+IV. Que para la integración del expediente, se podrá solicitar la información y documentación (sic)
 
-V. Para la determinación de la sanción correspondiente, se tomará en cuenta los siguientes elementos:
+con que cuenten las instancias competentes del propio instituto electoral, otras autoridades, así como a personas físicas o jurídicas;
+
+V. El establecimiento de los plazos máximos para la sustanciación de la queja, que en los casos de violencia política contra las mujeres en razón de género, no podrán exceder de quince días, contados a partir de que la Comisión acuerde su inicio y los relativos para la formulación y presentación del proyecto de resolución correspondiente al Consejo General para su determinación;
+
+VI. Para la determinación de la sanción correspondiente, se tomará en cuenta los siguientes elementos:
 
 a) La gravedad de la infracción;
 
@@ -178,11 +294,21 @@ c) La responsabilidad; y
 
 d) Las circunstancias subjetivas y la finalidad de la sanción.
 
-VI. Tratándose de procedimientos ordinarios, cuando el proyecto de resolución que se someta a consideración del Consejo General y a juicio de éste, deba ser complementado, se devolverá al órgano que conoce del asunto para que una vez desahogadas las diligencias necesarias para mejor proveer, se formule un nuevo proyecto de resolución.
+VII. Tratándose de procedimientos ordinarios, cuando el proyecto de resolución que se someta a consideración del Consejo General y a juicio de éste, deba ser complementado, se devolverá al órgano que conoce del asunto para que una vez desahogadas las diligencias necesarias para mejor proveer, se formule un nuevo proyecto de resolución.
 
-VII. Que, tratándose de procedimientos especiales, una vez sustanciado el expediente respectivo, deberá remitirse al Tribunal a fin de que el órgano jurisdiccional resuelva lo conducente, señalando las reglas para su remisión.
+VIII. Que, tratándose de procedimientos especiales, una vez sustanciado el expediente respectivo, deberá remitirse al Tribunal a fin de que el órgano jurisdiccional resuelva lo conducente, señalando las reglas para su remisión.
 
-VIII. Al expediente que sea remitido al Tribunal, deberá incorporarse un dictamen elaborado por la Secretaría Ejecutiva, que deberá contener lo siguiente:
+En la resolución de procedimientos especiales, por violencia política contra las mujeres en razón de género, se deberán ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+a) Indemnización de la víctima;
+
+b) Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia política;
+
+c) Disculpa pública,
+
+d) Medidas de no repetición.
+
+IX. Al expediente que sea remitido al Tribunal, deberá incorporarse un dictamen elaborado por la Secretaría Ejecutiva, que deberá contener lo siguiente:
 
 a) La relatoría de los hechos que dieron motivo a la queja o denuncia;
 
@@ -290,9 +416,15 @@ XVII. Promover la imagen de una candidatura o de un Partido Político en propaga
 
 XVIII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, partidos políticos o a las personas;
 
-XIX. El incumplimiento de las demás disposiciones previstas en el Código en materia de precampañas y campañas electorales; y
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-XX. La comisión de cualquier otra falta de las previstas en el Código.
+XIX. Menoscabar, limitar, restringir, anular, obstaculizar, excluir, afectar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley, la Ley General y de la Ley de Acceso;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XX. El incumplimiento de las demás disposiciones previstas en el Código en materia de precampañas y campañas electorales, y
+
+XXI. La comisión de cualquier otra falta de las previstas en el Código.
 
 ###### Artículo 9.
 
@@ -312,9 +444,15 @@ VI. No informar al Instituto Electoral sobre las modificaciones a su declaració
 
 VII. Contratar por sí mismo o por interpósita persona espacios en radio y televisión;
 
-VIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-IX. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en el Código.
+VIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+IX. El incumplimiento a las obligaciones de paridad de género y para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, y
+
+X. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en el Código.
 
 ###### Artículo 10.
 
@@ -334,9 +472,15 @@ VI. Colocar propaganda en lugares expresamente prohibidos por el Código y otras
 
 VII. Contratar por sí mismo o por interpósita persona espacios en radio y televisión;
 
-VIII. No usar el material previsto por el Código para la confección o elaboración de propaganda electoral; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-IX. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
+VIII. No usar el material previsto por el Código para la confección o elaboración de propaganda electoral;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+IX. Menoscabar, limitar o impedir el ejercicio de derechos político electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso; y
+
+X. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
 
 ###### Artículo 11.
 
@@ -370,11 +514,19 @@ XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiemp
 
 XIV. Colocar propaganda en lugares expresamente prohibidos por el Código y otras disposiciones administrativas y de protección al medio ambiente;
 
-XV. Contratar por sí mismo o por interpósita persona espacios en radio y televisión;
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-XVI. No usar el material previsto en el Código para la confección o elaboración de propaganda electoral; y
+XV. El incumplimiento a las obligaciones de paridad de género y para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
 
-XVII. El incumplimiento de cualquiera de las disposiciones contenidas en el Código y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 29 DE JULIO DE 2020)</small>
+
+XVI. Contratar por sí mismo o por interpósita persona espacios en radio y televisión;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE JULIO DE 2020)</small>
+
+XVII. Menoscabar, limitar o impedir el ejercicio de derechos político electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso, y
+
+XVIII. El incumplimiento de cualquiera de las disposiciones contenidas en el Código y demás disposiciones aplicables.
 
 ###### Artículo 12.
 
@@ -400,9 +552,15 @@ III. El incumplimiento del principio de imparcialidad establecido por el artícu
 
 IV. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
 
-V. La utilización de programas sociales y de sus recursos del ámbito local, con la finalidad de inducir o coaccionar a la ciudadanía para votar a favor o en contra de cualquier partido político o candidatura; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
+V. La utilización de programas sociales y de sus recursos del ámbito local, con la finalidad de inducir o coaccionar a la ciudadanía para votar a favor o en contra de cualquier partido político o candidatura;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+VI. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de la Ley General, esta Ley y la Ley de Acceso; y
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
 
 ###### Artículo 16.
 
@@ -440,7 +598,11 @@ b) Multa de hasta cincuenta mil Unidades de Medida y Actualización, según la g
 
 c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
-d) En los casos de graves y reiteradas conductas violatorias de la Constitución Federal, la Ley General de Partidos Políticos y del Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político.
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+d) Cuando exista sentencia condenatoria por delitos de Violencia Política Contra las Mujeres, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, y no podrá participar en el siguiente proceso electoral;
+
+e) En los casos de graves y reiteradas conductas violatorias de la Constitución Federal, la Ley General de Partidos Políticos y del Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político.
 
 II. Respecto de las agrupaciones políticas locales:
 
@@ -450,7 +612,9 @@ b) Multa de hasta mil Unidades de Medida y Actualización, según la gravedad de
 
 c) La suspensión de su registro, en cuyo caso no podrá ser menor a cuatro meses, ni mayor a un año; y
 
-d) La cancelación de su registro.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+d) La cancelación de su registro cuando exista sentencia condenatoria por conductas que sean consideradas delitos de Violencia Política Contra las Mujeres.
 
 III. Respecto de las precandidaturas y candidaturas a cargos de elección popular:
 
@@ -458,7 +622,9 @@ a) Con amonestación;
 
 b) Con multa de hasta cinco mil Unidades de Medida y Actualización; y
 
-c) Con la pérdida del derecho de la precandidatura infractora a ser registrada como candidatura o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas quien ostente las precandidaturas a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando la precandidata o precandidato resulte electo en el proceso interno, el partido político no podrá registrar su candidatura.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Ante sentencia condenatoria por delitos de Violencia Política Contra las Mujeres, con la pérdida del derecho de la precandidatura infractora a ser registrada como candidatura o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones sean cometidas por quien ostente las precandidaturas a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando la precandidata o precandidato resulte electo en el proceso interno, el partido político no podrá registrar su candidatura.
 
 IV. Respecto de las y los aspirantes o las y los candidatos sin partido:
 
@@ -466,7 +632,9 @@ a) Amonestación;
 
 b) Multa de hasta cinco mil Unidades de Medida y Actualización;
 
-c) Pérdida del derecho de la o el aspirante infractor a ser registrado como candidata o candidato sin partido o, en su caso, si ya hubiera sido registrado, con la cancelación de la candidatura;
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Pérdida del derecho de la o el aspirante infractor a ser registrado como candidata o candidato sin partido o, en su caso, si ya hubiera sido registrado, con la cancelación de la candidatura, cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres;
 
 d) En caso de que la o el aspirante omita informar y comprobar a la unidad de fiscalización del Instituto los gastos tendentes a recabar el apoyo ciudadano, no se podrá registrar en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable; y
 
@@ -476,11 +644,15 @@ V. Respecto de la ciudadanía, de la dirigencia y militancia de los partidos pol
 
 a) Amonestación;
 
-b) Respecto de la ciudadanía, de la dirigencia y militancia a los partidos políticos, con multa de hasta quinientas Unidades de Medida y Actualización y en el caso de aportaciones que violen lo dispuesto en el Código.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+b) Respecto de la ciudadanía, de la dirigencia y militancia a los partidos políticos, y cuando se trate de incumplimiento de las obligaciones para Prevenir, Atender y Erradicar la Violencia Política Contra las Mujeres en Razón de Género y en los casos de Violencia Política contra las Mujeres en Razón de Género, con multa de hasta quinientas Unidades de Medida y Actualización y en el caso de aportaciones que violen lo dispuesto en el Código.
 
 VI. Respecto de las personas morales por las conductas señaladas en la fracción anterior:
 
-a) Multa de hasta cien mil días Unidades de Medida y Actualización, en el caso de aportaciones que violen lo dispuesto en el Código.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+a) Multa de hasta cien mil días Unidades de Medida y Actualización, en el caso de aportaciones que violen lo dispuesto en el Código y cuando se trate de incumplimiento de las obligaciones para Prevenir, Atender y Erradicar la Violencia Política Contra las Mujeres en Razón de Género y en los casos de Violencia Política contra las Mujeres en Razón de Género.
 
 VII. Respecto de las observadoras y observadores electorales u organizaciones de observación electoral:
 
@@ -488,7 +660,9 @@ a) Amonestación;
 
 b) Multa de hasta doscientas Unidades de Medida y Actualización; y
 
-c) Cancelación inmediata de la acreditación como observadoras u observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales, según sea el caso.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Cancelación inmediata de la acreditación como observadoras u observadores electorales y la inhabilitación para acreditarles como tales en al menos dos procesos electorales, según sea el caso, cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres;
 
 VIII. Respecto de las organizaciones ciudadanas que pretendan constituir partidos políticos:
 
@@ -496,7 +670,9 @@ a) Amonestación;
 
 b) Multa de hasta dos mil quinientas Unidades de Medida y Actualización, según la gravedad de la falta; y
 
-c) Cancelación del procedimiento tendente a obtener el registro como partido político local.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Con la cancelación del procedimiento tendente a obtener el registro como partido político local cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres;
 
 IX. Respecto de funcionarias o funcionarios electorales procederá sancionar, de conformidad con lo siguiente:
 
@@ -504,7 +680,9 @@ a) Amonestación;
 
 b) Suspensión;
 
-c) Destitución del cargo; y
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Destitución del cargo cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres; y
 
 d) Multa hasta de cien veces la Unidades de Medida y Actualización.
 
@@ -1638,7 +1816,9 @@ VIII. Cuando el partido político, coalición, candidatura común o candidatura 
 
 IX. Cuando el partido político, coalición, candidatura común o candidatura sin partido reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
-X. Cuando se acredite la existencia de violencia política y violencia política de género. Incluyendo los procesos electivos de participación ciudadana, el Tribunal deberá, además, dar vista a las autoridades correspondientes; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+X. Cuando se acredite la existencia de la violación a los derechos humanos de la ciudadanía en materia político electoral, en forma individual o colectiva, las obligaciones relativas al principio de paridad de género o por actos constitutivos de violencia política contra las mujeres en razón de género. Incluyendo los procesos electivos de participación ciudadana, el Tribunal deberá, además, dar vista a las autoridades correspondientes; y
 
 XI. Cuando se acredite la compra o coacción del voto, así como el empleo de programas sociales y gubernamentales con la finalidad de obtención del voto. El Tribunal deberá, además, dar vista a las autoridades correspondientes.
 
@@ -1740,11 +1920,23 @@ Cuando el Instituto acuerde la utilización de dispositivos electrónicos para l
 
 El juicio para la protección de los derechos político–electorales de la ciudadanía en esta entidad, tiene por objeto la protección de los derechos político-electorales, cuando las ciudadanas y los ciudadanos por sí mismos y en forma individual, haga valer presuntas violaciones, entre otros, a los derechos siguientes:
 
-I. Votar y ser votado;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-II. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la ciudad; y
+I. Votar y ser votada o votado;
 
-III. Afiliarse libre e individualmente a las asociaciones políticas, siempre y cuando se hubieren reunido los requisitos constitucionales y los que se señalan en las leyes para el ejercicio de esos derechos.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+II. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la ciudad;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+III. En contra de sanciones impuestas por algún órgano del Instituto Electoral o de un partido político, siempre y cuando implique violación a un derecho político-electoral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE JULIO DE 2020)</small>
+
+IV. Paridad de género.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE JULIO DE 2020)</small>
 
 Asimismo, podrá ser promovido:
 
@@ -1752,9 +1944,17 @@ I. En contra de actos o resoluciones de las autoridades partidistas durante los 
 
 II. En controversias que se susciten entre diversos órganos partidistas en la Ciudad de México;
 
-III. En contra de sanciones impuestas por algún órgano del Instituto Electoral o de un partido político, siempre y cuando implique violación a un derecho político - electoral; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-IV. En las controversias que deriven de los procesos de participación ciudadana expresamente previstos en la ley de la materia como competencia del Tribunal, siempre y cuando se hagan valer presuntas violaciones a sus derechos político-electorales.
+III. En contra de sanciones impuestas por algún órgano del Instituto Electoral o de un partido político, siempre y cuando implique violación a un derecho político-electoral;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+IV. En las controversias que deriven de los procesos de participación ciudadana expresamente previstos en la ley de la materia como competencia del Tribunal, siempre y cuando se hagan valer presuntas violaciones a sus derechos político-electorales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE JULIO DE 2020)</small>
+
+V. En contra de cualquier acto u omisión que transgreda los derechos humanos de las personas en el ámbito político-electoral, de forma individual o colectiva, incluyendo los que actualicen violencia política contra las mujeres en razón de género, en los términos establecidos en la Constitución, la Ley General, la Ley de Acceso, esta Ley y el Código.
 
 Para el efecto de restituir a las ciudadanas o ciudadanos en el derecho político electoral violado, el Tribunal tendrá amplias facultades para decretar la nulidad de los procesos electivos, democráticos, e internos de los partidos políticos y de las agrupaciones políticas, así como en las controversias que surjan entre sus órganos.
 
@@ -2873,3 +3073,23 @@ TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido 
 CUARTO.- El Pleno del Tribunal Electoral de la Ciudad de México deberá emitir las reglas del sistema de notificaciones electrónicas y realizar las acciones necesarias y presupuestales para su implementación en el ámbito de sus atribuciones, con motivo del trámite, sustanciación y resolución de los medios de impugnación previstos en la Ley Procesal Electoral de la Ciudad de México, el cual deberá entrar en funcionamiento hasta antes que inicie el proceso electoral local ordinario de 2020-2021, contados a partir de la entrada en vigor del presente Decreto.
 
 QUINTO.- El Consejo General del Instituto Electoral de la Ciudad de México emitirá las reglas del sistema de notificaciones electrónicas y realizará las acciones necesarias y presupuestales para su implementación en el ámbito de sus atribuciones, con motivo de la instrucción de los procedimientos sancionadores ordinario y especial, así como de la resolución del Procedimiento Ordinario Sancionador Electoral, previstos en la Ley Procesal Electoral de la Ciudad de México, el cual deberá entrar en funcionamiento hasta antes que inicie el proceso electoral local ordinario de 2020-2021, contados a partir de la entrada en vigor de este Decreto.
+
+G.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO.- Para los efectos de lo dispuesto en los artículos 63, fracción XII; y 94, fracción I, las unidades referidas contarán con un plazo de 30 días hábiles para proponer al Consejo General los programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y no discriminación, respeto y promoción a los derechos humanos de las mujeres en el ámbito político; así como elaborar, proponer y coordinar programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y respeto a los derechos humanos de las mujeres en el ámbito político, respectivamente.
+
+QUINTO.- Se derogan todas las disposiciones del Código de Instituciones y Procedimientos Electorales y de la Ley Procesal Electoral, ambos ordenamientos de la Ciudad de México, que se opongan al contenido del presente Decreto.
+
+SEXTO.- Los subsecuentes nombramientos que se lleven a cabo con motivo de la aplicación de las leyes e instancias a que hace referencia el presente Decreto, deberán realizarse garantizando el principio de paridad de género.
+
+SÉPTIMO.- Para garantizar el principio de paridad de género en la postulación de candidaturas a los cargos de elección popular en los próximos procesos electorales, el Instituto Electoral aplicará los lineamientos utilizados en el Proceso Electoral Ordinario 2017-2018.
+
+Los Distritos Electorales y Demarcaciones Territoriales se ordenarán de mayor a menor conforme al porcentaje de votación obtenido en el proceso electoral anterior, y se dividirán en tres bloques de competitividad, y en caso de remanente, éste se considerará en el bloque de competitividad alta.
