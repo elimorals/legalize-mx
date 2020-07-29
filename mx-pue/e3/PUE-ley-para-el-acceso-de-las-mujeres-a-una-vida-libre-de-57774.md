@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-04-03"
+last_updated: "2020-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -51,11 +51,13 @@ LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PU
 
 Las disposiciones de esta Ley son de orden público, interés social, observancia general y tienen por objeto establecer la coordinación entre el Estado y los Municipios, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como los principios, tipos, modalidades y mecanismos para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia y el desarrollo integral y sustentable.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 2.
 
-El Estado y los Municipios, en el ámbito de sus respectivas competencias, garantizarán el ejercicio pleno del derecho de las mujeres a una vida libre de violencia, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado Mexicano.
+Los Poderes Ejecutivo, Legislativo y Judicial del Estado, los organismos descentralizados y autónomos, así como los Ayuntamientos, deberán garantizar en el ámbito de su respectiva competencia, el ejercicio pleno del derecho de las mujeres a una vida libre de violencia, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en materia de derechos humanos, y de los derechos político-electorales de las mujeres, ratificados por el Estado Mexicano.
 
-El Estado y los Municipios deberán coadyuvar con la Federación para garantizar el derecho a que se refiere el párrafo anterior, en términos de la legislación aplicable.
+Las autoridades gubernamentales señaladas en este artículo deberán coadyuvar con la Federación para garantizar el derecho a que se refiere el párrafo anterior, en términos de la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -299,11 +301,11 @@ La violencia contra las mujeres en el ámbito laboral, consiste en la privación
 
 La violencia contra las mujeres en el ámbito docente, consiste en aquellas conductas lesivas, motivadas por razones de género, que pueden dañar la autoestima de las mujeres por motivos de discriminación en razón de su sexo, edad, condición social, académica, limitaciones y/o características físicas, así como la obstaculización en el ejercicio de los derechos que le corresponden como madre de familia, en términos de la Ley General de Educación, causadas por el personal con funciones de dirección, supervisión y docente, en todos los niveles educativos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 16.
 
-El Estado y los municipios en ejercicio de sus funciones y dentro de su ámbito de competencia deberán:
+En el ámbito de sus respectivas competencias, los Poderes Ejecutivo, Legislativo y Judicial del Estado, los organismos descentralizados y autónomos, así como los Ayuntamientos, deberán:
 
 I.- Establecer políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
 
@@ -333,11 +335,11 @@ III.- Crear los procedimientos administrativos para la denuncia de estos ilícit
 
 IV.- Proporcionar atención psicológica y legal, especializada y gratuita, a quien sea víctima de hostigamiento o acoso sexual.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-ARTÍCULO 16 TER.- Los centros de trabajo que integran las dependencias y entidades del sector público del Estado y los municipios, deberán certificarse de acuerdo a la norma mexicana vigente en materia de igualdad laboral y no discriminación, a efecto de integrar, implementar y ejecutar dentro de sus procesos de gestión y de recursos humanos, prácticas que favorezcan el desarrollo integral de las y los trabajadores.
+ARTÍCULO 16 TER.- Los centros de trabajo que integran las dependencias y entidades del sector público estatal y municipal deberán certificarse, de acuerdo a las normas mexicanas vigentes en materia de igualdad laboral y no discriminación, así como en factores de riesgo psicosocial en el trabajo, identificación, análisis y prevención, a efecto de integrar, implementar y ejecutar dentro de sus procesos de gestión y de recursos humanos, prácticas que favorezcan el desarrollo integral de las y los trabajadores.
 
-El Ejecutivo del Estado deberá promover la certificación señalada en el párrafo anterior en todos los centros de trabajo del sector privado.
+El Ejecutivo del Estado deberá promover las certificaciones señaladas en el párrafo anterior en todos los centros de trabajo del sector privado.
 
 #### SECCIÓN TERCERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN LA COMUNIDAD
 
@@ -367,31 +369,65 @@ III.- El diseño de un centro de datos respecto a las órdenes de protección y 
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
-#### SECCIÓN CUARTA BIS. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO POLÍTICO
+#### SECCIÓN CUARTA BIS. DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-ARTÍCULO 21 BIS.- Todas aquellas acciones y omisiones que, basadas en elementos de género y dadas en el marco del ejercicio de los derechos político-electorales, tengan por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
+ARTÍCULO 21 BIS.- La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-ARTÍCULO 21 TER.- Constituyen acciones y omisiones que configuran violencia contra las mujeres en el ámbito político en términos del artículo anterior, las siguientes:
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes federales, estatales y municipales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-I.- Imponer la realización de actividades distintas a las atribuciones inherentes a su empleo, cargo, comisión o función;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-II.- Restringir injustificadamente la realización de acciones o actividades inherentes a su empleo, cargo, comisión o función;
+ARTÍCULO 21 TER.- La violencia política contra las mujeres en razón de género, constituye una infracción a la presente Ley y al Código de Instituciones y Procesos Electorales del Estado de Puebla, por parte de los sujetos de responsabilidad señalados en el artículo 387 del mismo, y se manifiesta a través de las siguientes acciones y omisiones:
 
-III.- Proporcionar información o documentación incompleta o errónea con el objeto de impedir, restringir, anular o limitar el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+I.- Incumplir las disposiciones jurídicas internacionales, nacionales o locales aplicables, que reconocen el ejercicio pleno de los derechos políticos y electorales;
 
-IV.- Ocultar información o documentación con el objeto de impedir, restringir, anular o limitar el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+II.- Restringir, limitar o anular el derecho al voto libre y secreto, o impedir u obstaculizar los derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, por razón de género;
 
-V.- Proporcionar o difundir información con la finalidad impedir, restringir, anular o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+III.- Ocultar información u omitir la convocatoria para el registro de precandidaturas, candidaturas o para cualquier otro cargo o actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-VI.- Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
+IV.- Proporcionar información, documentación o datos falsos, erróneos, incompletos o imprecisos a las autoridades administrativas, electorales o jurisdiccionales, con el objeto de menoscabar, impedir, restringir, anular o limitar el ejercicio de los derechos político- electorales y la garantía del debido proceso;
 
-VII.- Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables, y
+V.- Proporcionar a las mujeres que aspiren u ocupen un cargo público o de elección popular, información o documentación falsa, incompleta o imprecisa con el objeto de impedir, restringir, anular o limitar su registro como precandidata o candidata; el ejercicio de los derechos político - electorales, o se induzca al incorrecto ejercicio de las atribuciones o facultades, según corresponda;
 
-VIII.- Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos.
+VI.- Obstaculizar la precampaña o campaña electoral de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+VII.- Realizar o distribuir propaganda política o electoral que difame, calumnie, degrade o descalifique a una precandidata o candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación, con el objetivo de menoscabar su imagen pública o limitar los derechos políticos y electorales;
+
+VIII.- Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+IX.- Divulgar imágenes, mensajes, videos, fotografías o información privada de una mujer precandidata, candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+X.- Amenazar o intimidar a una o varias mujeres, a su familia o colaboradores con el objeto de inducir su renuncia a la precandidatura, candidatura o al cargo para el que fue electa o designada;
+
+XI.- Impedir o restringir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta o acceso al mismo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+XII.- Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIII.- Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones inherentes o propias de la representación política, empleo, cargo, comisión o función;
+
+XIV.- Restringir o anular de manera injustificada la realización de acciones o actividades inherentes a su empleo, cargo, comisión o función;
+
+XV.- Discriminar a la mujer en el ejercicio de sus derechos políticos y electorales por encontrarse en estado de embarazo, parto, puerperio o periodo de lactancia;
+
+XVI.- Impedir o restringir su reincorporación al cargo o función tras hacer uso de la licencia de maternidad o de cualquier otra licencia o permiso contemplado en las disposiciones legales aplicables;
+
+XVII.- Ejercer violencia física, sexual, simbólica, psicológica, económica, patrimonial o cualquier otra contra una mujer en ejercicio de sus derechos políticos;
+
+XVIII.- Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo público o político, incluido el pago de salarios, dietas u otras prestaciones asociadas al mismo, impidiendo su ejercicio en condiciones de igualdad;
+
+XIX.- Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XX.- Obstaculizar o impedir el acceso a la justicia para la protección de los derechos político - electorales;
+
+XXI.- Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos político - electorales en condiciones de igualdad, o
+
+XXII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en esta Ley y en el Código antes referido.
 
 SECIÓN (SIC) QUINTA
 
@@ -411,7 +447,7 @@ El Estado y los Municipios, en el ámbito de sus respectivas competencias, propo
 
 El Estado y los Municipios promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas cometidas por servidoras o servidores públicos en contra de las mujeres y en su caso, a reparar el daño, de conformidad con lo dispuesto por el ordenamiento legal aplicable.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2020)</small>
 
 #### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL
 
@@ -427,11 +463,11 @@ Violencia feminicida es la manifestación extrema de violencia contra las mujere
 
 En los casos de feminicidio se aplicarán las sanciones previstas en el Código Penal del Estado Libre y Soberano de Puebla y demás Leyes aplicables.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 23.
 
-En el caso que se declare una alerta de violencia de género contra las mujeres en el territorio del Estado, se deberán tomar todas las medidas indicadas en sus resolutivos estableciendo un programa de trabajo que dé cumplimiento a las medidas de prevención, seguridad y justicia, así como cualquier otra indicada en la declaratoria para hacer frente a la contingencia en la entidad y abatir la violencia feminicida, asignándose los recursos presupuestales, humanos y materiales necesarios para hacerle frente. La persona titular del Poder Ejecutivo el Estado deberá emitir un mensaje a la ciudadanía de cero tolerancia ante la comisión de conductas violentas en contra de las mujeres y niñas, el cual se deberá difundir, además de en español, en las principales lenguas indígenas que se hablen en la entidad, en todos los medios masivos de comunicación y radios comunitarias, así como a través de medios que sean accesibles para personas con discapacidad.
+En el caso de que se declare una alerta de violencia de género contra las mujeres en el territorio del Estado, la persona Titular del Poder Ejecutivo, deberá tomar todas las medidas indicadas en sus resolutivos estableciendo un programa de trabajo que dé cumplimiento a las medidas de prevención, seguridad y justicia, así como cualquier otra indicada en la declaratoria para hacer frente a la contingencia en la entidad y abatir la violencia feminicida, asignándose los recursos presupuestales, humanos y materiales necesarios para hacerle frente. Así mismo, deberá emitir un mensaje a la ciudadanía de cero tolerancia, ante la comisión de conductas violentas en contra de las mujeres y niñas, el cual se deberá difundir, además de en español, en las principales lenguas indígenas que se hablen en la entidad, en todos los medios masivos de comunicación y radios comunitarias, así como a través de medios que sean accesibles para personas con discapacidad.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2020)</small>
 
@@ -439,11 +475,13 @@ En el caso que se declare una alerta de violencia de género contra las mujeres 
 
 ### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 24.
 
-Las órdenes de protección son actos de urgente cumplimiento en función del interés de la víctima, de carácter precautorias y cautelares. Se decretarán inmediatamente después de que el Juez de lo Familiar o el Ministerio Público en casos de urgencia y en razón del lugar o la hora, conozcan de probables hechos constitutivos de violencia contra las mujeres.
+Las órdenes de protección son actos de urgente cumplimiento en función del interés de la víctima, de carácter precautorias y cautelares. Se decretarán inmediatamente después de que la autoridad competente, en casos de urgencia y en razón del lugar o la hora, conozcan de probables hechos constitutivos de violencia contra las mujeres.
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado y el Instituto Electoral del Estado, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
 ###### ARTÍCULO 25.
 
@@ -453,17 +491,25 @@ Las órdenes de protección que consagra esta Ley son personalísimas e intransf
 
 I.- De emergencia;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-II.- Preventivas; y
+II.- Preventivas;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- De naturaleza Civil o Familiar.
+III.- De naturaleza Civil o Familiar; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+IV.- Cautelares y de reparación integral en materia electoral.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2019)</small>
 
 Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generen. Tendrán una temporalidad no mayor de setenta y dos horas y se dictarán sucesivamente manteniendo su vigencia en tanto permanezcan las condiciones de riesgo que las originaron.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+Las medidas cautelares y de reparación de naturaleza electoral se definirán y regirán por lo establecido en la normatividad de la materia.
 
 ###### ARTÍCULO 26.
 
@@ -561,27 +607,31 @@ Las órdenes de protección de emergencia, preventivas y las de naturaleza civil
 
 El Juez de lo familiar competente en ejercicio de sus atribuciones y con motivo de los procedimientos que al respecto se tramiten o substancien, valorarán las órdenes y la determinación de medidas similares en sus resoluciones.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 31.
 
-Las órdenes de protección, atendiendo a su naturaleza, se decretarán de oficio o a petición de las víctimas, hijas o hijos, personas que convivan con ellas, así como los responsables de las instituciones públicas o privadas encargadas de la atención de víctimas, o del Ministerio Público, de conformidad con las leyes de la materia.
+Las órdenes de protección, atendiendo a su naturaleza, se decretarán de oficio o a petición de las víctimas, hijas o hijos, personas que convivan con ellas, así como los responsables de las instituciones públicas o privadas encargadas de la atención de víctimas, del Ministerio Público o de la autoridad competente, de conformidad con las leyes de la materia.
 
 ## TÍTULO CUARTO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 32.
 
-Para hacer efectiva la procuración de los derechos contenidos en esta Ley, el Estado y los Municipios integrarán el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que tiene por objeto la coordinación de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales en la materia.
+Para hacer efectiva la procuración de los derechos contenidos en esta Ley, los tres Poderes del Estado, los Ayuntamientos, así como los organismos públicos descentralizados y autónomos, integrarán el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que tiene por objeto la coordinación de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales en la materia.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+Las acciones, medidas y políticas públicas que lleven a cabo las autoridades señaladas en el párrafo anterior, no discriminarán a las mujeres por motivo de su origen étnico, nacional o regional, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquiera otra que atente contra la dignidad humana.
 
-Las acciones, medidas y políticas públicas que lleven a cabo el Estado y los Municipios no discriminarán a las mujeres por motivo de su origen étnico, nacional o regional, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquiera otra que atente contra la dignidad humana.
+En materia de violencia política contra las mujeres en razón de género, las autoridades estatales, municipales, auxiliares, o cualesquiera que se encuentren en la estructura de la administración pública estatal y municipal, deberán colaborar con el Instituto Electoral del Estado y el Tribunal Electoral del Estado de Puebla para el otorgamiento de las órdenes de protección que sean decretadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
-Es materia de coordinación entre el Estado y los Municipios:
+Es materia de coordinación entre las autoridades señaladas:
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -603,13 +653,15 @@ V.- Las acciones conjuntas para la atención y protección de las víctimas de c
 
 VI.- Las demás relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia contra las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 34.
 
-El Sistema Estatal se integrará y funcionará por las y los titulares de:
+El Sistema Estatal se integrará por las personas titulares de:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-I.- La persona que ocupe el Poder Ejecutivo del Estado, fungirá como Presidenta o Presidente Honorario;
+I.- El Poder Ejecutivo del Estado, quien fungirá como Presidenta o Presidente Honorario;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -671,13 +723,25 @@ XV.- El Poder Legislativo del Estado, a través de la Presidencia de la Comisió
 
 XVI.- El Poder Judicial, a través de la Presidencia del Tribunal Superior de Justicia o el representante que se designe;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-XVII.- El Consejo Estatal para la Atención de la Violencia Familiar, y
+XVII.- El Consejo Estatal para la Atención de la Violencia Familiar;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-XVIII.- Las o los titulares de los órganos municipales con funciones de atención a víctimas y prevención de la violencia contra la mujer.
+XVIII.- El Instituto Poblano de los Pueblos Indígenas;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XIX.- El Instituto Electoral del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XX.- El Tribunal Electoral del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JULIO DE 2020)</small>
+
+XXI.- Los órganos municipales con funciones de atención a víctimas y prevención de la violencia contra la mujer.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -695,13 +759,13 @@ I.- Fomentar y promover el conocimiento y el respeto a los derechos humanos de l
 
 II.- Innovar en los modelos socioculturales de conducta de mujeres y hombres, incluido la formulación de programas y acciones de educación formal y no formal, en todos los niveles educativos y de instrucción, con el fin de prevenir, atender y erradicar las conductas con estereotipos que permitan, fomenten y toleren la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- Educar y capacitar en materia de derechos humanos a las y/o los servidores públicos encargados de las áreas de procuración de justicia, seguridad pública y demás que tengan a su cargo las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
+III.- Educar y capacitar en materia de derechos humanos a las personas servidoras públicas encargadas de las áreas de procuración de justicia, seguridad pública y demás que tengan a su cargo las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-IV.- Educar y capacitar en materia de derechos humanos de las mujeres a las y/o los servidores públicos encargados de impartir justicia, con el fin de dotarlos de instrumentos que les permitan realizar su función con perspectiva de género;
+IV.- Educar y capacitar en materia de derechos humanos a las personas servidoras públicas encargadas de impartir justicia, con el fin de dotarlos de instrumentos que les permitan realizar su función con perspectiva de género;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -719,15 +783,19 @@ VIII.- Supervisar que los medios de comunicación en la realización de sus func
 
 IX.- Promover la investigación y la elaboración de información estadística sobre las causas, frecuencia y consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-X.- Publicar semestralmente la información general y estadística referente a los casos de violencia contra las mujeres que se reciba de las Dependencias y Entidades de la Administración Pública, así como de los Municipios y Poderes; en términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+X.- Publicar semestralmente la información general y estadística referente a los casos de violencia política contra las mujeres en razón de género que se reciban de las Dependencias y Entidades de la Administración Pública, los Municipios, Poderes y organismos públicos descentralizados y autónomos, en términos de la ley de la materia;
 
 XI.- Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas, políticas y acciones de gobierno para erradicar la violencia contra las mujeres;
 
-XII.- Promover la cultura de denuncia de la violencia contra las mujeres en el ámbito de competencia de las Dependencias y Entidades de la Administración Pública para garantizar su integridad y seguridad; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+XII.- Promover la cultura de la denuncia respecto de la violencia política contra las mujeres en razón de género en el ámbito de competencia de las Dependencias y Entidades de la Administración Pública Estatal y Municipal, de los Poderes del Estado y de los organismos públicos descentralizados y autónomos, para garantizar su integridad y seguridad; y
 
-XIII.- Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las Dependencias y Entidades y las instituciones públicas o privadas encargadas de la atención a víctimas.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XIII.- Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar los Poderes del Estado, las Dependencias y Entidades del Estado y los Municipios, así como de los organismos públicos descentralizados, autónomos y las instituciones públicas o privadas encargadas de la atención a víctimas.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1307,9 +1375,35 @@ VIII.- Suscribir convenios de coordinación, colaboración y concertación en la
 
 IX.- Las demás previstas en otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 48.
 
-A la Comisión de Derechos Humanos del Estado de Puebla, al Poder Legislativo, al Poder Judicial y al Consejo Estatal para la Atención de la Violencia Familiar, les corresponderá el ejercicio y cumplimiento de las atribuciones que tienen conferidas en sus propios ordenamientos y demás disposiciones legales aplicables.
+A la Comisión de Derechos Humanos del Estado de Puebla, al Poder Legislativo, al Poder Judicial, al Consejo Estatal para la Atención de la Violencia Familiar y al Instituto Poblano de los Pueblos Indígenas, les corresponderá el ejercicio y cumplimiento de las atribuciones que tienen conferidas en sus propios ordenamientos y demás disposiciones legales aplicables, con perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+ARTÍCULO 48 BIS.- Corresponde al Instituto Electoral del Estado y al Tribunal Electoral del Estado, en el ámbito de su competencia, lo siguiente:
+
+I.- Promover el uso del lenguaje inclusivo en materia electoral, así como la cultura de la no violencia en el marco del ejercicio de los derechos político - electorales de las mujeres;
+
+II.- Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales;
+
+III- Prevenir, atender, sancionar y erradicar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género;
+
+IV.- Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos político - electorales de las mujeres;
+
+V.- Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política contra las mujeres en razón de género; la prevención, formas de denuncia, así como sensibilizar y concientizar sobre la erradicación de ésta;
+
+VI.- Sensibilizar, capacitar y evaluar a su personal, para prevenir y erradicar la violencia política contra las mujeres en razón de género; y
+
+VII.- Las demás que establezcan esta Ley y demás ordenamientos aplicables.
+
+El Tribunal Electoral del Estado impulsara la especialización de sus integrantes encargados de la impartición de justicia, en temas de violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+ARTÍCULO 48 TER.- Corresponde a las instituciones encargadas de promover y fomentar las condiciones que posibiliten la no discriminación y la igualdad sustantiva de oportunidades y de trato, entre mujeres y hombres, implementar sistemas de registro con indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de violencia política contra las mujeres en razón de género.
 
 ###### ARTÍCULO 49.
 
@@ -1407,11 +1501,11 @@ IX.- La víctima no será obligada a participar en mecanismos de conciliación c
 
 Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 52.
 
-Cuando exista sentencia condenatoria por delitos en los que se hayan realizado acciones u omisiones tendentes a ejercer violencia en agravio de la mujer, la autoridad judicial, impondrá al responsable cumplir con medidas de rehabilitación en las que se fomente su participación en programas integrales especializados para prevenir y erradicar las mismas.
+Cuando exista sentencia firme por delitos, acciones u omisiones tendientes a ejercer violencia en agravio de las mujeres, la autoridad jurisdiccional impondrá al responsable cumplir con medidas de rehabilitación en las que se fomente su participación en programas integrales especializados para prevenir y erradicar las mismas, mediante el empleo del proceso de justicia restaurativa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1652,5 +1746,13 @@ P.O. 3 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 26 Y ADICIONA EL ARTÍCULO 17 BIS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, EN MATERIA DE PARIDAD DE GÉNERO Y VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
