@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2020-07-24"
+last_updated: "2020-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -243,13 +243,29 @@ XI.- Padrón: El Padrón Electoral formado por el Registro Federal de Electores 
 
 XII.- Listado Nominal: Las Listas Nominales de Electores con fotografía, expedidas por el Registro Federal de Electores del Instituto Nacional Electoral;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-XIII.- Elegibilidad: Calidad que se obtiene al cumplir con los requisitos que exige la Constitución Federal, la Constitución Local y este Código para ser elegido a ocupar un cargo de elección popular; y
+XIII.- Elegibilidad: Calidad que se obtiene al cumplir con los requisitos que exige la Constitución Federal, la Constitución Local y este Código para ser elegido a ocupar un cargo de elección popular;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-XIV.- Candidato Independiente: El ciudadano que habiendo cumplido los requisitos que para tal efecto se establecen, obtenga por parte de la autoridad electoral el registro.
+XIV.- Candidata o Candidato Independiente: La o el ciudadano que habiendo cumplido los requisitos que para tal efecto se establecen, obtenga por parte de la autoridad electoral el registro;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XV.- Paridad de género: Principio constitucional por el que se promueve y garantiza la igualdad política, horizontal y vertical entre mujeres y hombres, a través de la asignación y designación del 50% de candidaturas a cargos de elección popular y de cargos públicos, respectivamente, para cada género; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XVI.- Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla y puede ser perpetrada indistintamente por agentes federales, estatales y municipales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 ###### ARTÍCULO 3.
 
@@ -287,11 +303,11 @@ La organización de los procesos electorales es una función estatal que corresp
 
 El Instituto podrá convenir con el Instituto Nacional Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 8.
 
-En el ejercicio de la función estatal para organizar las elecciones, serán principios rectores, la legalidad, imparcialidad, objetividad, certeza, independencia y máxima publicidad, debiéndose entender por:
+En el ejercicio de la función estatal para organizar las elecciones, serán principios rectores, la legalidad, imparcialidad, objetividad, certeza, independencia, paridad de género y máxima publicidad, debiéndose entender por:
 
 I.- Legalidad.- Adecuación estricta a la Ley de todas las actuaciones de las autoridades electorales, de los ciudadanos y de los partidos políticos;
 
@@ -303,17 +319,23 @@ III.- Objetividad.- Desarrollar las actividades electorales tomando como base la
 
 IV.- Certeza.- Realizar la función electoral con estricto apego a los hechos y las normas, a fin de que sean fidedignos, confiables y verificables;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-V.- Independencia.- La capacidad irrestricta del Instituto para cumplir con la función encomendada por sí solo, sin intervención alguna de los órganos del poder público; y
+V.- Independencia.- La capacidad irrestricta del Instituto para cumplir con la función encomendada por sí solo, sin intervención alguna de los órganos del poder público;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-VI.- Máxima Publicidad.- Toda la información en posesión del Instituto será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática.
+VI.- Paridad de Género: Principio constitucional por el que se promueve y garantiza la igualdad política, horizontal y vertical entre mujeres y hombres, a través de la asignación y designación del 50% de candidaturas a cargos de elección popular y de cargos públicos, respectivamente, para cada género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+VII.- Máxima Publicidad.- Toda la información en posesión del Instituto será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 9.
 
-Corresponde al Instituto, al Tribunal y a las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, con la participación y corresponsabilidad de los ciudadanos y de los partidos políticos, garantizar y vigilar el libre desarrollo del proceso electoral, la efectividad del voto, así como la autenticidad e imparcialidad de las elecciones que se celebren en términos de este Código.
+Corresponde al Instituto, al Tribunal y a las autoridades federales, estatales y municipales, en el ámbito de su respectiva competencia, con la participación y corresponsabilidad de las y los ciudadanos y de los partidos políticos, garantizar y vigilar el libre desarrollo del proceso electoral, el principio de paridad de género en el ejercicio de los derechos político - electorales, el respeto de los derechos humanos, la efectividad del voto, así como la autenticidad e imparcialidad de las elecciones que se celebren en términos de este Código.
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
@@ -327,11 +349,15 @@ Este Código reglamenta los derechos y obligaciones de los ciudadanos que en mat
 
 Para el ejercicio de sus derechos político-electorales, los ciudadanos residentes en el Estado de Puebla, podrán organizarse libre, voluntaria e individualmente en partidos políticos, en los términos previstos por este ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+Es derecho de la ciudadanía a ser votadas y votados para todos los puestos de elección popular y ejercer sus derechos político - electorales libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil, o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar sus derechos y libertades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 11.
 
-El voto constituye un derecho y una obligación del ciudadano. Es el instrumento único de expresión de la voluntad popular para integrar el Poder Legislativo, y elegir al Titular del Poder Ejecutivo, así como a los miembros de los Ayuntamientos y participar en los procesos de plebiscito y referéndum. También es derecho de los Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular.
+El voto constituye un derecho y una obligación ciudadana. Es el instrumento único de expresión de la voluntad popular para integrar el Poder Legislativo, elegir a la o el Titular del Poder Ejecutivo, a las y los miembros de los Ayuntamientos, así como para participar en los procesos de plebiscito y referéndum. También es derecho de la ciudadanía y obligación para los partidos políticos promover y garantizar la igualdad de oportunidades; la prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género, y garantizar la paridad entre hombres y mujeres para tener acceso a cargos de elección popular, así como el respeto a los derechos humanos de las mujeres.
 
 El voto es universal, libre, secreto, directo, personal e intransferible.
 
@@ -379,9 +405,11 @@ VI.- Las demás que señale este Código y disposiciones aplicables.
 
 Es derecho preferente de los ciudadanos poblanos y exclusivo de los ciudadanos mexicanos, participar individualmente o a través de las agrupaciones a las que pertenezcan, como observadores en las actividades electorales en la Entidad, conforme a las reglas establecidas en el artículo 196 de este Código y en la forma y términos que al efecto determine el Consejo General para cada proceso electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 15.
 
-Son elegibles para los cargos de Diputados al Congreso del Estado, Gobernador o miembros de los Ayuntamientos, las personas que, además de reunir los requisitos señalados por la Constitución Federal y la Constitución Local, no estén impedidos por los propios ordenamientos constitucionales y que se encuentren en los supuestos siguientes:
+Son elegibles para los cargos de Diputadas y Diputados al Congreso del Estado, Gobernadora o Gobernador o miembros de los Ayuntamientos, las personas que, además de reunir los requisitos señalados por la Constitución Federal y la Constitución Local, no estén impedidos por los propios ordenamientos constitucionales y legales, y se encuentren en los supuestos siguientes:
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -391,47 +419,47 @@ I.- Estar inscritos en el Registro Federal de Electores y contar con la credenci
 
 II.- No formar parte de los órganos electorales del Instituto, en el proceso electoral en el que sean postulados candidatos, salvo que se separen definitivamente un año antes del inicio de dicho proceso, con excepción de los representantes de los partidos políticos y de los representantes del Poder Legislativo que se acrediten por cada uno de los partidos políticos que integren el Honorable Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- No ser Magistrado, Secretario General, Secretario Instructor o Secretario de Estudio y Cuenta del Poder Judicial de la Federación, ni del Tribunal, salvo que se separen definitivamente del cargo un año antes del inicio del proceso electoral en el que sean postulados candidatos; y
+III.- No ser Magistrada o Magistrado, Secretaria o Secretario General, Secretaria o Secretario Instructor, o Secretaria o Secretario de estudio y cuenta del Poder Judicial de la Federación, ni del Tribunal, salvo que se separen definitivamente del cargo un año antes del inicio del proceso electoral en el que sean postulados candidatos;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-IV.- No pertenecer al personal del Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
+IV.- Acreditar la asistencia sobre el curso de paridad de género, derechos humanos, no discriminación, así como de prevención, atención y erradicación de la violencia política contra las mujeres en razón de género, que imparta directamente o a través de terceros el Instituto;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JULIO DE 2020)</small>
+
+V.- No pertenecer al personal del Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 29 DE JULIO DE 2020)</small>
+
+VI.- No haber sido sancionado en sentencia firme, en términos de este Código o de la legislación penal, por las siguientes conductas y delitos:
+
+a) Violencia política contra las mujeres en razón de género o delito equivalente;
+
+b) Violencia familiar; e
+
+c) Incumplimiento de la obligación alimentaria.
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN DE DIPUTADOS, GOBERNADOR Y MIEMBROS DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-El Poder Legislativo se deposita en una Asamblea de Diputados que se denomina "Congreso del Estado", el cual se integra con veintiséis Diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y hasta por quince Diputados que serán electos de acuerdo con el principio de representación proporcional, de los cuales:
+El Poder Legislativo se deposita en una Asamblea de Diputadas y Diputados que se denomina “Congreso del Estado”, el cual se integra con veintiséis Diputadas y Diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales y hasta por quince Diputadas y Diputados que serán electos de acuerdo con el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+La representación proporcional que corresponda a cada partido político con derecho a asignación, será conforme al sistema de listas votadas en una circunscripción plurinominal única, que corresponderá a la totalidad del territorio del Estado. Para reconocer y garantizar la representación y pluralidad de las fuerzas políticas, en la asignación de diputadas y diputados por el principio de representación proporcional, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputadas y diputados de representación proporcional que sean necesarios para asignar diputadas y diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación.
 
-A. La primera asignación que corresponda a cada partido político con derecho a participar en la elección por este principio, recaerá en la fórmula de candidatos del propio partido político que, por sí misma, haya obtenido el mayor porcentaje de votos en la elección de Diputados por el principio de mayoría relativa, siempre que no hubiere alcanzado la constancia respectiva conforme a dicho principio.
+En caso de falta absoluta de alguna Diputada propietaria o algún Diputado propietario y de su respectiva o respectivo suplente, electos por el principio de mayoría relativa, se convocará a elecciones extraordinarias.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-B. Los subsecuentes serán asignados conforme al sistema de listas votadas en una circunscripción plurinominal, que corresponderá a la totalidad del territorio del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
-
-C. Los diputados podrán ser electos de manera consecutiva, hasta por cuatro periodos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición, convenios de asociación electoral o candidatura común que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Para reconocer y garantizar la representación y pluralidad de las fuerzas políticas la asignación de diputados por el principio de representación proporcional; el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación.
+La falta absoluta de alguna fórmula de Diputadas o Diputados electos por el principio de representación proporcional deberá ser cubierta por la fórmula de candidatas o candidatos del mismo partido político que siga en el orden de la lista, después de habérsele asignado las diputadas y los diputados que le hubieren correspondido.
 
 Por cada Diputado propietario se elegirá un suplente.
 
 El Congreso del Estado se renovará en su totalidad cada tres años e iniciará sus funciones conforme lo dispuesto en la Constitución Local.
 
 Los diputados podrán ser electos de manera consecutiva, hasta por cuatro periodos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-En caso de falta absoluta de algún Diputado propietario y de su respectivo suplente, electos por el principio de mayoría relativa, se convocará a elecciones extraordinarias.
-
-A falta de la fórmula de Diputados a que se refiere el apartado A de este artículo, ésta deberá ser cubierta por la fórmula que le siga con el mayor porcentaje de votos.
-
-La falta absoluta de alguna fórmula de Diputados electos por el principio de representación proporcional, deberá ser cubierta por la fórmula de candidatos del mismo partido político que siga en el orden de la lista, después de habérsele asignado los Diputados que le hubieren correspondido.
 
 ###### ARTÍCULO 17.
 
@@ -459,9 +487,9 @@ Los Ayuntamientos se renovarán en su totalidad cada tres años.
 
 Los cargos de presidentes municipales, regidores y síndicos, podrán ser elegidos consecutivamente por un periodo adicional.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Sólo podrán ser postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición, convenio de asociación electoral o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Sólo podrán ser postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición, o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -561,9 +589,9 @@ III.- Hacer posible, como organizaciones de ciudadanos, el acceso de éstos al e
 
 Los partidos políticos deberán de constituirse sólo por ciudadanos sin intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que haya afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+Los partidos políticos promoverán los valores cívicos, la cultura democrática y la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación efectiva y la postulación paritaria, horizontal y vertical, de ambos géneros, en la integración de sus órganos, así como en la postulación de candidaturas, además de la erradicación y sanción interna de la violencia política contra las mujeres en razón de género, en términos del presente código y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -647,7 +675,9 @@ Las organizaciones de ciudadanos interesadas en constituirse en partido polític
 
 I.- Contar con declaración de principios, programa de acción y estatutos, en los términos de este Código;
 
-II.- (DEROGADA, P.O. 22 DE AGOSTO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
+
+II.- Contar con un programa de prevención, detección, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género, apegado a la legislación en la materia, así como para garantizar la igualdad sustantiva y la paridad de género en la integración de sus órganos internos, cargos directivos y de representación, y para la postulación de candidaturas a cargos de elección popular por ambos principios.
 
 III.- (DEROGADA, P.O. 22 DE AGOSTO DE 2015)
 
@@ -681,13 +711,21 @@ II.- Las bases ideológicas de carácter político, económico y social;
 
 III.- La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros, así como la de no solicitar o rechazar, en su caso, toda clase de apoyo económico, político y propagandístico proveniente de entidades o partidos políticos u organizaciones extranjeras, ni de los ministros de los cultos de cualquier religión o agrupación religiosa e iglesias y de cualquiera de las personas a las que la Ley de la materia y este Código, prohíbe financiar a los partidos políticos;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-IV.- El compromiso de conducir sus actividades por medios pacíficos y por la vía democrática; y
+IV.- El compromiso de conducir sus actividades por medios pacíficos y por la vía democrática;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-V.- La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres.
+V.- La obligación de promover la participación política de manera paritaria y ausente de violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+VI.- La obligación de promover, proteger y respetar los derechos político - electorales de las mujeres, establecidos en la Constitución Federal, la Constitución del Estado, en los tratados internacionales firmados y ratificados por México, y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+VII.- Los mecanismos de sanción aplicables a quien o quienes ejerzan violencia política contra las mujeres en razón de género, acorde a lo estipulado en la legislación federal y local aplicables.
 
 ###### ARTÍCULO 35.
 
@@ -701,13 +739,17 @@ II.- Las políticas que propongan para resolver los problemas sociales, polític
 
 III.- Las medidas que adopten para ejecutar las acciones relativas a la formación ideológica y política de sus afiliados;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-IV.- La preparación para la participación activa de sus militantes en los procesos electorales; y
+IV.- La preparación para la participación activa de sus militantes en los procesos electorales;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-V.- La formación ideológica y política a sus militantes.
+V.- Establecer mecanismos de promoción y acceso de las mujeres a la actividad política del partido, así como la formación de liderazgos políticos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+VI.- La formación ideológica y política a sus militantes.
 
 ###### ARTÍCULO 36.
 
@@ -733,13 +775,13 @@ b) Un comité local y distrital u órganos equivalentes, que será el representa
 
 c) Un Consejo distrital o su equivalente en las dos terceras partes de las cabeceras distritales del Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-d) Un órgano de decisión colegiada, democráticamente integrado, responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidatos a cargos de elección popular.
+d) Un órgano de decisión colegiada, democráticamente integrado, responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidatas o candidatos a cargos de elección popular, para lo cual garantizará la imparcialidad, igualdad, equidad, transparencia, paridad y legalidad de las etapas del proceso y de sus determinaciones.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-e) Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo.
+e) Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial, objetivo y aplicará la perspectiva de género en todas las resoluciones que emita.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -752,6 +794,10 @@ g) Un órgano encargado de la educación y capacitación cívica de los militant
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 h) Un órgano responsable de la administración de su patrimonio y recursos financieros.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+En dichos órganos internos se garantizará el principio de paridad de género.
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -767,13 +813,21 @@ VI.- Las sanciones aplicables a los miembros que infrinjan sus disposiciones int
 
 VII.- Las diversas modalidades de financiamiento privado que tenga derecho a recibir;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-VIII.- Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones; y
+VIII.- Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones;
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-IX.- Las normas y procedimientos democráticos para la postulación de sus candidatos.
+IX.- Los mecanismos y procedimientos que permitirán garantizar la integración de liderazgos políticos de mujeres al interior del partido;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+X.- Los mecanismos que garanticen la prevención, atención y sanción de la violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JULIO DE 2020)</small>
+
+XI.- Las normas y procedimientos democráticos para la postulación de sus candidatas y candidatos.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -837,19 +891,19 @@ En caso de negativa fundamentará las causas que la motivan y lo comunicará a l
 
 Los partidos políticos estatales, para poder conservar su registro deberán haber obtenido al menos el tres por ciento del total de la votación valida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo, Legislativo o miembros de Ayuntamientos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 41.
 
-Los partidos políticos estatales podrán apoyar candidaturas comunes, celebrar convenios de asociación electoral o fusionarse entre sí o con los partidos políticos nacionales.
+Los partidos políticos estatales podrán apoyar candidaturas comunes, o fusionarse entre sí o con los partidos políticos nacionales.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 De igual manera podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes; salvo los casos previstos en este Código.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-El partido político nacional o local que participe por primera ocasión en una elección local no podrá formar frentes o fusiones, celebrar convenios de asociación electoral ni postular candidaturas en común.
+El partido político nacional o local que participe por primera ocasión en una elección local no podrá formar frentes o fusiones, ni postular candidaturas en común.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS, PRERROGATIVAS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
 
@@ -875,9 +929,9 @@ IV.- Formar parte de los órganos electorales;
 
 V.- Organizar procesos internos para seleccionar y postular candidatos en las elecciones de Diputados por ambos principios, Gobernador y miembros de los Ayuntamientos, previo cumplimiento de los requisitos establecidos en este Código;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-VI.- Apoyar candidaturas comunes, celebrar convenios de asociación electoral, así como formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección facultado para ello que establezca el Estatuto de cada uno de los partidos, en los términos de este Código y demás disposiciones aplicables;
+VI.- Apoyar candidaturas comunes, así como formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección facultado para ello que establezca el Estatuto de cada uno de los partidos, en los términos de este Código y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -973,9 +1027,9 @@ I.- El monto de financiamiento público para el sostenimiento de sus actividades
 
 El Consejo General fijará el monto de financiamiento público anual en el presupuesto que el Instituto envíe al Congreso para el siguiente ejercicio fiscal. La partida será destinada exclusivamente para este fin.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Los partidos políticos destinarán anualmente el tres por ciento de su financiamiento público ordinario, a la capacitación, promoción y desarrollo del liderazgo político de las mujeres;
+Los partidos políticos destinarán anualmente el cinco por ciento de su financiamiento público ordinario, a la capacitación, promoción y desarrollo del liderazgo político de las mujeres, así como para la creación y fortalecimiento de mecanismos para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -1175,7 +1229,9 @@ En el caso de los partidos locales, las modificaciones no surtirán efectos hast
 
 VIII.- Abstenerse de utilizar símbolos religiosos así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-IX.- Abstenerse de cualquier expresión en su propaganda, publicaciones y mensajes impresos, así como en los transmitidos en los medios electrónicos que denuesten (sic) a los ciudadanos, partidos políticos, candidatos e instituciones públicas;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+IX.- Abstenerse de cualquier expresión en su propaganda, publicaciones y mensajes impresos, así como en los transmitidos en los medios electrónicos que denuesten a las ciudadanas y ciudadanos, partidos políticos, candidatas y candidatos e instituciones públicas, o que constituyan violencia política contra las mujeres en razón de género;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -1191,9 +1247,17 @@ XII.- Abstenerse durante los procesos electorales, al igual que sus candidatos, 
 
 XIII.- Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, dentro de los siete días siguientes a que concluya la precampaña correspondiente;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-XIV.- Promover, de conformidad con sus estatutos, una paridad entre los géneros, a través de su postulación a cargos de elección popular;
+XIV.- Promover, de conformidad con sus estatutos y programas, la paridad horizontal y vertical entre mujeres y hombres en la postulación a cargos de elección popular y en la integración de sus órganos internos. De igual forma deberán promover y establecer mecanismos para prevenir, por medio de acciones y procedimientos internos, la violencia política contra las mujeres en razón de género, con el fin de proteger y garantizar el acceso y ejercicio pleno de sus derechos político-electorales;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XIV Bis.- Sancionar por medio de los mecanismos y procedimientos internos con los que cuente, todo acto relacionado con la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XIV Ter.- Garantizar la paridad y la no discriminación por razón de género en la programación y distribución de tiempos del Estado;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -1231,21 +1295,27 @@ III.- Los Magistrados, Secretario General, Secretarios Instructores y Secretario
 
 IV.- Los miembros en servicio activo de las fuerzas armadas o de la policía federal, estatal o municipal;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-V.- Los Agentes del Ministerio Público del fuero común o federal; y
+V.- Los Agentes del Ministerio Público del fuero común o federal;
 
-VI.- Los Ministros de culto religioso.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE JULIO DE 2017)</small>
+VI.- Los Ministros de culto religioso; y
 
-## TÍTULO TERCERO. DE LAS CANDIDATURAS COMUNES, CONVENIOS DE ASOCIACIÓN ELECTORAL, FUSIONES Y FRENTES
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+VII.- Las personas que hayan sido sancionadas en sentencia firme por ejercer violencia política contra las mujeres en razón de género o por su delito equivalente, o por los delitos de violencia familiar o incumplimiento de la obligación alimentaria, en términos de este código, de la legislación penal y demás aplicable, respectivamente, en cuyo caso dicho impedimento surtirá efectos para el periodo electoral siguiente inmediato en que se aplique.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2020)</small>
+
+## TÍTULO TERCERO. DE LAS CANDIDATURAS COMUNES, FUSIONES Y FRENTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 58.
 
-Los partidos políticos podrán en cualquier momento realizar acuerdos de intención para gobiernos de coalición, apoyar candidaturas comunes, celebrar convenios de asociación electoral, así como formar coaliciones o fusiones, a fin de lograr objetivos coincidentes, en términos de las disposiciones de este Código, de los convenios que se celebren y demás disposiciones aplicables.
+Los partidos políticos podrán en cualquier momento realizar acuerdos de intención para gobiernos de coalición, apoyar candidaturas comunes, así como formar coaliciones o fusiones, a fin de lograr objetivos coincidentes, en términos de las disposiciones de este Código, de los convenios que se celebren y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -1299,89 +1369,41 @@ Los votos en los que se hubiesen marcado más de una opción de los partidos que
 
 En todo caso, el escrutinio y cómputo de los votos que le corresponderán a los partidos que postulen candidato en común se llevará a cabo conforme al procedimiento previsto en el artículo 292 Bis de este Código.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+ARTÍCULO 58 TER.- (DEROGADO, P.O. 29 DE JULIO DE 2020)
 
-ARTÍCULO 58 TER.- En caso de que dos o más partidos políticos postulen candidato común a Gobernador del Estado, los mismos partidos políticos podrán acordar convenios de asociación electoral, para la elección de Diputados o de miembros de Ayuntamientos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2020)</small>
 
 ### CAPÍTULO II. DE LOS CONVENIOS DE ASOCIACIÓN ELECTORAL
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
-
 ###### ARTÍCULO 59.
 
-Los partidos políticos, tendrán derecho a postular candidatos mediante convenios de asociación electoral para la elección de Gobernador, Diputados de Mayoría y planillas de miembros de ayuntamientos. El convenio de asociación electoral que celebren los partidos políticos para postular candidatos, deberá ir firmado por sus representantes y dirigentes, el cual deberán presentar para su registro ante el Consejo General, hasta cinco días antes del inicio del periodo de registro de candidatos de la elección de que se trate.
-
-Los partidos políticos que postulen candidato a Gobernador mediante convenio de asociación electoral, podrán postular bajo esta misma figura de manera total o parcial, sin que exista algún mínimo o límite, candidatos a Diputados de Mayoría y/o planillas de miembros de ayuntamientos.
-
-Los partidos políticos que postulen candidato a Gobernador del Estado, mediante convenio de asociación electoral, podrán conformar candidaturas comunes, para la elección de Diputados y/o miembros de Ayuntamientos.
-
-Cada uno de los partidos que suscriban convenio de asociación electoral, en todo caso, deberán registrar listas propias de candidatos a diputados por el principio de representación proporcional.
-
-El Consejo General podrá emitir los lineamientos y/o manuales que pudieran requerirse, respecto de la solicitud del registro de los convenios de asociación electoral.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
 ###### ARTÍCULO 60.
 
-El convenio de asociación electoral deberá contener:
-
-I.- Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
-
-II.- Emblema común de los partidos que lo conforman y el color o colores con que se participa;
-
-III.- Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial dé elector y el consentimiento por escrito del candidato;
-
-IV.- La autorización del convenio de asociación electoral por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes;
-
-V.- La forma en que se acreditarán los votos a cada uno de los partidos políticos que celebran el convenio de asociación, para efectos de la conservación del registro y para el otorgamiento del financiamiento público;
-
-VI.- Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión y a los topes de gastos de campaña determinados por el Consejo General;
-
-VII.- Para las elecciones de diputados y miembros de los ayuntamientos, la determinación del partido político al que pertenecerán los candidatos en caso de resultar electos, y
-
-VIII.- El nombre de quien fungirá como su representante legal, para efectos de interposición de los medios de impugnación previstos en la ley de la materia, así como las demás facultades que le sean conferidas mediante el convenio.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
 ###### ARTÍCULO 61.
 
-Al convenio de asociación electoral deberá anexársele los siguientes documentos:
-
-I.- La documentación que acredite que los partidos políticos postulantes del convenio de asociación entregaron en tiempo y forma su plataforma electoral a la autoridad electoral, y
-
-II.- Las actas que acrediten que los órganos internos de los partidos autorizaron de conformidad con sus estatutos, la firma del convenio de asociación electoral para la elección que corresponda.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
 ###### ARTÍCULO 62.
 
-El Consejo General dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de asociación electoral, deberá resolver lo conducente sobre la procedencia del mismo, mandando publicar su resolución en el Periódico Oficial del Estado.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
 ###### ARTÍCULO 63.
 
-Los partidos políticos que postulen candidatos mediante convenio de asociación electoral no podrán postular candidatos propios ni de otros partidos políticos para la elección en que convinieron asociarse. Asimismo, ningún partido político podrá registrar como candidato propio a quien ya haya sido registrado como candidato mediante convenio de asociación electoral.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
 ###### ARTÍCULO 64.
 
-Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos mediante convenios de asociación electoral mantendrán su autonomía y serán responsables de sus actos.
-
-Los partidos que suscriban convenios de asociación electoral conservarán cada uno su monto de financiamiento público, su tiempo que corresponda de acceso a radio y televisión, así como su representación en los órganos del Instituto y en las mesas directivas de casilla.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
 ###### ARTÍCULO 65.
 
-Los votos se computarán a favor del candidato registrado mediante convenio de asociación electoral y la distribución del porcentaje de votación será conforme al registrado ante el Consejo General, en el mismo convenio.
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
-
-ARTÍCULO 65 BIS.- En la boleta electoral deberá aparecer en un mismo espacio el emblema conjunto de los partidos que hayan celebrado el convenio de asociación electoral respectivo; dicho emblema será ubicado en el lugar de la boleta que corresponda al partido con mayor antigüedad de registro que forme parte del mismo.
+ARTÍCULO 65 BIS.- (DEROGADO, P.O. 29 DE JULIO DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -1539,9 +1561,21 @@ IV.- Asegurar el ejercicio de los derechos político-electorales de los ciudadan
 
 V.- Vigilar la autenticidad y efectividad del voto como instrumento único de expresión de la voluntad popular;
 
-VI.- Preservar el fortalecimiento del régimen de partidos políticos; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-VII.- Coadyuvar en la promoción y difusión de la cultura política y la educación cívica.
+VI.- Preservar el fortalecimiento del régimen de partidos políticos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
+
+VII.- Garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político - electoral;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JULIO DE 2020)</small>
+
+VIII.- Coadyuvar en la promoción y difusión de la cultura política, la educación cívica, la paridad de género y el respeto de los derechos humanos en el ámbito político - electoral, desarrollando y ejecutando para el efecto, los programas de educación conducentes; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+IX.- Prevenir, atender e iniciar de oficio los procedimientos sancionadores en aquellos asuntos que pudieran constituir violencia política contra las mujeres en razón de género.
 
 ###### ARTÍCULO 76.
 
@@ -1569,11 +1603,11 @@ II.- La Junta Ejecutiva.
 
 ### CAPÍTULO I. DEL CONSEJO GENERAL
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 79.
 
-El Consejo General será el órgano superior de dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios rectores de legalidad, imparcialidad, objetividad, certeza, independencia y máxima publicidad guíen todas las actividades del Instituto.
+El Consejo General será el órgano superior de dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios rectores de legalidad, imparcialidad, objetividad, certeza, independencia, máxima publicidad y paridad de género guíen todas las actividades del Instituto, mismas que se realizarán con perspectiva de género.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -1605,7 +1639,11 @@ VI.- (DEROGADA, P.O. 20 DE FEBRERO DE 2012)
 
 VII.- (DEROGADA, P.O. 20 DE FEBRERO DE 2012)
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2020)</small>
+
+En términos de la legislación federal, para la integración del Consejo General deberá garantizarse el principio de paridad de género.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 29 DE JULIO DE 2020)</small>
 
 Cada Grupo Legislativo o Representación Legislativa tendrá un representante del Poder Legislativo, en su caso, con su respectivo suplente, como invitados permanentes, con derecho a voz y sin voto, mismos que no integrarán el quórum. La designación se comunicará al Consejo General a través del Presidente del Congreso del Estado.
 
@@ -1677,9 +1715,9 @@ II.- Vigilar el cumplimiento de las disposiciones constitucionales y legales rel
 
 III.- Organizar el proceso electoral y vigilar la oportuna integración, instalación y adecuado funcionamiento de los órganos del Instituto y conocer de los informes específicos y de las actividades que estime necesario solicitarles;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-IV.- Elegir al Secretario Ejecutivo, al Titular de la Contraloría Interna del Instituto, y al Titular de la Unidad Técnica de Fiscalización a propuesta en terna del Consejero Presidente;
+IV.- Elegir al Secretario Ejecutivo, y al Titular de la Unidad Técnica de Fiscalización a propuesta en terna del Consejero Presidente.
 
 V.- Aprobar la estructura central del Instituto y la de los Consejos Distritales y Municipales;
 
@@ -1719,9 +1757,9 @@ XVI.- Expedir las constancias de registro de los partidos políticos estatales q
 
 XVII.- Registrar la plataforma electoral de los partidos políticos de conformidad con lo prescrito por el presente Código;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-XVIII.- Resolver sobre la solicitud de registro de candidaturas comunes, así como de los convenios de coalición, convenios de asociación electoral, frentes y de fusión que presenten los partidos políticos;
+XVIII.- Resolver sobre la solicitud de registro de candidaturas comunes, así como de los convenios de coalición, frentes y de fusión que presenten los partidos políticos;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -1837,17 +1875,39 @@ LIV.- En su caso, establecer lineamientos y formatos para la presentación de in
 
 LV.- Negar o cancelar el registro, en su caso, al Precandidato o Candidato a quien se le haya sentenciado por autoridad competente, dentro de los plazos del proceso electoral respectivo, por su participación en la comisión del delito de delincuencia organizada, en caso de que la responsabilidad sea imputable exclusivamente a aquéllos;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 29 DE JULIO DE 2020)</small>
+
+LV Bis.- Negar o cancelar el registro, en su caso, a la o el Precandidato o Candidato a quien, en términos de éste Código o de la legislación penal, se le haya sancionado por autoridad competente en sentencia firme, y dentro de los plazos del proceso electoral respectivo, por las conductas y delitos siguientes:
+
+a) Violencia política contra las mujeres en razón de género o delito equivalente;
+
+b) Violencia familiar; e
+
+c) Incumplimiento de la obligación alimentaria.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+LV Ter.- Ordenar la elaboración de los bloques de competitividad electoral;
+
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 LVI.- Determinar y en su caso aprobar los actos preliminares que podrán llevarse a cabo, antes del inicio del proceso electoral;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-LVII.- Organizar los procedimientos y mecanismos para promover y recabar el voto de los poblanos residentes en el extranjero únicamente para la elección de Gobernador del Estado, conforme a la normatividad aplicable; para lo cual podrá aprobar los acuerdos y suscribir los convenios correspondientes, así como elaborar el listado de poblanos residentes en el extranjero; y
+LVII.- Organizar los procedimientos y mecanismos para promover y recabar el voto de los poblanos residentes en el extranjero únicamente para la elección de Gobernador o Gobernadora del Estado, conforme a la normatividad aplicable; para lo cual podrá aprobar los acuerdos y suscribir los convenios correspondientes, así como elaborar el listado de poblanos residentes en el extranjero;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-LVIII.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
+LVIII.- Garantizar el cumplimiento del principio de paridad de género, así como el respeto de los derechos político - electorales de las mujeres en un entorno libre de violencia;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+LIX.- Establecer y ejecutar a través de las áreas correspondientes, los programas de educación cívica en materia de paridad de género, así como para prevenir, atender y en su caso erradicar la violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+LX.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2235,9 +2295,13 @@ III.- Prerrogativas y Partidos Políticos;
 
 IV.- Administrativa.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-V.- Jurídica.
+V.- Igualdad y No Discriminación;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+VI.- Jurídica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2012)</small>
 
@@ -2325,7 +2389,9 @@ IV.- Solicitar y recabar de los Consejos Distritales y Municipales, copias de la
 
 V.- Recabar la documentación necesaria e integrar los expedientes a fin de que el Consejo General efectúe los cómputos que conforme a este Código deba realizar;
 
-VI.- Realizar la estadística de las elecciones del Estado;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+VI.- Realizar la estadística de las elecciones del Estado e integrar, en términos del presente Código, los bloques de competitividad electoral;
 
 VII.- Preparar el anteproyecto de convocatoria pública para la integración de los Consejos Distritales y Municipales;
 
@@ -2347,9 +2413,9 @@ XI.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Secr
 
 La Dirección de Capacitación Electoral y Educación Cívica tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-I.- En su caso, elaborar y proponer los programas de capacitación electoral que desarrollen los órganos del Instituto, así como coordinar y vigilar su cumplimiento. La capacitación electoral y la educación cívica podrán impartirse en las lenguas indígenas que se hablen en las distintas regiones del Estado;
+I.- Proponer, elaborar y coordinar los programas de capacitación electoral, educación cívica y de paridad de género y respeto a los derechos humanos de las mujeres en el ámbito público y político, que desarrollen los órganos del Instituto, así como coordinar y vigilar su cumplimiento, y, en su caso, promover la firma de convenios correspondientes. Dichos programas podrán impartirse en las lenguas indígenas que se hablen en las distintas regiones del Estado;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2365,21 +2431,29 @@ IV.- Implementar las acciones necesarias para exhortar a los ciudadanos a que cu
 
 V.- En su caso coordinar a los miembros de los Consejos Distritales sobre el procedimiento de integración de Casillas previsto en este Código;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-VI.- En su caso, organizar y ejecutar los programas de capacitación electoral para funcionarios de las Casillas;
+VI.- En su caso, organizar y ejecutar los programas de capacitación electoral para el personal del Instituto, así como las y los funcionarios de casilla;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 VII.- Informar al Secretario Ejecutivo sobre el desarrollo de sus actividades, para que éste lo haga del conocimiento del Consejo General;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-VIII.- En su caso, solicitar, por conducto del Consejero Presidente del Consejo Distrital respectivo, el apoyo en el desarrollo de sus atribuciones del Coordinador de Capacitación Electoral; y
+VIII.- En su caso solicitar, por conducto de la Consejera o Consejero Presidente del Consejo Distrital respectivo, el apoyo en el desarrollo de sus atribuciones del Coordinador o Coordinadora de Capacitación Electoral;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-IX.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
+IX.- Realizar y difundir campañas de información para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+X.- Diseñar y proponer campañas de educación cívica, paridad de género y cultura de respeto de los derechos humanos de las mujeres en el ámbito político - electoral, en coordinación con la Fiscalía Especializada en Investigación de Delitos Electorales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JULIO DE 2020)</small>
+
+XI.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y la o el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2391,13 +2465,13 @@ La Dirección de Prerrogativas y Partidos Políticos tendrá las atribuciones si
 
 I.- Apoyar al Secretario Ejecutivo en la recepción e integración de los expedientes de las organizaciones de ciudadanos que pretendan constituirse como partidos políticos estatales y remitirlos a la Comisión correspondiente;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-II.- Apoyar en el análisis de los convenios de coalición, de los convenios de asociación electoral, fusión y frentes, así como solicitudes de candidaturas comunes que se presenten ante el Instituto;
+II.- Apoyar en el análisis de los convenios de coalición, fusión y frentes, así como solicitudes de candidaturas comunes que se presenten ante el Instituto;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- Inscribir en el libro respectivo el registro de partidos políticos, así como los convenios de coaliciones, convenios de asociación electoral, fusiones y frentes;
+III.- Inscribir en el libro respectivo el registro de partidos políticos, así como los convenios de coaliciones, fusiones y frentes;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2431,9 +2505,9 @@ XI.- Proponer al Consejo General los lineamientos para el monitoreo en los medio
 
 XII.- Apoyar en la verificación de la cantidad de manifestaciones de apoyo válidas obtenidas por cada uno de los aspirantes a ser registrados como candidatos independientes a los distintos cargos de elección popular;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-XIII.- Cerciorarse, previo a la sesión correspondiente del Consejo General, que las solicitudes de sustitución de candidatos presentadas por los partidos, coaliciones o convenios de asociación electoral, cumplan con los requisitos previstos en el Código, y
+XIII.- Cerciorarse, previo a la sesión correspondiente del Consejo General, que las solicitudes de sustitución de candidatas y candidatos presentadas por los partidos o coaliciones, cumplan con los requisitos previstos en el Código; y
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
@@ -2497,6 +2571,28 @@ XX.- Controlar y supervisar la ejecución del presupuesto conforme a los fines, 
 
 XXI.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+ARTÍCULO 106 BIS.- La Dirección de Igualdad y No discriminación tendrá las atribuciones siguientes:
+
+I.- Diseñar, proponer, instrumentar y evaluar los programas y contenidos en materia de derechos humanos, paridad de género, igualdad de oportunidades, así como de prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género, en cuyo caso podrán adaptarse y aplicarse en las lenguas indígenas que se hablen en las distintas regiones del Estado;
+
+Para el cumplimiento de lo contenido en esta fracción y de mediar la autorización correspondiente, la Dirección podrá convenir lo correspondiente con las instancias públicas, privadas o sociales, las cuales deberán ajustarse a los programas, formatos y criterios que ésta emita.
+
+II.- Expedir las constancias respectivas, en términos de la fracción anterior.
+
+III.- Auxiliarse y coordinarse en el ejercicio de sus atribuciones, con la Comisión de Igualdad y No Discriminación del Instituto;
+
+IV.- Integrar y actualizar el registro de personas sancionadas por violencia política contra las mujeres en razón de género o por su delito equivalente, o por los delitos de violencia familiar o por incumplimiento de la obligación alimentaria, en términos y para los efectos dispuestos en el presente Código, la legislación penal y demás aplicable, respectivamente.
+
+Para lo anterior se generarán los vínculos de comunicación y coordinación con las instancias judiciales respectivas;
+
+V.- Sugerir y ejecutar los programas y campañas de concientización respecto a su ámbito de competencia;
+
+VI.- Coadyuvar con la Dirección de Capacitación Electoral y Educación Cívica en el cumplimiento de sus atribuciones; y
+
+VII.- Las demás que dispongan este Código y los ordenamientos aplicables, o le instruya el Instituto.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 107.
@@ -2543,13 +2639,13 @@ VII.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y el Sec
 
 El Titular de la Unidad de Formación y Desarrollo será convocado a las sesiones de la Junta Ejecutiva.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 108.
 
-El Consejo General integrará las Comisiones que considere necesarias para el desempeño de sus atribuciones, con el número de miembros que para cada caso acuerde, que siempre serán presididas por un Consejero Electoral.
+El Consejo General integrará las Comisiones que considere necesarias para el desempeño de sus atribuciones, con el número de miembros que para cada caso acuerde, las que siempre serán presididas por una o un Consejero Electoral.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Independientemente de lo señalado en el párrafo anterior, funcionarán permanentemente las Comisiones de Organización Electoral; Capacitación Electoral y Educación Cívica; Prerrogativas, Partidos Políticos, y Topes de Gastos de Campaña; Administrativa; de Quejas y Denuncias y de Fiscalización las cuales se integrarán por Consejeros Electorales.
+Independientemente de lo señalado en el párrafo anterior, funcionarán permanentemente las Comisiones de Organización Electoral; Capacitación Electoral y Educación Cívica; Prerrogativas, Partidos Políticos, y Topes de Gastos de Campaña; Administrativa; de Quejas y Denuncias; de Fiscalización, y de Igualdad y No Discriminación; las cuales se integrarán por Consejeras y Consejeros Electorales bajo del (sic) principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -3669,19 +3765,27 @@ Vencido el plazo para la justificación de la tercera inasistencia acumulada, el
 
 Los partidos políticos y Candidatos Independientes, podrán sustituir en todo tiempo a sus representantes ante los órganos electorales. Por cada representante propietario deberán acreditar un suplente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
-###### Artículo 159.
+###### ARTÍCULO 159.
 
-No podrán actuar como representantes de los partidos políticos ni de Candidatos Independientes, quienes se ostenten con los cargos siguientes:
+No podrán actuar como representantes de los partidos políticos ni de candidatas o candidatos independientes, las personas que se ostenten con los cargos o tengan las condiciones siguientes:
 
 I.- Consejeros Electorales y funcionarios del Instituto;
 
 II.- Magistrado, Secretario General, Secretario Instructor o Secretario de Estudio y Cuenta del Poder Judicial de la Federación, ni del Tribunal;
 
-III.- Miembro en servicio activo de cualquier fuerza armada o policíaca; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-IV.- Agente del Ministerio Público federal o local.
+III.- Miembro en servicio activo de cualquier fuerza armada o policíaca;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+IV.- Agente del Ministerio Público federal o local; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+V.- Hayan sido sancionadas por violencia política contra las mujeres en razón de género o su delito equivalente, o por los delitos de violencia familiar o de incumplimiento de la obligación alimentaria, en términos de este código y de la legislación penal y demás aplicable, respectivamente, impedimento que estará vigente durante dieciocho meses o para el siguiente proceso electoral inmediato, según corresponda, a partir de que queden firmes las resoluciones correspondientes.
 
 ###### ARTÍCULO 160.
 
@@ -3871,11 +3975,11 @@ Los conflictos de carácter laboral entre el Instituto y su personal, serán res
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 185.
 
-El proceso electoral deberá entenderse como el conjunto de actos ordenados por la Constitución Federal, la Constitución Local, este Código y las leyes vigentes en materia electoral, realizados por las autoridades electorales, los ciudadanos y los partidos políticos de manera corresponsable, que tiene por objeto la renovación periódica y pacífica de los integrantes del Poder Legislativo, Ejecutivo y miembros de los Ayuntamientos, de la Entidad Federativa.
+El proceso electoral deberá entenderse como el conjunto de actos ordenados por la Constitución Federal, la Constitución Local, este Código y las leyes vigentes en materia electoral, realizados por las autoridades electorales, la ciudadanía y los partidos políticos de manera corresponsable, que tiene por objeto la renovación periódica y pacífica de la integración de los Poderes Legislativo y Ejecutivo, y de las y los miembros de los Ayuntamientos de la entidad.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -4173,41 +4277,29 @@ VIII.- Fijar su propaganda en contravención a lo establecido en el Capítulo II
 
 IX.- Utilizar en su propaganda símbolos, distintivos, emblemas o figuras con motivo religioso; y
 
-X.- Utilizar expresiones verbales o escrito contrarios a la moral, que injurien a las autoridades, a los demás partidos políticos o precandidatos, o que tiendan a incitar a la violencia y al desorden.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+X.- Utilizar expresiones verbales o escritas que injurien a las autoridades, a los demás partidos políticos, precandidatas o precandidatos, que tiendan a incitar a la violencia y al desorden, o constituyan violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 201.
 
-Corresponde a los partidos políticos, a los convenios de asociación electoral, y a las coaliciones, en su caso, el derecho de solicitar el registro de candidatos a cargos de elección popular
+Corresponde a los partidos políticos y a las coaliciones, en su caso, el derecho de solicitar el registro de candidaturas a cargos de elección popular.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+Las y los ciudadanos podrán solicitar su registro como candidatas y candidatos para ser votadas y votados en forma independiente a cargos de elección popular, en los términos de este Código.
 
-Los ciudadanos podrán solicitar su registro como candidatos para ser votados en forma independiente a cargos de elección popular, en los términos de este Código.
+Para garantizar la paridad de género en forma horizontal, en cada fórmula, las (sic) personas propietaria y suplente deberán ser del mismo género.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2013)</small>
+Para atender el principio de paridad de género en forma vertical, la lista de representación proporcional se integrará por fórmulas de candidatas y candidatos, compuestas cada una por una persona propietaria y una suplente del mismo género. Se integrarán, alternadamente, con fórmulas de género distinto hasta agotar la lista, así como en el género que la encabece en cada periodo electivo.
 
-En cada fórmula, propietario y suplente deberán ser del mismo género.
+Respecto de los Ayuntamientos, los partidos políticos registrarán a sus candidatas y candidatos por planillas integradas por fórmulas de propietarios y suplentes del mismo género, las cuales deberán alternarse de manera paritaria entre ambos géneros. Para garantizar la paridad de género, en caso de existir número impar en el registro de candidatas y candidatos de los Ayuntamientos, los partidos políticos podrán optar por situar en el primer lugar de dichos registros, a una fórmula de género femenino.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2013)</small>
+El Instituto deberá rechazar el registro del número de candidaturas de un género que no garantice el principio de paridad, fijando al partido un plazo improrrogable de cuarenta y ocho horas para la sustitución de las mismas. En caso de que no sean sustituidas, no se aceptarán dichos registros.
 
-La lista de representación proporcional se integrará por fórmulas de candidatos, compuestas cada una por un propietario y un suplente del mismo género. Se establecerán de forma alternada, fórmulas de género distinto hasta agotar la lista.
+La obligación de cumplir con el principio de paridad de género por parte de los partidos políticos, para la postulación de candidaturas, se asumirá de manera individual y conjunta, es decir, como parte de las coaliciones o candidaturas comunes que aquellos pacten.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-La lista de representación proporcional se integrará por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Respecto de los Ayuntamientos, los partidos políticos registrarán a sus candidatos por planilla, integrada por propietarios y suplentes invariablemente del mismo género, debiéndose conformar de manera paritaria entre los dos géneros.
-
-> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 12017)</small>
-
-Para garantizar la paridad de género, en caso de existir número impar en el registro de candidatos a Diputados por cualquier vía, así como de los Ayuntamientos en forma horizontal o vertical, los partidos políticos podrán optar por situar en el primer lugar de dichos registros, a una fórmula de género femenino.
-
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE JULIO DE 12017)</small>
-
-El Instituto podrá rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+En este último caso, se garantizará que las postulaciones totales conjuntas correspondan al 50% para cada género, garantizando para el efecto la paridad vertical y horizontal en sus candidaturas y listas, según corresponda.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4229,19 +4321,27 @@ Los ciudadanos que aspiren a ser registrados como candidatos independientes debe
 
 Al efecto, los aspirantes estarán sujetos al tope de gastos que determine el Consejo General por el tipo de elección para la que pretendan ser postulados.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2020)</small>
 
-No podrán ser candidatos independientes las personas que:
+No podrán ser candidatas o candidatos independientes las personas que:
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 I.- Sean o hayan sido, presidente del comité ejecutivo nacional, estatal, municipal, dirigente, militante, afiliado o su equivalente, de un partido político, en los doce meses anteriores al día de la elección del proceso electivo en el que pretendan postularse;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+II.- (DEROGADA, P.O. 29 DE JULIO DE 2020)
 
-II.- Hayan participado como candidatos a cualquier cargo de elección popular postulados por partido político, en candidatura común, convenio de asociación electoral o coalición en el proceso electoral federal o local inmediato anterior;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- Hayan participado en un proceso de selección interna de candidatos de algún partido político o coalición en el mismo proceso electoral; y
+III.- Hayan participado en un proceso de selección interna de candidatas o candidatos de algún partido político o coalición en el mismo proceso electoral;
 
-IV.- Desempeñen un cargo de elección popular, a menos que renuncien al partido por el que accedieron al cargo, doce meses antes al día de la jornada electoral.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+IV.- Desempeñen un cargo de elección popular, a menos que renuncien al partido por el que accedieron al cargo, doce meses antes al día de la jornada electoral; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+
+V.- Hayan sido sancionados conforme a las leyes en la materia por haber ejercido violencia política contra las mujeres en razón de género o por su delito equivalente, o por los delitos de violencia familiar o de incumplimiento de la obligación alimentaria, en cuyo caso la restricción aplicará para el siguiente proceso electoral inmediato, a partir de que la resolución correspondiente quede firme.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4295,9 +4395,9 @@ I.- Durante la etapa establecida para tal efecto en la convocatoria, los aspiran
 
 II.- Los ciudadanos que decidan manifestar su respaldo a un determinado aspirante a candidato independiente lo harán mediante el llenado del formato que al efecto apruebe el Consejo General, mismo que deberá contener la firma o huella digital del ciudadano y copia de su credencial para votar vigente, éste deberá ser presentado ante los funcionarios electorales que se designen y los representantes que, en su caso, acrediten los aspirantes a candidato independiente, en los inmuebles destinados para ello.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Los partidos políticos, los convenios de asociación electoral y las coaliciones podrán acreditar representantes a fin de presenciar la recepción de los respaldos ciudadanos.
+Los partidos políticos y las coaliciones podrán acreditar representantes a fin de presenciar la recepción de los respaldos ciudadanos.
 
 Los inmuebles que se destinarán para la recepción de la manifestación del respaldo ciudadano serán:
 
@@ -4517,11 +4617,13 @@ Los candidatos independientes que no utilicen la totalidad del financiamiento p�
 
 Los candidatos independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-F. Los candidatos independientes figurarán en la misma boleta que se apruebe para los candidatos de los partidos políticos, candidaturas comunes, coaliciones o convenios de asociación electoral, según la elección en la que participen, de conformidad con este Código.
+F. Las y los candidatos independientes figurarán en la misma boleta que se apruebe para las y los candidatos de los partidos políticos, candidaturas comunes, o coaliciones, según la elección en la que participen, de conformidad con este Código.
 
-Se utilizará un recuadro para cada candidato independiente, fórmula o planilla de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos, candidatos comunes, coaliciones o convenios de asociación electoral que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos.
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL APARTADO F, P.O. 29 DE JULIO DE 2020.]</small>
+
+Se utilizará un recuadro para cada candidata o candidato independiente, fórmula o planilla de candidatas o candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos, candidatas y candidatos comunes, o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4645,11 +4747,11 @@ El partido político postulante deberá manifestar por escrito que los candidato
 
 En caso de que para un mismo cargo de elección popular sea solicitado el registro de diferentes candidatos por un mismo partido político, el Secretario Ejecutivo del Instituto requerirá al partido político a efecto de que informe al Consejo General, en un término de cuarenta y ocho horas, cuáles candidatos o fórmula prevalece. En caso de no hacerlo se tendrá por presentada únicamente la última solicitud.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 210.
 
-Los partidos políticos podrán registrar candidatos a Diputados por el principio de representación proporcional, sólo si hubieren registrado candidatos a Diputados por el principio de mayoría relativa, en por lo menos las dos terceras partes de los distritos electorales uninominales, lo que se podrá acreditar tanto con las fórmulas registradas por los propios partidos, como con las que correspondan a candidaturas comunes, convenios de asociación electoral, coalición total, parcial o flexible, a la que en su caso pertenezcan.
+Los partidos políticos podrán registrar candidatas y candidatos a Diputadas y Diputados por el principio de representación proporcional, sólo si hubieren registrado candidatas y candidatos a Diputadas y Diputados por el principio de mayoría relativa, en por lo menos las dos terceras partes de los distritos electorales uninominales, lo que se podrá acreditar tanto con las fórmulas registradas por los propios partidos, como con las que correspondan a candidaturas comunes, coalición total, parcial o flexible, a la que en su caso pertenezcan.
 
 ###### ARTÍCULO 211.
 
@@ -4691,11 +4793,11 @@ V.- Al concluir dicha sesión los Consejeros Presidentes de los Consejos respect
 
 El Consejero Presidente del Consejo General enviará para su publicación oportuna, por sólo una vez, en el Periódico Oficial del Estado y en los periódicos de mayor circulación, la relación completa de candidatos registrados, el cargo y el partido político o coalición que los postulan, así como de los candidatos independientes. De igual manera se publicarán las cancelaciones de registro o sustituciones de candidatos que procedan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 215.
 
-Los partidos políticos, los convenios de asociación electoral o las coaliciones solicitarán por escrito al Consejo General, en su caso, la sustitución de sus candidatos, observando las disposiciones siguientes:
+Los partidos políticos, y las coaliciones solicitarán por escrito al Consejo General, en su caso, la sustitución de sus candidatas y candidatos, observando las disposiciones siguientes:
 
 I.- Dentro de los plazos establecidos en el artículo 206 de este Código, procede la sustitución en cualquier momento;
 
@@ -4705,19 +4807,31 @@ II.- Vencidos los plazos a que se refiere la fracción anterior, sólo podrán s
 
 III.- Cuando por renuncia expresa del candidato o la negativa a aceptar la candidatura se haga del conocimiento del Consejo General, éste notificará de inmediato al partido político que solicitó el registro para que proceda a la sustitución, de encontrarse dentro de los plazos que así lo permitan. En caso contrario el Consejo General acordará la cancelación del registro.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2020)</small>
+
+### CAPÍTULO II BIS. DE LOS BLOQUES DE COMPETITIVIDAD ELECTORAL
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+ARTÍCULO 215 BIS.- Los bloques de competitividad electoral son la metodología a través de la cual el Instituto Electoral del Estado determina la votación alta, media y baja obtenida por cada partido político en los distritos electorales y municipios del Estado, correspondiente al proceso electoral inmediato anterior, y que sirve como base para la determinación de las candidaturas bajo el principio de paridad de género, evitando la postulación desproporcional de un mismo género en aquellas demarcaciones en donde un partido político haya obtenido los porcentajes de votación más altos o bajos, respectivamente.
+
+Para el caso de las coaliciones o candidaturas comunes, la votación referida se determinará atendiendo los convenios correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+ARTÍCULO 215 TER.- Con el fin de garantizar la paridad atendiendo los bloques de competitividad, el Consejo General publicará su contenido, a más tardar en el mes de diciembre del año anterior a la elección.
+
+Para el efecto, las candidaturas deberán asignarse en cada uno de los bloques observando el principio de paridad, intercalándose en los bloques impares, de ser necesario, la preponderancia del género en cada elección.
+
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO II], P.O. 22 DE AGOSTO DE 2015)</small>
 
 ### CAPÍTULO III. DE LAS CAMPAÑAS ELECTORALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
-
-### CAPÍTULO IV. DE LA PROPAGANDA ELECTORAL
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 216.
 
-La campaña electoral es el conjunto de actividades realizadas por los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, y los candidatos registrados para la obtención del voto.
+La campaña electoral es el conjunto de actividades realizadas por los partidos políticos, las coaliciones, en su caso, y las candidatas y candidatos que se registren para la obtención del voto.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4809,23 +4923,23 @@ b) Participen por lo menos dos candidatos de la misma elección.
 
 c) Se establezcan condiciones de equidad en el formato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 225.
 
-Los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, los candidatos y el Consejo General, podrán ejercer el derecho de aclaración y rectificación, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma no es veraz o ha deformado hechos o situaciones referentes a sus actividades, funciones o atributos personales.
+Los partidos políticos, las coaliciones, en su caso, las candidatas y candidatos y el Consejo General, podrán ejercer el derecho de aclaración y rectificación, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma no es veraz o ha deformado hechos o situaciones referentes a sus actividades, funciones o atributos personales.
 
 El derecho de aclaración y rectificación se ejercitará sin perjuicio de aquéllos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la Ley aplicable.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO III], P.O. 22 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO V. DE LOS TOPES A LOS GASTOS DE CAMPAÑA
+### CAPÍTULO IV. DE LA PROPAGANDA ELECTORAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 226.
 
-Propaganda electoral es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, los candidatos registrados y sus simpatizantes con el propósito de presentar ante la ciudadanía las candidaturas registradas, propiciando la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
+Propaganda electoral es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, las coaliciones, en su caso, las candidatas y candidatos registrados y sus simpatizantes con el propósito de presentar ante la ciudadanía las candidaturas registradas, propiciando la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4833,11 +4947,11 @@ ARTÍCULO 226 BIS.- Se entenderá por artículos promocionales utilitarios aquel
 
 Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 227.
 
-La propaganda que difundan los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, o los candidatos, se ajustará a lo dispuesto por la Constitución Federal, la Constitución Local, este Código y demás legislación aplicable. La propaganda, bajo cualquier modalidad de comunicación social, que difundan los poderes públicos, los órganos autónomos, las dependencias y entidades de la Administración Pública Estatal y Municipales o cualquier otro ente público deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+La propaganda que difundan los partidos políticos, las coaliciones, en su caso, o las candidatas y candidatos, se ajustará a lo dispuesto por la Constitución Federal, la Constitución Local, este Código y demás legislación aplicable. La propaganda, bajo cualquier modalidad de comunicación social, que difundan los poderes públicos, los órganos autónomos, las dependencias y entidades de la Administración Pública Estatal y Municipales o cualquier otro ente público deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 ###### ARTÍCULO 228.
 
@@ -4845,9 +4959,9 @@ Los partidos políticos durante sus campañas podrán elaborar propaganda en fav
 
 I.- No se emplearán símbolos patrios, ni signos, motivos o imágenes religiosas;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-II.- No deberá contener expresiones verbales o alusiones ofensivas, de difamación o calumnia, a las personas, partidos políticos, los convenios de asociación electoral, coaliciones, en su caso, candidatos, autoridades electorales o terceros; o en su caso, aquellas contrarias a las buenas costumbres o inciten al desorden;
+II.- No deberá contener expresiones verbales o alusiones ofensivas, de difamación o calumnia, a las personas, partidos políticos, coaliciones, en su caso, candidatas y candidatos, autoridades electorales o terceros; o en su caso, aquellas contrarias a las buenas costumbres o inciten al desorden;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4917,11 +5031,11 @@ VI.- En la elaboración de cualquier tipo de propaganda electoral no podrán emp
 
 VII.- La propaganda electoral deberá evitar cualquier ofensa, difamación o calumnia que denueste (sic) a la Nación, al Estado, candidatos, partidos políticos, instituciones o terceros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 233.
 
-La propaganda que los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
+La propaganda que los partidos políticos, las coaliciones, en su caso, y las candidatas y candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -4929,11 +5043,11 @@ La propaganda que los partidos políticos, los convenios de asociación electora
 
 Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio del Estado de este tipo de propaganda contratada en el extranjero. Las infracciones a lo establecido en este párrafo serán sancionadas en los términos de la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 234.
 
-En los casos previstos en los dos artículos anteriores, los órganos del Instituto y las autoridades correspondientes, dentro del ámbito de su competencia, velarán por la observancia de las disposiciones de este Código y demás legislación aplicable, adoptando las medidas a que hubiere lugar, con el fin de asegurar a partidos políticos, los convenios de asociación electoral, coaliciones, en su caso, y candidatos, el pleno ejercicio de sus derechos y el cumplimiento de sus obligaciones en esta materia.
+En los casos previstos en los dos artículos anteriores, los órganos del Instituto y las autoridades correspondientes, dentro del ámbito de su competencia, velarán por la observancia de las disposiciones de este Código y demás legislación aplicable, adoptando las medidas a que hubiere lugar, con el fin de asegurar a partidos políticos, coaliciones, en su caso, y candidatas y candidatos, el pleno ejercicio de sus derechos y el cumplimiento de sus obligaciones en esta materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4941,17 +5055,17 @@ En los casos previstos en los dos artículos anteriores, los órganos del Instit
 
 Los partidos políticos deberán retirar su propaganda electoral utilizada dentro de un plazo no mayor de siete días posteriores a la jornada electoral de que se trate, e informar de inmediato al Consejo General del cumplimiento de esta obligación.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Los partidos políticos, los convenios de asociación electoral, coaliciones, en su caso, y candidatos que utilicen material biodegradable en su propaganda electoral, no estarán sujetos a lo dispuesto en el párrafo anterior.
+Los partidos políticos, coaliciones, en su caso, y candidatas y candidatos que utilicen material biodegradable en su propaganda electoral, no estarán sujetos a lo dispuesto en el párrafo anterior.
 
 En caso contrario el Consejo General podrá solicitar a la autoridad municipal que corresponda el retiro de dicha propaganda, quien informará a su vez detallada y gráficamente el tipo de propaganda retirada del partido político del que se trate.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO IV], P.O. 22 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO VI. DEL CONVENIO DE COLABORACIÓN CON EL INSTITUTO NACIONAL ELECTORAL
+### CAPÍTULO V. DE LOS TOPES A LOS GASTOS DE CAMPAÑA
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 236.
 
@@ -4975,11 +5089,11 @@ VII.- La duración de las campañas.
 
 En ningún caso, el monto de los topes a los gastos de campaña, para cada elección, será superior a los topes fijados para las campañas de dos Senadores de la República, de la elección inmediata anterior, determinadas por el Consejo General del Instituto Nacional Electoral.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 237.
 
-Los gastos que realicen los partidos políticos, los convenios de asociación electoral, las coaliciones, en su caso, y sus candidatos, en las actividades de campaña, no podrán rebasar los topes que para cada elección determine el Consejo General.
+Los gastos que realicen los partidos políticos las coaliciones, en su caso, y sus candidatas y candidatos, en las actividades de campaña, no podrán rebasar los topes que para cada elección determine el Consejo General.
 
 ###### ARTÍCULO 238.
 
@@ -5013,7 +5127,7 @@ En el desempeño de sus atribuciones, el Consejo General por conducto del área 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO VII. DE LOS PROCEDIMIENTOS PARA LA UBICACIÓN E INTEGRACIÓN DE LAS CASILLAS
+### CAPÍTULO VI. DEL CONVENIO DE COLABORACIÓN CON EL INSTITUTO NACIONAL ELECTORAL
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -5059,9 +5173,9 @@ El ciudadano podrá interponer el recurso correspondiente de acuerdo a la legisl
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VI], P.O. 22 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO VIII. DEL REGISTRO DE REPRESENTANTES
+### CAPÍTULO VII. DE LOS PROCEDIMIENTOS PARA LA UBICACIÓN E INTEGRACIÓN DE LAS CASILLAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 246.
 
@@ -5199,9 +5313,9 @@ En caso de sustituciones, los Consejos Distritales deberán informar de las mism
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VII], P.O. 22 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO IX. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
+### CAPÍTULO VIII. DEL REGISTRO DE REPRESENTANTES
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 253.
 
@@ -5343,7 +5457,9 @@ Los representantes de los partidos políticos y de los candidatos, ante las casi
 
 > <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 22 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO IX. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 262.
 
@@ -5485,9 +5601,9 @@ IX.- En su caso la causa por la que se cambió de ubicación la casilla.
 
 El acta de escrutinio y cómputo es el documento en el que se hace constar la relación de lo acontecido durante el procedimiento de escrutinio y cómputo de cada elección en la Casilla y los resultados obtenidos, la que contendrá por lo menos:
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-I.- El número de votos emitidos a favor de cada partido político, convenio de asociación electoral, candidatura común, coalición, en su caso, o candidato;
+I.- El número de votos emitidos a favor de cada partido político, candidatura común, coalición, en su caso, o candidata o candidato;
 
 II.- Electores que votaron en la Casilla;
 
@@ -5555,9 +5671,7 @@ A los Presidentes de Casillas especiales les será entregada la documentación y
 
 ## TÍTULO CUARTO. DE LA JORNADA ELECTORAL
 
-### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### ARTÍCULO 268.
 
@@ -5595,7 +5709,9 @@ El día de la jornada electoral y el anterior a ella, estará prohibida la venta
 
 En el día de la jornada electoral, sólo podrán portar armas los miembros uniformados de las fuerzas públicas encargadas del orden.
 
-### CAPÍTULO III. DE LA RECEPCIÓN DEL VOTO
+### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 272.
 
@@ -5685,7 +5801,7 @@ VI.- El Consejo Distrital así lo disponga, por causa de fuerza mayor o caso for
 
 En todo caso la Casilla deberá instalarse en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del local original que no reunió los requisitos.
 
-### CAPÍTULO IV. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
+### CAPÍTULO III. DE LA RECEPCIÓN DEL VOTO
 
 ###### ARTÍCULO 279.
 
@@ -5843,7 +5959,7 @@ Acto seguido, el Secretario llenará el apartado correspondiente al cierre, del 
 
 En todo caso, el apartado correspondiente al cierre de votación contendrá la hora de cierre de la votación, y la causa por la que se cerró antes o después de las dieciocho horas.
 
-### CAPÍTULO V. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISIÓN DE LOS PAQUETES ELECTORALES
+### CAPÍTULO IV. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
 
 ###### ARTÍCULO 288.
 
@@ -5969,9 +6085,7 @@ VI.- La suma de los votos de cada partido coaligado o de candidatura común prov
 
 VII.- La suma total de los votos de todos los partidos políticos, una vez contabilizados tanto los votos de las boletas anteriormente señaladas, así como los de las boletas marcadas o cruzadas en un solo emblema para partidos sin coalición o candidatura común, como para los que sí lo tengan, deberá ser igual al número de votos válidos.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
-
-En el caso de los convenios de asociación electoral, el escrutinio y cómputo se sujetará a lo dispuesto por el artículo 65 del presente ordenamiento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 293.
 
@@ -6037,7 +6151,7 @@ El Presidente de la Casilla, bajo su responsabilidad, vigilará que por fuera de
 
 Cumplidas las actividades a que se refiere el artículo anterior, el Presidente de la Casilla fijará aviso en lugar visible del exterior de la misma, con los resultados de cada una de las elecciones, el que será firmado por el Presidente y los representantes que así deseen hacerlo.
 
-### CAPÍTULO I. DE LA RECEPCIÓN DE LOS PAQUETES ELECTORALES
+### CAPÍTULO V. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISIÓN DE LOS PAQUETES ELECTORALES
 
 ###### ARTÍCULO 299.
 
@@ -6085,9 +6199,7 @@ Los Consejos invariablemente harán constar en el acta circunstanciada de recepc
 
 ## TÍTULO QUINTO. DE LOS RESULTADOS Y DECLARACIÓN DE VALIDEZ DE LAS ELECCIONES
 
-### CAPÍTULO II. DE LOS RESULTADOS PRELIMINARES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+### CAPÍTULO I. DE LA RECEPCIÓN DE LOS PAQUETES ELECTORALES
 
 ###### ARTÍCULO 303.
 
@@ -6107,9 +6219,9 @@ De la recepción de los Paquetes Electorales se levantará acta circunstanciada 
 
 Los Consejos Distritales procederán de acuerdo a lo establecido en este artículo, para la recepción de los Paquetes Electorales que les correspondan, de conformidad con lo dispuesto por el tercer párrafo del artículo 301 de este Código.
 
-### CAPÍTULO III. DE LA INFORMACIÓN PRELIMINAR DE RESULTADOS
+### CAPÍTULO II. DE LOS RESULTADOS PRELIMINARES
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 304.
 
@@ -6123,15 +6235,17 @@ III.- Los representantes de los partidos políticos acreditados ante el órgano,
 
 Para el mejor conocimiento de los ciudadanos, el Consejero Presidente deberá fijar en el exterior del local del órgano correspondiente, cartel con los resultados preliminares de las elecciones.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO III. DE LA INFORMACIÓN PRELIMINAR DE RESULTADOS
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 305.
 
 El Programa de Resultados Electorales Preliminares es el mecanismo de información electoral, encargado de proveer los resultados preliminares y no definitivos, de carácter estrictamente informativo a través de la captura, digitalización y publicación de los datos plasmados en las actas de escrutinio y cómputo de las casillas que se reciben en los centros de acopio y transmisión de datos autorizados por el Instituto.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Su objetivo será el de informar oportunamente garantizando la seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados y la información en todas sus fases al Consejo General, los partidos políticos, los convenios de asociación electoral, coaliciones, candidatos, medios de comunicación y a la ciudadanía.
+Su objetivo será el de informar oportunamente garantizando la seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados y la información en todas sus fases al Consejo General, los partidos políticos, coaliciones, candidatas y candidatos, medios de comunicación y a la ciudadanía.
 
 La información oportuna, veraz y pública de los resultados preliminares es una función de carácter nacional que en el ámbito de sus atribuciones, tendrá el Instituto bajo su responsabilidad, en cuanto a su implementación y operación, regida por los principios de legalidad, certeza, objetividad, independencia y máxima publicidad.
 
@@ -6147,7 +6261,7 @@ El Consejo General del Instituto podrá contratar, para emitir información prel
 
 ## TÍTULO SEXTO. DE LOS CÓMPUTOS DE LAS ELECCIONES
 
-### CAPÍTULO II. DE LOS CÓMPUTOS DE LA ELECCIÓN DE MIEMBROS DE LOS AYUNTAMIENTOS EN LOS CONSEJOS MUNICIPALES
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 307.
 
@@ -6175,7 +6289,7 @@ IV.- Las planillas de miembros de los Ayuntamientos que resultaron electas; y
 
 V.- La relación de Regidores de representación proporcional que fueron asignados por el Consejo General, a los partidos políticos que tuvieron derecho a ello.
 
-### CAPÍTULO III. DE LOS CÓMPUTOS DE LA ELECCIÓN DE DIPUTADOS Y DE GOBERNADOR EN LOS CONSEJOS DISTRITALES
+### CAPÍTULO II. DE LOS CÓMPUTOS DE LA ELECCIÓN DE MIEMBROS DE LOS AYUNTAMIENTOS EN LOS CONSEJOS MUNICIPALES
 
 ###### ARTÍCULO 311.
 
@@ -6267,7 +6381,7 @@ XVIII.- Los errores contenidos en las actas originales de escrutinio y cómputo 
 
 XIX.- En ningún caso podrá solicitarse al Tribunal que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los Consejos Municipales.
 
-### CAPÍTULO IV. DE LOS CÓMPUTOS DE LA ELECCIÓN DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE GOBERNADOR EN EL CONSEJO GENERAL
+### CAPÍTULO III. DE LOS CÓMPUTOS DE LA ELECCIÓN DE DIPUTADOS Y DE GOBERNADOR EN LOS CONSEJOS DISTRITALES
 
 ###### ARTÍCULO 313.
 
@@ -6321,9 +6435,7 @@ b) El cómputo distrital de la elección de Diputados por el principio de repres
 
 c) El Consejo Distrital hará constar en el acta circunstanciada los resultados del cómputo distrital y los incidentes, si los hubo.
 
-### CAPÍTULO V. DE LA ASIGNACIÓN DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL EN EL CONSEJO GENERAL
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+### CAPÍTULO IV. DE LOS CÓMPUTOS DE LA ELECCIÓN DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE GOBERNADOR EN EL CONSEJO GENERAL
 
 ###### ARTÍCULO 315.
 
@@ -6367,7 +6479,9 @@ III.- Mandar colocar, con la formalidad necesaria, el Bando Solemne a que se ref
 
 IV.- Remitir al Congreso del Estado, para su conocimiento, en copia certificada, la declaratoria de validez de la elección y de la constancia de Gobernador Electo.
 
-### CAPÍTULO VI. DE LA ASIGNACIÓN DE MIEMBROS DE LOS AYUNTAMIENTOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL EN EL CONSEJO GENERAL
+### CAPÍTULO V. DE LA ASIGNACIÓN DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL EN EL CONSEJO GENERAL
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 318.
 
@@ -6433,13 +6547,11 @@ Los partidos políticos que hayan obtenido el Porcentaje Mínimo, tendrán derec
 
 I.- Se hará la declaratoria de aquellos partidos políticos que hayan obtenido el Porcentaje Mínimo;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+II.- (DEROGADA, P.O. 29 DE JULIO DE 2020)
 
-II.- La asignación por porcentaje mínimo que corresponda a cada partido político con derecho a participar en la elección por este principio, recaerá en la fórmula de candidatos del propio partido político a Diputados por el principio de mayoría relativa, que no hubiere alcanzado la constancia respectiva conforme a dicho principio por sí misma y haya obtenido el mayor porcentaje de votos en la elección; esta asignación consumirá el número de votos equivalente al tres por ciento de la votación válida emitida.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
-
-III.- Para las subsecuentes asignaciones de Diputados, se utilizarán los elementos de Cociente Natural y Resto Mayor, en términos del artículo 318 de este Código para estos efectos, los partidos políticos participarán en lo individual, independientemente de la forma de postulación de sus candidatos, y solo serán considerados los que obtuvieron el porcentaje mínimo, en términos de lo establecido en la fracción I de este artículo.
+III.- Para las asignaciones de Diputadas y Diputados se utilizarán los elementos de Cociente Natural y Resto Mayor, en términos del artículo 318 de este Código para estos efectos, los partidos políticos participarán en lo individual, independientemente de la forma de postulación de sus candidatas y candidatos, y solo serán considerados los que obtuvieron el porcentaje mínimo, en términos de lo establecido en la fracción I de este artículo.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -6453,9 +6565,9 @@ Hechas las asignaciones por cociente natural y resto mayor, con la finalidad de 
 
 a) En primer lugar se verificará que el porcentaje de representación en la Cámara, de los partidos políticos que participaron en la asignación no se encuentre fuera de sus límites inferior o superior respecto del porcentaje de votación que obtuvieron en lo individual para la elección de Diputados por el principio de mayoría relativa.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-El Consejo General identificará el número de diputaciones que por ambos principios le corresponde a cada uno de los partidos políticos, tratándose de las coaliciones, convenios de asociación electoral y/o candidaturas comunes hará esta identificación en atención a lo manifestado por estas en el momento del registro de sus candidatos.
+El Consejo General identificará el número de diputaciones que por ambos principios le corresponde a cada uno de los partidos políticos, tratándose de las coaliciones, o candidaturas comunes hará esta identificación en atención a lo manifestado por estas en el momento del registro de sus candidatas y candidatos.
 
 b) Hecho lo anterior se procederá a identificar los porcentajes de representación en la Cámara de cada uno de los partidos políticos que participaron en cualquiera de las asignaciones por representación proporcional, determinando cuáles de ellos se encuentran fuera de sus límites superior o inferior.
 
@@ -6467,13 +6579,13 @@ e) Si después de realizar la distribución prevista en el inciso anterior, qued
 
 f) Una vez que todos los partidos políticos que participaron en la asignación se encuentren dentro de sus límites inferior y superior, el Consejo General procederá a verificar que no se exceda el límite de contar con más de veintiséis diputados postulados por ambos principios, tomando en consideración, la forma de postulación por la que optó cada instituto político.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Para ello, el Consejo General consolidará el total de Diputados de mayoría relativa y representación proporcional que obtuvieron los partidos políticos que postularon candidatos por coalición, candidatura común o convenio de asociación electoral, lo que permitirá hacer la verificación considerándolos como una sola fuerza política. Los partidos que postularon candidatos en lo individual participarán de esa manera en la verificación, lo mismo sucederá tratándose de coaliciones parciales o flexibles.
+Para ello, el Consejo General consolidará el total de Diputadas y Diputados de mayoría relativa y representación proporcional que obtuvieron los partidos políticos que postularon candidatas o candidatos por coalición, o candidatura común, lo que permitirá hacer la verificación considerándolos como una sola fuerza política. Los partidos que postularon candidatas o candidatos en lo individual participarán de esa manera en la verificación, lo mismo sucederá tratándose de coaliciones parciales o flexibles.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-g) Si en términos de la fracción anterior se obtiene que alguna fuerza política se excede del límite de veintiséis diputados por ambos principios, le serán descontadas el número de diputaciones necesarias para ajustarla al mismo, para el caso de los partidos que postularon candidatos en coalición, candidatura común o convenio de asociación electoral, el descuento se hará en lo individual, comenzando con el partido político que se encuentre más cercano a su límite superior.
+g) Si en términos de la fracción anterior se obtiene que alguna fuerza política se excede del límite de veintiséis diputadas y diputados por ambos principios, le serán descontadas el número de diputaciones necesarias para ajustarla al mismo, para el caso de los partidos que postularon candidatas y candidatos en coalición, o candidatura común, el descuento se hará en lo individual, comenzando con el partido político que se encuentre más cercano a su límite superior.
 
 h) Las diputaciones que se obtengan de las deducciones previstas en el inciso anterior, se asignarán a aquel partido político que se encuentre mayormente subrepresentado en lo individual, independientemente de la forma en que hayan postulado candidatos.
 
@@ -6481,9 +6593,7 @@ i) En caso de que una vez verificados los límites previstos en el artículo 318
 
 Dentro de la etapa de preparación de la elección, el Consejo General emitirá los criterios necesarios para garantizar la adecuada aplicación de la fórmula de asignación de Diputaciones por el Principio de Representación Proporcional.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+### CAPÍTULO VI. DE LA ASIGNACIÓN DE MIEMBROS DE LOS AYUNTAMIENTOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL EN EL CONSEJO GENERAL
 
 ###### ARTÍCULO 322.
 
@@ -6583,9 +6693,9 @@ ARTÍCULO 324 NONIES.- (DEROGADO, P.O. 31 DE JULIO DE 2017)
 
 ## TÍTULO PRIMERO. DEL TRIBUNAL ELECTORAL DEL ESTADO
 
-### CAPÍTULO II. DE LA INTEGRACIÓN DEL TRIBUNAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 325.
 
@@ -6607,11 +6717,15 @@ Las sesiones en las que el Tribunal resuelva los asuntos de su competencia será
 
 En ningún caso los magistrados podrán abstenerse de votar salvo cuando tengan impedimento legal.
 
-### CAPÍTULO I. DE LAS ATRIBUCIONES DEL PRESIDENTE
+### CAPÍTULO II. DE LA INTEGRACIÓN DEL TRIBUNAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 327.
 
-El Tribunal se integra con tres magistrados, actuarán en forma colegiada y permanecerán en su encargo durante siete años, electos por el voto de las dos terceras partes de la Cámara de Senadores presentes en la sesión correspondiente, previa convocatoria pública, en los términos que determine la legislación aplicable.
+En términos de la legislación federal, el Tribunal se integra con tres magistradas y magistrados, según corresponda, observando el principio de paridad y alternando el género mayoritario; actuarán en forma colegiada y permanecerán en su encargo durante siete años, electos por el voto de las dos terceras partes de la Cámara de Senadores presentes en la sesión correspondiente, previa convocatoria pública, en los términos que determine la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 La presidencia del Tribunal deberá ser rotativa. El Presidente del Tribunal será electo por votación mayoritaria, entre sus miembros, por un periodo de dos años, en la primera sesión del pleno del año que corresponda.
 
@@ -6779,17 +6893,21 @@ VII.- Designar al Magistrado que habrá de suplir la ausencia temporal, cuando p
 
 VIII.- Aprobar su Reglamento Interior;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-IX.- Implementar el Servicio Profesional de Carrera para su personal, bajo los principios de igualdad de oportunidades, reconocimiento al mérito en el desempeño de las labores encomendadas, estabilidad en el empleo e identificación del interés institucional con el de los miembros del servicio; y
+IX.- Implementar el Servicio Profesional de Carrera para su personal, bajo los principios de igualdad de oportunidades, reconocimiento al mérito en el desempeño de las labores encomendadas, estabilidad en el empleo e identificación del interés institucional con el de las y los miembros del servicio;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-X.- Conocer, resolver y sancionar en caso de denuncias por faltas administrativas previstas por este Código.
+X.- Conocer, resolver y sancionar en caso de denuncias por faltas administrativas previstas por este Código; y
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XI.- Establecer en el ámbito de sus atribuciones, mecanismos para prevenir, atender, sancionar y en su caso erradicar la violencia política contra las mujeres en razón de género.
 
 ## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS FUNCIONARIOS DEL TRIBUNAL
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS
+### CAPÍTULO I. DE LAS ATRIBUCIONES DEL PRESIDENTE
 
 ###### ARTÍCULO 339.
 
@@ -6833,7 +6951,7 @@ XV.- Informar a la Cámara de Senadores, respecto de la vacante definitiva de al
 
 XVI.- Las demás que le confiera este Código y su Reglamento Interior.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DEL SECRETARIO GENERAL DE ACUERDOS
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS
 
 ###### ARTÍCULO 340.
 
@@ -6865,9 +6983,7 @@ VIII.- En los procedimientos sancionadores cuando advierta omisiones o deficienc
 
 IX.- Las demás que este Código y su Reglamento Interior les confiera.
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES DEL SECRETARIO INSTRUCTOR
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+### CAPÍTULO III. DE LAS ATRIBUCIONES DEL SECRETARIO GENERAL DE ACUERDOS
 
 ###### ARTÍCULO 341.
 
@@ -6891,9 +7007,9 @@ V.- No haber desempeñado cargo de elección popular o de dirigencia de algún p
 
 VI.- Contar con título y cédula profesional de Abogado o Licenciado en Derecho legalmente expedidos, con una antigüedad mínima de tres años anteriores a su nombramiento.
 
-### CAPÍTULO I. DE LOS RECURSOS
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DEL SECRETARIO INSTRUCTOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 343.
 
@@ -6925,73 +7041,55 @@ Las diligencias que se desahoguen fuera de las instalaciones del Tribunal estar�
 
 El Secretario General de Acuerdos, los Secretarios Instructores y demás personal técnico y administrativo deberán conducirse con eficacia, eficiencia, diligencia e imparcialidad en todos los casos y deberán guardar absoluta reserva sobre los asuntos del Tribunal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2020)</small>
 
-## TÍTULO CUARTO. DE LOS RECURSOS Y NULIDADES
+## TÍTULO CUARTO. DE LOS MEDIOS DE IMPUGNACIÓN Y NULIDADES
 
-### CAPÍTULO II. DE LA COMPETENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2020)</small>
+
+### CAPÍTULO I. DE LOS MEDIOS DE IMPUGNACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 347.
 
-Los recursos son los medios de impugnación que se interponen por los partidos políticos o la coalición, en su caso, a través de su representante, ciudadanos por su propio derecho, sin que sea admisible representación alguna y los candidatos independientes para combatir los actos o resoluciones de los órganos electorales o aquéllos que produzcan efectos similares. Su presentación no tendrá efectos suspensivos.
+Constituyen medios de impugnación aquellos que se interponen por los partidos políticos o la coalición, en su caso, a través de su representante, ciudadanas o ciudadanos por su propio derecho, sin que sea admisible representación alguna, con excepción del Juicio para la Protección de los derechos político – electorales de la ciudadanía, y las y los candidatos independientes, para combatir los actos o resoluciones de los órganos electorales o aquéllos que produzcan efectos similares. Su presentación no tendrá efectos suspensivos.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
 
 El Tribunal, al emitir sus resoluciones analizará y observará en todo caso la constitucionalidad de los actos que se reclamen, con la finalidad de garantizar que este Código y la actuación de la Autoridad Administrativa Electoral, se ajusten a los principios constitucionales en materia electoral.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 348.
 
-Los recursos que podrán interponerse son:
+Los medios de impugnación que podrán interponerse son:
 
-I.- Revisión;
+I.- Recurso de Apelación;
 
-II.- Apelación; y
+II.- Juicio para la protección de los derechos político-electorales de la Ciudadanía;
 
-III.- Inconformidad.
+III.-Recurso de Inconformidad; y
+
+IV.- Recurso de Revisión.
 
 ###### ARTÍCULO 349.
 
 La revisión es el recurso administrativo a través del cual se combaten los actos o resoluciones de los Consejos Distritales o Municipales o aquéllos que produzcan efectos similares. El término para interponerlo será de tres días, contados a partir del día siguiente a aquél en que se tenga conocimiento del acto que se recurre.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 350.
 
-La apelación es el recurso jurisdiccional a través del cual se combaten los actos o resoluciones del Consejo General o aquéllos que produzcan efectos similares, así como aquellos asuntos internos de partidos políticos relacionados con:
+La apelación es el recurso jurisdiccional a través del cual se combaten los actos o resoluciones del Consejo General o aquellos que produzcan efectos similares así como los actos u omisiones de la Presidencia del Consejo General o de la Secretaría Ejecutiva del Instituto así como aquellos asuntos internos de partidos políticos relacionados con:
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+I.- La elaboración y en su caso, modificación de sus documentos básicos;
 
-I.- La elaboración y modificación de sus documentos básicos;
+II.- Los procesos deliberativos para la definición de sus estrategias políticas y electorales, y en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados de los partidos políticos estatales; y
 
-II.- La determinación de los requisitos y mecanismos para la libre y voluntaria afiliación de los ciudadanos a los partidos políticos estatales;
+III.- La emisión de los reglamentos internos y acuerdos de carácter general que se requieran para el cumplimiento de sus documentos básicos.
 
-III.- La elección de los integrantes de los órganos de dirección de los partidos políticos estatales;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-IV.- Los procesos deliberativos para la definición de sus estrategias políticas y electorales, y en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados de los partidos políticos estatales;
-
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-V.- Los procedimientos y requisitos para la selección de precandidatos y candidatos a cargos de elección popular de los partidos políticos contendientes en la elección local correspondiente; y
-
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
-
-VI.- La emisión de los reglamentos internos y acuerdos de carácter general que se requieran para el cumplimiento de sus documentos básicos.
-
-Todas las controversias relacionadas con los asuntos internos de los partidos políticos serán resueltas por los órganos establecidos en sus estatutos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de los militantes. Sólo una vez que se agoten los medios partidistas de defensa los militantes tendrán derecho de acudir ante el Tribunal.
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-El plazo para interponerlo será de tres días, contados a partir del día siguiente a aquél en que se tenga conocimiento del acto que se recurre.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
-
-El Tribunal tiene que garantizar la tutela jurisdiccional de los derechos político-electorales de los ciudadanos que participen en los procesos electorales que se celebren en el Estado.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
-
-En el caso de que se acredite, que agotar los medios partidistas de defensa, pueda causar un perjuicio de imposible reparación en el goce de esos derechos, no será necesario agotar el principio de definitividad previsto en este artículo.
+El plazo para interponerlo será de tres días, contados a partir del día siguiente a aquel en se tenga conocimiento del acto que se recurre.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2012)</small>
 
@@ -7013,15 +7111,47 @@ II.- La Casilla o las Casillas, de manera individual, cuya votación se solicite
 
 III.- La relación, en su caso, que guarde el recurso con otras impugnaciones.
 
-### CAPÍTULO III. DE LAS PARTES
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+ARTÍCULO 353 BIS.- El juicio para la protección de los derechos político-electorales de la ciudanía; es el medio de impugnación a través del cual se combaten violaciones a los derechos de votar y ser votada o votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos, mismo que podrá ser ejercitado por el ciudadano por sí mismo y en forma individual, o por medio de sus representantes legales cuando:
+
+I.- Existan violaciones a los derechos político-electorales de ser votada o votado cuando, sea negado indebidamente el registro como candidata o candidato a un cargo de elección popular local habiendo sido propuesto por un partido político;
+
+II.- Habiéndose asociado con otras ciudadanas o ciudadanos para tomar parte en forma pacífica en asuntos políticos del Estado, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político local o agrupación política local. La demanda deberá presentarse por medio de quien ostente la representación legítima;
+
+III.- Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el primer párrafo del presente artículo.
+
+IV.- Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales.
+
+De igual forma, en (sic) tratándose de los actos y resoluciones emitidos por las autoridades partidistas durante los procesos internos de elección de dirigentes y selección de candidatas o candidatos a puestos de elección popular.
+
+V.- En contra de sanciones impuestas por algún órgano del instituto o de un partido político, siempre y cuando implique violación a un derecho político-electoral;
+
+VI.- Se vulnere el derecho a la información o el derecho de petición en materia político-electoral; y
+
+VII.- En contra de los actos y resoluciones que violenten el derecho para integrar las autoridades electorales del Estado.
+
+El Tribunal tiene que garantizar la tutela jurisdiccional de los derechos político-electorales de las y los ciudadanos que participen en los procesos electorales que se celebren en el Estado.
+
+El plazo para la interposición del juicio será de tres días contados a partir del día siguiente a aquel en (sic) se tenga conocimiento del acto que se recurre.
+
+Tratándose de controversias relacionadas con los asuntos internos de los partidos políticos éstas serán resueltas por los órganos establecidos en sus estatutos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de los militantes. Solo una vez que se agoten los medios partidistas de defensa los militantes tendrán derecho de acudir ante el Tribunal.
+
+En el caso de que se acredite, que agotar los medios partidistas de defensa, pueda causar un perjuicio de imposible reparación en el goce de esos derechos o requieran de mayores requisitos a los establecidos en el presente ordenamiento, no será necesario agotar el principio de definitividad.
+
+Las resoluciones que recaigan a los juicios para la protección de los derechos políticos electorales del ciudadano local serán definitivas e inatacables.
+
+### CAPÍTULO II. DE LA COMPETENCIA
 
 ###### ARTÍCULO 354.
 
 El Consejo General será competente para conocer y resolver el recurso administrativo de revisión.
 
-El Tribunal será competente para conocer y resolver los recursos jurisdiccionales de apelación e inconformidad.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-### CAPÍTULO IV. DE LAS PRUEBAS
+El Tribunal será competente para conocer y resolver sobre el Juicio para la Protección de los Derechos Político - Electorales de la Ciudadanía, así como los recursos jurisdiccionales de apelación y de inconformidad.
+
+### CAPÍTULO III. DE LAS PARTES
 
 ###### ARTÍCULO 355.
 
@@ -7035,13 +7165,11 @@ I.- El recurrente, que será quien estando legitimado lo presente por sí mismo 
 
 II.- La autoridad responsable, que será el órgano electoral cuyo acto o resolución se combata a través de algún medio de impugnación; y en su caso, el partido político que haya realizado el acto o emitido la resolución que se impugna; y
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- El tercero interesado, que lo será el partido político, los convenios de asociación electoral, la candidatura común, la coalición, ciudadano o candidato independiente, que resienta algún perjuicio con el medio de impugnación intentado.
+III.- El tercero interesado, que lo será el partido político, la candidatura común, la coalición, la o el ciudadano, candidata o candidato independiente, que resienta algún perjuicio con el medio de impugnación intentado.
 
-### CAPÍTULO V. DE LA SUBSTANCIACIÓN Y RESOLUCIÓN DE LOS RECURSOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+### CAPÍTULO IV. DE LAS PRUEBAS
 
 ###### ARTÍCULO 356.
 
@@ -7081,11 +7209,13 @@ Tendrán el valor de presunción las documentales privadas y las pruebas técnic
 
 Para la admisión y desahogo de pruebas que no se encuentran contempladas en el presente ordenamiento y que fueran ofrecidas por el recurrente, el Tribunal deberá considerar si la prueba es conducente, si no se vulneran los plazos legales fijados para la resolución de los asuntos que son competencia del organismo jurisdiccional electoral y las posibilidades materiales.
 
-### CAPÍTULO VI. DE LAS NULIDADES
+### CAPÍTULO V. DE LA SUBSTANCIACIÓN Y RESOLUCIÓN DE LOS RECURSOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 361.
 
-Los partidos políticos, los convenios de asociación electoral, las coaliciones, los ciudadanos por su propio derecho, sin que sea admisible representación alguna o candidatos independientes, en términos de lo dispuesto por el artículo 355 fracción I de este Código, podrán presentar recursos por escrito, en los que se observará lo siguiente:
+Los partidos políticos, las coaliciones, las o los ciudadanos por su propio derecho, sin que sea admisible representación alguna o candidatas o candidatos independientes, en términos de lo dispuesto por el artículo 355 fracción I de este Código, podrán presentar recursos por escrito, en los que se observará lo siguiente:
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -7177,9 +7307,9 @@ II.- El promovente no acredite su personalidad o interés jurídico;
 
 III.- Su presentación sea fuera de los plazos que señala este Código;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-IV.- El representante del partido político, de la candidatura común, del convenio de asociación electoral, del candidato independiente o coalición que promueva, omita firmar autógrafamente el escrito del recurso;
+IV.- El representante del partido político, de la candidatura común, de la candidata o candidato independiente o coalición que promueva, omita firmar autógrafamente el escrito del recurso;
 
 V.- Las pruebas no se ofrezcan ni se acompañen al escrito del recurso;
 
@@ -7225,7 +7355,9 @@ Los recursos deberán ser resueltos dentro de los plazos siguientes:
 
 I.- El recurso administrativo de revisión, en la siguiente sesión que celebre el Consejo General después de su presentación y en que sea sometido el proyecto correspondiente, siempre que las posibilidades materiales permitan su debida substanciación;
 
-II.- El recurso jurisdiccional de apelación, dentro de los diez días siguientes a aquél en que sea recibido por el Tribunal; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+II.- El recurso jurisdiccional de apelación y el juicio para la protección de los derechos político - electorales local (sic) de la ciudadanía, dentro de los diez días siguientes a aquel en que sea recibido por el Tribunal, y durante el desarrollo del proceso electoral, el último mencionado dentro de los cuatro días siguientes a aquel en que sea recibido por el Tribunal; y
 
 III.- El recurso jurisdiccional de inconformidad, en su totalidad:
 
@@ -7265,9 +7397,9 @@ I.- A las autoridades responsables mediante oficio, en un plazo de cuarenta y oc
 
 II.- A los recurrentes, se entenderá para todos los efectos que fueron notificados, si su representante se encuentra presente en la sesión en que se resuelva el recurso.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Si el representante del partido político, candidatura común, candidato independiente, convenio de asociación electoral o coalición, en su caso, que interpuso el recurso no asiste a la sesión en que se resuelva el recurso, la resolución se notificará en el domicilio que haya señalado para tal efecto, o en su caso por estrados, dentro de las cuarenta y ocho horas siguientes al momento en que concluya la sesión de referencia, y
+Si el representante del partido político, candidatura común, candidata o candidato independiente, o coalición, en su caso, que interpuso el recurso no asiste a la sesión en que se resuelva el recurso, la resolución se notificará en el domicilio que haya señalado para tal efecto, o en su caso por estrados, dentro de las cuarenta y ocho horas siguientes al momento en que concluya la sesión de referencia; y
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
@@ -7285,7 +7417,9 @@ I.- Apercibimiento.
 
 II.- Amonestación.
 
-III.- Multa hasta por trescientas veces el salario mínimo diario general vigente en la Capital del Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+III.- Multa hasta por trescientas veces la Unidad de Medida y Actualización vigente al momento de la comisión de la infracción. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada.
 
 IV.- Auxilio de la fuerza pública.
 
@@ -7297,7 +7431,7 @@ Los medios de apremio y las correcciones disciplinarias a que se refiere este ar
 
 ARTÍCULO 376 TER.- Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de esta Constitución, realice el Instituto Nacional Electoral con motivo del proceso electoral, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la ley aplicable.
 
-### CAPÍTULO VII. DE LA DECLARATORIA DE NULIDAD Y SUS EFECTOS
+### CAPÍTULO VI. DE LAS NULIDADES
 
 ###### ARTÍCULO 377.
 
@@ -7399,9 +7533,7 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 Ningún partido político o candidato podrá invocar como causas de nulidad, hechos o circunstancias que el propio partido político o candidato dolosamente hayan provocado.
 
-### CAPÍTULO VIII. DE LAS FALTAS ADMINISTRATIVAS Y LAS SANCIONES
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+### CAPÍTULO VII. DE LA DECLARATORIA DE NULIDAD Y SUS EFECTOS
 
 ###### ARTÍCULO 380.
 
@@ -7437,21 +7569,25 @@ Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignaci�
 
 > <small>N. DE E. EL DECRETO PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2015, REFIERE LA REUBICACIÓN DE LOS ARTÍCULOS 386 AL 393 AL CAPÍTULO I DEL SIGUIENTE TÍTULO.</small>
 
-### CAPÍTULO I. DE LOS PROCEDIMIENTOS SANCIONADORES
+### CAPÍTULO VIII. DE LAS FALTAS ADMINISTRATIVAS Y LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ## TÍTULO CUARTO (SIC). DEL RÉGIMEN SANCIONADOR ELECTORAL
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ORDINARIO
+### CAPÍTULO I. DE LOS PROCEDIMIENTOS SANCIONADORES
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 386.
 
-Los procedimientos sancionadores se clasifican en procedimientos ordinarios que se instauran por faltas cometidas dentro y fuera de los procesos electorales, y especiales sancionadores, expeditos, por faltas cometidas dentro de los procesos electorales.
+Los procedimientos sancionadores se clasifican en:
+
+I.- Ordinarios: Se instauran por faltas cometidas dentro y fuera de los procesos electorales, y
+
+II.- Especiales sancionadores: Aquéllos que se instauran y resuelven de manera expedita por faltas cometidas dentro de los procesos electorales.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7477,9 +7613,19 @@ VIII.- Las organizaciones de ciudadanos que pretendan formar un partido polític
 
 IX.- Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos.
 
-X.- Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+X.- Las y los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión.
 
 XI.- Los demás sujetos obligados en los términos del presente Código.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en este Código y en la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla, será sancionado en términos de lo dispuesto.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+Las quejas o denuncias por violencia política contra las mujeres en razón de género se sustanciarán a través del Procedimiento Especial Sancionador.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7499,9 +7645,9 @@ V.- Exceder los topes de gastos de campaña.
 
 VI.- La realización de actos de precampaña o campaña en territorio extranjero cuando se acredite que se hizo con consentimiento de aquéllos, sin perjuicio de que se determine la responsabilidad de quien hubiese cometido la infracción.
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-VII.- La difusión de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, autoridades electorales, partidos políticos, los convenios de asociación electoral, coaliciones o candidatos independientes.
+VII.- La difusión de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, autoridades electorales, partidos políticos, coaliciones, candidatas o candidatos independientes.
 
 VIII.- El incumplimiento de las obligaciones establecidas por el presente Código en materia de transparencia y acceso a la información.
 
@@ -7509,73 +7655,139 @@ IX.- El incumplimiento de las reglas establecidas para el manejo y comprobación
 
 X.- La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto.
 
-XI.- La comisión de cualquier otra falta de las previstas en este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+XI.- Promover, tolerar o incurrir en actos u omisiones que constituyan violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+XII.- La comisión de cualquier otra falta de las previstas en este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 389.
 
-Son infracciones de los aspirantes, precandidatos o candidatos a cargos de elección popular al presente Código:
+Son infracciones de las y los aspirantes, precandidatas o precandidatos, candidatas o candidatos a cargos de elección popular al presente Código:
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 I.- Realizar actos anticipados de precampaña o campaña, según sea el caso.
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 II.- Tratándose de los aspirantes o precandidatos, solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por este Código.
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 III.- Omitir en los informes respectivos de los recursos recibidos, en dinero o en especie, destinados a su precampaña o campaña.
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 IV.- No presentar el informe de gastos de precampaña o campaña establecidos en este Código.
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 V.- Exceder el tope de gastos de precampaña o campaña establecidos.
 
-VI.- El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+VI.- La realización de actos u omisiones que constituyan violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+VII.- El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 390.
 
-Son infracciones de los aspirantes y candidatos independientes a cargos de elección popular al presente Código:
+Son infracciones de las y los aspirantes y candidatas o candidatos independientes a cargos de elección popular al presente Código:
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 I.- El incumplimiento de las obligaciones establecidas en este Código;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 II.- La realización de actos anticipados de campaña;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 III.- Solicitar o recibir recursos en efectivo o en especie, de personas no autorizadas por este Código;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 IV.- Liquidar o pagar, así como aceptar la liquidación o el pago de actos u operaciones mediante el uso de efectivo o metales y piedras preciosas;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 V.- Utilizar recursos de procedencia ilícita para el financiamiento de cualquiera de sus actividades;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 VI.- Recibir aportaciones y donaciones en efectivo, así como metales o piedras preciosas de cualquier persona física o jurídica colectiva;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 VII.- No presentar los informes que correspondan para obtener el apoyo ciudadano y de campaña establecidos en este Código;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 VIII.- Exceder el tope de gastos para obtener el apoyo ciudadano y de campaña establecido por el Consejo General;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 IX.- No reembolsar los recursos provenientes del financiamiento público no ejercidos durante las actividades de campaña;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 X.- El incumplimiento de las resoluciones y acuerdos del Instituto;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 XI.- La contratación, en forma directa o por terceras personas, de tiempo en cualquier modalidad en radio o televisión;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 XII.- La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 XIII.- La difusión de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, autoridades electorales, partidos políticos, coaliciones o candidatos independientes;
 
-XIV.- La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-XV.- El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+XIV.- La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto;
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
+
+XV.- Incurrir en actos u omisiones que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+XVI.- El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 391.
 
-Son infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o jurídica colectiva, al presente Código:
+Son infracciones de las y los ciudadanos, de las y los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o jurídica colectiva, al presente Código:
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 I.- La negativa a entregar la información requerida por el Instituto, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular;
 
-II.- La presentación de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la denuncia; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+II.- La presentación de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la denuncia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
+
+III.- La realización de actos u omisiones que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+IV.- El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7583,21 +7795,37 @@ III.- El incumplimiento de cualquiera de las disposiciones contenidas en este C�
 
 Son infracciones de los observadores electorales, y de las organizaciones con el mismo propósito el incumplimiento de las obligaciones establecidas en términos de la normativa aplicable.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
-ARTÍCULO 392 BIS.- Son infracciones de las autoridades o los servidores públicos, según sea el caso, de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público, al presente Código:
+ARTÍCULO 392 BIS.- Son infracciones de las autoridades o de las y los servidores públicos, según sea el caso, de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público, al presente Código:
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 I.- La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por el Instituto;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 II.- La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 III.- El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Federal, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
 IV.- Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
 
-V.- La utilización de programas sociales y de sus recursos, del ámbito estatal o municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-VI.- El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+V.- La utilización de programas sociales y de sus recursos, del ámbito estatal o municipal, con la finalidad de inducir o coaccionar a las o los ciudadanos para votar a favor o en contra de cualquier partido político, candidata o candidato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
+
+VI.- La realización de actos u omisiones que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+VII.- El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7611,17 +7839,27 @@ Son infracciones de los notarios públicos al presente Código, el incumplimient
 
 Son infracciones de los extranjeros al presente Código, las conductas que violen lo dispuesto por el artículo 33 de la Constitución Federal y las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 395.
 
-Son infracciones de las organizaciones de ciudadanos que pretendan constituir partidos políticos, al presente Código:
+Son infracciones de las organizaciones de ciudadanas y ciudadanos que pretendan constituir partidos políticos, al presente Código:
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 I.- Omitir el informe mensual a la Unidad Técnica de Fiscalización del Instituto del origen y destino de los recursos que obtengan para el desarrollo de las actividades tendentes a la obtención del registro;
 
-II.- Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito, salvo el caso de agrupaciones políticas nacionales; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- Realizar o promover la afiliación colectiva de ciudadanos a la organización o al partido para el que se pretenda registro.
+II.- Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito, salvo el caso de agrupaciones políticas nacionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
+
+III.- Realizar actos u omisiones que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JULIO DE 2020)</small>
+
+IV.- Realizar o promover la afiliación colectiva de ciudadanas y ciudadanos a la organización o al partido para el que se pretenda registro.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7629,21 +7867,39 @@ III.- Realizar o promover la afiliación colectiva de ciudadanos a la organizaci
 
 Son infracciones de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como de sus integrantes o dirigentes, cuando actúen o se ostenten con tal carácter, o cuando dispongan de los recursos patrimoniales de su organización, al presente Código:
 
-I.- Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-II.- La transgresión, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
+I.- Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos;
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
+
+II.- La realización de actos u omisiones que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+III.- La transgresión, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 397.
 
-Son infracciones de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión al presente Código:
+Son infracciones de las y los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión al presente Código:
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 I.- La inducción a la abstención, a votar por un candidato o partido político, o a no hacerlo por cualquiera de ellos, en los lugares destinados al culto, en locales de uso público o en los medios de comunicación.
 
-II.- Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
+II.- Realizar o promover aportaciones económicas a un partido político, a una o un aspirante, o a una candidata o candidato a cargo de elección popular;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2020)</small>
+
+III.- Realizar actos u omisiones que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+
+IV.- El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7655,39 +7911,69 @@ I.- Respecto de los partidos políticos:
 
 a) Con amonestación pública.
 
-b) Con multa de cinco mil hasta diez mil días de salario mínimo general vigente en la entidad, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, o de los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
+b) Con multa de cinco mil hasta diez mil días del Valor de la Unidad de medida y actualización vigente al momento de la comisión de la infracción, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, así como de las y los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
 
 c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
 
-d) En los casos de graves y reiteradas conductas violatorias de la Constitución Local y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político local.
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones de prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
+d) En los casos de graves y reiteradas conductas violatorias de la Constitución Local y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, se sancionará con la cancelación de su registro como partido político local.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+e) Las demás dispuestas dentro del presente Código y leyes aplicables.
 
 II.- Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
 
 a) Con amonestación pública.
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
+b) Con multa de mil hasta cinco mil días del Valor de la Unidad de Medida y Actualización vigente al momento de la comisión de la infracción.
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo.
 
 d) Tratándose de infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. De resultar electo el precandidato en el proceso interno, el partido político no podrá registrarlo como candidato.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+e) Las demás dispuestas dentro del presente Código y leyes aplicables.
+
 III.- Respecto de los candidatos independientes:
 
 a) Con amonestación pública.
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
+b) Con multa de mil hasta cinco mil días del Valor de la Unidad de Medida y Actualización vigente al momento de la comisión de la infracción.
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo.
 
 En caso de que el aspirante omita informar y comprobar ante la Unidad Técnica de Fiscalización del Instituto Nacional Electoral o al Instituto en los casos de delegación los gastos tendentes a recabar el apoyo ciudadano, no podrá ser registrado en las dos elecciones subsecuentes, independientemente de las responsabilidades que en su caso le resulten en términos de la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+d) Las demás dispuestas dentro del presente Código y leyes aplicables.
+
 IV.- Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquier persona física o jurídica colectiva:
 
 a) Con amonestación pública.
 
-b) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o jurídica colectiva, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil días de salario mínimo general vigente en la entidad, en el caso de que promuevan una denuncia frívola.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
-Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+b) Respecto de las y los ciudadanos, dirigentes y afiliados a los partidos políticos, o cualquier persona física o jurídica colectiva, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil días del Valor de la Unidad de Medida y Actualización vigente, en el caso de que promuevan una denuncia frívola.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+c) Las demás dispuestas dentro del presente Código y leyes aplicables.
 
 V.- Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -7695,13 +7981,21 @@ a) Con amonestación pública.
 
 b) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales federales o locales, según sea el caso.
 
-c) Con multa de cincuenta hasta doscientos días de salario mínimo general vigente en la entidad, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
+c) Con multa de cincuenta hasta doscientos días del Valor de la Unidad de Medida y Actualización vigente al momento de la comisión de la infracción, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+d) Las demás dispuestas dentro del presente Código y leyes aplicables.
 
 VI.- Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 a) Con amonestación pública.
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente en la entidad, según la gravedad de la falta.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
+b) Con multa de mil hasta cinco mil días Valor de la Unidad de Medida y Actualización vigente al momento de la comisión de la infracción, según la gravedad de la falta.
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político local.
 
@@ -7709,7 +8003,9 @@ VII.- Respecto de las organizaciones sindicales, laborales o patronales, o de cu
 
 a) Con amonestación pública.
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente en la entidad, según la gravedad de la falta.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
+b) Con multa de mil hasta cinco mil días Valor de la Unidad de Medida y Actualización vigente al momento de la comisión de la infracción, según la gravedad de la falta.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7761,9 +8057,39 @@ Los recursos obtenidos con motivo de la aplicación de sanciones económicas der
 
 En todo caso, las infracciones que se llegaren a cometer, serán independientes de las que pudieren ser constitutivas de delitos, en términos de la legislación aplicable.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2020)</small>
+
+### CAPÍTULO I BIS. DE LAS MEDIDAS CAUTELARES Y DE REPARACIÓN INTEGRAL EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+ARTÍCULO 401 BIS.- Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+I.- Realizar análisis de riesgos y un plan de seguridad;
+
+II.- Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+III.- Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+IV.- Ordenar la suspensión del cargo partidista, de la persona agresora; y
+
+V.- Cualquier otra requerida para la protección de la víctima, o quien ella solicite.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+ARTÍCULO 401 TER.- En la resolución de los procedimientos sancionadores por violencia política contra las mujeres en razón de género, la autoridad resolutora deberá estimar ordenar las medidas de reparación integral que correspondan, considerando al menos las siguientes:
+
+a) Indemnización de la víctima;
+
+b) Restitución inmediata en el cargo al que se obligó a renunciar por motivos de violencia;
+
+c) Disculpa pública; y
+
+d) Medidas de no repetición.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO III. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+### CAPÍTULO II. DEL PROCEDIMIENTO ORDINARIO
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7907,6 +8233,10 @@ La sanción que se imponga, en su caso, deberá de valorar el grado de frivolida
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2015)</small>
 
+### CAPÍTULO III. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 410.
 
 Dentro de los procesos electorales, el Secretario Ejecutivo del Instituto, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
@@ -7916,6 +8246,12 @@ I.- Violen lo establecido en el octavo párrafo del artículo 134 de la Constitu
 II.- Contravengan las normas sobre propaganda política o electoral; y
 
 III.- Constituyan actos anticipados de precampaña o campaña.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2020)</small>
+
+La Secretaría Ejecutiva, instruirá el procedimiento especial establecido en este capítulo, en cualquier momento, cuando se presenten denuncias, o de oficio, por hechos relacionados con violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 29 DE JULIO DE 2020)</small>
 
 En la presunta comisión de infracciones relacionadas con propaganda política o electoral en radio y televisión en las entidades federativas, el Instituto informará y presentará la denuncia ante el Instituto Nacional Electoral.
 
@@ -7939,7 +8275,9 @@ V.- Narración expresa y clara de los hechos en que se basa la denuncia;
 
 VI.- Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y
 
-VII.- En su caso, las medidas cautelares que se soliciten.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+VII.- En su caso, las medidas cautelares o de protección que se soliciten.
 
 El órgano del Instituto que reciba o promueva la denuncia la remitirá inmediatamente al Secretario Ejecutivo, para que ésta la examine junto con las pruebas aportadas.
 
@@ -7965,7 +8303,9 @@ El Secretario Ejecutivo deberá admitir o desechar la denuncia en un plazo no ma
 
 Cuando el Secretario Ejecutivo admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
-Si el Secretario Ejecutivo considera necesaria la adopción de medidas cautelares que considere necesarias, las propondrá a la Comisión de Quejas y Denuncias, la cual dentro del plazo de cuarenta y ocho horas resolverá lo conducente, en los términos establecidos en este Código. Esta decisión podrá ser impugnada ante el Tribunal.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+
+Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares o de protección, las propondrá a la Comisión de Quejas y Denuncias, la cual dentro del plazo de cuarenta y ocho horas resolverá lo conducente, en los términos establecidos en este Código. Esta decisión podrá ser impugnada ante el Tribunal.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -8024,6 +8364,40 @@ Las sentencias que resuelvan el procedimiento especial sancionador podrán tener
 I.- Declarar la inexistencia de la violación objeto de la queja o denuncia, y en su caso, revocar las medidas cautelares que se hubieren impuesto.
 
 II.- Imponer las sanciones que resulten procedentes en términos de lo dispuesto en este Código.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+###### ARTÍCULO 416.
+
+En los procedimientos relacionadas (sic) con violencia política contra las mujeres en razón de género, la Secretaría Ejecutiva ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+Cuando la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales o locales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
+
+Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley General de Responsabilidades Administrativas.
+
+La denuncia deberá contener lo siguiente:
+
+a) Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+b) Domicilio para oír y recibir notificaciones;
+
+c) Narración expresa de los hechos en que se basa la denuncia;
+
+d) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y
+
+e) En su caso, las medidas cautelares y de protección que se soliciten.
+
+La Secretaría Ejecutiva, deberá admitir o desechar la denuncia en un plazo no mayor a veinticuatro horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará (sic) Tribunal, para su conocimiento.
+
+Se desechará la denuncia cuando:
+
+a) No se aporten u ofrezcan pruebas.
+
+b) Sea notoriamente frívola o improcedente.
+
+Cuando la Secretaría Ejecutiva admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal, se desarrollarán conforme lo dispuesto en el artículo 415 de este Código.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -8358,3 +8732,21 @@ P.O. 24 DE JULIO DE 2020.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES AL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Los partidos políticos que a la publicación del presente cuenten con registro vigente en la entidad, contarán con sesenta días hábiles, contados a partir de la conclusión del proceso electoral local 2020-2021, para dar cumplimiento a las disposiciones contenidas dentro de los artículos 34, 35 y 36 del presente Decreto.
+
+TERCERO. El contenido de la reforma al artículo 47 del presente Decreto surtirá efectos a partir del Ejercicio Fiscal 2021.
+
+CUARTO. El Instituto Electoral del Estado, ordenara las acciones administrativas y financieras necesarias, atendiendo su disposición presupuestaria, para dar cumplimiento al contenido del artículo 100 del presente Decreto.
+
+QUINTO. Las quejas y denuncias presentadas por actos u omisiones que impliquen violencia política contra las mujeres en razón de género, se substanciarán y resolverán de conformidad con la normatividad vigente al momento de su configuración.
+
+SEXTO. Las modificaciones contenidas dentro de los artículos 16, 201 y 320 del presente Decreto, surtirán efectos con la entrada en vigor de las reformas realizadas al artículo 35 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, con relación a la eliminación de la asignación de la primera diputación de representación proporcional, a la fórmula de candidatas o candidatos de mayoría relativa que no hubiesen obtenido la constancia respectiva.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
