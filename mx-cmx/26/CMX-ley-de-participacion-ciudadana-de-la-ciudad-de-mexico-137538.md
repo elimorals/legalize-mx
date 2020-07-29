@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-de-la-ciudad-de-mexico-137538"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-12"
-last_updated: "2019-08-12"
+last_updated: "2020-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137538&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-12"
 
 LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2020.
 
 Ley publicada en el Número 154 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 12 de agosto de 2019.
 
@@ -2258,6 +2258,12 @@ EL CONGRESO DE LA CIUDAD DE MÉXICO DEBE APROBAR EN EL DECRETO DE PRESUPUESTO DE
 
 LA PERSONA TITULAR DE LA JEFATURA DE GOBIERNO DE LA CIUDAD DE MÉXICO INCLUIRÁ EN LOS PROYECTOS DE PRESUPUESTOS DE EGRESOS PARA LOS EJERCICIOS FISCALES CORRESPONDIENTES EL MONTO TOTAL DE RECURSOS QUE SE DESTINARÁN PARA EL PRESUPUESTO PARTICIPATIVO.
 
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+###### ARTÍCULO VIGÉSIMO.
+
+EN VIRTUD DE LA PANDEMIA ORIGINADA POR EL COVID-19, ASÍ COMO LA IMPOSIBILIDAD REAL PARA CONTINUAR DE MANERA ADECUADA CON EL PROCESO DE PRESUPUESTO PARTICIPATIVO 2020, LA EJECUCIÓN DE LOS RECURSOS DESTINADOS A LOS PROYECTOS GANADORES SELECCIONADOS PARA DICHA ANUALIDAD, SERÁ REALIZADA EN EL AÑO 2021.
+
 EL CONGRESO DE LA CIUDAD DE MÉXICO, DEBE APROBAR EN EL DECRETO DE PRESUPUESTO DE EGRESOS PARA LOS EJERCICOS FISCALES CORRESPONDIENTES EL MONTO TOTAL DE RECURSOS QUE SE DESTINARÁN PARA EL PRESUPUESTO PARTICIPATIVO.
 
 A EFECTO DE DAR CUMPLIMIENTO AL MONTO DESTINADO PARA EL PRESUPUESTO PARTICIPATIVO QUE SE SEÑALA EN LOS ARTÍCULOS 118, 119 Y 127 DE LA PRESENTE LEY, SE ATENDERÁ LO SIGUIENTE:
@@ -2269,3 +2275,15 @@ DURANTE LOS AÑOS 2021, 2022 Y 2023 SE INCREMENTARÁN DICHOS PORCENTAJES EN 0.25
 Palacio Legislativo del Congreso de la Ciudad de México, a los doce días del mes de agosto del año dos mil diecinueve.- POR LA MESA DIRECTIVA, DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7, 10 fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los doce días del mes de agosto del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO TRANSITORIO VIGÉSIMO A LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO Y EL ARTÍCULO DÉCIMO NOVENO AL DECRETO POR EL QUE SE EXPIDE EL PRESUPUESTO DE EGRESOS PARA LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2020”.]
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Para dar cumplimiento a lo dispuesto por el artículo Vigésimo Transitorio del presente Decreto, en el Proyecto de Presupuesto de Egresos para el ejercicio fiscal 2021 que la Jefa de Gobierno de la Ciudad de México remita al Congreso de la Ciudad de México, se deberán identificar y diferenciar los rubros correspondientes a los montos del Presupuesto Participativo 2020 y 2021.
