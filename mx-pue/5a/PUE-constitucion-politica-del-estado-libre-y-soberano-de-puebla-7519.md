@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2018-08-15"
+last_updated: "2020-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -69,9 +69,13 @@ La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos, se 
 
 La organización de las elecciones es una función estatal que se realiza a través del Instituto Electoral del Estado, organismo público local, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y de la legislación electoral aplicable.
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2020)</small>
 
-La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda. El Instituto Electoral del Estado podrá convenir con el Instituto Nacional Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable.
+La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal. En la integración de los organismos autónomos se observará el mismo principio.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE JULIO DE 2020)</small>
+
+La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda. El Instituto Electoral del Estado podrá convenir con el Instituto Nacional Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable
 
 I.- La elección de Gobernador, de Diputados por los principios de mayoría relativa y representación proporcional y de miembros de Ayuntamientos en el Estado, se efectuará conforme a lo previsto en esta Constitución, y el Código de la materia, que regulará:
 
@@ -175,11 +179,15 @@ La Ley contemplará la conformación de la Comisión correspondiente y de la est
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2020)</small>
 
-III.- Los partidos políticos son entidades de interés público, democráticos hacia su interior, autónomos y formas de organización política, integrados conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y la legislación general y local en la materia y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. Así como establecer las reglas para garantizar la paridad entre géneros de las candidaturas a integrantes de la legislatura.
+III. Los partidos políticos son entidades de interés público, democráticos hacia su interior, autónomos y formas de organización política, integrados conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y la legislación general y local en la materia y tienen como fin promover la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de la representación estatal y como organizaciones ciudadanas, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios, e ideas que postulen y mediante el sufragio universal, libre, secreto y directo, así como las reglas que marque la ley electoral para garantizar la paridad de género, en las candidaturas a los distintos cargos de elección popular.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
 Los partidos políticos deberán de constituirse sólo por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, corresponde a éstos el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución. El partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales le será cancelado el registro.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
 La ley establecerá los términos y procedimientos para los partidos políticos nacionales que pierdan su registro y que opten por su registro local.
 
@@ -433,6 +441,10 @@ XIII.- Erradicar el trabajo infantil y cualquier otra forma de explotación haci
 
 La atención, protección y demás acciones previstas en este artículo son de orden público e interés social.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+La interpretación y aplicación de esta constitución y de las leyes y normas del Estado será de forma igualitaria para hombres y mujeres, salvo las disposiciones expresas que determinen la aplicación diferenciada entre géneros. Lo anterior, sin perjuicio de la utilización del género masculino para la construcción gramatical del texto legal.
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 13.
@@ -454,6 +466,10 @@ b).- Hacer la elección o designación de sus autoridades tradicionales e intern
 c).- Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, respetando las garantías individuales y sociales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
 
 d).- Proteger y promover, dentro de los ámbitos de competencia del Estado y Municipios, el desarrollo de sus lenguas, culturas, recursos, usos y costumbres; el acceso al uso y disfrute preferentes de los recursos naturales ubicados en sus tierras o en la totalidad del hábitat que ocupan, de acuerdo con las formas y modalidades de propiedad previstas por la Constitución Federal; su participación en el quehacer educativo y en los planes y programas de desarrollo; sus formas de expresión religiosa y artística, así como su acervo cultural y, en general, todos los elementos que configuran su identidad.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+e) Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, observando el principio de paridad de género conforme a las normas aplicables.
 
 II.- La ley establecerá los procedimientos que garanticen a los integrantes de los pueblos y comunidades indígenas el acceso efectivo a la jurisdicción o protección jurídica que el Estado brinda a todos sus habitantes. En los juicios y procedimientos en que aquéllos sean parte individual o colectivamente, las autoridades deberán tomar en cuenta sus prácticas y costumbres en los términos que establezca la ley, y asegurarse que se respete su derecho a contar durante todo el procedimiento con la asistencia de un intérprete y un defensor que tengan conocimiento de su lengua y cultura.
 
@@ -553,21 +569,23 @@ I.- Haber cumplido dieciocho años; y
 
 II.- Tener modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 20.
 
-Son prerrogativas de los ciudadanos del Estado:
+Son prerrogativas de la ciudadanía del Estado:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum e iniciativa popular en los términos que establezca esta Constitución y la ley de la materia;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-II.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+II.- Poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidaturas ante la autoridad electoral corresponde a los partidos políticos, así como a la ciudadanía que solicite su registro de manera independiente y cumpla con los requisitos, condiciones y términos que determine la legislación;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- Poder ser nombrado para cualquier empleo o comisión, teniendo las calidades que establezca la ley;
+III.- Poder ser nombrada para cualquier empleo o comisión, teniendo las calidades que establezca la ley;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
@@ -577,49 +595,77 @@ IV.- Reunirse pacíficamente para tratar y discutir los asuntos políticos del E
 
 V.- Los Ministros de los cultos religiosos tendrán las prerrogativas que les conceden la Constitución Política de los Estados Unidos Mexicanos, así como las Leyes y Reglamentos Federales de la Materia.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 21.
 
-Son obligaciones de los ciudadanos del Estado:
+Son obligaciones de la ciudadanía del Estado:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 I.- Inscribirse en el Padrón Municipal;
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+
 II.- Inscribirse en el Padrón Electoral;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 III.- Votar en las elecciones, en la forma que disponga la ley; y
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+
 IV.- Desempeñar los cargos de elección popular, los concejiles, los censales y las funciones electorales conforme a la ley, salvo excusa legítima.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 22.
 
-Los derechos y prerrogativas de los ciudadanos se suspenden:
+Los derechos y prerrogativas de la ciudadanía se suspenden:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 I.- Por incapacidad declarada conforme a las leyes;
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+
 II.- Por falta de cumplimiento, sin causa justificada, de las obligaciones impuestas por el artículo anterior;
 
-III.- Por estar procesados por delito intencional que merezca sanción corporal, desde la fecha en que se dicte auto de formal prisión o desde que se declare que ha lugar a instauración de causa, tratándose de funcionarios que gocen de fuero constitucional;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+III.- Por estar procesados por delito que merezca sanción corporal, desde la fecha en que aquella se ordene como medida cautelar o en resolución firme, y por el término de su duración, con excepción de lo dispuesto en el artículo 126 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 IV.- Por sentencia ejecutoriada que imponga como pena esa suspensión;
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+
 V.- Durante el cumplimiento de una pena corporal;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 VI.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal; y
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+
 VII.- Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 23.
 
-Los derechos y prerrogativas de los ciudadanos se pierden:
+Los derechos y prerrogativas de la ciudadanía se pierden:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 I.- En los casos de pérdida de la ciudadanía mexicana, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos;
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
+
 II.- Por adquirir la ciudadanía de otro Estado, salvo cuando haya sido concedida a título de honor o recompensa, por servicios prestados con anterioridad; y
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 III.- Por pena impuesta en sentencia judicial.
 
@@ -747,41 +793,41 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado, las autoridades
 
 ### CAPITULO I. DE LA ORGANIZACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 32.
 
-El ejercicio del Poder Legislativo se deposita en una asamblea de Diputados que se denominará "CONGRESO DEL ESTADO".
+El ejercicio del Poder Legislativo se deposita en una asamblea de Diputadas y Diputados que se denominará “CONGRESO DEL ESTADO”.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado estará integrado por 26 Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta 15 Diputados que serán electos por el principio de representación proporcional, conforme al procedimiento que se establezca en el Código de la materia.
+El Congreso del Estado estará integrado por 26 Diputadas y Diputados electos según el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta 15 Diputadas y Diputados que serán electos según el principio de representación proporcional, conforme al procedimiento que se establezca en el Código de la materia.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 34.
 
-Por cada Diputado propietario se elegirá un suplente.
+Por cada Diputada o Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 35.
 
-La elección de Diputados por el principio de representación proporcional, se sujetará a lo que disponga el Código respectivo y las siguientes bases:
+La Elección de Diputadas y Diputados por el principio de representación proporcional, se sujetará al principio de paridad de género y a lo que disponga el Código respectivo y las siguientes bases:
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
 
 I.- Un Partido Político, para obtener el registro de sus listas, deberá acreditar su registro como tal y que participa con candidatos a Diputados por mayoría relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales.
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-II.- Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la elección de Diputados por el principio de mayoría relativa, tendrá derecho a que le sean asignados Diputados por el de representación proporcional;
+II.- Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la elección de Diputados por el principio de mayoría relativa, tendrá derecho a que le sean atribuidos Diputados por el de representación proporcional según el mecanismo descrito en la ley.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
 
-III.- Al partido político que cumpla con lo dispuesto por las dos fracciones anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus Candidatos, les serán asignados por el principio de representación proporcional, el número de Diputados que les corresponda de acuerdo a lo dispuesto por el Código correspondiente. En todo caso, la primera Diputación le será asignada a la fórmula de candidatos del partido político que, por sí mismo, haya obtenido el mayor porcentaje de votos en la elección de Diputados por el principio de mayoría relativa, siempre que no hubiere alcanzado la constancia respectiva conforme a dicho principio. En las asignaciones subsecuentes, a que tuvieren derecho los partidos políticos, se seguirá el orden que tuviesen los Candidatos en las listas correspondientes;
+III.- Al Partido Político que cumpla con lo dispuesto por las dos fracciones anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, les serán atribuidos por el principio de representación proporcional, el número de Diputados que les corresponda de acuerdo a lo dispuesto por el Código correspondiente. Dichas asignaciones se sujetarán al orden que tuviesen las candidatas y candidatos en las listas correspondientes, las que deberán encabezarse alternadamente entre mujeres y hombres cada periodo electivo.
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
@@ -849,11 +895,11 @@ Los titulares de las oficinas públicas facilitarán a los diputados todos los d
 
 Al abrirse el período de sesiones siguiente a la visita, los diputados presentarán al Congreso una memoria que contenga las observaciones que hayan hecho y en la que propongan las medidas que estimen conducentes al objeto mencionado en la última parte del artículo anterior.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 41.
 
-Es inviolable también el recinto donde se reúnen los diputados a sesionar y el Presidente de la Legislatura velará por el respeto al fuero constitucional de sus miembros y por la inviolabilidad de ese recinto.
+Es inviolable el recinto donde se reúnen las y los diputados a sesionar. La Presidenta o el Presidente del Congreso del Estado velará por el respeto del recinto, el de las y los integrantes de la legislatura, así como de la garantía de la inviolabilidad de las opiniones de las diputadas y los diputados.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1019,7 +1065,9 @@ XI.- Dictaminar, dentro de los ocho meses siguientes a su presentación, los Inf
 
 XII.- Crear y suprimir empleos públicos, señalando, aumentando o disminuyendo sus dotaciones; así como conceder premios y recompensas;
 
-XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común, y si dichos funcionarios son o no culpables de los delitos oficiales que se les imputen.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+
+XIII.- Erigirse en Gran Jurado para resolver por el voto de las dos terceras partes de sus miembros, sobre el procedimiento de Juicio Político.
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -1299,11 +1347,11 @@ En caso de urgencia el Congreso podrá, por el voto de las dos terceras partes d
 
 ### CAPITULO I. DEL GOBERNADOR
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 70.
 
-El ejercicio del Poder Ejecutivo de la Entidad se deposita en un solo individuo que se denominará "GOBERNADOR DEL ESTADO DE PUEBLA".
+El ejercicio del Poder Ejecutivo de la Entidad se deposita en una sola persona que se denominará “GOBERNADORA O GOBERNADOR DEL ESTADO DE PUEBLA”.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -1537,13 +1585,17 @@ La Administración Pública del Estado será centralizada y paraestatal.
 
 El Consejero Jurídico es el representante jurídico del Estado. El Gobernador podrá otorgar esa representación a alguno de los servidores públicos que lo auxilien para casos singulares.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 83.
 
-La ley orgánica correspondiente establecerá las secretarías y dependencias de la Administración Pública Centralizada que auxiliarán al Ejecutivo del Estado en el estudio, planeación y despacho de los negocios de su competencia y establecerá además:
+La ley orgánica correspondiente establecerá las secretarías y dependencias de la Administración Pública Centralizada, y determinará las formas y modalidades para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal. En la integración de los organismos autónomos y descentralizados se observará el mismo principio, los cuales que (sic) auxiliarán al Ejecutivo del Estado en el estudio, planeación y despacho de los negocios de su competencia y establecerá, además:
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 I.- Las bases generales para la creación de entidades de la Administración Pública Paraestatal que, entre otras, pueden ser organismos descentralizados, empresas de participación estatal, fideicomisos y comisiones; y
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 II.- La intervención del Ejecutivo en la operación de esas entidades.
 
@@ -1665,11 +1717,13 @@ El Tribunal Superior de Justicia elaborará su propio presupuesto y el Consejo d
 
 La administración del Tribunal Superior de Justicia corresponderá a su Presidente.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 87.
 
-El Tribunal Superior de Justicia estará integrado por el número de Magistrados propietarios y suplentes que fije la ley, los que serán nombrados por el Congreso, a propuesta en terna del Ejecutivo.
+El Tribunal Superior de Justicia estará integrado por el número de Magistradas y Magistrados propietarios y suplentes que fije la ley, mismos que serán nombrados por el Congreso, a propuesta en terna del Ejecutivo.
+
+La ley establecerá las formas y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1859,11 +1913,11 @@ La Ley establecerá las bases para la formación y actualización de los servido
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 102.
 
-El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado; cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la Ley determine. Las elecciones de los Ayuntamientos se efectuarán el día y año en que se celebran las elecciones federales para elegir Diputados al Congreso General. Las atribuciones que esta Constitución otorga al Gobierno Municipal, se ejercerán por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna, entre éste y el Gobierno del Estado.
+El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado; cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad de género. Las elecciones de los Ayuntamientos se efectuarán el día y año en que se celebran las elecciones federales para elegir Diputados al Congreso General. Las atribuciones que esta Constitución otorga al Gobierno Municipal se ejercerán por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna, entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -2523,63 +2577,27 @@ La prescripción penal se regirá por las leyes aplicables.
 
 No podrán concederse las gracias de indulto o conmutación de pena a los condenados por responsabilidad oficial.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 126.
 
-El Gobernador, durante el período de su encargo, sólo podrá ser acusado por delitos oficiales de la competencia del Estado y por delitos graves del orden común.
+El Gobernador, los Diputados, el Auditor Superior, los Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado, durante el período de su encargo, podrán ser sujetos a proceso penal por cualquier delito.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
-Para procesar por un delito del orden común a un Diputado, al Gobernador, al Auditor Superior, a un Magistrado o a un Consejero de la Judicatura del Poder Judicial del Estado, se necesita que la Legislatura, erigida en Gran Jurado, declare por los dos tercios de los votos de sus miembros presentes, si ha lugar o no a formarle causa. En caso negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no prejuzga sobre los fundamentos de la acusación ni impide que ésta continúe su curso cuando el acusado haya dejado de tener fuero. En el afirmativo, quedará el acusado separado de su cargo y sujeto a la acción de los Tribunales Ordinarios.
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-No se requiere declaración de procedencia en caso de que alguno de los servidores públicos mencionados en el párrafo anterior se encuentre separado de su cargo o aún no lo haya asumido. Tampoco se requerirá cuando se trate de servidores públicos que tengan el carácter de suplente, salvo si se encuentran en ejercicio de su encargo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+Cuando el proceso comprenda alguno de los delitos previstos en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, el juez correspondiente ordenará la prisión preventiva oficiosamente; en caso de delito distinto, el órgano judicial competente podrá dictar las medidas cautelares de separación del cargo y la prisión preventiva mediante una motivación reforzada respecto de la plena justificación de la medida de conformidad con lo previsto por la legislación penal.
 
 ###### Artículo 127.
 
-Para procesar por delitos oficiales a los Diputados, al Auditor Superior, a los Magistrados y los Consejeros de la Judicatura del Poder Judicial de Estado, se seguirán las reglas siguientes:
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-I.- Será preciso que la Legislatura declare la culpabilidad del acusado, por los dos tercios de sus miembros presentes.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-II.- Si la declaración fuere absolutoria, el funcionario continuará en el desempeño de su cargo.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-III.- Si la declaración fuere condenatoria, el funcionario acusado quedará separado inmediatamente del cargo y será puesto a disposición del Tribunal Superior de Justicia del Estado.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1982)</small>
-
-IV.- El Tribunal Superior de Justicia del Estado, en acuerdo pleno y con audiencia del acusado, de su defensor y de dos acusadores que designe la Legislatura, entre sus miembros, procederá a imponer por mayoría absoluta de votos la pena correspondiente.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
 ###### Artículo 128.
 
-Para procesar al Gobernador por delitos oficiales se seguirán las reglas siguientes:
+(DEROGADO, P.O. 29 DE JULIO DE 2020)
 
-I.- Será preciso que la Legislatura declare la culpabilidad del Gobernador por dos tercios de sus miembros presentes.
-
-II.- Si la declaración fuere absolutoria no habrá lugar a procedimiento posterior.
-
-III.- Si la declaración fuere condenatoria deberá ser revisada en el siguiente período de sesiones.
-
-IV.- Si la revisión revoca la declaración condenatoria no habrá lugar a procedimiento posterior.
-
-V.- Si la revisión confirma la declaración acusatoria se remitirá esta resolución al Tribunal Superior para la aplicación de la pena, en las mismas condiciones del artículo anterior.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 129.
 
-Cuando el Congreso del Estado reciba la resolución del Senado a que se refieren los artículos 110 párrafo segundo y 111 párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos, procederá a separar de sus funciones al acusado y a consignarlo a la autoridad competente.
+Cuando el Congreso del Estado reciba la resolución del Senado a que se refieren los artículos 110 párrafo segundo y 111 párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos, procederá a separar de sus funciones al acusado o la acusada, notificando lo conducente a las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -3676,3 +3694,33 @@ PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adición han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECLARATORIA DEL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO EMITIDO POR ESTA LEGISLATURA QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 22, EL ARTÍCULO 41, LA FRACCIÓN XIII DEL 57 EL 126 Y EL ARTÍCULO 129, Y DEROGA LOS ARTÍCULOS 127 Y 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Congreso del Estado deberá realizar las adecuaciones legales correspondientes, dentro de los 120 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Las referencias dentro de la legislación y reglamentación local del fuero o inmunidad constitucional, de la declaración de procedencia o las que de ellas emanen, se entenderán como inexistentes y no surtirán efecto alguno.
+
+QUINTO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y derogaciones han sido aprobadas en términos de las disposiciones constitucionales aplicable y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA DEL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO EMITIDO POR ESTA LEGISLATURA QUE REFORMA EL CUARTO PÁRRAFO Y EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 3, EL ACÁPITE Y LAS FRACCIONES II Y III DEL 20, EL ACÁPITE DEL ARTÍCULO 21, EL ACÁPITE DEL 22, EL ACÁPITE DEL 23, EL 32, EL 33, EL 34, EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 35, EL 70, EL PRIMER PÁRRAFO DEL 83, EL 87, EL PRIMER PÁRRAFO DEL ARTÍCULO 102, Y ADICIONA EL QUINTO PÁRRAFO AL ARTÍCULO 3, UN TERCER PÁRRAFO AL ARTÍCULO 12, EL INCISO E) A LA FRACCIÓN I DEL ARTÍCULO 13; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La observancia del principio de paridad de género en los Poderes Ejecutivo y Legislativo, así como en los Ayuntamientos del Estado, será aplicable para quienes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan.
+
+CUARTO. El Congreso del Estado deberá, en un plazo de seis meses a partir de la entrada en vigor del presente decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en este decreto.
+
+QUINTO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicable (sic) y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
