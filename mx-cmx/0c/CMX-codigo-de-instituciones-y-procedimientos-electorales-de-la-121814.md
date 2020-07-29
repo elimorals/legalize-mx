@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2020-01-09"
+last_updated: "2020-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 9 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 29 DE JULIO DE 2020.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -88,7 +88,9 @@ La aplicación de las normas de este Código corresponde al Congreso de la Ciuda
 
 La interpretación del presente Código se hará conforme a los criterios gramatical, sistemático y funcional, y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política de la Ciudad de México y en los Tratados e Instrumentos Internacionales favoreciendo en todo tiempo a las personas con la protección más amplia. A falta de disposición expresa, se aplicarán los principios generales del derecho, de acuerdo con lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las autoridades electorales, para el debido cumplimiento de sus funciones, se regirán por los principios de certeza, legalidad, independencia, inclusión, imparcialidad, máxima publicidad, transparencia, rendición de cuentas y objetividad.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Las autoridades electorales, para el debido cumplimiento de sus funciones, se regirán por los principios de certeza, legalidad, independencia, inclusión, imparcialidad, máxima publicidad, transparencia, rendición de cuentas, objetividad, paridad, interculturalidad, y las realizarán con perspectiva de género y enfoque de derechos humanos.
 
 Las autoridades electorales también dispondrán lo necesario para asegurar el cumplimiento de este Código y adoptarán medidas legislativas, administrativas, judiciales, económicas y las que sean necesarias hasta el máximo de recursos públicos de que dispongan, a fin de lograr progresivamente la plena efectividad de los derechos reconocidos en la Constitución Política de la Ciudad de México y este Código. El logro progresivo requiere de una utilización eficaz de los recursos de que dispongan y tomando en cuenta el grado de desarrollo de la ciudad.
 
@@ -118,23 +120,27 @@ V. Ley General. La Ley General de Instituciones y Procedimientos Electorales;
 
 VI. Leyes Generales. La Ley General de Instituciones y Procedimientos Electorales y la Ley General de Partidos Políticos;
 
-VII. Ley de Participación. La Ley de Participación Ciudadana de la Ciudad de México;
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-VIII. Ley de Partidos. La Ley General de Partidos Políticos;
+VII. Ley de Acceso. Ley de Acceso de las Mujeres a Una Vida Libre de Violencia de la Ciudad de México;
 
-IX. Ley de Presupuesto. La Ley de Presupuesto y Gasto Eficiente de la Ciudad de México;
+VIII. Ley de Participación. La Ley de Participación Ciudadana de la Ciudad de México;
 
-X. Ley de Protección de Datos. La Ley de Protección de Datos Personales de la Ciudad de México;
+IX. Ley de Partidos. La Ley General de Partidos Políticos;
 
-XI. Ley Procesal. La Ley Procesal Electoral para la Ciudad de México;
+X. Ley de Presupuesto. La Ley de Presupuesto y Gasto Eficiente de la Ciudad de México;
 
-XII. Ley de Responsabilidad. Ley de Responsabilidad Administrativa de la Ciudad de México;
+XI. Ley de Protección de Datos. La Ley de Protección de Datos Personales de la Ciudad de México;
 
-XII (SIC). Ley de Transparencia. La Ley de Transparencia y Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
+XII. Ley Procesal. La Ley Procesal Electoral para la Ciudad de México;
 
-XIV. Reglamento Interior del Instituto Electoral. Reglamento Interior del Instituto Electoral de la Ciudad de México;
+XIII. Ley de Responsabilidad. Ley de Responsabilidad Administrativa de la Ciudad de México;
 
-XV. Reglamento de Sesiones. Reglamento de Sesiones del Consejo General del Instituto Electoral de la Ciudad de México;
+XIV. Ley de Transparencia. La Ley de Transparencia y Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
+
+XV. Reglamento Interior del Instituto Electoral. Reglamento Interior del Instituto Electoral de la Ciudad de México;
+
+XVI. Reglamento de Sesiones. Reglamento de Sesiones del Consejo General del Instituto Electoral de la Ciudad de México;
 
 B) En lo que se refiere a los entes y sujetos de este Código:
 
@@ -204,29 +210,41 @@ II. Actos Anticipados de Precampaña. Son las expresiones que se realicen bajo c
 
 No se considerarán Actos Anticipados de Precampaña las actividades que desarrollen las personas titulares de cualquier puesto de elección popular que pretendan optar por contender en los procesos internos partidistas para buscar la reelección o cualquiera de sus colaboradores remunerados con recursos públicos siempre y cuando en dichos actos no se pronuncien expresiones proselitistas, propuestas de precampaña o cualquier expresión en el sentido del párrafo anterior.
 
-> <small>(F. DE E., G.O. 21 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-III. Violencia Política. Es toda acción, omisión o conducta ejercida contra las personas, directa o indirectamente, que tiene por objeto o resultado sesgar, condicionar, impedir, restringir, suspender, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, acceso, goce o ejercicio de los derechos político-electorales; la participación y representación política y pública; el desempeño de un cargo, actividad o responsabilidad y la toma de decisiones inherentes a los mismos; y las prerrogativas y funciones públicas; pudiéndose manifestar mediante cualquier modalidad de violencia contemplada en la Ley de Acceso de las Mujeres a una vida libre de violencia de la Ciudad de México, expresándose en los ámbitos político, público y privado, en los siguientes rubros:
+III. Paridad de género. Es el principio constitucional que ordena el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político electorales. El derecho de igualdad política entre mujeres y hombres, se garantiza con la integración cualitativa y cuantitativa del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical.
 
-a) En el ámbito ciudadano; las instituciones y organizaciones públicas, políticas y electorales; aspiraciones y candidaturas en cualquier etapa del proceso electoral o de la participación ciudadana; el servicio público; los poderes ejecutivo, legislativo y judicial, todos los niveles de gobierno; así como las representaciones, liderazgos o participaciones en los contextos comunitarios; indígenas, rurales o urbanos.
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-b) En la ciudadanía; simpatizantes, militantes, quien ejerza una función pública, de partidos o electorales; aspirantes a cargos políticos o públicos; precandidaturas, candidaturas, así como las candidaturas electas, de partidos políticos o sin partido; servidoras y servidores públicos designados y en funciones; representantes, líderes o participantes activos comunitarios e indígenas, rurales o urbanas.
+IV. Paridad de género horizontal. Obligación que tienen los partidos políticos de postular en igualdad de porcentajes a los géneros femenino y masculino que encabezan las fórmulas de diputaciones, alcaldías o planillas para las concejalías en todos los distritos electorales de la ciudad de México.
 
-Se entenderá por violencia política hacia las mujeres cualesquiera de estas conductas contenidas en el presente numeral, cometidas en su perjuicio en razón de género.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE JULIO DE 2020)</small>
 
-IV. Principio democrático. El que garantiza que sobre la voluntad del pueblo en la elección por mayoría no deberá prevalecer interés o principio alguno, se atenderá a lo que resulte de la elección libre de cada ciudadano a través de los votos depositados en las urnas por las candidatas o candidatos a cargos de elección popular.
+V. Violencia Política. Son las acciones, conductas y omisiones que transgreden las normas electorales y/o los derechos político electorales de la ciudadanía en procesos democráticos o fuera de ellos, cometidas por una persona o un grupo, que tienen por objeto o resultado, sesgar, condicionar, restringir, impedir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos políticos o de las prerrogativas inherentes a un cargo público lesionar la legalidad y certeza de las elecciones; dañar la integridad institucional y/o realizar fraude a la ley.
 
-V. Principio de paridad de género. Es el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político-electorales.
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-Las autoridades electorales y este Código garantizarán la participación igualitaria de mujeres y hombres en la vida política de la Ciudad de México, entendiéndose que para la postulación de candidaturas a cualquier cargo de elección popular en esta Ciudad se observará lo siguiente:
+VI. Violencia Política de Género. Son las acciones, conductas, y omisiones que violentan, transgreden normas electorales o derechos político electorales de la ciudadanía en procesos democráticos, electorales, de participación ciudadana o fuera de ellos, que conllevan un elemento discriminador por razones de género, como pueden ser patrones, roles, identidades, estereotipos, relaciones asimétricas de poder, condiciones de vulnerabilidad, exclusión, diferenciación no justificada o negación del reconocimiento de la igualdad de derechos y dignidad de todas las personas por cualquiera de las características inherentes a la condición humana.
 
-Todas las listas de representación proporcional que presenten los Partidos Políticos y Coaliciones, se integrarán por fórmulas de candidatos compuestas cada una por una persona titular y una suplente del mismo género.
+Estas acciones u omisiones son ejercidas en contra de cualquier persona, particularmente en contra de aquellas en situación de vulnerabilidad, y tienen por objeto o resultado sesgar, condicionar, impedir, restringir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos político electorales o de las prerrogativas inherentes a un cargo público.
 
-Tanto las autoridades como los partidos políticos tienen la obligación de promover, respetar, proteger y garantizar la participación política en igualdad de oportunidades y paridad entre mujeres y hombres, así como en la integración de sus órganos directivos.
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-El Instituto Electoral tendrá facultad para rechazar el registro del número de candidaturas de un género que exceda la paridad, conforme a lo previsto en este Código, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+VII. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-VI. Plataforma electoral. Es aquella que para cada proceso electoral deben presentar los partidos políticos nacionales o locales, así como las candidatas y candidatos sin partido, en la que dan a conocer sus planes, programas de gobierno, políticas y presupuestos.
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley De Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+VIII. Principio democrático. El que garantiza que sobre la voluntad del pueblo en la elección por mayoría no deberá prevalecer interés o principio alguno, se atenderá a lo que resulte de la elección libre de cada ciudadano a través de los votos depositados en las urnas por las candidatas o candidatos a cargos de elección popular.
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+IX. Principio de Igualdad y no discriminación. Todas las personas gozarán de los derechos humanos, cuya interpretación se realizará favoreciendo en todo tiempo a las personas la protección más amplia. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+X. Plataforma electoral. Es aquella que para cada proceso electoral deben presentar los partidos políticos nacionales o locales, así como las candidatas y candidatos sin partido, en la que dan a conocer sus planes, programas de gobierno, políticas y presupuestos.
 
 ###### Artículo 5.
 
@@ -282,7 +300,11 @@ XVI. Participar como observadoras y observadores en todas las etapas de los proc
 
 XVII. El Instituto Electoral expedirá la normatividad y adoptará las medidas necesarias para garantizar las participaciones de las niñas, niños, adolescentes y personas jóvenes en actividades de observación electoral y en mecanismos de participación ciudadana que se celebren en la Ciudad de México.
 
-XVIII. Los demás que establezcan las Leyes y demás ordenamientos aplicables.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XVIII. Los derechos político electorales, se ejercerán en igualdad, libres de violencia política contra las mujeres, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, orientación sexual, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+XIX. Los demás que establezcan las Leyes y demás ordenamientos aplicables.
 
 Las autoridades de la Ciudad de México en el ámbito de sus competencias garantizarán el pleno ejercicio de los derechos establecidos en esta ley a las personas de los grupos de atención señalados en el artículo 11 de la Constitución Local.
 
@@ -330,7 +352,9 @@ VI. Fomentar una ciudadanía informada, crítica y participativa, dotada de valo
 
 VII. Favorecer la corresponsabilidad entre las personas gobernantes y las gobernadas en la solución de los problemas de la Ciudad;
 
-VIII. Garantizar la igualdad de oportunidades y la paridad de género en la postulación de candidaturas para la ocupación de los cargos de elección popular en los términos previstos por la Constitución Federal, la Ley General, la Constitución Local y este Código; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+VIII. Garantizar la igualdad de oportunidades, la paridad de género y el respeto a los derechos humanos de todas las personas en la postulación de candidaturas para la ocupación de los cargos de elección popular en los términos previstos por la Constitución Federal, la Ley General, la Constitución Local y este Código; y
 
 IX. Fomentar la participación de las niñas, niños, adolescentes y personas jóvenes, en la observación electoral y en la toma de las decisiones públicas como parte de su educación cívica.
 
@@ -404,6 +428,14 @@ En la Ciudad de México los partidos políticos procurarán incluir entre sus ca
 
 La persona titular del Poder Ejecutivo Local se denominará Jefa o Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electa cada seis años por votación universal, libre, secreta y directa.
 
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+La persona titular del Poder Ejecutivo Local podrá nombrar y remover libremente a su gabinete o proponer ante el Congreso de la Ciudad de México a las y los integrantes del mismo para su ratificación, en caso de gobierno de coalición.
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+La Jefa o Jefe de Gobierno deberá garantizar el principio de paridad de género en su gabinete, considerando que las eventuales suplencias no rompan este principio.
+
 No podrá durar en su encargo más de seis años y entrará en funciones el 5 de octubre del año de la elección.
 
 Durante el tiempo que dure su encargo deberá residir en la Ciudad de México.
@@ -452,15 +484,21 @@ II. 33 Diputadas y Diputados de representación proporcional serán asignados me
 
 III. Una persona Titular de la Jefatura de Gobierno en todo el territorio de la Ciudad de México, que será considerado como una sola circunscripción. En su caso y para efecto de esa elección se considerarán como emitidos dentro de la circunscripción, los sufragios de los ciudadanos de la Ciudad de México residentes en el extranjero;
 
-IV. Una Alcaldesa o Alcalde en cada una de las respectivas demarcaciones territoriales en que esté divida la Ciudad de México; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+IV. Una Alcaldesa o Alcalde en cada una de las respectivas demarcaciones territoriales en que esté divida la Ciudad de México;
 
 V. De 10 a 15 Concejales en cada una de las demarcaciones territoriales de la Ciudad de México, de conformidad a lo señalado en las fracciones I, II y III del numeral 10, del inciso A del artículo 53 de la Constitución Local, en la siguiente proporción:
 
 a) El 60 por ciento de concejales por alcaldía será electo por el principio de mayoría relativa en su conjunto por la planilla ganadora.
 
-b) El 40 por ciento restante será determinado por la vía de representación proporcional que se asigne a cada partido, así como a las candidaturas sin partido,. (sic)
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
 
-Ningún partido político o coalición electoral podrá contar con más del sesenta por ciento de concejales.
+b) El 40 por ciento restante será determinado por la vía de representación proporcional que se asigne a cada partido, así como a las candidaturas sin partido.
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Ningún partido político o coalición electoral podrá contar con más del sesenta por ciento de concejales; y
 
 ## TITULO QUINTO. REQUISITOS DE ELEGIBILIDAD PARA OCUPAR CARGOS DE ELECCION POPULAR
 
@@ -470,9 +508,17 @@ Ningún partido político o coalición electoral podrá contar con más del sese
 
 Son requisitos para ocupar un cargo de elección popular, además de los señalados por la Constitución Federal, la Ley General y la Constitución Local, los siguientes:
 
-I. Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar, cuyo domicilio corresponda a la Ciudad de México;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-II. No estar inhabilitado para el desempeño del servicio público.
+I. Estar inscrita o inscrito en el Registro Federal de Electores y contar con Credencial para Votar, cuyo domicilio corresponda a la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+II. No estar inhabilitada o inhabilitado para el desempeño del servicio público.
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+III. No haber sido sentenciada o sentenciado por el delito de violencia política contra las mujeres en razón de género.
 
 ###### Artículo 19.
 
@@ -496,9 +542,17 @@ VIII. No ejercer una Magistratura en el Poder Judicial, el Tribunal de Justicia 
 
 IX. No ser legislador o legisladora Local o Federal, ni ser concejal o titular de una alcaldía, dependencia, unidad administrativa, órgano desconcentrado, organismo autónomo o entidad paraestatal de la Administración Pública de la Ciudad de México o de la Fiscalía General de Justicia de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones al menos 180 días antes de la jornada electoral Local correspondiente;
 
-X. No ser ministro de culto religioso, a menos que hubiere dejado de serlo con cinco años de anticipación y en la forma que establezca la ley; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-XI. No haber sido Consejera o Consejero, Magistrada o Magistrado electorales, a menos que haya concluido su encargo o se haya separado del mismo, al menos tres años antes de la fecha de inicio del proceso electoral Local correspondiente.
+X. No ser ministro de culto religioso, a menos que hubiere dejado de serlo con cinco años de anticipación y en la forma que establezca la ley;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XI. No haber sido Consejera o Consejero, Magistrada o Magistrado electorales, a menos que haya concluido su encargo o se haya separado del mismo, al menos tres años antes de la fecha de inicio del proceso electoral Local correspondiente; y
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XII. No haber sido sentenciada o sentenciado por el delito de violencia política contra las mujeres en razón de género.
 
 Para los supuestos en que la persona titular de la Jefatura de Gobierno en el desempeño de su cargo tuviera faltas temporales y/o absolutas, se estará a lo dispuesto en la Constitución Local.
 
@@ -524,7 +578,13 @@ VIII. No ser Jefa o Jefe de Gobierno de la Ciudad de México, ni titular de una 
 
 IX. No ser ministro de culto religioso, a menos que hubiere dejado de serlo con cinco años de anticipación;
 
-X. No haber sido Consejera o Consejero, Magistrada o Magistrado electoral, a menos que haya concluido su encargo o se haya separado del mismo, tres años antes del inicio del proceso electoral local correspondiente.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+X. No haber sido Consejera o Consejero, Magistrada o Magistrado electoral, a menos que haya concluido su encargo o se haya separado del mismo, tres años antes del inicio del proceso electoral local correspondiente;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XI. No haber sido sentenciada o sentenciado por el delito de violencia política contra las mujeres en razón de género.
 
 ###### Artículo 21.
 
@@ -536,9 +596,17 @@ II. Tener por lo menos veinticinco años al día de la elección;
 
 III. Tener residencia efectiva en la demarcación territorial correspondiente a su candidatura, por lo menos de seis meses ininterrumpidos inmediatamente anteriores al día de la elección;
 
-IV. No ser legislador o legisladora en el Congreso de la Unión o en el Congreso de la Ciudad; juez, magistrada o magistrado, Consejera o Consejero de la Judicatura del Poder Judicial; no ejercer un mando medio o superior en la administración pública federal, Local o de las alcaldías; militar o miembro de las fuerzas de seguridad ciudadana de la Ciudad, a menos que se separen de sus respectivos cargos por lo menos 60 días antes de la elección; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-V. No ocupar el cargo de Ministra o Ministro de algún culto religioso, a no ser que hubiere dejado de serlo con cinco años de anticipación y en la forma que establezca la ley.
+IV. No ser legislador o legisladora en el Congreso de la Unión o en el Congreso de la Ciudad; juez, magistrada o magistrado, Consejera o Consejero de la Judicatura del Poder Judicial; no ejercer un mando medio o superior en la administración pública federal, Local o de las alcaldías; militar o miembro de las fuerzas de seguridad ciudadana de la Ciudad, a menos que se separen de sus respectivos cargos por lo menos 60 días antes de la elección;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+V. No ocupar el cargo de Ministra o Ministro de algún culto religioso, a no ser que hubiere dejado de serlo con cinco años de anticipación y en la forma que establezca la ley;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+VI. No haber sido sentenciada o sentenciado por el delito de violencia política contra las mujeres en razón de género.
 
 Los requisitos para ser concejal serán los mismos que para las personas titulares de las alcaldías, con excepción de la edad que será de 18 años.
 
@@ -802,19 +870,27 @@ III. Asegurar a los ciudadanos el ejercicio de los derechos político-electorale
 
 IV. Garantizar la celebración periódica, auténtica y pacífica de las elecciones para renovar a los integrantes del Congreso de la Ciudad de México, al Jefe de Gobierno y de las Alcaldías;
 
-V. Garantizar la realización de los procesos electivos de los órganos de representación ciudadana e instrumentos de participación ciudadana, conforme a la Ley de Participación;
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-VI. Preservar la autenticidad y efectividad del sufragio;
+V. Garantizar el principio de paridad de género y el respeto a los derechos humanos de las mujeres en el ámbito político y electoral;
 
-VII. Promover el voto, la participación ciudadana y la construcción de ciudadanía;
+VI. Garantizar la realización de los procesos electivos de los órganos de representación ciudadana e instrumentos de participación ciudadana, conforme a la Ley de Participación;
 
-VIII. Difundir la cultura cívica democrática y de la participación ciudadana; y
+VII. Preservar la autenticidad y efectividad del sufragio;
 
-IX. Contribuir al desarrollo y adecuado funcionamiento de la institucionalidad democrática, en su ámbito de atribuciones;
+VIII. Promover el voto, la participación ciudadana y la construcción de ciudadanía;
 
-X. Impulsará la democracia digital abierta, basada en tecnologías de información y comunicación.
+IX. Difundir la cultura cívica democrática y de la participación ciudadana; y
+
+X. Contribuir al desarrollo y adecuado funcionamiento de la institucionalidad democrática, en su ámbito de atribuciones;
+
+XI. Impulsará la democracia digital abierta, basada en tecnologías de información y comunicación.
 
 La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto Electoral, a los partidos políticos y sus candidatos, en los términos que establezca el Instituto Nacional.
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, paridad de género, perspectiva intercultural, igualdad y no discriminación, y se realizarán con perspectiva de género y enfoque de derechos humanos.
 
 Adicionalmente a sus fines el Instituto Electoral tendrá a su cargo las atribuciones siguientes:
 
@@ -956,9 +1032,13 @@ Las vacantes de las personas titulares de los Órganos Ejecutivos y Técnicos, a
 
 El Consejo General es el órgano superior de dirección del Instituto Electoral. Sus decisiones se asumen de manera colegiada en sesión pública y por mayoría de votos.
 
-El Consejo General se integrará por una persona Consejera que preside y seis personas Consejeras Electorales con derecho a voz y voto; el Secretario Ejecutivo y representantes de los partidos políticos con registro nacional o local, quienes concurrirán a las sesiones sólo con derecho a voz.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
 
-Participarán también como invitados permanentes a las sesiones del Consejo, sólo con derecho a voz, un diputado de cada Grupo Parlamentario del Congreso de la Ciudad de México.
+El Consejo General se integrará por una persona Consejera que preside y seis personas Consejeras Electorales con derecho a voz y voto; el Secretario Ejecutivo y representantes de los partidos políticos con registro nacional o local, quienes concurrirán a las sesiones sólo con derecho a voz. La conformación del mismo deberá garantizar el principio de paridad de género.
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Participarán también como personas invitadas permanentes a las sesiones del Consejo, sólo con derecho a voz, una diputada o diputado de cada Grupo Parlamentario del Congreso de la Ciudad de México.
 
 La o el Consejero Presidente y las y los Consejeros electorales serán designados por el Consejo General del Instituto Nacional, en los términos previstos por la Ley General.
 
@@ -1130,7 +1210,9 @@ XIV. Aprobar o rechazar los dictámenes, proyectos de acuerdo o de resolución q
 
 XV. Requerir a través del Secretario del Consejo, informes específicos a las áreas del Instituto Electoral;
 
-XVI. Resolver en los términos de este Código, sobre el otorgamiento o negativa de registro de Partido Político local, Agrupación Política o Candidatos sin partido.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XVI. Resolver en los términos de este Código, sobre el otorgamiento o negativa de registro de Partido Político local, Agrupación Política o Candidatos sin partido. Y de la acreditación de los Partidos Políticos locales.
 
 XVII. Determinar el financiamiento público para los Partidos Políticos y Candidatos sin partido, en sus diversas modalidades;
 
@@ -1138,7 +1220,9 @@ XVIII. Otorgar los recursos humanos y materiales necesarios para el desarrollo d
 
 XIX. Garantizar a los Partidos Políticos y las Candidaturas sin partido el ejercicio de sus derechos y asignación de las prerrogativas que les corresponden.
 
-XX. Vigilar que las Asociaciones Políticas y Candidatos sin partido cumplan las obligaciones a que están sujetas;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XX. Vigilar que las Asociaciones Políticas y Candidaturas sin partido cumplan las obligaciones a que están sujetas, contenidas en este Código, la Ley General de Partidos Políticos, así como los Lineamientos que emita el Consejo General para que prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, incluyendo las obligaciones relativas al principio constitucional de paridad de género.
 
 XXI. Formular, en su caso, la propuesta de división del territorio de la Ciudad de México en Distritos Electorales Uninominales locales y proponer, dentro de cada uno, el domicilio que les servirá de cabecera, para remitirlo a la consideración del Instituto Nacional.
 
@@ -1230,9 +1314,11 @@ Las autoridades federales, de las entidades federativas, de la Ciudad de México
 
 Para el desempeño de sus atribuciones, cumplimiento de obligaciones y supervisión del adecuado desarrollo de las actividades de los órganos ejecutivos y técnicos del Instituto Electoral, el Consejo General cuenta con el auxilio de Comisiones de carácter permanente y provisional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 53.
 
-Las Comisiones son instancias colegiadas con facultades de deliberación, opinión y propuesta. Se integrarán por Consejera o Consejero Presidente y dos Consejeras o Consejeros Electorales, todos ellos con derecho a voz y voto; y serán integrantes con derecho a voz los representantes de los partidos políticos y Candidatos sin partido, a partir de su registro y exclusivamente durante el proceso electoral, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización, y no conformarán quórum. La presidencia de cada una de las Comisiones se determinará por acuerdo del Consejo General.
+Las Comisiones son instancias colegiadas con facultades de deliberación, opinión y propuesta. Se integrarán por Consejera o Consejero Presidente y dos Consejeras o Consejeros Electorales bajo el principio de paridad de género, contando con derecho a voz y voto; y serán integrantes con derecho a voz las y los representantes de los partidos políticos y Candidatos sin partido, a partir de su registro y exclusivamente durante el proceso electoral, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización, y no conformarán quórum. La presidencia de cada una de las Comisiones se determinará por acuerdo del Consejo General.
 
 Contarán con un Secretario Técnico sólo con derecho a voz, designado por sus integrantes a propuesta de su Presidente y tendrán el apoyo y colaboración de los órganos ejecutivos y técnicos del Instituto Electoral.
 
@@ -1410,13 +1496,21 @@ VIII. Revisar, observar y aprobar los programas de Construcción de Ciudadanía,
 
 IX. Revisar, observar y aprobar las estrategias para difundir y tutelar el derecho de las niñas, niños, adolescentes y personas jóvenes, como parte de su educación cívica, a participar en la toma de las decisiones públicas que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen, les afecten o sean de su interés, conforme a lo establecido en la Constitución Federal, la Constitución Local y las leyes aplicables en la materia;
 
-XIII (SIC). Revisar, observar y aprobar estrategias e instrumentos que faciliten la creación de espacios de participación ciudadana para la construcción de ciudadanía, e impulsen la democracia digital abierta basada en tecnologías de información y comunicación;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-X. Proponer al Consejo General cada seis años, una estrategia integral de cultura cívica para la Ciudad de México, transversal a los programas y actividades de las áreas del propio Instituto;
+X. Revisar, observar y aprobar estrategias e instrumentos que faciliten la creación de espacios de participación ciudadana para la construcción de ciudadanía, e impulsen la democracia digital abierta basada en tecnologías de información y comunicación;
 
-XI. Las demás que le confiera este Código y que resulten necesarias para el cumplimiento de sus atribuciones.
+XI. Proponer al Consejo General cada seis años, una estrategia integral de cultura cívica para la Ciudad de México, transversal a los programas y actividades de las áreas del propio Instituto;
 
-Los Programas y materiales a que se refieren las fracciones anteriores deberán estar orientados a garantizar la plena inclusión y el ejercicio de derechos político - electorales de los ciudadanos, así como mecanismos de construcción de ciudadanía.
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XII. Proponer al Consejo General los programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y no discriminación, respeto y promoción a los derechos humanos de las mujeres en el ámbito político, así como suscribir convenios en estas materias para articular las políticas nacionales orientadas a la promoción de la cultura político-democrática, la igualdad política entre mujeres y hombres, así como la construcción de ciudadanía;
+
+XIII. Las demás que le confiera este Código y que resulten necesarias para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Los Programas y materiales a que se refieren las fracciones anteriores deberán estar orientados a garantizar la plena inclusión y el ejercicio de derechos político - electorales de la ciudadanía, así como los mecanismos de construcción de ésta.
 
 ###### Artículo 64.
 
@@ -2068,7 +2162,9 @@ IV. Participación Ciudadana y Capacitación.
 
 Son atribuciones de la Dirección Ejecutiva de Educación Cívica y Construcción de Ciudadanía:
 
-I. Elaborar, proponer y coordinar programas en materia de Educación Cívica, Desarrollo de la Cultura Democrática y Construcción de la Ciudadanía;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+I. Elaborar, proponer y coordinar programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y respeto a los derechos humanos de las mujeres en el ámbito político, así como proponer al Consejo General convenios en estas materias para articular las políticas nacionales orientadas a la promoción de la cultura político-democrática, la igualdad política entre mujeres y hombres, así como la construcción de ciudadanía;
 
 II. Diseñar y operar mecanismos de colaboración con autoridades federales y locales, organismos públicos, organizaciones civiles, instituciones académicas y de investigación para coadyuvar al desarrollo de la vida democrática en la Ciudad de México;
 
@@ -2102,7 +2198,9 @@ XVI. Elaborar, proponer y coordinar el Programa Editorial institucional;
 
 XVII. Instrumentar el Programa de Educación Cívica;
 
-XVIII. Elaborar, proponer y coordinar con el área de Comunicación Social las estrategias y campañas de promoción del voto y de difusión de la cultura democrática y derechos político electorales.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XVIII. Elaborar, proponer y coordinar con el área de Comunicación Social las estrategias y campañas de promoción del voto y de difusión de la cultura democrática y derechos político electorales y de información para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género;
 
 XIX. Elaborar y someter a la aprobación de la Comisión de Educación Cívica y Construcción de Ciudadanía, los materiales educativos e instructivos para el desarrollo de las actividades de la Educación Cívica y Democrática;
 
@@ -3050,9 +3148,11 @@ El personal de la Rama Administrativa podrá inconformarse ante la Junta Adminis
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 165.
 
-El Tribunal Electoral es la autoridad jurisdiccional especializada en materia electoral en la Ciudad de México, dotado de plena jurisdicción, que tiene a su cargo garantizar que todos los actos y resoluciones electorales locales y de los procedimientos de participación ciudadana en la Ciudad de México, así como los procesos democráticos, que sean de su competencia, se sujeten al principio de constitucionalidad, convencionalidad y legalidad. Goza de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones, debiendo cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
+El Tribunal Electoral es la autoridad jurisdiccional especializada en materia electoral en la Ciudad de México, dotado de plena jurisdicción, que tiene a su cargo garantizar que todos los actos y resoluciones electorales locales y de los procedimientos de participación ciudadana en la Ciudad de México, así como los procesos democráticos, que sean de su competencia, se sujeten al principio de constitucionalidad, convencionalidad y legalidad. Goza de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones, debiendo cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad, probidad, igualdad, perspectiva intercultural y no discriminación, paridad de género y enfoque de derechos humanos.
 
 Es competente para conocer y resolver de forma definitiva:
 
@@ -3066,7 +3166,9 @@ IV. De los conflictos laborales entre el Tribunal electoral y sus servidores, o 
 
 V. Verificar que los actos y resoluciones de las autoridades electorales y de participación ciudadana se ajusten a la Constitución Local, el Código Electoral y la ley procesal.
 
-Lo anterior bajo los principios de constitucionalidad, certeza, imparcialidad, objetividad, legalidad y probidad.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Lo anterior bajo los principios de constitucionalidad, certeza, imparcialidad, objetividad, legalidad, probidad y paridad de género.
 
 ###### Artículo 166.
 
@@ -3148,9 +3250,11 @@ Así mismo, deben conducirse con imparcialidad y velar por la aplicación irrest
 
 #### SECCIÓN PRIMERA. NATURALEZA E INTEGRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 171.
 
-El Pleno es el órgano superior de dirección del Tribunal Electoral, se integra por cinco Magistradas o Magistrados Electorales, mismos que elegirán por mayoría de votos y en sesión pública a su Presidenta o Presidente.
+El Pleno es el órgano superior de dirección del Tribunal Electoral, se integra por cinco Magistradas o Magistrados Electorales, observando el principio de paridad de género, alternando el género mayoritario. Elegirán por mayoría de votos y en sesión pública a su Presidenta o Presidente, observando el principio de paridad, alternando el género en cada elección.
 
 Asumirá sus decisiones de manera colegiada, en sesiones públicas o reuniones privadas, conforme lo dispuesto en el Reglamento Interior del Tribunal.
 
@@ -4324,9 +4428,11 @@ Los Partidos Políticos locales se constituirán por ciudadanas y ciudadanos de 
 
 Los partidos políticos respetarán los derechos de militancia, asociación y libre expresión de sus integrantes.
 
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 242.
 
-Los Partidos Políticos con registro nacional y los Partidos Políticos con registro local en la Ciudad de México tienen el derecho para solicitar el registro de candidatos a cargos locales de elección popular, sin perjuicio de las candidaturas sin partido y en los términos y condiciones establecidas en la Ley de Partidos, el presente ordenamiento y las demás disposiciones aplicables.
+Los Partidos Políticos con registro nacional y los Partidos Políticos con registro local en la Ciudad de México tienen el derecho a solicitar el registro de candidaturas a cargos locales de elección popular, sin perjuicio de las candidaturas sin partidos y en los términos y condiciones establecidas en la Ley de Partidos, el presente ordenamiento y las demás disposiciones aplicables, una vez que hayan acreditado ante el Instituto Electoral el respectivo Protocolo para Prevenir, Atender y Erradicar la Violencia Política en Razón de Género al interior del partido político.
 
 ## TÍTULO SEGUNDO. DE LA NATURALEZA, CONSTITUCIÓN Y REGISTRO DE LAS ASOCIACIONES POLÍTICAS
 
@@ -4358,9 +4464,11 @@ III. Presentar copias simples de las constancias de afiliación individual y vol
 
 IV. Garantizar que sus afiliados no formen parte de otra Agrupación Política ni que sus dirigentes también lo sean de algún partido político u ocupen cargo alguno de elección popular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 247.
 
-El Estatuto, la Declaración de Principios y el Programa de Acción de las Agrupaciones Políticas Locales, se sujetarán a lo siguiente:
+El Estatuto, la Declaración de Principios, el Programa de Acción de las Agrupaciones Políticas Locales y el Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género, se sujetarán a lo siguiente:
 
 I. El Estatuto establecerá:
 
@@ -4408,7 +4516,23 @@ b) Las políticas que propone para coadyuvar en la solución de los problemas de
 
 c) Los medios para formar ideológica y políticamente a sus afiliados infundiendo en ellos el respeto al adversario y a sus derechos en la lucha política.
 
-Cualquier modificación a su Declaración de Principios, Programa de Acción o Estatuto, deberá ser comunicada al Instituto Electoral, dentro de los diez días hábiles siguientes a la fecha en que se tome el acuerdo correspondiente por la Agrupación Política Local.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 29 DE JULIO DE 2020)</small>
+
+IV. El Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género establecerá:
+
+a) La obligación de observar la Ley General, la Ley de Procedimientos, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso y demás disposiciones aplicables en materia de violencia política en razón de género;
+
+b) La obligación de prevenir la violencia política en razón de género promoviendo los derechos humanos político electorales de todas las personas;
+
+c) El procedimiento de denuncia de las personas militantes víctimas de violencia política en razón de género;
+
+d) Los órganos internos encargados de atender y sancionar la violencia política en razón de género;
+
+e) El procedimiento de resolución de controversias internas por violencia política en razón de género garantizando los principios de honestidad, imparcialidad, igualdad, legalidad y transparencia, así como las sanciones aplicables.
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Cualquier modificación a su Declaración de Principios, Programa de Acción, Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género o Estatuto, deberá ser comunicada al Instituto Electoral, dentro de los diez días hábiles siguientes a la fecha en que se tome el acuerdo correspondiente por la Agrupación Política Local.
 
 Las modificaciones surtirán efectos hasta que el Consejo General declare la procedencia legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de 30 días hábiles contados a partir de la presentación de la documentación correspondiente.
 
@@ -4478,7 +4602,9 @@ VIII. Comunicar oportunamente al Instituto Electoral, la integración de sus ór
 
 IX. Actuar y conducirse sin ligas de dependencia o subordinación con Partidos Políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión o secta;
 
-X. Abstenerse de cualquier expresión que implique calumnia a los ciudadanos, a las instituciones públicas, a otras Asociaciones Políticas o candidatos;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+X. Abstenerse de cualquier expresión, propaganda o promoción de discurso de odio que implique calumnia, discriminen o constituyan actos de violencia política contra las mujeres en razón de género, en términos de la Ley General y este Código, en contra de la ciudadanía, a las instituciones públicas, a otras Asociaciones Políticas o candidaturas;
 
 XI. Garantizar la participación de las mujeres en la toma de decisiones e incorporar perspectiva de género en sus acciones de formación y capacitación política y procurar el acceso paritario a sus órganos de dirección;
 
@@ -4580,7 +4706,9 @@ I. Nacionales, los que hayan obtenido y conserven vigente su registro ante el In
 
 II. Locales, los que obtengan su registro como tales ante el Instituto Electoral, en los términos de la Constitución Local y este Código.
 
-Los Partidos Políticos nacionales y locales que cuenten con el registro respectivo ante el Instituto Nacional, o ante el Instituto Electoral, de acuerdo con las disposiciones de la materia, tendrán derecho a participar en los procesos electorales de la Ciudad de México, para elegir Diputadas o Diputados Locales por los principios de mayoría relativa y de representación proporcional, a los titulares de la Jefatura de Gobierno, y de las Alcaldías, así como Concejales por los principios de mayoría relativa y de representación proporcional, en los términos que establece la Constitución Federal, la Constitución Local, la Ley de Partidos, este Código y demás ordenamientos aplicables.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Los Partidos Políticos nacionales que cuenten con el registro respectivo ante el Instituto Nacional, y los locales ante el Instituto Electoral, durante el mes de septiembre previo a la elección tendrán derecho a solicitar por escrito su acreditación en términos del artículo 258 de este Código, a fin de participar en los procesos electorales de la Ciudad de México, para elegir Diputadas o Diputados Locales por los principios de mayoría relativa y de representación proporcional, a las personas titulares de la Jefatura de Gobierno, y de las Alcaldías, así como Concejalías por los principios de mayoría relativa y de representación proporcional, en los términos que establece la Constitución Federal, la Constitución Local, la Ley de Partidos, este Código y demás ordenamientos aplicables.
 
 ###### Artículo 258.
 
@@ -4590,7 +4718,13 @@ I. La vigencia de su registro como partido político, acompañando para tal efec
 
 II. Su domicilio en la Ciudad de México; y
 
-III. La integración de su Órgano Directivo u organismo equivalente en de (sic) la Ciudad de México, adjuntando copias certificadas por el Instituto Nacional de los documentos en que consten las designaciones de los titulares de sus órganos de representación, de sus estatutos, así como una relación de los integrantes de sus estructuras distritales o de su demarcación territorial correspondiente.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+III. La integración de su Órgano Directivo u organismo equivalente en de (sic) la Ciudad de México, adjuntando copias certificadas por el Instituto Nacional de los documentos en que consten las designaciones de los titulares de sus órganos de representación, de sus estatutos, así como una relación de los integrantes de sus estructuras distritales o de su demarcación territorial correspondiente; y
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+IV. El Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género.
 
 ###### Artículo 259.
 
@@ -4666,6 +4800,22 @@ V. La obligación de presentar y difundir una plataforma electoral mínima para 
 
 VI. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas.
 
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 264 Bis.
+
+El Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género establecerá:
+
+I. Definición de violencia política en razón de género y que actos la constituyen;
+
+II. Establecerá el marco normativo federal, local y de cada Partido Político en materia de derechos político electorales y violencia política en razón de género;
+
+III. Principios rectores para la atención de los casos de violencia política en razón de género;
+
+IV. Instancias competentes para atender y sancionar al interior de cada Partido Político la violencia política en razón de género, estableciendo de forma clara el proceso de denuncia y atención para las víctimas;
+
+V. Mecanismos de evaluación de la efectividad del protocolo.
+
 ###### Artículo 265.
 
 La organización de ciudadanos interesada en constituirse en partido político local, lo notificará al Instituto Electoral, en el mes de enero del año siguiente al de la elección de Jefe de Gobierno de la Ciudad de México, debiendo cumplir con los requisitos señalados en los artículos anteriores y deberá realizar los siguientes actos previos en los plazos señalados por este Código:
@@ -4702,17 +4852,29 @@ En caso de que la organización interesada no presente su solicitud de registro 
 
 El monto máximo de los recursos a utilizar para realizar las actividades tendentes a la obtención del registro legal, no podrá ser mayor al treinta por ciento del tope de gastos de campaña establecido para la candidatura a Jefa o Jefe de Gobierno de la elección inmediata anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 266.
 
-Una vez realizados los actos relativos al procedimiento de constitución de un partido, la organización de ciudadanos interesada, en el mes de enero del año anterior al de la siguiente elección, presentará ante el Instituto Electoral, la solicitud de registro, acompañándola con los siguientes documentos:
+Una vez realizados los actos relativos al procedimiento de constitución de un partido, la organización de ciudadana interesada, en el mes de enero del año anterior al de la siguiente elección, presentará ante el Instituto Electoral, la solicitud de registro, acompañándola con los siguientes documentos:
 
 I. La declaración de principios, el programa de acción y los estatutos aprobados por sus afiliados;
 
-II. Las cédulas de afiliación individual y voluntaria de sus miembros, donde conste el nombre, apellidos, domicilio, ocupación, firma y clave de la Credencial para Votar de cada uno de los interesados, bajo el formato que determine el Instituto Electoral;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-III. Las listas nominales de afiliados por Distrito Electoral, y
+II. Las cédulas de afiliación individual y voluntaria de sus integrantes, donde conste el nombre, apellidos, domicilio, ocupación, firma y clave de la Credencial para Votar de cada una de las personas interesadas, bajo el formato que determine el Instituto Electoral;
 
-IV. Las cédulas de afiliación individual y voluntaria de sus miembros, donde conste el nombre, apellidos, domicilio, ocupación, firma y clave de la Credencial para Votar de cada uno de los interesados, bajo el formato que determine el Instituto Electoral.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+III. Las listas nominales de personas afiliadas por Distrito Electoral, y
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+IV. Las cédulas de afiliación individual y voluntaria de sus integrantes, donde conste el nombre, apellidos, domicilio, ocupación, firma y clave de la Credencial para Votar de cada una de las personas interesadas, bajo el formato que determine el Instituto Electoral.
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+V. Protocolo de Atención, Sanción y Erradicación de la Violencia Política por Razón de Género.
 
 ###### Artículo 267.
 
@@ -4810,19 +4972,33 @@ VIII. Comunicar al Instituto Electoral la integración de sus órganos directivo
 
 IX. Actuar y conducirse sin ligas de dependencia o subordinación con Partidos Políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión;
 
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
 X. Utilizar las prerrogativas y aplicar el financiamiento público de acuerdo a las disposiciones de este Código;
+
+Cuando se acredite la violencia política contras las mujeres en razón de género, en uso de las prerrogativas señaladas, se procederá de conformidad con la Ley General y este Código, para la inmediata suspensión de su difusión, y que la persona infractora, ofrezca disculpa pública, con la finalidad de reparar el daño;
 
 XI. Sostener por lo menos un centro de formación política para sus afiliados, infundiendo en ellos convicciones y actitudes democráticas, así como respeto al adversario y a sus derechos en la lucha política;
 
-XII. Observar las normas y disposiciones que en materia de propaganda electoral establezca este Código, así como las disposiciones administrativas y de protección al medio ambiente, para la elaboración, colocación y retiro de propaganda electoral durante el transcurso y conclusión de los procesos de selección interna de candidatos y campañas electorales;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-XIII. Abstenerse, en el desarrollo de sus actividades, de cualquier expresión que implique calumnia a otros ciudadanos, a las instituciones públicas o a otras Asociaciones Políticas o candidatos, particularmente durante los procesos de selección interna de candidatos y campañas electorales;
+XII. Observar las normas y disposiciones que en materia de propaganda electoral establezca la Ley General y este Código, así como las disposiciones administrativas y de protección al medio ambiente, para la elaboración, colocación y retiro de propaganda electoral durante el transcurso y conclusión de los procesos de selección interna de candidaturas y campañas electorales;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XIII. Abstenerse, en el desarrollo de sus actividades, de cualquier expresión que implique calumnia, discrimine o constituyan actos de violencia política contra las mujeres en razón de género, en términos de la Ley de Acceso, la Ley General y este Código, en contra de la ciudadanía, de las instituciones públicas o de otras Asociaciones Políticas, candidatas o candidatos, particularmente durante los procesos de selección interna de candidaturas y campañas electorales;
 
 XIV. Prescindir en el desarrollo de sus actividades de utilizar símbolos patrios, religiosos, así como expresiones, alusiones o fundamentaciones del mismo carácter;
 
 XV. Abstenerse de realizar afiliaciones forzadas o por medio de dádivas que impliquen un medio de coacción;
 
-XVI. Garantizar la participación de las mujeres en la toma de decisiones e incorporar perspectivas de género en sus acciones de formación y capacitación política, el acceso paritario a los cargos de representación popular y en sus órganos de dirección;
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XVI. Garantizar la participación de las mujeres en la toma de decisiones e incorporar perspectivas de género en sus acciones de formación y capacitación política, el acceso paritario a los cargos de representación popular y en sus órganos de dirección. Los partidos políticos determinarán y harán públicos los criterios para garantizar la paridad de género en las candidaturas a cargos de elección popular, deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
+
+También garantizarán a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política en razón de género, sancionarán por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género, garantizarán la no discriminación por razón de género en la programación y distribución de tiempos del Estado, establecerán mecanismos de promoción y acceso de las mujeres a la actividad política del partido, así como la formación de liderazgos políticos.
+
+En caso de incumplimiento a esta disposición serán acreedores a las sanciones que establezcan las leyes en la materia.
 
 XVII. Destinar al menos el cinco por ciento del financiamiento público para actividades ordinarias permanentes que se les asigne, para la generación y fortalecimiento de liderazgos femeninos, así como, al menos el tres por ciento para liderazgos juveniles y otro dos por ciento para la generación de estudios e investigación de temas de la Ciudad de México;
 
@@ -5030,7 +5206,9 @@ IX. Fijar su propaganda en contravención a lo establecido en el Código;
 
 X. Utilizar en su propaganda símbolos, distintivos, emblemas o figuras con motivo religioso;
 
-XI. Utilizar expresiones verbales o escritos contrarios a la moral, que injurien a las autoridades, a los demás Partidos Políticos o precandidatos, o que tiendan a incitar a la violencia y al desorden público; y
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XI. Utilizar expresiones verbales o escritos que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género, que injurien a las autoridades, a los demás Partidos Políticos o personas precandidatas, o que tiendan a incitar a la violencia y al desorden público; y
 
 XII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
@@ -5210,6 +5388,8 @@ Se exceptúa de la referente disposición a los partidos políticos que no obtuv
 
 ### CAPÍTULO VII. DE LAS CANDIDATURAS SIN PARTIDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 299.
@@ -5288,7 +5468,7 @@ Es deber de cada Partido Político coaligado apoyar el Programa de Gobierno de l
 
 ###### Artículo 310.
 
-Las Ciudadanas y Ciudadanos que cumplan con los requisitos, condiciones y términos que establece la normatividad, tendrán derecho a participar y en su caso a ser registrados como Candidatos sin partido para ocupar los cargos de:
+Las Ciudadanas y Ciudadanos que cumplan con los requisitos, condiciones obligaciones y términos que establece la Ley General y este Código, tendrán derecho a participar y en su caso a obtener el registro como Candidatas o Candidatos sin partido para ocupar los cargos de:
 
 I. Jefatura de Gobierno de la Ciudad de México;
 
@@ -5308,7 +5488,13 @@ d) Dictamen sobre el respaldo ciudadano requerido para obtener el derecho a regi
 
 e) Registro de candidatura sin partido.
 
-Para obtener el registro como candidato sin partido, además de cumplir con los términos, plazos y condiciones de registro que se establecen para los candidatos propuestos por los partidos políticos, entre ellos, los contenidos en el artículo 18 del presente Código, el solicitante deberá satisfacer el requisito consistente en no haber sido militante de algún partido político, cuando menos un año antes a la solicitud de registro.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Para obtener el registro de una candidatura sin partido, además de cumplir con los términos, plazos y condiciones de registro que se establecen para las candidaturas propuestas por los partidos políticos, entre ellos, los contenidos en el artículo 18 del presente Código, la persona solicitante deberá satisfacer el requisito consistente en no haber militado en algún partido político, cuando menos un año antes a la solicitud de registro.
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+La persona que participe o en su caso sea registrada como candidata sin partido, en todo momento deberá abstenerse de ejercer violencia política contra las mujeres en razón de género o de recurrir a expresiones que degraden, denigren o discriminen a otras personas, ya sean personas aspirantes, precandidatas, candidatas, partidos políticos, instituciones públicas o privadas, de conformidad con la Ley General y este Código.
 
 Ninguna persona podrá contender de manera simultánea en un mismo proceso electoral como candidato sin partido y candidato de partido político. Tampoco podrá buscarse simultáneamente una candidatura en el proceso de selección de candidatos de un partido político y buscar el apoyo ciudadano como aspirante a solicitar registro para una candidatura sin partido.
 
@@ -5606,11 +5792,15 @@ I. Financiamiento público local para Partidos Políticos; y
 
 II. Transferencias realizadas por la Dirección Nacional de los Partidos Políticos del financiamiento público federal, en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 332.
 
-Los partidos políticos con registro nacional tendrán derecho a contar con representación ante el Consejo General del Instituto Electoral y recursos públicos locales.
+Los partidos políticos con registro nacional y registro local tendrán derecho a contar con acreditación del Instituto Electoral; es decir, representación ante el Consejo General y recursos públicos locales, siempre y cuando hayan obtenido y al menos el tres por ciento de la votación válida emitida y hayan registrado ante el Instituto Electoral el Protocolo para Prevenir, Atender y Erradicar la Violencia Política en razón de género al interior del partido político.
 
-Los partidos políticos locales que hayan obtenido al menos el tres por ciento de la votación local emitida y los partidos políticos que no hayan obtenido su registro a nivel nacional, pero que si hayan obtenido al menos el tres por ciento de la votación local emitida podrán contar con los derechos reconocidos en el párrafo anterior.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Los partidos políticos locales que hayan obtenido al menos el tres por ciento de la votación válida emitida y los partidos políticos que no hayan obtenido su registro a nivel nacional, pero que sí hayan obtenido al menos el tres por ciento de la votación local emitida podrán contar con los derechos reconocidos en el párrafo anterior.
 
 Las reglas que determinen el financiamiento Local de los Partidos Políticos que cumplan con lo previsto en el párrafo anterior, se establecerán en el presente Código.
 
@@ -5682,7 +5872,13 @@ Los partidos políticos, precandidatos y candidatos sin partido a cargos de elec
 
 Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio nacional de este tipo de propaganda contratada en el extranjero. Las infracciones a lo establecido en este párrafo serán sancionadas en los términos dispuestos por la Ley General y este Código.
 
-Ningún Partido Político, persona física o moral podrá contratar tiempos y espacios en radio, televisión o cualquier otro medio de comunicación a favor o en contra de algún Partido Político o candidato. Los medios de comunicación no tendrán permitida la transmisión de propaganda política y electoral bajo ninguna modalidad diversa de los espacios concedidos por la autoridad electoral, salvo la información que difundan en sus espacios noticiosos y de opinión.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Ningún Partido Político, persona física o moral podrá contratar tiempos y espacios en radio, televisión o cualquier otro medio de comunicación a favor o en contra de algún Partido Político o candidatura. Los medios de comunicación no tendrán permitida la transmisión de propaganda política y electoral bajo ninguna modalidad diversa de los espacios concedidos por la autoridad electoral, salvo la información que difundan en sus espacios noticiosos y de opinión.
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Cuando se acredite Violencia Política contra las Mujeres en Razón de Género en uso de las prerrogativas señaladas en el presente capítulo, se procederá de manera inmediata en términos de lo dispuesto en el artículo 163 de la Ley General de Instituciones y Procedimientos Electorales.
 
 ###### Artículo 340.
 
@@ -6022,6 +6218,10 @@ g) En todo tiempo deberá garantizarse al partido político de que se trate el e
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, las Leyes Generales, la Constitución Local, este Código y demás leyes relativas, realizado por las autoridades electorales, los Partidos Políticos o Coaliciones y los ciudadanos, que tiene por objeto la renovación periódica de Diputaciones del Congreso de la Ciudad de México, de la Jefatura de Gobierno y de las Alcaldías.
 
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Los partidos políticos estarán impedidos de participar del proceso a que hace referencia el párrafo anterior, cuando ejerzan, motiven, incentiven, toleren o permitan de manera reiterada la violencia política contra las mujeres en razón de género entre sus militantes, simpatizantes, precandidatas y precandidatos, candidatas o candidatos; en atención al procedimiento establecido en el artículo 4o de la Ley Procesal.
+
 ###### Artículo 357.
 
 El Consejo General convocará al proceso electoral ordinario a más tardar 30 días antes de su inicio. Para el caso de elección extraordinaria, se estará a lo que determine el Consejo General.
@@ -6262,7 +6462,9 @@ La Secretaría Ejecutiva elaborará con anticipación los diversos formatos que 
 
 Los partidos políticos promoverán y garantizarán la paridad entre los géneros, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso de la Ciudad de México y Alcaldías.
 
-El Instituto Electoral tendrá facultad para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+El Instituto Electoral tendrá facultad para rechazar el registro de aquellas candidaturas que no cumplan con el principio de paridad de género. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
 ###### Artículo 380.
 
@@ -6550,17 +6752,23 @@ II. Quien contienda deberá solicitar el uso de los locales con suficiente antel
 
 Los Partidos Políticos o las y los candidatos que decidan dentro de la campaña electoral realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán dar a conocer a la autoridad competente su itinerario a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión. Este tipo de actos deberán respetar en todo momento la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 400.
 
-La propaganda impresa que las y los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del Partido Político o su candidato, así como del Candidata o Candidato sin partido.
+La propaganda impresa que las y los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del Partido Político o su Candidata o Candidato, así como de la Candidata o Candidato sin partido.
 
 Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y Candidatas o Candidatos sin partido, deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña. Para efectos de este Código se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición o candidata o candidato que lo distribuye. Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil.
 
-La propaganda que Partidos Políticos y candidatos difundan por medios gráficos, por conducto de los medios electrónicos de comunicación, en la vía pública, a través de grabaciones y, en general, por cualquier otro medio, no tendrá más límite que el respeto a las instituciones, a los demás candidatos, al medio ambiente y al paisaje urbano.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+La propaganda que Partidos Políticos, candidatas y candidatos difundan por medios gráficos, por conducto de los medios electrónicos de comunicación, en la vía pública, a través de grabaciones y, en general, por cualquier otro medio, no tendrá más límite que el respeto a las instituciones, la ciudadanía, al medio ambiente y al paisaje urbano.
 
 Además, propiciará la exposición, desarrollo y discusión ante el electorado de los programas y acciones propuestas por los mismos. No deberá utilizar símbolos, signos o motivos religiosos, expresiones verbales o alusiones ofensivas a las personas o a los candidatos de los diversos Partidos que contiendan en la elección. La propaganda que los Partidos Políticos y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por este Código, así como a las disposiciones administrativas expedidas en materia de prevención de la contaminación por ruido.
 
-Los Partidos Políticos, las Coaliciones y los candidatos se abstendrán de utilizar propaganda y en general cualquier mensaje que implique calumnia en menoscabo de la imagen de Partidos Políticos, candidatos de partido, sin partido o instituciones públicas, así como de realizar actos u omisiones que deriven en violencia política, incluyendo las cometidas en razón de género.
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Los Partidos Políticos, las Coaliciones, las candidatas y los candidatos se abstendrán de utilizar propaganda y en general cualquier mensaje que implique calumnia, discrime o constituya actos u omisiones de violencia política contra las mujeres en razón de género en términos de la Ley General y este Código, en menoscabo de la imagen de Partidos Políticos, candidaturas de partido, sin partido o instituciones públicas, así como de realizar actos u omisiones que deriven en violencia política.
 
 Queda prohibido a los concesionarios y permisionarios de radio y televisión difundir propaganda, y en general cualquier mensaje que implique alguno de los actos considerados en el párrafo anterior. El incumplimiento a lo dispuesto, será sancionado en los términos de este Código y del Código Penal para la Ciudad de México.
 
@@ -7629,3 +7837,23 @@ G.O. 9 DE ENERO DE 2020.
 Primero.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida difusión.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO.- Para los efectos de lo dispuesto en los artículos 63, fracción XII; y 94, fracción I, las unidades referidas contarán con un plazo de 30 días hábiles para proponer al Consejo General los programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y no discriminación, respeto y promoción a los derechos humanos de las mujeres en el ámbito político; así como elaborar, proponer y coordinar programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y respeto a los derechos humanos de las mujeres en el ámbito político, respectivamente.
+
+QUINTO.- Se derogan todas las disposiciones del Código de Instituciones y Procedimientos Electorales y de la Ley Procesal Electoral, ambos ordenamientos de la Ciudad de México, que se opongan al contenido del presente Decreto.
+
+SEXTO.- Los subsecuentes nombramientos que se lleven a cabo con motivo de la aplicación de las leyes e instancias a que hace referencia al presente Decreto, deberán realizarse garantizando el principio de paridad de género.
+
+SÉPTIMO.- Para garantizar el principio de paridad de género en la postulación de candidaturas a los cargos de elección popular en los próximos procesos electorales, el Instituto Electoral aplicará los lineamientos utilizados en el Proceso Electoral Ordinario 2017-2018.
+
+Los Distritos Electorales y Demarcaciones Territoriales se ordenarán de mayor a menor conforme al porcentaje de votación obtenido en el proceso electoral anterior, y se dividirán en tres bloques de competitividad, y en caso de remanente, éste se considerará en el bloque de competitividad alta.
