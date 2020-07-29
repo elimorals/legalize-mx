@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-de-la-ciudad-de-mexico-para-el-139586"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2019-12-23"
-last_updated: "2019-12-23"
+last_updated: "2020-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139586&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-23"
 
 PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2020.
 
 Presupuesto publicado en el Número 247 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 23 de diciembre de 2019.
 
@@ -1070,6 +1070,22 @@ Artículo Décimo Séptimo. Dentro de las erogaciones a la Procuraduría General
 
 Artículo Décimo Octavo. Del presupuesto asignado a la Secretaría de Salud en el artículo 5 del presente decreto, se encuentran previstos los recursos para la operación del Hospital Veterinario de la Ciudad de México, los cuales deberán ser transferidos a la Secretaría del Medio Ambiente, conforme a la normatividad aplicable, debiendo la Secretaría realizar las adecuaciones presupuestarias procedentes.
 
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+Artículo Décimo Noveno. De manera excepcional y debido a la pandemia mundial ocasionada por COVID-19, la ejecución de los recursos para los proyectos ganadores del presupuesto participativo correspondiente al ejercicio fiscal 2020, considerando en los artículos 18 y 19 del presente Decreto, será realizada en el año 2021.
+
 Palacio Legislativo del Congreso de la Ciudad de México, a los trece días del mes de diciembre del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD ÁVILA VENTURA, SECRETARIA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintitrés días del mes diciembre del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTÍZ QUINTERO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO TRANSITORIO VIGÉSIMO A LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO Y EL ARTÍCULO DÉCIMO NOVENO AL DECRETO POR EL QUE SE EXPIDE EL PRESUPUESTO DE EGRESOS PARA LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2020”.]
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Para dar cumplimiento a lo dispuesto por el artículo Vigésimo Transitorio del presente Decreto, en el Proyecto de Presupuesto de Egresos para el ejercicio fiscal 2021 que la Jefa de Gobierno de la Ciudad de México remita al Congreso de la Ciudad de México, se deberán identificar y diferenciar los rubros correspondientes a los montos del Presupuesto Participativo 2020 y 2021.
