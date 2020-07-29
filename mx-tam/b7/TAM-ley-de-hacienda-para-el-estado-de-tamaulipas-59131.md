@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2020-07-08"
+last_updated: "2020-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1479,6 +1479,12 @@ f).- Por el trámite y expedición de constancias diversas derivadas de la activ
 
 En los derechos que se causen por matrimonios a domicilio, los Oficiales del Registro Civil y sus Secretarios, tendrán derecho a una participación, los primeros de un treinta por ciento y los segundos de un diez por ciento.
 
+#### SECCION I. DE LA EMISION DE GASES A LA ATMOSFERA
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
 ###### Artículo 64.
 
 Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas causarán derechos conforme a la siguiente tarifa:
@@ -1714,6 +1720,10 @@ VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tr
 ###### Artículo 67.
 
 No se causarán los derechos a que se refieren los artículos 64 y 68 de esta Ley, por los informes que soliciten las autoridades judiciales en causas penales, juicios de amparo, juicios de alimentos atendiendo al principio pro-persona, a las personas que se encuentren registradas en el Registro Estatal de la Comisión Estatal de Atención a Víctimas del Estado de Tamaulipas, además por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los demás servidores públicos del Gobierno del Estado, en ejercicio de sus facultades como autoridades, con excepción de los solicitados por los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
+
+#### SECCION II. DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 68.
 
@@ -2079,7 +2089,9 @@ Si el dibujo de los planos a que se refiere este inciso, se requiere con coorden
 
 V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
-### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
+### CAPITULO VI-BIS. DERECHOS POR LA EMISION DE GASES A LA ATMOSFERA
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 73.
 
@@ -2365,9 +2377,7 @@ Asimismo, se podrá otorgar placas con identificación de "discapacidad" sin apl
 
 En todos los casos, se podrá asignar hasta un segundo juego de placas de circulación con identificación de "discapacidad" siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
 
-### CAPITULO VIII. DERECHOS DE COOPERACION
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
 
 ###### Artículo 75.
 
@@ -2651,11 +2661,161 @@ XXII. Los residentes en el extranjero por el derecho de contratar un prestador d
 
 (DEROGADO, P.O. 17 DE DICIEMBRE DE 2014)
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2020)</small>
+
+### CAPITULO VIII. DERECHOS DE COOPERACION
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 76 Bis.
+
+El objetivo y finalidad del derecho es que la Hacienda Pública del Estado cuente con recursos que le permitan financiar las políticas y programas de adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero, al fomento de la sustentabilidad en las actividades económicas, industriales y productivas en el Estado, así como para cumplir con las obligaciones de protección a la salud, al ambiente y a la preservación y restauración del equilibrio ecológico, de conformidad con lo establecido por los artículos 4º, 25 y 73, fracción XXIX-G, de la Constitución Política de los Estados Unidos Mexicanos, así como el diverso 16 de la Constitución Política del Estado Libre y Soberano de Tamaulipas.
+
+Asimismo, este derecho tiene como finalidad que los contribuyentes que se encuentren en el supuesto de causación, aporten a la hacienda pública en proporción a la afectación a los componentes del medioambiente y los efectos negativos generados por el sustrato económico que llevan a cabo, cuando éste produzca emisiones de carbono u otros gases a la atmósfera.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 76 Ter.
+
+Para efectos de este Capítulo serán aplicables de manera supletoria el Código para el Desarrollo Sustentable del Estado de Tamaulipas y demás disposiciones vigentes en el Estado en materia de derecho al medio ambiente sano, que no sean contrarias a la naturaleza del derecho fiscal.
+
+Para determinar la base gravable, las autoridades fiscales podrán considerar:
+
+I.- Los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del derecho deban llevar conforme a las disposiciones legales, sean de carácter fiscal, mercantil o para dar cumplimiento a las normas en materia de ecología y medio ambiente; y
+
+II.- Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar la cantidad conforme a la información que se obtenga de otras autoridades, terceros, estudios científicos o tecnológicos, considerando el tipo de actividades realizadas por el contribuyente y la producción o venta del periodo en el que se causó el derecho.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
+
+#### SECCION III. DE LA BASE
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 76 Quater.
+
+Son objeto de este derecho las emisiones a la atmósfera de las sustancias generadas por los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo a partir de la tonelada 25 al mes.
+
+Para los efectos de este artículo, se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
+
+#### SECCION IV. DE LA TARIFA
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 76 Quinquies.
+
+Son sujetos y están obligados al pago de este derecho, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas en el territorio del Estado y que emitan más de 25 toneladas al mes de las emisiones a que se refiere el artículo 76 Sexies.
+
+También quedan comprendidos como sujetos de este derecho, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas productivas del Estado, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
+
+#### SECCION V. DEL ENTERO
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 76 Sexies.
+
+Es base de este derecho la masa de emisiones contaminantes gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas, a partir de la tonelada 25 al mes.
+
+Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal Ambiental a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente.
+
+Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 76 Quater de esta Ley en Bióxido de Carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
+
+Gases Efecto Invernadero Composición Molecular Equivalencia
+
+Bióxido de Carbono CO2 1
+
+Metano CH4 23
+
+Óxido nitroso N2O 296
+
+Hidrofluro-carbonos HFC-23 12,000
+
+HFC-125 3,400
+
+HFC-134ª 1,300
+
+HFC-152ª 120
+
+HFC-227ea 3,500
+
+HFC-236fa 9,400
+
+HFC-4310mee 1,500
+
+Perfluoro-carbonos CF4 5,700
+
+C2F6 11,900
+
+C4F10 8,600
+
+C6F14 9,000
+
+Hexafluoro de azufre SF6 22,200
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
+
+#### SECCION VI. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 76 Septies.
+
+El derecho se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este derecho y que afectan el territorio del Estado, aplicando una tarifa impositiva por el equivalente a tres veces el valor diario de la Unidad de Medida y Actualización, a partir de la tonelada 25 al mes, emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+
+Asimismo, para el caso de que se exceda la unidad de medida señalada en el párrafo anterior como tonelada, sin que las emisiones alcancen la siguiente unidad de medida o tonelada, la tarifa impositiva por ese excedente se deberá calcular de forma directamente proporcional a la porción que exceda de la tonelada correspondiente.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
+
+#### SECCION VII. DESTINO DEL DERECHO
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 76 Octies.
+
+El contribuyente hará el entero del derecho a más tardar el día 17 del mes siguiente que corresponda al mismo, mediante los formularios que para esos efectos apruebe y publique la Secretaría.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 76 Nonies.
+
+Los contribuyentes estarán obligados a presentar aviso de inscripción ante la Secretaría y llevar un Libro Registro de Emisiones Contaminantes, que estará a disposición de la Secretaría y de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
+
+En el Libro Registro de Emisiones Contaminantes se consignarán los datos siguientes:
+
+I.- Volumen y tipología del combustible, así como materias primas consumidas y/o producidas;
+
+II.- Composición química básica del combustible consumido y/o producido;
+
+III.- Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
+
+IV.- En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y
+
+V.- Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría o de la Secretaría de Desarrollo Urbano y Medio Ambiente.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 76 Decies.
+
+Los ingresos que se obtengan de la recaudación del derecho establecido en este Capítulo se destinarán al sostenimiento de las actividades y obligaciones siguientes:
+
+I.- Las previstas en el artículo 2 y 8 de la Ley General de Cambio Climático;
+
+II.- Las obligaciones a las que se refieren los artículos 1, 4, 5, fracciones III y IX, 54, 55, 56 y 57 de la Ley de Cambio Climático para el Estado de Tamaulipas;
+
+III.- La prevista en el artículo 47 de la Ley de Transición Energética;
+
+IV.- Obras, infraestructura y operación de los servicios de salud en el Estado;
+
+V.- Obras, infraestructura, preservación, restauración, manejo o remediación del equilibrio ecológico;
+
+VI.- Acciones estatales de inspección y vigilancia de fuentes fijas de contaminantes y de cumplimiento de las disposiciones ambientales aplicables; y
+
+VII.- Generación de proyectos para desarrollo sustentable y sostenible que protejan el ambiente.
+
 ### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
-
-### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 77.
 
@@ -2716,6 +2876,18 @@ IV.- Agropecuario, 2 por ciento el valor diario de la Unidad de Medida y Actuali
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diario de la Unidad de Medida y Actualización.
+
+### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+###### Artículo 79.
+
+Se causarán derechos por cooperación para ejecución de obra de interés público en términos de la Ley de Derechos de Cooperación para la Ejecución de Obras de Interés-Público.
+
+###### Artículo 80.
+
+Los propietarios o poseedores de predios que se encuentren dentro del área de beneficio de las obras públicas, causarán los derechos de cooperación que establece el Decreto citado en el artículo anterior.
 
 ### CAPITULO XI. DE LOS DERECHOS POR LOS SERVICIOS DE ADMINISTRACIÓN Y CONTROL EN MATERIA AGROPECUARIA
 
@@ -2778,32 +2950,6 @@ I.- Por expedir el registro de las empresas almacenadoras, industrializadoras, c
 II.- Por el acopio de los productos de las empresas almacenadoras industrializadoras, compradores y prestadores de servicios para especies vegetales, se pagará el 3 al millar, por cada tonelada del producto de que se trate.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2018)</small>
-
-###### Artículo 79.
-
-Se causarán derechos por cooperación para ejecución de obra de interés público en términos de la Ley de Derechos de Cooperación para la Ejecución de Obras de Interés-Público.
-
-###### Artículo 80.
-
-Los propietarios o poseedores de predios que se encuentren dentro del área de beneficio de las obras públicas, causarán los derechos de cooperación que establece el Decreto citado en el artículo anterior.
-
-### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS DE EXPEDICIÓN DE PERMISO E INSCRIPCIÓN EN EL REGISTRO ESTATAL DE LAS CASAS DE EMPEÑO
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
-
-Artículo 100 QUATER.- Los derechos por los servicios a que se refiere éste capítulo, se pagaran conforme a lo siguiente:
-
-I.- Por la expedición del permiso para la instalación y funcionamiento correspondiente y por la inscripción en el registro estatal de casas de empeño, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
-
-II.- Por la revalidación anual del permiso correspondiente, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
-
-III.- Por la modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original se pagará el importe equivalente a quince veces el valor diario de la Unidad de Medida y Actualización; y
-
-IV.- Por la reposición del permiso correspondiente, se pagará el importe equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización.
-
-Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 81.
 
@@ -3351,9 +3497,23 @@ Por cualquier otro servicio que se ajuste a la definición de derechos prevista 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS DE EXPEDICIÓN DE PERMISO E INSCRIPCIÓN EN EL REGISTRO ESTATAL DE LAS CASAS DE EMPEÑO
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+Artículo 100 QUATER.- Los derechos por los servicios a que se refiere éste capítulo, se pagaran conforme a lo siguiente:
+
+I.- Por la expedición del permiso para la instalación y funcionamiento correspondiente y por la inscripción en el registro estatal de casas de empeño, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+II.- Por la revalidación anual del permiso correspondiente, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+III.- Por la modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original se pagará el importe equivalente a quince veces el valor diario de la Unidad de Medida y Actualización; y
+
+IV.- Por la reposición del permiso correspondiente, se pagará el importe equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización.
+
+Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 99.
 
@@ -3382,6 +3542,10 @@ Por cualquier servicio que preste el Gobierno del Estado a través de las entida
 ## TITULO IV. DE LAS CONTRIBUCIONES ESPECIALES
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 101.
 
@@ -3746,3 +3910,15 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIV-121 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE DERECHOS POR LA EMISIÓN DE GASES A LA ATMÓSFERA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1º de enero de 2021, y será publicado en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de la dependencia competente, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, elaborará una política pública necesaria para apoyar a los contribuyentes del derecho a que se refiere el presente Decreto, a adquirir o desarrollar la tecnología necesaria para medir de manera más eficiente los contaminantes que emitan.
