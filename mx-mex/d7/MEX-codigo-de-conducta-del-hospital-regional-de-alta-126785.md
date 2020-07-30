@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-hospital-regional-de-alta-126785"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-01-22"
-last_updated: "2018-01-22"
+last_updated: "2020-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO, ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO, PUBLICADO EN LA G.G. DE 30 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO, DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JULIO DE 2020 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 22 de enero de 2018.
 
@@ -457,3 +459,15 @@ Arq. Martin Sergio Benavides Padilla
 Enlace de Infraestructura y Vocal del Comité de Ética de Prevención de Conflicto de Intereses
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 30 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL HOSPITAL REGIONAL DE ALTA ESPECIALIDAD DE ZUMPANGO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta del Hospital Regional de Alta Especialidad de Zumpango publicado en el Periódico Oficial “Gaceta del Gobierno” el 22 de enero de 2018.
