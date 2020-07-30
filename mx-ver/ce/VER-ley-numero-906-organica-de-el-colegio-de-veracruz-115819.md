@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-906-organica-de-el-colegio-de-veracruz-115819"
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-01"
-last_updated: "2016-08-01"
+last_updated: "2020-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 906 ORGÁNICA DEL COLEGIO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 1 de agosto de 2016.
 
@@ -45,17 +45,21 @@ LEY NÚMERO 906 ORGÁNICA DEL COLEGIO DE VERACRUZ
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, y tiene por objeto regular la organización y funcionamiento de la institución de educación superior denominada El Colegio de Veracruz, en adelante EL COLVER, como organismo descentralizado de la administración pública del Estado de Veracruz de Ignacio de la Llave, no sectorizado, con personalidad jurídica y patrimonio propios, dotado de autonomía técnica, presupuestal y de gestión, para el cumplimiento de sus fines y atribuciones.
+La presente Ley es de orden público e interés social, y tiene por objeto regular la organización y funcionamiento de la institución de educación superior denominada El Colegio de Veracruz, en adelante EL COLVER, como organismo descentralizado de la administración pública del Estado de Veracruz de Ignacio de la Llave, con personalidad jurídica y patrimonio propios, autonomía técnica, presupuestal y de gestión. Estará sectorizado a la Secretaría de Educación de Veracruz.
 
 #### SECCIÓN PRIMERA. De los fines de EL COLVER
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE JULIO DE 2020)</small>
+
 ###### Artículo 2.
 
-De conformidad con lo dispuesto por los artículos 3°, fracciones V y VII, de la Constitución Política de los Estados Unidos Mexicanos, y 10, inciso e), de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, son fines de EL COLVER, como institución de educación superior dotada de autonomía:
+Son fines de EL COLVER, como institución de educación superior:
 
-I. Gobernarse a sí mismo;
+I. (DEROGADA, G.O. 30 DE JULIO DE 2020).
 
 II. Educar, investigar y difundir la cultura;
 
@@ -107,7 +111,9 @@ IX. Impartir educación continua, talleres, cursos, diplomados y de actualizaci�
 
 X. Organizar foros, conferencias y encuentros académicos, presenciales o a distancia, que fortalezcan y complementen la función educativa en cumplimiento de su objeto, fines y atribuciones;
 
-XI. Convenir con otras instituciones de educación, asociaciones civiles, gobiernos y todo tipo de personas físicas o morales, públicas o privadas, nacionales o extranjeras, acciones de coordinación, colaboración o incorporación de carácter docente, o de investigación, innovación y difusión del conocimiento; así como para incorporarlas a los planes y programas de estudio de EL COLVER;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+XI. Celebrar acuerdos y convenios con otras instituciones de educación, asociaciones civiles, gobiernos y todo tipo de personas físicas o morales, públicas o privadas, nacionales o extranjeras, acciones de coordinación, colaboración de carácter docente, o de investigación, innovación y difusión del conocimiento; los cuales podrán ser incorporados a los planes y programas de estudio de EL COLVER;
 
 XII. Fomentar y difundir entre la comunidad de EL COLVER actividades artísticas, culturales y deportivas en todas sus manifestaciones;
 
@@ -201,17 +207,27 @@ Al efecto, EL COLVER contará con una unidad administrativa responsable de la pr
 
 La Junta de Gobierno, en adelante la Junta, es la máxima autoridad de EL COLVER y se integra por los miembros siguientes:
 
-I. El Presidente de la Junta, que será el Rector;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
 
-II. El Vicepresidente de la Junta, quien fungirá como Presidente en las ausencias de éste, será elegido por la Junta a propuesta de su Presidente, quien durará tres años en el cargo y podrá ser reelecto hasta por un segundo periodo inmediato de ejercicio;
+I. El Presidente de la Junta, que será el Gobernador;
 
-III. Un Vocal Ejecutivo, representante del sector público del Estado, con nivel de Director General o mayor jerarquía en la administración pública centralizada, designado por el superior jerárquico que corresponda o el servidor público facultado para ello;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+II. El Vicepresidente de la Junta, quien será el Secretario de Educación de Veracruz y fungirá como Presidente en las ausencias de éste;
+
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+III. Un Vocal Ejecutivo, representante del sector público de educación del Estado, con nivel de Director General o mayor jerarquía en la administración pública centralizada, designado por el superior jerárquico que corresponda o el servidor público facultado para ello;
 
 IV. Dos Vocales Académicos, designados por el Consejo Técnico, que durarán un año en el cargo y podrán ser reelectos hasta por un segundo periodo inmediato de ejercicio;
 
-V. El Contralor Interno de EL COLVER, quien tendrá derecho a voz, pero no a voto; y
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
 
-VI. El Secretario Técnico, que tendrá derecho a voz, pero no a voto.
+V. El Comisario como representante de la Contraloría General, quien tendrá voz pero no voto; y
+
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+VI. El Secretario Técnico será el Rector del COLVER, que tendrá derecho a voz, pero no a voto.
 
 El cargo de miembro de la Junta es honorífico e intransferible, y no se percibirá ingreso alguno por su ejercicio.
 
@@ -245,9 +261,11 @@ I. Ser ciudadano mexicano;
 
 II. Gozar de amplia solvencia moral como persona honorable y prudente;
 
-III. Haberse desempeñado en alguna actividad académica o directiva en instituciones de investigación y educación superior y contar con reconocido prestigio académico; y
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
 
-IV. No haber sido condenado por delito que amerite pena privativa de libertad, ni inhabilitado para desempeñar servicio público.
+III. No haber sido condenado por delito que amerite pena privativa de libertad, ni inhabilitado para desempeñar (sic) servicio público.
+
+IV. (DEROGADA, G.O. 30 DE JULIO DE 2020).
 
 ###### Artículo 18.
 
@@ -273,7 +291,9 @@ IX. Autorizar la enajenación de los bienes muebles e inmuebles de EL COLVER que
 
 X. Aprobar el programa anual de indicadores, centros de trabajo y líneas de investigación, así como sus modificaciones, según lo dispuesto en las leyes aplicables y de acuerdo con el presupuesto aprobado;
 
-XI. Aprobar la creación y ubicación de las unidades desconcentradas de EL COLVER, así como la estructura administrativa y plazas de trabajo que requieran, de acuerdo a la disponibilidad presupuestal;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+XI. Aprobar la creación y ubicación de las unidades desconcentradas de EL COLVER, así como la estructura administrativa y plazas de trabajo que requieran, de acuerdo a la disponibilidad presupuestal, con base en la normatividad y los lineamientos emitidos para tal efecto por la Secretaría de Finanzas y Planeación, así como la Contraloría General;
 
 XII. Aprobar las bases para cancelar adeudos a cargo de terceros y a favor de EL COLVER;
 
@@ -285,17 +305,23 @@ XV. Aprobar trimestral y anualmente, previo informe del Rector, los estados fina
 
 XVI. Aprobar, en su caso, el informe trimestral y anual de actividades, que presente el Rector;
 
-XVII. Autorizar la creación de nuevas plazas, a propuesta del Rector, que estén plenamente justificadas, para el cumplimiento de los fines y atribuciones de la institución, así como para la ampliación de la cobertura de los servicios educativos, de acuerdo con la normatividad aplicable;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+XVII. Autorizar el nombramiento y remoción de los servidores públicos de EL COLVER en las dos jerarquías inferiores al Rector, así como la creación de nuevas plazas, a propuesta del Rector, que estén plenamente justificadas, para el cumplimiento de los fines y atribuciones de la institución, con base en la normatividad y los lineamientos emitidos para tal efecto por la Secretaría de Finanzas y Planeación, así como la Contraloría General;
 
 XVIII. Aprobar el tabulador de sueldos, salarios y honorarios, así como los estímulos y recompensas económicas al personal administrativo, académico y de investigación, cuidando la disponibilidad presupuestal y de acuerdo a la normatividad aplicable;
 
 XIX. Aprobar el uso de los rendimientos y utilidades, para la contratación de personal eventual por honorarios, para organizar, ofertar y llevar a cabo programas académicos de extensión universitaria, pago de profesores de asignatura o personal técnico necesario;
 
-XX. Nombrar al Rector de EL COLVER de una terna emanada del personal académico, de investigación o directivo de EL COLVER, a propuesta de sus diversas academias o centros de estudio, conforme al procedimiento previsto en su normativa interior. No podrá ser Rector de EL COLVER, ningún miembro de la Junta que haya estado en el ejercicio de su referido encargo durante el año anterior al inicio legal del proceso de selección de Rector de EL COLVER;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+XX. Nombrar por mayoría de votos al Rector de EL COLVER, de una terna propuesta por el Presidente de la Junta;
 
 XXI. Formalizar el nombramiento de los demás miembros de la Junta designados en los términos de la presente Ley y normativa interior;
 
-XXII. Nombrar al titular del órgano interno de control de EL COLVER, a propuesta de una terna presentada por el Rector; y
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+XXII. Remover, por mayoría de votos al Rector de EL COLVER, a propuesta del Presidente de la Junta; y
 
 XXIII. Las demás que le otorguen la presente Ley y otras disposiciones aplicables.
 
@@ -311,15 +337,21 @@ Para ser Rector de EL COLVER se requiere:
 
 I. Ser ciudadano mexicano, en pleno goce de sus derechos;
 
-II. Poseer un grado universitario superior a la licenciatura;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
 
-III. Desempeñarse como académico, investigador o directivo de EL COLVER;
+II. Contar con estudios de posgrado con una antigüedad mínima de tres años;
 
-IV. Tener una antigüedad de por lo menos tres años en EL COLVER;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
 
-V. Ser propuesto por las Academias de EL COLVER; y
+III. Contar con experiencia académica y prestigio profesional; y
 
-VI. No haber sido inhabilitado para desempeñarse en empleo, cargo o comisión en el servicio público.
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+IV. No haber sido inhabilitado para desempeñarse en el empleo, cargo o comisión en el servicio público.
+
+V. (DEROGADA, G.O. 30 DE JULIO DE 2020).
+
+VI. (DEROGADA, G.O. 30 DE JULIO DE 2020).
 
 ###### Artículo 21.
 
@@ -337,7 +369,9 @@ V. Convenir y suscribir los instrumentos necesarios para la incorporación de in
 
 VI. Suscribir, según corresponda, los certificados, títulos, grados académicos, diplomas, constancias y demás documentación oficial que expida EL COLVER, en ejercicio de sus atribuciones;
 
-VII. Designar al Secretario Técnico de la Junta, así como al del Consejo Técnico;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+VII. Designar al Secretario del Consejo Técnico;
 
 VIII. Convocar a los miembros de la Junta para asistir a las sesiones de trabajo; así como, cuando la naturaleza del asunto lo requiera, al Consejo Técnico y a las comisiones auxiliares que se autoricen;
 
@@ -359,7 +393,9 @@ XVI. Administrar el patrimonio de EL COLVER, de conformidad con lo dispuesto en 
 
 XVII. Planear, administrar y evaluar los servicios que preste EL COLVER;
 
-XVIII. Designar y remover a los servidores públicos de confianza, personal administrativo, personal académico y personal de investigación, en los términos de la legislación y normatividad interior aplicables;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2020)</small>
+
+XVIII. Proponer a la Junta de Gobierno, el nombramiento y remoción de los servicios públicos de los dos niveles jerárquicos inmediatos inferiores establecidos en la estructura orgánica de EL COLVER y designar y remover a los servicios públicos de confianza, personal administrativo, personal académico y personal de investigación, en los términos de la legislación y normatividad interior aplicables;
 
 XIX. Promover y apoyar la capacitación del personal administrativo, docente y de investigación;
 
@@ -371,7 +407,7 @@ XXII. Otorgar y revocar los poderes que se requieran para el cumplimiento de sus
 
 XXIII. Ordenar la planeación y realización de las actividades de difusión, publicación, divulgación y extensión universitarias;
 
-XXIV. Proponer una terna a la Junta para elegir al Titular del Órgano Interno de Control; y
+XXIV. (DEROGADA, G.O. 30 DE JULIO DE 2020).
 
 XXV. Las demás que le otorguen esta Ley, la legislación del Estado y otras disposiciones aplicables.
 
@@ -471,31 +507,19 @@ Al efecto, todo aquel que desempeñe un empleo, cargo o comisión en EL COLVER, 
 
 #### SECCIÓN ÚNICA. Del Órgano Interno de Control
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2020)</small>
+
 ###### Artículo 32.
 
-EL COLVER contará con un órgano interno de control, cuyo titular será designado y removido por la Junta, a propuesta de su Presidente.
+EL COLVER contará con un Órgano Interior de Control dependiente de la Contraloría General del Estado. El nombramiento de su titular, la designación de su personal, y sus funciones y atribuciones deberán realizarse de acuerdo a la normatividad aplicable.
 
 ###### Artículo 33.
 
-El titular del órgano interno de control durará cuatro años en el cargo, podrá ser reelecto por una sola ocasión, estará adscrito administrativamente a la Rectoría y mantendrá la coordinación técnica necesaria con los órganos de fiscalización y rendición de cuentas previstos en la legislación aplicable.
+(DEROGADO, G.O. 30 DE JULIO DE 2020).
 
 ###### Artículo 34.
 
-Son atribuciones del órgano interno de control:
-
-I. Fiscalizar, con autonomía técnica y de gestión, todos los ingresos, egresos, manejo, custodia y aplicación de los recursos públicos e ingresos propios de EL COLVER, durante el periodo o ejercicio fiscal para el que fueron autorizados;
-
-II. Prevenir, corregir e investigar actos u omisiones constitutivos de responsabilidad administrativa; así como determinar las responsabilidades administrativas de los servidores públicos de EL COLVER, de conformidad con las obligaciones, procedimientos y sanciones que las leyes de la materia establezcan, por los actos u omisiones en que incurran;
-
-III. Ejercer facultades de control, vigilancia y fiscalización y, en su caso, formular las observaciones, recomendaciones y acciones que emita mediante resolución definitiva; así como presentar denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía General del Estado;
-
-IV. Solicitar y revisar, de manera casuística y concreta, información de periodos anteriores al del ejercicio fiscal presente, cuando el programa, proyecto o la erogación contenidas en el presupuesto en revisión abarque, para su ejecución y pago, varios ejercicios fiscales;
-
-V. Atender las solicitudes que le hagan los entes públicos competentes en materia de fiscalización superior y rendición de cuentas, de orden federal o estatal, y las provenientes de los órganos del Sistema Nacional o Estatal Anticorrupción, según corresponda;
-
-VI. Participar en las sesiones de la Junta y vigilar que sus resoluciones se apeguen a la normatividad aplicable; y
-
-VII. Las demás que le otorguen esta Ley, la legislación del Estado y otras disposiciones aplicables.
+(DEROGADO, G.O. 30 DE JULIO DE 2020).
 
 ## TRANSITORIOS
 
@@ -556,3 +580,29 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 583 QUE REFORMA Y DEROGA DIVERSAS DISPOSIIONES DE LA LEY ORGÁNICA DEL COLEGIO DE VERACRUZ".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se extingue la actual Junta de Gobierno de EL COVER y se constituirá, por única ocasión, la Junta de Instalación, siendo integrada por el Presidente que será el Gobernador del Estado o su suplente, el Vicepresidente que será el Secretario de Educación de Veracruz o su suplente, el Vocal Ejecutivo representante del sector público del Estado que será el Subsecretario de Educación Media Superior y Superior de la Secretaría de Educación de Veracruz o su suplente, el Comisario que será designado de acuerdo a la normatividad aplicable.
+
+La Junta de Instalación tendrá como fin resolver la designación del Rector de EL COLVER, así como tomarle la protesta de Ley.
+
+Las sesiones y las resoluciones tomadas por la Junta de Instalación serán válidas con la asistencia y mayoría del cincuenta por ciento más uno de sus miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
+
+Una vez designado al Rector de EL COLVER, se procederá conforme a esta Ley a convocar a quienes deban integrar la nueva Junta de Gobierno, hasta la formalización y toma de protesta de sus demás miembros, y una vez integrada, se declarará formalmente instalada y desahogarán su primera sesión ordinaria y el orden del día aprobado.
+
+En todo lo no previsto, la Junta de Instalación aplicará las reglas para el quorum, discusión y aprobación de sus resoluciones o acuerdo, señalados por la presente Ley, para lo cual podrá interpretar y acordar lo conducente, fundándose en los principios del derecho.
+
+La Junta de Instalación quedará disuelta a partir de la integración de la nueva Junta de Gobierno.
+
+TERCERO. Quienes hasta la entrada en vigor del presente Decreto hubieren sido parte de la Junta de Gobierno, regresarán si fuera el caso, a sus labores académicas o administrativas.
+
+CUARTO. En un plazo no mayor a 60 días de publicado el presidente Decreto, la Junta de Gobierno deberá adecuar el Reglamento interno de EL COLVER.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
