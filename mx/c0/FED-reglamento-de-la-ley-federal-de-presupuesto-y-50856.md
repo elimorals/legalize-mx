@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2020-01-27"
+last_updated: "2020-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2020.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -509,21 +509,13 @@ Para los cálculos de la distribución de los ingresos excedentes se podrá util
 
 La Secretaría publicará las reglas de operación de dichos fondos y sus modificaciones en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2020)</small>
 
-Artículo 12 A. La disminución de los ingresos a que se refiere el artículo 21, fracción II, de la Ley se considerará en términos anuales con relación a los estimados para la Ley de Ingresos.
+Artículo 12 A. La disminución de los ingresos a que se refiere el artículo 21, fracción II de la Ley se considerará en términos anuales con relación a los estimados para la Ley de Ingresos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
-
-Asimismo, la compensación de la recaudación de los ingresos a que se refiere el mismo artículo, con los recursos del Fondo de Estabilización de los Ingresos Presupuestarios y del Fondo de Estabilización de los Ingresos de las Entidades Federativas, respectivamente, deberá ser también en términos anuales. Para ello, dichos fondos deberán contar con el mecanismo que permita garantizar reintegros en caso de que al final del ejercicio se determine saldo a favor de los mismos.
+Asimismo, la compensación de la recaudación de los ingresos a que se refiere el artículo 21 de la Ley, con los recursos del Fondo de Estabilización de los Ingresos Presupuestarios y del Fondo de Estabilización de los Ingresos de las Entidades Federativas, respectivamente, deberá ser también en términos anuales. Para ello, dichos fondos deberán contar con el mecanismo que permita garantizar reintegros en caso de que al final del ejercicio se determine saldo a favor de los mismos.
 
 En el transcurso del ejercicio fiscal se podrán realizar las compensaciones señaladas con los recursos de los fondos a que se refiere el artículo 21 de la Ley cuando con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, se determine una disminución de los ingresos asociada a las causas señaladas en la Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 Las compensaciones con cargo al Fondo de Estabilización de los Ingresos Presupuestarios se realizarán con base en la información preliminar que se presente en los informes trimestrales y a lo siguiente:
 
@@ -531,39 +523,27 @@ I. La compensación correspondiente al primer trimestre será hasta por el equiv
 
 II. La compensación correspondiente al segundo trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando la compensación correspondiente al primer trimestre;
 
-III. La compensación correspondiente al tercer trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando las compensaciones correspondientes en las fracciones I y II anteriores, y
+III. La compensación correspondiente al tercer trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando las compensaciones correspondientes en las fracciones I y II de este artículo, y
 
-IV. La compensación correspondiente al cierre anual será hasta por el equivalente al 100 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando las compensaciones correspondientes a las fracciones I, II y III anteriores y observando lo dispuesto en los siguientes párrafos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+IV. La compensación correspondiente al cierre anual será hasta por el equivalente al 100 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando las compensaciones correspondientes en las fracciones I, II y III de este artículo y observando, en su caso, lo dispuesto en los siguientes párrafos.
 
 A más tardar el 26 de diciembre, la Secretaría, con base en las cifras preliminares al mes de noviembre y la estimación del cierre anual de las finanzas públicas, calculará los ingresos faltantes anuales, y podrán compensarse hasta el monto que se determine con los recursos disponibles en el Fondo de Estabilización de los Ingresos Presupuestarios y, en su caso, con recursos de la Reserva del Fondo, en términos de lo previsto en los artículos 21 y 97 de la Ley, a más tardar el último día hábil del año.
 
-> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2014)</small>
+Las compensaciones con cargo a los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas se realizarán mediante anticipos con base en la información preliminar que se presente en los informes trimestrales, a más tardar a los 10 días hábiles siguientes a la terminación de cada uno de los primeros tres trimestres y, para el cuarto trimestre, a más tardar el 15 de diciembre. La compensación será por el equivalente al 75 por ciento de la disminución de participaciones, conforme a dicha información. La compensación podrá ser hasta por el 100 por ciento de la disminución de ingresos correspondiente a cada trimestre, siempre y cuando las entidades federativas convengan con la Secretaría que el saldo deudor de aquellas que, en su caso, se genere conforme a la información definitiva del ejercicio fiscal en cuestión, se descuente de sus participaciones correspondientes al siguiente ejercicio fiscal.
 
-Las compensaciones con cargo a los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas se realizarán mediante anticipos con base en la información preliminar que se presente en los informes trimestrales, a más tardar a los 10 días hábiles siguientes a la terminación de cada uno de los primeros tres trimestres y, para el cuarto trimestre, a más tardar el 15 de diciembre. La compensación será por el equivalente al 75 por ciento de la disminución de participaciones, conforme a dicha información. La compensación podrá ser hasta por el 100 por ciento de la disminución de ingresos correspondiente a cada trimestre, siempre y cuando las entidades federativas convengan con la Secretaría que el saldo deudor de aquéllas que, en su caso se genere conforme a la información definitiva del ejercicio fiscal en cuestión, se descuente de sus participaciones correspondientes al siguiente ejercicio fiscal.
+La Secretaría podrá realizar compensaciones con cargo a los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, de manera mensual y hasta por el equivalente al 100 por ciento de la disminución de las participaciones, de acuerdo con los mecanismos que se determinen en las reglas de operación del citado Fondo, cuando con base en las proyecciones oficiales de las finanzas públicas, se prevea una disminución en la Recaudación Federal Participable con respecto a lo estimado en la Ley de Ingresos. Dichas compensaciones mensuales se realizarán de forma provisional, y tomando en consideración la última información preliminar con que se cuente, a más tardar a los 10 días hábiles siguientes a la terminación de cada mes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La Secretaría, en los términos que establezcan las reglas de operación del Fondo de Estabilización de los Ingresos de las Entidades Federativas, establecerá los mecanismos que permitan ajustar las diferencias que, en su caso, resulten entre las compensaciones mensuales a que se refiere el párrafo anterior y las cantidades correspondientes a la información preliminar que se presente en los informes trimestrales del ejercicio fiscal de que se trate.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+Lo dispuesto en los dos párrafos anteriores, sólo resultará aplicable durante el ejercicio fiscal en el que, con base en las proyecciones oficiales de las finanzas públicas, se prevea una disminución en la Recaudación Federal Participable con respecto a lo estimado en la Ley de Ingresos.
 
-Las compensaciones que se determinen con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas se podrán realizar, en primera instancia, con los recursos distintos de su reserva y, en segunda instancia, con los recursos de la reserva hasta por el monto establecido en las reglas de operación del fondo.
+Las compensaciones que se determinen con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas se podrán realizar, en primera instancia, con los recursos distintos de su reserva y, en segunda instancia, con los recursos de la reserva hasta por el monto establecido en las reglas de operación del Fondo mencionado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La compensación que se determine con los recursos del Fondo de Estabilización de los Ingresos Presupuestarios se podrá realizar, en primera instancia con los recursos de la reserva hasta por el monto establecido en las reglas de operación del Fondo mencionado y, en segunda instancia, con los recursos distintos de la reserva. Una vez realizada la compensación, y en caso de que se determinen remanentes en los recursos del Fondo, distintos de la reserva, tales remanentes se podrán utilizar para compensar la disminución de ingresos presupuestarios, respecto de los estimados en la Ley de Ingresos.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+La disminución de ingresos distintos de aquellos que se cubran con recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, se podrá compensar directamente mediante el mecanismo previsto en el artículo 21, fracción III de la Ley.
 
-La compensación que se determine con los recursos del Fondo de Estabilización de los Ingresos Presupuestarios se podrá realizar, en primera instancia con los recursos de la reserva hasta por el monto establecido en las reglas de operación del mismo y, en segunda instancia, con los recursos distintos de la reserva. Una vez realizada la compensación en caso de que se determinen remanentes en los recursos del Fondo distintos de la reserva, éstos se podrán utilizar para compensar la disminución de ingresos presupuestarios respecto a la Ley de Ingresos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
-
-La disminución de ingresos distintos a aquéllos que se cubren con recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, se podrá compensar directamente mediante el mecanismo previsto en el artículo 21, fracción III, de la Ley.
-
-Para los cálculos de las compensaciones de la disminución de los ingresos se podrá utilizar la información preliminar observada en la misma unidad de valor expresada en las cifras estimadas que se presenten en la Ley de Ingresos.
+Para los cálculos de las compensaciones por la disminución de los ingresos, se podrá utilizar la información preliminar observada en la misma unidad de valor expresada en las cifras estimadas que se presenten en la Ley de Ingresos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5042,3 +5022,11 @@ D.O.F. 27 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 12 A DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Hacienda y Crédito Público contará con un plazo de treinta días hábiles contados a partir del día siguiente al de la publicación de este Decreto en el Diario Oficial de la Federación, para modificar y publicar, en términos del artículo 19, fracción IV, tercer párrafo de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las reglas de operación del Fondo de Estabilización de los Ingresos de las Entidades Federativas de conformidad con lo establecido en el presente Decreto.
