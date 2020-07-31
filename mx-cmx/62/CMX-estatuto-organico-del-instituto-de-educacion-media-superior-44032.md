@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-educacion-media-superior-440
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-03-23"
-last_updated: "2020-01-23"
+last_updated: "2020-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2005-03-18"
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO DEL AVISO, PUBLICADO EN LA G.O. DE 23 DE ENERO DE 2020, SE MODIFICAN TODAS LAS REFERENCIAS QUE SE HAGAN AL DISTRITO FEDERAL, EN EL ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, POR LA DE CIUDAD DE MÉXICO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE JULIO DE 2020 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE ENERO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE JULIO DE 2020.]</small>
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de marzo de 2005.
 
@@ -42,7 +42,9 @@ ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDER
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -50,7 +52,9 @@ ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDER
 
 El Instituto de Educación Media Superior de la Ciudad de México es un organismo público descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, de conformidad con lo establecido en el Artículo Primero de su Decreto de Creación.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -74,7 +78,9 @@ La Comunidad del Instituto estará integrada por sus autoridades, académicos, e
 
 El presente ordenamiento tiene por objeto establecer la estructura y organización internas del Instituto de Educación Media Superior del Distrito Federal, determinar el ámbito de atribuciones de sus órganos de gobierno, consultivos y de las unidades administrativas que lo constituyen. Asimismo, este ordenamiento se propone fijar los criterios básicos que orientarán el desarrollo académico del Instituto y la forma como se impartirán los servicios educativos que preste en sus planteles y en los planteles que se incorporen a su Sistema.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -112,7 +118,9 @@ XII. Estatuto Orgánico: El presente Estatuto Orgánico del Instituto de Educaci
 
 El Gobierno y la Administración del Instituto estarán a cargo de un Consejo de Gobierno y de una Dirección General respectivamente, quienes para su desempeño tendrán las facultades y funciones que les confiere su Decreto de Creación y el presente Estatuto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -170,7 +178,9 @@ Las resoluciones del Consejo se tomarán por mayoría de votos, teniendo el Pres
 
 Para la celebración de las sesiones del Consejo de Gobierno se formulará un orden del día al que se adjuntará la documentación pertinente de los asuntos a tratar, información que deberá ser recibida por sus miembros y por los comisarios, con una anticipación no menor de cinco días hábiles en el caso de las ordinarias y de tres días en el caso de las extraordinarias.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -200,7 +210,9 @@ IX. Aprobar de acuerdo con las disposiciones aplicables las políticas, bases y 
 
 X. Aprobar las normas conforme a las cuales el Instituto podrá celebrar convenios de coordinación con los titulares de los órganos político-administrativos de las demarcaciones del Distrito Federal;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -342,7 +354,9 @@ Sus acciones tendrán por objeto apoyar la función directiva desde el punto de 
 
 El Órgano de Vigilancia estará integrado por un Comisario propietario y un suplente, designados por la Contraloría General del Distrito Federal, quienes apoyarán y evaluarán el desempeño general del Instituto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -352,9 +366,11 @@ El Comisario tendrá las atribuciones que le definan la Ley Orgánica y el Regla
 
 ### CAPÍTULO SÉPTIMO. DE LA ESTRUCTURA Y FUNCIONES DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
+
+(REFORMADO, G.O. 23 DE ENERO DE 2020) (F. DE E., G.O. 31 DE JULIO DE 2020)
 
 ###### Artículo 16.
 
@@ -362,7 +378,7 @@ Para la realización de las actividades que le competen, el Instituto contará c
 
 I. Director General
 
-II. Contraloría Interna
+II. Órgano Interno de Control
 
 III. Unidades Administrativas:
 
@@ -394,13 +410,15 @@ d) Consejo de Participación Social de los Planteles.
 
 El Director General podrá delegar sus facultades en los servidores públicos de las Unidades Administrativas del Instituto, con excepción de aquéllas que por disposición legal expresa o determinación del Consejo de Gobierno le correspondan exclusivamente.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
+
+(REFORMADO, G.O. 23 DE ENERO DE 2020) (F. DE E., G.O. 31 DE JULIO DE 2020)
 
 ###### Artículo 18.
 
-A la Contraloría Interna le corresponde:
+Al Órgano Interno de Control le corresponde:
 
 I. Elaborar y presentar el proyecto de programas anuales de Auditoría y de Control Interno atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
@@ -476,7 +494,9 @@ XXXVI. Las atribuciones a que se refiere el presente artículo y todas las que c
 
 XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General y las personas titulares de las direcciones generales de Coordinación de Órganos Internos de Control, las que correspondan a las Unidades Administrativas de Apoyo Técnico Operativo adscritas; así como las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -518,7 +538,9 @@ XVI. Coordinar los trabajos para establecer las necesidades de recursos humanos,
 
 XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -564,7 +586,9 @@ XVIII. Coordinar los programas de trabajo y elaboración del anteproyecto anual 
 
 XIX. Las demás que le asigne la Dirección General y le confiera la normatividad del Instituto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -646,9 +670,11 @@ XVI. Conservar en condiciones de funcionalidad los inmuebles e instalaciones en 
 
 XVII. Las demás que le asigne la Dirección General, confiera el Estatuto y la normatividad interna del Instituto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
+
+(REFORMADO, G.O. 23 DE ENERO DE 2020) (F. DE E., G.O. 31 DE JULIO DE 2020)
 
 ###### Artículo 23.
 
@@ -688,7 +714,7 @@ XVI. Coordinar los servicios de asesoría y estrategias que se proporcionen a la
 
 XVII. Coordinar los trámites para la publicación de la normatividad interna del Instituto en la Gaceta Oficial de la Ciudad de México a efecto de hacer públicos los actos cuya naturaleza indiquen la necesidad de ser publicados.
 
-XVIII. Coordinar la estrategia para dar respuesta y seguimiento a los requerimiento (sic) solicitados por la Comisión de Derechos Humanos del Distrito Federal de las quejas y/o Recomendaciones en donde el Instituto sea parte.
+XVIII. Coordinar la estrategia para dar respuesta y seguimiento a los requerimiento (sic) solicitados por la Comisión de Derechos Humanos de la Ciudad de México, de las quejas y/o Recomendaciones en donde el Instituto sea parte.
 
 XIX. Coordinar la integración de la información y documentación que se (sic) deba presentarse de manera clara, oportuna y veraz para llevar a cabo sesiones del Consejo de Gobierno del Instituto, con el propósito de allegar los elementos necesarios a los miembros del Consejo a efecto de hacer de su conocimiento y/o aprobación de los acuerdos.
 
@@ -696,7 +722,9 @@ XX. Coordinar el seguimiento de los acuerdos emanados en el pleno del Consejo de
 
 XXI. Las demás que le asigne la Dirección General y le confiera la normatividad del Instituto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -760,7 +788,9 @@ Los investigadores o académicos que formen parte del Consejo Académico serán 
 
 A propuesta del presidente se nombrará entre persona ajena a este Consejo, un Secretario Técnico del mismo, quien tendrá voz pero no voto y el cual se encargará de formular el orden del día de las sesiones del Consejo, mismo que se integrará con la documentación soporte de los asuntos a tratar, para ser remitidos a todos sus miembros tres días antes de la celebración de sus sesiones. Asimismo, tendrá a su cargo la elaboración y resguardo de las actas de asamblea que celebre el Órgano Colegiado.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -770,7 +800,9 @@ El Consejo General Interno del Instituto se integrará por:
 
 I. Evaluar a petición de la Dirección General, los planes de estudio, con el fin de que éstos, respondan a las exigencias educativas vigentes;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -786,7 +818,9 @@ VI. Vincular y promover el desarrollo teórico de Modelo Educativo del Sistema d
 
 VII. Las demás que le confiera este Estatuto y el Consejo de Gobierno.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -794,7 +828,9 @@ VII. Las demás que le confiera este Estatuto y el Consejo de Gobierno.
 
 El Consejo General Interno sesionará por lo menos una vez al año en las fechas que proponga el Director General del Instituto, siendo sus funciones principales las de:
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -874,7 +910,9 @@ La estructura interna de los planteles estará integrada por las unidades admini
 
 Cada plantel dispondrá del personal docente suficiente, para cubrir de acuerdo con el modelo educativo, todas y cada una de las asignaturas contempladas en los planes y programas de estudio establecidos por el Instituto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -1044,7 +1082,9 @@ G.O. 23 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DE LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL.]
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf]</small>
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf Y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf]</small>
 
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
@@ -1054,7 +1094,9 @@ SEGUNDO. El presente aviso entrará en vigor al día siguiente de su publicació
 
 AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EN FECHA 23 DE MARZO DE 2005.
 
-https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf
+> <small>(F. DE E., G.O. 31 DE JULIO DE 2020)</small>
+
+https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf
 
 En caso de no poder acceder a la liga arriba señalada, comunicarse con:
 
@@ -1071,3 +1113,41 @@ Correo electrónico: subdireccion_informatica@iems.edu.mx
 ## TRANSITORIO
 
 Único.- Publíquese el presente aviso en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE ENERO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA NOTA ACLARATORIA AL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EN FECHA 23 DE MARZO DE 2005; PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EN FECHA 23 DE ENERO DE 2020]
+
+Único.- Publíquese la presente Nota Aclaratoria en la Gaceta Oficial de la Ciudad de México.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL " LA NOTA ACLARATORIA AL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EN FECHA 23 DE MARZO DE 2005; PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EN FECHA 23 DE ENERO DE 2020".]</small>
+
+NOTA ACLARATORIA AL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EN FECHA 23 DE MARZO DE 2005; PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EN FECHA 23 DE ENERO DE 2020.
+
+En la página 10 el encabezado de la publicación dice:
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EN FECHA 23 DE MARZO DE 2005.
+
+Debe decir:
+
+AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS DÓNDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL EN FECHA 23 DE MARZO DE 2005 Y EL ENLACE DEL TEXTO ÍNTEGRO DEL MISMO ESTATUTO.
+
+En la página 10 el enlace electrónico de la publicación dice:
+
+https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e1/cb2/c80/5e1cb2c809779684016914.pdf
+
+Debe decir:
+
+https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/e86/5e7521e86e184988989024.pdf y https://www.iems.cdmx.gob.mx/storage/app/uploads/public/5e7/521/6f1/5e75216f14bb6546688509.pdf
+
+En caso de no poder acceder a las ligas arriba señaladas, favor de comunicarse con: Alfredo Vázquez Cabrera, Subdirector de Tecnologías de Información y Comunicaciones.
+
+Dirección: Av. División del Norte No. 906 Piso: 4 Col. Narvarte Poniente, C.P. 03020.
+
+Número telefónico: 5636-2500 Ext.450
+
+Correo electrónico: subdireccion_informatica@iems.edu.mx
+
+## TRANSITORIO
+
+Único.- Publíquese la presente Nota Aclaratoria en la Gaceta Oficial de la Ciudad de México.
