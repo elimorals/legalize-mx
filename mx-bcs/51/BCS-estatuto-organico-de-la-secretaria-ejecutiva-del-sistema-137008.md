@@ -4,7 +4,7 @@ identifier: "BCS-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-137008
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-20"
-last_updated: "2019-06-20"
+last_updated: "2020-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2020.
 
 Estatuto publicado en el Número 28 del Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2019.
 
@@ -33,7 +33,7 @@ ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCI�
 
 CONSIDERANDO
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y fundado, aprueba y emite el siguiente:
 
@@ -117,11 +117,17 @@ III. Secretario Técnico;
 
 IV. Unidades:
 
-a. Unidad de Servicios Tecnológicos y Plataforma Digital Estatal y Vinculación Interinstitucional.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2020)</small>
+
+a. Unidad de Servicios Tecnológicos y Plataforma Digital Estatal.
 
 b. Unidad de Administración.
 
 c. Unidad de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2020)</small>
+
+d. Unidad de Vinculación Interinstitucional y de Política Pública.
 
 VI (SIC). Órgano Interno de Control.
 
@@ -225,6 +231,8 @@ En caso de que el Órgano de Gobierno no pudiera sesionar en la fecha programada
 
 El Secretario Técnico es el servidor público que tiene a cargo las funciones de dirección de la Secretaría Ejecutiva.
 
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2020, SE ELIMINAN LAS FRACCIONES DE LA XXVIII A LA XXXV Y LA FRACCIÓN XXXVI PASA A SER XXVIII.]</small>
+
 ###### ARTÍCULO 19.
 
 Para el desahogo de los asuntos de su competencia, el Secretario Técnico contará con las siguientes facultades:
@@ -239,7 +247,9 @@ IV. Establecer los métodos que permitan el óptimo aprovechamiento de los biene
 
 V. Tomar las medidas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
 
-VI. Proponer al Órgano de Gobierno el nombramiento o la remoción de los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores, esto es, Titulares de Unidad, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano de Gobierno, mismas que estarán sujetas al tabulador de sueldos y salarios de la Administración Pública Estatal;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2020)</small>
+
+VI. Proponer al Órgano de Gobierno el nombramiento o la remoción de los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con la jerarquía administrativa inmediata inferior, esto es, Titulares de Unidad, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano de Gobierno, mismas que estarán sujetas al tabulador de sueldos y salarios de la Administración Pública Estatal;
 
 VII. Supervisar la información y elementos estadísticos recabados que reflejen el estado de las funciones de la Secretaría Ejecutiva para así poder mejorar la gestión de la misma;
 
@@ -263,7 +273,9 @@ XVI. Elaborar el proyecto de calendario de los trabajos del Comité Coordinador,
 
 XVII. Elaborar los anteproyectos de informes del Sistema Estatal Anticorrupción, someterlos a la revisión y observación de la Comisión Ejecutiva y remitirlos al Comité Coordinador para su aprobación;
 
-XVIII. Realizar estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos por acuerdo del Comité Coordinador;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2020)</small>
+
+XVIII. Coordinar la realización de estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos por acuerdo del Comité Coordinador;
 
 XIX. Administrar las plataformas digitales que establecerá el Comité Coordinador, en términos de la Ley del Sistema Anticorrupción del Estado y asegurar el acceso a las mismas de los miembros del Comité Coordinador y la Comisión Ejecutiva, conforme a las disposiciones legales aplicables, garantizando en todo momento la integridad de la información, así como el registro puntual de la finalidad del acceso y el uso de la información;
 
@@ -283,23 +295,7 @@ XXVI. Realizar el trámite de Inscripción al Registro Federal de Contribuyentes
 
 XXVII. Realizar la apertura de cuentas bancarias para la administración de los recursos asignados a la Secretaría Ejecutiva.
 
-XXVIII. Diseñar propuestas de políticas públicas encaminadas a la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, tomando en consideración las directrices que emita la Comisión Ejecutiva;
-
-XXIX. Elaborar los anteproyectos de metodologías, indicadores y políticas integrales que acuerde la Comisión Ejecutiva, para que previa aprobación de dicho órgano colegiado, sean sometidas a la consideración del Comité Coordinador Estatal;
-
-XXX. Diseñar las propuestas de las evaluaciones de las políticas integrales que se llevarán a cabo en el ámbito del Sistema Anticorrupción del Estado y difundir sus resultados;
-
-XXXI. Realizar estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos que le solicite el Secretario Técnico;
-
-XXXII. Proveer por conducto del Secretario Técnico, a la Comisión Ejecutiva de los insumos necesarios para el cumplimiento de sus funciones;
-
-XXXIII. Elaborar, impulsar y participar en la ejecución de programas conjuntos y coordinados de promoción, difusión y vinculación que impulse la Secretaría Ejecutiva como parte de la agenda del Sistema Estatal Anticorrupción;
-
-XXXIV. Diseñar programas conjuntos y coordinados de capacitación, actualización y profesionalización para los servidores públicos estatales y municipales, tendientes a cumplir con los objetivos del Sistema Estatal Anticorrupción, cuyo contenido sea previamente aprobado por el Comité Coordinador Estatal;
-
-XXXV. Elaborar los anteproyectos de informes que deba realizar la Secretaría Ejecutiva, previa aprobación del Secretario Técnico al Comité Coordinador Estatal, y
-
-XXXVI. Las demás que se señalen en las diversas leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
+XXVIII. Las demás que se señalen en las diversas leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
 
 ### CAPÍTULO IV. DE LA COMISIÓN EJECUTIVA
 
@@ -361,11 +357,17 @@ La Comisión Ejecutiva podrá invitar a sus sesiones a especialistas en los tema
 
 Por las labores que realicen como miembros de la Comisión Ejecutiva, los integrantes del Comité de Participación Ciudadana no recibirán contraprestaciones adicionales a las que se les otorguen por su participación como integrantes de dicho comité, de conformidad con lo establecido en el artículo 32, párrafo tercero, de la Ley del Sistema Anticorrupción del Estado.
 
-### CAPÍTULO V. DE LAS FACULTADES DE LA UNIDAD DE SERVICIOS TECNOLÓGICOS Y PLATAFORMA DIGITAL ESTATAL Y DE VINCULACIÓN INTERINSTITUCIONAL
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE JULIO DE 2020)</small>
+
+### CAPÍTULO V. DE LAS FACULTADES DE LA UNIDAD DE SERVICIOS TECNOLÓGICOS Y PLATAFORMA DIGITAL ESTATAL
+
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2020, SE ELIMINAN LAS FRACCIONES DE LA IX A LA XVI Y LA FRACCIÓN XVII PASA A SER IX.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 26.
 
-Para el desahogo de los asuntos de su competencia, el Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Estatal y de Vinculación Interinstitucional, contará con las siguientes facultades:
+Para el desahogo de los asuntos de su competencia, el Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Estatal, contará con las siguientes facultades:
 
 I. Proponer al Secretario Técnico la implementación de las tecnologías de la información y la comunicación acordes a las necesidades del Sistema Estatal Anticorrupción y de la Secretaría Ejecutiva, y compatibles con la Plataforma Digital Nacional, para el debido cumplimiento de sus atribuciones;
 
@@ -383,23 +385,7 @@ VII. Elaborar políticas, lineamientos y programas institucionales en materia de
 
 VIII. Difundir lineamientos, catálogos y normatividad informática de manera transversal entre todas las entidades del Sistema Estatal Anticorrupción y con los Municipios;
 
-IX. Diseñar, coordinar y supervisar la aplicación, el desarrollo y la difusión de políticas y estándares en materia de seguridad informática para el Sistema Estatal Anticorrupción,
-
-X. Apoyar y dar seguimiento a la celebración de convenios, foros, seminarios, cursos y concursos que se lleven a cabo en el marco de las atribuciones de la Secretaría Ejecutiva en coordinación con los integrantes del Sistema Estatal;
-
-XI. Proponer e impulsar mecanismos de colaboración y coordinación entre la Secretaría Ejecutiva y los miembros integrantes del Sistema Estatal en materia de prevención, detección y disuasión de hechos de corrupción y faltas administrativas;
-
-XII. Llevar a cabo el monitoreo legislativo con relación a las iniciativas, proyectos, puntos de acuerdo, y demás actos que incidan en el ámbito de competencia de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
-
-XIII. Realizar los trámites internos necesarios para la atención de las solicitudes de apoyos, servicios y demás requerimientos de colaboración que realicen los integrantes del Sistema Estatal y Los Municipios, y canalizar o coordinar su atención a las unidades administrativas que correspondan de la Secretaría Ejecutiva, así como dar seguimiento para su debida atención;
-
-XIV. Formular y proponer al Órgano de Gobierno por conducto del Secretario Técnico, el programa para dar cumplimiento a la política y estrategia de comunicación;
-
-XV. Requerir información a los Entes públicos con relación al cumplimiento de la política Estatal y las demás políticas integrales implementadas, así como recabar datos, observaciones y propuestas requeridas para su evaluación, revisión o modificación de conformidad con los indicadores generados para tales efectos;
-
-XVI. Determinar e instrumentar los mecanismos, bases y principios para la coordinación con las autoridades de fiscalización, control y de prevención y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan, y
-
-XVII. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
+IX. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
 
 ### CAPÍTULO VI. DE LAS FACULTADES DE LA UNIDAD DE ADMINISTRACIÓN
 
@@ -487,9 +473,65 @@ XVI. Dictaminar los proyectos de contratos y convenios específicos que le remit
 
 XVII. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
 
-### CAPÍTULO VIII. DE LAS FACULTADES COMUNES DE LAS UNIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE JULIO DE 2020)</small>
 
-ARTÍCULO 33 (SIC). Las Unidades que conforman la Secretaría Ejecutiva, para el desahogo de los asuntos de su competencia contarán con las siguientes facultades comunes:
+### CAPÍTULO VIII. DE LAS FACULTADES DE LA UNIDAD DE VINCULACIÓN INTERINSTITUCIONAL Y DE POLÍTICA PÚBLICA
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2020)</small>
+
+###### ARTÍCULO 29.
+
+Para el desahogo de los asuntos de su competencia, el Titular de la Unidad de Vinculación Interinstitucional y de Política Pública contará con las siguientes facultades:
+
+En materia de Vinculación Interinstitucional:
+
+I. Diseñar, coordinar y supervisar la aplicación, el desarrollo y la difusión de políticas y estándares en materia de seguridad informática para el Sistema Estatal Anticorrupción,
+
+II. Apoyar y dar seguimiento a la celebración de convenios, foros, seminarios, cursos y concursos que se lleven a cabo en el marco de las atribuciones de la Secretaría Ejecutiva en coordinación con los integrantes del Sistema Estatal,
+
+III. Proponer e impulsar mecanismos de colaboración y coordinación entre la Secretaría Ejecutiva y los miembros integrantes del Sistema Estatal en materia de prevención, detección y disuasión de hechos de corrupción y faltas administrativas;
+
+IV. Llevar a cabo el monitoreo legislativo con relación a las iniciativas, proyectos, puntos de acuerdo, y demás actos que incidan en el ámbito de competencia de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
+
+V. Realizar los trámites internos necesarios para la atención de las solicitudes de apoyos, servicios y demás requerimientos de colaboración que realicen los integrantes del Sistema Estatal y Los Municipios, y canalizar o coordinar su atención a las unidades administrativas que correspondan de la Secretaria Ejecutiva, así como dar seguimiento para su debida atención;
+
+VI. Formular y proponer al Órgano de Gobierno por conducto del Secretario Técnico, el programa para dar cumplimiento a la política y estrategia de comunicación;
+
+VII. Requerir información a los Entes públicos con relación al cumplimiento de la política Estatal y las demás políticas integrales implementadas, así como recabar datos, observaciones y propuestas requeridas para su evaluación, revisión o modificación de conformidad con los indicadores generados para tales efectos;
+
+VIII. Determinar e instrumentar los mecanismos, bases y principios para la coordinación con las autoridades de fiscalización, control y de prevención y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan, y
+
+IX. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
+
+En materia de Política Pública:
+
+I. Diseñar de (sic) propuestas de las evaluaciones de las políticas integrales que se llevarán a cabo en el ámbito del Sistema Anticorrupción del Estado y difundir sus resultados;
+
+II. Elaborar los anteproyectos de metodologías, indicadores y políticas integrales que acuerde la Comisión Ejecutiva, para que previa aprobación de dicho órgano colegiado, sean sometidas a la consideración del Comité Coordinador Estatal;
+
+III. Realizar estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos que solicite el Secretario Técnico por acuerdo del Comité Coordinador;
+
+IV. Proveer por conducto del Secretario Técnico, a la Comisión Ejecutiva de los insumos necesarios para el cumplimiento de sus funciones;
+
+V. Elaborar, impulsar y participar en la ejecución de programas conjuntos y coordinados de promoción, difusión y vinculación que impulse la Secretaría Ejecutiva como parte de la agenda del Sistema Estatal Anticorrupción;
+
+VI. Diseñar programas conjuntos y coordinados de capacitación, actualización y profesionalización para los servidores públicos estatales y municipales, tendientes a cumplir con los objetivos del Sistema Estatal Anticorrupción cuyo contenido sea previamente aprobado por el Comité Coordinador Estatal;
+
+VII. Elaborar los anteproyectos de informes que deba realizar la Secretaría Ejecutiva, previa aprobación del Secretario Técnico al Comité Coordinador Estatal, y
+
+VIII. Apoyar en la integración de los sistemas de información necesarios para que los resultados de las evaluaciones sean públicas (sic) y reflejen los avances o retrocesos en la Política Estatal Anticorrupción;
+
+IX. Las demás que le confiera el Secretario Técnico, así como las que se señalen en las diversas leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ADICIONADO], B.O. 31 DE JULIO DE 2020)</small>
+
+### CAPÍTULO IX. DE LAS FACULTADES COMUNES DE LAS UNIDADES
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 33], B.O. 31 DE JULIO DE 2020)
+
+###### ARTÍCULO 30.
+
+Las Unidades que conforman la Secretaría Ejecutiva, para el desahogo de los asuntos de su competencia contarán con las siguientes facultades comunes:
 
 I. Recibir y dar trámite a las solicitudes de acceso a la información y de protección de datos personales que les sean turnadas por razón de competencia por el Secretario Técnico.
 
@@ -525,39 +567,55 @@ XXI. Integrar el Comité de Transparencia y se regirán por lo dispuesto en la L
 
 XXII. Las demás que le confiera este Estatuto Orgánico, los ordenamientos vigentes, los manuales autorizados y los convenios suscritos, así como las que le delegue el Secretario Técnico o le otorgue el Órgano de Gobierno mediante acuerdo.
 
+## TÍTULO III
+
 ### CAPÍTULO ÚNICO. DEL ÓRGANO INTERNO DE CONTROL
 
-## TÍTULO III
+(REUBICADO [N. DE E. ANTES ARTÍCULO 34], B.O. 31 DE JULIO DE 2020)
+
+###### ARTÍCULO 31.
+
+La Secretaría Ejecutiva contará con un Órgano Interno de Control y tendrá las atribuciones que dispongan: la Constitución Política del Estado, la Ley General de Responsabilidades y las demás disposiciones jurídicas aplicables.
+
+El Órgano Interno de Control, se auxiliará para el ejercicio de sus facultades y el trámite y resolución de sus asuntos que les competan, con personal administrativo y técnico que les sean asignados conforme a la capacidad presupuestal de la Secretaría Ejecutiva.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2020)</small>
+
+El Órgano Interno de Control estará limitado en sus atribuciones al control y fiscalización de la Secretaría Ejecutiva, exclusivamente respecto a las materias establecidas en la Ley del Sistema Anticorrupción del Estado de Baja California Sur.
+
+## TÍTULO IV
 
 ### CAPÍTULO ÚNICO. DE LAS SUPLENCIAS
 
-ARTÍCULO 38 (SIC). En los casos de ausencia temporal, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
+(REUBICADO [N. DE E. ANTES ARTÍCULO 38], B.O. 31 DE JULIO DE 2020)
 
-I. La ausencia del Secretario Técnico será suplida por el Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Estatal y de Vinculación Interinstitucional, por el Director de Asuntos Jurídicos y por el Director de Administración, en ese orden.
+###### ARTÍCULO 32.
+
+En los casos de ausencia temporal, los servidores públicos adscritos a la Secretaría Ejecutiva serán suplidos en los términos siguientes:
+
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2020)</small>
+
+I. La ausencia del Secretario Técnico será suplida por el Director de Asuntos Jurídicos, por el Titular de la Unidad de Vinculación Interinstitucional y de Política Pública; por el Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Estatal y por el Director de Administración, en ese orden. Respecto a las sesiones de los Órganos Colegiados, en el tema en comento, el Secretario Técnico, deberá apegarse a lo establecido en el Lineamiento que para tal efecto se encuentre aprobado, en apego al presente Estatuto Orgánico.
 
 II. La ausencia de los Titulares de Unidad, y demás servidores públicos de rango inferior a éstos, será suplida por el servidor público de su adscripción que ocupe el cargo de nivel jerárquico inmediato inferior.
 
 Cuando existan dos o más servidores públicos con un nivel jerárquico inmediato inferior adscritos al ausente, la suplencia procederá de forma indistinta por cualquiera de ellos.
 
-## TÍTULO IV
+## TÍTULO V
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES FINALES
 
-###### ARTÍCULO 39.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 39], B.O. 31 DE JULIO DE 2020)
+
+###### ARTÍCULO 33.
 
 El presente Estatuto Orgánico podrá ser modificado por el Órgano de Gobierno a propuesta que realice el Secretario Técnico por conducto del presidente del citado órgano.
 
-###### ARTÍCULO 40.
-
-Los casos no previstos en el presente Estatuto serán resueltos por el Órgano de Gobierno, tomando en consideración el dictamen jurídico que al respecto realice el Secretario Técnico.
-
-## TÍTULO V
+(REUBICADO [N. DE E. ANTES ARTÍCULO 40], B.O. 31 DE JULIO DE 2020)
 
 ###### ARTÍCULO 34.
 
-La Secretaría Ejecutiva contará con un Órgano Interno de Control y tendrá las atribuciones que dispongan: la Constitución Política del Estado, la Ley General de Responsabilidades y las demás disposiciones jurídicas aplicables.
-
-El Órgano Interno de Control, se auxiliará para el ejercicio de sus facultades y el trámite y resolución de sus asuntos que les competan, con personal administrativo y técnico que les sean asignados conforme a la capacidad presupuestal de la Secretaría Ejecutiva.
+Los casos no previstos en el presente Estatuto serán resueltos por el Órgano de Gobierno, tomando en consideración el dictamen jurídico que al respecto realice el Secretario Técnico.
 
 ## TRANSITORIOS
 
@@ -565,23 +623,13 @@ PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de s
 
 SEGUNDO. La Secretaría Ejecutiva contará con una Unidad de Transparencia, sujeta a la capacidad presupuestal, la cual tendrá a su cargo las funciones señaladas en los artículos 45 de la Ley General de Transparencia y Acceso a la Información Pública, 31 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y demás disposiciones jurídicas que resulten aplicables.
 
-TERCERO. La Secretaría Ejecutiva contará con un Órgano Interno de Control sujeto a la capacidad presupuestal, por lo que las funciones las desempeñará el Órgano de Gobierno auxiliado por el personal de la Secretaría Ejecutiva.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2020)</small>
 
-CUARTO. El Órgano de Gobierno nombrará a los Titulares de las Unidades que determine el presente Estatuto Orgánico, así como al personal administrativo y técnico que le sea asignado conforme a la capacidad presupuestal de la Secretaría Ejecutiva, en los términos siguientes:
+TERCERO. La Secretaría Ejecutiva contará con un Titular de Órgano Interno de Control, sujeto a la capacidad presupuestal, quién se auxiliará en el desempeño de sus funciones con el personal de la Secretaría Ejecutiva.
 
-a. Emitirá convocatoria pública abierta para que los interesados que cumplan con los perfiles requeridos participen en el proceso de selección.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2020)</small>
 
-b. La convocatoria será publicada en las paginas oficiales de cada una de las dependencias que integran el Comité Coordinador.
-
-c. El resultado de la selección será publicado en las páginas oficiales de cada una de las dependencias que integran el Comité Coordinador.
-
-d. Los perfiles requeridos para ocupar la Titularidad de las Unidades son los siguientes:
-
-• Para la Unidad de Servicios Tecnológicos y Plataforma Digital Estatal y de Vinculación Interinstitucional el perfil es el de Ingeniero en Sistemas Computacionales o carrera a fin, que cuente con título y cedula profesional.
-
-• Para la Unidad de Administración el perfil es el de Contador Público o carrera a fin, que cuente con título y cedula profesional.
-
-• Para la Unidad de Asuntos Jurídicos el perfil es el de Licenciado en Derecho o carrera a fin, que cuente con título y cedula profesional.
+CUARTO. El Órgano de Gobierno nombrará o removerá a los Titulares de las Unidades que determine el presente Estatuto Orgánico; en cualquier caso, deberá considerar la capacidad presupuestal de la Secretaría Ejecutiva.
 
 EL PRESENTE ESTATUTO ÓRGANICO FUE APROBADO POR UNANIMIDAD DE VOTOS DE LOS MIEMBROS INTEGRANTES DEL ÓRGANO DE GOBIERNO DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, EN LA PRIMERA SESIÓN ORDINARIA, CELEBRADA EL DIA TRECE DEL MES DE MAYO DEL AÑO 2019, PARA SU DEBIDA APLICACIÓN Y OBERVANCIA (SIC), CIUDAD DE LA PAZ BAJA CALIFORNIA SUR. FIRMAN LOS INTEGRANTES DEL ÓRGANO DE GOBIERNO.
 
@@ -610,3 +658,9 @@ LIC. CARLOS ADRIÁN LEÓN ZEPEDA
 CONSEJERO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO.
 
 REPRESENTANTE DEL MAGISTRADO PRESIDENTE DEL H. TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE B.C.S.
+
+B.O. 31 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LAS MODIFICACIONES AL “ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+ÚNICO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
