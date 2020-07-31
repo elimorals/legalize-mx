@@ -4,7 +4,7 @@ identifier: "BCS-estatuto-organico-del-sistema-estatal-para-el-desarrollo-118370
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-10"
-last_updated: "2018-05-07"
+last_updated: "2020-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 31 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2020 (ABROGADO).
 
 Estatuto publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 10 de enero de 2017.
 
@@ -1150,3 +1152,13 @@ PRIMERO. Las Presentes reformas entrarán en vigor al día siguiente de su publi
 SEGUNDO. Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por el área administrativa a la que se les haya trasferido.
 
 TERCERO. Las dependencias encargadas de la administración de los recursos humanos materiales y financieros, deberán tramitar los cambios presupuestales y administrativos necesarios para el cumplimiento de las presentes reformas.
+
+B.O. 31 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Sistema Estatal para el Desarrollo Integral de la Familia en el Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, N° 1, de fecha día 10 (diez) de enero del 2017 (dos mil diecisiete).
+
+TERCERO. Se abroga el Acuerdo mediante el cual se reforman y adicionan diversas disposiciones del Estatuto Orgánico del Sistema Estatal para el Desarrollo Integral de la Familia en el Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, extraordinario N° 18, de fecha 07 (siete) de mayo del 2018 (dos mil dieciocho).
