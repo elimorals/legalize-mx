@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2020-03-18"
+last_updated: "2020-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2020.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -544,9 +544,9 @@ F) Subsecretaría de Ciencia, Tecnología e Innovación, a la que quedan adscrit
 
 G) Coordinación General de Inclusión Educativa e Innovación.
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2020)</small>
 
-Asimismo, se le adscribe el Órgano Desconcentrado denominado Instituto de Estudios Superiores de la Ciudad de México "Rosario Castellanos".
+Asimismo, se le adscriben los Órganos Desconcentrados denominados Instituto de Estudios Superiores de la Ciudad de México "Rosario Castellanos" y Universidad de la Salud.
 
 VIII. A la Secretaría de Gestión Integral de Riesgos y Protección Civil:
 
@@ -13160,6 +13160,224 @@ XVIII. Diseñar, proponer, actualizar y difundir programas y proyectos de educac
 
 XIX. Las demás atribuciones que sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que le sean conferidas expresamente por la Dirección General.
 
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+
+Artículo 302 DECIES.- La Universidad de la Salud tendrá una vocación social, cuyo objetivo será cubrir las necesidades educativas de nivel superior en materia de salud, mediante planes y programas de estudio de calidad, innovadores y con pertinencia sociocultural, enfocados a la protección de la salud individual, familiar y comunitaria.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+
+Artículo 302 UNDECIES.- Se adscriben a la Universidad de la Salud para el despacho de los asuntos que competan, las siguientes unidades administrativas:
+
+1. Dirección General;
+
+2. Secretaría General;
+
+3. Dirección Ejecutiva de la Carrera de Medicina;
+
+4. Dirección Ejecutiva de la Carrera de Enfermería;
+
+5. Dirección Ejecutiva de Investigación y Posgrado; y
+
+6. Dirección Ejecutiva de Innovación Educativa;
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+
+Artículo 302 DUODECIES.- Corresponde a la Dirección General:
+
+I. Establecer los mecanismos e instrumentos necesarios para prestar los servicios de nivel superior en diversas modalidades educativas, de conformidad con los principios de libertad de cátedra;
+
+II. Dirigir la elaboración del diseño y expedición de normas pedagógicas, planes, programas de estudio y métodos didácticos para la impartición de la educación superior en materia de salud, así como difundir y verificar el cumplimiento de las mismas;
+
+III. Ejecutar las funciones sustantivas de docencia, investigación, difusión, vinculación, así como establecer programas y proyectos de educación continua en actualización y formación académica en materia de salud;
+
+IV. Propiciar e implementar políticas y programas que promuevan la pluriculturalidad, las manifestaciones culturales y el deporte, buscando el desarrollo integral de la comunidad educativa de la Universidad de la Salud;
+
+V. Establecer, y en su caso, coadyuvar en la operación del Sistema de Becas para los estudiantes de licenciatura y posgrado;
+
+VI. Promover, coordinar e impulsar las investigaciones y actividades académicas en materia de salud pública, con otras instituciones de estudios superiores nacionales o extranjeras, así como con instituciones del sector salud a nivel local, estatal y federal, con énfasis en los problemas de salud pública, orientadas a la implementación de medidas preventivas y correctivas de atención y de educación para una cultura de la salud;
+
+VII. Establecer y coordinar un sistema de revisión de la calidad de los servicios educativos que incluya la evaluación del aprendizaje y las demás funciones sustantivas del personal docente, los planes y programas de estudio, las labores académico-administrativas, la infraestructura, y actualización de programas académicos, a través de la optimización de la organización y el desarrollo de las unidades académicas, en términos de las disposiciones jurídicas aplicables;
+
+VIII. Establecer programas y proyectos para la formación de redes de cooperación, movilidad e intercambio académico con otras instituciones de educación superior, públicas o privadas, nacionales o extranjeras para apoyar y facilitar el proceso de enseñanza-aprendizaje y la investigación de conformidad con los planes y programas de estudio;
+
+IX. Promover, publicar y difundir por cualquier medio, las investigaciones de docentes, investigadores y estudiantes o la que genere la Universidad de la Salud;
+
+X. Expedir certificados, títulos, diplomas y grados académicos a quienes hayan concluido sus estudios conforme a los planes y programas de estudio, de conformidad con la normativa aplicable;
+
+XI. Establecer programas y proyectos para la cooperación con los pueblos y barrios originarios y comunidades indígenas, para apoyar y facilitar el proceso de enseñanza-aprendizaje intercultural, de conformidad con los planes y programas de estudio;
+
+XII. Suscribir acuerdos, convenios y demás instrumentos jurídicos con el sector público, social o privado que contribuyan a realizar las actividades sustantivas y a la creación y equipamiento de unidades académicas, previa aprobación de la Junta Ejecutiva
+
+XIII. Suscribir acuerdos, convenios y demás instrumentos jurídicos con el sector salud federal o de las entidades federativas, a efecto de incorporar a los estudiantes de la Universidad de la Salud en los campos clínicos o cualquier otro análogo;
+
+XIV. Proponer y establecer mecanismos administrativos con instituciones del sector salud del interior del país, para que a la conclusión de sus estudios se lleve a cabo la incorporación de los egresados de la Universidad de la Salud en la prestación de sus servicios profesionales; y
+
+XV. Las demás que se establezcan en las disposiciones legales y administrativas, así como las que determine expresamente su Junta Ejecutiva.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+
+Artículo 302 TERDECIES.- Corresponde a la Secretaría General:
+
+I. Planear, coordinar y evaluar las acciones necesarias para asegurar la correcta convivencia de todos los sectores que componen la comunidad de la Universidad de la Salud;
+
+II. Definir a la Dirección General las normas, políticas, programas, objetivos y metas para la integración, coordinación, operación, administración, control y evaluación de la administración escolar en congruencia con el modelo educativo a distancia y mixta, así como supervisar su cumplimiento;
+
+III. Planear, diseñar, dirigir, controlar y evaluar los procedimientos administrativos de inscripción, reinscripción, cambios de programa académico o de unidad, movilidad académica, incorporación a programas académicos adicionales, así como altas y bajas de los estudiantes de la Universidad de la Salud;
+
+IV. Coordinar con las distintas áreas de la Universidad de la Salud, la integración de información periódica que permita la atención de problemáticas específicas encomendadas por la persona Titular de la Dirección General;
+
+V. Promover y preservar la identidad institucional, así como los valores plasmados en el Decreto de creación de la Universidad de la Salud;
+
+VI. Proponer a la persona titular de la Dirección General, mecanismos de participación de la comunidad en los asuntos necesarios para la solución de conflictos o el cumplimiento de los objetivos de la Universidad de la Salud;
+
+VII. Coordinar la atención integral del alumnado dentro de la Universidad de la Salud;
+
+VIII. Coordinar las estrategias para garantizar la prestación óptima de los servicios educativos y de investigación en las carreras y posgrados que ofrece la Universidad de la Salud;
+
+IX. Coordinar la oferta educativa a través de los responsables de las áreas técnicas de la Universidad de la Salud para facilitar el cumplimiento de las estrategias definidas por la prestación de los servicios educativos;
+
+X. Presentar a la Dirección General el programa de presupuesto y el cuadro anual de necesidades de recursos de la Secretaría General conforme a la información proporcionada por las diversas áreas, en los términos de la normativa aplicable;
+
+XI. Estimular la participación de los estudiantes en los proyectos de investigación como una actividad paralela a su formación profesional;
+
+XII. Fomentar y establecer núcleos de calidad educativa en la Universidad de la Salud, a través de grupos pilotos y laboratorios de docencia, en colaboración con los servicios asistenciales de las instituciones de salud;
+
+XIII. Proponer a la Dirección General las convocatorias para la elección de representantes de la comunidad estudiantil y académica ante la Junta Ejecutiva o de cualquier órgano colegiado que la Dirección General determine;
+
+XIV. Coordinar los apoyos y asesorías a la comunidad estudiantil para la organización de actividades y eventos culturales, deportivos y de cultura física que contribuyan en la formación integral de los estudiantes, en el marco del modelo educativo y de conformidad con los recursos disponibles para tal efecto;
+
+XV. Establecer políticas de los programas de becas para estudiantes de licenciatura y posgrado como la incorporación de becarios, estableciendo directrices para las necesidades anuales de la Universidad de la Salud y la adecuada utilización de becas para impulsar la licenciatura; así como establecer disposiciones, lineamientos, procedimientos y normas de los procesos de control escolar, becas, apoyos, actividades académicas extracurriculares, cultura, deporte, servicio social, internado médico y titulación, en congruencia con el modelo educativo;
+
+XVI. Proponer, en coordinación con las áreas de la Universidad de la Salud, a la Dirección General, para su sometimiento a la Junta Ejecutiva, el calendario académico y vigilar su cumplimiento; y
+
+XVII. Las demás que se establezcan en las disposiciones legales y administrativas y las que determine expresamente la Dirección General.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+
+Artículo 302 QUATERDECIES.- Corresponde a la Dirección Ejecutiva de la Carrera de Medicina:
+
+I. Coordinar la actualización de los planes y programas de medicina con el propósito de que éstos sean vigentes y congruentes con los perfiles profesionales apegados a los enfoques y principios del Decreto de creación de la Universidad de la Salud y que permitan dar respuesta a los problemas de salud;
+
+II. Promover en los educandos los conocimientos, habilidades, actitudes y destrezas que les permitan evaluar, diagnosticar, tratar y aplicar sus conocimientos en el área de la salud de una manera integral (biológica, psicológica, social y cultural);
+
+III. Garantizar el cumplimiento de los procesos de enseñanza que propicien el aprendizaje de los estudiantes de manera autónoma, crítica, propositiva y participativa;
+
+IV. Impulsar la mejora continua de los procesos educativos que se realizan en la Universidad de la Salud apegados a los enfoques y principios que establece su Decreto de creación;
+
+V. Promover la formación, capacitación y perfeccionamiento del personal docente, de acuerdo con las necesidades de la Universidad de la Salud apegados a los enfoques y principios del Decreto de creación;
+
+VI. Desarrollar permanentemente acciones de difusión y servicio de programas de educación continua, actualización, vinculación, formación y superación académica;
+
+VII. Identificar las necesidades de materiales y personal académico para el desarrollo de los planes y programas de la Carrera de Medicina;
+
+VIII. Dirigir las diferentes áreas académicas de la Carrera de Medicina, mediante la coordinación del desarrollo de actividades docentes;
+
+IX. Dirigir el mecanismo de valoración del desempeño académico del alumnado, con la finalidad de determinar la acreditación respecto a los criterios establecidos en los planes y programas de la Carrera de Medicina; y
+
+X. Las demás que se establezcan en las disposiciones legales y administrativas y las que le sean encomendadas expresamente por la Dirección General.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+
+Artículo 302 QUINDECIES.- Corresponde a la Dirección Ejecutiva de la Carrera de Enfermería:
+
+I. Supervisar las actividades académicas y administrativas encaminadas a la formación de personal de enfermería de la más alta calidad académica y científica, apegados a los enfoques y principios del Decreto de creación de la Universidad de la Salud para que respondan a las necesidades de salud del país, con una actitud humanista - comunitaria, comprometidos con principios y valores éticos;
+
+II. Coordinar la actualización de los planes y programas de enfermería con el propósito de que éstos sean vigentes y congruentes con los perfiles profesionales apegados a los enfoques y principios del Decreto de creación de la Universidad de la Salud y que permitan dar respuesta a los problemas de salud;
+
+III. Promover en los educandos los conocimientos, habilidades, actitudes y destrezas que les permitan evaluar, diagnosticar, tratar y aplicar sus conocimientos en el área de la salud de una manera integral (biológica, psicológica, social y cultural);
+
+IV. Garantizar el cumplimiento de los procesos de enseñanza que propicie el aprendizaje de los estudiantes de manera autónoma, crítica, propositiva y participativa;
+
+V. Coordinar las instancias académicas que forman parte de la Dirección Ejecutiva de la Carrera de Enfermería;
+
+VI. Impulsar y promover los procesos educativos que se realizan en la Universidad de la Salud apegados a los enfoques y principios del Decreto de creación;
+
+VII. Promover la formación, capacitación y perfeccionamiento del personal docente, de acuerdo con las necesidades de la Universidad de la Salud apegados a los enfoques y principios de su Decreto de creación;
+
+VIII. Identificar las necesidades de materiales y personal académico para el desarrollo de los planes y programas de la Carrera de Enfermería;
+
+IX. Orientar a la comunidad de la Carrera de Enfermería sobre las políticas y programas establecidos por la Dirección General;
+
+X. Coordinar la actualización de los planes y programas de estudios con el propósito de que éstos sean vigentes y congruentes con los perfiles profesionales apegados a los enfoques y principios del Decreto de creación de la Universidad de la Salud y que permitan dar respuesta a los problemas de salud, para efecto de presentarlos a la persona titular de la Dirección General a fin de proponerlos a la Junta Ejecutiva para su autorización;
+
+XI Dirigir el mecanismo de valoración del desempeño académico del alumnado, con la finalidad de determinar la acreditación respecto a los criterios establecidos en los planes y programas de la Carrera de Enfermería; y
+
+XII. Las demás que se establezcan en las disposiciones legales y administrativas y las que le sean encomendadas expresamente por la Dirección General.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+
+Artículo 302 SEXDECIES.- Corresponde a la Dirección Ejecutiva de Investigación y Posgrado:
+
+I. Planear, dirigir y evaluar permanentemente las estrategias y acciones que permitan orientar al posgrado y a la investigación con estándares de calidad, en el marco del modelo educativo institucional;
+
+III. Proponer a la Dirección General los proyectos de normas, políticas, programas, lineamientos, estrategias, objetivos, metas e instrumentos para la integración, operación, gestión y evaluación de la investigación y el posgrado que ofrece la Universidad de la Salud, conforme al modelo académico y el de integración social en el marco del modelo educativo institucional;
+
+IV. Integrar, proponer e implantar el modelo y sistema académico del posgrado, los programas, los métodos, las líneas de investigación, conforme a los modelos educativos y de integración social;
+
+V. Regular, coordinar y evaluar los contenidos de los programas y proyectos académicos de posgrado para que tiendan a la excelencia a nivel nacional e internacional, de acuerdo con indicadores de calidad y verificar su correspondencia con las necesidades educativas, productivas, sociales y culturales del país;
+
+VI. Proponer el receso o cancelación de programas de posgrado que pierdan pertinencia;
+
+VII. Proponer, instrumentar y actualizar los programas de su competencia, aprovechando las metodologías y tecnologías de la información para potenciar el apoyo de los sistemas y procesos de operación, gestión y evaluación de la enseñanza del posgrado y la investigación;
+
+VIII. Proponer e implantar las metodologías y sistemas innovadores para los estudios de posgrado, la investigación y el desarrollo científico;
+
+IX.- Participar en el diseño, ampliación y diversificación de la oferta educativa del posgrado, en modalidades a distancia y mixta;
+
+X. Proponer la actualización y mejora continua de las líneas, sistemas y procesos de investigación en apego al método científico;
+
+XI. Participar en la formulación, dirección y evaluación de los programas de asignación de becas, estímulos y otros medios de apoyo, dirigidos al alumnado y al personal académico de posgrado e investigación, así como actualizar los criterios para su promoción;
+
+XII. Proponer y coordinar los programas, sistemas y mecanismos para la formación de investigadores, así como los estímulos para fomentar su desarrollo e integración al quehacer institucional, en los términos de la normatividad aplicable;
+
+XIII. Promover la actualización, mantenimiento y mejora de la infraestructura técnica y física al servicio de la investigación y el posgrado en las unidades académicas y proponer e implantar las políticas y lineamientos para su uso y conservación;
+
+XIV. Fomentar y mantener las relaciones con los sectores productivos, de servicios y educativos del país y proponer a las instancias correspondientes convenios para realizar investigaciones científicas de vanguardia orientadas a mejorar la productividad social y contribuir en la solución de problemas nacionales;
+
+XV. Promover y evaluar, con la participación de las instancias que correspondan, la oferta de servicios científicos que las unidades académicas puedan proporcionar a los sectores público, social y privado, en congruencia con la política institucional de integración social;
+
+XVI. Participar en la evaluación y coordinación de la asistencia técnica que en materia de investigación demanden a la Universidad de la Salud, los sectores socioeconómicos nacionales y extranjeros, conforme a las normas y disposiciones aplicables;
+
+XVII. Proponer a la Secretaría General para sometimiento de la Junta Ejecutiva, el calendario, así como el plan de trabajo del área y vigilar su cumplimiento; y
+
+XVIII. Las demás que se establezcan en las disposiciones legales y administrativas y las que le sean conferidas expresamente por el Director General.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2020)</small>
+
+Artículo 302 SEPTENDECIES.- Corresponde a la Dirección Ejecutiva de Innovación Educativa:
+
+I. Proponer a la Dirección General y, en su caso, a las instancias competentes, los proyectos de normas, políticas, programas, lineamientos, estrategias, objetivos, metas e instrumentos para la planeación, desarrollo, diversificación, operación y evaluación de la oferta educativa en modalidades a distancia y mixta, en concordancia con los modelos educativos y de integración social, así como para el diseño, selección, uso y gestión de recursos y medios tecnológicos académicos aplicados a entornos educativos, en el ámbito de su competencia;
+
+II. Coordinar y aprobar con la participación de las áreas competentes, la metodología, los modelos y procesos para diseñar, implantar, operar y evaluar las modalidades educativas electrónicas; a distancia y mixta, de acuerdo con el modelo educativo y los lineamientos de tecnologías de la información y comunicación;
+
+III. Coordinar con las áreas competentes el diseño y elaboración de materiales educativos y la aplicación de recursos tecnológicos en el Centro de Simulación y para la operación de la oferta educativa en modalidades presencial, a distancia y mixta;
+
+IV. Diseñar la metodología, los modelos y procesos para implantar, operar y evaluar las modalidades educativas presencial, a distancia y mixta, de acuerdo con el modelo educativo y asegurar la correspondencia de los programas, diseños, materiales y medios, con los requerimientos de la oferta educativa de la Universidad de la Salud y realizar acciones de diagnóstico con sus resultados;
+
+V. Diseñar, proponer, actualizar y coordinar el desarrollo de proyectos en materia de tecnologías de la información y comunicación para impulsar el diseño y utilización de nuevas tecnologías y apoyar en la inserción de los estudiantes a la sociedad del conocimiento;
+
+VI. Administrar y establecer, en coordinación con órganos competentes de la Administración Pública de la Ciudad de México, los criterios de planeación, operación e implementación del uso de las tecnologías de la información y comunicación, así como el óptimo aprovechamiento de la infraestructura de video, teleconferencia, televisión, internet y otras tecnologías de la información y comunicación, dispuestas para los servicios de las unidades académicas;
+
+VII. Participar en el diseño, actualización, adecuación, ampliación y diversificación de la oferta educativa de la Universidad de la Salud en modalidades a distancia y mixta, así como apoyar su desarrollo didáctico;
+
+VIII. Diseñar procesos de selección, inscripción, promoción, seguimiento a la trayectoria académica, movilidad y egreso de los estudiantes en modalidades a distancia y mixta, así como los lineamientos de tecnologías de la información y comunicación;
+
+IX. Coadyuvar en el ámbito de su competencia, en el diseño de los procesos de selección, inscripción, promoción, seguimiento a la trayectoria escolar, movilidad y egreso de los estudiantes y docentes de los programas académicos en modalidades a distancia y mixta;
+
+X. Coordinar los programas de equipamiento, actualización y mantenimiento de la infraestructura en informática, Laboratorios de Ciencias Básicas, Biblioteca y para el Centro de Simulación Clínica;
+
+XI. Identificar, probar, participar, adaptar e impulsar el desarrollo de soluciones de tecnología educativa acordes a las necesidades de los programas en modalidades presencial, a distancia y mixta, así como para apoyar el trabajo académico colaborativo;
+
+XII. Promover el establecimiento de redes académicas virtuales intra e interinstitucionales en los ámbitos nacional e internacional, así como operar y participar en aquellas que apoyen el desarrollo de la educación en modalidades a distancia y mixta;
+
+XIII. Coordinar, desarrollar y aplicar las tecnologías de la información y comunicación, para mejorar los aprendizajes en condiciones simuladas, así como la investigación, extensión y gestión de los servicios institucionales;
+
+XIV. Participar en el establecimiento de lineamientos y criterios para el diseño, elaboración y uso de tecnologías de apoyo para los procesos académicos de la Universidad de la Salud;
+
+XV. Coadyuvar en diseñar, instrumentar y aplicar los programas de formación, actualización y desarrollo permanente del personal de todos los niveles jerárquicos en la Universidad de la Salud; y
+
+XVI. Las demás atribuciones que las disposiciones legales y administrativas le otorguen y las que le sean conferidas expresamente por la Dirección General.
+
 ###### Artículo 303.
 
 El Sistema de Aguas de la Ciudad de México es el Órgano Desconcentrado que tiene por objeto ser el operador en materia de recursos hidráulicos y de prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y reuso de aguas residuales y cuenta con las siguientes atribuciones:
@@ -14317,3 +14535,11 @@ G.O. 18 DE MARZO DE 2020.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 31 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de agosto de 2020
