@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2020-07-03"
+last_updated: "2020-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2020.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -6015,6 +6015,8 @@ ARTICULO 1012
 
 Ningún copropietario puede, sin consentimiento del otro, abrir ventana ni hueco alguno en pared común.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE AGOSTO DE 2020)</small>
+
 ### CAPITULO I. Del usufructo en general
 
 ARTICULO 1013
@@ -6053,7 +6055,7 @@ ARTICULO 1021
 
 Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituído sobre bienes de esta clase.
 
-## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
+## TITULO QUINTO. DEL USUFRUCTO, DE LA SUPERFICIE, DEL USO Y DE LA HABITACIÓN
 
 ### CAPITULO II. De los derechos del usufructuario
 
@@ -6325,6 +6327,228 @@ ARTICULO 1081
 
 Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario, no obligan al propietario, y éste entrará en posesión de la cosa sin que contra él tengan derecho los que contrataron con el usufructuario, para pedirle indemnización por la disolución de sus contratos ni por las estipulaciones de éstos, que sólo pueden hacer valer contra el usufructuario y sus herederos, con la salvedad que establece el artículo 1024.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 3 DE AGOSTO DE 2020)</small>
+
+### CAPITULO IV BIS. Del derecho de superficie
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 BIS
+
+El derecho real de superficie consiste en la facultad temporal de usar, construir y mantener un edificio o plantación en suelo ajeno, o el adquirir una construcción o plantación ya existente separada del terreno donde se encuentren que en su caso podría ampliarse, gozando y disfrutando de ello. En ambos casos con autorización expresa del propietario del terreno y formalidades establecidas en el presente Código.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 TER
+
+El derecho real de superficie puede constituirse a título oneroso o gratuito, por acto entre vivos o por testamento, sobre la superficie del terreno o por debajo de ésta, sobre construcciones o siembras ya existentes o por realizar, sobre la totalidad del predio o una fracción del mismo; aprovechando y respetando en todo caso las disposiciones y limitaciones, respectivamente, de orden público en materia de desarrollo urbano.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 QUATER
+
+En el derecho de superficie el terreno pertenece permanentemente al propietario o superficiante, y lo sembrado o edificado temporalmente al superficiario en los términos del presente Código.
+
+En caso de que no se realice construcción por parte del superficiario sobre el terreno en que se constituye el derecho de superficie, éste no tendrá derecho de propiedad alguno sino únicamente derecho sobre el superficiante consistente en que le mantenga el derecho en su favor bajo las condiciones en que se estableció, en tanto no se extinga su derecho.
+
+El superficiario podrá hacer uso de su derecho en términos de su respectivo título durante todo el tiempo que tenga vigencia, sin que resulte obstáculo el no sembrar o construir durante la vigencia del mismo. El tiempo que transcurra sin que el superficiario siembre o construya conforme a la autorización que reciba en el correspondiente título, correrá en perjuicio y disminución del plazo de su derecho con las excepciones que sólo para el caso de la cosecha de lo sembrado al tiempo de extinguirse el derecho de superficie prevé este Código.
+
+Al extinguirse el derecho de superficie, lo construido en el terreno del superficiante durante su vigencia, pasará al dominio de éste o sus causahabientes a efecto de consolidar de forma exclusiva el derecho de propiedad nuevamente en su favor. En el caso de siembra el superficiante deberá esperar a que el superficiario realice la cosecha del último de sus cultivos en términos del presente Código.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 QUINQUIES
+
+El derecho de superficie como derecho real de carácter temporal deberá constar en escritura donde el superficiante y superficiario consignen los términos de su acuerdo de conformidad con el presente Código, debiendo inscribirse el respectivo testimonio en el Registro Púbico de la Propiedad a efecto de que surta efectos frente a terceros.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 SEXIES
+
+Puede el superficiario otorgar hipoteca u otros derechos reales sobre los bienes motivo de su derecho de superficie con los que éstos sean compatibles; pero los derechos reales o personales en su caso, que el superficiario constituya en favor de terceros respecto de la siembra, plantaciones o construcciones, concluyen al extinguirse éste sin causar perjuicio alguno al superficiante o terreno de éste.
+
+Lo anterior no extinguirá de forma alguna las obligaciones de crédito que a título personal hubiere adquirido el superficiario, las cuales seguirán a éste en los términos que las leyes dispongan.
+
+El superficiario podrá transmitir o constituir derechos respecto de terceros sobre los bienes motivo del derecho de superficie en tanto éste se encuentre vigente, respetando en los actos a celebrar las condiciones o limitantes que el título original o el superficiante hubieren establecido, y de conformidad con el presente Código, todo lo que no podrá variarse, declarándose nula en consecuencia cualquier alteración a ello y debiendo pagar aquél al superficiante los daños así como los perjuicios que tal alteración le llegare a ocasionar.
+
+El presente artículo deberá insertarse en toda escritura que constituya un derecho de superficie y su contenido deberá tenerse como condición resolutoria.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 SEPTIES
+
+El derecho real de superficie no se extingue por la destrucción de lo sembrado o construido, salvo pacto en contrario. En caso de destrucción, puede el superficiario construir nuevamente, respetando los plazos y condiciones de su derecho.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 OCTIES
+
+En caso de que el superficiante o el superficiario deseen vender el terreno o las construcciones y siembras, respectivamente, ambos gozarán del derecho del tanto, siendo aplicable lo dispuesto en los artículos 985 y 986 respecto del tiempo así como los diversos 2237 y 2238 en su parte correspondiente en cuanto a su ejercicio y consecuencias.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 NONIES
+
+El derecho de superficie debe constituirse a plazo fijo o sujeto a condición resolutoria, lo que deberá establecerse en el respectivo título constitutivo. En todo caso no podrá exceder de cincuenta años.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 DECIES
+
+En el caso de venta a que se refiere el artículo 1081 Octies, el nuevo superficiante o superficiario deberá hacer saber por notificación vía judicial o notarial a la otra parte su respectivo derecho en un término de ocho días a partir de que se realice la enajenación.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 UNDECIES
+
+El derecho de superficie se extingue:
+
+I. Por mutuo consentimiento entre las partes;
+
+II. Por vencimiento del plazo por el cual se constituyó;
+
+III. Por cumplirse la condición resolutoria impuesta en el título constitutivo;
+
+IV. Por la reunión del superficiante y superficiario en una misma persona, mas si la reunión se verifica en solo una parte del inmueble o predio, en lo demás subsistirá el derecho de superficie;
+
+V. Por renuncia expresa del superficiario, salvo lo dispuesto respecto de las renuncias hechas en fraude de los acreedores; y
+
+VI. Por la pérdida total de la cosa que era objeto del derecho de superficie, subsistiendo el derecho constituido sobre lo que de la cosa haya quedado en caso de no haberse perdido ésta de manera completa.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 DUODECIES
+
+Declarada la nulidad del ato jurídico que dio origen al derecho de superficie, si existe construcción se aplicarán las reglas del derecho de accesión previstas en este Código. Lo mismo sucederá si se varían por el superficiario las características de la construcción o siembra acordadas en el título constitutivo del derecho de superficie.
+
+En caso de tratarse de siembra, el superficiante deberá permitir que concluya el ciclo correspondiente de tal manera que permita el levantamiento de la siembra, quedando obligado el superficiario al pago de una renta a juicio de peritos por el tiempo adicional al título que ello se prolongue.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 TERDECIES
+
+La prescripción no puede comenzar, ni corre entre el superficiante y el superficiario.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 QUATERDECIES
+
+El terreno motivo del derecho de superficie sólo podrá ser destinado por el superficiario a actividades que las disposiciones de desarrollo urbano permitan.
+
+Los trámites, permisos o licencias y demás obligaciones que la siembra, uso o construcción del terreno causen conforme al objeto del terreno y el derecho constituido, corresponderán de forma exclusiva al superficiario, sin que causen perjuicio al superficiante o al terreno.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 QUINDECIES
+
+La constitución del derecho de superficie impide al propietario del terreno la celebración de diverso contrato de arrendamiento u otro análogo con terceros respecto de la superficie sobre la que aquél pesa, que impida al superficiario el uso, goce o disfrute total de su derecho; sin importar si existe construcción o siembra.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 SEXDECIES
+
+El superficiante tendrá las siguientes obligaciones y derechos:
+
+I. Entregar el terreno motivo del derecho;
+
+II. Responder de la evicción respecto del terreno y las construcciones o siembras existentes al constituirse el derecho de superficie de haberse constituido éste de manera onerosa aunque nada se diga en el título constitutivo del derecho de superficie, salvo renuncia expresa; y sólo si expresamente se obliga de haberse constituido de manera gratuita;
+
+III. No impedir en forma alguna el ejercicio del derecho del superficiario en los términos del presente Código y el título donde aquél se constituyó;
+
+IV. Recibir la contra prestación pactada en el título en donde se constituyó el derecho;
+
+V. Consolidar en su favor la propiedad al extinguirse el derecho de superficie, en los términos del presente Código;
+
+VI. Gozar o tolerar las servidumbres voluntarias establecidas en el título donde se constituya el derecho de superficie o en su caso las legales que impone el presente Código, necesarias para el uso, goce y disfrute pacífico y simultáneo de los derechos de propiedad y superficie que corresponden al terreno así como a las construcciones o siembras a éste adheridas, según las circunstancias de éstos; y
+
+VII. Los demás que resulten del presente Código, el título donde se consigne el derecho de superficie así como de la naturaleza del mismo.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 SEPTENDECIES
+
+El superficiario tendrá las siguientes obligaciones y derechos:
+
+I. Mantener en su favor por parte del superficiante el derecho de superficie sobre el terreno en que se constituyó en tanto no se extinga el mismo y se realizan las construcciones o siembras acordadas;
+
+II. Construir y sembrar en el terreno motivo del derecho de superficie en los términos del título donde éste se hubiera consignado y del presente Código, así como usar y disfrutar tales bienes;
+
+III. Ser preferido para un nuevo derecho de superficie al extinguirse el constituido en su favor, si ha sido buen superficiario, en caso de volver a otorgarse el terreno o sus construcciones y siembras en tal derecho;
+
+IV. Transmitir su derecho real por el tiempo y con las limitantes establecidas en el título donde se hubiera consignado y el presente Código;
+
+V. Gozar o tolerar las servidumbres voluntarias establecidas en el título donde se constituya el derecho de superficie o en su caso las legales que impone el presente Código, necesarias para el uso, goce y disfrute pacífico y simultáneo de los derechos de propiedad y superficie que corresponden al terreno así como a las construcciones o siembras a éste adheridas, según las circunstancias de éstos;
+
+VI. Pagar al superficiante la contraprestación acordada en el título donde se constituyó el derecho;
+
+VII. Respetar las condiciones pactadas en el título donde se constituya el derecho de superficie, bajo pena de condición resolutoria en los términos del presente Código;
+
+VIII. Observar las disposiciones de desarrollo urbano y demás de orden público al ejercer su derecho de superficie;
+
+IX. Realizar los gastos de mantenimiento y conservación del terreno donde se hubiere constituido su derecho de superficie así como de lo construido o sembrado conforme a su naturaleza;
+
+X. Conservar las características y calidades del terreno y construcciones en él existentes al constituirse el derecho de superficie así como las que se incorporen conforme a lo establecido en el título donde se acordó;
+
+XI. Enterar a su cargo las contribuciones que correspondan con motivo de la adquisición, posterior uso y disfrute del terreno y construcciones o siembra sobre lo que se hubiera otorgado el derecho de superficie, durante toda la vigencia del mismo;
+
+XII. Realizar los gastos de escrituración y publicación del acto constitutivo del derecho de superficie en el Registro Público de la Propiedad, en caso de haberlo sido de forma onerosa, salvo pacto en contrario;
+
+XIII. Devolver al superficiante el terreno así como construcciones o siembra existentes al extinguirse el derecho de superficie, en los términos del título en que se constituyó y del presente Código;
+
+XIV. No ejecutar acciones que impidan en forma alguna la devolución del terreno así como construcciones o siembra al superficiante sobre el que se constituyó el derecho de superficie, al extinguirse o declararse nulo su derecho;
+
+XV. Otorgar garantía suficiente al superficiante respecto del cumplimiento de sus obligaciones si así se obligó en el título constitutivo del derecho de superficie, o en los términos del presente Código; y
+
+XVI. Los demás que resulten del presente Código, el título donde se consigne el derecho de superficie así como de la naturaleza del mismo.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 OCTODECIES
+
+La traslación de dominio, nuda propiedad o usufructo del terreno o del derecho de superficie a favor de persona distinta de los constituyentes no extingue tal derecho, sino únicamente por las causas expuestas en el presente capítulo.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 NOVODECIES
+
+El superficiante tendrá derecho a solicitar al superficiario le otorgue garantía suficiente respecto del cumplimiento de sus obligaciones, la cual estará vigente hasta dos años después de haberse extinguido el derecho de superficie.
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2020)</small>
+
+ARTICULO 1081 VIDECIES
+
+El Notario, de forma adicional a los requisitos que las leyes de la materia y este Código dispongan para la formulación de escrituras y su publicación por el Registro Público de la Propiedad, respectivamente, será responsable de cuidar que el instrumento donde se consigne tal acto jurídico contenga de forma clara y concisa:
+
+I. El acuerdo de voluntades para la constitución del derecho;
+
+II. La duración de éste o la condición resolutoria del mismo;
+
+III. La expresión del precio y modalidad de su pago si el acto fuere oneroso o que se trata de un acto gratuito;
+
+IV. Las características de la edificación o siembra a llevar a cabo en el terreno sobre el que se constituye el derecho de superficie;
+
+V. Los acuerdos específicos que las partes tomen respecto de la constitución, ejecución y extinción del derecho a constituirse;
+
+VI. El inventario de construcciones o siembras que posea el terreno sobre el que se constituya el derecho de superficie al iniciar su vigencia, en su caso;
+
+VII. El uso, destino o fin que se dará al derecho de superficie constituido, conforme a las disposiciones de este Código;
+
+VIII. La obligación del superficiante de respetar las disposiciones en materia de desarrollo urbano en el uso, goce y disfrute de su derecho;
+
+IX. Las obligaciones y derechos específicos que de forma adicional a lo establecido en el presente Código establezcan el superficiante y superficiario;
+
+X. La renuncia de derechos que las partes acuerden, siempre que fuere lícita;
+
+XI. Las posibles servidumbres que en su caso las partes lleguen a constituir entre las siembras o construcciones resultantes del goce y disfrute del derecho de superficie y el restante del terreno, en su caso;
+
+XII. Las posibles garantías que el superficiante otorgue a favor del superficiario o sus causahabientes respecto del cumplimiento de sus obligaciones en términos del título constitutivo del derecho de superficie y el presente Código;
+
+XIII. La consolidación de la propiedad al extinguirse el derecho de superficie, respecto de lo construido o sembrado, en términos del presente Código;
+
+XIV. Las prevenciones generales aplicables al momento que se extinga o declare nulo el derecho de superficie, incluyendo las posibles indemnizaciones que las partes acuerden para tales casos de haberse constituido el derecho de superficie a título oneroso; y
+
+XIV. Las demás disposiciones que resulten del presente Código y leyes aplicables.
+
 ### CAPITULO V. Del uso y de la habitación
 
 ARTICULO 1082
@@ -6411,6 +6635,8 @@ ARTICULO 1101
 
 No adquieren por accesión los predios sirvientes, los acueductos, cables, postes, alambres, oleoductos u objetos que, en uso de la servidumbre y para hacerla efectiva, se hayan colocado en el predio sirviente por el titular dominante de la servidumbre, salvo que extinguida ésta, el propietario de aquellos objetos los abandone en el sirviente, y, notificado de que debe retirarlos en el término razonable que el juez le fije, dejare de hacerlo.
 
+## TITULO SEXTO. DE LAS SERVIDUMBRES
+
 ### CAPITULO II. De las servidumbres legales
 
 ARTICULO 1102
@@ -6422,8 +6648,6 @@ Es aplicable a las servidumbres legales lo dispuesto en los artículos 1152 al 1
 ARTICULO 1103
 
 Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales, y en su defecto, por las disposiciones de este Título.
-
-## TITULO SEXTO. DE LAS SERVIDUMBRES
 
 ### CAPITULO III. De la servidumbre legal de desagüe
 
@@ -6799,6 +7023,8 @@ ARTICULO 1183
 
 Las disposiciones de este Título, relativas al tiempo y demás requisitos necesarios para la prescripción, sólo dejarán de observarse en los casos en que la ley prevenga expresamente otra cosa.
 
+## TITULO SEPTIMO. DE LA PRESCRIPCION
+
 ### CAPITULO II. De la prescripción positiva
 
 ARTICULO 1184
@@ -6846,8 +7072,6 @@ El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exi
 ARTICULO 1190
 
 La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público y servirá de título de propiedad al poseedor.
-
-## TITULO SEPTIMO. DE LA PRESCRIPCION
 
 ### CAPITULO III. De la prescripción negativa
 
@@ -7043,48 +7267,6 @@ ARTICULO 1237
 
 La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
 
-### CAPITULO II. De la capacidad para testar
-
-ARTICULO 1238
-
-Pueden testar todos aquellos a quienes la ley no prohibe expresamente el ejercicio de ese derecho.
-
-ARTICULO 1239
-
-Están incapacitados para testar:
-
-I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
-
-II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
-
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
-
-ARTICULO 1240
-
-Es válido el testamento hecho por una persona con discapacidad intelectual en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones de los artículos siguientes.
-
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
-
-ARTICULO 1241
-
-Siempre que una persona con discapacidad intelectual pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al Juez que corresponda. El Juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El Juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estimen convenientes, a fin de cerciorarse de su capacidad para testar.
-
-ARTICULO 1242
-
-Se hará constar en acta formal el resultado del reconocimiento.
-
-ARTICULO 1243
-
-Si éste fuere favorable, se procederá desde luego a la formación del testamento ante Notario Público, con todas las solemnidades que se requieren para los testamentos públicos abiertos.
-
-ARTICULO 1244
-
-Firmarán el acta, además del Notario y de los testigos, el Juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, y sin este requisito y su constancia, será nulo el testamento.
-
-ARTICULO 1245
-
-Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
-
 # LIBRO TERCERO. DE LAS SUCESIONES
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
@@ -7146,6 +7328,48 @@ ARTICULO 1227
 El derecho concedido en el artículo 1225 cesa si la enajenación se hace a un coheredero.
 
 ## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
+
+### CAPITULO II. De la capacidad para testar
+
+ARTICULO 1238
+
+Pueden testar todos aquellos a quienes la ley no prohibe expresamente el ejercicio de ese derecho.
+
+ARTICULO 1239
+
+Están incapacitados para testar:
+
+I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
+
+II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
+
+ARTICULO 1240
+
+Es válido el testamento hecho por una persona con discapacidad intelectual en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones de los artículos siguientes.
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
+
+ARTICULO 1241
+
+Siempre que una persona con discapacidad intelectual pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al Juez que corresponda. El Juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El Juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estimen convenientes, a fin de cerciorarse de su capacidad para testar.
+
+ARTICULO 1242
+
+Se hará constar en acta formal el resultado del reconocimiento.
+
+ARTICULO 1243
+
+Si éste fuere favorable, se procederá desde luego a la formación del testamento ante Notario Público, con todas las solemnidades que se requieren para los testamentos públicos abiertos.
+
+ARTICULO 1244
+
+Firmarán el acta, además del Notario y de los testigos, el Juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, y sin este requisito y su constancia, será nulo el testamento.
+
+ARTICULO 1245
+
+Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
 
 ### CAPITULO III. De la capacidad para heredar
 
@@ -8075,6 +8299,8 @@ ARTICULO 1443
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
 
+## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
+
 ### CAPITULO II. Del testamento público abierto
 
 > <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1997)</small>
@@ -8134,8 +8360,6 @@ ARTICULO 1452
 > <small>(DEROGADO, G.O. 1 DE FEBRERO DE 1997)</small>
 
 ARTICULO 1453
-
-## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
 ### CAPITULO III. Testamento notarial cerrado
 
@@ -8549,6 +8773,8 @@ ARTICULO 1539
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, Título Sexto, Libro Primero.
 
+## TITULO CUARTO. DE LA SUCESION LEGITIMA
+
 ### CAPITULO II. De la sucesión de los descendientes
 
 ARTICULO 1540
@@ -8588,8 +8814,6 @@ ARTICULO 1547
 Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
 > <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
-
-## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
 ### CAPITULO III. De la sucesión de los ascendientes
 
@@ -8767,6 +8991,8 @@ ARTICULO 1582
 
 Las disposiciones de este Capítulo son aplicables a la concubina que se encuentre en el caso del artículo 1568, y que, a la muerte del concubinario, quedare encinta.
 
+## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
+
 ### CAPITULO II. De la apertura y transmisión de la herencia
 
 ARTICULO 1583
@@ -8782,8 +9008,6 @@ Habiendo albacea nombrado, él deberá promover, la reclamación a que se refier
 ARTICULO 1585
 
 El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
-
-## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
 ### CAPITULO III. De la aceptación y de la repudiación de la herencia
 
@@ -9481,6 +9705,14 @@ ARTICULO 1730
 
 La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+DE LAS OBLIGACIONES EN GENERAL
+
+## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
+
 ### CAPITULO II. De la capacidad para contratar
 
 ARTICULO 1731
@@ -9490,14 +9722,6 @@ Son hábiles para contratar todas las personas no exceptuadas por la ley.
 ARTICULO 1732
 
 La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
-
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-DE LAS OBLIGACIONES EN GENERAL
-
-## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
 
 ### CAPITULO III. De la Representación en los contratos
 
@@ -10539,6 +10763,8 @@ ARTICULO 1885
 
 Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
+## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
+
 ### CAPITULO II. De las obligaciones a plazo
 
 ARTICULO 1886
@@ -10580,8 +10806,6 @@ III.- Cuando por actos propios hubiesen disminuido aquéllas garantías después
 ARTICULO 1893
 
 Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
-
-## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
 
 ### CAPITULO III. De las obligaciones conjuntivas y alternativas
 
@@ -11023,6 +11247,8 @@ ARTICULO 1983
 
 Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
+## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
+
 ### CAPITULO II. De la cesión de las deudas
 
 ARTICULO 1984
@@ -11052,8 +11278,6 @@ El deudor sustituto puede oponer al acreedor las excepciones que se originen de 
 ARTICULO 1990
 
 Cuando se declara nula la situación de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
-
-## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
 
 ### CAPITULO III. De la subrogación
 
@@ -11231,6 +11455,14 @@ ARTICULO 2029
 
 Si el acreedor sufre la evicción de la cosa que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
 
+## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
+
+SUBTITULO PRIMERO
+
+EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
+
+A).- Cumplimiento de las obligaciones
+
 ### CAPITULO II. Del ofrecimiento del pago y de la consignación
 
 ARTICULO 2030
@@ -11262,14 +11494,6 @@ ARTICULO 2036
 Si el ofrecimiento y la consignación se han hecho legalmente, todos los gastos serán de cuenta del acreedor.
 
 B).- Incumplimiento de las obligaciones
-
-## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
-
-SUBTITULO PRIMERO
-
-EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
-
-A).- Cumplimiento de las obligaciones
 
 ### CAPITULO I. Consecuencias del incumplimiento de las obligaciones
 
@@ -11749,6 +11973,8 @@ ARTICULO 2138
 
 La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 
+## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
+
 ### CAPITULO II. De la confusión de derechos
 
 ARTICULO 2139
@@ -11762,8 +11988,6 @@ La confusión que se verifica en la persona del acreedor o deudor solidario, só
 ARTICULO 2141
 
 Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
-
-## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
 
 ### CAPITULO III. De la remisión de la deuda
 
@@ -11917,28 +12141,6 @@ ARTICULO 2201
 
 Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, cabarets, pulquerías o centros de vicio, no dan derecho para exigir su precio.
 
-### CAPITULO II. De la materia de la compraventa
-
-ARTICULO 2202
-
-Ninguno puede vender sino lo que es de su propiedad.
-
-ARTICULO 2203
-
-La venta de cosa ajena es nula, y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe; debiendo tenerse en cuenta lo que se dispone en el título relativo al Registro Público para los adquirentes de buena fe.
-
-ARTICULO 2204
-
-El contrato quedará revalidado, si antes de que tenga lugar la evicción, adquiere el vendedor, por cualquier título legítimo, la propiedad de la cosa vendida.
-
-ARTICULO 2205
-
-La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando además, sujeto a las penas respectivas.
-
-ARTICULO 2206
-
-Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
-
 ## TITULO SEXTO. DE LA INEXISTENCIA Y DE LA NULIDAD
 
 ARTICULO 2157
@@ -12044,6 +12246,28 @@ ARTICULO 2180
 Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. DE LA COMPRA-VENTA
+
+### CAPITULO II. De la materia de la compraventa
+
+ARTICULO 2202
+
+Ninguno puede vender sino lo que es de su propiedad.
+
+ARTICULO 2203
+
+La venta de cosa ajena es nula, y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe; debiendo tenerse en cuenta lo que se dispone en el título relativo al Registro Público para los adquirentes de buena fe.
+
+ARTICULO 2204
+
+El contrato quedará revalidado, si antes de que tenga lugar la evicción, adquiere el vendedor, por cualquier título legítimo, la propiedad de la cosa vendida.
+
+ARTICULO 2205
+
+La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando además, sujeto a las penas respectivas.
+
+ARTICULO 2206
+
+Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
 
 ### CAPITULO III. De los que pueden vender y comprar
 
@@ -12431,16 +12655,6 @@ ARTICULO 2289
 
 Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
 
-### CAPITULO II. De las personas que pueden recibir donaciones
-
-ARTICULO 2290
-
-Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 268.
-
-ARTICULO 2291
-
-Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo ya por interpósita persona.
-
 ## TITULO TERCERO. DE LA PERMUTA
 
 ARTICULO 2262
@@ -12462,6 +12676,16 @@ ARTICULO 2265
 Son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
 
 ## TITULO CUARTO. DE LAS DONACIONES
+
+### CAPITULO II. De las personas que pueden recibir donaciones
+
+ARTICULO 2290
+
+Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 268.
+
+ARTICULO 2291
+
+Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo ya por interpósita persona.
 
 ### CAPITULO III. De la revocación y reducción de las donaciones
 
@@ -12629,6 +12853,8 @@ ARTICULO 2325
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
+## TITULO QUINTO. DEL MUTUO
+
 ### CAPITULO II. Del mutuo con interés
 
 ARTICULO 2326
@@ -12656,8 +12882,6 @@ Si se ha convenido un interés más alto que el legal, el deudor, después de se
 ARTICULO 2330
 
 Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
-
-## TITULO QUINTO. DEL MUTUO
 
 ### CAPITULO I. Disposiciones generales
 
@@ -12728,6 +12952,8 @@ Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el
 ARTICULO 2344
 
 Los arrendamientos de bienes municipales, del Estado o de organismos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este Título.
+
+## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO II. De los derechos y obligaciones del arrendador
 
@@ -12808,8 +13034,6 @@ III.- Cuando el contrato fuere por tiempo indeterminado y antes de que transcurr
 ARTICULO 2357
 
 Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
-
-## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO III. De los derechos y obligaciones del arrendatario
 
@@ -13301,36 +13525,6 @@ ARTICULO 2471
 
 Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### CAPITULO II. Del secuestro
-
-ARTICULO 2472
-
-El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quién debe entregarse.
-
-ARTICULO 2473
-
-El secuestro es convencional o judicial.
-
-ARTICULO 2474
-
-El secuestro convencional se verifica cuando los litigantes depositan la cosa litigiosa en poder de un tercero que se obliga a entregarla, concluído el pleito, al que conforme a la sentencia tenga derecho a ella.
-
-ARTICULO 2475
-
-El encargado del secuestro convencional no puede libertarse de él antes de la terminación del pleito, sino consintiendo en ello todas las partes interesadas, o por una causa que el juez declare legítima.
-
-ARTICULO 2476
-
-Fuera de las excepciones acabadas de mencionar, rigen para el secuestro convencional las mismas disposiciones que para el depósito.
-
-ARTICULO 2477
-
-El secuestro judicial es el que se constituye por decreto del juez.
-
-ARTICULO 2478
-
-El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
-
 ## TITULO SEPTIMO. DEL COMODATO
 
 ARTICULO 2430
@@ -13410,6 +13604,36 @@ ARTICULO 2448
 El comodato termina por la muerte del comodatario.
 
 ## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+
+### CAPITULO II. Del secuestro
+
+ARTICULO 2472
+
+El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quién debe entregarse.
+
+ARTICULO 2473
+
+El secuestro es convencional o judicial.
+
+ARTICULO 2474
+
+El secuestro convencional se verifica cuando los litigantes depositan la cosa litigiosa en poder de un tercero que se obliga a entregarla, concluído el pleito, al que conforme a la sentencia tenga derecho a ella.
+
+ARTICULO 2475
+
+El encargado del secuestro convencional no puede libertarse de él antes de la terminación del pleito, sino consintiendo en ello todas las partes interesadas, o por una causa que el juez declare legítima.
+
+ARTICULO 2476
+
+Fuera de las excepciones acabadas de mencionar, rigen para el secuestro convencional las mismas disposiciones que para el depósito.
+
+ARTICULO 2477
+
+El secuestro judicial es el que se constituye por decreto del juez.
+
+ARTICULO 2478
+
+El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
 
 ### CAPITULO I. Disposiciones generales
 
@@ -13509,6 +13733,8 @@ En este caso, el mandatario es el obligado directamente en favor de la persona c
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
+## TITULO NOVENO. DEL MANDATO
+
 ### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
 
 ARTICULO 2495
@@ -13570,8 +13796,6 @@ Si se le designó la persona del substituto, no podrá nombrar a otro; si no se 
 ARTICULO 2509
 
 El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
-
-## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO III. De las obligaciones del mandante con relación al mandatario
 
@@ -13765,6 +13989,8 @@ ARTICULO 2538
 
 El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo y el contrato de aprendizaje, se regirán por lo dispuesto en la Constitución Federal y en las leyes federales sobre trabajo; y sólo supletoriamente por los preceptos aplicables de este Código, a la naturaleza contractual de aquellos servicios.
 
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
+
 ### CAPITULO II. De la prestación de servicios profesionales
 
 ARTICULO 2539
@@ -13808,8 +14034,6 @@ Siempre que un profesor no pueda continuar prestando sus servicios, deberá avis
 ARTICULO 2548
 
 El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
-
-## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO III. Del contrato de obras a precio alzado
 
@@ -15639,6 +15863,8 @@ ARTICULO 2912
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
+
 ### CAPITULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegiados
 
 ARTICULO 2913
@@ -15704,8 +15930,6 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 ARTICULO 2925
 
 Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
-
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
 
@@ -15799,6 +16023,8 @@ El Registro será público. Los encargados de la oficina tienen la obligación d
 
 Tratándose de testamentos autógrafos depositados en el Registro, se observará lo dispuesto en el artículo 1497.
 
+## TITULO SEGUNDO. DEL REGISTRO PUBLICO
+
 ### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
 
 ARTICULO 2935
@@ -15872,8 +16098,6 @@ En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio c
 ARTICULO 2942
 
 No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscriptos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
-
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
 ### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
@@ -16748,3 +16972,19 @@ CUARTO. Dentro de los noventa días posteriores a la entrada en vigencia del pre
 QUINTO. El Registro Estatal de Niñas, Niños y Adolescentes Expósitos y Abandonados a que hace alusión el artículo 27 Bis de la Ley de Adopciones del Estado comenzará a funcionar el 1 de enero de 2021, por lo que las autoridades competentes deberán tomar las prevenciones materiales, humanas, financieras, administrativas, logísticas e informáticas necesarias para ello.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 578 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo de sesenta días, el Congreso del Estado deberá armonizar al presente Decreto la legislación tributaria y de otras materias que resulten necesarias.
