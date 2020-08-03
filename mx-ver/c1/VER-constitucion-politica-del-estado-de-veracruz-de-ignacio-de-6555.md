@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2020-06-22"
+last_updated: "2020-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "VER"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA GACETA OFICIAL DE DICHA ENTIDAD FEDERATIVA, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2020.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -73,7 +71,7 @@ El Estado tiene como base de su división territorial y de su organización pol�
 
 ### CAPÍTULO II. DE LOS DERECHOS HUMANOS
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: ” Artículo 4. El hombre y la mujer son sujetos de iguales derechos y obligaciones ante la ley.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: " Artículo 4. El hombre y la mujer son sujetos de iguales derechos y obligaciones ante la ley."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2020)</small>
 
@@ -127,7 +125,7 @@ Las autoridades deberán privilegiar la solución del conflicto sobre los formal
 
 En el Estado, todas las personas gozarán de los derechos humanos y garantías para su protección, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozcan (sic) el Poder Judicial del Estado sin distinción alguna de origen étnico o nacional, sexo, idioma, religión, situación migratoria, opinión política, preferencias sexuales, condición o actividad social. Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL DÉCIMO TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: ”Todas las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de promover, respetar, proteger y garantizar los derechos humanos, privilegiando el enfoque de la seguridad humana, de conformidad con los principios de universalidad interdependencia, indivisibilidad, progresividad y prevención temprana de los problemas del desarrollo, por lo que deberán generar las condiciones necesarias para que las personas gocen de los derechos humanos que establece esta Constitución y prevenir, investigar, sancionar y reparar las violaciones a los mismos; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL DÉCIMO TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Todas las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de promover, respetar, proteger y garantizar los derechos humanos, privilegiando el enfoque de la seguridad humana, de conformidad con los principios de universalidad interdependencia, indivisibilidad, progresividad y prevención temprana de los problemas del desarrollo, por lo que deberán generar las condiciones necesarias para que las personas gocen de los derechos humanos que establece esta Constitución y prevenir, investigar, sancionar y reparar las violaciones a los mismos; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
 
@@ -189,7 +187,7 @@ Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquier
 
 El Estado reconoce los aportes de su población migrante, sea ésta de origen, retorno, destino o tránsito, nacional o internacional, y se compromete a tutelar y hacer efectivos sus derechos, poniendo especial énfasis en la atención a las particulares condiciones y necesidades de los menores, mujeres e indígenas migrantes.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 6. Las autoridades del Estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad, dando especial atención a la integración de las personas con discapacidad.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 6. Las autoridades del Estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad, dando especial atención a la integración de las personas con discapacidad."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2020)</small>
 
@@ -197,7 +195,7 @@ El Estado reconoce los aportes de su población migrante, sea ésta de origen, r
 
 LAS AUTORIDADES DEL ESTADO PROMOVERÁN LAS CONDICIONES NECESARIAS PARA EL PLENO GOCE DE LA LIBERTAD, IGUALDAD, SEGURIDAD Y LA NO DISCRIMINACIÓN DE LAS PERSONAS; ASIMISMO, TODAS LAS AUTORIDADES EN EL ÁMBITO DE SUS COMPETENCIAS, GARANTIZARÁN EL DERECHO AL HONOR, A LA INTIMIDAD PERSONAL Y FAMILIAR, Y AL LIBRE DESARROLLO DE LA PERSONALIDAD DANDO ESPECIAL ATENCIÓN A LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el hombre en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos, atendiendo el principio de paridad de género.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el hombre en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos, atendiendo el principio de paridad de género."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
 
@@ -285,47 +283,65 @@ La propiedad y la posesión tendrán las modalidades y limitaciones señaladas p
 
 #### SECCIÓN PRIMERA. DE LA EDUCACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 10.
 
-Todas las personas tienen derecho a recibir educación. El Estado y los municipios la impartirán en forma gratuita. La preescolar, la primaria y la secundaria conforman la educación básica; ésta y la media superior son obligatorias.
+Todas las personas tienen derecho a recibir una educación inclusiva y laica. El Estado y los municipios la impartirán en forma pública y gratuita. La inicial, la preescolar, la primaria y la secundaria conforman la educación básica; ésta y la media superior son obligatorias. La educación superior se regirá y será obligatoria en términos del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 
-El sistema educativo de Veracruz se integra por las instituciones del Estado, de los municipios o sus entidades descentralizadas, la Universidad Veracruzana y los particulares que impartan educación, en los términos que fije la ley.
+El sistema educativo de Veracruz se integra por las instituciones del Estado, de los municipios, sus entidades descentralizadas, las instituciones de educación superior dotadas de autonomía conforme a la ley como la Universidad Veracruzana y los particulares que impartan educación, en los términos que fije la ley.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+La educación en Veracruz se orientará por los siguientes principios:
 
-La educación será organizada y garantizada por el Estado como un proceso integral y permanente, articulado en sus diversos ciclos, de acuerdo a las siguientes bases:
+I. Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-a) El sistema educativo será laico;
+II. Promoverá los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
 
-b) Impulsará la educación en todos sus niveles y modalidades, y establecerá la coordinación necesaria con las autoridades federales en la materia;
+III. Desarrollará y promoverá el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural;
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+IV. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación;
 
-c) Fomentará el respeto a los derechos humanos, el conocimiento de la noción de seguridad humana, así como de la lengua nacional y la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
+V. Priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos;
 
-d) Desarrollará y promoverá el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural;
+VI. Se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos, perspectiva de género y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje;
 
-e) La educación superior y tecnológica tendrá como finalidades crear, conservar y transmitir la cultura y la ciencia, respetará las libertades de cátedra y de investigación, de libre examen y de discusión de las ideas, y procurará su vinculación con el sector productivo;
+VII. Será equitativa, para lo cual el Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas, regionales y de género en el acceso, tránsito y permanencia en los servicios educativos;
 
-f) Cuidará que la educación de los pueblos indígenas se imparta en forma bilingüe, con respeto a sus tradiciones, usos y costumbres, e incorporará contenidos acerca de su etnohistoria y cosmovisión;
+VIII. Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
 
-g) Promoverá los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
+IX. Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar; y
 
-h) Llevará a cabo el establecimiento y desarrollo de programas especiales para una mejor integración a la sociedad de los miembros de la tercera edad y de los discapacitados; e
+X. Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad.
 
-i) Propiciará la participación social en materia educativa, para el fortalecimiento y desarrollo del sistema de educación público en todos sus niveles.
+La educación será organizada y garantizada por el Estado como un proceso integral y permanente, articulado en sus diversos ciclos, de acuerdo con las siguientes bases:
 
-> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2017)</small>
+I. el Estado impulsará la educación en todos sus niveles y modalidades, y establecerá la coordinación necesaria con las autoridades federales en la materia;
 
-La Universidad Veracruzana es una institución autónoma de educación superior. Conforme a la ley, tendrá la facultad de autogobernarse, expedir su reglamentación y nombrar a sus autoridades; realizará sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación, de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico; contará con autonomía presupuestaria y administrará libremente su patrimonio, que se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras, los recursos generados por los servicios que preste, así como por los demás que señale su ley. El presupuesto asignado a la Universidad Veracruzana no podrá ser menor al cuatro por ciento del total del presupuesto general del Estado, previsto para el ejercicio anual respectivo, el cual deberá ministrarse conforme al calendario autorizado en los términos que establezca la legislación aplicable y, en ningún caso, el monto del presupuesto asignado será inferior al otorgado en el ejercicio inmediato anterior.
+II. Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la transformación social;
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+III. Los programas educativos podrán ser complementados con aspectos que consideren las realidades y contextos, regionales y locales, incluyendo la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
 
-Los bienes inmuebles de la Universidad destinados a la prestación del servicio público educativo estarán exentos del pago de contribuciones locales y municipales.
+IV. Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza y aprendizaje. El Estado garantizará que los materiales didácticos, la infraestructura educativa, su mantenimiento y las condiciones del entorno sean idóneos y contribuyan a los fines de la educación;
+
+V. Llevará a cabo el establecimiento y desarrollo de programas especiales para una mejor integración a la sociedad de personas adultas mayores y con discapacidad;
+
+VI. En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades;
+
+VII. En los pueblos y comunidades indígenas se impartirá educación plurilingüe e intercultural basada en el respeto, promoción y preservación del patrimonio histórico y cultural, usos y costumbres, etnohistoria y cosmovisión;
+
+VIII. En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales;
+
+IX. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella. Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica; y
+
+X. La educación superior y tecnológica tendrá como finalidades crear, conservar y transmitir la cultura y la ciencia, respetará las libertades de cátedra y de investigación, de libre examen y de discusión de las ideas y procurará su vinculación con el sector productivo.
+
+Las instituciones de educación superior del Estado dotadas de autonomía conforme a la Ley, como la Universidad Veracruzana, tendrán la facultad de autogobernarse, expedir su reglamentación y nombrar a sus autoridades; realizarán sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación, de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; contarán con autonomía presupuestaria y administrarán libremente su patrimonio, que se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras, los recursos generados por los servicios que preste, así como por los demás que señale su ley.
+
+En el caso de la Universidad Veracruzana, el presupuesto asignado no podrá ser menor al cuatro por ciento del total del presupuesto general del Estado, previsto para el ejercicio anual respectivo, el cual deberá ministrarse conforme al calendario autorizado en los términos que establezca la legislación aplicable y, en ningún caso, el monto del presupuesto asignado será inferior al otorgado en el ejercicio inmediato anterior.
+
+Los bienes inmuebles de las instituciones de educación superior del Estado dotadas de autonomía, destinados a la prestación del servicio público educativo, estarán exentos del pago de contribuciones locales y municipales.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -479,9 +495,13 @@ III. Desempeñar los cargos para los que hubiere sido elegida;
 
 IV. Desempeñar las funciones electorales para las que hubiere sido designada; y
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADA, G.O. 3 DE AGOSTO DE 2020)</small>
 
-V. Las demás que establezcan esta Constitución y la ley.
+V. Ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas para recibir la educación obligatoria en los términos de esta Constitución, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo; y
+
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2020)</small>
+
+VI. Las demás que establezcan esta Constitución y la Ley.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -3982,3 +4002,13 @@ El Congreso del Estado de Veracruz deberá actualizar normativamente, de inmedia
 ###### ARTÍCULO CUARTO.
 
 El Congreso del Estado deberá reformar, a más tardar el 31 de enero del año 2021, las normas legales que estipulan lo relativo a la observancia del principio de paridad de género a que se refiere el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y será aplicable a quienes tomen posesión de su encargo a partir del proceso electoral local siguiente a la entrada en vigor del Decreto federal publicado el seis de junio del año dos mil diecinueve.
+
+G.O. 3 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 577 POR EL QUE SE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. En un plazo que no exceda los sesenta días hábiles, contado a partir de la vigencia de este Decreto, el Congreso del Estado deberá armonizar la legislación secundaria aplicable conforme a lo previsto en esta resolución, en materia educativa.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
