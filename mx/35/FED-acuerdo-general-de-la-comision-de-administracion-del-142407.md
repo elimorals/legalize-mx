@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-142407"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-04-02"
-last_updated: "2020-04-02"
+last_updated: "2020-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-03-30"
 ---
 # ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACION CON EL FUNCIONAMIENTO Y OPERACION DE LAS AREAS ADMINISTRATIVAS Y ORGANOS AUXILIARES DE LA COMISION DE ADMINISTRACION, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19)]
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 4 DE AGOSTO DE 2020, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACIÓN CON EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE AGOSTO DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 2 de abril de 2020.
 
@@ -136,3 +138,43 @@ De la publicación referida hágase del conocimiento del presente a los titulare
 EL SUSCRITO, LICENCIADO ARTURO CAMACHO CONTRERAS, SECRETARIO DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, CON FUNDAMENTO EN LO DISPUESTO EN LOS ARTÍCULOS 170, FRACCIÓN VIII Y 208, FRACCIÓN XIV DEL REGLAMENTO INTERNO DEL CITADO ÓRGANO JURISDICCIONAL. CERTIFICA Que el presente documento en 6 fojas corresponde al ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACIÓN CON EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-CoV2 (COVID-19), aprobado por la Comisión de Administración mediante acuerdo 002/SE1(27-III-2020), emitido en la Primera Sesión Extraordinaria de 27 de marzo de 2020, que obra en los archivos de la Dirección General de Asuntos Jurídicos. DOY FE.
 
 Ciudad de México, 30 de marzo de 2020.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Arturo Camacho Contreras.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE AGOSTO DE 2020.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, POR EL QUE SE MODIFICA EL PUNTO DE ACUERDO TERCERO DEL ACUERDO GENERAL POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACIÓN CON EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19), QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. El presente acuerdo tiene como objeto establecer habilitaciones específicas respecto de la suspensión de los plazos y términos que en materia administrativa tienen lugar en el ejercicio de las funciones de la Contraloría Interna, Visitaduría Judicial y Dirección General de Investigación de Responsabilidades Administrativas, prevista en el Acuerdo Tercero del Acuerdo General de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación por el que se implementan diversas medidas en relación con el funcionamiento y operación de las áreas administrativas y órganos auxiliares de la Comisión de Administración, con motivo de la contingencia derivada de la enfermedad por el virus SARS-CoV2 (COVID-19).
+
+SEGUNDO. En las habilitaciones específicas materia de este acuerdo, se privilegiará el uso de comunicación por medios electrónicos, salvo que la ley prevea lo contrario.
+
+TERCERO. Durante la vigencia del presente acuerdo se habilita la posibilidad de realizar las siguientes actuaciones:
+
+I. Procedimientos iniciados y en curso de auditoría, revisiones de control y evaluaciones al ejercicio del gasto, así como el seguimiento de las observaciones, recomendaciones, áreas de oportunidad y acciones de mejora que de ellas deriven.
+
+II. Proveer sobre la admisión o desechamiento de quejas y denuncias que realice la Dirección General de Investigación de Responsabilidad.
+
+III. Radicar nuevas investigaciones por hechos posiblemente constitutivos de responsabilidad administrativa, sin que dé lugar a que inicien los plazos procesales respectivos, ni la prescripción. Excepcionalmente, la Dirección General de Investigación de Responsabilidad podrá proveer aquellas diligencias que de manera fundada y razonada sean necesarias para la preservación de evidencias y para el debido ejercicio de la función pública.
+
+IV. Emitir dictámenes conclusivos o informes de presunta responsabilidad administrativa en las investigaciones por hechos posiblemente constitutivos de responsabilidad administrativa, siempre que no queden diligencias pendientes de desahogar.
+
+V. La Contraloría Interna y la Visitaduría Judicial, en el marco de su competencia, podrán radicar y formar los expedientes relativos a los procedimientos de responsabilidad administrativa, derivado de la presentación de informes de presunta responsabilidad administrativa, sin que dé lugar a que inicien los plazos procesales respectivos, ni la prescripción. Las autoridades sustanciadoras podrán devolver a la autoridad investigadora los expedientes en los que se estime que faltan diligencias por desahogar, o en los que se adviertan errores o discrepancias, ello, en términos de la Ley General de Responsabilidades Administrativas; así como la elaboración del proyecto de resolución en los expedientes en que se haya cerrado la instrucción, excepcionalmente, se podrán proveer aquellas diligencias que de manera fundada y razonada sean urgentes y de necesaria resolución.
+
+VI. Hacer del conocimiento de la autoridad competente cuando se tenga conocimiento de conductas que puedan constituir algún delito.
+
+VII. Emitir y atender comunicaciones, solicitudes y requerimientos de otras áreas del Tribunal Electoral, de autoridades y de la ciudadanía en general, siempre que ello no comprometa las medidas de contingencia.
+
+VIII. El desahogo y tramitación de cualquier acción, actuación, requerimiento, solicitud o promoción realizada por la Auditoría Superior de la Federación tratándose de las acciones y recomendaciones formuladas derivadas de la fiscalización de la cuenta pública a que alude el artículo 40 de la Ley de Fiscalización y Rendición de Cuentas de la Federación.
+
+CUARTO. En tratándose de las verificaciones a distancia y visitas ordinarias que se encuentren en curso y las que están programadas para este año, la Visitaduría Judicial, deberá someter a consideración de la Comisión de Administración la nueva calendarización y modalidad de las visitas.
+
+## [N. DE E. TRANSITORIOS DEL " ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, POR EL QUE SE MODIFICA EL PUNTO DE ACUERDO TERCERO DEL ACUERDO GENERAL POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACIÓN CON EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19)".]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el portal del Tribunal Electoral del Poder Judicial de la Federación en intranet e internet.
+
+TERCERO. Las actuaciones que por su urgencia y necesidad en la continuación de la función pública hayan sido realizadas, surtirán plenos efectos desde el momento de su emisión, siempre que no afecten derechos o plazos procesales en perjuicio de terceros.
+
+CUARTO. Se deja sin efectos el calendario previsto en el Programa anual de Visitas Ordinarias de Inspección y Verificaciones a Distancia, aprobado por la Comisión de Administración y se instruye a la Visitaduría Judicial a presentar en la próxima sesión ordinaria de la Comisión de Administración el Programa anual de Visitas Ordinarias de Inspección y Verificaciones a Distancia.
