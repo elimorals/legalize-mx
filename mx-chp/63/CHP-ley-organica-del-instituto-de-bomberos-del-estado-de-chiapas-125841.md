@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-bomberos-del-estado-de-chiapas-12
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-11-15"
-last_updated: "2018-09-12"
+last_updated: "2020-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL INSTITUTO DE BOMBEROS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 15 de noviembre de 2017.
 
@@ -857,9 +857,11 @@ El Gobierno del Estado de Chiapas, podrá previa autorización del Congreso del 
 
 Los inmuebles del Instituto, deberán estar ubicados en lugares estratégicos que permitan acudir rápidamente a los siniestros. Cada Región Socioeconómica del Estado deberá contar con una Estación y con aquellas Subestaciones que sean necesarias para afrontar las emergencias en zonas de alto riesgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### ARTÍCULO 57.
 
-La Estación Central es la sede que alberga los Órganos de Administración del Instituto y su domicilio legal será la Ciudad de San Cristóbal de las Casas, Chiapas.
+La Estación Central es la sede que alberga los Órganos de Administración del Instituto y su domicilio legal estará establecido en la Ciudad de Tuxtla Gutiérrez, Chiapas.
 
 Las oficinas de los Órganos Administrativos del Instituto, se distribuirán estratégicamente dentro de las instalaciones del mismo.
 
@@ -1010,3 +1012,11 @@ P.O. 12 DE SEPTIEMBRE DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
 
 Artículo Segundo. Quedan abrogadas todas aquellas disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 257 POR EL QUE SE REFORMA EL ARTÍCULO 57, DE LA LEY ORGÁNICA DEL INSTITUTO DE BOMBEROS DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
