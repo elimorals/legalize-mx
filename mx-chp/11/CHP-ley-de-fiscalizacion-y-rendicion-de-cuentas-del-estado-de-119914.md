@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11991
 country: "mx"
 rank: "ley"
 publication_date: "2017-02-01"
-last_updated: "2020-05-04"
+last_updated: "2020-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado Libre y Soberano de Chiapas, el miércoles 1 de febrero de 2017.
 
@@ -161,7 +161,9 @@ XXXVIII. Unidad de Medida y Actualización: Al valor establecido por el Institut
 
 Las definiciones previstas en los artículos 2 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los municipios y 4 de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley.
 
-Cuando en esta Ley se haga referencia a días hábiles, se entenderán comprendidos todos los días del año, excepto los sábados y domingos, el primero de enero, el primer lunes de febrero en conmemoración del cinco de febrero, el tercer lunes de marzo en conmemoración del veintiuno de marzo, el primero y cinco de mayo, el catorce y dieciséis de septiembre, el dos de noviembre y el tercer lunes de noviembre en conmemoración del veinte de noviembre, el veinticinco de diciembre, los días que se suspendan por la celebración de la Semana Santa y cada seis años los días que correspondan a la transmisión de los Poderes Ejecutivo Federal y Estatal, así como aquellos.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+Cuando en esta Ley se haga referencia a días hábiles, se entenderán comprendidos todos los días del año, excepto los sábados y domingos, el primero de enero, el primer lunes de febrero en conmemoración del cinco de febrero, el tercer lunes de marzo en conmemoración del veintiuno de marzo, el primero y cinco de mayo, el catorce y dieciséis de septiembre, el dos de noviembre y el tercer lunes de noviembre en conmemoración del veinte de noviembre, el veinticinco de diciembre, los días que se suspendan por la celebración de la Semana Santa y cada seis años los días que correspondan a la transmisión de los Poderes Ejecutivo Federal y Estatal, así como aquellos que mediante acuerdo del Auditor Superior del Estado se declaren como inhábiles. El acuerdo antes señalado, deberá ser publicado en el Periódico Oficial.
 
 Los días hábiles contemplados en el párrafo anterior comprenderán las horas entre las 08:00 y las 16:00 horas, las cuales se entenderán como horas hábiles.
 
@@ -1328,3 +1330,11 @@ P.O. 4 DE MAYO DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 254 POR EL QUE SE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 4 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
