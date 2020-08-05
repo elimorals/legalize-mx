@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-111702"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-18"
-last_updated: "2019-06-19"
+last_updated: "2020-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de noviembre de 2015.
 
@@ -45,9 +45,11 @@ LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
 ### Capítulo I. Del Objeto y Principios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el territorio del Estado de Chiapas; tiene por objeto la conservación de la biodiversidad, restauración del equilibrio ecológico, la protección del medio ambiente y el aprovechamiento racional de sus recursos para propiciar el desarrollo sustentable del Estado, de conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chiapas, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás disposiciones legales aplicables en la materia.
+La presente ley es de orden público, interés social y de observancia general en el territorio del Estado de Chiapas; tiene por objeto la conservación de la biodiversidad, restauración del equilibrio ecológico, la protección del medio ambiente, el aprovechamiento racional de sus recursos, la educación y cultura ambiental para propiciar el desarrollo sustentable del Estado, de conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Chiapas, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás disposiciones legales aplicables en la materia.
 
 Así como también establecerá la coordinación entre los tres niveles de gobierno, generando una cultura de responsabilidad, participación y prevención ambiental, estableciendo las bases para:
 
@@ -86,6 +88,22 @@ XVI. Elaborar y expedir normas técnicas ambientales estatales, en aquellas mate
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
 
 XVII. La definición, dirección y formulación de Políticas Públicas encaminadas a la eliminación de la venta y uso de bolsas plásticas y contenedores de poliestireno (unicel) expandido de un solo uso, para fines de Envoltura, Transportación, Cargo o Traslado de Alimentos y Bebidas, Productos y Mercancías en Supermercados, Tiendas de Autoservicio, Departamentales, Farmacias, Tiendas de Conveniencia, Mercados, Restaurantes y establecimientos donde se comercialicen alimentos y bebidas; así como el de la entrega y uso de Popotes Plásticos de base polimérica de un solo uso, para usanza alimenticia en Bares, Restaurantes y similares, y los demás productos derivados del plástico para utensilios de alimentos, de diversión, higiene y uso personal desechables al primer uso, tales como; platos, cucharas, tenedores, bastoncillos para hisopos de algodón, vasos, charolas, globos, varillas para globos y demás políticas que impulsen la sustitución definitiva de éstos, por productos elaborados con materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos compostables.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+XVIII. Fomentar y promover la cultura ambiental a través de la acreditación de empresas comprometidas con el medio ambiente.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+XIX. Participar en los asuntos que afecten el equilibrio ecológico de dos o más municipios en su circunscripción territorial.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+XX. Atender los asuntos que en materia de conservación, prevención del equilibrio ecológico y protección al ambiente que establece esta ley y otros ordenamientos en concordancia con ella y que no están otorgadas expresamente a la federación.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+XXI. Impulsar la participación integral de las mujeres, niñas, niños y adolescentes, personas en situación de discapacidad, adultos mayores, pueblos y comunidades indígenas, y de todos los habitantes, especialmente a grupos vulnerables, en fomentar el desarrollo sustentable local, en la protección, conservación, y restauración ambiental y en el aprovechamiento sustentable del territorio y sus recursos.
 
 ###### Artículo 2.
 
@@ -199,9 +217,9 @@ XXXII. Estudio de Riesgo Ambiental: Al documento mediante el cual se da a conoce
 
 XXXIII. Equilibrio Ecológico: A la relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
 
-XXXIV. Evaluación de Impacto Ambiental: Al procedimiento a través del cual la Autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de obras y actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
+XXXIV. Evaluación del Impacto Ambiental: Al procedimiento a través del cual la autoridad evalúa los estudios que manifiestan los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de obras o actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
 
 XXXV. Fauna Silvestre: A las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
 
@@ -241,7 +259,9 @@ LII. Pago de Servicios Ambientales: A la compensación económica de un usuario 
 
 LIII. Preservación: Al conjunto de políticas y medidas para mantener las condiciones propicias para la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural.
 
-LIV. Procuraduría Ambiental: A la Procuraduría Ambiental en el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+LIV. Procuraduría Ambiental: A la Procuraduría Ambiental del Estado de Chiapas.
 
 LV. Protección: Al conjunto de políticas y medidas para mejorar el ambiente, prevenir y evitar su deterioro.
 
@@ -317,6 +337,22 @@ Esta clasificación incluye, entre otros productos, bolsas de mercado, empaques 
 
 LXXX. Materiales Biodegradables: Sustancias que por la acción de un agente biológico se pueden descomponer o degradar en condiciones ambientales naturales.
 
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+LXXXI. Comité de Manejo y Conservación de las Áreas Naturales Protegidas: Al Comité conformado por los tres niveles de Gobierno, Centros Académicos y Organizaciones Civiles que conforman las estrategias necesarias para contribuir al desarrollo sostenible de las Áreas Naturales Protegidas.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+LXXXII. Compensación Ambiental: A las obras y actividades de restauración de suelos, reforestación, protección y mantenimiento, que se realizan con el fin de rehabilitar ecosistemas deteriorados, de controlar o evitar los procesos de degeneración y de recuperar parcial o totalmente las condiciones que propicie su resiliencia y evolución.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+LXXXIII. Depósito por Compensación Ambiental: Al monto económico que deposita el promovente de una obra o actividad, una vez obtenida la autorización en materia de impacto ambiental.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+LXXXIV. Materiales Oxo-degradables: Al plástico que se fragmenta en micropartículas por el paso del tiempo, causando deterioro al medio Ambiente.
+
 ### Capítulo II. De las Autoridades Ambientales
 
 ###### Artículo 5.
@@ -327,7 +363,9 @@ I. El titular del Poder Ejecutivo Estatal.
 
 II. El titular de la Secretaría de Medio Ambiente e Historia Natural.
 
-III. El titular de la Procuraduría Ambiental para el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+III. El titular de la Procuraduría Ambiental del Estado de Chiapas.
 
 IV. Los Ayuntamientos.
 
@@ -433,15 +471,17 @@ XXIX. Impulsar campañas y programas educativos permanentes de protección ambie
 
 XXX. Regular las actividades riesgosas tomando como referencia las cantidades de reportes que se encuentren por debajo de las establecidas en los listados de las actividades altamente riesgosas emitidos por la Federación, en términos de la Ley General y las Normas Oficiales Mexicanas, en materia de riesgo ambiental.
 
-XXXI. Expedir el registro único de prestadores de servicios en materia ambiental.
+XXXI. (DEROGADA, P.O. 5 DE AGOSTO DE 2020)
 
 XXXII. Promover y estimular la articulación de mercados para la compensación o pago de servicios ambientales.
 
 XXXIII. La regulación para el manejo, control y remediación de los problemas asociados a ejemplares y poblaciones ferales, así como la aplicación de las disposiciones en la materia, dentro de su ámbito territorial.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE AGOSTO DE 2020)</small>
 
-XXXIV. Establecer los criterios, lineamientos y normas técnicas ecológicas ambientales para el estado, referentes a la producción y al consumo sustentable de productos plásticos, incluyendo popotes y poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a los lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes.
+XXXIV. Establecer los criterios, lineamientos y normas técnicas ecológicas ambientales para el Estado, referentes al uso y consumo sustentable de productos plásticos, incluyendo popotes, poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 19 DE JUNIO DE 2019)</small>
 
 Estos criterios, lineamientos y normas técnicas ecológicas ambientales deberán emitirse bajo esquemas de participación ciudadana y en su elaboración se considerará lo siguiente:
 
@@ -451,17 +491,19 @@ b) Garantizar que los popotes, bolsas de plástico y poliestireno expandido, se 
 
 c) Garantizar la prohibición en la comercialización, distribución, uso y entrega de productos para higiene y uso personal, utensilio alimenticio y de diversión fabricado total o parcialmente de plásticos, diseñados para su desecho después de un solo uso, excepto los que sean compostables.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+d) Deberá fomentar la transición de tecnologías a empresas productoras para la sustitución de bolsas de plástico.
+
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
 
 XXXV. Formular la denuncia o querella correspondiente, ante la autoridad competente si como resultado de una visita o inspección se detecta la comisión de un delito.
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
 
-XXXVI. Deberá apoyar la transición de tecnologías a empresas productoras para la sustitución de las bolsas de plástico, popotes y recipientes de unicel por elaborados de material que pueda ser fácilmente compostable o con contenido de material reciclado, el Titular del Ejecutivo podrá constituir programas de apoyo dirigidos para este fin.
+XXXVI. Fomentará la transición de tecnologías a empresas productoras para la sustitución de bolsas de plástico, popotes y recipientes de unicel para reemplazo por materiales que puedan ser fácilmente compostable o con contenido de material reciclado, el Titular del Ejecutivo Estatal podrá constituir programas de apoyo dirigidos para este fin.
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
-
-XXXVII. Expedir los programas municipales de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, de popotes plásticos de uso alimenticio, así como de productos personales, utensilios alimenticios y de diversión de un solo uso, de conformidad con esta Ley.
+XXXVII. (DEROGADA, P.O. 5 DE AGOSTO DE 2020)
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -475,9 +517,17 @@ XXXIX. Elaborará e implementará propuestas y programas de eliminación de plá
 
 XL. Emprenderá campañas de difusión, actividades de educación ambiental, capacitación y otras similares; para generar conciencia en la población de los efectos perjudiciales en el ambiente que produce el uso de bolsas plásticas, popotes de plástico y recipientes de unicel para alimentos; así como promover la investigación y desarrollo de materiales reutilizables y alternativas, convenios de cooperación con establecimientos para incentivar el uso de bolsas reutilizables y de la necesidad de eliminar el uso de plásticos de un sólo uso. La Secretaría vigilará que los establecimientos pongan a disposición de los clientes bolsas reutilizables.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2020)</small>
 
-XLI. Las demás que se determinen en la presente Ley y otras disposiciones legales aplicables.
+XLI. Promover acciones de conservación y restauración de suelos; la ejecución de obras destinadas a la conservación, restauración, protección y/o generación de bienes y servicios ambientales.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+XLII. Expedir las acreditaciones a integrantes del sector productivo, público y social como empresa comprometida con el medio ambiente.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE AGOSTO DE 2020)</small>
+
+XLIII. Las demás que se determinen en la presente ley, y en otras disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -519,9 +569,7 @@ XVI. Solicitar información a los órganos administrativos de la Secretaría, pa
 
 XVII. Proponer al Secretario, la suscripción de convenios, acuerdos o cualquier instrumento jurídico de colaboración, así como la coordinación con los tres órdenes de gobierno para atender problemas ambientales, atendiendo a las leyes que resulten aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2019)</small>
-
-XVIII. Vigilar, inspeccionar y verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de la prohibición de productos plásticos para transporte, carga, envoltura, de higiene y uso personal, de uso alimenticio y de diversión, diseñado para su desecho después de un solo uso, poliestireno expandido (unicel) en alimentos y popotes de base polimérica e instaurar los procedimientos administrativos correspondientes e imponer las medidas y sanciones que resulten aplicables.
+XVIII. (DEROGADA, P.O. 5 DE AGOSTO DE 2020)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -571,7 +619,9 @@ XVIII. Aplicar las disposiciones relativas a la prevención, control y procuraci
 
 XIX. Autorizar, controlar y vigilar la utilización del suelo, en ese sentido se deberá contar previamente con el Dictamen Técnico aprobado por la Secretaría.
 
-XX. Previamente a la expedición de las licencias de construcción u operación, deberá solicitar a la Secretaría la autorización en materia de impacto ambiental para proyectos, obras, acciones y servicios que se mencionan en la presente Ley.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+XX. Previamente a la expedición de las licencias de construcción u operación el Ayuntamiento deberá solicitar al promotor la autorización emitida por la Secretaría en materia de impacto ambiental para proyectos, obras o actividades enunciadas en el artículo 87 de la presente ley.
 
 XXI. Coadyuvar con el Gobierno del Estado en la regulación del aprovechamiento de minerales no reservados a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como materiales pétreos o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para construcción u ornamento de obras.
 
@@ -592,6 +642,14 @@ XXVIII. Atender los demás asuntos que en materia de preservación del equilibri
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
 
 XXIX. Prohibir la entrega de bolsas de plástico no biodegradables, popotes de base polimérica y contenedores de poliestireno expandido (unicel) mediante dádiva o a título oneroso al público en general, para envoltura, carga, transporte de mercancías o productos e insumos de consumo alimenticio, de higiene y/o uso personal y de diversión elaborados con material no biodegradable y diseñados para su desecho después de un solo uso, enajenados por los establecimientos comerciales a que se refiere el artículo 3, fracción XII de esta Ley.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+XXX. Expedir los programas municipales de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, de popotes plásticos de uso alimenticio, así como de productos personales, utensilios alimenticios y de diversión de un solo uso, de conformidad con esta ley.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+XXXI. Vigilar, inspeccionar y verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de la prohibición de productos plásticos para transporte, carga, envoltura, de higiene y uso personal, de uso alimenticio y de diversión, diseñado para su desecho después de un solo uso, poliestireno expandido (unicel) en alimentos y popotes de base polimétrica e instaurar los procedimientos administrativos correspondientes e imponer medidas y sanciones que resulten aplicables.
 
 ###### Artículo 11.
 
@@ -973,9 +1031,11 @@ d) Financiamiento a las actividades económicas para inducir su adecuada localiz
 
 En cuanto a la ejecución de proyectos estratégicos federales y en áreas prioritarias del desarrollo nacional, respecto al Ordenamiento Ecológico del Territorio, su regulación quedará sujeta a las disposiciones legales y criterios normativos previstos al ámbito federal aplicable.
 
-###### Articulo 43.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
 
-Para la autorización y ejecución de una obra pública o privada indistintamente de los requerimientos establecidos por otras disposiciones de orden federal, estatal o municipal, es obligatorio para la dependencia, entidad pública o privada contar con el Dictamen Técnico en materia ambiental emitida por la Secretaría, la cual tendrá vigencia de un año.
+###### Artículo 43.
+
+Para la autorización y ejecución de una obra pública o privada indistintamente de los requerimientos establecidos por otras disposiciones de orden federal, estatal o municipal, es obligatorio para las dependencias, entidad pública o privada contar con un Dictamen Técnico en materia de Ordenamiento Ecológico emitido por la Secretaría, el cual tendrá vigencia de un año.
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -1015,7 +1075,9 @@ I. El Presidente, que será el titular del Poder Ejecutivo Estatal.
 
 II. El Vicepresidente que será el titular de la Secretaría.
 
-III. El Secretario Técnico, que será el titular de la Subsecretaría de Medio Ambiente de la Secretaría.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+III. El Secretario Técnico, será el titular de la Subsecretaría de Medio Ambiente y Cambio Climático de la Secretaría.
 
 IV. Los Vocales, quienes serán los titulares de:
 
@@ -1025,19 +1087,23 @@ b) Secretaría de Educación.
 
 c) Secretaría de Protección Civil.
 
-d) Secretaría del Campo.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
 
-e) Secretaría de Pesca y Acuacultura.
+d) Secretaría de Agricultura, Ganadería y Pesca.
+
+e) (DEROGADO, P.O. 5 DE AGOSTO DE 2020).
 
 f) Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
-g) Procuraduría Ambiental en el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+g) Procuraduría Ambiental del Estado de Chiapas.
 
 h) Instituto Estatal del Agua.
 
 i) Instituto del Café de Chiapas.
 
-j) Instituto de Desarrollo de Energías del Estado de Chiapas.
+j) (DEROGADO, P.O. 5 DE AGOSTO DE 2020)
 
 k) Las Comisiones de Ecología y Cambio Climático, y de Bosques y Selvas del Honorable Congreso del Estado.
 
@@ -1193,9 +1259,11 @@ Las disposiciones previstas por esta sección para la Secretaría, serán tambi�
 
 #### Sección Quinta. Fondo Estatal Ambiental
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 59.
 
-Por acuerdo o a iniciativa del titular del Poder Ejecutivo Estatal, se creará el Fondo Estatal Ambiental para los fines de esta Ley. Los recursos que conformen dicho Fondo serán aportaciones de particulares, inversionistas, dependencias gubernamentales y no gubernamentales, organizaciones sociales, sociedades anónimas, y todos aquellos que conforme a la Ley puedan hacer aportaciones.
+Por acuerdo o iniciativa del titular del Poder Ejecutivo Estatal, se creará el Fondo Estatal Ambiental, con la finalidad de obtener recursos encaminados a favorecer el desarrollo de las atribuciones propias de la Secretaría. Los recursos que conformen dicho fondo serán aportaciones de particulares, inversionistas, dependencias gubernamentales y no gubernamentales, organismos sociales, sociedades anónimas y todos aquellos que conforme a la ley puedan hacer aportaciones.
 
 Los recursos con los que el Fondo Estatal Ambiental cuente podrán ser destinados a actividades de:
 
@@ -1203,7 +1271,9 @@ I. Conservación, restauración, preservación y protección de los ecosistemas 
 
 II. Administración de las Àreas Naturales Protegidas, y de los recursos que ingresen al Sistema de Áreas Naturales Protegidas del Estado de Chiapas por cualquier concepto.
 
-III. Inspección y vigilancia en materia ambiental.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+III. Procedimientos de inspección, vigilancia y evaluación en materia de impacto y/o riesgo ambiental.
 
 IV. Educación ambiental e investigación científica.
 
@@ -1217,7 +1287,13 @@ VIII. Restauración de sitios contaminados.
 
 IX. Cambio climático.
 
-X. Los demás que establezca el titular del Poder Ejecutivo Estatal y la Secretaría.
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 5 DE AGOSTO DE 2020)</small>
+
+X. Para la conformación de brigadas comunitarias.
+
+> <small>(ADICIONADA [N. DE REUBICADA], P.O. 5 DE AGOSTO DE 2020)</small>
+
+XI. Los demás que establezca el titular del Poder Ejecutivo Estatal y la Secretaría.
 
 ###### Artículo 60.
 
@@ -1249,7 +1325,9 @@ La Secretaría y los Ayuntamientos, promoverán en su ámbito de competencia, la
 
 Para efectos del párrafo anterior, la Secretaría y los Ayuntamientos, en su ámbito de competencia implementarán como herramienta de ejecución el Plan de Educación Ambiental para la Sustentabilidad del Estado de Chiapas, y estará en constante coordinación con la Secretaría de Educación, la Federación, las demás dependencias y entidades de la Administración Pública Estatal competentes, así como organismos internacionales, organizaciones de la sociedad civil, e instituciones educativas y de investigación ya sean públicas o privadas ubicadas dentro del territorio de la entidad.
 
-Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+Para ello, se podrán celebrar convenios con instituciones del sector educativo, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia, así como integrantes del sector económico.
 
 ###### Artículo 64.
 
@@ -1303,11 +1381,15 @@ IV. La formación, profesionalización, sensibilización y actualización de los
 
 V. La participación de las instituciones educativas, organismos no gubernamentales, pueblos indígenas y demás sectores organizados de la sociedad en programas y actividades vinculadas con educación ambiental.
 
-VI. La participación de empresas públicas y privadas en el desarrollo de programas de educación ambiental.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+VI. La participación de empresas públicas y privadas en el desarrollo de programas y acreditaciones de educación ambiental.
 
 VII. La difusión de programas de cultura y educación ambiental, y el desarrollo de proyectos de educación ambiental, los cuales además deberán estar traducidos y difundidos en las principales lenguas indígenas del Estado.
 
-VIII. La instrumentación de programas que promuevan disminuir la generación de contaminantes, el consumo responsable y fomenten la separación de residuos sólidos no peligrosos y urbanos desde el lugar de su generación, así como su rehúso y reciclaje.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+VIII. La instrumentación de programas dentro del sector público, social y privado que promuevan disminuir la generación de contaminantes, el consumo responsable y fomenten la separación de residuos sólidos urbanos no peligrosos y de manejo especial desde el lugar de su generación, así como su rehúso y reciclaje.
 
 IX. El reconocimiento, la divulgación y el uso de métodos y prácticas tradicionales indígenas y campesinas, que sean compatibles con el aprovechamiento sustentable de los recursos naturales del Estado.
 
@@ -1330,6 +1412,12 @@ La Secretaría, en coordinación con las dependencias estatales competentes, pro
 La Secretaría brindará asesoría técnica y jurídica a los Ayuntamientos, para el eficaz y eficiente desempeño de su gestión ambiental.
 
 La Secretaría, con el apoyo de los Ayuntamientos correspondientes, y previa solicitud, brindará asesoría permanente a las comunidades y pueblos indígenas, a medianas y pequeñas empresas y a las personas físicas y morales interesadas, a fin de procurar el cumplimiento de la normatividad ecológica.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+###### Artículo 69 Bis.
+
+La Secretaría, en coordinación con las dependencias estatales competentes, promoverá sistemas de capacitación para la acreditación como empresa comprometida con el ambiente de los sectores público, social y privado.
 
 ###### Artículo 70.
 
@@ -1569,23 +1657,29 @@ Para obtener la autorización a que se refiere el artículo 87 de esta Ley, los 
 
 Cuando se trate de actividades consideradas riesgosas, en los términos de la presente Ley, aunado al estudio de impacto ambiental deberá presentar el estudio de riesgo ambiental correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 92.
 
-Los interesados en la realización de las obras o actividades reguladas en esta sección, deberán sujetarse a las condicionantes y limitaciones que señale la autorización respectiva. Para el seguimiento y cumplimiento de las condicionantes que en su caso se establezcan en la resolución, motivo de la autorización de la Manifestación de Impacto y Riesgo Ambiental, el promovente deberá designar un representante técnico, debidamente acreditado, previo al inicio de las obras. Dicho representante deberá presentar a la Secretaría, los informes periódicos, sobre el cumplimiento de las condiciones establecidas en la resolución, en los términos que se señalen.
+Los interesados en la realización de las obras o actividades reguladas en esta sección, deberán sujetarse a las condicionantes y limitaciones que señale la autorización respectiva. Para el seguimiento y cumplimiento de las condicionantes, que en su caso, se establezcan en la resolución, motivo de la autorización de la Manifestación de Impacto y Riesgo Ambiental, el promovente deberá designar un representante técnico, debidamente acreditado, previo al inicio de las obras. Dicho representante deberá presentar a la Procuraduría Ambiental, los informes periódicos, sobre el cumplimiento de las condicionantes establecidas en la resolución, en los términos que se señalen.
+
+Los interesados en que se autorice un proyecto de alguna obra o actividad contemplada en el Artículo 87 de la presente ley, y que no puedan cumplir con la condicionante del Programa de Recuperación Ambiental o de Reforestación establecido en la autorización en materia de impacto ambiental, deberán comprobar dentro de un término de 30 días naturales siguientes a la notificación de la autorización otorgada, el pago de derecho correspondiente, el cual deberá ser depositado ante el Fondo Estatal Ambiental, como una medida de compensación ambiental para que lleven a cabo acciones de restauración de los ecosistemas que se afecten, preferentemente dentro de un área natural protegida de competencia Estatal, en los términos y condiciones que establezca la Secretaría o en su caso acciones encaminadas a la protección del medio ambiente.
+
+Quedan excluidas de esta disposición las autorizaciones en materia de impacto ambiental para la extracción de materiales pétreos no reservados a la Federación.
 
 ###### Artículo 93.
 
-Solo podrán prestar servicios en materia de impacto y riesgo ambiental, en asuntos de competencia estatales y municipales en el territorio del Estado, aquellos prestadores que se encuentren inscritos en el Registro de Prestadores de servicios que para tal efecto se establezca, conforme a lo que disponga el reglamento en la materia de la presente Ley.
-
-En ningún caso podrá prestar servicios en materia de impacto o riesgo ambiental, directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación de la presente Ley.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2020)
 
 ###### Artículo 94.
 
 La Secretaría publicará mensualmente en su portal de internet y por estrados, un listado de los informes preventivos, estudios de impacto y riesgo ambiental autorizado, en los términos que se determine en el reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 95.
 
-Una vez que la Secretaría reciba una manifestación de impacto ambiental e integre el expediente respectivo, pondrá ésta a disposición de la ciudadanía, con el fin de que pueda ser consultada por cualquier persona.
+Una vez que la Secretaría reciba una manifestación de impacto ambiental e integre el expediente respectivo, pondrá a disposición de la ciudadanía, el resumen del contenido de la información del estudio presentado, con el fin de que pueda ser consultada por cualquier persona.
 
 Los promoventes de la obra o actividad, podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial y la confidencialidad de la información comercial, que aporte el interesado.
 
@@ -1597,9 +1691,11 @@ Para la evaluación en materia de impacto ambiental de las obras y actividades a
 
 Asimismo, para la autorización a que se refiere este artículo, la Secretaría deberá evaluar los posibles efectos de dichas obras o actividades en el o los ecosistemas de que se trate, considerando el conjunto de elementos que lo conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 97.
 
-La Secretaría, podrá solicitar al promovente por única vez, aclaraciones, rectificaciones o ampliaciones al contenido de la Manifestación de Impacto Ambiental, al Estudio de Riesgo Ambiental, informe preventivo o manifiesto de residuos de manejo especial que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento, una vez recibida la documentación solicitada, se reanudará dicho término.
+La Secretaría, de conformidad con los plazos establecidos en el Reglamento de la Ley Ambiental para el Estado de Chiapas en Materia de Evaluación de Impacto y/o Riesgo Ambiental, podrá solicitar al promovente aclaraciones, rectificaciones o ampliación al contenido de la manifestación o estudio de Impacto y/o Riesgo Ambiental que le sea presentada, suspendiéndose el termino fijado por el procedimiento y una vez recibida la documentación solicitada, se reanudará dicho termino.
 
 La Secretaria dentro del plazo de 60 días naturales contados a partir de la recepción de la Manifestación de Impacto Ambiental, deberá emitir la resolución correspondiente.
 
@@ -1635,17 +1731,7 @@ En aquellas obras o actividades que requieran contar con la autorización en mat
 
 ###### Artículo 101.
 
-Para la realización de las manifestaciones de impacto ambiental, estudios de riesgo, informes preventivos, informes de cumplimiento de condicionantes, estudios de emisiones a la atmósfera, auditorías ambientales y demás trámites o servicios que se prevén en esta Ley, la Secretaría establecerá un registro en el que deberán inscribirse los prestadores de servicios ambientales, particulares, dependencias, centros de investigación e interesados en su formulación, presentando una solicitud que deberá contener la información y documentos siguientes:
-
-I. Nombre, nacionalidad y domicilio del solicitante.
-
-II. Los documentos que acrediten la capacidad profesional o técnica del interesado para la realización de estudios en los cuales solicite su registro y en su caso, la experiencia del mismo.
-
-III. Infraestructura de servicios.
-
-IV. Los demás documentos e información que les requiera la Secretaría, con base en el reglamento que al efecto se expida.
-
-El promovente al presentar los estudios ante la Secretaría, deberá indicar el número y fecha en que fue registrado.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2020)
 
 ###### Artículo 102.
 
@@ -1655,19 +1741,7 @@ Asimismo, los informes preventivos, las manifestaciones de impacto ambiental, lo
 
 ###### Artículo 103.
 
-La Secretaría cancelará el Registro de los Prestadores de Servicios en materia de Impacto ambiental, cuando estos:
-
-I. Proporcionen información falsa o imprecisa sobre su identificación como persona moral o física.
-
-II. Incluyan Información falsa o sin sustento en los estudios, análisis, muestreos o monitoreos que realicen.
-
-III. Induzcan a la autoridad competente al error o a la incorrecta apreciación en la evaluación correspondiente.
-
-IV. Pierdan la capacidad jurídica y técnica que dio origen a su registro.
-
-La Secretaría en un plazo de 30 días hábiles contados a partir de la presentación de la solicitud, resolverá sobre la procedencia o improcedencia de la inscripción en el registro. La inscripción al registro deberá ser refrendada anualmente.
-
-En las obras o actividades propuestas de las dependencias y entidades de la Administración Pública Estatal y municipales, se dará preferencia en la asignación para la elaboración de los estudios de impacto ambiental, a las que cuenten con registro vigente.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2020)
 
 ###### Artículo 104.
 
@@ -1675,7 +1749,9 @@ En los casos en que se lleven a cabo obras o actividades que requieran someterse
 
 Para la imposición de las medidas que se citan y de las sanciones a que se refiere el párrafo anterior, la Procuraduría Ambiental deberá determinar el grado de afectación ambiental ocasionado o que pudiera ocasionarse por la realización de las obras o actividades de que se trate. La Secretaría podrá apoyar con asistencia técnica para la evaluación del daño ambiental de las obras y actividades que no cumplan con el procedimiento de evaluación del impacto ambiental.
 
-Asimismo, los infractores se sujetarán al procedimiento de evaluación de impacto y riesgo ambiental, de las obras o actividades que hayan sido iniciadas, sin perjuicio de las sanciones administrativas y del ejercicio de las acciones civiles y penales que resulten aplicables, así como de la imposición que de las medidas de seguridad procedan.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+Asimismo, los infractores se sujetarán al procedimiento de evaluación de impacto y riesgo ambiental, de las obras o actividades que no hayan sido iniciadas, sin perjuicio de las sanciones administrativas y del ejercicio de las acciones civiles y penales que resulten aplicables, así como de la imposición de las medidas de seguridad que procedan.
 
 ###### Artículo 105.
 
@@ -1731,11 +1807,11 @@ En casos de emergencia que ponga en riesgo la integridad de las personas o daño
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 112.
 
-Los propietarios o legítimos poseedores de los predios en donde se distribuye la vida silvestre, tendrán derechos de aprovechamiento sustentable sobre sus ejemplares, partes y derivados en los términos en la Ley General de Vida Silvestre y demás disposiciones aplicables.
+Los propietarios o legítimos poseedores de los predios en donde se distribuye la vida silvestre, tendrán derechos de aprovechamiento sustentable sobre sus ejemplares, partes y derivados en los términos en la Ley General de Vida Silvestre, Zonificación de los Programas de Manejo de las Áreas Naturales Protegidas Estatales y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -1797,7 +1873,9 @@ El titular del Poder Ejecutivo Estatal a través de la Secretaría se coordinar�
 
 Las Áreas Naturales Protegidas son porciones terrestres o acuáticas del territorio estatal representativas de sus diversos ecosistemas, en donde el ambiente original no ha sido esencialmente alterado por la actividad del ser humano o aquellas que a pesar de haber sido afectadas, requieran ser sometidas a programas de preservación o de restauración por su relevancia particular para el Estado. Dichas áreas quedaran sujetas al régimen previsto en este título y los demás ordenamientos legales aplicables.
 
-Los habitantes, propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de Áreas Naturales Protegidas de jurisdicción estatal, deberán sujetarse a las modalidades que de conformidad con la presente Ley establezcan los decretos o certificaciones por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico del territorio que correspondan.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+Los habitantes, propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de Áreas Naturales Protegidas de jurisdicción estatal, deberán sujetarse a las modalidades que de conformidad con la presente Ley, establezcan los Decretos o certificaciones por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en la zonificación del programa de manejo.
 
 En las Áreas Naturales Protegidas de jurisdicción estatal, no podrá autorizarse la creación de nuevos centros de población, así como también queda prohibida la introducción de especies exóticas invasoras.
 
@@ -1867,9 +1945,11 @@ Corresponde al titular del Poder Ejecutivo Estatal, a través de la Secretaría 
 
 Los Ayuntamientos administrarán, manejarán y vigilarán las Áreas Naturales Protegidas de su competencia, en coordinación con las autoridades competentes en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 127.
 
-Toda área natural declarada como protegida, ya sea de competencia estatal, municipal, privada o comunitaria deberá ser inscrita en el Sistema de Áreas Naturales Protegidas del Estado de Chiapas, el cual será administrado por la Secretaría.
+Toda área natural declarada como protegida, ya sea de competencia Estatal, Municipal, Privada o Comunitaria deberá ser inscrita en el Sistema de Áreas Naturales Protegidas del Estado de Chiapas, el cual será administrado por la Secretaría y sujetarse al Reglamento de la Ley Ambiental para el Estado de Chiapas en materia de Áreas Naturales Protegidas vigente.
 
 ###### Artículo 128.
 
@@ -1951,11 +2031,15 @@ I. Las restricciones o prohibiciones de las actividades que puedan alterar los e
 
 II. La promoción para generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad en el territorio de las Áreas Naturales Protegidas y sus zonas de influencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 137.
 
-Previamente a la expedición de la declaratoria para el establecimiento de las Áreas Naturales Protegidas, se deberán realizar los estudios técnicos que justifiquen la constitución de las mismas, de llevarse a cabo los estudios citados, deberá notificarse a los propietarios o poseedores de los predios, incluidos dentro del proyecto del Área Natural Protegida, en forma personal cuando se conozca su domicilio, en caso contrario, la notificación se hará mediante dos publicaciones realizadas en uno de los diarios de mayor circulación en la Entidad, teniendo la segunda publicación efectos de notificación personal para que, dentro del término de 15 días hábiles contados a partir de que surta sus efectos, comparezcan ante la Secretaría a manifestar lo que a sus derechos correspondan o a interponer el recurso de revisión, el cual en su caso, será desahogado en términos de la Ley de Procedimientos Administrativos para el Estado de Chiapas y demás disposiciones legales aplicables.
+Previamente a la expedición de la declaratoria para el establecimiento de las Áreas Naturales Protegidas, se deberán realizar los estudios técnicos que justifiquen la constitución de las mismas.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+Concluidos los estudios citados, deberá notificarse a los propietarios o poseedores de los predios incluidos dentro del proyecto del Área Natural Protegida, en forma personal cuando se conozca su domicilio, en caso contrario, la notificación se hará mediante dos publicaciones en el Periódico Oficial, teniendo la segunda publicación efectos de notificación personal para que, dentro del término de 15 días hábiles contados a partir de que surta sus efectos, comparezcan ante la Secretaría a manifestar lo que a sus derechos correspondan o a interponer el recurso de revisión, el cual en su caso, será desahogado en términos de la Ley de Procedimientos Administrativos para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 En ese sentido, la Secretaría podrá solicitar la opinión de:
 
@@ -1981,37 +2065,51 @@ El Gobierno del Estado, a través de la Secretaría o la autoridad municipal cor
 
 Los programas de manejo para Áreas Naturales Protegidas, serán elaborados a través de un proceso amplio y con la participación efectiva e integral de la Secretaría, las dependencias y entidades competentes, autoridades municipales, instituciones de educación superior, centros de investigación, habitantes de la zona, mujeres, grupos indígenas y otros interesados en el tema.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 141.
 
-El programa de manejo de las Áreas Naturales Protegidas, deberá contener lo siguiente:
+El Programa de Manejo de las Áreas Naturales Protegidas, deberá contener lo siguiente:
 
-I. La descripción de las características físicas, biológicas, sociales, históricas, económicas y culturales del área y de relevancia dentro del contexto nacional, estatal y municipal, así como el análisis de la situación que guarda la tenencia de la tierra y el uso del suelo en la superficie respectiva.
+I. Introducción.
 
-II. Los objetivos de conservación a corto, mediano y largo plazos.
+II. Descripción de las características físicas-geográficas, biológicas, sociales, históricas, económicas y culturales del área y de relevancia dentro del contexto Nacional, Internacional, Estatal y Municipal, así como el análisis de la situación que guarda la tenencia de la tierra y el uso del suelo.
 
-III. La regulación de los usos de suelo, del manejo de los recursos naturales y de la realización de actividades en el área y en sus distintas zonas, de acuerdo con sus condiciones ecológicas, las actividades compatibles con las mismas y con los programas de desarrollo urbano respectivos.
+III. Los objetivos de conservación del Área Natural Protegida.
 
-IV. Las acciones a realizar en el corto, mediano y largo plazos para la conservación, restauración e incremento de los recursos naturales; para la investigación y educación ambiental; y, en su caso, para el aprovechamiento sustentable del área y sus recursos.
+IV. La regulación del uso de suelo, del manejo de los recursos naturales y de realización de actividades en el área.
 
-V. Las bases para la administración, mantenimiento y vigilancia del área.
+V. Acciones a realizar en el área acorto (sic), mediano y largo plazo para la conservación, restauración, protección, investigación, educación ambiental y en su caso, para el aprovechamiento sustentable del Área Natural Protegida.
 
-VI. El señalamiento de las disposiciones jurídicas ambientales aplicables.
+VI. Diagnóstico y problemática ambiental del área.
 
-VII. Los objetivos específicos del área natural protegida.
+VII. Zonificación del Área Natural Protegida, y de Zona Núcleo y amortiguamiento, así como subzonas que se consideren.
 
-VIII. Las reglas administrativas a que se sujetarán las actividades que se desarrollen en el área natural protegida.
+VIII. Reglas Administrativas, bases para la administración, mantenimiento, vigilancia del Área y de resguardo de la zona.
 
-IX. Los inventarios biológicos existentes y los que se prevean realizar.
+IX. Bibliografía.
 
-X. La vigilancia y las actividades de resguardo de la zona.
+X. Anexos.
 
-Asimismo deberá publicarse en el Periódico Oficial, un resumen del programa de manejo que contenga por lo menos la zonificación primaria y secundaria en el cual se incluya un plano de localización del área.
+a) Listado de flora y fauna.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+b) Normas oficiales aplicables.
+
+c) Cartografías.
+
+Asimismo, deberá publicarse en el Periódico Oficial, un resumen del Programa de Manejo que contenga introducción, ubicación, objetivos, zonificación en el cual se incluya planos o mapas de localización del área y reglas administrativas. Para la actualización del Programa de Manejo de las Áreas Naturales Protegidas, se deberá de hacer de la misma forma.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 142.
 
-Las declaratorias de las Áreas Naturales Protegidas, deberán publicarse en el Periódico Oficial y un extracto de las mismas en uno de los diarios de mayor circulación en la Entidad; y se notificarán a los propietarios o poseedores de los predios incluidos dentro de la delimitación del área protegida, en forma personal cuando se conocieren sus domicilios, en caso contrario, se hará una segunda publicación la que surtirá efectos de notificación personal. Las declaratorias de las Áreas Naturales Protegidas se inscribirán en el Registro Público de la Propiedad y del Comercio y del Registro Agrario Nacional que correspondan.
+Las declaratorias de las Áreas Naturales Protegidas, deberán publicarse en el Periódico Oficial y un extracto de las mismas en uno de los diarios de circulación en la Entidad.
+
+Se notificará a los propietarios o poseedores de los predios incluidos dentro de la delimitación del área protegida, en forma personal cuando se conocieren sus domicilios.
+
+En caso, de que se desconozca el domicilio se realizara una segunda publicación en el Periódico Oficial, misma que surtirá efectos de notificación personal.
+
+Las declaratorias de las Áreas Naturales Protegidas se inscribirán en el Registro Público de la Propiedad y del Comercio y del Registro Agrario Nacional.
 
 ###### Artículo 143.
 
@@ -2067,9 +2165,11 @@ Para coadyuvar en la conservación, administración, manejo, desarrollo y vigila
 
 La Secretaría, a través del Sistema de Áreas Naturales Protegidas y los acuerdos de coordinación que correspondan, ejercerá el manejo y la administración de las Áreas Naturales Protegidas comprendidas dentro del territorio estatal.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 155.
 
-La Secretaría establecerá la integración de los Comités de Manejo y Conservación de las Áreas Naturales Protegidas y promoverá la participación de la población en general, organizaciones, grupos e instituciones de los sectores público, privado y social, con el fin de lograr la congruencia de planes, programas y acciones sectoriales en el área de estudio, así como para resolver los conflictos ambientales y promover el desarrollo sustentable.
+La Secretaría establecerá la integración de los Comités de Manejo y Conservación de las Áreas Naturales Protegidas y promoverá la participación de la población en general, organizaciones, grupos e instituciones de los sectores público, privado y social, con el fin de lograr la congruencia de planes, programas y acciones sectoriales en el área de estudio, así como para resolver los conflictos ambientales y promover el desarrollo sustentable, para esto se creara un reglamento para establecer y regular el funcionamiento de dichos comités.
 
 ###### Artículo 156.
 
@@ -2077,35 +2177,21 @@ La autoridad hacendaria del Estado, a solicitud expresa de la Secretaría, tendr
 
 La Secretaría fijará las tarifas conforme a los costos de operación de cada área natural protegida y los costos de los servicios prestados. Igualmente, las revisará cada año, a fin de ajustarlas de acuerdo con el índice nacional de precios al consumidor.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ### Capítulo I. Prevención y Control de la Contaminación de la Atmósfera
 
 ###### Artículo 157.
 
-Las zonas de restauración son aquéllas áreas que, por presentar desequilibrios ecológicos o alteraciones ambientales, están sujetas a los programas de restauración ecológica, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellas se desarrollaban. La restauración se realizará exclusivamente con especies nativas.
-
-En la formulación, ejecución, seguimiento y evaluación de dichos programas, el titular del Poder Ejecutivo Estatal a través de la Autoridad competente, deberá promover la participación de los propietarios, poseedores, organizaciones sociales, instituciones académicas y centros de investigación, públicos o privados, pueblos indígenas, gobiernos municipales, y demás personas interesadas.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2020)
 
 ###### Artículo 158.
 
-En aquellos casos en que se estén produciendo procesos acelerados de desertización o degradación que impliquen la pérdida de recursos de difícil regeneración, recuperación, restablecimiento o resiliencia a los ecosistemas o sus elementos, la Secretaría, promoverá ante el titular del Poder Ejecutivo Estatal la expedición de declaratorias para el establecimiento de zonas de restauración. Para tal efecto, la Secretaría integrará los estudios técnicos que justifiquen su constitución. Las declaratorias deberán publicarse en el Periódico Oficial, y serán inscritas en el Registro Público de la Propiedad y del Comercio, y el Registro Agrario Nacional correspondiente.
-
-Las declaratorias podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad, y expresarán:
-
-I. La delimitación de la zona de restauración ecológica, precisando superficie, ubicación y deslinde.
-
-II. La evaluación de la zona afectada y su impacto, así como la recomendación de las acciones necesarias para regenerar, recuperar o restablecer las condiciones naturales de la zona.
-
-III. Las condiciones a que se sujetarán dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad.
-
-IV. Los lineamientos para la elaboración y ejecución del programa de restauración correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, gobiernos municipales y demás personas interesadas.
-
-V. Los plazos para la ejecución del programa de restauración ecológica respectivo.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2020)
 
 ###### Artículo 159.
 
-Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en las zonas que fueren materia de las declaratorias a que se refiere el artículo anterior, quedarán sujetos a la aplicación de las modalidades previstas en las propias declaratorias.
-
-Los notarios y cualesquiera otros fedatarios públicos harán constar tal circunstancia al autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan. Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2020)
 
 ## Título Quinto. Protección al Ambiente
 
@@ -2124,6 +2210,10 @@ Para la protección a la atmósfera se considerarán los siguientes criterios:
 I. El Gobierno del Estado garantizará mediante políticas públicas, programas y acciones, que la calidad del aire sea satisfactoria en todo el territorio del Estado.
 
 II. Las emisiones de contaminantes a la atmósfera, sean de fuentes artificiales o naturales, deben ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y del ambiente.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2020)</small>
+
+III. El Gobierno del Estado a través de la Secretaría regularizará aquellas actividades que estén generando emisiones a la atmósfera incluidas las de competencia municipal, en tanto el o los municipio(s) no cuente(n) con éste tipo de autorizaciones a efecto de reducir y controlar la contaminación para asegurar una calidad del aire satisfactoria para el bienestar de la población y del medio ambiente.
 
 ###### Artículo 162.
 
@@ -2227,9 +2317,17 @@ Sólo se permitirá la quema de combustible a cielo abierto en actividades de ad
 
 #### Sección Tercera. Control de Emisiones Provenientes de Fuentes Móviles
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 171.
 
-El Gobierno del Estado y los Municipios, establecerán y operarán programas de control y verificación de las emisiones de los vehículos automotores que les corresponda regular, para limitar la circulación de automotores que emitan contaminantes atmosféricos cuyos niveles rebasen los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas.
+Al Gobierno del Estado le corresponde establecer y operar el programa de verificación vehicular en todo el Estado de Chiapas, de los vehículos automotores, para limitar la circulación de aquellos que emitan contaminantes atmosféricos cuyos niveles rebasen los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas.
+
+Los propietarios o poseedores de vehículos automotores, verificarán éstos con la periodicidad y en los centros de verificación vehicular que para el efecto autorice la Secretaría.
+
+Cuando en el procedimiento de verificación de emisiones contaminantes, indique que el vehículo excede los límites permisibles. El propietario o poseedor deberá efectuar las reparaciones necesarias al vehículo que las genere, en el plazo que para tal efecto establezcan las autoridades ambientales, a fin de que se cumpla con las Normas Oficiales Mexicanas correspondientes.
+
+La omisión de la verificación o el incumplimiento de las medidas que se establezcan para el control de emisiones serán sancionados en los términos previstos en esta Ley, y en otras disposiciones jurídicas aplicables.
 
 ###### Artículo 172.
 
@@ -2511,7 +2609,9 @@ La Secretaría diseñará los procedimientos y formatos para la presentación de
 
 ## Título Sexto. Regulación de Actividades que pueden Generar Efectos Nocivos
 
-### Capítulo II. Extracción y Aprovechamiento de Minerales, Resinas Fosilizadas y Sustancias
+### Capítulo II. Extracción de materiales pétreos no reservados a la Federación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 207.
 
@@ -2553,11 +2653,13 @@ En el caso de que una industria que lleve a cabo actividades riesgosas, se encue
 
 (DEROGADO, P.O. 26 DE ABRIL DE 2017)
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ### Capítulo III. Servicios Municipales
 
 ###### Artículo 215.
 
-El aprovechamiento de minerales, resinas fosilizadas o sustancias no reservadas a la Federación que constituyan depósito de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su fragmentación o intemperismo, y que se utilicen como materia prima, requerirá autorización de la Secretaría, la cual dictará las medidas de protección ambiental y de restauración ecológica que deban ponerse en práctica en los bancos de extracción, así como en las instalaciones de manejo y procesamiento.
+El aprovechamiento de materiales pétreos no reservados a la Federación que constituyan depósito de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su fragmentación o intemperismo, y que se utilicen como materia prima, requerirá autorización de la Secretaría, la cual dictará medidas de protección ambiental y de restauración ecológica que deben ponerse en práctica en los bancos de extracción, así como en las instalaciones de manejo y procesamiento.
 
 En la realización de tales actividades se observarán las disposiciones de esta Ley, sus reglamentos y las Normas Oficiales Mexicanas sobre aprovechamiento sustentable de los recursos renovables y no renovables, así como las Normas Técnicas Ambientales Estatales y las especificaciones que para tal efecto expida la Secretaría.
 
@@ -2581,9 +2683,11 @@ VI. Presentar a la Secretaría los informes técnicos sobre las consecuencias qu
 
 VII. Generar un informe técnico en un plazo no mayor a cinco días hábiles a la Secretaría, sobre las consecuencias ambientales que se generen por contingencias ambientales o bien por los riesgos de las actividades propias de su ramo.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 217.
 
-La Secretaría, a través de la Procuraduría Ambiental, vigilará que las personas físicas o morales responsables de la exploración, explotación y aprovechamiento de los recursos minerales, resinas fosilizadas o materiales a que se refiere este Capítulo, cumplan con las disposiciones de la presente Ley y demás disposiciones legales aplicables en la materia.
+la Secretaría, a través de la Procuraduría Ambiental, vigilará que las personas físicas o morales responsables de la explotación y aprovechamiento de materiales pétreos a que se refiere este Capítulo, cumplan con las disposiciones de la presente Ley y demás disposiciones legales aplicables en la materia.
 
 ### Capítulo IV. Residuos Sólidos Urbanos y de Manejo Especial
 
@@ -2603,11 +2707,11 @@ Los proyectos de los sistemas de recolección, almacenamiento, transporte, aloja
 
 Los Ayuntamientos son responsables ante la Secretaría sobre la operación y funcionamiento de los sistemas concesionados total o parcialmente a los particulares o terceros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 221.
 
-El Titular del Poder Ejecutivo Estatal, podrá suscribir convenios o acuerdos de coordinación y asesoría con el Ejecutivo Federal y los Ayuntamientos para:
+El titular del Poder Ejecutivo Estatal propondrá la celebración de convenios o acuerdos de coordinación con el Ejecutivo Federal y con los Ayuntamientos para:
 
 I. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial.
 
@@ -2619,9 +2723,7 @@ III. La fabricación y utilización de empaques y envases para todo tipo de prod
 
 IV. La disposición final adecuada de biosólidos y sólidos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales que no se consideren como residuos peligrosos, en los términos que así determine la normatividad vigente.
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
-
-V. La creación de centros de acopio y la implementación de sistemas de reciclaje de residuos de popotes, bolsas de plástico y poliestireno expandido y demás productos plásticos de un solo uso.
+V. (DEROGADA, P.O. 5 DE AGOSTO DE 2020)
 
 ###### Artículo 222.
 
@@ -2691,7 +2793,9 @@ Quienes generen, reutilicen o reciclen residuos de manejo especial y de los resi
 
 Se requiere autorización de la Secretaría para el establecimiento de confinamientos de residuos de manejo especial y de los residuos sólidos urbanos y sólo se incluirán los residuos que no puedan ser técnica y económicamente sujetos de reutilización, reciclamiento o destrucción térmica o físico química, y no se permitirá el confinamiento de residuos en estado líquido.
 
-Así mismo se requerirá autorización de la Secretaría a quienes generen, reutilicen o reciclen, transporten, almacenen, traten y/o confinen residuos sólidos urbanos y de manejo especial.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+Asimismo, se requerirá autorización de la Secretaría a quienes generen, reutilicen o reciclen, transporten, almacenen, traten y/o confinen residuos sólidos urbanos y de manejo especial, misma que deberá refrendarse anualmente.
 
 ###### Artículo 230.
 
@@ -2763,7 +2867,9 @@ Se prohíbe a los establecimientos comerciales la venta y entrega de productos d
 
 Quedan excluidas de esta prohibición, aquellas que se empleen por razones de salubridad en el almacenamiento o conservación de alimentos y no resulte factible la utilización de un material sustituto.
 
-Se excluyen de esta prohibición los popotes que se empleen en hospitales y/o clínicas de salud por cuestiones médicas.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+Se excluyen de esta prohibición los productos plásticos que se empleen en hospitales y/o clínicas de salud por cuestiones médicas.
 
 ## Título Séptimo. Procuraduría Ambiental en el Estado de Chiapas
 
@@ -2847,11 +2953,13 @@ c) La reincidencia en la comisión de infracciones y la gravedad de la conducta,
 
 d) Las demás que señalen las leyes o reglamentos aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 238 Ter.
 
-En particular, los ingresos que se obtengan de las multas por infracciones a lo dispuesto en la prohibición de bolsas de plástico, popotes, artículos de unicel para alimentos, productos de usanza alimenticia, artículos de higiene y/o uso personal y de diversión elaborados con materiales no biodegradables o no compostables, se destinarán a la integración del Fondo Estatal Ambiental para promover la investigación y desarrollo de materiales reutilizables y alternativas a las empresas productoras y comercializadoras de bolsas de plástico, popotes y recipientes de unicel; así como para desarrollar campañas de difusión, actividades de educación ambiental, capacitación y otras similares; para generar conciencia en la población de los efectos perjudiciales en el ambiente que producen estos productos.
+En particular, los ingresos que se obtengan de las multas por infracciones a lo dispuesto en la prohibición de bolsas de plásticos, popotes, artículos de unicel para alimentos, productos de usanza alimenticia, artículos de higiene y/o uso personal y de diversión elaborados con materiales no biodegradables o no compostables, se destinarán a la integración del Fondo Estatal Ambiental, para promover y desarrollar campañas de difusión, actividades de educación ambiental, capacitación y otras similares; para generar conciencia en la población de los efectos perjudiciales que el ambiente generan estos productos.
+
+En el caso de plásticos biodegradables se deberá demostrar la descomposición física o biológica en CO2, biomasa y agua en un plazo menor a seis meses en condiciones naturales.
 
 ###### Artículo 239.
 
@@ -3152,3 +3260,13 @@ a) En Supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia
 b) En establecimientos dedicados a la producción y venta de mayoreo o de menudeo de bolsas, popotes de plásticos (sic) y artículos de unicel en alimentos, en un plazo de dieciocho meses a la entrada en vigor del presente decreto.
 
 Concluidos los plazos señalados en los incisos anteriores, todos los establecimientos comerciales y sujetos obligados, deberán de llevar a cabo la eliminación definitiva de las bolsas con material no biodegradable o no compostable, popotes de base polimérica, artículos de unicel para alimentos, así como productos de higiene y/o uso personal, productos de diversión y de usanza alimenticia fabricados con plástico no biodegradable o cualquier material no compostable, desechables después de su primer y único uso.
+
+P.O. 5 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 253 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Los trámites iniciados ante la Secretaría de Medio Ambiente e Historia Natural, previos a la presente reforma, seguirán sus procesos hasta su conclusión, con fundamento en la legislación vigente, hasta antes de la aprobación del presente Decreto.
