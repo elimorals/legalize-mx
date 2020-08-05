@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2020-06-10"
+last_updated: "2020-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -3971,6 +3971,12 @@ II El excedente del ejercicio actual con relación al 2015, se distribuirá con 
 
 La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones establecidas en este artículo, sean iguales o menores a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente recibida por el Estado en el año de cálculo, en proporción al monto asignado para cada Municipio en el año 2015.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2020)</small>
+
+###### Artículo 278-A.
+
+La participación que efectivamente reciba el Estado del Impuesto sobre la Renta que se cause por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto sobre la Renta, se distribuirá a los Municipios en una proporción del 20%, dentro de los cinco días siguientes a aquel en que el Estado las reciba, con base en los coeficientes determinados para la distribución del Fondo General de Participaciones, señalados en el artículo 273, fracción II de este Código.
+
 ###### Artículo 279.
 
 El Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos se integrará con los recursos recaudados según lo previsto en el Título Cuarto de la Ley de Ingresos sobre Hidrocarburos, y se distribuirá conforme a lo señalado en las Reglas de Operación para la Distribución y Aplicación de los Recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, que emita la Secretaría de Hacienda y Crédito Público.
@@ -6910,3 +6916,11 @@ Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarqu�
 Artículo Tercero.- La Secretaria de Hacienda del Estado, deberá realizar un estudio cualitativo y cuantitativo con el objeto de informar a los Municipios del Estado, respecto a los ajustes que realice al Ramo General 28, de las participaciones de los Estados, Municipios y Distrito Federal, en ingresos federales, con el objeto de que conozcan las variaciones realizadas a los mismos.
 
 La Secretaria de Hacienda del Estado, deberá informar al Congreso del Estado, a través de la Comisión de Hacienda, sobre los ajustes que realice en cumplimiento el presente decreto, con la finalidad de contar con la información necesaria al momento de la revisión de los presupuestos de egresos y las cuentas públicas de los Municipios del Estado de Chiapas.
+
+P.O. 5 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 252 POR EL QUE SE ADICIONA EL ARTÍCULO 278-A AL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
