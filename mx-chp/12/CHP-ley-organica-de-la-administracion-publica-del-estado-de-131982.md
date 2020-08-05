@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-131982"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-08"
-last_updated: "2020-02-12"
+last_updated: "2020-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020.
 
 Ley publicada en el Número 414 del Periódico Oficial del Estado de Chiapas, el sábado 8 de diciembre de 2018.
 
@@ -369,13 +369,13 @@ XL. Actuar en calidad de Notario Público en los actos en que participe el Poder
 
 XLI. Certificar y dar fe, a través del servidor público que señale su reglamento interior, de los documentos, decretos, acuerdos, dictámenes, reglamentos, nombramientos, circulares, periódicos oficiales y demás disposiciones de carácter jurídico o administrativo, que emita el Titular del Poder Ejecutivo o cualquiera de sus Dependencias, Entidades Paraestatales u órganos administrativos.
 
-XLII. Suscribir y formalizar, a través del servidor público que señale su reglamento interior, los actos jurídicos relativos a la adquisición e incorporación de bienes al patrimonio del Estado a cargo de la Administración Pública estatal, así como llevar la representación de la presidencia del órgano colegiado encargado de determinar la procedencia de la (sic) adquisiciones de tierras y bienes inmuebles al patrimonio del Estado.
+XLII. (DEROGADA, P.O. 5 DE AGOSTO DE 2020)
 
-XLIII. Enajenar, a través del servidor público que señale su reglamento interior y en representación del Titular del Poder Ejecutivo, los bienes inmuebles a cargo de la Administración Pública estatal, previa autorización correspondiente del Honorable Congreso del Estado.
+XLIII. (DEROGADA, P.O. 5 DE AGOSTO DE 2020)
 
-XLIV. Normar la administración de almacenes, inventarios y avalúos de los bienes del Estado a cargo de la Administración Pública estatal, así como normar y validar los arrendamientos de bienes inmuebles que se justifiquen, tomando en consideración las disposiciones de austeridad, avalúos y valores catastrales.
+XLIV. (DEROGADA, P.O. 5 DE AGOSTO DE 2020)
 
-XLV. Administrar los bienes del Estado, a cargo de la Administración Pública estatal, conforme lo establezcan las leyes y la normatividad aplicable.
+XLV. (DEROGADA, P.O. 5 DE AGOSTO DE 2020)
 
 XLVI. Los demás asuntos que le corresponda, en los términos de las leyes aplicables y los que determine el Titular del Poder Ejecutivo del Estado.
 
@@ -1436,3 +1436,13 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contrave
 Artículo Tercero.- El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, en un plazo que no exceda de 90 días hábiles, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
 
 Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 5 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 256 POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- Las atribuciones que por este decreto se derogan, se entenderán conferidas, transferidas, asumidas y atendidas por el organismo público descentralizado denominado Instituto del Patrimonio del Estado, así como, las referencias y/o menciones que las demás disposiciones legales otorgan a la anterior Dirección de Patrimonio adscrita a la Secretaría General de Gobierno.
