@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-archivos-de-chiapas-4160"
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-20"
-last_updated: "1993-10-20"
+last_updated: "2020-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DEL SISTEMA ESTATAL DE ARCHIVOS DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE ARCHIVOS DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 5 DE AGOSTO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA ESTATAL DE ARCHIVOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 20 de octubre de 1993.
 
@@ -198,3 +200,49 @@ EL EJECUTIVO DEL ESTADO DISPONDRA SE PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMP
 DADA EN EL SALON DE SESIONES DEL PALACIO DEL H. PODER LEGISLATIVO DEL ESTADO EN TUXTLA GUTIERREZ, CHIAPAS, A LOS DIECISIETE DIAS DEL MES DE OCTUBRE DE MIL NOVECIENTOS NOVENTA Y TRES.- DIPUTADO PRESIDENTE.- C.P. FRANCISCO DE JESUS ZEPEDA BERMUDEZ.- DIPUTADO SECRETARIO.- C. NORMA REBECA ALVAREZ RINCON.- DIPUTADO SECRETARIO.- DR. VALDEMAR A. ROJAS LOPEZ.- RUBRICAS.
 
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN EL PALACIO DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS DIECINUEVE DIAS DEL MES DE OCTUBRE DE MIL NOVECIENTOS NOVENTA Y TRES.- C. ELMAR HARALD SETZER MARSEILLE.- GOBERNADOR DEL ESTADO.- LIC. RAFAEL M. GONZALEZ LASTRA.- SECRETARIO DE GOBIERNO.- LIC. JOSE CARLOS PARIENTE MINERO.- OFICIAL MAYOR DE GOBIERNO.- PROFR. GILBERTO O. ALBORES CRUZ.- SECRETARIO DE EDUCACION, CULTURA Y SALUD.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 251 LEY DE ARCHIVOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- A partir de la entrada en vigor de la Ley, se abroga la Ley del Sistema Estatal de Archivos de Chiapas publicada en el Periódico Oficial, número 276, de fecha 20 de octubre de 1993, y se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero.- En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia en lo que no se oponga a lo dispuesto en la presente Ley, o aquellas emitidas por el Consejo Nacional.
+
+Artículo Cuarto.- Los recursos humanos, financieros y materiales, que hasta la entrada en vigor de la presente Ley, se encontraren asignados a la Dirección de Archivo General y Notarías del Estado, relacionados con el Departamento de Archivo General del Estado, como parte de la estructura orgánica de la Secretaría General de Gobierno, serán transferidos a la brevedad posible al Organismo Público Descentralizado que por mandato de la presente Ley se crea.
+
+Los recursos humanos, financieros y materiales, que hasta la entrada en vigor de la presente Ley se encontraren asignados a la Dirección de Archivo General y Notarías del Estado, relacionados con el Departamento de Notarías, seguirán formando parte de la estructura orgánica de la Secretaría General de Gobierno, bajo la forma estructural que tenga a bien determinar con la autorización correspondiente de la Secretaría de Hacienda.
+
+Artículo Quinto.- Las atribuciones y/o referencias en materia de archivos, que las disposiciones legales otorgan hasta la entrada en vigor de la presente ley a la Dirección de Archivo General y Notarías del Estado de la Secretaría General de Gobierno, se entenderán conferidas y serán asumidas por el Organismo Público Descentralizado denominado Archivo General del Estado de Chiapas.
+
+Artículo Sexto.- Los compromisos y procedimientos en materia archivística, que a la entrada en vigor de la presente Ley hubiere contraído, tenga asignado o le correspondan a la Dirección de Archivo General y Notarías del Estado de la Secretaría General de Gobierno, se entenderán conferidos y asumidos por el Organismo Público Descentralizado denominado Archivo General del Estado de Chiapas.
+
+Artículo Séptimo.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para la creación de la estructura orgánica y funcional del organismo que se crea, en plena observancia a las disposiciones aplicables, debiendo la Secretaría de Hacienda, prever en el Presupuesto de Egresos, la suficiencia presupuestaría necesaria que otorgará al Archivo General del Estado de Chiapas, así como dictaminar la estructura funcional del mismo, para la consecución de su objeto.
+
+Artículo Octavo.- La Junta de Gobierno del Archivo General del Estado de Chiapas, deberá instalarse de acuerdo a su conformación, en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Noveno.- El Director General, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley, deberá someter a consideración de la Junta de Gobierno, el Reglamento Interior del Archivo General del Estado de Chiapas, para su aprobación, debiendo ser remitido a las instancias correspondientes para efectos de su publicación.
+
+Artículo Décimo.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Artículo Décimo Primero.- El Consejo Estatal deberá instalarse y sesionar dentro de los sesenta días hábiles posteriores a la entrada en vigor de la Ley.
+
+Artículo Décimo Segundo.- El Registro Estatal de Archivos deberá quedar conformado en el plazo de un año, contado a partir de la entrada en vigor de la presente Ley.
+
+Artículo Décimo Tercero.- Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no hayan sido organizados y valorados, deberán ser sometidos a los procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico oficial del sujeto obligado.
+
+Artículo Décimo Cuarto.- Los documentos transferidos a un archivo histórico o al Archivo General del Estado, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Aquellos sujetos obligados que cuenten con archivos históricos deberán prever en el programa anual de desarrollo archivístico, el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico oficial del sujeto obligado.
+
+Artículo Décimo Quinto.- Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo del Estado en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada su entrada (sic) vigor.
+
+Artículo Décimo Sexto.- Los sujetos obligados deberán establecer sus programas de capacitación en materia de gestión documental y administración de archivos, a la entrada en vigor de la presente Ley. Asimismo, conformarán sus Sistemas Institucionales con el personal con que cuentan actualmente.
