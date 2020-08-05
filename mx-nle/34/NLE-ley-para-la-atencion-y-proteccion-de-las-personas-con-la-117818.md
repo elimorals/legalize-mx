@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-atencion-y-proteccion-de-las-personas-con-la-117818
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-17"
-last_updated: "2019-09-25"
+last_updated: "2020-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "NLE"
 ---
 # LEY PARA LA ATENCION Y PROTECCION DE LAS PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA Y/O TRANSTORNOS (SIC) DEL NEURODESARROLLO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA ATENCION Y PROTECCION DE LAS PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 5 DE AGOSTO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2020 EN EL P.O. DEL ESTADO DE ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y/O TRANSTORNOS (SIC) DEL NEURODESARROLLO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 17 de diciembre de 2016.
 
@@ -376,3 +380,15 @@ P.O. 25 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 155. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 2; LA DENOMINACIÓN DEL CAPÍTULO III, EL PÁRRAFO PRIMERO DEL ARTÍCULO 11 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley para la Atención y Protección de las Personas con la Condición del Espectro Autista y/o Trastornos del Neurodesarrollo del Estado de Nuevo León, publicada en el Periódico Oficial No. 161, en fecha 17. de diciembre de 2016, y sus reformas.
+
+TERCERO. El Ejecutivo Estatal, expedirá las disposiciones reglamentarias de la presente Ley; en un plazo no mayor a 90 días, a partir de la entrada en vigor de la presente Ley.
+
+CUARTO. La Secretaria de Salud, someterá a consideración del Titular del Ejecutivo Estatal, las políticas, programas y proyectos de la investigación científica y de formación de recursos humanos, profesionales y técnicos especialistas en la condición del espectro autista, en un plazo que no rebase de los 180 días, a partir de la entrada en vigor de la presente Ley.
