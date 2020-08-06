@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2020-07-06"
+last_updated: "2020-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NAY"
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE AGOSTO DE 2020.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -91,9 +93,9 @@ X. Instituto: El Instituto de Capacitación Especializada en Procuración de Jus
 
 XI. Servicio de carrera: Al Servicio de Carrera de Procuración de Justicia;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(F. DE E., P.O. 6 DE AGOSTO DE 2020)</small>
 
-XII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado 8, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
+XII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
 
