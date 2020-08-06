@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2020-05-09"
+last_updated: "2020-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -913,11 +913,13 @@ En el caso en que el sujeto activo del delito sea delincuente primario y tenga, 
 
 Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa de libertad, el juez de control o el tribunal, de oficio o a petición de parte motivando su resolución, podrán prescindir de ella o sustituirla por una medida de seguridad, para lo cual se apoyarán siempre en dictámenes de peritos.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-Cuando se cometa un delito en contra de algún miembro de la familia, el juez de control o el tribunal podrán imponer el tratamiento previsto por el delito de violencia familiar, independientemente de las penas relativas al delito.
+Cuando se cometa un delito en contra de algún miembro de la familia, el juez de control o el tribunal deberá imponer el tratamiento previsto por el delito de violencia familiar, independientemente de las penas relativas al delito.
 
-En los delitos que por cuestiones de género sean cometidos en agravio de mujeres, se aumentará la pena privativa de la libertad en una tercera parte.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+En los delitos que por cuestiones de género sean cometidos en agravio de mujeres, se aumentará la pena privativa de la libertad en una tercera parte, y se impondrá a los agresores trabajo en beneficio de la comunidad y la asistencia a programas reeducativos, integrales, especializados y gratuitos, en los términos de los artículos 58 y 59 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -6974,3 +6976,9 @@ P.O. 9 DE MAYO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco" con excepción de lo previsto en el artículo segundo transitorio del presente decreto.
 
 SEGUNDO. La reforma al artículo 243 del Código Penal del Estado de Jalisco, entrará en vigor una vez que la Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria de Jalisco emita las disposiciones normativas correspondientes en materia de trazabilidad.
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27926/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO PENAL Y DE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO, TODAS DEL ESTADO DE JALISCO, CON EL OBJETO DE ESTABLECER QUE EN LOS DELITOS QUE SEAN COMETIDOS POR CUESTIONES DE GÉNERO EN AGRAVIO DE MUJERES, LA ASISTENCIA A PROGRAMAS REEDUCATIVOS, INTEGRALES, ESPECIALIZADOS Y GRATUITOS, Y EL TRABAJO EN BENEFICIO DE LA COMUNIDAD, SERÁN OBLIGATORIOS PARA LAS PERSONAS AGRESORAS DE MUJERES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
