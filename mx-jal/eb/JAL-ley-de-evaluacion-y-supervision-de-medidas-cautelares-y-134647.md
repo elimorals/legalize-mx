@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-evaluacion-y-supervision-de-medidas-cautelares-y-134647"
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-25"
-last_updated: "2019-06-29"
+last_updated: "2020-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Especial al Número 21 Bis del Periódico Oficial del Estado de Jalisco, el lunes 25 de marzo de 2019.
 
@@ -202,6 +202,18 @@ I. Prestar servicio social a favor del Estado o de Instituciones de Beneficencia
 II. Tener un trabajo o empleo o adquirir en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia; y
 
 III. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez de control.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+###### Artículo 17Bis.
+
+La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, auxiliará en la ejecución durante el proceso penal de las condicionantes siguientes:
+
+I. Prestar servicio social a favor del Estado o de Instituciones de Beneficencia Pública las personas agresoras de mujeres;
+
+II. Evaluar en conjunto con la Secretaría de Seguridad para la colocación de localizadores electrónicos en casos de personas agresoras de mujeres; y
+
+III. Sobre el diseño e implementación de programas reeducativos, integrales y gratuitos, para personas agresoras de mujeres.
 
 ###### Artículo 18.
 
@@ -806,3 +818,9 @@ SEGUNDO. Queda sin efecto cualquier disposición legal o reglamentaria que se op
 TERCERO. Se autoriza al titular del Poder Ejecutivo para que por conducto de la Secretaría de la Hacienda Pública, lleve a cabo las modificaciones presupuestales necesarias para dar cumplimiento al presente decreto de conformidad a la suficiencia presupuestal.
 
 El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar en 30 días posteriores, sobre las adecuaciones llevadas a cabo en los términos del presente decreto.
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27926/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO PENAL Y DE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO, TODAS DEL ESTADO DE JALISCO, CON EL OBJETO DE ESTABLECER QUE EN LOS DELITOS QUE SEAN COMETIDOS POR CUESTIONES DE GÉNERO EN AGRAVIO DE MUJERES, LA ASISTENCIA A PROGRAMAS REEDUCATIVOS, INTEGRALES, ESPECIALIZADOS Y GRATUITOS, Y EL TRABAJO EN BENEFICIO DE LA COMUNIDAD, SERÁN OBLIGATORIOS PARA LAS PERSONAS AGRESORAS DE MUJERES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
