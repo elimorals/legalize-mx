@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-firma-electronica-avanzada-para-el-estado-de-jalisco-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-26"
-last_updated: "2013-12-26"
+last_updated: "2020-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 26 de diciembre de 2013.
 
@@ -59,7 +59,9 @@ I. En el Poder Ejecutivo: el Titular de éste, así como los de sus respectivas 
 
 II. En el Poder Legislativo: el Congreso del Estado y sus órganos administrativos, técnicos y auxiliares;
 
-III. En el Poder Judicial: el Supremo Tribunal de Justicia, Tribunal Electoral, Tribunal de lo Administrativo, juzgados de primera instancia, menores y de paz y el Consejo de la Judicatura del Estado;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+III. En el Poder Judicial; el Supremo Tribunal de Justicia, juzgados de primera instancia, menores y de paz y el Consejo de la Judicatura del Estado;
 
 IV. Los Ayuntamientos del Estado de Jalisco, así como los organismos paramunicipales de la Administración Pública Municipal;
 
@@ -518,3 +520,11 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27932/LXII/20 QUE REFORMA EL ARTÍCULO 2 DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
