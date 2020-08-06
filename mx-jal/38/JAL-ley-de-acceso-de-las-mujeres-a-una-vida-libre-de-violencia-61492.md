@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2020-07-01"
+last_updated: "2020-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -1591,11 +1591,11 @@ IV. El seguimiento e incumplimiento de las mismas.
 
 ### CAPÍTULO VI. DE LOS CENTROS DE ATENCIÓN Y REHABILITACIÓN PARA PERSONAS AGRESORAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 58.
 
-Las personas agresoras deberán asistir de manera voluntaria o previa resolución de autoridad competente a los centros de rehabilitación para obtener la ayuda profesional adecuada a efecto de que superen y controlen emocionalmente la conducta agresiva que dio origen a la intervención de la autoridad.
+Las personas agresoras deberán asistir de manera obligatoria a los programas de reeducación integral para la erradicación de las conductas violentas hacia las mujeres, por mandato de autoridad competente, impartidos en los centros de rehabilitación para obtener la ayuda profesional adecuada a efecto de que superen y controlen emocionalmente la conducta agresiva que dio origen a la intervención de la autoridad.
 
 Los centros deben funcionar en lugar diferente a donde se instalan los centros de refugios temporales para mujeres víctimas de violencia.
 
@@ -1806,3 +1806,9 @@ TERCERO. Se instruye al Consejo General del Instituto Electoral y de Participaci
 CUARTO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Gobierno del Estado de Jalisco, procurará dar cumplimiento a las disposiciones del presente decreto para traducir, publicar y difundir la reforma en lenguas de comunidades y pueblos originarios asentados en territorio estatal, y en escritura braille.
 
 QUINTO. El Congreso del Estado deberá realizar, en un término de 60 días naturales, las adecuaciones suficientes para garantizar la creación y operación de la Base Estadística Estatal de Violencia Política prevista por la fracción XXXV del artículo 8 de la presente Ley.
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27926/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO PENAL Y DE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO, TODAS DEL ESTADO DE JALISCO, CON EL OBJETO DE ESTABLECER QUE EN LOS DELITOS QUE SEAN COMETIDOS POR CUESTIONES DE GÉNERO EN AGRAVIO DE MUJERES, LA ASISTENCIA A PROGRAMAS REEDUCATIVOS, INTEGRALES, ESPECIALIZADOS Y GRATUITOS, Y EL TRABAJO EN BENEFICIO DE LA COMUNIDAD, SERÁN OBLIGATORIOS PARA LAS PERSONAS AGRESORAS DE MUJERES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
