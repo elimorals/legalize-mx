@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2020-04-21"
+last_updated: "2020-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -309,7 +309,9 @@ I. Implementar los ajustes razonables bajo el principio de diseño universal en 
 
 II. La implementación de acciones de sensibilización e información dirigidas al personal docente, administrativo, estudiantes, madres y padres de familia de los centros educativos del Estado, en materia de no discriminación, no violencia y de igualdad de trato y oportunidades;
 
-III. La promoción de la enseñanza bilingüe y pluricultural en los centros educativos en donde se encuentren estudiantes pertenecientes a pueblos indígenas u originarios;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+III. La promoción de la enseñanza bilingüe y pluricultural en los centros educativos en donde se encuentren estudiantes pertenecientes a pueblos indígenas u originarios, así como comunidades afromexicanas;
 
 IV. Utilizar la lengua de señas mexicana para el alumnado que así lo requiera; e
 
@@ -515,11 +517,15 @@ Los integrantes del Consejo tendrán derecho a voz y voto, el cargo es honorífi
 
 La designación de los consejeros ciudadanos se regirá por el siguiente procedimiento:
 
-I. La Comisión de Derechos Humanos del Congreso del Estado emitirá convocatoria para elegir consejeros ciudadanos dentro de los sesenta días anteriores a que concluya la representación de los consejeros en funciones;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+I. La Comisión de Derechos Humanos y Pueblos Originarios del Congreso del Estado emitirá convocatoria para elegir consejeros ciudadanos dentro de los sesenta días anteriores a que concluya la representación de los consejeros en funciones;
 
 II. La convocatoria será dirigida a las organizaciones de la sociedad civil para que presenten candidatos a consejeros ciudadanos propietarios y suplentes, cada organización podrá proponer hasta cuatro candidatos por cada tipo;
 
-III. Recibidas las propuestas, la comisión legislativa de Derechos Humanos elaborará el dictamen correspondiente en el que establecerán el listado de todos los ciudadanos que cumplieron con los requisitos de elegibilidad; y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+III. Recibidas las propuestas, la comisión legislativa de Derechos Humanos y Pueblos Originarios elaborará el dictamen correspondiente en el que establecerán el listado de todos los ciudadanos que cumplieron con los requisitos de elegibilidad; y
 
 IV. El Congreso del Estado en pleno nombrará por mayoría simple los consejeros titulares y por cada uno a un suplente, dentro de los diez días previos a que concluyan la representación los consejeros en funciones;
 
@@ -858,3 +864,15 @@ P.O. 21 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27855/LXII/20, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II Y III DEL ARTÍCULO 57 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27927/LXII/20 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 19 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27928/LXII/20 QUE REFORMA EL ARTÍCULO 34 FRACCIONES I Y III DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO".]
+
+Único. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
