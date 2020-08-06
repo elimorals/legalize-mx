@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-para-el-estado-de-jalisco-y-sus-125988"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-30"
-last_updated: "2020-02-27"
+last_updated: "2020-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
 
 Ley publicada en el Número 42 Sección III del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2018.
 
@@ -55,7 +55,9 @@ Objeto.
 
 2. Las disposiciones de esta Ley son de aplicación subsidiaria en los términos del artículo 115, fracción II, inciso e), de la Constitución Política de los Estados Unidos Mexicanos y, por tanto los organismos constitucionales autónomos y la Administración Pública Municipal Centralizada y Paramunicipal deberán emitir las bases generales y reglamentos para la contratación de obra pública y servicios relacionados con la misma, en el ámbito de competencia que a cada uno le corresponda, observando lo establecido por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción y la normatividad secundaria que de esta emane, y la presente Ley.
 
-3. Tratándose de obras públicas y servicios relacionados con las mismas que pretenden implementarse en tierras y territorios indígenas, se deberá considerar lo establecido en los artículos 2° de la Constitución Política de los Estados Unidos Mexicanos con el objeto de garantizar el desarrollo de la cultura, la vida espiritual, la integridad y la supervivencia económica de las comunidades indígenas.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+3. Tratándose de obras públicas y servicios relacionados con las mismas que pretenden implementarse en tierras y territorios indígenas, comunidades afromexicanas, cualquiera que sea su autodenominación, se deberá considerar lo establecido en el artículo 2° de a (sic) Constitución Política de los Estados Unidos Mexicanos con el objeto de garantizar el desarrollo de la cultura, la vida espiritual, la integridad y la supervivencia económica de las comunidades indígenas y afromexicanas.
 
 4. La Contratación de obra pública y servicios relacionados con la misma que realicen las Dependencias y Entidades del Poder Ejecutivo, así como los Poderes Legislativo y Judicial y los organismos constitucionales autónomos, se deberá realizar con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
@@ -3194,5 +3196,11 @@ P.O. 28 DE DICIEMBRE DE 2019.
 P.O. 27 DE FEBRERO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27806/LXII/20 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 3 DEL ARTÍCULO 4º DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27924/LXII/20 QUE REFORMA EL NUMERAL 3 DEL ARTÍCULO 1 DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
