@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-04-28"
+last_updated: "2020-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ABRIL DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -54,6 +52,8 @@ El Municipio libre es un nivel de gobierno, así como la base de la organizació
 ###### Artículo 3.
 
 Cada Municipio es gobernado por un Ayuntamiento de elección popular directa. Las competencias municipales deben ser ejercidas de manera exclusiva por el Ayuntamiento y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>[N. DE E. DEL ANÁLISIS EFECTUADO SE ADVIERTE QUE CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, DE 126 A 125 NUMERALES, P.O. 6 DE AGOSTO DE 2020.]</small>
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2004)</small>
 
@@ -97,225 +97,433 @@ El Estado de Jalisco se divide en los municipios libres siguientes:
 
 18. Cañadas de Obregón,
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-19. Capilla de Guadalupe (municipio declarado inválido por la SCJN, en controversia constitucional 54/2004)
+19. Casimiro Castillo;
 
-20. Casimiro Castillo,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-21. Cihuatlán,
+20. Cihuatlán;
 
-22. Cocula,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-23. Colotlán,
+21. Cocula;
 
-24. Concepción de Buenos Aires,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-25. Cuautitlán de García Barragán,
+22. Colotlán;
 
-26. Cuautla,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-27. Cuquio,
+23. Concepción de Buenos Aires;
 
-28. Chapala,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-29. Chimaltitán,
+24. Cuautitlán de García Barragán;
 
-30. Chiquilistlán,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-31. Degollado,
+25. Cuautla;
 
-32. Ejutla,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-33. El Arenal,
+26. Cuquío;
 
-34. El Grullo,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-35. El Limón,
+27. Chapala,
 
-36. El Salto,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-37. Encarnación de Díaz,
+28. Chimaltitán;
 
-38. Etzatlán,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-39. Gómez Farías,
+29. Chiquilistlán;
 
-40. Guachinango,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-41. Guadalajara,
+30. Degollado;
 
-42. Hostotipaquillo,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-43. Huejúcar,
+31. Ejutla,
 
-44. Huejuquilla el Alto,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-45. Ixtlahuacán de los Membrillos,
+32. El Arenal;
 
-46. Ixtlahuacán del Río,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-47. Jalostotitlán,
+33. El Grullo;
 
-48. Jamay,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-49. Jesús María,
+34. El Limón;
 
-50. Jilotlán de los Dolores,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-51. Jocotepec,
+35. El Salto;
 
-52. Juanacatlán,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-53. Juchitlán,
+36. Encarnación de Díaz;
 
-54. La Barca,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-55. La Huerta,
+37. Etzatlán;
 
-56. La Manzanilla de la Paz,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-57. Lagos de Moreno,
+38. Gómez Farías;
 
-58. Magdalena,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-59. Mascota,
+39. Guachinango;
 
-60. Mazamitla,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-61. Mexticacán,
+40. Guadalajara;
 
-62. Mezquitic,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-63. Mixtlán,
+41. Hostotipaquillo;
 
-64. Ocotlán,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-65. Ojuelos de Jalisco,
+42. Huejúcar;
 
-66. Pihuamo,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-67. Poncitlán,
+43. Huejuquilla el Alto;
 
-68. Puerto Vallarta,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-69. Quitupan,
+44. Ixtlahuacán de los Membrillos;
 
-70. San Cristóbal de la Barranca,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-71. San Diego de Alejandría,
+45. Ixtlahuacán del Río;
 
-72. San Gabriel,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-73. San Ignacio Cerro Gordo,
+46. Jalostotitlán;
 
-74. San Juan de los Lagos,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-75. San Juanito de Escobedo,
+47. Jamay;
 
-76. San Julián,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-77. San Marcos,
+48. Jesús María,
 
-78. San Martín de Bolaños,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-79. San Martín Hidalgo,
+49. Jilotlán de los Dolores;
 
-80. San Miguel el Alto,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-81. San Sebastián del Oeste,
+50. Jocotepec;
 
-82. Santa María de los Angeles,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-83. Santa María del Oro,
+51. Juanacatlán;
 
-84. Sayula,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-85. Tala,
+52. Juchitlán;
 
-86. Talpa de Allende,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-87. Tamazula de Gordiano,
+53. La Barca;
 
-88. Tapalpa,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-89. Tecalitlán,
+54. La Huerta,
 
-90. Tecolotlán,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-91. Techaluta de Montenegro,
+55. La Manzanilla de la Paz;
 
-92. Tenamaxtlán,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-93. Teocaltiche,
+56. Lagos de Moreno
 
-94. Teocuitatlán de Corona,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-95. Tepatitlán de Morelos,
+57. Magdalena;
 
-96. Tequila,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-97. Teuchitlán,
+58. Mascota;
 
-98. Tizapán el Alto,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-99. Tlajomulco de Zuñiga,
+59. Mazamitla;
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-100. San Pedro Tlaquepaque,
+60. Mexticacán;
 
-101. Tolimán,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-102. Tomatlán,
+61. Mezquitic;
 
-103. Tonalá,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-104. Tonaya,
+62. Mixtlán;
 
-105. Tonila,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-106. Totatiche,
+63. Ocotlán,
 
-107. Tototlán,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-108. Tuxcacuesco,
+64. Ojuelos de Jalisco;
 
-109. Tuxcueca,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-110. Tuxpan,
+65. Pihuamo;
 
-111. Unión de San Antonio,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-112. Unión de Tula,
+66. Poncitlán;
 
-113. Valle de Guadalupe,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-114. Valle de Juárez,
+67. Puerto Vallarta;
 
-115. Villa Corona,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-116. Villa Guerrero,
+68. Quitupan;
 
-117. Villa Hidalgo,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-118. Villa Purificación,
+69. San Cristóbal de la Barranca
 
-119. Yahualica de González Gallo,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-120. Zacoalco de Torres,
+70. San Diego de Alejandría;
 
-121. Zapotiltic,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-122. Zapopan,
+71. San Gabriel;
 
-123. Zapotitlán de Vadillo,
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-124. Zapotlán del Rey,
+72. San Ignacio Cerro Gordo;
 
-125. Zapotlán el Grande, y
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-126. Zapotlanejo.
+73. San Juan de los Lagos;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+74. San Juanito de Escobedo;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+75. San Julián;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+76. San Marcos;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+77. San Martín de Bolaños;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+78. San Martín Hidalgo;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+79. San Miguel el Alto;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+80. San Sebastián del Oeste;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+81. Santa María de los Ángeles;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+82. Santa María del Oro;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+83. Sayula;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+84. Tala;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+85. Talpa de Allende;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+86. Tamazula de Gordiano;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+87. Tapalpa;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+88. Tecalitlán;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+89. Tecolotlán;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+90. Techaluta de Montenegro;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+91. Tenamaxtlán;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+92. Teocaltiche;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+93. Teocuitatlán de Corona;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+94. Tepatitlán de Morelos;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+95. Tequila;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+96. Teuchitlán;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+97. Tizapán el Alto;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+98. Tlajomulco de Zúñiga;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+99. San Pedro Tlaquepaque;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+100. Tolimán;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+101. Tomatlán;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+102. Tonalá;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+103. Tonaya;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+104. Tonila;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+105. Totatiche;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+106. Tototlán;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+107. Tuxcacuesco;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+108. Tuxcueca;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+109. Tuxpan;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+110. Unión de San Antonio;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+111. Unión de Tula;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+112. Valle de Guadalupe;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+113. Valle de Juárez;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+114. Villa Corona;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+115. Villa Guerrero;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+116. Villa Hidalgo;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+117. Villa Purificación;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+118. Yahualica de González Gall (sic)
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+119. Zacoalco de Torres;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+120. Zapotiltic;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+121. Zapopan;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+122. Zapotitlán de Vadillo;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+123. Zapotlán del Rey;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+124. Zapotlán el Grande; y
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+125. Zapotlanejo
 
 ###### Artículo 5.
 
@@ -429,11 +637,11 @@ II. El síndico saliente será el encargado de tomar la protesta al Ayuntamiento
 
 III. En caso de que el síndico saliente sea también integrante del Ayuntamiento electo o no se encuentre presente, el encargado de tomar la protesta será el munícipe saliente de mayor edad, que se encuentre presente en la sesión.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 15.
 
-El Ayuntamiento debe nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal, dentro de los términos y conforme al procedimiento que dispone esta ley, así como al titular del órgano de control interno, cuando esto sea contemplado por los reglamentos municipales respectivos.
+El Ayuntamiento debe nombrar al servidor público encargado de la Secretaría del Ayuntamiento, al funcionario encargado de la Hacienda Municipal y al Titular del Órgano Interno de Control, dentro de los términos y conforme al procedimiento que dispone esta ley y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2013)</small>
 
@@ -839,13 +1047,17 @@ XIII. Instrumentar, en coordinación con el Gobierno del Estado, políticas púb
 
 XIV. Elaborar la crónica municipal a través del registro del acontecer histórico local;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
-XV. Establecer los porcentajes requeridos para la presentación de la iniciativa ciudadana, los cuales en ningún caso podrán exceder los establecidos en el artículo 11 de la Constitución Política del Estado de Jalisco; y
+XV. Establecer los porcentajes requeridos para la presentación de la iniciativa ciudadana, los cuales en ningún caso podrán exceder los establecidos en el artículo 11 de la Constitución Política del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
-XVI. Las demás que les establezcan las constituciones federal, estatal y demás leyes, tanto federales como locales y reglamentos.
+XVI. Nombrar y remover a la persona titular del Órgano Interno de Control; en los casos de su remoción sólo será por causas graves de conformidad con la Constitución Política del Estado de Jalisco y la Ley General de Responsabilidades Administrativas; y
+
+(REUBICADA, P.O. 6 DE AGOSTO DE 2020)
+
+XVII. Las demás que les establezcan las constituciones federal, estatal y demás leyes, tanto federales como locales y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -987,7 +1199,9 @@ VI. Cuidar el buen estado y mejoramiento de los bienes pertenecientes al Municip
 
 VII. Vigilar que las dependencias y entidades encargadas de los distintos servicios municipales cumplan eficazmente con su cometido;
 
-VIII. Rendir informe al Ayuntamiento del ejercicio de la administración dentro de los primeros quince días del mes de septiembre de cada año, en la fecha que se fije con la oportunidad necesaria, la que se hará saber a las autoridades estatales y a los ciudadanos en general;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+VIII. Rendir informe por escrito al Ayuntamiento del ejercicio de la administración dentro de los primeros quince días del mes de septiembre de cada año. En caso de que decida hacerlo en acto protocolario, en sesión de Ayuntamiento, la fecha se fijará con oportunidad necesaria y se hará saber a las autoridades estatales y a la sociedad en general;
 
 IX. Comunicar al Ayuntamiento cuando pretenda ausentarse del Municipio por más de setenta y dos horas, y hasta por quince días consecutivos.
 
@@ -1001,9 +1215,11 @@ XII. Percibir la remuneración establecida en el presupuesto de egresos correspo
 
 XIII. Ejecutar y hacer que se ejecuten los ordenamientos municipales; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
 XIV. Las demás que establezcan las normas constitucionales, legales y reglamentarias.
 
-El Presidente Municipal debe estar atento a las labores que realizan los demás servidores públicos de la administración pública municipal, debiendo dar cuenta al Ayuntamiento cuando la gravedad del caso lo amerite, de las faltas u omisiones que advierta. Con respeto a la garantía de audiencia, debe imponer a los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones.
+> <small>(REFORMADO [N. DE E. DEROGADO ÚLTIMO PÁRRAFO], P.O. 6 DE AGOSTO DE 2020)</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1019,9 +1235,17 @@ III. Nombrar y remover a los servidores públicos municipales cuya designación 
 
 IV. Coordinar todas las labores de los servicios públicos del Municipio, así como las actividades de los particulares que revistan interés público;
 
-V. Proponer al órgano de gobierno, en la primera sesión de (sic) Ayuntamiento los nombramientos de los funcionarios encargados de la Secretaría del Ayuntamiento y de la Hacienda Municipal, así como del titular del órgano de control interno cuando así lo contemplen los reglamentos municipales. Si el Ayuntamiento rechaza la propuesta, el Presidente Municipal debe presentar una terna de candidatos para cada puesto, de los cuales se hace la designación por el Ayuntamiento dentro de los tres días naturales siguientes. Transcurrido este plazo sin que dicho cuerpo colegiado haga la elección o niegue la aprobación de los candidatos, el Presidente puede expedir inmediatamente el nombramiento en favor de cualesquiera de los que hubiesen formado parte de las ternas correspondientes; y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
-VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+V. Proponer al órgano de gobierno, en la primera sesión de (sic) Ayuntamiento los nombramientos de los funcionarios encargados de la Secretaría del Ayuntamiento y de la Hacienda Municipal, si el Ayuntamiento rechaza la propuesta, el Presidente Municipal debe presentar una terna de candidatos para cada puesto, de los cuales se hace la designación por el Ayuntamiento dentro de los tres días naturales siguientes. Transcurrido este plazo sin que dicho cuerpo colegiado haga la elección o niegue la aprobación de los candidatos, el Presidente puede expedir inmediatamente el nombramiento en favor de cualesquiera de los que hubiesen formado parte de las ternas correspondientes;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+VI. Emitir durante los primeros quince días de iniciada la administración, convocatoria pública para elegir al Titular del Órgano Interno de Control; y
+
+(REUBICADA, P.O. 6 DE AGOSTO DE 2020)
+
+VII. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
 ### CAPITULO II. De los Regidores
 
@@ -1348,6 +1572,92 @@ IV. Las demás que señale esta Ley, otras leyes y reglamentos.
 Artículo 67 bis. En los ayuntamientos que sea necesario y posible de conformidad con la carga de trabajo y la capacidad presupuestal, se puede establecer la figura de gerente o coordinador de gabinete, encargado de las funciones propias de la administración y ejecución de servicios públicos que se prestan de forma ordinaria.
 
 La figura a que se refiere este artículo requiere de su establecimiento en los ordenamientos municipales aplicables y en ningún caso pueden asumir las atribuciones que de conformidad al marco jurídico aplicable corresponden al Ayuntamiento, al Presidente Municipal o a los munícipes.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+Artículo 67 ter. En cada uno de los municipios debe haber un funcionario Titular del Órgano Interno de Control a más tardar treinta días naturales posteriores a la emisión de la convocatoria pública.
+
+I. El Presidente Municipal propondrá al Ayuntamiento una terna para elegir al Titular del Órgano Interno de Control.
+
+II. Si el Ayuntamiento rechaza las propuestas, el Presidente Municipal deberá someterlas a consideración nuevamente, dentro de los tres días naturales siguientes. Transcurrido este plazo sin que dicho cuerpo colegiado haga la elección o niegue la aprobación de alguno de los candidatos, el Presidente debe expedir inmediatamente el nombramiento en favor de cualesquiera de los que hubiesen formado parte de la terna correspondiente.
+
+La votación para la designación del Titular del Órgano Interno del Control será por mayoría calificada del total de los integrantes, quien durará en su encargo al término de la administración por la que fue nombrado, con derecho a ratificación hasta por un periodo más.
+
+En tanto se nombra al Titular del Órgano Interno de Control, el Presidente Municipal designará un encargado de éste, que podrá ser el Titular del Órgano Interno de Control de la administración saliente.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+Artículo 67 quáter. El Titular del Órgano Interno de Control, debe reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, por nacimiento, en pleno ejercicio de sus derechos, y mayor de 21 años;
+
+II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar el cargo;
+
+III. Contar con licenciatura concluida, preferentemente como abogado, contador público, administrador público o carreras afines, con cédula profesional expedida y con al menos dos años de experiencia profesional;
+
+IV. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún miembro del Ayuntamiento;
+
+V. No ser miembro de la dirigencia estatal o municipal de un partido político, ni haber sido candidato a cargos de elección popular, en los últimos tres años previos a la designación;
+
+VI. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+VII. No haber sido Presidente Municipal, Regidor, Síndico, Titular de la Hacienda Municipal, o haber manejado las finanzas del municipio, por un periodo inmediato anterior;
+
+VIII. Durante el ejercicio de su encargo el Titular del Órgano Interno de Control no podrá militar o formar parte de algún partido político, ni asumir otro cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia y los no remunerados; y
+
+IX. Los demás que señale esta ley, las disposiciones legales en la materia y los ordenamientos municipales expedidos para tal efecto por el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+Artículo 67 quinquies.
+
+1. Los órganos internos de control tendrán las siguientes atribuciones:
+
+I. Implementar mecanismos para prevenir las faltas administrativas y los hechos de corrupción, así como evaluar anualmente estos mecanismos y sus resultados;
+
+II. Investigar, substanciar y calificar las faltas administrativas;
+
+III. Resolver las faltas administrativas no graves e imponer y ejecutar las sanciones correspondientes;
+
+IV. Remitir los procedimientos sobre faltas administrativas graves, debidamente sustanciados, al Tribunal de Justicia Administrativa para su resolución;
+
+V. Revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos;
+
+VI. Presentar denuncias ante la Fiscalía Especializada en Combate a la Corrupción, cuando tenga conocimiento de omisiones o hechos de corrupción que pudieran ser constitutivos de delito;
+
+VII. Recibir y en su caso, requerir, las declaraciones de situación patrimonial, de intereses y la constancia de presentación de la declaración fiscal de los servidores públicos, así como inscribirlas y mantenerlas actualizadas en el sistema correspondiente;
+
+VIII. Realizar verificaciones aleatorias de las declaraciones que obren en el sistema de evolución patrimonial, de declaración de intereses y de declaración fiscal con propósitos de investigación y auditoría;
+
+IX. Requerir a los servidores públicos las aclaraciones pertinentes cuando sea detectado un aparente incremento inexplicable de su patrimonio;
+
+X. Emitir, observar y vigilar el cumplimiento del Código de Ética, al que deberán sujetarse los servidores públicos del ente público, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción;
+
+XI. Implementar el protocolo de actuación en contrataciones públicas expedido por el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+XII. Tramitar y en su caso resolver, los recursos derivados de los procedimientos de responsabilidad administrativa, según corresponda; y
+
+XIII. Las demás que le otorguen la legislación general y estatal aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+Artículo 67 sexies.
+
+El Órgano Interno de Control, se conforma orgánicamente de la siguiente manera:
+
+I. La persona titular del Órgano Interno de Control;
+
+II. La Secretaría Técnica;
+
+III. Área de Auditoría;
+
+IV. Área de Investigación;
+
+V. Área de Responsabilidades; y
+
+VI. Las demás áreas necesarias para el cumplimiento de sus funciones.
+
+Para el estudio y despacho de los asuntos de su competencia, el Órgano Interno de Control, se auxiliará de las áreas y dependencias señaladas en el presente ordenamiento y contará con el personal que se requiera para el cumplimiento de las funciones a su cargo, atendiendo a su disponibilidad presupuestal aprobada.
 
 ## TITULO CUARTO. PREVENCIONES PARA LOS CASOS DE AUSENCIA DE LAS AUTORIDADES MUNICIPALES
 
@@ -2253,49 +2563,29 @@ Cuando algún miembro del Ayuntamiento comete un delito del orden común deberá
 
 ### CAPITULO III. DE LA DECLARACION DE SITUACION PATRIMONIAL
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 144.
 
-Tienen obligación de presentar declaración de situación patrimonial ante el Ayuntamiento, a través del órgano o dependencia que determinen los reglamentos municipales:
+Tienen obligación de presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad, ante su respectivo Órgano Interno de Control, todos los Servidores Públicos, asimismo, deberán presentar su constancia de declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
-I. El Presidente Municipal;
-
-II. Los regidores;
-
-III. El Síndico;
-
-IV. El Servidor Público encargado de la secretaría del Ayuntamiento;
-
-V. El funcionario encargado de la Hacienda Municipal;
-
-VI. El titular del órgano de control interno, cuando los reglamentos municipales contemplen dicha figura; y
-
-VII. Los demás servidores públicos municipales señalados para tal efecto por la ley estatal en materia de responsabilidades o los reglamentos municipales.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 145.
 
-La declaración de situación patrimonial debe presentarse en los plazos y términos que al efecto señala la ley estatal en materia de responsabilidades de los servidores públicos.
+La declaración de situación patrimonial y de intereses debe presentarse en los plazos y términos que al efecto señala la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 146.
 
-En caso de incumplimiento de las obligaciones consignadas en los artículos de este capítulo, el Ayuntamiento debe exhortar al omiso para que, en un término de quince días, cumpla con su obligación. Si transcurrido dicho término no cumple, se debe determinar su destitución en el empleo, cargo o comisión.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+En caso de incumplimiento de las obligaciones consignadas en este capítulo, el Titular del Órgano Interno de Control del Ayuntamiento deberá aplicar los procedimientos y sanciones previstas en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 147.
 
-El Ayuntamiento debe recibir las declaraciones de situación patrimonial que le sean presentadas y remitirlas en un plazo de diez días al órgano competente del Congreso del Estado.
+(DEROGADO, P.O. 6 DE AGOSTO DE 2020)
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2009)</small>
-
-Artículo 147 bis. Para efectos de registro, control y verificación, los Ayuntamientos dentro del plazo de 45 días naturales contados a partir de su entrada en funciones, deberán remitir un padrón de servidores públicos municipales obligados a presentar. declaración patrimonial, debiendo informar al Órgano competente del Congreso del Estado cualquier modificación en el citado padrón, dentro de los quince días siguientes a que se efectúe el movimiento, precisando la fecha en que el servidor público inicio sus labores o las concluyó.
-
-Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+Artículo 147 bis. (DEROGADO, P.O. 6 DE AGOSTO DE 2020)
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
@@ -2908,5 +3198,25 @@ SEGUNDO. El Instituto de Transparencia, Información Pública y Protección de D
 P.O. 24 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27930/LXII/20 QUE REFORMA LOS ARTÍCULOS 15, 47, 48, 144, 145 Y 146; SE ADICIONAN LOS ARTÍCULOS 67 TER, 67 QUÁTER Y 67 QUINQUIES; SE DEROGAN LOS ARTÍCULOS 147 Y 147 BIS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los Ayuntamientos que a la entrada en vigor de este decreto no cuenten con un Titular del Órgano Interno de Control, contarán con un plazo máximo de 180 días naturales para su nombramiento.
+
+TERCERO. Se dejan a salvo los derechos de los servidores públicos que se encuentren haciendo las funciones de Titular del Órgano Interno de Control, para que participen en la convocatoria pública, que para efecto de elegir al nuevo titular de dicho órgano, se emita.
+
+CUARTO. En caso de que por cualquier motivo no se encuentren funcionando los órganos internos de control o quien haga sus veces, las declaraciones de situación patrimonial, de intereses y la constancia de presentación de la declaración fiscal serán presentadas ante el titular del ente público correspondiente.
+
+QUINTO. La Auditoría Superior del Estado de Jalisco en el ejercicio de sus facultades y atribuciones deberá brindar capacitación y asesoría legal a los Ayuntamientos para la adecuada y correcta instrumentación de los órganos internos de control en la administración pública municipal del Estado de Jalisco.
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27931/LXII/20 QUE REFORMA EL ARTÍCULO 4 Y LA FRACCIÓN VIII DEL ARTÍCULO 47 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
