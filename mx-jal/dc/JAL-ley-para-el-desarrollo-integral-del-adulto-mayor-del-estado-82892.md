@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2019-11-23"
+last_updated: "2020-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -45,9 +45,11 @@ LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 1.
 
-° La presente ley es reglamentaria de la fracción II del artículo 15 de la Constitución Política del Estado Libre y Soberano de Jalisco, es de orden público e interés social y tiene por objeto establecer las condiciones necesarias para lograr la protección, atención, bienestar y desarrollo de los hombres y mujeres a partir de los sesenta años de edad, para lograr su plena integración al desarrollo social, económico, político y cultural.
+° La presente ley es reglamentaria de la fracción II del artículo 15 de la Constitución Política del Estado de Jalisco, es de orden público e interés social; sus disposiciones son de observancia obligatoria en el territorio del Estado y tiene por objeto establecer condiciones necesarias para lograr la protección, atención, bienestar y desarrollo de los hombres y mujeres a partir de los sesenta años de edad, para lograr su plena integración al desarrollo social, económico, político y cultural, sin ningún tipo de discriminación en razón de su condición y sin distinción de género, raza, lengua, credo, religión, costumbres, situación económica o nivel cultural o demás circunstancias análogas.
 
 ###### Artículo 2.
 
@@ -61,7 +63,9 @@ III. Establecer las responsabilidades de la familia, la sociedad y el Estado en 
 
 IV. Propiciar en la sociedad en general, una cultura de conocimiento, respeto y aprecio por los adultos mayores, y
 
-V. Propiciar la igualdad de oportunidades frente al resto de la sociedad.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+V. Propiciar la igualdad de oportunidades frente al resto de la sociedad, sin ningún tipo de discriminación en razón de su condición y sin distinción de género, raza, lengua, credo, religión, costumbres, situación económica o nivel cultural o demás circunstancias análogas.
 
 ###### Artículo 3.
 
@@ -71,11 +75,21 @@ I. EL Poder Ejecutivo, por conducto de las secretarías, organismos y dependenci
 
 II. Los ayuntamientos dentro de su respectiva competencia y jurisdicción, así como los organismos públicos descentralizados, los de Desarrollo Integral para la Familia y los de asistencia social;
 
-III. Los organismos de la sociedad civil, cualquiera que sea su forma o denominación, los ciudadanos y los sectores privado y social, mediante la celebración de convenios o acuerdos de colaboración entre sí y con las instancias federales, estatales y municipales para lograr los objetivos de esta ley, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+III. Los organismos de la sociedad civil, cualquiera que sea su forma o denominación, los ciudadanos y los sectores privado y social, mediante la celebración de convenios o acuerdos de colaboración entre sí y con las instancias federales, estatales y municipales para lograr los objetivos de esta ley;
 
-IV. La Secretaría del Sistema de Asistencia Social.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+IV. La Secretaría del Sistema de Asistencia Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+V. La Secretaría General de Gobierno; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+VI. La familia del adulto mayor, de conformidad con lo dispuesto por los ordenamientos jurídicos aplicables.
 
 ###### Artículo 4.
 
@@ -83,7 +97,9 @@ IV. La Secretaría del Sistema de Asistencia Social.
 
 I. Adultos mayores: aquel hombre o mujer que tenga sesenta años o más de edad;
 
-II. Asistencia social: es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental hasta lograr su incorporación a la familia, incidiendo en la satisfacción de las necesidades integrales del adulto mayor;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+II. Asistencia social: es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental hasta lograr su incorporación a la familia, y a una vida plena y productiva, incidiendo en la satisfacción de las necesidades integrales del adulto mayor;
 
 III. Autoridades: las dependencias y entidades que forman parte de la administración pública estatal y municipal;
 
@@ -129,7 +145,9 @@ I. Autonomía y autorrealización. Todas las acciones que se realicen en benefic
 
 II. Integración: la inserción de los adultos mayores en todos los órdenes de la vida pública;
 
-III. Equidad: Es el trato justo en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar y desarrollo de los adultos mayores, sin distinción por sexo, situación económica, etnia, fenotipo, credo o cualquier otra circunstancia;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+III. Equidad e igualdad: es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de los adultos mayores, sin ningún tipo de discriminación y sin distinción de género, raza, lengua, credo, religión, costumbres, situación económica o nivel cultural o demás circunstancias análogas;
 
 IV. Corresponsabilidad: la concurrencia y responsabilidad compartida del individuo, las familias y los sectores público y social para el cumplimiento del objeto de esta ley;
 
@@ -151,33 +169,33 @@ I. De la integridad, dignidad y preferencia:
 
 a) El respeto de sus derechos humanos estipulados por los organismos correspondientes nacionales e internacionales, mediante los tratados y convenciones internacionales;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-b) A no ser objeto de discriminación alguna, por lo que la observancia a sus derechos se hará sin distinción;
+b) A no ser objeto de discriminación alguna por razón de su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias de todo tipo, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 c) Gozar, en igualdad de circunstancias, de oportunidades para mejorar sus capacidades, con el propósito de que ello facilite el ejercicio de sus derechos, respetando su heterogeneidad;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-d) A una vida con calidad, libre y sin violencia o maltrato físico o mental, con la finalidad de asegurarle respeto a su integridad física, psicoemocional y sexual;
+d) A una vida de calidad, libre de violencia, de maltrato físico, psicológico, económico o sexual, de abandono o de discriminación, con la finalidad de asegurarle respeto a su integridad física, psicoemocional y sexual;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 e) A la protección contra toda forma de explotación, del aislamiento y la marginación
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-f) A recibir protección por parte de la familia y la sociedad, así como de las instituciones estatales y municipales;
+f) A recibir protección por parte de la familia y la sociedad, así como de las instituciones estatales y municipales, para mejorar progresivamente las capacidades que le faciliten el ejercicio de sus derechos en condiciones de igualdad;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-g) A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos, entre estos el de elegir su lugar de residencia, preferentemente cerca de sus familiares, hasta el último momento de su existencia;
+g) A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos, entre estos el de elegir su lugar de residencia, preferentemente cerca de sus familiares, así como mantener relaciones personales y contacto directo con su familia en caso de estar separados, salvo sí ello es contrario a sus intereses o bienestar;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-h) A contar con espacios libres de barreras arquitectónicas, para el fácil acceso y desplazamiento;
+h) A contar con espacios libres de barreras arquitectónicas para el fácil acceso y desplazamiento, tomando en consideración sus necesidades y requerimientos;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -195,7 +213,9 @@ II. De la salud, la alimentación y la familia:
 
 a) A tener acceso a los satisfactores necesarios, considerando: alimentos, bienes, servicios, salud y condiciones humanas o materiales para su atención integral, en especial las que prestan las instituciones del sistema estatal de salud;
 
-b) A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4.° constitucional, con el objeto de que gocen cabalmente del derecho a su bienestar físico, mental y psicoemocional;
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+b) A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente del derecho a su bienestar físico, mental, psicológico, afectivo y sexual, para obtener un mejoramiento en su calidad de vida y la prolongación de ésta.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -205,7 +225,9 @@ c) A recibir orientación y capacitación en materia de salud, nutrición e higi
 
 d) A tener acceso a toda la información gerontológica y geriátrica disponible, para incrementar su cultura, para analizar y llevar a cabo acciones de preparación para la senectud;
 
-e) A recibir una atención médica integral con calidad a través de acciones de prevención, diagnóstico, tratamiento y rehabilitación;
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
+
+e) A recibir una atención médica integral con calidad, especializada en atención al adulto mayor, desde el primero y hasta el tercer nivel de atención, a través de acciones y programas de prevención, diagnóstico, tratamiento y rehabilitación;
 
 f) A disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades, excepto en casos en que sean judicialmente declarados incapaces, y
 
@@ -323,11 +345,21 @@ VI. De los principios jurídicos:
 
 a) Al disfrute pleno de sus derechos, con perspectiva de género y sin discriminación ni distinción alguna, sea cual fuere su condición personal;
 
-b) A recibir un trato digno y apropiado en los procedimientos judiciales en que intervengan bajo cualquier carácter;
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-c) A contar con asesoría jurídica gratuita por parte de las instituciones del Estado y de los municipios, así como con un representante legal cuando sea necesario; especialmente en la protección de su patrimonio personal y familiar, y
+b) A recibir un trato digno y apropiado en cualquier procedimiento judicial del que forme parte, ya sea en calidad de víctimas, ofendidos, inculpados, procesados o sentenciados, por lo que, en todo caso recibirá apoyo y asesoría de las autoridades competentes;
 
-d) Decidir, con capacidad de ejercicio, sobre la tutela de su persona y bienes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE AGOSTO DE 2020)</small>
+
+c) A recibir, cuando el Juez advierta alguna limitante de movilidad, comunicación, psicológica o de cualquier otra naturaleza, que pueda dificultar el acceso a la justicia del adulto mayor, atención necesaria y, en su caso, acompañamiento especializado cuando así se requiera;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE AGOSTO DE 2020)</small>
+
+d) A contar con asesoría jurídica gratuita por parte de las instituciones del Estado y de los municipios, así como con un representante legal cuando sea necesario; especialmente en la protección de su patrimonio personal y familiar; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE AGOSTO DE 2020)</small>
+
+e) Decidir, con capacidad de ejercicio, sobre la tutela de su persona y bienes.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -411,7 +443,9 @@ III. Conocer los derechos de los adultos mayores previstos en la presente ley, a
 
 IV. Evitar que alguno de sus integrantes realice cualquier acto de abandono, desamparo, marginación, discriminación, abuso, explotación, aislamiento, violencia o los que pongan en riesgo su persona, bienes y derechos;
 
-V. Otorgar una estancia digna, adecuada a sus necesidades, de preferencia en el propio domicilio, a menos de que obre decisión contraria del adulto mayor o exista prescripción de personal de la salud;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+V. Otorgar una estancia digna, adecuada a sus necesidades y requerimientos, de preferencia en el propio domicilio, a menos de que obre decisión contraria del adulto mayor o exista prescripción del personal de la salud, en cuyo caso los familiares dentro del cuarto grado deberán proporcionar los recursos económicos necesarios para garantizarlas la estancia digna:
 
 VI. Fomentar su independencia, respetar sus decisiones y mantener su privacidad;
 
@@ -435,11 +469,11 @@ X. Gestionar lo conducente ante las autoridades judiciales o administrativas com
 
 XI. Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 13.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco, deberá tomar las medidas de prevención y supervisión para que la familia participe en la atención de los adultos mayores en situación de riesgo o desamparo, pudiendo solicitar el apoyo tanto de la Procuraduría Social para la asesoría y patrocinio legal que corresponda, como de la unidad administrativa en materia de atención a víctimas del delito de la Fiscalía General del Estado, para que formulen las denuncias que correspondan y se dé seguimiento a la averiguación previa correspondiente.
+El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco, deberá tomar las medidas de prevención y supervisión para que la familia participe en la atención de los adultos mayores en situación de riesgo o desamparo, pudiendo solicitar el apoyo tanto de la Procuraduría Social para la asesoría y patrocinio legal que corresponda, como de la unidad administrativa en materia de atención a víctimas del delito de la Fiscalía Estatal, para que formulen las denuncias que correspondan y se dé seguimiento a la carpeta de investigación correspondiente.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2016)</small>
 
@@ -491,7 +525,9 @@ I. Realizar y promover los programas de asistencia, protección, provisión, pre
 
 II. Concertar, con la federación, estados y municipios los convenios que se requieran para la realización de programas de defensa y representación jurídica, protección, provisión, prevención, participación y atención;
 
-III. Concertar la participación de los sectores social y privado en la planeación y ejecución de programas;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+III. Concertar la participación de los sectores social y privado en la planeación y ejecución de acciones y programas en beneficio de los adultos mayores;
 
 IV. Coordinar las acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar sus derechos;
 
@@ -525,23 +561,47 @@ XIV. Promover y fomentar la investigación científica y desarrollo tecnológico
 
 XV. Garantizar la accesibilidad y la movilidad personal de los adultos mayores adoptando de manera progresiva medidas pertinentes para asegurar su acceso y desplazamiento, en igualdad de condiciones, en el entorno físico y en otros servicios e instalaciones abiertos al público o de uso público.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 2020)</small>
 
-### CAPÍTULO II. DE LA SECRETARÍA DE DESARROLLO E INTEGRACIÓN SOCIAL
+### CAPÍTULO II. DE LA SECRETARÍA DEL SISTEMA DE ASISTENCIA SOCIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 22.
 
-La Secretaría de Desarrollo e Integración social deberá coordinar e implementar las acciones que se requieran para promover el desarrollo integral de los adultos mayores, así como:
+La Secretaría del Sistema de Asistencia Social deberá coordinar e implementar las acciones que se requieran para promover el desarrollo integral de los adultos mayores, así como:
 
 I. Coordinar y ejecutar las políticas de asistencia social y atención integral a las que se refiere esta ley;
 
 II. Coordinar la promoción y seguimiento de los programas de atención de los adultos mayores, fomentando la participación de organismos públicos y privados;
 
-III. Propiciar convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a los adultos mayores, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
-IV. Los demás ordenamientos en la materia que le correspondan.
+III. Propiciar convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a los adultos mayores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+IV. Impulsar y fomentar entre la sociedad la cultura del envejecimiento, de respeto, aprecio y reconocimiento a la capacidad de aportación de los adultos mayores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+V. Propiciar la colaboración y participación de las distintas dependencias y entidades de la administración pública estatal y municipal para que emprendan acciones y programas de atención preferente e integral de los adultos mayores:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+VI. Conocer y hacer del conocimiento de los adultos mayores los programas de apoyo federales, estatales y municipales y orientarles respecto a los requisitos necesarios para acceder a dichos apoyos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+VII. Llevar un padrón de adultos mayores en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+VIII. Llevar registro, seguimiento, evolución y evaluación de los casos de adultos mayores en estado de abandono, maltrato físico, psicológico o sexual, explotación laboral, discriminación, pobreza extrema o demás circunstancias análogas, en coordinación con las demás autoridades competentes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+IX. Las demás que establezcan las disposiciones legales en la materia.
 
 ### CAPÍTULO III. DE LA SECRETARÍA DE SALUD
 
@@ -595,11 +655,15 @@ V. Facilitar el préstamo a domicilio del material de las bibliotecas públicas,
 
 VI. Los demás ordenamientos en la materia que le correspondan.
 
-### CAPÍTULO V. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 2020)</small>
+
+### CAPÍTULO V. DE LA SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 25.
 
-Corresponde a la Secretaría del Trabajo y Previsión Social, en beneficio de los adultos mayores:
+Corresponde a la Secretaría de Trabajo y Previsión Social, en beneficio de los adultos mayores:
 
 I. Promover empleos como actividades lucrativas o voluntarias, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
@@ -627,9 +691,21 @@ III. Impulsar las actividades de difusión y fomento educativo para los adultos 
 
 IV. Promover, difundir y fomentar la incorporación de contenidos sobre el proceso de envejecimiento, la cultura del envejecer, a través de los valores, reconocimiento y la adopción de estilos de vida saludable dentro de los planes y programas de estudio de todos los niveles;
 
-V. Implementar y apoyar a las instituciones de investigación científica para que incluyan la geriatría y la gerontología en las carreras del área de la salud, ciencias sociales y económicas, así como difundir los resultados de estas investigaciones para conocimiento y aprovechamiento de la población, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
-VI. Los demás ordenamientos en la materia que le correspondan.
+V. Implementar y apoyar a las instituciones de investigación científica para que incluyan la geriatría y la gerontología en las carreras del área de la salud, ciencias sociales y económicas, así como difundir los resultados de estas investigaciones para conocimiento y aprovechamiento de la población;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+VI. Instituir programas de becas para las personas adultas mayores, en materia de educación continua y capacitación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+VII. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más, restricción que su limitación física o mental declarada por la autoridad médica o legal competente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2020)</small>
+
+VIII. Las demás que establezcan las disposiciones legales aplicables.
 
 ### CAPÍTULO VII. DE LA SECRETARÍA DE TURISMO
 
@@ -643,11 +719,15 @@ II. Promover y difundir actividades de recreación turística con tarifas prefer
 
 III. Los demás ordenamientos en la materia que le correspondan.
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE DESARROLLO RURAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 2020)</small>
+
+### CAPÍTULO VIII. DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 28.
 
-Corresponde a la Secretaría de Desarrollo Rural:
+Corresponde a la Secretaría de Agricultura y Desarrollo Rural:
 
 I. Formular y aplicar programas específicos para la inclusión de los adultos mayores en actividades productivas del sector rural, y
 
@@ -667,15 +747,15 @@ I. Promover y difundir la participación de los sectores social y privado del es
 
 II. Promover, impulsar y difundir la celebración de convenios con la iniciativa privada a fin de que se dé atención preferencial a las personas adultas mayores.
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 2020)</small>
 
-### CAPÍTULO X. DE LA SECRETARÍA DE MOVILIDAD
+### CAPÍTULO X. DE LA SECRETARÍA DEL TRANSPORTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 30.
 
-Corresponde a la Secretaría de Movilidad:
+Corresponde a la Secretaría del Transporte:
 
 I. Vigilar que las condiciones de tránsito sean óptimas para los adultos mayores, procurando que se respeten sus necesidades y derechos, y
 
@@ -683,15 +763,15 @@ II. Promover el respeto de los espacios reservados a los adultos mayores en el t
 
 III. Promover una campaña de concientización entre los usuarios, permisionarios, concesionarios y demás involucrados con el transporte público colectivo urbano, que garantice el cumplimiento de lo establecido en el presente artículo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 2020)</small>
 
-### CAPÍTULO XI. DE LA FISCALÍA GENERAL DEL ESTADO
+### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 31.
 
-Corresponde a la Fiscalía General del Estado, prevenir la comisión de actos de violencia o abusos en contra de adultos mayores, a través de programas de prevención y vigilancia.
+Corresponde a la Secretaría de Seguridad, prevenir la comisión de actos de violencia o abusos en contra de adultos mayores, a través de programas de prevención y vigilancia.
 
 ### CAPÍTULO XII. DE LA PROCURADURÍA SOCIAL
 
@@ -733,9 +813,9 @@ I. Proporcionar los servicios gratuitos de asesoría jurídica a los adultos may
 
 II. Realizar programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
-III. Coadyuvar con la Fiscalía General del Estado en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
+III. Coadyuvar con la Fiscalía Estatal en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
 
 IV. Impulsar y promover el reconocimiento y ejercicio de los derechos de los adultos mayores;
 
@@ -933,9 +1013,9 @@ III. Arresto administrativo hasta por treinta y seis horas, que sólo procederá
 
 La aplicación de las sanciones estará debidamente fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar. Será aplicada acorde con su naturaleza.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
-Para el caso de la multa económica a que se refiere la fracción II del artículo 63, el Procurador Social del Estado de Jalisco valorará las condiciones que se señalan en el artículo 61 de esta ley y aplicará la que le corresponda a cada infracción, girando oficio a la Secretaría de Planeación, Administración y Finanzas del Estado para que realice el cobro correspondiente, así en caso de que la investigación dé origen a delito alguno, se dará vista al agente del Ministerio Público competente para que inicie la averiguación previa que corresponda.
+Para el caso de la multa económica a que se refiere la fracción II del artículo 63, el Procurador Social del Estado de Jalisco valorará las condiciones que se señalan en el artículo 61 de esta ley y aplicará la que le corresponda a cada infracción, girando oficio a la Secretaría de la Hacienda Pública del Estado para que realice el cobro correspondiente, así en caso de que la investigación dé origen a delito alguno, se dará vista al agente del Ministerio Público competente para que inicie la carpeta de investigación que corresponda.
 
 Tratándose de la amonestación, el encargado será el Procurador Social y podrá solicitar el arresto administrativo a la autoridad competente.
 
@@ -951,11 +1031,11 @@ III. Las condiciones socioeconómicas del infractor, y
 
 IV. Si la conducta del infractor implica reincidencia.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 66.
 
-El cobro de las multas impuestas, con apego a las formalidades, por la autoridad a que se refiere esta ley, corresponderá a la Secretaría de Planeación, Administración y Finanzas, la cual podrá para ello hacer uso del procedimiento económico coactivo previsto en el Código Fiscal del Estado.
+El cobro de las multas impuestas, con apego a las formalidades, por la autoridad a que se refiere esta ley, corresponderá a la Secretaría de la Hacienda Pública, la cual podrá para ello hacer uso del procedimiento económico coactivo previsto en el Código Fiscal del Estado.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO
 
@@ -1196,5 +1276,11 @@ NOVENO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tant
 P.O. 23 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27520/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLECENTES (SIC), DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY PARA LA OPERACIÓN DE ALBERGUES, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27929/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
