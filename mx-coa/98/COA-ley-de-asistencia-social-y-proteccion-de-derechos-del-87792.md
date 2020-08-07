@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2019-12-06"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -77,7 +77,9 @@ III. El Organismo. El Sistema para el Desarrollo Integral de la Familia y Protec
 
 IV. La Procuraduría: La Procuraduría para Niños, Niñas y la Familia.
 
-V. Asistencia Social: Conjunto de acciones del gobierno y la sociedad dirigidas a las personas en situación de vulnerabilidad y sus familias, para favorecer sus capacidades y el ejercicio de sus derechos encaminadas a una vida plena y productiva dentro de un marco de corresponsabilidad, temporalidad y selectividad.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+V. Asistencia Social: Conjunto de acciones del gobierno y la sociedad dirigidas a las personas en situación de vulnerabilidad y sus familias, tendientes a modificar y mejorar las circunstancias sociales que le impidan un correcto desarrollo integral como individuo o colectividad, para favorecer sus capacidades físicas y mentales, y garantizar el ejercicio de sus derechos, para gozar de una vida plena y productiva dentro de un marco de corresponsabilidad, temporalidad y selectividad.
 
 VI. Asistencia Social Pública: Los servicios temporales que promueven y prestan las dependencias e instituciones públicas dedicadas a la asistencia social.
 
@@ -223,11 +225,15 @@ VIII. Dependientes de personas privadas de su libertad, de enfermos terminales, 
 
 IX. Víctimas de la comisión de delitos;
 
-X. Indigentes;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+X. Indigentes y personas que se encuentren en situación de calle o pobreza extrema;
 
 XI. Alcohólicos y fármaco dependientes, cuando por estas causas se encuentran en estado de abandono o indigencia;
 
-XII. Personas afectadas por desastres naturales y que queden en estado de necesidad y desamparo;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+XII. Personas afectadas por desastres naturales, catástrofes mundiales, guerras, pandemias, epidemias y que queden en estado de necesidad y desamparo;
 
 XIII. Las carentes de capacidad para satisfacer sus requerimientos básicos de subsistencia;
 
@@ -282,6 +288,10 @@ VIII. Del desarrollo comunitario en las localidades o zonas de atención priorit
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 IX. De acciones para reforzar la paternidad y maternidad responsable, que propicien la preservación de los derechos de niños, niñas y adolescentes.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+X. De los programas sociales y atención otorgados por el Estado, tendientes a mejorar el desarrollo individual de los sujetos.
 
 B. De prevención:
 
@@ -601,7 +611,13 @@ XLI. Establecer y proporcionar servicios funerarios a bajo costo, a la població
 
 XLII. Impulsar el desarrollo comunitario en las localidades o zonas con personas o grupos en situación de vulnerabilidad, y
 
-XLIII. Las demás que éste u otros ordenamientos le confiera.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+XLIII. Realizar, promover y coordinar, tanto programas sociales como campañas públicas de educación tecnológica, en coordinación con las autoridades competentes, para los grupos vulnerables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+XLIV. Las demás que éste u otros ordenamientos le confiera.
 
 ###### Artículo 33.
 
@@ -1464,3 +1480,11 @@ P.O. 6 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 692.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 Y LAS FRACCIONES X Y XII DEL ARTÍCULO 6, LA FRACCIÓN XLIII DEL ARTÍCULO 32; SE ADICIONA LA FRACCIÓN X DEL INCISO A DEL ARTÍCULO 10 Y LA FRACCIÓN XLIV AL ARTÍCULO 32, TODOS DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
