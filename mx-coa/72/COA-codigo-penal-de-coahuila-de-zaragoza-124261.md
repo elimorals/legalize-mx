@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-07-10"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -2811,6 +2811,10 @@ V. En los delitos cuyo tipo penal contemple la afectación a un menor de diecioc
 
 VI. Cuando se trate de delitos contemplados en el Titulo Quinto del Libro Segundo de este Código, si el sujeto pasivo es una persona menor de edad o no tuviera la capacidad de comprender el significado del hecho o resistirlo, la acción penal será imprescriptible.
 
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+VII. Para efectos de los delitos de servidores públicos o contra la función pública, el término de prescripción de la acción penal empezará a computarse al día siguiente a aquel en que se notifique el resultado de la valoración de la solventación de las irregularidades previamente dadas a conocer al servidor público responsable.
+
 B. (Prescripción de la acción penal según la naturaleza de la pena)
 
 La acción penal prescribirá:
@@ -2820,6 +2824,10 @@ I. En un período igual al término medio aritmético de la pena de prisión, in
 La regla del párrafo precedente se aplicará cuando la pena de prisión esté señalada como pena única, conjunta o alterna con otra diversa.
 
 II. En un año, si el delito no se sanciona con pena de prisión.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+III. En un período de siete años, cualquiera que sea la modalidad del delito cometido, tratándose de delitos cometidos por servidores públicos en el ejercicio de su función.
 
 C. (Prescripción de la acción penal en caso de concurso de delitos)
 
@@ -2848,6 +2856,10 @@ Artículo 176 (Reglas especiales de extinción de la acción penal por preclusi�
 El derecho para formular querella precluye en un año, y su preclusión extinguirá la acción penal. El año se contará a partir del día siguiente en el que cualquier persona con legitimación para formular la querella sepa del delito, o en tres años con independencia de esa circunstancia, a partir del día en que se consumó el delito, si éste fue instantáneo. Si el delito fue continuado, los tres años se computarán a partir del día en que se ejecutó la última conducta. Y si el delito fue permanente, los tres años se computarán a partir del día en que cesó la consumación.
 
 Los términos de preclusión también aplicarán por no satisfacer requisitos de procedibilidad equivalentes a la querella, y su transcurso extinguirá la acción penal, aun cuando aquéllos estén contemplados en leyes federales en las que los jueces del Estado tengan competencia concurrente, y se computarán conforme a lo que previene el párrafo precedente respecto a la querella, salvo disposición legal específica.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+En el caso de los delitos de servidores públicos o contra la función pública, se entenderá que la parte legitimada tiene conocimiento de dichos delitos hasta la conclusión de los procedimientos de revisión, auditoría u otros de naturaleza análoga, practicadas por los órganos facultados para ejercer esas funciones. En ese caso el término de preclusión empezará a computarse al día siguiente a aquel en que se notifique el resultado de la valoración de la solventación de las irregularidades previamente dadas a conocer.
 
 Artículo 177 (Prescripción de las penas y medidas de seguridad y términos de su prescripción)
 
@@ -3489,7 +3501,7 @@ Se impondrá de una cuarta parte del mínimo a cuarta parte del máximo de las p
 
 ### Capítulo Tercero. Privación de la libertad con fines sexuales
 
-(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 Artículo 222 (Privación de la libertad con fines sexuales)
 
@@ -3641,7 +3653,7 @@ I. (Violación equiparada en persona menor de quince años)
 
 Se considera violación equiparada y se impondrá de diez a diecisiete años de prisión y multa, a quien realice cópula con una persona de cualquier sexo, menor de quince años de edad.
 
-(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 II. (VIOLACIÓN IMPROPIA EN PERSONA MENOR DE QUINCE AÑOS)
 
@@ -5036,6 +5048,14 @@ Se impondrá de uno a dos años de prisión y de doscientos a trescientos días 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
 Se aumentará en un tanto el mínimo y el máximo de las penas previstas en el párrafo anterior, para quien realice actos propios de la profesión médica, sin tener el título que la ley exige para ejercerla, así como para el médico que practique un procedimiento médico quirúrgico de especialidad, y no cuente con los requisitos establecidos en la Ley General de Salud, salvo que se trate de atención del embarazo o parto así como urgencias médicas.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Artículo 313 Bis (Violencia contra trabajadores de instituciones de salud pública o privada).
+
+Se impondrá de tres meses a dos años de prisión y de doscientos a quinientos días multa, a quien ejerza violencia en contra de quien labore en instituciones de salud pública o privada, por razón de sus funciones o para injustificadamente obligarlo a ejecutar u omitir algún acto propio de su cargo o a realizar uno contrario a sus deberes.
+
+Si la violencia a que se refiere el párrafo precedente ocasiona una o más lesiones de las previstas en las fracciones II a VIII del artículo 200 de este código, se aplicarán las reglas del concurso de delitos.
 
 ## Título Primero. Delitos contra la seguridad de profesiones y la prestación pública de servicios
 
@@ -7952,3 +7972,19 @@ P.O. 10 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 664.- SE ADICIONA LA FRACCIÓN VII DEL APARTADO A Y LA FRACCIÓN III DEL APARTADO B DEL ARTÍCULO 175, Y UN TERCER PÁRRAFO AL ARTÍCULO 176, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días naturales posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 687.- SE ADICIONA EL ARTÍCULO 313 BIS AL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
