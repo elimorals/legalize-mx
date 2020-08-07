@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-07-10"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -399,9 +399,11 @@ En virtud de su investidura de servidores públicos, los integrantes del ayuntam
 
 Las peticiones que realicen los integrantes del Ayuntamiento deberán hacerse con respeto y atendiendo al interés público.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
 ###### ARTÍCULO 50.
 
-Los servidores públicos municipales serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, en atención a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Coahuila y demás leyes aplicables. El municipio será responsable solidario por los daños causados por sus servidores con motivo del ejercicio de sus atribuciones, en los términos del Código Penal y del Código Civil para el Estado de Coahuila.
+Los servidores públicos municipales serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, en atención a lo dispuesto en la Ley General de Responsabilidades Administrativas y demás leyes aplicables. El municipio será responsable solidario por los daños causados por sus servidores con motivo del ejercicio de sus atribuciones, en los términos del Código Penal y del Código Civil para el Estado de Coahuila.
 
 ### CAPÍTULO III. DE LA INSTALACION DEL AYUNTAMIENTO
 
@@ -571,7 +573,9 @@ La entrega-recepción de la documentación prevista en el artículo 65, tendrá 
 
 Terminado el proceso de entrega-recepción, el servidor público entrante deberá proceder a la verificación y validación física del contenido del acta administrativa de entrega-recepción y sus anexos, en un plazo no mayor de treinta días hábiles contados a partir del acto de entrega.
 
-Durante la validación y verificación, el servidor público que reciba podrá solicitar al servidor público que entregó, la información o aclaraciones adicionales que considere necesarias, tal solicitud deberá hacérsele por escrito y notificada en el domicilio que tenga registrado, el requerido deberá comparecer personalmente o por escrito dentro de los tres días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda, en caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión a la Contraloría Municipal para que proceda de conformidad con la Ley de Responsabilidades. Igualmente, las irregularidades encontradas deberán hacerse del conocimiento de la Contraloría Municipal.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Durante la validación y verificación, el servidor público que reciba podrá solicitar al servidor público que entregó, la información o aclaraciones adicionales que considere necesarias, tal solicitud deberá hacérsele por escrito y notificada en el domicilio que tenga registrado, el requerido deberá comparecer personalmente o por escrito dentro de los tres días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda, en caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión a la Contraloría Municipal para que proceda de conformidad con la Ley General de Responsabilidades Administrativas. Igualmente, las irregularidades encontradas deberán hacerse del conocimiento de la Contraloría Municipal.
 
 En todo el proceso de entrega-recepción deberá estarse a lo establecido en la Ley de Entrega-Recepción del Estado y Municipios.
 
@@ -605,7 +609,9 @@ DE LA SUSPENSIÓN Y REVOCACIÓN
 
 Son causas de suspensión del mandato de alguno, de algunos o de todos los miembros del Ayuntamiento:
 
-I. Incurrir en las responsabilidades administrativas establecidas en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+I. Incurrir en las responsabilidades administrativas establecidas en la Ley General de Responsabilidades Administrativas.
 
 II. La incapacidad temporal física y/o mental para el desempeño del cargo.
 
@@ -613,7 +619,9 @@ III. Por faltar consecutivamente a tres sesiones ordinarias de Cabildo sin exist
 
 IV. Por abandono de sus funciones en un término de quince días hábiles consecutivos, sin causa justificada.
 
-V. La declaración de procedencia en materia de responsabilidad penal, en los términos de la ley de responsabilidades de los servidores públicos estatales y municipales, hasta en tanto culmine el proceso penal correspondiente.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+V. La declaración de procedencia en materia de responsabilidad política, en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales, hasta en tanto culmine el proceso penal correspondiente.
 
 ###### ARTÍCULO 75.
 
@@ -1003,9 +1011,9 @@ VI. En materia de desarrollo económico y social:
 
 1. Conceder subsidios, apoyos administrativos o estímulos fiscales, en los términos de la legislación de la materia, con la finalidad de impulsar la actividad económica del municipio, así como el establecimiento de nuevas empresas y la generación de empleos.
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
-Se necesitará de la autorización de las dos terceras partes de los miembros del Ayuntamiento y se limitará el subsidio, apoyo administrativo o estímulo fiscal hasta por un 30% del valor de la contribución, para todos aquellos casos que determine el Ayuntamiento y no estén previstos en el párrafo anterior.
+Se necesitará de la autorización de las dos terceras partes de los miembros del Ayuntamiento y se limitará el subsidio, apoyo administrativo o estímulo fiscal hasta por un 50% del valor de la contribución, para todos aquellos casos que determine el Ayuntamiento y no estén previstos en el párrafo anterior.
 
 2. Promover y apoyar los programas estatales y federales de desarrollo económico y de creación de empleos.
 
@@ -1024,6 +1032,10 @@ VII. En materia de educación y cultura, asistencia y salud públicas:
 3. Contar con un registro del acontecer histórico local y con el archivo de los documentos históricos municipales.
 
 4. Promover y procurar la salud pública en el Municipio y auxiliar a las autoridades sanitarias estatales y municipales en la planeación y ejecución de sus disposiciones.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+En casos de emergencia sanitaria provocada por una pandemia o epidemia grave, declarada por las autoridades sanitarias federales o estatales, los ayuntamientos de manera coordinada darán cumplimiento a las disposiciones, decretos y medidas dictadas por estas autoridades. Podrán inconformarse mediante la presentación de la controversia constitucional o la acción de inconstitucionalidad de conformidad con las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
@@ -1318,6 +1330,14 @@ Las comisiones a las que refieren los artículos 112, 113, 113 BIS, 113 BIS-1, 1
 ###### ARTÍCULO 108.
 
 Las comisiones se integrarán y funcionarán de manera colegiada con el número de miembros que establezca el reglamento interno o el acuerdo del Ayuntamiento, procurando que reflejen pluralidad y proporcionalidad; en cada comisión habrá un presidente y un secretario.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Las comisiones deberán resolver los asuntos que les son turnados en un plazo no mayor a sesenta días naturales, contados a partir de la fecha de recepción; exceptuando los casos en que este Código u otros ordenamientos dispongan un plazo distinto en atención al asunto de que se trate, o bien, cuando por acuerdo de cabildo se fije uno diferente.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+El plazo señalado en el párrafo anterior podrá duplicarse por una sola vez y de forma justificada a solicitud de la comisión, la cual deberá informar por escrito al secretario del ayuntamiento sobre las razones y motivos antes de vencer el plazo original.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
 
@@ -1691,7 +1711,9 @@ Son facultades y obligaciones del Contralor Municipal:
 
 I. Planear, programar, organizar y coordinar el sistema de control y evaluación del ejercicio del gasto público municipal, fiscalizando el ingreso y su congruencia con el presupuesto de egresos.
 
-II. Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado y aplicarla en los casos que proceda.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+II. Vigilar el cumplimiento de la Ley General de Responsabilidades Administrativas y aplicarla en los casos que proceda.
 
 III. Aplicar las normas y criterios de control y evaluación, vigilando su cumplimiento.
 
@@ -1721,9 +1743,11 @@ XIII. Participar en la entrega-recepción de las unidades administrativas de las
 
 XIV. Supervisar el inventario general de bienes muebles e inmuebles propiedad del municipio, verificando los datos de identificación y el destino de los mismos.
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE AGOSTO DE 2020)</small>
 
-XV. Verificar que los Servidores Públicos Municipales cumplan con su obligación de presentar la declaración de situación patrimonial; así como el manifiesto de no conflicto de intereses de los proveedores y contratistas del municipio, verificando su contenido mediante las investigaciones que resulten pertinentes en los términos de las leyes aplicables.
+XV. Verificar que los Servidores Públicos Municipales cumplan con su obligación de presentar la declaración de situación patrimonial en los términos de la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2020)</small>
 
 Vigilando también que los servidores públicos municipales con cargos directivos, así como los integrantes del Cabildo no intervengan o participen indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tengan interés personal, familiar o de negocios.
 
@@ -5078,3 +5102,29 @@ P.O. 10 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 667.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 123, EL ARTÍCULO 130, EL PRIMERO PÁRRAFO DEL ARTÍCULO 131 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 210 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 659.- SE MODIFICA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 383 DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA EL SEGUNDO PÁRRAFO DEL NUMERAL 1 DE LA FRACCIÓN VI DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 660.- SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 108 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 665.- SE ADICIONA UN SEGUNDO PÁRRAFO AL NUMERAL 4 DE LA FRACCIÓN VII DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza; y
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 666.- SE REFORMA EL ARTÍCULO 50, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 68, LAS FRACCIONES I Y V DEL ARTÍCULO 74, LA FRACCIÓN II Y EL PRIMER PÁRRAFO DE LA FRACCIÓN XV DEL ARTÍCULO 133, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
