@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2020-06-05"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1975,7 +1975,9 @@ Si se emplea la violencia, la sanción se incrementará hasta en dos terceras pa
 
 El allanamiento de morada se perseguirá por querella, cuando no medie violencia ni se realice por tres o más personas.
 
-## TITULO SEXTO. DELITOS CONTRA LA INTIMIDAD PERSONAL O FAMILIAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2020)</small>
+
+## TITULO SEXTO. DELITOS CONTRA LA INTIMIDAD
 
 ### CAPITULO II. INSEMINACION ARTIFICIAL SIN CONSENTIMIENTO
 
@@ -1991,17 +1993,29 @@ II. Reproduzca dichos documentos u objetos; o
 
 III. Utilice medios técnicos para escuchar, observar, transmitir, grabar o reproducir la imagen o el sonido.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
-ARTICULO 150 BIS.- A quien, sin consentimiento del sujeto pasivo, utilizando cualquier medio, revele, publique, difunda o exhiba imágenes o grabaciones de voz o audiovisuales de contenido erótico sexual en perjuicio de quien aparezca en el mismo, se le impondrá de seis meses a cuatro años de prisión y multa de doscientas a quinientas veces la unidad de medida y actualización.
+ARTICULO 150 BIS.- Se le impondrá pena de cuatro a ocho años de prisión y multa de mil a dos mil unidades de medida y actualización, a quien utilizando cualquier medio, revele, difunda, exhiba, exponga, divulgue, almacene, comparta, distribuya, compile, comercie, solicite, haga circular, oferte o publique imágenes, audios o videos con contenido real, manipulado o alterado de una persona desnuda parcial o totalmente o cualquier contenido erótico sexual, ya sea impreso, grabado o digital, en perjuicio de quien aparezca en el mismo y sin el consentimiento de la víctima.
 
-Las penas y sanciones a que se refiere el párrafo anterior se aumentarán hasta en una mitad cuando el sujeto activo tenga una relación de confianza, de amistad o de vecindad con la víctima o comparta el uso de espacios, educativos o laborales, culturales, deportivos o sociales comunes con ella y, con conocimiento de dichas circunstancias, cometa la conducta punible.
+También comete este tipo de delito y se aplicará la sanción prevista en el párrafo anterior a quien requiera imágenes, audio, video o cualquier otra producción de actividades sexuales implícitas, actos de connotación sexual sin libre consentimiento de la persona involucrada o que este último sea obtenido bajo engaño o manipulación, y quien envíe o publique, o haga visibles contenidos sexuales o sugerencias con fines lascivos.
 
-Las penas y sanciones previstas en el primer párrafo de este artículo, se aumentarán en dos terceras partes cuando el sujeto activo sea el cónyuge, concubina o concubinario, o la persona que mantenga o haya mantenido una relación sentimental o afectiva con la víctima, aún sin convivencia, o haya cometido la conducta con fines lucrativos.
+Este delito se perseguirá por querella.
 
-Cuando el delito previsto en este artículo sea cometido contra un menor de dieciocho años, se estará a lo establecido en el artículo 211 ter de este Código y se perseguirá por oficio.
+Las penas y sanciones previstas en el primer párrafo de este artículo, se aumentarán en dos terceras partes y el delito se perseguirá de oficio, cuando:
 
-En caso de que este contenido, sea difundido sin consentimiento del ofendido o compilado por medios de comunicación o plataformas digitales, el Ministerio Público realizará las gestiones necesarias ante la autoridad competente, para lograr que la empresa de prestación de redes sociales o medio de comunicación lo retire inmediatamente.
+I. Exista o haya existido entre el activo y la víctima una relación de matrimonio, concubinato, noviazgo o cualquier otra relación sentimental o de hecho, aun sin convivencia, o de confianza, de amistad, afectiva o de vecindad con la víctima o comparta el uso de espacios, educativos o laborales, culturales, deportivos o sociales comunes con ella, o haya relación de subordinación o superioridad y con conocimiento de dichas circunstancias;
+
+II. Cometa la conducta punible o haya cometido la conducta con fines lucrativos;
+
+III. Se cometa en contra de personas adultas mayores o personas que no tienen capacidad para comprender el significado del hecho o no se puedan resistir a éste;
+
+IV. Se cometa en contra de una persona en situación de vulnerabilidad social, por su condición cultural, étnica o su pertenencia a algún pueblo originario, y
+
+V. Haya mediado violencia en la comisión de este delito.
+
+Cuando el delito previsto en este artículo sea cometido contra una persona menor de dieciocho años, se estará a lo establecido en los artículos 211 ter, 212 y demás relativos y aplicables de este Código y las leyes especiales o de la materia.
+
+Para los efectos de las disposiciones previstas en el presente artículo, la autoridad competente ordenará el retiro inmediato de la publicación a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido intimo no autorizado.
 
 ### CAPITULO III. HOSTIGAMIENTO, ACOSO SEXUAL Y CIBERACOSO SEXUAL
 
@@ -5254,3 +5268,13 @@ PRIMERA Remítase el presente Decreto al Gobernador Constitucional del Estado, p
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS NOVENTA Y OCHO POR EL QUE SE REFORMA EL NOMBRE DEL TÍTULO SEXTO, DEL LIBRO SEGUNDO, DENOMINADO "DELITOS CONTRA LA INTIMIDAD PERSONAL O FAMILIAR", PARA QUEDAR DE LA SIGUIENTE FORMA: "DELITOS CONTRA LA INTIMIDAD"; SE REFORMA EL ARTÍCULO 150 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 20 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
