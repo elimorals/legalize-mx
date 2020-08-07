@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-personas-adultas-23183"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-11"
-last_updated: "2017-12-01"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2001.
 
@@ -149,7 +149,9 @@ XLI. Solicitar asesoría de organizaciones nacionales e internacionales que apoy
 
 XLII. Promover ante las instancias que correspondan, la capacitación de cuadros médicos y de personal de apoyo para la atención especializada de las personas adultas mayores.
 
-XLIII. Asesorar y apoyar a los municipios de la entidad que lo soliciten, en la elaboración de los programas que formulen orientados a las personas adultas mayores.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+XLIII. Asesorar y apoyar a los municipios de la entidad que lo soliciten, en la elaboración de los programas que formulen orientados a las personas adultas mayores, así como para la integración de las Unidades de Coordinación Municipal de las Personas Adultas Mayores, en los términos que establece el artículo 72 de la Ley de los Derechos de las Personas Adultas Mayores para el Estado de Coahuila de Zaragoza.
 
 XLIV. Promover, ante los gobiernos estatal y municipales, que las leyes de ingresos correspondientes prevean tarifas o cuotas accesibles a las personas adultas mayores.
 
@@ -702,3 +704,9 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 691.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 41 Y SE ADICIONA EL ARTÍCULO 41 BIS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XLIII DEL ARTÍCULO 3 DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
