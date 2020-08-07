@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2020-06-26"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -110,6 +110,10 @@ Derechos Humanos y sus Garantías.
 
 Dentro del territorio del Estado, toda persona gozará de los derechos humanos reconocidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que el Estado Mexicano sea parte. El ejercicio de estos derechos no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones que establece la Constitución Federal.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Los derechos humanos son inalienables, imprescriptibles, irrenunciables, irrevocables y exigibles. En la aplicación e interpretación de las normas de derechos humanos prevalecerá el principio por persona.
+
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 Las normas relativas a los derechos humanos y a las libertades reconocidas por la Constitución de los Estados Unidos Mexicanos y esta Constitución, se interpretaran de conformidad con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
@@ -124,9 +128,9 @@ b) Limitar el goce y ejercicio de cualquier derecho o libertad que puedan estar 
 
 c) Excluir otros derechos y garantías que sean inherentes al ser humano o que se deriven de la forma democrática y representativa de gobierno.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
-Todas las autoridades estatales y municipales, en el ámbito de su competencia, tendrán la obligación de promover, respetar, proteger y establecer los mecanismos que garanticen los derechos humanos bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad. El Estado deberá de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que determine la ley.
+Todas las autoridades estatales y municipales, en el ámbito de su competencia, tendrán la obligación de promover, respetar, proteger y establecer los mecanismos que garanticen los derechos humanos bajo los principios de universalidad, interdependencia, indivisibilidad, progresividad y no regresividad. El Estado deberá de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que determine la ley.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -175,6 +179,10 @@ f) Las demás atribuciones que establezca la ley.
 4. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
 
 5. Sus integrantes serán designados por el voto de cuando menos las dos terceras partes del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2006)</small>
 
@@ -4138,6 +4146,12 @@ Una vez que se reciba el voto favorable de la mayoría absoluta de los Ayuntamie
 
 En ningún caso perderá esta Constitución su fuerza y vigor, aunque por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a las leyes que en su virtud se hubieren expedido, serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+###### Artículo 199.
+
+En estricta observancia a los principios de progresividad y no regresividad, los derechos y libertades reconocidos en el Estado de Coahuila de Zaragoza, en esta Constitución y en las leyes que de ella emanen, podrán reformarse para ampliar, proteger y garantizar los derechos de las personas, nunca en su detrimento, salvo en aquellos casos en los que se justifiquen plenamente los principios de proporcionalidad y razonabilidad.
+
 ## TRANSITORIOS
 
 1º- Se deroga la Constitución del Estado de 21 de Febrero de 1882.
@@ -5417,3 +5431,19 @@ En tanto subsistan los contratos aprobados por el Congreso durante la vigencia d
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan a lo previsto en el presente decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 651.- SE ADICIONA UN PÁRRAFO OCTAVO, RECORRIÉNDOSE LOS ULTERIORES DEL ARTÍCULO 7º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 652.- SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO SÉPTIMO Y SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE LOS ULTERIORES AL MISMO ARTÍCULO 7º Y EL ARTÍCULO 199 A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
