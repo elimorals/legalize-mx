@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2020-07-10"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1660,6 +1660,10 @@ III. La determinación y aseguramiento de los alimentos que los ex cónyuges tie
 IV. Para el caso de las hijas o hijos mayores de edad cuya tutela sea desempeñada por alguno de los ex cónyuges, las medidas a que se refiere este artículo para su protección.
 
 V. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de las hijas o hijos menores de edad.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+En caso de que exista violencia familiar por parte de uno de los cónyuges en contra del otro o de las o los hijos menores de edad o adolescentes, la terapia psicológica será obligatoria con el fin de erradicar cualquier comportamiento violento, esto sin perjuicio de lo que dispongan las normas en materia penal, civil y procedimental referentes a la materia.
 
 ###### Artículo 245.
 
@@ -4642,3 +4646,11 @@ P.O. 10 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 639.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 279 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 654.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 244 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
