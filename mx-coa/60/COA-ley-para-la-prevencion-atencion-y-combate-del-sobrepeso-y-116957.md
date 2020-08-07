@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-atencion-y-combate-del-sobrepeso-y-11695
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-14"
-last_updated: "2020-05-12"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y COMBATE DEL SOBREPESO Y LA OBESIDAD PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Sección al número 83 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de octubre de 2016.
 
@@ -125,7 +125,9 @@ VII. Evitar el expendio de bebidas y alimentos que no cumplan con los criterios 
 
 VIII. Impulsar dentro de los planteles educativos la elaboración de planes de comidas saludables atractivo (sic) y a su vez accesibles para la población estudiantil, de acuerdo a las necesidades nutricionales propias de su edad y posibilidad económica;
 
-IX. Trabajar conjuntamente con la Secretaría de la Juventud en la elaboración de estadísticas que permitan cuantificar la población estudiantil afectada por el sobrepeso y la obesidad y consecuentemente sirvan para la elaboración de los planes y programas estatales de prevención y combate al sobrepeso y la obesidad;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+IX. Trabajar conjuntamente con el Instituto Estatal de la Juventud en la elaboración de estadísticas que permitan cuantificar la población estudiantil afectada por el sobrepeso y la obesidad y consecuentemente sirvan para la elaboración de los planes y programas estatales de prevención y combate al sobrepeso y la obesidad;
 
 X. Observar e implementar las recomendaciones que realice el Consejo, en todos los planteles del Sistema Educativo del Estado, público o privado en todos sus tipos, niveles y modalidades;
 
@@ -147,7 +149,9 @@ V. Coordinar actividades que promuevan la activación física de los trabajadore
 
 VI. Las demás que le reconozcan esta ley, la Ley Estatal de Educación y otras normas aplicables.
 
-D. A través de la Secretaría de la Juventud:
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+D. A través del Instituto Coahuilense de la Juventud:
 
 I. Promover y fomentar en los distintos ámbitos en los que se desenvuelven los jóvenes el conocimiento de los riesgos que implican el sobrepeso y la obesidad, así como hábitos y actitudes para su prevención y combate;
 
@@ -237,7 +241,9 @@ IV. El o la Titular de la Secretaría del Trabajo;
 
 V. El o la Titular del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza;
 
-VI. El o la Titular de la Secretaría de la Juventud;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+VI. El o la Titular del Instituto Estatal de la Juventud;
 
 VII. El o la Titular del Instituto Estatal del Deporte del Estado de Coahuila de Zaragoza;
 
@@ -450,3 +456,9 @@ P.O. 12 DE MAYO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 679.- SE REFORMA LA FRACCIÓN IX DEL INCISO B Y EL INCISO D DEL ARTÍCULO 5, LA FRACCIÓN VI DEL ARTÍCULO 11 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y COMBATE DEL SOBREPESO Y LA OBESIDAD PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
