@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2020-01-10"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -743,7 +743,9 @@ Son deberes de los Municipios en materia de protección a las personas adultas m
 
 I. Formular y desarrollar programas municipales de atención a las personas adultas mayores, conforme a las estrategias, objetivos y acciones previstas en los Planes Nacional, Estatal y Municipal de Desarrollo y los señalados en esta Ley.
 
-II. Celebrar convenios de colaboración con los Gobiernos Federal, Estatal y de otros Municipios de la Entidad, así como con los sectores público, social y privado en materia de atención a las personas adultas mayores.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+II. Celebrar convenios de colaboración con los Gobiernos Federal, Estatal y de otros Municipios de la Entidad, así como con los sectores público, social y privado en materia de atención a las personas adultas mayores, y promover en coordinación con el Instituto, la integración de Unidades de Coordinación Municipal de las Personas Adultas Mayores que establece el artículo 72 de este ordenamiento legal.
 
 III. Vigilar en la esfera de su competencia, el cumplimiento de la presente Ley, así como de las demás disposiciones legales y reglamentarias aplicables en esta materia.
 
@@ -752,6 +754,40 @@ IV. Conservar en buen Estado, libres de tierra, piedras, arena o cualquier otro 
 V. Vigilar y promover que los estacionamientos públicos cuenten con espacios necesarios para el ascenso y descenso de las personas adultas mayores.
 
 VI. Las demás que les confiera esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+###### Artículo 41 Bis.
+
+Los Ayuntamientos tendrán un enlace municipal de las Personas Adultas Mayores, cuyo objeto será coordinar, promover, gestionar, fomentar, vigilar y evaluar las acciones municipales en materia de protección a las personas adultas mayores, estará representada por los titulares de los Sistemas Municipales para el Desarrollo Integral de la Familia y tendrán las siguientes facultades:
+
+a.- En coordinación con el Instituto, establecer políticas públicas, estrategias, planeación, programación y presupuestación para las personas adultas mayores en el municipio.
+
+b.- Vigilar el seguimiento a la operación y evaluación de los programas de acciones dirigidos a las personas adultas mayores en el municipio;
+
+c.- Llevar a cabo a través de lineamientos los mecanismos e instrumentos de vigilancia de las áreas municipales que integren la atención de las personas adultas mayores;
+
+d.- Promover de acuerdo a sus posibilidades presupuestales, la creación de centros municipales de atención geriátrica y gerontológica, o en su caso, propiciar la canalización a centros estatales o particulares que les brinden atención;
+
+e.- Promover los derechos de las personas adultas mayores y los medios de ejecución para obtenerlos;
+
+f.- Impulsar y promover acciones de salud física y mental, recreación cultural, capacitación profesional y económica, con el fin de lograr una mejor calidad de vida de los adultos mayores;
+
+g.- Fomentar en la sociedad en general una cultura de conocimiento de derechos, obligaciones, respeto y dignificación de las personas adultas mayores;
+
+h.- Propiciar la igualdad de oportunidades ante las distintas instancias gubernamentales frente al resto de la comunidad;
+
+i.- Celebrar convenios con instituciones y/o organizaciones de la sociedad civil, a fin de canalizar y brindar atención a los adultos mayores, que así lo requieran y que carezcan de recursos económicos;
+
+j.- Formular y desarrollar talleres, cursos y capacitaciones a través de programas de actualización para el cuidado geriátrico; dirigidos al personal que labore en instituciones, asilos o asistentes personales de algún adulto mayor;
+
+k.- Instrumentar programas de prevención y protección para los adultos mayores que se encuentren en situación de riesgo, abuso, violencia o desamparo, incorporándolos al núcleo familiar o canalizándolos a las instituciones correspondientes para su debido resguardo y atención;
+
+l.- Atender o canalizar a las personas adultas mayores para que reciban asesoría jurídica, psicológica, geriátrica, medica, terapéutica, ante las instancias federales y estatales que correspondan;
+
+m.- Coadyuvar con las instancias federales y estatales para diseñar acciones con el fin de erradicar y combatir las prácticas de violencia en contra de los adultos mayores y;
+
+ñ.- Las demás que fueren necesarias para garantizar una atención integral a las personas adultas mayores.
 
 ###### Artículo 42.
 
@@ -1610,3 +1646,9 @@ P.O. 10 DE ENERO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 691.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 41 Y SE ADICIONA EL ARTÍCULO 41 BIS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XLIII DEL ARTÍCULO 3 DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
