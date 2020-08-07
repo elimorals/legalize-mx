@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2020-07-10"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -73,9 +73,9 @@ l. La identificación, estudio, análisis, prevención y control de las situacio
 
 II. El establecimiento de procedimientos, estrategias y líneas de acción tendientes a la prevención de las situaciones a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
-III. La expedición, aplicación, evaluación y difusión del Plan Estatal y el Programa Estatal de Protección Civil, así como de los planes y programas específicos, sectoriales, regionales o acciones que de éstos se deriven;
+III. La expedición, aplicación, evaluación y difusión del Plan Estatal, el Programa Estatal de Protección Civil, el Atlas Estatal de Riesgos, así como los planes y programas específicos, sectoriales, regionales o acciones que de éstos se deriven;
 
 IV. La ejecución coordinada de programas y acciones de los gobiernos federal, estatales y municipales, tendientes a hacer del conocimiento de la población las medidas que, para la prevención y control de desastres, se estimen necesarios, y
 
@@ -103,21 +103,35 @@ VII. Corresponsabilidad entre sociedad y gobierno, y
 
 VIII. Honradez y de respeto a los derechos humanos.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2020)</small>
 
-ARTÍCULO 4 BIS.- Las políticas públicas en materia de protección civil, se ceñirán al Plan Estatal de Desarrollo y los Programas de Protección Civil, identificando para ello las siguientes prioridades:
+ARTÍCULO 4 BIS.- Las políticas públicas en materia de protección civil, se ceñirán al Plan Estatal de Desarrollo, los Programas de Protección Civil y el Atlas Estatal de Riesgos identificando para ello las siguientes prioridades:
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 I. La identificación y análisis de riesgos como sustento para la implementación de medidas de prevención y mitigación;
 
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 II. Promoción, desde la niñez, de una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad;
 
-III. Obligación del Estado y los Municipios, para reducir los riesgos sobre los agentes afectables y llevar a cabo las acciones necesarias para la identificación y el reconocimiento de la vulnerabilidad de las zonas bajo su jurisdicción;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+III. Obligación del Estado y los Municipios, para reducir los riesgos sobre los agentes afectables y llevar a cabo las acciones necesarias para la identificación y el reconocimiento de la vulnerabilidad de las zonas bajo su jurisdicción; para lo anterior, los 38 Municipios deberán expedir y mantener actualizado y vigente su Atlas Municipal de Riesgos.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 IV. El fomento de la participación social para crear comunidades resilientes, y por ello capaces de resistir los efectos negativos de los desastres, mediante una acción solidaria, y recuperar en el menor tiempo posible sus actividades productivas, económicas y sociales;
 
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 V. Incorporación de la gestión integral del riesgo, como aspecto fundamental en la planeación y programación del desarrollo para revertir el proceso de generación de riesgos;
 
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+
 VI. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y afectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías; y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
 VII. La atención prioritaria para la población vulnerable.
 
@@ -467,7 +481,9 @@ I. Establecer políticas y estrategias en materia de protección civil, que gara
 
 II. Coordinar las acciones para el adecuado funcionamiento del Sistema y promover la coordinación de acciones entre el Estado con los gobiernos federal y municipales;
 
-III. Aprobar y publicar el Plan Estatal y Programa Estatal de Protección Civil y demás programas específicos, sectoriales, regionales o acciones que de éstos se deriven;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+III. Aprobar y publicar el Plan Estatal, el Programa Estatal de Protección Civil, el Atlas Estatal de Riesgos y demás programas específicos, sectoriales, regionales o acciones que de éstos se deriven;
 
 IV. Crear fondos para la prevención y atención de emergencias o desastres. La aplicación de estos fondos se hará conforme a las disposiciones presupuestaIes y legales aplicables;
 
@@ -542,6 +558,10 @@ VI. Coordinar y asumir el control de las acciones emprendidas por las instancias
 (REFORMADA, P.O. 6 DE OCTUBRE DE 2017) (F. DE E., P.O. 3 DE NOVIEMBRE DE 2017)
 
 VII. Elaborar y actualizar el Atlas Estatal de Riesgos, así como verificar, en términos de ley y en colaboración con las autoridades competentes, la elaboración y actualización de los atlas municipales de riesgo, y la certificación de competencias de sus integrantes y de las unidades municipales;
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Para esto, tendrá que apoyar por medio de campañas de capacitación a los 38 municipios con el fin de asesorar sobre la elaboración, los criterios y lineamientos a considerar para la formulación y expedición de estos.
 
 VIII. Implementar y evaluar acciones de emergencia en las zonas que se establezcan, así como proveer las medidas necesarias para su operación;
 
@@ -663,13 +683,17 @@ Corresponde a los ayuntamientos, por conducto de su presidente municipal, el eje
 
 I. Establecer las medidas necesarias para la debida observancia y cumplimiento de las disposiciones en materia de protección civil;
 
-II. Aprobar, publicar y ejecutar el Programa Municipal de Protección Civil, así como los planes y programas que de éste se deriven;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+II. Aprobar, publicar y ejecutar el Programa Municipal de Protección Civil y el Atlas Municipal de Riesgos, así como los planes y programas que de éste se deriven;
 
 III. Dirigir las acciones que se requieran para enfrentar, en primera instancia, las emergencias y desastres que se presenten dentro de su jurisdicción municipal;
 
 IV. Proporcionar a la Subsecretaría la información que le sea requerida para la integración del Atlas Estatal de Riesgos, así como para las distintas funciones que aquella lleve a cabo;
 
-V. Identificar y diagnosticar los riesgos a los que está expuesto el municipio y autorizar el Atlas Municipal de Riesgos;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+V. Identificar y diagnosticar los riesgos a los que está expuesto el municipio, para crear y autorizar el proyecto de Atlas Municipal de Riesgos; así mismo, mantenerlo actualizado y vigente conforme a los riesgos de su municipio.
 
 VI. Participar en el Sistema y asegurar la congruencia de los programas municipales con el Plan y Programa Estatal, haciendo las propuestas que estimen pertinentes;
 
@@ -866,6 +890,10 @@ II. Cooperar con las autoridades correspondientes en la ejecución de acciones e
 III. Colaborar con las autoridades estatales y municipales para el debido cumplimiento de los programas de protección civil, y
 
 IV. Participar, previa solicitud de la autoridad competente, en la difusión del Plan Estatal y los programas de protección civil, principalmente en aquellos relacionados con riesgos que se presenten en su barrio, colonia, zona o centro de población.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+V. Observar las medidas de prevención y seguridad de protección civil dispuestas en las fracciones V, X, XIII y XIV cuando se encuentren en una situación de exponer a terceros ante algún riesgo o peligro.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
@@ -1950,3 +1978,11 @@ P.O. 10 DE JULIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- La Secretaría de Gobierno a través de la Subsecretaría de Protección Civil en el Estado deberá emitir dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto, el protocolo especial de actuación en materia de prevención y atención de siniestros, ocasionados por la instalación y/o funcionamiento de juegos mecánicos.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 656.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 3, EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 4 BIS Y LA FRACCIÓN III DEL ARTÍCULO 10, LA FRACCIÓN II Y LA FRACCIÓN V DEL ARTÍCULO 13; SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 12 Y LA FRACCIÓN V AL ARTÍCULO 25, TODOS DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. - El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO. - Se derogan todas las disposiciones legales que se opongan al presente Decreto.
