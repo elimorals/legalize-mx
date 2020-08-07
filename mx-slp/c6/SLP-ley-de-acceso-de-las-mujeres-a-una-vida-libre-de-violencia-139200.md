@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2020-04-14"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -153,37 +153,121 @@ e) Practicar el parto vía cesárea sin autorización de la madre cuando existan
 
 XII. Violencia patrimonial: cualquier acto u omisión que afecta la situación patrimonial de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades, y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
-XIII. Violencia política: cualquier acción u omisión cometida por una o varias personas, o servidores públicos, por sí o a través de terceros, que causen daño físico, psicológico, económico, o sexual, en contra de una o varias mujeres, y/o de su familia, para acotar, restringir, suspender, o impedir el ejercicio de sus derechos ciudadanos y político-electorales, o inducirla a tomar decisiones en contra de su voluntad. Puede expresarse en:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE AGOSTO DE 2020)</small>
 
-a) Imponer por estereotipos de género y (sic) la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+XII (SIC). Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+a) Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función.
 
 b) Asignar responsabilidades que tengan como resultado la limitación del ejercicio de la función político-pública.
 
-c) Proporcionar a las mujeres candidatas, o autoridades electas o designadas, información falsa, errada, o imprecisa que ocasione una competencia desigual, o induzca al inadecuado ejercicio de sus funciones político-públicas.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
-d) Evitar por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a una función pública, asistan a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias, o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+c) Proporcionar a las mujeres, aspirantes, candidatas, o electas para ocupar un cargo público, o que ocupen un cargo público, información falsa, errada, incompleta o imprecisa, que impida su registro como aspirante o candidata, que ocasione una competencia desigual en el acceso al cargo al que se aspira, o induzca al incorrecto ejercicio de sus atribuciones y funciones político-públicas.
 
-e) Proporcionar al Instituto Nacional Electoral, datos falsos o información incompleta de la identidad, o sexo de la persona candidata.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
-f) Divulgar o revelar información personal y privada de las mujeres candidatas, electas, designadas, o en ejercicio de sus funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos, y utilizar la misma para obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan.
+d) Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o cargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+e) Proporcionar datos falsos o información incompleta a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+f) Divulgar o revelar por cualquier medio físico o virtual, imágenes, mensajes o información personal y privada de una mujer candidata, electa, designada, o en ejercicio de sus funciones político-públicas, con el propósito de utilizar la misma para obtener contra su voluntad su renuncia y/o licencia al cargo que ejerce o postula, o desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género.
 
 g) Cometer cualquier conducta que implique amenazas, difamación, desprestigio, burlas, ofensas, insultos, descalificación, calumnias, hostigamiento, acoso, hostigamiento sexual, acoso sexual, presión, persecución, coacción, vejación, discriminación, o privación de la libertad, sin importar el medio utilizado, encaminada a la limitación o restricción del ejercicio de la función político-pública, o del ejercicio de derechos ciudadanos para ocupar cargos públicos y/o ejercer funciones públicas.
 
 h) Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales, o inducir al ejercicio indebido de sus atribuciones.
 
-i) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+i) Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género.
 
 j) Difundir información falsa relativa a las funciones político-públicas, con el objetivo de desprestigiar su gestión y obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan.
 
-k) Impedir o restringir su reincorporación al cargo tras hacer uso de licencia justificada.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+k) Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad.
 
 l) Restringir o impedir el uso de acciones constitucionales y legales para proteger sus derechos frente a los actos, o evitar el cumplimiento de las resoluciones correspondientes.
 
-m) Imponer sanciones injustificadas, impidiendo o restringiendo sus derechos políticos.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+m) Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad.
 
 n) Discriminar a las mujeres electas, designadas o en el ejercicio de la función político-pública, por encontrarse en estado de embarazo, impidiendo o negando el ejercicio de su mandato o el goce de sus derechos sociales reconocidos por ley o los que le correspondan.
 
-ñ) Presionar o inducir a las mujeres en el ejercicio de la función político-pública a renunciar a su encargo;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+ñ) Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+o) Incumplir las disposiciones jurídicas nacionales e internacionales que consignan el ejercicio de los derechos políticos de las mujeres.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+p) Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+q) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+r) Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+s) Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+t) Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+u) Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+v) Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al correcto ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+w) Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+x) Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+y) Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+z) Cualesquier otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral; penal; y de responsabilidades administrativas.
 
 XIV. Violencia psicológica: todo acto u omisión que daña la estabilidad psicológica que puede consistir en: prohibiciones, coacciones, condicionamientos, intimidaciones, desdén, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, chantaje, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación, amenazas, o cualquier otra que conlleva a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
@@ -1296,3 +1380,11 @@ P.O. 14 DE ABRIL DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 0725 "SE REFORMA EL ARTÍCULO 4º EN SU FRACCIÓN XII, EL PÁRRAFO PRIMERO Y LOS INCISOS: A), C), D), E), F), I), K), M) Y Ñ); Y ADICIONA AL MISMO ARTÍCULO 4º EN SU FRACCIÓN XII CUATRO PÁRRAFOS, ÉSTOS COMO SEGUNDO, TERCERO, CUARTO, Y TRIGÉSIMO SEGUNDO, E INCISOS DEL O) AL Z), DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
