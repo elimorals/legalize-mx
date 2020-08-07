@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2019-10-22"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -997,9 +997,11 @@ El Sistema contará además con un Consejo Consultivo que estará integrado por 
 
 ## Título Quinto. De las responsabilidades y sanciones
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 88°.
 
-El incumplimiento a lo dispuesto en esta ley por parte de las autoridades estatales y municipales generará responsabilidad y será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
+El incumplimiento a lo dispuesto en esta ley por parte de las autoridades estatales y municipales generará responsabilidad y será sancionado conforme a la Ley General de Responsabilidades Administrativas, y a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, según corresponda.
 
 ###### Artículo 89°.
 
@@ -1013,7 +1015,9 @@ La infracción a las disposiciones contenidas en este cuerpo legal, serán denun
 
 Son infracciones leves:
 
-I. Obstruir las rampas o accesos para personas con discapacidad
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+I. Obstruir los cajones de estacionamiento, las rampas o accesos para personas con discapacidad.
 
 II. La exigencia de pago alguno por el acceso de los perros guía sin que su entrada implique gasto adicional, conforme la presente ley.
 
@@ -1057,7 +1061,13 @@ II. Para las infracciones graves, multa equivalente de 51 a 100 veces el valor d
 
 III. Para las infracciones muy graves, multa equivalente de 100 a 300 veces el valor diario de la unidad de medida y actualización. En el caso que la infracción consista en el supuesto señalado en el artículo 93 fracción III, y que derivado de ese daño físico, el perro guía pierda la vida o se prive en definitiva de sus facultades para la prestación del servicio, la sanción será de 200 a 600 veces el valor diario de la unidad de medida y actualización.
 
-El monto de dinero obtenido de estas sanciones será destinado a la realización de programas en beneficio o atención a personas con discapacidad.
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Las multas que se impongan por concepto de infracciones a lo previsto en la presente Ley no podrán ser reducidas, compensadas y/o condonadas, salvo en los casos en los que la persona infraccionada pueda comprobar mediante diagnóstico médico una discapacidad temporal.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+El monto de dinero obtenido de estas sanciones será destinado a la realización, seguimiento y apoyo de programas en beneficio o atención a personas con discapacidad, preferiblemente en programas destinados al perfeccionamiento de la infraestructura, con el objetivo de facilitar la accesibilidad y la movilidad de personas con discapacidad.
 
 ###### Artículo 95°.
 
@@ -1346,5 +1356,11 @@ P.O. 29 DE MAYO DE 2018.
 P.O. 22 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 359.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 52 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 693.- SE REFORMA EL ARTÍCULO 88 Y LA FRACCIÓN I DEL ARTÍCULO 91 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 94, RECORRIÉNDOSE EL ACTUAL PÁRRAFO AL FINAL Y REFORMANDO SU CONTENIDO, TODOS DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
