@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2020-06-26"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -805,7 +805,9 @@ I. Contar con la infraestructura necesaria para brindar a los animales que resca
 
 II. Promover constantemente entre la población los beneficios de la tutela responsable, la adopción, esterilización y vacunación de los animales;
 
-III. Reducir y controlar la reproducción de los animales en situación de calle por medio de la esterilización obligatoria;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+III. Reducir y controlar la reproducción de los animales en situación de calle por medio de la esterilización obligatoria. Cada municipio, en la medida de sus posibilidades y en coordinación con las secretarías de Salud y de Medio Ambiente, realizará por lo menos una campaña de esterilización obligatoria cada seis meses, debiendo poner algún tipo de distintivo a cada animal en situación de calle que haya sido esterilizado, así como llevar un reporte del número y condición de salud de los animales esterilizados mismo que será presentado a la Secretaría de Salud;
 
 IV. Prestar servicios de reintegración de animales de compañía a través de la adopción;
 
@@ -1356,3 +1358,11 @@ P.O. 26 DE JUNIO DE 2020.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 680.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 65 A DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
