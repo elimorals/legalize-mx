@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2020-06-26"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -314,6 +314,10 @@ XI. Los demás casos o situaciones que el Consejo determine y deban atenderse.
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 Así mismo, el Consejo ordenará que se realice lo necesario para que se establezca de forma interinstitucional un programa específico y prioritario para brindar atención a niños, niñas y adolescentes cuando se encuentren en situación de calle; así como impulsar e implementar medidas tendientes a prevenir y evitar que realicen actividades marginales o de sobrevivencia mediante acciones preventivas para protegerlos y evitar su explotación; y que se implemente un programa interinstitucional para la defensa y protección de migrantes y repatriados, brindando los servicios necesarios para reintégralos con sus familias y comunidades de origen. Además, con las organizaciones de la sociedad civil, impulsar la consolidación de albergues de tránsito para su atención especializada y temporal.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+En cuanto al programa interinstitucional de defensa y protección de migrantes y repatriados, será menester del Estado vigilar en todo momento sea apegado al respeto de los derechos humanos de los niños, niñas y adolescentes.
 
 ### CAPÍTULO CUARTO
 
@@ -2030,3 +2034,11 @@ P.O. 26 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 626.- SE REFORMA EL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 34, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, LAS FRACCIONES III Y VII DEL ARTÍCULO 56, Y LA FRACCIÓN II DEL ARTÍCULO 164 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 657.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
