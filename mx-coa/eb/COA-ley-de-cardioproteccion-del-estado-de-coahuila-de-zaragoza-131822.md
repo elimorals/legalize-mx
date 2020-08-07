@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cardioproteccion-del-estado-de-coahuila-de-zaragoza-1318
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-27"
-last_updated: "2018-11-27"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CARDIOPROTECCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de noviembre de 2018.
 
@@ -99,11 +99,19 @@ Los administradores de los inmuebles y los responsables de los eventos públicos
 
 1. El buen uso y mantenimiento que se le dé a los desfibriladores automáticos externos para que éstos se encuentren siempre en óptimas condiciones para su utilización.
 
-2. Contar dentro del personal a su cargo, con personas capacitadas en el uso de los desfibriladores automáticos externos e instruidos en las técnicas de reanimación cardiopulmonar, de conformidad a lo establecido en el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+2. Contar dentro del personal a su cargo, con un mínimo de 30 por ciento de personas del inmueble y/o del evento capacitadas en el uso de los desfibriladores automáticos externos e instruidos en las técnicas de reanimación cardiopulmonar, de conformidad a lo establecido en el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+3. Promover la capacitación, perfeccionamiento y actualización constante de su personal, sobre el manejo de los desfibriladores automáticos externos, resucitación cardiopulmonar y primeros auxilios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 6.
 
-Los desfibriladores automáticos externos deberán situarse en lugares de fácil acceso y adecuadamente señalizados, colocando sus instrucciones de manera clara y visible, de tal forma que se facilite su uso a cualquier persona, estos dispositivos deberán estar adecuadamente protegidos para su mayor seguridad y conservación.
+Los desfibriladores automáticos externos deberán situarse en lugares de fácil acceso y adecuadamente señalizados, colocando sus instrucciones en idioma español de manera clara y visible, así como material ilustrativo, tanto de su manejo, como de la técnica de resucitación pulmonar, de tal forma que se facilite su uso a cualquier persona, estos dispositivos deberán estar adecuadamente protegidos para su mayor seguridad y conservación.
 
 Además de la señalización referida en el párrafo anterior, deberá colocarse la publicidad necesaria a efecto de difundir la ubicación de los desfibriladores automáticos externos, la cual deberá colocarse a un rango de 500 metros de radio del lugar donde esté situado el desfibrilador.
 
@@ -214,3 +222,13 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 676.- SE REFORMA EL NUMERAL 2 Y SE ADICIONA EL NUMERAL 3 AL ARTÍCULO 5°, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6° DE LA LEY DE CARDIOPROTECCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se concede un plazo de noventa días naturales, contados a partir de la publicación del presente Decreto, para que los administradores de los inmuebles a que se refiere la presente ley, capaciten a las personas que al efecto se designen.
