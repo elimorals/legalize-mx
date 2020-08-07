@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2020-05-12"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -3253,9 +3253,19 @@ IX. La desocupación o desalojo de casas, edificios, establecimientos y, en gene
 
 X. La prohibición de actos de uso, y
 
-XI. Las demás de índole sanitaria que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+XI. Los filtros de control sanitario;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+XII. Las demás de índole sanitaria que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
 
 Son de inmediata ejecución las medidas de seguridad señaladas en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Las autoridades encargadas de implementar la medida de seguridad prevista en la fracción XI, deberán establecer los protocolos necesarios para su ejecución.
 
 ###### Artículo 276.
 
@@ -4060,3 +4070,11 @@ P.O. 12 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 601.- SE REFORMA LA FRACCIÓN X DEL INCISO B DEL ARTÍCULO 4°, SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XI Y SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 222 DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 677.- SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 275, SE ADICIONA LA FRACCIÓN XII Y UN TERCER PÁRRAFO DEL ARTÍCULO 275, DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
