@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-del-suicidio-para-el-estado-de-coahuila-13557
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2019-04-09"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección al Número 29 del Periódico Oficial del Estado de Coahuila, el martes 9 de abril de 2019.
 
@@ -105,7 +105,9 @@ VI. Encabezar a un órgano multidisciplinario e interinstitucional, en el que es
 
 Como acciones concretas para inhibir el suicidio, la Secretaría de Salud deberá:
 
-I. Poner en práctica programas periódicos de capacitación al personal médico, operativo y administrativo de los sectores educativo, gubernamental y penitenciario, principalmente, a fin de desarrollar entre ellos habilidades preventivas.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+I. Poner en práctica programas periódicos de capacitación al personal médico, operativo y administrativo de los sectores educativo, gubernamental y penitenciario, principalmente, a fin de desarrollar entre ellos habilidades preventivas. Los programas periódicos de capacitación al sector de educación básica y media del Sistema Educativo Estatal, serán impartidos a los trabajadores sociales especialistas en psicología o a través de un área especializada en la materia dentro del plantel educativo, a fin de establecer en conjunto los protocolos de prevención del suicidio, con el objeto de intervenir oportunamente en la atención de los alumnos como lo establece la Ley Estatal de Educación.
 
 II. Contar con equipos adecuados y suficientes, incluso vehículos automotores, es decir, “unidades itinerantes de salud mental”, para proporcionar un servicio integral de calidad, especialmente en la detección y atención eficaz de los casos de conducta suicida.
 
@@ -154,6 +156,22 @@ IV. Emitir recomendaciones y concretar acuerdos, mediante cartas-compromiso, con
 - Mostrar la debida consideración hacia la familia del suicida, por lo que deben sopesarse las entrevistas periodísticas a cualquiera de sus integrantes, ya que están en situación de vulnerabilidad y también tienen mayor riesgo suicida.
 
 - Brindar apoyo terapéutico a los comunicadores, en virtud de que estos también pueden verse afectados por las noticias sobre el suicidio.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
+Artículo 8º bis.- Como acciones concretas para prevenir el suicidio, la Secretaría de Educación deberá:
+
+I. Realizar, bajo la asesoría de la autoridad sanitaria, un plan y estrategias de prevención de la conducta suicida en estudiantes.
+
+II. Promover la capacitación del personal del sector educativo que lleve a cabo la Secretaría de Salud, para la detección oportuna de niños, niñas, y adolescentes con tendencia suicida, o bien, que hayan intentado suicidarse.
+
+III. Elaborar un protocolo para la atención oportuna a alumnos con conducta suicida.
+
+IV. Realizar campañas de orientación en el sector educativo, principalmente en zonas con alto índice de suicidios entre su población, que vayan dirigidos directamente a su comunidad educativa.
+
+V. Impulsar la participación de madres y padres de familia o tutores, en acciones para prevenir el suicidio.
+
+VI. Las demás que se considere necesarias poner en marcha para el beneficio de toda la comunidad escolar.
 
 ### CAPÍTULO IV. TRATAMIENTO A PERSONAS CON TENDENCIAS SUICIDAS
 
@@ -254,3 +272,19 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 678.- SE ADICIONA EL ARTÍCULO 8° BIS A LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 682.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
