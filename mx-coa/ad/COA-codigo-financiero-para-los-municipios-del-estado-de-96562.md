@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-96562"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-07"
-last_updated: "2020-01-10"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el jueves 7 de noviembre del 2013.
 
@@ -3137,9 +3137,9 @@ El Presidente Municipal, mediante resolución de carácter general y previa auto
 
 I. Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar del Municipio una rama de actividad, la producción o venta de productos o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
-Previo acuerdo, fundado y motivado, se necesitará de la autorización de las dos terceras partes de los miembros del Ayuntamiento y se limitará la condonación hasta por un 30% del valor de la contribución, para todos aquellos casos que determine el Ayuntamiento y no estén previstos en el párrafo anterior.
+Previo acuerdo, fundado y motivado, se necesitará de la autorización de las dos terceras partes de los miembros del Ayuntamiento y se limitará la condonación hasta por un 50% del valor de la contribución, para todos aquellos casos que determine el Ayuntamiento y no estén previstos en el párrafo anterior.
 
 II. Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
 
@@ -4516,3 +4516,9 @@ b) 120 días posteriores a la emisión de los Acuerdos Generales a que a que (si
 c) 180 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales del resto de los municipios del Estado.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 659.- SE MODIFICA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 383 DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA EL SEGUNDO PÁRRAFO DEL NUMERAL 1 DE LA FRACCIÓN VI DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
