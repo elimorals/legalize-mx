@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-fomento-a-la-gastronomia-en-el-estado-de-135574"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2019-04-09"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL FOMENTO A LA GASTRONOMÍA EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección al Número 29 del Periódico Oficial del Estado de Coahuila, el martes 9 de abril de 2019.
 
@@ -177,6 +177,10 @@ XII. Implementar mecanismos de análisis, evaluación y previsión oportuna, del
 
 XIII. Impulsar mediante la adopción de prácticas económicas, la innovación, calidad y sustentabilidad, que incentiven la competitividad de los productos y servicios y fomenten el aprovechamiento sustentable de los recursos naturales y energéticos.
 
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+XIV. Generar vínculos entre la producción ganadera, agrícola, pesquera y apícola del Estado con el comercio e industria gastronómica local para satisfacer la demanda de insumos, y promocionar la cocina sostenible con productos de proximidad.
+
 ###### Artículo 10.
 
 Las líneas de acción, proyectos y programas, resultado de la aplicación de la Política Estatal, se sustentarán en un desarrollo integral en el ámbito económico, turístico, cultural, educativo, de salud, social y nutrición, de derechos humanos, con enfoque incluyente, de manera que pueda coadyuvar al cumplimiento de los objetivos planteados en la presente Ley.
@@ -316,3 +320,13 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 683.- SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 9° DE LA LEY PARA EL FOMENTO DE LA GASTRONOMÍA EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
