@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2019-06-14"
+last_updated: "2020-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -68,6 +68,10 @@ Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres qu
 ###### Artículo 4.
 
 La trasgresión a los principios y programas que prevé esta Ley, por parte de servidores públicos, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE AGOSTO DE 2020)</small>
+
+En lo no previsto por esta Ley, se aplicará supletoriamente, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California y la Ley del Instituto de la Mujer para el Estado de Baja California, en lo estrictamente conducente.
 
 ###### Artículo 5.
 
@@ -155,13 +159,17 @@ V. Aprobar y aplicar el Programa Estatal;
 
 VI. Promover, en coordinación con las dependencias de la Administración Pública Estatal, la aplicación de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
-VII. Promover la capacitación continua de los servidores públicos de la administración pública del Estado en materia de igualdad entre mujeres y hombres, así como el trabajo conjunto entre autoridades estatales y sociedad civil en la materia, y
+VII. Promover la capacitación continua de los servidores públicos de la administración pública del Estado en materia de igualdad entre mujeres y hombres, así como el trabajo conjunto entre autoridades estatales y sociedad civil en la materia;
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
-VIII. Establecer lineamientos de observancia obligatoria para los servidores públicos de la administración pública del estado, en materia de igualdad entre mujeres y hombres.
+VIII. Establecer lineamientos de observancia obligatoria para los servidores públicos de la administración pública del Estado, en materia de igualdad entre mujeres y hombres, y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+IX. Coordinar acciones de gobierno transversales con perspectiva de igualdad de género.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
 
@@ -259,9 +267,33 @@ V. Promover la eliminación de estereotipos establecidos en función del sexo;
 
 VI. Establecer medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
 
-VII. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad entre hombres y mujeres, e
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
-VIII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
+VII. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad entre hombres y mujeres;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+VIII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+IX. Promover la igualdad entre mujeres y hombres en la vida civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+X. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+XI. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+XII. Promover que, en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal y Municipal, así como, en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva.
 
 ### CAPÍTULO SEGUNDO. INSTRUMENTOS
 
@@ -283,9 +315,11 @@ En el diseño, elaboración, aplicación, evaluación y seguimiento de los instr
 
 El Ejecutivo Estatal es el encargado de la aplicación del Sistema Estatal y el Programa Estatal a través de los órganos correspondientes.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 20.
 
-El Instituto tendrá a su cargo la coordinación del Sistema Estatal, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
+El Instituto a través de su Junta Directiva, sin menoscabo de las atribuciones que le confiere la Ley específica, tendrá a su cargo la coordinación del Sistema Estatal, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
 
 ###### Artículo 21.
 
@@ -301,9 +335,25 @@ El Sistema Estatal es el conjunto orgánico y articulado de estructuras, relacio
 
 El Sistema Estatal tendrá los objetivos siguientes:
 
-I. Promover la igualdad de trato y oportunidades entre mujeres y hombres y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
-II. Contribuir a la erradicación de todo tipo de discriminación.
+I. Promover la igualdad de trato y oportunidades entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+
+II. Contribuir a la erradicación de todo tipo de discriminación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+III. Contribuir al adelanto de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+IV. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2020)</small>
+
+V. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres.
 
 ###### Artículo 24.
 
@@ -618,3 +668,15 @@ P.O. 14 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 339 MEDIANTE EL CUAL SE APRUEBA DIVERSAS REFORMAS A LA LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 89 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 Y LA ADICIÓN DE UNA FRACCIÓN IX AL ARTÍCULO 13 AMBOS DE LA LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 90 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 16, 20 Y 23 DE LA LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
