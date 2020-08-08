@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-07-25"
+last_updated: "2020-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2027,9 +2027,9 @@ La Legislatura tiene facultades para pedir el apoyo de los Jefes y Oficiales de 
 
 La Legislatura no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por ley anterior; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2020)</small>
 
-En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 138 de esta Constitución y demás disposiciones legales aplicables.
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 138 de esta Constitución y demás disposiciones legales aplicables, quedando obligados todos los ejecutores del gasto púbico (sic) a entregar cualquier información que les solicite el Congreso del Estado o la Comisión Permanente de Presupuesto y Programación, relativa a las remuneraciones por servicios personales, los tabuladores de sueldos y salarios y toda información que generen o tengan a su cargo referente a las adscripciones, percepciones, deducciones y retenciones del personal contratado en todas las modalidades de pago.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -5614,3 +5614,11 @@ P.O. 25 DE JULIO DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 8 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1479.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
