@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2020-02-29"
+last_updated: "2020-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2020.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -2441,7 +2441,9 @@ A quienes infrinjan las disposiciones contenidas en esta Ley y el Reglamento que
 
 I. Multa de tres a trescientas veces la unidad de medida y actualización vigente en el Estado de Oaxaca;
 
-II. Retiro y aseguramiento de vehículos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2020)</small>
+
+II. Retiro y aseguramiento de vehículos, y además en los casos que se prevén en el artículo 24 de la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca;
 
 III. Suspensión de las licencias de conducir hasta por ciento ochenta días;
 
@@ -2592,3 +2594,11 @@ P.O. 29 DE FEBRERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado de Oaxaca y la Secretaría de Movilidad, contará con 60 días hábiles posteriores a la entrada en vigor del presente Decreto, para establecer la normatividad para elaborar, sin perjuicio de la competencia municipal, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos.
+
+P.O. 8 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1485.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 226 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
