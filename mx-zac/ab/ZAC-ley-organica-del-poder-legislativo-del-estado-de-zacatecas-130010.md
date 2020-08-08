@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2020-05-16"
+last_updated: "2020-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2020.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -37,7 +37,7 @@ DECRETO #448
 
 LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 
-[…]
+[...]
 
 Por todo lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo del Estado, en nombre del Pueblo, se
 
@@ -124,6 +124,10 @@ La Legislatura promoverá la implementación del Parlamento Abierto, basado en l
 ###### Artículo 12.
 
 El Parlamento Abierto promoverá el derecho a la información de los ciudadanos; la participación ciudadana y la rendición de cuentas; la difusión proactiva de la información parlamentaria con la mayor cantidad de información relevante, utilizando formatos sencillos, mecanismos de búsqueda simples y bases de datos en línea con actualización periódica, incluyendo la información presupuestal y administrativa; la información procedente sobre los diputados y servidores públicos de la Legislatura, incluidas las declaraciones a que se refiere la Ley General, cuya información será resguardada de acuerdo con la legislación en materia de transparencia, acceso a la información pública y protección de datos personales; la información histórica con datos abiertos; sesiones accesibles y abiertas al público.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2020)</small>
+
+De la misma forma, se propiciará la participación de la sociedad civil en el proceso de dictaminación de la Ley de Ingresos y del Presupuesto de Egresos de la entidad.
 
 ## TÍTULO SEGUNDO. TRANSMISIÓN DE LA LEGISLATURA DEL ESTADO
 
@@ -403,7 +407,9 @@ V. Informar el quince de septiembre de cada año del ejercicio del presupuesto y
 
 VI. Convocar a foros, debates, consultas, realizar estudios de opinión, aplicar encuestas y practicar levantamientos de información empírica, como parte del trabajo de las comisiones;
 
-VII. Incluir a la ciudadanía en las políticas de Parlamento Abierto, promoviendo el derecho a la información, la rendición de cuentas y la participación ciudadana;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2020)</small>
+
+VII. Incluir a la sociedad civil en las políticas de Parlamento Abierto, promoviendo el derecho a la información, la rendición de cuentas y la participación ciudadana en las actividades legislativas, así como en el análisis de la Ley de Ingresos y del Presupuesto de Egresos de la entidad;
 
 VIII. Elegir a los integrantes de la Comisión de Selección para la conformación del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, y
 
@@ -1491,7 +1497,11 @@ IX. Citar a los titulares de las distintas dependencias o entidades de la admini
 
 X. Incorporar la perspectiva de género y de derechos humanos de mujeres y hombres en las tareas y funciones legislativas, y
 
-XI. Las demás que señale esta Ley, las disposiciones reglamentarias o los acuerdos del Pleno.
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2020)</small>
+
+XI. Invitar a reunión de la Comisión al diputado o diputados promoventes de una iniciativa, a efecto de que conozcan el sentido y alcance del dictamen de su propuesta y puedan expresar su opinión sobre el particular, y
+
+XII. Las demás que señale esta Ley, las disposiciones reglamentarias o los acuerdos del Pleno.
 
 ###### Artículo 133.
 
@@ -1507,7 +1517,9 @@ IV. Presentar al inicio de cada periodo el calendario de reuniones;
 
 V. Conducir las sesiones de la comisión;
 
-VI. Solicitar la información y copias de documentos que requiera de los archivos y oficinas del Estado y municipios, así como citar o entrevistarse con funcionarios públicos para sustentar su criterio en el estudio de los asuntos que le sean encomendados;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2020)</small>
+
+VI. Solicitar la información y copias de documentos que requiera de los archivos y oficinas del Estado y municipios, así como citar o entrevistarse con funcionarios públicos para sustentar su criterio en el estudio de los asuntos que le sean encomendados; de igual forma, podrán invitar al diputado o diputados promoventes de una iniciativa, a efecto de que conozcan el sentido y alcance del dictamen de su propuesta y puedan expresar su opinión sobre el particular;
 
 VII. Presentar a la Asamblea, los acuerdos, resoluciones o dictámenes de los asuntos que competan a su comisión;
 
@@ -2003,6 +2015,10 @@ IV. Organizar foros de consulta a efecto de captar y realizar propuestas que tie
 
 V. Representar a la Legislatura del Estado, a través de su Presidente, ante organismos gubernamentales del sector público, privado y de la sociedad civil, cuando se aborden temas en materia de Parlamento Abierto.
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2020)</small>
+
+VI. En coordinación con la Comisión de Presupuesto y Cuenta Pública, organizar foros de consulta y reuniones de trabajo con los sectores de la sociedad civil para escuchar sus propuestas, durante el proceso de dictaminación de la Ley de Ingresos y del Presupuesto de Egresos del Estado.
+
 PRESUPUESTO Y CUENTA PÚBLICA
 
 ###### Artículo 156.
@@ -2470,6 +2486,22 @@ P.O. 5 DE FEBRERO DE 2020.
 P.O. 16 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 383.- SE REFORMAN LOS ARTÍCULOS 119 Y 129, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS Y EL ARTÍCULO 43 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 399.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS, EN MATERIA DE PARLAMENTO ABIERTO”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 400.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS Y SU REGLAMENTO GENERAL”.]
 
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
