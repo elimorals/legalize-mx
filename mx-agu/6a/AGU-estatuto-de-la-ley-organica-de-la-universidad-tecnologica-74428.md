@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-de-la-ley-organica-de-la-universidad-tecnologica-74428
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-04-12"
-last_updated: "2010-04-12"
+last_updated: "2020-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "AGU"
 ---
 # ESTATUTO DE LA LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
-ESTATUTO DE LA LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
+ESTATUTO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2020.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de abril de 2010.
 
@@ -52,9 +52,11 @@ Las disposiciones de este Estatuto son de orden público interés social y obser
 
 La Universidad Tecnológica de Aguascalientes es un organismo público descentralizado del Gobierno de Estado, con personalidad jurídica y patrimonio propios, integrada al Sistema Nacional de Universidades Tecnológicas, adoptando el modelo pedagógico y los sistemas educativos que señalen la Secretaría de Educación Pública y el Instituto de Educación de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 3º.
 
-La Universidad se regirá en materia de educación por lo prescrito en el Artículo Tercero y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado de Aguascalientes, la Ley General de Educación, la Ley de Educación del Estado de Aguascalientes, la Ley Orgánica de la propia Universidad, este Estatuto, los reglamentos que se deriven y demás disposiciones legales aplicables.
+La Universidad se regirá en materia de educación por lo prescrito en el Artículo 3º y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado de Aguascalientes, la Ley General de Educación, la Ley de Educación del Estado de Aguascalientes, la Ley, el Estatuto, los reglamentos que se deriven y demás disposiciones legales aplicables.
 
 ###### Artículo 4º.
 
@@ -62,23 +64,37 @@ El manejo presupuestal y financiero de la Universidad se sujetará a la normativ
 
 ### CAPÍTULO II. De la Organización y Gobierno de la Universidad
 
-###### Artículo 5º.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2020)</small>
 
-La Universidad, para su organización y gobierno, contará con las siguientes autoridades:
+###### Artículo 5°.
 
-I.- El Consejo Directivo;
+La Universidad, tanto para su organización y gobierno, como para el estudio, planeación y ejercicio de las atribuciones y funciones de los asuntos de su competencia, contará con la siguiente estructura orgánica:
 
-II.- El Rector(a);
+I.- Órganos de Gobierno: Responsables del gobierno, administración y operación de la Universidad, y son:
 
-III.- Oficinas Auxiliares del Rector(a);
+a) El Consejo Directivo; y
 
-IV.- Los(as) Secretarios(as) Académico y de Vinculación;
+b) El Rector.
 
-V.- Los(as) Directores(as) de Área;
+II.- Unidades Administrativas: Dependientes del Rector, y responsables de la ejecución de las políticas públicas y de la operación de las atribuciones de la Universidad para el debido cumplimiento de su objeto, y son:
 
-VI.- Los Directores (as) de División; y
+a) Las Secretarías de Vinculación y Académica;
 
-VII.- Los Órganos Colegiados.
+b) Las Direcciones de Área;
+
+c) Las Direcciones de División; y
+
+d) El Abogado General.
+
+III.- Órganos de Control y Evaluación: Responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
+
+a) Órgano de Vigilancia; y
+
+b) Órgano Interno de Control.
+
+IV.- Órganos Colegiados: Responsables de atender y operar determinada acción o función necesaria para el cumplimiento del objeto de la Universidad y demás disposiciones aplicables.
+
+Cada Unidad, para el despacho de sus asuntos contará en su caso con la estructura Orgánica y demás personal auxiliar que sean necesarios para el buen desarrollo de sus funciones.
 
 ###### Artículo 6º.
 
@@ -164,7 +180,9 @@ I. Ordinarias; y
 
 II. Extraordinarias.
 
-Las sesiones ordinarias se celebrarán tres veces en el año al final de cada cuatrimestre, previa convocatoria que sea emitida a la cual se le agregará el orden del día, el proyecto del acta de la sesión anterior y el apoyo documental de los asuntos a tratar, mismos que se harán llegar a los integrantes de dicho Consejo, cuando menos con cinco días naturales de anticipación a la fecha de celebración de la sesión, cuando ésta tenga carácter de ordinaria.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+Las sesiones ordinarias se celebrarán cuatro veces en el año; una al final de cada cuatrimestre y una al término del ciclo escolar, previa convocatoria que sea emitida a la cual se le agregará el orden del día, el proyecto del acta de la sesión anterior y el apoyo documental de los asuntos a tratar, mismos que se harán llegar a los miembros del Consejo Directivo, cuando menos con cinco días naturales de anticipación a la fecha de celebración de la sesión, cuando ésta tenga carácter de ordinaria.
 
 Las sesiones extraordinarias se celebrarán cuando, los asuntos a tratar sean de tal manera vitales para el cumplimiento del objeto de la Universidad, o bien cuando 3 de los miembros del consejo lo hayan solicitado; asentándose en el citatorio correspondiente los motivos que la originaron, a las cuales se citarán con antelación de dos días naturales a la fecha de la celebración de la sesión.
 
@@ -202,9 +220,11 @@ RECTORÍA
 
 ### CAPÍTULO V. De las Facultades del Rector (a)
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 20.
 
-El Rector(a) es el responsable de promover el desarrollo armónico e integral de la Universidad mediante el diseño y aplicación de medidas administrativas y estrategias de crecimiento que permitan optimizar la operación de la Institución, acorde a los requerimientos de formación de recursos humanos del nivel Técnico Superior Universitario y de Licenciaturas, tanto del sector social como de los sectores productivos del país.
+El Rector(a) es el responsable de promover el desarrollo armónico e integral de la Universidad mediante el diseño y aplicación de medidas administrativas y estrategias de crecimiento que permitan optimizar la operación de la misma, acorde a los requerimientos de formación de recursos humanos del nivel Técnico Superior Universitario y Licenciaturas, tanto del sector social como de los sectores productivos estratégicos.
 
 ###### Artículo 21.
 
@@ -262,9 +282,11 @@ XIX. Las demás que le otorgan la Ley Orgánica, la normatividad interna de la U
 
 ### CAPÍTULO VI. De las Facultades No Delegables del Rector (a)
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 25.
 
-El Rector(a) tendrá las siguientes facultades no delegables.
+El Rector(a) tendrá las siguientes facultades no delegables:
 
 I. Proponer al Consejo Directivo, la política de la Universidad, en los términos de la legislación aplicable y de conformidad con los lineamientos correspondientes;
 
@@ -304,9 +326,19 @@ XVIII. Supervisar las funciones que desempeñan las Direcciones, Coordinaciones 
 
 XIX. Resolver las dudas que se susciten internamente sobre la competencia de las Direcciones, Coordinaciones y Unidades administrativas, con motivo de la interpretación y aplicación del presente estatuto;
 
-XX. Mantener contacto con las autoridades, secretarias, organismos e instituciones del gobierno federal, estatal y municipal, del sector público, privado y social que se relacionen con la impartición, fomento y expansión de la educación tecnológica del subsistema; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2020)</small>
 
-XXI. Ejercer en forma indelegable las demás facultades que con tal carácter se le confieren en las disposiciones jurídicas aplicables.
+XX. Mantener contacto con las autoridades, secretarias, organismos e instituciones del gobierno federal, estatal y municipal, del sector público, privado y social que se relacionen con la impartición, fomento y expansión de la educación tecnológica del subsistema;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2020)</small>
+
+XXI. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación de la Universidad, se realicen de acuerdo con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2020)</small>
+
+XXII. Rendir ante el Consejo Directivo, los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, con apego a los principios de transparencia y rendición de cuentas y cuidando en todo momento la protección de los datos personales; y
+
+XXIII. Ejercer en forma indelegable las demás facultades que con tal carácter se le confieren en las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VII. De las Facultades de los Secretarios(as)
 
@@ -636,17 +668,21 @@ VI.- Realizar todas aquellas actividades afines a las que anteceden; y
 
 VII.- Las demás que de manera específica le señale el Secretario Académico y la normatividad interna de la Universidad.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE AGOSTO DE 2020)</small>
+
 ### CAPÍTULO XIV. De las Oficinas Auxiliares del Rector(a)
 
 ###### Artículo 47.
 
-Dentro de la estructura orgánica de la Universidad se contemplan dos oficinas auxiliares del Rector(a): al Abogado General y al Contralor Interno.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2020)
 
 ### CAPÍTULO XV. Del Abogado (a) General
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 48.
 
-El Abogado(a) General es el (la) responsable de atender en forma especializada los asuntos legales de la Universidad para salvaguardar el patrimonio de la Institución; resolver los conflictos de carácter laboral, penal, civil y mercantil, y brindar asesoría jurídica a las diversas unidades administrativas que conforman la Universidad así como dictaminar y determinar legalmente los documentos que procedan.
+El Abogado(a) General es una oficina auxiliar del Rector, será responsable de atender en forma especializada los asuntos legales de la Universidad para salvaguardar el patrimonio de la Institución; resolver los conflictos de carácter laboral, penal, civil y mercantil, y brindar asesoría jurídica a las diversas unidades administrativas que conforman la Universidad así como dictaminar y determinar legalmente los documentos que procedan.
 
 ###### Artículo 49.
 
@@ -680,67 +716,33 @@ XI. Realizar aquellas funciones que se requieran dentro de su ámbito de compete
 
 XII. Las demás que de manera específica le señale el Rector(a) y la normatividad interna de la Universidad.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2020)</small>
+
 ### CAPÍTULO XVI. De la Contraloría Interna
 
 ###### Artículo 51.
 
-La Universidad contará con un Órgano de Control Interno, quien tendrá la función de evaluar el desempeño financiero, cumplimiento de la normatividad, realizar estudios sobre la eficiencia y transparencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como lo referente a los ingresos y; en general, solicitará la información y efectuarán los actos que requiere el adecuado cumplimiento de sus funciones.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2020)
 
 ###### Artículo 52.
 
-Al frente de la oficina de Contraloría Interna estará un contralor titular, designado por la Contraloría General del Estado el cual se apoyará de un contador auxiliar y una secretaria.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2020)
 
 ###### Artículo 53.
 
-El titular de la Contraloría Interna dependerá directamente del Rector(a).
+(DEROGADO, P.O. 10 DE AGOSTO DE 2020)
 
 ###### Artículo 54.
 
-Los órganos de gobierno y demás dependientes jerárquicos de éstos, deberán proporcionar oportunamente al Contralor Interno, la información y documentación que requiera para el cumplimiento de sus funciones.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2020)
 
 ###### Artículo 55.
 
-El Contralor(a) Interno, podrá asistir a las sesiones ordinarias y extraordinarias del Consejo Directivo de la Universidad. Previa invitación que se le envíe, quien asistirá con voz, pero sin voto.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2020)
 
 ###### Artículo 56.
 
-El Contralor(a) Interno contará además de las facultades señaladas en la Ley para el Control de Entidades Paraestatales y la ley Orgánica de la Administración Pública del Estado de Aguascalientes, con las siguientes facultades:
-
-I. Vigilar las funciones que comprende la planeación financiera y contable de la Universidad Tecnológica;
-
-II. Vigilar el cumplimiento de los objetivos, planes, procedimientos, programas y presupuestos derivados de la planeación financiera;
-
-III. Coordinar todos los recursos y esfuerzos de la contraloría para la optimización de los mismos, asignados a la Universidad Tecnológica;
-
-IV. Mantener una relación constante entre la dirección de administración y finanzas que permita establecer una comunicación efectiva;
-
-V. Definir los estándares o medidas que permitan orientar las acciones a seguir al aplicar los controles en la información;
-
-VI. Establecer los preceptos e instrucciones necesarios para el correcto registro y control de las operaciones de los libros de la universidad tecnológica como son:
-
-1.- Catálogo de cuentas;
-
-2.- Análisis de movimientos de cuentas;
-
-3.- Ejemplos de contabilización de cuentas y operaciones.
-
-VII. Supervisar y evaluar que los lineamientos establecidos en materia contable se apliquen conforme lo señala la Universidad Tecnológica;
-
-VIII. Establecer todos los controles pertinentes para evaluar las funciones de la planeación financiera y contable de la institución así como plantear las correcciones a dichas desviaciones;
-
-IX. Supervisar que los manuales contables se encuentren actualizados y respondan a las necesidades de la institución;
-
-X. Elaborar y presentar todos aquellos informes y reportes que respondan a las necesidades de la Rectoría; e (sic)
-
-XI. Implantar todas aquellas tecnologías y proponer proyectos de vanguardia, que permitan realizar en forma óptima todas las funciones de la contraloría;
-
-XII. Supervisar el programa operativo anual y el anteproyecto de presupuesto de la universidad en base a la normatividad y lineamientos establecidos en la universidad tecnología para tal efecto;
-
-XIII. Participar en el modelo de auto evaluación institucional;
-
-XIV. Participar en la elaboración de la estadística básica de la Universidad Tecnológica, así como en el sistema de información; y
-
-XV. Realizar todas aquellas actividades afines a la contraloría y las demás que los ordenamientos jurídicos le determinen.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2020)
 
 ### CAPÍTULO XVII. De las Reformas al Estatuto de las Iniciativas y del Procedimiento
 
@@ -762,7 +764,9 @@ II. El Consejo resolverá si requiere que la iniciativa sea estudiada previament
 
 III. Una vez aprobada, deberá publicarse en un medio de difusión y entrará en vigor desde el día siguiente de su publicación.
 
-### CAPÍTULO ÚNICO (SIC). Las Suplencias
+> <small>(REFORMADO EN SU NUMERACIÓN Y DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2020)</small>
+
+### CAPÍTULO XVIII. De la Designación, Remoción y Ausencias
 
 ###### Artículo 59.
 
@@ -786,6 +790,164 @@ En ausencias temporales de los titulares de las Direcciones de Área que no exce
 
 Para las ausencias mayores a treinta días de cualquiera de los titulares de las Direcciones de Área será sustituido por el titular del siguiente cargo jerárquico de acuerdo a la estructura orgánica de la Universidad, hasta en tanto el Consejo Directivo designe a un nuevo Director(a) de Área a propuesta presentada por la Rectoría de conformidad con los artículos 10 y 14 de su ley Orgánica.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+###### Artículo 63.
+
+Para el caso de los titulares de las Unidades que conforman el Órgano Interno de Control se estará a lo dispuesto por la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE AGOSTO DE 2020)</small>
+
+### CAPÍTULO XIX. Del Órgano de Vigilancia
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+###### Artículo 64.
+
+El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de la Universidad; estará integrado por un Comisario Público Propietario y un Suplente, designados en los términos establecidos en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+El Comisario Público evaluará el desempeño general y por funciones de la Universidad, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la normatividad aplicable.
+
+Para el cumplimiento de las funciones citadas el Consejo Directivo y el Rector deberán proporcionar la información que solicite el Comisario Público de la Universidad y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2020)</small>
+
+### CAPÍTULO XX. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+###### Artículo 65.
+
+El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la Universidad, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+###### Artículo 66.
+
+Para el ejercicio de sus funciones, el Órgano Interno de Control contará con la siguiente estructura:
+
+I. Unidad Auditora;
+
+II. Unidad Investigadora; y
+
+III. Unidad Substanciadora y Resolutora.
+
+Los titulares de dichas Unidades serán designados por el Gobernador del Estado, en los mismos términos que lo son para la designación del Comisario Público, según lo que establezca la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+###### Artículo 67.
+
+La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
+
+I. Elaborar y ejecutar, con aprobación del Rector, el programa anual de auditorías a las diversas áreas que conforman la Universidad;
+
+II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de la Universidad;
+
+III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman la Universidad;
+
+IV. Coordinar las acciones a fin de verificar que las áreas que conforman la Universidad cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado;
+
+V. Asistir y participar en el Comité de Adquisiciones y Enajenaciones y en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
+
+VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la Universidad sobre el correcto ejercicio del gasto público;
+
+VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
+
+VIII. Rendir informe trimestral al Consejo Directivo, a través del Rector, sobre el estado que guardan los asuntos de su competencia;
+
+IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
+
+X. Asesorar a los servidores públicos y Unidades Administrativas de la Universidad en los asuntos de su competencia;
+
+XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XII. Supervisar que el manual de contabilidad se encuentre actualizado y responda a las necesidades de la Universidad y a la normatividad aplicable a la materia;
+
+XIII. Participar en los actos de entrega recepción de las Unidades Administrativas; y
+
+XIV. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+###### Artículo 68.
+
+La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y tiene las siguientes funciones:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a la Universidad y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos a la Universidad, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de la Universidad o bien, referidas a faltas de particulares en relación con la Universidad;
+
+VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a la Universidad o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de la Universidad o de los particulares, habilitando para ello al personal del área correspondiente;
+
+VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+
+IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita a la Universidad;
+
+X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XIII. Ordenar medidas de apremio y dictar medidas cautelares;
+
+XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XVI. Rendir informe trimestral al Consejo Directivo, a través del Rector, sobre el estado que guardan los asuntos de su competencia;
+
+XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+XIX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+###### Artículo 69.
+
+La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y tiene las siguientes funciones:
+
+I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Unidad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos de la Universidad, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+
+Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos de la Universidad.
+
+Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+
+En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+
+II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+
+III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
+
+IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+
+V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+VII. Rendir informe trimestral al Consejo Directivo, a través del Rector, sobre el estado que guardan los asuntos de su competencia;
+
+VIII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+IX. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera; y
+
+X. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
 T R A N S I T O R I O S:
 
 PRIMERO.- El presente estatuto entrará en vigor al día siguiente de su publicación.
@@ -805,3 +967,31 @@ SECRETARIO GENERAL DE GOBIERNO.
 Maestra Petra Llamas García,
 
 ENCARGADA DEL DESPACHO DE LA RECTORÍA Y APODERADA LEGAL DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS, ADICIONES Y MODIFICACIONES AL ESTATUTO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE
+
+AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas, adiciones y modificaciones entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones jurídicas que se opongan a las contenidas en las presentes reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se ordena inscribir las presentes reformas y adiciones al Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo Directivo deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de la fecha de su publicación.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias hechas, tanto en este Estatuto de la Ley Orgánica de la Universidad Tecnológica de Aguascalientes como en cualquier normatividad aplicable a la Universidad, al Contralor Interno se entenderán realizadas a la Unidad de Auditoría.
