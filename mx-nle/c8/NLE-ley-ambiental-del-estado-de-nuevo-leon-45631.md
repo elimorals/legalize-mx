@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2020-01-29"
+last_updated: "2020-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -126,6 +126,10 @@ IV. Aguas residuales: Las aguas de composición variada provenientes de las desc
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
 V. Agua potable: La apta para alimentación, lavado y uso industrial. La apreciación de potabilización se efectuará mediante un examen organoléptico seguido de un análisis químico-bacteriológico. Dicho líquido deberá satisfacer las condiciones siguientes: sabor: insípido o, en su caso, agradable; aireación: aireada; limpidez: limpia y transparente; dureza: no debe cortar el jabón;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2020)</small>
+
+V Bis. Alerta de contingencia atmosférica: Situación eventual y transitoria declarada por las autoridades competentes cuando se presenta o se prevé con base en análisis objetivos o en el monitoreo de la contaminación ambiental, una concentración de contaminantes en el aire derivado de actividades humanas o fenómenos naturales que afecten la salud de la población o al ambiente, de acuerdo con las Normas Oficiales Mexicanas;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
@@ -2267,6 +2271,14 @@ V. Programa de mantenimiento.
 
 Cuando la Secretaría emita la alerta de contingencia atmosférica, en base a los niveles de calidad del aire contemplado en el Programa de Respuesta a Contingencias Atmosféricas, los lugares de aprovechamiento deberán suspender sus procesos durante las horas que dure la alerta respectiva, conforme lo disponga el mismo programa. Las personas físicas o morales que lleven a cabo las actividades a que se refiere el presente capítulo, tendrán de igual manera la obligación de consultar con la Secretaria, los mecanismos de difusión, de ésta y otras alertas, con la finalidad de que en forma conjunta los encargados del aprovechamiento y la Secretaría, presenten una mejor respuesta, durante el período de contingencia.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+Cuando la Secretaría advierta una concentración de contaminantes dañinos para la salud, y emita la Alerta de Contingencia Atmosférica, deberá informar de manera inmediata a la Secretaría de Educación a fin de que ésta tome las medidas necesarias dentro de los planteles educativos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+
+De manera independiente de la emisión de una Alerta de Contingencia Atmosférica, la Secretaría deberá dar a conocer y difundir diariamente por medios electrónicos oficiales la calidad del aire de acuerdo a los sistemas de monitoreo ambiental.
+
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 126 Bis 14.
@@ -4060,3 +4072,9 @@ P.O. 29 DE ENERO DE 2020.
 [N. DE. E. TRANSITORIO DEL “DECRETO NÚM. 251. SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 236, Y POR ADICIÓN DEL ARTÍCULO 194 BIS Y LA FRACCIÓN XXI AL ARTÍCULO 236 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 282. SE ADICIONA LA FRACCIÓN V BIS DEL ARTÍCULO 3 Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 126 BIS 13, TODOS DE LA LEY DE (SIC) AMBIENTAL DEL ESTADO; ASÍ TAMBIÉN SE REFORMAN LAS FRACCIONES XXI Y XXII, Y POR ADICIÓN DE LA FRACCIÓN XXIII DEL ARTÍCULO 21 TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
