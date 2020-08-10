@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2020-07-24"
+last_updated: "2020-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -571,13 +571,17 @@ XIX.- Participar con la Secretaria de Educación en el cumplimiento de la fracci
 
 XX.- Ofrecer en coordinación con las autoridades competentes la orientación y capacitación a los padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los planteles educativos del Estado, con el objeto de contar con las condiciones necesarias para la atención de las niñas, niños y adolescentes con discapacidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2020)</small>
 
-XXI.- Establecer mecanismos tendientes a promover las actividades extracurriculares que fomenten el aprendizaje del estudiante de nivel básico, preferentemente en el ámbito socioemocional, colaborativo y de responsabilidad social. Dichas actividades podrán llevarse a cabo en alguna de las instituciones federales, estatales o municipales; y
+XXI.- Establecer mecanismos tendientes a promover las actividades extracurriculares que fomenten el aprendizaje del estudiante de nivel básico, preferentemente en el ámbito socioemocional, colaborativo y de responsabilidad social. Dichas actividades podrán llevarse a cabo en alguna de las instituciones federales, estatales o municipales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2020)</small>
 
-XXII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XXII.- Implementar en coordinación con la autoridad competente y la Secretaría de Salud las medidas de protección para los alumnos ante la declaratoria de alerta de contingencia atmosférica de acuerdo a los lineamientos del Programa de Respuesta a Contingencias Atmosféricas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2020)</small>
+
+XXIII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2272,5 +2276,11 @@ P.O. 25 DE MARZO DE 2020.
 P.O. 24 DE JULIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 311. SE REFORMA LAS FRACCIONES XII Y XXII DEL ARTÍCULO 7 Y EL PRIMER PÁRRAFO DE LOS ARTÍCULOS 49 Y 51 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 282. SE ADICIONA LA FRACCIÓN V BIS DEL ARTÍCULO 3 Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 126 BIS 13, TODOS DE LA LEY DE (SIC) AMBIENTAL DEL ESTADO; ASÍ TAMBIÉN SE REFORMAN LAS FRACCIONES XXI Y XXII, Y POR ADICIÓN DE LA FRACCIÓN XXIII DEL ARTÍCULO 21 TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
