@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-atencion-y-proteccion-de-las-personas-con-la-143738
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-05"
-last_updated: "2020-08-05"
+last_updated: "2020-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "NLE"
 ---
 # LEY PARA LA ATENCION Y PROTECCION DE LAS PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE NUEVO LEON
 
-(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 255/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 323 POR EL QUE SE EXPIDE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRANSTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CINCO DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2020 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE NUEVO LEÓN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN EL 10 DE AGOSTO DE 2020.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de agosto de 2020.
 
@@ -173,11 +171,15 @@ I. Gozar plenamente de los derechos humanos que garantice la Constitución Feder
 
 II. Recibir el apoyo y la protección de sus derechos constitucionales y legales por parte del Estado de Nuevo León y de los municipios que lo integran;
 
-IV (SIC). Tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo con los objetivos del Sistema de Salud;
+> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2020)</small>
 
-V. Solicitar y recibir los certificados de evaluación y diagnósticos indicativos del estado en el que se encuentren las personas con la condición del espectro autista o con trastornos del neurodesarrollo;
+III. Tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo con los objetivos del Sistema de Salud;
 
-V (SIC). Recibir consultas clínicas y terapias de habilitación especializadas en la red hospitalaria del sector público Estatal;
+> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2020)</small>
+
+IV. Solicitar y recibir los certificados de evaluación y diagnósticos indicativos del estado en el que se encuentren las personas con la condición del espectro autista o con trastornos del neurodesarrollo;
+
+V. Recibir consultas clínicas y terapias de habilitación especializadas en la red hospitalaria del sector público Estatal;
 
 VI. Disponer de su ficha personal en lo que concierne al área médica, psicológica, psiquiátrica y educativa, cuando le sean requeridos por autoridades competentes;
 
@@ -239,7 +241,9 @@ I. La Secretaría de Salud, cuyo titular presidirá la Comisión;
 
 II. La Secretaría de Educación;
 
-VI (SIC). La Secretaría General de Gobierno;
+> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2020)</small>
+
+III. La Secretaría General de Gobierno;
 
 IV. La Secretaría de Desarrollo Social;
 
