@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2014-11-10"
+last_updated: "2020-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LAASSP"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -42,17 +44,13 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
 
 ### Capítulo Único
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 ###### Artículo 1.
 
 La presente Ley es de orden público y tiene por objeto reglamentar la aplicación del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en materia de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza, que realicen:
 
 I. Las unidades administrativas de la Presidencia de la República;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2009)</small>
 
@@ -64,19 +62,13 @@ IV. Los organismos descentralizados;
 
 V. Las empresas de participación estatal mayoritaria y los fideicomisos en los que el fideicomitente sea el gobierno federal o una entidad paraestatal, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2009)</small>
 
 VI. Las entidades federativas, los municipios y los entes públicos de unas y otros, con cargo total o parcial a recursos federales, conforme a los convenios que celebren con el Ejecutivo Federal. No quedan comprendidos para la aplicación de la presente Ley los fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 Las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, así como las entidades que cuenten con un régimen específico en materia de adquisiciones, arrendamientos y servicios, aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, sujetándose a sus propios órganos de control.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
@@ -86,9 +78,11 @@ Las adquisiciones, arrendamientos y servicios que contraten las empresas product
 
 Las adquisiciones, arrendamientos y servicios que se realicen por los Centros Públicos de Investigación con los recursos autogenerados de sus Fondos de Investigación Científica y Desarrollo Tecnológico previstos en la Ley de Ciencia y Tecnología, se regirán conforme a las reglas de operación de dichos fondos, a los criterios y procedimientos que en estas materias expidan los órganos de gobierno de estos Centros, así como a las disposiciones administrativas que, en su caso estime necesario expedir la Secretaría de la Función Pública o la Secretaría, en el ámbito de sus respectivas competencias, administrando dichos recursos con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados y asegurar al centro las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-Los contratos que celebren las dependencias con las entidades, o entre entidades, y los actos jurídicos que se celebren entre dependencias, o bien los que se lleven a cabo entre alguna dependencia o entidad de la Administración Pública Federal con alguna perteneciente a la administración pública de una entidad federativa, no estarán dentro del ámbito de aplicación de esta Ley; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la dependencia o entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate un tercero para su realización.
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2020)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Queda exceptuada de la aplicación de la presente Ley, la adquisición de bienes o prestación de servicios para la salud que contraten las dependencias y/o entidades con organismos intergubernamentales internacionales, a través de mecanismos de colaboración previamente establecidos, siempre que se acredite la aplicación de los principios previstos en la Constitución Política de los Estados Unidos Mexicanos.
+
+Los contratos que celebren las dependencias con las entidades, o entre entidades, y los actos jurídicos que se celebren entre dependencias, o bien los que se lleven a cabo entre alguna dependencia o entidad de la Administración Pública Federal con alguna perteneciente a la administración pública de una entidad federativa, no estarán dentro del ámbito de aplicación de esta Ley; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la dependencia o entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate un tercero para su realización.
 
 > <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
@@ -2141,3 +2135,9 @@ D.O.F. 10 DE NOVIEMBRE DE 2014.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las dependencias de la Administración Pública Federal y estatales, en coordinación con la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía y el Instituto Nacional de las Mujeres deberán adecuar las normas oficiales mexicanas, modelos, procesos y manuales para la certificación existentes, a fin de dar cumplimiento a las disposiciones establecidas en un plazo máximo de 90 días, contados a partir del inicio de la vigencia del presente Decreto, atendiendo para su aplicabilidad al principio de progresividad.
+
+D.O.F. 11 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 1 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
