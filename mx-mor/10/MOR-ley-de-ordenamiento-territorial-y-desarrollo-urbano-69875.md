@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2020-03-11"
+last_updated: "2020-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -1723,9 +1725,23 @@ II. A iniciar la promoción del fraccionamiento cuando se haya autorizado y haya
 
 III. Garantizar el cabal funcionamiento de los servicios públicos durante un año, a partir de la fecha de entrega del fraccionamiento a la autoridad municipal. Para este efecto deberá otorgar, ante la autoridad correspondiente, fianza o garantía suficiente por vicios ocultos, a juicio de la misma;
 
-IV. Ceder al Municipio en que esté ubicado el fraccionamiento, y en forma gratuita, las superficies que, conforme a la autorización respectiva, estén destinadas a los servicios públicos y equipamiento, otorgando la escritura correspondiente, y
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-V. Donar, protocolizar y escriturar ante Notario Público, a favor del Estado o el Municipio según corresponda, una superficie del 10% del predio, calculada sobre el área vendible del mismo.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+IV. CEDER AL MUNICIPIO EN QUE ESTÉ UBICADO EL FRACCIONAMIENTO, Y EN FORMA GRATUITA, LAS SUPERFICIES QUE, CONFORME A LA AUTORIZACIÓN RESPECTIVA, ESTÉN DESTINADAS A LOS SERVICIOS PÚBLICOS Y EQUIPAMIENTO, OTORGANDO LA ESCRITURA CORRESPONDIENTE;
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+V. DONAR, PROTOCOLIZAR Y ESCRITURAR ANTE NOTARIO PÚBLICO, A FAVOR DEL ESTADO O EL MUNICIPIO SEGÚN CORRESPONDA, UNA SUPERFICIE DEL 10% DEL PREDIO, CALCULADA SOBRE EL ÁREA VENDIBLE DEL MISMO, Y
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+VI. CUANDO SE CELEBRE CONVENIO AL EFECTO, CONTAR CON UN SISTEMA DE VIDEOVIGILANCIA, APROBADO POR LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA, QUE COMPRENDERÁ LAS CÁMARAS, ASÍ COMO LA INFRAESTRUCTURA Y LOS SISTEMAS O EQUIPOS TECNOLÓGICOS COMPLEMENTARIOS, NECESARIOS PARA SU INSTALACIÓN Y FUNCIONAMIENTO, PARA CONTRIBUIR AL FORTALECIMIENTO DE LAS CONDICIONES DE SEGURIDAD PÚBLICA Y CONVIVENCIA PACÍFICA; EN TÉRMINOS DE LO DISPUESTO POR LOS ARTÍCULOS 19 Y 20 DE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS.
 
 Tratándose de fraccionamientos por etapas estos deberán cubrir todos y cada uno de los requisitos y obligaciones como si fuesen de ejecución inmediata, es decir, la autoridad no deberá autorizar una siguiente etapa hasta que esté concluida la primera.
 
@@ -1829,9 +1845,19 @@ I. Realizar con sus propios recursos, las obras de urbanización y demás establ
 
 II. Para efectos de la fracción anterior, el desarrollador otorgará la fianza a que refiere la Ley Sobre Régimen de Condominio de Inmuebles para el Estado de Morelos;
 
-III. Donar y protocolizar, ante Notario Público, a favor del Municipio que corresponda, una superficie del 10% (diez por ciento) del predio a desarrollar, calculada sobre la superficie total, y
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-IV. Las demás señaladas en el reglamento respectivo.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+III. DONAR Y PROTOCOLIZAR, ANTE NOTARIO PÚBLICO, A FAVOR DEL MUNICIPIO QUE CORRESPONDA, UNA SUPERFICIE DEL 10% (DIEZ POR CIENTO) DEL PREDIO A DESARROLLAR, CALCULADA SOBRE LA SUPERFICIE TOTAL;
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+IV. CUANDO SE CELEBRE CONVENIO AL EFECTO, CONTAR CON UN SISTEMA DE VIDEOVIGILANCIA, APROBADO POR LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA, QUE CONSIDERARÁ LAS CÁMARAS, ASÍ COMO LA INFRAESTRUCTURA Y LOS SISTEMAS O EQUIPOS TECNOLÓGICOS COMPLEMENTARIOS, NECESARIOS PARA SU INSTALACIÓN Y FUNCIONAMIENTO, PARA CONTRIBUIR AL FORTALECIMIENTO DE LAS CONDICIONES DE SEGURIDAD PÚBLICA Y CONVIVENCIA PACÍFICA, TAL Y COMO LO DISPONEN LOS ARTÍCULOS 19 Y 20 DE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS, Y
+
+V. Las demás señaladas en el reglamento respectivo.
 
 ###### Artículo 180.
 
@@ -1883,9 +1909,19 @@ Los proyectos de los fraccionamientos y condominios comerciales y de servicios q
 
 IV.- Llevar a cabo soluciones de acceso viales y adecuaciones viales necesarias, resultado de un estudio de impacto vial realizado conforme lo dispuesto por esta Ley, que prevea la solución de la problemática actual y futura del funcionamiento vial en ese lugar;
 
-V.- Deberán realizar las obras y previsiones necesarias para facilitar el acceso, circulación, uso de espacios públicos e instalaciones para personas con discapacidad; y
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-VI.- Las demás que señale la Ley.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+V.- DEBERÁN REALIZAR LAS OBRAS Y PREVISIONES NECESARIAS PARA FACILITAR EL ACCESO, CIRCULACIÓN, USO DE ESPACIOS PÚBLICOS E INSTALACIONES PARA PERSONAS CON DISCAPACIDAD;
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+VI.- CUANDO SE CELEBRE CONVENIO AL EFECTO, CONTAR CON CÁMARAS DE VIDEOVIGILANCIA PARA CONTRIBUIR AL FORTALECIMIENTO DE LAS CONDICIONES DE SEGURIDAD PÚBLICA Y CONVIVENCIA PACÍFICA, EN TÉRMINOS DE LO DISPUESTO POR EL ARTÍCULO 19 DE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS, Y
+
+VII.- Las demás que señale la Ley.
 
 ## TÍTULO OCTAVO. DENUNCIA CIUDADANA, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
@@ -2294,3 +2330,31 @@ P.O. 11 DE MARZO DE 2020.
 PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+P.O. 12 DE AGOSTO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE.- POR EL QUE EL QUE (SIC) CREA LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMA EL ARTÍCULO 2 BIS; SE ADICIONA UN INCISO J) A LA FRACCIÓN I DEL ARTÍCULO 7; SE REFORMA EL INCISO O) Y SE ADICIONA EL INCISO P) A LA FRACCIÓN I DEL ARTÍCULO 17; SE REFORMA EL ARTÍCULO 127; SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 147; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS. SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA UNA FRACCIÓN VI DEL ARTÍCULO 165, SE REFORMA LA FRACCIÓN III Y SE ADICIONA UNA FRACCIÓN IV, RECORRIÉNDOSE LA ACTUAL FRACCIÓN IV PARA SER LA FRACCIÓN V DEL ARTÍCULO 179; SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI, RECORRIÉNDOSE LA ACTUAL FRACCIÓN VI PARA SER LA FRACCIÓN VII DEL ARTÍCULO 184 BIS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS. SE ADICIONA UN CAPÍTULO VIII DENOMINADO ACCESO ILÍCITO A SISTEMAS DE VIDEOVIGILANCIA UBICADO EN EL TÍTULO DÉCIMO NOVENO “DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO”, CON LOS ARTÍCULOS 267 TER 1, 267 TER 2, 267 TER 3 Y 267 TER 4; Y SE ADICIONA UN CAPÍTULO XX DENOMINADO USO INDEBIDO DE SISTEMAS DE VIDEOVIGILANCIA UBICADO EN EL TÍTULO VIGÉSIMO “DELITOS CONTRA LAS FUNCIONES DEL ESTADO Y EL SERVICIO PÚBLICO”, CON EL ARTÍCULO 295 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para efectos de lo dispuesto en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de su publicación, por lo que el Poder Ejecutivo del Estado por conducto de la Secretaría de Hacienda, hará las previsiones necesarias a fin de que la Comisión Estatal de Seguridad Pública cuente con la infraestructura, los recursos humanos, financieros y materiales necesarios para la implementación de la presente Ley. Lo anterior, sin perjuicio de las solicitudes y gestiones ante la Secretaría de Seguridad Pública y Protección Ciudadana del Gobierno de México para la asignación de recursos que contribuyan a este propósito.
+
+TERCERA. En un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá emitir el Reglamento de la Ley de videovigilancia para el Estado de Morelos y, en su caso, realizar las adecuaciones jurídicas que se estimen pertinentes.
+
+CUARTA. Las Instituciones de Seguridad Pública, otras autoridades, las empresas prestadoras de servicios de seguridad privada y los establecimientos mercantiles que actualmente realicen actividades de videovigilancia en el Estado, dentro de un plazo máximo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto deberán acudir a la unidad correspondiente de la Comisión Estatal de Seguridad Publica, a fin de que mediante formato libre, en su caso, informen lo conducente del artículo 53 de la Ley de Videovigilancia para el Estado de Morelos, con lo que se integrará el Registro Estatal de Equipos y Sistemas Tecnológicos para la Seguridad Pública.
+
+En el caso de los prestadores de servicio de seguridad privada y establecimientos mercantiles que, al inicio del presente Decreto, se encuentren enlazados a los sistemas de seguridad pública de la Comisión Estatal de Seguridad Pública, deberán solicitar la ratificación de su autorización a esta última, quien deberá resolver en un plazo máximo de 30 días naturales.
+
+QUINTA. En un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos del Estado de Morelos deberán adecuar las disposiciones jurídicas que estimen pertinentes por virtud del presente Decreto, en específico lo relativo a sus reglamentos, bandos y disposiciones en materia de seguridad pública, al ordenamiento territorial y desarrollo urbano, de fraccionamientos, condominios y conjuntos urbanos y demás relativos y aplicables, y lo relativo a licencias para establecimientos mercantiles.
+
+SEXTA. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, las instituciones de seguridad pública, empresas de seguridad privada y establecimientos mercantiles que utilicen cámaras de videovigilancia deberán cumplir con las obligaciones impuestas en la presente Ley.
+
+SÉPTIMA. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, la Comisión Estatal de Seguridad Pública deberá emitir los lineamientos en los cuales se definan, como mínimo, el criterio que determine el número de cámaras de videovigilancia a instalar en los fraccionamientos y condominios, así como de los establecimientos mercantiles, sus características técnicas y los procedimientos en la materia.
+
+OCTAVA. En tanto se emiten los lineamientos previstos en el artículo transitorio anterior de este Decreto, la Comisión Estatal de Seguridad Pública aplicará, en lo conducente, la Norma Técnica para Estandarizar las Características Técnicas y de Interoperabilidad de los Sistemas de Video-vigilancia para la Seguridad Pública, aprobada por el Consejo Nacional de Seguridad Pública, en su XL Sesión celebrada el 30 de agosto de 2016.
+
+NOVENA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+DÉCIMA. Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
