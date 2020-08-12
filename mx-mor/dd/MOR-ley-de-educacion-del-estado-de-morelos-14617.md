@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2019-04-10"
+last_updated: "2020-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -169,11 +169,11 @@ Se prohíbe el pago de cualquier contraprestación que impida o condicione la pr
 
 En ningún caso, se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 8.
 
-El Gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativas, incluidas la educación temprana o inicial por la que deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico, del sistema educativo; la Educación Superior, la Investigación Científica y Tecnológica, y alentará el fortalecimiento de la cultura universal, nacional y regional.
+El Gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativas, incluidas la educación temprana o inicial y la educación física y el deporte, por la que deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico, del sistema educativo; la Educación Superior, la Investigación Científica y Tecnológica, y alentará el fortalecimiento de la cultura universal, nacional y regional.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -287,13 +287,15 @@ Los Gobiernos Estatal y Municipal deben en forma permanente, evaluar, adecuar, a
 
 ### CAPITULO II. DISTRIBUCION DE LA FUNCION SOCIAL EDUCATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 14.
 
-Corresponde a las autoridades educativas locales, además de las atribuciones que en materia educativa les confiere la Constitución Política de los Estados Unidos Mexicanos, las Leyes y reglamentos que de ellas se deriven, las siguientes:
+Corresponde a las autoridades educativas locales, además de las atribuciones que en materia educativa les confiere la Constitución Política de los Estados Unidos Mexicanos, las leyes y reglamentos que de ellas se deriven, las siguientes:
 
-I.- Prestar los servicios de educación inicial, básica, normal y demás para la formación, actualización, capacitación y superación de docentes, incluyendo la indígena y especial, y de manera concurrente los de media superior, superior y demás servicios educativos distintos a los anteriores de acuerdo a las necesidades del Estado en la forma y términos que señalen las leyes respectivas;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+I.- Prestar los servicios de educación inicial, básica, normal, educación física y deporte y demás para la formación, actualización, capacitación y superación de docentes, incluyendo la indígena y especial, y de manera concurrente los de media superior, superior y demás servicios educativos distintos a los anteriores de acuerdo a las necesidades del Estado en la forma y términos que señalen las leyes respectivas; y
 
 II.- Estructurar el Sistema Educativo Estatal de tal manera que permita al educando integrarse a la vida económica y social de la Entidad, sin que suspenda su escolaridad;
 
@@ -301,11 +303,9 @@ II.- Estructurar el Sistema Educativo Estatal de tal manera que permita al educa
 
 III.- Planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo Estatal, de conformidad con lo dispuesto por la normativa que rige al sistema educativo nacional, pudiendo delegar esta función en sus Entidades, conforme a lo que determine esta Ley o la normatividad que al efecto se expida;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2020)</small>
 
-IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales y al magisterio estatal. Dentro de éstas propuestas, podrá incluirse la educación patrimonial como integradora para fomentar la comprensión, la preservación y el mantenimiento de los bienes culturales y naturales del estado.
-
-Asimismo, la autoridad educativa deberá deberán (sic) coordinarse con las instituciones y autoridades competentes, para fomentar los valores, y aplicar programas preventivos que inhiban las adicciones y la comisión de delitos, en términos de la normativa aplicable;
+IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal, la educación física y deporte y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales y al magisterio estatal. Dentro de estas propuestas, podrá incluirse la educación patrimonial como integradora para fomentar la comprensión, la preservación y el mantenimiento de los bienes culturales y naturales del estado. Asimismo, la autoridad educativa deberá coordinarse con las instituciones y autoridades competentes, para fomentar los valores, y aplicar programas preventivos que inhiban las adicciones y la comisión de delitos, en términos de la normativa aplicable.
 
 V.- Establecer un sistema permanente de investigación educativa que permita la actualización y mejoramiento del Sistema Educativo del Estado;
 
@@ -751,7 +751,9 @@ Las instituciones que ofrezcan este servicio podrán ser secundarias generales, 
 
 Las escuelas públicas de nueva creación del tipo básico, llevarán el nombre que designe el Ejecutivo del Estado, de una terna de hombres ilustres, fechas históricas o conceptos e instituciones coincidentes con los fines educativos, propuestas por la comunidad educativa del plantel, en la que no podrán figurar nombres de personas vivas.
 
-### CAPITULO V. DE LA EDUCACION FISICA Y ARTISTICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2020)</small>
+
+### CAPITULO V. DE LA EDUCACIÓN FÍSICA Y DEPORTE Y DE LA EDUCACIÓN ARTÍSTICA
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
@@ -778,6 +780,12 @@ I.- Estimular la disciplina del ejercicio físico y la práctica del deporte;
 II.- Desarrollar actitudes responsables hacia la preservación de la salud, propiciar el rechazo a las adiciones (sic) y prevenir las conductas delictivas, y
 
 III.- Fomentar y difundir la cultura física en todas sus manifestaciones.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 38 Bis.
+
+La educación física y deporte comprende la disciplina pedagógica que enseña sobre el cuerpo humano, sus cuidados y su salud, teniendo como prioridad la de incidir en la prevención del sobrepeso, la obesidad, la diabetes y cualquier otro tipo de padecimientos crónico-degenerativos derivados de la falta de actividad física.
 
 ###### ARTICULO 39.
 
@@ -1946,3 +1954,13 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS NOVENTA Y CUATRO POR EL QUE SE REFORMAN, LOS ARTÍCULOS 8, 14, FRACCIONES I Y IV, 22, Y EL CAPÍTULO V, Y SE ADICIONA EL ARTÍCULO 38 BIS, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS”].
+
+PRIMERO. Aprobado el presente Decreto por la Legislatura se remitirá al Gobernador Constitucional del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Informativo del Gobierno del Estado.
+
+TERCERO. El Instituto de la Educación Básica del Estado de Morelos en un plazo de 180 días naturales contados a partir de la publicación de la presente reforma en el Periódico Oficial “Tierra y Libertad”, deberá expedir su Reglamento del Personal Docente de Educación Física y Deporte.
