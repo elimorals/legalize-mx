@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2020-08-07"
+last_updated: "2020-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+(NOTA 2: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -3357,13 +3359,49 @@ El uso indebido de medios de comunicación para movilizar cuerpos de emergencia 
 
 Cuando las llamadas o mensajes falsos la realicen menores de edad se sancionará, de acuerdo a lo establecido en la Ley de Justicia para Adolescentes del Estado de Morelos.
 
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 246.
 
 Al que públicamente provoque a otro a cometer un delito o haga apología de éste, se le impondrá desde un tercio de la mínima y hasta un tercio de la máxima aplicable al delito exaltado.
 
-### CAPITULO I. DE LOS DELITOS POR HECHOS DE CORRUPCION
+### CAPITULO VIII. ACCESO ILICITO A SISTEMAS DE VIDEOVIGILANCIA
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+ARTICULO 267 TER 1.- Al que sin autorización obtenida en términos de la Ley de Videovigilancia para el Estado de Morelos modifique, destruya o provoque pérdida de información contenida en sistemas de videovigilancia o componentes físicos o electrónicos que permitan la protección, visualización, transmisión, registro o almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia de una persona física o moral particular, empresa de seguridad o establecimiento mercantil, se le impondrán de seis meses a dos años de prisión y multa de cien a trescientas veces del valor diario de la Unidad de Medida y Actualización.
+
+Si las conductas descritas en el párrafo anterior se realizan mediante las cámaras de videovigilancia de las instituciones de seguridad pública del Estado, se impondrán de uno a cuatro años de prisión y multa de doscientas a seiscientas veces del valor diario de la Unidad de Medida y Actualización.
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+ARTICULO 267 TER 2.- Al que sin autorización obtenida en términos de la Ley de Videovigilancia para el Estado de Morelos conozca o copie información contenida en sistemas de videovigilancia o componentes físicos o electrónicos que permitan la protección, visualización, transmisión, registro o almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia de una persona física o moral particular, empresa de seguridad o establecimiento mercantil, se le impondrán de tres meses a un año de prisión y multa de cincuenta a ciento cincuenta veces del valor diario de la Unidad de Medida y Actualización.
+
+Si las conductas descritas en el párrafo anterior se realizan mediante las cámaras de videovigilancia de las instituciones de seguridad pública del Estado, se impondrán de seis meses a dos años de prisión y multa de cien a trescientas veces del valor diario de la Unidad de Medida y Actualización.
+
+Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá, además, destitución e inhabilitación de cuatro a diez años para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
+Las sanciones anteriores se duplicarán cuando la conducta obstruya, entorpezca, obstaculice, limite o imposibilite la procuración e impartición de justicia, o recaiga sobre los registros relacionados con un procedimiento penal resguardados por las autoridades competentes.
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+ARTICULO 267 TER 3.- Al que estando autorizado en términos de la Ley de Videovigilancia para el Estado de Morelos para acceder a sistemas de videovigilancia o componentes físicos o electrónicos que permiten la protección, visualización, transmisión, registro o almacenamiento de la información captada o grabada mediante las cámaras de videovigilancia del Estado, indebidamente modifique, destruya o provoque pérdida de información que contengan, se le impondrán de dos a ocho años de prisión y multa de trescientas a novecientas veces del valor diario de la Unidad de Medida y Actualización.
+
+Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá, además, hasta una mitad más de la pena impuesta, destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+ARTICULO 267 TER 4.- Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno.
 
 ###### ARTICULO 247.
 
@@ -3371,7 +3409,9 @@ Al que sin derecho estorbare de cualquier forma el aprovechamiento de bienes de 
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA EL RESPETO A LOS MUERTOS, Y VIOLACION DE LAS LEYES SOBRE INHUMACION Y EXHUMACION DE CADAVERES
 
-### CAPITULO II. INCUMPLIMIENTO DE FUNCIONES PUBLICAS
+### CAPITULO I. DE LOS DELITOS POR HECHOS DE CORRUPCION
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 248.
 
@@ -3379,9 +3419,7 @@ Quienes ejercen una profesión, arte o técnica, así como quienes les auxilian 
 
 REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2011)
 
-### CAPITULO III. EJERCICIO ILICITO DE SERVICIO PUBLICO
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPITULO II. INCUMPLIMIENTO DE FUNCIONES PUBLICAS
 
 ###### ARTICULO 249.
 
@@ -3431,7 +3469,7 @@ Las sanciones previstas en este Capítulo se impondrán sin perjuicio de las que
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. EJERCICIO ILICITO DE SERVICIO PUBLICO
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3450,6 +3488,14 @@ Al que profane un cadáver con actos de necrofilia, se le aplicarán de tres mes
 ## TITULO VIGESIMO. DELITOS CONTRA LAS FUNCIONES DEL ESTADO Y EL SERVICIO PUBLICO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
+
+### CAPITULO IV. ABUSO DE AUTORIDAD
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+###### ARTICULO 255.
+
+Para los efectos legales, solamente se consideran como de carácter político los delitos consignados en este Título, con excepción de los previstos en los artículos 263 y 264.
 
 ### CAPITULO IV BIS. DESAPARICION FORZADA DE PERSONAS
 
@@ -3484,14 +3530,6 @@ ARTICULO 272 QUATER.- Al servidor Público que haya sido condenado por el delito
 ARTICULO 272 QUINTUS.- La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
-
-###### ARTICULO 255.
-
-Para los efectos legales, solamente se consideran como de carácter político los delitos consignados en este Título, con excepción de los previstos en los artículos 263 y 264.
-
-### CAPITULO V. COALICION DE SERVIDORES PUBLICOS
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 256.
 
@@ -3541,13 +3579,15 @@ No se aplicará sanción a los que depongan las armas antes de ser tomados prisi
 
 Cuando en las rebeliones se pusieren en ejercicio para hacerlas triunfar, el homicidio, el robo, el secuestro, el despojo, el incendio o el saqueo, se aplicarán las sanciones que por estos delitos y el de rebelión correspondan, aplicando, en su caso, las reglas de acumulación.
 
-### CAPITULO VI. CONCUSION
+### CAPITULO V. COALICION DE SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 263.
 
 Al que por cualquier medio violento realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para perturbar la paz pública o menoscabar la autoridad del Estado, la integridad de su territorio o el orden constitucional, o presionar a la autoridad para que tome una determinación, se le impondrá de cinco a veinticinco años de prisión, de cien a quinientos días multa y suspensión de derechos políticos hasta por diez años.
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO VI. CONCUSION
 
 ###### ARTICULO 264.
 
@@ -3559,15 +3599,13 @@ II. Elementos fundamentales de instituciones de docencia o investigación; o
 
 III. Recursos esenciales que el Estado destine para el mantenimiento del orden público.
 
-### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPITULO VII. INTIMIDACION
 
 ###### ARTICULO 265.
 
 A los que para conseguir que se les reconozca o conceda algún derecho, se reúnan en forma tumultuosa que cause grave desorden público y con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación, se les sancionará con prisión de tres meses a un año y de veinte a cincuenta días multa.
 
-### CAPITULO IX. TRAFICO DE INFLUENCIA
+### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3581,9 +3619,15 @@ En lo que sea aplicable a la sedición, se observará el artículo 262.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 2011)</small>
 
+### CAPITULO IX. TRAFICO DE INFLUENCIA
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
 ### CAPITULO X. COHECHO
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+## TITULO VIGESIMO PRIMERO. DELITOS COMETIDOS CONTRA LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO X BIS. EVASION DE PRESO
 
@@ -3594,12 +3638,6 @@ ARTICULO 278 BIS.- Se aplicarán de tres a seis años de prisión al que favorec
 Si quien incurre en este delito es el encargado de conducir o custodiar al prófugo o es servidor público que se desempeñe en cualquier establecimiento penitenciario o que por razones de su función pública se encuentra en el interior del mismo cualquiera que sea la circunstancia de su estancia, o no siendo servidor público tenga ingreso a un establecimiento penitenciario para la prestación de un servicio relacionado con el funcionamiento del mismo; sea por acción o por omisión, las sanciones serán de seis a quince años de prisión, destitución del cargo, en su caso.
 
 Se incrementarán hasta en una tercera parte las penas señaladas en este artículo si quien propicia la evasión fuese un servidor público distinto al señalado en el párrafo anterior.
-
-## TITULO VIGESIMO PRIMERO. DELITOS COMETIDOS CONTRA LA PROCURACION Y ADMINISTRACION DE JUSTICIA
-
-### CAPITULO XI. PECULADO
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 268.
 
@@ -3641,7 +3679,7 @@ ARTICULO 269 BIS.- Cuando los delitos a que se refieren los artículos 272, 275 
 
 ARTICULO 269 TER.- Los delitos contemplados en los artículos 270, 271, 276, 277, 278, 279 y 280, de este Código, que sean cometidos por servidores públicos electos popularmente o cuyo nombramiento sea constitucionalmente realizado por el Congreso del Estado, o esté sujeto a ratificación por el mismo, las penas previstas serán aumentadas hasta en una tercera parte.
 
-### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+### CAPITULO XI. PECULADO
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3659,7 +3697,9 @@ Al responsable de los delitos previstos en este artículo, se le impondrá de do
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO XIII. DELITOS COMETIDOS POR PARTICULARES EN RELACION CON SERVIDORES PUBLICOS
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 271.
 
@@ -3689,7 +3729,7 @@ Al que cometa alguno de los delitos a que se refieren las fracciones I, II y VII
 
 Al responsable de las conductas previstas en las fracciones III, IV, V, VI, VIII, IX y X se le impondrán de tres a ocho años de prisión, y multa de treinta a trescientas veces el importe del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito.
 
-### CAPITULO XIV. COACCION
+### CAPITULO XIII. DELITOS COMETIDOS POR PARTICULARES EN RELACION CON SERVIDORES PUBLICOS
 
 ###### ARTICULO 272.
 
@@ -3735,13 +3775,13 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
+### CAPITULO XIV. COACCION
+
 ### CAPITULO XV. RESISTENCIA DE PARTICULARES Y DESOBEDIENCIA
 
 (NOTA: EL 10 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 205/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 666, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
-
-### CAPITULO XVI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 273.
 
@@ -3749,7 +3789,7 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 Al que cometa el delito de coalición de servidores públicos se le impondrán de dos a siete años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito.
 
-### CAPITULO XVII. ULTRAJES A LA AUTORIDAD
+### CAPITULO XVI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 274.
 
@@ -3763,7 +3803,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivale
 
 Cuando la cantidad o el valor de lo exigido indebidamente excedan de quinientos cincuenta días de Unidades (sic) de Medida y Actualización vigente en el momento de cometer el delito, se impondrán de dos a doce años de prisión, de trescientas a quinientas veces el valor diario de dicha Unidad.
 
-### CAPITULO XVIII. USURPACION DE FUNCIONES PUBLICAS Y USO INDEBIDO DE CONDECORACIONES O UNIFORMES
+### CAPITULO XVII. ULTRAJES A LA AUTORIDAD
 
 ###### ARTICULO 275.
 
@@ -3779,7 +3819,7 @@ Al que cometa el delito de intimidación se le impondrán de dos a nueve años d
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO XIX. ULTRAJE Y USO INDEBIDO DE INSIGNIAS PUBLICAS
+### CAPITULO XVIII. USURPACION DE FUNCIONES PUBLICAS Y USO INDEBIDO DE CONDECORACIONES O UNIFORMES
 
 ###### ARTICULO 276.
 
@@ -3813,9 +3853,7 @@ Respecto de la fracción V, se considerará grave, cuando la cuantía a que asci
 
 ARTICULO 276 BIS.- Comete el delito contemplado en el artículo anterior y se impondrá de uno a diez años de presión (sic) y de cien a trescientos días (sic) veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, al particular que en su carácter de contratista, permisionario, asignatario; titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del estado, con la finalidad de obtener un beneficio para sí o para un tercero, oculte, genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtengan y que estén legalmente obligados a informar o a entregar a alguna autoridad.
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPITULO XIX. ULTRAJE Y USO INDEBIDO DE INSIGNIAS PUBLICAS
 
 ###### ARTICULO 277.
 
@@ -3831,9 +3869,17 @@ IV. Al particular que, sin estar autorizado legalmente para intervenir en un neg
 
 Al que cometa el delito de tráfico de influencia se le impondrán de tres a ocho años de prisión, multa de doscientas a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito.
 
-### CAPITULO II. OBSTRUCCION DE LA JUSTICIA
+### CAPITULO XX. USO INDEBIDO DE SISTEMAS DE VIDEOVIGILANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+ARTICULO 295 BIS (SIC).- Al que instale, utilice u opere videocámaras o sistemas de videovigilancia para grabar o captar imágenes con o sin sonido en lugares, equipamiento, mobiliario, vía o cualquier espacio público, sin la autorización respectiva de las autoridades competentes o de las personas que conforme a la ley deban dar su consentimiento, con la intención de crear una apariencia o semejanza a los equipos del sistema utilizados por las instituciones de seguridad pública del Estado, simulando la existencia de un sistema de videovigilancia oficial, se le impondrán de siete a quince años de prisión y multa de mil a dos mil veces del valor diario de la Unidad de Medida y Actualización.
+
+Se impondrá hasta en una mitad de la pena y multa señalada en el párrafo que antecede, al que manipule o destruya las cámaras de seguridad y el equipo de almacenamiento de videograbación.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 278.
 
@@ -3861,9 +3907,11 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO III. FRAUDE PROCESAL
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
 
-### CAPITULO IV. ACUSACION O DENUNCIAS FALSAS
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+### CAPITULO II. OBSTRUCCION DE LA JUSTICIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
@@ -3887,7 +3935,7 @@ La comisión de este delito será considerada como grave cuando el valor de lo d
 
 Para los efectos de este artículo, se entiende por distracción cualquier acción de traspaso, transferencia o aplicación, a través de cualquier movimiento bancario, contable o financiero, sin que importe la utilización de cheques, cheques de caja, dispositivos electrónicos, banca electrónica o digital, de fondos públicos, sean participaciones o aportaciones federales o de recursos propios del estado o municipios, que prive en todo o en parte de su aplicación para los cuales se encuentran destinados, aun cuando esa distracción se enderece o dirija los recursos públicos mencionados, a cuentas del mismo titular, de rubros o denominaciones distintas.
 
-### CAPITULO V. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO III. FRAUDE PROCESAL
 
 ###### ARTICULO 280.
 
@@ -3905,7 +3953,9 @@ Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equival
 
 Se califica como grave, cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de cinco años a quince años de prisión y multa de quinientas a cuatro mil veces el valor de la misma Unidad mencionada.
 
-### CAPITULO VI
+### CAPITULO IV. ACUSACION O DENUNCIAS FALSAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 281.
 
@@ -3945,15 +3995,13 @@ I. De tres meses a dos años de prisión y de treinta a trescientos días multa,
 
 II. De dos a catorce años de prisión y de trescientos a quinientos días multa, cuando el monto de los bienes exceda del equivalente a dicho múltiplo del salario mínimo.
 
-### CAPITULO VII. QUEBRANTAMIENTO DE SANCIONES
+### CAPITULO V. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 287.
 
 Se impondrá de dos a cinco años de prisión y de cien a trescientos días multa a quien coaccione a la autoridad por medio de la violencia física o moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales, u otro que no esté dentro de sus atribuciones.
 
-### CAPITULO VIII. DELITOS COMETIDOS POR ABOGADOS, DEFENSORES Y LITIGANTES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
+### CAPITULO VI
 
 ###### ARTICULO 288.
 
@@ -3983,9 +4031,7 @@ Se impondrá de tres meses a un año de prisión y de cien a doscientos días mu
 
 Cuando la ley autorice el empleo del apremio, para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia, cuando se hubiesen agotado, sin éxito, los medios de apremio.
 
-### CAPITULO IX. ENCUBRIMIENTO POR FAVORECIMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
+### CAPITULO VII. QUEBRANTAMIENTO DE SANCIONES
 
 ###### ARTICULO 293.
 
@@ -3993,13 +4039,17 @@ Al que quebrante los sellos puestos por orden de la autoridad, se le aplicará d
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE MARZO DE 2020)</small>
 
-### CAPITULO UNICO. DELITOS COMETIDOS POR ACTOS DE CRUELDAD EN CONTRA DE ANIMALES DOMESTICOS
+### CAPITULO VIII. DELITOS COMETIDOS POR ABOGADOS, DEFENSORES Y LITIGANTES
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 294.
 
 (DEROGADO, P.O. 11 DE MARZO DE 2020)
+
+### CAPITULO IX. ENCUBRIMIENTO POR FAVORECIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 295.
 
@@ -4017,11 +4067,17 @@ II. Use uniforme, insignia, distintivo o condecoración a los que no tenga derec
 
 III. Desempeñe actividades de seguridad privada en cualquiera de sus modalidades, sin que para tal efecto se encuentre autorizado y registrado por parte de la autoridad estatal competente.
 
+### CAPITULO UNICO. DELITOS COMETIDOS POR ACTOS DE CRUELDAD EN CONTRA DE ANIMALES DOMESTICOS
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 296.
 
 Al que ultraje las insignias del Estado o de un municipio, o de cualesquiera de sus instituciones, o haga uso indebido de ellos, se le aplicarán de treinta a noventa días de trabajo en favor de la comunidad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE AGOSTO DE 2020)</small>
 
 ## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LOS DERECHOS ELECTORALES DE LOS CIUDADANOS
 
@@ -5278,3 +5334,31 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+P.O. 12 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE POR EL QUE EL QUE CREA LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMA EL ARTÍCULO 2 BIS; SE ADICIONA UN INCISO J) A LA FRACCIÓN I DEL ARTÍCULO 7; SE REFORMA EL INCISO O) Y SE ADICIONA EL INCISO P) A LA FRACCIÓN I DEL ARTÍCULO 17; SE REFORMA EL ARTÍCULO 127; SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 147; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS. SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA UNA FRACCIÓN VI DEL ARTÍCULO 165, SE REFORMA LA FRACCIÓN III Y SE ADICIONA UNA FRACCIÓN IV, RECORRIÉNDOSE LA ACTUAL FRACCIÓN IV PARA SER LA FRACCIÓN V DEL ARTÍCULO 179; SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI, RECORRIÉNDOSE LA ACTUAL FRACCIÓN VI PARA SER LA FRACCIÓN VII DEL ARTÍCULO 184 BIS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS. SE ADICIONA UN CAPÍTULO VIII DENOMINADO ACCESO ILÍCITO A SISTEMAS DE VIDEOVIGILANCIA UBICADO EN EL TÍTULO DÉCIMO NOVENO “DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO”, CON LOS ARTÍCULOS 267 TER 1, 267 TER 2, 267 TER 3 Y 267 TER 4; Y SE ADICIONA UN CAPÍTULO XX DENOMINADO USO INDEBIDO DE SISTEMAS DE VIDEOVIGILANCIA UBICADO EN EL TÍTULO VIGÉSIMO “DELITOS CONTRA LAS FUNCIONES DEL ESTADO Y EL SERVICIO PÚBLICO”, CON EL ARTÍCULO 295 BIS (SIC), DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para efectos de lo dispuesto en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de su publicación, por lo que el Poder Ejecutivo del Estado por conducto de la Secretaría de Hacienda, hará las previsiones necesarias a fin de que la Comisión Estatal de Seguridad Pública cuente con la infraestructura, los recursos humanos, financieros y materiales necesarios para la implementación de la presente Ley. Lo anterior, sin perjuicio de las solicitudes y gestiones ante la Secretaría de Seguridad Pública y Protección Ciudadana del Gobierno de México para la asignación de recursos que contribuyan a este propósito.
+
+TERCERA. En un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá emitir el Reglamento de la Ley de videovigilancia para el Estado de Morelos y, en su caso, realizar las adecuaciones jurídicas que se estimen pertinentes.
+
+CUARTA. Las Instituciones de Seguridad Pública, otras autoridades, las empresas prestadoras de servicios de seguridad privada y los establecimientos mercantiles que actualmente realicen actividades de videovigilancia en el Estado, dentro de un plazo máximo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto deberán acudir a la unidad correspondiente de la Comisión Estatal de Seguridad Publica, a fin de que mediante formato libre, en su caso, informen lo conducente del artículo 53 de la Ley de Videovigilancia para el Estado de Morelos, con lo que se integrará el Registro Estatal de Equipos y Sistemas Tecnológicos para la Seguridad Pública.
+
+En el caso de los prestadores de servicio de seguridad privada y establecimientos mercantiles que, al inicio del presente Decreto, se encuentren enlazados a los sistemas de seguridad pública de la Comisión Estatal de Seguridad Pública, deberán solicitar la ratificación de su autorización a esta última, quien deberá resolver en un plazo máximo de 30 días naturales.
+
+QUINTA. En un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos del Estado de Morelos deberán adecuar las disposiciones jurídicas que estimen pertinentes por virtud del presente Decreto, en específico lo relativo a sus reglamentos, bandos y disposiciones en materia de seguridad pública, al ordenamiento territorial y desarrollo urbano, de fraccionamientos, condominios y conjuntos urbanos y demás relativos y aplicables, y lo relativo a licencias para establecimientos mercantiles.
+
+SEXTA. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, las instituciones de seguridad pública, empresas de seguridad privada y establecimientos mercantiles que utilicen cámaras de videovigilancia deberán cumplir con las obligaciones impuestas en la presente Ley.
+
+SÉPTIMA. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, la Comisión Estatal de Seguridad Pública deberá emitir los lineamientos en los cuales se definan, como mínimo, el criterio que determine el número de cámaras de videovigilancia a instalar en los fraccionamientos y condominios, así como de los establecimientos mercantiles, sus características técnicas y los procedimientos en la materia.
+
+OCTAVA. En tanto se emiten los lineamientos previstos en el artículo transitorio anterior de este Decreto, la Comisión Estatal de Seguridad Pública aplicará, en lo conducente, la Norma Técnica para Estandarizar las Características Técnicas y de Interoperabilidad de los Sistemas de Video-vigilancia para la Seguridad Pública, aprobada por el Consejo Nacional de Seguridad Pública, en su XL Sesión celebrada el 30 de agosto de 2016.
+
+NOVENA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+DÉCIMA. Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
