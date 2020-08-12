@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2020-07-01"
+last_updated: "2020-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -637,6 +637,10 @@ Se celebrarán sesiones extraordinarias cuando sean necesarias, a juicio de la p
 
 Para que las sesiones del Ayuntamiento sean válidas, se requiere que se constituya el quórum por lo menos con la asistencia de más de la mitad de sus integrantes. Los acuerdos de los Ayuntamientos se tomarán por mayoría de votos de los presentes, exceptuándose el caso de los reglamentos, para cuya aprobación será necesaria la votación de más de la mitad del número de sus integrantes.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+El Ayuntamiento, así como las Comisiones a que se refiere el artículo 31 de este Código, podrán reunirse de manera excepcional, en sesión de acceso remoto o virtual, ante declaraciones de emergencia sanitaria emitidas por las autoridades competentes, que impida la presencia física a las y los integrantes del Ayuntamiento al edificio que ocupe la presidencia municipal u otro alterno. Los municipios emitirán los acuerdos necesarios que establezcan los procesos y mecanismos para que se desarrollen de manera eficaz y segura dichas sesiones, reuniones, discusiones y votaciones.
+
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 22 Bis.
@@ -1073,9 +1077,13 @@ XLIII.- Establecer mecanismos para Coadyuvar con el Gobierno Estatal en la conso
 
 XLIV.- Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la ejecución de los programas de igualdad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 2020)</small>
 
-XLV.- Las demás que le confieren las leyes y reglamentos.
+XLV.- Proponer al Ayuntamiento, la celebración de instrumentos jurídicos para la coordinación y asociación dentro de los ramos de competencia municipal, en los términos previstos en los artículos 138 de la Constitución Política del Estado de Chihuahua y 180 del presente Código.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE AGOSTO DE 2020)</small>
+
+XLVI.- Las demás que le confieren las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 1987)</small>
 
@@ -3787,7 +3795,9 @@ X.- Todos aquellos que por determinación de la ley o declaración de la autorid
 
 Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios del Estado observarán lo dispuesto por las leyes federales y estatales.
 
-Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+Los municipios, a fin de lograr una mejor prestación de servicios públicos, y previo acuerdo entre sus ayuntamientos, podrán dentro de los ramos de competencia municipal, coordinarse y asociarse para el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
 ###### ARTICULO 181.
 
@@ -5490,3 +5500,19 @@ El Tribunal Estatal Electoral preverá lo necesario en el presupuesto correspond
 ###### ARTÍCULO CUARTO.
 
 En cuanto a las elecciones directas de regidores por demarcación territorial, entrará en vigor para el proceso electoral 2023 - 2024, en los términos que establezca la Ley Electoral del Estado de Chihuahua.
+
+P.O. 12 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0747/2020 IX P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0748/2020 IX P.E., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 22, UN PÁRRAFO QUINTO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
