@@ -4,7 +4,7 @@ identifier: "FED-protocolo-de-atencion-integral-para-la-ninez-y-adolescencia-143
 country: "mx"
 rank: "otro"
 publication_date: "2020-07-01"
-last_updated: "2020-07-01"
+last_updated: "2020-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143469&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-04-17"
 ---
 # PROTOCOLO DE ATENCION INTEGRAL PARA LA NIÑEZ Y ADOLESCENCIA VICTIMAS DE DELITO Y EN CONDICIONES DE VULNERABIUDAD -- ANTES PROTOCOLO DE ATENCION INTEGRAL PARA NIÑAS, NIÑOS Y ADOLESCENTES VICTIMAS DE DELITO Y EN CONDICIONES DE VULNERABILIDAD --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE AGOSTO DE 2020 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 EXTRACTO DEL ACUERDO POR EL QUE SE EXPIDE EL PROTOCOLO DE ATENCIÓN INTEGRAL PARA NIÑAS, NIÑOS Y ADOLESCENTES VÍCTIMAS DE DELITO Y EN CONDICIONES DE VULNERABILIDAD
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 12 DE AGOSTO DE 2020.]</small>
 
 Extracto del Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 1 de julio de 2020.
 
@@ -357,7 +357,7 @@ Jefatura de Departamento Jurídico: Coordinar con los mecanismos de protección 
 
 Jefatura de Departamento de Seguimiento de Medidas de Protección: Brindar seguimiento a los mecanismos instruidos mediante las medidas de protección especial o urgentes emitidas para contribuir a la restitución integral de derechos de niñas, niños y adolescentes.
 
-Jefatura de Departamento Psicológico: Auxiliar con los mecanismos de protección de manera temporal o definitiva mediante planes de restitución de derechos para contribuir a la restitución integral de los derechos de niñas, niños y adolescentes.
+(F. DE E., D.O.F. 12 DE AGOSTO DE 2020) [N. DE E. DEL ANÁLISIS SE OBSERVA QUE LA PRESENTE FE DE ERRATAS ELIMINÓ EL PÁRRAFO DOCE, D.O.F. 12 DE AGOSTO DE 2020]
 
 VI. PRINCIPIOS RECTORES
 
@@ -425,7 +425,7 @@ Es de señalar que el procedimiento referido en líneas anteriores debe privileg
 
 De la misma manera, para determinar el interés superior de la niñez y adolescencia, la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes debe valorar y sopesar todos los elementos necesarios para tomar una decisión en una determinada situación para un niño o un grupo de niños en concreto. Incumbe al responsable de la toma de decisiones y su personal (a ser posible, un equipo multidisciplinario) y requiere la participación del niño.
 
-La determinación del interés superior de la niñez y adolescencia consistirá entonces en el “proceso estructurado y con garantías estrictas concebido para determinar el interés superior del niño tomando como base la evaluación del interés superior”
+La determinación del interés superior de la niñez y adolescencia consistirá entonces en el "proceso estructurado y con garantías estrictas concebido para determinar el interés superior del niño tomando como base la evaluación del interés superior"
 
 La evaluación y determinación del interés superior es central para la labor de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes; es necesario evaluar y determinar el interés superior del niño para tomar una decisión sobre una medida concreta, mencionando también la participación de todos los implicados en acciones que afectan a Niñas, Niños y Adolescentes.
 
@@ -477,7 +477,9 @@ NOTA: Dicha revisión será siempre en presencia de algún familiar o persona de
 
 ¿Niña, Niño o adolescente presenta lesiones por lo cual requiera hospitalización?
 
-En caso negativo continua con actividad C.1
+> <small>(F. DE E., D.O.F. 12 DE AGOSTO DE 2020)</small>
+
+En caso negativo continua con actividad B.1
 
 A.10. En caso afirmativo, por la naturaleza de lagravedad (sic) o las lesiones físicas de niñas, niños y adolescentes se requiera atención médica u hospitalaria de manera inmediata, el Grupo Multidisciplinario solicitará al personal adscrito a la Dirección de Medidas de Protección y Restitución de Derechos, emitir la medida de Protección Urgente.
 
@@ -487,7 +489,9 @@ A.12. Implementadas las Medidas de Protección, da seguimiento a la medida de pr
 
 ¿Se advierte incumplimiento a la medida de protección emitida?
 
-En caso negativo continúa con el seguimiento y se remite a la actividad B.11.
+> <small>(F. DE E., D.O.F. 12 DE AGOSTO DE 2020)</small>
+
+En caso negativo continúa con el seguimiento y se remite a la actividad B.5
 
 A.13. En caso de que se advierta el incumplimiento a la medida de protección integral y restitución de derechos, por parte de alguna institución pública o privada, atendiendo al interés superior de la niñez consagrado en nuestra Carta Magna, la Dirección de Medidas de Protección y Restitución de Derechos de Niñas, Niños y Adolescentes solicitará un informe a fin de que exponga de manera fundada y motivada, las razones por las que no se ha llevado a cabo la ejecución o del porqué de la suspensión de dicha medida.
 
@@ -495,7 +499,9 @@ A.14. Una vez recibido el informe, la Dirección de Medidas de Protección y Res
 
 ¿Existe causa justificada para el incumplimiento a la medida de protección?
 
-A.15. En caso afirmativo, modifica las medidas de protección y se remite a la actividad B.11.
+> <small>(F. DE E., D.O.F. 12 DE AGOSTO DE 2020)</small>
+
+A.15. En caso afirmativo, modifica las medidas de protección y se remite a la actividad A.11
 
 A.16. En caso negativo, y de encontrar que la suspensión de la medida de protección no se encuentra debidamente fundada o motivada y Niña, Niño o Adolescente se encuentre en evidente riesgo, se dará vista a la autoridad competente para que, en su caso, se emita la sanción correspondiente y se le dará vista al Ministerio Publico competente a fin de que conozca del asunto.
 
@@ -518,6 +524,8 @@ B.5. Emite las medidas de protección en atención a los derechos que se adviert
 IX. DIAGRAMA DE FLUJO
 
 > <small>[N. DE E. VÉASE DIAGRAMA DE FLUJO CONTENIDO EN LIGA ELECTRONICA DEL D.O.F DE 1 DE JULIO DE 2020, PAGINAS DE LA 21 A LA 24.]</small>
+
+> <small>[N. DE E. VÉASE F. DE E. AL DIAGRAMA DE FLUJO CONTENIDO EN LA LIGA ELECTRÓNICA DEL D.O.F. DE 1 DE JULIO DE 2020, PAGINAS DE LA 21 A LA 24; EN EL D.O.F. DE 12 DE AGOSTO DE 2020, PÁGINAS 94 Y 95.]</small>
 
 X. FORMATOS
 
