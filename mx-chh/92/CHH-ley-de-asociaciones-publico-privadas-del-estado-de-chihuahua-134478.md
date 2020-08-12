@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asociaciones-publico-privadas-del-estado-de-chihuahua-13
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-16"
-last_updated: "2019-03-16"
+last_updated: "2020-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
 
 Ley publicada en el Folleto Anexo al Número 22 del Periódico Oficial del Estado de Chihuahua, el sábado 16 de marzo de 2019.
 
@@ -1271,7 +1271,9 @@ Realización de activos
 
 El Desarrollador será el responsable de realizar directamente, o por conducto de terceras personas, las actividades necesarias para generar o poder contar con los activos que se requieran para prestar el servicio contratado, las cuales podrán incluir, entre otras, la construcción, la renovación, el suministro, el equipamiento, la rehabilitación, la operación, la conservación, el diseño o el mantenimiento de estos activos.
 
-La realización de esas actividades, su programa, características y especificaciones técnicas no constituirán el objeto del contrato, pero serán regulados en el mismo a fin de asegurar que el servicio contratado sea prestado con la oportunidad, calidad, suficiencia y demás condiciones pactadas.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+La realización de esas actividades, su programa, características y especificaciones técnicas no constituirán el objeto del contrato, pero serán regulados en el mismo a fin de asegurar que el servicio contratado sea prestado con la oportunidad, calidad, suficiencia y demás condiciones pactadas. En estas actividades, el Desarrollador podrá incluir proyectos realizados por Instituciones de Educación Superior en el Estado, cuyo objeto sea el desarrollo tecnológico y la innovación en la prestación de los servicios.
 
 En los términos y condiciones establecidos en las bases de la licitación, el Ente Público Contratante podrá aportar, en bienes, derechos, capital o cualquier otra forma, recursos para la ejecución de la obra y la prestación de los servicios.
 
@@ -1790,3 +1792,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los catorce días del mes de marzo del año dos mil diecinueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0738/2020 VIII P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 86, SEGUNDO PÁRRAFO, DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
