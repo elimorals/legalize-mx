@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2018-08-30"
+last_updated: "2020-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -53,11 +55,13 @@ La seguridad pública es una función a cargo del Estado y los Municipios, la cu
 
 Comprende la prevención especial y general de los delitos; la investigación para hacerla efectiva; la sanción de las infracciones administrativas; la investigación y la persecución de delitos y conductas antisociales tipificadas como tales; la reinserción social del individuo y la reintegración social y familiar del adolescente, en términos de esta Ley, en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, y las demás leyes aplicables a la materia.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 2 Bis.
 
-El Gobernador Constitucional del Estado, como Jefe de la Fuerza Pública Estatal, ejerce las atribuciones legales en materia de Seguridad Pública, por conducto del Secretario de Gobierno; los elementos de Seguridad Pública Estatal se integran en una Unidad Administrativa denominada Comisión Estatal de Seguridad Pública, así como en los Órganos Desconcentrados creados por Decreto legislativo o gubernativo, bajo el mando directo de un Comisionado Estatal de Seguridad Pública, dependiente del Secretario de Gobierno.
+El Gobernador Constitucional del Estado, como Jefe de la Fuerza Pública Estatal, ejerce las atribuciones legales en materia de Seguridad Pública, por conducto de la Comisión Estatal de Seguridad Pública, la que estará integrada por los elementos de Seguridad Pública Estatal, así como por los Órganos Desconcentrados creados por Decreto legislativo o gubernativo, bajo el mando directo de un Comisionado Estatal de Seguridad Pública, dependiente del Gobernador Constitucional del Estado.
 
 ###### Artículo 3.
 
@@ -160,6 +164,14 @@ Las acciones que desarrollen las autoridades competentes de la Seguridad Públic
 El Sistema Estatal de Seguridad Pública se integrará por:
 
 I. El Consejo Estatal;
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA EL INCISO j) A LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2020, PÁGINA 38.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+j) (sic) INSTALACIÓN, ADMINISTRACIÓN, OPERACIÓN Y VIGILANCIA DEL FUNCIONAMIENTO DEL SISTEMA ESTATAL DE VIDEOVIGILANCIA;
 
 II. Las Autoridades Municipales del Estado en materia de seguridad pública;
 
@@ -386,6 +398,22 @@ g) Acciones implementadas en materia de Prevención del Delito y cumplimiento de
 h) En su caso, aquellas medidas que en lo general se hayan adoptado para el mejor desempeño de la Institución y en beneficio de la ciudadanía, y
 
 i) Cualquier otra información que para sus fines requiera el Consejo Estatal y el Secretariado Ejecutivo;
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA EL INCISO o) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2020, PÁGINA 38.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE AGOSTO DE 2020)</small>
+
+o) (sic) ESTADÍSTICAS SOBRE LOS RESULTADOS E IMPACTOS OBTENIDOS MEDIANTE EL USO DEL SISTEMA DE VIDEOVIGILANCIA EN EL ESTADO Y LA MEDICIÓN DE SU DESEMPEÑO, ASÍ COMO DEL REGISTRO ESTATAL DE EQUIPOS Y SISTEMAS TECNOLÓGICOS PARA LA SEGURIDAD PÚBLICA, Y
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA EL INCISO p) A LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2020, PÁGINA 38.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
+p) LOS INDICADORES ESTADÍSTICOS GENERADOS DEL DESEMPEÑO DE LOS SISTEMAS TECNOLÓGICOS, MEDIOS Y EQUIPOS DE VIDEOVIGILANCIA;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2018)</small>
 
@@ -2103,9 +2131,13 @@ La policía preventiva estatal y municipal, a través de sus áreas correspondie
 
 En las actividades de prevención del delito y para la obtención de información, la policía preventiva podrá valerse de la recepción de denuncias anónimas, disponiendo acciones para su publicidad y promoción. Toda denuncia anónima deberá ser registrada y dársele el seguimiento oportuno, del que se dará cuenta de manera al pleno del Consejo Estatal.
 
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 127.
 
-Para los fines anteriores, las instituciones de seguridad pública podrán instalar y operar en lugares públicos, así como en vehículos oficiales debidamente identificados, cámaras de circuito cerrado de televisión con propósitos de vigilancia y control de tránsito.
+Para los fines anteriores, las instituciones de seguridad pública podrán instalar y operar sistemas de videovigilancia, conforme a su ámbito de competencia, con el propósito de hacer efectiva la seguridad pública, la prevención y persecución de hechos delictivos y la utilización pacífica de las vías y espacios públicos, documentar infracciones administrativas relacionadas con la seguridad pública, así como la reacción oportuna ante emergencias o desastres de origen natural o humano, en términos de la Ley de Videovigilancia para el Estado de Morelos.
 
 ### CAPÍTULO V. DE LA VIGILANCIA Y EL PATRULLAJE
 
@@ -2457,9 +2489,23 @@ X. Adolescentes sujetos a medidas cautelares;
 
 XI. Antecedentes y series históricas de los conceptos antes expuestos;
 
-XII. Número de Denuncias Anónimas denunciadas al 089, y
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-XIII. Reporte del seguimiento de Denuncias Anónimas captadas por el 089, de emergencias 066 y por cualquier otro medio que se hagan presente (sic) estas.
+REFORMADA, P.O. 12 DE AGOSTO DE 2020)
+
+XII. NÚMERO DE DENUNCIAS ANÓNIMAS DENUNCIADAS AL 089;
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE REFORMA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+XIII. REPORTE DEL SEGUIMIENTO DE DENUNCIAS ANÓNIMAS CAPTADAS POR EL 089, DE EMERGENCIAS 911 Y POR CUALQUIER OTRO MEDIO (SIC) QUE SE HAGAN PRESENTE (SIC) ÉSTAS, Y
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2020)</small>
+
+XIV. INDICADORES DE MEDICIÓN DE LAS ESTADÍSTICAS OBTENIDAS DE LOS RESULTADOS DE LA IMPLEMENTACIÓN DE LOS SISTEMAS, EQUIPOS Y MEDIOS DE VIDEOVIGILANCIA IMPLEMENTADOS PARA GARANTIZAR LA SEGURIDAD PÚBLICA EN EL ESTADO.
 
 Dicha información podrá ser utilizada para generar indicadores de medición del desempeño de las instituciones de seguridad pública.
 
@@ -3206,3 +3252,31 @@ La garantía de cumplimiento a las obligaciones que se contraen con la incorpora
 Se autoriza al Poder Ejecutivo del Estado de Morelos a pagar directamente las cuotas y aportaciones que se generen por la incorporación voluntaria de la Fiscalía General del Estado de Morelos, al régimen obligatorio del Instituto Mexicano del Seguro Social, exclusivamente en el caso que la citada Fiscalía no cubra de manera oportuna las cuotas correspondientes.
 
 Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que los pagos que realice y que correspondan a la Fiscalía General del Estado de Morelos, los pueda descontar de las cantidades próximas a ministrar en las transferencias presupuestales que correspondan al mencionado órgano, lo que deberá formalizarse en el instrumento que se celebre entre el Instituto Mexicano del Seguro Social y la citada Fiscalía.
+
+(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+P.O. 12 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE.- POR EL QUE EL QUE CREA LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMA EL ARTÍCULO 2 BIS; SE ADICIONA UN INCISO J) A LA FRACCIÓN I DEL ARTÍCULO 7; SE REFORMA EL INCISO O) Y SE ADICIONA EL INCISO P) A LA FRACCIÓN I DEL ARTÍCULO 17; SE REFORMA EL ARTÍCULO 127; SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 147; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS. SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA UNA FRACCIÓN VI DEL ARTÍCULO 165, SE REFORMA LA FRACCIÓN III Y SE ADICIONA UNA FRACCIÓN IV, RECORRIÉNDOSE LA ACTUAL FRACCIÓN IV PARA SER LA FRACCIÓN V DEL ARTÍCULO 179; SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI, RECORRIÉNDOSE LA ACTUAL FRACCIÓN VI PARA SER LA FRACCIÓN VII DEL ARTÍCULO 184 BIS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS. SE ADICIONA UN CAPÍTULO VIII DENOMINADO ACCESO ILÍCITO A SISTEMAS DE VIDEOVIGILANCIA UBICADO EN EL TÍTULO DÉCIMO NOVENO “DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO”, CON LOS ARTÍCULOS 267 TER 1, 267 TER 2, 267 TER 3 Y 267 TER 4; Y SE ADICIONA UN CAPÍTULO XX DENOMINADO USO INDEBIDO DE SISTEMAS DE VIDEOVIGILANCIA UBICADO EN EL TÍTULO VIGÉSIMO “DELITOS CONTRA LAS FUNCIONES DEL ESTADO Y EL SERVICIO PÚBLICO”, CON EL ARTÍCULO 295 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para efectos de lo dispuesto en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de su publicación, por lo que el Poder Ejecutivo del Estado por conducto de la Secretaría de Hacienda, hará las previsiones necesarias a fin de que la Comisión Estatal de Seguridad Pública cuente con la infraestructura, los recursos humanos, financieros y materiales necesarios para la implementación de la presente Ley. Lo anterior, sin perjuicio de las solicitudes y gestiones ante la Secretaría de Seguridad Pública y Protección Ciudadana del Gobierno de México para la asignación de recursos que contribuyan a este propósito.
+
+TERCERA. En un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá emitir el Reglamento de la Ley de videovigilancia para el Estado de Morelos y, en su caso, realizar las adecuaciones jurídicas que se estimen pertinentes.
+
+CUARTA. Las Instituciones de Seguridad Pública, otras autoridades, las empresas prestadoras de servicios de seguridad privada y los establecimientos mercantiles que actualmente realicen actividades de videovigilancia en el Estado, dentro de un plazo máximo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto deberán acudir a la unidad correspondiente de la Comisión Estatal de Seguridad Publica, a fin de que mediante formato libre, en su caso, informen lo conducente del artículo 53 de la Ley de Videovigilancia para el Estado de Morelos, con lo que se integrará el Registro Estatal de Equipos y Sistemas Tecnológicos para la Seguridad Pública.
+
+En el caso de los prestadores de servicio de seguridad privada y establecimientos mercantiles que, al inicio del presente Decreto, se encuentren enlazados a los sistemas de seguridad pública de la Comisión Estatal de Seguridad Pública, deberán solicitar la ratificación de su autorización a esta última, quien deberá resolver en un plazo máximo de 30 días naturales.
+
+QUINTA. En un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos del Estado de Morelos deberán adecuar las disposiciones jurídicas que estimen pertinentes por virtud del presente Decreto, en específico lo relativo a sus reglamentos, bandos y disposiciones en materia de seguridad pública, al ordenamiento territorial y desarrollo urbano, de fraccionamientos, condominios y conjuntos urbanos y demás relativos y aplicables, y lo relativo a licencias para establecimientos mercantiles.
+
+SEXTA. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, las instituciones de seguridad pública, empresas de seguridad privada y establecimientos mercantiles que utilicen cámaras de videovigilancia deberán cumplir con las obligaciones impuestas en la presente Ley.
+
+SÉPTIMA. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, la Comisión Estatal de Seguridad Pública deberá emitir los lineamientos en los cuales se definan, como mínimo, el criterio que determine el número de cámaras de videovigilancia a instalar en los fraccionamientos y condominios, así como de los establecimientos mercantiles, sus características técnicas y los procedimientos en la materia.
+
+OCTAVA. En tanto se emiten los lineamientos previstos en el artículo transitorio anterior de este Decreto, la Comisión Estatal de Seguridad Pública aplicará, en lo conducente, la Norma Técnica para Estandarizar las Características Técnicas y de Interoperabilidad de los Sistemas de Video-vigilancia para la Seguridad Pública, aprobada por el Consejo Nacional de Seguridad Pública, en su XL Sesión celebrada el 30 de agosto de 2016.
+
+NOVENA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+DÉCIMA. Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
