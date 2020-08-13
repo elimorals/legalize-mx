@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-transparencia-y-acceso-a-la-informacion-107606"
 country: "mx"
 rank: "ley_general"
 publication_date: "2015-05-04"
-last_updated: "2015-05-04"
+last_updated: "2020-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107606&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTAIP"
 
 LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 4 de mayo de 2015.
 
@@ -1028,7 +1028,9 @@ Además de lo señalado en el artículo 70 de la presente Ley, los sujetos oblig
 
 I. Las tesis y ejecutorias publicadas en el Semanario Judicial de la Federación o en la Gaceta respectiva de cada tribunal administrativo, incluyendo, tesis jurisprudenciales y aisladas;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2020)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -2451,3 +2453,15 @@ Décimo Tercero. Para el efecto del cumplimiento de las obligaciones genéricas 
 México, D.F., a 16 de abril de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Sergio Augusto Chan Lugo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de mayo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 73 DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+Primero.- El presente Decreto entrará en vigor a los 180 días posteriores a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los Poderes Judiciales Federal y de las Entidades Federativas, contarán con un plazo de 180 días para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas, a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- El Congreso de la Unión y los Congresos de las Entidades Federativas tendrán un plazo de 180 días, contados a partir de la publicación del presente Decreto, para realizar las adecuaciones normativas correspondientes, de conformidad con lo previsto en el presente Decreto.
