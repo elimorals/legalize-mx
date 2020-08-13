@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2019-02-13"
+last_updated: "2020-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE FEBRERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2020.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -1689,13 +1687,23 @@ XII. Supervisar, por conducto del Director de Notarías, el Archivo General de N
 
 XIII. Proponer al Secretario, por conducto del Subsecretario de Servicios a la Comunidad, las características y medidas de seguridad que deben contener los folios que utilicen los notarios durante el desempeño de sus funciones, a fin de que sean sometidos a consideración del Titular del Poder Ejecutivo;
 
-XIV. Emitir los lineamientos para asegurar el correcto funcionamiento del Sistema Estatal
+XIV. Emitir los lineamientos para asegurar el correcto funcionamiento del Sistema Estatal Guanajuatense Registral (SEGURE) y del Módulo web del mismo (SEGURENET);
 
-Guanajuatense Registral (SEGURE) y del Módulo web del mismo (SEGURENET);
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2020)</small>
 
-XV. Proponer al Secretario, por conducto del Subsecretario de Servicios a la Comunidad, los notarios que colaboren en la prestación de servicios notariales cuando se trate de satisfacer demandas de interés social o público; y
+XV. Proponer al Secretario, por conducto del Subsecretario de Servicios a la Comunidad, a los notarios que colaboren en la prestación de servicios notariales cuando se trate de satisfacer demandas de interés social o público;
 
-XVI. Solicitar al Colegio Estatal de Notarios que emita su opinión en los casos y términos previstos en la Ley del Notariado para el Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2020)</small>
+
+XVI. Solicitar al Colegio Estatal de Notarios que emita su opinión en los casos y términos previstos en la Ley del Notariado para el Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2020)</small>
+
+XVII. Emitir las constancias y el dictamen en el procedimiento para la designación de notarios auxiliares previsto en el Reglamento de la Ley del Notariado para el Estado de Guanajuato; y
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2020)</small>
+
+XVIII. Someter a consideración del Secretario, por conducto del Subsecretario de Servicios a la Comunidad, las constancias respecto de las solicitudes de designación de notarios auxiliares, en relación con el cumplimiento de los requisitos previstos por los artículos 48-B y 48-C fracciones I, III, IV, V y VI de la Ley del Notariado para el Estado de Guanajuato y los artículos 19 y 19 bis de su Reglamento.
 
 #### Sección Segunda. Dirección de Registros Públicos de la Propiedad
 
@@ -1761,9 +1769,23 @@ IX. Proponer al Director General de Registros Públicos de la Propiedad y Notar�
 
 X. Determinar las características de las cédulas de identidad de los notarios, así como proponer al Director General de Registros Públicos de la Propiedad y Notarías su expedición y reposición, llevando el registro correspondiente;
 
-XI. Llevar la administración, control y distribución de los folios que deban utilizar los notarios durante el desempeño de sus funciones, así como proponer al Director General de Registros Públicos de la Propiedad y Notarías las características y medidas de seguridad en los mismos; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2020)</small>
 
-XII. Las demás que le señale la normatividad correspondiente o le confiera el Director General de Registros Públicos de la Propiedad y Notarías.
+XI. Llevar la administración, control y distribución de los folios que deban utilizar los notarios durante el desempeño de sus funciones, así como proponer al Director General de Registros Públicos de la Propiedad y Notarías las características y medidas de seguridad en los mismos;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2020)</small>
+
+XII. Emitir las constancias de estatus notarial y de antecedentes de responsabilidad administrativa notarial que le soliciten los notarios del estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2020)</small>
+
+XIII. Recibir y sustanciar las solicitudes de designación de notario auxiliar, que los notarios titulares realicen;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2020)</small>
+
+XIV. Proponer al Director General de Registros Públicos de la Propiedad y Notarías, las constancias sobre las solicitudes de designación de notarios auxiliares, en relación con el cumplimiento de los requisitos previstos por los artículos 48-B y 48-C fracciones I, III, IV, V y VI de la Ley del Notariado para el Estado de Guanajuato y los artículos 19 y 19 bis de su Reglamento; y
+
+XV. Las demás que le señale la normatividad correspondiente o le confiera el Director General de Registros Públicos de la Propiedad y Notarías.
 
 #### Sección Cuarta. Archivo General de Notarías
 
@@ -3188,3 +3210,15 @@ ción y Cultura Vial y Educación Vial
 Dirección de Gestión Administra Dirección de Gestión Administrativa
 
 tiva de la Movilidad de Transporte
+
+P.O. 13 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO 57, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO Y DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Actualización del Manual de Organización
+
+Artículo Segundo. La Secretaría de Gobierno deberá actualizar su Manual de Organización General publicado en el Periódico Oficial del Gobierno del Estado número 148, Segunda Parte, del 24 de julio de 2020, acorde al contenido del presente Decreto Gubernativo.
