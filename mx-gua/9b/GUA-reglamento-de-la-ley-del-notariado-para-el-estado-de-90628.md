@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-del-notariado-para-el-estado-de-90628"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-21"
-last_updated: "2012-12-21"
+last_updated: "2020-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2020.
 
 Reglamento publicado en la Cuarte Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -121,11 +121,19 @@ Ausencia de los miembros del Jurado
 
 Si transcurridos 15 minutos del día y hora señalados para el examen teórico o práctico del examen de aspirante a notario o de oposición para la obtención del fíat, no se encuentra presente alguno de los miembros propietarios del jurado entrará en funciones el suplente, y si tampoco éste concurre, no se llevará a cabo el examen, asentándose lo anterior en el acta que paro ello elabore el Secretario del Jurado. En esta última circunstancia se señalará, nueva fecha y hora para la realización del examen, la que se notificará personalmente o por correo certificado a los interesados. El examen deberá practicarse dentro de los 5 días hábiles siguientes a la fecha que se consigne en el acta.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Lo establecido en este artículo le será aplicable a los exámenes de notario auxiliar.
+
 Facultad del jurado para resolver los incidentes
 
 ###### Artículo 9.
 
 El jurado resolverá los incidentes que se presenten en la realización del examen de aspirante a notario o de oposición para la obtención del fíat.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Lo establecido en este artículo le será aplicable a los exámenes de notario auxiliar.
 
 Cédula de identidad notarial
 
@@ -185,57 +193,139 @@ Cuando prevalezca la suspensión y el notario sustituto haya concluido los actos
 
 ### Capítulo IV. Del notario auxiliar
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
 Notario auxiliar
 
 ###### Artículo 18.
 
-El notario que reúna los requisitos de la Ley podrá proponer un notario auxiliar, presentando su propuesta de manera conjunta con los documentos que acrediten que aquél cumple con los requisitos señalados en la Ley, en los formatos que para tal efecto le otorgue la Dirección General.
+El notario que reúna los requisitos de la Ley podrá solicitar y proponer un notario auxiliar, presentando su propuesta de manera conjunta con los documentos que acrediten que ambos cumplen con los requisitos señalados en la Ley.
 
-Requisitos del notario para proponer notario auxiliar
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Acreditación de los requisitos para solicitar y proponer notario auxiliar
 
 ###### Artículo 19.
 
-Los requisitos para proponer notario auxiliar señalados en el artículo 48 B de la Ley se acreditan con:
+Los requisitos para que el notario titular solicite y proponga notario auxiliar, señalados en el artículo 48-B de la Ley, se acreditarán de la siguiente manera:
 
-I. Constancia expedida por la Dirección General de no haber sido sancionado;
+I. La certificación notarial vigente se acreditará con la copia certificada de la constancia que le hubiere sido otorgada en los términos del artículo 69 de este Reglamento por el periodo de certificación inmediato anterior al de la fecha de su solicitud de designación de Notario auxiliar;
 
-II. Constancia expedida por la Dirección General de no estar sujeto a un proceso de responsabilidad notarial; y
+II. La antigüedad en el ejercicio de la función se acreditará con la copia certificada del Fíat que le hubiere sido otorgado para el ejercicio de la función notarial.
 
-III. Informe anual que refiere el artículo 30 del Reglamento, y la solicitud por escrito que argumente la necesidad del notario auxiliar, pudiendo acompañar las pruebas que estime pertinentes.
+III. Los antecedentes de responsabilidad administrativa notarial a que se refieren las fracciones I y II, así como el último párrafo del artículo 48-B de la Ley, se acreditarán con la o las constancias de antecedentes de responsabilidad administrativa notarial que, previamente a su solicitud de designación de Notario auxiliar, le haya expedido la Dirección de Notarías de la Secretaría de Gobierno, y que deberán expresar:
 
-Requisitos del aspirante a notario auxiliar
+a) Que el Notario titular no se encuentra sujeto a un procedimiento por virtud del cual se le pudiera suspender en el ejercicio de la función notarial, o bien, se le pudiera revocar el Fíat de Notario por alguna de las hipótesis establecidas en el artículo 124 de la Ley.
+
+b) Que el Notario titular no se encuentra suspendido en el ejercicio de la función notarial ni ha sido suspendido en términos de lo dispuesto por el artículo 105 de la Ley.
+
+c) Que al Notario titular no le ha sido revocado el Fíat para el ejercicio de la función notarial.
+
+IV. El supuesto de encontrarse en el ejercicio de la función notarial a que alude el último párrafo del artículo 48-B de la Ley, se acreditará con la constancia de estatus notarial que, previamente a su solicitud de designación de Notario auxiliar, le haya expedido la Dirección de Notarías de la Secretaría de Gobierno, y que deberá expresar que el Notario titular no se encuentra con licencia vigente para separarse del ejercicio de la función notarial por cualquiera de los supuestos de los artículos 102 y 103 de la Ley.
+
+V. La necesidad del Notario auxiliar, prevista por la fracción III del artículo 48-B de la Ley, se acreditará por el Notario titular a través de:
+
+a) La solicitud de designación de Notario auxiliar por escrito, en la que exponga la carga de trabajo o la demanda de prestación de servicios notariales que justifiquen tal designación, a la cual acompañará los documentos que, en su caso, considere necesarios; y
+
+b) El informe del propio Notario titular en documento por separado, del número de instrumentos notariales constantes en su Protocolo y en su Libro de Ratificaciones por el periodo que abarque los dos años anteriores al en que realice su solicitud, así como los que consten en ellos correspondientes al año en que la realiza.
+
+Atendiendo a lo anterior, una vez presentada la solicitud por parte del Notario titular, la Dirección General emitirá constancia de que el Notario titular y el sustentante reúnen los requisitos establecidos en los artículos 48-B y 48-C de la Ley y 19 Y 19 bis de este Reglamento, previo acreditamiento de los requisitos.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Acreditación de los requisitos para ser designado notario auxiliar
+
+Artículo 19 bis. Los requisitos para el practicante que haya de ser propuesto como Notario auxiliar, señalados en el artículo 48-C de la Ley, se acreditarán de la siguiente manera:
+
+I. La práctica notarial se acreditará con el certificado que emita el Notario titular, que deberá contener, al menos, lo siguiente:
+
+a) Fecha en que el practicante obtuvo el título de Notario Público.
+
+b) Fecha en que el practicante inició la práctica notarial en la Notaría a su cargo.
+
+c) Fecha en la que, en su caso, el practicante concluyó la práctica notarial en la Notaría a su cargo.
+
+d) Actividades desempeñadas por el practicante durante el periodo de práctica notarial en la Notaría a su cargo.
+
+II. La capacidad física y mental que permita el ejercicio de la función notarial se acreditará en la forma prevista por el artículo 13 fracción V de la Ley.
+
+El certificado médico oficial deberá tener una antigüedad máxima de emisión de seis meses a la fecha de la solicitud de designación de Notario auxiliar.
+
+III. La buena conducta y honorabilidad profesional se acreditarán en la forma prevista por el artículo 13 fracción IV de la Ley, precisando que las cartas respectivas deberán contener la mención de que se expide al interesado para la solicitud del examen para Notario auxiliar.
+
+Las cartas de buena conducta y honorabilidad profesional deberán tener una antigüedad máxima de emisión de seis meses a la fecha de la solicitud de designación de Notario auxiliar.
+
+IV. La inexistencia de condena en sentencia ejecutoria por delito doloso que amerite pena privativa de libertad, se acreditará en la forma prevista por el artículo 13 fracción VIII de la Ley.
+
+Las constancias que acrediten este requisito deberán tener una antigüedad máxima de emisión de seis meses a la fecha de la solicitud de designación de Notario auxiliar.
+
+V. La íntegra ética profesional y la capacidad jurídica y profesional suficiente se acreditarán con:
+
+a) La copia certificada del título de abogado o licenciado en Derecho, o título legalmente equivalente, expedido por institución educativa reconocida o autorizada por las autoridades competentes en materia de educación.
+
+b) La copia certificada del título de Notario Público, o título legalmente equivalente, expedido por institución educativa reconocida o autorizada por las autoridades competentes en materia de educación.
+
+c) La opinión del Notario titular, bajo protesta de decir verdad, sobre la íntegra ética profesional del practicante, en relación con la práctica notarial realizada ante él.
+
+d) La opinión del Colegio Estatal de Notarios sobre la íntegra ética profesional del practicante, para lo cual deberá escuchar previamente la opinión de la delegación para cuya adscripción se pretenda la expedición de la licencia de Notario auxiliar.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Trámite para la designación de Notario auxiliar
 
 ###### Artículo 20.
 
-Los requisitos para ser notario auxiliar señalados en el artículo 48 C de la Ley se acreditan con:
+La designación de Notario auxiliar se desarrollará en los siguientes términos:
 
-I. Constancia de aspirante a Notario;
+I. El Titular del Poder Ejecutivo emitirá la convocatoria para designación de notario auxiliar una vez al año, salvo que no existan solicitudes;
 
-II. Certificado médico expedido por autoridad oficial que acredite que goza de capacidad física y mental para el ejercicio de la función notarial;
+II. Atendiendo a la convocatoria, el Notario titular que se encuentre en los supuestos del artículo 48-B de la Ley solicitará por escrito ante la Dirección General el inicio del trámite de designación de Notario auxiliar. Su escrito deberá contener:
 
-III. Carta de Antecedentes penales federal y local; y
+a) La mención de su certificación notarial, su antigüedad en el ejercicio de la función notarial, sus antecedentes de responsabilidad administrativa notarial y su estatus notarial, adjuntando las documentales que lo acrediten en la forma prevista por el artículo 19 fracción I incisos a), b), c) y d) de este Reglamento.
 
-IV. Constancia expedida por el titular de la notaría de donde se pretenda ser auxiliar que señale fehacientemente que ha practicado 3 años ininterrumpidos.
+b) La exposición sobre la carga de trabajo o demanda de prestación de servicios notariales que justifique la necesidad de contar con un Notario auxiliar.
 
-Procedimiento para la obtención de la licencia del notario auxiliar
+c) La persona que proponga como Notario auxiliar, respecto de la cual deberá mencionar el periodo de práctica notarial en la Notaría a su cargo, y adjuntar las documentales que acrediten dicha práctica, así como su capacidad física y mental, su buena conducta y honorabilidad profesional, la inexistencia de condena en su contra en sentencia ejecutoria por delito doloso que amerite pena privativa de libertad, su íntegra ética profesional y su capacidad jurídica y profesional suficiente, en la forma prevista por el artículo 19 fracción II de este Reglamento.
+
+d) Las direcciones de correo electrónico en las que, en lo sucesivo y para efectos del trámite de la solicitud, se les practicarán las notificaciones que en Derecho correspondan al Notario titular y a la persona propuesta para ser designada como Notario auxiliar, las que podrán hacerse por medios electrónicos o en la forma y términos que se indiquen en la convocatoria.
+
+III. Una vez presentada la solicitud de designación de Notario auxiliar, la Dirección General verificará que el Notario titular se ubica en los supuestos del artículo 48-B de la Ley, y que la persona propuesta como Notario auxiliar satisface los requisitos del artículo 48-C fracciones I, III, IV, V y VI de la Ley, así como de los artículos 19 y 19 bis de este Reglamento, y emitirá la constancia respectiva.
+
+La Secretaría notificará al Notario titular y al sustentante la hora, fecha y lugar en que se realizará el examen.
+
+IV. Emitida la constancia respectiva, se procederá a la integración del jurado para la aplicación del examen de conocimientos para la obtención de la licencia de notario auxiliar.
+
+V. Aplicado el examen al sustentante, y habiendo obtenido éste la calificación satisfactoria que prevé el segundo párrafo del artículo 48-E de la Ley, se turnará la solicitud de Notario auxiliar formulada por el Notario titular, sus anexos, el dictamen emitido por la Dirección General y el acta del Jurado con la calificación del examen al Titular del Poder Ejecutivo del Estado, para que proceda en el ámbito de su competencia en los términos del artículo 48-G de la Ley.
 
 ###### Artículo 21.
 
-El procedimiento del examen para la obtención de licencia de notario auxiliar se sujetará a las reglas señaladas en los artículos 48 D y 48 E de la Ley.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2020)
 
-Contenido de la licencia de notario auxiliar
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Contenido de la licencia de notario auxiliar y expedición de la cédula de identidad
 
 ###### Artículo 22.
 
 La licencia de notario auxiliar contendrá:
 
-I. La autoridad que la expida, el nombre y apellidos del notario a quien se le otorga;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2020)</small>
+
+I. La autoridad que la expida, el nombre y apellidos del profesionista a quien se le otorga;
 
 II. El lugar y la fecha de la expedición;
 
-III. La fotografía del notario, así como su filiación y firma. La fotografía deberá cancelarse con el sello del Poder Ejecutivo; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2020)</small>
 
-IV. El nombre del notario y el número de notaría pública a la que se encuentra adscrito.
+III. La fotografía del profesionista, así como su filiación y firma. La fotografía deberá cancelarse con el sello del Poder Ejecutivo; y
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2020)</small>
+
+IV. El nombre del Notario titular y el número de Notaría pública a la que se encuentra adscrito.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Una vez que se expida la licencia de Notario auxiliar, el Titular del Poder Ejecutivo otorgará la cédula de identidad de Notario auxiliar, previo el pago de los derechos que correspondan, la que le servirá de identificación oficial.
 
 Procedimiento ante la notificación de la revocación de la licencia
 
@@ -244,6 +334,10 @@ Procedimiento ante la notificación de la revocación de la licencia
 El notario titular una vez notificada la revocación de la licencia al notario auxiliar, deberá mandar copia de ésta a la Dirección General para que la incluya en el expediente del notario auxiliar.
 
 La notificación deberá realizarse de manera personal.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+La revocación de la licencia al Notario auxiliar se comunicará por la Dirección General a las autoridades a que se refiere la fracción IV del artículo 25 de la Ley.
 
 ### Capítulo V. Del Sello y Firma de Autorización
 
@@ -263,11 +357,17 @@ El notario comunicará a la Dirección General, la destrucción, inutilización 
 
 La Dirección General procederá de inmediato a reponer, a costa del notario, la pieza o piezas del sello. De la entrega-recepción del sello repuesto se levantará acta que firmarán el notario y el Titular de la Dirección General.
 
-Acopio del sello de notario
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Aseguramiento de insumos para el ejercicio de la función notarial
 
 ###### Artículo 26.
 
 La Dirección General, a través del Archivo, recogerá los sellos del notario que termine sus funciones, por renuncia, revocación del fíat, cambio de adscripción o fallecimiento. Se procederá de igual manera cuando el notario sustituto o el notario auxiliar si los hubiere, terminen sus actuaciones; así como los sellos alterados, los extraviados recuperados y aquellos que no reúnan los requisitos de la Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+En los casos de terminación de la función por el fallecimiento de Notarios titulares, y para los efectos del artículo 48-L de la Ley, el Notario auxiliar informará al Archivo General de Notarías dentro de los 5 días hábiles siguientes al fallecimiento, el listado de actos que hubieren quedado pendientes por ese suceso. El Archivo General de Notarías procederá en términos de lo dispuesto por el artículo 135 penúltimo párrafo de la Ley, dejando en poder del Auxiliar únicamente los tomos de Protocolo y de Libro de Ratificaciones, sus apéndices e índices, hojas testimonio, hologramas y folios no utilizados que sean necesarios para concluir los actos pendientes.
 
 En caso de suspensión, el sello se depositará en el Archivo mientras subsista ésta, al término de los trámites que realice el notario sustituto.
 
@@ -279,11 +379,13 @@ Sustitución del sello de notario
 
 Cualquier cambio o variación por defecto o alteración del material de fabricación con que se produzcan las piezas del sello, el notario deberá comunicarlo a la Dirección General, promoviendo la sustitución correspondiente.
 
-Registro de la firma y rúbrica del notario
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Registro de las firmas y rúbricas del Notario titular y del Notario auxiliar
 
 ###### Artículo 28.
 
-El registro de la firma y rúbrica del notario deberá ser actualizado cada cinco años o antes en caso de que el interesado lo solicite, en virtud de haberse producido cambios sustanciales en ella o a petición del Colegio, cuando por circunstancias graves resulte necesario.
+El registro de la firma y rúbrica del Notario titular y del Notario auxiliar, en su caso, deberá ser actualizado cada cinco años o antes en caso de que el interesado lo solicite, en virtud de haberse producido cambios sustanciales en ella o a petición del Colegio, cuando por circunstancias graves resulte necesario.
 
 Registro de sellos, firmas y rúbricas
 
@@ -423,25 +525,23 @@ XII. De Certificación Notarial.
 
 Además de los registros anteriores, llevará un Directorio General de Notarías Públicas, Notarios y Notorios Auxiliares, que deberá mantener constantemente actualizado, así como un expediente de cada notaría pública y notario en la entidad.
 
-Contenido del registro general de aspirantes a notario, notario auxiliar, notarios y notarías públicas
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Contenido del registro general de aspirantes a notario, notarios auxiliares, notarios y notarías públicas
 
 ###### Artículo 45.
 
-El registro general de aspirantes a notario, notario auxiliar, notarios y notarías públicas deberá contener:
+El registro general de aspirantes a notario, notarios auxiliares, notarios y notarías públicas deberá contener:
 
-I. El nombre del notario, lugar y fecha de nacimiento, su domicilio particular y teléfonos;
+I. El nombre del notario, notario auxiliar o aspirante a notario, lugar y fecha de nacimiento, su domicilio particular y teléfonos;
 
-II. La fecha de expedición de la constancia que lo acredita como aspirante a notario o notario auxiliar;
+II. La fecha de expedición del Fíat, de la licencia de notario auxiliar o de la constancia de aspirante a notario, según corresponda;
 
-III. El nombre de los aspirantes a notarios y notario auxiliar, lugar y fecha de nacimiento, su domicilio particular y teléfonos;
+III. El número de notaría pública de la que sean titulares o a la que presten auxilio, su adscripción y su residencia;
 
-IV. La fecha de expedición de su fíat;
+IV. La fecha de inicio de funciones de los notarios y los notarios auxiliares; y
 
-V. El número de notaría pública, lugar de adscripción y residencia;
-
-VI. La fecha de inicio de funciones; y
-
-VII. Los cambios de adscripción, convenios de suplencias, asociaciones y revocaciones, licencias, renuncias y suspensiones.
+V. Los cambios de adscripción, convenios de suplencias, asociaciones y revocaciones, licencias, renuncias y suspensiones, según corresponda, así como las revocaciones de licencias de notario auxiliar.
 
 Contenido del registro del convenio de suplencias y licencias de notarios
 
@@ -583,13 +683,7 @@ b) El número y adscripción de la notaría donde se realizó la práctica y nom
 
 c) La fecha de inicio y conclusión de prácticas, en los términos del artículo 13 fracción VII de la Ley.
 
-II. Para notario auxiliar:
-
-a) El nombre del aspirante a notario auxiliar;
-
-b) El número y adscripción de la notaría donde pretende fungir como notario auxiliar y nombre del titular; y
-
-c) La certificación del notario solicitante, donde se haga constar los 3 años ininterrumpidos de prácticas en la adscripción correspondiente.
+II. (DEROGADA, P.O. 13 DE AGOSTO DE 2020)
 
 Contenido del Directorio General de Notarías Públicas, Notarios y Notarios Auxiliares
 
@@ -603,11 +697,15 @@ II. El número y adscripción de la notaría; y
 
 III. El lugar de residencia de la notaría y su domicilio, teléfono, dirección de correo electrónico o aquellos medios electrónicos que se estimen necesarios.
 
-Contenido del expediente personal de los notarios
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Contenido del expediente personal de los notarios titulares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 57.
 
-El expediente personal de los notorios deberá contener:
+El expediente personal de los notarios titulares deberá contener:
 
 I. La copia de los documentos que justificaron el otorgamiento del fíat;
 
@@ -624,6 +722,26 @@ VI. Si cuenta con notario auxiliar;
 VII. La copia de las constancias del proceso de certificación; y
 
 VIII. La copia de las resoluciones en que se le imponga una sanción.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
+
+Contenido del expediente personal de los notarios auxiliares
+
+Artículo 57 bis. El expediente personal de los notarios auxiliares deberá contener:
+
+I. La copia de los documentos que justificaron el otorgamiento de la licencia;
+
+II. La copia de la licencia;
+
+III. El oficio y acuse de inicio de funciones;
+
+IV. La copia de las constancias del proceso de certificación;
+
+V. La copia de las resoluciones en que se les imponga una sanción.
+
+VI. La solicitud de revocación de licencia con los motivos que la sustenten; y,
+
+VII. En su caso, el acuerdo de revocación de la licencia.
 
 Contenido del expediente de la notaría pública
 
@@ -834,3 +952,17 @@ EL SECRETARIO DE VINCULACIÓN Y DESARROLLO POLÍTICO
 TOMÁS LÓPEZ MARTÍNEZ
 
 Encargado del Despacho de la Secretaría de Gobierno con fundamento en el artículo 78 del Reglamento Interior de la Secretaría de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO 57, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO Y DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Actualización del Manual de Organización
+
+Artículo Segundo. La Secretaría de Gobierno deberá actualizar su Manual de Organización General publicado en el Periódico Oficial del Gobierno del Estado número 148, Segunda Parte, del 24 de julio de 2020, acorde al contenido del presente Decreto Gubernativo.
