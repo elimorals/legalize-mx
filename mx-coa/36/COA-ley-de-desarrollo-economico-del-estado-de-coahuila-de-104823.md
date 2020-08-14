@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-economico-del-estado-de-coahuila-de-104823"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2020-06-30"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -117,11 +117,17 @@ XXII. Región Norte: Aquella que por su territorio comprende los municipios de A
 
 XXIII. Región Sureste: Aquella que por su territorio comprende los municipios de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XXIV. Trabajo decente: Se entiende por trabajo digno o decente aquél en el que se respeta plenamente la dignidad humana del trabajador; no existe discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil; se tiene acceso a la seguridad social y se percibe un salario remunerador; se recibe capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
+
 ###### Artículo 4.
 
 Esta Ley tiene como finalidades:
 
-I. Promover y generar nuevas fuentes de empleos y consolidar las existentes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+I. Promover y generar nuevas fuentes de empleos y consolidar las existentes, con trabajo decente para todos;
 
 II. Promover y fomentar entre los municipios la implementación de programas de competitividad, planeación, vinculación, mejora regulatoria y otorgamiento de estímulos e incentivos a las empresas, dirigidos a fortalecer a las distintas regiones del Estado en la atracción de inversiones productivas y en la generación de empleos;
 
@@ -285,7 +291,9 @@ c. Designar un Coordinador de Proyecto, que será un funcionario de la Secretar�
 
 III. DESARROLLO DE RECURSOS HUMANOS.
 
-a. Promover la capacitación y adiestramiento de los trabajadores, para generar una planta productiva que permita a las empresas una producción con mejor calidad de manera más eficaz y eficiente, lo cual se llevará a cabo conforme a los lineamientos que al efecto emita el Servicio Nacional de Empleo a través de la Secretaría del Trabajo.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+a. Promover un trabajo decente, con la capacitación y adiestramiento de los trabajadores, para generar una planta productiva que permita a las empresas una producción con mejor calidad de manera más eficaz y eficiente, lo cual se llevará a cabo conforme a los lineamientos que al efecto emita el Servicio Nacional de Empleo a través de la Secretaría del Trabajo.
 
 b. Otorgar recursos a favor de las empresas, para capacitaciones específicas que requiera el personal de las mismas en México y en el extranjero.
 
@@ -784,3 +792,11 @@ P.O. 30 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 636.- SE ADICIONAN LAS FRACCIONES VI Y VIII RECORRIÉNDOSE LAS ULTERIORES Y SE REFORMA LA FRACCIÓN XXIII AL ARTÍCULO 3; SE REFORMA LA FRACCIÓN VII, Y SE ADICIONA LA VIII DEL ARTÍCULO 8 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 684.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4 Y EL INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 11 Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 3 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
