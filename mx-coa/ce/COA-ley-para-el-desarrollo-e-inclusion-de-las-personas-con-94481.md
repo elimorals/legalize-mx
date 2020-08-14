@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2020-08-07"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -145,6 +145,10 @@ XXXIV. Trato Preferencial: Garantizar la atención prioritaria a las personas co
 
 XXXV. Equidad de Género: Para efectos de la simplicidad gramatical, cada vez que se use el genérico masculino, se entenderá que se hace referencia a los hombres y a las mujeres por igual.
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XXXVI. Dignidad Humana: es un valor supremo que reconoce la calidad única y excepcional a todo ser humano por el simple hecho de serlo, del cual se desprenden todos los derechos necesarios para que las personas con discapacidad desarrollen integralmente su personalidad.
+
 ###### Artículo 3°.
 
 La responsabilidad de vigilancia, seguimiento y aplicación de esta ley, estará a cargo de:
@@ -162,6 +166,10 @@ a) Promover el goce y ejercicio pleno de los derechos de las personas con discap
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 b) Promover la accesibilidad en la infraestructura física de instalaciones públicas y privadas, así como los recursos técnicos, materiales y humanos necesarios para la atención segura y accesible de la población con discapacidad atendiendo la modalidad de trato preferencial.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+Asimismo, promoverá ante las instancias públicas y privadas correspondientes, la adecuación y mejoramiento de los lugares de recreación, esparcimiento y recreo existentes, para el libre y fácil acceso procurando que todos ellos cuenten con espacios inclusivos que permitan y garanticen su seguridad, uso y disfrute.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
 
@@ -394,6 +402,10 @@ VII. Fomentar la capacitación y sensibilización al personal que trabaje con pe
 VIII. Promover medidas a efecto de que las obligaciones laborables no interrumpan el proceso de rehabilitación de las personas con discapacidad, y
 
 IX. Promover en las empresas del Estado el desarrollo personal y educativo de sus trabajadores, a través de implementación de cursos, talleres o canalización al sector educativo, además de otorgar constancias o reconocimientos a fin de que su desarrollo sea acreditado.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+X. Impulsar la difusión de oportunidades de empleo en el Estado, mediante el uso de fuentes de información accesibles y la tecnología adecuada a los diferentes tipos de discapacidad.
 
 ###### Artículo 19°.
 
@@ -1364,3 +1376,11 @@ P.O. 7 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 693.- SE REFORMA EL ARTÍCULO 88 Y LA FRACCIÓN I DEL ARTÍCULO 91 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 94, RECORRIÉNDOSE EL ACTUAL PÁRRAFO AL FINAL Y REFORMANDO SU CONTENIDO, TODOS DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 694.- SE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 2°; UN PÁRRAFO AL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 3°; Y LA FRACCIÓN X AL ARTÍCULO 18°, TODOS DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
