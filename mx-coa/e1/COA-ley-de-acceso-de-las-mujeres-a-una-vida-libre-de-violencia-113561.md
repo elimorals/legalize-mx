@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2020-01-31"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -297,25 +297,61 @@ e) Practicar el parto por vía de cesárea, existiendo condiciones para el parto
 
 f) Imponer bajo cualquier medio el uso de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer.
 
-VIII. Violencia política: Es toda acción u omisión y conducta agresiva cometida por una o varias personas, por sí o a través de terceros, que causen daño en contra de una mujer, en ejercicio de sus derechos político electoral. Se consideran actos de violencia política, entre otros, aquellos que:
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2020)</small>
 
-a) Impongan por estereotipos de género la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo;
+VIII. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-b) Asignen responsabilidades de género que tengan como resultado la limitación del ejercicio de la función político-pública;
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-c) Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-d) Impidan o restrinjan su reincorporación al cargo cuando hagan uso de una licencia justificada;
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-e) Restrinjan el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida;
+a). Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-f) Impongan sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos;
+b). Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-g) Discriminen a la autoridad electa designada o en el ejercicio de la función político-pública, por encontrarse en estado de embarazo o parto;
+c). Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-h) Divulguen o revelen información personal y privada, de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan; y
+d). Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
 
-i) Cualquier otro acto que limite o restrinja la participación política de las mujeres;
+e). Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+f). Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
+
+g). Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+h). Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+i). Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+j). Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+k). Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+l). Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+m). Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+n). Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+o). Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+p). Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+q). Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+r). Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+s). Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+t). Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+u). Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad; o
+
+v). Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 IX. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, culminando en homicidio y otras formas de muerte violenta de mujeres; y
 
@@ -469,6 +505,14 @@ XVIII. Facilitar y promover la labor del movimiento en pro de la mujer y las org
 
 XIX. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus programas, según convenga, la eliminación de la violencia contra la mujer.
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XX. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; para colaborar en los procesos de investigación con las autoridades competentes.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XXI. Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes.
+
 ###### Artículo 13.
 
 Las acciones que se lleven a cabo con motivo de esta Ley, y demás disposiciones aplicables, tienen por objeto la protección y asistencia a las víctimas, o a aquellas en situación de riesgo de violencia y además promover su desarrollo integral y su participación en los ámbitos de la vida pública y privada.
@@ -517,7 +561,9 @@ IV. Otorgar asesoría jurídica gratuita, en los asuntos relacionados con la vio
 
 V. Proporcionar asistencia médica y psicológica gratuita que favorezca su empoderamiento, cese o disminuya la conducta violenta raíz de la cual es víctima, para la atención de las consecuencias generadas por la violencia;
 
-VI. Efectuar acciones de asistencia social que contribuyan a su pleno desarrollo, en coordinación con las entidades correspondientes, según sea el caso;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+VI. Efectuar acciones de asistencia social que contribuyan a su pleno desarrollo, en coordinación con las entidades correspondientes, según sea el caso; a través de convenios de coordinación y concertación con los sectores públicos, sociales y privados en la materia;
 
 VII. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijos;
 
@@ -985,7 +1031,21 @@ XIII. Promover y realizar investigaciones con perspectiva de género sobre las c
 
 XIV. Impulsar la creación de refugios para la atención y protección de las víctimas, según lo previsto en el Sistema Estatal; y
 
-XV. Las demás previstas en esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2020)</small>
+
+XV. A través de la Secretaría del Trabajo, Promover campañas de información en los centros de trabajo sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XVI. Reconocer e incentivar a las empresas a través de la Secretaría del Trabajo, que se abstengan de solicitar a las mujeres certificados de no gravidez.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XVII. En Coordinación con la Secretaría del Trabajo, Orientar a las receptoras de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2020)</small>
+
+XVIII. Las demás previstas en esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 49.
 
@@ -1059,7 +1119,13 @@ VIII. Establecer políticas que fomenten el apego a los principios de legalidad,
 
 IX. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
-X. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2020)</small>
+
+X. En coordinación con la Secretaría de Salud, implementar acciones para brindar atención medica obstétrica y ginecológica; así como pediátrica, durante el embarazo, parto y puerperio a las mujeres recluidas en centros penitenciarios, a fin de garantizar que la mujer recluida y su hijo o hija en gestación y posterior al nacimiento, reciban atención médica que les garantice el derecho a Ia (sic) vida y su bienestar físico;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2020)</small>
+
+XI. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 52.
 
@@ -1299,9 +1365,11 @@ IV. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 60.
 
-Las medidas de atención en materia de violencia contra las mujeres consisten en brindar servicios médicos, psicológicos, jurídicos y sociales con calidad y calidez para su empoderamiento, el desarrollo integral de sus potencialidades y el acceso efectivo a sus derechos.
+Las medidas de atención en materia de violencia contra las mujeres consisten en brindar servicios médicos, psicológicos, jurídicos y sociales con calidad y calidez para su empoderamiento, el desarrollo integral de sus potencialidades y el acceso efectivo a sus derechos, los cuales deberán ser gratuitos y expeditos.
 
 ###### Artículo 61.
 
@@ -1416,6 +1484,18 @@ j) Fungir como peritos en trabajo social;
 k) Realizar trámites ante el registro civil para la obtención de documentos; y
 
 l) Ayudar a las mujeres a su retorno al lugar de origen cuando así lo deseen.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+VI. Facilitar el acceso de las mujeres al servicio de las bolsas de trabajo que existan en el Estado, para tener una actividad laboral remunerada;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+VII. Orientar a las víctimas para que no sean obligadas a participar en mecanismos de conciliación con la persona generadora de violencia;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+VIII. Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -2164,3 +2244,15 @@ P.O. 31 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 487.- SE MODIFICA EL CONTENIDO DEL ARTÍCULO 33 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 685.- SE ADICIONAN LAS FRACCIONES XX Y XXI AL ARTÍCULO 12; LAS FRACCIONES XVI, XVII Y XVIII AL ARTÍCULO 48, LA FRACCIÓN XI AL ARTÍCULO 51, LAS FRACCIONES VI, VII Y VIII AL ARTÍCULO 68, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 15, LA FRACCIÓN XV DEL ARTÍCULO 48, SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 51, EL ARTÍCULO 60, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 686.- SE MODIFICA LA FRACCIÓN VIII DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
