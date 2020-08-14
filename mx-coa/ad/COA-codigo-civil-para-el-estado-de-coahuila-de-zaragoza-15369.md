@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2020-06-26"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -730,6 +730,10 @@ III. De que no se depositen desechos o desperdicios en el frente o a los lados d
 IV. A no ser perturbados constantemente con sonidos estridentes, estruendosos o cualquiera otro ruido molesto, o por la luz temporal de lámparas que impidan el trabajo o el reposo.
 
 V. A transitar libremente en calles, avenidas, bulevares y caminos públicos, salvo lo dispuesto por autoridad competente.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+VI. A transitar los vecinos y sus acompañantes libremente por calles, avenidas, bulevares y espacios públicos, ante la presencia de cualquier animal que pudiera poner en riesgo su seguridad e integridad física al no encontrarse bajo el debido cuidado de su tutor y/o poseedor.
 
 ###### ARTÍCULO 106.
 
@@ -21262,3 +21266,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 658.- SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 105 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
