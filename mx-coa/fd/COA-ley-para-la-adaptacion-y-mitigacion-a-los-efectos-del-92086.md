@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-adaptacion-y-mitigacion-a-los-efectos-del-92086"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-25"
-last_updated: "2019-04-12"
+last_updated: "2020-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de enero de 2013.
 
@@ -403,7 +403,9 @@ El Fondo estará integrado por los recursos que sean asignados por la Federació
 
 Los recursos del Fondo serán aplicados a:
 
-I. La elaboración e implementación de programas, políticas y acciones para la adaptación al Cambio climático derivados del Plan Estatal y de esta ley, atendiendo de manera especial a las poblaciones ubicadas en zonas de alto riesgo y a los grupos vulnerables;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+I. La elaboración e implementación de programas, políticas y acciones para la adaptación al Cambio climático derivados del Plan Estatal y de esta ley, atendiendo de manera especial a las poblaciones ubicadas en zonas de alto riesgo y se deberán respetar irrestrictamente los derechos humanos, el derecho a la salud, los derechos de los pueblos indígenas, las comunidades locales, los migrantes, los niños, las personas con discapacidad y las personas en situaciones de vulnerabilidad y el derecho al desarrollo, así como la igualdad de género, el empoderamiento de la mujer y la equidad intergeneracional;
 
 II. La creación de proyectos que contribuyan a incrementar y preservar los recursos naturales del Estado, a la adaptación y mitigación al cambio climático;
 
@@ -445,9 +447,11 @@ Los términos específicos, criterios, bases técnicas y jurídicas que se requi
 
 ### CAPITULO V. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 31.
 
-El Gobierno del Estado promoverá la participación de la ciudadanía, para la toma de decisiones y en el desarrollo, implementación y verificación del Plan Estatal, así como en las medidas de adaptación y mitigación del cambio climático.
+El Gobierno del Estado promoverá la participación de la ciudadanía, procurando siempre la igualdad de género y la representación de las poblaciones más vulnerables al cambio climático, indígenas, personas con discapacidad, académicos e investigadores para la toma de decisiones y en el desarrollo, implementación y verificación del Plan Estatal, así como en las medidas de adaptación y mitigación del cambio climático.
 
 ###### Artículo 32.
 
@@ -590,3 +594,9 @@ P.O. 12 DE ABRIL DE 2019.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 681.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 25 Y EL ARTÍCULO 31, DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DEL CAMBIO CLIMÁTICO EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
