@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-fiscalizacion-del-instituto-nacional-electoral-10
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-01-22"
-last_updated: "2018-02-09"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104964&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-12-23"
 ---
 # REGLAMENTO DE FISCALIZACION DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2020.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 22 de enero de 2015.
 
@@ -277,7 +279,19 @@ hh) NIF: Normas de Información Financiera emitidas por el Consejo Mexicano de N
 
 ii) Organizaciones de observadores: Organizaciones de observadores electorales en elecciones federales.
 
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+iii) Violencia política contra las mujeres en razón de género: Toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, aspirantes a una candidatura independiente, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; candidatas o candidatos independientes, medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
 jj) Organismos Públicos Locales: Organismos Públicos Locales en materia electoral.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+jjj) Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
 
 kk) Organización de ciudadanos: Organización de ciudadanos que notifiquen al Instituto el propósito de obtener su registro como Partido Político Nacional.
 
@@ -3585,15 +3599,23 @@ IV. Todo gasto necesario para la organización y difusión de las acciones refer
 
 V. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas.
 
-b) Para el gasto de capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario, en las siguientes actividades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-I. La realización de investigaciones y diagnósticos cuyo objeto sea identificar e informar la situación que guarda el ejercicio de los derechos de las mujeres en el ámbito político, a fin de generar indicadores que permitan el diseño e implementación de acciones y programas orientados a la disminución de brechas de desigualdad.
+b) Para el gasto de capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario o el porcentaje que se establezca en cada legislación local según corresponda, que no podrá ser menor al señalado, conforme a las siguientes actividades:
 
-II. La elaboración, publicación y distribución de libros, artículos y, folletos, entre otros, que estén orientados a la difusión de las problemáticas, retos y avances en la participación política de las mujeres; así como a la promoción de sus derechos en el ámbito político.
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+I. La realización de investigaciones y diagnósticos cuyo objeto sea identificar e informar la situación que guarda el ejercicio de los derechos de las mujeres en el ámbito político electoral, a fin de generar indicadores que permitan el diseño, implementación y el fortalecimiento de acciones, programas o mecanismos orientados a la disminución de brechas de desigualdad, así como a la prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+II. La elaboración, publicación y distribución de libros, artículos y, folletos, entre otros, que estén orientados a la difusión de las problemáticas, retos y avances en la participación política de las mujeres; así como a la promoción de sus derechos en el ámbito político electoral.
 
 III. La organización y realización de mesas de trabajo, conferencias, talleres, coloquios, seminarios, o cualquier evento que permita la capacitación en temas relacionados con la situación que guarda la participación política de las mujeres; así como el diseño, implementación, seguimiento y evaluación de acciones y programas orientados a dicho fin.
 
-IV. La organización y realización de cursos y talleres que permitan a las mujeres desarrollar habilidades y aptitudes, así como adquirir conocimientos y herramientas que favorezcan su liderazgo y participación política.
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+IV. La organización y realización de cursos y talleres que permitan a las mujeres desarrollar habilidades y aptitudes, así como adquirir conocimientos y herramientas que favorezcan su liderazgo y participación política, así como medidas para respetar, proteger, promover y cumplir con sus Derechos Humanos en el ámbito político electoral para prevenir sancionar y erradicar la violencia política contra las mujeres en razón de género.
 
 V. La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia.
 
@@ -3627,7 +3649,9 @@ Del sistema de rendición de cuentas para el gasto programado
 
 2. En el sistema de rendición de cuentas para gasto programado, al que deberán sujetarse los partidos, se registrarán los proyectos que integran los programas y las operaciones relativas al gasto para el desarrollo de las actividades específicas y el correspondiente a la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
 
-3. Los partidos deberán observar que la administración de los recursos erogados se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, transparencia y máxima publicidad, control, rendición de cuentas y criterios de equidad de género.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+3. Los partidos deberán observar que la administración de los recursos erogados se realice con perspectiva de género y con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, transparencia, máxima publicidad, control, rendición de cuentas e igualdad sustantiva y deberán garantizar el ejercicio de los derechos políticos y electorales en condiciones de paridad, así como el respeto a los derechos humanos de las mujeres.
 
 4. Los objetivos del gasto programado, la planeación, los indicadores, los presupuestos, la temporalidad de la aplicación de los recursos y la ejecución del gasto, son facultad exclusiva de los partidos políticos.
 
@@ -3721,11 +3745,13 @@ De las transferencias para el gasto programado
 
 Del Programa Anual de Trabajo
 
-1. Los partidos, dentro de los treinta días siguientes a la aprobación del financiamiento público para actividades ordinarias permanentes por parte del Consejo General, deberán presentar un programa de gasto para el desarrollo de las actividades específicas y otro para el gasto correspondiente a la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+1. Los partidos, dentro de los treinta días siguientes a la aprobación del financiamiento público para actividades ordinarias permanentes por parte del Consejo General, deberán presentar un programa de gasto para el desarrollo de las actividades específicas y otro para el gasto correspondiente a la capacitación, promoción y el desarrollo del liderazgo político de las mujeres. Una vez recibidos los programas, la Unidad Técnica de Fiscalización los revisará y verificará que los proyectos se encuentren alineados al cumplimiento del objetivo del programa. Asimismo, realizará las observaciones pertinentes a los sujetos obligados para que estos modifiquen los programas y sus proyectos.
 
 2. Los proyectos que integran los programas de gasto para la capacitación promoción y desarrollo del liderazgo político de las mujeres deberán retomar los elementos siguientes:
 
-a) Acciones afirmativas: Medidas temporales cuyo fin es acelerar la participación en condiciones de igualdad de la mujer en el ámbito político, económico, social, cultural y civil, o en cualquier otro ámbito. El Comité contra todas las formas de Discriminación contra la Mujer (CEDAW) en su “Recomendación General 25”, considera la aplicación de estas medidas no como excepción a la regla de no discriminación, sino como parte de una estrategia necesaria para lograr la igualdad sustantiva de la mujer y el hombre en el goce de sus derechos humanos y libertades fundamentales.
+a) Acciones afirmativas: Medidas temporales cuyo fin es acelerar la participación en condiciones de igualdad de la mujer en el ámbito político, económico, social, cultural y civil, o en cualquier otro ámbito. El Comité contra todas las formas de Discriminación contra la Mujer (CEDAW) en su "Recomendación General 25", considera la aplicación de estas medidas no como excepción a la regla de no discriminación, sino como parte de una estrategia necesaria para lograr la igualdad sustantiva de la mujer y el hombre en el goce de sus derechos humanos y libertades fundamentales.
 
 b) Avance de las mujeres: Disminución de las brechas de desigualdad entre mujeres y hombres a fin de garantizar el pleno reconocimiento, goce y ejercicio de sus derechos con base en la igualdad sustantiva como política de Estado.
 
@@ -3743,7 +3769,17 @@ h) Perspectiva de género: Permite visibilizar la asignación social diferenciad
 
 i) Calidad: Congruencia entre objetivos, metas e indicadores que permite la verificación y cumplimiento de la finalidad del gasto.
 
-3. Cuando los partidos realicen cambios o modificaciones a los programas de gasto, que hayan sido previamente reportados, en términos de lo dispuesto en el numeral 1 del presente artículo, deberán informarlo a la Unidad Técnica dentro de los quince días posteriores al cambio o modificación.
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+j) Paridad de género: Principio que garantiza la igualdad política entre mujeres y hombres, en términos de lo establecido en el artículo 4, fracción jjj), del presente reglamento.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+k) Violencia política contra las mujeres en razón de género: Acciones u omisiones vinculadas con el concepto establecido en el artículo 4, inciso iii), del presente reglamento.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+3.Cuando los partidos realicen cambios o modificaciones a los programas de gasto, que hayan sido previamente reportados, en términos de lo dispuesto en el numeral 1 del presente artículo, deberán informarlo a la Unidad Técnica dentro de los quince días posteriores al cambio o modificación. La Unidad Técnica de Fiscalización revisará estos cambios o modificaciones y emitirá las observaciones correspondientes en relación con la vinculación entre los proyectos y el objetivo del programa.
 
 > <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2018)</small>
 
@@ -3753,7 +3789,9 @@ Informe del Programa Anual de Trabajo (PAT)
 
 1. El Informe que presenten los partidos políticos respecto del gasto programado deberá describir de manera pormenorizada, lo siguiente:
 
-a) Programas con proyectos registrados.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+a) Programas con proyectos registrados que incluya al menos uno vinculado con la violencia política contra las mujeres en razón de género.
 
 b) Gasto por rubro.
 
@@ -3762,6 +3800,10 @@ c) Objetivos anuales, metas e indicadores de resultados.
 d) Fechas o periodos de ejecución.
 
 e) Resultados obtenidos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+2. Asimismo, su construcción deberá estar apegada a lo establecido en los Lineamientos para el Gasto Programado y a lo dispuesto en este reglamento; así como tomar como criterio orientador el Protocolo para la implementación de buenas prácticas en el ejercicio de los recursos del Gasto Programado: Capacitación, Promoción y Desarrollo del Liderazgo Político de las Mujeres.
 
 > <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2018)</small>
 
@@ -3787,11 +3829,33 @@ II. Programa del evento.
 
 III. Lista de asistentes con firma autógrafa, desagregados por sexo y edad, en su caso para el caso de cursos presenciales, o bien, registro de acceso de los participantes a la plataforma o similar para el caso de cursos en línea. En caso de no contar con las mismas, los partidos podrán presentar copia certificada por el funcionario de la correspondiente Junta Local o Distrital del Instituto que haya sido designado por la Unidad Técnica y que haya verificado la realización del evento.
 
-IV. Fotografías, video o reporte de prensa del evento.
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-V. En su caso, el material didáctico utilizado.
+IV. Fotografías, video o reporte de prensa del evento de actividades presenciales y virtuales.
+
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+V. Material didáctico utilizado.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 14 DE AGOSTO DE 2020)</small>
 
 VI. Publicidad del evento, en caso de existir.
+
+> <small>(ADICIONADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+VII. Medios de difusión.
+
+> <small>(ADICIONADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+VIII. Currículum vitae del personal que expuso, en el que se demuestre que cuenta con experiencia y conocimientos sobre la materia de la actividad realizada. Para ello deberá adjuntar las constancias que así lo acrediten.
+
+> <small>(ADICIONADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+IX. Acuses de recibo de las constancias de acreditación del curso, taller, seminario, coloquio, etc. La constancia deberá estar firmada, por la persona que ostente la facultad de programar, ejecutar y supervisar el gasto programado a nivel nacional en la estructura del partido político.
+
+> <small>(ADICIONADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+X. Muestras del material de apoyo (playeras, libretas, etc.)
 
 b) Por las actividades de investigación socioeconómica y política y de investigación, análisis, diagnóstico y estudios comparados se adjuntará la investigación o el avance de la investigación realizada, que siempre contendrá la metodología aplicada, en los términos del artículo 184 del Reglamento. Si del análisis de una investigación se concluye que toda o partes de la misma han sido presuntamente plagiadas, el trabajo presentado no será considerado como un gasto en actividades específicas.
 
@@ -3825,7 +3889,13 @@ Consideraciones de los PAT
 
 a) Actividades específicas deberán contener información, concepciones y actitudes orientadas al ámbito político, procurando beneficiar al mayor número de personas.
 
-b) Capacitación, promoción y el desarrollo del liderazgo político de las mujeres deberán contener información, concepciones y actitudes orientadas a propiciar la igualdad de oportunidades para el desarrollo político, en el acceso al poder público y la participación en los procesos de toma de decisiones. Asimismo, procurando beneficiar al mayor número de mujeres.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+b) Capacitación, promoción y el desarrollo del liderazgo político de las mujeres deberán contener información, concepciones y actitudes orientadas a propiciar la igualdad de oportunidades para el desarrollo político, en el acceso al poder público, la participación en los procesos de toma de decisiones, la educación cívica, paridad de género, respeto de los derechos humanos de las mujeres en el ámbito político – electoral, así como la prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género. Todas estas acciones deberán estar encaminadas a beneficiar al mayor número de mujeres.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+[…] (SIC)
 
 > <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2018)</small>
 
@@ -3867,9 +3937,25 @@ De los objetivos de los proyectos
 
 a) Actividades específicas, promover la participación de la ciudadanía en la vida democrática y la difusión de la cultura política.
 
-b) La capacitación, promoción y el desarrollo del liderazgo político de las mujeres generar conocimientos, habilidades y actitudes de adelanto en las mujeres para el ejercicio político.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+b) La capacitación, promoción y el desarrollo del liderazgo político de las mujeres, generar conocimientos, habilidades y actitudes que favorezcan el pleno ejercicio de sus derechos político-electorales y la prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género
 
 2. Por capacitación debe entenderse el programa de enseñanza aprendizaje que los partidos políticos deben implementar para mejorar y ampliar los conocimientos, habilidades y aptitudes que fomenten los liderazgos políticos y el empoderamiento de las mujeres; a fin de lograr su inclusión en la toma de decisiones en condiciones de igualdad con los hombres.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+Artículo 177 bis
+
+1. Cuando el partido político omita destinar el porcentaje mínimo de su financiamiento público establecido para la capacitación, promoción y desarrollo del liderazgo político de las mujeres, se estará a lo siguiente:
+
+a) Independientemente de las sanciones que se impongan por dicho incumplimiento, el partido político deberá reintegrar el importe que no destinó de conformidad con los Lineamientos aplicables para tal efecto.
+
+b) El monto que no fue destinado deberá de aplicarse en el ejercicio inmediato siguiente al de la fecha de aprobación del Dictamen y resolución en los que se haya determinado la irregularidad, junto con aquel que deba destinarse anualmente consistente en el tres por ciento del financiamiento público ordinario o el porcentaje que se establezca en cada legislación local según corresponda.
+
+c) Se considerará reincidente al sujeto obligado que omita destinar el porcentaje referido en este artículo, en dos o más ejercicios anuales.
+
+[…] (SIC)
 
 > <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2018)</small>
 
@@ -4019,7 +4105,9 @@ g) Otros materiales de análisis sobre problemas nacionales o regionales y sus e
 
 Conceptos integrantes de las actividades para la organización de mesas de trabajo, conferencias, talleres, eventos, educación y capacitación
 
-1. El rubro de capacitación, promoción y desarrollo del liderazgo político de las mujeres comprende, de manera enunciativa y no limitativa, actividades consistentes en cursos, talleres, seminarios, conferencias, diplomados, coloquios, debates, mesas redondas y similares, que favorezcan el desarrollo de competencias para la participación política de las mujeres (conocimientos, habilidades y actitudes) y la defensa de sus derechos políticos, en acciones y temas como:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+1. El rubro de capacitación, promoción y desarrollo del liderazgo político de las mujeres comprende, de manera enunciativa y no limitativa, actividades consistentes en cursos, talleres, seminarios, conferencias, diplomados, coloquios, debates, mesas redondas y similares, que favorezcan el desarrollo de competencias para la participación política de las mujeres (conocimientos, habilidades y actitudes) y la defensa de sus derechos políticos-electorales, en acciones y temas como:
 
 a) Las acciones establecidas en el artículo 163, párrafo 1, inciso b) del presente Reglamento.
 
@@ -4053,7 +4141,27 @@ o) Oratoria Parlamentaria.
 
 p) Monitoreo de acceso al poder con perspectiva de género.
 
-r) Violencia contra las mujeres.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+r (sic)) Violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+s) Participación política paritaria.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+t) Respeto de los derechos humanos de las mujeres en el ámbito político y electoral.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+2. Los partidos políticos deberán incluir al menos un proyecto en su programa anual de trabajo, vinculado con la violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+3. Cuando los partidos realicen cambios o modificaciones a los programas de gasto, que hayan sido previamente reportados, en términos de lo dispuesto en el numeral 1 del presente artículo, deberán informarlo a la Unidad Técnica dentro de los quince días posteriores al cambio o modificación.
+
+[…] (SIC)
 
 > <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2018)</small>
 
@@ -5788,6 +5896,44 @@ Contenido del informe
 2. Se deberá reportar como saldo inicial, el saldo final de todas las cuentas contables de caja, bancos y, en su caso, inversiones en valores correspondientes al trimestre inmediato anterior.
 
 3. Durante los ejercicios en los que exista proceso electoral, los partidos no están obligados a la presentación del informe trimestral.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+Artículo 258 bis.
+
+Contenido del informe de avance en el gasto programado.
+
+1. Los partidos políticos deberán entregar trimestralmente un reporte pormenorizado y justificado sobre la aplicación de los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, actividades específicas y demás conceptos del gasto programado en el formato establecido por la UTF, el cual debe de contener los siguientes elementos:
+
+I. Datos de identificación:
+
+a) Ejercicio;
+
+b) Ámbito;
+
+c) Estado;
+
+d) ID contabilidad;
+
+e) Partido Político;
+
+f) Comité del partido, y
+
+g) Trimestre al que corresponde.
+
+II. Identificación por proyecto del Programa Anual de Trabajo del importe presupuestado y el monto efectivamente gastado con la identificación de las pólizas en las que se registró dicho gasto.
+
+III. La suma de los montos presupuestados deberá corresponder con lo manifestado en el Programa Anual de Trabajo.
+
+IV. La suma de los importes efectivamente destinados deberá coincidir con el importe registrado contablemente en el rubro correspondiente.
+
+V. La mención de si el proyecto se encuentra concluido, en proceso, cancelado o pendiente de iniciar.
+
+2. Dicho informe deberá presentarse a más tardar dentro de los 30 días siguientes a que haya concluido el periodo a reportar, conforme a lo establecido en el artículo 78, párrafo 1, inciso a) de la Ley General de Partidos Políticos.
+
+3. La omisión en la presentación del informe a que se refiere el presente artículo será sancionado en la revisión del informe anual, conforme a los criterios que determine el Consejo General.
+
+[…] (SIC)
 
 > <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2018)</small>
 
@@ -8526,3 +8672,9 @@ TERCERO. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial
 CUARTO. Se ordena a la Secretaría Ejecutiva del Instituto Nacional Electoral remita el presente Acuerdo a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, a efecto que sea notificado a los treinta dos Organismos Públicos Locales de las entidades federativas y estos, a su vez, lo hagan del conocimiento de los sujetos obligados en el ámbito local.
 
 QUINTO. El presente Acuerdo entrará en vigor a partir del día siguiente de su aprobación por este Consejo General del Instituto Nacional Electoral.
+
+D.O.F. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LOS REGLAMENTOS DE FISCALIZACIÓN Y DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+ÚNICO. Las reformas y adiciones aprobadas entrarán en vigor a partir del primer día de septiembre de la presente anualidad, salvo lo concerniente a la rendición de cuentas, la revisión, dictaminación y resolución de los informes anuales correspondientes al origen, aplicación y destino de los recursos de los partidos políticos correspondientes a los ejercicios 2019 y 2020, de éste último de los meses de enero a agosto; así como los procedimientos administrativos sancionadores en materia de fiscalización que se encuentren en trámite y pendientes de resolución a cargo de la Unidad Técnica de Fiscalización que serán tramitados y resueltos de conformidad con el Reglamento de Fiscalización vigente hasta antes de la aprobación de la presente reforma en la parte sustantiva.
