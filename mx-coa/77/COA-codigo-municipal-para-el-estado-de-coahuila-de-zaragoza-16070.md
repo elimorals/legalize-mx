@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-08-07"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1919,9 +1919,17 @@ VI. Asegurar la participación de la sociedad en las acciones del gobierno munic
 
 VII. Vincular el plan de desarrollo municipal con los planes de desarrollo estatal, regional y federal.
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+VIII. Crear ciudades amigables para adultos mayores con la finalidad de generar condiciones para un envejecer activo, que promueva la movilidad segura, participación ciudadana e integración social.
+
 ###### ARTÍCULO 143.
 
 Los Ayuntamientos deberán participar en la planeación del desarrollo de sus respectivos municipios, mediante la formulación, aprobación, ejecución, control y evaluación del Plan de Desarrollo Municipal, el cual deberá tender a conseguir los objetivos anteriormente expuestos, a fin de que el municipio cuente con un planteamiento integral y coherente que promueva y fomente las actividades económicas en el municipio y satisfaga las necesidades de equipamiento, infraestructura urbana, servicios públicos, educación, salud, asistencia social, vivienda, promoción económica y, en general, las necesidades colectivas de las comunidades bajo su jurisdicción.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+Previo diagnóstico que permita identificar las necesidades por cubrir de acuerdo al tipo de población con que cuenta en su territorio, deberá en todo momento considerar el establecimiento de políticas públicas que apoyen el transporte, vivienda, participación social, respeto e inclusión social, participación cívica y empleo, comunicación e información, servicios comunitarios y de salud, espacios al aire libre y edificios, para adultos mayores.
 
 ###### ARTÍCULO 144.
 
@@ -5128,3 +5136,11 @@ P.O. 7 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 666.- SE REFORMA EL ARTÍCULO 50, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 68, LAS FRACCIONES I Y V DEL ARTÍCULO 74, LA FRACCIÓN II Y EL PRIMER PÁRRAFO DE LA FRACCIÓN XV DEL ARTÍCULO 133, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 669.- SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 142, EL SEGUNDO PÁRRAFO AL ARTÍCULO 143 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL CONTENIDO DEL ARTÍCULO 3, LA FRACCIÓN XVII DEL ARTÍCULO 43, SE ADICIONA LA FRACCIÓN XXII, AL ARTÍCULO 5 Y LA FRACCIÓN XVIII DEL ARTÍCULO 43, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 5, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32, LA FRACCIÓN X DEL ARTÍCULO 81, LA FRACCIÓN II DEL ARTÍCULO 163, EL ARTÍCULO 174, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 192, EL INICIO E) DE LA FRACCIÓN V DEL ARTÍCULO 193, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 194, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 195, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 196, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 197, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 198, Y EL ARTÍCULO 285 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
