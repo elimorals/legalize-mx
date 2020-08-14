@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2020-07-10"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -3831,6 +3831,10 @@ Además de las penas establecidas en el párrafo que antecede, el agente sufrir�
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2019)</small>
 
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 328.
 
 (DEROGADO, P.O. 22 DE JULIO DE 2019)
@@ -4215,6 +4219,10 @@ Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2016)</small>
 
+## TÍTULO ÚNICO. DELITOS CONTRA EL MEDIO AMBIENTE
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 364.
 
 Al que dolosamente cometa actos de maltrato o crueldad en contra de cualquier animal doméstico causándole lesiones se le impondrá de tres meses a un año de prisión y de cincuenta a cien días multa.
@@ -4224,6 +4232,100 @@ Si las lesiones ponen en peligro la vida del animal, se aumentará en una mitad 
 Si las lesiones causan la muerte del animal, se le impondrá de seis meses a dos años de prisión y de cien a doscientos días multa.
 
 Para efectos del presente Capítulo, se entenderá por actos de maltrato o crueldad aquellos que provoquen un grave sufrimiento, la muerte no inmediata o prolonguen la agonía del animal, ya sea por las lesiones ocasionadas o el detrimento de su salud.
+
+> <small>(ADICIONADA CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE AGOSTO DE 2020)</small>
+
+#### SECCIÓN SEXTA. DELITOS CONTRA EL MEDIO AMBIENTE
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 365.
+
+Al que sin contar con las autorizaciones respectivas o violando las normas de seguridad y operación aplicables, realice, autorice u ordene la realización de actividades que conforme a ese mismo ordenamiento se consideren como riesgosas, que no sean competencia de la Federación, y que ocasionen daños a la salud de las personas, la flora, la fauna o los ecosistemas, se aplicará pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, las penas se aumentarán hasta en una tercera parte más.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 366.
+
+Al que sin contar con la autorización de la autoridad competente o contraviniendo los términos en que esta haya sido concedida, fabrique, elabore, transporte, distribuya, comercie, almacene, posea, use, reúse, recicle, recolecte, trate, deseche, descargue, disperse, asperge, disponga o en general, realice actos con materiales o residuos peligrosos, de baja peligrosidad o de manejo especial que ocasionen o puedan ocasionar daños graves a la salud de las personas, a los ecosistemas o sus elementos, se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientas a diez mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 367.
+
+Al que ilícitamente, despida o descargue en la atmósfera, ordene o autorice despedir o descargar líquidos, gases, humos, polvos, vapores u olores que ocasionen o puedan ocasionar daños a la salud de las personas, la flora, la fauna o los ecosistemas, se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 368.
+
+Al que ilícitamente, descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en los suelos, sistemas de drenaje o alcantarillado y demás depósitos o corrientes de agua de jurisdicción local que ocasionen o puedan ocasionar daños a los ecosistemas, a la salud de las personas, a la flora o a la fauna, se impondrá pena de uno a siete años de prisión y multa por el equivalente de quinientas a diez mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando las conductas previstas en el párrafo anterior se realicen sobre aguas para abastecimiento público, la pena se podrá elevar hasta un año seis meses más.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 369.
+
+A quien en contravención a las disposiciones legales aplicables, genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción local, que ocasionen daños a la salud de las personas, la flora, la fauna o los ecosistemas, se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 370.
+
+Al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con sustancias, materiales o residuos no reservados a la Federación que por su clase, calidad o cantidad sean aptos para contaminar o alterar perjudicialmente el suelo, la atmósfera o las aguas de jurisdicción estatal o que generen daños a la población, se impondrá pena de uno a siete años de prisión y multa por el equivalente de quinientas a diez mil veces el valor diario de la Unidad de Medida de (sic) Actualización.
+
+En el caso de que las actividades a que se refiere el párrafo anterior, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del gobierno del estado o de la autoridad municipal, las penas se incrementarán hasta una mitad más.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 371.
+
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a tres mil veces el valor diario de la Unidad de Medida y Actualización, a quien:
+
+I. Omita asentar datos necesarios o asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular o evadir el cumplimiento de las obligaciones derivadas de la normatividad ambiental estatal;
+
+II. Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental Estatal;
+
+III. Prestando sus servicios como auditor técnico, especialista, perito o prestador de servicio en materia de impacto ambiental, emisiones a la atmósfera u otra materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, a la atmósfera o al ambiente;
+
+IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga; y,
+
+V. De forma ilícita corte, arranque, derribe, tale, desmonte o destruya:
+
+a) Árboles o palmeras que formen parte del paisaje urbano, o
+
+b) Vegetación natural que se encuentre en áreas verdes, parques públicos o que forme parte de la ornamentación de las zonas urbanas.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 372.
+
+A quien dolosamente realice la quema de soca y esquilmos agrícolas, se impondrá una pena de uno a siete años de prisión y una multa de quinientas a tres mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Las penas previstas en el párrafo anterior se aumentarán hasta una tercera parte más, cuando quien cometa el delito sea servidor público cuya obligación sea proteger el medio ambiente y que teniendo conocimiento de este ilícito, omita realizar las funciones propias de su encargo para prevenir, solucionar y sancionar al o los responsables.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 373.
+
+Además de lo establecido en el artículo 39 de este Código, para los efectos del presente capítulo sobre la reparación del daño, también deberá tenerse en consideración, que podrá incluir la realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito, cuando ello sea posible la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado y si ninguna de ellas fuese posible el pago de una indemnización se integrara al Fondo Estatal Ambiental a que se refiere la Ley Ambiental para el Desarrollo Sustentable del Estado de Sinaloa.
+
+A fin de determinar el monto de la indemnización a que se refiere este artículo se deberá considerar los daños ambientales ocasionados, el valor de los bienes afectados y el derecho de toda persona a tener un ambiente sano; debiendo apoyarse en todo caso en un dictamen técnico emitido por la autoridad ambiental competente para fijar el monto de la indemnización correspondiente, la cual en ninguno de los casos deberá ser inferior al valor de los bienes afectados o de los beneficios obtenidos por la conducta.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 374.
+
+Tratándose de los delitos previstos en este capítulo, el trabajo a favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o a la restauración de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 375.
+
+Los delitos previstos en este Capítulo se perseguirán de oficio.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4722,3 +4824,11 @@ P.O. 10 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 470 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los trámites y/o denuncias de cualquier tipo relacionados con las materias de la Ley Ambiental para el Desarrollo Sustentable del Estado de Sinaloa, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento, y las demás disposiciones aplicables en la materia de que se trate.
