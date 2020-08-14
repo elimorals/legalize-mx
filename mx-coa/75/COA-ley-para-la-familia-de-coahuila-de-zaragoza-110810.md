@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2020-08-07"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1583,11 +1583,11 @@ En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contr
 
 Las acciones y pretensiones derivadas del matrimonio relativas a la situación de hijas o hijos menores de edad, o mayores de edad que requieran de asistencia o representación para el ejercicio de su capacidad jurídica, al derecho de alimentos o al régimen patrimonial adoptado en el matrimonio, que sean consecuencia de la disolución del vínculo, se resolverán en el mismo procedimiento de divorcio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 238.
 
-La autoridad judicial competente que decrete el divorcio resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos durante el matrimonio, se haya dedicado preponderantemente a las labores del hogar, al cuidado de las hijas o hijos o esté imposibilitado para trabajar y carezca de bienes que produzcan frutos, sin perjuicio de la acción compensatoria prevista en la disposición siguiente. Quien demande el pago de los alimentos con el argumento anterior, tiene a su favor la presunción de necesitarlos y tendrá derecho a una pensión compensatoria hasta en tanto se encuentre en posibilidades de proporcionarse a sí mismo los medios necesarios para su subsistencia.
+La autoridad judicial competente que decrete el divorcio resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos durante el matrimonio, se haya dedicado preponderantemente a las labores del hogar no obstante que hubiera trabajado u obtenido algún tipo de ingreso producto de su esfuerzo, al cuidado de las hijas o hijos o esté imposibilitado para trabajar y carezca de bienes que produzcan frutos, o se encuentre en una situación de vulnerabilidad por razón de su edad, condición de salud o discapacidad, sin perjuicio de la acción compensatoria prevista en la disposición siguiente. Quien demande el pago de los alimentos con el argumento anterior, tiene a su favor la presunción de necesitarlos y tendrá derecho a una pensión compensatoria hasta en tanto se encuentre en posibilidades de proporcionarse a sí mismo los medios necesarios para su subsistencia.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
@@ -4337,6 +4337,10 @@ VII. Brindar las terapias familiares o individuales que determine la autoridad j
 
 VIII. Todas las demás funciones señaladas en esta ley u otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+Los Consejos de Familia desempeñarán sus funciones garantizando que sus acciones tengan por objeto beneficiar a las familias, enfocándose en su desarrollo y bienestar.
+
 ###### Artículo 645.
 
 Cuando un cónyuge abandone a otro y a sus hijas o hijos sin recursos económicos para satisfacer sus necesidades, el Consejo de Familia tendrá la personalidad jurídica de mandatario judicial del acreedor alimentario para los efectos legales que procedan.
@@ -4654,3 +4658,19 @@ P.O. 7 DE AGOSTO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 655.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 238 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 661.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3, Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 2, DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 644, DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los planes de desarrollo estatal y municipales, a partir de la entrada en vigor del presente decreto deberán incluir la perspectiva de familia.
