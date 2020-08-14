@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-comisiones-del-consejo-general-del-instituto-1090
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-07-16"
-last_updated: "2016-11-29"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109049&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-06-06"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2020.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 16 de julio de 2015.
 
@@ -51,7 +51,9 @@ Objeto.
 
 2. A la Comisión de Quejas y Denuncias le serán aplicables las reglas establecidas en el presente Reglamento en tanto no se opongan a las disposiciones y Acuerdos aplicables en la materia.
 
-3. El presente Reglamento será, en lo aplicable, supletorio a las reglas de funcionamiento del Comité de Radio y Televisión, así como del Órgano Garante de la Transparencia y el Acceso a la Información.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+3. El presente Reglamento será, en lo aplicable, supletorio a las reglas de funcionamiento del Comité de Radio y Televisión, así como del Grupo de Trabajo en Materia de Transparencia.
 
 ###### ARTÍCULO 2.
 
@@ -121,9 +123,17 @@ V. Del Registro Federal de Electores;
 
 VI. De Quejas y Denuncias.
 
-VII. De Fiscalización; y
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-VIII. De Vinculación con los Organismos Públicos Locales.
+VII. De Fiscalización;
+
+> <small>(REFORMADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+VIII. De Vinculación con los Organismos Públicos Locales, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+IX. De Igualdad de Género y No Discriminación.
 
 b) Temporales: las creadas por el Consejo para un período y objeto específico, cuando sean necesarias para el desempeño de sus atribuciones, mismas que serán presididas por un Consejero.
 
@@ -137,9 +147,13 @@ c) Adecuaciones al marco normativo interno; y
 
 d) Aquellas que el Consejo General estime necesarias.
 
-3. El Consejo podrá conformar cada año, para efectos de conocimiento y opinión del Plan de Trabajo Anual y de actividades, a mitad y fin de cada ejercicio, una Comisión Temporal para dar seguimiento a las áreas de administración, de informática, de comunicación social, de asuntos internacionales y del centro para el desarrollo democrático.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-4. El Consejo podrá conformar Comisiones Temporales a fin de conocer, cuando menos una vez al año, el estado general que guardan las actividades de la Contraloría General con informes que contengan información estadística, técnica o de hechos que por su naturaleza o estado del asunto no sea considerada temporalmente reservada o confidencial.
+3. El Consejo podrá conformar cada año, para efectos de conocimiento y opinión del Plan de Trabajo Anual y de actividades, a mitad y fin de cada ejercicio, una Comisión Temporal para dar seguimiento a las áreas de administración, de informática, de comunicación social y de asuntos internacionales.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+4. El Consejo podrá conformar Comisiones Temporales a fin de conocer, cuando menos una vez al año, el estado general que guardan las actividades del Órgano Interno de Control con informes que contengan información estadística, técnica o de hechos que por su naturaleza o estado del asunto no sea considerada temporalmente reservada o confidencial.
 
 ###### ARTÍCULO 5.
 
@@ -215,31 +229,61 @@ a) Un Programa Anual de Trabajo acorde a los programas y políticas previamente 
 
 b) El Informe Anual de Actividades del ejercicio anterior, en el que se precisen las tareas desarrolladas, su vinculación con las metas programadas, un reporte de asistencia a las sesiones y demás consideraciones que se estimen convenientes. Asimismo, el Informe Anual de Actividades deberá contener un anexo con la lista de todos los dictámenes, Proyectos de Acuerdo y de Resolución e informes votados, la fecha de la sesión, la votación y comentarios adicionales. Lo anterior con independencia de que al término de cada ciclo de presidencia, el presidente de la Comisión que corresponda, podrá informar al seno de dicha comisión sobre los trabajos desempeñados en ella.
 
-2. Tanto las Comisiones Permanentes como las Temporales, en todos los asuntos que les sean encomendados, deberán presentar al Consejo un informe, Dictamen o Proyecto de Acuerdo o Resolución, según el caso, dentro del plazo que determine la Ley o en el que haya sido fijado por el propio órgano máximo de dirección.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+2. Tanto las Comisiones Permanentes como las Temporales, en todos los asuntos que les sean encomendados, deberán presentar al Consejo un informe, Dictamen o Proyecto de Acuerdo o Resolución, con lenguaje incluyente, según el caso, dentro del plazo que determine la Ley o en el que haya sido fijado por el propio órgano máximo de dirección.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+3. Todas las comisiones desempeñarán sus funciones en estricto apego a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, paridad, y realizarán sus actividades con perspectiva de género.
 
 ###### ARTÍCULO 10.
 
 Integración de las Comisiones.
 
-1. La Comisión de Vinculación con los Organismos Públicos Locales se conformará con cuatro Consejeros Electorales designados por mayoría de cuando menos ocho votos del Consejo General, en términos de la Ley.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-2. La Comisión de Fiscalización, estará integrada por cinco Consejeros Electorales designados por el Consejo General, en términos de la Ley.
+1. La Comisión de Vinculación con los Organismos Públicos Locales se conformará con cuatro Consejeras y Consejeros Electorales designados por mayoría de cuando menos ocho votos del Consejo General, en términos de la Ley.
 
-3. La Comisión de Quejas y Denuncias se integrará por tres Consejeros Electorales designados por el Consejo General, en términos de la Ley.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-4. Las demás Comisiones se integrarán con tres o cinco Consejeros de los cuales uno será su Presidente.
+2. La Comisión de Fiscalización, estará integrada por cinco Consejeras y Consejeros Electorales designados por el Consejo General, en términos de la Ley.
 
-5. Podrán participar en ellas, con derecho de voz pero sin voto, los Consejeros del Legislativo y los Representantes, por sí o por medio de quien designen, salvo en la del Servicio Profesional Electoral Nacional, Quejas y Denuncias y Fiscalización.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-6. Las Comisiones Permanentes contarán con un Secretario Técnico que será el titular de la Dirección Ejecutiva o Unidad Técnica correspondiente, el cual asistirá a sus sesiones sólo con derecho de voz. En el caso de las Comisiones Unidas, dada la intervención de más de un titular de Dirección Ejecutiva o Unidad Técnica será el Presidente de la Comisión quien determine quién desempeñará dicho cargo de entre los titulares de las áreas que la conforman.
+3. La Comisión de Quejas y Denuncias se integrará por tres Consejeras y Consejeros Electorales designados por el Consejo General, en términos de la Ley.
 
-7. En las Comisiones Temporales podrá designarse como Secretario Técnico al Director Ejecutivo o Titular de Unidad Técnica que decida el Consejo en el Acuerdo de creación respectivo.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-8. El titular de la Dirección Ejecutiva o Unidad Técnica podrá ser suplido en sus funciones de Secretario Técnico, por el servidor público de nivel inmediato inferior que determine.
+4. Las demás Comisiones se integrarán con tres o cinco Consejeras y Consejeros de los cuales uno fungirá como Presidenta o Presidente.
 
-9. Los demás Consejeros podrán asistir a las sesiones de todas las Comisiones y participar en ellas, exclusivamente con derecho de voz.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE AGOSTO DE 2020)</small>
 
-10. En caso de ausencia definitiva de un Consejero, el Consejo determinará de entre sus integrantes a quien se integrará en las Comisiones que hubiesen quedado sin el número de integrantes originalmente establecido en el Acuerdo respectivo.
+5. En la designación de integrantes de todas las comisiones, permanentes y temporales, se deberá observar el principio de paridad de género.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+6. Podrán participar en ellas, con derecho de voz pero sin voto, las Consejeras y Consejeros del Legislativo y las y los Representantes, por sí o por medio de quien designen, salvo en la del Servicio Profesional Electoral Nacional, Quejas y Denuncias y Fiscalización.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+7. Las Comisiones Permanentes contarán con una Secretaría Técnica que estará a cargo de la persona titular de la Dirección Ejecutiva o Unidad Técnica correspondiente, la cual asistirá a sus sesiones sólo con derecho de voz. En el caso de las Comisiones Unidas, dada la intervención de más de una persona titular de Dirección Ejecutiva o Unidad Técnica será la Presidenta o el Presidente de la Comisión quien determine quién desempeñará dicho cargo de entre las personas titulares de las áreas que la conforman.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+8. En las Comisiones Temporales podrá designarse como Secretaría Técnica a la persona titular de la Dirección Ejecutiva o Unidad Técnica que decida el Consejo en el Acuerdo de creación respectivo.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+9. La persona titular de la Dirección Ejecutiva o Unidad Técnica podrá ser suplida en sus funciones de Secretaria Técnica, por el servidor público de nivel inmediato inferior que determine.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+10. Las demás Consejeras y Consejeros podrán asistir a las sesiones de todas las Comisiones y participar en ellas, exclusivamente con derecho de voz.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 14 DE AGOSTO DE 2020)</small>
+
+11. En caso de ausencia definitiva de una Consejera o Consejero, el Consejo determinará de entre sus integrantes a quien se integrará en las Comisiones que hubiesen quedado sin el número de integrantes originalmente establecido en el Acuerdo respectivo.
 
 ###### ARTÍCULO 11.
 
@@ -710,3 +754,11 @@ Los anexos pueden ser consultados en las siguientes direcciones electrónicas:
 http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/ 2016/06_Junio/CGex201606-15/CGex201606-15_ap_4_voto.pdf
 
 http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/ 2016/06_Junio/CGex201606-15/CGex201606-15_ap_4_votos.pdf
+
+D.O.F. 14 DE AGOSTO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN EL PUNTO TERCERO Y CUARTO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LOS REGLAMENTOS DE FISCALIZACIÓN Y DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Tercero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Cuarto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta Electoral, en NormaINE y en el portal de internet del Instituto Nacional Electoral.
