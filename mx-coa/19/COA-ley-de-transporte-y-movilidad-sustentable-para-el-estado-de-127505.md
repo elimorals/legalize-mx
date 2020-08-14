@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transporte-y-movilidad-sustentable-para-el-estado-de-127
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-10"
-last_updated: "2019-12-31"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 10 de noviembre de 2017.
 
@@ -3193,7 +3193,9 @@ IV. Por resolución administrativa;
 
 V. En caso de los operadores de servicio público, cuando incurran en violación de la tarifa autorizada;
 
-VI. Por acumular dos suspensiones temporales de la licencia en el lapso de un año;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+VI. Por acumular dos suspensiones temporales de la licencia en el lapso de dos años;
 
 VII. Cuando cualquier conductor preste el servicio de transporte público sin contar con el permiso o concesión correspondiente;
 
@@ -4642,3 +4644,15 @@ Este beneficio solo lo podrán obtener aquéllas unidades que derivado de la rev
 TERCERO.- Los conductores que prestan el servicio de transporte entre particulares por medio de una plataforma tecnológica, desde antes de la entrada en vigor del presente decreto, no les será exigible portar la licencia de conducir Tipo D, sino hasta que expire la vigencia de su licencia de conducir.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 662.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 251 DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
