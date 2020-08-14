@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2019-12-25"
+last_updated: "2020-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -151,7 +151,7 @@ VII. Fomentar actitudes que estimulen la investigación y la innovación cientí
 
 > <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-VIII. Fomentar el uso adecuado y responsable de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto de las mejores prácticas para hacer uso apropiado de internet y de las redes sociales.
+VIII. Fomentar el uso adecuado y responsable de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto de las mejores prácticas, para hacer uso apropiado de internet y de las redes sociales.
 
 IX. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores éticos de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado, como la interpretación del Himno Oficial del Estado de Sinaloa en los actos cívicos de las escuelas públicas;
 
@@ -285,7 +285,7 @@ X. Expedir certificados de estudios, títulos, constancias y diplomas del sistem
 
 XI. Otorgar, a los maestros que sobresalgan en el desempeño profesional, estímulos, recompensas, reconocimientos y distinciones;
 
-XII. Aplicar los planes y programas de estudio del tipo medio-superior en los términos dispuestos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias y sancionar los de la educación superior de las instituciones educativas a su cargo;
+XII. Aplicar los planes y programas de estudio del tipo medio superior en los términos dispuestos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias y sancionar los de la educación superior de las instituciones educativas a su cargo;
 
 XIII. Establecer la necesaria coordinación con la Autoridad Educativa Federal para la distribución adecuada y oportuna de libros de texto gratuitos;
 
@@ -981,7 +981,7 @@ Las instituciones o subsistemas adecuarán sus planes y programas de estudio y o
 
 I. Precisarán sus objetivos generales por tipo, modalidad, nivel, grado, área y asignatura;
 
-II. Vincularán las áreas, asignaturas y actividades para el cumplimiento de los objetivos;
+II. Vincularán las áreas, asignaturas y actividades, para el cumplimiento de los objetivos;
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -1607,7 +1607,7 @@ I. Conocer el calendario escolar, las metas educativas y el avance de las activi
 
 II. Conocer y dar seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el artículo 31 de la presente Ley;
 
-III. Conocer de las acciones educativas y de prevención que realicen las autoridades, para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar a estos;
+III. Conocer de las acciones educativas y de prevención que realicen las autoridades, para que los educandos conozcan y detecten la posible comisión, de hechos delictivos que puedan perjudicar a estos;
 
 IV. Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de las y los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
 
@@ -1969,7 +1969,7 @@ DIPUTADO SECRETARIO
 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los diecinueve días del mes de marzo del año dos mil catorce.
+Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los diecinueve días del mes de marzo del año dos mil catorce.
 
 El Gobernador Constitucional del Estado
 
