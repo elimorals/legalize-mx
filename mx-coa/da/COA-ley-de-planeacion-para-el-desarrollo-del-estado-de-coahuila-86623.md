@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-para-el-desarrollo-del-estado-de-coahuila-866
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-09"
-last_updated: "2017-12-26"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 9 de marzo de 2012.
 
@@ -93,6 +93,10 @@ XII. La evaluación permanente de los avances y logros de la administración pú
 
 XIII. El manejo accesible y transparente de la información pública.
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XIV. La perspectiva de familia, como medio rector buscará la implementación de acciones y programas, con la finalidad irrestricta de fortalecer al núcleo familiar, que es la base fundamental de toda sociedad.
+
 ###### Artículo 3.
 
 Para efectos de esta Ley se entiende por:
@@ -123,9 +127,9 @@ XII. Sistema de Planeación: el Sistema de Planeación Democrática para el Desa
 
 XIII. Titular del Ejecutivo: El Titular del Poder Ejecutivo del Estado de Coahuila de Zaragoza.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
 
-Las dependencias y entidades de la administración pública estatal y municipal, para la realización de las acciones a las que se refieren (sic) el presente artículo de conformidad a su competencia, incorporarán la perspectiva de género y los principios de igualdad entre mujeres y hombres y no discriminación. Para esto, deberán incluir estadísticas, indicadores, encuestas y cualquier otra información cualitativa o cuantitativa en sus instrumentos de planeación estratégica referidos en la presente Ley, para reconocer las necesidades y requerimientos de las mujeres y los hombres en el Estado.
+Las dependencias y entidades de la administración pública estatal y municipal, para la realización de las acciones a las que se refiere el presente artículo de conformidad a su competencia, incorporarán la perspectiva de género, los principios de igualdad entre mujeres y hombres y no discriminación, así como la perspectiva de familia. Para esto, deberán incluir estadísticas, indicadores, encuestas y cualquier otra información cualitativa o cuantitativa en sus instrumentos de planeación estratégica referidos en la presente Ley, para reconocer las necesidades y requerimientos de las mujeres y los hombres en el Estado.
 
 ###### Artículo 4.
 
@@ -804,3 +808,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 661.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3, Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 2, DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 644, DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los planes de desarrollo estatal y municipales, a partir de la entrada en vigor del presente decreto deberán incluir la perspectiva de familia.
