@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2020-02-21"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -3087,69 +3087,41 @@ La Secretaría podrá promover ante las autoridades federales o locales competen
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2020)</small>
+
 ### CAPÍTULO V. De las Sanciones Penales
 
 ###### Artículo 272.
 
-Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que la autoridad ambiental formule la denuncia correspondiente ante el Ministerio Público, salvo que se trate de flagrante delito.
-
-Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en la legislación aplicable.
-
-La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le solicite el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 14 DE AGOSTO DE 2020)
 
 ###### Artículo 273.
 
-Se impondrá pena de tres meses a tres años de prisión y multa por el equivalente de 50 a 5,000 veces el valor diario de la Unidad de Medida y Actualización al que sin contar con las autorizaciones respectivas o violando las normas de seguridad y operación aplicables a que se refiere a los artículo (sic) 206 y 207 de esta Ley, realice, autorice u ordene la realización de las actividades que conforme a este mismo ordenamiento se consideren como riesgosas, que ocasionan graves daños a la salud pública, la flora o la fauna o los ecosistemas.
-
-Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta 1 año más y la multa hasta 15,000 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 14 DE AGOSTO DE 2020)
 
 ###### Artículo 274.
 
-Se impondrá pena de tres meses a tres años de prisión y multa por el equivalente de 500 a 10,000 veces el valor diario de la Unidad de Medida y Actualización, al que sin contar con la autorización de la autoridad competente o contraviniendo los términos en que esta haya sido concedida, fabrique, elabore, transporte, distribuya, comercie, almacene, posea, use, reuse, recicle, recolecte, trate, deseche, descargue, disponga o en general, realice actos con materiales o residuos de baja peligrosidad y residuos de manejo especial que ocasionen o puedan ocasionar daños graves a la salud pública, a los ecosistemas o sus elementos.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 14 DE AGOSTO DE 2020)
 
 ###### Artículo 275.
 
-Se impondrá pena de 1 mes a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 veces el valor diario de la Unidad de Medida y Actualización, al que con violación a lo establecido en las disposiciones legales, reglamentarias y normas oficiales mexicanas aplicables despida, descargue en la atmósfera o lo autorice o lo ordene, gases, humos y polvos que ocasionen o puedan ocasionar daños graves a la salud pública, la flora o la fauna o los ecosistemas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 14 DE AGOSTO DE 2020)
 
 ###### Artículo 276.
 
-Se impondrá pena de 3 meses a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 veces el valor diario de la Unidad de Medida y Actualización, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, aplicables, descargue, deposite o infiltre o la autorice u ordene, aguas residuales, desechos o contaminantes en los suelos o corrientes de agua de jurisdicción estatal que ocasionen o puedan ocasionar graves daños a la salud pública, la flora o la fauna o los ecosistemas.
-
-Cuando se trate de aguas para abastecimiento público, la pena se podrá elevar hasta 1 año 6 meses más.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 14 DE AGOSTO DE 2020)
 
 ###### Artículo 277.
 
-Se impondrá pena de 1 mes a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 veces el valor diario de la Unidad de Medida y Actualización, a quien en contravención a las disposiciones legales aplicables, genere emisiones de ruido, vibraciones, energía térmica, lumínica, en zonas de jurisdicción estatal que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 14 DE AGOSTO DE 2020)
 
 ###### Artículo 278.
 
-Se impondrá pena de 1 a 3 años de prisión y multa por el equivalente de 300 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con sustancias, materiales o residuos no reservados a la Federación que por su clase, calidad o cantidad sean aptos para contaminar o alterar perjudicialmente el suelo, la atmósfera o las aguas de jurisdicción estatal o que generen daños a la población.
-
-En el caso de que las actividades a que se refieren los párrafos anteriores, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del gobierno del estado o de la autoridad municipal, la pena de prisión se incrementará hasta en 3 años y la pena económica hasta en 1,000 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 14 DE AGOSTO DE 2020)
 
 ###### Artículo 279.
 
-Se impondrá pena de 1 a 3 años de prisión y multa económica de 300 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, a quien:
-
-I. Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental local;
-
-II. Prestando sus servicios como auditor técnico, especialista o perito o especialista en materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales no reservados a la Federación; y,
-
-III. No realice o cumpla las medidas técnicas, correctivas o de seguridad, necesarias para evitar un daño o riesgo ambiental que la Secretaria o los Municipios le ordene o imponga.
+(DEROGADO, P.O. 14 DE AGOSTO DE 2020)
 
 ### CAPÍTULO VI. Recurso de revisión
 
@@ -3436,3 +3408,11 @@ El inciso f, a partir del 1 de enero de 2025, para los envases de bebidas fabric
 TERCERO. El Estado y los Municipios en el ámbito de sus respectivas competencias deberán desarrollar campañas en comunicación y concientización dirigidas a industrias, comercios y población en general sobre el impacto negativo del abuso en el consumo del plástico no biodegradable, y las alternativas que existen para evitarlo, incluyendo su reutilización y reciclaje, a efecto de atender y dar cumplimiento al presente Decreto.
 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 470 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los trámites y/o denuncias de cualquier tipo relacionados con las materias de la Ley Ambiental para el Desarrollo Sustentable del Estado de Sinaloa, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento, y las demás disposiciones aplicables en la materia de que se trate.
