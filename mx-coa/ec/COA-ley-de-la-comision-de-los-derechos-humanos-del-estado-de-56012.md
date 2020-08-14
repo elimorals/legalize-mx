@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-56012"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2013-04-12"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2007.
 
@@ -601,6 +601,12 @@ XXX. Promover las acciones de inconstitucionalidad local, en contra de leyes de 
 
 XXXI. Las demás que le señalen la presente ley, el reglamento u otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+###### ARTÍCULO 37 Bis.
+
+Para el nombramiento de las personas que ocupen la titularidad de las Visitadurías, la Dirección General y la Secretaría Técnica, el Presidente o la Presidenta observará el principio de paridad de género; la forma y procedimiento para lograrlo, se establecerá en el Reglamento Interior de la Comisión.
+
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 38.
@@ -645,13 +651,17 @@ APARTADO PRIMERO
 
 EL CONSEJO
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 44.
 
-El Consejo se integrará por seis Consejeros propietarios y seis suplentes, los cuales deberán ser elegidos en equidad de género. Las formulas se integraran por hombre y mujer, y el Presidente.
+El Consejo se integrará por seis Consejeros propietarios y seis suplentes, los cuales deberán ser elegidos bajo el principio de paridad de género. Las fórmulas se integrarán del mismo género, y el Presidente o Presidenta.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 El Presidente lo será también del Consejo.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 El titular de la Secretaría Técnica, lo será también del Consejo. Participará en las sesiones que éste celebre con voz, pero sin voto.
 
@@ -679,29 +689,35 @@ VI. No haber sido condenado por delito doloso que amerite pena de prisión de m�
 
 VII. No ser Secretario de Estado, ni Fiscal General del Estado, Subsecretario o Director en la Administración Pública Federal, Estatal o Municipal, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
 
-###### ARTICULO 46.
+###### ARTÍCULO 46.
 
-Los Consejeros, propietarios y suplentes, serán designados por el Pleno del Congreso. Durarán en su cargo seis años y podrán ser ratificados exclusivamente para un segundo período.
+Las y los Consejeros, propietarios y suplentes, serán designados por el Pleno del Congreso, cuyas fórmulas serán del mismo género. Durarán en su cargo seis años y podrán ser ratificados exclusivamente para un segundo período.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 47.
 
-La designación de los Consejeros, se hará por el Congreso del Estado, elegidos por el voto de la mayoría de los legisladores presentes. Para este efecto, la comisión correspondiente del Congreso del Estado, previa auscultación a los sectores sociales, propondrá a los candidatos para ocupar el cargo o, en su caso, la ratificación de los Consejeros.
+La designación de las y los Consejeros, se hará por el Congreso del Estado, elegidos por el voto de la mayoría de los legisladores presentes. Para este efecto, la comisión correspondiente del Congreso del Estado, previa auscultación a los sectores sociales, propondrá a las y los candidatos para ocupar el cargo o, en su caso, la ratificación de quienes ocupen el cargo de Consejeras y Consejeros en ese momento.
 
-Con base en la misma propuesta, el Congreso designará a seis consejeros que tendrán el carácter de suplentes, para cubrir las ausencias definitivas de los consejeros titulares.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
 
-Al hacer su designación, el Congreso determinará el orden en que los consejeros suplentes deberán ser llamados, para cubrir las vacantes que se originen por la ausencia definitiva de los titulares.
+Con base en la misma propuesta, el Congreso designará a seis consejeras y consejeros que tendrán el carácter de suplentes, para cubrir las ausencias definitivas de las y los consejeros titulares
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 48.
 
-Quienes hayan sido designados como Consejeros, propietarios y suplentes, rendirán protesta de ley ante el Pleno del Congreso, o en sus recesos, ante la Diputación Permanente.
+Las personas designadas como Consejeras y Consejeros propietarios y suplentes, rendirán protesta de ley ante el Pleno del Congreso, o en sus recesos, ante la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 49.
 
-Los Consejeros propietarios recibirán un estipendio pecuniario por el cumplimiento de las comisiones que se les asignen.
+Las y los Consejeros propietarios recibirán un estipendio pecuniario por el cumplimiento de las comisiones que se les asignen.
 
 ###### ARTÍCULO 50.
 
@@ -1738,3 +1754,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- El Consejo Consultivo de la Comisión deberá de realizar las adecuaciones al Reglamento Interior de la Comisión en un término de sesenta días después de la entrada en vigor del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 695.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 44; EL ARTÍCULO 46; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 47; LOS ARTÍCULOS 48 Y 49; SE ADICIONA EL ARTÍCULO 37 BIS Y SE DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 47, DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
