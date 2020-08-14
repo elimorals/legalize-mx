@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-vial-del-estado-de-yucatan-143719"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-24"
-last_updated: "2020-07-24"
+last_updated: "2020-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY DE SEGURIDAD VIAL DEL ESTADO DE YUCATAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE AGOSTO DE 2020 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SEGURIDAD VIAL DEL ESTADO DE YUCATÁN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 14 DE AGOSTO DE 2020.]</small>
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el viernes 24 de julio de 2020.
 
@@ -57,9 +57,11 @@ LEY DE SEGURIDAD VIAL DEL ESTADO DE YUCATÁN,
 
 Esta Ley es de orden público, e interés y observancia general en todo el Estado de Yucatán, y tiene por objeto establecer las bases del Sistema Estatal de Seguridad Vial como instancia de coordinación entre el ejecutivo estatal y los municipios, para prevenir y reducir las muertes, lesiones y discapacidades ocasionadas por siniestros de tránsito en el territorio del estado.
 
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 2.
 
-Las acciones que deriven de la presente Ley tendrán como objetivo prioritario proteger los derechos a la vida y a la integridad física de las personas en sus desplazamientos por las vías públicas del estado, bajo un enfoque de prevención que disminuya los factores de riesgo atreves (sic) de la generación de sistemas viales seguros.
+Las acciones que deriven de la presente Ley tendrán como objetivo prioritario proteger los derechos a la vida y a la integridad física de las personas en sus desplazamientos por las vías públicas del estado, bajo un enfoque de prevención que disminuya los factores de riesgo a través de la generación de sistemas viales seguros.
 
 ###### Artículo 3.
 
@@ -71,11 +73,15 @@ II.- El resguardo de la integridad física del usuario es responsabilidad compar
 
 III.- La seguridad vial debe ser continua, entendida como aquella que responde a las necesidades de las generaciones presentes y futuras, a través de instrumentos e instituciones.
 
-IV.- Los sistemas de seguridad vial derivarán de acciones concertadas entre los sectores público, privado y social, a través de mecanismo (sic) transparentes de participación.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+IV.- Los sistemas de seguridad vial derivarán de acciones concertadas entre los sectores público, privado y social, a través de mecanismos transparentes de participación.
 
 V.- La seguridad vial depende de infraestructura vial diseñada bajo criterios de accesibilidad universal.
 
-VI.- Las políticas públicas en materia de seguridad vial priorizarán a los usuarios más vulnerables, de la vía, a través de la intermodalidad y el uso cordial y responsable de la vía pública.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+VI.- Las políticas públicas en materia de seguridad vial priorizarán a los usuarios más vulnerables, a través de la intermodalidad y el uso cordial y responsable de la vía pública.
 
 ###### Artículo 4.
 
@@ -87,9 +93,13 @@ II.- Usuarios de transporte no motorizado.
 
 III.- Motociclistas.
 
-IV.- Usuarios del servicio de trasporte (sic) público de pasajeros.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
 
-V.- Prestadores del servicio de trasporte (sic) público de pasajeros.
+IV.- Usuarios del servicio de transporte público de pasajeros.
+
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+V.- Prestadores del servicio de transporte público de pasajeros.
 
 VI.- Prestadores del servicio de transporte de carga.
 
@@ -111,7 +121,11 @@ V.- Infraestructura vial: Conjunto de elementos físicos con que cuentan las ví
 
 VI.- Observatorio: al Observatorio de Seguridad Vial.
 
-VII.- Seguridad vial: Condiciones cuyo objetivo es prevenir y evitar los siniestros de tránsito, derivadas de políticas públicas tendientes a protejan (sic) la vida y la integridad física de las personas en sus desplazamientos por las vías públicas.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+VII.- Seguridad vial: Condiciones cuyo objetivo es prevenir y evitar los siniestros de tránsito, derivadas de políticas públicas tendientes a proteger la vida y la integridad física de las personas en sus desplazamientos por las vías públicas.
+
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
 
 VIII.- Siniestro de tránsito: Son todos aquellos siniestros, hechos o eventos que, producidos por el tránsito vehicular, en el que intervienen por lo menos un vehículo, causan la muerte, lesiones, alguna discapacidad o daños materiales, que pueden prevenirse y sus efectos adversos atenderse.
 
@@ -121,7 +135,9 @@ X.- Sistema vial: Conjunto de elementos y recursos relacionados, cuya estructura
 
 XI.- Unidad de verificación: Persona física o moral que realiza actos de verificación.
 
-XII.- Usuario: Personas que se desplaza (sic) a través de una vía pública estatal, sin importar el medio que utilice.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+XII.- Usuario: Personas que se desplazan a través de una vía pública estatal, sin importar el medio que utilice.
 
 XIII.- Vía Pública: Carretera o calle de cualquier tipo, cuya función es facilitar el desplazamiento de los usuarios.
 
@@ -201,35 +217,55 @@ II.- Coadyuvar con el estado en la implementación del Sistema.
 
 III.- Promover en coordinación con el ejecutivo estatal y con otros municipios, cursos de capacitación a las personas que atiendan a víctimas de siniestros de tránsito.
 
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
 IV.- Coordinarse con el ejecutivo estatal a fin de homologar los criterios en cuanto a los límites de alcohol en sangre y aire aspirado permitidos.
 
-IV (SIC) .- Realizar los operativos de alcoholimetría en el ámbito de su respectiva competencia.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
 
-V.- Atender y participar en la elaboración de criterios y demás disposiciones administrativas en la materia de seguridad vial, con la finalidad de homologar normas que aseguren el desplazamiento seguro de las personas en todo el territorio estatal.
+V.- Realizar los operativos de alcoholimetría en el ámbito de su respectiva competencia.
 
-VI.- Cumplir con los Programas de Seguridad Vial, emitidos por el ejecutivo estatal, y adecuarlos a sus propios Programas de Seguridad Vial.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
 
-VIII (SIC).- Coordinarse con otros municipios para alcanzar los objetivos y prioridades previstos en los planes o programas en materia de seguridad vial.
+VI.- Atender y participar en la elaboración de criterios y demás disposiciones administrativas en la materia de seguridad vial, con la finalidad de homologar normas que aseguren el desplazamiento seguro de las personas en todo el territorio estatal.
 
-VII (SIC).- Evaluar y vigilar el cumplimiento de los planes y programas de su competencia, en materia de seguridad vial, de los centros de población ubicados en su territorio.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
 
-VIII.- Recabar y enviar al Sistema, la información que registre en materia de siniestros de tránsito.
+VII.- Cumplir con los Programas de Seguridad Vial, emitidos por el ejecutivo estatal, y adecuarlos a sus propios Programas de Seguridad Vial.
 
-IX.- Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+VIII.- Coordinarse con otros municipios para alcanzar los objetivos y prioridades previstos en los planes o programas en materia de seguridad vial.
+
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+IX.- Evaluar y vigilar el cumplimiento de los planes y programas de su competencia, en materia de seguridad vial, de los centros de población ubicados en su territorio.
+
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+X.- Recabar y enviar al Sistema, la información que registre en materia de siniestros de tránsito.
+
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+XI.- Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 12.
 
 En el caso de las conurbaciones o zonas metropolitanas, las autoridades correspondientes, en el ámbito de su competencia, planearán y regularán de manera conjunta y coordinada las acciones en materia de seguridad vial, con apego a lo dispuesto en esta Ley.
 
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 13.
 
-El Consejo Consultivo de Tránsito y Vialidad (sic) el organismo rector del Sistema Estatal de Seguridad Vial responsable de coordinar las políticas estatales y municipales encaminadas a prevenir y reducir las muertes, lesiones y discapacidades ocasionadas por siniestros de tránsito en el territorio del estado, el cual tendrá su integración y atribuciones establecidas en la Ley de Tránsito y Vialidad del Estado de Yucatán y su Reglamento.
+El Consejo Consultivo de Tránsito y Vialidad, es el organismo rector del Sistema Estatal de Seguridad Vial responsable de coordinar las políticas estatales y municipales encaminadas a prevenir y reducir las muertes, lesiones y discapacidades ocasionadas por siniestros de tránsito en el territorio del estado, el cual tendrá su integración y atribuciones establecidas en la Ley de Tránsito y Vialidad del Estado de Yucatán y su Reglamento.
 
 ###### Artículo 14.
 
 El Consejo Consultivo de Tránsito y Vialidad al que hace referencia el presente ordenamiento deberá prever un Observatorio de Seguridad Vial con el objeto de realizar el análisis, recolección y sistematización de datos relevantes para la seguridad vial y la gestión del tránsito de todos los usuarios de la vía pública; a fin de obtener, registrar, procesar y actualizar la información en materia de seguridad vial, para determinar, cuantitativa y cualitativamente, de manera precisa y confiable la situación de la seguridad vial en el estado, deducir los factores asociados a los siniestros de tránsito y evidenciar, de manera continua y oportuna, la definición de indicadores, políticas públicas e intervenciones dirigidas a mejorar las condiciones de seguridad vial en el territorio estatal.
 
-El Observatorio antes referido se integrará con especialistas certificados en ingeniería y vialidad, en urbanismo, sustentabilidad y medio ambiente, y cualquier otra especialidad que el Consejo Consultivo de Tránsito y Vialidad estime necesario para la observancia. Ninguno de los especialistas que se hace mención puede (sic) ser trabajadores de la Secretaría de Seguridad Pública.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+El Observatorio antes referido se integrará con especialistas certificados en ingeniería y vialidad, en urbanismo, sustentabilidad y medio ambiente, y cualquier otra especialidad que el Consejo Consultivo de Tránsito y Vialidad estime necesario para la observancia. Ninguno de los especialistas que se hace mención pueden ser trabajadores de la Secretaría de Seguridad Pública.
 
 Los datos recabados y el análisis hecho por dicho observatorio deberán ser utilizados para la elaboración del Programa Estatal de Seguridad Vial.
 
@@ -291,17 +327,21 @@ El Ejecutivo estatal emitirá el reglamento de esta Ley dentro de los 120 días 
 
 Tercero.- Sistema Estatal de Seguridad Vial
 
-El Sistema Estatal a que se refiere esta Ley deberá instalar dentro de los 30 días posteriores a la entrada en vigor del presente Decreto.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+El Sistema Estatal a que se refiere esta Ley deberá instalarse dentro de los 30 días posteriores a la entrada en vigor del presente Decreto.
 
 Cuarto.- Instalación de Observatorio de Seguridad Vial
 
-El titular del Poder Ejecutivo del Estado de Yucatán deberá realizar los ajustes reglamentarios correspondientes para que el Consejo Consultivo de Tránsito y Vialidad, a más tardar dentro de los 30 días naturales posteriores a la entrada en vigor del presente decreto, integre e instale el Observatorio de Seguridad Vial en términos del presente ordenamiento.
+> <small>(F. DE E., D.O. 14 DE AGOSTO DE 2020)</small>
+
+El Titular del Poder Ejecutivo del Estado de Yucatán deberá realizar los ajustes reglamentarios correspondientes para que el Consejo Consultivo de Tránsito y Vialidad, a más tardar dentro de los 30 días naturales posteriores a la entrada en vigor del presente decreto, integre e instale el Observatorio de Seguridad Vial en términos del presente ordenamiento.
 
 Quinto.- Derogación Expresa
 
 Todos aquellos ordenamientos de jerarquía inferior a la presente Ley que se contrapongan a ésta, tendrán que ser adecuados en concordancia con esta Ley en un plazo no mayor de 365 días naturales a partir de su entrada en vigor.
 
-DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS CATORCE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL VEINTE.- PRESIDENTA DIPUTADA LIZZETE JANICE ESCOBEDO SALAZAR.- SECRETARIA DIPUTADA KATHIA MARÍA BOLIO PINELO.- SECRETARIA DIPUTADA FÁTIMA DEL ROSARIO PERERA SALAZAR.- RÚBRICAS.”
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS CATORCE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL VEINTE.- PRESIDENTA DIPUTADA LIZZETE JANICE ESCOBEDO SALAZAR.- SECRETARIA DIPUTADA KATHIA MARÍA BOLIO PINELO.- SECRETARIA DIPUTADA FÁTIMA DEL ROSARIO PERERA SALAZAR.- RÚBRICAS."
 
 Y, por tanto, mando se imprima, publique y circule para su conocimiento y debido cumplimiento.
 
