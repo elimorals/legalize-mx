@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2019-12-27"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -301,7 +301,9 @@ XX. La coordinación entre los tres órdenes de gobierno, que mejore, simplifiqu
 
 XXI. La instrumentación de acciones que permitan contar con centros de población seguros, mediante: la prevención en la ocupación de zonas de riesgo, natural o antropogénico; la reubicación de población asentada en zonas de riesgo; la definición de Polígonos de protección, amortiguamiento y salvaguarda en torno a los equipamientos e infraestructuras que representen un riesgo para la población o para las instalaciones estratégicas de seguridad nacional. En estos perímetros, considerados como áreas de seguridad y protección o zonas de riesgo, estarán restringidos los usos del suelo;
 
-XXII. El rescate, desarrollo y adecuación de los espacios públicos, la infraestructura, el equipamiento y los servicios en los centros de población, para que garanticen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad, debiendo dar cumplimiento a lo establecido en la Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza, así como de las normas oficiales mexicanas y demás disposiciones aplicables en esta materia.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XXII. El rescate, desarrollo y adecuación de los espacios públicos, la infraestructura, el equipamiento y los servicios en los centros de población, para que garanticen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad y adultos mayores, debiendo dar cumplimiento a lo establecido en la Ley para el Desarrollo e Inclusión de las Personas con Discapacidad y a la Ley de los Derechos de las Personas Adultas Mayores, ambas del Estado de Coahuila de Zaragoza, así como de las normas oficiales mexicanas y demás disposiciones aplicables en esta materia.
 
 ###### Artículo 6.
 
@@ -789,7 +791,9 @@ Los planes y programas de ordenamiento territorial y desarrollo urbano previamen
 
 Los planes y programas de desarrollo urbano a que se refiere el artículo 30 de esta Ley, deberán considerar los criterios en materia de regulación ambiental de los asentamientos humanos establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza, en las normas oficiales mexicanas y demás disposiciones aplicables.
 
-Asimismo incluir las adecuaciones para otorgar facilidades urbanísticas y arquitectónicas conforme a las necesidades de las personas con discapacidad, debiendo contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas, debiendo observarse las disposiciones aplicables en la materia.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+Asimismo, incluir las adecuaciones para otorgar facilidades urbanísticas y arquitectónicas conforme a las necesidades de las personas con discapacidad y para adultos mayores, debiendo contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas, debiendo observarse las disposiciones aplicables en la materia.
 
 ###### Artículo 33.
 
@@ -1431,7 +1435,9 @@ VIII. La acción del sector público que articule la regularización de la tenen
 
 IX. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes y jardines verticales;
 
-X. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad para toda la población, estableciendo los procedimientos de consulta a las personas con discapacidad sobre las características técnicas de los proyectos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+X. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad para toda la población, estableciendo los procedimientos de consulta a entidades públicas o privadas especialistas en atención a personas con discapacidad y adultos mayores sobre las características técnicas de los proyectos;
 
 XI. Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación, mejoramiento y consolidación urbana.
 
@@ -2383,7 +2389,9 @@ Las normas básicas para los conjuntos urbanos son las siguientes:
 
 I. En materia de destino de áreas verdes en los conjuntos urbanos, deberán sujetarse a lo establecido por el artículo 156 del presente ordenamiento;
 
-II. Los conjuntos urbanos deberán sujetarse a las normas y disposiciones en materia de accesibilidad de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+II. Los conjuntos urbanos deberán sujetarse a las normas y disposiciones en materia de accesibilidad de las personas con discapacidad y adultos mayores;
 
 III. En el régimen jurídico del conjunto urbano de que se trate, deberá establecerse el derecho de acceso al personal adscrito a las dependencias y entidades públicas para la revisión de medidores de los servicios públicos, así como las brigadas de emergencia y seguridad pública;
 
@@ -2499,9 +2507,11 @@ Para los efectos de esta Ley, se entenderá por superficie neta, la total del pr
 
 Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para el desarrollo urbano, según las normas que establecen los atlas de riesgo y los diversos planes y programas en la materia, o en zonas insalubres o inundables, a menos que se realicen las obras necesarias de saneamiento o protección, con autorización del ayuntamiento correspondiente, previa autorización o en su caso opinión de las dependencias y entidades federales, estatales o municipales que correspondan.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 174.
 
-Los fraccionamientos deberán sujetarse a las normas y disposiciones en materia de accesibilidad de las personas con discapacidad.
+Los fraccionamientos deberán sujetarse a las normas y disposiciones en materia de accesibilidad de las personas con discapacidad y adultos mayores.
 
 ###### Artículo 175.
 
@@ -2647,7 +2657,9 @@ c) Alumbrado público de bajo consumo, con lámpara de diodos emisores de luz u 
 
 d) Red telefónica con cableado subterráneo en los términos que señale la dependencia, entidad u organismo competente;
 
-e) Guarniciones y banquetas, debiendo cumplir con las normas de diseño para facilitar la circulación de personas con discapacidad;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+e) Guarniciones y banquetas, debiendo cumplir con las normas de diseño para facilitar la circulación de personas con discapacidad y adultos mayores;
 
 f) Pavimento de calles de concreto asfáltico u otro material de calidad similar;
 
@@ -2689,7 +2701,9 @@ c) Alumbrado público de bajo consumo, con lámpara de diodos emisores de luz u 
 
 d) Red telefónica con cableado subterráneo en los términos que señale la dependencia, entidad u organismo competente;
 
-e) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+e) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad y adultos mayores;
 
 f) Pavimento de calles de concreto asfáltico u otro material de calidad similar;
 
@@ -2733,7 +2747,9 @@ b) Red de distribución de energía eléctrica para uso doméstico, preferenteme
 
 c) Alumbrado público con lámpara de diodos emisores de luz u otro de calidad similar, montado preferentemente en poste de concreto o metálico y operada con celda fotoeléctrica;
 
-d) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+d) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad y adultos mayores;
 
 e) Pavimento de calles de concreto asfáltico u otro material de calidad similar;
 
@@ -2775,7 +2791,9 @@ b) Red de distribución de energía eléctrica para uso doméstico, preferenteme
 
 c) Alumbrado público con lámpara de diodos emisores de luz u otro de calidad similar, montado preferentemente en poste metálico y operado con celda fotoeléctrica;
 
-d) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+d) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad y adultos mayores;
 
 e) Pavimento de calles de concreto asfáltico u otro material de calidad similar;
 
@@ -2819,7 +2837,9 @@ b) Red de distribución de energía eléctrica para uso doméstico, preferenteme
 
 c) Alumbrado público con lámpara de diodos emisores de luz u otro de calidad similar, montado preferentemente en poste metálico y operado con celda fotoeléctrica;
 
-d) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+d) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad y adultos mayores;
 
 e) Pavimento de calles de concreto asfáltico u otro material de calidad similar;
 
@@ -2879,7 +2899,9 @@ c) Alumbrado público con lámpara de diodos emisores de luz u otro de calidad s
 
 d) Red de distribución de energía eléctrica para uso doméstico;
 
-e) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+e) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad y adultos mayores;
 
 f) Pavimento de calles de concreto asfáltico u otro material de calidad similar;
 
@@ -2929,7 +2951,9 @@ c) Alumbrado público con lámpara de diodos emisores de luz, montado preferente
 
 d) Red de distribución de energía eléctrica para uso doméstico;
 
-e) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad;
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+e) Guarniciones y banquetas, debiendo contar con el diseño apropiado para facilitar la circulación de personas con discapacidad y adultos mayores;
 
 f) Pavimento de calles de concreto asfáltico u otro material de calidad similar;
 
@@ -3681,9 +3705,11 @@ V. La circulación sobre las vías públicas pavimentadas de vehículos que care
 
 VI. Aquellos otros fines que se consideren contrarios al interés público.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 285.
 
-En las construcciones destinadas a comercio, servicios, salud, educación, cultura, recreación, deportes y en general los equipamientos públicos y privados, así como en las banquetas en las vías públicas, deberán dejarse rampas para la circulación peatonal de personas con discapacidad, así como lugares especiales en los estacionamientos, conforme a las disposiciones que rigen en esta materia en el Estado.
+En las construcciones destinadas a comercio, servicios, salud, educación, cultura, recreación, deportes y en general los equipamientos públicos y privados, así como en las banquetas en las vías públicas, deberán dejarse rampas para la circulación peatonal de personas con discapacidad y adultos mayores, así como lugares especiales en los estacionamientos, conforme a las disposiciones que rigen en esta materia en el Estado.
 
 ###### Artículo 286.
 
@@ -4190,3 +4216,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 669.- SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 142, EL SEGUNDO PÁRRAFO AL ARTÍCULO 143 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL CONTENIDO DEL ARTÍCULO 3, LA FRACCIÓN XVII DEL ARTÍCULO 43, SE ADICIONA LA FRACCIÓN XXII, AL ARTÍCULO 5 Y LA FRACCIÓN XVIII DEL ARTÍCULO 43, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 5, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32, LA FRACCIÓN X DEL ARTÍCULO 81, LA FRACCIÓN II DEL ARTÍCULO 163, EL ARTÍCULO 174, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 192, EL INICIO E) DE LA FRACCIÓN V DEL ARTÍCULO 193, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 194, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 195, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 196, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 197, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 198, Y EL ARTÍCULO 285 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
