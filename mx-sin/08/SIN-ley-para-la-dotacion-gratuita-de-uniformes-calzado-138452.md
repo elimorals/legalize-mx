@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-dotacion-gratuita-de-uniformes-calzado-138452"
 country: "mx"
 rank: "ley"
 publication_date: "2019-09-27"
-last_updated: "2019-09-27"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY PARA LA DOTACION GRATUITA DE UNIFORMES, CALZADO DEPORTIVO Y UTILES ESCOLARES DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA DOTACIÓN GRATUITA DE UNIFORMES, CALZADO DEPORTIVO Y ÚTILES ESCOLARES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada al Número 118 del Periódico Oficial del Estado de Sinaloa, el viernes 27 de septiembre de 2019.
 
@@ -78,6 +80,18 @@ VII. Útiles escolares: Aquellos que están aprobados por la Secretaría de Educ
 ###### Artículo 5.
 
 El otorgamiento de los uniformes, calzado deportivo y útiles escolares no estará sujeto a ningún tipo de condicionamiento por parte del gobierno estatal, ya sea con fines políticos, económicos o sociales, que conlleven algún tipo de discriminación.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+El Programa tendrá carácter institucional.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+Queda estrictamente prohibido que los Uniformes, Calzado Deportivo y Útiles Escolares derivados del Programa, contengan nombres, imágenes, logotipos, símbolos, colores, slogans, frases o cualquier otro tipo de referencias que hayan sido utilizadas en propaganda política o electoral, o bien elementos que impliquen promoción personalizada de servidor público alguno, partido u organismos o asociaciones políticas, sindicatos, organizaciones no gubernamentales u otras similares.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
+Los uniformes podrán incluir el nombre de la dependencia y su escudo oficial como medio identificativo.
 
 ###### Artículo 6.
 
@@ -310,3 +324,21 @@ La Secretaría de Transparencia y Rendición de Cuentas
 MARÍA GUADALUPE YAN RUBIO
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA DOTACIÓN GRATUITA DE UNIFORMES, CALZADO DEPORTIVO Y ÚTILES ESCOLARES; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE SINALOA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 483 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA DOTACIÓN GRATUITA DE UNIFORMES, CALZADO DEPORTIVO Y ÚTILES ESCOLARES, Y LA LEY DE EDUCACIÓN, AMBAS PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La prohibición a que hace referencia el presente Decreto para los Uniformes, Calzado Deportivo y Útiles Escolares derivados del Programa para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares, entrará en vigor conforme a los plazos siguientes:
+
+Al día siguiente de la publicación de este Decreto, en el Periódico Oficial ''El Estado de Sinaloa", lo relativo al Calzado Deportivo y a los Útiles Escolares.
+
+A partir del inicio del ciclo escolar 2021-2022, lo relativo a los Uniformes Escolares.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
