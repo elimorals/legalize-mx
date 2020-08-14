@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2020-08-07"
+last_updated: "2020-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -71,9 +71,11 @@ VII. Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma 
 
 Las dependencias y entidades Estatales y de los Municipios, así como, en su caso, las organizaciones de los sectores social y privado cuyas actividades incidan a favor de las personas adultas mayores, dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a las personas adultas mayores.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 3.
 
-Las dependencias y entidades encargadas de la aplicación, seguimiento y vigilancia de ésta Ley, en los términos de las disposiciones conducentes, organizarán, operarán, supervisarán y evaluarán la prestación de los servicios básicos de asistencia que se proporcionen a las personas adultas mayores, así como, en los términos previstos por esta Ley, aquellos que realicen las personas físicas o morales de los sectores social y privado, para lo cual deberán, en su caso, desarrollar programas de apoyo financiero y social, así como fomentar la participación de la sociedad en acciones a favor de las personas adultas mayores.
+Las dependencias y entidades encargadas de la aplicación, seguimiento y vigilancia de ésta Ley, en los términos de las disposiciones conducentes, organizarán, operarán, supervisarán y evaluarán la prestación de los servicios básicos de asistencia que se proporcionen a las personas adultas mayores, así como, en los términos previstos por esta Ley, aquellos que realicen las personas físicas o morales de los sectores social y privado, para lo cual deberán, en su caso, desarrollar programas de apoyo financiero y social, adaptar la infraestructura urbana de los municipios que componen el Estado de Coahuila, así como fomentar la participación de la sociedad en acciones a favor de las personas adultas mayores.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -152,6 +154,10 @@ XX. Desarraigo familiar: Es la negativa de cuidar a la persona mayor y que deriv
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
 XXI. Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2020)</small>
+
+XXII. Ciudades Amigables para adultos mayores: aquellas que alientan el envejecimiento activo mediante optimización de oportunidades de salud, participación y seguridad, a fin de mejorar la calidad de vida de las personas mientras envejecen, proporcionando la infraestructura y servicios necesarios para la población de 60 años o más.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -831,7 +837,13 @@ XV. Fomentar la creación de espacios de expresión y de infraestructura hacia l
 
 XVI. Diseñar un paquete preventivo integral de salud.
 
-XVII. Los demás que fueren necesarios para garantizar la atención integral de las personas adulta mayores.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2020)</small>
+
+XVII. Promover que cada uno de los municipios del Estado de Coahuila se conviertan en ciudades amigables para adultos mayores y se establezcan los mecanismos de políticas públicas que apoyen el transporte, vivienda, participación social, respeto e inclusión social, participación cívica y empleo, comunicación e información, servicios comunitarios y de salud, espacios al aire libre y edificios.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 14 DE AGOSTO DE 2020)</small>
+
+XVIII. Los demás que fueren necesarios para garantizar la atención integral de las personas adulta (sic) mayores.
 
 #### SECCIÓN TERCERA. EL PROGRAMA ESTATAL DE LAS PERSONAS ADULTAS MAYORES
 
@@ -1652,3 +1664,11 @@ P.O. 7 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 691.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 41 Y SE ADICIONA EL ARTÍCULO 41 BIS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XLIII DEL ARTÍCULO 3 DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 669.- SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 142, EL SEGUNDO PÁRRAFO AL ARTÍCULO 143 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL CONTENIDO DEL ARTÍCULO 3, LA FRACCIÓN XVII DEL ARTÍCULO 43, SE ADICIONA LA FRACCIÓN XXII, AL ARTÍCULO 5 Y LA FRACCIÓN XVIII DEL ARTÍCULO 43, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 5, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32, LA FRACCIÓN X DEL ARTÍCULO 81, LA FRACCIÓN II DEL ARTÍCULO 163, EL ARTÍCULO 174, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 192, EL INICIO (SIC) E) DE LA FRACCIÓN V DEL ARTÍCULO 193, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 194, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 195, EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 196, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 197, EL INCISO E) DE LA FRACCIÓN V DEL ARTÍCULO 198, Y EL ARTÍCULO 285 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
