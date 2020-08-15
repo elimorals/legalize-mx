@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2020-04-24"
+last_updated: "2020-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -2623,11 +2623,11 @@ Artículo 192 A.- El Consejo de la Judicatura resolverá sobre la reelección o 
 
 ### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 193.
 
-La dirección de Oficialía de Partes y Archivo, tendrá las siguientes atribuciones:
+La dirección de Oficialía de Partes, Archivo y Estadística, tendrá las siguientes atribuciones:
 
 I. En el área de archivo, organizar, custodiar y conservar los expedientes así como los documentos que formen parte de los juicios;
 
@@ -2635,19 +2635,19 @@ I. En el área de archivo, organizar, custodiar y conservar los expedientes así
 
 II. Capturar, almacenar, proporcional y distribuir sistemáticamente los datos de registro general, iniciación de juicios su conclusión por sentencia y otras causas, registradas en salas y juzgados;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2020)</small>
 
-III. Editar el boletín Judicial, cuyo objeto es publicitar ciertos actos y con efectos de notificación a las partes en juicio; y
+III. Editar en formato electrónico el boletín Judicial, cuyo objeto es publicitar con efecto de notificación a las partes en juicio todos los actos que la ley en la materia establezca, conforme a lo dispuesto en el código de procedimientos civiles, en materia de notificaciones; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE AGOSTO DE 2020)</small>
 
 IV. Operar la Oficialía de Partes Común, que deberá recibir promociones y escritos de término judicial, fuera de las horas hábiles, entregando copias con el acuse de recibo, y remitirlos al día siguiente hábil, a primera hora a la autoridad correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 194.
 
-El Consejo de la Judicatura podrá concesionar a particulares, la edición y venta del Boletín Judicial.
+El Consejo de la Judicatura tendrá a su cargo la edición electrónica y publicidad del Boletín Judicial.
 
 ###### Artículo 195.
 
@@ -3299,6 +3299,8 @@ III. No haber sido sancionado por falta grave con motivo de un procedimiento de 
 
 La indemnización prevista en este capítulo será con cargo al presupuesto de egresos del Consejo de la Judicatura.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 249.
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
@@ -3306,6 +3308,96 @@ La indemnización prevista en este capítulo será con cargo al presupuesto de e
 ###### Artículo 250.
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+## TITULO DÉCIMO PRIMERO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+### CAPÍTULO I. DEL BOLETÍN JUDICIAL
+
+###### Artículo 251.
+
+El Boletín Judicial es el instrumento de publicidad y divulgación electrónico que contiene los acuerdos, edictos, comunicaciones, avisos, convocatorias de todos los Juzgados de Primera Instancia, Especializados y Auxiliares, las Salas del Supremo Tribunal de Justicia, el Consejo de la Judicatura y el Pleno de ambos órganos colegiados.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+###### Artículo 252.
+
+El Consejo de la Judicatura a través de la Dirección correspondiente tiene la obligación de regular la administración, elaboración, edición, publicación y distribución, así como favorecer la accesibilidad y disponibilidad del Boletín Judicial y publicitarlo en el sitio web oficial.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+###### Artículo 253.
+
+La edición y publicación del Boletín Judicial será electrónico y de carácter oficial y deberá contener por lo menos lo siguiente:
+
+I. Las resoluciones dictadas por los Juzgados de Primera Instancia, Especializados y Auxiliares y las Salas del Supremo Tribunal de Justicia con efecto de notificación o citación en los términos establecidos por el Código de Procedimientos Civiles del Estado o de las leyes respectivas;
+
+II. La lista que le remita la Oficialía de Partes Común conteniendo el folio, nombre del promovente y juzgado a que se turnó el asunto;
+
+III. Una lista que contenga el turno de los asuntos que hayan sido promovidos mediante el recurso de apelación ante la Secretaría General del Supremo Tribunal de Justicia del Estado;
+
+IV. Las circulares que se acuerden (sic) el Pleno del Supremo Tribunal de Justicia y en el Consejo de la Judicatura del Estado;
+
+V. Las comunicaciones que previa autorización de la Presidencia del Supremo Tribunal de Justicia le remitan los titulares de las dependencias administrativas; y
+
+VI. Las demás ordenadas por el Pleno.
+
+La edición y publicación del Boletín Judicial será electrónico y de carácter oficial.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+###### Artículo 254.
+
+El Secretario General del Supremo Tribunal de Justicia y el del Consejo de la Judicatura, así como los Secretarios de Acuerdo o quienes tengan atribuciones, podrán expedir certificaciones del Boletín Judicial.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+###### Artículo 255.
+
+Además de la edición electrónica, se imprimirán cuatro ejemplares diariamente que quedarán en custodia de las siguientes entidades:
+
+I. El propio archivo del Consejo de la Judicatura
+
+II. El archivo del Supremo Tribunal de Justicia del Estado;
+
+III. La Dirección del Archivo Histórico del Estado de Jalisco; y
+
+IV. La Biblioteca Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+###### Artículo 256.
+
+La consulta del Boletín Judicial será gratuita y el Supremo Tribunal de Justicia y el Consejo de la Judicatura garantizarán el acceso a la edición electrónica, así como otorgar las facilidades para que el público en general pueda tener acceso de una manera rápida y eficaz a la consulta en el sitio web oficial.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+###### Artículo 257.
+
+En la publicación y edición electrónica del Boletín Judicial, se deberá realizar una síntesis detallada que contendrá por lo menos lo siguiente:
+
+I. Fecha de publicación;
+
+II. Número de Expediente;
+
+III. Juzgado de Origen;
+
+IV. Tipo de Juicio;
+
+V. Nombre de las Partes; y
+
+VI. Extracto de la publicación.
+
+Para los efectos del extracto de la publicación, se entiende que será un resumen detallado del contenido de los acuerdos, edictos, comunicaciones, avisos, convocatorias o cualquier comunicado que sea publicado en el Boletín Judicial, en donde las partes puedan conocer de forma sustancial el sentido del mismo.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2020)</small>
+
+###### Artículo 258.
+
+Están obligados a hacer públicos todos los actos judiciales en el Boletín Judicial los Juzgados de Primera Instancia, Especializados y Auxiliares, las Salas y el Pleno del Supremo Tribunal de Justicia y el Consejo de la Judicatura. Con excepción de los datos de carácter reservado conforme a lo dispuesto por (sic) ley de la materia.
 
 ## TRANSITORIOS
 
@@ -3756,3 +3848,13 @@ P.O. 24 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN 111 (SIC) DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27938/LXII/20 QUE MODIFICA DE LA FRACCION III Y IV; ADICIONA LA FRACCION V AL ARTICULO 193; QUE MODIFICA EL ARTICULO 194; Y ADICIONA UN TITULO DÉCIMO PRIMERO DENOMINADO DISPOSICIONES FINALES; Y UN CAPITULO I DENOMINADO BOLETIN JUDICIAL, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Judicial tendrá un plazo de 180 días naturales para la migración del Boletín Judicial al sitio web oficial y un plazo de 90 días naturales para hacer las adecuaciones al mismo, así como las adecuaciones a su reglamento interno, en consideración al presupuesto que tenga asignado para dichos fines.
+
+TERCERO. El Poder Judicial deberá publicitar los Boletines Judiciales de por lo menos los últimos cinco años a la entrada en vigor del presente decreto.
