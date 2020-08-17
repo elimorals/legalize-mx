@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2020-07-20"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3053,7 +3053,9 @@ IX. (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
 X. Supervisar las operaciones, funcionamiento y vigilancia de las inhumaciones, exhumaciones y reinhumaciones, pudiendo prestarlo en forma directa o por el conducto de los particulares, de acuerdo a la presente reglamentación.
 
-XI. Regular y supervisar todo sistema de alumbrado público que los particulares, gobierno federal, estatal y municipal, así como los organismos descentralizados instalen en las vialidades y áreas públicas municipales.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XI. Regular y supervisar todo sistema de alumbrado público que los particulares, gobierno federal, estatal y municipal, así como los organismos descentralizados instalen en las vialidades y áreas públicas municipales; así como el solicitar un porcentaje del material instalado, en calidad de depósito en garantía, esto de acuerdo con los requerimientos que la dirección crea convenientes y necesarios.
 
 XII. Ejercer las atribuciones que le corresponden al Municipio en materia de alumbrado público de conformidad a la normatividad vigente.
 
@@ -6663,7 +6665,9 @@ IX. Las demás necesarias para la organización y administración del Municipio.
 
 ARTÍCULO 411 BIS.- El alumbrado público es el servicio, que el municipio de Aguascalientes suministra a la ciudadanía y que se instala en las vialidades, calzadas, plazas, parques y en todos los lugares públicos de uso común, mediante la instalación del sistema de alumbrado público, el cual consiste en una red eléctrica compuesta por dispositivos que proporcionan iluminación, bienestar, seguridad, confort visual para la población en general.
 
-El sistema de Alumbrado Público consiste en circuitos eléctricos cuyos componentes son: los ductos de canalización y registros, el ancla, arbotante compuesto por punta poste, poste, brazo, luminaria y cable, además del equipo de control, los cuales son parte del patrimonio y propiedad municipal.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+El sistema de Alumbrado Público consiste en circuitos eléctricos cuyos componentes son: canalizaciones para alojar los conductores eléctricos, registros, anclas de concreto, arbotante metálico o punta poste, brazo metálico (donde se requiera), luminaria de tecnología LED, cable de aluminio o cobre (según sea el caso), y un equipo de control. Todo este material de acuerdo con las normas constructivas y de diseño (nacional e internacional), reglamentos constructivos y requerimientos que la dirección de alumbrado público crea convenientes, los cuales son parte del patrimonio y propiedad municipal.
 
 ###### ARTÍCULO 412.
 
@@ -24788,3 +24792,9 @@ P.O. 20 DE JULIO DE 2020.
 > <small>[N. DE E. TRANSITORIO POR EL QUE SE “REFORMA AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
 
 UNICO: La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES AL REGLAMENTO DE DESARROLLO DE FRACCIONAMIENTOS, CONDOMINIOS, DESARROLLOS ESPECIALES Y SUBDIVISIONES PARA EL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
