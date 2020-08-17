@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-23032"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-31"
-last_updated: "2019-06-24"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2001.
 
@@ -51,19 +51,59 @@ QUE CONTIENE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
 Esta Ley es reglamentaria del Artículo 7 párrafo tercero de la Constitución Política del Estado Libre y Soberano de Hidalgo, es de orden público e interés social y tiene por objeto regular el Ejercicio Profesional en la Entidad, en asuntos del orden común.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 2.
 
-La aplicación de esta Ley y su Reglamento, corresponde al Ejecutivo del Estado, a través del Instituto Hidalguense de Educación Media Superior y Superior (IHEMSYS), Organismo Descentralizado de la Administración Pública del Estado de Hidalgo, que para los efectos de esta Ley se entenderá en lo sucesivo como "El Instituto".
+La aplicación de esta Ley, corresponde al Ejecutivo del Estado, a través de la Secretaría de Educación Pública del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 3.
 
-El Ejercicio Profesional se realizará en un marco de legalidad, de ética profesional y superación continua, procurando siempre el bien de la sociedad.
+El ejercicio profesional se realizará en un marco de legalidad, de ética profesional y superación académica continua, en calidad y cobertura que demandan las necesidades estatales, procurando siempre el bien de la sociedad.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+###### ARTICULO 3 Bis.
+
+Para efectos de la presente ley se entenderá por:
+
+I.- Colegios de Profesionistas. Agrupaciones y asociaciones civiles integradas por profesionistas pertenecientes a una misma rama profesional, debidamente registrados en la Dirección General de Profesiones de Hidalgo;
+
+II.- Colegiación. Derecho que tienen las y los profesionistas de agruparse y pertenecer a un colegio de profesionistas;
+
+III.- Consejo de Profesiones. Al Consejo Estatal de Profesiones;
+
+IV.- Dirección de Profesiones. A la Dirección General de Profesiones de la Secretaría de Educación Pública de Hidalgo;
+
+V.- Grado Académico. Es un documento que acredita los estudios de maestría y doctorado;
+
+VI.- Ley. La Ley del Ejercicio Profesional para el Estado de Hidalgo;
+
+VII.- Padrón de Peritos Profesionistas. Listado de peritos profesionistas acreditados por las autoridades competentes;
+
+VIII.- Pasante. La persona a la que la Dirección de Profesiones le haya expedido Carta de Pasante por un periodo determinado para ejercer sin título profesional;
+
+IX.- Perfil Académico. Características particulares que definen y diferencian a una licenciatura o grado;
+
+X.- Perito. Profesionista a la que la autoridad competente ha autorizado para desempeñarse como perito;
+
+XI.- Profesionista. Toda persona física que obtenga un título en los niveles de profesional técnico, técnico superior, licenciatura, posgrado, expedido por las Instituciones Educativas debidamente autorizadas o reconocidas por las autoridades competentes;
+
+XII.- Registro Estatal de Profesionistas. Repositorio a cargo de la Dirección de Profesiones, en donde se encuentran (sic) inscrita la información de los profesionistas y su ejercicio;
+
+XIII.- Reglamento. El Reglamento de la Ley del Ejercicio Profesional para el Estado de Hidalgo; y
+
+XIV.- Secretaría. La Secretaría de Educación Pública de Hidalgo;
 
 ### CAPITULO II. DE LA COMPETENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 4.
 
-"El Instituto" delegará a la Dirección de Profesiones las siguientes atribuciones:
+Corresponde a la Dirección de Profesiones, el ejercicio de las siguientes atribuciones:
 
 I.- Vigilar y supervisar el ejercicio de las profesiones en el Estado de Hidalgo;
 
@@ -79,23 +119,29 @@ VI.- Verificar que los colegios de profesionistas cumplan con lo dispuesto en es
 
 VII.- Establecer y promover la vinculación entre los colegios de profesionistas, los sectores público, social y privado y el Estado de conformidad con esta Ley;
 
-VIII.- Mantener actualizado el registro de los profesionistas autorizados para ejercer su profesión, de los colegios de profesionistas y de las instituciones de educación media superior y superior en la Entidad pertenecientes al Sistema Educativo Nacional, facultadas para expedir títulos profesionales, diplomas de especialidad y/o grados académicos;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+VIII.- Administrar el registro profesional estatal de los profesionistas autorizados para ejercer su profesión, de los colegios de profesionistas y de las instituciones de educación media superior y superior en la entidad pertenecientes al Sistema Educativo Nacional, facultadas para expedir títulos profesionales, diplomas de especialidad y/o grados académicos.
 
 IX.- Llevar la hoja de servicios de cada profesionista relativa al título profesional, diploma de especialidad o grado académico que registre así como anotar en ésta y en el expediente respectivo las sanciones que se le impongan y, en caso de suspensión temporal o definitiva del ejercicio profesional, se comunicará a la autoridad federal competente en materia de profesiones, al colegio correspondiente y se publicará en el Periódico Oficial del Estado y en el diario de mayor circulación en la Entidad;
 
 X.- Verificar la autenticidad de títulos profesionales, diplomas de especialidad y grados académicos, que se pretendan registrar;
 
-XI.- Publicar las listas de instituciones de educación media superior y superior en la entidad pertenecientes al Sistema Educativo Nacional, facultadas para expedir títulos profesionales, diplomas de especialidad y/o grados académicos, de profesionistas y colegios de profesionistas registrados, en el mes de mayo de cada año, en el Periódico Oficial del Estado y en el diario de mayor circulación en la Entidad;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XI.- Publicar en el mes de enero de cada año, en el Periódico Oficial del Estado de Hidalgo y en los medios informáticos de la Secretaría de Educación Pública, el listado de Federaciones y Colegios de Profesionistas, que se encuentren debidamente registrados ante la Dirección de Profesiones.
 
 XII.- Coordinar y verificar el cumplimiento del servicio social estudiantil así como registrar los programas y modalidades respectivas;
 
 XIII.- Promover y participar en el diseño de lineamientos y en la creación de instancias encargadas de los procesos de certificación y recertificación del ejercicio de los profesionistas;
 
-XIV.- Autorizar y registrar organismos de certificación y recertificación profesional en el Estado de Hidalgo, satisfechos los requisitos establecidos en el Reglamento de esta Ley;
+XIV.- (DEROGADA, P.O. 17 DE AGOSTO DE 2020)
 
 XV.- Proporcionar información al Consejo de Profesiones para el desarrollo de sus funciones;
 
-XVI.- Proporcionar información y expedir las constancias que soliciten los interesados, en asuntos de su competencia previo el pago de derechos correspondientes;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVI.- Proporcionar en términos de Ley información y expedir las constancias que soliciten los interesados, en asuntos de su competencia, previo el pago de derechos correspondientes;
 
 XVII.- Fomentar la colegiación de los profesionistas;
 
@@ -111,7 +157,7 @@ XXII.- Vigilar la observancia de esta Ley y su Reglamento, así como proveer tod
 
 XXIII.- Promover la creación de órganos auxiliares y comités necesarios que permitan dar cumplimiento al objeto de esta Ley y su Reglamento;
 
-XXIV.- Resolver los recursos de revocación que le sean interpuestos;
+XXIV.- (DEROGADA, P.O. 17 DE AGOSTO DE 2020)
 
 XXV.- Presidir el Consejo de Profesiones y
 
@@ -119,9 +165,11 @@ XXVI.- Las demás que se deriven de esta Ley, su Reglamento y de otras disposici
 
 ### CAPITULO III. DE LAS PROFESIONES QUE REQUIEREN TITULO PROFESIONAL E INSTITUCIONES FACULTADAS PARA EXPEDIRLOS
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 5.
 
-Las profesiones que requieren título profesional, cédula con efectos de patente y registro profesional estatal para su ejercicio, son las que se imparten en las instituciones de educación media superior y superior pertenecientes al Sistema Educativo Nacional, facultadas para expedirlos.
+Las profesiones que requieren título profesional, diploma de especialidad o grado académico, cédula con efectos de patente y registro profesional estatal para su ejercicio, son las que se imparten en las instituciones de educación media superior y superior pertenecientes al sistema educativo nacional, facultadas para expedirlos.
 
 ###### ARTICULO 6.
 
@@ -143,7 +191,7 @@ Las personas mayores de 60 años y los impedidos por enfermedad grave, quedan ex
 
 ###### ARTICULO 9.
 
-Para los efectos de esta Ley, se entiende por servicio social estudiantil el conjunto de actividades realizadas por estudiantes en beneficio de la sociedad y el Estado.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
@@ -209,6 +257,10 @@ Para los efectos de esta Ley se entiende por ejercicio profesional la realizaci�
 
 Los profesionistas que actúen como peritos deberán registrarse ante la Dirección de Profesiones, una vez que cumplan con los requisitos señalados en el Reglamento de esta Ley y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Los dictámenes de peritos profesionistas deberán, para su validez, incluir el número de folio de registro de la Dirección de Profesiones como perito acreditado.
+
 ###### ARTICULO 20.
 
 Para ostentar y ejercer una o más profesiones en el Estado de Hidalgo, se requiere:
@@ -233,15 +285,17 @@ III.- Obtener el registro profesional estatal, previo cumplimiento de los requis
 
 ###### ARTICULO 22.
 
-El mandato para asuntos judiciales solo podrá otorgarse a la persona que posea cédula con efectos de patente y registro profesional estatal, salvo los casos previstos por otras leyes. Las autoridades judiciales rechazarán la intervención en calidad de patronos técnicos de personas que no posean cédula con efectos de patente y registro profesional estatal.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 23.
 
-Para los efectos de esta Ley, se considera pasante a la persona que haya concluido el total de los créditos establecidos en el plan de estudios de la institución de educación superior perteneciente al Sistema Educativo Nacional.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 24.
 
-Los pasantes de las diversas profesiones obtendrán autorización de la Dirección de Profesiones para realizar su ejercicio profesional por un plazo no mayor de un año, contado a partir de la fecha de conclusión de los estudios correspondientes.
+Las y los pasantes con título en trámite podrán obtener autorización de la Dirección de Profesiones para realizar su ejercicio profesional por un plazo no mayor de dos años.
 
 ###### ARTICULO 25.
 
@@ -409,13 +463,13 @@ XXIII.- Las demás que se derivan de esta Ley, su Reglamento y de otras disposic
 
 El Consejo de Profesiones es un Organo Consultivo y de coordinación, que tiene por objeto coadyuvar a la vigilancia, mejoramiento y superación del ejercicio profesional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 49.
 
-El Consejo de Profesiones estará integrado por los presidentes de los Colegios de Profesionistas debidamente registrados, un representante designado por cada institución de educación superior, pertenecientes al Sistema Educativo Nacional, dos representantes que designe el sector productivo a través de sus órganos representativos, un secretario técnico y por el titular de la Dirección de Profesiones del mismo Instituto, quien lo presidirá. Este será integrado bajo el principio de paridad de género.
+El Consejo de Profesiones estará integrado por los presidentes de las federaciones y colegios de profesionistas debidamente registrados, un representante designado por cada institución de educación superior, pertenecientes al sistema educativo nacional, dos representantes que designe el sector productivo a través de sus órganos representativos, la persona titular de la Dirección de Profesiones como Secretaría Técnica y por la persona titular de la Secretaría, quien lo presidirá.
 
-El secretario técnico será nombrado por el Presidente del Consejo de Profesiones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 50.
 
@@ -451,9 +505,11 @@ Las infracciones que se cometan en relación con el ejercicio profesional, será
 
 Se consideran infracciones las acciones u omisiones cometidas en contravención a esta Ley, su Reglamento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 53.
 
-El Instituto, en el ámbito de su competencia podrá imponer las siguientes sanciones:
+La Dirección de Profesiones, en el ámbito de su competencia podrá imponer las siguientes sanciones:
 
 I.- Amonestación por escrito;
 
@@ -467,9 +523,11 @@ III.- Cancelación temporal o definitiva del registro respectivo.
 
 Para los efectos del Artículo anterior, la multa consistirá en el pago de una cantidad en efectivo que no podrá ser mayor de doscientas cincuenta veces la Unidad de Medida y Actualización. La multa podrá duplicarse en caso de reincidencia, la cual se hará efectiva por la instancia legal correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 55.
 
-El Instituto, cancelará los registros, previa audiencia con él o los afectados, en los siguientes casos:
+La Dirección de Profesiones, cancelará los registros, previa audiencia con él o los afectados, en los siguientes casos:
 
 I.- De títulos profesionales, diplomas de especialidad o grados académicos:
 
@@ -499,17 +557,17 @@ La cancelación será independientemente de las sanciones aplicables por los del
 
 Quien se atribuya el carácter de profesionista sin poseer título profesional, cédula con efectos de patente, registro profesional estatal o en su caso, diploma de especialidad o grado académico; ejerza los actos propios de la profesión, haga uso de documentos públicos o privados falsos o alterados u ofrezca públicamente sus servicios como profesionista, sin serlo, se le impondrán las sanciones que establezca esta Ley, su Reglamento y demás disposiciones legales aplicables independientemente de las sanciones o delitos en que incurra.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 57.
 
-Se sancionará con multa de quinientas veces la Unidad de Medida y Actualización a quienes incurran en lo señalado en el artículo anterior.
+Se sancionará con multa de hasta quinientas veces la Unidad de Medida y Actualización a quienes incurran en lo señalado en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 58.
 
-Los profesionistas que incumplan lo establecido en los artículos 25 y 26 de esta Ley, serán sancionados con multa de cien veces la Unidad de Medida y Actualización, y podrá duplicarse en caso de reincidencia.
+Los profesionistas que incumplan lo establecido en los artículos 25 y 26 de esta Ley, serán sancionados con multa de hasta cien veces la Unidad de Medida y Actualización, y podrá duplicarse en caso de reincidencia
 
 ###### ARTICULO 59.
 
@@ -585,71 +643,51 @@ Los supervisores de la Dirección de Profesiones podrán de conformidad a lo ord
 
 ### CAPITULO XII. DE LOS RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 71.
 
-Contra las resoluciones del Director de Profesiones, proceden los recursos de revocación y de revisión.
+Contra las resoluciones de la Dirección de Profesiones, se estará a lo dispuesto en la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo y se aplicará en lo procedente de manera supletoria el Código de Procedimientos Civiles del Estado de Hidalgo.
 
 ###### ARTICULO 72.
 
-El recurso de revocación podrá interponerse por escrito dentro de los cinco días hábiles siguientes a la notificación de la resolución, ante la Dirección de Profesiones.
-
-Transcurrido el plazo a que se refiere el párrafo anterior, sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 73.
 
-Las resoluciones en los recursos de revocación y revisión podrán ser:
-
-I.- Confirmadas;
-
-II.- Modificadas o
-
-III.- Revocadas.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 74.
 
-El escrito por el cual se interponen los recursos de revocación deberán contener:
-
-I.- Nombre y domicilio del recurrente, así como las constancias que acrediten la personalidad del que promueve;
-
-II.- Acto que se recurre;
-
-III.- Agravios que causa dicho acto y los fundamentos de hecho y de derecho y
-
-IV.- Pruebas que se consideren necesarias.
-
-En caso de incumplimiento de los requisitos señalados, la Dirección de Profesiones podrá declarar improcedente el recurso y la resolución será definitiva.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 75.
 
-La Dirección de Profesiones resolverá dentro de los quince días hábiles siguientes, contados a partir de la fecha de presentación del recurso.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 76.
 
-Las resoluciones del recurso se notificarán a los interesados o a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 77.
 
-La admisión del recurso suspenderá la ejecución de la resolución en cuanto al pago de multas, hasta la resolución definitiva.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 78.
 
-Procede el recurso de revisión de la resolución emitida por el Director de Profesiones, ante el Director General de "El Instituto".
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 79.
 
-El recurso de revisión podrá interponerse por escrito ante la Dirección General de "El Instituto", dentro de los cinco días hábiles siguientes a la notificación de la resolución del recurso de revocación.
-
-Transcurrido el plazo a que se refiere el párrafo anterior, sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 80.
 
-Para la presentación del escrito por el cual se interpone el recurso de revisión se estará a lo dispuesto por el Artículo 73 de esta Ley.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ###### ARTICULO 81.
 
-La Dirección General de "El Instituto", resolverá en definitiva, dentro de los quince días hábiles siguientes a la interposición del recurso de revisión.
-
-La resolución definitiva del recurso de revisión se notificará a los interesados o a sus representantes legales personalmente o por correo certificado con acuse de recibo.
+(DEROGADO, P.O. 17 DE AGOSTO DE 2020)
 
 ## TRANSITORIOS
 
@@ -728,3 +766,15 @@ P.O. 24 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 194.- QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO, LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO Y A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 420 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO Y LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
+
+TERCERO. Los trámites que se encuentren en proceso en la Dirección de Profesiones, con anterioridad a la entrada en vigor de la presente reforma, se resolverán de conformidad con la norma aplicable en su momento.
+
+CUARTO. El Poder Ejecutivo emitirá en un plazo de 180 días posteriores a la publicación de esta reforma, las adecuaciones al Reglamento de Ley.
