@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2018-05-30"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -179,13 +179,11 @@ III. Violencia patrimonial.- Es el acto u omisión que afecta la supervivencia d
 
 IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima, y que por tanto atenta contra su libertad, seguridad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto;
+V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima, y que por tanto atenta contra su libertad, seguridad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto; y
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
-
-VI. Violencia Política.- Es toda acción u omisión -incluida la tolerancia- que, basada en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público; y
+VI. (DEROGADA, P.O. 17 DE AGOSTO DE 2020)
 
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2017)</small>
 
@@ -283,7 +281,9 @@ III. El establecimiento de un banco de datos sobre las órdenes de protección y
 
 IV. Implementar políticas públicas tendientes a garantizar espacios públicos libres de violencia.
 
-#### SECCIÓN QUINTA. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+#### SECCIÓN CUARTA BIS. DE LA VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 17.
 
@@ -302,6 +302,70 @@ I. La igualdad de derechos entre hombres y mujeres;
 II. La aplicación y obligatoriedad de observar los tratados internacionales respecto a los derechos humanos en especial los que salvaguardan los derechos de las mujeres y las niñas; y
 
 III. La aplicación de la Perspectiva de Género.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE AGOSTO DE 2020)</small>
+
+#### SECCIÓN QUINTA. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+
+###### Artículo 19 Bis.
+
+La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+###### Artículo 19 Ter.
+
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
+
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
+
+XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 ###### Artículo 20.
 
@@ -362,6 +426,10 @@ c) Verificar los hechos y la publicidad de la verdad.
 ###### Artículo 24.
 
 Las órdenes de protección son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares, las cuales deberán otorgarse a solicitud de la víctima o cualquier persona, de manera inmediata por la autoridad competente que conozca los hechos o delitos constitutivos de violencia por motivo de género.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Instituto Electoral y de Participación Ciudadana de Tabasco y el Tribunal Electoral de Tabasco podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
 ###### Artículo 25.
 
@@ -493,7 +561,9 @@ I. La Secretaría de Gobierno, quien ocupará la Secretaría Ejecutiva del Conse
 
 II. El Instituto Estatal de las Mujeres, quien ocupará la Secretaría Técnica del Consejo;
 
-III. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+III. La Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
@@ -505,9 +575,9 @@ VI. La Secretaría de Educación;
 
 VII. La Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-VIII. La Secretaría de Desarrollo Social;
+VIII. La Secretaría de Bienestar, Sustentabilidad y Cambio Climático;
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
@@ -516,6 +586,10 @@ IX. La Coordinación General de Asuntos Jurídicos;
 X. (DEROGADA, P.O. 21 DE MAYO DE 2016)
 
 XI. La Comisión Estatal de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XI Bis. El Instituto Electoral y de Participación Ciudadana de Tabasco. En este caso, fungirá como integrante, quien ostente el cargo de Consejera o Consejero Presidente.
 
 XII. Las Direcciones de Atención a las Mujeres de los Municipios del Estado o quien designe en sesión el Ayuntamiento del Municipio;
 
@@ -997,9 +1071,23 @@ II. Institucionalizar la perspectiva de género en el proceso legislativo, así 
 
 III. Promover las reformas e iniciativas de Ley que tiendan a mejorar las condiciones de la mujer y su desarrollo pleno.
 
-### CAPÍTULO IV. DE LOS MUNICIPIOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-### CAPÍTULO I. DE LA ATENCIÓN
+### CAPÍTULO III BIS. DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+###### Artículo 55 Bis.
+
+Corresponde al Instituto Electoral y de Participación Ciudadana de Tabasco, en el ámbito de su competencia:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
+### CAPÍTULO IV. DE LOS MUNICIPIOS
 
 ###### Artículo 56.
 
@@ -1043,9 +1131,7 @@ XV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN DE LA VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
-### CAPÍTULO II. DE LOS CENTROS DE REFUGIO TEMPORAL PARA MUJERES VÍCTIMAS DE VIOLENCIA
-
-Artículo. 63. Los Centros de Refugio Temporal para Mujeres Víctimas de Violencia son estancias especialmente acondicionadas para recibir a mujeres víctimas de violencia y a las víctimas indirectas, que operan con personal especializado las veinticuatro horas al día durante todo el año.
+### CAPÍTULO I. DE LA ATENCIÓN
 
 ###### Artículo 57.
 
@@ -1097,7 +1183,9 @@ Es responsabilidad de los centros educativos, hospitales, clínicas, centros de 
 
 Tratándose de violencia familiar se deberá comunicar a la Fiscalía General del Estado para que ésta proceda en los términos previstos para este tipo de casos.
 
-### CAPÍTULO III. DE LOS CENTROS DE ATENCIÓN Y REHABILITACIÓN PARA AGRESORES
+### CAPÍTULO II. DE LOS CENTROS DE REFUGIO TEMPORAL PARA MUJERES VÍCTIMAS DE VIOLENCIA
+
+Artículo. 63. Los Centros de Refugio Temporal para Mujeres Víctimas de Violencia son estancias especialmente acondicionadas para recibir a mujeres víctimas de violencia y a las víctimas indirectas, que operan con personal especializado las veinticuatro horas al día durante todo el año.
 
 ###### Artículo 64.
 
@@ -1128,6 +1216,8 @@ III. Propiciar la rehabilitación física y emocional de la víctima;
 IV. Las inherentes al cuidado, protección y asistencia de las personas que se encuentran bajo su resguardo; y
 
 V. Las demás que les otorguen la presente Ley y los demás ordenamientos aplicables a la materia.
+
+### CAPÍTULO III. DE LOS CENTROS DE ATENCIÓN Y REHABILITACIÓN PARA AGRESORES
 
 ###### Artículo 67.
 
@@ -1224,3 +1314,29 @@ P.O. 30 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 214 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 8, FRACCIÓN V, Y 34, FRACCIONES III Y VIII; SE ADICIONAN UNA SECCIÓN CUARTA BIS DENOMINADA "DE LA VIOLENCIA POLÍTICA", AL CAPÍTULO II DEL TÍTULO SEGUNDO, INTEGRADO POR LOS ARTÍCULOS 19 BIS Y 19 TER, UN PÁRRAFO SEGUNDO AL ARTÍCULO 24, UNA FRACCIÓN XI BIS AL ARTÍCULO 34 Y UN CAPÍTULO III BIS DENOMINADO "DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO" AL TÍTULO QUINTO, INTEGRADO POR EL ARTÍCULO 55 BIS; Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 8; TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán al marco normativo aplicable a los entes públicos competentes, así como a la disponibilidad presupuestaria de cada una de ellos, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+
+###### ARTÍCULO CUARTO.
+
+En términos de lo dispuesto por el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, las reformas contenidas en el presente Decreto no serán aplicables para el proceso electoral local 2020-2021.
+
+Para el caso del proceso electoral local 2020-2021, el Instituto Electoral y de Participación Ciudadana de Tabasco, deberá emitir los lineamientos para incluir en las elecciones estatales, los parámetros derivados de las últimas reformas constitucional y legal publicadas en el Diario Oficial de la Federación el 06 de junio de 2019 y el 13 de abril de 2020, respectivamente, en materia de paridad de género y violencia política en razón de género.
+
+###### ARTÍCULO QUINTO.
+
+La observancia del principio de paridad de género a que se refiere el artículo 13 de la Ley Electoral y de Partidos Políticos del Estado de Tabasco, será aplicable a quienes tomen posesión de su encargo, a partir del siguiente proceso electoral que corresponda a la entrada en vigor del presente Decreto.
