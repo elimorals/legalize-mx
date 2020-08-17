@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-artesanal-para-el-estado-de-hidalgo-65690"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2018-06-25"
+last_updated: "2020-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 17 DE AGOSTO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -328,3 +330,17 @@ P.O. 25 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 448.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 422 QUE CREA LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A la entrada en vigor del presente decreto se abroga la Ley de Fomento Artesanal para el Estado de Hidalgo.
+
+TERCERO. El Reglamento correspondiente al presente ordenamiento se deberá expedir en un término no mayor de 180 días naturales a partir de la fecha de entradaen (sic) vigor del presente Decreto.
+
+CUARTO. El Consejo Técnico Artesanal del estado de Hidalgo, será instalado en un plazo no mayor a 120 días hábiles, posteriores al inicio de su vigencia.
+
+QUINTO. Una vez que entre en vigor la presente Ley, deberán realizarse las acciones necesarias para que se constituya el Fondo para la Salvaguardia y el Fomento Artesanal prevenido en el Capítulo Quinto de la misma.
