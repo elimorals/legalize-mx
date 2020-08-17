@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-122662
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2017-07-10"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "HID"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
-Ley publicada en el Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
+Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
 GOBIERNO DEL ESTADO DE HIDALGO
 
@@ -524,6 +524,10 @@ IV. Los resultados de la fiscalización efectuada;
 V. Las observaciones, recomendaciones, acciones, con excepción de los informes de presunta responsabilidad administrativa, y en su caso denuncias de hechos; y
 
 VI. Un apartado específico en cada una de las auditorías realizadas donde se incluya una síntesis de las justificaciones y aclaraciones que; en su caso, las Entidades Fiscalizadas hayan presentado en relación con los resultados y las observaciones que se les hayan hecho durante las revisiones.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Asimismo, considerará, en su caso, el cumplimiento de los objetivos y metas de aquellos programas que promuevan la igualdad sustantiva entre mujeres y hombres, así como, (sic) acceso de las Mujeres a una Vida Libre de Violencia y cualquier forma de discriminación de género.
 
 ###### Artículo 44.
 
@@ -1122,3 +1126,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 415 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 43 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
