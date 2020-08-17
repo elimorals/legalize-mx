@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2019-12-31"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -3157,7 +3157,11 @@ Los rebeldes no serán responsables de las muertes ni lesiones inferidas en el a
 
 No se aplicará pena a los que depongan las armas antes de ser tomados prisioneros, si no hubiesen cometido algún otro delito además del de rebelión.
 
-### CAPITULO IV. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS Y VIOLACION DE SECRETOS
+### CAPÍTULO III BIS. INCUMPLIMIENTO DE UN DEBER LEGAL
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTICULO 301 bis. Comete el delito de incumplimiento de un deber legal el servidor público que sin causa justificada deje de cumplir con las funciones que le fueron conferidas, y se le impondrá de uno a seis años de prisión y multa de 20 a 100 días.
 
 ###### ARTICULO 289.
 
@@ -3175,9 +3179,9 @@ Al que públicamente manifieste por acto de violencia, que no debe guardarse tod
 
 Si el infractor es un funcionario o empleado público del Estado, será condenado, además de la destitución de su cargo, empleo o comisión y a la inhabilitación para obtener otro por un término que no exceda de cinco años.
 
-### CAPITULO V. COALICION DE SERVIDORES PUBLICOS
+### CAPITULO IV. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS Y VIOLACION DE SECRETOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 292.
 
@@ -3185,9 +3189,9 @@ Cometen el delito de motín los que, para hacer uso de un derecho se reúnen tum
 
 El motín se sancionará con prisión hasta de seis meses y multa de 20 a 100 días.
 
-### CAPITULO VI. CONCUSION
+### CAPITULO V. COALICION DE SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 293.
 
@@ -3195,7 +3199,7 @@ Se impondrá de dos a veinte años de prisión y multa de 100 a 250 días, sin p
 
 Cuando los mismos efectos se produzcan por medios no violentos, la sanción será de uno a diez años de prisión y multa de 30 a 100 días.
 
-### CAPITULO VII. COHECHO
+### CAPITULO VI. CONCUSION
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2017)</small>
 
@@ -3211,7 +3215,7 @@ III.- Recursos o elementos esenciales, destinados al mantenimiento del orden pú
 
 Al que teniendo conocimiento de las actividades de un saboteador y de su identidad no lo haga saber a las autoridades, se le impondrá de tres meses a tres años de prisión y de 10 a 50 días multa.
 
-### CAPITULO VIII. PECULADO
+### CAPITULO VII. COHECHO
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2017)</small>
 
@@ -3219,7 +3223,9 @@ Al que teniendo conocimiento de las actividades de un saboteador y de su identid
 
 Se impondrá de uno a cinco años de prisión y multa de 20 a 100 días, al que destruya o quite las señales que marquen los límites del Estado o que de cualquier modo haga que se confundan, si con ello se origina un conflicto al Estado. Faltando esta última circunstancia, se aplicará la mitad de la punibilidad.
 
-### CAPITULO IX. NEGOCIACIONES INDEBIDAS
+### CAPITULO VIII. PECULADO
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 296.
 
@@ -3234,6 +3240,24 @@ Si el responsable de estos delitos es servidor público, la punibilidad se aumen
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2017)</small>
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR PARTICULARES
+
+### CAPITULO IX. NEGOCIACIONES INDEBIDAS
+
+###### ARTICULO 298.
+
+Para los efectos de este Código, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal centralizada o descentralizada, empresas de participación estatal mayoritaria, fideicomisos públicos en los que el fideicomitente sea el Estado, órganos autónomos, en el Poder Legislativo del Estado, en el Poder Judicial del Estado, en las Administraciones Públicas Municipales y paramunicipales y cualquier persona que maneje recursos estatales, municipales o federales considerados como ingresos propios del Estado.
+
+Las disposiciones de este título serán aplicables a los servidores públicos señalados en el párrafo que antecede, así como al Gobernador del Estado, a los Diputados Locales, Magistrados y Consejeros del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa, Procurador General de Justicia, Consejeros Electorales Locales, Magistrados Electorales Locales, Presidentes Municipales e integrantes de los Ayuntamientos.
+
+Cuando el responsable tenga el carácter de particular, el juez además, deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2017)</small>
+
+ARTICULO 298 BIS.- La punibilidad de los delitos previstos en el presente Título, se aumentará en una tercera parte cuando el servidor público sea o haya sido titular de alguna dependencia o entidad de la administración pública Estatal o Municipal, de elección popular, Organismo Autónomo, además de aquellos cuyo nombramiento, aprobación o ratificación sea realizada por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2017)</small>
+
+ARTICULO 298 TER.- Cuando los delitos a que se refieren los artículos 301, 307 y 309 bis del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, la punibilidad prevista será aumentada en una mitad.
 
 ### CAPITULO X. INTIMIDACION
 
@@ -3251,21 +3275,37 @@ Al que haga uso de violencia física o moral en la comisión de estas conductas 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2017)</small>
 
-###### ARTICULO 298.
+###### ARTICULO 299.
 
-Para los efectos de este Código, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal centralizada o descentralizada, empresas de participación estatal mayoritaria, fideicomisos públicos en los que el fideicomitente sea el Estado, órganos autónomos, en el Poder Legislativo del Estado, en el Poder Judicial del Estado, en las Administraciones Públicas Municipales y paramunicipales y cualquier persona que maneje recursos estatales, municipales o federales considerados como ingresos propios del Estado.
+Comete el delito de ejercicio indebido del servicio público, el servidor público que:
 
-Las disposiciones de este título serán aplicables a los servidores públicos señalados en el párrafo que antecede, así como al Gobernador del Estado, a los Diputados Locales, Magistrados y Consejeros del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa, Procurador General de Justicia, Consejeros Electorales Locales, Magistrados Electorales Locales, Presidentes Municipales e integrantes de los Ayuntamientos.
+I.- Ejerciere las funciones de un empleo, cargo o comisión para el que no hubiere sido nombrado o en el que hubiere cesado o no hubiere sido puesto en posesión;
 
-Cuando el responsable tenga el carácter de particular, el juez además, deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas.
+II.- Otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que haga referencia dicha identificación; o
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-ARTICULO 298 BIS.- La punibilidad de los delitos previstos en el presente Título, se aumentará en una tercera parte cuando el servidor público sea o haya sido titular de alguna dependencia o entidad de la administración pública Estatal o Municipal, de elección popular, Organismo Autónomo, además de aquellos cuyo nombramiento, aprobación o ratificación sea realizada por el Congreso del Estado.
+III.- Abandone su empleo, cargo o comisión sin casusa justificada y con ello afecte la prestación de un servicio público.
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2017)</small>
 
-ARTICULO 298 TER.- Cuando los delitos a que se refieren los artículos 301, 307 y 309 bis del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, la punibilidad prevista será aumentada en una mitad.
+Al responsable de este delito se le impondrá de tres meses a dos años de prisión y multa de 5 a 30 veces el valor diario de la Unidad de Medida y Actualización. Si el ejercicio ilícito tiene lugar con ocasión de un acto que afecte el estado familiar o la disposición de última voluntad de una persona, la pena será de seis meses a tres años de prisión y multa de 10 a 60 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
+
+###### ARTICULO 300.
+
+Se impondrá prisión de uno a cinco años y multa de 20 a 150 veces el valor diario de la Unidad de Medida y Actualización al servidor público que en el ejercicio de sus funciones o con motivo de ellas:
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2017)</small>
+
+I.- Otorgue empleo, cargo, comisión pública o contrato de prestación de servicios profesionales, mercantiles o de cualquiera otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombra, o no se cumplirá el contrato otorgado;
+
+II.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
+
+III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de cualquier acto u omisión en que puedan resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la Administración Pública Municipal, Estatal, centralizada o descentralizada, empresas de participación estatal mayoritaria, fideicomisos públicos en los que el fideicomitente sea el Estado, de organismos autónomos, del Poder Legislativo o del Poder Judicial, no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
 
 ### CAPITULO XI. USO ILICITO DE ATRIBUCIONES Y FACULTADES
 
@@ -3293,37 +3333,63 @@ b) Siendo responsable de administrar y verificar directamente el cumplimiento de
 
 III. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+IV. El particular que en su carácter de contratista, permisionario, asignatario o titular de una concesión para la prestación de un servicio público o para el uso de bienes del dominio del Estado o de los Municipios, con la finalidad de obtener un beneficio para sí o para un tercero, oculte o genere información falsa respecto de los rendimientos o beneficios que obtenga.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Las mismas penas se impondrán a cualquier persona que a sabiendas de la ilicitud del acto y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de las conductas previstas en este artículo.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2017)</small>
 
-###### ARTICULO 299.
+###### ARTICULO 301.
 
-Comete el delito de ejercicio indebido del servicio público, el servidor público que:
+Comete el delito de abuso de autoridad, el servidor público que incurran (sic) en alguna de las conductas siguientes:
 
-I.- Ejerciere las funciones de un empleo, cargo o comisión para el que no hubiere sido nombrado o en el que hubiere cesado o no hubiere sido puesto en posesión;
+I.- Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
-II.- Otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que haga referencia dicha identificación; o
+II.- Ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima, la vejare o la insultare;
 
-III.- Abandone sin justa causa su empleo, cargo o comisión públicos.
+III.- Indebidamente retarde, niegue a los particulares la protección o servicio que tenga la obligación de otorgarles, impida la presentación o el curso de una solicitud;
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-Al responsable de este delito se le impondrá de tres meses a dos años de prisión y multa de 5 a 30 veces el valor diario de la Unidad de Medida y Actualización. Si el ejercicio ilícito tiene lugar con ocasión de un acto que afecte el estado familiar o la disposición de última voluntad de una persona, la pena será de seis meses a tres años de prisión y multa de 10 a 60 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
-
-###### ARTICULO 300.
-
-Se impondrá prisión de uno a cinco años y multa de 20 a 150 veces el valor diario de la Unidad de Medida y Actualización al servidor público que en el ejercicio de sus funciones o con motivo de ellas:
+IV.- Siendo requerido legalmente por una autoridad competente para que le preste auxilio, se niegue a dárselo o retrase el mismo injustificadamente.
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 2017)</small>
 
-I.- Otorgue empleo, cargo, comisión pública o contrato de prestación de servicios profesionales, mercantiles o de cualquiera otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombra, o no se cumplirá el contrato otorgado;
+V.- Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte o la totalidad del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios;
 
-II.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación.
+VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+VII.- Estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
 
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
 
-III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de cualquier acto u omisión en que puedan resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la Administración Pública Municipal, Estatal, centralizada o descentralizada, empresas de participación estatal mayoritaria, fideicomisos públicos en los que el fideicomitente sea el Estado, de organismos autónomos, del Poder Legislativo o del Poder Judicial, no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
+VIII.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para participar en procedimiento de adquisiciones, arrendamientos, servicios u obras públicas y servicios relacionados con las mismas, o para obtener concesiones para la prestación de servicios públicos, siempre que lo haga con conocimiento de tal situación;
+
+IX.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2017)
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
+
+X.- Obligue al imputado a declarar o comparecer a cualquier actuación sin presencia de un abogado defensor.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XI.- Omita realizar el registro inmediato de la detención de una persona o registre datos falsos.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2017)</small>
+
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I, II, III, IV y VI, se impondrán de uno a seis años de prisión y multa de 20 a 100 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
+
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones V, VII, VIII y X, se le impondrá de dos a ocho años de prisión y de 40 a 120 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
@@ -3338,46 +3404,6 @@ II. El servidor público que, por sí, o por interpósita persona indebidamente,
 III. El particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2017)</small>
-
-###### ARTICULO 301.
-
-Comete el delito de abuso de autoridad, el servidor público que incurran (sic) en alguna de las conductas siguientes:
-
-I.- Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
-
-II.- Ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima, la vejare o la insultare;
-
-III.- Indebidamente retarde, niegue a los particulares la protección o servicio que tenga la obligación de otorgarles, impida la presentación o el curso de una solicitud;
-
-IV.- Encargado de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo;
-
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2017)</small>
-
-V.- Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte o la totalidad del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios;
-
-VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
-
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
-
-VII.- Siendo encargado o responsable de cualquier centro de retención, detención, penitenciario o de internamiento para adolescentes, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
-
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
-
-VIII.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para participar en procedimiento de adquisiciones, arrendamientos, servicios u obras públicas y servicios relacionados con las mismas, o para obtener concesiones para la prestación de servicios públicos, siempre que lo haga con conocimiento de tal situación;
-
-IX.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2017)
-
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
-
-X.- Obligue al imputado a declarar o comparecer a cualquier actuación sin presencia de un abogado defensor.
-
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2017)</small>
-
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I, II, III, IV y VI, se impondrán de uno a seis años de prisión y multa de 20 a 100 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
-
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones V, VII, VIII y X, se le impondrá de dos a ocho años de prisión y de 40 a 120 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO XIII. ENRIQUECIMIENTO ILICITO
 
@@ -3399,11 +3425,9 @@ III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equiv
 
 Cuando el responsable tenga el carácter de particular, el Juez deberá además imponer la sanción de inhabilitación para desempeñar un empleo cargo o comisión público, así como para participar en procedimientos de adquisiciones, arrendamientos, servicios u obras públicas y servicios relacionados con las mismas, o para obtener concesiones para la prestación de servicios públicos.
 
-### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS
-
 ###### ARTICULO 302.
 
-El servidor público que por sí o por interpósita persona sustraiga, destruya u oculte información o documentación que se encuentre bajo custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión, sufrirá la pena de uno a cinco años de prisión y multa de 20 a 250 días.
+El servidor público que por sí o por interpósita persona sustraiga, destruya u oculte, reproduzca, entregue, utilice o inutilice ilícitamente información o documentación que se encuentre bajo custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión, se le impondrá de uno a cinco años de prisión y multa de 20 a 250 días.
 
 ###### ARTICULO 303.
 
@@ -3413,9 +3437,7 @@ Al servidor público que indebidamente dé a conocer documento o noticia que deb
 
 Igual pena se impondrá al servidor público que utilice en provecho propio o ajeno descubrimiento científico o técnico u otra información llegados a su conocimiento por razón de sus funciones, y que daba permanecer en secreto, siempre que el hecho no constituya otro delito.
 
-### CAPITULO II. COHECHO DE PARTICULARES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
+### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS
 
 ###### ARTICULO 305.
 
@@ -3423,9 +3445,9 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
 
-### CAPITULO III. DISTRACCION DE RECURSOS PUBLICOS
+### CAPITULO II. COHECHO DE PARTICULARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 306.
 
@@ -3437,7 +3459,7 @@ I. Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equiv
 
 II. Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de uno a seis años de prisión y multa de 200 a 400 veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO IV. FALSEDAD ANTE LA AUTORIDAD
+### CAPITULO III. DISTRACCION DE RECURSOS PUBLICOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -3447,7 +3469,9 @@ Cometen el delito de cohecho y se impondrá de seis meses a siete años de prisi
 
 Al Diputado Local que en el ejercicio de sus funciones o atribuciones, y en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite la asignación de recursos a favor de un ente público o el otorgamiento de concesiones o contratos de adquisición de bienes, arrendamientos, servicios, obra pública o de servicios relacionados con las mismas a favor de determinadas personas físicas o morales, exigiendo u obteniendo, para sí o para un tercero una comisión, beneficio o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo, se aplicará una mitad más de la punibilidad prevista en el párrafo anterior.
 
-### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPITULO IV. FALSEDAD ANTE LA AUTORIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 308.
 
@@ -3463,7 +3487,7 @@ I. Cuando el monto de lo distraído o de los fondos utilizados indebidamente no 
 
 II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cuatro a catorce años de prisión y multa de 200 a 500 veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO VI. QUEBRANTAMIENTOS DE SELLOS
+### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### ARTICULO 309.
 
@@ -3474,6 +3498,8 @@ I.- En el desempeño de su empleo, cargo o comisión otorgue idebidamente (sic) 
 II.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto indebido que le produzca algún beneficio económico al servidor público o a alguna de las personas mencionadas en la fracción anterior.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2017)</small>
+
+### CAPITULO VI. QUEBRANTAMIENTOS DE SELLOS
 
 ### CAPITULO VII. ULTRAJES A LA AUTORIDAD
 
@@ -3488,6 +3514,10 @@ USURPACIÓN DE FUNCIONES PÚBLICAS Y EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVAD
 ARTICULO 321 BIS.- Comete el delito de uso ilícito de atribuciones y facultades y se impondrá de tres a seis años de prisión y multa de 20 a 100 veces el valor diario de la Unidad de Medida y Actualización, a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o servicio público o de otra persona, participe, solicite o promueva la perpetración de cualquiera de las conductas previstas en el artículo 309 ter.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
+## TITULO DECIMO OCTAVO. DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ### CAPITULO X. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA
 
@@ -3505,21 +3535,13 @@ Este delito se perseguirá por querella de la institución encargada de brindar 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2017)</small>
 
-## TITULO DECIMO OCTAVO. DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PÚBLICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
-
 ###### ARTICULO 310.
 
 Al particular que promueva una conducta ilícita de un servidor público que se preste para ello o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de tres meses a tres años y multa de 10 a 50 días.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 311.
 
@@ -3535,7 +3557,9 @@ Se aplicará la misma pena prevista en el párrafo primero, a cualquier persona 
 
 El juez deberá imponer al cohechador la sanción de inhabilitación para desempeñar un cargo público, así como para participar en procedimientos de adquisiciones, arrendamientos, servicios u obras públicas y servicios relacionados con las mismas, o para obtener concesiones para la prestación de servicios públicos.
 
-### CAPITULO III. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
+### CAPITULO II. FRAUDE PROCESAL
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 312.
 
@@ -3543,9 +3567,7 @@ Al particular que estando obligado legalmente, a la custodia, administración o 
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO IV. EVASION DE PRESOS
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+### CAPITULO III. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
 
 ###### ARTICULO 313.
 
@@ -3559,7 +3581,7 @@ La sanción podrá ser de tres meses a tres años de prisión y multa de 20 a 10
 
 Además de las penas a que se refiere este artículo, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones de tres meses a dos años.
 
-### CAPITULO V. INCUMPLIMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO IV. EVASION DE PRESOS
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -3585,13 +3607,15 @@ Al que por medio de la violencia física o moral exija a una autoridad la ejecuc
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiesen agotado tales medios.
 
-### CAPITULO VI. ENCUBRIMIENTO
+### CAPITULO V. INCUMPLIMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 319.
 
 Al que quebrante los sellos impuestos por orden de la autoridad pública competente, se le impondrá prisión de tres meses a dos años y de 5 a 25 días multa.
 
-### CAPITULO VII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO VI. ENCUBRIMIENTO
 
 ###### ARTICULO 320.
 
@@ -3601,9 +3625,7 @@ Para los efectos de esta disposición, se entiende por ultraje toda acción o ex
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JULIO DE 2018)</small>
 
-### CAPITULO VIII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
+### CAPITULO VII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 321.
 
@@ -3629,89 +3651,19 @@ Se duplicará la punibilidad prevista en este artículo, cuando cualquiera de la
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2017)</small>
 
+### CAPITULO VIII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
+
 ### CAPITULO I. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ### CAPITULO II. DELITOS CONTRA EL COMERCIO, LA INDUSTRIA, LA AGRICULTURA Y LA ESTABILIDAD ECONOMICA
 
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA DEL ESTADO Y EL BIENESTAR SOCIAL
+
 ### CAPITULO III. DELITOS CONTRA LA RIQUEZA FORESTAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA DEL ESTADO Y EL BIENESTAR SOCIAL
-
-### CAPITULO III BIS. DELITOS CONTRA EL AMBIENTE
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 349 TER.- Al que, sin contar con la autorización que se requiera o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, así como, a las normas técnicas ecológicas aplicables, desmonte, destruya la vegetación natural, cambie el uso del suelo; se le impondrá de uno a ocho años de prisión, así como, una multa de doscientos a quinientas veces la Unidad de Medida y Actualización vigente.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 349 QUATER.- La misma pena se impondrá a quien:
-
-I.- Expulse o descargue en la atmósfera: gases, humos, polvos, o partículas que causen o puedan ocasionar daños a la salud pública, la flora, la fauna o a los ecosistemas, en jurisdicción Estatal o Municipal;
-
-II.- Realice actividades con materiales o residuos que, por su composición o cantidad, sean considerados potencialmente riesgosos, que no sean competencia de la federación, y provoquen contaminación en aire, tierra y agua de jurisdicción Estatal y/o Municipal;
-
-III.- Realice obras o actividades, sin obtener, de la autoridad correspondiente, la autorización de impacto y riesgo ambiental, o no implemente las medidas preventivas y correctivas que establecen las normas o disposiciones aplicables o le indique la autoridad competente; para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente; ocasionando daños a la salud pública, la flora, la fauna o a los ecosistemas de jurisdicción Estatal o Municipal;
-
-IV.- Filtre o descargue aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en suelos o en aguas de jurisdicción local o en aguas Federales asignadas para la prestación de servicios públicos Estatales o Municipales, en cantidades o concentraciones que causen o puedan causar daños a la salud pública, a los recursos naturales, la flora, la fauna, o a los ecosistemas;
-
-V.- Genere emisiones de ruido, vibraciones, energía térmica o lumínica, cuando, por su intensidad causen o puedan causar daños graves a la salud pública, a los recursos naturales, la flora, la fauna, o a los ecosistemas;
-
-VI.- No obstante, haber sido sancionado administrativamente por la autoridad competente en dos o más ocasiones, realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de generar calor o energía para uso industrial o personal, provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, a la flora, a la fauna y a los ecosistemas;
-
-VII.- Sin observar los ordenamientos legales aplicables, realice actividades de separación, utilización, acopio, recolección, almacenamiento, transportación, tratamiento o disposición final de residuos de manejo especial, así como la reutilización, acopio, almacenamiento, reciclaje o incineración de residuos sólidos no peligrosos generados por actividades domésticas, industriales, agrícolas o comerciales o de manejo municipal, que generen fauna nociva, causen o puedan causar daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas;
-
-VIII.- Sin la autorización de la autoridad competente o en contravención de las disposiciones legales aplicables, realice quemas para utilizar terrenos con fines agropecuarios, o contando con ella, no tome las medidas necesarias para evitar su propagación a terrenos aledaños;
-
-IX.- Deposite de manera clandestina, escombros o residuos, de cualquier tipo, provenientes de la industria en general, en áreas naturales protegidas, área de valor ambiental, zonas de recarga de mantos acuíferos, barrancas, áreas verdes o en terrenos baldíos, de competencia Estatal o Municipal.
-
-Será considerado como agravante, el que estos residuos industriales se depositen en áreas de recarga de mantos acuíferos, en cuyo caso la pena establecida se aumentara una tercera parte; y
-
-X.- Haya sido sancionado administrativamente en dos o más ocasiones por la autoridad ecológica competente y no obstante ello, persista en la misma conducta dañosa al ambiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 349 QUINQUIES.- Se impondrá prisión de dos a cuatro años y multa de ciento cincuenta a quinientas veces la Unidad de Medida y Actualización vigente, a los prestadores de servicios ambientales autorizados, Centros de Verificación, laboratorios y/o cualquier persona física o moral que, de manera dolosa o culposa, proporcione documentación o información falsa o alterada, u omita datos, con el objeto de que las autoridades ambientales y/o fiscales competentes, otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo o, cancelen sanciones o créditos fiscales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-Esta pena se aumentará en una mitad más, así como, la inhabilitación para ocupar cargos públicos, cuando, en la comisión de esta conducta o cualquier otro delito previsto en este Capítulo, intervenga un servidor público en ejercicio, quien, con motivo de sus funciones y haciendo uso de sus facultades; integre expedientes, otorgue o avale licencias, autorizaciones, registros, constancias o permisos de cualquier tipo que pongan en riesgo la salud pública, el medio ambiente o los recursos naturales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 349 SEXIES.- Para estimar el potencial dañoso de las conductas previstas en este Capítulo, se atenderá a los parámetros máximos permisibles que establezcan las normas oficiales mexicanas y normas técnicas ecológicas locales y, en todo caso, al examen de peritos.
-
-En territorio decretado como área natural protegida, la pena se aumentará hasta en una mitad más.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 349 SEPTIES.- No se impondrá pena alguna a quien, por su escasa instrucción y extrema necesidad económica, realice aprovechamientos naturales en cantidades estrictamente necesarias para su consumo familiar y/o doméstico, siempre y cuando estos productos no salgan del lugar de su vecindad inmediata.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 349 OCTIES.- El Juez ordenará, como medida cautelar, a petición del ministerio público, con carácter temporal en tanto se dicta sentencia firme, la suspensión inmediata de la actividad o fuente contaminante; así como, el aseguramiento de los materiales, aparatos, maquinaria u objetos que estén causando daño o puedan poner en peligro al medio ambiente, sin perjuicio de lo que puedan disponer las autoridades administrativas competentes, de igual forma podrá ordenar:
-
-I.- Alguna de las medidas de seguridad contempladas en el Artículo 52 de este Código;
-
-II.- La Suspensión y, en su caso, la destitución de servidores públicos, en los casos en que se acredite su participación en la conducta ilícita, independientemente de la pena que les corresponda como responsables del delito, de igual forma se aplicará esta medida con la inhabilitación de los derechos para ejercer, a los profesionistas o peritos que se adecuen a esta conducta; y
-
-III.- Para los efectos de los delitos contra el medio ambiente, la reparación del daño incluirá además:
-
-a).- La realización de acciones necesarias encaminadas a restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
-
-b).- La suspensión de actividades, construcciones u obras, así como su modificación o demolición; y
-
-c).- El embargo, desmantelamiento o destrucción de maquinaria o instrumentos que hubieran dado lugar al daño ambiental tipificado como delito.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 349 NONIES.- La reducción de las penas por los delitos previstos en este Título, podrá decretarla el Juez, de oficio o a petición de parte; hasta en tres cuartas partes, cuando el agente, en forma voluntaria, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta y, cuando esto no sea posible, será mediante la ejecución de acciones u obras que compensen los daños ambientales que se hubieren generado.
-
-A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo el dictamen técnico favorable emitido por la autoridad ambiental competente.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 322.
 
@@ -3823,6 +3775,86 @@ ARTICULO 322 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
 ARTICULO 322 TER. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
+### CAPITULO III BIS. DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 349 TER.- Al que, sin contar con la autorización que se requiera o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, así como, a las normas técnicas ecológicas aplicables, desmonte, destruya la vegetación natural, cambie el uso del suelo; se le impondrá de uno a ocho años de prisión, así como, una multa de doscientos a quinientas veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 QUATER.- La misma pena se impondrá a quien:
+
+I.- Expulse o descargue en la atmósfera: gases, humos, polvos, o partículas que causen o puedan ocasionar daños a la salud pública, la flora, la fauna o a los ecosistemas, en jurisdicción Estatal o Municipal;
+
+II.- Realice actividades con materiales o residuos que, por su composición o cantidad, sean considerados potencialmente riesgosos, que no sean competencia de la federación, y provoquen contaminación en aire, tierra y agua de jurisdicción Estatal y/o Municipal;
+
+III.- Realice obras o actividades, sin obtener, de la autoridad correspondiente, la autorización de impacto y riesgo ambiental, o no implemente las medidas preventivas y correctivas que establecen las normas o disposiciones aplicables o le indique la autoridad competente; para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente; ocasionando daños a la salud pública, la flora, la fauna o a los ecosistemas de jurisdicción Estatal o Municipal;
+
+IV.- Filtre o descargue aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en suelos o en aguas de jurisdicción local o en aguas Federales asignadas para la prestación de servicios públicos Estatales o Municipales, en cantidades o concentraciones que causen o puedan causar daños a la salud pública, a los recursos naturales, la flora, la fauna, o a los ecosistemas;
+
+V.- Genere emisiones de ruido, vibraciones, energía térmica o lumínica, cuando, por su intensidad causen o puedan causar daños graves a la salud pública, a los recursos naturales, la flora, la fauna, o a los ecosistemas;
+
+VI.- No obstante, haber sido sancionado administrativamente por la autoridad competente en dos o más ocasiones, realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de generar calor o energía para uso industrial o personal, provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, a la flora, a la fauna y a los ecosistemas;
+
+VII.- Sin observar los ordenamientos legales aplicables, realice actividades de separación, utilización, acopio, recolección, almacenamiento, transportación, tratamiento o disposición final de residuos de manejo especial, así como la reutilización, acopio, almacenamiento, reciclaje o incineración de residuos sólidos no peligrosos generados por actividades domésticas, industriales, agrícolas o comerciales o de manejo municipal, que generen fauna nociva, causen o puedan causar daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas;
+
+VIII.- Sin la autorización de la autoridad competente o en contravención de las disposiciones legales aplicables, realice quemas para utilizar terrenos con fines agropecuarios, o contando con ella, no tome las medidas necesarias para evitar su propagación a terrenos aledaños;
+
+IX.- Deposite de manera clandestina, escombros o residuos, de cualquier tipo, provenientes de la industria en general, en áreas naturales protegidas, área de valor ambiental, zonas de recarga de mantos acuíferos, barrancas, áreas verdes o en terrenos baldíos, de competencia Estatal o Municipal.
+
+Será considerado como agravante, el que estos residuos industriales se depositen en áreas de recarga de mantos acuíferos, en cuyo caso la pena establecida se aumentara una tercera parte; y
+
+X.- Haya sido sancionado administrativamente en dos o más ocasiones por la autoridad ecológica competente y no obstante ello, persista en la misma conducta dañosa al ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 349 QUINQUIES.- Se impondrá prisión de dos a cuatro años y multa de ciento cincuenta a quinientas veces la Unidad de Medida y Actualización vigente, a los prestadores de servicios ambientales autorizados, Centros de Verificación, laboratorios y/o cualquier persona física o moral que, de manera dolosa o culposa, proporcione documentación o información falsa o alterada, u omita datos, con el objeto de que las autoridades ambientales y/o fiscales competentes, otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo o, cancelen sanciones o créditos fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Esta pena se aumentará en una mitad más, así como, la inhabilitación para ocupar cargos públicos, cuando, en la comisión de esta conducta o cualquier otro delito previsto en este Capítulo, intervenga un servidor público en ejercicio, quien, con motivo de sus funciones y haciendo uso de sus facultades; integre expedientes, otorgue o avale licencias, autorizaciones, registros, constancias o permisos de cualquier tipo que pongan en riesgo la salud pública, el medio ambiente o los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 SEXIES.- Para estimar el potencial dañoso de las conductas previstas en este Capítulo, se atenderá a los parámetros máximos permisibles que establezcan las normas oficiales mexicanas y normas técnicas ecológicas locales y, en todo caso, al examen de peritos.
+
+En territorio decretado como área natural protegida, la pena se aumentará hasta en una mitad más.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 SEPTIES.- No se impondrá pena alguna a quien, por su escasa instrucción y extrema necesidad económica, realice aprovechamientos naturales en cantidades estrictamente necesarias para su consumo familiar y/o doméstico, siempre y cuando estos productos no salgan del lugar de su vecindad inmediata.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 OCTIES.- El Juez ordenará, como medida cautelar, a petición del ministerio público, con carácter temporal en tanto se dicta sentencia firme, la suspensión inmediata de la actividad o fuente contaminante; así como, el aseguramiento de los materiales, aparatos, maquinaria u objetos que estén causando daño o puedan poner en peligro al medio ambiente, sin perjuicio de lo que puedan disponer las autoridades administrativas competentes, de igual forma podrá ordenar:
+
+I.- Alguna de las medidas de seguridad contempladas en el Artículo 52 de este Código;
+
+II.- La Suspensión y, en su caso, la destitución de servidores públicos, en los casos en que se acredite su participación en la conducta ilícita, independientemente de la pena que les corresponda como responsables del delito, de igual forma se aplicará esta medida con la inhabilitación de los derechos para ejercer, a los profesionistas o peritos que se adecuen a esta conducta; y
+
+III.- Para los efectos de los delitos contra el medio ambiente, la reparación del daño incluirá además:
+
+a).- La realización de acciones necesarias encaminadas a restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
+
+b).- La suspensión de actividades, construcciones u obras, así como su modificación o demolición; y
+
+c).- El embargo, desmantelamiento o destrucción de maquinaria o instrumentos que hubieran dado lugar al daño ambiental tipificado como delito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 NONIES.- La reducción de las penas por los delitos previstos en este Título, podrá decretarla el Juez, de oficio o a petición de parte; hasta en tres cuartas partes, cuando el agente, en forma voluntaria, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta y, cuando esto no sea posible, será mediante la ejecución de acciones u obras que compensen los daños ambientales que se hubieren generado.
+
+A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo el dictamen técnico favorable emitido por la autoridad ambiental competente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2016)</small>
+
+###### ARTICULO 323.
+
+Al que para perjudicar a alguien u obtener un beneficio indebido para sí o para otro, simule un acto jurídico o un acto o escrito judiciales o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendiente a inducir a error ante la autoridad judicial o administrativa, con el fin de obtener sentencia o resolución, contraria a la ley, se le impondrá prisión de uno a siete años y multa de 30 a 300 días.
+
+Cuando un abogado sea autor o partícipe en la comisión de este tipo penal, además, se le impondrá suspensión de hasta tres años para ejercer la profesión.
+
 ### CAPÍTULO III TER. DELITOS EN CONTRA DE LOS ANIMALES
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
@@ -3843,19 +3875,11 @@ III. Maltrato: Actos que siendo innecesarios dañan la salud, integridad física
 
 ARTICULO 349 DUODECIES.- Se impondrán de tres meses a dos años de prisión y multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, a quien organice, realice, promueva, anuncie, promocione, difunda, fináncie, patrocine o presencie, cualquier acto cuyo objetivo sea la pelea de perros, así como a quien permita que se realice en inmuebles de su propiedad o bajo su posesión.
 
-###### ARTICULO 323.
-
-Al que para perjudicar a alguien u obtener un beneficio indebido para sí o para otro, simule un acto jurídico o un acto o escrito judiciales o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendiente a inducir a error ante la autoridad judicial o administrativa, con el fin de obtener sentencia o resolución, contraria a la ley, se le impondrá prisión de uno a siete años y multa de 30 a 300 días.
-
-Cuando un abogado sea autor o partícipe en la comisión de este tipo penal, además, se le impondrá suspensión de hasta tres años para ejercer la profesión.
-
-### CAPITULO IV. APROVECHAMIENTO INDEBIDO DE BIENES EJIDALES O COMUNALES
-
 ###### ARTICULO 324.
 
 Al que con propósito de inculpar a alguien como responsable de un delito ante la autoridad, le impute un hecho falso o simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de seis meses a tres años y de 10 a 50 días multa.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. APROVECHAMIENTO INDEBIDO DE BIENES EJIDALES O COMUNALES
 
 ###### ARTICULO 325.
 
@@ -3891,7 +3915,7 @@ Cuando la evasión de presos la propicien dos o más personas, la punibilidad pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
-### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 330.
 
@@ -3901,7 +3925,7 @@ Al que favorezca el incumplimiento de la pena o medida de seguridad, se le impon
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
-### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
+### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
 
 ###### ARTICULO 331.
 
@@ -3937,13 +3961,13 @@ c).- Los que estén ligados con el delincuente por amor, respeto, gratitud o est
 
 El encubrimiento se perseguirá a petición de parte ofendida, cuando se refiera a tipo penal también perseguible por querella.
 
-### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
+### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
 
 ###### ARTICULO 332.
 
 Al que para hacer efectivo un derecho o pretendido derecho que debe ejercitar por vía legal, empleare violencia, se le aplicará prisión de tres meses a tres años y de 10 a 40 días multa. Este delito se perseguirá a petición de parte ofendida.
 
-### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
+### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
 
 ###### ARTICULO 333.
 
@@ -3971,9 +3995,7 @@ Los litigantes sólo cometerán estos delitos, cuando no sean ostensiblemente pa
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2018)</small>
 
-### CAPITULO ÚNICO. USURPACIÓN DE IDENTIDAD
-
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
 
 ###### ARTICULO 334.
 
@@ -4018,6 +4040,10 @@ Cuando el infractor fuere una persona jurídica colectiva, se aplicará la regla
 ###### ARTICULO 338.
 
 Se aplicará prisión de uno a cinco años y multa de 20 a 100 días, al patrón que con el solo propósito de eludir el cumplimiento de las obligaciones que le impone la Ley Federal del Trabajo, impute indebidamente a uno o más trabajadores, la comisión de un delito o falta.
+
+### CAPITULO ÚNICO. USURPACIÓN DE IDENTIDAD
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 339.
 
@@ -4542,3 +4568,9 @@ P.O. 31 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de tortura y desaparición forzada se seguirán tramitando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 414 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
