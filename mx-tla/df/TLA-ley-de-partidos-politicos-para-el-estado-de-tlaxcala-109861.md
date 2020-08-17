@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-partidos-politicos-para-el-estado-de-tlaxcala-109861"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2019-06-18"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE PARTIDOS POLÍTICOS PARA EL ESTADO DE TLAXCALA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 3 de septiembre de 2015.
 
@@ -63,9 +63,11 @@ Los Partidos Políticos en el Estado tienen la obligación insoslayable de promo
 
 La interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos deberá tomar en cuenta el carácter de entidad de interés público de éstos como organizaciones de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus afiliados o militantes, basados éstos en lo mandatado por sus propios estatutos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 5.
 
-Son derechos político-electorales de los ciudadanos tlaxcaltecas, con relación a los partidos políticos, los siguientes:
+Son derechos político-electorales de las ciudadanas y los ciudadanos tlaxcaltecas, con relación a los partidos políticos, los siguientes:
 
 a) Asociarse o reunirse pacíficamente para tomar parte en los asuntos políticos del Estado;
 
@@ -127,9 +129,13 @@ XII. Tribunal o Tribunal Electoral: al Tribunal Electoral de Tlaxcala, y
 
 XIII. Tribunal Federal: El Tribunal Electoral del Poder Judicial de la Federación.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-XIV. Violencia política: Es toda acción y omisión, incluida la tolerancia, que basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
+XIV. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XIV, P.O. 17 DE AGOSTO DE 2020]</small>
+
+Se entenderá que las acciones u omisiones se basan en elementos de género cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
 ###### Artículo 11.
 
@@ -181,7 +187,29 @@ VII. Fomentar los principios democráticos en el desarrollo de sus actividades;
 
 VIII. Fomentar el empoderamiento de las mujeres mediante programas de capacitación política continua; y
 
-IX. Garantizar y cumplir con la paridad de género conforme a lo dispuesto por la Constitución Local, las leyes en la materia y sus estatutos.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+IX. Garantizar y cumplir con la paridad de género conforme a lo dispuesto por la Constitución Local, las leyes en la materia y sus estatutos;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+X. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XI. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de la Ley de Acceso a una Vida Libre de Violencia en el Estado de Tlaxcala;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XII. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XIII. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la presente Ley, dentro de los cuales deberán informar trimestralmente de manera pormenorizada y justificada sobre la aplicación de los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XIV. Las demás que establezcan las leyes generales o locales aplicables.
 
 ###### Artículo 14.
 
@@ -359,9 +387,13 @@ IV. La obligación de conducir sus actividades por medios pacíficos y por la v�
 
 V. No aceptar ni emplear apoyos que tengan origen ilícito;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-VI. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres; y
+VI. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres, para lo cual deberán:
+
+a) Promover, proteger y respetar los derechos políticos y electorales de las mujeres, establecidos en la Constitución Federal y en los tratados internacionales firmados y ratificados por México, e
+
+b) Establecer mecanismos de sanción aplicables a quien o quienes ejerzan violencia política contra las mujeres en razón de género, acorde a lo establecido en la Ley de Instituciones y Procedimientos Electorales para el Estado de Tlaxcala, en la Ley de Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala y las demás leyes aplicables, y
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -377,9 +409,9 @@ I. Medidas congruentes que permitan cumplir los postulados y alcanzar los objeti
 
 II. Acciones de formación ideológica y política de sus afiliados, infundiendo en ellos el respeto al adversario y sus derechos en la lucha política con el fin de evitar acciones u omisiones que constituyan violencia política contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-III. Acciones para fomentar el empoderamiento de las mujeres mediante programas de capacitación política continua;
+III. Acciones para fomentar el empoderamiento de las mujeres mediante programas de capacitación política continua y formar ideológica y políticamente a las y los militantes a través de la participación política de las y los militantes y el establecimiento de mecanismos de promoción y acceso de las mujeres a la actividad política del partido, así como la formación de liderazgos y preparación de las y los militantes en los procesos electorales;
 
 IV. Instrumentos de promoción de cultura política democrática entre la ciudadanía, que incidan en su participación en los procesos políticos, electorales y de consulta ciudadana en el Estado, los municipios y las comunidades; y
 
@@ -413,7 +445,9 @@ VII. Las normas para garantizar la paridad y alternancia de género, así como c
 
 VIII. La obligación de presentar una plataforma electoral para cada elección en que participe, sustentada en su declaración de principios y programa de acción;
 
-IX. La obligación de sus candidatos de sostener y difundir la plataforma electoral, durante la campaña electoral en que participen;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+IX. La obligación de sus candidatas y candidatos de sostener y difundir la plataforma electoral, durante la campaña electoral en que participen;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -421,13 +455,23 @@ X. La obligación de sus militantes y candidatos de actuar con respeto hacia sus
 
 XI. Los tipos y las reglas de financiamiento privado a los que recurrirán;
 
-XII. Las normas, plazos, procedimientos, medios de impugnación y órganos de justicia intrapartidaria o interna y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XII. Las normas, plazos, procedimientos, medios de impugnación y órganos de justicia intrapartidaria o interna y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de las y los militantes, así como la oportunidad y legalidad de las resoluciones;
 
 XIII. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario o interno, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva;
 
 XIV. El procedimiento interno para devolver activos adquiridos por medio de financiamiento público, en caso de pérdida de registro, y
 
 XV. En su caso, las normas relativas al proceso de disolución.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVI. Los mecanismos y procedimientos que permitirán garantizar la integración de liderazgos políticos de mujeres al interior del partido, y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVII. Los mecanismos que garanticen la prevención, atención y sanción de la violencia política contra las mujeres en razón de género.
 
 ### CAPÍTULO III. De los Derechos y Obligaciones de los Militantes
 
@@ -497,11 +541,17 @@ III. Un órgano responsable de la administración de su patrimonio y recursos fi
 
 IV. Un órgano de decisión colegiada, democráticamente integrado, responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidatos a cargos de elección popular;
 
-V. Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+V. Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial, objetivo y aplicará la perspectiva de género en todas las resoluciones que emita;
 
 VI. Un órgano encargado de cumplir con las obligaciones de transparencia y acceso a la información que la Constitución Federal y las leyes de la materia imponen a los partidos políticos, y
 
 VII. Un órgano encargado de la educación y capacitación cívica de los militantes y dirigentes.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+En dichos órganos internos se garantizará el principio de paridad de género.
 
 ### CAPÍTULO V. De los Procesos de Integración de Órganos Internos y de Selección de Candidatos
 
@@ -533,7 +583,9 @@ II. El órgano colegiado a que se refiere la fracción IV del artículo anterior
 
 a) Registrará a los precandidatos o candidatos y dictaminará sobre su elegibilidad, y
 
-b) Garantizará la imparcialidad, equidad, transparencia y legalidad de las etapas del proceso.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+b) Garantizará la imparcialidad, equidad, transparencia, igualdad, paridad y legalidad de las etapas del proceso.
 
 ###### Artículo 34.
 
@@ -565,7 +617,9 @@ IX. El Instituto únicamente podrá rechazar la solicitud si existe imposibilida
 
 Los partidos políticos establecerán procedimientos de justicia intrapartidaria que incluyan mecanismos alternativos de solución de controversias, en los cuales al menos deberá señalarse:
 
-I. El órgano de decisión colegiado de justicia intrapartidaria, deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de miembros; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así como con respeto a los plazos que establezcan los estatutos de los partidos políticos, y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+I. El órgano de decisión colegiado de justicia intrapartidaria, deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de miembros; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, asimismo deberán sustanciar cualquier procedimiento con perspectiva de género y con respeto a los plazos que establezcan los estatutos de los partidos políticos, y
 
 II. Los estatutos de los partidos políticos establecerán medios alternativos de solución de controversias sobre asuntos internos, para lo cual deberán prever los supuestos en los que serán procedentes, la sujeción voluntaria, los plazos y las formalidades del procedimiento.
 
@@ -1101,9 +1155,13 @@ III. Las cantidades que, en su caso, se determinen para cada partido, serán ent
 
 IV. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere el inciso c) de este artículo, y
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-V. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político destinará anualmente, el seis por ciento del financiamiento público ordinario.
+V. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el seis por ciento del financiamiento público ordinario, para lo cual deberán:
+
+a) Crear o fortalecer mecanismos para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género, e
+
+b) Realizar propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia.
 
 B. Para gastos de Campaña:
 
@@ -1632,3 +1690,15 @@ El presente Decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 209.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTIDOS POLÍTICOS, DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO Y DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL, TODAS DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido de este Decreto.
