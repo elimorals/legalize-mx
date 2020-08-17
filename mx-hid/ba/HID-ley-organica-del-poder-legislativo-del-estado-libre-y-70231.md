@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2018-08-01"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -39,7 +39,9 @@ QUE CONTIENE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO 
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -170,6 +172,10 @@ Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presi
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 Por acuerdo de la Junta de Gobierno y con la aprobación del Pleno, la Legislatura podrá sesionar fuera del recinto oficial, con el objeto de promover la participación ciudadana, la máxima publicidad y la transparencia en la función legislativa.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 12 BIS.- Cuando por razones de emergencias sanitarias declaradas por autoridad competente, desastres naturales o por causas que impidan la presencia física de la totalidad de las y los Diputados durante las sesiones del Pleno, de la Diputación Permanente, de la Junta de Gobierno, de la Directiva del Congreso o de las Comisiones Permanentes o Especiales, cuando formen parte de estas, se podrá sesionar de manera virtual; para desahogar el proceso legislativo durante el desarrollo de esas sesiones, previo Acuerdo emitido por la Junta de Gobierno y aprobado por las dos terceras partes de las y los diputados que conforman la Legislatura.
 
 ###### ARTÍCULO 13.
 
@@ -347,7 +353,9 @@ III.- Cumplir con las encomiendas que le sean asignadas por el Pleno, la Diputac
 
 IV.- Informar por escrito a la Directiva sobre el cumplimiento y resultados de las encomiendas, representaciones y Comisiones Especiales que les asignen;
 
-V.- Permanecer en el Salón de Sesiones del Pleno, de la Diputación Permanente o de las Comisiones, durante el desarrollo de las Sesiones;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+V.- Permanecer en el Salón de Sesiones del Pleno, de la Diputación Permanente o de las Comisiones, durante el desarrollo de las Sesiones o, en su caso, en línea durante las Sesiones Virtuales;
 
 VI.- Conducirse con respeto en sus intervenciones durante las Sesiones y los Trabajos Legislativos en los que participe, absteniéndose de ejecutar ademanes y pronunciar palabras ofensivas o injuriosas en contra de los miembros del Congreso del Estado o de terceros, así como realizar cualquier otro acto que altere el desarrollo de las Sesiones;
 
@@ -407,9 +415,11 @@ Asimismo, deberán anteponer sus funciones de representantes populares, sobre cu
 
 ### CAPÍTULO IV. DE LA DISCIPLINA DE LOS DIPUTADOS
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTÍCULO 33.
 
-Los Diputados guardarán el debido respeto y compostura en el interior del Recinto Oficial, en las Sesiones y en cualquier acto de carácter oficial.
+Los Diputados guardarán el debido respeto y compostura en el interior del Recinto Oficial, en las Sesiones Presenciales y Virtuales y en cualquier acto de carácter oficial.
 
 ###### ARTÍCULO 34.
 
@@ -419,9 +429,11 @@ Los Diputados observarán las normas de cortesía y respeto para los demás miem
 
 Los Diputados en el ejercicio de sus funciones, tanto al Recinto Oficial como fuera de él, observarán una conducta y comportamiento en congruencia con su dignidad de representantes populares.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTÍCULO 36.
 
-Los Diputados durante sus intervenciones en la Tribuna o en cualquier acto oficial, se abstendrán de afectar o lesionar la dignidad de otro Diputado, demás servidores públicos así como de cualquier otra persona.
+Los Diputados durante sus intervenciones en la Tribuna, durante el desarrollo de las Sesiones Virtuales o en cualquier acto oficial, se abstendrán de afectar o lesionar la dignidad de otro Diputado, demás servidores públicos, así como de cualquier otra persona.
 
 ### CAPÍTULO V. DE LAS SANCIONES DISCIPLINARIAS
 
@@ -557,9 +569,11 @@ El Pleno, es el órgano máximo de deliberación y debate del Congreso del Estad
 
 Se reunirá válidamente con la presencia de la mayoría de sus miembros y adoptará sus decisiones por mayoría simple de los presentes, salvo en los casos de excepción señalados en esta Ley y en la Constitución Política del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTÍCULO 52.
 
-El Pleno, sesionará en los períodos establecidos por el Artículo 38 de la Constitución Política del Estado de Hidalgo y 5 de esta Ley.
+El Pleno sesionará de manera presencial o si fuera el caso virtual conforme a lo establecido en el artículo 12 BIS de la presente Ley, en los períodos establecidos por el Artículo 38 de la Constitución Política del Estado de Hidalgo y 5 de esta Ley.
 
 ### CAPÍTULO III. DE LA DIRECTIVA DEL CONGRESO
 
@@ -623,9 +637,11 @@ II.- Incumplir los acuerdos del Congreso; y
 
 III.- Faltar injustificadamente, a tres Sesiones consecutivas del Pleno o de la Diputación Permanente, en su caso o a reuniones de la Directiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTÍCULO 61.
 
-La Directiva del Congreso, se reunirá una vez por semana y tendrá las siguientes atribuciones:
+La Directiva del Congreso, se reunirá de manera presencial o virtual conforme a lo establecido en el artículo 12 BIS, una vez por semana y tendrá las siguientes atribuciones:
 
 I.- Conocer de los asuntos que sean dirigidos al Congreso del Estado;
 
@@ -653,9 +669,13 @@ En el ejercicio de sus atribuciones debe velar por el equilibrio entre las liber
 
 Son atribuciones del Presidente de la Directiva del Congreso:
 
-I.- Presidir las Sesiones y coordinar las acciones de la Directiva del Congreso;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-II.- Presidir, citar, abrir, suspender, levantar y clausurar las Sesiones del Congreso;
+I.- Presidir las Sesiones Presenciales o, en su caso, Virtuales y coordinar las acciones de la Directiva del Congreso;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+II.- Presidir, citar, abrir, suspender, levantar y clausurar las Sesiones Presenciales y Virtuales del Congreso;
 
 III.- Dar curso reglamentario, a los planteamientos y dictar los trámites que deban recaer en los asuntos con que se dé cuenta al Congreso;
 
@@ -791,9 +811,11 @@ El Pleno cuidará que en la composición de la Diputación Permanente, estén re
 
 La Diputación Permanente se instalará al término de la última Sesión Ordinaria; debiendo remitir las comunicaciones a que se refiere el Artículo 58 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### ARTÍCULO 72.
 
-Las Sesiones de la Diputación Permanente, tendrán lugar, cuando menos, una vez a la semana, en los días y horas que ésta determine.
+Las Sesiones de la Diputación Permanente serán presenciales o, si fuera el caso, virtuales conforme a lo establecido en el artículo 12 BIS de la presente Ley, tendrán lugar, cuando menos, una vez a la semana, en los días y horas que ésta determine.
 
 Las Sesiones serán válidas, cuando se encuentren presentes por lo menos cinco de los Diputados integrantes de la Diputación Permanente.
 
@@ -1003,9 +1025,13 @@ Las comisiones permanentes, a excepción de la Inspectora de la Auditoria Superi
 
 A las primeras Comisiones, pasarán los asuntos para su estudio y dictamen o resolutivo, y a las segundas, los Proyectos o Acuerdos que hubieren sido vetados por el Titular del Poder Ejecutivo del Estado, a fin de realizar nuevo estudio, con vista a las objeciones hechas, pudiendo formular modificaciones y adiciones a los proyectos presentados.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
-Las Comisiones Permanentes podrán sesionar de manera conjunta con otras Comisiones para el estudio de iniciativas, planteamientos o asuntos generales que les sean turnados por la Directiva del Congreso, bajo la modalidad de Comisiones Conjuntas. Para tal efecto, la asistencia y el registro de votaciones se computarán por separado, siendo la primera Comisión nombrada, la encargada de coordinar los trabajos de dictamen o de emisión de resolutivos.
+Las Comisiones Permanentes podrán sesionar, sea presencial o si fuera el caso virtual conforme a lo establecido en el artículo 12 BIS de la presente Ley, de manera conjunta con otras Comisiones para el estudio de iniciativas, planteamientos o asuntos generales que les sean turnados por la Directiva del Congreso, bajo la modalidad de Comisiones Conjuntas. Para tal efecto, la asistencia y el registro de votaciones se computarán por separado, siendo la primera Comisión nombrada, la encargada de coordinar los trabajos de dictamen o de emisión de resolutivos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+La Comisión Instructora bajo ninguna circunstancia podrá sesionar de manera virtual para desahogar el procedimiento de Juicio Político y los asuntos y términos que tengan pendientes de resolver sobre este quedarán suspendidos hasta en tanto no se den las condiciones para que sesione de manera presencial.
 
 ###### ARTÍCULO 80.
 
@@ -1161,7 +1187,9 @@ V. En caso de ausencia temporal o definitiva de los integrantes de la Junta podr
 
 Para el funcionamiento de la Junta de Gobierno, se observará lo siguiente:
 
-I.- La Junta de Gobierno, deberá reunirse cuando menos dos veces por mes durante los Periodos Ordinarios y fuera de éstos, por lo menos una. Las reuniones serán convocadas a solicitud del Presidente de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+I.- La Junta de Gobierno deberá reunirse de manera presencial o si fuera el caso virtual, conforme a lo establecido en el artículo 12 BIS de la presente Ley, cuando menos dos veces por mes durante los Períodos Ordinarios y fuera de estos, por lo menos una. Las reuniones serán convocadas a solicitud del Presidente de la Junta de Gobierno;
 
 II.- La Junta de Gobierno, tomará sus decisiones por consenso, pero en el caso de que éste no se obtenga, las adoptará por mayoría de votos de los Coordinadores de los Grupos Legislativos quienes dispondrán de voto ponderado conforme al número de Diputados que integren sus respectivos Grupos respecto del total de la Legislatura;
 
@@ -1193,6 +1221,10 @@ VII.- Proponer al Pleno la convocatoria que contendrá el procedimiento para nom
 
 VIII.- Proponer al Pleno la convocatoria que contendrá el procedimiento para constituir la Comisión de Selección, a que hace referencia la Ley del Sistema Estatal Anticorrupción;
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+VIII BIS.- Proponer el Acuerdo por el cual se pueden realizar Sesiones Virtuales en los casos establecidos en el Artículo 12 BIS de esta ley;
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2017)</small>
 
 IX.- Las demás que le encomiende el Pleno del Congreso, la presente Ley, su Reglamento y demás ordenamientos legales.
@@ -1209,7 +1241,9 @@ III.- Representar al Congreso del Estado, en actos convocados por cualquiera de 
 
 IV.- Coordinar el funcionamiento interno de la Junta de Gobierno;
 
-V.- Convocar a Sesiones de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+V.- Convocar a Sesiones Presenciales o Virtuales de la Junta de Gobierno;
 
 VI.- Ejecutar los Acuerdos de la Junta de Gobierno; proveyendo lo necesario para su debido cumplimiento;
 
@@ -1217,7 +1251,7 @@ VII.- Presidir la Comisión Inspectora de la Auditoria Superior;
 
 VIII.- Presentar a la Junta de Gobierno el Proyecto de Presupuesto Anual de Egresos del Poder Legislativo, para su Acuerdo;
 
-IX.-. Proponer al Pleno del Congreso, previo Acuerdo de la Junta de Gobierno, a las personas que habrán de ocupar los cargos de Auditor Superior del Estado y del Secretario de Servicios Legislativos;
+IX.- Proponer al Pleno del Congreso, previo Acuerdo de la Junta de Gobierno, a las personas que habrán de ocupar los cargos de Auditor Superior del Estado y del Secretario de Servicios Legislativos;
 
 X.- Dirigir y supervisar la organización y funcionamiento administrativo del Congreso;
 
@@ -1279,6 +1313,18 @@ VII.- Las demás que le confiera la Junta de Gobierno; la Presidencia de la Junt
 
 La Sesión es el tiempo que emplea el Congreso del Estado para tratar en el Pleno, en la Diputación Permanente o en Comisiones, de acuerdo a un Orden del Día aprobado, los asuntos cuyo conocimiento, discusión, dictaminación, votación y aprobación, son de su competencia.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Las sesiones serán presenciales conforme a lo establecido en el presente capítulo, y podrán ser virtuales para los casos establecidos en el artículo 12 BIS de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Son Sesiones Virtuales, las sesiones del Pleno, de la Diputación Permanente, Junta de Gobierno, Directiva del Congreso y Comisiones Permanentes o Especiales, que se realizan utilizando cualquiera de las tecnologías de información y comunicación asociadas a la red de Internet, que garanticen tanto la posibilidad de una comunicación simultánea entre los diputados en funciones durante toda la sesión, como su expresión mediante documentación electrónica que permita el envío de video, imagen, sonido y datos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Para el desarrollo del Proceso Legislativo durante las Sesiones Virtuales se estará a lo establecido específicamente para estas en la presente Ley y en su caso, en el Acuerdo de la Junta de Gobierno, por el que se apruebe el desarrollo de las Sesiones Virtuales conforme a lo establecido en el artículo 12 BIS. A falta de señalamiento expreso, se estará a lo establecido en la presente Ley y su Reglamento para las Sesiones Presenciales.
+
 ###### ARTÍCULO 104.
 
 Para que puedan celebrarse legalmente las Sesiones, será necesario que concurran, cuando menos, la mitad más uno del número total de Diputados que integran el Pleno.
@@ -1330,6 +1376,14 @@ En caso de persistir la falta de Quórum, podrán ser llamados los Diputados Sup
 Las Sesiones del Congreso del Estado, podrán ser Públicas o Secretas. Serán Secretas, las Sesiones en que se traten los siguientes asuntos: las acusaciones que se presenten contra los Servidores Públicos a que se refieran los ordenamientos en materia de responsabilidades de servidores públicos; las comunicaciones que se dirijan a la Legislatura con la nota de reservado; los trámites que la Directiva considere para tal efecto y cuando se desahoguen asuntos en que uno o más Diputados, soliciten sean tratados de ésta manera, con la aprobación de la mayoría.
 
 A las Sesiones Secretas, podrán asistir, además de los Diputados, los Servidores Públicos del Congreso del Estado, que sean estrictamente necesarios, quienes están obligados a guardar la más absoluta reserva de Ley, sobre los asuntos tratados en ellas.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Las Sesiones Secretas bajo ninguna circunstancia podrán realizarse de manera virtual.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 112 BIS.- Las Sesiones Virtuales serán públicas y transmitidas en vivo, salvo lo estipulado en el artículo 112 de esta Ley.
 
 ###### ARTÍCULO 113.
 
@@ -1409,9 +1463,93 @@ Los Servidores Públicos del Poder Ejecutivo, asistirán a las Sesiones, siempre
 
 Igualmente podrán ser citados en los mismos términos del párrafo anterior, los integrantes y Servidores Públicos de los Ayuntamientos, de los Organismos Autónomos y cualquier persona física o moral, que reciban, por cualquier titulo recursos públicos.
 
-### CAPÍTULO II. DE LA APERTURA Y CLAUSURA DE LOS PERIODOS DE SESIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE AGOSTO DE 2020)</small>
 
-### CAPÍTULO III. DE LAS INICIATIVAS
+### CAPÍTULO I BIS. DEL PROCESO DE LAS SESIONES VIRTUALES
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 BIS.- Las Sesiones Virtuales se desarrollarán previa Convocatoria emitida por las respectivas presidencias de la Directiva, la Junta de Gobierno o las Comisiones Permanentes y Especiales, para el caso del Pleno deberán seguirse las reglas establecidas en el Reglamento y para el caso de las Comisiones Permanentes y Especiales se enviarán por lo menos (sic) veinticuatro horas de anticipación a la celebración de la Sesión, para ello aplicarán, en lo máximo posible, todas las disposiciones del procedimiento a que se refieren la Constitución Política del Estado de Hidalgo, la Ley Orgánica del Poder Legislativo del Congreso del Estado Libre y Soberano de Hidalgo, así como su Reglamento y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 TER.- Para que puedan ser llevadas a cabo las Sesiones Virtuales del Pleno, de la Junta de Gobierno, de la Diputación Permanente o de las Comisiones, se requiere que estas cuenten con quórum legal, establecido por la asistencia de la mayoría (sic) sus integrantes.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 QUATER.- La Directiva del Congreso del Estado Libre y Soberano de Hidalgo en funciones, deberá dirigir las sesiones virtuales del Pleno desde las instalaciones del Congreso, para dotar de certeza, legalidad y ejercer las atribuciones que la Ley Orgánica del Poder Legislativo del Congreso del Estado Libre y Soberano de Hidalgo, su Reglamento y demás normativa aplicable les concede.
+
+Para el caso de las Sesiones Virtuales del Pleno, se deberá contar con la presencia de la persona titular de la Secretaría de Servicios Legislativos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 QUINQUIES.- Para la integración del Orden del Día de las Sesiones Virtuales, los documentos deberán satisfacer los requisitos establecidos en esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 SEXIES.- La persona titular de las respectivas presidencias de la Directiva, la Junta de Gobierno o las Comisiones Permanentes y Especiales, para las Sesiones Virtuales tendrá las siguientes atribuciones:
+
+I. Convocar y presidir las Sesiones Virtuales;
+
+II. Declarar el inicio y el término de cada sesión, en su caso, acordar el diferimiento por falta de quórum legal;
+
+III. Someter a votación de los (sic) todos los asuntos que requieran aprobación en las Sesiones Virtuales;
+
+IV. Decretar los recesos que considere necesarios durante el desarrollo de una Sesión;
+
+V. Declarar, por causa de fuerza mayor, la suspensión temporal o definitiva de la Sesión;
+
+VI. Verificar el soporte técnico y de apoyo para las Sesiones Virtuales;
+
+VII. Tomar las decisiones y medidas necesarias para el adecuado desarrollo de las Sesiones; y
+
+VIII. Las demás que le confiera la Ley, su Reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 SEPTIES.- Las y los Diputados del Congreso del Estado Libre y Soberano de Hidalgo que participen en las Sesiones Virtuales, deberán procurar las siguientes reglas de interacción y comportamiento:
+
+I. Ser puntual a la hora de ingresar a la Plataforma tecnológica
+
+II. Ingresar a la Sesión Virtual debidamente identificado con su nombre y apellidos
+
+III. Mantenerse en cuadro durante la Sesión para la verificación de su presencia a la Sesión y validación de sus participaciones o en todo caso, dar aviso a la Presidencia del motivo de su separación;
+
+V (SIC). Hacer uso de la palabra cuando la Presidencia de la Directiva así lo apruebe;
+
+VI. Tener cerrado el micrófono hasta que le sea otorgado el uso de la voz por parte de la Presidencia de la Directiva;
+
+VII. Mantener en todo momento el video activo, es decir, deberán mostrar la imagen durante el desarrollo de la Sesión; y
+
+VIII. Cumplir con las reglas de participación, deliberaciones, debates y los procedimientos previstos en la Ley.
+
+En caso de presentar alguna falla técnica deberán avisar por cualquier medio de manera inmediata a la Presidencia, quien dará aviso de la situación a las y los Diputados y al Soporte Técnico para que se les apoye.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 OCTIES.- Para la votación de los todos los asuntos que requieran aprobación en Sesiones Virtuales, se requerirá una votación nominal tomada por la persona titular de la Secretaría, conforme el siguiente procedimiento:
+
+I. La Secretaría mencionará el nombre y apellidos de las y los diputados, quienes deberán responder con el sentido de su voto: a favor, en contra o abstención.
+
+II. Posteriormente, la Secretaría dará a conocer a la Presidencia el resultado de la votación, para la declaratoria correspondiente.
+
+La Presidencia dará a conocer el resultado de la votación.
+
+En cualquier momento y hasta antes de la declaratoria realizada por la Presidencia, cualquier integrante podrá solicitar a la Secretaría la lectura en voz alta del sentido de la votación de algún diputado.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 NONIES.- Para el registro de la sesión virtual, se deberá tomar en cuenta lo siguiente:
+
+I. Debe existir el registro digital de cada una de las Sesiones Virtuales, el cual se realizará mediante los medios tecnológicos que satisfagan los protocolos y requerimientos técnicos emanados de los órganos de soporte técnico y de apoyo; y
+
+II. Toda Sesión Virtual debe contar con un acta, en la cual se debe incluir el control manual o el reporte de los medios electrónicos utilizados que permitieron comprobar la identidad de las personas asistentes. La custodia de la grabación estará a cargo de la Secretaría de Servicios Legislativos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 119 DECIES.- Durante las discusiones, las Diputadas y los Diputados podrán ejercer su derecho de hacer uso de la palabra en las modalidades, intervenciones, alusiones personales, mociones y tiempos establecidos por la Ley y su Reglamento. Cuando la plataforma tecnológica permita la interacción por escrito, ninguna persona podrá escribir en el espacio dispuesto para tal fin, sin solicitar antes la palabra a la Presidencia.
+
+### CAPÍTULO II. DE LA APERTURA Y CLAUSURA DE LOS PERIODOS DE SESIONES
 
 ###### ARTÍCULO 120.
 
@@ -1431,27 +1569,7 @@ Una vez designada la Directiva de la Diputación Permanente, el día de la Apert
 
 Terminados los trabajos de la Diputación Permanente, el día de la Clausura, el Presidente de la Directiva, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la... (número de orden) Legislatura del Congreso del Estado de Hidalgo, clausura hoy (día, mes y año) las Sesiones correspondientes al (primero, segundo, tercero, cuarto...) receso del (primer, segundo o tercer) año de Ejercicio Constitucional.
 
-### CAPÍTULO III BIS. DE LO (SIC) ASUNTOS GENERALES
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
-
-ARTÍCULO 131 BIS.- Los Diputados podrán participar dentro de la sesión con Asuntos Generales, para lo cual deberán registrar su participación presentando la propuesta por escrito, en los términos que establezca esta Ley o su Reglamento. En lo no previsto se estará a lo que acuerde el Pleno a propuesta de la Junta de Gobierno.
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
-
-ARTÍCULO 131 TER.- Las participaciones en Asuntos Generales podrán ser:
-
-I. Propuestas de Acuerdos Económicos;
-
-II. Efemérides;
-
-III. Posicionamientos;
-
-IV. Informativos; o
-
-V. Cualquier asunto que no requiera deliberación ni aprobación por medio de Dictamen.
-
-Expuesto el tema en el Pleno, los demás Diputados podrán solicitar el uso de la palabra para abundar sobre el tema, hasta por diez minutos.
+### CAPÍTULO III. DE LAS INICIATIVAS
 
 ###### ARTÍCULO 124.
 
@@ -1555,9 +1673,29 @@ En la reforma, derogación o abrogación de Leyes o Decretos del Congreso del Es
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO IV. DE LOS ACUERDOS ECONÓMICOS
+### CAPÍTULO III BIS. DE LO (SIC) ASUNTOS GENERALES
 
-### CAPÍTULO V. DE LOS DICTÁMENES
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 131 BIS.- Los Diputados podrán participar dentro de la sesión con Asuntos Generales, para lo cual deberán registrar su participación presentando la propuesta por escrito, en los términos que establezca esta Ley o su Reglamento. En lo no previsto se estará a lo que acuerde el Pleno a propuesta de la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+
+ARTÍCULO 131 TER.- Las participaciones en Asuntos Generales podrán ser:
+
+I. Propuestas de Acuerdos Económicos;
+
+II. Efemérides;
+
+III. Posicionamientos;
+
+IV. Informativos; o
+
+V. Cualquier asunto que no requiera deliberación ni aprobación por medio de Dictamen.
+
+Expuesto el tema en el Pleno, los demás Diputados podrán solicitar el uso de la palabra para abundar sobre el tema, hasta por diez minutos.
+
+### CAPÍTULO IV. DE LOS ACUERDOS ECONÓMICOS
 
 ###### ARTÍCULO 132.
 
@@ -1613,7 +1751,7 @@ Cuando en el Congreso se discuta una propuesta de Acuerdo Económico y no fuere 
 
 ARTÍCULO 138 BIS. Cuando del análisis de una Iniciativa, planteamiento o asunto general, se desprenda que el mismo no tiene viabilidad o es necesario enriquecerlo, la Comisión emitirá un Acuerdo Interno, para que el asunto de que se trate sea retirado de la Agenda Legislativa y entregado al promovente, de acuerdo con lo señalado en el artículo 67 del Reglamento.
 
-### CAPÍTULO VI. DE LAS DISCUSIONES
+### CAPÍTULO V. DE LOS DICTÁMENES
 
 ###### ARTÍCULO 139.
 
@@ -1653,7 +1791,7 @@ Presentados los Dictámenes, se les dará lectura y concluida la misma, el Pleno
 
 La lectura del párrafo que antecede puede ser dispensada a solicitud del Presidente de la Directiva, cuando sea del conocimiento de los integrantes del Pleno.
 
-### CAPÍTULO VII. DE LAS VOTACIONES
+### CAPÍTULO VI. DE LAS DISCUSIONES
 
 ###### ARTÍCULO 143.
 
@@ -1785,7 +1923,7 @@ Leída la adición o modificación y expuestos los fundamentos por la Secretarí
 
 Todos los Proyectos de Ley o Decretos que consten de más de veinte Artículos, serán discutidos y votados por Títulos, Capítulos, Artículos, Fracciones, Incisos o Párrafos, según la división que hubieren hecho sus autores o la Comisión, siempre que así lo acuerde el Congreso a moción de alguno de sus miembros; pudiendo, además, reservar uno o varios artículos de forma verbal o escrita ante la Presidencia de la Directiva, hasta antes de que inicie su discusión. Una vez iniciada la discusión no podrán presentarse reservas.
 
-### CAPÍTULO VIII. DE LA FÓRMULA PARA LA EXPEDICIÓN DE LEYES, DECRETOS Y ACUERDOS ECONÓMICOS
+### CAPÍTULO VII. DE LAS VOTACIONES
 
 ###### ARTÍCULO 166.
 
@@ -1793,7 +1931,9 @@ Todos los asuntos que el Congreso debe resolver, lo hará mediante votación del
 
 La votación se tomará por mayoría de votos de los presentes, en los términos de esta Ley, salvo disposición expresa en otro sentido.
 
-Mientras se efectúa la votación, ningún miembro del Congreso deberá salir del salón, ni excusarse de votar.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Mientras se efectúa la votación, ningún miembro del Congreso deberá salir del salón, suspender la señal de video ni salir de cuadro durante las Sesiones Virtuales, ni excusarse de votar.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
@@ -1832,6 +1972,10 @@ a).- Cuando se trate de un Proyecto de Ley ó Decreto en lo general y/o en lo pa
 b).- Cuando se trate de dictámenes emitidos por la Comisión Instructora; y
 
 c).- Cuando lo pida un Diputado y sea apoyado por tres ó más. Esta propuesta será sometida a votación económica del Pleno, para determinar su procedencia.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+d).- Cuando se trate de asuntos sometidos a votación en Sesiones Virtuales.
 
 II.- Será votación por Cédula:
 
@@ -1877,7 +2021,11 @@ Para calificar los casos como urgentes, se requieren de las dos terceras partes 
 
 En los casos de elección de los Servidores Públicos, cuyo nombramiento deba aprobar el Congreso, durante la votación, aquellos deberán abandonar el Recinto Legislativo, hasta en tanto se verifica la misma, por lo que al emitirse, la Presidencia ordenará el reingreso de los mismos, a fin de que conozcan el resultado de la votación.
 
-### CAPÍTULO IX. DEL CEREMONIAL
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 177 BIS.- Las reformas a la Constitución Política del Estado de Hidalgo, las Minutas de reforma o adición a la Constitución Política de los Estados Unidos Mexicanos, aprobadas por el Congreso de la Unión, en los casos de elección de los Servidores Públicos, cuyo nombramiento deba aprobar el Congreso, la suspensión de munícipes y los asuntos que requieren votación por cédula; no podrán ser sometidos a votación durante las Sesiones Virtuales, quedando reservados para la siguiente sesión presencial que se convoque.
+
+### CAPÍTULO VIII. DE LA FÓRMULA PARA LA EXPEDICIÓN DE LEYES, DECRETOS Y ACUERDOS ECONÓMICOS
 
 ###### ARTÍCULO 178.
 
@@ -1893,9 +2041,7 @@ Al calce, los firmarán el Presidente y los Secretarios de la Directiva en ejerc
 
 Los Acuerdos Económicos, previa aprobación del Pleno, serán autorizados por la Secretaría de la Directiva y se comunicarán insertándose en oficio.
 
-### CAPÍTULO I. DE LA AUDITORIA SUPERIOR DEL ESTADO
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+### CAPÍTULO IX. DEL CEREMONIAL
 
 ###### ARTÍCULO 180.
 
@@ -1967,7 +2113,9 @@ III.- No haber recibido sentencia firme condenatoria por delito doloso que ameri
 
 IV.- Contar con los conocimientos y experiencia comprobables para el buen desempeño de su cargo.
 
-### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
+### CAPÍTULO I. DE LA AUDITORIA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 187.
 
@@ -2003,7 +2151,7 @@ El Auditor Superior del Estado será el responsable del resguardo y custodia de 
 
 El Auditor Superior del Estado, contará con las facultades que señala la Constitución Política del Estado, la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo y las demás disposiciones legales aplicables.
 
-### CAPÍTULO III. DE LA COORDINACIÓN DE ASESORÍA
+### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
 
 ###### ARTÍCULO 193.
 
@@ -2067,7 +2215,7 @@ XX.- Las demás que le señale esta Ley, su Reglamento y los Acuerdos emanados d
 
 La Secretaria de Servicios Legislativos, para el cumplimiento de sus fines, contará con el número de colaboradores que autorice el Presupuesto de Egresos del Poder Legislativo y contará para el buen desempeño de sus funciones con el apoyo de la Coordinación de Asesoría.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE SERVICIOS ADMINISTRATIVOS
+### CAPÍTULO III. DE LA COORDINACIÓN DE ASESORÍA
 
 ###### ARTÍCULO 194.
 
@@ -2101,7 +2249,7 @@ XIII.- Apoyar en la integración de los expedientes respectivos, cuando el Congr
 
 XIV.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
 
-### CAPÍTULO V. DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS
+### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE SERVICIOS ADMINISTRATIVOS
 
 ###### ARTÍCULO 195.
 
@@ -2155,9 +2303,7 @@ XX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos lega
 
 La Dirección General de Servicios Administrativos, contará con las Unidades Administrativas, de acuerdo al Presupuesto que el propio Congreso del Estado le asigne, para cumplir con sus funciones.
 
-### CAPÍTULO VI. INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
+### CAPÍTULO V. DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS
 
 ###### ARTÍCULO 198.
 
@@ -2185,7 +2331,9 @@ IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos lega
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2011)</small>
 
-### CAPÍTULO VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+### CAPÍTULO VI. INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 199.
 
@@ -2259,6 +2407,26 @@ XIX.- Proporcionar servicios de consultoría, asesoría, capacitación, adiestra
 
 XX.- Las demás las (sic) facultades que señalen otras disposiciones legales aplicables.
 
+### CAPÍTULO VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+
+###### ARTÍCULO 202.
+
+Corresponderá a la Coordinación de Comunicación Social del Congreso del Estado:
+
+I.- Mantener contacto permanente, con los medios de comunicación social electrónicos y escritos, a fin de garantizar la plena y oportuna información hacia la sociedad, acerca de las actividades y opiniones que se deriven de las funciones del Congreso del Estado;
+
+II.- Fungir como Instancia de Apoyo al Pleno o de la Diputación Permanente en su caso, de las Comisiones Permanentes y Especiales y de los Órganos Técnicos y Administrativos del Congreso del Estado, en lo que se refiere a la difusión social de sus acuerdos, labores y propuestas;
+
+III.- Reflejar el carácter y composición plural del Congreso del Estado, en cuanto a la comunicación social, preservando las características de objetividad y de atención a la demanda ciudadana;
+
+IV.- Brindar, a través de sus áreas, el apoyo institucional que los Diputados soliciten, en lo que corresponda a esta materia;
+
+V.- Recabar, analizar y sintetizar la información pública sobre el Trabajo Legislativo, con el objeto de definir las estrategias de comunicación; y
+
+VI.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2014) (F. DE E., 28 DE JULIO DE 2014)
+
 ### CAPÍTULO VIII. DE LA UNIDAD INSTITUCIONAL DE GÉNERO
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
@@ -2290,24 +2458,6 @@ Las atribuciones de la Unidad Institucional de Género serán realizadas y ejecu
 El Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género, así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo y sus modificaciones serán propuestos al Pleno del Congreso, por las Comisiones coordinadoras y aprobadas por aquél.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 202.
-
-Corresponderá a la Coordinación de Comunicación Social del Congreso del Estado:
-
-I.- Mantener contacto permanente, con los medios de comunicación social electrónicos y escritos, a fin de garantizar la plena y oportuna información hacia la sociedad, acerca de las actividades y opiniones que se deriven de las funciones del Congreso del Estado;
-
-II.- Fungir como Instancia de Apoyo al Pleno o de la Diputación Permanente en su caso, de las Comisiones Permanentes y Especiales y de los Órganos Técnicos y Administrativos del Congreso del Estado, en lo que se refiere a la difusión social de sus acuerdos, labores y propuestas;
-
-III.- Reflejar el carácter y composición plural del Congreso del Estado, en cuanto a la comunicación social, preservando las características de objetividad y de atención a la demanda ciudadana;
-
-IV.- Brindar, a través de sus áreas, el apoyo institucional que los Diputados soliciten, en lo que corresponda a esta materia;
-
-V.- Recabar, analizar y sintetizar la información pública sobre el Trabajo Legislativo, con el objeto de definir las estrategias de comunicación; y
-
-VI.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
-
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2014) (F. DE E., 28 DE JULIO DE 2014)
 
 ### CAPÍTULO IX. CONTRALORÍA INTERNA
 
@@ -2401,15 +2551,11 @@ XI. Hacer del conocimiento de la instancia competente la probable responsabilida
 
 XII. Las demás que se desprendan de la legislación y normatividad aplicable.
 
+## TÍTULO SÉPTIMO
+
 ### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
-
-## TÍTULO SÉPTIMO
-
-### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 203.
 
@@ -2453,7 +2599,9 @@ Con relación a este Capítulo, en lo no previsto en esta Ley y su Reglamento, s
 
 ## TÍTULO OCTAVO
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO A SEGUIR PARA RESOLVER LOS CONFLICTOS A QUE SE REFIERE LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
+### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 208.
 
@@ -2466,6 +2614,8 @@ La Legislatura del Estado de Hidalgo, se erigirá en Órgano de Acusación para 
 Corresponde a la Legislatura del Estado, por conducto de la Comisión Instructora, desahogar los procedimientos relativos al Juicio Político, de conformidad con las disposiciones previstas en la Constitución Política del Estado de Hidalgo, esta Ley, la Ley de Responsabilidades de los Servidores Públicos de aplicación local y leyes en materia de responsabilidades de servidores públicos.
 
 ## TÍTULO NOVENO
+
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO A SEGUIR PARA RESOLVER LOS CONFLICTOS A QUE SE REFIERE LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
 ###### ARTÍCULO 210.
 
@@ -2680,3 +2830,11 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Las iniciativas, decretos y acuerdos económicos turnados a Comisiones antes de la entrada en vigor del presente Decreto, serán sustanciadas hasta su conclusión en las Comisiones que hayan conocido de ellas en su momento y de acuerdo con el Proceso Legislativo establecido en la Ley Orgánica del Poder Legislativo del Estado de Hidalgo, previa a la reforma publicada.
 
 TERCERO.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 425 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento de Sesiones No Presenciales (Virtuales) de la LXIV Legislatura del Congreso del Estado de Hidalgo.
