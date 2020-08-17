@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-medios-de-impugnacion-en-materia-electoral-del-65483"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2017-07-05"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Número 51 Extraordinario del Periódico Oficial del Estado de Tabasco, el viernes 12 de diciembre de 2008.
 
@@ -1133,7 +1133,9 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 ###### Artículo 73.
 
-1. El juicio podrá ser promovido por el ciudadano cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+1. El juicio podrá ser promovido por la ciudadana o el ciudadano cuando:
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -1147,13 +1149,21 @@ c) Considere que un acto o resolución de la autoridad es violatorio de cualquie
 
 d) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable;
 
-e) Habiendo cumplido con los requisitos y trámites correspondientes, no hubiere obtenido oportunamente el documento que exija la ley electoral respectiva para ejercer el voto; y
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
-f) Habiendo obtenido oportunamente el documento a que se refiere el inciso anterior, no aparezca incluido en la lista nominal de electores de la sección correspondiente a su domicilio.
+e) Habiendo cumplido con los requisitos y trámites correspondientes, no hubiere obtenido oportunamente el documento que exija la ley electoral respectiva para ejercer el voto;
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
-g) Siendo candidato registrado, sea indebidamente declarado inelegible.
+f) Habiendo obtenido oportunamente el documento a que se refiere el inciso anterior, no aparezca incluido en la lista nominal de electores de la sección correspondiente a su domicilio;
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+g) Siendo candidata o candidato registrado, sea indebidamente declarado inelegible, y
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+h) Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley Electoral y de Partidos Políticos del Estado de Tabasco.
 
 2. El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
@@ -1418,3 +1428,29 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 214 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 8, FRACCIÓN V, Y 34, FRACCIONES III Y VIII; SE ADICIONAN UNA SECCIÓN CUARTA BIS DENOMINADA "DE LA VIOLENCIA POLITICA", AL CAPÍTULO II DEL TÍTULO SEGUNDO, INTEGRADO POR LOS ARTÍCULOS 19 BIS Y 19 TER, UN PÁRRAFO SEGUNDO AL ARTÍCULO 24, UNA FRACCIÓN XI BIS AL ARTICULO 34 Y UN CAPÍTULO III BIS DENOMINADO "DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO" AL TITULO QUINTO, INTEGRADO POR EL ARTÍCULO 55 BIS; Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 8; TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán al marco normativo aplicable a los entes públicos competentes, así como a la disponibilidad presupuestaria de cada una (sic) de ellos, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+
+###### ARTÍCULO CUARTO.
+
+En términos de lo dispuesto por el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, las reformas contenidas en el presente Decreto no serán aplicables para el proceso electoral local 2020-2021.
+
+Para el caso del proceso electoral local 2020-2021, el Instituto Electoral y de Participación Ciudadana de Tabasco, deberá emitir los lineamientos para incluir en las elecciones estatales, los parámetros derivados de las últimas reformas constitucional y legal publicadas en el Diario Oficial de la Federación el 06 de junio de 2019 y el 13 de abril de 2020, respectivamente, en materia de paridad de género y violencia política en razón de género.
+
+###### ARTÍCULO QUINTO.
+
+La observancia del principio de paridad de género a que se refiere el artículo 13 de la Ley Electoral y de Partidos Políticos del Estado de Tabasco, será aplicable a quienes tomen posesión de su encargo, a partir del siguiente proceso electoral que corresponda a la entrada en vigor del presente Decreto.
