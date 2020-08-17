@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2019-05-15"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -278,6 +278,10 @@ XII.- Establecimientos dedicados a la venta de productos y prestación de servic
 XIII.- Establecimientos dedicados a servicios de tintorerías, lavanderías y planchadurías y los productos que en ellos se utilicen;
 
 XIV.- Establecimientos para el hospedaje;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XIV Bis.- Centros Asistenciales Públicos y Privados;
 
 XV.- Establecimientos para la rehabilitación de personas con adicciones;
 
@@ -2042,3 +2046,9 @@ P.O. 15 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 182.- QUE REFORMA LA FRACCIÓN I DEL APARTADO A Y LOS INCISOS C), D) Y E) DE LA FRACCIÓN VI DEL APARTADO B DEL ARTÍCULO 3; Y SE ADICIONA LA FRACCIÓN I BIS AL APARTADO A DEL ARTÍCULO 5 Y EL ARTÍCULO 12 TER DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO.”]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 418 QUE ADICIONA LA FRACCIÓN XIV BIS AL APARTADO C DEL ARTÍCULO 3, DE LA LEY DE SALUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
