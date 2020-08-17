@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2019-04-08"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -87,7 +87,15 @@ VIII.- Alarma: El último de los tres posibles estados que se producen en la fas
 
 IX.- Alerta: El segundo de los tres posibles estados que se producen en la fase de emergencia (prealerta, alerta y alarma) Es la vigilancia y atención que se debe tener, al recibir información sobre la inminente ocurrencia de una calamidad, cuyos daños pueden llegar al grado de desastre, debido a la forma en que se ha extendido el peligro o en virtud de la evolución que presentan, de tal manera que es muy posible la aplicación del subprograma de auxilio.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+IX BIS.- Alto riesgo: La inminente o muy probable ocurrencia de una emergencia o desastre;
+
 X.- Área de protección: Las zonas del territorio de la entidad que han quedado sujetas al régimen de protección civil, donde se coordinan los trabajos y acciones de los sectores público, privado y social en materia de prevención, auxilio y apoyo ante la eventualidad de una catástrofe o calamidad, así como las declaradas zonas de desastre.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+X BIS.- Apoyo: Es el conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre;
 
 XI.- Atlas Estatal de Riesgos: Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los agentes afectables;
 
@@ -107,13 +115,19 @@ XVIII.- Control: La intervención a través de inspección y vigilancia de las m
 
 XIX.- Damnificado: Es la persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes, de tal manera que requiere asistencia externa para su subsistencia, en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
-XX.- Desastre: Es el resultado de la ocurrencia de uno o más agentes perturbadores severos y/o extremos, relacionados o no, de origen natural o de la actividad humana, que cuando acontecen en un lugar y tiempo delimitados, causan daños a una comunidad;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XX.- Desastre: El resultado de la ocurrencia de uno o más agentes perturbadores, concatenados o no, de origen natural, de la actividad humana o aquellos provenientes del espacio exterior, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
 
 XXI.- Donativo: La aportación en especie o numerario que realizan las diferentes personas físicas o morales, estatales, nacionales o internacionales a través de los centros de acopio autorizados o las instituciones de crédito para ayudar a las Entidades Estatales, Municipales o comunidades en emergencia o desastre;
 
 XXII.- Educación para la protección Civil: El proceso permanente de enseñanza-aprendizaje de un conjunto de conocimientos, actitudes y hábitos que debe conocer una sociedad, para actuar en caso de una calamidad pública o para prestar a la comunidad los servicios que requieran.
 
 XXIII.- Emergencia: Situación anormal que puede causar un daño a la sociedad y propiciar un riesgo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de algún agente perturbador;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XXIII BIS.- Establecimientos: A las escuelas, oficinas, empresas, fábricas, industrias o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que, debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de esta Ley, existen espacios físicos de competencia Estatal, y de competencia Municipal;
 
 XXIV.- Evacuación: La medida de seguridad, que consiste en el desalojo de la población de la zona de peligro.
 
@@ -139,13 +153,33 @@ XXXIV.- Grupos Voluntarios: Son las personas físicas o morales que se han acred
 
 XXXV.- Hospital Seguro: Establecimiento de salud cuyo (sic) servicios permanecen accesibles y funcionando a su máxima capacidad, es su misma infraestructura, inmediatamente después de un fenómeno destructivo.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XXXV BIS.- Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+
 XXXVI.- Mitigación: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
 
 Peligro (amenaza): Es la probabilidad de que se presente un evento de cierta intensidad que pueda ocasionar daño a un sitio dado.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XXXVI BIS.- Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+
 XXXVII.- Prevención: Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros y/o los riesgos, identificarlos, eliminarlos o reducirlos, evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XXXVII BIS.- Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XXXVII TER.- Protección Civil: El conjunto de acciones, principios, normas, políticas y procedimientos de identificación, previsión, prevención, preparación, auxilio, recuperación y reconstrucción, tendientes a proteger la integridad física, la salud y el patrimonio de las personas, así como la planta productiva, la prestación de servicios públicos y el medio ambiente. Lo anterior, ante la ocurrencia ante los riesgos, alto riesgo, emergencias o desastres; que sean originados por fenómenos antropogénicos o naturales, los cuales serán atendidos por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
+
 XXXVIII.- Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción, este proceso debe buscar en la medida de lo posible, la reducción de riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ellos las condiciones preexistentes;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XXXVIII BIS.- Recuperación: Al proceso que inicia durante la emergencia consistente en acciones encaminadas al retorno de la normalidad del sistema afectado y mejoramiento de este, así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos;
 
 XXXIX.- Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contemplando la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura critica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos y el desarrollo de sistemas de alertamiento;
 
@@ -171,9 +205,11 @@ La aplicación de la presente Ley, compete al Poder Ejecutivo del Estado, a trav
 
 ## TÍTULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 4.
 
-El Sistema Estatal de Protección Civil, es el conjunto de organismos del sector público, privado y social, que participan en la protección de la integridad física de la población, sus bienes y su entorno ante la ocurrencia de algún fenómeno perturbador y se integra por:
+El Sistema Estatal de Protección Civil, es el conjunto orgánico y articulado de estructuras, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen las dependencias y entidades de sector público del Estado y Municipios, las organizaciones del sector privado y social, que tienen como objetivo salvaguardar la vida, integridad física y salud de la población, sus bienes y su entorno, de igual forma la infraestructura, la planta productiva y el medio ambiente, ante la ocurrencia de algún agente perturbador, orientándose a la reducción de riesgo de desastres y se integra por:
 
 I.- El Consejo Estatal de Protección Civil;
 
@@ -191,9 +227,17 @@ VII.- Los Comités Municipales de Emergencias;
 
 VIII.- Los H. Cuerpos de Bomberos;
 
-IX.- Grupos de Brigadistas y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-X.- Grupos Voluntarios.
+IX.- Grupos de Brigadistas;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+X.- Grupos Voluntarios; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XI.- Las asociaciones y agrupaciones de voluntarios y brigadistas comunitarios debidamente registrados ante la Unidad Estatal de Protección Civil.
 
 ###### Artículo 5.
 
@@ -265,9 +309,17 @@ VII.- Las organizaciones de los sectores sociales y privados de la Entidad;
 
 VIII.- Los representantes de las Instituciones Educativas en el Estado;
 
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
 IX.- Los representantes de los Consejos Municipales de Protección Civil; y
 
-X.- Los titulares nombrarán a sus respectivos suplentes, quienes tendrán voz y voto.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+X.- Los Presidentes Municipales de los lugares donde se establezcan representaciones de la Unidad Estatal de Protección Civil;
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Los titulares nombrarán a sus respectivos suplentes, quienes tendrán voz y voto. El cargo de consejero es de carácter honorario.
 
 ###### Artículo 12.
 
@@ -295,7 +347,9 @@ X.- Elaborar y presentar, ante el Poder Ejecutivo, la inclusión en el presupues
 
 XI.- Realizar auditorías operacionales, para supervisar la aplicación adecuada de los recursos asignados al Sistema Estatal de Protección Civil, empleados tanto en la prevención, como para la atención de algún desastre;
 
-XII.- Crear un fondo de reserva para la elaboración de los atlas Estatal y Municipales para la prevención y atención de desastres.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XII.- Crear un fondo de reserva para la elaboración de los atlas Estatal y Municipales, para la prevención y atención de desastres, de acuerdo a la disponibilidad presupuestaria, se asignará recursos para esta partida en el presupuesto de egresos del año correspondiente. Los ayuntamientos podrán acceder a los recursos del fondo de manera equitativa, pudiendo obtener hasta un cincuenta por ciento del costo del atlas de riesgo. Se dará preferencia a aquellos que no cuenten con dicho instrumento.
 
 XIII.- Vigilar que las autoridades y personal de la Administración Pública Estatal, Municipal, Organismos dependientes del Gobierno y Organismos sociales, colaboren en forma oportuna, proporcionando información real y fidedigna a la unidad Estatal de Protección Civil, para el cumplimiento de sus funciones;
 
@@ -311,9 +365,29 @@ XVIII.- Integrar y coordinar a los equipos de respuesta para la atención de rie
 
 XIX.- Promover la adquisición de predios, para la reubicación de damnificados por la ocurrencia de algún agente perturbador, además de supervisar que los nuevos desarrollos urbanos no se construyan en zonas de alto riesgo y que además cuenten con equipamiento urbano y los servicios públicos básicos, que los hagan más resistentes y menos vulnerables;
 
-XX.- Fomentar, crear y determinar los lineamientos de operación, coordinación y desarrollo de los H. Cuerpos de Bomberos de la Entidad, y;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XX.- Fomentar, crear y determinar los lineamientos de operación, coordinación y Desarrollo de los H. Cuerpos de Bomberos de la Entidad;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XX BIS.- Vincular al Sistema Estatal con el Sistema Nacional de Protección Civil en los términos establecidos en la Ley General vigente; y
 
 XXI.- Las demás que le señalen otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+###### Artículo 12 Bis.
+
+En caso de emergencia, el Consejo Estatal de Protección Civil tendrá las siguientes funciones:
+
+I. Establecerse en sesión permanente mediante la operación del Comité Estatal de Emergencias ante la ocurrencia de un desastre y/o emergencia, así como, establecer la estructura operativa en la que las autoridades y demás organismos intervienen;
+
+II. Deberá proporcionar a la población información pública y oportuna que se genere en materia de protección civil, relacionada con la reducción de riesgos de desastre, la autoprotección, y el autocuidado ante la eventualidad de la ocurrencia de un desastre o emergencia por medio de los canales oficiales previamente establecidos;
+
+III. Evaluar las consecuencias del agente perturbador sobre un sistema afectable, así como realizar monitoreo constante mediante los protocolos específicamente diseñados; y
+
+IV. Implementar el plan de acción, que incluya protocolos de actuación, reservas estratégicas, refugios temporales, fuerzas de tarea, alerta temprana y, en su caso, el o los centros de operación municipal que consideren necesarios, previamente establecidos.
 
 ###### Artículo 13.
 
@@ -409,9 +483,55 @@ XXVII.- Coordinar directamente las funciones integrales del H. Cuerpo de Bombero
 
 XXVIII.- Las demás que le atribuyan otras disposiciones legales, y las que le asignen el Consejo Estatal de Protección Civil.
 
-## TÍTULO QUINTO. DEL COMITÉ ESTATAL DE EMERGENCIAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE AGOSTO DE 2020)</small>
 
-## TÍTULO SEXTO. Autoridades Municipales de Protección Civil
+## TÍTULO CUARTO BIS. DEL SUB-SECRETARIO DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+###### Artículo 16 Bis.
+
+La persona Titular de la Subsecretaría de Protección Civil y Protección de Riesgos, será nombrada por el Titular del Poder Ejecutivo y deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II. Contar preferentemente con Título Profesional en la Licenciatura en Protección Civil, Gestión de Riesgos, o carrera afín; y
+
+III. En caso de no contar con licenciatura, contar con experiencia mínima comprobable de tres años en el área de Protección Civil, con cursos sobre protección civil, gestión integral de riesgos, prevención y atención de desastres o cualquier otro relacionado a protección civil.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+###### Artículo 16 Ter.
+
+Corresponden al Subsecretario de Protección Civil y Gestión de Riesgos, las siguientes atribuciones:
+
+I. Proponer al Ejecutivo del Estado, políticas y estrategias para el desarrollo de programas internos, especiales y regionales de protección civil;
+
+II. Promover la creación de las instancias, mecanismos, instrumentos y procedimientos de carácter técnico operativo, de servicios y logística que permitan prevenir y atender la eventualidad de un riesgo o peligro que representan los agentes perturbadores y la vulnerabilidad;
+
+III. Coordinar los trabajos de Investigación, estudios y evaluación riesgos, peligros y vulnerabilidades, integrando y ampliando los conocimientos de tales acontecimientos en coordinación con las dependencias responsables;
+
+IV. Proponer al Ejecutivo del Estado, de acuerdo a lo establecido del artículo 72 al 75 de la Ley de Protección Civil, las bases y lineamientos para la creación y administración del Fondo de Protección Civil para la prevención y atención de emergencias y desastres de origen natural, así como las donaciones recibidas de particulares e instituciones;
+
+V. Coordinar y asesorar a las Unidades de Protección Civil Municipales, así como a las dependencias, instituciones y grupos sociales;
+
+VI. Coordinar, supervisar y evaluar todas las acciones que se realicen en el ejercicio de las funciones de la Unidad Estatal;
+
+VII. Apoyar y asesorar al Ministerio Público en materia de protección civil y querellarse ante éste cuando proceda, así como fungir como perito en la materia ante autoridades competentes;
+
+VIII. Coordinar las acciones de la Unidad Estatal, de las dependencias, organismos y Unidades Municipales en caso de que ocurran siniestros o desastres en el territorio del Estado y ordenar las medidas preventivas y de emergencia que se deban tomar por autoridades y civiles para proteger la vida y los bienes de las personas ante las calamidades;
+
+IX. Convocar y presidir reuniones de coordinación con las unidades municipales de protección civil en la Entidad;
+
+X. Ordenar visitas domiciliarias, así como autorizar al personal adscrito a la Unidad Estatal, a realizar las mismas, cuando así le sea requerido, o cuando considere que exista un riesgo. Así mismo, calificará y sancionará las faltas e infracciones a la Ley, en términos de lo que establece su Reglamento, y a las disposiciones;
+
+XI. Proponer al Consejo Estatal de Protección Civil, los canales adecuados para informar a la población de manera oportuna, cuando se detecte que pueda ocurrir algún tipo de desastre que les afecte de manera directa o indirecta, así como las medidas de prevención, evacuación y, los refugios temporales que se habiliten para su seguridad;
+
+XII. Implementar anualmente, de manera coordinada con el Centro Nacional de Prevención de Desastres (CENAPRED) y la Escuela Nacional de Protección Civil (ENAPROC) cursos dirigidos a los titulares de las Unidades Municipales de Protección Civil sobre protección civil, gestión de riesgos, prevención y atención de desastres; y
+
+XIII. Todas las demás que le confieran esta Ley, el Reglamento, y demás dispositivos jurídicos aplicables.
+
+## TÍTULO QUINTO. DEL COMITÉ ESTATAL DE EMERGENCIAS
 
 ###### Artículo 17.
 
@@ -459,9 +579,7 @@ I.- Se declare una situación de desastre, que se comunicará de inmediato al Co
 
 II.- Uno o más Municipios que se vean afectados por la ocurrencia de un mismo agente perturbador, cuyos efectos requieran de una respuesta integral de auxilio por parte de los Organismos Federales, en apoyo a los órganos Estatales y Municipales de protección civil.
 
-## TÍTULO SÉPTIMO
-
-De la participación de los H. Cuerpos de Bomberos.
+## TÍTULO SEXTO. Autoridades Municipales de Protección Civil
 
 ### Capítulo I. Del Sistema Municipal de Protección Civil
 
@@ -486,6 +604,12 @@ V.- La Red Municipal de Brigadistas;
 VI.- Los grupos voluntarios; y
 
 VII.- Los sectores público, privado y social.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+###### Artículo 22 Bis.
+
+Para ocupar la Titularidad de la Unidad Municipal de Protección Civil, el aspirante deberá reunir los requisitos establecidos en el artículo 128 de la Ley Orgánica Municipal; asimismo tendrá las facultades y obligaciones que dispone el artículo 129 del mismo ordenamiento jurídico.
 
 ###### Artículo 23.
 
@@ -579,7 +703,13 @@ La Unidad Municipal de Protección Civil, tendrá las siguientes atribuciones:
 
 I.- Identificar los riesgos, la vulnerabilidad y el grado de resiliencia propios de cada municipio así como ser el primer nivel de respuesta para la atención de todo tipo de emergencias que se susciten dentro del Municipio;
 
-II.- Elaborar programas Municipales, ordinarios y especiales de protección civil y su correspondiente atlas Municipal de riesgos;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+II.- Elaborar programas Municipales, ordinarios y especiales de protección civil y su correspondiente atlas municipal de riesgos, este último se deberá elaborar a más tardar en un término de 150 días naturales del inicio de la administración municipal, el cual deberá ser sometido a la aprobación del ayuntamiento en el término de 30 días naturales para su respectiva publicación. Su actualización será cada dos años bajo el mismo procedimiento.
+
+El ayuntamiento deberá remitir a la Subsecretaria a más tardar 10 días naturales después de su aprobación o de su actualización, copia del atlas de riesgo municipal, anexando copia certificada del acta de cabildo correspondiente.
+
+La Subsecretaria deberá informar al Congreso del Estado de Hidalgo en caso de incumplimiento de dicha obligación, en termino de 30 días naturales, para la aplicación de la sanción correspondiente, de acuerdo a lo establecido en la Ley General de Responsabilidades Administrativas.
 
 III.- Dictaminar sobre el correcto uso del suelo de impacto significativo, verificando la compatibilidad para otorgar o negar la edificación o construcción de casas y zonas habitacionales, para disminuir la vulnerabilidad de riesgo, en coordinación con la autoridad urbanística y demás autoridades en la materia;
 
@@ -645,7 +775,9 @@ I.- Se declare una situación de desastre, que se comunicará de inmediato al Co
 
 II.- El Municipio se vea afectado por un siniestro, cuyos efectos requieren de una respuesta integral e inmediata de auxilio por parte de los Organismos Estatales y Municipales de protección civil.
 
-## TÍTULO OCTAVO. Red Estatal y Municipal de Brigadistas
+## TÍTULO SÉPTIMO
+
+De la participación de los H. Cuerpos de Bomberos.
 
 ###### Artículo 40.
 
@@ -661,7 +793,7 @@ Los H. Cuerpos de Bomberos, podrán participar en los programas de prevención, 
 
 El Ejecutivo del Estado y Municipios, proporcionará el equipo técnico y personal necesario al H. cuerpo de bomberos, de acuerdo a la disponibilidad presupuestaria, para el cumplimiento de lo previsto en el artículo 40 y 41 de esta Ley.
 
-## TÍTULO NOVENO. De los Grupos Voluntarios
+## TÍTULO OCTAVO. Red Estatal y Municipal de Brigadistas
 
 ###### Artículo 42.
 
@@ -675,7 +807,7 @@ Los brigadistas, son las personas capacitadas en materias afines a la protecció
 
 La sub secretaría coordinará el funcionamiento de la red estatal de brigadistas. Para tal efecto, las unidades Estatal y Municipal de protección civil, deberán promover en el marco de sus competencias, la capacitación, organización y preparación de las personas que deseen constituirse en brigadistas Estatales y Municipales y realizar los trámites de registro en la red Estatal de brigadistas.
 
-## TÍTULO DÉCIMO. De la Cultura de Protección Civil
+## TÍTULO NOVENO. De los Grupos Voluntarios
 
 ###### Artículo 45.
 
@@ -699,11 +831,21 @@ Las personas que deseen desempeñar labores de protección civil, deberán integ
 
 Aquellos que no deseen integrarse a la red de brigadistas o un grupo voluntario, podrán registrarse individualmente en las unidades de protección civil correspondientes, precisando su actividad, oficio o profesión, así como su especialidad aplicable a tareas de protección civil.
 
-## TÍTULO DÉCIMO PRIMERO. De la Acción Popular
+## TÍTULO DÉCIMO. De la Cultura de Protección Civil
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 48.
 
-La autoridades Estatales y Municipales, fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
+La autoridades Estatales y Municipales, fomentará n (sic) la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+I.- La población vulnerable y expuesta a un peligro, tiene derecho a estar informada de ello;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+II.- La población vulnerable y expuesta a un peligro, tiene derecho a contar las vías adecuadas de opinión y participación en la gestión del riesgo.
 
 ###### Artículo 49.
 
@@ -729,7 +871,7 @@ Los integrantes del Sistema de protección civil Estatal y Municipal, promoverá
 
 Las Autoridades Estatales y Municipales coordinarán proyectos, estudios e inversiones necesarias para ampliar y modernizar la cobertura de los sistemas de medición de los distintos agentes perturbadores, encaminados a prevenir riesgos que pongan en peligro la vida y que puedan provocar daños irreversibles a la población.
 
-## TÍTULO DÉCIMO SEGUNDO. De la Profesionalización de la Protección Civil
+## TÍTULO DÉCIMO PRIMERO. De la Acción Popular
 
 ###### Artículo 53.
 
@@ -751,9 +893,7 @@ Lo anterior, se hará sin perjuicio de que la autoridad receptora de la denuncia
 
 Cuando los hechos que motiven una denuncia, hubieren ocasionado daños y perjuicios, los interesados podrán solicitar a la subsecretaria, la formulación de un dictamen técnico para su trámite ante la autoridad correspondiente.
 
-## TÍTULO DÉCIMO TERCERO
-
-De la Escuela Estatal de Protección Civil, Capacitación, Acreditación y Certificación.
+## TÍTULO DÉCIMO SEGUNDO. De la Profesionalización de la Protección Civil
 
 ###### Artículo 57.
 
@@ -769,7 +909,9 @@ En caso de que no exista dicha normatividad, se promoverá ante las instancias c
 
 La normatividad correspondiente precisará y detallará todos los rubros que atañen al escalafón de mando y jerarquía de las unidades Estatal y Municipal de Protección Civil.
 
-## TÍTULO DÉCIMO CUARTO. De los Instrumentos Financieros de Gestión de Riesgos
+## TÍTULO DÉCIMO TERCERO
+
+De la Escuela Estatal de Protección Civil, Capacitación, Acreditación y Certificación.
 
 ###### Artículo 60.
 
@@ -781,7 +923,7 @@ Para ello, tendrá como función la acreditación de las capacidades de personas
 
 La estructura, organización y operación de la Escuela Estatal se especificará en las disposiciones normativas que para tal efecto se emitan.
 
-## TÍTULO DÉCIMO QUINTO. Del Fondo de Protección Civil
+## TÍTULO DÉCIMO CUARTO. De los Instrumentos Financieros de Gestión de Riesgos
 
 ###### Artículo 62.
 
@@ -839,7 +981,7 @@ Dichos fenómenos encuentran responsabilidad en su atención, regulación y supe
 
 Las Unidades de Protección Civil Estatal y Municipal, promoverán con las diversas instancias del sistema nacional, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
 
-## TÍTULO DÉCIMO SEXTO. De las Donaciones para Auxiliar a la Población
+## TÍTULO DÉCIMO QUINTO. Del Fondo de Protección Civil
 
 ###### Artículo 72.
 
@@ -857,7 +999,7 @@ En el fondo de protección civil se deberá considerar una reserva estratégica 
 
 Las autoridades Estatales y Municipales, generarán un Mecanismo de Alerta en coordinación con las instancias competentes, en todos los inmuebles públicos y privados que tengan afluencia constante de personas a efecto de cumplir con el objeto señalado en (sic) artículo 1° de la presente Ley.
 
-## TÍTULO DÉCIMO SÉPTIMO. Medidas de Seguridad
+## TÍTULO DÉCIMO SEXTO. De las Donaciones para Auxiliar a la Población
 
 ###### Artículo 74.
 
@@ -867,7 +1009,7 @@ Las autoridades correspondientes, establecerán las bases y lineamientos, con ap
 
 Los donativos en efectivo recibidos por las instituciones bancarias o financieras, cuando sean destinadas a la población damnificada, serán deducibles para quienes realizan las aportaciones, pero no para las instituciones que las reciban, quienes podrán vigilar la aplicación de los recursos en las acciones que se determinen necesarias por el Consejo Estatal de protección civil.
 
-## TÍTULO DÉCIMO OCTAVO. De Sanciones y Supervisiones
+## TÍTULO DÉCIMO SÉPTIMO. Medidas de Seguridad
 
 ###### Artículo 76.
 
@@ -889,13 +1031,29 @@ IV.- Coordinar los servicios asistenciales;
 
 V.- El aislamiento temporal parcial o total del área afectada;
 
-VI.- La suspensión de trabajos, actividades y servicios; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-VII.- Las demás que en materia de protección civil determinen las disposiciones reglamentarias y la legislación aplicable, tendientes a evitar que se generen o sigan causándose daños.
+VI.- La suspensión de trabajos, actividades y servicios;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+VII.- El aislamiento temporal parcial o total del área afectada, precisando la temporalidad y en su caso, las acciones para su reapertura;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+VIII.- La suspensión de trabajos, actividades y servicios, precisando su temporalidad y en su caso, las acciones para el reinicio; y
+
+IX.- Las demás que en materia de protección civil determinen las disposiciones reglamentarias y la legislación aplicable, tendientes a evitar que se generen o sigan causándose daños.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+Cuando se apliquen las medidas de seguridad previstas anteriormente, se precisará su temporalidad y, en su caso, las acciones para su suspensión.
 
 ###### Artículo 78.
 
 Previo a la realización de eventos públicos y en espacios de concentración masiva, deberán elaborarse programas específicos de protección civil, los cuales serán entregados oportunamente a las autoridades correspondientes, para su revisión y en su caso aprobación. Todas las medidas del programa y las conductas apropiadas a seguir en caso de presentarse alguna contingencia, deberán ser difundidas al público participante, por parte del organizador antes, al inicio, durante y al término del evento.
+
+## TÍTULO DÉCIMO OCTAVO. De Sanciones y Supervisiones
 
 ###### Artículo 79.
 
@@ -968,3 +1126,31 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicac
 SEGUNDO. El Ejecutivo del Estado y Municipios, contemplará en el presupuesto de Egresos del ejercicio fiscal del año que corresponda, los recursos para cumplir con lo señalado en el presente Decreto.
 
 TERCERO. El Ejecutivo del Estado y Municipios, fomentará las acciones necesarias para que en el Fondo de Protección Civil precisado en el artículo 73 de la Ley de Protección Civil, se cumpla con lo señalado en el presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 413 POR EL QUE SE ADICIONA EL TITULO CUARTO BIS, LOS ARTÍCULOS 16 BIS, 16 TER Y 22 BIS A LA LEY DE PROTECCIÓN CIVIL Y SE REFORMA EL ARTÍCULO 128 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO ".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los servidores públicos que ocupen alguno de los cargos a que se refiere el presente Decreto, contarán con 180 días naturales a partir de su entrada en vigor, para acreditar los conocimientos y la experiencia necesaria para ocupar dichos cargos.
+
+CUARTO. Una vez concluidos los plazos a que se refiere el transitorio anterior, se procederá a la destitución del servidor público para proceder a designar al nuevo titular, conforme a lo establecido en el presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 429 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 430 QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 12; Y LA FRACCIÓN II DEL ARTÍCULO 35 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO Y SE REFORMAN LOS INCISOS EE) Y FF) A LA FRACCIÓN I DEL ARTÍCULO 56; SEGUNDO PÁRRAFO DEL INCISO H) DE LA FRACCIÓN I DEL ARTÍCULO 60; LA FRACCIÓN XX DEL ARTÍCULO 117; Y LAS FRACCIONES XI Y XII DEL ARTÍCULO 129; Y SE ADICIONA EL INCISO GG) A LA FRACCIÓN I DEL ARTÍCULO 56; Y LA FRACCIÓN XIII AL ARTÍCULO 129 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los plazos establecidos en el presente Decreto, para la elaboración de los Atlas de Riesgo, empezarán a correr hasta que los Ayuntamientos Constitucionalmente electos entren en funciones.
