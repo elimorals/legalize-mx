@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-126782"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-28"
-last_updated: "2018-02-28"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Sección Parte Uno al No. 27 del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de febrero de 2018.
 
@@ -2919,7 +2919,9 @@ b) De trazo, en coordenadas UTM, referidas al sistema WGS 84 o ITRF 92.
 
 III. Copia certificada donde se acredite la propiedad del predio donde se realizará el fraccionamiento;
 
-IV. Certificado de libertad de gravamen y certificado de gravamen en caso de fideicomiso;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+IV. Certificado de libertad de gravamen o certificado de gravamen, en caso de fideicomiso;
 
 V. El proyecto autorizado de Lotificación del fraccionamiento; y
 
@@ -4418,3 +4420,11 @@ Gonzalo Gómez Flores
 Secretaria de Desarrollo Sustentable
 
 Martha Cecilia Robles Montijo
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 443 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 221 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
