@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2019-06-24"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -735,13 +735,17 @@ cc).- Vigilar y promover el cumplimiento de las obligaciones de Transparencia y 
 
 dd).- Implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establece la ley en la materia;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
-ee).- Proteger de forma integral los Derechos de las Niñas, Niños y Adolescentes; y
+ee).- Proteger de forma integral los Derechos de las Niñas, Niños y Adolescentes;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
-ff).- Ejercer las facultades que le confiere la Ley de Movilidad y Transporte para el Estado de Hidalgo en materia de Movilidad.
+ff).- Ejercer las facultades que le confiere la Ley de Movilidad y Transporte para el Estado de Hidalgo en materia de Movilidad; y
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+gg).- Aprobar el atlas municipal de riesgos en un término de 90 días naturales al inicio de su administración, así como la actualización de este cada dos años, para lo cual deberán contemplar en su presupuesto de egresos el monto correspondiente para su elaboración o actualización.
 
 II.- Asimismo, podrán:
 
@@ -933,11 +937,9 @@ g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la parti
 
 h) Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida, congruentes con el Plan Estatal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2016)</small>
-
-Asimismo, contará hasta con ciento ochenta días para presupuestar, gestionar lo conducente y ordenar la elaboración del Atlas de Riesgos correspondiente o en su caso, actualizarlo a su gestión.
+Asimismo, contará hasta con ciento ochenta días para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo el Atlas de Riesgos correspondiente o en su caso, actualizarlo a su gestión.
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
@@ -2083,7 +2085,9 @@ II.- Ser de reconocida honestidad y honorabilidad;
 
 III.- Contar con los conocimientos inherentes para el buen desempeño de su cargo;
 
-IV.- Contar, preferentemente, con bachillerato o carrera técnica, como mínimo; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+IV.- Contar con bachillerato o carrera técnica y preferentemente con licenciatura en la materia correspondiente; y
 
 V.- Estar habilitado para desempeñarse en un cargo, empleo o comisión en el servicio público.
 
@@ -2145,17 +2149,13 @@ XVIII.- Comparecer ante el Ayuntamiento, cuando sea requerido; y
 
 XIX.- Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+XX.- Dentro del término de ciento ochenta días a que hace referencia la fracción I, inciso h), del artículo 60 del presente ordenamiento, coadyuvar con la elaboración o en su caso, con la actualización del Atlas de Riesgos Municipal, con la instancia de Protección Civil. La omisión a lo ordenado en esta fracción, se considerará una falta grave administrativa, por lo que su incumplimiento dará lugar al procedimiento administrativo de responsabilidad del servidor público, responsable del área.
 
-XX.- Dentro del término de ciento ochenta días a que hace referencia la fracción I, inciso h), del artículo 60 del presente ordenamiento, elaborar o en su caso, actualizar el Atlas de Riesgos Municipal, en coordinación con la instancia de Protección Civil. La omisión a lo ordenado en esta fracción, se considerará una falta grave administrativa, por lo que su incumplimiento dará lugar al procedimiento administrativo de responsabilidad del servidor público, responsable del área.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2016)</small>
-
-El Titular de Obras Públicas deberá contar con título profesional y con experiencia mínima de un año.
+El Titular de Obras Públicas deberá contar con título profesional en la materia, con licencia vigente de Director Responsable de Obra, con experiencia mínima de un año y preferentemente estar afiliado a algún Colegio de Profesionistas de la entidad o algún otro Colegio que tenga presencia a nivel nacional.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -2357,23 +2357,21 @@ En cada Municipio, se deberá contar con una Dirección de Protección Civil y p
 
 El Sistema Municipal de Protección Civil debe ser el primer nivel de respuesta ante cualquier agente perturbador que afecte a la población; para su adecuado funcionamiento contará con: el Programa Municipal de Protección Civil; Atlas Nacional, Estatal y Municipal de Riesgos; inventarios; así como directorios de Recursos Materiales y Humanos del Municipio correspondiente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 128.
 
 El Área de Protección Civil, tendrán (sic) bajo su responsabilidad la coordinación y operación del sistema municipal de protección civil y cuerpo de bomberos, cuyos titulares serán designados y removidos por el Presidente Municipal y deberán cubrir los siguientes requisitos:
 
-I.- Ser ciudadano Hidalguense;
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
-II.- No haber sido condenado por delito doloso; y
+II. No haber sido condenado por delito doloso;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2016)</small>
+III. Contar con título profesional, con formación técnica en materia de prevención de riesgos, protección civil o disciplinas afines, con experiencia mínima de un año y preferentemente estar afiliado a algún Colegio de Profesionistas de la entidad, o algún otro Colegio que tenga presencia a nivel nacional.
 
-III.- Contar preferentemente con título profesional y con experiencia mínima de un año.
+IV. En caso de no contar con licenciatura, contar con experiencia mínima comprobable de tres años en el área de Protección Civil, con cursos sobre protección civil, gestión integral de riesgos, prevención y atención de desastres o cualquier otro relacionado a protección civil.
 
 ###### ARTÍCULO 129.
 
@@ -2399,9 +2397,17 @@ IX.- Establecer una adecuada coordinación con los Municipios colindantes así c
 
 X.- Gestionar los recursos necesarios que permitan la capacitación y adquisición del equipo idóneo para ofrecer un servicio que garantice la protección a la ciudadanía;
 
-XI.- Rendir informe al Presidente Municipal, respecto de los acontecimientos registrados en su jurisdicción; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-XII.- Las demás que les asignen las Leyes y Reglamentos, el Ayuntamiento y el Presidente Municipal.
+XI. Rendir informe al Presidente Municipal, respecto de los acontecimientos registrados en su jurisdicción;
+
+> <small>(REFORMADA [N. DE E ADICIONADA], P.O. 17 DE AGOSTO DE 2020)</small>
+
+XII. Elaborar el atlas municipal de riesgos, a más tardar en un término de 150 días naturales del inicio de la administración municipal, el cual deberá ser sometido a la aprobación del ayuntamiento en el término de 30 días naturales para su respectiva publicación. Su actualización será cada dos años bajo el mismo procedimiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 17 DE AGOSTO DE 2020)</small>
+
+XIII. Las demás que les asignen las leyes y reglamentos, el Ayuntamiento y el Presidente Municipal.
 
 ### CAPÍTULO DÉCIMO. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
 
@@ -3396,3 +3402,37 @@ P.O. 24 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 194 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO, LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO Y A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 413 POR EL QUE SE ADICIONA EL TITULO CUARTO BIS, LOS ARTÍCULOS 16 BIS, 16 TER Y 22 BIS A LA LEY DE PROTECCIÓN CIVIL Y SE REFORMA EL ARTICULO 128 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los servidores públicos que ocupen alguno de los cargos a que se refiere el presente Decreto, contarán con 180 días naturales a partir de su entrada en vigor, para acreditar los conocimientos y la experiencia necesaria para ocupar dichos cargos.
+
+CUARTO. Una vez concluidos los plazos a que se refiere el transitorio anterior, se procederá a la destitución del servidor público para proceder a designar al nuevo titular, conforme a lo establecido en el presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 420 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO Y LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
+
+TERCERO. Los trámites que se encuentren en proceso en la Dirección de Profesiones, con anterioridad a la entrada en vigor de la presente reforma, se resolverán de conformidad con la norma aplicable en su momento.
+
+CUARTO. El Poder Ejecutivo emitirá en un plazo de 180 días posteriores a la publicación de esta reforma, las adecuaciones al Reglamento de Ley.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 430 QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 12; Y LA FRACCIÓN II DEL ARTÍCULO 35 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO Y SE REFORMAN LOS INCISOS EE) Y FF) A LA FRACCIÓN I DEL ARTÍCULO 56; SEGUNDO PÁRRAFO DEL INCISO H) DE LA FRACCIÓN I DEL ARTÍCULO 60; LA FRACCIÓN XX DEL ARTÍCULO 117; Y LAS FRACCIONES XI Y XII DEL ARTÍCULO 129; Y SE ADICIONA EL INCISO GG) A LA FRACCIÓN I DEL ARTÍCULO 56; Y LA FRACCIÓN XIII AL ARTÍCULO 129 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los plazos establecidos en el presente Decreto, para la elaboración de los Atlas de Riesgo, empezarán a correr hasta que los Ayuntamientos Constitucionalmente electos entren en funciones.
