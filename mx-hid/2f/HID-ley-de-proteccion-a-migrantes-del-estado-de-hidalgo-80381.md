@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-a-migrantes-del-estado-de-hidalgo-80381"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-07"
-last_updated: "2019-04-29"
+last_updated: "2020-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE PROTECCION A MIGRANTES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, PUBLICADA EN EL P.O. DE 17 DE AGOSTO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de marzo de 2011.
 
@@ -524,3 +526,15 @@ P.O. 29 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO.- 180 QUE REFORMA LAS FRACCIONES IV, XI Y XII DEL ARTÍCULO 6; PRIMER PÁRRAFO, FRACCIONES III Y IV DEL ARTÍCULO 21; ARTÍCULO 23; Y PRIMER PÁRRAFO DEL ARTÍCULO 28; SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 6; LA FRACCIÓN V AL ARTÍCULO 21 DE LA LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO. 416 QUE CREA LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley de Protección a Migrantes del Estado de Hidalgo.
+
+TERCERO. El Reglamento correspondiente al presente ordenamiento se deberá expedir en un término no mayor de 180 días naturales a partir de la fecha de entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
