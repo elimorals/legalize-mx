@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2019-04-01"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -149,7 +149,9 @@ XVII.- Registro Estatal de Turismo: Catálogo público de prestadores de servici
 
 XVII Bis.- Ruta Gastronómica: El circuito geográfico marcado en el mapa de la Entidad, basado en la gastronomía de sus regiones;
 
-XVIII.- Secretaría: La Secretaría de Turismo y Cultura del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVIII.- Secretaría: La Secretaría de Turismo del Estado de Hidalgo;
 
 XIX.- Servicios Turísticos: Aquéllos dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
 
@@ -189,7 +191,9 @@ b).- Respetar la autenticidad sociocultural de las comunidades anfitrionas, cons
 
 c).- Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
 
-XXV.- Turista: La persona que viaja temporalmente fuera de su lugar de residencia habitual y su viaje incluye la pernocta en el lugar de destino y que utiliza alguno de los servicios turísticos a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XXV.- Turista: La persona que viaja temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere esta Ley u otros ordenamientos legales aplicables;
 
 XXVI.- Zonas de Desarrollo Turístico Estatal Prioritarias: Referidas a los espacios del territorio estatal, claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyan un atractivo turístico; y
 
@@ -257,7 +261,9 @@ XIV.- Promover, en coordinación con las autoridades competentes, la imagen de H
 
 XV.- Diseñar, elaborar, instrumentar, ejecutar, evaluar y difundir programas de investigación y estudios en materia turística para el Estado;
 
-XVI.- Apoyar y respaldar a las Dependencias y Entidades competentes de la Administración Pública Estatal, Federal y Municipal, en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de riesgos, conforme a las políticas y programas de protección civil vigentes, en caso de que algún fenómeno natural haya afectado o esté por afectar a la actividad turística del Estado;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVI.- Apoyar y respaldar a las Dependencias y Entidades competentes de la Administración Pública Estatal, Federal y Municipal, en las políticas y programas de prevención y atención en el control de enfermedades, emergencias o riesgos sanitarios, así como en acciones para la gestión integral de riesgos, siniestros o desastres que haya afectado o esté por afectar a la actividad turística del Estado, conforme a la legislación en materia de salud y de protección civil.
 
 XVII.- Brindar orientación y asistencia al turista nacional y extranjero, así como canalizar las quejas de éstos ante la autoridad competente;
 
@@ -367,9 +373,17 @@ IX.- Coadyuvar con los centros de enseñanza superior, Dependencias y Entidades 
 
 X.- Bajo la coordinación de la Secretaría de Finanzas y Administración del Gobierno de Hidalgo, apoyar la instrumentación de los estímulos fiscales autorizados y aplicables, dirigidos a elevar la inversión y el empleo en el sector turístico, de acuerdo a las disposiciones legales en la materia;
 
-XI.- La Secretaría, en coordinación y con base en los lineamientos que determinen la Secretaría de Planeación, Desarrollo Regional y Metropolitano, así como la Secretaría de Finanzas y Administración, ambas del Gobierno del Estado de Hidalgo, diseñará y operará el Modulo de Evaluación del Desempeño del Sector Turístico, como instrumento estratégico de planeación, seguimiento y evaluación del sector; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-XII.- Las demás previstas en éste y otros ordenamientos aplicables.
+XI.- La Secretaría, en coordinación y con base en los lineamientos que determinen la Unidad de Planeación y Prospectiva, así como la Secretaría de Finanzas Públicas, ambas del Gobierno del Estado de Hidalgo, diseñará y operará el Módulo de Evaluación del Desempeño del Sector Turístico, como instrumento estratégico de planeación, seguimiento y evaluación del sector;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE AGOSTO DE 2020)</small>
+
+XII.- Coadyuvar con la Secretaría de Salud de Hidalgo, en el fomento de programas y medidas para la protección contra riesgos sanitarios y prevención de enfermedades, así como en la promoción de las normas de higiene y control sanitario en las instalaciones y servicios turísticos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE AGOSTO DE 2020)</small>
+
+XIII.- Las demás previstas en éste y otros ordenamientos aplicables.
 
 ### CAPÍTULO IV. DE LOS MUNICIPIOS
 
@@ -903,9 +917,17 @@ VIII.- Expedir en toda operación y aún sin solicitud del turista, factura deta
 
 IX.- Promover la participación de sus trabajadores y empleados en los programas de profesionalización y certificación de competencias, en los términos de las Leyes respectivas;
 
-X.- Realizar las modificaciones necesarias a los inmuebles, edificaciones y servicios turísticos que permitan la accesibilidad a toda persona de cualquier condición; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-XI.- Las demás que establezca la legislación aplicable en la materia.
+X.- Realizar las modificaciones necesarias a los inmuebles, edificaciones y servicios turísticos que permitan la accesibilidad a toda persona de cualquier condición;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE AGOSTO DE 2020)</small>
+
+XI.- Acatar las normas sanitarias y de higiene en los atractivos, Regiones, Destinos y en general todos los prestadores de servicios turísticos.; (sic) y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE AGOSTO DE 2020)</small>
+
+XII.- Las demás que establezca la legislación aplicable en la materia.
 
 ###### Artículo 76.
 
@@ -945,13 +967,17 @@ II.- Respetar el entorno natural y patrimonio cultural de los sitios en los que 
 
 III.- Acatar las prescripciones particulares de establecimientos mercantiles y empresas, cuyos servicios turísticos disfruten o contraten y particularmente las normas y reglamentos mercantiles de uso o de régimen interior;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-IV.- Pagar el precio de los servicios utilizados, en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado; y
+IV.- Pagar el precio de los servicios utilizados, en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-V.- Cuidar y conservar el entorno ecológico.
+V.- Cuidar y conservar el entorno ecológico; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+VI.- Atender las normas sanitarias y de higiene en las instalaciones y servicios turísticos, establecidas en las disposiciones legales y por las autoridades competentes.
 
 ###### Artículo 80.
 
@@ -1078,3 +1104,9 @@ P.O. 1 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 419 QUE REFORMA Y ADICIONAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 5, 7, 8, 75 Y 79 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
