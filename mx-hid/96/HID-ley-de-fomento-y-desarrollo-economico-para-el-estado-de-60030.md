@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2017-12-18"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -85,13 +85,21 @@ XIII.- Impulsar el asociacionismo productivo; los agrupamientos empresariales; l
 
 XIV.- Fomentar la modernización y competitividad del comercio y el abasto en la Entidad, favoreciendo el encadenamiento productivo, la eficiencia en la cadena de comercialización y esquemas de integración de las micro, pequeñas y medianas empresas;
 
-> <small>(REFORMADA, P. O. 22 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-XV.- Integrar un sistema de información económica y de registro estadístico empresarial, que soporte y favorezca la toma de decisiones, la promoción de inversiones, la apertura de nuevas Unidades Económicas, y la eficiencia para el otorgamiento de apoyos y estímulos, entre otros propósitos; e
+XV.- Integrar un sistema de información económica y de registro estadístico empresarial, que soporte y favorezca la formulación de políticas encaminadas a procurar un bienestar integral y sostenible en el Estado, la toma de decisiones, la promoción de inversiones, la apertura de nuevas Unidades Económicas, y la eficiencia para el otorgamiento de apoyos y estímulos, entre otros propósitos;
 
-> <small>(ADICIONADA, P. O. 22 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-XVI.- Impulsar las industrias creativas, a efecto de propiciar la inserción de las y los jóvenes al mercado laboral, lo que les permitirá obtener un ingreso económico para satisfacer sus necesidades, mediante el comercio y los derechos de propiedad intelectual.
+XVI.- Impulsar las industrias creativas, a efecto de propiciar la inserción de las y los jóvenes al mercado laboral, lo que les permitirá obtener un ingreso económico para satisfacer sus necesidades, mediante el comercio y los derechos de propiedad intelectual;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVII.- Impulsar la organización económica, el asociacionismo y los proyectos emprendedores a favor de los grupos en condiciones de vulnerabilidad en el Estado, a efecto de abatir el nivel de pobreza y las desventajas socioeconómicas de este sector; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+XVIII.- Impulsar la promoción económica a favor de las mujeres, a efecto de fortalecer la eliminación de la brecha de género en los sectores productivos del Estado y promover la igualdad de oportunidades.
 
 ### CAPÍTULO II. DE LAS DEFINICIONES
 
@@ -231,7 +239,9 @@ V.- Sugerir la celebración de Convenios de Coordinación y Colaboración con la
 
 VI.- Proponer acciones de fomento y consolidación de inversiones productivas en áreas y regiones estratégicas, que contribuyan a generar nuevos empleos, consolidar las cadenas productivas y los esquemas de asociacionismo, además de fortalecer la capacidad de exportación de las unidades productivas asentadas en el Territorio del Estado;
 
-VII.- Conocer y opinar sobre los programas de fomento económico regional, sectorial y municipal, para recomendar las acciones necesarias tendentes a mejorar el desempeño de las actividades económicas;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+VII.- Conocer y opinar sobre los programas de fomento económico regional, sectorial y municipal, para recomendar las acciones necesarias tendentes a mejorar el desempeño de las actividades económicas, dando atención prioritaria a jóvenes, mujeres y otros grupos en condiciones de vulnerabilidad;
 
 VIII.- Emitir opinión, proponer prioridades y adecuaciones a los programas, así como dar seguimiento y evaluar su cumplimiento;
 
@@ -387,7 +397,9 @@ II.- Propiciar una cultura empresarial basada en normas, procedimientos, prácti
 
 III.- Promover la vinculación entre las MIPYMES y las instituciones académicas, con la finalidad de desarrollar esquemas que favorezcan la modernización, innovación y desarrollo tecnológico e informático, particularmente en los sectores considerados como estratégicos;
 
-IV.- Estimular la apertura y operación de Unidades Económicas, en particular de aquellas que favorezcan el desarrollo regional sustentable, privilegiando las Unidades Económicas con menores consumos de agua y en su caso los esquemas que favorezcan su tratamiento y reciclamiento, así como las que hagan uso eficiente de la energía;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+IV.- Estimular la apertura y operación de Unidades Económicas, en particular de aquellas que favorezcan el desarrollo regional sustentable, privilegiando las Unidades Económicas con menores consumos de agua y en su caso los esquemas que favorezcan su tratamiento y reciclamiento, así como las que hagan uso eficiente de la energía, y las integradas por personas pertenecientes a jóvenes, mujeres y otros grupos en condiciones de vulnerabilidad;
 
 V.- Difundir los esquemas de financiamiento dispuestos para las MIPYMES, en coordinación con el Gobierno Federal, la banca de desarrollo y comercial e intermediarios financieros no bancarios, promoviendo nuevos mecanismos para simplificar y facilitar el acceso al financiamiento, así como apoyar las acciones de fomento a una mayor cultura crediticia y extensionismo financiero;
 
@@ -395,7 +407,9 @@ VI.- Consolidar, alinear y dar congruencia a la oferta de servicios a las MIPYME
 
 VII.- Crear el Centro Hidalguense de Servicios Empresariales, con el objeto de proporcionar orientación, asesoría, asistencia técnica y vinculación sobre financiamiento, capacitación, mercados, protección civil, medio ambiente y desarrollo empresarial, entre otros productos y servicios, que respalden la modernización, mayor competitividad y sustentabilidad de las Unidades Económicas;
 
-VIII.- Diseñar programas y acciones que propicien la conservación y crecimiento de los (sic) empresas familiares, así como aquellas del ámbito artesanal;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
+VIII.- Diseñar programas y acciones que propicien la conservación y crecimiento de las empresas familiares, así como aquellas del ámbito artesanal, jóvenes, mujeres y otros grupos en condiciones de vulnerabilidad;
 
 IX.- Respaldar, mediante apoyos específicos, las actividades empresariales en zonas marginadas del Estado, tanto urbanas como rurales;
 
@@ -834,3 +848,9 @@ P.O. 18 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 240 QUE ADICIONA EL ARTÍCULO 62 BIS A LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 427 POR EL QUE SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 1, FRACCIÓN VII DEL ARTÍCULO 10; Y FRACCIONES IV Y VIII DEL ARTÍCULO 28; Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 1 DE LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
