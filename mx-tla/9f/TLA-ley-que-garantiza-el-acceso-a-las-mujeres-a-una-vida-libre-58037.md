@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2019-12-24"
+last_updated: "2020-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -87,11 +87,11 @@ XII. Empoderamiento de las mujeres. Es un proceso por medio del cual las mujeres
 
 XIII. Misoginia. Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 6.
 
-Los Tipos de Violencia contra las mujeres son:
+Los tipos de violencia contra las mujeres son:
 
 I. Violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, insultos, humillaciones, intimidación, coacción, condicionamiento, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
@@ -103,23 +103,61 @@ IV. Violencia económica. Es toda acción u omisión del agresor que afecta la s
 
 V. Violencia sexual. Es cualquier acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño y limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales, y
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
-VI. Violencia política. Es toda acción u omisión y conducta agresiva, por si o a través de terceros, que causen daño en contra de una mujer, en ejercicio de sus derechos político-electoral (sic). Se consideran actos de violencia política, entre otros, aquellos que:
+VI. Violencia política contra las mujeres en razón de género. Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-a) Impongan por estereotipos de género la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-b) Asignen responsabilidades de género que tengan como resultado la limitación del ejercicio de la función político-pública.
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-c) Eviten por cualquier medio que las mujeres electas, titulares, o designadas a una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+Se consideran actos de violencia política contra las mujeres en razón de género, entre otros, los siguientes:
 
-d) Impidan o restrinjan su reincorporación al cargo cuando hagan uso de licencia justificada.
+a) Incumplir las disposiciones jurídicas nacionales, internacionales y locales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-e) Impongan sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos.
+b) Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-f) Discriminen a la autoridad electa designada o en el ejercicio de su función político-pública, por encontrarse en estado de embarazo.
+c) Ocultar información u omitir la convocatoria para el registro de precandidaturas, candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-g) Divulguen o revelen información personal y privada, de las mujeres candidatas, electas, designadas, o en el ejercicio de funciones político-públicas, con el objeto de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan.
+d) Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como precandidata, candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+e) Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+f) Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
+
+g) Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+h) Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+i) Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+j) Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+k) Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+l) Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+m) Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+n) Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+o) Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+p) Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+q) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+r) Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+s) Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+t) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+u) Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
+
+v) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidad administrativa.
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -783,6 +821,10 @@ VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las
 
 VIII. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de: identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, o cualquiera otra, que las coloque en una situación de mayor riesgo.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+En materia de violencia política, el Tribunal Electoral de Tlaxcala y el Instituto Tlaxcalteca de Elecciones, podrán solicitar, de oficio o a petición de parte, a las autoridades competentes el otorgamiento de las medidas a que se refiere la presente sección.
+
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
 
 ###### Artículo 47 Bis.
@@ -877,6 +919,8 @@ El Sistema Estatal tendrá por objeto la instrumentación de una coordinación �
 
 Independientemente de que se pueda establecer vinculación con los otros poderes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 51.
 
 El Sistema Estatal se conformará de la manera siguiente:
@@ -885,7 +929,9 @@ I. Un Presidente que será el Secretario de Gobierno o la persona que éste desi
 
 II. Una Secretaria Técnica que será la Titular del Instituto Estatal de la Mujer, y
 
-III. Diez vocales que serán los representantes de las dependencias y entidades siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE AGOSTO DE 2020)</small>
+
+III. Doce vocales que serán los representantes de las dependencias y entidades siguientes:
 
 a) Procuraduría General de Justicia del Estado;
 
@@ -906,6 +952,14 @@ h) Comisión Estatal de Derechos Humanos;
 i) Sala Familiar del Tribunal Superior de Justicia;
 
 j) Los organismos o dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+k) El Tribunal Electoral de Tlaxcala a través de quien lo presida.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+
+l) El Instituto Tlaxcalteca de Elecciones a través de quien presida la Comisión de Igualdad de Género e Inclusión.
 
 ###### Artículo 52.
 
@@ -1494,3 +1548,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 209.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTIDOS POLÍTICOS, DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO Y DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL, TODAS DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido de este Decreto.
