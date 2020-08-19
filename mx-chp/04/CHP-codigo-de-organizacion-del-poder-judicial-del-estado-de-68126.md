@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2015-07-01"
+last_updated: "2020-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2020 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -4936,3 +4938,31 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- El Consejo de la Judicatura del Estado llevará a cabo las acciones que sean necesarias para el debido cumplimiento del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 263 CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Código de Organización del Poder Judicial del Estado, expedido mediante Decreto 190, publicado en el Periódico Oficial número 151, Segunda Sección, Tomo III, de fecha 18 de marzo de 2009.
+
+Artículo Tercero.- Dentro del plazo de cuarenta y cinco días hábiles contados a partir de la publicación del presente Decreto, deberán llevarse a cabo las adecuaciones y reformas a los ordenamientos legales que resulten necesarios, a fin de adecuarlos al Código de Organización del Poder Judicial del Estado de Chiapas.
+
+Artículo Cuarto. Las Dependencias normativas correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
+
+Artículo Quinto. La Secretaría de Hacienda deberá proveer al Consejo de la Judicatura del Poder Judicial del Estado, las partidas correspondientes a los recursos financieros, materiales y humanos, para el inicio de funciones de los Juzgados Especializados en Materia Laboral.
+
+Artículo Sexto. Las disposiciones relativas a los Juzgados Especializados en Materia Laboral, entrarán en vigor a más tardar el mes de octubre del año 2020, término en el que el Consejo de la Judicatura del Poder Judicial del Estado, procederá a la instalación y funcionamiento de los Juzgados Especializados en Materia Laboral.
+
+Artículo Séptimo. El Consejo de la Judicatura emitirá el Acuerdo en el que se establezca la competencia y facultades de los Juzgados Especializados en Materia Laboral.
+
+Artículo Octavo. Una vez que entren en operación los Juzgados Especializados en Materia Laboral, los procedimientos y los juicios se tramitarán ante ellos de conformidad con lo establecido en la Ley Federal del Trabajo.
+
+Artículo Noveno. El Consejo de la Judicatura deberá nombrar a los titulares del Instituto de Formación, Profesionalización y Carrera Judicial y del Centro Estatal de Justicia Alternativa, en términos de presente Decreto, previa disponibilidad presupuestal, la cual deberá dar prioridad a los servicios de impartición de justicia e implementación de las reformas en materia de justicia.
+
+Las personas que actualmente se encuentran a cargo de la Dirección General del Centro Estatal de Justicia Alternativa y del Instituto de Formación, Profesionalización y Carrera Judicial, permanecerán en funciones hasta en tanto se designe a los que ocuparán estos cargos, de acuerdo a la disponibilidad presupuestal.
+
+Artículo Décimo. El Consejo de la Judicatura del Poder Judicial del Estado, llevará a cabo las acciones que sean necesarias para el debido cumplimiento del presente Decreto.
+
+El Ejecutivo del Estado, dispondrá se publique, circule y se le dé el debido cumplimiento.
