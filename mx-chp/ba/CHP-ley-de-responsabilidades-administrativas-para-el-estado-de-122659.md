@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-responsabilidades-administrativas-para-el-estado-de-1226
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-12"
-last_updated: "2020-06-29"
+last_updated: "2020-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 12 de julio de 2017.
 
@@ -65,15 +65,17 @@ X. Determinar los mecanismos para la prevención, corrección e investigación d
 
 XI. Crear las bases para que todo Ente público establezca políticas eficaces de ética pública y responsabilidad en el servicio público.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 3.
 
 Para efectos de esta Ley se entenderá por:
 
-I. Autoridad Investigadora: A las autoridades en la Secretaría, a los Órganos Administrativos encargados de la investigación de faltas administrativas en los órganos internos de control, y el Órgano de Fiscalización Superior del Congreso del Estado.
+I. Autoridad Investigadora: A las autoridades en la Secretaría de la Honestidad y Función Pública, a los Órganos Administrativos encargados de la investigación de faltas administrativas en los órganos internos de control, y el Órgano de Fiscalización Superior del Congreso del Estado.
 
-II. Autoridad Resolutora: Tratándose de faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los Órganos internos de control. Para las faltas administrativas graves, así como para las faltas de particulares, lo será el Tribunal de Justicia Administrativa.
+II. Autoridad Resolutora: Tratándose de faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los Órganos Internos de Control. Para las faltas administrativas graves, así como para las faltas de particulares, lo será el Juzgado Especializado en Responsabilidad Administrativa del Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
 
-III. Autoridad Substanciadora: A la autoridad en la Secretaría, los órganos internos de control, el Órgano de Fiscalización Superior del Congreso del Estado, que en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa, hasta la conclusión de la audiencia inicial. La función de la autoridad substanciadora, en ningún caso podrá ser ejercida por una autoridad investigadora.
+III. Autoridad Substanciadora: A la autoridad en la Secretaría, los Órganos Internos de Control, al Órgano de Fiscalización Superior del Congreso del Estado, que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa, hasta la conclusión de la audiencia inicial. La función de la autoridad substanciadora, en ningún caso podrá ser ejercida por una autoridad investigadora.
 
 IV. Comité Coordinador: A la instancia a la que hace referencia el artículo 115 de la Constitución Política del Estado Libre y Soberano de Chiapas, encargada de la coordinación y eficacia del Sistema Anticorrupción del Estado de Chipas.
 
@@ -85,21 +87,21 @@ VII. Constitución Local: A la Constitución Política del Estado Libre y Sobera
 
 VIII. Declarante: Al servidor público obligado a presentar las declaraciones de situación patrimonial, de intereses y fiscal, en los términos de esta Ley.
 
-IX. Denunciante: A la persona física o moral, o el servidor público que acude ante las autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con faltas administrativas, en términos de los artículos 91 y 93 de esta Ley.
+IX. Denunciante: A la persona física o moral, o el servidor público que acude ante la Autoridad Investigadora a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con faltas administrativas, en términos de los artículos 91 y 93 de esta Ley.
 
-X. Ente público: A los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal, los municipios, la Fiscalía General del Estado, los órganos jurisdiccionales que no formen parte del poder judicial.
+X. Ente público: A los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal, los municipios, la Fiscalía General del Estado de Chiapas, los órganos jurisdiccionales que no formen parte del poder judicial.
 
-XI. Entidades: A los organismos públicos descentralizados, las empresas de participación estatal y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren la Ley Orgánica de la Administración Pública del Estado de Chiapas, la Ley de Entidades Paraestatales del Estado de Chiapas.
+XI. Entidades: A los organismos públicos descentralizados, las empresas de participación estatal y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren la Ley Orgánica de la Administración Pública del Estado de Chiapas y la Ley de Entidades Paraestatales del Estado de Chiapas.
 
-XII. Expediente de Presunta Responsabilidad Administrativa: Al expediente derivado de la investigación que las autoridades investigadoras realizan en sede administrativa, al tener conocimiento de un acto u omisión posiblemente constitutivo de faltas administrativas.
+XII. Expediente de Presunta Responsabilidad Administrativa: Al expediente derivado de la investigación que la Autoridad Investigadora realiza en (sic) sede administrativa, al tener conocimiento de un acto u omisión posiblemente constitutivo de faltas administrativas.
 
 XIII. Faltas Administrativas: A las faltas administrativas graves, las faltas administrativas no graves; así como las faltas de particulares, conforme a lo dispuesto en esta Ley.
 
-XIV. Falta Administrativa Grave: A las faltas administrativas de los servidores públicos catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Tribunal de Justicia Administrativa.
+XIV. Falta Administrativa Grave: A las faltas administrativas de los servidores públicos catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Juzgado Especializado en Responsabilidad Administrativa del Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
 
-XV. Falta Administrativa No Grave: A las faltas administrativas de los servidores públicos en los términos de la presente Ley, cuya sanción corresponde a la Secretaría y a los órganos internos de control.
+XV. Falta Administrativa No Grave: A las faltas administrativas de los servidores públicos en los términos de la presente Ley, cuya sanción corresponde a la Secretaría y a los Órganos Internos de Control.
 
-XVI. Faltas de Particulares: A los actos u omisiones de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal de Justicia Administrativa en los términos de la misma.
+XVI. Faltas de Particulares: A los actos u omisiones de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Juzgado Especializado en Responsabilidad Administrativa del Tribunal Administrativo del Poder Judicial del Estado.
 
 XVII. Informe de Presunta Responsabilidad Administrativa: Al instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas administrativas señaladas en la presente Ley, exponiendo de forma documentada con los medios de prueba y fundamentos, los motivos y presunta responsabilidad del servidor público o de un particular en la comisión de faltas administrativas, estableciendo en todo momento las circunstancias de modo, tiempo y lugar, agotando la exhaustividad.
 
@@ -107,25 +109,29 @@ XVIII. Ley: A la Ley de Responsabilidades Administrativas para el Estado de Chia
 
 XIX. Ley General: Ley General de Responsabilidades Administrativas.
 
-XX. Magistrado: Al integrante del Tribunal de Justicia Administrativa.
+XX. Juez Especializado: Al Titular del Juzgado Especializado en Responsabilidad Administrativa del Tribunal Administrativo del Poder Judicial del Estado.
 
-XXI. Órganos Constitucionales Autónomos: A los Organismos a los que la Constitución Política del Estado Libre y Soberano de Chiapas otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio.
+XXI. Juzgado Especializado: Al Juzgado Especializado en Responsabilidad Administrativa del Tribunal Administrativo del Poder Judicial del Estado.
 
-XXII. Órgano de Fiscalización: Al Órgano de Fiscalización Superior del Congreso del Estado.
+XXII. Órganos Constitucionales Autónomos: A los Organismos a los que la Constitución Política del Estado Libre y Soberano de Chiapas otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio.
 
-XXIII. Órganos Internos de Control: A la Secretaría de la Contraloría General, a las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Organismos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades administrativas.
+XXIII. Órgano de Fiscalización: Al Órgano de Fiscalización Superior del Congreso del Estado.
 
-XXIV. Plataforma Digital: A la plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley.
+XXIV. Órganos Internos de Control: A la Secretaría de la Honestidad y Función Pública del Estado, a las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos Constitucionales Autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades administrativas.
 
-XXV. Secretaría: A la Secretaría de la Contraloría General, como Unidad Administrativa encargada de promover, evaluar y fortalecer el buen funcionamiento del control interno de los entes públicos integrantes de la Administración Pública Estatal.
+XXV. Plataforma Digital: A la plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley.
 
-XXVI. Servidores Públicos: A las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el artículo 109 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+XXVI. Sala de Revisión: A la Sala de Revisión del Tribunal Administrativo del Poder Judicial del Estado.
 
-XXVII. Sistema Anticorrupción del Estado de Chiapas: A la instancia de coordinación entre las autoridades de todos los órdenes de gobierno, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
+XXVII. Secretaría: A la Secretaría de la Honestidad y Función Pública del Estado de Chiapas, como Unidad Administrativa encargada de promover, evaluar y fortalecer el buen funcionamiento del control interno de los entes públicos integrantes de la Administración Pública Estatal.
 
-XXVIII. Sistema Electrónico Estatal: Al Sistema a que se refiere la Ley del Sistema Anticorrupción del Estado de Chiapas, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley.
+XXVIII. Servidores Públicos: A las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el artículo 109 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
-XXIX. Tribunal: Al Tribunal de Justicia Administrativa del Estado de Chiapas.
+XXIX. Sistema Anticorrupción del Estado de Chiapas: A la instancia de coordinación entre las autoridades de todos los órdenes de gobierno, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
+
+XXX. Sistema Electrónico Estatal: Al Sistema a que se refiere la Ley del Sistema Anticorrupción del Estado de Chiapas, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley.
+
+XXXI. Tribunal: Al Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
 
 ###### Artículo 4.
 
@@ -179,21 +185,23 @@ Las autoridades del Estado y Municipios concurrirán en el cumplimiento del obje
 
 El Sistema Anticorrupción del Estado de Chiapas establecerá las bases y principios de coordinación entre las autoridades competentes en la materia en el Estado y los municipios.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 9.
 
 En el ámbito de su competencia, serán autoridades facultadas para aplicar la presente Ley:
 
-I. La Secretaría de la Contraloría General.
+I. La Secretaría.
 
 II. Los Órganos Internos de Control.
 
-III. El Órgano de Fiscalización Superior del Congreso del Estado.
+III. Órgano de Fiscalización.
 
-IV. El Tribunal de Justicia Administrativa.
+IV. El Tribunal.
 
-V. Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial, será competente para investigar e imponer las sanciones que correspondan, el Consejo de la Judicatura del Tribunal Superior de Justicia del Estado, conforme al régimen establecido en los artículos 74 y 110 de la Constitución Local, en el Código de Organización del Poder Judicial y en su reglamentación interna correspondiente. Lo anterior, sin perjuicio de las atribuciones del Órgano de Fiscalización Superior del Congreso del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+V. Los Municipios.
 
-VI. Los Municipios.
+Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial, será competente para investigar e imponer las sanciones que correspondan, el Consejo de la Judicatura del Tribunal Superior de Justicia del Estado, conforme al régimen establecido en los artículos 74 y 110 de la Constitución Local, en el Código de Organización del Poder Judicial y en su reglamentación interna correspondiente. Lo anterior, sin perjuicio de las atribuciones del Órgano de Fiscalización en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 ###### Artículo 10.
 
@@ -709,9 +717,11 @@ La Secretaría o los Órganos Internos de Control dejarán constancia de la no i
 
 ### Capítulo II. De las Sanciones para los Servidores Públicos por Faltas Graves
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 78.
 
-Las sanciones administrativas que imponga el Tribunal a los Servidores Públicos, derivado de los procedimientos por la comisión de Faltas Administrativas Graves, consistirán en:
+Las sanciones administrativas que imponga el Tribunal a través del Juzgado Especializado a los Servidores Públicos, derivado de los procedimientos por la comisión de Faltas Administrativas Graves, consistirán en:
 
 I. Suspensión del empleo, cargo o comisión.
 
@@ -721,7 +731,9 @@ III. Sanción económica.
 
 IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
 
-A juicio del Tribunal, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la Falta Administrativa Grave.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+A juicio del Juez Especializado, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre y cuando sean compatibles entre ellas y de acuerdo a la gravedad de la Falta Administrativa Grave.
 
 La suspensión del empleo, cargo o comisión que se imponga podrá ser de treinta a noventa días naturales.
 
@@ -731,7 +743,9 @@ En caso de que se determine la inhabilitación, ésta será de uno hasta diez a�
 
 En el caso de que la Falta Administrativa Grave cometida por el Servidor Público le genere beneficios económicos, a sí mismo o a cualquiera de las personas a que se refiere el artículo 52 de esta Ley, se le impondrá sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos. En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios económicos obtenidos. Lo anterior, sin perjuicio de la imposición de las sanciones a que se refiere el artículo anterior.
 
-El Tribunal determinará el pago de una indemnización cuando, la Falta Administrativa Grave a que se refiere el párrafo anterior, provocó daños y perjuicios a la Hacienda Pública, o al patrimonio de los Entes Públicos. En dichos casos, el servidor público estará obligado a reparar la totalidad de los daños y perjuicios causados y las personas que, en su caso, también hayan obtenido un beneficio indebido, serán solidariamente responsables.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+El Juez Especializado determinará el pago de una indemnización cuando la Falta Administrativa Grave a que se refiere el párrafo anterior provoque daños y perjuicios a la Hacienda Pública o al patrimonio de los Entes Públicos. En dichos casos, el servidor público estará obligado a reparar la totalidad de los daños y perjuicios causados; y las personas que, en su caso, también hayan obtenido un beneficio indebido, serán solidariamente responsables.
 
 ###### Artículo 80.
 
@@ -779,7 +793,9 @@ Para la imposición de sanciones a las personas morales deberá observarse adem�
 
 Las sanciones previstas en los incisos c) y d) de esta fracción, sólo serán procedentes cuando la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con Faltas Administrativas Graves.
 
-A juicio del Tribunal, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre que sean compatibles entre ellas y de acuerdo a la gravedad de las Faltas de Particulares.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+A juicio del Juez Especializado, podrán ser impuestas al infractor una o más de las sanciones señaladas, siempre que sean compatibles entre ellas y de acuerdo a la gravedad de las Faltas de Particulares.
 
 Se considerará como atenuante en la imposición de sanciones a personas morales, cuando los órganos de administración, representación, vigilancia o los socios de las personas morales denuncien o colaboren en las investigaciones, proporcionando la información y los elementos que posean, resarzan los daños que se hubieren causado.
 
@@ -807,19 +823,23 @@ Las personas morales serán sancionadas por la comisión de Faltas de Particular
 
 ### Capítulo IV. De las Disposiciones Comunes para la Imposición de Sanciones por Faltas Administrativas Graves y Faltas de Particulares
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 84.
 
 Para la imposición de las sanciones por Faltas Administrativas Graves y Faltas de Particulares, se observarán las siguientes reglas:
 
-I. La suspensión o la destitución del puesto de los Servidores Públicos, serán impuestas por el Tribunal y ejecutadas por el titular o servidor público competente del Ente Público correspondiente.
+I. La suspensión o la destitución del puesto de los Servidores Públicos, serán impuestas por el Tribunal, a través del Juez Especializado y ejecutadas por el titular o servidor público competente del Ente Público correspondiente.
 
-II. La inhabilitación temporal para desempeñar un empleo, cargo o comisión en el servicio público, y para participar en adquisiciones, arrendamientos, servicios u obras públicas, será impuesta por el Tribunal y ejecutada en los términos de la resolución dictada.
+II. La inhabilitación temporal para desempeñar un empleo, cargo o comisión en el servicio público, y para participar en adquisiciones, arrendamientos, servicios u obras públicas, será impuesta por el Tribunal a través del Juez Especializado y ejecutada en los términos de la resolución dictada.
 
-III. Las sanciones económicas serán impuestas por el Tribunal y ejecutadas por la Secretaría de Hacienda en términos de la legislación aplicable.
+III. Las sanciones económicas serán impuestas por el Tribunal a través del Juez Especializado y ejecutadas por la Secretaría de Hacienda en términos de la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 85.
 
-En los casos de sanción económica, el Tribunal ordenará a los responsables el pago que corresponda y, en el caso de daños y perjuicios que afecten a la Hacienda Pública, o al patrimonio de los Entes Públicos, adicionalmente el pago de las indemnizaciones correspondientes. Dichas sanciones económicas tendrán el carácter de créditos fiscales.
+En los casos de sanción económica, el Juez Especializado ordenará a los responsables el pago que corresponda y, en el caso de daños y perjuicios que afecten a la Hacienda Pública, o al patrimonio de los Entes Públicos, adicionalmente el pago de las indemnizaciones correspondientes. Dichas sanciones económicas tendrán el carácter de créditos fiscales.
 
 Las cantidades que se cobren con motivo de las indemnizaciones por concepto de daños y perjuicios formarán parte de la Hacienda Pública o del patrimonio de los Entes Públicos afectados.
 
@@ -827,9 +847,11 @@ Las cantidades que se cobren con motivo de las indemnizaciones por concepto de d
 
 El monto de la sanción económica impuesta se actualizará, para efectos de su pago, en la forma y términos que establece el Código de la Hacienda Pública para el Estado de Chiapas, en tratándose de contribuciones y aprovechamientos.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 87.
 
-Cuando el Servidor Público o los particulares presuntamente responsables de estar vinculados con una Falta Administrativa Grave, desaparezcan o exista riesgo inminente de que oculten, enajenen o dilapiden sus bienes a juicio del Tribunal, se solicitará a la Secretaría de Hacienda, en cualquier fase del procedimiento proceda al embargo precautorio de sus bienes, a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse con motivo de la infracción cometida. Impuesta la sanción económica, el embargo precautorio se convertirá en definitivo y se procederá en los términos de la legislación aplicable.
+Cuando el Servidor Público o los particulares presuntamente responsables de estar vinculados con una Falta Administrativa Grave, desaparezcan o exista riesgo inminente de que oculten, enajenen o dilapiden sus bienes a juicio del Juez Especializado, se solicitará a la Secretaría de Hacienda, en cualquier fase del procedimiento proceda al embargo precautorio de sus bienes, a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse con motivo de la infracción cometida. Impuesta la sanción económica, el embargo precautorio se convertirá en definitivo y se procederá en los términos de la legislación aplicable.
 
 ###### Artículo 88.
 
@@ -965,19 +987,27 @@ El plazo para la presentación del recurso será de cinco días hábiles, contad
 
 El escrito de impugnación deberá presentarse ante la Autoridad Investigadora que hubiere hecho la calificación de la Falta Administrativa como no grave, debiendo expresar los motivos por los que se estime indebida dicha calificación.
 
-Interpuesto el recurso, la Autoridad Investigadora deberá correr traslado, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, al Tribunal, en un término no mayor a cinco días hábiles.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+Interpuesto el recurso, la Autoridad Investigadora deberá correr traslado al Juzgado Especializado, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, en un término no mayor a cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 105.
 
-En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, el Tribunal requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado, el recurso se tendrá por no presentado.
+En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, el Juez Especializado requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado, el recurso se tendrá por no presentado.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 106.
 
-En caso de el Tribunal tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en el artículo 109 de esta Ley, admitirán dicho recurso y darán vista al presunto infractor para que en el término de cinco hábiles manifieste lo que a su derecho convenga.
+En caso de que el Juez Especializado tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en el artículo 109 de esta Ley, admitirán dicho recurso y darán vista al presunto infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 107.
 
-Una vez subsanadas las deficiencias o aclaraciones o si no existieren, el Tribunal resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
+Una vez subsanadas las deficiencias o aclaraciones o si no existieren, el Juez Especializado resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
 
 ###### Artículo 108.
 
@@ -1431,7 +1461,9 @@ II. El acuerdo de admisión del Informe de Presunta Responsabilidad Administrati
 
 III. El acuerdo por el que se ordene la citación a la audiencia inicial del procedimiento de responsabilidad administrativa.
 
-IV. En el caso de Faltas Administrativas Graves, el acuerdo por el que remiten las constancias originales del expediente del procedimiento de responsabilidad administrativa al Tribunal.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+IV. En el caso de Faltas Administrativas Graves, el acuerdo por el que remiten las constancias originales del expediente del procedimiento de responsabilidad administrativa al Juzgado Especializado.
 
 V. Los acuerdos por lo que se aperciba a las partes o terceros, con la imposición de medidas de apremio.
 
@@ -1615,29 +1647,33 @@ X. Una vez trascurrido el periodo de alegatos, la Autoridad Resolutora del asunt
 
 XI. La resolución deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
-### Capítulo III. Del Procedimiento de Responsabilidad Administrativa cuya Resolución Corresponda al Tribunal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2020)</small>
+
+### Capítulo III. Del Procedimiento de Responsabilidad Administrativa ante el Juzgado Especializado
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 209.
 
 En los asuntos relacionados con Faltas Administrativas Graves o Faltas de Particulares, se deberá proceder de conformidad con el procedimiento previsto en este artículo.
 
-La Autoridad Substanciadora deberá observar lo dispuesto en las fracciones I a VII del artículo anterior, luego de lo cual procederá conforme a lo dispuesto en las siguientes fracciones:
+La Autoridad Substanciadora deberá observar lo dispuesto en las fracciones I a VII del artículo anterior, luego procederá conforme a lo dispuesto en las siguientes fracciones:
 
-I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la audiencia inicial, la Autoridad Substanciadora deberá, bajo su responsabilidad, enviar al Tribunal los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio del Tribunal encargado de la resolución del asunto.
+I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la audiencia inicial, la Autoridad Substanciadora deberá, bajo su responsabilidad, enviar al Juzgado Especializado los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio del Juzgado Especializado encargado de la resolución del asunto.
 
-II. Cuando el Tribunal reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el Informe de Presunta Responsabilidad Administrativa, sea de las consideradas como graves. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la Autoridad Substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el artículo anterior.
+II. Cuando el Juez Especializado reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el Informe de Presunta Responsabilidad Administrativa, sea de las consideradas como graves. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la Autoridad Substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el artículo anterior.
 
-De igual forma, de advertir el Tribunal que los hechos descritos por la Autoridad Investigadora en el Informe de Presunta Responsabilidad Administrativa, corresponden a la descripción de una Falta Grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles. En caso de que la Autoridad Investigadora se niegue a hacer la reclasificación, bajo su más estricta responsabilidad así lo hará saber al Tribunal fundando y motivando su proceder. En este caso, el Tribunal continuará con el procedimiento de responsabilidad administrativa.
+De igual forma, de advertir el Juez Especializado que los hechos descritos por la Autoridad Investigadora en el Informe de Presunta Responsabilidad Administrativa, corresponden a la descripción de una Falta Grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles. En caso de que la Autoridad Investigadora se niegue a hacer la reclasificación, bajo su más estricta responsabilidad así lo hará saber al Juzgado Especializado fundando y motivando su proceder. En este caso, el Juez Especializado continuará con el procedimiento de responsabilidad administrativa.
 
-Una vez que el Tribunal haya decidido que el asunto corresponde a su competencia y, en su caso, se haya solventado la reclasificación, deberá notificar personalmente a las partes sobre la recepción del expediente.
+Una vez que el Juez Especializado haya decidido que el asunto corresponde a su competencia y, en su caso, se haya solventado la reclasificación, deberá notificar personalmente a las partes sobre la recepción del expediente.
 
 Cuando conste en autos que las partes han quedado notificadas, dictará dentro de los quince días hábiles siguientes, el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo.
 
-III. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, el Tribunal declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes.
+III. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, el Juez Especializado declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes.
 
-IV. Una vez trascurrido el periodo de alegatos, el Tribunal, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera debiendo expresar los motivos para ello.
+IV. Una vez trascurrido el periodo de alegatos, el Juez Especializado, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera debiendo expresar los motivos para ello.
 
-V. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
+V. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor a diez días hábiles.
 
 #### Sección Primera. De la Revocación
 
@@ -1645,7 +1681,9 @@ V. La resolución, deberá notificarse personalmente al presunto responsable. En
 
 Los Servidores Públicos que resulten responsables por la comisión de Faltas Administrativas No Graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por la Secretaría o los Órganos Internos de Control, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
 
-Las resoluciones que se dicten en el recurso de revocación serán impugnables ante el Tribunal, vía Juicio Contencioso Administrativo.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+Las resoluciones que se dicten en el recurso de revocación serán impugnables vía Juicio Contencioso Administrativo ante el Juzgado Especializado.
 
 ###### Artículo 211.
 
@@ -1685,7 +1723,9 @@ El recurso de reclamación procederá en contra de las resoluciones de la Autori
 
 El recurso de reclamación se interpondrá ante la Autoridad Substanciadora o Resolutora, según corresponda, que haya dictado el auto recurrido, dentro de los cinco días hábiles siguientes a aquél en que surta efectos la notificación de que se trate.
 
-Interpuesto el recurso, se ordenará correr traslado a la contraparte por el término de tres días hábiles para que exprese lo que a su derecho convenga, sin más trámite, se dará cuenta al Tribunal para que resuelva en el término de cinco días hábiles.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+Interpuesto el recurso, se ordenará correr traslado a la contraparte por el término de tres días hábiles para que exprese lo que a su derecho convenga, sin más trámite, se dará cuenta al Juez Especializado para que resuelva en el término de cinco días hábiles.
 
 Del recurso de reclamación conocerá la Autoridad Substanciadora o Resolutora que haya emitido el auto recurrido.
 
@@ -1693,13 +1733,17 @@ La resolución de la reclamación no admitirá recurso legal alguno.
 
 #### Sección Tercera. Del Recurso de Apelación
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 215.
 
-Las resoluciones emitidas por el Tribunal, podrán ser impugnadas por los responsables o por los terceros, mediante el recurso de apelación, ante la instancia y conforme a los medios que determinen la ley orgánica del Tribunal.
+Las resoluciones emitidas por el Juez Especializado, podrán ser impugnadas por los responsables o por los terceros, mediante el recurso de apelación, ante la Sala de Revisión.
 
-El recurso de apelación se promoverá mediante escrito ante el Tribunal que emitió la resolución, dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
+El recurso de apelación se promoverá mediante escrito ante el Juez Especializado que emitió la resolución, dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación de la resolución que se recurre.
 
 En el escrito deberán formularse los agravios que consideren las partes se les hayan causado, exhibiéndose una copia del mismo para el expediente y una para cada una de las partes.
+
+El Juez Especializado, dará vista a las partes para que, en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido este término, el Juez Especializado remitirá los autos originales en el plazo de cinco días hábiles a la Sala de Revisión.
 
 ###### Artículo 216.
 
@@ -1709,19 +1753,25 @@ I. La que determine imponer sanciones por la comisión de Faltas Administrativas
 
 II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean Servidores Públicos o particulares.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 217.
 
-La instancia que conozca de la apelación deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia.
+La Sala de Revisión que conozca de la apelación deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia.
 
 Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos establecidos en el artículo 215 de esta Ley, se señalará al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
 
-El Tribunal, dará vista a las partes para que en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido este término se procederá a resolver con los elementos que obren en autos.
+La Sala de Revisión, dará vista a las partes para que, en el término de tres días hábiles, manifiesten lo que a su derecho convenga; transcurrido este término se procederá a resolver con los elementos que obren en autos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 218.
 
-El Tribunal procederá al estudio de los conceptos de apelación, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de apelación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la inocencia del Servidor Público o del Particular, o de ambos; o en caso que el recurrente sea la Autoridad Investigadora, las violaciones de forma hayan impedido conocer con certeza la responsabilidad de los involucrados.
+La Sala de Revisión procederá al estudio de los conceptos de apelación, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de apelación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la inocencia del Servidor Público o del Particular, o de ambos; o en caso que el recurrente sea la Autoridad Investigadora, las violaciones de forma que hayan impedido conocer con certeza la responsabilidad de los involucrados.
 
-En los asuntos en los que se desprendan violaciones de fondo de las cuales pudiera derivarse el sobreseimiento del procedimiento de responsabilidad administrativa, la inocencia del recurrente, o la determinación de culpabilidad respecto de alguna conducta, se le dará preferencia al estudio de aquéllas aún de oficio.
+En los asuntos en los que se desprendan violaciones de fondo de las cuales pudiera derivarse al sobreseimiento del procedimiento de responsabilidad administrativa, la inocencia del recurrente, o la determinación de culpabilidad respecto de alguna conducta, se le dará preferencia al estudio de aquellas aún de oficio.
+
+La Sala de Revisión resolverá en un término de treinta días hábiles.
 
 ###### Artículo 219.
 
@@ -1731,9 +1781,11 @@ Se exceptúan del párrafo anterior, los fiscales del Ministerio Público, perit
 
 #### Sección Cuarta. De la Revisión
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 220.
 
-Las sentencias definitivas que emita el Tribunal, podrán ser impugnadas por la Secretaría, los Órganos Internos del Control o el Órgano de Fiscalización, en los términos que prevea la normatividad aplicable.
+Las sentencias definitivas que emita el Juez Especializado, podrán ser impugnadas por la Secretaría, los Órganos Internos del Control o el Órgano de Fiscalización, y se tramitará en los mismos términos que el Recurso de Apelación.
 
 ### Capítulo IV. De la Ejecución
 
@@ -1749,45 +1801,57 @@ Tratándose de los Servidores Públicos de base, la suspensión y la destitució
 
 #### Sección Segunda. Del Cumplimiento y Ejecución de Sanciones por Faltas Administrativas Graves y Faltas de Particulares
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 223.
 
-Las sanciones económicas impuestas por el Tribunal, constituirán créditos fiscales a favor de la Hacienda Pública, o del patrimonio de los Entes Públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Hacienda, a la que será notificada la resolución emitida por el Tribunal.
+Las sanciones económicas impuestas por el Juez Especializado o por la Sala de Revisión al conocer del recurso de apelación, constituirán créditos fiscales a favor de la Hacienda Pública, o del patrimonio de los Entes Públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Hacienda, a la que será notificada la resolución emitida por el Tribunal.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 224.
 
-Cuando haya causado ejecutoria una sentencia en la que se determine la plena responsabilidad de un Servidor Público por Faltas Administrativas Graves, el Magistrado, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de esta para su cumplimiento, de conformidad con las siguientes reglas:
+Cuando haya causado ejecutoria una sentencia en la que se determine la plena responsabilidad de un Servidor Público por Faltas Administrativas Graves, el Juez Especializado, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de esta para su cumplimiento, de conformidad con las siguientes reglas:
 
-I. Cuando el Servidor Público haya sido suspendido, destituido o inhabilitado, se dará vista a su superior jerárquico y a la Secretaría.
+I. Cuando el servidor público haya sido suspendido, destituido o inhabilitado, se dará vista al superior jerárquico y a la Secretaría.
 
 II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista a la Secretaría de Hacienda.
 
-En el oficio respectivo, el Tribunal prevendrá a las autoridades señaladas para que informen, dentro del término de diez días, sobre el cumplimiento que den a la sentencia en los casos a que se refiere la fracción I de este artículo. En el caso de la fracción II, la Secretaría de Hacienda informará al Tribunal una vez que se haya cubierto la indemnización y la sanción económica que corresponda.
+En el oficio respectivo, el Juez Especializado prevendrá a las autoridades señaladas para que informen, dentro del término de diez días, sobre el cumplimiento que den a la sentencia en los casos a que se refiere la fracción I de este artículo. En el caso de la fracción II, la Secretaría de Hacienda informará al Juzgado Especializado una vez que se haya cubierto la indemnización y la sanción económica que corresponda.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 225.
 
-Cuando haya causado ejecutoria una sentencia en la que se determine la comisión de Faltas de Particulares, el Tribunal, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de esta para su cumplimiento, de conformidad con las siguientes reglas:
+Cuando haya causado ejecutoria una sentencia en la que se determine la comisión de Faltas de Particulares, el Juez Especializado, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de esta para su cumplimiento, de conformidad con las siguientes reglas:
 
-I. Cuando el particular haya sido inhabilitado para participar con cualquier carácter en adquisiciones, arrendamientos, servicios u obras públicas, el Tribunal ordenará su publicación en el Periódico Oficial.
+I. Cuando el particular haya sido inhabilitado para participar con cualquier carácter en adquisiciones, arrendamientos, servicios u obras públicas, el Juez Especializado ordenará su publicación en el Periódico Oficial.
 
 II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista a la Secretaría de Hacienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 226.
 
-Cuando el particular tenga carácter de persona moral, sin perjuicio de lo establecido en el artículo que antecede, el Tribunal girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
+Cuando el particular tenga carácter de persona moral, sin perjuicio de lo establecido en el artículo que antecede, el Juez Especializado girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
 
 I. Cuando se decrete la suspensión de actividades de la sociedad respectiva, se dará vista a la Secretaría de Economía, y a la Secretaría de Hacienda, se inscribirá en el Registro Público de Comercio y se hará publicar un extracto de la sentencia que decrete esta medida, en el Periódico Oficial y en uno de los diarios de mayor circulación en la localidad donde tenga su domicilio fiscal el particular.
 
 II. Cuando se decrete la disolución de la sociedad respectiva, los responsables procederán de conformidad con la Ley General de Sociedades Mercantiles en materia de disolución y liquidación de las sociedades, o en su caso, conforme al Código Civil para el Estado de Chiapas, y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 227.
 
-Cuando haya causado ejecutoria una sentencia en la que se determine que no existe una Falta Administrativa Grave o Faltas de Particulares, el Tribunal, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento. En los casos en que haya decretado la suspensión del Servidor Público en su empleo, cargo o comisión, ordenará la restitución inmediata del mismo.
+Cuando haya causado ejecutoria una sentencia en la que se determine que no existe una Falta Administrativa Grave o Faltas de Particulares, el Juez Especializado, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva, así como los puntos resolutivos de ésta para su cumplimiento. En los casos en que haya decretado la suspensión del Servidor Público en su empleo, cargo o comisión, ordenará la restitución inmediata del mismo.
 
 ###### Artículo 228.
 
 El incumplimiento de las medidas cautelares previstas en el artículo 123 de la presente Ley, por parte de la autoridad obligada a cumplir con dicha disposición, será causa de responsabilidad administrativa en los términos de la Ley.
 
-Mientras no se dicte sentencia definitiva el Magistrado que hubiere conocido del incidente, podrá modificar o revocar la resolución que haya decretado o negado las medidas cautelares, cuando ocurra un hecho superveniente que lo justifique.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+Mientras no se dicte sentencia definitiva el Juez Especializado que hubiere conocido del incidente, podrá modificar o revocar la resolución que haya decretado o negado las medidas cautelares, cuando ocurra un hecho superveniente que lo justifique.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO DEL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA E IMPROCEDENCIA
 
@@ -1895,7 +1959,9 @@ II. Que se encuentra acreditada la responsabilidad del encausado;
 
 III. La sanción que deba imponerse según corresponda.
 
-IV. En caso de ser aprobadas las conclusiones, se envié la declaración correspondiente al Tribunal de Justicia Administrativa, en concepto de acusación, para los efectos legales respectivos.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+IV. En caso de ser aprobadas las conclusiones, se envíe la declaración correspondiente al Tribunal en concepto de acusación, para los efectos legales respectivos.
 
 De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
 
@@ -1915,15 +1981,19 @@ Una vez concluido el término señalado en el artículo anterior, el Pleno del C
 
 I. La Secretaría de la Mesa Directiva dará lectura al dictamen o una síntesis que contenga los puntos substanciales, y las conclusiones de la Comisión Instructora;
 
-II. El Jurado de Acusación acordará, por el voto de las dos terceras partes del número total de sus integrantes, si ha lugar a proceder contra el denunciado, este a su vez remitirá los autos al Tribunal de Justicia Administrativa, al que se remitirá la acusación, designándose una comisión del Jurado de Acusación integrada por dos Diputados para que sostengan aquella ante el Tribunal de Justicia Administrativa.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+II. El Jurado de Acusación acordará, por el voto de las dos terceras partes del número total de sus integrantes, si ha lugar a proceder contra el denunciado, este a su vez remitirá los autos a la Sala de Revisión, al (sic) que se remitirá la acusación, designándose una comisión del Jurado de Acusación integrada por dos Diputados para que sostengan aquella ante dicha Sala de Revisión.
 
 ###### Artículo 245.
 
 Si el Jurado de Acusación acuerda que no ha lugar a proceder contra el denunciado, o no se integra la mayoría calificada que exige el párrafo primero del artículo anterior, se ordenará archivar el expediente como asunto totalmente concluido.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 246.
 
-El Tribunal de Justicia Administrativa, dentro del término de 30 días naturales, contados a partir del día siguiente en que reciba del Congreso del Estado la acusación respectiva, erigido en tribunal de sentencia, emitirá la resolución respectiva en términos del artículo 111 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+La Sala de Revisión, dentro del término de treinta días hábiles, contados a partir del día siguiente en que reciba del Congreso del Estado la acusación respectiva, erigido en tribunal de sentencia, emitirá la resolución respectiva en términos del artículo 111 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 ### Capítulo III. De la Declaración de Procedencia en Responsabilidad Penal
 
@@ -1979,7 +2049,9 @@ En ningún caso podrá dispensarse un trámite de los establecidos en el Capítu
 
 Cuando la Comisión Instructora o el Congreso del Estado, deba realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste para que comparezca o conteste por escrito a los requerimientos que se le hagan; si el inculpado se abstiene de comparecer o de informar por escrito se entenderá que contesta en sentido positivo.
 
-La Comisión respectiva, cuando se trate de diligencias que deban efectuarse fuera del lugar de residencia del Congreso, solicitará al Tribunal de Justicia Administrativa que las encomienden al Juez que corresponda para que se practiquen dentro de su jurisdicción y para cuyo efecto se remitirá a dicho Tribunal de Justicia Administrativa el testimonio de las constancias conducentes.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+La Comisión respectiva, cuando se trate de diligencias que deban efectuarse fuera del lugar de residencia del Congreso, solicitará al Tribunal que las encomienden al Juez que corresponda para que se practiquen dentro de su jurisdicción y para cuyo efecto se remitirá a dicho Tribunal el testimonio de las constancias conducentes.
 
 El Juez practicará las diligencias que se le encomienden al respecto, con estricta sujeción a las determinaciones que le comunique el Tribunal en auxilio del Poder Legislativo.
 
@@ -2094,3 +2166,11 @@ P.O. 29 DE JUNIO DE 2020.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 261 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
