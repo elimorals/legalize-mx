@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-fideicomiso-casa-de-cultura-juan-127797"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-03-21"
-last_updated: "2018-03-21"
+last_updated: "2020-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL FIDEICOMISO “CASA DE CULTURA JUAN SORIANO” O “MUSEO MORELENSE DE ARTE CONTEMPORÁNEO” O “MUSEO MORELENSE DE ARTE CONTEMPORÁNEO JUAN SORIANO” O MMAC
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2020.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 21 de marzo de 2018.
 
@@ -45,9 +45,11 @@ ESTATUTO ORGÁNICO DEL FIDEICOMISO “CASA DE CULTURA JUAN SORIANO” O “MUSEO
 
 El presente Estatuto es de observancia general y tiene por objeto establecer la organización, estructura, atribuciones y funcionamiento del Fideicomiso “Casa de Cultura Juan Soriano” o “Museo Morelense de Arte Contemporáneo” o “Museo Morelense de Arte Contemporáneo Juan Soriano” o “MMAC”.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 2.
 
-El Fideicomiso “Casa de Cultura Juan Soriano” o “Museo Morelense de Arte Contemporáneo” o “Museo Morelense de Arte Contemporáneo Juan Soriano” o “MMAC”, es un fideicomiso público de la Administración Pública Estatal, sectorizado a la Secretaría de Cultura del Poder Ejecutivo Estatal, con domicilio en la ciudad de Cuernavaca, Morelos; mismo que tiene a su cargo los asuntos que expresamente le encomienda el Decreto por el que se determina la naturaleza jurídica como fideicomiso público y demás particularidades para su operación, de la entidad paraestatal denominada “Museo Morelense de Arte Contemporáneo” o “Casa de Cultura Juan Soriano”, publicado en el Periódico Oficial “Tierra y Libertad”, número 5480, el 09 de marzo de 2017, así como el Contrato de Fideicomiso Público número 74478, y en su caso, sus respectivos convenios modificatorios, y demás normativa aplicable.
+El Fideicomiso “Casa de Cultura Juan Soriano” o “Museo Morelense de Arte Contemporáneo” o “Museo Morelense de Arte Contemporáneo Juan Soriano” o “MMAC”, es un Fideicomiso Público de la Administración Pública Estatal, sectorizado a la Secretaría de Turismo y Cultura del Poder Ejecutivo Estatal, con domicilio en la ciudad de Cuernavaca, Morelos; mismo que tiene a su cargo los asuntos que expresamente le encomienda el Decreto por el que se determina la naturaleza jurídica como fideicomiso público y demás particularidades para su operación, de la Entidad Paraestatal denominada “Museo Morelense de Arte Contemporáneo” o “Casa de Cultura Juan Soriano”, publicado en el Periódico Oficial “Tierra y Libertad”, número 5480, el 09 de marzo de 2017, así como el Contrato de Fideicomiso Público número 74478, y en su caso, sus respectivos convenios modificatorios, y demás normativa aplicable.
 
 ###### Artículo 3.
 
@@ -71,7 +73,9 @@ VI. Director General, a la persona titular de la Dirección General del MMAC;
 
 VII. Estatuto, al presente instrumento;
 
-VIII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+VIII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
 
 IX. MMAC, a la entidad paraestatal denominada “Museo Morelense de Arte Contemporáneo” o “Casa de Cultura Juan Soriano” o “Museo Morelense de Arte Contemporáneo Juan Soriano”;
 
@@ -369,9 +373,11 @@ Las personas titulares de las áreas administrativas tendrán el carácter de se
 
 ### CAPÍTULO VIII. DEL ORGÁNO INTERNO DE CONTROL
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 25.
 
-El Órgano Interno de Control del MMAC, estará integrado por un Comisario Publico, designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 67 y 69 de la Ley Orgánica.
+El Órgano Interno de Control del MMAC, estará integrado por un Comisario Público, designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en términos de los artículos 65 y 67 de la Ley Orgánica.
 
 ###### Artículo 26.
 
@@ -474,3 +480,13 @@ COORDINADORA NACIONAL DE ARTES VISUALES EN REPRESENTACIÓN DE LA SECRETARÍA DE 
 MAGDALENA ZAVALA BANACHEA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DEL FIDEICOMISO "CASA DE CULTURA JUAN SORIANO" O "MUSEO MORELENSE DE ARTE CONTEMPORÁNEO" O "MUSEO MORELENSE DE ARTE CONTEMPORÁNEO JUAN SORIANO" O "MMAC".]
+
+PRIMERA. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se oponga a lo dispuesto por el presente Decreto.
