@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-servicio-civil-del-estado-y-los-municipios-de-4672"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-01"
-last_updated: "2020-05-20"
+last_updated: "2020-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 1 de mayo de 1992.
 
@@ -483,9 +483,7 @@ V.- DESCUENTOS DERIVADOS DE LOS SERVICIOS DE SEGURIDAD SOCIAL DE LOS TRABAJADORE
 
 VI.- DESCUENTOS DERIVADOS DE CREDITOS CONTRAIDOS CON LAS INSTITUCIONES DEL GOBIERNO DEL ESTADO O DE LOS MUNICIPIOS QUE PRESTEN ESTE SERVICIO.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2018)</small>
-
-VII.- DESCUENTOS POR CONTRATOS REALIZADOS ENTRE EL TRABAJADOR Y TERCEROS QUE TENGAN CONVENIO CON (SIC) GOBIERNO DEL ESTADO.
+VII.- (DEROGADA, P.O. 19 DE AGOSTO DE 2020)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2018)</small>
 
@@ -2206,3 +2204,11 @@ Artículo Segundo.- Para que las mujeres y hombres puedan gozar de este horario,
 LOS HOMBRES QUE TENGAN BAJO LA PATRIA POTESTAD, GUARDA Y CUSTODIA A SUS HIJAS E HIJOS, Y PARA QUE PUEDAN ACCEDER A ESTE BENEFICIO, DEBERÁN ACREDITAR LO ANTERIOR, A TRAVÉS DE UN DOCUMENTO EXPEDIDO POR LA AUTORIDAD CORRESPONDIENTE.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 265 POR EL QUE SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 36 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo dispuesto en el presente Decreto.
