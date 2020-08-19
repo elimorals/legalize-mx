@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-adquisiciones-arrendamiento-de-bienes-muebles-y-136332"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-15"
-last_updated: "2019-05-15"
+last_updated: "2020-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136332&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 15 de mayo de 2019.
 
@@ -75,7 +75,9 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Adjudicación Directa: Al procedimiento administrativo a través del cual, los Sujetos Obligados de esta Ley, asignan libremente a una persona un contrato para adquisición, arrendamiento de bienes muebles y contratación de servicios.
 
-II. Comité: Al Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios, con excepción del Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios en Materia de Seguridad Pública del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+II. Comité: Al Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios, al que hace referencia el artículo 6 de la presente Ley.
 
 III. Convocante: A la Oficialía, Dependencias, Entidades u Oficina de Adquisiciones, cuando realicen procedimientos de Licitación por Convocatoria Pública o Restringida.
 
@@ -111,7 +113,9 @@ XVIII. Pedido o contrato: Al acto jurídico bilateral formalizado entre el Organ
 
 XIX. Precio Máximo de Referencia: Al precio máximo al que el Organismo Requirente estaría en condiciones de adquirir un bien, o contratar un servicio o arrendamiento.
 
-XX. Proveedor: A la persona física o moral, que se le adjudique y celebre contrato de adquisiciones, arrendamiento de bienes muebles y/o prestaciones de servicios.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+XX. Proveedor: A la persona física o moral, que se le adjudique y celebre pedido o contrato de adquisiciones, arrendamiento de bienes muebles y/o prestaciones de servicios, en términos de la presente Ley.
 
 XXI. Reglamento: Al Reglamento de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas.
 
@@ -157,9 +161,11 @@ El gasto para las adquisiciones, arrendamiento de bienes muebles y contratación
 
 ### Capítulo I. De la Integración del Comité
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 6.
 
-Para efectuar y validar los diversos procedimientos de adjudicación de los contratos que deriven de las Licitaciones por Convocatoria Pública, Restringidas o por Adjudicación Directa, los Sujetos Obligados constituirán un órgano colegiado que se denominará Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios, el cual estará integrado y funcionará de acuerdo a lo señalado en esta Ley y los reglamentos respectivos, conforme a las bases siguientes:
+Para determinar las acciones tendentes a la optimización de recursos que se destinen a las adquisiciones, arrendamiento de bienes muebles y contratación de servicios, así como a la observancia de esta Ley y demás disposiciones aplicables, los Sujetos Obligados constituirán un órgano colegiado que se denominará Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios, el cual estará integrado y funcionará de acuerdo a lo señalado en el presente ordenamiento y los reglamentos respectivos, conforme a las bases siguientes:
 
 I. En el Poder Ejecutivo, el Comité estará integrado de la siguiente forma:
 
@@ -189,7 +195,9 @@ Cada uno de los miembros del Comité, tendrá derecho a voz y voto en las sesion
 
 El Titular del Órgano Interno de Control, según corresponda, deberá estar presente en todos los actos del Comité y participará como asesor con voz, pero sin voto, quien podrá pronunciarse de manera razonada en los asuntos que conozca el Comité; en caso de ausencia, podrá designar a un suplente quien tendrá las mismas atribuciones y obligaciones del Titular.
 
-El Consejo Coordinador Empresarial del Estado, la Confederación Patronal de la República Mexicana, Delegación Tuxtla, la Cámara Nacional de Comercio y Servicios Turísticos del Estado y la Cámara Nacional de la Industria de la Transformación del Estado, a través de sus representantes debidamente acreditados, participarán como invitados del Comité, con derecho a voz, pero sin voto.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+Las Cámaras Empresariales que en razón de su materia se considere conveniente convocar, podrán participar como invitados en las sesiones del Comité, a través de sus representantes debidamente acreditados, con derecho a voz, pero sin voto.
 
 Los integrantes de los Comités deberán presentar una declaración bajo protesta de decir verdad, que no tienen interés alguno personal o de negocio con las personas físicas o morales que participan en el proceso de licitación, caso contrario, deberán excusarse para no estar presentes durante el proceso.
 
@@ -201,7 +209,7 @@ El Comité podrá determinar la disolución de los Subcomités instalados, cuand
 
 ###### Artículo 8.
 
-Para el caso específico de las adquisiciones, arrendamiento de bienes muebles y contratación de servicios de los Organismos Públicos de la Administración Pública Estatal, relacionados con la materia de seguridad pública, tratándose de la aplicación de recursos federales y de los Fondos de Aportaciones para la Seguridad Pública para los Estados (FASP) y de recursos estatales, habrá un Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios en Materia de Seguridad Pública del Gobierno del Estado, que invariablemente estará integrado por un Titular, quien deberá ser el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien lo presidirá, y por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de la materia de seguridad pública, así como por aquellos organismos que coadyuven al cumplimiento del objeto de la misma. En la conformación, operación y ejecución del Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios en Materia de Seguridad Pública del Gobierno del Estado, se deberá observar lo estipulado en esta Ley, así como la normatividad aplicable en la materia. Este Comité será el responsable de llevar a cabo el proceso de adjudicación en cualquiera de las modalidades a que se refiere la presente Ley, debiendo emitir el fallo correspondiente sobre los asuntos de su competencia que sometan a su consideración las instancias responsables.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2020)
 
 ### Capítulo II. De las Sesiones y Atribuciones del Comité
 
@@ -219,9 +227,13 @@ Las decisiones que emitan los Comités serán obligatorias, por lo que ninguna a
 
 El Comité tendrá las siguientes atribuciones:
 
-I. Coordinar los procedimientos de las adquisiciones y arrendamientos de bienes muebles y la contratación de servicios que establece la presente Ley.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
 
-II. Dictaminar la viabilidad del inicio del procedimiento de la licitación, así como su carácter, o en su caso, de la excepción por encontrarse en algunos de los supuestos previstos en el artículo 76 de la Ley, incluidos los procedimientos a desahogarse bajo la modalidad de subasta inversa, abastecimiento simultáneo o a precios unitarios.
+I. Coordinar los procedimientos de las adquisiciones y arrendamientos de bienes muebles y la contratación de servicios, en términos de la presente Ley.
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+II. Dictaminar la viabilidad del inicio del procedimiento de la licitación, así como su carácter, o en su caso, de la excepción por encontrarse en algunos de los supuestos previstos en el artículo 76 de la Ley.
 
 III. Establecer políticas, bases y lineamientos en materia de adquisiciones, arrendamiento de bienes muebles y contratación de servicios.
 
@@ -239,21 +251,33 @@ IX. Evaluar las propuestas que los Organismos Requirentes formulen, aplicando lo
 
 X. Validar el orden del día de la sesión correspondiente.
 
-XI. Aprobar los acuerdos y fallos derivados de los procesos regulados por la presente Ley; así como en aquellos casos que por premura, gravedad, o cualquier otra contingencia amerite y justifique la asignación de los recursos del Estado.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+XI. Aprobar los fallos derivados de los procesos licitatorios regulados por la presente Ley.
 
 XII. Solicitar asesoría específica de personas físicas o morales, públicas o privadas en asuntos que se requieran; para tal efecto, el Presidente del Comité expedirá la autorización correspondiente, con base en lo establecido en el Reglamento.
 
-XIII. En los casos que considere conveniente, establecer que las adquisiciones, arrendamientos de bienes muebles o la contratación de servicios se realicen a través del procedimiento de abastecimiento simultáneo, a efecto de distribuir entre dos o más proveedores las partidas de bienes o servicios.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+XIII. En los casos que considere conveniente, previo al inicio de procesos de licitación, autorizar que las adquisiciones, arrendamientos de bienes muebles o la contratación de servicios se realicen a través de los procedimientos de abastecimiento simultáneo, a efecto de distribuir entre dos o más proveedores las partidas de bienes o servicios, subasta inversa o a precios unitarios.
 
 XIV. Aprobar la procedencia de procesos de licitación mediante la aplicación de Ofertas Subsecuentes de Descuento, previa determinación en las bases de licitación.
 
 XV. Aprobar previo al inicio de los procedimientos de licitación, el medio a través del cual se realizará, ya sea presencial, electrónico o mixto.
 
-XVI. Los miembros del Comité podrán participar en cualquier etapa del proceso y constatar el cumplimiento de las especificaciones de los productos o servicios.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2020)</small>
+
+XVI. Los miembros del Comité podrán participar en cualquier etapa del proceso licitatorio y constatar el cumplimiento de las especificaciones de los productos o servicios.
 
 XVII. Los miembros del Comité podrán solicitar al Secretario Técnico, el expediente para la revisión de las bases ante el mismo.
 
-XVIII. Las demás atribuciones que le otorguen la presente Ley y su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2020)</small>
+
+XVIII. Resolver los casos no previstos en esta Ley y sus Reglamentos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], P.O. 19 DE AGOSTO DE 2020)</small>
+
+XIX. Las demás atribuciones que le otorguen la presente Ley y su Reglamento.
 
 ###### Artículo 11.
 
@@ -323,11 +347,13 @@ Los servidores públicos que autoricen actos en contravención a lo dispuesto en
 
 ### Capítulo I. Generalidades
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 18.
 
 Las contrataciones en materia de adquisiciones, arrendamiento de bienes muebles y prestación de servicios, se llevarán a cabo a través de las modalidades siguientes:
 
-I. Licitación por Convocatoria Pública: Cuando el monto sea mayor a 25,360 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado, pudiendo ser:
+I. Licitación por Convocatoria Pública: Cuando el monto sea mayor a 30,000 veces el valor de la Unidad de Medida y Actualización, pudiendo ser:
 
 a) Estatal. Cuando únicamente puedan participar proveedores establecidos y con domicilio fiscal en el Estado.
 
@@ -335,15 +361,17 @@ b) Nacional. Cuando puedan participar proveedores establecidos en cualquier part
 
 II. Licitación Restringida:
 
-a) Cuando el monto sea mayor a 1,325 y hasta 25,360 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado.
+a) Cuando el monto sea mayor a 1,525 y hasta 30,000 veces el valor de la Unidad de Medida y Actualización.
 
 b) Cuando el Comité autorice llevar a cabo esta modalidad, de conformidad con lo previsto en los artículos 74 y 76 de la Ley, con independencia del monto establecido en el inciso a) de esta fracción.
 
 III. Adjudicación Directa:
 
-a) Cuando el monto esté comprendido hasta 1,325 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado, estas se podrán ejercer a través de las Unidades de Apoyo Administrativo o equivalentes, de manera directa, de conformidad con las disposiciones de carácter general que se emitan.
+a) Cuando el monto esté comprendido hasta 1,525 veces el valor de la Unidad de Medida y Actualización, se podrá ejercer a través de las Unidades de Apoyo Administrativo o equivalentes, de manera directa, de conformidad con las disposiciones de carácter general que se emitan.
 
 b) Cuando el Comité autorice llevar a cabo esta modalidad, de conformidad con lo previsto en los artículos 74 y 76 de la Ley, con independencia del monto establecido en el inciso a) de esta fracción.
+
+Para el cumplimiento de la atribución que otorga a la Oficialía el artículo 17 de la Ley, en materia de adquisiciones y contrataciones consolidadas, los montos de las modalidades de contratación establecidas en este artículo serán determinados en el Reglamento.
 
 Las convocatorias de las licitaciones sin excepción, se deberán hacer por medios remotos de comunicación electrónica.
 
@@ -351,9 +379,17 @@ En las licitaciones estatales por Convocatoria Pública y Restringidas podrán p
 
 Tratándose de licitaciones públicas nacionales en las que participen de manera individual micro, pequeñas y medianas empresas estatales o nacionales, no se aplicará la modalidad de Ofertas Subsecuentes de Descuento.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 19.
 
 Se podrá convocar, licitar, adjudicar y contratar adquisiciones, arrendamiento de bienes muebles y prestación de servicios, solamente cuando se cuente con saldo disponible dentro del calendario del presupuesto anual autorizado en cada partida presupuestal.
+
+En casos excepcionales, previo a la autorización de su presupuesto, las Dependencias y Entidades podrán solicitar a la Secretaría de Hacienda su aprobación para convocar, adjudicar y formalizar contratos cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se formalizan. Los referidos contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes. Cualquier pacto en contrario a lo dispuesto en este párrafo se considerará nulo.
+
+En las adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio presupuestario, las Dependencias o Entidades deberán determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
+
+Para los efectos del párrafo anterior, las Dependencias y Entidades observarán lo dispuesto por el Código de la Hacienda Pública para el Estado de Chiapas.
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables, de conformidad con la normatividad en materia de responsabilidades del Estado.
 
@@ -371,15 +407,19 @@ Las adquisiciones, arrendamiento de bienes muebles y contratación de servicios,
 
 El Órgano Interno de Control en la persona de su Titular o el suplente que designe, estará presente en todas las etapas del procedimiento de licitación.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 23.
 
-El Órgano Interno de Control del Poder Ejecutivo, en el ámbito de su competencia, autorizará la presentación de propuestas a través de medios electrónicos de comunicación, para lo cual en sustitución de la firma autógrafa, se emplearán los medios de identificación electrónica que aquel establezca, los cuales producirán los mismos efectos que las leyes otorgan a los documentos correspondientes, y en consecuencia tendrán el mismo valor probatorio.
+El Órgano Interno de Control del Poder Ejecutivo, en el ámbito de su competencia, autorizará la presentación de propuestas a través de medios electrónicos de comunicación, para lo cual en sustitución de la firma autógrafa, se emplearán los medios de identificación electrónica que establezca el Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas, los cuales producirán los mismos efectos que las leyes otorgan a los documentos correspondientes, y en consecuencia tendrán el mismo valor probatorio.
 
 Las propuestas técnicas y económicas serán generadas mediante el uso de la tecnología que resguarde la confidencialidad de la información, de tal forma que sea inviolable, conforme a las disposiciones técnicas que se establezcan.
 
-El Órgano Interno de Control del Poder Ejecutivo, operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen los Licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
+El Instituto de Ciencia, Tecnología e Innovación del Estado de Chiapas, operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen los Licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
 
 En los procedimientos de Licitación por Convocatoria Pública o Restringida, se observarán los criterios que establezca el Reglamento, con base en la Ley.
+
+La Oficialía podrá celebrar convenios de colaboración con alguna Dependencia o Entidad perteneciente a la Administración Pública Federal o de otra Entidad Federativa, para el uso de herramientas informáticas que permitan el desarrollo del procedimiento contratación en medios electrónicos.
 
 ###### Artículo 24.
 
@@ -565,9 +605,11 @@ XVI. Quienes no se encuentren al corriente en sus obligaciones fiscales estatale
 
 XVII. Las demás que por cualquier causa se encuentren impedidas para ello por las disposiciones legales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 33.
 
-El Comité o Subcomité, siempre que ello no tenga por objeto limitar el número de participantes, podrá modificar los plazos y otros aspectos establecidos en la convocatoria o en las bases de licitación, cuando menos con cinco días hábiles de anticipación a la fecha señalada para la presentación y apertura de propuestas, siempre que:
+La Convocante, siempre que ello no tenga por objeto limitar el número de participantes, podrá modificar los plazos y otros aspectos establecidos en la convocatoria o en las bases de licitación, cuando menos con cinco días hábiles de anticipación a la fecha señalada para la presentación y apertura de propuestas, siempre que:
 
 I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los medios utilizados para su publicación.
 
@@ -583,17 +625,19 @@ Cualquier modificación a las bases de la licitación, derivada del resultado de
 
 El fallo que emita el Comité o Subcomité, se dará a conocer a cada uno de los participantes al concluir el procedimiento correspondiente, salvo que esto no fuere factible, deberá hacerlo dentro de un término que no podrá exceder de veinte días hábiles.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 35.
 
-Quienes participen en las licitaciones o celebren los contratos o pedidos a que se refiere esta Ley, deberán garantizar lo siguiente:
+Quienes participen en las licitaciones o celebren los contratos a que se refiere esta Ley, deberán garantizar lo siguiente:
 
-I. La seriedad de las propuestas. Esta garantía se hará mediante cheque no negociable con la leyenda “para abono en cuenta” del beneficiario, con un importe mínimo del 5% del total de su oferta económica, sin considerar el Impuesto al Valor Agregado.
+I. La seriedad de las propuestas. Esta garantía se hará mediante cheque no negociable con la leyenda "para abono en cuenta" del beneficiario, con un importe mínimo del 5% del total de su oferta económica, sin considerar el Impuesto al Valor Agregado, y deberá presentarse como parte de la propuesta económica.
 
-II. Los anticipos que en su caso reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo más el Impuesto al Valor Agregado, y en ningún caso excederá del 50%; deberá ser asegurado mediante póliza de fianza otorgada por institución autorizada, la cual permanecerá vigente hasta la amortización total del mismo, debiendo contener la indicación expresa de la aceptación de la afianzadora para continuar garantizando el monto cubierto, en caso de que se otorgue prórroga o espera al proveedor.
+II. Los anticipos que en su caso reciban. Esta garantía se constituirá por la totalidad del monto del anticipo, mismo que en ningún caso excederá del 50% de la totalidad del contrato; deberá ser asegurado mediante póliza de fianza otorgada por institución autorizada, la cual permanecerá vigente hasta la amortización total del mismo, debiendo contener la indicación expresa de la aceptación de la afianzadora para continuar garantizando el monto cubierto, en caso de que se otorgue prórroga o espera al proveedor. Esta garantía se presentará previo al otorgamiento del anticipo.
 
-III. El cumplimiento de los pedidos o contratos mediante cheque certificado con cargo a institución bancaria legalmente constituida conforme a la legislación mexicana, o bien, mediante póliza de fianza otorgada por institución afianzadora debidamente autorizada, con un importe mínimo del 10% sobre el total de los contratos sin considerar el Impuesto al Valor Agregado.
+III. El cumplimiento de los contratos mediante cheque certificado con cargo a institución bancaria legalmente constituida conforme a la legislación mexicana, o bien, mediante póliza de fianza otorgada por institución afianzadora debidamente autorizada, con un importe mínimo del 10% sobre el total de los contratos. Esta garantía se presentará dentro de los diez días hábiles posteriores a la suscripción del contrato por parte del proveedor.
 
-IV. En adquisiciones de bienes que así lo ameriten y se especifiquen en las bases, el proveedor deberá garantizar los bienes adquiridos contra defectos o vicios ocultos mediante la presentación de una póliza de fianza, cheque de caja o cheque certificado, en todos los casos deberán garantizar el 10% del monto total pagado sobre los bienes de que se trate, debiendo hacer válidas tales garantías por un lapso que no podrá ser menor a doce meses. El plazo de dicha garantía se contará a partir de la fecha de recepción de los bienes antes referidos. Dicha garantía deberá presentarse en la recepción formal de los bienes, sustituyendo a la presentada para garantizar el cumplimiento de las obligaciones establecidas en el pedido o contrato.
+IV. En adquisiciones de bienes que así lo ameriten y se especifiquen en las bases, el proveedor deberá garantizar los bienes adquiridos contra defectos o vicios ocultos mediante la presentación de una póliza de fianza, cheque de caja o cheque certificado, en todos los casos deberán garantizar el 10% del monto total pagado sobre los bienes de que se trate, debiendo hacer válidas tales garantías por un lapso que no podrá ser menor a doce meses. El plazo de dicha garantía se contará a partir de la fecha de recepción de los bienes antes referidos. Dicha garantía deberá presentarse en la recepción formal de los bienes, sustituyendo a la presentada para garantizar el cumplimiento de las obligaciones establecidas en el contrato.
 
 De no haber surgido responsabilidad a cargo del proveedor al término del año, se ordenará la cancelación de la fianza en un plazo no mayor a cinco días hábiles.
 
@@ -609,11 +653,13 @@ Los Poderes Legislativo y Judicial, así como los Organismos Autónomos emitirá
 
 #### Sección Primera. De la Licitación por Convocatoria Pública
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 37.
 
-En la Licitación por Convocatoria Pública descrita en el artículo 18 fracción I de la Ley, el acto de presentación y apertura de propuestas será público y realizado de manera electrónica, presencial o mixta, según sea el caso, en el lugar, fecha y hora que se estipulen en las bases de la licitación.
+En la Licitación por Convocatoria Pública descrita en el artículo 18 fracción I de la Ley, el acto de presentación y apertura de propuestas será público y se llevará a cabo en dos etapas denominadas técnica y económica, pudiéndose realizar de manera electrónica, presencial o mixta, según sea el caso, en el lugar, fecha y hora que se estipulen en las bases de la licitación.
 
-En aquellos procedimientos licitatorios de manera electrónica y que se rijan por la modalidad de subasta a la inversa, se dará a conocer el Precio Máximo de Referencia derivado de la Investigación de Mercado, para efectos de que los proveedores se encuentren en posibilidades de realizar Ofertas Subsecuentes de Descuento.
+En aquellos procedimientos licitatorios de manera electrónica y que se rijan por la modalidad de subasta a la inversa, se dará a conocer el Precio Máximo de Referencia derivado de la Investigación de Mercado, para efectos de que los proveedores se encuentren en posibilidades de realizar propuestas de precios a la baja.
 
 Podrán participar los Licitantes que hayan cubierto el costo de las bases y se llevará a cabo conforme a lo siguiente:
 
@@ -621,17 +667,19 @@ I. La convocatoria se realizará a través de los medios electrónicos de comuni
 
 II. Para llevar a cabo la apertura de sobres, bastará con la recepción de una sola propuesta susceptible de ser analizada; de no ser así, la licitación se declarará desierta dejando constancia en el acta de apertura técnica y económica.
 
-III. En la fecha señalada, los Licitantes presentarán a través de los medios electrónicos previamente establecidos, sus propuestas técnicas y económicas en archivos independientes y firmados electrónicamente; en caso de realizarse de manera presencial, los Licitantes presentarán sus propuestas técnica y económica en sobres independientes y cerrados en forma inviolable, así mismo, el Titular de la Oficialía o quien éste designe en su representación, o en su caso el Titular de la Oficina de Adquisiciones, un representante del Órgano Interno de Control, los Licitantes que estuviesen presentes y los representantes de los Organismos Requirentes que hayan asistido, suscribirán todos los sobres presentados y se procederá primeramente a la apertura de las propuestas técnicas sin que sea obligatoria la presencia de los Licitantes.
+III. En la fecha señalada, los Licitantes presentarán a través de los medios electrónicos previamente establecidos, sus propuestas técnicas y económicas en archivos independientes y firmados electrónicamente; en caso de realizarse de manera presencial, los Licitantes presentarán sus propuestas técnica y económica en sobres independientes y cerrados en forma inviolable; así mismo, el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, un representante del Órgano Interno de Control, los Licitantes que estuviesen presentes y los representantes de los Organismos Requirentes que hayan asistido, suscribirán todos los sobres presentados y se procederá primeramente a la apertura de las propuestas técnicas sin que sea obligatoria la presencia de los Licitantes, quedando en resguardo de la Convocante las propuestas económicas para su apertura en la fecha establecida en las bases.
 
-IV. Durante la apertura de las propuestas técnicas, el Titular de la Oficialía o quien éste designe en su representación o el Titular de la Oficina de Adquisiciones deberá verificar que éstas contengan o hayan observado las formalidades o requisitos solicitados en las bases.
+En la etapa técnica y previo a la apertura de las propuestas, el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, deberá verificar el cumplimiento de la documentación legal y administrativa de los Licitantes, requerida en las bases; en caso de incumplimiento se procederá a su descalificación y no se aperturará su propuesta técnica.
 
-La documentación deberá ser suscrita en su totalidad, por el Titular de la Oficialía o quien éste designe en su representación, o en su caso el Titular de la Oficina de Adquisiciones, el representante del Órgano Interno de Control, los representantes de los Organismos Requirentes y por lo menos uno de los Licitantes presentes, previo consentimiento de los demás que hubieran asistido; quedando toda la documentación en custodia de la Convocante para la continuación del proceso.
+IV. Durante la apertura de las propuestas técnicas, el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, deberá verificar que éstas contengan o hayan observado las formalidades o requisitos solicitados en las bases.
+
+La documentación deberá ser suscrita en su totalidad, por el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, el representante del Órgano Interno de Control, los representantes de los Organismos Requirentes y por lo menos uno de los Licitantes presentes, previo consentimiento de los demás que hubieran asistido; quedando toda la documentación en custodia de la Convocante para la continuación del proceso.
 
 V. Las propuestas técnicas que no contengan o no hayan observado alguna de las formalidades y requisitos solicitados en las bases, se descalificarán en el acto; salvo que dicho incumplimiento, por sí mismo, o deficiencia en su contenido, no afecte la solvencia de las propuestas.
 
 El sobre de la propuesta económica de los Licitantes descalificados en la apertura técnica, estará a disposición de los mismos a partir del quinto día hábil posterior al fallo, contando dichos Licitantes con cinco días hábiles para manifestar lo que a su derecho convenga.
 
-VI. Inmediatamente a la apertura del sobre que contiene la propuesta técnica y contando por lo menos con una propuesta no descalificada, se procederá a la apertura de las propuestas económicas, caso contrario la licitación se declarará desierta. El importe total de la propuesta de cada Licitante, se dará a conocer a través de los medios remotos electrónicos establecidos; en caso de que el acto de apertura de propuestas sea presencial, se dará lectura en voz alta al importe total de la propuesta económica de cada Licitante.
+VI. Una vez realizada la apertura del sobre que contiene la propuesta técnica y contando por lo menos con una propuesta no descalificada, en la fecha programada se procederá a la apertura de las propuestas económicas, previa lectura del dictamen técnico, caso contrario la licitación se declarará desierta. El importe total de la propuesta de cada Licitante, se dará a conocer a través de los medios remotos electrónicos establecidos; en caso de que el acto de apertura de propuestas sea presencial, se dará lectura en voz alta al importe total de la propuesta económica de cada Licitante.
 
 Dicha documentación quedará en custodia de la Convocante para la continuación del proceso.
 
@@ -639,17 +687,17 @@ VII. Si como resultado de la apertura de las propuestas económicas, permanece u
 
 VIII. En el caso de haberse declarado desierto el proceso licitatorio, se estará a lo dispuesto en el segundo párrafo del artículo 42 de esta Ley.
 
-IX. Se elaborará acta de la apertura técnica y económica en la que se hará constar el resultado de las propuestas aceptadas para análisis y dictamen, sus importes, así como las que hubieren sido descalificadas y las causas que lo motivaron, dicha acta deberá ser signada electrónicamente o de forma autógrafa; según sea el caso, por los participantes y darse a conocer en los medios electrónicos establecidos, a más tardar al día hábil siguiente a la realización del evento de apertura de propuestas.
+IX. Se elaborarán las actas de la apertura técnica y económica en las que se harán constar el resultado de las propuestas aceptadas para análisis y dictamen, sus importes, así como las que hubieren sido descalificadas y las causas que lo motivaron, dichas actas deberán ser signadas electrónicamente o de forma autógrafa; según sea el caso, por los participantes y darse a conocer en los medios electrónicos establecidos, a más tardar al día hábil siguiente a la realización del evento de apertura de propuestas.
 
-X. Las propuestas técnicas no descalificadas se pondrán a disposición de los Organismos Requirentes, para que estos realicen la evaluación técnica y emitan el dictamen correspondiente que entregarán a la Oficialía o en su caso a la Oficina de Adquisiciones, en el que harán constar el resultado detallado de todas las propuestas, señalando en cada uno de los lotes que se hubieran ofertado, los que cumplen con lo requerido. Para los casos de aquellos que incumplan, se deberán detallar las razones de dicho incumplimiento.
+X. Las propuestas técnicas no descalificadas se pondrán a disposición de los Organismos Requirentes, para que estos realicen la evaluación técnica y emitan el dictamen correspondiente que entregarán a la Oficialía, el Subcomité o a la Oficina de Adquisiciones, según corresponda, en el que harán constar el resultado detallado de todas las propuestas, señalando en cada uno de los lotes que se hubieran ofertado, los que cumplen con lo requerido. Para los casos de aquellos que incumplan, se deberán detallar las razones de dicho incumplimiento.
 
-XI. Una vez recibido el dictamen técnico a que hace referencia la fracción X de este artículo, la Oficialía o en su caso la Oficina de Adquisiciones deberá revisar el mismo, a efecto de verificar que este cumpla con lo establecido en las bases.
+XI. Una vez recibido el dictamen técnico a que hace referencia la fracción X de este artículo, la Oficialía, el Subcomité o la Oficina de Adquisiciones, según corresponda, deberá revisar el mismo, a efecto de verificar que este cumpla con lo establecido en las bases.
 
 XII. La Convocante, con base en el comparativo de las proposiciones económicas admitidas y el presupuesto autorizado, emitirá un dictamen que servirá como fundamento para el fallo.
 
-XIII. El Comité o Subcomité en sesión dará a conocer el acta de fallo de la licitación en la fecha establecida en las bases, dejando constancia en dicha acta, del nombre de los Licitantes ganadores y las causas de descalificación del resto de participantes; acta que consignará el resultado del proceso y que estará basada en el dictamen técnico elaborado por el Organismo Requirente y en el dictamen económico realizado por la Oficialía o en su caso la Oficina de Adquisiciones.
+XIII. El Comité o Subcomité en sesión dará a conocer el acta de fallo de la licitación en la fecha establecida en las bases, dejando constancia en dicha acta, del nombre de los Licitantes ganadores y las causas de descalificación del resto de participantes; acta que consignará el resultado del proceso y que estará basada en el dictamen técnico elaborado por el Organismo Requirente y en el dictamen económico realizado por la Oficialía, el Subcomité o la Oficina de Adquisiciones, según corresponda.
 
-XIV. En caso de que la apertura de propuestas o el fallo de la licitación no se realicen en la fecha programada, la Oficialía o en su caso la Oficina de Adquisiciones, elaborará acta circunstanciada en la que se harán constar los motivos por los cuales no se aperturaron dichas propuestas o el fallo, señalando la hora y fecha en la que se llevarán a cabo dichos eventos. El acta deberá darse a conocer a los Licitantes en los medios electrónicos previamente establecidos, a más tardar al día hábil siguiente de su realización.
+XIV. En caso de que la apertura de propuestas o el fallo de la licitación no se realicen en la fecha programada, la Oficialía, el Subcomité o la Oficina de Adquisiciones, según corresponda, elaborará acta circunstanciada en la que se harán constar los motivos por los cuales no se aperturaron dichas propuestas o emitió el fallo, señalando la hora y fecha en la que se llevarán a cabo dichos eventos. El acta deberá darse a conocer a los Licitantes en los medios electrónicos previamente establecidos, a más tardar al día hábil siguiente de su realización.
 
 XV. El acta de la apertura de las propuestas técnicas y económicas y de fallo; así como las actas circunstanciadas, si las hubiera, se darán a conocer a través de los medios electrónicos que cada uno de los Sujetos Obligados diseñe para tal fin, permaneciendo publicadas en dichos medios durante cinco días hábiles posteriores al fallo.
 
@@ -697,7 +745,9 @@ II. Las proposiciones presentadas no reúnan las condiciones legales, técnicas 
 
 III. Si se considera que las proposiciones presentadas no convienen a los intereses del Estado.
 
-Una vez declarado desierto el procedimiento de Licitación por Convocatoria Pública, o determinados lotes o partidas, el Comité o Subcomité, con sujeción a lo dispuesto en la fracción VI del artículo 76 de la Ley, podrá autorizar una Licitación Restringida o una Adjudicación Directa. En ambos casos, la Convocante deberá realizar el procedimiento establecido en los artículos 74 y 75 de la Ley.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+Una vez declarado desierto el procedimiento de Licitación por Convocatoria Pública, o determinados lotes o partidas, el Comité, con sujeción a lo dispuesto en la fracción VI del artículo 76 de la Ley, podrá autorizar una Licitación Restringida o una Adjudicación Directa. En ambos casos, la Convocante deberá realizar el procedimiento establecido en los artículos 74 y 75 de la Ley.
 
 ###### Artículo 43.
 
@@ -715,21 +765,27 @@ El Comité o Subcomité, cuando considere conveniente, podrá distribuir la adju
 
 #### Sección Segunda. De la Licitación Restringida
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 45.
 
-El procedimiento de Licitación Restringida, será realizado en el lugar, fecha y hora que se estipulen en las bases de la licitación. Podrán participar únicamente los Licitantes que hayan sido invitados y se llevará a cabo en una etapa conforme a lo siguiente:
+En la Licitación Restringida descrita en el artículo 18 fracción II de la Ley, el acto de presentación y apertura de propuestas se llevará a cabo en dos etapas denominadas técnica y económica, celebradas en un solo evento, pudiéndose realizar de manera electrónica, presencial o mixta, según sea el caso, en el lugar, fecha y hora que se estipulen en las bases de la licitación.
+
+Podrán participar únicamente los Licitantes que hayan sido invitados y se llevará a cabo conforme a lo siguiente:
 
 I. Para llevar a cabo la apertura de sobres, se debe contar con por lo menos tres propuestas susceptibles de ser analizadas, de no ser así, la licitación se declarará desierta dejando constancia en el acta de apertura técnica y económica.
 
-II. En la fecha señalada, los Licitantes presentarán sus propuestas técnica y económica en sobres independientes y cerrados en forma inviolable; el Titular de la Oficialía o quien éste designe en su representación o en su caso el Titular de la Oficina de Adquisiciones, un representante del Órgano Interno de Control, los Licitantes que estuviesen presentes y los representantes de los Organismos Requirentes que hayan asistido, rubricarán todos los sobres presentados y se procederá primeramente a la apertura de las propuestas técnicas sin que sea obligatoria la presencia de los Licitantes.
+II. En la fecha señalada, los Licitantes presentarán sus propuestas técnica y económica en sobres independientes y cerrados en forma inviolable; el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, un representante del Órgano Interno de Control, los Licitantes que estuviesen presentes y los representantes de los Organismos Requirentes que hayan asistido, rubricarán todos los sobres presentados y se procederá primeramente a la apertura de las propuestas técnicas sin que sea obligatoria la presencia de los Licitantes.
+
+En la etapa técnica y previo a la apertura de las propuestas, el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, deberá verificar el cumplimiento de la documentación legal y administrativa de los licitantes, requerida en las bases; en caso de incumplimiento se procederá a su descalificación y no se aperturará su propuesta técnica.
 
 III. El plazo para la presentación de las propuestas se fijará en las bases para cada licitación, atendiendo al tipo de bien o servicio requerido, así como a la complejidad para elaborar la propuesta y llevar a cabo su evaluación; sin embargo, con el objeto de no limitar la participación, dicho plazo no podrá ser inferior a 5 días hábiles, ni mayor a 8, contados a partir de la entrega de la invitación o de la celebración de la junta de aclaraciones cuando ésta se haya programado.
 
-IV. Durante la apertura de las propuestas técnicas, el Titular de la Oficialía o quien éste designe en su representación, o el Titular de la Oficina de Adquisiciones deberá verificar que éstas contengan o hayan observado las formalidades o requisitos solicitados en las bases. La documentación deberá ser suscrita en su totalidad, por el Titular de la Oficialía o quien éste designe en su representación, o en su caso el Titular de la Oficina de Adquisiciones, el representante del Órgano Interno de Control, los representantes de los Organismos Requirentes y por lo menos uno de los Licitantes presentes previo consentimiento de los demás que hubieran asistido; quedando toda la documentación en custodia de la Convocante para la continuación del proceso.
+IV. Durante la apertura de las propuestas técnicas, el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, deberá verificar que éstas contengan o hayan observado las formalidades o requisitos solicitados en las bases. La documentación deberá ser suscrita en su totalidad, por el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, el representante del Órgano Interno de Control, los representantes de los Organismos Requirentes y por lo menos uno de los Licitantes presentes previo consentimiento de los demás que hubieran asistido; quedando toda la documentación en custodia de la Convocante para la continuación del proceso.
 
 V. Las propuestas técnicas que no contengan o no hayan observado alguna de las formalidades y requisitos solicitados en las bases, se declararán descalificadas en este acto, salvo que dicho incumplimiento, por sí mismo, o deficiencia en su contenido, no afecte la solvencia de las propuestas. El sobre de la propuesta económica de los Licitantes descalificados en la apertura técnica, estará a disposición de los mismos a los 5 días hábiles posteriores al fallo.
 
-VI. Una vez efectuada la apertura técnica y contando por lo menos con tres propuestas técnicas solventes no descalificadas, inmediatamente se procederá a la apertura de las propuestas económicas, caso contrario se declarará desierta la licitación. En la apertura económica se dará lectura en voz alta al importe total de la propuesta de cada Licitante. Dicha documentación deberá ser rubricada en su totalidad por el Titular de la Oficialía o quien éste designe en su representación, o en su caso el Titular de la Oficina de Adquisiciones, un representante del Órgano Interno de Control, y por lo menos uno de los Licitantes presentes previo consentimiento de los demás que hubieran asistido y los representantes de los Organismos Requirentes, quedando toda la documentación en custodia de la Convocante para la continuación del proceso.
+VI. Una vez efectuada la apertura técnica y contando por lo menos con tres propuestas técnicas solventes no descalificadas, inmediatamente se procederá a la apertura de las propuestas económicas, caso contrario se declarará desierta la licitación. En la apertura económica se dará lectura en voz alta al importe total de la propuesta de cada Licitante. Dicha documentación deberá ser rubricada en su totalidad por el Titular de la Oficialía o quien éste designe en su representación, el Subcomité o el Titular de la Oficina de Adquisiciones, según corresponda, un representante del Órgano Interno de Control, y por lo menos uno de los Licitantes presentes previo consentimiento de los demás que hubieran asistido y los representantes de los Organismos Requirentes, quedando toda la documentación en custodia de la Convocante para la continuación del proceso.
 
 VII. Si como resultado de la apertura económica, permanece una propuesta solvente, se deberá continuar con el proceso, la cual podrá ser adjudicada si los precios son aceptables; caso contrario, se declarará desierto.
 
@@ -737,13 +793,13 @@ VIII. En caso de haberse declarado desierto el proceso licitatorio debido a lo s
 
 IX. Se elaborará acta de la apertura técnica y económica en la que se hará constar el resultado de las propuestas aceptadas para su análisis y dictamen, sus importes, así como las que hubieren sido descalificadas y las causas que lo motivaron. Dicha acta deberá darse a conocer a los Licitantes a más tardar al día hábil siguiente a la realización del evento de apertura de propuestas.
 
-X. Las propuestas técnicas no descalificadas, se pondrán a disposición del Organismo Requirente para que este realice la evaluación técnica a dichas propuestas y emita el dictamen correspondiente que entregará a la Oficialía o en su caso a la Oficina de Adquisiciones, en el que hará constar el resultado detallado de todas las propuestas, señalando en cada uno de los lotes que se hubieran ofertado, los que cumplen con lo requerido y los que incumplen con ello, detallando en estos últimos, las razones de incumplimiento.
+X. Las propuestas técnicas no descalificadas, se pondrán a disposición del Organismo Requirente para que este realice la evaluación técnica a dichas propuestas y emita el dictamen correspondiente que entregará a la Oficialía, al Subcomité o a la Oficina de Adquisiciones, según corresponda, en el que hará constar el resultado detallado de todas las propuestas, señalando en cada uno de los lotes que se hubieran ofertado, los que cumplen con lo requerido y los que incumplen con ello, detallando en estos últimos, las razones de incumplimiento.
 
-XI. Una vez recibido el dictamen técnico a que hace referencia la fracción X de este artículo, la Oficialía o en su caso la Oficina de Adquisiciones deberá revisar el mismo a efecto de verificar que este cumpla con lo establecido en las bases.
+XI. Una vez recibido el dictamen técnico a que hace referencia la fracción X de este artículo, la Oficialía, el Subcomité o la Oficina de Adquisiciones, según corresponda, deberá revisar el mismo, a efecto de verificar que este cumpla con lo establecido en las bases.
 
 XII. La Convocante con base en el comparativo de las proposiciones económicas admitidas y en el presupuesto autorizado, emitirá un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato al Licitante que reúna los requisitos legales y las mejores condiciones técnicas y económicas requeridas en las bases de la licitación.
 
-XIII. El Comité o Subcomité en sesión, dará a conocer el acta de fallo de la licitación, dejando constancia en dicha acta, del nombre de los Licitantes ganadores y las causas de descalificación del resto de participantes; acta que consignará el resultado del proceso y que estará basada en el dictamen técnico elaborado por el Organismo Requirente y en el dictamen económico realizado por la Oficialía o en su caso la Oficina de Adquisiciones. Dicha acta de fallo deberá darse a conocer a los Licitantes a más tardar al día hábil siguiente al de la realización de la sesión.
+XIII. El Comité o Subcomité en sesión, dará a conocer el acta de fallo de la licitación, dejando constancia en dicha acta, del nombre de los Licitantes ganadores y las causas de descalificación del resto de participantes; acta que consignará el resultado del proceso y que estará basada en el dictamen técnico elaborado por el Organismo Requirente y en el dictamen económico realizado por la Oficialía, el Subcomité o la Oficina de Adquisiciones, según corresponda. Dicha acta de fallo deberá darse a conocer a los Licitantes a más tardar al día hábil siguiente al de la realización de la sesión.
 
 XIV. En caso de que la apertura de las propuestas o el fallo de la licitación no se realicen en la fecha programada, se elaborará acta circunstanciada en la que se harán constar los motivos por los cuales no se realiza la apertura de las propuestas o el fallo; señalándose la hora y fecha en la que se llevarán a cabo dichos eventos. Esta acta circunstanciada deberá darse a conocer a los Licitantes a más tardar al día hábil siguiente al de su realización.
 
@@ -855,9 +911,11 @@ Cuando los proveedores demuestren la existencia de causas justificadas o de situ
 
 Cualquier modificación a los contratos, deberá formalizarse por escrito por parte de los Organismos Requirentes, previa autorización del Comité; los instrumentos legales respectivos, serán suscritos por el servidor público que lo haya hecho en el contrato o quien lo sustituya o este facultado para ello.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 62.
 
-Los Organismos Requirentes, si así conviene al interés del Estado, podrán directamente con el proveedor o prestador de servicios ganador del proceso de licitación, realizar cambios en las condiciones de pago y tiempos de entrega establecidos en el pedido u orden de trabajo, dejando constancia en el contrato respectivo. Cuando se trate de especificaciones, precios y cualquier otra condición que implique otorgar condiciones más ventajosas a un proveedor, comparada con las establecidas originalmente, deberá abstenerse de realizar modificación alguna.
+Los Organismos Requirentes, si así conviene al interés del Estado, podrán directamente con el proveedor o prestador de servicios ganador del proceso de licitación, realizar cambios en las condiciones de pago y tiempos de entrega establecidos en el contrato o pedido, dejando constancia en éstos. Cuando se trate de especificaciones, precios y cualquier otra condición que implique otorgar condiciones más ventajosas a un proveedor, comparada con las establecidas originalmente, deberá abstenerse de realizar modificación alguna.
 
 ###### Artículo 63.
 
@@ -948,6 +1006,10 @@ La Oficialía podrá exceptuar de la obligación de registro en el Padrón de Pr
 ###### Artículo 74.
 
 En los supuestos y con sujeción a las formalidades que prevé el artículo 76 de la Ley, los Organismos Requirentes, bajo su responsabilidad y previa autorización del Comité, podrán optar por no llevar a cabo el procedimiento de Licitación por Convocatoria Pública y celebrar contratos de adquisiciones, arrendamiento de bienes muebles y prestación de servicios a través de un procedimiento de Licitación Restringida o Adjudicación Directa.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2020)</small>
+
+También el Comité podrá autorizar que se finquen pedidos y contratos de manera directa sin llevar a cabo la licitación restringida que establece el artículo 18, fracción II, inciso a) de este ordenamiento, en los supuestos que establece el artículo 76 de la Ley.
 
 ###### Artículo 75.
 
@@ -1250,3 +1312,17 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 07 días del mes de Mayo del año dos mil diecinueve.- D. P. C. ROSA ELIZABETH BONILLA HIDALGO.- D. S. C. ADRIANA BUSTAMANTE CASTELLANOS.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 15 días del mes de Mayo del año dos mil diecinueve.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Ismael Brito Mazariegos, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 264 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las disposiciones reglamentarias que se requieran para el adecuado cumplimiento del presente Decreto, deberán ser emitidas en un término máximo de 45 días naturales a partir de la entrada en vigor del mismo; en tanto, seguirán siendo aplicables en lo que resulte, las disposiciones contenidas en el Reglamento de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, publicado en el Periódico Oficial número 183, de fecha 30 de julio de 2003.
+
+Artículo Cuarto.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, vigentes al momento de su inicio.
