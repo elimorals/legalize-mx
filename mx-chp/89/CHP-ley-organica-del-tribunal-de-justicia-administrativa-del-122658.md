@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-tribunal-de-justicia-administrativa-del-122658
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-12"
-last_updated: "2017-07-12"
+last_updated: "2020-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 19 DE AGOSTO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2020 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chipas, el miércoles 12 de julio de 2017.
 
@@ -836,3 +838,25 @@ Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorabl
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 10 días del mes de Julio del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 262 LEY ORGÁNICA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La Ley Orgánica del Tribunal Administrativo del Poder Judicial del Estado de Chiapas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Chiapas, publicada en el Periódico Oficial número 306, Segunda sección de fecha 12 de julio del año 2017.
+
+Artículo Tercero.- En cumplimiento al párrafo sexto del artículo 79 de la Constitución Política del Estado Libre y Soberano de Chiapas, la Sala de Revisión del Tribunal Administrativo del Poder Judicial se integrará por los Magistrados que fueron nombrados por la Comisión Permanente de la LXVII Legislatura del Honorable Congreso del Estado en sesión extraordinaria de fecha 21 de enero de 2020, según Decreto número 160, publicado en el Periódico Oficial número 079, con fecha 22 del mismo mes y año.
+
+Los nombramientos del personal jurisdiccional y administrativo que fueron aprobados por el Pleno del Tribunal Administrativo del Poder Judicial hasta antes de la entrada en vigor de la presente Ley, seguirán vigentes por el término y condiciones por el que fueron expedidos.
+
+Artículo Cuarto.- Los asuntos que se encuentren pendientes de desahogar por el extinto Tribunal de Justicia Administrativa, en primera instancia serán turnados de manera inmediata a los Juzgados correspondientes de forma equitativa, para que sean resueltos conforme a la Ley de la materia.
+
+Artículo Quinto.- Derivado de la carga de trabajo del Juzgado de Jurisdicción Administrativa, el Pleno a través de un Acuerdo General, podrá facultar al Juzgado Especializado para que también conozca y resuelva de los asuntos previstos en el artículo 11 de la presente Ley, hasta en tanto lo determine el propio Pleno.
+
+Artículo Sexto.- El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la presente Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno del Tribunal expida el nuevo Reglamento Interior, de conformidad con lo previsto en este ordenamiento, lo cual deberá hacerse en un plazo de noventa días a partir de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en la presente Ley.
