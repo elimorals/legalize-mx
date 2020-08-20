@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2020-03-17"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1485,7 +1485,7 @@ ARTICULO 85 BIS. El Contralor Interno debe acreditar al momento de su nombramien
 
 l. Tener título y cédula profesional de, licenciado en, Derecho; Contador Público; Administrador Publico; o Economista, o cualquiera otra relacionada con las actividades de fiscalización, con una antigüedad mínima de tres años;
 
-II. Contar con por lo menos treinta años de edad;
+II. (DEROGADA, P.O. 20 DE AGOSTO DE 2020)
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3242,6 +3242,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0639.- SE REFORMA LOS ARTÍCULOS, 31 EN SU INCISO C) LAS FRACCIONES, XXV, Y XXVI, Y 86 EN SU FRACCIÓN XXXVIII; Y ADICIONA A LOS ARTÍCULOS, 31 EN SU INCISO C) LA FRACCIÓN XXVII, Y 86 UNA FRACCIÓN, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0728.- SE DEROGA DEL ARTÍCULO 85 BIS LA FRACCIÓN II, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
