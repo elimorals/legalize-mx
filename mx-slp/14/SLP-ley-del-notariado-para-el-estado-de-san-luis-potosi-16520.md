@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-notariado-para-el-estado-de-san-luis-potosi-16520"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-27"
-last_updated: "2020-07-04"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de abril de 2000.
 
@@ -35,7 +35,7 @@ DECRETO 473
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSI
 
@@ -145,7 +145,9 @@ Si la vacante ocurre en una notaría que no cuente con adscrito, o si éste no l
 
 Para obtener la constancia de aspirante al notariado, el interesado deberá satisfacer los siguientes requisitos:
 
-I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos, tener veinticinco años cumplidos y acreditar mediante información testimonial de dos vecinos recibida con audiencia del Ministerio Público, tener y haber tenido buena conducta;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2020)</small>
+
+I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos, y acreditar mediante información testimonial de dos vecinos recibida con audiencia del Ministerio Público, tener y haber tenido buena conducta;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -1736,3 +1738,11 @@ P.O. 4 DE JULIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0730.- SE REFORMA EL ARTÍCULO 16 EN SU FRACCIÓN I, DE LA LEY DEL NOTARIADO PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
