@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2020-05-04"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -783,9 +783,9 @@ XXI Quáter. Promover la creación, desarrollo y actualización permanente, de l
 
 XXII. Dotar de servicios públicos a los habitantes del municipio;
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 20 DE AGOSTO DE 2020)</small>
 
-XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las acciones necesarias a fin de crear áreas verdes que permitan mejorar la calidad de vida y convivencia social de los habitantes del municipio, establecidos como espacios públicos de conservación ambiental;
+XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las acciones necesarias a fin de crear, rescatar, restaurar y vigilar las áreas verdes que permitan mejorar la calidad de vida y convivencia social de los habitantes del municipio, establecidos como espacios públicos de conservación ambiental; asimismo, elaborar y ejecutar su programa anual de reforestación, forestación, restauración de suelos y conservación de bienes y servicios ambientales dentro de su territorio, de conformidad con las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
 
@@ -2275,7 +2275,15 @@ IV. Proponer lineamientos destinados a preservar y restaurar el equilibrio ecol�
 
 V. Proponer medidas y criterios para la prevención y control de residuos y emisiones generadas por fuentes contaminantes; y
 
-VI. Las demás que le sean conferidas por el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2020)</small>
+
+VI. Establecer y presidir el Consejo Municipal Forestal;
+
+> <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2020)</small>
+
+VII. Preservar, rescatar, restaurar y vigilar las áreas verdes municipales; y
+
+VIII. Las demás que le sean conferidas por el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
 
@@ -5151,10 +5159,18 @@ TERCERO. Dentro del plazo máximo de 180 días naturales, contados a partir de l
 
 G.G. 4 DE MAYO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 151.- POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 28, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 151.- POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 28, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los ayuntamientos garantizarán que las sesiones desarrolladas a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, cumplan con la legalidad de los procedimientos y de las votaciones emitidas, en términos de la Ley de Gobierno Digital del Estado de México y Municipios, así como con la protección de datos personales, en los términos de la legislación aplicable.
+
+G.G. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 174.- POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 31 Y SE ADICIONAN LAS FRACCIONES VI Y VII, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, AL ARTÍCULO 96 OCTIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 3.14 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-TERCERO. Los ayuntamientos garantizarán que las sesiones desarrolladas a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, cumplan con la legalidad de los procedimientos y de las votaciones emitidas, en términos de la Ley de Gobierno Digital del Estado de México y Municipios, así como con la protección de datos personales, en los términos de la legislación aplicable.
