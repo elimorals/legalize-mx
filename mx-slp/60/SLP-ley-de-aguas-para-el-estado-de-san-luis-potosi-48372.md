@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2019-12-27"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -1691,9 +1691,21 @@ XIV. Vigilar y calificar el seguimiento de denuncia ciudadana contra los servido
 
 XV. Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
 
-ARTICULO 101 BIS. Para ser designado Contralor Interno del organismo operador de agua, deberán reunir los requisitos que se exigen para ser Contralor Interno de los ayuntamientos, en los términos previstos por el artículo 85 de la Ley Orgánica del Municipio Libre.
+ARTICULO 101 BIS. Para ser designado Contralor Interno del organismo operador de agua, se deberán reunir los siguientes requisitos:
+
+I. Tener título y cédula profesional de, licenciado en Derecho; Contador Público; Administrador Publico; o Economista, o cualquiera otra relacionada con las actividades de fiscalización, con una antigüedad mínima de tres años;
+
+II. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad;
+
+III. Demostrar trayectoria, formación académica, actualización profesional, y experiencia laboral;
+
+IV. No haber desempeñado cargo alguno como miembro de la Junta de Gobierno, Director, Delegado o Jefe de Departamento del Organismo, en la administración inmediata anterior;
+
+V. No desempeñar o haber desempeñado algún cargo de dirección en un partido político estatal o nacional en los últimos cinco años antes del nombramiento, y
+
+VI. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes de la Junta de Gobierno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
@@ -2097,7 +2109,9 @@ La declaratoria de rescate hará que los bienes materia de la concesión vuelvan
 
 En la declaratoria de rescate se establecerán las bases generales que servirán para fijar el monto de la indemnización que haya de cubrirse al concesionario, pero en ningún caso podrá tomarse como base para fijar el valor de los bienes concesionados.
 
-Si al efecto se estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviese conforme, podrá impugnarlo ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos y plazos que establece la Ley de Justicia Administrativa del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+Si al efecto se estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo; si no estuviese conforme podrá impugnarlo ante el Tribunal Estatal de Justicia Administrativa de San Luis Potosí, en los términos y plazos que establece el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 La impugnación a que se refiere el párrafo anterior, no interrumpirá el derecho del municipio de que se trate, de asumir directamente o a través del organismo operador paramunicipal o intermunicipal, la prestación de los servicios.
 
@@ -2125,9 +2139,11 @@ Dos o más municipios podrán celebrar convenios para el otorgamiento de las con
 
 Los particulares podrán realizar el tratamiento de sus aguas residuales que se generen en la operación de la actividad correspondiente, previa su descarga al alcantarillado, sin necesidad de obtener concesión o celebrar los contratos a que se refiere este Capítulo.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 132.
 
-Las controversias que se susciten con motivo de la interpretación y aplicación de las concesiones, convenios y contratos a que se refiere este Capítulo, serán resueltas por el Tribunal de lo Contencioso Administrativo del Estado.
+Las controversias que se susciten con motivo de la interpretación y aplicación de las concesiones, convenios y contratos a que se refiere este Capítulo, serán resueltos por el Tribunal Estatal de Justicia Administrativa de San Luis Potosí.
 
 ### CAPITULO VI. De la Prestación de los Servicios por la Comisión
 
@@ -3576,5 +3592,21 @@ P.O. 27 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0448.- SE REFORMA EL ARTÍCULO 171 BIS DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0734.- SE REFORMA EL ARTÍCULO 101 BIS, DE LA LEY DE AGUAS PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0735.- SE REFORMA (SIC) LOS ARTÍCULOS 127 EN SU PÁRRAFO CUARTO Y 132, DE LA LEY DE AGUAS PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
