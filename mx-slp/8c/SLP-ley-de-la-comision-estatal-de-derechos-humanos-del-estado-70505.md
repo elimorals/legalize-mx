@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2020-02-27"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -495,6 +495,14 @@ El Congreso del Estado recurrirá a la aplicación de los instrumentos internaci
 
 La persona titular de la Presidencia de la Comisión durará en su encargo cuatro años, pudiendo ser re-electo por el Congreso del Estado por otro período igual consecutivo. En éste último supuesto, el titular de la Presidencia que busque la reelección deberá presentar su candidatura y ajustarse al procedimiento de elección establecido en este capítulo.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+El Congreso del Estado realizará la elección de la persona titular de la presidencia de la Comisión bajo el principio de paridad de género. En razón de lo anterior, cada periodo de ejercicio legal se alternará entre una mujer y un hombre, salvo en los casos en que se verifique la reelección para el ejercicio de un segundo periodo, en donde la alternancia se realizará a la conclusión de éste.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+En la convocatoria a que se refiere el artículo 30 de esta Ley, sólo se convocará al género que corresponda en turno ocupar la presidencia de la Comisión, en donde la única persona que podrá participar del género opuesto al convocado, lo será aquella quien ocupe la titularidad de la presidencia y presente su candidatura para su reelección.
+
 ###### ARTICULO 32.
 
 La persona titular de la Presidencia de la Comisión deberá reunir para su designación, los siguientes requisitos:
@@ -671,9 +679,15 @@ El Congreso procurará la representación plural de la sociedad civil al elegir 
 
 Asimismo, evitará la exclusión de quienes no tengan estudios profesionales.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 44.
 
-El Congreso del Estado elegirá nueve personas que fungirán como consejeros titulares y suplentes. Sólo a falta definitiva de un Consejero titular, pasará a ocupar el cargo la persona primera de la lista de suplentes y, así sucesivamente, cuando haya una nueva ausencia definitiva.
+El Congreso del Estado elegirá bajo el principio de paridad de género, diez personas para integrar el Consejo con el carácter de titulares, de las cuales cinco serán mujeres y cinco serán hombres. Bajo el mismo principio elegirá diez personas con el carácter de suplentes, de las cuales cinco serán mujeres y cinco serán hombres.
+
+Sólo a falta definitiva de un integrante titular del Consejo, pasará a ocupar el cargo la persona del mismo género que se encuentre en el lugar primero de la lista de suplentes y, así sucesivamente cuando haya una nueva ausencia definitiva.
+
+La reelección de las personas integrantes del Consejo en ningún tiempo podrá justificar o ser obstáculo para la integración del Consejo a la luz del principio de paridad de género; por lo cual en todo tiempo el Consejo estará integrado por cinco mujeres y cinco hombres.
 
 ###### ARTICULO 45.
 
@@ -790,6 +804,20 @@ III. Llevar a cabo su administración con perspectiva de género, evitando cualq
 La Comisión estará integrada por personas profesionales y técnicas que aseguren a las personas usuarias, una atención eficaz y oportuna, de calidad y con calidez.
 
 Para lograr lo anterior, se buscará formar equipos multidisciplinarios con personal capacitado en al menos las siguientes áreas de conocimiento: Derecho y ciencias jurídicas, Antropología y Sociología, Psicología, Trabajo Social y Ciencias de la Salud.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+ARTICULO 56 BIS. La designación de las personas titulares de la Secretaría Ejecutiva, Secretaría Técnica, Visitadurías Generales, y Direcciones Operativas, a que se refiere el artículo 54 de esta Ley, se realizará conforme al principio de paridad de género.
+
+Para los efectos de lo anterior, la persona que sea designada como titular de la Secretaría Ejecutiva deberá ser del género opuesto al de la persona titular de la presidencia de la Comisión.
+
+La persona que sea designada como titular de la Secretaría Técnica deberá ser del mismo género de la persona titular de la presidencia de la Comisión.
+
+Las titularidades de las Visitadurías Generales corresponderán ocuparlas a mujeres y hombres en partes iguales; de resultar un número impar, deberán designarse como titulares del número mayoritario, personas del género opuesto al de la persona titular de la presidencia de la Comisión.
+
+Las titularidades de las Direcciones Operativas corresponderán ocuparlas a mujeres y hombres en partes iguales; de resultar un número impar, deberán designarse como titulares del número mayoritario, personas del género menos representado dentro de la Comisión.
+
+Las remuneraciones y prerrogativas derivadas del desempeño de los cargos señalados en este artículo, deberán ser igualitarias entre sus pares.
 
 ###### ARTICULO 57.
 
@@ -1111,6 +1139,14 @@ IX. Rendir anualmente al Congreso del Estado en el mes de enero de cada año, un
 
 La persona titular del Órgano Interno de Control será electa, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y podrá ser reelecta por una sola vez; y así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+El Congreso del Estado realizará la elección de la persona titular del órgano Interno de Control bajo el principio de paridad de género. Enrazón (sic) de lo anterior, cada periodo de ejercicio legal se alternará entre una mujer y un hombre, salvo en los casos en que se verifique la reelección para el ejercicio de un segundo periodo, en donde la alternancia se realizará a la conclusión de éste.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+En la convocatoria pública a que se refiere este artículo, sólo se convocará al género que corresponda en turno ocupar la titularidad del Órgano Interno de Control, en donde la única persona que podrá participar del género opuesto al convocado, lo será aquella quien ocupe la titularidad del Órgano Interno de Control y presente su candidatura para su reelección.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 En la elección de la persona titular del Órgano Interno de Control, el Congreso del Estado se sujetará a lo siguiente:
@@ -1134,6 +1170,14 @@ V. Efectuada la elección, se citará a la persona electa para que rinda la prot
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ARTICULO 79 BIS. Las autoridades, Investigadora; y Substanciadora, integrantes del Órgano Interno de Control, serán electas, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durarán en su encargo cuatro años, y podrán ser reelectas por una sola vez; no podrán ser removidas sino por los casos y causas que establezcan las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+El Congreso del Estado realizará la elección de las personas titulares de las autoridades, Investigadora; y Sustanciadora, bajo el principio de paridad de género. En razón de lo anterior, cada periodo de ejercicio legal se alternará entre una mujer y un hombre, salvo en los casos en que se verifique la reelección para el ejercicio de un segundo periodo, en donde la alternancia se realizará a la conclusión de éste.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+En la convocatoria pública a que se refiere este artículo, sólo se convocará al género que corresponda en turno ocupar las titularidades de las autoridades, Investigadora; y Sustanciadora, respectivamente, en donde las únicas personas que podrán participar del género opuesto al convocado, lo serán aquellas quienes ocupen las titularidades de dichas autoridades, y presenten sus candidaturas para su reelección.
 
 En la elección de las autoridades, Investigadora; y Substanciadora, el Congreso del Estado se sujetará a lo siguiente:
 
@@ -1848,3 +1892,15 @@ P.O. 27 DE FEBRERO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO 0737.- SE REFORMA EL ARTÍCULO 44; Y ADICIONA A LOS ARTÍCULOS 31 DOS PÁRRAFOS, EL ARTÍCULO 56 BIS, 79 DOS PÁRRAFOS Y 79 BIS DOS PÁRRAFOS, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. La integración de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, se realizará bajo el principio de paridad de género respecto a los cargos referidos en este Decreto, a partir de la conclusión del ejercicio legal de la persona que actualmente se desempeña en la titularidad de la presidencia de la Comisión, con excepción de los titulares: del Órgano Interno de Control; así como de las autoridades, Investigadora; y Sustanciadora de dicho Órgano.
+
+TERCERO. La elección bajo el principio de paridad de género en los términos de este Decreto, de las personas titulares: del Órgano Interno de Control; así como de las autoridades, Investigadora; y Sustanciadora de dicho órgano, de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, se realizará (sic) partir de la conclusión del ejercicio legal de cada una de las personas que actualmente se desempeñan en dichas titularidades.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
