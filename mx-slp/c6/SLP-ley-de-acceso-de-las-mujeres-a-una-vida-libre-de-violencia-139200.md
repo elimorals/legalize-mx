@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2020-08-07"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -889,9 +889,15 @@ XIII. Promover, a través de la Fiscalía Especializada para la Atención de Del
 
 XIV. Garantizar la protección de víctimas, ofendidos, testigos y, en general, todos los sujetos que intervengan en el proceso; y solicitar las medidas cautelares y providencias necesarias para la protección y restitución de los derechos de las víctimas, de conformidad con las leyes aplicables;
 
-XV. Solicitar en todos los procesos penales, la reparación integral del daño a favor de las mujeres víctimas de cualquier tipo de violencia, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2020)</small>
 
-XVI. Las demás previstas para el cumplimiento de la presente Ley.
+XV. Solicitar en todos los procesos penales, la reparación integral del daño a favor de las mujeres víctimas de cualquier tipo de violencia;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2020)</small>
+
+XVI. Establecer protocolos especializados para la investigación de hechos de violencia en contra de las mujeres; para la localización de mujeres y niñas reportadas como extraviadas; para la investigación y ejercicio de la acción penal con perspectiva de género; y demás que resulten necesarios para el cumplimiento de sus responsabilidades, y
+
+XVII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO XIII. ATRIBUCIÓN DE LOS MUNICIPIOS
 
@@ -1388,3 +1394,11 @@ P.O. 7 DE AGOSTO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0733.- SE REFORMA EL ARTÍCULO 30 EN SU FRACCIÓN XV; Y ADICIONA AL MISMO ARTÍCULO 30 UNA FRACCIÓN, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
