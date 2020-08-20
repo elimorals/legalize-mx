@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2020-06-18"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -705,11 +705,23 @@ VIII. Los demás que tengan por objeto garantizar la prestación de servicios de
 
 La Red de vinculación para la Integración Laboral de Personas con Discapacidad, tiene por objeto conjuntar las acciones de instituciones públicas, privadas y sociales, para promover, difundir, facilitar y agilizar la inserción laboral de las personas con discapacidad en el Estado, mediante la vinculación de los ofertantes y demandantes de empleo, y la colaboración en acciones que favorezcan este fin. La Red operará en términos de lo dispuesto en el artículo 15 fracción XI de la presente Ley.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 25.
 
-La red de Vinculación apoyará activamente la plena inclusión laboral de las personas con discapacidad, en los organismos, públicos, privados y sociales, con el fin de que por lo menos un dos por ciento de los trabajadores de cada institución sean personas con discapacidad.
+La Red de Vinculación apoyaraí (sic) activamente la plena inclusión laboral de las personas con discapacidad, en los organismos, instituciones y empresas de los sectores público, privado y social, con el fin de que por lo menos un dos por ciento de los trabajadores de cada organismo, institución y empresa sean personas con discapacidad.
 
-Los organismos, consejos, cámaras empresariales, y las instituciones de la administración pública, incorporarán en su plantilla, por lo menos un dos por ciento de trabajadores con discapacidad; igual disposición se observará en el caso de que el patrón sea un ente público.
+Los organismos, consejos, y cámaras empresariales, incorporaran en su plantilla laboral, por lo menos un dos por ciento de trabajadores con discapacidad.
+
+Es obligación de los poderes, Ejecutivo, Judicial, y Legislativo, de los ayuntamientos de los municipios del Estado, así como de sus dependencias, instituciones, entidades, órganos y organismos, y de los órganos a los que la Constitución Política del Estado les reconoce autonomía, garantizar la inclusión laboral de las personas con discapacidad, por lo cual tienen la obligación de que al menos el dos por ciento del total de sus trabajadores, servidores públicos y funcionarios, sean personas con discapacidad.
+
+Para determinar el total de trabajadores, servidores públicos, y funcionarios de cada institución, se computará el número total de personas que presten sus servicios para éstas, sin importar la forma de contratación, o de que se trate de personas electas o designadas. Dicho cómputo incluirá a las personas con discapacidad que se encuentren prestando ya sus servicios para las instituciones públicas.
+
+En todo tiempo el empleo, contratación, inserción, designación o elección de personas con discapacidad para prestar sus servicios en las instituciones públicas, se verificará con base en el perfil y requisitos legales que se requieran en cada caso para cubrir las necesidades del servicio o del puesto de que se trate.
+
+En toda convocatoria pública o proceso para la contratación de personal, asignación de plazas o puestos de trabajo para prestar servicios en las instituciones públicas, se deberá de reservar al menos una cuota del dos por ciento para ser ocupadas por personas con discapacidad.
+
+Las dependencias, instituciones, entidades, órganos y organismos del Poder Ejecutivo del Estado, remitirán durante el mes de enero de cada año, al Consejo Técnico de las Personas con Discapacidad, la información que permita conocer el cumplimiento dado a la obligación consignada en el párrafo tercero de este artículo.
 
 ###### ARTICULO 26.
 
@@ -971,9 +983,17 @@ IV. Promover vínculos de coordinación con los responsables de las iniciativas 
 
 V. Observar y opinar acerca del presupuesto en la Ley de Egresos del Estado, en materia de personas con discapacidad;
 
-VI. Promover y dar seguimiento al cumplimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las personas con discapacidad, en el marco de esta Ley, así mismo, vigilar el cumplimiento de los compromisos del Estado Mexicano a nivel nacional e internacional, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2020)</small>
 
-VII. Promover y plantear ante el Sistema para el Desarrollo Integral de la Familia Estatal a través de la Dirección de Integración Social de Personas con Discapacidad programas que tiendan al bienestar y la calidad de vida de las personas con discapacidad.
+VI. Promover y dar seguimiento al cumplimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las personas con discapacidad, en el marco de esta Ley, así mismo, vigilar el cumplimiento de los compromisos del Estado Mexicano a nivel nacional e internacional;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2020)</small>
+
+VII. Promover y plantear ante el Sistema para el Desarrollo Integral de la Familia Estatal a través de la Dirección de Integración Social de Personas con Discapacidad programas que tiendan al bienestar y la calidad de vida de las personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2020)</small>
+
+VIII. Dar seguimiento al cumplimiento de la obligación consignada en el párrafo tercero del artículo 25 de esta Ley.
 
 ###### ARTICULO 50.
 
@@ -1150,3 +1170,11 @@ P.O. 18 DE JUNIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0738.- SE REFORMA (SIC) LOS ARTÍCULOS 25 Y 49 EN SUS FRACCIONES VI Y VII; Y ADICIONA AL ARTÍCULO 49 LA FRACCIÓN VIII, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
