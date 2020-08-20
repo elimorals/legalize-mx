@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2020-04-14"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1249,11 +1249,11 @@ En todos los casos en que el marido tenga derecho de contradecir que el nacido e
 
 Si la o el cónyuge, o la concubina o el concubinario está bajo tutela por causa de discapacidad mental u otro motivo que lo prive de inteligencia, este derecho puede ser ejercitado por la persona que sea su tutora. Si éste no lo ejercitare, podrá hacerlo la o el cónyuge, o la concubina o el concubinario después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en el que legalmente se declare haber cesado el impedimento.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 175.
 
-Cuando la o el cónyuge o la concubina o el concubinario teniendo o no tutora o tutor, ha muerto sin recobrar la capacidad legal, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+Cuando la o el cónyuge; la concubina o el concubinario, teniendo o no tutora o tutor, ha muerto sin recobrar la capacidad legal, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
 
@@ -1553,9 +1553,13 @@ Si la madre o el padre o ambos, hubieren fallecido durante la minoría de edad d
 
 En los casos de investigación de la paternidad o de la maternidad de las hijas o hijos nacidos fuera del matrimonio, deberá incluirse la prueba de ADN.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 235.
 
-En caso de que el presunto progenitor o progenitora se niegue, sin ninguna justificación válida, a que le sea realizada la prueba de ADN, dispuesta por la autoridad judicial, en un juicio de investigación de paternidad o maternidad, ésta se presumirá, salvo prueba en contrario.
+En caso de que el presunto progenitor o progenitora se niegue a que le sea realizada la prueba de ADN, dispuesta por la autoridad judicial, en un juicio de investigación de paternidad o maternidad, ésta se presumirá, salvo prueba en contrario.
+
+Desde que queda establecida dicha presunción, la o el Juez podrá establecer pensión alimenticia como medida de protección a favor de la o el pretendido descendiente, a cargo del presunto progenitor o progenitora, en términos de este Código y demás legislación aplicable.
 
 ### Capítulo VI. De la Adopción
 
@@ -2049,6 +2053,10 @@ El objeto de la tutela es la guarda de la persona y bienes de los que no estando
 
 En la tutela se cuidará preferentemente de las personas con incapacidad natural o legal.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
+En observancia al principio de igualdad y no discriminación, el concubinato es equiparable al matrimonio para efectos de designar al tutor de la pareja.
+
 ###### ARTICULO 302.
 
 Existen los siguientes tipos de tutela:
@@ -2349,9 +2357,11 @@ I. En los casos en que conforme a derecho se requiera del consentimiento de la o
 
 II. En los casos en que la o el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por una persona que ejerza una tutoría interina que la autoridad judicial le nombrará. Es obligación de la persona curadora promover este nombramiento y, si no lo cumple, será responsable de los perjuicios que se causen a la persona incapaz.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
+
 ###### ARTICULO 359.
 
-Cuando la tutela de la persona incapaz recaiga en la o el cónyuge, sólo podrá gravar o enajenar los bienes mencionados en el artículo 345 de este Código, previa audiencia de la persona curadora y autorización judicial, que se concederá de acuerdo con lo dispuesto por el artículo 338 del referido Código.
+Cuando la tutela de la persona incapaz recaiga en la o el cónyuge, o en la concubina o el concubinario, sólo podrá gravar o enajenar los bienes mencionados en el artículo 345 de este Código, previa audiencia de la persona curadora y autorización judicial, que se concederá de acuerdo con lo dispuesto por el artículo 338 del referido Código.
 
 ###### ARTICULO 360.
 
@@ -2431,7 +2441,7 @@ La persona autora de un testamento que deje bienes, ya sea por legado o por here
 
 ### Capítulo VI. De la Tutela Legítima de la Persona Mayor de Edad Incapaz
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 375.
 
@@ -2463,7 +2473,7 @@ La falta temporal de persona que ejerza la tutela legítima se suplirá en los t
 
 ###### ARTICULO 379.
 
-La o el cónyuge serán tutores legítimos entre sí, cuando alguno de ellas o ellos haya perdido su capacidad legal.
+La o el cónyuge, o la concubina o el concubinario, serán tutores legítimos entre sí, cuando alguno de ellas o ellos haya perdido su capacidad legal.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -3618,5 +3628,21 @@ P.O. 14 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0657.- SE REFORMA EL ARTÍCULO 268, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0731.- SE REFORMA EL ARTÍCULO 235, DEL CÓDIGO FAMILIAR PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0732.- SE REFORMA (SIC) LOS ARTÍCULOS 599 EN SU FRACCIÓN I Y 605, DEL CÓDIGO CIVIL PARA EL ESTADO. SE REFORMA (SIC) LOS ARTÍCULOS 175, 359 Y 379; Y ADICIONA AL ARTÍCULO 301 EL PÁRRAFO TERCERO, DEL CÓDIGO FAMILIAR PARA EL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
