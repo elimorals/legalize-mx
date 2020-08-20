@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2020-05-14"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -2963,17 +2963,15 @@ ART. 598.- Las obligaciones y facultades del depositario serán las que la Ley a
 
 ART. 599.- Se nombrará depositario:
 
-I.- Al cónyuge del ausente;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2020)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+I. A la o el cónyuge, a la concubina o concubinario del ausente;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 II.- A una hija o un hijo mayores de edad que resida en el lugar. Si hubiere varios, la autoridad judicial elegirá a la o el más apto;
 
 III.- Al ascendiente más próximo en grado al ausente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -3005,11 +3003,9 @@ ART. 603.- En el nombramiento de representante se atenderá a lo dispuesto en el
 
 ART. 604.- Si la o el cónyuge ausente fuera casado en segundas o ulteriores nupcias y hubiere hijas o hijos del matrimonio o matrimonios anteriores, la autoridad judicial ordenará que el cónyuge presente y las hijas o hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes, en su caso, nombren de común acuerdo el depositario, más si no estuvieren conformes, la autoridad judicial le nombrará libremente de entre las personas designadas por el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-ART. 605.- A falta de cónyuge, de ascendientes y descendientes, será representante el heredero presuntivo. Si hubiere varios con igual derecho, ellos mismos elegirán el que deba de representarlos. Si no se ponen de acuerdo en la elección, lo hará la autoridad judicial, prefiriendo al que tenga más interés en la conservación de los bienes del ausente.
+ART. 605.- A falta de cónyuge, concubina o concubinario, de ascendientes y descendientes, será representante el heredero presuntivo. Si hubiere varios con igual derecho, ellos mismos elegirán el que deba de representarlos. Si no se ponen de acuerdo en la elección, lo hará la autoridad judicial, prefiriendo al que tenga más interés en la conservación de los bienes del ausente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -10572,6 +10568,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0679.- SE REFORMA EL ARTÍCULO 2283; Y DEROGA EL ARTÍCULO 2581, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0732.- SE REFORMA (SIC) LOS ARTÍCULOS 599 EN SU FRACCIÓN I Y 605, DEL CÓDIGO CIVIL PARA EL ESTADO. SE REFORMA (SIC) LOS ARTÍCULOS 175, 359 Y 379; Y ADICIONA AL ARTÍCULO 301 EL PÁRRAFO TERCERO, DEL CÓDIGO FAMILIAR PARA EL ESTADO".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
