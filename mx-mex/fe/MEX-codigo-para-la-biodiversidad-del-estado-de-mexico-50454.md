@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2019-12-26"
+last_updated: "2020-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2020.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -3665,7 +3665,9 @@ IV. Celebrar acuerdos y convenios de coordinación, cooperación y concertación
 
 V. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal de conformidad con el presente Libro y lineamientos de la política forestal del país en coordinación con las organizaciones productivas de poseedores y propietarios forestales locales o regionales;
 
-VI. Participar en la planeación y ejecución de la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales dentro de su ámbito territorial de competencia;
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2020)</small>
+
+VI. Participar en la planeación y ejecución de la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales dentro de su ámbito territorial de competencia; así como realizar campañas destinadas a la concientización sobre la importancia de las acciones señaladas en la presente fracción;
 
 VII. Llevar a cabo en coordinación con el Gobierno de la Entidad acciones de saneamiento en los ecosistemas forestales dentro de su ámbito de competencia;
 
@@ -8072,3 +8074,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 174.- POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 31, SE ADICIONAN LAS FRACCIONES VI Y VII, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, AL ARTÍCULO 96 OCTIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 3.14 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
