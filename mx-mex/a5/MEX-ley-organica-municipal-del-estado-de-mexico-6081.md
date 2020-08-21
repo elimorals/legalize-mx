@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2020-08-20"
+last_updated: "2020-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -917,9 +917,13 @@ III. No haber sido condenado en proceso penal, por delito intencional que amerit
 
 IV. Contar con título profesional o acreditar experiencia mínima de un año en la materia, ante el Presidente o el Ayuntamiento, cuando sea el caso, para el desempeño de los cargos que así lo requieran; y
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 21 DE AGOSTO DE 2020)</small>
 
-V. En su caso, contar con certificación en la materia del cargo que se desempeñará.
+V. En su caso, contar con certificación de competencia laboral en la materia del cargo que se desempeñará, expedida por institución con reconocimiento de validez oficial. Este requisito podrá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2020)</small>
+
+Vencido el plazo a que se refiere el párrafo anterior, el Presidente Municipal informará al Cabildo sobre el cumplimiento de dicha certificación laboral para que, en su caso, el Ayuntamiento tome las medidas correspondientes respecto de aquellos servidores públicos que no hubiesen cumplido.
 
 ### CAPITULO CUARTO. Actos administrativos que Requieren
 
@@ -1865,11 +1869,11 @@ II. Coordinarse con las dependencias federal y estatal que son responsables de l
 
 III. Las demás que señalen las disposiciones jurídicas de la materia.
 
-> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 85 Sexies.
 
-El Coordinador General Municipal de Mejora Regulatoria, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional, además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, el diplomado en materia de mejora regulatoria expedido por el Instituto de Profesionalización de los Servidores Públicos del Estado de México o la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+El Coordinador General Municipal de Mejora Regulatoria, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional, además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, el diplomado en materia de mejora regulatoria expedido por el Instituto de Profesionalización de los Servidores Públicos del Estado de México o la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México o por alguna otra institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México.
 
 ## TITULO IV. Régimen Administrativo
 
@@ -1993,9 +1997,9 @@ II. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
 III. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
-> <small>(ADICIONADA, G.G. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.G. 21 DE AGOSTO DE 2020)</small>
 
-IV. Contar con la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México, dentro de los seis meses siguientes a la fecha en que inicie sus funciones.
+IV. Contar con la certificación de competencia laboral en la materia, expedida por el Instituto Hacendario del Estado de México o por alguna otra institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México, dentro de los seis meses siguientes a la fecha en que inicie funciones.
 
 ### CAPITULO SEGUNDO. De la Tesorería Municipal
 
@@ -2079,9 +2083,11 @@ XXII. Las que les señalen las demás disposiciones legales y el ayuntamiento.
 
 Para ser tesorero municipal se requiere, además de los requisitos del artículos (sic) 32 de esta Ley:
 
-> <small>(REFORMADA, G.G. 13 DE JULIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 21 DE AGOSTO DE 2020)</small>
 
-I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del Ayuntamiento; contar con título profesional en las áreas jurídicas, económicas o contable-administrativas, con experiencia mínima de un año y con la certificación de competencia laboral en funciones expedida por el Instituto Hacendario del Estado de México, con anterioridad a la fecha de su designación;
+I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del Ayuntamiento; contar con título profesional en las áreas jurídicas, económicas o contables administrativas, con experiencia mínima de un año, con anterioridad a la fecha de su designación, y con certificación de competencia laboral en funciones expedida por el Instituto Hacendario del Estado de México o por alguna institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México;
+
+> <small>(REFORMADO, G.G. 13 DE JULIO DE 2015)</small>
 
 El requisito de la certificación de competencia laboral, deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicie funciones.
 
@@ -2157,7 +2163,9 @@ XXVI. Las demás que les señalen las disposiciones aplicables.
 
 El Director de Obras Públicas o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en ingeniería, arquitectura o alguna área afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación.
 
-Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2020)</small>
+
+Además, deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México o por alguna otra institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México.
 
 > <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
 
@@ -2227,7 +2235,9 @@ XX. Las demás que señalen las disposiciones legales aplicables.
 
 Artículo 96 Quintus.- El Director de Desarrollo Económico o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en el área económico-administrativa o contar con experiencia mínima de un año, con anterioridad a la fecha de su designación.
 
-Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2020)</small>
+
+Además, deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México o por alguna otra institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México.
 
 > <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2253,11 +2263,11 @@ VIII. Proponer al Presidente Municipal, convenios, contratos y acuerdos, y
 
 IX. Las demás que le sean conferidas por el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 96 Septies.
 
-El Director de Desarrollo Urbano o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de ingeniería civil-arquitectura o afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+El Director de Desarrollo Urbano o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de ingeniería civil-arquitectura o afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México o por alguna otra institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México.
 
 > <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2285,11 +2295,11 @@ VII. Preservar, rescatar, restaurar y vigilar las áreas verdes municipales; y
 
 VIII. Las demás que le sean conferidas por el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 96 Nonies.
 
-El Director de Ecología o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de biología-agronomía-administración pública o afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+El Director de Ecología o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de biología-agronomía-administración pública o afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México o por alguna otra institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México.
 
 > <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
 
@@ -2957,9 +2967,9 @@ I. Ser mexicano en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 II. Tener residencia efectiva en el municipio no menor a tres años;
 
-> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, G.G. 21 DE AGOSTO DE 2020)</small>
 
-III. Tener preferentemente licenciatura; asimismo, estudios en derechos humanos, experiencia en la protección, observancia y divulgación de éstos, que deberá ser comprobable con un mínimo de tres años;
+III. Contar preferentemente con título de licenciado en derecho o disciplinas afines, así como experiencia o estudios en derechos humanos;
 
 > <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -2977,9 +2987,9 @@ VI. No haber sido sancionado en el desempeño de empleo, cargo o comisión en lo
 
 VII. No haber sido objeto de sanción de inhabilitación o destitución administrativas para el desempeño de empleo, cargo o comisión en el servicio público, mediante resolución que haya causado estado.
 
-> <small>(ADICIONADA, G.G. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, G.G. 21 DE AGOSTO DE 2020)</small>
 
-VIII. Certificación en materia de derechos humanos, que para tal efecto emita la Comisión de Derechos Humanos del Estado de México, auxiliándose de otros entes públicos con capacidad jurídica para ello.
+VIII. Certificación en materia de derechos humanos, que para tal efecto emita la Comisión de Derechos Humanos del Estado de México.
 
 > <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -5174,3 +5184,21 @@ G.G. 20 DE AGOSTO DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 176.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 147 I DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 32, EL ARTÍCULO 85 SEXIES, LA FRACCIÓN IV DEL ARTÍCULO 92, LA FRACCIÓN I DEL ARTÍCULO 96, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 96 TER, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 96 QUINTUS, LOS ARTÍCULOS 96 SEPTIES Y 96 NONIES, Y LA FRACCIÓN VIII DEL ARTÍCULO 147 I; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 32, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
