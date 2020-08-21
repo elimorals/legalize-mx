@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2020-08-06"
+last_updated: "2020-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE AGOSTO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 28 DE JULIO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -693,9 +691,9 @@ A. Deberán contribuir al equilibrio presupuestario e incluirán estimaciones ec
 
 En caso de presentarse durante el año una reducción a los ingresos aprobados, deberán ajustarse los gastos proporcionalmente, en la forma que determine la ley.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2020)</small>
 
-La Presupuestación del Gasto Público se basará en las orientaciones, lineamientos y políticas establecidas en el Plan Estatal de Desarrollo; se realizará con sustento en programas que permitan la identificación clara y desagregada del gasto público, objetivos que se persiguen con cada uno de ellos, y los responsables de la ejecución, medición y verificación de sus resultados. Dichos programas en su formulación y ejercicio, deberán atender a lo dispuesto por esta Constitución en materia de administración y gasto público.
+La formulación del Gasto Público se basará en las orientaciones, lineamientos y políticas establecidas en el Plan Estatal de Desarrollo. El gasto público tendrá como sustento a los programas que permitan la identificación clara y desagregada del mismo, los objetivos que se persiguen con cada uno de ellos, y los responsables de la ejecución, medición y verificación de sus resultados. Dichos programas en su formulación y ejercicio, deberán atender a lo dispuesto por esta Constitución en materia de administración y gasto público, así como con la perspectiva de género y criterio de transversalidad.
 
 B. El Ejecutivo elaborará las iniciativas de Ley de Ingresos del Estado y de Presupuesto de Egresos del Estado, las cuales hará llegar al Congreso a más tardar el día 31 de octubre del año anterior al de su vigencia debiendo comparecer el secretario del despacho correspondiente a dar cuenta de las mismas. La modificación a dicho plazo procederá en los términos que fije la ley.
 
@@ -2151,9 +2149,9 @@ Los Ayuntamientos podrán celebrar convenios, autorizar concesiones o celebrar c
 
 Los Ayuntamientos podrán autorizar presupuestos multianuales en los términos que dispongan las leyes.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2020)</small>
 
-La planeación pública municipal será congruente con el sistema estatal y regional de planeación para el desarrollo.
+La planeación pública municipal será congruente con el sistema estatal y regional de planeación para el desarrollo, garantizando en todo momento que el gasto público atienda la perspectiva de género y el criterio de transversalidad en su diseño.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -2641,11 +2639,11 @@ Las proposiciones de reforma o adición, que no fueren admitidas por la Legislat
 
 ### CAPITULO UNICO. Prevenciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2020)</small>
 
 ###### Art. 133.
 
-La administración y gasto de los recursos económicos de que dispongan los entes públicos estatales y municipales, atenderá a los principios de racionalidad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos propios de su finalidad; considerando además, la misión y visión institucional del ente público del que se trate.
+La administración y gasto de los recursos económicos de que dispongan los entes públicos estatales y municipales, atenderá a los principios de racionalidad, eficiencia, eficacia, economía, transparencia, honradez y perspectiva de género, para satisfacer los objetivos propios de su finalidad; considerando además, la misión y visión institucional del ente público del que se trate.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -2687,11 +2685,11 @@ El manejo de recursos federales convenidos se sujetará a las disposiciones de �
 
 Los servidores públicos del Estado y sus Municipios serán responsables del cumplimiento a las mencionadas disposiciones en los términos del Título Octavo de esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2020)</small>
 
 ###### Art. 134.
 
-Corresponde al Gobierno del Estado la rectoría del desarrollo para garantizar que sea estratégico, integral y con una visión al menos de veinticinco años, que fortalezca su economía, su régimen democrático, el empleo y una más justa distribución del ingreso; permitiendo el ejercicio de las libertades y la dignidad del hombre, en el marco de los mandatos que prescribe la Constitución General de la República, esta Constitución y las Leyes que de ellas emanen.
+Corresponde al Gobierno del Estado la rectoría del desarrollo para garantizar que sea integral y con una visión al menos de veinticinco años que fortalezca su economía, su régimen democrático, la igualdad de hombres y mujeres, el empleo y una más justa distribución del ingreso, permitiendo el ejercicio de las libertades y la dignidad del ser humano, en el marco de los mandatos que prescribe la Constitución General de la República, esta Constitución y las Leyes que de ellas emanen.
 
 El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Sistema Estatal de Planeación y sus instrumentos, así como los Sistemas Municipales de Planeación, deberán fundamentarse en dichos principios.
 
@@ -4208,3 +4206,11 @@ CUARTO.- Dentro de los ciento veinte días naturales siguientes a que entre en v
 QUINTO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
 
 SEXTO.- Por única ocasión el Consejo de la Judicatura del Poder Judicial del Estado de Nayarit, remitirá al Congreso del Estado propuesta de la terna para la designación de la siguiente vacante de Magistrado Numerario del Tribunal Superior de Justicia, previa convocatoria pública para el concurso de oposición, entre los jueces de primera instancia que cuenten con más de 10 años de carrera judicial al día de la designación.
+
+P.O. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE PERSPECTIVA DE GÉNERO, TRANSVERSALIDAD Y DE EVALUACIÓN DE POLÍTICAS PÚBLICAS EN LA FORMULACIÓN DEL GASTO PÚBLICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 2021 y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto a los Ayuntamientos del Estado de Nayarit, para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
