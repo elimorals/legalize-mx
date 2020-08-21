@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2020-07-24"
+last_updated: "2020-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3021,7 +3021,9 @@ II. El que intencionalmente se coloque en estado de insolvencia, con el objeto d
 
 III. El padre, madre, tutor o quien tenga legalmente la custodia de un menor de edad, que por incurrir en negligencia u omisión en más de una ocasión en las obligaciones que le impone la ley, ponga en riesgo la salud mental o física del menor, se le impondrán de tres a ocho años de prisión y de cincuenta a trescientos cincuenta días multa.
 
-El Ministerio Público solicitará al Sistema Estatal para el Desarrollo Integral de la Familia, información sobre antecedentes a que se refiere este artículo, en los términos de las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2020)</small>
+
+El Ministerio Público solicitará al Sistema Estatal para el Desarrollo Integral de la Familia, información sobre (sic) antecedentes a que se refiere este artículo; asimismo podrá solicitar a la Dirección del Registro Civil del Estado de México información relacionada con quienes tengan la calidad de acreedor alimentario, en los términos de las disposiciones jurídicas aplicables.
 
 Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad o incapaces; en cuyo caso, se perseguirá de oficio. En el caso de las fracciones I y II, para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizará el pago futuro de los mismos, por un término no menor a un año.
 
@@ -7146,3 +7148,11 @@ G.G. 24 DE JULIO DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno.
+
+G.G. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 217 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
