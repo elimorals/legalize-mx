@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1249
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-22"
-last_updated: "2019-09-27"
+last_updated: "2020-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2020.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Sinaloa, el viernes 22 de diciembre de 2017.
 
@@ -237,13 +237,33 @@ La autonomía presupuestaria otorgada a los Poderes Legislativo y Judicial, y lo
 
 I. Aprobar sus proyectos de presupuesto de egresos y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos del Estado, observando los criterios de política económica y demás disposiciones aplicables;
 
-II. Ejercer sus presupuestos de egresos observando lo dispuesto en esta Ley, sin sujetarse a las disposiciones generales emitidas por la Secretaría y la Secretaría de Transparencia. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2020)</small>
 
-III. Llevar la contabilidad y elaborar sus informes conforme a lo previsto en esta Ley, así como enviarlos a la Secretaría para su integración a los informes trimestrales y a la Cuenta Pública.
+II. Manejar, administrar y ejercer sus presupuestos de egresos observando lo dispuesto en esta Ley, sin sujetarse a las disposiciones generales emitidas por la Secretaría y la Secretaría de Transparencia. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes;
 
-Los Poderes Legislativo y Judicial, y los órganos constitucionales autónomos, en uso de su autonomía, podrán celebrar convenios con el titular del Ejecutivo del Estado para que a través de la Secretaría se realicen sus pagos y las erogaciones correspondientes a sus servicios personales. Las entidades podrán, en su caso, celebrar convenios de esta naturaleza. En este caso, la Secretaría únicamente actuará como auxiliar y la responsabilidad por el ejercicio y pago de los recursos será de los Poderes Legislativo y Judicial, de los órganos constitucionales autónomos y de las entidades.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2020)</small>
 
-El margen de autonomía presupuestaria de las entidades se sujetará estrictamente a lo dispuesto en esta Ley, el Reglamento y, en su caso, a las disposiciones específicas contenidas en las leyes o decretos de su creación.
+III. Llevar la contabilidad y elaborar sus informes conforme a lo previsto en esta Ley, así como enviarlos a la Secretaría para su integración a los informes trimestrales y a la Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2020)</small>
+
+IV. Autorizar adecuaciones, ya sean ampliaciones o reducciones a sus presupuestos totales o entre partidas que se requieran, siempre que exista una fuente de financiamiento o recursos disponibles de cualquier naturaleza; incluso de otros ejercicios fiscales que estén debidamente justificados e identificados, salvo aquellos etiquetados o que por disposición legal tengan un fin específico.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2020)</small>
+
+V. Realizar sus pagos a través de sus respectivas tesorerías o sus equivalentes; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2020)</small>
+
+VI. Determinar los ajustes que correspondan en sus presupuestos en caso de disminución de ingresos, observando en lo conducente lo dispuesto en el artículo 19 de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2020)</small>
+
+Los ejecutores de gasto público que cuenten con autonomía presupuestaria deberán sujetarse a lo previsto en esta Ley; a la Ley de Disciplina Financiera de las Entidades Federativas y de los Municipios; a la Ley de Contabilidad Gubernamental y demás legislación aplicable en materia presupuestaria.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2020)</small>
+
+Las entidades referidas en la fracción XIX del Artículo 2 de esta Ley, atendiendo el margen de autonomía de gestión con la que cuentan según su normatividad propia, se regirán por las disposiciones de la misma, por lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y de los Municipios; por la Ley de Contabilidad Gubernamental, así como por la demás legislación aplicable en materia presupuestaria.
 
 ###### Artículo 7.
 
@@ -1566,3 +1586,11 @@ El Reglamento de dicha Ley incluirá como mínimo, los lineamientos y reglas de 
 CUARTO. La entrega de los uniformes, calzado deportivo y útiles escolares a que se refiere la Ley para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares del Estado de Sinaloa, aplicará a partir del ciclo escolar 2020-2021.
 
 Para garantizar la entrega de uniformes y útiles escolares del ciclo escolar 2019-2020 se estará a lo dispuesto por el Programa de Uniformes y Útiles Escolares emitido por el Poder Ejecutivo del Estado.
+
+P.O. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 468 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA EL CONTENIDO DEL ARTÍCULO 6 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE SINALOA”.]
+
+Primero. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. Los Poderes del Estado y los Organismos Autónomos y, en lo que corresponda a las demás entidades cuando la legislación aplicable lo permita, deberán prever las acciones necesarias para los efectos de llevar a cabo el tránsito de la nómina presupuestal, así como el desarrollo del cumplimiento de las disposiciones fiscales que les correspondan para el mejor desempeño del manejo, administración y ejecución del gasto presupuestal que en el ámbito de sus competencias les corresponda y conforme a su naturaleza jurídica.
