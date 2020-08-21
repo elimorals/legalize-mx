@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2020-08-20"
+last_updated: "2020-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2020.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -2386,6 +2386,14 @@ II. Celebrar convenios de concertación con los diversos grupos sociales, con el
 III. Promover la celebración de convenios, acuerdos con los diversos medios de comunicación masiva para la difusión, información y promoción de acciones ecológicas. Para tales efectos, se buscará la participación de grupos de intelectuales, artistas, científicos e investigadores, así como todas aquellas personalidades cuyos conocimientos contribuyan a formar y orientar a la opinión pública; y
 
 IV. Promover el establecimiento de reconocimientos a quienes hayan realizado esfuerzos y contribuciones importantes con miras de salvaguardar la biodiversidad, preservar o restaurar el equilibrio ecológico y proteger al medio ambiente.
+
+> <small>(ADICIONADA, G.G. 21 DE AGOSTO DE 2020)</small>
+
+V. Realizar en conjunto con las cámaras empresariales, organizaciones de la sociedad civil y la sociedad en general, estrategias y políticas públicas encaminadas para que los establecimientos de alimentos y bebidas desincentiven el consumo de popotes, vasos, bolsas utensilios y contenedores plásticos, en tiendas de autoservicio, farmacias, mercados, restaurantes y similares.
+
+> <small>(ADICIONADA, G.G. 21 DE AGOSTO DE 2020)</small>
+
+VI. Promover acciones tendientes a la sustitución gradual de popotes y bolsas o contenedores plásticos en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, por productos sustentables elaborados con materiales reutilizable (sic), reciclables, compostables o que sean de pronta biodegradación.
 
 ###### Artículo 2.
 
@@ -8082,3 +8090,13 @@ G.G. 20 DE AGOSTO DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 175.- POR EL QUE SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 2.202 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a este Decreto.
