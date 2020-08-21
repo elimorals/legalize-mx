@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2018-05-30"
+last_updated: "2020-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -419,11 +419,21 @@ Artículo 21 Las autoridades educativas municipales podrán celebrar convenios c
 
 Artículo 22 Las autoridades educativas estatal y municipales, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Sistema Educativo Estatal y formular recomendaciones para apoyar la función social educativa. Estas reuniones serán presididas por la Secretaría de Educación.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 22 BIS], P.O. 12 DE MARZO DE 2014)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DEL DECRETO 215 PUBLICADO EN EL P.O. DEL 21 AGOSTO DE 2020, SE ADVIERTE QUE EL CONTENIDO DE ESTE ARTÍCULO SOLO CONSTA DE UN PÁRRAFO, VÉASE LITERALIDAD DEL DECRETO PÁGINA 12.]</small>
 
-###### Artículo 22
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2020)</small>
 
-A La Secretaría de Educación en coordinación con la Secretaría de Salud de Tabasco y el Sistema para el Desarrollo Integral de la Familia de Tabasco, de conformidad con sus respectivas competencias, llevarán a cabo, en los planteles del Sistema Estatal de Educación y en los planteles incorporados al mismo, las acciones conducentes para asegurar el debido cumplimiento de los lineamientos que emita la Secretaría de Educación Pública, a que deberán sujetarse el expendio, distribución y elaboración de los alimentos y bebidas preparados y procesados, dentro de toda escuela.
+###### Artículo 22-A.
+
+La Secretaría de Educación en coordinación con la Secretaría de Salud de Tabasco y el Sistema para el Desarrollo Integral de la Familia de Tabasco, de conformidad con sus respectivas competencias, para asegurar el debido cumplimiento de los lineamientos emitidos por la Secretaría de Educación Pública, a los cuales se encuentran sujetos el expendio, la distribución y la elaboración de los alimentos y bebidas preparados y procesados, en los planteles del Sistema Estatal de Educación y en los incorporados al mismo, realizarán las acciones siguientes: (sic)
+
+I. a la II ....(sic)
+
+III. Promover mejores prácticas nutricionales y hábitos saludables de alimentación en los educandos; (sic)
+
+IV. Prohibir la venta de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales que contengan ácidos grasos hidrogenados en su forma trans, dentro de las escuelas de educación básica, de conformidad con lo dispuesto en la Ley de Salud del Estado de Tabasco; y (sic)
+
+V. Promover entornos alimentarios escolares saludables. (sic)
 
 ### Capítulo III. DE LA ESTRUCTURA DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -1179,13 +1189,13 @@ II. Fomentar con las empresas privadas, el desarrollo de programas de educación
 
 D La educación nutricional en el Estado, tiene los siguientes objetivos:
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2020)</small>
 
-I. Desarrollar una comprensión integral de los problemas de desnutrición y obesidad en sus diversos aspectos.
+I. Desarrollar una comprensión integral de los problemas de desnutrición, sobrepeso y obesidad en sus diversos aspectos;
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2020)</small>
 
-II. La toma de conciencia sobre el consumo de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales, que contengan ácidos grasos hidrogenados en su forma “trans”, dentro de las escuelas de educación básica, de conformidad con lo dispuesto en la Ley de Salud del Estado de Tabasco; y
+II. La toma de conciencia sobre el daño en la salud que provoca el consumo de bebidas azucaradas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales, que contengan ácidos grasos hidrogenados en su forma trans, dentro de las escuelas de educación básica, de conformidad con lo dispuesto en la Ley de Salud del Estado de Tabasco; y
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2012)</small>
 
@@ -2498,3 +2508,13 @@ P.O. 30 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 215 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 22-A PÁRRAFO PRIMERO, FRACCIONES III Y IV Y 96- D FRACCIONES I Y II; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 22-A, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+TERCERO. Para efectos de lo establecido en el presente Decreto, la Secretaría de Salud en coordinación con la Secretaría para el Desarrollo Económico y la Competitividad, emitirá la lista de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans.
