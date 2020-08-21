@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2019-11-06"
+last_updated: "2020-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -179,11 +179,17 @@ XVIII. Ejercer la verificación y el control sanitario de los establecimientos o
 
 XIX. La salud visual y auditiva desde la edad temprana;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2020)</small>
 
-XX. La donación y trasplante de órganos, tejidos y células, así como la difusión de la cultura de la donación; y
+XX. La donación y trasplante de órganos, tejidos y células, así como la difusión de la cultura de la donación;
 
-XXI. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2020)</small>
+
+XXI. Procurar el diseño de programas y estrategias en materia de prevención, detección temprana, orientación y atención del cáncer en la infancia y adolescencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2020)</small>
+
+XXII. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B) En materia de salubridad local, las acciones de regulación sanitaria de las actividades y servicios de:
 
@@ -953,15 +959,33 @@ La Secretaría de Salud establecerá campañas que promuevan el consumo de alime
 
 La Secretaría de Salud, en coordinación con la Secretaría de Educación, desarrollarán acciones tendientes a desalentar en los niños el consumo de alimentos poco nutritivos como: golosinas, frituras y alimentos de bajo valor nutricional, fomentando el consumo de verduras y frutas, mediante la recomendación a la población en general y a los padres de familia durante las asambleas ordinarias que se lleven a cabo en las escuelas.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 87.
 
-Queda prohibida la venta de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, dentro de las escuelas de educación básica, centros de recreación y deporte de niños y adolescentes, en guarderías y centros de desarrollo infantil, y cualquier otro establecimiento escolar que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niños y adolescentes, así como en los hospitales públicos y privados, clínicas y centros de salud; asimismo se prohíbe la instalación de máquinas expendedoras de productos industrializados (alimentos y bebidas). La Secretaría de Salud emitirá la lista de estos productos que lo contengan.
+En el estado de Tabasco está prohibida:
+
+I. La venta, distribución, donación, dádiva y suministro de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, a menores de edad.
+
+Se exceptúan de esta prohibición a las personas que realicen cualquiera de las conductas descritas en el párrafo anterior, en su calidad de madres, padres o tutores legales de menores de edad. Por lo que la provisión de estos productos a sabiendas que son nocivos para la salud y el consumo por parte de los menores de edad queda bajo la responsabilidad absoluta del padre, madre o tutor legal;
+
+II. La venta, distribución, donación, dádiva, suministro y publicidad de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, en escuelas de educación básica y cualquier otro establecimiento escolar público o privado que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niñas, niños y adolescentes. Asimismo, en dichos lugares se prohíbe la instalación de máquinas expendedoras de estos productos;
+
+III. La venta, distribución, donación, dádiva y suministro de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, en hospitales públicos y privados, clínicas y centros de salud. Asimismo, en dichos lugares se prohíbe la instalación de máquinas expendedoras de estos productos; y
+
+IV. La instalación de máquinas expendedoras de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans.
+
+En el caso de que se contravenga lo dispuesto en el párrafo anterior, el propietario de la máquina expendedora y el del establecimiento donde esta estuviera instalada, se harán acreedores a las sanciones que correspondan en los términos de esta Ley.
+
+Los propietarios, encargados, colaboradores y empleados de los establecimientos en donde se expendan bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, que contravengan lo dispuesto en el presente artículo se harán acreedores a las sanciones que correspondan en los términos de esta Ley, con independencia de las demás que resulten aplicables conforme a la (sic) disposiciones legales y administrativas en la materia.
+
+Para efectos de lo establecido en el presente artículo, se entenderá por bebida azucarada preenvasada, a la bebida que cuando es colocada en un envase de cualquier naturaleza, no se encuentra presente el consumidor y la cantidad de producto contenido en él no puede ser alterada, a menos que el envase sea abierto o modificado perceptiblemente.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 88.
 
-Las escuelas de educación básica, centro de educación inicial, de cuidados infantiles, guarderías, centro de desarrollo infantil, y cualquier otro establecimiento escolar que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niños y adolescentes, deberán fomentar el deporte al aire libre todos los días en las escuelas, cuando menos durante 20 minutos diarios.
+Las escuelas de educación básica, centros de educación inicial, de cuidados infantiles, guarderías, centros de desarrollo infantil, y cualquier otro establecimiento escolar que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niñas, niños y adolescentes, deberán fomentar la adopción de hábitos de alimentación saludable, así como el deporte al aire libre todos los días en las escuelas, cuando menos durante 20 minutos diarios.
 
 ###### ARTÍCULO 89.
 
@@ -1409,9 +1433,9 @@ Los establecimientos que expendan alimentos preparados ricos en carbohidratos, g
 
 La Secretaría de Salud, difundirá, capacitará y dará a conocer los alimentos preparados que predominantemente contengan grasas trans.
 
-###### ARTÍCULO 163.
+###### ARTICULO 163.
 
-Queda prohibida la venta de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales que contengan ácidos grasos hidrogenados en su forma trans, en escuelas de todos los niveles educativos, centros de recreación y deporte de niños y adolescentes, y en los alimentos proporcionados en centros de educación inicial y cuidado infantil, incluidas guarderías, centros de desarrollo infantil y estancias infantiles públicas, privadas o asistenciales.
+(DEROGADO, P.O. 21 DE AGOSTO DE 2020)
 
 ### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -4097,9 +4121,9 @@ SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
 
-P.O. 17 DE ABRIL DE 2019.
+P.O. 15 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 082 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 101 BIS Y 101 TER, ASÍ COMO EL CAPÍTULO XI BIS, AL TÍTULO TERCERO, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 104 POR EL QUE “SE REFORMA EL ARTÍCULO 87 DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4109,9 +4133,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Se derogan las disposiciones que se opongan al contenido del presente Decreto.
 
-P.O. 15 DE JUNIO DE 2019.
+P.O. 17 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 104 POR EL QUE “SE REFORMA EL ARTÍCULO 87 DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 082 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 101 BIS Y 101 TER, ASÍ COMO EL CAPÍTULO XI BIS, AL TÍTULO TERCERO, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4128,3 +4152,21 @@ P.O. 6 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 215 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 87 Y 88; Y SE DEROGA EL ARTÍCULO 163, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+TERCERO. Para efectos de lo establecido en el presente Decreto, la Secretaría de Salud en coordinación con la Secretaría para el Desarrollo Económico y la Competitividad, emitirá la lista de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans.
+
+P.O. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 216 POR EL QUE “SE REFORMAN LAS FRACCIONES XX Y XXI, Y SE ADICIONA UNA FRACCIÓN XXII, AL APARTADO A), DEL ARTÍCULO 5 DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
