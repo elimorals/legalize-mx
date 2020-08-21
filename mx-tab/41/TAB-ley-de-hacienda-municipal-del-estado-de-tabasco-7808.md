@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2017-07-05"
+last_updated: "2020-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -1611,6 +1611,14 @@ PLÁSTICO
 
 VOLANTES POR DÍA 0.02
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2020)</small>
+
+Cuando el anuncio, cartel o cualquier tipo de publicidad se trate de la promoción de bebidas azucaradas, golosinas o alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, la tarifa para el pago de los derechos se aumentará en un 25 por ciento.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2020)</small>
+
+Los anuncios, carteles o cualquier tipo de publicidad referente a los productos mencionados en el párrafo anterior, deberán estar ubicados, cuando menos, fuera de un radio de 300 metros de escuelas de educación básica y cualquier otro establecimiento escolar público o privado que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niñas, niños y adolescentes; así como de hospitales públicos y privados, clínicas y centros de salud.
+
 En los casos en que la base de la tarifa se refiera a metros cuadrados por día, el pago se hará por las fracciones de metros.
 
 El pago de los derechos especificados en la tabla anterior, se efectuará en la Dirección de Finanzas o Tesorería Municipal, dentro de los primeros cinco días hábiles de cada mes.
@@ -1787,7 +1795,7 @@ Quedan sin efecto todas las disposiciones legales que se opongan a este Decreto.
 
 P.O. 27 DE SEPTIEMBRE DE 2000.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 359 POR EL QUE "SE REFORMA EL ARTÍCULO 115 PRIMER PÁRRAFO, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO 359 POR EL QUE “SE REFORMA EL ARTÍCULO 115 PRIMER PÁRRAFO, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
@@ -1828,3 +1836,13 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 21 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 215 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 146-BIS, RECORRIÉNDOSE EN SU ORDEN LOS PÁRRAFOS SUBSECUENTES, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+TERCERO. Para efectos de lo establecido en el presente Decreto, la Secretaría de Salud en coordinación con la Secretaría para el Desarrollo Económico y la Competitividad, emitirá la lista de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans.
