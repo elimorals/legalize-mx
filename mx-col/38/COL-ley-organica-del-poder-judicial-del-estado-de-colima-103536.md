@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2018-10-20"
+last_updated: "2020-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2020.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -95,9 +97,17 @@ XI. Poder Judicial: Poder Judicial del Estado de Colima;
 
 XII. Presidente: Presidente del Supremo Tribunal de Justicia del Poder Judicial del Estado de Colima;
 
-XIII. Supremo Tribunal de Justicia: Pleno o Salas del Supremo Tribunal de Justicia del Estado; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2020)</small>
 
-XIV. Tribunal de Alzada: Salas del Supremo Tribunal de Justicia del Estado.
+XIII. Sistema electrónico: el sistema electrónico del Poder Judicial del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2020)</small>
+
+XIV. Supremo Tribunal de Justicia: Pleno o Salas del Supremo Tribunal de Justicia del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE AGOSTO DE 2020)</small>
+
+XV. Tribunal de Alzada: Salas del Supremo Tribunal de Justicia del Estado.
 
 ###### Artículo 4.
 
@@ -232,6 +242,22 @@ El Supremo Tribunal puede, en su caso, encomendar la práctica de diligencias a 
 Sólo en casos excepcionales, debidamente justificados los juzgados de primera instancia podrán encomendar la práctica de una diligencia a un juzgado de inferior grado del mismo partido judicial.
 
 En materia de ejecución de sentencia y cumplimiento de amparo; en casos urgentes, a juicio del Juez, podrá prescindirse del envío de exhortos o despachos, aún cuando el domicilio se encuentre fuera del domicilio procesal en que se actúe, por lo que los servidores públicos tendrán atribuciones para actuar en todo el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2020)</small>
+
+Artículo 14 bis. Sistema electrónico.
+
+El Poder Judicial contará con un sistema electrónico, a través del cual se podrán tramitar las diversas etapas en los procedimientos judiciales a cargo de los órganos jurisdiccionales, como enviar promociones y documentos en forma electrónica, así como realizar notificaciones por esa misma vía, siempre que las partes previamente hayan obtenido la firma electrónica.
+
+A través de este sistema se podrán hacer trámites administrativos entre los diferentes órganos jurisdiccionales y administrativos del Poder Judicial, y de estos con los particulares y con autoridades de los diferentes órdenes de gobierno.
+
+Es facultad de cada órgano jurisdiccional validar que quienes comparezcan vía electrónica estén legítimamente autorizados en el expediente y cuenten con facultades para la presentación de promociones y documentos.
+
+Tratándose de la notificación por vía electrónica, procederá siempre que las partes expresamente así lo soliciten, y que se haya hecho conforme a las disposiciones generales que emita el Pleno del Tribunal.
+
+La firma electrónica producirá los mismos efectos jurídicos que la firma autógrafa.
+
+El sistema electrónico se regirá conforme a las determinaciones que con carácter general emita el Pleno del Tribunal.
 
 ### Capítulo IV. De los Auxiliares de la Administración de Justicia
 
@@ -4684,3 +4710,13 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 577 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 150, ASIMISMO SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 150, ASÍ COMO UN CAPÍTULO IX DENOMINADO "DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS" AL TÍTULO TERCERO, CONFORMADO POR LOS ARTÍCULOS 177 BIS, 177 TER Y 177 QUÁTER, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
 
 ÚNICO. - El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 22 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 296.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los 30 días siguientes a su publicación, y deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- El sistema electrónico se regirá conforme a las determinaciones que con carácter general emita el Pleno del Supremo Tribunal de Justicia del Estado de Colima, dentro de los 15 días siguientes a la publicación del presente Decreto en el Periódico Oficial “El Estado de Colima” y de conformidad a las posibilidades informáticas actuales que prevalecen en el sistema electrónico del Poder Judicial del Estado, a fin de que se atienda de manera urgente las medidas implementadas, hasta en tanto se emiten las inherentes al sistema electrónico integral del Poder Judicial del Estado.
+
+TERCERO.- Dentro de los 30 días siguientes a la publicación del presente Decreto en el Periódico Oficial “El Estado de Colima”, el Pleno del Supremo Tribunal de Justicia del Estado, presentará al Congreso del Estado, un proyecto de sistema electrónico para la atención integral de los diversos procedimientos jurisdiccionales, que incluya la estimación presupuestal respectiva, a fin de que sea considera (sic) en el presupuesto de egresos del ejercicio fiscal siguiente.
