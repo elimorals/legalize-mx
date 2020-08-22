@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2020-03-14"
+last_updated: "2020-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2020.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -151,13 +151,13 @@ Los usuarios de los servicios de agua potable en "servicio medido", alcantarilla
 
 Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del IVA de conformidad con la Ley del Impuesto al Valor Agregado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2020)</small>
 
-En el caso de los usuarios que consuman hasta diez metros cúbicos mensuales de agua, pagarán el 60% de la cuota mínima del concepto de saneamiento.
+En el caso de los usuarios a que se refiere este artículo que consuman hasta diez metros cúbicos mensuales de agua, pagarán el 60% de la cuota mínima del concepto de saneamiento.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2020)</small>
 
-En los predios e inmuebles deshabitados o que no hagan uso del servicio de agua potable, cuenten o no con servicio medido, se les determinará como cuota mensual, únicamente media Unidad de Medida y Actualización por concepto de Alcantarillado y Saneamiento, previa inspección efectuada por personal autorizado de "LA CIAPACOV".
+En los predios e inmuebles deshabitados o que no hagan uso del servicio de agua potable, cuenten o no con servicio medido, cuyo uso sea comercial, institucional o de servicios, se les determinará como cuota mensual únicamente media Unidad de Medida y Actualización por concepto de Alcantarillado y Saneamiento, previa inspección efectuada por personal autorizado de “LA CIAPACOV”.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1013,23 +1013,21 @@ El cálculo se hará con base en el promedio de los consumos registrados durante
 
 En caso de que el consumo medido exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el estado de cuenta que se emita para el efecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 291, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2020.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 38.
 
-Los pensionados, jubilados, adultos mayores y personas con capacidades diferentes, obtendrán un descuento del 50 por ciento en el pago bimestral o anual adelantado o puntual, de los servicios de agua potable, alcantarillado y saneamiento, siempre y cuando sus consumos sean hasta 25 metros cúbicos mensuales.
+Los pensionados, jubilados, adultos mayores y personas con discapacidad, obtendrán un descuento del 50 por ciento en el pago bimestral o anual adelantado o puntual, de los servicios de agua potable, alcantarillado y saneamiento, siempre y cuando sus consumos sean hasta 25 metros cúbicos mensuales, si los consumos rebasan los 25 metros cúbicos mensuales pero no exceden de 50 metros cúbicos mensuales el descuento en los conceptos anteriores será del 30 por ciento.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2020)</small>
 
-Obtendrán un descuento del 30 por ciento en el pago bimestral o anual adelantado de los servicios de agua potable, alcantarillado y saneamiento, si los consumos rebasan los 25 metros cúbicos mensuales y no excedan de 50 metros cúbicos mensuales.
+Los usuarios a que refiere este artículo que se encuentren bajo el esquema de cuota fija obtendrán un descuento del 50 por ciento en el pago bimestral o anual adelantado de los servicios de agua potable, alcantarillado y saneamiento. Los trabajadores sindicalizados de la CIAPACOV tendrán derecho a un descuento del 25 por ciento en los referidos servicios.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE AGOSTO DE 2020)</small>
 
-Los usuarios a que se refiere este artículo que excedan los 50 metros cúbicos, pagarán la tarifa al 100 por ciento.
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
-
-Este beneficio se otorgará a los usuarios que tengan el servicio de uso doméstico, respecto de la casa que habiten y que comprueben ser propietarios o poseedores de dicho predio, debiendo además cumplir con los siguientes requisitos:
+Estos beneficios se otorgarán a los usuarios que tengan el servicio de uso doméstico, respecto de la casa que habiten y que comprueben ser propietarios o poseedores de dicho predio, debiendo además cumplir con los siguientes requisitos:
 
 I. Que se encuentren al corriente en el pago de los derechos establecidos en la presente Ley.
 
@@ -1246,3 +1244,11 @@ P.O. 14 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 291.- POR EL QUE SE REFORMAN LOS PÁRRAFOS QUINTO Y SEXTO DEL ARTÍCULO 4, Y LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 38, AMBOS DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
