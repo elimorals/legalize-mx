@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-del-estado-de-zacatecas-108775"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2019-11-23"
+last_updated: "2020-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2015.
 
@@ -305,7 +305,9 @@ Las atribuciones y políticas en materia de cultura física y el deporte recaen 
 
 El INCUFIDEZ tiene las siguientes atribuciones:
 
-I. Gestionar ante la Legislatura del Estado el 1% del Gasto Programable del Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2020)</small>
+
+I. Gestionar ante la Legislatura del Estado el 2% del Gasto Programable del Presupuesto de Egresos del Estado;
 
 II. Las que establece la Ley de Educación del Estado de Zacatecas conforme lo establecen los artículos del 26 al 28, para impulsar, fomentar y difundir coordinadamente con la SEDUZAC el deporte y la recreación;
 
@@ -841,9 +843,11 @@ El INCUFIDEZ coordinará y promoverá la constitución de comisiones de deporte 
 
 ### Capítulo X. De la Cultura Física y el Deporte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 59.
 
-La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del Estado como factor fundamental del desarrollo armónico e integral del ser humano.
+La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del Estado, así como en todos y cada uno de los asentamientos humanos, comunidades, barrios y colonias, como factor fundamental del desarrollo armónico e integral del ser humano.
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 219 PUBLICADO EN EL P.O. 14 DE MARZO DE 2018, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES IDÉNTICO AL DE LA FRACCIÓN I DEL PRESENTE ARTÍCULO]</small>
 
@@ -875,7 +879,9 @@ VIII. Promover y fomentar los espacios deportivos necesarios para crear y poner 
 
 IX. Las demás que dispongan otras leyes u ordenamientos aplicables.
 
-Los juegos tradicionales y autóctonos y la charrería serán considerados como parte del patrimonio cultural deportivo. El Estado y los municipios, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las asociaciones deportivas estatales.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2020)</small>
+
+Los juegos tradicionales y autóctonos, como el rebote a mano con pelota dura y la charrería serán considerados como parte del patrimonio cultural deportivo. El Estado y los municipios, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las asociaciones deportivas estatales, asignando, a través del INCUFIDEZ, los recursos suficientes para garantizar su práctica y sostenibilidad.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MARZO DE 2018)</small>
 
@@ -1358,3 +1364,7 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan todas las (sic) que se opongan al presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2020.
+
+> <small>[N. DE E. EL “DECRETO NO. 391.- SE REFORMA EL ARTÍCULO 15 FRACCIÓN I Y ARTÍCULO 59, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
