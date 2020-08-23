@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5063
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-14"
-last_updated: "2017-03-19"
+last_updated: "2020-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2020.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
@@ -159,6 +159,10 @@ El Presupuesto de Egresos del Estado comprenderá las previsiones de gasto públ
 
 El Presupuesto de Egresos del Estado comprenderá también, en Capítulo especial, las previsiones de gasto público que habrán de realizar las Entidades señaladas en las Fracciones V a VII del propio Artículo 2o., cuando se determine que sus erogaciones deben incluirse en dicho presupuesto.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2020)</small>
+
+Así mismo, deberá integrar en un capítulo especial las previsiones del gasto público que habrán de realizarse para el logro de la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por condición de género.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 15.
@@ -177,7 +181,9 @@ La Secretaría de Finanzas queda facultada para formular el proyecto de Presupue
 
 El proyecto de Presupuesto de Egresos del Estado se integrará con los documentos que se refieren a:
 
-I.- Descripción de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y unidades responsables de su ejecución, así como la valuación estimada por programa.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2020)</small>
+
+I.- Descripción de los programas que sean la base del proyecto, en los que se señalen objetivo, metas y unidades responsables de su ejecución, así como la valuación estimada por programa. Considerando para ello, las erogaciones para la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por condición de género;
 
 II.- Explicación y comentarios de los principales programas y en especial de aquellos que abarquen dos o más ejercicios fiscales.
 
@@ -347,11 +353,11 @@ La misma obligación deberá cumplir cuando se trate de personal destacado direc
 
 Para la ejecución del gasto público Estatal las Entidades deberán sujetarse a las previsiones de esta Ley, y con exclusión de las previstas en las Fracciones I y II del Artículo 2o., observar las disposiciones que al efecto expida la Secretaría de Finanzas.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 39.
 
-La Secretaría de Finanzas deberá presentar directamente al Ejecutivo un informe trimestral sobre el comportamiento del Presupuesto de Egresos, sobre las erogaciones ejercidas, y sobre el avance de las obras y programas proyectados directamente del Gobierno del Estado o en coordinación con otras dependencias públicas o privadas. El informe deberá incluir las observaciones que se consideren procedentes.
+La Secretaría de Finanzas deberá presentar directamente al Ejecutivo, un informe trimestral sobre el comportamiento del Presupuesto de Egresos, sobre las erogaciones ejercidas, y sobre el avance de las obras y programas proyectadas directamente del Gobierno del Estado o en coordinación con otras dependencias públicas o privadas. El informe deberá incluir las observaciones que se consideren procedentes; así como el impacto diferenciado en las desigualdades y la reducción de brechas de género.
 
 CAPTIULO (SIC) IV
 
@@ -594,3 +600,11 @@ CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 23 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 344.- POR EL QUE SE ADICIONA UN PÁRRAFO AL NUMERAL 14, SE REFORMAN LOS ARTÍCULOS 17 FRACCIÓN I Y 39, TODOS DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO”.]
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
