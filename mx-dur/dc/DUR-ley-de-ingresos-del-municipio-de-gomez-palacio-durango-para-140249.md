@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ingresos-del-municipio-de-gomez-palacio-durango-para-140
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-26"
-last_updated: "2020-01-16"
+last_updated: "2020-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE INGRESOS DEL MUNICIPIO DE GOMEZ PALACIO, DGO., PARA EL EJERCICIO FISCAL DEL AÑO 2020.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2020.
 
 Ley publicada en el número 103 del Periódico Oficial del Estado de Durango, el jueves 26 de diciembre de 2019.
 
