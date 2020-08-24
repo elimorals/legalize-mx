@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2020-04-14"
+last_updated: "2020-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -289,9 +289,9 @@ XIV. Impulsar esquemas eficientes para el suministro de alimentos nutritivos par
 
 XV. Aplicar, en el ámbito de la competencia de la Autoridad Educativa Estatal, los programas compensatorios implementados por la Autoridad Educativa Federal a través de los recursos específicos que para tal efecto designe ésta, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de los convenios en los que se concierten las proporciones de financiamiento y las acciones específicas que la Autoridad Educativa Estatal deba realizar para reducir y superar dichos rezagos y evaluar en el ámbito de su competencia los resultados de calidad educativa de estos programas, de conformidad con los lineamientos que para tal efecto expida el Instituto Nacional para la Evaluación de la Educación;
 
-> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2020)</small>
 
-XVI. Impulsar programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+XVI. Impulsar programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros; así como la impartición de talleres enfocados a la educación en perspectiva de género, erradicación de la violencia y lenguaje discriminatorio, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
 > <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
 
@@ -337,9 +337,11 @@ XXVI. Adoptar medidas para responder a las necesidades de niñas, niños y adole
 
 XXVII. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes así como para abatir el ausentismo, abandono y deserción escolares.
 
-> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2020)</small>
 
-XXVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes en la administración de la disciplina escolar.
+XXVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes, así como el lenguaje discriminatorio, que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes en la administración de la disciplina escolar.
+
+Para tal efecto, se implementarán los mecanismos que busquen prevenir y eliminar la violencia de género, así como el rechazo o la discriminación por razón de género, con apoyo en cursos de capacitación y talleres sobre estos temas.
 
 > <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -3106,3 +3108,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 180.- POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XXVIII DEL ARTÍCULO 12 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
