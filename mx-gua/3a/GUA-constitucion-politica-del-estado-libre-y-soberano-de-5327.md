@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2020-07-24"
+last_updated: "2020-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -90,6 +90,10 @@ La ley protegerá la organización y desarrollo de la familia, dentro de la cual
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
 
 Las niñas, los niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. En todas las decisiones y actuaciones el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los poderes del Estado y organismos autónomos generarán espacios para consultar las ideas y opiniones de niñas, niños y adolescentes cuando emprendan acciones que les involucren.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2020)</small>
+
+Toda persona tiene derecho al honor, a la intimidad y a la propia imagen en los términos dispuestos por la ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -197,9 +201,9 @@ Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autori
 
 La elección del titular del organismo estatal de protección de los Derechos Humanos se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2020)</small>
 
-El titular del organismo estatal de protección de los Derechos Humanos, quien lo será también del Consejo Consultivo, durará en su encargo cuatro años, con la posibilidad de ser ratificado por una sola vez, aplicando las reglas establecidas en la ley de la materia y únicamente podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
+El titular del organismo estatal de protección de los Derechos Humanos, quien lo será también del Consejo Consultivo, durará en su encargo cuatro años, con la posibilidad de ser ratificado por una sola vez, aplicando las reglas establecidas en la ley de la materia y únicamente podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución. En la integración del Consejo Consultivo se observará el principio de paridad de género.
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -567,9 +571,13 @@ Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libre
 
 El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que lo hagan de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2020)</small>
 
-Apartado A. Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo, así como establecer las reglas para garantizar la paridad entre los géneros, en las candidaturas a diputados al Congreso del Estado, a Presidentes Municipales, Síndicos y Regidores. En el caso de candidaturas integradas por fórmulas de propietario y suplente estas deberán ser del mismo género, para ello tendrán el derecho de postular candidatos por sí mismos o a través de coaliciones, en los términos que establezca la Ley de la materia.
+Apartado A. Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo, así como establecer las reglas para garantizar la paridad entre los géneros, en las candidaturas a diputados al Congreso del Estado, a Presidentes Municipales, Síndicos y Regidores. En el caso de candidaturas integradas por fórmulas de propietario y suplente estas deberán ser del mismo género, para ello tendrán el derecho de postular candidatos por sí mismos o a través de coaliciones, en los términos que establezca la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2020)</small>
+
+En la postulación de sus candidaturas, se observará el principio de paridad de género.
 
 Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatal y municipal.
 
@@ -1837,6 +1845,14 @@ Todas las Leyes, Decretos y Reglamentos, para su cumplimiento, serán promulgado
 
 Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las Dependencias y Paraestatales señaladas en la Ley de la materia, la cual establecerá las atribuciones, forma de organización y facultades de sus Titulares.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2020)</small>
+
+Dicha ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de titulares de las Dependencias y Paraestatales.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2020)</small>
+
+En la integración de los organismos autónomos se observará el mismo principio.
+
 La función conciliatoria entre trabajadores y patrones estará a cargo del Centro de Conciliación especializado e imparcial, mismo que contará con personalidad jurídica, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, así como patrimonio propio; y se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la Ley correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
@@ -1852,6 +1868,10 @@ La función conciliatoria entre trabajadores y patrones estará a cargo del Cent
 ###### ARTICULO 81.
 
 El Tribunal de Justicia Administrativa es un órgano de control de legalidad, para dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares, dotado de plena autonomía para dictar sus fallos. De igual forma impondrá las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales. La Ley establecerá su organización, funcionamiento, integración, procedimientos y en su caso, recursos contra sus resoluciones.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2020)</small>
+
+En su integración se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2187,9 +2207,9 @@ VI.- Los términos en que será obligatoria la jurisprudencia que establezca el 
 
 VII.- Las obligaciones que deben cumplir los servidores públicos del Poder Judicial y sus responsabilidades, a fin de salvaguardar la imparcialidad, legalidad, honradez, independencia, veracidad, lealtad, celeridad, eficiencia y eficacia en el desempeño de sus funciones; las sanciones disciplinarias que deban imponerse a quienes incumplan sus obligaciones; el procedimiento y los recursos que procedan contra las resoluciones que se dicten, así como la competencia respectiva de cada órgano;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2020)</small>
 
-VIII.- La carrera judicial que fijará el catálogo de puestos, las bases para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial, así como su capacitación, especialización y actualización;
+VIII.- La carrera judicial que fijará el catálogo de puestos, las bases para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial observando el principio de paridad de género, así como su capacitación, especialización y actualización;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2199,13 +2219,17 @@ IX.- La observancia de los principios de excelencia, objetividad, imparcialidad,
 
 X.- La forma de constituir el fondo auxiliar para la impartición de justicia, sus objetivos y la forma en que se manejará; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE AGOSTO DE 2020)</small>
 
 XI.- La organización y funcionamiento de la Comisión Sustanciadora que tramite el procedimiento y formule el dictamen a partir del cual el Pleno del Supremo Tribunal de Justicia resolverá los conflictos laborales suscitados entre el Poder Judicial y sus servidores;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2020)</small>
 
-XII.- Las normas, criterios y procedimientos para la evaluación de jueces y Magistrados del Supremo Tribunal de Justicia, así como de los Consejeros del Poder Judicial y demás servidores judiciales.
+XII.- Las normas, criterios y procedimientos para la evaluación de jueces y Magistrados del Supremo Tribunal de Justicia, así como de los Consejeros del Poder Judicial y demás servidores judiciales; y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2020)</small>
+
+XIII.- La forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -4140,3 +4164,29 @@ P.O. 24 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 201 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONA EL ARTÍCULO 63, FRACCIÓN XXI, CON UN PÁRRAFO NOVENO Y LOS ACTUALES PÁRRAFOS NOVENO Y DÉCIMO PASAN A SER PÁRRAFOS DÉCIMO Y DÉCIMO PRIMERO, RESPECTIVAMENTE DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 212, MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO DÉCIMO SEGUNDO AL ARTÍCULO 1 Y LOS ACTUALES PÁRRAFOS DÉCIMO SEGUNDO, DÉCIMO TERCERO Y DÉCIMO CUARTO PASAN A SER PÁRRAFOS DÉCIMO TERCERO, DÉCIMO CUARTO Y DÉCIMO QUINTO DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 24 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 213, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, PÁRRAFO SÉPTIMO; 17, APARTADO A EN SU PRIMER PÁRRAFO; 92, FRACCIONES VIII, XI Y XII Y SE ADICIONAN UN PÁRRAFO SEGUNDO AL APARTADO A Y LOS PÁRRAFOS SUBSECUENTES SE RECORREN EN SU ORDEN DEL ARTÍCULO 17; UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO Y EL ACTUAL PÁRRAFO SEGUNDO PASA A SER PÁRRAFO CUARTO DEL ARTÍCULO 80; UN PÁRRAFO SEGUNDO AL ARTÍCULO 81 Y UNA FRACCIÓN XIII AL ARTÍCULO 92 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá, en un plazo de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución, en los términos del segundo y tercer párrafos del artículo 80.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del principio de paridad de género a que se refiere el artículo 80, será aplicable a quiénes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
