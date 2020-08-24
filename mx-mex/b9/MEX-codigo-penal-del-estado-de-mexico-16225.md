@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2020-08-21"
+last_updated: "2020-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4833,6 +4833,10 @@ A los autores intelectuales, a quienes dirijan la invasión y a quienes instigue
 
 Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a todos éstos, inculpados de los delitos cometidos.
 
+> <small>(ADICIONADO, G. G. 24 DE AGOSTO DE 2020)</small>
+
+Este delito tendrá la calidad de permanente, mientras subsista la detentación material del inmueble objeto del ilícito por el activo.
+
 ### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
@@ -7152,6 +7156,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 G.G. 21 DE AGOSTO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 217 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G. G. 24 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 181.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 308 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
