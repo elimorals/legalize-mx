@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2019-02-25"
+last_updated: "2020-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE COSÍO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -2621,11 +2621,11 @@ II.- Unidad de Substanciación de Procedimientos de Responsabilidad Administrati
 
 III.- Unidad de Resolución de Procedimientos Administrativos.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2020)</small>
 
 ARTICULO 243 TER.- Los Procedimientos de Responsabilidad Administrativa deberán llevarse a cabo, observando lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, para lo cual se entenderá como autoridad investigadora a la Unidad de Investigación y Recepción de Quejas y Denuncias; Autoridad Substanciadora a la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa y Autoridad Resolutora a la Unidad de Resolución de Procedimientos Administrativos.
 
-La Autoridad Resolutora en el Municipio de Cosío, será el Titular de la Contraloría Municipal. Para fungir como titular de la Unidad de Investigación y Recepción de Quejas y Denuncias así como de la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa, se designará respectivamente en cada una de esas áreas a un funcionario distinto del Contralor Municipal, quienes deberán contar con Título y cédula profesional de Licenciado en Derecho o Contador Público.
+Para fungir como titular de la Unidad de Investigación y Recepción de Quejas y Denuncias, así como de la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa, y de la Unidad de Resolución de Procedimientos Administrativos, se designará respectivamente en cada una de esas áreas a persona distinta del Contralor Municipal, quienes deberán contar con Título y cédula profesional de Licenciado en Derecho o Contador Público.
 
 APARTADO TERCERO
 
@@ -13644,3 +13644,9 @@ P.O. 25 DE FEBRERO DE 2019.
 ###### ARTICULO ÚNICO
 
 La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 243 TER DEL CÓDIGO MUNICIPAL DE COSÍO, AGS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación en el H. Cabildo del Municipio de Cosío, Ags.
