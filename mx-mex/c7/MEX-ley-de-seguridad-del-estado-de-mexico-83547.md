@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2020-04-14"
+last_updated: "2020-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -677,7 +677,27 @@ IX. Proporcionar a la Secretaría los informes que le sean solicitados;
 
 X. Auxiliar a las autoridades federales y de otras entidades federativas cuando sea requerido para ello; y
 
-XI. Las demás que les confieran otras leyes.
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2020)</small>
+
+XI. Informar al Presidente o Presidenta Municipal de los resultados y procesos de verificación y evaluaciones de confianza a los que se sometan los integrantes de las instituciones policiales a su cargo, y
+
+XII. Las demás que les confieran otras leyes.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2020)</small>
+
+###### Artículo 22 Bis.
+
+Para ocupar el cargo de Director de Seguridad Pública Municipal o su equivalente, se deberán satisfacer los requisitos siguientes:
+
+I. Ser ciudadano o ciudadana del Estado de México, preferentemente vecino del municipio, en pleno goce de sus derechos civiles y políticos;
+
+II. No estar inhabilitado o inhabilitada para desempeñar cargo, empleo, o comisión pública;
+
+III. No haber sido condenado o condenada por delito doloso que amerite pena privativa de libertad;
+
+IV. Tener Licenciatura y preferentemente especialización en seguridad pública, o contar con experiencia mínima de un año en la materia, y
+
+V. Someterse y aprobar las evaluaciones de certificación y control de confianza, para su ingreso y permanencia.
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -1277,7 +1297,9 @@ II. No estar inhabilitado o inhabilitada para desempeñar cargo, empleo, o comis
 
 III. No haber sido condenado o condenada en proceso penal, por delito intencional que amerite pena privativa de libertad;
 
-IV. Contar con título profesional o experiencia mínima de un año en la materia;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2020)</small>
+
+IV. Tener Licenciatura y preferentemente especialización en seguridad pública, o contar con experiencia mínima de un año en la materia;
 
 V. Someterse y aprobar las evaluaciones de certificación y control de confianza, para su ingreso y permanencia.
 
@@ -4572,3 +4594,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 182.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 58 QUÁTER, Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 22, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, ASÍ COMO EL ARTÍCULO 22 BIS A LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO Y SE REFORMA EL ARTÍCULO 142 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
