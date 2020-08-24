@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2020-08-21"
+last_updated: "2020-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2679,7 +2679,7 @@ Los órganos de control y evaluación gubernamental de los ayuntamientos, serán
 
 ### CAPITULO OCTAVO. De los Cuerpos de Seguridad Pública y Tránsito
 
-> <small>(REFORMADO, G.G. 25 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 125.
 
@@ -2832,6 +2832,8 @@ Una vez decretada la municipalización del servicio, si el ayuntamiento carece d
 ### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio Público Municipal
 
 ###### Artículo 142.
+
+Las funciones de seguridad pública del municipio en su respectivo ámbito de competencia, estarán a cargo de un Director de Seguridad Pública Municipal o su equivalente, el cual deberá ser nombrado en los términos y requisitos establecidos en la Ley de Seguridad del Estado de México.
 
 En cada municipio se integrarán cuerpos de seguridad pública, de bomberos y, en su caso, de tránsito, estos servidores públicos preferentemente serán vecinos del municipio, de los cuales el presidente municipal será el jefe inmediato.
 
@@ -5202,3 +5204,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 182.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 58 QUÁTER, Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 22, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, ASÍ COMO EL ARTÍCULO 22 BIS A LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO Y SE REFORMA EL ARTÍCULO 142 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
