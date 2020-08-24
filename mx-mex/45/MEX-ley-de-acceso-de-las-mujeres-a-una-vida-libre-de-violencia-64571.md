@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2020-04-14"
+last_updated: "2020-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -229,11 +229,13 @@ Constituye Violencia Laboral la negativa a contratar o a respetar su permanencia
 
 Constituye Violencia Docente: La conducta que dañe la autoestima de las estudiantes con actos de discriminación por su sexo, edad, condición social, condición étnica, condición académica, limitaciones y/o características físicas, que les infligen maestras o maestros. Lo es también la estigmatización y sexismo al elegir y cursar carreras no estereotipadas; las imágenes de la mujer con contenidos sexista en los libros de texto y el hostigamiento y acoso sexual.
 
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 12.
 
-El Hostigamiento Sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales o no verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+El Hostigamiento Sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en sus relaciones laborales, docentes, domésticas o cualquiera otra que implique jerarquía; se expresa en conductas verbales o no verbales, escritas, físicas o a través de las tecnologías de la información y la comunicación, relacionadas con la sexualidad de connotación lasciva.
 
-El acoso sexual es una forma de violencia en la que existe una subordinación de género en el ámbito laboral y/o escolar que deriva en un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder, intimidación, amenaza o insinuación sexual, sin consentimiento, que conlleva a la víctima a un estado de indefensión, riesgo, degradación o humillación, independientemente de que se realice en uno o varios eventos.
 
 ###### Artículo 13.
 
@@ -1792,3 +1794,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Dentro del plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, los ayuntamientos de los 125 municipios del Estado de México deberán expedir las disposiciones jurídicas materia del presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
