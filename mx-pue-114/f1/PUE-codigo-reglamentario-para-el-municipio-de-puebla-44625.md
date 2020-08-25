@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2020-05-19"
+last_updated: "2020-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -22823,11 +22823,11 @@ DISPOSICIONES GENERALES
 
 El presente Capítulo tiene por objeto regular la actividad comercial, la organización, vigilancia y administración de los mercados del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1399.
 
-El funcionamiento de los Mercados Municipales, será operado y vigilado por la Dirección de Abasto y Comercio Interior de la Secretaría de Desarrollo Económico, Turismo y Competitividad, correspondiendo la función fiscalizadora a la Unidad de Normatividad y Regulación Comercial dependiente de la Tesorería Municipal. El servicio de los Mercados, podrá ser prestado por los particulares, previo acuerdo del Honorable Ayuntamiento de Puebla, por el cual se otorgue la concesión respectiva.
+El funcionamiento de los Mercados Municipales, será operado y vigilado por la Dirección de Abasto y Comercio Interior de la Secretaría de Gobernación correspondiendo la función fiscalizadora a la Unidad de Normatividad y Regulación Comercial dependiente de la Tesorería Municipal.
 
 ###### Artículo 1400.
 
@@ -22835,23 +22835,39 @@ Para los efectos de este Capítulo, se considerará:
 
 I. MERCADO PÚBLICO: Al lugar o local que sea propiedad del Municipio, donde concurra una diversidad de comerciantes y consumidores en libre competencia, cuya oferta y demanda se refieren primordialmente a los artículos de primera necesidad, con excepción de la venta de artículos explosivos o combustibles;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-II. LICENCIA: Documento expedido por el Tesorero Municipal a través de la Dirección de Ingresos a propuesta de la Dirección de Abasto y Comercio Interior en favor de un particular, a través del cual se autoriza el ejercicio del comercio en un lugar o local específico de un mercado en concreto y en el que se señala de manera puntual y limitativa, el tipo de productos o servicios que se pondrán al servicio de la ciudadanía;
+II. LICENCIA DE FUNCIONAMIENTO PARA MERCADOS: Documento expedido por la Tesorería Municipal, a través de la Dirección de Ingresos, a propuesta de la Dirección de Abasto y Comercio Interior y previo cumplimiento de los requisitos establecidos en el presente capítulo, en favor de una persona física o moral, en el que se autoriza el ejercicio del comercio en un local específico de un mercado, en el que se señala de manera puntual y limitativa el tipo de productos o servicios que se pondrán al servicio de la ciudadanía, respecto de los giros reglamentados que requieren del aviso de funcionamiento de responsable sanitario y de modificación o baja y los que por sus actividades utilicen gas, de conformidad con la clasificación del Catálogo de Giros Comerciales para los Mercados Municipales, de Apoyo y Especializados;
 
-III. COMERCIANTE: A la persona física o moral que dentro de los mercados públicos, hace del comercio su ocupación habitual;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2020)</small>
 
-IV. PRESTADOR DE SERVICIO: A la persona que dentro de los mercados públicos, directamente o mediante contrato celebrado con el Ayuntamiento, presta servicios complementarios al público en general;
+III. TARJETÓN DE FUNCIONAMIENTO PARA MERCADOS: Documento expedido por la Tesorería Municipal, a través de la Dirección de Ingresos, a propuesta de la Dirección de Abasto y Comercio Interior y previo cumplimiento de los requisitos establecidos en el presente capítulo, en favor de una persona física o moral, en el que se autoriza el ejercicio del comercio en un lugar o local específico de un mercado y en el que se señala de manera puntual y limitativa, el tipo de productos o servicios que se pondrán al servicio de la ciudadanía, de conformidad con la clasificación del Catálogo de Giros Comerciales para los Mercados Municipales, de Apoyo y Especializados;
 
-V. ZONA DE MERCADO: La zona adyacente a los propios edificios, así como los interiores y exteriores, comprendiendo en ésta consideración las banquetas circundantes que delimitan el edificio sobre las cuales ejercerá jurisdicción la Dirección de Servicios Públicos del H. Ayuntamiento de Puebla, a través de la Unidad Administrativa que estime conveniente; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2020)</small>
 
-VI. LOCAL: Puestos fijos ubicados en el interior de los mercados en los cuales se ejercen actividades de comercio.
+IV. CATÁLOGO DE GIROS COMERCIALES PARA LOS MERCADOS MUNICIPALES, DE APOYO Y ESPECIALIZADOS: Es la relación ordenada que describe las actividades comerciales que se ejercen en los Mercados Municipales, de Apoyo y Especializados, cuya aprobación estará a cargo de la Tesorería Municipal, a propuesta de la Dirección de Ingresos y de la Secretaría de Gobernación Municipal a través de la Dirección de Abasto y Comercio Interior, mismo que deberá actualizarse anualmente;
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-VII. COMERCIANTE DE MERCADO TEMPORAL: Al vendedor semifijo que cuente con la autorización y permiso expedido por el Departamento de Concertación de Espacios Públicos, para la comercialización en un Mercado Temporal; y
+V. COMERCIANTE: A la persona física o moral que, dentro de los mercados Municipales, de Apoyo y Especializados, hace del comercio su ocupación habitual;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2020)</small>
+
+VI. PRESTADOR DE SERVICIO: A la persona que, dentro de los mercados públicos, directamente o mediante contrato celebrado con el Ayuntamiento, presta servicios complementarios al público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2020)</small>
+
+VII. ZONA DE MERCADO: La zona adyacente a los propios edificios, así como los interiores y exteriores, comprendiendo en ésta consideración las banquetas circundantes que delimitan el edificio sobre las cuales ejercerá jurisdicción la Dirección de Servicios Públicos del H. Ayuntamiento de Puebla, a través de la Unidad Administrativa que estime conveniente;
 
 VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2016)
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE AGOSTO DE 2020)</small>
+
+IX. LOCAL: Puestos fijos ubicados en el interior de los mercados en los cuales se ejercen actividades de comercio; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE AGOSTO DE 2020)</small>
+
+X. COMERCIANTE DE MERCADO TEMPORAL: Al vendedor semifijo que cuente con la autorización y permiso expedido por el Departamento de Concertación de Espacios Públicos, para la comercialización en un Mercado Temporal.
 
 ###### Artículo 1401.
 
@@ -22861,11 +22877,17 @@ I. Municipales: Cuando sean propiedad del Ayuntamiento y su administrador esté 
 
 II. De apoyo: Cuando se constituyan bajo el régimen de propiedad en Condominio y cuya organización, vigilancia y administración está a cargo del Municipio; y
 
-III. Temporales: Los autorizados por el Cabildo Municipal, autoridad ésta que determinará los espacios dentro del Municipio, así como los días y horas donde puedan establecerse.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+III. Especializados: Los autorizados por el Cabildo, considerados como un bien inmueble de dominio público municipal, cuya naturaleza sea la prestación del servicio público de mercados, en los que se ejercerán giros comerciales específicos, los cuales contarán con sus propias reglas de administración, cuyo objeto será el de regular su actividad comercial, organización, vigilancia y administración;
 
-IV. Corredores Comerciales Temporales: Los autorizados por el Cabildo Municipal para operar en puestos semifijos, en determinados espacios del Municipio y que podrán funcionar en:
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+
+IV. Temporales: Los autorizados por el Cabildo Municipal, autoridad que determinará los espacios dentro del Municipio, así como los días y horas donde puedan establecerse.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE AGOSTO DE 2020)</small>
+
+V. Corredores Comerciales Temporales: Los autorizados por el Cabildo Municipal para operar en determinados espacios del Municipio y que podrán funcionar en:
 
 1. Periodos estacionales del año con motivo de festividades cívicas o patronales, o
 
@@ -22873,7 +22895,7 @@ IV. Corredores Comerciales Temporales: Los autorizados por el Cabildo Municipal 
 
 3. Horarios diarios de atención.
 
-Para efectos de esta fracción los comerciantes autorizados, al término de la jornada, deberán retirar cualquier tipo de estructura, instalación, instrumento, artefacto o cualquier otro tipo de bien mueble.
+Para efectos de esta fracción los comerciantes autorizados, al término de la jornada deberán retirar cualquier tipo de estructura, instalación, instrumento, artefacto o cualquier otro tipo de bien mueble.
 
 ###### Artículo 1402.
 
@@ -22893,11 +22915,11 @@ IV. Tirar basura fuera de los depósitos respectivos.
 
 DE LA ZONIFICACIÓN DE LOS MERCADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1404.
 
-Los mercados se dividirán en 4 zonas para su mejor funcionamiento y en atención a los giros existentes, excepto los Temporales y de Antigüedades:
+Los mercados se dividirán en 4 zonas para su mejor funcionamiento y en atención a los giros existentes, excepto los Temporales:
 
 I. Zona húmeda: Aquella en la que se expedirán frutas, verduras, hierbas frescas, flores cárnicos y demás frescos fácilmente perecederos;
 
@@ -22907,21 +22929,21 @@ III. Zona semihúmeda: Aquella en la que se expedirán toda clase de alimentos p
 
 IV. Zona de tianguis: Aquella en la que se expedirán artículos no perecederos, como ropa, calzado, plásticos, orfebrería, jarciería y similares a éstos.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
 
-Excepcionalmente y para efectos exclusivos de regularización, la Dirección de Abasto y Comercio Interior, podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el presente artículo, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona, informando de dicha autorización al Departamento de Licencias y Padrón de Contribuyentes para su inscripción en el registro correspondiente.
+Excepcionalmente y para efectos exclusivos de regularización, la Dirección de Abasto y Comercio Interior, podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el presente artículo, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona, informando de dicha autorización a la Dirección de Ingresos para su inscripción en el registro correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1405.
 
-En la solicitud que formule el comerciante para la asignación de un local y/o plataforma dentro de un mercado municipal, deberá señalar el giro comercial al cual será destinado, a fin de guardar el orden correspondiente, mismo que quedará debidamente determinado en la autorización que emita la Dirección de Abasto y Comercio Interior respecto al lugar dentro del Mercado Municipal en el que ha de operar, situación que deberá ser informada a la Contraloría Municipal y al Departamento de Licencias y Padrón de Contribuyentes para los efectos que resulten procedentes.
+En la solicitud que formule el comerciante para la asignación de un local y/o plataforma dentro de un Mercado Municipal o Especializado, deberá señalar el giro comercial al cual será destinado, a fin de guardar el orden correspondiente mismo que quedará debidamente determinado en la autorización que emita la Dirección de Abasto y Comercio Interior respecto al lugar dentro del Mercado Municipal o Especializado en el que ha de operar, situación que deberá ser informada a la Dirección de Ingresos para los efectos que resulten procedentes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1406.
 
-Toda suspensión temporal de actividades por el comerciante a quien se le haya concedido la licencia, autorización u otorgamiento del contrato respectivo, de un local o plataforma en un Mercado Municipal deberá ser notificada a la Unidad de Normatividad y Regulación Comercial, así como al Departamento de Licencias y Padrón de Contribuyentes.
+Toda suspensión temporal de actividades por el comerciante al que se le haya concedido licencia o tarjetón de funcionamiento en un Mercado Municipal, de Apoyo o Especializado deberá ser notificada a la Unidad de Normatividad y Regulación Comercial, a través de la Coordinación de Fiscalización de Mercados, Central e Industrial de Abasto, así como a la Dirección de Ingresos.
 
 DE LOS PRESTADORES DE SERVICIOS
 
@@ -22979,37 +23001,71 @@ DEL EMPADRONAMIENTO
 
 DE LAS LICENCIAS
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1418.
 
-Los comerciantes que operen en los Mercados Municipales y/o de Apoyo, deberán contar con su respectiva licencia de funcionamiento que ampare el giro comercial del establecimiento; en caso de no contar con la misma, la deberán solicitar a través de la Dirección de Abasto y Comercio Interior, quien analizará su procedencia tomando en consideración lo dispuesto por el artículo 1404 del presente Código. De considerarse procedente y una vez cubiertos los derechos, productos o aprovechamientos correspondientes de acuerdo a la de (sic) Ley de Ingresos vigente, deberá informarse al Departamento de Licencias y Padrón de Contribuyentes, a fin de que se realicen las anotaciones en el padrón respectivo y se emita la licencia de funcionamiento correspondiente.
+Los comerciantes que operen en los Mercados Municipales, de Apoyo y Especializados, deberán contar con su respectiva licencia o tarjetón de funcionamiento que ampare el giro comercial del establecimiento, de acuerdo al Catálogo de Giros Comerciales para los Mercados Municipales, de Apoyo y Especializados; en caso de no contar con los mismos, los deberán solicitar a través de la Dirección de Abasto y Comercio Interior, quien analizará su procedencia tomando en consideración lo dispuesto por el artículo 1404 del presente Código. De considerarse procedente y una vez cubiertos los derechos, productos o aprovechamientos correspondientes de acuerdo a la de Ley de Ingresos vigente, deberá informarse a la Dirección de Ingresos, a fin de que se realicen las anotaciones en el padrón respectivo y se emita la licencia o tarjetón de funcionamiento correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+El plazo para obtener la licencia o tarjetón de funcionamiento será de treinta días hábiles a partir de la autorización emitida por la Dirección de Abasto y Comercio Interior.
+
+Una vez vencido el plazo antes señalado, la Unidad de Normatividad y Regulación Comercial a través de la Coordinación de Fiscalización de Mercados, Central e Industrial de Abasto, verificará que el local comercial cuente con la licencia o tarjetón de funcionamiento emitido por la Tesorería Municipal y en el caso de no contar con ellos procederá conforme a sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1419.
 
-Para obtener la licencia de funcionamiento descrita en el artículo que antecede, el interesado deberá presentar solicitud por escrito, acompañado de la documentación siguiente:
+Para obtener licencia o tarjetón de funcionamiento descritos en el artículo que antecede, el interesado deberá presentar solicitud por escrito a la Tesorería Municipal acompañado de la documentación siguiente:
 
-I. Identificación oficial o acta constitutiva en su caso;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-II. Copia certificada del Registro Federal de Contribuyentes, o justificante de que se encuentra en trámite su inscripción;
+I. Para la obtención de la Licencia de Funcionamiento para Mercados se requiere:
 
-III. Autorización de uso de suelo; y
+a) Autorización de la Dirección de Abasto y Comercio Interior;
 
-IV. Los demás que requiera la Tesorería para efectos de ubicación, censo o cualquier otro rubro.
+b) Identificación oficial Vigente;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+c) Acta constitutiva, en caso de ser Persona Moral y Poder Notarial. En caso que el titular o representante legal no realice el trámite personalmente, debe incluir carta poder ratificada ante notario público;
 
-La respuesta a la solicitud se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud, pudiendo ser negada por escrito debidamente fundada y motivada, la cual deberá ser notificada al solicitante. En caso de no dar contestación por escrito en el término de referencia el Titular de la Unidad Administrativa competente, incurrirá en responsabilidad administrativa.
+d) Constancia de Situación Fiscal y Acuse de Movimientos actualizado ante el SAT;
+
+e) Licencia de uso de suelo específico vigente;
+
+f) Recibo de pago de uso de suelo especifico; y
+
+g) Pago de derechos por ocupación de espacios públicos en el caso de mercados municipales y especializados, así como los que correspondan de acuerdo a la Ley de Ingresos vigente.
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+
+II. Para la obtención del Tarjetón de Funcionamiento para mercados se requiere:
+
+a) Autorización de la Dirección de Abasto y Comercio Interior;
+
+b) Identificación oficial Vigente;
+
+c) Acta constitutiva en caso de ser Persona Moral y Poder Notarial. En caso que el titular o representante legal no realice el trámite personalmente, debe incluir carta poder ratificada ante notario público;
+
+d) Pago de derechos por ocupación de espacios públicos en el caso de mercados municipales y especializados; y
+
+e) Pago de derechos por concepto de expedición del tarjetón de funcionamiento para los Mercados Municipales, de Apoyo y Especializados, así como los que correspondan de acuerdo a la Ley de Ingresos vigente.
+
+III. (DEROGADA, P.O. 25 DE AGOSTO DE 2020).
+
+IV. (DEROGADA, P.O. 25 DE AGOSTO DE 2020).
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
+
+La respuesta a la solicitud de la licencia o tarjetón de funcionamiento se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud, pudiendo ser negada por escrito debidamente fundado y motivado, el cual deberá ser notificado al solicitante. En caso de no dar contestación por escrito en el término de referencia, el Titular de la Unidad Administrativa competente incurrirá en responsabilidad administrativa.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 La autoridad competente no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 1420.
 
-En los mercados públicos municipales, las licencias de funcionamiento podrán incluir hasta tres locales en el mismo mercado, siempre que sean colindantes y operen dentro de la misma zona y hasta dos en distinta.
+En los Mercados Municipales, de Apoyo y Especializados, la licencia o tarjetón de funcionamiento podrá incluir hasta tres locales en el mismo mercado, siempre que sean colindantes y operen dentro de la misma zona.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -23017,11 +23073,11 @@ En los mercados públicos municipales, las licencias de funcionamiento podrán i
 
 Cuando un local permanezca cerrado o inactivo durante un lapso consecutivo de treinta días naturales y sin justificación, previo estudio fundado y motivado de la Dirección de Abasto y Comercio Interior, se procederá a la revocación de la licencia y la cancelación de su registro en el padrón que al efecto lleve el Departamento de Licencias y Padrón de Contribuyentes, debiendo al efecto observar la garantía de audiencia.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1422.
 
-La Autoridad Municipal dará preferencia en el otorgamiento de licencias y/o contratos en los Mercados públicos, a las personas de escasos recursos que no puedan desempeñar otras labores, a los desempleados, a las personas con discapacidad, a las viudas y a las madres de familia que sean el sostén del hogar.
+La Autoridad Municipal dará preferencia en el otorgamiento de licencia o tarjetón de funcionamiento en los Mercados Municipales, de Apoyo y Especializados, a las personas de escasos recursos que no puedan desempeñar otras labores, a los comerciantes informales que desean regularizarse y pasar a formar parte del comercio establecido, a los desempleados, a las personas con discapacidad, a las viudas y a las madres de familia que sean el sostén del hogar.
 
 ###### Artículo 1423.
 
@@ -23079,9 +23135,9 @@ I. El Presidente Municipal;
 
 II. El Tesorero Municipal;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-III. El Secretario de Desarrollo Económico, Turismo y Competitividad;
+III. El Secretario de Gobernación;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -23095,13 +23151,13 @@ V. El Director de Abasto y Comercio Interior;
 
 VI. El Jefe del Departamento de Mercados y Central de Abasto;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-VII. El Administrador de cada Mercado designado por el Presidente Municipal a propuesta del Secretario de Desarrollo Económico, Turismo y Competitividad;
+VII. El Administrador de cada Mercado, designado por el Presidente Municipal a propuesta del Secretario de Gobernación;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-VIII. El Titular del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal; y
+VIII. El Titular de la Dirección de Ingresos de la Tesorería Municipal; y
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -23113,7 +23169,9 @@ Son facultades y obligaciones del Presidente Municipal:
 
 I. Vigilar el cumplimiento de las disposiciones establecidas en el presente Capítulo y demás disposiciones jurídicas relacionadas con el servicio público de mercados;
 
-II. Expedir, por sí o a través del funcionario que al efecto se designe, las licencias correspondientes para el ejercicio del comercio dentro de los mercados públicos;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+
+II. Expedir, por sí o a través de la Tesorería Municipal, la licencia o tarjetón de funcionamiento de conformidad con el Catálogo de Giros autorizado para Mercados Municipales, de Apoyo y Especializados.
 
 III. Determinar el horario para el funcionamiento de los mercado (sic) públicos municipales, a efecto de que se lleven a cabo las operaciones comerciales, maniobra de carga y descarga, registro, entrada y salida de vehículos, limpieza y recolección de desechos y cualquier otro servicio;
 
@@ -23133,27 +23191,31 @@ IX. Presentar al Cabildo Municipal las iniciativas para la construcción de nuev
 
 Son facultades y atribuciones del Tesorero Municipal:
 
-I. Recaudar las cuotas, rentas y contribuciones que deben cubrir los locatarios de los mercados municipales;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-II. Requerir de pago a quienes incumplan con las obligaciones a que se requiere (sic) el inciso anterior e iniciar en su caso, las diligencias correspondientes para la recuperación de créditos fiscales vencidos o determinados por virtud de obligaciones tributarias;
+I. Recaudar las cuotas, rentas y contribuciones que deben cubrir los locatarios de los mercados municipales, de apoyo y especializados.
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+
+II. Requerir de pago a quienes incumplan con las obligaciones a que se refiere el inciso anterior e iniciar en su caso, las diligencias correspondientes para la recuperación de créditos fiscales vencidos o determinados por virtud de obligaciones tributarias.
 
 III.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
 IV. Las demás que se desprendan de la Ley Orgánica Municipal para el Estado de Puebla y del presente Capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1428.
 
-Compete a la Unidad de Normatividad y Regulación Comercial o al área asignada en su caso:
+Compete a la Unidad de Normatividad y Regulación Comercial, a través de la Coordinación de Fiscalización de Mercados, Central e Industrial de Abasto:
 
 I. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
 II. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-III. Clausurar el local, cancelar o retirar, previo el derecho de audiencia, el contrato o licencia otorgada a los ocupantes de los locales de los Mercados, cuando existan violaciones al contrato y al presente Capítulo; en su caso, deberá allegarse de la información que emita la Dirección de Abasto y Comercio Interior;
+III. Clausurar el local, cancelar o retirar, previo el derecho de audiencia, la licencia o tarjetón de funcionamiento otorgado a los ocupantes de los locales de los Mercados, cuando existan violaciones al presente Capítulo; en su caso, deberá allegarse de la información que emita la Dirección de Abasto y Comercio Interior.
 
 IV. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
@@ -23167,29 +23229,35 @@ VI. Verificar que en los mercados y zonas de mercados no se ejerza el comercio s
 
 VII. Ordenar la práctica de visitas a los locales en los que se expendan productos cárnicos y/o subproductos, así como aves muertas, a efecto de llevar a cabo inspecciones para verificar que se cumpla con el cerco sanitario a que se refiere la fracción VII del artículo 633 Ter del presente Código.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1428 Bis.
 
-Compete al Departamento de Licencias y Padrón de Contribuyentes:
+Compete a la Dirección de Ingresos o al área asignada en su caso:
 
-I. Llevar el padrón de los comerciantes que ocupen los Mercados Municipales;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-II. Emitir la Licencia de Funcionamiento en la que se otorgue la autorización y/o el cambio de giro comercial;
+I. Llevar el padrón de los comerciantes que ocupen los Mercados Municipales, de Apoyo y Especializados, en coordinación con la Unidad de Normatividad y Regulación Comercial, a través de la Coordinación de Fiscalización de Mercados, Central e Industrial de Abasto y la Dirección de Abasto y Comercio Interior;
 
-III. Expedir las credenciales con fotografía en la que se identifique al Titular de la autorización y/o concesión, con los datos correspondientes; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+
+II. Emitir la licencia o tarjetón de funcionamiento en el que se otorgue la autorización y/o el cambio de giro comercial;
+
+III. (DEROGADA, P.O. 25 DE AGOSTO DE 2020).
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 IV. Efectuar las anotaciones correspondientes en el padrón en el que se lleve el Registro de Mercado, con relación a las cesiones de derechos efectuadas entre particulares, respecto a los locales y/o plataformas de mercados municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1429.
 
-Compete al Administrador de cada Mercado, designado por el Secretario de Desarrollo Económico con la aprobación del Presidente Municipal, las siguientes atribuciones para la administración de los Mercados Municipales:
+Compete al Administrador de cada Mercado, designado por el Secretario de Gobernación con la aprobación del Presidente Municipal, las siguientes atribuciones para la administración de los Mercados Municipales, de Apoyo y Especializados:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-I. Remitir las solicitudes para la expedición de las licencias al Departamento de Mercados y Central de Abastos, quien la someterá a la consideración de la Dirección de Abasto y Comercio Interior, a fin de ser turnadas al Departamento de Licencias y Padrón de Contribuyentes para los efectos conducentes;
+I. Remitir las solicitudes de los interesados para la aprobación de la licencia o tarjetón de funcionamiento, a la Dirección de Abasto y Comercio Interior con la finalidad de que previa autorización de esta sea turnada a la Dirección de Ingresos para el trámite correspondiente;
 
 II. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
@@ -23231,9 +23299,9 @@ IV. Sujetarse al horario que determine el Presidente Municipal, para realizar la
 
 V. Operar exclusivamente conforme al giro autorizado;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-VI. Pagar oportunamente las contribuciones, cuotas, rentas o precios asignados en los permisos, licencias o contratos de locales, en caso contrario se aplicará una sanción pecuniaria en los términos del presente Capítulo;
+VI. Pagar oportunamente las contribuciones, cuotas, rentas o precios asignados en las licencias, tarjetón de funcionamiento, en caso contrario se aplicará una sanción pecuniaria en los términos del presente Capítulo;
 
 VII. Destinar el local al comercio directo y al menudeo de productos básicos, manteniéndolo en buen estado y observando las normas de higiene, aseo, limpieza y seguridad impuestas por las autoridades competentes;
 
@@ -23243,17 +23311,19 @@ VIII. Observar las indicaciones que, de manera fundada y motivada, la Dirección
 
 IX. Respetar las normas del comercio y salud pública;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-X. Manifestar su giro ante el Departamento de Licencias y Padrón de Contribuyentes;
+X. Manifestar su giro ante la Dirección de Abasto y Comercio Interior;
 
-XI. Refrendar los permisos, licencias y/o contratos, en los términos que señale la autoridad competente;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+
+XI. Refrendar las licencias de los giros que incluyan la venta de bebidas alcohólicas conforme al Catálogo de Giros Comerciales para los Mercados Municipales, de Apoyo y Especializados, en los términos que señale la autoridad competente;
 
 XII. Ejercer personalmente el comercio y atendiendo directamente al consumidor; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA ESTE PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
 
-XIII. Realizar la devolución tanto material como jurídica del local a la Dirección de Abasto y Comercio Interior, quien deberá hacerlo del conocimiento al Departamento de Licencias y Padrón de Contribuyentes y/o a la Unidad de Normatividad y Regulación Comercial cuando:
+XIII. Realizar la devolución tanto material como jurídica del local a la Dirección de Abasto y Comercio Interior, quien deberá hacerlo del conocimiento a la Dirección de Ingresos y/o a la Unidad de Normatividad y Regulación Comercial cuando:
 
 a) El locatario ya no desee seguir explotándolo;
 
@@ -23297,17 +23367,19 @@ DE LOS TRASPASOS Y CAMBIOS DE GIRO
 
 Los comerciantes a que se refiere este Capítulo, deberán solicitar por escrito a la Dirección de Abasto y Comercio Interior, la autorización para traspasar sus derechos sobre los locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales a las cuales se le hubiere autorizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 1434.
 
-Para obtener la autorización de traspaso se requiere:
+Para obtener la autorización de traspaso (sic) se requiere:
 
 I. Presentar solicitud por escrito tanto del cedente como del cesionario;
 
 II. Demostrar que el cesionario tiene capacidad jurídica, ser de nacionalidad mexicana, o en su caso demostrar su legal estancia en el país, para los efectos del presente capítulo;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
 
-III. Acompañar a la solicitud la licencia de funcionamiento que se expidió, así como los comprobantes de pagos al corriente, de las obligaciones fiscales contractuales, reglamentarias y legales, derivadas de su actividad;
+III. Acompañar a la solicitud la licencia o tarjetón de funcionamiento que se expidió, así como los comprobantes de pago al corriente, de las obligaciones fiscales contractuales, reglamentarias y legales, derivadas de su actividad;
 
 IV. Obtener la autorización sanitaria de la autoridad competente; y
 
@@ -23317,31 +23389,23 @@ V. Presentar tres fotografías.
 
 La autoridad competente no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1435.
 
-Para cambio de giro, se deberá cumplir con los requisitos exigidos para la obtención de la autorización y/o concesión, otorgada por la Dirección de Abasto y Comercio Interior, tomando en cuenta que los Mercados Municipales expenden productos de temporada, debiendo notificarse al Departamento de Licencias y Padrón de Contribuyentes y a la Unidad de Normatividad y Regulación Comercial para los efectos correspondientes.
+Para cambio de giro, se deberá cumplir con los requisitos exigidos para la obtención de la autorización, otorgada por la Dirección de Abasto y Comercio Interior, tomando en cuenta que los Mercados Municipales expenden productos de temporada, debiendo notificarse a la Dirección de Ingresos y a la Unidad de Normatividad y Regulación Comercial a través de la Coordinación de Fiscalización de Mercados, Central e Industrial de Abasto, para los efectos correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1436.
 
-Una vez cumplidos los requisitos administrativos y legales, requeridos al efecto, la Dirección de Abasto y Comercio Interior autorizará el traspaso y/o cambio de giro y solicitará al Departamento de Licencias y Padrón de Contribuyentes, expida la Licencia de Funcionamiento, contando con un término no mayor a diez días hábiles para su cumplimiento.
+Una vez cumplidos los requisitos administrativos y legales, requeridos al efecto, la Dirección de Abasto y Comercio Interior autorizará el traspaso y/o cambio de giro y solicitará a la Dirección de Ingresos, expida la licencia o tarjetón de funcionamiento, contando con un término no mayor a diez días hábiles para su cumplimiento.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+En caso de que transcurrido el término de referencia y no exista contestación por escrito al solicitante, el servidor público omiso, incurrirá en responsabilidad administrativa.
 
-En caso de que transcurrido el término de referencia y no exista contestación por escrito al solicitante, se tendrá por otorgada la licencia, en cuyo caso, el servidor público omiso, incurrirá en responsabilidad administrativa.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
-
-Se exceptúa de lo establecido en el párrafo anterior, cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+Cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro.
 
 Contra el acto que emita la Dirección de Abasto y Comercio Interior que niegue el traspaso o cambio de giro, el solicitante podrá interponer el Recurso de Inconformidad interpuesto en la Ley Orgánica Municipal.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 De no otorgarse el traspaso o cambio de giro, la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
 
@@ -23371,11 +23435,11 @@ DE LAS SANCIONES
 
 La autoridad municipal tendrá atribuciones para sancionar con el retiro de mercancías en caso de evidente insalubridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 1442.
 
-Corresponde al Presidente Municipal por conducto de la Unidad de Normatividad y Regulación Comercial, imponer indistintamente a los comerciantes que violen el presente Capítulo, las siguientes sanciones:
+Corresponde al Presidente Municipal por conducto de la Unidad de Normatividad y Regulación Comercial a través de la Coordinación de Fiscalización de Mercados, Central e Industrial de Abasto, imponer indistintamente a los comerciantes que violen el presente Capítulo, las siguientes sanciones:
 
 I. Amonestación;
 
@@ -23385,9 +23449,15 @@ II. Multa equivalente del valor diario de 5 a 350 unidades de medida y actualiza
 
 III. Clausura temporal del negocio de 3 a 45 días;
 
-IV. Revocación temporal de licencia;
+IV. (DEROGADA, P.O. 25 DE AGOSTO DE 2020).
 
-V. Clausura definitiva y cancelación de la licencia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2020)</small>
+
+V. Clausura definitiva y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE AGOSTO DE 2020)</small>
+
+V. (SIC) Cancelación de la licencia o tarjetón de funcionamiento; y
 
 VI. Arresto administrativos hasta por 18 horas.
 
@@ -38968,3 +39038,11 @@ La adición aprobada en el presente Dictamen entrará en vigor a partir del día
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 25 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE DICIEMBRE DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CAPÍTULO 20 DENOMINADO "DE LOS MERCADOS MUNICIPALES" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. El presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
