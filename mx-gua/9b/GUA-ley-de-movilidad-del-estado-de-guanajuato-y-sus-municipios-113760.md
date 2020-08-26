@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2020-07-24"
+last_updated: "2020-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -1187,7 +1189,11 @@ Requisitos para el registro vehicular
 
 Para que el propietario de un vehículo pueda efectuar el registro del mismo, de conformidad con lo establecido en el presente capítulo, deberá satisfacer los requisitos siguientes:
 
-I. Presentar debidamente llenada y completada la forma de aviso correspondiente, proporcionando todos los datos que le sean solicitados por la Secretaría de Finanzas, Inversión y Administración;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2020)</small>
+
+I. Presentar la forma de aviso correspondiente.
+
+Asimismo, quien acuda al trámite deberá proporcionar la firma autógrafa, y permitir la toma de fotografía de rasgos faciales y huellas dactilares. Quienes reciban y tengan bajo su resguardo esta información deberán protegerla conforme a lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Guanajuato y las demás leyes aplicables;
 
 II. Exhibir original de la factura, carta factura o documento que acredite la propiedad o legítima posesión del vehículo;
 
@@ -1295,9 +1301,13 @@ Las placas para patrullas, únicamente se proporcionarán a aquellas unidades pl
 
 Placas de demostración o traslado de vehículos
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 78.
 
-Las placas para demostración o traslado a que se hace referencia en el artículo 76 fracción I inciso g de esta Ley, únicamente se proporcionarán a las personas que se dediquen a la fabricación o compra-venta de vehículos automotores sujetos a registro.
+Las placas para demostración o traslado a que hace referencia el artículo 76 fracción I inciso g) de esta Ley, únicamente se proporcionarán a las personas que se dediquen a la fabricación, distribución autorizada, ensamble o comercio de vehículos automotores nuevos y usados sujetos a registro y cuyo domicilio fiscal se encuentre dentro del territorio del Estado.
+
+Las placas metálicas previstas en el presente artículo serán vigentes durante el ejercicio fiscal en el que se emitieron.
 
 Placas para uso de personas con discapacidad
 
@@ -2729,13 +2739,15 @@ Desocupación de depósitos
 
 El Ejecutivo del Estado y los ayuntamientos a través del área que para tal efecto designen, en el ámbito de su competencia podrán establecer los lineamientos para la desocupación de depósitos mediante el retiro de vehículos que hayan causado abandono a favor del fisco en los términos que se establezcan en el reglamento correspondiente y conforme a los requisitos y disposiciones que establezca el acto jurídico administrativo que para el efecto se emita.
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 26 DE AGOSTO DE 2020)</small>
 
-Abandono de vehículos a favor de la Secretaría de Finanzas, Inversión y Administración
+Abandono de vehículos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 219.
 
-Cuando en un lapso de tres años contados a partir de que se inició el acto que originó la remisión de los vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en la vía pública, y que el propietario o legítimo poseedor no realice los trámites para su salida del depósito respectivo, estos serán considerados abandonados a favor de la Secretaría de Finanzas, Inversión y Administración, con destino al desarrollo y mantenimiento del Sistema Estatal de Ciclovías, por lo que se iniciará el procedimiento correspondiente para la declaración de abandono, así como la forma de distribución de los productos derivados de su enajenación.
+Cuando en un lapso de tres años contados a partir de que se inició el acto que originó la remisión de los vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en la vía pública, y que el propietario o legítimo poseedor no realice los trámites para su salida del depósito respectivo, estos serán considerados abandonados a favor del fisco del Estado, por lo que se iniciará el procedimiento correspondiente para la declaración de abandono, así como la forma de distribución de los productos derivados de su enajenación, conforme a lo dispuesto en el artículo 221 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2746,6 +2758,18 @@ Enajenación de vehículos
 ###### Artículo 220.
 
 El Ejecutivo del Estado o los ayuntamientos, a través de la dependencia o entidad que corresponda, llevarán a cabo las acciones para la enajenación de los vehículos que pasen a propiedad del fisco del Estado o del municipio.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2020)</small>
+
+La enajenación de los vehículos que pasen a propiedad del fisco del Estado podrá llevarse a cabo conforme a los lineamientos que emita la Secretaría de Finanzas, Inversión y Administración y siempre y cuando se actualice el supuesto jurídico contenido en el artículo 86, fracción III de la Ley de Contrataciones Públicas para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2020)</small>
+
+Podrá determinarse la destrucción de los vehículos mediante dictamen que establezca que, dado el estado de deterioro de los mismos, sea más costosa la realización del procedimiento de enajenación que su valor estimado; dicho dictamen podrá ser realizado de manera individual o por lote de vehículos.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2020)</small>
+
+Si como resultado del proceso de destrucción se llegase a obtener algún recurso económico, este se distribuirá de acuerdo con lo que señala el artículo 221 de la presente Ley.
 
 Aplicación de los recursos económicos
 
@@ -3124,6 +3148,10 @@ X. Trabajo a favor de la comunidad en instituciones públicas educativas o de as
 XI. Arresto hasta por treinta seis horas.
 
 Las sanciones anteriores se aplicarán en los términos que al respecto establezcan los reglamentos correspondientes, sin perjuicio de las que pudieran derivarse de los hechos cometidos.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2020)</small>
+
+Los propietarios y los poseedores legítimos de los vehículos serán responsables solidarios respecto del pago de las sanciones que deriven de las infracciones que se cometan con los vehículos que a su nombre tengan registrados, lo anterior en términos de la normatividad aplicable en la materia.
 
 Elementos de individualización de sanciones
 
@@ -3552,3 +3580,19 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Los ayuntamientos tendrán un plazo de 180 días contados a partir de la publicación del presente decreto para realizar y publicar las reformas necesarias a sus reglamentos en materia de movilidad.
 
 Artículo Tercero. Los concesionarios realizarán, de manera gradual, las modificaciones que correspondan en materia de accesibilidad universal, de conformidad con el programa que para tal efecto expidan las autoridades de transporte.
+
+P.O. 26 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 216 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 70, FRACCIÓN I; 78; Y 219 PÁRRAFO PRIMERO Y SE ADICIONAN LOS ARTÍCULOS 220 CON LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, Y 249 CON UN PÁRRAFO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Inicio de vigencia
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Inicio de vigencia del artículo 78
+
+SEGUNDO. La reforma al artículo 78 de esta Ley entrará en vigor a partir del 1 de enero de 2021.
+
+Procedimientos y mecanismos necesarios para el adecuado cuidado y resguardo de la salud
+
+TERCERO. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para el adecuado cuidado y resguardo de la salud de las personas en la implementación de lo dispuesto en la fracción I del artículo 70 del presente decreto.
