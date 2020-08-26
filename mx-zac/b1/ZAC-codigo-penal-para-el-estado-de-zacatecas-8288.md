@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2019-08-31"
+last_updated: "2020-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2020.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2131,9 +2131,9 @@ Sólo se procederá en contra del sujeto activo a petición de parte ofendida o 
 
 ### CAPITULO IV. VIOLACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2020)</small>
 
-236.- Se sancionará con prisión de cinco a quince años y multa de veinte a cien cuotas a quien, por medio de la violencia física o moral, tenga cópula con una persona, cualquiera que sea su sexo.
+236.- Se sancionará con prisión de siete a quince años y multa de veinte a cien cuotas a quien, por medio de la violencia física o moral, tenga cópula con una persona, cualquiera que sea su sexo.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
 
@@ -4082,3 +4082,11 @@ P.O. 31 DE AGOSTO DE 2019.
 Artículo primero. El presente Decreto entrará en vigor el 1 de enero del año 2020, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 26 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 405 POR EL QUE “SE REFORMA EL ARTÍCULO 236, DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
