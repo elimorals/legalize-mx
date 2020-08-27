@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2019-10-16"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3517,13 +3517,29 @@ III.- Al servidor público que en los actos propios de su cargo, atribuyere a un
 
 Al responsable del delito a que se refiere el artículo anterior, se le impondrá una sanción de seis meses a dos años de prisión y multa de noventa a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO VI BIS. USURPACION DE IDENTIDAD
+### CAPITULO VI BIS. ROBO DE IDENTIDAD
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
 
-ARTICULO 263 BIS.- Al que por cualquier medio usurpe, con cualquier fin, la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la usurpación en su identidad, se le impondrá una sanción de uno a cinco años de prisión y de cuatrocientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización.
+ARTICULO 263 BIS.- Comete el delito de robo de identidad, quien por cualquier medio usurpe o suplante la identidad de una persona con fines ilícitos a través de medios electrónicos, informáticos, redes sociales o cualquier otro medio de comunicación, con el propósito de causar un daño patrimonial, moral, psicológico, ya sea para beneficio propio o de otra persona.
 
-Se aumentarán en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
+Este delito se sancionará con una pena de uno a cinco años de prisión y de cuatrocientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización. Serán equiparables al delito de robo de identidad y se impondrán las penas establecidas en este artículo, a quien:
+
+I.- Diseñe herramientas, tecnología digital o programas informáticos, que tenga como propósito atacar bases de datos públicos o privados, donde se resguarde información sobre identidad de personas;
+
+II.- Acceda ilegalmente a un sistema informático que contenga datos sobre la identidad de personas;
+
+III.- Obtenga de manera ilícita contraseñas o claves privadas para acceder a servicios en línea;
+
+IV.- Mediante un dispositivo de lectura de datos, copie una tarjeta bancaria;
+
+V.- Mediante estrategias de comunicación a través de cualquier medio o sistema, tenga por objeto engañar a la víctima para que revele información personal o confidencial; o
+
+VI.- Almacene, posea o transfiera datos de identidad, sin autorización de la víctima o el ente público encargado de resguardarla.
+
+Las penas previstas en el presente artículo se aumentarán hasta en una mitad, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito; así como en el supuesto en que el sujeto activo del delito tenga licenciatura, ingeniería o cualquier otro grado académico en el rubro de informática, computación o telemática.
+
+Están exentos de responsabilidad penal quienes cuenten con una homonimia con fines artísticos o de reconocimiento público, o bien, quienes obtengan información con motivo del ejercicio periodístico, siempre y cuando se trate de personas de proyección pública.
 
 ###### ARTICULO 261.
 
@@ -3543,7 +3559,7 @@ Comete el delito de usurpación de profesión el que se atribuya el carácter de
 
 Al responsable de los delitos a que se refiere este capítulo se le impondrá una sanción de uno a seis años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2020)</small>
 
 ### CAPITULO VII. USO INDEBIDO DE UNIFORMES, INSIGNIAS, DISTINTIVOS O CONDECORACIONES
 
@@ -6752,6 +6768,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 16 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-1038 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV; Y SE ADICIONA UNA FRACCIÓN V, AL ARTÍCULO 168, RECORRIENDO EN SU ORDEN NATURAL LA FRACCIÓN SUBSECUENTE, DEL CÓDIGO PENAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-131 MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO VI BIS, DEL TÍTULO UNDÉCIMO; Y EL ARTÍCULO 263 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
