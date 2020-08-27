@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2020-04-30"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -3775,6 +3775,10 @@ Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+OCTAVO. Una vez que el Congreso del Estado de Jalisco lleve a cabo el proceso para la designación de los consejeros que formarán parte del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, deberá notificar a la Secretaría los nombres de los ciudadanos que formarán parte del mismo. El o la titular de la Secretaría deberá emitir la convocatoria para la Sesión de la Instalación del Primer Consejo de Participación Ciudadana y Popular para la Gobernanza. El Consejo deberá quedar formalmente instalado a más tardar dentro de los ocho días hábiles siguientes a la notificación que haga el Congreso del Estado.
+
 P.O. 27 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27311/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
@@ -3810,3 +3814,13 @@ P.O. 30 DE ABRIL DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Secretaría General contará con un plazo de 90 días naturales a partir de la publicación del presente decreto para la implementación de las acciones derivadas de las disposiciones contenidas en el presente instrumento.
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27843/LXII/20 QUE ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO, Y ADICIONA (SIC) LOS ARTICULES OCTAVO Y NOVENO TRANSITORIO AL DECRETO 27261/LXII/19".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
+
+Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
