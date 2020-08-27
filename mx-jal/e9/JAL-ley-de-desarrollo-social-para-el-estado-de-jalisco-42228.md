@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2019-05-18"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -917,9 +917,11 @@ La Comisión deberá reunirse por lo menos una vez cada tres meses.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 52.
 
-El Gobierno del Estado y los Municipios, a fin de garantizar la participación de los ciudadanos en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social, deberán:
+El Gobierno del Estado, a través de las dependencias y entidades públicas que tengan a su cargo Programas de Desarrollo Social, y los Municipios, a fin de garantizar la participación de los ciudadanos en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social, deberán:
 
 I. Establecer las formas y requisitos para participar en los consejos consultivos y en las planeación y evaluación de la política social;
 
@@ -929,9 +931,9 @@ II. Realizar consultas públicas periódicas para verificar la calidad de los se
 
 III. Establecer programas tendientes a incentivar la participación ciudadana en la Política Estatal de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2020)</small>
 
-IV. Incluir en las reglas de operación que se emitan para cada programa de desarrollo social, la obligación de conformar contralorías sociales en las que participen los ejecutores de los programas y beneficiarios de los mismos, cuyos cargos no serán remunerados, para efectos de retroalimentación y compartir las acciones y resultados alcanzados, así como emitir propuestas orientadas a mejorar los programas; la conformación de las contralorías sociales estará sujeta a lo establecido en la ley en materia de participación ciudadana;
+IV. Incluir en las reglas de operación que se emitan para cada programa de desarrollo social, la obligación de conformar Comités de Contraloría Social y compartir las acciones y resultados alcanzados, así como emitir propuestas orientadas a mejorar los programas;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
@@ -940,6 +942,38 @@ V. Proponer y coordinar los lineamientos y políticas de capacitación y asisten
 > <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
 VI. Los demás que considere necesarios para la promoción de la participación ciudadana.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+###### Artículo 52 Bis.
+
+Se ejecutará un solo esquema de contraloría social por cada Programa de Desarrollo Social, en el cual se conformarán Comités de Contraloría Social distribuidos por localidades, mismas que serán definidas por los entes públicos encargados de los Programas, en consideración al ámbito de aplicación y ejecución de los mismos.
+
+Los Comités serán conformados por beneficiarios de la intervención pública específica, en representación de la localidad a la que pertenecen; cuya vigencia corresponderá al periodo de aplicación del programa a vigilar. Dichos cargos serán honoríficos y, por tanto, no remunerados.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+###### Artículo 52 Ter.
+
+Los Comités de Contraloría Social tendrán las siguientes atribuciones:
+
+I. Vigilar el ejercicio de los recursos públicos relativos al programa y la ejecución del mismo, así como la entrega de los apoyos, bienes o servicios que deriven;
+
+II. Solicitar la información al ente público encargado del programa, que considere necesaria para el ejercicio de sus funciones;
+
+III. Elaborar los reportes o informes, propuestas de acciones de mejora, derivados de la vigilancia realizada; y
+
+IV. Presentar ante la Contraloría del Estado o los Órganos Internos de Control correspondientes las quejas o denuncias que consideren puedan dar lugar a responsabilidades administrativas, civiles o penales, derivadas de las acciones de vigilancia realizadas al Programa.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+###### Artículo 52 Quáter.
+
+Los entes públicos encargados de los Programas de Desarrollo Social deben:
+
+I. Desarrollar el esquema de aplicación de la contraloría social, así como promover su implementación y dar seguimiento a las acciones realizadas por los Comités, con apego a los Lineamientos que para tal efecto emita la Contraloría del Estado aplicables para la Administración Pública Estatal, o aquéllos que emitan los Órganos Internos de Control en los municipios; y
+
+II. Recibir, atender y determinar la procedencia de las manifestaciones realizadas por los Comités de Contraloría Social o sus beneficiarios en lo particular, respecto a la operación de los mismos, así como informar el seguimiento otorgado a las quejas o denuncias interpuestas en la vigilancia del programa.
 
 ###### Artículo 53.
 
@@ -1189,8 +1223,22 @@ Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+OCTAVO. Una vez que el Congreso del Estado de Jalisco lleve a cabo el proceso para la designación de los consejeros que formarán parte del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, deberá notificar a la Secretaría los nombres de los ciudadanos que formarán parte del mismo. El o la titular de la Secretaría deberá emitir la convocatoria para la Sesión de la Instalación del Primer Consejo de Participación Ciudadana y Popular para la Gobernanza. El Consejo deberá quedar formalmente instalado a más tardar dentro de los ocho días hábiles siguientes a la notificación que haga el Congreso del Estado.
+
 P.O. 18 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27276/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27843/LXII/20 QUE ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO, Y ADICIONA LOS ARTÍCULOS OCTAVO Y NOVENO TRANSITORIO AL DECRETO 27261/LXII/19”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
+
+Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
