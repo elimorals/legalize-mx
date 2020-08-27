@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2019-10-17"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -2697,9 +2697,9 @@ ART. 613.- Si el cónyuge ausente regresa o se probare su existencia, quedará r
 
 ART. 614.- Cuando hayan transcurrido un año desde la declaración de ausencia, el Juez, a instancia de la parte interesada, declarará la presunción de muerte.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
 
-ART. 615.- Respecto a los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte; igual término se aplicará a quienes hayan desaparecido como víctimas de la presunta comisión de un delito, de cuyos hechos haya tenido conocimiento el Ministerio Público, computado a partir de la fecha de la denuncia. En estos casos no será necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+ART. 615.- Respecto a los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido seis meses, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte; igual término se aplicará a quienes hayan desaparecido como víctimas de la presunta comisión de un delito, de cuyos hechos haya tenido conocimiento el Ministerio Público, computado a partir de la fecha de la denuncia. En estos casos no será necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
 
 ART. 616.- Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado conforme al artículo 591; los poseedores provisionales darán cuenta de su administración en los términos previstos en el artículo 603, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que se hubiere otorgado quedará cancelada.
 
@@ -10450,3 +10450,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos de Declaración de Ausencia iniciados con anterioridad a la entrada en vigor de este Decreto, a solicitud de parte podrán ser reencauzados por el Juez y tramitarse conforme a las reglas de la Declaración Especial de Ausencia.
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-132 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 615 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
