@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-participacion-ciudadana-y-popular-para-13529
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2019-04-09"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el martes 9 de abril de 2019.
 
@@ -161,7 +161,9 @@ I. El o la titular de la Secretaría;
 
 II. El Diputado o la Diputada que presida la Comisión Legislativa de Participación Ciudadana, Transparencia y Ética en el Servicio Público del Congreso del Estado;
 
-III. El o la Consejera Electoral que presida la Comisión de Participación Ciudadana del Instituto;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2020)</small>
+
+III. El o la Consejera Electoral que designe el Consejo General del Instituto;
 
 IV. Una persona integrante del Comité, designado de entre ellos mismos;
 
@@ -209,21 +211,33 @@ V. Los demás que señale la convocatoria.
 
 ###### Artículo 13.
 
-1. Las personas integrantes del Consejo señalados en las fracciones V a XV del artículo 11 de esta ley, serán designados por el Pleno del Congreso del Estado mediante convocatoria pública de conformidad al siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE AGOSTO DE 2020)</small>
 
-I. El Congreso del Estado, a través de la Comisión Legislativa de Participación Ciudadana, Transparencia y Ética en el Servicio Público, emite convocatoria abierta dirigida a la población para que remita sus propuestas;
+1. Las personas integrantes del Consejo señalados en las fracciones V a XV del artículo 11 de esta ley, serán designados por la Asamblea del Congreso del Estado mediante el siguiente procedimiento:
 
-II. El Consejo integra una Comisión Técnica para efectos de observar el desarrollo del proceso;
+I. El Consejo emitirá la convocatoria pública abierta a la población, para que se registren aspirantes ante la Secretaría Ejecutiva;
 
-III. La Comisión Legislativa de Participación Ciudadana, Transparencia y Ética en el Servicio Público organiza y revisa los expedientes de los aspirantes y emite un dictamen determinando quiénes de los aspirantes cumplen con los requisitos establecidos en esta ley;
+II. El registro de aspirantes deberá durar cuando menos tres días hábiles;
 
-IV. El dictamen que emite la Comisión Legislativa de Participación Ciudadana, Transparencia y Ética en el Servicio Público es aprobado por el pleno del Congreso por mayoría simple y en votación nominal; y
+III. La Secretaria Ejecutiva, a través de una Comisión Técnica que se integre para tales efectos, organizará y realizará la revisión de los expedientes para verificar que los aspirantes cumplan con los requisitos de elegibilidad que señala la ley;
 
-V. Una vez que se apruebe el dictamen correspondiente, el Congreso del Estado designa por separado a cada uno de los Consejeros mediante proceso de insaculación.
+IV. La Secretaría Ejecutiva remitirá al Congreso del Estado los expedientes de los aspirantes, junto con el dictamen de elegibilidad vinculante de estos últimos, dentro de los diez días naturales siguientes a la fecha del vencimiento del plazo para su presentación, señalando los que cumplan con los requisitos y los que no;
+
+V. La comisión legislativa en materia de participación ciudadana emite un dictamen en el que proponga como candidatos a los aspirantes que cumplan con los requisitos, de acuerdo con el dictamen de elegibilidad vinculante enviado por la Secretaría Ejecutiva, el cual debe ser aprobado por el Congreso del Estado por mayoría simple y en votación nominal;
+
+VI. El Congreso del Estado designará por separado a cada consejero mediante el procedimiento de insaculación de entre los candidatos de cada sector que cumplieron con los requisitos;
+
+VII. En caso de existir un solo candidato elegible en uno o varios sectores, se deberá realizar un nuevo proceso de elección, pero única y exclusivamente por el o los sectores en los que exista un solo candidato elegible;
+
+VIII. El Congreso del Estado debe aprobar y mandar publicar la minuta de acuerdo legislativo correspondiente a las designaciones realizadas; y
+
+IX. Los consejeros designados deben rendir la protesta de ley ante la Asamblea, previo a tomar posesión de su cargo.
 
 2. Si no existen candidatos elegibles para alguno de los cargos, se declara desierta la convocatoria para ese cargo y se emite una nueva.
 
-3. La convocatoria a que hace referencia este artículo debe ser publicada en el Periódico Oficial "El Estado de Jalisco", en la página web del Congreso del Estado y en la del Gobierno del Estado, así como en dos periódicos de mayor circulación en el Estado; además, debe remitirse, al menos, cinco días hábiles antes del inicio del registro, a los 125 ayuntamientos para ser publicada en sus medios de comunicación oficial.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+3. La convocatoria a que hace referencia este artículo debe ser publicada en el Periódico Oficial “El Estado de Jalisco”, en la página web del Congreso del Estado y en la del Gobierno del Estado, así como en dos periódicos de mayor circulación en el Estado; además, debe remitirse, al menos, cinco días hábiles antes del inicio del registro, a los 125 ayuntamientos para ser publicada en sus medios de comunicación oficial, así como a la Secretaría, para que la difunda en los medios que estime convenientes.
 
 4. Los integrantes del Sistema podrán dar difusión a la convocatoria en los medios que estimen convenientes y tengan a su disposición.
 
@@ -522,6 +536,10 @@ XV. Diálogo Colaborativo; y
 XVI. Contraloría Social.
 
 2. Ninguno de los instrumentos de participación ciudadana y popular puede utilizarse para disminuir o revocar el reconocimiento o ampliación de derechos humanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE AGOSTO DE 2020)</small>
+
+3. Durante los procesos electorales, cuando exista alguna causa que pueda afectar el óptimo ejercicio del derecho a la participación ciudadana, se podrá suspender la tramitación de los mecanismos de participación ciudadana y popular referidos en este artículo.
 
 ###### Artículo 31.
 
@@ -1483,11 +1501,17 @@ IV. Establecer un vínculo corresponsable entre el gobierno y la ciudadanía que
 
 ###### Artículo 107.
 
-1. La organización y desarrollo de las consultas de presupuesto participativo se entienden delegadas al Consejo y a los Consejos Municipales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2020)</small>
 
-2. El Poder Ejecutivo presenta su propuesta de Presupuesto Participativo ante la Secretaria Ejecutiva preferentemente antes del día 10 de enero de cada año y se le asigna número de registro.
+1. La organización y desarrollo de las consultas de presupuesto participativo estarán a cargo del Poder Ejecutivo y de los Ayuntamientos, según corresponda, quienes podrán delegar dicha atribución al Consejo.
 
-3. Los Ayuntamientos presentan sus propuestas de Presupuestos Participativos ante el Consejo Municipal correspondiente preferentemente antes del día 10 de enero de cada año y se le asigna número de registro.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+2. En caso de que el Poder Ejecutivo delegue la atribución señalada en el párrafo anterior al Consejo, presentará su propuesta de Presupuesto Participativo ante la Secretaría Ejecutiva preferentemente en el mes de enero de cada año y se le asigna número de registro.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+3. Los Ayuntamientos presentan sus propuestas de Presupuestos Participativos ante el Consejo Municipal correspondiente, preferentemente en el mes de enero de cada año y se le asigna número de registro. Si el Ayuntamiento no cuenta con Consejo Municipal puede delegar la organización y desarrollo de las consultas de Presupuesto Participativo al Consejo.
 
 4. Los consejos municipales remiten dentro de los siguientes tres días hábiles a su recepción, copia de todas las propuestas recibidas a la Secretaría Ejecutiva para su conocimiento y registro.
 
@@ -1521,7 +1545,9 @@ III. El monto de los recursos públicos que se destinarán a la ejecución de la
 
 2. Los resultados de la consulta de presupuesto participativo de los Ayuntamientos se publican en la Gaceta Municipal o en el medio de comunicación oficial con el que cuente a más tardar cinco días después de que concluya.
 
-3. Los consejos correspondientes remiten copia certificada de los resultados a la autoridad correspondiente para su ejecución.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+3. En caso de que la organización y desarrollo hubiesen sido delegadas, el consejo remitirá copia certificada de los resultados a la autoridad correspondiente para su ejecución.
 
 ###### Artículo 110.
 
@@ -1955,13 +1981,13 @@ V. Las demás que establezcan los reglamentos estatales o municipales correspond
 
 I. Al menos el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores de la demarcación territorial donde tenga competencia la obra, programa o autoridad, que se desee observar;
 
-II. Los colegios o asociaciones de profesionistas debidamente registradas en el Estado;
+II. (REFORMADA [N. DE E. DEROGADA], P.O. 27 DE AGOSTO DE 2020)
 
-III. Las asociaciones civiles debidamente constituidas;
+III. (REFORMADA [N. DE E. DEROGADA], P.O. 27 DE AGOSTO DE 2020)
 
-IV. Las asociaciones vecinales debidamente registradas en los municipios; y
+IV. (REFORMADA [N. DE E. DEROGADA], P.O. 27 DE AGOSTO DE 2020)
 
-V. Otras formas de organización social.
+V. (REFORMADA [N. DE E. DEROGADA], P.O. 27 DE AGOSTO DE 2020)
 
 2. La solicitud debe contener por lo menos los siguientes datos:
 
@@ -2139,7 +2165,7 @@ IV. Firma de quien notifica.
 
 ## TRANSITORIOS
 
-PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial “El Estado de Jalisco".
+PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El primer Consejo de Participación Ciudadana y Popular para la Gobernanza deberá de instalarse a más tardar dentro de los primeros seis meses siguientes a partir de la entrada en vigor del presente decreto.
 
@@ -2156,6 +2182,10 @@ SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una 
 Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+OCTAVO. Una vez que el Congreso del Estado de Jalisco lleve a cabo el proceso para la designación de los consejeros que formarán parte del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, deberá notificar a la Secretaría los nombres de los ciudadanos que formarán parte del mismo. El o la titular de la Secretaría deberá emitir la convocatoria para la Sesión de la Instalación del Primer Consejo de Participación Ciudadana y Popular para la Gobernanza. El Consejo deberá quedar formalmente instalado a más tardar dentro de los ocho días hábiles siguientes a la notificación que haga el Congreso del Estado.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 5 DE ABRIL DE 2019
 
@@ -2194,3 +2224,15 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27843/LXII/20 QUE ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO, Y ADICIONA LOS ARTÍCULOS OCTAVO Y NOVENO TRANSITORIO AL DECRETO 27261/LXII/19”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaría de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
+
+Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
