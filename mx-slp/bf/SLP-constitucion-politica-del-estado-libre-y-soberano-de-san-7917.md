@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2020-05-14"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1295,9 +1295,7 @@ I.- Ser mexicano por nacimiento y ciudadano potosino en pleno goce de sus derech
 
 II.- Si se tiene la calidad de potosino por nacimiento, contar con una residencia efectiva no menor de un año inmediato anterior al día de la elección y, si se trata de potosino por vecindad, la residencia efectiva deberá ser no menor de cinco años contados a partir de la adquisición de vecino;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
-
-III.- Tener treinta años cumplidos al día de la elección;
+III.- (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1761,9 +1759,7 @@ Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
 I.- Ser mexicano por nacimiento, y ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
-
-II.- Tener cuando menos treinta y cinco años el día de su nombramiento, y no más de setenta y tres años de edad;
+II.- (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
 
 III.- Tener al día de su nombramiento, título profesional de licenciado en derecho con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo;
 
@@ -1817,9 +1813,7 @@ Para ser Juez se requiere:
 
 I.- Ser ciudadano potosino en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
-II.- Tener cuando menos veintiocho años de edad al día de su designación;
+II.- (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1849,7 +1843,7 @@ Para ser Juez Menor se requiere:
 
 I.- Ser ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Tener cuando menos veinticinco años de edad;
+II.- (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
 
 III.- Tener, al día de su nombramiento, título profesional de licenciado en derecho con antigüedad mínima de dos años, expedido por autoridad o institución legalmente facultada para ello y acreditar el ejercicio profesional por el mismo tiempo; y
 
@@ -3440,3 +3434,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Ejecutivo del Estado deberá destinar en el Presupuesto de Egresos para el Ejercicio Fiscal 2021, los recursos necesarios para el cumplimiento de las obligaciones establecidas en el presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0741.- SE DEROGA DE LOS ARTÍCULOS 73 LA FRACCIÓN III, 99 LA FRACCIÓN II, 103 LA FRACCIÓN II Y 106 LA FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
