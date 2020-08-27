@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2020-04-29"
+last_updated: "2020-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -95,9 +95,7 @@ El Congreso del Estado sesionará únicamente en el Recinto Oficial, a excepció
 
 Las sesiones podrán celebrarse a distancia mediante el uso de herramientas tecnológicas, ante una emergencia declarada por autoridad respectiva que impida o haga inconveniente la presencia de los Diputados en el Recinto Oficial o en sede alterna, conforme al acuerdo y lineamientos que emita la Junta de Gobierno y Coordinación Política en los términos establecidos para las sesiones de carácter presencial.
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
-
-Las sesiones de instalación y apertura no podrán celebrarse a distancia.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 9.
 
@@ -3452,3 +3450,11 @@ P.O. 29 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 175 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 218, POR EL CUAL SE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. La Junta de Gobierno y Coordinación Política deberá adecuar los Lineamientos para el desarrollo de las sesiones del Pleno y reuniones de Comisiones a distancia del Congreso del Estado de Guanajuato, en congruencia con lo previsto en el presente Decreto, en un término de 10 días posteriores a la entrada en vigor del mismo.
