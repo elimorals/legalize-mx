@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2020-07-01"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO ELECTORAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.xxx
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -1519,9 +1519,7 @@ b) Los Consejos Municipales Electorales; y
 
 c) (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-V. Un órgano consultivo, de la Comisión de Participación Ciudadana, que es el Comité de Participación Social.
+V. (DEROGADA, P.O. 27 DE AGOSTO DE 2020)
 
 Artículo 119
 
@@ -1969,9 +1967,9 @@ XVI. (REFORMADA [N. DE E. DEROGADA], P.O. 31 DE DICIEMBRE DE 2009)
 
 XVII. Presentar para su aprobación al Consejo General el proyecto de convocatoria para las elecciones constitucionales;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2020)</small>
 
-XVIII. Presentar para su aprobación al Consejo General el proyecto de convocatoria para la celebración de los instrumentos de participación social de su competencia;
+XVIII. Presentar para su aprobación al Consejo General el proyecto de convocatoria para la celebración de los instrumentos de participación ciudadana y popular de su competencia;
 
 XIX. Proponer para su aprobación al Consejo General, para cada proceso electoral ordinario, el estudio sobre el costo y los topes en los gastos de campañas;
 
@@ -6985,13 +6983,17 @@ b) Las organizaciones o agrupaciones políticas o de ciudadanos, a través de su
 
 c) Las personas físicas o jurídicas por su propio derecho o a través de sus representantes legítimos y de conformidad con la legislación aplicable.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2020)</small>
 
-III. Los promoventes o su representante común en los procesos relativos a los mecanismos de participación ciudadana y popular; y
+III. Los promoventes o su representante común en los procesos relativos a los mecanismos de participación ciudadana y popular;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2020)</small>
 
-IV. El Poder Ejecutivo, el Poder Legislativo y los ayuntamientos, en los procesos relativos a los mecanismos de participación ciudadana y popular.
+IV. El Poder Ejecutivo, el Poder Legislativo y los ayuntamientos, en los procesos relativos a los mecanismos de participación ciudadana y popular; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2020)</small>
+
+V. Los órganos con autonomía reconocida por la Constitución Política del Estado de Jalisco, en los casos en que los resultados de los mecanismos de participación ciudadana y popular los vinculen.
 
 Artículo 603
 
@@ -8759,9 +8761,9 @@ P.O. 2 DE JUNIO DE 2017.
 
 P.O. 9 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 27261/LXII/19 QUE EXPIDE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO; CAMBIA LA DENOMINACIÓN; REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; DE LA LEY DE OBRA PÚBLICA Y DE LA LEY DE DESARROLLO SOCIAL, TODAS DEL ESTADO DE JALISCO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27261/LXII/19 QUE EXPIDE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO; CAMBIA LA DENOMINACIÓN; REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; DE LA LEY DE OBRA PÚBLICA Y DE LA LEY DE DESARROLLO SOCIAL, TODAS DEL ESTADO DE JALISCO".]
 
-PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial “El Estado de Jalisco".
+PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El primer Consejo de Participación Ciudadana y Popular para la Gobernanza deberá de instalarse a más tardar dentro de los primeros seis meses siguientes a partir de la entrada en vigor del presente decreto.
 
@@ -8779,6 +8781,10 @@ Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+OCTAVO. Una vez que el Congreso del Estado de Jalisco lleve a cabo el proceso para la designación de los consejeros que formarán parte del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, deberá notificar a la Secretaría los nombres de los ciudadanos que formarán parte del mismo. El o la titular de la Secretaría deberá emitir la convocatoria para la Sesión de la Instalación del Primer Consejo de Participación Ciudadana y Popular para la Gobernanza. El Consejo deberá quedar formalmente instalado a más tardar dentro de los ocho días hábiles siguientes a la notificación que haga el Congreso del Estado.
+
 P.O. 1 DE JULIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 27923/LXII/20 QUE REFORMA LOS ARTÍCULOS 1°, 2°, 3°, 5°, 6°, 7°, 7° BIS, 8°, 9°, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 24, 25, 26, 27, 89, 115, 116, 118, 120, 121, 134, 136, 211, 236, 239, 260, 264, 446, 449, 449 BIS, 452, 458, 459, 471, 472, 534, 570, 612, 655, 705, 719 ADICIONANDO EL ARTÍCULO 446 BIS; ASÍ COMO UN CAPÍTULO DÉCIMO TERCERO BIS AL TÍTULO PRIMERO DENOMINADO DE LAS MEDIDAS CAUTELARES Y DE REPARACIÓN CON LOS ARTÍCULOS 459 BIS Y 459 TER; TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO”.]
@@ -8790,3 +8796,13 @@ SEGUNDO. El Poder Ejecutivo del Estado de Jalisco dentro del ámbito de sus facu
 TERCERO. El Poder Judicial dentro del ámbito de sus facultades y en los términos del Decreto 27332/LXII/20 deberá implementar la inscripción y actualización permanente en el Registro de Deudores Alimentarios Morosos a los ciudadanos o ciudadanas que sean declarados judicialmente morosos, en un plazo de 60 días hábiles para dar cumplimiento a las disposiciones del presente decreto.
 
 CUARTO. Para la obligatoriedad de los dispuesto en el artículo 24 del Código Electoral del Estado de Jalisco numeral 3, se seguirá los procedimientos establecidos en el artículo 10 de la Ley sobre los Derechos y el Desarrollo de los Pueblos y las Comunidades Indígenas del Estado de Jalisco.
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27843/LXII/20 QUE ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO, Y ADICIONA LOS ARTÍCULOS OCTAVO Y NOVENO TRANSITORIO AL DECRETO 27261/LXII/19.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
+
+Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
