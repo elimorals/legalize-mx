@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2020-07-08"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -75,21 +75,25 @@ Para los efectos de esta ley, se entenderá por:
 
 I.- Asistencia Social.- Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social para que no impidan a las personas adultas mayores su desarrollo integral, así como la protección física, mental y social de ellos cuando se encuentren en estado de necesidad, desprotección o desventaja física y mental;
 
-II.- Atención médica.- Al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud.
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2020)</small>
 
-III.- Consejo.- Al Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores;
+II.- Atención integral.- Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores. Para facilitarles una vejez plena y sana se considerarán sus hábitos, capacidades, funcionales, usos y costumbres y preferencias;
 
-IV.- Geriatría.- Al servicio brindado para la atención de la salud de las personas adultas mayores;
+III.- Atención médica.- Al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud.
 
-V.- Gerontología.- Al Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial;
+IV.- Consejo.- Al Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores;
+
+V.- Geriatría.- Al servicio brindado para la atención de la salud de las personas adultas mayores;
+
+VI.- Gerontología.- Al Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
 
-VI.- Integración social.- Al conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Estado y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores desplazadas, su permanencia a los sectores productivos y estratégicos de la sociedad organizada, incrementando así su desarrollo integral;
+VII.- Integración social.- Al conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Estado y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores desplazadas, su permanencia a los sectores productivos y estratégicos de la sociedad organizada, incrementando así su desarrollo integral;
 
-VII.- Ley.- La presente Ley de los Derechos de las Personas Adultas Mayores en el Estado de Tamaulipas; y
+VIII.- Ley.- La presente Ley de los Derechos de las Personas Adultas Mayores en el Estado de Tamaulipas; y
 
-VIII.- Personas Adultas Mayores.- A aquellas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado; contemplándose en diferentes condiciones:
+IX.- Personas Adultas Mayores.- A aquellas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado; contemplándose en diferentes condiciones:
 
 a).- Independiente: A aquella persona apta para desarrollar actividades físicas y mentales sin ayuda;
 
@@ -788,3 +792,11 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-134 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN II, RECORRIENDO EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3°, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
