@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-08-06"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -3153,9 +3153,9 @@ TERCERO. Los ayuntamientos deberán constituir sus Unidades de Medidas de Superv
 
 P.O. 9 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 27261/LXII/19 QUE EXPIDE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO; CAMBIA LA DENOMINACIÓN; REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; DE LA LEY DE OBRA PÚBLICA Y DE LA LEY DE DESARROLLO SOCIAL, TODAS DEL ESTADO DE JALISCO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27261/LXII/19 QUE EXPIDE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO; CAMBIA LA DENOMINACIÓN; REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL; REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE (SIC) GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; DE LA LEY DE OBRA PÚBLICA Y DE LA LEY DE DESARROLLO SOCIAL, TODAS DEL ESTADO DE JALISCO".]
 
-PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial “El Estado de Jalisco”.
+PRIMERO. La presente reforma entrará en vigor una vez entre en vigor la reforma al artículo 11 de la Constitución Política del Estado de Jalisco, en materia de participación ciudadana aprobada el día 25 de marzo de 2019 mediante minuta de decreto 27254, previa publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El primer Consejo de Participación Ciudadana y Popular para la Gobernanza deberá de instalarse a más tardar dentro de los primeros seis meses siguientes a partir de la entrada en vigor del presente decreto.
 
@@ -3172,6 +3172,10 @@ SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una 
 Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+OCTAVO. Una vez que el Congreso del Estado de Jalisco lleve a cabo el proceso para la designación de los consejeros que formarán parte del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, deberá notificar a la Secretaría los nombres de los ciudadanos que formarán parte del mismo. El o la titular de la Secretaría deberá emitir la convocatoria para la Sesión de la Instalación del Primer Consejo de Participación Ciudadana y Popular para la Gobernanza. El Consejo deberá quedar formalmente instalado a más tardar dentro de los ocho días hábiles siguientes a la notificación que haga el Congreso del Estado.
 
 P.O. 18 DE MAYO DE 2019.
 
@@ -3220,3 +3224,13 @@ P.O. 6 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27931/LXII/20 QUE REFORMA EL ARTÍCULO 4 Y LA FRACCIÓN VIII DEL ARTÍCULO 47 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27843/LXII/20 QUE ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; Y, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO, Y ADICIONA LOS ARTÍCULOS OCTAVO Y NOVENO TRANSITORIO AL DECRETO 27261/LXII/19”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
+
+Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
