@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-para-el-estado-de-jalisco-y-sus-125988"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-30"
-last_updated: "2020-08-06"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Ley publicada en el Número 42 Sección III del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2018.
 
@@ -2465,9 +2465,9 @@ Del Comité de Contraloría Social
 
 2. La Secretaría y los entes públicos impulsarán la formación de Comités de Contraloría Social y les facilitarán el acceso a la información necesaria para el cumplimiento de sus funciones.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
 
-3. Lo señalado en los párrafos anteriores se dará en los términos de lo estipulado en la presente ley, su reglamento, además de lo contenido en la legislación en materia de participación ciudadana.
+3. Lo señalado en los párrafos anteriores se dará en los términos de lo estipulado en la presente ley, su reglamento, así como en los lineamientos que emita la Contraloría del Estado en el caso de la Administración Pública Estatal o los Órganos Internos de Control de los diversos entes públicos señalados en la presente ley.
 
 ###### Artículo 120.
 
@@ -2477,7 +2477,9 @@ Comité de Contraloría Social - Atribuciones.
 
 I. Solicitar la información a la Secretaría o al ente público responsable de la ejecución de obra pública o servicios relacionados con la misma, que considere necesaria para el desempeño de sus funciones;
 
-II. Vigilar el ejercicio de los recursos públicos y la ejecución de los programas de obra, conforme a los contratos respectivos así como a lo dispuesto en la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2020)</small>
+
+II. Vigilar el ejercicio de los recursos públicos y la ejecución de los programas de obra, conforme a los contratos respectivos, así como a lo dispuesto en la presente Ley, su reglamento y los lineamientos respectivos;
 
 III. Visitar el lugar donde se realiza la obra, a efectos de conocer los trabajos y emitir su informe, verificando que los trabajos se llevan a cabo conforme lo contratado; y
 
@@ -2487,13 +2489,25 @@ IV. Presentar ante la Contraloría o los OIC las quejas y denuncias que consider
 
 Comité de Contraloría Social - Integración.
 
-1. El Comité de la Contraloría Social, estará compuesto por un total de tres integrantes, los cuales serán designados por parte de la Contraloría o los OIC, quienes serán propuestos por los Comités Vecinales donde se ejecute la obra contratada, o en su defecto por aquellos que sean beneficiados directos de la misma, de las propuestas ciudadanas que hayan sido registradas en los términos de la presente ley y su reglamento.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
 
-2. En el caso de que existan dos o más Comités Vecinales u organismos de la sociedad civil legalmente constituidos que deseen participar, como parte del Comité de Contraloría Social, a juicio de la Contraloría del ente público se podrá incrementar como máximo a cinco el número de integrantes del Comité de Contraloría Social.
+1. El Comité de la Contraloría Social estará compuesto por un total de tres integrantes, los cuales serán designados en el caso de la Administración Pública Estatal, por parte de la Contraloría del Estado y por los Órganos Internos de Control en los diversos entes públicos, quienes serán propuestos por los Comités Vecinales donde se ejecute la obra contratada o, en su defecto por aquellos que sean beneficiados directos de la misma, de las propuestas ciudadanas que hayan sido registradas en los términos de la presente ley, su reglamento y los lineamientos respectivos.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+2. En el caso de que existan dos o más Comités Vecinales u organismos de la sociedad civil legalmente constituidos que deseen participar como parte del Comité de Contraloría Social, a juicio de la Contraloría del Estado o los Órganos Internos de Control en los supuestos referidos en el párrafo anterior, podrán incrementar como máximo a cinco el número de integrantes del Comité de Contraloría Social.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 3. La Contraloría y los OIC podrán auxiliarse del Consejo de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco, así como de los Consejos Municipales de Participación Ciudadana para llevar a cabo el proceso de integración de los comités de contraloría social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 27 DE AGOSTO DE 2020)</small>
+
+4. El Comité Mixto de Obra Pública revisará los programas y proyectos de presupuestos de obra pública y determinará los casos en que se deberá conformar un Comité de Contraloría Social, cuando:
+
+I. La contratación de la obra pública o servicios relacionados cause un impacto de por lo menos el cinco por ciento del presupuesto total del programa, fondo o fideicomiso del cual será realizada la misma; o
+
+II. Exista la necesidad social de dar seguimiento al proceso de obra pública.
 
 ###### Artículo 122.
 
@@ -3187,6 +3201,10 @@ Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+OCTAVO. Una vez que el Congreso del Estado de Jalisco lleve a cabo el proceso para la designación de los consejeros que formarán parte del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, deberá notificar a la Secretaría los nombres de los ciudadanos que formarán parte del mismo. El o la titular de la Secretaría deberá emitir la convocatoria para la Sesión de la Instalación del Primer Consejo de Participación Ciudadana y Popular para la Gobernanza. El Consejo deberá quedar formalmente instalado a más tardar dentro de los ocho días hábiles siguientes a la notificación que haga el Congreso del Estado.
+
 P.O. 28 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27762/LXII/19 QUE REFORMA EL ARTÍCULO 2° ADICIONA EL ARTÍCULO 32 BIS AMBOS DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
@@ -3204,3 +3222,13 @@ P.O. 6 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27924/LXII/20 QUE REFORMA EL NUMERAL 3 DEL ARTÍCULO 1 DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27843/LXII/20 QUE ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO, Y ADICIONA LOS ARTICULOS OCTAVO Y NOVENO (SIC) TRANSITORIO AL DECRETO 27261/LXII/19”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
+
+Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
