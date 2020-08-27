@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2020-07-08"
+last_updated: "2020-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -2411,7 +2411,9 @@ Asimismo, regula el funcionamiento general del Consejo Estatal de Trasplantes y 
 
 El Gobierno del Estado, por conducto de la Secretaría de Salud y el titular del Consejo Estatal de Trasplantes, concurrirá ante el Consejo Nacional de Trasplantes a efecto de consolidar la coordinación que propicie el efectivo cumplimiento de los objetivos, acciones y actividades contenidas en el Programa Nacional de Trasplantes.
 
-Igualmente, se propiciarán las medidas tendentes a estrechar vínculos en la materia con los diversos Consejos que funcionen en los Estados de la República y el Distrito Federal; con las instituciones de educación superior; facultades de medicina, colegios y academias médicas legalmente reconocidas; y en sí, con toda aquella institución vinculada a la salud humana que coadyuve al desarrollo integral de la cultura de la donación de órganos, tejidos y células humanos.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2020)</small>
+
+Igualmente, se propiciarán las medidas tendentes a estrechar vínculos en la materia con los diversos Consejos que funcionen en los Estados de la República y la Ciudad de México; con las instituciones de educación superior; facultades de medicina, colegios y academias médicas legalmente reconocidas; y en sí, con toda aquella institución vinculada a la salud humana que coadyuve al desarrollo integral de la cultura y promoción de la donación altruista de órganos, tejidos y células humanos.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3722,3 +3724,11 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-135 MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 185 DE LA LEY DE SALUD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
