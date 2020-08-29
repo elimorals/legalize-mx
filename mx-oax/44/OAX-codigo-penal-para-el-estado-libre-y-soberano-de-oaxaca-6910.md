@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-04-18"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2601,21 +2601,21 @@ Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a a
 
 Al servidor público, docente o ministro de culto que reincidiere en la comisión de este delito, además de las sanciones previstas, se le inhabilitará definitivamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
-241 Ter.- Quien por cualquier medio con fines lascivos asedie a persona de cualquier sexo, con quien no exista relación de subordinación en lugares públicos o privados, o en vehículos destinados al transporte público de pasajeros, afectando o perturbando su derecho a la integridad o libre tránsito, o le cause intimidación, degradación, humillación o aprovechándose de circunstancias que produzcan desventaja, indefensión o riesgo inminente para la víctima, le cause daño o sufrimiento psicoemocional, se le impondrá prisión de uno a tres años y multa de cien a doscientas veces el valor de la unidad de medida y actualización.
+241 Ter.- Quien profiera silbidos de connotación sexual, expresiones verbales y/o gestuales de carácter sexual, exhiba sus órganos sexuales a cualquier persona sin su consentimiento, se masturbe con o sin eyaculación, o realice roces o frotamiento sobre el cuerpo de la víctima, en lugares públicos o privados, o en vehículos destinados al transporte público de pasajeros, se le impondrá prisión de tres días a tres años y multa de once a doscientas veces el valor de la unidad de medida y actualización.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+La pena de prisión se aumentará hasta en una tercera parte del mínimo y una tercera parte del máximo de la prevista, cuando concurran cualquiera de los casos siguientes:
 
-Si el acosador es servidor público y se vale de medios o circunstancias que el encargo le proporcione, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo.
+I.- Si el delito se comete en conjunto por dos o más personas;
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+II.- Si además hubiese asedio, seguimiento o persecución; y
 
-Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista.
+III.- Si se comete contra una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho o con alguna discapacidad o que por cualquier causa no pueda resistirlo.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+En el último supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 
-En el supuesto anterior, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte ofendida.
+Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
 
 242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
@@ -4021,19 +4021,25 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+405.- A quien cometa el delito de violencia familiar se le impondrá de tres a nueve años de prisión, multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado en el Centro de Reeducación para Hombres que Ejercen Violencia contra las Mujeres, que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de menores de doce años, personas adultas mayores, persona con discapacidad, mujeres en estado de gravidez o durante tres meses posteriores al parto.
+
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
-
-405.- A quien cometa el delito de violencia familiar se le impondrá de tres a nueve años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado en el Centro de Reeducación para Hombres que Ejercen Violencia contra las Mujeres, que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
-
-La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de personas adultas mayores, persona con discapacidad, mujeres en estado de gravidez o durante tres meses posteriores al parto.
 
 En el supuesto de que, se ejerza la violencia física a que se refiere la fracción I del artículo 404 Bis de este Código, la pena será de 5 a 10 años de prisión.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
 
-406. En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta. No proceden los acuerdos reparatorios como mecanismo para terminar la contienda en los casos previstos en este Título.
+406.- En los casos previstos en este Título, el Ministerio Público apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la carpeta de investigación y hasta la conclusión de ésta. No proceden los acuerdos reparatorios como mecanismo para terminar la contienda en los casos previstos en este Título.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -5244,6 +5250,22 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 18 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1496.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 246 BIS Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 248 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1521.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 241 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1527.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO Y SEGUNDO DEL ARTÍCULO 405, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 406 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
