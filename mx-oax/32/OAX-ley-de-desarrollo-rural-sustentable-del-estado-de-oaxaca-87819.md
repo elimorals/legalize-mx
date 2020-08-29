@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2020-04-18"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -63,7 +63,9 @@ I. Promover y favorecer el bienestar social y económico de los productores, de 
 
 II. Inducir el desarrollo productivo, económico y social de las comunidades rurales, diferenciado a las regiones de alta y muy alta marginación, mediante una acción integral del Estado que estimule la transformación y la reconversión productiva y económica; con un enfoque productivo de desarrollo rural sustentable;
 
-III. Contribuir en la implementación de programas, proyectos y acciones orientadas a lograr la soberanía y seguridad alimentaria en el Estado mediante el impulso de la producción agropecuaria;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+III. Contribuir en la implementación de programas, proyectos y acciones orientadas a lograr la soberanía y seguridad alimentaria en el Estado mediante el impulso de la producción agropecuaria privilegiando los métodos de la agricultura orgánica;
 
 IV. Promover y fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable;
 
@@ -96,6 +98,10 @@ II. Actividades económicas: Las actividades productivas, industriales, comercia
 III. ADR's: Agencias de Desarrollo Rural Sustentable;
 
 IV. Agentes de la Sociedad Rural: Personas físicas o morales de los sectores social y privado que integran a la sociedad rural;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+IV BIS. Agricultura familiar: Es el modo de vida y trabajo agrícola practicado por hombres y mujeres de un mismo núcleo familiar, a través de unidades productivas familiares. Su fruto es destinado al consumo propio, al trueque y comercialización, pudiendo provenir de las actividades de recolección, agropecuaria, silvicultura, pesca u otros servicios rurales, tales como, la hortícola, frutícola, forestal, apícola, pecuario, industrial rural, pesquero artesanal, acuícola y de agroturismo;
 
 V. Agroforestal (uso): La combinación de agricultura y ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
 
@@ -139,29 +145,57 @@ XXIV. Órdenes de Gobierno: Los Gobiernos Federal, Estatal y Municipal;
 
 XXV. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
 
-XXVI. Participación Ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-XXVII. Productos Básicos y Estratégicos: Aquellos que forman parte de la dieta de la mayoría de la población diferenciados por regiones, los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales y/o nacionales, definidos por la Ley o por considerarlos así por el Consejo Estatal;
+XXVI. Unidad productiva familiar: Es la unidad de explotación rural que depende preponderantemente del trabajo familiar desarrollado sobre determinada área, con independencia de su forma jurídica o régimen de tenencia del predio, administrada y operada directamente por los miembros de la familia, quienes residiendo en él o en zona cercana, obtienen de ella su principal fuente de ingreso.
 
-XXVIII. Programa Especial Concurrente: El programa especial concurrente para el desarrollo rural sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley,
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXVI], P.O. 29 DE AGOSTO DE 2020)
 
-XXIX. Programas Sectoriales: Los programas específicos del Gobierno Federal como Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
+XXVII. Participación Ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
 
-XXX. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXVII], P.O. 29 DE AGOSTO DE 2020)
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+XXVIII. Productos Básicos y Estratégicos: Aquellos que forman parte de la dieta de la mayoría de la población diferenciados por regiones, los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales y/o nacionales, definidos por la Ley o por considerarlos así por el Consejo Estatal;
 
-XXXI. Secretaría: Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXVIII], P.O. 29 DE AGOSTO DE 2020)
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+XXIX. Programa Especial Concurrente: El programa especial concurrente para el desarrollo rural sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley,
 
-XXXII. Seguridad Alimentaria: El abasto oportuno, constante e incluyente de los alimentos nutritivos en cantidad suficiente para satisfacer la demanda nutricional de la población;
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXIX], P.O. 29 DE AGOSTO DE 2020)
 
-XXXIII. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
+XXX. Programas Sectoriales: Los programas específicos del Gobierno Federal como Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
 
-XXXIV. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXX], P.O. 29 DE AGOSTO DE 2020)
 
-XXXV. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
+XXXI. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXXI], P.O. 29 DE AGOSTO DE 2020)
+
+XXXII. Secretaría: Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXXII], P.O. 29 DE AGOSTO DE 2020)
+
+XXXIII. Seguridad Alimentaria: El abasto oportuno, constante e incluyente de los alimentos nutritivos en cantidad suficiente para satisfacer la demanda nutricional de la población;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXXIII], P.O. 29 DE AGOSTO DE 2020)
+
+XXXIV. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXXIV], P.O. 29 DE AGOSTO DE 2020)
+
+XXXV. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXXV], P.O. 29 DE AGOSTO DE 2020)
+
+XXXVI. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+XXXVI (SIC). Producción Orgánica: Sistema de producción que pondera el medio ambiente y la salud humana por medio de técnicas que procuran la conservación del suelo, la fertilidad de la tierra, la alimentación natural de ganado y en general todo aquel método que tienda reducir al mínimo la aplicación de agentes sintéticos, modificados o que se consideren dañinos para la preservación del medio ambiente.
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+XXXVII. Maíz Nativo: Cereales de la especie Zea Mays originario de cierta Comunidad, Región o Estado dentro del Territorio Nacional y que se diferencia de otras clases extranjeras, mejoradas o genéticamente modificadas.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -207,9 +241,17 @@ III. Incrementar, diversificar, reconvertir la producción para atender la deman
 
 IV. Fomentar el aprovechamiento sustentable de los recursos naturales, que permitan ampliar y diversificar las actividades productivas en el medio rural, a fin de incrementar y diversificar las fuentes de empleo y el ingreso de la población;
 
-V. Impulsar la conservación de los ecosistemas naturales y el eficiente aprovechamiento de su capacidad productiva, para fortalecer la economía del sector rural, el autoabasto y el desarrollo de mercados locales, que mejoren el acceso de la población rural a la alimentación; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-VI. Mejorar la cantidad y la calidad de los servicios a la población rural.
+V. Impulsar la conservación de los ecosistemas naturales y el eficiente aprovechamiento de su capacidad productiva, para fortalecer la economía del sector rural, el autoabasto y el desarrollo de mercados locales, que mejoren el acceso de la población rural a la alimentación;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+VI. Mejorar la cantidad y la calidad de los servicios a la población rural; y
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+VII. Promover la preservación, producción, comercialización y consumo de las diferentes variedades de maíz nativo.
 
 ###### ARTÍCULO 8.
 
@@ -577,7 +619,9 @@ X. El impulso de las actividades de turismo alternativo y turismo sustentable, d
 
 XI. El impulso a las actividades económicas no agropecuarias en el que se desempeña (sic) los diversos agentes de la sociedad rural;
 
-XII. La creación de condiciones adecuadas para enfrentar el proceso de globalización;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+XII. La creación de condiciones adecuadas para enfrentar el proceso de globalización favoreciendo el cultivo del maíz nativo, entre otras acciones;
 
 XIII. Valoración y pago de los servicios ambientales;
 
@@ -1101,6 +1145,10 @@ Se consideran de interés público las medidas de prevención para que los organ
 
 En caso de presunción de riesgo fitozoosanitario o de efectos indeseados del uso de organismos genéticamente modificados, ante la insuficiencia de evidencias científicas adecuadas, las orientaciones y medidas correspondientes seguirán invariablemente el principio de precaución.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+El Estado optará por los métodos de producción orgánica por sobre los demás; cuando estos resulten factibles.
+
 Esta materia se regulará por las leyes, reglamentos y normas específicas que al respecto aprueben el Congreso de la Unión y el Ejecutivo Federal.
 
 ### CAPÍTULO X. DE LA NORMALIZACIÓN E INSPECCIÓN DE LOS PRODUCTOS AGROPECUARIOS
@@ -1395,9 +1443,43 @@ Los Sistemas-Producto en acuerdo con sus integrantes podrán convenir el estable
 
 La Secretaría con la participación del Consejo Estatal, promoverá un Programa de Fomento a la Organización Económica del Sector Rural.
 
-### CAPÍTULO XV. DEL BIENESTAR SOCIAL Y LA ATENCIÓN PRIORITARIA A ZONAS MARGINADAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2020)</small>
 
-### CAPÍTULO XVI. DE LA SUSTENTABILIDAD DE LA PRODUCCIÓN RURAL
+### CAPÍTULO XIV BIS. DE LA AGRICULTURA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 127 BIS.- En el Estado de Oaxaca se declara de interés público y social a la agricultura familiar como parte fundamental para la seguridad y soberanía alimentaria de las y los oaxaqueños; así como, por su contribución a la mejora de las condiciones de vida de las familias productoras del área rural y por la práctica y promoción de sistemas de vida y de producción que preservan la biodiversidad y procesos sostenibles de la transformación productiva.
+
+Por lo que el Estado y los Municipios adquieren la obligación de respetar, reconocer y atender de manera prioritaria a la agricultura familiar que realicen en cualquiera de sus modalidades los pueblos y comunidades indígenas y afromexicanas, como actores económicos productivos, frente a otros modelos de desarrollo productivo. Asimismo, de reconocer y proteger el desarrollo de la agricultura familiar, el cual comprende el uso de conocimientos, tecnología y buenas prácticas que, respetando la cultura, las tradiciones y los hábitos de las comunidades agrícolas, contribuyan al crecimiento y desarrollo de los individuos y sus familias.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 127 TER.- El Estado y los Municipios promoverán en la agricultura familiar lo siguiente:
+
+I. La integración y participación de manera equitativa de cada uno de los miembros de la familia en la etapa de recolección/manejo, producción agrícola, acopio, transformación, comercialización y consumo o cualquiera de ellas, y con diferentes niveles de responsabilidad;
+
+II. La contribución a la disponibilidad de alimentos para la nutrición y la alimentación sana de toda la población con soberanía alimentaria;
+
+III. La práctica de principios de solidaridad y reciprocidad;
+
+IV. El incremento del ingreso económico familiar;
+
+V. La toma de decisiones y dirección de la actividad productiva a cargo de la familia;
+
+VI. La diversificación productiva y la sustentabilidad de los recursos naturales;
+
+VII. La conservación, promoción y respeto por las prácticas y costumbres productivas de los pueblos y comunidades indígenas y afromexicanas, y
+
+VIII. Ser una alternativa a los sistemas convencionales de producción.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+ARTÍCULO 127 QUATER.- El Estado y los Municipios deberán incluir de manera preferencial a los productores de la agricultura familiar en las acciones y políticas derivadas de la presente ley.
+
+Asimismo, en las políticas, planes, programas, proyectos que se formulen y ejecuten en la producción, industrialización, comercialización de productos agropecuarios, deberán contemplar en su instrumentación a la agricultura familiar y el mejoramiento de sus condiciones de vida.
+
+### CAPÍTULO XV. DEL BIENESTAR SOCIAL Y LA ATENCIÓN PRIORITARIA A ZONAS MARGINADAS
 
 ###### ARTÍCULO 128.
 
@@ -1477,9 +1559,7 @@ Para la atención de grupos vulnerables vinculados al sector rural, específicam
 
 La Secretaría, con la participación del Consejo Estatal, propondrá programas especiales para la defensa de los derechos humanos, el apoyo a la población de mayor marginación y el apoyo a la población migrante, así como medidas tendientes a su arraigo en su lugar de origen.
 
-### CAPÍTULO XVII. DE LA SEGURIDAD ALIMENTARIA
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+### CAPÍTULO XVI. DE LA SUSTENTABILIDAD DE LA PRODUCCIÓN RURAL
 
 ###### ARTÍCULO 135.
 
@@ -1535,7 +1615,9 @@ La Secretaría prestará asesoría técnica y legal para que los interesados for
 
 Los contratos para los efectos del cuidado y la protección de la naturaleza, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y Ley General de Vida Silvestre, requerirán autorización de la Secretaría del Medio Ambiente y Recursos Naturales para tener validez legal.
 
-### CAPÍTULO XVIII. DEL ARBITRAJE DE PROCESOS Y PRODUCTOS DE LA SOCIEDAD RURAL
+### CAPÍTULO XVII. DE LA SEGURIDAD ALIMENTARIA
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 147.
 
@@ -1581,13 +1663,19 @@ VIII. La aplicación de medidas de certidumbre económica, financiera y comercia
 
 IX. La prevención del desperdicio de alimentos.
 
-### CAPÍTULO I. DE LOS APOYOS ECONÓMICOS
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+X. El estímulo para la producción de maíz nativo.
+
+### CAPÍTULO XVIII. DEL ARBITRAJE DE PROCESOS Y PRODUCTOS DE LA SOCIEDAD RURAL
 
 ###### ARTÍCULO 152.
 
 El Gobierno del Estado a través de la Secretaría, con la participación del Consejo Estatal, apoyará y promoverá, en lo conducente, que el Servicio Nacional de Arbitraje en el Sector Rural, como instancia que tiene como objeto resolver las controversias que se presenten, dando certidumbre y confianza a las partes respecto de las transacciones a lo largo de las cadenas productivas y de mercado, en materia de calidad, cantidad y oportunidad de los productos en el mercado; servicios financieros; servicios técnicos; equipos; tecnología y bienes de producción.
 
 ## TÍTULO CUARTO
+
+### CAPÍTULO I. DE LOS APOYOS ECONÓMICOS
 
 ###### ARTÍCULO 153.
 
@@ -1730,5 +1818,23 @@ P.O. 18 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1477.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 13 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1522.- MEDIANTE EL CUAL ADICIONAN LAS FRACCIONES IV BIS Y XXVI AL ARTÍCULO 4, Y EL CAPÍTULO XIV BIS DENOMINADO “DE LA AGRICULTURA FAMILIAR”, QUE CONTIENE LOS ARTÍCULOS 127 BIS, 127 TER Y 127 QUATER, AL TITULO TERCERO DENOMINADO “DEL FOMENTO DE DESARROLLO RURAL SUSTENTABLE” DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1523.- MEDIANTE EL CUAL REFORMAN LAS FRACCIÓNES III DEL ARTÍCULO 3, V Y VI DEL ARTÍCULO 7, XII DEL ARTÍCULO 39; Y SE ADICIONAN LAS FRACCIONES XXXVI Y XXXVII AL ARTÍCULO 4, LA FRACCIÓN VII AL ARTÍCULO 7, UN TERCER PÁRRAFO AL ARTÍCULO 93 Y LA FRACCIÓN X AL ARTÍCULO 151, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
