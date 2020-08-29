@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-fiscalia-general-del-estado-de-oaxaca-110305
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-06"
-last_updated: "2018-09-22"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 6 de octubre de 2015.
 
@@ -209,9 +209,13 @@ XXIII. Implementar un sistema de control y evaluación de la gestión institucio
 
 XXIV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. Se reservará la información cuya divulgación pueda poner en riesgo la seguridad de las personas que intervienen en un procedimiento penal o las investigaciones que realice el Ministerio Público y mantendrá la confidencialidad de los datos personales, en los términos que disponga la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables;
 
-XXV. Constituir y administrar su archivo, y
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-XXVI. Las que señalen las legislaciones generales, nacionales, federales y estatales que sean aplicables, así como el Reglamento, el Reglamento del Servicio y demás disposiciones aplicables.
+XXV. Crear la Base Estadística de Violencia Política contra las Mujeres en razón de Género;
+
+XXVI. Constituir y administrar su archivo, y
+
+XXVII. Las que señalen las legislaciones generales, nacionales, federales y estatales que sean aplicables, así como el Reglamento, el Reglamento del Servicio y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DE LAS FUNCIONES DEL MINISTERIO PÚBLICO
 
@@ -1760,3 +1764,11 @@ PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su
 SEGUNDO. Se derogan aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
 
 TERCERO. El Reglamento conforme a la estructura prevista en el presente Decreto deberá modificarse por el Fiscal General dentro de los treinta días naturales siguientes al de la entrada en vigor del presente Decreto, debiendo publicarse en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1536.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXV RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 4 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
