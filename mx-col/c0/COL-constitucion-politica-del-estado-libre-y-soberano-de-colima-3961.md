@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2019-08-03"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -137,17 +137,23 @@ XIII. A acceder a un transporte público de calidad, digno y eficiente el Estado
 
 XIV. Al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. La Ley establecerá la forma, términos y condiciones en que se ejercerá este derecho.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 3°
 
-La familia constituye la base de la sociedad. El Estado fomentará su organización y desarrollo; por ello, el hogar, y particularmente la niñez, serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de la familia y de la niñez se considerarán de orden público.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+Las familias constituyen la base de la sociedad. El Estado fomentará su organización y desarrollo; por ello, el hogar, las mujeres, las personas con discapacidad, los adultos mayores, las niñas y los niños, tienen derecho a un entorno familiar seguro, y serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de las familias y los sectores sociales mencionados se considerarán de orden público.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Tendrán derecho, hasta la edad de dieciocho años, a recibir servicios médicos adecuados, de manera gratuita, en las instituciones de salud del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos y del interés superior del niño.
 
-Las autoridades del Estado y de los municipios garantizarán de manera plena los derechos de la niñez y velarán por el interés superior del niño. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Además, colaborarán con la familia en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+Las autoridades del Estado y de los municipios garantizarán de manera plena los derechos de la niñez y velarán por el interés superior del niño. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Además, colaborarán con las familias en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -688,6 +694,10 @@ La Ley Orgánica del Poder Legislativo y su Reglamento establecerán los términ
 Artículo 32
 
 Corresponde al Congreso dictar las disposiciones generales que regulen su organización y funcionamiento internos, en las que deberá observar el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+La Ley Orgánica del Poder Legislativo, sus reformas y adiciones, así como su Reglamento, no podrán ser objeto de veto, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -2235,11 +2245,27 @@ Los actos de gobierno de las autoridades municipales podrán ser sometidos a ple
 
 #### SECCIÓN I. DE LOS SERVICIOS DE EDUCACIÓN
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 97
 
-Los gobiernos del Estado y los municipios impartirán la educación de tipo básico, comprendiendo los niveles de preescolar, primaria y secundaria, así como la educación media superior, en coordinación con el Gobierno Federal y de conformidad con lo dispuesto por la Constitución Federal, la presente Constitución y las leyes y los reglamentos relativos a la materia. La educación preescolar, la primaria, la secundaria y la media superior son obligatorias.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+Los gobiernos del Estado y los municipios impartirán la educación de tipo básico, comprendiendo los niveles de preescolar, primaria y secundaria, así como la educación media superior, en coordinación con el Gobierno Federal y de conformidad con lo dispuesto por la Constitución Federal, la presente Constitución y las leyes y los reglamentos relativos a la materia. La educación preescolar, la primaria, la secundaria y la media superior son obligatorias. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+Corresponde al Estado la rectoría de la educación, la impartida por éste, además de obligatoria, será universal, inclusiva, pública, gratuita y laica.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+El derecho Humano a la Educación se basará en lo establecido en el artículo 3o. de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -2249,7 +2275,9 @@ Los particulares podrán impartir educación en todos sus tipos y modalidades. E
 
 En el caso de la educación primaria, secundaria y normal, los particulares deberán:
 
-I. Impartir la educación con apego a los mismos fines y criterios, así como cumplir los planes y programas a que se refiere el segundo párrafo y las fracciones II y III del artículo 3° de la Constitución Federal; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+I. Impartir la educación con apego a los mismos fines y criterios, así como cumplir los planes y programas a que se refieren los párrafos cuarto, décimo primero y décimo segundo, así como la fracción II, del artículo 3o. de la Constitución Federal, y
 
 II. Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley.
 
@@ -3772,6 +3800,26 @@ Con respecto a los derechos de la naturaleza en términos de lo dispuesto en el 
 TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 1° de esta Constitución, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
 
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 301.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 3º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 302.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 303.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 97, PRIMER PÁRRAFO, Y 98, FRACCIÓN I, Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 97 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- En relación con lo dispuesto en el segundo párrafo que se adiciona al artículo 97 de la Constitución Política del Estado Libre y Soberano de Colima en el presente Decreto, resultará aplicable, en lo conducente, lo dispuesto en los Artículos Transitorios Segundo y Tercero del Decreto por el que se declara reformado el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o., y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 09 de febrero de 2012 en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO ÚNICO.
 
