@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-h-7002"
 country: "mx"
 rank: "ley"
 publication_date: "1974-05-11"
-last_updated: "1989-01-21"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 11 de mayo de 1974.
 
@@ -587,7 +587,9 @@ II.- Las acciones de los funcionarios para suspender a los empleados por causas 
 
 III.- Las acciones de los empleados para volver a ocupar el puesto que hayan dejado por accidente o por enfermedad, contándose el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
 
-IV.- Las acciones de los empleados para reclamar separación injustificada, a partir del momento en que les sea notificada dicha separación.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+IV.- Las acciones de los empleados para reclamar separación injustificada, contados a partir del día siguiente a la fecha de la separación.
 
 ###### Artículo 71.
 
@@ -794,3 +796,11 @@ Al C....
 P.O. 21 DE ENERO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor a los diez días siguientes de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1577.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 70 DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUÁREZ".]
+
+SEGUNDO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+PRIMERO (SIC). Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
