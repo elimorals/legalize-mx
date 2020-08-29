@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-para-el-fomento-de-la-cultura-de-la-legalidad-13024
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-15"
-last_updated: "2018-06-15"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL PARA EL FOMENTO DE LA CULTURA DE LA LEGALIDAD DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 15 de junio de 2018.
 
@@ -341,9 +341,11 @@ Las autoridades estatales y municipales, están obligadas a observar los lineami
 
 ## TÍTULO QUINTO. INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 29.
 
-Cualquier infracción cometida en contravención a lo dispuesto en la presente Ley, se substanciará y sancionará en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca o el Código Penal para el Estado Libre y Soberano de Oaxaca, según corresponda.
+Cualquier infracción cometida en contravención a lo dispuesto en la presente Ley, se substanciará y sancionará en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca o el Código Penal para el Estado Libre y Soberano de Oaxaca, según corresponda.
 
 TRANSITORIOS:
 
@@ -360,3 +362,13 @@ QUINTO.- Los Consejos Municipales se instalarán en el plazo de los noventa día
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 15 de Abril de 2018.- Dip. José de Jesús Romero López, Presidente.- Dip. María de Jesús Melgar Vásquez, Secretaria.- Dip. Silvia Flores Peña, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando qua se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 24 de Abril de 2018. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1528.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 29 DE LA LEY ESTATAL PARA EL FOMENTO DE LA CULTURA DE LA LEGALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
