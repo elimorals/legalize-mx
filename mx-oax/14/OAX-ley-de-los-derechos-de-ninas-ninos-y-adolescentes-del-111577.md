@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2020-02-29"
+last_updated: "2020-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -979,7 +979,9 @@ Para los efectos del presente capítulo, se entiende por cultura al conjunto de 
 
 Las niñas, niños y adolescentes migrantes por el solo hecho de transitar por el territorio del Estado de Oaxaca, gozan de los derechos señalados en este Título, con mayor énfasis a la alimentación, hospedaje, atención médica y seguridad física, que toda autoridad estatal o municipal está obligada a brindar sin demora alguna, con independencia de su situación migratoria.
 
-La inobservancia a este precepto, por parte de las autoridades estatales o municipales, será sancionada conforme a lo dispuesto por el Código Penal del Estado de Oaxaca, con independencia a las sanciones administrativas que señale la Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Oaxaca así como la demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+La inobservancia a este precepto, por parte de las autoridades estatales o municipales, será sancionada conforme a lo dispuesto por el Código Penal del Estado de Oaxaca, con independencia a las sanciones administrativas que señale la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, así como la demás normatividad aplicable.
 
 En tanto el Instituto Nacional de Migración determine la condición migratoria de la niña, niño o adolescente, el Sistema DIF Estatal en coordinación con los Sistemas DIF Municipales, deberán brindar la protección que prevé esta Ley y demás disposiciones aplicables.
 
@@ -1651,6 +1653,8 @@ Los resultados de las evaluaciones serán entregados al Congreso del Estado.
 
 ### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS, DE LAS SANCIONES Y RECURSOS
 
 ###### Artículo 126.
@@ -1713,7 +1717,9 @@ Las sanciones por la violación a esta Ley son:
 
 I. Amonestación, advertencia de la autoridad competente, dirigida al infractor, haciéndole ver las consecuencias de la responsabilidad administrativa que cometió, excitándolo a la enmienda y conminándolo con que se le impondrá una sanción mayor si reincidiere.
 
-II. Multa, sanción pecuniaria, impuesta por la autoridad competente; para personas morales de 10 a 500 veces el salario mínimo vigente; para servidores públicos se estará a lo señalado en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; y, para personas físicas se estará a lo señalado en los párrafos quinto y sexto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+II. Multa, sanción pecuniaria, impuesta por la autoridad competente; para personas morales de 10 a 500 veces el valor diario de la Unidad de Medida y Actualización; para servidores públicos se estará a lo señalado en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y, para personas físicas se estará a lo señalado en los párrafos quinto y sexto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 III. Clausura, disposición fundada, de alcance provisional o permanente, dictada por autoridad competente, que con carácter preventivo o sancionador, limita, restringe o prohíbe el funcionamiento, la explotación y la realización de una actividad o el ingreso a un establecimiento, comercio, local o puesto o impide el uso de algún bien, artefacto o instalación que se encuentre en infracción; para su imposición la autoridad deberá de tomar en cuenta lo señalado en el artículo 52 de esta Ley, y
 
@@ -1739,7 +1745,7 @@ Corresponde al Sistema DIF la interpretación y aplicación de las sanciones pre
 
 ###### Artículo 133.
 
-Los actos y resoluciones dictadas por las autoridades estatales o municipales, con fundamento en las disposiciones de esta Ley y demás derivadas de su aplicación, son recurribles en términos de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Los actos y resoluciones dictadas por las autoridades estatales o municipales, con fundamento en las disposiciones de esta Ley y demás derivadas de su aplicación, son recurribles en términos de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1866,3 +1872,11 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1270.- MEDIANTE EL CUAL REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 9; SE ADICIONA EL TERCER PÁRRAFO, RECORRIENDO EL SUBSECUENTE, AL ARTÍCULO 83 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1524.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 78, LA FRACCIÓN II DEL ARTÍCULO 130 Y EL ARTÍCULO 133, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
