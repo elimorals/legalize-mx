@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2020-08-08"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1307,6 +1307,10 @@ La concesión estará sujeta a su renovación cada cinco años y en la fracción
 
 Las concesiones se otorgarán en favor de personas físicas o morales de nacionalidad mexicana, que acrediten documentalmente contar con la capacidad legal, administrativa, técnica y financiera necesaria para proporcionar un servicio eficiente y de calidad.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+Dentro de los ciento ochenta días naturales anteriores a la conclusión del periodo constitucional de gobierno, queda estrictamente prohibido otorgar nuevas concesiones de transporte público; de igual manera, se deberán respetar los plazos establecidos en la legislación electoral del Estado.
+
 ###### Artículo 109.
 
 En los títulos de concesión se establecerán las condiciones, términos, limitaciones, áreas y rutas, para prestarse el servicio público de transporte las cuales serán obligatorias para el concesionario.
@@ -1885,9 +1889,21 @@ III. Cuando el titular cometa alguna infracción a la presente Ley o sus reglame
 
 IV. Cuando al titular se le sancione en dos ocasiones con la suspensión del permiso o la licencia de conducir;
 
-V. Cuando se compruebe que la información proporcionada para su expedición es falsa, o bien que alguno de los documentos presentados es falso o alterado, en cuyo caso se dará vista a la autoridad competente, y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-VI. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, el titular cause lesiones que pongan en peligro la seguridad o la vida de los usuarios.
+V. Cuando se compruebe que la información proporcionada para su expedición es falsa, o bien que alguno de los documentos presentados es falso o alterado, en cuyo caso se dará vista a la autoridad competente;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+VI. Cuando por motivo de su negligencia, impericia, falta de cuidado o irresponsabilidad, el titular cause lesiones que pongan en peligro la seguridad o la vida de los usuarios, y
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+VII. Cuando la persona responsable cause un accidente de tránsito bajo los influjos de alcohol, drogas, psicotrópicos, estupefacientes u otras sustancias análogas, y que por este hecho ocasione lesiones de carácter permanente o la muerte de la y/o las personas.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+Dicha cancelación se realizará sin perjuicio de las sanciones civiles o penales que correspondan al conductor.
 
 ###### Artículo 177.
 
@@ -2602,3 +2618,19 @@ P.O. 8 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1526.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 176 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1570.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO DEL ARTÍCULO 108 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
