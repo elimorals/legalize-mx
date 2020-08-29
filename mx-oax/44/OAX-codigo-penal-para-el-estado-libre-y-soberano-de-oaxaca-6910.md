@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-04-18"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,23 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
 
-Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
+Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
-ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República"
 
-QUE LA HONORABLE LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
+CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-LA QUINCUAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 
-DECRETA:
+D E C R E T O
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
+
+LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
 # LIBRO PRIMERO.
 
@@ -81,817 +83,381 @@ Del hecho típico.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-### CAPITULO I.
+### Capítulo I. Disposiciones Generales
 
-Del delito.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+### Capítulo II. De las autoridades
 
-6o.- El delito puede ser realizado por acción o por omisión.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+###### ARTICULO 19.
 
-Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad.
+La Secretaría determinará la política de protección al consumidor, que constituye uno de los instrumentos sociales y económicos del Estado para favorecer y promover los intereses y derechos de los consumidores. Lo anterior, mediante la adopción de las medidas que procuren el mejor funcionamiento de los mercados y el crecimiento económico del país.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si:
+Dicha Secretaría está facultada para expedir normas oficiales mexicanas y normas mexicanas respecto de:
 
-I. Es garante del bien jurídico;
+I. Productos que deban expresar los elementos, substancias o ingredientes de que estén elaborados o integrados así como sus propiedades, características, fecha de caducidad, contenido neto y peso ó masa drenados, y demás datos relevantes en los envases, empaques, envolturas, etiquetas o publicidad, que incluyan los términos y condiciones de los instructivos y advertencias para su uso ordinario y conservación;
 
-II. De acuerdo con las circunstancias podía evitarlo, y
+II. La tolerancia admitida en lo referente a peso y contenido de los productos ofrecidos en envases o empaques, así como lo relativo a distribución y manejo de gas L. P.;
 
-III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+III. La forma y términos en que deberá incorporarse la información obligatoria correspondiente en los productos a que se refieren las fracciones anteriores;
 
-Es garante del bien jurídico el que:
+IV. Los requisitos de información a que se someterán las garantías de los productos y servicios, salvo que estén sujetos a la inspección o vigilancia de otra dependencia de la administración pública federal, en cuyo caso ésta ejercerá la presente atribución;
 
-a) Aceptó efectivamente su custodia;
+V. Los requisitos que deberán cumplir los sistemas y prácticas de comercialización de bienes;
 
-b) Voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza;
+VI. Los productos que deberán observar requisitos especiales para ostentar el precio de venta al público de los productos, cualesquiera que éstos sean, en sus envases, empaques o envolturas o mediante letreros colocados en el lugar donde se encuentren para su expendio, donde se anuncien u ofrezcan al público, así como la forma en que deberán ostentarse;
 
-c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico; o,
+VII. Los términos y condiciones a que deberán ajustarse los modelos de contratos de adhesión que requieran de inscripción en los términos de esta ley;
 
-d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
+VIII. Características de productos, procesos, métodos, sistemas o prácticas industriales, comerciales o de servicios que requieran ser normalizados de conformidad con otras disposiciones; y
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+IX. Los demás que establezcan esta ley y otros ordenamientos.
 
-8o.- Los delitos pueden ser dolosa o culposamente realizados.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I. Actúa con dolo la persona que al momento de la realización del hecho se representa el resultado típico y quiere o acepta su realización.
+La Secretaría, en los casos en que se requiera, emitirá criterios y lineamientos para la interpretación de las normas a que se refiere este precepto.
 
-II. Actúa culposamente quien al momento de la realización del hecho típico infringe un deber objetivo de cuidado que, bajo las circunstancias concretas del hecho, podía y debía haber observado.
+###### ARTICULO 20.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+La Procuraduría Federal del Consumidor es un organismo descentralizado de servicio social con personalidad jurídica y patrimonio propio. Tiene funciones de autoridad administrativa y está encargada de promover y proteger los derechos e intereses del consumidor y procurar la equidad y seguridad jurídica en las relaciones entre proveedores y consumidores. Su funcionamiento se regirá por lo dispuesto en esta ley, los reglamentos de ésta y su estatuto.
 
-9o.- El delito es:
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
+###### ARTICULO 21.
 
-II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo; y
+El domicilio de la Procuraduría será la Ciudad de México y establecerá delegaciones en todas las entidades federativas y el Distrito Federal. Los tribunales federales serán competentes para resolver todas las controversias en que sea parte.
 
-III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas y tratándose de bienes jurídicos, disponibles del mismo sujeto pasivo se viola el mismo precepto legal.
+###### ARTICULO 22.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+La Procuraduría se organizará de manera desconcentrada para el despacho de los asuntos a su cargo, con oficinas centrales, delegaciones, subdelegaciones y demás unidades administrativas que estime convenientes, en los términos que señalen los reglamentos y su estatuto.
 
-10.- Los delitos pueden ser consumados o de tentativa:
+###### ARTICULO 23.
 
-I.- Existe consumación cuando el agente con su acción u omisión, lesiona el bien jurídico; y
+El patrimonio de la Procuraduría estará integrado por:
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+I. Los bienes con que cuenta;
 
-II. Existe tentativa, cuando la resolución de cometer un delito se exterioriza realizando en parte o totalmente los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo si por causas ajenas al agente, no hay consumación pero si puesta en peligro del bien jurídico.
+II. Los recursos que directamente le asigne el Presupuesto de Egresos de la Federación;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-### CAPITULO II.
+III. Los recursos que le aporten las dependencias y entidades de la administración pública federal, estatal, municipal y del gobierno del Distrito Federal;
 
-De la autoría y participación.
+IV. Los ingresos que perciba por los servicios que proporcione en los términos que señale la ley de la materia; y
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+V. Los demás bienes que adquiera por cualquier otro título legal.
 
-11.- Son autores o partícipes del delito:
+###### ARTICULO 24.
 
-I.- Los que acuerden o preparen su realización;
+La Procuraduría tiene las siguientes atribuciones:
 
-II.- Los que lo realicen por sí;
+I. Promover y proteger los derechos del consumidor, así como aplicar las medidas necesarias para propiciar la equidad y seguridad jurídica en las relaciones entre proveedores y consumidores;
 
-III.- Los que lo realicen conjuntamente;
+II. Procurar y representar los intereses de los consumidores, mediante el ejercicio de las acciones, recursos, trámites o gestiones que procedan;
 
-IV.- Los que lo lleven a cabo sirviéndose de otro;
+III. Representar individualmente o en grupo a los consumidores ante autoridades jurisdiccionales y administrativas, y ante los proveedores;
 
-V.- Los que determinen dolosamente a otro a cometerlo;
+IV. Recopilar, elaborar, procesar y divulgar información objetiva para facilitar al consumidor un mejor conocimiento de los bienes y servicios que se ofrecen en el mercado.
 
-VI.- Los que dolosamente presten ayuda o auxilien a otro para su comisión; y
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-VII.- Los que con posterioridad a su ejecución, auxilien al delincuente, en cumplimiento a una promesa anterior al delito.
+En el caso de servicios educativos proporcionados por particulares, deberá informar a las y los consumidores, la publicación señalada en el segundo párrafo del artículo 56 de la Ley General de Educación así como la aptitud del personal administrativo que labora en el plantel;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-12.- Si varios sujetos toman parte en la realización de un delito determinado y alguno de ellos comete otro delito, sin previo acuerdo con los otros, todos serán considerados autores de la comisión del nuevo delito en cualesquiera de las hipótesis siguientes:
+V. Formular y realizar programas de educación para el consumo, así como de difusión y orientación respecto de las materias a que se refiere esta ley;
 
-a).- Que el nuevo delito hubiese servido de medio adecuado para cometer el principal;
+VI. Orientar a la industria y al comercio respecto de las necesidades y problemas de los consumidores;
 
-b).- Que el nuevo delito fuere una consecuencia necesaria o natural del realizado o de los medios concertados;
+VII. Realizar y apoyar análisis, estudios e investigaciones en materia de protección al consumidor;
 
-c).- Que los participes supieran previamente que se iba a cometer un nuevo delito; o
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-d).- Que habiendo estado presentes en la ejecución del nuevo delito, no hubieren hecho cuanto estaba de su parte para impedirlo.
+VIII. Promover y realizar directamente, en su caso, programas educativos y de capacitación en las materias a que se refiere esta ley y prestar asesoría a consumidores y proveedores;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+IX. Promover nuevos o mejores sistemas y mecanismos que faciliten a los consumidores el acceso a bienes y servicios en mejores condiciones de mercado;
 
-13.- Cuando sin acuerdo previo, varios sujetos intervengan en la comisión de un delito y no se pueda precisar el resultado que cada quien produjo, a todos se les aplicará la sanción prevista en el artículo 60.
+(ADICIONADA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+IX bis. Promover en coordinación con la Secretaría la formulación, difusión y uso de códigos de ética, por parte de proveedores, que incorporen los principios previstos por esta Ley respecto de las transacciones que celebren con consumidores a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología;
 
-###### Artículo 19.
+X. Actuar como perito y consultor en materia de calidad de bienes y servicios y elaborar estudios relativos;
 
-El Ejecutivo Federal, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos o de excedentes de ingresos propios de las entidades, conforme a lo siguiente:
+XI. Celebrar convenios con proveedores y consumidores y sus organizaciones para el logro de los objetivos de esta ley;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de éste y el artículo siguiente, deberán destinarse en primer término a compensar el incremento en el gasto no programable respecto del presupuestado, por concepto de participaciones; costo financiero, derivado de modificaciones en la tasa de interés o del tipo de cambio; adeudos de ejercicios fiscales anteriores para cubrir, en su caso, la diferencia con el monto estimado en la Ley de Ingresos correspondiente, así como a la atención de desastres naturales a que se refiere el artículo 37 de esta Ley.
+XII. Celebrar convenios y acuerdos de colaboración con autoridades federales, estatales, municipales, del gobierno del Distrito Federal y entidades paraestatales en beneficio de los consumidores; así como acuerdos interinstitucionales con otros países, de conformidad con las leyes respectivas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA IV, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+XIII. Vigilar y verificar el cumplimiento de las disposiciones en materia de precios y tarifas establecidos o registrados por la autoridad competente y coordinarse con otras autoridades legalmente facultadas para inspeccionar precios para lograr la eficaz protección de los intereses del consumidor y, a la vez evitar duplicación de funciones;
 
-Las erogaciones adicionales necesarias para cubrir los incrementos en los apoyos a tarifas eléctricas a que se refiere la Ley de la Industria Eléctrica, con respecto a las estimaciones aprobadas en el Presupuesto de Egresos, procederán como ampliaciones automáticas con cargo a los ingresos excedentes a que se refiere esta fracción. Dichas ampliaciones únicamente aplicarán por el incremento en apoyos que esté asociado a mayores costos de combustibles.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-El remanente de los ingresos excedentes a que se refiere la presente fracción, se destinará en los términos de la fracción IV de este artículo;
+XIV. Vigilar y verificar el cumplimiento de las disposiciones contenidas en esta ley y, en el ámbito de su competencia, las de la Ley Federal sobre Metrología y Normalización, así como de las normas oficiales mexicanas y demás disposiciones aplicables, y en su caso determinar los criterios para la verificación de su cumplimiento;
 
-II. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, ésta podrá autorizar las ampliaciones a los presupuestos de las dependencias o entidades que los generen, hasta por el monto de los ingresos excedentes obtenidos que determinen dichas leyes o, en su caso, la Secretaría.
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-La Secretaría deberá informar a la Cámara de Diputados sobre las autorizaciones que emita en los términos de las leyes fiscales, para otorgar un destino específico a los ingresos excedentes a que se refiere esta fracción, dentro de los 30 días naturales siguientes a que emita dichas autorizaciones;
+XIV bis. Verificar que las pesas, medidas y los instrumentos de medición que se utilicen en transacciones comerciales, industriales o de servicios sean adecuados y, en su caso, realizar el ajuste de los instrumentos de medición en términos de lo dispuesto en la Ley Federal sobre Metrología y Normalización;
 
-III. Los excedentes de ingresos propios de las entidades se destinarán a las mismas, hasta por los montos que autorice la Secretaría, conforme a las disposiciones aplicables.
+XV. Registrar los contratos de adhesión que lo requieran, cuando cumplan la normatividad aplicable, y organizar y llevar el Registro Público de contratos de adhesión;
 
-En el caso de las entidades reconocidas como centros públicos de investigación, sus excedentes de ingresos propios se destinarán a las mismas, sin requerir autorización de la Secretaría, a la cual se le informará en cuanto a su monto, origen y criterios de aplicación.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-IV. Los ingresos excedentes a que se refiere el último párrafo de la fracción I de este artículo una vez realizadas, en su caso, las compensaciones entre rubros de ingresos a que se refiere el artículo 21 fracción I de esta Ley, se destinarán a lo siguiente:
+XVI. Procurar la solución de las diferencias entre consumidores y proveedores y, en su caso, emitir dictámenes en donde se cuantifiquen las obligaciones contractuales del proveedor, conforme a los procedimientos establecidos en esta ley;
 
-a) En un 25% al Fondo de Estabilización de los Ingresos de las Entidades Federativas;
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+XVII. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delitos y que sean de su conocimiento y, ante las autoridades competentes, los actos que constituyan violaciones administrativas que afecten la integridad e intereses de las y los consumidores;
 
-b) (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+XVIII. Promover y apoyar la constitución de organizaciones de consumidores, proporcionándoles capacitación y asesoría, así como procurar mecanismos para su autogestión;
 
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-c) En un 65% al Fondo de Estabilización de los Ingresos Presupuestarios, y
+XIX. Aplicar las sanciones y demás medidas establecidas en esta ley, en la Ley Federal sobre Metrología y Normalización y demás ordenamientos aplicables;
 
-d) En un 10% a programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas. Dichos recursos se destinarán a las entidades federativas conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+XX. Requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente publicar dicho requerimiento;
 
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-Los ingresos excedentes se destinarán a los Fondos a que se refieren los incisos a) y c) de esta fracción, hasta alcanzar una reserva adecuada para afrontar, respectivamente, una caída de la Recaudación Federal Participable o de los ingresos del Gobierno Federal. El monto de dichas reservas, en pesos, será igual al monto que resulte de multiplicar un factor de 0.04 para el caso del inciso a), y de 0.08 para el caso del inciso c), por la suma de las cantidades estimadas en el artículo 1 de la Ley de Ingresos en los conceptos correspondientes a impuestos totales y a las transferencias del Fondo Mexicano del Petróleo.
+XX bis. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la Procuraduría, en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia la denuncia que corresponda;
 
-Los Fondos de Estabilización a que se refiere esta fracción se sujetarán a reglas de operación que deberán ser publicadas en el Diario Oficial de la Federación.
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-En el caso del Fondo de Estabilización de los Ingresos de las Entidades Federativas, los recursos serán administrados por el Banco Nacional de Obras y Servicios Públicos, S.N.C., en calidad de fiduciario del fideicomiso público sin estructura orgánica establecido para tal efecto. Dicho fideicomiso contará con un Comité Técnico conformado por tres representantes de las entidades federativas y tres representantes del Gobierno Federal; la Presidencia de dicho Comité corresponderá a uno de los representantes de las entidades federativas.
+XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
 
-La aplicación de los recursos de los Fondos se sujetará a lo dispuesto en el artículo 21, fracción II, de esta Ley, en los términos de las respectivas reglas de operación; asimismo dichos Fondos podrán recibir recursos de otras fuentes de ingresos establecidas por las disposiciones aplicables, sujetándose a los límites máximos para cada reserva a que se refiere esta fracción. En este último caso, una vez que las reservas alcancen su límite máximo, las contribuciones que tengan como destino los Fondos a que se refieren los incisos a) y c) de esta fracción, cambiarán su destino para aplicarse a lo previsto en la siguiente fracción de este artículo.
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Cuando se realicen erogaciones con cargo a las reservas a que se refiere esta fracción, la restitución de las mismas tendrá prelación con respecto a los destinos previstos en la siguiente fracción;
+XXIII. Las demás que le confieran esta ley y otros ordenamientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+###### ARTICULO 25.
 
-V. Una vez que las reservas del Fondo de Estabilización de los Ingresos de las Entidades Federativas alcancen su límite máximo, los recursos a que se refiere el artículo 87, fracción II, de esta Ley, así como los ingresos excedentes que tengan como destino dicho fondo serán destinados al fondeo de sistemas de pensiones de las entidades federativas. En el caso del Fondo de Estabilización de los Ingresos Presupuestarios, una vez que sus reservas alcancen su límite máximo, los recursos a que se refiere el artículo 87, fracción I, de esta Ley, se destinarán a la Reserva del Fondo, mientras que los ingresos excedentes que tengan como destino el Fondo de Estabilización de los Ingresos Presupuestarios, se podrán destinar a subsanar el déficit presupuestal del Gobierno Federal, a la amortización de pasivos del propio Gobierno Federal o al Fondo Nacional de Infraestructura, en la proporción que el Ejecutivo Federal determine.
+La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar las siguientes medidas de apremio:
 
-Las erogaciones adicionales a que se refiere este artículo se autorizarán en los términos del Reglamento y sólo procederán cuando éstas no afecten negativamente el equilibrio presupuestario o, en su caso, no aumenten el déficit presupuestario.
+I. Apercibimiento;
 
-El Ejecutivo Federal reportará en los informes trimestrales y la Cuenta Pública, las erogaciones adicionales aprobadas en los términos del presente artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+II. Multa de $198.87 a $19,887.70;
 
-###### Artículo 20.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-Los Poderes Legislativo y Judicial y los entes autónomos podrán autorizar erogaciones adicionales a las aprobadas en sus respectivos presupuestos, con cargo a los ingresos excedentes que en su caso generen, siempre y cuando:
+(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-I. Registren ante la Secretaría dichos ingresos en los conceptos correspondientes de la Ley de Ingresos, y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $7,955.08, y
 
-II. Informen a la Secretaría sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
+IV. El auxilio de la fuerza pública.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2009)</small>
 
-Los derechos por expedición de certificaciones, constancias y otros servicios, se causarán y pagarán conforme las cuotas siguientes:
+ARTICULO 25 BIS.- La Procuraduría podrá aplicar las siguientes medidas precautorias cuando se afecte o pueda afectar la vida, la salud, la seguridad o la economía de una colectividad de consumidores:
 
-(NOTA: EL 25 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2022 Y SUS ACUMULADAS 13/2022, 14/2022, 18/2022 Y 22/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+I. Inmovilización de envases, bienes, productos y transportes;
 
-I. POR LA CERTIFICACIÓN DE DATOS O DOCUMENTOS QUE OBREN EN LOS ARCHIVOS MUNICIPALES:
+II. El aseguramiento de bienes o productos en términos de lo dispuesto por el artículo 98 TER de esta Ley;
 
-A) POR CADA HOJA, INCLUYENDO FORMATO. $39.00
+III. Suspensión de la comercialización de bienes, productos o servicios;
 
-B) POR EXPEDIENTES DE HASTA 35 HOJAS. $125.50
+IV. Ordenar el retiro de bienes o productos del mercado, cuando se haya determinado fehacientemente por la autoridad competente que ponen en riesgo la vida o la salud de los consumidores;
 
-- POR HOJA ADICIONAL. $1.90
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-II. Por la expedición de certificados y constancias oficiales. $39.00
+V. Colocación de sellos e información de advertencia, y
 
-No se pagará la cuota a que se refiere esta fracción por la expedición de certificados de escasos recursos.
+VI. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta Ley.
 
-III. Por la prestación de otros servicios:
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-a) Derechos de huellas dactilares. $7.50
+Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción IV de este precepto, previo a la colocación del sello e información respectiva, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta ley, salvo el caso de que se encuentre en riesgo el principio señalado en la fracción X del artículo 1 de la presente ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
 
-###### ARTÍCULO 22.
+Los proveedores están obligados a informar de inmediato a las autoridades si determinan que alguno de sus productos puede implicar riesgos para la vida o la salud de los consumidores.
 
-La consulta de información y documentación que realicen los particulares a las Dependencias de la Administración Pública Municipal o a sus organismos, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla será gratuita, salvo que para su entrega se requiera su impresión o almacenamiento, en cuyo caso se causarán y pagarán de conformidad con las cuotas siguientes:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(NOTA: EL 25 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2022 Y SUS ACUMULADAS 13/2022, 14/2022, 18/2022 Y 22/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
-I. POR LA EXPEDICIÓN DE CERTIFICACIÓN DE DATOS O DOCUMENTOS, POR CADA HOJA. $22.00
+###### ARTICULO 26.
 
-II. Expedición de hojas simples, a partir de la vigésimo primera, por cada hoja. $0.00
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
 
-III. Disco compacto. $0.00
+###### ARTICULO 27.
 
-IV. Memoria USB. $0.00
+El Procurador Federal del Consumidor tendrá las siguientes atribuciones:
 
-No causará el pago de las contribuciones a que se refiere este artículo, cuando las solicitudes de información y documentación se realicen por personas con discapacidad. Para estos efectos, el solicitante deberá hacer constar tal circunstancia al momento de formular su petición.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 23.
+I. Representar legalmente a la Procuraduría, así como otorgar poderes a servidores públicos de la misma, para representarla en asuntos o procedimientos judiciales, administrativos y laborales;
 
-En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán estrictamente a los calendarios de presupuesto autorizados a cada dependencia y entidad en los términos de las disposiciones aplicables, atendiendo los requerimientos de las mismas.
+II. Nombrar y remover al personal al servicio de la Procuraduría, señalándole sus funciones y remuneraciones;
 
-Las dependencias y entidades remitirán a la Secretaría sus proyectos de calendarios en los términos y plazos establecidos por el Reglamento. La Secretaría autorizará los calendarios tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos de los programas, dando prioridad a los programas sociales y de infraestructura.
+III. Crear las unidades que se requieran para el buen funcionamiento de la Procuraduría y determinar la competencia de dichas unidades, de acuerdo con el estatuto orgánico;
 
-La Secretaría queda facultada para elaborar los calendarios de presupuesto de las dependencias y entidades, cuando no le sean presentados en los términos que establezca el Reglamento.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Los calendarios de presupuesto deberán comunicarse por la Secretaría a las dependencias y entidades, así como publicarse en el Diario Oficial de la Federación dentro de los 10 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación. A su vez, las unidades de administración de cada dependencia y entidad deberán comunicar los calendarios de presupuesto correspondientes a sus respectivas unidades responsables, así como publicarlos en el Diario Oficial de la Federación a más tardar 5 días hábiles después de recibir la comunicación por parte de la Secretaría.
+IV. Informar al Secretario de Economía sobre los asuntos que sean de la competencia de la Procuraduría;
 
-Los calendarios a que se refiere el párrafo anterior deberán ser en términos mensuales.
+V. Proponer el anteproyecto de presupuesto de la Procuraduría y autorizar el ejercicio del aprobado;
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+VI. Aprobar los programas de la entidad;
 
-La Secretaría deberá elaborar los calendarios de presupuesto, en términos mensuales, de los Anexos Transversales a que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u), y v) de esta Ley y deberá publicarlos en el Diario Oficial de la Federación a más tardar 15 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+VII. Establecer los criterios para la imposición de sanciones que determina la ley, así como para dejarlas sin efecto, reducirlas, modificarlas o conmutarlas, cuando a su criterio se preserve la equidad; observando en todo momento lo dispuesto por los artículos 132 y 134 del presente ordenamiento;
 
-También se publicará en el Diario Oficial de la Federación el calendario mensual de ingresos derivado de la Ley de Ingresos de la Federación, 15 días hábiles después de la publicación de dicha Ley. La Secretaría deberá entregar a la Cámara de Diputados, la metodología y criterios que hubiese utilizado para la estimación de los ingresos, misma que deberá ser incluida en la citada publicación.
+VIII. Delegar facultades de autoridad y demás necesarias o convenientes en servidores públicos subalternos, sin perjuicio de su ejercicio directo. Los acuerdos relativos se publicarán en el Diario Oficial de la Federación;
 
-La Secretaría cumplirá estrictamente los calendarios de presupuesto autorizados a las dependencias en los términos de las disposiciones aplicables e informará al respecto en los informes trimestrales, por dependencia o entidad, por unidad responsable y por programa.
+IX. Fijar las políticas y expedir las normas de organización y funcionamiento de la Procuraduría;
 
-La Secretaría reportará en los informes trimestrales a la Cámara de Diputados los saldos en líneas globales por dependencia o entidad, por unidad responsable y por programa, para evitar acumulación de saldos o subejercicios presupuestarios.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-Los subejercicios de los presupuestos de las dependencias y entidades que resulten, deberán subsanarse en un plazo máximo de 90 días naturales. En caso contrario dichos recursos se reasignarán a los programas sociales y de inversión en infraestructura que la Cámara de Diputados haya previsto en el Presupuesto de Egresos. La Secretaría estará obligada a reportar al respecto oportunamente a la Cámara, así como hacerle llegar la información necesaria.
+X. Expedir el estatuto orgánico de la Procuraduría, previa aprobación del Secretario de Economía;
 
-###### Artículo 24.
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-La programación y presupuestación del gasto público comprende:
+XI. Expedir lineamientos, criterios y demás normas administrativas que permitan a la Procuraduría el ejercicio de las atribuciones legales y reglamentarias que tenga conferidas, y
 
-I. Las actividades que deberán realizar las dependencias y entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades y metas con base en indicadores de desempeño, contenidos en los programas que se derivan del Plan Nacional de Desarrollo y, en su caso, de las directrices que el Ejecutivo Federal expida en tanto se elabore dicho Plan, en los términos de la Ley de Planeación;
+XII. Las demás que le confiera esta ley y otros ordenamientos.
 
-II. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para el desarrollo de las actividades señaladas en la fracción anterior, y
+###### ARTICULO 28.
 
-III. Las actividades y sus respectivas previsiones de gasto público correspondientes a los Poderes Legislativo y Judicial y a los entes autónomos.
+El Procurador Federal del Consumidor será designado por el Presidente de la República y deberá ser ciudadano mexicano y tener título de licenciado en derecho y haberse desempeñado en forma destacada en cuestiones profesionales, de servicio público, o académicas substancialmente relacionadas con el objeto de esta ley.
 
-###### Artículo 25.
+###### ARTICULO 29.
 
-La programación y presupuestación anual del gasto público, se realizará con apoyo en los anteproyectos que elaboren las dependencias y entidades para cada ejercicio fiscal, y con base en:
+Las relaciones de trabajo entre la Procuraduría y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B) del artículo 123 Constitucional. Dentro del personal de confianza se considerará al que desempeñe funciones directivas, de investigación, vigilancia, inspección, supervisión y demás establecidas en dicha ley. Asimismo, tendrán este carácter quienes se encuentren adscritos a las oficinas superiores, los delegados, subdelegados y los que manejen fondos y valores.
 
-I. Las políticas del Plan Nacional de Desarrollo y los programas sectoriales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Las políticas de gasto público que determine el Ejecutivo Federal a través de la Secretaría;
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
 
-III. La evaluación de los avances logrados en el cumplimiento de los objetivos y metas del Plan Nacional de Desarrollo y los programas sectoriales con base en el Sistema de Evaluación del Desempeño, las metas y avances físicos y financieros del ejercicio fiscal anterior y los pretendidos para el ejercicio siguiente;
+ARTICULO 29 BIS.- La Procuraduría determinará y aplicará controles de confianza para todo su personal en los términos que establezca el Procurador en los lineamientos correspondientes, como medida para asegurar su probidad y honestidad, y en particular tratándose de quienes realicen o supervisen labores de verificación y vigilancia establecidas en el capítulo XII de la propia ley, se les aplicarán, además de los que se establezcan en los lineamientos referidos, exámenes psicológicos, toxicológicos, patrimoniales y socioeconómicos.
 
-IV. El marco macroeconómico de mediano plazo de acuerdo con los criterios generales de política económica a que se refiere el artículo 16 de esta Ley;
+###### ARTICULO 30.
 
-V. El programa financiero del sector público que elabore la Secretaría, y
+El personal de la Procuraduría estará incorporado al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-VI. La interrelación que en su caso exista con los acuerdos de concertación con los sectores privado y social y los convenios de coordinación con los gobiernos de las entidades federativas.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-El anteproyecto se elaborará por unidades responsables de las dependencias y entidades, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas así como los indicadores necesarios para medir su cumplimiento.
+###### ARTICULO 31.
 
-En las previsiones de gasto que resulten deberán definirse el tipo y la fuente de recursos que se utilizarán.
+Para la elaboración de sus planes y programas de trabajo, la Procuraduría llevará a cabo consultas con representantes de los sectores público, social y privado; con instituciones nacionales de educación superior, así como con organizaciones de consumidores. Asimismo, asesorará a la Secretaría en cuestiones relacionadas con las políticas de protección al consumidor y opinará sobre los proyectos de normas oficiales mexicanas y sobre cualquiera otra medida regulatoria que pueda afectar los derechos de los consumidores.
 
-###### Artículo 26.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Los anteproyectos de las entidades comprenderán un flujo de efectivo que deberá contener:
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I. La previsión de sus ingresos, incluyendo en su caso el endeudamiento neto, los subsidios y las transferencias, la disponibilidad inicial y la disponibilidad final;
+### Capítulo III. De la información y publicidad
 
-II. La previsión del gasto corriente, la inversión física, la inversión financiera y otras erogaciones de capital;
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-III. Las operaciones ajenas, y
+###### ARTICULO 32.
 
-IV. En su caso, los enteros a la Tesorería de la Federación.
+La información o publicidad relativa a bienes, productos o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables y exentos de textos, diálogos, sonidos, imágenes, marcas, denominaciones de origen y otras descripciones que induzcan o puedan inducir a error o confusión por engañosas o abusivas.
 
-Las entidades se agruparán en el Presupuesto de Egresos en dos categorías: entidades de control directo y entidades de control indirecto.
+Para los efectos de esta ley, se entiende por información o publicidad engañosa o abusiva aquella que refiere características o información relacionadas con algún bien, producto o servicio que pudiendo o no ser verdaderas, inducen a error o confusión por la forma inexacta, falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenta.
 
-Los flujos de efectivo de las entidades de control presupuestario indirecto se integrarán en los tomos del proyecto de Presupuesto de Egresos.
+La información o publicidad que compare productos o servicios, sean de una misma marca o de distinta, no podrá ser engañosa o abusiva en términos de lo dispuesto en el párrafo anterior. La Procuraduría podrá emitir lineamientos para la verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor.
 
-Las entidades procurarán generar ingresos suficientes para cubrir su costo de operación, sus obligaciones legales y fiscales y, dependiendo de naturaleza y objeto, un aprovechamiento para la Nación por el patrimonio invertido.
+###### ARTICULO 33.
 
-La Secretaría determinará el cálculo del aprovechamiento con base en las disposiciones legales aplicables. El Ejecutivo determinará anualmente su reinversión en las entidades como aportación patrimonial o su entero al erario federal.
+La información de productos importados expresará su lugar de origen y, en su caso, los lugares donde puedan repararse, así como las instrucciones para su uso y las garantías correspondientes, en los términos señalados por esta ley.
 
-###### Artículo 27.
+###### ARTICULO 34.
 
-Los anteproyectos deberán sujetarse a la estructura programática aprobada por la Secretaría, la cual contendrá como mínimo:
+Los datos que ostenten los productos o sus etiquetas, envases y empaques y la publicidad respectiva, tanto de manufactura nacional como de procedencia extranjera, se expresarán en idioma español y su precio en moneda nacional en términos comprensibles y legibles conforme al sistema general de unidades de medida, sin perjuicio de que, además, se expresen en otro idioma u otro sistema de medida.
 
-I. Las categorías, que comprenderán la función, la subfunción, el programa, la actividad institucional, el proyecto y la entidad federativa, y
+###### ARTICULO 35.
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2012)</small>
+Sin perjuicio de la intervención que otras disposiciones legales asignen a distintas dependencias, la Procuraduría podrá:
 
-II. Los elementos, que comprenderán la misión, los objetivos, las metas con base en indicadores de desempeño y la unidad responsable, en congruencia con el Plan Nacional de Desarrollo y con los programas sectoriales, y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2012)</small>
+I. Ordenar al proveedor que suspenda la información o publicidad que viole las disposiciones de esta ley y, en su caso, al medio que la difunda;
 
-III. Las acciones que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género y cualquier forma de discriminación de género.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-La estructura programática facilitará la vinculación de la programación de los ejecutores con el Plan Nacional de Desarrollo y los programas, y deberá incluir indicadores de desempeño con sus correspondientes metas anuales. Deberán diferenciarse los indicadores y metas de la dependencia o entidad de los indicadores y metas de sus unidades responsables. Dichos indicadores de desempeño corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad. Estos indicadores serán la base para el funcionamiento del Sistema de Evaluación del Desempeño.
+II. Ordenar que se corrija la información o publicidad que viole las disposiciones de esta ley en la forma en que se estime suficiente, y
 
-Los entes públicos y los Poderes Legislativo y Judicial incluirán los indicadores de desempeño y metas que faciliten el examen de sus proyectos de presupuesto de egresos.
+III. Imponer las sanciones que correspondan, en términos de esta ley.
 
-La estructura programática deberá ser sencilla y facilitar el examen del Presupuesto y sólo sufrirá modificaciones cuando éstas tengan el objetivo de fortalecer dichos principios, en los términos de las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 28.
+Para los efectos de las fracciones II y III, deberá concederse al infractor la garantía de audiencia a que se refiere el artículo 123 de este ordenamiento.
 
-El proyecto de Presupuesto de Egresos se presentará y aprobará, cuando menos, conforme a las siguientes clasificaciones:
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I. La administrativa, la cual agrupa a las previsiones de gasto conforme a los ejecutores de gasto; mostrará el gasto neto total en términos de ramos y entidades con sus correspondientes unidades responsables;
+Cuando la Procuraduría instaure algún procedimiento administrativo relacionado con la veracidad de la información, podrá ordenar al proveedor que en la publicidad o información que se difunda, se indique que la veracidad de la misma no ha sido comprobada ante la autoridad competente.
 
-II. La funcional y programática, la cual agrupa a las previsiones de gasto con base en las actividades que por disposición legal le corresponden a los ejecutores de gasto y de acuerdo con los resultados que se proponen alcanzar, en términos de funciones, programas, proyectos, actividades, indicadores, objetivos y metas. Permitirá conocer y evaluar la productividad y los resultados del gasto público en cada una de las etapas del proceso presupuestario.
+###### ARTICULO 36.
 
-Asimismo se incluirá en el proyecto de Presupuesto de Egresos una clasificación que presente los distintos programas con su respectiva asignación, que conformará el gasto programático, así como el gasto que se considerará gasto no programático, los cuales sumarán el gasto neto total;
+Se sancionará a petición de parte interesada, en los términos señalados en esta ley, a quien inserte algún aviso en la prensa o en cualquier otro medio masivo de difusión, dirigido nominativa e indubitablemente a uno o varios consumidores para hacer efectivo un cobro o el cumplimiento de un contrato.
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-III. La económica, la cual agrupa a las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, inversión financiera, otras erogaciones de capital, subsidios, transferencias, ayudas, participaciones y aportaciones federales;
+###### ARTICULO 37.
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2012)</small>
+La falta de veracidad en los informes, instrucciones, datos y condiciones prometidas o sugeridas, además de las sanciones que se apliquen conforme a esta ley, dará lugar al cumplimiento de lo ofrecido o, cuando esto no sea posible, a la reposición de los gastos necesarios que pruebe haber efectuado el adquirente y, en su caso, al pago de la bonificación o compensación a que se refiere el artículo 92 TER de esta ley.
 
-IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino geográfico, en términos de entidades federativas y en su caso municipios y regiones, y
+###### ARTICULO 38.
 
-> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2012)</small>
+Las leyendas que restrinjan o limiten el uso del bien o el servicio deberán hacerse patentes en forma clara, veraz y sin ambigüedades.
 
-V. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciando entre mujeres y hombres.
+###### ARTICULO 39.
 
-###### Artículo 29.
+Cuando se expendan al público productos con alguna deficiencia, usados o reconstruidos, deberá advertirse de manera precisa y clara tales circunstancias al consumidor y hacerse constar en los propios bienes, envolturas, notas de remisión o facturas correspondientes.
 
-Las dependencias y entidades deberán remitir a la Secretaría sus respectivos anteproyectos de presupuesto con sujeción a las disposiciones generales, techos y plazos que la Secretaría establezca.
+###### ARTICULO 40.
 
-Las entidades remitirán sus anteproyectos de presupuesto, por conducto de su dependencia coordinadora de sector. Las entidades no coordinadas remitirán sus anteproyectos directamente a la Secretaría.
+Las leyendas "garantizado", "garantía" o cualquier otra equivalente, sólo podrán emplearse cuando se indiquen en qué consisten y la forma en que el consumidor puede hacerlas efectivas.
 
-La Secretaría queda facultada para formular el anteproyecto de presupuesto de las dependencias y entidades, cuando las mismas no lo presenten en los plazos establecidos.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 30.
+###### ARTICULO 41.
 
-Los Poderes Legislativo y Judicial y los entes autónomos enviarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo.
+Cuando se trate de productos o servicios que de conformidad con las disposiciones aplicables, se consideren potencialmente peligrosos para el consumidor o lesivos para el medio ambiente o cuando sea previsible su peligrosidad, el proveedor deberá incluir un instructivo que advierta sobre sus características nocivas y explique con claridad el uso o destino recomendado y los posibles efectos de su uso, aplicación o destino fuera de los lineamientos recomendados. El proveedor responderá de los daños y perjuicios que cause al consumidor la violación de esta disposición, sin perjuicio de lo dispuesto en el artículo 92 TER de esta ley.
 
-En la programación y presupuestación de sus respectivos proyectos, los ejecutores de gasto a que se refiere el párrafo anterior deberán sujetarse a lo dispuesto en esta Ley y observar que su propuesta sea compatible con los criterios generales de política económica.
+###### ARTICULO 42.
 
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, deberán coordinarse con la Secretaría en las actividades de programación y presupuesto, con el objeto de que sus proyectos sean compatibles con las clasificaciones y estructura programática a que se refieren los artículos 27 y 28 de esta Ley.
+El proveedor está obligado a entregar el bien o suministrar el servicio de acuerdo con los términos y condiciones ofrecidos o implícitos en la publicidad o información desplegados, salvo convenio en contrario o consentimiento escrito del consumidor.
 
-###### Artículo 31.
+###### ARTICULO 43.
 
-El precio internacional de la mezcla de petróleo mexicano será determinado por el precio de referencia que resulte del promedio entre los métodos siguientes:
+Salvo cuando medie mandato judicial o disposición jurídica que exija el cumplimiento de algún requisito, ni el proveedor ni sus dependientes podrán negar al consumidor la venta, adquisición, renta o suministro de bienes o servicios que se tengan en existencia. Tampoco podrá condicionarse la venta, adquisición o renta a la adquisición o renta de otro producto o prestación de un servicio. Se presume la existencia de productos o servicios cuando éstos se anuncien como disponibles.
 
-I. El promedio aritmético de los siguientes dos componentes:
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-a) El promedio aritmético del precio internacional mensual observado de la mezcla mexicana en los diez años anteriores a la fecha de estimación;
+Tratándose de servicios, los proveedores que ofrezcan diversos planes y modalidades de comercialización, deberán informar al consumidor sobre las características, condiciones y costo total de cada uno de ellos. En el caso de que únicamente adopten un plan específico de comercialización de servicios, tales como paquetes o sistemas todo incluido, deberán informar a los consumidores con oportunidad y en su publicidad, lo que incluyen tales planes y que no disponen de otros.
 
-b) El promedio de los precios a futuro, a cuando menos tres años del crudo denominado Crudo de Calidad Intermedia del Oeste de Texas, Estados Unidos de América, cotizado en el mercado de Intercambio Mercantil de Nueva York, Estados Unidos de América ajustado por el diferencial esperado promedio, entre dicho crudo y la mezcla mexicana de exportación, con base en los análisis realizados por reconocidos expertos en la materia, o
+Tratándose de contratos de tracto sucesivo, el proveedor podrá realizar una investigación de crédito para asegurarse que el consumidor está en condiciones de cumplirlo; igualmente, no se considerará que se viola esta disposición cuando haya un mayor número de solicitantes que el de bienes o servicios disponibles.
 
-II. El resultado de multiplicar los siguientes dos componentes:
+###### ARTICULO 44.
 
-a) El precio a futuro promedio, para el ejercicio fiscal que se está presupuestando del crudo denominado Crudo de Calidad Intermedia del Oeste de Texas, Estados Unidos de América, cotizado en el mercado de Intercambio Mercantil de Nueva York, Estados Unidos de América, ajustado por el diferencial esperado promedio, entre dicho crudo y la mezcla mexicana de exportación, con base en los análisis realizados por los principales expertos en la materia;
+La Procuraduría podrá hacer referencia a productos, marcas, servicios o empresas en forma específica, como resultado de investigaciones permanentes, técnicas y objetivas, a efecto de orientar y proteger el interés de los consumidores y publicar periódicamente dichos resultados para conocimiento de éstos.
 
-b) Un factor de 84%.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+Los resultados de las investigaciones, encuestas y monitoreos publicados por la Procuraduría no podrán ser utilizados por las empresas o proveedores con fines publicitarios o comerciales.
 
-El Reglamento establecerá los casos y procedimientos en los que podrán utilizarse los precios de otras mezclas de crudo, en lugar de las previstas en las fracciones I, inciso b) y II inciso a) de este artículo, tomando en consideración la opinión de expertos en la materia, siempre y cuando dichas mezclas coticen en los mercados de futuros que sean reconocidos en términos de la Ley del Mercado de Valores.
+###### ARTICULO 45.
 
-El Ejecutivo Federal, por conducto de la Secretaría, elaborará la iniciativa de Ley de Ingresos para el ejercicio fiscal correspondiente, con un precio que no exceda el precio de referencia que se prevé en este artículo.
-
-### CAPITULO III.
-
-De las causas de exclusión del delito.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-14.- El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
-
-Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos que integran la descripción legal del delito, así como el error de tipo.
-
-Son causas de justificación: el consentimiento del titular del bien jurídico, la legítima defensa, el estado de necesidad, el ejercicio de un derecho y el cumplimiento de un deber.
-
-Son causas de inculpabilidad: el error de prohibición, el estado de necesidad disculpante, la inimputabilidad y la inexigibilidad de otra conducta.
-
-A. Causas de atipicidad:
-
-I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo o por caso fortuito;
-
-II. Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
-
-III. Error de tipo: Es aquel que recae sobre alguno de los elementos que integran la descripción legal del delito de que se trate. Para tales efectos, será causa de atipicidad el error de tipo invencible. De igual forma cuando se trate de error vencible y el delito no admita la comisión culposa.
-
-B. Causas de justificación:
-
-I. Consentimiento. Se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
-
-a) Que se trate de un bien jurídico disponible;
-
-b) Que el titular del bien jurídico, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien; y,
-
-c) Que el consentimiento sea expreso o tácito y no medie algún vicio.
-
-Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
-
-II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa, racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
-
-Se presumirá que concurren los requisitos de la legítima defensa, salvo prueba en contrario, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
-
-También se presumirá legítima defensa cuando se trate de impedir o se impida la comisión de un delito a bordo de vehículos destinados al transporte público o privado; así mismo, cuando se produzca un daño en contra de quien esté obstaculizando un camino o carretera con el objeto de cometer un delito; y en general cuando se actúe contra quién se encuentre en algún lugar y en circunstancias tales que revelen la probabilidad de una agresión;
-
-III. Estado de necesidad: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-IV. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
-
-C. Causas de inculpabilidad:
-
-I. Error de prohibición: Se realice la acción u omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta.
-
-II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación.
-
-Cuando la capacidad a que se refiere el párrafo anterior se encuentre disminuida, se estará a lo dispuesto en este código.
-
-IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-15.- Al que se exceda en los casos de legítima defensa, estado de necesidad, cumplimiento de un deber o ejercicio de un derecho, a que se refiere el artículo anterior, se le impondrá la pena del delito culposo.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
-
-16.- Las causas de exclusión del delito se harán valer de oficio cuando se actualice alguna de ellas.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-###### Artículo 32.
-
-En el proyecto de Presupuesto de Egresos se deberán prever, en un capítulo específico, los compromisos plurianuales de gasto que se autoricen en los términos del artículo 50 de esta Ley, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios. En estos casos, los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
-
-En los proyectos de infraestructura productiva de largo plazo incluidos en programas prioritarios a los que se refiere el párrafo tercero del artículo 18 de la Ley General de Deuda Pública, en que la Secretaría, en los términos que establezca el Reglamento, haya otorgado su autorización por considerar que el esquema de financiamiento correspondiente fue el más recomendable de acuerdo a las condiciones imperantes, a la estructura del proyecto y al flujo de recursos que genere, el servicio de las obligaciones derivadas de los financiamientos correspondientes se considerará preferente respecto de nuevos financiamientos, para ser incluido en los Presupuestos de Egresos de los años posteriores hasta la total terminación de los pagos relativos, con el objeto de que las entidades adquieran en propiedad bienes de infraestructura productivos.
-
-Los proyectos a que se refiere el párrafo anterior deberán cubrir los requisitos que, en los términos del Reglamento, establezca la Secretaría en materia de inversión. Dichos proyectos pueden ser considerados:
-
-I. Inversión directa, tratándose de proyectos en los que, por la naturaleza de los contratos, las entidades asumen una obligación de adquirir activos productivos construidos a su satisfacción, y
-
-II. Inversión condicionada, tratándose de proyectos en los que la adquisición de bienes no es el objeto principal del contrato, sin embargo, la obligación de adquirirlos se presenta como consecuencia del incumplimiento por parte de la entidad o por causas de fuerza mayor previstas en un contrato de suministro de bienes o servicios.
-
-La adquisición de los bienes productivos a que se refiere esta fracción tendrá el tratamiento de proyecto de infraestructura productiva de largo plazo, conforme a la fracción I de este artículo, sólo en el caso de que dichos bienes estén en condiciones de generar los ingresos que permitan cumplir con las obligaciones pactadas y los gastos asociados.
-
-Los ingresos que genere cada proyecto de infraestructura productiva de largo plazo, durante la vigencia de su financiamiento, sólo podrán destinarse al pago de las obligaciones fiscales atribuibles al propio proyecto, las de inversión física y costo financiero del mismo, así como de todos sus gastos de operación y mantenimiento y demás gastos asociados, de conformidad con lo dispuesto en el artículo 18 de la Ley General de Deuda Pública. Los remanentes serán destinados a programas y proyectos de inversión de las propias entidades, distintos a proyectos de infraestructura productiva de largo plazo o al gasto asociado de éstos.
-
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-En coordinación con la Secretaría, las entidades que lleven a cabo proyectos de infraestructura productiva de largo plazo deberán establecer mecanismos para atenuar el efecto sobre las finanzas públicas derivado de los incrementos previstos en los pagos de amortizaciones e intereses en ejercicios fiscales subsecuentes, correspondientes a financiamientos derivados de dichos proyectos. Petróleos Mexicanos no podrá realizar los proyectos de infraestructura productiva de largo plazo a que se refieren este artículo y el 18, tercer párrafo, de la Ley General de Deuda Pública.
-
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-En el proyecto de Presupuesto de Egresos se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión en infraestructura en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos hasta por el monto que, como porcentaje del gasto total en inversión del Presupuesto de Egresos, proponga el Ejecutivo Federal tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores; en dicho apartado podrán incluirse los proyectos de infraestructura a que se refiere el párrafo segundo de este artículo. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el Presupuesto de Egresos.
-
-###### Artículo 33.
-
-En el proyecto de Presupuesto de Egresos se deberán presentar en una sección específica las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
-
-I. Las remuneraciones de los servidores públicos y las erogaciones a cargo de los ejecutores de gasto por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y
-
-II. Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
-
-Una vez aprobada la asignación global de servicios personales en el Presupuesto de Egresos, ésta no podrá incrementarse.
-
-###### Artículo 34.
-
-Para la programación de los recursos destinados a programas y proyectos de inversión, las dependencias y entidades deberán observar el siguiente procedimiento, sujetándose a lo establecido en el Reglamento:
-
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-I. Contar con un mecanismo de planeación de las inversiones, en el cual:
-
-a) Se identifiquen los programas y proyectos de inversión en proceso de realización, así como aquéllos que se consideren susceptibles de realizar en años futuros;
-
-b) Se establezcan las necesidades de inversión a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos.
-
-Los mecanismos de planeación a que hace referencia esta fracción serán normados y evaluados por la Secretaría;
-
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-II. Presentar a la Secretaría la evaluación costo y beneficio de los programas y proyectos de inversión que tengan a su cargo, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca el Reglamento, podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria e inmediata de desastres naturales;
-
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-III. Registrar cada programa y proyecto de inversión en la cartera que integra la Secretaría, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el proyecto de Presupuesto de Egresos. La Secretaría podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables, y
-
-> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-IV. Los programas y proyectos registrados en la cartera de inversión serán analizados por la Comisión Intersecretarial de Gasto Financiamiento, la cual determinará la prelación para su inclusión en el proyecto de Presupuesto de Egresos, así como el orden de su ejecución, para establecer un orden de los programas y proyectos de inversión en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
-
-a) Rentabilidad socioeconómica;
-
-b) Reducción de la pobreza extrema;
-
-c) Desarrollo Regional, y
-
-d) Concurrencia con otros programas y proyectos de inversión.
-
-###### Artículo 35.
-
-Las dependencias y entidades podrán realizar todos los trámites necesarios para realizar contrataciones de adquisiciones, arrendamientos, servicios y obra pública, con el objeto de que los recursos se ejerzan oportunamente a partir del inicio del ejercicio fiscal correspondiente.
-
-Las dependencias y entidades, en los términos del Reglamento, podrán solicitar a la Secretaría autorización especial para convocar, adjudicar y, en su caso, formalizar tales contratos, cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se solicite, con base en los anteproyectos de presupuesto.
-
-Los contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes.
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-Las dependencias y entidades podrán obtener la autorización a que se refiere este artículo en relación con los contratos plurianuales a que se refiere el artículo 50 de esta Ley, conforme al procedimiento que establezca el Reglamento.
-
-###### Artículo 36.
-
-Podrán contratarse créditos externos para financiar total o parcialmente programas y proyectos cuando cuenten con la autorización de la Secretaría y los montos para ejercerlos estén previstos en el Presupuesto de Egresos en los términos del Reglamento.
-
-Las dependencias y entidades serán responsables de prever los recursos presupuestarios suficientes para la ejecución de los programas y proyectos financiados con crédito externo, conforme a lo acordado con la fuente de financiamiento. El monto de crédito externo será parte del techo de presupuesto aprobado para estos programas y proyectos, por lo que la totalidad del gasto a ejercerse deberá incluir tanto la parte financiada con crédito externo como la contraparte nacional.
-
-Las dependencias y entidades informarán a la Secretaría del ejercicio de estos recursos, conforme a lo dispuesto en el Reglamento.
-
-La Secretaría establecerá un comité de crédito externo como instancia de coordinación para que sus integrantes analicen la programación, presupuestación, ejercicio y seguimiento de los programas y proyectos financiados con crédito externo.
-
-> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 37.
-
-En el proyecto de Presupuesto de Egresos deberán incluirse las previsiones para llevar a cabo acciones preventivas o ejecutar programas y proyectos para atender los daños ocasionados por fenómenos naturales. El ejercicio de estos recursos se sujetará a las disposiciones que se establezcan en el Presupuesto de Egresos, así como a las disposiciones que emita la Secretaría, los cuales podrán destinarse a cubrir los gastos que se hayan devengado conforme a los fines antes referidos.
-
-Las dependencias y entidades podrán celebrar compromisos plurianuales con cargo a los recursos y para los fines a que se refiere el primer párrafo de este artículo, con sujeción a las disposiciones que emita la Secretaría.
-
-Las entidades federativas y sus municipios que cuenten con disponibilidades de recursos que hayan recibido en términos de lo señalado en este artículo pero que no se hayan podido ejercer conforme a las disposiciones específicas aplicables, deberán concentrarlas en la Tesorería de la Federación por concepto de aprovechamientos y se podrán destinar por la Secretaría para los fines a que se refiere el primer párrafo de este artículo.
-
-###### Artículo 38.
-
-La programación y el ejercicio de recursos destinados a comunicación social se autorizarán por la Secretaría de Gobernación en los términos de las disposiciones generales que para tal efecto emita. Los gastos que en los mismos rubros efectúen las entidades se autorizarán además por su órgano de gobierno.
-
-###### Artículo 39.
-
-La Ley de Ingresos y el Presupuesto de Egresos serán los que apruebe el Congreso de la Unión, y la Cámara de Diputados, respectivamente, con aplicación durante el periodo de un año, a partir del 1 de enero.
-
-En el Presupuesto de Egresos se aprobarán las previsiones de gasto con un nivel de agregación de ramo y programa. En el caso de las entidades, las previsiones de gasto se aprobarán por flujo de efectivo y programa.
-
-El Ejecutivo Federal, por conducto de la Secretaría, podrá incluir en el proyecto de Presupuesto de Egresos como entidades de control directo a aquéllas que tengan un impacto sustantivo en el gasto público federal.
-
-###### Artículo 40.
-
-El proyecto de Ley de Ingresos contendrá:
-
-I. La exposición de motivos en la que se señale:
-
-a) La política de ingresos del Ejecutivo Federal;
-
-b) Los montos de ingresos en los últimos cinco ejercicios fiscales;
-
-c) La estimación de los ingresos para el año que se presupuesta y las metas objetivo de los siguientes cinco ejercicios fiscales;
-
-d) La explicación para el año que se presupuesta sobre los gastos fiscales, incluyendo los estímulos, así como los remanentes de Banco de México y su composición;
-
-e) La propuesta de endeudamiento neto para el año que se presupuesta y las estimaciones para los siguientes cinco ejercicios fiscales;
-
-f) La evaluación de la política de deuda pública de los ejercicios fiscales anterior y en curso;
-
-g) La estimación de las amortizaciones para el año que se presupuesta y el calendario de amortizaciones de los siguientes ejercicios fiscales;
-
-h) La estimación del saldo histórico de los requerimientos financieros del sector público para el año que se presupuesta y los siguientes cinco ejercicios fiscales.
-
-II. El proyecto de decreto de Ley de Ingresos, el cual incluirá:
-
-a) La estimación de ingresos del Gobierno Federal, de las entidades de control directo, así como los ingresos provenientes de financiamiento;
-
-b) Las propuestas de endeudamiento neto del Gobierno Federal, de las entidades y del Distrito Federal, así como la intermediación financiera, en los términos de los artículos 73 y 122 de la Constitución Política de los Estados Unidos Mexicanos;
-
-c) Un apartado que señale el saldo total de la deuda contingente derivada de proyectos de inversión productiva de largo plazo, los ingresos derivados de dichos proyectos, así como, en su caso, los nuevos proyectos a contratar y su monto, por entidad y por tipo de inversión, en los términos de esta Ley y de la Ley General de Deuda Pública;
-
-d) En su caso, disposiciones generales, regímenes específicos y estímulos en materia fiscal, aplicables en el ejercicio fiscal en cuestión;
-
-e) Disposiciones en materia de transparencia fiscal e información que se deberá incluir en los informes trimestrales,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-f) El dividendo estatal que, en su caso, deberán entregar al Gobierno Federal las empresas productivas del Estado y sus empresas productivas subsidiarias, y
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-g) La estimación de los ingresos que generen la Comisión Reguladora de Energía, la Comisión Nacional de Hidrocarburos y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, derivados de las contribuciones y aprovechamientos que cobren por la prestación de sus servicios. Dichos recursos se destinarán a financiar el presupuesto total de cada una de ellas;
-
-III. En caso de considerarse ingresos por financiamiento, se deberá incluir en la Ley de Ingresos:
-
-a) Los ingresos por financiamiento;
-
-b) El saldo y composición de la deuda pública y el monto de los pasivos;
-
-c) El saldo y composición de la deuda del Gobierno Federal y el impacto sobre la misma del techo de endeudamiento solicitado diferenciando el interno del proveniente del exterior;
-
-d) Saldo y composición de la deuda de las entidades y el impacto sobre la misma del techo de endeudamiento solicitado, diferenciando el interno y el externo;
-
-e) Justificación del programa de financiamiento al sector privado y social, las actividades de fomento y los gastos de operación de la banca de desarrollo, así como los fondos de fomento y fideicomisos públicos;
-
-f) La previsión de que, en caso de otorgarse avales y garantías, éstos se ajustarán a lo dispuesto en la normatividad aplicable;
-
-g) Memorias de cálculo con las que se efectuaron las estimaciones presentadas; proyecciones de las amortizaciones y disposiciones a tres años en adición al ejercicio fiscal de que se trate.
-
-###### Artículo 41.
-
-El proyecto de Presupuesto de Egresos contendrá:
-
-I. La exposición de motivos en la que se señale:
-
-a) La política de gasto del Ejecutivo Federal;
-
-b) Las políticas de gasto en los Poderes Legislativo y Judicial y en los entes autónomos;
-
-c) Los montos de egresos de los últimos cinco ejercicios fiscales;
-
-d) La estimación de los egresos para el año que se presupuesta y las metas objetivo de los siguientes cinco ejercicios fiscales;
-
-e) Las previsiones de gasto conforme a las clasificaciones a que se refiere el artículo 28 de esta Ley;
-
-II. El proyecto de Decreto, los anexos y tomos, los cuales incluirán:
-
-a) Las previsiones de gasto de los ramos autónomos;
-
-b) Las previsiones de gasto de los ramos administrativos;
-
-c) Un capítulo específico que incorpore los flujos de efectivo de las entidades de control directo;
-
-d) Un capítulo específico que incorpore los flujos de efectivo de las entidades de control indirecto;
-
-e) Las previsiones de gasto de los ramos generales;
-
-f) Un capítulo específico que incorpore las previsiones de gasto que correspondan a gastos obligatorios;
-
-g) Un capítulo específico que incorpore las previsiones de gasto que correspondan a los compromisos plurianuales;
-
-h) Un capítulo específico que incorpore las previsiones de gasto que correspondan a compromisos derivados de proyectos de infraestructura productiva de largo plazo;
-
-i) Un capítulo específico que incluya las previsiones salariales y económicas a que se refiere el artículo 33, fracción II de esta Ley;
-
-j) Las previsiones de gasto que correspondan a la atención de la población indígena, en los términos del apartado B del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos; asimismo, las previsiones de gasto de los programas especiales cuyos recursos se encuentren previstos en distintos ramos y, en su caso, en los flujos de efectivo de las entidades;
-
-k) En su caso, las disposiciones generales que rijan en el ejercicio fiscal;
-
-l) Un apartado que contenga las principales variaciones que se proponen con respecto al año en curso y su justificación, en términos de las distintas clasificaciones del gasto; los principales programas y, en su caso, aquéllos que se proponen por primera vez;
-
-m) La información que permita distinguir el gasto regular de operación; el gasto adicional que se propone, y las propuestas de ajustes al gasto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-n) (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
-
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
-
-ñ) Un capítulo específico que incorpore las erogaciones plurianuales para proyectos de inversión en infraestructura, aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
-
-o) Las previsiones de gasto que correspondan a las erogaciones para la Igualdad entre Mujeres y Hombres;
-
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
-
-p) Las previsiones de gasto que correspondan a las erogaciones para el Desarrollo de los Jóvenes;
-
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
-
-q) Las previsiones de gasto que correspondan al Programa Especial Concurrente para el Desarrollo Rural Sustentable, conforme a lo previsto en los artículos 16 y 69 de la Ley de Desarrollo Rural Sustentable;
-
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
-
-r) Las previsiones de gasto que correspondan al Programa de Ciencia, Tecnología e Innovación, conforme a lo previsto en el artículo 22 de la Ley de Ciencia y Tecnología;
-
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
-
-s) Las previsiones de gasto que correspondan a la Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía, a que se refiere el artículo 25 de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética;
-
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
-
-t) Las previsiones de gasto que correspondan para la Atención a Grupos Vulnerables;
-
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
-
-u) Las previsiones de gasto que correspondan a la Mitigación de los efectos del Cambio Climático, y
-
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
-
-v) Las previsiones de gasto que correspondan a la Atención de Niños, Niñas y Adolescentes;
-
-III. Los anexos informativos, los cuales contendrán:
-
-a) La metodología empleada para determinar la estacionalidad y el volumen de la recaudación por tipo de ingreso, así como la utilizada para calendarizar el gasto según su clasificación económica;
-
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
-
-b) La distribución del presupuesto de las dependencias y entidades por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto;
-
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
-
-c) La metodología, factores, variables y fórmulas utilizadas para la elaboración de los Anexos Transversales a los que se refieren los incisos j), o), p), q), r), s), t), u) y v) de la fracción anterior, estableciendo con claridad los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos. En caso de que existan modificaciones en la metodología con respecto a la utilizada en el ejercicio fiscal anterior, se deberá incluir un apartado donde se explique y justifique plenamente el motivo de dichas modificaciones, y
-
-d) La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo así como la que solicite la Cámara de Diputados a través de la Comisión de Presupuesto y Cuenta Pública y, en su caso, el Centro de Estudios de las Finanzas Públicas.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
-
-Las previsiones de gasto a las que se refieren los incisos j), o), r) y t) de la fracción II del presente artículo, en congruencia con los ingresos previstos en la iniciativa de Ley de Ingresos deberán contar, al menos, con la misma proporción del gasto programable con las que fueron aprobadas en el ejercicio fiscal inmediato anterior, siempre y cuando se hubiere cumplido con los objetivos y metas que para tal efecto se hayan definido en el Sistema de Evaluación del Desempeño para el Presupuesto de dicho ejercicio fiscal.
-
-###### Artículo 42.
-
-La aprobación de la Ley de Ingresos y del Presupuesto de Egresos se sujetará al siguiente procedimiento:
-
-I. El Ejecutivo Federal, por conducto de la Secretaría, deberá enviar al Congreso de la Unión a más tardar el 1 de abril, un documento que presente los siguientes elementos:
-
-a) Los principales objetivos para la Ley de Ingresos y el Presupuesto de Egresos del año siguiente;
-
-b) Escenarios sobre las principales variables macroeconómicas para el siguiente año: crecimiento, inflación, tasa de interés y precio del petróleo;
-
-c) Escenarios sobre el monto total del Presupuesto de Egresos y su déficit o superávit;
-
-d) Enumeración de los programas prioritarios y sus montos.
-
-II. El Ejecutivo Federal, por conducto de la Secretaría, remitirá a la Cámara de Diputados, a más tardar el 30 de junio de cada año, la estructura programática a emplear en el proyecto de Presupuesto de Egresos.
-
-La estructura programática que se envíe a la Cámara se apegará a lo establecido en esta Ley.
-
-Al remitir la estructura programática, el Ejecutivo, por conducto de la Secretaría, informará sobre los avances físico y financiero de todos los programas y proyectos que se hayan aprobado en el Presupuesto de Egresos vigente con relación a los objetivos planteados en el Plan Nacional de Desarrollo y los programas, y detallará y justificará las nuevas propuestas, señalando las correspondientes opciones de fuentes de recursos para llevarlas a cabo.
-
-III. El Ejecutivo Federal remitirá al Congreso de la Unión, a más tardar el 8 de septiembre de cada año:
-
-a) Los criterios generales de política económica en los términos del artículo 16 de esta Ley, así como la estimación del precio de la mezcla de petróleo mexicano para el ejercicio fiscal que se presupuesta determinada conforme a lo dispuesto en el artículo 31 de esta Ley;
-
-b) La iniciativa de Ley de Ingresos y, en su caso, las iniciativas de reformas legales relativas a las fuentes de ingresos para el siguiente ejercicio fiscal; y
-
-c) El proyecto de Presupuesto de Egresos;
-
-IV. La Ley de Ingresos será aprobada por la Cámara de Diputados a más tardar el 20 de octubre y, por la Cámara de Senadores, a más tardar el 31 de octubre;
-
-V. El Presupuesto de Egresos deberá ser aprobado por la Cámara de Diputados a más tardar el 15 de noviembre;
-
-VI. La Ley de Ingresos y el Presupuesto de Egresos de la Federación deberán publicarse en el Diario Oficial de la Federación a más tardar 20 días naturales después de aprobados.
-
-Asimismo, el Ejecutivo Federal, por conducto de la Secretaría, deberá enviar a la Cámara de Diputados, a más tardar 20 días naturales después de publicado el Presupuesto de Egresos en el Diario Oficial de la Federación, todos los tomos y anexos del Presupuesto, con las modificaciones respectivas, que conformarán el Presupuesto aprobado;
-
-VII. La Cámara de Diputados, en el marco de las disposiciones de la presente Ley, podrá prever en el Presupuesto de Egresos los lineamientos de carácter general que sean necesarios a fin de asegurar que el gasto sea ejercido de acuerdo con los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley;
-
-VIII. En el proceso de examen, discusión, modificación y aprobación de la Ley de Ingresos y del Presupuesto de Egresos, los legisladores observarán los siguientes principios:
-
-a) Las propuestas serán congruentes con la estimación del precio de la mezcla de petróleo mexicano para el ejercicio fiscal que se presupuesta, determinada conforme a lo dispuesto en el artículo 31 de esta Ley, así como observando los criterios generales de política económica;
-
-b) Las estimaciones de las fuentes de ingresos, distintas a la señalada en el inciso anterior, deberán sustentarse en análisis técnicos;
-
-c) Cuando propongan un nuevo proyecto, deberán señalar el ajuste correspondiente de programas y proyectos vigentes si no se proponen nuevas fuentes de ingresos;
-
-d) Se podrán plantear requerimientos específicos de información;
-
-e) En su caso, se podrán proponer acciones para avanzar en el logro de los objetivos planteados en el Plan Nacional de Desarrollo y los programas que deriven del mismo; y
-
-f) En el caso del Presupuesto de Egresos, la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados deberá establecer mecanismos de participación de las Comisiones Ordinarias en el examen y discusión del Presupuesto por sectores. Los legisladores de dichas Comisiones deberán tomar en cuenta en sus consideraciones y propuestas la disponibilidad de recursos, así como la evaluación de los programas y proyectos y las medidas que podrán impulsar el logro de los objetivos y metas anuales.
-
-IX. Podrán establecerse mecanismos de coordinación, colaboración y entendimiento entre el Poder Ejecutivo y el Poder Legislativo, con el objeto de hacer más eficiente el proceso de integración, aprobación y evaluación del Presupuesto de Egresos.
-
-En este proceso, el Centro de Estudios de las Finanzas Públicas de la Cámara de Diputados apoyará técnicamente las funciones de la misma, en materia tanto de la elaboración y aprobación de la Ley de Ingresos como del Presupuesto de Egresos de la Federación.
-
-###### Artículo 43.
-
-En el año en que termina su encargo, el Ejecutivo Federal deberá elaborar anteproyectos de iniciativa de Ley de Ingresos y del proyecto de Presupuesto de Egresos en apoyo al Presidente Electo, incluyendo sus recomendaciones, a efecto de que éste último los presente a la Cámara de Diputados, a más tardar en la fecha y en los términos a que se refiere el artículo 74 fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
-
-Para realizar las actividades a que se refiere este artículo y la elaboración del Plan Nacional de Desarrollo, se podrán aprobar recursos en el correspondiente Presupuesto de Egresos para cubrir los gastos de un equipo de asesores que apoye los trabajos del Presidente Electo, estableciendo para tal efecto un Fondo específico que estará sujeto a las normas de ejercicio y fiscalización de los recursos federales que correspondan. Asimismo, se deberá informar al respecto en la Cuenta Pública.
-
-Para la aprobación de la Ley de Ingresos y el Presupuesto de Egresos en el año en que inicie una nueva Administración del Ejecutivo Federal, se observará, en lo conducente, el procedimiento establecido en el artículo 42 de esta Ley.
-
-Las obligaciones subsecuentes a la aprobación de la Ley de Ingresos y el Presupuesto de Egresos a que se refieren los artículos 42, 44 y 77 de esta Ley deberán realizarse conforme a los plazos y procedimientos establecidos en los mismos artículos, en lo conducente. Para el caso de las reglas de operación a que se refiere el artículo 77 de esta Ley, el procedimiento no podrá exceder del primer bimestre del ejercicio que corresponda.
-
-###### Artículo 44.
-
-Dentro de los 10 días hábiles posteriores a la publicación del Presupuesto de Egresos en el Diario Oficial de la Federación, el Ejecutivo Federal, por conducto de la Secretaría, deberá comunicar a las dependencias y entidades la distribución de sus presupuestos aprobados por unidad responsable y al nivel de desagregación que determine el Reglamento. Se deberá enviar copia de dichos comunicados a la Cámara de Diputados.
-
-A su vez, las oficinas encargadas de la administración interna de cada dependencia y entidad deberán comunicar la distribución correspondiente a sus respectivas unidades responsables a más tardar 5 días hábiles después de recibir la comunicación por parte de la Secretaría.
-
-Dicha distribución deberá ser aquélla presentada en el anexo informativo a que se refiere el artículo 41, fracción III, inciso b) de esta Ley, incluyendo las modificaciones que hayan sido aprobadas por la Cámara de Diputados.
-
-La Secretaría deberá publicar en el Diario Oficial de la Federación dentro de los 15 días hábiles posteriores a la publicación del Presupuesto de Egresos, el monto y la calendarización del gasto federalizado para contribuir a mejorar la planeación del gasto de las entidades federativas y de los municipios.
-
-###### Artículo 45.
-
-Los responsables de la administración en los ejecutores de gasto serán responsables de la administración por resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en sus respectivos programas, conforme a lo dispuesto en esta Ley y las demás disposiciones generales aplicables.
-
-Con base en lo anterior, la Secretaría y la Función Pública podrán suscribir con las dependencias y entidades, convenios o bases de desempeño, cuya vigencia podrá exceder el ejercicio fiscal correspondiente, a fin de establecer compromisos de resultados y medidas presupuestarias que promuevan un ejercicio más eficiente y eficaz del gasto público, así como una efectiva rendición de cuentas. Las dependencias y entidades que suscriban dichos convenios o bases se sujetarán a los controles presupuestarios establecidos en dichos instrumentos, conforme al marco jurídico aplicable, a sus presupuestos autorizados y a las medidas que determine la Secretaría, en los términos del Reglamento.
-
-Las dependencias y entidades deberán publicar en el Diario Oficial de la Federación un extracto de los instrumentos suscritos, incluyendo sus compromisos de resultados y, bimestralmente, con desglose mensual, los resultados de desempeño.
-
-Los ejecutores de gasto deberán contar con sistemas de control presupuestario que promuevan la programación, presupuestación, ejecución, registro e información del gasto de conformidad con los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley, así como que contribuyan al cumplimiento de los objetivos y metas aprobados en el Presupuesto de Egresos.
-
-El control presupuestario en las dependencias y entidades se sujetará a las políticas y disposiciones generales que determine la Secretaría. Las dependencias y entidades, con base en dichas políticas y disposiciones, realizarán las siguientes acciones:
-
-I. Los titulares de las dependencias y entidades vigilarán la forma en que las estrategias básicas y los objetivos de control presupuestario sean conducidas y alcanzados. Asimismo, deberán atender los informes que en materia de control y auditoría les sean turnados y vigilarán y se responsabilizarán de la implantación de las medidas preventivas y correctivas a que hubiere lugar;
-
-II. Los subsecretarios y oficiales mayores o equivalentes de las dependencias, así como los directores generales o equivalentes de las entidades, encargados de la administración interna, definirán las medidas de implementación de control presupuestario que fueren necesarias; tomarán las acciones correspondientes para corregir las deficiencias detectadas y presentarán a la Secretaría y a la Cámara de Diputados informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento, y
-
-III. Los servidores públicos responsables del sistema que controle las operaciones presupuestarias en la dependencia o entidad correspondiente, responderán dentro del ámbito de sus respectivas competencias.
-
-Los Poderes Legislativo y Judicial y los entes autónomos establecerán sistemas de control presupuestario, observando en lo conducente lo dispuesto en las fracciones anteriores.
+Quedan prohibidos los convenios, códigos de conducta o cualquier otra forma de colusión entre proveedores, publicistas o cualquier grupo de personas para restringir la información que se pueda proporcionar a los consumidores.
 
 ## TITULO TERCERO.
 
@@ -899,1453 +465,1165 @@ De las penas y medidas de seguridad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-### CAPITULO I.
+### Capítulo IV. De las promociones y ofertas
 
-Universo.
+###### ARTICULO 46.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+Para los efectos de esta ley, se consideran promociones las prácticas comerciales consistentes en el ofrecimiento al público de bienes o servicios:
 
-17.- Las penas y medidas de seguridad son las siguientes:
+I. Con el incentivo de proporcionar adicionalmente otro bien o servicio iguales o diversos, en forma gratuita, a precio reducido o a un solo precio;
 
-I.- Prisión;
+II. Con un contenido adicional en la presentación usual de un producto, en forma gratuita o a precio reducido;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+III. Con figuras o leyendas impresas en las tapas, etiquetas, o envases de los productos o incluidas dentro de aquéllos, distintas a las que obligatoriamente deben usarse; y
 
-II.- Semilibertad;
+IV. Bienes o servicios con el incentivo de participar en sorteos, concursos y otros eventos similares.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+Por "oferta", "barata", "descuento", "remate" o cualquier otra expresión similar se entiende el ofrecimiento al público de productos o servicios de la misma calidad a precios rebajados o inferiores a los normales del establecimiento.
 
-III.- Confinamiento y prohibición de concurrencia o residencia;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+###### ARTICULO 47.
 
-IV.- Multa;
+No se necesitará autorización ni aviso para llevar a cabo promociones, excepto cuando así lo dispongan las normas oficiales mexicanas, en los casos en que se lesionen o se puedan lesionar los intereses de los consumidores.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+No podrán imponerse restricciones a la actividad comercial en adición a las señaladas en esta ley, ni favorecer específicamente las promociones u ofertas de proveedores determinados.
 
-V.- Reparación del daño;
+###### ARTICULO 48.
 
-(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
+En las promociones y ofertas se observarán las siguientes reglas:
 
-VI.- Decomiso de instrumentos, objetos y productos del delito, decomiso por valor equivalente o destrucción de cosas peligrosas o nocivas;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-VII.- Suspensión de derechos;
+I. En los anuncios respectivos deberán indicarse las condiciones, así como el plazo de duración o el volumen de los bienes o servicios ofrecidos; dicho volumen deberá acreditarse a solicitud de la autoridad. Si no se fija plazo ni volumen, se presume que son indefinidos hasta que se haga del conocimiento público la revocación de la promoción o de la oferta, de modo suficiente y por los mismos medios de difusión, y
 
-VIII.- Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejercicio de profesiones y actividades técnicas;
+II. Todo consumidor que reúna los requisitos respectivos tendrá derecho a la adquisición, durante el plazo previamente determinado o en tanto exista disponibilidad, de los bienes o servicios de que se trate.
 
-IX.- Suspensión o disolución de sociedades;
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+###### ARTICULO 49.
 
-X.- Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídicas colectivas;
+No se podrán realizar promociones en las que se anuncie un valor monetario para el bien, producto o servicio ofrecido, notoriamente superior al normalmente disponible en el mercado.
 
-XI.- Apercibimiento;
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XII.- Caución de no ofender;
+###### ARTICULO 50.
 
-XIII.- Publicación especial de sentencia;
+Si el autor de la promoción u oferta no cumple su ofrecimiento, el consumidor podrá optar por exigir el cumplimiento, aceptar otro bien o servicio equivalente o la rescisión del contrato y, en todo caso, tendrá derecho al pago de la diferencia económica entre el precio al que se ofrezca el bien o servicio objeto de la promoción u oferta y su precio normal, sin perjuicio de la bonificación o compensación a que se refiere el artículo 92 TER de esta ley.
 
-XIV.- Sujeción a la vigilancia de la Policía;
+### Capítulo V. De las ventas a domicilio, mediatas o indirectas
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
+###### ARTICULO 51.
 
-XV.- Tratamiento de inimputables, en internamiento o en libertad;
+Por venta a domicilio, mediata o indirecta, se entiende la que se proponga o lleve a cabo fuera del local o establecimiento del proveedor, incluidos el arrendamiento de bienes muebles y la prestación de servicios. Lo dispuesto en este capítulo no es aplicable a la compraventa de bienes perecederos recibidos por el consumidor y pagados de contado.
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2000)</small>
+###### ARTICULO 52.
 
-XVI.- Trabajo en favor de la comunidad;
+Las ventas a que se refiere este capítulo deberán constar por escrito que deberá contener:
 
-XVII.- (DEROGADA, P.O. 30 DE MAYO DE 2012)
+I. El nombre y dirección del proveedor e identificación de la operación y de los bienes y servicios de que se trate; y
 
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2000)</small>
+II. Garantías y requisitos señalados por esta ley.
 
-XVIII.- Prohibición de abandonar una demarcación geográfica sin autorización judicial.
+El proveedor está obligado a entregar al consumidor una copia del documento respectivo.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+###### ARTICULO 53.
 
-Las penas y medidas de seguridad no trascienden de la persona y bienes del sujeto activo, salvo lo dispuesto en los artículos 32, 33 y 44 de este código.
+Los proveedores que realicen las ventas a que se refiere este capítulo por medios en los cuales sea imposible la entrega del documento al celebrarse la transacción, tales como teléfono, televisión, servicios de correo o mensajería u otros en que no exista trato directo con el comprador, deberán:
 
-###### Artículo 46.
+I. Cerciorarse de que la entrega del bien o servicio efectivamente se hace en el domicilio del consumidor o que el consumidor está plenamente identificado;
 
-Las dependencias y entidades podrán solicitar a la Secretaría recursos que les permitan atender contingencias o, en su caso, gastos urgentes de operación, a través de acuerdos de ministración, siempre y cuando éstos se regularicen con cargo a sus respectivos presupuestos invariablemente mediante la expedición de una cuenta por liquidar certificada.
+II. Permitir al consumidor hacer reclamaciones y devoluciones por medios similares a los utilizados para la venta;
 
-El Reglamento establecerá los plazos para regularizar los acuerdos de ministración y los requisitos para prorrogarlos, sin exceder del día 20 de diciembre de cada ejercicio fiscal, salvo en los casos de excepción, los cuales no podrán rebasar el último día hábil de enero del ejercicio fiscal siguiente.
+III. Cubrir los costos de transporte y envío de mercancía en caso de haber devoluciones o reparaciones amparadas por la garantía, salvo pacto en contrario; y
 
-Estos movimientos serán informados a la Cámara de Diputados en los informes trimestrales.
+IV. Informar previamente al consumidor el precio, fecha aproximada de entrega, costos de seguro y flete y, en su caso, la marca del bien o servicio.
 
-###### Artículo 47.
+###### ARTICULO 54.
 
-Los ejecutores de gasto, con cargo a sus respectivos presupuestos y de conformidad con las disposiciones generales aplicables, deberán cubrir las contribuciones federales, estatales y municipales correspondientes, así como las obligaciones de cualquier índole que se deriven de resoluciones definitivas emitidas por autoridad competente.
+Cuando el cobro o cargo por un bien o servicio se haga en forma automática al recibo telefónico, o a una cuenta de tarjeta de crédito o a otro recibo o cuenta que le lleven al consumidor, el proveedor y el agente cobrador deberán advertir esto al consumidor en forma clara, ya sea en la publicidad, en el canal de venta o en el recibo. Lo mismo se aplica a aquellos casos en que la compra involucre el pago de una llamada de larga distancia o gastos de entrega pagaderos por el consumidor.
 
-Las adecuaciones presupuestarias que, en su caso, sean necesarias para el pago de las obligaciones a que se refiere la parte final del párrafo anterior, no podrán afectar el cumplimiento de los objetivos y las metas de los programas prioritarios aprobados en el Presupuesto de Egresos.
+###### ARTICULO 55.
 
-Las dependencias y entidades que no puedan cubrir la totalidad de las obligaciones conforme a lo previsto en el párrafo anterior, presentarán ante la autoridad competente un programa de cumplimiento de pago que deberá ser considerado para todos los efectos legales en vía de ejecución respecto de la resolución que se hubiese emitido, con la finalidad de cubrir las obligaciones hasta por un monto que no afecte los objetivos y metas de los programas prioritarios, sin perjuicio de que el resto de la obligación deberá pagarse en los ejercicios fiscales subsecuentes conforme a dicho programa.
+Los proveedores deberán mantener registros e informar al consumidor todo lo necesario para que pueda identificar individualmente la transacción y cerciorarse de la identidad del consumidor.
 
-Los Poderes Legislativo y Judicial y los entes autónomos, en caso de ser necesario, establecerán una propuesta de cumplimiento de obligaciones, observando en lo conducente lo dispuesto en los párrafos segundo y tercero de este artículo.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 48.
+###### ARTICULO 56.
 
-El ejercicio de recursos previstos en el gasto de inversión aprobado en el Presupuesto de Egresos se autoriza por las dependencias y entidades, en los términos del Reglamento.
+El contrato se perfeccionará a los cinco días hábiles contados a partir de la entrega del bien o de la firma del contrato, lo último que suceda. Durante ese lapso, el consumidor tendrá la facultad de revocar su consentimiento sin responsabilidad alguna. La revocación deberá hacerse mediante aviso o mediante entrega del bien en forma personal, por correo registrado, o por otro medio fehaciente. La revocación hecha conforme a este artículo deja sin efecto la operación, debiendo el proveedor reintegrar al consumidor el precio pagado. En este caso, los costos de flete y seguro correrán a cargo del consumidor. Tratándose de servicios, lo anterior no será aplicable si la fecha de prestación del servicio se encuentra a diez días hábiles o menos de la fecha de la orden de compra.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+### Capítulo VI. De los servicios
 
-En el ejercicio del gasto de inversión, exclusivamente en infraestructura y servicios relacionados con la misma, las dependencias y entidades observarán, además de lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, lo siguiente:
+###### ARTICULO 57.
 
-I. Las personas que previo a un proceso de contratación hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, los trabajos que se mencionan a continuación, que sirvan de base para la realización de un proyecto de infraestructura, podrán participar en la licitación para la construcción o ejecución de dicho proyecto:
+En todo establecimiento de prestación de servicios, deberá exhibirse a la vista del público la tarifa de los principales servicios ofrecidos, con caracteres claramente legibles. Las tarifas de los demás, en todo caso, deberán estar disponibles al público.
 
-a) Trabajos de preparación de especificaciones, presupuesto o la elaboración de cualquier documento vinculado con el procedimiento en que se encuentren interesadas en participar, y
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-b) Trabajos de preparación de especificaciones de construcción, presupuesto de los trabajos y selección o aprobación de materiales, equipo y procesos.
+###### ARTICULO 58.
 
-II. Tratándose de los sectores de comunicaciones, transportes, hidráulico, medio ambiente y turístico, las personas físicas y morales especializadas en las materias respectivas, así como las entidades federativas y municipios, podrán presentar a consideración de las dependencias y entidades competentes propuestas de estudios para la realización de obras asociadas a proyectos de infraestructura, las cuales deberán reunir los requisitos que mediante disposiciones de carácter general expidan las secretarías de Comunicaciones y Transportes, de Medio Ambiente y Recursos Naturales y de Turismo, para cada uno de los sectores mencionados.
+El proveedor de bienes, productos o servicios no podrá negarlos o condicionarlos al consumidor por razones de género, nacionalidad, étnicas, preferencia sexual, religiosas o cualquiera otra particularidad.
 
-Una vez recibidas las propuestas, las dependencias y entidades realizarán un análisis con el objeto de determinar su viabilidad conforme a las disposiciones referidas en el párrafo anterior y su congruencia con el Plan Nacional de Desarrollo y los programas correspondientes y notificarán al promovente su autorización, negativa o, en su caso, observaciones, dentro de un plazo que no excederá de un año. Tratándose de las entidades, la dependencia coordinadora de sector deberá emitir su previa opinión respecto de las propuestas que se autoricen. No procederá recurso alguno en contra de esta resolución.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-En caso de que una propuesta sea autorizada en lo general, la dependencia o, tratándose de las entidades, la dependencia coordinadora del sector respectivo, evaluará las condiciones y tiempos de ejecución del proyecto dentro de un plazo no mayor de seis meses.
+Los proveedores de bienes y servicios que ofrezcan éstos al público en general, no podrán establecer preferencias o discriminación alguna respecto a los solicitantes del servicio, tales como selección de clientela, condicionamiento del consumo, reserva del derecho de admisión, exclusión a personas con discapacidad y otras prácticas similares, salvo por causas que afecten la seguridad o tranquilidad del establecimiento, de sus clientes o de las personas discapacitadas, o se funden en disposiciones expresas de otros ordenamientos legales. Dichos proveedores en ningún caso podrán aplicar o cobrar tarifas superiores a las autorizadas o registradas para la clientela en general, ni ofrecer o aplicar descuentos en forma parcial o discriminatoria. Tampoco podrán aplicar o cobrar cuotas extraordinarias o compensatorias a las personas con discapacidad por sus implementos médicos, ortopédicos, tecnológicos, educativos o deportivos necesarios para su uso personal, incluyéndose el perro guía en el caso de invidentes.
 
-Las dependencias y entidades a que se refiere el presente artículo podrán adjudicar directamente a los promoventes, distintos a las entidades federativas y municipios, el o los servicios que tengan por objeto concluir los estudios necesarios para proceder a la licitación de la obra de que se trate. El pago de dichos estudios en ningún caso será superior al 5% del monto total del proyecto ejecutivo de que se trate, o bien a la cantidad de 40 millones de pesos, lo que resulte menor, y sólo se realizará en caso de que se adjudique el contrato de obra correspondiente.
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 1994)</small>
 
-Si como resultado del procedimiento de contratación de la obra, la persona física o moral que haya realizado los estudios y demás actividades relacionadas con el proyecto ejecutivo de que se trate resulta ganadora del mismo, dicha persona absorberá el costo de los estudios correspondientes.
+Los proveedores están obligados a dar las facilidades o contar con los dispositivos indispensables para que las personas con discapacidad puedan utilizar los bienes o servicios que ofrecen. Dichas facilidades y dispositivos no pueden ser inferiores a los que determinen las disposiciones legales o normas oficiales aplicables, ni tampoco podrá el proveedor establecer condiciones o limitaciones que reduzcan los derechos que legalmente correspondan al discapacitado como consumidor.
 
-Si como resultado del procedimiento de contratación de la obra, quien realizó los estudios y demás actividades relacionadas con el proyecto ejecutivo de la misma no resulta ganador, una vez adjudicado el fallo para la ejecución de la obra, el participante ganador deberá cubrir al primero el costo de los estudios que hubiese autorizado la dependencia o entidad.
+###### ARTICULO 59.
 
-Lo dispuesto en los dos párrafos anteriores deberá preverse en las bases de licitación correspondientes.
+Antes de la prestación de un servicio, el proveedor deberá presentar presupuesto por escrito. En caso de reparaciones, el presupuesto deberá describir las características del servicio, el costo de refacciones y mano de obra, así como su vigencia, independientemente de que se estipulen mecanismos de variación de rubros específicos por estar sus cotizaciones fuera del control del proveedor.
 
-III. En los casos en que de acuerdo a las leyes respectivas los participantes en procesos de contratación de proyectos de infraestructura interpongan un recurso de inconformidad en contra del fallo, la suspensión se otorgará únicamente a petición de parte y el inconforme deberá otorgar garantía conforme a las disposiciones aplicables, y
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-IV. Se considerará que las contrataciones de servicios por adjudicación directa, que realicen las instituciones de banca de desarrollo con objeto de financiar y otorgar asistencia técnica a entidades federativas y municipios o como parte del desarrollo o financiamiento de proyectos de infraestructura de los mismos, acreditan los criterios de economía, eficacia, eficiencia, imparcialidad y honradez y que aseguran las mejores condiciones para el Estado cuando se lleven a cabo, exclusivamente, con base en lo que al respecto determinen los órganos de gobierno de dichas Instituciones.
+###### ARTICULO 60.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+Las personas dedicadas a la reparación de toda clase de productos deberán emplear partes y refacciones nuevas y apropiadas para el producto de que se trate, salvo que el solicitante del servicio autorice expresamente que se utilicen otras. Cuando las refacciones o partes estén sujetas a normas de cumplimiento obligatorio, el uso de refacciones o partes que no cumplan con los requisitos da al consumidor el derecho a exigir los gastos necesarios que pruebe haber efectuado y, en su caso, a la bonificación a que se refiere el artículo 92 TER de esta ley.
 
-Para efectos de las fracciones I y II de este artículo, la persona física o moral que haya realizado los estudios, trabajos y demás actividades relacionadas con el proyecto ejecutivo, podrá participar en el procedimiento de contratación para la ejecución de la obra, en las mismas condiciones que los demás concursantes. En estos casos, el participante en dicho procedimiento deberá declarar bajo protesta de decir verdad que el proyecto que presenta incluye supuestos, especificaciones y demás información verídicos, así como estimaciones apegadas a las condiciones de mercado. Toda manipulación de los elementos antes referidos, ya sea para que se le adjudique el proyecto o para obtener un beneficio económico indebido, dará lugar a la inhabilitación del participante y, en su caso, al pago de los daños que haya ocasionado al Estado.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+###### ARTICULO 61.
 
-Las entidades y demás vehículos o mecanismos que dispongan preponderantemente de recursos públicos federales que sean titulares de una concesión al amparo de la Ley de Caminos, Puentes y Autotransporte Federal, podrán ceder los derechos y obligaciones establecidos en la misma sin sujetarse al plazo establecido en dicho ordenamiento, siempre y cuando recaben la autorización previa de la Secretaría de Comunicaciones y Transportes y se haga mediante concurso público.
+Los prestadores de servicios de mantenimiento o reparación deberán bonificar al consumidor en términos del artículo 92 TER si por deficiencia del servicio el bien se pierde o sufre tal deterioro que resulte total o parcialmente inapropiado para el uso a que esté destinado.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+###### ARTICULO 62.
 
-Para los supuestos previstos en este artículo la información no podrá ser reservada y será de acceso general, desde el inicio de la propuesta del proyecto y hasta la conclusión de la realización del mismo, pero siempre en apego a las disposiciones legales aplicables en materia de transparencia y acceso a la información pública, así como de adquisiciones, arrendamientos, obras y servicios relacionados con las mismas.
+Los prestadores de servicios tendrán obligación de expedir factura o comprobante de los trabajos efectuados, en los que deberán especificarse las partes, refacciones y materiales empleados; el precio de ellos y de la mano de obra; la garantía que en su caso se haya otorgado y los demás requisitos señalados en esta ley.
 
-###### Artículo 49.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Los gastos de seguridad pública y nacional son erogaciones destinadas a los programas que realizan las dependencias en cumplimiento de funciones oficiales de carácter estratégico.
+###### ARTICULO 63.
 
-La comprobación y demás información relativa a dichos gastos se sujetarán a lo dispuesto en el Reglamento sin perjuicio de su fiscalización por la Auditoría Superior de la Federación en los términos de las disposiciones aplicables.
+Los sistemas de comercialización consistentes en la integración de grupos de consumidores que aportan periódicamente sumas de dinero para ser administradas por un tercero, únicamente podrán operar para efectos de adquisición de bienes determinados o determinables, sean muebles nuevos o inmuebles destinados a la habitación o a su uso como locales comerciales, en los términos que señale el reglamento respectivo, y sólo podrán ponerse en práctica previa autorización de la Secretaría.
 
-El ejercicio de estos recursos se sujetará a las disposiciones específicas que al efecto emitan los titulares de las dependencias que realicen las actividades a que se refiere el primer párrafo de este artículo, en los términos que establezca el Reglamento sin perjuicio de su fiscalización por la Auditoría Superior de la Federación en los términos de las disposiciones aplicables.
+La Secretaría podrá autorizar, en su caso, que estos sistemas de comercialización tengan por objeto los servicios de construcción, remodelación y ampliación de inmuebles, cuando se demuestre que las condiciones del mercado así lo ameriten y que se garanticen los derechos e intereses de los consumidores. Tratándose de esta autorización, no operará la afirmativa ficta.
 
-La adquisición de bienes destinados a las actividades de seguridad pública y nacional se entenderá devengada al momento en que se contraiga el compromiso de pago correspondiente.
+El plazo de operación de los sistemas de comercialización no podrá ser mayor a cinco años para bienes muebles y de quince años para bienes inmuebles.
 
-###### Artículo 50.
+La Secretaría otorgará la autorización para la operación de los referidos sistemas de comercialización, que en todos los casos será intransmisible, cuando se cumplan con los siguientes requisitos:
 
-Los ejecutores de gasto podrán celebrar contratos plurianuales de obras públicas, adquisiciones, y arrendamientos o servicios durante el ejercicio fiscal siempre que:
+I. Que el solicitante sea una persona moral mexicana constituida como sociedad anónima de conformidad con la legislación aplicable, y que tenga por objeto social únicamente la operación y administración de sistemas de comercialización a que se refiere el presente artículo; así como las actividades necesarias para su adecuado desempeño;
 
-I. Justifiquen que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables;
+II. Que el solicitante acredite su capacidad administrativa, además de la viabilidad económica, financiera y operativa del sistema, en términos de los criterios que fije la Secretaría;
 
-II. Justifiquen el plazo de la contratación y que el mismo no afectará negativamente la competencia económica en el sector de que se trate;
+III. Que el o los contratos de adhesión que pretenda utilizar el solicitante contengan disposiciones que salvaguarden los derechos de los consumidores, en los términos de esta ley y del reglamento correspondiente;
 
-III. Identifiquen el gasto corriente o de inversión correspondiente; y
+IV. Que el solicitante presente a la Secretaría un plan general de funcionamiento del sistema y un proyecto de manual que detalle los procedimientos de operación del sistema, a efecto de que dicha dependencia cuente con los elementos suficientes para otorgar, en su caso, la autorización;
 
-IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
+V. Que el solicitante presente mecanismos para el cumplimiento de sus obligaciones como administrador del sistema respecto de la operación de cada grupo, en los términos que prevea el reglamento, y
 
-Las dependencias requerirán la autorización presupuestaria de la Secretaría para la celebración de los contratos a que se refiere este artículo, en los términos del Reglamento. En el caso de las entidades, se sujetarán a la autorización de su titular conforme a las disposiciones generales aplicables.
+VI. Los demás que determine el reglamento.
 
-Las dependencias y entidades deberán informar a la Función Pública sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
+Una vez que el solicitante obtenga la autorización a que se refiere este precepto, y antes de comenzar a operar el o los sistemas de comercialización de que se trate, deberá solicitar el registro del o los contratos de adhesión correspondientes ante la Procuraduría Federal del Consumidor.
 
-En el caso de proyectos para prestación de servicios, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Función Pública.
+El reglamento detallará y precisará aspectos tales como características de los bienes y servicios que puedan ser objeto de los referidos sistemas de comercialización; el contenido mínimo de contratos de adhesión; características, constitución y, en su caso, autorización y liquidación de grupos de consumidores; plazos de operación de los sistemas; determinación de aportaciones y tipos de cuotas y cuentas; adjudicaciones y asignaciones; gastos de administración, costos, penas convencionales, devoluciones e intereses que deben cubrir los consumidores; manejo de los recursos por parte de los mencionados proveedores; rescisión y cancelación de contratos; constitución de garantías, seguros y cobranza; revisión o supervisión de la operación de los mencionados sistemas por parte de terceros especialistas o auditores externos; características de la información que los proveedores deban proporcionar al consumidor, a las autoridades competentes y a los auditores externos; y criterios sobre la publicidad dirigida a los consumidores.
 
-Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus respectivas unidades de administración, podrán autorizar la celebración de contratos plurianuales siempre y cuando cumplan lo dispuesto en este artículo y emitan normas generales y para su justificación y autorización.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, en los términos de los artículos 32 y 41, fracción II, inciso g), de esta Ley.
+ARTICULO 63 BIS.- En la operación de los sistemas de comercialización a que se refiere el artículo anterior, queda prohibida la comercialización de bienes que no estén determinados o no sean determinables; la constitución de grupos cuyos contratos de adhesión no venzan en la misma fecha; considerando como fecha de vencimiento a la de liquidación del grupo de que se trate; la constitución de grupos en los que se comercialicen bienes distintos o destinados a un uso diferente; la transferencia de recursos o financiamiento de cualquier tipo, ya sea de un grupo de consumidores a otro, o a terceros; la fusión de grupos de consumidores y la reubicación de consumidores de un grupo a otro; así como cualquier otro acto que contravenga lo dispuesto en esta ley y el reglamento respectivo, o que pretenda eludir su cumplimiento.
 
-### CAPITULO II.
+Cualquier cantidad que deba ser cubierta por los consumidores, deberá estar plenamente identificada y relacionada con el concepto que le haya dado origen, debiendo destinarse exclusivamente al pago de los conceptos que correspondan, conforme a lo dispuesto en el propio reglamento.
 
-Prisión.
+No podrán participar en la administración, dirección y control de sociedades que administren los sistemas de comercialización:
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
+I. Las personas que tengan litigio civil o mercantil en contra del proveedor de que se trate;
 
-18.- La prisión por un solo delito, podrá ser de tres días a ciento cinco años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
+II. Las personas condenadas mediante sentencia ejecutoriada por delito intencional que merezca pena corporal, o que estén inhabilitadas para desempeñar empleo, cargo o comisión en el sistema financiero;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+III. Los quebrados y concursados que no hubieren sido rehabilitados, y
 
-19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos de la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.
+IV. Los terceros especialistas o auditores externos y las personas que realicen funciones de dictaminación, de inspección o vigilancia de los proveedores.
 
-Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+ARTICULO 63 TER.- Las sociedades que administren los sistemas de comercialización a que se refiere el artículo 63, tendrán el carácter de proveedores en términos de lo dispuesto por el artículo 2 de esta ley. El proveedor será responsable de que el consumidor reciba el bien contratado en el plazo y conforme a las condiciones establecidas en el contrato de adhesión respectivo, debiendo responder del incumplimiento de cualquier cláusula contractual. El proveedor no podrá cobrar al consumidor penalización alguna si éste se retira del grupo por cualquier incumplimiento imputable a aquél.
 
-###### Artículo 51.
+La Procuraduría podrá determinar que uno o varios proveedores suspendan de manera temporal la celebración de nuevos contratos con los consumidores, cuando el o los proveedores hubieren incurrido de manera grave o reiterada en violaciones a las disposiciones que correspondan, sin perjuicio de las sanciones que resulten aplicables. No obstante lo anterior, durante el tiempo en que subsista la suspensión mencionada, el o los proveedores deberán continuar operando los sistemas de comercialización cumpliendo las obligaciones asumidas con los consumidores, de conformidad con las disposiciones respectivas.
 
-La Tesorería de la Federación, por sí y a través de sus diversas oficinas, efectuará los cobros y los pagos correspondientes a las dependencias.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-La ministración de los fondos correspondientes será autorizada en todos los casos por la Secretaría, de conformidad con el Presupuesto de Egresos.
+ARTICULO 63 QUATER.- Serán causas de revocación de la autorización otorgada al proveedor, las siguientes:
 
-Los Poderes Legislativo y Judicial, los entes autónomos y las entidades, recibirán y manejarán sus recursos así como harán sus pagos a través de sus propias tesorerías o sus equivalentes.
+I. No iniciar operaciones dentro del plazo de seis meses a partir del otorgamiento de la autorización correspondiente, o la suspensión de operaciones sin causa justificada por un periodo superior a seis meses;
 
-El Ejecutivo Federal, por conducto de la Secretaría, podrá disponer que los fondos y pagos correspondientes a las entidades, se manejen, temporal o permanentemente de manera centralizada en la Tesorería de la Federación. Asimismo, podrá suspender, diferir o determinar reducciones en la ministración de los recursos, cuando las dependencias y entidades no cumplan con las disposiciones de esta Ley y el Reglamento o se presenten situaciones supervenientes que puedan afectar negativamente la estabilidad financiera, reportando al respecto en los informes trimestrales.
+II. La realización de actividades contrarias a la ley, al reglamento y a las demás disposiciones aplicables, así como la no observancia de las condiciones conforme a las cuales se haya otorgado la autorización;
 
-La ministración de los recursos atenderá primordialmente el principio de oportunidad y respeto a los calendarios de gasto que se elaborarán con base en las prioridades y requerimientos de las dependencias y entidades, con el objeto de lograr una mayor eficacia en el uso de los recursos públicos.
+III. La omisión de la presentación de información que le requieran la Secretaría, la Procuraduría o los auditores que correspondan, o que la que presenten sea falsa, imprecisa o incompleta;
 
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+IV. El indebido o inoportuno registro contable de las operaciones que haya efectuado el proveedor respecto de cada uno de los grupos constituidos, o por incumplimiento de sus obligaciones fiscales;
 
-Para efectos de lo anterior, la Tesorería de la Federación operará y administrará el sistema de la cuenta única de tesorería que será obligatorio para las dependencias y entidades. La Secretaría podrá emitir las normas y lineamientos para la implantación y funcionamiento de la cuenta única, así como también, tomando en cuenta las necesidades específicas de cada caso, establecer las excepciones procedentes. Lo anterior, sin perjuicio de las obligaciones que correspondan a los ejecutores de gasto o a sus unidades responsables y de administración.
+V. La pérdida de la capacidad administrativa del proveedor para cumplir con sus obligaciones, así como por la pérdida de la viabilidad económica, financiera y operativa del sistema, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+VI. Por cambio de objeto social, liquidación, concurso mercantil o disolución del proveedor.
 
-###### Artículo 52.
+Cuando la Procuraduría detecte que el proveedor ha incurrido en alguna de las causas de revocación previstas en este artículo, lo hará del conocimiento de la Secretaría.
 
-Los ejecutores de gasto, conforme a las disposiciones aplicables, realizarán los cargos al Presupuesto de Egresos, a través de los gastos efectivamente devengados en el ejercicio fiscal y registrados en los sistemas contables correspondientes. Los ejecutores de gasto solicitarán el pago de los gastos efectivamente devengados, a través de cuentas por liquidar certificadas, en los términos del Reglamento.
+Para los efectos de lo dispuesto por este precepto, la Secretaría notificará al proveedor la causal de revocación en la que éste hubiere incurrido, a fin de que éste manifieste lo que a su derecho convenga, en un plazo de cinco días hábiles. En caso de que la resolución definitiva que se emita determine la revocación de la autorización, el proveedor pondrá a la sociedad correspondiente en estado de disolución y liquidación sin necesidad de acuerdo de la asamblea de accionistas.
 
-La Secretaría podrá realizar cargos a los presupuestos de las dependencias y, en su caso, a las transferencias o subsidios destinadas (sic) a las entidades en el presupuesto de las dependencias coordinadoras de sector, en caso de desastres naturales o incumplimiento de normas o pagos, conforme a lo siguiente:
+Salvo por lo previsto en el presente ordenamiento, la disolución y liquidación de la sociedad deberán realizarse de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles.
 
-I. La Secretaría solicitará a la dependencia que efectúe el cargo a su presupuesto. Si en un plazo de 5 días hábiles la dependencia no realizara el cargo, la Secretaría elaborará una cuenta por liquidar certificada especial para efectuarlo;
+En el caso de decretarse la revocación a que se refiere este artículo, el proveedor deberá establecer los mecanismos y procedimientos que le permitan llevar a cabo la liquidación de los grupos existentes, así como cumplir con las obligaciones contraídas con los consumidores.
 
-II. La dependencia cuyo presupuesto se haya afectado por la expedición de cuentas por liquidar certificadas especiales deberá efectuar el registro contable y presupuestario correspondiente, y
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-III. En caso de presentarse incumplimiento a lo dispuesto en este artículo, la Secretaría podrá suspender las ministraciones de fondos a la dependencia correspondiente.
+ARTICULO 63 QUINTUS.- La Secretaría y la Procuraduría, en el ámbito de sus competencias, verificarán el cumplimiento de esta ley, del reglamento y de las demás disposiciones aplicables. Asimismo, supervisarán la operación de los sistemas de comercialización a que se refiere este precepto, pudiendo requerir para ello información y documentación a los proveedores, así como establecer las medidas preventivas y correctivas que correspondan. De igual manera, supervisarán el proceso de liquidación de grupos a que se refiere el artículo anterior, salvaguardando, en el ámbito de su competencia, los intereses de los consumidores.
 
-###### Artículo 53.
+Los proveedores estarán obligados a contratar terceros especialistas o auditores externos para efecto de revisar el funcionamiento de los sistemas respectivos. Dichos especialistas o auditores externos deberán contar con la autorización de la Secretaría en los términos que señale el reglamento y su actividad estará sujeta a las reglas que este último contenga. Los especialistas o auditores externos deberán entregar a la Secretaría y a la Procuraduría la información que éstas les requieran.
 
-Los ejecutores de gasto informarán a la Secretaría antes del último día de febrero de cada año el monto y características de su deuda pública flotante o pasivo circulante al cierre del ejercicio fiscal anterior.
+La Procuraduría podrá sancionar a los especialistas o auditores externos que no cumplan con las obligaciones que les fije el reglamento, conforme a lo dispuesto en el artículo 128 de esta ley, sin perjuicio de las demás acciones legales que correspondan. Asimismo, la Procuraduría podrá solicitar a la Secretaría la revocación de la autorización que ésta les hubiere otorgado.
 
-###### Artículo 54.
+###### ARTICULO 64.
 
-Una vez concluida la vigencia de un Presupuesto de Egresos sólo procederá hacer pagos, con base en él por los conceptos efectivamente devengados en el año que corresponda, siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes, hayan estado contempladas en el Presupuesto de Egresos, y se hubiere presentado el informe a que se refiere el artículo anterior, así como los correspondientes al costo financiero de la deuda pública.
+La prestación del servicio de tiempo compartido, independientemente del nombre o de la forma que se dé al acto jurídico correspondiente, consiste en poner a disposición de una persona o grupo de personas, el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, en una unidad variable dentro de una clase determinada, por períodos previamente convenidos, mediante el pago de alguna cantidad, sin que, en el caso de inmuebles, se transmita el dominio de éstos.
 
-Las erogaciones previstas en el Presupuesto de Egresos que no se encuentren devengadas al 31 de diciembre, no podrán ejercerse.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Los Poderes Legislativo y Judicial, los entes autónomos, las dependencias, así como las entidades respecto de los subsidios o transferencias que reciban, que por cualquier motivo al 31 de diciembre conserven recursos, incluyendo los rendimientos obtenidos, deberán reintegrar el importe disponible a la Tesorería de la Federación dentro de los 15 días naturales siguientes al cierre del ejercicio.
+###### ARTICULO 65.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+La venta o preventa de un servicio de tiempo compartido sólo podrá iniciarse cuando el contrato respectivo esté registrado en la Procuraduría y cuando especifique:
 
-Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
+I. Nombre y domicilio del proveedor;
 
-###### Artículo 55.
+II. Lugar donde se prestará el servicio;
 
-La Tesorería de la Federación expedirá las disposiciones generales a que se sujetarán las garantías que deban constituirse a favor de las dependencias y entidades en los actos y contratos que celebren.
+III. Determinación clara de los derechos de uso y goce de bienes que tendrán los compradores, incluyendo períodos de uso y goce;
 
-La Tesorería de la Federación será la beneficiaria de todas las garantías que se otorguen a favor de las dependencias. Dicha Tesorería conservará la documentación respectiva y, en su caso, ejercitará los derechos que correspondan, a cuyo efecto y con la debida oportunidad se le habrán de remitir las informaciones y documentos necesarios. En el caso de las entidades, sus propias tesorerías serán las beneficiarias.
+IV. El costo de los gastos de mantenimiento para el primer año y la manera en que se determinarán los cambios en este costo en períodos subsecuentes;
 
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, establecerán en el ámbito de su competencia los requisitos aplicables a las garantías que se constituyan a su favor.
+V. Las opciones de intercambio con otros prestadores del servicio y si existen costos adicionales para realizar tales intercambios; y
 
-###### Artículo 56.
+VI. Descripción de las fianzas y garantías que se otorgarán en favor del consumidor.
 
-Los ejecutores de gasto no otorgarán garantías ni efectuarán depósitos para el cumplimiento de sus obligaciones de pago con cargo al Presupuesto de Egresos.
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2006)</small>
 
-### CAPITULO III.
+ARTICULO 65 BIS.- Los proveedores personas físicas o sociedades mercantiles no regulados por leyes financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán registrar su contrato de adhesión ante la Procuraduría.
 
-Semilibertad.
+Las personas a que se refiere el párrafo anterior no podrán prestar servicios ni realizar operaciones de las reservadas por las leyes vigentes a las instituciones del sistema financiero nacional.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+Los proveedores deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos. Además deberán informar, el monto de la tasa de interés anualizada que se cobra sobre los saldos insolutos; dicha información deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
 
-20.- La semilibertad consiste en la privación de la libertad alternada con tratamiento en libertad. Se aplicará y cumplirá, según las circunstancias del caso, de modo siguiente:
+Los proveedores deberán cumplir con los requisitos que fije la norma oficial mexicana que se expida al efecto por la Secretaría, la cual incluirá aspectos operativos tales como las características de la información que se debe proporcionar al consumidor, y los elementos de información que debe contener el contrato de adhesión que se utilice para formalizar las operaciones. Asimismo, deberá contener o permitir obtener para los principales servicios ofrecidos, la suma de todos los costos asociados a la operación.
 
-I.- Externación durante la semana de trabajo o educativa y reclusión de fin semana;
+### Capítulo VII. De las operaciones a crédito
 
-II.- Salida de fin de semana, con reclusión durante el resto de la semana, y
+###### ARTICULO 66.
 
-III.- Salida diurna, con reclusión nocturna; o salida nocturna y reclusión diurna.
+En toda operación a crédito al consumidor, se deberá:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+I. Informar al consumidor previamente sobre el precio de contado del bien o servicio de que se trate, el monto y detalle de cualquier cargo si lo hubiera, el número de pagos a realizar, su periodicidad, el derecho que tiene a liquidar anticipadamente el crédito con la consiguiente reducción de intereses, en cuyo caso no se le podrán hacer más cargos que los de renegociación del crédito, si la hubiere. Los intereses, incluidos los moratorios, se calcularán conforme a una tasa de interés fija o variable;
 
-###### Artículo 57.
+II. En caso de existir descuentos, bonificaciones o cualquier otro motivo por el cual sean diferentes los pagos a crédito y de contado, dicha diferencia deberá señalarse al consumidor. De utilizarse una tasa fija, también se informará al consumidor el monto de los intereses a pagar en cada período. De utilizarse una tasa variable, se informará al consumidor sobre la regla de ajuste de la tasa, la cual no podrá depender de decisiones unilaterales del proveedor sino de las variaciones que registre una tasa de interés representativa del costo del crédito al consumidor, la cual deberá ser fácilmente verificable por el consumidor;
 
-Los ejecutores de gasto deberán sujetarse a los montos autorizados en el Presupuesto de Egresos para sus respectivos ramos, programas y flujos de efectivo, salvo que se realicen adecuaciones presupuestarias en los términos que señala este Capítulo y los artículos 19, 20 y 21 de esta Ley.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 58.
+III. Informar al consumidor el monto total a pagar por el bien, producto o servicio de que se trate, que incluya, en su caso, número y monto de pagos individuales, los intereses, comisiones y cargos correspondientes, incluidos los fijados por pagos anticipados o por cancelación; proporcionándole debidamente desglosados los conceptos correspondientes;
 
-Las adecuaciones presupuestarias se realizarán siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de las dependencias y entidades, y comprenderán:
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I. Modificaciones a las estructuras:
+IV. Respetarse el precio que se haya pactado originalmente en operaciones a plazo o con reserva de dominio, salvo lo dispuesto en otras leyes o convenio en contrario, y
 
-a) Administrativa;
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-b) Funcional y programática;
+V. En caso de haberse efectuado la operación, el proveedor deberá enviar al consumidor al menos un estado de cuenta bimestral, por el medio que éste elija, que contenga la información relativa a cargos, pagos, intereses y comisiones, entre otros rubros.
 
-c) Económica; y
+###### ARTICULO 67.
 
-d) Geográfica
+En los contratos de compraventa a plazo o de prestación de servicios con pago diferido, se calcularán los intereses sobre el precio de contado menos el enganche que se hubiera pagado.
 
-II. Modificaciones a los calendarios de presupuesto, y
+###### ARTICULO 68.
 
-III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos o a los flujos de efectivo correspondientes.
+Unicamente se podrán capitalizar intereses cuando exista acuerdo previo de las partes, en cuyo caso el proveedor deberá proporcionar al consumidor estado de cuenta mensual. Es improcedente el cobro que contravenga lo dispuesto en este artículo.
 
-El Reglamento establecerá las adecuaciones presupuestarias externas de las dependencias que requerirán la autorización de la Secretaría y el procedimiento correspondiente, así como aquél para las adecuaciones presupuestarias de las entidades a que se refiere el artículo siguiente.
+###### ARTICULO 69.
 
-Las adecuaciones presupuestarias internas serán autorizadas por las propias dependencias y entidades informando al respecto a la Secretaría, en los términos de lo dispuesto en el Reglamento.
+Los intereses se causarán exclusivamente sobre los saldos insolutos del crédito concedido y su pago no podrá ser exigido por adelantado, sino únicamente por períodos vencidos.
 
-Cuando las adecuaciones presupuestarias representen en su conjunto o por una sola vez una variación mayor al 5 por ciento del presupuesto total del ramo de que se trate o del presupuesto de una entidad, la Secretaría deberá reportarlo en los informes trimestrales. Con base en esta información, la Comisión de Presupuesto y Cuenta Pública podrá emitir opinión sobre dichas adecuaciones.
+###### ARTICULO 70.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 20 DE MAYO DE 2021)</small>
+En los casos de compraventa a plazos de bienes muebles o inmuebles a que se refiere esta ley, si se rescinde el contrato, vendedor y comprador deben restituirse mutuamente las prestaciones que se hubieren hecho. El vendedor que hubiera entregado la cosa tendrá derecho a exigir por el uso de ella el pago de un alquiler o renta y, en su caso, una compensación por el demérito que haya sufrido el bien.
 
-No se podrán realizar reducciones a los programas presupuestarios ni a las inversiones dirigidas a la atención de la Igualdad entre Mujeres y Hombres, al Programa de Ciencia, Tecnología e Innovación; las erogaciones correspondientes al Desarrollo Integral de los Pueblos Indígenas y Comunidades Indígenas y la Atención a Grupos Vulnerables, salvo en los supuestos establecidos en la presente Ley y con la opinión de la Cámara de Diputados.
+El comprador que haya pagado parte del precio tiene derecho a recibir los intereses computados conforme a la tasa que, en su caso, se haya aplicado a su pago.
 
-###### Artículo 59.
+###### ARTICULO 71.
 
-Las entidades requerirán la autorización de la Secretaría únicamente para realizar las siguientes adecuaciones presupuestarias externas:
+En los casos de operaciones en que el precio deba cubrirse en exhibiciones periódicas, cuando se haya pagado más de la tercera parte del precio o del número total de los pagos convenidos y el proveedor exija la rescisión o cumplimiento del contrato por mora, el consumidor tendrá derecho a optar por la rescisión en los términos del artículo anterior o por el pago del adeudo vencido más las prestaciones que legalmente procedan. Los pagos que realice el consumidor, aún en forma extemporánea y que sean aceptados por el proveedor, liberan a aquél de las obligaciones inherentes a dichos pagos.
 
-I. En el caso de las entidades que reciban subsidios y transferencias:
+###### ARTICULO 72.
 
-a) Traspasos de recursos de gasto de inversión y obra pública a gasto corriente;
+Cualquier cargo que se prevea hacer por motivo de la expedición de un crédito al consumidor, deberá especificarse previamente a la firma del contrato o consumación de la venta, renta u operación correspondiente, desglosándose la diferencia y conservando el consumidor el derecho a realizar la operación de contado de no convenir a sus intereses los términos del crédito.
 
-b) Traspasos que impliquen incrementar el presupuesto total regularizable de servicios personales de la entidad;
+### Capítulo VIII. De las operaciones con inmuebles
 
-c) Cambios a los calendarios de presupuesto no compensados;
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-d) Las modificaciones que afecten los balances de operación primario y financiero;
+###### ARTICULO 73.
 
-e) Las modificaciones a los subsidios que otorguen con cargo a recursos presupuestarios; y
+Los actos relacionados con inmuebles sólo estarán sujetos a esta ley, cuando los proveedores sean fraccionadores, constructores, promotores y demás personas que intervengan en la asesoría y venta al público de viviendas destinadas a casa habitación o cuando otorguen al consumidor el derecho de usar inmuebles mediante el sistema de tiempo compartido, en los términos de los artículos 64 y 65 de la presente ley.
 
-f) Las erogaciones adicionales con cargo a ingresos excedentes.
+Los contratos relacionados con las actividades a que se refiere el párrafo anterior, deberán registrarse ante la Procuraduría.
 
-II. En el caso de las entidades que no reciban subsidios y transferencias, respecto de las adecuaciones a que se refieren los incisos b), d) y f) anteriores.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 60.
+ARTICULO 73 BIS.- Tratándose de los actos relacionados con inmuebles a que se refiere el artículo anterior, el proveedor deberá poner a disposición del consumidor al menos lo siguiente:
 
-Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus respectivas unidades de administración, podrán autorizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de los programas a su cargo y deberán emitir las normas aplicables. Dichas adecuaciones, incluyendo aquéllas comprendidas en el artículo 20 de esta Ley, deberán ser informadas al Ejecutivo Federal, por conducto de la Secretaría, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
+I. En caso de preventa, el proveedor deberá exhibir el proyecto ejecutivo de construcción completo, así como la maqueta respectiva y, en su caso, el inmueble muestra;
 
-###### Artículo 61.
+II. Los documentos que acrediten la propiedad del inmueble. Asimismo, deberá informar sobre la existencia de gravámenes que afecten la propiedad del mismo, los cuales deberán quedar cancelados al momento de la firma de la escritura correspondiente;
 
-Los ejecutores de gasto, en el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las metas de los programas aprobados en el Presupuesto de Egresos.
+III. La personalidad del vendedor y la autorización del proveedor para promover la venta;
 
-(NOTA: EL 5 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+IV. Información sobre las condiciones en que se encuentre el pago de contribuciones y servicios públicos;
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2019)</small>
+V. Para el caso de inmuebles nuevos o preventas, las autorizaciones, licencias o permisos expedidos por las autoridades correspondientes para la construcción, relativas a las especificaciones técnicas, seguridad, uso de suelo, la clase de materiales utilizados en la construcción; servicios básicos con que cuenta, así como todos aquellos con los que debe contar de conformidad con la legislación aplicable. En el caso de inmuebles usados que no cuenten con dicha documentación, se deberá indicar expresamente en el contrato la carencia de éstos;
 
-Los ahorros generados como resultado de la aplicación de dichas medidas deberán destinarse, en los términos de las disposiciones generales aplicables a los programas del ejecutor del gasto que los genere. Por cuanto hace al Poder Ejecutivo Federal, dichos ahorros se destinarán a los programas previstos en el Plan Nacional de Desarrollo O AL DESTINO QUE POR DECRETO DETERMINE EL TITULAR.
+VI. Los planos estructurales, arquitectónicos y de instalaciones o, en su defecto, un dictamen de las condiciones estructurales del inmueble. En su caso, señalar expresamente las causas por las que no cuenta con ellos así como el plazo en el que tendrá dicha documentación;
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+VII. Información sobre las características del inmueble, como son la extensión del terreno, superficie construida, tipo de estructura, instalaciones, acabados, accesorios, lugar o lugares de estacionamiento, áreas de uso común con otros inmuebles, porcentaje de indiviso en su caso, servicios con que cuenta y estado físico general del inmueble;
 
-El Ejecutivo Federal, por conducto de las dependencias competentes, establecerá los criterios generales para promover el uso eficiente de los recursos humanos y materiales de la Administración Pública Federal, a fin de reorientarlos al logro de objetivos, evitar la duplicidad de funciones, promover la eficiencia y eficacia en la gestión pública, modernizar y mejorar la prestación de los servicios públicos, promover la productividad en el desempeño de las funciones de las dependencias y entidades y reducir gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
+VIII. Información sobre los beneficios que en forma adicional ofrezca el proveedor en caso de concretar la operación, tales como acabados especiales, encortinados, azulejos y cocina integral, entre otros;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+IX. Las opciones de pago que puede elegir el consumidor, especificando el monto total a pagar en cada una de las opciones;
 
-A fin de lograr los objetivos a que se refiere el párrafo anterior, el Ejecutivo Federal deberá emitir un programa, en concordancia con el Plan Nacional de Desarrollo, el cual deberá publicarse en el Diario Oficial de la Federación, a más tardar el 30 de agosto del primer año de gobierno de la administración del Ejecutivo Federal.
+X. En caso de operaciones a crédito, el señalamiento del tipo de crédito de que se trata, así como una proyección del monto a pagar que incluya, en su caso, la tasa de interés que se va a utilizar, comisiones y cargos. En el caso de la tasa variable, deberá precisarse la tasa de interés de referencia y la fórmula para el cálculo de dicha tasa.
 
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+De ser el caso, los mecanismos para la modificación o renegociación de las opciones de pago, las condiciones bajo las cuales se realizaría y las implicaciones económicas, tanto para el proveedor como para el consumidor;
 
-Las dependencias y entidades deberán cumplir con los compromisos e indicadores del desempeño de las medidas que se establezcan en el programa a que se refiere el párrafo anterior. Dichos compromisos deberán formalizarse por los titulares de las dependencias y entidades, y el avance en su cumplimiento se reportará en los informes trimestrales.
+XI. Las condiciones bajo las cuales se llevará a cabo el proceso de escrituración, así como las erogaciones distintas del precio de la venta que deba realizar el consumidor, tales como gastos de escrituración, impuestos, avalúo, administración, apertura de crédito y gastos de investigación. De ser el caso, los costos por los accesorios o complementos;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+XII. Las condiciones bajo las cuales el consumidor puede cancelar la operación, y
 
-Dicho programa será de observancia obligatoria para todas las dependencias y entidades, incluyendo aquéllas a que se refiere el artículo 5 de la presente Ley, y deberá considerar al menos, los siguientes aspectos:
+XIII. Se deberá indicar al consumidor sobre la existencia y constitución de garantía hipotecaria, fiduciaria o de cualquier otro tipo, así como su instrumentación.
 
-I. Establecer mecanismos para monitorear anualmente la evolución de los recursos destinados a gasto corriente estructural ejercido;
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-II. Promover el uso intensivo de las tecnologías de la información y comunicaciones a fin de reducir el costo de los recursos materiales y servicios generales del gobierno;
+ARTICULO 73 TER.- El contrato que se pretenda registrar en los términos del párrafo segundo del artículo 73, deberá cumplir al menos, con los siguientes requisitos:
 
-III. Simplificar los procesos internos y eliminar aquellos que no están relacionados con las actividades sustantivas del ente público contribuyendo a la transparencia y a la rendición de cuentas;
+I. Lugar y fecha de celebración del contrato;
 
-IV. Establecer los lineamientos para reorientar los recursos de la Administración Pública Federal, en caso de que se realicen reestructuras a las dependencias y entidades;
+II. Estar escrito en idioma español, sin perjuicio de que puedan ser expresados, además, en otro idioma. En caso de diferencias en el texto o redacción, se estará a lo manifestado en el idioma español;
 
-V. Establecer las medidas para lograr una distribución de los recursos humanos al servicio de la Administración Pública Federal que permita hacer más eficiente la actuación del gobierno;
+III. Nombre, denominación o razón social, domicilio y registro federal de contribuyentes del proveedor, de conformidad con los ordenamientos legales sobre la materia;
 
-VI. Estrategias para modernizar la estructura de la Administración Pública Federal a fin de contar con recursos para ofrecer mejores bienes y servicios públicos;
+IV. Nombre, domicilio y, en su caso, registro federal de contribuyentes del consumidor;
 
-VII. Estrategias para enajenar aquellos bienes improductivos u obsoletos, ociosos o innecesarios, y
+V. Precisar las cantidades de dinero en moneda nacional, sin perjuicio de que puedan ser expresadas también en moneda extranjera; en el caso de que las partes no acuerden un tipo de cambio determinado, se estará al tipo de cambio que rija en el lugar y fecha en que se realice el pago, de conformidad con la legislación aplicable;
 
-VIII. Establecer esquemas para que la Secretaría brinde apoyo técnico a las dependencias y entidades en la elaboración de sus programas de aseguramiento y manuales de procedimientos sobre la contratación de seguros y soporte de siniestros, en la determinación de sus niveles de retención máximos y en la prevención y disminución de los riesgos inherentes a los bienes con que cuenten, así como en el proceso de siniestros reportados a las compañías de seguros con las que mantengan celebrados contratos de seguros sobre bienes.
+VI. Descripción del objeto del contrato;
 
-###### Artículo 62.
+VII. El precio total de la operación, la forma de pago, así como las erogaciones adicionales que deberán cubrir las partes;
 
-Los ejecutores de gasto podrán realizar contrataciones de prestación de servicios de asesoría, consultoría, estudios e investigaciones, siempre y cuando:
+VIII. Relación de los derechos y obligaciones, tanto del proveedor como del consumidor;
 
-I. Cuenten con recursos para dichos fines en el Presupuesto de Egresos;
+IX. Las penas convencionales que se apliquen tanto al proveedor como al consumidor por el incumplimiento de las obligaciones contraídas, las cuales deberán ser recíprocas y equivalentes, sin perjuicio de lo dispuesto por los ordenamientos legales aplicables;
 
-II. Las personas físicas y morales que presten los servicios no desempeñen funciones iguales o equivalentes a las del personal de plaza presupuestaria;
+X. En su caso, las garantías para el cumplimiento del contrato, así como los gastos reembolsables y forma para su aplicación;
 
-III. Las contrataciones de servicios profesionales sean indispensables para el cumplimiento de los programas autorizados;
+XI. El procedimiento para la cancelación del contrato de adhesión y las implicaciones que se deriven para el proveedor y el consumidor;
 
-IV. Se especifiquen los servicios profesionales a contratar, y
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2009)</small>
 
-V. Se apeguen a lo establecido en el Presupuesto de Egresos y las demás disposiciones generales aplicables.
+XII. Fecha de inicio y término de ejecución de la actividad o servicio contratado, así como la de entrega del bien objeto del contrato; esto último, de conformidad con lo dispuesto por el artículo 74 de esta Ley.
 
-###### Artículo 63.
+El proveedor únicamente quedará exento de la obligación de entregar en la fecha convenida, cuando acredite plenamente, que la entrega no se realizó en la misma por caso fortuito o fuerza mayor que afecte directamente, a él o al bien, pudiéndose pactar sin responsabilidad alguna, una nueva fecha de entrega;
 
-Los titulares de los ejecutores de gasto autorizarán las erogaciones por concepto de gastos de orden social, congresos, convenciones, exposiciones, seminarios, espectáculos culturales o cualquier otro tipo de foro o evento análogo, en los términos de las disposiciones generales aplicables.
+XIII. En los casos de operaciones de compraventa de inmuebles, el proveedor deberá precisar en el contrato, las características técnicas y de materiales de la estructura, de las instalaciones y acabados.
 
-Los ejecutores de gasto deberán integrar expedientes que incluyan, entre otros, los documentos con los que se acredite la contratación u organización requerida, la justificación del gasto, los beneficiarios, los objetivos y programas a los que se dará cumplimiento.
+De igual manera, deberá señalarse que el inmueble cuenta con la infraestructura para el adecuado funcionamiento de sus servicios básicos;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+XIV. En el caso de operaciones de compraventa, deberán señalarse los términos bajo los cuales habrá de otorgarse su escrituración. El proveedor en su caso, deberá indicar que el bien inmueble deberá estar libre de gravámenes a la firma de la escritura correspondiente, y
 
-En materia de gastos de vehículos, viajes oficiales, bienes y servicios, los ejecutores de gasto deberán observar lo siguiente:
+XV. Las demás que se exijan conforme a la presente ley para el caso de los contratos de adhesión.
 
-I. Vehículos: Sólo podrán adquirirse las unidades nuevas que resulten indispensables para destinarse en forma exclusiva al uso oficial, aquéllos que presten directamente servicios públicos a la población, los necesarios para actividades de seguridad pública y nacional, o para las actividades productivas.
+> <small>(ADICIONADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-II. Bienes y Servicios: Los ejecutores de gasto deberán racionalizar el gasto de los servicios de telefonía, combustibles, arrendamientos, viáticos, alimentación, mobiliario, remodelación de oficinas, equipo de telecomunicaciones, bienes informáticos, y pasajes a lo estrictamente indispensable, y
+ARTICULO 73 QUÁTER.- Todo bien inmueble cuya transacción esté regulada por esta Ley, deberá ofrecerse al consumidor con la garantía correspondiente, la cual no podrá ser inferior a un año contado a partir de la entrega real del bien. En el tiempo en que dure la garantía el proveedor tendrá la obligación de realizar, sin costo alguno para el consumidor, cualquier acto tendiente a la reparación de los defectos o fallas presentados por el bien objeto del contrato.
 
-III. Se promoverá la contratación consolidada de materiales, suministros, mobiliario y demás bienes, así como de los servicios cuya naturaleza lo permita, en términos de la normatividad aplicable.
+El tiempo que duren las reparaciones efectuadas al inmueble al amparo de la garantía no es computable dentro del plazo de la misma; una vez que el inmueble haya sido reparado se iniciará la garantía respecto de las reparaciones realizadas, así como con relación a las piezas o bienes que hubieren sido repuestos y continuará respecto al resto del inmueble.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-Las dependencias y entidades se abstendrán de realizar adquisiciones de inmuebles sin la previa justificación costo-beneficio y autorización en los términos de las disposiciones aplicables.
+ARTICULO 73 QUINTUS.- En caso de que el consumidor haya hecho valer la garantía establecida en el artículo 73 QUÁTER, y no obstante, persistan los defectos o fallas imputables al proveedor, éste se verá obligado de nueva cuenta a realizar todas las reparaciones necesarias para corregirlas de inmediato, así como a otorgarle, en el caso de defectos o fallas leves, una bonificación del cinco por ciento sobre el valor de la reparación; en caso de defectos o fallas graves, el proveedor deberá realizar una bonificación del veinte por ciento de la cantidad señalada en el contrato como precio del bien.
 
-###### Artículo 64.
+Para efectos de esta Ley, se entiende por defectos o fallas graves, aquellos que afecten la estructura o las instalaciones del inmueble y comprometan el uso pleno o la seguridad del inmueble, o bien, impidan que el consumidor lo use, goce y disfrute conforme a la naturaleza o destino del mismo. Se entenderá por defectos o fallas leves, todos aquellos que no sean graves.
 
-El gasto en servicios personales aprobado en el Presupuesto de Egresos comprende la totalidad de recursos para cubrir:
+En caso de que los defectos o fallas graves sean determinados por el proveedor como de imposible reparación, éste podrá optar desde el momento en que se le exija el cumplimiento de la garantía, por sustituir el inmueble, en cuyo caso se estará a lo dispuesto por la fracción I siguiente, sin que haya lugar a la bonificación. En caso de que en cumplimiento de la garantía decida repararlas y no lo haga, quedará sujeto a la bonificación y a lo dispuesto en el párrafo siguiente.
 
-I. Las remuneraciones que constitucional y legalmente correspondan a los servidores públicos de los ejecutores de gasto por concepto de percepciones ordinarias y extraordinarias;
+Para el supuesto de que, aún después del ejercicio de la garantía y bonificación antes señaladas, el proveedor no haya corregido los defectos o fallas graves, el consumidor podrá optar por cualquiera de las dos acciones que se señalan a continuación:
 
-II. Las aportaciones de seguridad social;
+I. Solicitar la sustitución del bien inmueble, en cuyo caso el proveedor asumirá todos los gastos relacionados con la misma, o
 
-III. Las primas de los seguros que se contratan en favor de los servidores públicos y demás asignaciones autorizadas en los términos de las normas aplicables, y
+II. Solicitar la rescisión del contrato, en cuyo caso el proveedor tendrá la obligación de reintegrarle el monto pagado, así como los intereses que correspondan, conforme lo previsto en el segundo párrafo del artículo 91 de esta ley.
 
-IV. Las obligaciones fiscales que generen los pagos a que se refieren las fracciones anteriores, conforme a las disposiciones generales aplicables.
+###### ARTICULO 74.
 
-###### Artículo 65.
+Los proveedores deberán efectuar la entrega física o real del bien materia de la transacción en el plazo pactado con el consumidor y de acuerdo con las especificaciones previamente establecidas u ofrecidas.
 
-Los ejecutores de gasto, al realizar pagos por concepto de servicios personales, deberán observar lo siguiente:
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I. Sujetarse a su presupuesto aprobado conforme a lo previsto en el artículo 33 de esta Ley;
+###### ARTICULO 75.
 
-II. Sujetarse a los tabuladores de remuneraciones en los términos previstos en las disposiciones generales aplicables;
+En los contratos de adhesión relacionados con inmuebles se estipulará la información requerida en el Capítulo VII, fecha de entrega, especificaciones, plazos y demás elementos que individualicen el bien, así como la información requerida en el artículo 73 TER. Los proveedores no podrán recibir pago alguno hasta que conste por escrito la relación contractual, excepto el relativo a gastos de investigación.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+###### ARTICULO 76.
 
-Los servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión que deberá ser proporcional a sus responsabilidades. Ningún servidor público podrá recibir remuneración mayor a la establecida para el Presidente de la República en el Presupuesto de Egresos.
+La Procuraduría podrá promover ante la autoridad judicial, cuando vea amenazado el interés jurídico de los consumidores, el aseguramiento de los bienes a que se refiere este capítulo, en aquellas operaciones que considere de difícil o imposible cumplimiento, mientras subsista la causa de la acción.
 
-III. En materia de incrementos en las percepciones, deberán sujetarse estrictamente a las previsiones salariales y económicas a que se refiere el artículo 33 fracción II de esta Ley, aprobadas específicamente para este propósito por la Cámara de Diputados en el Presupuesto de Egresos;
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
-IV. Sujetarse, en lo que les corresponda, a lo dispuesto en las leyes laborales y las leyes que prevean el establecimiento de servicios profesionales de carrera, así como observar las demás disposiciones generales aplicables. En el caso de las dependencias y entidades, deberán observar adicionalmente la política de servicios personales que establezca el Ejecutivo Federal;
+### Capítulo VIII bis. De los derechos de los consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
-V. No se autorizarán bonos o percepciones extraordinarias salvo autorización previa de la Secretaría o en el caso de los Poderes Legislativo y Judicial, y los entes autónomos, en los términos de las disposiciones que les resulten aplicables.
+ARTICULO 76 BIS.- Las disposiciones del presente Capítulo aplican a las relaciones entre proveedores y consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología. En la celebración de dichas transacciones se cumplirá con lo siguiente:
 
-Las percepciones extraordinarias son aquéllas que no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+I. El proveedor utilizará la información proporcionada por el consumidor en forma confidencial, por lo que no podrá difundirla o transmitirla a otros proveedores ajenos a la transacción, salvo autorización expresa del propio consumidor o por requerimiento de autoridad competente;
 
-VI. Las dependencias deberán cubrir los pagos en los términos autorizados por la Secretaría y, en el caso de las entidades, adicionalmente por acuerdo del órgano de gobierno;
+II. El proveedor utilizará alguno de los elementos técnicos disponibles para brindar seguridad y confidencialidad a la información proporcionada por el consumidor e informará a éste, previamente a la celebración de la transacción, de las características generales de dichos elementos;
 
-VII. Las adecuaciones presupuestarias al gasto en servicios personales deberán realizarse conforme a lo dispuesto en los artículos 57 a 60 y 67 de esta Ley y a las disposiciones que establezca el Reglamento;
+III. El proveedor deberá proporcionar al consumidor, antes de celebrar la transacción, su domicilio físico, números telefónicos y demás medios a los que pueda acudir el propio consumidor para presentarle sus reclamaciones o solicitarle aclaraciones;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+IV. El proveedor evitará las prácticas comerciales engañosas respecto de las características de los productos, por lo que deberá cumplir con las disposiciones relativas a la información y publicidad de los bienes y servicios que ofrezca, señaladas en esta Ley y demás disposiciones que se deriven de ella;
 
-VIII. Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, salvo en los casos permitidos en esta Ley. En todo caso, la creación, sustitución de plazas y las nuevas contrataciones sólo procederán cuando se cuente con los recursos previamente autorizados para cubrir todos los gastos inherentes a las contrataciones, incluyendo las obligaciones por concepto de impuestos, aportaciones a seguridad social y demás pagos y prestaciones que por ley deban cubrirse. Los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto deberán constituirse en reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas;
+V. El consumidor tendrá derecho a conocer toda la información sobre los términos, condiciones, costos, cargos adicionales, en su caso, formas de pago de los bienes y servicios ofrecidos por el proveedor;
 
-IX. Abstenerse de contratar trabajadores eventuales, salvo que tales contrataciones se encuentren previstas en el respectivo presupuesto destinado a servicios personales;
+VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales, y
 
-X. Sujetarse a las disposiciones generales aplicables para la autorización de los gastos de representación y de las erogaciones necesarias para el desempeño de comisiones oficiales, y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XI. Las dependencias y entidades deberán sujetarse a la estructura ocupacional o a la plantilla de personal autorizada por la Secretaría y la Función Pública en el ámbito de sus respectivas competencias;
+VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.
 
-> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+### Capítulo IX. De las garantías
 
-XII. Las condiciones de trabajo, los beneficios económicos y las demás prestaciones derivadas de los contratos colectivos de trabajo o que se fijen en las condiciones generales de trabajo de la Administración Pública Federal, no se harán extensivas a favor de los servidores públicos de mandos medios y superiores y personal de enlace.
+###### ARTICULO 77.
 
-Los titulares de las entidades, independientemente del régimen laboral que las regule, serán responsables de realizar los actos necesarios y la negociación que sea procedente, durante los procesos de revisión de las condiciones generales de trabajo o de los contratos colectivos de trabajo, así como durante las revisiones de salario anuales, para que los servidores públicos de mando y personal de enlace al servicio de las entidades queden expresamente excluidos del beneficio de las prestaciones aplicables al personal de base, en los términos del artículo 184 de la Ley Federal del Trabajo, en aplicación directa o supletoria según se trate, con excepción de las de seguridad social y protección al salario.
+Todo bien o servicio que se ofrezca con garantía deberá sujetarse a lo dispuesto por esta ley y a lo pactado entre proveedores y consumidor.
 
-### CAPITULO IV.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Confinamiento y prohibición de concurrencia o residencia.
+Para los efectos del párrafo anterior la garantía no podrá ser inferior a sesenta días contados a partir de la entrega del bien o la prestación total del servicio.
 
-21.- El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. El Juez hará la designación del lugar y fijará el tiempo que durará la pena, conciliando la exigencia de la tranquilidad pública con la salud y las necesidades del condenado.
+###### ARTICULO 78.
 
-(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
+La póliza de garantía deberá expedirse por el proveedor por escrito, de manera clara y precisa expresando, por lo menos, su alcance, duración, condiciones, mecanismos para hacerlas efectivas, domicilio para reclamaciones y establecimientos o talleres de servicio. La póliza debe ser entregada al consumidor al momento de recibir éste el bien o servicio de que se trate.
 
-22.- La prohibición de ir a determinado lugar o de residir en él se extenderá únicamente a aquellos lugares en los que el infractor haya cometido el delito o en donde residieren el ofendido o sus familiares. El Juez fijará el tiempo que debe durar la medida, teniendo en cuenta las prevenciones del artículo anterior en cuanto sean aplicables.
+###### ARTICULO 79.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+Las garantías ofrecidas no pueden ser inferiores a las que determinen las disposiciones aplicables ni prescribir condiciones o limitaciones que reduzcan los derechos que legalmente corresponden al consumidor.
 
-###### Artículo 66.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-La Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, emitirán el manual de percepciones de los servidores públicos de las dependencias y entidades, el cual incluirá el tabulador de percepciones ordinarias y las reglas para su aplicación, conforme a las percepciones autorizadas en el Presupuesto de Egresos. Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, emitirán sus manuales de remuneraciones incluyendo el tabulador y las reglas correspondientes, conforme a lo señalado anteriormente.
+El cumplimiento de las garantías es exigible, indistintamente, al productor y al importador del bien o servicio, así como al distribuidor, salvo en los casos en que alguno de ellos o algún tercero asuma por escrito la obligación. El cumplimiento de las garantías deberá realizarse en el domicilio en que haya sido adquirido o contratado el bien o servicio, o en el lugar o lugares que exprese la propia póliza. El proveedor deberá cubrir al consumidor los gastos necesarios erogados para lograr el cumplimiento de la garantía en domicilio diverso al antes señalado.
 
-Los manuales a que se refiere este artículo deberán publicarse en el Diario Oficial de la Federación a más tardar el último día hábil de mayo de cada año.
+###### ARTICULO 80.
 
-###### Artículo 67.
+Los productores deberán asegurar y responder del suministro oportuno de partes y refacciones, así como del servicio de reparación, durante el término de vigencia de la garantía y, posteriormente, durante el tiempo en que los productos sigan fabricándose, armándose o distribuyéndose.
 
-Los movimientos que realicen los ejecutores de gasto a sus estructuras orgánicas, ocupacionales y salariales, así como a las plantillas de personal, deberán realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso incrementarán el presupuesto regularizable para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas conforme a los recursos previstos específicamente para tal fin en el Presupuesto de Egresos en los términos del artículo 33, fracción II de esta Ley.
+Mediante normas oficiales mexicanas la Secretaría podrá disponer que determinados productos deben ser respaldados con una garantía de mayor vigencia por lo que se refiere al suministro de partes y refacciones, tomando en cuenta la durabilidad del producto.
 
-En el caso de las dependencias y entidades, adicionalmente a lo dispuesto en el párrafo anterior, deberán observar las disposiciones generales aplicables al servicio profesional de carrera y, en su caso, obtener las autorizaciones correspondientes de la Función Pública.
+###### ARTICULO 81.
 
-###### Artículo 68.
+En caso de que el producto haya sido reparado o sometido a mantenimiento y el mismo presente deficiencias imputables al autor de la reparación o del mantenimiento dentro de los treinta días naturales posteriores a la entrega del producto al consumidor, éste tendrá derecho a que sea reparado o mantenido de nuevo sin costo alguno. Si el plazo de la garantía es superior a los treinta días naturales, se estará a dicho plazo.
 
-Los ejecutores de gasto que establezcan percepciones extraordinarias en favor de los servidores públicos a su cargo, por concepto de estímulos al desempeño destacado o reconocimientos e incentivos similares, deberán sujetarse a lo siguiente:
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I. Los estímulos deberán otorgarse en los términos que dispongan el artículo 9 de la Ley de Planeación, la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, la Ley de Premios, Estímulos y Recompensas Civiles, o en las demás leyes que prevean expresamente percepciones extraordinarias similares;
+###### ARTICULO 82.
 
-II. Los recursos para cubrir los estímulos deberán estar previstos en sus respectivos presupuestos;
+El consumidor puede optar por pedir la restitución del bien o servicio, la rescisión del contrato o la reducción del precio, y en cualquier caso, la bonificación o compensación, cuando la cosa u objeto del contrato tenga defectos o vicios ocultos que la hagan impropia para los usos a que habitualmente se destine, que disminuyan su calidad o la posibilidad de su uso, o no ofrezca la seguridad que dada su naturaleza normalmente se espere de ella y de su uso razonable. Cuando el consumidor opte por la rescisión, el proveedor tiene la obligación de reintegrarle el precio pagado y, en su caso, los intereses a que se refiere el segundo párrafo del artículo 91 de esta ley.
 
-III. Los esquemas para el otorgamiento de los estímulos en las dependencias y entidades deberán contar con la autorización de la Secretaría, por lo que respecta al control presupuestario, y
+La bonificación o compensación a que se refiere el párrafo anterior se determinará conforme a lo dispuesto en el artículo 92 TER de esta ley.
 
-IV. Los estímulos sólo podrán ser cubiertos a los servidores públicos que cuenten con nombramiento y ocupen una plaza presupuestaria.
+Lo anterior sin perjuicio de la indemnización que en su caso corresponda por daños y perjuicios.
 
-###### Artículo 69.
+###### ARTICULO 83.
 
-Los ejecutores de gasto podrán celebrar contratos de prestación de servicios profesionales por honorarios con personas físicas con cargo al presupuesto de servicios personales, únicamente cuando se reúnan los siguientes requisitos:
+El tiempo que duren las reparaciones efectuadas al amparo de la garantía no es computable dentro del plazo de la misma. Cuando el bien haya sido reparado se iniciará la garantía respecto de las piezas repuestas y continuará con relación al resto. En el caso de reposición del bien deberá renovarse el plazo de la garantía.
 
-I. Los recursos destinados a celebrar tales contratos deberán estar expresamente previstos para tal efecto en sus respectivos presupuestos autorizados de servicios personales;
+###### ARTICULO 84.
 
-II. Los contratos no podrán exceder la vigencia anual de cada Presupuesto de Egresos;
+Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuera del plazo establecido por la garantía, deberá acreditar que compareció ante el proveedor dentro del (sic) dicho plazo.
 
-III. La persona que se contrate no deberá realizar actividades o funciones equivalentes a las que desempeñe el personal que ocupe una plaza presupuestaria, salvo las excepciones que se prevean en el Reglamento;
+### Capítulo X. De los contratos de adhesión
 
-IV. El monto mensual bruto que se pacte por concepto de honorarios no podrá rebasar los límites autorizados conforme a los tabuladores que se emitan en los términos de las disposiciones aplicables, quedando bajo la estricta responsabilidad de las dependencias y entidades que la retribución que se fije en el contrato guarde estricta congruencia con las actividades encomendadas al prestador del servicio. En el caso de los Poderes Legislativo y Judicial y de los entes autónomos, no podrán rebasar los límites fijados por sus respectivas unidades de administración.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Tratándose de las entidades, además se apegarán a los acuerdos de sus respectivos órganos de gobierno, los que deberán observar y cumplir las disposiciones generales aplicables.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
-La Función Pública emitirá las disposiciones generales y el modelo de contrato correspondiente para las contrataciones por honorarios de las dependencias y entidades.
+###### ARTICULO 85.
 
-Los ejecutores de gasto deberán reportar en los informes trimestrales y la Cuenta Pública las contrataciones por honorarios que realicen durante el ejercicio fiscal.
+Para los efectos de esta ley, se entiende por contrato de adhesión el documento elaborado unilateralmente por el proveedor, para establecer en formatos uniformes los términos y condiciones aplicables a la adquisición de un producto o la prestación de un servicio, aun cuando dicho documento no contenga todas las cláusulas ordinarias de un contrato. Todo contrato de adhesión celebrado en territorio nacional, para su validez, deberá estar escrito en idioma español y sus caracteres tendrán que ser legibles a simple vista y en un tamaño y tipo de letra uniforme. Además, no podrá implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o cualquier otra cláusula o texto que viole las disposiciones de esta ley.
 
-###### Artículo 70.
+###### ARTICULO 86.
 
-La Secretaría será responsable de establecer y operar un sistema, con el fin de optimizar y uniformar el control presupuestario de los servicios personales.
+La Secretaría, mediante normas oficiales mexicanas podrá sujetar contratos de adhesión a registro previo ante la Procuraduría cuando impliquen o puedan implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o altas probabilidades de incumplimiento.
 
-La Función Pública contará con un sistema de administración de los recursos humanos de las dependencias y entidades y para tal efecto estará facultada para dictar las normas de su funcionamiento y operación. El registro del personal militar lo llevarán las Secretarías de la Defensa Nacional y de Marina, según corresponda.
+Las normas podrán referirse a cualesquiera términos y condiciones, excepto precio.
 
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, convendrán con la Secretaría y la Función Pública la manera de coordinarse en el registro del personal de dichos ejecutores de gasto, a efecto de presentar periódicamente la información correspondiente.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 71.
+Los contratos de adhesión sujetos a registro deberán contener una cláusula en la que se determine que la Procuraduría será competente en la vía administrativa para resolver cualquier controversia que se suscite sobre la interpretación o cumplimiento de los mismos. Asimismo, deberán señalar el número de registro otorgado por la Procuraduría.
 
-Salvo lo previsto en las leyes, el Ejecutivo Federal, por conducto de la Función Pública, determinará en forma expresa y general los casos en que proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las dependencias y entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 72.
+ARTICULO 86 BIS.- En los contratos de adhesión de prestación de servicios deben incluirse por escrito o por vía electrónica los servicios adicionales, especiales, o conexos, que pueda solicitar el consumidor de forma opcional por conducto y medio del servicio básico.
 
-La acción para exigir el pago de las remuneraciones prescribirá en un año contado a partir de la fecha en que sean devengados o se tenga derecho a percibirlas. El mismo término será aplicable a las recompensas y las pensiones de gracia a cargo del Erario Federal.
+El proveedor sólo podrá prestar un servicio adicional o conexo no previsto en el contrato original si cuenta con el consentimiento expreso del consumidor, ya sea por escrito o por vía electrónica.
 
-La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
 
-### CAPITULO V.
+ARTICULO 86 TER.- En los contratos de adhesión de prestación de servicios, el consumidor gozará de las siguientes prerrogativas:
 
-Multa.
+I. Adquirir o no la prestación de servicios adicionales, especiales o conexos al servicio básico;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+II. Contratar la prestación de los servicios adicionales, especiales o conexos con el proveedor que elija;
 
-23.- La multa consiste en el pago de una cantidad de dinero al Estado y se aplicará al Fondo para la Administración de Justicia.
+III. Dar por terminada la prestación de los servicios adicionales, especiales o conexos al servicio básico en el momento que lo manifieste de manera expresa al proveedor, sin que ello implique que proceda la suspensión o la cancelación de la prestación del servicio básico. El consumidor sólo podrá hacer uso de esta prerrogativa si se encontrare al corriente en el cumplimiento de todas sus obligaciones contractuales y se hubiese vencido el plazo mínimo pactado; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+IV. Las demás prerrogativas que señalen ésta y otras leyes o reglamentos.
 
-24.- La multa se fijará por días multa y no podrá exceder de mil quinientos días de salario.
+El consumidor gozará de las anteriores prerrogativas aun cuando no hubieren sido incluidas de manera expresa en el clausulado del contrato de adhesión de que se trate.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
 
-El día multa equivale al salario mínimo general vigente en el lugar y: en el momento de la consumación, si el delito fuere instantáneo; o en el momento que cesó, si fuere delito permanente; o en el momento consumativo de la última conducta, si fuere delito continuado;
+ARTICULO 86 QUATER.- Cualquier diferencia entre el texto del contrato de adhesión registrado ante la Procuraduría Federal del Consumidor y el utilizado en perjuicio de los consumidores, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Cuando la ley establezca multa en pesos, se hará la conversión de ésta tomando en cuenta el máximo de la multa fijada por la Ley, con las correspondientes que a continuación se indican: cuando el máximo no sea superior a quinientos pesos, de uno a tres días multa; si excede de esta cantidad pero no de diez mil pesos, entre cuatro y veinte días multa; si es superior a diez mil pesos pero no pasa de cincuenta mil pesos, de veintiuno a doscientos días multa; y si excede de cincuenta mil pesos entre doscientos uno a quinientos días multa.
+###### ARTICULO 87.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+En caso de que los contratos de adhesión requieran de registro previo ante la Procuraduría, los proveedores deberán presentarlos ante la misma antes de su utilización y ésta se limitará a verificar que los modelos se ajusten a lo que disponga la norma correspondiente y a las disposiciones de esta ley, y emitirá su resolución dentro de los treinta días siguientes a la fecha de presentación de la solicitud de registro. Transcurrido dicho plazo sin haberse emitido la resolución correspondiente, los modelos se entenderán aprobados y será obligación de la Procuraduría registrarlos, quedando en su caso como prueba de inscripción la solicitud de registro. Para la modificación de las obligaciones o condiciones de los contratos que requieran de registro previo será indispensable solicitar la modificación del registro ante la Procuraduría, la cual se tramitará en los términos antes señalados.
 
-Cuando en la ejecución de un delito intervienen varias personas, los tribunales fijaran la multa para cada uno de los activos, según su participación y sus condiciones económicas.
+Los contratos que deban registrarse conforme a esta ley, las normas oficiales mexicanas y demás disposiciones aplicables, y no se registren, así como aquéllos cuyo registro sea negado por la Procuraduría, no producirán efectos contra el consumidor.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-25.- La obligación de pagar el importe de la multa, es preferente se cubrirá primero que cualquier otra de las obligaciones contraídas con posterioridad al delito, excepto el pago de la reparación del daño.
+ARTICULO 87 BIS.- La Procuraduría podrá publicar en el Diario Oficial de la Federación, el modelo de aquellos contratos que deban ser registrados de conformidad con el artículo 86 de esta ley, a fin de que los proveedores puedan utilizarlos. En tales casos, el proveedor únicamente dará aviso a la Procuraduría sobre la adopción del modelo de contrato para efectos de registro.
 
-Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente, por prestación de trabajo a favor de la comunidad.
+Cuando el proveedor haya dado aviso a la Procuraduría para adoptar un contrato conforme al modelo publicado, no podrá modificarlo ni incluir otras cláusulas o excepciones a su aplicación, sin haber cumplido con lo dispuesto en el artículo 87 TER. En caso de no hacerlo, dichas modificaciones, adiciones o excepciones se tendrán por no puestas.
 
-Cada jornada de trabajo saldará un día de multa. Cuando no sea posible o conveniente la sustitución de la multa por la prestación del servicio, la autoridad judicial podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa sustituidos.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+ARTICULO 87 TER.- Cuando el contrato de adhesión de un proveedor contenga variaciones respecto del modelo de contrato publicado por la Procuraduría a que se refiere el artículo anterior, el proveedor deberá solicitar su registro en los términos del procedimiento previsto en el artículo 87.
 
-26.- Dentro del plazo señalado para el cumplimiento voluntario, el sentenciado podrá solicitar al Juez que le conceda pagar la multa en parcialidades, pudiendo dicha autoridad fijar plazos de la manera siguiente:
+###### ARTICULO 88.
 
-I.- Si el monto no excede de cien salarios, se podrá conceder un plazo hasta de un mes y pagarse por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en una sola exhibición; y
+Los interesados podrán inscribir voluntariamente sus modelos de contrato de adhesión aunque no requieran registro previo, siempre y cuando la Procuraduría estime que sus efectos no lesionan el interés de los consumidores y que su texto se apega a lo dispuesto por esta ley.
 
-II.- Si el monto excede de cien salarios, se podrá conceder un plazo hasta de seis meses, y pagarse por terceras partes, si se da la condición expresada en la fracción anterior.
+###### ARTICULO 89.
 
-Si el sentenciado se negare, sin causa justificada, a cubrir el importe de la multa, el Estado lo exigirá mediante el procedimiento económico coactivo.
+La Procuraduría, en la tramitación del registro de modelos de contratos de adhesión, podrá requerir al proveedor la aportación de información de carácter comercial necesaria para conocer la naturaleza del acto objeto del contrato, siempre y cuando no se trate de información confidencial o sea parte de secretos industriales o comerciales.
 
-Si no alcanza a cubrirse la multa con los bienes del sentenciado o con el producto de su trabajo, durante y con motivo del cumplimiento de la pena privativa de libertad que se hubiere impuesto, al recobrar su libertad seguirá sujeto a la obligación de pagar la parte que le falta.
+###### ARTICULO 90.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+No serán válidas y se tendrán por no puestas las siguientes cláusulas de los contratos de adhesión ni se inscribirán en el registro cuando:
 
-###### Artículo 73.
+I. Permitan al proveedor modificar unilateralmente el contenido del contrato, o sustraerse unilateralmente de sus obligaciones;
 
-Cuando algún servidor público fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, los familiares o quienes hayan vivido con él en la fecha del fallecimiento y se hagan cargo de los gastos de inhumación, recibirán hasta el importe de cuatro meses de las percepciones ordinarias que estuviere percibiendo en esa fecha.
+II. Liberen al proveedor de su responsabilidad civil, excepto cuando el consumidor incumpla el contrato;
 
-###### Artículo 74.
+III. Trasladen al consumidor o a un tercero que no sea parte del contrato la responsabilidad civil del proveedor;
 
-El Ejecutivo Federal, por conducto de la Secretaría, autorizará la ministración de los subsidios y transferencias que con cargo a los presupuestos de las dependencias y, en su caso de las entidades, se aprueben en el Presupuesto de Egresos. La Secretaría podrá reducir, suspender o terminar la ministración de subsidios y transferencias cuando las dependencias y entidades no cumplan lo establecido en esta Ley, informando a la Cámara de Diputados y tomando en cuenta la opinión de la misma en el destino de los recursos correspondientes.
+IV. Prevengan términos de prescripción inferiores a los legales;
 
-Los titulares de las dependencias y entidades, con cargo a cuyos presupuestos se autorice la ministración de subsidios y transferencias, serán responsables, en el ámbito de sus competencias, de que éstos se otorguen y ejerzan conforme a las disposiciones generales aplicables.
+V. Prescriban el cumplimiento de ciertas formalidades para la procedencia de las acciones que se promuevan contra el proveedor; y
 
-Las dependencias podrán suspender las ministraciones de recursos a los órganos administrativos desconcentrados o a las entidades, cuando éstos no cumplan con las disposiciones generales aplicables. Las dependencias que suspendan la ministración de recursos deberán informarlo a la Secretaría.
+VI. Obliguen al consumidor a renunciar a la protección de esta ley o lo sometan a la competencia de tribunales extranjeros.
 
-###### Artículo 75.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Los subsidios deberán sujetarse a los criterios de objetividad, equidad, transparencia, publicidad, selectividad y temporalidad, para lo cual las dependencias y entidades que los otorguen deberán:
+ARTICULO 90 BIS.- Cuando con posterioridad a su registro se aprecie que un contrato contiene cláusulas que sean contrarias a esta ley o a las normas oficiales mexicanas, la Procuraduría, de oficio o a petición de cualquier persona interesada, procederá a la cancelación del registro correspondiente.
 
-I. Identificar con precisión a la población objetivo, tanto por grupo específico como por región del país, entidad federativa y municipio;
+En tales casos, la Procuraduría procederá conforme al procedimiento establecido en el artículo 123 de esta ley.
 
-II. En su caso, prever montos máximos por beneficiario y por porcentaje del costo total del programa.
+### Capítulo XI. Del incumplimiento
 
-En los programas de beneficio directo a individuos o grupos sociales, los montos y porcentajes se establecerán con base en criterios redistributivos que deberán privilegiar a la población de menos ingresos y procurar la equidad entre regiones y entidades federativas, sin demérito de la eficiencia en el logro de los objetivos;
+###### ARTICULO 91.
 
-III. Procurar que el mecanismo de distribución, operación y administración otorgue acceso equitativo a todos los grupos sociales y géneros;
+Los pagos hechos en exceso del precio máximo determinado o, en su caso, estipulado, son recuperables por el consumidor. Si el proveedor no devuelve la cantidad cobrada en exceso dentro del término de 5 días hábiles siguientes a la reclamación además de la sanción que corresponda, estará obligado a pagar el máximo de los intereses a que se refiere este artículo. La acción para solicitar esta devolución prescribe en un año a partir de la fecha en que tuvo lugar el pago.
 
-IV. Garantizar que los recursos se canalicen exclusivamente a la población objetivo y asegurar que el mecanismo de distribución, operación y administración facilite la obtención de información y la evaluación de los beneficios económicos y sociales de su asignación y aplicación; así como evitar que se destinen recursos a una administración costosa y excesiva;
+Los intereses se calcularán con base en el costo porcentual promedio de captación que determine el Banco de México, o cualquiera otra tasa que la sustituya oficialmente como indicador del costo de los recursos financieros.
 
-V. Incorporar mecanismos periódicos de seguimiento, supervisión y evaluación que permitan ajustar las modalidades de su operación o decidir sobre su cancelación;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-VI. En su caso, buscar fuentes alternativas de ingresos para lograr una mayor autosuficiencia y una disminución o cancelación de los apoyos con cargo a recursos presupuestarios;
+###### ARTICULO 92.
 
-VII. Asegurar la coordinación de acciones entre dependencias y entidades, para evitar duplicación en el ejercicio de los recursos y reducir gastos administrativos;
+Los consumidores tendrán derecho, a su elección, a la reposición del producto o a la devolución de la cantidad pagada, contra la entrega del producto adquirido, y en todo caso, a una bonificación, en los siguientes casos:
 
-VIII. Prever la temporalidad en su otorgamiento;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-IX. Procurar que sea el medio más eficaz y eficiente para alcanzar los objetivos y metas que se pretenden, y
+I. Cuando el contenido neto de un producto o la cantidad entregada sea menor a la indicada en el envase, recipiente, empaque o cuando se utilicen instrumentos de medición que no cumplan con las disposiciones aplicables, considerados los límites de tolerancia permitidos por la normatividad;
 
-X. Reportar su ejercicio en los informes trimestrales, detallando los elementos a que se refieren las fracciones I a IX de este artículo, incluyendo el importe de los recursos.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Las transferencias destinadas a cubrir el déficit de operación y los gastos de administración asociados con el otorgamiento de subsidios de las entidades y órganos administrativos desconcentrados serán otorgadas de forma excepcional y temporal, siempre que se justifique ante la Secretaría su beneficio económico y social. Estas transferencias se sujetarán a lo establecido en las fracciones V, VI y VIII a X de este artículo.
+II. Si el bien no corresponde a la calidad, marca, o especificaciones y demás elementos sustanciales bajo los cuales se haya ofrecido o no cumple con las normas oficiales mexicanas;
 
-###### Artículo 76.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Las dependencias y entidades deberán informar a la Secretaría previamente a la realización de cualquier modificación en el alcance o modalidades de sus programas, políticas de precios, adquisiciones, arrendamientos, garantías de compra o de venta, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los subsidios y las transferencias. Cuando dichas modificaciones impliquen una adecuación presupuestaria o una modificación en los alcances de los programas, se requerirá autorización de la Secretaría conforme a lo establecido en los artículos 58 y 59 de esta Ley.
+III. Si el bien reparado no queda en estado adecuado para su uso o destino, dentro del plazo de garantía, y
 
-### CAPITULO VI.
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Reparación del daño.
+IV. En los demás casos previstos por esta ley.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+En los casos de aparatos, unidades y bienes que por sus características ameriten conocimientos técnicos, se estará al juicio de peritos o a la verificación en laboratorios debidamente acreditados.
 
-27.- La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
+Si con motivo de la verificación, la procuraduría detecta el incumplimiento de alguno de los supuestos previstos por este precepto, podrá ordenar que se informe a los consumidores sobre las irregularidades detectadas, de conformidad a lo establecido en el artículo 98 Bis, para el efecto de que puedan exigir al proveedor la bonificación que en su caso corresponda.
 
-II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+ARTICULO 92 BIS.- Los consumidores tendrán derecho a la bonificación o compensación cuando la prestación de un servicio sea deficiente, no se preste o proporcione por causas imputables al proveedor, o por los demás casos previstos por la ley.
 
-III. El resarcimiento de los perjuicios ocasionados o el lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones cause incapacidad temporal o permanente para trabajar en oficio, arte o profesión;
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente;
+ARTICULO 92 TER.- La bonificación a que se refieren los artículos 92 y 92 Bis no podrá ser menor al veinte por ciento del precio pagado. El pago de dicha bonificación se efectuará sin perjuicio de la indemnización que en su caso corresponda por daños y perjuicios.
 
-V. El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias,
+Para la determinación del pago de daños y perjuicios la autoridad judicial considerará el pago de la bonificación que en su caso hubiese hecho el proveedor.
 
-VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
+La bonificación que corresponda tratándose del incumplimiento a que se refiere al artículo 92, fracción I, podrá hacerla efectiva el consumidor directamente al proveedor presentando su comprobante o recibo de pago del día en que se hubiere detectado la violación por la Procuraduría y no podrá ser menor al veinte por ciento del precio pagado.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos;
+###### ARTICULO 93.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+La reclamación a que se refiere el artículo 92 podrá presentarse indistintamente al vendedor, al fabricante o importador, a elección del consumidor, dentro de los dos meses siguientes a la fecha en que se haya recibido el producto, siempre que no se hubiese alterado por culpa del consumidor. El proveedor deberá satisfacer la reclamación en un plazo que no excederá de quince días contados a partir de dicha reclamación. El vendedor, fabricante o importador podrá negarse a satisfacer la reclamación si ésta es extemporánea, cuando el producto haya sido usado en condiciones distintas a las recomendadas o propias de su naturaleza o destino o si ha sufrido un deterioro esencial, irreparable y grave por causas imputables al consumidor.
 
-VIII. La reparación del daño sufrido en la integridad física de la víctima;
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+###### ARTICULO 94.
 
-IX. Los daños patrimoniales generados como consecuencia de delitos o violaciones a derechos humanos;
+Las comprobaciones de calidad, especificaciones o cualquier otra característica, se efectuarán conforme a las normas oficiales mexicanas; a falta de éstas, conforme las normas mexicanas o a los métodos o procedimientos que determinen la Secretaría o la dependencia competente del Ejecutivo Federal, previa audiencia de los interesados.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-X. El pago de los gastos y costas judiciales del asesor jurídico cuando éste sea privado; y
+###### ARTICULO 95.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+Los productos que hayan sido repuestos por los proveedores o distribuidores, deberán serles repuestos a su vez contra su entrega, por la persona de quien los adquirieron o por el fabricante, quien deberá, en su caso, cubrir el costo de su reparación, devolución, bonificación o compensación que corresponda, salvo que la causa sea imputable al proveedor o distribuidor.
 
-XI. Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione el trasladarse al lugar del juicio o para asistir a su tratamiento, si la víctima reside en un municipio o lugar distinto al del enjuiciamiento o donde recibe la atención.
+En caso de que el producto en cuestión cuente con un documento que ampare la evaluación de la conformidad del mismo emitido por alguna de las personas acreditadas o aprobadas a que se refiere la Ley Federal sobre Metrología y Normalización, tales personas deberán cubrir al proveedor la bonificación o compensación que corresponda.
 
-Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
+### Capítulo XII. De la vigilancia y verificación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-28. El monto de la reparación del daño, será fijado por los jueces de acuerdo con las pruebas que obran en el proceso y la afectación causada a la víctima u ofendido del delito, salvo lo dispuesto en el artículo 29.
+###### ARTICULO 96.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+La Procuraduría, con objeto de aplicar y hacer cumplir las disposiciones de esta ley y de la Ley Federal sobre Metrología y Normalización, cuando no corresponda a otra dependencia, practicará la vigilancia y verificación necesarias en los lugares donde se administren, almacenen, transporten, distribuyan o expendan productos o mercancías o en los que se presten servicios, incluyendo aquéllos en tránsito.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o parcial, permanente o temporal, el monto de la reparación se determinará atendiendo a lo dispuesto en la Ley Federal del Trabajo, computado sobre el salario o ingresos que percibiera la víctima al momento de su fallecimiento o de producirse la incapacidad.
+Para la verificación y vigilancia a que se refiere el párrafo anterior, la Procuraduría actuará de oficio conforme a lo dispuesto en esta ley y en los términos del procedimiento previsto por la Ley Federal de Procedimiento Administrativo, y tratándose de la verificación del cumplimiento de normas oficiales mexicanas, de conformidad con la Ley Federal sobre Metrología y Normalización.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-La indemnización a que se refiere el párrafo anterior, no puede ser inferior al monto señalado en el artículo siguiente.
+###### ARTICULO 97.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+Cualquier persona podrá denunciar ante la Procuraduría las violaciones a las disposiciones de esta ley, la Ley Federal sobre Metrología y Normalización, normas oficiales mexicanas y demás disposiciones aplicables. En la denuncia se deberá indicar lo siguiente:
 
-29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
+I. Nombre y domicilio del denunciado o, en su caso, datos para su ubicación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)</small>
+II. Relación de los hechos en los que basa su denuncia, indicando el bien, producto o servicio de que se trate, y
 
-I.- En caso de homicidio y feminicidio, los jueces, para calcular el monto de la reparación, tomarán como base la Unidad de Medida y Actualización, y las disposiciones establecidas en el artículo 502 de la Ley Federal del Trabajo, en materia de indemnizaciones en caso de muerte por riesgo de trabajo.
+III. En su caso, nombre y domicilio del denunciante.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+La denuncia podrá presentarse por escrito, de manera verbal, vía telefónica, electrónica o por cualquier otro medio.
 
-Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad equivalente al importe de setecientos noventa veces, calculada sobre el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito;
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+ARTICULO 97 BIS.- La orden de verificación a que se refiere el artículo 65 de la Ley Federal de Procedimiento Administrativo deberá ser exhibida y entregada en original a la persona con quien se entienda la diligencia. Si ésta se niega a recibirla, dicha circunstancia se asentará en el acta respectiva, sin que ello afecte la validez del acto.
 
-II.- En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente de uno a dos años de salarios mínimos, según el grado de la notabilidad; y
+ARTICULO 97 TER.- Cuando con motivo de una visita de verificación se requiera efectuar toma de muestras para verificar el cumplimiento de esta ley, en el acta se deberá indicar el número y tipo de muestras que se obtengan.
 
-III.- En caso de que las lesiones no dejaren secuelas, el monto será el número de salarios correspondientes a los días que el pasivo tardó en sanar.
+Para la toma y análisis de las muestras a que se refiere el párrafo anterior, se procederá en los siguientes términos:
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+I. Se tomarán por triplicado, una para el análisis de la Procuraduría, otra quedará en poder del visitado quien podrá efectuar su análisis, y la tercera tendrá el carácter de muestra testigo que quedará en poder del visitado y a disposición de la Procuraduría. A las muestras se colocarán sellos que garanticen su inviolabilidad;
 
-30.- Tienen derecho a recibir el monto de la reparación del daño:
+II. El resultado del análisis emitido por la Procuraduría se le notificará al visitado en los términos del artículo 104 de esta ley;
 
-a).- El sujeto pasivo;
+III. En caso de que el visitado no esté de acuerdo con los resultados deberá exhibir el análisis derivado de la muestra dejada en su poder y además, la muestra testigo, dentro de los cinco días siguientes a la recepción de los resultados de la Procuraduría;
 
-b).- En caso de muerte o incapacidad del pasivo: el cónyuge y los hijos; a falta de éstos, los ascendientes, a menos que se pruebe que no dependían económicamente de la víctima; a falta de cónyuge, la persona con quien la víctima vivió como si fuera su cónyuge, durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieren permanecido libres de matrimonio; a falta de todos los anteriores, los parientes colaterales hasta el sexto grado, que resultaren afectados directa e inmediatamente;
+IV. En tales casos, la Procuraduría ordenará el análisis de la muestra testigo en su laboratorio. El análisis se realizará en presencia de los técnicos designados por las partes, debiéndose levantar una constancia de ello. El dictamen derivado de este último, será definitivo, y
 
-c).- Si los beneficiarios no se apersonaren o no acreditaren estar en los supuestos mencionados, el monto corresponderá al Estado de Oaxaca y se aplicará al Fondo para la Administración de Justicia, quedando a salvo el derecho de los beneficiarios a reclamar el pago de dicho monto.
+V. En caso de tratarse de análisis o pruebas no destructivas, las muestras serán devueltas al visitado a su costa; en caso de que éste no las recoja en un plazo de treinta días a partir de la notificación respectiva, dichas muestras se podrán donar para fines lícitos o destruir.
 
-Si el beneficiario renuncia a la reparación del daño, el importe se aplicará al Fondo para la Administración de Justicia.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+ARTICULO 97 QUATER.- Si durante el procedimiento de verificación se detecta alguno de los supuestos previstos en el artículo 25 BIS de esta ley, se aplicarán, en su caso, las medidas precautorias que correspondan, asentándose dicha circunstancia en el acta respectiva. Lo anterior, sin perjuicio de iniciar el procedimiento previsto por el artículo 123 de esta ley.
 
-31.- El autor de un delito está obligado reparar los daños que, con su comisión, haya causado.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Si hubiere varios activos, la obligación de la reparación del daño es solidaria.
+###### ARTICULO 98.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+Se entiende por visita de verificación la que se practique en los lugares a que se refiere el artículo 96 de acuerdo con lo dispuesto en esta ley, debiéndose:
 
-Para obtener el pago de la reparación del daño material y moral, no será necesario acreditar la capacidad económica del obligado.
+I. Examinar los productos o mercancías, las condiciones en que se ofrezcan éstos o se presten los servicios y los documentos e instrumentos relacionados con la actividad de que se trate;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+II. Verificar precios, cantidades, cualidades, calidades, contenidos netos, masa drenada, tarifas e instrumentos de medición de dichos bienes o servicios en términos de esta ley;
 
-32.- Independientemente de lo previsto en el artículo anterior, están obligados a reparar los daños:
+III. Constatar la existencia o inexistencia de productos o mercancías, atendiendo al giro del proveedor; y
 
-I.- Las personas físicas o morales por los delitos que cometan con motivo y en el desempeño de su servicio los que estén bajo su dirección y dependencia económica;
+IV. Llevar a cabo las demás acciones tendientes a verificar el cumplimiento de la ley.
 
-II.- Las sociedades o agrupaciones por los delitos de sus socios o gerentes directores, cuando, conforme a la ley, sean responsables de las obligaciones que los segundos contraigan. Se exceptúa de esta regla a la sociedad conyugal, en la que en caso de delito, cada cónyuge, responderá con sus bienes propios por el daño causado; y
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
-III.- El Estado, subsidiariamente, por los delitos cometidos por los servidores públicos con motivo y en ejercicio de sus funciones.
+ARTICULO 98 BIS.- Cuando con motivo de una verificación la Procuraduría detecte violaciones a esta Ley y demás disposiciones aplicables, podrá ordenar se informe a los consumidores individual o colectivamente, inclusive a través de medios de comunicación masiva, sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los bonificarán, debiendo éstos acreditar el cumplimiento de dicha orden. En caso de no hacerlo, se aplicarán las sanciones que correspondan.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+El informe a que se refiere el párrafo anterior, podrá ordenarse como uno de los puntos resolutivos del procedimiento contenido en el artículo 123 de la presente Ley.
 
-33.- Para hacer efectiva de un tercero la reparación del daño, a petición del ofendido o del Ministerio Público, paralelamente al proceso y en sección especial, se abrirá el incidente previsto en los artículos 343 a 347 del Código de Procedimientos Penales, corriendo el traslado respectivo al tercero obligado.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Cuando se sobresea en el proceso penal o se dicte sentencia absolutoria, el juez penal seguirá conociendo en lo relativo a la reparación del daño, hasta dictar sentencia, si existe título jurídico civil que justifique el resarcimiento.
+ARTICULO 98 TER.- La Procuraduría podrá ordenar el aseguramiento de bienes o productos que se comercialicen fuera de establecimiento comercial cuando no cumplan con las disposiciones aplicables, conforme al procedimiento que al efecto se establezca y que se publique en el Diario Oficial de la Federación, y lo hará del conocimiento de las autoridades competentes a fin de que adopten las medidas que procedan.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+### Capítulo XIII. Procedimientos
 
-34.- En los delitos culposos, los objetos de uso lícitos con que se comete el delito, sean de propiedad del activo o de un tercero, se asegurarán de oficio para garantizar el pago de la reparación del daño. Se levantará el aseguramiento si los propietarios otorgan fianza suficiente para garantizar dicho pago.
+### Capítulo XIV. Sanciones
 
-Para los efectos de este artículo, los terceros propietarios de vehículos y otros objetos de uso lícito, serán solidariamente responsables con el agente del delito por los daños causados.
+###### ARTICULO 125.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
-35.- El pago de la reparación del daño, se hará ante el tribunal de origen dentro del plazo razonable que se le haya fijado; sí no lo hiciere, el Estado lo exigirá mediante el procedimiento económico coactivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-La obligación de pagar la reparación de los daños es preferente con respecto al de la multa y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad a la comisión del delito, a excepción de las relacionadas con los alimentos y los salarios.
+###### ARTICULO 126.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2020)</small>
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $198.87 a $636,406.58.
 
-36.- La reparación del daño, cuando deba ser hecha por el sujeto activo, se exigirá por el Ministerio Público en todo proceso penal. El incumplimiento de esta obligación ministerial, se hará constar en la sentencia y el juez lo comunicará al Fiscal General del Estado, quien sancionará al Agente del Ministerio Público infractor, con una multa de treinta a sesenta días multa; sin perjuicio de otras acciones que puedan ejercerse en su contra.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-Hecha la solicitud de condena de la reparación del daño por el Ministerio Público, el juez resolverá lo conducente. Si el Juez no resuelve sobre dicha solicitud, será sancionado por el Tribunal de alzada en los términos del párrafo anterior.
+###### ARTICULO 127.
 
-(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $397.76 a $1'272,813.16.
 
-### CAPITULO VII.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-Decomiso de instrumentos, objetos y productos del delito, decomiso por valor equivalente o destrucción de cosas peligrosas o nocivas.
+(REFORMADO, D.O.F. 29 DE ENERO DE 2009) (ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+###### ARTICULO 128.
 
-37.- Los instrumentos del delito y cualquier otra cosa con que se cometa o intente cometer, así como las cosas que sean objeto o producto de él, cuando sean de uso prohibido, serán decomisados por el Estado.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $596.63 a $2'333,490.80.
 
-(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-Si pertenecen a terceras personas, sólo se decomisarán cuando hayan sido empleados con conocimiento de su dueño, para fines delictuosos. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación previa o en el proceso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-Los objetos de uso lícito a que se refiere este artículo se decomisarán al acusado solamente cuando éste fuera condenado.
+ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $119,326.23 a $3'341,134.55.
 
-En los delitos culposos solamente se decomisarán los objetos que sean de uso prohibido.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+ARTICULO 128 TER.- Se considerarán casos particularmente graves:
 
-38.- La autoridad del conocimiento:
+I. Aquellos en que de seguir operando el proveedor, se pudieran afectar los derechos e intereses de un grupo de consumidores;
 
-I.- Respecto de las cosas decomisadas:
+II. Cuando la infracción de que se trate pudiera poner en peligro la vida, la salud o la seguridad de un grupo de consumidores;
 
-a).- Si son de uso prohibido, nocivas o peligrosas ordenará su destrucción, salvo que estime conveniente conservarlas para fines de docencia o investigación;
+III. Aquellas infracciones que se cometan en relación con bienes, productos o servicios que por la temporada o las circunstancias especiales del mercado afecten los derechos de un grupo de consumidores;
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2000)</small>
+IV. Aquellas conductas que se cometan aprovechando la escasez, lejanía o dificultad en el abastecimiento de un bien o en la prestación de un servicio;
 
-b).- Si las cosas no tienen las características señaladas en el inciso anterior, determinará su destino, según su utilidad, para beneficio de la procuración o administración de justicia según corresponda;
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-II.- Respecto de objetos o valores no decomisados en la sentencia, ordenará su entrega a quien acredite tener derecho a ellos, pero si éste no comparece en un lapso de noventa días a partir de la notificación personal que se le haga, se enajenará en subasta pública. Hecha esta se le notificará personalmente que el producto de la venta queda a su disposición por el plazo de seis meses, apercibido que de no presentarse, el producto de la venta se destinará al mejoramiento de la administración de justicia, previas las deducciones de los gastos ocasionados.
+V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la Secretaría o por cualquiera otra autoridad competente;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-III.- Respecto de bienes asegurados a disposición del ministerio público que, durante la averiguación previa no puedan conservarse, sean perecederos o el costo de su administración, mantenimiento o resguardo sea superior al valor del bien, se procederá a su venta inmediata en subasta pública en los términos y condiciones que se determinen por acuerdo del Fiscal General del Estado o del servidor en quien delegue dicha facultad conforme las disposiciones aplicables y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses contados a partir de la notificación que se le haga, transcurrido el cual, si no es recogido, se destinará al fondo para la procuración de justicia.
+VI. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley, y
 
-Lo mismo se observará tratándose de objetos o valores a disposición de la autoridad judicial, con la circunstancia de que el producto de la venta se destinará al fondo para la administración de justicia.
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+VII. Aquellas que vulneren los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
-38 Bis. El decomiso por valor equivalente; es el decomiso que recae sobre los bienes del inculpado cuyo valor sea equivalente al de los instrumentos, objetos o productos del delito, cuando éstos, después de ser identificados, se hayan perdido, consumido, extinguido, desaparecido, no sea posible localizarlos o recuperarlos, hayan sido transformados, alterados, modificados, convertidos o mezclados con otros bienes, constituyan garantías de créditos preferentes o se presente alguna circunstancia que impida que se declare el decomiso de los instrumentos, objetos y productos del delito.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-En el caso de que los bienes se hayan transformado, alterado, modificado o convertido en otros bienes con responsabilidad del propietario, sobre éstos se ejercitará el decomiso por valor equivalente. Cuando se hayan mezclado con bienes adquiridos lícitamente, estos podrán ser objeto del decomiso por valor equivalente hasta por el valor estimado del instrumento, objeto o producto del delito, en términos del segundo párrafo, fracción 11 del artículo 6 de la Constitución Política del Estado Libre y Soberano de Oaxaca, respetando el derecho de propiedad de terceros ajenos al proceso penal.
+ARTICULO 128 QUATER.- Se sancionará con la prohibición de comercialización de bienes o productos, cuando habiendo sido suspendida ésta, se determine que no es posible su acondicionamiento, reproceso, reparación o sustitución, o bien cuando su comercialización no pueda realizarse conforme a las disposiciones de esta ley.
 
-El decomiso por valor equivalente se autorizara cuando sea responsabilidad del inculpado y que este haya tenido en todo momento la guarda y custodia de los bienes.
+En el caso de lo dispuesto en el párrafo anterior, la Procuraduría podrá ordenar la destrucción de los bienes o productos que correspondan.
 
-En los casos que así se establezca, se podrá decretar el aseguramiento de bienes propiedad del o los inculpados, así como de aquellos respecto de los cuales se conduzca como dueño, sin perjuicio de respetar el derecho de propiedad de terceros ajenos al proceso penal.
+Tratándose de servicios, la prohibición de comercialización procederá cuando habiendo sido suspendida, no se garantice que su prestación pueda realizarse conforme a las disposiciones de esta ley.
 
-###### Artículo 77.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Con el objeto de cumplir lo previsto en el segundo párrafo del artículo 1 de esta Ley, se señalarán en el Presupuesto de Egresos los programas a través de los cuales se otorguen subsidios y aquellos programas que deberán sujetarse a reglas de operación. La Cámara de Diputados en el Presupuesto de Egresos, podrá señalar los programas, a través de los cuales se otorguen subsidios, que deberán sujetarse a reglas de operación con el objeto de asegurar que la aplicación de los recursos públicos se realice con eficiencia, eficacia, economía, honradez y transparencia. Asimismo, se señalarán en el Presupuesto de Egresos los criterios generales a los cuales se sujetarán las reglas de operación de los programas.
+###### ARTICULO 129.
 
-Las dependencias, las entidades a través de sus respectivas dependencias coordinadoras de sector o, en su caso, las entidades no coordinadas serán responsables de emitir las reglas de operación de los programas que inicien su operación en el ejercicio fiscal siguiente o, en su caso, las modificaciones a aquéllas que continúen vigentes, previa autorización presupuestaria de la Secretaría y dictamen de la Comisión Federal de Mejora Regulatoria sujetándose al siguiente procedimiento:
+En caso de reincidencia se podrá aplicar multa hasta por el doble de las cantidades señaladas en los artículos 126, 127, 128, 128 BIS, e inclusive arresto administrativo hasta por treinta y seis horas.
 
-I. Las dependencias, las entidades a través de sus respectivas dependencias coordinadoras de sector o, en su caso, las entidades no coordinadas deberán presentar a la Secretaría, a más tardar el 21 de noviembre, sus proyectos de reglas de operación, tanto de los programas que inicien su operación en el ejercicio fiscal siguiente, como las modificaciones a aquéllas que continúen vigentes.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Dichos proyectos deberán observar los criterios generales establecidos por la Secretaría y la Función Pública.
+ARTICULO 129 BIS.- La Procuraduría actualizará cada año por inflación los montos referidos en pesos en los artículos 25, 99, 117, 126, 127, 128, 128 BIS y 133 de esta ley. A más tardar el día 30 de diciembre de cada año, la Procuraduría publicará en el Diario Oficial de la Federación los montos actualizados que estarán vigentes en el siguiente año calendario.
 
-La Secretaría deberá emitir la autorización presupuestaria correspondiente en un plazo que no deberá exceder de 10 días hábiles contado a partir de la presentación de los proyectos de reglas de operación a que se refiere el párrafo anterior. La Secretaría sólo podrá emitir su autorización respecto al impacto presupuestario, y
+Para estos efectos, la Procuraduría se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Banco de México entre la última actualización de dichos montos y el mes de noviembre del año en cuestión.
 
-II. Una vez que las dependencias, las entidades a través de sus respectivas dependencias coordinadoras de sector o, en su caso, las entidades no coordinadas, obtengan la autorización presupuestaria de la Secretaría, deberán hacer llegar, en un plazo máximo de 3 días naturales, a la Comisión Federal de Mejora Regulatoria, los proyectos de reglas de operación, para que ésta emita dentro de los 10 días hábiles siguientes el dictamen regulatorio tomando en consideración los siguientes criterios:
+###### ARTICULO 130.
 
-a) El cuerpo de las reglas de operación deberá contener los lineamientos, metodologías, procedimientos, manuales, formatos, modelos de convenio, convocatorias y cualesquiera de naturaleza análoga;
+Se entiende que existe reincidencia cuando el mismo infractor incurra en dos o más violaciones del mismo precepto legal durante el transcurso de un año, contado a partir del día en que se cometió la primera infracción.
 
-b) Las reglas de operación deberán contener para efectos del dictamen de la Comisión Federal de Mejora Regulatoria, al menos lo siguiente:
+###### ARTICULO 131.
 
-i) Deberán establecer los criterios de selección de los beneficiarios, instituciones o localidades objetivo. Estos deben ser precisos, definibles, mensurables y objetivos;
+Las sanciones por infracciones a esta ley y disposiciones derivadas de ellas, serán impuestas indistintamente con base en:
 
-ii) Debe describirse completamente el mecanismo de selección o asignación, con reglas claras y consistentes con los objetivos de política del programa, para ello deberán anexar un diagrama de flujo del proceso de selección;
+I. Las actas levantadas por la autoridad;
 
-iii) Para todos los trámites deberá especificarse textualmente el nombre del trámite que identifique la acción a realizar;
+II. Los datos comprobados que aporten las denuncias de los consumidores;
 
-iv) Se deberán establecer los casos o supuestos que dan derecho a realizar el trámite;
+III. La publicidad o información de los proveedores y la comprobación de las infracciones; o
 
-v) Debe definirse la forma de realizar el trámite;
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2009)</small>
 
-vi) Sólo podrán exigirse los datos y documentos anexos estrictamente necesarios para tramitar la solicitud y acreditar si el potencial beneficiario cumple con los criterios de elegibilidad;
+IV. Cualquier otro elemento o circunstancia que sirva como prueba para determinar el incumplimiento u omisión para aplicar la sanción.
 
-vii) Se deberán definir con precisión los plazos que tiene el supuesto beneficiario, para realizar su trámite, así como el plazo de prevención y el plazo máximo de resolución de la autoridad, y
+Las resoluciones que emita la Procuraduría deberán estar debidamente fundadas y motivadas con arreglo a derecho, tomando en consideración los criterios establecidos en el presente ordenamiento.
 
-viii) Se deberán especificar las unidades administrativas ante quienes se realiza el trámite o, en su caso, si hay algún mecanismo alterno.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Las dependencias, las entidades a través de sus respectivas dependencias coordinadoras de sector o, en su caso, las entidades no coordinadas, publicarán en el Diario Oficial de la Federación las reglas de operación de programas nuevos, así como las modificaciones a las reglas de programas vigentes, a más tardar el 31 de diciembre anterior al ejercicio y, en su caso, deberán inscribir o modificar la información que corresponda en el Registro Federal de Trámites y Servicios, de conformidad con el Título Tercero A de la Ley Federal de Procedimiento Administrativo.
+###### ARTICULO 132.
 
-Las dependencias, o las entidades a través de sus respectivas dependencias coordinadoras de sector o, en su caso, las entidades no coordinadas que modifiquen sus reglas de operación durante el ejercicio fiscal, se sujetarán al procedimiento establecido en el presente artículo.
+La Procuraduría determinará las sanciones conforme a lo dispuesto en esta ley y su reglamento, considerando como base la gravedad de la infracción y tomando en cuenta los siguientes elementos:
 
-Las reglas de operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
+I. El perjuicio causado al consumidor o a la sociedad en general;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+II. El carácter intencional de la infracción;
 
-###### Artículo 78.
+III. Si se trata de reincidencia, y
 
-Las dependencias, o las entidades a través de su respectiva dependencia coordinadora de sector, deberán realizar una evaluación de resultados de los programas sujetos a reglas de operación, por conducto de expertos, instituciones académicas y de investigación u organismos especializados, de carácter nacional o internacional, que cuenten con reconocimiento y experiencia en las respectivas materias de los programas.
+IV. La condición económica del infractor.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+Asimismo, la Procuraduría deberá considerar los hechos generales de la infracción a fin de tener los elementos que le permitan expresar pormenorizadamente los motivos que tenga para determinar el monto de la multa en una cuantía específica.
 
-Las evaluaciones se realizarán conforme al programa anual que al efecto se establezca.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-Las dependencias y entidades deberán reportar el resultado de las evaluaciones en los informes trimestrales que correspondan.
+###### ARTICULO 133.
 
-###### Artículo 79.
+En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
-El Ejecutivo Federal, por conducto de la Secretaría, con base en el Presupuesto de Egresos y sujetándose en lo conducente a los artículos 74 a 78 de esta Ley, determinará la forma y términos en que deberán invertirse los subsidios que otorgue a las entidades federativas, a los municipios y, en su caso, a los sectores social y privado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-Los beneficiarios a que se refiere el presente artículo deberán proporcionar a la Secretaría la información que se les solicite sobre la aplicación que hagan de los subsidios.
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-###### Artículo 80.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $6'682,269.10.
 
-Los ejecutores de gasto podrán otorgar donativos, siempre y cuando cumplan con lo siguiente:
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-I. Deberán contar con recursos aprobados por la Cámara de Diputados para dichos fines en sus respectivos presupuestos. Las dependencias, así como las entidades que reciban transferencias, no podrán incrementar la asignación original aprobada en sus presupuestos para este rubro;
+###### ARTICULO 134.
 
-II. El otorgamiento del donativo deberá ser autorizado en forma indelegable por el titular del respectivo ejecutor de gasto y, en el caso de las entidades, adicionalmente por el órgano de gobierno.
+La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso. Excepcionalmente procederá la condonación, reducción o conmutación de las multas que se hayan impuesto como medidas de apremio, cuando se hubiere logrado una conciliación en favor del consumidor y se acredite fehacientemente el cumplimiento del convenio correspondiente.
 
-En todos los casos, los donativos serán considerados como otorgados por la Federación;
+La autoridad no podrá ejercer la facultad referida en el párrafo anterior, una vez que las multas hayan sido remitidas a la autoridad fiscal competente para su cobro y tampoco cuando se trate de sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
 
-III. Deberán solicitar a los donatarios que, aparte de ser asociaciones no lucrativas, demuestren estar al corriente en sus respectivas obligaciones fiscales, y que sus principales ingresos no provengan del Presupuesto de Egresos, salvo los casos que permitan expresamente las leyes.
+### Capítulo XV. Recursos administrativos
 
-Los beneficiarios del donativo deberán presentar un proyecto que justifique y fundamente la utilidad social de las actividades educativas, culturales, de salud, de investigación científica, de aplicación de nuevas tecnologías o de beneficencia, a financiar con el monto del donativo;
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-IV. Deberán verificar que los donatarios no estén integrados en algún otro padrón de beneficiarios de programas a cargo del Gobierno Federal y que en ningún caso estén vinculados a asociaciones religiosas o a partidos y agrupaciones políticas nacionales, salvo los casos que permitan las leyes, y
+###### ARTICULO 135.
 
-V. Deberán incluir en los informes trimestrales, las erogaciones con cargo a la partida de gasto correspondiente, el nombre o razón social, los montos entregados a los beneficiarios, así como los fines específicos para los cuales fueron otorgados los donativos.
+En contra de las resoluciones de la Procuraduría dictadas con fundamento en las disposiciones de esta ley y demás derivadas de ella, se podrá interponer recurso de revisión, en los términos de la Ley Federal de Procedimiento Administrativo.
 
-En ningún caso se podrán otorgar donativos a organizaciones que por irregularidades en su funcionamiento estén sujetas a procesos legales.
+###### ARTICULO 136.
 
-Los ejecutores de gasto que pretendan otorgar donaciones en especie deberán sujetarse a la Ley General de Bienes Nacionales y demás disposiciones aplicables.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
-###### Artículo 81.
+###### ARTICULO 137.
 
-Las dependencias que reciban donativos en dinero deberán enterar los recursos a la Tesorería de la Federación y, en el caso de las entidades, a su respectiva tesorería; asimismo, para su aplicación deberán solicitar la ampliación correspondiente a su presupuesto conforme al artículo 19 de esta Ley.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
-Las dependencias y entidades que soliciten y, en su caso, ejerzan donativos provenientes del exterior deberán sujetarse al Reglamento y demás disposiciones aplicables.
+###### ARTICULO 138.
 
-###### Artículo 82.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
-Las dependencias y entidades con cargo a sus presupuestos y por medio de convenios de coordinación que serán públicos, podrán transferir recursos presupuestarios a las entidades federativas con el propósito de descentralizar o reasignar la ejecución de funciones, programas o proyectos federales y, en su caso, recursos humanos y materiales.
+###### ARTICULO 139.
 
-En la suscripción de convenios se observará lo siguiente:
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
-I. Deberán asegurar una negociación equitativa entre las partes y deberán formalizarse a más tardar durante el primer trimestre del ejercicio fiscal, al igual que los anexos respectivos, con el propósito de facilitar su ejecución por parte de las entidades federativas y de promover una calendarización eficiente de la ministración de los recursos respectivos a las entidades federativas, salvo en aquellos casos en que durante el ejercicio fiscal se suscriba un convenio por primera vez o no hubiere sido posible su previsión anual;
+###### ARTICULO 140.
 
-II. Incluir criterios que aseguren transparencia en la distribución, aplicación y comprobación de recursos;
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
-III. Establecer los plazos y calendarios de entrega de los recursos que garanticen la aplicación oportuna de los mismos, de acuerdo con el Presupuesto de Egresos aprobado y atendiendo los requerimientos de las entidades federativas. La ministración de los recursos deberá ser oportuna y respetar dichos calendarios;
+###### ARTICULO 141.
 
-IV. Evitar comprometer recursos que excedan la capacidad financiera de los gobiernos de las entidades federativas;
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
-V. Las prioridades de las entidades federativas con el fin de alcanzar los objetivos pretendidos;
+###### ARTICULO 142.
 
-VI. Especificar, en su caso, las fuentes de recursos o potestades de recaudación de ingresos por parte de las entidades federativas que complementen los recursos transferidos o reasignados;
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
-VII. En la suscripción de dichos instrumentos deberá tomarse en cuenta si los objetivos pretendidos podrían alcanzarse de mejor manera transfiriendo total o parcialmente las responsabilidades a cargo del Gobierno Federal o sus entidades, por medio de modificaciones legales;
+###### ARTICULO 143.
 
-VIII. Las medidas o mecanismos que permitan afrontar contingencias en los programas y proyectos reasignados;
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
-IX. En el caso que involucren recursos públicos federales que no pierden su naturaleza por ser transferidos, éstos deberán depositarse en cuentas bancarias específicas que permitan su identificación para efectos de comprobación de su ejercicio y fiscalización, en los términos de las disposiciones generales aplicables;
+T R A N S I T O R I O S
 
-X. En la exposición de motivos del proyecto de Presupuesto de Egresos se informará el estado que guardan los convenios suscritos y los objetivos alcanzados, así como sobre los convenios a suscribir y los objetivos a alcanzar.
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-XI. De los recursos federales que se transfieran a las entidades federativas mediante convenios de reasignación y aquéllos mediante los cuales los recursos no pierdan el carácter de federal, se destinará un monto equivalente al uno al millar para la fiscalización de los mismos, en los términos de los acuerdos a que se refiere la siguiente fracción, y
+SEGUNDO.- Se abroga la Ley Federal de Protección al Consumidor publicada en el Diario Oficial de la Federación el 22 de diciembre de 1975 y sus reformas y se derogan todas las disposiciones que se opongan a lo dispuesto en esta ley.
 
-XII. La Auditoría, en los términos de la Ley de Fiscalización Superior de la Federación, deberá acordar con los órganos técnicos de fiscalización de las legislaturas de las entidades federativas, las reglas y procedimientos para fiscalizar el ejercicio de los recursos públicos federales.
+Quedarán vigentes los reglamentos expedidos en términos de la ley que se abroga en lo que no se opongan a la presente ley.
 
-###### Artículo 83.
+TERCERO.- Las funciones que cualquier ordenamiento encomiende al Instituto Nacional del Consumidor, se entenderán atribuidas a la Procuraduría Federal del Consumidor.
 
-Los recursos que transfieren las dependencias o entidades a través de los convenios de reasignación para el cumplimiento de objetivos de programas federales, no pierden el carácter federal, por lo que éstas comprobarán los gastos en los términos de las disposiciones aplicables; para ello se sujetarán en lo conducente a lo dispuesto en el artículo anterior, así como deberán verificar que en los convenios se establezca el compromiso de las entidades federativas de entregar los documentos comprobatorios del gasto. La Secretaría y la Función Pública emitirán los lineamientos que permitan un ejercicio transparente, ágil y eficiente de los recursos, en el ámbito de sus competencias. La Auditoría proporcionará a las áreas de fiscalización de las legislaturas de las entidades federativas las guías para la fiscalización y las auditorías de los recursos federales.
+CUARTO.- El patrimonio del Instituto Nacional del Consumidor, así como la totalidad de los recursos financieros, humanos y materiales asignados al mismo, se transfieren a la Procuraduría Federal del Consumidor.
 
-Las dependencias o entidades que requieran suscribir convenios de reasignación, deberán apegarse al convenio modelo emitido por la Secretaría y la Función Pública, así como obtener la autorización presupuestaria de la Secretaría.
+QUINTO.- Los procedimientos y recursos iniciados antes de la vigencia de la presente ley, se seguirán hasta su conclusión definitiva, por y ante la autoridad que ordenó el acto o impuso la sanción de acuerdo con la ley que se abroga.
 
-###### Artículo 84.
+México, D.F., a 18 de diciembre de 1992.- Dip. Salvador Abascal Carranza, Presidente.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Luis Pérez Díaz, Secretario.- Sen. Roberto Suárez Nieto, Secretario.- Rúbricas."
 
-Toda erogación incluida en el proyecto de Presupuesto de Egresos para proyectos de inversión deberá tener un destino geográfico específico que se señalará en los tomos respectivos.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-Todos los programas y proyectos en los que sea susceptible identificar geográficamente a los beneficiarios deberán señalar la distribución de los recursos asignados entre entidades federativas en adición a las participaciones y aportaciones federales.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-En el caso de las entidades de control presupuestario indirecto, éstas también deberán indicar la regionalización de los recursos susceptibles a ser identificados geográficamente.
+D.O.F. 21 DE JULIO DE 1993.
 
-El Ejecutivo Federal deberá señalar en el proyecto de Presupuesto de Egresos la distribución de los programas sociales, estimando el monto de recursos federales por entidad federativa.
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
 
-### CAPITULO VIII.
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
-Suspensión de Derechos.
+SEGUNDO.- Las disposiciones del presente decreto se aplicarán a partir del 19 de octubre de 1993, únicamente cuando se trate de inmuebles que:
 
-39.- La suspensión de derechos es de dos clases:
+I.- No se encuentren arrendados al 19 de octubre de 1993;
 
-I.- La que por ministerio de ley resulte de una sanción como consecuencia necesaria de ésta; y
+II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para uso distinto del habitacional, o
 
-II.- La que por sentencia formal se impone como sanción.
+III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
 
-En el primer caso, la suspensión comienza y concluye con la sanción de que es consecuencia. En el segundo, si la suspensión se impone con otra sanción privativa de libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia.
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
-40.- La pena de prisión produce la suspensión de los derechos políticos y los de tutela, curatela, ser apoderado, defensor, albacea, perito, depositario o interventor judicial síndico o interventor en concursos, árbitro, arbitrador o representante de ausente. La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo de la condena.
+TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de abril de 1999 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas, que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
 
-###### Artículo 85.
+D.O.F. 23 DE SEPTIEMBRE DE 1993.
 
-Los recursos federales aprobados en el Presupuesto de Egresos para ser transferidos a las entidades federativas y, por conducto de éstas, a los municipios y las demarcaciones territoriales del Distrito Federal se sujetarán a lo siguiente:
+UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
 
-I. Los recursos federales que ejerzan las entidades federativas, los municipios, los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, así como sus respectivas administraciones públicas paraestatales o cualquier ente público de carácter local, serán evaluados conforme a las bases establecidas en el artículo 110 de esta Ley, con base en indicadores estratégicos y de gestión, por instancias técnicas independientes de las instituciones que ejerzan dichos recursos, observando los requisitos de información correspondientes, y
+D.O.F. 5 DE AGOSTO DE 1994.
 
-II. Las entidades federativas enviarán al Ejecutivo Federal, de conformidad con los lineamientos y mediante el sistema de información establecido para tal fin por la Secretaría, informes sobre el ejercicio, destino y los resultados obtenidos, respecto de los recursos federales que les sean transferidos.
+###### ARTICULO PRIMERO.
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Los informes a los que se refiere esta fracción deberán incluir información sobre la incidencia del ejercicio de los recursos de los Fondos de Aportaciones Federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, de manera diferenciada entre mujeres y hombres.
+###### ARTICULO SEGUNDO.
 
-Para los efectos de esta fracción, las entidades federativas y, por conducto de éstas, los municipios y las demarcaciones territoriales del Distrito Federal, remitirán al Ejecutivo Federal la información consolidada a más tardar a los 20 días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
+A partir de la publicación de la respectiva Norma Oficial Mexicana, los proveedores contarán con un plazo de tres años, para dar las facilidades y establecer, adecuar o modificar los dispositivos a que se refiere el segundo párrafo del artículo 58 de la Ley Federal de Protección al Consumidor.
 
-La Secretaría incluirá los reportes señalados en esta fracción, por entidad federativa, en los informes trimestrales; asimismo, pondrá dicha información a disposición para consulta en su página electrónica de Internet, la cual deberá actualizar a más tardar en la fecha en que el Ejecutivo Federal entregue los citados informes.
+Una vez vencido el término a que se refiere el párrafo anterior, a los proveedores que no otorguen o no cuenten con los dispositivos señalados en el artículo 58, se les aplicarán las sanciones previstas por la Ley.
 
-Las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, publicarán los informes a que se refiere esta fracción en los órganos locales oficiales de difusión y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de Internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
+###### ARTICULO TERCERO.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+La autoridad administrativa tomará las precauciones necesarias a efecto de contar con las normas oficiales aplicables.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2014)</small>
+###### ARTICULO CUARTO.
 
-###### Artículo 86.
+Los nuevos proveedores de bienes o servicios deberán cumplir con lo establecido en el artículo 58 dentro del plazo a que se refiere el artículo segundo transitorio de este Decreto.
 
-Con el objeto de mejorar la transparencia y rendición de cuentas en el ejercicio del gasto federalizado, la Secretaría de Hacienda y Crédito Público mediante firma de convenio con las entidades federativas y la Auditoría Superior de la Federación, así como con la participación que corresponda a las autoridades federales competentes, fortalecerá todas las acciones de coordinación para evaluar el correcto uso de los recursos públicos, para lo cual deberán:
+D.O.F. 23 DE MAYO DE 1996.
 
-I. Establecer acciones para mejorar la evaluación, transparencia y eficiencia en el ejercicio del gasto federalizado en los tres órdenes de gobierno, conforme a los principios del artículo 1 de esta Ley;
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-II. Promover mecanismos de participación ciudadana en el seguimiento del gasto público, así como la publicación de información presupuestaria accesible y transparente para la ciudadanía, y
+###### ARTICULO PRIMERO.
 
-III. Informar al Congreso de la Unión y a la respectiva legislatura local, sobre el ejercicio del presupuesto y de los avances de los objetivos establecidos en el Plan Nacional de Desarrollo y en los respectivos planes locales de desarrollo, en los términos de las disposiciones aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 87.
-
-Las transferencias del Fondo Mexicano del Petróleo que se realicen al Fondo de Estabilización de los Ingresos Presupuestarios y al Fondo de Estabilización de los Ingresos de las Entidades Federativas, se sujetarán a lo siguiente:
-
-I. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingresos Presupuestarios serán hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.022, y
-
-II. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingresos de las Entidades Federativas serán hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0064.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 88.
-
-Las transferencias del Fondo Mexicano del Petróleo que se realicen para la investigación en materia de hidrocarburos y sustentabilidad energética serán en conjunto hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0065 y se destinarán a través de la Secretaría de Energía a lo siguiente:
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-I. El 20% de los recursos se destinará para:
-
-a) Apoyar actividades de investigación para identificar áreas con potencial de hidrocarburos que, en el ámbito de sus atribuciones, lleve a cabo la Comisión Nacional de Hidrocarburos, y
-
-b) Apoyar la realización de proyectos de investigación científica, desarrollo tecnológico e innovación, enfocadas en temas de exploración, extracción y refinación de hidrocarburos, así como la producción de petroquímicos.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-II. El 15% para actividades de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, relacionadas con:
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-a) La investigación y desarrollo tecnológico aplicados, tanto a la exploración, extracción y refinación de hidrocarburos, como a la producción de petroquímicos, y
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-b) La adopción, innovación y asimilación en las materias señaladas en el inciso anterior, así como los demás elementos asociados.
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-De estos recursos, el Instituto Mexicano del Petróleo destinará un máximo de 5% a la formación de recursos humanos especializados, y
-
-> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-III. El 65% se destinará al financiamiento de proyectos de investigación científica, desarrollo tecnológico e innovación, enfocados en temas de fuentes renovables de energía, eficiencia energética, uso de tecnologías limpias y diversificación de fuentes primarias de energía.
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-La transferencia a que se refiere este artículo se realizará sin perjuicio de otros recursos que se aprueben para los mismos fines en el Presupuesto de Egresos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-Para la definición y seguimiento de los proyectos señalados en las fracciones I y III la Secretaría de Energía se coordinará con el Consejo Nacional de Ciencia y Tecnología.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-###### Artículo 89.
-
-En la aplicación de los recursos asignados en el artículo anterior, se dará prioridad a las finalidades siguientes:
-
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-I. Elevar el factor de recuperación y la obtención del volumen máximo de hidrocarburos de los yacimientos;
-
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-II. Fomentar la exploración, especialmente en aguas profundas, para incrementar la tasa de restitución de reservas;
-
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-III. Mejorar la refinación de petróleo crudo pesado, y
-
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-IV. La prevención de la contaminación y la remediación ambiental relacionadas con las actividades de la industria petrolera.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 90.
-
-La transferencia del Fondo Mexicano del Petróleo que se realice a la Tesorería de la Federación para cubrir los costos de fiscalización de la Auditoría en materia petrolera, será hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.000054. A cuenta de esta transferencia se harán transferencias provisionales trimestrales equivalentes a una cuarta parte del monto correspondiente que se pagarán a más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio de que se trate y enero del siguiente año.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I Y VI, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-### CAPITULO IX.
-
-Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejercicio de profesiones o actividades técnicas.
-
-41.- La suspensión de empleo o cargo se entiende siempre con privación de sueldo; y, si aquélla pasara de seis meses, perderá además el condenado su derecho a los ascensos que le correspondan durante su condena.
-
-42.- La destitución de un empleo o cargo priva al reo de lo que por desempeño del mismo debiera obtener, en cualquier sentido que fuere; y de alcanzar otro en el mismo ramo, durante un término que se fijará en la condena y que no pasará de diez años.
-
-43.- La suspensión en el ejercicio de profesiones o actividades técnicas se regirá, en cuanto sea aplicable, por las disposiciones del artículo que precede.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-###### Artículo 91.
-
-La transferencia del Fondo Mexicano del Petróleo que se realice al Fondo de Extracción de Hidrocarburos será el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0087, y se sujetará a lo establecido en el artículo 4o-B de la Ley de Coordinación Fiscal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 92.
-
-La transferencia del Fondo Mexicano del Petróleo que se realice para los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos, será el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.00051, y se sujetará a lo establecido en el artículo 2-A, fracción II de la Ley de Coordinación Fiscal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 93.
-
-La transferencia del Fondo Mexicano del Petróleo a que se refiere el artículo 16, fracción II, inciso g), de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, será la cantidad que resulte de restar al monto en pesos equivalente a 4.7% del Producto Interno Bruto nominal establecido en los Criterios Generales de Política Económica para el año de que se trate, los montos aprobados en la Ley de Ingresos correspondientes a la recaudación por el impuesto sobre la renta por los contratos y asignaciones a que se refiere el artículo 27, párrafo séptimo, de la Constitución y a las transferencias a que se refieren los incisos a) a f) de dicha fracción.
-
-En caso que, al cierre del ejercicio fiscal, los recursos del Fondo Mexicano del Petróleo no sean suficientes para cubrir la transferencia a que se refiere el párrafo anterior, ésta será igual al total de recursos del Fondo Mexicano del Petróleo que, en su caso, sean susceptibles de ser transferidos al Gobierno Federal de acuerdo con esta Ley y el Reglamento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Asimismo, en caso que los montos de ingresos correspondientes al Fondo Mexicano del Petróleo no sean suficientes para cubrir la transferencia a que se refiere el primer párrafo de este artículo, la Ley de Ingresos podrá prever un monto inferior por este concepto. Los recursos excedentes que durante el ejercicio fiscal reciba el Fondo Mexicano del Petróleo por encima del monto establecido en la Ley de Ingresos y hasta por el monto suficiente para cubrir los fines señalados en el artículo 19, fracción I, párrafos primero y segundo, de esta Ley y las compensaciones entre rubros de ingreso a que se refiere el artículo 21, fracción I, de esta Ley, no podrán ser superiores a lo establecido en el primer párrafo de este artículo. Los recursos excedentes del Fondo Mexicano del Petróleo que no sean empleados para cubrir los fines señalados permanecerán en la Reserva del Fondo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 94.
-
-Únicamente cuando la Reserva del Fondo al inicio del año calendario sea mayor al 3% del Producto Interno Bruto del año previo, el Comité Técnico del Fondo Mexicano del Petróleo podrá recomendar a la Cámara de Diputados, a más tardar el 28 de febrero, la asignación del incremento observado el año anterior en la Reserva del Fondo a los siguientes rubros:
-
-I. Hasta por un monto equivalente a 10%, al fondo para el sistema de pensión universal conforme a lo que señale su ley;
-
-II. Hasta por un monto equivalente a 10%, para financiar proyectos de inversión en ciencia, tecnología e innovación, y en energías renovables;
-
-III. Hasta por un monto equivalente a 30%, para fondear un vehículo de inversión especializado en proyectos petroleros, coordinado por la Secretaría de Energía y, en su caso, en inversiones en infraestructura para el desarrollo nacional, y
-
-IV. Hasta por un monto equivalente a 10%, en becas para la formación de capital humano en universidades y posgrados; en proyectos de mejora a la conectividad; así como para el desarrollo regional de la industria. Con excepción del programa de becas, no podrán emplearse recursos para gasto corriente en lo determinado en esta fracción.
-
-Al menos un monto equivalente a 40%, permanecerá como parte del patrimonio de la Reserva del Fondo.
-
-Los montos en pesos de los porcentajes señalados en las fracciones anteriores se calcularán sobre el monto de recursos adicionales acumulados entre enero y diciembre del año previo, correspondientes a la aportación anual a la Reserva del Fondo Mexicano del Petróleo.
-
-El Comité Técnico, al determinar la recomendación de asignación de recursos que corresponda a las fracciones anteriores, deberá observar que dicha asignación no tenga como consecuencia que la Reserva del Fondo se reduzca por debajo de 3% del Producto Interno Bruto del año anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 95.
-
-La Cámara de Diputados aprobará, a más tardar el 30 de abril, la recomendación del Comité Técnico a que se refiere el artículo anterior con las modificaciones que, en su caso, realice en términos de este artículo. En caso de que la Cámara no se pronuncie en dicho plazo, la recomendación se considerará aprobada.
-
-La Cámara de Diputados, con la aprobación de las dos terceras partes de los miembros presentes y sujeto a lo previsto en los párrafos segundo y cuarto del artículo anterior, podrá modificar los límites o los posibles destinos mencionados en las fracciones de dicho artículo sin poder asignar recursos a proyectos o programas específicos.
-
-Con base en la asignación aprobada por la Cámara de Diputados, el Ejecutivo Federal calculará el monto que se aportará al fondo a que se refiere la fracción I del artículo anterior, así como determinará los proyectos y programas específicos a los que se asignarán los recursos en cada rubro a que se refieren las fracciones II a IV del mismo artículo, o bien, los destinos que correspondan en términos del párrafo anterior, para su inclusión en el Proyecto de Presupuesto de Egresos. En el proceso de aprobación del Presupuesto de Egresos, la Cámara de Diputados podrá reasignar los recursos destinados a los proyectos específicos dentro de cada rubro, respetando la distribución de recursos en los rubros generales ya aprobada.
-
-El Comité Técnico instruirá la transferencia del Fondo Mexicano del Petróleo a la Tesorería de la Federación de los recursos aprobados en el Presupuesto de Egresos, en los plazos que correspondan. Dichas transferencias serán adicionales a aquéllas que se realicen de acuerdo a lo establecido en el artículo 16, fracción II, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-### CAPITULO X.
-
-Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídicas colectivas.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-44.- Cuando algún miembro o representante de una persona moral, de una sociedad, corporación o empresa de cualquier clase, con excepción de las Instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades le proporcionan, de modo que resulta cometido a nombre o bajo el amparo de la representación o a beneficio de ella, sin perjuicio de la responsabilidad individual en que hubieren incurrido los autores de los delitos cometidos, los tribunales, según lo estimen procedente, previo el procedimiento correspondiente con presencia del representante legal, decretarán:
-
-I.- La intervención de las funciones que realizan los órganos de representación de la persona jurídica colectiva, con las atribuciones que la ley confiere al interventor. La intervención será de un mes a dos años;
-
-II.- La sustitución de los administradores de la persona colectiva, encargando su función a un administrador designado por el Juez durante un período máximo de dos años. Para hacer la designación, el juez podrá atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito. Cuando concluya el período previsto para la administración sustituta, la designación de los nuevos administradores, se hará en la forma ordinaria prevista por las normas aplicables a estos actos;
-
-III.- La privación temporal del ejercicio de aquellas operaciones que hubieren tenido relación directa con el delito cometido. Estas operaciones serán especificadas, con toda precisión, en la sentencia. Si se trata de operaciones lícitas, la prohibición no excederá de dos años; y
-
-IV.- La disolución y liquidación de la persona jurídica colectiva, la cual no podrá constituirse nuevamente por las mismas personas, sea que éstas intervengan directamente, sea que lo hagan por conducto de terceros. El Juez designará a quien deba hacerse cargo de la disolución y liquidación que se llevarán adelante en la forma prevista por la legislación aplicable a estas operaciones.
-
-Al imponer las sanciones mencionadas, el Juez tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros, frente a la persona jurídica colectiva y aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona jurídica colectiva sancionada.
-
-###### Artículo 96.
-
-Los rendimientos financieros de la Reserva del Fondo serán parte del patrimonio del Fondo Mexicano del Petróleo y serán destinados a la Reserva del Fondo, excepto cuando la Reserva del Fondo sea igual o mayor a 10% del Producto Interno Bruto del año previo al que se trate.
-
-En caso que la Reserva del Fondo supere el 10% del Producto Interno Bruto, el Comité Técnico ordenará la transferencia de los rendimientos financieros reales anuales a la Tesorería de la Federación de acuerdo con lo establecido en el Reglamento. Estas transferencias del Fondo Mexicano del Petróleo serán adicionales a aquéllas que se realicen de acuerdo a lo establecido en el artículo 16, fracción II, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 97.
-
-En caso que, derivado de una reducción significativa en los ingresos públicos, asociada a una caída en el Producto Interno Bruto, a una disminución pronunciada en el precio del petróleo o a una caída en la plataforma de producción de petróleo, y una vez que se hayan agotado los recursos en el Fondo de Estabilización de los Ingresos Presupuestarios, la Cámara de Diputados podrá aprobar, mediante votación de las dos terceras partes de sus miembros presentes, las transferencias de recursos de la Reserva del Fondo a la Tesorería de la Federación para contribuir a cubrir el Presupuesto de Egresos, aun cuando el saldo de dicha reserva se redujera por debajo de 3% del Producto Interno Bruto del año anterior.
-
-Para tal efecto, el Ejecutivo Federal realizará la propuesta correspondiente, conforme a lo siguiente:
-
-I. Se entenderá que existe una reducción significativa en los ingresos públicos cuando se estime una caída de los ingresos tributarios no petroleros en términos reales con respecto al año anterior que persista por más de un ejercicio fiscal. En dicho caso, solamente se podrá utilizar la Reserva del Fondo hasta por un monto suficiente para que los ingresos tributarios no petroleros mantengan un nivel congruente con la trayectoria de ingresos de largo plazo;
-
-II. Se entenderá que existe una disminución pronunciada en el precio del petróleo o una caída en la plataforma de producción de petróleo para efectos de lo establecido en el presente artículo, cuando para un ejercicio fiscal se prevea que las transferencias del Fondo Mexicano del Petróleo no serán suficientes para mantener los ingresos petroleros aprobados en la Ley de Ingresos. En dicho caso, solamente se podrá utilizar la Reserva del Fondo hasta por un monto suficiente para que los ingresos petroleros alcancen el monto aprobado en la Ley de Ingresos, y
-
-III. La propuesta para utilizar recursos de la Reserva del Fondo sólo podrá presentarse cuando los recursos del Fondo de Estabilización de los Ingresos Presupuestarios se hayan agotado en términos de lo que establezca el Reglamento para efectos del presente artículo.
-
-En los casos señalados en las fracciones I y II, una vez que se hayan agotado los recursos del Fondo de Estabilización de Ingresos de las Entidades Federativas, la Cámara de Diputados podrá aprobar una transferencia adicional de la Reserva del Fondo por un monto suficiente para mantener un nivel por concepto de participaciones federales igual, en términos reales, al observado en el ejercicio fiscal inmediato anterior, en el entendido que dicha transferencia adicional deberá ser igual o menor al 20% del monto total que se extraiga de la Reserva del Fondo en un ejercicio fiscal.
-
-Con base en la aprobación de la Cámara de Diputados, el fideicomitente del Fondo Mexicano del Petróleo instruirá al fiduciario a transferir los recursos correspondientes a la Tesorería de la Federación.
-
-###### Artículo 98.
-
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
-
-### CAPITULO XI.
-
-Amonestación.
-
-45.- La amonestación consiste: en la advertencia que el Juez sentenciador dirige al infractor, haciéndole ver las consecuencias del delito que cometió, excitándolo a la enmienda y conminándolo con que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público o en privado, a juicio del Juez que deba hacerla.
-
-### CAPITULO XII.
-
-Apercibimiento y caución de no ofender.
-
-46.- El apercibimiento consiste en la conminación que el Juez hace a una persona, cuando se teme con fundamento que está en disposición de cometer un delito, ya sea por actitud o por amenazas, de que en caso de cometer lo que se propone u otro semejante, será considerada como reincidente.
-
-47.- Cuando el Juez estime que no es suficiente el apercibimiento, exigirá además, al infractor caución de no ofender. La caución podrá consistir en fianza que otorgue el propio infractor o en la que otorgue un tercero; el monto o duración de la garantía serán fijados por el Juez, teniendo en cuenta la importancia del bien jurídico amenazado y la probable duración del peligro. Si el infractor no otorgare la caución dentro de un mes contado desde que cause ejecutoria la sentencia, se aplicará en vez de esta medida, prisión de tres días a tres años, lo que se deberá especificar en la propia sentencia, precisando el tiempo que debe durar dicha prisión.
-
-### CAPITULO XIII.
-
-Publicación especial de sentencia.
-
-48.- La publicación especial de sentencia consiste en la inserción total o parcial de ella, en uno o dos periódicos que circulen en la localidad. El Juez sentenciador escogerá los periódicos y resolverá la forma en que debe hacerse la publicación.
-
-La publicación de la sentencia se hará a costa del delincuente, del ofendido si éste lo solicitare o del Estado si el Tribunal lo estima necesario.
-
-49.- El Juez podrá, a petición y a costa del ofendido, ordenar la publicación de la sentencia en Entidad diferente.
-
-50.- La publicación de sentencia se ordenará igualmente a título de reparación y a petición del interesado, cuando éste fuere absuelto, el hecho imputado no constituyere delito, o él no lo hubiere cometido.
-
-51.- Si el delito por el que se impuso la publicación de sentencia, fue cometido por medio de la prensa, además de la publicación a que se refieren los artículos anteriores, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta y en el mismo lugar.
-
-###### ARTÍCULO SEGUNDO.
-
-En relación con las modificaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria a que se refiere el artículo primero de este Decreto, se estará a lo siguiente:
-
-I. El Ejecutivo Federal establecerá, en los términos del párrafo primero del artículo 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, un programa de mediano plazo para reducir el gasto destinado a actividades administrativas y de apoyo, a efecto de que antes de concluir su administración, se alcance una meta de ahorro hasta de 20% del equivalente al gasto de operación y administrativo de las dependencias del Gobierno Federal, para lo cual establecerá una meta de ahorro anual del 5% como mínimo.
-
-II. Las entidades paraestatales deberán establecer programas de austeridad e informar sus metas de ahorro. En las entidades de control directo a que se refiere la siguiente fracción y en las entidades en las que sea factible, las metas se basarán en estándares internacionales sobre gastos de operación, incluyendo el gasto en recursos humanos.
-
-III. Petróleos Mexicanos, Comisión Federal de Electricidad y Luz y Fuerza del Centro deberán realizar las siguientes acciones:
-
-a) Reducir el gasto en servicios personales;
-
-b) Lograr ahorros en materia de gasto administrativo y de apoyo;
-
-c) Cancelar plazas administrativas vacantes, salvo en los casos en que por su especialización se justifique su permanencia;
-
-d) Cancelar plazas de confianza que no tengan tareas asignadas, y
-
-e) Establecer indicadores, para evitar retrasos y sobrecostos, respecto a la ejecución de obras.
-
-Para los efectos de los incisos anteriores, las entidades a que se refiere esta fracción deberán suscribir, a más tardar el último día hábil de marzo de 2008, los convenios de desempeño a que se refiere el artículo 45 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en los cuales deberán comprometer las metas a alcanzar en cada una de las acciones señaladas en el párrafo anterior.
-
-El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado suscribirán convenios de desempeño, fijando metas de ahorro acordes a sus características.
-
-La Comisión Intersecretarial de Gasto Financiamiento dará seguimiento periódico al cumplimiento de los compromisos de resultados y, en su caso, emitirá las recomendaciones que estime pertinentes para el mejor cumplimiento de los mismos.
-
-IV. La Secretaría de Hacienda y Crédito Público, en coordinación con la Secretaría de la Función Pública, presentará a la Cámara de Diputados, a más tardar el último día hábil de mayo de 2008, un diagnóstico sobre las delegaciones en las entidades federativas de las dependencias y entidades de la Administración Pública Federal, tales como de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Desarrollo Social; de Economía; así como de la Comisión Nacional del Agua, entre otras delegaciones, en el cual identificará:
-
-a) El valor agregado de las mismas;
-
-b) Las duplicidades y áreas de oportunidad para optimizar el gasto;
-
-c) Las medidas que pueden llevarse a cabo en términos del programa de mediano plazo en materia de ahorro y eficiencia a que se refiere el artículo 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
-
-d) Las actividades que realizan las delegaciones que pudieran influenciar los procesos electorales locales.
-
-V. Las medidas a que se refiere el inciso c) de la fracción anterior, deberán prever, por lo menos:
-
-a) La reducción del gasto en servicios generales, materiales y suministros, así como para la adquisición de bienes, y
-
-b) Otras medidas de racionalización del gasto.
-
-VI. Los ahorros a que se refiere este precepto deberán destinarse a gasto de inversión en infraestructura y a programas de desarrollo social.
-
-VII. El Ejecutivo Federal deberá informar al Congreso de la Unión respecto a lo previsto en las fracciones anteriores del presente artículo, a través de los informes trimestrales a que se refiere el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
-
-VIII. La Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados dará seguimiento sobre el cumplimiento de lo dispuesto en las fracciones anteriores del presente artículo.
-
-IX. La implantación del sistema de la cuenta única de tesorería a que se refiere el artículo 51 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, deberá iniciar en el ejercicio fiscal 2008; su integración, operación y funcionamiento se instrumentará de forma gradual con base en las normas y lineamientos que la Secretaría emita en términos de dicho artículo.
-
-X. Las modificaciones a los artículos 32, último párrafo; 41, fracción II, inciso ñ) y 107, fracción I, inciso f) entrarán en vigor al día siguiente al de la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de gasto público.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
 
 ...
 
-## TRANSITORIOS
+D.O.F. 19 DE OCTUBRE DE 1998.
 
-PRIMERO. El presente Decreto entrará en vigor el 1 de abril de 2006.
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público Federal y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+D.O.F. 29 DE MAYO DE 2000.
 
-TERCERO. Las disposiciones del Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2006, serán aplicables durante dicho año en lo que no se contrapongan a esta Ley. Los destinos previstos para los ingresos excedentes a que se refieren las fracciones IV, incisos a) a d) y V, incisos a) a d), del artículo 19 de la Ley, serán aplicables a partir del ejercicio fiscal 2007, por lo que, durante el ejercicio fiscal 2006 serán aplicables los destinos señalados en los artículos 23-Bis, 24 y 25 del Decreto referido.
+REPUBLICADO, G.O. 30 DE MAYO DE 2000.
 
-CUARTO. En tanto se expida el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se continuará aplicando el Reglamento de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, así como las demás disposiciones vigentes en la materia, en lo que no se opongan a la presente Ley. Dicho reglamento deberá expedirse a más tardar a los 90 días naturales posteriores a la publicación de la presente Ley en el Diario Oficial de la Federación y se sujetará estrictamente a las disposiciones que esta Ley establece.
+Primero.- El presente Decreto entrará en vigor a los nueve días siguientes de su publicación en el Diario Oficial de la Federación.
 
-QUINTO. El sistema de administración financiera federal y el sistema para el control presupuestario de los servicios personales a que se refieren, respectivamente, los artículos 14 y 70 de la Ley, deberán concluir su implantación a más tardar en el ejercicio fiscal 2007.
+Segundo.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, se entenderán referidas al Código Civil Federal.
 
-SEXTO. El Ejecutivo Federal, por conducto de la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias deberá concluir la implantación del sistema de evaluación del desempeño a que se refiere el artículo 111 de la Ley, a más tardar en el ejercicio fiscal 2008. Este sistema deberá incluir mecanismos de participación de la Cámara de Diputados, a través de sus Comisiones Ordinarias, coordinadas por la Comisión de Presupuesto y Cuenta Pública. Para los efectos de este artículo, la Secretaría deberá presentar a la Cámara su propuesta del sistema de evaluación del desempeño a más tardar en marzo de 2007. La Comisión de Presupuesto y Cuenta Pública entregará sus observaciones a la propuesta a más tardar en junio de 2007, para lo cual realizará consultas con las distintas Comisiones ordinarias de la Cámara.
+Las presentes reformas no implican modificación alguna a las disposiciones legales aplicables en materia civil para el Distrito Federal, por lo que siguen vigentes para el ámbito local de dicha entidad todas y cada una de las disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, vigentes a la entrada en vigor del presente Decreto.
 
-SÉPTIMO. El Ejecutivo Federal, por conducto de la Secretaría, deberá realizar los ajustes necesarios a los sistemas y registros de contabilidad a que se refiere el Título Quinto de la Ley, con el objeto de que se implante a más tardar en el ejercicio fiscal 2007.
+Tercero.- La operación automatizada del Registro Público de Comercio conforme a lo dispuesto en el presente Decreto deberá iniciarse a más tardar el 30 de noviembre del año 2000.
 
-OCTAVO. Las unidades de administración de los Poderes Legislativo y Judicial y de los entes autónomos, así como la Secretaría, deberán concluir la suscripción de los convenios de coordinación a que se refieren los artículos 13, 14, 70, 94, 95 y 98 de esta Ley, durante el ejercicio fiscal 2006.
+Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará a cada uno de los responsables de las oficinas del Registro Público de Comercio, a partir de la entrada en vigor del presente Decreto y a más tardar el 31 de agosto del año 2000, el programa informático del sistema registral automatizado a que se refiere el presente Decreto, la asistencia y capacitación técnica, así como las estrategias para su instrumentación, de conformidad con los convenios correspondientes.
 
-México, D.F., a 9 de marzo de 2006.- Sen. Carlos Chaurand Arzate, Vicepresidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Saúl López Sollano, Secretario.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas."
+Cuarto.- En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de marzo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.
 
-D.O.F. 27 DE DICIEMBRE DE 2006.
+Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas. Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
 
-Primero. El presente Decreto entrará en vigor el primero de enero de 2007.
+Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
 
-Segundo. Durante el ejercicio fiscal 2007, en tanto se expide el Programa Nacional de Seguridad Pública, lo dispuesto en el artículo 44 de la Ley de Coordinación Fiscal se sujetará a los acuerdos y resoluciones que establezca el Consejo Nacional de Seguridad Pública en los términos del artículo 11 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
 
-Tercero. Para el ejercicio fiscal 2007, la distribución entre los Estados y el Distrito Federal de los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, a que se refiere el artículo 46 de la Ley de Coordinación Fiscal, se realizará de acuerdo con los porcentajes que a cada entidad federativa le haya correspondido conforme a la distribución del Programa de Apoyos para el Fortalecimiento de las Entidades Federativas en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 2006.
+D.O.F. 5 DE JUNIO DE 2000.
 
-D.O.F. 1 DE OCTUBRE DE 2007.
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+D.O.F. 24 DE DICIEMBRE DE 2002.
 
-## TRANSITORIOS
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+...
 
-D.O.F. 13 DE NOVIEMBRE DE 2008.
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo los límites de las reservas de los fondos de estabilización a que se refiere el artículo 19, fracción IV de esta Ley, los cuales entrarán en vigor a partir del 1 de enero de 2009.
+D.O.F. 13 DE JUNIO DE 2003.
 
-Segundo. Durante los ejercicios fiscales de 2009, 2010 y 2011, el 30% de los ingresos excedentes a que se refiere el último párrafo de la fracción I del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, una vez realizadas, en su caso, las compensaciones entre rubros de ingresos a que se refieren la fracción IV, párrafo primero, del precepto anteriormente citado y el artículo 21, fracción I, de dicha Ley, se destinarán a lo siguiente:
+UNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-a) En un 35% a programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas. Dichos recursos se destinarán a las entidades federativas conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente.
+D.O.F. 4 DE FEBRERO DE 2004.
 
-b) En un 65% a aumentar el alcance de los programas y proyectos de inversión en infraestructura que establezca el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
+PRIMERO. El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos transitorios siguientes.
 
-El resto de los referidos ingresos excedentes se destinará a los fines y en los porcentajes establecidos en las fracciones IV y, en su caso, V del artículo 19 de la Ley citada.
+SEGUNDO. El artículo 92 TER entrará en vigor ciento ochenta días después de la publicación del presente Decreto.
 
-Tercero. Petróleos Mexicanos podrá emplear los recursos acumulados al cierre del ejercicio fiscal 2008 en el Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos con el propósito de financiar la construcción de una nueva refinería en territorio de los Estados Unidos Mexicanos e inversión en infraestructura de la entidad.
+TERCERO. La reforma al artículo 114, en lo relativo a la emisión del dictamen por parte de la Procuraduría, así como la reforma al artículo 26 y los artículos 114 BIS y 114 TER entrará en vigor un año después de la publicación del presente Decreto, sujeto a la disponibilidad presupuestal para la operación de las unidades necesarias en la Procuraduría para realizar las funciones establecidas en tales artículos.
 
-Cuarto. Petróleos Mexicanos deberá contar con un comité en materia de estrategia e inversiones el cual tendrá, entre otras funciones, el análisis del plan estratégico y el portafolio de inversiones de dicha entidad y sus organismos subsidiarios. Asimismo, el referido comité llevará el seguimiento de las inversiones y su evaluación, una vez que hayan sido realizadas.
+CUARTO. El artículo 18; la fracción IV y el párrafo segundo del artículo 99, respecto de las personas físicas, así como las reformas al artículo 100, al último párrafo del artículo 104 y al párrafo segundo del artículo 117, también este último respecto de las personas físicas, entrarán en vigor 9 meses después de la publicación del presente Decreto. Asimismo, en relación con las personas morales a que se refiere el segundo párrafo de la fracción I del artículo 2, así como el párrafo segundo de los artículos 99 y 117, respectivamente, dichas disposiciones entrarán en vigor 18 meses después de la publicación del presente Decreto.
 
-Para la realización de sus funciones, el comité a que se refiere el párrafo anterior se apoyará en un área especializada en evaluación de proyectos de inversión del propio organismo. Dicho comité, con la opinión del responsable de llevar el registro de la cartera de inversión en términos del artículo 34 de esta Ley, emitirá los lineamientos a que deberán sujetarse las metodologías que se empleen para la evaluación de los proyectos de inversión. Dichos lineamientos deberán prever, entre otros aspectos, que los proyectos que se financien con recursos provenientes de obligaciones que sean constitutivas de deuda pública, deberán generar los flujos de ingreso necesarios para cubrir dichas obligaciones y su servicio.
+QUINTO. El procedimiento de cancelación de registro a que se refiere el artículo 90 BIS, sólo procederá respecto de los contratos que se registren a partir de la entrada en vigor del presente Decreto.
 
-El Plan Estratégico Integral de Negocios de Petróleos Mexicanos deberá señalar las principales características de todos los proyectos de inversión plurianuales susceptibles de ser realizados durante el horizonte de tiempo que cubra dicho Plan.
+SEXTO. Las operaciones derivadas de los sistemas de comercialización a que se refiere el artículo 63 de la ley, que se hubieren llevado a cabo en fecha anterior a la entrada en vigor del presente Decreto, les continuarán siendo aplicables hasta el vencimiento de los contratos y la liquidación de los grupos existentes a la fecha, las disposiciones que las regulaban.
 
-Asimismo, Petróleos Mexicanos deberá contar con un comité en materia de transparencia, el cual deberá emitir reglas para la divulgación al público de información sobre los proyectos de inversión de Petróleos Mexicanos y sus organismos subsidiarios, tales como su monto y rentabilidad, así como de su evaluación, una vez que hayan sido realizados.
+Las sociedades que actualmente administren dichos sistemas de comercialización no podrán abrir nuevos grupos de consumidores al amparo de tales disposiciones ni celebrar nuevos contratos de adhesión. No obstante lo anterior, durante los 60 y 240 días naturales inmediatos siguientes a la fecha de entrada en vigor del presente Decreto, según se trate de bienes muebles e inmuebles, respectivamente, las referidas sociedades podrán celebrar contratos de adhesión ajustándose a las disposiciones mencionadas en el párrafo anterior, exclusivamente cuando correspondan a grupos de consumidores que aún se encuentren en proceso de integración.
 
-Para el seguimiento de la deuda pública, Petróleos Mexicanos entregará reportes semestrales sobre los proyectos de inversión financiados con recursos provenientes de obligaciones constitutivas de deuda pública, en términos de lo dispuesto por el artículo 28 de la Ley General de Deuda Pública y de acuerdo con los lineamientos que para tal efecto se emitan. Estos reportes también se entregarán al Comisario de la entidad.
+SÉPTIMO. A partir de la entrada en vigor de este Decreto, las sociedades mencionadas únicamente podrán abrir nuevos grupos de consumidores y celebrar los correspondientes contratos de adhesión, cuando cuenten con la autorización de la Secretaría en términos del artículo 63 y cumplan con las disposiciones aplicables.
 
-En términos de lo dispuesto en el párrafo sexto del artículo 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, Petróleos Mexicanos a más tardar el 31 de enero de 2009, reconocerá para efectos contables y presupuestarios como deuda pública directa todos los financiamientos asumidos por terceros y por vehículos financieros, garantizados por la entidad, para financiar proyectos de infraestructura productiva de largo plazo a que se refieren los artículos 18, tercer párrafo, de la Ley General de Deuda Pública y 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, correspondientes a proyectos autorizados con anterioridad a la entrada en vigor de este Decreto y que se encuentren en etapa de operación o en proceso de construcción en este último caso sólo en la parte correspondiente a la inversión efectivamente realizada. Petróleos Mexicanos podrá utilizar sus disponibilidades para el pago de obligaciones constitutivas de deuda pública de manera anticipada a su vencimiento. Asimismo, en términos del artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de manera excepcional se autoriza registrar en el ejercicio fiscal 2009 el pasivo correspondiente por el reconocimiento de la deuda pública directa a que se refiere este párrafo, así como realizar los ajustes correspondientes en el presupuesto de Petróleos Mexicanos.
+OCTAVO. Para los efectos del artículo sexto transitorio, la Secretaría y la Procuraduría en el ámbito de sus competencias supervisarán el proceso de liquidación de los grupos, determinando para ello los lineamientos que correspondan.
 
-Los proyectos de infraestructura productiva de largo plazo ya autorizados que, al cierre del ejercicio fiscal 2008, se encuentren en etapa de construcción, se continuarán realizando bajo la modalidad de inversión presupuestaria; se entenderán autorizados bajo esa modalidad, y en esos términos se deberá incorporar al presupuesto de inversión de Petróleos Mexicanos la parte correspondiente a la inversión que se encuentre pendiente de ejecutar. Los proyectos de infraestructura productiva de largo plazo ya autorizados que, al cierre del ejercicio fiscal 2008, aún no se encuentren en proceso de construcción, para todos los ejercicios fiscales que se requiera hasta en tanto dichos proyectos entren en su etapa de operación, se continuarán realizando bajo la modalidad de inversión presupuestaria; se entenderán autorizados bajo esa modalidad, y en esos términos se deberán incorporar al presupuesto de inversión de Petróleos Mexicanos.
+NOVENO. Las sociedades a que se refiere el artículo sexto transitorio, deberán presentar a la Secretaría la información relativa, entre otros rubros, a la operación del sistema, al número de contratos, número de grupos, plazos, situación que guarden los consumidores en la forma y términos que para tal efecto establezca la misma. La Secretaría podrá solicitar a las mencionadas sociedades que realicen auditorías externas respecto de grupos de consumidores constituidos conforme a las disposiciones vigentes hasta antes de la entrada en vigor del presente Decreto.
 
-La formalización del reconocimiento como deuda pública a que se refiere el sexto párrafo del presente artículo se deberá formalizar dentro del ejercicio fiscal 2009, pudiendo Petróleos Mexicanos celebrar con dichos terceros y vehículos financieros los actos jurídicos que correspondan para el reconocimiento y servicio de la deuda referidos bajo la modalidad que determine la propia entidad. Petróleos Mexicanos podrá optar por la subrogación, cesión de deudas u otro mecanismo mediante el cual las obligaciones respectivas sean pagadas. Asimismo, Petróleos Mexicanos podrá realizar las operaciones o utilizar los bienes que, en su caso, se requieran para el financiamiento de dicho reconocimiento.
+El incumplimiento a las obligaciones de presentar la información o a realizar las auditorías a que se refiere este artículo, será sancionado en términos de lo dispuesto por el artículo 128 de la Ley Federal de Protección al Consumidor.
 
-Petróleos Mexicanos, por conducto de su Director General, deberá presentar en marzo de cada año a la dependencia coordinadora de sector y por conducto de ésta al H. Congreso de la Unión, un informe que deberá difundirse en la página de Internet de Petróleos Mexicanos. Asimismo, dicha página deberá difundir la información de la cartera de programas y proyectos de inversión, así como la relativa a sus análisis de costo y beneficio, con excepción de aquélla que, por su naturaleza, se considere como reservada, de acuerdo con los lineamientos que emita el comité respectivo.
+D.O.F. 21 DE DICIEMBRE DE 2004.
 
-Quinto. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
-D.O.F. 31 DE DICIEMBRE DE 2008.
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2005.
 
-Primero.- El presente Decreto entrará en vigor el 1 de enero de 2009.
+## TRANSITORIO
 
-Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto a la Ley que se expide a través del presente Decreto.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2005.
 
-D.O.F. 19 DE ENERO DE 2012.
+D.O.F. 22 DE DICIEMBRE DE 2005.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente a aquél en el que se publique en el Diario Oficial de la Federación.
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
-Segundo.- La Secretaría, dentro de los tres meses siguientes a la entrada en vigor del presente Decreto, enviará a la Cámara de Diputados la metodología, factores, variables y fórmulas utilizados para la elaboración de cada uno de los Anexos Transversales, informando sobre los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos.
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2006.
 
-La Comisión de Presupuesto y Cuenta Pública, en coordinación con las comisiones ordinarias correspondientes, contará con 30 días hábiles siguientes a la entrega de la información a la que se refiere el párrafo anterior, para remitir a la Secretaria las opiniones y comentarios para que sean considerados en la integración del Proyecto de Presupuesto para el ejercicio fiscal siguiente.
+## TRANSITORIO
 
-D.O.F. 9 DE ABRIL DE 2012.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2006.
 
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+D.O.F. 6 DE JUNIO DE 2006.
 
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
-D.O.F. 24 DE ENERO DE 2014.
+Segundo.- Los sujetos a los que hace referencia el artículo 65 Bis, tendrán un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el tercer párrafo del citado precepto.
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Tercero.- La Secretaría de Economía deberá emitir la Norma Oficial Mexicana a que se refiere el presente Decreto, de conformidad con lo dispuesto por la Ley Federal Sobre Metrología y Normalización.
 
-SEGUNDO. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria de conformidad con lo previsto en este Decreto, dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto.
+Cuarto.- Las casas de empeño que estén operando a la fecha de entrada en vigor de este decreto, cuentan con un plazo de seis meses contados a partir de la publicación de la Norma Oficial Mexicana a que se refiere el artículo anterior, para obtener el registro del contrato correspondiente ante la Procuraduría.
 
-El Producto Interno Bruto Potencial deberá incluirse dentro de los Criterios Generales de Política Económica y contendrá una estimación de los diez años anteriores y proyecciones para los próximos cinco años.
+D.O.F. 19 DE DICIEMBRE DE 2006.
 
-El Producto Interno Bruto Potencial, la metodología y la información para estimarlo deberán ser públicos.
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
-TERCERO. El límite máximo del gasto corriente estructural a que se refiere el artículo 2, fracción XXXII bis, de esta Ley, se aplicará a partir del ejercicio fiscal 2015. Para los ejercicios fiscales 2015 y 2016, se determinará con base en lo siguiente:
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2007.
 
-I. Para el ejercicio fiscal 2015, el gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos y aquél que apruebe la Cámara de Diputados no podrá ser mayor en 2.0% en términos reales, respecto al gasto corriente estructural aprobado en el Presupuesto de Egresos de 2014. Asimismo, el gasto corriente estructural que se ejerza en el ejercicio fiscal 2015 no podrá ser superior al gasto corriente estructural contenido en la Cuenta Pública del ejercicio fiscal 2014, más un incremento de 2.0% en términos reales;
+## TRANSITORIO
 
-II. Para el ejercicio fiscal 2016, el gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos y aquél que apruebe la Cámara de Diputados no podrá ser mayor en 2.0% en términos reales, respecto al gasto corriente estructural aprobado en el Presupuesto de Egresos de 2015. Asimismo, el gasto corriente estructural que se ejerza en el ejercicio fiscal 2016 no podrá ser superior al gasto corriente estructural contenido en la Cuenta Pública del ejercicio fiscal 2015, más un incremento de 2.0% en términos reales, y
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2007.
 
-III. Los Poderes Legislativo y Judicial y los entes autónomos, en la programación y presupuestación de sus respectivos proyectos, así como en la ejecución de sus presupuestos aprobados deberán cumplir con el límite máximo del gasto corriente estructural determinado en términos de las fracciones I y II anteriores.
+D.O.F. 21 DE DICIEMBRE DE 2007.
 
-CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
-QUINTO. El Ejecutivo Federal llevará a cabo acciones para generar economías, durante el ejercicio fiscal 2014, del 5 por ciento en la partida de sueldos correspondientes al personal de mando medios y superiores y del 5 por ciento del gasto de operación del gasto corriente estructural que no esté relacionado con programas de atención a la población.
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2008.
 
-Los Poderes Legislativo y Judicial, así como los entes autónomos, deberán adoptar acciones que les permitan obtener economías en los mismos términos del párrafo anterior, en el ámbito de sus respectivas competencias.
+## TRANSITORIO
 
-Dichas economías en ningún momento irán en detrimento de la calidad en el desempeño de la función y administración pública.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2008.
 
-El resultado de la aplicación de las acciones descritas en el presente artículo deberán reportarse en los informes trimestrales.
+D.O.F. 17 DE DICIEMBRE DE 2008.
 
-SEXTO. Durante los ejercicios fiscales de 2014 y 2015, no procederá la adquisición de vehículos, salvo aquéllos que resulten indispensables para prestar directamente servicios públicos a la población, los necesarios para actividades de seguridad pública y nacional, o para las actividades productivas.
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
-La Secretaría o, la unidad administrativa competente en el caso de los Poderes Legislativo y Judicial y en los entes autónomos, podrán determinar las modalidades específicas de aplicación de esta medida en casos excepcionales, así como para las entidades que sean objeto de reformas jurídicas o de nueva creación.
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2009.
 
-SÉPTIMO. El Congreso de la Unión, a partir de la entrada en vigor del presente Decreto legislará en torno a las adecuaciones constitucionales y reglamentarias en torno a un Sistema Nacional de Fiscalización y un nuevo marco de combate a la corrupción en los tres niveles de gobierno.
+## TRANSITORIO
 
-OCTAVO. El Ejecutivo Federal, para dar cumplimiento a lo establecido en el artículo 61 de esta Ley, deberá publicar la actualización de los programas vigentes expedidos con anterioridad a la entrada en vigor del presente Decreto, donde se integren las nuevas medidas de disciplina y austeridad del presente Decreto. El Ejecutivo Federal deberá hacer esta publicación a más tardar el último día hábil de abril de 2014 e informar, a partir del segundo informe trimestral, sobre los avances, resultados y cumplimiento de metas.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2009.
 
-D.O.F. 11 DE AGOSTO DE 2014.
+D.O.F. 29 DE ENERO DE 2009.
 
-## TRANSITORIOS
+Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+D.O.F. 10 DE JUNIO DE 2009.
 
-Segundo. El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, preverá lo necesario para que, en la elaboración de la iniciativa de Ley de Ingresos de la Federación y el proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2015, se reflejen las reformas a la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se señalan en el artículo segundo, fracción I, del presente Decreto.
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Tercero. El Gobierno Federal podrá asumir una proporción de la obligación de pago de las pensiones y jubilaciones en curso de pago, así como las que correspondan a los trabajadores en activo de Petróleos Mexicanos y sus organismos subsidiarios reconocidas a la entrada en vigor del presente Decreto y registradas actuarialmente en sus estados financieros, conforme a las estipulaciones contractuales vigentes en esa misma fecha, siempre que, dentro del año siguiente a la entrada en vigor del presente Decreto, Petróleos Mexicanos alcance un acuerdo para modificar el contrato colectivo de trabajo aplicable en la empresa y en los organismos subsidiarios, modifique el Reglamento de Trabajo del Personal de Confianza de Petróleos Mexicanos y Organismos Subsidiarios, e implemente un Programa de Austeridad en el Gasto. Dichas modificaciones, sin considerar el reconocimiento de la obligación de pago de las pensiones y jubilaciones referidas por parte del Gobierno Federal, deberá conllevar en el mediano plazo a una reducción de las obligaciones de pago de las pensiones y jubilaciones de la empresa. Además, las modificaciones deberán contemplar, al menos, que las pensiones o jubilaciones de los trabajadores de nuevo ingreso sean financiadas bajo esquemas de cuentas individuales que permitan la portabilidad de derechos con el Sistema de Ahorro para el Retiro y que se contemple un ajuste gradual a los parámetros para determinar las pensiones de los trabajadores activos, incluyendo la edad de retiro para reflejar el cambio en la esperanza de vida, con el objeto de ajustarla a los parámetros actualmente establecidos en los demás sistemas de pensiones y jubilaciones de las instituciones del Gobierno Federal.
+D.O.F. 21 DE DICIEMBRE DE 2009.
 
-La proporción de la obligación de pago que en su caso asuma el Gobierno Federal será por un monto equivalente a la reducción del pasivo laboral reconocido conforme a lo señalado en el párrafo anterior, que resulte del acuerdo para modificar el contrato colectivo de trabajo y el Reglamento de Trabajo a que se hace referencia en el párrafo anterior.
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
-El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomando en consideración la estabilidad de las finanzas públicas y el cumplimiento de los objetivos, estrategias y líneas de acción del Programa Nacional de Financiamiento del Desarrollo, establecerá los términos, condiciones y montos, para cubrir la proporción del pasivo laboral que asuma el Gobierno Federal, una vez que se cumplan las condiciones establecidas en el párrafo primero de este artículo. También determinará los mecanismos de financiamiento y esquemas de pago y emitirá las demás disposiciones de carácter general necesarias para su implementación.
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2010.
 
-A efecto de lo anterior, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar en las fechas que corresponda, los actos jurídicos necesarios para financiar la proporción de las obligaciones antes referidas que asuma el Gobierno Federal, y para emitir disposiciones de carácter general para regular dichos actos. Asimismo se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación que corresponda a efecto de que se reconozca como gasto el mismo importe de las obligaciones. Los actos y ajustes anteriores no se considerarán para efectos de la meta de los requerimientos financieros del sector público y del equilibrio presupuestario a que se refiere el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+## TRANSITORIO
 
-Como requisito indispensable para que el Gobierno Federal pueda asumir, en los términos del presente artículo, la proporción de la obligación de pago de las pensiones y jubilaciones a que hace referencia el mismo, la Auditoría Superior de la Federación realizará una auditoría específica respecto del pasivo laboral de Petróleos Mexicanos y sus subsidiarias con el objeto de identificar las características de las obligaciones de pago de las pensiones y jubilaciones referidas, y los determinantes de la evolución del mismo. La auditoría señalada deberá concluir a más tardar dentro de los doce meses siguientes a la entrada en vigor del presente Decreto. La Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos ilegales relacionados con las obligaciones de pago de pensiones y jubilaciones mencionadas, incluyendo, en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2010.
 
-Cuarto. El Gobierno Federal podrá asumir una proporción de la obligación de pago a cargo de la Comisión Federal de Electricidad de las pensiones y jubilaciones reconocidas y registradas actuarialmente en sus estados financieros que correspondan a sus trabajadores que fueron contratados hasta el 18 de agosto de 2008, fecha en que la empresa suscribió con el sindicato un convenio para adoptar el esquema de cuentas individuales para los trabajadores de nuevo ingreso, conforme a las estipulaciones contractuales vigentes en esta última fecha, siempre que, dentro del año siguiente a la entrada en vigor del presente Decreto, la Comisión Federal de Electricidad alcance un acuerdo para modificar el contrato colectivo de trabajo y el Manual de Trabajo de los Servidores Públicos de Mando de la Comisión Federal de Electricidad, aplicables en la empresa, e implemente un Programa de Austeridad en el Gasto. Dicha modificación, sin considerar el reconocimiento de la obligación de pago de las pensiones y jubilaciones referidas por parte del Gobierno Federal, deberá conllevar en el mediano plazo a una reducción de las obligaciones de pago de las pensiones y jubilaciones de la empresa, y contemplar, al menos, que las pensiones o jubilaciones de los trabajadores de nuevo ingreso sean financiadas bajo esquemas de cuentas individuales que permitan la portabilidad de derechos con el Sistema de Ahorro para el Retiro; que se establezcan los mecanismos necesarios para que los trabajadores en activo contratados hasta el 18 de agosto de 2008, se adhieran de manera voluntaria a dichos esquemas de cuentas individuales, y que se contemple un ajuste gradual a los parámetros para determinar las pensiones de los trabajadores activos, incluyendo para la edad de retiro, con objeto de reflejar el cambio en la esperanza de vida, con el objeto de ajustarla a los parámetros actualmente establecidos en los demás sistemas de pensiones y jubilaciones de las instituciones del Gobierno Federal.
+D.O.F. 19 DE JULIO DE 2010.
 
-La proporción de la obligación de pago que en su caso asuma el Gobierno Federal reconocido conforme al párrafo anterior será por un monto equivalente a la reducción del pasivo laboral que resulte del acuerdo para modificar el contrato colectivo de trabajo y el Manual a que se hace referencia en el párrafo anterior.
+Único.- El presente Decreto entrará en vigor a los 120 días siguientes de su publicación en el Diario Oficial de la Federación.
 
-El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomando en consideración la estabilidad de las finanzas públicas y el cumplimiento de los objetivos, estrategias y líneas de acción del Programa Nacional de Financiamiento del Desarrollo, establecerá los términos, condiciones y montos, para cubrir la proporción del pasivo laboral que asuma el Gobierno Federal una vez que se cumplan las condiciones establecidas en el párrafo primero de este artículo. También determinará los mecanismos de financiamiento y esquemas de pago y emitirá las demás disposiciones de carácter general necesarias para su implementación.
+D.O.F. 19 DE AGOSTO DE 2010.
 
-A efecto de lo anterior, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar en las fechas que corresponda, los actos jurídicos necesarios para financiar la proporción de las obligaciones antes referidas que asuma el Gobierno Federal, y para emitir disposiciones de carácter general para regular dichos actos. Asimismo se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación que corresponda a efecto de que se reconozca como gasto el mismo importe de las obligaciones. Los actos y ajustes anteriores no se considerarán para efectos de la meta de los requerimientos financieros del sector público y del equilibrio presupuestario a que se refiere el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Como requisito indispensable para que el Gobierno Federal pueda asumir, en los términos del presente artículo, la proporción de la obligación de pago de las pensiones y jubilaciones a que hace referencia el mismo, la Auditoría Superior de la Federación realizará una auditoría específica respecto del pasivo laboral de la Comisión Federal de Electricidad con el objeto de identificar las características de las obligaciones de pago de las pensiones y jubilaciones referidas, y los determinantes de la evolución del mismo. La auditoría señalada deberá concluir a más tardar dentro de los doce meses siguientes a la entrada en vigor del presente Decreto. La Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos ilegales relacionados con las obligaciones de pago de pensiones y jubilaciones mencionadas, incluyendo, en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.
+Segundo.- A los procedimientos iniciados antes de la publicación del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su instauración.
 
-Quinto. Las reformas y derogaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley General de Deuda Pública relacionadas con las empresas productivas del Estado y sus empresas productivas subsidiarias, a que se refiere el presente Decreto, entrarán en vigor respecto de Petróleos Mexicanos y sus organismos subsidiarios y la Comisión Federal de Electricidad, en la fecha en que, conforme a cada una de sus leyes, se dé cumplimiento a lo dispuesto en el párrafo segundo del vigésimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013.
+D.O.F. 30 DE NOVIEMBRE DE 2010.
 
-Sexto. Sin menoscabo de los ingresos que obtenga cada Órgano Regulador Coordinado en Materia Energética por concepto de las contribuciones y aprovechamientos que disponga por los servicios que preste, con el fin de lograr una oportuna y eficaz instrumentación de sus atribuciones, durante el periodo de 2015 a 2018, la Cámara de Diputados realizará las previsiones presupuestales que garanticen que tanto la Comisión Nacional de Hidrocarburos como la Comisión Reguladora de Energía cuenten con los recursos presupuestales conforme se establece en la tabla siguiente:
+Único.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
 
-AÑO PRESUPUESTO COMISIÓN PRESUPUESTO COMISIÓN
+D.O.F. 21 DE DICIEMBRE DE 2010.
 
-NACIONAL DE REGULADORA DE ENERGÍA
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
-HIDROCARBUROS
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2011.
 
-2015 350 millones de pesos 400 millones de pesos
+## TRANSITORIO
 
-2016 320 millones de pesos 370 millones de pesos
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2011.
 
-2017 290 millones de pesos 340 millones de pesos
+D.O.F. 28 DE ENERO DE 2011.
 
-2018 240 millones de pesos 280 millones de pesos
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia.
+D.O.F. 26 DE MAYO DE 2011.
 
-D.O.F. 18 DE NOVIEMBRE DE 2015.
+ÚNICO.- El presente decreto entrará en vigor en el mes de enero siguiente al de su publicación en el Diario Oficial de la Federación y durante ese plazo se deberán expedir los lineamientos a que hace referencia el artículo 29 BIS.
 
-DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA.
+D.O.F. 30 DE AGOSTO DE 2011.
 
-DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
 
 ### CAPITULO XIV.
 
@@ -2855,389 +2133,363 @@ IV.- Al que voluntariamente sirva un empleo o cargo subalterno o comisión, en l
 
 145.- Cuando ya declarada la guerra entre México y otra Nación, o rotas las hostilidades, se inicie o fomente en el Estado una rebelión local, se aumentarán hasta en una tercera parte de su duración las penas establecidas en este capítulo sin que puedan exceder de cuarenta años de prisión.
 
-#### SECCION PRIMERA.
+#### Sección Primera. Disposiciones Comunes
 
-Muerte del sujeto activo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+###### ARTICULO 99.
 
-99.- La muerte del sujeto activo extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad a excepción de la reparación del daño y del decomiso de los instrumentos del delito.
+La Procuraduría recibirá las quejas o reclamaciones de los consumidores de manera individual o grupal con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio cumpliendo con los siguientes requisitos:
 
-> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO II], P.O. 7 DE MAYO DE 2015)</small>
+I. Señalar nombre y domicilio del reclamante;
 
-###### Artículo 99.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos;
 
-###### Artículo 100.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante;
 
-###### Artículo 101.
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+IV. Señalar el lugar o forma en que solicita se desahogue su reclamación;
 
-###### Artículo 102.
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+V. Para la atención y procedencia de quejas o reclamaciones grupales, se deberá acreditar, además, que existe identidad de causa, acción, pretensiones y proveedor; la personalidad del o los representantes del grupo de quejosos; que la representación y gestión se realiza de manera gratuita, y que no están vinculadas con actividades de proselitismo político o electoral, y
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-###### Artículo 103.
+VI. Las asociaciones u organizaciones de consumidores que presenten reclamaciones grupales deberán acreditar, además:
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+a) Su legal constitución y la personalidad de los representantes;
 
-###### Artículo 104.
+b) Que su objeto social sea el de la promoción y defensa de los intereses y derechos de los consumidores;
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+c) Que tienen como mínimo un año de haberse constituido;
 
-###### Artículo 105.
+d) Que los consumidores que participan en la queja grupal expresaron su voluntad para formar parte de la misma;
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+e) Que no tienen conflicto de intereses respecto de la queja que se pretenda presentar, expresándolo en un escrito en el que, bajo protesta de decir verdad, se haga constar dicha circunstancia;
 
-###### Artículo 106.
+f) Que la representación y gestión se realiza de manera gratuita, y
 
-Los ejecutores de gasto, en el manejo de los recursos públicos federales, deberán observar las disposiciones establecidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
 
-La información a que se refiere el artículo 7, fracción IX, de la Ley citada en el párrafo anterior, se pondrá a disposición del público en los términos que establezca el Presupuesto de Egresos y en la misma fecha en que se entreguen los informes trimestrales al Congreso de la Unión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-Los ejecutores de gasto deberán remitir al Congreso de la Unión la información que éste les solicite en relación con sus respectivos presupuestos, en los términos de las disposiciones generales aplicables. Dicha solicitud se realizará por los órganos de gobierno de las Cámaras o por las Comisiones competentes, así como el Centro de Estudios de las Finanzas Públicas de la Cámara de Diputados.
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $397,754.11.
 
-En la recaudación y el endeudamiento público del Gobierno Federal, la Secretaría y las entidades estarán obligadas a proporcionar a la Función Pública y a la Auditoría Superior de la Federación, en el ámbito de sus respectivas competencias y en los términos de las disposiciones aplicables, la información que éstas requieran legalmente.
+La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-El incumplimiento a lo dispuesto en este artículo será sancionado en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y las demás disposiciones aplicables.
+###### ARTICULO 100.
 
-###### Artículo 107.
+Las reclamaciones podrán desahogarse a elección del reclamante, en el lugar en que se haya originado el hecho motivo de la reclamación; en el del domicilio del reclamante, en el del proveedor, o en cualquier otro que se justifique, tal como el del lugar donde el consumidor desarrolla su actividad habitual o en el de su residencia.
 
-El Ejecutivo Federal, por conducto de la Secretaría, entregará al Congreso de la Unión información mensual y trimestral en los siguientes términos:
+En caso de no existir una unidad de la Procuraduría en el lugar que solicite el consumidor, aquélla hará de su conocimiento el lugar o forma en que será atendida su reclamación.
 
-I. Informes trimestrales a los 30 días naturales después de terminado el trimestre de que se trate, conforme a lo previsto en esta Ley.
+###### ARTICULO 101.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+La Procuraduría rechazará de oficio las reclamaciones notoriamente improcedentes.
 
-Los informes trimestrales incluirán información sobre los ingresos obtenidos y la ejecución del Presupuesto de Egresos, así como sobre la situación económica y las finanzas públicas del ejercicio, conforme a lo previsto en esta Ley y el Reglamento. Asimismo, incluirán los principales indicadores sobre los resultados y avances de los programas y proyectos en el cumplimiento de los objetivos y metas y de su impacto social, con el objeto de facilitar su evaluación en los términos a que se refieren los artículos 110 y 111 de esta Ley.
+###### ARTICULO 102.
 
-Los ejecutores de gasto serán responsables de remitir oportunamente a la Secretaría, la información que corresponda para la debida integración de los informes trimestrales, cuya metodología permitirá hacer comparaciones consistentes durante el ejercicio fiscal y entre varios ejercicios fiscales.
+Presentada la reclamación se tendrá por interrumpido el término para la prescripción de las acciones legales correspondientes, durante el tiempo que dure el procedimiento.
 
-Los informes trimestrales deberán contener como mínimo:
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-a) La situación económica, incluyendo el análisis sobre la producción y el empleo, precios y salarios y la evaluación del sector financiero y del sector externo;
+###### ARTICULO 103.
 
-b) La situación de las finanzas públicas, con base en lo siguiente:
+La Procuraduría notificará al proveedor dentro de los quince días siguientes a la fecha de recepción y registro de la reclamación, requiriéndole un informe por escrito relacionado con los hechos, acompañado de un extracto del mismo.
 
-i) Los principales indicadores de la postura fiscal, incluyendo información sobre los balances fiscales y, en su caso, el déficit presupuestario;
+###### ARTICULO 104.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+Las notificaciones que realice la Procuraduría serán personales en los siguientes casos:
 
-ii) La evolución de los ingresos tributarios y no tributarios, especificando el desarrollo de los ingresos petroleros y los no petroleros; la situación respecto a las estimaciones de recaudación y una explicación detallada de la misma, así como el comportamiento de las participaciones federales para las entidades federativas.
+I. Cuando se trate de la primera notificación;
 
-Adicionalmente, se presentará la información sobre los ingresos percibidos por la Federación en relación con las estimaciones que se señalan en la Ley de Ingresos.
+II. Cuando se trate del requerimiento de un acto a la parte que deba cumplirlo;
 
-Con el objeto de evaluar el desempeño en materia de eficiencia recaudatoria, se deberá incluir la información correspondiente a los indicadores que a continuación se señalan:
+III. Cuando se trate de notificación de laudos arbitrales;
 
-1. Avance en el padrón de contribuyentes.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-2. Información estadística de avances contra la evasión y elusión fiscales.
+IV. Cuando se trate de resoluciones o acuerdos que impongan una medida de apremio o una sanción;
 
-3. Avances contra el contrabando.
+V. Cuando la Procuraduría notifique al acreedor haber recibido cantidades en consignación;
 
-4. Reducción de rezagos y cuantificación de resultados en los litigios fiscales.
+VI. Cuando la autoridad lo estime necesario; y
 
-5. Plan de recaudación.
+VII. En los demás casos que disponga la ley.
 
-6. Información sobre las devoluciones fiscales.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-7. Los montos recaudados en cada periodo por concepto de los derechos de los hidrocarburos, estableciendo los ingresos obtenidos específicamente, en rubros separados, por la extracción de petróleo crudo y de gas natural.
+Las notificaciones personales deberán realizarse por notificador o por correo certificado con acuse de recibo del propio notificado o por cualquier otro medio fehaciente autorizado legalmente o por el destinatario, siempre y cuando éste manifieste por escrito su consentimiento. Dicha notificación se efectuará en el domicilio del local o establecimiento que señale el comprobante respectivo, o bien, en el que hubiere sido proporcionado por el reclamante.
 
-8. Los elementos cuantitativos que sirvieron de base para el cálculo del impuesto especial sobre producción y servicios.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-9. Avances en materia de simplificación fiscal y administrativa.
+Tratándose de la notificación a que se refiere la fracción primera de este precepto en relación con el procedimiento conciliatorio, la misma podrá efectuarse con la persona que deba ser notificada o, en su defecto, con su representante legal o con el encargado o responsable del local o establecimiento correspondiente. A falta de éstos, se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
-La Secretaría deberá incluir en el informe de recaudación neta, un reporte de grandes contribuyentes agrupados por cantidades en los siguientes rubros: empresas con ingresos acumulables en el monto que señalan las leyes, sector financiero, sector gobierno, empresas residentes en el extranjero y otros. Las empresas del sector privado, además, deberán estar identificadas por el sector industrial, primario y/o de servicios al que pertenezcan.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Asimismo, deberán reportarse los juicios ganados y perdidos por el Servicio de Administración Tributaria, el Instituto Mexicano del Seguro Social y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en materia fiscal y de recaudación; así como el monto que su resultado representa de los ingresos y el costo operativo que implica para las respectivas instituciones y en particular para el Servicio de Administración Tributaria. Este reporte deberá incluir una explicación de las disposiciones fiscales que causan inseguridad jurídica para el Gobierno Federal. Los tribunales competentes estarán obligados a facilitar a las instituciones citadas la información que requieran para elaborar dichos reportes;
+Las notificaciones realizadas con quien deban entenderse en términos del párrafo anterior serán válidas aun cuando no se hubieren podido efectuar en el domicilio respectivo.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-iii) La evolución del gasto público, incluyendo el gasto programable y no programable; su ejecución conforme a las clasificaciones a que se refiere el artículo 28 de esta Ley, los principales resultados de los programas y proyectos. Asimismo, se incorporará la información relativa a las disponibilidades de los ejecutores de gasto, así como de los fondos y fideicomisos sin estructura orgánica;
+En caso de que el destinatario no hubiere señalado domicilio para oír y recibir notificaciones o lo hubiere cambiado sin haber avisado a la Procuraduría, ésta podrá notificarlo por estrados.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-iv) La evolución del gasto público previsto en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u) y v) de esta Ley.
+Tratándose de actos distintos a los señalados con anterioridad, las notificaciones podrán efectuarse por estrados, previo aviso al destinatario, quien podrá oponerse a este hecho, así como por correo con acuse de recibo o por mensajería; también podrán efectuarse por telegrama, fax, vía electrónica u otro medio similar previa aceptación por escrito del interesado.
 
-c) Un informe que contenga la evolución detallada de la deuda pública en el trimestre, incluyendo los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda pública interna y externa.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-La información sobre el costo total de las emisiones de deuda interna y externa deberá identificar por separado el pago de las comisiones y gastos inherentes a la emisión, de los del pago a efectuar por intereses. Estos deberán diferenciarse de la tasa de interés que se pagará por los empréstitos y bonos colocados. Asimismo, deberá informar sobre la tasa de interés o rendimiento que pagará cada emisión, de las comisiones, el plazo, y el monto de la emisión, presentando un perfil de vencimientos para la deuda pública interna y externa, así como la evolución de las garantías otorgadas por el Gobierno Federal.
+La documentación que sea remitida por una unidad administrativa de la Procuraduría vía electrónica, fax o por cualquier otro medio idóneo a otra unidad de la misma para efectos de su notificación, tendrá plena validez siempre que la unidad receptora hubiere confirmado la clave de identificación del servidor público que remite la documentación y que ésta se conserve íntegra, inalterada y accesible para su consulta.
 
-Se incluirá también un informe de las erogaciones derivadas de operaciones y programas de saneamiento financieros y de los programas de apoyo a ahorradores y deudores de la banca. Adicionalmente, en dicho informe se incluirá un apartado que refiera las operaciones activas y pasivas del Instituto de Protección al Ahorro Bancario, así como de su posición financiera, incluyendo aquéllas relativas a la enajenación de bienes, colocación de valores y apoyos otorgados.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+###### ARTICULO 105.
 
-Se informará adicionalmente sobre las modificaciones que, en su caso, hayan sido realizadas al monto autorizado por intermediación financiera en la Ley de Ingresos.
+Las reclamaciones se podrán presentar dentro del término de un año, en cualquiera de los siguientes supuestos:
 
-Este informe incluirá un apartado sobre los pasivos contingentes que se hubieran asumido con la garantía del Gobierno Federal, incluyendo los avales distintos de los proyectos de inversión productiva de largo plazo otorgados.
+I. Tratándose de enajenación de bienes o prestación de servicios.
 
-De igual forma, incluirá un informe sobre el uso de recursos financieros de la banca de desarrollo y fondos de fomento para financiar al sector privado y social, detallando el balance de operación y el otorgamiento de créditos, así como sus fuentes de financiamiento, así como se reportará sobre las comisiones de compromiso pagadas por los créditos internos y externos contratados;
+a) A partir de que se expida el comprobante que ampare el precio o la contraprestación pactada;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Se reportará el ejercicio de las facultades en materia de deuda pública, especificando las características de las operaciones realizadas.
+b) A partir de que se pague el bien o sea exigible el servicio, total o parcialmente;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-d) La evolución de los proyectos de infraestructura productiva de largo plazo y otras asociaciones público privadas, que incluyan:
+c) A partir de que se reciba el bien, o se preste el servicio, o
 
-i) Una contabilidad separada con el objeto de identificar los ingresos asociados a dichos proyectos;
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-ii) Los costos de los proyectos y las amortizaciones derivadas de los mismos, y
+d) A partir de la última fecha en que el consumidor acredite haber directamente requerido al proveedor el cumplimiento de alguna de las obligaciones pactadas por éste;
 
-iii) Un análisis que permita conocer el monto, a valor presente, de la posición financiera del Gobierno Federal y las entidades con respecto a los proyectos de que se trate.
+II. Tratándose del otorgamiento del uso o goce temporal de bienes:
 
-e) Los montos correspondientes a los requerimientos financieros del sector público, incluyendo su saldo histórico.
+a) A partir de que se expida el recibo a favor del que disfruta del uso o goce temporal; o
 
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+b) A partir de que se cumpla efectivamente la contraprestación pactada en favor del que otorga el uso o goce temporal.
 
-f) La evolución de los proyectos de inversión en infraestructura que cuenten con erogaciones plurianuales aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+Se exceptúa del término anterior, las reclamaciones que se realicen con motivo de la prestación de servicios educativos o similares, proporcionados por particulares a niñas, niños o adolescentes, por vulneración a los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes. La reclamación podrá presentarse dentro del término de diez años a partir de que se advierta dicha vulneración.
 
-g) La información relativa a los ingresos obtenidos por cada uno de los proyectos de inversión financiada directa y condicionada establecidos en el Tomo correspondiente del Presupuesto de Egresos; así como la información relativa al balance de las entidades de control directo a que se refiere el catálogo de la estimación de ingresos, contenido en la Ley de Ingresos.
+###### ARTICULO 106.
 
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
+Dentro de los procedimientos a que se refiere este capítulo, las partes podrán realizar la consignación ante la Procuraduría, mediante la exhibición de billetes de depósito expedidos por institución legalmente facultada para ello:
 
-II. Informes mensuales sobre la evolución de las finanzas públicas, incluyendo los requerimientos financieros del sector público y su saldo histórico, los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda interna y externa. La información sobre el costo total de las emisiones de deuda interna y externa deberá identificar por separado el pago de las comisiones y gastos inherentes a la emisión, de los del pago a efectuar por intereses. Estos deberán diferenciarse de la tasa de interés que se pagará por los empréstitos y bonos colocados. Dichos informes deberán presentarse a las Comisiones de Hacienda y Crédito Público del Congreso de la Unión, 30 días después del mes de que se trate.
+I. Cuando el acreedor rehuse recibir la cantidad correspondiente;
 
-La Secretaría informará a la Cámara de Diputados, por conducto de la Comisión de Hacienda y Crédito Público, 30 días después de concluido el mes de que se trate, sobre la recaudación federal participable que sirvió de base para el cálculo del pago de las participaciones a las entidades federativas. La recaudación federal participable se calculará de acuerdo con lo previsto en la Ley de Coordinación Fiscal. La recaudación federal participable se comparará con la correspondiente al mismo mes del año previo y con el programa, y se incluirá una explicación detallada de su evolución.
+II. Cuando el acreedor se niegue a entregar el comprobante de pago;
 
-Asimismo la Secretaría informará a la Cámara de Diputados, por conducto de la Comisión de Hacienda y Crédito Público y de la Comisión de Presupuesto y Cuenta Pública, 15 días naturales después de concluido el mes, acerca del pago de las participaciones a las entidades federativas. Esta información deberá estar desagregada por tipo de fondo, de acuerdo con lo establecido en la Ley de Coordinación Fiscal, y por entidad federativa. Este monto pagado de participaciones se comparará con el correspondiente al del mismo mes de año previo. La Secretaría deberá proporcionar la información a que se refiere este párrafo y el anterior a las entidades federativas, a través del Comité de Vigilancia del Sistema de Participaciones de Ingresos Federales de la Comisión Permanente de Funcionarios Fiscales, a más tardar 15 días después de concluido el mes correspondiente y deberá publicarla en su página electrónica.
+III. Cuando exista duda sobre la procedencia del pago;
 
-La Secretaría presentará al Congreso de la Unión los datos estadísticos y la información que tenga disponibles, incluyendo los rubros de información a que se refiere la fracción anterior, que puedan contribuir a una mejor comprensión de la evolución de la recaudación, el endeudamiento, y del gasto público, que los legisladores soliciten por conducto de las Comisiones competentes, así como la que le solicite el Centro de Estudios de las Finanzas Públicas. La Secretaría proporcionará dicha información en un plazo no mayor de 20 días naturales, a partir de la solicitud.
+IV. Mientras exista incumplimiento de algunas de las obligaciones contraídas por la contraparte, en tanto se concluye el procedimiento ante la Procuraduría;
 
-La información que la Secretaría proporcione al Congreso de la Unión deberá ser completa y oportuna. En caso de incumplimiento procederán las responsabilidades que correspondan.
+V. En cumplimiento de convenios o laudos; y
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+VI. Como garantía de compromisos asumidos ante la Procuraduría.
 
-La Cuenta Pública deberá contener los resultados del ejercicio del Presupuesto establecido en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u) y v) de esta Ley, en los mismos términos y el mismo grado de desagregación en los que se presente la evolución del gasto público al que hace referencia el sub inciso iv), inciso b) fracción I del presente artículo.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
+La Procuraduría realizará la notificación correspondiente y ordenará su entrega al consignatario o, en su caso, al órgano judicial competente. Una vez agotados los medios legales para la entrega del billete de depósito, sin que ello hubiese sido posible, prescribirán a favor de la Procuraduría los derechos para su cobro en un término de tres años, contados a partir de la primera notificación para su cobro.
 
-Con el propósito de transparentar el monto y la composición de los pasivos financieros del Gobierno Federal, la Secretaría de Hacienda y Crédito Público deberá publicar en su página de Internet y hacer llegar a las comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados, a más tardar el 30 de abril de cada año, un documento que explique cómo se computan los balances fiscales y los requerimientos financieros del sector público, junto con la metodología respectiva, en el que se incluyan de manera integral todas las obligaciones financieras del Gobierno Federal, así como los pasivos públicos, pasivos contingentes y pasivos laborales.
+###### ARTICULO 107.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+En caso de requerirse prueba pericial, el consumidor y el proveedor podrán designar a sus respectivos peritos, quienes no tendrán obligación de presentarse a aceptar el cargo, sólo la de ratificar el dictamen al momento de su presentación. En caso de discrepancia en los peritajes de las partes la Procuraduría designará un perito tercero en discordia.
 
-###### Artículo 108.
+###### ARTICULO 108.
 
-La Secretaría, la Función Pública y el Banco de México, en el ámbito de sus respectivas competencias, establecerán los lineamientos relativos al funcionamiento, organización y requerimientos del sistema integral de información de los ingresos y gasto público. Las Comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública de la Cámara de Diputados tendrán acceso a este sistema con las limitaciones que establecen las leyes y en términos de lo que establezcan los lineamientos del sistema.
+A falta de mención expresa, los plazos establecidos en días en esta ley, se entenderán naturales. En caso de que el día en que concluya el plazo sea inhábil se entenderá que concluye el día hábil inmediato siguiente.
 
-Los servidores públicos de los ejecutores de gasto que, conforme al Reglamento, tengan acceso a la información de carácter reservado del sistema a que se refiere este artículo estarán obligados a guardar estricta confidencialidad sobre la misma; en caso de que no observen lo anterior, les serán impuestas las sanciones que procedan en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de las sanciones previstas en esta Ley y en las demás disposiciones generales aplicables.
+###### ARTICULO 109.
 
-###### Artículo 109.
+Para acreditar la personalidad en los trámites ante la Procuraduría, tratándose de personas físicas bastará carta-poder firmada ante dos testigos, en el caso de personas morales se requerirá poder notarial.
 
-La información de la cartera de programas y proyectos de inversión, así como la relativa a los análisis costo y beneficio, a que se refiere el artículo 34 de esta Ley, se pondrá a disposición del público en general a través de medios electrónicos, con excepción de aquélla que, por su naturaleza, la dependencia o entidad considere como reservada. En todo caso, se observarán las disposiciones contenidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+###### ARTICULO 110.
 
-La Secretaría emitirá las reglas de carácter general para el manejo de información de los activos financieros disponibles de las dependencias y entidades de la administración pública federal. El órgano interno de control de cada dependencia o entidad será el encargado de vigilar que se cumpla con las reglas señaladas.
+Los convenios aprobados y los laudos emitidos por la Procuraduría tienen fuerza de cosa juzgada y traen aparejada ejecución, lo que podrá promoverse ante los tribunales competentes en la vía de apremio o en juicio ejecutivo, a elección del interesado.
 
-###### Artículo 110.
+Los convenios aprobados y los reconocimientos de los proveedores y consumidores de obligaciones a su cargo así como los ofrecimientos para cumplirlos que consten por escrito, formulados ante la Procuraduría, y que sean aceptados por la otra parte, podrán hacerse efectivos mediante las medidas de apremio contempladas por esta Ley.
 
-La Secretaría realizará trimestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por las Comisiones Ordinarias de la Cámara de Diputados.
+Aún cuando no medie reclamación, la Procuraduría estará facultada para aprobar los convenios propuestos por el consumidor y el proveedor, previa ratificación.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+#### Sección Segunda. Procedimiento conciliatorio
 
-Para efectos del párrafo anterior, el Ejecutivo Federal enviará trimestralmente a la Cámara de Diputados la información necesaria.
+###### ARTICULO 111.
 
-El Consejo Nacional de Evaluación de la Política de Desarrollo Social coordinará las evaluaciones en materia de desarrollo social en términos de lo dispuesto en la Ley General de Desarrollo Social y lo dispuesto en esta Ley.
+La Procuraduría señalará día y hora para la celebración de una audiencia de conciliación en la que se procurará avenir los intereses de las partes, la cual deberá tener lugar, por lo menos, cuatro días después de la fecha de notificación de la reclamación al proveedor.
 
-La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan conocer los resultados de la aplicación de los recursos públicos federales. Para tal efecto, las instancias públicas a cargo de la evaluación del desempeño se sujetarán a lo siguiente:
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-I. Efectuarán las evaluaciones por sí mismas o a través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, que cumplan con los requisitos de independencia, imparcialidad, transparencia y los demás que se establezcan en las disposiciones aplicables;
+La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Procuraduría o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos.
 
-II. Todas las evaluaciones se harán públicas y al menos deberán contener la siguiente información:
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-a) Los datos generales del evaluador externo, destacando al coordinador de la evaluación y a su principal equipo colaborador;
+Queda exceptuado de la etapa de conciliación, cuando el consumidor sea menor de edad y se haya vulnerado alguno de los derechos contemplados en el Título Segundo de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
-b) Los datos generales de la unidad administrativa responsable de dar seguimiento a la evaluación al interior de la dependencia o entidad;
+###### ARTICULO 112.
 
-c) La forma de contratación del evaluador externo, de acuerdo con las disposiciones aplicables;
+En caso de que el proveedor no se presente a la audiencia o no rinda informe relacionado con los hechos, se le impondrá medida de apremio y se citará a una segunda audiencia, en un plazo no mayor de 10 días, en caso de no asistir a ésta se le impondrá una nueva medida de apremio y se tendrá por presuntamente cierto lo manifestado por el reclamante.
 
-d) El tipo de evaluación contratada, así como sus principales objetivos;
+En caso de que el reclamante no acuda a la audiencia de conciliación y no presente dentro de los siguientes 10 días justificación fehaciente de su inasistencia, se tendrá por desistido de la reclamación y no podrá presentar otra ante la Procuraduría por los mismo (sic) hechos.
 
-e) La base de datos generada con la información de gabinete y/o de campo para el análisis de la evaluación;
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-f) Los instrumentos de recolección de información: cuestionarios, entrevistas y formatos, entre otros;
+###### ARTICULO 113.
 
-g) Una nota metodológica con la descripción de las técnicas y los modelos utilizados, acompañada del diseño por muestreo, especificando los supuestos empleados y las principales características del tamaño y dispersión de la muestra utilizada;
+Previo reconocimiento de la personalidad y de la relación contractual entre las partes el conciliador expondrá a las partes un resumen de la reclamación y del informe presentado, señalando los elementos comunes y los puntos de controversia, y las exhortará para llegar a un arreglo. Sin prejuzgar sobre el conflicto planteado, les presentará una o varias opciones de solución, salvaguardando los derechos del consumidor.
 
-h) Un resumen ejecutivo en el que se describan los principales hallazgos y recomendaciones del evaluador externo;
+Tratándose de bienes o servicios de prestación o suministro periódicos tales como energía eléctrica, gas o telecomunicaciones, el solo inicio del procedimiento conciliatorio suspenderá cualquier facultad del proveedor de interrumpir o suspender unilateralmente el cumplimiento de sus obligaciones en tanto concluya dicho procedimiento.
 
-i) El costo total de la evaluación externa, especificando la fuente de financiamiento;
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-III. Las evaluaciones podrán efectuarse respecto de las políticas públicas, los programas correspondientes y el desempeño de las instituciones encargadas de llevarlos a cabo. Para tal efecto, se establecerán los métodos de evaluación que sean necesarios, los cuales podrán utilizarse de acuerdo a las características de las evaluaciones respectivas;
+###### ARTICULO 114.
 
-IV. Establecerán programas anuales de evaluaciones;
+El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la Procuraduría le confiere la ley. Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación. Las partes podrán aportar las pruebas que estimen necesarias para acreditar los elementos de la reclamación y del informe.
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2012)</small>
+El conciliador podrá suspender cuando lo estime pertinente o a instancia de ambas partes, la audiencia de conciliación hasta en tres ocasiones. Asimismo, podrá requerir la emisión de un dictamen a través del cual se cuantifique en cantidad líquida la obligación contractual.
 
-V. Las evaluaciones deberán incluir información desagregada por sexo relacionada con las beneficiarias y beneficiarios de los programas. Asimismo, las dependencias y entidades deberán presentar resultados con base en indicadores, desagregados por sexo, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres, y
+En caso de que se suspenda la audiencia, el conciliador señalará día y hora para su reanudación, dentro de los quince días siguientes, donde en su caso, hará del conocimiento de las partes el dictamen correspondiente, las cuales podrán formular durante la audiencia observaciones al mismo.
 
-VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
+La Procuraduría podrá emitir un acuerdo de trámite que contenga el dictamen a que se refieren los párrafos anteriores, que constituirá título ejecutivo no negociable a favor del consumidor, siempre y cuando la obligación contractual incumplida que en él se consigne sea cierta, exigible y líquida a juicio de la autoridad judicial, ante la que el proveedor podrá controvertir el monto del título, presentar las pruebas y oponer las excepciones que estime convenientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+De toda audiencia se levantará el acta respectiva. En caso de que el proveedor no firme el acta, ello no afectará su validez, debiéndose hacer constar dicha negativa.
 
-#### SECCION SEGUNDA.
+Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
 
-Amnistía.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+ARTICULO 114 BIS.- El dictamen a que se refiere el artículo anterior se efectuará en base a las siguientes consideraciones:
 
-100.- La amnistía extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad, excepto la reparación del daño y el decomiso de los instrumentos del delito, en los términos de la ley que la otorgue; si no se expresaren, se entenderá que la acción persecutoria y la potestad para aplicar penas y medidas de seguridad se extinguen con todos sus efectos, con relación a todos los sujetos activos.
+I. Se calculará el monto de la obligación contractual, atendiendo a las cantidades originalmente pactadas por las partes;
 
-> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO III], P.O. 7 DE MAYO DE 2015)</small>
+II. Se analizará el grado de cumplimiento efectuado por el proveedor con relación a la obligación objeto del procedimiento;
 
-###### Artículo 111.
+III. Con los datos antes señalados, se estimará la obligación incumplida y, en su caso, la bonificación a que se refiere el artículo 92 TER, y
 
-La Secretaría verificará periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública Federal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
+IV. La bonificación señalada en la fracción anterior, se calculará conforme al siguiente criterio:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+a) En los casos en que el consumidor hubiere entregado la totalidad del monto de la operación al proveedor, la bonificación será del 30% del monto de la obligación contractual que se determine en el dictamen;
 
-El sistema de evaluación del desempeño a que se refiere el párrafo anterior será obligatorio para los ejecutores de gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley. La Secretaría emitirá las disposiciones para la aplicación y evaluación de los indicadores estratégicos en las dependencias y entidades. Los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+b) Cuando el consumidor hubiere entregado más del 50% de la totalidad del monto de la operación al proveedor, la bonificación será del 25% del monto de la obligación contractual que se determine en el dictamen;
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+c) En los supuestos en los que el consumidor hubiere entregado hasta el 50% de la totalidad del monto de la operación al proveedor, la bonificación será del 20% del monto de la obligación contractual que se determine en el dictamen, y
 
-En la elaboración de los anteproyectos de presupuesto a los que se refiere el artículo 25 de esta Ley, las dependencias y entidades deberán considerar los indicadores del sistema de evaluación de desempeño, mismos que formarán parte del Presupuesto de Egresos e incorporarán sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
+d) En los demás casos, la bonificación correspondiente será del 20% del monto de la obligación contractual que se determine en el dictamen.
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+Las bonificaciones señaladas con anterioridad, se fijarán sin perjuicio de las sanciones a que se hubiese hecho acreedor el proveedor o de que sean modificadas por la autoridad judicial.
 
-El sistema de evaluación del desempeño deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas presupuestarios en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación de género.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
+ARTICULO 114 TER.- El dictamen emitido deberá contener lo siguiente:
 
-###### Artículo 112.
+I. Lugar y fecha de emisión;
 
-Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones aplicables en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+II. Identificación de quien emite el dictamen;
 
-###### Artículo 113.
+III. Nombre y domicilio del proveedor y del consumidor;
 
-La Auditoría ejercerá las atribuciones que, conforme a la Ley de Fiscalización Superior de la Federación y las demás disposiciones aplicables, le correspondan en materia de responsabilidades.
+IV. La obligación contractual y tipo de bien o servicio de que se trate;
 
-###### Artículo 114.
+V. El monto original de la operación y materia de la reclamación;
 
-Se sancionará en los términos de las disposiciones aplicables a los servidores públicos que incurran en alguno de los siguientes supuestos:
+VI. La determinación del importe de las obligaciones a cargo del proveedor, y
 
-I. Causen daño o perjuicio a la Hacienda Pública Federal, incluyendo los recursos que administran los Poderes, o al patrimonio de cualquier ente autónomo o entidad;
+VII. La cuantificación líquida de la bonificación al consumidor.
 
-II. No cumplan con las disposiciones generales en materia de programación, presupuestación, ejercicio, control y evaluación del gasto público federal establecidas en esta Ley y el Reglamento, así como en el Decreto de Presupuesto de Egresos;
+La determinación del importe consignado en el dictamen, para efectos de ejecución se actualizará por el transcurso del tiempo desde el momento en que se emitió hasta el momento en que se pague, tomando en consideración los cambios de precios en el país, de conformidad con el factor de actualización que arroje el Índice Nacional de Precios al Consumidor que mensualmente dé a conocer el Banco de México.
 
-III. No lleven los registros presupuestarios y contables en la forma y términos que establece esta Ley, con información confiable y veraz;
+La acción ejecutiva derivada del dictamen prescribirá a un año de su emisión.
 
-IV. Cuando por razón de la naturaleza de sus funciones tengan conocimiento de que puede resultar dañada la Hacienda Pública Federal o el patrimonio de cualquier ente autónomo o entidad y, estando dentro de sus atribuciones, no lo eviten o no lo informen a su superior jerárquico;
+###### ARTICULO 115.
 
-V. Distraigan de su objeto dinero o valores, para usos propios o ajenos, si por razón de sus funciones los hubieren recibido en administración, depósito o por otra causa;
+Los acuerdos de trámite que emita el conciliador no admitirán recurso alguno.
 
-VI. Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias;
+Los convenios celebrados por las partes serán aprobados por la Procuraduría cuando no vayan en contra de la ley, y el acuerdo que los apruebe no admitirá recurso alguno.
 
-VII. Incumplan con la obligación de proporcionar información al Congreso de la Unión en los términos de esta Ley y otras disposiciones aplicables;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-VIII. Realicen acciones u omisiones que impidan el ejercicio eficiente, eficaz y oportuno de los recursos y el logro de los objetivos y metas anuales de las dependencias, unidades responsables y programas;
+###### ARTICULO 116.
 
-IX. Realicen acciones u omisiones que deliberadamente generen subejercicios por un incumplimiento de los objetivos y metas anuales en sus presupuestos, y
+En caso de no haber conciliación, el conciliador exhortará a las partes para que designen como árbitro a la Procuraduría o a algún árbitro independiente para solucionar el conflicto. Para efectos de este último caso, la Procuraduría podrá poner a disposición de las partes información sobre árbitros independientes.
 
-X. Infrinjan las disposiciones generales que emitan la Secretaría, la Función Pública y la Auditoría, en el ámbito de sus respectivas atribuciones.
+En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas partes.
 
-###### Artículo 115.
+#### Sección Tercera. Procedimiento arbitral
 
-Los servidores públicos y las personas físicas o morales que causen daño o perjuicio estimable en dinero a la Hacienda Pública Federal o al patrimonio de cualquier ente autónomo o entidad, incluyendo en su caso, los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por incumplimiento de obligaciones derivadas de esta Ley, serán responsables del pago de la indemnización correspondiente, en los términos de las disposiciones generales aplicables.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+###### ARTICULO 117.
 
-Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o morales privadas en los casos en que hayan participado y originen una responsabilidad.
+La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
 
-###### Artículo 116.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-Las sanciones e indemnizaciones que se determinen conforme a las disposiciones de esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, sujetándose al procedimiento de ejecución que establece la legislación aplicable.
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-#### SECCION TERCERA.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $397,754.11
 
-Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente.
+###### ARTICULO 118.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+La designación de árbitro se hará constar mediante acta ante la Procuraduría, en la que se señalarán claramente los puntos esenciales de la controversia y si el arbitraje es en estricto derecho o en amigable composición.
 
-101.- El perdón del ofendido o del legitimado para otorgarlo, extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público, si éste no ha ejercitado la misma o ante el órgano jurisdiccional antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
+###### ARTICULO 119.
 
-Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que sólo pueden ser perseguidos por declaratoria de perjuicio o por algún otro acto equivalente a la querella, siendo suficiente para la extinción de la acción penal la manifestación de quien está autorizado para ello de que el interés afectado ha sido satisfecho.
+En la amigable composición se fijarán las cuestiones que deberán ser objeto del arbitraje y el árbitro tendrá libertad para resolver en conciencia y a buena fe guardada, sin sujeción a reglas legales, pero observando las formalidades esenciales del procedimiento. El árbitro tendrá la facultad de allegarse todos los elementos que juzgue necesarios para resolver las cuestiones que se le hayan planteado. No habrá términos ni incidentes.
 
-Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al sujeto activo del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorgue.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-El perdón sólo beneficia al inculpado en cuyo favor se otorga a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses ó derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
+###### ARTICULO 120.
 
-El perdón del ofendido y del legitimado para otorgarlo también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora y se trate de los delitos mencionados en los párrafos primero y segundo.
+En el juicio arbitral de estricto derecho las partes formularán compromiso en el que fijarán las reglas del procedimiento, acordes con los principios de legalidad; equidad e igualdad entre las partes. En el caso de que las partes no las propongan o no se hayan puesto de acuerdo, el árbitro las establecerá. En todo caso se aplicará supletoriamente el Código de Comercio y a falta de disposición en dicho Código, el ordenamiento procesal civil local aplicable.
 
-> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO IV], P.O. 7 DE MAYO DE 2015)</small>
+###### ARTICULO 121.
 
-###### Artículo 117.
+El laudo arbitral emitido por la Procuraduría o por el árbitro designado por las partes deberá cumplimentarse o, en su caso, iniciar su cumplimentación dentro de los quince días siguientes a la fecha de su notificación, salvo pacto en contrario.
 
-Los ejecutores de gasto informarán a la autoridad competente cuando las infracciones a esta Ley impliquen la comisión de una conducta sancionada en los términos de la legislación penal.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-###### Artículo 118.
+###### ARTICULO 122.
 
-Las sanciones e indemnizaciones a que se refiere esta Ley se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal, administrativo o civil que, en su caso, lleguen a determinarse por las autoridades competentes.
+Las resoluciones que se dicten durante el procedimiento arbitral admitirán como único recurso el de revocación, que deberá resolverse por el árbitro designado en un plazo no mayor de tres días. El laudo arbitral sólo estará sujeto a aclaración dentro de los dos días siguientes a la fecha de su notificación.
 
-#### SECCION CUARTA.
+#### Sección Cuarta. Procedimientos por infracciones a la ley
 
-Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indulto.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+###### ARTICULO 123.
 
-102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código Nacional de Procedimientos Penales, según sea el caso y se estará a lo dispuesto en el artículo 50 de este Código.
+Para determinar el incumplimiento de esta ley y en su caso para la imposición de las sanciones a que se refiere la misma, la Procuraduría notificará al presunto infractor de los hechos motivo del procedimiento y le otorgará un término de diez días hábiles para que rinda pruebas y manifieste por escrito lo que a su derecho convenga. En caso de no rendirlas, la Procuraduría resolverá conforme a los elementos de convicción de que disponga.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-103.- El indulto es supresión de la prisión impuesta en sentencia irrevocable.
+Cuando la Procuraduría detecte violaciones a normas oficiales mexicanas e inicie el procedimiento a que se refiere este precepto en contra de un proveedor por la comercialización de bienes o productos que no cumplan con dichas normas, notificará también al fabricante, productor o importador de tales bienes o productos el inicio del procedimiento previsto en este artículo. La Procuraduría determinará las sanciones que procedan una vez concluidos los procedimientos en cuestión.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+La Procuraduría admitirá las pruebas que estime pertinentes y procederá a su desahogo. Asimismo podrá solicitar del presunto infractor o de terceros las demás pruebas que estime necesarias.
 
-104. El indulto es estrictamente personal y cada caso se tramitará ante el Ejecutivo.
+Concluido el desahogo de las pruebas, la Procuraduría notificará al presunto infractor para que presente sus alegatos dentro de los dos días hábiles siguientes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-105.- El Ejecutivo podrá otorgar el indulto:
+La Procuraduría resolverá dentro de los quince días hábiles siguientes.
 
-I.- En los delitos políticos, según su prudencia y discreción; y
+###### ARTICULO 124.
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+La Procuraduría podrá solicitar al reclamante en los procedimientos conciliatorio o arbitral o, en su caso, al denunciante, aporten pruebas a fin de acreditar la existencia de violaciones a la ley.
 
-II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado y existan datos que revelen efectiva reinserción social.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
-
-También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciocho años.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-106.- El indulto en ningún caso extinguirá la obligación de reparar el daño causado.
-
-107.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-108.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-109.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-110.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-111.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-112.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-113.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-114.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-115.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-> <small>(REFORMADA [N. DE E. ANTES CAPÍTULO V], P.O. 7 DE MAYO DE 2015)</small>
+ARTICULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a la ley a que se refiere el presente Capítulo, se aplicará supletoriamente lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 #### SECCION QUINTA.
 
@@ -6505,469 +5757,197 @@ El conocimiento de la actividad delictiva y la existencia de la misma se acredit
 
 ###### ARTICULO 1o.
 
-Este Código comenzará a regir a los noventa días de su publicación en el Periódico Oficial del Estado.
+La presente ley es de orden público e interés social y de observancia en toda la República. Sus disposiciones son irrenunciables y contra su observancia no podrán alegarse costumbres, usos, prácticas, convenios o estipulaciones en contrario.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+El objeto de esta ley es promover y proteger los derechos y cultura del consumidor y procurar la equidad, certeza y seguridad jurídica en las relaciones entre proveedores y consumidores.
+
+"Son principios básicos en las relaciones de consumo:
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. La protección de la vida, salud y seguridad del consumidor contra los riesgos provocados por productos, prácticas en el abastecimiento de productos y servicios considerados peligrosos o nocivos;
+
+II. La educación y divulgación sobre el consumo adecuado de los productos y servicios, que garanticen la libertad para escoger y la equidad en las contrataciones;
+
+III. La información adecuada y clara sobre los diferentes productos y servicios, con especificación correcta de cantidad, características, composición, calidad y precio, así como sobre los riesgos que representen;
+
+IV. La efectiva prevención y reparación de daños patrimoniales y morales, individuales o colectivos;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+V. El acceso a los órganos administrativos con vistas a la prevención de daños patrimoniales y morales, individuales o colectivos, garantizando la protección jurídica, económica, administrativa y técnica a los consumidores;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+VI. El otorgamiento de información y de facilidades a los consumidores para la defensa de sus derechos;
+
+VII. La protección contra la publicidad engañosa y abusiva, métodos comerciales coercitivos y desleales, así como contra prácticas y cláusulas abusivas o impuestas en el abastecimiento de productos y servicios;
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+VIII. La real y efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios convencionales, electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados;
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento; y
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+X. La protección de los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
+
+Los derechos previstos en esta ley no excluyen otros derivados de tratados o convenciones internacionales de los que México sea signatario; de la legislación interna ordinaria; de reglamentos expedidos por las autoridades administrativas competentes; así como de los que deriven de los principios generales de derecho, la analogía, las costumbres y la equidad.
 
 ###### ARTICULO 2o.
 
-Desde esa misma fecha queda derogado el Código Penal de 18 de Diciembre de 1943, así como todas las Leyes que se opongan a la presente; pero este Código deberá continuar aplicándose por los hechos ejecutados durante su vigencia, a menos que los acusados manifiesten su voluntad de acogerse al nuevo Ordenamiento.
+Para los efectos de esta ley, se entiende por:
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. Consumidor: la persona física o moral que adquiere, realiza o disfruta como destinatario final bienes, productos o servicios. Se entiende también por consumidor a la persona física o moral que adquiera, almacene, utilice o consuma bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, únicamente para los casos a que se refieren los artículos 99 y 117 de esta ley.
+
+Tratándose de personas morales que adquieran bienes o servicios para integrarlos en procesos de producción o de servicios a terceros, sólo podrán ejercer las acciones a que se refieren los referidos preceptos cuando estén acreditadas como microempresas o microindustrias en términos de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, respectivamente y conforme a los requisitos que se establezcan en el Reglamento de esta ley.
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+
+II. Proveedor: la persona física o moral en términos del Código Civil Federal, que habitual o periódicamente ofrece, distribuye, vende, arrienda o concede el uso o disfrute de bienes, productos y servicios;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+III. Secretaría: la Secretaría de Economía, y
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+IV. Procuraduría: la Procuraduría Federal del Consumidor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 3o.
 
-Quedan vigentes las disposiciones de carácter penal contenidas en Leyes especiales en todo lo que no esté previsto en este Código.
+A falta de competencia específica de determinada dependencia de la administración pública federal, corresponde a la Secretaría de Economía expedir las normas oficiales mexicanas previstas por la ley y a la Procuraduría vigilar se cumpla con lo dispuesto en la propia ley y sancionar su incumplimiento.
 
-Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+###### ARTICULO 4o.
 
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Oaxaca de Juárez, a 22 de octubre de 1979.
+Son auxiliares en la aplicación y vigilancia de esta ley las autoridades federales, estatales y municipales.
 
-PROFR. DAVID MAYREN RODRIGUEZ,
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Diputado Presidente.- Rúbrica.
+###### ARTICULO 5o.
 
-MARIA ELENA ALCALA DE RUEDA,
+Quedan exceptuadas de las disposiciones de esta ley, los servicios que se presten en virtud de una relación o contrato de trabajo, los servicios profesionales que no sean de carácter mercantil y los servicios que presten las sociedades de información crediticia.
 
-Diputada Secretaria.- Rúbrica.
+Asimismo, quedan excluidos los servicios regulados por las leyes financieras que presten las Instituciones y Organizaciones cuya supervisión o vigilancia esté a cargo de las comisiones nacionales Bancaria y de Valores; de Seguros y Fianzas; del Sistema de Ahorro para el Retiro o de cualquier órgano de regulación, de supervisión o de protección y defensa dependiente de la Secretaría de Hacienda y Crédito Público.
 
-LIC. CELESTINO CHAVEZ GUTIERREZ,
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-Diputado Secretario.- Rúbrica.
+###### ARTICULO 6o.
 
-Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
+Estarán obligados al cumplimiento de esta ley los proveedores y los consumidores. Las entidades de las administraciones públicas federal, estatal, municipal y del gobierno del Distrito Federal, están obligadas en cuanto tengan el carácter de proveedores o consumidores.
 
-Oaxaca de Juárez, Oax., a 3 de Diciembre de 1979.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-GRAL. DE BGDA. D.E.M. ELISEO JIMENEZ RUIZ.- EL SECRETARIO GENERAL DEL DESPACHO.- LIC. ALBERTO CANSECO RUIZ.- Rúbricas.
+###### ARTICULO 7o.
 
-Y lo comunico a usted para su conocimiento y fines consiguientes.
+Todo proveedor está obligado a informar y respetar los precios, tarifas, garantías, cantidades, calidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiera ofrecido, obligado o convenido con el consumidor la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes o servicios a persona alguna.
 
-SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 3 de Diciembre de 1979.- EL SECRETARIO GENERAL DEL DESPACHO.- LIC. ALBERTO CANSECO RUIZ.- Rúbricas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Al C.........
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2010)</small>
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+ARTICULO 7 BIS.- El proveedor está obligado a exhibir de forma notoria y visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
 
-P.O. 30 DE OCTUBRE DE 1982.
+Dicho monto deberá incluir impuestos, comisiones, intereses, seguros y cualquier otro costo, cargo, gasto o erogación adicional que se requiera cubrir con motivo de la adquisición o contratación respectiva, sea ésta al contado o a crédito.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-P.O. 27 DE NOVIEMBRE DE 1982.
+###### ARTICULO 8o.
 
-PRIMERO.- Quedan derogadas todas las disposiciones del Código Penal de fecha 22 de octubre de 1979 que se opongan a las adiciones y reformas del presente decreto.
+La Procuraduría verificará que se respeten los precios máximos establecidos en términos de la Ley Federal de Competencia Económica, así como los precios y tarifas que conforme a lo dispuesto por otras disposiciones sean determinados por las autoridades competentes.
 
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Los proveedores están obligados a respetar el precio máximo y las tarifas establecidas conforme al párrafo anterior.
 
-P.O. 5 DE ENERO DE 1985.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+ARTICULO 8 BIS.- La Procuraduría deberá fomentar permanentemente una cultura de consumo responsable e inteligente, entendido como aquel que implica un consumo consciente, informado, crítico, saludable, sustentable, solidario y activo, a fin de que los consumidores estén en la posibilidad de realizar una buena toma de decisiones, suficientemente informada, respecto del consumo de bienes y servicios, los efectos de sus actos de consumo, y los derechos que los asisten.
 
-P.O. 22 DE DICIEMBRE DE 1987.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE ENERO DE 2011)</small>
 
-PRIMERO: Este decreto deroga todas las disposiciones que se le opongan.
+Para este propósito, elaborará contenidos y materiales educativos en esta materia a fin de ponerlos a disposición del público por los medios a su alcance, incluyendo su distribución en los establecimientos de los proveedores, previo acuerdo con éstos. También presentará sus contenidos educativos a la autoridad federal competente a fin de que los incorpore a los programas oficiales correspondientes en términos de las disposiciones aplicables.
 
-SEGUNDO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-P.O. 2 DE JULIO DE 1988.
+La Procuraduría establecerá módulos o sistemas de atención y orientación a los consumidores en función de la afluencia comercial, del número de establecimientos y operaciones mercantiles, de la temporada del año y conforme a sus programas y medios, debiéndose otorgar a aquélla las facilidades necesarias para ello.
 
-PRIMERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-SEGUNDO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+###### ARTICULO 9o.
 
-P.O. 27 DE AGOSTO DE 1994.
+Los proveedores de bienes o servicios incurren en responsabilidad administrativa por los actos propios que atenten contra los derechos del consumidor y por los de sus colaboradores, subordinados y toda clase de vigilantes, guardias o personal auxiliar que les presten sus servicios, independientemente de la responsabilidad personal en que incurra el infractor.
 
-ÚNICO.- Las presentes reformas, adiciones y derogaciones al Código Penal y Código de Procedimientos Penales del Estado Libre y Soberano de Oaxaca, entrarán en vigor el día cuatro de septiembre de mil novecientos noventa y cuatro previa su publicación en el Periódico Oficial del Gobierno del Estado.
+###### ARTICULO 10.
 
-P.O. 3 DE JUNIO DE 1995.
+Queda prohibido a cualquier proveedor de bienes o servicios llevar a cabo acciones que atenten contra la libertad o seguridad o integridad personales de los consumidores bajo pretexto de registro o averiguación. En el caso de que alguien sea sorprendido en la comisión flagrante de un delito, los proveedores, sus agentes o empleados se limitarán, bajo su responsabilidad, a poner sin demora al presunto infractor a disposición de la autoridad competente. La infracción de esta disposición se sancionará de acuerdo con lo previsto en esta ley, independientemente de la reparación del daño moral y la indemnización por los daños y perjuicios ocasionados en caso de no comprobarse el delito imputado.
 
-PRIMERO. El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-SEGUNDO. Los reos que se encuentren comprendidos en las hipótesis del artículo 97 del Código Penal, podrán solicitar al juez que pronunció la sentencia irrevocable, la concesión del beneficio de la condena condicional, y el juez, oyendo al Ministerio Público, resolverá lo que en derecho proceda.
+Los proveedores no podrán aplicar métodos o prácticas comerciales coercitivas y desleales, ni cláusulas o condiciones abusivas o impuestas en el abastecimiento de productos o servicios. Asimismo, tampoco podrán prestar servicios adicionales a los originalmente contratados que no hubieren sido solicitados o aceptados expresamente, por escrito o por vía electrónica, por el consumidor.
 
-P.O. 15 DE JULIO DE 1995.
+###### ARTICULO 11.
 
-UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+El consumidor que al adquirir un bien haya entregado una cantidad como depósito por su envase o empaque, tendrá derecho a recuperar, en el momento de su devolución, la suma íntegra que haya erogado por ese concepto.
 
-P.O. 30 DE SEPTIEMBRE DE 1995.
+###### ARTICULO 12.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+Sin perjuicio de lo dispuesto por la legislación fiscal, el proveedor, tiene obligación de entregar al consumidor factura, recibo o comprobante, en el que consten los datos específicos de la compraventa, servicio prestado u operación realizada.
 
-P.O. 19 DE ABRIL DE 1997.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+###### ARTICULO 13.
 
-P.O. 9 DE OCTUBRE DE 1997.
+La Procuraduría verificará a través de visitas, requerimientos de información o documentación, monitoreos, o por cualquier otro medio el cumplimiento de esta ley. Para efectos de lo dispuesto en este precepto, los proveedores, sus representantes o sus empleados están obligados a permitir al personal acreditado de la Procuraduría el acceso al lugar o lugares objeto de la verificación.
 
-PRIMERO.- El presente Decreto entrara en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+Las autoridades, proveedores y consumidores están obligados a proporcionar a la Procuraduría, en un término no mayor de quince días, la información o documentación necesaria que les sea requerida para el cumplimiento de sus atribuciones, así como para sustanciar los procedimientos a que se refiere esta ley, excepto cuando se demuestre que la información requerida sea de estricto uso interno o no tenga relación con el procedimiento de que se trate. Dicho plazo podrá ser ampliado por una sola vez.
 
-SEGUNDO.- Se Derogan las disposiciones que se opongan a la aplicación del presente Decreto.
+###### ARTICULO 14.
 
-P.O. 7 DE FEBRERO DE 1998.
+El plazo de prescripción de los derechos y obligaciones establecidos en la presente ley será de un año, salvo otros términos previstos por esta ley.
 
-PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
-SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
+En caso de afectaciones a los derechos de las niñas, niños y adolescentes, el término de prescripción será de diez años.
 
-P.O. 3 DE OCTUBRE DE 1998.
+###### ARTICULO 15.
 
-PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial.
+Cuando el cobro se haga mediante cargo directo a una cuenta de crédito, débito o similar del consumidor, el cargo no podrá efectuarse sino hasta la entrega del bien, o la prestación del servicio, excepto cuando exista consentimiento expreso del consumidor para que éstas se realicen posteriormente.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
+###### ARTICULO 16.
 
-P.O. 28 DE NOVIEMBRE DE 1998.
+Los proveedores y empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios están obligados a informar gratuitamente a cualquier persona que lo solicite si mantienen información acerca de ella. De existir dicha información, deberán ponerla a su disposición si ella misma o su representante lo solicita, e informar acerca de qué información han compartido con terceros y la identidad de esos terceros, así como las recomendaciones que hayan efectuado. La respuesta a cada solicitud deberá darse dentro de los treinta días siguientes a su presentación. En caso de existir alguna ambigüedad o inexactitud en la información de un consumidor, éste se la deberá hacer notar al proveedor o a la empresa, quien deberá efectuar dentro de un plazo de treinta días contados a partir de la fecha en que se le haya hecho la solicitud, las correcciones que fundadamente indique el consumidor, e informar las correcciones a los terceros a quienes les haya entregado dicha información.
 
-DECRETO NÚM. 332, SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL.
+Para los efectos de esta ley, se entiende por fines mercadotécnicos o publicitarios el ofrecimiento y promoción de bienes, productos o servicios a consumidores.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado; a excepción de lo dispuesto en la Fracción II del artículo 357 BIS, del Código Penal del Estado, que entrará en vigor noventa días después de su publicación.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+###### ARTICULO 17.
 
-TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente Decreto.
+En la publicidad que se envíe a los consumidores se deberá indicar el nombre, domicilio, teléfono y, en su defecto, la dirección electrónica del proveedor; de la empresa que, en su caso, envíe la publicidad a nombre del proveedor, y de la Procuraduría.
 
-P.O. 28 DE NOVIEMBRE DE 1998.
+El consumidor podrá exigir directamente a proveedores específicos y a empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios, no ser molestado en su domicilio, lugar de trabajo, dirección electrónica o por cualquier otro medio, para ofrecerle bienes, productos o servicios, y que no le envíen publicidad. Asimismo, el consumidor podrá exigir en todo momento a proveedores y a empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios, que la información relativa a él mismo no sea cedida o transmitida a terceros, salvo que dicha cesión o transmisión sea determinada por una autoridad judicial.
 
-DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el periódico oficial.
+###### ARTICULO 18.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+La Procuraduría podrá llevar, en su caso, un registro público de consumidores que no deseen que su información sea utilizada para fines mercadotécnicos o publicitarios. Los consumidores podrán comunicar por escrito o por correo electrónico a la Procuraduría su solicitud de inscripción en dicho registro, el cual será gratuito.
 
-TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-P.O. 26 DE FEBRERO DE 2000.
-
-UNICO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
-
-P.O. 23 DE SEPTIEMBRE DE 2000.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 15 DE SEPTIEMBRE DE 2001.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
-
-P.O. 1 DE ABRIL DE 2002.
-
-UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 20 DE DICIEMBRE DE 2003.
-
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-Segundo.- Se derogan todas las disposiciones que se opongan a este decreto.
-
-Tercero.- La Exposición de Motivos se publicará en el Periódico Oficial junto con el Decreto.
-
-P.O. 12 DE ABRIL DE 2004.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 12 DE JUNIO DE 2004.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 18 DE MARZO DE 2006.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE SEPTIEMBRE DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor el día doce de septiembre del año dos mil seis. Publíquese en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Los adolescentes que no hayan cumplido los 18 años, a quienes se impute la comisión de conductas ilícitas, serán remitidos al Consejo de Tutela para Menores Infractores, para ser sujetos al sistema previsto por la Ley de Tutela Pública para Menores Infractores, hasta en tanto entra en vigor la Ley de Justicia para Adolescentes del Estado de Oaxaca.
-
-P.O. 16 DE AGOSTO DE 2008.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 21 DE NOVIEMBRE DE 2008.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE ABRIL DE 2009.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 14 DE SEPTIEMBRE DE 2009.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 23 DE ENERO DE 2010.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 6 DE FEBRERO DE 2010.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 2 DE OCTUBRE DE 2010.
-
-ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 7 DE ABRIL DE 2011.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 16 DE JUNIO DE 2011.
-
-PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Cuando el Código de Procedimientos Penales para el Estado de Oaxaca se refiera al reo, se entenderá que se trata del sentenciado.
-
-TERCERO.- Las personas que hubieren sido sentenciadas con antelación a la entrada en vigor del presente decreto, que se encuentren privadas de su libertad en centros de reinserción social, así como aquellas que estén restringidas de su libertad bajo alguna medida de seguridad, o que estén gozando del beneficio de la libertad anticipada, tratamiento preliberacional o semilibertad concedida en sentencia quedarán a disposición de la autoridad judicial para efectos de la ejecución técnica de la sentencia.
-
-CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades sobre ejecución, modificación y duración de las penas impuestas por la autoridad judicial, que la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca, otorga a la Dirección de Reinserción Social, serán ejercidas por los Jueces de Ejecución de Sanciones.
-
-QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
-
-SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
-
-P.O. 23 DE SEPTIEMBRE DE 2011.
-
-DECRETO NÚM. 633 POR EL QUE SE REFORMAN LOS ARTÍCULOS 119, 122, 123, 217 BIS-E, 383 Y 406 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
-
-PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 23 DE SEPTIEMBRE DE 2011.
-
-DECRETO NÚM. 643 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO ÚNICO PARA DENOMINARSE CAPÍTULO I Y SE ADICIONA UN CAPÍTULO II, INTEGRADO CON LOS ARTÍCULOS 407, 408, 409 Y 410 AL TÍTULO VIGÉSIMO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 30 DE MAYO DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 22 DE JUNIO DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado.
-
-SEGUNDO.- La Comisión se integrará en un plazo de 60 días contados a partir de la entrada en vigor de la presente Ley. La Comisión expedirá el Reglamento de la Ley en un término de 180 días hábiles posteriores a su instalación.
-
-TERCERO.- La Comisión presentará el Programa en el plazo de un año, contado a partir de la entrada en vigor de la presente ley.
-
-CUARTO.- La Presente Ley deroga los delitos objetos de la misma del Código Penal para el Estado Libre y Soberano de Oaxaca.
-
-P.O. 29 DE JUNIO DE 2012.
-
-PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 4 DE OCTUBRE DE 2012.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. El Procurador General de Justicia del Estado, expedirá el Protocolo Especializado para la Investigación del delito de Feminicidio, dentro de seis meses contados a partir del día siguiente a la entrada en vigor de este Decreto.
-
-TERCERO. Para la debida implementación del presente Decreto, se destinarán los recursos necesarios en el Presupuesto de Egresos del Estado de Oaxaca, para su ejecución a las instituciones correspondientes.
-
-P.O. 23 DE NOVIEMBRE DE 2012.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 9 DE DICIEMBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
-
-P.O. 20 DE DICIEMBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
-
-P.O. 18 DE ABRIL DE 2015.
-
-ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 7 DE MAYO DE 2015.
-
-PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y entrará en vigor en la forma y términos señalados en el decreto mediante el cual se determina el inicio de vigencia del Código Nacional de Procedimientos Penales en cada una de las regiones del Estado.
-
-SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
-
-TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
-
-P.O. 19 DE MAYO DE 2015.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 31 DE AGOSTO DE 2015.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE OCTUBRE DE 2015.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO.- Remítase para su publicación correspondiente en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 26 DE OCTUBRE DE 2015.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 30 DE ENERO DE 2016.
-
-###### Artículo 10.
-
-Las dependencias y entidades podrán otorgar subsidios o donativos, los cuales mantienen su naturaleza jurídica de recursos públicos federales para efectos de su fiscalización y transparencia, a los fideicomisos que constituyan las entidades federativas o los particulares, siempre y cuando cumplan con lo que a continuación se señala y lo dispuesto en el Reglamento:
-
-I. Los subsidios o donativos en numerario deberán otorgarse en los términos de esta Ley y el Reglamento;
-
-II. Los recursos se identificarán específicamente en una subcuenta, misma que deberá reportarse en los informes trimestrales, conforme lo establezca el Reglamento, identificando los ingresos, incluyendo rendimientos financieros del periodo, egresos, así como su destino y el saldo;
-
-III. En el caso de fideicomisos constituidos por particulares, la suma de los recursos públicos federales otorgados no podrá representar, en ningún momento, más del 50 por ciento del saldo en el patrimonio neto de los mismos;
-
-IV. Tratándose de fideicomisos constituidos por las entidades federativas, se requerirá la autorización del titular de la dependencia o entidad para otorgar recursos públicos federales que representen más del 50 por ciento del saldo en el patrimonio neto de los mismos, informando de ello a la Secretaría y a la Función Pública, y
-
-V. Si existe compromiso recíproco de la entidad federativa o de los particulares y del Gobierno Federal para otorgar recursos al patrimonio y aquéllos incumplen, el Gobierno Federal, por conducto de la dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos, suspenderá las aportaciones subsecuentes.
-
-###### Artículo 11.
-
-Los fideicomisos a que se refiere el artículo 9 de esta Ley deberán registrarse y renovar anualmente su registro ante la Secretaría para efectos de su seguimiento, en los términos del Reglamento. Asimismo, deberán registrarse las subcuentas a que se refiere el artículo 10 de esta Ley e informarse anualmente a la Secretaría en los términos del Reglamento.
-
-La unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos, o que coordine su operación, será responsable de que se apliquen a los fines para los cuales fue constituido el fideicomiso.
-
-En los términos que señale el Reglamento, los informes trimestrales y la Cuenta Pública incluirán un reporte del cumplimiento de la misión y fines de los fideicomisos, así como de los recursos ejercidos para el efecto; las dependencias y entidades deberán poner esta información a disposición del público en general, a través de medios electrónicos de comunicación
-
-Las dependencias y entidades con cargo a cuyo presupuesto se hayan otorgado los recursos deberán suspender las aportaciones subsecuentes cuando no se cumpla con las autorizaciones y registros correspondientes.
-
-> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
-
-Al extinguir los fideicomisos a que se refieren los artículos 9 y 10 de esta Ley, las dependencias y entidades deberán enterar los recursos públicos federales remanentes a la Tesorería de la Federación o, en su caso, a la tesorería de la entidad, en términos de las disposiciones aplicables.
-
-###### Artículo 12.
-
-Los Poderes Legislativo y Judicial, así como los entes autónomos deberán publicar en el Diario Oficial de la Federación, los ingresos del periodo, incluyendo los rendimientos financieros; egresos; destino y saldo de los fideicomisos en los que participen, en los términos de las disposiciones generales aplicables.
-
-La información a que se refiere el párrafo anterior deberá remitirse a la Secretaría para efectos de la integración de los informes trimestrales, a más tardar 10 días hábiles antes de la fecha de entrega del informe trimestral correspondiente. Asimismo, deberán reportar a la Auditoría el ejercicio de los recursos públicos aportados a dichos fideicomisos para efectos de la Cuenta Pública.
-
-Al extinguir los fideicomisos que se constituyan en los términos de este artículo, los recursos públicos remanentes deberán enterarse a las respectivas tesorerías o sus equivalentes, salvo que se haya acordado un destino diferente en el contrato respectivo.
-
-###### Artículo 13.
-
-Los ejecutores de gasto estarán facultados para realizar los trámites presupuestarios y, en su caso, emitir las autorizaciones correspondientes en los términos de esta Ley, mediante la utilización de documentos impresos con la correspondiente firma autógrafa del servidor público competente, o bien, a través de equipos y sistemas electrónicos autorizados por la Secretaría, para lo cual, en sustitución de la firma autógrafa, se emplearán medios de identificación electrónica.
-
-La Secretaría establecerá las disposiciones generales para la utilización de los equipos y sistemas electrónicos a los que se refiere este artículo, las cuales deberán comprender, como mínimo, lo siguiente:
-
-I. Los trámites presupuestarios que podrán llevarse a cabo y las autorizaciones correspondientes que podrán emitirse;
-
-II. Las especificaciones de los equipos y sistemas electrónicos y las unidades administrativas que estarán facultadas para autorizar su uso;
-
-III. Los requisitos y obligaciones que deberán cumplir los servidores públicos autorizados para realizar los trámites y, en su caso, para emitir las autorizaciones correspondientes;
-
-IV. Los medios de identificación electrónica que hagan constar la validez de los trámites y autorizaciones llevados a cabo por los servidores públicos autorizados, y
-
-V. La forma en que los archivos electrónicos generados deberán conservarse, así como los requisitos para tener acceso a los mismos.
-
-El uso de los medios de identificación electrónica que se establezca conforme a lo previsto en este artículo, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos equivalentes con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio, para lo cual los ejecutores de gasto que opten por la utilización de estos medios, aceptarán en la forma que se prevenga en las disposiciones generales aplicables, las consecuencias y alcance probatorio de los medios de identificación electrónica.
-
-Los ejecutores de gasto, conforme a las disposiciones generales aplicables, serán responsables de llevar un estricto control de los medios de identificación electrónica, así como de cuidar la seguridad y protección de los equipos y sistemas electrónicos y, en su caso, de la confidencialidad de la información en ellos contenida.
-
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, deberán celebrar convenios con la Secretaría para la utilización de los equipos y sistemas electrónicos a que se refiere este artículo.
-
-###### Artículo 14.
-
-La Secretaría operará un sistema de administración financiera federal, el cual tendrá como objetivo reducir los costos de las operaciones de tesorería del Gobierno Federal y agilizar la radicación de los recursos, concentrando la información en la materia que ayude a fortalecer al proceso presupuestario. Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, convendrán con la Secretaría la implantación del sistema en el ámbito de sus respectivas competencias a efecto exclusivamente de presentar periódicamente la información correspondiente.
-
-Los ejecutores de gasto incorporarán al citado sistema la información financiera, conforme a las disposiciones generales que para tal fin emita la Secretaría.
-
-###### Artículo 15.
-
-La Secretaría resolverá las solicitudes sobre autorizaciones en materia presupuestaria que presenten las dependencias y entidades, dentro de los plazos que al efecto se establezcan en las disposiciones generales aplicables. Transcurrido el plazo correspondiente sin que se hubiere emitido respuesta a la solicitud respectiva, ésta se entenderá resuelta en sentido afirmativo en aquellos casos y con los requisitos que expresamente señale el Reglamento.
-
-A petición del interesado, la Secretaría deberá expedir constancia de tal circunstancia dentro de los cinco días hábiles siguientes a la presentación de la solicitud respectiva.
-
-###### Artículo 16.
-
-La Ley de Ingresos y el Presupuesto de Egresos se elaborarán con base en objetivos y parámetros cuantificables de política económica, acompañados de sus correspondientes indicadores del desempeño, los cuales, junto con los criterios generales de política económica y los objetivos, estrategias y metas anuales, en el caso de la Administración Pública Federal, deberán ser congruentes con el Plan Nacional de Desarrollo y los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
-
-I. Las líneas generales de política económica;
-
-II. Los objetivos anuales, estrategias y metas;
-
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
-
-III. Las proyecciones de las finanzas públicas, incluyendo los requerimientos financieros del sector público, con las premisas empleadas para las estimaciones. Las proyecciones abarcarán un periodo de 5 años en adición al ejercicio fiscal en cuestión, las que se revisarán anualmente en los ejercicios subsecuentes;
-
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2014)</small>
-
-IV. Los resultados de las finanzas públicas, incluyendo los requerimientos financieros del sector público, que abarquen un periodo de los 5 últimos años y el ejercicio fiscal en cuestión;
-
-> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
-
-V. La meta anual de los requerimientos financieros del sector público, la cual estará determinada por la capacidad de financiamiento del sector público federal, y
-
-> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
-
-VI. El límite máximo del gasto corriente estructural para el ejercicio fiscal, así como proyecciones de este límite para un periodo de 5 años adicionales.
-
-Los criterios generales de política económica explicarán las medidas de política fiscal que se utilizarán para el logro de los objetivos, las estrategias y metas, así como las acciones que correspondan a otras políticas que impacten directamente en el desempeño de la economía. Asimismo, se deberán exponer los costos fiscales futuros de las iniciativas de ley o decreto relacionadas con las líneas generales de política a que se refiere este artículo, acompañados de propuestas para enfrentarlos.
-
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
-
-En los criterios a que se refiere el párrafo anterior se expondrán también los riesgos más relevantes que enfrentan las finanzas públicas en el corto plazo, acompañados de propuestas de acción para enfrentarlos.
-
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
-
-###### Artículo 17.
-
-Los montos de ingreso previstos en la iniciativa y en la Ley de Ingresos, así como de gasto contenidos en el proyecto y en el Presupuesto de Egresos, y los que se ejerzan en el año fiscal por los ejecutores del gasto, deberán contribuir a alcanzar la meta anual de los requerimientos financieros del sector público.
-
-En caso de que, al cierre del ejercicio fiscal, se observe una desviación respecto a la meta de los requerimientos financieros del sector público mayor al equivalente a un 2 por ciento del gasto neto total aprobado, la Secretaría deberá presentar una justificación de tal desviación en el último informe trimestral del ejercicio.
-
-Asimismo, el gasto neto total propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el año fiscal, deberá contribuir al equilibrio presupuestario. Para efectos de este párrafo, se considerará que el gasto neto contribuye a dicho equilibrio durante el ejercicio, cuando el balance presupuestario permita cumplir con el techo de endeudamiento aprobado en la Ley de Ingresos.
-
-Circunstancialmente, y debido a las condiciones económicas y sociales que priven en el país, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos podrán prever un déficit presupuestario. En estos casos, el Ejecutivo Federal, por conducto de la Secretaría, al comparecer ante el Congreso de la Unión con motivo de la presentación de dichas iniciativas, deberá dar cuenta de los siguientes aspectos:
-
-I. El monto específico de financiamiento necesario para cubrir el déficit presupuestario;
-
-II. Las razones excepcionales que justifican el déficit presupuestario, y
-
-III. El número de ejercicios fiscales y las acciones requeridas para que dicho déficit sea eliminado y se restablezca el equilibrio presupuestario.
-
-El déficit presupuestario deberá eliminarse durante el plazo que se establezca conforme a lo señalado en la fracción III de este artículo.
-
-El Ejecutivo Federal reportará en los informes trimestrales y la Cuenta Pública, el avance de las acciones, hasta en tanto no se recupere el equilibrio presupuestario.
-
-En caso de que el Congreso de la Unión modifique el déficit presupuestario en la Ley de Ingresos, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del déficit a que se refiere este párrafo el Ejecutivo Federal deberá dar cumplimiento a los demás requisitos previstos en este artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-El gasto en inversión de Petróleos Mexicanos y sus empresas productivas subsidiarias no se contabilizará para efectos del equilibrio presupuestario previsto en este artículo. Lo anterior, sin perjuicio de que los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público. Asimismo, el balance financiero de las empresas productivas del Estado deberá contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA II, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO NOVENO PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-El gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal, no podrá ser mayor al límite máximo del gasto corriente estructural. Para efectos de lo establecido en este párrafo, el gasto de las empresas productivas del Estado y sus empresas productivas subsidiarias no se contabilizará dentro del gasto corriente estructural que se utilice como base para el cálculo de dicho límite máximo, aquél que se incluya en el proyecto de Presupuesto de Egresos, así como el que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal.
-
-Excepcionalmente, y debido a condiciones económicas y sociales que priven en el país, se podrá rebasar el límite máximo del gasto corriente estructural. En estos casos, el Ejecutivo Federal, por conducto de la Secretaría, al comparecer ante el Congreso de la Unión con motivo de la presentación de las iniciativas de Ley de Ingresos y de Presupuesto de Egresos, para efectos de su aprobación, deberá dar cuenta de las razones excepcionales que lo justifican, así como las acciones y el número de ejercicios fiscales que sean necesarios para mantener una trayectoria de crecimiento del gasto corriente estructural acorde con el crecimiento del Producto Interno Bruto Potencial.
-
-Los Poderes Legislativo y Judicial y los entes autónomos, en la programación y presupuestación de sus respectivos proyectos, así como en la ejecución de sus presupuestos aprobados deberán cumplir con el límite máximo del gasto corriente estructural.
-
-###### Artículo 18.
-
-A toda propuesta de aumento o creación de gasto del proyecto de Presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso distinta al financiamiento o compensarse con reducciones en otras previsiones de gasto.
-
-Sin perjuicio de lo dispuesto en el artículo 54, no procederá pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior; en este último caso primero se tendrá que aprobar la fuente de ingresos adicional para cubrir los nuevos gastos, en los términos del párrafo anterior.
-
-Las comisiones correspondientes del Congreso de la Unión, al elaborar los dictámenes respectivos, realizarán una valoración del impacto presupuestario de las iniciativas de ley o decreto, con el apoyo del Centro de Estudios de las Finanzas Públicas de la Cámara de Diputados, y podrán solicitar opinión a la Secretaría sobre el proyecto de dictamen correspondiente.
-
-El Ejecutivo Federal realizará una evaluación del impacto presupuestario de las iniciativas de ley o decreto que presente a la consideración del Congreso de la Unión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+ARTICULO 18 BIS.- Queda prohibido a los proveedores y a las empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios y a sus clientes, utilizar la información relativa a los consumidores con fines diferentes a los mercadotécnicos o publicitarios, así como enviar publicidad a los consumidores que expresamente les hubieren manifestado su voluntad de no recibirla o que estén inscritos en el registro a que se refiere el artículo anterior. Los proveedores que sean objeto de publicidad son corresponsables del manejo de la información de consumidores cuando dicha publicidad la envíen a través de terceros.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1372.- MEDIANTE EL CUAL SE MODIFICAN, REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 23 BIS A, INCISO C PÁRRAFO 32 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE MEDIACIÓN DEL ESTADO DE OAXACA”.]
 
