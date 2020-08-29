@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2020-07-25"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -137,9 +137,11 @@ XX. Vía Pública: Todo espacio de dominio público y de uso común destinado al
 
 Todo conductor, pasajero o peatón está obligado a obedecer las disposiciones contenidas en esta Ley y su Reglamento, los dispositivos para el control de la vialidad de personas y vehículos, así como, las indicaciones de los Policías Viales Estatales.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 5.
 
-Es de utilidad pública y beneficio general, el establecimiento, uso y conservación de la vialidad, en términos de esta Ley y demás disposiciones jurídicas y administrativas aplicables.
+Es de utilidad pública y beneficio general, el establecimiento, uso y conservación de la vialidad, de las áreas susceptibles de tránsito vehicular y peatonal, la señalización vial y nomenclatura y en general la utilización de los servicios, la infraestructura y los demás elementos inherentes o incorporados a la vialidad en el Estado, en términos de esta Ley y demás disposiciones jurídicas y administrativas aplicables.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -369,7 +371,19 @@ II. Disponer lo necesario para la debida observancia y aplicación de la present
 
 III. Establecer mecanismos y acciones que involucren a los particulares en la creación de una cultura que facilite a las personas con discapacidad el acceso a todo tipo de negocios comerciales, y transporte y zonas peatonales, evitando los obstáculos y todo tipo de barreras arquitectónicas de conformidad a la Norma Oficial Mexicana respectiva.
 
-IV. Las demás que le otorguen la presente Ley y el Reglamento respectivo que al efecto expida.
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+IV. Mantener la vialidad libre de obstáculos u objetos que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+V. Colocar, mantener y preservar en estado óptimo de utilización, la nomenclatura de la vialidad de sus demarcaciones territoriales;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+VI. Instrumentar los programas y acciones necesarias con especial referencia a la población infantil escolar, personas con discapacidad, de la tercera edad, y mujeres en periodo de gestación, que les faciliten el transporte y libre desplazamiento en las vialidades, coordinando la instalación de la infraestructura y señalamientos que se requieran para cumplir con dicho fin; y
+
+VII. Las demás que le otorguen la presente Ley y el Reglamento respectivo que al efecto expida.
 
 ###### Artículo 20.
 
@@ -973,7 +987,9 @@ En todos los operativos, se protegerán los datos personales de conformidad con 
 
 Si con motivo de la detención, arrastre o encierro del vehículo este sufriera robo, daños parciales o destrucción total por incendio o cualquier otra causa, las autoridades o las empresas concesionarias que hayan tomado parte, tendrán la obligación de reparar los daños o responder por el robo, siempre y cuando se compruebe de acuerdo a la relación pormenorizada de las pertenencias del conductor, o en su caso, se compruebe la propiedad del vehículo siniestrado.
 
-La Dirección General de la Policía Vial Estatal deberán (sic) establecer los procedimientos para constatar, registrar y garantizar es (sic) estado que guarda el vehículo y las pertenencias, accesorios o bienes con que cuente al momento del encierro, arrastre o detención.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+La Dirección General de la Policía Vial Estatal deberá establecer los procedimientos para garantizar el estado que guarda el vehículo y las pertenencias, accesorios o bienes con que cuente al momento del encierro, arrastre o detención.
 
 ### CAPÍTULO XIII. DE LA CULTURA Y EDUCACIÓN VIAL
 
@@ -1230,3 +1246,11 @@ P.O. 25 DE JULIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado de Oaxaca, contará con noventa días hábiles contados a partir de la publicación del presente Decreto, para establecer en el Reglamento de la Ley de Tránsito y Vialidad del Estado de Oaxaca, la normatividad que regule la aplicación de las reformas contenidas en el presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1525.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 5 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 88; Y SE ADICIONAN LAS FRACCIONES IV, V Y VI AL ARTÍCULO 19, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
