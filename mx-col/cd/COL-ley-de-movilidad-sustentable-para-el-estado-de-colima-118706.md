@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2019-11-02"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -1973,9 +1973,15 @@ X. No consumir bebidas embriagantes o cualquier tipo de droga, enervantes o sust
 
 XI. Abstenerse de abastecer combustible con pasajeros a bordo;
 
-XII. Permitir a los servidores públicos de la Secretaría o de autoridad administrativa competente, la revisión o auxilio, cuando ésta sea requerida por causas de interés público; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-XIII. Las demás que señale la presente Ley y su Reglamento respectivo.
+XII. Permitir a los servidores públicos de la Secretaría o de autoridad administrativa competente, la revisión o auxilio, cuando ésta sea requerida por causas de interés público;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+XIII. Cumplir de forma puntual con los protocolos establecidos en materia de salud por autoridad competente, a causa de brotes epidemiológicos o por motivos de salubridad general, así como las determinaciones administrativas aplicables; y
+
+XIV. Las demás que señale la presente Ley y su Reglamento respectivo.
 
 ###### Artículo 86.
 
@@ -2029,11 +2035,15 @@ XXII. Vigilar que el operador de la unidad preste el servicio con cortesía, ama
 
 XXIII. Respetar las tarifas, horarios, rutas e itinerarios autorizados, así como circular por las vialidades señaladas por la autoridad;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-XXIV. Tratándose del transporte colectivo urbano, suburbano y foráneo, deberán destinarse para personas con discapacidad y adultos mayores cuando menos dos asientos por cada diez que tenga el vehículo, debiendo estar éstos situados cercanos a la puerta de acceso, los cuales deberán contener un emblema o leyenda para su identificación; preferentemente las mujeres en periodo de gestación tendrán derecho a utilizar cualquier asiento; y
+XXIV. Tratándose del transporte colectivo urbano, suburbano y foráneo, deberán destinarse para personas con discapacidad y adultos mayores cuando menos dos asientos por cada diez que tenga el vehículo, debiendo estar éstos situados cercanos a la puerta de acceso, los cuales deberán contener un emblema o leyenda para su identificación; preferentemente las mujeres en periodo de gestación tendrán derecho a utilizar cualquier asiento;
 
-XXV. Las demás que señalen esta Ley, sus reglamentos, la concesión o el permiso y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+XXV. Cumplir de forma puntual con los protocolos establecidos en materia de salud por autoridad competente, a causa de brotes epidemiológicos o por motivos de salubridad general, así como las determinaciones administrativas aplicables; y
+
+XXVI. Las demás que señalen esta Ley, sus reglamentos, la concesión o el permiso y demás disposiciones legales aplicables.
 
 ###### Artículo 87.
 
@@ -6190,3 +6200,11 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA (SIC) DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 306.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado deberá adecuar las disposiciones reglamentarias correspondientes en un término no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
