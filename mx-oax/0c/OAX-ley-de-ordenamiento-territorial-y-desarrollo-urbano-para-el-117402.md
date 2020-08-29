@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2020-07-25"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -899,9 +899,9 @@ e) Programa de acciones urbanas y estrategias de inversión, especificando su ub
 
 f) Unidades de gestión ambiental en las zonas no urbanas que señale el Programa;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
-g) Derechos y obligaciones derivados del programa, indicando los plazos para que los afectados interpongan el recurso de revisión previsto en la Ley de Justicia Administrativa para el Estado de Oaxaca, y
+g) Derechos y obligaciones derivados del programa, indicando los plazos para que los afectados interpongan el recurso de revisión previsto en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -2999,11 +2999,13 @@ La estructura interna de la Comisión de Admisión de Directores Responsables de
 
 Las autoridades municipales y la Secretaría, en el ámbito de sus respectivas competencias, tendrán a su cargo la vigilancia y el cumplimiento de las disposiciones contenidas en esta Ley, el Reglamento y las contenidas en los programas de ordenamiento territorial y desarrollo urbano y normas oficiales mexicanas.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 207.
 
-La vigilancia a que se refiere el párrafo anterior se desarrollará conforme a las visitas de verificación y demás procedimientos administrativos previstos en la Ley de Justicia Administrativa para el Estado de Oaxaca.
+La vigilancia a que se refiere el párrafo anterior se desarrollará conforme a las visitas de verificación y demás procedimientos administrativos previstos en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 Los actos administrativos y los procedimientos que emanen de esta Ley se desarrollarán conforme a las formalidades establecidas en la Ley mencionada en el párrafo anterior.
 
@@ -3243,17 +3245,17 @@ Quienes propicien o permitan la ocupación irregular de áreas y predios en los 
 
 ### CAPÍTULO QUINTO. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 228.
 
-Los actos que se realicen para la ejecución de lo dispuesto por la presente Ley, su Reglamento, los Programas de ordenamiento territorial y de desarrollo urbano, podrán ser impugnados por los particulares cuando se afecte su interés jurídico, mediante el recurso de revisión o promover lo que a sus derechos convenga en la vía judicial administrativa correspondiente, en términos de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Los actos que se realicen para la ejecución de lo dispuesto por la presente Ley, su Reglamento, los Programas de ordenamiento territorial y de desarrollo urbano, podrán ser impugnados por los particulares cuando se afecte su interés jurídico, mediante el recurso de revisión o promover lo que a sus derechos convenga en la vía judicial administrativa correspondiente, en términos de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
 ###### ARTÍCULO 229.
 
-En todo lo no previsto en la presente Ley y sus reglamentos, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado de Oaxaca y el Código de Procedimientos Civiles del Estado de Oaxaca.
+En todo lo no previsto en la presente Ley y sus reglamentos, se aplicará supletoriamente la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca y el Código de Procedimientos Civiles del Estado de Oaxaca.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -3346,3 +3348,11 @@ P.O. 25 DE JULIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, dispondrá de 180 días para realizar las adecuaciones al Reglamento correspondiente y al Manual de Funcionamiento de la Comisión de Admisión de Directores Responsables de Obra, de conformidad al artículo 205 de la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1568.- MEDIANTE EL CUAL REFORMAN EL INCISO G) DE LA FRACCIÓN IV DEL ARTÍCULO 25, EL PRIMER PÁRRAFO DEL ARTÍCULO 207, EL ARTÍCULO 228 Y EL ARTÍCULO 229 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
