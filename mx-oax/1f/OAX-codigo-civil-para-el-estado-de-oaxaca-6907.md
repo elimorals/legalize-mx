@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-02-15"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1299,6 +1299,8 @@ En el caso de la fracción VI del artículo anterior, una vez aprobada la aclara
 
 ### CAPITULO II. De los derechos y obligaciones que nacen del matrimonio
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 143.
 
 El matrimonio es un contrato civil celebrado entre dos personas, que se unen para realizar una vida en común y proporcionarse respeto, igualdad y ayuda mutua.
@@ -1457,7 +1459,7 @@ Disposiciones Generales
 
 ###### Artículo 161.
 
-Los cónyuges están obligados a guardarse fidelidad, a contribuir cada uno por su parte a los fines del matrimonio y a ayudarse mutuamente.
+Los cónyuges están obligados a respetarse de forma recíproca en su dignidad, a contribuir cada uno por su parte a los fines del matrimonio y a ayudarse mutuamente.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
@@ -3407,7 +3409,9 @@ II. Por los abuelos que a juicio del Juez representen el mayor interés de los m
 
 Si el padre y la madre se separan o viven separados decidirán, de común acuerdo, quien atenderá la guarda y la custodia de los hijos.
 
-En caso de desacuerdo, el Juez, con base en el interés superior de la niñez, a la opinión del Ministerio Público y al resultado de las pruebas periciales que oficiosamente habrán de practicárseles a ambos progenitores en materia de trabajo social y de psicología familiar así como las demás que se estimen pertinentes, resolverá lo conducente a la designación de la persona que deba tener la guarda y la custodia del menor, teniendo como objetivo primordial, el cuidar, educar y respetar al niño, niña o adolescente, sin infringir actos de fuerza que atenten contra su integridad física o psíquica.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
+
+En caso de desacuerdo, o de advertirlo necesario, el Juez, con base en el interés superior de la niñez, a la opinión del Ministerio Público, y al resultado de las pruebas periciales en materia de trabajo social y de psicología familiar que oficiosamente habrán de practicárseles a los progenitores, a sus parejas con las que éstos cohabiten y de la (sic) demás pruebas que estimen pertinentes, resolverá lo conducente a la designación de la persona que deba tener la guarda y la custodia del menor, teniendo como objetivo primordial, el cuidar, educar y respetar al niño, niña o adolescente, sin infringir actos de fuerza que atenten contra su integridad física o psíquica.
 
 Los hijos habitarán con el ascendiente al que se encargue la custodia. Por lo que el otro progenitor estará obligado a colaborar en su alimentación y conservará los derechos de visita y convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
 
@@ -16828,3 +16832,19 @@ P.O. 15 DE FEBRERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
 
 SEGUNDO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1532.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 161 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1533.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 429 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
