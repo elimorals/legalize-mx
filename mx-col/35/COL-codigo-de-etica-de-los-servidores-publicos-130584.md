@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-etica-de-los-servidores-publicos-130584"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-22"
-last_updated: "2018-09-22"
+last_updated: "2020-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020 (ABROGADO).
 
 Código publicado en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 22 de septiembre de 2018.
 
@@ -196,3 +198,25 @@ LUIS ALBERTO VUELVAS PRECIADO
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS, LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y LOS LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS A TRAVÉS DE LOS COMITÉS DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Acuerdo por el que se expiden el Código de Ética, las Reglas de Integridad, y los Lineamientos Generales para los Servidores Públicos de la Administración Pública del Estado de Colima, publicado en el Periódico Oficial "El Estado de Colima", el día 22 de septiembre de 2018.
+
+TERCERO. Los Comités de Ética y de Prevención de Conflictos de Interés continuarán en funcionamiento, debiendo observar lo dispuesto por el presente Acuerdo y actualizarán dentro de los 90 días sus Códigos de Conducta acorde a las presentes modificaciones, una vez que entre en vigor.
+
+CUARTO. La Contraloría General, las Dependencias y Entidades llevarán a cabo las acciones que permitan la implementación del presente Acuerdo.
+
+QUINTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Acuerdo se resolverán de conformidad a las disposiciones vigentes al momento de su inicio.
+
+SEXTO. La Contraloría General del Estado interpretará para efectos administrativos el presente Acuerdo, y resolverá los casos no previstos en el mismo.
+
+SÉPTIMO. La Contraloría General del Estado, y los órganos internos de control de las entidades, vigilarán la observancia del presente Acuerdo.
+
+OCTAVO. Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Decreto.
