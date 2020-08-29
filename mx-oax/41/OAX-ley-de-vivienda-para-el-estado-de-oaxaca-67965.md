@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2019-04-13"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -51,7 +51,9 @@ II. La regulación de las acciones de los sectores público, privado y social pa
 
 III. El fomento a la participación de los sectores social y privado para la producción de vivienda en todas sus modalidades;
 
-IV. El establecimiento de mecanismos para impulsar la constitución de reservas territoriales para fines habitacionales en los términos de la Ley de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DEL 2020)</small>
+
+IV. El establecimiento de mecanismos para impulsar la constitución de reservas territoriales para fines habitacionales en los términos de la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca;
 
 V. El establecimiento de programas y acciones de vivienda de interés social y popular a la población urbana y rural de bajos ingresos;
 
@@ -199,7 +201,9 @@ VIII. En general, coordinar aquellas acciones que tengan por objeto modernizar y
 
 IX. Proveer al cumplimiento de las disposiciones de esta Ley, expidiendo los reglamentos u ordenamientos administrativos en todos los aspectos que no estén encomendados expresamente a los Ayuntamientos; y
 
-X. Las demás, que en el rubro de vivienda le asigne la Constitución Política del Estado, la Ley de Desarrollo Urbano y esta Ley.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DEL 2020)</small>
+
+X. Las demás, que en el rubro de vivienda le asigne la Constitución Política del Estado, la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y esta Ley.
 
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -399,7 +403,9 @@ Por los siguientes vocales
 
 1. Por el Estado:
 
-I. Un representante del Poder Legislativo del Estado, designado por el Pleno de la Legislatura, entre los integrantes de la Comisión Permanente de Comunicaciones, Obras Públicas y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DEL 2020)</small>
+
+I. Un representante del Poder Legislativo del Estado, designado por el Pleno de la Legislatura, entre los integrantes de la Comisión Permanente de Infraestructuras, Desarrollo Urbano y Ordenamiento Territorial;
 
 II. El Secretario General de Gobierno;
 
@@ -415,7 +421,9 @@ VI. El Secretario de Asuntos Indígenas;
 
 VII. El Coordinador General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
-VIII. El Director del Registro Público de la Propiedad del Estado;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DEL 2020)</small>
+
+VIII. El Director General del Instituto de la Función Registral del Estado de Oaxaca;
 
 IX. El Director General de Catastro;
 
@@ -851,9 +859,11 @@ Las acciones para la producción y el mejoramiento de vivienda, que lleven a cab
 
 Las acciones habitacionales que se realicen en el Estado y los municipios, deberán ser congruentes con las necesidades de cada centro de población y con los planes y programas que regulen el uso y el aprovechamiento del suelo, a fin de garantizar un desarrollo urbano ordenado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DEL 2020)</small>
+
 ###### Artículo 52.
 
-Los fraccionamientos, conjuntos o unidades habitacionales, así como la construcción de vivienda en todos sus tipos y modalidades, deberán evitar riesgos y contingencias a la población y a sus moradores, para lo cual deberán atender al atlas de riesgos a que se refiere la Ley de Protección Civil para el Estado de Oaxaca, y no podrán autorizarse en los siguientes casos:
+Los fraccionamientos, conjuntos o unidades habitacionales, así como la construcción de vivienda en todos sus tipos y modalidades, deberán evitar riesgos y contingencias a la población y sus moradores, para lo cual deberán atender al atlas de riesgos a que se refiere la Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca, y no podrán autorizarse en los siguientes casos:
 
 I. Los ubicados en áreas con peligro de desbordamiento de ríos;
 
@@ -879,9 +889,11 @@ XI. Los que tengan posibilidad o peligro de inestabilidad o deslizamiento del su
 
 XII. Los ubicados en las laderas de un volcán.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DEL 2020)</small>
+
 ###### Artículo 53.
 
-Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Oaxaca y sus Municipios, deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno establezca la Comisión, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en la Ley de Desarrollo Urbano para el Estado de Oaxaca y demás disposiciones aplicables.
+Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Oaxaca y sus Municipios, deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno establezca la Comisión, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y demás disposiciones aplicables.
 
 ###### Artículo 54.
 
@@ -897,9 +909,9 @@ III. Conjuntos habitacionales.
 
 Con la finalidad de promover una adecuada convivencia social, la administración y el mantenimiento de conjuntos habitacionales de vivienda multifamiliar, quedará a cargo o dirección de los usuarios, conforme a la Ley de Condominio del Estado de Oaxaca y demás disposiciones aplicables.
 
-###### Artículo 56.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DEL 2020)</small>
 
-Para autorizar la construcción de vivienda que implique la lotificación o fraccionamiento de terrenos, se observará lo dispuesto en la Ley de Desarrollo Urbano para el Estado Oaxaca y el Reglamento de Fraccionamientos para el Estado de Oaxaca.
+Artículo. 56. Para autorizar la construcción de vivienda que implique la lotificación o fraccionamiento de terrenos, se observará lo dispuesto en la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y el Reglamento de Fraccionamientos para el Estado de Oaxaca.
 
 ## TÍTULO SEXTO. DE LA PRODUCCIÓN SOCIAL DE LA VIVIENDA
 
@@ -1097,11 +1109,15 @@ II. Contravenga con su conducta las disposiciones de la presente Ley, y
 
 III. Utilice y/o obtenga provecho de los programas para fines políticos o electorales.
 
-Los servidores públicos que intervengan en los programas habitacionales y valiéndose indebidamente de su posición beneficien o favorezcan a terceros en los procesos de producción o adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, se harán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, sin perjuicio de las sanciones penales que en su caso, se configuren.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DEL 2020)</small>
+
+Los servidores públicos que intervengan en los programas habitacionales y valiéndose indebidamente de su posición beneficien o favorezcan a terceros en los procesos de producción o adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, se harán acreedores a las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, sin perjuicio de las sanciones penales que en su caso, se configuren.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DEL 2020)</small>
 
 ###### Artículo 80.
 
-Los particulares inconformes con las resoluciones administrativas que se dicten con fundamento en esta Ley, dispondrá de los medios de impugnación que se prevén en la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Los particulares inconformes con las resoluciones administrativas que se dicten con fundamento en esta Ley, dispondrá (sic) de los medios de impugnación que se prevén en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 Toda persona tendrá derecho al acceso a la información pública en todo lo previsto por esta Ley, en los términos de la Ley de Transparencia y Acceso a la información Pública para el Estado de Oaxaca.
 
@@ -1194,3 +1210,11 @@ P.O. 13 DE ABRIL DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DEL 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1566.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 1, LA FRACCIÓN X DEL ARTÍCULO 6, LAS FRACCIONES I Y VIII DEL NUMERAL 1 DEL TERCER PÁRRAFO DEL ARTÍCULO 16, EL ARTÍCULO 52, EL ARTÍCULO 53, EL ARTÍCULO 56, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 79 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 80 DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
