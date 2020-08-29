@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-08-08"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3895,11 +3895,11 @@ ARTICULO 127 BIS. El Estado garantizará el desarrollo integral de las regiones 
 
 Los trabajadores al servicio de los Poderes del Estado y sus Ayuntamientos, tendrán derecho de asociarse para la defensa de sus intereses comunes en los términos de las leyes debidamente promulgadas para regular sus relaciones de trabajo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 153], P.O. 08 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 129.
 
-En el Estado, la vagancia se considera como un delito; en consecuencia, todos sus habitantes están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
+Todos los habitantes en el Estado están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
@@ -5622,5 +5622,13 @@ P.O. 8 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1479.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1543.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
