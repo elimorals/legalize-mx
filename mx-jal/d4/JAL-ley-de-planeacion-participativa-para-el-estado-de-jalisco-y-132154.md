@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-participativa-para-el-estado-de-jalisco-y-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-20"
-last_updated: "2018-12-20"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACIÓN PARTICIPATIVA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 20 de diciembre de 2018.
 
@@ -175,7 +175,9 @@ XV. Sustentabilidad ambiental: los instrumentos de planeación deberán consider
 
 XVI. Transparencia: como disponibilidad y libre acceso de la información producida durante el proceso integral de planeación y su aplicación, de conformidad con la legislación aplicable; y
 
-XVII. Desarrollo prioritario de los pueblos y comunidades indígenas, así como grupos vulnerables: como línea de acción estratégica que promueva la participación activa en la planeación para un desarrollo integral, con enfoque de derechos y pleno respeto a su identidad, cultura, formas de organización y vulnerabilidad social.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+
+XVII. Desarrollo prioritario de los pueblos y comunidades indígenas, comunidades afromexicanas, cualquiera que sea su autodenominación, así como grupos vulnerables: como línea de acción estratégica que promueva la participación activa en la planeación para un desarrollo integral, con enfoque de derechos y pleno respeto a su identidad, cultura, formas de organización y vulnerabilidad social; y
 
 XVIII. Rendición de Cuentas: Estrategia mediante la cual los ciudadanos a través de la Secretaría de Planeación y Participación Ciudadana vigilan, evalúan y exigen el actuar responsable de los servidores públicos que integran los poderes Ejecutivo, Legislativo y Judicial, los municipios y los organismos autónomos estatales.
 
@@ -1066,3 +1068,11 @@ El Secretario General de Gobierno
 JUAN ENRIQUE IBARRA PEDROZA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27925/LXII/20 QUE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 4° DE LA LEY DE PLANEACIÓN PARTICIPATIVA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Único. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
