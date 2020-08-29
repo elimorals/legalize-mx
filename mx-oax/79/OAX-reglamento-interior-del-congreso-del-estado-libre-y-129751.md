@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-05-30"
+last_updated: "2020-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -1309,17 +1309,23 @@ III. En caso de solicitud de comparecencias de los titulares de las dependencias
 
 El dictamen es un acto legislativo colegiado a través del cual, una o más comisiones facultadas presentan una opinión técnica calificada por escrito, para aprobar o desechar los siguientes asuntos:
 
-I. Proyectos de Ley o Decretos;
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-II. Observaciones hechas por el Titulardel (sic) Poder Ejecutivo a proyectos de ley o decreto;
+I. Minutas Federales;
 
-III. Cuenta Pública;
+II. Proyectos de Ley o Decretos;
 
-IV. Proposiciones con punto de acuerdo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-V. Ratificaciones de servidores públicos o nombramientos de integrantes de órganos constitucionales autónomos, y;
+III. Observaciones hechas por el Titular del Poder Ejecutivo a proyectos de ley o decreto,
 
-VI. Solicitudes de permiso en términos de lo dispuesto por el artículo 81 de la Constitución Local.
+IV. Cuenta Pública;
+
+V. Proposiciones con punto de acuerdo;
+
+VI. Ratificaciones de servidores públicos o nombramientos de integrantes de órganos constitucionales autónomos, y;
+
+VII. Solicitudes de permiso en términos de lo dispuesto por el artículo 81 de la Constitución Local.
 
 ###### ARTÍCULO 65.
 
@@ -2848,3 +2854,11 @@ P.O. 30 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1512.- MEDIANTE EL CUAL SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 9 y UN TERCER PÁRRAFO AL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26, LA FRACCIÓN XIII DEL ARTÍCULO 69 y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN SEGUNDA DEL ARTÍCULO 27 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 183 RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca, y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1575.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN I Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 64 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
