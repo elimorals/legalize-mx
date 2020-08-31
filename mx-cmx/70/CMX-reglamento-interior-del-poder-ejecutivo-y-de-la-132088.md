@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2020-07-31"
+last_updated: "2020-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 2020.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -168,13 +168,15 @@ D) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
 
 7. Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad;
 
-E) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], G.O. 31 DE AGOSTO DE 2020)</small>
 
-1. Dirección General de Enlace Institucional con los Gobiernos de los Estados;
+E) Dirección General de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
 
-2. Dirección General de Planeación y Seguimiento; y
+1. Dirección Ejecutiva de Enlace Institucional con los Gobiernos de los Estados;
 
-3. Dirección General de Asuntos Agrarios;
+2. Dirección Ejecutiva de Planeación y Seguimiento; y
+
+3. Dirección Ejecutiva de Asuntos Agrarios;
 
 F) La Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, a la que queda adscrita:
 
@@ -482,11 +484,13 @@ V. A la Secretaría de Desarrollo Económico:
 
 A) Dirección Ejecutiva Jurídica y Normativa
 
-B) Subsecretaría de Desarrollo Económico, a la que quedan adscritas:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], G.O. 31 DE AGOSTO DE 2020)</small>
 
-1.- Dirección General de Apertura de Negocios y Desarrollo Empresarial; y
+B) Dirección General de Desarrollo Económico, a la que quedan adscritas:
 
-2.- Dirección General de Planeación y Seguimiento de la Economía;
+1. Dirección Ejecutiva de Apertura de Negocios y Desarrollo Empresarial; y
+
+2. Dirección Ejecutiva de Planeación y Seguimiento de la Economía;
 
 C) Dirección General de Abasto, Comercio y Distribución;
 
@@ -566,35 +570,31 @@ IX. A la Secretaría de Inclusión y Bienestar Social:
 
 A) Dirección Ejecutiva de Asuntos Estratégicos;
 
-B) Subsecretaría de Derechos Humanos, a la que quedan adscritas:
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
-1. Dirección Ejecutiva de Igualdad y Diversidad; y
+B) Dirección General de Derechos Humanos;
 
-2. Dirección Ejecutiva de Promoción y Formación;
+1. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-(REFORMADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
+2. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-C) Coordinación General de Inclusión y Bienestar Social, a la que quedan adscritas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE AGOSTO DE 2020)</small>
 
-(ADICIONADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
+C) Dirección General de Inclusión Social, a la que quedan adscritas:
 
-1. Dirección General de Instituto para el Envejecimiento Digno; y
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
-(ADICIONADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
+1. Dirección Ejecutiva del Instituto de Atención a Poblaciones Prioritarias; y
 
-2. Dirección General del Instituto de Atención a Poblaciones Prioritarias;
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
+2. Dirección Ejecutiva de Mejoramiento Barrial y Comunitario;
 
-3. Dirección General de Acción Barrial y Comunitaria; a la que a su vez quedan adscritas:
+3. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
+3.1. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-3.1 Dirección Ejecutiva de Facilitadores Comunitarios; y
-
-> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
-
-3.2 Dirección Ejecutiva de Mejoramiento Barrial y Comunitario;
+3.2 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 (REFORMADO [N. DE E. REUBICADO], G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
@@ -613,6 +613,14 @@ G) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 H) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
 I) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
+
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+J) Dirección Ejecutiva del Instituto para el Envejecimiento Digno; y
+
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+K) Dirección Ejecutiva de Operación y Desarrollo Institucional.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
 
@@ -696,13 +704,21 @@ Asimismo, se le adscribe el Órgano Desconcentrado denominado Órgano Regulador 
 
 XII. A la Secretaría de las Mujeres:
 
-A) Coordinación General de Igualdad y Atención a la Violencia de Género;
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
-B) Dirección General para una Vida Libre de Violencia;
+A) Dirección General de Igualdad y Atención a la Violencia de Género;
 
-C) Dirección General de Igualdad Sustantiva;
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
-D) Dirección General para el Acceso a la Justicia y Espacios de Refugio.
+B) Dirección Ejecutiva para una Vida Libre de Violencia;
+
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+C) Dirección Ejecutiva de Igualdad Sustantiva; y
+
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+D) Dirección Ejecutiva para el Acceso a la Justicia y Espacios de Refugio.
 
 XIII. A la Secretaría de Obras y Servicios:
 
@@ -1188,41 +1204,7 @@ XXXVI. Comunicar de manera oportuna al juez de ejecución el incumplimiento de l
 
 ###### Artículo 25.
 
-La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental tendrá las siguientes atribuciones:
-
-I. Acordar con la persona titular de la Secretaría de Gobierno, o en su caso con la persona titular de la Jefatura de Gobierno, el despacho de los asuntos que guarden relación con las Alcaldías, con los Gobiernos de las Entidades Federativas y sus poderes legislativos, los Municipios que colindan con la Ciudad de México, y el Congreso de la Ciudad en los asuntos que correspondan a su ámbito de competencia;
-
-II. Acordar con persona titular de la Secretaría de Gobierno, el despacho de los asuntos en materia de coordinación y planeación metropolitana, en lo referente a las comisiones metropolitanas y a los diversos mecanismos de coordinación con gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad de México, asimismo, colaborar en la organización de reuniones de la persona Titular de la Jefatura de Gobierno con las personas titulares de los gobiernos antes referidos;
-
-III. Mantener informada a la persona titular de (sic) Secretaría de Gobierno, o en su caso a la persona Titular de la Jefatura de Gobierno, del cumplimiento de los convenios suscritos por ésta última, con gobiernos de las Entidades Federativas que colindan con la Ciudad de México;
-
-IV. Participar en el diseño e instrumentación de la planeación metropolitana; así como participar en la elaboración del Programa General de Desarrollo de la Ciudad de México, de los Programas y planes de las Alcaldías y de todos aquellos que contribuyan al desarrollo integral de la Ciudad de México como Unidad Metropolitana, en coordinación con las Unidades Administrativas competentes de la Administración Pública de la Ciudad de México;
-
-V. Participar en las actividades materia de límites, en términos de lo dispuesto por las disposiciones jurídicas y administrativas aplicables y coadyuvar en los trabajos de amojonamiento y señalización de límites de la Ciudad de México con las Entidades Federativas colindantes;
-
-VI. Representar a la Administración Pública de la Ciudad de México, ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los respectivos convenios de creación;
-
-VII. En coordinación con las personas titulares de las Dependencias respectivas y previa opinión de la persona titular de la Secretaría de Gobierno, proponer a la persona titular de la Jefatura de Gobierno, la suscripción de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas, en las materias de asentamientos humanos, protección al ambiente, preservación y restauración del equilibrio ecológico, transporte y vialidad, agua potable y drenaje, recolección, tratamiento y disposición de desechos sólidos, seguridad pública y procuración de justicia, así como de aquellos otros que contribuyan al desarrollo de la Ciudad de México, con la participación que corresponda a la federación y a los estados y municipios que colindan con la Ciudad de México;
-
-VIII. Promover la difusión de convenios que en materia de coordinación metropolitana suscriba la persona Titular de la Jefatura de Gobierno;
-
-IX. Promover y coordinar las relaciones institucionales de las Alcaldías limítrofes con los municipios de la zona metropolitana;
-
-X. Promover las relaciones de colaboración, y asistir como testigo de calidad en la suscripción de convenios, entre las Alcaldías y los municipios limítrofes, de conformidad con las normas aplicables;
-
-XI. Promover y realizar estudios, y en su caso elaborar proyectos para sustentar técnicamente la coordinación metropolitana, que propicien formas eficientes de coordinación con los distintos órdenes de gobierno que inciden en la Ciudad de México;
-
-XII. Promover la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
-
-XIII. Establecer y coordinar el Sistema de Información y Análisis de la problemática de la Zona Metropolitana del Valle de México;
-
-XIV. Promover la creación de fondos orientados al desarrollo de la Zona Metropolitana del Valle de México;
-
-XV. Apoyar las tareas del consejo de población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
-
-XVI. Instrumentar la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia de la Ciudad de México, así como fomentar y propiciar la coordinación interinstitucional y a la que corresponda en el Consejo Nacional de Población; y
-
-XVII. Las demás que se deriven de otras disposiciones legales aplicables y las que asigne la persona Titular de la Secretaría de Gobierno.
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 ###### Artículo 26.
 
@@ -1498,49 +1480,7 @@ XXXIII. Las demás que le atribuyan expresamente los reglamentos y demás dispos
 
 ###### Artículo 31.
 
-La Subsecretaría de Desarrollo Económico tendrá las siguientes atribuciones:
-
-I. Proponer programas específicos en materia de desarrollo económico de la Ciudad de México, así como coordinar los programas de asistencia técnica y de vinculación institucional;
-
-II. Promover los programas de innovación y desarrollo económico en los sectores o industrias estratégicas de la Ciudad de México;
-
-III. Proponer los mecanismos de coordinación con Dependencias, Alcaldías y Entidades que contribuyan al desarrollo económico de la Ciudad de México;
-
-IV. Realizar convenios de coordinación con el gobierno federal y los gobiernos locales, para promover el establecimiento de negocios y otras actividades que favorezcan el desarrollo económico de la Ciudad de México;
-
-V. Organizar, promover y coordinar la difusión de instrumentos de financiamiento y asesoría técnica a los actores económicos de la Ciudad de México;
-
-VI. Coordinar la operación y gestión para el acceso a fuentes de financiamiento para crear, impulsar y apoyar la actividad empresarial así como, dirigir acciones y mecanismos de orientación para la apertura de negocios en la Ciudad de México;
-
-VII. Generar programas de fomento con el sector empresarial, cooperativas, sector social, instituciones financieras, académicas y otras instancias que fomenten el desarrollo económico de la Ciudad de México;
-
-VIII. Concertar proyectos estratégicos que impacten en el desarrollo económico de la Ciudad;
-
-IX. Promover la celebración de convenios y acciones con la Administración Pública Federal, Local, y entes privados, tanto nacionales como internacionales; con el propósito de fomentar proyectos de desarrollo económico para la Ciudad de México;
-
-X. Coordinar la realización de ferias, exposiciones, talleres y congresos locales, nacionales e internacionales, vinculados a la promoción de actividades industriales, comerciales y económicas en general y aplicar estrategias para su promoción nacional e internacional;
-
-XI. Coordinar mecanismos de apoyo al sector empresarial como apoyos financieros, asesorías y asistencia técnica, entre otras actividades tendientes a fomentar la actividad productiva en la Ciudad de México;
-
-XII. Establecer el marco de la política económica para incentivar las actividades económicas, atraer nuevas inversiones y fomentar la apertura y desarrollo de las empresas en la Ciudad de México, con el propósito de incidir en la generación de empleos formales y de calidad para sus habitantes;
-
-XIII. Impulsar esquemas de vinculación con las cámaras, asociaciones y representaciones del sector empresarial, con la banca de desarrollo, cooperativas, sector social y otras instancias; que incentiven la creación, desarrollo, consolidación, financiamiento, inversión en proyectos productivos y expansión de las pequeñas y medianas empresas, en los sectores, industrias o áreas de desarrollo económico estratégico para la Ciudad de México;
-
-XIV. Promover sinergias de colaboración con instituciones privadas y entidades públicas para acercar los apoyos que se ofrezcan a las pequeñas y medianas empresas establecidas en la Ciudad de México;
-
-XV. Coordinar la generación de contenido e información en materia económica mediante la vinculación permanente con Cámaras, Alcaldías, Dependencias, entre otros;
-
-XVI. Coordinar acciones en materia económica que beneficien de manera directa a los habitantes de la Ciudad de México como resultado de la evaluación de estudios y análisis;
-
-XVII. Coordinar la realización de estudios y análisis económicos de la Ciudad de México, mediante la recopilación de información, revisión de estudios e implementación de espacios de discusión y análisis de políticas públicas;
-
-XVIII. Coordinar estrategias para el seguimiento a los indicadores económicos que impacten a la Ciudad de México, así como formular un programa específico que informe y difunda los resultados obtenidos;
-
-XIX. Proponer acciones en materia económica que beneficien de manera directa a la Ciudadanía;
-
-XX. Opinar sobre el estado que guardan los diferentes rubros de la economía de la Ciudad de México; y
-
-XXI. Las demás que le confieran las leyes y otros ordenamientos.
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 #### SECCIÓN V. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
@@ -1742,19 +1682,7 @@ XI. Las demás que la presente ley, así como otras disposiciones le asignen.
 
 ###### Artículo 35.
 
-La Subsecretaria de Derechos Humanos tendrá las siguientes atribuciones:
-
-I. Promover e impulsar acciones enfocadas a promover, difundir, garantizar, proteger y respetar los derechos económicos, sociales, culturales y ambientales en especial a los grupos de atención prioritaria con la Administración Pública de la Ciudad de México y con la población en general.
-
-II. Participar de forma colaborativa en creación de condiciones de igualdad y no discriminación con las instancias correspondientes en el ámbito de su competencia a efecto de facilitar, garantizar el acceso y pleno disfrute a los derechos económicos, sociales, culturales y ambientales de los habitantes de la Ciudad de México.
-
-III. Diseñar, promover y ejecutar acciones en materia de diversidad sexual que tengan por objetivo impulsar la inclusión y bienestar de todas las personas independientemente de su orientación sexual, expresión e identidad de género en la Administración Pública de la Ciudad de México.
-
-IV. Proporcionar a la Administración Pública de la Ciudad de México acompañamiento y orientación eficaz en materia de derechos económicos, sociales, culturales y ambientales.
-
-V. Coordinar y promover con las diversas instituciones académicas y organizaciones de la sociedad civil el establecimiento de convenios y/o acuerdos que fomenten los derechos económicos, sociales, culturales y ambientales, de las personas LGBTTTI y de la población en general.
-
-VI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 #### SECCIÓN I. JEFATURA DE GOBIERNO
 
@@ -3046,41 +2974,107 @@ XV. Crear un módulo en el Sistema de Información Penitenciaria que permita lle
 
 XVI. Conformar el Archivo de Expedientes de Personas Sentenciadas en Libertad de conformidad a lo establecido en las disposiciones legales de la materia y a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+###### Artículo 64 Bis.
+
+Corresponde a la Dirección General de Coordinación Metropolitana y Enlace Gubernamental:
+
+I. Acordar con la persona Titular de la Secretaría de Gobierno, el despacho de los asuntos que guarden relación con las Alcaldías, los Gobiernos de las Entidades Federativas y sus poderes legislativos, los Municipios que colindan con la Ciudad de México, y el Congreso de la Ciudad en los asuntos que correspondan a su ámbito de competencia;
+
+II. Acordar con la persona Titular de la Secretaría de Gobierno el despacho de los asuntos en materia de coordinación y planeación metropolitana, en lo referente a las comisiones metropolitanas y a los diversos mecanismos de coordinación con gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad, asimismo, colaborar en la organización de reuniones de la persona Titular de la Jefatura de Gobierno con las personas Titulares de los gobiernos antes referidos;
+
+III. Mantener informada a la persona Titular de la Secretaría de Gobierno del cumplimiento de los convenios suscritos por la persona Titular de la Jefatura de Gobierno con gobiernos de las Entidades Federativas que colindan con la Ciudad;
+
+IV. Participar en el diseño e instrumentación de la planeación metropolitana; así como participar en la elaboración del Programa General de Desarrollo de la Ciudad de México, de los Programas y planes de las Alcaldías y de todos aquellos que contribuyan al desarrollo integral de la Ciudad como Unidad Metropolitana, en coordinación con las Unidades Administrativas competentes de la Administración Pública de la Ciudad;
+
+V. Participar en las actividades materia de límites, en términos de lo dispuesto por las disposiciones jurídicas y administrativas aplicables y coadyuvar en los trabajos de amojonamiento y señalización de límites de la Ciudad con las Entidades Federativas colindantes;
+
+VI. Representar, por instrucciones de la persona Titular de la Secretaría de Gobierno, a la Administración Pública de la Ciudad, ante los diversos mecanismos de coordinación metropolitana, en términos de lo dispuesto por los respectivos convenios de creación;
+
+VII. En coordinación con las personas Titulares de las Dependencias respectivas, someter a consideración de la persona titular de la Secretaría de Gobierno la suscripción de convenios por parte de la Jefatura de Gobierno para la constitución, integración y funcionamiento de comisiones metropolitanas, en las materias de asentamientos humanos, protección al ambiente, preservación y restauración del equilibrio ecológico, transporte y vialidad, agua potable y drenaje, recolección, tratamiento y disposición de desechos sólidos, seguridad pública y procuración de justicia; así como de aquellos otros que contribuyan al desarrollo de la Ciudad, con la participación que corresponda a la Federación y a los Estados y Municipios que colindan con la Ciudad;
+
+VIII. Promover la difusión de convenios que, en materia de coordinación metropolitana, suscriba la persona Titular de la Jefatura de Gobierno;
+
+IX. Promover y coordinar las relaciones institucionales de las Alcaldías limítrofes con los Municipios de la zona metropolitana;
+
+X. Promover las relaciones de colaboración, y asistir como testigo de calidad en la suscripción de convenios, entre las Alcaldías y los Municipios limítrofes, de conformidad con las normas aplicables;
+
+XI. Promover y realizar estudios, y en su caso, elaborar proyectos para sustentar técnicamente la coordinación metropolitana que propicien formas eficientes de coordinación con los distintos órdenes de gobierno que inciden en la Ciudad;
+
+XII. Promover la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana;
+
+XIII. Establecer y coordinar el Sistema de Información y Análisis de la problemática de la Zona Metropolitana del Valle de México;
+
+XIV. Promover la creación de fondos orientados al desarrollo de la Zona Metropolitana del Valle de México;
+
+XV. Apoyar las tareas del Consejo de Población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
+
+XVI. Proponer a la persona Titular de la Secretaría de Gobierno, los estudios y proyectos relativos al enlace institucional, con el propósito de priorizar la realización de programas y acciones que permitan mejorar las condiciones de vida de los sectores más desprotegidos;
+
+XVII. Coadyuvar con las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad para establecer vínculos de cooperación con las personas representantes y las autoridades de los gobiernos de los Estados, a solicitud de la persona Titular de la Secretaría de Gobierno;
+
+XVIII. Establecer los enlaces institucionales entre las diferentes autoridades de la Administración Pública de la Ciudad y los organismos empresariales, asociaciones religiosas y organizaciones sociales, para fortalecer las relaciones con la Administración Pública de la Ciudad.
+
+XIX. Coordinarse con las diversas Dependencias y Órganos Desconcentrados, para el seguimiento de los asuntos de su competencia;
+
+XX. Instrumentar la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia de la Ciudad; así como fomentar y propiciar la coordinación interinstitucional y a la que corresponda en el Consejo Nacional de Población; y
+
+XXI. Las demás que se deriven de otras disposiciones legales aplicables y las que asigne la persona Titular de la Secretaría de Gobierno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 65.
 
-Corresponde a la Dirección General de Enlace Institucional con los Gobiernos de los Estados:
+Corresponde a la Dirección Ejecutiva de Enlace Institucional con los Gobiernos de los Estados:
 
-I. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el gobierno federal, los gobiernos estatales, al desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de carácter relevante;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+I. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el Gobierno local en el desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de carácter relevante;
 
 II. Llevar a cabo las acciones necesarias para la debida atención de las personas titulares del Poder Ejecutivo de los estados en sus visitas a la persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-III. Desempeñar las comisiones y funciones que las personas titulares de la Jefatura Gobierno o de la Secretaría de Gobierno le confieran, comunicando el desarrollo y cumplimiento de las mismas;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-IV. Intervenir por acuerdo de las personas titulares de la Jefatura Gobierno o de la Secretaría de Gobierno en las comisiones, congresos, conferencias y exposiciones nacionales e internacionales y participar en los organismos e institutos en que el Gobierno de la Ciudad de México forme parte e intervengan los gobiernos estatales;
+III. Desempeñar las comisiones y funciones que sus superiores jerárquicos le confieran, comunicando el desarrollo y cumplimiento de las mismas;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+IV. Intervenir por acuerdo de las personas Titulares de la Secretaría de Gobierno o de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental en las comisiones, congresos, conferencias y exposiciones nacionales e internacionales y participar en los organismos e institutos en que el Gobierno de la Ciudad forme parte e intervengan los Gobiernos Estatales;
 
 V. Proveer de información y análisis de los acontecimientos más importantes que sucedan en las Entidades Federativas, que tengan repercusión en el ámbito de la Ciudad de México;
 
 VI. Promover a través de la vinculación institucional ante las instancias nacionales e internacionales, los programas y acciones de gobierno de la Ciudad de México para atraer inversiones que coadyuven al desarrollo de las zonas marginadas;
 
-VII. Coadyuvar con las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México para establecer vínculos de cooperación con las personas representantes y las autoridades de los gobiernos de los Estados;
+VII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-VIII. Proponer a la persona Titular del Ejecutivo Estatal de que se trate, los estudios y proyectos relativos al enlace institucional, con el propósito de priorizar la realización de programas y acciones que permitan mejorar las condiciones de vida de los sectores más desprotegidos;
+VIII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-IX. Someter a consideración de la persona Titular de la Secretaría de Gobierno la realización de programas de intercambio y fomento tecnológico y cultural en materia de administración pública con la federación, los Estados y sus representaciones en la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+IX. Proponer la realización de programas de intercambio y fomento tecnológico y cultural en materia de administración pública con la Federación, los Estados y sus representaciones en la Ciudad;
 
 X. Llevar a cabo el seguimiento, análisis, opinión e informes de los diversos asuntos que se tratan en las comisiones de la Conferencia Nacional de Gobernadores; y
 
 XI. Las demás que le atribuyan otras disposiciones legales y administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 66.
 
-Corresponde a la Dirección General de Planeación y Seguimiento:
+Corresponde a la Dirección Ejecutiva de Planeación y Seguimiento:
 
-I. Acordar con la persona titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, el despacho de los asuntos de su ámbito de competencia en materia de planeación y evaluación;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-II. Proponer las líneas generales de planeación y el proyecto de programa de trabajo anual, mismo que se presentará para su aprobación a la persona Titular de la misma;
+I. Acordar con la persona Titular de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental, el despacho de los asuntos de su ámbito de competencia en materia de planeación y evaluación;
 
-III. Participar, dentro del ámbito de competencia de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, en los mecanismos de atención y seguimiento del Programa General de Desarrollo de la Ciudad de México, así como emitir opinión en el ámbito de su competencia, en los programas sectoriales y de las Alcaldías;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+II. Proponer las líneas generales de planeación y el proyecto de programa de trabajo anual de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental, mismo que se presentará para su aprobación a la persona Titular de la Secretaría de Gobierno;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+III. Participar, dentro del ámbito de competencia de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental, en los mecanismos de atención y seguimiento del Programa General de Desarrollo de la Ciudad de México; así como emitir opinión en el ámbito de su competencia, en los programas sectoriales y de las Alcaldías;
 
 IV. Opinar sobre la integración de los programas regionales y metropolitanos, y en aquellos del ámbito de los asuntos agrarios así como de los de regularización de la tenencia de la tierra;
 
@@ -3092,21 +3086,27 @@ VII. Proponer mecanismos de coordinación interinstitucional para atender los as
 
 VIII. Recopilar clasificar y archivar los informes remitidos a los órganos legislativos en materia de asuntos agrarios, regularización territorial, vinculación con las Entidades Federativas y desarrollo regional y metropolitano, a fin de dar un seguimiento puntual al cumplimiento de las obligaciones contraídas con dichos órganos;
 
-IX. Llevar puntual seguimiento respecto del cumplimiento del programa de trabajo de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-X. Establecer los enlaces institucionales entre las diferentes autoridades de la Administración Pública y los organismos empresariales, asociaciones religiosas y organizaciones sociales, para fortalecer las relaciones con la Administración Pública de la Ciudad de México.
+IX. Llevar puntual seguimiento respecto del cumplimiento del programa de trabajo de la Dirección General de Coordinación Metropolitana y Enlace Gubernamental;
 
-XI. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el gobierno federal, al desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de su competencia.
+X. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XII. Coordinarse con las diversas Dependencias y Órganos Desconcentrados, para el seguimiento de los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XI. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar en el desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de su competencia;
+
+XII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
 XIII. Realizar el seguimiento de los proyectos estratégicos, que se requieran con las diferentes Unidades Administrativas de la Dependencia; y
 
 XIV. Las demás que le atribuyan otras disposiciones legales y administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 67.
 
-Corresponde a la Dirección General de Asuntos Agrarios:
+Corresponde a la Dirección Ejecutiva de Asuntos Agrarios:
 
 I. Fungir como una unidad de consulta, coordinación, concertación y ejecución de acciones, para la inmediata atención de asuntos y conflictos en materia agraria, así como la realización de estudios y acciones que permitan la promoción de políticas que fomenten la actividad agraria en la Ciudad de México;
 
@@ -6038,9 +6038,59 @@ XVII. Coordinar sus funciones con la Consejería Jurídica y de Servicios Legale
 
 XVIII. Las demás atribuciones que le confieran otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+###### Artículo 144 Bis.
+
+Corresponde a la Dirección General de Desarrollo Económico:
+
+I. Proponer programas específicos en materia de desarrollo económico de la Ciudad; así como coordinar los programas de asistencia técnica y de vinculación institucional;
+
+II. Promover los programas de innovación y desarrollo económico en los sectores o industrias estratégicas de la Ciudad;
+
+III. Proponer los mecanismos de coordinación con Dependencias, Alcaldías y Entidades que contribuyan al desarrollo económico de la Ciudad;
+
+IV. Realizar convenios de coordinación con el Gobierno Federal y los gobiernos locales, para promover el establecimiento de negocios y otras actividades que favorezcan el desarrollo económico de la Ciudad;
+
+V. Organizar, promover y coordinar la difusión de instrumentos de financiamiento y asesoría técnica a los actores económicos de la Ciudad;
+
+VI. Coordinar la operación y gestión para el acceso a fuentes de financiamiento para crear, impulsar y apoyar la actividad empresarial; así como dirigir acciones y mecanismos de orientación para la apertura de negocios en la Ciudad;
+
+VII. Generar programas de fomento con el sector empresarial, cooperativas, sector social, instituciones financieras, académicas y otras instancias que fomenten el desarrollo económico de la Ciudad;
+
+VIII. Concertar proyectos estratégicos que impacten en el desarrollo económico de la Ciudad;
+
+IX. Promover la celebración de convenios y acciones con la Administración Pública Federal, Local, y entes privados, tanto nacionales como internacionales; con el propósito de fomentar proyectos de desarrollo económico para la Ciudad;
+
+X. Coordinar la realización de ferias, exposiciones, talleres y congresos locales, nacionales e internacionales, vinculados a la promoción de actividades industriales, comerciales y económicas en general y aplicar estrategias para su promoción nacional e internacional;
+
+XI. Coordinar mecanismos de apoyo al sector empresarial como apoyos financieros, asesorías y asistencia técnica, entre otras actividades tendientes a fomentar la actividad productiva en la Ciudad;
+
+XII. Establecer el marco de la política económica para incentivar las actividades económicas, atraer nuevas inversiones y fomentar la apertura y desarrollo de las empresas en la Ciudad, con el propósito de incidir en la generación de empleos formales y de calidad para sus habitantes;
+
+XIII. Impulsar esquemas de vinculación con las cámaras, asociaciones y representaciones del sector empresarial, con la banca de desarrollo, cooperativas, sector social y otras instancias; que incentiven la creación, desarrollo, consolidación, financiamiento, inversión en proyectos productivos y expansión de las pequeñas y medianas empresas, en los sectores, industrias o áreas de desarrollo económico estratégico para la Ciudad;
+
+XIV. Promover sinergias de colaboración con instituciones privadas y entidades públicas para acercar los apoyos que se ofrezcan a las pequeñas y medianas empresas establecidas en la Ciudad;
+
+XV. Coordinar la generación de contenido e información en materia económica mediante la vinculación permanente con Cámaras, Alcaldías, Dependencias, entre otros entes;
+
+XVI. Coordinar acciones en materia económica que beneficien de manera directa a los habitantes de la Ciudad como resultado de la evaluación de estudios y análisis;
+
+XVII. Coordinar la realización de estudios y análisis económicos de la Ciudad, mediante la recopilación de información, revisión de estudios e implementación de espacios de discusión y análisis de políticas públicas;
+
+XVIII. Coordinar estrategias para el seguimiento a los indicadores económicos que impacten a la Ciudad, así como formular un programa específico que informe y difunda los resultados obtenidos;
+
+XIX. Proponer acciones en materia económica que beneficien de manera directa a la ciudadanía;
+
+XX. Opinar sobre el estado que guardan los diferentes rubros de la economía de la Ciudad; y
+
+XXI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuye este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 145.
 
-Corresponde a la Dirección General de Apertura de Negocios y Desarrollo Empresarial:
+Corresponde a la Dirección Ejecutiva de Apertura de Negocios y Desarrollo Empresarial:
 
 I. Proporcionar asesoría y apoyo técnico a las Alcaldías y el sector social de la Ciudad de México, para la ejecución de los proyectos de fomento al emprendimiento, desarrollo económico y empresarial.
 
@@ -6066,9 +6116,11 @@ XI. Proporcionar apoyo técnico a las distintas cámaras, asociaciones, colegios
 
 XII. Coordinarse con las diferentes Unidades Administrativas de las Dependencias y Entidades de la Administración Pública de la Ciudad de México, y con el sector privado, para impulsar acciones y proyectos, tendientes a impulsar el desarrollo empresarial, así como la inversión en sus diversas manifestaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+
 ###### Artículo 146.
 
-Corresponde a la Dirección General de Planeación y Seguimiento de la Economía:
+Corresponde a la Dirección Ejecutiva de Planeación y Seguimiento de la Economía:
 
 I. Generar, coordinar y desarrollar mecanismos que permitan captar la información que generen los Ciudadanos, las Cámaras, las Alcaldías, las Dependencias y los sectores sociales, en materia socioeconómica.
 
@@ -6527,6 +6579,8 @@ XIII.- Apoyar la compilación y normalización de la información en materia de 
 XIV.- Las demás que le atribuyan las leyes y otros ordenamientos.
 
 #### SECCIÓN XIII. DE LA SECRETARÍA DE LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 157.
 
@@ -7260,7 +7314,9 @@ VII. Coadyuvar con la realización de los estudios, investigaciones, encuestas, 
 
 VIII. Gestionar la información en materia de atención Ciudadana para su debida recepción, organización, registro, procesamiento, análisis, seguimiento y evaluación, conforme a los trámites y solicitudes de servicios que produzcan las Unidades Administrativas y la Secretaría con el fin de generar estadísticas e indicadores con fines de planeación para la atención Ciudadana;
 
-IX. Coordinar y establecer enlaces permanentes, así como los temporales que en su caso se requieran entre las diversas Dependencias y Entidades Federales y de la Administración Pública de la Ciudad de México, así como con los poderes Legislativo y Judicial en los asuntos de su competencia, así como celebrar e implementar acuerdos con esas instancias, que sirvan para el mejoramiento de las funciones de la Secretaría;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+IX. Coordinar y establecer enlaces permanentes, así como los temporales que, en su caso, se requieran entre las diversas Dependencias y Entidades de la Administración Pública de la Ciudad, al igual que con los poderes Legislativo y Judicial en los asuntos de su competencia, y celebrar e implementar acuerdos con esas instancias, que sirvan para el mejoramiento de las funciones de la Secretaría;
 
 X. Actuar como instancia de coordinación con los distintos órganos de gobierno en las comparecencias y presentaciones de la persona Titular de la Secretaría; y
 
@@ -7268,33 +7324,35 @@ XI. Las demás que le instruya la persona Titular de la Secretaría de Inclusió
 
 ###### Artículo 172.
 
-Corresponde a la Dirección Ejecutiva de Igualdad y Diversidad:
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-I. Formular, promover y ejecutar políticas y programas sociales que favorezcan la equidad, reduzcan las desigualdades y eliminen los mecanismos de exclusión social privilegiando el respeto a la diversidad sexual;
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
-II. Promover políticas, programas y acciones sociales con perspectiva de respeto a la diversidad sexual con las instancias competentes del Gobierno Federal y Local, las organizaciones sociales y las instituciones de asistencia pública y privada, dirigidos a mejorar las condiciones de vida de los habitantes de la Ciudad de México;
+###### Artículo 172 Bis.
 
-III. Promover en el ámbito de su competencia los principios que fomenten la equidad en la formulación, ejecución y evaluación de las políticas y programas de la Administración Pública; y
+Corresponde a la Dirección General de Derechos Humanos:
 
-IV. Proponer y apoyar la celebración de convenios en el ámbito de su competencia, orientados a una adecuada información y capacitación, que tengan como fin propiciar la equidad e inclusión en la sociedad respetando la diversidad sexual de los habitantes de la Ciudad de México.
+I. Promover e impulsar acciones enfocadas a difundir, garantizar, proteger y respetar los derechos económicos, sociales, culturales y ambientales en especial a los grupos de atención prioritaria con la Administración Pública de la Ciudad y con la población en general;
+
+II. Participar de forma colaborativa en la creación de condiciones de igualdad y no discriminación con las instancias correspondientes en el ámbito de su competencia a efecto de facilitar, garantizar el acceso y pleno disfrute a los derechos económicos, sociales, culturales y ambientales de los habitantes de la Ciudad;
+
+III. Diseñar, promover y ejecutar acciones en materia de diversidad sexual que tengan por objetivo impulsar la inclusión y bienestar de todas las personas independientemente de su orientación sexual, expresión e identidad de género en la Administración Pública de la Ciudad;
+
+IV. Proporcionar a la Administración Pública de la Ciudad acompañamiento y orientación eficaz en materia de derechos económicos, sociales, culturales y ambientales;
+
+V. Coordinar y promover con las diversas instituciones académicas y organizaciones de la sociedad civil el establecimiento de convenios y/o acuerdos que fomenten los derechos económicos, sociales, culturales y ambientales, de las personas LGBTTTI y de la población en general; y
+
+VI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 173.
 
-Corresponde a la Dirección Ejecutiva de Promoción y Formación:
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-I. Diseñar mecanismos de coordinación institucional para el seguimiento a la acción gubernamental y acorde a los derechos humanos en la Ciudad de México para la implementación y seguimiento de políticas sociales;
-
-II. Promover y fomentar las acciones enfocadas a los derechos económicos, sociales, culturales y ambientales en especial a los grupos de atención prioritaria;
-
-III. Impartir con perspectiva de género y respeto a los derechos humanos, talleres de capacitación y de formación, que permitan adquirir, reforzar o potencializar los derechos económicos, sociales, culturales y ambientales;
-
-IV. Supervisar la planeación, diseño y ejercicio de proyectos de formación que permitan elevar la calidad de vida de los grupos prioritarios en la Ciudad de México; y
-
-V. Coordinarse con otras Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo de la Secretaría en actividades requeridas para el cumplimiento de los programas y las acciones enfocadas a los derechos económicos, sociales, culturales y ambientales.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 174.
 
-Corresponde a la Coordinación General de Inclusión y Bienestar Social:
+Corresponde a la Dirección General de Inclusión Social:
 
 I. Formular, promover y ejecutar políticas y programas sociales que favorezcan la inclusión, el bienestar de todas las personas en sus distintas etapas de vida, que reduzcan las desigualdades y eliminen las dinámicas de exclusión social de los grupos de atención prioritaria;
 
@@ -7318,43 +7376,27 @@ X. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades p
 
 XI. Prestar asistencia jurídica y orientación social a los sujetos beneficiarios de los servicios sociales.
 
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XII. Coordinar las políticas de mejoramiento barrial y comunitario del Gobierno de la Ciudad de México en el ámbito territorial, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIII. Diseñar y operar estrategias y acciones para el fortalecimiento del tejido social mediante mecanismos de información, formación y capacitación ciudadana y comunitaria; y
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIV. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
 ###### Artículo 175.
 
-Corresponde a la Dirección General del Instituto para el Envejecimiento Digno:
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-I. Promover instrumentos de colaboración con las instancias de la Administración Pública de la Ciudad de México, que propicien la atención integral de las personas mayores;
-
-II. Diseñar y operar los programas y acciones para generar una cultura del envejecimiento digno en la Ciudad de México;
-
-III. Promover la difusión, reconocimiento y ejercicio de los derechos de las personas mayores;
-
-IV. Proponer ante las instancias competentes, acciones y programas de promoción de la salud de las personas mayores;
-
-V. Operar el programa de visitas médicas domiciliarias para las personas mayores;
-
-VI. Realizar estudios y diagnósticos sobre la situación social y familiar de las personas mayores;
-
-VII. Propiciar espacios de interlocución entre Ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento digno;
-
-VIII. Promover entre los sectores social y privado los programas de gobierno a favor de las personas mayores;
-
-IX. Promover ante las instancias competentes la capacitación y sensibilización de las personas servidoras públicas y el personal que atiende a las personas mayores, en materia de promoción y educación para la salud, geronto-geriatría y aspectos de participación social y comunitaria;
-
-X. Diseñar e instrumentar el modelo de atención para el envejecimiento digno en coordinación con las Alcaldías y Dependencias;
-
-XI. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas mayores, involucrando de manera coordinada a la familia, la comunidad y a las instituciones de gobierno;
-
-XII. Promover el mejoramiento de las condiciones de vida de las personas mayores;
-
-XIII. Fomentar, promover y fortalecer grupos de ayuda mutua para personas mayores;
-
-XIV. Proponer la creación y funcionamiento de espacios para garantizar el bienestar colectivo de las personas mayores; y
-
-XV. Orientar y canalizar a las personas mayores en la Ciudad de México procurando la defensa de sus derechos a través de las instancias correspondientes en coordinación con la Dirección General de Asuntos Jurídicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 176.
 
-Corresponde a la Dirección General del Instituto de Atención a Poblaciones Prioritarias:
+Corresponde a la Dirección Ejecutiva del Instituto de Atención a Poblaciones Prioritarias:
 
 I. Coordinar y orientar la instrumentación de las políticas dirigidas a niños, jóvenes y personas mayores, en condición de abandono, situación de calle o víctimas de adicciones;
 
@@ -7416,37 +7458,11 @@ VIII. Las demás atribuciones conferidas por la persona Titular de la Secretarí
 
 ###### Artículo 179.
 
-Corresponde a la Dirección General de Acción Barrial y Comunitaria:
-
-I. Diseñar, proponer y ejecutar las políticas públicas en materia de acción barrial mediante la organización comunitaria y gestión social;
-
-II. Diseñar y operar las estrategias, programas y acciones de mejoramiento barrial en beneficio de los habitantes de los barrios, colonias, pueblos en coordinación con las Alcaldías y Dependencias y Órganos Desconcentrados de la Administración Pública, a efecto de garantizar la canalización oportuna y transparente de los recursos económicos, técnicos y materiales;
-
-III. Coordinar la instrumentación de las orientaciones y las políticas de mejoramiento barrial y comunitario del Gobierno de la Ciudad de México en el ámbito territorial, de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-IV. Fungir como secretario (a) técnico (a) en el comité técnico mixto de conformidad con la legislación aplicable;
-
-V. Diseñar y operar estrategias y acciones para el fortalecimiento del tejido social mediante mecanismos de información, formación y capacitación Ciudadana y comunitaria; y
-
-VI. Las demás atribuciones que les sean conferidas por otros ordenamientos o por la persona Titular de la Secretaría.
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 ###### Artículo 180.
 
-Corresponde a la Dirección Ejecutiva de Facilitadores Comunitarios:
-
-I. Coordinar las acciones de Promotoria Comunitaria para la autogestión y el desarrollo social;
-
-II. Diseñar acciones, programas y proyectos de autogestión territorial con metodologías participativas;
-
-III. Generar de información geoespacial con herramientas de Sistemas de Información geográfica para el ordenamiento territorial;
-
-IV. Promover la articulación de las políticas públicas con el desarrollo local;
-
-V. Incentivar procesos participativos basados en la metodología de educación popular, vinculados con el saber local y procesos tecnológicos que fortalecen el capital social, mejorar la gestión del conocimiento, incrementar las posibilidades de sostenibilidad de las (sic) barrios, colonias, pueblos y unidades habitacionales de la Ciudad de México;
-
-VI. Promover la participación y organización comunitaria en las acciones (sic) inclusión y de bienestar social del Gobierno de la Ciudad de México; y
-
-VII. Coordinar y dirigir programas y proyectos que consoliden las estrategias que permitan el desarrollo comunitario en los barrios, colonias, pueblos y unidades habitacionales de la Ciudad de México.
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 ###### Artículo 181.
 
@@ -7493,6 +7509,64 @@ XIII. Coordinar la difusión de los eventos y programas sociales que la Secretar
 XIV. Desarrollar y administrar la base de datos, así como los sistemas de consulta, con información geográfica y estadística en materia de políticas y programas sociales; y
 
 XV. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
+
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+###### Artículo 182 Bis.
+
+Corresponde a la Dirección Ejecutiva del Instituto para el Envejecimiento Digno:
+
+I. Promover instrumentos de colaboración con las instancias de la Administración Pública de la Ciudad, que propicien la atención integral de las personas mayores;
+
+II. Diseñar y operar los programas y acciones para generar una cultura del envejecimiento digno en la Ciudad;
+
+III. Promover la difusión, reconocimiento y ejercicio de los derechos de las personas mayores;
+
+IV. Proponer ante las instancias competentes, acciones y programas de promoción de la salud de las personas mayores;
+
+V. Operar el programa de visitas médicas domiciliarias para las personas mayores;
+
+VI. Realizar estudios y diagnósticos sobre la situación social y familiar de las personas mayores;
+
+VII. Propiciar espacios de interlocución entre ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento digno;
+
+VIII. Promover entre los sectores social y privado los programas de gobierno a favor de las personas mayores;
+
+IX. Promover ante las instancias competentes la capacitación y sensibilización de las personas servidoras públicas y el personal que atiende a las personas mayores, en materia de promoción y educación para la salud, geronto-geriatría y aspectos de participación social y comunitaria;
+
+X. Diseñar e instrumentar el modelo de atención para el envejecimiento digno en coordinación con las Alcaldías y Dependencias;
+
+XI. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas mayores, involucrando de manera coordinada a la familia, la comunidad y a las instituciones de gobierno;
+
+XII. Promover el mejoramiento de las condiciones de vida de las personas mayores;
+
+XIII. Fomentar, promover y fortalecer grupos de ayuda mutua para personas mayores;
+
+XIV. Proponer la creación y funcionamiento de espacios para garantizar el bienestar colectivo de las personas mayores;
+
+XV. Orientar y canalizar a las personas mayores en la Ciudad procurando la defensa de sus derechos a través de las instancias correspondientes en coordinación con la Dirección General de Asuntos Jurídicos; y
+
+XVI. Las demás que le instruya la persona Titular de la Secretaría, y las que expresamente le atribuyen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+###### Artículo 182 Ter.
+
+Corresponde a la Dirección Ejecutiva de Operación y Desarrollo Institucional:
+
+I. Dar seguimiento al cumplimiento de las instrucciones dirigidas a las personas servidoras públicas de la Dependencia, hasta concluir la encomienda, y elaborar los informes correspondientes;
+
+II. Dar seguimiento a los compromisos adquiridos por la Secretaría que deriven de instrumentos jurídicos y de normas, lineamientos, políticas, bases y sistemas de supervisión, control, seguimiento y evaluación, en coordinación con las Unidades Administrativas adscritas a ésta, las que actuarán en el ámbito de su competencia;
+
+III. Dar seguimiento al desarrollo y ejecución de los proyectos estratégicos que tengan encomendados las Unidades Administrativas de la Secretaría, y solicitar los informes de avance y conclusión, con el fin de mantener informada a la persona Titular de la Secretaría;
+
+IV. Expedir y validar los trámites y asuntos de su competencia;
+
+V. Ejecutar acciones de vinculación y colaboración con el Gobierno Federal en materia de política social, en beneficio de los habitantes de la Ciudad, incluyendo la coordinación de la planeación, programación y ejecución de los recursos federales que le sean asignados a la Secretaría;
+
+VI. Representar a la persona Titular de la Secretaría, en las actividades convocadas por el Gobierno Federal, tales como encuentros, foros, convenciones o cualquier otra iniciativa que requiera la participación y colaboración de la Secretaría en lo concerniente a bienestar e inclusión social; y
+
+VII. Las demás que establezca (sic) este Reglamento y los ordenamientos legales y normatividad vigentes, así como las que le confiera la persona Titular de la Secretaría.
 
 #### SECCIÓN XVII. DE LA SECRETARÍA DE TRABAJO Y FOMENTO AL EMPLEO
 
@@ -8534,213 +8608,319 @@ VIII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativ
 
 ###### Artículo 202.
 
-Corresponde a la Coordinación General de Igualdad y Atención a la Violencia de Género:
+Corresponde a la Dirección General de Igualdad y Atención a la Violencia de Género:
 
-I. Dirigir la planeación, diseño, operación, seguimiento y evaluación de los planes, proyectos, programas y acciones en materia de igualdad sustantiva entre hombres y mujeres y de las acciones afirmativas encaminadas a lograr la autonomía física, económica y política de las mujeres que habitan y transitan en la Ciudad de México para garantizar sus derechos humanos plenos, en los ámbitos gubernamental, social y privado;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-II. Dirigir los mecanismos necesarios para impulsar que los entes de la Administración Pública de la Ciudad de México, elaboren sus presupuestos, programas y acciones con perspectiva de género y de derechos humanos de las mujeres y las niñas;
+I. Dirigir el diseño y coordinar el establecimiento de los instrumentos de planeación y seguimiento de las políticas públicas de la Secretaría, así como gestionar y realizar las acciones necesarias para acceder al financiamiento público y privado con las instancias competentes del Gobierno Federal y Local;
 
-III. Supervisar la planeación y diseño de investigaciones e indicadores para el seguimiento de los procesos y programas de los entes públicos de la Ciudad de México orientados a reducir las brechas de género y lograr la igualdad sustantiva, desde una perspectiva de género y derechos humanos.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-IV. Proponer convenios de coordinación y concertación en materia de igualdad de género y prevención y atención de la violencia contra las mujeres y las niñas, con organizaciones académicas, privadas, de la sociedad civil;
+II. Examinar y proponer los mecanismos necesarios para impulsar a los entes de la Administración Pública de la Ciudad en la elaboración de sus presupuestos, programas y acciones con perspectiva de género y de derechos humanos de las mujeres y las niñas;
 
-V. Organizar las áreas sustantivas de la Secretaría para colaborar en la elaboración del Plan General de Desarrollo de la Ciudad de México, y en el Programa de Gobierno de la Ciudad de México procurando que los entes de la Administración Pública, incorporen la perspectiva de género y de igualdad sustantiva en el diseño de sus presupuestos, programas y acciones;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VI. Proponer a la persona Titular de la Secretaría, iniciativas de reformas legales que sean necesarias para la armonización legislativa en materia de derechos humanos de las mujeres, paridad e igualdad de género;
+III. Supervisar la planeación de los procesos, indicadores y programas de los entes públicos de la Ciudad de México orientados a reducir las brechas de género y lograr la igualdad sustantiva, desde una perspectiva de género y derechos humanos, con base en los instrumentos locales, nacionales e internacionales de derechos humanos de las mujeres;
 
-VII. Proponer la realización de foros, congresos, diplomados, cursos y certificación en materia igualdad sustantiva y autonomía física, económica y política de las mujeres que habitan y transitan en la Ciudad de México para garantizar sus derechos humanos plenos;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+IV. Suscribir documentos relativos al ejercicio de sus atribuciones, así como los de carácter administrativo y jurídico o de cualquier índole, que se requiera en materia de igualdad de género, prevención y atención de la violencia contra las mujeres y niñas para el buen desempeño de la Dependencia;
 
-VIII. Dirigir y supervisar la oportunidad, calidad, eficacia y eficiencia de los servicios de prevención y atención a la violencia de género, que se brinden en las Unidades territoriales de atención, (LUNAS), en los módulos de orientación instalados por la Secretaría de las Mujeres, en las estrategias de intervención territorial, en los hogares de mujeres en situación de riesgo, en las casas de emergencia y Refugio, de acuerdo con el modelo de atención diseñado para tal efecto;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-IX. Promover programas y acciones en materia de prevención a la violencia contra las mujeres y las niñas en las Alcaldías de la Ciudad de México, en coordinación con otros entes de la Administración Pública del Gobierno de la Ciudad;
+V. Promover dentro del Plan General de Desarrollo de la Ciudad de México, y el Programa de Gobierno de la Ciudad de México, la capacitación y sensibilización de las personas servidoras públicas, respecto (sic) la incorporación de perspectiva de género e igualdad sustantiva;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-X. Dirigir y vigilar la consolidación de la Red de Información de violencia contra las Mujeres en la Ciudad de México y del Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para la Administración Pública y las Alcaldías, de conformidad con los Lineamientos de Operación emitidos para tal efecto, promoviendo la participación de los entes Públicos involucrados en la atención de mujeres y niñas en situación de violencia de género;
+VI. Proponer a la persona Titular de la Secretaría, instrumentos jurídicos necesarios para la armonización legislativa en materia de derechos humanos de las mujeres, paridad e igualdad de género;
 
-XI. Dirigir e impulsar programas y acciones orientadas a la reeducación de los hombres, a efecto promover relaciones de respeto, libres de violencia hacia su pareja, las y los hijos, amigas, amigos y comunidad;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+VII. Proponer la realización de foros, congresos, diplomados, cursos y certificaciones en materia de igualdad sustantiva y autonomía física, económica y política de las mujeres que habitan y transitan en la Ciudad, para garantizar sus derechos humanos plenos;
 
-XII. Establecer mecanismos de comunicación permanente con las autoridades de procuración, administración e impartición de justicia, para fortalecer el acceso a la justicia y a la reparación del daño de mujeres víctimas de violencia, promoviendo la cultura de la denuncia por actos que violenten los derechos humanos de mujeres, niñas, niños, adolescentes y mujeres de la diversidad sexual;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+VIII. Coordinar el seguimiento de la oportunidad, calidad, eficacia y eficiencia de los servicios de prevención y atención a la violencia de género que se brinden en las Unidades Territoriales de Atención y Prevención a la Violencia de Género (LUNAS), en los hogares de mujeres en situación de riesgo, en las Casas de Emergencia y Refugio, de acuerdo con el modelo de atención diseñado para tal efecto; así como elaborar y proponer estrategias innovadoras integrales orientadas a la mejora de los mismos;
 
-XIII. Dirigir y promover programas y acciones orientadas (sic) difundir y mejorar la salud integral de las mujeres, así como el ejercicio pleno de los derechos sexuales y reproductivos en la Ciudad de México, previniendo el abuso sexual a niños, niñas y el embarazo de adolescentes;
+IX. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XIV. Dirigir y organizar las acciones necesarias para sentar las bases de creación de un Sistema Público de Cuidados en la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+X. Dirigir y vigilar el diseño e implementación de las herramientas tecnológicas y los procesos de coordinación necesarios para la consolidación de la Red de Información de Violencia contra las Mujeres en la (sic) y del Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para la Administración Pública de la Ciudad, de conformidad con los Lineamientos de Operación emitidos para tal efecto, promoviendo la participación de los entes públicos u organismos internacionales;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XI. Fomentar y promover en coordinación con otros entes, programas orientados a la sensibilización de los hombres, a efecto de incentivar relaciones de respeto, libres de violencia hacia su pareja, las y los hijos, amigas, amigos y comunidad;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XII. Establecer mecanismos de comunicación permanente con las autoridades de procuración, administración e impartición de justicia, para fortalecer el acceso a la misma y a la reparación integral del daño de mujeres víctimas de violencia;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIII. Dirigir y promover programas y acciones para mejorar la salud integral de las mujeres, así como el ejercicio pleno de sus derechos sexuales y reproductivos en la Ciudad, previniendo el abuso sexual a niños, niñas y el embarazo de adolescentes;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIV. Dirigir y promover las acciones necesarias para la creación de un sistema público de cuidados en la Ciudad, en coordinación con otros entes;
 
 XV. Dirigir y supervisar las acciones de orientación jurídica para el acceso a la justicia, que se brinden en las Agencias Desconcentradas y especializadas del Ministerio Público, así como los servicios de referencia y contrarreferencia necesarios para garantizar el pleno ejercicio de los derechos de las mujeres que se encuentren en situación de violencia;
 
-XVI. Formular lineamientos para evaluar la calidad de los servicios proporcionados, de programas prioritarios y estratégicos por la Secretaría, proponiendo las correcciones y modificaciones necesarias para elevar y mantener la calidad, oportunidad y eficacia de los mismos;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XVII. Proponer, instrumentar y llevar a cabo monitoreo y evaluación de los programas y acciones institucionales, proponiendo ajustes, cambios o reorientación de la gestión en coordinación con las Unidades Administrativas de la Secretaría;
+XVI. Formular lineamientos para evaluar la calidad de los servicios proporcionados, de programas prioritarios y estratégicos por la Secretaría, proponiendo las correcciones y modificaciones necesarias para elevar y mantener la calidad, oportunidad y eficacia de estos;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVII. Evaluar los programas y acciones institucionales, proponiendo a la persona Titular de la Secretaría ajustes, cambios o reorientación de la gestión en la misma;
 
 XVIII. Proporcionar asesoría y apoyo técnico en materia de planeación, evaluación, diseño, aplicación y monitoreo de indicadores a las Unidades Administrativas de la Secretaría, desarrollando las herramientas metodológicas necesarias para la planeación y evaluación de los Programas Anuales de trabajo;
 
-XIX. Participar en los grupos de trabajo inter y extra institucionales que se requiera y a instrucciones de la persona Titular de la Secretaría;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIX. Participar en los grupos de trabajo inter y extrainstitucionales que se requieran, por instrucciones de la persona Titular de la Secretaría;
 
 XX. Elaborar informes que den cuenta de los resultados en el cumplimiento de las políticas, objetivos, estrategias y acciones del Programa de Trabajo de la Secretaría; y
 
 XXI. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría.
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 203.
 
-Corresponde a la Dirección General para una Vida Libre de Violencia:
+Corresponde a la Dirección Ejecutiva para una Vida Libre de Violencia:
 
-I. Formular, promover y ejecutar políticas, programas y acciones que favorezcan la prevención y atención para una vida libre de violencia hacia las niñas y las mujeres en la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-II. Gestionar y realizar las acciones necesarias para acceder al financiamiento público y privado con las instancias competentes del Gobierno Federal y Local; las organizaciones sociales y las instituciones de asistencia pública y privada, dirigido a mejorar las condiciones de atención y prevención de la violencia contra las niñas y las mujeres a efecto de contribuir al logro de su autonomía física, económica y política;
+I. Colaborar en la formulación, promoción y ejecución de políticas, programas y acciones que favorezcan la prevención y atención para una vida libre de violencia hacia las niñas y las mujeres en la Ciudad;
 
-III. Diseñar, promover y ejecutar programas y acciones para la prevención, detección y atención de la violencia contra las niñas y las mujeres en todos sus tipos y modalidades con base en los instrumentos locales, nacionales e internacionales de Derechos Humanos de las Mujeres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-IV. Promover, operar y vigilar las acciones necesarias para que las Unidades Administrativas que prestan servicios a mujeres y niñas en situación de violencia de género, ingresen la información necesaria para fortalecer la Red de Información de Violencia contra las Mujeres y del Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para la Administración Pública y las Alcaldías, para conocer su situación de violencia y realizar las atenciones pertinentes a cada caso;
+II. Colaborar en el ámbito de sus atribuciones en la gestión y realización de acciones necesarias para acceder al financiamiento público y privado con las instancias competentes del Gobierno Federal y local; las organizaciones sociales y las instituciones de asistencia pública y privada, dirigido a mejorar las condiciones de atención y prevención de la violencia contra las niñas y las mujeres, a efecto de contribuir al logro de su autonomía física, económica y política;
 
-V. Formular y, en su caso, celebrar o proponer instrumentos jurídicos con instituciones públicas, privadas, sociales, organismos internacionales e instituciones académicas, en materia de derechos humanos de las mujeres y las niñas, igualdad de género, prevención y atención de los tipos y modalidades de violencia contra las mujeres y las niñas, para el logro de sus objetivos y de acuerdo a la legislación aplicable;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VI. Coordinarse de manera permanente con las autoridades de procuración y administración de justicia; así como proponer y en su caso coadyuvar con las autoridades competentes en la implementación de acciones para fortalecer el acceso a la justicia de mujeres y niñas en la Ciudad;
+III. Coadyuvar en el diseño, promoción y ejecución de programas y acciones para la prevención, detección y atención de la violencia contra las niñas y las mujeres, en todos sus tipos y modalidades, con base en los instrumentos locales, nacionales e internacionales de derechos humanos de las mujeres;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VII. Desarrollar, operar, y dar seguimiento al sistema de Atención y Prevención de la violencia de género, integrado por las Unidades Territoriales de Atención (LUNAS), de acuerdo con el modelo de atención diseñado para tal efecto;
+IV. Promover, operar y vigilar las acciones necesarias para que las Unidades Administrativas que prestan servicios a mujeres y niñas en situación de violencia de género, ingresen la información necesaria para fortalecer la Red de Información de Violencia contra las Mujeres y del Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para la Administración Pública y las Alcaldías, a fin de conocer su situación de violencia y realizar las acciones pertinentes a cada caso;
 
-VIII. Promover y realizar programas y acciones para la cultura de paz y no violencia de los hombres, para que detengan las prácticas de violencia y discriminación contra la pareja, las hijas y los hijos; así como en todas sus relaciones en los diferentes ámbitos de la vida social;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-IX. Promover la cultura de la denuncia por actos que violenten las disposiciones en materia de derechos humanos de las mujeres y las niñas, a través de sus programas y acciones instituciones permanentes;
+V. Establecer en el ámbito de sus atribuciones, vínculos institucionales de coordinación para proponer instrumentos jurídicos con entes públicos, privados, sociales, organismos internacionales e instituciones académicas, en materia de derechos humanos de las mujeres y las niñas, igualdad de género, prevención, atención de los tipos y modalidades de violencia contra las mujeres y las niñas, para el logro de sus objetivos y de acuerdo a la legislación aplicable;
 
-X. Diseñar, promover y operar programas y acciones permanentes para prevenir el abuso sexual a niñas, niños y adolescentes;
+VI. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XI. Participar en foros, talleres y diversos eventos realizados por los entes públicos y Dependencias del Gobierno de la Ciudad de México, administración pública federal, gobiernos estatales o municipales, así como la sociedad civil y comunidad académica en temas relacionados con el derecho a las mujeres a una vida libre de violencia, con el fin promover y fomentar acciones que mejoren la condición social y la eliminación de todas las formas de violencia y discriminación de las mujeres, y en su caso, en representación de la Secretaría de las Mujeres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XII. Fomentar que todos los programas, mecanismos, medidas, lineamientos y estrategias, se enfoquen al respeto, protección, garantía y promoción de los derechos humanos de las mujeres, para coadyuvar en la erradicación de todo tipo de discriminación o violencia que impidan su desarrollo, mediante acciones, propuestas y seguimiento oportuno que fortalezcan la autonomía física, económica y política, tanto personalmente como colectivamente; en espacio privado, público y comunitario;
+VII. Colaborar en el desarrollo, operación, y seguimiento de las Unidades Territoriales de Atención y Prevención a la Violencia de Género (LUNAS), de acuerdo con el modelo de asistencia diseñado para tal efecto;
 
-XIII. Fomentar la participación de la sociedad civil organizada, impulsando políticas públicas con perspectiva de género, destinadas a mejorar las condiciones de vida de las mujeres en todos los ámbitos;
+VIII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XIV. Coordinar la prestación de los servicios integrales, multidisciplinarios y de calidad que bridan las Unidades Territoriales de Atención (LUNAS) a las mujeres víctimas de alguna forma de violencia o delito por condición de género de acuerdo con el modelo de atención;
+IX. Establecer canales de comunicación con otras autoridades, a fin de promover la cultura de la denuncia por actos que violenten las disposiciones en materia de derechos humanos de las mujeres y las niñas;
 
-XV. Promover la coordinación interna e interinstitucional, desde el marco de los derechos humanos, protección integral a la niñez y con perspectiva de género, para la promoción de la autonomía de las mujeres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XVI. Promover y realizar acciones para el acceso a la justicia, brindando servicios de orientación jurídica en las Agencias Desconcentradas y especializadas del Ministerio Público, para garantizar el pleno ejercicio de los derechos de las mujeres, así como proporcionar información sobre los servicios sociales y de protección que requieran las mujeres en situación de violencia de género;
+X. Coadyuvar en el diseño, promoción y operación de programas y acciones permanentes para prevenir el abuso sexual a niñas, niños y adolescentes;
 
-XVII. Elaborar informes que den cuenta de los resultados en el cumplimiento de los programas y acciones, objetivos y estrategias del Programa de Trabajo de la Secretaría de las Mujeres, en el ámbito de sus atribuciones;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XI. Apoyar en foros, talleres y diversos eventos realizados, por la Secretaría, con diversos entes públicos locales y federales, así como de la sociedad civil y la comunidad académica en temas relacionados con el derecho de las mujeres a una vida libre de violencia, y la eliminación de todas las formas de discriminación de las mujeres;
 
-XVIII. Proponer a la persona Titular de la Secretaría de las Mujeres, acuerdos y convenios con las autoridades de los distintos niveles de Gobierno y de otros entes públicos, privados, autónomos y de agencias multilaterales, orientados a mejorar el funcionamiento y operación de las LUNAS de la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XIX. Dirigir, implementar, coordinar y dar seguimiento a los procedimientos y acciones de intervención territorial, impulsando procesos de empoderamiento y Ciudadanía que contribuya de forma directa e indirecta a la prevención e identificación de las violencias contra las mujeres y las niñas, a través de metodologías de intervención comunitaria e incluyentes, desde un enfoque intercultural e intergeneracional para promover los derechos humanos y la igualdad, generando condiciones para construir una Ciudad Segura;
+XII. Fomentar que todos los programas, mecanismos, medidas, lineamientos y estrategias, se enfoquen al respeto, protección, garantía y promoción de los derechos humanos de las mujeres, para coadyuvar en la erradicación de todo tipo de discriminación o violencia que impidan su desarrollo, mediante acciones, propuestas y seguimiento oportuno;
 
-XX. Promover la implementación de estrategias territoriales diferenciadas según la condición y características específicas de las mujeres tanto de zonas urbanas como de zonas semi rurales, en materia de prevención, detección y atención oportuna de la violencia contra las mujeres y las niñas que residen y transitan en la Ciudad de México; y
+XIII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XXI. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría que favorezcan, promuevan y reconozcan los derechos humanos de las mujeres y las niñas.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIV. Colaborar en la prestación de los servicios integrales, multidisciplinarios y de calidad que bridan las Unidades Territoriales de Atención y Prevención a la Violencia de Género (LUNAS) a las mujeres víctimas de alguna forma de violencia o delito por condición de género, de acuerdo con el modelo de atención correspondiente;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XV. Promover la coordinación interna e interinstitucional, desde el marco de los derechos humanos, la protección integral a la niñez y, la perspectiva de género, para la promoción de la autonomía de las mujeres;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVI. Coadyuvar en la promoción de estrategias para el acceso a la justicia, brindando servicios de orientación jurídica en las Agencias Desconcentradas y Especializadas del Ministerio Público, para garantizar el pleno ejercicio de los derechos de las mujeres, así como proporcionar información sobre los servicios sociales y de protección que requieran las mujeres en situación de violencia de género;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVII. Elaborar en el ámbito de sus atribuciones, informes que den cuenta de los resultados en el cumplimiento de los programas y acciones, objetivos y estrategias del Programa de Trabajo de la Secretaría;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVIII. Proponer en el ámbito de sus atribuciones, acuerdos y convenios con las autoridades de los distintos niveles de Gobierno y de otros entes públicos, privados, autónomos y de agencias multilaterales, orientados a mejorar el funcionamiento y operación de las Unidades Territoriales de Atención y Prevención a la Violencia de Género (LUNAS);
+
+XIX. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XX. Promover la implementación de estrategias territoriales diferenciadas según la condición y características específicas de las mujeres, tanto de zonas urbanas como en semi rurales, en materia de prevención, detección y atención oportuna de la violencia contra las mujeres y las niñas que residen y transitan en la Ciudad de México; impulsando procesos de empoderamiento y ciudadanía que contribuyan de forma directa e indirecta a la prevención e identificación de la violencia contra las mujeres para construir una Ciudad Segura; y
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XXI. Administrar y aplicar los recursos que le sean asignados; y los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría y/o la persona Titular de la Dirección General de Igualdad y Atención a la Violencia de Género que favorezcan, promuevan y reconozcan los derechos humanos de las mujeres y las niñas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 204.
 
-Corresponde a la Dirección General de Igualdad Sustantiva:
+Corresponde a la Dirección Ejecutiva de Igualdad Sustantiva:
 
-I. Dirigir la estrategia para el diseño, elaboración, operación, seguimiento y evaluación del mecanismo de transversalidad de la perspectiva de género en los entes públicos de la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-II. Actuar como órgano de consulta, asesoría, capacitación y formación de las Entidades de la Administración Pública y de los sectores social y privado, en materia de igualdad sustantiva entre mujeres y hombres;
+I. Colaborar en el diseño, elaboración, operación, seguimiento y evaluación del mecanismo de transversalidad de la perspectiva de género en los entes públicos de la Ciudad;
 
-III. Elaborar y operar propuestas metodológicas y formativas para incidir en los entes públicos de la Ciudad de México, a fin de generar, potenciar y desarrollar capacidades, habilidades, conductas y actitudes en el (sic) personas servidoras públicas responsables de diseñar, ejecutar y en su caso evaluar planes, programas, proyectos y acciones de política pública desde una perspectiva de género y derechos humanos;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-IV. Elaborar y operar líneas de investigación y documentación para contribuir al diagnóstico sobre la posición, situación y condición de las mujeres en la Ciudad de México para incidir en los entes públicos de la Ciudad de México, a fin de generar, potenciar y desarrollar insumos para las personas servidoras públicas responsables de diseñar, ejecutar y en su caso evaluar planes, programas, proyectos y acciones de política pública desde una perspectiva de género y derechos humanos;
+II. Contribuir como Órgano de consulta, asesoría, capacitación y formación de las entidades de la Administración Pública de la Ciudad, y de los sectores social y privado, en materia de igualdad sustantiva entre mujeres y hombres;
 
-V. Coordinar el diseño de indicadores, mecanismos de seguimiento y evaluación para incidir en los entes públicos de la Ciudad de México, a fin de generar, potenciar y desarrollar insumos para las personas servidoras públicas responsables de diseñar, ejecutar y en su caso evaluar planes, programas, proyectos y acciones de política pública desde una perspectiva de género y derechos humanos orientada a lograr la igualdad sustantiva entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+III. Proponer, innovar e implementar planes y/o estrategias metodológicas y formativas que involucren a los diferentes entes públicos de la Ciudad, a fin de generar, potenciar y desarrollar capacidades, habilidades, conductas y actitudes en las personas servidoras públicas, desde una perspectiva de género y derechos humanos;
 
-VI. Dirigir la estrategia de institucionalización de la perspectiva de género y cultura organizacional de la Secretaría de las Mujeres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VII. Promover la elaboración de metodologías, indicadores y estudios de investigación desde un enfoque transversal de género en colaboración con instituciones públicas, privadas, sociales y académicas para garantizar los derechos humanos de las mujeres;
+IV. Elaborar y operar en el ámbito de sus atribuciones líneas de investigación y documentación para contribuir al diagnóstico sobre la posición, situación y condición de las mujeres en la Ciudad, para incidir en los entes públicos de la Ciudad, a fin de generar, potenciar y desarrollar insumos para las personas servidoras públicas responsables de diseñar, ejecutar, y en su caso, evaluar planes, programas, proyectos y acciones de política pública desde una perspectiva de género y derechos humanos;
 
-VIII. Promover el establecimiento de acuerdos, convenios y proyectos de colaboración con organismos públicos y/o privados para el desarrollo de proyectos que beneficien a las mujeres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-IX. Fortalecer la participación de los actores estratégicos en el diseño, formulación y evaluación de las políticas para alcanzar la igualdad sustantiva entre mujeres y hombres;
+V. Dirigir y supervisar dentro del ámbito de su competencia, el diseño de indicadores, mecanismos de seguimiento y evaluación para incidir en los entes públicos de la Ciudad, a fin de generar, potenciar y desarrollar insumos para las personas servidoras públicas responsables de diseñar, ejecutar, y en su caso, evaluar planes, programas, proyectos y acciones de política pública desde una perspectiva de género y derechos humanos orientada a lograr la igualdad sustantiva entre mujeres y hombres;
 
-X. Coordinar las tareas derivadas de los Programas de Coinversión para el Desarrollo Social y de Financiamiento para Instituciones y Organizaciones dedicadas a la asistencia, integración y promoción social que en el marco de la corresponsabilidad y promoción de la participación Ciudadana coadyuven a abatir las desigualdades, eliminar la exclusión y discriminación, promoviendo el reconocimiento y respeto a la diversidad, que le remita la persona Titular de la Secretaría de las Mujeres orientada a la concreción de la igualdad sustantiva entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+VI. Coadyuvar en la estrategia de institucionalización de la perspectiva de género y cultura organizacional de la Secretaría;
 
-XI. Desarrollar acciones encaminadas a fortalecer la vinculación con las Organizaciones de la Sociedad Civil con acciones hacia las mujeres, a efectos de trabajar de manera coordinada en beneficio de los distintos grupos de mujeres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+VII. Colaborar en el mantenimiento permanentemente de políticas públicas con perspectiva transversal de género, destinadas a mejorar las condiciones de vida de las mujeres en todos los ámbitos de la sociedad civil;
 
-XII. Coordinar la gestión y operación de los apoyos y estímulos dirigidos a fomentar las actividades de las Organizaciones de la Sociedad Civil que trabajan en favor de las mujeres, a fin de que puedan continuar incidiendo en la solución de las distintas problemáticas que enfrentan los grupos más vulnerables de la población femenina;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XIII. Diseñar y operar campañas dirigidas a promover la Igualdad sustantiva entre mujeres y hombres;
+VIII. Establecer en el ámbito de sus atribuciones, vínculos institucionales de coordinación para proponer instrumentos de colaboración con entes públicos, privados, sociales, organismos internacionales e instituciones académicas, en materia de igualdad sustantiva y de derechos humanos de las mujeres y las niñas, igualdad de género, prevención, atención de los tipos y modalidades de violencia contra las mujeres y las niñas, para el logro de sus objetivos y de acuerdo con la legislación aplicable;
 
-XIV. Diseño, operación y evaluación de acciones, políticas y programas especiales que garanticen la autonomía física, económica, psicológica, la igualdad sustantiva y la Ciudadanía plena de las mujeres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XV. Coordinarse con las diferentes áreas de la Secretaría de las Mujeres para el cumplimiento de los objetivos estratégicos del Programa Especial de Igualdad de Oportunidades y No Discriminación para Mujeres y Hombres de la Ciudad de México con base en la normatividad vigente;
+IX. Coadyuvar en el fortalecimiento de la participación de los actores estratégicos en el diseño, formulación y evaluación de las políticas, para alcanzar la igualdad sustantiva entre mujeres y hombres;
 
-XVI. Coordinar las acciones interinstitucionales orientadas a garantizar la igualdad sustantiva entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+X. Colaborar en las tareas derivadas de los Programas de Coinversión para el Desarrollo Social y de Financiamiento para instituciones y organizaciones dedicadas a la asistencia, integración y promoción social que en el marco de la corresponsabilidad y promoción de la participación ciudadana, favorezcan la concreción de la igualdad sustantiva entre mujeres y hombres;
 
-XVII. Establecer acciones para el funcionamiento, así como lineamientos de operación del Centro de Documentación de la Secretaría de las Mujeres, mejoras a los sistemas implementados y promover vínculos y convenios con organizaciones afines para proporcionar servicios de información al personal del Instituto y público en general;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XVIII. Participar en la elaboración de los lineamientos generales en materia de Igualdad Sustantiva para los fines que la Jefatura de Gobierno y la normatividad vigente mandaten;
+XI. Proponer acciones encaminadas a fortalecer la vinculación con las organizaciones de la sociedad civil, respecto de acciones hacia las mujeres, a efectos de trabajar de manera coordinada en beneficio de los distintos grupos de mujeres;
 
-XIX. Coordinar la sistematización y elaboración de informes para el seguimiento, y difusión de las acciones derivadas del Programa General de Desarrollo, los Programas Sectoriales y Programas Especiales en materia de igualdad sustantiva entre mujeres y hombres desde la Secretaría de las Mujeres; y
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XX. Coordinar la sistematización y elaboración de informes para el seguimiento, cumplimiento y difusión de las acciones derivadas de Tratados Internacionales firmados por México en materia de derechos humanos de las mujeres.
+XII. Coordinar la gestión y operación, de los apoyos y estímulos dirigidos a fomentar las actividades de las organizaciones de la sociedad civil que trabajan en favor de las mujeres;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIII. Colaborar en el diseño y operación de campañas dirigidas a promover la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIV. Establecer en el ámbito de sus atribuciones, y con base en los estudios pertinentes acciones, políticas y programas especiales que garanticen igualdad sustantiva y la ciudadanía plena de las mujeres;
+
+XV. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
+
+XVI. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVII. Establecer acciones para el funcionamiento, así como lineamientos de operación del Centro de Documentación de la Secretaría;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVIII. Coadyuvar en la elaboración de los lineamientos generales en materia de igualdad sustantiva, para los fines que la persona Titular de la Jefatura de Gobierno y la normatividad vigente mandaten;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIX. Colaborar en la sistematización y elaboración de informes para el seguimiento, cumplimiento y difusión de las acciones derivadas de Tratados Internacionales firmados por México en materia de derechos humanos de las mujeres; y
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XX. Coordinar la sistematización y elaboración de informes para el seguimiento, y difusión de las acciones derivadas del Programa General de Desarrollo, los Programas Sectoriales y Programas Especiales en materia de igualdad sustantiva entre mujeres y hombres desde la Secretaría; así como administrar y aplicar los recursos que le sean asignados; y los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la misma Secretaría y/o la persona titular de la Dirección General de Igualdad y Atención a la Violencia de Género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 205.
 
-Corresponde a la Dirección General para el Acceso a la Justicia y Espacios de Refugio:
+Corresponde a la Dirección Ejecutiva para el Acceso a la Justicia y Espacios de Refugio:
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-I. Formular, promover y ejecutar políticas, programas y acciones que favorezcan la atención, la protección y el acceso a la justicia de mujeres y niñas en situación de violencia en el Refugio, la Casa de Emergencia, y a través de los y las Abogadas para las mujeres en las agencias del Ministerio Público en la Ciudad de México;
+I. Coadyuvar en la formulación, promoción y ejecución de políticas, programas y acciones que favorezcan la atención, la protección y el acceso a la justicia de mujeres y niñas en situación de violencia en el Refugio y la Casa de Emergencia de la Ciudad de México;
 
-II. Promover y realizar acciones para el acceso a la justicia de las mujeres brindando servicios de orientación jurídica en las Agencias Desconcentradas y Especializadas del Ministerio Público, que favorezca el ejercicio de los derechos de las mujeres, así como proporcionar información sobre los servicios sociales y de protección que requieran las mujeres en situación de violencia de género;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-III. Coordinar la prestación de los servicios integrales, multidisciplinarios que bridan el Refugio y la Casa de Emergencia de la Ciudad de México a las mujeres víctimas de alguna forma de violencia de género;
+II. Promover y coordinar la prestación de los servicios integrales, multidisciplinarios que brindan el Refugio y la Casa de Emergencia de la Ciudad de México, a las mujeres víctimas de alguna forma de violencia de género extrema;
 
-IV. Consolidar equipos de trabajo multidisciplinarios, con el objeto de brindar atención integral y protección a mujeres y niñas en situación de violencia de género con un enfoque de género e interculturalidad en el marco de los derechos humanos.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-V. Coordinarse de manera permanente con la Dirección resposable (sic) de las Unidades Territoriales de Atención (LUNAS), como parte del Sistema de Atención y Prevención de la Violencia de Género, así como con otras unidades administrativas del Gobierno de la Ciudad de México que brindan atención a las mujeres y niñas en situación de violencia de género, que permita fortalecer el sistema de referencia y contrarreferencia.
+III. Colaborar en la promoción, coordinación y realización de acciones que permitan el acceso a la justicia a las mujeres brindando servicios de orientación jurídica en las Agencias de Investigación Territorial y Agencias de Investigación Especializadas del Ministerio Público, con el fin de favorecer el ejercicio de sus derechos; así como proporcionar información sobre los servicios sociales y de protección que requieran las mujeres en situación de violencia de género;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VI. Establecer y mantener coordinación con las autoridades de procuración y administración de justicia, así como proponer y en su caso coadyuvar con las autoridades competentes en la implementación de acciones para fortalecer el acceso a la justicia y la protección de mujeres y niñas en la Ciudad de México, a través de los y las Abogadas para las mujeres en las agencias del Ministerio Público en la Ciudad de México;
+IV. Promover y realizar acciones para el acceso a la justicia de las mujeres en situaciones de violencia de género, principalmente violencia sexual, brindando servicios de atención jurídica y psicológica en espacios del Sistema Integrado de Transporte Público de la Ciudad de México;
 
-VII. Gestionar y realizar las acciones necesarias para acceder al financiamiento público y privado con las instancias competentes del Gobierno Federal y Gobierno Local; las organizaciones sociales y las instituciones de asistencia pública y privada, dirigido a mejorar las condiciones de atención integral, protección y acceso a la justicia de las mujeres y niñas en el Refugio y la Casa de Emergencia, para contribuir al logro de su autonomía física, económica y política;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VIII. Promover, operar y vigilar las acciones necesarias para que el personal profesional que brinda atención integral y de protección a mujeres y niñas en situación de violencia de género en el Refugio, Casa de Emergencia y profesionales en derecho de la Secretaría de las Mujeres en las agencias del Ministerio Público ingresen la información necesaria para fortalecer la Red de Información de Violencia contra las Mujeres y del Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida, para conocer su situación de violencia y realizar las atenciones pertinentes a cada caso.
+V. Establecer vínculos institucionales de coordinación para proponer instrumentos jurídicos con entes públicos, privados, sociales, organismos internacionales e instituciones académicas, en materia de acceso a la justica y de derechos humanos de las mujeres y las niñas, igualdad de género, prevención, atención de los tipos y modalidades de violencia contra las mujeres y las niñas;
 
-IX. Establecer las actividades que deben realizar las diferentes áreas que integran la Dirección General para el Acceso a la Justicia y Espacios de Refugio, orientadas a dar respuesta oportuna y con la debida diligencia a las necesidades de las mujeres víctimas de violencia de género, que favorezcan su acceso a la justicia.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+VI. Colaborar de manera permanente con las autoridades encargadas de la procuración y administración de justicia; así como proponer, y en su caso, coadyuvar en la implementación de acciones para fortalecer el acceso a la justicia de mujeres y niñas en la Ciudad;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+VII. Gestionar y realizar las acciones necesarias para acceder al financiamiento público y privado con las instancias competentes federales y locales, las organizaciones sociales y las instituciones de asistencia pública y privada, dirigidas a mejorar las condiciones de atención integral, protección y acceso a la justicia de las mujeres y niñas en el Refugio y la Casa de Emergencia de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+VIII. Supervisar y vigilar que el personal que brinda atención integral y de protección a mujeres y niñas en situación de violencia de género dentro del Refugio, y la Casa de Emergencia de la Secretaría de las Mujeres de la Ciudad de México, ingrese la información necesaria para fortalecer la Red de Información de Violencia contra las Mujeres y el Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+IX. Coordinar las actividades para el acceso a la justicia y espacios de refugio, orientadas a dar respuesta oportuna y con la debida diligencia a las necesidades de las mujeres víctimas de violencia de género, favoreciendo su acceso a la justicia;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 X. Promover proyectos y programas en materia de acceso a la justicia y protección de las mujeres orientadas a fortalecer las políticas públicas de la Secretaría de las Mujeres.
 
-XI. Diseñar estrategias orientadas a coadyuvar con las autoridades ministeriales y judiciales de la Ciudad de México que favorezcan el acceso a la procuración e impartición de justicia de las mujeres y niñas víctimas de violencia de género.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XI. Colaborar en el diseño de estrategias orientadas a coadyuvar con las autoridades ministeriales y judiciales de la Ciudad, a fin de favorecer el acceso a la procuración e impartición de justicia de las mujeres y niñas víctimas de violencia de género;
 
-XII. Formular, celebrar y proponer instrumentos jurídicos con instituciones públicas, privadas, sociales, organismos internacionales, agencias multilaterales e instituciones académicas, en materia de atención y protección de las mujeres en todos los tipos y modalidades de violencia, de acuerdo a la legislación aplicable;
+XII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XIII. Participar en representación de la Secretaría de las Mujeres en actividades y eventos diversos, realizados por los entes públicos y dependencias del Gobierno de la Ciudad de México, la administración pública federal, gobiernos estatales o municipales, así como la sociedad civil y comunidad académica en temas relacionados con el derecho a las mujeres a una vida libre de violencia, a la protección y al acceso a la justicia con el fin (sic) promover y fomentar acciones que mejoren la condición social de las mujeres, así como hacia la eliminación de todas las formas de violencia y discriminación de las mujeres.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XIV. Fomentar la participación de la sociedad civil organizada, impulsando políticas públicas con perspectiva de género, destinadas a mejorar las condiciones de vida de las mujeres en todos los ámbitos;
+XIII. Mantener en el ámbito de sus atribuciones las políticas públicas con perspectiva de género, destinadas a la mejora del acceso a la justicia de las mujeres y niñas en situación de violencia de género, en todos los ámbitos de la sociedad civil;
 
-XV. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría que favorezcan, promuevan y reconozcan los derechos humanos de las mujeres y las niñas;
+XIV. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XVI. Elaborar informes sobre los resultados en el cumplimiento de los programas y acciones, objetivos y estrategias del Programa de Trabajo de la Secretaría de las Mujeres, en el ámbito de sus atribuciones;
+XV. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XVII. Proponer a la persona Titular de la Secretaría de las Mujeres, acuerdos y convenios con las autoridades de los distintos niveles de Gobierno y de otros entes públicos, privados, autónomos y de agencias multilaterales, orientados a mejorar el funcionamiento y operación del Refugio, de la Casa de Emergencia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVI. Elaborar en el ámbito de sus atribuciones, informes sobre los resultados en el cumplimiento de los programas y acciones, objetivos y estrategias del Programa de Trabajo de la Secretaría;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVII. Proponer a la persona Titular de la Secretaría, acuerdos y convenios con las autoridades de los distintos niveles de Gobierno y de otros entes públicos, privados, autónomos y de agencias multilaterales, orientados a mejorar el funcionamiento y operación del Refugio, y de la Casa de Emergencia de la Ciudad;
 
 XVIII. Administrar y aplicar los recursos que le sean asignados; y
 
-XIX. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría de las Mujeres.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIX. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría y/o la persona Titular de la Dirección General de Igualdad y Atención a la Violencia de Género, que favorezcan, promuevan y reconozcan los derechos humanos de las mujeres y las niñas.
 
 #### SECCIÓN I. DE LA SUBTESORERÍA DE ADMINISTRACIÓN TRIBUTARIA
 
@@ -11504,9 +11684,13 @@ Para el despacho de los asuntos que competen a la Agencia Digital de Innovación
 
 1. Titular de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE AGOSTO DE 2020)</small>
 
-2. Dirección Ejecutiva de Gestión de Proyectos;
+2. Dirección General de Operación Institucional;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 31 DE AGOSTO DE 2020)</small>
+
+2.1. Dirección Ejecutiva de Gestión y Control de Proyectos;
 
 3. (DEROGADO, G.O. 27 DE FEBRERO DE 2020)
 
@@ -11522,9 +11706,7 @@ Para el despacho de los asuntos que competen a la Agencia Digital de Innovación
 
 4.2. Dirección Ejecutiva de Arquitectura de Software;
 
-> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
-
-4.3. Dirección Ejecutiva de Gestión y Control de Desarrollo de Software.
+4.3. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 > <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -11540,9 +11722,9 @@ Para el despacho de los asuntos que competen a la Agencia Digital de Innovación
 
 7. Dirección General de Gobierno Digital, a la que se encuentran adscritas:
 
-> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
-7.1. Dirección Ejecutiva de Política de Datos;
+7.1. Dirección Ejecutiva de Inteligencia de Datos;
 
 > <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -11552,9 +11734,9 @@ Para el despacho de los asuntos que competen a la Agencia Digital de Innovación
 
 7.3. Dirección Ejecutiva de Gobierno Electrónico.
 
-> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
-8. Dirección General de Operación Institucional.
+8. Dirección General de Asuntos Jurídicos y Normatividad;
 
 > <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -11628,9 +11810,9 @@ XII. Diseñar y gestionar las plataformas de participación e incidencia ciudada
 
 XIII. Diseñar, gestionar y actualizar la Plataforma Única de Gestión de Trámites y Servicios de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XIV. Diseñar, implementar y gestionar el Identificador Digital Único, en coordinación con otros Entes Públicos Federales y de la Ciudad de México;
+XIV. Diseñar, implementar y gestionar el Autenticador Digital Único, en coordinación con otros Entes Públicos Federales y de la Ciudad;
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -11692,15 +11874,21 @@ XXVIII. Suscribir documentos relativos al ejercicio de sus atribuciones, así co
 
 XXIX. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 279 Bis.
 
-Corresponde a la Dirección Ejecutiva de Gestión de Proyectos:
+Corresponde a la Dirección General de Operación Institucional:
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 I. Apoyar a la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México en la organización, coordinación y supervisión del avance de las actividades para el desarrollo y, en su caso, la implementación de los productos generados por cada una de las áreas que integran la Agencia Digital de Innovación Pública de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 II. Coordinar el establecimiento y delimitación de los objetivos, así como evaluar el impacto y viabilidad de los proyectos desarrollados por la Agencia Digital de Innovación Pública de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 III. Establecer en el ámbito de su competencia las directrices y mecanismos de coordinación y colaboración con las diversas Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como con las instancias del ámbito Federal, Estatal o Municipal e Instituciones, Órganos u Organismos, Nacionales e Internacionales, Públicos y Privados, para el desarrollo y ejecución de los proyectos de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
@@ -11708,31 +11896,127 @@ III. Establecer en el ámbito de su competencia las directrices y mecanismos de 
 
 IV. Asignar a las Direcciones Generales y Ejecutivas que integran la Agencia Digital de Innovación Pública de la Ciudad de México, los proyectos de desarrollo de soluciones tecnológicas que soliciten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, que hubieren sido previamente autorizados;
 
-V. Coordinar e instrumentar el registro de los proyectos que desarrolle la Agencia Digital de Innovación Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VI. Asesorar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México que lo soliciten, respecto de sus proyectos que requieran el diseño y/o desarrollo de soluciones tecnológicas por parte de la Agencia Digital de Innovación Pública de la Ciudad de México;
+V. Coordinar y dar seguimiento a los proyectos que desarrolle la Agencia hasta su entrega y/o puesta en operación;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+VI. Colaborar en proyectos que requieran el diseño y/o desarrollo de soluciones tecnológicas por parte de la Agencia, de las Alcaldías, Dependencias, Órganos Desconcentrados o Entidades de la Administración Pública de la Ciudad que lo soliciten;
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 VII. Impulsar, coordinar y monitorear la estrategia de comunicación de la Agencia, conforme a los objetivos y mecanismos que establezca la persona Titular de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
+
 VIII. Coordinar la estrategia de comunicación interna y externa con la finalidad de divulgar, difundir y socializar los desarrollos y productos generados por la Agencia Digital de Innovación Pública de la Ciudad de México, por sí misma o en colaboración de terceros;
 
-IX. Organizar, coordinar y dar seguimiento a los acuerdos de las reuniones de trabajo internas y/o interinstitucionales, que se realicen para la recopilación de la información relacionada con el desarrollo de los productos de la Agencia Digital de Innovación Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+IX. Supervisar la organización, coordinación y seguimiento de los acuerdos de las reuniones de trabajo internas y/o interinstitucionales, que se realicen para la recopilación de la información relacionada con el desarrollo de los productos de la Agencia;
 
-X. Emitir los lineamientos administrativos internos con los que deberá cumplir la documentación de cada uno de los productos desarrollados por sus Unidades Administrativas, así como formular las directrices de los manuales técnicos con apoyo de la Dirección General de Operación Institucional de la Agencia Digital de Innovación Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+X. Emitir los lineamientos administrativos internos con los que deberá cumplir la documentación de cada uno de los productos desarrollados por sus Unidades Administrativas, así como formular las directrices de los manuales técnicos con apoyo de la Dirección General de Asuntos Jurídicos y Normatividad de la Agencia;
 
-XI Solicitar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, Instituciones, Órganos y Organizaciones, Nacionales e Internacionales, Públicas, Privadas y de la sociedad civil, información relacionada con los productos a desarrollar o generados por la Agencia Digital de Innovación Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+XI. Establecer los criterios de solicitud de información a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como a Instituciones, Órganos y Organizaciones, nacionales e internacionales, públicas, privadas y de la sociedad civil, relacionada con los productos a desarrollar por la Agencia;
 
-XII. Aprobar en coordinación con la Dirección General de Operación Institucional, la liberación de los sitios y aplicaciones móviles desarrolladas en ejercicio de las atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+XII. Aprobar en coordinación con la Dirección General de Asuntos Jurídicos y Normatividad, la liberación de los sitios y aplicaciones móviles desarrolladas en ejercicio de las atribuciones de la Agencia para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad;
 
-XIII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIII. Diseñar e implementar la estrategia de aseguramiento de calidad en el desarrollo de sus productos tecnológicos;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIV. Coordinar y/o dirigir los trabajos de implementación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XV. Establecer criterios para la identificación, categorización, evaluación, selección y/o priorización para la administración del portafolio de proyectos tecnológicos transversales de la Administración Pública de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVI. Colaborar en el establecimiento de los lineamientos para el otorgamiento de licencias de desarrollos de software realizados por la Agencia;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVII. Coordinar el diseño e implementación de la política de Gobierno Abierto del Gobierno de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVIII. Supervisar, en el ámbito de sus atribuciones y en coordinación con las instancias competentes, el diseño, implementación y difusión de las soluciones digitales que den cumplimiento a las disposiciones del Sistema Nacional Anticorrupción, del Sistema Anticorrupción de la Ciudad de México y de los compromisos de Gobierno Abierto, de conformidad con las leyes y la normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIX. Coordinar la promoción e implementación de políticas de transparencia proactiva en la Administración Pública de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XX. Coordinar el diseño, actualización y administración de herramientas de interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México con la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia para el cumplimiento de las obligaciones de transparencia, y la publicación de la información contenida en las mismas conforme a la normatividad aplicable; así como elaborar los lineamientos, reglas de operación, manuales de usuario y/o guías, necesarios para su adopción;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XXI. Coadyuvar en la generación de lineamientos, manuales de usuario, criterios técnicos, metodologías, guías, instructivos o demás instrumentos análogos, en coordinación con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad para diseñar e implementar plataformas tecnológicas, en relación a la rendición de cuentas;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XXII. Colaborar con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad en la implementación de herramientas que contribuyan al cumplimiento de los lineamientos del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en materia de transparencia focalizada;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XXIII. Diseñar e implementar proyectos, estudios y programas permanentes de transparencia y acceso a la información en coordinación con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XXIV. Supervisar el diseño de información, de las interfaces de las soluciones tecnológicas y el contenido gráfico de los productos y proyectos que la Agencia desarrolle;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XXV. Coordinar la valoración de las necesidades de los proyectos a desarrollar en el diseño de estructuras de flujo de procesos claros, lógicos y funcionales;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XXVI. Suscribir documentos relativos al ejercicio de sus atribuciones, así como dictámenes, justificaciones, acuerdos, convenios y demás actos jurídicos relacionados con sus atribuciones; y
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XXVII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad y/o de la Agencia.
+
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+###### Artículo 279 Ter.
+
+Corresponde a la Dirección Ejecutiva de Gestión y Control de Proyectos:
+
+I. Coadyuvar en proyectos que requieran el diseño y/o desarrollo de soluciones tecnológicas por parte de la Agencia, de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad que lo soliciten;
+
+II. Organizar, coordinar y dar seguimiento a los acuerdos de las reuniones de trabajo internas y/o interinstitucionales que se realicen para la recopilación de la información relacionada con el desarrollo de los productos de la Agencia;
+
+III. Solicitar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, así como a Instituciones, Órganos y Organizaciones, nacionales e internacionales, públicas, privadas y de la sociedad civil, información relacionada con los productos a desarrollar o generados por la Agencia;
+
+IV. Colaborar en la liberación de los sitios y aplicaciones móviles desarrolladas en ejercicio de las atribuciones de la Agencia, para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad;
+
+V. Participar en la gestión y seguimiento de los proyectos que desarrolle la Agencia, hasta su entrega y/o puesta en operación;
+
+VI. Llevar en el ámbito de sus atribuciones, el control y gestión de las actividades para el desarrollo de proyectos atendiendo a las necesidades de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, en coordinación con la Dirección General de Operación Tecnológica;
+
+VII. Gestionar la implementación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad;
+
+VIII. Atender y analizar en el ámbito de sus atribuciones, en coordinación con la Dirección General de Operación Tecnológica, las solicitudes de desarrollo de soluciones tecnológicas, que sean requeridas por las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad; así como gestionar la entrega de las mismas utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
+
+IX. Colaborar en el diseño de las interfaces de las soluciones tecnológicas que la Agencia desarrolle, de acuerdo con una experiencia de usuario que contribuya a mejorar la interacción entre la ciudadanía y el Gobierno de la Ciudad;
+
+X. Coadyuvar en el diseño de información y del contenido gráfico de los proyectos y productos de la Agencia;
+
+XI. Coadyuvar en la coordinación de la valoración de las necesidades de los proyectos a desarrollar en el diseño de estructuras de flujo de procesos claros, lógicos y funcionales; y
+
+XII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad, de la Agencia y/o de la Dirección General de Operación Institucional.
 
 ###### Artículo 280.
 
@@ -11752,9 +12036,7 @@ I. Ejecutar el desarrollo de soluciones tecnológicas para la Ciudad de México;
 
 II. Desarrollar y/o acompañar en el desarrollo, en la medida de sus capacidades y prioridades, soluciones tecnológicas para Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-III. Diseñar e implementar la estrategia de aseguramiento de calidad en el desarrollo de sus productos tecnológicos;
+III. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -11766,17 +12048,13 @@ V. Dirigir la entrega y soporte oportuno de servicios tecnológicos de informaci
 
 VI. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
-> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
+VII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-VII Coordinar y/o dirigir los trabajos de implementación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad de México;
+VIII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VIII. Coordinar y/o dirigir los trabajos de implantación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
-
-IX. Diseñar, desarrollar y administrar en coordinación con la Dirección General de Gobierno Digital y la Dirección General de Operación Institucional, las herramientas tecnológicas para la implementación de mejora regulatoria y simplificación administrativa para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+IX. Diseñar, desarrollar y administrar en coordinación con la Dirección General de Gobierno Digital y la Dirección General de Asuntos Jurídicos y Normatividad, las herramientas tecnológicas para la implementación de mejora regulatoria y simplificación administrativa para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad;
 
 X. (DEROGADA, G.O. 27 DE FEBRERO DE 2020)
 
@@ -11794,13 +12072,17 @@ XIII. Coordinar el diseño e implementación de la política de formación de ha
 
 XIV. Otorgar licencias de desarrollos de software realizados por la Agencia Digital de Innovación Pública de la Ciudad de México, así como establecer lineamientos para el desarrollo y actividades inherentes del software en comento;
 
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XV. Emitir las opiniones técnicas requeridas por la Dirección General de Operación Institucional en los procedimientos de dictaminación técnica; y
+XV. Emitir las opiniones técnicas requeridas por la Dirección General de Asuntos Jurídicos y Normatividad en los procedimientos de dictaminación técnica;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVI. Diseñar, implementar y supervisar la política de gobernanza tecnológica de la Administración Pública de la Ciudad de México a que se refiere la Ley de Operación e Innovación Digital para la Ciudad de México; y
 
 > <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
-XVI. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
+XVII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -11836,7 +12118,7 @@ I. Participar en el desarrollo y acompañamiento, en la medida de sus capacidade
 
 II. Coadyuvar en la definición de los lineamientos para el desarrollo de software atendiendo a las necesidades de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-III. Participar en el diseño e implementación de la estrategia de calidad en el desarrollo de productos tecnológicos para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+III. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
 IV. Participar en la medida de sus posibilidades, y cuando así lo soliciten las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en el diseño e implementación de las estrategias de seguridad de los sistemas informáticos, para la protección de la integridad de la información contenida en los mismos;
 
@@ -11848,33 +12130,23 @@ VII Colaborar en la realización de los trabajos de implementación de sistemas 
 
 VIII. Promover la reutilización y acceso abierto de soluciones tecnológicas de software a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-IX. Realizar, por sí misma o con la colaboración de terceros del sector público y/o privado, nacionales y/o internacionales, estudios en materia de desarrollo de software que permitan el cumplimiento de las atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México en la materia; y
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-X. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Operación Tecnológica.
+IX. Realizar por sí misma o con la colaboración de terceros del sector público y/o privado, nacionales y/o internacionales, estudios en materia de desarrollo de software que permitan el cumplimiento de las atribuciones de la Agencia en la materia;
 
-> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+X. Proponer al Director General de Operación Tecnológica el diseño e implementación de la política de formación de habilidades digitales en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XI. Gestionar la entrega, atender y analizar las solicitudes de soporte técnico para los servicios tecnológicos de información y comunicaciones interdependenciales realizadas por las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad, utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información; y
+
+XII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Operación Tecnológica.
 
 ###### Artículo 281 Quater.
 
-Corresponde a la Dirección Ejecutiva de Gestión y Control de Desarrollo de Software:
-
-I. Coadyuvar en el ámbito de sus atribuciones, en el establecimiento de criterios para la identificación, categorización, evaluación, selección y/o priorización para la administración del portafolio de proyectos tecnológicos transversales de la Administración Pública de la Ciudad de México;
-
-II. Llevar a cabo el control y gestión de las actividades para el desarrollo de software atendiendo a las necesidades de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, conforme a los lineamientos establecidos por la Dirección General de Operación Tecnológica;
-
-III. Gestionar la implementación de sistemas de información, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública de la Ciudad de México;
-
-IV. Gestionar la entrega, atender y analizar las solicitudes de soporte técnico para los servicios tecnológicos de información y comunicaciones interdependenciales realizadas por las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
-
-V. Atender y analizar en el ámbito de sus atribuciones las solicitudes de desarrollo de soluciones tecnológicas, que sean requeridas por las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, así como gestionar la entrega y brindar soporte técnico de las mismas utilizando estándares internacionales de calidad en el servicio, disponibilidad, capacidad, continuidad y seguridad de la información;
-
-VI. Participar en la implementación de la estrategia de aseguramiento de calidad en el desarrollo de sus productos tecnológicos;
-
-VII Proponer al Director General de Operación Tecnológica el diseño e implementación de la política de formación de habilidades digitales en la Ciudad de México;
-
-VIII. Colaborar en coordinación con la Dirección General de Operación Institucional en los lineamientos para el otorgamiento de licencias de desarrollos de software realizados por la Agencia Digital de Innovación Pública de la Ciudad de México; y
-
-IX. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Operación Tecnológica.
+(DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -11970,9 +12242,9 @@ XXI. Administrar, aprovechar y gestionar las redes, en el ámbito de su competen
 
 XXII. Establecer políticas en el ámbito de su competencia, vinculadas con el despliegue público y privado de infraestructura en telecomunicaciones, incluyendo las relacionadas con el otorgamiento de permisos, conforme a las atribuciones establecidas en las leyes aplicables;
 
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XXIII. Emitir las opiniones técnicas que, en su caso, requiera la Dirección General de Operación Institucional en los procedimientos de dictaminación Técnica, en el supuesto de que las solicitudes correspondientes contengan elementos que involucren aspectos relacionados con servicios de conectividad y/o telecomunicaciones;
+XXIII. Emitir las opiniones técnicas que, en su caso, requiera la Dirección General de Asuntos Jurídicos y Normatividad en los procedimientos de dictaminación Técnica, en el supuesto de que las solicitudes correspondientes contengan elementos que involucren aspectos relacionados con servicios de conectividad y/o telecomunicaciones;
 
 > <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -12076,21 +12348,21 @@ VIII. Coordinar y administrar la operación de los sistemas de información de l
 
 IX. Coordinar el uso estratégico de la información para la planeación, la evaluación, la toma de decisiones, la colaboración, el aprendizaje y la profesionalización de la función pública en materia de simplificación administrativa y digitalización de trámites y servicios;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-X. Generar una infraestructura de datos consumibles para la Ciudad de México que integre toda la información generada por todas las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+X. Coordinar la creación, integración y mantenimiento de una infraestructura basada en un repositorio central de datos generados por las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, que sea consumible para cualquier aplicación que opere o funcione en dicha infraestructura;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XI. Diseñar y operar el riel de interoperabilidad de la Ciudad de México;
+XI. Supervisar el diseño y la operación del riel de interoperabilidad de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 XII. Fungir como autoridad en materia de Firma Electrónica de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-XIII. Diseñar e implementar el Identificador Digital Único a que se refiere la Ley de Operación e Innovación Digital para la Ciudad de México;
+XIII. Colaborar en el diseño e implementación del Autenticador Digital Único a que se refiere la Ley de Ciudadanía Digital de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -12134,21 +12406,13 @@ XXIV. Gestionar, en el ámbito de su competencia, el desarrollo, actualización 
 
 XXV. Gestionar el desarrollo, actualización y administración de un sistema de monitoreo ciudadano de las contrataciones y el gasto público, así como impulsar el uso de la información pública relativa a contrataciones públicas, transparencia presupuestaria, ingresos, egresos y deuda pública de la Administración Pública de la Ciudad de México por parte de la ciudadanía, en coordinación y colaboración con las instancias competentes, respetando en todo momento las excepciones a la transparencia que refieren las leyes en la materia;
 
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+XXVI. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XXVI. Coordinar el diseño e implementación de la política de Gobierno Abierto del Gobierno de la Ciudad de México;
+XXVII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+XXVIII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XXVII. Supervisar, en el ámbito de sus atribuciones y en coordinación con las instancias competentes, el diseño, implementación y difusión de las soluciones digitales que den cumplimiento a las disposiciones del Sistema Nacional Anticorrupción, del Sistema Anticorrupción de la Ciudad de México y de los compromisos de Gobierno Abierto, de conformidad con las leyes y la normatividad aplicable;
-
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
-
-XXVIII. Coordinar la promoción e implementación de políticas de transparencia proactiva en la Administración Pública de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
-
-XXIX. Coordinar el diseño, actualización y administración de herramientas de interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México con la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia para el cumplimiento de las obligaciones de transparencia, así como la publicación de la información contenida en las mismas conforme a la normatividad aplicable;
+XXIX. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
 > <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -12166,35 +12430,63 @@ XXXII. Supervisar, en el ámbito de su competencia, la integración, administrac
 
 XXXIII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México y/o de la Agencia Digital de Innovación Pública de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 284 Bis.
 
-Dirección Ejecutiva de Política de Datos:
+Corresponde a la Dirección Ejecutiva de Inteligencia de Datos:
+
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
 
 I. Colaborar en el diseño de la política de gestión de datos de la Ciudad de México, así como elaborar los criterios, estándares técnicos, lineamientos, manuales y demás normatividad necesaria en la materia, para el cumplimiento de los objetivos y atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2020)</small>
+
 II. Solicitar las bases de datos y sistemas de información de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, con el objetivo de integrar el Sistema Unificado de Información, de conformidad con las leyes y normatividad aplicable;
 
-III. Diseñar e implementar la política de Gobierno Abierto del Gobierno de la Ciudad de México;
+III. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-IV. Desarrollar los mecanismos de coordinación y participación ciudadana necesarios para la generación e implementación de la política de Gobierno Abierto de la Ciudad de México;
+IV. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-V. Coadyuvar con el diseño, coordinación, publicación, implementación y difusión de las soluciones digitales que den cumplimiento a las disposiciones del Sistema Nacional Anticorrupción, del Sistema Anticorrupción de la Ciudad de México y de los compromisos de Gobierno Abierto, de conformidad con la normatividad respectiva;
+V. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-VI. Promover e implementar políticas de transparencia proactiva en la Administración Pública de la Ciudad de México;
+VI. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-VII. Generar lineamientos, reglas de operación, manuales de usuario, criterios técnicos, metodologías, guías, instructivos o demás instrumentos análogos, en coordinación con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México para diseñar e implementar proyectos, estudios y programas permanentes de rendición de cuentas;
+VII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-VIII. Elaborar lineamientos, reglas de operación, manuales de usuario y/o guías, conforme a la normatividad aplicable, para la adopción de herramientas para la interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, y la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia mediante los mecanismos de colaboración correspondientes;
+VIII. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-IX. Colaborar con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México en la implementación de herramientas que contribuyan al cumplimiento de los lineamientos del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en materia de transparencia focalizada;
+IX. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-X. Gestionar el desarrollo, actualización y administración de herramientas de interoperabilidad entre los sistemas de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México con la Plataforma Nacional de Transparencia y la Plataforma Local de Transparencia, para el cumplimiento de las obligaciones de transparencia, así como la publicación de la información contenida en las mismas conforme a la normatividad aplicable;
+X. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XI. Diseñar e implementar proyectos, estudios y programas permanentes de transparencia y acceso a la información en coordinación con las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México; y
+XI. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
-XII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Gobierno Digital.
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XII. Aprobar la metodología de investigación más adecuada para la selección de información, así como las herramientas diseñadas para el análisis de datos que sirvan como insumo para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en la toma de decisiones de las políticas públicas, y para la evaluación del impacto de las mismas;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIII. Coadyuvar en la elaboración de propuestas y análisis de políticas públicas basadas en evidencia a partir de los datos que la Agencia Digital de Innovación Pública de la Ciudad de México obtenga de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México para difusión pública o consumo interno, según sea el caso;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XIV. Colaborar en la creación de una infraestructura de datos consumibles para la Ciudad de México, que administre la integración de la totalidad de los datos generados por todas las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, con los estándares correspondientes de calidad y seguridad de los mismos, así como de su mantenimiento;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XV. Diseñar y operar el riel de interoperabilidad de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVI. Supervisar y validar el diseño de los ambientes de producción y análisis de datos de la Dirección General de Gobierno Digital, así como las gestiones para su implementación;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVII. Colaborar en el diseño de los formatos y protocolos de intercambio de datos para la explotación por parte de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México requirentes, conforme a sus facultades y a la naturaleza de los datos; y
+
+XVIII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Gobierno Digital.
 
 > <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -12210,7 +12502,9 @@ III. Operar y definir el contenido del Registro Electrónico de Trámites y Serv
 
 IV. Establecer programas de capacitación y actualización en materia de trámites, y servicios con el fin de ofrecer una atención accesible, confiable y de calidad a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-V. Elaborar y proponer a la persona Titular de la Dirección General de Operación Institucional, los manuales y lineamientos necesarios para la implementación de la simplificación administrativa en la Ciudad de México;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+V. Elaborar y proponer a la persona Titular de la Dirección General de Asuntos Jurídicos y Normatividad, los manuales y lineamientos necesarios para la implementación de la simplificación administrativa en la Ciudad de México;
 
 VI. Autorizar la inscripción, actualización, modificación o baja en el Registro Electrónico de Trámites y Servicios de la Ciudad de México a cargo de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
@@ -12236,9 +12530,13 @@ II. Coadyuvar en la implementación de estrategias innovadoras integrales que fa
 
 III. Participar en la elaboración de las propuestas de digitalización de trámites y servicios a cargo de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para ser sometida a la aprobación de la persona Titular de la Dirección General de Gobierno Digital;
 
-IV. Realizar las acciones necesarias para la implementación de la firma electrónica en la Ciudad de México, así como para impulsar la disponibilidad de los servicios de certificación, en coordinación con las instancias competentes;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-V. Coadyuvar en la implementación del Autenticador Digital Único a que se refiere la Ley de Operación e Innovación Digital para la Ciudad de México;
+IV. Participar en las acciones necesarias para la implementación de la firma electrónica en la Ciudad de México, así como para impulsar la disponibilidad de los servicios de certificación, en coordinación con las instancias competentes;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+V. Coadyuvar en la implementación del Autenticador Digital Único a que se refiere la Ley de Ciudadanía Digital de la Ciudad de México;
 
 VI. Coadyuvar en el diseño de la estrategia de Gobierno Digital para la Administración Pública de la Ciudad de México, en atención a los programas de mejora regulatoria y simplificación administrativa;
 
@@ -12260,23 +12558,23 @@ XIV. Coadyuvar en el diseño, coordinación e implementación de soluciones digi
 
 XV. Cooperar en el diseño, coordinación e implementación de soluciones tecnológicas para dar cumplimiento a las obligaciones de transparencia y anticorrupción, tanto en materia de presupuesto y gasto público, como de contrataciones públicas;
 
-XVI. Diseñar y coordinar la estrategia de implementación del inicio de sesión único en los sistemas de la Administración Pública de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
+XVI. Diseñar y dar seguimiento a la estrategia de implementación del inicio de sesión único en los sistemas de la Administración Pública de la Ciudad de México; y
 
 XVII. Las demás que le confieran las leyes y otros ordenamientos jurídicos y/o administrativos, o que le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México, de la Agencia Digital de Innovación Pública de la Ciudad de México y/o de la Dirección General de Gobierno Digital.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 285.
 
-Corresponde a la Dirección General de Operación Institucional:
+Corresponde a la Dirección General de Asuntos Jurídicos y Normatividad:
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 I. Realizar propuestas normativas en materia de gestión de datos, gobierno abierto, gobierno digital, gobernanza tecnológica, gobernanza de la conectividad y gestión de la infraestructura en la Ciudad de México en coordinación con las demás Unidades Administrativas de la Agencia Digital de Innovación de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-II. Diseñar, implementar y supervisar la política de gobernanza tecnológica de la Administración Pública de la Ciudad de México a que se refiere la Ley de Operación e Innovación Digital para la Ciudad de México;
+II. (DEROGADA, G.O. 31 DE AGOSTO DE 2020)
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -12296,13 +12594,13 @@ VI. Establecer y coordinar los vínculos interinstitucionales con las Alcaldías
 
 VII. Coordinar la participación de instituciones públicas y/o privadas en la realización de proyectos de Tecnologías de la Información y Comunicaciones;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-VIII. Dictaminar técnicamente la adquisición de Tecnologías de la Información y Comunicaciones que realicen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Ciudad de México;
+VIII. Coordinar la atención de las solicitudes de dictaminación técnica de la adquisición de Tecnologías de la Información y Comunicaciones que realicen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
-IX. Aprobar en coordinación con la Dirección Ejecutiva de Gestión de Proyectos la liberación de los sitios y aplicaciones móviles desarrolladas en ejercicio de las atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+IX. Aprobar en coordinación con la Dirección General de Operación Institucional la liberación de los sitios y aplicaciones móviles desarrolladas en ejercicio de las atribuciones de la Agencia Digital de Innovación Pública de la Ciudad de México para las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
 
@@ -14543,3 +14841,13 @@ G.O. 31 DE JULIO DE 2020.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de agosto de 2020
+
+G.O. 31 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto surtirá efectos a partir del día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
