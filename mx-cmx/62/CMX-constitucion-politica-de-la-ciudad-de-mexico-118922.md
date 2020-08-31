@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2019-12-10"
+last_updated: "2020-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 2020.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -548,7 +548,15 @@ g) Promoción de mecanismos de conciliación entre trabajo y familia, incluyendo
 
 9. Las autoridades, en el ámbito de sus competencias, garantizarán el derecho al acceso a la información pública en materia laboral que obre en su poder.
 
-10. Las autoridades en el ámbito de sus competencias garantizarán una justicia laboral honesta, imparcial y profesional, pronta y expedita, pública y gratuita que incluya los servicios de conciliación y mediación.
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+10. Las autoridades administrativas y el Poder Judicial de la Ciudad de México, en el ámbito de sus competencias, garantizarán una justicia laboral honesta, imparcial, profesional, pronta, expedita, pública y gratuita, que incluya los servicios de conciliación y mediación.
+
+Antes de acudir a los tribunales laborales, las personas trabajadoras y patronas deberán comparecer a la instancia conciliatoria correspondiente. En la Ciudad de México, la función conciliatoria estará a cargo de un Centro de Conciliación, especializado e imparcial. Será un organismo público descentralizado del Gobierno de la Ciudad de México con personalidad jurídica y patrimonio propio con autonomía técnica, operativa, presupuestaria, de decisión y de gestión.
+
+Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración, funcionamiento, sectorización y atribuciones, se determinarán en su ley correspondiente.
+
+La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada para su ejecución. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto.
 
 11. Las autoridades impulsarán la constitución y funcionamiento de cooperativas de las personas trabajadoras y otras formas de organización productiva del sector social de la economía, que contribuyan al desarrollo económico de la Ciudad y el mejoramiento de las condiciones de vida de sus habitantes.
 
@@ -562,7 +570,9 @@ La ley determinará los mecanismos para un proceso gradual de regularización, f
 
 14. Las autoridades de la Ciudad, en el ámbito de sus competencias y de conformidad con lo previsto por la ley protegerán los derechos laborales de las personas deportistas profesionales, de disciplinas artísticas, trabajadoras de la cultura y locatarios de mercados públicos.
 
-C. De las relaciones de las instituciones públicas de la Ciudad con sus trabajadores
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE AGOSTO DE 2020)</small>
+
+C. De las relaciones de las instituciones públicas de la Ciudad, con sus personas trabajadoras.
 
 1. Las personas trabajadoras que presten sus servicios en los poderes Legislativo, Ejecutivo y Judicial de la Ciudad, en los organismos autónomos y en las alcaldías, tienen derecho a la plena libertad de asociación sindical, tanto en sindicatos como en federaciones según convenga a sus intereses, en el marco de un modelo democrático que permita el pleno ejercicio de los derechos y el cumplimiento de las obligaciones en la materia. Se garantizará el voto libre, universal y secreto para la elección de los dirigentes sindicales y de los representantes y delegados en los términos que fije la ley.
 
@@ -580,7 +590,9 @@ C. De las relaciones de las instituciones públicas de la Ciudad con sus trabaja
 
 8. Se garantizará que por cada cinco días de trabajo deberán disfrutarse de dos días de descanso.
 
-9. Los conflictos laborales que se presenten entre las instituciones públicas de la Ciudad y sus trabajadores, así como los conflictos internos sindicales y los intersindicales, serán dirimidos por el Tribunal Local de Conciliación y Arbitraje, en los términos establecidos por la ley.
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+9. Los conflictos laborales que se presenten entre las instituciones públicas de la Ciudad y sus personas trabajadoras, así como aquellos que se presenten entre organizaciones sindicales o al interior de estas, serán dirimidos por un Tribunal Burocrático en los términos establecidos por la ley.
 
 10. El Gobierno de la Ciudad será garante y responsable de todos los derechos de las personas trabajadoras del poder Ejecutivo y de sus alcaldías.
 
@@ -2012,7 +2024,9 @@ f) No tener mando en instituciones militares o policiales, a menos que se separe
 
 g) No ejercer una magistratura de Circuito o ser Juez de Distrito en la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;
 
-h) No ejercer una magistratura en el Poder Judicial, el Tribunal de Justicia Administrativa ni ser integrante del Consejo de la Judicatura de la Ciudad de México, ni del Tribunal Local de Conciliación y Arbitraje, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+h) No ejercer una magistratura en el Poder Judicial, el Tribunal de Justicia Administrativa ni ser integrante del Consejo de la Judicatura de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;
 
 i) No ser legislador local o federal, ni ser titular o concejal de una alcaldía, dependencia, unidad administrativa, órgano desconcentrado, organismo autónomo o entidad paraestatal de la Administración Pública de la Ciudad de México o de la Fiscalía General de Justicia de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones al menos 180 días antes de la jornada electoral local correspondiente;
 
@@ -2368,11 +2382,19 @@ Tribunal Electoral de la Ciudad de México
 
 5. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y en materia de participación ciudadana, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y a los procesos de participación ciudadana y garantizará la protección de los derechos político-electorales de las y los ciudadanos.
 
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
 Artículo 39
 
-Tribunal Local de Conciliación y Arbitraje
+Sistema de Justicia Laboral
 
-La Ciudad de México contará con un Tribunal de Conciliación y Arbitraje encargado de dirimir los conflictos laborales que se presenten entre la Ciudad de México y las personas trabajadoras a su servicio, respecto de los cuales no exista régimen especial. Dirimirá también los conflictos internos sindicales y los intersindicales. La ley determinará su organización y funcionamiento, en los términos de lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+El Sistema de Justicia Laboral se integrará de la siguiente forma:
+
+A. Juzgados Laborales que estarán adscritos al Poder Judicial de la Ciudad de México, conocerán de los conflictos entre el capital y el trabajo, de conformidad con lo establecido en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
+
+B. Tribunal Burocrático, que dirimirán los conflictos individuales y colectivos, que se presenten entre las instituciones públicas de la Ciudad de México y las personas trabajadoras a su servicio, respecto de los cuales no exista régimen especial, así como aquellos que se presenten entre organizaciones sindicales o al interior de estas.
+
+La ley determinará su organización, funcionamiento y naturaleza jurídica en los términos de lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
 Artículo 40
 
@@ -4020,9 +4042,17 @@ Los procedimientos del Consejo de la Judicatura iniciados antes del 17 de septie
 
 El Tribunal Superior de Justicia designará a las y los integrantes de la Sala Constitucional a más tardar el 1 de diciembre de 2019. La Sala Constitucional se instalará al día siguiente.
 
-> <small>(REFORMADO, G.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE AGOSTO DE 2020)</small>
 
-El Consejo de la Judicatura deberá instalar juzgados tutelares en cada una de las alcaldías, mismos que deberán entrar en funcionamiento a más tardar el 31 de julio de 2020.
+A más tardar, al 30 de septiembre de 2020, deberán entrar en funcionamiento por lo menos dos juzgados tutelares en igual número de alcaldías.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE AGOSTO DE 2020)</small>
+
+A partir del año 2021, el Consejo de la Judicatura, deberá instalar anualmente, un juzgado Tutelar en al menos cuatro alcaldías de la Ciudad; hasta que cada una de las dieciséis alcaldías cuente con un juzgado.
+
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+El Consejo de la Judicatura, deberá realizar las acciones administrativas y presupuestales necesarias para la instalación progresiva de los juzgados señalados en los párrafos anteriores. En la aprobación de su Presupuesto de Egresos, el Congreso de la Ciudad de México, tomará las previsiones necesarias para tal fin.
 
 La competencia de dichos juzgados, así como el procedimiento que deberá seguirse ante éstos para el ejercicio de las acciones de protección efectiva de derechos, se regularán en la Ley Orgánica del Poder Judicial.
 
@@ -4032,7 +4062,9 @@ Para tal efecto, en el Presupuesto de Egresos de 2019, el Congreso de la Ciudad 
 
 VIGÉSIMO CUARTO.- En los casos en que deba instalarse un nuevo organismo público creado por esta Constitución, los recursos necesarios para su funcionamiento deberán preverse en el proyecto de Presupuesto de Egresos anterior al año en que inicie sus funciones.
 
-VIGÉSIMO QUINTO.- El Congreso de la Ciudad de México deberá expedir la legislación que regule las relaciones laborales entre los entes públicos de la Ciudad de México y sus trabajadores a más tardar el 31 de julio de 2020.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+
+VIGÉSIMO QUINTO.- El Congreso de la Ciudad de México, deberá expedir a más tardar el 15 de diciembre de 2021, la Ley del Centro de Conciliación Laboral y la Ley que Regula las Relaciones Laborales de la Ciudad de México y sus Personas Trabajadoras; dentro del mismo plazo, deberá armonizar, la Ley Orgánica del Poder Judicial de la Ciudad de México y la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
 En tanto el Congreso expide la legislación a que se refiere el párrafo anterior, las relaciones laborales entre la Ciudad de México y sus trabajadores que hasta antes de la entrada en vigor de esta Constitución se hubieren regido por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, continuarán normándose por dicha Ley.
 
@@ -4183,3 +4215,23 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 31 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN: LOS ARTÍCULOS 10, APARTADO B, NUMERAL 10 Y APARTADO C, NUMERAL 9; 32, APARTADO B, INCISO H), 39 Y VIGÉSIMO QUINTO TRANSITORIO, TODOS DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación, en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Las autoridades competentes de la Ciudad de México deberán realizar las acciones necesarias para que el Centro de Conciliación Laboral de la Ciudad de México y los Juzgados Laborales, inicien actividades en la misma fecha, teniendo como plazo máximo, el mes de diciembre de 2022.
+
+TERCERO. Remítase a la Jefa de Gobierno para sus efectos legales correspondientes.
+
+G.O. 31 DE AGOSTO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Remítase a la Jefa de Gobierno para sus efectos legales correspondientes.
