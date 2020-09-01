@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2020-03-27"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -2533,97 +2533,15 @@ Los particulares no podrán realizar una actividad distinta a la autorizada en l
 
 ### CAPITULO II. De las Actividades Comerciales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
 ###### ARTICULO 252.
 
-El ejercicio del comercio se regirá fundamentalmente en las leyes y reglamentos de la materia y bajo las siguientes condiciones:
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
-
-I. Todos los establecimientos comerciales en el municipio tendrán derecho a abrir al público de lunes a domingo de las 05:00 a las 23:00 horas en forma ininterrumpida, salvo las excepciones que contempla el presente Apartado;
-
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
-
-II.- La Secretaría de Desarrollo Económico Planeación Urbana y Ecología podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo pago de los derechos correspondientes, con la anuencia por escrito, fundada y motivada, del Delegado Municipal que corresponda y de la Comisión de Desarrollo Agropecuario y Económico, atendiendo al impacto social que se genere en la zona, la ubicación del establecimiento en donde se verificará que se encuentre en áreas comerciales, en vialidades de fácil acceso, con la debida iluminación a las horas que se requiera, en los siguientes casos:
-
-a) Podrán otorgarse en ventas nocturnas o promocionales;
-
-b) En giros con venta de bebidas alcohólicas en envase cerrado, sólo se podrán otorgar hasta un máximo de dos horas.
-
-III. Inmediatamente después de la hora permitida, los establecimientos deberán cerrar completamente sin que permanezca público en su interior;
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
-
-IV. Cuando en algún establecimiento vendan artículos comprendidos en diversos horarios, el propietario hará la aclaración correspondiente a la autoridad municipal, a fin de que en la licencia que se expide se haga la anotación respectiva y se le señale el horario que le corresponda;
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
-
-V. La autoridad municipal tendrá la facultad de fijar el horario a los establecimientos no señalados en este apartado, y
-
-> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2020)</small>
-
-VI. En caso de Declaratoria de Emergencia, Desastre o Contingencia, el Consejo Municipal de Protección Civil determinará las medidas, restricciones, aforos, suspensiones, infracciones, acciones y sanciones que se estimen procedentes para el ejercicio del comercio, profesión, industria, espectáculos y diversiones.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN EL MUNICIPIO DE QUERÉTARO, P.O. 1 DE SEPTIEMBRE DE 2020)
 
 ###### ARTICULO 253.
 
-Quedan exceptuados del horario indicado en la fracción I del artículo anterior y se sujetarán al horario que se indica, los establecimientos siguientes:
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN EL MUNICIPIO DE QUERÉTARO, P.O. 1 DE SEPTIEMBRE DE 2020)
 
-I. Las 24 horas del día, de lunes a domingo: agencias de inhumaciones, farmacias, expendios de gasolina, gas LP para vehículos automotores, así como estacionamientos, autolavados, gimnasios, industrias, paqueterías y mensajerías, hoteles, sanatorios, consultorios médicos, clínicas médicas, hospitales y tiendas de autoservicio, sin venta de bebidas alcohólicas. Los establecimientos con actividad de autolavado y gimnasio que deseen funcionar en horario de 24 horas, deberán contar con visto bueno de la Delegación Municipal correspondiente para obtener la Licencia Municipal de Funcionamiento;
-
-II. Las boticas, farmacias y droguerías elaborarán un rol de guardias nocturnas que deberán cumplir, así como para los días festivos, de acuerdo con la Dirección de Salud del Estado de Querétaro y el Municipio de Querétaro, a través de la Secretaría de Desarrollo Sostenible;
-
-III. Tiendas de conveniencia, de las 05:00 a las 24:00 horas, de lunes a domingo;
-
-IV. Molinos de nixtamal, de las 05:00 a las 19:00 horas, de lunes a domingo;
-
-V. Máquinas de videojuegos, que operan en lugares destinados exclusivamente para tal efecto, de las 10:00 a las 21:00 horas, de lunes a domingo;
-
-VI. Pastelerías con servicio de mesa, cenadurías, torterías, loncherías, taquerías, fondas, pizzerías, restaurantes; de las 06:00 a las 03:00 horas del día siguiente, de lunes a domingo;
-
-VII. Mercados municipales y balnearios, de las 06:00 a las 20:00 horas, de lunes a domingo;
-
-VIII. Centrales de abasto, de las 04:00 a las 20:00 horas, de lunes a domingo;
-
-IX. Boliches, teatros y cines, de las 09:00 a las 02:00 horas del día siguiente, de lunes a domingo;
-
-X. Salones de fiesta y banquetes, de las 08:00 a las 03:00 horas del día siguiente, de lunes a domingo;
-
-XI. Salones de fiestas infantiles, de las 08:00 a las 21:00 horas, de lunes a domingo;
-
-XII. Centros nocturnos, discotecas, café cantante y peñas, de las 18:00 a las 03:00 horas del día siguiente, de lunes a sábado. Los días domingo de 12:00 a 22:00 horas;
-
-XIII. Bares y billares, de las 12:00 a las 03:00 horas del día siguiente, de lunes a sábado. Los días domingo de 12:00 a 22:00 horas;
-
-XIV. Misceláneas, de las 05:00 a las 24:00 horas de lunes a domingo. Se restringe la venta de bebidas alcohólicas a partir de las 22:00 horas;
-
-XV. Los giros de talleres automotrices y de servicios, talleres mecánicos y eléctricos, vulcanizadoras, talleres de hojalatería y pintura, herrería, carpintería, pailerías, talleres de torno, taller de mofles, establecimientos dedicados a la venta e instalación de equipos de carburación a gas LP y similares, de las 08:00 a las 20:00 horas de lunes a viernes, los sábados de las 08:00 a las 17:00 horas y los domingos de las 11:00 a las 17:00 horas;
-
-XVI. Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos y eléctricos, vulcanizadoras y establecimientos que brindan el servicio público auxiliar de salvamento y arrastre vehicular que sean colindantes a las carreteras y los que estén ubicados dentro de los parques industriales, así como los establecimientos comerciales que sean anexos a gasolineras, colindantes a carreteras o ubicados en parques industriales. Estos establecimientos podrán funcionar las 24 horas de lunes a domingo, previa autorización de la Secretaría de Desarrollo Sostenible;
-
-Al término del horario autorizado, todos los establecimientos comerciales deben estar cerrados y sin público en el interior.
-
-Los giros con venta de bebidas alcohólicas en envase cerrado, independientemente de la denominación y localización, sólo podrán vender al público dichos productos de las 08:00 a las 22:00 horas, por lo que deberán anunciar en sus establecimientos esta medida.
-
-Los giros con venta de inhalantes nocivos para la salud como el cemento, pegamentos y diluyentes entre otros, podrán vender dichos productos hasta las 20 horas, por lo que los establecimientos comerciales, independientemente del giro, deberán anunciar en sus establecimientos esta medida.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
-
-ARTICULO 253 BIS.- Para ejercer la facultad municipal en la revocación de Licencias y Permisos, se llevará a cabo el siguiente procedimiento a instancia de parte:
-
-I. Si algún particular colindante con el negocio o grupo de vecinos, que sufran un perjuicio directo o tuviesen alguna inconformidad con motivo de irregularidades de dicha negociación mercantil, podrán promover de manera personal o a través de su representante legal o Asociación de Colonos, queja por escrito ante la Delegación que corresponda;
-
-II. La Delegación determinará la procedencia de la queja, y desechará las que sean ociosas, anónimas, que argumenten hechos imposibles o notoriamente inverosímiles de comprobar;
-
-III. La Delegación realizará las verificaciones necesarias y procederá en caso necesario, a amonestar al comerciante o aplicar las sanciones correspondientes;
-
-IV. Cuando la Delegación, determine que existen faltas graves o reiteradas, correrá traslado de la queja al comerciante para que éste conteste en un plazo de diez días hábiles y ofrezca las documentales que acrediten su contestación, independientemente de la sanción a que se haya hecho acreedor; y
-
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
-
-V.- Transcurrido el plazo para que el comerciante dé contestación; se turnará a la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, quien con la opinión de la Comisión de Desarrollo Agropecuario y Económico determinará en caso necesario, la revocación o suspensión temporal de la Licencia de Funcionamiento.
+ARTICULO 253 BIS.- (DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN EL MUNICIPIO DE QUERÉTARO, P.O. 1 DE SEPTIEMBRE DE 2020)
 
 ###### ARTICULO 254.
 
@@ -2757,7 +2675,7 @@ DE LOS ESPECTACULOS EN EL MUNICIPIO
 
 ###### ARTICULO 278.
 
-(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017) (REPUBLICADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN EL MUNICIPIO DE QUERÉTARO, P.O. 1 DE SEPTIEMBRE DE 2020)
 
 ###### ARTICULO 279.
 
@@ -2793,7 +2711,7 @@ DE LOS ESPECTACULOS EN EL MUNICIPIO
 
 ###### ARTICULO 287.
 
-(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017) (REPUBLICADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN EL MUNICIPIO DE QUERÉTARO, P.O. 1 DE SEPTIEMBRE DE 2020)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS DEL MUNICIPIO DE QUERÉTARO, P.O. 22 DE SEPTIEMBRE DE 2017)</small>
 
@@ -7938,3 +7856,27 @@ El presente acuerdo entrará en vigor al momento de la primera de las dos public
 ###### ARTÍCULO TERCERO.
 
 Se instruye a la Secretaría del Ayuntamiento para que notifique el presente acuerdo a la Secretaría General de Gobierno, Secretaría de Seguridad Pública Municipal, Secretaría de Desarrollo Sostenible y a la Coordinación Municipal de Protección Civil.
+
+P.O. 1 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN EL MUNICIPIO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente reglamento entrará en vigor al día siguiente de la última publicación en los medios de difusión precisados en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los artículos 252, 253, 253 bis, 278 y 287 del Código Municipal, así como todas aquellas disposiciones de igual o menor jerarquía que contravengan las contenidas en el presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría de Desarrollo Sostenible para que, en coordinación con la Comisión de Mejora Regulatoria del Municipio de Querétaro, solicite a la Secretaría del Ayuntamiento la publicación de las cédulas de trámite correspondientes en la Gaceta Oficial del Municipio de Querétaro, a más tardar 60 días hábiles posteriores a la entrada en vigor del presente reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a la Secretaría del Ayuntamiento para que notifique el presente Acuerdo a los titulares de la Secretaría General de Gobierno Municipal, Secretaría de Desarrollo Sostenible, Secretaría de Finanzas, Secretaría de Movilidad y Coordinación de Delegaciones e Institutos Desconcentrados.
