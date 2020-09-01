@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2020-07-21"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2020.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -441,7 +441,7 @@ XX. Someter al Pleno, por conducto de la Secretaría Ejecutiva del Pleno, inicia
 
 XXI. Ordenar que les sea entregada cualquier información elaborada, recopilada, resguardada o investigada por cualquiera de las áreas administrativas;
 
-XXII. Dirigir y supervisar las funciones de la Unidad de Enlace Legislativo, en aquellos casos en que sean designados por el Pleno;
+XXII. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LA EXTINCIÓN DE LA UNIDAD DE ENLACE LEGISLATIVO, D.O.F. 1 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
@@ -1147,17 +1147,17 @@ La falta temporal del titular de la Dirección de Normatividad y Enlace Instituc
 
 Asimismo, se faculta al titular de la Dirección de Normatividad y Enlace Institucional y al titular de la Dirección de Administración Financiera, para determinar el número de servidores públicos necesarios para el óptimo ejercicio de las atribuciones antes descritas.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LA EXTINCIÓN DE LA UNIDAD DE ENLACE LEGISLATIVO, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
-### CAPÍTULO SEXTO. DE LA UNIDAD DE ENLACE LEGISLATIVO
+### CAPÍTULO SEXTO
 
 ###### Artículo 66.
 
-La Unidad de Enlace Legislativo representará al Consejo ante el Congreso de la Unión y dará seguimiento integral a los procesos de reformas constitucionales y legislativas, de interés del Poder Judicial de la Federación.
-
-La operación y funcionamiento de la Unidad de Enlace Legislativo se llevará a cabo de conformidad con los lineamientos que se emitan.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LA EXTINCIÓN DE LA UNIDAD DE ENLACE LEGISLATIVO, D.O.F. 1 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -1317,7 +1317,9 @@ El titular de la Secretaría General, tendrá las siguientes atribuciones:
 
 I. Por instrucciones del Presidente, ser el enlace con los Consejeros y áreas administrativas del Consejo;
 
-II. Por instrucciones del Presidente, ser el vínculo institucional con los Poderes Ejecutivo y Legislativo, así como con las entidades federativas, a fin de gestionar la celebración de convenios que tengan relación con las atribuciones constitucionales del Consejo en materia de administración, vigilancia, disciplina y carrera judicial;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LA EXTINCIÓN DE LA UNIDAD DE ENLACE LEGISLATIVO, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
+II. Por instrucciones del Presidente, ser el vínculo institucional con los Poderes Ejecutivo y Legislativo, así como con las entidades federativas, a fin de gestionar la celebración de convenios que tengan relación con las atribuciones constitucionales del Consejo en materia de administración, vigilancia, disciplina y carrera judicial; asimismo podrá suscribir los convenios en representación del Consejo cuando así lo designe el Presidente;
 
 III. Por instrucciones del Presidente, ser el enlace con los titulares de los órganos jurisdiccionales del Poder Judicial de la Federación;
 
@@ -2595,15 +2597,21 @@ El Instituto Federal de Defensoría Pública se regirá conforme a la Ley, a la 
 
 El Instituto está vinculado al Consejo en lo administrativo y en lo presupuestal.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 111.
 
-El Director General del Instituto de la Judicatura rendirá ante el Pleno un informe anual de actividades, relativo al desempeño de sus funciones, lo cual tendrá lugar durante los primeros quince días de noviembre de cada año.
+El Director General del Instituto de la Judicatura presentará por escrito al Pleno, en los primeros quince días de noviembre de cada año, un informe anual de actividades, relativo al desempeño de sus funciones.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
 El informe anual que rendirá el Director General del Instituto de la Judicatura contendrá todas las actividades que dicho Instituto haya realizado en el ámbito nacional, en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+
 Por cuanto hace al ámbito internacional, el informe anual contendrá todo lo relativo a los convenios de colaboración en materia académica, de capacitación, de investigación, docencia, difusión, control y supervisión de actividades relacionadas con la función judicial.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
 Asimismo, dicho informe contendrá los resultados del Programa Anual de Capacitación Administrativa.
 
@@ -3483,11 +3491,13 @@ XXIII. Elaborar la propuesta de integración de la Lista de personas que pueden 
 
 XXIV. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 161.
 
-La Dirección General de Comunicación Social y Vocería fungirá como vocera del Consejo, y será la encargada de formular e instrumentar la política de información, difusión y comunicación social del Poder Judicial de la Federación; y, de mantener actualizados a los órganos jurisdiccionales y a las áreas administrativas respecto de la información emitida por los medios de comunicación; así como desarrollar e implementar el esquema de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, para promover de forma unificada su imagen; y, producir directa o coordinadamente el material audiovisual que permita dar a conocer a la ciudadanía las acciones emprendidas, a través de la televisión, la radio, Internet, y demás medios de comunicación.
+La Dirección General de Comunicación Social y Vocería fungirá como vocera del Consejo, y será la encargada de elaborar, publicar e instrumentar la política, la Estrategia y el Programa Anual de Comunicación Social del Consejo; de mantener actualizados a los órganos jurisdiccionales y a las áreas administrativas respecto de la información emitida por los medios de comunicación; así como dar cumplimiento a la normativa; y actuará de forma unificada con las otras instancias del Poder Judicial de la Federación.
+
+La Dirección General de Comunicación Social y Vocería será la encargada de promover de forma unificada la imagen e identidad institucional del Consejo; así como, de producir el material audiovisual que permita dar a conocer a la ciudadanía las acciones emprendidas por el Consejo, a través de la televisión, la radio, Internet, y demás medios de comunicación.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -3495,27 +3505,41 @@ La Dirección General de Comunicación Social y Vocería fungirá como vocera de
 
 El Titular de la Dirección General de Comunicación Social y Vocería tendrá las siguientes atribuciones:
 
-I. Proponer a la Comisión de Vigilancia las políticas, normas, lineamientos y procedimientos de identidad institucional, información, difusión y comunicación social del Consejo, y ejecutarlos a fin de promover la imagen y cultura jurisdiccional en la opinión pública;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
+I. Proponer al Presidente, la política, la Estrategia y el Programa Anual de Comunicación Social del Consejo; así como, elaborar el manual de identidad institucional; y los lineamientos para la publicación de contenidos en los portales de internet e intranet del Consejo, los cuales deberán estar alineados a las obligaciones en materia de transparencia; y ejecutarlos, a fin de promover la imagen y cultura jurisdiccional en la opinión pública;
 
 II. Fungir como vocero del Consejo para los asuntos del Poder Judicial de la Federación, así como designar previo acuerdo con el Presidente, al servidor público que en asuntos específicos podrá desarrollar esta función;
 
 III. Informar a la opinión pública y a los medios de comunicación sobre los asuntos competencia del Consejo y del Poder Judicial de la Federación;
 
-IV. Atender las actividades de relaciones públicas del Consejo y del Poder Judicial de la Federación con los medios de comunicación, en coordinación con los órganos jurisdiccionales y las áreas administrativas;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
 
-V. Llevar a cabo las acciones de enlace tendentes a establecer esquemas de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del propio Consejo, para promover de forma unificada su imagen, como órganos integrantes del poder judicial a nivel federal;
+IV. Atender las actividades de relaciones públicas del Consejo con los medios de comunicación; así como, en aquellos en los que participe de manera conjunta con la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
+V. Llevar a cabo las acciones de enlace con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del propio Consejo, para promover de forma unificada su imagen, como órganos integrantes del poder judicial a nivel federal, en aquellos eventos y actividades en que participen de manera conjunta;
 
 VI. Formular, proponer y ejecutar el programa de producción de radio y televisión del Poder Judicial de la Federación;
 
-VII. Diseñar, proponer, dirigir y ejecutar la política de comunicación al interior del Poder Judicial de la Federación, así como coordinar las campañas para difundir sus objetivos y actividades, para promover de forma unificada e integral la identidad del mismo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Coordinar con el Canal Judicial el uso de tiempo aire para difundir el quehacer de los órganos jurisdiccionales y de las áreas administrativas;
+VII. Diseñar, proponer, dirigir y ejecutar la política de comunicación social del Consejo, así como coordinar las campañas para difundir sus objetivos y actividades, para promover de forma unificada e integral la identidad del mismo;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Coordinar con Justicia TV Canal del Poder Judicial de la Federación, el uso de tiempo aire para difundir el quehacer de los órganos jurisdiccionales y de las áreas administrativas;
 
 IX. Producir y post-producir programas, documentales, spots y cápsulas para difundir el quehacer público y social de los órganos jurisdiccionales y de las áreas administrativas en medios electrónicos y digitales;
 
-X. Coordinar y gestionar el uso de tiempos oficiales en radio y televisión para la difusión de materiales audiovisuales del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Diseñar, proponer y ejecutar el programa para el aprovechamiento del equipo televisivo de grabación, edición, producción y postproducción del Poder Judicial de la Federación;
+X. Gestionar el uso de tiempos oficiales en radio y televisión para la difusión de materiales audiovisuales del quehacer público y social de los órganos jurisdiccionales y de las áreas administrativas que comprenden el Consejo;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Preservar y aprovechar el equipo televisivo de grabación, edición, producción y postproducción del Consejo;
 
 XII. Apoyar en la grabación, edición y postproducción de los eventos y actividades que realicen los órganos jurisdiccionales y las áreas administrativas, así como diseñar y producir los materiales informativos y de difusión de dichos eventos en medios electrónicos, impresos y digitales;
 
@@ -3537,9 +3561,13 @@ XX. Suscribir acuerdos y convenios con los sectores público, social y privado, 
 
 XXI. Compilar y distribuir entre los órganos jurisdiccionales y las áreas administrativas la información publicada y difundida en los medios de comunicación del país, particularmente la relacionada con el Poder Judicial de la Federación;
 
-XXII. Organizar y ejecutar las necesidades de impresión de los órganos jurisdiccionales y de las áreas administrativas, y operar sus talleres de impresión;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
 
-XXIII. Formular, proponer, dirigir y ejecutar el programa de ediciones para difundir el pensamiento jurídico, la cultura y la experiencia jurisdiccional;
+XXII. Organizar y ejecutar las necesidades de impresión de los órganos jurisdiccionales y de las áreas administrativas;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Atender las necesidades de las áreas administrativas del Consejo relacionadas con la edición de materiales para difundir el pensamiento jurídico, la cultura y la experiencia jurisdiccional;
 
 XXIV. Participar en la elaboración de las publicaciones internas que realice el Consejo, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, conforme a las políticas de comunicación y difusión que se establezcan;
 
@@ -6124,3 +6152,21 @@ TERCERO. La Unidad de Prevención y Combate al Acoso Sexual, iniciará funciones
 CUARTO. La Unidad de Prevención y Combate al Acoso Sexual, tendrá competencia para dar atención a los casos de acoso sexual y de cualquier otra forma de violencia sexual y de género, incluso cuando hayan ocurrido antes de su creación.
 
 QUINTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LA EXTINCIÓN DE LA UNIDAD DE ENLACE LEGISLATIVO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
+
+TERCERO. Las plazas que se hubieren creado para la Unidad de Enlace Legislativo, serán adscritas a la Secretaría General de la Presidencia del Consejo de la Judicatura Federal.
