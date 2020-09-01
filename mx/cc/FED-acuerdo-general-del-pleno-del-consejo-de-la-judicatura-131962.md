@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2019-10-10"
+last_updated: "2020-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -1229,6 +1229,10 @@ La autoridad investigadora remitirá el informe de presunta responsabilidad admi
 
 En caso de que la Autoridad substanciadora advierta que el Informe de Presunta Responsabilidad Administrativa adolece de alguno o algunos de los requisitos señalados en el artículo 128 de este Acuerdo, o que la narración de los hechos fuere obscura o imprecisa, prevendrá a la autoridad que lo emitió para que los subsane en un término de tres días hábiles. En caso de no hacerlo se tendrá por no presentado dicho informe, sin perjuicio de que podrá presentarse nuevamente siempre que la sanción prevista para la falta administrativa en cuestión no hubiera prescrito.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LOS RECURSOS; Y CON LAS FACULTADES DE LA AUTORIDAD SUBSTANCIADORA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
+La Autoridad Substanciadora, en caso de observar que el informe de Presunta Responsabilidad Administrativa omite algún o algunos de los requisitos a que se refiere el párrafo anterior, devolverá a la Autoridad Investigadora el citado informe, señalando con precisión las razones de la devolución. La autoridad investigadora, dentro de los plazos establecidos por el artículo 126 del presente Acuerdo, podrá presentar un nuevo informe.
+
 ### CAPÍTULO QUINTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA EN LÍNEA
 
 #### SECCIÓN PRIMERA. INICIO DEL PROCEDIMIENTO ADMINISTRATIVO
@@ -1554,6 +1558,10 @@ Las resoluciones de los recursos se aprobarán por mayoría simple, con excepci�
 Las resoluciones de los recursos serán firmadas por el órgano competente que las emita y por la secretaría correspondiente, quien autorizará y dará fe de las mismas.
 
 En su caso, las resoluciones de los recursos deberán expresar con claridad sus efectos y fijar las medidas necesarias para restablecer las cosas al estado que guardaban antes de su interposición.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LOS RECURSOS; Y CON LAS FACULTADES DE LA AUTORIDAD SUBSTANCIADORA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+
+Los recursos podrán declararse sin materia, cuando así resulte procedente por el órgano competente de su resolución.
 
 ###### Artículo 172.
 
@@ -2988,3 +2996,11 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para
 TERCERO. Los procedimientos que se encuentren en trámite el día de la aprobación, y por tanto de la entrada en vigor del presente Acuerdo, se resolverán conforme a las disposiciones contenidas en el mismo.
 
 CUARTO. Tratándose de las aclaraciones presentadas en el sistema de recepción de declaraciones, a que se refiere el artículo 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, la Dirección General de Tecnologías de la Información, contará con un plazo de tres meses para su implementación.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LOS RECURSOS; Y CON LAS FACULTADES DE LA AUTORIDAD SUBSTANCIADORA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet e intranet.
