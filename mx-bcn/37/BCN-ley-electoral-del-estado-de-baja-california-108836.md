@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2020-07-24"
+last_updated: "2020-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -47,15 +47,21 @@ LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO PRIMERO. Del objeto de la ley
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, de observancia general en el Estado de Baja California y tienen por objeto dar certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad al ejercicio de la función pública electoral.
+Las disposiciones de esta Ley son de orden público, de observancia general en el Estado de Baja California y tienen por objeto dar certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y austeridad, así como garantizar la paridad de género al ejercicio de la función pública electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
 La presente Ley reglamenta las normas constitucionales relativas a:
 
-I. El ejercicio de los derechos, prerrogativas y obligaciones político electorales de los ciudadanos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+I. El ejercicio de los derechos, prerrogativas y obligaciones político electorales de las ciudadanas y los ciudadanos;
 
 II. La integración y funcionamiento del Instituto Estatal Electoral;
 
@@ -65,37 +71,51 @@ IV. El Sistema de Medios de Impugnación para garantizar la legalidad de los act
 
 V. Las faltas y sanciones administrativas, así como el Régimen de Responsabilidades y sanciones de los servidores públicos del Instituto Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Actos Anticipados de Campaña: Los actos de expresión que se realicen bajo cualquier modalidad y en cualquier momento fuera de la etapa de campañas, que contengan llamados expresos al voto en contra o a favor de una candidatura o un partido, o expresiones solicitando cualquier tipo de apoyo para contender en el proceso electoral por alguna candidatura o para un partido;
+I. Actos Anticipados de Campaña: Los actos de expresión que se realicen bajo cualquier modalidad y en cualquier momento fuera de la etapa de campañas, que contengan llamados expresos al voto en contra o a favor de una candidatura o un partido, o expresiones solicitando cualquier tipo de apoyo para contender en el proceso electoral por alguna candidatura o para un partido.
 
-II. Actos Anticipados de Precampaña: Las expresiones que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura;
+II. Actos Anticipados de Precampaña: Las expresiones que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura.
 
 III. Candidato independiente: El ciudadano mexicano residente en el Estado que obtenga por parte del Instituto Estatal la constancia de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley y demás disposiciones aplicables.
 
-IV. Constitución Federal: a la Constitución Política de los Estados Unidos Mexicanos.
+IV. Ciudadanos o Ciudadanas: Las personas que teniendo la calidad de mexicanas reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos.
 
-V. Constitución del Estado: a la Constitución Política del Estado Libre y Soberano de Baja California.
+V. Constitución Federal: a la Constitución Política de los Estados Unidos Mexicanos.
 
-VI. Consejo General: al Consejo General Electoral del Instituto Estatal Electoral del Estado de Baja California.
+VI. Constitución del Estado: a la Constitución Política del Estado Libre y Soberano de Baja California.
 
-VII. Estado: al Estado Libre y Soberano de Baja California.
+VII. Consejo General: al Consejo General Electoral del Instituto Estatal Electoral del Estado de Baja California.
 
-VIII. Instituto Estatal o Instituto: al Instituto Estatal Electoral de Baja California.
+VIII. Estado: al Estado Libre y Soberano de Baja California.
 
-IX. Instituto Nacional: al Instituto Nacional Electoral.
+IX. Instituto Estatal o Instituto: al Instituto Estatal Electoral de Baja California.
 
-X. Ley: a la Ley Electoral del Estado de Baja California.
+X. Instituto Nacional: al Instituto Nacional Electoral.
 
-XI. Ley General: la Ley General de Instituciones y Procedimientos Electorales.
+XI. Ley: a la Ley Electoral del Estado de Baja California.
 
-XII. Partidos Políticos: Los partidos políticos nacionales y locales, constituidos conforme a las leyes de la materia.
+XII. Ley de Acceso: Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California.
 
-XIII. Tribunal o Tribunal Electoral: al Tribunal de Justicia Electoral del Estado de Baja California.
+XIII. Ley General: la Ley General de Instituciones y Procedimientos Electorales.
 
-XIV. Unidad Técnica de lo Contencioso: Unidad Técnica de lo Contencioso Electoral de la Secretaria Ejecutiva.
+XIV. Paridad de género: Igualdad política entre mujeres y hombres que se garantiza con la asignación del 50% a mujeres y 50% a hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación.
+
+XV. Partidos Políticos: Los partidos políticos nacionales y locales, constituidos conforme a las leyes de la materia.
+
+XVI. Tribunal o Tribunal Electoral: al Tribunal de Justicia Electoral del Estado de Baja California.
+
+XVII. Unidad Técnica de lo Contencioso: Unidad Técnica de lo Contencioso Electoral de la Secretaria Ejecutiva.
+
+XVIII. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por algún particular o por un grupo de personas particulares.
 
 ### CAPÍTULO SEGUNDO. De la ejecución y aplicación de la ley
 
@@ -135,13 +155,21 @@ A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Con
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-Votar en las elecciones constituye un derecho y una obligación de los ciudadanos, que se ejerce para integrar los órganos de elección popular del Estado. También es derecho de los Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular.
+Votar en las elecciones constituye un derecho y una obligación de las ciudadanas y los ciudadanos, que se ejerce para integrar los órganos de elección popular del Estado. También es su derecho, y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular.
 
 El voto es universal, libre, secreto, directo, personal e intransferible.
 
-Quedan prohibidos los actos de presión o coacción a los ciudadanos, tendientes a vulnerar la libertad y el secreto del sufragio. Las autoridades en el ámbito de su competencia, serán responsables de garantizar las condiciones que propicien el ejercicio voluntario del voto.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Quedan prohibidos los actos de presión o coacción a las ciudadanas y a los ciudadanos, tendientes a vulnerar la libertad y el secreto del sufragio. Las autoridades en el ámbito de su competencia, serán responsables de garantizar las condiciones que propicien el ejercicio voluntario del voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Los derechos político electorales, se ejercerán sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas, y también se ejercerán libres de violencia política contra las mujeres en razón de género.
 
 ###### Artículo 10.
 
@@ -245,13 +273,15 @@ Los partidos políticos estatales que tuvieren su registro suspendido o cancelad
 
 El Congreso del Estado estará integrado por diputados que se elegirán cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible; diecisiete serán electos en forma directa mediante el principio de mayoría relativa, uno por cada distrito electoral en que se divide el territorio del Estado, y en su caso, hasta ocho Diputados electos por el principio de representación proporcional en una circunscripción estatal, de conformidad con la Constitución del Estado y el procedimiento previsto en el presente Título. Cada Diputado propietario tendrá un suplente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-Los diputados podrán ser electos hasta por cuatro periodos consecutivos.
+Las y los diputados podrán ser electos hasta por cuatro periodos consecutivos.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Los diputados interesados en la elección consecutiva deberán manifestarlo por escrito a su partido político. Para el caso de diputados que manifiesten su deseo de reelegirse deberán, además, señalar el principio por el que desean hacerlo, de tratarse del principio de mayoría relativa, deberán señalar el distrito o su equivalente por el que lo harán, de no hacerse en los términos antes señalados, se entenderá que el diputado no está interesado en la elección consecutiva. El escrito que contenga las manifestaciones antes señaladas, deberá presentarse al partido político correspondiente, con veinte días de anticipación al inicio de las precampañas, en virtud de lo cual, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término al género del diputado que haya obtenido la constancia de mayoría relativa en el proceso electoral anterior para la asignación de genero por distrito o su equivalencia.
+Las y los diputados interesados en la elección consecutiva deberán manifestarlo por escrito a su partido político. Para el caso de que manifiesten su deseo de reelegirse deberán, además, señalar el principio por el que desean hacerlo, de tratarse del principio de mayoría relativa, deberán señalar el distrito o su equivalente por el que lo harán, de no hacerse en los términos antes señalados, se entenderá que la diputada o diputado no está interesado en la elección consecutiva. El escrito que contenga las manifestaciones antes señaladas, deberá presentarse al partido político correspondiente, con veinte días de anticipación al inicio de las precampañas, en virtud de lo cual, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidaturas deberán respetar el principio de paridad de género en su aspecto cualitativo y cuantitativo.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -309,13 +339,15 @@ El Instituto Estatal una vez verificados los requisitos del artículo anterior, 
 
 En caso de que el número de partidos políticos sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 24.
 
-Ningún partido político podrá tener más de diecisiete diputados por ambos principios.
+Ningún partido político podrá tener más de diecisiete diputaciones por ambos principios.
 
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
+En ningún caso, un partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
 
-Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
+Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignada una diputación por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar su registro de conformidad con la normativa electoral.
 
 ###### Artículo 25.
 
@@ -383,9 +415,11 @@ La elección de Gobernador será cada seis años, en todo el territorio del Esta
 
 El Gobierno del Municipio se deposita en un cuerpo colegiado que se denomina Ayuntamiento, compuesto de munícipes electos mediante sufragio universal, libre, secreto, directo, personal e intransferible, por los principios de mayoría relativa y de representación proporcional. Los integrantes de los Ayuntamientos contarán con sus respectivos suplentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 30.
 
-El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador, por Regidores de mayoría relativa y de representación proporcional, en el número que dispone la Constitución del Estado.
+El Ayuntamiento se integra por una Presidencia Municipal, una Sindicatura Procuradora, por Regidurías de mayoría relativa y de representación proporcional, en el número que dispone la Constitución del Estado.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -395,9 +429,9 @@ Los Presidentes Municipales, regidores y síndicos podrán ser postulados, al mi
 
 Los presidentes municipales, regidores y síndicos únicamente pueden ser electos consecutivamente para el mismo cargo que ostentan y siendo parte de una planilla integrada de conformidad con la fracción II del artículo 136 de la presente ley.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos interesados en la elección consecutiva en términos de lo dispuesto en el párrafo anterior, deberán manifestarlo a su partido político por escrito y con veinte días de anticipación al inicio de las precampañas, de no hacerse en los términos antes señalados, se entenderá que no están interesados en la elección consecutiva. En virtud de lo anterior, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término el criterio de género aplicado en la conformación de las planillas de candidatos a munícipes que hayan obtenido la constancia de mayoría relativa en el proceso electoral anterior.
+Las Presidentas o Presidentes Municipales, Regidoras o Regidores y Síndicas o Síndicos interesados en la elección consecutiva en términos de lo dispuesto en el párrafo anterior, deberán manifestarlo a su partido político por escrito y con veinte días de anticipación al inicio de las precampañas, de no hacerse en los términos antes señalados, se entenderá que no están interesados en la elección consecutiva. En virtud de lo anterior, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar el criterio de paridad de género en su aspecto cualitativo y cuantitativo.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -419,11 +453,11 @@ En el caso de munícipes electos como candidatos independientes solo podrán pos
 
 Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas en el período inmediato.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-Para que los partidos políticos o candidatos independientes tengan derecho a la asignación de Regidores por el principio de representación proporcional, deberán cumplir los siguientes presupuestos:
+Para que los partidos políticos o candidaturas independientes tengan derecho a la asignación de Regidurías por el principio de representación proporcional, deberán cumplir los siguientes presupuestos:
 
 I. Haber registrado planilla completa de candidatos a munícipes en el Municipio que corresponda;
 
@@ -497,6 +531,8 @@ El Instituto, es depositario de la autoridad electoral y responsable del ejercic
 
 El patrimonio del Instituto Estatal se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se les señalen en el presupuesto de egresos del Estado, para la organización de los procesos electorales locales y para el financiamiento de los partidos políticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 35.
 
 Son fines del Instituto Estatal:
@@ -513,9 +549,13 @@ V. Realizar los procesos de consulta popular, plebiscito y referéndum en los t�
 
 VI. Llevar a cabo la promoción del voto y coadyuvar al fortalecimiento y difusión de la cultura cívica y política.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Las actividades del Instituto Estatal Electoral, se regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y austeridad. Para el desempeño de sus actividades, el Instituto contará con un cuerpo de servidores públicos en sus órganos ejecutivos y técnicos, integrados en un Servicio Profesional Electoral conforme lo establecido en (sic) Ley General y el Estatuto que apruebe el Instituto Nacional.
+VII. Garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Las actividades del Instituto se llevarán a cabo con perspectiva de género y (sic) regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad austeridad, paridad y se realizarán con perspectiva de género. Para el desempeño de sus actividades, el Instituto contará con un cuerpo de servidores públicos en sus órganos ejecutivos y técnicos, integrados en un Servicio Profesional Electoral conforme lo establecido en (sic) Ley General y el Estatuto que apruebe el Instituto Nacional.
 
 Adicionalmente, el Instituto contará con personal adscrito a una rama administrativa, para el óptimo desempeño de las funciones institucionales.
 
@@ -547,9 +587,11 @@ IV. Los Consejos Distritales Electorales, órganos operativos.
 
 ### CAPÍTULO PRIMERO. Del Consejo General
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 37.
 
-El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar que los principios de certeza, legalidad, independencia, imparcialidad, máxima (sic) y objetividad guíen todas las actividades del Instituto Estatal.
+El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, aplicando en su desempeño la perspectiva de género, así como de velar que los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género y (sic) guíen todas las actividades del Instituto Estatal. En su desempeño aplicará la perspectiva (sic) género.
 
 ###### Artículo 38.
 
@@ -599,21 +641,39 @@ El Consejero Presidente convocará a sesión extraordinaria cuando lo estime nec
 
 Recibida la solicitud a que se refiere el párrafo anterior, el Consejo General celebrará sesión extraordinaria dentro de las cuarenta y ocho horas siguientes, previa convocatoria del Consejero Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 45.
 
 El Consejo General funcionará en pleno o en comisiones. Las comisiones permanentes serán:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 I. Comisión del Régimen de Partidos Políticos y Financiamiento;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 II. Comisión de Reglamentos y Asuntos Jurídicos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 III. Comisión de Procesos Electorales;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 IV. Comisión de Participación Ciudadana y Educación Cívica;
 
-V. Comisión de Control Interno, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Comisión de Quejas y Denuncias.
+V. Comisión de Control Interno;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Comisión de Quejas y Denuncias, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Comisión de Igualdad Sustantiva y No Discriminación.
 
 Las comisiones permanentes deberan integrarse o renovarse cada vez que se renueve parcialmente el Consejo General.
 
@@ -899,6 +959,8 @@ Las ausencias temporales del Secretario Ejecutivo, serán suplidas por alguno de
 
 De igual forma serán suplidas las ausencias definitivas, hasta en tanto el Consejo General designe al titular en los términos señalados en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 57.
 
 La Secretaría Ejecutiva tendrá adscrita las siguientes áreas:
@@ -945,7 +1007,23 @@ f) Administrar y mantener actualizada la página electrónica del Instituto Esta
 
 g) Las demás que le encomienden el Consejero Presidente del Consejo General, el Secretario Ejecutivo, esta Ley y demás disposiciones aplicables.
 
-Asimismo, contará con un Notificador que será el encargado de llevar a cabo las notificaciones que requiera el Consejo General, así como las diligencias que le sean instruidas por el Secretario Ejecutivo; estará investido de fé pública, exclusivamente, en las actuaciones que realice en el ejercicio de sus funciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+V.- La Unidad de Igualdad Sustantiva y No Discriminación, que tendrá como funciones:
+
+a) Prestar asesoría legal correspondiente a la Secretaría, a la Comisión de Igualdad Sustantiva y No Discriminación, y en su caso a los representantes de los partidos políticos o coaliciones.
+
+b) Coordinar y supervisar la elaboración de dictámenes, puntos de acuerdo, informes u opiniones de la Comisión de Igualdad Sustantiva y No Discriminación y fungir como Secretaría Técnica.
+
+c) Coadyuvar en la vigilancia de los procedimientos para la participación paritaria entre los géneros en las candidaturas a cargos de elección popular del estado.
+
+d) Impulsar acciones para promover la participación política de acuerdo con los principios de igualdad de género y no discriminación a grupos en situación de vulnerabilidad.
+
+e) Las demás que le encomiende el Consejero Presidente del Consejo General, el Secretario Ejecutivo, la Comisión de Igualdad Sustantiva, esta Ley, los acuerdos que emita el Consejo General y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Asimismo, contará con un notificador que será el encargado de llevar a cabo las notificaciones que requiera el Consejo General, así como las diligencias que le sean instruidas por el Secretario Ejecutivo; estará investido de fe pública, exclusivamente, en las actuaciones que realice en el ejercicio de sus funciones.
 
 ###### Artículo 58.
 
@@ -1503,9 +1581,11 @@ Los servidores públicos del Instituto, estarán obligados a prestar sus servici
 
 ## TÍTULO PRIMERO. Disposiciones Preliminares
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 103.
 
-El proceso electoral, es el conjunto de actos ordenados por la Constitución del Estado y esta Ley, realizados por los órganos y las autoridades electorales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos.
+El proceso electoral, es el conjunto de actos ordenados por la Constitución del Estado y esta Ley, realizados por los órganos y las autoridades electorales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos. En la elección e integración de los Ayuntamientos existirá la paridad de género tanto vertical como horizontal.
 
 ###### Artículo 104.
 
@@ -1555,13 +1635,19 @@ Corresponde exclusivamente a los partidos políticos autorizar a sus militantes 
 
 Para que los partidos políticos puedan otorgar la autorización a que se refiere el párrafo anterior, es necesario que existan dos o más precandidatos en busca de la nominación a un mismo cargo de elección popular; ello sin perjuicio del derecho de los propios partidos políticos consignado en la parte final de la fracción I del artículo siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 112.
 
 Para los fines de la presente Ley, se entenderá por:
 
-I. Precampaña Electoral: es el conjunto de actividades reguladas por esta Ley, y los estatutos, acuerdos y lineamientos emanados de los partidos políticos de conformidad con aquella, que realizan los precandidatos a ser postulados por un partido político a un cargo de elección popular, dentro de un proceso de elección interna convocado por aquel, con la finalidad de promover su imagen y capacidad como la mejor para obtener la candidatura; así como aquellas que relicen (sic) de manera institucional los partidos políticos para la difusión de sus procesos de selección interna, en radio y television.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-II. Actos de Precampaña: son las acciones que tienen por objeto mejorar la imagen de los precandidatos, con el fin de obtener la nominación como candidato del partido político, para contender en una elección constitucional. Entre otras, quedan comprendidas las siguientes:
+I. Precampaña Electoral: es el conjunto de actividades reguladas por esta Ley, y los estatutos, acuerdos y lineamientos emanados de los partidos políticos de conformidad con aquella, que realizan las personas precandidatas a ser postuladas por un partido político a un cargo de elección popular, dentro de un proceso de elección interna convocado por aquel, con la finalidad de promover su imagen y capacidad como la mejor para obtener la candidatura; así como aquellas que realicen de manera institucional los partidos políticos para la difusión de sus procesos de selección interna, en radio y televisión.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+II. Actos de Precampaña: son las acciones que tienen por objeto mejorar la imagen de quienes ocupen las precandidaturas, con el fin de obtener la nominación como candidata o candidato del partido político, para contender en una elección constitucional. Entre otras, quedan comprendidas las siguientes:
 
 a) Reuniones públicas o privadas;
 
@@ -1577,9 +1663,17 @@ f) Demás actividades que realicen los precandidatos;
 
 III. Propaganda de precampaña electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la precampaña electoral producen y difunden los precandidatos y sus simpatizantes, con el propósito de presentar y difundir sus propuestas ante los militantes del partido por el que aspiran ser nominados, y
 
-IV. Precandidato: Los ciudadanos que deciden contender al interior de un partido político con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
+IV. Precandidatura: Aquella que ostentan las y los ciudadanos que deciden contender al interior de un partido político con el fin de alcanzar su nominación como candidata o candidato a un puesto de elección popular.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidaturas a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En la propaganda de precampaña electoral que realicen las personas precandidatas, deberán abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley.
 
 ###### Artículo 113.
 
@@ -1775,13 +1869,15 @@ II. Ser Magistrado o Secretario del Tribunal Electoral del Poder Judicial de la 
 
 Corresponde a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular, sin perjuicio de las candidaturas independientes, en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 136.
 
 El registro de candidaturas a los distintos cargos de elección popular se hará de la forma siguiente:
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-I. La de diputados, se hará por fórmulas integradas por propietario y suplente del mismo género, para el caso de la elección consecutiva, el candidato suplente podrá ser diverso que el registrado en la fórmula anterior.
+I. Para las Diputaciones, se hará por fórmulas integradas por propietario y suplente del mismo género, para el caso de la elección consecutiva, el candidato suplente podrá ser diverso que el registrado en la fórmula anterior.
 
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -1791,9 +1887,9 @@ II. La de munícipes se hará por planillas completas integradas por propietario
 
 III. La de Gobernador del Estado, será unipersonal.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Los propietarios y suplentes de la fórmula de diputados, y de la planilla de munícipes, a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, serán considerados separadamente, salvo para los efectos del voto válidamente emitidos.
+Los propietarios y suplentes de la fórmula de diputaciones, y de la planilla de munícipes, a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, serán considerados separadamente, salvo para los efectos del voto válidamente emitidos.
 
 ###### Artículo 137.
 
@@ -1809,21 +1905,15 @@ Los partidos políticos promoverán y garantizarán la paridad entre los género
 
 El Consejo General tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 140.
 
-De la totalidad de solicitudes de registro de las candidaturas a diputados por el principio de mayoría relativa que presenten los partidos políticos o las coaliciones ante el Instituto, deberá salvaguardar la paridad entre los géneros mandatada en la Constitución del Estado. Cuando el partido político o coalición participe con candidatos en la totalidad de los distritos, ocho serán de un mismo género.
+De la totalidad de solicitudes de registro de las candidaturas a Diputaciones por el principio de mayoría relativa que presenten los partidos políticos o las coaliciones ante el Instituto, deberá salvaguardar la paridad entre los géneros mandatada en la Constitución del Estado. Cuando el partido político o coalición participe con candidaturas en la totalidad de los distritos, ocho serán de un mismo género.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+Las listas de Diputaciones por el principio de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
 
-En caso de elección consecutiva los partidos políticos o coaliciones en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término al género del diputado que haya obtenido la constancia de mayoría relativa en el proceso electoral anterior para la asignación de género por distrito o su equivalencia.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
-
-Las listas de diputados por el principio de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
-
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-Las planillas de munícipes se integrarán alternando candidatos de género distinto, conforme a la fracción II del artículo 136 de esta Ley; asimismo, las candidaturas para el cargo de presidente municipal deberán ser distribuidas de forma igualitaria entre ambos géneros.
+Las planillas de munícipes se integrarán alternando candidatos de género distinto, conforme a la fracción II del artículo 136 de esta Ley; asimismo, las candidaturas para el cargo de presidenta o presidente municipal deberán ser distribuidas de forma igualitaria entre ambos géneros.
 
 ###### Artículo 141.
 
@@ -2045,7 +2135,9 @@ La propaganda electoral se sujetará invariablemente a las siguientes disposicio
 
 I. Se prohíbe la utilización de símbolos, signos, expresiones, alusiones o fundamentaciones de carácter religioso;
 
-II. Se prohíben las expresiones verbales o alusiones ofensivas a las personas, candidatos y partidos políticos y aquellas contrarias a la moral, a las buenas costumbres y las que inciten al desorden, así como las que injurien a las autoridades o a los candidatos de los diversos partidos o coaliciones, que contiendan en la elección, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+II. Se prohíben las expresiones verbales o alusiones ofensivas a las personas, candidatos y partidos políticos y aquellas contrarias a la moral, a las buenas costumbres y las que inciten al desorden o aquellas que constituyan actos de violencia política contra las mujeres en razón de género, así como las que injurien a las autoridades o a los candidatos de los diversos partidos o coaliciones, que contiendan en la elección, y
 
 III. Propiciará la exposición, desarrollo y discusión ante el electorado de los programas y acciones propuestas por los partidos políticos o coaliciones, en sus documentos básicos y particularmente de la plataforma electoral.
 
@@ -2927,9 +3019,11 @@ De igual manera, las personas físicas o morales que realicen estos conteos pond
 
 El cómputo distrital de una elección es la suma que realiza el Consejo Distrital, de los resultados anotados en las actas de escrutinio y cómputo de las casillas en un distrito electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 254.
 
-Los consejos distritales electorales tendrán, a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral y hasta siete días, inclusive, para hacer el cómputo de las elecciones de Diputados por el principio de mayoría relativa, Munícipes, Gobernador y Diputados por el principio de representación proporcional, en los términos del artículo 256 de esta Ley.
+Los consejos distritales electorales tendrán, a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral y hasta siete días, inclusive, para hacer el cómputo de las elecciones de Diputaciones por el principio de mayoría relativa, Munícipes, Gubernatura y Diputaciones por el principio de representación proporcional, en los términos del artículo 256 de esta Ley.
 
 Las sesiones de cómputo de las elecciones mencionadas, serán video grabadas y transmitidas en tiempo real por los medios que el Consejo General del Instituto Estatal determine en cada jornada electoral, debiendo captarse tanto el trabajo del consejo como el asentamiento de resultados en las formas o sabanas correspondientes, para cumplir con el principio de máxima publicidad. Las grabaciones deberán resguardarse, para su posterior revisión si fuese necesario de oficio o a petición de parte acreditada.
 
@@ -2947,11 +3041,15 @@ IV. El personal de apoyo designado por el Instituto Estatal, para que puedan sus
 
 Los consejos distritales deberán contar con los elementos humanos, materiales, técnicos y financieros, necesarios para la realización del cómputo en forma permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 256.
 
-El cómputo distrital de las elecciones de diputados por el principio de mayoría relativa, munícipes, Gobernador o diputados por el principio de representación proporcional, se realizará simultáneamente, bajo el procedimiento siguiente:
+El cómputo distrital de las elecciones de diputaciones por el principio de mayoría relativa, Munícipes, Gubernatura o Diputaciones por el principio de representación proporcional, se realizará simultáneamente, bajo el procedimiento siguiente:
 
-I. Primeramente, se abrirá el paquete que contenga los expedientes de la elección que no tengan muestras de alteración y siguiendo el orden numérico de las casillas; se cotejará el resultado anotado en el apartado correspondiente del acta de la jornada electoral contenida en el expediente de casilla con los resultados que de la misma obre en poder del consejero presidente del consejo distrital electoral, en el orden siguiente, Gobernador, Munícipes y Diputados por el principio de mayoría relativa. Si los resultados coinciden, se asentará en las formas establecidas para ello;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+I. Primeramente, se abrirá el paquete que contenga los expedientes de la elección que no tengan muestras de alteración y siguiendo el orden numérico de las casillas; se cotejará el resultado anotado en el apartado correspondiente del acta de la jornada electoral contenida en el expediente de casilla con los resultados que de la misma obre en poder de la o el consejero presidente del consejo distrital electoral, en el orden siguiente, Gubernatura, Munícipes y Diputaciones por el principio de mayoría relativa. Si los resultados coinciden, se asentará en las formas establecidas para ello;
 
 II. Si los resultados no coinciden, o no se encuentra el acta de la jornada electoral en el expediente de la casilla, ni obrare un ejemplar en poder del Consejero Presidente, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente. Los resultados se anotarán en la forma establecida para ello, dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se harán constar en dicha acta las objeciones que hubiesen manifestado cualquiera de los representantes de los partidos políticos o de los Candidatos Independientes ante el Consejo, para los efectos conducentes. En ningún caso se podrá obstaculizar la realización de los cómputos;
 
@@ -2971,11 +3069,17 @@ d) Todos los votos hayan sido depositados a favor de un mismo partido político 
 
 V. Posteriormente, se abrirán los paquetes con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta circunstanciada respectiva, y
 
-VI. La suma de los resultados, después de realizar las operaciones indicadas en las fracciones anteriores, constituirá el cómputo distrital de la elección de diputados, munícipes o Gobernador, según se trate, y se asentará en el acta correspondiente.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-En caso del cómputo de la elección de diputados por el principio de representación proporcional, en los distritos donde se haya instalado una casilla especial, se procederá a añadir al resultado del cómputo de diputados por el principio de mayoría relativa, el resultado que se tuviere en la casilla especial para aquélla elección; la sumatoria constituirá el cómputo distrital de la elección de diputados por el principio de representación proporcional. El acta para esta elección deberá contener los apartados para la sumatoria respectiva.
+VI. La suma de los resultados, después de realizar las operaciones indicadas en las fracciones anteriores, constituirá el cómputo distrital de la elección de Diputaciones, Munícipes o Gubernatura, según se trate, y se asentará en el acta correspondiente.
 
-Se harán constar en el acta circunstanciada de la sesión, los resultados del cómputo de la elección de diputados por el principio de mayoría relativa, munícipes o Gobernador, y en su caso la de diputados por el principio de representación proporcional, así como los incidentes que ocurrieren durante la misma.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En caso del cómputo de la elección de diputaciones por el principio de representación proporcional, en los distritos donde se haya instalado una casilla especial, se procederá a añadir al resultado del cómputo de Diputaciones por el principio de mayoría relativa, el resultado que se tuviere en la casilla especial para aquélla elección; la sumatoria constituirá el cómputo distrital de la elección de diputaciones por el principio de representación proporcional. El acta para esta elección deberá contener los apartados para la sumatoria respectiva.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Se harán constar en el acta circunstanciada de la sesión, los resultados del cómputo de la elección de Diputaciones por el principio de mayoría relativa, Munícipes o Gubernatura, y en su caso la de diputaciones por el principio de representación proporcional, así como los incidentes que ocurrieren durante la misma.
 
 ###### Artículo 257.
 
@@ -3025,13 +3129,13 @@ I. Actas de los cómputos distritales, y
 
 II. Actas circunstanciadas de las sesiones de cómputo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 263.
 
-Los consejos distritales electorales, una vez resueltos todos los medios de impugnación locales de la elección de diputados de mayoría relativa, enviarán los expedientes correspondientes al Consejo General, para efectos de la asignación de diputados por el principio de representación proporcional.
+Los consejos distritales electorales, una vez resueltos todos los medios de impugnación locales de la elección de Diputaciones de mayoría relativa, enviarán los expedientes correspondientes al Consejo General, para efectos de la asignación de diputaciones por el principio de representación proporcional.
 
-Los Consejeros Presidentes de los Consejos Distritales Electorales, remitirán al Congreso del Estado copia certificada de las constancias de mayoría de la fórmula de candidatos a Diputado que la hubiesen obtenido.
+Las o los Consejeros Presidentes de los Consejos Distritales Electorales, remitirán al Congreso del Estado copia certificada de las constancias de mayoría de la fórmula de las o los candidatos a Diputaciones que la hubiesen obtenido.
 
 ###### Artículo 264.
 
@@ -3843,6 +3947,8 @@ Los medios de apremio y las correcciones disciplinarias serán aplicados por el 
 
 ### CAPÍTULO PRIMERO. Sujetos y Conductas Sancionables
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 337.
 
 Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en esta Ley:
@@ -3867,6 +3973,32 @@ IX. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier r
 
 X. Los demás sujetos obligados en los términos de la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en el artículo 337 BIS, así como en la Ley de Acceso, será sancionado en términos de lo dispuesto en este Capítulo según corresponda de acuerdo con lo dispuesto en los artículos 338 al 353.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Las quejas o denuncias por violencia política contra las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 337 BIS.- La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de los sujetos de responsabilidad señalados en el artículo 337 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+I. Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+II. Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+III. Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+IV. Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+V. Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad, y
+
+VI. Cualquiera otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 338.
 
 Constituyen infracciones de los partidos políticos, cuando:
@@ -3885,15 +4017,25 @@ VI. La realización anticipada de actos de precampaña o campaña atribuible a l
 
 VII. La realización de actos de precampaña o campaña en territorio extranjero cuando se acredite que se hizo con consentimiento de aquellos, sin perjuicio de que se determine la responsabilidad de quien hubiese cometido la infracción;
 
-VIII. La difusión de propaganda política o electoral que contenga expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. La difusión de propaganda política o electoral que contengan expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas o constituyan actos de violencia política contra las mujeres en razón de género;
 
 IX. El incumplimiento de las demás disposiciones previstas en la presente Ley en materia de precampañas y campañas electorales;
 
 X. El incumplimiento de las demás disposiciones previstas en la Ley de Partidos Políticos del Estado, en materia de transparencia y acceso a la información;
 
-XI. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-XII. La comisión de cualquier otra falta de las previstas en esta Ley.
+XI. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XII. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. La comisión de cualquier otra falta de las previstas en esta Ley.
 
 ###### Artículo 339.
 
@@ -3917,19 +4059,31 @@ II. La promoción de quejas o denuncias frívolas, y
 
 III. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 342.
 
-Constituyen infracciones a la presente Ley de las autoridades o los servidores públicos, según sea el caso, de cualquiera de los Poderes Ejecutivo, Legislativo y Judicial; órganos de gobierno municipales; órganos autónomos y cualquier otro ente público:
+Constituyen infracciones a la presente Ley, de las autoridades o de las servidoras y los servidores públicos, según sea el caso, de cualquiera de los Poderes Ejecutivo, Legislativo y Judicial; Órganos de Gobierno Municipales; Órganos Autónomos y cualquier otro ente público:
 
 I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
 II. La difusión, por cualquier medio distinto a la de radio y televisión, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral local inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
-III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Federal que incidan en el proceso electoral local respectivo, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Durante los procesos electorales locales, la difusión de propaganda, en cualquier medio de comunicación social distinto a la de radio y televisión, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, y
+III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Federal que incidan en el proceso electoral local respectivo, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre las personas aspirantes, precandidatas y candidatas durante los procesos electorales;
 
-V. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Durante los procesos electorales locales, la difusión de propaganda, en cualquier medio de comunicación social distinto a la de radio y televisión, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+V. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales, o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 343.
 
@@ -4003,9 +4157,13 @@ La sanción que se imponga, en su caso, deberá de valorar el grado de frivolida
 
 ### CAPÍTULO SEGUNDO. De las Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 354.
 
 Las infracciones cometidas a las disposiciones electorales contenidas en esta Ley serán sancionadas conforme a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 I. Respecto de los partidos políticos, con independencia de la responsabilidad personal en que incurran sus dirigentes, miembros o simpatizantes:
 
@@ -4017,13 +4175,21 @@ b) Con multa de cincuenta a cinco mil veces el valor diario de la Unidad de Medi
 
 c) Con la reducción de hasta el cincuenta por ciento de las ministraciones de financiamiento público que les corresponde, por el período que señale la resolución correspondiente;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
+
 d) Con la supresión total de la entrega de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
 
-e) Con la suspensión o cancelación de su registro como partido político, y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+e) En los casos de graves y reiteradas conductas violatorias de la Constitución y de esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político local;
 
 f) Tratándose de partidos políticos nacionales, la suspensión del derecho a participar en los procesos electorales locales.
 
-II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+II. Respecto de las personas aspirantes, precandidatas o candidatas a cargos de elección popular:
 
 a) Con amonestación pública;
 
@@ -4031,11 +4197,13 @@ a) Con amonestación pública;
 
 b) Con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, y
 
-c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquellos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá regístralo (sic) como candidato.
+c) Con la pérdida del derecho de las personas precandidatas infractoras a ser registradas como candidatas o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por las personas aspirantes o precandidatas a cargos de elección popular, cuando sean imputables exclusivamente a aquellos, no procederá sanción alguna en contra del partido político de que se trate. Cuando la persona precandidata resulte electo (sic) en el proceso interno, el partido político no podrá registrarlo (sic) como candidato (sic).
 
-III. Respecto de los aspirantes y Candidatos Independientes, conforme a las sanciones previstas (sic) artículo 64 de la Ley que Reglamenta las Candidaturas Independientes en el Estado.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+III. Respecto de las personas aspirantes, Candidatas y Candidatos Independientes, conforme a las sanciones previstas (sic) artículo 64 de la Ley que Reglamenta las Candidaturas Independientes en el Estado;
 
 IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquier persona física o moral:
 
@@ -4129,13 +4297,89 @@ Los órganos que tramiten o sustancien el procedimiento sancionador, podrán hac
 
 Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, los órganos competentes para la tramitación y resolución del procedimiento sancionador procederán a decretar la acumulación por litispendencia o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 362.
 
-Los procedimientos ordinarios y especiales, relacionados con la difusión de propaganda que denigre o calumnie sólo podrán iniciar a instancia de parte afectada.
+Los procedimientos ordinarios y especiales, relacionados con la difusión de propaganda que denigre o calumnie, así como aquella que constituya violencia política en razón de género, sólo podrán iniciar a instancia de parte afectada.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 363.
 
-A falta de disposición expresa en el presente Titulo, serán de aplicación supletoria, en lo conducente, las reglas precisadas para los medios de impugnación establecidas en el Libro Quinto de esta Ley, observándose en su caso, lo dispuesto en el artículo 7 del presente ordenamiento.
+Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes al en que se dicten las resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
+
+Cuando la resolución entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación o audiencia. Las demás se harán por cédula que se fijará en los estrados del Instituto Estatal o del Consejo Distrital que emita la resolución de que se trate. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio.
+
+Las notificaciones personales se realizarán en días y horas hábiles a la persona interesada o por conducto de la persona que esta haya autorizado para el efecto.
+
+Las notificaciones serán personales cuando así se determine, pero en todo caso, la primera notificación a alguna de las partes se llevará de forma personal.
+
+Cuando deba realizarse una notificación personal, la o el notificador deberá cerciorarse, por cualquier medio, que la persona que deba ser notificada tiene su domicilio en el inmueble designado y, después de ello, practicará la diligencia entregando copia autorizada de la resolución correspondiente, de todo lo cual se asentará razón en autos.
+
+Si no se encuentra a la persona interesada en su domicilio se le dejará con cualquiera de las personas que allí se encuentren un citatorio que contendrá:
+
+I. Denominación del órgano que dictó la resolución que se pretende notificar;
+
+II. Datos del expediente en el cual se dictó;
+
+III. Extracto de la resolución que se notifica;
+
+IV. Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega, y
+
+V. El señalamiento de la hora a la que, al día siguiente, deberá esperar la notificación.
+
+Al día siguiente, en la hora fijada en el citatorio, la o el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra, se hará la notificación por estrados, de todo lo cual se asentará la razón correspondiente.
+
+Si a quien se busca se niega a recibir la notificación, o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio, o no se encuentra nadie en el lugar, éste se fijará en la puerta de entrada, procediéndose a realizar la notificación por estrados, asentándose razón de ello en autos.
+
+Las notificaciones personales podrán realizarse por comparecencia de la persona interesada, de su representante, o de su autorizado ante el órgano que corresponda.
+
+La notificación de las resoluciones que pongan fin al procedimiento de investigación será personal, se hará a más tardar dentro de los tres días hábiles siguientes a aquél en que se dicten, entregando al denunciante y a la denunciada copia certificada de la resolución.
+
+Los plazos se contarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de las quejas que se inicien antes del proceso electoral, los plazos se computarán por días hábiles, respecto de las que se presenten una vez iniciado aquél, por días naturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 363 BIS.- Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquéllos que hayan sido reconocidos. Tanto la Unidad Técnica de lo Contencioso como el Consejo General podrán invocar los hechos notorios, aunque no hayan sido alegados por la o el denunciado o por la o el quejoso. En todo caso, una vez que se haya apersonado la o el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio contradictorio de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
+
+Las pruebas deberán ofrecerse en el primer escrito que presenten las partes en el procedimiento, expresando con toda claridad cuál es el hecho o hechos que se tratan de acreditar con las mismas, así como las razones por las que se estima que demostrarán las afirmaciones vertidas.
+
+Sólo serán admitidas las siguientes pruebas:
+
+I. Documentales públicas;
+
+II. Documentales privadas;
+
+III. Técnicas;
+
+IV. Pericial contable;
+
+V. Presunción legal y humana, e
+
+VI. Instrumental de actuaciones.
+
+La confesional y la testimonial podrán ser admitidas cuando se ofrezcan en acta levantada ante fedatario público que las haya recibido directamente de las personas declarantes, y siempre que estas últimas queden debidamente identificadas y asienten la razón de su dicho. La autoridad que sustancie el procedimiento podrá ordenar el desahogo de reconocimientos o inspecciones judiciales, así como de pruebas periciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para el esclarecimiento de los hechos denunciados.
+
+La o el quejoso o el denunciado podrán aportar pruebas supervenientes hasta antes del cierre de la instrucción. Admitida una prueba superveniente, se dará vista a la o el quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
+
+La Unidad Técnica de lo Contencioso o el Consejo General podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo General apercibirá a las autoridades, en caso de que estas no atiendan en tiempo y forma el requerimiento de las pruebas.
+
+Asimismo, el Consejo General podrá admitir aquellos elementos probatorios que, habiendo sido solicitados por los órganos del Instituto Estatal dentro de la investigación correspondiente, no se hubiesen recibido sino hasta veinticuatro horas antes de la sesión respectiva. En estos casos el Consejo General ordenará la devolución del expediente a la Unidad Técnica de lo Contencioso para que la investigación de los hechos se realice de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 363 TER.- Las pruebas admitidas y desahogadas serán valoradas en su conjunto, atendiendo a las reglas de la lógica, la experiencia y de la sana crítica, así como a los principios rectores de la función electoral, con el objeto de que produzcan convicción sobre los hechos denunciados.
+
+Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
+
+Las documentales privadas, técnicas, periciales, e instrumental de actuaciones, así como aquéllas en las que un fedatario público haga constar las declaraciones de alguna persona debidamente identificada, sólo harán prueba plena cuando a juicio del órgano competente para resolver generen convicción sobre la veracidad de los hechos alegados, al concatenarse con los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí.
+
+En el caso de existir imposibilidad material para compulsar las copias simples que obren en el expediente, éstas tendrán únicamente el valor de un indicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 363 QUATER.- A falta de disposición expresa en el presente Titulo, serán de aplicación supletoria, en lo conducente, las reglas precisadas para los procedimientos sancionadores en la Ley General.
 
 #### Sección Primera. Del Procedimiento Sancionador Ordinario
 
@@ -4147,9 +4391,11 @@ El procedimiento sancionador ordinario tiene por objeto sancionar las infraccion
 
 El procedimiento podrá iniciar a instancia de parte, o de oficio cuando cualquier órgano del Instituto Estatal tenga conocimiento de la comisión de conductas infractoras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 366.
 
-La queja o denuncia deberá presentarse por escrito ante cualquier órgano del Instituto, cumpliendo los siguientes requisitos:
+La queja o denuncia deberá presentarse por escrito, en forma oral o por medios de comunicación electrónicos, ante cualquier órgano del Instituto, cumpliendo los siguientes requisitos:
 
 I. Nombre del quejoso o denunciante, con firma autógrafa o huella digital;
 
@@ -4163,9 +4409,21 @@ V. Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las que
 
 La queja o denuncia presentada, deberá ser remitida dentro del término de cuarenta y ocho horas a la Unidad Técnica de lo Contencioso para su trámite.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Ante la omisión de cualquiera de los requisitos antes señalados, la Unidad Técnica de lo Contencioso prevendrá a la o el denunciante para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera, la denuncia se tendrá por no presentada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+La autoridad que tome conocimiento de la interposición de una queja o denuncia en forma oral, por medios de comunicación electrónicos, deberá hacerla constar en acta, requiriendo la ratificación por parte de la o el denunciante. En caso de no acudir a ratificar la denuncia o queja dentro del término de tres días contados a partir de que se le notifique la citación, se tendrá por no formulada la denuncia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 367.
 
 Son causas de improcedencia o sobreseimiento de la queja o denuncia, además de los supuestos contenidos en el presente capítulo, las siguientes:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 I. De improcedencia, cuando:
 
@@ -4177,15 +4435,35 @@ c) Se denuncien actos de los que la autoridad electoral resulte incompetente par
 
 d) Se trate de quejas o denuncias frívolas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+e) La o el quejoso o denunciante no agote previamente las instancias internas del partido denunciado si la queja versa sobre presuntas violaciones a su normatividad interna;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+f) Tratándose de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político, la o el quejoso o denunciante no acredite su pertenencia al partido de que se trate o su interés jurídico.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 II. De sobreseimiento, cuando:
 
 a) Habiendo sido admitida la queja o denuncia, sobrevenga alguna de las causales de improcedencia;
 
 b) El denunciado sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su acreditación o registro, y
 
-c) El denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+c) El denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte del Consejo Electoral.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 El estudio de las causas de improcedencia o sobreseimiento se realizará de oficio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En caso de advertir que se actualiza una de ellas, la Unidad Técnica de lo Contencioso elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 368.
 
@@ -4201,13 +4479,21 @@ II. La Unidad Técnica de lo Contencioso contará con un plazo de cinco días pa
 
 Si dentro del plazo fijado para la admisión de la queja o denuncia, la Unidad Técnica de lo Contencioso valora que deben dictarse medidas cautelares lo propondrá a la Comisión de Quejas y Denuncias para que ésta resuelva en un plazo de veinticuatro horas lo conducente, a fin de lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley.
 
-III. Si la queja o denuncia reúne los requisitos establecidos en el presente Libro, la Unidad Técnica de lo Contencioso dictará la admisión correspondiente, ordenando el emplazamiento al presunto infractor, para que en un término de cinco días contados a partir del día siguiente al de la notificación, conteste por escrito lo que a su derecho convenga, ofreciendo las pruebas que acrediten su defensa.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+III. Si la queja o denuncia reúne los requisitos establecidos en el presente Libro, la Unidad Técnica de lo Contencioso dictará la admisión correspondiente, ordenando el emplazamiento a la persona que se señale como presunta infractora, corriéndole traslado con una copia de la queja, así como de las pruebas que, en su caso, haya aportado la o el denunciante, concediéndole un plazo de cinco días contados a partir del día siguiente al de la notificación, para que conteste por escrito lo que a su derecho convenga, ofreciendo las pruebas que acrediten su defensa.
 
 En la admisión, o en su caso, al decretar el inicio del procedimiento oficioso, la Unidad Técnica de lo Contencioso Electoral ordenará la práctica de las diligencias necesarias para el esclarecimiento de los hechos controvertidos, partiendo de los elementos de pruebas que obren en su poder;
 
 IV. La Unidad Técnica de lo Contencioso Electoral al admitir la contestación resolverá sobre la admisión de las pruebas ofrecidas por las partes dentro de los dos días siguientes, ordenando la preparación y desahogo de las mismas, para lo cual contará con un período de quince días. En los casos en que la Unidad Técnica de lo Contencioso Electoral hubiere ordenado de oficio la práctica de diligencias para el esclarecimiento de los hechos, el plazo anterior se prorrogar (sic) por quince días más;
 
-V. En el plazo señalado en la fracción anterior, la Unidad Técnica de lo Contencioso Electoral cerrará instrucción, y procederá dentro de los diez días siguientes a elaborar el proyecto de resolución el cual remitirá dentro del término de tres días, conjuntamente con el expediente original formado con motivo de la queja o denuncia, a la Comisión de Denuncias y Quejas para su conocimiento y estudio.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Concluido el desahogo de pruebas y, en su caso, agotada la investigación, la Unidad Técnica de lo Contencioso pondrá el expediente a la vista de la o el quejoso y de la o el denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+V. En el plazo señalado en la fracción anterior, la Unidad Técnica de lo Contencioso Electoral cerrará instrucción, y procederá dentro de los diez días siguientes a elaborar el proyecto de resolución el cual remitirá dentro del término de cinco días, conjuntamente con el expediente original formado con motivo de la queja o denuncia, a la Comisión de Quejas y Denuncias para su conocimiento y estudio.
 
 ###### Artículo 369.
 
@@ -4257,9 +4543,47 @@ II. Contravengan las normas sobre propaganda política o electoral, o
 
 III. Constituyan actos anticipados de precampaña o campaña.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+La Secretaría Ejecutiva por conducto de la Unidad Técnica de lo Contencioso, instruirá el procedimiento especial establecido en la presente sección, en cualquier momento cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 373.
 
-Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión, se estará a lo dispuesto en la Ley General.
+Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión, la queja o denuncia y sus anexos se remitirán inmediatamente al Instituto Nacional, para su conocimiento y estudio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 373 BIS.- En los procedimientos relacionados con violencia política contra las mujeres en razón de género, la Unidad Técnica de lo Contencioso, ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+Cuando la conducta infractora sea del conocimiento de los Consejos Distritales Electorales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
+
+Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley aplicable.
+
+La denuncia deberá contener lo siguiente:
+
+I. Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+II. Domicilio para oír y recibir notificaciones;
+
+III. Narración expresa de los hechos en que se basa la denuncia;
+
+IV. Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas, y
+
+V. En su caso, las medidas cautelares y de protección que se soliciten.
+
+La Unidad Técnica de lo Contencioso deberá admitir o desechar la denuncia en un plazo no mayor a veinticuatro horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Electoral, para su conocimiento.
+
+La Unidad Técnica de lo Contencioso desechará la denuncia cuando:
+
+I. No se aporten u ofrezcan pruebas.
+
+II. Sea notoriamente frívola o improcedente.
+
+Cuando la Unidad Técnica de lo Contencioso admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal Electoral, se desarrollarán conforme lo dispuesto en los artículos 378 y 379 de esta Ley.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -4295,31 +4619,57 @@ III. El denunciante no aporte ni ofrezca prueba alguna de sus dichos, o
 
 IV. La queja o denuncia sea evidentemente frívola.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 376.
 
-La Unidad Técnica de lo Contencioso deberá admitir o desechar la denuncia en un plazo no mayor a veinticuatro horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Estatal, para su conocimiento.
+La Unidad Técnica de lo Contencioso deberá admitir o desechar la denuncia en un plazo no mayor a veinticuatro horas posteriores a su recepción. En caso de desechamiento, notificará a la persona denunciante, su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Estatal, para su conocimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 377.
 
-Cuando la Unidad Técnica de lo Contencioso admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+Cuando la Unidad Técnica de lo Contencioso admita la denuncia, emplazará a la persona denunciante y a la persona denunciada para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
 Si la Unidad Técnica de lo Contencioso considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del mismo plazo de cuarenta y ocho horas, en los términos establecidos en la fracción II del artículo 368 de esta Ley. Esta decisión podrá ser impugnada ante el Tribunal Electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 377 BIS.- Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+I. Realizar análisis de riesgos y un plan de seguridad;
+
+II. Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+III. Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+IV. Ordenar la suspensión del cargo partidista, de la persona agresora, y
+
+V. Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
 
 ###### Artículo 378.
 
 La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Unidad Técnica de lo Contencioso, debiéndose levantar constancia de su desarrollo.
 
-En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando la persona oferente aporte los medios para tal efecto en el curso de la audiencia.
 
 La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados. La audiencia se desarrollará en los siguientes términos:
 
-I. Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa la Unidad Técnica de lo Contencioso actuará como denunciante;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-II. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+I. Abierta la audiencia, se dará el uso de la voz a la persona denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa la Unidad Técnica de lo Contencioso actuará como denunciante;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+II. Acto seguido, se dará el uso de la voz a la persona denunciada, a fin de que, en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
 
 III. La Unidad Técnica de lo Contencioso resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo, y
 
-IV. Concluido el desahogo de las pruebas, la Unidad Técnica de lo Contencioso Electoral concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita, o verbal por una sola vez y en tiempo no mayor a quince minutos cada uno.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Concluido el desahogo de las pruebas, la Unidad Técnica de lo Contencioso Electoral concederá en forma sucesiva el uso de la voz a la persona denunciante y a la persona denunciada, o a sus representantes, quienes podrán alegar en forma escrita, o verbal por una sola vez y en tiempo no mayor a quince minutos cada uno.
 
 ###### Artículo 379.
 
@@ -4343,11 +4693,11 @@ Del informe circunstanciado se enviará una copia a la Comisión de Quejas y Den
 
 Será competente para resolver sobre el procedimiento especial sancionador referido en el presente Capitulo, el Tribunal Electoral.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 381.
 
-Recibido el expediente en el Tribunal Electoral, la presidencia de éste lo asignará preliminarmente a un Magistrado del Pleno, para que dentro de los tres días siguientes verifique si se encuentra debidamente integrado y le informe del resultado, para proceder al turno correspondiente.
+Recibido el expediente en el Tribunal Electoral, la presidencia de éste lo asignará preliminarmente a una Magistrada o Magistrado del Pleno, para que dentro de los tres días siguientes verifique si se encuentra debidamente integrado y le informe del resultado, para proceder al turno correspondiente.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -4369,7 +4719,9 @@ III. Si advierte omisiones o deficiencias en la integración del expediente o en
 
 IV. Una vez devuelto el expediente por la autoridad administrativa electoral, la ponencia correspondiente revisará el cumplimiento de las diligencias ordenadas para mejor proveer.
 
-De persistir la violación procesal, podrá emitir nuevo requerimiento, o en su caso, corresponderá a la Ponencia el desahogo de las diligencias faltantes. Lo anterior, con independencia de la responsabilidad administrativa su caso pudiera exigirse a los servidores públicos electorales.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+De persistir la violación procesal, podrá emitir nuevo requerimiento, o en su caso, corresponderá a la Ponencia el desahogo de las diligencias faltantes. Lo anterior, con independencia de la responsabilidad administrativa su caso pudiera exigirse a las o los servidores públicos electorales.
 
 La ponencia correspondiente procederá con amplias facultades para llevar a cabo las diligencias para mejor proveer que se deriven de las omisiones e irregularidades que se adviertan en la reposición del procedimiento, así como para el desahogo de diligencias que se deriven de datos nuevos que éstas arrojen.
 
@@ -4382,6 +4734,18 @@ Las sentencias que resuelvan el procedimiento especial sancionador podrán tener
 I. Declarar la inexistencia de la violación objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto, o
 
 II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto en esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 382 BIS.- En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+I. Indemnización de la víctima;
+
+II. Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+III. Disculpa pública, y
+
+IV. Medidas de no repetición.
 
 ###### Artículo 383.
 
@@ -4471,9 +4835,11 @@ El procedimiento para determinar las responsabilidades de los servidores públic
 
 Cuando la responsabilidad se atribuya al Consejero Presidente y Consejeros Electorales del Consejo General, o a cualquier servidor público integrante del Servicio Profesional Electoral Local, la queja, denuncia o investigación correspondiente se remitirá al Instituto Nacional Electoral para los efectos conducentes.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 390.
 
-A falta de disposición expresa en el presente capítulo, serán de aplicación supletoria, en lo conducente, la Ley de Responsabilidades de los Servidores Públicos de aplicación en el estado.
+A falta de disposición expresa en el presente capítulo, serán de aplicación supletoria, en lo conducente, la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ###### Artículo 391.
 
@@ -4736,3 +5102,13 @@ PRIMERO. Publíquese la presente reforma en el Periódico Oficial del Estado.
 SEGUNDO. La presente reforma entrará en vigor hasta en tanto sea publicada la modificación al artículo 15 de la Constitución Política del Estado Libre y Soberano de Baja California, materia del presente Decreto y serán aplicables al siguiente proceso electoral ordinario que se celebre en la entidad.
 
 TERCERO. El Consejo General Electoral del Instituto Estatal Electoral de Baja California, deberá en su caso, adecuar la reglamentación interna correspondiente, antes del inicio del proceso electoral 2020-2021.
+
+P.O. 2 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 102 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. El Instituto Estatal Electoral, contará con un plazo de 30 días naturales contados a partir de la vigencia del presente Decreto, para adecuar sus disposiciones reglamentarias conforme a lo dispuesto en el mismo.
+
+TERCERO. Los procedimientos sancionadores iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán rigiéndose por las disposiciones vigentes al momento de su inicio.
