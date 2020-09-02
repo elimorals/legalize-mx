@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-partidos-politicos-del-estado-de-baja-california-108835"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2018-11-30"
+last_updated: "2020-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -47,9 +47,11 @@ LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA
 
 Las disposiciones de esta Ley son de orden público, de observancia general en el Estado de Baja California y tienen por objeto regular las normas constitucionales aplicables a los partidos políticos nacionales y locales, conforme al ámbito (sic) competencia derivado de la Constitución Política de los Estados Unidos Mexicanos, y la Ley General de Partidos Políticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 2.
 
-Son derechos político-electorales de los ciudadanos mexicanos residentes en el Estado, con relación a los partidos políticos, los siguientes:
+Son derechos político-electorales de las ciudadanas y ciudadanos mexicanos residentes en el Estado, con relación a los partidos políticos, los siguientes:
 
 I. Asociarse o reunirse pacíficamente para tomar parte en los asuntos políticos del Estado;
 
@@ -57,23 +59,25 @@ II. Afiliarse libre e individualmente a los partidos políticos, y
 
 III. Votar y ser votado para todos los cargos de elección popular dentro de los procesos internos de selección de candidatos y elección de dirigentes, teniendo las calidades que establezca la ley y los estatutos de cada partido político.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional Electoral o ante el Instituto Estatal Electoral, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional Electoral o ante el Instituto Estatal Electoral, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanas y ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+Los Partidos Políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y garantizarán la participación efectiva en condiciones de paridad en la integración de sus órganos, así como en la postulación de candidaturas.
 
-Los Partidos Políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y garantizarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 4.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados y en planillas de candidatos a munícipes en cada Ayuntamiento, tanto propietarios como suplentes. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputaciones y en planillas de candidaturas a munícipes en cada Ayuntamiento, tanto propietarios como suplentes. Éstos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JUNIO DE 2018)</small>
+En caso de incumplimiento a esta disposición serán acreedores a las sanciones que establezcan las leyes en la materia.
 
 En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior, asegurando condiciones de igualdad entre géneros de conformidad con lo dispuesto por la Ley Electoral del Estado de Baja California.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
@@ -97,11 +101,21 @@ VI. Instituto Estatal: El Instituto Estatal Electoral del Estado de Baja Califor
 
 VII. Ley: Ley de Partidos Políticos del Estado de Baja California;
 
-VIII. Ley General: La Ley General de Partidos Políticos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Partidos Políticos: Los partidos políticos nacionales y locales, y
+VIII. Ley de Acceso: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el estado de Baja California;
 
-X. Tribunal Electoral: al Tribunal de Justicia Electoral del Estado.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Ley General: La Ley General de Partidos Políticos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+X. Partidos Políticos: Los partidos políticos nacionales y locales, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Tribunal Electoral: al Tribunal de Justicia Electoral del Estado.
 
 ### CAPÍTULO II. De la ejecución y aplicación de la ley
 
@@ -111,7 +125,9 @@ Corresponde la ejecución y aplicación de las normas contenidas en esta Ley, de
 
 La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución.
 
-La interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus afiliados o militantes.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+La interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de las personas afiliadas o militantes.
 
 ###### Artículo 7.
 
@@ -143,13 +159,17 @@ I. Reconocer los derechos y el acceso a las prerrogativas de los partidos polít
 
 II. Registrar los partidos políticos locales.
 
-III. Verificar que la Legislatura del Estado se integre con diputados electos, según los principios de mayoría relativa y de representación proporcional, en los términos de la Constitución del Estado y la Ley electoral respectiva.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+III. Verificar que la Legislatura del Estado se integre con diputaciones electas, según los principios de mayoría relativa y de representación proporcional, en los términos de la Constitución del Estado y la Ley Electoral respectiva.
 
 En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta norma no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
 
 En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación.
 
-La ley electoral deberá reglamentar la fórmula para la asignación de diputados, atendiendo las bases anteriores, y lo dispuesto en la Constitución del Estado.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+La ley electoral deberá reglamentar la fórmula para la asignación de diputaciones, atendiendo las bases anteriores, y lo dispuesto en la Constitución del Estado.
 
 IV. Las demás que establezca, la Constitución, la Ley General, la Constitución del Estado y esta Ley.
 
@@ -157,17 +177,21 @@ IV. Las demás que establezca, la Constitución, la Ley General, la Constitució
 
 ### CAPÍTULO I. De la Constitución y Registro de los Partidos Políticos Locales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-Las organizaciones de ciudadanos que pretendan constituirse en partido político local deberán obtener su registro ante el Instituto Estatal quien deberá verificar que ésta cumpla con los requisitos siguientes:
+Las organizaciones de ciudadanas y ciudadanos que pretendan constituirse en partido político local deberán obtener su registro ante el Instituto Estatal quien deberá verificar que ésta cumpla con los requisitos siguientes:
 
 I. Presentar una declaración de principios y, en congruencia con éstos, su programa de acción y los estatutos que normarán sus actividades; los cuales deberán satisfacer los requisitos mínimos establecidos en la Ley General y esta Ley, y
 
 II. Contar con militantes en cuando menos dos terceras partes de los municipios de la entidad; los cuales deberán contar con credencial para votar en dichos municipios. Bajo ninguna circunstancia, el número total de sus militantes en la entidad podrá ser inferior al 0.26 por ciento del padrón electoral que haya sido utilizado en la elección local ordinaria inmediata anterior a la presentación de la solicitud de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 12.
 
-La organización de ciudadanos que pretenda constituirse en partido político local para obtener su registro, deberá informar tal propósito al Instituto Estatal en el mes de enero del año siguiente al de la elección de Gobernador del Estado.
+La organización de ciudadanas y ciudadanos que pretenda constituirse en partido político local para obtener su registro, deberá informar tal propósito al Instituto Estatal en el mes de enero del año siguiente al de la elección de la Gobernatura del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -213,19 +237,21 @@ II. Las listas nominales de afiliados por distritos electorales o municipios, se
 
 III. Las actas de las asambleas celebradas en los distritos electorales y municipios, según sea el caso, y la de su asamblea local constitutiva.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-El Instituto Estatal, conocerá de la solicitud de los ciudadanos que pretendan su registro como partido político local, examinará los documentos de la solicitud de registro a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en la Ley General y esta Ley, y formulará el proyecto de dictamen de registro.
+El Instituto Estatal, conocerá de la solicitud de las ciudadanas y ciudadanos que pretendan su registro como partido político local, examinará los documentos de la solicitud de registro a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en la Ley General y esta Ley, y formulará el proyecto de dictamen de registro.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-El Instituto Estatal, notificará al Instituto Nacional para que realice la verificación del número de afiliados y de la autenticidad de las afiliaciones al nuevo partido, conforme al cual se constatará que se cuenta con el número mínimo de afiliados, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido político de nueva creación.
+El Instituto Estatal, notificará al Instituto Nacional para que realice la verificación del número de personas afiliadas y de la autenticidad de las afiliaciones al nuevo partido, conforme al cual se constatará que se cuenta con el número mínimo de afiliados, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido político de nueva creación.
 
 ###### Artículo 17.
 
 Para los efectos de lo dispuesto en esta Ley, se deberá verificar que no exista doble afiliación a partidos ya registrados o en formación.
 
-En el caso de que un ciudadano aparezca en más de un padrón de afiliados de partidos políticos, el Instituto Estatal, dará vista a los partidos políticos involucrados para que manifiesten lo que a su derecho convenga; de subsistir la doble afiliación, el Instituto requerirá al ciudadano para que se manifieste al respecto y, en caso de que no se manifieste, subsistirá la más reciente.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En el caso de que una ciudadana o ciudadano aparezca en más de un padrón de afiliados de partidos políticos, el Instituto Estatal, dará vista a los partidos políticos involucrados para que manifiesten lo que a su derecho convenga; de subsistir la doble afiliación, el Instituto requerirá al ciudadano para que se manifieste al respecto y, en caso de que no se manifieste, subsistirá la más reciente.
 
 ###### Artículo 18.
 
@@ -269,13 +295,17 @@ El Consejo General del Instituto Estatal, a más tardar el quince de septiembre 
 
 ### CAPÍTULO III. De los Derechos y Obligaciones de los Partidos Políticos
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 21.
 
 Son derechos de los partidos políticos, además de lo dispuesto por el artículo 23 de la Ley General, los siguientes:
 
 I. Gozar de las garantías que esta Ley les otorga;
 
-II. Postular candidatos en las elecciones de Gobernador, diputados y munícipes en el Estado;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+II. Postular candidatos en las elecciones de Gubernatura, diputaciones y munícipes en el Estado;
 
 III. Designar a sus representantes ante los órganos electorales del Instituto Estatal;
 
@@ -301,37 +331,85 @@ V. Ser miembro en servicio activo de cualquier fuerza armada o policiaca, y
 
 VI. Ser agente del Ministerio Público federal o local.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 23.
 
 Son obligaciones de los partidos políticos, además de lo dispuesto por el artículo 25 de la Ley General, las siguientes:
 
-I. Cumplir con sus normas de afiliación, mantener en funcionamiento efectivo a sus órganos de dirección estatutarios y observar los procedimientos que señalen sus Estatutos para la postulación de candidatos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+I. Cumplir con sus normas de afiliación, mantener en funcionamiento efectivo a sus órganos de dirección estatutarios y observar los procedimientos que señalen sus Estatutos para la postulación de candidaturas;
 
 II. Observar lo establecido en su declaración de principios, programa de acción y estatutos;
 
-III. Garantizar la paridad entre los géneros en candidaturas a diputados y en planillas de candidatos a munícipes en cada Ayuntamiento, tanto propietarios como suplentes.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Registrar a sus precandidatos y candidatos a puestos de elección popular, ante los órganos electorales competentes en los términos de la Ley electoral respectiva;
+III. Garantizar la paridad de género en candidaturas a diputaciones y en planillas de candidaturas a munícipes en cada Ayuntamiento, tanto propietarios como suplentes.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Registrar a sus precandidatas y precandidatos, así como a sus candidatas y candidatos a puestos de elección popular, ante los órganos electorales competentes en los términos de la Ley Electoral respectiva;
 
 V. Formar parte del Consejo General y de los Consejos Distritales Electorales del Instituto Estatal;
 
 VI. Acatar las resoluciones que los órganos electorales dicten en el ejercicio de sus funciones;
 
-VII. Retirar, en el plazo que determinen las leyes electorales respectivas, la propaganda electoral que hubieran fijado, pintado o instalado en lugares de uso común, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2018)</small>
+VII. Retirar, en el plazo que determinen las leyes electorales respectivas, la propaganda electoral que hubieran fijado, pintado o instalado en lugares de uso común;
 
-VIII. Sujetarse a lo que dispone la Ley Electoral de Baja California, respecto a la designación de candidatos y precandidatos en el proceso de elección consecutiva.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE JUNIO DE 2018)</small>
+VIII. Sujetarse a lo que dispone la Ley Electoral de Baja California, respecto a la designación de candidaturas y precandidaturas en el proceso de elección consecutiva;
 
-IX. Las demás que establezcan la Constitución y las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+X. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de la Ley de Acceso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la presente Ley, dentro de los cuales deberán informar trimestralmente de manera pormenorizada y justificada sobre la aplicación de los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Garantizar la no discriminación por razón de género en la programación y distribución de tiempos en el estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Elaborar, proponer y ejecutar programas de educación cívica, paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político y electoral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Promover la suscripción de convenios en materia de educación cívica, paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político y electoral, sugiriendo la articulación de políticas orientadas a la promoción de la cultura político-democrática, la igualdad política entre mujeres y hombres, así como la construcción de ciudadanía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Realizar campañas de información para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Capacitar a su personal, así como a las personas precandidatas y candidatas, para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, así como en igualdad sustantiva, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Las demás que establezcan la Constitución y las leyes.
 
 ###### Artículo 24.
 
 Queda prohibido a los partidos políticos:
 
-I. Realizar afiliaciones colectivas de ciudadanos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+I. Realizar afiliaciones colectivas de ciudadanas y ciudadanos;
 
 II. Recurrir a la violencia y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el ejercicio del derecho de terceros o impedir el funcionamiento regular de las instituciones y órganos públicos;
 
@@ -463,17 +541,25 @@ III. Un órgano responsable de la administración de su patrimonio y recursos fi
 
 IV. Un órgano de decisión colegiada, democráticamente integrado, responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidatos a cargos de elección popular;
 
-V. Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+V. Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo, aplicando la perspectiva de género en todas las resoluciones que emita;
 
 VI. Un órgano encargado de cumplir con las obligaciones de transparencia y acceso a la información que la Constitución y las leyes de la materia imponen a los partidos políticos, y
 
 VII. Un órgano encargado de la educación y capacitación cívica de los militantes y dirigentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En dichos órganos internos se garantizará el principio de paridad de género.
+
 ### CAPÍTULO V. De los Procesos de Integración de Órganos Internos y de Selección de Candidatos
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 36.
 
-Los procedimientos internos para la integración de los órganos internos de los partidos políticos locales y para la postulación de candidatos a cargos de elección popular, estarán a cargo del órgano previsto en la fracción IV del artículo anterior y se desarrollarán con base en los lineamientos básicos establecidos en el artículo 44 de la Ley General.
+Los procedimientos internos para la integración de los órganos internos de los partidos políticos locales y para la postulación de candidaturas a cargos de elección popular, estarán a cargo del órgano previsto en la fracción IV del artículo anterior y se desarrollarán con base en los lineamientos básicos establecidos en el artículo 44 de la Ley General, debiéndose garantizar la imparcialidad, igualdad, equidad, transparencia, paridad y legalidad de las etapas del proceso.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -489,7 +575,9 @@ Para la organización y el desarrollo del proceso de elección, se aplicarán la
 
 Los partidos políticos locales establecerán procedimientos de justicia intrapartidaria que incluyan mecanismos alternativos de solución de controversias.
 
-El órgano de decisión colegiado previsto en la fracción V del artículo 35 de esta Ley, deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de miembros; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así como con respeto a los plazos que establezcan los estatutos de los partidos políticos.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+El órgano de decisión colegiado previsto en la fracción V del artículo 35 de esta Ley, deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de integrantes; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así mismo deberá sustanciar cualquier procedimiento con perspectiva de género, así como con respeto a los plazos que establezcan los estatutos de los partidos políticos.
 
 Los estatutos de los partidos políticos locales establecerán medios alternativos de solución de controversias sobre asuntos internos, para lo cual deberán prever los supuestos en los que serán procedentes, la sujeción voluntaria, los plazos y las formalidades del procedimiento.
 
@@ -499,13 +587,19 @@ En el procedimiento y resolución de todas las controversias relacionadas con lo
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 39.
 
-Los partidos políticos, precandidatos y candidatos a cargos de elección popular, accederán a la radio y la televisión a través del tiempo que la Constitución, otorgan como prerrogativa a los primeros, en los términos previstos en la Ley General de Instituciones y Procedimientos Electorales.
+Los partidos políticos, precandidatas y precandidatos, así como las candidatas y candidatos a cargos de elección popular, accederán a la radio y la televisión a través del tiempo que la Constitución, otorgan (sic) como prerrogativa a los primeros, en los términos previstos en la Ley General de Instituciones y Procedimientos Electorales.
 
-Los partidos políticos, precandidatos y candidatos a cargos de elección popular, en ningún momento por sí o por terceras personas podrán contratar o adquirir, tiempos en cualquier modalidad de radio y televisión.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+Los partidos políticos, precandidatas y precandidatos, así como las candidatas y candidatos, en ningún momento por sí o por terceras personas podrán contratar o adquirir, tiempos en cualquier modalidad de radio y televisión.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidaturas a cargos de elección popular.
 
 Los partidos políticos, al ejercer sus prerrogativas en la radio y la televisión, deberán difundir sus principios ideológicos, programa de acción y plataforma electoral.
 
@@ -531,25 +625,33 @@ Los partidos políticos de nueva acreditación o registro, según sea el caso, e
 
 ### CAPÍTULO I. Del Financiamiento Público
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 42.
 
-Los Partidos Políticos tienen derecho a recibir, para desarrollar sus actividades, financiamiento público que se distribuirá de manera equitativa, conforme a lo establecido en los artículos 41, Base II de la Constitución y 5 apartado A de la Constitución del Estado.
+Los Partidos Políticos nacionales y locales, tienen derecho a recibir, para desarrollar sus actividades, financiamiento público de manera equitativa.
 
-El financiamiento público deberá prevalecer sobre otros tipos de financiamiento y será destinado para el sostenimiento de actividades ordinarias permanentes, gastos de procesos electorales y para actividades específicas como entidades de interés público.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 43.
 
-Los partidos políticos nacionales y locales tendrán derecho al financiamiento público de sus actividades, estructura, sueldos y salarios, independientemente de las demás prerrogativas otorgadas en esta Ley, conforme lo dispone la Ley General, en base a las disposiciones siguientes:
+El financiamiento público será destinado para las actividades, estructuras, sueldos y salarios, que se compondrá y otorgará conforme a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-a) El Consejo General del Instituto Estatal, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización Vigente;
+a) El Consejo General del Instituto Estatal, determinará anualmente el monto total por distribuir entre los partidos políticos locales en los términos establecidos en la Ley General.
 
-b) El resultado de la operación señalada en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá el treinta por ciento entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
+Para los partidos políticos nacionales se calculará multiplicando el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por treinta por ciento del valor diario de la Unidad de Medida y Actualización vigente.
+
+Para el caso, de que existan dos o menos partidos políticos con registro local, podrán recibir por concepto de financiamiento público, la cantidad que resulte, sin que esta exceda esta (sic) de un veinticinco por ciento del monto referido en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+b) El treinta por ciento entre los partidos políticos en forma igualitaria y el setenta por ciento, restante de acuerdo con el porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
 
 c) Las cantidades que, en su caso, se determinen para cada partido político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente el Consejo General del Instituto Estatal;
 
@@ -575,9 +677,13 @@ d) La ministración de los recursos se hará de la siguiente manera:
 
 4. Diez por ciento del monto total, veinte días antes de la jornada electoral.
 
-III. Por actividades específicas como entidades de interés público:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-a) La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al uno por ciento del que corresponda en el mismo año para las actividades ordinarias a que se refiere la fracción I de este artículo; el monto total será distribuido en los términos establecidos en el inciso b) de la fracción antes citada;
+III. Por actividades específicas como entidades de interés público;
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+a) La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para las actividades ordinarias a que se refiere la fracción I de este artículo; el monto total será distribuido en los términos establecidos en el inciso b) de la fracción antes citada;
 
 b) Para la fiscalización y vigilancia de que los partidos políticos destinen el financiamiento a que se refiere la presente fracción exclusivamente a las actividades señaladas en el inciso anterior, se estará a las reglas previstas en la Ley General, y
 
@@ -706,6 +812,10 @@ III. La organización de mesas de trabajo, conferencias, talleres, eventos y pro
 IV. La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia, y
 
 V. Todo gasto necesario para la organización y difusión de las acciones referidas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VI. La creación o fortalecimiento de mecanismos para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género;
 
 ###### Artículo 53.
 
@@ -952,3 +1062,19 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 2 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 102.- MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; LA LEY ELECTORAL DEL ESTADO BAJA CALIFORNIA; LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 108 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 42 Y 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. El Consejo General del Instituto Estatal Electoral, determinará el financiamiento público para los partidos políticos nacionales y locales con base a la nueva fórmula prevista en el artículo 43 de la Ley de Partidos Políticos del Estado, y lo incorporará a partir de su proyecto de presupuesto del ejercicio fiscal 2021.
