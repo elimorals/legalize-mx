@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-administrativas-del-estado-de-baja-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2019-10-11"
+last_updated: "2020-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Especial al Periódico Oficial del Estado de Baja California, el lunes 7 de agosto de 2017.
 
@@ -555,11 +555,13 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el servidor público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones la persona servidora o servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
 
-De igual manera, se considerará abuso de funciones, cuando el funcionario que estando obligado, por omisión, negligencia o con conocimiento de causa, no entere las cuotas de aportación de seguridad social a la entidad correspondiente, en los términos legalmente establecidos.
+De igual manera, se considerará abuso de funciones, cuando el funcionario que, estando obligado, por omisión, negligencia o con conocimiento de causa, no entere las cuotas de aportación de seguridad social a la entidad correspondiente, en los términos legalmente establecidos. Así como cuando realiza por sí o a través de un tercero, alguna de las conductas descritas en el artículo 11 TER, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California.
 
 ###### Artículo 58.
 
@@ -1864,3 +1866,9 @@ P.O. 11 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 01 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN IV, ASÍ COMO LA ADICIÓN DE TRES PÁRRAFOS A LA FRACCIÓN VI DEL ARTÍCULO 11, COMO TAMBIÉN LAS REFORMAS A LOS ARTÍCULOS 13 Y 23 DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA AL ARTÍCULO 53; LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 54, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 62 BIS DE NUEVA CREACIÓN A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 102 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
