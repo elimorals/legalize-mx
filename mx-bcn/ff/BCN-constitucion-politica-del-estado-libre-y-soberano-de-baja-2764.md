@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2020-07-24"
+last_updated: "2020-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -293,9 +293,9 @@ El Estado de Baja California acata plenamente y asegura a todos sus habitantes l
 
 El Estado reconoce y protege la Institución del Matrimonio como un derecho de la sociedad orientado a garantizar y salvaguardar la perpetuación de la especie y ayuda mutua entre los cónyuges, satisfaciéndose este solamente, mediante la unión de un hombre con una mujer.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Los titulares de los Poderes Públicos, de los Órganos Constitucionales Autónomos del Estado, así como de los Ayuntamientos, deberán publicar dentro de la primera semana del mes de julio de cada año, en sus páginas oficiales de internet, un informe en el que se señalen las acciones, programas y resultados de la promoción, respeto, protección y garantía de los derechos humanos, conforme lo establezcan las leyes respectivas.
+Las personas titulares de los Poderes Públicos, de los Órganos Constitucionales Autónomos del Estado, así como de los Ayuntamientos, deberán publicar dentro de la primera semana del mes de julio de cada año, en sus páginas oficiales de internet, un informe en el que se señalen las acciones, programas y resultados de la promoción, respeto, protección y garantía de los derechos humanos, conforme lo establezcan las leyes respectivas.
 
 APARTADO A. De la promoción, respeto, protección y garantía de los Derechos Humanos.
 
@@ -311,9 +311,9 @@ Esta Constitución asume a plenitud todos los derechos, prerrogativas de los pue
 
 Las comunidades indígenas pertenecientes a cualquier otro pueblo indígena, procedentes de otro Estado de la República y que residan temporal o permanentemente dentro del territorio del Estado de Baja California, quedan protegidos por los derechos señalados en esta Constitución y la ley respectiva. La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y Leyes de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Sin poner en riesgo la unidad estatal, esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia a su autonomía.
+Sin poner en riesgo la unidad estatal, esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia a su autonomía. Sin perjuicio de lo anterior, también se reconoce el derecho de las mujeres y los hombres indígenas residentes en el Estado, a participar en la elección de Diputaciones y de Munícipes para integrar los Ayuntamientos del Estado, en los términos que determine la Ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -347,9 +347,13 @@ APARTADO B. De la Comisión Estatal de los Derechos Humanos.
 
 Corresponde a la Comisión Estatal de los Derechos Humanos, la protección, observancia, y promoción de los derechos humanos que amparan las disposiciones jurídicas. Será un organismo público autónomo, con personalidad jurídica y patrimonio propio, contará con autonomía de gestión y presupuestaria, de reglamentación interna y de decisión.
 
-Estará a cargo de un Presidente, que será electo por las dos terceras partes de los Diputados que integran el Poder Legislativo, por un periodo de cuatro años, dentro del cual solo podrá ser removido por las causas que se señalan en ésta Constitución y la Ley. No podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docente (sic), científicas o de beneficencia.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-El procedimiento para la elección del presidente de la Comisión Estatal de los Derechos Humanos, se ajustará a una consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
+Estará a cargo de un Presidente o Presidenta, que será electa por mayoría calificada del Congreso del Estado, por un periodo de cuatro años, dentro del cual solo podrá ser removido por las causas que se señalan en ésta Constitución y la Ley. No podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+El procedimiento para la elección del Presidente o Presidenta de la Comisión Estatal de los Derechos Humanos, se ajustará a una consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
 
 La Comisión Estatal de los Derechos Humanos contará con las siguientes funciones:
 
@@ -367,9 +371,13 @@ IV. Promoverá las acciones de inconstitucionalidad en contra de disposiciones j
 
 V. Aprobará por medio de su Consejo Consultivo, las disposiciones reglamentarias internas para su eficaz funcionamiento, y ejercerá las demás atribuciones que establezca la ley.
 
-La Comisión Estatal de los Derechos Humanos, contará con un Consejo Consultivo integrado por seis consejeros honoríficos predominantemente de ciudadanos sin cargo público y con reconocido prestigio en la sociedad los cuales deberán ser ratificados por el Poder Legislativo. Asimismo contará con un Secretario Ejecutivo y hasta cinco Visitadores Generales, de conformidad con los procedimientos y los requisitos que señale la Ley.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-La Comisión Estatal de los Derechos Humanos, por conducto de su Presidente, quien lo será también del Consejo Consultivo, presentará anualmente, por escrito, a los Poderes del Estado, un informe de sus actividades. Al efecto, comparecerá ante el Pleno del Poder Legislativo en los términos que disponga la ley.
+La Comisión Estatal de los Derechos Humanos, contará con un Consejo Consultivo integrado por seis consejeras y consejeros honoríficos predominantemente de ciudadanas o ciudadanos sin cargo público y con reconocido prestigio en la sociedad los cuales deberán ser ratificados por el Poder Legislativo. En la conformación del consejo se deberá garantizar el principio de paridad de género. Asimismo, contará con una Secretaria o Secretario Ejecutivo y hasta cinco Visitadores Generales, de conformidad con los procedimientos y los requisitos que señale la Ley.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+La Comisión Estatal de los Derechos Humanos, por conducto de su presidencia, quien lo será también del Consejo Consultivo, presentará anualmente, por escrito, a los Poderes del Estado, un informe de sus actividades. Al efecto, comparecerá ante el Pleno del Poder Legislativo en los términos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
@@ -403,27 +411,47 @@ En su funcionamiento el Instituto se regirá por los principios de certeza, lega
 
 La Ley establecerá aquella información que se considere reservada o confidencial.
 
-El Instituto se integrará por tres Comisionados Propietarios que formarán parte del Pleno y un Comisionado Suplente que cubrirán las ausencias de aquellos, en los términos previstos en la Ley. Los Comisionados durarán en su encargo cinco años, sin posibilidad de ser ratificados y serán designados de conformidad con las bases siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-a.- Inmediatamente que exista una o varias vacantes de Comisionados o ciento veinte días naturales antes si la misma fuere previsible; el Comité Ciudadano el cual estará integrado por siete ciudadanos nombrados en términos de la ley y dos representantes del Poder Ejecutivo, deberá expedir la convocatoria que debe ser publicada en el Periódico Oficial del Estado y dos diarios de mayor circulación en el Estado.
+El Instituto se integrará por tres personas Comisionadas Propietarios que formarán parte del Pleno y una Comisionada o Comisionado Suplente que cubrirán las ausencias de aquellos, en los términos previstos en la Ley. Las y los Comisionados durarán en su encargo cinco años, sin posibilidad de ser ratificados y serán designados de conformidad con las bases siguientes:
 
-b.- El Comité Ciudadano deberá elaborar una lista de personas que contenga una opinión de los méritos, trayectoria, experiencia y resultados de las entrevistas de cada uno de las personas que se inscribieron en términos de la convocatoria señalada en el inciso anterior. La opinión deberá ser enviada al Congreso Local, dentro de los sesenta días naturales siguientes contados a partir de la publicación de la convocatoria.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-c.- El Pleno del Congreso Local en un término no mayor a treinta días naturales contados a partir de que recibió la opinión del Comité Ciudadano, por mayoría calificada de sus integrantes, deberá nombrar al Comisionado. El Presidente del Congreso dentro de los tres días naturales siguientes al nombramiento del Comisionado deberá remitirlo al Gobernador del Estado.
+a.- Inmediatamente que exista una o varias vacantes o ciento veinte días naturales antes si la misma fuere previsible; el Comité Ciudadano el cual estará integrado por siete ciudadanas y ciudadanos nombrados en términos de la ley y dos representantes del Poder Ejecutivo, deberá expedir la convocatoria que debe ser publicada en el Periódico Oficial del Estado y dos diarios de mayor circulación en el Estado.
 
-d.- El Gobernador, por una sola vez, podrá objetar de manera fundada y motivada el nombramiento en un término no mayor a cinco días naturales contados a partir del momento en que lo reciba del Congreso. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado la persona nombrada por el Congreso.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+b.- El Comité Ciudadano deberá elaborar una lista de personas que contenga una opinión de los méritos, trayectoria, experiencia y resultados de las entrevistas de cada una de las personas que se inscribieron en términos de la convocatoria señalada en el inciso anterior. La opinión deberá ser enviada al Congreso del Estado, dentro de los sesenta días naturales siguientes contados a partir de la publicación de la convocatoria.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+c.- El Pleno del Congreso del Estado en un término no mayor a treinta días naturales contados a partir de que recibió la opinión del Comité Ciudadano, por mayoría calificada de sus integrantes, deberá realizar el nombramiento respectivo. La Presidencia del Congreso dentro de los tres días naturales siguientes al nombramiento respectivo, deberá remitirlo al Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+d.- El Gobernador, por una sola vez, podrá objetar de manera fundada y motivada el nombramiento en un término no mayor a cinco días naturales contados a partir del momento en que lo reciba del Congreso. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionada o Comisionado la persona nombrada por el Congreso.
 
 e.- En caso de que el Gobernador objetara el nombramiento, el Congreso Local realizará un nuevo nombramiento por una votación de mayoría calificada, tomando en consideración las personas que forman parte de la lista a la que alude el inciso b.
 
-f.- En todas las etapas del proceso de nombramiento de Comisionados a cargo del Comité Ciudadano y del Congreso Local, deberán observarse los principios de transparencia y participación ciudadana.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VII y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la información pública. En la conformación del Pleno del Instituto deberá atenderse a la equidad de género.
+f.- En todas las etapas del proceso de nombramiento de Comisionadas y Comisionados a cargo del Comité Ciudadano y del Congreso del Estado, deberán observarse los principios de transparencia y participación ciudadana.
 
-Los Comisionados no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-El Instituto contará con un Consejo Consultivo, integrado por seis Consejeros honoríficos, designados por mayoría calificada del Congreso Local. Los Consejeros deberán reunir los mismos requisitos que los Comisionados, pero tendrán que poseer título profesional con antigüedad mínima de tres años y provenir de organizaciones de la sociedad civil y de la academia. Los Consejeros durarán tres años en el encargo con posibilidad de ser ratificados y serán designados conforme a lo que establezca la Ley.
+Las y los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VII y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la Información pública. En la conformación del Pleno del Instituto se deberá garantizar el principio de paridad de género.
 
-El Instituto contará con un Órgano Interno de Control, cuyo titular será designado por mayoría calificada del Congreso Local. El procedimiento de designación y requisitos serán establecidos en la Ley.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Las y los Comisionados no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+El Instituto contará con un Consejo Consultivo, integrado de manera paritaria por seis Consejeras y Consejeros honoríficos, designados por mayoría calificada del Congreso del Estado. Las y los Consejeros deberán reunir los mismos requisitos que las y los Comisionados, pero tendrán que poseer título profesional con antigüedad mínima de tres años y provenir de organizaciones de la sociedad civil y de la academia. Las y los Consejeros durarán tres años en el encargo con posibilidad de ser ratificados y serán designados conforme a lo que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+El Instituto contará con un Órgano Interno de Control, cuyo titular será designado por mayoría calificada del Congreso del Estado. El procedimiento de designación y requisitos serán establecidos en la Ley.
 
 La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
 
@@ -440,6 +468,18 @@ APARTADO E.- De las Víctimas.
 > <small>[N. DE E. PERTENECE AL APARTADO E, P.O. 19 DE ENERO DE 2018]</small>
 
 Esta constitución reconoce y garantiza los Derechos de la víctima o del ofendido derivadas (sic) de las acciones u omisiones que contravengan lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos. Este derecho y su garantía será exigido por medio de los preceptos jurídicos y a través de los órganos jurisdiccionales correspondientes en los términos que dispongan las leyes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+APARTADO F.- De la Paridad de Género en Órganos Constitucionales Autónomos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+El Congreso del Estado, en la designación de las personas Titulares de los Órganos Constitucionales Autónomos a que se refiere esta Constitución, cuando estos sean de integración colegiada deberá garantizar el principio de paridad de género. Cuando la designación tenga por objeto cubrir una vacante por terminación anticipada, el nombramiento se deberá realizar en persona del mismo género.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En los casos, donde la integración sea impar, en las nuevas designaciones se deberá alternar el género mayoritario.
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
@@ -665,7 +705,7 @@ Todos los Diputados tendrán idéntica categoría e igualdad de obligaciones y g
 
 Los Diputados, como representantes del pueblo, podrán auxiliar a sus representados y a las comunidades del Estado en sus demandas sociales y de orden administrativo de interés general, a fin de lograr su oportuna solución, por lo que las autoridades administrativas del Estado y los Ayuntamientos deberán atender su intervención y ver por la oportuna resolución de sus promociones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 15.
 
@@ -675,101 +715,123 @@ La asignación de diputaciones por el principio de representación proporcional 
 
 I.- Para que los partidos políticos tengan este derecho deberán:
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 a) Participar con candidaturas a diputaciones por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales, y
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 b) Haber obtenido por lo menos el tres por ciento de la votación válida emitida en la elección de diputaciones por el principio de representación proporcional.
 
-c) (DEROGADO, P.O. 24 DE JULIO DE 2020)
+c) (DEROGADO, P.O. 24 DE JULIO DE 2020) (REPUBLICADA SU DEROGACIÓN, P.O. 2 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará una diputación a cada partido político que tenga derecho a ello. Las asignaciones corresponderán solo a las candidaturas que tengan mayor porcentaje de votación válida en el distrito y que no hayan obtenido constancia de mayoría. En el caso de coaliciones, la primera asignación a cada partido político deberá determinarse, además, con base en el convenio de coalición registrado.
+II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará una diputación a cada partido político que tenga derecho a ello. Las asignaciones corresponderán solo a las candidaturas que tengan mayor porcentaje de votación válida en el distrito y que no hayan obtenido constancia de mayoría; En el caso de coaliciones, la primera asignación a cada partido político deberá determinarse además, con base en el convenio de coalición registrado.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 En caso de que el número de partidos políticos sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 III.- Si después de asignadas las diputaciones señaladas en la fracción anterior, aún quedasen diputaciones por asignar, se otorgarán a los partidos políticos, en los siguientes términos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 a) Se obtendrá el porcentaje de votación de los partidos políticos que reúnan los requisitos que señala la fracción I de este artículo, mediante el siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-1.- Realizará la sumatoria de los votos obtenidos por los partidos políticos, en la elección de diputados por el principio de representación proporcional, que reúnan los requisitos, y
+1.- Realizará la sumatoria de los votos obtenidos por los partidos políticos o coaliciones, en la elección de diputaciones por el principio de representación proporcional, que reúnan los requisitos, y
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-2.- La votación de cada partido se dividirá entre la sumatoria obtenida en el numeral anterior y se multiplicará por cien;
+2.- La votación de cada partido se dividirá entre la sumatoria obtenida en el numeral anterior y se multiplicará por cien.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-b).- Se procederá a multiplicar el porcentaje de la votación obtenido por los partidos políticos, en la elección de Diputados por el principio de representación proporcional de cada partido político, por veinticinco;
+b) Se procederá a multiplicar el porcentaje de la votación obtenido por los partidos políticos, en la elección de diputaciones por el principio de representación proporcional de cada partido político, por veinticinco;
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-c).- Al resultado obtenido en el inciso anterior se le restarán las diputaciones obtenidas de mayoría y la asignada conforme a la fracción anterior;
+c) Al resultado obtenido en el inciso anterior se le restarán las diputaciones obtenidas de mayoría y la asignada conforme a la fracción anterior;
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-d).- Se asignará una diputación de representación proporcional por cada número entero que se haya obtenido en la operación señalada en el inciso anterior, procediendo en estricto orden de prelación conforme al porcentaje obtenido, de cada partido político, en los términos del párrafo segundo de la fracción II de este artículo e inciso a) de esta fracción, y
+d) Se asignará una diputación de representación proporcional por cada número entero que se haya obtenido en la operación señalada en el inciso anterior, procediendo en estricto orden de prelación conforme al porcentaje obtenido, de cada partido político, en los términos del párrafo segundo de la fracción II de este artículo e inciso a) de esta fracción, y
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-e).- Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en el inciso d) anterior;
+e) Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en el inciso d) anterior.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-IV.- Ningún partido político podrá tener más de diecisiete Diputados por ambos principios;
+IV.- Ningún partido político podrá tener más de diecisiete diputaciones por ambos principios.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-V.- En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
+V.- En ningún caso, un partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
 
-Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2014)</small>
+Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignado una diputación por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
 
-VI.- La asignación de los Diputados por el principio de representación proporcional que le corresponda a cada partido político, la hará el Instituto Estatal Electoral, en los términos que señale la Ley.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+VI.- La asignación de diputaciones por el principio de representación proporcional que le corresponda a cada partido político, la hará el Instituto Estatal Electoral, en los términos que señale la Ley.
 
-###### ARTÍCULO 16.
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Los Diputados se elegirán cada tres años y podrán ser electos de manera consecutiva de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, con independencia de que hayan accedido al cargo como candidatos independientes o sido postulados por algún partido político o coalición.
+###### ARTICULO 16.
 
-Cuando los diputados hayan sido postulados por algún partido político o coalición, la postulación para su elección consecutiva sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las diputaciones se elegirán cada tres años y podrán ser electos de manera consecutiva de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, con independencia de que hayan accedido al cargo como candidaturas independientes o sido postulados por algún partido político o coalición.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Para ser electo Diputado de manera consecutiva, no será necesario que el funcionario interesado, solicite licencia para separarse del cargo.
+Cuando las diputaciones hayan sido postuladas por algún partido político o coalición, la postulación para su elección consecutiva sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 16 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Para ser electo para una diputación de manera consecutiva, no será necesario que el funcionario interesado, solicite licencia para separarse del cargo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 Durante los periodos de campaña respectiva, quien pretenda reelegirse de manera consecutiva, debe ponderar los siguientes supuestos:
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
 I.- No podrá recibir emolumentos o salarios, dietas, apoyos para gestión social o cualquier otra que se le asimile, independientemente de la obligación de continuar en el desempeño del cargo para el cual ha decidido participar en elección consecutiva.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
 II.- No podrá utilizar recursos públicos que les correspondan por el ejercicio de su encargo para promover o influir de manera alguna en el voto a su favor o en contra de algún candidato.
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
 III.- No podrá ocupar al personal adscrito a la nómina del Congreso del Estado durante su horario laboral para realizar actos de campaña.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
 IV.- No podrá estar presente en actos públicos relacionados con la entrega de beneficios derivados de programas sociales promovidos en su encargo.
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
 V.- No podrá condicionar la entrega de recursos provenientes de programas públicos en ninguna circunstancia.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
 VI.- No podrá promocionar o publicar las acciones de beneficio social realizadas en el periodo que comprende, desde el inicio de las campañas hasta la conclusión de la jornada electoral.
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
 VII.- Las demás prohibiciones o limitaciones que determinen las leyes aplicables en la materia.
 
-Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término, el derecho a la elección consecutiva del diputado que haya obtenido la constancia de mayoría relativa o de representación proporcional en el proceso electoral anterior para la asignación de género por distrito o su equivalencia.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidaturas deberán respetar el principio de paridad de género en su aspecto cualitativo y cuantitativo.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
 Los Diputados que pretendan contender para la elección consecutiva, ya sean emanados del régimen de partidos políticos o a través de la vía independiente, deberán contender por el mismo distrito por el que resultaron electos o, en su caso, por su equivalente cuando la conformación de dichos distritos se haya modificado. En caso de que resulten equivalentes diversos distritos, el aspirante deberá manifestar en cuál de ellos pretende contender.
 
@@ -803,9 +865,11 @@ La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un 
 
 Estos mismos requisitos serán necesarios tratándose de la elección consecutiva a que refiere el artículo 16 de esta Constitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTICULO 18.
 
-No pueden ser electos diputados:
+No pueden ser electas para ocupar alguna diputación, las siguientes personas:
 
 I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho durante todo el período de su ejercicio; aún cuando se separe de su cargo;
 
@@ -832,6 +896,10 @@ VI.- Quienes tengan cualquier empleo, cargo o comisión en el Gobierno Federal, 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 VII.- Los ministros de cualquier culto religioso, a menos que se separen en los términos que establece la Ley de la materia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- Las personas condenadas mediante sentencia firme por los delitos de violencia política contra las mujeres en razón de género o violencia familiar.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -1433,21 +1501,27 @@ V.- Estar en pleno goce de sus derechos Políticos.
 
 VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 42.
 
-No podrán ser electos Gobernador del Estado:
+No podrán ser electos Gobernadora o Gobernador del Estado:
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 El Secretario General de Gobierno, los Magistrados y Jueces del Estado, Consejeros de la Judicatura del Estado, el Fiscal General del Estado, Fiscal Especializado en Combate a la Corrupción, el Fiscal Especializado para la Atención de Delitos Electorales los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes del día de la elección.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
 Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Las personas condenadas mediante sentencia firme por los delitos de violencia política contra las mujeres en razón de género o violencia familiar.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -2257,9 +2331,9 @@ Los ayuntamientos se compondrán de munícipes electos por el sufragio universal
 
 Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de octubre que siga a su elección. Al efecto, el día inmediato anterior, se reunirán los munícipes electos, en sesión solemne con la finalidad de rendir protesta ante la comunidad e instalar los ayuntamientos.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los ayuntamientos durarán en su cargo tres años, pudiendo ser electos por un período adicional consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+La Presidencia Municipal, Sindicatura y Regidurías de los ayuntamientos durarán en su cargo tres años, pudiendo ser electos por un período adicional consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2020)</small>
 
@@ -2268,6 +2342,10 @@ Para ser electo Presidente Municipal, Regidor o Síndicos de un ayuntamiento, de
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2020)</small>
 
 Durante los actos de precampaña o campaña respectiva, quien pretenda participar en una elección consecutiva, deberá abstenerse del uso de recursos públicos en los términos que prevé el artículo 16 de esta Constitución y 9 TER de la Ley para el Régimen Municipal para el Estado de Baja California, además en el periodo de campaña, no podrán recibir emolumentos o salarios, dietas, apoyos para gestión social o cualquier otra que se le asimile, independientemente de la obligación de desempeñar el cargo para el cual ha decidido participar en elección consecutiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatas y candidatos deberán respetar el principio de paridad de género en su aspecto cualitativo y cuantitativo.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -2378,6 +2456,10 @@ V.- No podrán ser electos miembros de un Ayuntamiento:
 3.- Los Diputados Locales, los Diputados y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
 
 4.- Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+5. Las personas condenadas mediante sentencia firme por los delitos de violencia política contra las mujeres por razón de género o violencia familiar.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -5020,3 +5102,13 @@ P.O. 24 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 85 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22, 27, 46, 136, 144, 145 Y 190 Y LA ADICIÓN DEL ARTÍCULO 27 BIS, TODOS DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 102 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA Y LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Aprobada la presente reforma por el pleno de este Congreso, remítase a los Ayuntamientos para el proceso legislativo previsto en el artículo 112 de nuestra constitución estatal.
+
+SEGUNDO. Concluido el procedimiento previsto por el artículo 112 de la Constitución Estatal, remítase para su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Las reformas contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
