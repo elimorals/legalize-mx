@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2020-07-10"
+last_updated: "2020-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -51,23 +51,19 @@ Las disposiciones de la presente Ley son de orden público, interés social y ob
 
 La presente Ley obliga al Gobierno del Estado y a los Gobiernos Municipales, en el ámbito de sus respectivas competencias a expedir las normas legales y reglamentarias correspondientes, y tomar las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, cumpliendo con los objetivos del Sistema y del Programa Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 3.
 
 Para elaborar e implementar políticas públicas que promuevan el acceso de las mujeres a una vida libre de violencia, las instancias de gobierno estatal y las municipales deberán tomar en cuenta los siguientes principios rectores:
 
-I. El respeto a la vida y la libertad de las mujeres;
+I. La igualdad jurídica entre hombres y mujeres;
 
-II. El respeto a su integridad física, psíquica y moral;
+II. El respeto a la dignidad humana de las mujeres y que se proteja a sus familias;
 
-III. La igualdad jurídica entre hombres y mujeres;
+III. El derecho a un mecanismo sencillo y rápido ante las autoridades competentes para que la protejan contra la violencia; y
 
-IV. El respeto a la dignidad inherente a la mujer y que se proteja a su familia;
-
-V. El derecho a un mecanismo sencillo y rápido ante las autoridades competentes para que la protejan contra la violencia; y
-
-VI. El derecho a ser libre de toda forma de discriminación y ser valorada y educada libre de patrones estereotipados de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación.
+IV. El derecho a ser libre de toda forma de discriminación y ser valorada y educada libre de patrones estereotipados de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación.
 
 ###### Artículo 4.
 
@@ -171,6 +167,8 @@ IX. Cualquiera otra forma análoga que lesione o sea susceptible de dañar la di
 
 ### CAPÍTULO III. ORDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
 Violencia Familiar: Se considera violencia familiar el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
@@ -261,43 +259,59 @@ VII. La adhesión a convenios o protocolos para eliminar estas modalidades de vi
 
 VIII. La evaluación de sus políticas públicas en forma volitiva, de los sectores públicos, privados o sociales.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 11 Bis.
 
-Se entiende por violencia política a las acciones o conductas cometidas directamente o a través de terceros en contra de las mujeres candidatas, electas, designadas o en ejercicio de la función político-pública para acortar, suspender, impedir o restringir el ejercicio de sus derechos políticos así como para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones.
+La violencia política contra las mujeres en razón de género, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 11 Ter.
 
-Son actos de violencia política hacia las mujeres candidatas, electas, designadas o en ejercicio de la función político - pública, los que:
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-I.- Proporcionen a las mujeres candidatas o autoridades electas o designadas información falsa, errada o imprecisa que induzca al inadecuado ejercicio de sus funciones político - públicas.
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-II.- Impongan por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-III.- Obliguen mediante la fuerza o intimidación a las autoridades electas o designadas en el ejercicio de sus funciones político - públicas, suscribir todo tipo de documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general.
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-IV.- Asignen responsabilidades que tengan como resultado la limitación del ejercicio de la función político-pública.
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
 
-V.- Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o designadas asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los (sic) imagen pública o limitar sus derechos políticos y electorales;
 
-VI.- Impidan o restrinjan su reincorporación al cargo cuando hagan uso de una licencia justificada.
+VI. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
 
-VII.- Restrinjan o impidan el uso de acciones constitucionales y legales para proteger sus derechos frente a los actos o eviten el cumplimiento de las Resoluciones correspondientes.
+VII. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
 
-VIII.- Impongan sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos.
+VIII. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-IX.- Anulen las candidaturas de mujeres proporcionando datos falsos o información incompleta a las autoridades Electorales del Estado.
+IX. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
 
-X.- Divulguen o revelen información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político - públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan.
+X. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
 
-XI.- Difundan información falsa relativa a las funciones político - públicas, con el objetivo de desprestigiar su gestión y obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan.
+XI. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
 
-XII.- Discriminen a la mujer electa designada o en el ejercicio de la función político-publica, por encontrarse en estado de embarazo impidiendo o negando el ejercicio de su mandato o el goce de sus derechos sociales reconocidos por Ley o los que le correspondan.
+XII. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
 
-XIII.- Presionen o induzcan a las autoridades electas o designadas a presentar renuncia al cargo.
+XIII. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XIV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XV. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XVI. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XVIII. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
+
+XIX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales. La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -415,7 +429,9 @@ II. Exista un agravio comparado que impida el ejercicio pleno de los derechos hu
 
 ###### Artículo 21.
 
-Las órdenes de protección son actos realizados por las autoridades competentes, de urgente aplicación en función del interés superior de la víctima, y son fundamentalmente precautorias y cautelares, sobre hechos probablemente constitutivos de infracciones o delitos que impliquen violencia.
+Las órdenes de protección, son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+
+En materia de violencia política contra las mujeres en razón de género, el organismo público Local Electoral y el Tribunal de Justicia Electoral del Estado, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
 ###### Artículo 22.
 
@@ -551,45 +567,63 @@ II. El Instituto de la Mujer para el Estado, quien fungirá como Secretario Téc
 
 III. Vocales, que serán los titulares de:
 
-a) La Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-b) La Procuraduría General de Justicia del Estado;
+a) La Secretaría de Integración y Bienestar Social.
 
-c) La Secretaría de Seguridad Pública;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-d) El Sistema Estatal para el Desarrollo Integral de la Familia;
+b) La Secretaría de Inclusión Social e Igualdad de Género.
 
-e) La Secretaría de Educación y Bienestar Social;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+c) La Fiscalía General del Estado.
 
-f) La Secretaría de Salud;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2016)</small>
+d) El Sistema Estatal para el Desarrollo Integral de la Familia.
 
-g) La Secretaría del Trabajo y Previsión Social, y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2016)</small>
+e) La Secretaría de Educación.
 
-h) El Instituto de Cultura de Baja California.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+f) La Secretaría de Salud.
 
-i) La Comisión Estatal de los Derechos Humanos de Baja California.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+g) La Secretaría del Trabajo y Previsión Social.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+h) La Secretaría de Cultura.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+i) La Comisión Estatal de Derechos Humanos.
 
 IV. Los Gobiernos Municipales a través de su respectiva instancia de la mujer, o a falta de ésta, quien tenga a su cargo la implementación de mecanismos para el adelanto de las mujeres en la administración pública municipal.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-V. Un Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión encargada de la materia de Igualdad entre mujeres y hombres.
+V. Una Diputada o Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión encargada de la materia de Igualdad entre mujeres y hombres.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Un Magistrado del Poder Judicial del Estado de Baja California, quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura.
+VI. Un Magistrado o Magistrada del Poder Judicial del Estado de Baja California, quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Un representante de la sociedad civil por cada Municipio, quienes participaran con derecho a voz y serán electos de acuerdo a la Reglamentación que para tal efecto emita el Ejecutivo Estatal.
+VII. Una persona representante de la sociedad civil por cada Municipio, quienes participaran con voz y voto, quienes serán electos de acuerdo a la Reglamentación que para tal efecto emita el Ejecutivo Estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. La persona representante en el Estado de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+IX. El Instituto Estatal Electoral.
 
 ###### Artículo 33.
 
@@ -616,6 +650,8 @@ VII. Proponer al Ejecutivo estatal su reglamento interno.
 Las particularidades del funcionamiento, organización y atribuciones de los integrantes del Sistema Estatal quedarán establecidas en el Reglamento que para tal efecto se dicte.
 
 ### CAPÍTULO VII. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
@@ -655,7 +691,7 @@ IX. Diseñar un modelo integral de atención a los derechos humanos y ciudadaní
 
 ###### Artículo 36.
 
-Para la efectiva aplicación de la Ley, las Dependencias y Entidades del Gobierno del Estado, el Poder Legislativo y el Judicial, establecerán una coordinación con perspectiva de género, promoviendo la eficiencia en la prestación de sus servicios. Participarán las Secretarías General de Gobierno, Seguridad Pública, Desarrollo Social, Salud, Educación y Bienestar Social, Trabajo y Previsión Social, la Procuraduría General de Justicia, Instituto de la Mujer para el Estado, el Instituto de Cultura de Baja California, así como los cinco Gobiernos Municipales del Estado.
+Para la efectiva aplicación de la Ley, las Dependencias y Entidades del Gobierno del Estado, el Poder Legislativo y el Judicial, establecerán una coordinación con perspectiva de género, promoviendo la eficiencia en la prestación de sus servicios. Participarán las Secretarías General de Gobierno, Integración y Bienestar Social, Salud, Educación, Trabajo y Previsión Social, Cultura, Inclusión Social e Igualdad de Género, el Instituto de la Mujer para el Estado, así como los Gobiernos Municipales del Estado.
 
 ###### Artículo 37.
 
@@ -705,33 +741,9 @@ XIV. Proveer de los recursos presupuestarios, humanos y materiales a las entidad
 
 XV. Todas aquellas que se requieran para tener un Estado libre de violencia de género.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 38 Bis.
 
-Corresponde a la Secretaría de Seguridad Pública:
-
-I. Capacitar al personal del cuerpo de policía estatal y promover la capacitación de los cuerpos municipales en cuanto a la atención de casos de violencia en contra de las mujeres;
-
-II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-III. Integrar, administrar y operar la Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
-
-IV. Emitir los lineamientos necesarios para determinar e integrar la información que contendrá la Base Estatal de Datos;
-
-V. Proporcionar la información (sic) la Base Estatal de Datos a los particulares sin inclusión de datos personales, en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y de los lineamientos referidos en la fracción anterior;
-
-VI. Proponer al Ejecutivo el Diseño de la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
-
-VII. Establecer las acciones y medidas que se deberán tomar para la readaptación y reinserción social del presunto o presunta generador de violencia;
-
-VIII. Ejecutar y dar seguimiento a las acciones del Programa Estatal que le correspondan;
-
-IX. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
-
-X. Diseñar, con una visión transversal, la política integral con perspectiva de protección a la mujer orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres, y
-
-XI. Las demás previstas para el cumplimiento de la presente Ley.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
 
@@ -739,9 +751,11 @@ XI. Las demás previstas para el cumplimiento de la presente Ley.
 
 Las Organizaciones de la Sociedad Civil especializadas en atención a mujeres víctimas de violencia, podrán proporcionar datos obtenidos de la atención que presenten en sus centros, los cuales la Secretaría de Seguridad Pública valorará y de ser necesario los ingresará e integrará a la base de datos que se refiere la fracción III del artículo 38 Bis de esta Ley.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 39.
 
-Corresponderá a la Secretaría de Educación y Bienestar Social, en su ámbito de acción, el implementar en la política educativa del Estado, los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno de los derechos humanos. Así como el desarrollo de programas educativos que promuevan la cultura de una vida libre de violencia contra las mujeres, buscando la erradicación de la violencia docente.
+Corresponderá a la Secretaría de Educación, en su ámbito de acción, el implementar en la política educativa del Estado, los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno de los derechos humanos. Así como el desarrollo de programas educativos que promuevan la cultura de una vida libre de violencia contra las mujeres, buscando la erradicación de la violencia docente.
 
 ###### Artículo 40.
 
@@ -751,9 +765,11 @@ Corresponderá a la Secretaría del Trabajo y Previsión Social el formular y ej
 
 Corresponderá a la Secretaría de Salud el implementar en la política de salud del estado, los principios de equidad y no discriminación entre mujeres y hombres, favoreciendo la prevención de la violencia de género, garantizando que en todas sus dependencias, cuando se trate de la atención a las víctimas, se aplique la NOM 190-SSA1-1999: Prestación de servicios de salud; Criterios para la atención médica de violencia familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 42.
 
-Corresponderá a la Procuraduría General de Justicia:
+Corresponde a la Fiscalía General del Estado:
 
 I. Diseñar la política en materia de procuración de justicia para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -775,13 +791,25 @@ VII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 VIII. Crear un registro público sistemático de las denuncias de los delitos cometidos en contra de mujeres, los índices de incidencia y reincidencia, consignación, sanción y reparación del daño, sin inclusión de datos personales. Este registro se remitirá a la Base para definir políticas en materia de prevención del delito, procuración y administración de justicia; y,
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Mantener y actualizar la información sobre casos de violencia contra la mujer y remitirla a la base de datos prevista en el artículo 38 bis, fracción III de esta ley; y
+IX. Integrar, administrar, operar y mantener actualizada la Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-X.- Las demás que determinen las leyes.
+X. Capacitar al personal del cuerpo de policía estatal y promover la capacitación de los cuerpos municipales en cuanto a la atención de casos de violencia en contra de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Proporcionar la información la Base Estatal de Datos a los particulares sin inclusión de datos personales, en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Diseñar, con una visión transversal, la política integral con perspectiva de protección a la mujer orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Las demás que determinen las leyes.
 
 ###### Artículo 43.
 
@@ -837,13 +865,29 @@ XVII. Impulsar la creación de unidades o módulos especializados de atención y
 
 XVIII. Conforme a lo previsto por la Ley General, dar seguimiento a las solicitudes de alerta de violencia de género.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-Corresponderá al Instituto de Cultura de Baja California, el formular, coordinar y ejecutar políticas de promoción de los derechos humanos de las mujeres, a través de las diferentes manifestaciones culturales y artísticas. Así como diseñar y promover campañas de información sobre los tipos y modalidades de la violencia contra las mujeres, y las dependencias y entidades que la atienden.
+Corresponderá a la Secretaría de Cultura de Baja California, el formular, coordinar y ejecutar políticas de promoción de los derechos humanos de las mujeres, a través de las diferentes manifestaciones culturales y artísticas. Así como diseñar y promover campañas de información sobre los tipos y modalidades de la violencia contra las mujeres, y las dependencias y entidades que la atienden.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Artículo 44 BIS. Corresponderá a la Secretaría de Desarrollo Social, en su ámbito de competencia, fomentar el desarrollo social utilizando las herramientas necesarias para proteger de manera integral los derechos fundamentales de las mujeres, garantizarles una vida libre de violencia promoviendo su plena participación en todos los ámbitos de la vida buscando que mejoren las condiciones de aquellas que se encuentra en situación de exclusión y pobreza.
+###### Artículo 44 Bis.
+
+Corresponderá a la Secretaría de Integración y Bienestar Social, en su ámbito de competencia, fomentar el desarrollo social utilizando las herramientas necesarias para proteger de manera integral los derechos fundamentales de las mujeres, garantizarles una vida libre de violencia promoviendo su plena participación en todos los ámbitos de la vida buscando que mejoren las condiciones de aquellas que se encuentra en situación de exclusión y pobreza.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 44 Ter.
+
+Corresponde al Instituto Estatal Electoral del Estado, en el ámbito de sus competencias:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
 ###### Artículo 45.
 
@@ -1056,3 +1100,9 @@ P.O. 10 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL DECRETO 84 MEDIANTE EL CUAL "SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 102 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
