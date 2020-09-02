@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-iii-124884"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-02"
-last_updated: "2018-02-09"
+last_updated: "2020-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124884&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2017-11-28"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN III
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL LA FEDERACIÓN DEL 9 DE FEBRERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 2020.
 
 Estatuto publicado en el Número 1 del Diario Oficial de la Federación, el martes 2 de enero de 2018.
 
@@ -85,21 +83,31 @@ X. CFE Generación III: Empresa Productiva Subsidiaria CFE Generación III.
 
 ### CAPÍTULO II. De la Estructura
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 3.
 
 Para el despacho de los asuntos de su competencia, CFE Generación III cuenta con los órganos de estructura básica siguientes:
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
 1.- Dirección General
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
 
 a) Subgerencia de Producción
 
-> <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
 
-b) Subgerencia de Producción Hidroeléctrica Ixtapantongo
+b) Subgerencia de Producción Hidroeléctrica Noroeste
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
 
 c) Subgerencia de Producción Termoeléctrica Baja California
 
-d) Subgerencia de Producción Termoeléctrica Occidente
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
+d) Subgerencia de Producción Termoeléctrica Norpacífico
 
 e) Subgerencia de Administración y Recursos Humanos
 
@@ -143,19 +151,27 @@ V. Un consejero independiente designado por el Consejo de Administración, a pro
 
 En cada sesión del Consejo participará un representante de los Trabajadores, con derecho a voz, pero sin voto.
 
-###### Artículo 6.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 6.
 
 El Consejo designará, a propuesta del Director General, a los titulares de los órganos de estructura básica siguientes:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
 a) Subgerencia de Producción.
 
-> <small>(F. DE E., D.O.F. 9 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
 
-b) Subgerencia de Producción Hidroeléctrica Ixtapantongo.
+b) Subgerencia de Producción Hidroeléctrica Noroeste.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
 
 c) Subgerencia de Producción Termoeléctrica Baja California.
 
-d) Subgerencia de Producción Termoeléctrica Occidente.
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
+d) Subgerencia de Producción Termoeléctrica Norpacífico.
 
 e) Subgerencia de Administración y Recursos Humanos.
 
@@ -267,9 +283,13 @@ XXXI. Suscribir en coordinación con las Unidades administrativas y operativas d
 
 XXXII. Dirigir la planeación estratégica de asociaciones, alianzas y nuevos negocios, así como administrar la operación de dichas sociedades, alianzas y nuevos negocios;
 
-XXXIII. Proponer al Consejo la designación o remoción del siguiente nivel jerárquico de CFE Generación III (Subgerente de Producción, Subgerente de Producción Hidroeléctrica Ixtapantongo, Subgerente de Producción Termoeléctrica Occidente, Subgerente de Producción Termoeléctrica Baja California, Subgerente de Administración y Recursos Humanos, Departamento de Planeación y Finanzas y Departamento Jurídico);
+> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIV. Designar a los titulares de los Departamentos de Calidad, Seguridad y Ambiental, de Control de Gestión y Desempeño, Tecnologías de la Información, así como al titular de la Unidad de Optimización y Gestión de Energía;
+XXXIII. Proponer al Consejo la designación o remoción del siguiente nivel jerárquico de CFE Generación III (Subgerente de Producción, Subgerente de Producción Hidroeléctrica Noroeste, Subgerente de Producción Termoeléctrica Baja California, Subgerente de Producción Termoeléctrica Norpacífico, Subgerente de Administración y Recursos Humanos, Departamento de Planeación y Finanzas y Departamento Jurídico);
+
+> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV. Designar a los titulares de los Departamentos de Calidad, Seguridad y Ambiental, de Control de Gestión y Desempeño, Tecnologías de Información, Ingeniera Especializada, así como al titular de la Unidad de Optimización y Gestión de Energía;
 
 XXXV. Aprobar la modificación a las estructuras orgánicas que impacten en la operación de CFE Generación III, a propuesta de la Subgerencia de Administración y Recursos Humanos;
 
@@ -395,9 +415,11 @@ X. Las demás que le resulten necesarias para el cumplimiento de las funciones c
 
 Para el ejercicio de sus funciones, el Subgerente de Producción se auxiliará de las Unidades Operativas y de los servidores públicos que determinen el Consejo y/o el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-A la Subgerencia de Producción Hidroeléctrica Ixtapantongo le corresponde, además de las funciones genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
+A la Subgerencia de Producción Hidroeléctrica Noroeste le corresponde, además de las funciones genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
 
 I. Normar y unificar criterios a utilizar en los diversos aspectos técnicos-administrativos que surjan en el ámbito de las Centrales a su cargo;
 
@@ -431,9 +453,11 @@ XV. Coadyuvar como experto técnico en los procesos de elaboración de requisici
 
 XVI. Coordinar las visitas de supervisión técnica a las Centrales Hidroeléctricas que estén bajo su control, así como dar seguimiento a los hallazgos técnicos que en su caso se detecten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 17.
 
-A las Subgerencias de Producción Termoeléctrica Baja California y Occidente les corresponde, además de las funciones genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
+A las Subgerencias de Producción Termoeléctrica Baja California y Norpacífico les corresponde, además de las funciones genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
 
 I. Normar y unificar criterios a utilizar en los diversos aspectos técnicos-administrativos que surjan en el ámbito de las Centrales a su cargo;
 
@@ -997,55 +1021,85 @@ XXXI. Las demás que le resulten necesarias para el cumplimiento de las funcione
 
 Las Superintendencias de Centrales estarán jerárquicamente subordinadas a las Subgerencias de Producción de acuerdo a su tecnología y a las cuales se encuentren adscritas, y con las funciones genéricas y específicas previstas en este Estatuto, los manuales o normatividad interna y demás ordenamientos legales aplicables.
 
-La CFE Generación III cuenta con las siguientes Superintendencias Generales:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
 
-1. Superintendencia Central Termoeléctrica Francisco Villa
+La CFE Generación III cuenta con el siguiente portafolio de Centrales:
 
-2. Superintendencia Central Termoeléctrica General Manuel Álvarez Moreno (Manzanillo I)
+1. CCC Presidente Juárez (Rosarito)
 
-3. Superintendencia Central Termoeléctrica José Aceves Pozos (Mazatlán II)
+2. CCC Agua Prieta II
 
-4. Superintendencia Central Termoeléctrica Juan de Dios Bátiz Paredes (Topolobampo)
+3. CCC Hermosillo
 
-5. Superintendencia Central Termoeléctrica Presidente Juárez (Rosarito)
+4. CCC Empalme (CCC Empalme I y CCC Empalme II)
 
-6. Superintendencia Central Termoeléctrica Puerto Libertad
+5. CCI Guerrero Negro (Vizcaíno)
 
-7. Superintendencia Central Termoeléctrica Presidente Emilio Portes Gil (Río Bravo)
+6. CCI Santa Rosalía
 
-8. Superintendencia Central Turbo Gas Caborca
+7. CCI Gral. Agustín Olachea Avilés (Puerto San Carlos)
 
-9. Superintendencia Central Turbo Gas Cd. Constitución
+8. CCI Baja California Sur
 
-10. Superintendencia Central Turbo Gas Ciprés
+9. CFV Cerro Prieto
 
-11. Superintendencia Central Turbo Gas Culiacán
+10. CFV Santa Rosalía
 
-12. Superintendencia Central Turbo Gas Los Cabos
+11. CG Cerro Prieto
 
-13. Superintendencia Central Turbo Gas Mexicali
+12. CG Tres Vírgenes
 
-14. Superintendencia Central Hidroeléctrica Falcón
+13. CH Plutarco Elías Calles (El Novillo)
 
-15. Superintendencia Central Hidroeléctrica Infiernillo
+14. CH Oviáchic
 
-16. Superintendencia Central Hidroeléctrica La Villita
+15. CH Mocúzari
 
-17. Superintendencia Central Hidroeléctrica Ing. Carlos Ramírez Ulloa (Caracol)
+16. CH 27 de Septiembre (El Fuerte)
 
-18. Superintendencia Central Hidroeléctrica La Amistad
+17. CH Gral. Salvador Alvarado (Sanalona)
 
-19. Superintendencia Central Ciclo Combinado Gómez Palacio
+18. CH Humaya
 
-20. Superintendencia Central Ciclo Combinado Manzanillo I
+19. CH Bacurato
 
-21. Superintendencia Central Ciclo Combinado Presidente Emilio Portes Gil (Río Bravo)
+20. CH Luis DonaIdo Colosio Murrieta (Huites)
 
-22. Superintendencia Central Ciclo Combinado Presidente Juárez (Rosarito)
+21. CH Prof. Raúl J. Marsal Córdoba (Comedero)
 
-23. Superintendencia Central de Combustión Interna Santa Rosalía
+22. CH Boquilla
 
-24. Superintendencia Central Fotovoltáica Santa Rosalía
+23. CH Colina
+
+24. CT Presidente Juárez (Rosarito)
+
+25. CT Punta Prieta
+
+26. CT Puerto Libertad
+
+27. CT Carlos Rodríguez Rivero (Guaymas II)
+
+28. CT Juan de Dios Bátiz Paredes (Topolobampo)
+
+29. CT José Aceves Pozos (Mazatlán II)
+
+30. CTG Tijuana
+
+31. CTG Ciprés
+
+32. CTG Mexicali
+
+33. CTG Guerrero Negro (Vizcaíno)
+
+34. CTG Cd. Constitución
+
+35. CTG La Paz
+
+36. CTG Los Cabos
+
+37. CTG Caborca
+
+38. CTG Culiacán
 
 ###### ARTÍCULO 30.
 
@@ -1091,9 +1145,11 @@ La representación de la CFE Generación III, estará a cargo del Director Gener
 
 El Director General acreditará su representación en términos del nombramiento respectivo y las funciones que le corresponden de conformidad con este Estatuto y demás ordenamientos legales aplicables; en tanto que los Subgerentes, Jefes de Unidad y Jefes de Departamento, con base en los poderes que se les otorguen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 34.
 
-Durante las ausencias del Director General, será suplido por el Subgerente de Producción, Subgerente de Producción Termoeléctrica Occidente, Subgerente de Producción Termoeléctrica Baja California, Subgerente de Producción Hidroeléctrica Ixtapantongo y Subgerente de Administración y Recursos Humanos, en ese orden.
+Durante las ausencias del Director General, será suplido por el Subgerente de Producción, Subgerente de Producción Termoeléctrica Norpacífico, Subgerente de Producción Termoeléctrica Baja California, Subgerente de Producción Hidroeléctrica Noroeste y Subgerente de Administración y Recursos Humanos, en ese orden.
 
 El orden anteriormente descrito también aplicará en caso de vacancia, hasta en tanto sea nombrado el nuevo Director General.
 
@@ -1101,9 +1157,11 @@ En toda clase de juicios, especialmente, en los de amparo en que el Director Gen
 
 Las Subgerencias, Unidades, Departamentos y Superintendente de Central cuentan con la facultad legal para representar a CFE Generación III y presentar promociones en su nombre, en toda clase de procedimientos administrativos y judiciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 35.
 
-Las ausencias del Auditor Interno de CFE Generación III serán suplidas, por el Auditor Supervisor asignado a la empresa.
+Las ausencias por vacancias del Auditor Interno de CFE Generación III serán suplidas, por el Auditor Supervisor asignado a la empresa.
 
 Las Ausencias por vacaciones del Auditor Interno de CFE Generación III, serán suplidas por el Auditor Interno de la CFE, hasta en tanto se efectúe la designación conforme al procedimiento establecido en los lineamientos aprobados por el Consejo de Administración.
 
@@ -1135,6 +1193,26 @@ El Titular de la Unidad de Transparencia de la CFE Generación III así como el 
 
 El Comité de Transparencia de CFE Generación III, estará integrado por 3 miembros designados por el Director General, entre los que se encontrará el Titular de la Unidad de Transparencia. Para cada integrante propietario deberá ser designado un suplente.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
+## TÍTULO V BIS. De la Instancia en Materia de Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO ÚNICO. Unidad de Responsabilidades
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 42.
+
+La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Generación III las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2020)</small>
+
+###### ARTÍCULO 43.
+
+La Unidad de Responsabilidades en CFE Generación III contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1154,3 +1232,9 @@ D.O.F. 9 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN III, PUBLICADO EL 2 DE ENERO DE 2018”.]
 
 ÚNICO.- La presente Nota Aclaratoria al Estatuto Orgánico de CFE Generación III de (sic) entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES Y ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN III, PUBLICADO EL 2 DE ENERO DE 2018".]
+
+ÚNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
