@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2019-12-27"
+last_updated: "2020-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -1099,15 +1099,17 @@ XIII. Coordinar el Servicio Estatal de Empleo, así como las bolsas de trabajo d
 
 XIV. Implementar las medidas administrativas que se estimen conducentes en materia de seguridad industrial, prevención del desempleo, acceso a las oportunidades laborales para obreros desocupados, y de protección al menor y a las mujeres trabajadoras;
 
-XV. Coordinar la integración y establecimiento de las Juntas Locales de Conciliación y Arbitraje, las Especiales y las Comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción estatal, así como vigilar su funcionamiento;
+XV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2020)
 
-XVI. Llevar el registro de las asociaciones obreras, patronales y profesionales de jurisdicción estatal que se ajusten a las leyes;
+XVI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2020)
 
 XVII. Promover la organización de toda clase de sociedades cooperativas y demás formas de organización social para el trabajo, en coordinación con las dependencias competentes, así como resolver, tramitar y registrar su constitución, disolución y liquidación;
 
 XVIII. Dirigir y coordinar la inspección del trabajo a efecto de que se cumplan las normas de seguridad e higiene establecidas en los diversos ordenamientos legales;
 
-XIX. Dirigir y coordinar la Procuraduría Estatal de la Defensa del Trabajo, y prestar a través de ella asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten, y representarlos ante los tribunales del Trabajo;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Dirigir y coordinar la Procuraduría Estatal de la Defensa del Trabajo, y prestar a través de ella asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten, y representarlos ante los tribunales laborales;
 
 XX. Practicar los exámenes de competencia a los jefes de planta, operadores, fogoneros y personal especializado que determine la Ley Federal del Trabajo, expidiendo en su caso las licencias correspondientes;
 
@@ -2054,3 +2056,33 @@ P.O. 27 DE DICIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0744.- SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 40 TER EN SU FRACCIÓN XIX; Y DEROGA LAS FRACCIONES XV Y XVI, DEL MISMO ARTÍCULO 40 TER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”, con excepción de la derogación de la fracción XV del artículo 40 Ter, cuya disposición seguirá vigente hasta que, como resultado de su extinción legal, concluya de manera definitiva el último de los asuntos a cargo de las Juntas Locales de Conciliación y Arbitraje del Estado de San Luis Potosí y de las Especiales.
+
+SEGUNDO. La Junta de Gobierno deberá instalarse en un plazo no mayor a quince días hábiles, contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+TERCERO. La Secretaría del Trabajo y Previsión Social del Estado de San Luis Potosí llevará a cabo las gestiones necesarias a efecto de que el Centro de Conciliación, cuente con los recursos necesarios para el inicio de su operación.
+
+CUARTO. El Poder Ejecutivo Estatal, y el Congreso del Estado realizarán las adecuaciones presupuestales que resulten necesarias, a fin de dotar al Centro de Conciliación de los recursos materiales y financieros que permitan el cumplimiento de este Decreto.
+
+QUINTO. Una vez instalada la Junta de Gobierno, y designado que sea el o la titular de la Dirección General, contarán con un periodo de noventa días para la generación del Reglamento Interno del Centro de Conciliación.
+
+SEXTO. A partir de la publicación del presente Decreto, la Junta de Gobierno del Centro de Conciliación contará con un plazo de noventa días para la elaboración de un Plan Estratégico de Transición, el cual contendrá como mínimo los siguientes puntos:
+
+1. Programa para el Diseño de la Estructura Orgánica del Centro de Conciliación.
+
+2. Programa Estratégico Económico del Centro de Conciliación.
+
+SÉPTIMO. La Junta de Gobierno del Centro de Conciliación instruirá a la Dirección General para que, a partir del cierre de las Juntas de Conciliación y Arbitraje, gestione ante las instancias legales que corresponda, la transmisión del personal que se requiera y que no se considere indispensable para el proceso de cierre de las Juntas.
+
+La Oficialía Mayor, con pleno respeto de los derechos laborales del personal de las Juntas de Conciliación y Arbitraje, determinará las acciones procedentes con los mismos.
+
+OCTAVO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado contará con un término de ciento ochenta días para expedir las modificaciones pertinentes para la armonización con la presente Ley, del Reglamento Interior de la Secretaría del Trabajo y Previsión Social del Gobierno del Estado, debiendo contemplar en el régimen transitorio, a partir del inicio de operaciones del Centro de Conciliación, el cierre de las Juntas Locales de Conciliación y Arbitraje; el régimen de operación y la disminución gradual del personal de las mismas hasta la conclusión de los asuntos en trámite, lo cual deberá ocurrir dentro del término máximo de tres años contados a partir de la entrada en vigor de las reformas al referido Reglamento; así como la obligación de dicha dependencia de expedir en coordinación con la Oficialía Mayor y la Secretaría de Finanzas, un Programa para la reubicación en el Centro de Conciliación, en la Procuraduría de la Defensa del Trabajo, en la Defensoría Pública, o mediante convenio en el Poder Judicial del Estado o, en su caso, la liquidación de manera gradual de las y los trabajadores de las Juntas Locales de Conciliación y Arbitraje, con pleno respeto a sus derechos laborales.
+
+Los asuntos que aún quedaran pendientes después del término de tres años a que se refiere el párrafo anterior, serán concentrados en una sola mesa que subsistirá hasta que concluya de manera definitiva con el último de los mismos.
+
+NOVENO. Se derogan todas las disposiciones que se oponga a este Decreto.
