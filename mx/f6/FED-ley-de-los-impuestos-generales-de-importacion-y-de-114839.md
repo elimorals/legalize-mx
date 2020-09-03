@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-114839"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2020-07-01"
+last_updated: "2020-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114839&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ abbreviation: "LIGIE_2022"
 ---
 # LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, PUBLICADA EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 1 DE JULIO DE 2020, A PARTIR DE LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 1o. Y 2o., FRACCIONES I Y II, REGLAS 1ª, 2ª Y 4ª A 9ª DE DICHA LEY, SE ABROGA EL PRESENTE ORDENAMIENTO.]</small>
+[NOTA 1: PARA CONSULTAR LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y EXPORTACIÓN, SE SUGIERE DESPLEGAR LOS ARCHIVOS ANEXOS (ACROBAT READER) UBICADOS EN LA CRONOLOGÍA DEL PRESENTE ORDENAMIENTO.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, PUBLICADA EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 1 DE JULIO DE 2020, A PARTIR DE LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 1o. Y 2o., FRACCIONES I Y II, REGLAS 1ª, 2ª Y 4ª A 9ª DE DICHA LEY, SE ABROGA EL PRESENTE ORDENAMIENTO.]
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
@@ -81459,3 +81461,7 @@ QUINTO. La Secretaría de Economía dentro de los 120 días naturales siguientes
 SEXTO. La Secretaría de Economía, en conjunto con la Secretaría de Hacienda y Crédito Público, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto deberá publicar en el Diario Oficial de la Federación, las Notas Nacionales contempladas en el artículo 2, fracción II, Regla 3ª de la Ley de los Impuestos Generales de Importación y de Exportación.
 
 SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto a la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007, se entenderán referidas a la Ley que se expide conforme al presente Decreto.
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 3 DE SEPTIEMBRE DE 2020.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN”.]</small>
