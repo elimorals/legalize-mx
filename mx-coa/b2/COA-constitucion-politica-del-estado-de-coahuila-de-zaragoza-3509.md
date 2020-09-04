@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2020-08-07"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -136,6 +136,10 @@ Todas las autoridades estatales y municipales, en el ámbito de su competencia, 
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos humanos y libertades de las personas. La ley establecerá mecanismos a favor de las personas, para que el goce de sus derechos de libertad, igualdad, seguridad jurídica y justicia social, sean reales, efectivos y equitativos dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrada de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
@@ -207,6 +211,10 @@ Las personas desaparecidas tienen derecho a continuar con su personalidad juríd
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
 
 Ninguna persona será sometida a cualquier forma de esclavitud, servidumbre, o a ejecutar un trabajo forzoso.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+Las personas migrantes o desplazadas que ingresen, transiten o residan temporalmente en el territorio del Estado, así como sus familiares, con independencia de su situación jurídica, tendrán la protección de la ley y no serán criminalizados por su condición de migrantes o desplazados. Tratándose de menores de edad se privilegiará el interés superior de la niñez. Las autoridades de todos los niveles, en la esfera de su competencia, adoptarán las medidas necesarias para la protección efectiva de sus derechos, de conformidad a lo dispuesto en el segundo párrafo del presente artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -2185,6 +2193,10 @@ La educación de los hijos es deber y derecho primario de los padres o de quiene
 ###### Artículo 117.
 
 La educación y la enseñanza será organizada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos sus grados, incluyendo el superior, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, el amor a la Patria y el respeto a los derechos humanos conforme a lo dispuesto por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+La educación pública que el Estado debe de otorgar a los escolares deberá de contribuir a una mejor convivencia humana, fomentando el cuidado, preservación y protección del medio ambiente y de todos los seres vivos que forman parte de este, incluyendo a los animales domésticos, bajo la perspectiva de consolidar una conducta pacífica y amigable hacia todos los seres vivos.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -5389,3 +5401,25 @@ P.O. 7 DE AGOSTO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 708.- SE ADICIONA UN PÁRRAFO SEXTO Y SE RECORREN LOS DEMÁS A LAS SIGUIENTES POSICIONES, DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 709.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 710.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 117, RECORRIENDO EL QUE ACTUALMENTE OCUPA ESE LUGAR A LA TERCERA POSICIÓN, HACIENDO LO PROPIO CON LOS RESTANTES PÁRRAFOS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los sesenta días posteriores a la entrada en vigor de este decreto, el Poder Legislativo realizará las adecuaciones legislativas necesarias para garantizar en las leyes correspondientes una educación a los escolares que fomente en ellos el cuidado, preservación y protección del medio ambiente y los seres vivos en los términos planteados en la presente reforma.
