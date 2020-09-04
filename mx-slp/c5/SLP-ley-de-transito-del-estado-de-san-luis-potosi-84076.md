@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2020-07-04"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -148,6 +148,10 @@ XXIII Bis. Informe policial homologado: documento elaborado por un Perito de Hec
 XXIV. Infracción: conducta que lleva a cabo un conductor, peatón o pasajero, que transgrede algunas disposiciones de esta Ley, o los reglamentos, y que tiene como consecuencia una sanción;
 
 XXV. Licencia de conducir: documento que la autoridad estatal competente otorga a una persona para conducir un vehículo;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+XXV BIS. Motocicleta: al vehículo motorizado que utiliza manubrio para su conducción, de una o más plazas, con dos o más ruedas, que está equipado con motor eléctrico, de combustión interna de dos o cuatro tiempos, con un cilindraje de cuarenta y nueve centímetros cúbicos de desplazamiento o impulsado por cualquier fuerza motriz;
 
 XXVI. Número de identificación vehicular NIV: combinación de diecisiete caracteres asignados al vehículo al momento de su fabricación, o su registro en el padrón nacional;
 
@@ -1061,21 +1065,25 @@ X. Abstenerse de conducir vehículos en estado de ebriedad, con aliento alcohól
 
 (NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA FRACCIÓN X BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 X Bis. EVITAR UTILIZAR EL TELÉFONO CELULAR O CUALQUIER DISPOSITIVO MÓVIL QUE DISTRAIGA SU ATENCIÓN AL CONDUCIR;
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 XI. Abstenerse de arrojar basura, substancias o cualquier objeto a la vía pública; así como sacar del vehículo parte de su cuerpo u objetos;
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Se prohíbe transportar en calidad de pasajero de una motocicleta a más de una persona; con excepción de aquellas que fueron acondicionadas por el fabricante para transportar a más de un pasajero; quedando estrictamente prohibido viajar en calidad de pasajero de una motocicleta a un menor de seis años de edad, que no cuenten con el equipo de protección adecuado según lo dispuesto por las fracciones, XII, y XIII del artículo 19 de esta Ley, y
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2016)</small>
 
-XII. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso y
+XIII. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2016)</small>
 
-XIII. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
+XIII (SIC). Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo III. De las Escuelas de Manejo
 
@@ -1776,3 +1784,13 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Una vez vigente el presente Decreto, se otorga el plazo de ciento veinte días naturales a efecto de que los 58 municipios del Estado de San Luis Potosí, realicen las modificaciones a sus reglamentos correspondientes.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0745.- SE REFORMA EL ARTÍCULO 72 EN SUS FRACCIONES X BIS Y XI; Y ADICIONA A LOS ARTÍCULOS 6º LA FRACCIÓN XXV BIS Y 72 UNA FRACCIÓN, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Al entrar en vigor este Decreto, se otorga el plazo de ciento veinte días naturales a efecto de que los 58 municipios del Estado de San Luis Potosí, realicen las modificaciones a sus reglamentos correspondientes.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
