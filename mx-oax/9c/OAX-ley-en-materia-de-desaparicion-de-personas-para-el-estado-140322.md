@@ -4,7 +4,7 @@ identifier: "OAX-ley-en-materia-de-desaparicion-de-personas-para-el-estado-14032
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-04"
-last_updated: "2019-11-15"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY EN MATERIA DE DESAPARICION DE PERSONAS PARA EL ESTADO DE OAXACA
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚMERO 785 Y DE ACUERDO CON LOS ARTÍCULOS 53 FRACCIÓN III Y 79 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE NO VETADA, HASTA EN TANTO EL CONGRESO DEL ESTADO RESUELVA LAS OBSERVACIONES PENDIENTES, SE PUBLICAN LAS PARTES NO VETADAS DEL CITADO DECRETO POR EL QUE SE APRUEBA LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA.]</small>
+[N. DE E. DE CONFORMIDAD CON EL DECRETO NO. PUBLICADO EN EL P.O. 4 DE SEPTIEMBRE DE 2020 SE TRANSCRIBEN LITERALMENTE EL CONTENIDO NORMATIVO DE LOS ARTÍCULOS 18, 20, 28, 29, 30, 32, 33, 35 Y TRANSITORIO DÉCIMO, CONFORME A SU REDACCIÓN ORIGINAL ESTABLECIDA EN EL DECRETO 785 DEL ÍNDICE DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE OAXACA, MISMOS QUE QUEDARON FIRMES CONFORME LO DISPUESTO EN EL ARTÍCULO PRIMERO DEL DECRETO 826 DEL ÍNDICE DE LA SEXAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE OAXACA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL 15 DE NOVIEMBRE DE 2019].
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 4 de octubre de 2019.
 
@@ -205,9 +205,13 @@ DISPOSICIONES GENERALES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES E INTEGRACIÓN DE LA COMISIÓN ESTATAL DE BÚSQUEDA
 
 ### CAPÍTULO TERCERO. DEL TITULAR DE LA COMISIÓN ESTATAL DE BÚSQUEDA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
@@ -217,13 +221,17 @@ En la investigación, persecución, procesamiento y sanción de los delitos de D
 
 El Estado está obligado a garantizar que cualquier persona que se rehúse a obedecer una orden para cometer el delito de desaparición forzada no sea sancionada o sea objeto de ninguna represalia.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 15.
 
-Los servidores públicos que incumplan injustificadamente con alguna de las obligaciones previstas en esta Ley y que no constituyan un delito, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Oaxaca.
+Los servidores públicos que incumplan injustificadamente con alguna de las obligaciones previstas en esta Ley y que no constituyan un delito, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de personas, en la investigación ministerial, pericial y policial, así como en los procedimientos establecidos en los protocolos correspondientes y de comprobarse dichas conductas, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Oaxaca, además de los ordenamientos diversos en materia penal.
+Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de personas, en la investigación ministerial, pericial y policial , así como en los procedimientos establecidos en los protocolos correspondientes y de comprobarse dichas conductas, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, además de los ordenamientos diversos en materia penal.
 
 ###### Artículo 17.
 
@@ -237,7 +245,11 @@ Adicionalmente a lo previsto en el párrafo anterior, el superior jerárquico, b
 
 ###### Artículo 18.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+La Comisión Estatal de Búsqueda es un organismo descentralizado, con personalidad jurídica, patrimonio propio, autonomía técnica, administrativa, financiera y de gestión, que determina, ejecuta y da seguimiento a las acciones de búsqueda de personas desaparecidas y no localizadas, en todo el territorio del Estado de Oaxaca, de conformidad con lo dispuesto en esta Ley y en la Ley General.
+
+La Comisión Estatal de Búsqueda tiene por objeto garantizar la vinculación , operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
+
+Tendrá su domicilio en Oaxaca de Juárez, y para el cumplimiento de sus atribuciones contará con unidades administrativas dentro del territorio estatal, en términos de lo que establezca su reglamento y de conformidad con la disponibilidad presupuestal.
 
 ###### Artículo 19.
 
@@ -245,9 +257,13 @@ La Comisión Estatal de Búsqueda deberá coordinarse con la Comisión Nacional,
 
 Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficiente y eficaz con la Comisión Estatal de Búsqueda para el cumplimiento de esta ley y la Ley General.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+La Comisión Estatal de Búsqueda, será la responsable de la gestión y administración de los recursos presupuestarios gubernamentales que le correspondan y de los que deriven de convenios que para tal efecto se celebren. La aplicación de los recursos presupuestales observará los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
+El Órgano Superior de Fiscalización del Estado y el Órgano Interno de Control de la Comisión Estatal de Búsqueda para el Estado de Oaxaca, serán encargados de la vigilancia y fiscalización del ejercicio de los recursos, en los términos de la legislación aplicable.
 
 ###### Artículo 21.
 
@@ -415,17 +431,55 @@ Los servidores públicos integrantes de la Comisión Estatal de Búsqueda deber�
 
 Las trabajadoras y los trabajadores de la Comisión Estatal de Búsqueda estarán bajo el régimen laboral establecido en la Ley del Servicio Civil para los Empleados del Gobierno del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 28.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+El patrimonio de la Comisión Estatal de Búsqueda estará integrado por:
+
+I. Los recursos que anualmente le asigne el Congreso del Estado en el Presupuesto de Egresos del Estado de Oaxaca;
+
+II. Los recursos que le sean entregados como donaciones, aportaciones, transferencias, apoyos, ayudas o subsidios, que adquiera o que se le adjudiquen por cualquier título jurídico, y
+
+III. Los bienes muebles e inmuebles que le sean asignados o que adquiera en propiedad por cualquier título, en términos de los ordenamientos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 29.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+El órgano de gobierno de la Comisión Estatal de Búsqueda estará integrado de la siguiente manera:
+
+I. Una Presidencia, que estará a cargo de la persona Titular del Poder Ejecutivo del Estado;
+
+II. Una Secretaría Técnica, a cargo de la persona Titular de la Comisión Estatal de Búsqueda;
+
+III. Tres vocales, que serán personas integrantes del Consejo Ciudadano de Búsqueda designadas por ese organismo, y
+
+IV. Una Comisaría, a cargo de la persona titular de la Secretaría de la Contraloría.
+
+Cada integrante del órgano de gobierno podrá designar a su suplente, cargo que será indelegable.
+
+Las funciones y cargos previstos en este artículo serán honoríficos.
+
+El órgano de gobierno podrá invitar a sus sesiones a las y los titulares de otras dependencias, de organismos autónomos, a personas expertas, a familiares y representantes de instituciones nacionales e internacionales relacionadas con la materia de esta Ley, quienes podrán intervenir con voz pero sin voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+El órgano de gobierno tendrá las siguientes obligaciones indelegables:
+
+I. Establecer las políticas generales y definir las prioridades a las que deberá sujetarse la Comisión Estatal de Búsqueda, con base en los planteamientos del Titular de la Comisión Estatal de Búsqueda y del Consejo Estatal;
+
+II. Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente titular de la Comisión Estatal de Búsqueda;
+
+III. Autorizar la creación interna de comisiones o grupos de trabajo, a propuesta de la persona titular de la Comisión Estatal de Búsqueda y con la opinión del Consejo Estatal;
+
+IV. Aprobar y vigilar el cumplimiento del Programa Estatal de Búsqueda de Personas;
+
+V. Conocer de los convenios y acuerdos de colaboración, coordinación y concertación que celebre la Comisión Estatal de Búsqueda de acuerdo con esta Ley y la Ley General, y
+
+VI. Las demás que le correspondan por esta Ley, la Ley General u otras disposiciones aplicables.
 
 ###### Artículo 31.
 
@@ -449,19 +503,55 @@ VII. Las demás que señalen las leyes y demás disposiciones legales aplicables
 
 ###### Artículo 32.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+La Comisión Estatal de Búsqueda estará a cargo de una persona titular, nombrada por las dos terceras partes de los miembros presentes del Congreso del Estado. Durará en su encargo tres años, con posibilidad de ser designada para un segundo periodo.
+
+En ausencias del Comisionado Estatal mayores a quince días naturales o cuando el cargo quede vacante, el Congreso del Estado de Oaxaca, designará a una persona, con el consenso de los colectivos de familias de personas desaparecidas, quien como encargado o encargada de despacho ejercerá las funciones de la persona titular hasta que ésta retome el cargo o se nombre a una nueva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 33.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+La Comisión Estatal de Búsqueda estará a cargo de un Comisionado Estatal elegido por el voto de las dos terceras partes de los miembros presentes del Honorable Congreso del Estado, de la terna que enviará el Titular del Poder Ejecutivo Estatal, previa consulta a los colectivos de familias, expertos y organizaciones de la sociedad civil especializadas en la materia mediante una convocatoria emitida por el Ejecutivo.
 
 ###### Artículo 34.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+... (sic)
+
+1. a la VI. ... (sic)
+
+… (sic)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+En caso de que el titular del Poder Ejecutivo del Estado no emita la convocatoria a que se refiere el presente artículo dentro del plazo establecido y no envíe la terna señalada en el artículo 33 de la presente ley, la emitirá el Congreso del Estado a través del Presidente de la Junta de Coordinación Política o de la Comisión Permanente de Administración y Procuración de Justicia, la cual surtirá todos sus efectos legales. Asimismo, el proceso de selección de la terna se llevará a cabo por la Comisión antes referida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+Para los procesos subsecuentes de selección de la terna, el plazo para la emisión de la convocatoria será de quince días previos a que concluya el cargo de Comisionada o Comisionado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+El proceso de selección de la terna, que estará a cargo del Poder Ejecutivo, deberá incluir lo siguiente:
+
+I. Se llevará a cabo una audiencia pública de las y los aspirantes, en la que deberán estar presentes familiares de personas desaparecidas, para poder dialogar con ellos y conocer su visión sobre el fenómeno de las desapariciones en el Estado, las acciones que en materia de política pública deben impulsarse, las estrategias y modelos de Comisión Estatal de Búsqueda para el Estado de Oaxaca, a impulsar entre otros temas de interés de los familiares, en términos de lo que disponga la convocatoria correspondiente;
+
+II. En el análisis de los expedientes que se integren de cada uno de los candidatos y para el desahogo de exámenes y demás etapas del procedimiento de selección que se establezcan en la convocatoria, podrán participar los colectivos de familiares de personas desaparecidas en el estado, que podrán auxiliarse por instituciones académicas especializadas en derechos humanos y de una persona experta en materias relacionadas a la desaparición de personas por cada uno de los colectivos;
+
+III. Los familiares que no formen parte de los colectivos de familiares de personas desaparecidas en el Estado podrán emitir opiniones respecto a los candidatos, las cuales deberán ser valoradas por el Ejecutivo para la selección de la terna;
+
+IV. Los colectivos de familiares de personas desaparecidas podrán descartar candidatos si no cumplen con los requisitos establecidos· en esta Ley y en las demás disposiciones aplicables o por cualquier otro motivo que se establezca en la convocatoria con el consenso de los colectivos;
+
+V. Los colectivos de familiares presentarán al Titular del Poder Ejecutivo, una terna consensuada entre ellos, en un plazo no mayor a los diez días hábiles a partir del cierre de las audiencias y exámenes previstos en la convocatoria;
+
+VI. Una vez recibida la propuesta, el Titular del Poder Ejecutivo, remitirá la terna al Congreso del Estado, acompañada de una exposición fundada y motivada sobre la idoneidad de los perfiles elegidos, en un plazo no mayor a los cinco días hábiles;
+
+VII. De la terna presentada por el Ejecutivo, el pleno del Congreso del Estado, designará a la persona que ocupará el cargo de titular de la Comisión Estatal de Búsqueda, mediante la aprobación de las dos terceras partes de los miembros presentes, en votación nominal;
+
+La persona Titular de la Comisión Estatal de Búsqueda para el Estado de Oaxaca, no podrá tener ningún otro empleo, cargo o comisión, salvo en funciones académicas o de investigación no remuneradas.
+
+El Congreso del Estado hará pública la designación de la persona Titular de la Comisión de Búsqueda. El Titular del Ejecutivo, publicará el decreto respectivo en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 36.
 
@@ -1153,7 +1243,9 @@ OCTAVO. El Consejo Estatal entrará en funciones treinta días posteriores a la 
 
 NOVENO. El Poder Ejecutivo del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley, y establecer una partida presupuestal específica en el Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal, a su entrada en vigor.
 
-DÉCIMO. (Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+DÉCIMO. El Titular del Poder Ejecutivo contará con un plazo de quince días naturales a partir de la entrada en vigor del presente Decreto, para emitir la convocatoria prevista en el artículo 34.
 
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 11 de septiembre de 2019.- Dip. César Enrique Morales Niño, Presidente.- Dip. Yarith Tannos Cruz.- Secretaria.- Dip. Arsenio Lorenzo Mejía García, Secretario.- Dip. Griselda Sosa Vásquez, Secretaria.- Rúbricas.”
 
@@ -1168,3 +1260,13 @@ P.O. 15 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en términos de lo establecido en el párrafo tercero de la fracción VI del artículo 53 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO. Se instruye a la Secretaría de Servicios Parlamentarios, realice los trámites correspondientes para el cumplimiento de lo dispuesto en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1659.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 15 Y 16; SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 34; Y SE TRANSCRIBEN LITERALMENTE EL CONTENIDO NORMATIVO DE LOS ARTÍCULOS 18, 20, 28, 29, 30, 32, 33, 35 Y TRANSITORIO DÉCIMO, CONFORME A SU REDACCIÓN ORIGINAL ESTABLECIDA EN EL DECRETO 785 DEL ÍNDICE DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE OAXACA, MISMOS QUE QUEDARON FIRMES CONFORME LO DISPUESTO EN EL ARTÍCULO PRIMERO DEL DECRETO 826 DEL ÍNDICE DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE OAXACA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL 15 DE NOVIEMBRE DE 2019, TODOS DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
