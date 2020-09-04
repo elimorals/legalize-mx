@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2020-08-29"
+last_updated: "2020-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -362,6 +362,28 @@ El Poder Ejecutivo del Estado y gobiernos municipales crearán programas de educ
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 El Poder Ejecutivo del Estado y los Gobiernos Municipales deberán instalar comedores en los centros públicos de educación inicial, preescolar, primaria, secundaria y media superior, y dotarlos de alimentos suficientes para garantizar que niñas, niños y adolescentes obtengan una alimentación adecuada, nutritiva y de calidad. Madres y padres de familia participarán en el cumplimiento de dicha garantía.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 20 Bis.
+
+Para la eliminación de formas de malnutrición de niñas, niños y adolescentes, se prohíben las siguientes actividades:
+
+I. La distribución, venta, regalo y suministro a menores de edad, de bebidas azucaradas y alimentos envasados de alto contenido calórico en el Estado;
+
+II. La distribución, venta, regalo y suministro de bebidas azucaradas y alimentos envasados de alto contenido calórico en instituciones educativas públicas y privadas de educación básica y media superior, y
+
+III. La venta, distribución o exhibición de cualquiera de esos productos a través de distribuidores automáticos o máquinas expendedoras en instituciones educativas públicas y privadas de educación básica y media superior.
+
+Las bebidas y alimentos de alto contenido calórico señalados en las fracciones anteriores, serán aquellos que excedan los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadidos, conforme a la Norma Oficial Mexicana correspondiente.
+
+La aplicación, vigilancia y cumplimiento de esta disposición estará a cargo de la Secretaría de Salud del Estado, quien podrá coordinarse con las autoridades e instancias correspondientes.
+
+Quedan exentas de estas prohibiciones madres, padres o tutores legales, quedando bajo su responsabilidad el consumo de estos productos por los menores de edad.
+
+La infracción a lo establecido en el presente artículo será sancionado en términos de la presente Ley, y en lo no previsto, conforme a la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
+
+Los propietarios o encargados de los establecimientos en donde se vendan o suministren bebidas azucaradas y alimentos envasados de alto contenido calórico, en ningún caso y de ninguna forma los venderán o suministrarán a menores de edad, ya que de hacerlo, se harán acreedores a las sanciones administrativas previstas en la presente Ley, y en lo no previsto, conforme a la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ### CAPÍTULO IV. DEL DERECHO DE PRIORIDAD
 
@@ -1880,3 +1902,15 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1609.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 20 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. La Secretaría de Salud del Gobierno del Estado de Oaxaca aplicará y vigilará el cumplimiento de las Normas Oficiales Mexicanas, que establecen los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadido a las bebidas azucaradas y a los alimentos envasados, y conforme a ello, determinará cuáles bebidas y alimentos están prohibidos para la distribución, venta, regalo y suministro a menores de edad en el Estado.
