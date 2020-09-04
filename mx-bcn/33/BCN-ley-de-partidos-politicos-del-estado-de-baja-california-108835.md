@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-partidos-politicos-del-estado-de-baja-california-108835"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2020-09-02"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -649,9 +649,9 @@ Para los partidos políticos nacionales se calculará multiplicando el número t
 
 Para el caso, de que existan dos o menos partidos políticos con registro local, podrán recibir por concepto de financiamiento público, la cantidad que resulte, sin que esta exceda esta (sic) de un veinticinco por ciento del monto referido en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
-b) El treinta por ciento entre los partidos políticos en forma igualitaria y el setenta por ciento, restante de acuerdo con el porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
+b) El cincuenta por ciento entre los partidos políticos en forma igualitaria y el cincuenta por ciento, restante de acuerdo con el porcentaje de votos que hubieran obtenido en la elección de Diputados inmediata anterior.
 
 c) Las cantidades que, en su caso, se determinen para cada partido político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente el Consejo General del Instituto Estatal;
 
@@ -1078,3 +1078,9 @@ P.O. 2 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO. El Consejo General del Instituto Estatal Electoral, determinará el financiamiento público para los partidos políticos nacionales y locales con base a la nueva fórmula prevista en el artículo 43 de la Ley de Partidos Políticos del Estado, y lo incorporará a partir de su proyecto de presupuesto del ejercicio fiscal 2021.
+
+P.O. 4 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 109 MEDIANTE EL CUAL SE REFORMA EL INCISO B) DE LA FRACCIÓN I, DEL NUMERAL 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
