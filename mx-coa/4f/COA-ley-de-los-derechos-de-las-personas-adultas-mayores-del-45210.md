@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2020-08-14"
+last_updated: "2020-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -640,6 +640,14 @@ III. Conocer los derechos de las personas adultas mayores, previstos en la Const
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
 
 IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia, abandono de la persona adulta mayor y demás actos u omisiones que pongan en riesgo su persona, bienes y derechos.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+V. Abstenerse de forzar a la persona adulta mayor a realizar actos de mendicidad o a efectuar un trabajo, que atente a su dignidad o que implique un esfuerzo, que perjudique o ponga en riesgo, su salud física o mental, o que pueda provocarle la muerte; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Atender las necesidades psicoemocionales, cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención para las personas adultas mayores, con la finalidad de mantener los lazos familiares.
 
 ###### Artículo 29.
 
@@ -1672,3 +1680,11 @@ P.O. 14 DE AGOSTO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 711.- SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
