@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2020-04-11"
+last_updated: "2020-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE NOVIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -1449,11 +1447,11 @@ Los asesores de los Diputados que concurran a las reuniones podrán tener voz, s
 
 Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros, el cual podrán emitir mediante firma electrónica y, en caso de empate, sus Presidentes tendrán voto de calidad. Si alguno de los integrantes de la Comisión no estuviere de acuerdo con la decisión de la mayoría, podrá expresar su voto particular por escrito, debiendo anexarse al dictamen de la mayoría.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 73.
 
-Sólo por causas graves determinadas por la Asamblea por mayoría calificada, podrá dispensarse temporal o definitivamente o removerse del desempeño a alguno de los miembros de las Comisiones, haciéndose desde luego, por la propia Asamblea, el nombramiento del Diputado o Diputados sustitutos, con carácter temporal o definitivo.
+Sólo por causas graves determinadas por la Asamblea por mayoría calificada, podrá dispensarse temporal o definitivamente o removerse del desempeño a alguno de los miembros de las Comisiones, haciéndose desde luego, por la propia Asamblea, el nombramiento del Diputado o Diputados sustitutos, con carácter temporal o definitivo. Cuando se trate de reintegración o reconformación de las Comisiones, se estará a lo dispuesto en el párrafo sexto del artículo 58 de la Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3630,3 +3628,9 @@ P.O. 11 DE ABRIL DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se instruye a la Oficialía Mayor del H. Congreso del Estado para que, por conducto de las Direcciones y áreas competentes de esta Soberanía, y con el apoyo de la Comisión de Gobierno Interno y Acuerdo (sic) Parlamentarios, instrumente las plataformas y herramientas técnicas y electrónicas necesarias para el cumplimiento de lo previsto en el presente Decreto, así como capacite a las y los diputados y demás personal del H. Congreso del Estado para el uso de las tecnologías que para tales fines se utilicen.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 309 POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 73 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
