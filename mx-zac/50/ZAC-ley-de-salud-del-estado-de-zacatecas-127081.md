@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2020-02-29"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -615,6 +615,10 @@ IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
 Para el ejercicio de actividades en el área de la salud, los profesionales, técnicos y auxiliares requieren que los títulos académicos de licenciatura, maestría y doctorado, certificados de especialización y los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+En el caso del ejercicio especializado de la cirugía, como es la cirugía plástica, estética y reconstructiva, quienes la ejerzan deberán contar con cédula profesional de especialista en cirugía plástica, estética y reconstructiva; con certificado de la especialidad correspondiente y la certificación que para tales efectos emite el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva.
+
 Los colegios de profesionales, las instituciones, establecimientos de prestación de servicios de atención médica y la población en general, podrán denunciar ante la Secretaría de Salud, a quienes sin cumplir con los requisitos a que se refiere el párrafo anterior ejerzan indebidamente actividades relacionadas con la prestación de servicios médicos.
 
 Los profesionales, técnicos y auxiliares deberán solicitar su alta en el Registro Estatal de Profesionales de la Salud y Establecimientos de Servicios Médicos y Auxiliares de Diagnóstico, a cargo de los Servicios de Salud del Estado.
@@ -829,7 +833,9 @@ La Secretaría de Salud, en coordinación con autoridades federales y los sector
 
 I. Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
 
-II. Normar el desarrollo de los programas y actividades educativos encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables, y
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+II. Normar el desarrollo de los programas y actividades educativos encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables, asimismo, revisar que se cumplan (sic) con los lineamientos generales de expendio y distribución de los alimentos y bebidas bajos en calorías, elaborados con ingredientes que cumplan con lo dispuesto en las Normas Oficiales Mexicanas, a fin de inhibir la comercialización de los productos que puedan significar un riesgo a la salud, y
 
 III. Instituir planes de alimentación de acuerdo con las necesidades y características fisiológicas de cada persona, que conduzcan y favorezcan el consumo de una dieta suficiente, variada, inocua, adecuada, completa y equilibrada.
 
@@ -2436,5 +2442,17 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 P.O. 29 DE FEBRERO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 299.- SE ADICIONA EL ARTÍCULO 127 BIS A LA LEY DE SALUD DEL ESTADO DE ZACATECAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 401.- SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 46 DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 402.- SE REFORMA EL ARTÍCULO 72 DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
