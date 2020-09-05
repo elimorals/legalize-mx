@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2020-08-29"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -795,9 +795,11 @@ En el registro respectivo, se establecerán las condiciones y forma de operació
 
 Para la instalación de los Servicios Auxiliares y Conexos se requiere, según el caso, de contar con la autorización de las Dependencias u Organismos que a su cargo tienen la realización de las obras públicas, la autorización del uso del suelo, la conservación del medio ambiente y la ecología y la del Municipio de que se trate; con base en ellas, de ser el caso, se autorizará la ubicación y características de estos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 52.
 
-El servicio público de transporte de pasajeros se clasifica en las siguientes modalidades:
+El servicio público de transporte se clasifica en las siguientes modalidades:
 
 I. Colectivo:
 
@@ -810,6 +812,10 @@ c) Suburbano. El que se presta de una comunidad rural hacia la zona urbana de un
 d) Foráneo. El que se presta de una comunidad rural a otra rural; y
 
 La modalidad de transporte foráneo se podrá autorizar como servicio mixto, para trasladar pasajeros y carga simultáneamente.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+e) Servicio Turístico. El que se presta dentro de las vías públicas estatales, para satisfacer una necesidad de una o más personas relacionadas con el turismo, en vehículos con las características que determine la Secretaría.
 
 II. Individual Motorizado:
 
@@ -835,7 +841,9 @@ e) Acarreo de Agua. El que se presta para el traslado y acarreo de agua para uso
 
 f) Especializada. El que se presta para el traslado de mercancías que requieren de vehículos con especificaciones y aditamentos especiales para su protección, aislamiento y conservación. También se consideran de esta naturaleza los vehículos destinados al servicio de arrastre y salvamento; y
 
-g) Servicio Turístico. el que se presta dentro de las vías públicas estatales, para satisfacer una necesidad de una o más personas relacionadas con el turismo.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+g) Acarreo de Aguas Residuales. El que se presta para el traslado y acarreo de aguas residuales, en vehículos especiales, que requieren de condiciones, equipos, adecuaciones o medios para aislar, resguardar, conservar y proteger la carga, así como para evitar cualquier riesgo a terceros, cuyas características y condiciones debe (sic) de ser determinado (sic) por la Secretaría.
 
 ###### Artículo 53.
 
@@ -1284,6 +1292,10 @@ Los vehículos que formen parte de un sitio podrán portar su diseño corporativ
 El servicio de transporte de carga de materiales se prestará con vehículos de carrocería y chasis apropiados para soportar el peso de la mercancía; su antigüedad no podrá excederse de diez años; una vez transcurrido este período, la Secretaría practicará anualmente, una revisión física y mecánica del vehículo, la cual determinará si se encuentra en condiciones óptimas para continuar proporcionando el servicio; en caso contrario, será retirado de circulación.
 
 La Secretaría sólo podrá autorizar el cambio de unidades siempre que se cumpla con las características, especificaciones técnicas y de seguridad, que para la modalidad del servicio señale el Reglamento y las normas emitidas en la materia.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+Durante el traslado o transportación de materiales pétreos y/o de construcción, el prestador del servicio público de transporte deberá mantenerlos cubiertos, a efecto de evitar su dispersión o daños a terceros; asimismo, al término del recorrido o descarga de los materiales respectivos, deberá eliminar los residuos del contenedor o la caja del vehículo de transporte; las cubiertas que se utilicen deberán cumplir los estándares de seguridad con las especificaciones técnicas y de seguridad que se establezcan en la presente Ley, en su Reglamento y en las normas técnicas.
 
 ###### Artículo 105.
 
@@ -2401,9 +2413,17 @@ XVI. A las personas que incorporen elementos a la vialidad, sin autorización de
 
 XVII. Las personas que no retiren los elementos incorporados a la vialidad en el plazo otorgado por la Administración Pública, se les impondrá una multa de treinta veces la Unidad de Medida y Actualización vigente y el pago de los gastos de ejecución;
 
-XVIII. Las personas que utilicen inadecuadamente, obstruyan, limiten, dañen, deterioren o destruyan la nomenclatura o señalización vial, se les impondrá una multa de cincuenta veces la Unidad de Medida y Actualización vigente, y
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-XIX. Cuando por motivo de la prestación del servicio de transporte público colectivo, se causen daños a los usuarios, peatones o terceros, la Secretaría podrá suspender por causa de interés general hasta por treinta días, la autorización de la derivación o derrotero del vehículo que originó el daño, atendiendo a las circunstancias del hecho de tránsito, sin menoscabo de la responsabilidad civil, penal o administrativa que se desprenda. Durante la suspensión, se atenderá la demanda del servicio de transporte, con unidades de los organismos descentralizados de la administración pública adscritas (sic) la Secretaría.
+XVIII. Las personas que utilicen inadecuadamente, obstruyan, limiten, dañen, deterioren o destruyan la nomenclatura o señalización vial, se les impondrá una multa de cincuenta veces la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Cuando por motivo de la prestación del servicio de transporte público colectivo, se causen daños a los usuarios, peatones o terceros, la Secretaría podrá suspender por causa de interés general hasta por treinta días, la autorización de la derivación o derrotero del vehículo que originó el daño, atendiendo a las circunstancias del hecho de tránsito, sin menoscabo de la responsabilidad civil, penal o administrativa que se desprenda. Durante la suspensión, se atenderá la demanda del servicio de transporte, con unidades de los organismos descentralizados de la administración pública adscritas (sic) la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+XX. A los prestadores del servició público que realicen la transportación de materiales pétreos y/o de construcción, sin la protección, cubierta o no eliminen los residuos sólidos como lo determina el párrafo tercero del artículo 104 de esta Ley; se les impondrá una multa de cien veces la Unidad de Medida y Actualización vigente.
 
 Las sanciones que se señalan en este capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte, o de la extinción de la concesión o permiso especial.
 
@@ -2634,3 +2654,19 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1572.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER PÁRRAFO; EL INCISO G) DE LA FRACCIÓN IV, Y SE ADICIONA EL INCISO E) A LA FRACCIÓN I DEL ARTÍCULO 52 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado de Oaxaca contará con un plazo de sesenta días hábiles contados a partir de la publicación del presente Decreto, para realizar las reformas necesarias al Reglamento de la Ley de Movilidad para el Estado de Oaxaca.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1573.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 220; Y SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 104 Y LA FRACCIÓN XX AL ARTÍCULO 220, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno Estado de Oaxaca.
