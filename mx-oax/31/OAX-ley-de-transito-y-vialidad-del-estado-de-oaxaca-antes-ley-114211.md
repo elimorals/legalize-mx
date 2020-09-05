@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2020-08-29"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -125,9 +125,9 @@ XVII. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de 
 
 XVIII. Vialidad: Al conjunto de Servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-XIX. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
+XIX. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado o eléctrico, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -455,7 +455,9 @@ Los Policías Viales Estatales, procurarán auxiliar y orientar a los conductore
 
 Los integrantes de la Policía Vial Estatal, están facultados para asegurar y resguardar vehículos en los siguientes casos:
 
-I. Cuando el conductor se encuentre en estado de ebriedad o bajo la influencia de drogas enervantes, o en condiciones físicas o mentales que lo imposibiliten para manejar correctamente;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+I. Cuando el conductor se encuentre en estado de ebriedad o bajo la influencia de drogas enervantes, o en condiciones físicas o mentales que lo imposibiliten para manejar correctamente, salvo en los casos que, previa autorización del propietario o tenedor de la unidad, esta quede bajo resguardo de un tercero o aparcada en lugar permitido;
 
 II. (DEROGADO PRIMER PÁRRAFO [N. DE E. DE ESTA FRACCIÓN II], P.O. 23 DE NOVIEMBRE DE 2019)
 
@@ -1254,3 +1256,17 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1574.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I AL ARTÍCULO 24 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los Municipios contarán con un plazo de noventa días hábiles, a partir de la entrada en vigor del presente Decreto a efecto de que realicen las modificaciones necesarias a las disposiciones legales vigentes de su competencia, con el objetivo de que se adecuen al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1610.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 3 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
