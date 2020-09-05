@@ -4,7 +4,7 @@ identifier: "OAX-ley-sobre-licencias-a-funcionarios-y-empleados-publicos-12065"
 country: "mx"
 rank: "ley"
 publication_date: "1908-01-22"
-last_updated: "1908-01-22"
+last_updated: "2020-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY SOBRE LICENCIAS A FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
-LEY SOBRE LICENCIAS A FUNCIONARIOS Y EMPLEADOS PUBLICOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚM. 1606, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY SOBRE LICENCIAS A FUNCIONARIOS Y EMPLEADOS PÚBLICOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 22 de enero de 1908. Republicada en los P.O. de los días sábado 23 de agosto de 1941 y 28 de septiembre de 1946.
 
@@ -118,3 +120,11 @@ Quedan derogadas por la presente, todas las leyes y disposiciones anteriores dad
 Dado en el Salón de Sesiones del Congreso del Estado.- Oaxaca de Juárez, a 20 de Enero de 1908.- Federico Zorrilla, Diputado Presidente.- Enrique E. Vasconcelos, Diputado Secretario.- Manuel Pereyra Mejía, Diputado Secretario.- Rúbricas.
 
 Por tanto, mando se imprima, publique, circule y cumpla.- Palacio de los Poderes del Estado.- Oaxaca de Juárez, Enero 20 de 1908.- Emilio Pimentel.- Joaquín Sandoval, Secretario.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1606.- MEDIANTE EL CUAL SE ABROGA LA LEY DE LICENCIAS A FUNCIONARIOS Y EMPLEADOS PÚBLICOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA, EL 22 DE ENERO DE 1908 Y REPUBLICADA LOS DÍAS SÁBADO 23 DE AGOSTO DE 1941 Y 28 DE SEPTIEMBRE DE 1946”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
