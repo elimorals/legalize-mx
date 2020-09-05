@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-trabajadores-al-servicio-del-6990"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-16"
-last_updated: "1992-10-03"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
+LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUÁREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de diciembre de 1978.
 
@@ -347,11 +347,15 @@ La muerte del trabajador, por causa ajena al servicio o la del jubilado o pensio
 
 Gozarán de la pensión a que se refiere el artículo 43:
 
-I.- La esposa supérstite e hijos menores de 18 años, legítimos, naturales o reconocidos.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-II.- La concubina que hubiere tenido hijos con el trabajador o vivido en su compañía los últimos cinco años.
+I.- El cónyuge supérstite e hijos menores de 18 años, legítimos, naturales o reconocidos.
 
-III.- El esposo supérstite mayor de cincuenta y cinco años o incapacitado para trabajar, que hubiere dependido económicamente de ella.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+II.- La concubina o concubino que hubiere tenido hijos con el trabajador o vivido en su compañía los últimos cinco años.
+
+III.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2020)
 
 IV.- A falta de cónyuge, hijos o concubina, los ascendientes que hubiesen dependido económicamente del trabajador.
 
@@ -483,7 +487,7 @@ El Presidente de la Junta Directiva, será uno de los tres representantes del H.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1984)</small>
 
-###### Artículo 59.
+###### ARTICULO 59.
 
 Los acuerdos de la Junta Directiva se tomarán por mayoría de votos, pero cuando uno de los representantes de cualquiera de los Sindicatos o del Ayuntamiento se inconforme, bastará su voto en contra para suspender la aprobación del asunto de que se trata, hasta la próxima sesión, en la inteligencia de que solo podrá suspenderse por una sola vez la aprobación del mismo asunto.
 
@@ -622,3 +626,11 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 3 DE OCTUBRE DE 1992.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1578.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y II; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 44 DE LA LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUÁREZ".]
+
+SEGUNDO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
