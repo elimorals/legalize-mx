@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-trabajadores-del-gobierno-del-85760"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-28"
-last_updated: "2020-02-15"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de enero de 2012.
 
@@ -517,7 +517,7 @@ I. Al fallecer el jubilado, pensionado o pensionista;
 
 II. Para los hijos de los trabajadores que hayan pasado a ser pensionistas, al cumplir dieciocho años de edad; a menos que se trate de incapacitados;
 
-III. Para la viuda (o), si vuelve a contraer nupcias o viviera en concubinato; y (sic)
+III. Para la viuda (o), si vuelve a contraer nupcias o viviera en concubinato; y
 
 IV. Para la divorciada (o), por resolución judicial, por contraer nuevas nupcias, por vivir en concubinato.
 
@@ -529,9 +529,11 @@ Las prestaciones caídas, la devolución de descuentos, los intereses y cualquie
 
 ### CAPÍTULO XI. DE LA DEVOLUCIÓN DE LOS DESCUENTOS PARA EL FONDO DE PENSIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 64.
 
-El trabajador de base que no tenga derecho a pensión y se separe, o sea separado definitivamente del servicio, tendrá derecho a que se le devuelvan los descuentos que se le hubieren hecho para el Fondo de Pensiones, deducidos los adeudos que tuviere pendientes con la Oficina de Pensiones.
+El trabajador de base o de confianza, que no tenga derecho a pensión y se separe, o sea separado definitivamente del servicio, tendrá derecho a que se le devuelvan los descuentos que se le hubieren hecho para el Fondo de Pensiones, deducidos los adeudos que tuviere pendientes con la Oficina de Pensiones.
 
 Esta devolución deberá hacerse después de treinta días de la fecha de separación del trabajador y antes de que se cumplan sesenta de la fecha de presentación de la solicitud. Con la devolución de los descuentos quedarán suspendidos los derechos y beneficios de esta ley; pero en caso de que el trabajador vuelva al servicio, podrá reanudar el disfrute de sus derechos y beneficios, siempre que reintegre el importe de los descuentos retirados, más los intereses que correspondan calculados con la tasa que resulte de añadir cinco puntos a la tasa de interés interbancaria de equilibrio vigente o la tasa que la sustituya.
 
@@ -631,7 +633,7 @@ b) La adquisición debe ser claramente un contrato de compraventa. Mediante ést
 
 c) Bastará que el Trabajador, Jubilado o Pensionado cubra los gastos de la escritura. El importe de la finca se cubrirá hasta en quince anualidades, causándose un interés sobre saldos insolutos y cuya tasa será determinada anualmente en los términos en que lo acuerde el Consejo Directivo de Pensiones;
 
-d) El avalúo de las casas, deberán (sic) hacerse por una comisión integrada por un representante del Poder Ejecutivo, otro del Poder Legislativo y un tercero del Poder Judicial; dos representantes del Sindicato mayoritario del Estado y otro de una institución facultada para efectuar avalúos comerciales; y (sic)
+d) El avalúo de las casas, deberán (sic) hacerse por una comisión integrada por un representante del Poder Ejecutivo, otro del Poder Legislativo y un tercero del Poder Judicial; dos representantes del Sindicato mayoritario del Estado y otro de una institución facultada para efectuar avalúos comerciales; y
 
 e) Serán preferidos para la adquisición de casas, los Trabajadores, Jubilados o Pensionados según su antigüedad, condiciones económicas y familiares a quienes sostengan;
 
@@ -733,7 +735,7 @@ XIII. Ordenar o realizar todos aquellos actos u operaciones que sean conveniente
 
 El Director General de la Oficina de Pensiones tendrá las facultades y obligaciones siguientes:
 
-I. Ejecutar los acuerdos del Consejo Directivo; y (sic)
+I. Ejecutar los acuerdos del Consejo Directivo; y
 
 II. Presentar a la consideración del Consejo Directivo:
 
@@ -932,3 +934,9 @@ P.O. 15 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1264.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 49 DE LA LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1605.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 64 DE LA LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
