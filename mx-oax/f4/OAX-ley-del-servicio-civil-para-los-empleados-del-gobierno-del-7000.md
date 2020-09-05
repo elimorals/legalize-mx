@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2020-04-11"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -199,6 +199,14 @@ ARTICULO 21 TER.- Se otorgará a las y los empleados un permiso con goce de suel
 
 Para efectos de la (sic) anterior, el empleado deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 21 QUÁTER.- Se otorgará permiso de un día al año con goce de sueldo a las y los trabajadores, para realizarse estudios de mastografía, ginecología, próstata, o algún otro, con el fin de prevenir todo tipo de cáncer. Para lo cual deberán presentar comprobante médico que acredite la realización de los mismos.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 21 QUINQUIES.- Se otorgará a las y los empleados, permiso de un día al año con goce de sueldo íntegro, que acudan voluntariamente y de forma altruista a donar sangre. Para tal efecto, deberán presentar constancia expedida por la institución de salud, hospital, clínica o banco de sangre, a la cual se haya acudido a realizar la donación.
+
 ###### ARTICULO 22.
 
 Serán días de descanso obligatorio los que señala el calendario oficial.
@@ -232,6 +240,10 @@ El sueldo será uniforme para cada una de las categorías de empleados de base s
 ###### ARTICULO 27.
 
 El sueldo uniforme fijado en los términos del artículo anterior, no podrá modificarse atendiendo a condiciones de edad, sexo o nacionalidad.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 27 BIS.- En caso de declaratoria de emergencia sanitaria, durante el tiempo que ésta dure, los empleados que desarrollen tareas relacionadas con la atención médica de la enfermedad que haya originado la emergencia sanitaria, gozarán de una compensación mensual, cuyo monto será del veinte por ciento de su sueldo.
 
 ###### ARTICULO 28.
 
@@ -984,3 +996,17 @@ P.O. 11 DE ABRIL DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado; y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1604.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 27 BIS A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Las Secretarías de Administración y de Finanzas del Gobierno del Estado de Oaxaca, contarán con 30 días naturales a partir de la publicación del presente Decreto, para realizar los ajustes necesarios para implementar esta reforma, lo cual deberán informar al Congreso del Estado de Oaxaca.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1607.- MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 21 QUÁTER Y 21 QUINQUIES A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
