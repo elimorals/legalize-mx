@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-08-29"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -713,7 +713,9 @@ Se podrán otorgar subsidios a actividades prioritarias, cuando sean de interés
 
 El Estado sólo concertará endeudamiento para los cuales se generen los ingresos necesarios que cubran los compromisos adquiridos, conforme lo estipula la Ley.
 
-El Estado organizará un sistema de planeación del desarrollo local, en coordinación con el Sistema Nacional de Planeación Democrática que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, para el fortalecimiento de su soberanía y la democratización política, social y cultural del Estado.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+El Estado organizará un sistema de planeación del desarrollo local, en concordancia y transversalidad con el Sistema Nacional de Planeación Democrática que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, para el fortalecimiento de su soberanía y la democratización política, social y cultural del Estado.
 
 Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación es un proceso político, democrático y participativo que tomará en cuenta las peculiaridades de cada una de las regiones que comprende el Estado de Oaxaca. Será regional e integral y tendrá como unidad de gestión para el desarrollo, a los planes elaborados a nivel municipal.
 
@@ -5355,7 +5357,7 @@ TERCERO.- Con copia certificada del Decreto que se expida, notifíquese al Juzga
 
 P.O. 15 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5632,3 +5634,11 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1608.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO CUARTO DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno Estado de Oaxaca.
