@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2020-02-15"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -677,7 +677,9 @@ Sin perjuicio de lo dispuesto en el artículo 50, no procederá pago alguno que 
 
 Todo proyecto de ley o decreto que sea sometido a votación del pleno de la legislatura local, deberá incluir en su dictamen una estimación sobre el impacto presupuestario del proyecto.
 
-Las comisiones correspondientes del Congreso del Estado, al elaborar los dictámenes respectivos, realizarán una valoración del impacto presupuestario de las iniciativas de ley o decreto, y solicitarán al Centro de Estudios Económicos y de Finanzas Públicos una opinión técnica sobre el impacto presupuestario antes de la emisión del proyecto correspondiente, y podrán solicitar opinión a la Secretaría sobre el proyecto correspondiente.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+Las comisiones correspondientes del Congreso del Estado, al elaborar los dictámenes respectivos, realizarán una valoración del impacto presupuestario de las iniciativas de ley o decreto, y solicitarán al Centro de Estudios Económicos y de Finanzas Públicas una opinión técnica sobre el impacto presupuestario antes de la emisión del proyecto correspondiente, y podrán solicitar opinión a la Secretaría sobre el proyecto correspondiente, la cual deberá ser remitida en un plazo no mayor de quince días hábiles contados a partir de la presentación de la solicitud.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -2148,3 +2150,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1590.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 16 DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
