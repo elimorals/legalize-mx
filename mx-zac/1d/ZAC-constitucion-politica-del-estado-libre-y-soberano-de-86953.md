@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2020-05-23"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1017,7 +1017,7 @@ La ley fijará los límites a las erogaciones en los procesos internos de selecc
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
-El financiamiento público que reciban los partidos políticos que conserven su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y para actividades específicas, se otorgará conforme a las bases siguientes y a lo que disponga la ley:
+El financiamiento público que reciban los partidos políticos que conserven su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y para actividades especificas, se otorgará conforme a las bases siguientes y a lo que disponga la ley:
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
@@ -1755,11 +1755,11 @@ El cargo de Gobernador debe preferirse a cualquier otro de elección popular o d
 
 #### SECCIÓN SEGUNDA. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 82.
 
-Son facultades y obligaciones del Gobernador del Estado.
+Son facultades y obligaciones del Gobernador del Estado:
 
 I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes que de ellas emanen;
 
@@ -1859,9 +1859,9 @@ XXXIV. Expedir los títulos profesionales de las personas que hayan hecho sus es
 
 XXXIV-A. Solicitar se convoque a consultas populares; y
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIV-B. Objetar los nombramientos de los Comisionados del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales a que se refiere el artículo 29, en los términos establecidos por esta Constitución y la ley en la materia; y
+XXXIV-B. Objetar los nombramientos de los Comisionados del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales a que se refiere el artículo 29, por una sola ocasión debidamente sustentado, teniendo un plazo hasta de cinco días contados a partir de su designación, en los términos establecidos por esta Constitución y la ley en la materia.
 
 XXXV. Las demás que expresamente le señale la presente Constitución.
 
@@ -3807,7 +3807,7 @@ Artículo tercero. Este Decreto deberá notificarse al Instituto Nacional de Est
 
 P.O. 22 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 128.- SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS EN MATERIA DE SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 128.- SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS EN MATERIA DE SISTEMA ESTATAL ANTICORRUCPIÓN”.]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
 
@@ -3974,3 +3974,11 @@ Tercero. Los ayuntamientos del estado de Zacatecas dispondrán de un plazo que n
 Cuarto. La observancia del principio de paridad de género a que se refiere el artículo 35, será aplicable a quienes tomen posesión de su encargo, a partir del proceso local siguiente a la entrada en vigor del presente Decreto, según corresponda.
 
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 393.- SE REFORMA LA FRACCIÓN XXXIV-B DEL ARTÍCULO 82 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan el presente Decreto.
