@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2020-04-11"
+last_updated: "2020-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE NOVIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -1003,9 +1001,9 @@ Las Comisiones de Hacienda, Presupuesto y Fiscalización de los Recursos Públic
 
 La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia. La Comisión de Derechos Humanos, Asuntos Indígenas y Atención al Migrante estará integrada por siete Diputados.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-El grupo parlamentario que presida una Comisión tendrá mayoría al interior de la misma y, en el caso de que quien presida la Comisión sea una Diputada o un Diputado Único de un partido político, aquella se integrará en forma plural sin preeminencia alguna. El grupo parlamentario que tenga mayor número de integrantes será el primero en seleccionar. En el caso de que varios grupos parlamentarios tengan igual número de integrantes, la preeminencia la tendrá el del partido político que tenga mayor número de curules de mayoría relativa y, si varios coinciden en este, la tendrá el que hubiere obtenido el mayor número de votos en la elección correspondiente. Los integrantes de las Comisiones podrán ser removidos por incumplimiento de sus funciones, que será decidida por la Asamblea por mayoría calificada.
+El grupo parlamentario que presida una Comisión, preferentemente, tendrá mayoría al interior de la misma y, en el caso de que quien presida la Comisión sea una Diputada o un Diputado Único de un partido político, o una Diputada o Diputado Independiente, aquella se integrará en forma plural sin preeminencia alguna. El grupo parlamentario que tenga mayor número de integrantes será el primero en seleccionar. En el caso de que varios grupos parlamentarios tengan igual número de integrantes, la preeminencia la tendrá el del partido político que tenga mayor número de curules de mayoría relativa y, si varios coinciden en este, la tendrá el que hubiere obtenido el mayor número de votos en la elección correspondiente. Los integrantes de las Comisiones podrán ser removidos por incumplimiento de sus funciones, que será decidida por la Asamblea por mayoría calificada; asimismo, cuando se trate de reintegración o reconformación derivado de cambios en grupos parlamentarios o creación de nuevas comisiones, será decidido por la Asamblea por mayoría simple.
 
 ###### ARTICULO 59.
 
@@ -1956,3 +1954,9 @@ P.O. 11 DE ABRIL DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se instruye a la Oficialía Mayor del H. Congreso del Estado para que, por conducto de las Direcciones y áreas competentes de esta Soberanía, y con el apoyo de la Comisión de Gobierno Interno y Acuerdo Parlamentarios, instrumente las plataformas y herramientas técnicas y electrónicas necesarias para el cumplimiento de lo previsto en el presente Decreto, así como capacite a las y los diputados y demás personal del H. Congreso del Estado para el uso de las tecnologías que para tales fines se utilicen.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 309 POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 73 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
