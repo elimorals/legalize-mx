@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-83382"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-05"
-last_updated: "2012-08-25"
+last_updated: "2020-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de octubre del 2011.
 
@@ -237,11 +237,11 @@ Dentro del Programa contra el Tabaquismo, se deberán desarrollar acciones para 
 
 ### CAPÍTULO CUARTO. De los Espacios 100% Libres de Humo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 7.
 
-Para la protección de la salud de la población de los efectos nocivos generados por la inhalación de humos producidos por la combustión de tabaco, en cualquiera de sus formas, se prohíbe fumar, consumir o tener encendido cualquier producto de tabaco en los espacios 100% libres de humo de tabaco definidos en este ordenamiento.
+Para la protección de la salud de la población de los efectos nocivos generados por la inhalación de humos producidos por la combustión de tabaco, en cualquiera de sus formas, se prohíbe fumar, consumir o tener encendido cualquier producto de tabaco en los espacios 100% libres de humo de tabaco, en el transporte público, así como en las escuelas públicas y privadas de educación básica y media superior.
 
 I. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
@@ -267,13 +267,13 @@ XI. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
 XII. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-Los propietarios, poseedores o responsables de los espacios 100% libres de humo de tabaco a que se refiere el presente ordenamiento deberán fijar en el interior y exterior de los mismos, letreros o emblemas visibles que indiquen expresamente la prohibición de fumar y los identifiquen como tales. Las características de dichas señalizaciones serán descritas en el Reglamento de la Ley.
+Los propietarios, poseedores o responsables de los espacios 100% libres de humo de tabaco deberán fijar en el interior y exterior de los mismos, letreros, logotipos o emblemas visibles que indiquen expresamente la prohibición de fumar y los identifiquen como tales. Las características de dichas señalizaciones serán descritas en el Reglamento de la Ley.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
-En los locales cerrados y establecimientos en los que se expendan al público alimentos o bebidas para su consumo, se podrá contar con un espacio para fumar, el cual deberá ser en todo momento ubicado al aire libre, debiendo cumplir con las características descritas para el mismo en el artículo 4, fracción XV de la Ley y las señaladas en el Reglamento de la misma. Estos lugares deberán identificarse con señalamientos visibles al público de conformidad a lo dispuesto en la presente Ley, su reglamento y demás disposiciones aplicables.
+En lugares con acceso al público, en los locales cerrados y establecimientos en los que se expendan al público alimentos o bebidas para su consumo, así como en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, se podrá contar con zonas exclusivas para fumar, las cuales deberán ubicarse en espacios al aire libre o en espacios interiores aislados que eviten el traslado de partículas y no sean paso obligado para los no fumadores, debiendo cumplir con las características descritas para (sic) el mismo artículo 4, fracción XV de la Ley y las señaladas en el Reglamento de la misma. Estos lugares deberán identificarse con señalamientos visibles al público de conformidad a lo dispuesto en la presente Ley, su Reglamento y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -344,6 +344,12 @@ IV. Distribuir gratuitamente productos del tabaco al público en general y/o con
 V. El comercio, distribución, donación, regalo, venta y suministro de productos del tabaco a menores de edad y en instituciones educativas públicas y privadas de educación básica y media superior, y
 
 VI. Emplear a menores de edad en actividades de comercio, producción, distribución, suministro y venta de estos productos.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 13 Bis.
+
+Quien comercie, venda, distribuya o suministre productos del tabaco tendrá la obligación de mantener un anuncio situado al interior del establecimiento con las leyendas sobre la prohibición de comercio, venta, distribución o suministro a menores; además, deberá exigir a la persona que se presente a adquirir productos del tabaco que acredite su mayoría de edad con identificación oficial con fotografía, sin la cual no podrá realizarse lo anterior.
 
 ### CAPÍTULO SÉPTIMO. De la Vigilancia
 
@@ -498,3 +504,11 @@ Artículo Tercero.- Se establece un plazo de 90 días naturales contados a parti
 Artículo Cuarto.- Los dueños de los espacios 100% libres de humo de tabaco, dispondrán de un plazo hasta de 60 días hábiles para llevar a cabo los requerimientos y especificaciones que esta Ley establece.
 
 Artículo Quinto.- Se deroga cualquier disposición contraria al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 397.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE ZACATECAS".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan el presente Decreto.
