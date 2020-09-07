@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-obras-publicas-y-servicios-relacionados-con-las-115249"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-20"
-last_updated: "2018-09-26"
+last_updated: "2020-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2020 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.XXX
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de junio de 2016.
 
@@ -41,95 +43,121 @@ LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SIN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la planeación, programación, cálculo, diseño, presupuesto, contratación, adjudicación, gasto, ejecución, supervisión, conservación, mantenimiento, demolición y control de las obras públicas, así como los servicios relacionados con las mismas que realicen:
+La presente Ley es de orden público y social y tiene por objeto la aplicación del artículo 134 de la Constitución Política De los Estados Unidos Mexicanos y el artículo 155 de la Constitución Política del Estado de Sinaloa en materia de planeación, programación, cálculo, diseño, presupuesto, contratación, adjudicación, gasto, ejecución, supervisión, conservación, mantenimiento, demolición y control de contrataciones de obras públicas, así como de los servicios relacionados con las mismas, que realicen:
 
-I. El Gobierno del Estado, a través de las dependencias y entidades administrativas facultadas por la Ley para ello;
+I. Los poderes de El Gobierno del Estado. El Ejecutivo, a través de la administración pública estatal y paraestatal; el legislativo y judicial, por conducto de sus entidades administrativas facultadas por esta Ley y su reglamento, respectivamente;
 
-II. Los Municipios, a través de las dependencias y entidades del Ayuntamiento facultadas por la Ley para ello;
+II. Los Ayuntamientos, a través de las entidades de la administración pública municipal y paramunicipal;
 
-III. Los organismos desconcentrados o descentralizados del Gobierno del Estado o de los Municipios;
+III. Los organismos constitucionalmente autónomos;
 
-IV. Las empresas de participación estatal o municipal en que el Gobierno del Estado o los Municipios sean socios mayoritarios;
+IV. Las demás dependencias, organismos, entidades e instituciones facultadas por esta Ley.
 
-V. Los fideicomisos en los que el fideicomitente sea el Gobierno del Estado o de los Municipios, o cualquiera de los organismos desconcentrados y descentralizados y en su caso, empresas paraestatales o municipales; y,
+En los términos de la fracción I, cuando se trate de empresas de participación estatal y fideicomisos, solo podrán contratar obra o servicios relacionados con las mismas, siempre que el socio mayoritario o fideicomitente sea el Poder Ejecutivo del Gobierno del Estado.
 
-VI. Las demás dependencias, organismos, entidades e instituciones facultadas por la Ley para ello.
+En el caso de los Ayuntamientos, conforme a la fracción II, cuando se trate de empresas de participación mayoritaria o fideicomisos, solo podrán contratar obra o servicios relacionados con las mismas, siempre que el socio mayoritario o fideicomitente sea el Municipio.
 
 Cuando las obras públicas, así como los servicios relacionados con las mismas, se ejecuten total o parcialmente con recursos financieros provenientes del presupuesto del gobierno federal, conforme a los convenios que celebre el Estado de Sinaloa con la Federación y, en su caso, con los Municipios del propio Estado, se aplicará la legislación federal en la materia y los términos establecidos en los convenios.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-La Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa emitirá las políticas, bases y lineamientos para las acciones relativas a las obras públicas y los servicios relacionados con las mismas, de conformidad con este ordenamiento.
+Las instituciones del Gobierno del Estado de Sinaloa que regula esta ley, emitirán sus políticas, bases y lineamientos para las acciones relativas a las obras públicas y los servicios relacionados con las mismas de conformidad con este ordenamiento.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 3.
 
-Las dependencias y entidades se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, que contravengan lo previsto en este ordenamiento.
+Las instituciones que regula esta ley, se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, que contravengan lo previsto en este ordenamiento.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 4.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Adquisiciones Relacionadas con las Obras Públicas: Incorporación de bienes muebles que sean necesarios para la realización de las obras públicas;
+I. Administración Directa: Actividad por cuenta propia de conservación y mantenimiento de vías de comunicación, así como los servicios relacionadas (sic) con las mismas a cargo de las instituciones establecidas en el artículo 1 de esta ley, incluidas en su programa de planeación y presupuestación anual y en caso de emergencia o fuerza mayor.
 
-II. Acta de Recepción de Obra: documento relativo a la recepción formal de la obra pública contratada;
+II. Adquisiciones Relacionadas con las Obras Públicas: Incorporación de bienes muebles e inmuebles, que sean necesarios para la realización de las obras públicas;
 
-III. Anticipo: cantidad que recibe el contratista de la contratante previamente al inicio de los trabajos;
+III. Acta de Recepción de Obra: Documento relativo a la recepción formal de la obra pública contratada;
 
-IV. Bases: son los instrumentos que contienen las condiciones o clausulas necesarias para regular el procedimiento de licitación pública, en el contrato y la ejecución de una obra pública;
+IV. Anticipo: Cantidad que recibe el contratista de la contratante previamente al inicio de los trabajos, para un contrato inicial que sea en un solo o en varios ejercicios fiscales.
 
-V. Comité de Obras: órgano consultivo, de asesoría y orientación en materia de contratación de obras públicas del Estado, los Municipios y sus entidades;
+V. Bases: Son los instrumentos que contienen las condiciones o clausulas necesarias para regular el procedimiento de licitación pública, en el contrato y la ejecución de una obra pública;
 
-VI. Comité Técnico Resolutivo de Obra Pública: Comité integrado en el Estado, los Municipios y sus entidades para la evaluación de propuestas cuyo objeto es la evaluación de las propuestas y la emisión de un dictamen que servirá de base para el fallo;
+VI. Comité de Obras: Órgano consultivo, de asesoría, orientación y resolución para las contrataciones en materia de obras públicas, por contratación y por administración directa que realicen los poderes del Estado, los ayuntamientos, organismos constitucionalmente autónomos y demás entidades establecidas en la fracción IV del artículo 1;
 
-VII. Compra Net-Sinaloa: sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas, integrado entre otra información, por los programas anuales en la materia de las dependencias y entidades; el padrón de contratistas; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones del acto de presentación y apertura de propuestas y de fallo; los testimonios de los testigos sociales; los datos de los contratos y los convenios modificatorios; y, las adjudicaciones directas; los nombres de los participantes o invitados en los procesos de asignación de contratos; las bases de licitación; los dictámenes; los informes de avance físico y financiero; y los finiquitos de los contratos;
+VII. Compra Net-Sinaloa: Sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas, por contratación y por administración directa, integrado, entre otra información, por los archivos existentes de estudios y proyectos de obras; la relación de licitaciones de obras, obras en proceso, las obras inconclusas y las complementarias; el presupuesto de cada obra pública; los programas anuales de obra pública de los poderes del Estado, los ayuntamientos, organismos constitucionalmente autónomos y demás entidades establecidas en la fracción IV del artículo 1, incluyendo proyecto ejecutivo que contiene: proyecto arquitectónico y de ingeniería; los mecanismos de vigilancia y supervisión, incluyendo los estudios de impacto urbano y ambiental, según corresponda; el padrón de contratistas; los tabuladores de precios unitarios; las convocatorias a la licitación y sus modificaciones; las actas de las juntas de aclaraciones del acto de presentación y apertura de propuestas y de fallo; los testimonios de los testigos sociales; los datos de los contratos y los convenios modificatorios; y, las adjudicaciones directas; los nombres de los participantes en los procesos de asignación de contratos; las bases de licitación; los dictámenes; los informes de avance físico y financiero; y los finiquitos de los contratos. También el listado de los integrantes de los Comités de obra y sus respectivos suplentes, incluyendo el currículo y declaración de intereses. La fecha y hora de las reuniones donde se designen a los testigos sociales; las cuales deberán ser abiertas y difundidas vía internet. Así como también las actas de aperturas de propuestas técnicas y económicas; las estimaciones; bitácora de la obra; catálogo de conceptos; acta de entrega recepción; acta de extinción de derechos y obligaciones, y fianza de vicios ocultos.
 
-VIII. Concurso por Licitación Pública: actividad que realiza la dependencia o entidad para adjudicar un contrato de obra pública a una persona física o moral, la cual se inicia desde la preparación de la documentación que se debe entregar a los contratistas interesados en participar, hasta la firma del contrato respectivo;
+VIII. Además de lo anterior, el Poder Ejecutivo y los Municipios deberán transparentar en el sistema Compra-Net Sinaloa:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+a. El Plan Estatal y Municipal de Desarrollo, así como los planes y programas que deriven de ellos, según corresponda, y
 
-IX. Contraloría: Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado de Sinaloa, y el órgano interno de control de los Ayuntamientos y el de las entidades, en el ámbito de sus atribuciones;
+b. La información detallada que contengan los planes de desarrollo urbano, ordenamiento territorial y ecológico, los tipos y usos de suelo, licencias de uso de suelo y construcción otorgadas por los gobiernos municipales.
 
-X. Contratante o Convocante: las dependencias y entidades de la administración pública estatal y municipal que celebren contratos de obras públicas y servicios relacionados con las mismas en los términos previstos en esta Ley;
+IX. Asimismo, por conducto de la autoridad competente, las solicitudes de evaluación de impacto ambiental y los resolutivos emitidos por la autoridad; las opiniones técnicas en materia de impacto ambiental; los resultados de estudios de calidad del aire por Municipio; y el programa de ordenamiento territorial estatal;
 
-XI. Contratista: la persona física o moral que celebre contratos de obras públicas y de servicios relacionados con las mismas y que es responsable de su ejecución material, de acuerdo con las disposiciones contractuales;
+X. Los documentos que integraran el sistema Compra Net-Sinaloa, se regirán bajo los principios de datos abiertos y el de inmediatez, publicándose inmediatamente después de haberse generado;
 
-XII. Dependencias: las secretarías y entidades administrativas definidas en la Ley Orgánica de la Administración Pública del Estado de Sinaloa y las señaladas en su reglamento orgánico, así como las dependencias municipales facultadas por la Ley y el Reglamento Interior de Administración Municipal;
+XI. Contratación: Procedimiento que mediante Licitación Pública o adjudicación directa: realizan los poderes del Estado, los ayuntamientos, organismos constitucionalmente autónomos y demás entidades establecidas en la fracción IV del artículo 1 para contratar obra pública con una persona física o moral, la cual se inicia desde la preparación de la documentación que se debe entregar a los contratistas interesados en participar, hasta la firma del contrato respectivo;
 
-XIII. Entidades: las señaladas en las fracciones III, IV, V y VI del artículo 1 de la presente Ley;
+XII. Contratante o Convocante: Las dependencias y entidades de la administración pública estatal y municipal que celebren contratos de obras públicas y servicios relacionados con las mismas en los términos previstos en esta Ley;
 
-XIV. Estimación: valuación de los trabajos ejecutados en determinado periodo aplicando los precios unitarios de los conceptos de trabajo pactados durante dicho periodo o el porcentaje de precio alzado pactado correspondiente al avance de cada unidad de obra o de la obra. Por extensión, el documento en el que se consignan las valuaciones antes mencionadas para efecto de pago;
+XIII. Contratista: La persona física o moral que celebre contratos de obras públicas y de servicios relacionados con las mismas y que es responsable de su ejecución, de acuerdo con las disposiciones contractuales;
 
-XV. Finiquito: el documento mediante el cual se concluye el cumplimiento de las obligaciones contractuales entre las partes;
+XIV. Instituciones: Todas las señaladas en el artículo 1 de la presente Ley;
 
-XVI. Ley: la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Sinaloa;
+XV. Datos abiertos: Los datos digitales a que se refiere la ley en materia de acceso a la información y transparencia, que son de carácter público, accesibles en línea y que pueden ser usados, reutilizados y redistribuidos por cualquier interesado, así como con las características siguientes:
 
-XVII. Licitante: la persona física o moral que participe en cualquier procedimiento de licitación pública o bien de invitación a cuando menos tres personas;
+1. Accesibles: Los datos disponibles para la gama más amplia de usuarios, para cualquier propósito;
 
-XVIII. Órganos Internos de Control: los órganos internos de control del Gobierno del Estado, Municipios y entidades;
+2. De libre uso: Citan la fuente de origen como único requerimiento para ser utilizados libremente;
 
-XIX. Padrón de Contratistas: padrón de contratistas de obras públicas y servicios relacionados con las mismas;
+3. En formatos abiertos: Los datos estarán disponibles con el conjunto de características técnicas y de presentación que corresponden a la estructura lógica usada para almacenar datos en un archivo digital, cuyas especificaciones técnicas están disponibles públicamente, que no suponen una dificultad de acceso;
 
-XX. Precio Alzado: importe de la remuneración o pago total fijo que deba cubrirse al Contratista por la obra pública terminada, ejecutada conforme al proyecto, especificaciones y normas;
+4. Gratuitos: Se obtienen sin entregar a cambio contraprestación alguna;
 
-XXI. Precio Unitario: importe de la remuneración que debe cubrirse al Contratista por unidad de medida de concepto de trabajo terminado, ejecutado conforme al proyecto, especificaciones de construcción y normas de calidad;
+5. Integrales: Contienen el tema que describen a detalle y con los metadatos necesarios;
 
-XXII. Proyecto Ejecutivo: el conjunto de planos y documentos que conforman los proyectos arquitectónico, de ingeniería de una obra, volúmenes generadores, el catálogo de conceptos, el programa de obra, las especificaciones generales y particulares, así como las descripciones e información suficientes para que ésta se pueda llevar a cabo;
+6. Legibles por máquinas: Deberán estar estructurados, total o parcialmente, para ser procesados e interpretados por equipos electrónicos de manera automática;
 
-XXIII. Proyecto Arquitectónico: el que define la ocupación y utilización del sitio de la obra, la forma, distribución y el diseño funcional. Se expresará por medio de planos, maquetas, perspectivas, videos, dibujos artísticos y memoria descriptiva;
+7. No discriminatorios: Los datos disponibles para cualquier persona, sin necesidad de registro;
 
-XXIV. Proyecto de Ingeniería: el que comprende los planos constructivos y estructurales, memorias técnicas, de cálculo y descriptivas, especificaciones generales y particulares aplicables, así como plantas, alzados, secciones y detalle, que permitan llevar a cabo una obra civil, hidráulica, sanitaria, pluvial, eléctrica, mecánica o de cualquier otra especialidad;
+8. Oportunos: Son actualizados, periódicamente, conforme se generen.
 
-XXV. Reglamento: Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Sinaloa; y,
+XVI. Estimación: Valuación de los trabajos ejecutados en determinado periodo aplicando los precios unitarios de los conceptos de trabajo pactados durante dicho periodo o el porcentaje de precio alzado pactado correspondiente al avance de cada unidad de obra o de la obra. Por extensión, el documento en el que se consignan las valuaciones antes mencionadas para efecto de pago;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+XVII. Finiquito: El documento mediante el cual se concluye el cumplimiento de las obligaciones contractuales entre las partes; en el cual se hará constar los créditos a favor y en contra que resulte para cada una de las partes, describiendo el concepto general que le dio origen y el saldo resultante el cual deberá quedar saldado en un plazo no mayor de 15 días naturales, o en su defecto aplicarse lo establecido en el último párrafo del artículo 79 de la presente ley
 
-XXVI. Secretaría: la Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa.
+XVIII. Ley: La Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Sinaloa;
 
-Para los efectos de esta Ley, cuando se refiera a las dependencias y entidades se entenderá que incluye a las definidas en las fracciones X y XI de este artículo, tanto en el ámbito estatal como municipal, según corresponda, conforme a sus atribuciones.
+XIX. Licitante: La persona física o moral que participe en cualquier procedimiento de licitación pública.
+
+XX. Órganos Internos de Control: Los órganos fiscalizadores de las instituciones referidas en el artículo 1;
+
+XXI. Padrón de Contratistas: Al listado de la autoridad competente donde se registran a los contratistas de obras públicas y servicios relacionados con las mismas;
+
+XXII. Precio Alzado: Importe de la remuneración o pago total fijo que deba cubrirse al Contratista por la obra pública terminada, ejecutada conforme al proyecto, especificaciones y normas;
+
+XXIII. Precio Unitario: Importe de la remuneración que debe cubrirse al Contratista por unidad de medida de concepto de trabajo terminado, ejecutado conforme al proyecto, especificaciones de construcción y normas de calidad;
+
+XXIV. Proyecto Ejecutivo: El conjunto de planos y documentos que conforman los proyectos arquitectónico, de ingeniería de una obra, volúmenes generadores, el catálogo de conceptos, el programa de obra, las especificaciones generales y particulares, así como las descripciones e información suficientes para que ésta se pueda llevar a cabo;
+
+XXV. Proyecto Arquitectónico: El que define la ocupación y utilización del sitio de la obra, la forma, distribución y el diseño funcional. Se expresará por medio de planos, maquetas, perspectivas, videos, dibujos artísticos y memoria descriptiva;
+
+XXVI. Proyecto de Ingeniería: El que comprende los planos constructivos y estructurales, memorias técnicas, de cálculo y descriptivas, especificaciones generales y particulares aplicables, así como plantas, alzados, secciones y detalle, que permitan llevar a cabo una obra civil, hidráulica, sanitaria, pluvial, eléctrica, mecánica o de cualquier otra especialidad;
+
+XXVII. Reglamento: Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Sinaloa;
+
+XXVIII. Secretaría: la Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa; y,
+
+XXIX. Tabulador de precios unitarios: Tabla que deberá ser determinada, aprobada, modificada y publicada por la Secretaría de Obras Públicas, la cual contiene la relación de los precios unitarios, que servirá de base para el juicio de los concursos y contratación de obras y de servicios relacionados con las mismas.
 
 ###### Artículo 5.
 
@@ -143,7 +171,9 @@ Para los efectos de esta Ley, se consideran como servicios relacionados con las 
 
 Quedan comprendidos como servicios relacionados con las obras públicas los siguientes:
 
-I. La planeación, anteproyecto y diseño de ingeniería civil, estructural, de instalaciones, de infraestructura, de ingeniería urbana, industrial, electromecánica y cualquier otra especialidad;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. La planeación, anteproyecto, proyecto ejecutivo y diseño de ingeniería civil, estructural, de instalaciones, de infraestructura, de ingeniería urbana, industrial, electromecánica y cualquier otra especialidad
 
 II. La planeación, anteproyecto, diseños arquitectónicos, artísticos y urbanísticos;
 
@@ -163,9 +193,11 @@ IX. Los estudios que tienen por objeto corregir, sustituir o incrementar el apoy
 
 X. Todos aquellos de naturaleza análoga.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-La aplicación de esta Ley será sin perjuicio de lo dispuesto en los convenios interinstitucionales obligatorios para las dependencias y entidades.
+La aplicación de esta Ley será, sin perjuicio de lo dispuesto en los convenios interinstitucionales obligatorios referenciadas (sic) en el artículo 1. Se aplicará como principios rectores a la presente, los siguientes: de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, gobierno electrónico, transparencia, máxima publicidad, y gobierno abierto.
 
 ###### Artículo 8.
 
@@ -173,87 +205,123 @@ En tanto las obras sean entregadas a la entidad responsable de su operación, se
 
 Para tal efecto la Contratante se encuentra facultada para realizar los actos, contratos y convenios que sean necesarios para ese fin; podrá también solicitar el apoyo de otras dependencias y estas deberán coadyuvar a mantener las condiciones de seguridad que deben prevalecer en las obras públicas.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-La Contraloría atendiendo la opinión de la Secretaría de Administración y Finanzas y de la Secretaría, será la encargada de interpretar en materia administrativa esta Ley. En el ámbito municipal, tendrá esta facultad la contraloría respectiva, la cual deberá atender la opinión de la tesorería municipal y la dependencia encargada de la ejecución de obras públicas.
+Los órganos Internos de Control de las instituciones referidas en el artículo 1 de esta ley, en el ámbito respectivo de sus competencias, serán los encargados de la interpretación de esta ley.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-En materia de obras públicas y servicios relacionados con las mismas, las dependencias y entidades serán responsables de que en la adopción e instrumentación de las acciones que se deban llevar a cabo en cumplimiento de esta Ley, se observen criterios que promuevan la modernización y desarrollo administrativo, la descentralización de funciones y la efectiva delegación de facultades.
+En materia de obras públicas y servicios relacionados con las mismas, las instituciones serán responsables de que en la adopción e instrumentación de las acciones que se deban llevar a cabo en cumplimiento de esta Ley, se observen criterios que promuevan la modernización y desarrollo administrativo, la descentralización de funciones y la efectiva delegación de facultades.
 
-Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la Secretaría de Desarrollo Económico, dictará las reglas que deban observar las dependencias y entidades, derivadas de programas que tengan por objeto promover la participación de las empresas locales, especialmente de las micro, pequeñas y medianas.
+Las instituciones, deberán promover la participación de las empresas locales, especialmente de las micro, pequeñas y medianas, dándoles preferencia en los procedimientos de contratación cuando el monto a contratar no rebase la cantidad de sesenta mil veces el valor diario de la unidad de medida y actualización conforme a esta Ley, para adjudicación de los contratos de obra pública y servicios relacionados con las mismas. El área correspondiente de la institución contratante, dictará las reglas que deban observar las dependencias y entidades, para el cumplimiento de este objeto.
 
-Para la expedición de las reglas a que se refiere el párrafo anterior, la Secretaría de Desarrollo Económico tomará en cuenta la opinión de la Secretaría.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-La Secretaría será la responsable de llevar a cabo la contratación de la obra pública y los servicios relacionados con las mismas, de la administración pública centralizada del Gobierno del Estado de Sinaloa.
+Las instituciones enunciadas en el artículo 1, serán las responsables de llevar a cabo la integración de sus comités de obras y servicios relacionados con las mismas, en términos de lo dispuesto en esta ley, para la contratación de las obras públicas y los servicios relacionados con las mismas.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-En los Municipios, los responsables de la contratación de la obra pública y los servicios relacionados con las mismas serán las dependencias y entidades del Ayuntamiento facultadas para ello, en sus respectivos Reglamentos Interiores de Administración.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-En las entidades a que se refieren las fracciones III, IV, V y VI del artículo 1° de la presente Ley, serán responsables de la contratación de las obras públicas y los servicios relacionados con las mismas, los respectivos órganos de dirección que disponga la ley que les resulte aplicable, el decreto de su creación o el Reglamento interno de administración.
+Para la realización y ejecución de obras públicas y servicios relacionados con las mismas, se deberán cumplir los requisitos siguientes:
 
-Para la realización y ejecución de obras públicas y servicios relacionados con las mismas, se deberán cumplir con los siguientes requisitos:
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-I. Que las obras públicas estén incluidas en el programa anual de obra pública autorizado por el Congreso del Estado y por los cabildos municipales respectivamente;
+I. Que las obras públicas estén incluidas en el programa anual de obra pública, el cual deberá contener dos rubros, las obras a contratar y las obras a ejecutar por administración directa y será autorizado por el Congreso del Estado y por los cabildos municipales respectivamente, corroborándose que se cuente con los proyectos ejecutivos completos, los derechos de vía liberados en su caso, permisos y autorizaciones necesarias.
 
 II. Que cuente con los estudios y proyectos, las normas y especificaciones de construcción, el presupuesto, el programa de ejecución y, en su caso, el programa de suministro; y,
 
 III. Que se cumplan los trámites o gestiones complementarios que se relacionen con la obra, de conformidad con las disposiciones legales federales, estatales y municipales aplicables.
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Corresponde a los comités de obras llevar a cabo los procedimientos para contratar y vigilar la correcta ejecución de las obras públicas y servicios relacionados con las mismas.
+
+Las instituciones solo en los casos y condiciones referidos en el artículo 92 podrán realizar obra por administración directa, para que por su cuenta y orden se realicen las obras o servicios relacionados con las mismas; por lo que de no darse los supuestos establecidos en dicho artículo deberá realizarse el procedimiento de contratación respectivo para solventar la necesidad de que se trate.
+
+Fuera de esos supuestos, todas las demás contrataciones deberán ser por licitación; o bien, cuando procedan los casos de excepción se podrá adjudicar directamente el contrato a quien otorgue las mejores condiciones conforme a esta ley.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 12.
 
-Se deberán establecer en las convocatorias, invitaciones y contratos correspondientes los procedimientos, requisitos y demás disposiciones para la contratación de obras públicas y servicios relacionados con las mismas cuando sean financiados con fondos provenientes de créditos externos que sean otorgados al Gobierno del Estado, sin perjuicio de observar los lineamientos que en su caso emita el Comité correspondiente.
+Se deberán establecer en las convocatorias y contratos correspondientes los procedimientos, requisitos y demás disposiciones para la contratación de obras públicas y servicios relacionados con las mismas cuando sean financiados con fondos provenientes de créditos externos que sean otorgados al Gobierno del Estado y sus instituciones, sin perjuicio de observar los lineamientos que en su caso emita el Comité correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-Serán supletorias de esta Ley, el Código Civil, el Código de Procedimientos Civiles y la Ley de Justicia Administrativa, todas para el Estado de Sinaloa y las demás disposiciones que de ellas se deriven, siempre que sus disposiciones no sean contrarias a la naturaleza y principios de esta Ley.
+Serán supletorias de esta Ley, el Código Civil, el Código de Procedimientos Civiles, la Ley de Justicia Administrativa y la Ley de Responsabilidades Administrativas, todas para el Estado de Sinaloa, siempre que sus disposiciones no sean contrarias a la naturaleza y principios de esta Ley.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-Los actos, contratos y convenios que se realicen o celebren en contravención a lo dispuesto por esta Ley, serán nulos previa determinación de la autoridad competente.
+Los actos, contratos y convenios que se realicen o celebren en contravención a lo dispuesto por esta Ley, serán nulos previa determinación del órgano interno de control respectivo.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
-Cuando por las condiciones especiales de las obras públicas o de los servicios relacionados con las mismas, se requiera la intervención de dos o más entidades federativas, de dos o más Municipios, o dos o más entidades federativas y Municipios, ninguna de dichas obras podrá ejecutarse sin que, previamente, se hayan celebrado los convenios respectivos en los que se establezcan los términos para la coordinación de las acciones entre quienes intervengan.
+Cuando por las condiciones especiales de las obras públicas o de los servicios relacionados con las mismas, se requiera la intervención de dos o más entidades federativas, de dos o más Municipios, o dos o más entidades federativas y Municipios en conjunto, ninguna de dichas obras podrá ejecutarse sin que, previamente, se hayan celebrado los convenios respectivos en los que se establezcan los términos para la coordinación de las acciones con el visto bueno del órgano interno de control respectivo de quienes intervengan.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN, PROYECTO Y PRESUPUESTO DE LA OBRA PÚBLICA
 
 ### CAPÍTULO I. DE LA PLANEACIÓN DE LA OBRA PÚBLICA
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-Para la planeación de la obra pública, el Estado y los Municipios deben considerar:
+La planeación de la obra pública, que realicen las instituciones referidas en el artículo 1, deberá contener:
 
-I. Los objetivos, prioridades y políticas señaladas en los planes y programas estatales y municipales de desarrollo;
+I. Los objetivos, prioridades y políticas señaladas en sus planes y programas de desarrollo institucionales.
 
-II. La instrumentación de las medidas que aseguren la mayor eficacia en el ejercicio del gasto y la transparencia de su manejo, procurando que sea suficiente y se aplique a los proyectos estratégicos y prioritarios que permitan cumplir los objetivos y alcanzar las metas señaladas en los planes y programas de desarrollo estatales y municipales;
+II. La instrumentación de las medidas que aseguren la mayor eficacia en el ejercicio del gasto y la transparencia de su manejo, procurando que sea suficiente y se aplique a los proyectos estratégicos y prioritarios que permitan cumplir los objetivos y alcanzar las metas referenciadas a mediano y largo plazo establecidas en sus planes y programas de desarrollo institucionales.
 
-III. La verificación de que en la elaboración del presupuesto del ejercicio de que se trate, se tomen en cuenta las obras en proceso, las inconclusas, las complementarias, las prioritarias y las que se van a iniciar y ejecutar durante dicho ejercicio;
+III. La verificación de que en la elaboración del presupuesto del ejercicio de que se trate, se tomen en cuenta las obras en proceso, las inconclusas, las complementarias, las prioritarias y las que se van a iniciar y ejecutar durante dicho ejercicio en los rubros de:
 
-IV. La disponibilidad de áreas y predios para la obra pública, previa consulta con la Secretaría y en su caso, con las dependencias competentes de los Ayuntamientos, para que éstas, en el ejercicio de sus atribuciones, determinen su conveniencia y viabilidad conforme a lo dispuesto en las leyes de la materia;
+a). Obras por contratación y.
 
-V. La disponibilidad de recursos con relación a las necesidades de las obras públicas y servicios relacionados con las mismas, atendiendo a la racionalidad que exige la realidad social y económica de la entidad y en especial al beneficio generado en el sector al que se destine la obra; y,
+b). Obras por administración directa, que para este rubro se deberá anexar: la infraestructura técnica y administrativa para tal efecto, como lo es: personal directivo, técnico, administrativo y obrero con perfiles adecuados, relación de maquinaria, herramienta y equipo, necesario y suficiente que garantice la ejecución de las obras por cuenta propia, ya que bajo ninguna circunstancia podrán participar terceros como contratistas, o subcontratistas, como organismos públicos descentralizados, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que estos adopten, lo cual aplicará a lo referido en el artículo 92, inciso a) de esta ley.
 
-VI. La prevención de impactos ambientales derivados de la realización y operación de la obra pública.
+IV. Garantizar la realización de las obras en mejores condiciones para la institución;
+
+V. La disponibilidad de áreas y predios para la obra pública, previa aprobación del comité de obras respectivo de cada institución y en coordinación con las áreas competentes, para que éstas, en el ejercicio de sus atribuciones, determinen su viabilidad conforme a lo dispuesto en las leyes de la materia.
+
+VI. La disponibilidad de recursos con relación a las necesidades de las obras públicas y servicios relacionados con las mismas, deberá estar contemplada en el proyecto de presupuestos de egresos de su ejercicio, en cumplimiento a la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, atendiendo a la racionalidad que exige la realidad social y económica de la entidad y en especial al beneficio generado en el sector al que se destine la obra; y.
+
+VII. La prevención de impactos ambientales derivados de la realización y operación de la obra pública, tomando en cuenta el atlas de riesgo correspondiente a la ubicación proyectada.
 
 ### CAPÍTULO II. DE LA PROGRAMACIÓN DE LA OBRA PÚBLICA
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Los programas de obra pública para cada ejercicio fiscal deben elaborarse anualmente y sólo podrán programarse las obras públicas que cuenten con un proyecto de obra en los términos de esta Ley.
+Los programas de obra pública para cada ejercicio fiscal deben elaborarse anualmente y sólo podrán programarse las obras públicas que cuenten con un proyecto de obra en los términos de esta ley conforme a los artículos 6, fracción I y 11, fracción I, conteniendo por separado las obras programadas para contratación, como las de ejecución por administración directa.
+
+El programa anual de obra pública contenido en la iniciativa de Ley de Ingresos y Presupuesto de Egresos que se presente al Congreso del Estado, además de la información señalada en el artículo 21 de esta Ley, precisará la inversión, el lugar, el origen de los recursos de la misma, así como el plazo previsto para su ejecución.
+
+El programa enunciará y detallará las inversiones multianuales para las previsiones presupuestales posteriores señaladas en el artículo 31 de esta Ley y, el programa en general, deberá ser aprobado por la mayoría simple que corresponda del Congreso del Estado. De igual manera, será éste quien verifique y certifique, por medio de sus comisiones respectivas conforme a su Ley, los informes trimestrales de los avances del programa con base a lo dispuesto en el artículo 70 de la Constitución política del Estado de Sinaloa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 18.
 
-Para la programación de la obra pública deberá considerarse lo siguiente:
+Para la programación de la obra pública, en los términos del artículo anterior, deberá considerarse lo siguiente:
 
-I. Los objetivos, prioridades y políticas señaladas en los planes y programas estatales y municipales de desarrollo;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. Los objetivos, prioridades y políticas señaladas en los planes y programas institucionales de desarrollo;
 
 II. Los objetivos y metas a corto, mediano y largo plazo;
 
@@ -263,7 +331,9 @@ IV. Las acciones necesarias para que las obras públicas iniciadas se concluyan 
 
 V. Las fechas de iniciación y terminación de todas sus fases; y,
 
-VI. Las metas y previsiones de recursos establecidos en el presupuesto de egresos del Estado y de los Municipios.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Las metas y previsiones de recursos establecidos en el presupuesto de egresos de la Ley de Ingresos y Presupuesto de Egresos del Estado.
 
 ###### Artículo 19.
 
@@ -271,13 +341,15 @@ Pueden hacerse programas que abarquen más de un ejercicio presupuestal, cuando 
 
 En el caso de obras cuyo tiempo de ejecución requiera dos o más ejercicios presupuestales, deberá determinarse tanto el presupuesto total, como el relativo a cada uno de los ejercicios de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-Se deberán programar las obras públicas en el orden siguiente:
+Se deberán programar y transparentar en el sistema Compra Net-Sinaloa, las obras públicas en el orden siguiente:
 
-I. La terminación de obras en proceso, las obras inconclusas y las complementarias que sean indispensables para el buen funcionamiento de las obras publicas existentes.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-La terminación de obras en proceso y las obras inconclusas, previo informe de la inversión requerida para su terminación y los aspectos relevantes relativos al cumplimiento del contrato; y,
+I. La terminación de obras en proceso, las obras inconclusas y las complementarias que sean indispensables para el buen funcionamiento de las obras publicas existentes, previo informe de la inversión requerida para su terminación y los aspectos relevantes relativos al cumplimiento del contrato, y
 
 II. Las obras nuevas que tenga proyecto de obra y se apeguen a los lineamientos previstos en el artículo 18 de esta Ley.
 
@@ -287,13 +359,17 @@ En la programación de la obra pública se deberá observar lo siguiente:
 
 I. El nombre del proyecto;
 
-II. Su vinculación específica al programa de desarrollo;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+II. Su vinculación específica a los planes, programas, así como de ordenamiento territorial y desarrollo urbano y demás instrumentos de planeación del desarrollo de las instituciones;
 
 III. Lugar de destino de la inversión identificando Municipio y localidad;
 
 IV. La situación de la obra;
 
-V. La modalidad de asignación de contrato;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+V. La modalidad de asignación de contrato o por Administración Directa;
 
 VI. La estructura financiera;
 
@@ -305,29 +381,45 @@ IX. Garantía de recursos técnicos y económicos para la operación, conservaci
 
 X. Documentación que garantice la legal posesión, expropiación, donación, adquisición del suelo o el uso del derecho de vía.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 22.
 
-Los organismos estatales a que se refiere la presente Ley deberán remitir sus programas de obra pública a la Secretaría de Administración y Finanzas, y en el caso de los Municipios a la Tesorería Municipal, su anteproyecto de programa anual de obras públicas del ejercicio presupuestal siguiente, dentro de los cinco primeros días hábiles del mes de octubre de cada año, para su revisión e inclusión en el proyecto de presupuesto de egresos del ejercicio correspondiente.
+Las instituciones, con excepción de los Ayuntamientos a que se refiere la presente Ley, deberán remitir sus proyectos de presupuesto de egresos para el ejercicio fiscal que corresponde a la Secretaría de Administración y Finanzas, en el cual se incluirán los programas anuales de obra pública previamente aprobados por el Congreso del Estado, cuando tengan proyectada la realización de las mismas, para los efectos de su integración en sus términos al proyecto de iniciativa de la Ley de Ingresos y Presupuesto de Egresos del Estado, conforme al artículo 36 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Sinaloa.
 
-También se deberá remitir copia del mismo a la Secretaría y a la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado y, en el caso de los Ayuntamientos, a la Dirección de Obras Públicas y a los órganos de control según corresponda.
+En el caso de los ayuntamientos el proyecto de presupuesto de egresos para el ejercicio fiscal correspondiente deberá ser aprobado por sus cabildos, en el cual se incluirán los programas anuales de obra y servicios relacionados con las mismas, conteniendo lo rubros por contratación y administración directa en su caso, autorizados por los comités respectivos.
+
+También se deberá remitir copia del mismo a la Secretaría y a la Secretaria de Transparencia y Rendición de Cuentas del Gobierno del Estado y, en el caso de los Ayuntamientos, a la Dirección de Obras Públicas y a los órganos internos de control según corresponda, mismos que se encargarán de subir tal información al sistema Compra Net-Sinaloa.
+
+Y las demás instituciones a sus respectivos órganos internos de control.
 
 ### CAPÍTULO III. DE LOS PROYECTOS DE OBRA PÚBLICA
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 23.
 
-Las dependencias o entidades que requieran contratar o realizar estudios o proyectos para una obra determinada y necesaria, deberá (sic) verificar previamente en sus archivos la existencia de estudios y proyectos de obras iguales a las requeridas que ya han sido ejecutadas y que han demostrado con suficiencia la calidad de la obra, del servicio, y costos de operación y mantenimiento esperados.
+Las instituciones que requieran contratar o realizar estudios o proyectos para una obra determinada y necesaria, deberá (sic) verificar previamente en sus archivos la existencia de estudios y proyectos de obras iguales a las requeridas, que ya han sido ejecutadas y que han demostrado con suficiencia la calidad de la obra.
 
-En el supuesto de que se verifique en los archivos la existencia de estudios y proyectos de obras que cumplen con las condiciones requeridas en el párrafo anterior, sólo procederá la contratación de los estudios necesarios para su adecuación y aprovechamiento.
+En el supuesto de que se verifique en los archivos la existencia de estudios y proyectos de obras que cumplen con las condiciones requeridas en el párrafo anterior, no procederá la contratación, salvo para los estudios necesarios de actualización, adecuación y aprovechamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 24.
 
-Toda Persona, atendiendo los lineamientos establecidos en esta Ley, podrá presentar, proponer y promover ante las dependencias y entidades, estudios, planes y programas para el desarrollo de proyectos, debiendo proporcionar la información suficiente que demuestre la viabilidad y factibilidad de su propuesta.
+Toda Persona, atendiendo los lineamientos establecidos en esta Ley, podrá vía portal de transparencia de las instituciones, presentar, proponer y promover ante las instituciones, necesidades que impliquen la elaboración de proyectos, obras y servicios.
 
 Las dependencias y entidades deberán notificar por escrito al promovente la autorización o negativa de su promoción, o en su caso, las observaciones que formulen en relación a ésta, en un plazo que no excederá de tres meses contados a partir de la fecha de su presentación, sin que contra esta determinación proceda recurso alguno.
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Para el caso de los programas de obra pública y de los anteproyectos de programa anual de obras públicas del ejercicio presupuestal siguiente, ambos deberán subirse al portal de transparencia de las instituciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-Para efectos de control de las obras públicas las dependencias y entidades contratantes y en su caso, las encargadas de su operación, deberán llevar inventarios actualizados conforme a lo siguiente:
+Para efectos de control de las obras públicas las instituciones, a través de las áreas encargadas de su operación, deberán llevar inventarios actualizados de avances físicos y financieros de las mismas y notificarlos al comité de obra respectivo mensualmente, conforme a lo siguiente:
 
 I. De las obras públicas y de los servicios relacionados con las mismas existentes, incluyendo el estado que guarden dentro de su esfera de competencia;
 
@@ -335,7 +427,17 @@ II. De los estudios, planes y proyectos sobre las obras públicas y de los servi
 
 III. De la maquinaria, instalaciones, insumos y equipos de construcción que sean de su propiedad, estén bajo su cuidado, precisando su estado físico.
 
-Los inventarios a que se refiere este artículo a cargo de las dependencias y entidades estarán en todo momento a disposición de la Secretaría, cuando se trate de los Municipios, estarán a disposición de la dependencia encargada de ejecutar las obras públicas municipales a efecto de integrar un banco de proyectos que permitan la oportuna tramitación y radicación de recursos propios y los que provengan de los fondos federales.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Los inventarios a que se refiere este artículo, estarán en todo momento a disposición de la Secretaría. Cuando se trate de los Municipios, estarán a disposición del área encargada de ejecutar las obras públicas municipales a efecto de integrar un banco de proyectos que permitan la oportuna tramitación y radicación de recursos propios y los que provengan de los fondos federales.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Y las demás instituciones, a través de su área correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+El banco de proyectos estará disponible a través del portal de transparencia de cada institución.
 
 ###### Artículo 26.
 
@@ -345,7 +447,9 @@ I. Las investigaciones, asesorías, consultorías y estudios necesarios, incluid
 
 II. La adquisición y regularización de los terrenos necesarios sobre los cuales pretenda ejecutarse la obra pública;
 
-III. Los permisos, autorizaciones y licencias necesarias;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Los permisos, autorizaciones y licencias necesarias obtenidos mediante contratación de servicios relacionados con la obra pública a un director responsable de obra para cada especialidad necesaria en la localidad;
 
 IV. Las características ambientales, climáticas y geográficas de la región donde se realice la obra pública;
 
@@ -363,23 +467,39 @@ X. Los conceptos y cantidades de trabajo conforme al proyecto ejecutivo;
 
 XI. La aplicación de los costos analizados, de acuerdo con las condiciones actualizadas que prevalezcan en el momento de su presupuestación;
 
-XII. Las fechas previstas de inicio y terminación de todas sus fases;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Al proceso aplicable para la elaboración de los proyectos ejecutivos, se deberá considerar el uso de la tecnología moderna y actualizada que aporte sustentabilidad y beneficio ecológico, a la fecha de elaboración de los mismos en función de la naturaleza de la obra;
 
 XIII. La coordinación necesaria para resolver posibles interferencias y evitar duplicidad de trabajos e interrupción de servicios públicos;
 
 XIV. La aplicación de la legislación urbanística, en lo procedente; y,
 
-XV. Las demás previsiones que deban tomarse en consideración, según la naturaleza y características de la obra.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Las demás previsiones que deban tomarse en consideración, según la naturaleza y características de la obra, así como los conceptos y cantidades de trabajo conforme al proyecto ejecutivo, incluyendo el servicio público de transporte de carga.
 
 ### CAPÍTULO IV. DE LA PRESUPUESTACIÓN DE LA OBRA PÚBLICA
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 27.
 
-El presupuesto de cada obra pública debe elaborarse con base en el proyecto, los indicadores de costos vigentes, los tabuladores de precios unitarios vigentes, y los aranceles de servicios profesionales o precios de obras similares vigentes; y considerar los costos derivados de la forma de pago.
+El presupuesto de cada obra pública, el cual deberá publicarse en el sistema Compra Net-Sinaloa, debe elaborarse con base en el proyecto, los indicadores de costos vigentes, los tabuladores de precios unitarios vigentes, y los aranceles de servicios profesionales o precios de obras similares vigentes, así como del servicio público de transporte de carga y considerar los costos derivados de la forma de pago.
+
+Para la elaboración del presupuesto de cada obra, las entidades deberán contar con la presencia de al menos un testigo social, el Comité de Obra y el titular del Órgano Interno de Control respectivos, que deberá contener los rubros de:
+
+a) Obra por contratación.
+
+b) Obra por administración directa, que para este rubro se deberá anexar: la infraestructura técnica y administrativa para tal efecto, como lo es: personal directivo, técnico, administrativo y obrero con perfiles adecuados, relación de maquinaria, herramienta y equipo, necesario y suficiente que garantice la ejecución de las obras por cuenta propia, ya que bajo ninguna circunstancia podrán participar terceros como contratistas, o subcontratistas, como organismos públicos descentralizados, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que estos adopten.
+
+Para el caso del inciso b) se garantizará, conforme a las reglas específicas para la modalidad de Administración Directa, conforme a lo que dispone el artículo 92, inciso a) de esta Ley, sea la mejor opción para la realización de las obras en que aplique la misma, así como que ésta resulte más económica para la institución o, en su defecto, se deberá aplicar lo correspondiente a lo establecido en los artículos 38 fracción I y 39 fracciones I y II.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 28.
 
-Los presupuestos de cada obra pública deben incluir, además de los costos de las obras, los correspondientes a:
+Los presupuestos para solicitud de recursos de cada obra pública deben incluir, además de los costos de las obras, los correspondientes a:
 
 I. Las investigaciones, asesorías, consultorías y estudios necesarios;
 
@@ -387,7 +507,9 @@ II. Los proyectos ejecutivos, arquitectónicos y de ingeniería necesarios;
 
 III. La adquisición de los predios y la desafectación conforme a su régimen de propiedad;
 
-IV. La obtención de las licencias, permisos y autorizaciones necesarias;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Los permisos, autorizaciones y licencias necesarias, que se le pagarán al ayuntamiento, así como el costo de la (sic) autorizaciones necesarias de las dependencias estatal y federales y el costo de los contratos de servicios relacionados con la obra pública necesarios;
 
 V. La ejecución de la obra, que debe incluir:
 
@@ -407,23 +529,29 @@ VIII. Los costos y gastos de mantenimiento y conservación, en base a la estimac
 
 IX. Las demás previsiones que deban tomarse en consideración, según la naturaleza y características de la obra.
 
-Al presupuesto total de la obra se le calculará un tres por ciento, para ser separado e integrado a un Fondo previsto en el Reglamento de la presente Ley, mismo que deberá ser aplicado exclusivamente al pago por investigaciones, asesorías, consultorías, estudios y trabajos para la elaboración de los proyectos ejecutivos de las obras programadas. Proyectos que deberán incorporarse al Banco de Proyectos, en la forma y términos que establezca el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Al presupuesto total de la obra indicados en las fracciones del I al IX, se le calculará un tres por ciento adicional, para constituir el fondo presupuestal del banco de proyectos ejecutivos para ser aplicado exclusivamente al pago por investigaciones, asesorías, consultorías, estudios y trabajos para el diseño y la elaboración de los proyectos ejecutivos necesarios para el desarrollo de las obras programadas en términos que establezca esta Ley.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 29.
 
-El ente público debe elaborar un presupuesto por cada obra pública que se contrate, el cual debe contener, en su caso y como mínimo, lo siguiente:
+Todas las instituciones deben elaborar un presupuesto por cada obra pública que se contrate, así como para cada obra por administración directa a realizar el cual debe contener, en su caso y como mínimo, lo siguiente:
 
-I. El catálogo de conceptos de obra que debe proporcionarse en las bases de licitación;
+I. El catálogo de conceptos de obra que debe proporcionarse en las modalidades de contratación por licitación y por adjudicación directa, así como en obras por administración directa;
 
-II. El análisis de precios unitarios, conforme a las condiciones de: el proyecto, el lugar donde se realice la obra, el plazo estipulado; y del mercado de materiales, mano de obra y equipo, acordes al proyecto, y según los estudios de apoyo;
+II. El análisis de precios unitarios actualizados, conforme a las condiciones de: el proyecto ejecutivo, el lugar donde se realice la obra, el plazo estipulado; y del mercadeo de precios de materiales, mano de obra, maquinaria y equipo de instalación permanente, acordes al proyecto ejecutivo, y según los estudios de apoyo;
 
-III. El factor de indirectos de oficina central, de obra, financiamiento, utilidad y cargos adicionales vigentes y remunerativos; y,
+III. El factor de indirectos de oficina central, de obra, financiamiento, utilidad y cargos adicionales vigentes y remunerativos; y
 
-IV. El listado de los costos y volúmenes de insumos, materiales, mano de obra, maquinaria y equipo.
+IV. El listado de los costos y volúmenes de insumos, materiales, servicio público de transporte de carga, mano de obra, maquinaria y equipo.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-Los entes públicos pueden realizar convenios con la Secretaría para elaborar los presupuestos de obra pública, cuando no cuenten con la infraestructura técnica necesaria.
+Las instituciones pueden realizar convenios con los gremios de profesionales colegiados e instituciones educativas afines a la construcción, para elaborar los presupuestos y proyectos ejecutivos de obra pública, cuando no cuenten con la infraestructura técnica necesaria, o contratar de acuerdo a esta ley.
 
 ###### Artículo 31.
 
@@ -433,241 +561,269 @@ En la formulación de los presupuestos de los ejercicios subsecuentes debe (sic)
 
 El presupuesto actualizado es la base para solicitar la asignación de recursos de cada ejercicio presupuestal subsecuente.
 
-La asignación presupuestal aprobada para cada contrato es la base para otorgar el anticipo, en su caso.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+La asignación presupuestal aprobada para cada ejercicio fiscal correspondiente de la obra que se contrató de manera plurianual, es la base para otorgar el anticipo correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 32.
 
-Los entes públicos deben poner a disposición de los interesados, antes del treinta y uno de enero de cada año, su programa anual de obra pública, con excepción de aquella información que por su naturaleza sea confidencial por disposición legal.
-
-La información publicada no implica compromiso alguno para los entes públicos y el programa puede ser adicionado, modificado, suspendido o cancelado, sin responsabilidad alguna para el ente público correspondiente.
+Las instituciones deben poner a disposición de los interesados, antes del treinta y uno de enero de cada año, su programa anual de obra pública a través del sistema Compra Net-Sinaloa, con excepción de aquella información que por su naturaleza sea confidencial por disposición legal.
 
 ## TÍTULO TERCERO. DE LOS COMITÉS DE OBRAS PÚBLICAS
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 33.
 
-El ejecutivo estatal y municipales, así como cada una de sus entidades, deberán establecer en el ámbito de sus competencias un Comité de Obras, el cual tendrá como objetivo general, vigilar el cumplimiento de las disposiciones legales y principios que deben observarse en la administración de los recursos que se destinen a la contratación de obras públicas y servicios relacionadas (sic) con las mismas.
+Todas las instituciones comprendidas en esta ley, deberán establecer en el ámbito de sus competencias un Comité de Obras, el cual tendrá como objetivo general: vigilar el cumplimiento de las disposiciones legales que deben observarse en la administración de los recursos que se destinen a obras públicas y servicios relacionadas con las mismas; y participarán, para tal efecto, desde la Planeación, Presupuestación, Programación, supervisión, evaluación, licitación, contratación, ejecución, finiquito y puesta en operación, así como cuando se trate de obras programadas a ejecutar por administración directa.
 
-La integración del Comité de Obras y sus funciones se sujetarán a lo que señale esta Ley y su Reglamento.
+Los Comités de Obras contarán con las atribuciones siguientes:
+
+I. Revisar y autorizar el programa anual y el presupuesto de obras públicas y servicios relacionados con las mismas, así como sus modificaciones, y formular las observaciones y recomendaciones convenientes;
+
+II. Dictaminar los proyectos de políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas que le presenten;
+
+III. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de situaciones de emergencia, caso fortuito o fuerza mayor para, no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 61 Y 92 de esta Ley;
+
+IV. Elaborar y aprobar el manual de integración y funcionamiento del Comité de Obra;
+
+V. Realizar los procedimientos de licitación para contratación de obras públicas y servicios relacionados con las mismas;
+
+VI. Analizar el informe de la conclusión y resultados generales de las contrataciones que se realicen y, en su caso, recomendar las medidas necesarias para verificar que el programa y presupuesto de obras y servicios se ejecuten en tiempo y forma y con la calidad normativa de cada caso, así como proponer medidas tendientes a mejorar o corregir sus procesos de supervisión, evaluación, verificación, en materia de planeación, programación, presupuestación, licitación, contratación, ejecución, finiquito y puesta en operación;
+
+VII. Analizar el expediente y el acta levantada en el acto de presentación y apertura de propuestas elaboradas por la convocante, con objeto de evaluar las mismas y formular el dictamen del fallo correspondiente en las licitaciones de obra pública y servicios relacionados con la misma, y
+
+VIII. Analizar y emitir opinión, sobre la problemática que se presente en la ejecución de los contratos de obra pública y servicios relacionados con la misma.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 34.
 
-El Comité de Obras es un organismo de consulta, asesoría y orientación en materia de contratación de obras públicas y contará con las siguientes facultades:
+Las sesiones de los comités se desarrollarán en los términos siguientes:
 
-I. Revisar el programa anual y el presupuesto de obras públicas y servicios relacionados con las mismas, así como sus modificaciones, y formular las observaciones y recomendaciones convenientes;
+I. Serán ordinarias aquellas que estén programadas en el calendario anual de sesiones;
 
-II. Dictaminar los proyectos de políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas que le presenten, así como someterlas a la consideración del titular de la dependencia o el órgano de gobierno de las entidades; en su caso, autorizar los supuestos no previstos en las mismas;
+II. Serán extraordinarias las sesiones del comité para tratar asuntos de carácter urgente debidamente justificados, previa solicitud formulada por cualquier (sic) de sus miembros en términos de esta ley;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+III. Se llevarán a cabo cuando asistan al menos el cincuenta por ciento más uno de sus miembros; las decisiones y acuerdos del comité se tomarán de manera colegiada por mayoría de votos de los miembros con derecho a voz y voto presentes en la sesión correspondiente;
 
-III. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 61 de esta Ley;
+IV. Solo podrán llevarse a cabo cuando esté presente su presidente o su suplente y por lo menos uno de los tres ciudadanos según sea el caso en términos del artículo 35, fracciones V y VI;
 
-IV. Autorizar, cuando se justifique, la creación de subcomités de obras públicas, así como aprobar la integración y funcionamiento de los mismos;
+V. La convocatoria de cada sesión, junto con el orden del día y los documentos correspondientes a cada asunto, se entregará en forma impresa y/o por medios electrónicos a los participantes del comité, cuando menos con cuarenta y ocho horas de anticipación a la celebración de la sesión ordinaria y con veinticuatro horas de anticipación para la extraordinaria. La sesión solo podrá llevarse a cabo cuando se cumpla los plazos indicados;
 
-V. Elaborar y aprobar el manual de integración y funcionamiento del Comité de Obras;
+VI. Los asuntos que se sometan a consideración del comité, deberán presentarse en el formato que éste considere conveniente, y tratándose de las solicitudes de excepciones a la licitación pública invariablemente deberá contener un resumen de la información;
 
-VI. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables;
+VII. Las solicitudes de excepciones de licitación en términos de los artículos 61 y 92 de esta ley, que efectúen las contratantes presentadas al comité y la documentación soporte que quede como constancia de dicha solicitud de contratación, deberá ser firmada por los titulares de las mismas o en su caso por los titulares del área administrativa o su equivalente;
 
-VII. Analizar el informe de la conclusión y resultados generales de las contrataciones que se realicen y, en su caso, recomendar las medidas necesarias para verificar que el programa y presupuesto de obras y servicios se ejecuten en tiempo y forma, así como proponer medidas tendientes a mejorar o corregir sus procesos de contratación y ejecución; y,
+VIII. Cuando de la solicitud de excepción a la licitación pública, indicada en la fracción anterior y documentación soporte presentada por la contratante, no se desprende, a juicio del comité, elementos suficientes para dictaminar el asunto de que se trate, será dictaminado al procedimiento de licitación;
 
-VIII. Las demás que establezca el Reglamento de esta Ley.
+IX. En ningún caso el comité podrá emitir su dictamen condicionado a que se cumplan requisitos infundados o se obtenga documentación que limite la participación de las empresas en los procedimientos de licitación;
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+X. Los dictámenes de procedencia a las excepciones a la licitación pública que emita el comité no implica responsabilidad alguna para estos, ni releva de su responsabilidad a la contratante respecto de las acciones u omisiones que posteriormente puedan generarse en la contratación o en el incumplimiento de los contratos respectivos;
 
-El dictamen previo no será exigible en los casos de emergencia o de urgente necesidad de obra para evitar daños mayores a la hacienda pública, la interrupción del libre tránsito en vías principales o la interrupción de los servicios públicos fundamentales en una zona determinada.
+XI. De cada sesión se elabora un acta que será aprobada y firmada por todos los que hubieran asistido a ella, a más tardar en la sesión inmediata posterior. En dicha acta de deberá señalar el sentido de los acuerdos tomados por los miembros con derecho a voto y en su caso, los comentarios relevantes de cada asunto. Los asesores e invitados firmaran únicamente el acta como constancia de su asistencia o participación y su responsabilidad se limita a la que derive de su opinión. La copia del acta debidamente firmada deberá ser integrada en la carpeta de la siguiente sesión;
+
+XII. El orden del día de la sesión ordinaria contendrá un apartado correspondiente al seguimiento de los acuerdos emitidos en las sesiones anteriores;
+
+XIII. En la última sesión de cada ejercicio fiscal se aprobará por el comité el calendario de sesiones ordinarias del siguiente ejercicio;
+
+XIV. En la primera sesión ordinaria del ejercicio fiscal se analizará y discutirá para su aprobación el programa anual de obras públicas y servicios relacionados con las mismas autorizado ratificando los procedimientos de contratación de obras públicas y servicios relacionados con las mismas, así como de las obras programadas a ejecutar por administración directa, y
+
+XV. El contenido de la información y documentación que se someta a la consideración del Comité serán de la exclusiva responsabilidad de las áreas que las formulen.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
-El Comité de Obras del ejecutivo estatal contará con los siguientes integrantes:
+El Comité de Obras del Ejecutivo Estatal, contará con los siguientes integrantes:
 
 I. Un Presidente, que será el titular de la Secretaría;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+II. Un Secretario Ejecutivo, que será el titular de la Secretaría de Administración y Finanzas;
 
-II. Un Secretario Ejecutivo, que será el titular de la Secretaría de Administración y Finanzas del Gobierno (sic) Estado de Sinaloa;
+III. Un Vocal, que será el titular de la Secretaría de Desarrollo Sustentable;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+IV. Un Vocal, que será el titular de la Secretaría de Transparencia y Rendición de Cuentas;
 
-III. Vocal, que será el titular de la Secretaría de Desarrollo Sustentable del Gobierno (sic) Estado de Sinaloa;
+V. Un asesor, que será el titular de la Subsecretaría de Asuntos Jurídicos de la Secretaría General de Gobierno, y
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+VI. Tres ciudadanos propuestos por asociaciones civiles, organizaciones empresariales, colegios e instituciones académicas, por las organizaciones estatales del transporte de mayor representación en el Estado de Sinaloa, debidamente acreditadas ante el órgano interno de control correspondiente.
 
-IV. Un asesor, que será el titular de la Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado de Sinaloa, quien contara con voz pero sin voto;
+Estos ciudadanos tendrán una duración de dos años dentro del comité de obras y serán elegidos por el Comité de Participación Ciudadana del Sistema Local Anticorrupción, a través de un proceso público y transparente en el que se pondere su reconocimiento público, honestidad, independencia, carácter ciudadano y conocimientos en la materia.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+Los integrantes del Comité a que se refiere las fracciones I, II, III, IV y V de este artículo, podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que los representen en las sesiones del Comité, quienes tendrán todas las facultades que le corresponden a sus respectivos propietarios.
 
-V. Un asesor, que será el titular de la Subsecretaría de Asuntos Jurídicos de la Secretaría General de Gobierno del Gobierno del Estado de Sinaloa, quien contara con voz pero sin voto; y,
+Los ciudadanos referidos en la fracción VI, podrán designar a su suplente previa notificación de su representación de origen.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+Todos los integrantes contarán con voz y voto.
 
-VI. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contaran con voz, pero sin voto.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-Los integrantes del Comité a que se refiere (sic) las fracciones I, II, III, IV y V de este artículo, podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que los representen en las sesiones del Comité, quienes tendrán todas las facultades que a (sic) corresponden a sus respectivos propietarios.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 36.
 
 El Comité de Obras en cada Municipio estará integrado de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
-
 I. Un presidente, que será el titular de la dirección o dependencia de obras públicas del municipio;
-
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
 
 II. Un secretario ejecutivo, que será el titular de la Tesorería Municipal o su equivalente;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+III. Un Vocal, que será el titular del área de planeación o su equivalente;
 
-III. Un Vocal, que será el titular del área de contrataciones o su equivalente en el Municipio;
+IV. Un Vocal, que será el titular del Órgano de Control Interno, respectivo;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+V. Un Vocal, que será el Titular de Asuntos Jurídicos;
 
-IV. Un asesor, que será el titular del Órgano de Control Interno del Ayuntamiento respectivo, quien contará con voz pero sin voto;
+VI. Tres ciudadanos propuestos por asociaciones civiles, organizaciones empresariales, colegios e instituciones académicas, por las organizaciones del transporte de mayor representación en el Municipio, debidamente acreditadas ante el órgano interno de control respectivo.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+Estos ciudadanos tendrán una duración de dos años dentro del comité de obras y serán elegidos por el Comité de Participación Ciudadana del Sistema Local Anticorrupción, a través de un proceso público y transparente en el que se pondere su reconocimiento público, honestidad, independencia, carácter ciudadano y conocimientos en la materia.
 
-V. Un asesor, que será el Síndico Procurador, quien contará con voz pero sin voto; y,
+Los integrantes del Comité a que se refiere las fracciones I, II, III, IV y V de este artículo, podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que los representen en las sesiones del Comité, quienes tendrán todas las facultades que le corresponden a sus respectivos propietarios.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+Los ciudadanos referidos en la fracción VI, podrán designar a su suplente previa notificación de su representación de origen.
 
-VI. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contaran con voz, pero sin voto.
+Todos los integrantes contarán con voz y voto.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-Los integrantes del Comité a que se refieren las fracciones I, II, III, IV y V de este artículo podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que estos los representen en las sesiones del Comité, quienes tendrán todas las facultades que corresponden a sus respectivos propietarios.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 37.
 
-De igual manera, en los organismos paraestatales y paramunicipales se integrarán Comités de Obras Públicas con las mismas atribuciones señaladas en el artículo 34 de esta Ley, e integrados de la siguiente manera:
+De igual manera, en las demás instituciones, se integrarán Comités de Obras Públicas con las mismas atribuciones señaladas en el artículo 33 de esta Ley, e integrados de la siguiente manera, cuyos integrantes contaran con voz y voto.
 
-I. Un Presidente, que será el Director, o su equivalente, en el organismo paraestatal o paramunicipal;
+I. Un Presidente, que será el titular de la institución.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+II. Un Secretario Ejecutivo, que será el titular del área de Administración o su equivalente;
 
-II. Un Secretario Ejecutivo, que será el titular del área de Administración y Finanzas o su equivalente;
+III. Un Vocal, que será el titular del área de planeación o su equivalente en la institución
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+IV. Un vocal, que será el titular del Órgano Interno de Control de la institución, según corresponda;
 
-III. Un Vocal, que será el titular del área de contrataciones o su equivalente en la entidad;
+V. Un vocal que será el titular del área jurídica o su equivalente
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+VI. Tres ciudadanos propuestos por asociaciones civiles, organizaciones empresariales, colegios e instituciones académicas, por las organizaciones estatales del transporte de mayor representación en el Estado de Sinaloa, debidamente acreditadas ante el órgano interno de control correspondiente.
 
-IV. Un asesor, que será el titular de la Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado de Sinaloa, o el titular del Órgano Interno de Control del Ayuntamiento respectivo, según corresponda; y,
+Estos ciudadanos tendrán una duración de dos años dentro del comité de obras y serán elegidos por el Comité de Participación Ciudadana del Sistema Local Anticorrupción, a través de un proceso público y transparente en el que se pondere su reconocimiento público, honestidad, independencia, carácter ciudadano y conocimientos en la materia.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+Los integrantes del Comité a que se refieren las fracciones I, II, III, IV y V de este artículo, podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que los representen en las sesiones del Comité, quienes tendrán todas las facultades que le corresponden a sus respectivos propietarios.
 
-V. Dos ciudadanos, que serán acreditados y designados en términos del Reglamento de la presente Ley, quienes contarán con voz, pero sin voto.
+Los ciudadanos referidos en la fracción VI, podrán designar a su suplente previa notificación de su representación de origen.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-Los integrantes del Comité a que se refieren las fracciones I, II, III y IV de este artículo podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área, a efecto de que los representen en las sesiones del Comité, quienes tendrán todas las facultades que corresponden a sus respectivos propietarios.
+Todos los integrantes contaran con voz y voto.
 
 ## TÍTULO CUARTO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 38.
 
-Las dependencias y entidades, podrán realizar las obras públicas y servicios relacionados con las mismas por alguna de las dos formas siguientes:
+Las instituciones, podrán realizar las obras públicas y servicios relacionados con las mismas por alguna de las dos formas siguientes:
 
 I. Por contrato; y,
 
 II. Por administración directa.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 39.
 
-Las dependencias y entidades, seleccionarán en los términos de esta Ley, entre los siguientes procedimientos de contratación, el que asegure las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias aplicables:
+Los Comités de la (sic) Instituciones, seleccionarán en los términos de esta Ley, entre los siguientes procedimientos de contratación el que asegure las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias aplicables:
 
-I. Licitación pública;
+I. Licitación, y
 
-II. Invitación a cuando menos tres personas; y,
+II. Adjudicación Directa.
 
-III. Adjudicación directa.
+Los contratos de obras públicas y los servicios relacionados con las mismas, se adjudicarán por regla general a través del procedimiento de licitación pública. Las instituciones garantizarán para todos los participantes los mismos requisitos y condiciones en los procedimientos de contratación.
 
-Los contratos de obras públicas y los servicios relacionados con las mismas, se adjudicarán por regla general, a través del procedimiento de licitación pública. Las dependencias y entidades garantizarán para todos los participantes los mismos requisitos y condiciones en los procedimientos de contratación.
+A los procedimientos de licitación pública, podrá asistir cualquier persona en calidad de observador, siempre que se registre con ese carácter y se abstenga de intervenir en cualquier forma en los mismos.
 
-A los procedimientos de licitación pública e invitación a cuando menos tres personas, podrá asistir cualquier persona en calidad de observador, siempre que se registre con ese carácter y se abstenga de intervenir en cualquier forma en los mismos.
-
-La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación. Ambos procedimientos concluyen con la emisión del fallo.
+La licitación pública inicia con la publicación de la convocatoria y concluye con la emisión del fallo.
 
 Los licitantes sólo podrán presentar una propuesta en cada procedimiento de contratación, iniciado el acto de presentación y apertura de propuestas. Las ya presentadas no podrán ser retiradas o dejarse sin efecto por los licitantes.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 40.
 
-En las licitaciones públicas, cuyo presupuesto base rebase el equivalente a cuarenta mil veces el valor mensual de la Unidad de Medida y Actualización y en aquellos casos que determine la Secretaría de Transparencia y Rendición de Cuentas, atendiendo al impacto que la contratación tenga en los programas sustantivos de las dependencias o entidades, podrán participar las personas que se denominan testigos sociales. La participación de los testigos sociales en los procedimientos de licitación pública a los que se refiere esta Ley, se regirá de conformidad con lo siguiente:
+En las licitaciones públicas que realicen instituciones, deberán participar las personas que se denominan testigos sociales. La participación de los testigos sociales, a los que se refiere esta Ley, se regirá de conformidad con lo siguiente:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+I. Los órganos internos de control de cada institución, tendrán a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública y obras por administración directa, con voz y emitirán un testimonio con validez vinculatoria que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en sus páginas electrónicas oficiales correspondiente, así como en Compra Net-Sinaloa, y se integrará al expediente respectivo;
 
-I. La Secretaría de Transparencia y Rendición de Cuentas tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica oficial de la dependencia o entidad que lleve a cabo el proceso de licitación correspondiente, así como en la página electrónica del órgano interno de control municipal o su equivalente en las distintas entidades, según corresponda, así como en Compra Net-Sinaloa, y se integrará al expediente respectivo;
+II. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por los órganos internos de control respectivos;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-II. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por la Secretaría de Transparencia y Rendición de Cuentas;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-III. La Secretaría de Transparencia y Rendición de Cuentas acreditará como testigos sociales a personas físicas quienes para obtener su registro le deberán presentar solicitud escrita, presentando copia certificada de los documentos que acrediten los siguientes requisitos:
+III. Se acreditarán como testigos sociales a personas físicas quienes para obtener su registro deberán presentar solicitud escrita y los siguientes documentos:
 
 a) Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
 
 b) No haber sido sentenciado con pena privativa de libertad;
 
-c) No haber sido servidor público federal, estatal o municipal durante al menos un año previo a la fecha en que presente su solicitud para ser testigo social;
+c) No haber sido servidor público de alguna institución federal, estatal o municipal durante al menos tres años previos a la fecha en que presente su solicitud para ser testigo social;
 
 d) Presentar currículum en el que se acrediten los grados académicos, la especialidad correspondiente, la experiencia laboral y, en su caso docente, así como los reconocimientos que haya recibido a nivel académico y profesional;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+e)Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios, familiar, de amistad o afectiva.
 
-e) Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar;
+f) Manifestar bajo protesta de decir verdad no tener conflicto de intereses en los términos de la Ley aplicable.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+Para acreditar lo anterior, los interesados deberán presentar los siguientes documentos:
 
-f) Las demás contenidas en el Reglamento de la presente Ley; y,
+1. Copia certificada del acta de nacimiento o carta de naturalización y, en el caso de extranjeros, el documento migratorio emitido conforme a la legislación aplicable;
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+2. Documento certificado, con poder general para designación de un miembro que ejerza la actividad e (sic) testigo social en representación de la persona moral;
 
-g) Manifestar bajo protesta de decir verdad no tener conflicto de intereses en los términos de la Ley aplicable.
+3. Las constancias que acrediten el contenido de su currículum, y
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+4. Escrito en el que manifieste, bajo protesta de decir verdad, que se abstendrá de participar en contrataciones en las que pueda existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar.
 
-El registro para ser testigo social lo otorgará la Secretaría de Transparencia y Rendición de Cuentas, la cual difundirá en su página de Internet, quienes han obtenido el registro correspondiente para fungir como tales.
+IV. La participación de los testigos sociales se dará de manera escalonada.
 
-El registro otorgado, tendrá una vigencia mínima de un año, a cuyo término podrá ampliarse la misma por un periodo similar, tomando en cuenta los antecedentes de la actuación del testigo social.
+V. El registro para ser testigo social lo otorgará el órgano interno de control correspondiente, el cual difundirá en la página de Internet de la institución, los nombres de quienes hayan sido acreditados para fungir como tales.
 
-Se podrá exceptuar la participación de los testigos sociales, en los procedimientos de licitación pública que contengan información clasificada como reservada o confidencial, que ponga en riesgo la seguridad pública en los términos de las disposiciones legales aplicables.
+VI. El registro otorgado, tendrá una vigencia mínima de dos años, a cuyo término podrá ampliarse la misma por un periodo similar, tomando en cuenta los antecedentes de la actuación del testigo social.
 
-El Reglamento de esta Ley especificará los montos de la contraprestación al testigo social en función de la importancia y del presupuesto asignado a la contratación; y,
+VII. No se podrá excluir al testigo social en ningún tipo de licitación pública y obras a ejecutarse por administración directa así sea considerada clasificada como reservada, confidencial o de seguridad pública.
 
-IV. Los testigos sociales tendrán las funciones siguientes:
+VIII. La dirección administrativa en conjunto con el órgano interno de control, especificará los montos de la contraprestación al testigo social en función de las horas de servicio.
 
-a) Proponer a las dependencias, mejoras para fortalecer la transparencia e imparcialidad en materia de obras públicas y servicios relacionados con las mismas;
+Para determinar lo anterior se realizará una investigación de mercado sobre el precio por hora de los servicios de consultoría o asesoría similares a los que realizará el testigo social, el promedio de los precios obtenidos será el que se tome en cuenta para el pago de las horas al testigo social.
 
-b) Dar seguimiento a las recomendaciones derivadas de su participación en el procedimiento de licitación para el establecimiento de acciones en la contratación; y,
+IX. Los testigos sociales tendrán las funciones siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+a. Proponer a las instituciones, mejoras para fortalecer la transparencia e imparcialidad en materia de obras públicas y servicios relacionados con las mismas;
 
-c) Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a la Secretaría de Transparencia y Rendición de Cuentas. Dicho testimonio deberá ser publicado dentro de diez días naturales siguientes a su participación en la página de internet de la dependencia o entidad que corresponda.
+b. Dar seguimiento a las recomendaciones derivadas de su participación en los procedimientos de licitación para el establecimiento de acciones en la contratación, así como de las obras por administración directa;
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+c. Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar y (sic) a los órganos internos de control respectivo. Dicho testimonio deberá ser publicado dentro de diez días naturales siguientes a su participación en la página de internet de la institución que corresponda; y,
 
-En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir de manera inmediata su testimonio al área de quejas de la Secretaría de Transparencia y Rendición de Cuentas.
+d. El testigo social en los procedimientos de licitación, hará constar en el acta que al efecto se levante, las observaciones e irregularidades de cada etapa del procedimiento, tales como la emisión de las bases de licitación, visita de obra, juntas de aclaraciones, presentación y apertura de las propuestas, evaluaciones de las propuestas técnicas y económicas y acta de fallo, la cual formará parte del expediente único de la obra.
+
+En caso de que el testigo social o los ciudadanos miembros de los comités detecten irregularidades en los procedimientos de licitación, deberá remitir de manera inmediata su testimonio al órgano interno de control, con copia para la Auditoría Superior del Estado, la Fiscalía Especializada de Combate a la Corrupción de la Fiscalía General del Estado y el Comité de Participación Ciudadana del Sistema Estatal y Municipal Anticorrupción.
+
+Los organismos referidos en el párrafo anterior deberán informar de la procedencia y seguimiento del caso al testigo social.
+
+En caso de no contar con testigo social en el Padrón, no será impedimento para continuar con el procedimiento de licitación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 41.
 
-En las licitaciones públicas se utilizará el sistema Compra Net-Sinaloa o cualquier medio electrónico, autorizado conforme a las disposiciones administrativas que en el ámbito de sus atribuciones emita la Contraloría, oyendo la opinión de las dependencias y entidades en materia de obra pública. Lo anterior, sin perjuicio de que los licitantes puedan optar por presentar sus propuestas por escrito durante el acto de presentación y apertura de propuestas, en la forma y medios que prevea la convocatoria de la licitación.
+En las licitaciones públicas se utilizará el sistema Compra Net-Sinaloa, lo anterior, sin perjuicio de que los licitantes puedan optar por presentar sus propuestas por escrito durante el acto de presentación y apertura de propuestas, en la forma y medios que prevea la convocatoria de la licitación, y su posterior publicación en el sistema.
 
-Las propuestas deberán ser suscritas por los licitantes o sus apoderados en forma autógrafa. En el caso de que éstas sean enviadas a través de medios de comunicación electrónica, se emplearán medios de identificación electrónica, autorizadas para las licitaciones electrónicas, y producirán los mismos efectos que las firmas autógrafas y, en consecuencia, tendrán el mismo valor probatorio.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Las propuestas deberán ser suscritas por los licitantes o sus apoderados en forma autógrafa. En el caso de que éstas sean enviadas a través de medios de comunicación electrónica, se empleará la e- firma como medio de identificación electrónica, y producirán los mismos efectos que las firmas autógrafas y, en consecuencia, tendrán el mismo valor probatorio.
 
 En el caso que los licitantes opten por el uso de medios electrónicos para enviar sus propuestas, ello no limita que participen en los diferentes actos derivados de las licitaciones públicas.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 42.
 
-En los procedimientos para la contratación de obras públicas y servicios relacionados con las mismas en las modalidades de invitación a cuando menos tres personas y adjudicación directa, las dependencias y entidades optarán en igualdad de condiciones, por el empleo de los recursos humanos del Estado, por la utilización de materiales de construcción de empresas locales y por la promoción de equipos, innovaciones y desarrollos tecnológicos de procedencia estatal y municipal, siempre y cuando cumplan con las especificaciones técnicas.
+En los procedimientos para la contratación de obras públicas y servicios relacionados con las mismas en la modalidad de adjudicación directa, las instituciones optarán en igualdad de condiciones, por el empleo de los recursos humanos del Estado, por la utilización de materiales de construcción de empresas locales y por la promoción de equipos, innovaciones y desarrollos tecnológicos de procedencia estatal y municipal, siempre y cuando cumplan con las especificaciones técnicas
 
 ### CAPÍTULO II. DE LA LICITACIÓN PÚBLICA
 
@@ -691,9 +847,11 @@ IV. Cuando exista alguna otra causa debidamente justificada.
 
 En cualquiera de las licitaciones públicas nacionales e internacionales se podrá requerir la incorporación de materiales, maquinaria y equipo de instalación permanente nacional, estatal o municipal por el porcentaje del valor de los trabajos que determine la convocante. Asimismo, podrá requerirse la incorporación de un porcentaje mínimo de mano de obra municipal, estatal o nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-La publicación de la convocatoria a la licitación pública se deberá realizar a través de la página oficial de la dependencia convocante y en el sistema Compra Net-Sinaloa y de otros medios utilizados para su publicación, e invariablemente se publicará en el Periódico Oficial "El Estado de Sinaloa", y deberá contener como mínimo lo siguiente:
+La publicación de la convocatoria a la licitación pública se deberá realizar a través de la página oficial de la dependencia convocante y en el sistema Compra Net-Sinaloa e invariablemente se publicará en el Periódico Oficial "El Estado de Sinaloa", y deberá contener como mínimo lo siguiente:
 
 I. Especificación de que se trata de una licitación pública, así como razón social o denominación de la Secretaría o el Municipio convocante;
 
@@ -707,7 +865,9 @@ V. La descripción general de la obra y el lugar en donde se llevarán a cabo lo
 
 VI. Plazo de ejecución de los trabajos determinados en días naturales, indicando la fecha estimada de inicio y terminación de los mismos;
 
-VII. Porcentaje de los anticipos que, en su caso, se otorgarán;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VII. El costo de referencia o presupuesto base de la obra y servicios relacionados con la obra pública, así como el porcentaje de los anticipos que conforme a esta ley procedan, que en su caso se otorgarán.
 
 VIII. La obligación de tener y exhibir el registro de Contratista y la especialidad;
 
@@ -717,7 +877,17 @@ X. La obligación de estar al corriente en el pago de sus impuestos y la forma d
 
 XI. La indicación de que no podrán participar las personas que se encuentran en los supuestos prescritos en esta Ley; y,
 
-XII. La experiencia requerida en el tipo de obra de que se trate para considerar solvente en este aspecto la propuesta del licitante, así como, demás requisitos generales que para tal efecto deberán cumplir los interesados, según las características, complejidad, magnitud y necesidades de los trabajos.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XII. La experiencia requerida en el tipo de obra de que se trate para considerar solvente en este aspecto la propuesta del licitante, así como, demás requisitos generales que para tal efecto deberán cumplir los interesados, según las características, complejidad, magnitud y necesidades de los trabajos, siempre y cuando este requisito no establezca condiciones limitativas de participación de los interesados, ni causales de descalificación de propuestas sin relevancia para el logro de la meta del proyecto.
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico.
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Precisar que será requisito el que los licitantes presenten una declaración de integridad, en la que manifiesten, bajo protesta de decir verdad, que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas, para que los servidores públicos de la dependencia o entidad, induzcan o alteren las evaluaciones de las proposiciones, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes
 
 Asimismo, se indicará que la convocante pondrá a disposición de los licitantes inscritos copia gratuita del texto de las bases para su revisión.
 
@@ -731,9 +901,13 @@ II. La indicación de si la licitación es Nacional o Internacional;
 
 III. Las propuestas se deberán presentar en idioma español;
 
-IV. La descripción general de la obra pública o de los servicios relacionados con las mismas y el lugar en donde se llevarán a cabo los trabajos;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-V. Los porcentajes de los anticipos que en su caso se otorgarán;
+IV. La descripción general de la obra pública o de los servicios relacionados con las mismas y el proyecto ejecutivo completo, el catálogo de conceptos y ubicación de lugar en donde se llevarán a cabo los trabajos;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+V. El costo de referencia o presupuesto base de obra o del servicio relacionado con la misma, así como el porcentaje de los anticipos que conforme a esta ley, en su caso, se otorgarán;
 
 VI. Plazo de ejecución de los trabajos, determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
 
@@ -747,7 +921,9 @@ X. Tratándose de obras públicas y/o servicios relacionados con las mismas, lug
 
 XI. La fecha, hora y lugar de la primera junta de aclaraciones a la convocatoria de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen;
 
-XII. Las fechas, horas y lugares de celebración del acto de presentación y apertura de propuestas, comunicación del fallo y firma del contrato;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Las (sic) fecha, hora y lugar de celebración del acto de presentación y apertura de propuestas técnicas y económicas, comunicación del fallo y firma del contrato;
 
 XIII. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las propuestas y, en su caso, firma del contrato, asimismo, la indicación de que el licitante deberá proporcionar una dirección de correo electrónico, en caso de contar con él;
 
@@ -757,11 +933,17 @@ XIV. La indicación de que no podrán participar las personas físicas o morales
 
 Esta última circunstancia será aplicable durante todo el tiempo que se determine en el acuerdo o resolución de la sanción correspondiente.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 XV. La indicación de que las personas que pretendan participar en el procedimiento de contratación para la ejecución de una obra, manifiesten bajo protesta de decir verdad que los estudios, planes o programas que previamente hayan realizado, incluyen supuestos, especificaciones e información verídicos y se ajustan a los requerimientos reales de la obra a ejecutar, en su caso considerarán costos estimados apegados a las condiciones del mercado;
 
-XVI. La forma en que los licitantes acreditarán su experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. En su caso, la forma en que deberán acreditar que han cumplido con la capacitación de su personal en función de los requerimientos del tipo de obra que se está licitando y cumpliendo con lo previsto por la Ley Federal del Trabajo;
+XVI. Fundamentar y motivar las causas, la decisión de desechar propuesta alguna, del rechazo, lo cual deberá realizarse en junta publica con la participación del comité de obras en pleno, testigos sociales y licitantes, grabando electrónicamente y transmitiendo en vivo, así como subiéndola al sistema compra net.
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. La forma en que los licitantes acreditarán su experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos, siempre y cuando este requisito no establezca condiciones limitativas de participación de los interesados, ni causales de descalificación de propuestas sin relevancia para el logro de la meta del proyecto y las instituciones se abstendrán de solicitar en las bases los documentación (sic) que se duplique, en razón de que ya fueron presentados en el expediente de su registro en el padrón de contratistas de la institución
 
 XVIII. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionistas que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
 
@@ -775,37 +957,53 @@ XXII. Información específica sobre las partes de los trabajos que podrán subc
 
 XXIII. Criterios claros y detallados para la evaluación de las propuestas y la adjudicación de los contratos;
 
-XXIV. Señalamiento de las causas expresas que funden y motiven en todo caso, la decisión de desechar propuesta alguna;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XXV. Porcentaje de las garantías que deban otorgarse;
+XXIV. Señalamiento de las causas expresas que funden y motiven en todo caso, la decisión de desechar propuesta alguna; siempre y cuando las causales no establezca (sic) condiciones limitativas de participación de los interesados, ni causales de descalificación de propuestas sin relevancia para el logro de la meta del proyecto.
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Tipo y forma de las garantías que deban otorgarse por el contratista;
 
 XXVI. Modelo de contrato al que se sujetarán las partes;
 
-XXVII. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo, será sancionado en los términos de lo dispuesto en esta Ley, así mismo, en caso de que la contratante no firme dicho documento por causas imputables a la misma, previa información del interesado, la Contraloría decidirá lo conducente, sin detrimento de lo establecido en las leyes aplicables;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo, será sancionado en los términos de lo dispuesto en esta Ley, así mismo, en caso de que la contratante no firme dicho documento por causas imputables a la misma, previa información del interesado, el órgano interno de control correspondiente a la contratante, decidirá lo conducente, sin detrimento de lo establecido en las leyes aplicables;
 
 XXVIII. El procedimiento de ajuste de costos que deberá aplicarse, según el tipo de contrato;
 
 XXIX. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica, la cual estará a disposición de los interesados en el domicilio que se señale por la convocante, su página de internet oficial y a través de Compra Net- Sinaloa;
 
-XXX. La relación de documentos que los licitantes deberán integrar a sus propuestas, atendiendo al tipo de contrato, así como a las características, magnitud y complejidad de los trabajos;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XXXI. El domicilio de las oficinas de la Contraloría y el medio electrónico en que podrán presentarse inconformidades;
+XXX. La relación de documentos que los licitantes deberán integrar a sus propuestas, atendiendo al tipo de contrato, así como a las características, magnitud y complejidad de los trabajos; siempre y cuando no establezca condiciones limitativas de participación de los interesados, ni causales de descalificación de propuestas sin relevancia para el logro de la meta del proyecto
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. El domicilio de las oficinas del órgano interno de control y el medio electrónico en que podrán presentarse inconformidades, para que este remita la carpeta de investigación al tribunal de justicia administrativa y sea resuelta en definitiva el asunto planteado
 
 XXXII. Precisar que será requisito el que los licitantes presenten una declaración de integridad, en la que manifiesten, bajo protesta de decir verdad, que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas y prácticas contrarias a la ley y a la equidad que rige los procesos de Licitación; y,
 
-XXXIII. Los demás requisitos generales que por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-Cuando sea indispensable incluir los proyectos y documentación necesaria, para presentar las propuestas, deberán considerarse parte integral de las bases de licitación y del mismo modo se considerará la gratuidad de dicha inclusión.
+XXXIII. Los demás requisitos generales que por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación, siempre y cuando no establezca condiciones limitativas de participación de los interesados, ni causales de descalificación de propuestas sin relevancia para el logro de la meta del proyecto
+
+Se deberá proporcionar de manera gratuita, los proyectos ejecutivos completos y documentación necesaria, que serán parte integrante de las bases de licitación a efecto de que los licitantes puedan formular adecuadamente sus propuestas técnicas y económicas, no siendo indispensable, ni motivo de descalificación la inclusión de dichas bases en la integración de las propuestas
 
 Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con las mismas no podrán establecerse en las bases requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir para cualquier licitante.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 45 Bis.
 
-El plazo para la presentación y apertura de proposiciones de las licitaciones no podrá ser inferior a veinte días naturales, contados a partir de la fecha de publicación de la convocatoria en los medios dispuestos por la Ley.
+El plazo para la presentación y apertura de proposiciones de las licitaciones no podrá ser inferior a veinte días hábiles, contados a partir de la fecha de publicación de la convocatoria en los medios dispuestos por la Ley.
 
-Cuando no puedan observarse los plazos indicados en este artículo porque existan razones justificadas debidamente acreditadas en el expediente por el área solicitante de los trabajos, siempre que ello no tenga por objeto limitar el número de participantes, el titular del área responsable de la contratación podrá reducir los plazos a no menos de quince días naturales, contados a partir de la fecha de publicación de la convocatoria.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando no puedan observarse los plazos indicados en este artículo porque existan razones justificadas debidamente acreditadas en el expediente por el área solicitante de los trabajos, siempre que ello no tenga por objeto limitar el número de participantes, el titular del área responsable de la contratación podrá reducir los plazos a no menos de quince días hábiles, contados a partir de la fecha de publicación de la convocatoria.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2017)</small>
 
 La determinación de estos plazos y sus cambios, deberán ser acordes con la planeación y programación previamente establecida.
 
@@ -813,49 +1011,59 @@ La determinación de estos plazos y sus cambios, deberán ser acordes con la pla
 
 La Contratante podrá modificar la convocatoria o las bases de licitación, después de la fecha de publicación y hasta el quinto día hábil previo al acto de presentación y apertura de propuestas, siempre que lo funde y motive de manera clara y suficiente, y que no se traduzca en alguna forma de limitación a los participantes.
 
-Las modificaciones se deberán difundir y se harán del conocimiento de los interesados a través de la página oficial de la dependencia y a través del sistema Compra Net-Sinaloa y de los otros medios utilizados para su publicación, cuando se trate de la convocatoria a la licitación, a más tardar el día hábil siguiente a aquél en que se efectúen.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Las modificaciones se deberán difundir y se harán del conocimiento de los interesados a través de la página oficial de las instituciones a través del sistema Compra Net-Sinaloa, correo electrónico de los licitantes y de los otros medios utilizados para su publicación, cuando se trate de la convocatoria a la licitación, a más tardar el día hábil siguiente a aquél en que se efectúen.
 
 La convocante deberá realizar al menos una junta de aclaraciones, siendo optativa para los licitantes la asistencia a la misma. No será necesario dar el aviso (sic) que se refiere el párrafo anterior, cuando las modificaciones deriven de estas juntas de aclaraciones.
 
 Las modificaciones a la convocatoria y bases de licitación, incluyendo las que resulten de la junta o juntas de aclaraciones, no podrán en ningún caso, consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos, las cuales deberán ser consideradas por los licitantes en la elaboración de su propuesta.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 47.
 
-La visita al lugar donde se realizará la obra deberá llevarse a cabo dentro de los tres días siguientes contados a partir del plazo previsto para la inscripción a la licitación convocada.
+La visita al lugar donde se realizará la obra deberá llevarse a cabo dentro de los tres días hábiles siguientes contados a partir del plazo previsto para la inscripción a la licitación convocada.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 48.
 
 Las juntas de aclaraciones deberán llevarse a cabo dentro de los tres días siguientes a la visita realizada al lugar donde se llevará a cabo la obra, en los términos y condiciones siguientes:
 
-I. El acto será presidido por el servidor público designado por la convocante, quién deberá ser asistido por un representante del área requirente de los trabajos, a fin de que se resuelvan en forma clara y precisa las dudas y planteamientos de los licitantes relacionados con los aspectos contenidos en la convocatoria;
+I. El acto será presidido por el presidente del comité de obra de la convocante, o el suplente que haya designado, quién deberá ser asistido por un representante del área requirente de los trabajos, a fin de que se resuelvan en forma clara y precisa las dudas y planteamientos de los licitantes relacionados con los aspectos contenidos en la convocatoria;
 
-II. Las personas que pretendan solicitar aclaraciones a la convocatoria deberán acreditar, en su caso, su inscripción a la licitación, así como presentar un escrito en el que expresen su interés en participar en la licitación, por sí o en representación de un tercero, manifestando en todos los casos los datos generales del interesado y, en su caso, del representante;
+II. Las personas que pretendan solicitar aclaraciones a la convocatoria deberán acreditar, su inscripción a la licitación, o en su caso presentar un escrito en el que expresen su interés en participar en la licitación, por sí o en representación de un tercero, manifestando en todos los casos los datos generales del interesado y, en su caso, del representante;
 
-III. Las solicitudes de aclaración, podrán entregarse personalmente en el domicilio de la convocante o enviarse, en su caso, a través del sistema electrónico autorizado, según corresponda, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones, siempre que así se haya establecido en las bases;
-
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+III. Las solicitudes de aclaración, podrán entregarse personalmente en el domicilio de la convocante o enviarse, en su caso, a través del sistema compra-net, según corresponda, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones, siempre que así se haya establecido en las bases;
 
 IV. Al concluir cada junta de aclaraciones podrá señalarse la fecha y hora para la celebración de posteriores juntas, considerando que entre la última de éstas y el acto de presentación y apertura de propuestas deberá existir un plazo de al menos siete días naturales. De resultar necesario, la fecha señalada en la convocatoria para realizar el acto de presentación y apertura de propuestas podrá diferirse;
 
-V. De cada junta de aclaraciones se levantará acta en la que se harán constar los cuestionamientos formulados por los interesados y las respuestas de la convocante. Estas actas serán firmadas por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se podrá entregar una copia a dichos asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible, al que tenga acceso el público y se publicará a través del sistema Compra Net-Sinaloa y de los otros medios utilizados para su publicación en el domicilio del área responsable del procedimiento de contratación, por un término no menor de cinco días hábiles; y,
+V. De cada junta de aclaraciones se levantará acta en la que se harán constar los cuestionamientos formulados por los interesados y las respuestas de la convocante. Estas actas serán firmadas por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se entregara una copia a los asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible, al que tenga acceso el público y se publicará a través del sistema Compra Net-Sinaloa y de los otros medios utilizados para su publicación así como en el domicilio de la convocante, por un término no menor de cinco días hábiles; y,
 
-VI. El titular de la citada área dejará constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia, así como el día en que los licitantes que no asistieron a la junta de aclaraciones se presentaron a recoger el acta respectiva, ya que de lo contrario no podrán presentar propuestas. Asimismo, se difundirá un ejemplar de dicha acta para efectos de su notificación a los licitantes que no hayan asistido al acto.
+VI. El funcionario que presida la junta de aclaraciones dejara constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia, así como el día en que los licitantes que no asistieron a la junta de aclaraciones se presentaron a recoger el acta respectiva, ya que de lo contrario no podrán presentar propuestas. Asimismo, se difundirá un ejemplar de dicha acta para efectos de su notificación a los licitantes que no hayan asistido al acto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 49.
 
-La entrega de propuestas se hará en sobre cerrado que contendrá la propuesta técnica y económica por separado. En el caso de que las propuestas puedan ser presentadas a través del uso de tecnologías que resguarden la confidencialidad de la información, de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto establezca la Contraloría.
+Cuando la entrega de propuestas técnica y económica se haga vía electrónica a través de la plataforma de Compra Net Sinaloa, la contratante deberá asegurar que se resguarden la confidencialidad de la información de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezca el órgano interno de control.
 
 La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera del sobre a que hace mención el párrafo anterior.
 
-Dos o más personas podrán presentar conjuntamente una propuesta sin necesidad de constituir una sociedad o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión, y a satisfacción de la convocante, las partes de los trabajos que cada persona se obligará a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto y para todos los efectos de la licitación haya sido designado por el grupo de personas, ya sea autógrafamente o por los medios de identificación electrónica autorizados por la Contraloría.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Dos o más personas podrán presentar conjuntamente una propuesta sin necesidad de constituir una sociedad o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión, y a satisfacción de la convocante, las partes de los trabajos que cada persona se obligará a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto y para todos los efectos de la licitación haya sido designado por el grupo de personas, ya sea autógrafamente o por los medios de identificación electrónica autorizados por el órgano interno de control.
 
 Cuando la propuesta ganadora de la licitación haya sido presentada en forma conjunta, el contrato deberá ser firmado por el representante legal de cada una de las personas participantes en la propuesta, a quienes se considerará, para efectos del procedimiento y del contrato, como responsables solidarios o mancomunados, según se establezca en el propio contrato.
 
 Lo anterior sin perjuicio de que las personas que integran la propuesta conjunta puedan constituirse en una nueva sociedad, para dar cumplimiento a las obligaciones previstas en el convenio de propuesta conjunta, siempre y cuando se mantengan en la nueva sociedad las responsabilidades de dicho convenio, sin que este requisito sea obligatorio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 50.
 
-El procedimiento para la presentación y apertura de las propuestas en el que podrán intervenir los interesados, se realizará en sesión pública, en el que cada concursante entregará un sobre cerrado e inviolable que deberá contener las propuestas técnica y económica, y en el supuesto que se haya determinado en las bases el uso de medios de comunicación electrónica para estos efectos, se recibirán en la forma y términos señalados.
+El procedimiento para la presentación y apertura de las propuestas en el que podrán intervenir los interesados, se realizará en sesión pública grabada y publicitada en vivo electrónicamente, en el que cada concursante entregará un sobre cerrado e inviolable que deberá contener las propuestas técnica y económica o en forma electrónica, en tiempo y forma indicado en las bases, vía Compra Net-Sinaloa, los archivos que deberá contener la propuesta técnica y económica.
 
 Se procederá a la recepción de las propuestas presentadas en los términos de las bases de licitación, en el lugar, fecha y hora establecidos en las mismas. La convocante se abstendrá de recibir propuestas que sean presentadas fuera de la hora límite para ello.
 
@@ -865,181 +1073,341 @@ Primero se procederá a recibir las propuestas presentadas por los licitantes qu
 
 Los licitantes o sus representantes deberán acreditarse como tales a satisfacción de la convocante para tener acceso al lugar del acto y permanecer durante el desarrollo del mismo.
 
-Recibidas las propuestas, se procederá a la apertura de la propuesta técnica y se realizará una revisión cuantitativa de los documentos que lo integran, sin entrar al análisis y valoración del contenido de los mismos, elaborándose una relación del contenido documental de cada una de las propuestas, los cuales serán rubricados por la autoridad convocante y regresados al sobre correspondiente.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-En el mismo acto, de entre los licitantes que hayan asistido, éstos elegirán a uno, que en forma conjunta con el servidor público que la convocante designe, rubricarán sin abrir el sobre que contiene la propuesta económica.
+Recibidas las propuestas, se procederá a la apertura de la propuesta técnica y económica, y se realizará una revisión cuantitativa de los documentos que lo integran en el mismo acto, Los licitantes podrán aplicar su derecho de máxima publicidad para justificar y/o sostener el contenido de sus propuestas al entrar al análisis y valoración del contenido de los mismos, elaborándose una relación del contenido documental de cada una de las propuestas, los cuales serán rubricados por la autoridad convocante y regresados al sobre correspondiente.
 
-Del acto de presentación y apertura de propuestas se elaborará acta, en la que se hará costar como mínimo lo siguiente:
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+En el mismo acto, de entre los licitantes que hayan asistido, éstos elegirán a uno, que en forma conjunta con el servidor público que la convocante designe, rubricarán las propuestas técnicas y económicas de los licitantes
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Del acto de presentación y apertura de propuestas se elaborará acta, en la que se hará costar (sic) como mínimo lo siguiente:
 
 I. Fecha, lugar y hora en que se llevó a cabo;
 
-II. Nombre del o los servidores públicos responsables que participen en el acto;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-III. Nombre de los licitantes y relación de los documentos que configuran cada una de las propuestas técnicas que fueron presentadas para su análisis cuantitativo detallado;
+II. Nombre de los miembros del comité de obra que participen en el acto;
 
-IV. Nombre de los licitantes y relación de los sobres que contienen las propuestas económicas correspondientes que fueron presentadas; y,
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-V. Lugar, fecha y hora de la junta pública donde se dará a conocer el fallo de la licitación, misma que deberá quedar comprendida dentro de los quince días hábiles siguientes del acto de presentación y apertura de propuestas, la cual podrá diferirse siempre que exista causa justificada, hasta por otro periodo igual contado a partir del plazo establecido originalmente para el fallo.
+III. Nombre de los licitantes y relación de los documentos que configuran cada una de las propuestas técnicas y su monto económico correspondiente, que fueron presentadas para su análisis cuantitativo detallado.
 
-De igual forma, dentro del plazo señalado en el párrafo anterior, se establecerá el lugar fecha y hora de la junta pública que celebrará el Comité Técnico Resolutivo de Obra Pública, en donde se analicen las propuestas de los licitantes.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-El acta será firmada por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a la misma, de la cual se podrá entregar una copia a dichos asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible al que tenga acceso el público, en el domicilio del área responsable del procedimiento de contratación, por un término no menor de cinco días hábiles.
+IV. Lugar fecha y hora en que se iniciará y terminará, la evaluación cualitativa de propuestas técnicas, mediante el método de puntos y porcentajes y la evaluación de las propuestas económicas, mediante el método de tasación aritmética, referidos en el artículo 53 de esta ley, siendo la fecha de término la misma en que se emitirá el fallo correspondiente, lo cual no deberá ser mayor a los quince días hábiles después de la fecha de apertura.
 
-El titular de la citada área dejará constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia.
+Todo el proceso de evaluación deberá ser transmitida (sic) electrónicamente en vivo.
 
-Posteriormente, la convocante remitirá el expediente integrado al Comité Técnico Resolutivo de Obra Pública para que se elabore un dictamen que servirá como base para el fallo de adjudicación.
+La fecha de término del proceso de evaluación podrá diferirse hasta por diez días hábiles siempre que exista causa justificada, fundada y motivada en caso fortuito o causa de fuerza mayor.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+V. Nombre de los testigos sociales y, en su caso, observadores que participaron en el acto.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+El acta será firmada por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a la misma, de la cual se podrá entregar una copia a dichos asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible al que tenga acceso el público, en el domicilio de la institución convocante, y simultáneamente se subirá al sistema de Compra NET-Sinaloa.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+El presidente del comité o quien lo supla, dejará constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 51.
 
-El Comité Técnico Resolutivo de Obra Pública Estatal estará integrado por los titulares de la Secretaría de Desarrollo de Obras Públicas, de la Secretaria de Administración y Finanzas, y de la Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado, quienes tendrán derecho a voz y voto; así como por dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes sólo tendrán derecho a voz.
-
-Los integrantes del Comité con derecho a voz y voto podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a director de área.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-Los Comités Técnicos Resolutivos de Obra Pública de los municipios se integrarán por los titulares del área encargada de obras públicas, de la Tesorería y del Órgano Interno de Control del Ayuntamiento respectivo, quienes tendrán derecho a voz y voto; así como por dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes sólo tendrán derecho a voz.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-Los integrantes del Comité con derecho a voz y voto podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a Subdirector de área.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-El Comité Técnico Resolutivo de Obra Pública de los Organismos Paraestatales y Paramunicipales se integrará de la siguiente manera: Un Presidente, que será el Director, o su equivalente, del organismo paraestatal o paramunicipal; Un Secretario Ejecutivo, que será el Secretario de la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado, o el titular del Órgano de Control Interno del Ayuntamiento respectivo, por lo que corresponde a la competencia municipal; y un vocal, que será designado por la Secretaría de Administración y Finanzas del Gobierno del Estado o por la Tesorería Municipal, según corresponda, quienes tendrán derecho a voz y voto; así como dos representantes ciudadanos acreditados en términos del Reglamento de la presente Ley, quienes sólo tendrán derecho a voz.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-Los integrantes del Comité con derecho a voz y voto, podrán designar por escrito a sus respectivos suplentes, los que no deberán tener un nivel jerárquico inferior a Subdirector de área.
-
-Las funciones de dichos Comités serán las siguientes:
-
-I. Analizar el expediente y el acta levantada en el acto de presentación y apertura de propuestas elaboradas por la Convocante, con objeto de evaluar las mismas y formular el dictamen que sirva de base para emitir el fallo correspondiente en las licitaciones de obra pública y servicios relacionados con la misma;
-
-II. A solicitud del ente público contratante, analizar y emitir opinión, sobre la problemática que se presente en la ejecución de los contratos de obra pública y servicios relacionados con la misma;
-
-III. Constituir Subcomités dentro de las dependencias y organismos, cuando por las características de sus funciones así lo requieran o por la magnitud de sus actividades se justifique su instalación.
-
-En el Reglamento de esta Ley se determinará su operación y funcionamiento; y,
-
-IV. Aquellas otras que de manera específica señale esta Ley.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 ###### Artículo 52.
 
-El funcionamiento de los comités mencionados en el artículo anterior, en el ámbito de sus respectivas competencias, se apegará a lo siguiente:
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-I. Será presidida por el titular de la Secretaría o por el representante que éste designe; se elegirá un secretario, de entre sus integrantes, quien deberá elaborar el acta de los asuntos tratados en cada reunión; y,
-
-II. Las reuniones serán públicas y deberán ser convocadas por el Presidente, con una periodicidad no mayor de treinta días naturales, acompañando el orden del día de los asuntos a tratar, pudiendo invitarse a servidores públicos o ciudadanos interesados en dichos asuntos.
-
-Las sesiones de los Comités se celebrarán en los términos siguientes:
-
-I. Las ordinarias tendrán verificativo los días lunes, miércoles y viernes, siempre que sean hábiles, de cada semana, salvo que no existan asuntos a tratar, en cuyo caso el Presidente deberá dar aviso oportunamente a los miembros del Comité;
-
-II. En casos justificados y a través de convocatoria emitida por el Presidente del Comité, se podrán realizar sesiones extraordinarias cuando existan asuntos debidamente justificados o de carácter urgente, cumpliendo en lo procedente con lo señalado en este artículo;
-
-III. Las sesiones se llevarán a cabo cuando asistan como mínimo tres miembros con derecho a voto y las decisiones se tomarán por mayoría de votos, debiendo indicarse en el acta de la reunión quienes emiten su voto y el sentido de éste, excepto en los casos en que la decisión sea unánime;
-
-IV. No podrán llevarse a cabo las sesiones del Comité, en ausencia del presidente del mismo; y,
-
-V. El orden del día, junto con los documentos correspondientes de cada sesión, se entregará a los integrantes del Comité, cuando menos con un día hábil de anticipación a su celebración.
-
-En las sesiones del Comité se analizarán las propuestas en el orden que fueron presentadas, de conformidad con lo siguiente:
-
-I. Se dará lectura al acta levantada en el acto de presentación y apertura de propuestas;
-
-II. Se evaluarán las propuestas que cumplan con los requisitos técnicos solicitados por la convocante y se determinarán cuáles propuestas satisfacen cuantitativa y cualitativamente tales requisitos en términos del artículo 53 de esta Ley, motivando con claridad y precisión las causas por las que se consideren solventes en su aspecto técnico y cuáles serán desechadas por no cumplir con estas condiciones;
-
-III. Se procederá a la apertura de las propuestas económicas que hayan sido declaradas solventes en su aspecto técnico de acuerdo con la fracción anterior y se determinará cuáles resultan solventes en su aspecto económico en los términos del artículo 54 de esta Ley; y,
-
-IV. Una vez evaluada (sic) las propuestas en su aspecto técnico y económico, se determinará la que a criterio del Comité se considera la mejor propuesta en los términos de los artículos 56 y 57 de esta Ley.
-
-De cada reunión se levantará un dictamen que será firmado por todos los que hubieren intervenido en ella y se turnará al titular de la entidad convocante para que lo considere como base al emitir el fallo respectivo.
-
-En el dictamen se hará constar lo siguiente:
-
-I. Reseña cronológica de los actos del procedimiento, indicando datos de identificación de las propuestas presentadas en el acto de presentación y apertura de propuestas y las aceptadas para su análisis detallado cualitativo y evaluatorio;
-
-II. Los criterios utilizados para la evaluación de las propuestas;
-
-III. Nombre o denominación de los licitantes cuyas propuestas fueron desechadas, indicando los fundamentos y motivos invocados para tal efecto;
-
-IV. Nombre o denominación de los licitantes cuyas propuestas se consideraron solventes por haber cumplido todos los requisitos técnicos y económicos exigidos;
-
-V. Nombre de la mejor propuesta, expresando las razones que justificaron esa determinación, indicando el orden en que hayan quedado el resto de las propuestas;
-
-VI. Lugar y fecha de elaboración; y,
-
-VII. Nombre, firma y cargo de los integrantes del comité responsables de su elaboración y aprobación.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 53.
 
-Para la evaluación de las propuestas técnicas, el Comité Técnico Resolutivo de Obra Pública observará los siguientes criterios:
+La evaluación de las propuestas técnicas y económicas presentadas por los licitantes para la contratación de obra y servicios relacionados con las mismas, el Comité de Obra Pública analizará las primeras y una vez realizado ello, lo hará respecto de las segundas, siempre que hayan cumplido satisfactoriamente con el porcentaje requerido para la solvencia de la propuesta técnica, así como con las condiciones y criterios establecidos por la convocante en las bases.
 
-I. Que los profesionales técnicos que se encargarán de la dirección de los trabajos, cuenten con la experiencia y capacidad necesaria para llevar la adecuada administración de los mismos.
+Las evaluaciones de las propuestas, se realizarán con base en las modalidades y criterios siguientes:
+
+I. Método de Puntos y porcentajes para la evaluación de la propuesta técnica.
+
+II. Método de tasación aritmética para la evaluación de la propuesta económica.
+
+III. Que los profesionales técnicos que se encargarán de la dirección de los trabajos, cuenten con la experiencia y capacidad necesaria para llevar la adecuada administración de los mismos
 
 En los aspectos referentes a la experiencia y capacidad técnica que deben cumplir los licitantes se considerarán, entre otros, el grado académico de preparación profesional, la experiencia laboral específica en obras o servicios similares y la capacidad técnica de las personas físicas que estarán relacionados con la ejecución de los trabajos;
 
-II. Que los licitantes cuenten con la maquinaria y equipo de construcción adecuado, suficiente y necesario, sea o no propio, para desarrollar los trabajos que se convocan;
+Cuando (sic) monto del contrato no exceda 500 unidades el valor de la unidad medida de actualización los licitantes que acrediten haberse constituido legalmente en los seis meses previos a la emisión de la Convocatoria, no les será exigible el requisito referente a la experiencia laboral.
 
-III. Que la planeación integral propuesta por el licitante para el desarrollo y organización de los trabajos sea congruente con las características, complejidad y magnitud de los mismos;
+IV. Que los licitantes cuenten con la maquinaria y equipo de construcción adecuado, suficiente y necesario, sea o no propio, para desarrollar los trabajos que se convocan;
 
-IV. Que los procedimientos constructivos descritos por el licitante demuestre que éste conoce los trabajos a realizar y que tiene la capacidad y la experiencia para ejecutarlos satisfactoriamente. Dicho procedimiento debe ser acorde con el programa de ejecución considerado en su propuesta;
+V. Que la planeación integral propuesta por el licitante para el desarrollo y organización de los trabajos sea congruente con las características, complejidad y magnitud de los mismos;
 
-V. El programa de ejecución sea factible de realizar dentro del plazo solicitado;
+VI. Que los procedimientos constructivos descritos por el licitante demuestre (sic) que éste conoce los trabajos a realizar y que tiene la capacidad y la experiencia para ejecutarlos satisfactoriamente. Dicho procedimiento debe ser acorde con el programa de ejecución considerado en su propuesta;
 
-VI. Las características, especificaciones y calidad de los materiales sean los requeridos por la autoridad convocante;
+VII. El programa de ejecución sea factible de realizar dentro del plazo solicitado;
 
-VII. Verificará que la capacidad legal, técnica y económica que acredita el licitante por si o a través de su representante y personal técnico profesional, garantice la correcta y continúa ejecución de los trabajos y el cumplimiento de las obligaciones a cargo del Contratista; y,
+VIII. Las características, especificaciones y calidad de los materiales sean los requeridos por la autoridad convocante;
 
-VIII. Verificará que los programas específicos sean congruentes con el programa de erogaciones de ejecución general de los trabajos.
+IX. Verificará que la capacidad legal, técnica y económica que acredita el licitante por si o a través de su representante y personal técnico profesional, garantice la correcta y continúa ejecución de los trabajos y el cumplimiento de las obligaciones a cargo del Contratista; y,
 
-No serán objeto de evaluación las condiciones establecidas por las convocantes que tengan como propósito facilitar la presentación de las propuestas y agilizar la conducción de los actos de la licitación, así como cualquier otro requisito, cuyo incumplimiento por sí mismo, no afecte la solvencia de la propuesta.
+X. Verificará que los programas específicos sean congruentes con el programa de erogaciones de ejecución general de los trabajos.
 
-La convocante podrá establecer en las bases de licitación criterios adicionales de evaluación, a los aquí dispuestos, de acuerdo a las características, complejidad y magnitud de los trabajos, así como definir los aspectos que tomará en consideración para aplicar los criterios respectivos.
+XI. No serán objeto de evaluación las condiciones establecidas por las convocantes que tengan como propósito facilitar la presentación de las propuestas y agilizar la conducción de los actos de la licitación, así como cualquier otro requisito, cuyo incumplimiento por sí mismo, no afecte la solvencia de la propuesta.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+A). La evaluación de las propuestas técnicas por puntos y porcentajes se ajustará al procedimiento siguiente:
+
+I. La puntuación o unidades porcentuales a obtener en la propuesta técnica para ser considerada solvente y, por tanto, no ser desechada, será de cuando menos 37.5 de los 50 máximos que se pueden obtener en su evaluación.
+
+En la evaluación de la propuesta técnica los rubros a considerar serán:
+
+a) Calidad en la obra. Se refiere a las características relacionadas con las especificaciones técnicas propias de cada obra y de los procedimientos para ejecutar la misma, además de aquellos aspectos que la convocante considere pertinente incluir para garantizar mejores resultados. Dichas características serán las señaladas en la descripción detallada de la obra que se prevean en la convocatoria o invitación, así como en los anexos técnicos que formen parte de las mismas.
+
+La acreditación sobre la certificación relacionada con el objeto de la obra a contratar en materia de calidad, seguridad o medio ambiente, se deberá realizar con los documentos emitidos conforme a la Ley Federal sobre Metrología y Normalización; en el caso de extranjeros, la convocante aceptará normas equivalentes.
+
+La convocante deberá señalar en la convocatoria o invitación, cuáles serán los documentos necesarios para que cada licitante acredite los demás aspectos a que se refiere este rubro;
+
+b) Capacidad del licitante. Consiste en los recursos humanos y económicos con que cuente el licitante, que le permita ejecutar la obra en el tiempo requerido por la convocante, así como otorgar garantías de funcionamiento, servicios de mantenimiento u operación o cualquier otro aspecto indispensable para que el licitante pueda cumplir con las obligaciones previstas en el contrato.
+
+Los recursos económicos del licitante se podrán comprobar con documentos que acrediten la capacidad financiera del licitante, tales como declaraciones fiscales, de los últimos dos ejercicios fiscales, o en caso de empresas de nueva creación, los más actualizados a la fecha de presentación de la proposición.
+
+En este rubro, se deberá considerar a efecto de otorgar una mayor puntuación o unidades porcentuales a personas físicas con actividad empresarial con alguna discapacidad o a empresas que cuenten con trabajadores con discapacidad.
+
+Asimismo, se considerará el otorgamiento de puntuación o unidades porcentuales a los licitantes que se comprometan a subcontratar a MIPYMES para la ejecución de los trabajos;
+
+c) Experiencia y especialidad del licitante. En la experiencia se tomará en cuenta el tiempo en que el licitante ha ejecutado, para cualquier persona o institución, obras de la misma naturaleza de la que es objeto el procedimiento de contratación de que se trate, sin que la convocante pueda solicitar una experiencia superior a diez años.
+
+En la especialidad deberá valorarse si las obras a que se refiere el párrafo anterior que ha venido ejecutando el licitante, corresponden a las características, complejidad y magnitud específicas y a los volúmenes y condiciones similares a las requeridas por la convocante.
+
+La acreditación de este rubro podrá realizarse con los contratos o cualquier otro documento que, a consideración de la convocante, permita que el licitante compruebe que ha ejecutado obras en los términos señalados en los párrafos anteriores de este inciso. Para ello, la convocante deberá requerir a los licitantes al menos un contrato o documentos a presentar, que hayan suscrito o tengan adjudicados con anterioridad a la fecha de la convocatoria o invitación; asimismo, podrá establecer un tiempo máximo de experiencia de diez años.
+
+d) Cumplimiento de contratos. Se ocupa de medir el desempeño o cumplimiento que ha tenido el licitante en la ejecución oportuna y adecuada de las obras de la misma naturaleza objeto del procedimiento de contratación de que se trate, que hubieren sido contratadas por alguna institución, o cualquier otra persona en el plazo que determine la convocante, el cual no podrá ser superior a diez años.
+
+Para acreditar este rubro, la convocante requerirá a los licitantes los contratos relativos a las obras de la misma naturaleza ejecutadas con anterioridad, así como respecto de cada uno de ellos, la manifestación expresa de la contratante sobre el cumplimiento total de las obligaciones contractuales, el acta de extinción de derechos y obligaciones o cualquier otro documento con el que se corrobore dicho cumplimiento.
+
+En el caso de que la convocante establezca un tiempo mínimo de experiencia de los licitantes, deberá solicitar la acreditación del cumplimiento con los contratos suscritos sobre obras de la misma naturaleza objeto del procedimiento de contratación. La convocante establecerá en la convocatoria o invitación el número de contratos que los licitantes deban presentar para el periodo que se haya determinado, el cual será de por lo menos un contrato de experiencia que se hubiere establecido o bien un contrato plurianual que cubra el período solicitado.
+
+Los contratos cumplidos podrán ser los correspondientes a los presentados por el licitante para acreditar el rubro señalado en el inciso c) de esta fracción;
+
+e) Contenido nacional. Este rubro podrá incluirse cuando la convocante lo requiera, siempre que las características, complejidad y magnitud de la obra de que se trate lo permitan. Consiste en valorar el grado de contenido nacional de la obra en cuanto a la incorporación de materiales, componentes prefabricados, maquinaria y equipo de instalación permanente nacionales, así como el porcentaje de mano de obra nacional que se incluya para la ejecución de los trabajos, considerando dentro de ésta a los especialistas, técnicos y administrativos.
+
+A efecto de acreditar este rubro, la convocante solicitará la presentación de un documento en el que el licitante presente un análisis que contenga los materiales, maquinaria y equipo nacional a utilizar y el porcentaje que representa con respecto del valor de los trabajos a ejecutar, así como el porcentaje de mano de obra nacional que utilizará para ejecutar los mismos.
+
+El presente rubro podrá considerarse en procedimientos de contratación de carácter nacional e internacional. En procedimientos de contratación de carácter internacional bajo la cobertura de los tratados, el criterio relativo al contenido nacional aplicará en los términos establecidos en éstos, y
+
+f) Capacitación o transferencia de conocimientos. En el caso de que la naturaleza y características de las obras lo requieran, la convocante deberá incluir este rubro para evaluar el programa de capacitación que proporcione el licitante, la metodología y la visión de la capacitación a impartir y el nivel profesional, conocimientos y habilidades de los capacitadores propuestos.
+
+La acreditación de este rubro, se llevará a cabo con la presentación por parte del licitante del programa de capacitación, la metodología para impartir la misma y los documentos que estime pertinentes la convocante para comprobar la capacidad del personal capacitador.
+
+La convocante deberá consultar en Compra-Net el registro único de contratistas, para verificar la información presentada por los licitantes para cumplir los rubros señalados en los incisos c) y d) de esta fracción. En caso de existir discrepancias en la información, la convocante no tomará en cuenta para el otorgamiento de puntuación o unidades porcentuales, los documentos presentados por el licitante que contengan dichas discrepancias.
+
+A cada uno de los seis rubros señalados en los incisos anteriores, la convocante deberá asignarle puntuación o unidades porcentuales, la cual a su vez se repartirá entre los distintos sub-rubros que integren cada uno de los rubros.
+
+En cualquiera de los sub-rubros, la convocante podrá otorgar puntuación o unidades porcentuales adicionales a los licitantes que ofrezcan características o condiciones superiores de las obras o de aquellos aspectos solicitados al licitante considerados como mínimos indispensables, siempre y cuando ello repercuta directamente en la obtención de mejores condiciones para el Estado. En este caso, las características o condiciones superiores deberán preverse en la convocatoria o invitación, así como la puntuación o unidades porcentuales asignadas a las mismas.
+
+La suma de la puntuación o unidades porcentuales de todos los rubros con sus respectivos sub-rubros deberá ser igual a 50. Para la asignación de puntuación o unidades porcentuales en cada rubro, la convocante deberá considerar lo siguiente:
+
+1. Calidad en la obra. Este rubro tendrá un rango de puntuación o unidades porcentuales de 15 a 20.
+
+La convocante para distribuir la puntuación o unidades porcentuales asignadas, deberá considerar, por lo menos, los siguientes sub-rubros:
+
+a) Materiales y maquinaria y equipo de instalación permanente;
+
+b) Mano de obra;
+
+c) Maquinaria y equipo de construcción;
+
+d) Esquema estructural de la organización de los profesionales técnicos que se encargarán de la dirección y coordinación de los trabajos;
+
+e) Procedimientos constructivos. Se refiere a valorar las formas y técnicas que el licitante utilizará para la ejecución de los trabajos, y
+
+f) Programas. En este sub-rubro la convocante valorará la congruencia entre los distintos programas generales y específicos de la obra, tales como los programas de ejecución general, de utilización de mano de obra, de suministros de materiales, maquinaria y equipo de instalación permanente, de utilización del equipo y maquinaria de construcción, de mantenimiento y operación, así como la red de actividades, cédula de avances y pagos programados.
+
+Adicionalmente a los anteriores sub-rubros, la convocante podrá considerar los siguientes:
+
+1) Sistema de aseguramiento de calidad. Se deberá considerar este sub-rubro, cuando la convocante requiera al licitante llevar el control de la calidad de las obras de que se trate, para lo cual la convocante valorará el sistema que al respecto presente el licitante, y
+
+2) Descripción de la planeación integral para la ejecución de los trabajos. Este Sub-rubro se incluirá cuando la convocante, atendiendo a las características, complejidad y magnitud de las obras, lo requiera.
+
+La convocante asignará a cada sub-rubro la puntuación o unidades porcentuales, conforme a la importancia que tengan para la ejecución de las obras de que se trate;
+
+2. Capacidad del licitante. Este rubro tendrá un rango de 10 a 20 puntos o unidades porcentuales.
+
+La convocante para distribuir la puntuación o unidades porcentuales asignadas, deberá considerar conforme a las características, complejidad y magnitud de las obras, los siguientes sub-rubros:
+
+a) Capacidad de los recursos humanos. La convocante tomará en cuenta los niveles de preparación y la cantidad de personal que se requiera para dirigir y coordinar la ejecución de la obra. La suma de la puntuación o unidades porcentuales asignada a este sub-rubro, deberá representar cuando menos el 40% de la ponderación total determinada por la convocante para el rubro.
+
+La convocante podrá requerir la existencia de un responsable de grupo de trabajo o jefe de equipo o proyecto, que invariablemente deberá acreditar la capacitación respectiva al manejo del sistema la bitácora electrónica y supervisión de obra pública y su firma e-fiel emitida por el SAT.
+
+A efecto de evaluar la preparación de cada una de las citadas personas, la convocante podrá asignar puntuación o unidades porcentuales conforme a los siguientes aspectos:
+
+Primero. Experiencia en obras de la misma naturaleza de las que son objeto del procedimiento de contratación de que se trate. Este aspecto tendrá un valor de ponderación del 20% al 30% de la puntuación o unidades porcentuales asignadas a este sub-rubro;
+
+Segundo. Competencia o habilidad en el trabajo de acuerdo a sus conocimientos académicos o profesionales. Este aspecto tendrá un valor de ponderación del 50% al 60% de la puntuación o unidades porcentuales asignadas a este sub-rubro, y
+
+Tercero. Dominio de herramientas relacionadas con la obra a ejecutar, como puede ser el idioma, programas informáticos o participación en la resolución o tratamiento de problemáticas similares a la que sea materia de la obra de que se trate. Este aspecto tendrá un valor de ponderación del 10% al 20% de la puntuación o unidades porcentuales asignadas a este sub-rubro.
+
+La suma de los valores de ponderación determinados para cada uno de los tres aspectos señalados, deberá ser igual al total de la puntuación o unidades porcentuales asignadas para el presente sub-rubro.
+
+En el caso de que la convocante requiera que el licitante cuente con el personal profesional a que se refiere este sub-rubro previamente a la adjudicación del contrato, sólo se dará puntuación o unidades porcentuales al licitante que acredite contar en su plantilla con dicho personal;
+
+b) Capacidad de los recursos económicos que la convocante considere necesaria para que el licitante cumpla con el contrato, conforme a los requerimientos establecidos en la convocatoria o invitación. La puntuación o unidades porcentuales asignadas deberán representar, cuando menos, el 40% de la ponderación total determinada por la convocante para el rubro;
+
+c) Participación de discapacitados o empresas que cuenten con trabajadores con discapacidad. La convocante deberá asignar en todos los casos puntuación o unidades porcentuales a este sub-rubro. Cuando se trate de empresas, se deberá asignar de manera proporcional la puntuación o unidades porcentuales establecidas por la convocante para este sub-rubro, conforme al número de trabajadores con discapacidad que acrediten tener, y
+
+d) Subcontratación de MIPYMES. La convocante deberá asignar en todos los casos puntuación o unidades porcentuales a este sub-rubro y otorgará la mayor cantidad de éstas, al licitante que se comprometa a subcontratar el mayor número de MIPYMES en los trabajos que se determinen en la convocatoria.
+
+En caso de que dos o más licitantes se comprometan a subcontratar el mismo número de MIPYMES, la convocante deberá dar la misma puntuación o unidades porcentuales a los licitantes que se encuentren en este supuesto;
+
+3. Experiencia y especialidad del licitante. Este rubro tendrá un rango de 10 a 15 puntos o unidades porcentuales.
+
+La convocante deberá distribuir la puntuación o unidades porcentuales asignadas, únicamente entre los siguientes sub-rubros:
+
+a) Experiencia. Mayor tiempo ejecutando obras similares a las requeridas en el procedimiento de contratación de que se trate, y
+
+b) Especialidad. Mayor número de contratos o documentos con los cuales el licitante puede acreditar que ha ejecutado obras con las características, complejidad y magnitud específicas y en condiciones similares a las establecidas en la convocatoria de que se trate.
+
+La convocante deberá asignar el máximo de puntuación o unidades porcentuales que haya determinado, al licitante que acredite mayor número de años de experiencia y presente el mayor número de contratos o documentos que cubran los supuestos antes señalados. A partir de este máximo asignado, la convocante deberá efectuar un reparto proporcional de puntuación o unidades porcentuales entre el resto de los licitantes, en razón de los años de experiencia y del número de contratos o documentos presentados respecto de la especialidad.
+
+En caso de que dos o más licitantes acrediten el mismo número de años de experiencia y presenten el mismo número de contratos o documentos para la especialidad, la convocante deberá dar la misma puntuación o unidades porcentuales a los licitantes que se encuentren en este supuesto;
+
+4. Cumplimiento de contratos. El rango de puntuación o unidades porcentuales que corresponde a este rubro será de 3 a 6.
+
+De acuerdo a las características, complejidad y magnitud de las obras materia del procedimiento de contratación, la convocante podrá establecer sub-rubros a efecto de distribuir la puntuación o unidades porcentuales asignadas a este rubro.
+
+Se deberá asignar mayor puntuación o unidades porcentuales al licitante que demuestre documentalmente tener más contratos cumplidos satisfactoriamente en términos de esta Ley, a partir del mínimo establecido por la convocante, y al resto de los licitantes se les asignará puntuación o unidades porcentuales de manera proporcional al número de contratos que acreditó haber cumplido. En caso de no presentar el mínimo de contratos requerido, no se asignarán puntuación o unidades porcentuales.
+
+En caso de que dos o más licitantes presenten el mismo número de contratos o documentos para acreditar el cumplimiento de contratos, la convocante deberá dar la misma puntuación o unidades porcentuales a los licitantes que se encuentren en este supuesto;
+
+5. Contenido nacional. Este rubro tendrá un rango de puntuación o unidades porcentuales de 3 a 5.
+
+La convocante deberá distribuir la puntuación o unidades porcentuales asignadas, únicamente entre los siguientes sub-rubros:
+
+a) Materiales y maquinaria y equipo de instalación permanente. Este sub-rubro tendrá un valor de ponderación del 50% de la puntuación o unidades porcentuales asignadas al rubro, y
+
+b) Mano de obra. Este sub-rubro tendrá un valor de ponderación del 50% de la puntuación o unidades porcentuales asignadas al rubro, y
+
+6. Capacitación o transferencia de conocimientos. Este rubro tendrá un rango de puntuación o unidades porcentuales de 3 a 6, los cuales se obtendrán de la puntuación o unidades porcentuales asignadas al rubro señalado en el numeral II de esta fracción. En caso de que la convocante considere innecesario incluir este rubro para su evaluación, la puntuación o unidades porcentuales del rubro antes señalado no se deberán afectar.
+
+La asignación de puntuación o unidades porcentuales en este rubro, en general deberá ser de 4 como máximo. Cuando la transferencia de conocimientos tenga particular importancia en las obras objeto del procedimiento de contratación de que se trate, se podrá asignar un mayor número de puntuación o unidades porcentuales, las cuales no podrán ser superiores a 6; en este caso, la convocante deberá documentar las razones que justifiquen dicha situación, dejando constancia de ello en el expediente de contratación respectivo.
+
+Para distribuir el total de puntuación o unidades porcentuales que correspondan a este rubro, la convocante deberá considerar, entre otros, los siguientes sub-rubros:
+
+a) La metodología y la visión a utilizar para impartir la capacitación;
+
+b) El programa de capacitación, y
+
+c) El nivel profesional, conocimientos y habilidades de los capacitadores propuestos.
+
+La convocante decidirá la forma en la cual se distribuirá la puntuación o unidades porcentuales asignadas al rubro, entre cada uno de los sub-rubros que lo integran;
+
+La propuesta económica de cada licitante, deberá tener un valor numérico máximo de 50 si resulta solvente mediante el método de evaluación con el procedimiento de tasación aritmética.
+
+B).- El método de tasación aritmética para la evaluación de la propuesta económica se ajustara al siguiente procedimiento:
+
+I. El resultado de la evaluación mediante el método de tasación aritmética de la propuesta económica en conjunto con la evaluación de la propuesta técnica, determinará quién es el licitante ganador del contrato de obra pública o servicio relacionado con la misma, de que se trate.
+
+II. La tasación aritmética se compone de las siguientes etapas:
+
+a) Determinación de precios de mercado;
+
+b) Determinación de insuficiencias;
+
+c) Eliminación de propuestas insolventes; y
+
+d) Determinación de propuesta solvente más baja, lo que no significa necesariamente la de menor precio.
+
+III. Para la aplicación de la evaluación por tasación aritmética, los licitantes deberán integrar su propuesta económica con los siguientes rubros, que serán comparados en una tabla que contenga:
+
+a) Importe por materiales;
+
+b) importe por mano de obra, más el importe del 3% de herramienta y equipo de seguridad.
+
+c) Importe por maquinaria y equipo;
+
+d) Importe por costos indirectos; (financiamiento, utilidad, cargos adicionales, etc.) Y
+
+e) Presupuesto total.
+
+IV. El presupuesto total de cada licitante es la suma de los importes señalados en los incisos de la fracción anterior
+
+V. La etapa de eliminación de licitantes por rango de aceptación se desahoga mediante el siguiente procedimiento:
+
+a) En las bases de la licitación se determina un porcentaje como rango de aceptación, que no podrá ser menor del 10% ni mayor del 15%; referente al presupuesto base
+
+b) Abiertas las propuestas económicas, se calcula el importe promedio de las mismas.
+
+VI. Para desahogar la etapa denominada determinación de precios de mercado se realizará lo siguiente:
+
+a) Los datos de todos y cada uno de los licitantes se vacían en una tabla donde gráficamente aparecerán la clave asignada de licitante, los importes que propone para cada uno de los rubros a los que se refiere la fracción XIII;
+
+b) Se procede a calcular el costo de mercado, que se obtiene del promedio de las proposiciones registradas por los licitantes para Importe de Materiales.
+
+c) Una vez determinado el costo de mercado, éste se confronta con el valor propuesto por cada uno de los licitantes en el rubro Importe de Materiales, a efecto de asignarles, en su caso, un valor de insuficiencia parcial;
+
+d) El valor de insuficiencia parcial se obtiene mediante la sustracción donde el minuendo es el importe propuesto por cada uno de los licitantes y el sustraendo es el costo de mercado; si el resultado es un número negativo, dicha cifra es el valor de insuficiencia parcial que le corresponde al rubro de Importe de Materiales y se registra en la tabla en números absolutos;
+
+VII. El importe del licitante que habiendo sido sometido a la sustracción con base a los elementos señalados en el inciso anterior, de por resultado número positivo, no acumula valor de insuficiencia parcial, por lo que no se anota numeral alguno en la tabla;
+
+Obtenido el valor de insuficiencia parcial de los licitantes respecto al rubro referido en la fracción VI, inciso d), se procede de la misma manera con los demás señalados en las fracciones II, III y IV.
+
+VIII. Una vez determinados los valores de insuficiencia parcial, con la suma de las mismas se obtendrá, en números absolutos, el valor de insuficiencia total de cada uno de los licitantes;
+
+IX. Hecho lo anterior se determina la solvencia de cada una de las proposiciones mediante la sustracción donde el minuendo es el importe propuesto como Utilidad señalado en la fracción VI, inciso d, y el sustraendo es el valor de insuficiencia total que hubiere acumulado el mismo licitante; si el resultado es un número positivo la propuesta económica se declara solvente y si resulta un número negativo se declara insolvente; y,
+
+X. Una vez calificada la solvencia de las propuestas económicas se retirarán del procedimiento las que hubieren resultado insolventes;
+
+XI. Realizada la selección de las propuestas económicas solventes, será ganadora la que ofrezca el presupuesto total menor;
+
+XII. La proposición solvente a la que se le adjudicará el contrato será aquella que haya cumplido los requisitos legales, calificó positivamente la evaluación binaria de la propuesta técnica y presentó el presupuesto más bajo conforme a la tasación aritmética de la propuesta económica;
+
+XIII. La tabla señalada en la fracción XVI, inciso a) deberá contener, los espacios y claves para graficar lo siguiente:
+
+a) Los rubros y el presupuesto total;
+
+b) El costo de mercado de cada rubro;
+
+c) El valor de insuficiencia parcial de cada rubro;
+
+d) El valor de insuficiencia total de cada uno de los licitantes;
+
+e) La diferencia en números negativos que determina la solvencia o insolvencia de las proposiciones; y
+
+f) El presupuesto solvente con presupuesto total menor.
+
+XIV. La tabla que contenga el desarrollo de la tasación aritmética deberá ser firmada por el servidor público designado por la convocante y los testigos sociales.
+
+XV. La tabla que contenga el desarrollo de la tasación aritmética es información pública fundamental.
+
+XVI. El desarrollo de la tasación aritmética será expuesto al Comité, en formato físico o proyección electrónica, conforme a la tabla siguiente:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 7 DE SEPTIEMBRE DE 2020, PÁGINAS DE LA 76 A LA 77.]</small>
 
 ###### Artículo 54.
 
-Para la evaluación de las propuestas económicas, el Comité Técnico Resolutivo de Obra Pública primero verificará que las propuestas económicas presentadas por los licitantes cumplan satisfactoriamente con las condiciones y criterios establecidos por la convocante.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-Aquellas propuestas económicas que cumplan con lo establecido en el párrafo anterior, serán declaradas solventes siempre que estén comprendidas dentro del rango del presupuesto base de obra y el ochenta por ciento de dicho presupuesto.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2017)</small>
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 ###### Artículo 55.
 
-Atendiendo a las características de las obras públicas o servicios relacionados con las mismas, la convocante podrá determinar la conveniencia de utilizar el mecanismo binario o bien el de puntos y porcentajes para evaluar las propuestas.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 ###### Artículo 56.
 
-El mecanismo binario consiste en determinar la solvencia de las propuestas a partir de evaluar el cumplimiento de las condiciones legales, técnicas y económicas requeridas por la convocante.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
-
-Una vez hecha la evaluación técnica y económica se adjudicará el contrato respectivo a la propuesta que sea declarada solvente porque satisface la totalidad de los requerimientos solicitados por la convocante y presenta la propuesta económica más baja con respecto al promedio determinado por las propuestas económicas declaradas solventes y el presupuesto base, siempre que no sea inferior al noventa por ciento de dicho promedio.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 ###### Artículo 57.
 
-El mecanismo de puntos y porcentajes consiste en determinar la solvencia de las propuestas, a partir del número de puntos o unidades porcentuales que obtengan las propuestas conforme a la puntuación o ponderación establecida en la convocatoria a la licitación pública.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-Cuando se opte por el mecanismo de puntos y porcentajes deberá establecerse en la convocatoria los rubros y sub-rubros de las propuestas técnica y económica que integran la propuesta; la calificación numérica o de ponderación que puede alcanzarse u obtenerse con cada uno de ellos; el mínimo de puntaje o porcentaje que los licitantes deberán obtener en la evaluación de la propuesta técnica para continuar con la evaluación de la propuesta económica, y la forma en que deberán acreditar el cumplimiento de los aspectos requeridos por la convocante en cada rubro o sub-rubro para la obtención de puntos o unidades porcentuales.
-
-Los rubros y sub-rubros referidos en el párrafo anterior, así como su ponderación, deberán ser fijados por la convocante de conformidad con los lineamientos que para el efecto emita la Unidad de Transparencia y Rendición de Cuentas del Gobierno del Estado de Sinaloa.
-
-También se deberá establecer una ponderación para los licitantes con discapacidad o la empresa que cuente con trabajadores con discapacidad, de acuerdo con la normatividad aplicable en el Estado de Sinaloa, cuando menos en un cinco por ciento de la totalidad de su planta de empleados, misma que se comprobará con el dictamen de autoridad competente y el alta en el régimen obligatorio del Instituto Mexicano del Seguro Social y se haya dado con seis meses de antelación al acto de presentación y apertura de propuestas, aviso de alta correspondiente.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 58.
 
-En caso de empate de dos o más licitantes respecto al precio ofertado, la adjudicación del contrato se efectuará a favor del licitante que resulte ganador del sorteo que realice la convocante en el propio acto de fallo.
-
-Cuando el área convocante tenga necesidad de solicitar al licitante las aclaraciones pertinentes o aportar información adicional para realizar la correcta evaluación de las propuestas, dicha comunicación se realizará según lo indicado por el Reglamento de esta Ley, siempre y cuando no implique alteración alguna a la parte técnica o económica de su propuesta.
-
-La autoridad al emitir los fallos de adjudicación cuidará que en todo procedimiento se observen las disposiciones de esta Ley y que se obtengan las mejores condiciones técnicas y económicas que garanticen la plena realización de la obra pública en beneficio del Estado y los Municipios, según corresponda, procurando que exista transparencia, imparcialidad y honestidad en todos los procedimientos de adjudicación, debiendo informar en los siguientes quince días hábiles los fallos que emita, al órgano de control respectivo.
+El comité de obra pública, al emitir los fallos de adjudicación en toda licitación se (sic) observará las disposiciones de esta Ley y garantizará que se obtengan las mejores condiciones técnicas y económicas para la plena realización de la obra pública en beneficio de las instituciones, según corresponda, procurando que exista transparencia, imparcialidad y honestidad en todos los procedimientos de adjudicación, debiendo informar en los siguientes tres días hábiles los fallos que emita, al órgano de control interno respectivo.
 
 El fallo se dará a conocer en junta pública, y a través del sistema Compra Net-Sinaloa y de los otros medios utilizados para su publicación, y a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de propuestas, en la cual se dará la lectura del fallo de la licitación, señalando a los licitantes cuyas propuestas fueron desechadas conforme al análisis detallado cualitativo y evaluativo, así como las causas fundadas y motivadas para ello, señalando las propuestas que fueron declaradas solventes, el lugar que ocupan y la propuesta ganadora.
 
@@ -1065,15 +1433,21 @@ VI. Fecha de inicio de los trabajos y el plazo de ejecución de los mismos;
 
 VII. Forma en que se deberá notificar a los licitantes el fallo respectivo; y,
 
-VIII. Nombre y firma del servidor público competente.
+> <small>(REFORMADA P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Nombre y firma de los miembros del comité de obra pública.
 
 Las propuestas desechadas serán devueltas a los licitantes, previa solicitud por escrito, una vez transcurridos quince días hábiles contados a partir de la fecha en que se dé a conocer el fallo.
 
 No procederá la devolución de la documentación cuando se tenga conocimiento de la interposición de un recurso de inconformidad u otro medio de impugnación ante un órgano administrativo o jurisdiccional.
 
-Después de notificado el fallo, la convocante resguardará la documentación presentada por los licitantes por un plazo mínimo de cuarenta y cinco días hábiles, transcurrido este plazo y con excepción de la documentación presentada por el licitante ganador y los que en su caso hubieren quedado en segundo y tercer lugar, la convocante procederá a su destrucción.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-Cuando se advierta en el fallo la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, que no afecte el resultado de la evaluación realizada por la convocante, dentro de los cinco días hábiles siguientes a su notificación y siempre que no se haya firmado el contrato, el titular del área responsable del procedimiento de contratación procederá a su corrección, con la intervención de su superior jerárquico, aclarando o rectificando el mismo, mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a los licitantes que hubieran participado en el procedimiento de contratación, remitiendo copia de la misma dentro de los cinco días hábiles posteriores a la fecha de su firma, a la Contraloría y a los testigos sociales que participaron en este procedimiento.
+Después de notificado el fallo, la convocante resguardará la documentación presentada por los licitantes por un plazo mínimo de cuarenta y cinco días hábiles; transcurrido este plazo procederá a resguardar digitalmente la documentación presentada por el licitante ganador y los que en su caso hubieren quedado en segundo y tercer lugar. La demás, será destruida.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando se advierta en el fallo la existencia de un error de cualquier naturaleza, dentro de los dos días hábiles siguientes a su notificación el comité de obra, procederá a la reposición del procedimiento de emisión del fallo en junta publica con los licitantes presentes, dándole vista al órgano interno de control y a los testigos sociales que participaron en este procedimiento.
 
 ###### Artículo 60.
 
@@ -1085,83 +1459,41 @@ Salvo en las cancelaciones por caso fortuito o fuerza mayor, la convocante cubri
 
 ### CAPÍTULO III. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 61.
 
-La Contratante podrá contratar obras públicas o servicios relacionados con las mismas, a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa, sin sujetarse a los montos previstos en el siguiente artículo, cuando:
+Las instituciones podrán contratar obras públicas o servicios relacionados con las mismas, a través de adjudicación directa, sin sujetarse a los montos previstos en el siguiente artículo, cuando, previo dictamen en el que se funde y motive la causa, conforme a los criterios siguientes:
 
-I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, el licenciamiento exclusivo de patentes, derechos de autor u otros derechos exclusivos;
+I. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad, accidentes causados por el hombre o el ambiente de alguna zona o región por fenómenos o catástrofes naturales, del Estado o sus Municipios, como consecuencia de caso fortuito o de fuerza mayor;
 
-II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado o sus Municipios, como consecuencia de caso fortuito o de fuerza mayor;
+II. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, que lo justifiquen;
 
-III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, que lo justifiquen;
+III. Su contratación mediante licitación pública ponga en riesgo la seguridad pública;
 
-IV. Su contratación mediante licitación pública ponga en riesgo la seguridad pública;
+IV. Se hubiere rescindido el contrato respectivo por causas imputables al Contratista que hubiere resultado ganador en una licitación. En estos casos la Contratante podrá adjudicar el contrato por la obra faltante, al licitante que haya calificado en segundo lugar y subsecuentemente, actualizando los costos de acuerdo al comportamiento económico del país y cuando así se justifique podrá modificarse el valor del contrato, y
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+V. Se acepte la ejecución de los trabajos a título de dación en pago.
 
-V. En los casos de atención de emergencias generadas por fenómenos y catástrofes naturales, accidentes causados por el hombre, agotamiento de la vida útil de equipos o instalaciones y en cualquier otro derivado de caso fortuito o fuerza mayor, en los que no sea posible ejecutar los trabajos mediante el procedimiento de licitación pública en el tiempo requerido para atender la emergencia de que se trate. En estos casos deberán limitarse a lo estrictamente necesario para afrontar la emergencia o eventualidad.
-
-Se entenderá que se trata de casos de emergencia la atención de fugas mayores de agua, hundimientos de vías públicas de alta circulación, reposición de luminarias en vialidades principales y zonas de alta incidencia delictiva, y situaciones en las que de cualquier forma se perjudiquen el libre tránsito de vehículos y peatones o la prestación oportuna de servicios públicos fundamentales;
-
-VI. Se hubiere rescindido el contrato respectivo por causas imputables al Contratista que hubiere resultado ganador en una licitación. En estos casos la Contratante podrá adjudicar el contrato al licitante que haya presentado la siguiente propuesta solvente más baja, y cuando así se justifique podrá modificarse el valor del contrato, pero en ningún caso podrá exceder al diez por ciento. De presentarse el incumplimiento por segunda ocasión, se podrá asignar el contrato respectivo al tercer licitante que haya presentado la siguiente propuesta solvente más baja, sin exceder al diez por ciento. Tratándose de procedimientos de contratación en los que se hayan considerado puntos y porcentajes como método para la evaluación de las propuestas, se podrá adjudicar a la propuesta que siga en calificación a la del ganador;
-
-VII. Se haya declarado desierta hasta por dos veces una licitación pública, siempre que se mantengan los requisitos establecidos en la convocatoria a la licitación;
-
-VIII. Se trate de trabajos de mantenimiento, restauración, reparación y demolición de inmuebles, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
-
-IX. Se trate de trabajos que requieran fundamentalmente de mano de obra campesina o urbana marginada, y que la Contratante contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deban realizarse los trabajos, ya sea como personas físicas o morales;
-
-X. Se trate de servicios relacionados con las obras públicas prestados por una persona física, siempre que estos sean realizados por ella misma, sin requerir de la utilización de más de un especialista o técnico;
-
-XI. Se trate de servicios profesionales especializados relacionados con cualquiera de las fases de las obras públicas: trabajos de investigación, consultoría y asesoría, estudios y proyectos, o de dirección o supervisión;
-
-XII. Se acepte la ejecución de los trabajos a título de dación en pago;
-
-XIII. Cuando se acredite la celebración de una alianza estratégica que lleven a cabo la Contratante con personas físicas o morales dedicadas a la ingeniería, la investigación y a la transferencia y desarrollo de tecnología, a fin de aplicar las innovaciones tecnológicas en la infraestructura estatal o municipal; y,
-
-XIV. Se trate de servicios que tengan por objeto elaborar o concluir los estudios, planes o programas necesarios que permitan la realización de la licitación pública para la ejecución de las obras públicas asociadas a proyectos de infraestructura, siempre y cuando el precio de los mismos no sea mayor al cuatro por ciento del monto total del proyecto cuya ejecución se pretenda licitar, debiéndose adjudicar directamente el contrato respectivo.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 62.
 
-La Contratante podrá llevar a cabo obras públicas o servicios relacionados con las mismas, a través del procedimiento de invitación a cuando menos tres personas o por adjudicación directa, cuando el importe de cada contratación no exceda de los montos que se señalan a continuación:
+La Contratante podrá llevar a cabo obras públicas o servicios relacionados con las mismas, a través del procedimiento de adjudicación directa, cuando el importe de la contratación tenga un costo de hasta quince mil veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+Para los efectos de la aplicación de esta modalidad, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro del monto máximo señalado. Los presupuestos de los contratos no podrán ser fraccionados para quedar comprendidos en los supuestos de excepción a la licitación pública.
 
-I. Tratándose del procedimiento de adjudicación directa hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado; y,
+La adjudicación directa deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y los Municipios.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+Para acreditar los criterios en los que se funde, así como la justificación de las razones en las que se sustente la adjudicación directa, deberán constar por escrito y ser firmado por el comité de obra de la institución responsable de la contratación de los trabajos.
 
-II. Tratándose de invitación a tres personas, si el importe supera el monto máximo a que se refiere la fracción anterior, pero no excede de treinta mil veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado.
-
-Para los efectos de la aplicación de este artículo, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos señalados. Los contratos no podrán ser fraccionados para quedar comprendidos en estos supuestos de excepción a la licitación pública.
-
-La opción que ejerza deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y los Municipios.
-
-Para acreditar los criterios en los que se funde, así como la justificación de las razones en las que se sustente el ejercicio de la opción, deberán constar por escrito y ser firmado por el titular del área responsable de la contratación de los trabajos.
-
-En cualquier supuesto se invitará a personas que cuenten con capacidad de respuesta inmediata, y que cuente con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar.
+En cualquier supuesto se asignará a personas que cuenten con capacidad de respuesta inmediata, y con los recursos técnicos, financieros y demás que (sic) elementos necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar.
 
 Cuando se realice este tipo de contratación, en caso de existir igualdad de condiciones, se dará preferencia a las personas que integren el sector de micro, pequeñas y medianas empresas estatales.
 
 ###### Artículo 63.
 
-El procedimiento para la adjudicación de contrato por invitación a cuando menos tres personas, se sujetará a lo siguiente:
-
-I. Se invitará mediante escrito con la información mínima necesaria para que el invitado decida si acepta o no su participación; a quienes, se considere cuentan con las características y condiciones para ejecutar las obras públicas o los servicios relacionados con las mismas.
-
-De las personas invitadas al menos una será perteneciente a la micro, pequeña y mediana empresa;
-
-II. En la invitación se indicarán las características, complejidad y magnitud de los trabajos;
-
-III. El acto de presentación y apertura de propuestas podrá hacerse sin la presencia de los correspondientes invitados, pero invariablemente deberá estar un representante de la Contraloría;
-
-IV. Para llevar a cabo la evaluación económica, se deberá contar con un mínimo de tres propuestas con los documentos y requisitos completos; y,
-
-V. Los plazos para la presentación de propuestas se fijarán para cada contrato, atendiendo las características, condiciones y complejidad de los trabajos.
-
-En la evaluación de las propuestas y la emisión de fallo respectivo se observarán los mismos criterios previstos para los procedimientos de licitación pública y se difundirá en Compra Net-Sinaloa y en la página de internet de la Contratante.
-
-Cuando dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, la Contratante podrá adjudicar directamente el contrato, siempre que la Contratista garantice el cumplimiento de todos los requisitos requeridos para la obra.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 ## TÍTULO QUINTO. DE LOS CONTRATOS
 
@@ -1183,33 +1515,41 @@ V. Por administración, en cuyo caso el importe de la remuneración que deba cub
 
 Los trabajos cuya ejecución comprenda más de un ejercicio fiscal, deberán formularse en un solo contrato, por el costo total y la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria en los términos de las disposiciones legales que resulten aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 65.
 
-En los casos de atención de emergencias generadas por fenómenos y catástrofes naturales, accidentes causados por el hombre, agotamiento de la vida útil de equipos o instalaciones y en cualquier otro, derivado de casos fortuitos o de fuerza mayor y sólo en estos casos, para atender situaciones de emergencia o contingencia, se podrán celebrar contratos sobre la base de precios unitarios, sin conocer con precisión el alcance y cantidades de trabajo, la totalidad de sus especificaciones, y por consiguiente no fuere factible definir un catálogo de conceptos. De resultar estrictamente necesario se podrá ordenar el inicio en la ejecución de los trabajos de manera previa a la celebración del contrato, mismo que se formalizará tan pronto como se cuente con los elementos necesarios.
+En los casos de atención de emergencias generadas por fenómenos y catástrofes naturales, accidentes causados por el hombre, y, para atender situaciones de emergencia o contingencia, se podrán celebrar contratos sobre la base de precios unitarios, sin conocer con precisión el alcance y cantidades de trabajo, la totalidad de sus especificaciones, y en ningún caso se deberá ordenar el inicio de ningún trabajo sin el contrato respectivo debidamente autorizado por el comité de obras correspondiente y sin que previamente se haya firmado por los contratantes y contratistas.
 
-De la misma manera se podrá aplicar el mismo procedimiento para la realización de trabajos de mantenimiento, conforme a órdenes de trabajo o servicio que emitan para tales efectos la Contratante, contando con la participación de las dependencias o entidades respectivas.
+De la misma manera se podrá aplicar el mismo procedimiento para la realización de trabajos de mantenimiento, conforme a órdenes de trabajo o servicio que emitan para tales efectos la Contratante, contando con la participación de las instituciones respectivas.
 
 ###### Artículo 66.
 
 Los contratos de obras públicas y servicios relacionados con las mismas contendrán las declaraciones y cláusulas en lo aplicable referentes a:
 
-I. El nombre, denominación o razón social de la convocante, en su caso, del área requirente y del Contratista;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. El nombre de la institución contratante y denominación o razón social del Contratista;
 
 II. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del contrato;
 
 III. Los datos relativos a la autorización del presupuesto para cubrir el compromiso derivado del contrato;
 
-IV. Acreditación de la existencia y personalidad del Contratista;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Acreditación de la existencia y personalidad de la contratante y del Contratista;
 
 V. La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañar como parte integrante del contrato: en el caso de obra, los proyectos, planos, especificaciones, programas y presupuestos correspondientes; en el caso de servicios relacionados con las obras públicas, si se trata de coordinación de supervisión, gerencia de obra y supervisión de obras, los proyectos, especificaciones, programas y presupuestos de la obra a supervisar, además de los programas y presupuestos del servicio mismo; si se trata de otro tipo de servicios, las referencias respecto a normas y especificaciones para realizar los estudios o proyectos, y en el caso de proyecto integral, la descripción pormenorizada de estudios, proyectos y las principales actividades de la obra, estableciendo que son también parte del contrato los elementos de la propuesta integral del proyecto, incluida la supervisión propia del Contratista en la ejecución del proyecto integral;
 
-VI. El precio a pagar por los trabajos objeto del contrato, así como los plazos, forma y lugar de pago y, cuando corresponda, de los ajustes de costos;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VI. El precio a pagar por los trabajos objeto del contrato, así como los plazos, forma y lugar de pago y, cuando corresponda, de los ajustes de costos, y cobro por gasto de financiamiento en caso de atraso en el pago de estimaciones por la contratante;
 
 VII. El plazo de ejecución de los trabajos, así como los plazos para verificar la terminación de los mismos y la elaboración del finiquito;
 
-VIII. Porcentajes, número y fechas de las exhibiciones y amortización de los anticipos que se otorguen;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Porcentajes, número y fechas de las exhibiciones y amortización de los anticipos que se otorguen, sin proceder la amortización de anticipo para los conceptos extraordinarios ordenados;
 
 IX. Forma o términos y porcentajes de garantizar la correcta inversión de los anticipos y el cumplimiento del contrato;
 
@@ -1237,31 +1577,51 @@ XX. Los demás aspectos y requisitos al tipo de contrato de que se trate.
 
 Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en la convocatoria a la licitación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 67.
 
-Las penas convencionales por el incumplimiento de las obligaciones a cargo del Contratista se establecerán en el contrato que se formalice, y no podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento y procederán en los siguientes supuestos:
+Las penas convencionales por el incumplimiento de las obligaciones de los contratantes y contratistas se establecerán en el contrato que se formalice, y no podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento y procederán en los siguientes supuestos:
 
-I. Por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinadas únicamente en función del importe de los trabajos no ejecutados en la fecha pactada en el contrato para la conclusión total de las obras; y,
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. Por atraso en la ejecución de los trabajos, determinadas únicamente en función del importe de los trabajos no ejecutados en la fecha pactada en el contrato para la conclusión total de las obras; y,
 
 II. Por atraso en el cumplimiento de las fechas críticas establecidas en el programa de ejecución general de los trabajos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. No procederá la aplicación de penas convencionales a los contratistas, cuando exista atraso en el programa de obra, imputable a la contratante por trabajos extraordinarios y volúmenes adicionales no contemplados en el catálogo original, hasta que sea regularizada la reprogramación de la obra por tales motivos, así mismo cuando la revisión y autorización de los documentos de soporte de las estimaciones, como son generadores y presupuestos extraordinarios rebasen los tiempos establecidos y comprometidos en la nota de la bitácora respectiva electrónica o manual según sea el caso y la falta de pago oportuno en sus estimaciones.
 
 En caso de atraso en la ejecución de los trabajos durante la vigencia del programa de ejecución por causas imputables al Contratista, la contratante invariablemente aplicará las penas convencionales previstas en este artículo, sin perjuicio de que los plazos establecidos en el programa puedan ser convenidos por las partes en los términos previstos en esta Ley.
 
 Las penas se aplicarán mediante las retenciones económicas en la obligación de pago siguiente a cargo de la contratante a la fecha que se determine el atraso, dichas retenciones podrán ser recuperadas por los contratistas en las siguientes estimaciones, si regularizan los tiempos de atraso conforme al citado programa, siempre que no afecte el desarrollo programado de obras concurrentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 68.
 
-La adjudicación del contrato obligará a la convocante y al licitante ganador a formalizar el contrato dentro de los quince días hábiles siguientes a la fecha del fallo. Si el licitante no firma el contrato dentro del término señalado, por causas imputables al mismo perderá en favor del beneficiario designado, la garantía que hubiere otorgado y su derecho a ser contratado.
+La adjudicación del contrato obligará a la convocante y al licitante ganador a formalizar el contrato dentro de los diez días hábiles siguientes a la fecha del fallo. Si el licitante no firma el contrato dentro del término señalado, por causas imputables al mismo perderá en favor del beneficiario designado, la garantía que hubiere otorgado y su derecho a ser contratado.
 
-La Contratante podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente propuesta solvente que resulte más conveniente para el Estado y en su caso los Municipios, de conformidad con lo asentado en el fallo, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-Si el licitante ganador justificara no firmar el contrato respectivo dentro del plazo señalado en el párrafo anterior, tendrá derecho a recuperar solo la garantía presentada.
+La Contratante podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente propuesta solvente que resulte más conveniente para las instituciones de conformidad con lo asentado en el fallo, y así sucesivamente, en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Si el licitante ganador justificara no firmar el contrato respectivo dentro del plazo señalado en el primer párrafo, tendrá derecho a recuperar solo la garantía presentada.
 
 Si la Contratante no firmare el contrato respectivo por causa justificada, el Contratista, sin incurrir en responsabilidad, no estará obligado a ejecutar los trabajos y a solicitud escrita del propio Contratista, la Contratante cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, siempre que estos sean, razonables, estén debidamente comprobados y se relacionen directamente con la forma de contratación de que se trate.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 69.
 
-La Contratista a quien se adjudique el contrato, solo podrá ejecutarlo a través de otro, cuando así se señale específicamente en las bases de la licitación y en el cuerpo del contrato, En todo caso, la contratista seguirá siendo la única responsable de la ejecución de los trabajos ante la contratante y el subcontratista no quedará subrogado en ninguno de los derechos de la propia Contratista.
+A quien se haya adjudicado el contrato, solo podrá ejecutarlo subcontratando a un tercero cuando así se señale específicamente en las bases de la licitación y en el contenido del contrato. En todo caso, será quien firmó el contrato con la institución el único responsable para responder de las obligaciones contractuales relativas a la ejecución de los trabajos ante la misma; por lo que el subcontratista tampoco quedará subrogado en ninguno de los derechos establecidos en el contrato.
+
+En ningún caso la suma de subcontrataciones podrá exceder el 50% del monto total del presupuesto establecido en el contrato.
+
+En los casos que el contratista subcontrate deberá formalizarlo por escrito, asegurando que la empresa subcontratada cumpla con sus obligaciones legales, prestaciones sociales y fiscales; así mismo la institución contratante y deberá notificarlo al órgano interno de control respectivo para su verificación y certificación de la empresa sub-contratada. El contrato con el tercero deberá publicarse en el sistema Compra Net-Sinaloa en un plazo no mayor a 10 días naturales una vez firmado y que sea proporcionado a la institución contratante.
 
 ###### Artículo 70.
 
@@ -1271,7 +1631,9 @@ Los derechos y obligaciones que se deriven de los contratos no podrán ser trans
 
 El otorgamiento del anticipo se deberá pactar en los contratos de obras públicas y en los servicios relacionados con las mismas, conforme a las siguientes reglas:
 
-I. El importe del anticipo concedido deberá ser puesto a disposición de la Contratista con antelación a la fecha que para inicio de los trabajos se señalen en las bases de la licitación y en el contrato respectivo. El atraso en la entrega del anticipo será motivo para diferir, en igual plazo, el inicio de programa de ejecución pactado y formalizar mediante convenio la nueva fecha de iniciación de los trabajos;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. El importe del anticipo concedido deberá ser puesto a disposición de la Contratista con antelación a la fecha que para inicio de los trabajos se señalen en las bases de la licitación y en el contrato respectivo. El atraso en la entrega del anticipo será motivo para formalizar un convenio de diferimiento por un lapso igual al retraso, para efectos de que se inicie el programa de ejecución pactado, así como que se tome en cuenta por esa misma causa la fecha de finalización de las obras de que se trate. Lo anterior procederá, siempre y cuando dicho atraso en la entrega del anticipo, no rebase los noventa días naturales y que no se haya presentado contingencia económica que implique la modificación sustancial de los costos y monto original pactado en el contrato.
 
 II. Cuando el Contratista no entregue la garantía de anticipo dentro del plazo señalado en esta Ley, no procederá el diferimiento y por lo tanto deberá iniciar los trabajos en la fecha establecida originalmente;
 
@@ -1279,21 +1641,37 @@ III. Los contratistas en su propuesta deberán considerar para el análisis del 
 
 IV. En caso de contratos que trasciendan un ejercicio fiscal, la entrega del anticipo deberá hacerse dentro de los tres meses siguientes al inicio de cada ejercicio, previa entrega de la garantía correspondiente;
 
-V. Los pagos de los anticipos podrán efectuarse en una o dos exhibiciones, de acuerdo con lo pactado en el contrato. En el caso de contratos en que se pacte la entrega de los anticipos en exhibiciones y en varios ejercicios, será motivo para no entregar el anticipo subsiguiente, si el Contratista no hubiere amortizado el anterior o devuelto el mismo con las cargas que resulten;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+V. En el caso de contratos en que se pacte la entrega de los anticipos en exhibiciones, por existir periodo en el contrato de varios ejercicios fiscales, será motivo para no entregar el anticipo subsiguiente, si el Contratista no hubiere amortizado el anterior o devuelto el mismo con las cargas que resulten, valorando previamente por ambas partes los trabajos extraordinarios y volúmenes adicionales autorizados y el anticipo correspondiente para dichos trabajos.
 
 VI. Tratándose de servicios relacionados con las obras públicas, el otorgamiento del anticipo será determinado atendiendo a las características, complejidad y magnitud del servicio, debiendo ajustarse a las reglas previstas en este artículo;
 
-VII. Los trabajos podrán iniciarse antes de la entrega de los anticipos, si así lo acuerda la contratante con el Contratista;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. La amortización deberá efectuarse proporcionalmente con cargo a cada una de las estimaciones por trabajos efectuados que se formulen y liquidarse en la estimación final el faltante por amortizar;
+VII. Una vez formalizado debidamente el contrato, los trabajos podrán iniciarse antes de la entrega de los anticipos si estos fueran pactados. En este supuesto, deberá estipulare (sic) en el mismo los días naturales en que se hará la entrega de dicho concepto con posterioridad. Pasados dichos días, sin que se haga efectivo el pago del anticipo, el contratista tendrá derecho a cobrar gastos por financiamiento del monto de cada anticipo, durante el tiempo de retraso de cada pago. La tasa se determinará con base en lo dispuesto en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, conforme a lo que se establece en el artículo 79 de esta Ley, y, en su caso, tendrá la opción de rescindir el contrato y ejecutar el cobro de penas convencionales pactadas.
 
-IX. Para la amortización de los anticipos en los casos de suspensión, rescisión y terminación anticipada de los contratos o convenios, el saldo por amortizar se reintegrará a la Contratante en un plazo no mayor de diez días hábiles contados a partir de la fecha en que le sea comunicada la conclusión del contrato al Contratista. En caso de que no reintegre el saldo por amortizar en el plazo señalado cubrirá los cargos que resulten conforme a lo previsto en esta Ley; y,
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-X. En los contratos respectivos se deberá pactar que en caso de que el Contratista no reintegre el saldo del anticipo por amortizar, se harán efectivas las fianzas respectivas.
+VIII. La amortización deberá efectuarse proporcionalmente con cargo a cada una de las estimaciones por trabajos efectuados del programa original, que se formulen y liquidarse en la estimación final el faltante por amortizar. Para los trabajos extraordinarios o volúmenes adicionales, no procederá amortización ni sanción alguna hasta que se formalicen los convenios respectivos que amparen dichos conceptos.
 
-Para efectos de esta Ley, el anticipo que en su caso pague la Contratante al Contratista deberá ser del treinta y cinco por ciento para las obras públicas y servicios relacionados con las mismas en general, y hasta un cincuenta por ciento para obras de agua potable, alcantarillado y electrificación.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-En casos no contemplados en el párrafo anterior y justificados a criterio del Comité de Obras por tratarse de obras que así lo ameriten, la Contratante podrá anticipar también el cincuenta por ciento referido en este artículo.
+IX. Para la amortización de los anticipos en los casos de suspensión, rescisión y terminación anticipada de los contratos o convenios, en la fecha en que le sea comunicada la conclusión del contrato al Contratista, se procederá de manera conjunta, contratante y contratista, a elaborar el finiquito de los trabajos realizados del programa original, los volúmenes adicionales y trabajos extraordinarios, para determinar, el saldo a favor o en contra por amortizar que se reintegrará a la Contratante o al contratista en un plazo no mayor de veinte días hábiles contados a partir de que dicho finiquito haya sido autorizado por las partes. En caso de que no reintegren el saldo por amortizar en el plazo señalado cubrirá los cargos que resulten conforme a lo previsto en esta Ley.
+
+Si no hubiere saldos a favor o en contra, se asentara en el acta correspondiente para su procedencia, y
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+X. En los contratos respectivos se deberá pactar que en caso de que el Contratista no reintegre el saldo resultante, por encontrarse en un procedimiento de suspensión, rescisión o terminación anticipada, en los términos de la fracción anterior, se harán efectivas las garantías y las penas convencionales respectivas que procedan.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Para efectos de esta Ley, el anticipo que en su caso pague la Contratante al Contratista deberá ser del treinta y cinco por ciento para las obras públicas y servicios relacionados con las mismas en general; hasta un cincuenta por ciento para obras de agua potable, alcantarillado, electrificación y estructuras metálicas; y hasta de un setenta por ciento en los catálogo (sic) de conceptos cuando contemple el suministro e instalación de equipos propios del inmueble.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+En los casos no contemplados en este artículo, siempre que sean justificados por el Comité de Obras y porque se trata de obras que por su importancia y magnitud así lo ameriten, se podrá entregar un anticipo del cincuenta o setenta por ciento, y siempre que se garantice con póliza por el total de dicho anticipo.
 
 ###### Artículo 72.
 
@@ -1303,23 +1681,45 @@ I. Las empresas en las que sean propietarios o participen como accionistas, admi
 
 II. Los contratistas que sin causa justificada se encuentren en situación de mora o hubieren incumplido la realización de otra obra pública o servicios relacionados con la misma contratada con el sector público;
 
-III. Aquéllas en que el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para dicho servidor público, su cónyuge o sus parientes consanguíneos hasta el segundo grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público, o las personas antes referidas formen o hayan formado parte durante el último año a la fecha de celebración del procedimiento de contratación de que se trate;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+III. Aquéllas en que el servidor público que intervenga en cualquier etapa del procedimiento de obra pública que incluye la planeación, programación, presupuestación, contratación, ejecución y entrega de la obra, tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para dicho servidor público, su cónyuge o sus parientes consanguíneos hasta el tercer grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales, de amistad o de negocios, o para socios o sociedades de las que el servidor público; o bien las personas antes referidas formen o hayan formado parte durante los últimos diez años a la fecha de celebración del procedimiento de contratación de que se trate. En todos los casos antes mencionados deberá existir una carta de acuse de posibles conflictos de intereses tanto del servidor público como del contratista
 
-V. Aquéllas a quienes se les hubiere rescindido administrativamente un contrato por causas imputables a ellas mismas y hasta por un plazo de un año calendario contado a partir de la notificación de la rescisión;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Las que se encuentren, inhabilitadas por resolución de la Contraloría en los términos previstos en esta Ley;
+IV. Aquéllas a quienes se les hubiere rescindido administrativamente un contrato por causas imputables a ellas mismas.
 
-VII. Aquéllas que hayan sido declaradas sujetas a concurso mercantil, estado de quiebra o alguna figura análoga;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Los licitantes que participen en un mismo procedimiento de contratación, que se encuentren vinculados entre sí por algún socio o asociado común. Se entenderá que es socio o asociado común, aquella persona física o moral que en el mismo procedimiento de contratación es reconocida como tal en las actas constitutivas, estatutos o en sus reformas o modificaciones de dos o más empresas licitantes, por tener una participación accionaria en el capital social que le otorgue el derecho de intervenir en la toma de decisiones o en la administración de dichas personas morales;
+V. Las que se encuentren inhabilitadas por resolución de la Secretaria de la Función Pública o Secretaría de Transparencia y Rendición de Cuentas del Estado de Sinaloa en los términos previstos en esta Ley;
 
-IX. Las que hayan utilizado información privilegiada, proporcionada directa o indirectamente por servidores públicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-X. Las personas que participen como consejeros o vocales en consejos vinculados con las obras públicas y los servicios relacionados con las mismas, en el periodo de su encargo;
+VI. Aquéllas que hayan sido declaradas sujetas a concurso mercantil, estado de quiebra o alguna figura análoga;
 
-XI. Las que hayan celebrado contratos en contravención a lo dispuesto por esta Ley; y,
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Los licitantes que participen en un mismo procedimiento de contratación, que se encuentren vinculados entre sí por algún socio o asociado común. Se entenderá que es socio o asociado común, aquella persona física o moral que en el mismo procedimiento de contratación es reconocida como tal en las actas constitutivas, estatutos o en sus reformas o modificaciones de dos o más empresas licitantes, por tener una participación accionaria en el capital social que le otorgue el derecho de intervenir en la toma de decisiones o en la administración de dichas personas morales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Las que hayan utilizado información privilegiada, proporcionada directa o indirectamente por servidores públicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Las personas que participen como consejeros o vocales en consejos vinculados con las obras públicas y los servicios relacionados con las mismas, en el periodo de su encargo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+X. Las que hayan celebrado contratos en contravención a lo dispuesto por esta Ley; y,
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XII.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XI.]</small>
 
 XII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
@@ -1327,19 +1727,31 @@ La Contratante deberá llevar el registro y control de las personas con las cual
 
 ### CAPÍTULO II. DE LAS GARANTÍAS
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 73.
 
-Los contratistas a que se refiere esta Ley deberán garantizar:
+Las garantías deben constituirse a favor de la dirección de administración de la institución contratante, por actos celebrados por los contratistas y cuando los actos o contratos se celebren con ellos, y deberán garantizar:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+I. El cumplimiento de los contratos. La garantía por cumplimiento, garantiza que el contratista lleve a cabo la ejecución de los trabajos en tiempo, forma, cantidad y calidad de acuerdo con lo estipulado en el contrato celebrado y deberá de constituirse mínimo por el 10% del monto del contrato y hasta un máximo correspondiente al monto total del contrato, en ambos casos incluyendo el Impuesto al Valor Agregado, y deberá presentarse dentro de los quince días hábiles siguientes a la fecha de la firma del contrato.
 
-I. El cumplimiento de los contratos. Esta garantía deberá presentarse dentro de los quince días hábiles siguientes a la fecha de celebración del contrato y deberá estar constituida por el importe correspondiente al diez por ciento del monto total del contrato; y,
+Cuando la garantía de cumplimiento sea mediante fianza, el contratante deberá emitir oficios de cancelación de la misma en un plazo no mayor a quince días contados a partir de la formalización del acta de entrega recepción, o en su caso, a partir de la entrega de la fianza que garantice vicios ocultos o buena calidad.
 
-II. Los anticipos que reciban. Esta garantía deberá presentarse dentro de los quince días hábiles siguientes a la fecha de celebración del contrato, en el caso de anticipo para único o primer ejercicio y deberá ser por la totalidad del monto anticipado.
+En caso de ampliación del monto o plazo del contrato celebrado por las partes, deberá modificarse la garantía por cumplimiento, al celebrarse los convenios correspondientes, se deberá hacer del conocimiento a la afianzadora para la modificación de la fianza respectiva, con el fin de que se continúe garantizando la obligación.
 
-En caso de obras multianuales para los ejercicios subsecuentes, la garantía deberá ser otorgada dentro de los diez días hábiles posteriores contados a partir de la fecha de notificación que la dependencia o entidad, le haga al Contratista respecto de la disponibilidad presupuestal para la obra, haciendo referencia del monto aprobado para el ejercicio de que se trate conforme a la inversión autorizada.
+Una vez cumplidas las obligaciones contractuales y la contratante no tenga nada que reclamar a la contratista, las dependencias y entidades responsables deberán autorizar la cancelación de las garantías respectivas.
 
-Esta garantía será por el cien por ciento del monto entregado por concepto de anticipo o anticipos otorgados y estará vigente hasta la total amortización de los mismos. Una vez amortizados en su totalidad, la contratante en un plazo de tres días hábiles expedirá constancia al Contratista de la extinción de esta obligación para que pueda solicitar su cancelación y lo hará también del conocimiento cuando corresponda a la Secretaría de Administración y Finanzas o de los Municipios a través de la Tesorería Municipal o directamente a favor de los organismos a que se refiere la presente Ley.
+II. Los anticipos que se reciban. La garantía por anticipo debe constituirse por el 100% del monto del anticipo incluyendo el impuesto al valor agregado, y estará vigente desde su expedición hasta la total amortización o devolución parcial o total del anticipo, la cual debe ser entregada por el contratista en un plazo no mayor a diez días hábiles contados a partir de la firma del contrato, pero invariablemente antes del pago del anticipo e inicio de los trabajos. La garantía por anticipo garantiza que el contratista invierta el anticipo en el objeto por el que fue contratado o se devuelva total o parcialmente. La garantía por anticipo debe ser cancelada mediante oficio dirigido a la institución afianzadora por el contratante, en un plazo no mayor a quince días hábiles contados partir de la fecha en que dicho anticipo se encuentra debidamente amortizado o haya sido devuelto total o parcialmente y se haya llevado a cabo el finiquito.
+
+Cuando se garantice con fianza los contratos de obra multianuales deberán ser emitidos mínimo por el 10 por ciento del monto de la asignación para el primer año, la cual deberá ser entregada en un plazo no mayor a quince días hábiles a partir de la firma del contrato. Para los ejercicios subsecuentes, la fianza debe ser actualizada y sustituida por otra fianza que será del 10% del monto autorizado. La garantía deberá ser otorgada dentro de los diez días hábiles posteriores contados a partir de la fecha de notificación que la contratante le haga al contratista respecto de la disponibilidad presupuestal para la obra, haciendo referencia del monto aprobado para el ejercicio de que se trate conforme a la inversión autorizada.
+
+La garantía por anticipo debe ser cancelada mediante oficio dirigido a la institución afianzadora por el contratante, en un plazo no mayor a quince días hábiles contados partir de la fecha en que dicho anticipo se encuentra debidamente amortizado o haya sido devuelto total o parcialmente y se haya llevado a cabo el finiquito
+
+III. La buena calidad y vicios ocultos; Concluidos los trabajos, no obstante su recepción formal, el Contratista quedará obligado a responder de los defectos que resulten por vicios ocultos, mala calidad y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo. Esta deberá constituirse por el diez por ciento del monto de los trabajos ejecutados, incluyendo el impuesto al valor agregado y estará vigente por doce meses contados a partir del acta entrega recepción.
+
+La garantía por vicios ocultos o mala calidad, podrá ser cancelada por la institución afianzadora sin ninguna responsabilidad para ella, una vez transcurrido el plazo de los doce meses contados a partir del acta entrega recepción. En caso de que aparecieran vicios ocultos, mala calidad o cualquier otra responsabilidad en que hubiere incurrido el contratista en los trabajos ejecutados, el contratante lo hará saber de manera inmediata a el contratista y a la afianzadora para que en un plazo no mayor de veinte días hábiles, el contratista lleve a cabo la corrección solicitada, en caso de no atender dicho requerimiento, el contratante podrá hacer efectiva la fianza.
+
+Se entenderá que existe conformidad para su cancelación, sin necesidad de extender la constancia respectiva, si la contratante dentro el plazo de vigencia de la garantía no reclama al contratista la existencia de vicios ocultos, mala calidad o cualquier otra responsabilidad en que hubiere incurrido el contratista en los trabajos ejecutados.
 
 ###### Artículo 74.
 
@@ -1347,9 +1759,13 @@ Para efectos de la presente Ley, los licitantes ganadores, podrán presentar cua
 
 I. Póliza de fianza;
 
-II. Cheque de caja;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-III. Cheque certificado;
+II. Carta de crédito; y,
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Seguro de caución
 
 IV. Billete de depósito;
 
@@ -1367,41 +1783,47 @@ Cuando aparezcan vicios ocultos dentro del plazo cubierto por la garantía, la d
 
 Si la garantía se constituyó mediante aportación líquida de recursos en un fideicomiso, transcurrido el plazo anteriormente señalado sin que hubiese reclamación de vicios ocultos, la Contratista podrá retirar su aportación, además los rendimientos obtenidos.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 76.
 
 Cuando la garantía se otorgue mediante póliza de fianza, se observará lo siguiente:
 
-I. La póliza de la fianza deberá contener como mínimo las siguientes previsiones:
+I. Fianza de cumplimiento. La fianza se otorga de conformidad con lo estipulado en la ley de obras públicas y servicios relacionados con las mismas del estado de Sinaloa.
 
-a) Se otorgará atendiendo a todas las estipulaciones contenidas en el contrato;
+a). La fianza se otorga en los términos del contrato. La fianza garantiza la ejecución total de los trabajos materia del contrato, aun cuando parte de ellos se subcontrate con la autorización del contratante;
 
-b) Para su cancelación será requisito contar con el acta administrativa de extinción de derechos y obligaciones o el finiquito, y en caso de existir saldos a cargo del Contratista, la liquidación correspondiente.
+b). La cancelación de la fianza de cumplimiento será en automático al formalizar el acta de entrega recepción de los trabajos y se sustituya por la fianza de vicios ocultos y buena calidad establecida en el artículo 73 fracción III de la presente ley.
 
 En el caso de la fianza que se constituya como garantía para responder por vicios ocultos, el Contratista deberá presentar el acta de recepción física de los trabajos a la afianzadora, después de transcurrido el plazo establecido o bien, una manifestación expresa y por escrito de la dependencia o entidad en la que señale su conformidad para cancelarla.
 
 Se entenderá que existe conformidad para su cancelación, sin necesidad de extender la constancia respectiva, si la contratante dentro del plazo de vigencia de la garantía no reclama al Contratista la existencia de vicios ocultos;
 
-c) Permanecerá vigente durante el cumplimiento de la obligación que se está garantizando y en caso de que se otorgue prórroga al cumplimiento del contrato o ampliación del mismo, la Contratista se obligará a extender su vigencia cubriendo el nuevo plazo contratado, así como durante la substanciación de todos los recursos legales o de los juicios que se interpongan y hasta que se dicte resolución definitiva que quede firme; y,
+c). La fianza garantiza que en caso de que se prorrogue el plazo establecido para la terminación de los trabajos a que hace referencia la fianza o exista espera, su vigencia quedará automáticamente prorrogada en concordancia con dicha prorroga o espera; y,
 
-d) Que la afianzadora acepta expresamente someterse a los procedimientos de ejecución previstos en la Ley de Instituciones y Seguros de Fianzas, aun para el caso de que proceda el cobro de indemnización por mora, con motivo del pago extemporáneo del importe de la póliza de fianza requerida;
+d). La institución afianzadora acepta expresamente someterse a los procedimientos de ejecución establecidos en los artículos 282 de la ley de instituciones de seguros y fianzas y el artículo 283 del mismo ordenamiento;
 
-II. En caso de la celebración de convenios para ampliar el monto o el plazo de ejecución del contrato, se deberá realizar la modificación correspondiente a la póliza de fianza;
+II. Una vez cumplidas las obligaciones contractuales y la contratante no tenga que reclamar a la Contratista, las dependencias y entidades deberán autorizar la cancelación de las garantías respectivas; y,
 
-III. Una vez cumplidas las obligaciones contractuales y la contratante no tenga que reclamar a la Contratista, las dependencias y entidades deberán autorizar la cancelación de las garantías respectivas; y,
-
-IV. Las modificaciones a las pólizas de fianzas deberán formalizarse con la participación que corresponda a la afianzadora, en términos de las disposiciones aplicables.
+III. Las modificaciones a las pólizas de fianzas deberán formalizarse con la participación que corresponda a la afianzadora, en términos de las disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA EJECUCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 77.
 
-La ejecución de las obras públicas contratadas deberá iniciarse en la fecha estipulada en el contrato respectivo, y para ese efecto la Contratante oportunamente pondrá a disposición del Contratista el o los inmuebles en que deban realizarse.
+La ejecución de las obras públicas contratadas deberá iniciarse en la fecha estipulada en el contrato respectivo, y para ese efecto la Contratante oportunamente pondrá a disposición del Contratista la parte del pago respectivo de los anticipos pactados, el o los inmuebles en que deban realizarse, así como el complemento de la información necesaria como son: proyecto ejecutivo completo, formatos de generadores y de estimaciones de la institución contratante con nombres y cargos de los funcionarios responsable (sic) de la supervisión, revisión y autorización de estimaciones, normas y especificaciones de construcción de la institución, designación del espacio para oficina y almacenes provisionales, la ubicación de los troncales de servicios como, agua luz, drenajes sanitarios, drenajes pluviales.
 
 El incumplimiento de la dependencia o entidad involucrada en su entrega, prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. La entrega deberá constar por escrito.
 
-El programa de ejecución convenido en el contrato y sus modificaciones, serán la base conforme al cual se medirá el avance en la ejecución de los trabajos.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-Dentro de los diez días hábiles siguientes a la fecha de iniciación de la obra pública contratada, las dependencias o entidades notificarán a la Contraloría dicho inicio; asimismo, deberá informar cualquier modificación, suspensión y terminación de las obras.
+El programa de ejecución convenido en el contrato y sus modificaciones, serán la base conforme al cual se medirá el avance en la ejecución de los trabajos, realizándose un análisis mensual de los obstáculos y problemática imprevista presentada en el desarrollo de los trabajos, que impliquen la ejecución de conceptos extraordinarios y volúmenes adicionales para elaborar las justificaciones necesarias, formalizar los convenios correspondientes y la reprogramación necesaria.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Dentro de los diez días hábiles siguientes a la fecha de iniciación de la obra pública contratada, las instituciones notificarán al órgano interno de Control respectivo dicho inicio; asimismo, deberá informar cualquier modificación, suspensión y terminación de las obras y verificará que exista un letrero alusivo en la obra y con los datos del contratistas (sic) para efectos de darlo a conocer a la comunidad.
 
 ###### Artículo 78.
 
@@ -1409,9 +1831,15 @@ La Contratante establecerá la residencia de obra previo a la iniciación de la 
 
 La residencia de obra tendrá las funciones que de manera enunciativa más no limitativa se señalan a continuación:
 
-I. Llevar la bitácora de la obra en la que obligatoriamente se anotarán todas las incidencias relevantes de la misma y que estará disponible para el Contratista en las oficinas de la supervisión de obra, en días y horas hábiles. Todas las notas deberán ser firmadas por el residente de la supervisión y el Contratista;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-II. Verificar que los trabajos se realicen conforme a lo pactado en los contratos;
+I. Llevar la bitácora mediante la aplicación del sistema de bitácora electrónica y de seguimiento de obras pública (sic) o bitácora manual, ello, en la que obligatoriamente se anotarán todas las incidencias relevantes de la misma y que estará disponible para el Contratista en las oficinas de la supervisión de obra, en días y horas hábiles. Todas las notas deberán ser firmadas por el residente de la supervisión y el superintendente de la Contratista.
+
+Cuando se tenga la autorización de la secretaria de la función pública para utilizar bitácora manual, esta deberá subirse al sistema de bitácora electrónica y seguimiento de obra pública.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+II. Verificar que los trabajos se realicen conforme a lo pactado en los contratos, el proyecto y las normas de construcción;
 
 III. Revisar, aprobar y firmar los números generadores que amparan los trabajos ejecutados conjuntamente con el Contratista, los cuáles servirán de base para la elaboración de la estimación de dichos trabajos, para que posteriormente se proceda al trámite de pago correspondiente;
 
@@ -1421,17 +1849,25 @@ V. Constatar la terminación de los trabajos; y,
 
 VI. Rendir informes periódicos e informe final del cumplimiento del Contratista en los aspectos legales, técnicos, económicos, financieros y administrativos, así como respecto del avance de la obra.
 
-La supervisión puede llevarse por terceros, con experiencia comprobada en el mismo tipo de obra. Los contratos de supervisión que se celebren deberán ajustarse a los lineamientos que para tal efecto se señalen en el Reglamento de esta Ley, así como los que en su caso emita la Contraloría.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-Los contratistas previo al inicio de los trabajos, designarán a un superintendente de construcción o de servicios que cumpla los requisitos que al efecto señale el Reglamento de esta Ley, quien estará facultado para oír y recibir toda clase de notificaciones relacionadas con los trabajos, así como tomar las decisiones que se requieran en todo lo relativo al cumplimiento del contrato.
+La supervisión puede llevarse por terceros, con experiencia comprobada en el mismo tipo de obra. Los contratos de supervisión que se celebren deberán ajustarse a los lineamientos que para tal efecto se señalen en esta Ley, así como los que en su caso emita el órgano interno de control respectivo.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Los contratistas previo al inicio de los trabajos, designarán a un superintendente de construcción o de servicios que cumpla los requisitos que al efecto señale esta Ley, quien estará facultado para oír y recibir toda clase de notificaciones relacionadas con los trabajos, así como tomar las decisiones que se requieran en todo lo relativo al cumplimiento del contrato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 79.
 
-Las estimaciones de trabajos ejecutados se formularán bajo la responsabilidad del Contratista, en periodos máximos de siete días hábiles contados a partir de la fecha de corte para el pago de las estimaciones que se hubiere fijado en el contrato, con el fin de garantizar el flujo financiero y continuidad de la obra.
+Las estimaciones de trabajos ejecutados se formularán bajo la responsabilidad del Contratista, en periodos máximos de siete días hábiles contados a partir de la fecha de corte para el pago de las estimaciones que se hubiere fijado en el contrato, con el fin de garantizar el flujo financiero y continuidad de la obra. Estas deberán ser publicadas en el sistema Compra Net Sinaloa y en los portales de transparencia correspondientes al momento de haberse generado.
 
 La Contratista deberá presentar las estimaciones a la supervisión, acompañadas de la documentación que acredite la procedencia de su pago; la supervisión de obra realizará su revisión, conciliación y autorización en un plazo no mayor de ocho días hábiles. En caso de que surjan diferencias técnicas o numéricas, éstas se resolverán en un plazo no mayor de cinco días hábiles.
 
-Las estimaciones revisadas, conciliadas y autorizadas por la supervisión deberán pagarse por parte de la Contratante en un plazo no mayor a quince días hábiles y preferentemente mediante transferencias electrónicas bancarias, siempre y cuando no exista una causa imputable a la Contratista que lo impida.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Las estimaciones revisadas, conciliadas y autorizadas por la supervisión deberán pagarse por parte de la Contratante en un plazo no mayor a quince días hábiles y preferentemente mediante transferencias electrónicas bancarias, y de acuerdo a una hoja de ruta. En caso de incumplimiento por la contratante en los pagos de estimaciones, ésta a solicitud del contratista deberá pagar gastos por financiamiento conforme a una tasa que será igual a la establecida por la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, en los casos de prórroga para el pago de créditos fiscales. Dichos gastos empezarán a generarse cuando las partes tengan definido el importe a pagar y se calcularán sobre las cantidades no pagadas, debiéndose computar por días naturales desde que sean determinadas y hasta la fecha en que se pongan efectivamente las cantidades a disposición del contratista.
 
 Los pagos de cada una de las estimaciones por trabajos ejecutados son independientes entre sí, y por lo tanto cualquier tipo de secuencia será sólo para efecto de control administrativo.
 
@@ -1461,7 +1897,9 @@ I. Programa de ejecución pactado en el contrato o programa que se encuentre en 
 
 II. Relativos o índices, publicados en el Diario Oficial de la Federación, y cuando éste no los publique, los que resulten aplicables conforme a lo estipulado en el artículo siguiente;
 
-III. Matrices de los precios unitarios de la obra pendiente de ejecutar, que consideren aplicación de los relativos que correspondan a cada uno de los insumos que integran costo directo de cada precio unitario;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Matrices de los precios unitarios de la obra pendiente de ejecutar, que consideren aplicación de los relativos que correspondan a cada uno de los insumos que integran costo directo de cada precio unitario; Las matrices de precios unitarios deberán transparentarse en la página oficial de las instituciones contratantes.
 
 IV. Importe de la obra pendiente de ejecutar, una vez aplicados los relativos de actualización correspondientes; y,
 
@@ -1479,31 +1917,43 @@ II. Los incrementos o decrementos de los costos de los insumos serán calculados
 
 III. Los precios originales del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato; el costo por financiamiento estará sujeto a las variaciones de la tasa de interés que el Contratista haya considerado en su propuesta; y,
 
-IV. A los demás lineamientos que para tal efecto emita la Contraloría o demás autoridades que resulten competentes en el ámbito de sus aplicaciones.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-El ajuste de costos que corresponda a los trabajos ejecutados conforme las estimaciones correspondientes, deberá cubrirse por parte de la Contratante, a solicitud de la Contratista, a más tardar dentro de los treinta días hábiles siguientes a la fecha en que se resuelva por escrito el aumento o reducción respectivo. En caso de ajustes por decremento, el descuento se hará directamente en la estimación inmediata siguiente.
+IV. A los demás lineamientos que para tal efecto emita el órgano interno de Control de la institución en el ámbito de sus aplicaciones.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+El ajuste de costos que corresponda a los trabajos ejecutados conforme las estimaciones correspondientes, deberá cubrirse por parte de la Contratante, a solicitud de la Contratista, a más tardar dentro de los diez días hábiles siguientes a la fecha en que se resuelva por escrito el aumento o reducción respectivo. En caso de ajustes por decremento, el descuento se hará directamente en la estimación inmediata siguiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 84.
 
-Las dependencias y entidades, dentro de su presupuesto autorizado, bajo su responsabilidad y por razones fundadas y motivadas, podrán modificar los contratos sobre la base de precios unitarios; los mixtos en la parte correspondiente, así como los de amortización programada, mediante convenios modificatorios en cuanto a los montos y plazos originalmente pactados mediante los siguientes convenios que de manera enunciativa más no limitativa a continuación se señalan:
+Las dependencias y entidades, dentro de su presupuesto autorizado, bajo su responsabilidad y con justificaciones fundadas, motivadas y transparentadas, podrán poner a consideración del Comité de obra la modificación de los contratos sobre la base de precios unitarios; los mixtos en la parte correspondiente, así como los de amortización programada, mediante convenios modificatorios en cuanto a los montos y plazos originalmente pactados mediante los siguientes convenios que de manera enunciativa más no limitativa a continuación se señalan:
 
 I. De Diferimiento: Cuando la Contratista haya presentado la documentación suficiente para la firma del contrato y el anticipo no se otorgue en el tiempo convenido en el contrato, las partes podrán acordar el diferimiento del inicio de los trabajos en igual número de días naturales al del retraso de la entrega del anticipo, en este caso no se modificará el plazo de ejecución pactado en el contrato, igual tratamiento se dará si el diferimiento obedece a una causa distinta no imputable a la Contratista;
 
 II. Modificatorio de Plazo: Cuando la Contratante autorice un nuevo programa que modifique la duración total del periodo contratado de ejecución de los servicios, podrán celebrarse uno o más convenios de este tipo, siempre que en conjunto no se rebase el veinticinco por ciento del plazo de ejecución pactado en el contrato;
 
-III. Modificatorio de Importe: Cuando la Contratante autorice la modificación de las cantidades de servicio por ejecutar o la del catálogo de conceptos, podrán celebrarse este tipo de convenios sin variar sustancialmente el objeto y el proyecto ejecutivo del contrato, siempre y cuando estas modificaciones no rebasen en su conjunto el veinticinco por ciento del importe del contrato;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Adicional: Cuando la Contratante autorice la variación de la duración total del periodo de ejecución de los trabajos o cambios al catálogo de conceptos que varíen el importe total contratado, en un porcentaje superior al veinticinco por ciento respectivamente. Este tipo de convenio se celebrará por única vez en cada modalidad, independientemente de posibles convenios modificatorios de plazo o monto que se hubieren establecido;
+III. Modificatorio de Importe: Cuando la Contratante autorice la modificación de las cantidades de servicio por ejecutar o la del catálogo de conceptos, podrán celebrarse este tipo de convenios sin variar en más del veinticinco por ciento la naturaleza de los conceptos establecidos en el catálogo de concepto, el proyecto ejecutivo del contrato, siempre y cuando estas modificaciones no rebasen en su conjunto el veinticinco por ciento del importe del contrato;
 
-V. Especial: Cuando existan circunstancias no imputables a la Contratista que le impidan cumplir con el convenio adicional, cualquiera de las partes podrán presentar el caso al Comité de Obras correspondiente, quien resolverá sobre la procedencia de realizar este convenio especial y sus condiciones; y,
+IV. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+V. Especial: Cuando existan circunstancias no imputables a la Contratista, cualquiera de las partes podrán presentar el caso al Comité de Obras correspondiente, quien resolverá sobre la procedencia de realizar este convenio especial y sus condiciones. Este tipo de convenio será excepcional con previa justificación técnica y detallada realizada por la contratante;
 
 VI. De Conciliación: Cuando se lleve a cabo el procedimiento de conciliación indicado en esta Ley.
 
-Los convenios señalados en los párrafos anteriores deberán ser autorizados y firmados por el servidor público competente de la dependencia o entidad convocante.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Los convenios señalados en los párrafos anteriores deberán ser autorizados y firmados por el comité de obra de la institución convocante, así como por el titular del órgano interno de control.
 
 En el caso de requerirse modificaciones en los términos y condiciones originales del contrato que no representen incremento o disminución en el monto o plazo contractual, las partes deberán celebrar los convenios respectivos.
 
-Los contratos a precio alzado o la parte de los mixtos de esta naturaleza no podrán ser modificados en monto o en plazo, ni estarán sujetos a ajustes de costos.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 Sin embargo, cuando con posterioridad a la adjudicación de un contrato a precio alzado o la parte de los mixtos de esta naturaleza, se presenten circunstancias económicas de tipo general que sean ajenas a la responsabilidad de las partes y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente; como son, entre otras: variaciones en la paridad cambiaria de la moneda o cambios en los precios nacionales o internacionales que provoquen directamente un aumento o reducción en los costos de los insumos de los trabajos no ejecutados conforme al programa de ejecución; las dependencias y entidades deberán reconocer incrementos o requerir reducciones.
 
@@ -1511,7 +1961,9 @@ Lo anterior sin perjuicio de que los costos de los insumos de los trabajos se ac
 
 Una vez que se tengan determinadas las posibles modificaciones al contrato respectivo, la suscripción de los convenios será responsabilidad de la dependencia o entidad de que se trate, misma que no deberá exceder de treinta y un días hábiles, contados a partir de la mencionada determinación.
 
-De las autorizaciones a que se refiere este artículo, por lo que respecta a los convenios que se celebren conforme al segundo párrafo del mismo, el titular del área responsable de la contratación de los trabajos informará al órgano de control en la dependencia o entidad que se trate.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+De las autorizaciones a que se refiere este artículo, por lo que respecta a los convenios que se celebren conforme al segundo párrafo del mismo, el titular del área responsable de la contratación de los trabajos informará al órgano de control respectivo de la institución contratante.
 
 Cuando durante la ejecución de los trabajos se requiera la realización de cantidades o conceptos de trabajo adicionales a los previstos originalmente, las dependencias y entidades podrán autorizar la ejecución de estos trabajos, previamente a la celebración de los convenios respectivos, vigilando que dichos incrementos no rebasen la partida presupuestal autorizada.
 
@@ -1519,53 +1971,57 @@ Tratándose de cantidades adicionales, éstas se pagarán a los precios unitario
 
 No será aplicable el porcentaje que se establece en este artículo, cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 5° de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 85.
 
 La Contratante bajo su responsabilidad podrá:
 
-I. Suspender temporalmente, en todo o en parte, los trabajos contratados por cualquier causa justificada, determinando su temporalidad, la que no podrá ser indefinida;
+I. Dar por terminados anticipadamente los contratos cuando concurran razones de interés general; existan causas justificadas que le impidan la continuación de los trabajos; se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave a las instituciones; se determine la nulidad de actos que dieron origen al contrato, o no sea posible determinar la temporalidad de la suspensión de los trabajos; y,
 
-II. Dar por terminados anticipadamente los contratos cuando concurran razones de interés general; existan causas justificadas que le impidan la continuación de los trabajos; se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave a las dependencias o entidades; se determine la nulidad de actos que dieron origen al contrato, o no sea posible determinar la temporalidad de la suspensión de los trabajos; y,
-
-III. Rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del Contratista o por contravención a las disposiciones de esta Ley.
+II. Rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del Contratista o por contravención a las disposiciones de esta Ley.
 
 El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
 
-I. Se iniciará a partir de que al Contratista le sea comunicado el incumplimiento en que haya incurrido, para que en un término de quince días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes; y,
+a) Se iniciará a partir de que al Contratista le sea comunicado el incumplimiento en que haya incurrido, para que en un término de quince días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes;
 
-II. Transcurrido el término a que se refiere a la fracción anterior, la dependencia o entidad contará con un plazo de quince días hábiles para resolver, considerando los argumentos y pruebas que hubiere hecho valer el Contratista. La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al Contratista dentro de dicho plazo.
+b) Transcurrido el término a que se refiere a la fracción anterior, la dependencia o entidad contará con un plazo de quince días hábiles para resolver, considerando los argumentos y pruebas que hubiere hecho valer el Contratista. La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al Contratista dentro de dicho plazo.
 
-Cuando se determine la suspensión de los trabajos, se dé por terminado de manera anticipada el contrato o se rescinda administrativamente el contrato por causas imputables a la contratante, ésta pagará al Contratista los trabajos ejecutados, así como los gastos no recuperables que estén debidamente comprobados y se relacionen directamente con el contrato de que se trate.
+c) Cuando se determine la suspensión de los trabajos, se dé por terminado de manera anticipada el contrato o se rescinda administrativamente el contrato por causas imputables a la contratante, ésta pagará al Contratista los trabajos ejecutados, así como los gastos no recuperables que estén debidamente comprobados y se relacionen directamente con el contrato de que se trate.
 
-Si se determina la rescisión del contrato por causas imputables al Contratista, la contratante se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito y, en su caso, se procedan a hacer efectivas las garantías.
+d) Si se determina la rescisión del contrato por causas imputables al Contratista, la contratante se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito y, en su caso, se procedan a hacer efectivas las garantías.
 
-En el finiquito referido en el párrafo anterior, deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente y la recuperación de los materiales y equipos que, en su caso, hayan sido entregados; así como la determinación de la aplicación de penas convencionales o el sobrecosto que resulte de la rescisión, debiendo fundamentar y motivar las causas de la aplicación de uno o de otro.
+e) En el finiquito referido en el párrafo anterior, deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente y la recuperación de los materiales y equipos que, en su caso, hayan sido entregados; así como la determinación de la aplicación de penas convencionales o el sobrecosto que resulte de la rescisión, debiendo fundamentar y motivar las causas de la aplicación de uno o de otro.
 
-Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, la Contratista podrá optar por no ejecutarlos, solicitando la terminación anticipada del contrato a la contratante, quien determinará lo conducente.
+f) Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, la Contratista podrá optar por no ejecutarlos, solicitando la terminación anticipada del contrato a la contratante, quien determinará lo conducente.
 
-Una vez determinada la terminación anticipada o la rescisión del contrato, la Contratante procederá a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas, y en su caso, proceder a suspender los trabajos, levantando, con o sin la comparecencia del Contratista, acta circunstanciada del estado en que se encuentre la obra. La Contratista estará obligado a devolver a las dependencias o entidades, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
+g) Una vez determinada la terminación anticipada o la rescisión del contrato, la Contratante procederá a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas, y en su caso, proceder a suspender los trabajos, levantando, con o sin la comparecencia del Contratista, acta circunstanciada del estado en que se encuentre la obra. La Contratista estará obligada a devolver a las dependencias o entidades, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
 
-La Contratante comunicará la suspensión, rescisión o terminación anticipada del contrato a la Contratista y dentro de los cinco días hábiles siguientes de practicada dicha notificación, lo hará del conocimiento de la Contraloría.
+h) La Contratante comunicará la suspensión, rescisión o terminación anticipada del contrato a la Contratista y dentro de los cinco días hábiles siguientes de practicada dicha notificación, lo hará del conocimiento del órgano interno de Control de la institución.
 
-La Contratante se sujetará a los términos y plazos previstos en el Reglamento de esta Ley para la procedencia de los supuestos de conclusión de obra o de contrato descritos en este artículo.
+i) La Contratante se sujetará a los términos y plazos previstos en esta Ley para la procedencia de los supuestos de conclusión de obra o de contrato descritos en este artículo.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 86.
 
-La Contratista comunicará de inmediato y por escrito a la Contratante la terminación de la obra encomendada y ésta, dentro de los quince días hábiles siguientes o en el plazo pactado, verificará la debida terminación conforme a las condiciones establecidas en el contrato.
+La Contratista comunicará de inmediato y por escrito a la Contratante la terminación de la obra encomendada y ésta, dentro de los quince días hábiles siguientes o en el plazo pactado, verificará la debida terminación conforme a las condiciones establecidas en el contrato, y así mismo, la Contratista deberá entregar a la Contratante cartas de no adeudo suscritas por los proveedores de bienes y servicios contratados para la ejecución de la obra.
 
-Si se determina su procedencia se hará la constancia de recepción física de la obra, dentro de los siete días hábiles siguientes a la fecha en que se haya verificado su terminación. Al concluir dicho plazo, sin que la dependencia o entidad correspondiente haya recibido o rechazado por escrito los trabajos, estos se tendrán por recibidos.
+Si se determina su procedencia se hará la constancia de recepción física de la obra, dentro de los siete días hábiles siguientes a la fecha en que se haya verificado su terminación. Al concluir dicho plazo, sin que la institución correspondiente haya recibido o rechazado por escrito los trabajos, estos se tendrán por recibidos.
 
-La Contratante comunicará con la debida anticipación a la Contraloría, y en su caso a la entidad responsable de la operación de la obra realizada, la fecha y, en su caso, el lugar para la recepción de la obra a fin de que, si lo estima conveniente, nombre representante que asista al acto. En la fecha y lugar señalados, la Contratante bajo su responsabilidad recibirá la obra y levantará el acta correspondiente con o sin la comparecencia del representante referido.
+La Contratante comunicará con la debida anticipación a (sic) órgano interno de control, y en su caso al área responsable de la operación de la obra realizada, la fecha y, en su caso, el lugar para la recepción de la obra a fin de que, si lo estima conveniente, nombre representante que asista al acto. En la fecha y lugar señalados, la Contratante bajo su responsabilidad recibirá la obra y levantará el acta correspondiente con o sin la comparecencia del representante referido.
 
-Recibidos físicamente los trabajos, las partes deberán elaborar el finiquito de los mismos, en el que se harán constar los créditos a favor y en contra que resulten para cada una de ellas, describiendo el concepto general que les dio origen y el saldo resultante.
+Recibidos físicamente los trabajos, y las cartas de no adeudo, las partes deberán elaborar el finiquito de los mismos, en el que se harán constar los créditos a favor y en contra que resulten para cada una de ellas, describiendo el concepto general que les dio origen y el saldo resultante, que deberá ser liquidado al contratista en un plazo máximo de quince días naturales, en caso de no cumplirse el pago en el plazo indicado, se aplicara lo indicado en el párrafo tercero del artículo 79.
 
-De existir desacuerdo entre las partes respecto al finiquito, o bien, la Contratista no acuda con la dependencia o entidad para su elaboración dentro del plazo señalado en el contrato, ésta procederá a elaborarlo, debiendo comunicar su resultado a la Contratista dentro de un plazo de diez días hábiles, contado a partir de su emisión. Una vez notificado el resultado de dicho finiquito a la Contratista, éste tendrá un plazo de quince días hábiles para manifestar lo que a su derecho convenga. Si transcurrido este plazo no realiza alguna gestión, se dará por aceptado.
+De existir desacuerdo entre las partes respecto al finiquito, o bien, la Contratista no acuda con la institución para su elaboración dentro del plazo señalado en el contrato, ésta procederá a elaborarlo unilateralmente, en un plazo máximo de treinta días naturales, debiendo comunicar su resultado a la Contratista dentro de un plazo de diez días hábiles, contado a partir de su emisión. Una vez notificado el resultado de dicho finiquito a la Contratista, éste tendrá un plazo de quince días hábiles para manifestar lo que a su derecho convenga. Si transcurrido este plazo no realiza alguna gestión, se dará por aceptado.
 
-Determinado el saldo total, la dependencia o entidad pondrán a disposición de la Contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
+Determinado el saldo total, la institución pondrá a disposición de la Contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 87.
 
-La Contratante deberá proporcionar a la Secretaría de Administración y Finanzas, a la Tesorería Municipal o las dependencias o entidades competentes, copia de los títulos de propiedad, si los hubiere, de los inmuebles objeto de la obra pública realizada o en proceso de realización y los datos de localización y construcción de ésta, a efecto de que proceda, en su caso, a inscribirlos en el Registro Público de la Propiedad y del Comercio del Estado, así como para que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado y de los Municipios.
+La Contratante deberá proporcionar a dirección de administración de la entidad contratante, copia de los títulos de propiedad, si los hubiere, de los inmuebles objeto de la obra pública realizada o en proceso de realización y los datos de localización y construcción de ésta, a efecto de que proceda, en su caso, a inscribirlos en el Registro Público de la Propiedad y del Comercio del Estado, así como para que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado y de los Municipios.
 
 ###### Artículo 88.
 
@@ -1581,75 +2037,77 @@ La Contratista será el único responsable de la ejecución de los trabajos en l
 
 Una vez recibida la obra o parte utilizable de la misma, la Contratante la entregará a la dependencia o entidad que haya requerido los trabajos, debiendo proporcionarle el inmueble en condiciones de operación, los planos de obra terminada y correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas en la ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 91.
 
-Las dependencias y entidades bajo cuya responsabilidad quede una obra pública después de terminada, estarán obligadas a mantenerla en niveles apropiados de funcionamiento y servicio, durante la vida útil señalada en el presupuesto de la misma, debiendo vigilar que su uso, operación, mantenimiento y conservación se realicen conforme a los objetivos y acciones de los programas respectivos. Lo anterior sin perjuicio de las acciones de vigilancia que le correspondan a las dependencias y entidades, y la Contraloría en el ámbito de sus atribuciones. La Secretaría, la Secretaría de Administración y Finanzas, las Tesorerías Municipales y demás autoridades que resulten competentes, en su caso, llevarán registros de los gastos de conservación, mantenimiento, remodelación y demolición en su caso, de la obra pública, vigilando el eficiente aprovechamiento de la misma.
+Las instituciones bajo cuya responsabilidad quede una obra pública después de terminada, estarán obligadas a mantenerla en niveles apropiados de funcionamiento y servicio, durante la vida útil señalada en el presupuesto de la misma, debiendo vigilar que su uso, operación, mantenimiento y conservación se realicen conforme a los objetivos y acciones de los programas respectivos. Lo anterior sin perjuicio de las acciones de vigilancia que le correspondan al órgano interno de Control respectivo en el ámbito de sus atribuciones. La dirección de administración correspondiente y demás autoridades que resulten competentes, en su caso, llevarán registros de los gastos de conservación, mantenimiento, remodelación y demolición en su caso, de la obra pública, vigilando el eficiente aprovechamiento de la misma.
 
 ## TÍTULO SEXTO. DE LA ADMINISTRACIÓN DIRECTA
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 92.
 
-Las dependencias o entidades podrán realizar obra pública por administración directa con autorización previa de la Secretaría de Administración y Finanzas, debiendo justificar ante ella las razones que la obligan a optar por esta forma de ejecución, siempre que el importe del costo total de la obra no exceda de quince mil veces el valor diario de la Unidad de Medida y Actualización, que cuente con el presupuesto correspondiente y tenga acceso viable a la obtención de servicios especializados y los elementos necesarios para tal efecto tales como maquinaria, equipo de construcción y personal técnico para la operación de dicha maquinaria y equipo, y podrá, según el caso:
+Las instituciones podrán realizar trabajos por administración directa, en los casos siguientes:
 
-I. Utilizar la mano de obra que se requiera, lo que invariablemente deberá llevarse a cabo por obra determinada;
+a) Cuando se trate de conservación y mantenimiento de las vías de comunicación debidamente planeadas y presentadas en su programa anual de obra siempre y cuando el comité de obras autorice y el órgano interno de control de cada institución verifiquen que la misma cuenta con la infraestructura técnica y administrativa para tal efecto, como lo es: personal directivo, técnico, administrativo y obrero con perfiles adecuados, maquinaria, herramienta y equipo necesario suficiente que garantice la ejecución de las obras por cuenta propia, en mejores condiciones para la institución; o en su defecto, aplique lo correspondiente a lo establecido en los artículos 38 fracción I y 39 fracciones I y II.
 
-II. Alquilar el equipo y maquinaria de construcción complementarios;
+b) En caso de emergencia, caso fortuito y fuerza mayor y por efectos de fenómenos naturales, para garantizar la operación en vialidades estatales y municipales, así como el restablecimiento de los servicios básicos a la población afectada y con la autorización de los comités de obra de respectivos, podrán ejercer recursos adicionales en los términos del artículo 51 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Sinaloa.
 
-III. Utilizar preferentemente los materiales de la región; y,
+Asimismo, se estará a lo que esa y otras legislaciones dispongan en relación al Fondo de Desastres Naturales.
 
-IV. Utilizar los servicios de fletes y acarreos complementarios que se requieran.
+Cuando las necesidades lo requieran podrá subcontratar y utilizar la mano de obra y maquinaria, lo que invariablemente deberá llevarse a cabo por obra determinada y que se garantice a los trabajadores las prestaciones sociales y legales correspondientes establecidas en la ley federal del trabajo, utilizar preferentemente los materiales de la región; y, los servicios de fletes y acarreos complementarios que se requieran.
 
-Se entiende como complementario, no más del veinticinco por ciento del total requerido.
-
-En la ejecución de los trabajos por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que estos adopten.
-
-Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, materiales u otros bienes que deban ser instalados, montados, colocados o aplicados, su adquisición se regirá por las disposiciones correspondientes a tal materia.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
-
-Podrá llevarse a cabo la contratación de obras por administración directa cuando se trate de la ejecución de obras y servicios relacionados con las mismas, cuando se trate de la conservación y mantenimiento de las vías de comunicación estatal y municipal, así como de los sistemas de agua potable, alcantarillado y saneamiento, cualquiera que sea el monto de la inversión, cuando dicha obra se asigne para su ejecución a un organismo público descentralizado cuyo objeto sea la ejecución de las obras señaladas anteriormente.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 93.
 
-Previamente a la realización de los trabajos por administración directa, la dependencia o entidad a solicitud del titular del área requirente o responsable de la ejecución de los trabajos, emitirá el acuerdo respectivo del cual formarán parte, entre otros aspectos, la descripción pormenorizada de los trabajos que se deban ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente, haciéndolo del conocimiento de la Contraloría.
+Previamente a la realización de los trabajos por administración directa, referidas en el inciso a) del artículo noventa y dos las instituciones a solicitud del titular del área requirente o responsable de la ejecución de los trabajos, mediante justificación fundada y motivada y con autorización previa del comité de obra pública, y los testigos sociales la dirección de administración, y con el visto bueno del órgano interno de control respectivos, emitirán el acuerdo respectivo para cada obra, debiendo contener, la descripción pormenorizada de los trabajos que se deban ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente.
 
-La Contraloría previamente a la ejecución de los trabajos por administración directa, verificará que se cuente con el presupuesto correspondiente, los programas de ejecución, recursos humanos, maquinaria, equipo de construcción y la relación del personal, maquinaria y equipo propio disponible.
+El órgano interno de control respectivo, previamente a la ejecución de los trabajos por administración directa, verificará que se cuente con el presupuesto correspondiente, los programas de ejecución, recursos humanos con garantías de prestaciones sociales y legales correspondientes establecidas en la ley federal del trabajo, maquinaria, equipo de construcción y la relación del personal, maquinaria y equipo propio disponible.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 94.
 
-Las dependencias o entidades, en su caso, con la intervención del Estado o Municipio que corresponda, deberán proveer todos los recursos humanos, técnicos, materiales y económicos necesarios para que la ejecución de los trabajos se realice de conformidad con lo previsto en los proyectos, planos y especificaciones técnicas; así como con los programas de ejecución y suministro, y los procedimientos para llevarlos a cabo.
+Las instituciones, en su caso, con la intervención del área correspondiente, deberán proveer todos los recursos humanos, técnicos, materiales y económicos necesarios para que la ejecución de los trabajos se realice de conformidad con lo previsto en los proyectos, planos y especificaciones técnicas; así como con los programas de ejecución y suministro, y los procedimientos para llevarlos a cabo.
 
 En la ejecución de los trabajos por administración directa serán aplicables, en lo procedente, las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 95.
 
-Una vez concluidos los trabajos por administración directa a cargo de la dependencia o entidad, deberá entregarse a la dependencia o entidad que será la responsable de su operación o mantenimiento. La entrega deberá constar por escrito.
+Una vez concluidos los trabajos por administración directa a cargo del área que corresponda de la institución, deberá entregarse a la dependencia o entidad que será la responsable de su operación o mantenimiento. La entrega deberá constar por escrito, con participación del comité de obras y órgano interno de control respectivos.
 
 ## TÍTULO SÉPTIMO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 96.
 
-La Contratante deberá remitir a la Secretaría de Administración y Finanzas o Tesorería Municipal, y a la Contraloría la información relativa a los actos y contratos materia de esta Ley, en la forma y términos que determine su Reglamento.
+La Contratante deberá remitir al área de administración y finanzas y al órgano interno de control respectivos la información relativa a los actos y contratos materia de esta Ley.
 
-Las dependencias y entidades deberán incorporar en su página de internet o en los sistemas electrónicos respectivos, la información que se señala en esta Ley y la que, en su caso, le requiera la Contraloría.
+Las instituciones, deberán incorporar en su página de internet o en los sistemas electrónicos respectivos, la información que se señala en esta Ley y la que, en su caso, le requiera el órgano interno de Control.
 
 El módulo del sistema electrónico de información pública gubernamental tendrá los siguientes fines:
 
-I. Contribuir a la generación de una política general en la administración pública estatal y en las administraciones públicas municipales en materia de contrataciones de obras públicas y servicios relacionados con las mismas;
+I. Contribuir a la generación de una política apegada a derecho en las instituciones, en materia de contrataciones de obras públicas y servicios relacionados con las mismas;
 
 II. Propiciar la transparencia y seguimiento de las contrataciones de obras públicas y servicios relacionados con las mismas; y,
 
 III. Generar la información necesaria que permita la adecuada planeación, programación y presupuestación de las contrataciones públicas, así como su evaluación integral.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 97.
 
-Con independencia de lo establecido en la normatividad aplicable, en el módulo del sistema electrónico de información pública gubernamental se incorporará por lo menos la siguiente información, cuya actualización deberá hacerse por lo menos cada dos meses:
+Con independencia de lo establecido en la normatividad aplicable, en el módulo del sistema electrónico de información pública institucional, se incorporará por lo menos la siguiente información, cuya actualización deberá hacerse por lo menos cada dos meses:
 
 I. Los programas anuales de obras públicas y servicios relacionados con las mismas de las dependencias y entidades;
 
@@ -1667,29 +2125,35 @@ VII. El registro de contratistas sancionados; y,
 
 VIII. Las resoluciones o acuerdos que se considere conveniente.
 
-La administración del módulo del sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas, estará a cargo de la Contraloría del Gobierno del Estado y podrá ser utilizado por las entidades o dependencias que lo requieran.
+Cada institución contará con un módulo del sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas, del cual estará a cargo el Órgano Interno de Control respectivo, y podrá ser utilizado por las entidades o dependencias que lo requieran.
 
 La Contratante conservará en forma ordenada y sistemática toda la documentación física e información electrónica comprobatoria de los actos y contratos materia de este ordenamiento, cuando menos por un lapso de cinco años contados a partir de la fecha de su recepción; excepto la documentación contable, en cuyo caso se estará en lo previsto por las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2017)</small>
+Las propuestas desechadas durante la licitación pública, podrán ser devueltas a los licitantes que lo soliciten, quince días hábiles contados a partir de la fecha en que se dé a conocer el fallo respectivo, salvo que exista alguna controversia legal en proceso, en cuyo caso las propuestas deberán conservarse hasta la total conclusión de la instancia. Agotados dichos términos la convocante podrá proceder a archivarlas digitalmente.
 
-Las propuestas desechadas durante la licitación pública o invitación a cuando menos tres personas, podrán ser devueltas a los licitantes que lo soliciten, una vez transcurridos quince días hábiles contados a partir de la fecha en que se dé a conocer el fallo respectivo, salvo que exista alguna controversia legal en proceso, en cuyo caso las propuestas deberán conservarse hasta la total conclusión de la instancia. Agotados dichos términos la convocante podrá proceder a su devolución o destrucción.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 98.
 
-El módulo del sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas contará con un Padrón de Contratistas único el cual los clasificará de acuerdo, entre otros aspectos, por su actividad, datos generales, nacionalidad e historial en materia de contrataciones y su cumplimiento.
+El módulo del sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas contará con un Padrón de Contratistas único el cual los clasificará de acuerdo, entre otros aspectos, por su actividad, datos generales, representantes, accionistas, comisarios, nacionalidad e historial en materia de contrataciones y su cumplimiento.
 
 Este Padrón de Contratistas deberá ser permanente y estar a disposición de cualquier interesado, salvo en aquellos casos que se trate de información de naturaleza reservada, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Sinaloa.
 
 Dicho Padrón de Contratistas tendrá únicamente efectos declarativos respecto de la inscripción de contratistas, sin que dé lugar a efectos constitutivos de derechos u obligaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 99.
 
-La Secretaría y la Contraloría, en el ámbito de sus atribuciones, podrán verificar en cualquier tiempo que las obras públicas y los servicios relacionados con las mismas se realicen conforme a lo establecido en esta Ley, su Reglamento y demás disposiciones normativas que resulten aplicables.
+La institución y su órgano interno de control, en el ámbito de sus atribuciones, podrán verificar en cualquier tiempo que las obras públicas y los servicios relacionados con las mismas se realicen conforme a lo establecido en esta Ley, su Reglamento y demás disposiciones normativas que resulten aplicables.
 
-La Contraloría, en el ejercicio de sus respectivas facultades, en materia de información y verificación de las obras públicas, sin menoscabo de las demás atribuciones que le confieren otras disposiciones, podrá:
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-I. Solicitar en cualquier tiempo a las dependencias y entidades, así como a los contratistas información, datos o documentos relacionados con la obra pública y servicios relacionados con la misma a su cargo o en las que hayan intervenido;
+El órgano interno de control en cada institución, en el ejercicio de sus respectivas facultades, en materia de información y verificación de las obras públicas, sin menoscabo de las demás atribuciones que le confieren otras disposiciones, podrá:
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. Solicitar en cualquier tiempo a las instituciones, así como a los contratistas información, datos o documentos relacionados con la obra pública y servicios relacionados con la misma a su cargo o en las que hayan intervenido;
 
 II. Establecer los procedimientos para la revisión en la aplicación del gasto que realice la Contratante, al llevar a cabo las obras públicas o los servicios relacionados con las mismas, incluyendo las adquisiciones de materiales, equipo y maquinaria o de cualquier otro accesorio relacionado;
 
@@ -1701,57 +2165,75 @@ V. Realizar las visitas de inspección y verificación que estime pertinente dur
 
 VI. Las demás que señalen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 100.
 
-La Contraloría podrá verificar o comprobar la calidad de los trabajos realizados, a través de los laboratorios, instituciones educativas y de investigación o de cualquier tercero que tenga la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+El órgano interno de control, podrá verificar o comprobar la calidad de los trabajos realizados, a través de los laboratorios, instituciones educativas y de investigación o de cualquier tercero que tenga la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
 
-Las verificaciones podrán hacerse a petición de la parte interesada o de oficio por la Contratante o por la Contraloría. El Contratista podrá efectuar las aclaraciones y observaciones al dictamen, con los elementos de prueba que considere pertinentes.
+Las verificaciones podrán hacerse a petición de ciudadanos, de la parte interesada o de oficio por la Contratante, El Contratista podrá efectuar las aclaraciones y observaciones al dictamen, con los elementos de prueba que considere pertinentes.
 
 ## TÍTULO OCTAVO. DE LAS INFRACCIONES Y SANCIONES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 101.
 
-Los licitantes o contratistas que infrinjan las disposiciones contenidas en esta Ley o demás normas aplicables, serán sancionados por la Contraloría con una o más de las siguientes sanciones:
+Las instituciones contratantes y contratistas que infrinjan las disposiciones contenidas en esta Ley o demás normas aplicables, serán sancionados por el órgano interno de control, con una o más de las siguientes sanciones:
 
-I. Multa equivalente de cincuenta a diez mil veces el valor diario de la Unidad de Medida y Actualización en la fecha de la infracción;
+I. Para instituciones contratantes y contratistas, Multa equivalente de cincuenta a diez mil veces el valor diario de la Unidad de Medida y Actualización en la fecha de la infracción;
 
 II. Suspensión hasta por un año del registro en el Padrón de Contratistas;
 
 III. Cancelación definitiva del Padrón de Contratistas; y,
 
-IV. Inhabilitación por un periodo de uno a tres años para participar en procedimientos de adjudicación o para suscribir contratos de obra pública y servicios relacionados con la misma regulados por esta Ley.
+IV. Para instituciones contratantes y contratistas, Inhabilitación por un periodo de uno a tres años para participar en procedimientos de adjudicación o para suscribir contratos de obra pública y servicios relacionados con la misma regulados por esta Ley.
 
-Las multas que impongan las autoridades estatales o municipales, una vez que sean notificadas y exigibles, se constituirán en créditos fiscales a favor del erario estatal o municipal según corresponda, y se turnará a la Secretaría de Administración y Finanzas o la Tesorería Municipal para su cobro a través del procedimiento administrativo de ejecución que establecen las disposiciones fiscales estatales y municipales.
+V. Al Contratista que le hubieren pagado las estimaciones o finiquito, incumpla con las obligaciones de pago asumidas con proveedores de bienes o servicios que contrató, por sí o por conducto de terceros, para la ejecución de la obra que le hubiere sido asignada.
+
+Las multas que impongan los órganos internos de control de las instituciones contratantes o a los contratistas, una vez que sean notificadas y exigibles, se constituirán en créditos fiscales a favor del erario según corresponda, y se turnará al área correspondiente, para su cobro a través del procedimiento administrativo de ejecución que establecen las disposiciones fiscales para el caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 102.
 
-La Contraloría, sin perjuicio de lo establecido en el artículo anterior, podrá además inhabilitar temporalmente para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por esta Ley, a las personas que se encuentren en alguno de los siguientes supuestos:
+El órgano interno de control, sin perjuicio de lo establecido en el artículo anterior, podrá además inhabilitar temporalmente al responsable de la institución o del contratista, para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por esta Ley, a las personas que se encuentren en alguno de los siguientes supuestos.
 
 I. Los licitantes que injustificadamente y por causas imputables a los mismos no formalicen en tiempo el contrato adjudicado por la convocante;
 
-II. Los contratistas a los que se les haya rescindido administrativamente un contrato en dos o más ocasiones en un plazo de tres años;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-III. Los contratistas que no cumplan con sus obligaciones contractuales por causas imputables a los mismos y que, como consecuencia, causen daños o perjuicios a la Contratante; y,
+II. A las contratantes y contratistas a los que se les haya rescindido administrativamente un contrato en dos o más ocasiones en un plazo de tres años;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. A las contratantes y contratistas que no cumplan con sus obligaciones contractuales por causas imputables a los mismos y que, como consecuencia, causen daños o perjuicios a la Contratante; y,
 
 IV. Las que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una solicitud de conciliación o de una inconformidad.
 
 El plazo para la inhabilitación comenzará a contarse a partir de que la sanción impuesta se encuentre firme.
 
-Las dependencias y entidades deberán, dentro de los diez días hábiles siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitir a la Contraloría, la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Las instituciones deberán, dentro de los diez días hábiles siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitir al órgano interno de control, la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
 
 Si al día en que se cumpla el plazo de inhabilitación a que se refiere esta Ley el sancionado no ha pagado la multa que hubiere sido impuesta, la inhabilitación subsistirá hasta que se realice el pago correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 103.
 
-La Contraloría impondrá las sanciones establecidas en esta Ley a las personas físicas o jurídicas que cometan las siguientes infracciones:
+El órgano interno de control impondrá las sanciones establecidas en esta Ley a las instituciones y personas físicas o jurídicas que cometan las siguientes infracciones:
 
 I. Si los participantes en los procedimientos de adjudicación de contratos de obra pública o servicios relacionados con las mismas, injustificadamente y por causas imputables a los mismos no formalizaren el contrato adjudicado por la convocante;
 
 II. En el caso de que los contratistas incumplan con una o más de sus obligaciones contractuales por causas imputables a ellos;
 
-III. Cuando los licitantes o contratistas proporcionen información falsa o actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, en el trámite para la obtención del registro en el Padrón de Contratistas o para su revalidación o bien, en la presentación o desahogo de una queja;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Cuando los convocantes o contratistas proporcionen información falsa o actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, en el trámite para la obtención del registro en el Padrón de Contratistas o para su revalidación o bien, en la presentación o desahogo de una queja.
 
 IV. Los contratistas que durante el proceso de ejecución, realicen cobros por conceptos de obra no ejecutados o consientan que las dependencias y entidades no efectúen las amortizaciones de los anticipos en la forma contratada; y,
 
@@ -1759,9 +2241,11 @@ V. Las demás infracciones previstas en esta Ley, su Reglamento y la normativida
 
 Tratándose de reincidencia se podrá aplicar hasta el doble de la multa originalmente impuesta, cuando ésta se realice dentro de un año contado a partir de la fecha en que se cometió la primera infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 104.
 
-La Contraloría impondrá las sanciones tomando en consideración los siguientes criterios:
+El órgano interno de control, impondrá las sanciones tomando en consideración los siguientes criterios:
 
 I. La gravedad de la infracción;
 
@@ -1781,21 +2265,29 @@ Cuando sean varios los responsables cada uno será sancionado de manera individu
 
 No se impondrán sanciones cuando de la investigación o del procedimiento se desprenda que se incurrió en infracción por causas de fuerza mayor o de caso fortuito.
 
-Cuando se cumpla en forma espontánea la obligación contractual que se hubiese dejado de atender, la Contraloría podrá a su juicio atenuar la sanción o abstenerse de sancionar por única vez al infractor, siempre y cuando no se hubiese causado daño o perjuicio al Estado o al Municipio que corresponda.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando se cumpla en forma espontánea la obligación contractual que se hubiese dejado de atender, el órgano interno de control, podrá a su juicio atenuar la sanción o abstenerse de sancionar por única vez al infractor, siempre y cuando no se hubiese causado daño o perjuicio (sic) la institución que corresponda.
 
 No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por los órganos de control de las autoridades señaladas en esta Ley o medie requerimiento, visita, denuncia ciudadana o cualquier otra gestión efectuada por las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 106.
 
-Las facultades de la Contraloría para imponer las sanciones a que se refiere el artículo 101 de este ordenamiento, prescribirán en tres años contados a partir de la fecha en que se tenga conocimiento de éstas.
+Las facultades del órgano interno de control, para imponer las sanciones a que se refiere el artículo 101 de este ordenamiento, prescribirán en tres años contados a partir de la fecha en que se tenga conocimiento de éstas.
 
 En todos los casos el inicio del procedimiento establecido en este capítulo interrumpirá la prescripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 107.
 
-La Contraloría impondrá las sanciones a que se refiere este capítulo, mediante el siguiente procedimiento:
+El órgano interno de control, impondrá las sanciones a que se refiere este capítulo, mediante el siguiente procedimiento:
 
-I. La Contraloría radicará un expediente administrativo y dará inicio a la investigación, con el informe de la visita o inspección que realice la autoridad que la practique, o bien, con la denuncia ciudadana o del servidor público de la dependencia o entidad contratante de haberse cometido la misma;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. El órgano interno de control radicará un expediente administrativo y dará inicio a la investigación, con el informe de la visita o inspección que realice la autoridad que la practique, o bien, con la denuncia ciudadana o del servidor público de la dependencia o entidad contratante de haberse cometido la misma;
 
 II. Si cuenta con elementos que presuman su responsabilidad, comunicará por escrito al presunto infractor el inicio del procedimiento y se le hará saber los hechos constitutivos de la infracción, para que dentro de un término no mayor a quince días hábiles exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
 
@@ -1803,13 +2295,17 @@ III. Una vez desahogadas las pruebas ofrecidas o transcurrido el plazo a que se 
 
 IV. La resolución respectiva se dictará en un plazo no mayor de veinte días hábiles, misma que deberá cumplir con los requisitos constitucionales de fundamentación y motivación.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 108.
 
-Los servidores públicos que infrinjan las disposiciones contenidas en esta Ley, previo desahogo del procedimiento correspondiente, serán sancionados por la Contraloría, de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+Los servidores públicos que infrinjan las disposiciones contenidas en esta Ley, previo desahogo del procedimiento correspondiente, serán sancionados por el órgano interno de control, de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 109.
 
-Los servidores públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las normas que de ella se deriven, deberán comunicarlo a la Contraloría, a la dependencia o a la entidad correspondiente. La omisión a lo dispuesto a este artículo será sancionada conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+Los servidores públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las normas que de ella se deriven, deberán comunicarlo al órgano interno de control de la institución correspondiente. La omisión a lo dispuesto a este artículo será sancionada conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
 
 ###### Artículo 110.
 
@@ -1819,21 +2315,23 @@ Las sanciones a que se refiere la presente Ley son independientes de las respons
 
 ### CAPÍTULO I. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 111.
 
-La Contraloría conocerá de los recursos de inconformidad que se promuevan contra los actos que se indican a continuación:
+El órgano interno de control conocerá de los recursos de inconformidad que se promuevan contra los actos que se indican a continuación
 
 I. La convocatoria a la licitación y las juntas de aclaraciones.
 
 La inconformidad sólo podrá presentarse por el interesado que haya manifestado su interés por participar en el procedimiento, dentro de los seis días hábiles siguientes a la celebración de la última junta de aclaraciones;
 
-II. La invitación a cuando menos tres personas.
-
-Sólo estará legitimado para inconformarse quien haya recibido invitación, dentro de los seis días hábiles siguientes;
+II. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 III. El acto de presentación y apertura de propuestas y el fallo.
 
-La inconformidad sólo podrá presentarse por quien hubiere presentado propuesta, dentro de los seis días hábiles siguientes a la celebración de la junta pública en la que se dé a conocer el fallo, o de que se le haya notificado al licitante en los casos en que no se celebre junta pública;
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+La inconformidad sólo podrá presentarse por quien hubiere presentado propuesta, dentro de los diez días hábiles siguientes a la celebración de la junta pública en la que se dé a conocer el fallo, o de que se le haya notificado al licitante en los casos en que no se celebre junta pública;
 
 IV. La cancelación de la licitación.
 
@@ -1841,15 +2339,19 @@ La inconformidad sólo podrá presentarse por el licitante que hubiere presentad
 
 V. Los actos y omisiones por parte de la convocante que impidan la formalización del contrato en los términos establecidos en la convocatoria a la licitación o en esta Ley.
 
-La inconformidad sólo podrá presentarse por quien hubiere resultado adjudicado, dentro de los seis días hábiles posteriores a aquél en que hubiere vencido el plazo establecido en el fallo para la formalización del contrato o, en su defecto, el plazo legal;
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+La inconformidad sólo podrá presentarse por quien hubiere resultado adjudicado, dentro de los diez días hábiles posteriores a aquél en que hubiere vencido el plazo establecido en el fallo para la formalización del contrato o, en su defecto, el plazo legal;
 
 VI. Las resoluciones que nieguen las solicitudes de inscripción y las que decreten la cancelación o suspensión del registro en el Padrón de Contratistas; y,
 
 VII. Contra los actos u omisiones de las dependencias y entidades que transgredan, restrinjan o limiten en cualquier forma los derechos de los licitantes o contratistas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 112.
 
-El recurso de inconformidad contra actos de la convocante deberá presentarse por escrito directamente en la oficialía de partes de la Contraloría.
+El recurso de inconformidad contra actos de la convocante deberá presentarse por escrito directamente en la oficialía de partes de El órgano interno de control.
 
 La interposición de la inconformidad ante autoridad diversa a la señalada en este artículo, no interrumpirá el plazo para su oportuna presentación.
 
@@ -1875,9 +2377,13 @@ Tratándose de la fracción I no será necesario formular prevención alguna res
 
 El recurso de inconformidad es improcedente:
 
-I. Contra actos diversos a los establecidos en el artículo 111 de la presente Ley;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-II. Contra actos consentidos expresa o tácitamente; y,
+I. Contra actos consentidos expresa o tácitamente; y,
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+II. Cuando el acto impugnado no pueda surtir efecto legal o material alguno por haber dejado de existir el objeto o la materia del procedimiento de contratación del cual deriva.
 
 III. Cuando el acto impugnado no pueda surtir efecto legal o material alguno por haber dejado de existir el objeto o la materia del procedimiento de contratación del cual deriva.
 
@@ -1909,37 +2415,19 @@ II. Por estrados, que se fijará en lugar visible y de fácil acceso al público
 
 III. Por oficio, aquéllas dirigidas a la convocante.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 116.
 
-Se decretará la suspensión de los actos del procedimiento de contratación y los que deriven del mismo, siempre que lo solicite el promovente en su escrito inicial de inconformidad y se advierta por parte de la Contraloría, que existen o pudieren existir actos contrarios a las disposiciones de esta Ley o a las normas que deriven de la misma, siempre que no se cause perjuicio al interés social, ni se contravengan disposiciones de orden público.
+Se decretará la suspensión de los actos del procedimiento de contratación y los que deriven del mismo, siempre que lo solicite el promovente en su escrito inicial de inconformidad y se advierta por parte del órgano interno de control, que existen o pudieren (sic) actos contrarios a las disposiciones de esta ley o a las normas que deriven de la misma, siempre que no se cause perjuicio al interés social, ni contravengan disposiciones de orden público.
 
-En su solicitud, el inconforme deberá expresar las razones por las cuales estima procedente la suspensión, como los daños y perjuicios que pudieran ocasionársele en caso de que continúen los actos del procedimiento de contratación.
+Si el órgano interno de control conoce de la inconformidad (sic) advierte manifiestas irregularidades en el procedimiento de contratación impugnado, podrá decretar de oficio la suspensión sin necesidad de solicitud ni garantía del inconforme, siempre que con ello no se cause perjuicio al interés social, ni se contravengan disposiciones de orden público. El acuerdo relativo contendrá las consideraciones y fundamentos legales en que se apoye para decretarla.
 
-Una vez solicitada la suspensión correspondiente, la Contraloría que conozca de la inconformidad deberá acordar lo siguiente:
-
-I. Concederá o negará provisionalmente la suspensión; en el primer caso, fijará las condiciones y efectos de la medida; y,
-
-II. Dentro de los tres días hábiles siguientes a que se haya recibido el informe previo de la convocante, se pronunciará respecto de la suspensión definitiva.
-
-El acuerdo relativo a la suspensión contendrá las consideraciones y fundamentos legales en que se apoye para concederla o negarla.
-
-En caso de resultar procedente la suspensión definitiva, se deberán precisar las medidas para conservar la materia del asunto hasta que se emita la resolución definitiva que ponga fin al recurso de inconformidad.
-
-En todo caso, la suspensión definitiva quedará sujeta a que el solicitante, dentro de los tres días hábiles siguientes a la notificación del acuerdo relativo, garantice los daños y perjuicios que pudiera ocasionar, según los términos que se señalen en el Reglamento de esta Ley. De no exhibirse en sus términos la garantía requerida dejará de surtir efectos dicha medida cautelar.
-
-La suspensión decretada quedará sin efectos si el tercero interesado otorga una contragarantía equivalente a la exhibida por el inconforme, en los términos que señale el Reglamento de esta Ley.
-
-A partir de que haya causado estado la resolución que ponga fin al recurso de inconformidad, podrá iniciarse incidente de ejecución de garantía, que se tramitará por escrito y en el que se señalará el daño o perjuicio que produjo la suspensión de los actos, así como las pruebas que estime pertinentes.
-
-Con el escrito incidental se dará vista al interesado que hubiere otorgado la garantía respectiva, para efecto de que dentro del plazo de diez días hábiles manifieste lo que a su derecho convenga.
-
-Una vez desahogadas las pruebas, en el término de diez días hábiles, la autoridad resolverá el incidente planteado, en el que se decretará la procedencia de cancelar, o bien, de hacer efectiva la garantía o contragarantía de que se trate según se hubiere acreditado el daño o perjuicio causado por la suspensión de los actos, o por la continuación de los mismos, según corresponda.
-
-Si la Contraloría que conoce de la inconformidad advierte manifiestas irregularidades en el procedimiento de contratación impugnado, podrá decretar de oficio la suspensión sin necesidad de solicitud ni garantía del inconforme, siempre que con ello no se cause perjuicio al interés social, ni se contravengan disposiciones de orden público. El acuerdo relativo contendrá las consideraciones y fundamentos legales en que se apoye para decretarla.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 117.
 
-La Contraloría que conozca del recurso de inconformidad lo examinará, y si encontrare motivo manifiesto de improcedencia lo desechará de plano. En caso contrario, una vez recibido el recurso se requerirá a la convocante que rinda en el plazo de dos días hábiles un informe previo en el que manifieste los datos generales del procedimiento de contratación y del tercero interesado, y pronuncie las razones por las que estime que la suspensión del procedimiento de contratación resulta o no procedente.
+El órgano interno de control que conozca del recurso de inconformidad lo examinará, y si encontrare motivo manifiesto de improcedencia lo desechará de plano. En caso contrario, una vez recibido el recurso se requerirá a la convocante que rinda en el plazo de dos días hábiles un informe previo en el que manifieste los datos generales del procedimiento de contratación y del tercero interesado, y pronuncie las razones por las que estime que la suspensión del procedimiento de contratación resulta o no procedente.
 
 Se requerirá también a la convocante que rinda en el plazo de seis días hábiles un informe circunstanciado, en el que se expondrán las razones y fundamentos para sostener la improcedencia de la inconformidad, así como la validez o legalidad del acto impugnado y se acompañará, en su caso, copia autorizada de las constancias necesarias para apoyarlo.
 
@@ -1949,7 +2437,9 @@ Una vez conocidos los datos del tercero interesado, se le correrá traslado con 
 
 El inconforme, dentro de los tres días hábiles siguientes a aquél en que se tenga por recibido el informe circunstanciado, tendrá derecho de ampliar sus motivos de impugnación, cuando del mismo aparezcan elementos que no conocía.
 
-La Contraloría que conozca de la inconformidad, en caso de estimar procedente la ampliación, requerirá a la convocante para que en el plazo de tres días hábiles rinda el informe circunstanciado correspondiente y dará vista al tercero interesado para que en el mismo plazo manifieste lo que a su interés convenga.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+El órgano interno de control que conozca de la inconformidad, en caso de estimar procedente la ampliación, requerirá a la convocante para que en el plazo de tres días hábiles rinda el informe circunstanciado correspondiente y dará vista al tercero interesado para que en el mismo plazo manifieste lo que a su interés convenga.
 
 ###### Artículo 118.
 
@@ -1961,11 +2451,15 @@ II. Si dentro del trámite que haya dado origen al recurso de inconformidad el i
 
 III. Las pruebas que ofrezca el inconforme deberá relacionarlas con cada uno de los hechos controvertidos.
 
-Si no se adjuntan al escrito de presentación los documentos a que se refiere este precepto, la Contraloría requerirá al promovente para que los presente dentro del plazo de tres días hábiles. Cuando el promovente no los presente dentro de dicho plazo y se trate de documentos a que se refieren las fracciones I y III del artículo 112 se tendrá por no presentado el recurso. Si se trata de las pruebas a que se refiere la fracción IV del mismo precepto, las mismas se tendrán por no ofrecidas; y,
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Si no se adjuntan al escrito de presentación los documentos a que se refiere este precepto, el órgano interno de control requerirá al promovente para que los presente dentro del plazo de tres días hábiles; pero si no los presenta dentro de dicho plazo y se trate de documentos a que se refieren las fracciones I y III del artículo 112 se tendrá por no presentado el recurso. Si se trata de las pruebas a que se refiere la fracción IV del mismo precepto, las mismas se tendrán por no ofrecidas; y,
 
 IV. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el inconforme, de no presentarse el dictamen dentro del término de tres días hábiles la prueba será declarada desierta.
 
-La Contraloría que conozca del recurso, acordará lo que proceda sobre las pruebas que el inconforme hubiera ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas y ordenará el desahogo de las mismas dentro del plazo de tres días hábiles, el cual será improrrogable.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+El órgano interno de control que conozca del recurso, acordará lo que proceda sobre las pruebas que el inconforme hubiera ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas y ordenará el desahogo de las mismas dentro del plazo de tres días hábiles, el cual será improrrogable.
 
 ###### Artículo 119.
 
@@ -1983,9 +2477,11 @@ V. Las consideraciones y fundamentos legales en que se apoye; y,
 
 VI. Los puntos resolutivos que expresen claramente sus alcances y efectos, en congruencia con la parte considerativa, fijando cuando proceda las directrices para la reposición de actos decretados nulos o para la firma del contrato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 120.
 
-La resolución que emita la Contraloría podrá:
+La resolución que emita el órgano interno de control podrá:
 
 I. Sobreseer la instancia;
 
@@ -2011,11 +2507,15 @@ La resolución que ponga fin al incidente previsto en este artículo podrá impu
 
 El desacato de las convocantes a las resoluciones y acuerdos que emitan la Contraloría, será sancionado de acuerdo a lo previsto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 122.
 
-A partir de la información que conozca la Contraloría, derivada del ejercicio de sus facultades de verificación, podrá realizar intervenciones de oficio a fin de revisar la legalidad de los actos previstos en esta Ley.
+A partir de la información que conozca el órgano interno de control, derivada del ejercicio de sus facultades de verificación, podrá realizar intervenciones de oficio a fin de revisar la legalidad de los actos previstos en esta Ley.
 
-El inicio del procedimiento de intervención de oficio será mediante el pliego de observaciones, en el que la Contraloría señalará con precisión las posibles irregularidades que se adviertan en el acto motivo de intervención.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+El inicio del procedimiento de intervención de oficio será mediante el pliego de observaciones, en el que el órgano interno de control señalará con precisión las posibles irregularidades que se adviertan en el acto motivo de intervención.
 
 De estimarlo procedente podrá decretarse la suspensión de los actos del procedimiento de contratación y los que de éste deriven.
 
@@ -2061,6 +2561,8 @@ El pago de los servicios a la persona que funja como árbitro no será materia d
 
 El procedimiento arbitral culmina con el laudo. El laudo arbitral que, en su oportunidad se emita deberá, en su caso, ser sometido para su ejecución, a las instancias jurisdiccionales competentes conforme a la legislación aplicable.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 129.
 
 Las controversias que se deriven de la interpretación o aplicación de la presente Ley o de los contratos celebrados conforme a ésta, serán resueltos en los términos de esta Ley y demás ordenamientos jurídicos aplicables.
@@ -2069,13 +2571,17 @@ Las controversias que se deriven de la interpretación o aplicación de la prese
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 130.
 
-La Secretaría y los Municipios llevarán un Padrón de Contratistas en el que se clasificarán a las personas inscritas en los mismos, de acuerdo con su especialidad y capacidad técnica y económica. Dicha clasificación deberá considerarse en la convocatoria y en los procedimientos de contratación de las obras públicas a los que se refiere esta Ley.
+Las instituciones llevarán un Padrón de Contratistas en el que se clasificarán a las personas inscritas en los mismos, de acuerdo con su especialidad y capacidad técnica y económica. Dicha clasificación deberá considerarse en la convocatoria y en los procedimientos de contratación de las obras públicas a los que se refiere esta Ley.
 
 La relación de personas inscritas en el Padrón de Contratistas será del conocimiento de las dependencias, entidades y del público en general.
 
-Las Contratantes sólo podrán celebrar contratos de obra pública y servicios relacionados con las mismas con las personas inscritas en el Padrón de Contratistas cuyo registro esté vigente. La Contraloría resolverá los casos de excepción de conformidad con el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Las Contratantes sólo podrán celebrar contratos de obra pública y servicios relacionados con las mismas con las personas inscritas en el Padrón de Contratistas cuyo registro esté vigente el órgano interno de control resolverá los casos de excepción de conformidad con esta Ley.
 
 ###### Artículo 131.
 
@@ -2087,7 +2593,9 @@ II. Señalamiento de domicilio para oír y recibir notificaciones en la capital 
 
 III. Tratándose de personas morales, acta constitutiva y sus respectivas modificaciones, en su caso;
 
-IV. Experiencia y especialidad mínima de un año en materia de construcción y en su caso en la prestación de servicios relacionados con la misma;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Experiencia y especialidad mínima de un año en materia de construcción y en su caso en la prestación de servicios relacionados con la misma; de la empresa o responsable técnico, y en su caso en la prestación de servicios con la misma, salvo que las personas declaren no haber obtenido un contrato previo de obra pública o de servicios relacionados con las mismas y acrediten haberse constituido legalmente en los seis meses previos a su inscripción en el Padrón, en cuyo caso no les será exigible el requisito referente a la experiencia laboral específica a que se refiere esta fracción, siempre y cuando el monto del contrato no exceda 500 unidades el valor de la unidad medida de actualización elevado al mes
 
 V. Acreditar la capacidad técnica, recursos humanos, económicos, administrativos y financieros;
 
@@ -2099,29 +2607,41 @@ VIII. Constancia de registro patronal ante el Instituto Mexicano del Seguro Soci
 
 IX. Constancia de capacitación del personal expedida por algún instituto, organismo o institución acreditada por la autoridad competente; y,
 
-X. Los demás documentos e información que se consideren necesarios, conforme a los lineamientos previstos en esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+X. Los demás documentos e información que se consideren necesarios, conforme a los lineamientos previstos en esta Ley.
 
 No será requisito para inscribirse en el Padrón de Contratistas ser miembro de alguna cámara, asociación, colegio de profesionistas u órgano equivalente.
 
-Los recursos económicos y financieros se deberán comprobar con la última declaración anual formulada ante la autoridad hacendaria competente y con el balance correspondiente, que comprenda hasta el mes anterior a la fecha de solicitud de registro.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Los recursos económicos y financieros se deberán comprobar con la última declaración anual formulada ante la autoridad hacendaria competente o con el balance correspondiente, que comprenda hasta el mes anterior a la fecha de solicitud de registro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 132.
 
-El registro en el Padrón de Contratistas tendrá una vigencia indefinida. La Secretaría y los Municipios podrán verificar dentro de un plazo de diez días hábiles, la información que los contratistas hubieren aportado para la obtención de su registro, y en su caso requerir por la presentación de algún documento no presentado o bien, las aclaraciones pertinentes a la información rendida en un plazo no mayor de tres días hábiles.
+El registro en el Padrón de Contratistas tendrá una vigencia indefinida. Las instituciones podrán verificar dentro de un plazo de diez días hábiles, la información que los contratistas hubieren aportado para la obtención de su registro, y en su caso requerir por la presentación de algún documento no presentado o bien, las aclaraciones pertinentes a la información rendida en un plazo no mayor de tres días hábiles.
 
 La inscripción causará los derechos que se establezcan en las disposiciones fiscales correspondientes.
 
-Los integrantes del Padrón de Contratistas tendrán la obligación de actualizar la información anualmente, en caso de no cumplir con dicho requerimiento, podrán ser requeridos por una sola ocasión por la Secretaría y los Municipios.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Los integrantes del Padrón de Contratistas tendrán la obligación de actualizar la información que haya sufrido cambios con relación al expediente inicial anualmente, en caso de no cumplir con dicho requerimiento, podrán ser requeridos por una sola ocasión por la institución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 133.
 
-La Secretaría y los Municipios, dentro del término de veinte días hábiles contados de la fecha de recepción de la solicitud, o en su caso, a partir de la fecha en que se hubiere dado cumplimiento al requerimiento resolverán sobre la inscripción en el Padrón de Contratistas.
+Las instituciones, dentro del término de diez días hábiles contados de la fecha de recepción de la solicitud, o en su caso, a partir de la fecha en que se hubiere dado cumplimiento al requerimiento resolverán sobre la inscripción en el Padrón de Contratistas.
 
 En caso de no emitirse la resolución respectiva en el plazo señalado se tendrá por aceptada la inscripción y la autoridad deberá otorgar el registro respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 134.
 
-La Secretaría y los Municipios estarán facultados para suspender el registro de los contratistas cuando:
+Las instituciones estarán facultados (sic) para suspender el registro de los contratistas cuando:
 
 I. Se les declare en estado de quiebra o sujetos a concurso de acreedores;
 
@@ -2129,11 +2649,17 @@ II. Se determine que no cumplen con los requisitos exigidos para su inscripción
 
 III. Se les declare incapacitados legalmente para contratar.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Reincidan en el incumplimiento de las obligaciones de pago asumidas con proveedores de bienes o servicios que contrató, por sí o por conducto de terceros, para la ejecución de la obra que le hubiere sido asignada, a pesar de que se le hubieren pagado las estimaciones o finiquito.
+
 La suspensión se levantará cuando cesen las causas que la motivaron, a solicitud del interesado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 135.
 
-La Secretaría y los Municipios estarán facultados para cancelar el registro de los contratistas cuando:
+Las instituciones estarán facultados (sic) para cancelar el registro de los contratistas cuando:
 
 I. Incurran en infracciones que les sean imputables y que perjudiquen gravemente los intereses de la Contratante y así se haya determinado por resolución de autoridad competente;
 
@@ -2155,9 +2681,27 @@ Contra las resoluciones mencionadas, podrá interponerse el recurso previsto en 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 137.
 
-Las dependencias y entidades promoverán la capacitación de calidad de los concursantes, coadyuvando al efecto con las cámaras empresariales, colegios de profesionistas, instituciones educativas y especialistas en el ramo de la construcción y los servicios relacionados con las mismas.
+Las instituciones promoverán la capacitación de calidad de los concursantes, coadyuvando al efecto con las asociaciones civiles, cámaras empresariales, colegios de profesionistas, instituciones educativas debidamente acreditadas ante la secretaria de trabajo y previsión social, y especialistas en el ramo de la construcción y los servicios relacionados con las mismas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. DEL RECURSO JURISDICCIONAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 138.
+
+De las resoluciones emitidas por los órganos internos de control de las instituciones contratantes, referidas al título noveno, capitulo primero, conocerá el Tribunal de Justicia Administrativa del Estado, conforme al procedimiento especificado en su propia legislación.
+
+Los contratistas podrán elegir la presentación de este recurso sin agotar el correspondiente al título noveno capítulo primero.
 
 ## TRANSITORIOS
 
@@ -2244,3 +2788,19 @@ P.O. 26 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. La obra pública programada y autorizada a la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa para el ejercicio fiscal del año 2018 que no se hubiere licitado o adjudicado, podrá ser administrada en forma directa por la Comisión, lo que informará a la Secretaría de Administración y Finanzas para la asignación de los recursos correspondientes.
+
+P.O. 7 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 456 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente a su publicación, en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. El Poder Ejecutivo, a través de la Secretaría de Innovación incorporará, dentro de los sesenta días hábiles de haberse publicado el presente Decreto, el Estándar de Datos para la contratación abierta, para asegurar la disponibilidad de la información de manera estructurada y reutilizable, del ciclo completo de las contrataciones. De igual manera lo harán las demás instituciones en el ámbito de sus competencias.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Cuarto. Las instituciones deberán de adecuar su normativa interna, así como integrar sus comités de obra pública y servicios relacionados con las mismas en un plazo máximo de sesenta días hábiles a la entrada en vigor de este decreto.
+
+Artículo Quinto. Los órganos internos de control de las instituciones tendrán un plazo de noventa días para crear el padrón de testigos sociales en función de la cantidad de obras a ejecutarse.
+
+Artículo Sexto. Lo dispuesto en los artículos 71, fracción VII y 79, relativo al pago de los gastos por financiamiento que podrá cobrar el contratista a la contratante, entrará en vigor a partir del 1 de enero de 2021, una vez que se estipule la tasa de referencia por las prórrogas para el cobro de créditos fiscales en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa.
