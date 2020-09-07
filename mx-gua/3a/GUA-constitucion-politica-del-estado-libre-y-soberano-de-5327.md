@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2020-08-24"
+last_updated: "2020-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1367,9 +1367,9 @@ Designar a los Consejeros del Poder Judicial en los términos que establece esta
 
 Designar por el voto de las dos terceras partes de sus integrantes presentes, al titular del organismo estatal de protección de los Derechos Humanos, de conformidad con el procedimiento de consulta pública contemplado en esta Constitución y en los términos de la Ley de la materia. Así como a los integrantes del Consejo Consultivo, con la mayoría calificada antes señalada.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-Integrar la lista de candidatos a Fiscal General del Estado; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo Estatal, de conformidad con el artículo 95 de esta Constitución.
+Integrar la lista de candidatos a Fiscal General del Estado; nombrar a dicho servidor público, y formular objeción a la remoción que del mismo haga el Ejecutivo Estatal, de conformidad con el artículo 95 de esta Constitución. Aprobar la licencia de más de seis meses que solicite el Fiscal General del Estado.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1383,9 +1383,9 @@ Separar de su cargo, a solicitud del Pleno del Tribunal de Justicia Administrati
 
 Designar y en su caso, calificar las renuncias de los comisionados del organismo autónomo garante de los derechos de acceso a la información pública y de protección de datos personales.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-Designar, por el voto de las dos terceras partes de sus miembros, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado.
+Designar, por el voto de las dos terceras partes de sus miembros, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado y, aprobar las solicitudes de licencia de más de seis meses, remover y conocer de las renuncias al cargo.
 
 XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
 
@@ -1465,11 +1465,15 @@ VII.- Expeditar los trabajos pendientes al tiempo del receso y ejecutar, en los 
 
 VIII.- Conceder licencias para separarse de su cargo, al Gobernador del Estado, y a los Diputados en los términos de la Fracción XXVII del Artículo 63;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-IX.- Ratificar los nombramientos de los integrantes del Consejo Consultivo del organismo estatal de protección de los Derechos Humanos, en los términos de la Ley de la materia; y,
+IX.- Ratificar los nombramientos de los integrantes del Consejo Consultivo del organismo estatal de protección de los Derechos Humanos, en los términos de la Ley de la materia;
 
-X.- Las demás consignadas de modo expreso en esta Constitución.
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+X.- Conceder licencia para separarse del cargo al Fiscal General del Estado en los términos de la fracción XXI del artículo 63 de esta Constitución; y,
+
+XI.- Las demás consignadas de modo expreso en esta Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2003)</small>
 
@@ -2375,15 +2379,19 @@ El cobro y administración de los caudales públicos competen a la dependencia q
 
 Todo empleado que maneje caudales Públicos del Estado, de los Municipios y de los Organismos Descentralizados, caucionará suficientemente su manejo.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 102.
 
-Los Ordenamientos Fiscales señalarán la fuente de los Arbitrios y las Reglas Generales de Causación, Cobro y Recursos, en forma clara y sencilla. Estos Ordenamientos serán de estricta aplicación y no podrán extenderse a casos no exactamente previstos en los mismos.
+La legislación fiscal señalará los elementos y la naturaleza de las contribuciones, aprovechamientos y productos; así como las reglas generales de causación, cobro y recaudación de los ingresos fiscales. Son de aplicación estricta las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan infracciones y sanciones.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-La Ley de Ingresos será anual y en ella deberán consignarse solamente las tasas o valores de los conceptos del ingreso. La Ley del Presupuesto General de Egresos también será anual y deberá ser razonablemente proporcional a la estimación del ingreso, tomando en cuenta el correspondiente al año anterior.
+En la Ley de Hacienda deberán establecerse las tasas de los impuestos estatales.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+La ley de ingresos será anual y en ella deberán consignarse las tasas y tarifas de los conceptos de ingreso distintos a los impuestos. La Ley del Presupuesto General de Egresos también será anual y deberá ser congruente con la estimación del ingreso, atendiendo a lo establecido en la normativa presupuestal aplicable.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
 
@@ -4190,3 +4198,17 @@ La observancia del principio de paridad de género a que se refiere el artículo
 ###### ARTÍCULO CUARTO.
 
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 7 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 214, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 215, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo primero. El presente Decreto entrará en vigor a los treinta días hábiles siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. El Congreso del Estado deberá realizar los ajustes normativos que correspondan en un plazo de treinta días hábiles posteriores a la entrada en vigor y de conformidad con los alcances de este Decreto.
