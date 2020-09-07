@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-auditoria-superior-del-estado-de-sinaloa-60836"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2017-12-27"
+last_updated: "2020-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de abril de 2008.
 
@@ -153,9 +153,9 @@ XVI. Gestión Financiera: La actividad que las entidades fiscalizables realizan 
 
 XVII. Indemnización: Es aquella que tiene por objeto resarcir, el monto de los daños y perjuicios estimables en dinero que se hayan causado, a las haciendas públicas estatal y municipal, a los recursos que por cualquier concepto obtenga el estado y los municipios, así como al patrimonio y los recursos que por cualquier concepto obtengan los Entes Públicos Estatales y Municipales;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Informe de Avance de Gestión Financiera: El informe trimestral que de manera consolidada rinde el Gobierno del Estado, a través del Poder Ejecutivo al Congreso del Estado; así como los Entes Públicos Estatales y Municipales, sobre los avances físicos y financieros de los programas contenidos en los presupuestos;
+XVIII. Informe de Avance de Gestión Financiera: El informe trimestral que de manera consolidada rinde el Gobierno del Estado, a través del Poder Ejecutivo al Congreso del Estado; los municipios; así como los Entes Públicos Estatales y Municipales, sobre los avances físicos y financieros y de obra pública de los programas contenidos en los presupuestos;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -581,9 +581,9 @@ Sólo se podrá ampliar el plazo de presentación antes referido, cuando medie s
 
 XV. Formular y entregar, al Congreso del Estado por conducto de la Comisión de Fiscalización, los informes y resultados de las revisiones de la cuenta pública así como el informe sobre las revisiones de los estados financieros de las demás entidades fiscalizadas, dentro de los plazos establecidos en esta Ley;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XV Bis. Formular y entregar al Congreso del Estado, por conducto de la Comisión de Fiscalización, el Informe General y los Informes Individuales el día 20 de febrero del año siguiente a la presentación de la Cuenta Pública. Dichos Informes contendrán entre otros aspectos, la determinación técnica de la Auditoría Superior del Estado sobre la aprobación o no de la Cuenta Pública correspondiente. Sin que esto sea obstáculo para que el Pleno al valorar el dictamen sobre dicho Informe emita las observaciones a que haya lugar;
+XV Bis. Formular y entregar al Congreso del Estado, por conducto de la Comisión de Fiscalización, el Informe General y los Informes Individuales el día 20 de febrero del año siguiente a la presentación de la Cuenta Pública;
 
 XVI. Presentar denuncias y querellas a que haya lugar, en el caso de presuntas conductas delictivas de servidores públicos y en contra de particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños al patrimonio de las entidades fiscalizadas;
 
@@ -697,11 +697,13 @@ La Comisión de Fiscalización, en el ejercicio de sus funciones, tendrá las si
 
 I. Recibir de la Auditoría Superior del Estado como límite el 20 de febrero del año siguiente al de la presentación de la cuenta pública, el Informe General, así como los informes individuales de la revisión y Fiscalización de las cuentas públicas;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-II. Presentar al Congreso del Estado durante el segundo periodo ordinario de sesiones los dictámenes de los informes general e individuales de la cuenta pública anual del Gobierno del Estado y de los municipios, así como el Informe sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior de los Entes Públicos Estatales y Municipales, para su discusión y aprobación en su caso;
+II. Presentar al Congreso del Estado los dictámenes de los Informes General e Individuales de la cuenta pública anual del Gobierno del Estado y de los municipios, así como el Informe sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior de los Entes Públicos Estatales y Municipales, para su discusión y aprobación en su caso;
 
-III. Presentar los dictámenes correspondientes al Congreso del Estado, durante el segundo periodo ordinario de sesiones, de los resultados obtenidos de la revisión de los estados financieros anuales de las demás entidades fiscalizadas;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Presentar los dictámenes correspondientes al Congreso del Estado de los resultados obtenidos de la revisión de los estados financieros anuales de las demás entidades fiscalizadas;
 
 IV. Hacer del conocimiento del Congreso del Estado, las sanciones aplicadas por la Auditoría Superior del Estado;
 
@@ -903,6 +905,28 @@ E. Deuda pública.
 
 V. La información a que se refieren las fracciones I, II y III de este artículo organizada por Poder, dependencia y Ente Público Estatal;
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Informe físico financiero de inversión en obra pública, donde así proceda, el cual deberá contener como mínimo lo siguiente:
+
+a) Tipo de recursos: federal, estatal o municipal y programa;
+
+b) Nombre de la obra;
+
+c) Número de contrato;
+
+d) Contratista;
+
+e) Importe autorizado;
+
+f) Importe contratado;
+
+g) Porcentaje de avance físico; y
+
+h) Porcentaje de avance financiero.
+
+Los incisos e) y f) deberán considerarse incluyendo el Impuesto al Valor Agregado.
+
 La información a que se refiere este artículo deberá ser presentada de forma impresa y por medio electrónico.
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
@@ -984,6 +1008,26 @@ B. Relaciones analíticas, auxiliares de mayor y diario de pólizas;
 C. Archivo de pólizas contables; y,
 
 D. Balanza de comprobación.
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Informe físico financiero de inversión en obra pública, donde así proceda, el cual deberá contener como mínimo lo siguiente:
+
+a) Tipo de recursos: federal, estatal o municipal y programa;
+
+b) Nombre de la obra;
+
+c) Número de contrato;
+
+d) Contratista;
+
+e) Importe autorizado;
+
+f) Porcentaje de avance físico; y
+
+g) Porcentaje de avance financiero.
+
+El inciso e) deberá considerarse incluyendo el Impuesto al Valor Agregado.
 
 La información a que se refiere este artículo deberá ser presentada, de forma impresa y en medio electrónico con excepción de la prevista en el inciso C, de la fracción VI, la cual debe presentarse solo en medio electrónico.
 
@@ -1093,9 +1137,33 @@ II. El avance del cumplimiento de los programas contenidos en la estructura prog
 
 III. El estado de deuda pública;
 
-IV. Los procesos concluidos; y,
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-V. La información general que permita el análisis de resultados.
+IV. Los procesos concluidos;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+V. La información general que permita el análisis de resultados; e
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Informe físico financiero de inversión en obra pública, donde así proceda, el cual deberá contener como mínimo lo siguiente:
+
+a) Tipo de recursos: federal, estatal o municipal y programa;
+
+b) Nombre de la obra;
+
+c) Número de contrato;
+
+d) Contratista;
+
+e) Importe autorizado;
+
+f) Importe contratado;
+
+g) Porcentaje de avance financiero.
+
+Los incisos e) y f) deberán considerarse incluyendo el Impuesto al Valor Agregado.
 
 ###### Artículo 39.
 
@@ -1311,13 +1379,17 @@ En aquellos casos en que la Comisión de Fiscalización detecte errores en el In
 
 La Comisión de Fiscalización podrá formular recomendaciones a la Auditoría Superior del Estado, las cuales serán incluidas en las conclusiones sobre el Informe General.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-Artículo 54 Bis A. La Comisión de Fiscalización estudiará el Informe General y los Informes Individuales. Asimismo, someterá a votación del Pleno el dictamen correspondiente con la anticipación necesaria para que éste lo valore a más tardar el 31 de julio del año siguiente al de la presentación de la Cuenta Pública, el cual será discutido y en su caso, aprobado o rechazado.
+Artículo 54 Bis A. La Comisión de Fiscalización estudiará el Informe General y los Informes Individuales y someterá a votación del Pleno los dictámenes correspondientes a más tardar el 31 de octubre del año siguiente al de la presentación de la Cuenta Pública, los cuales serán discutidos y en su caso, aprobados o rechazados.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe General y recuperando las discusiones técnicas realizadas en la Comisión, para ello acompañará a su Dictamen, en un apartado de antecedentes, el análisis realizado por la Comisión.
 
-La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior del Estado, mismas que seguirán el procedimiento previsto en esta Ley.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+La aprobación del dictamen no suspende el trámite de las denuncias y acciones promovidas por la Auditoría Superior del Estado, mismas que seguirán los procedimientos previstos en las Leyes.
 
 ### Capítulo Cuarto. De la Contabilidad, Auditorías y Visitas de Inspección
 
@@ -1433,9 +1505,11 @@ V. Derivado de las Auditorías, en su caso y dependiendo de la relevancia de las
 
 VI. Un apartado que contenga un análisis sobre las proyecciones de las finanzas públicas contenidas en los Criterios Generales de Política Económica para el ejercicio fiscal correspondiente y los datos observados al final del mismo;
 
-VII. Acciones derivadas de la fiscalización de la cuenta pública;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. La determinación técnica de la aprobación o no de la Cuenta Pública correspondiente. Sin que esto sea obstáculo para que el Pleno al valorar el dictamen sobre dicho Informe emita las observaciones a que haya lugar; y,
+VII. Acciones, denuncias y querellas derivadas de la fiscalización de la cuenta pública;
+
+VIII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 IX. La demás información que se considere necesaria.
 
@@ -2228,3 +2302,11 @@ P.O. 27 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 484 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA”.]
+
+Primero. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. No obstante el artículo anterior, las disposiciones de este Decreto serán aplicables para que la Auditoría Superior del Estado realice la revisión, análisis, desarrollo y demás actuaciones conforme a sus atribuciones y competencias relacionadas con el Informe General y las Informes Individuales de los Poderes del Gobierno del Estado, de los Gobiernos Municipales, Organismos Autónomos, Organismos de la Administración Pública Estatal y Paraestatal, así como organismos paramunicipales, relacionadas a la Cuenta Pública del ejercicio fiscal de 2019.
