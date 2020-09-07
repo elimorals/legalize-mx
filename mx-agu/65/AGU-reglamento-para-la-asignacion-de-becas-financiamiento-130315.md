@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-la-asignacion-de-becas-financiamiento-130315"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-08-20"
-last_updated: "2019-07-08"
+last_updated: "2020-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130315&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO PARA LA ASIGNACIÓN DE BECAS, FINANCIAMIENTO EDUCATIVO Y ESTÍMULOS, DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de agosto de 2018.
 
@@ -59,7 +59,9 @@ I. Beneficiarios: Alumnos inscritos en instituciones de educación primaria, sec
 
 II. Comité: Comité Estatal de Becas y Financiamiento Educativo;
 
-III. Dirección de Becas y Financiamiento Educativo: Dirección de Becas y Financiamiento Educativo del Instituto de Educación de Aguascalientes;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Coordinación de Becas y Financiamiento Educativo: Coordinación de Becas y Financiamiento Educativo del Instituto de Educación de Aguascalientes;
 
 IV. IEA: Instituto de Educación de Aguascalientes;
 
@@ -71,13 +73,17 @@ VI. Reglamento Interior: Reglamento Interior del Instituto de Educación de Agua
 
 El lenguaje empleado en el Presente Reglamento no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 4°.
 
-La autoridad responsable de la aplicación y cumplimiento del presente Reglamento será el IEA, a través de la Dirección de Becas y Financiamiento Educativo, de acuerdo con lo señalado en la Ley de Educación del Estado de Aguascalientes, la Ley del Instituto de Educación de Aguascalientes, el Reglamento Interior, el Presupuesto de Egresos para el Ejercicio Fiscal correspondiente y demás disposiciones legales aplicables.
+La autoridad responsable de la aplicación y cumplimiento del presente Reglamento será el IEA, a través de la Coordinación de Becas y Financiamiento Educativo, de acuerdo con lo señalado en la Ley de Educación del Estado de Aguascalientes, la Ley del Instituto de Educación de Aguascalientes, el Reglamento Interior, el Presupuesto de Egresos para el Ejercicio Fiscal correspondiente y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 5°.
 
-Para efectos del presente Reglamento, la Dirección de Becas y Financiamiento Educativo, además de las atribuciones establecidas en la normatividad aplicable, tendrá las siguientes:
+Para efectos del presente Reglamento, la Coordinación de Becas y Financiamiento Educativo, además de las atribuciones establecidas en la normatividad aplicable, tendrá las siguientes:
 
 I. Aplicar y operar los programas de becas, financiamiento educativo y estímulos, en un marco de equidad, eficacia y eficiencia, atendiendo a estudiantes que requieran de apoyos destinados a lograr la permanencia en la escuela y alentando el aprendizaje y rendimiento escolar;
 
@@ -91,15 +97,17 @@ V. Atender a través de diversos Programas Especiales, las necesidades específi
 
 VI. Las demás que le confiera la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 6°.
 
-El IEA, a través de la Dirección de Becas y Financiamiento Educativo, manejara programas de becas, financiamiento educativo y estímulos, bajo los principios de equidad, sustentabilidad, transparencia y combate a la corrupción, y gobernanza y participación ciudadana, con el objeto de garantizar el cumplimiento de los objetivos planteados en la Ley de Educación del Estado de Aguascalientes, la Ley del Instituto de Educación de Aguascalientes, el Reglamento Interior, y demás disposiciones legales aplicables.
+El IEA, a través de la Coordinación de Becas y Financiamiento Educativo, manejará programas de becas, financiamiento educativo y estímulos, bajo los principios de equidad, sustentabilidad, transparencia y combate a la corrupción, y gobernanza y participación ciudadana, con el objeto de garantizar el cumplimiento de los objetivos planteados en la Ley de Educación del Estado de Aguascalientes, la Ley del Instituto de Educación de Aguascalientes, el Reglamento Interior, y demás disposiciones legales aplicables.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2019)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 7°.
 
-La Dirección de Becas y Financiamiento Educativo, deberá gestionar, supervisar y otorgar las becas, los financiamientos educativos y estímulos, en las siguientes modalidades:
+La Coordinación de Becas y Financiamiento Educativo, deberá gestionar, supervisar y otorgar las becas, los financiamientos educativos y estímulos, en las siguientes modalidades:
 
 I. Becas Académicas: aquellas que se otorgan a los estudiantes de escuelas particulares incorporadas al IEA, de conformidad con el Reglamento de Becas Académicas para el Estado de Aguascalientes;
 
@@ -115,9 +123,11 @@ V. Financiamiento Educativo: aquel destinado a estudiantes de licenciaturas y po
 
 VI. Programas Especiales: aquellos apoyos económicos eventuales, atendiendo las necesidades específicas de la población estudiantil del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 8°.
 
-La Dirección de Becas y Financiamiento Educativo contará el Comité como un órgano colegiado de consulta, cuyo objeto será opinar, evaluar y validar las convocatorias y los resultados de beneficiarios de cada uno de los programas de becas, financiamiento educativo y estímulos.
+La Coordinación de Becas y Financiamiento Educativo contará con el Comité como un órgano colegiado de consulta, cuyo objeto será opinar, evaluar y validar las convocatorias y los resultados de beneficiarios de cada uno de los programas de becas, financiamiento educativo y estímulos.
 
 ### CAPÍTULO II. Características y Requisitos
 
@@ -147,11 +157,11 @@ Los requisitos para aspirar a una Beca Académica y su procedimiento de asignaci
 
 #### Sección Segunda. Becas Compensatorias
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 12.
 
-Las Becas Compensatorias s0erán (sic) el apoyo económico que se otorga al estudiante de educación primaria, secundaria, media superior y superior con vulnerabilidad económica para que realice sus estudios, a través de la entrega del pago de una aportación económica específica.
+Las Becas Compensatorias serán el apoyo económico que se otorga al estudiante de educación primaria, secundaria, media superior y superior con vulnerabilidad económica para que realice sus estudios, a través de la entrega del pago de una aportación económica específica.
 
 ###### ARTÍCULO 13.
 
@@ -199,9 +209,11 @@ II. Los demás que establezca la convocatoria.
 
 ### CAPÍTULO V. De los Financiamientos Educativos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 18.
 
-Los Financiamientos Educativos son aquellos apoyos otorgados a estudiantes de licenciatura y postgrados, en calidad de contrato de mutuo con tasas de interés preferenciales, destinados a permitir la conclusión de estudios, garantizando con la devolución de dicho crédito el apoyo a otros estudiantes que lo requieran.
+Los Financiamientos Educativos son aquellos apoyos otorgados a estudiantes de educación de tipo superior, en calidad de contrato de mutuo con tasas de interés preferenciales, destinados a permitir la conclusión de estudios, garantizando con la devolución de dicho crédito el apoyo a otros estudiantes que lo requieran.
 
 Los financiamientos para postgrado se destinarán a alumnos que cursen programas de excelencia en México y el extranjero, para los cuales se contará con el apoyo de organismos públicos nacionales e internacionales, así como de la aportación de particulares.
 
@@ -249,17 +261,29 @@ VII. Tutor al 100.- programa dirigido para alumnos de nivel medio superior que o
 
 VIII. Apoyo a la permanencia.- programa dirigido para alumnos de nivel básico que se encuentren en condiciones de vulnerabilidad económica, que se encuentren en riesgo de abandono escolar.
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+IX. UNIVERSITARIOS AL 100.- Programa dirigido para alumnos de nivel superior que buscan continuar y finalizar sus estudios con alto desempeño académico.
+
 Lo anterior sin perjuicio de los programas piloto y los programas federales o estatales que sean puestos en marcha anualmente así como los convenios a los que sea sujeto el Estado a través del IEA.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Para el otorgamiento de los apoyos especiales a que hace referencia el presente artículo, se deberá estar a lo determinado en las "Reglas de Operación para la Aplicación de los Programas Especiales, que expida el Consejo Interior del IEA en el ejercicio fiscal correspondiente.
 
 ### CAPÍTULO VII. De las Convocatorias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 21.
 
-Para la emisión de las convocatorias, la Dirección de Becas y Financiamiento Educativo observará, por lo menos, los siguientes lineamientos:
+Para la emisión de las convocatorias, la Coordinación de Becas y Financiamiento Educativo observará, por lo menos, los siguientes lineamientos:
 
 I. Prevalecerán en todo momento los principios establecidos en el artículo 6° del presente Reglamento, garantizando el acceso a los beneficios de los programas del IEA para aquellos alumnos que cumplan con los lineamientos, bases y requisitos establecidos en la respectiva convocatoria;
 
-II. Se deberá garantizar en todo momento su adecuada difusión, a través de los principales medios de comunicación, su publicación en la página web del IEA y en las Instituciones Educativas a través de las Unidades Regionales de Servicios Educativo y de las diversas áreas del IEA; y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+II. Se deberá garantizar en todo momento su adecuada difusión, a través de los principales medios de comunicación, su publicación en la página web del IEA y en las Instituciones Educativas a través de los Sistema (sic) de Asesoría y Acompañamiento a las Escuelas y de las diversas áreas del IEA; y
 
 III. Los requisitos de las convocatorias deberán ser accesibles para los estudiantes a quienes va dirigida, con excepción de los requisitos académicos cuando sea considerado conveniente por el IEA, o en los programas de competencia destinados a reconocer la excelencia académica.
 
@@ -287,9 +311,11 @@ d) Publicación de Resultados.
 
 ### CAPÍTULO VIII. Procedimientos de Asignación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 23.
 
-El procedimiento para otorgar cualquier beca, financiamiento educativo o estímulos del IEA, a través de la Dirección de Becas y Financiamiento Educativo, será el siguiente:
+El procedimiento para otorgar cualquier beca, financiamiento educativo o estímulos del IEA, a través de la Coordinación de Becas y Financiamiento Educativo, será el siguiente:
 
 I. Publicación de la Convocatoria;
 
@@ -327,7 +353,9 @@ III. Cualquier incumplimiento al presente reglamento.
 
 Serán causales de cancelación de cualquier beca, financiamiento educativo o estímulo:
 
-I. El cambio de institución escolar, sin dar aviso por escrito a la Dirección de Becas y Financiamiento Educativo; y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. El cambio de institución escolar, sin dar aviso por escrito a la Coordinación de Becas y Financiamiento Educativo; y
 
 II. Cualquier incumplimiento al presente Reglamento.
 
@@ -341,13 +369,19 @@ El Comité se integrará por:
 
 I. Un Presidente, quien será el Titular del IEA, y en su suplencia será el Titular de la Dirección de Planeación y Evaluación del IEA;
 
-II. Un Secretario Técnico, quien será el Titular de la Dirección de Becas y Financiamiento Educativo, y en su suplencia será el Titular de la Coordinación de Vinculación Educativa y Empresarial del Instituto de Educación de Aguascalientes;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+II. Un Secretario Técnico, quien será el Titular de la Coordinación de Becas y Financiamiento Educativo, y en su suplencia la persona que éste designe.
 
 III. Cuatro Vocales, quienes serán los siguientes:
 
-a) El Titular de la Dirección de Servicios Educativos del IEA;
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-b) El Titular de la Dirección de Educación Media y Superior;
+a) El Titular de la Dirección de Educación Básica del IEA;
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+b) El Titular de la Dirección de Educación Media Superior y Superior;
 
 c) El Titular de la Subdirección de Control Escolar, Incorporación y Revalidación del IEA; y
 
@@ -361,9 +395,11 @@ Cada miembro del Comité deberá designar un suplente, los cargos serán Honorí
 
 El Comité celebrará sesiones ordinarias y extraordinarias a solicitud del Presidente del Comité.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 28.
 
-Las sesiones ordinarias serán convocadas con un mínimo de cinco días de antelación; y las sesiones extraordinarias, con un mínimo de dos días de antelación, ambas por el Secretario Técnico a propuesta del Presidente.
+Las sesiones ordinarias serán convocadas con un mínimo de cinco días hábiles de antelación y las sesiones extraordinarias, con un mínimo de dos días hábiles de antelación, ambas por el Secretario Técnico a propuesta del Presidente.
 
 Las convocatorias a las sesiones deberán contener el orden del día indicando el lugar, fecha y hora de la celebración.
 
@@ -443,11 +479,15 @@ IV. Cumplir con las comisiones que el Presidente les asigne.
 
 Con el objeto de propiciar la adecuada planeación, coordinación y efectividad en la aplicación de programas de beca, financiamiento educativo o estímulo en el Estado, se integrará el Registro Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 34.
 
-El Registro Estatal será llevado a cabo por el IEA, a través de la Dirección de Becas y Financiamiento Educativo, y tendrá las siguientes funciones:
+El Registro Estatal será llevado a cabo por el IEA, a través de la Coordinación de Becas y Financiamiento Educativo por conducto del Departamento de Procesamiento de Datos, y tendrá las siguientes funciones:
 
-I. Concentrar la información sobre los beneficiarios, a través de la Dirección de Becas y Financiamiento Educativo;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+I. Concentrar la información sobre los beneficiarios;
 
 II. Mantener actualizada la información estadística para la mejor planeación y atención de los sectores poblacionales a los que se dirigen las becas, financiamiento educativo y estímulos; y
 
@@ -492,3 +532,15 @@ P.O. 8 DE JULIO DE 2019.
 ###### ARTÍCULO PRIMERO.
 
 Las reformas al presente Reglamento entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA LA ASIGNACIÓN DE BECAS, FINANCIAMIENTO EDUCATIVO Y ESTÍMULOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las convocatorias que hayan sido publicadas con anterioridad a la entrada en vigor de la presente reforma, se regularán conforme a las disposiciones vigentes al momento de su emisión, sin embargo, toda referencia que se realice a la Dirección de Becas y Financiamiento Educativo, se entenderá a la actual Coordinación de Becas y Financiamiento Educativo.
