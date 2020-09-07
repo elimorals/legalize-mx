@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-cultural-de-aguascalientes-1087
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-22"
-last_updated: "2018-05-14"
+last_updated: "2020-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -101,17 +101,33 @@ d. Dirección de la Orquesta Sinfónica de Aguascalientes; y
 
 e. Dirección de (sic) Universidad de las Artes.
 
-III. Órganos de apoyo: Órganos de consulta, asesoría y normativos para el debido cumplimiento del objeto del Instituto, y son:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-a. Consejo Técnico de Directores; y
+III. Órganos de Apoyo: Órganos de consulta, asesoría y normativos para el debido cumplimiento del objeto del Instituto, con cargos honoríficos, los cuales son:
 
-b. Comités Técnicos.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+a. Consejo Técnico de Direcciones;
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+b. Comités Técnicos; y
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+c. Unidad de Igualdad de Género.
 
 IV. Órganos de Control y Evaluación: Son los responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
 
 a. Órgano de Vigilancia; y
 
 b. Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 4° Bis.
+
+El lenguaje empleado en el presente Estatuto Orgánico no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos, sin discriminación alguna.
 
 ## TÍTULO II. DE LA ESTRUCTURA Y ORGANIZACIÓN DEL INSTITUTO
 
@@ -333,15 +349,27 @@ XV. Expedir los nombramientos del personal adscrito al Instituto, que le corresp
 
 XVI. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación de este Instituto se realicen de acuerdo con las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. Rendir los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, ante la Junta de Gobierno, con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales; y
+XVII. Rendir los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, ante la Junta de Gobierno, con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales;
 
-XVIII. Las demás que le confiera la Junta Directiva y las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Difundir la agenda cultural de las actividades del Instituto;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Resguardar el patrimonio inmueble del Instituto que se encuentre catalogado dentro de los bienes artísticos y culturales, el cual deberá custodiar y vigilar, así como realizar todas las acciones preventivas y de restauración que resulten necesarias para su conservación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Las demás que le confiera la Junta Directiva y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-El Director General para el despacho y atención de los asuntos encomendados, contará con la estructura orgánica contenida en este estatuto, de conformidad con la disponibilidad presupuestaria y los manuales de organización.
+El Director General para el despacho y atención de los asuntos encomendados, contará con las coordinaciones de área, jefaturas de departamento y demás personal que se requiera para el cumplimiento de las atribuciones y funciones que le correspondan, de acuerdo a las necesidades del Instituto, y su capacidad presupuestaria.
 
 ### CAPÍTULO II. Estructura Orgánica
 
@@ -351,7 +379,9 @@ El Director General para el despacho y atención de los asuntos encomendados, co
 
 Todas las Direcciones de área poseerán igual jerarquía entre ellas y dependerán directamente del Director General.
 
-Al frente de cada una de las Direcciones de Área se encontrará un Director, quien se auxiliará de las coordinaciones, jefaturas de departamento y demás personal que se requiera para el cumplimiento de las atribuciones y funciones que le correspondan, de acuerdo a las necesidades del Instituto, y su capacidad presupuestaria.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+Al frente de cada una de las Direcciones de Área se encontrará un Director, quien se auxiliará de las coordinaciones de área, jefaturas de departamento y demás personal que se requiera para el cumplimiento de las atribuciones y funciones que le correspondan, de acuerdo a las necesidades del Instituto, y su capacidad presupuestaria. Las facultades de las coordinaciones de área, jefaturas de departamento, y demás puestos necesarios, quedarán descritas en los manuales de organización que al efecto se emitan.
 
 ###### Artículo 23.
 
@@ -361,11 +391,15 @@ I. Auxiliar al Director General en el ejercicio de sus funciones y atribuciones,
 
 II. Dirigir, planear, organizar, supervisar, evaluar y controlar el desempeño de las áreas a su cargo;
 
-III. Participar con voz y voto en el Consejo Técnico de Directores del Instituto;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Participar con voz y voto en el Consejo Técnico de Direcciones del Instituto;
 
 IV. Cumplir y hacer que el personal adscrito a su Dirección, cumpla la Ley de Cultura, y demás disposiciones legales y administrativas que les correspondan;
 
-V. Presentar a la Dirección General informe trimestral de actividades, avance y logro de metas de la dirección a su cargo, acompañados del ejercicio presupuestal correspondiente;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+V. Presentar a la Dirección General informe trimestral de actividades, avance y logro de metas de la Dirección a su cargo, acompañados del ejercicio presupuestal correspondiente;
 
 VI. Formular dictámenes, opiniones e informes que le sean solicitados por su superior jerárquico;
 
@@ -481,15 +515,17 @@ XVII. Establecer mecanismos y recomendaciones de carácter general para una adec
 
 XVIII. Difundir y vigilar el cumplimiento de las políticas, normas, criterios, sistemas y procedimientos en materia administrativa y presupuestal establecidos en el Instituto;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XIX.- Proporcionar a la Contraloría del Estado, así como a cualquier otro organismo que ejerza funciones de fiscalización, control y vigilancia, toda la información y documentación que le sea requerida;
+XIX. Proporcionar al Órgano Interno de Control, a la Contraloría del Estado, así como a cualquier otro organismo que ejerza funciones de fiscalización, control y vigilancia, toda la información y documentación que le sea requerida;
 
 XX. Elaborar el anteproyecto de presupuesto de egresos, propuesta de ingresos y en su caso, las justificaciones para obtener las ampliaciones presupuestales requeridas;
 
 XXI. Fiscalizar el registro correcto de los ingresos y el ejercicio del presupuesto autorizado del Instituto e informar al Director General sobre sus modificaciones presupuestales en su caso;
 
-XXII. Supervisar y autorizar las adquisiciones, servicios, asesorías, estudios y capacitaciones que sean necesarias para el Instituto;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Supervisar y autorizar las adquisiciones, arrendamientos, servicios, asesorías, estudios y capacitaciones que sean necesarias para el Instituto;
 
 XXIII. Registrar los bienes muebles e inmuebles que pertenecen al Instituto, así como sus respectivos resguardos;
 
@@ -531,11 +567,11 @@ XXVIII. Todas las demás facultades y atribuciones que le confiera este Estatuto
 
 #### SECCIÓN QUINTA. Dirección de Enseñanza Artística y Casas de la Cultura
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 32.
 
-La Dirección de Enseñanza Artística y Casas de la Cultura cumple con la función de coordinar, aplicar, supervisar y evaluar las políticas y disposiciones administrativas, académicas, de promoción cultural y capacitación a docentes para impartir la educación artística básica, en las diferentes Casas de la Cultura, Centros de Animación Cultural y Programas del Instituto, así como la administración del Programa de Culturas Populares.
+La Dirección de Enseñanza Artística y Casas de la Cultura cumple con la función de coordinar, aplicar, supervisar y evaluar las políticas y disposiciones administrativas, académicas, de promoción cultural y capacitación a docentes para impartir la educación artística básica, en las diferentes Casas de la Cultura, Centros de Enseñanza, Espacios de Animación Cultural y Programas del Instituto, así como la administración del Programa de Apoyo a las Culturas Municipales y Comunitarias (PACMyC) y la coordinación de la red de Bibliotecas Públicas en el Estado.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
 
@@ -545,45 +581,87 @@ Esta Dirección tendrá un titular denominado Director de Enseñanza Artística 
 
 I. Elaborar y proponer al Director General los planes y programas de estudio que correspondan a la educación artística básica;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-II. Impartir la enseñanza artística básica en todas sus áreas y disciplinas afines en las diferentes Casas de la Cultura, Centros de Animación Cultural y Programas del Instituto;
+II. Impartir la enseñanza artística básica en todas sus áreas y disciplinas afines en las diferentes Casas de Cultura, Centros de Enseñanza, Espacios de Animación Cultural y Programas del Instituto donde se imparta;
 
-III. Impartir la capacitación a docentes en educación artística básica, cuando sean celebrados convenios del Instituto con otras instituciones;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Impartir capacitación en educación artística básica dirigida a personal docente, cuando el Instituto celebre convenios con otras instituciones públicas y privadas, así como dependencias y entidades de la administración pública;
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
 
 IV. Proponer al Director General la plantilla docente cada ciclo escolar, para su aprobación;
 
-V. Coordinar, supervisar y evaluar la asistencia y desempeño de docentes adscritos a esta dirección;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+V. Coordinar, supervisar y evaluar la asistencia y desempeño de las Coordinaciones y personal docente adscrito a esta Dirección;
 
-VI. Organizar presentaciones artísticas de las diferentes Casas de la Cultura, Centros de Animación Cultural y Programas del Instituto en los que se ofrece educación artística básica;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Promover grupos de difusión artística básica a nivel municipal, estatal y nacional;
+VI. Organizar presentaciones artísticas de las diferentes Casas de Cultura, Centros de Enseñanza, Espacios de Animación Cultural y Programas del Instituto en los que se ofrece educación artística básica;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Coadyuvar con la Dirección de la Universidad de las Artes las actividades de Control Escolar relacionadas con educación artística básica;
+VII. Promover grupos y talleres de difusión artística básica a nivel municipal, estatal y nacional;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Coadyuvar con la Dirección de la Universidad de las Artes en las actividades y lineamientos de Control Escolar relacionadas con educación artística básica;
 
 IX. Coordinar y supervisar las actividades de Planeación Académica;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-X. Coordinar y supervisar el correcto funcionamiento acorde a las políticas, lineamientos y normatividad aplicable, de las Casas de la Cultura, Centros de Animación Cultural y Programas del Instituto donde se imparta educación artística básica;
+X. Coordinar y supervisar el correcto funcionamiento acorde a las políticas, lineamientos y normatividad aplicable, de las Casas de la Cultura, Centros de Enseñanza, Espacios de Animación Cultural y Programas del Instituto donde se imparta educación artística básica;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Coordinar el Programa de Culturas Populares; y
+XI. Coordinar el Programa de Apoyo a las Culturas Municipales y Comunitarias (PACMyC) y gestionar proyectos comunitarios para la realización de dicho programa, ejecutar la promoción de las Culturas Populares entre los municipios y fuera del Estado y llevar a cabo la implementación de estrategias en apoyo a los artesanos del Estado y sus representantes de oficios de tradición cultural;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Impartir la enseñanza artística en lo que respecta a la capacitación para el trabajo en las artes y los oficios característicos de nuestro Estado; y
+XII. Impartir la enseñanza artística en lo que respecta a la capacitación para el trabajo en las artes y los oficios característicos de nuestro Estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+XIII. Planear, organizar, coordinar y supervisar las actividades relativas a la integración y funcionamiento de la Red Estatal de Bibliotecas Públicas, las herramientas relativas al fomento a la lectura en el Estado, controlar la integración mantenimiento y actualización de colecciones bibliotecarias y sus acervos, así como gestionar, elaborar, coordinar y ejecutar sus planes y programas;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Fungir como enlace con la Red Nacional de Bibliotecas Públicas, conforme a los acuerdos que se celebren con esa instancia federal y/o con los ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Promover el acceso al libro en igualdad de condiciones para la población, por medio de estrategias para aumentar su disponibilidad y acercarlo al lector;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Promover y fomentar la adquisición de material didáctico y de lectura para personas con capacidades diferentes en centros culturales y bibliotecas;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Realizar las acciones que resulten necesarias para garantizar el acceso de los ciudadanos a las bibliotecas públicas, siendo éstas las encargadas de reforzar la promoción del fomento a la lectura, del libro y del consumo de éstos como medio de socialización;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Promover dentro de las Bibliotecas Públicas, el uso y acceso a las redes de información y a los catálogos digitales, con el objetivo de fomentar la lectura en la sociedad;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Realizar las acciones necesarias para que las Bibliotecas Públicas del Instituto provean los servicios básicos que describe la Ley de Promoción a la Lectura, el Libro y las Bibliotecas para el Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Elaborar y presentar a la Dirección General las propuestas para el Programa Estatal para la Promoción de la Lectura y el Libro;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Coordinar y supervisar el correcto funcionamiento del Centro de Idiomas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue la Dirección General, o la Junta Directiva.
 
 #### SECCIÓN SEXTA. Dirección de Promoción y Difusión
 
@@ -603,9 +681,13 @@ II. Producir, distribuir y comercializar los productos y servicios artísticos y
 
 III. Ser responsable de los teatros y otros espacios culturales del Instituto que le sean designados por el Director General;
 
-IV. Integrar y difundir la agenda cultural de las actividades propuestas por las direcciones de área del Instituto, y aprobadas por el Director General;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-V. Programar, producir, organizar, ejecutar y supervisar las actividades artísticas y culturales o cualquier otra acción de promoción cultural, principalmente el Programa Cultural de la Feria Nacional de San Marcos y Festival de Calaveras;
+IV. Integrar la agenda cultural de las actividades propuestas por las direcciones de área del Instituto, y aprobadas por el Director General;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+V. Programar, producir, organizar, ejecutar y supervisar las actividades artísticas y culturales o cualquier otra acción de promoción cultural, principalmente el Programa Cultural de la Feria Nacional de San Marcos, Festival Cultural de Calaveras, Caravanas Culturales, entre otros;
 
 VI. Promover la generación de esquemas de difusión de las actividades del Instituto;
 
@@ -615,7 +697,9 @@ VIII. Registrar la iniciativa de personas y grupos, a efecto de promover y difun
 
 IX. Promover la exportación e importación de eventos y productos culturales en el Instituto;
 
-X. Coordinar y promover los grupos de difusión cultural pertenecientes al Instituto; y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+X. Coordinar y promover los grupos de difusión cultural del Estado de Aguascalientes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2018)</small>
 
@@ -633,17 +717,11 @@ XIII. Proponer al Director General las estrategias para acercar al público a lo
 
 XIV. Coordinar el Programa de Desarrollo Cultural para la Atención a Públicos Específicos; Programa de Desarrollo Cultural para la Juventud; y Fondo Especial para el Desarrollo Cultural Infantil-Alas y Raíces;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+XV. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-XV. Coordinar las actividades de los servicios educativos de los museos y galerías del Instituto;
+XVI. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XVI. Registrar la iniciativa de personas y grupos a efecto de promover y difundir sus actividades en el medio cultural;
-
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XVII. Resguardar el patrimonio del Instituto que se encuentre catalogado dentro de los bienes artísticos y culturales, el cual deberá custodiar y vigilar, así como realizar todas las acciones preventivas y de restauración que resulten necesarias para su conservación;
+XVII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
 
@@ -681,9 +759,7 @@ XXV. Promover la exportación e importación de libros, revistas, folletos, medi
 
 XXVI. Exhibir y promover las obras que edite, publique y distribuya el Instituto en exposiciones, ferias y actos especiales, con la finalidad de lograr su oportuna y eficiente difusión;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XXVII. Coordinar y supervisar la Red Estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas, conforme a los acuerdos que se celebren con esa instancia federal y/o con los ayuntamientos;
+XXVII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
 
@@ -701,17 +777,13 @@ XXX. Dirigir las revistas oficiales del Instituto;
 
 XXXI. Registrar, enriquecer y preservar el acervo bibliográfico del Instituto, así como promover su difusión;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+XXXII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-XXXII. En conjunto con el Director General, establecer políticas y actividades anuales del Fondo Especial del Fomento a la Lectura, así como supervisar su correcto funcionamiento;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+XXXIII. Representar a Aguascalientes en el programa editorial, artístico, académico y de formación de la Región Centro Occidente;
 
-XXXIII. Representar a Aguascalientes en el programa editorial de la Región Centro Occidente;
-
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XXXIV. Promover el acceso al libro en igualdad de condiciones para la población, por medio de estrategias para aumentar su disponibilidad y acercarlo al lector;
+XXXIV. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
 
@@ -721,41 +793,27 @@ XXXV. Promover la participación social y de los sectores público y privado en 
 
 XXXVI. Establecer vínculos estatales con las ferias nacionales e internacionales relacionadas con el libro;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+XXXVII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-XXXVII. Fomentar campañas de difusión y divulgación de los autores aguascalentenses al promover su trabajo intelectual y la vocación de escribir;
-
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XXXVIII. Llevar a cabo acciones de coordinación con las organizaciones de padres de familia, las instituciones públicas, privadas y sociales, los organismos culturales, los clubes de lectura privados, los círculos literarios, los gremios de intelectuales y con cualquier otra organización de la sociedad civil que contribuya a elevar el nivel cultural y de lectura de los aguascalentenses;
+XXXVIII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
 
 XXXIX. De forma conjunta con el Director General, deberá coordinar sus acciones de trabajo y promoción con las instituciones del Gobierno Federal y gobiernos municipales responsables de la aplicación de las políticas, programas y acciones de la promoción de la lectura y el libro para el mejoramiento de los niveles de lectura en el Estado;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XL. Realizar las acciones que resulten necesarias para garantizar a la población el ejercicio real del derecho de acceso al libro y la lectura;
+XL. Realizar las acciones que resulten necesarias para garantizar a la población el ejercicio real del derecho de acceso al libro; y
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+XLI. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-XLI. Promover y fomentar la adquisición de material didáctico y de lectura para personas con capacidades diferentes en centros culturales y bibliotecas;
+XLII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
+XLIII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-XLII. Realizar las acciones que resulten necesarias para garantizar el acceso de los ciudadanos a las bibliotecas públicas, siendo éstas las encargadas de reforzar la promoción del fomento a la lectura, del libro y del consumo de éstos como medio de socialización;
+XLIV. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XLIII. Promover dentro de las Bibliotecas Públicas, el uso y acceso a las redes de información y a los catálogos digitales, con el objetivo de fomentar la lectura en la sociedad;
-
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XLIV. Realizar las acciones necesarias para que las Bibliotecas Públicas del Instituto provean los servicios básicos que describe la Ley de Promoción a la Lectura, el Libro y las Bibliotecas para el Estado de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XLV. Elaborar y presentar al Director General las propuestas para el programa Estatal para la Promoción de la Lectura y el Libro; y
+XLV. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ENERO DE 2018)</small>
 
@@ -811,7 +869,9 @@ La Dirección de la Orquesta Sinfónica, contará con un Gerente, quien será su
 
 La Universidad de las Artes, es la unidad dentro de la estructura interna del Instituto encargada de la formación de especialistas en el campo de las artes, la cual deberá ajustarse a las disposiciones normativas contenidas en la Ley de Cultura y las emanadas de la Junta Directiva del Instituto.
 
-El funcionamiento docente, técnico y administrativo de la Universidad de las Artes, será autónomo y por tanto la comunidad de profesores y estudiantes que la constituyen tendrá su propia organización interior, de conformidad con las políticas y normatividad emanadas de la Junta Directiva.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+El funcionamiento docente, técnico y administrativo de la Universidad de las Artes, será autónomo y por tanto la comunidad de profesores y estudiantes que la constituyen tendrá su propia organización interior.
 
 ###### Artículo 40.
 
@@ -827,25 +887,33 @@ Además de lo anterior, la Dirección de la Universidad es la responsable de lle
 
 La Dirección tendrá un titular denominado Director de Universidad de las Artes, quien además de las facultades generales a que se refiere este Estatuto Orgánico, tendrá como atribuciones y obligaciones las siguientes:
 
-I. Impartir la enseñanza artística media y superior en todas sus áreas y disciplinas afines;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+I. Impartir la enseñanza artística técnica y superior en todas sus áreas y disciplinas afines;
 
-II. Impartir talleres de iniciación artística que representen una antesala para la formación profesional, así como difundir las distintas manifestaciones artísticas a través de programas de extensión universitaria, por medio de la totalidad de actividades académicas de la Escuela de Danza "Georges Berard" y el Centro de Estudios Musicales "Manuel M. Ponce" del Instituto;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-III. Participar con voz y voto en las reuniones de los Consejos Técnicos Académicos de las carreras;
+II. Impartir talleres de iniciación artística, talleres de educación continua, y talleres disciplinares que representen una antesala para la formación profesional, así como difundir las distintas manifestaciones artísticas a través de programas de extensión universitaria, por medio de la totalidad de actividades académicas de la Escuela de Danza "Georges Berard", el Centro de Estudios Musicales "Manuel M. Ponce" del Instituto, y el Centro de Investigación y Estudios Literarios de Aguascalientes;
 
-IV. Coordinar, supervisar y evaluar la asistencia y desempeño de docentes adscritos a esta dirección;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+III. Participar con voz y voto en las reuniones de los Consejos Técnicos Académicos de los programas de estudio;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Coordinar, supervisar y evaluar la asistencia y desempeño del personal docente adscrito a esta dirección;
 
 V. Promover la gestión de recursos económicos para beneficio de la Universidad de las Artes;
 
 VI. Vincular a la Universidad de las Artes con la sociedad y organismos de educación artística a nivel estatal, nacional e internacional;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Promover la investigación de las distintas disciplinas artísticas que se imparten en la Universidad de las Artes, con el objeto de actualizar e innovar la educación artística técnica y profesional;
+VII. Promover la investigación de las distintas disciplinas artísticas que se imparten en la Universidad de las Artes, con el objeto de actualizar e innovar la educación artística técnica y profesional, y generar conocimiento sobre los fenómenos artísticos;
 
-VIII. Promover la nivelación académica de alumnos y docentes de la Universidad de las Artes;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Promover y, en su caso, realizar la nivelación académica de alumnos y docentes de la Universidad de las Artes;
 
 IX. Impulsar y promover la creación y desarrollo de industrias culturales;
 
@@ -853,43 +921,67 @@ X. Promover la formación humanista en la impartición de los programas académi
 
 XI. Planear los programas de difusión de la Universidad de las Artes, para participar en eventos de orientación vocacional a nivel estatal y nacional;
 
-XII. Gestionar la creación de nuevos programas académicos a nivel técnico, licenciatura y postgrado;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XII. Gestionar la creación de nuevos programas académicos a nivel de iniciación artística, técnico, superior y postgrado;
 
-XIII. Crear programas académicos extracurriculares, como diplomados, cursos, talleres, entre otros;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+XIII. Promover la creación de programas académicos extracurriculares, como diplomados, cursos, talleres, entre otros;
 
-XIV. Coordinar y supervisar las actividades de Control Escolar relacionados con educación artística básica, media y superior, con la coadyuvancia de la Dirección de Educación Artística Básica;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XIV. Coordinar y supervisar las actividades de Control Escolar relacionados con educación artística básica, media y superior, con el apoyo de la Dirección de Enseñanza y Casas de la Cultura;
 
-XV. Vincularse con el Museo Espacio, por medio de la Dirección de Museos y Galerías, para promover el desarrollo de investigaciones teóricas, técnicas y operativas en torno al propio museo, las colecciones que resguarda y sus curadurías e interpretaciones, así como a las exposiciones temporales;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XV. Vincularse con las Direcciones de Área para promover el desarrollo de investigaciones teóricas, técnicas y operativas, así como para promover la enseñanza profesional de las diversas disciplinas artísticas;
 
-XVI. Vincularse con el Taller Nacional de Gráfica para promover la enseñanza del grabado en el nivel profesional; y
+XVI. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. Coordinar y supervisar el correcto funcionamiento del Centro de Investigación y Estudios Literarios de Aguascalientes "Fraguas"; y
+XVII. Coordinar y supervisar el correcto funcionamiento del Centro de Investigación y Estudios Literarios de Aguascalientes "Fraguas";
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE ENERO DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+XVIII. Coordinar y supervisar el correcto funcionamiento del Centro de Estudio Musicales Manuel M. Ponce;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Coordinar y supervisar el correcto funcionamiento de la Biblioteca Centenario Bicentenario;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XX. En conjunto con el Director General, establecer políticas y actividades anuales del Fondo Especial del Fomento a la Lectura, así como supervisar su correcto funcionamiento;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Llevar a cabo acciones de coordinación con las organizaciones de la sociedad civil que contribuyan a elevar el nivel cultural y de lectura de la población aguascalentense;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. De forma conjunta con el Director General, deberá coordinar sus acciones de trabajo y promoción con las entidades y dependencias del Gobierno Federal y gobiernos municipales responsables de la aplicación de las políticas, programas y acciones de la promoción de la lectura para el mejoramiento de los niveles de lectura en el Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Realizar las acciones que resulten necesarias para garantizar a la población el ejercicio real del derecho de acceso a la lectura; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 42.
 
 El Gobierno de la Universidad de las Artes será desempeñado por las siguientes autoridades:
 
-I. Junta Directiva;
+I. La Dirección General del Instituto;
 
-II. El Director General;
+II. La Dirección de la Universidad de las Artes; y
 
-III. El Director de la Universidad de las Artes; y
-
-IV. Los Consejos Técnicos de cada una de las carreras que se impartan.
+III. Los Consejos Técnicos Académicos de los programas académicos que se impartan.
 
 ###### Artículo 43.
 
@@ -947,15 +1039,21 @@ El nombramiento como Encargado de Despacho durará hasta que se designe en forma
 
 ### CAPÍTULO IV. Órganos de Apoyo del Instituto
 
-#### SECCIÓN PRIMERA. Consejo Técnico de Directores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+#### SECCIÓN PRIMERA. Consejo Técnico de Direcciones
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 51.
 
-El Consejo Técnico de Directores es un órgano de apoyo y asesoría, que será integrado por todos los Directores de Área y presidido por el Director General del Instituto, el cual sesionará cada vez que lo convoque el Director General.
+El Consejo Técnico de Direcciones es un órgano de apoyo y asesoría, que será integrado por las personas Titulares de las Direcciones de Área y presidido por el Director General del Instituto, el cual sesionará cada vez que lo convoque el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 52.
 
-Son funciones del Consejo Técnico de Directores:
+Son funciones del Consejo Técnico de Direcciones:
 
 I. Integrar el plan general anual de actividades, con base en las propuestas de los directores de área;
 
@@ -976,6 +1074,62 @@ La Junta Directiva, a propuesta de su Presidente o cuando menos de la tercera pa
 ###### Artículo 54.
 
 A su vez las Direcciones de área podrán apoyarse en los Comités Técnicos relacionados con sus atribuciones, mismos que se conformarán por miembros del propio Instituto, y en su caso con miembros de la ciudadanía cuando así se considere necesario, siempre que la Junta Directiva autorice su constitución.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+#### SECCIÓN TERCERA. Unidad de Igualdad de Género
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 54 Bis.
+
+La Unidad de Igualdad de Género es un órgano de apoyo y asesoría técnica, el cual tiene a su cargo el fortalecimiento de la igualdad entre mujeres y hombres, la no discriminación y la inclusión mediante la implementación de la transversalidad de la perspectiva de género en los procesos, procedimientos y quehacer institucional, que se refleje en el cambio de la cultura laboral y organizacional del Instituto.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 54 Ter.
+
+Las facultades y obligaciones de la Unidad de Igualdad de Género serán las siguientes:
+
+I. Promover la incorporación de la perspectiva de género en la planeación, programación, ejecución y evaluación de programas, proyectos, normas, acciones y políticas públicas del Instituto de manera transversal;
+
+II. Proponer y participar en la definición de acciones con instituciones públicas y privadas orientadas a la igualdad sustantiva;
+
+III. Promover que la generación, sistematización y difusión de información se lleve a cabo con perspectiva de género;
+
+IV. Proponer e implementar, el diseño de esquemas de capacitación, actualización y especialización en las materias relacionadas con el objeto de la Unidad de Igualdad de Género;
+
+V. Participar en reuniones, comités y demás eventos realizados por el Instituto, en el ámbito de su competencia;
+
+VI. Promover la celebración de acuerdos, bases y mecanismos de coordinación y concertación con instituciones públicas, privadas y organizaciones de la sociedad, que faciliten alcanzar las metas institucionales en materia de igualdad de género;
+
+VII. Fungir como órgano de consulta y asesoría del Instituto en materia de perspectiva de género; y
+
+Las demás que le correspondan de conformidad con los Programas y disposiciones legales aplicables y las que le encomiende la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 54 Quáter.
+
+La Unidad de Igualdad de Género se integrará de la siguiente manera:
+
+I. Dos representantes de la Dirección General;
+
+II. Dos representante de cada una de las Direcciones de Área; y
+
+III. Dos representantes del Sindicato de Trabajadores (as) del Instituto.
+
+La designación de cada uno de los miembros la hará el Titular de la Dirección a la que pertenezcan, y para el caso del Sindicato, quien se desempeñe como Titular de la Secretaría General.
+
+El Director General designará de entre los miembros de la Unidad a un enlace en materia de igualdad de género, quien será el vínculo con otras instituciones en temas de esta materia, y quien será la persona encargada de presidir la Unidad.
+
+La duración en el cargo será de tres años, y podrán ser ratificados por otros tres años.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 54 Quinquies.
+
+Para el ejercicio de sus funciones, la Unidad de Igualdad de Género podrá crear los comités especializados que considere necesarios para el cumplimiento de las facultades y obligaciones enumeradas en el artículo anterior.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -1272,3 +1426,19 @@ El Instituto Cultural de Aguascalientes deberá hacer las modificaciones corresp
 ###### ARTÍCULO CUARTO.
 
 Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta Directiva deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días de su publicación.
+
+P.O. 7 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS, DEROGACIONES Y ADICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas, Derogaciones y Adiciones al Estatuto Orgánico del Instituto Cultural de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el en el (sic) Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente Estatuto Orgánico.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye al Director General llevar a cabo las acciones necesarias para la inscripción de las presentes Reformas, Derogaciones y Adiciones al Estatuto Orgánico del Instituto Cultural de Aguascalientes, ante el Registro Público de Entidades Paraestatales respectivo del Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes.
