@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2020-08-24"
+last_updated: "2020-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -398,6 +398,12 @@ Las medidas referidas en el Artículo 23 de esta Ley, podrán ser implementadas 
 ###### Artículo 25.
 
 Cualquier municipio podrá solicitar a la Secretaría General de Gobierno, la emisión de la declaratoria de alerta de violencia de género a fin de que se adopten las medidas y acciones preventivas de seguridad y justicia que procedan, haciendo del conocimiento público el motivo de la alerta de violencia de género y la zona territorial que abarcan las medidas a ejecutar.
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 25 Bis.
+
+Los municipios declarados en Alerta de Violencia de Género contra las Mujeres, deberán instalar comisiones transitorias para Combatir y Erradicar la Violencia Vinculada a los Feminicidios y la Desaparición, a fin de contribuir de manera progresiva al diseño, análisis, implementación, seguimiento y evaluación de las acciones y medidas que realice el Ayuntamiento en la materia, así como de los protocolos de actuación, la aplicación de recursos y la capacitación de servidores públicos que intervengan en la realización de acciones vinculadas a la prevención, combate y erradicación de los feminicidios y la desaparición de mujeres.
 
 ###### Artículo 26.
 
@@ -1802,3 +1808,13 @@ G.G. 24 DE AGOSTO DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 7 DE SEPTIEMBRE DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 184.- POR EL QUE SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los municipios declarados en Alerta de Violencia de Género contra las Mujeres, deberán instalar las comisiones transitorias a que se refiere este Decreto, en un plazo no mayor a sesenta días naturales a partir de su publicación.
