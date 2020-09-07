@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-etica-de-los-servidores-publicos-del-gobierno-del-121
 country: "mx"
 rank: "codigo"
 publication_date: "2017-04-10"
-last_updated: "2019-11-13"
+last_updated: "2020-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL GOBIERNO DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Sinaloa, el lunes 10 de abril de 2017.
 
@@ -804,3 +804,23 @@ ATENTAMENTE
 C.P. María Guadalupe Yan Rubio.
 
 Secretaria de Transparencia y Rendición de Cuentas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO DEL ESTADO DE SINALOA".]
+
+Primero. El presente Código de Ética entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. Se abroga el Acuerdo por el que se emitió el Código de Ética de los servidores públicos del Gobierno del Estado de Sinaloa, las Reglas de Integridad para el ejercicio del servicio público, y los Lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan su comportamiento ético, publicado en el Periódico Oficial "El Estado de Sinaloa" el día 10 de abril de 2017.
+
+Tercero. Los Comités de Ética y de Prevención de Conflicto de Interés de las dependencias y entidades, que se encuentren integrados a la fecha de entrada en vigor del presente Código de Ética, prevalecerán en los términos jurídicos que le sirvieron de base para su creación y publicación.
+
+Cuarto. Las dependencias y entidades, que a la fecha de entrada en vigor del presente Código de Ética, no hubieran integrado el Comité de Ética correspondiente, deberán integrarlo en un plazo no mayor a (sic) de treinta días hábiles contados (sic) partir de la entrada en vigor del presente Código de Ética.
+
+Quinto. Los Códigos de Conducta que se encuentren emitidos por cada uno (sic) de las dependencias o entidades, a la fecha de publicación del presente Código de Ética, deberán homologarse a la estructura y contenido de este Código de Ética, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Código de Ética.
+
+Sexto. Las dependencias y entidades, que a la fecha de entrada en vigor del presente Código de Ética, no hubiera elaborado su Código de Conducta, deberán realizarlo en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Código de Ética.
+
+Séptimo. La Secretaría publicará en su página en Internet, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Código de Ética, la relación de dependencias y entidades que cuentan con Comité de Ética y de Prevención de Conflictos de Interés, así como con Código de Conducta.
