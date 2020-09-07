@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2020-07-22"
+last_updated: "2020-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -867,7 +867,9 @@ k) Organizar y promover la producción artesanal y la industria familiar;
 
 l) Organizar y promover conjuntamente con los sectores productivos congresos, seminarios y otros eventos sobre desarrollo económico sustentable, así como la celebración de exposiciones y ferias de carácter comercial, industrial y artesanal;
 
-m) (DEROGADO, P.O. 18 DE MAYO DE 2007)
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+m) Coordinar las acciones de mejora regulatoria en la Administración Pública Estatal y ejecutar la política nacional en lo que le corresponda;
 
 n) Atraer inversiones estatales, nacionales y extranjeras, de acuerdo con los Planes Estatal y Municipales de Desarrollo y organizar los consejos consultivos para la atracción de las mismas;
 
@@ -1175,7 +1177,9 @@ c) Procurar y en su caso promover el resarcimiento de los daños y perjuicios a 
 
 V. En materia de vinculación ciudadana:
 
-a) Promover la calidad en la prestación de los servicios a la población por parte de las dependencias y entidades de la Administración Pública Estatal; incluyendo su mejora regulatoria y simplificación que represente menores costos, requisitos y tiempos para los usuarios de los mismos;
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+
+a) Promover la calidad en la prestación de los servicios a la población por parte de las dependencias y entidades de la Administración Pública Estatal;
 
 b) Difundir los valores que deben distinguir a los servidores públicos en su función, y fomentar su conducta ética;
 
@@ -2258,3 +2262,17 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 217, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. La Secretaría de la Transparencia y Rendición de Cuentas transferirá a la Secretaría de Desarrollo Económico Sustentable, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de mejora regulatoria, a través del proceso de entrega-recepción respectiva (sic).
+
+Para los efectos de lo dispuesto en el párrafo anterior, las Secretarías de la Transparencia y Rendición de Cuentas y de Desarrollo Económico Sustentable, acordarán la transferencia gradual y progresiva de la plataforma, sistemas, programas y elementos informáticos con los que la primera de las mencionadas ejerce las atribuciones en materia de mejora regulatoria hasta la fecha de entrada en vigencia del presente Decreto, sin que exceda del plazo de seis meses a partir del inicio del proceso de entrega recepción a la Secretaría de Desarrollo Económico Sustentable.
+
+El personal de la Secretaría de la Transparencia y Rendición de Cuentas, responsable de la competencia en materia de mejora regulatoria conforme a su estatus laboral pasará a integrarse a la Secretaría de Desarrollo Económico Sustentable.
+
+Artículo Tercero. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
