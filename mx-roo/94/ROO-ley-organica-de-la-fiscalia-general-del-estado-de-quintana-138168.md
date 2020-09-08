@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-general-del-estado-de-quintana-1381
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-09-13"
-last_updated: "2019-09-13"
+last_updated: "2020-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 13 de septiembre de 2019.
 
@@ -51,9 +51,11 @@ La presente Ley es de orden público e interés general y tiene por objeto estab
 
 La Fiscalía General del Estado de Quintana Roo, tendrá como fines la investigación de los delitos y el esclarecimiento de los hechos; otorgar una procuración de justicia eficaz, efectiva, apegada a derecho, proteger al inocente, procurar que el culpable no quede impune, así como proveer, proteger, respetar y garantizar los derechos de verdad, reparación integral y de no repetición de las víctimas, ofendidos en particular y de la sociedad en general.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-En el ejercicio de sus atribuciones, los servidores públicos de la Fiscalía General del Estado de Quintana Roo, deberán promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad y demás que se dispongan en la normatividad aplicable.
+En el ejercicio de sus atribuciones, las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo, deberán promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad, paridad, igualdad y demás que se dispongan en la normatividad aplicable.
 
 ###### Artículo 4.
 
@@ -113,9 +115,11 @@ Esta Ley se aplicará para los delitos del orden común y de competencia concurr
 
 Las disposiciones de esta Ley son obligatorias para el personal sustantivo de la Fiscalía General, sus auxiliares, apoyos jurídicos, administrativos y técnicos, mismas que deberán ser observadas en cuanto a los deberes que impongan y facultades que concedan.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-La presente Ley deberá aplicarse e interpretarse de conformidad con los principios rectores consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en los que México sea parte en materia de Derechos Humanos, la Constitución Estatal, la perspectiva de género y los principios generales del derecho.
+La presente Ley deberá aplicarse e interpretarse de conformidad con los principios rectores consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en los que México sea parte en materia de Derechos Humanos, la Constitución Estatal, la perspectiva de género y los principios de igualdad, paridad, equidad y generales del derecho.
 
 ###### Artículo 10.
 
@@ -175,7 +179,9 @@ XVIII. Solicitar a la autoridad judicial la imposición de las penas o medidas d
 
 XIX. Interponer los recursos legales que procedan, formulando los agravios o alegatos correspondientes para la substanciación de los mismos, así como intervenir en las audiencias de modificación y duración de las penas;
 
-XX. Otorgar las medidas de protección previstas en los ordenamientos aplicables, cuando de acuerdo a las mismas resulte legalmente procedente;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Otorgar las órdenes y medidas de protección previstas en los ordenamientos aplicables, cuando de acuerdo a las mismas resulte legalmente procedente, tomando en cuenta la evaluación de riesgos para la protección de las personas ofendidas, víctimas, testigos y demás sujetos procesales, en los casos que existan amenazas o riesgos a sus (sic) integridad o vida;
 
 XXI. Ordenar la detención de los imputados cuando resulte procedente y poner a las personas detenidas a disposición de la autoridad competente, en los términos previstos por las leyes;
 
@@ -185,7 +191,9 @@ XXIII. Solicitar las órdenes de cateo, aprehensión, comparecencia o de medidas
 
 XXIV. Coordinarse con las autoridades competentes para formar equipos conjuntos de recopilación de información e investigación, cuando las actividades delictivas se realicen en todo o en parte, fuera del territorio estatal o se les atribuya a personas ligadas a una organización de carácter regional, nacional, o internacional, de conformidad con los convenios de colaboración existentes y/o los acuerdos de investigación conjunta que apruebe el Fiscal General;
 
-XXV. Solicitar las medidas cautelares aplicables al imputado en el proceso penal, en atención a las disposiciones legales conducentes, al riesgo o peligro para la víctima u ofendido, testigo o para evitar la obstaculización del procedimiento;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Solicitar las medidas cautelares aplicables al imputado en el proceso penal, en atención a las disposiciones legales conducentes, tomando en cuenta el análisis de riesgo en relación con el peligro para la víctima u ofendido, testigo o para evitar la obstaculización del procedimiento;
 
 XXVI. Hacer valer de oficio en su caso, las causas de justificación del delito y de exculpación a favor del imputado;
 
@@ -199,7 +207,25 @@ XXX. Vigilar la correcta aplicación de la ley en todos los casos que conozca; e
 
 XXXI. Determinar el destino final de los objetos, instrumentos o productos del delito que se encuentren a su disposición, en los términos de lo dispuesto en la presente ley y las demás disposiciones legales aplicables, y
 
-XXXII. Las demás que le confieran las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. Coordinar y colaborar con entidades gubernamentales y no gubernamentales, nacionales e internacionales, para la implementación de los esquemas de seguridad de víctimas, testigos y demás sujetos procesales;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Crear la Base Estadística Estatal de Violencia Política contra las Mujeres en razón de Género;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV. Proporcionar a las víctimas orientación y asesoría para su eficaz atención, y otorgar las medidas y órdenes de protección de emergencia y preventiva, de conformidad con esta Ley, la Ley Orgánica de la Fiscalía General del Estado, su Reglamento y los demás ordenamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Recibir las denuncias de la violencia política contra las mujeres y realizar los actos de investigación correspondientes, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. Las demás que le confieran las disposiciones legales aplicables.
 
 B. EN EJERCICIO DE LA PROCURACIÓN DE JUSTICIA:
 
@@ -245,11 +271,25 @@ IX. Resolver sobre la responsabilidad e imposición de sanciones del personal de
 
 X. Velar por el respeto de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano y en la Constitución Política del Estado Libre y Soberano de Quintana Roo, en la esfera de su competencia. En el ejercicio de esta atribución, la Fiscalía General deberá:
 
-a. Fomentar entre los servidores públicos una cultura de respeto a los derechos humanos;
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+a. Fomentar entre los servidores públicos una cultura de respeto a los derechos humanos y género;
 
 b. Atender las visitas, quejas, y en su caso propuestas de conciliación y recomendaciones que emitan las Comisiones Nacional y Estatal de los Derechos Humanos, así como otros organismos internacionales de protección de esos derechos, cuya competencia haya sido reconocida por el Estado Mexicano, conforme a las disposiciones legales aplicables, y
 
 c. Proporcionar información a las Comisiones Nacional y Estatal de los Derechos Humanos, cuando lo soliciten en el ejercicio de sus funciones y en los términos de las disposiciones legales aplicables sobre dicha información.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+d. Perspectiva de género para la debida diligencia en la conducción de investigación del delito y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+e. Incorporación de la perspectiva de género en los servicios periciales;
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+f. Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
 XI. Promover la celebración de acuerdos interinstitucionales en asuntos relacionados con sus atribuciones;
 
@@ -433,9 +473,19 @@ XXIX. Desarrollar las actividades específicas que se le asignen como integrante
 
 XXX. Aprobar el Plan de Persecución Penal, por el que se establezcan las directrices principales de la política criminal de la Fiscalía General;
 
-XXXI. Expedir el Reglamento Interior de la Fiscalía Especializada en Combate a la Corrupción, que le sea presentado por esta Fiscalía Especializada y solicitar su publicación en el Periódico Oficial del Estado de Quintana Roo, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XXXII. Las demás que le confieran el Reglamento Interior y las disposiciones legales aplicables.
+XXXI. Expedir el Reglamento Interior de la Fiscalía Especializada en Combate a la Corrupción, que le sea presentado por esta Fiscalía Especializada y solicitar su publicación en el Periódico Oficial del Estado de Quintana Roo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. Podrá crear comisiones especiales, de carácter temporal, que gozarán de autonomía técnica y de gestión, para colaborar en las investigaciones de fenómenos y delitos que debido a su contexto, a juicio del fiscal, amerite su creación, incluyendo aquellos sobre feminicidios, violencia sexual, violencia política contra las mujeres en razón de género, trata de personas, o que impliquen violaciones a derechos humanos, en especial de los pueblos y las comunidades indígenas, de las niñas, niños, adolescentes y personas migrantes.
+
+Las Comisiones Especiales tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición. Serán integradas, de manera multidisciplinaria, por personas expertas de reconocida experiencia, tanto nacionales o internacionales en las materias que se requieran, organismos internacionales, organismos de la sociedad civil, universidades públicas y privadas y colectivos de víctimas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Las demás que le confieran el Reglamento Interior y las disposiciones legales aplicables.
 
 ###### Artículo 17.
 
@@ -811,6 +861,10 @@ l. Tratar con respeto a la víctima u ofendido, con relación a su integridad y 
 
 m. Proteger la identidad de la víctima y la de su familia;
 
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+n. Determinar la orden o medida de protección necesaria de acuerdo con los protocolos y legislación aplicables y canalizar a la víctima en forma inmediata para su atención médica psicológica y jurídica.
+
 Las Fiscalías Especializadas, conocerán de los asuntos que se establezcan en el Reglamento Interior, en la normatividad aplicable y la que establezca el Fiscal General.
 
 ###### Artículo 28.
@@ -1121,7 +1175,9 @@ XII. Entrevistar a todas las personas que puedan aportar datos para la investiga
 
 XIII. Solicitar tanto a las personas físicas como morales, así como a cualquier institución pública o privada, los informes y documentos que resulten necesarios para la adecuada investigación de los hechos probablemente delictivos;
 
-XIV. Ejecutar las medidas de protección y vigilancia ordenadas por el Fiscal del Ministerio Público o la autoridad competente, a favor de las víctimas u ofendidos, testigos y demás sujetos procesales, en los términos de los ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Ejecutar de inmediato las ordenes o medidas de protección y vigilancia ordenadas por el Fiscal del Ministerio Público o la autoridad competente, a favor de las víctimas u ofendidos, testigos y demás sujetos procesales, en los términos de los ordenamientos aplicables;
 
 XV. Emitir oportunamente al Fiscal del Ministerio Público los informes, registros de investigación, partes policiales y demás documentos relacionados con la investigación de los delitos;
 
@@ -1185,9 +1241,17 @@ XI. Participar cuando sea requerido para ello, en las audiencias y juicios de lo
 
 XII. Proponer la adquisición de equipo, instrumentos y materiales necesarios para el buen funcionamiento de los laboratorios y áreas de la Dirección General, así como el mantenimiento preventivo y correctivo de los equipos e instrumentos;
 
-XIII. Actuar con pleno respeto a los derechos humanos en los actos que intervengan con motivo de sus funciones, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Las demás que le confieran las disposiciones legales aplicables, el Reglamento Interior y las que le encomiende el Fiscal General.
+XIII. Actuar con pleno respeto a los derechos humanos en los actos que intervengan con motivo de sus funciones;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Elaborar los Análisis de Evaluación de riesgos que permitan la protección de las personas ofendidas, víctimas, testigos y demás sujetos procesales, en los casos que existan amenazas o riesgos a su integridad o vida, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Las demás que le confieran las disposiciones legales aplicables, el Reglamento Interior y las que le encomiende la persona titular de la Fiscalía General.
 
 ###### Artículo 43.
 
@@ -1213,7 +1277,9 @@ II. Prestar un modelo de atención integral a las mujeres que comprenda:
 
 a. Los servicios de presentación de denuncia;
 
-b. La aplicación de medidas de protección;
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+b. La aplicación de órdenes y medidas de protección;
 
 c. Atención médica y psicológica;
 
@@ -1401,9 +1467,17 @@ V. Organizar y desarrollar mecanismos permanentes de coordinación y comunicaci�
 
 VI. Concentrar la información de las diversas bases de datos existentes en las Unidades Administrativas de la Fiscalía General, y validar la información estadística derivada de las acciones relativas a la procuración de justicia;
 
-VII. Proponer los criterios de participación con los entes públicos que generen información estadística, a través de indicadores, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Las demás que le confieran las disposiciones legales aplicables, el Reglamento Interior y las que le encomiende el Fiscal General.
+VII. Proponer los criterios de participación con los entes públicos que generen información estadística, a través de indicadores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Generar una base estadística Estatal de Violencia política contra las mujeres en razón de género, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Las demás que le confieran las disposiciones legales aplicables, el Reglamento Interior y las que le encomiende el Fiscal General.
 
 ###### Artículo 55.
 
@@ -2427,7 +2501,9 @@ XLIV. Ejercer sus funciones y atribuciones en correspondencia con el mando, cate
 
 XLV. Expedir por escrito las órdenes cuando lo solicite un subalterno, con objeto de salvaguardar la seguridad de éste, por la naturaleza de las mismas. Esta solicitud deberá formularse dentro de la disciplina y subordinación debida;
 
-XLVI. Abstenerse de emitir órdenes que menoscaben la dignidad de quien las reciba, o que sean contradictorias, injustas o impropias;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XLVI. Abstenerse de emitir órdenes que menoscaben la dignidad de quien las reciba, o que sean contradictorias, injustas o impropias, o que limiten, anulen o menoscaben el ejercicio de su función pública, o que representen violencia contra las mujeres en razón de género;
 
 XLVII. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Fiscalía General, dentro o fuera del servicio;
 
@@ -2686,3 +2762,15 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTAN ROO, A LOS DIEZ DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECINUEVE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 042 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, DE LA LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Para el caso de los asuntos que se encuentren en trámite y/o pendientes de resolución, seguirán sustanciándose en términos de la legislación aplicable al momento de su inicio.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
