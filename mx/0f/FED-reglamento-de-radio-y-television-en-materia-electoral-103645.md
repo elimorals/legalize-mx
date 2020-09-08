@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-radio-y-television-en-materia-electoral-103645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-24"
-last_updated: "2015-09-04"
+last_updated: "2020-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO DE RADIO Y TELEVISIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de noviembre de 2014.
 
@@ -203,7 +203,15 @@ c) LFT: La Ley Federal de Telecomunicaciones y Radiodifusión;
 
 d) Ley de Partidos: La Ley General de Partidos Políticos;
 
-e) Reglamento: El Reglamento de Radio y Televisión en Materia Electoral.
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+e) LGAMVLV: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+f) LGMDE: Ley General en Materia de Delitos Electorales
+
+g) Reglamento: El Reglamento de Radio y Televisión en Materia Electoral.
 
 II. Por lo que hace a las autoridades, organismos, órganos y dependencias:
 
@@ -269,19 +277,31 @@ p) Portal INE: Página electrónica dentro del sitio de Internet del Instituto, 
 
 q) Promocional o mensaje: Producción de audio y/o video con una duración de 20 ó 30 segundos, en el caso de autoridades electorales, y de 30 segundos, 1 ó 2 minutos, para el caso de los partidos políticos o coaliciones y candidatos/as independientes;
 
-r) Zona conurbada: Área metropolitana conurbada intermunicipal e interestatal determinada por la autoridad electoral correspondiente, para fines electorales, en consulta con las autoridades competentes.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+r) Violencia Política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la LGAMVLV y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos independientes o postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 Artículo 6
 
-De las atribuciones de los órganos competentes del Instituto
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+De las atribuciones de los órganos competentes del Instituto.
 
 1. Son atribuciones del Consejo General:
 
-a) Vigilar de manera permanente que el Instituto ejerza sus facultades como autoridad única en la administración del tiempo que corresponde al Estado en radio y televisión destinado a sus propios fines, a los de otras autoridades electorales, federales y locales, y al ejercicio del derecho de los Partidos Políticos Nacionales y locales, coaliciones, así como candidatos/as independientes, de conformidad con lo establecido en la Ley, otras leyes aplicables y este Reglamento;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+a) Vigilar de manera permanente que el Instituto ejerza sus facultades como autoridad única en la administración del tiempo que corresponde al Estado en radio y televisión destinado a sus propios fines, a los de otras autoridades electorales, federales y locales, y al ejercicio del derecho de los Partidos Políticos Nacionales y locales, coaliciones, así como candidatos/as independientes, de conformidad con lo establecido en la Ley, la LGAMVLV, otras leyes aplicables y este Reglamento;
 
 b) Ordenar la operación, instrumentación y alcance de monitoreos para verificar el cumplimiento de las pautas de transmisión, incluida la multiprogramación, y su retransmisión en televisión restringida, así como de las normas aplicables respecto de la propaganda política o electoral que se difunda por radio y televisión;
 
-c) Aprobar el Acuerdo que establezca la metodología y el catálogo para el monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas que difundan noticias en radio y televisión;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+c) Aprobar el Acuerdo que establezca la metodología con perspectiva de género y el catálogo para el monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas que difundan noticias en radio y televisión;
 
 d) Ordenar la realización de monitoreos de las transmisiones sobre las precampañas y campañas electorales federales en los programas que difundan noticias en radio y televisión; así como aprobar los mecanismos y medios informativos en que se harán públicos los resultados del monitoreo citado;
 
@@ -313,13 +333,17 @@ g) Ordenar al titular de la Dirección Ejecutiva y/o a los/las Vocales realizar 
 
 h) Interpretar la Ley, la Ley de Partidos y el Reglamento en lo que se refiere a la administración del tiempo en radio y televisión;
 
-i) Resolver las consultas que le sean formuladas sobre la aplicación de las disposiciones de la Ley, la Ley de Partidos y el Reglamento respecto de asuntos en materia de radio y televisión;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+i) Resolver las consultas que le sean formuladas sobre la aplicación de las disposiciones de la Ley, la Ley de Partidos, la LGAMVLV y el Reglamento respecto de asuntos en materia de radio y televisión.
 
 j) Proponer a la Junta reformas al Reglamento;
 
 k) Definir los mecanismos y unidades de medida para la distribución de los tiempos que correspondan, en periodos electorales, a los partidos políticos y, en su caso, a las coaliciones y los/las candidatos/as independientes, y fuera de tales periodos, a los partidos políticos;
 
-l) Proponer al Consejo la metodología y el catálogo para el monitoreo de las transmisiones sobre las precampañas y campañas electorales federales en los programas en radio y televisión que difundan noticias;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+l) Proponer al Consejo la metodología, en la que se establezca el análisis de las variables a medir con perspectiva de género, y el catálogo para el monitoreo de las transmisiones sobre las precampañas y campañas electorales federales en los programas en radio y televisión que difundan noticias.
 
 m) Llevar a cabo la consulta a las organizaciones que agrupen a los concesionarios de radio y televisión y a los profesionales de la comunicación a efecto de elaborar los Lineamientos Generales que se recomienden a los noticieros respecto de la información y difusión de las actividades de precampaña y campaña de los partidos políticos y de los/las candidatos/as independientes;
 
@@ -375,7 +399,11 @@ n) Resolver las consultas, en el ámbito de su competencia, que le sean formulad
 
 o) Solicitar anualmente y previo al inicio de cada Proceso Electoral Ordinario al IFT el listado de los concesionarios de televisión restringida que lleven a cabo la retransmisión de señales radiodifundidas dentro de la misma zona de cobertura geográfica; y
 
-p) Cumplir con los mandatos del Consejo, del Comité y de la Junta.
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+p) Realizar las gestiones necesarias e inmediatas para garantizar la ejecución de las medidas cautelares y/o de reparación en materia de violencia política contra las mujeres en razón de género, en el uso de las prerrogativas de radio y televisión, cuando la autoridad competente así lo ordene de conformidad con los Lineamientos que para tal efecto emita el Consejo General y demás disposiciones aplicables previstas en la Ley.
+
+q) Cumplir con los mandatos del Consejo, del Comité y de la Junta.
 
 5. Son atribuciones de las Juntas Locales:
 
@@ -411,7 +439,9 @@ Artículo 7
 
 De las bases de acceso a la radio y la televisión en materia política o electoral
 
-1. Los partidos políticos, sus precandidatos/as y candidatos/as a cargos de elección popular, así como los/las candidatos/as independientes accederán a mensajes de radio y la televisión, a través del tiempo que la Constitución otorga como prerrogativa en la forma y términos establecidos en la Ley y el Reglamento.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+1. Los partidos políticos, sus precandidatos/as y candidatos/as a cargos de elección popular, así como los/las candidatos/as independientes accederán a mensajes de radio y la televisión, a través del tiempo que la Constitución otorga como prerrogativa en la forma y términos establecidos en la Ley, la LGAMVLV y el Reglamento.
 
 2. El Instituto y las autoridades electorales de las entidades federativas, para la difusión de sus respectivos mensajes de comunicación social, accederán a la radio y la televisión a través del tiempo de que el primero dispone en dichos medios.
 
@@ -427,7 +457,11 @@ De las bases de acceso a la radio y la televisión en materia política o electo
 
 8. Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva Jornada Comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público. Las únicas excepciones a lo anterior, serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-9. La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan por radio y televisión los partidos políticos y en campañas los/las candidatos/as independientes, se ajustarán a lo dispuesto por el primer párrafo del artículo 6; y el artículo 41, Base III, Apartado C de la Constitución; así como el artículo 25, fracción I, inciso o) de la Ley de Partidos y 247 de la Ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+9. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las personas candidatas y precandidatas, deberán abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de la Ley. El Consejo General y la Comisión de Quejas y Denuncias están facultadas para ordenar, una vez satisfechos los procedimientos establecidos en la Ley, la suspensión inmediata de los mensajes en radio o televisión contrarios a esta norma, así como el retiro de cualquier otra propaganda.
+
+Tratándose de conductas relacionadas con violencia política contra las mujeres en razón de género, se harán públicas las razones del retiro.
 
 10. Los concesionarios de estaciones de radio y canales de televisión, se abstendrán de comercializar el tiempo no asignado por el Instituto, así como de utilizar los tiempos no asignados para patrocinios o contenidos similares.
 
@@ -661,11 +695,15 @@ Total PP 30 minutos 24 minutos 41 minutos 100%
 
 Artículo 24
 
-De la asignación y distribución de promocionales entre partidos políticos, coaliciones y candidatos/as independientes
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+De la asignación y distribución de promocionales entre partidos políticos, coaliciones y candidaturas independientes
 
 1. En las entidades federativas con Procesos Electorales Locales con Jornadas Comiciales coincidentes con la Federal, el tiempo que administrará el Instituto para fines de los partidos políticos se distribuirá el 30 por ciento de forma igualitaria, de las cuales, hasta una de ellas podrá ser asignada a los candidatos/as independientes en su conjunto, y el 70 por ciento de conformidad con el porcentaje de votos obtenido en la elección local de diputados/as inmediata anterior, en los periodos de precampaña y campaña. Los tiempos correspondientes a los candidatos/as independientes se asignarán en términos de lo previsto en el artículo 15 de este Reglamento.
 
-2. Cada partido político decidirá libremente la asignación, por tipo de precampaña, de los mensajes que le correspondan, incluyendo su uso en las entidades federativas con Proceso Electoral concurrente con el federal en los términos de los artículos 170, 171, 172 y 173 de la Ley.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+2. Cada partido político en la asignación, por tipo de precampaña y campaña de los mensajes que le correspondan, incluyendo su uso en las entidades federativas con Proceso Electoral concurrente con el federal, deberá apegarse a lo establecido en el artículo 25, numeral 1, inciso w) de la Ley de Partidos y en los términos de los artículos 170,171,172 y 173 de la Ley.
 
 Artículo 25
 
@@ -865,7 +903,9 @@ Artículo 37
 
 De los contenidos de los mensajes
 
-1. En ejercicio de su libertad de expresión, los partidos políticos y los/las candidatos/as independientes determinarán el contenido de los promocionales que les correspondan, por lo que no podrán estar sujetos a censura previa por parte del Instituto ni de autoridad alguna. Los/las candidatos/as independientes y partidos políticos en el ejercicio de sus prerrogativas, así como los precandidatos/as, candidatos/as y militantes serán sujetos a las ulteriores responsabilidades que deriven de las diversas disposiciones constitucionales, legales y reglamentarias respectivas.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+1. En ejercicio de su libertad de expresión, los partidos políticos y los/las candidatos/as independientes determinarán el contenido de los promocionales que les correspondan, por lo que no podrán estar sujetos a censura previa por parte del Instituto ni de autoridad alguna. Los/las candidatos/as independientes y partidos políticos en el ejercicio de sus prerrogativas, así como los precandidatos/as, candidatos/as y militantes serán sujetos a las ulteriores responsabilidades que deriven de las diversas disposiciones constitucionales, legales y reglamentarias respectivas; tales como las previstas en la LGMDE.
 
 2. Durante el periodo de intercampaña, los mensajes genéricos de los partidos políticos tendrán carácter meramente informativo y serán transmitidos de acuerdo a la pauta que apruebe el Comité.
 
@@ -1249,7 +1289,9 @@ g) En caso de que el escrito de la transmisión especial, el concesionario no of
 
 Artículo 57
 
-De la verificación de transmisiones y de los monitoreos
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+De la verificación de transmisiones y de los monitoreos.
 
 1. El Instituto realizará directamente las verificaciones para corroborar el cumplimiento de las pautas que apruebe en las señales radiodifundidas y su retransmisión en las señales de televisión restringida, a través de la Dirección Ejecutiva y/o los/las Vocales de la entidad federativa de que se trate. Asimismo, verificará que los mensajes de los partidos políticos y de los/las candidatos/as independientes, sean transmitidos sin alteración, superposición o manipulación alguna que altere o distorsione su sentido original.
 
@@ -1257,7 +1299,9 @@ De la verificación de transmisiones y de los monitoreos
 
 3. Cuando la Dirección Ejecutiva tenga conocimiento de la presunta adquisición de tiempos en radio y televisión con fines electorales o consulta popular, o de la difusión de propaganda presuntamente contraria a la normatividad, dará vista a la Secretaría del Consejo para que se inicien los procedimientos sancionatorios conforme a lo dispuesto en la Ley.
 
-4. El Instituto monitoreará los programas en radio y televisión que difundan noticias, conforme lo determine el Consejo, para efectos de hacer del conocimiento público la cobertura informativa de los contenidos noticiosos de las precampañas y campañas federales.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2020)</small>
+
+4. El Instituto monitoreará con perspectiva de género los programas en radio y televisión que difundan noticias, conforme a lo que determine el Consejo, para efectos de hacer del conocimiento público la cobertura informativa de los contenidos noticiosos de las precampañas y campañas federales.
 
 5. Los partidos políticos, candidatos/as independientes y las autoridades electorales locales podrán acceder a los resultados de las verificaciones y monitoreos realizados u ordenados por el Instituto, que tendrán carácter público.
 
@@ -1482,3 +1526,13 @@ D.O.F. 4 DE SEPTIEMBRE DE 2015.
 PRIMERO. Se modifica el término establecido en el Artículo Segundo Transitorio del Reglamento de Radio y Televisión en Materia Electoral para que, a más tardar el doce de agosto de dos mil quince, este Consejo General apruebe los Lineamientos aplicables a la entrega y recepción electrónica o satelital de las órdenes de transmisión y materiales.
 
 SEGUNDO. Se instruye al Secretario Ejecutivo a que implemente las medidas necesarias para la oportuna publicación de este Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL CUAL SE MODIFICA EL REGLAMENTO DE RADIO Y TELEVISIÓN EN MATERIA ELECTORAL CON MOTIVO DE LA REFORMA LEGAL EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que comunique de forma electrónica con auxilio de las Juntas Ejecutivas Locales y en su caso, a través de los Organismos Públicos Locales Electorales el presente instrumento a los partidos políticos, para los efectos conducentes.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+CUARTO. Publíquese el presente Acuerdo en (sic) Diario Oficial de la Federación y en la Gaceta del Instituto.
