@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2018-10-11"
+last_updated: "2020-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2020.
 
-Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
+Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
 DECRETO NUMERO: 08
 
@@ -1105,13 +1105,17 @@ IV. El 18 de julio del año de la elección, en caso de que se impugne el cómpu
 
 V. El 28 de julio del año de la elección, en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
 
-## TITULO SEPTIMO. DEL JUICIO PARA LA PROTECCION DE LOS DERECHOS POLITICO ELECTORALES DEL CIUDADANO QUINTANARROENSE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+## TITULO SEPTIMO. DEL JUICIO PARA LA PROTECCION DE LOS DERECHOS POLITICO-ELECTORALES DE LA CIUDADANIA QUINTANARROENSE
 
 ### Capítulo Único. De la Procedencia y Reglas Particulares
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 94.
 
-El juicio para la protección de los derechos político electorales del ciudadano quintanarroense deberá ser interpuesto por el ciudadano en forma individual, cuando haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones locales, y de afiliarse libre e individualmente a los partidos políticos.
+El juicio para la protección de los derechos políticos y electorales, sólo procederá cuando la ciudadana o el ciudadano por sí mismo y en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos, de afiliarse libre e individualmente a los partidos políticos o cuando se cometa violencia política contra las mujeres en razón de género.
 
 ###### Artículo 95.
 
@@ -1119,27 +1123,37 @@ El juicio para la protección de los derechos político electorales, procederá 
 
 I. Al haber cumplido con los requisitos y trámites correspondientes, no hubiese obtenido oportunamente el documento que exige la Ley Electoral para ejercer el voto;
 
-II. Al haber obtenido oportunamente el documento a que se refiere la fracción anterior, no aparezca incluido en la lista nominal de electores de la sección correspondiente a su domicilio;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-III. Sin causa justificada sea excluido de la lista nominal de electores de la sección correspondiente a su domicilio;
+II. Al haber obtenido oportunamente el documento a que se refiere la fracción anterior, su nombre no aparezca incluido en la lista nominal de electores de la sección correspondiente a su domicilio;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Siendo candidato registrado, sea indebidamente declarado inelegible;
+III. Sin causa justificada sea excluida o excluido de la lista nominal de electores de la sección correspondiente a su domicilio;
 
-V. Se le niegue indebidamente participar como observador electoral;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+IV. Siendo persona candidata registrada, sea indebidamente declarada inelegible;
 
-VI. Considere que se violó su derecho político-electoral de ser votado cuando, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+V. Se le niegue indebidamente participar como persona observadora electoral;
 
-VII. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+VI. Considere que se violó su derecho político-electoral de ser votada o votado cuando, le sea negado indebidamente su registro como persona candidata a un cargo de elección popular;
 
-VIII. Considere la existencia de cualquier acto u omisión que constituya violencia política contra las mujeres por razón de género, con la finalidad de impedir o restringir el ejercicio pleno de sus derechos político electorales.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Considere que los actos o resoluciones del partido político al que la persona está afiliada violan alguno de sus derechos político-electorales. Lo anterior es aplicable a las personas precandidatas y candidatas a cargos de elección popular aún cuando no estén afiliadas al partido señalado como responsable;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Considere la existencia de cualquier acto u omisión que constituya violencia política contra las mujeres en razón de género, con la finalidad de impedir o restringir el ejercicio pleno de sus derechos político electorales, en los términos establecidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en la Ley General de Instituciones y Procedimientos Electorales, en la Ley Electoral y y (sic) la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1149,9 +1163,13 @@ El juicio sólo será procedente cuando el actor haya agotado todas las instanci
 
 En los casos de actos o resoluciones dictados por órganos partidistas, se deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 97.
 
-Las sentencias que resuelvan el juicio para la protección de los derechos político electorales del ciudadano quintanarroense, podrán confirmar o revocar el acto o resolución impugnada, y restituir al promovente en el uso y goce del derecho político electoral que le haya sido violado.
+Las sentencias que resuelvan el juicio para la protección de los derechos político­electorales de la ciudadana o ciudadano quintanarroense, podrán confirmar o revocar el acto o resolución impugnada, y restituir a la persona promovente en el uso y goce del derecho político electoral que le haya sido violado.
+
+En los casos en que se actualice violencia política de género, se determinarán las medidas de reparación integral para garantizar la plena satisfacción de los derechos vulnerados de las víctimas.
 
 ###### Artículo 98.
 
@@ -1272,3 +1290,13 @@ P.O. 11 DE OCTUBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO: 042 POR EL QUE “SE REFORMAN: LA DENOMINACIÓN DEL TÍTULO SÉPTIMO DE LA LEY, PARA DENOMINARSE "DEL JUICIO PARA LA PROTECCIÓN DE LOS DERECHOS POLÍTICO-ELECTORALES DE LA CIUDADANÍA QUINTANARROENSE"; EL ARTÍCULO 94; LAS FRACCIONES II, III, IV, V, VI, VII Y VIII DEL ARTÍCULO 95, Y EL ARTÍCULO 97; Y SE ADICIONA: UNA FRACCIÓN IX AL ARTÍCULO 95; TODOS DE LA LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Para el caso de los asuntos que se encuentren en trámite y/o pendientes de resolución, seguirán sustanciándose en términos de la legislación aplicable al momento de su inicio.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
