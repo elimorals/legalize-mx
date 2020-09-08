@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2020-01-03"
+last_updated: "2020-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -43,15 +43,27 @@ LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
 ## TÍTULO ÚNICO (SIC). DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en el Estado de Quintana Roo. Tiene por objeto garantizar el ejercicio de los derechos y obligaciones político-electorales de los ciudadanos y establecer disposiciones aplicables que regulan los procesos electorales que se celebren en la entidad para elegir Gobernador, Diputados y miembros de los Ayuntamientos.
+La presente Ley es de orden público y de observancia general en el Estado de Quintana Roo. Tiene por objeto garantizar el ejercicio de los derechos y obligaciones políticos y electorales de la ciudadanía, y establecer disposiciones aplicables que regulan los procesos electorales que se celebren en la entidad para elegir los cargos a Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos.
 
-Las autoridades electorales, en el ejercicio de sus funciones, ajustarán sus actos a los principios constitucionales rectores en materia electoral de legalidad, certeza, independencia, imparcialidad, máxima publicidad y objetividad.
+El Instituto Electoral y el Tribunal Electoral en el ejercicio de sus funciones, ajustarán sus actos a los principios rectores en materia electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad, y realizarán con perspectiva de género.
 
 ###### Artículo 2.
 
 El poder público dimana del pueblo, el cual designa a sus representantes mediante elecciones libres, auténticas y periódicas, a través del sufragio universal, libre, secreto, directo, personal e intransferible.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Es derecho de la ciudadanía ser votada para todos los puestos de elección popular, teniendo las calidades que establece la ley de la materia y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Los derechos políticos y electorales en la entidad se ejercerán sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas, libre de violencia política en contra de las mujeres en razón de género, grupos sociales vulnerables o en situaciones de riesgo.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 3.
 
@@ -61,13 +73,13 @@ I. Actos anticipados de campaña: Los actos de expresión que se realicen bajo c
 
 II. Actos anticipados de precampaña: Los actos de expresión que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura;
 
-III. Afiliado o militante: El ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido político en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
+III. Persona afiliada o persona militante: La ciudadanía que, en pleno goce y ejercicio de sus derechos políticos y electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido político en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
 
-IV. Simpatizante: Es la persona que se adhiere espontáneamente a un partido, por afinidad con las ideas que este postula, aunque sin llegar a vincularse a él por el acto formal de afiliación;
+IV. Persona simpatizante: Es la persona que se adhiere espontáneamente a un partido, por afinidad con las ideas que este postula, aunque sin llegar a vincularse a él por el acto formal de afiliación;
 
-V. Candidato Independiente: El ciudadano que sin ser postulado por un partido político obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
+V. Candidatura Independiente: La ciudadanía que sin ser postulada por un partido político obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
 
-VI. Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
+VI. Ciudadanía: Las personas que teniendo la calidad de mexicanas o mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
 
 VII. Consejo General: El Consejo General del Instituto Electoral de Quintana Roo;
 
@@ -79,49 +91,81 @@ X. Instituto Nacional: El Instituto Nacional Electoral;
 
 XI. Instituto Estatal: El Instituto Electoral de Quintana Roo;
 
-XII. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
+XII. Ley de Acceso: Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo;
 
-XIII. Ley: La Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo;
+XIII. Ley General de Acceso: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-XIV. Ley de Medios: Ley Estatal de Medios de Impugnación en materia Electoral;
+XIV. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
 
-XV. Partidos Políticos: Los partidos políticos nacionales y estatales, y
+XV. Ley: La Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo;
 
-XVI. Tribunal Electoral: El Tribunal Electoral de Quintana Roo.
+XVI. Ley de Medios: Ley Estatal de Medios de Impugnación en materia Electoral;
+
+XVII. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+
+XVIII. Partidos Políticos: Los partidos políticos nacionales y estatales;
+
+XIX. Perspectiva de género: Es la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de género;
+
+XX. Tribunal Electoral: El Tribunal Electoral de Quintana Roo, y
+
+XXI. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, personas simpatizantes, personas precandidatas o personas candidatas postuladas por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 ###### Artículo 4.
 
 La aplicación de esta Ley corresponde al Instituto Estatal y al Tribunal Electoral en el ámbito de sus respectivas competencias, por lo que dispondrán lo necesario para asegurar el debido cumplimiento de la misma.
 
-Las autoridades federales, estatales y municipales deberán prestar la colaboración para el adecuado desempeño de las funciones de las autoridades electorales establecidas por la Constitución Federal, la Constitución del Estado, la Ley General de Partidos Políticos, la Ley General y esta Ley.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Las autoridades federales, estatales y municipales deberán prestar la colaboración para el adecuado desempeño de las funciones de las autoridades electorales establecidas por la Constitución Federal, la Constitución del Estado, la Ley General de Partidos Políticos, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso, la Ley General, y esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto Estatal en el ámbito de su competencia, a los partidos políticos y a los candidatos.
+La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde en el ámbito de su competencia, al Instituto Estatal, a los partidos políticos y sus personas candidatas.
+
+El Instituto Electoral de Quintana Roo, los partidos políticos, personas precandidatas y personas candidatas, deberán garantizar el principio de paridad de género en el ejercicio de los derechos políticos y electorales, así como el respeto a los derechos humanos de las mujeres.
+
+El Instituto Estatal, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 6.
 
-La interpretación de esta Ley corresponde, en sus respectivos ámbitos de competencia, al Instituto Estatal, al Tribunal Electoral y a la Legislatura del Estado, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
+La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución.
 
 ## TÍTULO SEGUNDO. DE LA DEMARCACIÓN TERRITORIAL ELECTORAL
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-Para los efectos de la presente Ley, así como para la renovación periódica del Gobernador, Diputados y miembros de los Ayuntamientos, el territorio del Estado de Quintana Roo se divide en secciones electorales, distritos, municipios y circunscripción.
+Para los efectos de la presente Ley, así como para la renovación periódica de los cargos de Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos, el territorio del Estado de Quintana Roo se divide en secciones electorales, distritos, municipios y circunscripción.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 8.
 
-Para la elección de Gobernador, todo el territorio del Estado constituye una circunscripción electoral.
+Para la elección del cargo a Gobernadora o Gobernador, todo el territorio del Estado constituye una circunscripción electoral.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-Para la elección de diputados por el principio de mayoría relativa, el territorio se divide en quince distritos electorales uninominales.
+Para la elección de diputaciones por el principio de mayoría relativa, el territorio se divide en quince distritos electorales uninominales.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-Para efectos de la asignación de diputados por el principio de representación proporcional, el territorio del Estado constituye una circunscripción plurinominal.
+Para efectos de la asignación de diputaciones por el principio de representación proporcional, el territorio del Estado constituye una circunscripción plurinominal.
 
 ###### Artículo 11.
 
@@ -151,53 +195,73 @@ Se entiende por circunscripción plurinominal, el territorio del Estado en el qu
 
 El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
 
-## TÍTULO TERCERO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+## TÍTULO TERCERO. DE LA PARTICIPACIÓN DE LA CIUDADANÍA EN LAS ELECCIONES
 
 ### CAPÍTULO ÚNICO. DE LOS REQUISITOS DE ELEGIBILIDAD
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Son requisitos para ser Gobernador del Estado, Diputado o miembro de un Ayuntamiento, además de los que señalan respectivamente la Constitución Federal y la Constitución del Estado, los siguientes:
+Son requisitos para los cargos de Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos, además de los que señalan respectivamente la Constitución Federal y la Constitución del Estado, los siguientes:
 
-I. Estar inscrito en el Registro Federal de Electores, y
+I. Contar con inscripción en el Registro Federal de Electores;
 
-II. Contar con credencial para votar.
+II. Contar con credencial para votar;
+
+III. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+IV. No ser titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección, y
+
+V. No encontrarse sancionada o sancionado administrativamente mediante sentencia firme o, en su caso, sentenciada o sentenciado penalmente mediante sentencia firme, por violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 18.
 
-Los ciudadanos que no se encuentren en los supuestos contenidos en el artículo 89 de la Constitución del Estado, y que reúnan los requisitos establecidos en los artículos 80 de la Constitución del Estado y 17 de la presente Ley, son elegibles para el cargo de Gobernador del Estado de Quintana Roo.
+La ciudadanía que no se encuentren en los supuestos contenidos en el artículo 89 de la Constitución del Estado, y que reúnan los requisitos establecidos en los artículos 80 de la Constitución del Estado y 17 de la presente Ley, son elegibles para el cargo de Gobernadora o Gobernador del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 19.
 
-Los ciudadanos que no se encuentren en cualquiera de los supuestos previstos en el artículo 56 de la Constitución del Estado y reúnan los requisitos establecidos en los artículos 55 de la misma y 17 de la presente Ley, son elegibles para el cargo de diputado de la Legislatura del Estado.
+La ciudadanía que no se encuentren en cualquiera de los supuestos previstos en el artículo 56 de la Constitución del Estado y reúnan los requisitos establecidos en los artículos 55 de la misma y 17 de la presente Ley, son elegibles para el cargo a las diputaciones para integrar la Legislatura del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 20.
 
-Los ciudadanos que no se encuentren en los supuestos del artículo 139 de la Constitución del Estado y reúnan los requisitos establecidos en los artículos 136 de la misma y 17 de la presente Ley, son elegibles para ser miembros de los Ayuntamientos del Estado de Quintana Roo.
+La ciudadanía que no se encuentren en los supuestos del artículo 139 de la Constitución del Estado y reúnan los requisitos establecidos en los artículos 136 de la misma y 17 de la presente Ley, son elegibles para ser integrantes de los Ayuntamientos del Estado de Quintana Roo. En el registro de estas candidaturas los partidos políticos deberán garantizar el principio de paridad de género.
+
+Las fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria.
 
 ###### Artículo 21.
 
-Además de los requisitos previstos en la Constitución del Estado y en la presente ley, los ciudadanos que aspiren a ocupar un cargo de elección popular deberán cumplir los siguientes:
+(DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2020)
 
-I. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate, y
-
-II. No ser titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral. Tampoco podrá ser candidato para un cargo local de elección popular y simultáneamente para otro federal o municipal, en su caso. En este supuesto, si el registro para el cargo de la elección federal o de otro estado ya estuviere hecho, se procederá a la cancelación automática del registro estatal.
+A ninguna persona podrá registrársele como persona candidata a distintos cargos de elección popular en el mismo proceso electoral. Tampoco podrá registrársele a ninguna persona a una candidatura para un cargo local de elección popular y simultáneamente para otro federal o municipal, en su caso. En este supuesto, si el registro para el cargo de la elección federal o de otro estado ya estuviere hecho, se procederá a la cancelación automática del registro estatal.
 
 ## TÍTULO CUARTO. DE LA ELECCIÓN DE LOS PODERES EJECUTIVO, LEGISLATIVO Y DE LOS AYUNTAMIENTOS
 
 ### CAPÍTULO PRIMERO. DE LOS PODERES EJECUTIVO, LEGISLATIVO Y AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 23.
 
-El Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado, electo cada seis años por mayoría relativa y voto directo en toda la entidad.
+El Poder Ejecutivo se deposita en una sola persona que se denomina Gobernadora o Gobernador del Estado, electa o electo cada seis años por mayoría relativa y voto directo en toda la entidad.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 24.
 
-El Poder Legislativo del Estado de Quintana Roo se deposita en el Congreso del Estado, el cual se integra con quince diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y diez diputados electos según el principio de representación proporcional, mediante el sistema que para tal efecto establezca el artículo 54 de la Constitución Local.
+El Poder Legislativo del Estado de Quintana Roo se deposita en el Congreso del Estado, el cual se integra con quince diputaciones electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y diez diputaciones electas según el principio de representación proporcional, mediante el sistema que para tal efecto establezca el artículo 54 de la Constitución Local.
 
 ###### Artículo 25.
 
@@ -209,15 +273,23 @@ Cada municipio será gobernado por un Ayuntamiento integrado por representantes 
 
 Las elecciones ordinarias se verificarán el primer domingo de junio del año que corresponda, para elegir:
 
-I. Gobernador del Estado, cada seis años;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-II. Diputados al Congreso del Estado, cada tres años, y
+I. Gobernadora o Gobernador del Estado, cada seis años;
 
-III. Ayuntamientos, cada tres años.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+II. Diputaciones al Congreso del Estado, cada tres años, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+III. Integrantes de los Ayuntamientos, cada tres años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 27.
 
-El Consejo General convocará a elecciones ordinarias para elegir a Gobernador, Diputados y miembros de los Ayuntamientos, en la sesión en que se declare el inicio del proceso electoral ordinario.
+El Consejo General convocará a elecciones ordinarias para elegir cargos de Gobernadora o Gobernador, Diputadas y Diputados e integrantes de los Ayuntamientos, en la sesión en que se declare el inicio del proceso electoral ordinario.
 
 Tratándose de elecciones extraordinarias se ajustarán a la fecha y términos que señale la convocatoria que habrá de expedir el Congreso del Estado.
 
@@ -227,7 +299,9 @@ El Consejo General determinará cuáles serán los órganos electorales encargad
 
 Se convocará a elecciones extraordinarias en los términos y plazos que marca la Constitución del Estado y esta Ley, en los siguientes casos:
 
-I. Cuando se declare nula la elección ya sea de Gobernador, de diputados o de Ayuntamientos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Cuando se declare nula la elección ya sea al cargo de Gobernadora o Gobernador, de diputaciones o de integrantes de los Ayuntamientos;
 
 II. En los supuestos previstos en los artículos 83 y 84 de la Constitución del Estado;
 
@@ -235,11 +309,15 @@ III. En los supuestos contemplados en el artículo 143 de la Constitución del E
 
 IV. En caso de desastre natural o por fuerza mayor que impida la celebración de las elecciones ordinarias, y
 
-V. Por ausencia definitiva de la fórmula de diputados independientes por el principio de mayoría relativa, dentro de la mitad del periodo del encargo.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Por ausencia definitiva de la fórmula de diputaciones independientes por el principio de mayoría relativa, dentro de la mitad del periodo del encargo.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 29.
 
-Las convocatorias relativas a elecciones extraordinarias no podrán restringir los derechos de los ciudadanos y de los partidos políticos, ni alterar los procedimientos y formalidades instituidos, más allá, de lo que al efecto establece la Constitución del Estado y esta Ley; se sujetarán a las disposiciones de esta Ley y a las que contenga la propia convocatoria que al efecto se expida.
+Las convocatorias relativas a elecciones extraordinarias no podrán restringir los derechos de la ciudadanía y de los partidos políticos, ni alterar los procedimientos y formalidades instituidos, más allá, de lo que al efecto establece la Constitución del Estado y esta Ley; se sujetarán a las disposiciones de esta Ley y a las que contenga la propia convocatoria que al efecto se expida.
 
 ###### Artículo 30.
 
@@ -349,23 +427,35 @@ VII. Las demás que resulten aplicables en los términos de esta Ley.
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA DE PARTIDOS POLÍTICOS
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 38.
 
-Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional o ante el Instituto Estatal, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo a los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional o ante el Instituto Estatal, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política estatal y municipal y, como organizaciones ciudadanas, hacer posible el acceso de estos al ejercicio del poder público de acuerdo a los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 39.
 
-Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas las intervenciones de organizaciones civiles, sociales o gremiales o con objeto social diferente a la creación de partidos políticos y cualquier forma de afiliación corporativa.
+Sólo la ciudadanía podrán (sic) formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas las intervenciones de organizaciones civiles, sociales o gremiales o con objeto social diferente a la creación de partidos políticos y cualquier forma de afiliación corporativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 40.
 
-Los partidos políticos promoverán los valores cívicos, la cultura democrática y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+Los partidos políticos promoverán los valores cívicos, la cultura democrática y garantizarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidaturas.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados e integrantes de los ayuntamientos, éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputaciones locales e integrantes de los ayuntamientos, estos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
 En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido político haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
 Los partidos políticos se regirán internamente por sus documentos básicos, tendrán la libertad de organizarse y determinarse de conformidad con las normas establecidas en la Ley General de Partidos Políticos, esta Ley y las que conforme a las mismas, establezcan sus estatutos.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+En caso de incumplimiento a esta disposición serán acreedores a las sanciones que establezcan las leyes en la materia.
 
 ###### Artículo 41.
 
@@ -463,15 +553,23 @@ IV. Gozar de facultades para regular su vida interna y determinar su organizaci�
 
 V. Acceder a las prerrogativas y recibir el financiamiento público en los términos que disponga esta Ley;
 
-VI. Organizar sus procesos internos para seleccionar y postular candidatos en las elecciones.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Organizar procesos internos para seleccionar y postular candidaturas en las elecciones garantizando la participación de mujeres y hombres en igualdad de condiciones, en los términos de esta Ley y las leyes generales o locales aplicables;
 
 VII. Formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección que establezca el Estatuto de cada uno de los partidos políticos, en los términos de la Ley de General de Partidos Políticos, la Ley General y esta Ley;
 
-VIII. Registrar a sus candidatos, ante los organismos electorales que proceda, dentro de los periodos establecidos por esta Ley;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Sustituir, dentro de los periodos establecidos por esta Ley, el registro de uno o varios de sus candidatos;
+VIII. Registrar a sus candidaturas, ante los organismos electorales que proceda, dentro de los periodos establecidos por esta Ley;
 
-X. Realizar reuniones públicas y actos de propaganda política en apoyo a los candidatos que postulen y a la promoción de los principios y propuestas programáticas;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Sustituir, dentro de los periodos establecidos por esta Ley, el registro de una o varias de sus candidaturas, considerando la paridad de género;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+X. Realizar reuniones públicas y actos de propaganda política en apoyo a las candidaturas que postulen y a la promoción de los principios y propuestas programáticas;
 
 XI. Establecer, sostener y desarrollar organismos, institutos, publicaciones y servicios para la realización de sus fines;
 
@@ -481,9 +579,13 @@ XIII. Establecer relaciones con organizaciones o partidos políticos extranjeros
 
 XIV. Acceder a la defensa de sus intereses legítimos dentro del sistema de justicia electoral;
 
-XV. Nombrar representantes ante los órganos del Instituto Estatal;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Replicar y aclarar la información que generen los medios de comunicación cuando consideren que se deforma su imagen o la de sus candidatos, o que se difundan hechos falsos o sin sustento alguno en los términos de la Ley Reglamentaria del artículo 6 párrafo primero de la Constitución Política de los Estados Unidos Mexicanos, en materia del derecho de réplica;
+XV. Nombrar personas representantes ante los órganos del Instituto Estatal;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Replicar y aclarar la información que generen los medios de comunicación cuando consideren que se deforma su imagen o la de sus candidaturas, o que se difundan hechos falsos o sin sustento alguno en los términos de la Ley Reglamentaria del artículo 6 párrafo primero de la Constitución Política de los Estados Unidos Mexicanos, en materia del derecho de réplica;
 
 XVII. Suscribir acuerdos de participación con agrupaciones políticas estatales, y
 
@@ -513,7 +615,9 @@ VIII. Ser ministro de culto religioso, para lo cual se estará a lo dispuesto po
 
 Son obligaciones de los partidos políticos:
 
-I. Conducir sus actividades dentro de los cauces legales, ajustar su conducta y la de sus militantes a los principios del Estado democrático, respetando la libre participación política de los demás partidos políticos y los derechos de los ciudadanos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Conducir sus actividades dentro de los cauces legales, ajustar su conducta y la de sus militantes a los principios del Estado democrático, respetando la libre participación política de los demás partidos políticos y los derechos de la ciudadanía;
 
 II. Abstenerse de recurrir a la violencia y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el goce de las garantías o impedir el funcionamiento regular de los órganos de gobierno;
 
@@ -521,41 +625,99 @@ III. Mantener el mínimo de militantes requeridos en las leyes respectivas para 
 
 IV. Ostentar la denominación, emblema y color o colores que tengan registrados o acreditados, los cuales no podrán ser iguales o semejantes a los utilizados por partidos políticos ya existentes;
 
-V. Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidatos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Mantener en funcionamiento efectivo a sus órganos estatutarios;
+V. Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidaturas;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones, así como mantener en funcionamiento efectivo a sus órganos estatutarios;
 
 VII. Contar con domicilio social para sus órganos internos en los municipios donde actúen, con denominación visible en el exterior;
 
 VIII. Editar por lo menos una publicación trimestral de divulgación, y otra semestral de carácter teórico;
 
-IX. Rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros, de ministros de culto de cualquier religión, de las asociaciones y organizaciones religiosas e iglesias, así como de cualquiera de las personas a las que las leyes prohíban financiar a los partidos políticos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros, de personas ministras de culto de cualquier religión, de las asociaciones y organizaciones religiosas e iglesias, así como de cualquiera de las personas a las que las leyes prohíban financiar a los partidos políticos;
 
 X. Publicar y difundir en las demarcaciones electorales en que participen, así como en los tiempos que les corresponden en las estaciones de radio y en los canales de televisión, la plataforma electoral que sostendrán en la elección de que se trate, en los términos de la Ley General;
 
-XI. Publicar y difundir la plataforma electoral que sus candidatos sostendrán en las campañas;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Publicar y difundir la plataforma electoral que sus candidaturas sostendrán en las campañas;
 
 XII. Permitir la práctica de auditorías y verificaciones por los órganos del Instituto Nacional facultados para ello, así como entregar la documentación que dichos órganos les requieran respecto a sus ingresos y egresos;
 
 XIII. Comunicar al Instituto Nacional o al Instituto Estatal, según corresponda, cualquier modificación a sus documentos básicos, dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente por el partido político;
 
-XIV. Actuar y conducirse sin ligas de dependencia o subordinación con partidos políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Actuar y conducirse sin ligas de dependencia o subordinación con partidos políticos, personas físicas o morales, organismos o entidades internacionales y de personas ministras de culto de cualquier religión;
 
 XV. Aplicar el financiamiento de que dispongan exclusivamente para los fines que les hayan sido entregados;
 
-XVI. Abstenerse, en su propaganda política o electoral, de cualquier expresión verbal o escrita que denigre o calumnie;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Abstenerse, en su propaganda política o electoral, de cualquier expresión verbal o escrita que DENIGRE O calumnie a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley;
 
 XVII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
 XVIII. Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
-XIX. Garantizar la paridad entre los géneros en candidaturas a diputados y a miembros de los ayuntamientos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Garantizar la paridad entre los géneros en las candidaturas a diputaciones y a integrantes de los ayuntamientos;
 
 XX. Elaborar y entregar los informes de origen y uso de recursos al Instituto Nacional en los términos de la Ley General y la Ley General de Partidos Políticos;
 
-XXI. Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XXII. Las demás que establezcan la Ley General de Partidos Políticos, la Ley General y esta Ley.
+XXI. Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de la Ley General de Acceso y la Ley de Acceso;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Promover la participación igualitaria de oportunidades entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Establecer mecanismos de sanción aplicables a quien o quienes ejerzan violencia política contra las mujeres en razón de género, acorde a lo estipulado en la Ley General, en la Ley General de Acceso y las demás leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la presente Ley, dentro de los cuales deberán informar trimestralmente de manera pormenorizada y justificada sobre la aplicación de los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. Garantizar la no discriminación por razón de género en la programación y distribución de tiempos del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII. Tener una sola instancia de resolución de conflictos internos a efecto de que las resoluciones se emitan de manera pronta y expedita, aplicando la perspectiva de género y garantizando el acceso a la justicia;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. La creación o fortalecimiento de mecanismos eficaces, para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXX. La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en materia de prevención, atención, sanción y erradicación de la violencia Política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. Todo gasto necesario para la planeación, implementación, evaluación y difusión de las acciones en materia de prevención, atención, sanción y erradicación de la violencia Política contra las mujeres en razón de género, y
+
+XXXII. Las demás que establezcan la Ley General de Partidos Políticos, la Ley General y esta Ley.
 
 ### CAPÍTULO CUARTO. DE LAS PRERROGATIVAS DE LOS PARTIDOS POLÍTICOS
 
@@ -729,25 +891,37 @@ Los partidos políticos tendrán derecho al financiamiento público de sus activ
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-a) El Consejo General determinará anualmente el monto total por distribuir entre los partidos políticos multiplicando el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización, por el sesenta y cinco por ciento del listado nominal de la entidad con corte al mes de octubre del año anterior o por la votación válida emitida en la elección de diputados inmediata anterior, en caso de que ésta resulte mayor.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-b) El resultado de las operaciones realizadas en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá de la siguiente forma: el treinta por ciento del monto total se distribuirá en forma igualitaria y el setenta por ciento restante se distribuirá en proporción igual a la que represente el número de votos logrados en la elección de diputados locales inmediata anterior.
+a) El Consejo General determinará anualmente el monto total por distribuir entre los partidos políticos multiplicando el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización, por el sesenta y cinco por ciento del listado nominal de la entidad con corte al mes de octubre del año anterior o por la votación válida emitida en la elección de diputaciones locales inmediata anterior, en caso de que ésta resulte mayor.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+b) El resultado de las operaciones realizadas en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá de la siguiente forma: el treinta por ciento del monto total se distribuirá en forma igualitaria y el setenta por ciento restante se distribuirá en proporción igual a la que represente el número de votos logrados en la elección de diputaciones locales inmediata anterior.
 
 c) Las cantidades que, en su caso, se determinen para cada partido político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente;
 
-d) Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+d) Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, y aplicar dicho recurso en términos de lo dispuesto por el artículo 73 de la Ley General de Partido Políticos.
 
 II. Para las actividades tendientes a la obtención del voto durante los procesos electorales:
 
-a) El financiamiento público de campaña se otorgará al inicio de las campañas electorales y durante el año en que se elija Gobernador, equivaldrá al cincuenta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-b) Cuando solo elijan miembros de los Ayuntamientos o Diputados Locales, el financiamiento de campaña para los partidos políticos equivaldrá al treinta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año.
+a) El financiamiento público de campaña se otorgará al inicio de las campañas electorales y durante el año en que se elija Gobernadora o Gobernador, equivaldrá al cincuenta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+b) Cuando solo elijan integrantes de los Ayuntamientos o Diputaciones Locales, el financiamiento de campaña para los partidos políticos equivaldrá al treinta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año.
 
 c) Durante los procesos electorales cada uno de los partidos políticos recibirá adicionalmente, el monto equivalente al treinta por ciento de su distribución proporcional del financiamiento público ordinario, para el desarrollo de la estructura electoral.
 
 III. Por actividades específicas como entidades de interés público:
 
-a) Para la educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+a) Para la educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputaciones locales inmediata anterior.
 
 ###### Artículo 69.
 
@@ -1097,17 +1271,25 @@ IV. Realizar actos para promover sus ideas y propuestas con el fin de obtener el
 
 V. Designar representantes ante los órganos del Instituto Estatal que correspondan, a efecto de vigilar el procedimiento de obtención del respaldo ciudadano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 103.
 
-Son obligaciones de los aspirantes:
+Son obligaciones de las personas aspirantes:
 
 I. Conducirse con irrestricto respeto a lo dispuesto en la Constitución del Estado y en la presente Ley;
 
 II. Abstenerse de solicitar el voto del electorado;
 
-III. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre, incite al desorden o utilice símbolos, signos o motivos religiosos o racistas;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IV. Insertar en su propaganda de manera visible la leyenda: “aspirante a candidato independiente”;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+III. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, OFENSAS, calumnia que DENIGRE, incite al desorden, violencia o utilice símbolos, signos o motivos religiosos o racistas; o cualquiera en que se ejerza violencia política contra las mujeres en razón de género en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Insertar en su propaganda de manera visible la leyenda: “aspirante a una candidatura independiente”;
 
 V. Abstenerse de hacer uso de bienes públicos, incluidos, entre otros, teléfonos, fotocopiadoras, faxes y herramientas de Internet, para la obtención de financiamiento o en apoyo a la realización de cualquier acto de obtención de respaldo ciudadano;
 
@@ -1121,9 +1303,17 @@ IX. Rendir el informe de ingresos y egresos;
 
 X. Retirar la propaganda utilizada, dentro de los tres días posteriores a la finalización de la etapa de obtención del respaldo ciudadano;
 
-XI. Respetar los topes de gastos establecidos para obtener el respaldo ciudadano, en los términos que establece la presente Ley, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Las demás que establezcan esta Ley y los ordenamientos electorales.
+XI. Respetar los topes de gastos establecidos para obtener el respaldo ciudadano, en los términos que establece la presente Ley;
+
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Abstenerse de ejercer violencia política contra las mujeres en razón de género o de recurrir a expresiones que DEGRADEN, DENIGREN O discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas, y
+
+XIII. Las demás que establezcan esta Ley y los ordenamientos electorales.
 
 ###### Artículo 104.
 
@@ -1197,17 +1387,27 @@ Recibida la solicitud de registro de la candidatura por el órgano electoral que
 
 El no haber cumplido con los requerimientos del párrafo anterior en tiempo, o haber presentado fuera de plazo las solicitudes correspondientes, tendrá como efecto el desechamiento de plano de la solicitud y la pérdida del derecho de registro de la candidatura de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 112.
 
-El registro como candidato independiente será negado en los siguientes supuestos:
+El registro de una candidatura independiente será negado en los siguientes supuestos:
 
 I. Cuando la solicitud de registro se haya presentado fuera de los plazos previstos por esta Ley;
 
 II. Cuando no se haya satisfecho cualquiera de los requisitos para la procedencia del registro, ni siquiera con posterioridad al requerimiento que en su caso haya formulado el Instituto Estatal, o cuando el desahogo a este último se haya presentado de manera extemporánea;
 
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 III. Cuando el aspirante no entregue el informe de ingresos y egresos dentro de los diez días posteriores a la declaración que le otorgue el derecho de registrarse como candidato, y
 
-IV. Cuando el aspirante haya sido miembro de las dirigencias nacionales, estatales o municipales, o militante de partido político alguno o candidato postulado por un partido político a cargo de elección popular en los dos años anteriores a la elección.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Cuando la persona aspirante haya sido integrante de las dirigencias nacionales, estatales o municipales, o militante de partido político alguno o persona candidata postulada por un partido político a cargo de elección popular en los dos años anteriores a la elección, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Cuando se encuentre sancionada o sancionado administrativamente mediante sentencia firme o, en su caso, sentenciada o sentenciado penalmente mediante sentencia firme, por violencia política contra las mujeres en razón de género.
 
 ###### Artículo 113.
 
@@ -1241,9 +1441,11 @@ VII. Solicitar a los órganos electorales copia de la documentación electoral, 
 
 VIII. Las demás que les otorgue esta Ley y los ordenamientos electorales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 116.
 
-Son obligaciones de los candidatos independientes registrados:
+Son obligaciones de las personas candidatas independientes registrados (sic):
 
 I. Conducirse con irrestricto respeto a lo dispuesto en la Constitución del Estado y la presente Ley;
 
@@ -1261,11 +1463,19 @@ VII. Utilizar las prerrogativas y aplicar el financiamiento exclusivamente para 
 
 VIII. Rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de culto de cualquier religión, así como de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a las que las leyes prohíban financiar a los partidos políticos;
 
-IX. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre, incite al desorden o utilice símbolos, signos o motivos religiosos o discriminatorios;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-X. Insertar en su propaganda de manera visible la leyenda: “candidato independiente”;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Abstenerse de realizar actos de presión o coacción a los electores;
+IX. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, OFENSAS, o calumnia que DENIGRE, incite a la violencia política contra las mujeres en razón de género, al desorden o utilice símbolos, signos o motivos religiosos o discriminatorios;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+X. Insertar en su propaganda de manera visible la leyenda: “candidatura independiente”;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Abstenerse de realizar actos de presión o coacción al electorado;
 
 XII. Abstenerse de hacer uso de bienes públicos, incluidos, entre otros, teléfonos, fotocopiadoras, faxes y herramientas de Internet, para la obtención de financiamiento o en apoyo a la realización de cualquier acto de campaña o propaganda electoral;
 
@@ -1275,9 +1485,17 @@ XIV. Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y r
 
 XV. Presentar, en los mismos términos en que lo hagan los partidos políticos, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo de los mismos;
 
-XVI. Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. Las demás que establezcan esta Ley y los ordenamientos electorales.
+XVI. Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes;
+
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN XVII DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Abstenerse de ejercer violencia política contra las mujeres en razón de género o de recurrir a expresiones que DEGRADEN, DENIGREN O discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas, y
+
+XVIII. Las demás que establezcan esta Ley y los ordenamientos electorales.
 
 ###### Artículo 117.
 
@@ -1305,17 +1523,23 @@ Los aspirantes o candidatos independientes que incumplan con la normatividad ele
 
 ### CAPÍTULO PRIMERO. DE LA NATURALEZA Y ATRIBUCIONES DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 120.
 
-El Instituto Electoral de Quintana Roo, es el organismo público autónomo responsable de la función estatal de preparar, desarrollar, organizar y vigilar las elecciones locales e instrumentar las formas de participación ciudadana que prevé la ley, estará dotado de personalidad jurídica y patrimonio propios. Gozará de autonomía en su funcionamiento e independencia en sus decisiones, en los términos previstos en la Constitución Federal, la Constitución del Estado y esta Ley. Será profesional en su desempeño y se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, máxima publicidad y probidad.
+El Instituto Electoral de Quintana Roo, es el organismo público autónomo responsable de la función estatal de preparar, desarrollar, organizar y vigilar las elecciones locales e instrumentar las formas de participación ciudadana que prevé la ley, estará dotado de personalidad jurídica y patrimonio propios. Gozará de autonomía en su funcionamiento e independencia en sus decisiones, en los términos previstos en la Constitución Federal, la Constitución del Estado y esta Ley. Será profesional en su desempeño y se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, máxima publicidad, probidad, paridad y se realizarán con perspectiva de género.
+
+La conformación del mismo deberá garantizar el principio de paridad de género.
 
 ###### Artículo 121.
 
 El patrimonio del Instituto Estatal se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se les señalen en el presupuesto de egresos del Estado, para la organización de los procesos electorales locales y para el financiamiento de los partidos políticos, candidatos independientes y las agrupaciones políticas estatales.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 122.
 
-Para el adecuado desempeño de sus atribuciones, el Instituto Estatal contará con un cuerpo de servidores públicos en sus órganos ejecutivos y técnicos integrados a un Servicio Profesional Electoral Nacional, en los términos previstos por la Constitución Federal, la Ley General, sus disposiciones reglamentarias y demás normativa aplicable.
+Para el adecuado desempeño de sus atribuciones, el Instituto Estatal contará con un cuerpo de personas servidoras públicas en sus órganos ejecutivos y técnicos integrados a un Servicio Profesional Electoral Nacional, en los términos previstos por la Constitución Federal, la Ley General, sus disposiciones reglamentarias y demás normativa aplicable.
 
 ###### Artículo 123.
 
@@ -1345,13 +1569,19 @@ XI. La Unidad de Informática y Estadística, y
 
 XII. La Unidad de Transparencia y Archivo Electoral.
 
-Cada órgano tendrá las atribuciones que señale esta Ley y demás disposiciones normativas. Adicionalmente, contará con personal adscrito a una rama administrativa, y en su caso eventual, para el óptimo desempeño de las funciones institucionales, que se regirá por las normas referidas en el párrafo que antecede.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-Durante los procesos electorales, el Instituto Estatal se integrará, además, con los Consejos Distritales, Consejos Municipales, Juntas Distritales Ejecutivas, Juntas Municipales Ejecutivas y Mesas Directivas de Casilla.
+Cada órgano tendrá las atribuciones que señale esta Ley y demás disposiciones normativas. Adicionalmente, contará con personal adscrito a una rama administrativa, y en su caso eventual, para el óptimo desempeño de las funciones institucionales, que se regirá por las normas referidas en el párrafo que antecede y por el principio de paridad de género y no discriminación.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Durante los procesos electorales, el Instituto Estatal se integrará, además, con los Consejos Distritales, Consejos Municipales, Juntas Distritales Ejecutivas, Juntas Municipales Ejecutivas y Mesas Directivas de Casilla. En su conformación deberá garantizarse el principio de paridad de género y no Discriminación.
 
 ###### Artículo 124.
 
 Para el mejor funcionamiento el Instituto Estatal y para el cumplimiento de sus responsabilidades, el Consejo General podrá crear temporalmente Unidades Técnicas de acuerdo a las necesidades del servicio y la disponibilidad presupuestal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 125.
 
@@ -1359,13 +1589,21 @@ Corresponde al Instituto Estatal:
 
 I. Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades que (sic) le confiere la Constitución Federal y la Ley General;
 
-II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos, candidatos y las agrupaciones políticas locales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-III. Garantizar la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos nacionales y locales y, en su caso, a los candidatos independientes, en la entidad;
+II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos, personas candidatas y las agrupaciones políticas locales;
 
-IV. Desarrollar y ejecutar los programas de educación cívica;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-V. Orientar a los ciudadanos en la entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+III. Garantizar la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos nacionales y locales y, en su caso, a las candidaturas independientes, en la entidad;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Desarrollar y ejecutar los programas de educación cívica, de paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Orientar a la ciudadanía en la entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones políticos y electorales;
 
 VI. Llevar a cabo las actividades para la preparación de la jornada electoral;
 
@@ -1373,15 +1611,21 @@ VII. Imprimir los documentos y producir los materiales electorales, en términos
 
 VIII. Efectuar el escrutinio y cómputo total de las elecciones que se lleven a cabo en la entidad, con base en los resultados consignados en las actas de cómputos distritales y municipales;
 
-IX. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la legislatura local y de los Ayuntamientos, conforme al cómputo y declaración de validez que efectúe el propio organismo;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-X. Efectuar el cómputo de la elección de Gobernador del Estado;
+IX. Expedir las constancias de mayoría y declarar la validez de la elección a las candidaturas que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la legislatura local y de los Ayuntamientos, conforme al cómputo y declaración de validez que efectúe el propio organismo;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+X. Efectuar el cómputo de la elección al cargo a Gobernadora o Gobernador del Estado;
 
 XI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
 
 XII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en el Estado;
 
-XIII. Desarrollar las actividades para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Desarrollar las actividades para garantizar el derecho de la ciudadanía a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
 
 XIV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
 
@@ -1391,9 +1635,15 @@ XVI. Supervisar las actividades que realicen los órganos distritales locales y 
 
 XVII. Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
 
-XVIII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales del Instituto Nacional, sobre el ejercicio de las funciones que le hubiera delegado conforme a lo previsto por la Ley General y demás disposiciones que emita el Consejo General del Instituto Nacional, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XIX. Las demás que determine la Ley General, y aquéllas no reservadas al Instituto Nacional, y que se establezcan en esta Ley.
+XVIII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales del Instituto Nacional, sobre el ejercicio de las funciones que le hubiera delegado conforme a lo previsto por la Ley General y demás disposiciones que emita el Consejo General del Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Garantizar el cumplimiento del principio de paridad de género, así como el respeto de los derechos políticos y electorales de las mujeres, y
+
+XX. Las demás que determine la Ley General, y aquéllas no reservadas al Instituto Nacional, y que se establezcan en esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS DE DIRECCIÓN
 
@@ -1411,59 +1661,73 @@ II. La Junta General.
 
 #### SECCIÓN PRIMERA. DEL CONSEJO GENERAL
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 128.
 
-El Consejo General es el órgano superior de dirección del Instituto Estatal, al que corresponde la preparación, desarrollo y vigilancia de los procesos electorales de carácter estatal. Su domicilio estará ubicado en la ciudad de Chetumal capital del Estado de Quintana Roo.
+El Consejo General es el órgano superior de dirección del Instituto Estatal, al que corresponde la preparación, desarrollo y vigilancia de los procesos electorales de carácter estatal. Responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad. En su desempeño aplicará la perspectiva de género.
+
+Su domicilio estará ubicado en la ciudad de Chetumal capital del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 129.
 
-El Consejo General estará integrado por un consejero presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y representantes de los partidos políticos con registro nacional y estatal, quienes concurrirán a las sesiones sólo con derecho a voz.
+El Consejo General estará integrado por una Presidencia y seis consejerías electorales, con derecho a voz y voto; una o un titular de la Secretaría Ejecutiva y las representaciones de los partidos políticos con registro nacional y estatal, quienes concurrirán a las sesiones solo con derecho a voz.
 
-Los consejeros electorales no podrán abstenerse de votar, salvo cuando deban excusarse por alguna de las causas previstas en esta Ley.
+En la integración de sus consejerías deberá garantizarse el principio de paridad de género.
+
+Los partidos políticos deberán garantizar la paridad género en sus representaciones.
+
+Las consejerías electorales no podrán abstenerse de votar, salvo cuando deban excusarse por alguna de las causas previstas en esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 130.
 
-El Consejero Presidente y los Consejeros Electorales del Instituto Estatal serán designados por el Consejo General del Instituto Nacional, por un periodo de siete años, conforme al procedimiento previsto por la Ley General; percibirán una remuneración acorde con sus funciones.
+Las Consejerías Electorales del Instituto Estatal serán designadas por el Consejo General del Instituto Nacional, por un periodo de siete años, conforme al procedimiento previsto por la Ley General; percibirán una remuneración acorde con sus funciones.
 
-Los requisitos para ser consejero electoral son los siguientes:
+Los requisitos para ser consejal electoral son los siguientes:
 
-I. Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad, además de estar en pleno goce de sus derechos civiles y políticos;
+I. Ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos políticos y civiles, estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
-II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-III. Tener más de 30 años de edad al día de la designación;
+II. TENER RESIDENCIA DE DOS AÑOS EN LA ENTIDAD FEDERATIVA CORRESPONDIENTE;
 
-IV. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura;
+III. Contar con conocimientos para el desempeño adecuado de sus funciones;
 
-V. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-VI. Ser originario de la entidad o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses;
+IV. NO HABER SIDO REGISTRADO COMO CANDIDATO A CARGO ALGUNO DE ELECCIÓN POPULAR EN LOS TRES AÑOS INMEDIATOS ANTERIORES A LA DESIGNACIÓN;
 
-VII. No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-VIII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cuatro años anteriores a la designación;
+V. NO SER O HABER SIDO DIRIGENTE NACIONAL, ESTATAL O MUNICIPAL DE ALGÚN PARTIDO POLÍTICO EN LOS TRES AÑOS INMEDIATOS ANTERIORES A LA DESIGNACIÓN, Y
 
-IX. No estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local;
+VI. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
 
-X. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno de la Federación o como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Jefe de Gobierno de la Ciudad de México, ni Gobernador, ni Secretario de Gobierno o su equivalente a nivel local. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos, y
+En caso que ocurra una vacante de consejería electoral local, el Consejo General del Instituto Nacional hará la designación correspondiente de acuerdo a lo establecido en la Ley General.
 
-XI. No ser ni haber sido miembro del Servicio Profesional Electoral Nacional durante el último proceso electoral en la entidad.
+Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales en cuya organización y desarrollo hubieren participado, ni ser objeto de postulación para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-En caso que ocurra una vacante de consejero electoral local, el Consejo General del Instituto Nacional hará la designación correspondiente de acuerdo a lo establecido en la Ley General.
-
-Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 131.
 
-Para la elección de los consejeros electorales del Instituto Estatal, y su remoción se observará lo establecido en los artículos 101 al 103 de la Ley General. Las mismas disposiciones regirán tratándose de vacante definitiva en el cargo.
+Para la elección de las consejerías electorales del Instituto Estatal, y su remoción se observará lo establecido en los artículos 101 al 103 de la Ley General. Las mismas disposiciones regirán tratándose de vacante definitiva en el cargo.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 132.
 
-Cada partido político con registro, contará ante el Consejo General del Instituto Estatal con un representante propietario y hasta dos suplentes.
+Cada partido político con registro, contará ante el Consejo General del Instituto Estatal con una persona representante propietaria y hasta dos suplentes.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 133.
 
-Los representantes de los partidos políticos deberán acreditarse dentro de los treinta días siguientes a la fecha en que se instale el Consejo General y podrán ser sustituidos en cualquier tiempo por el partido político que los acreditó, dando con oportunidad el aviso correspondiente al Consejero Presidente.
+Las personas representantes de los partidos políticos deberán acreditarse dentro de los treinta días siguientes a la fecha en que se instale el Consejo General y podrán ser sustituidas en cualquier tiempo por el partido político que los acreditó, dando con oportunidad el aviso correspondiente a la Presidencia del Consejo General.
 
 ###### Artículo 134.
 
@@ -1475,23 +1739,31 @@ El Consejo General se instalará para la preparación del proceso electoral dent
 
 Las sesiones del Consejo General serán públicas, deberán transmitirse en vivo mediante la aplicación de las tecnologías de la información, privilegiando con ello la transparencia, máxima publicidad y el derecho de acceso a la información, y se desarrollarán conforme a las reglas y procedimientos siguientes:
 
-I. Serán convocadas por el Consejero Presidente, por lo menos con veinticuatro horas de anticipación, debiendo publicar la correspondiente convocatoria y el orden del día en los estrados del Instituto Estatal;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Serán convocadas por la Presidencia del Consejo General, por lo menos con veinticuatro horas de anticipación, debiendo publicar la correspondiente convocatoria y el orden del día en los estrados del Instituto Estatal;
 
 II. A la convocatoria deberá adjuntarse el orden del día y copias de los documentos indispensables, relativos a los asuntos a tratar;
 
-III. Cuando no se reúna el quórum establecido en la fracción anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con los Consejeros y representantes de los partidos políticos, coalición o candidato independiente que asistan, debiendo estar presente el Consejero Presidente, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IV. En caso de que no asistiera el Consejero Presidente, dentro de las veinticuatro horas siguientes se realizará la sesión con los Consejeros y representantes de los partidos políticos, coalición y candidato independiente que asistan, debiendo otro consejero del Consejo General sustituir para esta única ocasión al Consejero Presidente.
+III. Cuando no se reúna el quórum establecido en la fracción anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con las consejeras y los consejeros, así como con las personas representantes de los partidos políticos, coalición o candidatura independiente o candidatura común que asistan, debiendo estar presente la Consejera presidenta o el Consejero Presidente, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. En caso de que no asistiera la Consejera presidenta o el Consejero Presidente, dentro de las veinticuatro horas siguientes se realizará la sesión con las consejeras o los Consejeros y las personas representantes de los partidos políticos, coalición, candidatura común y candidatura independiente que asistan, debiendo otra consejera o consejero del Consejo General sustituir para esta única ocasión a la Consejera Presidenta o Consejero Presidente.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 136.
 
-Para que el Consejo General pueda sesionar es necesario que esté presente la mayoría de sus integrantes con derecho a voto, entre los que deberá estar el Consejero Presidente, quien será suplido en sus ausencias momentáneas por el consejero electoral que él mismo designe. En el supuesto de que el Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo General designará a uno de los consejeros electorales presentes para que presida para la sesión de que se trate.
+Para que el Consejo General pueda sesionar es necesario que esté presente la mayoría de sus integrantes con derecho a voto, entre los que deberá estar la Consejera Presidenta o el Consejero Presidente, quien será suplido en sus ausencias momentáneas por la consejera electoral o el consejero electoral que ella o él mismo designe. En el supuesto de que la Consejera Presidenta o Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo General designará a una consejera o consejero electoral presentes para que presida para la sesión de que se trate.
 
-En caso de que no se reúna la mayoría a la que se refiere el párrafo anterior de este artículo, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los consejeros electorales y representantes que asistan.
+En caso de que no se reúna la mayoría a la que se refiere el párrafo anterior de este artículo, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con las consejeras y los consejeros electorales, así como representantes que asistan.
 
 Las resoluciones se tomarán por mayoría de votos, salvo las que conforme a esta Ley requieran de una mayoría calificada.
 
-En el caso de ausencia definitiva del Consejero Presidente del Consejo General, los consejeros electorales nombrarán, de entre ellos mismos, a quien deba sustituirlo provisionalmente, comunicando de inmediato lo anterior al Instituto Nacional, a fin de que se designe su sustituto en los términos señalados en la Ley General.
+En el caso de ausencia definitiva de la Consejera Presidenta o Consejero Presidente del Consejo General, las consejeras y los consejeros electorales nombrarán, de entre ellos mismos, a quien deba sustituir provisionalmente, comunicando de inmediato lo anterior al Instituto Nacional, a fin de que se designe a la persona que sustituya en los términos señalados en la Ley General.
 
 ###### Artículo 137.
 
@@ -1503,25 +1775,35 @@ II. Dictar normas y previsiones destinadas a hacer efectivas las disposiciones d
 
 III. Emitir la convocatoria para la integración los consejos distritales y municipales en términos de los lineamientos que al efecto determine el Instituto Nacional;
 
-IV. Remover y designar por mayoría calificada al presidente y consejeros electorales que integren los consejos distritales y municipales, con base en las propuestas de al menos el doble por cargo, que formulen el Consejero Presidente y los consejeros electorales del propio Consejo General;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+IV. Remover y designar por mayoría calificada a la Consejera presidenta o al Consejero presidente y consejeras o consejeros electorales que integren los consejos distritales y municipales, con base en las propuestas de al menos el doble por cargo, que formulen la Consejera presidenta o Consejero Presidente, así como las consejeras y los consejeros electorales del propio Consejo General;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 V. Formular y aprobar su anteproyecto de presupuesto de egresos, para su incorporación al proyecto anual de presupuesto de egresos del Estado;
 
-VI. Registrar a los representantes que los partidos políticos acrediten ante el propio Consejo General y, supletoriamente, los que nombren ante los consejos distritales o municipales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Registrar a las personas representantes que los partidos políticos acrediten ante el propio Consejo General y, supletoriamente, los que nombren ante los consejos distritales o municipales;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 VII. Determinar el monto del financiamiento público a que tendrán derecho los partidos políticos y acordar el calendario para la ministración de dicho financiamiento; asimismo vigilará lo relativo al cumplimiento de las normas referentes al financiamiento privado en los términos de ley.
 
-Para el caso de los candidatos independientes determinar el monto del financiamiento público extrordinario (sic) a que tienen derecho;
+Para el caso de las candidaturas independientes determinar el monto del financiamiento público extrordinario (sic) a que tienen derecho;
 
 VIII. Proveer lo relativo a las prerrogativas que se otorgan a los partidos políticos;
 
 IX. Resolver sobre los convenios de frentes, fusiones y coaliciones, que sometan a su consideración los partidos políticos;
 
-X. Recibir y resolver las solicitudes de registro de candidaturas a Gobernador del Estado;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Recibir y resolver las solicitudes de registro de las listas estatales de candidatos a diputados por el principio de representación proporcional;
+X. Recibir y resolver las solicitudes de registro de candidaturas a Gobernadora o Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Recibir y resolver las solicitudes de registro de las listas estatales de candidaturas a diputaciones por el principio de representación proporcional;
 
 XII. Recibir, sustanciar y resolver, en la forma y términos que señala esta Ley, los recursos que sean interpuestos por los partidos políticos contra sus actos y resoluciones;
 
@@ -1529,13 +1811,21 @@ XIII. Aprobar o rechazar el proyecto de resolución del procedimiento ordinario 
 
 XIV. Proporcionar a los organismos electorales la documentación y material, así como los demás elementos y útiles necesarios para el cumplimiento de sus funciones en términos de los que establezca el Instituto Nacional;
 
-XV. Vigilar que las actividades de los partidos políticos se desarrollen con apego a esta Ley;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Registrar la plataforma electoral que para cada proceso electoral deben presentar los partidos políticos y los candidatos independientes en los términos de esta Ley;
+XV. Vigilar que las actividades de los partidos políticos y agrupaciones políticas se desarrollen con apego a la Ley General, la Ley General de Partidos Políticos y esta Ley, así como los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia contra las mujeres en razón de género, y vigilar que cumplan con las obligaciones a que están sujetos;
 
-XVII. Efectuar el cómputo de la votación estatal de la elección de Gobernador del Estado y de la emitida para los efectos de la asignación de diputaciones, según el principio de representación proporcional, aplicando la fórmula que esta Ley determina; así como expedir las constancias de mayoría y de asignación correspondiente y las declaratorias de validez;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Enviar a las instancias competentes los expedientes relativos a las elecciones de diputados según el principio de representación proporcional o de Gobernador del Estado, para la sustanciación de los medios de impugnación que correspondan en términos de la Ley de Medios;
+XVI. Registrar la plataforma electoral que para cada proceso electoral deben presentar los partidos políticos y las candidaturas independientes en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Efectuar el cómputo de la votación estatal de la elección a Gobernadora o Gobernador del Estado y de la emitida para los efectos de la asignación de diputaciones, según el principio de representación proporcional, aplicando la fórmula que esta Ley determina; así como expedir las constancias de mayoría y de asignación correspondiente y las declaratorias de validez;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Enviar a las instancias competentes los expedientes relativos a las elecciones de diputaciones según el principio de representación proporcional o al cargo de Gobernadora o Gobernador del Estado, para la sustanciación de los medios de impugnación que correspondan en términos de la Ley de Medios;
 
 XIX. Acordar la elaboración e impresión de la documentación electoral, en los términos de los lineamientos que emita el Instituto Nacional;
 
@@ -1543,53 +1833,81 @@ XX. Aprobar la celebración de convenios con autoridades federales, estatales y 
 
 XXI. Resolver en los términos de esta Ley, el otorgamiento o pérdida del registro de los partidos políticos estatales; emitir la declaratoria correspondiente, y ordenar su publicación en el Periódico Oficial del Estado de Quintana Roo;
 
-XXII. Registrar de manera supletoria a los consejos distritales electorales las candidaturas a diputados que serán electos por el principio de mayoría relativa;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XXIII. Registrar supletoriamente, las planillas de candidatos a miembros de los ayuntamientos;
+XXII. Registrar de manera supletoria a los consejos distritales electorales las candidaturas a diputaciones que serán electas por el principio de mayoría relativa;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Registrar supletoriamente, las planillas de candidaturas a integrantes de los ayuntamientos;
 
 XXIV. Desahogar las dudas que se le presenten sobre la aplicación e interpretación de esta Ley;
 
-XXV. Designar al Secretario Ejecutivo, a los directores y titulares de las unidades técnicas del Instituto Estatal conforme a los Lineamientos que emita el Instituto Nacional;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XXVI. Integrar las comisiones que considere para el desempeño de sus atribuciones, con el número de miembros que para tal caso acuerde, presididas siempre por un Consejero Electoral;
+XXV. Designar a la persona Titular de la Secretaría Ejecutiva, las direcciones y titulares de las unidades técnicas del Instituto Estatal conforme a los Lineamientos que emita el Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Integrar las comisiones que considere para el desempeño de sus atribuciones, con el número de integrantes que para tal caso acuerde, presididas siempre por una Consejera o Consejero Electoral;
 
 XXVII. Acordar por mayoría, formular la petición al Consejo General del Instituto Nacional para que ejerza la facultad de atracción a que se refiere el inciso c) del Apartado C, de la Base V del artículo 41 de la Constitución Federal y podrá presentarse en cualquier momento, en los términos previstos en la Ley General;
 
 XXVIII. Ejercer las facultades que le delegue el Instituto Nacional que señala el inciso b) del Apartado C, de la Base V del artículo 41 de la Constitución Federal;
 
-XXIX. Dictar los acuerdos para organizar las elecciones de las dirigencias de los partidos políticos estatales que así lo soliciten, con cargo a sus prerrogativas, en los términos que establece esta Ley. La solicitud deberá realizarse al Instituto Estatal cuando menos con cuatro meses de anticipación. El Instituto Estatal establecerá mediante acuerdo las modalidades que deberán cumplir los partidos políticos estatales para la solicitud respectiva, siendo obligación tener actualizado el padrón de afiliados en el registro de partidos políticos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XXX. Organizar durante las campañas al menos un debate entre los candidatos a Gobernador, diputados y presidentes municipales. Los debates podrán ser solicitados por dos o más candidatos, sin ser esta solicitud vinculante;
+XXIX. Dictar los acuerdos para organizar las elecciones de las dirigencias de los partidos políticos estatales que así lo soliciten, con cargo a sus prerrogativas, en los términos que establece esta Ley. La solicitud deberá realizarse al Instituto Estatal cuando menos con cuatro meses de anticipación. El Instituto Estatal establecerá mediante acuerdo las modalidades que deberán cumplir los partidos políticos estatales para la solicitud respectiva, siendo obligación tener actualizado el padrón de personas afiliadas en el registro de partidos políticos;
 
-XXXI. Aprobar el calendario y el plan integral del proceso electoral local, a más tardar sesenta días antes de su inicio, y de los procesos extraordinarios que fueren convocados;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XXXII. Aprobar los topes de gastos de campaña y precampaña que puedan efectuar los partidos políticos, coaliciones o candidatos independientes en términos de esta Ley;
+XXX. Organizar durante las campañas al menos un debate entre las candidaturas a Gobernadora o Gobernador, diputaciones y presidencias municipales. Los debates podrán ser solicitados por dos o más personas candidatas, sin ser esta solicitud vinculante;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. Aprobar el calendario y el plan integral del proceso electoral local, a más tardar sesenta días antes de su inicio, y de los procesos extraordinarios cuando haya convocatoria;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. Aprobar los topes de gastos de campaña y precampaña que puedan efectuar los partidos políticos, coaliciones, candidaturas comunes o candidaturas independientes en términos de esta Ley;
 
 XXXIII. Solicitar directamente o por medio de sus órganos, el auxilio de la fuerza pública para garantizar, en los términos de esta Ley el adecuado desarrollo del proceso electoral;
 
 XXXIV. Aplicar las sanciones que le competan, a quienes infrinjan las disposiciones de la presente Ley;
 
-XXXV. Requerir a la Junta General que investigue por los medios a su alcance hechos que afecten de modo relevante los procesos electorales, los derechos de los partidos políticos y de los candidatos independientes o el incumplimiento de sus obligaciones, ordenar la instrucción de los procedimientos e imponer las sanciones correspondientes en los términos de esta Ley y demás legislación electoral;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Requerir a la Junta General que investigue por los medios a su alcance hechos que afecten de modo relevante los procesos electorales, los derechos de los partidos políticos y de las candidaturas independientes o el incumplimiento de sus obligaciones, ordenar la instrucción de los procedimientos e imponer las sanciones correspondientes en los términos de esta Ley y demás legislación electoral;
 
 XXXVI. Proponer a la Legislatura modificaciones a la legislación electoral con base a las experiencias obtenidas durante los procesos electorales;
 
-XXXVII. Aprobar los convenios que firme el Instituto Estatal para la coadyuvancia en la organización de las elecciones para elegir alcaldes, delegados y subdelegados municipales, así como de las solicitudes de instrumentación de mecanismos de participación ciudadana que señale la Ley;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII. Aprobar los convenios que firme el Instituto Estatal para la coadyuvancia en la organización de las elecciones para elegir alcaldías, delegaciones y subdelegaciones municipales, así como de las solicitudes de instrumentación de mecanismos de participación ciudadana que señale la Ley;
 
 XXXVIII. Realizar convenios de colaboración con instituciones de nivel medio superior y superior;
 
 XXXIX. Resolver el recurso de revisión que se interponga contra actos y resoluciones de los órganos desconcentrados del Instituto Estatal;
 
-XL. Someter a consideración de los representantes de los partidos políticos y candidatos independientes la propuesta de documentación y material electoral que realice la Junta General en apego a los lineamientos aprobados por el Instituto Nacional, en un plazo no menor a cinco días, para que realicen las observaciones que estimen pertinentes, previo a la aprobación que efectúe el Consejo General para su envío al Instituto Nacional, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XLI. Las demás que le confiera (sic) los ordenamientos legales correspondientes.
+XL. Someter a consideración de las personas representantes de los partidos políticos y candidaturas independientes la propuesta de documentación y material electoral que realice la Junta General en apego a los lineamientos aprobados por el Instituto Nacional, en un plazo no menor a cinco días, para que realicen las observaciones que estimen pertinentes, previo a la aprobación que efectúe el Consejo General para su envío al Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XLI. Incorporar la prevención y la erradicación de la violencia política contra las mujeres y el respeto a los derechos humanos de las mujeres en el ámbito político y electoral, como un componente de las políticas de educación cívica; así como en la totalidad de los programas de formación y capacitación a su cargo, y
+
+XLII. Las demás que le confiera (sic) los ordenamientos legales correspondientes.
 
 ###### Artículo 138.
 
 El Consejo General ordenará la publicación de ordenamientos, acuerdos y resoluciones de carácter general en el Periódico Oficial del Estado de Quintana Roo, así como los relativos a la integración de los consejos electorales distritales y municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 139.
 
-Los Consejeros Electorales tendrán las siguientes atribuciones y obligaciones:
+Las Consejerías Electorales tendrán las siguientes atribuciones y obligaciones:
 
 I. Participar en las sesiones del Consejo General con derecho a voz y voto, así como en los trabajos de las Comisiones;
 
@@ -1603,9 +1921,11 @@ V. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones c
 
 VI. Las demás que le otorgue la Constitución Federal, la Ley General, la Constitución del Estado, la presente Ley y demás ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 140.
 
-Son atribuciones del Consejero Presidente del Consejo General, las siguientes:
+Son atribuciones de la Consejera Presidenta o Consejero Presidente del Consejo General, las siguientes:
 
 I. Convocar, presidir y conducir las sesiones del Consejo General y la Junta General;
 
@@ -1613,19 +1933,25 @@ II. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo General y
 
 III. Velar por la legalidad, procurar la unidad y coordinación de las actividades de las autoridades electorales;
 
-IV. Proponer al Consejo General las ternas para el nombramiento del Secretario Ejecutivo, de los directores de área y de los titulares de las unidades técnicas en términos de la Ley General, así como las demás disposiciones normativas en la materia;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Proponer al Consejo General las ternas para el nombramiento de la persona titular de la Secretaría Ejecutiva, las direcciones y de las personas titulares de las unidades técnicas en términos de la Ley General, así como las demás disposiciones normativas en la materia;
 
 V. Establecer vínculos entre el Instituto Estatal y las autoridades federales, estatales y municipales para lograr su apoyo y colaboración en sus respectivos ámbitos de competencia, cuando sea necesario para el cumplimiento de los fines del Instituto Estatal;
 
 VI. Rendir un informe anual al Consejo General sobre las actividades del Instituto Estatal, en la primera sesión del mes de enero de cada año;
 
-VII. Con el auxilio del Secretario Ejecutivo, recibir las solicitudes de registro de candidatos a Gobernador del Estado, así como la lista de candidatos a Diputados por el principio de representación proporcional y, de manera supletoria, las de candidatos a diputados por el principio de mayoría relativa y miembros de los Ayuntamientos, sometiéndolas a la consideración del Consejo General para que determine sobre su procedencia;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Con el auxilio de la persona titular de la Secretaría Ejecutiva, recibir las solicitudes de registro de candidaturas a Gobernadora o Gobernador del Estado, así como la lista de candidaturas a Diputaciones por el principio de representación proporcional y, de manera supletoria, las de candidaturas a diputaciones por el principio de mayoría relativa y miembros de los Ayuntamientos, sometiéndolas a la consideración del Consejo General para que determine sobre su procedencia;
 
 VIII. Vigilar la instalación y funcionamiento de los Consejos Municipales y los Distritales;
 
 IX. Remitir, oportunamente, al Poder Legislativo, el Proyecto de Presupuesto de Egresos del Instituto Estatal que prepare la Junta General, una vez que haya sido aprobado por el Consejo General, a fin de que sea incluido en el Proyecto de Presupuesto del Estado;
 
-X. Firmar junto con el Secretario Ejecutivo todos los acuerdos o resoluciones que emita el Consejo General;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+X. Firmar junto con la persona titular de la Secretaría Ejecutiva todos los acuerdos o resoluciones que emita el Consejo General;
 
 XI. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que establezca esta ley y los que determine el Consejo General;
 
@@ -1643,11 +1969,17 @@ XVII. Publicar mediante avisos colocados en el exterior de las oficinas del Inst
 
 XVIII. Recibir y remitir una vez resueltos, cuando así proceda, los recursos que se interpongan en contra de los acuerdos y resoluciones del Consejo General;
 
-XIX. Proponer al Consejo General los nombramientos de presidente y consejeros electorales que integren los consejos distritales y municipales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XX. Notificar a los partidos políticos o, en su caso, a los representantes de los aspirantes a candidatos independientes, la omisión o incumplimiento de requisitos para el registro o de elegibilidad de los candidatos postulados;
+XIX. Proponer al Consejo General los nombramientos de las presidencias y consejeras y consejeros electorales que integren los consejos distritales y municipales;
 
-XXI. Ejercer las partidas presupuestales, esta facultad podrá ser delegada al Secretario Ejecutivo, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Notificar a los partidos políticos o, en su caso, a las personas representantes de los aspirantes a candidaturas independientes, la omisión o incumplimiento de requisitos para el registro o de elegibilidad de las candidaturas postuladas;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Ejercer las partidas presupuestales, esta facultad podrá ser delegada la persona titular de la Secretaría Ejecutiva, y
 
 XXII. Las demás que le confieren esta Ley y demás ordenamientos electorales.
 
@@ -1673,39 +2005,69 @@ VII. Quejas y Denuncias, y
 
 VIII. Transparencia, Información y Estudios Electorales.
 
-Funcionarán permanentemente y se integrarán con tres Consejeros Electorales; podrán participar en ellas, con voz pero sin voto, los representantes de los partidos políticos.
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-Los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será presidida por uno de los consejeros integrantes.
+IX. De Igualdad y No Discriminación.
 
-La comisión de quejas y denuncias se integrará únicamente por tres consejeros electorales.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-El Consejo General designará a los integrantes de cada comisión y al Consejero Electoral que la presida en el mes y año que corresponda.
+Funcionarán permanentemente y se integrarán con tres Consejeras o Consejeros Electorales; podrán participar en ellas, con voz pero sin voto, las personas representantes de los partidos políticos.
 
-Las comisiones permanentes contarán con un secretario técnico que será el titular de la Dirección o Unidad correspondiente.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-El titular de la Dirección o de la Unidad podrá ser suplido en sus funciones de secretario técnico, por el servidor público de nivel inmediato inferior que determine.
+Las Consejeras y Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas, por un periodo de tres años; presidirán tales comisiones uno de las consejeras o consejeros integrantes.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+La comisión de quejas y denuncias se integrará únicamente por tres consejeras o consejeros electorales.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+El Consejo General designará a los integrantes de cada comisión y a la Consejera o Consejero Electoral que la presida en el mes y año que corresponda.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Las comisiones permanentes contarán con una secretaría técnica que será la persona titular de la Dirección o Unidad correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+La persona titular de la Dirección o de la Unidad podrá ser suplida en sus funciones de secretaría técnica, por la persona servidora pública de nivel inmediato inferior que determine.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine esta Ley o los reglamentos y acuerdos del Consejo General.
 
-El Secretario Ejecutivo colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+La persona titular de la Secretaría Ejecutiva colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto Estatal, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 142.
 
-El Consejo General integrará las comisiones transitorias que considere para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral, e integradas en los mismos términos previstos para aquellas de carácter permanente.
+El Consejo General integrará las comisiones transitorias que considere para el desempeño de sus atribuciones, las que siempre serán presididas por una Consejera o Consejero Electoral, e integradas en los mismos términos previstos para aquellas de carácter permanente.
 
 #### SECCIÓN TERCERA. DE LA JUNTA GENERAL
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 143.
 
-La Junta General es un órgano ejecutivo, técnico y de naturaleza colegiada, estará integrada por el Consejero Presidente quien la coordinará y presidirá, por el Secretario Ejecutivo así como por los directores de Organización, de Cultura Política, Jurídico, de Partidos Políticos y de Administración, así como los titulares de las Unidades Técnicas de Comunicación Social, de Informática y Estadística, así como de Transparencia y Archivo Electoral del Instituto Estatal.
+La Junta General es un órgano ejecutivo, técnico y de naturaleza colegiada, estará integrada por la Consejera Presidenta o Consejero Presidente quien la coordinará y presidirá, por la persona titular de la Secretaría Ejecutiva, así como por las personas titulares de las direcciones de Organización, de Cultura Política, Jurídico, de Partidos Políticos y de Administración, así como las personas titulares de las Unidades Técnicas de Comunicación Social, de Informática y Estadística, así como de Transparencia y Archivo Electoral del Instituto Estatal.
+
+En su conformación deberá garantizarse el principio de paridad de género.
 
 ###### Artículo 144.
 
 Son atribuciones de la Junta General las siguientes:
 
-I. Elaborar y proponer para su aprobación al Consejo General, las políticas generales, el anteproyecto de Presupuesto de Egresos del Instituto Estatal, el Programa Anual de Actividades, los programas operativos correspondientes a los procesos electorales y los de trabajo, investigación, de educación cívica y de estudio, conforme a los fines del Instituto Estatal, y vigilar y evaluar su cumplimiento con la periodicidad que señale el reglamento respectivo;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Elaborar y proponer para su aprobación al Consejo General, las políticas generales, el anteproyecto de Presupuesto de Egresos del Instituto Estatal, el Programa Anual de Actividades, los programas operativos correspondientes a los procesos electorales y los de trabajo, investigación, de educación cívica y de estudio, de paridad de género y de respeto a los derechos humanos de las mujeres y de los grupos vulnerables en el ámbito político y electoral, conforme a los fines del Instituto Estatal, y vigilar y evaluar su cumplimiento con la periodicidad que señale el reglamento respectivo;
 
 II. Proponer a la aprobación del Consejo General los reglamentos internos, estatutos, así como las modificaciones a los mismos, en su caso, que sean necesarios para el buen funcionamiento del Instituto Estatal;
 
@@ -1713,9 +2075,13 @@ III. Fijar los procedimientos administrativos, conforme a las políticas y progr
 
 IV. Supervisar el cumplimiento de las normas aplicables al otorgamiento o cancelación de registro o acreditación, en su caso, de las agrupaciones políticas, partidos políticos y coaliciones, así como de su financiamiento y prerrogativas;
 
-V. Recibir de los partidos políticos o candidatos independientes, las observaciones a la lista nominal de electores, para su registro y remisión, previo acuerdo del Consejo General, a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Nacional;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Proponer para su aprobación al Consejo General el Programa de cultura política que habrá de implementar el Instituto Estatal;
+V. Recibir de los partidos políticos o candidaturas independientes, las observaciones a la lista nominal de electores, para su registro y remisión, previo acuerdo del Consejo General, a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Proponer para su aprobación al Consejo General el Programa de Cultura Política, el cual deberá de elaborarse con perspectiva de género y considerando el respeto a los derechos de las mujeres, grupos vulnerables o en situaciones de riesgo;
 
 VII. Someter a consideración del Consejo General la documentación y material electoral, para su aprobación en los términos de los lineamientos aprobados por el Instituto Nacional;
 
@@ -1723,45 +2089,65 @@ VIII. Someter al conocimiento y, en su caso, a la aprobación del Consejo Genera
 
 IX. Las demás que le confiera esta Ley y los demás ordenamientos electorales.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 145.
 
-La Junta General se reunirá por lo menos una vez al mes en sesiones ordinarias y en forma extraordinaria a convocatoria del Consejero Presidente cuando así lo considere necesario; sus acuerdos o resoluciones se tomarán por mayoría de votos y el Consejero Presidente tendrá voto de calidad en caso de empate.
+La Junta General se reunirá por lo menos una vez al mes en sesiones ordinarias y en forma extraordinaria a convocatoria de la Consejera Presidenta o Consejero Presidente cuando así lo considere necesario; sus acuerdos o resoluciones se tomaran por mayoría de votos y la Consejera Presidenta o Consejero Presidente tendrá voto de calidad en caso de empate.
 
-#### SECCIÓN CUARTA. DEL SECRETARIO EJECUTIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+#### SECCIÓN CUARTA. DE LA SECRETARÍA EJECUTIVA
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 146.
 
-El Secretario Ejecutivo es el Secretario de Acuerdos del Consejo General, cuando así lo determine el Consejero Presidente, orientará a los Consejos Municipales, los Distritales, las Juntas Municipales Ejecutivas y las Juntas Distritales Ejecutivas con el Órgano Superior de Dirección para el cumplimiento de sus acuerdos.
+La persona titular de la Secretaría Ejecutiva será también titular de la Secretaría de Acuerdos del Consejo General, cuando así lo determine la Consejera Presidenta o Consejero Presidente, orientará a los Consejos Municipales, los Distritales, las Juntas Municipales Ejecutivas y las Juntas Distritales Ejecutivas con el Órgano Superior de Dirección para el cumplimiento de sus acuerdos.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 147.
 
-Para ser Secretario Ejecutivo se requiere cumplir con los mismos requisitos para ser consejero electoral y además contar con conocimientos que le permitan el desempeño de sus funciones, con licenciatura en derecho o carrera afín.
+Para ser titular de la Secretaría Ejecutiva se requiere cumplir con los mismos requisitos para ser consejera o consejero electoral y además contar con conocimientos que le permitan el desempeño de sus funciones, con licenciatura en derecho o carrera afín.
 
-El Secretario Ejecutivo del Instituto Estatal durará en su cargo dos procesos electorales ordinarios sucesivos y no podrá ser reelecto.
+La persona titular de la Secretaría Ejecutiva del Instituto Estatal durará en su cargo dos procesos electorales ordinarios sucesivos y no podrá ser reelecto.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 148.
 
-El Secretario Ejecutivo será sustituido en sus ausencias no mayores a quince días por el titular de la Dirección Jurídica, en caso de ausencia del Secretario que exceda de quince días el Consejo General del Instituto Estatal acordará lo conducente.
+La persona titular de la Secretaría Ejecutiva será sustituida en sus ausencias no mayores a quince días por la persona titular de la Dirección Jurídica; en caso de ausencia la persona titular de la Secretaría Ejecutiva que exceda de quince días el Consejo General del Instituto Estatal acordará lo conducente.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 149.
 
-El Secretario Ejecutivo será removido de su cargo, por las dos terceras partes de los Miembros del Consejo General con derecho a voto, cuando se considere que ha incurrido en conductas contrarias a los principios rectores de la función electoral, deje de reunir los requisitos de elegibilidad o incurra en responsabilidad, en términos de lo que dispongan las leyes aplicables, en su caso. Invariablemente se le otorgará la garantía de audiencia.
+La persona titular de la Secretaría Ejecutiva será removida de su cargo, por las dos terceras partes de las personas integrantes del Consejo General con derecho a voto, cuando se considere que ha incurrido en conductas contrarias a los principios rectores de la función electoral, deje de reunir los requisitos de elegibilidad o incurra en responsabilidad, en términos de lo que dispongan las leyes aplicables, en su caso. Invariablemente se le otorgará la garantía de audiencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 150.
 
-Son atribuciones del Secretario Ejecutivo las siguientes:
+Son atribuciones de la persona titular de la Secretaria Ejecutiva las siguientes:
 
 I. Participar en las sesiones del Consejo General con derecho a voz pero sin voto;
 
 II. Someter al conocimiento y aprobación del Consejo General los asuntos de su competencia;
 
-III. Auxiliar al Consejo General y a su presidente en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Preparar el orden del día de las sesiones del Consejo y la Junta General, declarar la existencia de quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la consideración de los integrantes del Consejo General y de la Junta General, respectivamente;
+III. Auxiliar al Consejo General y a la presidencia en el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Preparar el orden del día de las sesiones del Consejo y la Junta General, declarar la existencia de quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la consideración de las personas integrantes del Consejo General y de la Junta General, respectivamente;
 
 V. Informar sobre el cumplimiento de los acuerdos del Consejo General;
 
-VI. Firmar, junto con el presidente del Consejo General todos los convenios, acuerdos y resoluciones que se emitan;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Firmar, junto con la Consejera Presidenta o el Consejero Presidente todos los convenios, acuerdos y resoluciones que se emitan;
 
 VII. Sustanciar con el auxilio de la Dirección Jurídica y de Partidos Políticos el procedimiento de otorgamiento o pérdida de registro de las agrupaciones políticas estatales, partidos políticos locales o de las coaliciones, así como sobre la acreditación de los partidos políticos nacionales; someter el proyecto de resolución a la Junta y Consejo General, respectivamente, hasta dejarlos en estado de resolución;
 
@@ -1777,7 +2163,9 @@ XII. Dar cuenta con los proyectos de dictamen de las comisiones;
 
 XIII. Ejercer y atender oportunamente la función de la oficialía electoral por sí o por conducto de otros servidores públicos del Instituto Estatal en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral;
 
-XIV. Auxiliar al Presidente del Consejo General en el intercambio de información y documentación con otras autoridades electorales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Auxiliar a la Consejera Presidenta o el Consejero Presidente en el intercambio de información y documentación con otras autoridades electorales;
 
 XV. Establecer mecanismos, de conformidad con las reglas, lineamientos, criterios y formatos que establezca el Instituto Nacional, para la información oportuna de los resultados preliminares de las elecciones locales al Consejo General;
 
@@ -1793,7 +2181,9 @@ XX. Proveer a los órganos del Instituto Estatal de los elementos para el cumpli
 
 XXI. Proponer para la aprobación del Consejo General, el proyecto de calendario integral de los procesos electorales ordinarios, así como de elecciones extraordinarias que se sujetará a la convocatoria respectiva;
 
-XXII. Expedir los documentos que acrediten la personalidad de los consejeros electorales y de los representantes de las agrupaciones política estatales acreditadas ante el Instituto Estatal y de los partidos políticos, coaliciones y del candidato independiente ante el Consejo General;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Expedir los documentos que acrediten la personalidad de las consejeras y los consejeros electorales y de los representantes de las agrupaciones políticas estatales acreditadas ante el Instituto Estatal y de los partidos políticos, coaliciones y de la candidatura independiente ante el Consejo General
 
 XXIII. Informar al Consejo General de las resoluciones emitidas por los Tribunales y tomar las medidas necesarias para su cumplimiento, y
 
@@ -1821,13 +2211,19 @@ El Instituto Estatal contará, dentro de sus Órganos Centrales, con las Direcci
 
 Al frente de cada una de estas direcciones de área habrá un Director que será nombrado y removido por el Consejo General, a propuesta del Consejero Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 153.
 
-Para ser Director de Área, se deberán satisfacer los siguientes requisitos:
+Para ser persona titular de una Dirección de Área, se deberán satisfacer los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 I. Ser mexicano por nacimiento, sin tener otra nacionalidad, y ser ciudadano quintanarroense, con una residencia efectiva en la entidad y vecindad en cualquiera de los Municipios del Estado, no menor de dos años anteriores a la fecha de designación;
 
-II. Estar en pleno ejercicio de sus derechos políticos y civiles, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiere sido de carácter no intencional o imprudencial;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+II. Estar en pleno ejercicio de sus derechos políticos y civiles, no estar sujeta o sujeto a proceso penal y no haber sido sentenciada o sentenciado por delito alguno, salvo que hubiere sido de carácter no intencional o imprudencial;
 
 III. Tener más de veinticinco años de edad;
 
@@ -1835,13 +2231,17 @@ IV. Poseer título y cédula profesional preferentemente, en áreas o disciplina
 
 V. Contar preferentemente con experiencia en el área correspondiente;
 
-VI. No haber sido registrado como candidato a cargo alguno de elección popular en los tres años inmediatos anteriores a la designación;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. No haber sido registrada como persona candidata a cargo alguno de elección popular en los tres años inmediatos anteriores a la designación;
 
 VII. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los tres años inmediatos anteriores a la designación y gozar de buena reputación, y
 
 VIII. No haber sido titular del órgano interno de control o su equivalente al interior del Instituto Estatal en los cuatro años anteriores a la designación.
 
-Aunado a lo anterior, en la designación de los directores de área se observará los Lineamientos que para tal efecto emita el Instituto Nacional.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Aunado a lo anterior, en la designación de las personas titulares de las direcciones de área se observarán los Lineamientos que para tal efecto emita el Instituto Nacional.
 
 ###### Artículo 154.
 
@@ -1869,7 +2269,9 @@ VI. Elaborar, supervisar y evaluar los sistemas logísticos para el resguardo y 
 
 VII. Establecer y aplicar los lineamientos para la integración, uso y resguardo de los archivos documentales de los Órganos Desconcentrados del Instituto Estatal;
 
-VIII. Acordar con el Consejero Presidente los asuntos de su competencia, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Acordar con la Presidencia del Consejo General los asuntos de su competencia, y
 
 IX. Las demás que le confiera esta Ley, el Consejo General y la Junta General.
 
@@ -1877,45 +2279,75 @@ IX. Las demás que le confiera esta Ley, el Consejo General y la Junta General.
 
 La Dirección de Cultura Política tendrá las siguientes atribuciones:
 
-I. Elaborar y proponer a la Junta General los programas de educación cívica, capacitación electoral y difusión de la cultura política y democrática, que desarrollarán los Órganos del Instituto Estatal, debiendo someterse a la aprobación del Consejo General, a través del Consejero Presidente en apego a los lineamientos que en la materia emita el Instituto Nacional;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Elaborar y proponer a la Junta General los programas de educación cívica, paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político, capacitación electoral y difusión de la cultura política y democrática, que desarrollarán los Órganos del Instituto Estatal, debiendo someterse a la aprobación del Consejo General, a través de la Consejera Presidenta o el Consejero Presidente en apego a los lineamientos que en la materia emita el Instituto Nacional;
 
 II. Coordinar y vigilar el cumplimiento de los programas señalados en la fracción anterior;
 
 III. Diseñar, elaborar e integrar el material didáctico y los instructivos electorales, debiendo someterlos a la aprobación del Consejo General a través de la Junta General en apego a los lineamientos que en la materia emita el Instituto Nacional;
 
-IV. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político electorales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Orientar a la ciudadanía para el ejercicio de sus derechos y cumplimiento de sus obligaciones políticos y electorales;
 
 V. Ejecutar y supervisar el cumplimiento del Programa de Capacitación para la integración de las Mesas Directivas de Casilla en apego a los lineamientos que en la materia emita el Instituto Nacional;
 
-VI. Llevar a cabo los programas de capacitación, evaluación y apoyar en la selección de los integrantes de los órganos desconcentrados del Instituto Estatal en apego a los lineamientos que en la materia emita el Instituto Nacional;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Promover la suscripción de convenios con el Instituto Nacional para la promoción de la cultura política democrática y la construcción de la ciudadanía en el Estado;
+VI. Llevar a cabo los programas de capacitación, evaluación y apoyar en la selección de las personas integrantes de los órganos desconcentrados del Instituto Estatal en apego a los lineamientos que en la materia emita el Instituto Nacional;
 
-VIII. Diseñar y proponer campañas de cultura política y prevención de delitos electorales en coordinación con la Fiscalía Especializada para la Atención de Delitos Electorales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Acordar con el Consejero Presidente los asuntos de su competencia, y
+VII. Promover la suscripción de convenios con el Instituto Nacional para la promoción de la cultura política democrática, paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político, la igualdad política entre mujeres y hombres, así como la construcción de la ciudadanía en el Estado;
 
-X. Las demás que le confiera esta Ley, el Consejo General y la Junta General.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Diseñar y proponer campañas de cultura política, paridad de género y cultura de respeto de los derechos humanos de las mujeres en el ámbito político y electoral y prevención de delitos electorales en coordinación con la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Acordar con la Presidencia del Consejo General los asuntos de su competencia, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+X. Realizar campañas de información para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Capacitar al personal del Instituto, partidos políticos y ciudadanía en general para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, así como en igualdad sustantiva, y
+
+XII. Las demás que le confiera esta Ley, el Consejo General y la Junta General.
 
 ###### Artículo 157.
 
 La Dirección Jurídica tendrá las siguientes atribuciones:
 
-I. Apoyar al Consejero Presidente en la elaboración de proyectos de resolución y los acuerdos previstos en esta Ley, así como en la defensa legal del Instituto Estatal ante las distintas autoridades jurisdiccionales y administrativas;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Apoyar a la Presidencia del Consejo General en la elaboración de proyectos de resolución y los acuerdos previstos en esta Ley, así como en la defensa legal del Instituto Estatal ante las distintas autoridades jurisdiccionales y administrativas;
 
 II. Intervenir en la elaboración y revisión de los proyectos de reglamentos internos, estatutos, manuales de organización y procedimientos, lineamientos, contratos, convenios y demás actos de los Órganos del Instituto Estatal;
 
-III. Elaborar los contratos de arrendamiento y de prestación de servicios que celebre el Instituto Estatal, así como los demás documentos que impliquen actos de administración, conforme a los lineamientos que fije el Consejero Presidente;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+III. Elaborar los contratos de arrendamiento y de prestación de servicios que celebre el Instituto Estatal, así como los demás documentos que impliquen actos de administración, conforme a los lineamientos que fije la Presidencia del Consejo General;
 
 IV. Asesorar y apoyar a los órganos del Instituto Estatal, para que sus actividades se rijan con apego a los principios de constitucionalidad y legalidad;
 
-V. Apoyar al Consejero Presidente del Consejo General y al Secretario Ejecutivo en el trámite y seguimiento de los requerimientos formulados por autoridades jurisdiccionales federales y locales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Auxiliar al Consejero Presidente en el trámite y seguimiento de los medios de impugnación, federales y locales, en materia electoral;
+V. Apoyar a la Presidencia del Consejo General y a la persona titular de la Secretaría Ejecutiva en el trámite y seguimiento de los requerimientos formulados por autoridades jurisdiccionales federales y locales;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Auxiliar a la Presidencia del Consejo General en el trámite y seguimiento de los medios de impugnación, federales y locales, en materia electoral;
 
 VII. Sustanciar los recursos de revisión y someter a la aprobación del Consejo General los proyectos respectivos, en términos de lo previsto por la Ley de Medios;
 
-VIII. Acordar con el Consejero Presidente los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Acordar la Presidencia del Consejo General los asuntos de su competencia;
 
 IX. Elaborar el proyecto de resolución del procedimiento ordinario sancionador para la aprobación en su caso de la Comisión de Quejas y Denuncias, quien a su vez lo someterá al Consejo General en términos de esta ley;
 
@@ -1937,27 +2369,43 @@ IV. Recibir y tramitar los avisos de modificación a los documentos básicos de 
 
 V. Coordinar las acciones para sustanciar el procedimiento de otorgamiento o pérdida de registro de las agrupaciones políticas estatales y de partidos políticos locales que se encuentre en los supuestos previstos por esta ley; así como de la acreditación de los partidos políticos nacionales;
 
-VI. Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o locales, así como las coaliciones y los candidatos independientes hagan efectivas las prerrogativas a las que tienen derecho;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Llevar el libro de registro de los integrantes de los órganos directivos de las agrupaciones políticas estatales, partidos políticos estatales y de sus representantes acreditados ante los Consejos General, Municipales o Distritales, en su caso;
+VI. Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o locales, así como las coaliciones y las candidaturas independientes hagan efectivas las prerrogativas a las que tienen derecho;
 
-VIII. Llevar los libros de registro de los candidatos a los cargos de elección popular;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Vigilar que los contenidos de la propaganda y de la difusión de los partidos políticos, coaliciones y candidatos independientes en medios de comunicación, se encuentren apegados a los requisitos exigidos por la Ley;
+VII. Llevar el libro de registro de las personas integrantes de los órganos directivos de las agrupaciones políticas estatales, partidos políticos estatales y de sus representantes acreditados ante los Consejos General, Municipales o Distritales, en su caso;
 
-X. Elaborar propuestas para la organización de debates entre candidatos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Llevar los libros de registro de las candidaturas a los cargos de elección popular;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Vigilar que los contenidos de la propaganda y de la difusión de los partidos políticos, coaliciones y candidaturas independientes en medios de comunicación, se encuentren apegados a los requisitos exigidos por la Ley;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+X. Elaborar propuestas para la organización de debates entre las personas candidatas;
 
 XI. Establecer los criterios para vigilar permanentemente el cumplimiento de los topes de gastos de precampaña y campaña que acuerde el Consejo General;
 
-XII. Acordar con el Consejero Presidente los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Organizar la elección de los dirigentes de los partidos políticos locales cuando así lo solicite al Instituto Estatal. Los gastos correspondientes serán con cargo a las prerrogativas a los partidos políticos solicitantes, y
+XII. Acordar con la Presidencia del Consejo General los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Organizar la elección de las personas dirigentes de los partidos políticos locales cuando así lo solicite al Instituto Estatal. Los gastos correspondientes serán con cargo a las prerrogativas a los partidos políticos solicitantes, y
 
 XIV. Las demás que le confiera esta Ley, el Consejo General y la Junta General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 159.
 
-El Director de Administración tendrá las siguientes atribuciones:
+La Dirección de Administración tendrá las siguientes atribuciones:
 
 I. Aplicar las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales del Instituto Estatal;
 
@@ -1969,7 +2417,9 @@ IV. Establecer y operar los sistemas administrativos para el ejercicio del Presu
 
 V. Realizar las gestiones necesarias para la liberación y comprobación de los recursos financieros autorizados en el Presupuesto de Egresos;
 
-VI. Elaborar y firmar la documentación para las erogaciones que con cargo al Presupuesto de Egresos aprobado, deba ejercer el Instituto Estatal, previa autorización del Consejero Presidente;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Elaborar y firmar la documentación para las erogaciones que con cargo al Presupuesto de Egresos aprobado, deba ejercer el Instituto Estatal, previa autorización de la Presidencia del Consejo General;
 
 VII. Planear, dirigir y controlar las actividades referentes a adquisiciones, enajenaciones, arrendamientos, almacenes y suministros de bienes y servicios, conforme a los lineamientos institucionales;
 
@@ -1985,11 +2435,17 @@ XII. Promover el diseño de sistemas automatizados e informáticos, que coadyuve
 
 XIII. Proponer a la Junta General para su aprobación, los manuales, Estatuto del Servicio Profesional Electoral, normas y criterios técnicos en materia administrativa, para la mejor organización y funcionamiento del Instituto Estatal;
 
-XIV. Suministrar, previa autorización, a los partidos políticos nacionales y estatales, candidatos independientes, a las coaliciones, y agrupaciones políticas estatales, los recursos económicos que, en su caso, les corresponda y de conformidad con lo que establezca la Ley;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XV. Acordar con el Consejero Presidente los asuntos de su competencia;
+XIV. Suministrar, previa autorización, a los partidos políticos nacionales y estatales, candidaturas independientes, a las coaliciones, y agrupaciones políticas estatales, los recursos económicos que, en su caso, les corresponda y de conformidad con lo que establezca la Ley;
 
-XVI. Autorizar las altas, bajas y readscripción del personal administrativo del Instituto Estatal, previa autorización del Consejero Presidente, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Acordar con la Presidencia del Consejo General los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Autorizar las altas, bajas y readscripción del personal administrativo del Instituto Estatal, previa autorización de la Presidencia del Consejo General, y
 
 XVII. Las demás que le confiera esta Ley, el Consejo General y la Junta General.
 
@@ -2009,9 +2465,11 @@ En caso de ausencia definitiva, se procederá al nombramiento de un nuevo Titula
 
 Podrán ser removidos de su cargo por el Consejo General del Instituto Estatal cuando dejen de reunir los requisitos previstos en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 163.
 
-La Unidad de Comunicación Social, estará adscrita a la Junta General bajo la coordinación del Consejero Presidente y tendrá las siguientes atribuciones:
+La Unidad de Comunicación Social, estará adscrita a la Junta General bajo la coordinación de la Presidencia del Consejo General y tendrá las siguientes atribuciones:
 
 I. Difundir de manera oportuna las funciones, programas y actividades del Instituto Estatal;
 
@@ -2019,17 +2477,29 @@ II. Proponer, diseñar y sistematizar instrumentos de divulgación para mantener
 
 III. Instrumentar los mecanismos necesarios de comunicación masiva para promover al Instituto Estatal como el organismo encargado de desarrollar los procesos electorales de la entidad, instrumentar los mecanismos de participación ciudadana y las demás que le confiere la Ley, con apego a los ordenamientos legales que lo rigen;
 
-IV. Promover el desarrollo de campañas de información a los ciudadanos sobre sus derechos y obligaciones político electorales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-V. Fomentar en los ciudadanos la importancia del sistema de partidos políticos en los procesos electorales;
+IV. Promover el desarrollo de campañas de información a la ciudadanía sobre sus derechos y obligaciones políticos y electorales;
 
-VI. Proponer al Consejero Presidente del Consejo General, el Programa Operativo Anual de Actividades de la Unidad;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Comunicar permanentemente a los Consejeros Electorales del monitoreo y seguimiento de la información que se publique en los medios de comunicación en materia electoral;
+V. Fomentar en la ciudadanía la importancia del sistema de partidos políticos en los procesos electorales;
 
-VIII. Acordar con el Consejero Presidente los asuntos de su competencia, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Las demás que le confiera esta Ley, el Consejo General, la Junta General y el Consejero Presidente del Consejo General.
+VI. Proponer a la Presidencia del Consejo General, el Programa Operativo Anual de Actividades de la Unidad;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Comunicar permanentemente a las Consejerías Electorales del monitoreo y seguimiento de la información que se publique en los medios de comunicación en materia electoral;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Acordar con la Presidencia del Consejo General los asuntos de su competencia, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Las demás que le confiera esta Ley, el Consejo General, la Junta General y la Presidencia del Consejo General.
 
 ###### Artículo 164.
 
@@ -2041,7 +2511,9 @@ II. Administrar, coordinar y racionalizar los recursos técnicos que requieran l
 
 III. Investigar, determinar y gestionar la adquisición de equipo y programas de cómputo que sean convenientes para los Órganos que integran el Instituto Estatal;
 
-IV. Proponer al Consejero Presidente la distribución y asignación de los equipos de cómputo, de acuerdo a las necesidades de los diferentes Órganos del Instituto Estatal;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Proponer a la Presidencia del Consejo General la distribución y asignación de los equipos de cómputo, de acuerdo a las necesidades de los diferentes Órganos del Instituto Estatal;
 
 V. Establecer integralmente los lineamientos en materia de procesamiento electrónico de datos, en tal forma que se obtenga información veraz, confiable y oportuna;
 
@@ -2063,9 +2535,13 @@ XIII. Establecer relación con áreas de informática de otros organismos electo
 
 XIV. Diseñar e instrumentar, previa aprobación, el Programa de Resultados Preliminares Electorales de acuerdo a las bases y lineamientos que prevé la Ley General y el Instituto Nacional;
 
-XV. Acordar con el Consejero Presidente los asuntos de su competencia, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Las demás que le confiera esta Ley, y el Consejero Presidente.
+XV. Acordar con la Presidencia del Consejo General los asuntos de su competencia, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Las demás que le confiera esta Ley, y la Presidencia del Consejo General.
 
 ###### Artículo 165.
 
@@ -2105,19 +2581,25 @@ XIV. Las versiones estenográficas de las sesiones del Consejo General y de los 
 
 XV. Las resoluciones de las impugnaciones, quejas y denuncias recibidas y atendidas por el Órgano Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 167.
 
-La Unidad de Transparencia y Archivo Electoral, estará adscrita administrativamente al Consejero Presidente, y su titular tendrá las siguientes atribuciones:
+La Unidad de Transparencia y Archivo Electoral, estará adscrita administrativamente a la Presidencia del Consejo General, y su titular tendrá las siguientes atribuciones:
 
 I. Recabar, publicar, difundir y actualizar la información a que se refiere el artículo anterior y verificar que se actualice periódicamente, conforme la normatividad aplicable;
 
-II. Recibir y tramitar las solicitudes de acceso a la información y darles seguimiento hasta la entrega de la misma, en la forma y modalidad que la haya pedido el interesado conforme a lo previsto a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+II. Recibir y tramitar las solicitudes de acceso a la información y darles seguimiento hasta la entrega de la misma, en la forma y modalidad que la haya pedido la persona interesada conforme a lo previsto a la normatividad aplicable;
 
 III. Auxiliar y asesorar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
 IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información y en su caso asesorar a las áreas correspondientes;
 
-V. Efectuar las notificaciones a los solicitantes;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Efectuar las notificaciones a las personas solicitantes;
 
 VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
@@ -2137,7 +2619,9 @@ XIII. Elaborar el manual de procedimientos para asegurar la adecuada atención a
 
 XIV. Elaborar un programa para facilitar la obtención de información pública, que deberá ser actualizado periódicamente;
 
-XV. Difundir entre los servidores públicos los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de esta;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Difundir entre las personas servidoras públicas los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
 
 XVI. Proponer al Consejo General, la concertación de acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las respuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente;
 
@@ -2147,9 +2631,13 @@ XVIII. Compilar los índices de los expedientes clasificados como reservados y a
 
 XIX. Organizar y custodiar el acervo bibliográfico, hemerográfico, videográfico y documental del Instituto Estatal;
 
-XX. Establecer y ofrecer a los usuarios los mecanismos y procedimientos, tradicionales y electrónicos del acervo bibliográfico, hemerográfico, videográfico y documental del Instituto Estatal, para su consulta;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XXI. Ofrecer a los usuarios servicios informativos de calidad a través de medios tradicionales y electrónicos, para su consulta;
+XX. Establecer y ofrecer a las personas usuarias los mecanismos y procedimientos, tradicionales y electrónicos, del acervo bibliográfico, hemerográfico, videográfico y documental del Instituto Estatal, para su consulta;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Ofrecer a las personas usuarias servicios informativos de calidad a través de medios tradicionales y electrónicos, para su consulta;
 
 XXII. Propiciar la celebración de convenios con otras instituciones para el intercambio de información y documentación;
 
@@ -2157,9 +2645,13 @@ XXIII. Coordinar y vigilar el desarrollo del programa editorial del Instituto Es
 
 XXIV. Difundir los servicios que preste y promover la consulta de las obras editoriales y demás publicaciones del Instituto Estatal;
 
-XXV. Acordar con el Consejero Presidente los asuntos de su competencia, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XXVI. Las demás que le confiera esta Ley, el Consejero Presidente, y demás legislación aplicable.
+XXV. Acordar con la Presidencia del Consejo General los asuntos de su competencia, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Las demás que le confiera esta Ley, la Presidencia del Consejo General y demás legislación aplicable.
 
 ###### Artículo 168.
 
@@ -2179,9 +2671,13 @@ Los Consejos Distritales Electorales que residan en los Distritos Electorales cu
 
 En aquellos Municipios que comprendan dos o más Distritos Electorales, la preparación, desarrollo y vigilancia de elecciones de Ayuntamientos recaerá en aquel Consejo Distrital que resida en el Distrito Electoral de número más bajo.
 
-Los Consejos Distritales Electorales se integrarán con un Consejero Presidente y cuatro consejeros electorales, con voz y voto; concurrirán además con voz pero sin voto: un representante por cada uno de los partidos políticos con registro o acreditación, según el caso, ante el Consejo General un representante del candidato independiente registrado en esa demarcación, en su caso, y los vocales, Secretario de organización y de capacitación de la Junta Distrital Ejecutiva.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-Por el Consejero Presidente y los Consejeros Electorales se elegirán tres Consejeros Suplentes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, los suplentes entrarán en funciones.
+Los Consejos Distritales Electorales se integrarán paritariamente por una Presidencia y cuatro consejerías electorales con voz y voto; concurrirán además con voz pero sin voto: una persona representante por cada uno de los partidos políticos con registro o acreditación, según el caso, ante el Consejo General, una persona representante de la candidatura independiente registrada en esa demarcación, en su caso, las vocalías, la persona titular de la Secretaría de organización y de capacitación de la Junta Distrital Ejecutiva.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Por la Consejera Presidenta o Consejero Presidente y las Consejerías Electorales se elegirán tres Consejerías Suplentes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, las personas suplentes entrarán en funciones.
 
 ###### Artículo 171.
 
@@ -2189,9 +2685,13 @@ Los Consejos Municipales son órganos desconcentrados del Instituto Estatal, enc
 
 Cuando en el territorio de un distrito electoral uninominal existan dos o más Municipios, se instalarán los Consejos Municipales para conocer del proceso electoral para renovar los Ayuntamientos de aquellos en donde no sean cabecera distrital.
 
-Los Consejos Municipales se integrarán por un Consejero Presidente y cuatro Consejeros Electorales, con voz y voto; concurrirán, además, con voz pero sin voto: un representante por cada uno de los partidos políticos con registro o acreditación, según el caso, ante el Consejo General, un representante del candidato independiente registrado en esa demarcación, en su caso y los Vocales, Secretario de Organización, y de Capacitación de la Junta Municipal Ejecutiva.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-Para el Consejero Presidente y los Consejeros Electorales se elegirán tres Consejeros Suplentes comunes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, los suplentes entrarán en funciones.
+Los Consejos Municipales se integrarán paritariamente por una Presidencia del Consejo y cuatro consejerías electorales, con voz y voto; concurrirán, además, con voz pero sin voto: una persona representante por cada uno de los partidos políticos con registro o acreditación, según el caso, ante el Consejo General, una persona representante de la candidatura independiente registrada en esa demarcación, en su caso las y los Vocales, persona titular de la Secretaría de Organización, y de Capacitación de la Junta Municipal Ejecutiva.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Para la Presidencia o las consejerías electorales se elegirán tres consejerías suplentes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, las personas suplentes entrarán en funciones.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
 
@@ -2249,19 +2749,31 @@ I. Velar por la observancia de esta Ley y de los acuerdos y resoluciones del Con
 
 II. Recepcionar, en su caso, las quejas y/o denuncias que se presenten del procedimiento especial sancionador, mismas que deberán de remitir de forma inmediata a la Dirección Jurídica del Instituto Estatal;
 
-III. Registrar cuando proceda, los nombramientos de los representantes que los partidos políticos y los candidatos independientes acrediten para la jornada electoral;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Entregar a los presidentes de las mesas directivas de casilla la documentación electoral y demás útiles necesarios para el cumplimiento de sus funciones;
+III. Registrar cuando proceda, los nombramientos de las personas representantes que los partidos políticos y las candidaturas independientes acrediten para la jornada electoral;
 
-V. Realizar los cómputos distritales de las elecciones de Gobernador, y de diputados por los principios de mayoría relativa y en su caso, de representación proporcional;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Expedir, en los términos de la presente Ley, la declaratoria de validez y la constancia de mayoría a la fórmula de candidatos a diputados de mayoría relativa que haya triunfado;
+IV. Entregar a las presidencias de las mesas directivas de casilla la documentación electoral y demás útiles necesarios para el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Realizar los cómputos distritales de las elecciones de Gobernadora o Gobernador, y de diputaciones por los principios de mayoría relativa y en su caso, de representación proporcional;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Expedir, en los términos de la presente Ley, la declaratoria de validez y la constancia de mayoría a la fórmula de candidaturas a diputaciones de mayoría relativa que haya triunfado;
 
 VII. Enviar a las instancias correspondientes los expedientes electorales, cuya integración les impone la presente Ley;
 
-VIII. Registrar a los representantes de los partidos políticos y de los candidatos independientes que se acrediten ante el propio órgano;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Recibir y resolver las solicitudes de registro de fórmulas de candidatos a diputados por el principio de mayoría relativa;
+VIII. Registrar a las personas representantes de los partidos políticos y de las candidaturas independientes que se acrediten ante el propio órgano;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Recibir y resolver las solicitudes de registro de fórmulas de candidaturas a diputaciones por el principio de mayoría relativa;
 
 X. Cumplir con los acuerdos que dicte el Consejo General;
 
@@ -2271,11 +2783,17 @@ XII. Recibir del Instituto Estatal los recursos económicos y materiales necesar
 
 XIII. Recibir del Instituto Estatal, la cartografía de las secciones electorales, el proyecto para la ubicación de casillas y las listas nominales de electores;
 
-XIV. Recibir del Instituto Estatal la propuesta conteniendo el número y la ubicación de las casillas y, en su caso, aprobarla o modificarla, así como resolver las objeciones que al respecto formulen los partidos políticos, coaliciones o candidatos independientes;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Recibir del Instituto Estatal la propuesta conteniendo el número y la ubicación de las casillas Y, EN SU CASO, APROBARLA O MODIFICARLA, ASÍ COMO RESOLVER LAS OBJECIONES QUE AL RESPECTO FORMULEN LOS PARTIDOS POLÍTICOS, COALICIONES O CANDIDATURAS INDEPENDIENTES;
 
 XV. Revisar la ubicación de casillas propuesta por el Instituto Estatal y realizar las modificaciones pertinentes, en su caso;
 
-XVI. Recibir de los funcionarios de las Mesas Directivas de Casillas los paquetes electorales que contengan la documentación y el expediente relativo a la elección de Gobernador del Estado, Diputados y Ayuntamientos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Recibir de los funcionarios de las Mesas Directivas de Casillas los paquetes electorales que contengan la documentación y el expediente relativo a la elección de Gobernadora o Gobernador del Estado, Diputadas y Diputados, e integrantes de los Ayuntamientos;
 
 XVII. Remitir, en su caso, a los Consejos Distritales encargados de la elección municipal, los paquetes electorales que contengan la documentación y el expediente relativo a la elección de Ayuntamientos, en un plazo que en ningún caso podrá ser superior a veinticuatro horas;
 
@@ -2287,7 +2805,9 @@ XX. Cumplir con los programas que determine la Junta General;
 
 XXI. Vigilar el cumplimiento de las disposiciones legales y lineamientos relativos a la propaganda electoral;
 
-XXII. Recibir, en el ámbito de su competencia, las solicitudes de registro como observadores electorales, así como vigilar que se imparta a los solicitantes el curso de capacitación respectivo, y remitir las peticiones al Consejo General para los efectos legales que correspondan;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Recibir, en el ámbito de su competencia, las solicitudes de registro como personas observadoras electorales, así como vigilar que se imparta a los solicitantes el curso de capacitación respectivo, y remitir las peticiones al Consejo General para los efectos legales que correspondan;
 
 XXIII. Recibir, revisar y verificar los contenidos de los paquetes electorales, que el Instituto Estatal envíe a los Consejos Distritales, y
 
@@ -2303,7 +2823,11 @@ II. Recepcionar, en su caso, las quejas y/o denuncias que se presenten del proce
 
 III. Determinar el número y ubicación de las casillas;
 
-IV. Capacitar, a los ciudadanos que habrán de integrar las mesas directivas de casilla;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. CAPACITAR A LA CIUDADANÍA QUE HABRÁN DE INTEGRAR LAS MESAS DIRECTIVAS DE CASILLA;
 
 V. Publicar las listas de ubicación e integración de las mesas directivas de casilla, en términos de esta Ley;
 
@@ -2311,15 +2835,25 @@ VI. Vigilar la oportuna y legal instalación de las mesas directivas de casilla;
 
 VII. Intervenir, conforme esta Ley, dentro de su competencia, en la preparación, desarrollo y vigilancia del proceso electoral;
 
-VIII. Recibir y resolver las solicitudes de registro de planillas de candidatos a integrar los ayuntamientos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Registrar a los representantes que los partidos políticos y los candidatos independientes acrediten ante el propio órgano;
+VIII. Recibir y resolver las solicitudes de registro de planillas de candidaturas a integrar los Ayuntamientos;
 
-X. Desahogar las peticiones y consultas que les sometan los ciudadanos, candidatos y partidos políticos, en relación con el desarrollo del proceso electoral, cuando sea de su competencia;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Realizar el cómputo municipal de la elección para presidente municipal y síndico por el principio de mayoría relativa y regidores por el principio de representación proporcional;
+IX. Registrar a las personas representantes que los partidos políticos y las candidaturas independientes acrediten ante el propio órgano;
 
-XII. Expedir la declaratoria de validez y la constancia de mayoría a la fórmula que obtenga el mayor número de votos, y las constancias de asignación de regidores por el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+X. Desahogar las peticiones y consultas que les sometan a la ciudadanía, personas candidatas y partidos políticos, en relación con el desarrollo del proceso electoral, cuando sea de su competencia;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Realizar el cómputo municipal de la elección para la presidencia municipal y síndica o síndico por el principio de mayoría relativa y regidoras y regidores por el principio de representación proporcional;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Expedir la declaratoria de validez y la constancia de mayoría a la fórmula que obtenga el mayor número de votos, y las constancias de asignación de regidoras y regidores por el principio de representación proporcional;
 
 XIII. Enviar a las instancias correspondientes los expedientes electorales, cuya integración les impone la presente Ley, y
 
@@ -2329,17 +2863,23 @@ A los Consejos Municipales les será (sic) aplicables, en lo conducente y en su 
 
 #### SECCIÓN SEGUNDA. DE LAS JUNTAS DISTRITALES Y MUNICIPALES EJECUTIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 177.
 
-Las Juntas Distritales y Municipales Ejecutivas, se integran por el Consejero Presidente quien fungirá como Vocal Ejecutivo, el Vocal Secretario y los Vocales de Organización y de Capacitación; sesionará por lo menos una vez al mes durante los procesos electorales y le serán aplicables, en lo conducente, los mismos lineamientos que esta Ley dispone para la Junta General.
+Las Juntas Distritales y Municipales Ejecutivas, se integran por una Consejera Presidenta o Consejero Presidente quien fungirá como titular de la Vocalía Ejecutiva, la Vocalía Secretarial y las Vocalías de Organización y de Capacitación; sesionará por lo menos una vez al mes durante los procesos electorales y le serán aplicables, en lo conducente, los mismos lineamientos que esta Ley dispone para la Junta General.
 
-Las funciones del Vocal Ejecutivo, serán las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Las funciones de la Vocalía Ejecutiva, serán las siguientes:
 
 I. Presidir la Junta Distrital o Municipal Ejecutivas, según corresponda;
 
 II. Coordinar las vocalías y distribuir entre ellas los asuntos que les correspondan;
 
-III. Vigilar en su jurisdicción, que se ejecuten los programas de capacitación electoral, en su caso;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+III. Vigilar en su jurisdicción, que se ejecuten los programas de capacitación electoral, y educación cívica, paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral, en su caso;
 
 IV. Verificar que se publique la integración y ubicación de las Mesas Directivas de Casilla, en los términos de esta ley y las disposiciones generales del Instituto Nacional, e informar de la publicación al Consejo General, en su caso;
 
@@ -2349,55 +2889,79 @@ VI. Informar al Consejo Distrital o Municipal, según corresponda, sobre el desa
 
 VII. Las demás que le confiere el Consejo General, el Consejo Distrital o Municipal al que pertenezca, el Instituto Nacional y esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 178.
 
-El Vocal Secretario de las Juntas Distritales y Municipales Ejecutivas del Instituto Estatal, tendrá las siguientes atribuciones:
+La Vocalía Secretarial de las Juntas Distritales y Municipales Ejecutivas del Instituto Estatal, tendrá las siguientes atribuciones:
 
-I. Auxiliar al Consejo Distrital o Municipal, y a su Presidente, en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Auxiliar al Consejo Distrital o Municipal, y a su Presidencia, en el ejercicio de sus atribuciones;
 
 II. Preparar el orden del día de las sesiones del Consejo Distrital o Municipal, declarar la existencia del quórum, dar fe de lo actuado, levantar el acta correspondiente y someterla a la aprobación del propio Consejo;
 
-III. Informar al Consejero Presidente sobre el cumplimiento de los acuerdos del Consejo Distrital o Municipal;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+III. Informar a la Consejera Presidenta o Consejero Presidente sobre el cumplimiento de los acuerdos del Consejo Distrital o Municipal;
 
 IV. Recibir, tramitar y turnar, los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo Distrital o Municipal, en los términos que señala la Ley de Medios;
 
-V. Recibir y remitir las quejas y denuncias que se presenten ante el Consejo Distrital o Municipal por los representantes de los partidos políticos, candidatos independiente o ciudadanos, por la probable comisión de conductas infractoras en los términos que prevé la presente Ley y remitirlas inmediatamente a la Dirección Jurídica del Instituto Electoral;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Recibir y remitir las quejas y denuncias que se presenten ante el Consejo Distrital o Municipal por las personas representantes de los partidos políticos, candidatura independiente o ciudadanía, por la probable comisión de conductas infractoras en los términos que prevé la presente Ley y remitirlas inmediatamente a la Dirección Jurídica del Instituto Estatal;
 
 VI. Informar al Consejo Distrital o Municipal de las resoluciones dictadas por el Tribunal Electoral;
 
-VII. Expedir los documentos que acrediten la personalidad de los Consejeros, de los representantes de los partidos políticos y candidatos independientes;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Expedir los documentos que acrediten la personalidad de las Consejeras y los Consejeros, de las personas representantes de los partidos políticos y candidaturas independientes;
 
 VIII. Certificar toda la documentación que obre en los archivos del Consejo Distrital o Municipal y la Junta Distrital o Municipal Ejecutivas, según corresponda;
 
 IX. Llevar el archivo del Consejo Distrital o Municipal y remitirlo a la Junta General, al concluir el proceso electoral;
 
-X. Firmar, junto con el Consejero Presidente, los acuerdos y resoluciones que emita el Consejo Distrital o Municipal, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Las demás que le sean conferidas por el presente ordenamiento, la Ley de Medios, el Consejo General, la Junta General y el Presidente del Consejo Distrital o Municipal según corresponda.
+X. Firmar, junto con la Consejera Presidenta o Consejero Presidente, los acuerdos y resoluciones que emita el Consejo Distrital o Municipal, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Las demás que le sean conferidas por el presente ordenamiento, la Ley de Medios, el Consejo General, la Junta General y la Presidencia del Consejo Distrital o Municipal según corresponda.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 179.
 
-El Vocal de Organización y el de Capacitación de las Juntas Distritales y Municipales Ejecutivas de los Consejos Distritales del Instituto Estatal, tendrá las siguientes atribuciones:
+Las Vocalías de Organización y de Capacitación de las Juntas Distritales y Municipales Ejecutivas de los Consejos Distritales del Instituto Estatal, tendrá las siguientes atribuciones:
 
-I. El Vocal de Organización:
+I. La Vocalía de Organización:
 
-a) Auxiliar en el proceso de verificación de cumplimiento de requisitos legales, de la propuesta de ubicación de las Mesas Directivas de Casilla, y en su caso, realizar propuestas alternas al Consejo Distrital por conducto de su Presidente;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO a) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-b) Coadyuvar, en la entrega del material y documentación electoral, a los Presidentes de las Mesas Directivas de Casilla;
+a) Auxiliar en el proceso de verificación de cumplimiento de requisitos legales, de la propuesta de ubicación de las Mesas Directivas de Casilla, Y EN SU CASO, REALIZAR PROPUESTAS ALTERNAS AL CONSEJO DISTRITAL POR CONDUCTO DE LA PRESIDENCIA;
+
+b) Coadyuvar, en la entrega del material y documentación electoral, a las Presidencias de las Mesas Directivas de Casilla;
 
 c) Proponer rutas electorales, y
 
 d) Las demás que se le confieran en el ámbito de su competencia.
 
-II. Vocal de Capacitación:
+II. La Vocalía de Capacitación:
 
-a) Realizar en el Distrito Electoral o Municipio que corresponda, las acciones para el cumplimiento de los programas de educación cívica, capacitación electoral y difusión de la cultura política y democrática, que hayan sido aprobadas por el Consejo General;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO a) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-b) Notificar y capacitar a los ciudadanos insaculados para ocupar los cargos de funcionarios de las Mesas Directivas de Casilla;
+a) Realizar en el Distrito Electoral o Municipio que corresponda, las acciones para el cumplimiento de los programas de educación cívica, paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral, CAPACITACIÓN ELECTORAL y difusión de la cultura política y democrática, que hayan sido aprobadas por el Consejo General;
 
-c) Distribuir el material didáctico y los instructivos electorales aprobados por el Consejo General, a los ciudadanos insaculados para ocupar los cargos de funcionarios de las Mesas Directivas de Casilla;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO b) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-d) Informar durante la etapa de preparación del proceso electoral al Consejo Distrital o Municipal sobre los avances y resultados de la capacitación a los ciudadanos insaculados, y
+b) Notificar Y CAPACITAR a la ciudadanía insaculada para ocupar los cargos de funcionarias y funcionarios de las Mesas Directivas de Casilla;
+
+c) Distribuir el material didáctico y los instructivos electorales aprobados por el Consejo General, a la ciudadanía insaculada para ocupar los cargos de funcionarias y funcionarios de las Mesas Directivas de Casilla;
+
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+d) INFORMAR DURANTE LA ETAPA DE PREPARACIÓN DEL PROCESO ELECTORAL AL CONSEJO DISTRITAL O MUNICIPAL SOBRE LOS AVANCES Y RESULTADOS DE LA CAPACITACIÓN A LA CIUDADANÍA INSACULADA, Y
 
 e) Las demás que se le confiera en el ámbito de su competencia.
 
@@ -2701,9 +3265,11 @@ El órgano local en materia laboral será competente para recepcionar las demand
 
 ### CAPÍTULO PRIMERO. DE SU NATURALEZA E INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 203.
 
-El Tribunal Electoral es el órgano jurisdiccional especializado en materia electoral, que gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Los magistrados electorales ejercerán sus funciones bajo los principios de certeza, legalidad, independencia, imparcialidad, objetividad, máxima publicidad y probidad.
+El Tribunal Electoral es el órgano jurisdiccional especializado en materia electoral, que gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Las magistradas y los magistrados electorales ejercerán sus funciones bajo los principios de certeza, legalidad, independencia, imparcialidad, objetividad, máxima publicidad, probidad, paridad, y se realizarán con perspectiva de género.
 
 ###### Artículo 204.
 
@@ -2725,7 +3291,9 @@ La votación podrá ser a favor o en contra, sin posibilidad de abstenerse, salv
 
 El Tribunal Electoral para el cumplimiento de sus funciones se integrará por:
 
-I. Tres Magistrados, uno de los cuales fungirá como su Presidente;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Tres Magistradas y Magistrados, observando el principio de paridad, alternando el género mayoritario, uno de los cuales ejercerá la presidencia;
 
 II. La Secretaría General de Acuerdos;
 
@@ -2747,17 +3315,21 @@ IX. La Unidad de Transparencia.
 
 Durante los procesos electorales, el Tribunal Electoral se integrará además con el personal jurídico que considere pertinente y que tendrá el carácter de eventual, a fin de llevar a cabo el óptimo desempeño de las funciones que le fueren conferidas por la Constitución Estatal, la presente Ley y la Ley de Medios de Impugnación.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 209.
 
-El Presidente del Tribunal Electoral tomará las medidas que sean necesarias para cubrir las ausencias temporales de sus servidores públicos y podrá designar provisionalmente a los sustitutos.
+La presidencia del Tribunal Electoral tomará las medidas que sean necesarias para cubrir las ausencias temporales de las personas servidoras públicas y podrá designar provisionalmente a las personas sustitutas.
 
-Tratándose de ausencias definitivas, el Pleno del Tribunal Electoral tendrá la atribución de designar a los servidores públicos sustitutos, observando el cumplimiento de los requisitos que para cada cargo prevé la presente Ley.
+Tratándose de ausencias definitivas, el Pleno del Tribunal Electoral tendrá la atribución de designar a las personas servidoras públicas sustitutas, observando el cumplimiento de los requisitos que para cada cargo prevé, la presente Ley.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 210.
 
-El Tribunal Electoral se compondrá de tres magistrados, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, de conformidad con lo que establece la propia Constitución del Estado.
+El Tribunal Electoral se compondrá de tres magistradas y magistrados, observando el principio de paridad, alternando el género mayoritario, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, de conformidad con lo que establece la propia Constitución del Estado.
 
-Los magistrados electorales serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores en los términos que establece la Ley General.
+Las magistraturas electorales serán electas por las dos terceras partes de las personas integrantes presentes de la Cámara de Senadores en los términos que establece la Ley General.
 
 ###### Artículo 211.
 
@@ -2891,7 +3463,9 @@ III. Sustanciar y resolver en forma definitiva las impugnaciones en materia de p
 
 IV. Expedir su reglamento interior conforme a las disposiciones que establezca esta Ley;
 
-V. Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral, paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral;
 
 VI. Celebrar convenios de colaboración con otros Tribunales, Instituciones y Autoridades de los tres órdenes de gobierno para su mejor desempeño;
 
@@ -2911,9 +3485,13 @@ II. Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes 
 
 III. Determinar la fecha y hora de sus sesiones;
 
-IV. Calificar las excusas o impedimentos que se presenten en contra de los magistrados, o la recusación en su caso;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-V. Elegir de entre sus integrantes al Presidente del Tribunal Electoral, en los términos que prevé la presente Ley;
+IV. Calificar las excusas o impedimentos que se presenten en contra de las magistraturas, o la recusación en su caso;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Elegir de entre sus integrantes a la Presidenta o Presidente del Tribunal Electoral, en los términos que prevé la presente Ley;
 
 VI. Aprobar el presupuesto de egresos del Tribunal Electoral;
 
@@ -2921,17 +3499,23 @@ VII. Expedir y modificar el Reglamento Interior del Tribunal Electoral conforme 
 
 VIII. Determinar y aplicar, en el ámbito de su competencia las sanciones previstas en la presente Ley y la Ley de Medios;
 
-IX. Conceder licencia a los magistrados electorales que lo soliciten, siempre que no excedan de treinta días fuera de los procesos electorales. Las licencias serán sin goce de sueldo;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-X. Resolver las solicitudes de permiso sin goce de sueldo, formuladas por el personal del Tribunal Electoral, siempre que el periodo sea mayor a un mes y no se trate por cuestiones de salud del servidor público;
+IX. Conceder licencia a las magistraturas electorales que lo soliciten, siempre que no excedan de treinta días fuera de los procesos electorales. Las licencias serán sin goce de sueldo;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+X. Resolver las solicitudes de permiso sin goce de sueldo, formuladas por el personal del Tribunal Electoral, siempre que el periodo sea mayor a un mes y no se trate por cuestiones de salud de la persona servidora pública;
 
 XI. Difundir en estrados y su página oficial, las resoluciones y Acuerdos Generales que emita el Pleno del Tribunal Electoral;
 
-XII. Aprobar los planes y programas que contribuyan a la promoción de la cultura política y democrática en el Estado;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+XII. Aprobar los planes y programas que contribuyan a la promoción de la cultura política y democrática en el Estado, así como a la paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político y electoral;
 
-XIII. Designar a los jefes de unidad y al personal jurídico, previo cumplimiento de los requisitos del cargo que prevé la presente Ley, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Designar a las jefaturas de unidad y al personal jurídico, previo cumplimiento de los requisitos del cargo que prevé la presente Ley, y
 
 XIV. Las demás que sean necesarias para su correcto funcionamiento.
 
@@ -3331,17 +3915,25 @@ La Unidad de Capacitación e Investigación, tendrá las siguientes atribuciones
 
 I. Impartir cursos, seminarios y otras actividades docentes, a fin de formar y capacitar al personal jurídico especializado que requiere el Tribunal Electoral;
 
-II. Llevar a cabo cursos y jornadas de divulgación de Derecho Electoral, de cultura cívico-política y fomento de los valores democráticos para todos los sectores sociales y en los niveles de educación básica, media superior y superior;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+II. Llevar a cabo cursos y jornadas de divulgación de Derecho Electoral, de cultura cívico- política, paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral y fomento de los valores democráticos para todos los sectores sociales y en los niveles de educación básica, media superior y superior;
 
 III. Organizar y realizar investigaciones orientadas a la comprensión de la actividad política, la función jurisdiccional y la normatividad electoral;
 
-IV. Difundir el conocimiento en materia electoral y su área contenciosa, así como la educación cívica y la cultura democrática, a través de publicaciones y la realización de diversos eventos académicos con el objeto de contribuir al fomento de la cultura política;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Difundir el conocimiento en materia electoral y su área contenciosa, así como la educación cívica, la cultura democrática, paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral, a través de publicaciones y la realización de diversos eventos académicos con el objeto de contribuir al fomento de la cultura política;
 
 V. Fomentar la participación del personal jurídico del Tribunal Electoral en actividades académicas, con instituciones docentes o de investigación, públicas o privadas;
 
-VI. Proponer al Magistrado Presidente, la celebración de convenios de colaboración, intercambio y auxilio con universidades, escuelas, colegios, asociaciones civiles, institutos y demás organismos que tengan como objeto la investigación y capacitación jurídico-electoral, que representan un enriquecimiento académico reciproco, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Las demás que le confiera el Presidente, esta Ley y demás disposiciones aplicables.
+VI. Proponer a la Magistrada o Magistrado Presidente, la celebración de convenios de colaboración, intercambio y auxilio con universidades, escuelas, colegios, asociaciones civiles, institutos y demás organismos que tengan como objeto la investigación y capacitación jurídico-electoral, que representan un enriquecimiento académico reciproco, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Las demás que le confiera la Presidencia, esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 246.
 
@@ -3571,11 +4163,15 @@ El Tribunal Electoral contará con servidores públicos de confianza, por realiz
 
 En el Reglamento Interno del Tribunal Electoral, se regularán las relaciones laborales de éste con sus servidores de confianza y deberán contemplarse las condiciones en que habrán de prestarse los servicios, tomando en consideración la naturaleza de la materia electoral y los requerimientos de los procesos electorales de la entidad.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 263.
 
-La designación de los titulares de las Unidades y del personal jurídico se realizará con apego a los principios de transparencia y profesionalismo que deben prevalecer en los órganos jurisdiccionales encargados de la impartición de justicia en la materia electoral, ponderando los mejores perfiles y experiencia en la materia.
+La designación de las personas titulares de las Unidades y del personal jurídico se realizará con apego a los principios de transparencia, paridad y profesionalismo que deben prevalecer en los órganos jurisdiccionales encargados de la impartición de justicia en la materia electoral, ponderando los mejores perfiles y experiencia en la materia.
 
 ### CAPÍTULO ÚNICO. DE LAS ETAPAS DEL PROCESO ELECTORAL
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 264.
 
@@ -3587,9 +4183,11 @@ El órgano local en materia laboral será competente para recepcionar las demand
 
 ### CAPÍTULO PRIMERO. DE LAS PRECAMPAÑAS ELECTORALES
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 265.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución del Estado y esta Ley, realizados por las autoridades electorales, los partidos políticos, así como los ciudadanos, que tienen por objeto la renovación periódica de los integrantes de los poderes Ejecutivo y Legislativo; así como de los ayuntamientos.
+El proceso electoral es el conjunto de actos ordenados por la Constitución del Estado y esta Ley, realizados por las autoridades electorales, los partidos políticos, así como la ciudadanía, que tienen por objeto la renovación periódica de los integrantes de los poderes Ejecutivo y Legislativo; así como de los ayuntamientos. En la elección e integración de los Ayuntamientos existirá la paridad de género tanto vertical como horizontal.
 
 ###### Artículo 266.
 
@@ -3611,51 +4209,59 @@ La etapa de resultados y declaración de validez de las elecciones, inicia con l
 
 ## TÍTULO SEGUNDO. DE LOS ACTOS PREVIOS A LA ELECCIÓN
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REGISTRO DE LOS CANDIDATOS
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REGISTRO DE LAS PERSONAS CANDIDATAS
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 267.
 
 Para los efectos de la presente Ley, se entenderán como:
 
-I. Procesos internos para la selección de candidatos a cargos de elección popular: El conjunto de actividades que realizan los partidos políticos y los aspirantes a dichos cargos, de conformidad con lo establecido en esta Ley, en los Estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político.
+I. Procesos internos para la selección de candidaturas a cargos de elección popular: El conjunto de actividades que realizan los partidos políticos y las personas aspirantes a dichos cargos, de conformidad con lo establecido en esta Ley, en los Estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político;
 
-II. Precampaña electoral: El conjunto de actos que realizan los partidos políticos o coaliciones debidamente acreditados o registrados ante el Instituto Estatal, sus militantes y simpatizantes, así como los precandidatos a candidaturas a cargos de elección popular debidamente registrados por cada partido político.
+II. Precampaña electoral: El conjunto de actos que realizan los partidos políticos o coaliciones debidamente acreditados o registrados ante el Instituto Estatal, sus militantes y personas simpatizantes, así como las personas precandidatas y candidatas a cargos de elección popular debidamente registradas por cada partido político;
 
-III. Actos de precampaña electoral: Las reuniones públicas, asambleas, marchas y en general, todos aquéllos actos en que los precandidatos a una candidatura se dirigen a los afiliados, militantes o simpatizantes, con el objetivo de obtener su respaldo para ser postulado como candidato a un cargo de elección popular.
+III. Actos de precampaña electoral: Las reuniones públicas, asambleas, marchas y en general, todos aquellos actos en que las personas precandidatas a una candidatura se dirigen a las personas afiliadas, militantes o simpatizantes, con el objetivo de obtener su respaldo para ser postulada como persona candidata a un cargo de elección popular;
 
-IV. Propaganda de precampaña: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
+IV. Propaganda de precampaña: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva difunden las personas precandidatas a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidatura de quien es promovida. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
 
-V. Precandidato: El ciudadano que pretende ser postulado por un partido político como candidato a algún cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político o coalición, en el proceso de selección interna de candidatos a cargos de elección popular.
+Las personas precandidatas deberán abstenerse de utilizar expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley.
+
+El Consejo General y la Comisión de Quejas y Denuncias están facultadas para ordenar, una vez satisfechos los procedimientos establecidos en esta Ley, el retiro inmediato de la propaganda contraria a esta norma, y
+
+V. Persona precandidata: La ciudadanía que pretende ser postulada por un partido político como persona candidata a algún cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político o coalición, en el proceso de selección interna de candidaturas a cargos de elección popular.
 
 ###### Artículo 268.
 
 Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 269.
 
-Cada partido político determinará conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate.
+Cada partido político determinará conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidaturas a cargos de elección popular, según la elección de que se trate.
 
-Los partidos políticos deberán dar aviso por escrito al Consejo General del Instituto Estatal del inicio de sus procesos de selección de candidatos, dentro de los cinco días anteriores al inicio de los mismos, a través del dirigente o representante del partido político respectivo, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea interna o, en su caso, de realización de la jornada comicial interna. Asimismo, deberán presentar su normatividad interna, lineamientos y/o acuerdos a los que estarán sujetos los aspirantes a precandidatos.
+Los partidos políticos deberán dar aviso por escrito al Consejo General del Instituto Estatal del inicio de sus procesos de selección de candidaturas, dentro de los cinco días anteriores al inicio de los mismos, a través de la dirigencia o persona representante del partido político respectivo, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea interna o, en su caso, de realización de la jornada comicial interna. Asimismo, deberán presentar su normatividad interna, lineamientos y/o acuerdos a los que estarán sujetas las personas aspirantes a precandidatas.
 
 Posteriormente, los partidos políticos, por cada candidatura que pretendan registrar respecto a un mismo cargo de elección popular, deberán presentar en forma impresa y digital en un mismo momento, lo siguiente:
 
-I. Copia del escrito de la solicitud del aspirante a precandidato;
+I. Copia del escrito de la solicitud de la persona aspirante a precandidata;
 
-II. Copia de la exposición de motivos del aspirante a precandidato;
+II. Copia de la exposición de motivos de la persona aspirante a precandidata;
 
-III. Copia del programa de trabajo del aspirante a precandidato;
+III. Copia del programa de trabajo de la persona aspirante a precandidata;
 
 IV. Nombre de su representante;
 
-V. Nombre del responsable de la obtención, administración y gasto de los recursos, y
+V. Nombre de la persona responsable de la obtención, administración y gasto de los recursos, y
 
-VI. Domicilio para oír y recibir notificaciones del aspirante a precandidato o su representante.
+VI. Domicilio para oír y recibir notificaciones de la persona aspirante a precandidata; o su representante.
 
-El Instituto Estatal, a través de la Dirección de Partidos Políticos verificará el cumplimiento de los requisitos señalados, de satisfacerlos, dicha Dirección procederá a notificar tanto a los partidos políticos como a sus aspirantes a precandidatos, las obligaciones a que quedan sujetos conforme a lo previsto por esta Ley.
+El Instituto Estatal, a través de la Dirección de Partidos Políticos verificará el cumplimiento de los requisitos señalados, de satisfacerlos, dicha Dirección procederá a notificar tanto a los partidos políticos como a sus personas aspirantes a precandidata, las obligaciones a que quedan sujetos conforme a lo previsto por esta Ley.
 
 Si se advierten omisiones de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que, en un término de tres días, contados a partir de la legal notificación, subsane el o los requisitos omitidos.
 
-En caso de incumplimiento a lo anterior, la Dirección de Partidos Políticos lo hará del conocimiento del Consejo General para que éste determine que dichos aspirantes a precandidatos no podrán desarrollar sus actos de precampaña por el partido político que se trate.
+En caso de incumplimiento a lo anterior, la Dirección de Partidos Políticos lo hará del conocimiento del Consejo General para que éste determine que dichas personas aspirantes a precandidatas no podrán desarrollar sus actos de precampaña por el partido político que se trate.
 
 ###### Artículo 270.
 
@@ -3683,47 +4289,63 @@ Los precandidatos que rebasen el tope de gastos de precampaña establecido por e
 
 Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, por lo menos tres días antes al inicio del plazo para el registro de candidatos de la elección de que se trate. De no retirarse, el Instituto Estatal tomarán (sic) las medidas necesarias para su retiro con cargo a la ministración del financiamiento público que corresponda a los partidos políticos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ### CAPÍTULO TERCERO. DE LA CAMPAÑA ELECTORAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 274.
 
-Corresponde a los partidos políticos y coaliciones, el derecho de solicitar el registro de candidatos a cargo de elección popular, así como a los ciudadanos que aspiren a ser registrados como candidatos independientes y que hayan obtenido ese derecho en los términos de esta Ley.
+Corresponde a los partidos políticos y coaliciones, el derecho de solicitar el registro de candidaturas a cargo de elección popular, así como a la ciudadanía que aspire a ser registrada como personas candidatas independientes y que hayan obtenido ese derecho en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 275.
 
-Las candidaturas a diputados y a miembros de los Ayuntamientos que presenten los partidos políticos o las coaliciones ante el Instituto Estatal, deberán integrarse salvaguardando la paridad entre los géneros, conforme a la Constitución Federal, la Constitución del Estado y esta Ley.
+Las candidaturas a diputaciones e integrantes de los Ayuntamientos que presenten los partidos políticos o las coaliciones ante el Instituto Estatal, deberán integrarse salvaguardando la paridad entre los géneros, conforme a la Constitución Federal, la Constitución del Estado y esta Ley.
 
-Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la paridad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional, así como un ambiente libre de cualquier tipo de violencia política por razones de género. Corresponde a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán el derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa.
+Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la paridad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional, así como un ambiente libre de cualquier tipo de violencia política contra la mujer por razones de género. Corresponde a los partidos políticos el derecho de solicitar el registro de candidaturas a cargos de elección popular por ambos principios. La ciudadanía tendrá el derecho de solicitar su registro como personas candidatas independientes a cargos de elección popular únicamente por el principio de mayoría relativa.
 
-En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, procurando, siempre que el número de postulaciones lo permita, que ninguno de éstos obtenga una cantidad mayor al cincuenta por ciento en las candidaturas a legisladores locales, así como en las candidaturas a miembros que conformen las planillas de Ayuntamientos. En la integración de las planillas de los Ayuntamientos se deberá postular una fórmula de candidatos jóvenes. En la postulación de candidatos a diputados locales y a integrantes de miembros de los ayuntamientos, se deberá respetar el principio de paridad de género, tanto en su dimensión vertical como en su dimensión horizontal, cuyos supuestos serán regulados en la ley. En ambos casos, no se admitirá la postulación de candidaturas, tanto a diputados locales como a miembros de los ayuntamientos, en detrimento de la sub-representación y/o sobre-representación de cualquiera de los géneros, en la medida que esto sea posible.
+En todo caso, será obligación de los partidos políticos postular candidaturas de ambos géneros, procurando, siempre que el número de postulaciones lo permita, que ninguno de éstos obtenga una cantidad mayor al cincuenta por ciento en las candidaturas a diputaciones locales, así como en las candidaturas a integrantes que conformen las planillas de Ayuntamientos. En la integración de las planillas de los Ayuntamientos se deberá postular una fórmula de candidaturas jóvenes. En la postulación de candidaturas a diputaciones locales y a integrantes de los ayuntamientos, se deberá respetar el principio de paridad de género, tanto en su dimensión vertical como en su dimensión horizontal, cuyos supuestos serán regulados en la ley. En ambos casos, no se admitirá la postulación de candidaturas, tanto a diputaciones locales como a integrantes de los ayuntamientos, en detrimento de la sub- representación y/o sobre-representación de cualquiera de los géneros, en la medida que esto sea posible.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
-
-Para efectos del registro de candidatos a diputados por el principio de representación proporcional, cada partido político registrará de manera directa una lista preliminar de cinco candidatos propietarios conforme a su normatividad interna, alternada por género para garantizar la paridad, misma que se integrará a la lista definitiva que deberá conformar el Consejo General del Instituto Estatal de conformidad con el artículo 374 de esta Ley.
+Para efectos del registro de candidaturas a diputaciones por el principio de representación proporcional, cada partido político registrará de manera directa una lista preliminar de cinco candidaturas propietarias conforme a su normatividad interna, misma que deberá encabezarse alternamente entre mujeres y hombres en cada periodo electivo, así como alternada por género para garantizar la paridad, misma que se integrará a la lista definitiva que deberá conformar el Consejo General del Instituto Estatal de conformidad con el artículo 374 de esta Ley.
 
 ###### Artículo 276.
 
 Los plazos y órganos competentes para el registro de candidaturas, son los siguientes:
 
-I. Para Gobernador del Estado, del 18 al 22 de febrero del año de la elección, por el Consejo General;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. Para Gobernadora o Gobernador del Estado, del 18 al 22 de febrero del año de la elección, por el Consejo General;
 
 II. Para Ayuntamientos, del 2 al 7 de marzo del año de la elección, por los consejos municipales electorales correspondientes o en su caso, de manera supletoria ante el Consejo General, y
 
-III. Para diputados electos por el principio de mayoría relativa, del 9 al 13 de marzo del año de la elección, por los consejos distritales correspondientes o en su caso, de manera supletoria ante el Consejo General, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Para diputados electos por el principio de representación proporcional, del 15 al 20 de marzo del año de la elección, por el Consejo General.
+III. Para diputaciones electas por el principio de mayoría relativa, del 9 al 13 de marzo del año de la elección, por los consejos distritales correspondientes o en su caso, de manera supletoria ante el Consejo General, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Para diputaciones electas por el principio de representación proporcional, del 15 al 20 de marzo del año de la elección, por el Consejo General.
 
 El Consejo General podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido por esta Ley.
 
 Los organismos electores darán amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente capítulo.
 
-Los candidatos a diputados electos por el principio de representación proporcional, podrán hacer actos de campaña a favor de su partido siempre y cuando no realicen ningún tipo de gasto de campaña.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Las candidaturas a diputaciones electas por el principio de representación proporcional, podrán hacer actos de campaña a favor de su partido siempre y cuando no realicen ningún tipo de gasto de campaña.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 277.
 
-Una vez fenecido el plazo para el registro de candidaturas, si un partido político no cumple con las reglas de paridad de género anteriormente citadas, el Consejo General le requerirá en primera instancia para que en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidatura.
+Una vez fenecido el plazo para el registro de candidaturas, si un partido político no cumple con las reglas de paridad de género anteriormente citadas, el Consejo General le requerirá en primera instancia para que en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidatura y le apercibirá de que, en caso de no hacerlo, le hará una amonestación pública.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, si el partido político no realiza la sustitución de candidatos, el Consejo General le requerirá de nueva cuenta, para que en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Transcurrido el plazo a que se refiere el párrafo anterior, si el partido político no realiza la sustitución de candidaturas, será acreedor a una amonestación pública y el Consejo General le requerirá de nueva cuenta, para que en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección.
 
 En todo caso, se respetará la autodeterminación de los partidos políticos para decidir sobre la sustitución de los registros de candidaturas a fin de cumplir con el principio de paridad de género.
 
@@ -3737,9 +4359,11 @@ La plataforma electoral deberá presentarse de forma impresa y digital para efec
 
 Los ciudadanos que aspiren a ser registrados como candidatos independientes deberán presentar su programa de trabajo que promoverán en caso de ser registrados como tales, en términos de lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 279.
 
-La solicitud de registro de candidaturas deberá ser firmada de manera autógrafa por el presidente del partido o su equivalente al interior del instituto político o coalición de que se trate, quien podrá delegar dicha facultad en el representante del partido político, tal solicitud deberá contener los siguientes datos de los candidatos:
+La solicitud de registro de candidaturas deberá ser firmada de manera autógrafa por la persona titular de la presidencia del partido o su equivalente al interior del instituto político o coalición de que se trate, quien podrá delegar dicha facultad en la persona representante del partido político, tal solicitud deberá contener los siguientes datos de las personas candidatas:
 
 I. Apellidos paterno, materno y nombre (s), alias o sobrenombre, en su caso, expresando su consentimiento para que sea impreso en las boletas electorales;
 
@@ -3753,7 +4377,9 @@ V. Clave de la credencial para votar;
 
 VI. Cargo para el que se les postule, y
 
-VII. Los candidatos a diputados al Congreso del Estado y a miembros de los ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Federal y la Constitución del Estado en materia de reelección.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Las personas candidatas a diputaciones al Congreso del Estado e integrantes de los ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electas en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Federal y la Constitución del Estado en materia de reelección.
 
 La solicitud deberá acompañarse de:
 
@@ -3761,15 +4387,25 @@ a) La declaración de aceptación de la candidatura respectiva;
 
 b) Copia certificada del acta de nacimiento;
 
-c) La constancia que acredite el tiempo de residencia del candidato, expedida por autoridad municipal competente;
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-d) Para el caso de miembros de los ayuntamientos, deberá presentar constancia de vecindad, emitida por la autoridad municipal correspondiente;
+c) La constancia que acredite el tiempo de residencia de la persona candidata, expedida por autoridad municipal competente;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+d) Para el caso de integrantes de los ayuntamientos, deberá presentar constancia de vecindad, emitida por la autoridad municipal correspondiente;
 
 e) Copia del anverso y reverso de la credencial para votar;
 
-f) Manifestación por escrito del partido político postulante en el que exprese que el candidato, cuyo registro solicita, fue electo o designado de conformidad con las normas estatutarias del propio partido político, y
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-g) Currículum vitae.
+f) Manifestación por escrito del partido político postulante en el que exprese que la persona candidata, cuyo registro solicita, fue electa o designada de conformidad con las normas estatutarias del propio partido político;
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+g) Escrito bajo protesta de decir verdad de no encontrarse sancionada o sancionado administrativamente mediante sentencia firme o, en su caso, sentenciada o sentenciado penalmente mediante sentencia firme, por violencia política contra las mujeres en razón de género.
+
+h) Currículum vitae.
 
 Además de los requisitos señalados en los incisos anteriores, deberá presentar los establecidos en esta Ley.
 
@@ -3823,15 +4459,21 @@ Para efectos de la renuncia de candidaturas, se requerirá de la ratificación d
 
 ###### Artículo 285.
 
-La campaña electoral, para los efectos de esta Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y los candidatos registrados, para la obtención del voto.
+La campaña electoral, para los efectos de esta Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y las personas candidatas registradas, para la obtención del voto.
 
-Se entienden por actos de campaña, las reuniones públicas, asambleas, marchas y en general aquellos en que los candidatos o voceros de los partidos políticos se dirigen al electorado para promover sus candidaturas.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-Se entiende por propaganda electoral, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
+Se entienden por actos de campaña, las reuniones públicas, asambleas, marchas y en general aquellos en que las personas candidatas o personas voceras de los partidos políticos se dirigen al electorado para promover sus candidaturas.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Se entiende por propaganda electoral, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, las personas candidatas registradas y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
 
 Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones propuestos por los partidos políticos en su plataforma electoral, que para la elección en cuestión hubieren registrado.
 
-Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de las personas servidoras públicas, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad de la persona servidora pública y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
 
 ###### Artículo 286.
 
@@ -3849,17 +4491,23 @@ El presidente del Consejo General podrá solicitar a las autoridades competentes
 
 Los partidos políticos o candidatos que decidan dentro de la campaña electoral realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán comunicar a la autoridad competente su itinerario cuando menos con veinticuatro horas de anticipación, a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 288.
 
-La propaganda impresa y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos y candidatos independientes se ajustaran a lo dispuesto por el primer párrafo del artículo 6º. de la Constitución Federal, así como contener una identificación precisa del partido político o coalición que ha registrado al candidato
+La propaganda impresa y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos y candidaturas independientes se ajustarán a lo dispuesto por el primer párrafo del artículo 6º. de la Constitución Federal, así como contener una identificación precisa del partido político o coalición que ha registrado a la persona candidata.
 
-La propaganda política o electoral que en el curso de una precampaña o campaña difundan los partidos políticos, las coaliciones y los candidatos, deberán propiciar la exposición, desarrollo y discusión ante el electorado de la plataforma electoral fijada por los partidos políticos que para la elección correspondiente hubiesen registrado, y no tendrán más límite, en los términos del artículo 7º de la Constitución Federal, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
+La propaganda política o electoral que en el curso de una precampaña o campaña difundan los partidos políticos, las coaliciones y personas candidatas, deberán propiciar la exposición, desarrollo y discusión ante el electorado de la plataforma electoral fijada por los partidos políticos que para la elección correspondiente hubiesen registrado, y no tendrán más limite, en los términos del artículo 7o. de la Constitución Federal, que el respeto a la vida privada de las personas candidatas, autoridades, terceros y a las instituciones y valores democráticos.
 
-El Consejo General, está facultado para ordenar, una vez satisfechos los procedimientos establecidos en este (sic) Ley, la suspensión inmediata de la propaganda y mensajes político electoral en radio, televisión, medios impresos contrarios a esta norma, así como el retiro de cualquier otra propaganda.
+En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las personas candidatas y personas precandidatas, deberán abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley y la Ley de Acceso.
+
+El Consejo General, está facultado para ordenar, una vez satisfechos los procedimientos establecidos en este Ley, la suspensión inmediata de la propaganda y mensajes políticos y electorales en medios impresos contrarios a esta norma, así como el retiro de cualquier otra propaganda.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 289.
 
-Los partidos políticos, las coaliciones, precandidatos y los candidatos podrán ejercer el derecho de réplica que establece el artículo 6o. de la Constitución Federal, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regula la materia de imprenta y de las disposiciones civiles y penales aplicables.
+Los partidos políticos, las coaliciones, las personas precandidatas y personas candidatas podrán ejercer el derecho de réplica que establece el artículo 6o. de la Constitución Federal, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regula la materia de imprenta y de las disposiciones civiles y penales aplicables.
 
 ###### Artículo 290.
 
@@ -4935,6 +5583,8 @@ Concluido el cómputo, se emitirá la declaración de validez de la elección y 
 
 ### CAPÍTULO PRIMERO. DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 392.
 
 Concluidos los cómputos que haya realizado el Consejo General, el Consejero Presidente procederá a realizar los siguientes actos:
@@ -4961,31 +5611,53 @@ Una vez que haya sido declarada firme la elección de Gobernador para todos los 
 
 ###### Artículo 394.
 
-Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en esta Ley:
+Son personas sujetas de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en esta Ley:
 
-I. Los partidos políticos, independientemente de las responsabilidades en que incurran sus dirigentes, militantes y/o simpatizantes;
+I. Los partidos políticos, sus dirigentes, militantes y/o simpatizantes;
 
 II. Las agrupaciones políticas estatales;
 
-III. Los aspirantes, precandidatos, candidatos y candidatos independientes a cargos de elección popular;
+III. Las personas aspirantes, personas precandidatas, personas candidatas y personas candidatas independientes a cargos de elección popular;
 
-IV. Los ciudadanos o cualquier persona física o jurídica colectiva;
+IV. La ciudadanía o cualquier persona física o moral;
 
-V. Los observadores electorales o las organizaciones de observadores electorales;
+V. Las personas observadoras electorales o las organizaciones de observación electoral;
 
-VI. Las autoridades o los servidores públicos de cualquiera de los Poderes de la Unión y los poderes locales, órganos de gobierno municipales, órganos autónomos y cualquier otro ente público;
+VI. Las autoridades o las personas servidoras públicas de cualquiera de los Poderes de la Unión y los poderes locales, órganos de gobierno municipales, órganos autónomos y cualquier otro ente público;
 
-VII. Los notarios públicos;
+VII. Las y los notarios públicos;
 
-VIII. Los extranjeros;
+VIII. Las personas extranjeras;
 
-IX. Las organizaciones de ciudadanos que pretendan formar un partido político;
+IX. Las organizaciones ciudadanas que pretendan formar un partido político;
 
 X. Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos;
 
-XI. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, y
+XI. Las personas ministras de culto, asociaciones, iglesias o agrupaciones de cualquier religión, y
 
 XII. Los demás sujetos obligados en los términos de la presente Ley.
+
+Cuando alguna de las personas sujetas señaladas en este artículo sea responsable de las conductas relacionadas con violencia política contra las mujeres en razón de género, contenidas en el artículo 394 bis de esta Ley, así como en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, será sancionada en términos de lo dispuesto por esta Ley.
+
+Las quejas o denuncias por violencia política contra las mujeres en razón de género, se sustanciarán en todo tiempo a través del procedimiento especial sancionador.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 394 Bis.
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de las personas sujetas de responsabilidad señalados en el artículo 394 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+a) Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+b) Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+c) Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+d) Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+e) Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad, y
+
+f) Cualesquiera otra acción u omisión que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
 
 ### CAPÍTULO TERCERO. DE LAS SANCIONES
 
@@ -5007,17 +5679,27 @@ VI. La realización de actos de precampaña o campaña en territorio extranjero 
 
 VII. El incumplimiento de las demás disposiciones previstas en la presente Ley en materia de precampañas y campañas electorales;
 
-VIII. La difusión de propaganda política o electoral que contenga expresiones denigrantes;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VIII. LA DIFUSIÓN DE PROPAGANDA POLÍTICA O ELECTORAL QUE CONTENGA EXPRESIONES DENIGRANTES;
 
 IX. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
-X. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-XI. La comisión de cualquier otra falta de las previstas en esta Ley.
+X. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XI. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, y
+
+XII. La comisión de cualquier otra falta de las previstas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 396.
 
-Constituyen infracciones de los aspirantes, precandidatos o candidatos a cargos de elección popular a la presente Ley:
+Constituyen infracciones de las personas aspirantes, personas precandidatas o personas candidatas a cargos de elección popular a la presente Ley:
 
 I. La realización de actos anticipados de precampaña o campaña, según sea el caso;
 
@@ -5025,15 +5707,21 @@ II. Solicitar o recibir recursos, en dinero o en especie, de personas no autoriz
 
 III. Exceder el tope de gastos de precampaña o campaña establecidos;
 
-IV. La difusión de propaganda política o electoral que contenga expresiones denigren (sic);
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. La difusión de propaganda política o electoral que contenga expresiones que DENIGREN, calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género;
 
 V. Omitir informar adecuadamente en los informes sobre los recursos recibidos y el no presentar informe de gastos de precampaña y campaña, y
 
 VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 397.
 
-Constituyen infracciones de los aspirantes y candidatos independientes a cargos de elección popular a la presente Ley:
+Constituyen infracciones de las personas aspirantes y personas candidatas independientes a cargos de elección popular a la presente Ley:
 
 I. El incumplimiento de las obligaciones establecidas en esta Ley;
 
@@ -5057,7 +5745,11 @@ X. El incumplimiento de las resoluciones y acuerdos de los órganos del Institut
 
 XI. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
 
-XII. La difusión de propaganda política o electoral que contenga expresiones denigrantes;
+(NOTA: EL 10 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, TEMAS 2, 7 Y 8, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 273/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+XII. La difusión de propaganda política o electoral que CONTENGA EXPRESIONES DENIGRANTES, calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género;
 
 XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal;
 
@@ -5065,15 +5757,21 @@ XIV. La contratación en forma directa o por terceras personas en tiempo en cual
 
 XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 398.
 
-Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, a la presente Ley:
+Constituyen infracciones de la ciudadanía, de los dirigentes, así como personas afiliadas y partidos políticos, o en su caso de cualquier persona física o moral, a la presente Ley:
 
-I. La negativa a entregar la información requerida por el Instituto Estatal, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+I. La negativa a entregar la información requerida por el Instituto Estatal; entregarla en forma incompleta o con datos falsos o fuera de los plazos que señale el requerimiento; respecto de las operaciones mercantiles, dejar de informar sobre los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, las personas aspirantes, personas precandidatas y personas candidatas a cargos de elección popular;
 
 II. La promoción de denuncias frívolas. Para tales efectos, se entenderá como aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
 
-III. Influir en las preferencias electorales de los ciudadanos el día de la jornada electoral a través de cualquier medio de comunicación, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+III. Influir en las preferencias electorales de la ciudadanía el día de la jornada electoral a través de cualquier medio de comunicación, y
 
 IV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
@@ -5093,23 +5791,33 @@ V. Declarar el triunfo de algún partido político, coalición o candidato algun
 
 VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 400.
 
-Constituyen infracciones de las autoridades o los servidores públicos, según sea el caso, de cualquiera de los poderes del Estado y de los municipios, órganos autónomos locales, y cualquier otro ente público a la presente Ley:
+Constituyen infracciones de las autoridades o las personas servidoras públicas, según sea el caso, de cualquiera de los poderes del Estado y de los municipios, órganos autónomos locales, y cualquier otro ente público a la presente Ley:
 
 I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal;
 
 II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
-III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Federal, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Federal, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre las personas aspirantes, personas precandidatas, o personas candidatas durante los procesos electorales;
 
 IV. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
 
-V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal y municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal y municipal, con la finalidad de inducir o coaccionar a la ciudadanía para votar a favor o en contra de cualquier partido político o candidatura;
 
 VI. Que presente o haga valer un documento electoral alterado, así como que altere o inutilice alguno;
 
-VII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Menoscabar, limitar o impedir el ejercicio de derechos políticos y electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso, y
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 401.
 
@@ -5135,17 +5843,25 @@ I. Intervenir en la creación y registro de un partido político estatal o en ac
 
 II. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 404.
 
-Constituyen infracciones a la presente Ley, de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión:
+Constituyen infracciones a la presente Ley, de las personas ministras de culto, asociaciones, iglesias o agrupaciones de cualquier religión:
 
-I. La inducción a la abstención a votar por un candidato o partido político o no hacerlo por cualquiera de ellos, en los lugares destinados al culto, en locales de uso público o en los medios de comunicación;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular, y
+I. La inducción a la abstención a votar por una persona candidata o partido político o no hacerlo por cualquiera de ellos, en los lugares destinados al culto, en locales de uso público o en los medios de comunicación;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+II. Realizar o promover aportaciones económicas a un partido político, persona aspirante o persona candidata a cargo de elección popular, y
 
 III. El incumplimiento, en lo conducente de cualquiera de las disposiciones contenidas en esta Ley.
 
-El Consejero Presidente del Consejo General en el ejercicio de sus atribuciones, informará a la Secretaría de Gobernación, acompañando de pruebas fehacientes en los casos previstos en el presente artículo, para los efectos legales que corresponda.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+La Presidencia del Consejo General en el ejercicio de sus atribuciones, informará a la Secretaría de Gobernación, acompañando de pruebas fehacientes en los casos previstos en el presente artículo, para los efectos legales que corresponda.
 
 ###### Artículo 405.
 
@@ -5161,23 +5877,35 @@ I. Respecto de los partidos políticos y agrupaciones políticas estatales:
 
 a) Con amonestación pública;
 
-b) Con multa de cinco mil hasta diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-c) Según la gravedad de la falta, con la reducción de hasta del cincuenta por ciento de las ministraciones del financiamiento público que les corresponda a los partidos políticos, por el periodo que señale la resolución;
+b) Con multa de cinco mil hasta diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de personas simpatizantes, o de las personas candidatas para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+c) Según la gravedad de la falta, con la reducción de hasta del cincuenta por ciento de las ministraciones del financiamiento público que les corresponda a los partidos políticos, por el periodo que señale la resolución.
+
+Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
 d) Con suspensión del financiamiento, hasta que se subsane la causa que le dio origen;
 
-e) En los casos de graves y reiteradas conductas violatorias de la Constitución del Estado y de esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político estatal, y
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+e) En los casos de graves y reiteradas conductas violatorias de la Constitución del Estado y de esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político estatal, y
 
 f) Pérdida del registro como partido político estatal o agrupación política estatal.
 
-II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+II. Respecto de las personas aspirantes, personas precandidatas o personas candidatas a cargos de elección popular:
 
 a) Con amonestación pública;
 
 b) Con multa de hasta mil veces el valor diario de la Unidad (sic) Medida y Actualización vigente, y
 
-c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Así como en el caso del precandidato que resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+c) Con la pérdida del derecho de la persona precandidata infractora a ser registrado como persona candidata, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por personas aspirantes o personas precandidatas a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Así como en el caso de la persona precandidata que resulte electo en el proceso interno, el partido político no podrá registrarlo como persona candidata.
 
 III. Respecto de los candidatos independientes:
 
@@ -5185,19 +5913,29 @@ a) Con amonestación pública;
 
 b) Con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, y
 
-c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, aspirantes, precandidatos y candidatos o de cualquier persona física o moral en el caso de que promuevan una denuncia frívola:
+c) Con la pérdida del derecho de la persona aspirante infractora a ser registrada como persona candidata independiente o, en su caso, si ya hubiera sido registrada, con la cancelación del mismo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Respecto de la ciudadanía, de los dirigentes y personas afiliadas a los partidos políticos, aspirantes, personas precandidatas y personas candidatas o de cualquier persona física o moral en el caso de que promuevan una denuncia frívola:
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 a) Con amonestación pública;
 
-b) Respecto de los ciudadanos, los dirigentes y afiliados de los partidos políticos con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+b) Respecto de la ciudadanía, las dirigencias y personas afiliadas de los partidos políticos con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 c) En caso de reincidencia, con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, en el caso de que promuevan una denuncia frívola.
 
 d) Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
-V. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos estatales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Respecto de las organizaciones ciudadanas que pretendan constituir partidos políticos estatales:
 
 a) Con amonestación pública;
 
@@ -5211,7 +5949,9 @@ a) Con amonestación pública, y
 
 b) Con multa de hasta cinco mil veces el valor de la Unidad de Medida y Actualización vigente, según la gravedad de la falta.
 
-VII. Respecto a los servidores públicos de cualquiera de los poderes públicos del Estado y de la Federación, del órgano de gobierno municipal, de los organismos autónomos, de las dependencias y entidades de la administración pública estatal y municipal, y cualquier otro ente público estatal o municipal, se estará a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Respecto a las personas servidoras públicas de cualquiera de los poderes públicos del Estado y de la Federación, del órgano de gobierno municipal, de los organismos autónomos, de las dependencias y entidades de la administración pública estatal y municipal, y cualquier otro ente público estatal o municipal, se estará a lo siguiente:
 
 a) Se dará vista al superior jerárquico y, en su caso, presentará la queja ante la autoridad competente por hechos que pudieran constituir responsabilidades administrativas o las denuncias o querellas ante el agente del Ministerio Público que deba conocer de ellas, a fin de que se proceda en los términos de las leyes aplicables.
 
@@ -5229,7 +5969,9 @@ I. La gravedad de la responsabilidad en que se incurra y la conveniencia de supr
 
 II. Las circunstancias de modo, tiempo y lugar de la infracción;
 
-III. Las condiciones socioeconómicas del infractor;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+III. Las condiciones socioeconómicas de la persona infractora;
 
 IV. Las condiciones externas y los medios de ejecución;
 
@@ -5237,7 +5979,9 @@ V. La reincidencia en el incumplimiento de obligaciones, y
 
 VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
-Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento de alguna de las obligaciones a que se refiere la presente Ley, incurra nuevamente en alguna infracción al presente ordenamiento legal, dentro de los cuatro años posteriores a la primera declaratoria de responsabilidad.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Se considerará reincidencia a la persona infractora que habiendo sido declarada responsable del incumplimiento de alguna de las obligaciones a que se refiere la presente Ley, incurra nuevamente en alguna infracción al presente ordenamiento legal, dentro de los cuatro años posteriores a la primera declaratoria de responsabilidad.
 
 Las multas impuestas por el Consejo General que no hubiesen sido recurridas o bien, que fuesen confirmadas por el Tribunal Electoral, deberán ser pagadas en la Dirección de Administración del Instituto Estatal, en un plazo improrrogable de quince días hábiles contados a partir de la notificación; si el infractor no cumple con su obligación, se procederá a su cobro conforme a la ley aplicable al caso.
 
@@ -5357,7 +6101,15 @@ En el caso de existir imposibilidad material para compulsar las copias simples q
 
 Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 414 Bis.
+
+El Instituto Electoral y el Tribunal Electoral, en el ámbito de sus respectivas competencias, determinarán medidas de protección, medidas cautelares y medidas de reparación que correspondan cuando conozcan de hechos probablemente constitutivos de violencia política contra las mujeres en razón de género. Para tal efecto se auxiliarán de las autoridades competentes para ejecutar las medidas decretadas.
+
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 415.
 
@@ -5503,6 +6255,10 @@ El Consejero Electoral que disienta de la mayoría podrá formular voto particul
 
 En el desahogo de los puntos del orden del día en que el Consejo General deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
+### CAPÍTULO CUARTO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 425.
 
 Sólo dentro de los procesos electorales, la Secretaría Ejecutiva por conducto de la Dirección Jurídica del Instituto Estatal, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
@@ -5515,15 +6271,21 @@ II. Contravengan las normas sobre propaganda política o electoral, o
 
 III. Constituyan actos anticipados de precampaña o campaña.
 
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+La Secretaría Ejecutiva por conducto de la Dirección Jurídica del Instituto Estatal, instruirá el procedimiento especial establecido en este capítulo, en cualquier momento, cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
+
 ###### Artículo 426.
 
 Cuando la conducta infractora, denunciada, esté relacionada con propaganda política o electoral en radio y televisión en el Estado, el Consejo General encauzará la denuncia ante el Instituto Nacional.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 427.
 
 La denuncia en la vía prevista en este capítulo, deberá reunir los siguientes requisitos:
 
-I. Nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+I. Nombre de la persona quejosa o persona denunciante, con firma autógrafa o huella digital;
 
 II. Domicilio para oír y recibir notificaciones;
 
@@ -5533,37 +6295,155 @@ IV. Narración expresa y clara de los hechos en que se basa la denuncia;
 
 V. Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas, y
 
-VI. En su caso, las medidas cautelares que se soliciten.
+VI. En su caso, las medidas cautelares y de Protección que se soliciten de acuerdo con la Ley de Acceso de las Mujeres a una Vida libre de Violencia del Estado de Quintana Roo y la presente ley.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+La Dirección Jurídica del Instituto Estatal deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción; en caso de desechamiento, tal resolución deberá ser notificada a la persona denunciante por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser informada por escrito al Consejo General y al Tribunal Electoral, en el mismo plazo.
 
-La Dirección Jurídica del Instituto Estatal deberá admitir o desechar la denuncia en un plazo no mayor a cuarenta y ocho horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser informada por escrito al Consejo General y al
+Cuando la Dirección Jurídica del Instituto Estatal admita la denuncia, emplazará a la persona denunciante y a la persona denunciada para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
-Tribunal Electoral, para su conocimiento.
+La Dirección Jurídica del Instituto Estatal desechará la denuncia cuando:
 
-Cuando la Dirección Jurídica del Instituto Estatal admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+a) No se aporten u ofrezcan pruebas, y
 
-Si la Dirección Jurídica del Instituto Estatal considera necesaria la adopción de medidas cautelares, las remitirá a la Comisión de Quejas y Denuncias, para su conocimiento, estudio y aprobación, dentro del mismo plazo de cuarenta y ocho horas previsto en el párrafo anterior. Esta decisión podrá ser impugnada ante el Tribunal Electoral, quien deberá resolver en un plazo no mayor a cinco días después de recibir el medio de impugnación respectivo.
+b) Sea notoriamente frívola o improcedente.
+
+La Comisión de Quejas y Denuncias expedirá las medidas cautelares que considere necesarias dentro del plazo de veinticuatro horas, para que los actos denunciados no generen mayor afectación, en tanto se resuelve el fondo del procedimiento.
+
+La medida cautelar decretada, podrá ser impugnada ante el Tribunal Electoral, quien deberá resolver en un plazo no mayor a cinco días después de recibir el medio de impugnación respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 428.
 
-La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Dirección Jurídica del Instituto Estatal, debiéndose levantar constancia de su desarrollo.
+La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida y en forma oral, ante la Dirección Jurídica del Instituto Estatal, dejándose constancia de su desahogo.
 
-En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando la persona oferente aporte los medios para tal efecto en el curso de la audiencia.
 
 La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados. La audiencia se desarrollará en los siguientes términos:
 
-I. Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa por el órgano electoral se deberá nombrar un delegado especial para que actúe como denunciante.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-II. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+I. Abierta la audiencia, se dará el uso de la voz a la persona denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa por el órgano electoral se deberá nombrar una persona como delegada especial para que actúe como persona denunciante;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+II. Acto seguido, se dará el uso de la voz a la persona denunciada, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
 
 III. La Dirección Jurídica del Instituto Estatal resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo, y
 
-IV. Concluido el desahogo de las pruebas, el titular de la Dirección Jurídica del Instituto Estatal concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita, o verbal por una sola vez y en tiempo no mayor a quince minutos cada uno lo que a su derecho convenga.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Concluido el desahogo de las pruebas, la Dirección Jurídica del Instituto Estatal concederá en forma sucesiva el uso de la voz a la persona denunciante y a la persona denunciada, o a sus representantes, quienes podrán alegar en forma escrita, o verbal por una sola vez y en tiempo no mayor a quince minutos cada uno lo que a su derecho convenga
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 429.
 
-Celebrada la audiencia, el titular de la Dirección Jurídica del Instituto Estatal, deberá turnar de forma inmediata el expediente completo, exponiendo en su caso, las medidas cautelares y demás diligencias que se hayan llevado a cabo, así como un informe circunstanciado, al Tribunal Electoral, para que emita la resolución que corresponda.
+Al término de la audiencia de pruebas y alegatos, la Dirección Jurídica del Instituto Estatal, dentro del término de las veinticuatro horas siguientes, remitirá el expediente completo, con un informe circunstanciado, al Tribunal Electoral, para que emita la resolución que corresponda.
+
+El informe circunstanciado deberá contener por lo menos, lo siguiente:
+
+I. La relatoría de los hechos que dieron motivo a la queja o denuncia;
+
+II. Las diligencias que se hayan realizado por la autoridad;
+
+III. Las pruebas aportadas por las partes;
+
+IV. Las demás actuaciones realizadas, y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+V. Las conclusiones sobre la queja o denuncia.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+Del informe circunstanciado se enviará una copia a la Presidencia del Consejo General del Instituto Estatal, para su conocimiento.
+
+###### Artículo 430.
+
+Recibido por el Tribunal Electoral, un expediente en estado de resolución conforme a los artículos anteriores, lo turnará de inmediato a la ponencia que corresponda, a fin de que se presente al Pleno el proyecto de resolución que corresponda en un plazo que no deberá exceder, de ninguna manera, de cinco días.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+El Tribunal Electoral del Estado, podrá dictar las diligencias para mejor proveer, cuando así lo requiera, debiendo resolver de forma pronta y expedita, con las constancias que obren en el expediente; en caso de que exista en el expediente constancias solicitadas a diversas autoridades que no hayan podido ser recibidas por el Instituto Estatal, será el Tribunal Electoral quien las requiera a las autoridades, con el apercibimiento de aplicar las medidas de apremio que la ley le otorga, la Autoridad electoral en éste supuesto, realizará las diligencias necesarias para resolver en un término de 15 días a partir de la recepción del expediente.
+
+###### Artículo 431.
+
+Las sentencias que resuelva el procedimiento especial sancionador podrán tener los efectos siguientes:
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+I. Declarar la inexistencia de las infracciones objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto.
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+II. Declarar la existencia de las infracciones objeto de la queja o denuncia e imponer las sanciones y las medidas de reparación integral que resulten procedentes en términos de lo dispuesto en este ordenamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 432.
+
+En cualquier momento, la Secretaría Ejecutiva por conducto de la Dirección Jurídica del Instituto Estatal, instruirá el Procedimiento Especial Sancionador en materia de violencia política contra las mujeres en razón de género, de oficio, por queja o denuncia de la persona agraviada o por terceros como sus familiares o cualquier persona natural o jurídica, siempre que se cuente con el consentimiento de la víctima cuando ésta pueda otorgarlo; cuando se denuncien conductas de violencia política contra las mujeres en razón de género.
+
+La Dirección Jurídica del Instituto Estatal recepcionará las quejas o denuncias en forma oral o por escrito y ordenará el inicio del procedimiento.
+
+Si la conducta infractora es del conocimiento de los consejos distritales o municipales, éstos de inmediato la remitirán a la Dirección Jurídica del Instituto Estatal para que la substancie en ejercicio de sus atribuciones.
+
+Cuando las denuncias presentadas sean en contra de alguna persona servidora pública, la Dirección Jurídica del Instituto Estatal dará vista de inmediato, del inicio del procedimiento y con posterioridad de las actuaciones que haya realizado, así como de su resolución al final del procedimiento, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 433.
+
+La denuncia podrá ser presentada por escrito o comparecencia y deberá contener lo siguiente:
+
+a) Nombre de la persona agraviada y de la persona denunciante en su caso, con firma autógrafa o huella digital de quien presente la queja o denuncia;
+
+b) Domicilio para oír y recibir notificaciones, en su caso teléfono y/o cuenta de correo electrónico para localización;
+
+c) Narración expresa de los hechos en que se basa la denuncia;
+
+d) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas, y
+
+e) En su caso, las medidas cautelares y de protección que se soliciten, de acuerdo con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo y la presente ley.
+
+La Dirección Jurídica del Instituto Estatal, deberá admitir o desechar la queja o denuncia en un plazo no mayor a veinticuatro horas posteriores a su recepción. Salvo que de la revisión y análisis de la misma, se advierta la falta de alguno de los requisitos de procedencia a, b, c, ó e de este artículo, entonces se prevendrá a la persona promovente para que subsane en cualquier momento el requisito omitido; satisfecho el requisito, comenzará a contar el termino para admitir o desechar la demanda.
+
+En caso de desechamiento, tal resolución deberá ser notificada a la persona denunciante en un término de doce horas, por el medio más idóneo. Mismo término en que se informará al Consejo General y al Tribunal Electoral, para su conocimiento.
+
+Cuando la Dirección Jurídica del Instituto Estatal admita la denuncia, dentro de las doce horas siguientes emplazará a la persona denunciante y a la persona denunciada para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión de la queja o denuncia. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+La Dirección Jurídica del Instituto Estatal, tendrá doce horas, a partir de la admisión de la denuncia, para analizar la solicitud de las medidas cautelares o de protección solicitada y/o que considere necesaria, en relación con los hechos denunciados, y elaborar una propuesta que remitirá a la Comisión de Quejas y Denuncias, para su conocimiento, estudio, modificación y/o aprobación; dicha comisión dentro del plazo de doce horas, a partir de recibida la propuesta, emitirá el acuerdo conducente. Esta decisión podrá ser impugnada ante el Tribunal Electoral, quien deberá resolver en un plazo no mayor a tres días después de recibir el medio de impugnación respectivo.
+
+Cuando las medidas de protección y/o cautelares requieran de la colaboración de otra autoridad, la Comisión de Quejas y Denuncias, dará vista de inmediato para que se cumplimente su otorgamiento conforme a sus facultades y competencias.
+
+La medida de protección y/o cautelar otorgada deberá ser notificada a las partes por la vía más idónea.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 434.
+
+La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida y en forma oral, ante la Comisión de Quejas y Denuncias, dejándose constancia de su desahogo.
+
+En este procedimiento, no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando la persona oferente aporte los medios para tal efecto en el curso de la audiencia.
+
+La falta de asistencia de las partes, no impedirá la celebración de la audiencia en el día y hora señalados. La audiencia se desarrollará en los siguientes términos:
+
+I. Integrada la Comisión la Presidenta o el Presidente de la misma abrirá la audiencia, y dará el uso de la voz a la persona denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa por el órgano electoral, se deberá nombrar una delegada o delegado especial para que actúe como persona denunciante.
+
+II. Acto seguido, se dará el uso de la voz a la persona denunciada, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, pudiendo presentar en ese acto incluso por escrito, la contestación y el ofrecimiento de las pruebas que a su juicio desvirtúen la imputación que se realiza. En caso de que alguna de las partes no se presentara a audiencia, la presidenta o el presidente de la Comisión, hará obrar en autos la demanda o contestación, así como los documentos, pruebas y mecanismos de desahogo en su caso, presentados por escrito, dentro de los términos legales, conforme a derecho corresponda.
+
+Seguidamente, la comisión a través de su presidenta o presidente, irá acordando una por una la admisión o desechamiento de las pruebas presentadas, primero de la parte actora y después de la parte demandada, así como su mecanismo de desahogo; en caso de que la parte oferente no se presente y no ofrezca los medios idóneos para su desahogo, ésta será desechada, y
+
+III. Concluido el desahogo de las pruebas, se concederá en forma sucesiva el uso de la voz a la persona denunciante y a la persona denunciada, o a sus representantes, quienes podrán alegar en forma escrita, o verbal por una sola vez y en tiempo no mayor a quince minutos cada uno lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 435.
+
+Al término de la audiencia de pruebas y alegatos, la Comisión de Quejas y Denuncias, dentro del término de las cuarenta y ocho horas siguientes, remitirá el expediente completo, con un informe circunstanciado, al Tribunal Electoral de Quintana Roo, para que emita la resolución que corresponda.
 
 El informe circunstanciado deberá contener por lo menos, lo siguiente:
 
@@ -5577,27 +6457,51 @@ IV. Las demás actuaciones realizadas, y
 
 V. Las conclusiones sobre la queja o denuncia.
 
-Del informe circunstanciado se enviará una copia al Consejero Presidente del Instituto Estatal, para su conocimiento.
+El Tribunal Electoral de Quintana Roo, podrá dictar las diligencias para mejor proveer, cuando así lo requiera, debiendo resolver de forma pronta y expedita, con las constancias que obren en el expediente; en caso de que exista en el expediente constancias solicitadas a diversas autoridades que no hayan podido ser recibidas por el Instituto Estatal, será el Tribunal Electoral quien las requiera a las autoridades, con el apercibimiento de aplicar las medidas de apremio que la ley le otorga, la Autoridad electoral en éste supuesto, realizará las diligencias necesarias para resolver en un término de 15 días hábiles a partir de la recepción del expediente.
 
-###### Artículo 430.
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-Recibido por el Tribunal Electoral, un expediente en estado de resolución conforme a los artículos anteriores, lo turnará de inmediato a la ponencia que corresponda, a fin de que se presente al Pleno el proyecto de resolución que corresponda en un plazo que no deberá exceder, de ninguna manera, de cinco días.
+###### Artículo 436.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
 
-El Tribunal Electoral del Estado, podrá dictar las diligenclas para mejor proveer, cuando así lo requiera, debiendo resolver de forma pronta y expedita, con las constancias que obren en el expediente, en caso de que exista en el expediente constancias solicitadas a diversas autoridades que no hayan podido ser recibidas por el Instituto Estatal, será el Tribunal Electoral quien las requiera a las autoridades, con el apercibimiento de aplicar las medidas de apremio que la ley le otorga.
+a) Realizar análisis de riesgos y un plan de seguridad;
 
-###### Artículo 431.
+b) Retirar la campaña violenta contra la víctima, haciendo públicas las razones. Dicha publicidad de razones deberá ser financiada por quien resulte responsable de la violencia;
 
-Las sentencias que resuelva el procedimiento especial sancionador podrán tener los efectos siguientes:
+c) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+d) Ordenar la suspensión del cargo partidista, de la persona agresora, y
 
-I. Declarar la inexistencia de las infracciones objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto.
+e) Cualquier otra requerida para lograr la efectividad del procedimiento hasta la resolución.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-II. Declarar la existencia de las infracciones objeto de la queja o denuncia e Imponer, las sanciones que resulten procedentes en términos de lo dispuesto en este ordenamiento.
+###### Artículo 437.
+
+Las medidas de protección que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+a) Restringir el acceso de los agresores a los lugares en los que normalmente se encuentra la víctima;
+
+b) Otorgar escoltas a la mujer en situación de violencia y a sus familiares cuando se requiera;
+
+c) Impedir el acceso a armas al agresor, y
+
+d) Cualquier otra requerida para la protección de la mujer en situación de violencia, sus familiares y/o a quien lo solicite.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 438.
+
+En la resolución del Procedimiento Especial Sancionador en materia de violencia política contra las mujeres en razón de género, la autoridad resolutora deberá considerar ordenar las sanciones previstas en el artículo 406 y las de la especialidad, así como las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+a) Indemnización de la víctima;
+
+b) Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+c) Disculpa pública, y
+
+d) Medidas de no repetición.
 
 ## TRANSITORIOS
 
@@ -5712,3 +6616,13 @@ P.O. 3 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 019 POR EL QUE SE ADICIONA EL ARTÍCULO DÉCIMO TRANSITORIO AL DECRETO NÚMERO 097 DENOMINADO "POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO", PUBLICADO EL DÍA VEINTIUNO DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 8 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 042 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, DE LA LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO PENAL PARA El ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Para el caso de los asuntos que se encuentren en trámite y/o pendientes de resolución, seguirán sustanciándose en términos de la legislación aplicable al momento de su inicio.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
