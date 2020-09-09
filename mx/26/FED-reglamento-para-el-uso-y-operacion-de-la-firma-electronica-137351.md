@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-uso-y-operacion-de-la-firma-electronica-1373
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-07-24"
-last_updated: "2019-07-24"
+last_updated: "2020-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137351&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-07-17"
 ---
 # REGLAMENTO PARA EL USO Y OPERACION DE LA FIRMA ELECTRONICA AVANZADA EN EL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. LAS MODIFICACIONES APARECEN EN LAS DIRECCIONES ELECTRÓNICAS www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
 REGLAMENTO PARA EL USO Y OPERACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA EN EL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 24 de julio de 2019.
 
@@ -69,6 +71,10 @@ Ciudad de México, a 17 de julio de 2019.- En suplencia, por ausencia del Coordi
 
 REGLAMENTO PARA EL USO Y OPERACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA EN EL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
 ### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 1.
@@ -78,6 +84,10 @@ El presente Reglamento tiene por objeto establecer las bases que regulan la Firm
 ###### Artículo 2.
 
 Para la correcta aplicación de las disposiciones de este Reglamento se entenderá por:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
 A. Siglas y abreviaturas:
 
@@ -89,9 +99,17 @@ III. Órgano Superior de Dirección: Consejo General del INE o Consejo General d
 
 IV. Reglamento: Reglamento para el uso y operación de la Firma Electrónica Avanzada en el INE;
 
-V. UNICOM: Unidad Técnica de Servicios de Informática, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
 
-VI. OCSP: Protocolo de Verificación del Estado de Certificados en Línea (OCSP por sus siglas en idioma inglés Online Certificate Status Protocol).
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+V. UNICOM: Unidad Técnica de Servicios de Informática;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+VI. OCSP: Protocolo de Verificación del Estado de Certificados en Línea (OCSP por sus siglas en idioma inglés Online Certificate Status Protocol),
 
 B. Terminología:
 
@@ -193,6 +211,10 @@ Todos los actos y actuaciones electrónicas que se realicen o se deriven de la c
 
 Las disposiciones contenidas en los anexos de este Reglamento forman parte integral del mismo, por lo que son obligatorias.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
 ### CAPÍTULO II. De la Firma Electrónica Avanzada del INE
 
 Del otorgamiento, uso y validez
@@ -209,21 +231,17 @@ Los documentos podrán ser firmados con la Firma Electrónica Avanzada por los u
 
 Los documentos y mensajes de datos que cuenten con la Firma Electrónica Avanzada producirán los mismos efectos que los presentados con firma autógrafa y, en consecuencia, tendrán el mismo valor jurídico-administrativo que las disposiciones correspondientes les otorgan a éstos.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-Todas las comunicaciones que se realicen entre instancias del Instituto deberán realizarse por vía electrónica, mediante la utilización de la Firma Electrónica Avanzada, salvo en el trámite y sustanciación de los siguientes procedimientos de índole contencioso, que de manera enunciativa y no limitativa se precisan a continuación:
+Todas las comunicaciones que se realicen entre instancias del Instituto deberán llevarse a cabo vía electrónica, mediante la utilización de la firma electrónica avanzada.
 
-a. Los medios de impugnación en materia electoral;
+Para el trámite y sustanciación de procedimientos de índole contencioso o administrativo, se podrá hacer uso de la firma electrónica avanzada en los términos que señale la normativa en la materia.
 
-b. El procedimiento ordinario y especial sancionador, así como el de remoción de Consejeros Electorales;
-
-c. El procedimiento laboral disciplinario, el que derive de los casos de Hostigamiento y Acoso Sexual o Laboral, así como el de responsabilidades administrativas de los servidores públicos del Instituto;
-
-d. Litigios, en cuya tramitación no se contemple el uso de la Firma Electrónica Avanzada;
-
-e. Procedimientos administrativos sancionadores en materia de fiscalización.
-
-En los casos en los que para la debida integración de los procedimientos descritos se requiera del apoyo, información y colaboración entre autoridades y/o terceros, estos requerimientos podrán realizarse mediante la utilización de Firma Electrónica Avanzada, siempre que así se acuerde entre estas.
+En caso de que se presenten situaciones extraordinarias que pongan en riesgo la salud, seguridad o cualquier derecho humano del personal del Instituto y de la ciudadanía en general, y la norma específica no contemple el uso de la firma electrónica avanzada, el Consejo General, la Junta General Ejecutiva o el órgano competente para tramitar o sustanciar el procedimiento correspondiente podrá determinar su uso atendiendo el caso particular, siempre y cuando garantice el debido proceso.
 
 ###### Artículo 12.
 
@@ -272,6 +290,10 @@ IV. Integridad: da certeza de que el documento, acto, actuación electrónica o 
 V. Neutralidad Tecnológica: consiste en que la tecnología utilizada para la emisión de certificados digitales y para la prestación de los servicios relacionados con la Firma Electrónica Avanzada será aplicada de modo tal que no excluya, restrinja o favorezca la utilización de alguna marca en particular; y
 
 VI. No Repudio: consiste en que la Firma Electrónica Avanzada contenida en un documento, acto, actuación electrónica o mensaje de datos garantiza la autoría e integridad de los mismos, y que dicha firma corresponde exclusivamente al firmante.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
 ### CAPÍTULO III. De los documentos y de los mensajes de datos
 
@@ -335,6 +357,10 @@ El INE realizará las funciones de Autoridad Certificadora a través de la DEA, 
 
 La DEA, a través de su Titular, deberá designar como Agentes Certificadores a las personas propuestas por los Titulares de las Unidades Responsables de Oficinas Centrales y Juntas Ejecutivas.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 26.
 
 Las atribuciones de la Autoridad Certificadora y de los Agentes Certificadores, serán las siguientes:
@@ -355,9 +381,17 @@ VI. Llevar el control y administración de los usuarios de la Firma Electrónica
 
 VII. Las que se deriven de las disposiciones del presente Reglamento, y demás normatividad aplicable.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
 B. Los Agentes Certificadores son responsables de:
 
-I. Recibir y revisar que las solicitudes y documentación para la emisión de certificados digitales que presenten los sujetos obligados cumplan con los requisitos que al efecto establezca este Reglamento;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+I. Recibir y revisar que las solicitudes y documentación que presenten los sujetos obligados de manera física o electrónica para la emisión de certificados digitales cumplan con los requisitos que al efecto establezca este Reglamento;
 
 II. Registrar a los sujetos obligados que se les haya expedido el certificado para la utilización de la Firma Electrónica Avanzada;
 
@@ -367,7 +401,11 @@ IV. Realizar las altas, bajas, revocaciones o modificaciones de los titulares qu
 
 V. Llevar un registro de los certificados digitales que se emitan y de los que se revoquen;
 
-VI. Notificar al solicitante respecto de inconsistencias y/o duplicidades en la documentación que presente;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Notificar al solicitante respecto de inconsistencias o duplicidades en la documentación física o electrónica que presente;
 
 VII. Las que se deriven de las disposiciones del presente Reglamento, y demás normatividad aplicable.
 
@@ -415,15 +453,39 @@ IX. Presupuestar los recursos necesarios para el uso y operación de la Firma El
 
 X. Las demás que se deriven de las disposiciones del presente Reglamento y normatividad aplicable.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
 ### CAPÍTULO V. Del certificado digital
 
 ###### Artículo 29.
 
 Para obtener un certificado digital, los sujetos obligados deberán requisitar debidamente la solicitud correspondiente y firmar la carta de términos y condiciones señalada en el Anexo 2, mediante la cual se manifestará que se convalidan todos aquellos actos que se celebren con la Firma Electrónica Avanzada del INE, como si hubieran sido firmados autógrafamente por su suscriptor, y será enviada a la cuenta de correo electrónico indicada por el usuario.
 
-Con la finalidad de dar certeza y seguridad para el otorgamiento del certificado digital, los sujetos obligados deberán presentarse en el domicilio que señale la Autoridad Certificadora.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
 
-A. Tratándose de usuarios internos, deberán realizar el requerimiento del certificado digital a través del sistema de registro y certificación, o en su caso a través de una aplicación que para tal fin determine la DEA, así mismo, deberán presentar los siguientes documentos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+Con la finalidad de dar certeza y seguridad para el otorgamiento del certificado digital, los sujetos obligados deberán:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+1. Presentarse en el domicilio que señale la Autoridad Certificadora o,
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+2. En su caso, realizar el trámite a través de la modalidad a distancia o con el uso de herramientas tecnológicas que la Autoridad Certificadora determine.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+A. Tratándose de usuarios internos, deberán realizar el requerimiento del certificado digital a través del sistema de registro y certificación, o en su caso, a través de la herramienta que para tal fin determine la DEA, así mismo, deberán presentar o remitir en medios electrónicos los siguientes documentos:
 
 a. Solicitud de expedición del certificado digital debidamente requisitada para obtener el certificado digital, la cual debe contener al menos los siguientes datos:
 
@@ -445,17 +507,61 @@ I.8 Cargo que desempeña, y
 
 I.9 Fecha de solicitud.
 
-b. En caso de que el sujeto obligado sea un prestador de servicios deberá presentar copia del contrato de prestación de servicio para cotejo del período de contratación.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
 
-c. A efecto de validar la identidad del solicitante interno, se deberá entregar identificación oficial original (para cotejo), y copia. se considerará como identificación oficial cualquiera de los siguientes documentos: Pasaporte vigente expedido por la Secretaría de Relaciones Exteriores; Credencial para votar vigente; Cédula profesional expedida por la Secretaría de Educación Pública, Cartilla del Servicio Militar Nacional, expedida por la Secretaría de la Defensa Nacional.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
-d. Para el resto de los documentos, se consultará en el expediente de los usuarios internos, aquellos documentos que permitan validar los datos contenidos en la solicitud. Esto con el propósito de no solicitar dos veces a estos usuarios la información que ya obra en su expediente. En caso de que alguno de los datos no coincida con el expediente, se deberá entregar el documento en donde se muestre el dato que coincida con la solicitud.
+En los casos de nuevo ingreso al Instituto, los usuarios internos podrán solicitar la expedición del certificado digital una vez que se encuentren activos en el módulo de nómina del SIGA y que se les haya otorgado una cuenta de correo electrónico institucional.
 
-e. En caso de que sea requerido algún cambio respecto de la información que obra en el expediente se deberá proporcionar copia del documento que sustente este cambio, el cual, servirá sólo para efectos del trámite de la Firma Electrónica Avanzada.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
 
-B. Tratándose de usuarios externos, deberán presentar la documentación que acredite su identidad, y realizar el requerimiento del certificado digital a través de la herramienta que, para tal fin, determine la DEA.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
-Los usuarios externos, deberán presentar la información y documentación siguiente:
+b. En caso de que el sujeto obligado sea un prestador de servicios deberá presentar o remitir en medios electrónicos copia del contrato para cotejo del período de contratación, o bien a solicitud del Coordinador Administrativo o Enlace Administrativo de la Unidad Responsable un oficio en el que se indique el período de contratación del prestador de servicios.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+c. A efecto de validar la identidad del solicitante interno, se deberá:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+1. Para el caso de trámites presenciales: Entregar identificación oficial original (para cotejo), y copia simple de la misma.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+2. Para el caso de trámites a través de medios electrónicos: Remitir la identificación oficial digitalizada a través de correo electrónico institucional, para lo cual deberá indicar bajo protesta de decir verdad que se trata de la misma persona. La identidad del usuario interno se deberá comprobar por parte del Agente Certificador a través de una videollamada en donde se valide que es la misma persona de la identificación, situación que deberá constar en el expediente correspondiente para los efectos a que haya lugar.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+d. El Agente Certificador deberá consultar en el sistema que corresponda que el usuario interno se encuentre activo en el Instituto, para lo cual se deberá dejar constancia de dicha consulta, a través de la captura de pantalla del sistema en donde se observe la asignación activa, lo anterior a fin de agilizar los trámites y evitar solicitar documentación que ya forma parte de su expediente.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+e. (DEROGADO), D.O.F. 9 DE SEPTIEMBRE DE 2020)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+B. Tratándose de usuarios externos, deberán presentar de manera física o electrónica la documentación que acredite su identidad, dicha acreditación se podrá realizar a través de la utilización de medios electrónicos, mediante procedimiento que la Autoridad Certificadora establezca para ello, y realizar el requerimiento del certificado digital a través de la herramienta que, para tal fin, determine la DEA.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+Los usuarios externos, deberán presentar física o remitir electrónicamente la información y documentación siguiente:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
 Para personas físicas con nacionalidad mexicana:
 
@@ -473,13 +579,21 @@ I.5 Registro Federal de Contribuyentes (RFC), y
 
 I.6 Fecha de solicitud.
 
-II. Identificación oficial original (para cotejo) y copia, se considerará como identificación oficial cualquiera de los siguientes documentos: Pasaporte vigente expedido por la Secretaría de Relaciones Exteriores; Credencial para votar vigente; Cédula profesional expedida por la Secretaría de Educación Pública, Cartilla del Servicio Militar Nacional, expedida por la Secretaría de la Defensa Nacional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+II. Identificación oficial, se considerará como identificación oficial cualquiera de los siguientes documentos: Credencial para votar vigente; Pasaporte vigente expedido por la Secretaría de Relaciones Exteriores; Cédula profesional expedida por la Secretaría de Educación Pública, Cartilla del Servicio Militar Nacional, expedida por la Secretaría de la Defensa Nacional;
 
 III. Cédula de identificación fiscal original (para cotejo) y copia;
 
 IV. Clave Única de Registro de Población (CURP);
 
 V. Justificación expresa para obtener la Firma Electrónica Avanzada.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
 Para personas físicas con nacionalidad extranjera:
 
@@ -501,13 +615,21 @@ I.7 Fecha de solicitud.
 
 II. Identificación oficial vigente con fotografía del país de origen en original (para cotejo) y copia;
 
-III. Documento vigente migratorio que corresponda, emitido por la autoridad competente original (para cotejo) y copia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+III. Documento vigente migratorio que corresponda, emitido por la autoridad competente;
 
 IV. Cédula de identificación fiscal o equivalente original (para cotejo) y copia;
 
 V. Clave Única de Registro de Población (CURP), o equivalente original (para cotejo) y copia;
 
 VI. Justificación expresa para obtener la Firma Electrónica Avanzada.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
 Para personas morales nacionales, Partidos Políticos, Candidaturas Independientes y sus Representaciones, y/o Consejeros del Poder Legislativo:
 
@@ -525,7 +647,11 @@ I.5 Registro Federal de Contribuyentes (RFC), y
 
 I.6 Fecha de solicitud.
 
-II. Identificación oficial con fotografía en original (para cotejo) y copia, se considerará como identificación oficial cualquiera de los siguientes documentos: Pasaporte vigente expedido por la Secretaría de Relaciones Exteriores; Credencial para votar vigente, Cédula profesional expedida por la Secretaría de Educación Pública, Cartilla del Servicio Militar Nacional, expedida por la Secretaría de la Defensa Nacional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+II. Identificación oficial con fotografía, se considerará como identificación oficial cualquiera de los siguientes documentos: Credencial para votar vigente; Pasaporte vigente expedido por la Secretaría de Relaciones Exteriores; Cédula profesional expedida por la Secretaría de Educación Pública, Cartilla del Servicio Militar Nacional, expedida por la Secretaría de la Defensa Nacional;
 
 III. Cédula de identificación fiscal original (para cotejo) y copia;
 
@@ -536,6 +662,10 @@ V. Documento que acredite la facultad de representación;
 VI. Justificación expresa para obtener la Firma Electrónica Avanzada.
 
 Para el caso en específico de los partidos políticos y/o Consejeros del Poder Legislativo, podrán prescindir de los documentos relativos a la representación legal, y en su lugar bastará con que presenten el documento donde acrediten su representación ante el Órgano Superior de Dirección que corresponda.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
 Para personas morales con nacionalidad extranjera:
 
@@ -557,7 +687,11 @@ II. Identificación oficial vigente con fotografía del país de origen del repr
 
 III. Testimonio de la escritura pública con la que se acredite su existencia legal así como las facultades de su representante legal o apoderado;
 
-IV. Cédula de identificación fiscal de la persona moral y de manera opcional, la de su representante legal o apoderado original (para cotejo) y copia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Cédula de identificación fiscal de la persona moral y de manera opcional, la de su representante legal o apoderado;
 
 V. Clave Única de Registro de Población del representante legal o apoderado, si existe en el país de origen original (para cotejo) y copia;
 
@@ -565,13 +699,31 @@ VI. Justificación expresa para obtener la Firma Electrónica Avanzada.
 
 Los usuarios podrán presentar documentos electrónicos expedidos por las Autoridades competentes, los cuales se tendrán por válidos. La validación de los documentos firmados electrónicamente será potestad del receptor.
 
-La copia de los documentos que son presentados por los usuarios en el proceso de obtención del certificado digital, serán resguardados conforme a la normatividad aplicable en la materia.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
 
-Una vez validada la información contenida en la solicitud presentada por el solicitante, la Autoridad Certificadora, emitirá el certificado digital correspondiente.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+Los documentos que son presentados por los usuarios en el proceso de obtención del certificado digital, serán resguardados conforme a la normatividad aplicable en la materia.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+Una vez validada la información contenida en la solicitud presentada o remitida por el solicitante, la Autoridad Certificadora, emitirá el certificado digital correspondiente.
 
 ###### Artículo 30.
 
 Una vez emitido el certificado digital será entregado al usuario, en un plazo máximo de 10 días hábiles, en un medio electrónico que contendrá la información señalada a continuación y el cual estará bajo el resguardo del firmante:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+Para el caso de solicitudes que se tramiten de manera electrónica, el usuario descargará su certificado digital del sistema determinado para este fin.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
 La estructura de los certificados digitales que emita la Autoridad Certificadora deberá contener lo siguiente:
 
@@ -585,19 +737,41 @@ IV. Vigencia;
 
 V. Nombre del titular del certificado digital;
 
-VI. Dirección de correo electrónico;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
 
-VII. Llave pública;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Los demás requisitos que, en su caso, se establezcan en las disposiciones que se emitan en términos de este Reglamento.
+VI. Puesto;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Dirección de correo electrónico;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Llave pública;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Los demás requisitos que, en su caso, se establezcan en las disposiciones que se emitan en términos de este Reglamento.
 
 Este certificado tendrá una vigencia de al menos cuatro años contados a partir de la fecha y hora de su expedición para usuarios internos y externos, para el caso de los prestadores de servicio la vigencia será de acuerdo a su período de contratación.
 
 Los sujetos obligados sólo podrán contar con un certificado digital vigente.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 31.
 
-En caso de que el Agente Certificador detecte inconsistencias o duplicidad en los datos y elementos de identificación, se deberá rechazar el trámite del certificado digital, notificando mediante correo electrónico al solicitante; y sólo en los casos en los que las incidencias sean subsanables deberá informar a éste para que acuda ante la Autoridad correspondiente, para subsanar la inconsistencia o duplicidad.
+En caso de que el Agente Certificador detecte inconsistencias o duplicidad en los datos y elementos de identificación, se deberá rechazar el trámite del certificado digital, notificando mediante correo electrónico al solicitante; y sólo en los casos en los que las incidencias sean subsanables deberá informar a éste para que acuda o remita a través de medios electrónicos a la Autoridad correspondiente, para subsanar la inconsistencia o duplicidad.
 
 En caso de no subsanar las inconsistencias en un plazo de 10 días hábiles posteriores a la entrega de la solicitud, se entenderá como rechazado el trámite por lo que el usuario deberá iniciar nuevamente el proceso.
 
@@ -653,15 +827,35 @@ V. Cuando se ponga en riesgo la confidencialidad o integridad de los datos de cr
 
 VI. Por resolución de Autoridad Judicial o Administrativa que así lo determine;
 
-VII. Cuando el usuario interno termine su relación con el INE, y en su caso, haya finalizado con el cumplimiento de las obligaciones que deriven de la declaración patrimonial;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Cuando el usuario interno haya sufrido un movimiento de personal en nómina en el Instituto, la solicitud para la revocación del certificado digital deberá llevarse cuando se haya realizado el movimiento del puesto de manera formal y se podrá solicitar de manera directa por el usuario interno, a través de la Coordinación o Enlace administrativo, según corresponda, o bien, la Dirección de Personal podrá solicitarlo al Agente Certificador de la Unidad Responsable a la que se encuentre adscrito el usuario interno. Con base en lo siguiente:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+Para el caso de movimientos definitivos, se procurará que el trámite de revocación y emisión del certificado digital se realice de manera paralela al trámite formal del cambio de puesto. De no ser posible, la vigencia del certificado digital con el puesto anterior tendrá validez durante los 30 días naturales, siguientes a la fecha del movimiento de personal en nómina.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+En el supuesto de movimientos provisionales por encargaduría, el usuario interno podrá continuar firmando con su certificado digital del puesto anterior, sin que ello le impida el cumplimiento de las obligaciones que son inherentes al cargo provisional que ostentará de conformidad con lo previsto en el oficio de designación correspondiente, hasta en tanto no exista un cambio de puesto definitivo.
 
 VIII. Cuando el titular haga del conocimiento a la autoridad certificadora del extravío o inutilización por daños del medio electrónico que contenga el certificado digital o la llave privada; o bien, en caso de pérdida, robo o destrucción del medio electrónico que contiene la Firma Electrónica Avanzada, o cualquier otro evento que ponga en riesgo la confidencialidad del certificado digital o la llave que conforma al mismo, los sujetos obligados, bajo su absoluta responsabilidad, deberán proceder a solicitar su inmediata revocación o reposición ante la autoridad correspondiente, sujetándose a los procesos que este último determine.
 
 En los casos a que se refiere la fracción IV de este artículo, la revocación procederá a solicitud de un tercero legalmente autorizado, quien deberá acompañar copia certificada del acta de defunción del titular del certificado digital.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-Los sujetos obligados que requieran revocar su certificado digital deberán comunicarlo vía correo electrónico a la cuenta oficial autoridad.certificadora@ine.mx, adjuntando los siguientes requisitos:
+Los sujetos obligados que requieran revocar su certificado digital deberán comunicarlo vía correo electrónico a la cuenta del Agente Certificador correspondiente, adjuntando los siguientes requisitos:
 
 I. Solicitud debidamente requisitada en la que se solicite la revocación del certificado digital, señalada en el Anexo 3.
 
@@ -669,11 +863,19 @@ II. Señalar nombre completo del promovente y adjuntar identificación oficial.
 
 Para el caso de los usuarios internos, si así lo consideran pertinente, podrán llevar a cabo la revocación de su certificado digital a través del sistema de registro y certificación.
 
-Por cuestiones de seguridad de la información, para el trámite de renovación en el sistema de registro y certificación tendrán que contar indispensablemente con la clave de revocación y el número de serie del certificado digital. Posteriormente tendrá que notificar que llevó a cabo la revocación del certificado digital vía correo electrónico a la cuenta oficial autoridad.certificadora@ine.mx.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+Por cuestiones de seguridad de la información, para el trámite de renovación en el sistema de registro y certificación tendrán que contar indispensablemente con la clave de revocación y el número de serie del certificado digital. Posteriormente tendrá que notificar que llevó a cabo la revocación del certificado digital vía correo electrónico a la cuenta del Agente Certificador que corresponda.
 
 Para los usuarios externos se presentarán ante el Agente Certificador que corresponda y presentarán en original o copia certificada y en copia simple para cotejo su identificación oficial en términos de lo establecido en el artículo 29 del presente Reglamento, adjuntando también el original de la solicitud a que se hace referencia en la fracción I del presente artículo.
 
-Una vez cumplidos estos requisitos, se otorgará al sujeto obligado una constancia impresa que indicará, además de la información antes precisada, la fecha de revocación de su certificado digital.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+Una vez cumplidos estos requisitos, se otorgará al sujeto obligado una constancia impresa o electrónica según corresponda que indicará, además de la información antes precisada, la fecha de revocación de su certificado digital.
 
 ### CAPÍTULO VII. Del reconocimiento de certificados digitales emitidos por Autoridades Certificadoras
 
@@ -769,6 +971,20 @@ V. Realizar, previamente a la firma de los documentos, la revisión del estado d
 
 VI. En su caso solicitar a la UNICOM que se realicen pruebas de seguridad a la aplicación y a los servidores que interactúen con la Infraestructura.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+### Capítulo IX. Cancelación de documentos firmados electrónicamente
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 46.
+
+Se podrán cancelar documentos firmados electrónicamente a través de los sistemas correspondientes o mediante el o los procedimientos genéricos que determine el Grupo de Gobierno de Tecnologías de Información y Comunicación, para tal fin.
+
 ## Transitorios
 
 PRIMERO.- Con la entrada en vigor del presente Reglamento, para los certificados emitidos por la DEA, como Autoridad Certificadora del INE, los cuales, tienen una longitud de 1024 bits y un algoritmo de firmado SHA-1, deberán mantenerse hasta el término de su vigencia.
@@ -784,3 +1000,33 @@ CUARTO.- Para la implementación del Tablero Electrónico, se llevará a cabo a 
 QUINTO.- Las Unidades Responsables que cuenten con sistemas informáticos que hagan uso de la Firma Electrónica Avanzada y se encuentren vigentes a la entrada en vigor del presente Reglamento, deberán implementar las funcionalidades establecidas en este instrumento; las cuales estarán sujetas a la existencia de recursos tecnológicos, humanos, materiales y financieros para realizarlas, por lo que, el cumplimiento de esta obligación estará supeditada a dicha circunstancia.
 
 SEXTO.- El plazo para que se habiliten los diferentes Agentes Certificadores en las Unidades Responsables será de hasta 180 días hábiles posteriores a la entrada en vigor del presente Reglamento.
+
+> <small>[N. DE E. VÉASE REFORMA DEL ANEXO 3 EN www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf, INFORMACIÓN OBTENIDA DE LOS PORTALES DEL D.O.F. Y DEL INE, EL 9 DE SEPTIEMBRE DE 2020, PÁGINA 21.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE SEPTIEMBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL ACUERDO INE/JGE106/2020, INFORMACIÓN OBTENIDA DE www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf; https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114418/JGEex202008-24-ap-6-1.pdf, EL 9 DE SEPTIEMBRE DE 2020, PÁGINA 21, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Tercero. El presente Acuerdo y la reforma al Reglamento para el uso y operación de la firma electrónica avanzada en el Instituto Nacional Electoral, así como a su Anexo 3, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS ACUERDOS DEL “EXTRACTO DEL ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL CUAL SE REFORMA EL REGLAMENTO PARA EL USO Y OPERACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA EN EL INSTITUTO NACIONAL ELECTORAL, EN CUMPLIMIENTO AL ACUERDO INE/CG185/2020.”.]</small>
+
+Primero. Se modifican los artículos 2, 11, 26, 29, 30, 31, 34, 35 y anexo 3, relativo a la Solicitud de Revocación de Certificado Digital. Se adiciona el artículo 46, todos del Reglamento para el uso y operación de la firma electrónica avanzada en el Instituto Nacional Electoral, para quedar en los siguientes términos.
+
+[…]
+
+Tercero. El presente Acuerdo y la reforma al Reglamento para el uso y operación de la firma electrónica avanzada en el Instituto Nacional Electoral, así como a su Anexo 3, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Cuarto. Publíquese el presente Acuerdo en la Gaceta Electoral, en NormaINE y en el portal de Internet del Instituto Nacional Electoral; así como un extracto del mismo en el Diario Oficial de la Federación.
+
+El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Nacional Electoral, Dr. Lorenzo Córdova Vianello. - Rúbrica. - El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del INE, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo integro puede ser consultado en las siguientes direcciones electrónicas:
+
+DOF: www.dof.gob.mx/2020/INE/JGEext202008_24_ap_6_1.pdf
+
+INE Acuerdo: https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-24-de-agosto-de-2020/
+
+Ciudad de México, a 24 de agosto de 2020.- El Secretario Ejecutivo, Edmundo Jacobo Molina.- Rúbrica.
