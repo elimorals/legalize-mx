@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2018-08-20"
+last_updated: "2020-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -43,11 +43,11 @@ En consecuencia, se hace necesario modificar la Ley Orgánica del Poder Judicial
 
 Con estos cambios se abroga la Ley Orgánica del Poder Judicial expedida con fecha 25 de diciembre de 1996, no obstante que una buena parte de las disposiciones vigentes permanecen intocadas, porque su contenido es válido y no tiene que alterarse, pues la reforma constitucional no las afecta; pero si deben recorrer su numeración para dar correcta estructura al ordenamiento legal que organiza al Poder Judicial del Estado.
 
-Si bien gran parte de las modificaciones a este ordenamiento son de forma y texto, han sido reordenados en sus numerales y capítulos en razón de técnica jurídica; de esta manera, se respeta en lo general el contenido restante de la ley que se abroga, con la reestructura y reacomodo necesarios, en ocho títulos. Asimismo, conforme a lo establecido en el artículo 92 fracción I del Reglamento Interior del Congreso del Estado, al modificarse y adicionarse más del cincuenta por ciento del contenido de la ley en comento, se trata entonces de una nueva ley, haciéndose por tanto necesaria la abrogación de la vigente, aun cuando se conserva gran parte de la estructura y sistematización ya existentes en la misma. La ley abrogada en virtud del presente decreto contaba con 153 artículos, y la que ahora se expide con 203, con lo que se adicionan 48 artículos; además, de que de los 153 vigentes se reforman 135, razón por la que formal y cuantitativamente se actualiza el supuesto que consigna el numeral de referencia.
+Si bien gran parte de las modificaciones a este ordenamiento son de forma y texto, han sido reordenados en sus numerales y capítulos, en razón de técnica jurídica; de esta manera, se respecta en lo general el contenido restante de la ley que se abroga, con la reestructura y reacomodo necesarios, en ocho títulos. Asimismo, conforme a lo establecido en el artículo 92 fracción I del Reglamento Interior del Congreso del Estado, al modificarse y adicionarse más del cincuenta por ciento del contenido de la ley en comento, se trata entonces de una nueva ley, haciéndose por tanto necesaria la abrogación de la vigente, aun cuando se conserva gran parte de la estructura y sistematización ya existentes en la misma. La ley abrogada en virtud del presente decreto contaba con 153 artículos, y la que ahora se expide con 203, con lo que se adicionan 48 artículos; además, de que de los 153 vigentes se reforman 135, razón por la que formal y cuantitativamente se actualiza el supuesto que consigna el numeral de referencia.
 
 Una parte de estas modificaciones responden a la necesidad de sustituir los términos referidos al Supremo Tribunal de Justicia en la ley que se abroga, por el vocablo Consejo de la Judicatura, que conforme al mandato constitucional asumirá las funciones de administración del Poder Judicial, antes conferidas al Pleno de su máximo órgano.
 
-Otros artículos si introducen cambios sustantivos, porque redistribuyen facultades de administración, de vigilancia y de disciplina que correspondían al Supremo Tribunal y a los juzgados, o a los diversos órganos de apoyo a la administración de justicia y que ahora competen al Consejo de la Judicatura.
+Otros artículos sí introducen cambios sustantivos, porque redistribuyen facultades de administración, de vigilancia y de disciplina que correspondían al Supremo Tribunal y a los juzgados, o a los diversos órganos de apoyo a la administración de justicia y que ahora competen al Consejo de la Judicatura.
 
 Por otra parte, se establecen disposiciones nuevas, ordenadas por capítulos y títulos adicionales, que resultan indispensables para dar cabida a la existencia del Consejo de la Judicatura y a sus atribuciones y disposiciones, así como a sus organismos internos de apoyo, como el Secretariado Ejecutivo que se subdivide para el pleno y la carrera judicial, para la administración y para la vigilancia y disciplina.
 
@@ -57,7 +57,7 @@ De esta manera, esta nueva Ley Orgánica del Poder Judicial atiende fundamentalm
 
 Dependiente del Consejo de la Judicatura se crea la Visitaduría Judicial, encargada de atender este rubro con personal altamente capacitado; llevará a cabo su encomienda conforme a las estrictas reglas que al efecto también se establecen en esta Ley, cuestión que desahogará de esta responsabilidad a los magistrados del Tribunal, que previo a esta reforma se encontraban encargados de realizar personalmente esa labor en los juzgados de primera instancia del Estado.
 
-Esta Visitaduría del Poder Judicial del Estado, estará conformada por profesionistas debidamente capacitados y especializados en los procedimientos de visita, inspección, revisión, supervisión y análisis de la calidad en el desempeño del trabajo que se lleva a cabo en los juzgados de Primera Instancia y menores del Estado; pero exclusivamente en lo que toca al aspecto administrativo de los órganos encargados de la justicia y no a su impartición; distinguiendo a estos conceptos con la claridad que la doctrina y la jurisprudencia les entrega; con esto se quiere decir que el Consejo de la Judicatura no podrá revisar el sentido, ni el contenido de las resoluciones jurisdiccionales; ni intervenir en sus fallos; ni mucho menos en los criterios que alimentan el arbitrio judicial en una sentencia, que es responsabilidad exclusiva de los juzgadores.
+Esta Visitaduría del Poder Judicial del Estado, estará conformada por profesionistas debidamente capacitados y especializados en los procedimientos de visita, inspección, revisión, suspensión y análisis de la calidad en el desempeño del trabajo que se lleva a cabo en los juzgados de Primera Instancia y menores del Estado; pero exclusivamente en lo que toca al aspecto administrativo de los órganos encargados de la justicia y no a su impartición; distinguiendo a estos conceptos con la claridad que la doctrina y la jurisprudencia les entrega, con esto se quiere decir que el Consejo de la Judicatura no podrá revisar el sentido, ni el contenido de las resoluciones jurisdiccionales; ni intervenir en sus fallos; ni mucho menos en los criterios que alimentan el arbitrio judicial en una sentencia, que es responsabilidad exclusiva de los juzgadores.
 
 Conforme a los criterios anteriores, se establecen en esta Ley el procedimiento que en cada caso debe seguirse para llevar a cabo tales visitas, garantizando así una revisión más objetiva y especializada.
 
@@ -69,7 +69,7 @@ El procedimiento contempla desde luego, la garantía de audiencia del magistrado
 
 - EL PERFECCIONAMIENTO DE LA CARRERA JUDICIAL. De la adecuada selección y capacitación de los servidores públicos del Poder Judicial, depende en gran parte la eficiencia en el cumplimiento del principio de justicia pronta y expedita que deben impartir los tribunales; por ello, se consignan los procedimientos que actualmente operan en esta materia, tales como los exámenes de aptitud y de oposición, para eficientar y en todo caso cuidar la aplicabilidad del escalafón y de los demás criterios (sic) rigen para la promoción de personal en los diversos cargos.
 
-Además de lo anterior, destacan en esta Ley respecto a la que se abroga, las siguientes modificaciones:
+Además de lo anterior, destacan en esta Ley respecto a la que se abroga, las siguiente modificaciones:
 
 Acorde a la reforma a la Constitución del Estado ya referida, se instituye el Consejo de la Judicatura, como un órgano del Poder Judicial, encargado de la administración, vigilancia y disciplina de los órganos del mismo, en los términos de esta Ley, así como de la carrera judicial, con excepción del Pleno del Supremo Tribunal de Justicia, de la Presidencia del mismo, y de los magistrados del Tribunal Electoral. Esta última distinción obedece al principio mismo de división de poderes, que adjudica la representación del Poder Judicial al Supremo Tribunal de Justicia, compuesto por los magistrados del mismo, razón por la que no puede crearse un órgano de vigilancia y disciplina por encima del propio Pleno; de esta forma, las atribuciones reglamentadas de las funciones administrativas del Consejo de la Judicatura, están redactadas de una forma tal que pretenden dejar claro que este órgano no puede interferir en los límites de la jerarquía y competencia de los magistrados del Supremo Tribunal de Justicia, puesto que el Consejo no podrá ejercer vigilancia sobre aspectos que correspondan a la esencia jurisdiccional de la tarea de dichos funcionarios, ni imponer medidas disciplinarias respecto de sus personas, pues esto sólo corresponderá al propio Pleno de los pares de un Magistrado, en el supuesto de que fuera sujeto de procedimiento de queja o responsabilidad administrativa.
 
@@ -95,11 +95,11 @@ Asimismo, podrá formar un fondo de apoyo para el mejoramiento de la administrac
 
 ### CAPITULO II. De las Autoridades Judiciales
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 3°.
 
-En el ejercicio de la función jurisdiccional, corresponde al Poder Judicial la potestad de interpretar, aplicar y ejecutar las leyes del fuero común en materia civil, familiar, penal, y justicia para adolescentes en el territorio del Estado.
+En el ejercicio de la función jurisdiccional, corresponde al Poder Judicial la potestad de interpretar, aplicar y ejecutar las leyes del fuero común en materia civil, familiar, laboral, penal, y justicia para adolescentes en el territorio del Estado.
 
 ###### ARTICULO 4°.
 
@@ -129,7 +129,13 @@ f) Juzgados de Control.
 
 g) Tribunales de Juicio Oral.
 
-h) Juzgados de Ejecución de Sentencia, y
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+h) Juzgados de Ejecución de Sentencia.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+i) Tribunales laborales, y
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -233,11 +239,11 @@ III. Padezca incapacidad física o mental permanente para el desempeño de su ca
 
 El Supremo Tribunal de Justicia funcionará en Pleno y en salas colegiadas, las que podrán residir en la capital del Estado, en otros distritos judiciales o regiones.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 11.
 
-El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza judicial que determinen la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado; los códigos, Civil; Penal; y de Procedimientos Civiles y Penales; la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, la Ley Nacional de Ejecución Penal; la presente Ley, y las demás disposiciones legales.
+El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza judicial que determinen la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado; los Códigos, Civil; Penal; y de Procedimientos Civiles y Penales; la Ley Federal del Trabajo; la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; la Ley Nacional de Ejecución Penal; la presente Ley, y las demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -553,13 +559,11 @@ Las regiones judiciales serán determinadas por el Consejo de la Judicatura y co
 
 Los tribunales o juzgados tendrán jurisdicción en el territorio del Distrito o Región Judicial al que pertenezcan, conforme lo determine el Consejo de la Judicatura.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 50.
 
-En cada Distrito o Región Judicial habrá el número de Tribunales y Juzgados que determine el Consejo de la Judicatura, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes, de ejecución, y demás materias en que ejerzan su jurisdicción, y se distinguirán por su denominación o número ordinal que les corresponda.
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+En cada Distrito o Región Judicial habrá el número de Tribunales y Juzgados que determine el Consejo de la Judicatura, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, laborales, penales, de lo familiar, de justicia para adolescentes, de ejecución, y demás materias en que ejerzan su jurisdicción, y se distinguirán por su denominación o número ordinal que les corresponda.
 
 Las Regiones Judiciales podrán comprender el ámbito territorial de más de un Distrito Judicial.
 
@@ -666,6 +670,18 @@ k) Las demás que la Ley Nacional del Sistema Integral de Justicia Penal para Ad
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
 ARTICULO 53 QUÁTER. Los jueces de oralidad mercantil conocerán, tramitarán y resolverán los juicios, hasta por el monto que señala el Código de Comercio.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+###### ARTICULO 53.
+
+QUINQUE. Las y los jueces laborales deberán:
+
+I. Atender la función jurisdiccional en materia laboral en el ámbito local, que se ejerza por los tribunales laborales;
+
+II. Atender las facultades y obligaciones que les establecen, la Constitución Política de los Estados Unidos Mexicanos; la Ley Federal del Trabajo; los acuerdos generales que dicte el Pleno del Consejo de la Judicatura, y demás disposiciones aplicables, y
+
+III. Conocer de los conflictos individuales y colectivos de conformidad con las disposiciones de la Ley Federal del Trabajo.
 
 ###### ARTICULO 54.
 
@@ -1127,11 +1143,49 @@ XIV. Cuidar el buen desempeño de los actuarios del juzgado, y
 
 XV. Las demás que le señalen las leyes, reglamentos y acuerdos generales.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+#### Sección Primera Bis. De los Secretarios Instructores
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 75 BIS. En cada uno de los juzgados laborales habrá las y los secretarios instructores autorizados y nombrados, que el Consejo de la Judicatura determine convenientes.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 75 TER. Las secretarias y secretarios instructores tendrán fe pública, en todo lo relativo al ejercicio de su cargo.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 75 QUÁTER. Para ser secretaria o secretario instructor se deberán de reunir los requisitos previstos en el artículo 72 de esta Ley, así como demostrar capacitaciones o experiencia en materia laboral.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 75 QUINQUE. Las secretarias y secretarios instructores, además de las facultades que señala la Ley Federal del Trabajo, tendrán las siguientes atribuciones:
+
+I. Redactar las radicaciones, acuerdos, actas y demás actos relativos a la etapa escrita del procedimiento, así como las que las o los jueces le encomienden;
+
+II. Admitir o prevenir la demanda y, en su caso, subsanarla conforme a las normas del trabajo y lo establecido en la presente Ley;
+
+III. Hacer constar oralmente, al inicio de las audiencias, en el registro, la fecha, hora y lugar de realización, el nombre de las y los servidores judiciales y demás personas que intervendrán;
+
+IV. Tomar protesta a las partes y demás personas intervinientes, previo al desahogo de las audiencias, haciéndoles saber que deberán conducirse con verdad, apercibidas de las penas que se les impondrá en caso de realizar declaraciones falsas;
+
+V. Certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente, y tomar las medidas necesarias para evitar que pueda alterarse;
+
+VI. Firmar las resoluciones que así lo ameriten, el día en que se emitan;
+
+VII. Ordenar la notificación a las personas demandadas;
+
+VIII. Admitir y, en su caso, proveer respecto de las pruebas ofrecidas para acreditar las excepciones dilatorias;
+
+IX. Dictar las providencias cautelares;
+
+X. Decretar las providencias cautelares y medidas necesarias previstas en la Ley Federal del Trabajo, y
+
+XI. Las demás que determine la Ley, y el Consejo de la Judicatura.
+
 #### Sección Segunda. De los Subsecretarios
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
-
-#### Sección Tercera. De los Secretarios de Estudio y Cuenta
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -1155,7 +1209,7 @@ IV. Sellar y foliar las actuaciones, oficios y demás documentos que lo requiera
 
 V. Las demás que les señalen las leyes, reglamentos y acuerdos generales.
 
-#### Sección Cuarta. De los Actuarios
+#### Sección Tercera. De los Secretarios de Estudio y Cuenta
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -1175,7 +1229,9 @@ Los secretarios de estudio y cuenta deben reunir los mismos requisitos previstos
 
 Los secretarios de estudio y cuenta tienen la obligación de elaborar, previo estudio íntegro de los asuntos que les sean turnados, dando cuenta de los mismos a la brevedad posible y elaborar de inmediato, con estricto apego a las constancias procesales y bajo su responsabilidad, el respectivo proyecto de resolución, con sujeción al lineamiento indicado por el Superior, guardando el secreto inherente a su cargo.
 
-#### Sección Quinta. Del Personal de Apoyo
+#### Sección Cuarta. De los Actuarios
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 81.
 
@@ -1200,6 +1256,8 @@ Los actuarios tendrán fe pública en el desempeño de sus funciones.
 ###### ARTICULO 84.
 
 En los juzgados donde no haya Actuario, esa función la desempeñará el Secretario de Acuerdos, o la persona que el Juez habilite para tal efecto.
+
+#### Sección Quinta. Del Personal de Apoyo
 
 ###### ARTICULO 85.
 
@@ -1289,7 +1347,9 @@ VI. Dirigir el Instituto de Estudios Judiciales, la Contraloría y las demás un
 
 VII. Acordar el retiro forzoso de los jueces de Primera Instancia y menores;
 
-VIII. Crear o suprimir las plazas de jueces, secretarios de acuerdos, de estudio y cuenta, actuarios y demás servidores judiciales que sean necesarios, otorgando los nombramientos con pleno apego a la carrera judicial, a los procedimientos de concurso y exámenes de aptitud que establece la presente Ley, y resolver sobre su ratificación, adscripción, remoción y renuncia;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Crear o suprimir las plazas de jueces; secretarias y secretarios de acuerdos, de estudio y cuenta; secretarias y secretarios instructores; actuarias y actuarios, y demás servidoras y servidores judiciales que sean necesarios, otorgando los nombramientos con pleno apego a la carrera judicial, a los procedimientos de concurso y exámenes de aptitud que establece la presente Ley, y resolver sobre su ratificación, adscripción, remoción y renuncia;
 
 IX. Nombrar a los titulares de los órganos auxiliares del Poder Judicial del Estado; resolver sobre sus ascensos, renuncias y licencias; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y acuerdos correspondientes; y formular denuncia o querella en los casos que proceda;
 
@@ -1549,9 +1609,9 @@ III. Comprobar si se encuentran inventariados y asegurados los instrumentos del 
 
 IV. Revisar los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
-V. Hacer constar el número de asuntos, penales; civiles; mercantiles; familiares; de justicia penal para adolescentes; y de ejecución de penas y medidas de seguridad, concluidos y en trámite, así como de los juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión;
+V. Hacer constar el número de asuntos, penales; civiles; mercantiles; familiares; laborales; de justicia penal para adolescentes; y de ejecución de penas y medidas de seguridad, concluidos y en trámite, así como de los juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión;
 
 VI. Determinar si los procesados en libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si durante la suspensión de un proceso prescribió la acción penal;
 
@@ -1793,25 +1853,29 @@ III. Secretario General de Acuerdos del Supremo Tribunal de Justicia;
 
 IV. Secretario de Acuerdos;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
-V. Secretario de Acuerdos de Juzgado Menor;
+V. Secretaria o Secretario Instructor;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Secretario de Estudio y Cuenta;
+VI. Secretaria o Secretario de Acuerdos de Juzgado Menor;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Subsecretario del Supremo Tribunal de Justicia;
+VII. Secretaria o Secretario de Estudio y Cuenta;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Subsecretario, y
+VIII. Subsecretaria o Subsecretario del Supremo Tribunal de Justicia;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Actuario.
+IX. Subsecretaria o Subsecretario, y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
+X. Actuaria o Actuario.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -2033,9 +2097,11 @@ Antes de la publicación de una nueva jurisprudencia en el Periódico Oficial de
 
 ### CAPITULO I. De los Sujetos
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTICULO 175.
 
-Son sujetos de responsabilidad administrativa los magistrados, los consejeros, los jueces de primera instancia, jueces menores, los secretarios de acuerdos, secretarios de estudio y cuenta, subsecretarios, actuarios y visitadores, así como todos los demás servidores del Poder Judicial del Estado, por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, de acuerdo a la presente Ley y a las demás leyes aplicables.
+Son sujetos de responsabilidad administrativa las magistradas, magistrados, consejeras, consejeros, jueces de primera instancia, jueces menores, secretarias y secretarios de acuerdos, secretarias y secretarios instructores, secretarias y secretarios de estudio y cuenta, subsecretarias y subsecretarios, actuarias, actuarios, visitadoras, y visitadores, así como todos los demás servidoras y servidores del Poder Judicial del Estado, por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, de acuerdo a la presente Ley y a las demás leyes aplicables.
 
 ###### ARTICULO 176.
 
@@ -2530,3 +2596,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los reglamentos correspondientes deberán ser armonizados dentro de los 180 días siguientes a la entrada en vigor de este Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0747.- SE REFORMA LOS ARTÍCULOS 3º, 4º EN SU FRACCIÓN III EL INCISO H), 11, 50, 94 EN SU FRACCIÓN VIII, 117 EN SU FRACCIÓN V, 148 EN SUS FRACCIONES V A IX Y 175; Y ADICIONA A Y LOS ARTÍCULOS 4º EN SU FRACCIÓN III EL INCISO I), 53 QUINQUE, EN EL TÍTULO SEGUNDO EN SU CAPÍTULO IX LA SECCIÓN PRIMERA BIS “DE LOS SECRETARIOS INSTRUCTORES” CON LOS ARTÍCULOS 75 BIS A 75 QUINQUE Y 148 LA FRACCIÓN X, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
