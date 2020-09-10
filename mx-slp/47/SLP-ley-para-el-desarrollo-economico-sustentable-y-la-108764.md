@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2020-07-09"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -801,6 +801,14 @@ IV. Fomentar el acceso al financiamiento de las MIPYMES, y
 
 V. Impulsar la constitución de incubadoras de empresas y formación de emprendedores.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+ARTÍCULO 70 BIS. En circunstancias que lo ameriten, y bajo la autorización del titular del Poder Ejecutivo del Estado, la Secretaría de Desarrollo Económico implementará esquemas estratégicos de apoyos para MIPYMES, que podrán incluir tanto aspectos fiscales como apoyos directos, de acuerdo con la situación, con el fin de preservar y proteger la actividad económica y las fuentes de trabajo en la Entidad; y para ello deberá establecer condiciones de accesibilidad de pago en créditos y obligaciones fiscales.
+
+El esquema de apoyos se planeará e implementará en coordinación con el Sistema de Financiamiento para el Desarrollo del Estado, y para lo cual en materia de apoyos directos, se podrá acceder a los fondos y recursos que resulten disponibles en el ejercicio en curso, tras la realización de un análisis que deberá ordenar el Ejecutivo a la Secretaría de Finanzas.
+
+La Secretaría de Desarrollo Económico difundirá las reglas aplicables a dichos esquemas, antes de la asignación de recursos, y tras efectuar ésta, deberá informar sobre los montos asignados, número total de apoyos asignados, y rubros beneficiados.
+
 ###### ARTÍCULO 71.
 
 El sistema de ponderación de los factores a que se refiere el artículo anterior, será definido en el Reglamento de la presente Ley.
@@ -984,5 +992,13 @@ P.O. 9 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0711.- SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0753.- SE ADICIONA EL ARTÍCULO 70 BIS, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
