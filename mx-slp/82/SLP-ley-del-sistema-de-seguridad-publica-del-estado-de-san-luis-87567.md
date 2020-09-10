@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-06-25"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1217,7 +1217,9 @@ El servicio de carrera del personal de las instituciones de seguridad pública e
 
 Para ingresar a alguno de los cuerpos de seguridad pública estatal o municipales, es necesario cumplir cuando menos los siguientes requisitos:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+I. Ser mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
@@ -2862,6 +2864,14 @@ SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
 P.O. 25 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0698.- SE REFORMA EL ARTÍCULO 62 EN SU FRACCIÓN II; Y DEROGA DE LOS ARTÍCULOS 13 LA FRACCIÓN II Y 45 LA FRACCIÓN II, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0749.- SE REFORMA EL ARTÍCULO 62 EN SU FRACCIÓN I, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
