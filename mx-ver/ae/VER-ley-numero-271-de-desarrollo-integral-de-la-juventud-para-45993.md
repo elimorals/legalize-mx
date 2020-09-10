@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-desarrollo-integral-de-la-juventud-para-45993
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-15"
-last_updated: "2018-08-23"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
 
@@ -443,9 +443,17 @@ II. Preservar su salud a través del autocuidado, prácticas de vida sana, ejecu
 
 III. Procurar el aprendizaje y practicar los valores más altos del ser humano que contribuyan a darle su verdadera dimensión ética y moral como persona individual y como parte de una sociedad;
 
-IV. Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico, sino también el afectivo, los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar; e
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-V. Informarse debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
+IV. Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico, sino también el afectivo, los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar;
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+V. Informarse debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo; y
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Involucrarse en la preservación de un medio ambiente sustentable, procurando generar, a través de la participación ciudadana, las condiciones que permitan el desarrollo, bienestar y crecimiento saludable y armonioso de las generaciones futuras.
 
 ###### Artículo 40.
 
@@ -565,7 +573,13 @@ XXII. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos
 
 XXIII. Proporcionar orientación a las jóvenes madres con demandas de acceso a vivienda, transporte y servicios públicos; y
 
-XXIV. Las demás que le atribuyan las leyes y reglamentos, o que le confiera el Titular del Ejecutivo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Implementar campañas y políticas públicas dirigidas a la juventud veracruzana, orientadas a la protección y preservación de un medio ambiente sano y sustentable en la Entidad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Las demás que le atribuyen las leyes y reglamentos, o que le confiera el Titular del Ejecutivo.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
@@ -843,4 +857,10 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-307 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57; Y SE ADICIONAN LOS ARTÍCULOS 54 BIS Y 54 TER DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS".]
+G.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 581 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
