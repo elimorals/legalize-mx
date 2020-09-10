@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-551-para-la-igualdad-entre-mujeres-y-hombres-68983"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2019-11-27"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 551 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 27 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 22 de junio de 2009.
 
@@ -87,19 +87,29 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones afirmativas: Las medidas de carácter temporal, compensatorio y de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
 
-II. Estereotipo: Características y funciones que se asignan a cada sexo y se basan en roles e identidades socialmente asignados por prejuicios a las mujeres y hombres;
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-III. Igualdad sustantiva: Es la que se expresa en el goce y ejercicio pleno, irrestricto, integral, cotidiano y en todos los ámbitos de la vida, de los derechos humanos fundamentales universalmente reconocidos a la persona, sin distinción de sexo;
+II. Empoderamiento de las mujeres: Proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático, que emana del goce pleno de sus derechos y libertades;
 
-IV. Instituto: El Instituto Veracruzano de las Mujeres;
+III. Estereotipo: Características y funciones que se asignan a cada sexo y se basan en roles e identidades socialmente asignados por prejuicios a las mujeres y hombres;
 
-V. Principio de Igualdad: La posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
+IV. Igualdad sustantiva: Es la que se expresa en el goce y ejercicio pleno, irrestricto, integral, cotidiano y en todos los ámbitos de la vida, de los derechos humanos fundamentales universalmente reconocidos a la persona, sin distinción de sexo;
 
-VI. Programa: El Programa Estatal para la Igualdad entre Mujeres y Hombres;
+V. Instituto: El Instituto Veracruzano de las Mujeres;
 
-VII. Sistema: El Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Transversalidad: La herramienta metodológica que permite incorporar la perspectiva de género como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, con el objetivo de homogeneizar los principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad.
+VI. Perspectiva de Género: Herramienta conceptual que busca mostrar que las diferencias entre mujeres y hombres se dan no sólo por su determinación biológica, sino también por las diferencias culturales asignadas a los seres humanos, lo que permite entender que la vida de mujeres y hombres puede modificarse, en la medida en que no está "naturalmente" determinada;
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Principio de igualdad: La posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
+
+VIII. Programa: El Programa Estatal para la Igualdad entre Mujeres y Hombres;
+
+IX. Sistema: El Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+
+X. Transversalidad: La herramienta metodológica que permite incorporar la perspectiva de género como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, con el objetivo de homogeneizar los principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad.
 
 ### CAPÍTULO SEGUNDO. Del Principio de Igualdad y de No Discriminación por Sexo
 
@@ -127,9 +137,11 @@ El Ejecutivo del Estado y los Ayuntamientos ejercerán sus atribuciones en mater
 
 El Ejecutivo del Estado y los Ayuntamientos establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-Para efectos de la coordinación interinstitucional, se podrán suscribir convenios con la finalidad de:
+Para efectos de la coordinación interinstitucional, el Gobierno del Estado, a través del Instituto Veracruzano de las Mujeres, podrá suscribir convenios con la finalidad de:
 
 I. Fortalecer las funciones y atribuciones en materia de igualdad;
 
@@ -173,21 +185,111 @@ IX. Transversalizar el principio de igualdad de trato y de no discriminación po
 
 X. Atender al principio de presencia equilibrada de mujeres y hombres, en igualdad de condiciones, en los nombramientos y designaciones de los cargos de responsabilidad pública.
 
-### CAPÍTULO SEGUNDO. Del Ejecutivo Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO SEGUNDO. De los Poderes del Estado
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-Corresponde al Titular del Ejecutivo del Estado:
+Los Poderes Ejecutivo, Legislativo y Judicial deberán garantizar, en el ámbito de su competencia, el principio de igualdad entre mujeres y hombres en sus acciones y políticas públicas, de acuerdo a lo siguiente:
 
-I. Conducir las políticas de igualdad sustantiva entre mujeres y hombres en el Estado de Veracruz;
+I. Corresponde al Titular del Ejecutivo del Estado:
 
-II. Implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de las políticas de igualdad sustantiva en el Estado, mediante la aplicación del principio de transversalidad, a través de los órganos correspondientes;
+a) Conducir las políticas de igualdad sustantiva entre mujeres y hombres en el Estado de Veracruz;
 
-III. Implementar las acciones, políticas, programas, proyectos e instrumentos que garanticen la adopción de acciones afirmativas;
+b) Implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de las políticas de igualdad sustantiva en el Estado, mediante la aplicación del principio de transversalidad;
 
-IV. Elaborar los presupuestos de egresos del Estado con enfoque de géneros, incorporando la asignación de recursos para el cumplimiento, en el ámbito de su competencia, de las políticas de igualdad; y
+c) Elaborar, a través de las Dependencias de la Administración Pública Estatal, políticas públicas estatales con perspectiva de género;
 
-V. Las demás atribuciones que esta Ley y otros ordenamientos aplicables le confieren.
+d) Promover, desde la perspectiva de género, la participación de las mujeres en la gestión integral de riesgos, en la prevención del riesgo de desastres y en las políticas de prevención, atención, efectos y mitigación del cambio climático, considerando su vulnerabilidad, pero también sus capacidades en el cuidado del medio ambiente;
+
+e) Suscribir convenios a través del Instituto Veracruzano de las Mujeres, a fin de impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley;
+
+f) Enviar iniciativas y reformas de ley al Congreso del Estado para promover la igualdad sustantiva entre mujeres y hombres;
+
+g) Garantizar que el Proyecto de Presupuesto de Egresos incorpore la perspectiva de género;
+
+h) Generar acciones estratégicas con enfoque intercultural, para el logro de la igualdad entre mujeres y hombres de los pueblos y comunidades indígenas;
+
+i) Implementar una ruta de coordinación con dependencias de la administración pública federal y municipal para el logro del objeto de la presente ley;
+
+j) Promover, a través del Instituto Veracruzano de las Mujeres, campañas de promoción para eliminar los estereotipos de género y la discriminación interseccional contra las mujeres;
+
+k) Implementar programas de formación permanente con perspectiva de género, para profesionales de los medios de comunicación, para evitar la reproducción de estereotipos de género en sus coberturas informativas; y
+
+l) Las demás que le confieran otros ordenamientos aplicables;
+
+II. Corresponde al Poder Legislativo:
+
+a) Revisar y, en su caso, actualizar la legislación para incorporar la perspectiva de género;
+
+b) Aprobar reformas legislativas que garanticen el ejercicio pleno de los derechos humanos de mujeres y hombres;
+
+c) Armonizar las leyes conducentes para garantizar la paridad de género en la representación política y en los puestos directivos de todos los órganos públicos;
+
+d) Garantizar la asignación de recursos suficientes y con perspectiva de género, en el Decreto de Presupuesto de Egresos del Estado;
+
+e) Armonizar la legislación estatal con los Tratados Internacionales en materia de derechos humanos de las mujeres;
+
+f) Implementar campañas de difusión de la legislación con perspectiva de género;
+
+g) Derogar las disposiciones legislativas que violenten los derechos de las mujeres; y
+
+h) Las demás que le confieran otros ordenamientos aplicables;
+
+III. Corresponde al Poder Judicial:
+
+a) Garantizar el acceso a la impartición de justicia, a mujeres y hombres, en igualdad de condiciones;
+
+b) Adoptar medidas para la aplicación efectiva del Protocolo para Juzgar con Perspectiva de Género;
+
+c) Institucionalizar programas de formación y capacitación con perspectiva de género, para todo el personal;
+
+d) Garantizar mecanismos que permitan la atención expedita en los juzgados y tribunales, para mujeres víctimas de violencia de género;
+
+e) Implementar políticas para la aplicación de procedimientos expeditos y oportunos, especialmente para las mujeres en situación de vulnerabilidad;
+
+f) Promover y fortalecer la impartición de justicia, a través de los medios alternativos de solución de conflictos, para que, en los casos permitidos por la ley, sean utilizados para resolver controversias familiares;
+
+g) Sancionar a jueces y juezas que emitan resoluciones discriminatorias;
+
+h) Publicar las sentencias con perspectiva de género;
+
+i) Garantizar la atención con enfoque intercultural a las mujeres y hombres de las comunidades indígenas, para su acceso pleno a la justicia;
+
+j) Garantizar el acceso a la justicia a las mujeres con discapacidad, con pleno respeto a sus derechos humanos;
+
+k) Implementar un sistema de tribunales móviles y asistencia jurídica gratuita, para facilitar el acceso a la justicia de las mujeres que viven en zonas rurales; y
+
+IV. Las demás atribuciones que esta Ley y otros ordenamientos aplicables le confieran.
+
+> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 14 Bis.
+
+Corresponde al Instituto Veracruzano de las Mujeres:
+
+I. Dar seguimiento a los indicadores de género que se mencionan en el Decreto de Presupuesto de Egresos del Gobierno del Estado, con el fin de evaluar el impacto de las políticas públicas en la vida de las mujeres y los hombres;
+
+II. Formular, conducir y evaluar la política estatal en materia de igualdad entre mujeres y hombres en el Estado;
+
+III. Coordinar las acciones del Sistema y la ejecución del Programa;
+
+IV. Promover acciones para transversalizar la perspectiva de género en todos los organismos públicos, para la aplicación de la presente ley;
+
+V. Proponer la metodología para la incorporación de la perspectiva de género en el Presupuesto de Egresos del Estado;
+
+VI. Establecer vínculos de colaboración permanente con organismos sociales y privados, en materia de acciones por la igualdad de género;
+
+VII. Proponer al Ejecutivo Estatal las bases para la integración y funcionamiento del Sistema Estatal;
+
+VIII. Promover y dar seguimiento a la implementación de la paridad de género en el ámbito de representación política y en los puestos directivos;
+
+IX. Suscribir los convenios necesarios para el cumplimiento de la presente ley; y
+
+X. Las demás que le confieran otros ordenamientos aplicables.
 
 ### CAPÍTULO TERCERO. De los Ayuntamientos
 
@@ -213,15 +315,19 @@ V. Elaborar los Presupuestos de Egresos de los municipios con enfoque de género
 
 Las políticas de igualdad que desarrollen la Administración Pública Estatal y Municipal y los órganos autónomos en el Estado, deberán establecer las acciones conducentes a lograr la igualdad sustantiva en los ámbitos económico, político, social y cultural.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Las políticas de igualdad que se desarrollen en todas las dependencias del Ejecutivo del Estado deberán considerar los siguientes lineamientos:
+Las políticas de igualdad que se desarrollen en todos los organismos públicos deberán considerar los siguientes lineamientos:
 
 I. Generar la integralidad de los derechos humanos como mecanismo para lograr la igualdad entre mujeres y hombres;
 
 II. Garantizar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad entre mujeres y hombres;
 
-III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+III. Garantizar la paridad de género en la participación y representación política y en los puestos directivos;
 
 IV. Implementar acciones para garantizar la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
@@ -229,9 +335,13 @@ V. Promover la igualdad entre mujeres y hombres en el ámbito civil;
 
 VI. Establecer medidas para erradicar toda forma y modalidad de violencia de género;
 
-VII. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Fomentar el cumplimiento del principio de igualdad entre mujeres y hombres en las relaciones entre particulares; y
+VII. Garantizar la integración del principio de igualdad de trato y de oportunidades en las políticas económicas, laborales y sociales, con el fin de erradicar la discriminación laboral, eliminar las desigualdades salariales, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Implementar campañas de promoción para fomentar el cumplimiento del principio de igualdad entre mujeres y hombres en las relaciones entre particulares; y
 
 IX. Promover la eliminación de estereotipos establecidos en función del sexo.
 
@@ -241,9 +351,11 @@ IX. Promover la eliminación de estereotipos establecidos en función del sexo.
 
 El Sistema Estatal será el responsable de diseñar las políticas públicas en materia de igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 19.
 
-El Sistema deberá elaborar el programa estatal, cuya observancia será obligatoria para las entidades públicas.
+El Sistema deberá elaborar el Programa, cuyo cumplimiento será obligatorio para todos los poderes y organismos públicos, incluidos los autónomos.
 
 ###### Artículo 20.
 
@@ -255,9 +367,13 @@ En el diseño, elaboración, aplicación, evaluación y seguimiento de los instr
 
 ### CAPÍTULO TERCERO. Del Sistema Estatal para la Igualdad entre Mujeres y Hombres
 
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 22.
 
-El Sistema es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen los entes públicos del Estado entre sí, con las organizaciones de la sociedad civil, las instituciones académicas y de investigación, con el resto de las entidades federativas y con los municipios del Estado, a fin de efectuar acciones de común acuerdo destinadas a garantizar y procurar la igualdad entre mujeres y hombres.
+El Sistema es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen los entes públicos del Estado entre sí, con las organizaciones de la sociedad civil, las instituciones académicas y de investigación, con el resto de las entidades federativas y con los municipios del Estado, a fin de efectuar acciones coordinadas, para garantizar la igualdad entre mujeres y hombres.
+
+El Ejecutivo del Estado, a través del Instituto Veracruzano de las Mujeres, se coordinará con la Federación para la integración y participación programática del Sistema, en el Sistema Nacional para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 23.
 
@@ -265,35 +381,67 @@ El Sistema se integrará de la siguiente forma:
 
 I. Titular del Ejecutivo del Estado, quien lo presidirá;
 
-II. Titular de la Secretaría de Desarrollo Social y Medio Ambiente;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-III. Titular de la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca;
+II. Titular de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+III. Titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
 IV. Titular de la Secretaría de Desarrollo Económico y Portuario;
 
 V. Titular de la Secretaría de Educación;
 
-VI. Titular de la Procuraduría General de Justicia;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Titular de la Fiscalía General del Estado;
 
 VII. Titular de la Secretaría de Salud;
 
 VIII. Titular de la Secretaría de Trabajo, Previsión Social y Productividad;
 
-IX. Presidencias de las Comisiones Permanentes de Asuntos Indígenas, Derechos Humanos y Atención a Grupos Vulnerables y de Equidad, Género y Familia del Congreso del Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-X. Presidencia del Tribunal Superior de Justicia del Estado;
+IX. Titular de la Secretaría de Medio Ambiente;
 
-XI. Titular del Instituto Veracruzano de las Mujeres, quien fungirá como Secretaria Técnica;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Presidencia de la Comisión Estatal de Derechos Humanos;
+X. Titular de la Secretaría de Protección Civil;
 
-XIII. Tres representantes de organizaciones civiles especializadas en la defensa y promoción de los derechos humanos, con currículum probado y un mínimo de experiencia de cinco años en la materia, designados por el Congreso del Estado a propuesta de las Comisiones Permanentes Unidas de Asuntos Indígenas, de Derechos Humanos y Atención a Grupos Vulnerables y de Equidad, Género y Familia; y
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Dos representantes del ámbito académico, con participación destacada en el tema, que serán nombrados por el Congreso del Estado a propuesta de la Universidad Veracruzana.
+XI. Presidencias de las Comisiones Permanentes de Asuntos Indígenas, Derechos Humanos y Atención a Grupos Vulnerables y Para la Igualdad de Género, del Congreso del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Presidencia del Tribunal Superior de Justicia del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Titular del Instituto Veracruzano de las Mujeres, quien fungirá como Secretaria Técnica;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Presidencia de la Comisión Estatal de Derechos Humanos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Tres personas representantes de organizaciones civiles especializadas en la defensa y promoción de los derechos humanos, con currículum probado y un mínimo de experiencia de cinco años en la materia, designadas por el Congreso del Estado a propuesta de las Comisiones Permanentes Unidas de Asuntos Indígenas, de Derechos Humanos y Atención a Grupos Vulnerables y Para la Igualdad de Género; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Dos personas representantes del ámbito académico, con participación destacada en el tema, que serán nombradas por el Congreso del Estado, a propuesta de Instituciones de Educación Superior o de Investigación.
+
+> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+La Secretaria Técnica, cuando los temas a discusión lo ameriten, podrá invitar a autoridades y representantes de diversos sectores, a participar, con voz pero sin voto, en las sesiones del Sistema.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 24.
 
-El Sistema sesionará de manera ordinaria al menos una vez cada cuatro meses y podrá celebrar las reuniones extraordinarias que considere convenientes para dar cumplimiento a la presente Ley.
+El Sistema sesionará de manera ordinaria, al menos una vez cada tres meses, y podrá celebrar las reuniones extraordinarias que considere convenientes para dar cumplimiento a la presente Ley.
 
 La convocatoria la emitirá la Secretaría Técnica del Sistema, en acuerdo con la Presidencia, señalando el orden del día, lugar y hora de la sesión.
 
@@ -375,19 +523,31 @@ En el informe anual del Titular del Ejecutivo del Estado se dará cuenta de los 
 
 ### CAPÍTULO PRIMERO. De los Objetivos y Acciones en la Materia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 32.
 
-Las dependencias y entidades de la Administración Pública Estatal y Municipal, los organismos autónomos y aquellos que sean de interés público, en el ámbito de sus respectivas competencias, están obligados a garantizar el derecho a la igualdad entre mujeres y hombres; al efecto, promoverán:
+Las dependencias y entidades de la Administración Pública Estatal y Municipal, los poderes Legislativo y Judicial, los organismos autónomos y aquellos que sean de interés público, en el ámbito de sus respectivas competencias, están obligados a garantizar el derecho a la igualdad entre mujeres y hombres; al efecto, promoverán:
 
 I. Una vida libre de discriminación;
 
-II. La erradicación de estereotipos que fomentan la desigualdad;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-III. El ejercicio de la igualdad en los ámbitos de la vida personal, laboral y familiar, para lograr la convivencia armónica fomentando la conciliación y el principio de tolerancia, encaminados a lograr el pleno desarrollo de los individuos;
+II. La erradicación de estereotipos que reproduzcan la desigualdad;
 
-IV. Que los medios de comunicación públicos y privados generen información y difundan mensajes que contribuyan a la construcción de un estado de igualdad; y
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+III. El ejercicio de la igualdad en los ámbitos de la vida personal, laboral, familiar y pública, fomentando el respeto y la tolerancia, para lograr el ejercicio pleno de los derechos de todas las personas, en condiciones de igualdad;
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Que los medios de comunicación, públicos y privados, contribuyan a la construcción de una cultura de igualdad y no discriminación, libre de estereotipos y prejuicios de género; y
 
 V. Una vida libre de violencia de género.
+
+> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+El Instituto Veracruzano de las Mujeres, elaborará el Proyecto de Reglamento para el funcionamiento del Sistema Estatal y lo presentará a sus integrantes para su estudio y aprobación.
 
 ### CAPÍTULO SEGUNDO. De la Igualdad entre Mujeres y Hombres en el Ámbito Educativo
 
@@ -401,11 +561,25 @@ II. Desarrollar proyectos y programas dirigidos a fomentar el conocimiento y la 
 
 III. Impartir cursos de formación docente, para educar en el principio de igualdad;
 
-IV. Establecer medidas y materiales educativos destinados al reconocimiento y ejercicio de la igualdad en los espacios educativos;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-V. Garantizar una educación y capacitación para el trabajo sustentadas en el principio de igualdad; y
+IV. Establecer medidas y mecanismos para el reconocimiento y ejercicio de la igualdad entre mujeres y hombres en los espacios educativos y para la prevención de la violencia de género;
 
-VI. Incentivar la investigación en todo lo concerniente a la igualdad entre mujeres y hombres.
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+V. Garantizar una educación y capacitación para el trabajo sustentadas en el principio de igualdad;
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Incentivar la investigación en todo lo concerniente a la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Promover iniciativas que alienten la matriculación de las niñas y jóvenes en disciplinas del ámbito de la ciencia y la tecnología; y
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Fortalecer los mecanismos de apoyo para garantizar a las niñas y adolescentes estudiantes embarazadas, la continuación de sus estudios, durante el embarazo y después del parto.
 
 ### CAPÍTULO TERCERO. De la Igualdad entre Mujeres y Hombres en el Ámbito Económico y Laboral
 
@@ -443,13 +617,17 @@ VII. Diseñar políticas y programas de desarrollo y de reducción de la pobreza
 
 VIII. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que apliquen políticas y prácticas en la materia;
 
-> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Garantizar el otorgamiento de salarios iguales a mujeres y hombres por trabajos iguales, desempeñados en puestos, jornadas y condiciones de eficiencia idénticas, dentro de la administración pública estatal y municipal, Poderes Legislativo y Judicial, en los organismos autónomos, así como en los ámbitos social y privado; y
+IX. Garantizar el otorgamiento de salarios iguales a mujeres y hombres por trabajos iguales, desempeñados en puestos, jornadas y condiciones de eficiencia idénticas, dentro de la administración pública estatal y municipal, Poderes Legislativo y Judicial, en los organismos autónomos, así como en los ámbitos social y privado;
 
-> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-X. Establecer el principio de paridad de género en la conformación de la planta laboral de la administración pública estatal y municipal.
+X. Establecer el principio de paridad de género en la conformación de la planta laboral de la administración pública estatal y municipal; y
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Asignar recursos financieros para asegurar el acceso de las mujeres a los microcréditos, los préstamos y otras formas de crédito, para promover su iniciativa empresarial, con atención especial en las mujeres indígenas, del medio rural, las afrodescendientes y las mujeres con discapacidad.
 
 ### CAPÍTULO CUARTO. De la Igualdad entre Mujeres y Hombres en el Ámbito de la Participación Política
 
@@ -457,15 +635,27 @@ X. Establecer el principio de paridad de género en la conformación de la plant
 
 Para lograr la participación de mujeres y hombres en condiciones de igualdad, en la toma de decisiones políticas y socioeconómicas, las autoridades en sus ámbitos de competencia desarrollarán las siguientes acciones:
 
-I. Legislar con perspectiva de igualdad;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+I. Legislar con perspectiva de género;
 
 II. Diseñar los mecanismos de operación adecuados en la implementación de políticas estatales;
 
-III. Promover la participación y representación equilibrada de mujeres y hombres dentro de las estructuras de los partidos políticos y en la postulación de candidaturas a cargos de elección popular, en términos de la legislación electoral;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Establecer acciones afirmativas para la participación igualitaria de mujeres y hombres en mandos directivos de la administración pública estatal y municipal; y
+III. Garantizar la paridad de género, en la participación y representación al interior de las estructuras de los partidos políticos, en las candidaturas y en la asignación de los cargos de elección popular, en términos de la legislación electoral;
 
-V. Desarrollar y actualizar estadísticas desagregadas por sexo, edad y etnia, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil.
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Establecer acciones afirmativas para garantizar la paridad de género, en los cargos directivos de todos los organismos públicos;
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+V. Desarrollar y actualizar estadísticas desagregadas por sexo, edad y etnia, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Fomentar la paridad de género en los procesos de selección, contratación y ascensos, en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial y de los organismos autónomos.
 
 ### CAPÍTULO QUINTO. De la Igualdad entre Mujeres y Hombres en el Acceso y Pleno Disfrute de los Derechos Sociales
 
@@ -495,9 +685,25 @@ IV. Impulsar acciones que aseguren la igualdad sustantiva en el ejercicio de los
 
 V. Promover la responsabilidad compartida entre hombres y mujeres en el cuidado de niñas, niños, personas enfermas, personas de la tercera edad y en el trabajo doméstico;
 
-VI. Mejorar los sistemas estatales de inspección del trabajo, en lo que se refiere a las normas de igualdad de retribución; y
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Llevar a cabo investigaciones multidisciplinarias con perspectiva de igualdad, sobre los derechos sociales de mujeres y hombres (sic)
+VI. Mejorar los sistemas estatales de inspección del trabajo, en lo que se refiere a las normas de igualdad de retribución;
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Llevar a cabo investigaciones multidisciplinarias con perspectiva de igualdad, sobre los derechos sociales de mujeres y hombres;
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Promover la participación de las mujeres en los procesos de adopción de decisiones, recuperación, rehabilitación y reconstrucción, en casos de desastre;
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Incorporar la perspectiva de género en todas las políticas de desarrollo sostenible y en la reducción del riesgo de desastres; y
+
+> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+X. Fortalecer el apoyo institucional para garantizar el acceso de las mujeres indígenas a servicios básicos de agua y saneamiento y a oportunidades de empleo.
 
 ### CAPÍTULO SEXTO. De la Igualdad entre Mujeres y Hombres en el Ámbito Civil
 
@@ -505,7 +711,9 @@ VII. Llevar a cabo investigaciones multidisciplinarias con perspectiva de iguald
 
 Para lograr la igualdad de mujeres y hombres en el ámbito civil, las autoridades garantizarán el logro de los siguientes objetivos:
 
-I. Incorporar en la legislación civil la perspectiva de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+I. Incorporar en la legislación civil la perspectiva de género;
 
 II. Aplicar procedimientos para la administración de justicia familiar que garanticen resoluciones expeditas y apegadas a derecho, en materia de obligaciones alimentarias, reconocimiento de paternidad, divorcio y sucesiones, para reducir el impacto económico y emocional de estos juicios;
 
@@ -543,9 +751,11 @@ Toda persona tiene derecho a que las autoridades y servidores públicos competen
 
 ### CAPÍTULO PRIMERO. De la Observancia en Materia de Igualdad entre Mujeres y Hombres
 
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-De acuerdo con lo establecido en esta Ley, la Comisión Estatal de Derechos Humanos es la encargada de la observancia en el seguimiento, evaluación y monitoreo de las políticas estatales en materia de igualdad entre mujeres y hombres; esa observancia tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en esta materia.
+La observancia de las políticas en materia de igualdad, que está a cargo de la Comisión Estatal de Derechos Humanos, tiene por objeto la construcción de un sistema de información que permita conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en esta materia.
 
 ###### Artículo 45.
 
@@ -559,7 +769,9 @@ III. Requerir estudios técnicos de diagnóstico sobre la situación de mujeres 
 
 IV. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
-La Comisión Estatal de Derechos Humanos deberá rendir informe público sobre los resultados de su observancia y emitir, en su caso, las recomendaciones que juzgue convenientes al Sistema, para garantizar a todas las personas su derecho a la igualdad sustantiva.
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+Para efecto de la observancia, la Comisión Estatal de Derechos Humanos se coordinará con el Instituto Veracruzano de las Mujeres y deberá rendir un informe de manera semestral al Sistema Estatal, sobre los resultados de la misma y emitir, en su caso, las recomendaciones que juzgue convenientes, para garantizar a todas las personas su derecho a la igualdad sustantiva.
 
 ###### Artículo 46.
 
@@ -567,9 +779,11 @@ De acuerdo con lo establecido en su Ley, la Comisión Estatal de Derechos Humano
 
 ### CAPÍTULO SEGUNDO. De las Responsabilidades
 
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 47.
 
-La violación a esta Ley será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado, o en su caso por las leyes aplicables que regulen esta materia. Lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado.
+La violación a las disposiciones de esta Ley será sancionada de conformidad a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave, o en su caso, por las leyes aplicables que regulen esta materia. Lo anterior, sin perjuicio de las penas que resulten, por la comisión de algún delito previsto en el Código Penal para el Estado.
 
 T R A N S I T O R I O S
 
@@ -612,3 +826,13 @@ G.O. 27 DE NOVIEMBRE DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 584 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Instituto Veracruzano de las Mujeres actualizará el Reglamento del Sistema Estatal para la Igualdad entre Mujeres y Hombres del Estado de Veracruz, de conformidad con las reformas del presente Decreto, mismo que será sometido a su aprobación al Sistema.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
