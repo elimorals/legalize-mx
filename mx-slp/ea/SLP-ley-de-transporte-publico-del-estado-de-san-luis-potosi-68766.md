@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2020-07-24"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -439,9 +439,9 @@ I. Aplicar la política general dictada por el Ejecutivo, y los programas en mat
 
 II. Desahogar el procedimiento para otorgar, revocar, modificar, suspender, o declarar la nulidad de concesiones y permisos para la prestación del servicio de transporte público en cualquiera de sus modalidades; así como emitir opinión al titular del Ejecutivo del Estado, para autorizar las cesiones de derechos de las concesiones previstos (sic) por esta Ley;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-III. Autorizar y revisar, por sí o a través de las direcciones generales de, Comunicaciones y Transportes; o la del Transporte Colectivo Metropolitano, según corresponda, con acuerdo del titular del Ejecutivo y, en su caso, previo análisis y recomendación del Consejo, las rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos, protocolos de prevención y seguridad dirigidos principalmente a mujeres y niñas, y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación que no sean de jurisdicción federal;
+III. Autorizar y revisar, por sí o a través de las direcciones generales de, Comunicaciones y Transportes; o la del Transporte Colectivo Metropolitano, según corresponda, con acuerdo del titular del Ejecutivo y, en su caso, previo análisis y recomendación del Consejo, las rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos, protocolos de prevención y desarrollar, implementar y difundir un protocolo de emergencia por enfermedades transmisibles, para su aplicación obligatoria en las distintas modalidades del sistema de transporte de pasajeros, con el objetivo de garantizar la continuidad del servicio y la salud de los usuarios, pudiendo para ello establecer las modificaciones necesarias en los servicios de acuerdo a la demanda y a las recomendaciones emitidas por la Secretaría de Salud. Dichos ajustes se deben difundir entre la ciudadanía. Lo anterior en los términos del artículo 109, y otros aplicables de la Ley de Salud del Estado, y seguridad dirigidos principalmente a mujeres y niñas, y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación que no sean de jurisdicción federal;
 
 IV. Ordenar los procedimientos de inspección y vigilancia del servicio del transporte público, en los términos de esta Ley y demás disposiciones aplicables;
 
@@ -3156,5 +3156,13 @@ P.O. 24 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0721.- SE REFORMA EL ARTÍCULO 81 EN SU FRACCIÓN XXI, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0748.- SE REFORMA EL ARTÍCULO 17 EN SU FRACCIÓN III, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
