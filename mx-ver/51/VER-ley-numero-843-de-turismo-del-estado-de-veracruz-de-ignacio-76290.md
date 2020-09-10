@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2020-06-03"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -131,7 +131,11 @@ XVIII. Mercado turístico: El marco dinámico donde el producto turístico es el
 
 XIX. Municipio con vocación turística: Aquel que cumple con los parámetros establecidos en el Índice de Vocación Turística;
 
-XX. Prestadores de servicios turísticos: Quienes ofrezcan, proporcionen o contraten servicios para los visitantes;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Prestadores de servicios turísticos: Quienes ofrezcan, proporcionen o contraten servicios para las y los visitantes, incluyendo los ofertados por medio de aplicaciones, redes sociales, plataformas digitales o cualquier otro medio de aplicación similar.
+
+Se entiende por plataforma digital la aplicación tecnológica mediante la cual la persona física o moral administradora opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, que permite a las y los usuarios contratar servicios de hospedaje;
 
 XXI. Producto turístico: El conjunto de componentes tangibles e intangibles que incluyen recursos, atractivos, equipamiento, infraestructura y servicios que, al estar disponibles para su comercialización, ofrecen beneficios capaces de atraer a grupos determinados de consumidores;
 
@@ -233,7 +237,9 @@ XVII. Brindar, en el ámbito de su competencia, orientación y asistencia al vis
 
 XVIII. Atender los asuntos que afecten el desarrollo de la actividad turística de los municipios;
 
-XIX. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos de hospedaje y servicios turísticos, en los términos de la regulación correspondiente;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos de hospedaje y servicios turísticos en los términos de la regulación correspondiente, incluyendo los ofertados por medio de aplicaciones, redes sociales, plataformas digitales o cualquier otro medio de aplicación similar;
 
 XX. Vigilar el cumplimiento de la Ley General, de esta Ley y demás disposiciones reglamentarias que de ellas deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
 
@@ -1606,3 +1612,11 @@ G.O. 3 DE JUNIO DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 579 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de (sic) Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
