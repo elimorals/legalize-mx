@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2020-07-11"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -71,9 +71,11 @@ VI. Definir la competencia de los sujetos, así como la coordinación entre los 
 
 VII. Verificar el cumplimiento de la Ley y la imposición de sanciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTICULO 4°.
 
-Para los efectos de la presente Ley se entenderá por:
+Para efectos de la presente Ley, se entenderá por:
 
 I. Actividades Turísticas: las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio, recreación, placer, descanso y otros motivos;
 
@@ -155,9 +157,17 @@ XXXVII. Turismo social: actividad encaminada a que los habitantes de cualquier n
 
 XXXVIII. Turismo sustentable: aquél que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquél que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y aquél, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
 
-XXIX (SIC). Turista: la persona que viaja temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población, y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico.
+XXXIX. Turista: la persona que viaja temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico, y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+XLI. Servicio de hospedaje: servicio turístico prestado en campamentos, hoteles, moteles, paraderos de casas rodantes y de tiempo compartido, posadas, suites y en todos los establecimientos que presten servicios de esta naturaleza, incluyendo servicios de hospedaje ofertados a través de plataformas digitales.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES; Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES
 
@@ -1051,7 +1061,9 @@ La Secretaría, a fin de comprobar que se han acatado las disposiciones de esta 
 
 Del mismo modo, podrá allegarse las pruebas necesarias para denunciar ante el Ministerio Público, la posible comisión de delitos relacionados con la prestación de servicios turísticos.
 
-Para la imposición de sanciones, las actuaciones que practique la Secretaría y los procedimientos respectivos, se apegará a lo dispuesto por la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+Para la imposición de sanciones, las actuaciones que practique la Secretaría y los procedimientos respectivos, se apegará a lo dispuesto por el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTICULO 92.
 
@@ -1214,3 +1226,19 @@ P.O. 11 DE JULIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0751.- SE REFORMA EL ARTÍCULO 4° EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES XXXIX Y XL; Y ADICIONA AL MISMO ARTÍCULO 4° LA FRACCIÓN XLI, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0752.- SE REFORMA EL ARTÍCULO 91 EN SU PÁRRAFO TERCERO, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
