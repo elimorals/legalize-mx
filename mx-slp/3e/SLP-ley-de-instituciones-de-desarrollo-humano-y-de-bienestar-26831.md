@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-instituciones-de-desarrollo-humano-y-de-bienestar-26831"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-03"
-last_updated: "2011-10-22"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE INSTITUCIONES DE DESARROLLO HUMANO Y DE BIENESTAR SOCIAL PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DE INSTITUCIONES DE DESARROLLO HUMANO Y DE BIENESTAR SOCIAL PARA EL ESTADO DE SAN LUIS POTOSI
+LEY DE INSTITUCIONES DE DESARROLLO HUMANO Y DE BIENESTAR SOCIAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 3 de diciembre del 2002.
 
@@ -35,7 +35,7 @@ DECRETO 400
 
 LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE INSTITUCIONES DE DESARROLLO HUMANO Y DE BIENESTAR SOCIAL PARA EL ESTADO DE SAN LUIS POTOSI
 
@@ -216,6 +216,22 @@ A la denominación de estas instituciones cuando fueran constituidas por particu
 ###### ARTICULO 17.
 
 Las instituciones de desarrollo humano o bienestar social constituidas por los particulares, cualquiera que sea la forma jurídica que adopten, serán de interés público, gozando de personalidad jurídica y patrimonio propios, por lo que una vez que queden definitivamente constituidas conforme a la Ley, la revocación que haga el fundador o asociados fundadores de la afectación de los bienes para constituir el patrimonio de aquéllas, será nula.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+Las instituciones de desarrollo humano o bienestar social constituidas por los particulares tendrán como derechos:
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+I. Participar en la planeación, elaboración, promoción y ejecución de las políticas públicas en materia de bienestar y desarrollo social, tanto en el ámbito estatal como municipal, en los términos que establezcan las leyes aplicables en la materia, y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+II. Participar en la celebración de convenios y en la ejecución de acciones de concertación con las distintas dependencias y entidades, para la realización de actividades de bienestar y desarrollo social en el ámbito federal, estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+
+Así mismo, podrán ser sujetos de participación y consulta para la elaboración, actuación y ejecución de los planes estatal y municipales de desarrollo, así como en los programas y proyectos que deriven de éstos.
 
 ### CAPITULO III. DE LA REPRESENTACION Y ADMINISTRACION
 
@@ -908,5 +924,13 @@ LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 P.O. 22 DE OCTUBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0750.- SE ADICIONA (SIC) AL ARTÍCULO 17 CUATRO PÁRRAFOS, DE LA LEY DE INSTITUCIONES DE DESARROLLO HUMANO Y DE BIENESTAR SOCIAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
