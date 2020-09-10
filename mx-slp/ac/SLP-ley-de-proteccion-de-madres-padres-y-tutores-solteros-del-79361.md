@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-de-madres-padres-y-tutores-solteros-del-79361
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-29"
-last_updated: "2011-01-29"
+last_updated: "2020-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE PROTECCION DE MADRES, PADRES Y TUTORES SOLTEROS DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 0755.- LEY PARA LA PROTECCIÓN DE MADRES, PADRES Y PERSONAS TUTORAS EN SITUACIÓN DE SOLTERÍA PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCION DE MADRES, PADRES Y TUTORES SOLTEROS DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el sábado 29 de enero de 2011.
 
@@ -152,3 +154,17 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0755.- LEY PARA LA PROTECCIÓN DE MADRES, PADRES Y PERSONAS TUTORAS EN SITUACIÓN DE SOLTERÍA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La Ley que se expide con este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se ABROGA la Ley de Protección de Madres, Padres y Tutores Solteros del Estado de San Luis Potosí, publicada por Decreto Legislativo número 521, en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”, el sábado 29 de enero de 2011.
+
+TERCERO. Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el titular del Poder Ejecutivo del Estado deberá integrar la comisión o el gabinete a que se refiere el artículo 4° de la Ley que se expide.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
