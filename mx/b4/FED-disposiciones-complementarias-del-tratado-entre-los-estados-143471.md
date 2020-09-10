@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-entre-los-estados-143
 country: "mx"
 rank: "otro"
 publication_date: "2020-06-30"
-last_updated: "2020-07-09"
+last_updated: "2020-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,611 +19,191 @@ issue_date: "2020-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LOS ESTADOS UNIDOS DE AMERICA Y CANADA Y SUS ANEXOS. (MULTILATERAL, 2018)
 
-ACUERDO POR EL QUE LA SECRETARÍA DE ECONOMÍA DA A CONOCER LAS REGLAMENTACIONES UNIFORMES REFERENTES A LA INTERPRETACIÓN, APLICACIÓN Y ADMINISTRACIÓN DEL CAPÍTULO 4 (REGLAS DE ORIGEN), CAPÍTULO 5 (PROCEDIMIENTOS DE ORIGEN), CAPÍTULO 6 (MERCANCÍAS TEXTILES Y PRENDAS DE VESTIR), Y CAPÍTULO 7 (ADMINISTRACIÓN ADUANERA Y FACILITACIÓN DEL COMERCIO) DEL TRATADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LOS ESTADOS UNIDOS DE AMÉRICA Y CANADÁ
+RESOLUCIÓN QUE MODIFICA A LA DIVERSA QUE ESTABLECE LAS REGLAS DE CARÁCTER GENERAL RELATIVAS A LA APLICACIÓN DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LOS ESTADOS UNIDOS DE AMÉRICA Y CANADÁ Y SUS ANEXOS.
 
-Acuerdo publicado en el Diario Oficial de la Federación, el jueves 9 de julio de 2020.
+Resolución publicada en el Número 10 del Diario Oficial de la Federación, el jueves 10 de septiembre de 2020.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- ECONOMÍA.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- SHCP.- Secretaría de Hacienda.
 
-Con fundamento en los artículos 34 fracción XXXIII de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVII del Reglamento Interior de la Secretaría de Economía, y
+La Secretaría de Hacienda y Crédito Público, con fundamento en los artículos 16 y 31 de la Ley Orgánica de la Administración Pública Federal; 1o. y 144, fracciones XXIII y XXV de la Ley Aduanera, y 1o. y 6o., fracción XXXIV del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, así como en los Capítulos 4, 5, 6 y 7 del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, y
 
 CONSIDERANDO
 
-Que el 29 de junio de 2020 se publicó en el Diario Oficial de la Federación, el Decreto Promulgatorio del Protocolo por el que se Sustituye el Tratado de Libre Comercio de América del Norte por el Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, hecho en Buenos Aires, el treinta de noviembre de dos mil dieciocho; del Protocolo Modificatorio al Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, hecho en la Ciudad de México el diez de diciembre de dos mil diecinueve; de seis acuerdos paralelos entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de los Estados Unidos de América, celebrados por intercambio de cartas fechadas en Buenos Aires, el treinta de noviembre de dos mil dieciocho, y de dos acuerdos paralelos entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de los Estados Unidos de América, celebrados en la Ciudad de México, el diez de diciembre de dos mil diecinueve, el cual entró en vigor el primero de julio de dos mil veinte.
+Que el 29 de junio de 2020 se publicó en el Diario Oficial de la Federación el “Decreto Promulgatorio del Protocolo por el que se Sustituye el Tratado de Libre Comercio de América del Norte por el Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, hecho en Buenos Aires, el treinta de noviembre de dos mil dieciocho; del Protocolo Modificatorio al Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, hecho en la Ciudad de México el diez de diciembre de dos mil diecinueve; de seis acuerdos paralelos entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de los Estados Unidos de América, celebrados por intercambio de cartas fechadas en Buenos Aires, el treinta de noviembre de dos mil dieciocho, y de dos acuerdos paralelos entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de los Estados Unidos de América, celebrados en la Ciudad de México, el diez de diciembre de dos mil diecinueve” (Tratado), mismo que entró en vigor el 1 de julio de 2020;
 
-Que el Artículo 5.16.1 del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá (T-MEC) establece que las Partes deberán, para la entrada en vigor del propio Tratado, adoptar o mantener mediante sus respectivas leyes o regulaciones, Reglamentaciones Uniformes referentes a la interpretación, aplicación y administración de los Capítulos 4 (Reglas de Origen), 5 (Procedimientos de Origen), 6 (Mercancías Textiles y Prendas de Vestir) y 7 (Administración Aduanera y Facilitación del Comercio) del T-MEC, así como de otros asuntos que acuerden las Partes.
+Que el 30 de junio de 2020 se publicó en el Diario Oficial de la Federación la “Resolución que establece las Reglas de Carácter General relativas a la aplicación de las disposiciones en materia aduanera del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá y sus anexos” (Resolución), misma que entró en vigor el día 1 de julio de 2020;
 
-Que la Comisión de Libre Comercio del T-MEC adoptó el 2 de julio de 2020, la Decisión No. 1 cuyo Anexo I incluye las Reglamentaciones Uniformes adoptadas por las Partes del T-MEC, las cuales surtirán efecto a partir de la fecha de entrada en vigor del T-MEC;
+Que el 2 de julio de 2020, la Comisión de Libre Comercio del Tratado adoptó la Decisión No. 1 (Decisión) que, junto con sus anexos, surtió efectos a partir de la fecha de entrada en vigor del propio Tratado, y que en su Anexo I incluye las Reglamentaciones Uniformes referentes a la interpretación, aplicación y administración del Capítulo 4 (Reglas de Origen), Capítulo 5 (Procedimientos de Origen), Capítulo 6 (Mercancías Textiles y Prendas de Vestir) y Capítulo 7 (Administración Aduanera y Facilitación del Comercio) del Tratado;
 
-Que resulta necesario dar a conocer a los operadores comerciales y a las autoridades competentes, las Reglamentaciones Uniformes referentes a la interpretación, aplicación y administración de los Capítulos que se señalan en el Artículo 5.16.1 del T-MEC, por lo que se expide el siguiente:
+Que el 9 de julio de 2020 se publicó en el Diario Oficial de la Federación el “Acuerdo por el que la Secretaría de Economía da a conocer las Reglamentaciones Uniformes referentes a la interpretación, aplicación y administración del Capítulo 4 (Reglas de Origen), Capítulo 5 (Procedimientos de Origen), Capítulo 6 (Mercancías Textiles y Prendas de Vestir), y Capítulo 7 (Administración Aduanera y Facilitación del Comercio) del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá”, y
 
-ACUERDO POR EL QUE LA SECRETARÍA DE ECONOMÍA DA A CONOCER LAS REGLAMENTACIONES UNIFORMES REFERENTES A LA INTERPRETACIÓN, APLICACIÓN Y ADMINISTRACIÓN DEL CAPÍTULO 4 (REGLAS DE ORIGEN), CAPÍTULO 5 (PROCEDIMIENTOS DE ORIGEN), CAPÍTULO 6 (MERCANCÍAS TEXTILES Y PRENDAS DE VESTIR), Y CAPÍTULO 7 (ADMINISTRACIÓN ADUANERA Y FACILITACIÓN DEL COMERCIO) DEL TRATADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LOS ESTADOS UNIDOS DE AMÉRICA Y CANADÁ
+Que derivado de lo anterior, resulta necesario modificar la Resolución para reflejar lo decidido por la Comisión de Libre Comercio del Tratado, así como armonizar sus reglas con la Decisión y la normatividad vigente aplicable en materia aduanera, por lo que se tiene a bien expedir la siguiente
 
-ÚNICO.- Por medio del Anexo al presente Acuerdo, se dan a conocer las Reglamentaciones Uniformes referentes a la interpretación, aplicación y administración de los Capítulos 4 (Reglas de Origen), 5 (Procedimientos de Origen), 6 (Mercancías Textiles y Prendas de Vestir) y 7 (Administración Aduanera y Facilitación del Comercio) del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá (T-MEC), contenidas en el Anexo I de la Decisión No. 1 de la Comisión de Libre Comercio del T-MEC.
+RESOLUCIÓN QUE MODIFICA A LA DIVERSA QUE ESTABLECE LAS REGLAS DE CARÁCTER GENERAL RELATIVAS A LA APLICACIÓN DE LAS DISPOSICIONES EN MATERIA ADUANERA DEL TRATADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LOS ESTADOS UNIDOS DE AMÉRICA Y CANADÁ Y SUS ANEXOS
 
-TRANSITORIO (SIC)
+Único. Se REFORMAN las reglas 24, primer párrafo y fracción II; 30, primer párrafo y segundo párrafos; 40, segundo párrafo; 41; 59; 63, primer párrafo y fracción IV, y 85; y se ADICIONAN las reglas 1, con una fracción XIX pasando las actuales fracciones XIX a XXII a ser XX a XXIII, respectivamente; 24.1; 25.1; 25.2; 28.1; 31.1; 32.1; 39.1; 42.1; 43.1; 44.1; 44.2; 60.1; 60.2; 60.3; 63.1; 63.2; 63.3; 66.1; 73.1; y 79.1; de la Resolución que establece las Reglas de Carácter General relativas a la aplicación de las disposiciones en materia aduanera del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá y sus anexos, publicada en el Diario Oficial de la Federación del 30 de junio de 2020, para quedar como sigue:
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+“1.- ...
 
-SEGUNDO.- De conformidad con el primer párrafo del Artículo 5.16 del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, y el numeral 8 de la Decisión No. 1 de la Comisión de Libre Comercio del mismo Tratado, las Reglamentaciones Uniformes contenidas en el Anexo del presente Acuerdo surtirán sus efectos a partir de la entrada en vigor de dicho Tratado.
+I. a XVIII. …
 
-Ciudad de México, a 3 de julio de 2020.- La Secretaria de Economía, Graciela Márquez Colín.- Rúbrica.
+XIX. “Reglamentaciones Uniformes”, las adoptadas mediante la Decisión No. 1 de la Comisión de Libre Comercio del Tratado, referentes a la interpretación, aplicación y administración del Capítulo 4 (Reglas de Origen), Capítulo 5 (Procedimientos de Origen), Capítulo 6 (Mercancías Textiles y Prendas de Vestir), y Capítulo 7 (Administración Aduanera y Facilitación del Comercio) del Tratado;
 
-ANEXO
+…
 
-REGLAMENTACIONES UNIFORMES PARA LA INTERPRETACIÓN, APLICACIÓN Y ADMINISTRACIÓN DEL CAPÍTULO 4 (REGLAS DE ORIGEN) Y DISPOSICIONES RELACIONADAS EN EL CAPÍTULO 6 (MERCANCÍAS TEXTILES Y PRENDAS DE VESTIR) DEL TRATADO ENTRE MÉXICO, ESTADOS UNIDOS Y CANADÁ
+24.- Para los efectos de los artículos 4.18(2)(a) y 5.4(3) del Tratado, el importador podrá acreditar que la mercancía que haya sido transportada, con o sin transbordo o almacenamiento temporal, por el territorio de uno o más países no Parte del Tratado, permaneció bajo el control de la autoridad aduanera en esos países no Parte, con los documentos siguientes:
 
-PARTE I
+…
 
-(1) SECCIÓN 1. DEFINICIONES E INTERPRETACIONES Definiciones. Las siguientes definiciones aplican en estas Reglamentaciones,
+II. Los documentos de transporte, tales como la guía aérea, el conocimiento de embarque, la carta de porte, o el documento de transporte multimodal o combinado, según corresponda, en los que se indique la ruta de transporte y todos los puntos de embarque y transbordo previos a la importación de la mercancía, y con los documentos emitidos por la autoridad aduanera u otra entidad competente que de conformidad con la legislación del país que no es Parte acrediten el almacenamiento, tratándose de mercancía que estando en tránsito haya sido objeto de almacenamiento temporal en uno o más países no Parte del Tratado.
 
-“accesorios, refacciones, herramientas, instructivos u otro material” significa mercancías que son entregadas con una mercancía, estén o no físicamente adheridas a esa mercancía, y que son utilizadas para su transporte, protección, mantenimiento o limpieza, como instrucciones para su ensamble, reparación o uso, o como repuestos de partes consumibles o intercambiables de esa mercancía;
+24.1.- Para los efectos del artículo 5.4(3)(b) del Tratado, “documentos pertinentes” pueden incluir:
 
-“acuerdo de valoración aduanera” significa el Acuerdo sobre la Implementación del Artículo VII del Acuerdo General sobre Aranceles Aduaneros y Comercio, establecido en el Anexo 1A del Acuerdo sobre la OMC;
+I. Documentos de almacenaje;
 
-“acuicultura” significa la cría de organismos acuáticos, incluyendo peces, moluscos, crustáceos, otros invertebrados acuáticos y plantas acuáticas a partir de material de reproducción, tales como huevos, pececillos, alevines o larvas, mediante la intervención en los procesos de crianza o crecimiento para incrementar la producción, tales como repoblación periódica, alimentación o protección contra predadores;
+II. Copia de los documentos de control aduanero;
 
-“ajustado para excluir cualquier costo incurrido en el envío internacional de la mercancía” significa, respecto del valor de transacción de una mercancía, ajustado de la siguiente manera:
+III. Documentos aduaneros de entrada y salida;
 
-(a) deduciendo los siguientes costos si esos costos están incluidos en el valor de transacción de la mercancía:
+IV. Documentos que demuestren el control aduanero emitidos por una autoridad competente de un país no Parte, distinta a su autoridad aduanera;
 
-(i) los costos de transporte de la mercancía después de ser embarcada en el punto de embarque directo,
+V. Documentos que demuestren el control aduanero emitidos por una entidad autorizada por una autoridad aduanera para emitir dichos documentos, o
 
-(ii) los costos de descarga, carga, manejo y seguro relacionados con ese transporte, y
+VI. Cualquier otra evidencia que satisfaga a la autoridad aduanera.
 
-(iii) el costo de materiales de embalaje y contenedores, y
+…
 
-(b) si esos costos no están incluidos en el valor de transacción de la mercancía, sumando
+25.1.- Cuando se importen a territorio nacional las mercancías a que se refiere el artículo 2.10(2) del Tratado, el certificador deberá indicar en la certificación de origen válida la leyenda “Anexo II de las Reglamentaciones Uniformes referentes a las Reglas de Origen del T-MEC”. En este caso, no será necesario que dicha certificación contenga el elemento de “Criterio de Origen” previsto el Anexo 1 de la presente Resolución.
 
-(i) los costos de transporte de la mercancía desde el lugar de producción hasta el punto de embarque directo,
+25.2.- Para los efectos del artículo 5.2(3)(c) y (6) del Tratado, una certificación de origen podrá ser proporcionada en un Comprobante Fiscal Digital por Internet, siempre que los elementos mínimos de información establecidos en el Anexo 1 de la presente Resolución, se incluyan en el complemento “Leyendas Fiscales” del Comprobante Fiscal Digital por Internet que se emita de conformidad con los artículos 29 y 29-A del Código y demás disposiciones legales aplicables.
 
-(ii) los costos de descarga, carga, manejo y seguro relacionados con ese transporte, y
+…
 
-(iii) los costos de carga de la mercancía para su embarque en el punto de embarque directo;
+28.1.- Para los efectos del artículo 5.2(6) del Tratado, una vez que la autoridad aduanera reciba una certificación de origen válida electrónicamente o en documento digital, no requerirá su presentación en papel previo al despacho de las mercancías.
 
-“asignar razonablemente” significa distribuir de manera apropiada a las circunstancias;
+…
 
-“cambio aplicable de clasificación arancelaria” significa, respecto a un material no originario utilizado en la producción de una mercancía, un cambio de clasificación arancelaria especificado en la regla establecida en el Anexo I (Anexo de ROEP) para la disposición arancelaria bajo la que esté clasificada la mercancía;
+30.- De conformidad con lo dispuesto en el artículo 5.3(1) y (2) del Tratado, cuando un productor certifique el origen de una mercancía, dicha certificación deberá ser llenada sobre la base de que el productor tiene la información y documentos necesarios que acrediten que la mercancía es originaria.
 
-“costos de embarque y empaque” significa los costos incurridos para embalar una mercancía para embarque y el transporte de la mercancía desde el punto de embarque directo hasta el comprador, excluyendo los costos de preparación y empaquetado de la mercancía para su venta al por menor;
+…
 
-“costos de empaque” significa, respecto a una mercancía o material, el valor de materiales de embalaje y contenedores en que la mercancía o material sea empacado para su embarque, y los costos de mano de obra en que se incurra al empacarlo para su embarque, mas no incluye los costos de preparación y empaque para su venta al por menor;
+I. La información y documentos necesarios que acrediten que la mercancía es originaria, o
 
-“costos de mano de obra directa” significa los costos, incluyendo las prestaciones, que se relacionan con los empleados directamente involucrados en la producción de una mercancía;
+II. La confianza razonable en una declaración escrita del productor que señale, tal y como en una certificación de origen, que la mercancía es originaria.
 
-“costos de materiales directos” significa el valor de los materiales utilizados en la producción de una mercancía, excepto los materiales indirectos y los materiales de embalaje y contenedores;
+…
 
-“costos de interés” significa todos los costos pagados o por pagar por una persona a quien se otorgue un crédito, o a quien se le va a otorgar, que se pagan por el otorgamiento del crédito o por la obligación de otorgarlo;
+31.1.- Para los efectos de lo dispuesto en el artículo 5.3(5)(a) del Tratado y en la regla anterior, la certificación de origen podrá amparar:
 
-“costos de promoción de ventas, comercialización y servicios posteriores a la venta” significa los siguientes costos relacionados con promoción de ventas, comercialización y servicios posteriores a la venta:
+I. Un solo embarque de mercancías al amparo de uno o más pedimentos de importación.
 
-(a) promoción de ventas y comercialización; publicidad en medios de difusión; publicidad e investigación de mercados; materiales de promoción y demostración; exhibiciones; conferencias de promoción de ventas; ferias y convenciones comerciales; mantas y pancartas; exposiciones de comercialización; muestras gratuitas; publicaciones sobre ventas, comercialización y servicios posteriores a la venta (folletos de productos, catálogos, publicaciones técnicas, listas de precios, manuales de servicio, información de apoyo a las ventas); establecimiento y protección de logotipos y marcas registradas; patrocinios; cargos por reabastecimiento para ventas al mayoreo y menudeo; gastos de representación;
+II. Más de un embarque de mercancías al amparo de un pedimento de importación.
 
-(b) incentivos de ventas y comercialización; rebajas a mayoristas, detallistas o consumidores; incentivos en especie;
+…
 
-(c) sueldos y salarios, comisiones por ventas, bonos, prestaciones (por ejemplo, prestaciones médicas, seguros, pensiones), gastos de viaje, alojamiento y manutención, o cuotas de afiliación y membresías profesionales para el personal de promoción de ventas, comercialización y servicios posteriores a la venta;
+32.1.- Cuando la autoridad aduanera, como resultado de una verificación de origen efectuada de conformidad con el artículo 5.9 o el artículo 6.6 del Tratado, determine que una mercancía amparada por una certificación de origen aplicable a múltiples embarques de mercancías idénticas de acuerdo con el artículo 5.3(5)(b) del Tratado, no califica como mercancía originaria, dicha certificación no podrá utilizarse para importar mercancías idénticas bajo trato arancelario preferencial a partir de la fecha en la que surta sus efectos la determinación a que se refiere el artículo 5.9(14) del Tratado y la regla 60 de la presente Resolución.
 
-(d) contratación y capacitación del personal de promoción de ventas, comercialización y servicios posteriores a la venta; capacitación a los empleados del cliente después de la venta, cuando en los estados financieros y cuentas de costos del productor tales costos se identifiquen por separado para la promoción de ventas, comercialización y servicios posteriores a la venta de mercancías;
+…
 
-(e) seguro por responsabilidad civil derivada del producto;
+39.1.- Para los efectos del artículo 5.6(2) del Tratado, cuando la autoridad aduanera, como resultado de una verificación de origen, proporcione a un exportador o productor de una mercancía una determinación de origen de conformidad con el artículo 5.9(14) del Tratado, en la que resuelva que la mercancía no es originaria, el exportador o productor deberá comunicar dicha determinación sin demora a todas las personas a quienes les proporcionó una certificación de origen con respecto a esa mercancía.
 
-(f) productos de oficina para la promoción de ventas, comercialización y servicios posteriores a la venta, si en los estados financieros o cuentas de costos del producto tales costos se identifiquen por separado para la promoción de ventas, comercialización y servicios posteriores a la venta de mercancías;
+No se impondrán sanciones al exportador o productor en territorio nacional que haya proporcionado información incorrecta si voluntariamente lo comunica por escrito a cada persona y a cada autoridad a quienes les proporcionó la certificación de origen, previo a que la autoridad inicie sus facultades de comprobación.
 
-(g) teléfono, correo y otros medios de comunicación, cuando en los estados financieros o cuentas de costos del productor éstos se identifiquen por separado para la promoción de ventas, comercialización y servicios posteriores a la venta de mercancías;
+40.- …
 
-(h) rentas y depreciación de las oficinas de promoción de ventas, comercialización y servicios posteriores a la venta, así como de los centros de distribución;
+No será aplicable lo dispuesto en el párrafo anterior, cuando se trate de una diferencia entre la clasificación arancelaria que se señale en la certificación de origen y la fracción arancelaria declarada en el pedimento.
 
-(i) primas de seguros sobre la propiedad, impuestos, costo de servicios públicos, y costos de reparación y mantenimiento de las oficinas de promoción de ventas, comercialización, y servicios posteriores a la venta, así como de los centros de distribución cuando en los estados financieros o cuentas de costos del productor, tales costos se identifiquen por separado para la promoción de ventas, comercialización y servicios posteriores a la venta de mercancías; y
+…
 
-(j) pagos del productor a otras personas por reparaciones derivadas de sus garantías;
+41.- De conformidad con lo dispuesto en el artículo 5.7(2) del Tratado, si la autoridad aduanera, determina que una certificación de origen es ilegible, defectuosa en sus páginas, o no ha sido llenada de conformidad con el Capítulo 5 del Tratado y la presente Resolución, le concederá al importador un plazo de no menos de 5 días hábiles contados a partir del día siguiente al de la notificación del requerimiento, para presentar una copia corregida de la certificación de origen a la autoridad aduanera en la que se subsanen las irregularidades detectadas.
 
-“costos directos de producción” significa los costos, excepto los costos de materiales directos y los costos de mano de obra directa, que estén directamente relacionados con la producción de una mercancía;
+…
 
-“costos excluidos” significa, con respecto al costo neto o costo total, los costos de promoción de ventas, comercialización y servicios posteriores a la venta, regalías, costos de embarque y empaque y costos por intereses no admisibles;
+42.1.- Para los efectos del artículo 5.8 del Tratado y las reglas 42 y 43 de la presente Resolución, los documentos y registros que los importadores, exportadores y productores deben conservar, se mantendrán de manera tal que permitan a la autoridad aduanera que lleve a cabo una verificación de origen de conformidad con el artículo 5.9 o el artículo 6.6 del Tratado, realizar verificaciones detalladas de dichos documentos y registros, para revisar la información con base en la cual se completó la certificación de origen, y se realizó la solicitud de trato arancelario preferencial.
 
-“costo neto” significa el costo total menos los costos de promoción de ventas, comercialización y servicios posteriores a la venta, regalías, costos de embarque y empaque, y costos por intereses no admisibles que sean incluidos en el costo total;
+…
 
-“costo neto de una mercancía” significa el costo neto que puede ser asignado razonablemente a una mercancía utilizando el método establecido en la subsección 7(3) (Valor de Contenido Regional);
+43.1.- Para los efectos de lo dispuesto en el artículo 5.8 del Tratado y las reglas 42 y 43 de la presente Resolución, los registros incluyen los libros a que se hace referencia en las Reglamentaciones Uniformes.
 
-“costos por intereses no admisibles” significan los intereses incurridos por un productor sobre sus obligaciones financieras que excedan de 700 puntos base por encima de la tasa de interés emitida por el gobierno federal de vencimientos comparables del país en que esté ubicado el productor;
+…
 
-“costo total” significa todos los costos del producto, los costos periódicos y otros costos en que se haya incurrido en el territorio de uno o más de los países del T-MEC, en dónde;
+44.1.- Los importadores, exportadores y productores que están obligados a conservar registros de conformidad con el artículo 5.8(1) y (2) del Tratado, sujeto a los requisitos de notificación y consentimiento establecidos en el artículo 5.9(5) del Tratado, deberán poner a disposición de la autoridad aduanera que lleve a cabo una verificación de origen de conformidad con el artículo 5.9 o el artículo 6.6 del Tratado, los documentos y registros para su revisión y, en caso de una visita de verificación, deberán proporcionar instalaciones para dicha revisión.
 
-(a) los costos del producto son costos que se relacionan con la producción de una mercancía e incluyen el valor de los materiales, costos de mano de obra directa y los costos generales directos;
+44.2.- Cuando en el transcurso de una verificación de origen la autoridad aduanera advierta que un importador, exportador o productor no ha mantenido sus registros o documentos pertinentes para determinar el origen de la mercancía de acuerdo con los Principios de Contabilidad Generalmente Aceptados en el territorio del país en el que se encuentre localizado dicho importador, exportador o productor, o bajo cualquier otro método de manejo de inventarios aceptado, según lo dispuesto en el artículo 4.13 del Tratado y el Anexo VIII de las Reglamentaciones Uniformes, la autoridad aduanera otorgará al mismo un plazo de 30 días a efecto de que este registre sus costos de conformidad con el artículo 4.13 del Tratado y el Anexo VIII de las Reglamentaciones Uniformes.
 
-(b) los costos del período son los costos, distintos de los costos del producto, durante el período en el que se hayan incurrido, tales como gastos de ventas y gastos generales y administrativos; y
+…
 
-(c) otros costos son todos los costos registrados en los libros del productor que no son costos del producto o costos del período, tales como intereses.
+59.- Para los efectos del artículo 5.9(16) del Tratado y salvo lo dispuesto en las fracciones III y IV de la regla 61 de la presente Resolución, en caso de que la autoridad aduanera tenga la intención de negar el trato arancelario preferencial a la mercancía, previo a la emisión de la determinación establecida en la regla 60 de esta Resolución, informará al importador, exportador o productor que esté sujeto a la verificación, de los resultados preliminares de la verificación, otorgándole un plazo de 30 días para proporcionar información y documentos adicionales que acrediten el carácter originario de la mercancía.
 
-El costo total no incluye las utilidades obtenidas por el productor, independientemente de que sean retenidas por el productor o pagadas a otras personas como dividendos, o impuestos pagados sobre esas utilidades, incluyendo los impuestos sobre las ganancias de capital;
+En caso de que el importador, exportador o productor sujeto a verificación no proporcione información o documentos adicionales que acrediten el carácter originario de la mercancía dentro del plazo señalado en el párrafo anterior, la autoridad aduanera procederá a confirmar que la mercancía no es susceptible de recibir trato arancelario preferencial, conforme a lo establecido en la regla 60 de la presente Resolución.
 
-“derecho a usar”, para efectos de la definición de regalías, incluye el derecho de vender o de distribuir una mercancía;
+…
 
-“desechos renovables o productos incidentales” significa los desechos y desperdicios que sean generados por el productor de una mercancía y que se utilicen en la producción de otra mercancía o sean vendidos por ese productor;
+60.1.- Para los efectos del artículo 5.9(14) del Tratado, una vez que la autoridad aduanera emita la determinación de origen por escrito al exportador o productor sujeto a la verificación, deberá proporcionar al importador de la mercancía dicha determinación, protegiendo la información confidencial de conformidad con los artículos 5.12 y 7.22 del Tratado.
 
-“días” significa días naturales, incluidos el sábado, el domingo y los días festivos;
+60.2.- Cuando la autoridad aduanera, al llevar a cabo una verificación de origen de una mercancía importada a territorio nacional de conformidad con el artículo 5.9 del Tratado, requiera verificar el origen de un material utilizado en la producción de la mercancía, la verificación de ese material deberá efectuarse conforme a lo dispuesto en el artículo 5.9(1), (5), (7) a (11), (13) y (18) del Tratado, la regla 63 de la presente Resolución, así como las disposiciones aplicables de las Reglamentaciones Uniformes.
 
-“disposición arancelaria” significa una partida, subpartida o fracción arancelaria;
+60.3.- La autoridad aduanera, al efectuar la verificación de origen de un material utilizado en la producción de una mercancía conforme a la regla anterior, podrá considerar a dicho material como no originario al determinar si la mercancía es originaria, si el productor o el proveedor de dicho material no le permite a la autoridad aduanera acceder a la información requerida para determinar si el material es originario, por cualquiera de las siguientes causas:
 
-“empresa” significa una entidad constituida u organizada conforme al derecho aplicable, tenga o no fines de lucro, y sea controlada o de propiedad privada o gubernamental, incluidas las sociedades, fideicomisos, participaciones, empresas de propietario único, proyecto conjunto, coinversiones u otras asociaciones u organizaciones similares;
+I. Niegue el acceso a sus registros;
 
-“incorporado” significa, respecto a la producción de una mercancía, un material que sea físicamente incorporado a esa mercancía, e incluye un material que sea físicamente incorporado a otro material antes de que ese material o cualquier otro material de subsecuente producción sea utilizado en la producción de la mercancía;
+II. No responda a una solicitud de información o un cuestionario, o
 
-"lugar donde está ubicado el productor" significa.
+III. No otorgue su consentimiento para que se efectúe la visita de verificación dentro de los 30 días posteriores a la recepción de la notificación, de conformidad con lo dispuesto en el artículo 5.9(7)(d) del Tratado.
 
-(a) el lugar donde el productor usa el material en la producción de la mercancía; o
+…
 
-(b) el almacén u otro lugar de recepción donde el productor reciba materiales para utilizarlos en la producción de una mercancía y esté ubicado en un radio de 75 km. del lugar donde el productor produce la mercancía.
+63.- De conformidad con lo dispuesto en el artículo 5.9(18) del Tratado, el envío y notificación de cualquier documento emitido por la autoridad aduanera al importador, exportador, productor o a la administración aduanera de otra Parte, deberá efectuarse mediante cualquier medio que pueda producir una confirmación de recepción, tales como:
 
-“material” significa una mercancía utilizada en la producción de otra mercancía, e incluye partes e ingredientes;
+I. a III. …
 
-“material de fabricación propia” significa un material producido por el productor de una mercancía, y utilizado en la producción de esa mercancía;
+IV. Buzón Tributario, según corresponda.
 
-“materiales de embalaje y contenedores” significa los materiales y contenedores que son utilizados para proteger una mercancía durante su transporte, mas no incluye materiales de empaque y;
+…
 
-“materiales de empaque y envases” significa los materiales y envases en los que la mercancía se empaca para la venta al por menor;
+63.1.- Cuando la autoridad aduanera realice verificaciones de origen, admitirá y aplicará los Principios de Contabilidad Generalmente Aceptados aplicables en el territorio de la Parte en donde la mercancía es producida o en donde el exportador se localice, dependiendo del caso.
 
-“materiales fungibles” significa materiales que sean intercambiables por otro material para efectos comerciales y cuyas propiedades sean esencialmente idénticas;
+63.2.- De conformidad con la subsección 16(6) de las Reglamentaciones Uniformes, cuando un productor de vehículos de pasajeros, camiones ligeros o camiones pesados u otros vehículos que se importen a territorio nacional elija promediar su cálculo de valor de contenido regional, deberá notificar a la autoridad aduanera su elección conforme a lo que establezca el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo la información prevista en la subsección 16(3) de las Reglamentaciones Uniformes al menos 10 días antes del primer día del año fiscal del productor, durante el cual se exportarán los vehículos, o un período más corto que la autoridad aduanera podrá aceptar.
 
-“materiales idénticos” significa, respecto a un material, incluyendo la valoración de un material, materiales que
+Para los efectos de lo dispuesto en el párrafo anterior, la notificación deberá ser presentada ante la Administración Central de Auditoría de Operaciones de Comercio Exterior del Servicio de Administración Tributaria, ubicada en Av. Paseo de la Reforma, número 10, piso 26, Torre Caballito, Col. Tabacalera, C.P. 06030, Alcaldía Cuauhtémoc, Ciudad de México y enviada al correo electrónico acaoce.origen@sat.gob.mx.
 
-(a) sean iguales a ese material en todos los aspectos, incluidas sus características físicas, calidad, prestigio, excluyendo diferencias menores en apariencia,
+63.3.- De conformidad con la subsección 18(16) inciso g) de las Reglamentaciones Uniformes, cuando un productor de un vehículo de pasajeros, camión ligero o camión pesado opte por promediar el cálculo del valor de contenido laboral, presentará su elección ante la autoridad aduanera, conforme a lo que establezca el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo la información prevista en la subsección 16(16) de las Reglamentaciones Uniformes, al menos 10 días antes del primer día del año fiscal del productor, o un periodo más corto que la autoridad aduanera pueda aceptar.
 
-(b) sean producidos en el mismo país que ese material, y
+Para los efectos de lo dispuesto en el párrafo anterior, la declaración deberá ser presentada ante la Administración Central de Auditoría de Operaciones de Comercio Exterior del Servicio de Administración Tributaria, ubicada en Av. Paseo de la Reforma, número 10, piso 26, Torre Caballito, Col. Tabacalera, C.P. 06030, Alcaldía Cuauhtémoc, Ciudad de México y enviada al correo electrónico acaoce.origen@sat.gob.mx.
 
-(c) sean producidos
+…
 
-(i) por el productor de ese material, o
+66.1.- Para los efectos del artículo 6.6(7)(d) del Tratado y de la regla 66 de la presente Resolución, la autoridad aduanera, al momento de solicitar el permiso del exportador, productor o de la persona que tenga la capacidad de dar su consentimiento en nombre del exportador o productor para recibir una visita a las instalaciones, le informará lo siguiente:
 
-(ii) por otro productor, si ningún material que satisfaga los requisitos de los párrafos (a) y (b) haya sido producido por el productor de ese material;
+I. El fundamento legal de la visita;
 
-“material indirecto” significa materiales utilizados o consumidos en la producción, verificación o inspección de una mercancía, pero que no estén físicamente incorporados en la mercancía; o materiales que se utilicen o consuman en el mantenimiento de edificios o en la operación de equipo relacionados con la producción de una mercancía, incluidos:
+II. El propósito específico de la visita, y
 
-(a) combustible y energía;
+III. Los nombres y cargos de los funcionarios que efectuarán la visita.
 
-(b) herramientas, troqueles, y moldes;
+…
 
-(c) refacciones y materiales utilizados o consumidos en el mantenimiento de equipo y edificios;
+73.1.- Para los efectos de la regla anterior, se podrá solicitar la emisión de una resolución anticipada de un material respecto de las materias a que se refiere la regla 74 de la presente Resolución.
 
-(d) lubricantes, grasas, materiales de mezcla y otros materiales utilizados o consumidos en la producción o para operar el equipo o los edificios,
+…
 
-(e) guantes, anteojos, calzado, ropa, equipo, aditamentos de seguridad y suministros,
+79.1.- Cuando se requiera al solicitante que cumpla con los requisitos omitidos o proporcione elementos adicionales necesarios para emitir una resolución anticipada, de conformidad con lo dispuesto en el artículo 7.5(6)(a), la autoridad aduanera notificará al solicitante para que, dentro de un plazo de 30 días contados a partir del día siguiente a la fecha de notificación del requerimiento, cumpla con el requisito omitido o presente la documentación o información adicional. De no cumplirse con el requerimiento en el mencionado plazo, la promoción se tendrá por no presentada.
 
-(f) equipo, aparatos y aditamentos utilizados o consumidos para la verificación o inspección de las mercancías,
+No obstante lo dispuesto en el párrafo anterior, de conformidad con lo dispuesto en la regla 73 de la presente Resolución, un importador, exportador, productor o cualquier otra persona con causa justificable, podrá volver a solicitar una resolución anticipada.
 
-(g) catalizadores y solventes, y
+…
 
-(h) cualesquiera otros materiales que no estén incorporados en la mercancía, pero de los cuales pueda demostrarse razonablemente que forman parte de su producción;
+85.- Para los efectos de lo dispuesto en el artículo 7.6 del Tratado, la asesoría o información prevista en dicho artículo sobre devolución de aranceles se proporcionará a través del número de orientación telefónica MarcaSAT 5562722728 o de la página de internet del Servicio de Administración Tributaria (www.sat.gob.mx).
 
-“material intermedio” significa un material de fabricación propia y utilizado en la producción de la mercancía, y que haya sido designado como material intermedio conforme a la subsección 8(6);
+…”
 
-“material no originario” significa un material que de conformidad con el Tratado y con estas Reglamentaciones no califique como originario;
+## TRANSITORIO
 
-“material originario” significa un material que de conformidad con el Tratado y con estas Reglamentaciones califique como originario;
-
-“material recuperado” significa un material en forma de una o más partes individuales que resulta de:
-
-(a) el desmontaje de una mercancía usada en partes individuales; y
-
-(b) la limpieza, inspección, prueba u otro procesamiento de esas partes según sea necesario para mejorar las condiciones de trabajo;
-
-“materiales similares” significa, respecto a un material, materiales que
-
-(a) aunque no sean iguales en todo a ese material, tengan características y composición semejantes, lo que les permite cumplir las mismas funciones y ser comercialmente intercambiables con ese material;
-
-(b) sean producidos en el mismo país que ese material, y
-
-(c) sean producidos
-
-(i) por el productor de ese material, o
-
-(ii) por otro productor, si ningún material que satisfaga los requisitos de los párrafos (a) y (b) haya sido producido por el productor de ese material;
-
-“método de valor de transacción” significa el método para calcular el valor de contenido regional de una mercancía establecido en la subsección 7(2) (Valor de Contenido Regional);
-
-“mercancías fungibles” significa mercancías que para efectos comerciales sean intercambiables por otra mercancía y cuyas propiedades sean esencialmente idénticas;
-
-“mercancías idénticas” significa, respecto a una mercancía, incluyendo la valoración de una mercancía, mercancías que
-
-(a) sean iguales a esa mercancía en todos los aspectos, incluidas sus características físicas, calidad y prestigio, excluyendo diferencias menores de apariencia,
-
-(b) sean producidas en el mismo país que esa mercancía, y
-
-(c) sean producidas
-
-(i) por el productor de esa mercancía, o
-
-(ii) por otro productor, si ninguna mercancía que satisfaga los requisitos de los párrafos (a) y (b) haya sido producida por el productor de esa mercancía;
-
-“mercancía no originaria” significa una mercancía que de conformidad con estas Reglamentaciones no califique como originaria
-
-“mercancía originaria” significa una mercancía que califique como originaria de conformidad con el Tratado y con estas Reglamentaciones;
-
-“mercancía remanufacturada” significa una mercancía clasificada en los capítulos 84 a 90 del SA o bajo la partida 94.02, excepto los productos clasificados en las partidas 84.18, 85.09, 85.10 y 85.16, 87.03 o subpartidas 8414.51, 8450.11, 8450.12, 8508.11 y 8517.11, que es totalmente o parcialmente compuesta de materiales recuperados y:
-
-(a) tiene una expectativa de vida similar y funciona igual o similar a una mercancía cuando es nueva; y
-
-(b) tiene una garantía de fábrica similar a la aplicable a dicha mercancía cuando es nueva;
-
-“mercancías similares” significa, respecto a una mercancía, mercancías que
-
-(a) aunque no sean iguales en todo a esa mercancía, tengan características y composición semejantes, lo que les permita cumplir las mismas funciones y ser comercialmente intercambiables con esa mercancía;
-
-(b) sean producidos en el mismo país que esa mercancía, y
-
-(c) sean producidos
-
-(i) por el productor de esa mercancía, o
-
-(ii) por otro productor, si ninguna mercancía que satisfaga los requisitos de los párrafos (a) y (b) haya sido producida por el productor de esa mercancía;
-
-“mes” significa un mes calendario;
-
-“método del costo neto” significa el método para calcular el valor de contenido regional de una mercancía establecido en la subsección 7(3) (Valor de Contenido Regional);
-
-“nacional” significa una persona física que sea ciudadana o residente permanente de un país Parte del T-MEC, e incluye
-
-(a) respecto a México, a los nacionales o ciudadanos conforme a los Artículos 30 y 34 de la Constitución Política de los Estados Unidos Mexicanos, respectivamente, y
-
-(b) respecto a los Estados Unidos, a los “nacionales de los Estados Unidos” según se definen en las disposiciones existentes de la Immigration and Nationality Act a la fecha de entrada en vigor del Tratado;
-
-“país del T-MEC” significa una Parte del Tratado;
-
-“pagos” significa, respecto a regalías y costos de promoción de ventas, comercialización y servicios posteriores a la venta, los costos registrados en los libros contables del productor, ya sea que se haga o no un pago.
-
-“persona” significa una persona física o una empresa;
-
-“persona de un país del T-MEC” significa un nacional, o una empresa constituida u organizada conforme al derecho aplicable de un país del T-MEC;
-
-“persona relacionada” significa una persona que está relacionada conforme a lo siguiente:
-
-(a) una es funcionario o director de las empresas de la otra;
-
-(b) son socios legalmente reconocidos;
-
-(c) son patrón y empleado;
-
-(d) cualquier persona adquiere, controla o posee, directa o indirectamente, 25 por ciento más de las acciones preferentes o participaciones de cada una de ellas;
-
-(e) una de ellas controla directa o indirectamente a la otra;
-
-(f) ambas se encuentran directa o indirectamente bajo control de una tercera persona; o
-
-(g) son miembros de la misma familia;
-
-“punto de embarque directo” significa el lugar desde el cual un productor de una mercancía normalmente embarca dicha mercancía para hacerla llegar al comprador de la mercancía;
-
-“productor” significa una persona que participa en la producción de una mercancía;
-
-“producción” significa cultivo, sembrado, crianza, minería, cosecha, pesca, cazar con trampa, caza, captura, reproducción, extracción, manufactura, procesamiento o ensamble de una mercancía, o acuacultura;
-
-“regalías” significa pagos de cualquier especie, incluidos los pagos por asistencia técnica o acuerdos similares, hechos por el uso o derecho a usar cualquier derecho de autor, obra artística, literaria o trabajo científico, patentes, marcas registradas, diseños, modelos, planos, o fórmulas o procesos secretos, excepto los pagos por asistencia técnica o por acuerdos similares que puedan relacionarse con servicios específicos tales como:
-
-(a) capacitación de personal, independientemente del lugar donde se realice la capacitación, e
-
-(b) ingeniería de planta, montaje de plantas, fijado de moldes, diseño de programas de cómputo, y servicios de cómputo similares u otros servicios, siempre y cuando se realicen en territorio de una o más de los países del T-MEC;
-
-“Sistema Armonizado” significa el Sistema Armonizado de Designación y Codificación de Mercancías, incluyendo sus Reglas Generales de Interpretación, Notas de Sección, Notas de Capítulo y Notas de Subpartida conforme se establece
-
-(a) en el caso de Canadá, en la Customs Tariff,
-
-(b) en el caso de México, en la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, y
-
-(c) en el caso de los Estados Unidos, en la Harmonized Tariff Schedule of the United States;
-
-“sujeto a un requisito de valor de contenido regional” significa, respecto a una mercancía, que las disposiciones del Tratado y de estas Reglamentaciones que se aplican para determinar si la mercancía es una mercancía originaria incluyen un requisito de valor de contenido regional;
-
-“territorio” significa:
-
-(a) para Canadá, las siguientes zonas o aguas, según lo determine su legislación interna y de conformidad con el derecho internacional.
-
-(i) el territorio terrestre, el espacio aéreo, las aguas internas y el mar territorial de Canadá,
-
-(ii) la zona económica exclusiva de Canadá, y
-
-(iii) la plataforma continental de Canadá,
-
-(b) respecto a México:
-
-(i) el territorio terrestre, incluyendo a los estados de la Federación y la Ciudad de México;
-
-(ii) el espacio aéreo, y
-
-(iii) las aguas internas, el mar territorial y cualquier área más allá de los mares territoriales de México dentro de la cual México puede ejercer derechos soberanos y jurisdicción, según lo determine su legislación nacional, de conformidad con la Convención de las Naciones Unidas sobre el Derecho del Mar de Montego Bay el 10 de diciembre de 1982; y
-
-(c) respecto a Estados Unidos:
-
-(i) el territorio aduanero de Estados Unidos, que incluye los cincuenta estados, el Distrito de Columbia y Puerto Rico;
-
-(ii) las zonas libres ubicadas en Estados Unidos y en Puerto Rico; y
-
-(iii) el espacio territorial marítimo y aéreo de los Estados Unidos y cualquier área más allá del mar territorial dentro del cual, de conformidad con el derecho internacional consuetudinario como se refleja en la Convención de las Naciones Unidas sobre el Derecho del Mar, los Estados Unidos pueden ejercer derechos soberanos o jurisdicción.
-
-“Tratado” significa el Tratado entre México, Estados Unidos y Canadá;
-
-“usado” significa utilizado o consumidos en la producción de mercancías;
-
-“valor” significa el valor de una mercancía o material para los efectos del cálculo de los aranceles aduaneros o para la aplicación de estas Reglamentaciones.
-
-“valor de transacción” significa el valor en aduana determinado de conformidad con el Acuerdo de Valoración Aduanera, que es, el precio realmente pagado o por pagar por una mercancía o material con respecto a una transacción del productor de la mercancía, ajustado de conformidad con los principios de los Artículos 8(1), 8(3) y 8(4) del Acuerdo de Valoración Aduanera, independientemente de si la mercancía o material se vende para exportación;
-
-“valor en aduana” significa
-
-(a) en el caso de Canadá, value for duty, según se define en el Customs Act, excepto que para la determinación de ese valor la referencia en la sección 55 de esa disposición, “in accordance with the regulations made under the Currency Act”, debe leerse como una referencia a “de acuerdo con la subsección 2(1) de estas Reglamentaciones”,
-
-(b) en el caso de México, el “valor en aduana” determinado de acuerdo con la Ley Aduanera, convertido a moneda mexicana con un tipo de cambio determinado de conformidad con la subsección 2(1) de estas Reglamentaciones, si dicho valor no está expresado en moneda mexicana, y
-
-(c) en el caso de los Estados Unidos, value of imported merchandise, según lo determine el U.S. Customs and Border Protection de acuerdo con la sección 402 del Tariff Act of 1930; incluyendo sus modificaciones, convertido a moneda de Estados Unidos a un tipo de cambio determinado de conformidad con la subsección 2 (1) de estas Reglamentaciones, si dicho valor no está expresado en moneda de Estados Unidos, y
-
-“verificación de origen” significa una verificación de origen de mercancías conforme a:
-
-(a) en el caso de Canadá, el párrafo 42.1(1)(a) del Customs Act,
-
-(b) en el caso de México, el Artículo 5.9 del Tratado,
-
-(c) en el caso de los Estados Unidos, la sección 509 del Tariff Act of 1930, incluyendo sus modificaciones.
-
-(2) Interpretación: “mercancías similares” y “materiales similares”. Para los propósitos de las definiciones de “mercancías similares” y “materiales similares”, para determinar si las mercancías o materiales son similares habrán de considerarse, entre otros factores, la calidad de las mercancías o materiales, su prestigio comercial y la existencia de una marca comercial.
-
-(3) Otras definiciones. En estas Reglamentaciones,
-
-(a) “capítulo”, a menos que se señale lo contrario, se refiere a un capítulo del Sistema Armonizado;
-
-(b) “partida” se refiere a cualquier número de cuatro dígitos, o a los primeros cuatro dígitos de cualquiera de los números que se contienen en la columna “Fracción arancelaria” en el Sistema Armonizado;
-
-(c) “subpartida” se refiere a cualquier número de seis dígitos, o a los primeros seis dígitos de cualquiera de los números que se contienen en la columna “Fracción arancelaria” en el Sistema Armonizado;
-
-(d) “fracción arancelaria” se refiere a los primeros ocho dígitos en el número de clasificación arancelaria de conformidad con el Sistema Armonizado implementado por cada país del T-MEC;
-
-(e) cualquier referencia a una fracción arancelaria en el Capítulo IV del Tratado o en estas Reglamentaciones que incluya letras deberá ser convertida al número apropiado de ocho dígitos del Sistema Armonizado, conforme se instituya en cada país del T-MEC;
-
-(f) “libros” se refiere a,
-
-(i) respecto a una persona ubicada en un país del T-MEC,
-
-(A) libros y otros documentos que contengan el registro de ingresos, gastos, costos, activos y pasivos, y que sean mantenidos de acuerdo con los principios de contabilidad generalmente aceptados contenidos en las publicaciones listadas en el Anexo X con respecto al territorio del país del T-MEC en que se localice la persona, y
-
-(B) estados financieros, incluyendo sus notas explicativas, que se preparen de acuerdo con los Principios de Contabilidad Generalmente Aceptados contenidos en las publicaciones listadas en el Anexo X respecto al territorio del país del T-MEC en el que se ubique la persona, y
-
-(ii) respecto de los libros de una persona ubicada fuera del territorio de los países del T-MEC,
-
-(A) libros y otros documentos que contengan el registro de ingresos, gastos, costos, activos y pasivos y que son mantenidos de acuerdo con los principios de contabilidad generalmente aceptados aplicados en ese lugar o, cuando no existan dichos principios, de acuerdo con las Normas Internacionales de Información Financiera, y
-
-(B) estados financieros, incluyendo sus notas explicativas, que se preparen de acuerdo con los principios de contabilidad generalmente aceptados aplicados en ese lugar o, cuando no existan dichos principios, de acuerdo con las Normas Internacionales de Información Financiera.
-
-(4) Uso de ejemplos. Si un ejemplo, referido como un “Ejemplo”, establecido en estas Reglamentaciones, tiene como finalidad ilustrar la aplicación de una disposición. Si hay cualquier inconsistencia entre el ejemplo y la disposición, la disposición prevalecerá en la medida de la inconsistencia.
-
-(5) Referencias a legislaciones nacionales. Salvo que se disponga otra cosa, las referencias en estas Reglamentaciones a la legislación nacional de un país del T-MEC, se aplican a la legislación vigente, a sus reformas y adiciones, y a cualquier norma que la sustituya.
-
-(6) Cálculo del Costo Total. Para efectos de las secciones 5(11), 7(11), 8(8),
-
-(a) el costo total se compone de todos los costos del producto, los costos del periodo y otros costos que estén registrados, salvo lo dispuesto en los párrafos (b)(i) y (ii), en los libros del productor sin considerar el lugar en que se encuentren ubicadas las personas a quienes se les efectúen los pagos relacionados con esos costos;
-
-(b) al calcular el costo total,
-
-(i) el valor de los materiales, que no sean materiales intermedios, materiales indirectos y materiales de embalaje y contenedores, será el valor determinado conforme a las subsecciones 8(1) y 8(2),
-
-(ii) el valor de los materiales intermedios utilizados en la producción de la mercancía o del material respecto del cual se calcula el costo total debe calcularse de conformidad con la subsección 8(6),
-
-(iii) el valor de los materiales indirectos y el valor de los materiales de embalaje y contenedores serán los costos que estén registrados en los libros del productor para dichos materiales, y
-
-(iv) los costos del producto, costos del periodo y otros costos, distintos a los costos referidos en los subpárrafos (i) y (ii), serán los costos que estén registrados en los libros del productor para dichos costos;
-
-(c) el costo total no incluye las utilidades obtenidas por el productor, sin importar si son retenidas por el productor o pagadas a otras personas como dividendos, o impuestos pagados sobre esas utilidades, incluyendo los impuestos sobre ganancias de capital;
-
-(d) las ganancias relacionadas con la conversión cambiaria que se relacionan con la producción de la mercancía deben deducirse del costo total, y las pérdidas relacionadas con la conversión cambiaria que se relacionan con la producción de la mercancía deben incluirse en el costo total;
-
-(e) el valor de los materiales respecto de los cuales se acumula la producción de conformidad con la sección 9 debe ser determinada de conformidad con lo dispuesto en esa sección; y
-
-(f) el costo total incluye el efecto de la inflación como se registró en los libros del productor, siempre que se haya registrado de conformidad con los Principios de Contabilidad Generalmente Aceptados aplicables en el país del productor.
-
-(7) Periodo para el cálculo del costo total. Para efectos de calcular el costo total conforme a lo dispuesto en las subsecciones 5(11), 7(11) y 8(8),
-
-(a) si el valor de contenido regional de la mercancía se calcula sobre la base del método de costo neto y el productor haya elegido de conformidad con lo dispuesto en la subsección 7(15), 16(1) o (3), para calcular el valor de contenido regional en un periodo determinado, el costo total debe calcularse sobre ese periodo; y
-
-(b) en cualquier otro caso, el productor podrá elegir que el costo total se calcule sobre:
-
-(i) un periodo de un mes,
-
-(ii) cualquier periodo consecutivo de tres o seis meses que quede comprendido y sea divisible equitativamente entre el número de meses restantes del año fiscal del productor al inicio de dicho periodo, o
-
-(iii) el año fiscal del productor.
-
-(8) Elección no modificable. Una elección efectuada de conformidad con la subsección (7) no puede ser rescindida o modificada con relación a la mercancía o material, o al periodo, respecto del cual se efectuó la elección.
-
-(9) Elección considerada efectuada respecto al periodo. Si un productor elige un periodo de uno, tres o seis meses de conformidad con la subsección (7) respecto a una mercancía o material, se considera que el productor ha elegido conforme a dicha subsección un periodo o periodos de la misma duración para el resto del año fiscal del productor respecto a dicha mercancía o material.
-
-(10) Elección considerada efectuada respecto al costo. Respecto a una mercancía exportada a un país del T-MEC, se considerará que se ha efectuado una elección para promediar
-
-(a) en el caso de una elección a que se hace referencia en la subsección 16(1) o (3), si la elección es recibida por la administración aduanera de ese país del T-MEC; y
-
-(b) en el caso de una elección a que se hace referencia en la sección 1(7), 7(15) o 16(10), si la administración aduanera de ese país del T-MEC es informada por escrito durante el transcurso de una verificación de origen de la mercancía que la elección fue hecha.
-
-## TRANSITORIOS
-
-PRIMERO.- La presente Resolución entrará en vigor el 1 de julio de 2020.
-
-SEGUNDO.- A partir de la entrada en vigor de la presente Resolución se abroga la “Resolución por la que se establecen las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio de América del Norte”, publicada en el Diario Oficial de la Federación el 15 de septiembre de 1995, así como sus Anexos y sus posteriores modificaciones.
-
-TERCERO.- Para los efectos de lo dispuesto en el Artículo 34.1(6) del Tratado, las solicitudes de trato arancelario preferencial presentadas hasta el 30 de junio de 2020, serán atendidas en términos de lo dispuesto en el TLCAN y en la “Resolución por la que se establecen las reglas de carácter general relativas a la aplicación de las disposiciones en materia aduanera del Tratado de Libre Comercio de América del Norte”, publicada en el Diario Oficial de la Federación el 15 de septiembre de 1995, así como sus Anexos y sus posteriores modificaciones.
-
-Asimismo, las disposiciones del Capítulo V del TLCAN y de la Resolución citada en el párrafo anterior, continuarán aplicando a la entrada en vigor del Tratado, únicamente para las solicitudes de trato arancelario preferencial presentadas hasta el 30 de junio de 2020, por el plazo dispuesto en el Artículo 505 (Registros contables) del TLCAN, por lo que la autoridad aduanera podrá ejercer sus facultades para verificar el origen de conformidad con lo establecido en las mencionadas disposiciones.
-
-A partir del 1 de julio de 2020, las solicitudes de trato arancelario preferencial para las mercancías originarias de los Estados Unidos de América y Canadá, deberán realizarse cumpliendo con las disposiciones aplicables del Tratado y de esta Resolución. En este sentido, a partir de dicha fecha, no procederá presentar solicitudes de trato arancelario preferencial para la devolución de aranceles a que se refiere el artículo 502(3) del TLCAN.
+ÚNICO.- La presente Resolución entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Atentamente
 
-Ciudad de México, a 25 de junio de 2020.- En suplencia por ausencia del Secretario de Hacienda y Crédito Público con fundamento en el párrafo primero del artículo 105 del Reglamento Interior de esta Secretaría, el Subsecretario de Hacienda y Crédito Público, Gabriel Yorio González.- Rúbrica.
-
-ANEXO 1 de la Resolución que establece las Reglas de Carácter General relativas a la Aplicación de las Disposiciones en Materia Aduanera del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá
-
-REQUISITOS MÍNIMOS DE INFORMACIÓN DE LA CERTIFICACIÓN DE ORIGEN
-
-Una certificación de origen que sea la base para efectuar una solicitud de trato arancelario preferencial conforme al Anexo 5-A del Tratado deberá incluir los siguientes elementos:
-
-I. Certificación de Origen por el Exportador o Productor. Indique si el certificador es el exportador o productor, de conformidad con el artículo 5.2 (Solicitudes de Trato Arancelario Preferencial).
-
-II. Certificador. Proporcione el nombre, cargo, dirección (incluyendo país), número telefónico y dirección de correo electrónico del certificador.
-
-III. Exportador. Proporcione el nombre, dirección (incluyendo país), dirección de correo electrónico y número telefónico del exportador, de ser distinto del certificador. Esta información no será requerida si el productor está llenando la certificación de origen y desconoce la identidad del exportador. La dirección del exportador será el lugar de exportación de la mercancía en el territorio de una de las Partes.
-
-IV. Productor. Proporcione el nombre, dirección (incluyendo país), dirección de correo electrónico y número telefónico del productor, de ser distinto del certificador o exportador o, si hay múltiples productores, indique "Varios" o proporcione una lista de productores. Una persona que desea que esta información sea confidencial podrá indicar "Disponible a solicitud de las autoridades importadoras". La dirección del productor será el lugar de producción de la mercancía en el territorio de una de las Partes.
-
-V. Importador: Proporcione, de conocerse, el nombre, dirección, dirección de correo electrónico y número telefónico del importador. La dirección del importador será en el territorio de una de las Partes.
-
-VI. Descripción y Clasificación Arancelaria de la Mercancía en el Sistema Armonizado.
-
-a) Proporcione una descripción de la mercancía y la clasificación arancelaria en el Sistema Armonizado de la mercancía a nivel de 6 dígitos. La descripción debería ser suficiente para relacionarla con la mercancía amparada por la certificación, y
-
-b) Si la certificación de origen ampara un solo embarque de una mercancía, indique, de conocerse, el número de la factura relacionada con la exportación.
-
-VII. Criterio de Origen. Especifique la regla de origen conforme a la cual la mercancía califica, según se establezca en el Artículo 4.2 (Mercancías Originarias).
-
-VIII. Período Global. Incluya el período si la certificación ampara múltiples embarques de mercancías idénticas para un plazo especificado de hasta 12 meses según se establece en el Artículo 5.2 (Solicitudes de Trato Arancelario Preferencial).
-
-IX. Firma Autorizada y Fecha. La certificación debe ser firmada y fechada por el certificador y acompañada de la siguiente declaración:
-
-"Certifico que las mercancías descritas en este documento califican como originarias y que la información contenida en este documento es verdadera y exacta. Asumo la responsabilidad de comprobar lo aquí declarado y me comprometo a conservar y presentar en caso de ser requerido o ponerla a disposición durante una visita de verificación, la documentación necesaria para soporte esta certificación".
-
-ANEXO 2 de la Resolución que establece las Reglas de Carácter General relativas a la Aplicación de las Disposiciones en Materia Aduanera del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá
-
-"Reporte de exportaciones a Estados Unidos de América o Canadá".
-
-> <small>[N. DE E. VÉASE FORMATO DEL REPORTE EN EL D.O.F. DE 30 DE JUNIO DE 2020, PÁGINA 34.]</small>
-
-"Instructivo de Llenado del Reporte de Exportaciones a Estados Unidos de América o Canadá".
-
-- Este reporte será llenado a máquina o con letra de molde, con bolígrafo a tinta negra o azul y las cifras no deberán invadir los límites de los recuadros.
-
-- Se deberá presentar en original y una copia, el original se entregará a la empresa que transfiere la mercancía y la copia la mantendrá la empresa que recibe las mercancías.
-
-- Número de folio: La empresa anotará el número de folio consecutivo que corresponda.
-
-- Lugar de expedición: Lugar en donde se genera el presente reporte, (Estado, Ciudad o Municipio).
-
-- Fecha de expedición: Se deberá anotar la fecha de llenado del reporte, utilizando 2 números arábigos para el día, 2 para el mes y 4 para el año, como sigue: 20 de noviembre del 2020 ejem: 20 11 2020.
-
-1. Datos del contribuyente que emite el reporte
-
-- Denominación o Razón Social: anotará la razón social de la empresa que recibe las mercancías de transferencia.
-
-- Registro Federal de Contribuyentes: se anotará la clave de doce posiciones.
-
-- Señalar con una "X" si se trata de una Empresa de Comercio Exterior o empresa con Programa IMMEX.
-
-- Número de Registro o Programa IMMEX: el número asignado por la Secretaría de Economía al programa de Empresa de Comercio Exterior o empresa con Programa IMMEX, con el cual opera.
-
-- Domicilio: Anotará los datos relativos al domicilio fiscal; nombre de la calle, número y/o letra exterior, número y/o letra interior, nombre de la colonia, código postal, entidad federativa, número telefónico y número de fax.
-
-- Señalar con una "X" si la proporción corresponde al primer o segundo semestre.
-
-2. Datos del contribuyente que transfiere las mercancías
-
-- Denominación o Razón Social: anotará la razón social de la empresa que transfiera las mercancías.
-
-- Registro Federal de Contribuyentes: se anotará la clave a doce o trece posiciones según corresponda.
-
-- Número de Programa IMMEX: el número asignado por la Secretaría de Economía al Programa IMMEX, con el cual opera.
-
-- Domicilio: anotará los datos relativos al domicilio fiscal; nombre de la calle, número y/o letra exterior, número y/o letra interior, nombre de la colonia, código postal, entidad federativa, número telefónico y número de fax.
-
-3. Proporción de exportación o retorno a los Estados Unidos de América o Canadá
-
-- Descripción de la mercancía transferida: se manifestará la descripción detallada de la mercancía que le transfiere la empresa con Programa IMMEX.
-
-- Fracción arancelaria de la mercancía transferida: anotará la fracción arancelaria que corresponda a la Ley de los Impuestos Generales de Importación y de Exportación de la mercancía que le transfiere la empresa con Programa IMMEX.
-
-- Fracción arancelaria de la mercancía final: anotará la fracción arancelaria que corresponda a la Ley de los Impuestos Generales de Importación y de Exportación de la mercancía final al que se incorpora la mercancía que fue transferida por la empresa con Programa IMMEX.
-
-- Descripción de la mercancía final: se manifestará la descripción detallada de la mercancía final al que se incorpora la mercancía que fue transferida por la empresa con Programa IMMEX.
-
-- Proporción de exportación: indicar la proporción que determine conforme a la Resolución que Establece las Reglas de Carácter General relativas a la Aplicación de las Disposiciones en Materia Aduanera del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, misma que se obtendrá por mercancía, dividiendo el número de unidades retornadas o exportadas de la mercancía final a los Estados Unidos de América o Canadá, en las que se incorporen las mercancías transferidas en el semestre inmediato anterior, entre el número total de unidades retornadas, exportadas, transferidas y destinadas a mercado nacional, en el mismo periodo.
-
-4. Datos del Representante Legal
-
-- Anotará el apellido paterno, materno y nombre(s) del representante legal.
-
-- RFC: Se anotará la clave del Registro Federal de Contribuyentes a trece posiciones.
-
-- CURP: Se anotará la Clave Única del Registro de Población, en caso de que se cuente con ésta.
-
-ANEXO 3 de la Resolución que establece las Reglas de Carácter General relativas a la Aplicación de las Disposiciones en Materia Aduanera del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá
-
-Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá
-
-Declaración de no aplicación del Programa de Re-exportación de Azúcar “Sugar Reexport Program” o de algún otro programa similar en conexión con la exportación de azúcar o jarabe, o productos con contenido de azúcar calificados de los Estados Unidos de América o México.
-
-> <small>[N. DE E. VÉASE FORMATO DE ANEXO 3 EN EL D.O.F. DE 30 DE JUNIO DE 2020, PÁGINA 36.]</small>
-
-Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá
-
-Instrucciones para el llenado de la Declaración de no aplicación del Programa de Re-exportación de Azúcar "Sugar Reexport Program" o de algún otro programa similar en conexión con la exportación de azúcar o jarabe, o productos con contenido de azúcar calificados de los Estados Unidos de América o México.
-
-Con el propósito de recibir trato arancelario preferencial, este documento deberá ser llenado en forma legible y en su totalidad por el exportador de la(s) mercancía(s) en Estados Unidos de América y el importador deberá tenerlo en su poder al momento de efectuar la importación. Favor de llenar a máquina o con letra de molde.
-
-Campo No. 1 Indique el nombre completo, denominación o razón social, domicilio (incluyendo ciudad y país), número de teléfono y el número de registro fiscal del exportador. El Número de Registro Fiscal en los Estados Unidos de América deberá ser el número de identificación del patrón o el número del seguro social.
-
-Campo No. 2 Indique el nombre completo, denominación o razón social, domicilio (incluyendo ciudad y país), número de teléfono y el número de registro fiscal del importador. El Número de Registro Fiscal en México deberá ser la clave del registro federal de contribuyentes (RFC). Tratándose de varios importadores, indicar la palabra "diversos" y proporcionar lista anexa. En caso de no conocerse la identidad del importador, indicar la palabra “desconocido”.
-
-Campo No. 3 Indique según sea el caso, el número de la guía de embarque en tráfico terrestre, el conocimiento de embarque en tráfico marítimo o guía en tráfico aéreo, del pedido.
-
-Campo No. 4 Indique el número de la factura de venta de las mercancías descritas en el Campo No. 5.
-
-Campo No. 5 Proporcione una descripción completa, cantidad y unidad de medida de cada mercancía, incluyendo la marca, tipo, número de catálogo u otros datos de identificación de la mercancía, cuando éstos existan. La descripción deberá ser suficiente para relacionarla con la descripción contenida en la factura, así como con la descripción que corresponda a la mercancía en el Sistema Armonizado.
-
-Campo No. 6 Declare la clasificación arancelaria a seis dígitos que corresponda en el Sistema Armonizado a cada mercancía descrita en el Campo No. 5.
-
-Campo No. 7 Indique el peso bruto en kilogramos o litros de cada una de las mercancías importadas.
-
-Campo No. 8 Indique el peso bruto del azúcar en kilogramos contenida en cada una de las mercancías importadas.
-
-Nota: azúcar significa azúcar cruda o refinada que derivada directa o indirectamente de caña de azúcar o de remolacha azucarera, incluida el azúcar líquida refinada. (Referencia: Anexo 3-B, párrafo 1 “Comercio Agrícola entre México y Estados Unidos” del Capítulo 3 “Agricultura” del Tratado entre los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá).
-
-Campo No. 9 Indique el lugar y fecha de salida de las mercancías de los Estados Unidos de América.
-
-Campo No. 10 Indique el lugar y fecha de entrada de la mercancía a México. En caso de desconocerse, indicar la palabra “desconocido”.
-
-Campo No. 11 Este campo deberá ser llenado, firmado y fechado por el exportador o su representante legal. La fecha deberá ser aquella en que la declaración se llenó y firmó.
-
-Agreement between the United States of America, the United Mexican States, and Canada
-
-Declaration that no claims have been or will be made for the benefits of the "Sugar Reexport Program" or any other like program in connection with the export of sugar or syrup good, or sugar-containing product, that is a qualifying good from the United States or Mexico
-
-> <small>[N. DE E. VÉASE FORMATO DEL ANEXO 3 EN EL D.O.F. DE 30 DE JUNIO DE 2020, PÁGINA 38.]</small>
-
-Agreement between the United States of America, the United Mexican States, and Canada
-
-Declaration that no claims have been or will be made for the benefits of the "Sugar Reexport Program" or any other like program in connection with the export of sugar or syrup good, or sugar-containing product, that is a qualifying good from the United States or Mexico
-
-INSTRUCTIONS
-
-For purposes of obtaining preferential tariff treatment, this document must be completed legibly and in full by the exporter and the importer shall have this document in its possession at the time of importation, provide a copy to the customs broker, and attach a copy to the entry documents. Please print or type.
-
-Field # 1 State the full legal name, address (including city and country), telephone number and legal tax identification number of the exporter. Legal tax identification number in the United States is the employer's identification number or Social Security Number.
-
-Field # 2 State the full legal name, address (including city and country), telephone number and legal tax identification number of the importer. Legal tax identification number in Mexico is the federal taxpayer's registry number (RFC). If multiple importers, state "VARIOUS" and attach a list. If the importer is unknown, state "UNKNOWN".
-
-Field # 3 Indicate the bill of lading or the airway bill number.
-
-Field # 4 Indicate the invoice number for each good described in Field 5.
-
-Field # 5 Provide a full description, quantity and unit of measure of each good, including the brand, type, catalogue number, or any other information to identify the good, where available. The description should be sufficient to relate it to the invoice description and to the Harmonized System (H.S.) description of the good.
-
-Field # 6 For each good described in Field # 5, identify the H.S. tariff classification to six digits.
-
-Field # 7 For each good described in Field # 5, provide the gross weight in liters or in kilograms.
-
-Field # 8 Provide the gross weight in kilograms of the sugar contained in each good described in field # 5. Note: Sugar means raw or refined sugar derived directly or indirectly from sugar cane or sugar beets, including liquid refined sugar (Reference: Annex 3-B, paragraph 1 “Agricultural Trade between Mexico and the United States” of the Chapter 3 “Agriculture” of the Agreement between the United States of America, the United Mexican States, and Canada).
-
-Field # 9 Indicate the US Port and date of export of the goods.
-
-Field # 10 Indicate the Mexican Port and date of entry of the goods. If the Mexican Port and/or date of entry of the goods is unknown, state "UNKNOWN".
-
-Field # 11 This field must be completed, signed and dated by the exporter or its legal representative. The date must be the date the Declaration was completed and signed.
-
-Atentamente
-
-Ciudad de México, a 25 de junio de 2020.- En suplencia por ausencia del Secretario de Hacienda y Crédito Público con fundamento en el párrafo primero del artículo 105 del Reglamento Interior de esta Secretaría, el Subsecretario de Hacienda y Crédito Público, Gabriel Yorio González.- Rúbrica.
+Ciudad de México, a 4 de septiembre de 2020.- En suplencia por ausencia del Secretario de Hacienda y Crédito Público con fundamento en el párrafo primero del artículo 105 del Reglamento Interior de esta Secretaría: el Subsecretario de Hacienda y Crédito Público, Gabriel Yorio González.- Rúbrica.
 
 #### SECCIÓN 2. CONVERSIÓN CAMBIARIA
 
