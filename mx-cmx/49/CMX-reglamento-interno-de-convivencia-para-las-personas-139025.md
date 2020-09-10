@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-139025"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-07"
-last_updated: "2019-11-07"
+last_updated: "2020-09-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139025&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-10-31"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PUBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACION SOCIAL HOGAR CDMX
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL AVISO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES AL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL VILLA MUJERES (CAIS VILLA MUJERES), PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 10 DE SEPTIEMBRE DE 2020, NÚMERO 428, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL HOGAR CDMX (CAIS HOGAR CDMX)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2020 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 7 de noviembre de 2019.
 
@@ -365,3 +367,19 @@ ______________________________________
 MTRA. NADIA TRONCOSO ARRIAGA
 
 DIRECTORA GENERAL DEL INSTITUTO DE ATENCIÓN A POBLACIONES PRIORITARIAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES AL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL VILLA MUJERES (CAIS VILLA MUJERES), PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 31 DE MAYO DE 2019”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se deja sin efectos el Reglamento Interno de Convivencia para las Personas Usuarias y Personas Servidoras Públicas del Centro de Asistencia e Integración Social Hogar CDMX, publicado el 07 de noviembre de 2019, en la Gaceta Oficial de la Ciudad de México número 103.
+
+CUARTO.- A partir de la entrada en vigor del presente Aviso, los servicios sociales que otorga el Centro de Asistencia e Integración Socia (sic) Hogar CDMX, se proporcionaran en el Centro de Asistencia e Integración Social Villa Mujeres, por lo que se deberán realizar las acciones correspondientes para que a más tardar el 14 de septiembre de 2020, se comunique a las usuarias dicha determinación, a efecto de que sigan recibiendo los servicios sociales.
+
+QUINTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento, o algún asunto que no se encuentre expresamente previsto en el presente Aviso, éste será resuelto por el Consejo Técnico del Centro de Asistencia e Integración Social Villa Mujeres.
