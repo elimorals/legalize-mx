@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2019-12-22"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -3099,9 +3099,9 @@ Zona A: Los municipios de El Marqués, Corregidora, Querétaro y San Juan del R�
 
 Zona B: El resto de los municipios del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-Las oficinas del Registro Civil en el Estado de Querétaro expedirán sin costo la primera copia certificada del acta de registro de nacimiento. También será gratuita la certificación que se realice respecto de las actas de nacimiento de personas con discapacidad, adultos mayores y niños y niñas institucionalizados.
+Las oficinas del Registro Civil en el Estado de Querétaro expedirán sin costo la primera copia certificada de actas de registro de nacimiento. También será gratuita la certificación que se realice de actas de registro de nacimiento de personas con discapacidad, de adultos mayores, de niños y niñas institucionalizados, y de individuos de grupos y comunidades indígenas que así se identifiquen, de acuerdo con sus usos y costumbres y la libre determinación de autorreconocimiento como persona indígena.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -5090,3 +5090,11 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTICULO 142 DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley
