@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2020-08-07"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -139,6 +139,8 @@ Corresponde la aplicación de la presente ley al Ejecutivo Estatal y los Ayuntam
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2020, PÁGINA 36.]</small>
+
 ###### Artículo 6.
 
 Son principios rectores que garantizan el acceso de las mujeres al derecho a una vida libre de violencia en un medio ambiente adecuado que favorezca el desarrollo y bienestar de las mujeres:
@@ -151,9 +153,17 @@ III.- La igualdad entre mujeres y hombres;
 
 IV.- El respeto a la dignidad de las mujeres;
 
-V.- La multiculturalidad de las mujeres, y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-VI.- La perspectiva de género que permite incorporar a la mujer como sujeto social.
+XIII (SIC).- La multiculturalidad de las mujeres;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XIV.- La perspectiva de género que permite incorporar a la mujer como sujeto social; y,
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XV.- La protección y garantía de los derechos humanos.
 
 ###### Artículo 7.
 
@@ -389,9 +399,9 @@ f. Practicar el parto vía cesárea cuando existan condiciones para el parto nat
 
 VII.- (DEROGADA, P.O. 8 DE JUNIO DE 2020)
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-VIII.- Violencia cibernética.- Violencia ejercida mediante tecnologías de la información y comunicación de manera continuada, a través de Internet, mensajes de texto, fotografías o imágenes modificadas o editadas, videos, sonidos, o cualquier otra forma tecnológica que atenta contra la integridad y dignidad de la mujer, y
+VIII.- Violencia mediática en razón de género, toda acción u omisión tendiente a la publicación o difusión de mensajes e imágenes estereotipados y sexistas a través de cualquier medio de comunicación o a través de la instalación y colocación de anuncios que sean visibles desde la vía pública, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurien, difamen, discriminen, deshonren, humillen o atenten contra la dignidad de las mujeres, así como la utilización de mujeres, adolescentes y niñas en mensajes e imágenes de promoción sexualmente explicita, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
@@ -1790,3 +1800,27 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TRES DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto remítase al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUATRO.- QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 20 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 117 DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS; SE REFORMA EL ARTÍCULO 160 TER Y SE ADICIONA EL ARTÍCULO 160 QUÁTER, AMBOS A LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto remítase al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al siguiente Decreto.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
