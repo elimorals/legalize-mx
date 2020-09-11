@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2020-02-07"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -349,9 +347,11 @@ XI. Los demás órganos o unidades creadas por mandato legal o que determine el 
 
 Los titulares de los órganos o unidades a que se refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-La Fiscalía General contará con el personal señalado en el artículo 9 de la presente Ley, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones jurídicas aplicables y del presupuesto aprobado por el Congreso del Estado.
+La Fiscalía General contará con el personal señalado en el artículo 9 de la presente Ley, así como el personal profesional, técnico y administrativo necesario para la realización de sus funciones, observando el principio de paridad de género, en términos de las disposiciones jurídicas aplicables y del presupuesto aprobado por el Congreso del Estado.
 
 Los Ministerios Públicos, policías de investigación y peritos, así como los integrantes de otros cuerpos que realicen funciones sustantivas para la Fiscalía General en términos del procedimiento penal, podrán ser de designación especial y, sin sujetarse a todos los requisitos de ese cargo, pero en ese caso no serán miembros del servicio de carrera. El Reglamento determinará los casos y condiciones en que proceda tal designación.
 
@@ -779,7 +779,9 @@ Las Fiscalías Especializadas se sujetarán a lo que expresamente establecen las
 
 El Consejo Consultivo es el órgano colegiado de participación ciudadana de la Fiscalía General.
 
-Está integrado por el Fiscal General y seis consejeros ciudadanos que gocen de reconocido prestigio en el estudio, difusión y/o promoción de los derechos humanos como en sistemas de procuración y/o administración de justicia en el Estado.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Está integrado, por el Fiscal General y seis consejeros ciudadanos que gocen de reconocido prestigio en el estudio, difusión y/o promoción de los derechos humanos como en sistemas de procuración y/o administración de justicia en el Estado, observando para su integración el principio de paridad de género.
 
 El Vicefiscal General será el Secretario Técnico del Consejo Consultivo.
 
@@ -1672,3 +1674,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el informe que corresponde al ejercicio de actividades del 15 de marzo al 31 de diciembre de 2019 de la Fiscalía General del Estado, se presentará por única ocasión en el mes de julio de 2020.
 
 El informe que corresponde al ejercicio anual de actividades del año 2020, se presentará en el mes de enero del año 2021; los subsecuentes se apegarán a lo establecido en el artículo 15 fracción II de este Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 487 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones relativas a las reformas de la Ley Orgánica del Congreso del Estado de Sinaloa, entrarán en vigor a partir del momento de que sean aprobadas por el Pleno, toda vez que no requieren de promulgación por parte del Ejecutivo Estatal ni pueden ser objeto de veto en los términos del artículo 8 de dicha Ley.
+
+En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
+
+TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la (sic) demás legislación de la materia que sea aplicable.
