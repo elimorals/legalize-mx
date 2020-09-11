@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2020-07-01"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,27 @@ state: "SIN"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-REGLAMENTO DE LA ESCUELA MILITAR DE MATERIALES DE GUERRA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
+LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República
+Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
-CARLOS SALlNAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en uso de la facultad que me confiere el artículo 89 fracción l de la Constitución Política de los Estados Mexicanos y con fundamento en los artículos 3o., 17, 122, 123 y 124 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, así como el artículo 29 fracciones I y XIII de la Ley Orgánica de la Administración Pública Federal, he tenido a bien expedir el siguiente
+EL CIUDADANO LIC. JESUS A. AGUILAR PADILLA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
 
-REGLAMENTO DE LA ESCUELA MILITAR DE MATERIALES DE GUERRA
+Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
 
-## TITULO PRIMERO. Disposiciones Generales
+El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Octava Legislatura, ha tenido a bien expedir el siguiente,
 
-### CAPITULO I. Misión General
+DECRETO NÚMERO: 619
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-###### ARTICULO 1o.
+## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-La Escuela Militar de Materiales de Guerra es un Establecimiento de Educación Militar, que tiene como misión formar Oficiales, Sargentos de Materiales de Guerra y Oficiales Técnicos Especializados en Armamento y Técnicos en Mantenimiento Industrial para satisfacer las necesidades del Ejército y Fuerza Aérea Mexicanos.
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
@@ -105,153 +105,153 @@ II. El acceso a la educación libre de patrones estereotipados de comportamiento
 
 En el estado de Sinaloa está prohibida y por lo tanto será sancionada toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-El Subdirector de la Escuela Militar de Materiales de Guerra, tiene las atribuciones y responsabilidades correspondientes a un Segundo Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
+Para los efectos de esta Ley, se entenderá por:
 
-I. Suplir al Director del plantel en el ejercicio de sus funciones durante sus ausencias temporales;
+I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa;
 
-II. Desempeñarse como Jefe de Estudios del plantel;
+II. DIF Estatal: el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa;
 
-III. Presidir la Junta Técnico-Consultiva;
+III. DIF Municipal: el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del municipio que corresponda;
 
-IV. Coordinar y supervisar las actividades de los diversos órganos subordinados;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-V. Coordinar la elaboración y someter a consideración del Director los planes y programas (sic) estudio, proyecto de calendario escolar, así como los programas de prácticas y visitas, supervisando su aplicación;
+IV. CEPAVIF: Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
 
-VI. Dirigir el proceso enseñanza-aprendizaje;
+V. Organizaciones Sociales: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
 
-VII. Designar al personal docente como titular y adjunto;
+VI. Instituto: El Instituto Sinaloense de las Mujeres;
 
-VIII. Coordinar y consolidar los informes de los diferentes órganos que integran la escuela para presentarlos al Director;
+VII. Programa Nacional: El Programa Nacional para Prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
-IX. Coordinar y supervisar la elaboración y actualización permanente del Manual de Organización y Funcionamiento del plantel, recomendando los cambios necesarios;
+VIII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado;
 
-X. Convocar juntas de coordinación con el personal docente del plantel;
+IX. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XI. Coordinar y certificar la elaboración de la documentación que se genere con motivo de las actividades pedagógicas, académicas y de graduación;
+X. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XII. Coordinar la elaboración del proyecto de presupuesto del plantel y presentarlo al Director;
+XI. Modalidades de violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
 
-XIII. Proponer a los integrantes de los jurados para la aplicación de los exámenes que establece el presente Reglamento;
+XII. Violencia contra las mujeres: Cualquier conducta de acción o conducta, basada en su género, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico o sexual en la mujer, tanto en el ámbito privado como en el público;
 
-XIV. Proponer programas y cursos de capacitación y actualización pedagógica para el personal académico y docente; y
+XIII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
-XV. Las que le sean asignadas por la superioridad.
+XIV. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
-###### ARTICULO 11.
+XV. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
 
-El Cuerpo de Alumnos de la Escuela Militar de Materiales de Guerra está a cargo de un Mayor de Materiales de Guerra, a quien se denomina Comandante del Cuerpo de Alumnos, mismo que además debe tener experiencia docente.
+XVI. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se proponen eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el desarrollo y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-###### ARTICULO 12.
+XVIII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-El Comandante del Cuerpo de Alumnos tiene las atribuciones y responsabilidades siguientes:
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-I. Ejercer la autoridad de mando militar en el Cuerpo de Alumnos del plantel;
+XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
 
-II. Suplir en sus ausencias temporales al Subdirector del plantel;
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-III. Mantener la disciplina y buena presentación del Cuerpo de Alumnos;
+XIX Bis. Alerta Alba: Mecanismo de comunicación que la Fiscalía Especializado (sic) en Desaparición Forzada de Personas realiza, a las autoridades, órganos e instituciones federales, estatales y municipales ante la desaparición o no localización de niñas y/o mujeres, solicitando la coordinación y colaboración, para que en el ámbitos (sic) de sus respectivas atribuciones y competencias, se lleve a cabo la búsqueda, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa;
 
-IV. Contribuir en la educación integral de los alumnos;
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-V. Aplicar el programa de instrucción militar de orden cerrado;
+XIX Bis A. Protocolo Alba: Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en Caso de Desaparición o No Localización de Niñas y Mujeres;
 
-VI. Supervisar el mantenimiento del armamento, municiones, vestuario y equipo del Cuerpo de Alumnos;
+XX. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
 
-VII. En coordinación con la Ayudantía General, elaborar y aplicar los planes de defensa y de contingencias del plantel;
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-VIII. Supervisar y dirigir las prácticas de tiro y ejercicios sobre el terreno del personal de alumnos;
+XXI. Noviazgo: Es el periodo durante el cual dos personas que se sienten atraidas mutuamente y no están en matrimonio o concubinato, mantienen una relación sentimental con el objetivo de avanzar en el conocimiento mutuo.
 
-IX. Organizar las compañías de alumnos;
+###### Artículo 11.
 
-X. Proponer a la Dirección del plantel los nombramientos y distinciones que sean necesarios para cubrir los cuadros en las unidades de alumnos;
+Los tipos de violencia contra las mujeres son:
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+I. Violencia psicológica.- Es cualquier tipo acto u omisión que dañe la estabilidad psicológica, que puede consistir en; negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso el suicidio;
 
-XI. Supervisar el pago de la Percepción Recreativa Estudiantil (PRE) o haberes de los alumnos según corresponda;
+II. Violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que puede provocar o no lesiones ya sean internas, externas o ambas;
 
-XII. Controlar estadísticamente los correctivos disciplinarios impuestos a los alumnos;
+III. Violencia patrimonial.- Es cualquier acto u omisión que afecte la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y pueda abarcar los daños a los bienes comunes o propios de la víctima;
 
-XIII. Controlar y supervisar el desempeño de los servicios de armas, económicos y especiales que realice el personal de alumnos;
+IV. Violencia económica.- Es toda conducta de acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-XIV. Elaborar los diversos informes de su competencia;
+V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y,
 
-XV. Coordinar las actividades del Cuerpo de Alumnos con las de los demás órganos del plantel; y
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
-XVI. Las que le sean asignadas por la superioridad.
+###### Artículo 12.
 
-###### ARTICULO 13.
+Los derechos de las mujeres protegidos por esta Ley son:
 
-La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Militar de Materiales de Guerra, a cargo de un Mayor o Capitán Primero Ingeniero Industrial o de Materiales de Guerra, a quien se denomina Jefe de la Sección Pedagógica, mismo que debe reunir cualquiera de los requisitos siguientes:
+I. La vida;
 
-I. Tener experiencia académica, o
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-II. Tener experiencia docente.
+II. La libertad y seguridad personal;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+III. La igualdad;
 
-## TITULO SEGUNDO. Organización
+IV. La equidad;
 
-### CAPITULO II. Dependencia
+V. La no discriminación;
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+VI. La intimidad;
 
-###### ARTICULO 2o.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-La Escuela Militar de Materiales de Guerra depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+VII. La integridad física, psicoemocional y sexual de las mujeres;
 
-###### ARTICULO 14.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-El Jefe de la Sección Pedagógica de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades siguientes:
+VIII. El patrimonio;
 
-I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-II. Elaborar los planes y programas de estudio de los cursos que se imparten en el plantel, de conformidad con el plan General de Educación Militar;
+IX. A no ser sometida a tortura, ni otros tratos o penas crueles, inhumanos o degradantes; y,
 
-III. Llevar a cabo la reestructuración o modificación de los planes y programas de estudio de los cursos que se imparten en el plantel;
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
 
-IV. Integrar los diferentes grupos pedagógicos;
+X. A que se respete la dignidad inherente a su persona y se proteja a su familia.
 
-V. Seleccionar y especificar los métodos y técnicas de enseñanza por aplicarse en el plantel;
+###### Artículo 13.
 
-VI. Proponer programas de capacitación y actualización del personal docente;
+Las mujeres que son víctimas de cualquier tipo y modalidad de violencia tendrán los siguientes derechos:
 
-VII. Proponer mecanismos para la selección de profesores de nuevo ingreso, mediante exámenes de oposición y presidir los jurados que se nombren para tal fin;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-VIII. Proponer la designación de profesores e instructores y sus cargas horarias;
+I. Protección inmediata y efectiva por parte de las autoridades, especialmente si se encuentra embarazada o es persona con discapacidad, indígena o migrante;
 
-IX. Elaborar el proyecto de calendario escolar para los ciclos lectivos de cada curso y las distribuciones de tiempo correspondientes;
+II. Trato digno, privacidad y respeto durante cualquier entrevista o actuación como víctima de violencia;
 
-X. Analizar los instrumentos de evaluación antes de su aplicación;
+III. Asistencia legal gratuita y necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
 
-XI. Evaluar los resultados del proceso enseñanza-aprendizaje y proponer medidas para mejorar el rendimiento del personal docente y de alumnos;
+IV. Asistencia médica y psicológica gratuita para la atención de las consecuencias generadas por la violencia;
 
-XII. Proponer los procedimientos de evaluación desde el punto de vista psicopedagógico, así como coordinar y controlar su aplicación;
+V. Acciones de asistencia social que contribuyan a su pleno desarrollo;
 
-XIII. Realizar el manejo estadístico pedagógico;
+VI. Atención en un refugio temporal; y,
 
-XIV. Formular los informes de la Sección;
+VII. Los demás que establezca esta Ley, su reglamento y demás disposiciones legales aplicables.
 
-XV. Desarrollar programas de orientación y apoyo pedagógico para los alumnos;
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-XVI. Elaborar los programas de prácticas y visitas;
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
 
-XVII. Coordinar sus actividades con los demás órganos del plantel; y
+## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
-XVIII. Fomentar en el personal de profesores civiles se compenetren en la doctrina castrense;
+###### Artículo 14.
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, cuyo agresor tenga o haya tenido relación de parentesco, matrimonio, concubinato o mantenga o haya mantenido una relación de hecho.
 
-XIX. Proponer, generar, investigar, desarrollar, impulsar y difundir aspectos relacionados con la educación, la profesión, la cultura y doctrina militar, y
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+Contra la violencia familiar se aplicarán las disposiciones de la Ley para la Prevención y Atención de la Violencia Familiar del Estado, así como lo dispuesto en la legislación civil, familiar y penal del Estado de Sinaloa, en tanto no contradiga lo estipulado en el siguiente artículo.
 
-XX. Las que le sean asignadas por el Director del plantel.
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 14 Bis.
 
@@ -265,263 +265,33 @@ III. Evitar que la atención que reciban la víctima y el agresor sea proporcion
 
 IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima.
 
-### CAPITULO III. Objetivos
+### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
-###### ARTICULO 3o.
+###### Artículo 15.
 
-La Escuela Militar de Materiales de Guerra tiene los objetivos siguientes:
+La violencia laboral y docente se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación de jerarquía, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima e impide su desarrollo y atenta contra la igualdad.
 
-I. Formar Subtenientes de Materiales de Guerra;
+Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual, en los términos definidos en el Código Penal para el Estado de Sinaloa.
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-II. Formar Sargentos Primeros de Materiales de Guerra;
+###### Artículo 16.
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+Constituye violencia laboral la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género. Incluye, para efectos de esta ley, la exigencia o condicionante de certificados de no gravidez, así como para la obtención de un trabajo o el despido por motivo de embarazo, el impedimento de llevar a cabo el periodo de lactancia conforme a la ley, además del acoso y el hostigamiento sexual.
 
-III. Formar Sargentos Segundos de Materiales de Guerra;
+###### Artículo 17.
 
-IV. Proporcionar formación militar a los alumnos en los aspectos: disciplinario e intelectual;
+Constituyen violencia docente las conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros.
 
-V. Impartir conocimientos militares, científicos, técnicos y humanísticos, para coadyuvar en el cumplimiento de las misiones generales del Ejército y Fuerza Aérea;
+### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
-VI. Desarrollar en los alumnos una formación moral sólida para consolidar los valores nacionales y los tradicionales del Ejército y Fuerza Aérea;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+###### Artículo 18.
 
-VII. Preparar al personal del servicio de Materiales de Guerra para desempeñarse como asesores del mando en asuntos de su competencia;
+La violencia en la comunidad son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión.
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-VIII. Impartir cursos de actualización, especialización y perfeccionamiento relacionados con el material de guerra y de mantenimiento industrial que ordene la superioridad;
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-IX. Especializar a Capitanes y Tenientes de Materiales de Guerra, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-X. Capacitar a oficiales de Materiales de Guerra como Especialistas en Armamento y Técnicos en Mantenimiento Industrial.
-
-###### ARTICULO 15.
-
-La Sección Académica es el órgano de ejecución y control de los planes y programas de estudio de la Escuela Militar de Materiales de Guerra, a cargo de un Mayor o Capitán Primero Ingeniero Industrial o de Materiales de Guerra, a quien se denomina Jefe de la Sección Académica, mismo que debe reunir cualquiera de los requisitos siguientes:
-
-I. Tener experiencia académica, o
-
-II. Tener experiencia docente.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 16.
-
-El Jefe de la Sección Académica de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades siguientes:
-
-I. Coordinar y supervisar el desarrollo de los planes y programas de estudio del plantel;
-
-II. Supervisar que el avance de la programación se desarrolle conforme a lo establecido en los programas de estudio;
-
-III. Coordinar y controlar al personal docente del plantel;
-
-IV. Coordinar y supervisar el desempeño de las actividades académicas del personal docente y de alumnos;
-
-V. Coordinar y supervisar el desarrollo de los programas de prácticas y visitas;
-
-VI. Controlar e informar el avance de la programación;
-
-VII. Supervisar la aplicación de los instrumentos de evaluación;
-
-VIII. Llevar el registro y cómputo de faltas de asistencia académica, dándolas a conocer periódicamente al personal de alumnos;
-
-IX. Supervisar la disciplina del personal docente y de alumnos durante las actividades académicas;
-
-X. Proponer los cargos y comisiones del personal docente del plantel;
-
-XI. Controlar la recepción, proceso y divulgación de las calificaciones;
-
-XII. Controlar, mantener, diseñar y producir el material didáctico necesario para la materialización del proceso educativo en el plantel;
-
-XIII. Controlar el archivo académico del plantel;
-
-XIV. En coordinación con la Comandancia del Cuerpo de Alumnos, planear y supervisar la realización de actividades culturales y sociales en las que participe el personal de alumnos dentro y fuera del plantel;
-
-XV. Formular los informes de la Sección;
-
-XVI. Coordinar sus actividades con los demás órganos del plantel; y
-
-XVII. Las que le sean asignadas por la superioridad.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 17.
-
-La Ayudantía General de la Escuela Militar de Materiales de Guerra, es el órgano encargado de satisfacer las necesidades de vida interna del plantel, a cargo de un Mayor o Capitán Primero de Materiales de Guerra, a quien se denomina Ayudante General.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-### CAPITULO UNICO
-
-###### ARTICULO 4o.
-
-La Escuela Militar de Materiales de Guerra esta constituida de conformidad con la planilla orgánica correspondiente, quedando sujeta su integración a la disponibilidad de recursos presupuestales.
-
-###### ARTICULO 5o.
-
-La Escuela Militar de Materiales de Guerra se integra con los siguientes órganos:
-
-I. Dirección:
-
-A. Director; y
-
-B. Secretaría Particular;
-
-II. Subdirección:
-
-A. Subdirector; y
-
-B. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-III. Cuerpo de Alumnos y Oficiales en instrucción:
-
-A. Comandante, auxiliado por un Grupo de Comando; y
-
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-B. Oficiales del Cuerpo;
-
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-C. Oficiales en instrución (sic), y
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-D. Compañías de Alumnos;
-
-IV. Sección Pedagógica:
-
-A. Jefatura;
-
-B. Subsección de Planes y Programas;
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-C. Subsección de Estadística, Evaluación y Doctrina Militar, y
-
-D. Subsección Psicopedagógica;
-
-V. Sección Académica:
-
-A. Jefatura;
-
-B. Subsección de Control Académico;
-
-C. Subsección de Difusión Cultural y Relaciones Públicas;
-
-D. Subsección de Apoyos Didácticos;
-
-E. Subsección del Curso de Formación de Oficiales de Materiales de Guerra;
-
-F. Subsección del Curso de Formación de Sargentos Primeros de Materiales de Guerra;
-
-G. Subsección del Curso de Formación de Sargentos Segundos de Materiales de Guerra; y
-
-H. Subsección de Educación Física y Deportes.
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-VI. Sección de Cursos de Especialización:
-
-A. Subsección de Planes y Programas;
-
-B. Subsección de Estadística y Evaluación; y
-
-C. Subsección de Control Académico.
-
-VII. Ayudantía General:
-
-A. Ayudante General;
-
-B. Subayudantía;
-
-C. Servicios Técnicos; y
-
-D. Servicios Administrativos y Generales.
-
-VIII. Sección Administrativa:
-
-A. Jefatura;
-
-B. Subsección de Personal;
-
-C. Subsección de Recursos Materiales;
-
-D. Subsección de Contabilidad, y
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-E. Subsección de Informática, Archivo y Correspondencia.
-
-IX. Unidad Ejecutora de Pago.
-
-###### ARTICULO 6o.
-
-Además de los órganos citados en el artículo anterior, deberá existir un (sic) Junta Técnico-Consultiva, con la finalidad de conocer y asesorar a la Dirección del plantel sobre problemas académicos y pedagógicos y se integra con:
-
-I. Presidente:
-
-Subdirector del Plantel;
-
-II. Vocales:
-
-A. Jefe de la Sección Pedagógica;
-
-B. Jefe de la Sección Académica; y
-
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-C. Jefe de la Sección de Cursos de Especialización;
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-D. Comandante del Cuerpo de Alumnos;
-
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-E. Jefe de la Subsección de Apoyos Didácticos, y
-
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-F. Jefe de la Subsección Psicopedagógica.
-
-El Secretario, será el vocal de menor jerarquía y antigüedad.
-
-###### ARTICULO 18.
-
-El Ayudante General de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades siguientes:
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-I. Representar al Curso Técnico Especializado en Armamento y de Mantenimiento Industrial;
-
-II. Vigilar el cumplimiento de las órdenes que emita la superioridad con respecto al servicio, al régimen interior y a la seguridad;
-
-III. Controlar los vehículos automotores, de cargo en el plantel, así como coordinar y supervisar su mantenimiento;
-
-IV. Elaborar y aplicar el plan de defensa del plantel y los demás que sean necesarios;
-
-V. Participar en la elaboración del proyecto de presupuesto anual del plantel;
-
-VI. Fungir como controlador de bienes inmuebles;
-
-VII. Controlar el depósito de armamento y municiones;
-
-VIII. Supervisar el mantenimiento y reparación de las instalaciones del plantel;
-
-IX. Coordinar sus actividades con los demás órganos del plantel; y
-
-X. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 18 Bis.
 
@@ -533,143 +303,41 @@ II. El diseño de un sistema de monitoreo del comportamiento violento de los ind
 
 III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones que correspondan y faciliten el intercambio de información entre las instancias.
 
-### CAPITULO I. De la Dirección
+### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+###### Artículo 19.
 
-###### ARTICULO 7o.
+La violencia institucional son los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
-La Dirección es el órgano rector de la Escuela Militar de Materiales de Guerra, a cargo de un Coronel o Teniente Coronel Ingeniero Industrial o de Materiales de Guerra, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director, mismo que debe reunir cualquiera de los requisitos siguientes:
+###### Artículo 20.
 
-I. Tener experiencia académica, o
+El Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en el ejercicio de sus funciones éstos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia.
 
-II. Tener experiencia docente.
+###### Artículo 21.
 
-###### ARTICULO 8o.
+El Estado y los Ayuntamientos, promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas en contra de las mujeres ejercidas por servidores públicos, así como aquellas que, en su caso, sean necesarias a fin de que se repare el daño infligido a las víctimas, de conformidad con lo dispuesto por las normas jurídicas aplicables.
 
-El Director de la Escuela Militar de Materiales de Guerra, tiene las atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de Tropa de conformidad con lo estipulado en las leyes y reglamentos militares y además las siguientes:
+### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
 
-I. Representar a la Escuela Militar de Materiales de Guerra;
+###### Artículo 22.
 
-II. Hacer cumplir los lineamientos establecidos en el Plan General de Educación Militar;
+La violencia feminicida es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en el ámbito público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad y culminar en homicidio y otras formas de muerte violenta de mujeres, con perturbación social en un territorio determinado o la existencia de un agravio que impida el ejercicio pleno de los derechos humanos de las mujeres.
 
-III. Administrar los recursos humanos económicos y materiales puestos a su disposición;
+Este tipo de violencia, será prevenida por el Gobierno del Estado y los Ayuntamientos mediante un programa permanente de promoción al respeto de todos los derechos de la (sic) mujeres.
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+###### Artículo 23.
 
-IV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, los planes y programas de estudio de los cursos, proyecto de calendario escolar y programas de prácticas y visitas a instalaciones militares y civiles;
+El Estado y los Municipios, cuando se presenten casos de violencia feminicida, dispondrán de las medidas que sean adecuadas para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las situaciones de desigualdad en que se encuentran, sin perjuicio de que puedan proponer a la Secretaría de Gobernación del Poder Ejecutivo Federal, la emisión de declaratorias de alertas de violencia de género a fin de que se adopten las medidas y acciones preventivas de seguridad y justicia que procedan.
 
-V. Convocar a la Junta Técnico-Consultiva;
+###### Artículo 24.
 
-VI. Conferir los cargos que desempeñe el personal académico, docente, del cuerpo de alumnos, administrativo y de la planta de la escuela; excepto aquellos que sean designados por el Alto Mando;
+El Gobierno del Estado y los Ayuntamientos coadyuvarán con el Gobierno Federal en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas, de conformidad con el Sistema y el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-VII. Otorgar los nombramientos y distinciones que sean necesarios para cubrir los cuadros en las unidades de Alumnos;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2013)</small>
 
-VIII. Vigilar permanentemente el bienestar del personal del plantel, promoviendo su afiliación conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+### CAPÍTULO VI. DE LA VIOLENCIA EN EL NOVIAZGO
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-IX. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, las reformas al Manual de Organización y Funcionamiento del plantel cuando corresponda;
-
-X. Difundir permanentemente el contenido del presente Reglamento entre el personal que integra el plantel, supervisando su cumplimiento;
-
-XI. Proponer la creación de otros cursos;
-
-XII. Proponer al personal del plantel que se haga acreedor a recompensas, premios y diplomas;
-
-XIII. Proponer y opinar las altas, bajas y cambios del personal del plantel;
-
-XIV. Realizar la evaluación de las capacidades y funcionamiento de los órganos del plantel, estableciendo, medidas tendientes a mejorar su rendimiento;
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, un informe de actividades al término de cada ciclo escolar;
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XVI. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, el proyecto de presupuesto de su competencia, y
-
-XVII. Las que le sean asignadas por la superioridad.
-
-###### ARTICULO 19.
-
-La Sección Administrativa de la Escuela Militar de Materiales de Guerra es el órgano de apoyo administrativo del plantel, a cargo de un Mayor o Capitán Primero de Materiales de Guerra u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 20.
-
-El Jefe de la Sección Administrativa de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades siguientes:
-
-I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos, de personal perteneciente al plantel y mantener completos y actualizados los expedientes del mismo;
-
-II. Elaborar la documentación relacionada con los bienes muebles e inmuebles, armamento y municiones, vestuario, equipo y vehículos de cargo en el plantel;
-
-III. Fungir como controlador de bienes muebles;
-
-IV. Elaborar y tramitar la documentación contable del plantel;
-
-V. Coordinar y supervisar la recepción, clasificación, registro, distribución y archivo de la documentación;
-
-VI. Elaborar la Lista de Revista de Inspección Administrativa Mensual y la documentación complementaria;
-
-VII. Controlar el archivo general del plantel;
-
-VIII. Elaborar y tramitar la documentación relacionada con la afiliación y aplicación de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
-
-IX. Controlar el depósito de vestuario y equipo del plantel;
-
-X. Elaborar el proyecto de presupuesto anual del plantel;
-
-XI. Formular los estados de fuerza y papeletas de raciones;
-
-XII. Elaborar y tramitar las Hojas de Actuación, Actas de Consejo de Honor, Certificados de Conducta y Memorial de Servicios del personal del plantel;
-
-XIII. Controlar el funcionamiento de la unidad de informática;
-
-XIV. Formular los informes de su competencia;
-
-XV. Coordinar sus actividades con los demás órganos del plantel; y
-
-XVI. Las que le sean asignadas por la superioridad.
-
-###### ARTICULO 21.
-
-La Unidad Ejecutora de Pago de la Escuela Militar de Materiales de Guerra, está a cargo de un Jefe u Oficial Pagador, a quien se denomina Jefe de la Unidad Ejecutora de Pago, nombrado por el Alto Mando del Ejército y Fuerza Aérea.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-### CAPITULO II. De la Subdirección
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 9o.
-
-La Subdirección de la Escuela Militar de Materiales de Guerra es un órgano de dirección de la misma y está a cargo de un Teniente Coronel o Mayor Ingeniero Industrial o de Materiales de Guerra, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector, mismo que debe reunir cualquiera de los requisitos siguientes:
-
-I. Tener experiencia académica, o
-
-II. Tener experiencia docente.
-
-###### ARTICULO 22.
-
-El Jefe de la Unidad Ejecutora de Pago de la Escuela Militar de Materiales de Guerra, tiene la responsabilidad de proporcionar el servicio de pago de haberes, Percepción Recreativa Estudiantil (PRE) y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 23.
-
-La Unidad Ejecutora de Pago norma su estructura y funcionamiento de conformidad con las disposiciones legales respectivas.
-
-###### ARTICULO 24.
-
-La Junta Técnico-Consultiva de la Escuela Militar de Materiales de Guerra, es un órgano colegiado que tiene por finalidad asesorar en materia pedagógica y académica al Director del plantel.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-### CAPITULO III. Del Cuerpo de Alumnos
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 ###### Artículo 24 Bis.
 
@@ -681,667 +349,817 @@ Artículo 24 Bis A. El Gobierno del Estado y los Ayuntamientos prevendrán este 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO IV. De la Sección Pedagógica
+### CAPÍTULO VII. DE LA VIOLENCIA CONTRA LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO V. De la Sección Académica
+Artículo 24 Bis B. Se considera violencia contra la mujer, toda acción u omisión intencional y negligente que lleve a cabo cualquier persona y/o institución pública o privada, de manera directa o indirecta, que dañe, denigre, discrimine y/o dé un trato deshumanizado a las mujeres durante el embarazo, parto y/o puerperio, que tengan como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO V BIS. De la Sección de Cursos de Especialización
+### CAPÍTULO VIII. DE LA VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-###### ARTÍCULO 16 Bis.
+Artículo 24 Bis C. La violencia política contra las mujeres en razón de género es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-La Sección de Cursos de Especialización es el órgano de planeación, evaluación educativa, ejecución y control de los planes y programas de estudio del Curso Técnico Especializado en Armamento y del Curso de Técnico en Mantenimiento Industrial de la Escuela Militar de Materiales de Guerra, a cargo de un Mayor o Capitán Primero Ingeniero Industrial o de Materiales de Guerra Técnico Especialista en Armamento o Técnico en Mantenimiento Industrial, a quien se le denominará Jefe de la Sección del Curso de Especialización, mismo que debe reunir cualquiera de los requisitos siguientes:
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-I. Tener experiencia académica, o
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-II. Tener experiencia docente.
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-###### ARTÍCULO 16 Bis
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-1.- El Jefe de la Sección de Cursos de Especialización, tiene las atribuciones y responsabilidades siguientes:
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-I. Representar al Curso Técnico Especializado en Armamento y de Mantenimiento Industrial;
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
 
-II. Administrar los recursos humanos y materiales;
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-III. Hacer cumplir los lineamientos establecidos en el Plan General de Educación Militar;
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
 
-IV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los planes y Programas de Estudio del curso, el Proyecto de calendario escolar y los programas de prácticas y visitas;
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
 
-V. Conferir los cargos al personal docente titular, adjunto o suplente;
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
 
-VI. Desempeñarse como Jefe de la Sección Académica y Pedagógica;
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
 
-VII. Coordinar y supervisar las actividades del personal de Tropa y Oficiales en Instrucción;
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
 
-VIII. Elaborar los Planes y Programas de Estudio;
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-IX. Dirigir el proceso enseñanza-aprendizaje;
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
 
-X. Coordinar y supervisar la actualización permanente del Manual de Organización y funcionamiento del curso, recomendando los cambios necesarios;
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
 
-XI. Convocar las juntas de coordinación con el personal docente del curso;
+XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
 
-XII. Coordinar y certificar la elaboración de la Documentación que se genere con motivo de las actividades Pedagógicas, Académicas y de Graduación;
+XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
 
-XIII. Designar a los integrantes de los jurados para la aplicación de exámenes profesionales de fin de curso;
+XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
 
-XIV. Promover a la Dirección General de Materiales de Guerra los proyectos o reformas a los Planes y Programas de estudio, para posteriormente si son aprobados promoverlos a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 
-XV. Promover la creación de otros cursos especializados;
+XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
 
-XVI. Proponer y opinar las altas, bajas y cambios del personal de tropa del curso;
+XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
 
-XVII. Realizar la evaluación de la capacidad y funcionamiento del curso, estableciendo medidas tendientes a mejorar su rendimiento;
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
 
-XVIII. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea y Dirección General de Materiales de Guerra, un informe de actividades al término de cada ciclo escolar, y
+XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
 
-XIX. Las funciones que sean asignadas por la superioridad.
+XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
-### CAPITULO VII (SIC). De la Ayudantía General
+### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-## TITULO TERCERO. Funciones
+## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRAS (SIC) LAS MUJERES
 
-### CAPITULO VII. De la Sección Administrativa
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+###### Artículo 25.
 
-###### ARTICULO 25.
+El Estado y los municipios se coordinarán para establecer el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-La Junta Técnica Consultiva tiene las atribuciones y responsabilidades siguientes:
+Todas las medidas que lleve a cabo el Estado y los municipios deberán ser realizadas sin discriminación alguna. Por ello, no se considerará distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades en el acceso a las políticas públicas en la materia.
 
-I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
+###### Artículo 26.
 
-II. Analizar los planes y programas de estudio recomendando su actualización, para que respondan al perfil Profesional de egreso requerido;
+El Sistema Estatal se conformará por las y los titulares de:
 
-III. Recomendar los cambios necesarios al Manual de Organización y Funcionamiento del plantel;
+I. El Ejecutivo del Estado, a través de la Secretaría General de Gobierno, quien lo presidirá;
 
-IV. Evaluar la actuación del personal académico, docente y de alumnos del plantel;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-V. Analizar los resultados de la evaluación pedagógica para mejorar el nivel del proceso enseñanza-aprendizaje;
+II. Secretaría de Desarrollo Social;
 
-VI. Proponer al personal, directivo, académico, docente y de alumnos que se haga acreedor a recibir alguna recompensa; y
+III. La Secretaría de Seguridad Pública;
 
-VII. Las que en materia pedagógica y académica le asigne el Director del plantel.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-###### ARTICULO 26.
+IV. La Fiscalía General del Estado;
 
-En casos especiales, la Junta Técnico-Consultiva podrá recurrir a otras fuentes de asesoramiento.
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
 
-###### ARTICULO 27.
+V. La Subprocuraduría de Derechos Humanos y Atención a Víctimas;
 
-Los vocales de la Junta Técnico-Consultiva serán suplidos en sus ausencias, por un Jefe de Subsección de la sección correspondiente y por el Jefe del Grupo de Comando del Cuerpo de Alumnos según corresponda.
+VI. (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
-### CAPITULO VIII. De la Unidad Ejecutora de Pago
+VII. La Secretaría de Salud;
 
-###### ARTICULO 28.
+VIII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
 
-El Personal de la Escuela Militar de Materiales de Guerra se clasifica como sigue:
+IX. DIF estatal;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
-I. Directivo:
+X. CEPAVIF;
 
-A. Director, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-B. Subdirector.
+XI. El H. Congreso del Estado, a través de la Comisión de Equidad, Género y Familia;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-II. Académico:
+XII. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer; y,
 
-A. Jefes de las secciones Pedagógica y Académica, y
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
 
-B. Jefes de las subsecciones de las secciones Pedagógica y Académica.
+XIII. El Instituto Electoral del Estado de Sinaloa.
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+###### Artículo 27.
 
-III. Docente:
+La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-A. Profesores, y
+### CAPÍTULO I. DE LAS ÓRDENES DE PROTECCIÓN
 
-B. Instructores.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
-IV. Del Cuerpo de Alumnos:
+###### Artículo 28.
 
-A. Comandante y Grupo de Comando;
+La formulación del Programa Estatal será coordinada por la Secretaría de Gobierno. El Programa Estatal deberá ser congruente con el Plan Estatal de Desarrollo y el Programa Nacional de Desarrollo, así como, con el Programa Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y contendrá las acciones con perspectiva de género para:
 
-B. Oficiales del Cuerpo; y
+I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
-C. Alumnos;
+II. Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género;
 
-V Administrativo:
+III. Transformar los modelos socioculturales de conductas de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
 
-A. Ayudante General;
+IV. Educar y capacitar en materia de derechos humanos de la (sic) mujeres y el respeto a la igualdad de género al personal encargado de la procuración de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
 
-B. Jefe de la Sección Administrativa;
+V. Promover la capacitación en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
 
-C. Jefe de la Unidad Ejecutora de Pago; y
+VI. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
 
-D. Jefes de las Subsecciones respectivas; y
+VII. Fomentar y apoyar programas de educación pública y privada, destinados (sic) promover el respeto de los derechos y libertades fundamentales y de la igualdad entre hombres y mujeres, así como el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia en sociedad;
 
-VI. De la planta:
+VIII. Promover programas de sensibilización a fin de concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra la (sic) mujeres;
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+IX. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
 
-Está constituido por el personal de los servicios técnicos, administrativos y generales y aquel otro no incluido en la clasificación que establece este artículo.
+X. Promover que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
-###### ARTICULO 29.
+XI. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-El personal Directivo y Académico tiene las atribuciones y responsabilidades establecidas en la legislación militar, el presente Reglamento y disposiciones aplicables de la superioridad.
+XII. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres;
 
-### CAPITULO IX. De la Junta Técnico-Consultiva
+XIII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad; y,
 
-###### ARTICULO 30.
+XIV. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
 
-Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita la superioridad; este personal puede ser profesor o instructor.
+###### Artículo 29.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+La Secretaría General de Gobierno procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana sociales en la formulación, ejecución y evaluación del Programa Estatal.
 
-###### ARTICULO 31.
+### CAPÍTULO II. DEL PROTOCOLO ALBA
 
-Es profesor el militar o civil que tienen a su cargo con carácter de titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que avale el dominio de la o las asignaturas por impartir.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+Artículo 50 Bis A. El Protocolo Alba es el mecanismo institucional que fija las directrices, reglas y lineamientos de actuación homologada en la búsqueda e investigación, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa.
 
-###### ARTICULO 32.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-Son instructores los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento que vayan a impartir.
+Artículo 50 Bis B. El Protocolo Alba tendrá como objetivo instrumentar y aplicar estrategias y acciones para realizar la búsqueda e investigación, para la localización de niñas y mujeres que hayan sido reportadas corno desaparecidas o no localizadas, de manera inmediata, exhaustiva, continua, especializada, con perspectiva de género, transversalidad y respeto a los derechos humanos, mediante la colaboración coordinada de las autoridades de los tres órdenes de gobierno y niveles de la estructura Institucional.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-###### ARTICULO 33.
+Artículo 50 Bis C. La autoridad a quien corresponderá dar inicio del expediente por la desaparición o no localización de una niña o mujer y la activación de la Alerta Alba, será a la Fiscalía General del Estado de Sinaloa, a través de la Fiscalía Especializada en Desaparición Forzada de Personas.
 
-Los profesores o instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-###### ARTICULO 34.
+Artículo 50 Bis D. Para efectos de atender las Alertas Alba, deberá conformarse un Grupo Técnico de Coordinación y Colaboración, integrado por las distintas instancias públicas y/o de autoridad, identificadas de manera enunciativa más no limitativa, que en sus respectivos ámbitos de competencia realizan o puedan realizar acciones de búsqueda de manera coordinada ante la denuncia, reporte o noticia de la desaparición o no localización de una niña, adolescente o mujer, y/o ante el aviso o notificación que al respecto les formule la Fiscalía Especializada en Desaparición Forzada de Personas, así como aportar información que pueda ser útil para la investigación.
 
-El Comandante del Cuerpo de Alumnos, el personal del Grupo de Comando y los Oficiales del Cuerpo, tiene las atribuciones y responsabilidades que establecen las leyes y reglamentos militares y el presente Reglamento en las partes correspondientes.
+El Grupo Técnico tendrá como propósito fundamental establecer la integración, participación, colaboración y coordinación de las diferentes instancias y órganos de gobierno federal, estatal y municipal, ante una denuncia, reporte o noticia sobre la desaparición o no localización de una niña o mujer, a efecto de delinear, homogenizar y direccionar la acción interinstitucional.
 
-#### SECCION SEGUNDA. De los Alumnos
+La Fiscalía General del Estado, invitará como integrantes permanentes del Grupo Técnico a las siguientes autoridades:
 
-###### ARTICULO 35.
+A. Autoridades Estatales:
 
-El personal que realiza estudios en la Escuela Militar de Materiales de Guerra recibe la denominación de Alumno.
+I. Secretaría General de Gobierno;
 
-###### ARTICULO 36.
+II. Secretaría de Seguridad Pública;
 
-Los militares y civiles de nacionalidad extranjera que ingresen a la Escuela Militar de Materiales de Guerra, lo harán en calidad de Becarios y se regirán durante su estancia en ella, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento; no estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulando su situación disciplinaria, en cada caso, como lo determine la Secretaría de la Defensa Nacional.
+III. Secretaría de Salud;
 
-###### ARTICULO 37.
+IV. Secretaría de Turismo;
 
-El personal de alumnos que cause alta en la Escuela Militar de Materiales de Guerra, integrará una antigüedad por cada curso, que será designada con el número ordinal correspondiente.
+V. Secretaría de Desarrollo Social;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+VI. Secretaría de Economía;
 
-###### ARTICULO 38.
+VII. Secretaría de Educación Pública y Cultura;
 
-Los alumnos tienen las atribuciones y responsabilidades siguientes:
+VIII. Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, a través del Centro de Justicia para Mujeres del Estado de Sinaloa;
 
-I. Asistir puntualmente a las actividades que señalan las distribuciones de tiempo respectivas;
+IX. Instituto Sinaloense de las Mujeres;
 
-II. Acatar las disposiciones académicas establecidas;
+X. Sistema Estatal para el Desarrollo Integral de la Familia;
 
-III. Participar en actividades oficiales programadas;
+XI. Comisión Estatal de Búsqueda de Personas;
 
-IV. Desempeñar los servicios y comisiones que se les asignen; y
+XII. Instituto Estatal de Protección Civil;
 
-V. Conocer y observar el contenido del presente reglamento en las partes correspondientes.
+XIII. Comisión Estatal de los Derechos Humanos;
 
-###### ARTICULO 39.
+XIV. Comisión Estatal de Atención Integral a Víctimas;
 
-El personal Administrativo y de la Planta de la Escuela Militar de Materiales de Guerra tiene las atribuciones y responsabilidades establecidas en la legislación militar, en el presente Reglamento y disposiciones aplicables de la superioridad.
+XV. Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
 
-###### ARTICULO 40.
+XVI. Dirección de Vialidad y Transportes, de la Subsecretaría de Gobierno de la Secretaría General de Gobierno;
 
-Las actividades de admisión a la Escuela Militar de Materiales de Guerra se realizan con base en las disposiciones que sobre el particular emita la Secretaría de la Defensa Nacional.
+XVII. Dirección de Inspección y Normatividad de la Subsecretaría de Normatividad e Información Registral de la Secretaría General de Gobierno; y
 
-###### ARTICULO 41.
+XVIII. Las demás que resulten necesarias para la aplicación del presente Protocolo.
 
-Es facultad del Alto Mando, autorizar el ingreso a la Escuela Militar de Materiales de Guerra a personal de nacionalidad extranjera a solicitud del gobierno de su país ante el de México a través de la Secretaría de la Defensa Nacional. Su estancia en el plantel será exclusivamente para efectuar los estudios correspondientes.
+B. Autoridades Federales:
 
-## TITULO CUARTO. Del Personal
+I. Fiscalía General de la República;
 
-### CAPITULO I. Clasificación
+II. Secretaría de Marina;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+III. Secretaría de la Defensa Nacional;
 
-###### ARTICULO 42.
+IV. Secretaría de Seguridad y Protección Ciudadana;
 
-El personal nacional que ingresa al plantel como alumno, queda sujeto a lo que establecen las leyes y reglamentos militares y lo estipulado en el presente Reglamento.
+V. Secretaría de Gobernación;
 
-###### ARTICULO 43.
+VI. Secretaría de Comunicaciones y Transportes;
 
-Los concursantes de procedencia civil que cumplan con los requisitos de admisión, causan alta como alumnos previa firma del contrato filiación con la Secretaría de la Defensa Nacional.
+VII. Secretaría de Relaciones Exteriores; y
 
-###### ARTICULO 44.
+VIII. Instituto Nacional de Migración.
 
-La formación del personal de alumnos de la Escuela Militar de Materiales de Guerra, se realiza mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
+C. Autoridades Municipales:
 
-### CAPITULO II. De la Planeación
+I. Secretarías y/o Direcciones de Seguridad Pública y Tránsito;
 
-###### ARTICULO 45.
+II. Sistemas para el Desarrollo Integral de la (sic) Familia Municipales; e
 
-La planeación tiene por finalidad establecer los objetivos de aprendizaje, los métodos y técnicas de enseñanza, así como determinar los métodos de evaluación con base en los planes y programas de estudio del plantel.
+III. Institutos, Direcciones o áreas encargadas de las Mujeres en los Municipios.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+Se procurará que las responsabilidades que cada una de las autoridades y órganos asuman, sean cuando menos las que se les señalen en el apartado correspondiente del Protocolo Alba que emita la Fiscalía General del Estado para tal efecto, para lo cual la Fiscalía General del Estado solicitará la designación de un enlace por cada uno (sic) de las autoridades que conforman el Grupo Técnico de Coordinación y Colaboración.
 
-###### ARTICULO 45 Bis.
+Se procurará además la participación de la sociedad civil, particularmente de los medios de comunicación, comercio organizado y cualquier otra organización o persona que se considere de utilidad para efecto de solicitar su colaboración en la difusión de la ficha de búsqueda, recopilación de datos que puedan ser útiles u otras formas que abonen a los fines del presente instrumento.
 
-La planeación didáctica es el conjunto de acciones que permiten establecer la estructura, diseño y secuencia del proceso enseñanza-aprendizaje con el fin de organizarlo, sistematizarlo, dirigirlo, evaluarlo y en su caso, rectificarlo para alcanzar los objetivos prescritos en los planes y programas de estudio del plantel.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPITULO III. De la Ejecución
+Artículo 50 Bis E. La operatividad del Protocolo Alba constará de fases, y acciones específicas, mismas que se desarrollarán en el Protocolo que expida la Fiscalía General del Estado de Sinaloa para tal efecto.
 
-###### ARTICULO 46.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-La ejecución de la enseñanza tiene por objeto desarrollar el contenido de los planes y programas de estudio a través de la interacción del personal docente y de alumnos.
+Artículo 50 Bis F. El Protocolo Alba se activa desde el momento que se tenga conocimiento, ya sea por denuncia, noticia o reporte sobre la desaparición o no localización de una niña o mujer; y se desactiva con la localización de la niña o mujer a la que se busca, ya sea con vida o sin vida, de conformidad con las consideraciones que incluya el Protocolo que emita la Fiscalía General del Estado para tal efecto.
 
-### CAPITULO IV. De la Evaluación
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-###### ARTICULO 47.
+Artículo 50 Bis G. Las autoridades y órganos que se involucren, en el ámbito de sus respectivas competencias deberán contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas, asegurando los recursos económicos, logísticos, científicos o de cualquier otra índole que garantice el éxito de la búsqueda.
 
-La evaluación académica, tiene por objeto verificar el nivel de aprovechamiento del personal de alumnos en el proceso enseñanza- aprendizaje, así como la eficiencia del personal docente y la de los planes y programas de estudio.
+###### Artículo 30.
 
-###### ARTICULO 48.
+El Estado se coordinará con la Federación para integrar y consolidar el Sistema Nacional y participará en la formulación y ejecución del Programa Nacional, adoptando todas las medidas y acciones previstas en la presente Ley para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
 
-La evaluación de los alumnos se realiza de la siguiente forma:
+###### Artículo 31.
 
-I. Apreciación de conocimientos y aptitudes adquiridos mediante su participación en clase y desempeño en ejercicios y trabajos prácticos; y
+Las dependencias estatales y municipales previstas en esta ley deberán:
 
-II. Aplicación de diversos exámenes.
+I. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades del Sistema Estatal, para alcanzar los objetivos previstos en la presente Ley;
 
-###### ARTICULO 49.
+II. Ejecutar y dar seguimiento a las acciones del Programa Estatal, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
 
-Los exámenes que se aplican en la Escuela Militar de Materiales de Guerra son:
+III. Impulsar la participación de los sectores sociales y privados y de las organizaciones sociales, en la ejecución del Programa Estatal;
 
-I. Parciales:
+IV. Promover investigaciones sobre las causas y consecuencias de la violencia contra las mujeres;
 
-Son aquellos que realiza el personal en instrucción de una o varias partes del programa de estudios de cualquier asignatura durante el semestre correspondiente. Para cada materia debe aplicarse un mínimo de tres exámenes.
+V. Promover una cultura de respeto a los derechos humanos de las mujeres;
 
-II. Final Ordinario:
+VI. Promover ante las autoridades competentes la adopción de las medidas de protección previstas en esta Ley y demás disposiciones aplicables que requiere la mujer que haya sido víctima de la violencia;
 
-Es aquel que se aplica a todo el personal en instrucción al término del semestre correspondiente y cubre la totalidad del programa de cada asignatura.
+VII. Proporcionar a las instancias encargas (sic) de realizar estadísticas, la información necesaria para la elaboración de éstas;
 
-III. Extraordinario:
+VIII. Promover programas de información a la población en materia de respeto a los derechos humanos de las mujeres y la igualdad de género;
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+IX. Recibir de las organizaciones sociales propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
 
-Es aquel que se aplica al personal de alumnos cuya calificación final de la asignatura sea menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 53, de este Reglamento.
+X. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa Estatal;
 
-IV. Especial:
+XI. Impulsar la creación de refugios para la atención y protección de las víctimas, conforme al modelo de atención diseñado por el Sistema Estatal, de acuerdo a los lineamientos que para tal efecto dicte el Sistema Nacional;
 
-Aquel que se aplica bajo las condiciones que establece el presente Reglamento, únicamente a los alumnos del curso de formación de oficiales que causen baja de la Escuela Militar de Materiales de Guerra antes de terminar sus estudios.
+XII. Difundir por todos los medios de comunicación el contenido y alcance de la presente Ley;
 
-###### ARTICULO 50.
+XIII. Celebrar convenios de cooperación, coordinación y concertación con los sectores social y privado en la materia; y,
 
-Los exámenes mencionados en el artículo anterior pueden ser:
+XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-I. Orales;
+###### Artículo 32.
 
-II. Escritos;
+El Ejecutivo del Estado a través de la Secretaría General de Gobierno tendrá a su cargo:
 
-III. Prácticos; o
+I. El diseño de una política integral con visión transversal de perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
-IV. Una combinación de los anteriores.
+II. Coordinar la elaboración del Programa Estatal con las demás autoridades integrantes del Sistema Estatal;
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+III. Formular las bases para la coordinación entre las autoridades estatales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+IV. Incluir una partida presupuestal suficiente para garantizar que las dependencias y entidades cumplan con los objetivos de la ley, realicen acciones afirmativas a favor de las mujeres y coadyuven en la protección integral a quienes sean víctimas de violencia;
+
+V. Coordinar y dar seguimiento a las acciones del Estado en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VI. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la administración pública estatal;
+
+VII. Realizar un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VIII. Difundir a través de diversos medios de comunicación, los resultados del Sistema Estatal y del Programa Estatal a los que se refiere esta Ley; y,
+
+IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 33.
+
+La Secretaría de Desarrollo Social será la encargada de:
+
+I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+
+II. Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
+
+III. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para eliminar desventajas de género; y,
+
+IV. Las demás previstas en esta Ley y demás disposiciones aplicables.
+
+###### Artículo 34.
+
+La Secretaría de Seguridad Pública, tendrá a su cargo:
+
+I. Diseñar con la Secretaría General de Gobierno la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
+
+II. Informar periódicamente al Sistema Estatal sobre la ejecución de las acciones de su competencia contenidas en el Programa Estatal, con la finalidad de evaluar su eficacia;
+
+III. Capacitar al personal de las diferentes instancias policiales a su cargo para atender, con perspectiva de género y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
+
+IV. Promover la cultura de denuncia de la violencia contra las mujeres;
+
+V. Canalizar a las víctimas de violencia a las instituciones públicas o privadas que presten asistencia y protección;
+
+VI. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
+
+VII. Implementar programas de capacitación que formen el apego a los principios de legalidad, honradez, profesionalismo y eficacia, en la atención a las mujeres víctimas de violencia; y,
+
+VIII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+###### Artículo 35.
+
+Corresponderá a la Secretaría de Educación Pública y Cultura:
+
+I. Incorporar en los programas educativos, en todos los niveles de instrucción de competencia estatal, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+
+II. Promover en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
+
+III. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
+
+IV. Eliminar de los programas educativos de todos los niveles de competencia estatal, los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+
+V. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
+
+VI. Garantizar el derecho de las mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
+
+VII. Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
+
+VIII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos;
+
+IX. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+
+X. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y,
+
+XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+###### Artículo 36.
+
+Corresponde a la Secretaría de Salud:
+
+I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de sensibilización y formación continua en la prevención y atención de la violencia en contra (sic) las mujeres;
+
+II. Erradicar del personal del área de salud, cualquier prejuicio que evite el ejercicio de los derechos reproductivos;
+
+III. Brindar por medio de las instituciones del sector salud de manera integral y (sic) interdisciplinaria la atención médica y psicológica con perspectiva de género a las víctimas;
+
+IV. Crear programas de capacitación y sensibilización para el personal del sector salud, en materia de violencia contra las mujeres y especialmente para la detección de este tipo de actos contra las mismas;
+
+V. Establecer programas y servicios profesionales eficaces que atiendan a las víctimas de violencia;
+
+VI. Brindar servicios reeducativos integrales a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
+
+VII. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
+
+VIII. Canalizar a las víctimas a las instituciones públicas o privadas que prestan atención y protección especializada a las mujeres, en su caso;
+
+IX. Mejorar la calidad de la atención que se preste a las mujeres víctimas;
+
+X. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
+
+XI. Alimentar al Sistema Estatal y Nacional sobre el apoyo que se brinde a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
+
+a) El número de víctimas que se atiendan en los centros y servicios hospitalarios;
+
+b) Las situaciones de violencia que sufren las mujeres;
+
+c) El tipo de violencia por la cual se atendió a la víctima;
+
+d) Los efectos causados por la violencia en las mujeres; y,
+
+e) Los recursos erogados en la atención de las víctimas; y,
+
+Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 37.
+
+Corresponde a la Fiscalía General del Estado, en materia de violencia en contra de las mujeres:
+
+I. Promover la formación y especialización de Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
+
+II. Proporcionar a las víctimas de violencia, la asistencia y orientación jurídica para su eficaz atención y protección, de conformidad con la Ley Orgánica del Ministerio Público y su Reglamento y demás ordenamientos aplicables;
+
+III. Dictar las medidas necesarias para que la víctima reciba atención médica;
+
+IV. Brindar a las víctimas o al agresor, en su caso, la información integral sobre las instituciones públicas o privadas encargadas de su atención;
+
+V. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2012)</small>
+
+VI. Brindar protección para salvaguardar la integridad física de las víctimas y en su caso de quienes denuncien cualquier tipo de violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ABRIL DE 2012)</small>
+
+VII. Crear un sistema de registro sistemático de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia consignación, sanción y reparación del daño;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2012)</small>
+
+VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, así como en la investigación de feminicidios y violencia sexual; y
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+IX. Suministrar en tiempo y forma la información que se requiera para el Banco de Datos e Información sobre Casos de Violencia contra las Mujeres correspondiente sobre las carpetas de investigación iniciadas por delitos cometidos contra las mujeres, así como de las órdenes de protección emitidas por el Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+X. Desde una perspectiva de género, deberá implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, acatando el deber de diligencia, aplicar con prontitud y eficacia las medidas u órdenes de protección de emergencia y preventivas, así como las demás procedentes conforme al artículo 137 del Código Nacional de Procedimientos Penales; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+###### Artículo 38.
+
+Sin menoscabo de las responsabilidades que le otorga el decreto de su creación, corresponde al Instituto Sinaloense de las Mujeres:
+
+I. Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titular;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+II. Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre los Casos de Violencia Contra las Mujeres en el que se integran, además de los casos señalados, las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia en contra de las mujeres, las medidas de prevención, atención y erradicación adoptadas en esta materia y las evaluaciones de las mismas, así como la información que generen las instituciones encargadas de promover en el Estado, los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Asimismo, en dicho Banco se deberán registrar las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones que correspondan y faciliten el intercambio de información entre las instancias. Para tales efectos, la Fiscalía General del Estado deberá coadyuvar con el Instituto con el objeto de compartir el número de solicitudes de órdenes de protección ante los órganos jurisdiccionales, su viabilidad y seguimiento;
+
+III. Proponer a las instancias encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
+
+IV. Promover una cultura de respeto a los derechos humanos de la mujer y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
+
+V. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+
+VI. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
+
+VII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas y personal debidamente capacitado en la materia;
+
+VIII. Vigilar la aplicación de esta Ley; y,
+
+IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+###### Artículo 39.
+
+Corresponde a los ayuntamientos, en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres:
+
+I. Coordinarse con el Ejecutivo del Estado a través de sus instancias involucradas en la adopción y consolidación del Sistema Estatal;
+
+II. Instrumentar y articular, en concordancia con la política estatal, la política orientada a erradicar la violencia contra las mujeres;
+
+III. Participar en la ejecución y evaluación de las acciones previstas en el Programa Estatal;
+
+IV. Solicitar, y en su caso, coadyuvar en medidas de declaratoria de alerta de violencia de género, de conformidad con esta Ley y el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+V. Formular, ejecutar y evaluar el Programa Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+
+VI. Promover, en coordinación con el Estado, cursos de capacitación a las personas que atienden a víctimas;
+
+VII. Apoyar la creación de programas de reeducación integral para los agresores;
+
+VIII. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
+
+IX. Apoyar la creación de refugios seguros para las víctimas;
+
+X. Llevar a cabo programas de información a la población respecto de la violencia contra las mujeres;
+
+XI. Celebrar convenios de coordinación y concertación con los sectores público, social y privado en la materia a que se refiere esta Ley; y,
+
+XII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+###### Artículo 40.
+
+Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado y de los municipios en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres:
+
+I. Realizar las actividades en el ámbito de su respectiva competencia, el fomento de acciones y programas que promueva el respeto a los derechos humanos de las mujeres y la igualdad entre los hombres y mujeres;
+
+II. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la información y datos estadísticos que requieran para el debido cumplimiento;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
+III. Coadyuvar con la Fiscalía General del Estado en la atención, sanción y erradicación de la violencia contra las mujeres;
+
+IV. Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+
+V. Canalizar a las víctimas de violencia a las instituciones que les presten asistencia y protección, con apego a lo establecido en la Ley y su reglamento; y,
+
+VI. Las demás previstas para el cumplimiento de la presente Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 41.
+
+Corresponde al CEPAVIF:
+
+I. Coadyuvar en la promoción de los derechos humanos de las mujeres;
+
+II. Participar en la elaboración y ejecución del Programa Estatal y en el diseño (sic) modelos de prevención y erradicación de la violencia contra las mujeres;
+
+III. Brindar el apoyo y orientación en el ámbito de su competencia a las mujeres víctimas de violencia;
+
+IV. Promover la cultura de denuncia de la violencia contra las mujeres;
+
+V. Colaborar en la creación de refugios para la atención y protección a las mujeres víctimas de violencia y centros de rehabilitación para agresores; y,
+
+VI. Las demás previstas para el cumplimiento de esta Ley y otras disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 41 Bis.
+
+Corresponde al Instituto Electoral del Estado de Sinaloa:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las precampañas y campañas electorales, durante los procesos electorales; y
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género, en el ámbito de su competencia.
+
+## TÍTULO CUARTO. DE LAS MEDIDAS DE PROTECCIÓN
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+
+###### Artículo 42.
+
+Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Sinaloa y el Instituto Electoral del Estado de Sinaloa podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+
+###### Artículo 43.
+
+Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+
+I. De emergencia;
+
+II. Preventivas; y,
+
+III. De naturaleza civil y familiar.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Las órdenes de protección podrán ser solicitadas por la víctima o cualquier persona que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de aquélla y de las víctimas indirectas.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+En la emisión de medidas u órdenes de protección, las autoridades acatarán el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Las órdenes de protección de emergencia y preventivas deberán expedirse en los términos de que para tal efecto dispone el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 44.
+
+Son órdenes de protección de emergencia las siguientes:
+
+I. Auxilio inmediato a favor de la víctima, por las corporaciones de seguridad pública, con autorización expresa de ingreso al lugar donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+II. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo, a fin de garantizar la seguridad personal de la víctima;
+
+III. La retención y guarda de armas de que hayan sido empleadas para amenazar o lesionar a la víctima;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+V. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VI. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VII. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia; y,
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VIII. Las demás establecidas en otras disposiciones legales.
+
+###### Artículo 45.
+
+Son órdenes de protección preventivas las siguientes:
+
+I. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
+
+II. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
+
+III. Retención y guarda de armas de fuego propiedad del agresor, utilizadas para agredir a la víctima, independientemente si las mismas se encuentran registradas conforme a la normatividad en la materia;
+
+IV. Canalizar a la víctima a un refugio temporal;
+
+V. Inventario de bienes muebles que se encuentren e inmuebles propiedad común, incluyendo los implementos de trabajo de la víctima;
+
+VI. El uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
+
+VII. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
+
+VIII. Brindar servicios reeducativos integrales, especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas; y,
+
+IX. Las demás establecidas en otras disposiciones legales.
+
+###### Artículo 46.
+
+Corresponderá a la autoridad jurisdiccional en materia penal, valorar las órdenes emergentes y preventivas que solicite el Ministerio Público, quien tomará en consideración:
+
+I. La flagrancia;
+
+II. El riesgo o peligro existente;
+
+III. La seguridad de la víctima; y,
+
+IV. Los elementos con que se cuente.
+
+###### Artículo 47.
+
+Son órdenes de protección de naturaleza civil y familiar las siguientes:
+
+I. Suspensión temporal al agresor del régimen de visitar y convivencia con sus descendientes;
+
+II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias; y,
+
+V. Obligación alimentaria provisional e inmediata.
+
+###### Artículo 48.
+
+La negativa a brindar la (sic) medidas emergentes y preventivas de protección, será considerada violencia institucional en los términos de esta ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE FEBRERO DE 2018)</small>
+
+Serán consideradas de extrema emergencia las órdenes que se tramiten con motivo de violencia sexual, así como aquéllas que se soliciten en el caso de:
+
+I. Mujeres embarazadas;
+
+II. Mujeres que tengan alguna discapacidad;
+
+III. Mujeres menores de edad;
+
+IV. Mujeres que tengan calidad de migrantes;
+
+V. Mujeres que pertenezcan a un grupo indígena; y
+
+VI. Mujeres con cualquier factor especial de vulnerabilidad.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 49.
+
+Corresponde a las autoridades jurisdiccionales dictar, incluso de oficio, órdenes de protección y la determinación de medidas similares a las que se refiere este Capítulo, en sus resoluciones o sentencias, con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+
+###### Artículo 50.
+
+Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 50 Bis.
 
 La Fiscalía General y el Poder Judicial actuarán conforme al Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
 
-### CAPITULO II. Del Personal Directivo y Académico
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-## TITULO QUINTO. De la Admisión
+### CAPÍTULO II. DE LOS REFUGIOS
+
+## TÍTULO QUINTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
 ### CAPITULO III. Del Personal Docente
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-###### ARTICULO 51.
+###### Artículo 51.
 
-Para calificar los exámenes se utiliza la escala numérica de cero a diez puntos incluyendo decimales.
+Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+I. Ser tratada con respeto en su integridad y al ejercicio pleno de sus derechos;
 
-###### ARTICULO 52.
+II. Contar con protección inmediata y efectiva por parte de las autoridades;
 
-La calificación mínima aprobatoria es de seis puntos.
+III. Recibir información clara, precisa y suficiente que les permite decidir sobre las opciones de atención;
 
-###### ARTICULO 53.
+IV. Asesoría jurídica gratuita y expedita;
 
-La calificación final de cada asignatura se integrará de la siguiente manera:
+V. Atención médica y psicológica gratuita;
 
-I. El promedio, de las evaluaciones parciales constituirá el 60% de la calificación final; y
+VI. El resguardo temporal en un refugio;
 
-II. El resultado del examen final ordinario constituirá el 40% de la calificación final.
+VII. Las mujeres víctimas de violencia que tengan hijas o hijos podrán acudir a los refugios con éstos; y,
+
+VIII. Las demás señalados (sic) en esta Ley, su reglamento y otras disposiciones legales.
+
+###### Artículo 52.
+
+Las autoridades estatales y municipales, en el ámbito de sus respetivas (sic) competencias, según corresponda, deberán adoptar las medidas y acciones necesarias para brindar protección, atención psicológica y jurídica y demás servicios que requiera la mujer víctima de violencia, incluyendo su canalización a los refugios cuando requiera de un mayor tiempo de recuperación.
+
+###### Artículo 53.
+
+El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
 ### CAPITULO IV. Del Cuerpo de Alumnos
 
-#### SECCION PRIMERA. Del Comandante, Grupo de Comando y Oficiales del Cuerpo
+###### Artículo 54.
 
-###### ARTICULO 54.
+El Gobierno del Estado y los Ayuntamientos, se coordinarán con los diversos sectores social y privado para impulsar la creación de refugios para la atención a las víctimas de violencia.
 
-La calificación obtenida en un examen extraordinario o especial, se asentará en el registro de calificaciones con la anotación "OBTENIDA EN EXAMEN EXTRAORDINARIO"' u "OBTENIDA EN EXAMEN ESPECIAL", esta situación excluye al alumno de la posibilidad de obtener algún premio académico.
+Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
 
-###### ARTICULO 55.
+En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
-Los alumnos que utilicen medios fraudulentos para resolver algún examen, serán suspendidos del mismo y calificados con CERO.
+El Estado y los municipios, con la participación que corresponda de los sectores social y privado, promoverán el establecimiento de mecanismos que permitan proveer de los apoyos necesarios para que los refugios cumplan con su objeto.
 
-### CAPITULO V. De los Jurados
+###### Artículo 55.
 
-###### ARTICULO 56.
+La permanencia de las víctimas en los refugios será mientras persista su inestabilidad física, psicológica o su situación de riesgo.
 
-Los jurados para aplicar los diferentes tipos de exámenes mencionados en este Reglamento, estarán integrados por personal docente del plantel y aquel otro que determine la Secretaría de la Defensa Nacional.
+En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad, pero para acceder a ellos bastará la solicitud de la misma víctima a la decisión expresa del Ministerio Publico, mediante el convencimiento de la conveniencia de la víctima a adoptar la medida temporal.
 
-## TITULO SEPTIMO. De las Faltas, Bajas y Reingresos
+En todo caso, los servidores públicos que intervengan en la atención a víctimas, valorarán la conveniencia de que las víctimas y su familia en riesgo, sean trasladadas a los refugios.
 
-### CAPITULO I. De las Faltas de Asistencia Académica
+En todo caso, los servidores públicos que intervengan en la atención a víctimas, escucharán y valorarán la intervención de vecinos y familiares de la víctima, en todo lo que se refiera a las medidas de protección, previstas en esta Ley.
+
+###### Artículo 56.
+
+Los refugios que se constituyan, desde la perspectiva de género tendrán a su cargo:
+
+I. Participar en la aplicación del Programa Estatal;
+
+II. Velar por la seguridad de las mujeres que se encuentren en ellos;
+
+III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
+
+IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+
+V. Brindar a las víctimas información necesaria que les permita decidir sobre las opciones de atención;
+
+VI. Atender a las víctimas en los tres niveles de riesgo que son moderado, medio y alto riesgo; y,
+
+VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+
+T R A N S I T O R I O S
 
 ### CAPITULO V. Del Personal Administrativo y de la Planta
 
 ## TITULO SEXTO. Del Proceso Enseñanza-Aprendizaje
-
-### CAPITULO I. Generalidades
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 57.
 
 Son faltas de asistencia académica, las ausencias del personal de alumnos a cualquier actividad académica teórica o práctica. Las faltas de asistencia académica pueden ser justificadas o injustificadas.
-
-###### ARTICULO 58.
-
-Son faltas justificadas, las ausencias que se deban a comisiones del servicio, motivos de salud, razones de carácter legal y las que a juicio del Director considere como tales.
-
-###### ARTICULO 59.
-
-Son faltas injustificadas, las ausencias no comprendidas en el artículo anterior.
-
-###### ARTICULO 60.
-
-Las faltas de asistencia académica se computarán a razón de una falta por cada inasistencia a una sesión de clase de cualquier asignatura.
-
-###### ARTICULO 61.
-
-Las faltas injustificadas y las justificadas originadas por actos fuera del servicio, motivos de salud, razones de carácter legal y las que a juicio del Director considere como tales, serán acumuladas.
-
-###### ARTICULO 62.
-
-Las faltas justificadas por actos del servicio, no serán acumuladas.
-
-###### ARTICULO 63.
-
-El registro y cómputo de faltas se dará a conocer periódicamente a los alumnos por la Sección Académica del plantel.
-
-### CAPITULO II. De las Bajas
-
-###### ARTICULO 64.
-
-El personal que concluya satisfactoriamente sus estudios, causa baja del plantel y queda a disposición de la Secretaría de la Defensa Nacional para los efectos correspondientes.
-
-###### ARTICULO 65.
-
-Son causales de baja para los alumnos de la Escuela Militar de Materiales de Guerra las siguientes:
-
-I. Reprobar el 40 % o más del total de exámenes parciales en un mismo período de evaluación;
-
-II. Reprobar el 40 % o más del total de exámenes finales ordinarios de un semestre;
-
-III. Reprobar uno o más exámenes extraordinarios;
-
-IV. Acumular el 10 % o más de faltas injustificadas en una sola asignatura o el 15 % o más en el conjunto de ellas durante el ciclo lectivo;
-
-V. Acumular el 30 % o más de faltas justificadas en una sola asignatura o en el conjunto de ellas durante el ciclo lectivo;
-
-VI. Acumular 500 (Quinientos) puntos de demérito en ciclos lectivos de más de 6 (Seis) meses de duración ó 300 (trescientos) en los de 6 (Seis) meses o menos, previa determinación de mala conducta dictada por el Consejo de Honor;
-
-VII. Estar comprendido en alguna causal de inutilidad, de acuerdo con las tablas anexas a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
-
-VIII. Existir irregularidades en la documentación presentada al ingresar al plantel;
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-IX. Violar las cláusulas establecidas en el compromiso filiación;
-
-X. Encontrarse en alguna causal de baja establecida en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y
-
-XI. Para personal extranjero Becario, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XII. Adquirir otra nacionalidad;
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XIII. Solicitud del interesado que sea aceptada por la superioridad;
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XIV. Reprobar tres exámenes parciales de una misma asignatura en un semestre;
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XV. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XVI. Ser adicto a cualquier tipo de drogas heroicas.
-
-###### ARTICULO 66.
-
-(DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
-
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 66 Bis.
-
-Al personal de alumnos que por cualquier motivo vaya a ser dado de baja del plantel se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
-
-### CAPITULO III. De los reingresos
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 67.
-
-Para efectos del presente Reglamento se considera como reingreso el acto mediante el cual el personal de alumnos que habiendo causado baja de la Escuela Militar de Materiales de Guerra antes de terminar sus estudios es admitido nuevamente para continuarlos.
-
-###### ARTICULO 68.
-
-Podrán reingresar al plantel por una sola vez bajo las condiciones que establece el presente Reglamento, los alumnos que hayan causado baja durante el 2/o. año del curso de formación de Oficiales de Materiales de Guerra, por los siguientes motivos:
-
-I. Académicos;
-
-II. Faltas justificadas;
-
-III. Motivos de salud; y
-
-IV. Los que habiendo estado sujetos a proceso en el fuero de guerra, en el orden común o federal y hayan resultado absueltos.
-
-###### ARTICULO 69.
-
-El personal de alumnos que encontrándose cursando el 2/o. año del curso de formación de Oficiales de Materiales de Guerra cause baja del plantel por los motivos citados en él artículo anterior, será puesto a disposición de la Secretaría de la Defensa Nacional, para que sea destinado a prestar sus servicios donde ésta lo determine y por el tiempo necesario para regresar al siguiente período de exámenes extraordinarios, al inicio del semestre que cursaba en el siguiente año lectivo, como a continuación se indica:
-
-I. El personal que se sitúe en lo establecido en el artículo 65 fracciones II ó III del presente Reglamento, podrá reingresar al inicio del siguiente semestre correspondiente, siempre y cuando apruebe el examen especial de la o las asignaturas que originaron su baja del plantel;
-
-II. El personal que se sitúe en lo establecido en el artículo 65 fracciones l ó V del presente Reglamento, podrá reingresar al inicio del semestre que cursaba en el siguiente año lectivo; y
-
-III. El personal que haya causado baja del plantel por motivos de salud o por haberse encontrado sujeto a proceso en el fuero de guerra, en el orden común o federal y haya resultado absuelto, podrá reingresar al plantel al inicio del semestre que cursaba en el siguiente año lectivo.
-
-###### ARTICULO 70.
-
-Los alumnos que reprueben un examen especial, no podrán reingresar al plantel.
-
-###### ARTICULO 71.
-
-Los alumnos de los cursos para Sargentos 2/os. y 1/os. de Materiales de Guerra que causen baja del plantel antes de terminar los estudios correspondientes, no podrán reingresar.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 72.
-
-Los alumnos que causen baja del plantel por situarse en lo establecido en el artículo 65, fracciones IV, VI, VII, VIII, IX, X, XI, XII, XIII y XIV, del presente Reglamento no podrán reingresar.
-
-## TITULO OCTAVO. De los Reconocimientos Académicos
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 16 DE AGOSTO DE 2004)</small>
-
-### CAPITULO I. De los Certificados, Patentes y Nombramientos
-
-> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
-
-###### ARTICULO 73.
-
-Los alumnos que terminen satisfactoriamente sus estudios en la Escuela Militar de Materiales de Guerra recibirán:
-
-I. Certificado de estudios;
-
-II. Grado de Subteniente, Sargento Primero o Sargento Segundo de Materiales de Guerra, según corresponda;
-
-III. Patente o nombramiento, y
-
-IV. Gafete distintivo del curso.
-
-### CAPITULO II. De los Premios y Recompensas
-
-###### ARTICULO 74.
-
-Los incentivos que se otorgan a los alumnos de la Escuela Militar de Materiales de Guerra por el aprovechamiento en sus estudios son:
-
-I. Premio y Diploma de Primero, Segundo o Tercer lugar: a quienes obtengan los tres promedios más altos al finalizar el curso correspondiente;
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-Estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 8.5 puntos;
-
-II. Diploma de Primero, Segundo o Tercer lugar: a quienes obtengan los tres promedios más altos en cada año lectivo del curso respectivo;
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-III. Figurar en el cuadro de honor, durante el mes siguiente al periodo de evaluación en que haya obtenido un promedio de 8.5 puntos o más;
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-IV. Exento de realizar el examen final ordinario al personal de alumnos que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general, y
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-V. Otros que autorice la Secretaría de la Defensa Nacional.
-
-###### ARTICULO 74 Bis.
-
-(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
-
-## TITULO NOVENO. Disposiciones Complementarias
-
-### CAPITULO I. De la Disciplina
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 75.
-
-Los arrestos que se impongan a los alumnos de procedencia militar, serán graduados por el Director del plantel, conforme a lo establecido en la legislación militar vigente y se cumplirán a partir del momento en que se les comunique.
-
-###### ARTICULO 76.
-
-La graduación de arrestos impuestos a los alumnos de la Escuela Militar de Materiales de Guerra se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta.
-
-###### ARTICULO 77.
-
-Los arrestos impuestos a los alumnos se computarán con 20 puntos de demérito por cada veinticuatro horas.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 78.
-
-El Director de la Escuela Militar de Materiales de Guerra podrá graduar los arrestos que se impongan al personal de alumnos en calidad de internos hasta por 300 (trescientos) puntos de demérito en el interior del plantel.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 79.
-
-Los alumnos de procedencia civil y personal militar en calidad de internos cumplirán sus arrestos los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine el Director del plantel.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 80.
-
-Los alumnos de procedencia civil y personal militar en calidad de internos cumplirán sus arrestos en las semanas laborables de la manera siguiente:
-
-I. A partir de la hora de franquicia del sábado hasta las 0800 horas del domingo, 20 puntos de demérito;
-
-II. De las 0800 horas del domingo hasta la hora que termine la franquicia, 20 puntos de demérito;
-
-III. Sin disfrutar la franquicia del sábado y domingo, 40 puntos de demérito, y
-
-IV. Los arrestos graduados con más de 80 puntos de demérito, se cumplirán alternando dos fines de semana continuos de reclusión por uno de franquicia.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 81.
-
-Los alumnos internos cumplirán sus arrestos ininterrumpidamente conforme al cómputo establecido, en los días inhábiles correspondientes a semanas no laborables.
-
-###### ARTICULO 82.
-
-La acumulación de 200 (doscientos) puntos de demérito en ciclos lectivos de más de 6 (seis) meses de duración ó 100 (cien) en los de 6 (seis) meses o menos, implica la pérdida de distinción para los alumnos de primera.
-
-###### ARTICULO 83.
-
-La acumulación de 300 (trescientos) puntos de demérito en ciclos lectivos de más de 6 (seis) meses de duración ó 200 (doscientos) en los de 6 (seis) meses o menos, implica la destitución de grado para las clases de alumnos.
-
-###### ARTICULO 84.
-
-Los alumnos que utilicen medios fraudulentos en la resolución de algún examen, además de la sanción prevista en el artículo 55 de este Reglamento, se les impondrá el correctivo disciplinario correspondiente.
-
-###### ARTICULO 85.
-
-El Comandante del Cuerpo de Alumnos propondrá la distribución de tiempo que debe regir las actividades de los alumnos que se encuentren arrestados.
-
-###### ARTICULO 86.
-
-El personal directivo, académico docente militar, del cuerpo de alumnos, administrativo y de la planta, queda sujeto a lo establecido en las leyes y reglamentos (sic) militares.
-
-### CAPITULO II. De la Garantía de Permanencia
-
-###### ARTICULO 87.
-
-Los civiles que causen alta como alumnos en la Escuela Militar de Materiales de Guerra, otorgarán un depósito en efectivo cuyo monto fijará la Secretaría de la Defensa Nacional.
-
-###### ARTICULO 88.
-
-El importe del depósito otorgado se hará efectivo a favor del interesado, cuando éste cause baja del plantel por inutilización en actos del servicio antes de terminar sus estudios o por graduarse.
-
-###### ARTICULO 89.
-
-Cuando los alumnos causen baja del plantel, antes de terminar sus estudios por causas imputables a ellos mismos, el importe del depósito se hará efectivo a favor del Erario Nacional.
-
-T R A N S I T O R I O S
-
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se derogan el decreto que crea la Escuela de Tropas de Material de Guerra de fecha 26 de diciembre de 1945, publicado en el Diario Oficial de la Federación de 25 de enero de 1946 y todas las demás disposiciones que se opongan al presente ordenamiento.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-D.O.F. 22 DE JUNIO DE 2001.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 16 DE AGOSTO DE 2004.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1393,7 +1211,13 @@ P.O. 25 DE ABRIL DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE JUNIO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE MAYO DE 2014.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA”.]
 
@@ -1448,3 +1272,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para efecto de materializar la coadyuvancia que se señala en el artículo 38, fracción II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, el Instituto Sinaloense de las Mujeres, la Fiscalía General del Estado y el Poder Judicial del Estado deberán celebrar convenio de coordinación dentro de los treinta días siguientes al inicio de vigencia del presente Decreto.
 
 TERCERO. Dentro del término de ciento veinte días naturales posteriores al inicio del Presente Decreto, la Fiscalía General del Estado en coordinación con el Poder Judicial deberán emitir el Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 455 DECRETO NÚMERO: 455 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, Y LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 502 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del presente Decreto la Fiscalía General del Estado, actualizará en lo que corresponda el Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en caso de Desaparición o no Localización de Niñas y Mujeres publicado en el Periódico Oficial "El Estado de Sinaloa" No.152 de fecha 16 de diciembre de 2019, considerando la integración del Grupo Técnico a que hace referencia dicho Protocolo.
