@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1144
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2019-12-27"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de mayo de 2016.
 
@@ -367,9 +367,11 @@ La Comisión formará parte del Sistema Nacional y se sujetará en las bases de 
 
 La Comisión desarrollará, administrará, implementará y pondrá en funcionamiento la plataforma electrónica que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la Ley General y en esta Ley para los sujetos obligados, de conformidad con la normatividad que establezca el Sistema Nacional, atendiendo a las necesidades de accesibilidad de los usuarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 29.
 
-La Comisión funcionará en Pleno, que será su órgano supremo y estará integrado por tres comisionados, quienes durarán en su encargo siete años sin derecho a reelección.
+La Comisión funcionará en Pleno, que será su órgano supremo, y estará integrado por tres Comisionadas y Comisionados, quienes no podrán ser del mismo género, y durarán en su encargo siete años sin derecho a reelección.
 
 No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, y sólo podrán ser removidos de su cargo en los términos del Título Sexto de la Constitución Política del Estado y serán sujetos de juicio político.
 
@@ -447,7 +449,9 @@ XXVIII. Emitir recomendaciones a los sujetos obligados para diseñar, implementa
 
 XXIX. Establecer su estructura orgánica y su jerarquización, así como los mecanismos de selección y contratación de personal, en los términos de su reglamentación;
 
-XXX. Designar al personal que deba formar parte de su estructura orgánica;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XXX. Designar al personal que deba formar parte de su estructura orgánica, observando el principio de paridad de género;
 
 XXXI. Expedir su reglamento y demás normas internas de funcionamiento, así como toda aquella que por disposición expresa de una Ley deba emitir;
 
@@ -751,9 +755,11 @@ Artículo 60 Bis F. Los servidores públicos adscritos al órgano interno de con
 
 ### Capítulo II. De los Comités de Transparencia
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 61.
 
-Cada sujeto obligado constituirá un Comité de Transparencia que deberá estar integrado por un número impar de servidores públicos y, en su caso, de personas designadas por su titular. Este acto deberá formalizarse mediante la elaboración del acta respectiva.
+Cada sujeto obligado constituirá un Comité de Transparencia que deberá estar integrado por un número impar de servidores públicos y, en su caso, de personas designadas por su titular, para su composición deberá de observar el principio de paridad de género. Este acto deberá formalizarse mediante elaboración del acta respectiva.
 
 ###### Artículo 62.
 
@@ -849,9 +855,11 @@ El Consejo Consultivo es el órgano colegiado y plural que estará integrado por
 
 El Consejo Consultivo deberá expedir su reglamento interior en el que se establezca su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 71.
 
-En la integración del Consejo Consultivo se procurará garantizar la igualdad de género y la inclusión de personas con experiencia en la materia de esta Ley y en derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
+En la integración del Consejo Consultivo se procurará garantizar los principios de igualdad y paridad de género, y la inclusión de personas con experiencia en la materia de esta Ley y en derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
 
 ###### Artículo 72.
 
@@ -2291,7 +2299,7 @@ I. Sea extemporáneo por haber transcurrido el plazo establecido en el artículo
 
 II. Se esté tramitando ante el Poder Judicial, recurso o medio de defensa interpuesto por el recurrente en contra del mismo acto y autoridad que se recurre;
 
-III. No actualice alguno de los supuestos previstos en el artículo 171 de la presente Ley;
+III. No actualice alguno de los supuestos previstos en el artículo 171 de la presente Lley;
 
 IV. No se haya desahogado la prevención en los términos establecidos en el artículo 173 de la presente Ley;
 
@@ -2608,3 +2616,15 @@ P.O. 27 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Los sujetos obligados tendrán un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, para implementar las acciones necesarias para instaurar su portal web accesible, en los términos del mismo.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 487 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones relativas a las reformas de la Ley Orgánica del Congreso del Estado de Sinaloa, entrarán en vigor a partir del momento de que sean aprobadas por el Pleno, toda vez que no requieren de promulgación por parte del Ejecutivo Estatal ni pueden ser objeto de veto en los términos del artículo 8 de dicha Ley.
+
+En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
+
+TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
