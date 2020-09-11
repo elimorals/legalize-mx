@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2020-02-21"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -89,7 +89,9 @@ IV. La libertad de las mujeres.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Acoso sexual: Forma de violencia consistente en cualquier tipo de molestia de connotación sexual hacia la mujer, valiéndose de una posición jerárquica derivada de relaciones laborales, escolares, domésticas o de cualquier otra índole que implique subordinación, sea ésta emocional, de género o psicológica;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+I. Acoso sexual: forma de violencia de connotación lasciva en la que, si bien no existe subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos;
 
 II. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas concepciones en materia de igualdad, equidad y derechos humanos de las mujeres;
 
@@ -111,7 +113,9 @@ X. Especialización: Conocimientos específicos construidos desde la perspectiva
 
 XI. Formación General: Premisas teóricas, metodológicas y conceptos fundamentales sobre la perspectiva de género que deben recibir todas y todos los servidores públicos que integran la Administración Pública, con la finalidad de incorporar esta visión al diseño, ejecución, seguimiento y evaluación de las políticas, las acciones y los programas de su competencia, así como en sus relaciones laborales;
 
-XII. Hostigamiento Sexual: Conducta o acción reiterada con fines lascivos que una persona infiere a una mujer o niña, la cual le cause molestia, miedo, terror, zozobra o angustia y que conlleva a un estado de indefensión y de riesgo para la víctima;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Hostigamiento sexual: ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral o escolar, entre otros, que se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad, de connotación lasciva;
 
 XIII. Instituto: Instituto Veracruzano de las Mujeres;
 
@@ -183,7 +187,11 @@ V. La violencia económica: Acción u omisión de la persona agresora que afecta
 
 VI. La violencia obstétrica: Apropiación del cuerpo y procesos reproductivos de las mujeres por personal de salud, que se expresa en un trato deshumanizador, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y sexualidad; se consideran como tal, omitir la atención oportuna y eficaz de las emergencias obstétricas, obligar a la mujer a parir en posición supina y con las piernas levantadas, existiendo los medios necesarios para la realización del parto vertical, obstaculizar el apego precoz del niño o niña con su madre sin causa médica justificada, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer, alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer y practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer; y
 
-VII. Cualesquiera otras que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las mujeres.
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Violencia digital. Es cualquier acto de violencia que se manifieste en acoso, hostigamiento, amenazas, insultos, violación de datos e información privada, divulgación de información apócrifa, mensajes de odio o la difusión, sin consentimiento de las mujeres, niñas o adolescentes, de contenido íntimo, textos, fotografías, videos, datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas, cometidos, instigados o agravados en parte o totalmente, y que se presenta a través de las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, sistemas de mensajería instantánea o correo electrónico, o cualquier otro espacio similar digitalizado; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres, y les cause un daño o sufrimiento psicológico, físico, económico o sexual, tanto en el ámbito privado, como en el público; así como daño moral a ellas o su familia; y
+
+VIII. Cualesquiera otras que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las mujeres.
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -297,7 +305,9 @@ II. Aplicar a la persona agresora, las medidas reeducativas, integrales, especia
 
 III. Evitar que la atención que reciban la víctima y la persona agresora sea proporcionada por el mismo personal profesional y en el mismo lugar; en ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-IV. Favorecer la separación y alejamiento de la persona agresora respecto de la víctima; y
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Favorecer la separación y alejamiento de la persona agresora respecto de la víctima, especialmente durante resguardo domiciliario dictado por autoridad competente, en caso de epidemia de carácter grave, peligro de invasión de enfermedades transmisibles, situaciones de emergencia o catástrofe; y
 
 V. Favorecer la instalación y el mantenimiento de refugios para la víctima y sus hijas e hijos.
 
@@ -365,15 +375,21 @@ V. Divulgar o revelar información personal y privada, de las mujeres electas, d
 
 VI. Presionar o inducir a las autoridades electas o designadas a presentar renuncia al cargo.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO IX. De la Violencia Digital
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 13 Nonies (sic). Los gobiernos estatal y municipales, así como las autoridades jurisdiccionales, en el ámbito de sus competencias garantizarán a las mujeres el derecho a una Vida libre de violencia digital y tomarán en consideración los daños que ésta pueda generar en las víctimas.
+
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO II. DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
-
 ## TÍTULO TERCERO. DEL SISTEMA Y DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### Artículo 14.
 
@@ -441,7 +457,7 @@ V. Las acciones conjuntas para la protección de las mujeres víctimas de violen
 
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
 
 ###### Artículo 17.
 
@@ -479,7 +495,7 @@ El Ejecutivo Estatal propondrá en el Presupuesto de Egresos, asignar una partid
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 19.
 
@@ -761,7 +777,7 @@ IV. Capacitar a su personal y a las personas integrantes de mesas directivas de 
 
 V. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### Artículo 22.
 
@@ -797,7 +813,7 @@ XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LA ATENCIÓN A LAS VÍCTIMAS, DE LOS REFUGIOS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
-### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
+### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
 ###### Artículo 23.
 
@@ -847,7 +863,7 @@ Se prohíbe someter a la víctima a mecanismos de conciliación, de mediación o
 
 La persona agresora deberá participar en los programas de reeducación integral, por mandato de autoridad competente.
 
-### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 27.
 
@@ -920,6 +936,8 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 ###### Artículo 33.
 
 Los gobiernos estatal y municipal, con la participación que corresponda de los sectores social y civil, promoverán mecanismos para otorgar los apoyos necesarios para que los refugios cumplan con su objeto.
+
+### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
 
 ###### Artículo 34.
 
@@ -1202,3 +1220,27 @@ Cuarto. Para el cumplimiento del transitorio anterior, la Fiscalía General del 
 Quinto. Las investigaciones ministeriales que actualmente conocen las Fiscalías Especializadas en la Investigación de Delitos de Violencia contra la Familia, Mujeres, Niñas y Niños y Trata de Personas, por los delitos contra niños y de trata de personas, las seguirán conociendo hasta que la Fiscalía General del Estado cree las Fiscalías necesarias para el conocimiento de estos delitos.
 
 Sexto. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 585 POR EL QUE SE REFORMAN LAS FRACCIONES I Y XII DEL ARTÍCULO 4 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 586 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 587 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
