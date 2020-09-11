@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-sistema-de-medios-de-impugnacion-en-materia-109154"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-17"
-last_updated: "2020-07-01"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SIN"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el viernes 17 de julio de 2015.
 
@@ -111,9 +111,11 @@ Todas las sesiones del Tribunal Electoral serán públicas, salvo que la ley dis
 
 Las y los Magistrados que formen parte del Tribunal Electoral, durarán siete años en su encargo y recibirán remuneración que no podrá disminuirse durante el tiempo que dure su función. Solo podrán ser privados y removidos de sus cargos por las responsabilidades que conforme a las disposiciones del Título Sexto de la Constitución y demás ordenamientos jurídicos que resulten aplicables en materia de responsabilidades de servidores públicos para el Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 8.
 
-El Tribunal Electoral se integrará con cinco Magistrados, quienes serán electos en la forma y términos que establecen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales y demás leyes y reglamentos aplicables.
+El Tribunal Electoral se integrará con cinco Magistradas y Magistrados, quienes serán electos en la forma y términos que establecen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales y demás leyes y reglamentos aplicables.
 
 ###### Artículo 9.
 
@@ -301,7 +303,9 @@ II. Calificar y resolver acerca de las excusas que presenten los Magistrados y d
 
 III. Nombrar a la o el titular de la Secretaría General a propuesta de la Presidencia, y removerlo sólo en los casos que establezca la ley;
 
-IV. Nombrar al personal integrante de cada ponencia a propuesta del magistrado correspondiente; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Nombrar al personal integrante de cada ponencia a propuesta del Magistrado correspondiente, observando el principio de paridad de género; y
 
 V. Aprobar la jurisprudencia generada por el Tribunal Electoral.
 
@@ -325,7 +329,9 @@ VII. Rendir un informe anual ante el pleno, en sesión pública, dando cuenta de
 
 VIII. Proponer al Pleno el nombramiento del titular de la Secretaría General;
 
-IX. Designar al personal necesario para el buen funcionamiento del Tribunal Electoral; y
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Designar al personal necesario para el buen funcionamiento del Tribunal Electoral, observando el principio de paridad de género; y
 
 X. Las demás que le confieran esta y otras leyes, y que sean necesarias para el correcto funcionamiento del Tribunal Electoral.
 
@@ -1802,3 +1808,15 @@ P.O. 1 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 487 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones relativas a las reformas de la Ley Orgánica del Congreso del Estado de Sinaloa, entrarán en vigor a partir del momento de que sean aprobadas por el Pleno, toda vez que no requieren de promulgación por parte del Ejecutivo Estatal ni pueden ser objeto de veto en los términos del artículo 8 de dicha Ley.
+
+En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
+
+TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
