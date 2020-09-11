@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2020-08-07"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -274,6 +274,10 @@ VII. Coadyuvar a la modificación de los patrones culturales que determinen háb
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
 
 VIII. Consolidar en el Sector Salud del Estado, en función de la disponibilidad presupuestal de este, un sistema de servicios, organización, funcionamiento y de ingeniería sanitaria de Bancos de Sangre y Plasma, así como de su transfusión mediante la expedición del Reglamento correspondiente y, en su caso las normas técnicas conducentes que para tal efecto elabore la Secretaria del Ramo, y a través de la necesaria puesta en operación por parte de la dependencia de los depósitos de Sangre funcionales y eficientes, ubicados en las localidades que así lo requieren dada su alta población de habitantes.
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Coordinar esfuerzos con los distintos sectores del Gobierno Estatal, a fin de llevar a cabo acciones que hagan frente ante cualquier epidemia, pandemia o endemia que se presente en la entidad. Al tratarse de agentes infecciosos que se propagan con rapidez entre la población, la aplicación de la presente fracción tendrá carácter de urgente.
 
 ###### Artículo 7o.
 
@@ -809,9 +813,11 @@ IV. Acciones relacionadas con educación básica, alfabetización de adultos,acc
 
 V. Las demás que coadyuven a la salud materno-infantil.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 61.
 
-En materia de higiene escolar, corresponde al Gobierno del Estado, establecer las normas técnicas para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado, las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
+En materia de higiene escolar, corresponde al Gobierno del Estado la facultad de establecer las normas técnicas para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado; las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas, así mismo, para promover programas de activación física e impulsar acciones que fomenten la alimentación nutritiva, suficiente y de calidad.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezca entre las autoridades sanitarias estatales y educativas competentes.
 
@@ -1501,9 +1507,11 @@ Tratándose de mujeres embarazadas con diagnóstico positivo de VIH y sífilis, 
 
 Los trabajadores de la salud, del Gobierno de esta Entidad Federativa y de los municipios, así como los de otras instituciones autorizadas por las autoridades sanitarias del Estado, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditadas por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 115.
 
-Quedan facultadas las autoridades sanitarias competentes para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de esta Ley y los reglamentos aplicables.
+Quedan facultadas las autoridades sanitarias competentes para utilizar como elementos auxiliares en la lucha contra las epidemias, pandemias y endemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de esta Ley y los reglamentos aplicables.
 
 ###### Artículo 116.
 
@@ -1513,9 +1521,11 @@ Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portador
 
 El aislamiento de las personas que padezcan enfermedades transmisibles se llevará a cabo en sitios adecuados a juicio de las autoridades sanitarias.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 118.
 
-Las autoridades sanitarias del Estado podrán ordenar, por causas de epidemia la clausura temporal de los locales o centros de reunión de cualquier índole.
+Las autoridades sanitarias del Estado podrán ordenar, por causas de epidemia, pandemia o endemia, la clausura temporal de los locales o centros de reunión de cualquier índole.
 
 ###### Artículo 119.
 
@@ -1981,7 +1991,9 @@ La prevención, atención, control y combate contra las adicciones, particularme
 
 Para tal efecto, la Secretaría de Salud elaborará el Programa General contra las Adicciones, y cuya ejecución corresponde a ésta, en coordinación con las dependencias y entidades competentes del Estado y los municipios.
 
-El Programa General contra las Adicciones está orientado a desalentar, disminuir y erradicar el consumo y buscar la minimización del riesgo derivado del mismo, en relación a las sustancias siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+El Programa General contra las Adicciones guardará observancia a los programes (sic) nacionales en materia de combate a las adicciones contenidos en la Ley General de Salud, a sus líneas de acción y sus directrices, y estará orientado y diseñado para desalentar, disminuir y erradicar el consumo, así como buscar la minimización del riesgo derivado del mismo, en relación a las sustancias siguientes:
 
 I. Tabaco;
 
@@ -1999,7 +2011,9 @@ V. Cualquier otra sustancia psicoactiva.
 
 Para los efectos de este Título, se entiende por:
 
-I. Adicción o dependencia: El estado psíquico y/o físico causado por una sustancia psicoactiva, estupefaciente o psicotrópica, caracterizado por causar modificaciones de comportamientos y otras reacciones, que originan siempre un impulso irreprimible por consumir dicha sustancia en forma periódica o continua, a fin de experimentar sus efectos psíquicos o físicos estimulantes o depresores, y a veces para evitar el malestar producido por la privación;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+I. Adicción o dependencia: El estado psíquico y/o físico alterado e irregular causado por el consumo habitual de tabaco, alcohol, sustancias psicoactivas, estupefacientes o psicotrópicas, que desencadena una serie de modificaciones de comportamientos y otras reacciones, y que originan siempre un impulso insaciable e irreprimible por consumir dicha sustancia de forma periódica o continua, a fin de experimentar sus efectos psíquicos o físicos inhibidores estimulantes o depresores, y a veces para evitar el malestar producido por la privación;
 
 II. Adicto o farmacodependiente: La persona que presenta algún signo o síntoma de dependencia a una o más sustancias psicoactivas, estupefacientes o psicotrópicas;
 
@@ -2041,6 +2055,10 @@ V. Implementar las bases mínimas para diseñar el contenido de políticas, prog
 
 VI. Promover y difundir acciones que ayuden a la sensibilización, prevención, recuperación y reinserción social de las personas dependientes de sustancias psicoactivas y fomenten el desarrollo del sentido social en esta materia, y
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Proteger la salud y el bienestar de la población frente al uso, consumo o adicción de sustancias psicoactivas, previniendo los riesgos que esta genera.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ### CAPÍTULO IV. PROGRAMA CONTRA LA FARMACODEPENDENCIA
@@ -2062,6 +2080,18 @@ II. La educación sobre los efectos del alcohol en la salud y en las relaciones 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el abuso de las bebidas alcohólicas, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+IV. La promoción de los servicios de prevención, detección temprana, orientación, atención, derivación, tratamiento y rehabilitación a personas y grupos de alto riesgo con uso nocivo de alcohol;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+V. La realización de campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de alcohol; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+VI. El fomento de la protección de la salud, considerando la educación, promoción de actitudes, factores de protección, habilidades y conductas que favorezcan estilos de vida activa y saludable en los individuos, la familia, la escuela, el trabajo y la comunidad.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -4078,3 +4108,21 @@ P.O. 7 DE AGOSTO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 703.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 148, LA FRACCIÓN I DEL ARTÍCULO 149; SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 149 BIS, LAS FRACCIONES IV, V Y VI AL ARTÍCULO 150, A LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 705.- SE AGREGA UNA PORCIÓN NORMATIVA A LOS ARTÍCULOS 115 Y 118, Y SE AGREGA LA FRACCIÓN IX DEL ARTÍCULO 6° DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 706.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 61 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
