@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2016-12-28"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -55,9 +55,13 @@ Esta Ley garantizará la independencia e inamovilidad de los Magistrados del Sup
 
 ### CAPITULO II. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTICULO 3.
 
-El Supremo Tribunal de Justicia tendrá su residencia en la capital del Estado, se integrará por once Magistrados y funcionará en Pleno o en Salas. Uno de los Magistrados será el Presidente del Supremo Tribunal de Justicia y no integrará Sala durante su encargo. Habrá además cinco Magistrados Suplentes, quienes sólo integrarán el Pleno o las Salas cuando sustituyan a un Magistrado Titular, los cuales serán electos de entre los Magistrados de Circuito y Jueces de Primera Instancia del Estado, que cubriendo los requisitos previstos en el artículo 96 de la Constitución Política Local cuenten, además, con una antigüedad ininterrumpida de cinco años en el ejercicio del cargo.
+El Supremo Tribunal de Justicia tendrá su residencia en la capital del Estado, se integrará por once Magistradas y Magistrados y funcionará en Pleno o en Salas. Una de las Magistradas o Magistrados será el titular de la presidencia del Supremo Tribunal de Justicia y no integrará Sala durante su encargo. Habrá además cinco Magistradas y Magistrados Suplentes, quienes solo integrarán el Pleno o las Salas cuando sustituyan a un titular de la Magistratura, los cuales serán electos de entre las Magistradas y Magistrados de Circuito y Juezas y Jueces de Primera Instancia del Estado, que cubriendo los requisitos previstos en el artículo 96 de la Constitución Política Local cuenten, además, con una antigüedad ininterrumpida de cinco años de ejercicio en el cargo.
+
+En la integración del Supremo Tribunal de Justicia se deberá observar el principio de paridad de género.
 
 ###### ARTICULO 4.
 
@@ -299,9 +303,13 @@ La Presidencia del Supremo Tribunal de Justicia contará con el auxilio de un Se
 
 ### CAPITULO VI. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTICULO 23.
 
-El Supremo Tribunal de Justicia funcionará con cuatro Salas, tres de ellas estarán integradas por tres Magistrados cada una, y la cuarta será unitaria.
+El Supremo Tribunal de Justicia funcionará con cuatro Salas, tres de ellas estarán integradas por tres Magistraturas cada una, que no podrán ser del mismo género; y la cuarta será unitaria.
+
+Para la integración de las Salas se deberá observar el principio de paridad de género.
 
 ###### ARTICULO 24.
 
@@ -469,9 +477,11 @@ Las Salas de Circuito serán competentes para conocer de los recursos que proced
 
 El número de Salas de Circuito, su circunscripción territorial, composición y competencia serán fijados por el Pleno del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTICULO 38.
 
-Los Magistrados de Circuito serán nombrados por el Pleno del Supremo Tribunal de Justicia, preferentemente entre quienes hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que así lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, debiendo reunir los siguientes requisitos:
+Las personas titulares de las Magistraturas de Circuito serán nombradas por el Pleno del Supremo Tribunal de Justicia, atendiendo al principio de paridad de género, preferentemente entre quienes hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que así lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, debiendo reunir los siguientes requisitos:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
@@ -604,6 +614,10 @@ Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno e
 En tanto se realiza el concurso de selección correspondiente, el Pleno del Supremo Tribunal de Justicia podrá nombrar a quien cubra provisionalmente la vacante de Juez de Primera Instancia de entre quienes laboran en el Poder Judicial y que reúnan los requisitos previstos en el párrafo anterior.
 
 En el nombramiento y promoción de los Jueces, se tendrá en consideración preferentemente a quienes estén prestando sus servicios con eficiencia y probidad en el Poder Judicial. Igual prevención se observará, estando los aspirantes en igualdad de circunstancias, en el caso de los Secretarios y Actuarios.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Además, para la integración de los órganos jurisdiccionales, se establecerá la forma y procedimientos mediante concursos abiertos para su integración, observando el principio de paridad de género.
 
 ###### ARTICULO 50.
 
@@ -1486,3 +1500,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 487 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSFERENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones relativas a las reformas de la Ley Orgánica del Congreso del Estado de Sinaloa, entrarán en vigor a partir del momento de que sean aprobadas por el Pleno, toda vez que no requieren de promulgación por parte del Ejecutivo Estatal ni pueden ser objeto de veto en los términos del artículo 8 de dicha Ley.
+
+En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
+
+TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
