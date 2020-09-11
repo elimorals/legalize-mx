@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-igualdad-de-derechos-y-oportunidades-entre-mujeres-y-912
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-16"
-last_updated: "2019-04-10"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de enero del 2013.
 
@@ -493,9 +493,19 @@ c) La aplicación de procesos igualitarios en la selección del personal, contem
 
 d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
 
-IX. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-X. Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece este artículo.
+IX. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+X. Promover el uso, goce y disfrute de la tierra y la participación, en el desarrollo rural, de las mujeres y hombres en igualdad de oportunidades;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Implementar y promover mediante mecanismos que otorgue el Estado, la participación de las mujeres y hombres en igualdad de oportunidades en materia agraria, y
+
+XII. Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece este artículo.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA IGUALITARIA DE LAS MUJERES Y LOS HOMBRES
 
@@ -726,3 +736,13 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS CUARENTA Y UNO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES EN EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
