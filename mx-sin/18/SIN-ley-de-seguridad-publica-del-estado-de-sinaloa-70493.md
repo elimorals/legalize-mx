@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2020-01-20"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -1265,7 +1265,9 @@ IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 Para la designación de los representantes el Presidente del Consejo Estatal, convocará a las organizaciones de la sociedad para el efecto de que proporcionen el nombre de las personas que consideren deban ser tomadas en cuenta.
 
-La Coordinación General del Consejo Estatal deberá contar con la participación de la mujer.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+La Coordinación General del Consejo Estatal, para su composición deberá observar el principio de paridad de género.
 
 De las propuestas que realicen las organizaciones, el Presidente del Consejo Estatal, hará la designación de los representantes de la sociedad.
 
@@ -4096,3 +4098,15 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. En el caso de que los integrantes de las corporaciones policiales estatales y municipales de seguridad pública fallezcan por causas de muerte natural o que no tengan relación con el cumplimiento de su deber serán tratadas conforme a la tabla establecida en el artículo 42 de esta Ley, y quienes fallezcan por riesgo de trabajo tendrán derecho a una pensión que consistirá en el equivalente al cien por ciento del salario que estén devengando al momento de ocurrir el deceso.
 
 CUARTO. Por única ocasión los pensionados de las corporaciones policiales estatales y municipales de seguridad pública o, en su caso los beneficiarios que se encuentren recibiendo una pensión de homologación a los activos al momento de la entrada en vigor de la presente reforma, tienen el derecho a elegir entre la actualización anual correspondiente al Índice Nacional de Precios al Consumidor, considerando para tal efecto el correspondiente al mes de enero de cada año, más el uno por ciento; o bien recibir los incrementos salariales y prestaciones económicas en los mismos términos en que los reciban los agentes en activo de acuerdo con la plaza y categoría, lo cual deberán manifestarlo por escrito ante la autoridad competente en un plazo no mayor a ciento ochenta días contados a partir del día siguiente en que entre en vigor el presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 487 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSFERENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones relativas a las reformas de la Ley Orgánica del Congreso del Estado de Sinaloa, entrarán en vigor a partir del momento de que sean aprobadas por el Pleno, toda vez que no requieren de promulgación por parte del Ejecutivo Estatal ni pueden ser objeto de veto en los términos del artículo 8 de dicha Ley.
+
+En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
+
+TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
