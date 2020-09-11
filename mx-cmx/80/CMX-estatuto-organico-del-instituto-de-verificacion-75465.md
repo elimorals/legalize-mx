@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-verificacion-75465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-01"
-last_updated: "2017-11-30"
+last_updated: "2020-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2010-06-22"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 11 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL, ORGANISMO PÚBLICO DESCENTRALIZADO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de julio de 2010.
 
@@ -1329,3 +1331,31 @@ G.O. 30 DE NOVIEMBRE DE 2017.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación.
+
+G.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Estatuto entrará en vigor a partir del día 16 de septiembre de 2020.
+
+TERCERO.- Se abroga el Estatuto Orgánico del Instituto de Verificación Administrativa del Distrito Federal, Organismo Público Descentralizado, publicado en la Gaceta Oficial del Distrito Federal el 01 de julio de 2010.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan al presente Estatuto.
+
+QUINTO.- Las designaciones, así como los asuntos que a la fecha de entrada en vigor del presente Estatuto se encuentren en trámite en la Coordinación Jurídica y de Servicios Legales, la Coordinación de Substanciación de Procedimientos, la Coordinación de Verificación Administrativa y la Coordinación de Verificación al Transporte, corresponderán y serán atendidos por las Direcciones Ejecutivas respectivas, conforme a lo dispuesto en este Estatuto.
+
+SEXTO.- Las designaciones, así como los asuntos que a la entrada en vigor del presente Estatuto se encuentren en trámite en la Coordinación de Administración y Desarrollo Tecnológico, corresponderán y serán atendidos por la Dirección de Administración y Finanzas, conforme a lo dispuesto en este Estatuto.
+
+SÉPTIMO.- El Instituto deberá actualizar sus Manuales de Organización y Procedimientos conforme a las disposiciones jurídicas y administrativas aplicables.
+
+OCTAVO.- Las unidades administrativas y las unidades administrativas de apoyo técnico-operativo que conforme a este Estatuto, asumen atribuciones que anteriormente correspondían a otras, llevarán a cabo las actas de entrega-recepción que correspondan, conforme a las disposiciones jurídicas y administrativas aplicables.
+
+NOVENO.- La representación legal que tenía (sic) reconocida las personas titulares de la Coordinación Jurídica y de Servicios Legales, de la Dirección de lo Contencioso y Amparo, de la Coordinación de Administración y Desarrollo Tecnológico y de la Dirección de Administración, en los juicios, procedimientos y trámites en proceso a la fecha de entrada en vigor de este Estatuto, serán asumidas de la siguiente forma:
+
+I. De la persona titular de la Coordinación Jurídica y de Servicios Legales por la persona titular de la Dirección Ejecutiva de Asuntos Jurídicos y Servicios Legales;
+
+II. De la persona titular de la Dirección de lo Contencioso y Amparo por la persona titular de la Dirección de Asuntos Jurídicos, y
+
+III. De la persona titular de la Coordinación de Administración y Desarrollo Tecnológico y de la Dirección de Administración por la persona titular de la Dirección de Administración y Finanzas.
