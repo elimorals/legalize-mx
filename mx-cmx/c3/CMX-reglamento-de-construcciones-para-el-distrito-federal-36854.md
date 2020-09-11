@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2019-07-26"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -1192,11 +1192,21 @@ f) Instalación o construcción de cisternas, fosas sépticas o albañales;
 
 II. Manifestación de construcción tipo B.
 
-Para usos no habitacionales o mixtos de hasta 5,000 m2 o hasta 10,000 m2 con uso habitacional, salvo lo señalado en la fracción anterior, y
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Para usos no habitacionales o mixtos de hasta 5,000 m2 o hasta 10,000 m2 con uso habitacional, salvo lo señalado en la fracción anterior.
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Se consideran dentro de este tipo los proyectos con uso habitacional de hasta 10,000 metros cuadrados de construcción destinados a la vivienda de interés social, popular o desarrollada en el marco de programas del Gobierno Federal o del Gobierno de la Ciudad de México con comercio o servicios de bajo impacto, siempre que se encuentren en planta baja o semi sótano y no ocupen más del 10% de la construcción; y
 
 III. Manifestación de construcción tipo C.
 
 Para usos no habitacionales o mixtos de más de 5,000 m2 o más de 10,000 m2 con uso habitacional, o construcciones que requieran de dictamen de impacto urbano o impacto urbano-ambiental.
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Se consideran dentro de este tipo los proyectos con uso habitacional con más de 10,000 metros cuadrados de construcción, destinados a la vivienda de interés social, popular o desarrollada en el marco de programas del Gobierno Federal o del Gobierno de la Ciudad de México con comercio o servicios de bajo impacto, siempre que se encuentren en planta baja o semi sótano y no ocupen más del 10% de la construcción.
 
 ###### ARTÍCULO 52.
 
@@ -1347,6 +1357,10 @@ Por cada manifestación de construcción podrán otorgarse hasta dos prórrogas 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 El propietario o poseedor debe informar a la Administración de la conclusión de los trabajos, dentro de los 15 días siguientes como se indica en el artículo 65 de este Reglamento.
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+En el caso de proyectos destinados a la vivienda de interés social, popular o desarrollada en el marco de programas del Gobierno Federal o del Gobierno de la Ciudad de México, el registro de manifestación de construcción tendrá la vigencia que dure la obra, siempre y cuando no se modifique el proyecto ejecutivo por el que se haya otorgado.
 
 ### CAPÍTULO II. DE LAS LICENCIAS DE CONSTRUCCIÓN ESPECIAL
 
@@ -3825,3 +3839,11 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de M
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Se establece un plazo máximo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto para que sean publicados los Lineamientos para la Revisión de la Seguridad Estructural de Planteles Escolares en la Ciudad de México después de un sismo.
+
+G.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL Y AL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, PARA FAVORECER EL COMERCIO DE BARRIO EN LA VIVIENDA CONSTRUIDA EN EL MARCO DE PROGRAMAS GUBERNAMENTALES".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
