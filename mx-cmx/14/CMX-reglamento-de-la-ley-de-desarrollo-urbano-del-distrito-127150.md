@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-127150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-15"
-last_updated: "2020-07-22"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127150&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-05"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 15 de marzo de 2018.
 
@@ -1052,11 +1052,15 @@ Se requiere dictamen de impacto urbano o impacto urbano ambiental positivo para 
 
 A) Dictamen de impacto urbano y/o impacto urbano ambiental, cuando se pretendan ejecutar:
 
-I. Proyectos de vivienda con más de 10,000 metros cuadrados de construcción;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+I. Proyectos de vivienda con más de 10,000 metros cuadrados de construcción, considerando los destinados a la vivienda de interés social, popular o desarrollada en el marco de programas del Gobierno Federal o del Gobierno de la Ciudad de México con comercio o servicios de bajo impacto incluidos en el registro de manifestación tipo C;
 
 II. Proyectos de oficinas, comercios, servicios, industria o equipamiento con más de 5,000 metros cuadrados de construcción;
 
-III. Proyectos de usos mixtos (habitacional, comercio, servicios o equipamiento) con más de 5,000 metros cuadrados de construcción; y
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+III. Proyectos de usos mixtos (habitacional, comercio, servicios o equipamiento) con más de 5,000 metros cuadrados de construcción, con excepción de los destinados a la vivienda de interés social, popular o desarrollada en el marco de programas del Gobierno Federal o del Gobierno de la Ciudad de México con comercio o servicios de bajo impacto incluidos en el registro de manifestación tipo B; y
 
 IV. Proyectos donde aplique la Norma de Ordenación General número 10.
 
@@ -1110,6 +1114,20 @@ III. Para prórroga de dictamen de impacto urbano. Deberá presentarse ante la S
 
 En su caso, presentar el Reporte de Avance del Cumplimiento de Medidas de Integración Urbana, conforme a su Programa de Ejecución en relación al avance de obra, considerando las acciones necesarias en materia de movilidad, protección civil, reforzamientos hidráulicos, de mejoramiento del entorno urbano y servicios urbanos suficientes, para la integración del proyecto a su entorno urbano inmediato, además de cubrir los requisitos que señalen los Lineamientos Técnicos correspondientes.
 
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 88 Bis.
+
+Para solicitar dictamen de impacto urbano para construcciones de más de 10,000 metros cuadrados destinadas a vivienda de interés social, popular o desarrollada en el marco de programas del Gobierno Federal o del Gobierno de la Ciudad de México, con o sin comercio de bajo impacto, se deben presentar los siguientes documentos:
+
+I. Documento expedido por el organismo responsable del programa federal o local de que se trate, indicando que el proyecto forma parte de éste;
+
+II. Estudio de impacto urbano debidamente suscrito y avalado por un Perito en Desarrollo Urbano, el cual deberá contener los mismos elementos señalados en el artículo 88 fracción I de este Reglamento, y
+
+III. Documento que garantice el cumplimiento de las medidas de integración dictadas suscrito por autoridad competente, en caso de que vayan a ser ejecutadas por algún organismo público, en cuyo caso no podrá superar el ejercicio fiscal del año siguiente a aquel en que se concluya la construcción.
+
+El dictamen de impacto urbano expedido tendrá la vigencia que dure la ejecución de la obra motivo de su expedición.
+
 ###### Artículo 89.
 
 Para solicitar dictamen de impacto urbano para los Sistemas de Actuación por Cooperación, su modificación o prórroga, el propietario además de cumplir con los requisitos dispuestos en la normatividad, deberá presentar lo siguiente:
@@ -1162,7 +1180,9 @@ Emitido el dictamen, cualquier modificación que el interesado pretenda realizar
 
 Para la emisión del dictamen de impacto urbano o urbano ambiental, la Secretaría debe considerar:
 
-I. La información contenida en el estudio de impacto urbano o urbano ambiental, complementos y anexos presentados y la ingresada por el solicitante, de acuerdo con lo establecido en el artículo 88 del Reglamento;
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+I. La información contenida en el estudio de impacto urbano o urbano ambiental, complementos y anexos presentados y la ingresada por el solicitante, de acuerdo con lo establecido en los artículos 88, 88 Bis y 89 de este Reglamento;
 
 II. Los ordenamientos aplicables;
 
@@ -1218,9 +1238,11 @@ En caso de no cumplir con la publicación el dictamen del estudio de impacto urb
 
 El interesado deberá rendir un informe al menos cada tres meses ante la Secretaría sobre el cumplimiento de las medidas de integración y condiciones impuestas en el dictamen de estudio de impacto urbano positivo o dictamen de impacto urbano ambiental positivo, los cuales deberán estar avalados por el Perito en Desarrollo Urbano que suscribió el estudio de impacto urbano dictaminado; en caso de incumplimiento, la Secretaría por conducto de la Dirección General de Administración Urbana notificará del incumplimiento al Instituto de Verificación Administrativa del Distrito Federal y al Órgano Político Administrativo correspondiente, para que de ser procedente, inicien el procedimiento de verificación en el ámbito de su respectiva competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 98.
 
-El dictamen tendrá una vigencia de dos años contados a partir de la fecha de su notificación. Si el anteproyecto no hubiera sido modificado y no hubiera cambiado la situación del entorno urbano de la zona en donde se pretenda ubicar, la Secretaría podrá prorrogar el dictamen por dos años más, hasta en dos ocasiones.
+El dictamen tendrá una vigencia de dos años contados a partir de la fecha de su notificación, con excepción del dictamen expedido conforme al artículo 88 Bis. Si el anteproyecto no hubiera sido modificado y no hubiera cambiado la situación del entorno urbano de la zona en donde se pretenda ubicar, la Secretaría podrá prorrogar el dictamen por dos años más, hasta en dos ocasiones.
 
 El propietario podrá solicitar la prórroga o modificación del dictamen de estudio de impacto urbano o impacto urbano ambiental ante el Área de Atención Ciudadana de la Secretaría dentro de los 30 días previos a la conclusión de la vigencia del dictamen.
 
@@ -1231,6 +1253,10 @@ En caso de haberse efectuado el registro de manifestación de construcción al a
 La Secretaría podrá emitir oficio de liberación de medidas de integración urbana, cuando éstas hayan sido realizadas, documentadas y validadas por las dependencias, y se concluya la transmisión a título gratuito al Gobierno de la Ciudad de México del dominio del porcentaje de la superficie del terreno a que se refiere la Ley y el presente Reglamento.
 
 En su caso, el interesado podrá proponer a la Secretaría un programa de cumplimiento de medidas de integración en donde se establezca la correspondencia entre el avance de la obra sujeta a estudio de impacto urbano y la realización de las obras correspondientes a las medidas de integración. En esos casos, el interesado podrá solicitar la liberación de medidas de integración urbana por etapas, para realizar lo conducente ante el Órgano Político Administrativo, siempre y cuando existan en el expediente radicado en la Dirección General de Administración Urbana elementos que comprueben el estricto cumplimiento de dicho programa.
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+En el caso del dictamen expedido conforme al artículo 88 Bis, la liberación se realizará conforme al documento que garantice el cumplimiento de las medidas de integración.
 
 #### SECCIÓN QUINTA. DE LA EVALUACIÓN DEL IMPACTO URBANO AMBIENTAL Y DE MOVILIDAD
 
@@ -2449,3 +2475,11 @@ G.O. 22 DE JULIO DE 2020.
 Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL Y AL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, PARA FAVORECER EL COMERCIO DE BARRIO EN LA VIVIENDA CONSTRUIDA EN EL MARCO DE PROGRAMAS GUBERNAMENTALES”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
