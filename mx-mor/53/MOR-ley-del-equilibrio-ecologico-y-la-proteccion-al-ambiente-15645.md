@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2020-01-17"
+last_updated: "2020-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -2207,33 +2207,37 @@ La Secretaría, con los municipios y el Consejo Consultivo Estatal de Desarrollo
 
 La contaminación visual provocada por publicidad comercial y de servicios será regulada bajo las disposiciones establecidas por cada municipio y tomando en cuenta los criterios establecidos en esta Ley.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 160 Ter.
-
-con (sic) el fin de evitar la contaminación visual, los municipios solo otorgaran licencias para la ubicación, instalación, distancia y colocación de anuncios o elementos visibles desde la vía pública, cuando:
+ARTÍCULO 160 TER.- Con el fin de evitar la contaminación visual, los municipios solo otorgaran licencias para la ubicación, instalación, distancia y colocación de anuncios o elementos visibles desde la vía pública, cuando:
 
 I.- Estén en armonía con las características de la estética e imagen urbana o conforme a las normas ambientales estatales que correspondan;
 
-II.- Se ubiquen en zonas o áreas permitidas conforme al plan de desarrollo urbano correspondiente; y
+II.- Se ubiquen en zonas o áreas permitidas conforme al plan de desarrollo urbano correspondiente, y
 
 III.- Se cumpla con la normatividad aplicable en materia urbanística.
 
-Queda prohibida la instalación de anuncios o elementos visibles, en los siguientes casos.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-I.- En áreas naturales protegidas o en zonas clasificadas como habitacionales;
+ARTÍCULO 160 QUÁTER.- Queda prohibida la instalación y colocación de anuncios o elementos visibles, en los siguientes casos.
 
-II.- En sitios y monumentos considerados de patrimonio histórico, arquitectónico o cultural;
+I. En áreas naturales protegidas o en zonas clasificadas como habitacionales;
 
-III.- Cuando afecten o impacten nocivamente el paisaje natural o urbano;
+II. En sitios y monumentos considerados de patrimonio histórico, arquitectónico o cultural;
 
-IV.- Cuando ocasionen riesgo o peligro para la población;
+III. Cuando afecten o impacten nocivamente el paisaje natural o urbano;
 
-V.- Cuando obstruyan la visibilidad en túneles puentes, pasos a desnivel vialidades o señalamientos de tránsito; o
+IV. Cuando ocasionen riesgo o peligro para la población;
 
-VI.- Contravengan esta Ley u otros ordenamientos aplicables a la materia.
+V. Cuando obstruyan la visibilidad en túneles puentes, pasos a desnivel vialidades o señalamientos de tránsito;
 
-Los municipios deberán incorporar en sus bandos de policía y gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual procurando crear una imagen armónica de los centros de población.
+VI. Cuando dichos anuncios o elementos visibles publiciten y muestren contenido sexista, ofensivo, degradante, de desprecio o falta de respeto hacia las mujeres, así como expresiones y estereotipos que denoten, atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de aversión y que construyan patrones socioculturales reproductores de la desigualdad, discriminación y violencia contra las mujeres;
+
+Se entiende como publicidad sexista, aquella que exprese una actitud discriminatoria, que infravalore a las personas del sexo opuesto y que haga distinción de las personas según su sexo, y
+
+VII. Cuando contravengan esta Ley u otros ordenamientos aplicables a la materia.
+
+Los Municipios deberán incorporar en sus bandos de policía y gobierno reglamentos y disposiciones que regulen de forma estricta los términos de las prohibiciones mencionadas en las fracciones del presente artículo, así como las obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual, procurando crear una imagen armónica de los centros de población y en atención a los principios de una cultura libre de violencia simbólica y mediática.
 
 ### CAPÍTULO VIII. Prevención y control de emergencias ecológicas y contingencias ambientales
 
@@ -3058,3 +3062,15 @@ CUARTO.- La Secretaría de Desarrollo Sustentable del Gobierno del estado de Mor
 QUNTO.- La Secretaría y los Municipios, a partir de la entrada en vigor del presente Decreto, deberán establecer campañas permanentes de difusión, a fin de que toda la población conozca de la importancia en la migración de hábitos y costumbres para combatir el cambio climático.
 
 SEXTO.- A partir de que sean aplicables las prohibiciones establecidas en el presente Decreto, los Municipios deberán inspeccionar y vigilar el cumplimiento de las disposiciones normativas para combatir el cambio climático, pudiendo imponer las sanciones administrativas y pecuniarias a quienes no cumplan con la reglamentación en la materia.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUATRO QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 20 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 117 DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS; SE REFORMA EL ARTÍCULO 160 TER Y SE ADICIONA EL ARTÍCULO 160 QUÁTER, AMBOS A LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto remítase al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al siguiente Decreto.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
