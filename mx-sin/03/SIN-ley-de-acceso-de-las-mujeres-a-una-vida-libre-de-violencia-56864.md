@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2020-07-01"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -147,7 +147,17 @@ XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujere
 
 XVIII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y,
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XIX Bis. Alerta Alba: Mecanismo de comunicación que la Fiscalía Especializado (sic) en Desaparición Forzada de Personas realiza, a las autoridades, órganos e instituciones federales, estatales y municipales ante la desaparición o no localización de niñas y/o mujeres, solicitando la coordinación y colaboración, para que en el ámbitos (sic) de sus respectivas atribuciones y competencias, se lleve a cabo la búsqueda, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XIX Bis A. Protocolo Alba: Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en Caso de Desaparición o No Localización de Niñas y Mujeres;
 
 XX. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
 
@@ -465,7 +475,7 @@ XIII. El Instituto Electoral del Estado de Sinaloa.
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO I. DE LAS ÓRDENES DE PROTECCIÓN
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -505,7 +515,107 @@ XIV. Diseñar un modelo integral de atención a los derechos humanos y ciudadan�
 
 La Secretaría General de Gobierno procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana sociales en la formulación, ejecución y evaluación del Programa Estatal.
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+### CAPÍTULO II. DEL PROTOCOLO ALBA
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 50 Bis A. El Protocolo Alba es el mecanismo institucional que fija las directrices, reglas y lineamientos de actuación homologada en la búsqueda e investigación, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 50 Bis B. El Protocolo Alba tendrá como objetivo instrumentar y aplicar estrategias y acciones para realizar la búsqueda e investigación, para la localización de niñas y mujeres que hayan sido reportadas corno desaparecidas o no localizadas, de manera inmediata, exhaustiva, continua, especializada, con perspectiva de género, transversalidad y respeto a los derechos humanos, mediante la colaboración coordinada de las autoridades de los tres órdenes de gobierno y niveles de la estructura Institucional.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 50 Bis C. La autoridad a quien corresponderá dar inicio del expediente por la desaparición o no localización de una niña o mujer y la activación de la Alerta Alba, será a la Fiscalía General del Estado de Sinaloa, a través de la Fiscalía Especializada en Desaparición Forzada de Personas.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 50 Bis D. Para efectos de atender las Alertas Alba, deberá conformarse un Grupo Técnico de Coordinación y Colaboración, integrado por las distintas instancias públicas y/o de autoridad, identificadas de manera enunciativa más no limitativa, que en sus respectivos ámbitos de competencia realizan o puedan realizar acciones de búsqueda de manera coordinada ante la denuncia, reporte o noticia de la desaparición o no localización de una niña, adolescente o mujer, y/o ante el aviso o notificación que al respecto les formule la Fiscalía Especializada en Desaparición Forzada de Personas, así como aportar información que pueda ser útil para la investigación.
+
+El Grupo Técnico tendrá como propósito fundamental establecer la integración, participación, colaboración y coordinación de las diferentes instancias y órganos de gobierno federal, estatal y municipal, ante una denuncia, reporte o noticia sobre la desaparición o no localización de una niña o mujer, a efecto de delinear, homogenizar y direccionar la acción interinstitucional.
+
+La Fiscalía General del Estado, invitará como integrantes permanentes del Grupo Técnico a las siguientes autoridades:
+
+A. Autoridades Estatales:
+
+I. Secretaría General de Gobierno;
+
+II. Secretaría de Seguridad Pública;
+
+III. Secretaría de Salud;
+
+IV. Secretaría de Turismo;
+
+V. Secretaría de Desarrollo Social;
+
+VI. Secretaría de Economía;
+
+VII. Secretaría de Educación Pública y Cultura;
+
+VIII. Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, a través del Centro de Justicia para Mujeres del Estado de Sinaloa;
+
+IX. Instituto Sinaloense de las Mujeres;
+
+X. Sistema Estatal para el Desarrollo Integral de la Familia;
+
+XI. Comisión Estatal de Búsqueda de Personas;
+
+XII. Instituto Estatal de Protección Civil;
+
+XIII. Comisión Estatal de los Derechos Humanos;
+
+XIV. Comisión Estatal de Atención Integral a Víctimas;
+
+XV. Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
+
+XVI. Dirección de Vialidad y Transportes, de la Subsecretaría de Gobierno de la Secretaría General de Gobierno;
+
+XVII. Dirección de Inspección y Normatividad de la Subsecretaría de Normatividad e Información Registral de la Secretaría General de Gobierno; y
+
+XVIII. Las demás que resulten necesarias para la aplicación del presente Protocolo.
+
+B. Autoridades Federales:
+
+I. Fiscalía General de la República;
+
+II. Secretaría de Marina;
+
+III. Secretaría de la Defensa Nacional;
+
+IV. Secretaría de Seguridad y Protección Ciudadana;
+
+V. Secretaría de Gobernación;
+
+VI. Secretaría de Comunicaciones y Transportes;
+
+VII. Secretaría de Relaciones Exteriores; y
+
+VIII. Instituto Nacional de Migración.
+
+C. Autoridades Municipales:
+
+I. Secretarías y/o Direcciones de Seguridad Pública y Tránsito;
+
+II. Sistemas para el Desarrollo Integral de la (sic) Familia Municipales; e
+
+III. Institutos, Direcciones o áreas encargadas de las Mujeres en los Municipios.
+
+Se procurará que las responsabilidades que cada una de las autoridades y órganos asuman, sean cuando menos las que se les señalen en el apartado correspondiente del Protocolo Alba que emita la Fiscalía General del Estado para tal efecto, para lo cual la Fiscalía General del Estado solicitará la designación de un enlace por cada uno (sic) de las autoridades que conforman el Grupo Técnico de Coordinación y Colaboración.
+
+Se procurará además la participación de la sociedad civil, particularmente de los medios de comunicación, comercio organizado y cualquier otra organización o persona que se considere de utilidad para efecto de solicitar su colaboración en la difusión de la ficha de búsqueda, recopilación de datos que puedan ser útiles u otras formas que abonen a los fines del presente instrumento.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 50 Bis E. La operatividad del Protocolo Alba constará de fases, y acciones específicas, mismas que se desarrollarán en el Protocolo que expida la Fiscalía General del Estado de Sinaloa para tal efecto.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 50 Bis F. El Protocolo Alba se activa desde el momento que se tenga conocimiento, ya sea por denuncia, noticia o reporte sobre la desaparición o no localización de una niña o mujer; y se desactiva con la localización de la niña o mujer a la que se busca, ya sea con vida o sin vida, de conformidad con las consideraciones que incluya el Protocolo que emita la Fiscalía General del Estado para tal efecto.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 50 Bis G. Las autoridades y órganos que se involucren, en el ámbito de sus respectivas competencias deberán contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas, asegurando los recursos económicos, logísticos, científicos o de cualquier otra índole que garantice el éxito de la búsqueda.
 
 ###### Artículo 30.
 
@@ -809,7 +919,9 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 ## TÍTULO CUARTO. DE LAS MEDIDAS DE PROTECCIÓN
 
-### CAPÍTULO II. DE LOS REFUGIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### Artículo 42.
 
@@ -958,6 +1070,10 @@ Las personas mayores de doce años de edad podrán solicitar a las autoridades c
 ###### Artículo 50 Bis.
 
 La Fiscalía General y el Poder Judicial actuarán conforme al Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO II. DE LOS REFUGIOS
 
 ## TÍTULO QUINTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
@@ -1148,3 +1264,19 @@ P.O. 1 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 502 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del presente Decreto la Fiscalía General del Estado, actualizará en lo que corresponda el Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en caso de Desaparición o no Localización de Niñas y Mujeres publicado en el Periódico Oficial "El Estado de Sinaloa" No.152 de fecha 16 de diciembre de 2019, considerando la integración del Grupo Técnico a que hace referencia dicho Protocolo.
