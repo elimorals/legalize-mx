@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2019-12-25"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -561,7 +561,7 @@ Una vez verificado el quórum legal, y rendida la protesta por parte de los miem
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
-“Queda legítimamente instalado el Ayuntamiento del Municipio de que deberá funcionar durante del (sic) período…”.
+"Queda legítimamente instalado el Ayuntamiento del Municipio de que deberá funcionar durante del (sic) período.".
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
 
@@ -667,9 +667,9 @@ t) Igualdad y Equidad de Género;
 
 u) Asuntos de la Juventud;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-v) Transparencia y Protección de Datos Personales, Rendición de Cuentas y Combate a la corrupción;
+v) Transparencia, y Protección de Datos Personales, Rendición de Cuentas, Combate a la corrupción, y Archivos;
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
@@ -1239,7 +1239,9 @@ XXXI. Proponer al Ayuntamiento la creación o supresión de organismos descentra
 
 XXXII. Delegar en sus subalternos, dependencias o áreas administrativas del Ayuntamiento las atribuciones que esta Ley y el Reglamento Interior determinen como delegables;
 
-XXXIII. Enviar la terna para la designación del Juez de Paz al Consejo de la Judicatura del Estado, tal como lo dispone la Ley Orgánica del Poder Judicial;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Enviar la terna para la designación del Juez de Paz a la Junta de Administración, Vigilancia y Disciplina del Poder Judicial.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE ENERO DE 2014)</small>
 
@@ -1343,11 +1345,33 @@ VIII. Vigilar que los ingresos del Municipio y las multas que impongan las autor
 
 IX. Regularizar la propiedad de los bienes inmuebles municipales y solicitar su inscripción en el Instituto de Servicios Registrales y Catastrales del Estado de Morelos; y
 
-X. Admitir, substanciar y resolver los recursos administrativos que sean de su competencia.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+X. Admitir, substanciar y resolver los recursos administrativos que sean de su competencia;
 
-XI.- Verificar que las cuentas públicas del Municipio, se remitan oportunamente a la Entidad Superior de Auditoria y Fiscalización del Congreso del Estado y que los integrantes del Cabildo, firmen todos los anexos de las mismas, como las nóminas que sean aprobadas en las sesiones del Ayuntamiento.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Verificar que las cuentas públicas del Municipio, se remitan oportunamente a la Entidad Superior de Auditoria y Fiscalización del Congreso del Estado y que los integrantes del Cabildo, firmen todos los anexos de las mismas, como las nóminas que sean aprobadas en las sesiones del Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Contar con recursos humanos, materiales y financieros suficientes para cumplir con eficacia y eficiencia las funciones conferidas por la presente Ley.
+
+A efecto de lo anterior el Cabildo y en su caso Concejo Municipal, deberá prever los recursos necesarios en el Presupuesto de Egresos Municipal respectivo;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Nombrar y remover libremente al personal que le haya sido designado para el cumplimiento y desarrollo de las atribuciones que contempla el presente artículo.
+
+Lo dispuesto en la presente fracción estará sujeto a la disponibilidad presupuestaria del respectivo ejercicio fiscal;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Solicitar información a las y los titulares de las estructuras administrativas municipales que prevé el artículo 75 de la presente Ley, necesaria para el desarrollo de las atribuciones que contempla el presente artículo, información que deberá ser proporcionada en breve término contado a partir de recibida la solicitud. En caso de no tener respuesta, la persona titular de la Sindicatura deberá levantar acta circunstanciada, la cual formará parte del informe, para que el Ayuntamiento y Contraloría Municipal, determine las responsabilidades correspondientes, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Las demás que esta ley, los reglamentos y otros ordenamientos señalen.
 
 ###### Artículo 46.
 
@@ -1377,7 +1401,9 @@ I. Asistir puntualmente a las sesiones de Cabildo ordinarias, extraordinarias y 
 
 II. Proponer al Ayuntamiento los proyectos de reglamentos municipales, la modificación o actualización de los ya existentes, incorporando en todo momento la perspectiva de género;
 
-III. Vigilar la rama de la administración municipal que les haya sido encomendada, informando periódicamente al Ayuntamiento de sus gestiones, así como de aquellas que le designe en forma directa el Presidente Municipal;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+III. Vigilar la rama de la administración municipal que les haya sido encomendada, informando periódicamente al Ayuntamiento de sus gestiones, así como de aquellas que le designe en forma directa el Presidente Municipal; para tal efecto podrá solicitar información a las y los titulares de la Administración Municipal, la cual deberá ser proporcionada en breve término contado a partir de recibida la solicitud. En caso de no tener respuesta, la persona titular de la Regiduría deberá levantar acta circunstanciada la cual formará parte del informe que presentará al Ayuntamiento y Controlaría Municipal para que determinen las responsabilidades correspondientes;
 
 IV. Proponer al Ayuntamiento alternativas de solución para la debida atención al ramo de la administración municipal que les corresponda;
 
@@ -1389,9 +1415,23 @@ VII. Visitar las demarcaciones territoriales, y ayudantías municipales en que s
 
 VIII. Informar al Ayuntamiento sobre cualquier deficiencia que advierta en la administración municipal y en la prestación de los servicios públicos municipales;
 
-IX. Citar a las sesiones ordinarias y extraordinarias del Ayuntamiento si no lo hace el Presidente Municipal, en los términos de esta Ley y del Reglamento Interior; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-X. Las demás que esta Ley, los reglamentos y otros ordenamientos le señalen.
+IX. Citar a las sesiones ordinarias y extraordinarias del Ayuntamiento si no lo hace el Presidente Municipal, en los términos de esta Ley y del Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+X. Contar con recursos humanos, materiales y financieros suficientes para cumplir con eficacia y eficiencia las funciones conferidas por la presente Ley.
+
+A efecto de lo anterior el Cabildo y en su caso Concejo Municipal, deberá prever los recursos necesarios en el Presupuesto de Egresos Municipal respectivo;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Nombrar y remover libremente al personal que le haya sido designado para el cumplimiento y desarrollo de las atribuciones que contempla el presente artículo.
+
+Lo dispuesto en la presente fracción estará sujeto a la disponibilidad presupuestaria del respectivo ejercicio fiscal, y
+
+XII. Las demás que esta Ley, los reglamentos y otros ordenamientos le señalen.
 
 ### CAPÍTULO V. DE LA PLANEACIÓN MUNICIPAL
 
@@ -1627,27 +1667,43 @@ II.- Implementarán en conjunto con los registros civiles municipales, acciones 
 
 ### CAPÍTULO X. DEL CRONISTA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 74.
 
-En cada Municipio, existirá un Cronista o un Consejo de Cronistas, según las circunstancias de cada uno de éstos; en su caso, dicho Consejo se integrará previa convocatoria que haga el Ayuntamiento, de acuerdo con la estructura que ellos mismos designen, quienes tendrán como función la recopilación, custodia y difusión de la memoria histórica y cultural del Municipio.
+En cada Municipio, existirá un Concejo de Cronistas:
 
-La Coordinación o representación del Consejo será rotativa cada año. El coordinador del Consejo fungirá a su vez como el Cronista de la Ciudad. El Cronista o en su caso, los integrantes del Consejo, durarán en su cargo un período de gobierno y podrán ser reelectos por el Ayuntamiento que inicie un nuevo período de gobierno.
+a).- El Concejo de Cronistas se integrará previa convocatoria que haga el Ayuntamiento para tal efecto y funcionará de conformidad con el Reglamento correspondiente;
 
-El Consejo de Cronistas Municipales deberá integrarse por personas destacadas por sus méritos y aportaciones a la cultura municipal; mismos requisitos que deberá tener el Cronista.
+b).- En la integración del Concejo de Cronistas se deberá garantizar la paridad de género;
 
-Para ambos casos, la administración municipal entrante contará con un término de sesenta días naturales, contados a partir del inicio de su ejercicio constitucional, para la designación y toma de protesta del Cronista o Consejo de Cronistas.
+c).- Los integrantes del Concejo tendrán como responsabilidad la integración, la custodia y la difusión de la memoria histórica y del patrimonio cultural del Municipio, y sus cargos honoríficos;
+
+d).- Cada integrante del Concejo será reconocido como Cronista Municipal;
+
+e).- La mesa directiva del Concejo se integrará con una Coordinación, una Secretaría Técnica, cargos que tendrán vigencia de un año, siendo rotativos entre los Cronistas;
+
+f).- Se crearán las Comisiones temáticas necesarias que los integrantes del Concejo, por mayoría de votos, determinen;
+
+g).- El nombramiento como Cronista Municipal será honorífico, y su duración será de tres años, coincidiendo con el periodo constitucional de la administración que los designó pudiendo ser ratificados para la siguiente administración;
+
+h).- El Concejo se integrará con personas que hayan destacado por sus méritos y aportaciones a la cultura municipal;
+
+i).- El ayuntamiento tomará protesta a los integrantes del Concejo de Cronistas que hayan acreditado documentalmente sus méritos y aportaciones a la cultura municipal;
+
+j).- El Concejo de Cronistas deberá contar con una sede, así como infraestructura y apoyos necesarios para la realización y difusión de sus actividades, particularmente de la publicación de materiales impresos y electrónicos sobre la historia municipal, y
+
+k).- Un Cronista Municipal podrá ser removido del Concejo cuando incurra en violaciones a los Reglamentos y Leyes que rijan sus responsabilidades, respetándose, en todo momento, su derecho de réplica y defensa por las vías legales.
 
 ## TÍTULO CUARTO. RÉGIMEN ADMINISTRATIVO
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 75.
 
-Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento; una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos estos, asimismo, garantizará el control, y resguardo del archivo documental laboral y del padrón de servidores públicos y pensionistas materiales y técnicos del municipio, una dependencia encargada de la prestación de Servicios Públicos Municipales, una dependencia encargada de la protección ambiental y desarrollo sustentable, una dependencia encargada de la ejecución de la administración de obras públicas, de atención de asuntos migratorios y religiosos, otra de seguridad pública, tránsito municipal, un cronista municipal, un área de información pública y protección de datos personales, una Dirección de la Instancia de la mujer y cuando menos una Oficialía del Registro Civil y una Contraloría Municipal.
+Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento; una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de Seguridad Pública, así como de los beneficiarios de todos estos, asimismo, garantizará el control, y resguardo del archivo documental laboral y del padrón de servidores públicos y pensionistas; materiales y técnicos del municipio, una dependencia encargada de la prestación de Servicios Públicos Municipales, una dependencia encargada de la protección ambiental y desarrollo sustentable, una dependencia encargada de la ejecución de la administración de obras públicas, de atención de asuntos migratorios y religiosos, otra de seguridad pública, tránsito municipal, un Concejo de cronistas municipal, un área de información pública y protección de datos personales, una Dirección de la Instancia de la mujer y cuando menos una Oficialía del Registro Civil y una Contraloría Municipal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
@@ -1927,7 +1983,7 @@ XIV. Supervisar que las áreas administrativas del Ayuntamiento, den cabal cumpl
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-XV. Supervisar que el área de Recursos Humanos del Ayuntamiento, allegue a sus trabajadores, a los elementos de seguridad pública o a los deudos de ambos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones, así como "efectuar la autorización y registro de dicho documento; y
+XV. Supervisar que el área de recursos humanos del ayuntamiento, y en su caso, en coordinación con el comisario del organismo público descentralizado municipal correspondiente, allegue a sus trabajadores, a los elementos de seguridad pública, así como a sus deudos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones,"efectuar la autorización y registro de dicho documento; y
 
 a) Sustituir el término "así como de su legal protocolización", "efectuar la autorización y registro de dicho documento".
 
@@ -2077,11 +2133,17 @@ IV. Celebrar los actos del estado civil y asentar las actas relativas dentro o f
 
 V. Mantener en existencia las formas necesarias para el asentamiento de las actas del Registro Civil y para la expedición de las copias certificadas de las mismas y de los documentos de apéndice;
 
-VI. Recibir la capacitación y mantener la coordinación debida con la dependencia de la administración pública estatal encargada de la materia; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+VI. Recibir la capacitación y mantener la coordinación debida con la dependencia de la administración pública estatal encargada de la materia;
 
-VII. Dar por escrito el aviso a que se refiere el artículo 425, del Código Familiar para el Estado Libre y Soberano de Morelos.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Dar por escrito el aviso a que se refiere el artículo 425, del Código Familiar para el Estado Libre y Soberano de Morelos; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Llevar a cabo el procedimiento de Divorcio Administrativo de acuerdo con lo que contempla el artículo 174 del Código Familiar para el Estado Libre y Soberano de Morelos, el artículo 503 del Código Procesal Familiar para el Estado Libre y Soberano de Morelos, y el artículo 25 del Reglamento del Registro Civil del Estado de Morelos y demás ordenamientos jurídicos aplicables.
 
 Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije en el Presupuesto de Egresos del respectivo Municipio.
 
@@ -2091,9 +2153,11 @@ Los oficiales del Registro Civil percibirán la remuneración que para el efecto
 
 La justicia de paz en los Municipios estará a cargo de los jueces que señale la Ley Orgánica del Poder Judicial del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 94.
 
-Los jueces de paz municipales estarán subordinados al Poder Judicial del Estado; tendrán la competencia, jurisdicción, obligaciones y atribuciones que les otorga la Ley Orgánica del Poder Judicial y que les señalen las demás Leyes y reglamentos aplicables; serán nombrados por el Consejo de la Judicatura Estatal, a propuesta en terna del Ayuntamiento respectivo y durarán en su cargo coincidiendo con el período constitucional del Ayuntamiento al que corresponda el Municipio de su jurisdicción; juzgados que dependerán económicamente del Ayuntamiento respectivo, además del apoyo que disponga el Poder Judicial.
+Los jueces de paz municipales estarán subordinados al Poder Judicial del Estado; tendrán la competencia, jurisdicción, obligaciones y atribuciones que les otorga la Ley Orgánica del Poder Judicial y que les señalen las demás Leyes y reglamentos aplicables; serán nombrados por la Junta de Administración, Vigilancia y Disciplina del Poder Judicial, a propuesta en terna del Ayuntamiento respectivo y durarán en su cargo coincidiendo con el periodo constitucional del Ayuntamiento al que corresponda el Municipio de su jurisdicción; juzgados que dependerán económicamente del Ayuntamiento respectivo, además del apoyo que disponga el Poder Judicial.
 
 ### CAPÍTULO VII. DE LAS AUTORIDADES AUXILIARES
 
@@ -3885,7 +3949,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 
 ###### ARTICULO SEGUNDO.
 
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado libre y Soberano de Morelos.
 
 ###### ARTICULO TERCERO.
 
@@ -4176,6 +4240,72 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDA. El presente Decreto, entrará en vigor a partir de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones legales de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS NOVENTA Y NUEVE.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 74 Y 75 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, PARA QUE SE ESTABLEZCA EL CONCEJO DE CRONISTAS EN CADA UNO DE LOS AYUNTAMIENTOS DE LA ENTIDAD”.]
+
+PRIMERO.- Aprobado que sea el presente Decreto, remítase el Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el “Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Los integrantes del Cabildo dispondrán de 60 días naturales para modificar o en su caso emitir y aprobar el Reglamento del Concejo de Cronistas en cada Municipio de Morelos.
+
+CUARTO.- A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+QUINTO.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS POR EL QUE SE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 41 Y EL ARTÍCULO 94 AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERO.- Aprobado el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, para los efectos de los artículos 44, 47, y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+CUARTO.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS UNO POR EL QUE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 92 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Aprobado que sea el presente Decreto remítase al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+CUARTO.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS DOS.- POR EL QUE SE REFORMA EL ARTÍCULO 45 Y 48 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE ERRADICACIÓN DE LA VIOLENCIA POLÍTICA DE GÉNERO AL INTERIOR DE LOS CABILDOS Y/O CONCEJOS MUNICIPALES”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+TERCERO.- Las hipótesis normativas que refieren las fracciones XII y XIII del artículo 45 de la Ley Orgánica Municipal, previstas en el presente proyecto de Decreto, serán aplicables para el presupuesto de egresos municipal inmediato siguiente respectivo una vez vigente el presente proyecto de Decreto.
+
+CUARTO.- Las hipótesis normativas que refieren las fracciones X y XI del artículo 48 de la Ley Orgánica Municipal, previstas en el presente proyecto de Decreto, serán aplicables para el presupuesto de egresos municipal inmediato siguiente respectivo una vez vigente el presente proyecto de Decreto.
+
+QUINTO.- Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
+
+SEXTO.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CINCO POR EL QUE SE REFORMA LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE ARCHIVOS”.]
+
+PRIMERO.- Aprobado que sea el presente Decreto, remítase el Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el “Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
 
 ###### ARTÍCULO CUARTO.
 
