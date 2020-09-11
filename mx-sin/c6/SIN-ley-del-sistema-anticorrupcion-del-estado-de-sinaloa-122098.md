@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-sistema-anticorrupcion-del-estado-de-sinaloa-122098"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2017-06-16"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 16 de junio de 2017.
 
@@ -249,11 +249,33 @@ El Presidente del Comité Coordinador tendrá voto de calidad en caso de empate.
 
 El Comité de Participación Ciudadana tiene como objetivo coadyuvar en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
+El Comité de Participación Ciudadana estará integrado por cinco ciudadanos y ciudadanas de probidad y prestigio, observando el principio de paridad de género, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción.
 
-Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
+Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves. Sus integrantes deberán reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, y estar en pleno goce de (sic) y ejercicio de sus derechos civiles;
+
+II. Contar con experiencia verificable de al menos cinco años en materia de transparencia, evaluación, fiscalización, rendición de cuentas, participación ciudadana y combate a la corrupción;
+
+III. Poseer al día de la designación título profesional de nivel licenciatura y contar con las (sic) conocimientos y experiencia relacionadas (sic) con la materia de esta ley que le permita el desempeño de sus funciones;
+
+(NOTA: EL 19 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 275/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+IV. Gozar de buena reputación Y NO HABER SIDO CONDENADO POR ALGÚN DELITO;
+
+V. Presentar su declaración de intereses, patrimonial y fiscal, de forma previa al nombramiento;
+
+VI. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos siete años anteriores a la designación;
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos siete años anteriores a la designación;
+
+VIII. No haber sido miembro, adherente o afiliado a algún partido político, durante los siete años anteriores a la fecha de emisión de la convocatoria y;
+
+IX. No desempeñar ni haber desempeñado el cargo de secretario, subsecretario o servidor público en general del Estado, de alguna dependencia nacional, ni Fiscal General del Estado, Gobernador, Magistrado del Supremo Tribunal de Justicia del Estado o del Consejo de la Judicatura del Poder Judicial, a menos que se haya separado del cargo siete años antes del día de su designación.
 
 ###### Artículo 17.
 
@@ -266,6 +288,10 @@ Los integrantes del Comité de Participación Ciudadana estarán sujetos al rég
 En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información y demás aplicables por el acceso que llegaren a tener a las plataformas digitales de la Secretaría Ejecutiva y demás información de carácter reservado y confidencial.
 
 En la conformación del Comité de Participación Ciudadana se procurará que prevalezca la equidad de género.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+En la conformación del Comité de Participación Ciudadana se deberá observar el principio de paridad de género, por lo que no podrá conformarse, en cualquier circunstancia, por tres integrantes de un mismo género y alternarse dicha mayoría cada año.
 
 ###### Artículo 18.
 
@@ -495,7 +521,9 @@ III. Tener más de treinta y cinco años de edad al día de la designación;
 
 IV. Poseer al día de la designación, con antigüedad mínima de diez años título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones;
 
-V. Gozar de buena reputación y no haber sido condenado por algún delito;
+(NOTA: EL 19 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 275/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+V. Gozar de buena reputación Y NO HABER SIDO CONDENADO POR ALGÚN DELITO;
 
 VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento;
 
@@ -688,3 +716,17 @@ QUIRINO ORDAZ COPPEL
 El Secretario General de Gobierno
 
 GONZALO GÓMEZ FLORES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 487 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones relativas a las reformas de la Ley Orgánica del Congreso del Estado de Sinaloa, entrarán en vigor a partir del momento de que sean aprobadas por el Pleno, toda vez que no requieren de promulgación por parte del Ejecutivo Estatal ni pueden ser objeto de veto en los términos del artículo 8 de dicha Ley.
+
+En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
+
+TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
