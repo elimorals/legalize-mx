@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2020-07-03"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -387,7 +387,9 @@ E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá
 
 La Mesa Directiva se integrará con un Presidente, dos Vice-Presidentes, dos Secretarios y dos Pro-Secretarios, que serán electos por el voto nominal de las dos terceras partes del total de los diputados que integran la Legislatura.
 
-Para su integración se observará la composición plural del Congreso, pero no podrán formar parte de ella los coordinadores de los grupos parlamentarios.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+Para su integración se observará la composición plural del Congreso, y se deberá observar el principio de paridad de género, pero no podrán formar parte de ella los coordinadores de los grupos parlamentarios.
 
 Los nombramientos se comunicarán a los Poderes Ejecutivo y Judicial del Estado, así como a todos los órganos legislativos federales y locales del país.
 
@@ -867,7 +869,9 @@ XXVII. Instructora.
 
 Las Comisiones Permanentes serán nombradas por el Pleno en votación nominal, a propuesta de la Junta de Coordinación Política, en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
 
-La integración de las Comisiones Permanentes será plural y se ajustará en lo posible a la proporcionalidad que guardan los grupos parlamentarios en la composición de la Legislatura.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+La integración de las Comisiones Permanentes será plural, y se deberá observar el principio de paridad de género y se ajustará en lo posible a la proporcionalidad que guardan los grupos parlamentarios en la composición de la Legislatura.
 
 La Junta de Coordinación Política como órgano conductor y coordinador de trabajo legislativo, podrá proponer al Pleno el cambio de alguno o varios de los integrantes de las Comisiones Permanentes cuando se justifique.
 
@@ -1041,11 +1045,11 @@ XI.- Decretar en caso grave, la traslación provisional de los Poderes del Estad
 
 XII.- Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hayan consignado en la Constitución Política del Estado, o que le confieran las Leyes.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 80.
 
-La Diputación Permanente estará integrada bajo la fórmula de nueve Propietarios y nueve Suplentes. Cada Grupo Parlamentario contará, como mínimo, con un representante propietario y su respectivo suplente.
+La Diputación Permanente estará integrada bajo la fórmula de nueve Propietarios y nueve Suplentes, observando el principio de paridad de género. Cada Grupo Parlamentario contará, como mínimo, con un representante propietario y su respectivo suplente.
 
 ###### ARTICULO 81.
 
@@ -1313,6 +1317,10 @@ XXIV. Las demás que le señalen los ordenamientos legales aplicables o que dete
 
 El Congreso del Estado, para su debido funcionamiento y en el cumplimiento de sus atribuciones, deberá contar con la estructura administrativa que se establece en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
+En su estructura administrativa interna se deberá de observar el principio de paridad de género.
+
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 94.
@@ -1391,11 +1399,11 @@ XV.- Procurar la conservación y mantenimiento de las instalaciones del Congreso
 
 XVI.- Las demás acordadas por la Asamblea, o que prescriba esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 97.
 
-Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y administrativo se instituye el servicio civil de carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia. El reglamento establecerá y desarrollará las bases para la permanencia, promoción, estímulos, capacitación y actualización del personal.
+Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y administrativo se instituye el servicio civil de carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad, eficiencia y paridad de género. El reglamento establecerá y desarrollará las bases para la permanencia, promoción, estímulos, capacitación y actualización del personal.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1403,9 +1411,9 @@ Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentari
 
 De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Gestión y Vinculación Social y las demás unidades y Departamentos que sean necesarios para el debido cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por el Pleno o por la Diputación Permanente, en su caso, a propuesta de la Junta de Coordinación Política, atendiendo las bases del servicio civil de carrera.
+El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por el Pleno o por la Diputación Permanente, en su caso, a propuesta de la Junta de Coordinación Política, atendiendo las bases del servicio civil de carrera y el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -2584,3 +2592,15 @@ P.O. 3 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 487 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSFERENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones relativas a las reformas de la Ley Orgánica del Congreso del Estado de Sinaloa, entrarán en vigor a partir del momento de que sean aprobadas por el Pleno, toda vez que no requieren de promulgación por parte del Ejecutivo Estatal ni pueden ser objeto de veto en los términos del artículo 8 de dicha Ley.
+
+En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
+
+TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
