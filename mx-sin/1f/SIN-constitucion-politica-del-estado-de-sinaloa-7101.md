@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2020-07-13"
+last_updated: "2020-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1637,9 +1637,11 @@ El Fiscal General del Estado, los vicefiscales general, especializados y/o regio
 
 Durante el ejercicio de su cargo, el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre y/o remunerado de su profesión, salvo las actividades docentes, científicas, culturales, de investigación o beneficencia.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-Art. 76 Bis A. Se crean las Fiscalías Especializadas en Combate a la Corrupción, de Desaparición Forzada de Personas y en Materia de Tortura, las cuales tendrán nivel de Vicefiscalía General. Los Fiscales Especializados serán designados y removidos por el Fiscal General del Estado.
+Art. 76 Bis A. La Fiscalía General del Estado contará con las Fiscalías Especializadas en Combate a la Corrupción, en Desaparición Forzada de Personas, en Materia de Tortura y en Atención de Delitos Electorales, las cuales tendrán nivel de Vicefiscalía General. Los Fiscales Especializados serán designados y removidos por el Fiscal General del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2019)</small>
 
 El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus miembros presentes, dentro del plazo que para tal efecto fije la Ley Orgánica de la Fiscalía General; pero si no se pronuncia en ese lapso, se entenderá que no tiene objeción alguna y por tanto son ratificados.
 
@@ -4449,10 +4451,14 @@ P.O. 13 DE JULIO DE 2020.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 105.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 Y 290 FRACCIÓN XVIII PRIMERA (SIC) PÁRRAFO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+P.O. 11 DE SEPTIEMBRE DE 2020.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 488 QUE REFORMA EL ARTÍCULO 76 BIS A, PÁRRAFO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+SEGUNDO. La iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el Ejercicio Fiscal 2021, deberá prever una partida específica para garantizar los recursos humanos, materiales y estructura de la Fiscalía Especializada en Atención de Delitos Electorales, para su adecuada operación, eficacia y eficiencia en su desempeño.
+
+Para lo que resta del ejercicio 2020 funcionará con el presupuesto que se le haya asignado en la Ley de Ingresos y Presupuesto de Egresos de este año.
+
+TERCERO. Los Fiscales Especializados en Combate a la Corrupción, en Desaparición Forzada de Personas, en Materia de Tortura y en Atención de Delitos Electorales que se encuentren en funciones a la entrada en vigor del presente Decreto continuarán en su encargo hasta que sean removidos por el Fiscal General.
