@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-08-29"
+last_updated: "2020-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -707,9 +707,9 @@ Si el reconocimiento se hiciere en Oficialía diferente a aquella en que se leva
 
 Dictada la resolución judicial definitiva que autorice la adopción, el Juez dentro de los tres días siguientes a la ejecutoria de ésta, remitirá copia certificada al Oficial del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante o adoptantes, se asiente el acta respectiva.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-La falta de registro de la adopción no deja a ésta sin efectos legales. A los responsables se les impondrá una multa de catorce hasta veintiocho salarios mínimos, que hará efectiva el Oficial del Registro Civil correspondiente.
+La falta de registro de la adopción no deja a ésta sin efectos legales. A los responsables se les impondrá una multa de catorce hasta veintiocho veces el valor diario de la Unidad de Medida y Actualización vigente, que hará efectiva el Oficial del Registro Civil correspondiente.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
@@ -747,11 +747,11 @@ Levantada la diligencia de discernimiento de tutela y publicada en los términos
 
 El curador cuidará del cumplimiento del artículo anterior y el Juez que haga el discernimiento lo comunicará inmediatamente al Oficial del Registro Civil respectivo.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 92.
 
-La omisión del registro de tutela no impide al tutor entrar en el ejercicio de su encargo, ni puede alegarse por persona alguna como causa para dejar de tratar con él; pero hace responsable al tutor y al curador de esta omisión, la que se sancionará con multa de catorce hasta veintiocho salarios mínimos, que impondrá el Oficial del Registro Civil.
+La omisión del registro de tutela no impide al tutor entrar en el ejercicio de su encargo, ni puede alegarse por persona alguna como causa para dejar de tratar con él; pero hace responsable al tutor y al curador de esta omisión, la que se sancionará con multa de catorce hasta veintiocho veces el valor diario de la Unidad de Medida y Actualización vigente, que impondrá el Oficial del Registro Civil.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -953,11 +953,11 @@ Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denuncia
 
 El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal o de que éste se ha denunciado, será castigado como lo disponga el Código Penal, incluyendo la destitución del cargo.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 113.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado, la primera vez con una multa de hasta cincuenta salarios mínimos y en caso de reincidencia, con la destitución de su cargo.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado, la primera vez con una multa de hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, y en caso de reincidencia, con la destitución de su cargo.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1077,11 +1077,11 @@ V. La clase de enfermedad o causa que determinó la muerte y especificación del
 
 VI. La hora, día y el lugar de la muerte si se supiere y los datos que se obtengan en caso de muerte violenta.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 124.
 
-Los que habiten la casa en que ocurra el fallecimiento, los directores y administradores de establecimientos de reclusión, de hospitales, de colegios o de cualquiera otra casa de comunidad, los encargados de hoteles, mesones o casas de vecindad, tienen obligación de dar aviso al Oficial del Registro Civil, a más tardar dentro de las veinticuatro horas siguientes de ocurrido el deceso. La infracción a esta disposición será sancionada con multa de uno hasta veintiocho salarios mínimos, que impondrá el Oficial del Registro Civil.
+Los que habiten la casa en que ocurra el fallecimiento, los directores y administradores de establecimientos de reclusión, de hospitales, de colegios o de cualquier otra casa de comunidad, los encargados de hoteles, mesones (sic) casas de vecindad, tienen obligación de dar aviso al Oficial del Registro Civil, a más tardar dentro de las veinticuatro horas siguientes de ocurrido el deceso. La infracción a esta disposición será sancionada con multa de uno hasta veintiocho veces el valor diario de la Unidad de Medida y Actualización vigente, que impondrá el Oficial del Registro Civil.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -3713,11 +3713,11 @@ Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al pr
 
 No pueden ser nombrados tutores o curadores las personas que integren los consejos locales de tutelas; ni los que estén ligados por parentesco de consanguinidad con éstas en línea recta, sin limitación de grado; y en la colateral, dentro del cuarto inclusive.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 475.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse tutor, el ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia respectivo, dentro de ocho días, a fin de que provea a la tutela, bajo la pena una multa hasta de uno a cinco salarios mínimos.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse tutor, el ejecutor testamentario y en caso de intestado los parientes y una persona con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia respectivo, dentro de ocho días, a fin de que provea a la tutela, bajo la pena (sic) una multa de uno a cinco veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Los Oficiales del Registro Civil, las Autoridades administrativas y las judiciales, tienen la obligación de dar aviso al Juez de Primera Instancia de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
@@ -4255,11 +4255,11 @@ Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rend
 
 Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en este caso se respetará su voluntad en cuanto no ofrezca grave inconveniente a juicio del juez.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 572.
 
-El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones (sic) de capitales y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses, contados desde que se reúna la cantidad de tres mil salarios mínimos, con segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que pueda sobrevenir al realizarla o en inversión bancaria.
+El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones (sic) de capitales y que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses, contados desde que se reúna la cantidad de tres mil veces el valor diario de la Unidad de Medida y Actualización vigente, con segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que pueda sobrevenir al realizarla o en inversión bancaria.
 
 ###### Artículo 573.
 
@@ -4299,11 +4299,11 @@ Cuando se trate de enajenar, gravar, o hipotecar a título oneroso, bienes que p
 
 Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el juez.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 581.
 
-Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado. Cuando el objeto de la transacción consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de quinientos salarios mínimos, se necesitará del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios los negocios (sic) del incapacitado. Cuando el objeto de la transacción consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, se necesitará del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
 ###### Artículo 582.
 
@@ -5125,11 +5125,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto alguno legal.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 743.
 
-El valor máximo de los bienes afectos al patrimonio familiar, conforme al Artículo 736, tratándose de la casa habitación y mobiliario de uso doméstico, será la cantidad que resulte de multiplicar por 12557 el importe del salario mínimo general diario, vigente en el Estado; la misma cuantía para el caso de que la parcela cultivable constituya el patrimonio familiar y por lo que se refiere a los instrumentos de trabajo que sirven para la manutención de los integrantes de la familia, será la suma obtenida de multiplicar el importe del salario indicado por 3000, de tal manera que el valor máximo de bienes afectos al patrimonio familiar, no podrá exceder del resultado de elevar el importe del salario mínimo general diario vigente en el Estado, a 15557 veces.
+El valor máximo de los bienes afectados al patrimonio familiar, conforme al Artículo 736, tratándose de la casa habitación y mobiliario de uso doméstico, será la cantidad que resulte de multiplicar 12557 veces el valor diario de la Unidad de Medida y Actualización vigente; la misma cuantía para el caso de que la parcela cultivable constituya el patrimonio familiar y por lo que se refiere a los instrumentos de trabajo que sirven para la manutención de los integrantes de la familia, será la suma obtenida de multiplicar el valor diario de la Unidad de Medida y Actualización vigente, por 3000, de tal manera que el valor máximo de bienes afectados al patrimonio familiar, no podrá exceder del resultado de elevar el importe del valor diario de la Unidad de Medida y Actualización vigente, a 15557 veces.
 
 ###### Artículo 744.
 
@@ -5461,11 +5461,11 @@ Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido y cuya 
 
 El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncia, observándose lo dispuesto en la parte final del artículo 791 de este Código.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 798.
 
-El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de doscientos a doscientos cincuenta salarios mínimos.
+El que se apodere de un vacante sin cumplir lo prevenido en este capítulo, pagará una multa de doscientos a doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ## TITULO TERCERO. De la posesión
 
@@ -8375,11 +8375,11 @@ Si la identidad del testador no pudiere ser verificada, se declarará esta circu
 
 En el caso del artículo que precede, no tendrá validez el testamento mientras no se pruebe la identidad del testador.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 1411.
 
-Se prohíbe a los Notarios que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo pena de cien días de salarios mínimos de multa.
+Se prohíbe a los Notarios que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo pena de cien veces el valor diario de la Unidad de Medida y Actualización vigente, de multa.
 
 ###### Artículo 1412.
 
@@ -8547,7 +8547,9 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 Testamento Público Simplificado es aquél que se otorga ante Notario respecto de un inmueble destinado a que vaya a destinarse a vivienda por el adquiriente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble destinado al mismo fin, que lleven a cabo las Autoridades del Estado de Oaxaca o cualquier dependencia o entidad de la Administración Pública Federal, Estatal o Municipal o en un acto posterior, de conformidad con lo siguiente:
 
-I. Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Estado de Oaxaca elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+I. Que el precio del inmueble o su valor de avaluó no exceda del equivalente a 25 veces el valor diario de la Unidad de Medida y Actualización vigente, elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
 
 II. El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición a favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
 
@@ -12219,11 +12221,11 @@ El contrato de compraventa no requiere para su validez formalidad alguna especia
 
 La venta de inmuebles se hará en escritura pública con excepción hecha de aquéllas que celebren los organismos públicos federales o estatales, tendientes a regularizar la tenencia de la tierra, y de las previstas en el artículo 2192 de este Código, las que requerirán para su validez, solamente las firmas de las partes y de los testigos, sin necesidad de que dichas operaciones se eleven a escritura pública.
 
-(REFORMADO, P.O. 20 DE ABRIL DE 2001) (F. DE E., P.O. 10 DE JULIO DE 2001)
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2192.
 
-En los distritos en los cuales no exista Notario establecido, la venta de inmuebles con valor catastral hasta de setecientos salarios mínimos, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador ante dos testigos y ante el Registrador del Distrito Judicial en que se ubique el inmueble.
+En los distritos en los cuales no exista Notario establecido, la venta de inmuebles con valor catastral hasta de setecientas veces el valor diario de la Unidad de Medida y Actualización vigente, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador ante dos testigos y ante el Registrador del Distrito Judicial en que se ubique el inmueble.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -12343,17 +12345,19 @@ La donación puede hacerse verbalmente o por escrito.
 
 No puede hacerse donación verbal más que de bienes muebles.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2218.
 
-La donación verbal sólo producirá efectos legales cuando el valor de los muebles no exceda de doscientos salarios mínimos.
+La donación verbal sólo producirá efectos legales cuando el valor de los inmuebles no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2219.
 
-Si el valor de los muebles excede de doscientos pero no de quinientos salarios mínimos, la donación deberá hacerse por escrito.
+Si el valor de los muebles excede de doscientas pero no de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, la donación deberá hacerse por escrito.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
 Si excede de quinientos salarios mínimos, la donación se otorgará en escritura pública.
 
@@ -12433,9 +12437,9 @@ Si en el primer caso del artículo anterior el padre no hubiere revocado la dona
 
 La donación no podrá ser revocada por supervenencia de hijos:
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-I. Cuando sea menor de doscientos salarios mínimos;
+I. Cuando sea menor de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 II. Cuando sea antenupcial;
 
@@ -12649,11 +12653,11 @@ Se prohibe a los encargados de los establecimientos públicos y a los funcionari
 
 Los arrendamientos sujetos a registro en los términos del artículo 2883 Fracción IV de este Código, podrán consignarse en contrato privado autorizado por el Registrador competente para registro.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2282.
 
-Si el predio fuere rústico y la renta anual pasare de dos mil salarios mínimos, el contrato se otorgará en escritura pública.
+Si el predio fuere rústico y la renta anual pasare de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, el contrato se otorgará por escritura pública.
 
 ###### Artículo 2283.
 
@@ -12859,9 +12863,9 @@ Cuando las obras a que se refiere el párrafo anterior sean de urgente ejecució
 
 El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-Si la renta mensual no excede de treinta salarios mínimos, es potestativo para el arrendatario dar fianza o subsistir esa garantía con el depósito de un mes de renta.
+Si la renta mensual no excede de treinta veces el valor diario de la Unidad de Medida y Actualización vigente, es potestativo para el arrendatario dar fianza o subsistir esa garantía con el depósito de un mes de renta.
 
 ###### Artículo 2326.
 
@@ -13281,9 +13285,9 @@ Tampoco puede retener la cosa como prenda que garantice otro crédito que tenga 
 
 Los dueños de establecimientos en donde se reciban huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-La responsabilidad de que habla este artículo, no excederá de la suma de ciento cincuenta salarios mínimos.
+La responsabilidad de que habla este artículo, no excederá de la suma de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 2417.
 
@@ -13393,17 +13397,17 @@ El mandato debe otorgarse en escritura pública o en carta poder firmada ante do
 
 I. Cuando sea general;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-II. Cuando el interés del negocio para que se confiere llegue a trescientos cincuenta salarios mínimos o exceda de esa cantidad;
+II. Cuando el interés del negocio para que se confiere llegue a trescientas cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente o exceda de esa cantidad;
 
 III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2437.
 
-El mandato podrá otorgarse en escrito privado, firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de diez y no llegue a ciento cincuenta salarios mínimos.
+El mandato podrá otorgarse en escrito privado, firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de diez y no llegue a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 2438.
 
@@ -13737,11 +13741,11 @@ El contrato de obras a precio alzado, cuando el empresario dirige la obra y pone
 
 Todo el riesgo de la obra correrá a cargo del empresario hasta el acto de la entrega, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla o convenio expreso en contrario.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2499.
 
-Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de más de treinta y cinco salarios mínimos, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
+Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de más de treinta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano diseño o presupuesto de la obra.
 
 ###### Artículo 2500.
 
@@ -14873,17 +14877,17 @@ Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, c
 
 El fiador que haya de darse por disposición de la ley o por providencia judicial excepto cuando el fiador sea una institución de crédito o compañía autorizada por la ley, debe tener bienes inscritos en el Instituto de la Función Registral, libres de todo gravamen y de un valor que garantice suficientemente las obligaciones que contraiga.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de ciento cincuenta salarios mínimos, no se exigirá que el fiador tenga bienes raíces.
+Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, no se exigirá que el fiador tenga bienes raíces.
 
 La fianza puede sustituirse con prenda o hipoteca.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2733.
 
-Para otorgar la fianza legal o judicial por más de ciento cincuenta salarios mínimos, se presentará un certificado expedido por el encargado del Instituto de la Función Registral a fin de demostrar que el fiador tiene bienes raíces suficientes y libres de todo gravamen para responder del cumplimiento de la obligación que garantice.
+Para otorgar la fianza legal o judicial por más de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, se presentará un certificado expedido por el encargado del Instituto de la Función Registral a fin de demostrar que el fiador tiene bienes raíces suficientes y libres de todo gravamen para responder del cumplimiento de la obligación que garantice.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
@@ -15219,11 +15223,11 @@ El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2799.
 
-Cuando el crédito hipotecario exceda de trescientos treinta y cinco salarios mínimos, la hipoteca debe otorgase (sic) en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada ante dos testigos y el Registrador del Distrito en que se ubique el inmueble haciéndose de aquélla tantos ejemplares como sean las partes contratantes y otro para el Instituto de la Función Registral.
+Cuando el crédito hipotecario exceda de trescientos treinta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada ante dos testigos y el Registrador del Distrito en que se ubique el inmueble haciéndose de aquélla tantos ejemplares como sean las partes contratantes y otro para el Instituto de la Función Registral.
 
 ###### Artículo 2800.
 
@@ -15465,11 +15469,11 @@ De las transacciones
 
 La transacción es un contrato por el cual las partes haciéndose recíprocas concesiones, terminan una controversia presente o previenen una futura.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2827.
 
-La transacción que previene controversias futuras, debe constar por escrito, si el interés pasa de diez salarios mínimos.
+La transacción que previene controversias futuras, debe constar por escrito, si el interés pasa de diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 2828.
 
@@ -16846,5 +16850,13 @@ P.O. 29 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1533.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 429 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1530.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
