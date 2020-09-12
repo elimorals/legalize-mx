@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-08-29"
+last_updated: "2020-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1964,6 +1964,10 @@ XIV.- Incumplir con la obligación de impedir la ejecución de las conductas de 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a IV y IX a XI, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones IX a XI.
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones V a VIII, XII, XIII y XIV, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones II y IV de este artículo, en relación con las órdenes de protección de emergencia y las órdenes de protección preventivas por violencia contra las mujeres, se le impondrá de tres a diez años de prisión, de cien hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos. Si la autoridad omitiera emitir las órdenes de protección mencionadas, y con su omisión se llegase a cometer un delito contra la víctima, se tendrá su conducta como dolosa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -5268,5 +5272,13 @@ P.O. 29 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1527.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO Y SEGUNDO DEL ARTÍCULO 405, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 406 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1535.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 209 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
