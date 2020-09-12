@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entrega-recepcion-de-los-recursos-y-bienes-del-124716"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2017-10-20"
+last_updated: "2020-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el viernes 20 de octubre de 2017.
 
@@ -83,9 +83,11 @@ XIII. Poderes del Estado: A los Poderes Legislativo, Ejecutivo y Judicial del Es
 
 XIV. Servidores públicos: A servidores públicos mencionados en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca y toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, en los Poderes Legislativo y Judicial del Estado y en los órganos públicos a los que otorgue autonomía la Constitución del Estado, así como en aquellos que sean autónomos por la naturaleza de su creación, sea cual fuere la naturaleza de su nombramiento, designación o elección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-Las disposiciones de esta Ley deberán interpretarse conforme a lo previsto en la Constitución Política del Estado Libre y Soberano, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley Orgánica del Poder Legislativo del Estado de Oaxaca, la Ley Orgánica del Poder Judicial del Estado de Oaxaca, la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, la Ley de Bienes Pertenecientes al Estado de Oaxaca, la Ley de Justicia Administrativa para el Estado de Oaxaca, la Ley de Fiscalización Superior para el Estado de Oaxaca y las leyes orgánicas respectivas de los órganos autónomos.
+Las disposiciones de esta Ley deberán interpretarse conforme a lo previsto en la Constitución Política del Estado Libre y Soberano (sic), la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley Orgánica del Poder Legislativo del Estado de Oaxaca, la Ley Orgánica del Poder Judicial del Estado de Oaxaca, la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, la Ley de Bienes Pertenecientes al Estado de Oaxaca, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, la Ley de Fiscalización Superior para el Estado de Oaxaca y las leyes orgánicas respectivas de los órganos autónomos.
 
 Los Órganos de Control, en el ámbito de su competencia, vigilarán el cumplimiento de las disposiciones y los procedimientos contenidos en la presente Ley. Asimismo, serán los encargados, en sus respectivas competencias, de interpretar esta Ley, debiendo dictar las medidas complementarias necesarias para su observancia.
 
@@ -518,3 +520,13 @@ TERCERO.- Dentro del término de sesenta días hábiles, contados a partir del d
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de agosto de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Donovan Rito García, Secretario.- Dip. Rosa Elia Romero Guzmán. Secretaria.- Dip. Paola Gutiérrez Galindo, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 05 de septiembre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1611.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 3 DE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno Estado de Oaxaca.
