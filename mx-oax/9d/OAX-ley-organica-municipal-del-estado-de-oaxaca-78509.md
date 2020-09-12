@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-07-25"
+last_updated: "2020-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -395,9 +395,11 @@ Los cargos de Presidente Municipal, Síndicos y Regidores del Ayuntamiento será
 
 En todos los actos de integración e Instalación del Ayuntamiento se deberá aplicar sin excepción, el principio de paridad de género; en caso de renuncia, el Ayuntamiento garantizará que la sustitución al cargo sea por una persona del mismo género.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2019)</small>
+> <small>[N. DE E. ESTE PÁRRAFO FUE ADICIONADO COMO UN TERCER PÁRRAFO POR EL DECRETO 604 PUBLICADO EN EL P.O. 20 DE ABRIL DE 2019, PÁGINA 3]</small>
 
-Las renuncias, a que se refiere el párrafo anterior, deberán ratificarse personalmente por él o los miembros del Ayuntamiento ante el órgano respectivo del Congreso del Estado, previo a la emisión del decreto correspondiente.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+Las renuncias, deberán ratificarse personalmente por el o los miembros del Ayuntamiento ante la Comisión Permanente de Gobernación y Asuntos Agrarios del Congreso del Estado, en un máximo de 30 días naturales después que la autoridad haya hecho del conocimiento de este y deberá ser previo a la emisión del Decreto correspondiente; si ello no sucede quedará sin efecto la solicitud y se comunicará al Ayuntamiento.
 
 De todos los casos conocerá el Congreso del Estado, hará la declaratoria que corresponda y proveerá lo necesario para cubrir la vacante si después de llamado el suplente, éste no acudiere.
 
@@ -921,11 +923,17 @@ V.- Promover ante los ciudadanos lo conducente al mejoramiento del servicio púb
 
 VI.- Informar al Ayuntamiento, en virtud del servicio público que supervisa, cuando haya coincidencia de funciones con el Estado o la Federación;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-VII.- Proponer con oportunidad, economía, austeridad, transparencia y honradez, al Ayuntamiento, el presupuesto de gastos necesarios para la mejor presentación del servicio público; y
+VII.- Proponer con oportunidad, economía, austeridad, transparencia y honradez, al Ayuntamiento, el presupuesto de gastos necesarios para la mejor presentación del servicio público;
 
-VIII.- Vigilar la aplicación del Reglamento correspondiente, proponiendo al Ayuntamiento las reformas que estime necesarias.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- Vigilar la aplicación del Reglamento correspondiente, proponiendo al Ayuntamiento las reformas que estime necesarias; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+IX.- Rendir un informe de actividades al Ayuntamiento, mismo que deberá celebrarse dentro de las dos últimas semanas del mes de noviembre de cada año, sobre las actividades realizadas durante el desempeño de sus funciones, de los dictámenes llevados a cabo y del estado que guardan los asuntos públicos al interior de las Comisiones Municipales.
 
 ###### ARTÍCULO 56.
 
@@ -1287,7 +1295,13 @@ Las licencias de construcción deberán señalar los requisitos y lineamientos a
 
 Las nuevas construcciones de edificios que presten servicios al público, deberán realizarse libres de elementos que puedan constituirse como barreras físicas que impidan la accesibilidad, observando las disposiciones marcadas en los ordenamientos aplicables.
 
-Para la renovación de las licencias para construcciones que presten servicios al público se deberá tomar en cuenta lo establecido en el párrafo anterior y en el lapso en que las instalaciones no sean las adecuadas, se buscara la comodidad y accesibilidad de las personas con discapacidad dentro de los medios existentes.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+Las nuevas construcciones o edificaciones, incluyendo las sometidas a rehabilitación, que se realicen dentro de su jurisdicción, deberán contar con dispositivos y accesorios hidráulicos y sanitarios que cumplan con las Normas Oficiales Mexicanas en materia de ahorro del agua.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+Para la renovación de las licencias para construcciones que presten servicios al público se deberá tomar en cuenta lo establecido en el párrafo anterior y en el lapso en que las instalaciones no sean las adecuadas, se buscará la comodidad y accesibilidad de las personas con discapacidad dentro de los medios existentes.
 
 Las obras que se ejecuten sin autorización; que pongan en peligro a los habitantes; o que se realicen en terrenos ubicados en zonas peligrosas o vías públicas se podrán decretar la demolición de los mismos.
 
@@ -1357,9 +1371,11 @@ XXXIII.- Atender los requerimientos de información del Contralor Interno Munici
 
 XXXIV.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 69.
 
-Para el cumplimiento de sus funciones, el Presidente Municipal se auxiliará de los demás integrantes del Ayuntamiento, así como de los órganos administrativos y comisiones que conforme a esta ley se establezcan.
+Para el cumplimiento de sus funciones, el Presidente Municipal se auxiliará de los demás integrantes del Ayuntamiento y los Órganos Administrativos y de las Comisiones; y además propiciará la capacitación; previa aprobación del Ayuntamiento, de las personas titulares de la secretaría municipal, tesorería, obras públicas, unidad de trasparencia y de la contraloría municipal, los cuales estarán obligados a capacitarse.
 
 ###### ARTÍCULO 70.
 
@@ -1628,6 +1644,10 @@ De los casos a que se refieren las fracciones II y III del presente artículo, s
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
 
 Las licencias a que se refiere el párrafo anterior, así como las renuncias de miembros del Ayuntamiento, que hayan sido autorizadas y calificadas por éste, deberán ratificarse ante el órgano respectivo del Congreso del Estado, previo a la emisión del decreto en cada caso, tutelando los principios del inciso a).
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+El Decreto en mención será requisito para acreditar al nuevo o nuevos integrantes del cabildo.
 
 ###### ARTÍCULO 84.
 
@@ -3730,3 +3750,33 @@ P.O. 25 DE JULIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 1545.- MEDIANTE EL CUAL SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN XII, RECORRIÉNDOSE LOS SUBSECUENTES PÁRRAFOS, DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1547.- MEDIANTE EL CUAL SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 34 Y; SE ADICIONA UN QUINTO PÁRRAFO AL INCISO B DE LA FRACCIÓN III DEL ARTÍCULO 83 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1594.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VII Y VIII; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 55 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1595.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 69 A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estada de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
