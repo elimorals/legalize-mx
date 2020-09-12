@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-administracion-de-bienes-asegurados-decomisados-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2015-05-07"
+last_updated: "2020-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS PARA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN LA FORMA Y TÉRMINOS SEÑALADOS EN EL DECRETO MEDIANTE EL CUAL SE DETERMINA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN CADA UNA DE LAS REGIONES DEL ESTADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 7 de mayo de 2015.
 
@@ -61,9 +61,13 @@ Glosario
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Ministerio Público: El Agente del Ministerio Público de la Procuraduría General de Justicia del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-II. Procuraduría: La Procuraduría General de Justicia del Estado de Oaxaca;
+I. Ministerio Público: El Agente del Ministerio Público de la Fiscalía General del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+II. Fiscalía: La Fiscalía General del Estado de Oaxaca;
 
 III. Interesado: La persona que conforme a derecho, tenga interés jurídico sobre los bienes asegurados;
 
@@ -103,7 +107,9 @@ I. El Secretario de Administración del Gobierno del Estado, quien la presidirá
 
 II. El Presidente del Tribunal Superior de Justicia del Estado;
 
-III. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+
+III. El Fiscal General del Estado;
 
 IV. El Secretario de Finanzas del Gobierno del Estado;
 
@@ -396,3 +402,15 @@ Tlalixtac de Cabrera, Centro, Oax., 07 de mayo del 2015.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1531.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
