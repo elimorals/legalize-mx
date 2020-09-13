@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-del-instituto-duranguense-de-educacion-13439
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-28"
-last_updated: "2019-02-28"
+last_updated: "2020-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DURANGUENSE DE EDUCACION PARA ADULTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DURANGUENSE DE EDUCACIÓN PARA ADULTOS, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DURANGUENSE DE EDUCACIÓN PARA ADULTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 28 de febrero de 2019.
 
@@ -490,3 +492,15 @@ Dado en la Ciudad de Durango, Dgo, a los cinco días del mes de noviembre de dos
 EL INSTITUTO DURANGUENSE DE EDUCACIÓN PARA ADULTOS
 
 LIC. BERNARDO IVÁN CENICEROS GALVÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO.- DE CONDUCTA DEL INSTITUTO DURANGUENSE DE EDUCACIÓN PARA ADULTOS".]
+
+PRIMERO. - El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se abroga el Código de Conducta del Instituto Duranguense de Educación para Adultos, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 17, el 28 de febrero del 2019.
+
+TERCERO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet del Instituto Duranguense de Educación para Adultos.
