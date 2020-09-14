@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-atencion-y-apoyo-a-las-victimas-del-419
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-20"
-last_updated: "2004-12-20"
+last_updated: "2020-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41947&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2004-11-30"
 ---
 # REGLAMENTO DE LA LEY DE ATENCION Y APOYO A LAS VICTIMAS DEL DELITO PARA EL DISTRITO FEDERAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 14 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 14 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE LA LEY DE ATENCION Y APOYO A LAS VICTIMAS DEL DELITO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2004.
 
@@ -467,3 +467,21 @@ En los casos enunciados, el Consejo fundamentará y motivará la negativa que re
 ÚNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Dado en la residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los treinta días del mes de noviembre de dos mil cuatro. EL JEFE DE GOBIERNO DEL DISTRITO FEDRAL (SIC), LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DE SALUD, DRA. ASAEBBA CHRISTINA LAURELL.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Reglamento de la Ley de Atención y Apoyo a las Víctimas del Delito para el Distrito Federal.
+
+CUARTO. Para efectos de lo dispuesto en los artículos 15 y 23, podrán considerarse como delitos de alto impacto social por la Comisión Ejecutiva, aquellos enunciados en el artículo vigésimo segundo transitorio, numeral 1 de la Ley Orgánica de la Fiscalía General de Justicia de la ciudad de México.
+
+QUINTO. Finalmente, el servicio de la asesoría jurídica de la Comisión Ejecutiva tratándose de delitos sexuales y demás delitos diversos a los de alto impacto social precisados en términos del artículo 15 del presente Reglamento, en relación con la Ley General, iniciará a partir del 1º enero de 2024, de conformidad con el régimen transición mandatado y que se implemente con la Fiscalía General de justicia de la ciudad de México, en su Ley Orgánica.
+
+SEXTO. Para efectos del artículo 20 del presente Reglamento, el Comisionado Ejecutivo durante el ejercicio de 2021 emitirá los lineamientos para la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones del servicio civil de carrera para las y los asesores jurídicos de la Comisión Ejecutiva.
