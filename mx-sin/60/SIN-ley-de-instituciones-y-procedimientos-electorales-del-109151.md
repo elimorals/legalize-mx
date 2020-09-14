@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2020-09-11"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -65,9 +65,9 @@ III. Candidata o Candidato Independiente: La o el ciudadano que obtenga por part
 
 IV. Ciudadanas o Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 8 de la Constitución Estatal;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-IV Bis. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos públicos;
+IV Bis. Paridad de género: Igualdad política entre mujeres y hombres que se garantiza mediante la asignación de igual número de mujeres y hombres en las candidaturas a cargos de elección popular de cada uno de los partidos políticos, el reajuste de las listas de candidatos por el principio de representación proporcional, en los casos que sea necesario; y el nombramiento de igual número de personas de cada género en los cargos públicos del Estado y de los Municipios.
 
 V. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
@@ -315,21 +315,11 @@ La elección de Regidurías por el principio de representación proporcional, se
 
 Por cada Síndico Procurador y cada Regidor propietario se elegirá un suplente. En ambos casos, tanto el propietario como el suplente deberán ser del mismo género.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 15.
 
-Los Ayuntamientos se integran de la forma siguiente:
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-I. Ahome, Guasave, Culiacán y Mazatlán: con un Presidente Municipal, un Síndico Procurador, siete Regidurías de mayoría relativa y cinco Regidurías de representación proporcional;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-II. El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa: con un Presidente Municipal, un Síndico Procurador, cinco Regidurías de mayoría relativa y cuatro Regidurías de representación proporcional; y,
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-III. Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia: con un Presidente Municipal, un Síndico Procurador, tres Regidurías de mayoría relativa y tres Regidurías de representación proporcional.
+Los Ayuntamientos se integran conforme a lo establecido en la Constitución Política del Estado de Sinaloa.
 
 ###### Artículo 16.
 
@@ -393,13 +383,11 @@ Cuando la autoridad electoral que corresponda, declare nula una elección, la ex
 
 Esta convocatoria no podrá restringir los derechos que esta ley reconoce a los ciudadanos y a los partidos políticos ni alterar los procedimientos y formalidades que el mismo ordenamiento establece.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-Los plazos señalados para las elecciones ordinarias se podrán ampliar cuando a juicio del Consejo General haya imposibilidad material de realizar dentro de ellos los actos para los cuales están establecidos.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
-
-De igual forma, el Consejo General, cuando así lo considere necesario, podrá aprobar los ajustes necesarios a los plazos establecidos en esta Ley, dichos ajustes deberán realizarse antes de la segunda quincena del mes de diciembre del año previo al de la jornada electoral.
+Los plazos señalados en esta Ley para las elecciones ordinarias se podrán ampliar cuando a juicio del Consejo General haya imposibilidad material de realizar dentro de ellos los actos para los cuales están establecidos y de igual forma podrá reducirlos cuando considere necesario. En ambos casos, en el acuerdo relativo deberá incluir la motivación y justificación de su proceder.
 
 Durante el proceso electoral, todos los días y horas son hábiles.
 
@@ -425,11 +413,17 @@ Para la elección de candidaturas a Diputaciones por el principio de representac
 
 Para que un partido político obtenga el registro de su lista estatal para la elección de candidaturas a Diputaciones de representación proporcional deberá acreditar que también participa con candidaturas a Diputaciones por el sistema de mayoría relativa en por lo menos diez distritos uninominales.
 
-Las listas estatales se integrarán con dieciséis fórmulas de candidaturas propietarias y suplentes, cada formula deberá ser del mismo género.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-Cuando en una fórmula la candidatura propietaria se asigne a un candidato de género masculino podrá ser registradas (sic) como suplente a una persona del género femenino.
+Las listas estatales se integrarán con dieciséis fórmulas de candidaturas propietarias y suplentes.
 
-En ningún caso se deberá registrar una lista en la que más del cincuenta por ciento de las fórmulas de candidaturas sean de un solo género. Dichas listas deberán estar integradas alternadamente, de tal manera que a una fórmula de un género le siga siempre una fórmula de género distinto.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+Las formulas a las que alude el párrafo anterior deberán ser del mismo género.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+En ningún caso se deberá registrar una lista en la que más del cincuenta por ciento de las fórmulas de candidatos sean de un solo género. Dichas listas deberán estar integradas alternadamente, de tal manera que a una fórmula de un género siga siempre otra de género distinto. La lista estatal siempre deberá ser encabezada por una fórmula integrada por el género femenino.
 
 Sólo tendrán derecho que se les asignen Diputaciones de representación proporcional, los partidos políticos que como mínimo alcancen el tres por ciento de la votación estatal emitida para la elección de Diputaciones por dicho principio.
 
@@ -437,9 +431,11 @@ Ningún partido político podrá contar con más de veinticuatro Diputaciones po
 
 En ningún caso un partido político podrá contar con un número de Diputaciones por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de diputaciones del total de la Legislatura superior a la suma del porcentaje de su votación estatal emitida, más los ocho puntos mencionados. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-Para la elección de Regidurías de representación proporcional de los Ayuntamientos, los partidos políticos participantes que obtengan votación minoritaria y alcancen cuando menos el tres por ciento de la votación municipal emitida tendrán derecho a que se les asignen Regidurías de representación proporcional.
+Para la elección de Regidurías de representación proporcional de los Ayuntamientos, las listas de Partidos Políticos y Candidatos Independientes participantes que obtengan votación minoritaria y alcancen cuando menos el 3 % de la votación municipal emitida tendrán derecho a que se les asignen Regidurías de representación proporcional.
 
 Las listas municipales se integrarán con el número de candidatos a Regidores que corresponda al municipio respectivo, conforme lo establece el artículo 112 de la Constitución Estatal y el artículo 15 de esta ley.
 
@@ -499,6 +495,22 @@ b) Hecha la asignación anterior, se procederá a continuar la distribución de 
 
 5. Una vez aplicado el valor de asignación y cociente, tanto naturales como ajustados, en su caso, si aún quedasen curules por repartir, se asignarán aplicando los restos mayores.
 
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+III. Una vez concluida la asignación de las Diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el 3% de la votación estatal emitida, se verificará si sumadas éstas con las Diputaciones electas por el sistema de mayoría relativa se logra satisfacer el principio de paridad de género en la integración del Congreso.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+IV. De no lograrse la paridad total, el Instituto procederá a reajustar la asignación realizada de las listas de representación proporcional en los términos de la fracción II de este artículo, deduciendo a los partidos políticos tantas Diputaciones del género sobrerrepresentado como fuere necesario en el orden de prelación en que aparezcan, substituyéndolas con fórmulas del género subrepresentado. Para estos efectos, se estará a lo siguiente:
+
+a) Iniciará el reajuste modificando una Diputación del género sobrerrepresentado según como hubiere sido asignada al partido político con mayor porcentaje de votación, entre los que superaron la votación estatal mínima; y
+
+b) Si con esa modificación se logra la paridad en la integración del Congreso, concluirá el procedimiento de reajuste; pero de persistir la disparidad, se continuará con el siguiente partido que haya ocupado el lugar inmediato siguiente en orden descendente y así sucesivamente hasta lograrse la paridad total o bien acercarse lo más posible según el número de Diputaciones que requieran ser modificadas.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+V. En todo caso, solo procederá la paridad total de género en la integración del Congreso, cuando el resultado de las votaciones en la (sic) elecciones, por lo que respecta a las Diputaciones por el Principio de Mayoría Relativa, no sea superior en número de 20 para un solo género.
+
 ###### Artículo 29.
 
 Para la aplicación de las fórmulas de asignación de regidurías de representación proporcional se entiende por:
@@ -524,6 +536,18 @@ I. Se asignará una regiduría a cada partido que al menos haya obtenido el tres
 II. Hecha la asignación anterior, se restará el valor de asignación a cada partido político que haya obtenido el porcentaje mínimo.
 
 El número de votos que a cada partido político quede, servirá para continuar la asignación de regidurías dividiéndolo entre el cociente natural que corresponda de acuerdo con el municipio y en caso necesario por restos mayores.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 30 Bis.
+
+Concluida la asignación de regidurías por el principio de representación proporcional a cada uno de los partidos políticos que superaron el porcentaje mínimo, se verificará si sumadas éstas con relación a la planilla electa integrada por el Presidente Municipal, Síndico Procurador y las regidurías electas por el sistema de mayoría relativa se satisface el principio de paridad de género en la integración del Ayuntamiento.
+
+En caso de no alcanzar una integración paritaria, el órgano electoral competente reajustará la asignación realizada en términos del artículo 30 de esta Ley por lo que respecta a la planilla de regidores plurinominales, sustituyendo tantas regidurías del género sobrerepresentado (sic) como fuere necesario, con las del género subrepresentado, siguiendo el orden de prelación de las listas. Para estos efectos, procederá de la siguiente manera:
+
+a) Reasignará una regiduría del género sobrerrepresentado al partido político con mayor porcentaje de votación, entre los que superaron la votación municipal mínima, con la persona propuesta en el orden inmediato siguiente de la lista del mismo partido; y
+
+b) Si con esa modificación se logra la paridad en la integración del ayuntamiento concluirá el procedimiento de reajuste; pero de persistir la disparidad, se continuará con el partido que haya ocupado el lugar inmediato siguiente en orden descendente y así sucesivamente hasta lograrse la paridad total o bien acercarse lo más posible según el número de regidurías que requieran ser reasignadas.
 
 ## TÍTULO TERCERO. De los Partidos Políticos
 
@@ -615,7 +639,9 @@ Los partidos políticos nacionales tienen derecho de participar en las eleccione
 
 Para el ejercicio del derecho reconocido en el párrafo anterior, bastará que cada partido político nacional lo manifieste por escrito al Instituto, dentro de los quince días posteriores a la publicación de la convocatoria a elecciones que expida el Congreso del Estado, proporcionando:
 
-I. El domicilio para notificaciones en la capital del Estado, al que se remitirán también las convocatorias a sesiones del Consejo General y de las comisiones de trabajo, así como cualquier otro aviso que se requiera;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+I. El domicilio para notificaciones en la capital del Estado, al que se remitirán también las convocatorias a sesiones del Consejo General y de las comisiones de trabajo, así como cualquier otro aviso que se requiera, y, en su caso, una dirección de correo electrónico válida, en caso de solicitar la recepción de notificación electrónica, cumpliendo con el procedimiento que al efecto establezca el Pleno;
 
 II. El directorio de integrantes de su dirigencia y demás órganos internos estatales, incluyendo teléfonos y correos electrónicos de contacto; y
 
@@ -1129,13 +1155,9 @@ Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente p
 
 Los partidos políticos podrán establecer en instituciones bancarias domiciliadas en México cuentas, fondos o fideicomisos para la inversión de sus recursos líquidos, a fin de obtener rendimientos financieros, sujetos a las reglas y verificaciones establecidas en la Ley General de Partidos Políticos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
 ###### Artículo 66.
 
-Los Ayuntamientos otorgarán a los partidos políticos de conformidad con lo dispuesto en el artículo 15 de esta ley, financiamiento mensual en base a cien veces el valor diario de la Unidad de Medida y Actualización por cada regiduría que les corresponda. Para este efecto, será presupuestado por los respectivos Cabildos.
-
-Los Partidos Políticos deberán incorporar a sus informes anuales la comprobación del origen, monto y destino de este financiamiento.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2020)
 
 ### Capítulo IX. Del Acceso de los Partidos Políticos a los Medios de Comunicación Social
 
@@ -1165,9 +1187,11 @@ Los partidos políticos, coaliciones y candidatos independientes en la propagand
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 70.
 
-Las candidaturas independientes para el cargo de Gobernador, Diputados, Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, son aplicables en los términos de lo dispuesto en la fracción IV, incisos k) y p) del artículo 116 de la Constitución y artículos 10, fracción II y 14 de la Constitución Estatal.
+Las candidaturas independientes para el cargo de Gobernador, Diputaciones, Presidente Municipal, Síndico Procurador y Regidores por ambos principios, son aplicables en los términos de lo dispuesto en la fracción IV, Incisos k) y p) del artículo 116 de la Constitución y artículos 10, fracción II y 14 de la Constitución Estatal.
 
 ###### Artículo 71.
 
@@ -1193,13 +1217,19 @@ I. Gobernador;
 
 II. Diputado por el sistema de mayoría relativa; y,
 
-III. Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-No procederá en ningún caso, el registro de aspirantes a candidaturas independientes por el principio de representación proporcional.
+III. Presidente Municipal, Síndico Procurador y Regidores por los sistemas de mayoría relativa y representación proporcional.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+No procederá el registro de aspirantes a candidaturas independientes para Diputaciones por el principio de representación proporcional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 76.
 
-Para los efectos del cargo de Gobernador, se registra una candidatura única; para integración del Congreso, las candidaturas independientes para el cargo de Diputado deberán registrar la fórmula correspondiente de propietario y suplente por Distrito; en el caso de la integración del Ayuntamiento deberán registrar una planilla de candidaturas independientes, integrada por un solo candidato para el cargo de Presidente Municipal y con candidatos, propietario y suplente, tratándose del Síndico Procurador y Regidurías por el sistema de mayoría relativa.
+Para los efectos del cargo de Gobernador se registra una candidatura única; para integración del Congreso las candidaturas independientes para el cargo de Diputado deberán registrar la fórmula correspondiente de propietario y suplente por Distrito; en el caso de la integración del Ayuntamiento deberán registrar una planilla de candidaturas independientes, integrada por un solo candidato para el cargo de Presidente Municipal y con candidatos propietario y suplente tratándose del Síndico Procurador y Regidurías.
 
 En la integración de fórmulas de candidatos independientes, cuando el propietario sea del género masculino, el suplente podrá ser de cualquier género, pero si el propietario fuera del género femenino únicamente podrá integrar fórmula con suplente del mismo género.
 
@@ -1243,11 +1273,13 @@ I. Las y los aspirantes al cargo de Gobernador del Estado, ante el Consejo Gener
 
 II. Las fórmulas de aspirantes al cargo de Diputado local por el sistema de mayoría relativa ante el Consejo Distrital correspondiente; y,
 
-III. Las planillas de aspirantes a los cargos de Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, ante el Consejo Municipal respectivo.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2020)</small>
+III. Las planillas de aspirantes a los cargos de Presidente Municipal, Síndico Procurador y Regidores, así como las listas a regidores por el Principio de Representación Proporcional, ante el Consejo Municipal respectivo.
 
-Las manifestaciones de intención de ciudadanos que pretendan postularse como candidatos independientes a los cargos de Diputados, Presidente municipal, Síndico Procurador y Regidurías, todos por el sistema de mayoría relativa, podrán presentarse supletoriamente ante el Consejo General, quien podrá acreditar a los aspirantes que hayan cumplido con los requisitos; así como recibir y resolver las solicitudes de registro de fórmulas de candidatos independientes a dichos cargos.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+Las manifestaciones de intención de ciudadanos que pretendan postularse como candidatos independientes a los cargos de Diputaciones, Presidente Municipal, Síndico Procurador y Regidurías por ambos principios, podrán presentarse supletoriamente ante el Consejo General, quien podrá acreditar a los aspirantes que hayan cumplido con los requisitos; así como recibir y resolver las solicitudes de registro de fórmulas de candidatos independientes a dichos cargos.
 
 Una vez hecha la comunicación a que se refiere el párrafo primero de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes.
 
@@ -1349,9 +1381,13 @@ IV. Rechazar toda clase de apoyo económico, político o propagandístico proven
 
 a) Los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades federativas, y los ayuntamientos;
 
-b) Las dependencias, entidades u organismos de la Administración Pública Federal, Estatal o Municipal, centralizada o paraestatal, y los órganos de gobierno del Distrito Federal;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-c) Los organismos autónomos federales, estatales y del Distrito Federal;
+b) Las dependencias, entidades u organismos de la Administración Pública Federal, Estatal o Municipal, centralizada o paraestatal, y los órganos de gobierno de la Ciudad de México;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+c) Los organismos autónomos federales, estatales y de la Ciudad de México;
 
 d) Los partidos políticos, personas físicas o morales extranjeras;
 
@@ -1379,9 +1415,11 @@ IX. Las demás establecidas por esta ley.
 
 Las y los ciudadanos que aspiren a participar como candidatos independientes en las elecciones locales de que se trate, deberán satisfacer los requisitos señalados por la Constitución Estatal y el presente ordenamiento para los cargos de elección a que aspiren.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 93.
 
-Los plazos y órganos competentes para el registro de las candidaturas independientes en el año de la elección, serán los mismos que se señalan en la presente ley para Gobernador, Diputados, Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa.
+Los plazos y órganos competentes para el registro de las candidaturas independientes en el año de la elección serán los mismos que se señalan en la presente ley para Gobernador, Diputados, Presidente Municipal, Síndico Procurador y Regidurías.
 
 El Instituto dará amplia difusión a la apertura del registro de las candidaturas independientes y a los plazos a que se refiere el presente artículo.
 
@@ -1405,7 +1443,9 @@ e) Clave de la credencial para votar con fotografía vigente del solicitante;
 
 f) Cargo para el que se pretenda postular el solicitante;
 
-g) Designación del representante legal y domicilio para oír y recibir notificaciones; y,
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+g) Designación del representante legal y domicilio para oír y recibir notificaciones y, en su caso, una dirección de correo electrónico válida, en caso de solicitar la recepción de notificación electrónica; y,
 
 h) Designación de la persona encargada del manejo de los recursos financieros y de la rendición de informes correspondientes;
 
@@ -1465,9 +1505,11 @@ VII. En el caso que una misma persona haya presentado manifestación en favor de
 
 Si la solicitud no reúne el porcentaje mínimo requerido de apoyo ciudadano se tendrá por no presentada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 98.
 
-Ninguna persona podrá solicitar su registro como candidato para un cargo de elección popular del orden estatal y simultáneamente para otro de índole federal o del Distrito Federal. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro local.
+Ninguna persona podrá solicitar su registro como candidato o candidata para un cargo de elección popular del orden local y simultáneamente para otro de índole federal. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho se procederá a la cancelación automática del registro local.
 
 Las y los candidatos independientes que hayan sido registrados no podrán ser postulados como candidatos por un partido político o coalición en el mismo proceso electoral.
 
@@ -1593,9 +1635,13 @@ No podrán recibir aportaciones o donativos en dinero o en especie por sí o por
 
 I. Los Poderes Ejecutivo, Legislativo y Judicial de la Federación y de las Entidades, así como los Ayuntamientos;
 
-II. Las Dependencias, Entidades u Organismos de la Administración Pública Federal, Estatal o Municipal, así como los del Distrito Federal;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-III. Los Organismos Autónomos Federales, Estatales y del Distrito Federal;
+II. Las Dependencias, Entidades u Organismos de la Administración Pública Federal, Estatal o Municipal, así como los de la Ciudad de México;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+III. Los Organismos Autónomos Federales, Estatales y de la Ciudad de México;
 
 IV. Los partidos políticos, personas físicas o morales extranjeras;
 
@@ -1753,9 +1799,11 @@ Los documentos electorales serán elaborados por el Instituto, aplicando en lo c
 
 Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por esta ley.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 137.
 
-Para determinar la votación requerida para la asignación de Diputaciones y Regidurías por el principio de representación proporcional no serán contabilizados los votos recibidos a favor de Candidatos Independientes.
+Para determinar la votación requerida para la asignación de Diputaciones por el principio de representación proporcional no serán contabilizados los votos recibidos a favor de Candidatos Independientes.
 
 ## TÍTULO QUINTO. De las Autoridades Electorales y la Organización Electoral
 
@@ -1903,9 +1951,9 @@ I. Conducir la preparación, desarrollo y vigilancia del proceso electoral y cui
 
 II. Dictar normas y previsiones destinadas a hacer efectivas las disposiciones de esta ley;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-III. Designar durante la primera quincena del mes de enero del año de la elección, al Presidente y consejeros electorales que integren los Consejos Distritales y a los integrantes de los Consejos Municipales con base en los lineamientos respectivos y el principio de paridad de género;
+III. Designar durante la primera quincena del mes de enero del año de la elección, a la Presidenta o Presidente, así como a Consejeras y Consejeros electorales que integren los Consejos Distritales y los Consejos Municipales, respectivamente, con base en los lineamientos respectivos que emitan. De igual manera podrán remover, previo ejercicio del derecho de audiencia y el debido proceso conforme a los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos, cuando incumplan reiteradamente los principios rectores de la función electoral contemplados en el artículo 15 de la Constitución Estatal;
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2020)</small>
 
@@ -1994,6 +2042,86 @@ XXXVIII Bis A. Vigilar se prevenga, atienda y erradique la violencia política c
 XXXIX. Formular solicitud expresa al Instituto Nacional Electoral para que asuma la organización integral del proceso electoral correspondiente, con base en los convenios a que refiere la fracción anterior; y
 
 XL. Todas las demás que le sean delegadas por Instituto Nacional Electoral y las que le confieran ésta y otras leyes y disposiciones complementarias.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 146 Bis.
+
+Conforme a la fracción III del artículo anterior, las Titulares o Titulares de las Consejerías y Presidencias de los Consejos Electorales Municipales y Distritales, podrán ser sancionados por incurrir en alguna de las siguientes causas:
+
+I. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Instituto;
+
+II. No poner en conocimiento de las Presidencias o de la Secretaría Ejecutiva del Instituto todo acto tendiente a vulnerar la independencia de la función electoral;
+
+III. Actuar con indisciplina en el ejercicio del cargo o empleo;
+
+IV. No atender con la debida diligencia y respeto a las y los usuarios o público en general que acudan a las oficinas;
+
+V. Dar tratos preferenciales sin causa justificada;
+
+VI. Asentar hechos falsos en las actuaciones o alterarlas, aunque no se cause perjuicio con ello a parte interesada; y,
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en la presente Ley, en los Lineamientos que emita el Instituto, y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 146 Bis A. Las infracciones señaladas en el artículo 146 Bis serán sancionadas conforme a lo siguiente:
+
+I. Apercibimiento;
+
+II. Amonestación privada o pública; y
+
+III. Suspensión temporal sin goce de sueldo de hasta quince días.
+
+Para la individualización de las sanciones, una vez acreditada la existencia de una infracción y su imputación, se deberán tomar en cuenta entre otras, las siguientes circunstancias:
+
+I. La gravedad de la responsabilidad en que se incurra;
+
+II. La conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de la presente Ley, en atención al bien jurídico tutelado, o las que se dicten con base en él;
+
+III. Las circunstancias de modo, tiempo y lugar de la infracción;
+
+IV. Los medios de ejecución;
+
+V. La reincidencia en el incumplimiento de obligaciones, y
+
+VI. En su caso el daño o perjuicio derivado del incumplimiento de obligaciones.
+
+Se considerará reincidente a la persona infractora que habiendo sido declarada responsable del incumplimiento de alguna de las infracciones a que se refiere este artículo, incurra nuevamente en la misma conducta infractora, aun cuando la conducta hubiese sido cometida en el proceso electoral inmediato anterior.
+
+El procedimiento sancionador correspondiente se desarrollara sujetándose a los lineamientos que emita el Instituto.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 146 Bis B. Las Titulares o los Titulares de las Consejerías y Presidencias de los Consejos Electorales Distritales y Municipales, podrán ser removidos por el Consejo General, por incurrir en alguna de las siguientes causas:
+
+I. Realizar conductas que atenten contra la independencia e imparcialidad de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
+
+II. Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+
+III. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
+
+IV. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
+
+V. Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo;
+
+VI. Utilizar las instalaciones de los Consejos Electorales para actividades que no sean eminentemente electorales;
+
+VII. Utilizar indebidamente para sí o por interpósita persona, la documentación e información que, por razón de su función, conozca o conserve bajo sus cuidados o a la cual tenga acceso, así como sustraer, destruir, ocultar o inutilizar la misma;
+
+VIII. Realizar actos de discriminación, acciones u omisiones que generen cualquier tipo de violencia, acoso sexual y/o laboral, amagos, malos tratos o expresar críticas ofensivas o injuriosas contra compañeras y compañeros, dentro o fuera de las horas de servicio;
+
+IX. Comprometer la seguridad de quien se encuentre en los Consejos;
+
+X. Presentarse al desempeño de sus labores bajo los influjos del alcohol, tóxicos, narcóticos o enervantes;
+
+XI. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento; y
+
+XII. Transgredir de manera grave o reiterada la presente Ley, los Lineamientos, criterios y formatos que emita el Instituto, así como cualquier otra disposición jurídica aplicable que dañe los principios rectores de la función electoral.
+
+Cuando las Presidentas o Presidentes, Consejeras o Consejeros Electorales faltaren injustificadamente a dos sesiones consecutivas del Consejo Distrital o Municipal del que forme parte, se procederá conforme a lo señalado en el artículo 150 de la presente Ley, llamando al suplente en orden de prelación.
+
+Si las Presidentas o Presidentes, Consejeras o Consejeros Electorales Distrital o Municipal consideran que hubo alguna afectación a sus derechos, podrá acudir a la Comisión de Quejas respectiva a efecto de que ésta revise el procedimiento descrito en el párrafo anterior.
 
 ###### Artículo 147.
 
@@ -2437,7 +2565,9 @@ III. Lineamientos, normas complementarias, convocatoria y acuerdos que se tomen 
 
 IV. Nombre del responsable de la obtención, administración y gasto de los recursos recabados, del precandidato; y,
 
-V. Domicilio para oír y recibir notificaciones del precandidato.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+V. Domicilio para oír y recibir notificaciones del precandidato o, en su caso, una dirección de correo electrónico válida, en caso de solicitar la recepción de notificación electrónica.
 
 En caso de que el precandidato no informe que desea iniciar la precampaña, tanto el Consejo General como los partidos políticos o coaliciones, deberán reconocer que la precampaña ha dado inicio, una vez que sean públicos y notorios los actos y gastos de precampaña, y podrá ser sujeto a sanciones conforme lo establecido por los estatutos del partido correspondiente y esta ley.
 
@@ -4277,7 +4407,9 @@ La queja podrá ser presentada por escrito en forma oral o por medios de comunic
 
 I. Nombre del quejoso, con firma autógrafa o huella digital;
 
-II. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+II. Domicilio para oír y recibir notificaciones y, en su caso, una dirección de correo electrónico válida, en caso de solicitar la recepción de notificación electrónica;
 
 III. Los documentos que sean necesarios para acreditar la personalidad;
 
@@ -4349,7 +4481,9 @@ I. Nombre del denunciado o su representante, con firma autógrafa o huella digit
 
 II. Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos o declarando que los desconoce;
 
-III. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+III. Domicilio para oír y recibir notificaciones y, en su caso, una dirección de correo electrónico válida, en caso de solicitar la recepción de notificación electrónica;
 
 IV. Los documentos que sean necesarios para acreditar la personalidad; y,
 
@@ -4441,7 +4575,9 @@ La queja deberá reunir los siguientes requisitos:
 
 I. Nombre del quejoso, con firma autógrafa o huella digital;
 
-II. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+II. Domicilio para oír y recibir notificaciones y, en su caso, una dirección de correo electrónico válida, en caso de solicitar la recepción de notificación electrónica;
 
 III. Los documentos que sean necesarios para acreditar la personalidad;
 
@@ -4716,3 +4852,9 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 505 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA”.]
+
+Único. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
