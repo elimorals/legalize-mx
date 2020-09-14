@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2020-09-11"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -303,9 +303,9 @@ XXVIII. Constituir y administrar su archivo;
 
 XXIX. Colaborar con el Ministerio Público Federal proporcionando los datos, registros y actuaciones de la investigación de delitos relacionados o cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-XXX. Investigar y perseguir los delitos en el ámbito de su competencia, conforme a las Leyes Generales relacionadas con la materia de desaparición forzada y en materia de tortura;
+XXX. Investigar y perseguir los delitos en el ámbito de su competencia, conforme a las Leyes Generales relacionadas con la materia de desaparición forzada, de tortura, y de delitos electorales;
 
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
 
@@ -321,15 +321,17 @@ I. Las Vicefiscalías General, Regionales y/o Especializadas;
 
 II. Fiscalía Especializada en Combate a la Corrupción;
 
-III. Fiscalía Especializada en Atención de Delitos Electorales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
+III. Fiscalía Especializada en Desapariciones Forzadas;
 
-IV. Fiscalía Especializada en Desapariciones Forzadas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
+IV. Fiscalía Especializada en Materia de Tortura;
 
-V. Fiscalía Especializada en Materia de Tortura;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+V. Fiscalía Especializada en Atención de Delitos Electorales;
 
 VI. Órgano Interno de Control;
 
@@ -541,19 +543,21 @@ II. El servidor público suplente del Fiscal General resolverá sobre el inicio 
 
 El Fiscal General será representado ante las autoridades judiciales, administrativas y del trabajo por los servidores públicos que determine el Reglamento o por los Ministerios Públicos que designe para el caso concreto y con las formalidades que para el caso establezca la legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-## TÍTULO IV. DE LAS FISCALÍAS ESPECIALIZADAS EN COMBATE A LA CORRUPCIÓN, DE DESAPARICIÓN FORZADA DE PERSONAS Y DE TORTURA
+## TÍTULO IV. DE LAS FISCALÍAS ESPECIALIZADAS EN COMBATE A LA CORRUPCIÓN, DE DESAPARICIÓN FORZADA DE PERSONAS, DE TORTURA, Y DE ATENCIÓN A DELITOS ELECTORALES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO ÚNICO. DE LAS FISCALÍAS ESPECIALIZADAS
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-Las Fiscalías Especializadas son órganos encargados de investigar y perseguir los hechos o actos que las Leyes Generales y la del Estado consideran como delitos, en materia de corrupción, de desapariciones forzadas de personas y de tortura en el Estado, respectivamente.
+Las Fiscalías Especializadas son órganos encargados de investigar y perseguir los hechos o actos que las Leyes Generales y la legislación en el Estado consideran como delitos en materia de corrupción, desapariciones forzadas de personas, tortura y electoral.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
 
 Por su competencia y relevancia, todas tienen el nivel de Vicefiscalía General.
 
@@ -573,11 +577,13 @@ III. Acreditar los cursos de especialización, capacitación y de actualización
 
 Artículo 21 Bis A. La Fiscalía General debe capacitar, conforme a los más altos estándares internacionales, a los servidores públicos adscritos a las Fiscalías Especializadas en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica en la materia de su competencia, aplicación del Protocolo Homologado para la investigación, identificación forense, cadena de custodia, entre otros. De igual forma, podrán participar con las autoridades competentes, en la capacitación de los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de la legislación aplicable.
 
-(REFORMADO, P.O. 22 DE JULIO DE 2019) (F. DE E., P.O. 7 DE FEBRERO DE 2020)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-Los Fiscales Especializados en Combate a la Corrupción, de Desapariciones Forzadas de Personas, y de Tortura serán designados y removidos por el Fiscal General. El Congreso del Estado, podrá objetar los nombramientos y remociones dentro del plazo de diez días hábiles, en la forma dispuesta en el artículo 76 Bis A de la Constitución Política del Estado de Sinaloa.
+Los Fiscales Especializados en Combate a la Corrupción, de Desapariciones Forzadas de Personas, de Tortura y de Atención a Delitos Electorales serán designados y removidos por el Fiscal General. El Congreso del Estado podrá objetar los nombramientos y remociones dentro del plazo de diez días hábiles en la forma dispuesta por el artículo 76 Bis A de la Constitución Política del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
 
 Para tal efecto, una vez que se realicen los nombramientos respectivos, el Fiscal General los remitirá al Congreso del Estado conjuntamente con los expedientes que contengan la documentación correspondiente para la acreditación del cumplimiento de los requisitos para ocupar el cargo.
 
@@ -759,13 +765,37 @@ XII. Proponer políticas para la prevención de las conductas previstas en esta 
 
 XIII. Las demás que dispongan esta Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-Artículo 23 Bis B. El Reglamento establecerá los recursos humanos, materiales y estructura de las Fiscalías Especializadas, así como las funciones de sus servidores públicos, garantizando la adecuada operación, eficacia y eficiencia en su desempeño, a fin de cumplir en todo momento con la legislación en la materia que tienen competencia y las tareas encomendadas.
+Artículo 23 Bis B. Corresponde a la Fiscalía Especializada en Materia de Atención a Delitos Electorales, la realización de las atribuciones siguientes:
 
-Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte de las Fiscalías Especializadas, que sean necesarios para regular la actuación de las instituciones a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+I. Desarrollar mecanismos de coordinación y colaboración entre las instituciones electorales del Estado y los municipios, con la finalidad de fortalecer el combate de los delitos previstos (sic) la Ley aplicable;
 
-Las Fiscalías Especializadas se sujetarán a lo que expresamente establecen las Leyes Generales de la materia de su competencia, al Código Nacional de Procedimientos Penales, en materia de investigación y persecución de los delitos que deban realizar conforme a las mismas, y demás disposiciones aplicables.
+II. Impulsar acuerdos de coordinación entre dependencias del Gobierno Federal y el Estado, en conjunto con la Fiscalía General de la República, que permitan prestar asistencia en materia de procuración de justicia electoral;
+
+III. Implementar un Sistema Estatal de Formación, Actualización, Capacitación y Profesionalización de los servidores públicos que participen en los procesos de investigación y procuración de los delitos electorales previstos en la legislación aplicable;
+
+IV. Establecer los protocolos estandarizados para el Estado en materia de investigación y persecución de los delitos electorales previstos en la Ley, incluyendo el uso de la fuerza pública;
+
+V. Facilitar la cooperación e intercambio de información entre las diversas instituciones del Estado y los Municipios, para una eficaz procuración de justicia en el Estado en materia de delitos electorales;
+
+VI. Recopilar e intercambiar los datos y estadísticas delictivas de los delitos electorales, de conformidad con la ley aplicable;
+
+VII. Formular políticas integrales sistemáticas, continuas y evaluables, así como programas y estrategias para el combate de las conductas constitutivas de delitos electorales;
+
+VIII. Fomentar la participación de la comunidad y de instituciones académicas que coadyuven en los procesos de evaluación de las políticas de prevención de las conductas previstas como delitos electorales; y
+
+IX. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 23 Bis C. El Reglamento Interno de las Fiscalías Especializadas, detallará y establecerá sus estructuras orgánicas, recursos humanos y materiales, las atribuciones competenciales de cada uno de sus órganos internos, así como las facultades y obligaciones de las personas que sean titulares de las mismas, garantizando la adecuada operación, eficacia y eficiencia en su desempeño, a fin de cumplir en todo momento con la legislación en la materia respecto de la que tienen competencia y las tareas encomendadas.
+
+En la designación de las personas titulares correspondiente a la estructura organizacional de cada una de las Fiscalías Especializadas, se deberá de tomar en consideración el principio de paridad de género.
+
+Los acuerdos, circulares, instructivos, lineamientos, manuales y demás normas administrativas emitidas por parte de las Fiscalías Especializadas, que sean necesarios para regular la actuación de las instituciones a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+
+Las Fiscalías Especializadas en el desarrollo de las acciones de investigación y persecución de los delitos, sus atribuciones, así como demás procedimientos, se sujetarán a lo que expresamente establecen las Leyes Generales de la materia de su competencia, al Código Nacional de Procedimientos Penales, asimismo a la demás legislación aplicable.
 
 ## TÍTULO V. DEL CONSEJO CONSULTIVO DE LA FISCALÍA GENERAL
 
@@ -1686,3 +1716,9 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la (sic) demás legislación de la materia que sea aplicable.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 501 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA".]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de publicación en el Periódico Oficial "El Estado de Sinaloa".
