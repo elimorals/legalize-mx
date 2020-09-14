@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-a-la-innovacion-y-al-desarrollo-cientifico-y-559
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-07"
-last_updated: "2007-06-07"
+last_updated: "2020-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE FOMENTO A LA INNOVACION Y AL DESARROLLO CIENTIFICO Y TECNOLOGICO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 14 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO A LA INNOVACION Y AL DESARROLLO CIENTIFICO Y TECNOLOGICO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 7 de junio de 2007.
 
@@ -754,3 +756,21 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARAN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley 78, de Fomento a la Innovación y al Desarrollo Científico y Tecnológico del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado, número 46, Sección I, de fecha 7 de Junio de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales y administrativas que se opongan a la presente Ley.
