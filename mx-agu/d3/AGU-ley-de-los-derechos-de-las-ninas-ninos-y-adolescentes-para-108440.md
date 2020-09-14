@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-05-25"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -473,11 +473,11 @@ III. Se tomará en consideración el grado de parentesco; la relación de afinid
 
 IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 28.
 
-Cuando el Sistema DIF Estatal, haya autorizado la integración de niñas, niños o adolescentes a una familia de acogimiento pre-adoptivo, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
+Cuando el Sistema DIF Estatal, haya autorizado la integración de niñas, niños o adolescentes bajo la figura de acogimiento pre-adoptivo, deberá otorgarse un acta de custodia a la familia pre-adoptiva por el término de tres meses; dentro del cual se dará seguimiento mensual mediante visitas de trabajo social y de psicología, para constatar la idónea convivencia y adaptación del menor de edad en su nueva situación con dicha familia, con la finalidad de prevenir o superar las dificultades que se puedan presentar. El acogimiento pre-adoptivo podrá renovarse las veces que sean necesarias hasta en tanto sea resuelta la situación jurídica del menor de edad, siempre y cuando se hayan consolidado las condiciones adecuadas para el menor de edad en la familia de acogimiento pre-adoptivo.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -2280,6 +2280,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 25 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 333.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 50, FRACCIONES XVII Y XVIII; 57, PÁRRAFO SEGUNDO FRACCIÓN IX; 110, FRACCIONES XII PÁRRAFO SEGUNDO, Y XIII, 111, 112 FRACCIONES XXI Y XXII; 119, FRACCIONES XIX Y XX; Y SE ADICIONAN LA FRACCIÓN XIX AL ARTÍCULO 50; LA FRACCIÓN XIV AL ARTÍCULO 110; LA FRACCIÓN XXIII AL ARTÍCULO 112; Y LA FRACCIÓN XXI AL ARTÍCULO 119; TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 386.- ÚNICO.- SE REFORMA EL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
