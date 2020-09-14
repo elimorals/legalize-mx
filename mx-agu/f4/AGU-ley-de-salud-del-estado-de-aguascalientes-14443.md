@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2020-05-29"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -623,6 +623,10 @@ La Federación y el Gobierno del Estado, de conformidad con las disposiciones le
 
 Los recursos que aporten las partes quedarán expresamente afectos a los fines del acuerdo respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos quedará a cargo de la estructura administrativa que establezcan, coordinadamente, la Federación y el Gobierno del Estado.
 
+ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)
+
+ARTICULO 35 BIS.- El Gobernador del Estado y los Presidentes Municipales, deberán incluir en sus informes de evaluación, las acciones específicas realizadas en materia de combate al alcoholismo, tabaquismo, farmacodependencia y promoción de la salud mental.
+
 ## TITULO QUINTO. PRESTACION DE LOS SERVICIOS DE SALUD
 
 ### CAPITULO I. Disposiciones Comunes
@@ -1203,7 +1207,9 @@ El Comité estará integrado por los siguientes miembros:
 
 I.- Un Presidente, que será el Secretario de Salud del Estado;
 
-II.- Un Secretario Técnico, que será el Jefe de Departamento de Nefrología del Hospital Miguel Hidalgo;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Un Secretario Técnico, quien será designado por el Secretario de Salud del Estado, debiendo ser un médico especialista en nefrología miembro del Sistema Nacional de Investigadores, o con trayectoria en investigación en la materia;
 
 III.- El Presidente de la Comisión Legislativa de Salud Pública y Asistencia Social;
 
@@ -1237,9 +1243,9 @@ I.- Participar y emitir opiniones para la formulación de las políticas públic
 
 II.- Promover y establecer mecanismos para la coordinación de esfuerzos en materia de atención a enfermos renales;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-III.- Elaborar anualmente un informe que contenga los datos estadísticos, de los pacientes que reciben atención y tratamiento médico con padecimientos de insuficiencia renal, así como las tasas de mortalidad y morbilidad de este;
+III.- Elaborar anualmente un informe público que contenga los datos estadísticos, de los pacientes que reciben atención y tratamiento médico con padecimientos de insuficiencia renal, las tasas de mortalidad y morbilidad de este, así como los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia;
 
 IV.- Promover la realización de estudios de investigación con la finalidad de identificar los factores de riesgo, principales causas, métodos de prevención y tratamiento de la insuficiencia renal; y
 
@@ -3844,3 +3850,35 @@ En caso de existir remanentes luego de que se hayan cumplido totalmente con las 
 ###### ARTÍCULO DÉCIMO CUARTO.
 
 Quedan derogadas todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 382.- ÚNICO.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 83 OCTIES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 387.- ÚNICO.- SE ADICIONA EL ARTÍCULO 35 BIS A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 388.- ÚNICO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 83 UNDECIES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité Interinstitucional de Atención a Enfermos Renales deberá celebrar su primera sesión dentro de los noventa días siguientes a la fecha de entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Comité Interinstitucional de Atención a Enfermos Renales expedirá su Reglamento Interior en un término no mayor de sesenta días, contado a partir de la fecha en que celebre su primera sesión, para lo cual deberá publicarse en el Periódico Oficial del Estado de Aguascalientes.
