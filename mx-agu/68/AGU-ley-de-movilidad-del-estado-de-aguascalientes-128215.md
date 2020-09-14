@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2019-11-28"
+last_updated: "2020-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -3049,6 +3049,8 @@ IV. Ciclocarril: Carril en la vialidad, destinado exclusivamente para la circula
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 228.
 
 Las vías públicas se clasifican en:
@@ -3725,7 +3727,7 @@ III. Por recibir el pago en forma distinta a la establecida en esta Ley.
 
 ###### ARTÍCULO 282.
 
-Los agentes deberán entregar a sus superiores reporte escrito al terminar su turno, conforme al instructivo correspondiente de todo hecho de tránsito terrestre del que hayan tenido conocimiento, para tal efecto utilizarán las formas aprobadas las cuales estarán foliadas para su control.
+Los agentes deberán entregar a sus superiores reporte escrito al terminar su turno, conforme al instructivo correspondiente de todo hecho de tránsito terrestre del que hayan tenido conocimiento, para tal efecto utilizarán las formas aprobadas las cuales estarán foliadas para su control. En dicho reporte deberán describir las condiciones del equipamiento urbano o de la vía pública destinada al tránsito vehicular que hubieran influido en la causación de daños a terceros.
 
 Los agentes deberán, en su caso, agregar un reporte en el cual indicarán el nombre de la persona o personas que hagan alarde de influyentísimo, integrando los datos necesarios para su plena identificación, marcando copia del mismo a la Contraloría del Estado, para efecto de que sean sancionados de acuerdo a la Ley de la materia, en caso de no hacerlo de esta manera, se le considera como partícipe.
 
@@ -4736,3 +4738,11 @@ El presente Decreto entrará en vigencia, al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Para el funcionamiento del Fondo Estatal para la Movilidad a que se refiere el Artículo 50 del presente Decreto, el Comité Técnico deberá de publicar en el Periódico Oficial del Estado en un plazo no mayor a 90 días naturales, las reglas de operación, lineamientos propuestos por la Coordinación General de Movilidad.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 384.- ÚNICO.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 282 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
