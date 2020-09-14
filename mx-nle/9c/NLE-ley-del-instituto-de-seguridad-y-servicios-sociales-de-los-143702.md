@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-1437
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2020-07-29"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección III al Número 94 del Periódico Oficial del Estado de Nuevo León, el miércoles 29 de julio de 2020.
 
@@ -49,9 +49,11 @@ La presente Ley es de orden público e interés social y tiene por objeto el est
 
 La organización y administración de los seguros y prestaciones que esta Ley establece en favor de las personas señaladas en el artículo anterior, estará a cargo del organismo público descentralizado denominado Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, cuyas siglas son ISSSTELEON, con personalidad jurídica, patrimonio y órganos de gobierno propios y con domicilio en la ciudad de Monterrey, capital del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 3.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta Ley se entiende por:
 
 I. Accidente de Trabajo. Toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte producida en el ejercicio o con motivo del desarrollo de las actividades encomendadas al servidor público, cualquiera que sea el lugar y tiempo en que se realicen, así como aquellos que ocurran al servidor público al trasladarse directamente de su domicilio al lugar en que desempeñe sus funciones o viceversa;
 
@@ -145,7 +147,9 @@ Tratándose de las cotizaciones para pensiones de invalidez o causa de muerte el
 
 A excepción de las cotizaciones establecidas en el párrafo anterior, se establece como límite superior de cotización el salario equivalente a veinticinco veces el salario mínimo vigente en la entidad;
 
-XXXIII. Salario de cotización neto. El que sirve de base para calcular las prestaciones económicas de los servidores públicos y que resulta de restar al salario base de cotización la cantidad equivalente a la totalidad de las retenciones que en la nómina se le efectuaron o hubiesen tenido que efectuar, con motivo del pago de contribuciones de carácter federal o local, así como de las previstas en esta Ley;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Salario de cotización neto: El que sirve de base para calcular las prestaciones económicas de los servidores públicos y que resulta de restar al salario base de cotización la cantidad equivalente a la totalidad de las retenciones que en la nómina se le efectuaron o hubiesen tenido que efectuar, con motivo del pago de contribuciones de carácter federal o local, así como el cincuenta por ciento de las previstas en esta Ley;
 
 XXXIV. Salario Regulador. El promedio ponderado mensual de los salarios base de cotización del Sistema Certificado para Jubilación de toda la vida activa del servidor público, previa actualización con el Índice Nacional de Precios al Consumidor;
 
@@ -2006,3 +2010,13 @@ CARLOS ALBERTO GARZA IBARRA
 EL C. SECRETARIO DE ADMINISTRACIÓN
 
 MAURICIO TORRES ELIZONDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 345. SE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 3 DE LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
