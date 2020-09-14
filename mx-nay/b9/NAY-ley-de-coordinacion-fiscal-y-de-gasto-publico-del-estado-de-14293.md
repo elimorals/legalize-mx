@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-coordinacion-fiscal-y-de-gasto-publico-del-estado-de-142
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-16"
-last_updated: "2016-10-21"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE COORDINACIÓN FISCAL Y DE GASTO PÚBLICO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 16 de diciembre de 1998.
 
@@ -140,6 +140,10 @@ V.- 22.5% de la recaudación que corresponda al Estado por concepto de participa
 VI.- 22.5% de la recaudación que corresponda al Estado derivado de participaciones en el Impuesto Federal Sobre Automóviles Nuevos.
 
 VII.- 22.5% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- 20.0% de la recaudación total que perciba el Estado respecto de los contribuyentes que tributen en términos del artículo 126 de la Ley del Impuesto Sobre la Renta.
 
 La Legislatura Estatal establecerá su distribución entre los Municipios mediante disposiciones de carácter general.
 
@@ -398,3 +402,9 @@ Primero. El presente decreto, entrará en vigor al día siguiente de su publicac
 Segundo. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria, a que se refiere el presente Decreto, entrarán en vigor en las fechas señaladas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
 
 Tercero. Las obligaciones relacionadas con el Registro Público Único serán aplicables hasta la entrada en operación del mismo, y de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 7 DE LA LEY DE COORDINACIÓN FISCAL Y DE GASTO PÚBLICO DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
