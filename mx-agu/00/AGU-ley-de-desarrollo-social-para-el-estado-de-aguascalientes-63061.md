@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2019-06-17"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -77,13 +77,17 @@ IX. Fomentar la participación de la ciudadanía y sus Organizaciones en el dise
 
 X. Establecer y promover instrumentos de acceso a la justicia, a través de la denuncia ciudadana, en materia de desarrollo social;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Implementar y promover instrumentos de acceso a la información, transparencia y rendición de cuentas en la aplicación y ejecución de las políticas de desarrollo social; y
+XI. Implementar y promover instrumentos de acceso a la información, transparencia y rendición de cuentas en la aplicación y ejecución de las políticas de desarrollo social;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-XII. La integración de un Padrón Único de Beneficiarios, que evite duplicidades en la entrega de apoyos y programas del Estado y los Municipios, con el fin de direccionar y canalizar dichos esfuerzos a las comunidades y personas que más lo necesiten.
+XII. La integración de un Padrón Único de Beneficiarios, que evite duplicidades en la entrega de apoyos y programas del Estado y los Municipios, con el fin de direccionar y canalizar dichos esfuerzos a las comunidades y personas que más lo necesiten; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Establecer las bases para que la política social para que efectivamente se contribuya a reducir en números absolutos, la pobreza, la marginación y la desigualdad, y que mejore la vida de las familias, bajo criterios de subsidiariedad, garantizando el desarrollo humano.
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
@@ -385,19 +389,61 @@ Además de las obligaciones que señalan los Artículos anteriores, el gobierno 
 
 Corresponde a los Municipios en el ámbito de su competencia, la responsabilidad de ejecutar los programas, de desarrollo social, de acuerdo a las reglas de operación que para tal efecto se emitan, excepto en los casos expresamente asignados, legal o administrativamente, a una dependencia, entidad u organismo federal y además tienen las siguientes atribuciones:
 
-I. Formular y ejecutar el programa municipal de desarrollo social que deberá estar en armonía con los de los gobiernos federal y estatal y ser parte del Plan Municipal de Desarrollo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-II. Coordinarse, con los gobiernos federal y estatal, para la ejecución de los programas de desarrollo social;
+I. Participar en el Sistema Nacional de Desarrollo Social, en los términos que señala la Ley General;
 
-III. Coordinar las acciones de desarrollo social con el resto de los Municipios del Estado;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Ejercer los fondos y los recursos federales convenidos en materia de desarrollo social, en los términos de la normatividad correspondiente;
+II. Formular, aprobar y ejecutar los programas municipales de desarrollo social, de conformidad con las políticas públicas nacional y estatal en materia de desarrollo social, así como con los Planes de Gobierno y de Desarrollo municipales;
 
-V. Concertar acciones con los sectores social y privado en materia de desarrollo social;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Establecer mecanismos para la participación social organizada de la sociedad civil, en los programas y acciones de desarrollo social; e
+III. Realizar y mantener actualizado un diágnostico de los problemas en materia de desarrollo social por conducto de la dependencia o entidad que designe;
 
-VII. Informar a la sociedad sobre las acciones del desarrollo social, así como publicitar y difundir los programas de desarrollo social.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Coordinarse con la Secretaría, para la ejecución de los programas y acciones en materia de desarrollo social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+V. Coordinar programas y acciones con otros Municipios de la Entidad, en materia de desarrollo social;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Convenir acciones de desarrollo social con Municipios de otras Entidades Federativas, con la aprobación del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Ejercer los fondos y los recursos federales y estatales transferidos o convenidos en materia social en los términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Realizar el control y la evaluación de las políticas públicas municipales y de las metas y objetivos de los programas;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Incluir anualmente en el Presupuesto de Egresos del Municipio los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Plan Municipal en materia de desarrollo social;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+X. Concertar acciones con los sectores social y privado en materia de desarrollo social;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Establecer mecanismos para incluir la participación social en los programas y acciones de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Promover la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas municipales y de las metas y objetivos de los programas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Informar a la sociedad sobre las acciones en torno al desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Las demás que les señalen esta Ley y las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. Del Financiamiento y el Gasto
 
@@ -1164,3 +1210,11 @@ EI titular del Poder Ejecutivo del Estado, en un plazo máximo de 180 días háb
 P.O. 17 DE JUNIO DE 2019.
 
 > <small>[N. DE E. EL "DECRETO NÚMERO 167.- SE REFORMAN LOS ARTICULOS 6° Y 17, AMBOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 383.- ÚNICO.- REFORMAS Y ADICIONES A LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
