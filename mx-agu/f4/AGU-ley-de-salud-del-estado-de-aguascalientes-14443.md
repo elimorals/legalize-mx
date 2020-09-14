@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2020-05-29"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -661,6 +661,10 @@ La Federación y el Gobierno del Estado, de conformidad con las disposiciones le
 
 Los recursos que aporten las partes quedarán expresamente afectos a los fines del acuerdo respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos quedará a cargo de la estructura administrativa que establezcan, coordinadamente, la Federación y el Gobierno del Estado.
 
+ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)
+
+ARTICULO 35 BIS.- El Gobernador del Estado y los Presidentes Municipales, deberán incluir en sus informes de evaluación, las acciones específicas realizadas en materia de combate al alcoholismo, tabaquismo, farmacodependencia y promoción de la salud mental.
+
 ## TITULO QUINTO. PRESTACION DE LOS SERVICIOS DE SALUD
 
 ### CAPITULO I. Disposiciones Comunes
@@ -1241,7 +1245,9 @@ El Comité estará integrado por los siguientes miembros:
 
 I.- Un Presidente, que será el Secretario de Salud del Estado;
 
-II.- Un Secretario Técnico, que será el Jefe de Departamento de Nefrología del Hospital Miguel Hidalgo;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Un Secretario Técnico, quien será designado por el Secretario de Salud del Estado, debiendo ser un médico especialista en nefrología miembro del Sistema Nacional de Investigadores, o con trayectoria en investigación en la materia;
 
 III.- El Presidente de la Comisión Legislativa de Salud Pública y Asistencia Social;
 
@@ -1275,9 +1281,9 @@ I.- Participar y emitir opiniones para la formulación de las políticas públic
 
 II.- Promover y establecer mecanismos para la coordinación de esfuerzos en materia de atención a enfermos renales;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
-III.- Elaborar anualmente un informe que contenga los datos estadísticos, de los pacientes que reciben atención y tratamiento médico con padecimientos de insuficiencia renal, así como las tasas de mortalidad y morbilidad de este;
+III.- Elaborar anualmente un informe público que contenga los datos estadísticos, de los pacientes que reciben atención y tratamiento médico con padecimientos de insuficiencia renal, las tasas de mortalidad y morbilidad de este, así como los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia;
 
 IV.- Promover la realización de estudios de investigación con la finalidad de identificar los factores de riesgo, principales causas, métodos de prevención y tratamiento de la insuficiencia renal; y
 
@@ -3885,173 +3891,37 @@ En caso de existir remanentes luego de que se hayan cumplido totalmente con las 
 
 Quedan derogadas todas aquellas disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO, DE LOS JUZGADOS DE DISTRITO PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y OCTAVO; DE LOS TRIBUNALES COLEGIADOS EN MATERIAS CIVIL Y ADMINISTRATIVA, EN MATERIAS PENAL Y ADMINISTRATIVA, Y EN MATERIAS DE TRABAJO Y ADMINISTRATIVA; Y DE LOS TRIBUNALES UNITARIOS PRIMERO Y SEGUNDO, TODOS EN EL ESTADO DE OAXACA, ASÍ COMO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN QUE LES PRESTAN SERVICIO”.]
+P.O. 14 DE SEPTIEMBRE DE 2020.
 
-PRIMERO. El presente Acuerdo entrará en vigor para los órganos jurisdiccionales y oficinas de correspondencia común en él referidos, conforme a las fechas de inicio de funciones en su nuevo domicilio, señaladas en el calendario previsto en el Artículo 2 de este instrumento normativo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 382.- ÚNICO.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 83 OCTIES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-Para la Secretaría Ejecutiva de Administración y para el Instituto Federal de Defensoría Pública iniciará su vigencia al día siguiente de su aprobación, a fin de dar cumplimiento a los transitorios CUARTO y QUINTO siguientes.
+###### ARTÍCULO ÚNICO.
 
-Con excepción de lo dispuesto en el párrafo anterior el Acuerdo entrará en vigor para el Consejo de la Judicatura Federal el 10 de octubre de 2016.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Para efectos del cómputo del número de juzgados de Distrito en el Estado de Oaxaca, la reforma al numeral SEGUNDO, fracción XIII, número 3 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, prevista en el transitorio SEXTO de este Acuerdo estará vigente en su totalidad el 16 de octubre de 2016, fecha de inicio de funciones de los Juzgados Décimo y Decimoprimero de Distrito en el Estado de Oaxaca.
+P.O. 14 DE SEPTIEMBRE DE 2020.
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 387.- ÚNICO.- SE ADICIONA EL ARTÍCULO 35 BIS A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-TERCERO. Los órganos jurisdiccionales a que se refiere el presente Acuerdo y las oficinas de correspondencia común que les prestan servicio, deberán colocar avisos en lugares visibles en relación a su cambio de residencia y domicilio.
+###### ARTÍCULO ÚNICO.
 
-CUARTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, adoptará las medidas necesarias para que los órganos jurisdiccionales y oficinas de correspondencia común a que se refiere este Acuerdo, inicien funciones en su nuevo domicilio conforme al calendario previsto en el Artículo 2 del citado instrumento normativo.
+P.O. 14 DE SEPTIEMBRE DE 2020.
 
-SEXTO. Se reforman los numerales SEGUNDO, fracción XIII, números 1, 2 y 3, así como el CUARTO, fracción XIII, segundo párrafo, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 388.- ÚNICO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 83 UNDECIES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-“SEGUNDO. ...
+###### ARTÍCULO PRIMERO.
 
-I. a XII. ...
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-XIII. ...
+###### ARTÍCULO SEGUNDO.
 
-1. Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa, y uno en materias de trabajo y administrativa, todos con residencia en San Bartolo Coyotepec, Oaxaca.
+El Comité Interinstitucional de Atención a Enfermos Renales deberá celebrar su primera sesión dentro de los noventa días siguientes a la fecha de entrada en vigor del presente Decreto.
 
-2. Dos tribunales unitarios con sede en San Bartolo Coyotepec, Oaxaca.
+###### ARTÍCULO TERCERO.
 
-3. Nueve Juzgados de Distrito en el Estado de Oaxaca: siete con residencia en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
-
-XIV. a XXXII. ...
-
-CUARTO. ...
-
-I. a XII. ...
-
-XIII. ...
-
-Los juzgados de Distrito en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, Oaxaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de Distrito con residencia en Salina Cruz.
-
-...
-
-XIV. a XXXIII. ...”.
-
-D.O.F. 14 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 46/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DE LOS JUZGADOS DÉCIMO Y DECIMOPRIMERO DE DISTRITO EN EL ESTADO DE OAXACA, CON RESIDENCIA EN SAN BARTOLO COYOTEPEC, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS REFERIDOS ÓRGANOS JURISDICCIONALES Y LOS JUZGADOS DE DISTRITO, EN LA MISMA SEDE”.]
-
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil dieciséis, con excepción de lo previsto en el CUARTO transitorio, el cual iniciará su vigencia a partir de la aprobación del mismo.
-
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Oaxaca, con sede en San Bartolo Coyotepec, continuará aplicándose hasta el 7 de noviembre de 2016, en específico:
-
-SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 10 al 17 de octubre de 2016 Juzgado Cuarto
-
-Del 17 al 24 de octubre de 2016 Juzgado Quinto
-
-Del 24 al 31 de octubre de 2016 Juzgado Octavo
-
-Del 31 de octubre al
-
-7 de noviembre de 2016 Juzgado Noveno
-
-A partir del propio 7 de noviembre de 2016 y posteriormente, las guardias de turno conforme al sistema del artículo 5 de este Acuerdo quedarán como sigue:
-
-SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 7 al 14 de noviembre de 2016 Juzgado Décimo
-
-Del 14 al 21 de noviembre de 2016 Juzgado Decimoprimero
-
-Del 21 al 28 de noviembre de 2016 Juzgado Primero
-
-Del 28 de noviembre al
-
-5 de diciembre de 2016 Juzgado Segundo
-
-Del 5 al 12 de diciembre de 2016 Juzgado Tercero
-
-Y así sucesivamente, de forma semanal.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XIII, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a XII. ...
-
-XIII. ...
-
-1. ...
-
-2. ...
-
-3. Once Juzgados de Distrito en el Estado de Oaxaca: nueve con residencia en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
-
-XIV. a XXXII. ...”.
-
-D.O.F. 28 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 43/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL OCTAVO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUADALAJARA, JALISCO Y SU TRANSFORMACIÓN EN EL QUINTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON SEDE EN ZAPOPAN, JALISCO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, RESIDENCIA Y FECHA DE INICIO DE FUNCIONES; REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO, RESIDENCIA Y ESPECIALIDAD INDICADOS”.]
-
-PRIMERO. El presente Acuerdo entrará en vigor el treinta y uno de octubre de dos mil dieciséis, con excepción de lo dispuesto en el transitorio CUARTO, que entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. La Dirección General de Recursos Humanos, respetando los derechos laborales del personal del órgano jurisdiccional auxiliar, atenderá la situación laboral y adoptará las medidas que correspondan, de conformidad a lo acordado por el Pleno del Consejo de la Judicatura Federal, así como en las demás disposiciones aplicables.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforman los numerales SEGUNDO, fracción III, número 1; y QUINTO, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a II. …
-
-III. TERCER CIRCUITO:
-
-1. Dieciocho tribunales colegiados especializados: tres en materia penal, cinco en materia administrativa, cinco en materia civil y cinco en materia de trabajo, todos con residencia en Zapopan.
-
-2. …
-
-3. …
-
-4. …
-
-IV. a XXXII. …
-
-QUINTO. …
-
-1. a 2. …
-
-3. El Centro Auxiliar de la Tercera Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, tres con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco tribunales unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-4. a 11. …
-
-…”.
-
-SEXTO. Se reforma el numeral PRIMERO, párrafo primero y fracción I, del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
-
-“PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Tercera Región, está conformado por cuatro tribunales colegiados de Circuito Auxiliares, tres con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco Tribunales Unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos en Guadalajara, Jalisco, y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
-
-I. Los tribunales colegiados de Circuito se denominarán:
-
-a) Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
-
-b) Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
-
-c) Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Morelia, Michoacán.
-
-d) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
-
-II. …”.
-
-D.O.F. 28 DE OCTUBRE DE 2016.
+El Comité Interinstitucional de Atención a Enfermos Renales expedirá su Reglamento Interior en un término no mayor de sesenta días, contado a partir de la fecha en que celebre su primera sesión, para lo cual deberá publicarse en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 44/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS TERCERO Y CUARTO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN CON RESIDENCIA EN GUADALAJARA, JALISCO, Y SU TRANSFORMACIÓN EN TRIBUNALES COLEGIADOS SEXTO Y SÉPTIMO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO CON RESIDENCIA EN ZAPOPAN, JALISCO; ASÍ COMO LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN EL CIRCUITO, RESIDENCIA Y ESPECIALIDAD INDICADOS”.]
 
