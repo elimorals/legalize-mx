@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-137185"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-08"
-last_updated: "2019-10-14"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2019.
 
@@ -158,6 +158,10 @@ XXV. Términos de referencia: Documento en el cual se plasman las especificacion
 ###### Artículo 3°.
 
 Será obligación de los Sujetos de la Ley que utilicen u operen la obra pública, mantener adecuada y satisfactoriamente aseguradas las mismas y su equipamiento, así como prever el gasto que ejercerán para dar un mantenimiento adecuado y satisfactorio a las obras públicas a partir del momento de la formalización del acta de entrega-recepción correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+También será obligación de los Sujetos de la Ley procurar y supervisar que las obras en calles y vías públicas que por cualquier causa se realicen se lleven a cabo siguiendo el diseño y estética urbana original, con la utilización de materiales de la misma o mayor calidad que los originales, y se realice el retiro de escombros y demás residuos de la obra después de la conclusión.
 
 ###### Artículo 4°.
 
@@ -1654,3 +1658,11 @@ P.O. 14 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 385.- ÚNICO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3° DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en (sic) al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
