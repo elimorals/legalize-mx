@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2020-06-22"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -349,11 +349,11 @@ Al frente de cada Secretaría habrá un Secretario, quien para el despacho de lo
 
 (DEROGADO, B.O. 21 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 14.
 
-El Gobernador del Estado, en los términos del artículo 79, fracciones I y XVIII de la Constitución Política del Estado de Sonora, emitirá los reglamentos interiores, los acuerdos, las circulares y las demás disposiciones que tiendan a regular el funcionamiento de las dependencias.
+El Gobernador del Estado, en los términos del artículo 79, fracciones I y XVIII de la Constitución Política del Estado de Sonora, emitirá los reglamentos interiores y de leyes, los acuerdos, las circulares y las demás disposiciones que tiendan a regular el funcionamiento de las dependencias y la aplicación de una Ley.
 
 Los reglamentos interiores de las dependencias determinarán las atribuciones y la adscripción, en su caso, de las unidades administrativas de éstas, así como la forma en que los titulares de dichas dependencias y de las señaladas unidades, podrán ser suplidos en sus ausencias.
 
@@ -370,6 +370,10 @@ En las ausencias temporales o definitivas se podrá designar un encargado de des
 > <small>(ADICIONADO, B.O. 4 DE JULIO DE 2016)</small>
 
 Los titulares de las dependencias y los subsecretarios podrán solicitar licencia temporal hasta por sesenta días naturales, la cual podrá ser concedida a juicio del Titular del Ejecutivo en los términos solicitados. En esos casos operará la figura de encargado de despacho prevista en el presente artículo.
+
+> <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+Tratándose de Reglamentos de Leyes, el titular del Ejecutivo del Estado deberá de expedirlos y publicarlos dentro del plazo de noventa días naturales siguientes a la entrada en vigor de la Ley que corresponda, dicho plazo podrá ser ampliado hasta por otros noventa días naturales o más si la naturaleza de la reglamentación lo requiere, mediante acuerdo del titular del Ejecutivo del Estado, el cual deberá justificar las razones de su ampliación y ser publicado en el Boletín Oficial del Gobierno del Estado. Si alguna Ley ordena que la expedición y publicación de un Reglamento de Ley deba de hacerse en un menor plazo al señalado anteriormente, el titular del Ejecutivo del Estado deberá estarse a dicho plazo.
 
 ###### ARTICULO 15.
 
@@ -2612,3 +2616,11 @@ B.O. 22 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 128, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 14 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
