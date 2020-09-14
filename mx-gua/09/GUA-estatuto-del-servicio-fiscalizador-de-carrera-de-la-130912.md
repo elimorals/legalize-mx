@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-del-servicio-fiscalizador-de-carrera-de-la-130912"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-10-04"
-last_updated: "2019-02-13"
+last_updated: "2020-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
 
 Estatuto publicado en la Segunda Parte al Número 199 del Periódico Oficial del Estado de Guanajuato, el jueves 4 de octubre de 2018.
 
@@ -381,7 +381,9 @@ III. Plaza, puesto y área de adscripción; y
 
 V (SIC). El carácter provisional o permanente de ocupación de la plaza.
 
-### Capítulo Séptimo. Estímulos en el Sistema Salarial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+### Capítulo Séptimo. Estímulos al Desempeño
 
 ###### Artículo 34.
 
@@ -407,9 +409,11 @@ III. A la calidad. La evaluación favorable de cada unidad administrativa, respe
 
 No podrá otorgarse este estímulo al personal que obtenga una calificación no satisfactoria de acuerdo al formato de evaluación de desempeño y los presentes criterios, así como aquellos servidores que no cumplan con el plan anual de cursos generales.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 37.
 
-La Dirección General de Administración, tomando en cuenta los recursos presupuestales disponibles, determinará el número de días máximo que habrá de otorgarse por concepto de estímulos a los diferentes niveles establecidos en el tabulador general de sueldos del Poder Legislativo.
+La Dirección General de Administración, tomando en cuenta los recursos presupuestales disponibles, determinará la procedencia, naturaleza y, en su caso, monto de los estímulos a otorgarse.
 
 ### Capítulo Octavo. Evaluación al Desempeño
 
@@ -419,13 +423,17 @@ Para la evaluación al desempeño, las unidades administrativas deberán elabora
 
 La evaluación anual estará a cargo de las distintas unidades administrativas de la Auditoría Superior.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 39.
 
-Los titulares de las direcciones de área y unidades, en coordinación con su superior jerárquico inmediato, elaborarán un análisis que contenga las consideraciones técnicas para determinar si procede o no el estímulo, atendiendo a la evaluación del área y de cada uno de los Servidores Públicos, señalando en su caso, la propuesta del número de días de salario que deberá entregarse.
+Los titulares de las direcciones de área y unidades, en coordinación con su superior jerárquico inmediato, elaborarán un análisis que contenga las consideraciones técnicas para determinar si procede o no el estímulo, atendiendo a la evaluación del área y de cada uno de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 40.
 
-La Dirección General de Administración, con base en el análisis técnico referido en el artículo anterior, determinará los Servidores Públicos con derecho al estímulo y el número de días de salario que corresponda, para que dicho estímulo se otorgue en el mes de diciembre del año correspondiente.
+La Dirección General de Administración, con base en el análisis técnico referido en el artículo anterior, determinará los Servidores Públicos con derecho al estímulo, mismo que en su caso se otorgará en el mes de diciembre del año correspondiente.
 
 ### Capítulo Noveno. Capacitación Permanente
 
@@ -505,7 +513,9 @@ IV. Incapacidad permanente que le impida el desempeño de sus funciones, dictami
 
 V. Cuando se efectúe una reestructuración o reorganización administrativa que implique la supresión o modificación de áreas de la Auditoría Superior, salvo que sea posible la reubicación al interior de las unidades administrativas;
 
-VI. Obtener resultados no aprobatorios en la evaluación al desempeño por tres ocasiones consecutivas; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Obtener resultados no aprobatorios en la evaluación al desempeño por más de dos ocasiones consecutivas; y
 
 IV (SIC). Las demás que se establezcan en las disposiciones legales aplicables.
 
@@ -557,9 +567,21 @@ La licencia por nacimiento de hijo se otorgará al padre por cinco días a parti
 
 Los días referidos en el presente artículo se entienden como días laborables.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 55.
 
-Las licencias por razones personales serán sin goce de sueldo, y autorizadas por la Dirección General de Administración, con la valoración del titular de la unidad administrativa y en su caso del Auditor Superior, de conformidad con la temporalidad y naturaleza que motive la necesidad de la solicitud.
+La licencia por razones personales se sujetará para su otorgamiento, a las condiciones siguientes:
+
+I. Se deberá solicitar, por lo menos, con diez días de anticipación, salvo casos de urgencia no previsibles y justificados, a juicio de la Dirección General de Administración;
+
+II. Será sin goce de sueldo;
+
+III. Solo podrá otorgarse hasta por dos ocasiones no consecutivas al año; y
+
+IV. Cada ocasión no podrá exceder de sesenta días laborables.
+
+La licencia será autorizada por la Dirección General de Administración, con la valoración previa del titular de la unidad administrativa correspondiente.
 
 ###### Artículo 56.
 
@@ -667,6 +689,10 @@ Artículo Primero. El presente Estatuto entrará en vigor al día siguiente de s
 
 Artículo Segundo. Las disposiciones relativas al otorgamiento de estímulos, evaluación al desempeño y profesionalización entrarán en vigor para el ejercicio fiscal 2019
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
+La causal referida en la fracción VI del artículo 50 del presente Estatuto, entrará en vigor a partir del año 2021.
+
 El presente Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior del Estado de Guanajuato, se expide a los 1 días del mes de octubre de 2018, en la ciudad de Guanajuato, Gto.
 
 Mtro. Javier Pérez Salazar
@@ -680,3 +706,9 @@ P.O. 13 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE EMITE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, NÚMERO 199, SEGUNDA PARTE, DE FECHA 4 DE OCTUBRE DEL 2018”.]
+
+Artículo único. El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
