@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2018-11-29"
+last_updated: "2020-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -145,7 +145,9 @@ XVIII. Peritos: Los cuerpos de investigación científica de los delitos;
 
 XIX. Servicio de Carrera: El Servicio Profesional de Carrera Ministerial, Pericial y Policial;
 
-XX. Comisiones: Las Comisiones del Servicio Profesional de Carrera Ministerial, Pericial y Policial, y de Honor y Justicia;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Comisiones: Las Comisiones del Servicio Profesional de Carrera Ministerial, Pericial y Policial, de Honor y Justicia, así como las especiales que se creen de carácter temporal a criterio de la persona Titular de la Fiscalía General;
 
 XXI. Carrera Policial: El Servicio de Carrera Policial establecido en la Ley General y en la Ley de Seguridad y su Reglamento;
 
@@ -569,9 +571,17 @@ V. Brindar atención integral a la víctima o al ofendido del delito, por sí o 
 
 VI. Observar que los servidores públicos eviten incurrir en conductas que se relacionen con la tortura; en aquellos casos en que sea necesario el uso de la fuerza, ésta deberá ser aplicada observando los principios de legalidad, congruencia, oportunidad y proporcionalidad;
 
-VII. Brindar atención y trato justo a toda persona que se introduzca a territorio estatal, por cualquier motivo, ya sea por un plazo prolongado o de manera transitoria, respetando los derechos humanos reconocidos en la Constitución, los Tratados Internacionales y la Constitución del Estado; y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Atender y resolver, conforme a la normatividad aplicable, las quejas derivadas de una conciliación o recomendación de las Comisiones Nacional y Estatal de los Derechos Humanos, y, en su caso, iniciar procedimientos administrativos de responsabilidad por violación a los derechos humanos.
+VII. Brindar atención y trato justo a toda persona que se introduzca a territorio estatal, por cualquier motivo, ya sea por un plazo prolongado o de manera transitoria, respetando los derechos humanos reconocidos en la Constitución, los Tratados Internacionales y la Constitución del Estado;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Atender y resolver, conforme a la normatividad aplicable, las quejas derivadas de una conciliación o recomendación de las Comisiones Nacional y Estatal de los Derechos Humanos, y, en su caso, iniciar procedimientos administrativos de responsabilidad por violación a los derechos humanos; y
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Crear comisiones especiales formadas multidisciplinariamente en los términos de esta Ley y de su Reglamento, para la investigación de fenómenos y delitos que impliquen violaciones graves de derechos humanos.
 
 ###### Artículo 20.
 
@@ -613,7 +623,9 @@ IV. Promover la formación, actualización, especialización y certificación pr
 
 V. Elaborar, aplicar y evaluar los programas necesarios para lograr el mejor desempeño de sus funciones; y
 
-VI. Integrar información sobre delitos de violencia de género, violencia familiar, contra la libertad y seguridad sexual y contra la familia, además de concentrarla en el Sistema de Datos e Información sobre Casos de Violencia contra las Mujeres.
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Integrar información estadística sobre delitos de violencia de género, violencia familiar, contra la libertad y seguridad sexual y contra la familia, además de concentrarla en el Sistema de Datos e Información sobre Casos de Violencia contra las Mujeres, el cual incluirá un apartado de violencia política contra las mujeres en razón de género.
 
 ###### Artículo 23.
 
@@ -825,9 +837,17 @@ VII. Sustanciar y resolver el recurso de revocación previsto en el Código de P
 
 VIII. Iniciar leyes o decretos relacionados con la materia de procuración de justicia y expedir los reglamentos de la Fiscalía General;
 
-IX. Presentar un informe anual y comparecer ante el Congreso del Estado, cuando sea requerido, en términos de la legislación aplicable; y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
-X. Designar al servidor público que lo supla en sus ausencias temporales, conforme lo establezca el Reglamento.
+IX. Presentar un informe anual y comparecer ante el Congreso del Estado, cuando sea requerido, en términos de la legislación aplicable;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+X. Designar al servidor público que lo supla en sus ausencias temporales, conforme lo establezca el Reglamento; y
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Crear comisiones especiales en términos de esta Ley y su Reglamento.
 
 ###### Artículo 32.
 
@@ -2033,19 +2053,25 @@ El importe de las multas que, con motivo del Procedimiento de Responsabilidad, s
 
 ## TÍTULO DÉCIMO. OTRAS DISPOSICIONES
 
-### CAPÍTULO I. DE LOS COMITÉS ESPECIALIZADOS Y DE LOS CONSEJOS INTERNOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPITULO I. DE LAS COMISIONES, DE LOS COMITÉS ESPECIALIZADOS Y DE LOS CONSEJOS INTERNOS
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 107.
 
-Para efecto de coadyuvar en la coordinación e implementación de mecanismos adecuados en materias especializadas de procuración de justicia y de organización interna, se contará con comités especializados o consejos internos, tales como:
+Para efecto de coadyuvar en la coordinación e implementación de mecanismos adecuados en materias especializadas de procuración de justicia y de organización interna, se contará con comisiones, comités especializados, consejos internos o comisiones especiales, tales como:
 
-I. Las Comisiones;
+I. Las Comisiones del Servicio Profesional de Carrera Ministerial, Pericial y Policial, de Honor y Justicia, así como las especiales que se creen de carácter temporal a criterio de la persona Titular de la Fiscalía General;
 
-II. Comité de Acceso Restringido, en términos de la ley de la materia; y
+II. Comité de Transparencia, en términos de las leyes de la materia; y
 
-III. Consejos Distritales de Participación Ciudadana en materia de Procuración de Justicia.
+III. Consejos Distritales de Participación Ciudadana en Materia de Procuración de Justicia
 
-El Reglamento de esta Ley precisará su organización y funcionamiento.
+La organización y funcionamiento de dichos cuerpos colegiados se precisará mediante el acuerdo que para el efecto emita la persona Titular de la Fiscalía General del Estado, que deberá ser publicado en la Gaceta Oficial.
+
+Los cargos de los miembros de las comisiones, el comité de transparencia, los consejos distritales de participación ciudadana y las comisiones especiales establecidas en este artículo serán de carácter honorífico y no darán derecho a recibir retribución económica alguna por su colaboración.
 
 ### CAPÍTULO II. DE LA CONTRALORÍA GENERAL
 
@@ -2326,3 +2352,11 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2020
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 582. QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS; LA LEY ORGÁNICA DEL PODER JUDICIAL, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL Y EL CÓDIGO PENAL; ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ, EN MATERIA DE PARIDAD DE GÉNERO Y VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
