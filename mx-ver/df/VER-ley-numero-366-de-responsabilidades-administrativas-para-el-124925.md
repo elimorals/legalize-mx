@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-366-de-responsabilidades-administrativas-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-19"
-last_updated: "2017-12-19"
+last_updated: "2020-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NUMERO 366 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Núm. Ext. 504 de la Gaceta Oficial del Estado de Veracruz, el martes 19 de diciembre de 2017.
 
@@ -153,9 +153,11 @@ III. Los particulares vinculados con faltas administrativas graves.
 
 Los entes públicos crearán y mantendrán condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, así como la actuación ética y responsable de cada servidor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 5.
 
-Los servidores públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+Las servidoras o servidores públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, perspectiva de género y eficiencia que rigen el servicio público.
 
 Para la efectiva aplicación de dichos principios, los servidores públicos observarán las directrices siguientes:
 
@@ -171,13 +173,19 @@ V. Actuar conforme a una cultura de servicio orientada al logro de resultados, p
 
 VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;
 
-VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución y en los tratados internacionales de los que México forma parte;
 
 VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
 
 IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones, y
 
 X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Abstenerse de realizar cualquier acto que tenga por objeto o por resultado discriminar o ejercer violencia de cualquier tipo contra usuarios, trabajadoras y trabajadores del servicio público.
 
 ### CAPÍTULO III. De las Autoridades Competentes
 
@@ -395,6 +403,10 @@ Incurrirán en faltas administrativas no graves, faltas administrativas graves y
 
 Asimismo, se considerará como falta administrativa grave de los servidores públicos, la simulación de reintegro de recursos, cuando el servidor público ordene, autorice o realice el reintegro de recursos públicos a las cuentas bancarias aperturadas para el depósito de recursos financieros de carácter federal, estatal o municipal que le sean asignados al ente público, con la finalidad de resarcir el patrimonio público o solventar las observaciones que hayan sido determinadas por la Auditoría Superior, el Órgano de Fiscalización Superior del Estado, la Contraloría, o cualquier otra autoridad que lo hubiere ordenado, y posteriormente los asigne o desvíe nuevamente a un fin distinto al que originalmente estaban reservados o destinados por disposición de ley.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando una servidora o servidor público realice por sí o a través de un tercero, alguna de las conductas descritas en el Artículo 8, fracción VII, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave, será responsable de abuso de funciones, en los términos del artículo 57 de la Ley General de Responsabilidades Administrativas.
+
 ###### Artículo 36.
 
 Cuando los entes públicos o los particulares que, en términos de este artículo, hayan recibido recursos públicos sin tener derecho a los mismos y omitan reintegrarlos en términos de la Ley General, dichos recursos serán considerados créditos fiscales. La Secretaría de Finanzas y Planeación del Estado de Veracruz o la dependencia encargada de las finanzas públicas de los Ayuntamientos, según corresponda, deberán ejecutar el cobro de los mismos, en términos del Código Financiero para Estado de Veracruz de Ignacio de la Llave.
@@ -578,3 +590,13 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 15 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 582 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LA LEY ORGÁNICA DEL PODER JUDICIAL, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL Y EL CÓDIGO PENAL; ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE PARIDAD DE GÉNERO Y VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
