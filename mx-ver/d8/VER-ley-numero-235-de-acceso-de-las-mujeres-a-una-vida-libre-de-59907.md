@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2020-09-11"
+last_updated: "2020-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -217,81 +217,65 @@ V. Violencia Institucional: Son los actos u omisiones de las y los servidores p�
 
 VI. Violencia Feminicida: Forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar tolerancia social e indiferencia del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Violencia política en razón de género: Es la acción u omisión, que cause un daño físico, psicológico, sexual, económico o de otra índole, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+VII. Violencia política contra las mujeres en razón de género: Es toda acción u omisión, incluida la tolerancia basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad; el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, o su función en el ámbito público.
 
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+Puede manifestarse en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas, privación de la libertad o de la vida, o cualquiera de los tipos de violencia reconocidos en esta ley y en otras leyes en la materia, puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 Constituye violencia política en razón de género:
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+a) Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-a) Impedir u obstaculizar el ejercicio de sus derechos político-electorales mediante la restricción de recursos, ocultamiento de información, aplicación de sanciones sin motivación y fundamentación, amenazas o amedrentamiento hacia su persona o familiares;
+b) Impedir, restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar los derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+c) Impedir u obstaculizar el ejercicio de sus derechos políticos y electorales mediante la restricción de recursos sin causa justificada, aplicación de sanciones sin motivación y fundamentación, amenazas o amedrentamiento hacia su persona o familiares;
 
-b) Registrar mayoritariamente mujeres como candidatas en distritos electorales en los que el partido que las postule hubiere obtenido el más bajo porcentaje de votación en las anteriores elecciones, sean municipales, estatales o federales;
+d) Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+e) Registrar mayoritariamente mujeres como candidatas en distritos electorales en los que el partido que las postule hubiere obtenido el más bajo porcentaje de votación en las anteriores elecciones, sean municipales, estatales o federales;
 
-c) Proporcionar de forma dolosa a las mujeres candidatas o electas, titulares o suplentes o designadas para una función pública, información falsa o imprecisa que las induzca al inadecuado ejercicio de sus funciones políticas públicas;
+f) Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+g) Proporcionar a las candidatas o electas, titulares, suplentes o designadas para un cargo de elección popular o función pública, información falsa, incompleta o imprecisa que impida su registro como candidata o las induzca al inadecuado ejercicio de sus funciones públicas;
 
-d) Obligar o instruir a las mujeres a realizar u omitir actos incompatibles a las funciones públicas propias de su encargo;
+h) Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose por estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o sus derechos políticos y electorales;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+i) Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-e) Asignarles responsabilidades que limiten el ejercicio de su función pública;
+j) Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+k) Obligar, instruir o imponer a las mujeres, con base en estereotipos de género, la realización de actividades, responsabilidades o actos distintos, incompatibles o adicionales a sus funciones públicas, que limiten o sustituyan las tareas propias de su encargo o de la representación política correspondiente;
 
-f) Evitar por cualquier medio que las mujeres electas, titulares o suplentes o nombradas para una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
+l) Evitar o impedir por cualquier medio que las mujeres electas, titulares o suplentes o nombradas para una función pública, tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+m) Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-g) Proporcionar al Organismo Público Local Electoral datos falsos o información incompleta o errónea de la identidad de la mujer o mujeres candidatas a algún cargo de elección popular, con la finalidad de limitar o impedir su participación;
+n) Discriminar a la mujer en el ejercicio de sus derechos por encontrarse en estado de embarazo, parto o puerperio; impedir o restringir a las mujeres la reincorporación al cargo público al que fueren nombradas o electas, posterior al ejercicio de una licencia de maternidad o cualquier otro permiso justificado;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+ñ) Obstaculizar o impedir el acceso a la justicia o el uso de las facultades inherentes en la Constitución y los ordenamientos jurídicos electorales, para proteger sus derechos frente a los actos que violenten o restrinjan el ejercicio de sus derechos políticos y electorales;
 
-h) Impedir o restringir a las mujeres, la reincorporación al cargo público al que fueren nombradas o electas, posterior al ejercicio de una licencia o permiso justificado;
+o) Efectuar cualquier acto de discriminación previsto en la Constitución, o en la Ley para Prevenir y Eliminar la Discriminación en el Estado de Veracruz, o en el Artículo 196 del Código Penal para el Estado de Veracruz y que tengan como resultado impedir, negar, anular o menoscabar el ejercicio de los derechos humanos de las mujeres en el desempeño de un cargo o función pública, ya sea de elección o de designación;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+p) Difamar, calumniar, injuriar o realizar cualquier expresión que descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública, limitar o anular sus derechos;
 
-i) Coartar o impedir el uso de las facultades inherentes en la Constitución y los ordenamientos jurídicos electorales, para proteger sus derechos frente a los actos que violenten o restrinjan el ejercicio de su representación política;
+q) Divulgar o publicar imágenes, mensajes o difundir información personal, privada o falsa, de una mujer o mujeres candidatas, electas, designadas o en el ejercicio de su representación política, o de sus funciones públicas por cualquier medio físico o virtual con el objetivo de denigrar, desacreditar, ridiculizar, calumniar e injuriar y poner en entredicho su capacidad o habilidades para la política o limitar el ejercicio de los derechos políticos y electorales, con base en estereotipos de género;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+r) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 
-j) Efectuar cualquier acto de discriminación previsto en la Constitución, o en la Ley para Prevenir y Eliminar la Discriminación en el Estado de Veracruz, o en el Artículo 196 del Código Penal para el Estado de Veracruz y que tengan como resultado impedir, negar, anular o menoscabar el ejercicio de los derechos humanos de las mujeres electas o en el ejercicio de su representación política;
+s) Obligar, intimidar o amenazar a una mujer a suscribir documentos, a participar de proyectos o adoptar decisiones en contra de su voluntad, de la ley o del interés público, aprovechándose de su representación política.
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+t) Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
 
-k) Publicar o revelar información personal, privada o falsa, de las mujeres candidatas, electas, designadas o en el ejercicio de su representación política, con el objetivo de difamar o menoscabar su dignidad humana, y obtener con estas acciones, la renuncia y/o licencia al cargo electo o en ejercicio; y
+u) Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función, en condiciones de igualdad;
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2016)</small>
+v) Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos; y
 
-l) Obligar, intimidar o amenazar a suscribir documentos, a participar de proyectos o adoptar decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política.
+w) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos y electorales.
 
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
-
-m) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género;
-
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
-
-n) Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos, político-electorales o impedir el ejercicio de sus atribuciones o facultades;
-
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
-
-o) Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida; y
-
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
-
-p) Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función.
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en las leyes de la materia, así como en la legislación electoral y de responsabilidades administrativas correspondientes.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
@@ -357,39 +341,113 @@ Los gobiernos estatal y municipal aplicarán inmediatamente las medidas establec
 
 Las autoridades estatales, municipales y los organismos autónomos en el ámbito de sus competencias, garantizarán a las mujeres el acceso y ejercicio pleno de sus derechos de participación política.
 
-> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 13 Ter.
 
-En los poderes Ejecutivo, Legislativo y Judicial, así como en los órdenes del gobierno estatal y municipal, y en los organismos autónomos, todos los servidores públicos tienen la obligación de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia política; por tanto, están obligados a abstenerse de:
+En los poderes Ejecutivo, Legislativo y Judicial, en los órdenes del gobierno estatal y municipal, así como en los organismos autónomos, las servidoras y los servidores públicos tienen la obligación de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia política por razones de género; por tanto, están obligados a abstenerse de realizar por sí o a través de un tercero, alguna de las conductas descritas en el Artículo 8, fracción VII, de esta Ley.
 
-I. Imponer por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones propias del cargo público que las mujeres ostenten o en cualquier ámbito de ejercicio de los derechos político-electorales o de asociación de las mujeres;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
-II. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de sus tareas que obstaculicen o restrinjan el ejercicio de su encargo;
+### CAPÍTULO IX. DEL OBSERVATORIO DE PARTICIPACIÓN POLITICA DE LAS MUJERES EN EL ESTADO DE VERACRUZ
 
-III. Restringir el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación aplicable;
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Imponer a las mujeres sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos;
+###### Artículo 13 Quater.
 
-V. Divulgar o revelar información personal y privada, de las mujeres electas, designadas, que ocupen puestos administrativos o directivos, en el ejercicio de sus funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan; y
+El Observatorio de la Participación Política de las Mujeres de Veracruz es el sistema encargado de fomentar el desarrollo de la participación política de las mujeres a través de acciones estratégicas para la toma de decisiones que garanticen el derecho a la igualdad, la no violencia política contra las mujeres, el reconocimiento de los derechos políticos y electorales, como derechos humanos desde una perspectiva de género.
 
-VI. Presionar o inducir a las autoridades electas o designadas a presentar renuncia al cargo.
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 13 Quinquies.
+
+El Observatorio de la Participación Política de las Mujeres de Veracruz estará integrado de manera permanente por las y los titulares de las siguientes instituciones:
+
+I. El Instituto Veracruzano de las Mujeres;
+
+II. El Organismo Público Local Electoral de Veracruz;
+
+III. El Tribunal Electoral de Veracruz;
+
+Adicionalmente, como invitados estratégicos se integrarán:
+
+IV. La o el titular de la Fiscalía General del Estado;
+
+V. Dos representantes del Poder Legislativo entre ellos, quien presida la Comisión para la Igualdad de Género;
+
+VI. Una magistrada o magistrado de la Sala Regional Xalapa del Tribunal Electoral del Poder Judicial de la Federación;
+
+VII. El o la titular de la Comisión Estatal de los Derechos Humanos;
+
+VIII. Una o un representante de cada uno de los partidos políticos de la entidad;
+
+IX. Dos representantes de Organizaciones Civiles vinculadas con la defensa de los derechos políticos de las mujeres; y
+
+X. Dos representantes de la Academia.
+
+La presidencia del Observatorio recaerá alternadamente en la o el titular de alguno de los organismos permanentes que lo integran, quien durará en el encargo un año.
+
+Las personas representantes de las instituciones públicas deberán ser sus titulares y podrán nombrar como suplentes a personas funcionarias del mismo rango o con facultades para la toma de decisiones.
+
+Al Observatorio podrán invitarse otros organismos e instituciones vinculadas con los procesos electorales.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 13 Sexies.
+
+Quienes integran el Observatorio formularán la reglamentación y los lineamientos que regirán el funcionamiento del mismo.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 13 Septies.
+
+Las personas representantes de la sociedad civil y de la academia serán nombradas a partir de una convocatoria emitida de manera conjunta por el Instituto Veracruzano de las Mujeres, el Organismo Público Local Electoral del Estado de Veracruz y el Tribunal Electoral de Veracruz, quienes revisarán la documentación y elegirán a las personas que participarán en el Observatorio.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 13 Octies.
+
+El Observatorio de la Participación Política de las Mujeres de Veracruz tiene como responsabilidades, las siguientes:
+
+I. Identificar la situación actual de las mujeres en el ámbito de la participación política y en los cargos de toma de decisiones, mediante estadísticas y balances cualitativos, para su seguimiento y fortalecimiento de acciones y políticas que garanticen sus derechos políticos y electorales;
+
+II. Generar y poner a disposición de los gobiernos municipales, partidos políticos y sociedad civil, estadísticas y análisis cualitativos que permita visibilizar las formas en que se manifiesta la violencia política contra las mujeres, antes y durante el cargo de representación o por designación para delinear adecuadas acciones interinstitucionales, que protejan los derechos políticos de las mujeres;
+
+III. Proponer, formular e impulsar estrategias institucionales y civiles orientadas a prevenir, sancionar y erradicar la violencia política contra las mujeres;
+
+IV. Monitorear permanentemente en los medios de comunicación la participación política de las mujeres desde una perspectiva de género, para impulsar acciones efectivas que protejan sus derechos políticos;
+
+V. Identificar y visibilizar las estrategias de empoderamiento, y promoción de la participación política y acceso a cargos de toma de decisión pública de las mujeres de cada institución, así como los resultados, para identificar experiencias exitosas y fortalecerlas;
+
+VI. Fomentar el desarrollo de la participación política de las mujeres a través de acciones estratégicas para la toma de decisiones que garanticen el derecho a la igualdad y el reconocimiento de los derechos políticos y electorales como derechos humanos desde una perspectiva de género;
+
+VII. Construir estrategias y generar alianzas para impactar positivamente en el número de espacios y calidad de la participación de las mujeres en política y toma de decisiones públicas, según las facultades y atribuciones de cada una de las instituciones integrantes del Observatorio;
+
+VIII. Impulsar, dar seguimiento y evaluar los avances en materia de participación y representación política de las mujeres, el desarrollo del liderazgo político de las mujeres, así como avances en torno a la adopción de medidas para prevenir, sancionar y erradicar la violencia política contra las mujeres en la entidad, y evaluar sus resultados e impactos;
+
+IX. Difundir con la ciudadanía, los partidos políticos, los gobiernos municipales y medios de comunicación, los derechos políticos de las mujeres, los marcos jurídicos y normativos en materia de paridad de género, así como información orientada a prevenir la violencia política contra las mujeres y promover la denuncia ante las instituciones competentes;
+
+X. Coadyuvar a la integración del apartado sobre casos de violencia política contra las mujeres del Sistema de Datos e Información, a que se refiere el artículo 22, fracción VI, de la Ley Orgánica de la Fiscalía General del Estado e integrar Informes anuales sobre esta materia;
+
+XI. Realizar material de promoción y difusión de las acciones del Observatorio en lo relativo a la prevención, atención y sanción de la violencia política contra las mujeres; y
+
+XII. Las demás que sean propuestas por las instituciones que integran el Observatorio.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPÍTULO IX. De la Violencia Digital
+### CAPÍTULO IX (SIC). De la Violencia Digital
 
 > <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-Artículo 13 Nonies (sic). Los gobiernos estatal y municipales, así como las autoridades jurisdiccionales, en el ámbito de sus competencias garantizarán a las mujeres el derecho a una Vida libre de violencia digital y tomarán en consideración los daños que ésta pueda generar en las víctimas.
+###### Artículo 13 Nonies.
+
+Los gobiernos estatal y municipales, así como las autoridades jurisdiccionales, en el ámbito de sus competencias garantizarán a las mujeres el derecho a una Vida libre de violencia digital y tomarán en consideración los daños que ésta pueda generar en las víctimas.
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
 ## TÍTULO TERCERO. DEL SISTEMA Y DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO II. DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 14.
 
@@ -425,13 +483,17 @@ V. Un representante del Organismo Público Local Electoral de Veracruz;
 
 VI. La titular del Instituto Veracruzano de las Mujeres, que fungirá como Secretaria Ejecutiva del Sistema;
 
-(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Tres mujeres representantes de Organizaciones Civiles Especializadas, con probado currículum en trabajo relativo a los Derechos Humanos de las Mujeres y un mínimo de experiencia de cinco años, designadas por el Congreso a propuesta de las Comisiones Permanentes Unidas Para la Igualdad de Género y de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado; y
+VII. Representante del Tribunal Electoral de Veracruz;
 
-(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
+> <small>(REFORMADA Y REUBICADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Dos mujeres especializadas en los Derechos Humanos de las Mujeres, representantes de Instituciones Académicas y de Investigación, designadas por el Congreso del Estado.
+VIII. Tres mujeres representantes de organizaciones civiles especializadas, con probada currícula en trabajo relativo a los Derechos Humanos de las Mujeres y un mínimo de experiencia de cinco años, designadas por el Congreso a propuesta de las Comisiones Permanentes Unidas para la Igualdad de Género y de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado; y
+
+> <small>(REFORMADA Y REUBICADA, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Dos mujeres especializadas en los derechos humanos de las mujeres, representantes de instituciones académicas y de investigación, designadas por el Congreso del Estado.
 
 (ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
 
@@ -457,7 +519,7 @@ V. Las acciones conjuntas para la protección de las mujeres víctimas de violen
 
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### Artículo 17.
 
@@ -495,7 +557,7 @@ El Ejecutivo Estatal propondrá en el Presupuesto de Egresos, asignar una partid
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
 
 ###### Artículo 19.
 
@@ -761,23 +823,29 @@ VII. Aplicar los principios y derechos de esta Ley y de cualquier otro Instrumen
 
 VIII. Proporcionar al Instituto, información sobre los casos relacionados con cualquiera de los tipos y modalidades de la violencia señaladas en la Ley, para la integración del Banco Estatal de Datos.
 
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 21 Bis.
 
 Corresponde al Organismo Público Local Electoral de Veracruz, en el ámbito de sus atribuciones:
 
-I. Prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género;
+I Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
 
-II. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos político-electorales de las mujeres;
+II. Prevenir, atender, sancionar y en su caso erradicar la violencia política contra las mujeres en razón de género;
 
-III. Realizar campañas de difusión de las conductas, acciones u omisiones que conllevan a la violencia política en razón de género; la prevención, formas de denuncia y conciencia sobre su erradicación;
+III. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos político y electorales de las mujeres;
 
-IV. Capacitar a su personal y a las personas integrantes de mesas directivas de casilla, en la prevención y en su caso erradicación de la violencia política en razón de género, y
+IV. Incorporar la perspectiva de género al monitoreo de las pre campañas y campañas políticas, en el ámbito de su competencia;
 
-V. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+V. Realizar campañas de difusión de las conductas, acciones u omisiones que conllevan a la violencia política en razón de género; la prevención, formas de denuncia y conciencia sobre su erradicación;
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+VI. Capacitar a su personal y a las personas integrantes de mesas directivas de casilla, en la prevención y en su caso erradicación de la violencia política en razón de género;
+
+VII. Substanciar los procedimientos y remitir al Tribunal Electoral de Veracruz, de acuerdo con la normatividad aplicable, los expedientes relacionados con las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+VIII. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 22.
 
@@ -813,7 +881,7 @@ XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LA ATENCIÓN A LAS VÍCTIMAS, DE LOS REFUGIOS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
-### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### Artículo 23.
 
@@ -863,7 +931,7 @@ Se prohíbe someter a la víctima a mecanismos de conciliación, de mediación o
 
 La persona agresora deberá participar en los programas de reeducación integral, por mandato de autoridad competente.
 
-### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
+### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
 ###### Artículo 27.
 
@@ -937,7 +1005,7 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 Los gobiernos estatal y municipal, con la participación que corresponda de los sectores social y civil, promoverán mecanismos para otorgar los apoyos necesarios para que los refugios cumplan con su objeto.
 
-### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 34.
 
@@ -968,6 +1036,8 @@ V. Proporcionar información jurídica sobre las consecuencias legales de sus co
 VI. Contar con el personal debidamente formado, actualizado y especializado en las materias relacionadas con la atención que brindan.
 
 ## TÍTULO SEXTO. DE LA ALERTA DE VIOLENCIA DE GÉNERO Y DE LAS ÓRDENES DE PROTECCIÓN
+
+### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN Y MEDIDAS CAUTELARES
 
 ###### Artículo 38.
 
@@ -1025,6 +1095,8 @@ b) Diseñar e instrumentar políticas públicas integrales que eviten la comisi�
 
 c) Verificar los hechos y la publicidad de la verdad.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 42.
 
 Las órdenes de protección son medidas precautorias y cautelares, de urgente aplicación en función del interés superior de la víctima.
@@ -1042,6 +1114,14 @@ II. Preventivas.
 > <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 Las órdenes de protección de emergencia y preventivas permanecerán vigentes hasta que cesen las causas que las motiven y la víctima de violencia deje de estar expuesta al riesgo y deberán expedirse en forma inmediata al conocimiento de los hechos que las generan.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral de Veracruz y el Organismo Público Local Electoral del Estado de Veracruz podrán otorgar medidas cautelares o en su caso, solicitar a las autoridades competentes el otorgamiento de las órdenes de protección a las que se refiere el presente capítulo.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+Las medidas cautelares podrán emitirse por las autoridades electorales jurisdiccionales y administrativas inmediatamente que conozcan de hechos probablemente constitutivos de infracciones que impliquen violencia política contra las mujeres por razones de género.
 
 ###### Artículo 43.
 
@@ -1244,3 +1324,11 @@ G.O. 11 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 582. QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LA LEY ORGÁNICA DEL PODER JUDICIAL, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL Y EL CÓDIGO PENAL; ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ, EN MATERIA DE PARIDAD DE GÉNERO Y VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
