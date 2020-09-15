@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2020-09-01"
+last_updated: "2020-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -875,73 +875,7 @@ Para el despacho de los asuntos de su competencia, el titular de la Secretaría 
 
 ###### ARTICULO 75.
 
-La Secretaría de Administración es la dependencia encargada de otorgar apoyo administrativo a las diferentes áreas y entidades del gobierno municipal, y le corresponde el despacho de los siguientes asuntos:
-
-I. Seleccionar, contratar y capacitar al personal de las dependencias del gobierno municipal;
-
-II. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los trabajadores y funcionarios al servicio del Municipio;
-
-III. Mantener al corriente el escalafón de los trabajadores municipales, así como programar los estímulos y recompensas para dicho personal;
-
-IV. Programar y realizar las adquisiciones y el suministro de los bienes de las dependencias municipales, para proveer con oportunidad a las dependencias municipales todos los elementos materiales que requieran para el buen desempeño de sus funciones;
-
-V. Programar y prestar los servicios generales a las dependencias del Municipio;
-
-VI. (DEROGADA POR TRANSITORIO PRIMERO DEL REGLAMENTO DE BIENES PATRIMONIO DEL MUNICIPIO DE QUERÉTARO, APROBACIÓN 26 DE MARZO DE 2002)
-
-VII. (DEROGADA POR TRANSITORIO PRIMERO DEL REGLAMENTO DE BIENES PATRIMONIO DEL MUNICIPIO DE QUERÉTARO, APROBACIÓN 26 DE MARZO DE 2002)
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-VIII. Proponer los contratos de celebración de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales para que sean realizados por la Secretaría General de Gobierno Municipal y firmado por los Síndicos;
-
-IX. Llevar para efectos administrativos el registro y control de las unidades que requieran las dependencias y entidades municipales;
-
-X. Organizar, dirigir y controlar la mensajería e intendencia del municipio;
-
-XI. Controlar el servicio de mantenimiento y conservación de los vehículos;
-
-XII. Participar en la determinación de las condiciones generales de trabajo difundiéndolas y vigilando su cumplimiento; asimismo, llevar control permanente de las altas y bajas del personal ante el IMSS;
-
-XIII. Estudiar y establecer los sistemas de organización administrativa que eficienticen el desempeño de las actividades de los servicios públicos municipales;
-
-XIV. Imponer sanciones y medidas disciplinarias a que se hagan acreedores los servidores públicos municipales;
-
-XV. Procurar el oportuno y correcto otorgamiento de prestaciones a los trabajadores municipales;
-
-XVI. Calificar y seleccionar al personal que ingresará al servicio de la Presidencia Municipal;
-
-XVII. Promover cursos de alfabetización, capacitación y adiestramiento para los trabajadores municipales;
-
-XVIII. Coordinar la asignación de pasantes que presten servicio social en las diferentes áreas administrativas del Ayuntamiento y promover éstas ante los diferentes centros de estudios superiores;
-
-XIX. Mantener contacto permanente con las distintas dependencias respecto a los problemas laborales que se presenten en las áreas a su cargo;
-
-XX. Autorizar la baja de muebles que por sus condiciones no cumplan con los requisitos mínimos indispensables en el servicio, justificándolo con peritajes y avalúos y promoviéndose su venta en subasta pública;
-
-XXI. Pagar las nóminas del personal que labora al servicio del Municipio;
-
-XXII. Planear, organizar y coordinar los sistemas de control y evaluación de la administración pública municipal;
-
-XXIII. Establecer y expedir los manuales que regulen el funcionamiento de los procedimientos de control de la administración pública municipal, siendo competente para requerir a las dependencias del Municipio y organismos desconcentrados, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
-
-XXIV. Inspeccionar, vigilar y supervisar, que en la administración municipal se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles del patrimonio municipal, en este último caso, en coordinación con la Secretaría del Ayuntamiento, quien es la responsable del inventario de inmuebles propiedad del Ayuntamiento;
-
-XXV. Analizar, implantar, evaluar y actualizar los sistemas y procedimientos administrativos de control interno y los manuales técnicos de operación que se requieran en las dependencias municipales y organismos desconcentrados;
-
-XXVI. Informar al Presidente Municipal sobre el resultado de la evaluación de las dependencias y entidades de la administración municipal, que hayan sido objeto de verificación;
-
-XXVII. Solicitar la intervención o participación de auditores externos y consultores que coadyuven al cumplimiento de las funciones de verificación;
-
-XXVIII. Formar parte integrante de la Comisión de Entrega y Recepción de Unidades Administrativas o Dependencias del Ayuntamiento, así como en la entrega-recepción con el cambio de la administración municipal respectiva;
-
-XXIX. Celebrar los convenios administrativos que por acuerdo del Presidente Municipal le sean encomendados; y
-
-XXX. Los demás que en las materias de su competencia lo atribuyan al municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
-
-Para el despacho de los asuntos de su competencia, el Secretario de Administración se auxiliará con las Direcciones de Recursos Humanos, de Adquisiciones y Contratación de Servicios de Administración Patrimonial y Servicios Administrativos de Organización y de Transportes, así como de los departamentos que designen al efecto.
+(DEROGADO POR EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL MUNICIPIO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2004)</small>
 
@@ -7880,3 +7814,27 @@ Se instruye a la Secretaría de Desarrollo Sostenible para que, en coordinación
 ###### ARTÍCULO QUINTO.
 
 Se instruye a la Secretaría del Ayuntamiento para que notifique el presente Acuerdo a los titulares de la Secretaría General de Gobierno Municipal, Secretaría de Desarrollo Sostenible, Secretaría de Finanzas, Secretaría de Movilidad y Coordinación de Delegaciones e Institutos Desconcentrados.
+
+P.O. 15 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL MUNICIPIO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente acuerdo entrará en vigor el día siguiente a la fecha de la primera de las dos publicaciones mencionadas en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el artículo 75 del Código Municipal de Querétaro así como todas aquellas disposiciones que se opongan al presente.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría de Administración para que realice los trabajos correspondientes para el registro de su Estructura Orgánica y, en su caso, la adecuación a los manuales de procedimientos y organización.
+
+###### ARTÍCULO QUINTO.
+
+Comuníquese el presente a la persona titular de la Secretaría de Administración.
