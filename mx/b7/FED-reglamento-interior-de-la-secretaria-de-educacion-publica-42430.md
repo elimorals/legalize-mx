@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2018-01-16"
+last_updated: "2020-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-01-20"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA, PUBLICADO EN EL D.O.F. DE 15 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -495,17 +497,19 @@ XXXIV. Las demás que le confieran otras disposiciones jurídicas y las que le e
 
 La Oficialía Mayor contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos financieros, humanos y materiales de las unidades administrativas que se le adscriban.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 24 DE ENERO DE 2013)</small>
 
-### CAPÍTULO VI. DE LA JEFATURA DE LA OFICINA DEL SECRETARIO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 2016)</small>
+### CAPÍTULO V
 
 ###### ARTÍCULO 8.
 
 (DEROGADO, D.O.F. 24 DE ENERO DE 2013)
 
-### CAPÍTULO V
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO VI. DE LA JEFATURA DE LA OFICINA DEL SECRETARIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 9.
 
@@ -556,8 +560,6 @@ XIII. Las demás que las disposiciones aplicables le confieran, las que le encom
 > <small>(ADICIONADO, D.O.F. 23 DE MARZO DE 2017)</small>
 
 La Jefatura de la Oficina del Secretario contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos financieros, humanos y materiales de las unidades administrativas que se le adscriban.
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 24 DE ENERO DE 2013)</small>
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES Y DEMÁS UNIDADES ADMINISTRATIVAS
 
@@ -2566,3 +2568,25 @@ TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 CUARTO.- La Secretaría de Educación Pública deberá, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, realizar las modificaciones correspondientes a los acuerdos secretariales, manuales y demás disposiciones administrativas que le corresponde emitir conforme a lo previsto en el presente Decreto.
 
 QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas, a las unidades administrativas y órgano administrativo desconcentrado de la Secretaría de Educación Pública que desaparecen, modifican sus atribuciones o cambian de denominación por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+D.O.F. 15 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Educación Pública, publicado en el Diario Oficial de la Federación el 21 de enero de 2005.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO.- Los asuntos en trámite que son atendidos por unidades administrativas de la Secretaría de Educación Pública que desaparecen o modifican sus atribuciones a partir de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas u órganos administrativos desconcentrados a las que se les otorga la competencia conforme a este ordenamiento que se expide.
+
+Los recursos humanos, financieros, materiales, bienes muebles e inmuebles, archivos, documentación y acervos bibliográficos, de las unidades administrativas que desaparecen a partir de la entrada en vigor del presente Reglamento, serán transferidos a las unidades administrativas u órganos administrativos desconcentrados que asumen sus atribuciones, lo cual se llevará a cabo de manera ordenada y con la intervención del Órgano Interno de Control, en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Reglamento, observando todas las disposiciones legales aplicables y con respeto a los derechos laborales de los trabajadores.
+
+QUINTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el presente ejercicio fiscal, por lo que cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+SEXTO.- La Secretaría de Educación Pública deberá, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Reglamento, realizar las modificaciones correspondientes a los acuerdos secretariales, manuales y demás disposiciones administrativas que le corresponde emitir conforme a lo previsto en el presente Reglamento.
+
+SÉPTIMO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública que desaparecen, modifican sus atribuciones o cambian de denominación por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo. Las dudas que se pudieran suscitar, respecto de las unidades administrativas que asumen la competencia, serán resueltas por la persona Titular de la Secretaría de Educación Pública.
+
+OCTAVO.- Cuando se involucren recursos presupuestarios en el auxilio que la Secretaría de Educación Pública proporcione al Órgano Interno de Control, en términos del segundo párrafo del artículo 50 de este Reglamento, ese auxilio se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
