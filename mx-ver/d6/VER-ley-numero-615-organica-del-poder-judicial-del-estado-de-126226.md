@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-615-organica-del-poder-judicial-del-estado-de-126226
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-08"
-last_updated: "2020-02-04"
+last_updated: "2020-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 615 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 8 de febrero de 2018.
 
@@ -165,17 +165,21 @@ XVIII. Las demás que establezcan la Constitución y las leyes del Estado.
 
 La sede oficial del Poder Judicial es el municipio de Xalapa Enríquez y, para el mejor desempeño de la función jurisdiccional, sus órganos podrán contar con Salas o Juzgados en los distintos municipios, distritos y regiones del Estado, en los términos que fije la normativa atinente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 4.
 
-Los magistrados del Poder Judicial serán nombrados en términos de lo previsto por la Constitución Política del Estado, durarán en su cargo diez años y podrán ser ratificados para un segundo período de cinco años, previo dictamen emitido por el Consejo de la Judicatura, y sólo serán removidos de conformidad con lo dispuesto por la Constitución Política del Estado, salvo que durante ese lapso se ausenten de manera definitiva, dejen de cumplir con algunos de los requisitos para ser magistrado o se actualicen los supuestos previstos para el retiro forzoso.
+Las magistradas y los magistrados del Poder Judicial serán nombrados en términos de lo previsto por la Constitución Política del Estado, atendiendo el principio de paridad de género; durarán en su cargo diez años y podrán ser ratificados para un segundo período de cinco años, previo dictamen emitido por el Consejo de la Judicatura, y sólo serán removidos de conformidad con lo dispuesto por la Constitución Política del Estado, salvo que durante ese lapso se ausenten de manera definitiva, dejen de cumplir con algunos de los requisitos para ser magistrado o se actualicen los supuestos previstos para el retiro forzoso.
 
 Los requisitos e impedimentos para ser magistrado serán los señalados en la Constitución Política del Estado.
 
 En ningún caso podrá haber dos o más magistrados que sean parientes consanguíneos dentro del cuarto grado. Si hubiere magistrados vinculados por parentesco de afinidad serán asignados a Tribunales distintos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 5.
 
-Los magistrados del Poder Judicial, antes de ejercer su cargo, protestarán ante el Congreso del Estado o, en los recesos de éste, ante la Diputación Permanente, en la forma siguiente:
+Las magistradas y los magistrados del Poder Judicial, antes de ejercer su cargo, protestarán ante el Congreso del Estado o, en los recesos de éste, ante la Diputación Permanente, en la forma siguiente:
 
 Presidente: "¿Protesta desempeñar leal y patrióticamente el cargo de magistrado del Poder Judicial que se le ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como las leyes que de ambas emanen, y cumplir cabalmente las obligaciones de su encargo? "
 
@@ -183,9 +187,11 @@ Magistrado: "Sí protesto".
 
 Presidente: "Si no lo hiciere así, que esta Representación Popular se lo demande".
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 6.
 
-Los magistrados tendrán las atribuciones siguientes:
+Las magistradas y los magistrados tendrán las atribuciones siguientes:
 
 I. Concurrir, participar y votar, cuando corresponda, en las sesiones a las que sean convocados por los presidentes de los órganos a los que pertenezcan;
 
@@ -207,9 +213,11 @@ VIII. Informar a su presidente de sus ausencias temporales no mayores de cinco d
 
 IX. Las demás que establezcan la Constitución y las leyes del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-Los jueces, con excepción de los municipales serán nombrados por el Consejo de la Judicatura mediante concurso de oposición; durarán en su cargo cinco años y podrán ser ratificados las veces que sean necesarias, de acuerdo con los parámetros establecidos por el Consejo de la Judicatura, siempre que su función haya sido desempeñada con probidad, eficiencia y profesionalismo y que su expediente no tenga notas de demérito.
+Los jueces y juezas, con excepción de los municipales, serán nombrados por el Consejo de la Judicatura mediante concurso de oposición, mismo que deberá incorporar el principio de paridad de género; durarán en su cargo cinco años y podrán ser ratificados las veces que sean necesarias, de acuerdo con los parámetros establecidos por el Consejo de la Judicatura, siempre que su función haya sido desempeñada con probidad, eficiencia y profesionalismo y que su expediente no tenga notas de demérito.
 
 De tener un cuadernillo administrativo sancionador en trámite, se suspenderá el proceso de ratificación hasta en tanto se resuelva en definitiva.
 
@@ -217,9 +225,11 @@ De tener un cuadernillo administrativo sancionador en trámite, se suspenderá e
 
 El Consejo de la Judicatura diseñará el procedimiento de ratificación, en el que se respetará el derecho de audiencia, con observancia de los principios señalados en el artículo 2 de esta Ley, para lo cual deberá emitir el Reglamento respectivo, a efecto de implementar los mecanismos de actualización, evaluación y certificación profesional.
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-Los jueces municipales serán nombrados por el Consejo de la Judicatura, de una terna presentada por el presidente del Tribunal Superior de Justicia. Durarán en su cargo tres años y podrán ser ratificados por un período igual, las veces que sean necesarias, con los mismos requisitos y condiciones que los de Primera Instancia.
+Las juezas y jueces municipales serán nombrados por el Consejo de la Judicatura, de una terna presentada por el presidente del Tribunal Superior de Justicia. Este procedimiento deberá atender al principio de paridad de género. Durarán en su cargo tres años y podrán ser ratificados por un período igual, las veces que sean necesarias, con los mismos requisitos y condiciones que los de Primera Instancia.
 
 ###### Artículo 10.
 
@@ -231,17 +241,21 @@ La retribución que corresponda a los servidores públicos del Poder Judicial se
 
 #### SECCIÓN PRIMERA. Integración y funcionamiento
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-El Tribunal Superior de Justicia se integrará con treinta y tres magistrados, y funcionará en Pleno y en Salas. Quedan comprendidos dentro de éstos, el magistrado presidente, los magistrados visitadores y aquellos que integran las Salas en Materia Civil, Penal, de Responsabilidad Juvenil, Constitucional y las Salas en Materia de Familia, en términos del artículo 18 de esta Ley.
+El Tribunal Superior de Justicia se integrará con treinta y tres magistradas y magistrados electos bajo el principio de paridad de género, y funcionará en Pleno y en Salas. Quedan comprendidos dentro de éstos, la magistrada o magistrado presidente, las magistradas o magistrados visitadores y aquellos que integran las Salas en Materia Civil, Penal, de Responsabilidad Juvenil, Constitucional y las Salas en Materia de Familia, en términos del artículo 18 de esta Ley.
 
-El Pleno del Tribunal Superior de Justicia, excepcionalmente, podrá disponer de un número mayor o menor de magistrados o Salas para la integración del Tribunal Superior de Justicia, siempre que exista una causa justificada y de acuerdo a las necesidades del servicio.
+El Pleno del Tribunal Superior de Justicia, excepcionalmente, podrá disponer de un número mayor o menor de magistrados o magistradas o Salas para la integración del Tribunal Superior de Justicia, siempre que exista una causa justificada y de acuerdo a las necesidades del servicio.
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-El Pleno se compondrá por el presidente del Tribunal Superior de Justicia, quien no integrará Sala, y por los presidentes de cada una de sus Salas colegiadas.
+El Pleno se compondrá por la presidenta o presidente del Tribunal Superior de Justicia, quien no integrará Sala, y por las presidentas o presidentes de cada una de sus Salas colegiadas.
 
-Para el ejercicio de sus atribuciones, el Pleno deberá reunir, cuando menos, las dos terceras partes de sus integrantes, entre los que deberá estar presente su presidente.
+Para el ejercicio de sus atribuciones, el Pleno deberá reunir, cuando menos, las dos terceras partes de sus integrantes, entre los que deberá estar presente su presidenta o presidente.
 
 ###### Artículo 13.
 
@@ -2742,3 +2756,11 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 582 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LA LEY ORGÁNICA DEL PODER JUDICIAL, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL Y EL CÓDIGO PENAL; ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE PARIDAD DE GÉNERO Y VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
