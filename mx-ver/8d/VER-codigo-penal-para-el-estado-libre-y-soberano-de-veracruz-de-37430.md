@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2020-07-03"
+last_updated: "2020-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -4277,8 +4277,6 @@ Si el sujeto activo del delito fuere servidor público, además de las penas se�
 
 ### CAPÍTULO VII TER. VIOLENCIA POLÍTICA
 
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2018)</small>
-
 ###### Artículo 364.
 
 Se impondrán de seis meses a dos años de prisión y multa de hasta doscientos días de salario, a quien al interior de una familia y en contra de una persona del sexo femenino integrante de la misma:
@@ -4369,7 +4367,7 @@ En la configuración del delito, no es necesario que se acredite la personalidad
 
 ###### Artículo 367 Ter.
 
-A quien realice por sí o a través de terceros cualquier acción u omisión que causen daño físico, psicológico, sexual, económico o de otra índole, resultado de discriminación por razón de género en contra de una o más mujeres para restringir, suspender o impedir el ejercicio de sus derechos político-electorales o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad o de la ley, se le impondrá prisión de dos a seis años y multa de 9.87 a 197.33 Unidades de Medida de Actualización.
+(DEROGADO, G.O. 15 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -5276,5 +5274,13 @@ G.O. 3 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 571 QUE ADICIONA UN INCISO C) AL PÁRRAFO CUARTO DEL ARTÍCULO 137, UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 196, UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 226 Y EL ARTÍCULO 331 BIS AL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ”.]
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 582 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LA LEY ORGÁNICA DEL PODER JUDICIAL, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL Y EL CÓDIGO PENAL; ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE PARIDAD DE GÉNERO Y VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
