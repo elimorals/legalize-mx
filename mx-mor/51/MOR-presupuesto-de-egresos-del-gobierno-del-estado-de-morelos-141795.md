@@ -4,7 +4,7 @@ identifier: "MOR-presupuesto-de-egresos-del-gobierno-del-estado-de-morelos-14179
 country: "mx"
 rank: "presupuesto"
 publication_date: "2020-01-29"
-last_updated: "2020-01-29"
+last_updated: "2020-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 DECRETO SEISCIENTOS SESENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 01 DE ENERO AL 31 DE DICIEMBRE DEL 2020
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 16 DE SEPTIEMBRE DE 2020.
 
 Presupuesto publicado en la Segunda, Cuarta y Quinta Sección al número 5777 del Periódico Oficial del Estado de Morelos, el miércoles 29 de enero de 2020.
 
