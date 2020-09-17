@@ -4,7 +4,7 @@ identifier: "SON-ley-de-archivos-publicos-para-el-estado-de-sonora-109075"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-16"
-last_updated: "2015-07-16"
+last_updated: "2020-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 17 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARCHIVOS PÚBLICOS PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 1° DE ENERO DE 2016, PREVIA SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE SEPTIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada la Sección III del Boletín Oficial del Estado de Sonora, el jueves 16 de julio de 2015.
 
@@ -664,3 +664,49 @@ GUILLERMO PADRÉS ELÍAS
 EL SECRETARIO DE GOBIERNO
 
 PRICILIANO MELENDREZ BARRIOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 17 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 166, DE ARCHIVOS PARA EL ESTADO DE SONORA”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- A partir de la entrada en vigor de la presente Ley se abroga la Ley número 263, de Archivos Públicos para el Estado de Sonora y se derogan todas aquellas disposiciones que contravengan a la presente.
+
+Artículo Tercero.- En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias referidas en los lineamentos Generales para la Administración Documental en el Estado de Sonora emitidos por el Instituto de Transparencia Informativa del Estado de Sonora actualmente Instituto Sonorense de Transparencia y Acceso a la Información Pública y Protección de Datos Personales, publicados en el B.O. 13 sección IV el día 13 de febrero del 2014, en tanto no se contraponga con lo establecido en la Ley General de Archivos y esta Ley.
+
+Artículo Cuarto.- En un plazo de 365 días naturales a partir de la entrada en vigor de la presente Ley, se deberá crear el Archivo General del Estado, como un organismo descentralizado y sectorizado a la Secretaría de Gobierno. Las Secretarías de Gobierno, de Hacienda y de la Contraloría General, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones correspondientes para que se autorice, conforme a las disposiciones aplicables, la estructura orgánica y funcional del Archivo General del Estado.
+
+Artículo Quinto.- La Secretaría de Gobierno, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera "El Archivo del Estado", mientras esté subordinado a la Dirección General del Boletín Oficial y Archivo del Estado para el cumplimiento del presente ordenamiento, hasta la creación del Archivo General del Estado.
+
+Artículo Sexto.- El monto del fondo de apoyo económico para archivos, establecido en el artículo 79 en la presente Ley, se constituirá por lo menos con el importe correspondiente al 0.0005% del total de ingresos a recibir en cada ejercicio fiscal.
+
+Artículo Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a un presupuesto asignado con base en un dictamen de viabilidad otorgado por la Secretaría de Hacienda en el ámbito de su competencia, para el presente ejercicio fiscal y en el caso de los subsecuentes será a cargo de sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
+
+Artículo Octavo.- El Consejo Estatal deberá integrarse dentro de los 60 días naturales a partir de la entrada en vigor de la presente Ley y será el titular de la Dirección General del Boletín Oficial y Archivo del Estado quien lo presidirá hasta la creación del Archivo General del Estado.
+
+Artículo Noveno.- El Consejo Estatal, deberá empezar a sesionar a más tardar a los 30 días naturales de su creación.
+
+Artículo Décimo.- El Consejo Estatal deberá emitir las normas archivísticas que se contemplan dentro del Sistema Estatal de Archivos en los primeros 270 días naturales posteriores a la entrada en vigor de la presente Ley, conforme a las disposiciones establecidas por el Consejo Nacional.
+
+Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo en un plazo no mayor a 90 días naturales, contados a partir de que sean emitidas por el Consejo Estatal.
+
+Los municipios que no tengan las condiciones presupuestarias ni técnicas y que cuenten con una población menor a los 70,000 habitantes, tendrán un plazo de 90 días naturales posteriores a la emisión de las normas archivísticas para agruparse por región, lo anterior se deberá realizar atendiendo las características económicas, culturales y sociales de cada región.
+
+Artículo Décimo Primero.- Los sujetos obligados deberán iniciar la implementación de su Sistema Institucional de Archivos, dentro de los plazos establecidos en el artículo décimo primero transitorio de la Ley General de Archivos.
+
+Artículo Décimo Segundo.- En un plazo de 90 días naturales, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de administración de archivos y gestión documental.
+
+Artículo Décimo Tercero.- Dentro de los 365 días naturales siguientes a la entrada en vigor de la presente Ley, el Archivo General del Estado iniciará el proceso de implementación de la plataforma del Registro Estatal de Archivos.
+
+Artículo Décimo Cuarto.- Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no hayan sido organizados y valorados, se les deberán aplicar los procesos técnicos archivísticos correspondientes, con el objetivo de identificar el contenido y carácter de la información, así como determinar su disposición documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+Artículo Décimo Quinto.- Los documentos transferidos a un Archivo Histórico o al Archivo General, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, clasificados, ordenados y descritos archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión, favoreciendo la investigación y la divulgación.
+
+Aquellos sujetos obligados que cuenten con Archivos Históricos deberán prever en el Programa anual el establecimiento de acciones tendientes a identificar, clasificar, ordenar y describir archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
