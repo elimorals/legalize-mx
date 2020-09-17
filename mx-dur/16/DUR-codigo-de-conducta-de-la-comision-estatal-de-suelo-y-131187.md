@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-la-comision-estatal-de-suelo-y-131187"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-23"
-last_updated: "2018-09-23"
+last_updated: "2020-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION ESTATAL DE SUELO Y VIVIENDA DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE SUELO Y VIVIENDA DE DURANGO, PUBLICADO EN EL P.O. DE 17 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE SUELO Y VIVIENDA DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 23 de septiembre de 2018.
 
@@ -266,3 +268,15 @@ VOCAL PROPIETARIO
 C. MARTHA IVONNE NAVARRETE GARCÍA
 
 VOCAL PROPIETARIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE SUELO Y VIVIENDA DEL ESTADO”.]
+
+PRIMERO.- El presente acuerdo entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Comisión Estatal de Suelo y Vivienda de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango N°. 78, de fecha 23 de septiembre de 2018.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de la Comisión Estatal de Suelo y Vivienda de Durango.
