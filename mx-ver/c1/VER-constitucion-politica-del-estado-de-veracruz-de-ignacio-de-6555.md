@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2020-08-03"
+last_updated: "2020-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -2289,9 +2289,25 @@ XVII. En los nombramientos o designaciones de las personas titulares de las depe
 
 La Hacienda del Estado se compone de los edificios públicos del mismo; de las herencias, legados, donaciones y bienes vacantes que estén dentro de su territorio; de los bienes y derechos a favor del Estado; de los bienes mostrencos; de los créditos que tenga a su favor; de las rentas que deba percibir y de las contribuciones decretadas por el Congreso.
 
-Todos los caudales públicos pertenecientes al Estado ingresarán a la Secretaría del Despacho competente en materia de Finanzas, salvo en los casos que establezca esta Constitución y las leyes.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-Las finanzas públicas del Estado deberán estar apegadas a un criterio de racionalidad y de estricta disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca en el presupuesto de egresos sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal.
+Todos los caudales públicos pertenecientes al Estado ingresarán a la Secretaría del despacho del Poder Ejecutivo competente en materia de finanzas y planeación, salvo en los casos que establezcan esta Constitución y las leyes. Los ingresos estatales derivados de impuestos, derechos, aprovechamientos, productos y otros que tengan las dependencias centralizadas o entidades paraestatales en ejercicio de sus atribuciones, se recaudarán a través de la oficina virtual de hacienda de la misma Secretaría.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+Las finanzas públicas del Estado deberán estar apegadas a un criterio de racionalidad y de estricta disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca en el presupuesto de egresos sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal, con el propósito de observar los principios de balance presupuestario y el de balance presupuestario de recursos disponibles, atendiendo a las reglas especiales siguientes:
+
+I. Cuando en esta Constitución se haga referencia al presupuesto general del Estado, esto se entenderá como el estimado total de ingresos y egresos aprobados por el Congreso del Estado para el ejercicio fiscal correspondiente;
+
+II. En el caso de órganos, organismos autónomos del Estado o entes públicos a los que esta Constitución o las leyes les asignen porcentajes específicos del presupuesto general del Estado, la base para su cálculo será el total de los ingresos de libre disposición;
+
+III. Cuando las participaciones federales anuales al Estado se vean afectadas durante el ejercicio fiscal en curso, la Secretaría de despacho del Poder Ejecutivo competente en materia de finanzas y planeación hará los ajustes en las ministraciones estatales correspondientes a las dependencias centralizadas y entidades paraestatales del Poder Ejecutivo, así como a las de los Poderes Legislativo y Judicial, los organismos autónomos del Estado y demás entes públicos, en la misma proporción y periodicidad que lo haga la Federación;
+
+IV. Por excepción, ante situaciones financieras extraordinarias o imprevistas de carácter general que disminuyan los ingresos estatales que así sean declaradas fundada y motivadamente por el Titular del Poder Ejecutivo o el Congreso del Estado, este último durante la aprobación del respectivo presupuesto de egresos para el ejercicio fiscal correspondiente, o la Secretaría de despacho del Poder Ejecutivo competente en materia de finanzas y planeación durante el ejercicio fiscal previa aprobación del Congreso del Estado, podrán efectuar los ajustes necesarios al presupuesto de egresos de las dependencias centralizadas y entidades paraestatales del Poder Ejecutivo, los organismos autónomos del Estado, los poderes Legislativo y Judicial y demás entes públicos del Estado, a efecto de cumplir con los principios de balance presupuestario y el de balance presupuestario de recursos disponibles en el orden establecido en la ley de la materia;
+
+V. Las dependencias centralizadas y entidades paraestatales de la administración pública estatal, los poderes Legislativo y Judicial, los organismos autónomos del Estado y los demás entes públicos que ejerzan recursos estatales que, por cualquier motivo, no se hubieren devengado al treinta y uno de diciembre del correspondiente ejercicio fiscal, deberán reintegrarlos a la Secretaría de despacho del Poder Ejecutivo competente en materia de finanzas y planeación, incluidos en su caso los respectivos rendimientos financieros, dentro de los diez días hábiles siguientes al cierre del ejercicio; y
+
+VI. Con la finalidad de responder al cuidado y equilibrio de los caudales públicos y adoptar las medidas necesarias para su debida preservación, el Congreso del Estado podrá emitir las disposiciones de disciplina financiera que resulten adecuadas para guardar el orden de la hacienda del Estado, en concordancia con las disposiciones financieras federales aplicables.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2007)</small>
 
@@ -4012,3 +4028,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En un plazo que no exceda los sesenta días hábiles, contado a partir de la vigencia de este Decreto, el Congreso del Estado deberá armonizar la legislación secundaria aplicable conforme a lo previsto en esta resolución, en materia educativa.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 593 POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 72 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Tercero. Tratándose de la Universidad Veracruzana, continuará en vigor lo dispuesto en el artículo 10 penúltimo párrafo de esta Constitución en relación con su presupuesto anual; por lo que, para el cálculo y progresividad de éste seguirá surtiendo efectos lo previsto en el Artículo Segundo Transitorio del Decreto número 350 publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de fecha 13 de noviembre de 2017.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Quinto. El Congreso del Estado a iniciativa del Poder Ejecutivo, deberá armonizar todas las disposiciones legales de carácter financiero así como desarrollar aquellas que con motivo del mismo resulten necesarias.
+
+Sexto. El Congreso del Estado, el Titular del Poder Ejecutivo, la Secretaría de Finanzas y Planeación del Gobierno del Estado así como todas las unidades presupuestales de la entidad, deberán tomar en consideración las disposiciones del presente Decreto al elaborar, formular, presentar o aprobar sus respectivos proyectos y anteproyectos de Presupuestos correspondientes al ejercicio fiscal 2021, en las fechas o plazos establecidos en los artículos 158, 159 párrafo segundo, 163 y 164 del Código Financiero para el Estado.
