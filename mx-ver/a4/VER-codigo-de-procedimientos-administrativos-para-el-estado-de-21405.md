@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2019-02-12"
+last_updated: "2020-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -1859,7 +1859,9 @@ I. Con cada gestión de cobro que la autoridad notifique o haga saber al deudor.
 
 II. Por el reconocimiento expreso o tácito del contribuyente deudor respecto a la existencia del crédito.
 
-Los interesados podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+La declaratoria de prescripción de los créditos fiscales se realizará de oficio por la autoridad recaudadora o a petición del contribuyente.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
@@ -1883,9 +1885,9 @@ III. Por remate, enajenación fuera de remate o adjudicación al fisco.
 
 Cuando el dos por ciento del crédito sea inferior al importe de dos UMAS, se cobrará este importe en vez del dos por ciento.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, podrán exceder de la cantidad equivalente a la UMA.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, podrán exceder de la cantidad equivalente a la UMA elevada al año.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo, en su caso, los que deriven de embargos, que únicamente comprenderán los de transporte y almacenaje de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el registro público que corresponda, los erogados por la obtención de certificados de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores o administradores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
@@ -4034,3 +4036,11 @@ G.O. 12 DE FEBRERO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 591 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO Y QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
