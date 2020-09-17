@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2019-12-06"
+last_updated: "2020-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2020.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -1321,6 +1321,10 @@ II. Por la emisión de constancias de registro de contador
 
 público autorizado: 24.9164 UMA
 
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+III. Por la reinscripción al padrón de contador público autorizado: 10.6027 UMA
+
 B. Por registro y control de vehículos de servicio privado:
 
 I. Alta en el Registro Estatal de Contribuyentes de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación:
@@ -1489,19 +1493,25 @@ VIII. Por la realización de estudios socioeconómicos a
 
 solicitante de lote: 0.1696 UMA
 
-### Capítulo Cuarto. De los Derechos por Servicios Prestados por la Secretaría de Comunicaciones
+> <small>(REFORMADA SU DENOMINACIÓN; G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+### Capítulo Cuarto. De los Derechos por Servicios Prestados por la Secretaría de Infraestructura y Obras Públicas
+
+> <small>(REFORMADO, PRIMER PÁRRAFO; G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-Por los servicios telegráficos, telefónicos y radiotelefónicos que presta la Secretaría de Comunicaciones, a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a las siguientes cuotas:
+Por los servicios telegráficos, telefónicos y radiotelefónicos que presta la Secretaría de Infraestructura y Obras Públicas, a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a las siguientes cuotas:
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 I. Conferencias en casetas telefónicas con líneas comunales de magneto:
 
 a) Por 3 minutos: 0.0106 UMA
 
 b) Por minuto excedente: 0.0530 UMA
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 II. Abonados. Telefónicos en línea comunal de magneto,
 
@@ -2159,43 +2169,85 @@ Más de 100,000 m2: 318.0819 UMA
 
 IX. Por concepto del otorgamiento de autorizaciones para el manejo de los residuos sólidos urbanos y de manejo especial, de acuerdo a lo establecido en la Ley de Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial para el Estado de Veracruz de Ignacio de la Llave.
 
-a) Por concepto del Registro de transporte de residuos de manejo especial, de conformidad con la normatividad aplicable:
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-Rango (vehículos)
+a) Autorización condicionada para la recolección y transporte de residuos de manejo especial.
 
-De 0 a 50: 63.6164 UMA
+De 1- 5 unidades 20.0000 UMA
 
-De 51 a 100: 84.8218 UMA
+De 6-10 unidades 40.0000 UMA
 
-De 101 a 200: 106.0273 UMA
+De 11-20 unidades 50.0000 UMA
 
-Después de 200 vehículos, el incremento de los mismos, causará un derecho de 60 UMA por cada 100 vehículos.
+De 21-30 unidades 60.0000 UMA
 
-b) Por concepto de autorizaciones a los
+De 31-40 unidades 70.0000 UMA
 
-establecimientos dedicados a la reutilización,
+De 41-50 unidades 80.0000 UMA
 
-reciclado, remanufactura y tratamiento de residuos de
+De 51-100 unidades 100.000 UMA
 
-manejo especial, de acuerdo a la normatividad
+A partir de 101 unidades
 
-aplicable: 42.4109 UMA
+(por cada 100 unidades) 60.0000 UMA
 
-c) Por concepto del informe mediante Cédula Estatal de
+Para inclusión de unidad dentro de la
 
-operación anual para los Generadores de Residuos
+vigencia del permiso. (por unidad) 10.0000 UMA
 
-Sólidos Urbanos y de Manejo Especial, de acuerdo a
+Para inclusión de vehículos fuera del periodo
 
-la normatividad aplicable: 21.2055 UMA
+de vigencia, deberán apegarse a la tabla de costos.
 
-d) Por concepto de la aprobación de un plan de manejo
+Entiéndase por unidad: tracto, góndola,
 
-propuesto por particulares de acuerdo al artículo 55
+plataforma, jaula, tanque, caja y/o cualquier
 
-de la Ley de Prevención y gestión integral de
+equipo auxiliar que sea remolcado por un tracto.
 
-residuos sólidos urbanos y de manejo especial: 10.6027 UMA
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+b) Por concepto de autorizaciones a los establecimientos dedicados a la reutilización, reciclado, remanufactura y tratamiento de residuos de manejo especial, de acuerdo a la normatividad aplicable:
+
+Centro de acopio y/o almacenamiento 42.4109 UMA
+
+Tratamiento o reciclaje 60.0000 UMA
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+c) Por concepto del informe mediante
+
+cédula estatal de operación anual para las
+
+empresas que cuenten con licencia
+
+ambiental de funcionamiento 21.2055 UMA
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+d) Por concepto de la aprobación de un plan de
+
+manejo propuesto por particulares de acuerdo
+
+al artículo 55 de la Ley de Prevención y gestión
+
+integral de residuos sólidos urbanos y de
+
+manejo especial 30.0000 UMA
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+e) Registro de generador de residuos de
+
+manejo especial 40.0000 UMA
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+f) Opiniones técnicas 5.0000 UMA
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+g) Constancia de inicio de trámite 5.0000 UMA
 
 X. Por la elaboración de los dictámenes de congruencia
 
@@ -2213,9 +2265,13 @@ Ordenamiento Ecológico respectivos: 2.1205 UMA
 
 Por los servicios prestados por la Secretaría de Desarrollo Social en materia de Desarrollo Urbano y Ordenamiento Territorial, se causarán y cobrarán los siguientes derechos:
 
-I. Certificación de documentos. Por hoja: 0.6892 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Certificación de copias de planos. Por hoja: 4.4001 UMA
+I. Certificación de documentos. Por hoja: 1.2000 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+II. Certificación de copias de planos. Por hoja: 6.0000 UMA
 
 III. Estudio y expedición de licencias de uso del suelo, actualización y reconsideración de las mismas, así como regularizaciones de uso del suelo:
 
@@ -2465,11 +2521,17 @@ planos: 0.0318 UMA
 
 por m2
 
-IV. Por asignación de perito en materia de
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-construcción en el sector privado: 21.2055 UMA
+IV. Por asignación de perito en materia
 
-V. Por la expedición de Licencias a los panteones
+de construcción: 21.2055 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+V. Por la expedición de licencias, permisos
+
+de construcción y ocupación a los panteones
 
 y funerarias del sector privado: 27.5671 UMA
 
@@ -2555,17 +2617,69 @@ Por los servicios prestados por la Contraloría General se causarán y pagarán 
 
 I. Por servicios prestados por la Dirección General de Responsabilidades y Situación Patrimonial:
 
-a) Por la expedición de cada constancia de no inhabilitación: 1.0603 UMA
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+a) Por la expedición de cada constancia de no inhabilitación: 1.2152 UMA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+### Capítulo Décimo Primero. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Agropecuario, Rural y Pesca
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 22 Ter.
+
+Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, Rural y Pesca se causarán y pagarán los derechos siguientes:
+
+I. Por renovación o expedición anual de permiso
+
+de pesca comercial en aguas de
+
+jurisdicción estatal. 13.1100 UMA
+
+Se adiciona el costo por tipo de pesquería
+
+multiplicado por el tonelaje (capacidad de carga)
+
+total expresado en el permiso de pesca correspondiente:
+
+a) Escama de agua dulce: 0.4800 UMA
+
+b) Almejas 0.4800 UMA
+
+c) Cangrejos 1.1400 UMA
+
+d) Jaibas 0.7500 UMA
+
+e) Langostinos 0.7500 UMA
+
+f) Caracol Tegogolo 0.7500 UMA
+
+II. Permiso para pesca de fomento 7.8825 UMA
+
+III. Permiso de recolección de
+
+reproductores, juveniles, crías,
+
+larvas, postlarvas y ovas del
+
+medio natural para su utilización
+
+de acuacultura: 12.5458 UMA
+
+IV. Concesión de acuacultura comercial
+
+de cuerpos de agua de jurisdicción estatal: 192.3896 UMA
+
+V. Permiso para acuacultura de fomento: 99.4130 UMA
+
+VI. Permiso para acuacultura de didáctica: 29.0566 UMA
+
+## Título Tercero. De los Derechos por Servicios Prestados por la Administración Pública Paraestatal
 
 ### Capítulo Único
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 26 DE DICIEMBRE DE 2017)</small>
-
-## Título Tercero. De los Derechos por Servicios Prestados por la Administración Pública Paraestatal
-
-### Capítulo Único. De los Derechos por Servicios Diversos
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 23.
 
@@ -2620,6 +2734,10 @@ XX. Trámites relativos a la Unidad de nivelación académica en horario discont
 A. Trámite de inscripción al primer semestre unidad de nivelación académica en horario discontinuo (UNA): 5.8315 UMA
 
 B. Trámite de inscripción del segundo al sexto semestre unidad de nivelación académica en horario discontinuo (UNA): 4.2411 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Constancia de expedición de Libros de Texto 5.7995 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -2741,53 +2859,81 @@ constancia de cumplimiento de requisitos para
 
 reinscripción carrera de servicios: 6.7009 UMA
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 26.
 
 Por servicios prestados por el Colegio de Estudios Científicos y Tecnológicos del Estado de Veracruz:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 2.1205 UMA
+I. Trámite de expedición de ficha de
 
-II. (DEROGADA, G.O. 26 DE DICIEMBRE DE 2017)
+cumplimiento de requisitos para presentar
 
-III. (DEROGADA, G.O. 26 DE DICIEMBRE DE 2017)
+examen de admisión: 2.1205 UMA
 
-IV. Trámite de expedición de duplicado de boleta: 0.2121 UMA
+II. Trámite de expedición de duplicado
 
-V. Trámite de expedición de duplicado de constancia:
+de boleta: 0.2121 UMA
+
+III. Trámite de expedición de duplicado de constancia de:
 
 a) Estudios con o sin calificación: 0.3181 UMA
 
 b) Acreditación de servicio social: 0.3181 UMA
 
-c) Acreditación de prácticas profesionales: 0.3181 UMA
+c) Acreditación de prácticas
+
+profesionales: 0.3181 UMA
 
 d) Competencias por módulo: 0.3181 UMA
 
-VI. Trámite de expedición de duplicado de credencial plastificada: 0.8482 UMA
+IV. Trámite de expedición de duplicado
 
-VII. Trámite de expedición de certificado completo: 1.1663 UMA
+de credencial plastificada: 0.8482 UMA
 
-VIII. Trámite de expedición de certificado incompleto: 0.8482 UMA
+V. Trámite de expedición de certificado
 
-IX. Trámite de expedición de cédula para curso intersemestral: 1.6964 UMA
+completo: 1.1663 UMA
 
-X. Trámite del acto protocolario de titulación 1.6964 UMA
+VI. Trámite de expedición de certificado
 
-XI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de recuperación: 0.2121 UMA
+incompleto: 0.8482 UMA
 
-XII. Gastos administrativos no educativos 2.1205 UMA
+VII. Trámite de expedición de cédula
 
-XIII. Trámite de expedición de carta de buena conducta: 0.3181 UMA
+para curso intersemestral: 1.6964 UMA
 
-XIV. (DEROGADA, G.O. 26 DE DICIEMBRE DE 2017)
+VIII. Trámite del acto protocolario de
 
-XV. Trámite de expedición de cédula para curso de titulación: 6.8918 UMA
+titulación: 1.6964 UMA
 
-XVI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de conocimiento (titulación): 5.1953 UMA
+IX. Trámite de expedición de constancia
 
-XVII. Trámite de expedición de cédula de inscripción:
+de cumplimiento de requisitos para
+
+presentar examen de recuperación: 0.2121 UMA
+
+X. Gastos administrativos no
+
+educativos: 2.1205 UMA
+
+XI. Trámite de expedición de carta de
+
+buena conducta: 0.3181 UMA
+
+XII. Trámite de expedición de cédula
+
+para curso de titulación: 6.8918 UMA
+
+XIII Trámite de Expedición de constancia
+
+de cumplimiento de requisitos para
+
+presentar examen de conocimiento
+
+(titulación): 5.1953 UMA
+
+XIV. Trámite de expedición de cédula de inscripción:
 
 a) Tres Valles: 6.0436 UMA
 
@@ -2803,7 +2949,7 @@ f) Huitzila Soledad Atzompa: 6.0436 UMA
 
 g) Coxquihui: 6.0436 UMA
 
-h) La Laguna - Uxpanapa: 6.0436 UMA
+h) Laguna Uxpanapa: 6.0436 UMA
 
 i) Huayacocotla: 6.0436 UMA
 
@@ -2825,15 +2971,33 @@ q) Huatusco: 6.0436 UMA
 
 r) La Camelia: 6.0436 UMA
 
-s) Ejido las Lomas: 6.0436 UMA
+s) Ejido Las Lomas: 6.0436 UMA
 
 t) Colonia Ciudad Olmeca: 7.3689 UMA
 
 u) Guayalejo: 6.0436 UMA
 
-v) Fraccionamiento Puente Moreno 6.0436 UMA
+v) Fraccionamiento Puente Moreno: 6.0436 UMA
 
-XVIII. Trámite de expedición de cédula de reinscripción:
+w) La Cuesta: 6.0436 UMA
+
+x) Huazuntlán: 6.0436 UMA
+
+y) Otatitlán: 6.0436 UMA
+
+z) Catemaco. 6.0436 UMA
+
+aa) Palma Sola: 6.0436 UMA
+
+ab) Veracruz: 6.0436 UMA
+
+ac) General Alatriste: 6.0436 UMA
+
+ad) Palo Blanco: 6.0436 UMA
+
+ae) Coetzala: 6.0436 UMA
+
+XV. Trámite de expedición de cédula de reinscripción:
 
 a) Tres Valles: 6.0436 UMA
 
@@ -2849,7 +3013,7 @@ f) Huitzila Soledad Atzompa: 6.0436 UMA
 
 g) Coxquihui: 6.0436 UMA
 
-h) La Laguna - Uxpanapa: 6.0436 UMA
+h) Laguna Uxpanapa: 6.0436 UMA
 
 i) Huayacocotla: 6.0436 UMA
 
@@ -2871,27 +3035,85 @@ q) Huatusco: 6.0436 UMA
 
 r) La Camelia: 6.0436 UMA
 
-s) Ejido las Lomas: 6.0436 UMA
+s) Ejido Las Lomas: 6.0436 UMA
 
 t) Colonia Ciudad Olmeca: 7.3689 UMA
 
 u) Guayalejo: 6.0436 UMA
 
-v) Fraccionamiento Puente Moreno 6.0436 UMA
+v) Fraccionamiento Puente Moreno: 6.0436 UMA
 
-XIX. Trámite de expedición de credencial plastificada: 0.5301 UMA
+w) La Cuesta: 6.0436 UMA
 
-XX. Trámite de expedición de duplicado de certificado de terminación de estudios: 1.1663 UMA
+x) Huazuntlán: 6.0436 UMA
 
-XI (SIC). Trámite de expedición de duplicado de carta de buena conducta 0.3181 UMA
+y) Otatitlán: 6.0436 UMA
 
-XXII. Trámite de expedición de cédula de inscripción con descuento del 25%: 5.5134 UMA
+z) Catemaco: 6.0436 UMA
 
-XXIII. Trámite de expedición de cédula de inscripción con descuento del 50%: 3.7110 UMA
+aa) Palma Sola: 6.0436 UMA
 
-XXIV. Trámite de expedición de cédula de reinscripción con descuento del 50%: 3.7110 UMA
+ab) Veracruz: 6.0436 UMA
 
-XXV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 1.4500 UMA
+ac) General Alatriste: 6.0436 UMA
+
+ad) Palo Blanco: 6.0436 UMA
+
+ae) Coetzala: 6.0436 UMA
+
+XVI. Trámite de expedición de
+
+credencial plastificada: 0.5301 UMA
+
+XVII. Trámite de expedición de
+
+duplicado de certificado de
+
+terminación de estudios: 1.1663 UMA
+
+XVIII. Trámite de expedición de
+
+duplicado de carta de buena
+
+conducta: 0.3181 UMA
+
+XIX. Trámite de expedición de cédula
+
+de inscripción con descuento del 25%:
+
+Apartado a. Plantel Agua Dulce,
+
+Plantel Colonia Ciudad Olmeca: 5.5134 UMA
+
+Apartado b. Demás planteles: 4.5592 UMA
+
+XX. Trámite de expedición de cédula de
+
+inscripción con descuento del 50%:
+
+Apartado a. Plantel Agua Dulce,
+
+Plantel Colonia Ciudad Olmeca: 3.7110 UMA
+
+Apartado b. Demás planteles: 3.0748 UMA
+
+XXI. Trámite de expedición de cédula
+
+de reinscripción con descuento del 50%:
+
+Apartado a. Plantel Agua Dulce,
+
+Plantel Colonia Ciudad Olmeca: 3.7110 UMA
+
+Apartado b. Demás planteles: 3.0748 UMA
+
+XXII. Trámite de expedición de
+
+constancia de cumplimiento de
+
+requisitos para presentar examen
+
+extraordinario: 1.4500 UMAR
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -3039,11 +3261,129 @@ b) Servicio de interés social de saneamiento: 21.7366 UMA
 
 Por los servicios prestados por el Instituto de Capacitación para el Trabajo del Estado de Veracruz:
 
-I. Trámite de expedición de documentos: 0.5832 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE 2020)</small>
 
-II. Exámenes (reconocimiento oficial en competencia ocupacional): 16.6251 UMA
+I. Trámite de expedición de documentos: 0.5208 UMA
 
-III. Cursos regulares: 7.9839 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE 2020)</small>
+
+II. Exámenes ROCO (Reconocimiento Oficial en Competencia Ocupacional): 14.8538 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE 2020)</small>
+
+III. Cursos regulares y/o extramuros:
+
+(Exceptuando casos con la
+
+condonación al 100%) 6.3913 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Cursos regulares y/o extramuros
+
+(con excepción del 50%) 3.1956 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+V. Cursos regulares y/o extramuros
+
+(con excepción del 25%) 4.7934 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Curso del CONOCER (Impartición de
+
+cursos de formación del capital humano de
+
+manera presencial grupal):
+
+a) Evaluación de competencia de
+
+candidatos con base en estándares
+
+de competencia (ECO076): 11.8357 UMA
+
+b) Impartición de cursos de formación
+
+de capital humano de manera presencial
+
+grupal (ECO0217): 17.7536 UMA
+
+c) Prestación de servicios estéticos
+
+corporales (ECO010) 23.6717 UMA
+
+d) Prestación de Servicios
+
+Cosmetológicos Faciales (ECO046) 23.6717 UMA
+
+e) Ejecución de cursos con enfoque
+
+de competencias (ECO454): 14.2028 UMA
+
+f) Atención al ciudadano en el Sector
+
+Público (ECO0105): 9.4685 UMA
+
+g) Propiciar aprendizaje significativo
+
+en Educación Media Superior (ECO0647): 20.1207 UMA
+
+h) Diseño de cursos presenciales,
+
+instrumentos de evaluación y manuales
+
+de curso (ECO301): 21.3043 UMA
+
+i) Diseño de cursos de capacitación
+
+para ser impartidos mediante
+
+internet (ECO050): 14.2028 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Certificación del CONOCER (Evaluación y Certificación):
+
+a) Evaluación (ECO076): 14.2028 UMA
+
+b) Certificado (ECO076): 3.5507 UMA
+
+c) Evaluación (ECO0217): 37.8743 UMA
+
+d) Certificado (ECO0217): 3.5507 UMA
+
+e) Evaluación (ECO010): 33.1400 UMA
+
+f) Certificado (ECO010): 14.2029 UMA
+
+g) Evaluación (ECO046): 33.1400 UMA
+
+h) Certificado (ECO046): 14.2029 UMA
+
+i) Evaluación (ECO454): 35.5072 UMA
+
+j) Certificado (ECO454): 3.5507 UMA
+
+k) Evaluación (ECO0105): 10.6521 UMA
+
+l) Certificado (ECO0105): 3.5507 UMA
+
+m) Evaluación (ECO0647): 36.6907 UMA
+
+n) Certificado (ECO0647): 3.5507 UMA
+
+o) Evaluación (ECO301): 35.5072 UMA
+
+p) Certificado (ECO301): 3.5507 UMA
+
+q) Evaluación (ECO050): 26.0386 UMA
+
+r) Certificado (ECO050): 3.5507 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Reexpedición de documentos: 1.1836 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -3373,169 +3713,551 @@ privados: 5.6088 UMA
 
 IV. Servicio de patrulla con conductor: 49.6128 UMA
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 33.
 
 Por el uso temporal de bienes o servicios prestados por el Instituto Veracruzano del Deporte:
 
-I. Albercas: 0.5182 UMA
+I. Servicios:
 
-II. Albercas estudiantes: 0.3455 UMA
+a) Albercas (Por día): 0.3974 UMA
 
-III. Canchas: 0.3455 UMA
+b) Albercas estudiantes (Por día): 0.2649 UMA
 
-IV. Canchas estudiante: 0.2591 UMA
+c) Canchas (Por día): 0.2649 UMA
 
-V. Senectud y discapacitados (semanal): 0.5301 UMA
+d) Canchas estudiante (Por día): 0.1987 UMA
 
-VI. Porcentaje de energía eléctrica (por hora): 0.8637 UMA
+e) Senectud y discapacitados
 
-VII. Natación:
+(Semanal/Por día): 0.0662 UMA
 
-a) Natación (inscripción): 2.8627 UMA
+f) Porcentaje de energía eléctrica
 
-b) Natación (mensualidad): 6.4677 UMA
+(por hora): 0.6623 UMA
 
-c) Natación bebés personalizado:
+II. Membresías (incluyen uso de albercas):
 
-(2 a 4 años) 12.2992 UMA
+a) Inscripción Membresía Individual
 
-d) Natación semi personalizada:
+(Anual): 3.3717 UMA
 
-(2 a 4 años) 7.9520 UMA
+b) Membresía Individual (Mensual): 5.2987 UMA
 
-e) Natación embarazadas: 7.3159 UMA
+c) Inscripción Membresía Adulto
 
-VIII. Clavados:
+Mayor (Anual): 1.3247 UMA
 
-a) Clavados (inscripción): 2.8627 UMA
+d) Membresía Adulto Mayor
 
-b) Clavados (mensualidad): 4.8773 UMA
+(Mensual): 1.3247 UMA
 
-IX. Aquazumba: 5.7255 UMA
+e) Inscripción Membresía Adulto
 
-X. Acondicionamiento físico: 1.6964 UMA
+Mayor Matrimonial (Anual): 1.3247 UMA
 
-XI. Renta de auditorio (por hora): 6.8918 UMA
+f) Membresía Adulto Mayor
 
-XII. Visitas gimnasio: 0.5301 UMA
+Matrimonial (Mensual): 1.9870 UMA
 
-XIII. Frontón:
+g) Inscripción Membresía Familiar
 
-a) Frontón (inscripción): 2.8627 UMA
+(Incluye Matrimonio y hasta dos hijos
 
-b) Frontón (mensualidad): 4.8773 UMA
+menores de edad) (Anual): 3.3117 UMA
 
-XIV. Triatlón (mensualidad): 7.3159 UMA
+h) Membresía Familiar (Incluye
 
-XV. Raquetbal:
+Matrimonio y hasta dos hijos
 
-a) Raquetbal (inscripción): 2.8627 UMA
+menores de edad) (Mensual): 13.2468 UMA
 
-b) Raquetbal (mensualidad):
+i) Inscripción membresía Alberca
 
-2 clases por semana 5.7255 UMA
+y Gimnasio (Anual): 3.3117 UMA
 
-c) Raquetbal (mensualidad):
+j) Membresía Alberca y Gimnasio
 
-3 clases por semana 7.2099 UMA
+(Mensual): 7.3159 UMA
 
-XVI. Squash:
+III. Clases Natación:
 
-a) Squash (inscripción): 2.8627 UMA
+a) Inscripción Individual (Anual): 3.3117 UMA
 
-b) Squash (mensualidad):
+b) Mensualidad Grupal (Lunes a
 
-2 clases por semana 5.7255 UMA
+Viernes) (60 min por día): 7.3159 UMA
 
-c) Squash (mensualidad):
+c) Mensualidad Grupal (3 días
 
-3 clases por semana 7.2099 UMA
+a la semana) (60 min por día): 6.6234 UMA
 
-XVII. Tenis de mesa:
+d) Mensualidad Grupal (2 días a
 
-a) Tenis de mesa (inscripción): 2.8627 UMA
+la semana) (60 min por día): 5.2987 UMA
 
-b) Tenis de mesa (mensualidad):
+e) Mensualidad Personalizado de
 
-2 clases por semana 5.0893 UMA
+2 a 4 años (3 días a la semana)
 
-c) Tenis de mesa (mensualidad):
+(30 min por día): 6.6234 UMA
 
-3 clases por semana 5.7255 UMA
+f) Mensualidad Personalizado de
 
-XVIII. Esgrima:
+2 a 4 años (2 días a la semana)
 
-a) Esgrima (inscripción): 2.8627 UMA
+(30 min por día): 4.6364 UMA
 
-b) Esgrima (mensualidad):
+g) Inscripción Nado Sincronizado
 
-2 clases por semana 5.7255 UMA
+(Anual): 3.3117 UMA
 
-XIX. Instalación deportiva Arena Veracruz:
+h) Mensualidad Nado Sincronizado
 
-a) Taekwondo (mensualidad):
+(Lunes a Viernes) (60 min por día): 7.3159 UMA
 
-3 clases por semana 8.4822UMA
+i) Mensualidad Nado Sincronizado
 
-b) Taekwondo (mensualidad):
+(3 días a la semana) (60 min por día): 5.2987 UMA
 
-5 clases por semana (talento deportivo 8.4822 UMA
+j) Inscripción Natación Embarazadas
 
-c) Gimnasia rítmica (mensualidad):
+(Anual): 3.3117 UMA
 
-3 clases por semana 10.1786 UMA
+k) Natación Embarazadas (Mensual): 5.2987 UMA
 
-d) Judo (mensualidad):
+l) Inscripción Polo acuático (Anual): 3.3117 UMA
 
-2 clases por semana 2.8627 UMA
+m) Polo acuático (Mensual): 6.6234 UMA
 
-e) Judo (mensualidad):
+IV. Clase de Clavados:
 
-5 clases por semana 5.7255 UMA
+a) Clavados (inscripción) (Anual): 3.3117 UMA
 
-f) Luchas asociadas (mensualidad):
+b) Mensualidad Grupal (Lunes a
 
-3 clases por semana 3.6049 UMA
+Viernes) (60 min por día): 7.3159 UMA
 
-g) Luchas asociadas (mensualidad):
+c) Mensualidad Grupal (3 días a la
 
-2 clases por semana (talento deportivo) 4.2411 UMA
+semana) (60 min por día): 5.2987 UMA
 
-h) Zumba (mensualidad): 0.2863 UMA
+V. Aquazumba:
 
-i) Karate (mensualidad):
+a) Inscripción (Anual): 3.3117 UMA
 
-2 clases por semana 4.3471 UMA
+b) Mensualidad (60 minutos por día): 5.2987 UMA
 
-j) Karate (mensualidad):
+VI. Clases de Acondicionamiento físico:
 
-3 clases por semana 5.0893 UMA
+a) Inscripción (Anual): 3.3117 UMA
 
-k) Gimnasia trampolín (mensualidad)
+b) Mensualidad (60 minutos por día): 3.3117 UMA
 
-3 clases por semana 5.7255 UMA
+VII. Visitas gimnasio (Por día): 0.3974 UMA
 
-XX. Gimnasio Romary Rifka:
+VIII. Clases de Frontón:
 
-a) Individual (inscripción): 2.8627 UMA
+a) Inscripción (Anual): 3.3117 UMA
 
-b) Individual (mensualidad): 5.7255 UMA
+b) Mensualidad (60 minutos por día): 7.3159 UMA
 
-c) Estudiantes (inscripción): 2.8627 UMA
+IX. Clases de Triatlón:
 
-d) Estudiantes (mensualidad): 3.6049 UMA
+a) Inscripción (Anual): 3.3117 UMA
 
-e) Adulto mayor (inscripción): 2.8627 UMA
+b) Mensualidad (120 minutos por día): 6.6234 UMA
 
-f) Adulto mayor (mensualidad): 3.6049 UMA
+X. Clases de Raquetbal:
 
-g) Visita o sesión: 0.4241 UMA
+a) Inscripción (Anual): 3.3117 UMA
 
-h) Anualidad individual: 28.6274 UMA
+b) Mensualidad (Lunes a
 
-i) Anualidad estudiantes: 21.8416 UMA
+Viernes) (60 minutos por día): 7.3159 UMA
+
+c) Mensualidad (3 días a la semana)
+
+(60 minutos por día): 6.6234 UMA
+
+d) Membresía (Mensualidad): 6.6234 UMA
+
+e) Visita (60 minutos): 1.3264 UMA
+
+XI. Clases de Squash:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (Lunes a Viernes)
+
+(60 minutos por día): 7.3159 UMA
+
+c) Mensualidad (3 días a la semana)
+
+(60 minutos por día): 6.6234 UMA
+
+d) Membresía (Mensualidad): 6.6234 UMA
+
+e) Visita (60 minutos): 1.3264 UMA
+
+XII. Clases de Tenis de mesa:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (Lunes a Viernes)
+
+(60 minutos por día): 7.3159 UMA
+
+c) Mensualidad (3 días a la semana)
+
+(60 minutos por día): 6.6234 UMA
+
+d) Membresía (Mensualidad): 6.6234 UMA
+
+e) Visita (60 minutos por día): 0.6623 UMA
+
+XIII. Clases de Esgrima:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 6.6234 UMA
+
+XIV. Clases de Taekwondo:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad Taekwondo
+
+(Lunes a Viernes) (60 minutos
+
+por día) 6.6234 UMA
+
+XV. Clases de gimnasia rítmica:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 7.9481 UMA
+
+XVI. Clases de gimnasia trampolín:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 7.9481 UMA
+
+XVII. Clases de Judo:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 3.9740 UMA
+
+XVIII. Clases de luchas asociadas:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 3.9740 UMA
+
+XIX. Clases de Karate:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (3 días a la
+
+semana) (60 min por día): 3.9740 UMA
+
+c) Mensualidad (5 días a la
+
+semana) (60 min por día): 4.6364 UMA
+
+XX. Clases de jiu-jitsu:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 5.2987 UMA
+
+XXI. Clases de Yoga:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 5.2987 UMA
+
+XXII. Clases de Basquetbol:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (3 días a la
+
+semana) (60 min por día): 6.6234 UMA
+
+c) Mensualidad (5 días a la semana)
+
+(60 min por día): 7.9481 UMA
+
+XXIII. Clases de Voleibol:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (3 días a la semana)
+
+(60 min por día): 6.6234 UMA
+
+c) Mensualidad (5 días a la semana)
+
+(60 min por día): 7.9481 UMA
+
+XXIV. Zumba por visita
+
+(60 min por día): 0.2649 UMA
+
+XXV. Baile por visita (60 min por día): 0.2649 UMA
+
+XXVI. Clases de Ballet:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 7.9481 UMA
+
+XXVII. Clases de Jazz:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad (60 minutos por día): 6.6234 UMA
+
+XXVIII. Gimnasio Romary Rifka:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad: 3.9740 UMA
+
+c) Mensualidad Estudiante: 3.3117 UMA
+
+d) Mensualidad Adulto Mayor: 3.3117 UMA
+
+g) (sic) Visita diaria: 0.2649 UMA
+
+h) Box (60 minutos por día) 3.9740 UMA
+
+XXIX. Gimnasio Las Vegas:
+
+a) Inscripción (Anual): 1.3247 UMA
+
+b) Mensualidad: 3.3117 UMA
+
+c) Box (60 minutos por día): 3.3117 UMA
+
+XXX. Velódromo Xalapa:
+
+a) Ciclismo (mensualidad/300
+
+minutos): 5.2987 UMA
+
+b) Gimnasia rítmica (Inscripción/
+
+Anual): 3.3117 UMA
+
+c) Gimnasia rítmica (Mensualidad) 6.6234 UMA
+
+d) Gimnasia Artística (Inscripción/
+
+Anual): 3.3117 UMA
+
+e) Mensualidad Gimnasia Artística
+
+(2 veces por semana/60 minutos
+
+por día): 7.4233 UMA
+
+f) Mensualidad Gimnasia Artística
+
+(4 veces por semana/60 minutos
+
+por día): 9.6623 UMA
+
+g) Patinaje Inscripción (Anual): 3.3117 UMA
+
+h) Mensualidad Patinaje (3 veces
+
+por semana/90 minutos por día): 4.9567 UMA
+
+i) Mensualidad Patinaje estudiante
+
+(3 veces por semana/90 minutos): 3.3117 UMA
+
+j) Hockey sobre ruedas
+
+Inscripción (Anual): 3.3117 UMA
+
+k) Mensualidad Hockey sobre ruedas
+
+(3 veces por semana/ 90 minutos): 4.9567 UMA
+
+l) Mensualidad Hockey sobre ruedas
+
+estudiante (3 veces por semana/
+
+90 minutos): 3.3117 UMA
+
+m) Gimnasio Inscripción (Anual): 3.3117 UMA
+
+n) Gimnasio (Mensualidad): 3.3117 UMA
+
+o) Gimnasio Estudiante
+
+(Mensualidad): 2.6755 UMA
+
+p) Gimnasio Visita (60 minutos
+
+por día): 0.2649 UMA
+
+q) Badminton inscripción (Anual): 3.3117 UMA
+
+r) Mensualidad Badminton (3 veces
+
+por semana/60 minutos por día): 7.9481 UMA
+
+s) Mensualidad Badminton estudiante
+
+(3 veces por semana/60 minutos
+
+por día): 4.9567 UMA
+
+t) Tenis de mesa inscripción (Anual): 3.3117 UMA
+
+u) Mensualidad tenis de mesa
+
+(Lunes a Viernes/ 60 minutos por día): 7.3159 UMA
+
+v) Mensualidad Tenis de mesa
+
+estudiante (Lunes a Viernes/ 60
+
+minutos por día): 4.9567 UMA
+
+w) Luchas asociadas inscripción
+
+(Anual): 3.3117 UMA
+
+x) Mensualidad Luchas asociadas
+
+(Lunes a Viernes/60 minutos por día): 3.9740 UMA
+
+y) Taekwondo Inscripción (Anual): 3.3117 UMA
+
+z) Mensualidad Taekwondo
+
+(Lunes a Viernes/60 minutos por día): 6.6234 UMA
+
+aa) Box Inscripción (Anual): 3.3117 UMA
+
+ab) Mensualidad Box (Lunes a
+
+Viernes/60 minutos por día): 3.9740 UMA
+
+ac) Voleibol inscripción (Anual): 3.3117 UMA
+
+ad) Mensualidad Voleibol
+
+(Lunes a Viernes/ 60 minutos): 7.9481 UMA
+
+ae) Esgrima Inscripción (Anual): 3.3117 UMA
+
+af) Esgrima (Mensual): 6.6234 UMA
+
+ag) Basquetbol Inscripción
+
+(Anual): 3.3117 UMA
+
+ah) Basquetbol (Lunes a Viernes/
+
+Mensual): 7.9481 UMA
+
+ai) Balón Mano Inscripción (Anual): 3.3117 UMA
+
+aj) Mensualidad Balón Mano (5 veces
+
+por semana/ 60 minutos por día): 7.9481 UMA
+
+ak) Mensualidad Balón Mano (3 veces
+
+por semana/ 60 minutos por día): 6.6234 UMA
+
+XXXI. Ajedrez:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad: 5.2987 UMA
+
+XXXII. Badmintón:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad Lunes a
+
+Viernes (60 minutos por día): 7.3159 UMA
+
+c) Mensualidad 3 días a la
+
+semana (60 minutos por día): 6.6234 UMA
+
+d) Membresía (Mensual): 6.6234 UMA
+
+e) Visita (60 minutos): 0.6623 UMA
+
+XXXIII. Tenis:
+
+a) Inscripción (Anual): 3.3117 UMA
+
+b) Mensualidad Lunes a Viernes
+
+(60 minutos por día): 9.6623 UMA
+
+c) Mensualidad 3 días a la semana
+
+(60 minutos por día): 7.3159 UMA
+
+d) Mensualidad 2 días a la semana
+
+(60 minutos por día): 6.6234 UMA
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE2020)</small>
+
+###### Artículo 33 Bis.
+
+Por los servicios prestados por el Instituto Veracruzano de Desarrollo Municipal:
+
+I. Capacitación de reforzamiento presencial,
+
+por integrante: 4.0000 UMA
+
+II. Profesionalización presencial, por
+
+integrante, en reunión anual: 3.0000 UMA
+
+III. Profesionalización presencial, por
+
+integrante, en congreso o encuentro: 3.0000 UMA
+
+IV. Taller presencial, por integrante: 5.0000 UMA
+
+V. Curso presencial, por integrante: 8.0000 UMA
+
+VI. Capacitación de reforzamiento
+
+mediante aula virtual por integrante: 4.0000 UMA
+
+VII. Curso mediante aula virtual por
+
+integrante: 5.0000 UMA
+
+VIII. Diplomado mediante aula virtual,
+
+por integrante: 10.0000 UMA
+
+IX. Asesoría tipo 1, por hora: 10.0000 UMA
+
+X. Asesoría tipo 2, por hora: 20.0000 UMA
+
+XI. Asesoría tipo 3, por hora: 30.0000 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -3543,135 +4265,271 @@ i) Anualidad estudiantes: 21.8416 UMA
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Acayucan:
 
-I. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 11.9175 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripción a licenciatura: 29.8043 UMA
+I. Trámite de expedición de ficha de cumplimiento de requisitos para presentar
 
-III. Trámite de expedición de cédula de reinscripción: 23.8349 UMA
+examen de admisión: 11.2439 UMA
 
-IV. Trámite de reposición de credencial: 1.4844 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-V. Trámite de expedición de duplicado de constancia sin calificaciones: 0.6362 UMA
+II. Trámite de expedición de cédula de inscripción a licenciatura: 26.6304 UMA
 
-VI. Trámite de expedición de duplicado de constancia con calificaciones: 0.6892 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Trámite de expedición de duplicado de boletas: 0.6362 UMA
+III. Trámite de expedición de cédula de reinscripción: 22.4760 UMA
 
-VIII. Trámite de expedición de duplicado de kárdex: 0.8270 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Trámite de reposición de credencial: 1.4203 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+V. Trámite de expedición de duplicado de constancia sin calificaciones: 0.6036 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Trámite de expedición de duplicado de constancia con calificaciones: 0.6628 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Trámite de expedición de duplicado de boletas: 0.6036 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Trámite de expedición de duplicado de kárdex: 0.7930 UMA
 
 IX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes especiales: 2.3856 UMA
 
 X. Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes globales: 2.1948 UMA
 
-XI. Trámite de expedición de cédula para curso de inglés: 10.8148 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Trámite de expedición de constancia de acreditación del idioma inglés: 4.7712 UMA
+XI. Trámite de expedición de cédula para curso de inglés: 10.3207 UMA
 
-XIII. Trámite de expedición de duplicado de certificado de estudios incompletos no legalizado: 5.7149 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Trámite de expedición de certificado de estudios incompletos legalizado: 15.4906 UMA
+XII. Trámite de expedición de constancia de acreditación del idioma inglés: 4.5568 UMA
 
-XV. Paquete de egresado: 20.0392 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Acto protocolario de recepción profesional: 11.9175 UMA
+XIII. Trámite de expedición de duplicado de certificado de estudios incompletos
 
-XVII. Trámite de expedición de título profesional validado y legalizado en el Estado: 27.9806 UMA
+no legalizado: 5.4563 UMA
 
-XVIII. Trámite de registro de título profesional y Trámite de expedición de cédula profesional en la DGP: 40.5236 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Trámite de expedición de certificado de estudios incompletos legalizado: 14.7828 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Paquete de egresado: 19.1147 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Acto protocolario de recepción profesional: 11.3741 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Trámite de expedición de título profesional validado y legalizado en el Estado: 26.6895 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Trámite de registro de título profesional y Trámite de expedición de cédula
+
+profesional en la DGP: 38.6555 UMA
 
 XIX. Trámite de expedición de cédula para curso de titulación: 238.3812 UMA
 
-XX. Trámite de expedición de reposición de credencial de biblioteca: 0.7952 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXI. Trámite de expedición de duplicado constancia de servicio social: 0.6362 UMA
+XX. Trámite de expedición de reposición de credencial de biblioteca: 0.7575 UMA
 
-XXII. Trámite de expedición de duplicado constancia de seguro social: 0.6362 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIII. Trámite de expedición de cédula para curso de verano (por alumno): 13.1156 UMA
+XXI. Trámite de expedición de duplicado constancia de servicio social: 0.6036 UMA
 
-XXIV. Trámite de expedición de cédula para curso de verano (por curso): 143.0308 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+XXII. Trámite de expedición de duplicado constancia de seguro social: 0.6036 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Trámite de expedición de cédula para curso de verano (por alumno): 12.5104 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Trámite de expedición de cédula para curso de verano (por curso): 136.4422 UMA
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Álamo - Temapache:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para el acta de examen profesional: 3.3929 UMA
+I. Trámite de expedición de ficha de cumplimiento
 
-II. Trámite de acto protocolario: 7.9520 UMA
+de requisitos para el acta de
 
-III. Trámite de expedición de carta de buena conducta: 1.0603 UMA
+examen profesional: 12.5405 UMA
 
-IV. Trámite de expedición de carta de pasante: 9.9666 UMA
+II. Trámite de acto protocolario: 7.5867 UMA
 
-V. Trámite de expedición de certificado oficial completo: 12.4052 UMA
+III. Trámite de expedición de carta
 
-VI. Trámite de expedición de certificado oficial incompleto: 12.4052 UMA
+de buena conducta: 1.0060 UMA
 
-VII. Trámite de expedición de constancia con calificaciones: 1.0603 UMA
+IV. Trámite de expedición de carta de
 
-VIII. Trámite de expedición de constancia de estudios: 0.8482 UMA
+pasante: 9.5041 UMA
 
-IX. Trámite de expedición de constancia de inglés: 1.0603 UMA
+V. Trámite de expedición de certificado
 
-X. Trámite de expedición de constancia de no adeudo de materias: 0.8482 UMA
+oficial completo: 11.8357 UMA
 
-XI. Trámite de expedición de constancias de residencias profesionales: 0.8482 UMA
+VI. Trámite de expedición de certificado
 
-XII. Trámite de expedición de constancia de servicio social: 0.8482 UMA
+oficial incompleto: 11.8357 UMA
 
-XIII. Trámite de expedición de copia de documentos oficiales no recientes: 1.2723 UMA
+VII. Trámite de expedición de constancia
 
-XIV. Trámite de expedición de copia de documentos oficiales recientes: 0.8482 UMA
+con calificaciones: 1.0060 UMA
 
-XV. Trámite de expedición de cédula para curso de verano teórico: 11.5570 UMA
+VIII. Trámite de expedición de constancia
 
-XVI. Trámite de expedición de cédula para curso de verano práctico: 13.2534 UMA
+de estudios: 0.8048 UMA
 
-XVII. Trámite de expedición de cédula para curso propedéutico: 8.2701 UMA
+IX. Trámite de expedición de constancia
 
-XVIII. Trámite de expedición de cédula de solicitud para la devolución documentos: 1.5904 UMA
+de inglés: 1.0060 UMA
 
-XIX. Trámite de expedición de duplicado de boleta: 1.2723 UMA
+X. Trámite de expedición de constancia
 
-XX. Trámite de expedición de duplicado de credencial: 1.5904 UMA
+de no adeudo de materias: 0.8048 UMA
 
-XXI. Trámite de expedición de cédula de equivalencia de estudios: 12.4052 UMA
+XI. Trámite de expedición de constancias
 
-XXII. Trámite de expedición de constancia de cumplimiento de requisitos para la presentación del examen de ubicación de inglés: 3.3929 UMA
+de residencias profesionales: 0.8048 UMA
 
-XXIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 9.9666 UMA
+XII. Trámite de expedición de constancia
 
-XXIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario de inglés: 3.3929 UMA
+de servicio social: 0.8048 UMA
 
-XXV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 13.2534 UMA
+XIII. Trámite de expedición de copia de
 
-XXVI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 13.2534 UMA
+documentos oficiales no recientes: 1.2191 UMA
 
-XXVII. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 13.2534 UMA
+XIV. Trámite de expedición de copia de
 
-XXVIII. Trámite de expedición de cédula de inscripción de nuevo ingreso: 33.1865 UMA
+documentos oficiales recientes: 0.8048 UMA
 
-XXIX. Trámite de expedición de cédula de reinscripción oportuna: 26.6128 UMA
+XV. Trámite de expedición de cédula
 
-XXX. Trámite de expedición de cédula de reinscripción extemporánea: 28.2033 UMA
+para curso de verano teórico: 11.0191 UMA
 
-XXXI. Trámite de legalización de certificado profesional (Estado de Veracruz): 12.4052 UMA
+XVI. Trámite de expedición de cédula
 
-XXXII. Trámite de expedición de título: 33.1865 UMA
+para curso de verano práctico: 12.6405 UMA
 
-XXXIII. Trámite de expedición de título y cédula profesional: 49.7268 UMA
+XVII. Trámite de expedición de cédula
 
-XXXIV. Trámite de expedición de cédula para inscripción niveles de inglés I, II, III, IV, V y VI: 13.2534 UMA
+para curso propedéutico: 8.1903 UMA
 
-XXXV. Trámite de expedición de cédula para inscripción niveles de inglés I, II, III, IV, V y VI extemporáneo: 14.9498 UMA
+XVIII. Trámite de expedición de cédula
 
-XXXVI. Trámite de expedición de kárdex: 1.0603 UMA
+de solicitud para la devolución
 
-XXXVII. Trámite de reposición de carga académica: 0.8482 UMA
+documentos: 1.5150 UMA
 
-XXXVIII. Trámite de expedición de cédula de inscripción a curso de titulación: 32.6564 UMA
+XIX. Trámite de expedición de duplicado
+
+de boleta: 1.2191 UMA
+
+XX. Trámite de expedición de duplicado
+
+de credencial: 1.5150 UMA
+
+XXI. Trámite de expedición de cédula de
+
+equivalencia de estudios: 11.5517 UMA
+
+XXII. Trámite de expedición de constancia
+
+de cumplimiento de requisitos para la
+
+presentación del examen de ubicación
+
+de inglés: 3.2312 UMA
+
+XXIII. Trámite de expedición de constancia
+
+de cumplimiento de requisitos para
+
+presentar examen especial: 9.5041 UMA
+
+XXIV. Trámite de expedición de constancia
+
+de cumplimiento de requisitos para presentar
+
+examen extraordinario de inglés: 3.2312 UMA
+
+XXV. Trámite de expedición de constancia de
+
+cumplimiento de requisitos para presentar
+
+examen global: 12.6405 UMA
+
+XXVI. Trámite de expedición de constancia de
+
+cumplimiento de requisitos para
+
+presentar examen profesional: 12.6405 UMA
+
+XXVII. Trámite de expedición de constancia
+
+de cumplimiento de requisitos para
+
+ficha de examen de admisión: 12.6405 UMA
+
+XXVIII. Trámite de expedición de cédula
+
+de inscripción de nuevo ingreso: 31.6605 UMA
+
+XXIX. Trámite de expedición de cédula
+
+de reinscripción oportuna: 25.3876 UMA
+
+XXX. Trámite de expedición de cédula
+
+de reinscripción extemporánea: 26.9026 UMA
+
+XXXI. Trámite de legalización de certificado
+
+profesional (Estado de Veracruz): 11.8357 UMA
+
+XXXII. Trámite de expedición de cédula
+
+para inscripción niveles de inglés I, II, III,
+
+IV, V y VI: 12.6405 UMA
+
+XXXIII. Trámite de expedición de cédula
+
+para inscripción niveles de inglés I, II, III,
+
+IV, V y VI extemporáneo: 14.2620 UMA
+
+XXXIV. Trámite de expedición
+
+de kárdex: 1.0060 UMA
+
+XXXV Trámite de reposición de
+
+carga académica: 0.8048 UMA
+
+XXXVI. Trámite de expedición de cédula
+
+de inscripción a curso de titulación: 32.6564 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -3679,31 +4537,59 @@ XXXVIII. Trámite de expedición de cédula de inscripción a curso de titulaci�
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Alvarado:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 13.8896 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripción escolarizado (incluye credencial de estudiante): 22.5838 UMA
+I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 13.2501 UMA
 
-III. Trámite de expedición de cédula de inscripción semiescolarizado (incluye credencial de estudiante): 31.2781 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Trámite de expedición de cédula de reinscripción escolarizado: 22.5838 UMA
+II. Trámite de expedición de cédula de inscripción escolarizado (incluye credencial de estudiante): 19.3896 UUMA
 
-V. Trámite de expedición de cédula de reinscripción semiescolarizado: 31.2781 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Trámite de expedición de cédula de reinscripción extemporánea escolarizado: 33.9287 UMA
+III. Trámite de expedición de cédula de inscripción semiescolarizado (incluye credencial de estudiante): 26.8542 UMA
 
-VII. Trámite de expedición de cédula de reinscripción extemporánea semiescolarizado: 46.8641 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Trámite de expedición de cédula de baja temporal: 0.9542 UMA
+IV. Trámite de expedición de cédula de reinscripción escolarizado: 19.3896 UMA
 
-IX. Trámite de expedición de cédula de baja definitiva: 3.6049 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-X. Trámite de expedición reposición credencial estudiante: 1.6964 UMA
+V. Trámite de expedición de cédula de reinscripción semiescolarizado: 26.8542 UMA
 
-XI. Trámite expedición de duplicado de documentos: 1.2723 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Trámite de expedición de constancia de estudios con y sin calificaciones: 1.2723 UMA
+VI. Trámite de expedición de cédula de reinscripción extemporánea
 
-XIII. Trámite de expedición de kárdex: 1.2723 UMA
+escolarizado: 29.1299 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Trámite de expedición de cédula de reinscripción extemporánea semiescolarizado: 40.2358 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Trámite de expedición de cédula de baja temporal: 0.9103 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Trámite de expedición de cédula de baja definitiva: 3.4389 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+X. Trámite de expedición reposición credencial estudiante: 1.6183 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Trámite expedición de duplicado de documentos: 1.2138 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Trámite de expedición de constancia de estudios con y sin calificaciones: 1.2138 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Trámite de expedición de kárdex: 1.2138 UMA
 
 XIV. (DEROGADA, G.O. 26 DE DICIEMBRE DE 2017)
 
@@ -3711,41 +4597,117 @@ XV. (DEROGADA, G.O. 26 DE DICIEMBRE DE 2017)
 
 XVI. (DEROGADA, G.O. 26 DE DICIEMBRE DE 2017)
 
-XVII. Trámite de expedición de cédula para curso de verano: 156.6023 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Trámite de expedición de cédula para curso de verano de intercambio: 13.8896 UMA
+XVII. Trámite de expedición de cédula para curso de verano: 149.3922 UMA
 
-XIX. Trámite de expedición de constancia de liberación de inglés: 5.3014 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XX. Trámite de expedición de constancia de liberación residencia: 11.3449 UMA
+XVIII. Trámite de expedición de cédula para curso de verano de intercambio: 13.2501 UMA
 
-XXI. Trámite de expedición de constancia de acreditación idioma inglés: 9.5425 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXII. Trámite de expedición o duplicado de certificado de estudios completo: 15.6920 UMA
+XIX. Trámite de expedición de constancia de liberación de inglés: 5.0573 UMA
 
-XXIII. Trámite de expedición o duplicado de certificado de estudios incompleto: 12.1931 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIV. Trámite de expedición de carta pasante: 6.3616 UMA
+XX. Trámite de expedición de constancia de liberación residencia: 10.8226 UMA
 
-XXV. Paquete de titulación: 86.9424 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXVI. Trámite de expedición de constancia de no adeudo: 0.8482 UMA
+XXI. Trámite de expedición de constancia de acreditación idioma inglés: 9.1032 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Trámite de expedición o duplicado de certificado
+
+de estudios completo: 14.9696 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Trámite de expedición o duplicado de certificado de estudios incompleto: 11.6317 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Trámite de expedición de carta pasante: 6.0686 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Expedición de Diploma: 67.8897 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Trámite de expedición de constancia de no adeudo: 0.8091 UMA
 
 XXVII. Trámite de expedición de cédula de inscripción a biblioteca virtual. (BIVITEC): 2.5447 UMA
 
 XXVIII. (DEROGADA, G.O. 26 DE DICIEMBRE DE 2017)
 
-XXIX. Trámite de expedición de holograma para credencial de estudiante: 0.2121 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXX. Trámite de convalidación de estudio: 8.6942 UMA
+XXIX. Trámite de expedición de holograma
 
-XXXI. Trámite de expedición de constancia de equivalencia de estudio: 8.6942 UMA
+para credencial de estudiante: 0.2024 UMA
 
-XXXII. Trámite de expedición de cédula de reinscripción escolarizado (5% descuento): 21.4175 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIII. Trámite de expedición de cédula de reinscripción semiescolarizado (5% descuento): 29.6876 UMA
+XXX. Trámite de convalidación de estudio: 8.2939 UMA
 
-XXXIV. Constancia de liberación de inglés (50% descuento) 2.6507 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. Trámite de expedición de constancia de equivalencia de estudio: 8.2939 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. Trámite de expedición de cédula de reinscripción escolarizado
+
+(5% descuento): 18.4202 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Trámite de expedición de cédula de reinscripción semiescolarizado
+
+(5% descuento): 25.5115 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV. Constancia de liberación de inglés (50% descuento) 2.5287 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Solicitud de ficha para examen de maestría: 17.7536 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. Inscripción a maestría: 17.7536 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII. Reinscripción a maestría: 17.7536 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVIII. Colegiatura de maestría: 142.0286 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIX. Mensualidad de maestría: 23.6714 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XL. Colegiatura de maestría (50% descuento): 71.0143 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLI. Mensualidad de maestría (50% descuento): 11.8357 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLII. Colegiatura de maestría (20% descuento): 113.6229 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLIII. Mensualidad de maestría (20% descuento): 18.9372 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -3753,11 +4715,19 @@ XXXIV. Constancia de liberación de inglés (50% descuento) 2.6507 UMA
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Chicontepec:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 8.0369 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripción: 19.2758 UMA
+I. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen
 
-III. Trámite de expedición de cédula de reinscripción: 19.2758 UMA
+de admisión: 8.0369 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+II. Trámite de expedición de cédula de inscripción: 11.8357 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+III. Trámite de expedición de cédula de reinscripción: 11.8357 UMA
 
 IV. Trámite de convalidación de estudios: 3.2126 UMA
 
@@ -3817,81 +4787,155 @@ XXX. Trámite de reinscripción con condonación del 100% por acuerdo del comit�
 
 ###### Artículo 38.
 
-Por los servicios prestados por el Instituto Tecnológico Superior de Coatzacoalcos:
+Por el uso temporal de bienes y servicios prestados por el Instituto Tecnológico Superior de Coatzacoalcos:
 
-I. Trámite de expedición de carta de actividades extraescolares: 0.9861 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de certificado de inconveniencia: 0.9861 UMA
+I. Trámite de expedición de carta de actividades extraescolares: 0.9469 UMA
 
-III. Trámite de expedición de carta de pasante: 4.9091 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Trámite de expedición de certificado oficial completo: 8.1853 UMA
+II. Trámite de expedición de certificado de inconveniencia: 0.8285 UMA
 
-V. Trámite de expedición de certificado oficial incompleto: 7.3689 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Trámite de expedición de certificado de estudios: 1.6328 UMA
+III. Trámite de expedición de carta de pasante: 4.1425 UMA
 
-VII. Trámite de expedición de constancia de baja: 1.6328 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Trámite de expedición de constancia de no adeudo: 1.6328 UMA
+IV. Trámite de expedición de certificado oficial completo: 7.1014 UMA
 
-IX. Trámite de expedición de constancia de terminación de estudios: 4.0927 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-X. Trámite de expedición de constancia de trámite de título: 4.9091 UMA
+V. Trámite de expedición de certificado oficial incompleto: 5.9179 UMA
 
-XI. Trámite de expedición de diploma de especialidad: 4.9091 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Trámite de expedición de duplicado de carta de buena conducta: 0.9861 UMA
+VI. Trámite de expedición de certificado de estudios: 2.3671 UMA
 
-XIII. Trámite de expedición de duplicado de boleta de calificaciones: 0.9861 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Trámite de expedición de duplicado de constancia de estudios con calificaciones: 0.9861 UMA
+VII. Trámite de expedición de constancia de baja: 1.7754 UMA
 
-XV. Trámite de expedición de duplicado de constancia de estudios sin calificaciones: 0.9861 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Trámite de expedición de duplicado de constancia de inglés: 0.9861 UMA
+VIII. Trámite de expedición de constancia de no adeudo: 0.8285 UMA
 
-XVII. Trámite de expedición de duplicado de constancia de liberación de residencias profesionales: 4.0927 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Trámite de expedición de duplicado de constancia de servicio social: 4.0927 UMA
+IX. Trámite de expedición de constancia de terminación de estudios: 3.5507 UMA
 
-XIX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 14.7378 UMA
+X. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de inglés: 8.1853 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 4.0927 UMA
+XI. Trámite de expedición de diploma de especialidad: 4.1425 UMA
 
-XXII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 2.4598 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 3.2762 UMA
+XII. Trámite de expedición de duplicado de carta de buena conducta: 1.7754 UMA
 
-XXIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 16.3706 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXV. Trámite de expedición de historial académico: 2.4598 UMA
+XIII. Trámite de expedición de duplicado de boleta de calificaciones: 1.7754 UMA
 
-XXVI. Trámite de expedición de cédula de inscripción nuevo ingreso: 29.4650 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXVII. Trámite de legalización de certificado: 9.8181 UMA
+XIV. Trámite de expedición de duplicado de constancia de estudios con
 
-XXVIII. Paquete de egresado: 29.4650 UMA
+calificaciones: 1.7754 UMA
 
-XXIX. Paquete de traslado: 9.8181 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXX. Paquete de baja temporal o definitiva: 4.0927 UMA
+XV. Trámite de expedición de duplicado de constancia de estudios sin calificaciones: 1.7754 UMA
 
-XXXI. Paquete de titulación: 42.5700 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXII. Trámite de expedición de cédula de reinscripción: 27.8322 UMA
+XVI. Trámite de expedición de duplicado de constancia de inglés: 1.7754 UMA
 
-XXXIII. Trámite de reposición de credencial de estudiante: 1.6328 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIV. Trámite de expedición de cédula para curso de inglés: 24.5559 UMA
+XVII. Trámite de expedición de duplicado de constancia de liberación de residencias profesionales: 3.5507 UMA
 
-XXXV. Trámite de reposición de recibo oficial: 0.9861 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXVI. Trámite de reposición de credencial de biblioteca: 0.9861 UMA
+XVIII. Trámite de expedición de duplicado de constancia de servicio social: 3.5507 UMA
 
-XXXVII. Uso de material bibliotecario, por día adicional al vencimiento del préstamo: 0.3287 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 10.0604 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de inglés: 3.5507 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 2.9589 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 1.7754 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 2.3671 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 14.2029 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Trámite de expedición de historial académico: 2.9589 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Trámite de expedición de cédula de inscripción nuevo ingreso: 22.4879 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. Trámite de legalización de certificado: 11.8357 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII. Paquete de egresado: 23.6714 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. Paquete de traslado: 8.8768 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXX. Paquete de baja temporal o definitiva: 3.5507 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. Trámite de expedición de diploma: 29.5893 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. Trámite de expedición de cédula de reinscripción: 21.3043 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Trámite de reposición de credencial de estudiante: 0.7101 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV. Trámite de expedición de cédula para curso de inglés: 10.6521 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Trámite de reposición de recibo oficial: 0.7101 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. Trámite de reposición de credencial de biblioteca: 1.7754 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII. Uso de material bibliotecario, por día adicional al vencimiento del préstamo:0.4734 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -3973,15 +5017,25 @@ III. Trámite de expedición de antología propedéutica: 1.6646 UMA
 
 IV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen (aplicado por CENEVAL): 2.8627 UMA
 
-V. Trámite de expedición de cédula inscripción a distancia: 20.2512 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Trámite de expedición de cédula de inscripción escolarizado: 17.4945 UMA
+V. Trámite de expedición de cédula inscripción a distancia: 19.3212 UMA
 
-VII. Trámite de expedición de cédula reinscripción escolarizado: 12.7233 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Trámite de expedición de cédula de reinscripción (beca mérito académico): 7.3159 UMA
+VI. Trámite de expedición de cédula de inscripción escolarizado: 16.6901 UMA
 
-IX. Trámite de expedición de cédula de reinscripción extemporánea: 15.9041 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Trámite de expedición de cédula reinscripción escolarizado: 12.1415 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Trámite de expedición de cédula de reinscripción (beca mérito académico): 6.9811 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Trámite de expedición de cédula de reinscripción extemporánea: 15.1711 UMA
 
 X. Trámite de expedición de constancia de estudios: 0.8482 UMA
 
@@ -3989,7 +5043,9 @@ XI. Trámite de expedición de constancia de estudios con calificaciones: 0.8482
 
 XII. Trámite de expedición de cédula constancia del 80% avance residencias profesionales: 0.8482 UMA
 
-XIII. Trámite de expedición de kárdex: 61.9517 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Trámite de expedición de kárdex: 0.8482 UMA
 
 XIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes globales y especiales: 2.4916 UMA
 
@@ -4021,13 +5077,13 @@ XXVII. Acto protocolario: 9.9772 UMA
 
 XXVIII. Trámite de expedición de acta de exención de examen profesional: 2.1205 UMA
 
-XXIX. Trámite de elaboración de título profesional: 12.2355 UMA
+XXIX. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XXX. Trámite de validación de título profesional: 12.2355 UMA
+XXX. DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XXXI. Trámite de legalización de título profesional: 9.9772 UMA
+XXXI. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XXXII. Trámite de registro de título y cédula profesional: 29.6876 UMA
+XXXII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
 XXXIII. Trámite de expedición de cédula baja definitiva: 0.8482 UMA
 
@@ -4045,11 +5101,17 @@ XXXIX. Trámite de expedición de duplicado de boleta: 0.8482 UMA
 
 XL. Trámite de expedición de reposición de credencial: 1.4844 UMA
 
-XLI. Trámite de expedición de cédula de reinscripción a distancia: 16.9644 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XLII. Trámite de expedición de cédula de reinscripción extemporánea a distancia: 22.2657 UMA
+XLI. Trámite de expedición de cédula de reinscripción a distancia: 16.1811 UMA
 
-XLIII. Trámite de expedición de cédula de reinscripción por traslado: 7.2523 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLII. Trámite de expedición de cédula de reinscripción extemporánea a distancia: 21.2412 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLIII. Trámite de expedición de cédula de reinscripción por traslado: 6.9213 UMA
 
 XLIV. Trámite de expedición de cancelación y cambio de residencia profesional y servicio social: 2.4916 UMA
 
@@ -4073,17 +5135,51 @@ LIII. Trámite de expedición de cédula de reinscripción sistema a distancia (
 
 LIV. Trámite de expedición de cédula de reinscripción sistema a distancia (beca institucional del 75%): 4.2411 UMA
 
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LV. Trámite de expedición de diploma: 9.8473 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LVI. Inscripción semestral Programa de Maestría en Ingeniería: 30.4000 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LVII. Mensualidad por estudios de posgrado: 22.8000 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LVIII. Semestre anticipado: 136.8002 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LIX. Crédito adicional: 5.4720 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LX. Examen de admisión: 6.5096 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXI. Cursos propedéuticos: 30.4000 UMA
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Juan Rodríguez Clara:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 12.0871 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripción: 16.4130 UMA
+I. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 12.0871 UMA
 
-III. Trámite de expedición de cédula de reinscripción: 12.9565 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+II. Trámite de expedición de cédula de inscripción: 14.7946 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+III. Trámite de expedición de cédula de reinscripción: 11.2439 UMA
 
 IV. Trámite de reposición de credencial: 2.0781 UMA
 
@@ -4113,7 +5209,9 @@ XIV. Acto protocolario de titulación: 22.4566 UMA
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Las Choapas:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 4.9091 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+I. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 4.9091 UMA
 
 II. Trámite de expedición de cédula de inscripción: 19.8059 UMA
 
@@ -4169,81 +5267,161 @@ XXV. Trámite de expedición de historial académico: 0.8164 UMA
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Martínez de la Torre:
 
-I. Trámite de expedición de carta de buena conducta: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de certificado oficial (completo o incompleto): 14.6318 UMA
+I. Trámite de expedición de carta de buena conducta: 0.9705 UMA
 
-III. Trámite de expedición de constancia con calificaciones: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Trámite de expedición de constancia de estudios: 0.8482 UMA
+II. Trámite de expedición de certificado oficial (completo o incompleto): 16.8304 UMA
 
-V. Trámite de expedición de constancia de no adeudo de material: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Trámite de expedición de cédula de solicitud para la devolución de documentos: 0.8482 UMA
+III. Trámite de expedición de constancia con calificaciones: 0.9705 UMA
 
-VII. Trámite de expedición de duplicado de credencial: 1.6964 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 6.8918 UMA
+IV. Trámite de expedición de constancia de estudios: 0.9705 UMA
 
-IX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 1.6964 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-X. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 6.8918 UMA
+V. Trámite de expedición de constancia de no adeudo de material: 0.9705 UMA
 
-XI. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 15.6920 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Trámite de expedición de cédula de inscripción y reinscripción (oportuna): 20.7813 UMA
+VI. Trámite de expedición de cédula de solicitud
 
-XIII. Trámite de expedición de cédula de inscripción y reinscripción (extemporáneo): 25.8707 UMA
+para la devolución de documentos: 0.9705 UMA
 
-XIV. Trámite de expedición de duplicado de boleta: 1.0603 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XV. Trámite de expedición de constancia de traslado: 5.1953 UMA
+VII. Trámite de expedición de duplicado de credencial: 1.9529 UMA
 
-XVI. Trámite por traslado: 5.1953 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. Trámite de expedición de duplicado de carga académica: 0.8482 UMA
+VIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 7.9299 UMA
 
-XVIII. Trámite de convalidación de estudios: 8.5882 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XIX. Trámite de expedición de constancia de equivalencia de estudios: 8.5882 UMA
+IX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 1.9529 UMA
 
-XX. Trámite de expedición de cédula para curso de verano: 12.0871 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXI. Trámite de expedición de cédula para curso de preparación para el ingreso al nivel superior: 13.7835 UMA
+X. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 7.9299 UMA
 
-XXII. Trámite de expedición de cédula para curso de lengua adicional al español (1 módulo): 13.7835 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de ubicación (lengua adicional al español): 1.6964 UMA
+XI. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 18.0495 UMA
 
-XXIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de acreditación de la lengua adicional al español: 6.8918 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXV. Trámite de expedición de kárdex: 0.8482 UMA
+XII. Trámite de expedición de cédula de inscripción y reinscripción (oportuna): 23.8963 UMA
 
-XXVI. Trámite de expedición de carta de pasante: 2.5447 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXVII. Trámite de expedición de constancia de exención de examen profesional: 3.8170 UMA
+XIII. Trámite de expedición de cédula de inscripción y reinscripción
 
-XXVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 13.1474 UMA
+(extemporáneo): 29.7550 UMA
 
-XXIX. Trámite de expedición de duplicado de acta de examen profesional: 2.5447 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXX. Acto protocolario: 7.2099 UMA
+XIV. Trámite de expedición de duplicado de boleta: 1.2191 UMA
 
-XXXI. Trámite de expedición de título: 25.8707 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXII. Trámite de expedición de cédula profesional: 34.5649 UMA
+XV. Trámite de expedición de constancia de traslado: 5.9770 UMA
 
-XXXIII. Trámite de expedición de título y cédula profesional: 50.0449 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIV. Trámite de expedición de cédula profesional provisional: 12.0871 UMA
+XVI. Trámite por traslado: 5.9770 UMA
 
-XXXV. Trámite de legalización de título: 11.0268 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXVI. Trámite de expedición de cédula de curso de titulación: 46.5884 UMA
+XVII. Trámite de expedición de duplicado de carga académica: 0.9705 UMA
 
-XXXVII. Trámite de expedición de cédula de examen de liberación del idioma inglés: 10.3907 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXVIII. Trámite de expedición de cédula de participación a congresos de ingenierías: 12.4264 UMA
+XVIII. Trámite de convalidación de estudios: 9.8710 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Trámite de expedición de constancia de equivalencia de estudios: 9.8710 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Trámite de expedición de cédula para curso de verano: 13.8951 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Trámite de expedición de cédula para curso de preparación para el ingreso al nivel superior: 15.8480 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Trámite de expedición de cédula para curso de lengua adicional al español (1 módulo): 15.8480 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de ubicación (lengua adicional al español): 1.9529 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de acreditación de la lengua adicional al español: 1.9529 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Trámite de expedición de kárdex: 0.9705 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Trámite de expedición de carta de pasante: 2.9234 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. Trámite de expedición de constancia de exención de examen profesional: 4.3911 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 15.1142 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. Trámite de expedición de duplicado de acta de examen profesional: 2.9234 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXX. Acto protocolario: 8.2968 UMA
+
+XXXI.(DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+XXXII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+XXXIII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+XXXIV.(DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Trámite de legalización de título: 12.6761 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. Trámite de expedición de cédula de curso de titulación: 53.5803 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII. Trámite de expedición de cédula de examen de liberación del idioma inglés: 11.9541 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVIII. Trámite de expedición de cédula de participación a congresos de ingenierías: 14.2857 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIX. Gastos de graduación: 7.2316 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XL. Impartición del diplomado: 39.4958 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -4299,9 +5477,13 @@ XXI. Trámite de expedición de constancia de cumplimiento de requisitos para fi
 
 XXII. Ceremonia de graduación: 6.6479 UMA
 
-XXIII. Trámite de expedición de cédula de inscripción primer semestre: 34.9148 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIV. Trámite de expedición de cédula de reinscripción tercer semestre en adelante: 33.2502 UMA
+XXIII. Trámite de expedición de cédula de inscripción primer semestre: 26.0386 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Trámite de expedición de cédula de reinscripción tercer semestre en adelante: 26.0386 UMA
 
 XXV. Trámite de expedición de cédula de inscripción y reinscripción (extemporáneo): 41.5627 UMA
 
@@ -4329,9 +5511,13 @@ XXXIV. Trámite de expedición de constancia de cumplimiento de requisitos para 
 
 XXXV. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión modalidad abierta extemporánea: 22.4778 UMA
 
-XXXVI. Trámite de expedición de cédula de inscripción primer semestre modalidad abierta: 42.4003 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXVII. Trámite de expedición de cédula de reinscripción tercer semestre en adelante modalidad abierta: 40.7357 UMA
+XXXVI. Trámite de expedición de cédula de inscripción primer semestre modalidad abierta: 29.5893 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII. Trámite de expedición de cédula de reinscripción tercer semestre en adelante modalidad abierta: 29.5893 UMA
 
 XXXVIII. Trámite de expedición de cédula de inscripción y reinscripción extemporánea modalidad abierta: 49.8752 UMA
 
@@ -4367,17 +5553,27 @@ LI. Trámite de examen profesional de Maestría: 16.6251 UMA
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Naranjos:
 
-I. Trámite de expedición de cédula de reinscripción sabatino (trimestral): 15.5436 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de reinscripción: 24.1848 UMA
+I. Trámite de expedición de cédula de reinscripción sabatino (trimestral): 14.8301 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+II. Trámite de expedición de cédula de reinscripción: 23.0678 UMA
 
 III. Trámite de expedición de constancias de estudios: 0.6044 UMA
 
-IV. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 10.3695 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-V. Trámite de expedición de constancia de cumplimiento de requisitos para examen CENEVAL: 10.3907 UMA
+IV. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 9.8946 UMA
 
-VI. Trámite de expedición de cédula para curso de inglés: 12.0871 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+V. Trámite de expedición de constancia de cumplimiento de requisitos para examen CENEVAL: 9.9064 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Trámite de expedición de cédula para curso de inglés: 11.8357 UMA
 
 VII. Trámite de refrendo extemporáneo de credencial: 0.8588 UMA
 
@@ -4423,19 +5619,27 @@ XXVII. Acto protocolario: 6.9130 UMA
 
 XXVIII. Trámite de expedición de constancia de cumplimiento de requisitos para la exención de examen profesional: 3.4565 UMA
 
-XXIX. Trámite de expedición de título y cédula: 27.6413 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. Trámite de expedición de diploma: 27.6413 UMA
 
 XXX. Trámite de legalización de documentos: 5.1847 UMA
 
-XXXI. Trámite de expedición de cédula de inscripción y reinscripción, altas y bajas: 27.6413 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. Trámite de expedición de cédula de inscripción y reinscripción, altas y bajas: 26.3699 UMA
 
 XXXII. Servicio de internet inalámbrico (semestral): 0.0848 UMA
 
-XXXIII. Trámite de expedición de cédula de inscripción y reinscripción sabatino, altas y bajas: 19.0001 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Trámite de expedición de cédula de inscripción y reinscripción sabatino, altas y bajas: 16.7617 UMA
 
 XXXIV. Trámite de expedición de certificado completo: 5.1847 UMA
 
-XXXV. Trámite de expedición de solicitud de designación de sinodales para examen profesional: 14.9923 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Trámite de expedición de solicitud de designación de sinodales para examen profesional: 14.2975 UMA
 
 XXXVI. Trámite de liberación por retraso en entrega de libros en la biblioteca escolar: 0.1378 UMA
 
@@ -4445,11 +5649,17 @@ XXXVI. Trámite de liberación por retraso en entrega de libros en la biblioteca
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Pánuco:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 14.6828 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripción: 25.9109 UMA
+I. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 14.6828 UMA
 
-III. Trámite de expedición de cédula de reinscripción: 21.5924 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+II. Trámite de expedición de cédula de inscripción: 24.7179 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+III. Trámite de expedición de cédula de reinscripción: 20.5983 UMA
 
 IV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 2.5911 UMA
 
@@ -4503,13 +5713,19 @@ XXVI. Trámite de expedición de cédula de inscripción con beca institucional 
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Perote:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 16.5830 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripción: 17.2739 UMA
+I. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 16.5830 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+II. Trámite de expedición de cédula de inscripción: 16.4786 UMA
 
 III. Trámite de expedición de cédula de inscripción extemporánea: 20.7287 UMA
 
-IV. Trámite de expedición de cédula de reinscripción: 17.2739 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Trámite de expedición de cédula de reinscripción: 16.4786 UMA
 
 V. Trámite de expedición de cédula de reinscripción extemporánea: 20.7287 UMA
 
@@ -4539,13 +5755,27 @@ XVII. Trámite de expedición de la carta de pasante: 4.3153 UMA
 
 XVIII. Trámite de expedición de acta de recepción profesional: 10.3643 UMA
 
-XIX. Trámite de expedición de cédula y título profesional: 43.1849 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Trámite de expedición de Diploma 43.1849 UMA
 
 XX. Trámite de reposición de documentos oficiales: 0.4318 UMA
 
 XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de acreditación del idioma inglés: 6.0459 UMA
 
 XXII. Trámite de expedición de cédula para el módulo de inglés: 5.1822 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Curso propedéutico de Maestría Planificación de Empresas y Desarrollo Regional: 17.7536 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Mensualidad de Maestría Planificación de Empresas y Desarrollo Regional: 25.5651 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Inscripción por semestre de Maestría Planificación de Empresas y Desarrollo Regional: 17.7536 UMAP
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -4573,13 +5803,17 @@ IX. Trámite de expedición del duplicado de credencial: 0.8906 UMA
 
 X. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 13.4231 UMA
 
-XI. Trámite de expedición de cédula profesional: 36.0175 UMA
+XI. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XII. Trámite de expedición de título: 28.6486 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Trámite de expedición de diploma: 41.4260 UMA
 
 XIII. Trámite de expedición de título y cédula profesional: 54.0315 UMA
 
-XIV. Trámite de expedición de cédula de inscripción: 52.3881 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Trámite de expedición de cédula de inscripción: 49.975 UMA
 
 XV. Trámite de legalización de certificado: 11.4509 UMA
 
@@ -4587,7 +5821,9 @@ XVI. Trámite de legalización de título: 11.3767 UMA
 
 XVII. Trámite de registro de matrícula mensual en maestría: 32.0096 UMA
 
-XVIII. Trámite de expedición de cédula de reinscripción: 49.1224 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Trámite de expedición de cédula de reinscripción: 41.5200 UMA
 
 XIX. Trámite de expedición de cédula de baja definitiva: 1.3890 UMA
 
@@ -4611,9 +5847,13 @@ XXVIII. Trámite de reposición de credencial de biblioteca: 0.9648 UMA
 
 XXIX. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión para extensiones de Coyutla, Tihuatlán y Zozocolco de Hidalgo: 10.2422 UMA
 
-XXX. Trámite de expedición de constancia de inscripción para extensiones Coyutla y Zozocolco de Hidalgo: 25.2133 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXI. Trámite de expedición de constancia de reinscripción para extensiones de Coyutla y Zozocolco de Hidalgo: 23.6335 UMA
+XXX. Trámite de expedición de constancia de inscripción para extensiones Coyutla y Zozocolco de Hidalgo: 24.0510 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. Trámite de expedición de constancia de reinscripción para extensiones de Coyutla y Zozocolco de Hidalgo: 19.9800 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -4621,229 +5861,495 @@ XXXI. Trámite de expedición de constancia de reinscripción para extensiones d
 
 Por los servicios prestados por el Instituto Tecnológico Superior de San Andrés Tuxtla:
 
-I. Trámite de expedición de cédula de baja definitiva: 3.4989 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de baja temporal: 3.4989 UMA
+I. Trámite de expedición de cédula de baja definitiva: 3.5507 UMA
 
-III. Trámite de expedición de carta de buena conducta: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Trámite de expedición de constancia de no inconveniencia: 0.8482 UMA
+II. Trámite de expedición de cédula de baja temporal: 3.5507 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+III. Trámite de expedición de carta de buena conducta: 0.7693 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Trámite de expedición de constancia de no inconveniencia: 0.7693 UMA
 
 V. Trámite de expedición de carta de pasante: 2.5447 UMA
 
-VI. Trámite de certificación de estudios: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Trámite de expedición del certificado oficial completo: 12.0871 UMA
+VI. Trámite de certificación de estudios: 0.7693 UMA
 
-VIII. Trámite de expedición de certificado oficial incompleto: 8.5882 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Trámite de expedición de constancia de terminación de estudios: 1.6964 UMA
+VII. Trámite de expedición del certificado oficial completo: 11.5280 UMA
 
-X. Trámite de expedición de constancia de trámite de título: 1.6964 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Trámite de expedición de cédula para ingresar al curso de AUTOCAD: 8.5882 UMA
+VIII. Trámite de expedición de certificado oficial incompleto: 8.1903 UMA
 
-XII. Trámite de expedición de cédula para ingresar al curso de inglés: 4.3471 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Trámite de expedición de cédula para ingresar al curso de titulación: 77.7180 UMA
+IX. Trámite de expedición de constancia de terminación de estudios: 1.1836 UMA
 
-XIV. Trámite de expedición de cédula para diplomado de habilidades gerenciales: 34.5649 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XV. Trámite de expedición del duplicado de boleta de calificaciones: 0.8482 UMA
+X. Trámite de expedición de diploma: 51.7848 UMA
 
-XVI. Trámite de expedición del duplicado de boleta de extraescolares: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. Trámite de expedición del duplicado de la constancia de actividades extraescolares: 1.6964 UMA
+XI. Trámite de expedición de cédula para ingresar al curso de AUTOCAD: 8.2850 UMA
 
-XVIII. Trámite de expedición del duplicado de la constancia de estudios con calificaciones: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XIX. Trámite de expedición del duplicado de la constancia de estudios sin calificaciones: 0.8482 UMA
+XII. Trámite de expedición de cédula para ingresar al curso de inglés: 4.1425 UMA
 
-XX. Trámite de expedición del duplicado de la constancia de inglés: 1.3784 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXI. Trámite de expedición del duplicado de la constancia de liberación de residencia profesional: 1.6964 UMA
+XIII. Trámite de expedición de cédula para ingresar al curso de titulación: 76.9322 UMA
 
-XXII. Trámite de expedición del duplicado de la constancia de liberación de servicio social: 1.6964 UMA
+XIV.(DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XXIII. Trámite de expedición del duplicado de arancel (recibo oficial): 0.5301 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIV. Trámite de expedición del duplicado del carnet de biblioteca: 1.3784 UMA
+XV. Trámite de expedición del duplicado de boleta de calificaciones: 0.7693 UMA
 
-XXV. Trámite de expedición del duplicado de la constancia de no adeudos: 1.6964 UMA
+XVI. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XXVI. Trámite de expedición del duplicado de la credencial de estudiante: 1.3784 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXVII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 19.8271 UMA
+XVII. Trámite de expedición del duplicado de la constancia de actividades extraescolares: 1.1836 UMA
 
-XXVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 4.3471 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 4.3471 UMA
+XVIII. Trámite de expedición del duplicado de la constancia de estudios con calificaciones: 0.7693 UMA
 
-XXX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de inglés: 4.3471 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 25.8707 UMA
+XIX. Trámite de expedición del duplicado de la constancia de estudios sin calificaciones: 0.7693 UMA
 
-XXXII. Trámite de expedición de cédula de inscripción de nuevo ingreso: 19.8271 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIII. Paquete de egresado: 25.8707 UMA
+XX. Trámite de expedición del duplicado de la constancia de inglés: 1.1836 UMA
 
-XXXIV. Paquete de titulación: 51.8473 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXV. Paquete de traslado: 8.5882 UMA
+XXI. Trámite de expedición del duplicado de la constancia de liberación de residencia profesional: 1.1836 UMA
 
-XXXVI. Trámite de expedición de cédula de reinscripción: 19.8271 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXVII. Servicio de grabación de disco compacto: 0.3181 UMA
+XXII. Trámite de expedición del duplicado de la constancia de liberación de servicio social: 1.1836 UMA
 
-XXXVIII. Servicio de renta de PC por cada 5 horas (para fines distintos del servicio educativo): 0.2121 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIX. Uso de material bibliotecario, por día adicional al vencimiento del préstamo: 0.1060 UMA
+XXIII. Trámite de expedición del duplicado de arancel (recibo oficial): 0.4734 UMA
 
-XL. Servicio de impresión en blanco y negro: 0.1060 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XLI. Servicio de impresión en color: 0.1060 UMA
+XXIV. Trámite de expedición del duplicado del carnet de biblioteca: 1.1836 UMA
 
-XLII. Servicio de escaneo de texto o imagen: 0.1060 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XLIII. Servicio de internet: 0.1060 UMA
+XXV. Trámite de expedición del duplicado de la constancia de no adeudos: 1.7753 UMA
 
-XLIV. Trámite de expedición de certificado estándar de competencias: 14.5257 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XLV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de certificación TOEFL: 14.5257 UMA
+XXVI. Trámite de expedición del duplicado de la credencial de estudiante: 1.1836 UMA
 
-XLVI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de certificación EXAVER: 10.9208 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XLVII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de evaluación estándar de competencias: 14.5257 UMA
+XXVII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 18.9135 UMA
 
-XLVIII. Trámite de expedición de cédula de inscripción semestral a maestría: 36.3674 UMA
+XXVIII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XLIX. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de verano (4 créditos): 11.6630 UMA
+XXIX. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-L. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de verano (5 créditos): 12.4052 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-LI. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de verano (6 créditos): 13.1474 UMA
+XXX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de inglés: 4.1425 UMA
 
-LII. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de verano de inglés: 11.6630 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-LIII. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso propedéutico para maestría: 36.3674 UMA
+XXXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 24.6775 UMA
 
-LIV. Trámite de expedición de cédula de colegiatura mensual para maestría: 29.0515 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-LV. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de capacitación en sistema NOI: 101.6802 UMA
+XXXII. Trámite de expedición de cédula de inscripción a licenciatura sistema escolarizado: 18.9135 UMA
 
-LVI. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de capacitación alineación estándar de competencias: 14.5257 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+XXXIII. Paquete de egresado: 24.6775 UMA
+
+XXXIV. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Paquete de traslado: 8.5809 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. Trámite de expedición de cédula de reinscripción a licenciatura sistema escolarizado: 18.9135 UMA
+
+XXXVII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+XXXVIII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIX. Uso de material bibliotecario, por día adicional al vencimiento del préstamo: 0.1065 UMA
+
+XL. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+XLI. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+XLII.(DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+XLIII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLIV. Trámite de expedición de certificado estándar de competencias: 17.7536 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de certificación TOEFL: 17.7536 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLVI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de certificación EXAVER: 11.8357 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLVII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de evaluación estándar de competencias: 17.7536 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLVIII. Trámite de expedición de cédula de inscripción a maestría: 34.6905 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLIX. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de verano (4 créditos): 11.1256 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+L. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de verano (5 créditos): 11.8357 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LI. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de verano (6 créditos): 12.5459 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LII. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de verano de inglés: 11.1256 UMA
+
+LIII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LIV. Trámite de expedición de cédula de colegiatura mensual para maestría: 18.9371 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LV. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de capacitación en sistema NOI: 94.6858 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LVI. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de capacitación alineación estándar de competencias: 17.7536 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LVII. Trámite de expedición del duplicado de la constancia de título de trámite: 1.1836 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión a maestría: 21.3043 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LIX. Trámite de expedición de cédula de inscripción de nuevo ingreso a licenciatura sistema semiescolarizado: 21.8691 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LX. Trámite de expedición de cédula de reinscripción sistema escolarizado a licenciatura con descuento del 75% por acuerdo del comité de becas: 4.7284 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXI. Trámite de expedición de cédula de reinscripción sistema escolarizado a licenciatura con descuento del 50% por acuerdo del comité de becas: 9.4568 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXII. Trámite de expedición de cédula de reinscripción sistema escolarizado a licenciatura con descuento del 25% por acuerdo del comité de becas: 14.1851 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXIII. Trámite de expedición de cédula de reinscripción a licenciatura sistema semi-escolarizado: 21.8961 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXIV. Trámite de expedición de cédula de reinscripción a licenciatura sistema semi-escolarizado con descuento del 75% por acuerdo del comité: 5.4740 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXV. Trámite de expedición de cédula de reinscripción a licenciatura sistema semi-escolarizado con descuento del 50% por acuerdo del comité: 10.9481 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXVI. Trámite de expedición de cédula de reinscripción a licenciatura sistema semi-escolarizado con descuento del 25% por acuerdo del comité: 16.4221 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXVII. Trámite de expedición de cédula de reinscripción a maestría:23.6714 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXVIII. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de PLC nivel básico: 11.8357 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXIX. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de PLC nivel intermedio: 11.8357 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+LXX. Trámite de expedición de constancia de cumplimiento de requisitos para ingresar al curso de PLC nivel avanzado: 11.8357 UMA
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 50.
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Tantoyuca:
 
-I. Trámite de reposición de credencial: 0.8637 UMA
+I. Trámite de reposición de credencial: 0.8239 UMA
 
-II. Trámite de expedición de carta de pasante y certificado de estudios: 12.0917 UMA
+II. Trámite de expedición de carta de pasante y
 
-III. Trámite de expedición de certificado incompleto: 8.6370 UMA
+certificado de estudios: 11.5350 UMA
 
-IV. Trámite de expedición de duplicado de certificado de estudios: 8.6370 UMA
+III. Trámite de expedición de certificado
 
-V. Trámite de expedición de duplicado de acta de examen profesional: 1.2092 UMA
+incompleto: 8.2393 UMA
 
-VI. Trámite de expedición de constancia de estudios sin calificaciones: 0.8637 UMA
+IV. Trámite de expedición de duplicado
 
-VII. Trámite de expedición de constancia de estudios con calificaciones: 1.2092 UMA
+de certificado de estudios: 8.2393 UMA
 
-VIII. Trámite de reposición de constancia de servicio social: 1.0364 UMA
+V. Trámite de expedición de duplicado de
 
-IX. Trámite de reposición de boleta con calificaciones: 1.0364 UMA
+acta de examen profesional: 1.1535 UMA
 
-X. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen diagnóstico: 13.8191 UMA
+VI. Trámite de expedición de constancia
 
-XI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen CENEVAL de ingreso: 3.4548 UMA
+de estudios sin calificaciones: 0.8239 UMA
 
-XII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen CENEVAL de ingreso a posgrado: 9.5007 UMA
+VII. Trámite de expedición de constancia
 
-XIII. Trámite de expedición de título y trámite de cédula profesional: 29.3657 UMA
+de estudios con calificaciones: 1.1535 UMA
 
-XIV. Trámite de legalización de documentos oficiales: 12.0917 UMA
+VIII. Trámite de reposición de constancia de
 
-XV. Trámite de expedición de cédula para curso de inglés técnico: 25.0472 UMA
+servicio social: 0.9887 UMA
 
-XVI. Trámite de expedición de cédula para curso de inglés principiante I y II: 9.5007 UMA
+IX. Trámite de reposición de boleta con
 
-XVII. Trámite de expedición de cédula para curso de inglés intermedio I y II: 9.5007 UMA
+calificaciones: 0.9887 UMA
 
-XVIII. Trámite de expedición de cédula para curso de inglés avanzado I y II: 9.5007 UMA
+X. Trámite de expedición de constancia
 
-XIX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global de ubicación de inglés: 4.3185 UMA
+de cumplimiento de requisitos para presentar
 
-XX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global de inglés técnico: 17.2739 UMA
+examen diagnóstico: 13.1829 UMA
 
-XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen recepcional: 17.2739 UMA
+XI. Trámite de expedición de constancia de
 
-XXII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 5.1822 UMA
+cumplimiento de requisitos para presentar
 
-XXIII. Trámite de expedición de cédula de inscripción nuevo ingreso: 34.5478 UMA
+examen CENEVAL de ingreso: 3.2957 UMA
 
-XXIV. Trámite de expedición de cédula de reinscripción licenciatura generación 2011 y 2012: 34.5478 UMA
+XII. Trámite de expedición de constancia
 
-XXV. Trámite de expedición de cédula de reinscripción licenciatura generación 2008 a 2010: 33.6841 UMA
+de cumplimiento de requisitos para presentar
 
-XXVI. Trámite de expedición de cédula de reinscripción licenciatura generación 2008 a 2010: 34.5478 UMA
+examen CENEVAL de ingreso
 
-XXVII. Trámite de expedición de cédula de reinscripción licenciatura 2007: 31.0930 UMA
+a posgrado: 9.0633 UMA
 
-XXVIII. Trámite de expedición de cédula de inscripción nuevo ingreso posgrado: 34.5478 UMA
+XIII. Trámite de expedición de diploma: 28.0137 UMA
 
-XXIX. Trámite de expedición de cédula de reinscripción posgrado generación 2011 y 2012: 34.5478 UMA
+XIV. Trámite de legalización de
 
-XXX. Trámite de expedición de cédula mensual de posgrado generación 2012: 34.5478 UMA
+documentos oficiales: 11.5350 UMA
 
-XXXI. Trámite de expedición de cédula mensual de posgrado generaciones 2011 y 2013: 13.8191 UMA
+XV. Trámite de expedición de cédula para
 
-XXXII. Trámite de expedición de cédula para curso de verano teórico 4 créditos: 10.3643 UMA
+curso de inglés técnico: 23.8940 UMA
 
-XXXIII. Trámite de expedición de cédula para curso de verano teórico 5 créditos: 11.2280 UMA
+XVI. Trámite de expedición de cédula para curso
 
-XXXIV. Trámite de expedición de cédula para curso de verano práctico 6 créditos: 12.0917 UMA
+de inglés principiante I y II: 9.0633 UMA
 
-XXXV. Trámite de expedición de cédula para curso de verano teórico 8 créditos: 14.6828 UMA
+XVII. Trámite de expedición de cédula para
 
-XXXVI. Trámite de expedición de cédula para curso de verano teórico 9 créditos: 15.5465 UMA
+curso de inglés intermedio I y II: 9.0633 UMA
 
-XXXVII. Trámite de expedición de cédula para curso de verano práctico 10 créditos: 16.4102 UMA
+XVIII. Trámite de expedición de cédula para
 
-XXXVIII. Trámite de expedición de cédula para curso de verano alumnos externos: 20.7287 UMA
+curso de inglés avanzado I y II: 9.0633 UMA
 
-XXXIX. Trámite de expedición de cédula para curso de verano inglés servicio externo: 17.2739 UMA
+XIX. Trámite de expedición de constancia
 
-XL. Trámite de expedición de cédula para curso de inglés V y VI: 10.3643 UMA
+de cumplimiento de requisitos para presentar
 
-XLI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen EGEL de CENEVAL de egreso de licenciaturas: 27.6383 UMA
+examen global de ubicación de inglés: 4.1197 UMA
 
-XLII. Trámite de expedición de cédula para curso especial de titulación: 69.0957 UMA
+XX. Trámite de expedición de constancia de
 
-XLIII. Trámite de expedición de cédula para la participación en congreso de ingenierías: 10.3643 UMA
+cumplimiento de requisitos para presentar
 
-XLIV. Trámite de expedición de cédula para curso de nivelación de matemáticas: 8.6370 UMA
+examen global de inglés técnico: 16.4786 UMA
 
-XLV. Trámite de expedición de cédula para curso propedéutico de posgrado: 43.1848 UMA
+XXI. Trámite de expedición de constancia de
 
-XLVI. Trámite de expedición de certificado incompleto posgrado: 8.6306 UMA
+cumplimiento de requisitos para
 
-XLVII. Trámite de reposición de constancia de actividades extraescolares: 1.0603 UMA
+presentar examen recepcional: 16.4786 UMA
 
-XLVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global de materia: 5.1953 UMA
+XXII. Trámite de expedición de constancia de
 
-XLIX. Trámite de expedición de carta de pasante y certificado de estudios posgrado: 10.3589 UMA
+cumplimiento de requisitos para
 
-L. Trámite de expedición de cédula de reinscripción posgrado generación 2010: 25.9025 UMA
+presentar examen especial: 4.9436 UMA
 
-LI. Trámite de expedición de cédula para curso de nivelación a nuevo ingreso: 8.6306 UMA
+XXIII. Trámite de expedición de cédula de
 
-LII. Servicio de cañón a externo, por hora: 1.7282 UMA
+inscripción nuevo ingreso: 32.9572 UMA
 
-LIII. Servicios en sala audiovisual por hora: 3.4565 UMA
+XXIV. Trámite de expedición de cédula de reinscripción
+
+licenciatura generación 2011 y 2012: 32.9572 UMA
+
+XXV. Trámite de expedición de cédula de reinscripción
+
+licenciatura generación 2008 a 2010: 33.1333 UMA
+
+XXVI. Trámite de expedición de cédula de reinscripción
+
+licenciatura generación 2008 a 2010: 32.9572 UMA
+
+XXVII. Trámite de expedición de cédula de
+
+reinscripción licenciatura 2007: 29.6614 UMA
+
+XXVIII. Trámite de expedición de cédula de inscripción
+
+nuevo ingreso posgrado: 32.9572 UMA
+
+XXIX. Trámite de expedición de cédula de reinscripción
+
+posgrado generación 2011 y 2012: 32.9572 UMA
+
+XXX. Trámite de expedición de cédula mensual
+
+de posgrado generación 2012: 32.9572 UMA
+
+XXXI. Trámite de expedición de cédula mensual
+
+de posgrado generaciones 2011 y 2013: 13.1829 UMA
+
+XXXII. Trámite de expedición de cédula para
+
+curso de verano teórico 4 créditos: 9.8871
+
+UMA
+
+XXXIII. Trámite de expedición de cédula para curso
+
+de verano teórico 5 créditos: 10.7111 UMA
+
+XXXIV. Trámite de expedición de cédula para curso
+
+de verano práctico 6 créditos: 11.5350 UMA
+
+XXXV. Trámite de expedición de cédula para curso
+
+de verano teórico 8 créditos: 14.0068 UMA
+
+XXXVI. Trámite de expedición de cédula para curso
+
+de verano teórico 9 créditos: 14.8307 UMA
+
+XXXVII. Trámite de expedición de cédula para
+
+curso de verano práctico 10 créditos: 15.6547 UMA
+
+XXXVIII. Trámite de expedición de cédula para
+
+curso de verano alumnos externos: 19.7743 UMA
+
+XXXIX. Trámite de expedición de cédula para
+
+curso de verano inglés servicio externo: 16.4786 UMA
+
+XL. Trámite de expedición de cédula
+
+para curso de inglés V y VI: 9.8871 UMA
+
+XLI. Trámite de expedición de constancia de
+
+cumplimiento de requisitos para presentar examen
+
+EGEL de CENEVAL de egreso
+
+de licenciaturas: 26.3658 UMA
+
+XLII. Trámite de expedición de cédula para
+
+curso especial de titulación: 65.9145 UMA
+
+XLIII. Trámite de expedición de cédula para
+
+la participación en congreso de ingenierías: 9.8871 UMA
+
+XLIV. Trámite de expedición de cédula para
+
+curso de nivelación de matemáticas: 8.2393 UMA
+
+XLV. Trámite de expedición de cédula para
+
+curso propedéutico de posgrado: 41.1965 UMA
+
+XLVI. Trámite de expedición de certificado
+
+incompleto posgrado: 8.2332 UMA
+
+XLVII. Trámite de reposición de constancia
+
+de actividades extraescolares: 1.0115 UMA
+
+XLVIII. Trámite de expedición de constancia
+
+de cumplimiento de requisitos para
+
+presentar examen global de materia: 4.9561 UMA
+
+XLIX. Trámite de expedición de carta de
+
+pasante y certificado
+
+de estudios posgrado: 9.8820 UMA
+
+L. Trámite de expedición de cédula de reinscripción
+
+posgrado generación 2010: 24.7099 UMA
+
+LI. Trámite de expedición de cédula para curso
+
+de nivelación a nuevo ingreso: 8.2332 UMA
+
+LII. Servicio de cañón a externo, por hora: 1.6486 UMA
+
+LIII. Servicios en sala audiovisual por hora: 3.2974 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -4851,51 +6357,115 @@ LIII. Servicios en sala audiovisual por hora: 3.4565 UMA
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Tierra Blanca:
 
-I. Trámite de reposición de credencial: 1.2092 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de certificado incompleto: 12.0917 UMA
+I. Trámite de reposición de credencial: 0.9469 UMA
 
-III. Trámite de expedición de constancia y duplicado: 1.0364 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Trámite de expedición de duplicado de constancia de buena conducta: 1.5547 UMA
+II. Trámite de expedición de certificado incompleto: 10.1906 UMA
 
-V. Trámite de expedición de duplicado de liberación de servicio social: 2.5911 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Trámite de expedición de duplicado de certificado incompleto: 12.0917 UMA
+III. Trámite de expedición de constancia y duplicado: 0.8955 UMA
 
-VII. Trámite de expedición de duplicado de carta de pasante: 10.3643 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Trámite de expedición de constancia original y duplicado de liberación de extraescolares: 2.5911 UMA
+IV. Trámite de expedición de duplicado de constancia de buena conducta: 1.3493 UMA
 
-IX. Trámite de expedición de constancia de liberación de inglés: 5.1822 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+V. Trámite de expedición de duplicado de liberación de servicio social: 2.1423 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Trámite de expedición de duplicado de certificado incompleto: 10.1906 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Trámite de expedición de duplicado de carta de pasante: 7.9536 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Trámite de expedición de constancia original y duplicado de liberación de extraescolares: 2.1541 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Trámite de expedición de constancia de liberación de inglés: 5.9889 UMA
 
 X. Trámite de expedición de constancia de cumplimiento de requisitos para la presentación de examen extraordinario: 2.5911 UMA
 
-XI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 19.0877 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 16.0848 UMA
 
 XII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 5.1822 UMA
 
-XIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de inglés: 5.1822 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de inglés: 4.3792 UMA
 
 XIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 6.9096 UMA
 
-XV. Trámite de expedición de cédula de inscripción: 25.9972 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Trámite de expedición de cédula de reinscripción: 25.9972 UMA
+XV. Trámite de expedición de cédula de inscripción: 21.8961 UMA
 
-XVII. Trámite de expedición de cédula para ingresar al curso normal de inglés: 8.7233 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Trámite de expedición de cédula para ingresar al curso de inglés intensivo: 19.0877 UMA
+XVI. Trámite de expedición de cédula de reinscripción: 21.8961 UMA
 
-XIX. Trámite de expedición extemporánea de cédula de inscripción / reinscripción: 8.6942 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XX. Trámite de expedición de duplicado de boleta: 1.0364 UMA
+XVII. Trámite de expedición de cédula para ingresar al curso normal de inglés: 7.3263 UMA
 
-XXI. Trámite de expedición de cédula de ingreso al curso de titulación: 103.9890 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXII. Paquete de titulación: 77.7326 UMA
+XVIII. Trámite de expedición de cédula para ingresar al curso de inglés intensivo: 16.0847 UMA
 
-XXIII. Trámite de expedición de la carta de actividades extraescolares: 2.5911 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Trámite de expedición extemporánea de cédula de inscripción / reinscripción: 5.9179 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Trámite de expedición de duplicado de boleta: 0.8955 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Trámite de expedición de cédula de ingreso al curso de titulación: 87.6554 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Trámite de expedición de diploma: 65.4989 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Trámite de expedición de la carta de actividades extraescolares: 2.1541 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Examen EGEL: 20.7125 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Dictamen de Convalidación por cambio de carrera: 4.1425 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Reposición de recibo oficial: 0.8995 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. Duplicado de constancia de Servicio Social: 2.1423 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII. Trámite de expedición de cédula de inscripción de Maestría: 47.4257 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. Diplomado: 89.3597 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -4909,13 +6479,15 @@ II. Trámite de expedición de cédula de baja temporal del alumno: 1.7274 UMA
 
 III. Trámite de expedición de carta de pasante: 16.4102 UMA
 
-IV. Trámite de expedición de cédula profesional: 20.7287 UMA
+IV. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
 V. Trámite de expedición de certificado de estudios: 18.1376 UMA
 
 VI. Trámite de expedición de certificado de estudios incompletos: 18.1376 UMA
 
-VII. Trámite de expedición de constancia de estudios: 1.7274 UMA
+VII. (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)
+
+Trámite de expedición de constancia de estudios: 0.6154 UMA
 
 VIII. Trámite de convalidación de cambio de carrera: 8.6370 UMA
 
@@ -4923,15 +6495,21 @@ IX. Copia certificada: 1.7274 UMA
 
 X. Trámite de expedición de cédula para curso de actualización profesional: 25.9109 UMA
 
-XI. Trámite de expedición de cédula para curso de inglés: 14.6828 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Trámite de expedición de cédula para curso de inglés pasante: 16.9284 UMA
+XI. Trámite de expedición de cédula para curso de inglés: 11.9148 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Trámite de expedición de cédula para curso de inglés pasante: 15.1300 UMA
 
 XIII. Trámite de expedición de cédula para curso de nivelación nuevo ingreso: 10.3643 UMA
 
 XIV. Trámite de expedición de cédula para curso de titulación: 103.6435 UMA
 
-XV. Trámite de expedición de cédula para curso de verano tipo 1: 10.3643 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Trámite de expedición de cédula para curso de verano tipo 1: 5.9179 UMA
 
 XVI. Trámite de expedición de cédula para curso de verano tipo 2: 10.3643 UMA
 
@@ -4943,9 +6521,13 @@ XIX. Trámite de expedición de duplicado de carta de buena conducta: 1.7274 UMA
 
 XX. Trámite de expedición de duplicado de horarios: 1.7274 UMA
 
-XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de liberación del idioma inglés: 10.3643 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de nivelación de inglés: 3.4548 UMA
+XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de liberación del idioma inglés: 9.2671 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de nivelación de inglés: 3.1205 UMA
 
 XXIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial plan 2004: 3.4548 UMA
 
@@ -4957,23 +6539,35 @@ XXVI Trámite de expedición de constancia de cumplimiento de requisitos para fi
 
 XXVII. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión (extemporáneo): 43.1848 UMA
 
-XXVIII. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión (normal): 34.5478 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIX. Trámite de expedición de cédula de inscripción a licenciatura: 22.4561 UMA
+XXVIII. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión (normal): 17.7536 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. Trámite de expedición de cédula de inscripción a licenciatura: 17.7536 UMA
 
 XXX. Trámite de expedición de cédula de inscripción o reinscripción a licenciatura extemporánea: 27.6383 UMA
 
 XXXI. Servicios extraordinarios por día en centro de información: 0.1727 UMA
 
-XXXII. Trámite de expedición de cédula de reinscripción a licenciatura: 22.4561 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. Trámite de expedición de cédula de reinscripción a licenciatura: 17.7536 UMA
 
 XXXIII. Trámite de reposición de carnet: 1.7274 UMA
 
-XXXIV. Trámite de reposición de credencial: 1.7274 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXXV. Trámite de expedición de título: 64.7827 UMA
+XXXIV. Trámite de reposición de credencial: 0.6154 UMA
 
-XXXVI. Trámite de expedición de cédula para curso propedéutico para posgrado: 34.9890 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Trámite de expedición de diploma: 64.7827 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. Trámite de expedición de cédula para curso propedéutico para posgrado: 17.7304 UMA
 
 XXXVII. Trámite de inscripción a posgrado: 28.6274 UMA
 
@@ -4981,9 +6575,15 @@ XXXVIII. Trámite de expedición de cédula por crédito cursado en posgrado: 7.
 
 XXXIX. Trámite de expedición de certificado de estudios de posgrado: 26.5068 UMA
 
-XL. Trámite de expedición de título de posgrado: 37.1096 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XL. Trámite de expedición de grado académico: 37.1096 UMA
 
 XLI. Trámite de acto protocolario de titulación de posgrado: 63.6164 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLII. Trámite de expedición de cédula para examen de certificación de lengua extranjera: 10.6619 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -4991,9 +6591,13 @@ XLI. Trámite de acto protocolario de titulación de posgrado: 63.6164 UMA
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Zongolica:
 
-I. Trámite de expedición de cédula de inscripción nuevo ingreso: 11.6630 UMA
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de reingreso: 11.6630 UMA
+I. Trámite de expedición de cédula de inscripción nuevo ingreso: 11.1260 UMA
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+II. Trámite de expedición de cédula de reingreso: 11.1260 UMA
 
 III. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial (global): 2.1205 UMA
 
@@ -5033,61 +6637,201 @@ XVIII. Trámite de examen de titulación: 24.9376 UMA
 
 Por los servicios prestados por la Universidad Politécnica de Huatusco:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 4.2411 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripción: 11.2389 UMA
+I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 5.2314 UMA
 
-III. Trámite de expedición de cédula de inscripción extemporánea: 13.2534 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Trámite de expedición de cédula de reinscripción: 11.2389 UMA
+II. Trámite de expedición de cédula de inscripción: 13.8715 UMA
 
-V. Trámite de expedición de cédula de reinscripción extemporánea: 13.2534 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Trámite de expedición del duplicado de boleta, credencial, constancia de estudios y kárdex: 0.8482 UMA
+III. Trámite de expedición de cédula de inscripción extemporánea: 16.3451 UMA
 
-VII. Trámite de expedición de cédula de baja temporal: 3.4989 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Trámite de expedición de cédula de baja definitiva: 6.3616 UMA
+IV. Trámite de expedición de cédula de reinscripción: 13.8715 UMA
 
-IX. Trámite de expedición de cédula para ingresar al curso de regularización: 8.3762 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-X. Trámite de expedición del certificado de estudios completo: 8.3762 UMA
+V. Trámite de expedición de cédula de reinscripción extemporánea: 16.3451 UMA
 
-XI. Trámite de expedición del certificado de estudios incompleto: 8.3762 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Trámite de expedición de título: 25.1285 UMA
+VI. Trámite de expedición del duplicado de boleta, credencial, constancia de estudios y kárdex: 1.0534 UMA
 
-XIII. Trámite de expedición de cédula profesional: 22.0537 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Trámite de expedición del duplicado del certificado de estudios: 8.3762 UMA
+VII. Trámite de expedición de cédula de baja temporal: 4.3200 UMA
 
-XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen general de egreso de licenciatura (EGEL): 16.7523 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Trámite de expedición del duplicado del acta de exención de examen profesional: 5.6194 UMA
+VIII. Trámite de expedición de cédula de baja definitiva: 7.8352 UMA
 
-XVII. Trámite de expedición del duplicado de la constancia de liberación del servicio social: 5.6194 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Trámite de expedición de la constancia de competencia por ciclo de formación: 8.3762 UMA
+IX. Trámite de expedición de cédula para ingresar al curso de regularización: 10.3326 UMA
 
-XIX. Trámite de expedición de copia certificada de documento oficial: 2.3326 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 4.9833 UMA
+X. Trámite de expedición del certificado de estudios completo: 8.3800 UMA
 
-XXI. Trámite de expedición de la constancia de exención de examen profesional: 5.6194 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXII. Expedición de duplicado de holograma: 0.2121 UMA
+XI. Trámite de expedición del certificado de estudios incompleto: 10.3326 UMA
 
-XXIII. Trámite de reinscripción con beca institucional del 25 por ciento: 8.3762 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXIV. Trámite de reinscripción con beca institucional del 50 por ciento: 5.6194 UMA
+XII. Trámite de expedición de diploma: 30.9741 UMA
 
-XXV. Trámite de reinscripción con beca institucional del 80 por ciento: 2.3326 UMA
+XIII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
-XXVI. Trámite de reinscripción extemporánea con beca institucional del 25 por ciento: 10.4967 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XXVII. Trámite de reinscripción extemporánea con beca institucional del 50 por ciento: 7.7400 UMA
+XIV. Trámite de expedición del duplicado del certificado de estudios: 10.3326 UMA
 
-XXVIII. Trámite de reinscripción extemporánea con beca institucional del 80 por ciento: 4.3471 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen general de egreso de licenciatura (EGEL): 20.6533 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Trámite de expedición del duplicado del acta de exención de examen profesional: 6.9357 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Trámite de expedición del duplicado de la constancia de liberación del servicio social: 6.9357 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Trámite de expedición de la constancia de competencia por ciclo de formación: 10.3326 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Trámite de expedición de copia certificada de documento oficial: 2.8761 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Trámite de expedición de constancia de cumplimiento de requisitos para
+
+presentar examen global: 4.9800 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Trámite de expedición de la constancia de exención de examen profesional: 6.9357 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Expedición de duplicado de holograma: 0.2604 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Trámite de reinscripción con beca institucional del 25 por ciento: 10.4036 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Trámite de reinscripción con beca institucional del 50 por ciento: 6.9357 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Trámite de reinscripción con beca institucional del 80 por ciento: 2.7696 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Trámite de reinscripción extemporánea con beca institucional del 25 por ciento: 12.8536 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. Trámite de reinscripción extemporánea con beca institucional del 50 por ciento: 8.1785 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII. Trámite de reinscripción extemporánea con beca institucional del 80 por ciento: 3.2667 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. Equivalencia de estudios: 10.7232 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXX. Convalidación de estudios: 10.7232 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. Revalidación de estudios: 10.7232 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. Plan de estudios: 8.5217 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Material equivalente (1): 3.4087 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV. Trámite de impartición de cursos: 35.5072 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Trámite de impartición de talleres: 35.5072 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. Inscripción para curso externo de inglés: 7.1014 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII. Inscripción para curso externo de inglés 50% de descuento: 3.5507 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVIII. Mensualidad de curso de inglés: 5.9179 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIX. Mensualidad de curso de inglés 20% de descuento: 4.7343 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XL. Trámite de aplicación Examen TOEFL: 11.1374 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLI. Trámite de aplicación Examen TOEFL
+
+(Personal UPH): 10.1787 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLII. Inscripción al “Diplomado de Liderazgo
+
+y Alta Dirección”: 53.2607 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLIII. Inscripción al “Diplomado en Competencias
+
+Laborales”: 41.4250 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLIV. Curso de capacitación (Desarrollo de Investigación
+
+y Tecnología Aplicada): 2.3671 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLV. Legalización de Certificado
+
+de Bachillerato: 9.8000 UMA
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XLVI. Constancia de Libro (Donación-
+
+Egresados): 7.1014 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -5107,21 +6851,31 @@ V. Trámite de expedición de constancia de estudio sin calificaciones: 0.6362 U
 
 VI. Trámite de reposición de credencial de estudiante: 1.6964 UMA
 
-VII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 6.8918 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 6.8913 UMA
 
 VIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 8.5882 UMA
 
 IX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de regularización: 1.6964 UMA
 
-X. Trámite de expedición de cédula de inscripción y reinscripción a nivel superior: 16.4342 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+X. Trámite de expedición de cédula de inscripción y reinscripción a nivel superior: 15.6776 UMA
 
 XI. Trámite de legalización de documentos: 9.5425 UMA
 
-XII. Trámite de expedición de cédula de inscripción y reinscripción ingeniería y licenciatura: 22.3718 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Trámite de expedición de título y cédula profesional: 49.1967 UMA
+XII. Trámite de expedición de cédula de inscripción y reinscripción ingeniería y licenciatura: 21.3418 UMA
 
-XIV. Trámite de expedición o reexpedición de constancia de registro de boleta de calificación: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Trámite de expedición de diploma: 33.5500 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Trámite de expedición o reexpedición de constancia de registro de boleta de calificación: 0.8481 UMA
 
 XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen EGETSU: 6.0436 UMA
 
@@ -5135,39 +6889,69 @@ XVII. Trámite de expedición de certificados para Microsoft (usuario externo): 
 
 Por los servicios prestados por la Universidad Tecnológica del Centro de Veracruz:
 
-I. Trámite de admisiones TSU: 5.5664 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripciones TSU: 2.7779 UMA
+I. Trámite de admisiones TSU: 5.9200 UMA
 
-III. Trámite de expedición de cédula para cursar cuatrimestre de TSU: 20.7283 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Trámite de expedición de constancias: 0.6256 UMA
+II. Trámite de expedición de cédula de inscripciones TSU: 2.9600 UMA
 
-V. Trámite de expedición de duplicado de documentos: 0.8482 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Trámite de protocolo de Titulación por TSU: 43.1425 UMA
+III. Trámite de expedición de cédula para cursar cuatrimestre de TSU: 18.9400 UMA
 
-VII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar CENEVAL EXANI: 4.3153 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Trámite de expedición de credencial: 1.2723 UMA
+IV. Trámite de expedición de constancias: 0.7100 UMA
 
-IX. Trámite para el cotejo de sellos: 7.7400 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-X. Trámite de expedición de copia digitalizada, planes y programas de estudio: 8.5882 UMA
+V. Trámite de expedición de duplicado de documentos: 0.8900 UMA
 
-XI. Trámite para presentar examen a título de suficiencia: 2.4386 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Trámite de protocolo de Titulación por TSU: 45.6900 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar CENEVAL EXANI: 4.1200 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Trámite de expedición de credencial: 1.1800 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Trámite para el cotejo de sellos: 6.6300 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+X. Trámite de expedición de copia digitalizada, planes y programas de estudio: 6.5100 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Trámite para presentar examen a título de suficiencia: 2.6000 UMA
 
 XII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen EGETSU: 12.4052 UMA
 
-XIII. Trámite de expedición de certificados incompletos: 3.4989 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Trámite para presentar examen extraordinario: 1.3890 UMA
+XIII. Trámite de expedición de certificados incompletos: 3.0200 UMA
 
-XV. Trámite de expedición de duplicado de certificado: 7.7400 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Trámite para presentar examen extraordinario: 1.4800 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Trámite de expedición de duplicado de certificado: 6.6300 UMA
 
 XVI. Trámite de reposición de gafete: 2.0887 UMA
 
-XVII. Trámite de expedición de cédula de admisión ingeniería: 7.7400 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Trámite de expedición de cédula de admisión ingeniería: 10.8900 UMA
 
 XVIII. Trámite de expedición de cédula para cursar cuatrimestre de ingeniería: 22.4566 UMA
 
@@ -5175,11 +6959,15 @@ XIX. Trámite de expedición de cédula para cursar cuatrimestre de ingeniería 
 
 XX. Trámite de expedición de credenciales para nuevo ingreso: 0.8482 UMA
 
-XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen del TOEFL: 8.5882 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen del TOEFL: 8.2900 UMA
 
 XXII. Trámite de expedición de constancia de la inscripción en ingeniería: 13.8154 UMA
 
-XXIII. Trámites administrativos para la titulación por ingeniería: 51.4869 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Trámites administrativos para titulación por ingeniería: 45.6900 UMA
 
 XXIV. Trámite de reinscripciones TSU: 2.7779 UMA
 
@@ -5187,53 +6975,105 @@ XXV. Trámite de inscripción en ingeniería: 11.1329 UMA
 
 XXVI. Trámite de reinscripción en ingeniería: 2.7779 UMA
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 57.
 
 Por los servicios prestados por la Universidad Tecnológica del Sureste de Veracruz:
 
-I. Trámite de expedición de constancia de baja definitiva: 0.8164 UMA
+I. Trámite de expedición de constancia de
 
-II. Trámite de expedición de constancia de baja temporal: 0.4877 UMA
+baja definitiva: 0.7788 UMA
 
-III. Trámite de expedición de carta de pasante: 0.8164 UMA
+II. Trámite de expedición de
 
-IV. Trámite de expedición de certificado incompleto: 2.4492 UMA
+constancia de baja temporal: 0.4652 UMA
 
-V. Trámite de expedición de constancia con tira de materias: 0.4877 UMA
+III. Trámite de expedición de carta de
 
-VI. Trámite de expedición de constancia sin tira de materias (sencilla): 0.2439 UMA
+pasante: 0.7788 UMA
 
-VII. Trámite de expedición de cédula para cursar cuatrimestre: 13.7517 UMA
+IV. Trámite de expedición de
 
-VIII. Trámite de expedición de cédula extemporánea para cursar cuatrimestre: 16.4978 UMA
+certificado incompleto: 2.3364 UMA
 
-IX. Trámite de expedición de duplicado de boleta: 0.8164 UMA
+V. Trámite de expedición de constancia
 
-X. Trámite de expedición de constancia de cumplimiento de requisitos para presentar el examen de selección: 5.7255 UMA
+con tira de materias: 0.4652 UMA
 
-XI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar el examen especial: 2.4492 UMA
+VI. Trámite de expedición de constancia sin
 
-XII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar el examen extraordinario: 1.1451 UMA
+tira de materias (sencilla): 0.2326 UMA
 
-XIII. Trámite de expedición de cédula de inscripción: 3.4353 UMA
+VII. Trámite de expedición de cédula
 
-XIV. Trámite de legalización de certificado de bachillerato: 5.7255 UMA
+para cursar cuatrimestre: 13.1185 UMA
 
-XV. Trámite administrativo para la impresión del mapa curricular o programa de estudios: 0.8164 UMA
+VIII. Trámite de expedición de cédula
 
-XVI. Trámite administrativo para la impresión del plan de estudios: 2.2902 UMA
+extemporánea para cursar
 
-XVII. Trámite de expedición de cédula de reinscripción anual: 3.4353 UMA
+cuatrimestre: 15.7382 UMA
 
-XVIII. Trámite de expedición de reposición de credencial: 1.1451 UMA
+IX. Trámite de expedición de duplicado
 
-XIX. Trámite de expedición de certificado: 7.3583 UMA
+de boleta: 0.7788 UMA
 
-XX. Acto protocolario de presentación de titulación: 32.7412 UMA
+X. Trámite de expedición de constancia
 
-XXI. Trámite de expedición de duplicado de arancel: 0.3181 UMA
+de cumplimiento de requisitos para
+
+presentar el examen de selección: 5.4618 UMA
+
+XI. Trámite de expedición de constancia
+
+de cumplimiento de requisitos
+
+para presentar el examen especial: 2.3364 UMA
+
+XII. Trámite de expedición de constancia
+
+de cumplimiento de requisitos para
+
+presentar el examen extraordinario: 1.0923 UMA
+
+XIII. Trámite de expedición de
+
+cédula de inscripción: 3.2771 UMA
+
+XIV. Trámite de legalización de
+
+certificado de bachillerato: 6.0918 UMA
+
+XV. Trámite administrativo para la impresión
+
+del mapa curricular o programa
+
+de estudios: 0.7788 UMA
+
+XVI. Trámite administrativo para la impresión
+
+del plan de estudios: 2.1847 UMA
+
+XVII. Trámite de expedición de cédula de
+
+reinscripción anual: 3.2771 UMA
+
+XVIII. Trámite de expedición de
+
+reposición de credencial: 1.0923 UMA
+
+XIX. Trámite de expedición de
+
+certificado: 7.0195 UMA
+
+XX. Acto protocolario de presentación
+
+de titulación: 31.2337 UMA
+
+XXI. Trámite de expedición de duplicado
+
+de arancel: 0.3034 UMA
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -5531,11 +7371,17 @@ LXIII. Unidad de Control Remoto de Radio Análoga: 753.8000 UMA
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Jesús Carranza:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para el examen de admisión: 19.6150 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-II. Trámite de expedición de cédula de inscripción: 19.6150 UMA
+I. Trámite de expedición de ficha de cumplimiento de requisitos para presentar examen de admisión: 19.6150 UMA
 
-III. Trámite de expedición de cédula de reinscripción: 19.6150 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+II. Trámite de expedición de cédula de inscripción: 18.7122 UMA
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+III. Trámite de expedición de cédula de reinscripción: 18.7122 UMA
 
 IV. Trámite de expedición de credencial institucional: 1.5692 UMA
 
@@ -5559,7 +7405,9 @@ XIII. Trámite de expedición de certificado legalizado completo: 10.4861 UMA
 
 XIV. Trámite de expedición de certificado legalizado incompleto: 10.4861 UMA
 
-XV. Paquete de titulación: 63.1711 UMA
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Trámite de expedición de diploma: 63.1711 UMA
 
 XVI. Acto protocolario: 13.8896 UMA
 
@@ -5725,6 +7573,146 @@ f) Muy complejo 12.9459 UMA
 
 g) Altamente complejo 20.0286 UMA
 
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 59 Quáter.
+
+Por los servicios prestados por la Universidad Popular Autónoma de Veracruz:
+
+Educación Media Superior
+
+I. Trámite de reexpedición de certificado completos (sic)
+
+o incompleto: 2.3671 UMA
+
+II. Trámite de duplicado de certificado
+
+completo o incompleto: 2.3671 UMA
+
+III. Trámite de equivalencia: 3.5507 UMA
+
+IV. Trámite de convalidación: 1.7754 UMA
+
+V. Trámite de examen de regularización primera (I) y
+
+segunda (II) oportunidad: 0.5918 UMA
+
+VI. Trámite de expedición y reexpedición
+
+de credencial: 0.4734 UMA
+
+Educación Superior
+
+Licenciaturas
+
+VII. Trámite de reexpedición de certificado de estudios
+
+completo o incompleto: 5.9179 UMA
+
+VIII. Trámite de expedición de
+
+equivalencia parcial: 5.9179 UMA
+
+IX. Convalidación interna: 3.5507 UMA
+
+X. Trámite de expedición de carta
+
+de pasante: 5.9179 UMA
+
+XI. Trámite de expedición de constancia de estudios
+
+con calificaciones y créditos: 2.9589 UMA
+
+XII. Trámite de búsqueda de historial
+
+académico: 3.5507 UMA
+
+XIII. Trámite de sellado de
+
+constancia de CONAFE: 0.5918 UMA
+
+XIV. Trámite de expedición y reexpedición
+
+de credencial: 0.4734 UMA
+
+XV. Trámite de copia certificada de documentos
+
+académicos en posesión UPAV: 5.9179 UMA
+
+XVI. Trámite de examen
+
+extraordinario: 1.1836 UMA
+
+XVII. Trámite de examen a título de
+
+suficiencia: 1.7754 UMA
+
+Posgrados
+
+XVIII. Trámite de expedición de certificado de estudios
+
+completo o incompleto: 5.9179 UMA
+
+XIX. Trámite de reexpedición de certificado de
+
+estudios completo o incompleto: 5.9179 UMA
+
+XX. Trámite de expedición de constancia de estudios
+
+con calificaciones y créditos: 2.9589 UMA
+
+XXI. Trámite de expedición y reexpedición
+
+de credencial: 0.4734 UMA
+
+Servicio Social y Apoyo a la Titulación
+
+XXII. Trámite de expedición de título nivel
+
+Técnico Superior Universitario: 23.6714 UMA
+
+XXIII. Trámite de titulación Licenciatura
+
+paquete “A” (certificado, acta de examen
+
+profesional y título profesional) 47.3429 UMA
+
+XXIV. Trámite de titulación Licenciatura paquete
+
+“B” (certificado, acta de examen
+
+profesional y título profesional) 41.4250 UMA
+
+XXV. Trámite de titulación de Especialidad
+
+(acta de examen profesional y
+
+título de grado): 59.1787 UMA
+
+XXVI. Trámite de titulación de Maestría
+
+(acta de examen profesional y
+
+título de grado): 76.9322 UMA
+
+XXVII. Trámite de titulación de Doctorado
+
+(acta de examen profesional y
+
+título de grado): 94.6858 UMA
+
+XXVIII. Trámite de reexpedición de
+
+título profesional o grado: 23.6714 UMA
+
+XXIX. Trámite de aplicación diagnóstica de
+
+perfil psicológico: 3.5507 UMA
+
+XXX. Trámite de reexpedición de constancia de
+
+liberación de servicio social: 2.3671 UMA
+
 ## Título Cuarto. De los Derechos por Servicios Prestados Por el Poder Judicial del Estado
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
@@ -5736,6 +7724,10 @@ Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Pr
 > <small>(REFORMADO, G.O. 20 DE MARZO DE 2019)</small>
 
 En los Juicios de alimentos y en los de reconocimiento de hijos, así como en el procedimiento de Declaración Especial de Ausencia por Desaparición, la expedición de copias certificadas no tendrá costo.
+
+### Capítulo Único. De los Derechos por Servicios Diversos
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 61.
 
@@ -5751,11 +7743,7 @@ señaladas en los capítulos anteriores a este Título, por cada
 
 hoja o fracción: 0.2651 UMA
 
-III. Por la expedición de certificados de sanidad animal
-
-otorgados por la Secretaría de Desarrollo Agropecuario,
-
-Rural, y Pesca, por cada animal: 7.4219 UMA
+III. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2020)
 
 IV. Por la expedición de copias certificadas de diligencias de
 
@@ -5962,3 +7950,11 @@ Segundo La expedición de los títulos y cédulas profesionales que se encuentre
 Tercero Las instituciones educativas comprendidas en la Ley del Ejercicio Profesional para el Estado de Veracruz de Ignacio de la Llave remitirán a la Coordinación de Profesiones, en un término de noventa días a partir de la entrada en vigor de este Decreto, una lista completa de los títulos y cédulas profesionales que hubieren expedido durante los últimos diez años.
 
 Cuarto Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 590 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier otra disposición que se oponga al presente Decreto.
