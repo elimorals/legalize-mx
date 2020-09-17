@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2020-02-04"
+last_updated: "2020-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1261,9 +1261,9 @@ a) De 10.6027 a 42.4109 Unidades de Medida y Actualización, cuando el monto del
 
 b) De 15.92 a 212.05 Unidades de Medida y Actualización cuando el monto del cheque sea superior al señalado en el inciso anterior.
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-VII. No presentar oportunamente el dictamen en materia de Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; Impuesto por la Prestación de Servicios de Hospedaje; o Impuesto sobre Loterías, Rifas, Sorteos y Concursos, a que estén obligados los contribuyentes de conformidad con las disposiciones de este Código. Se aplicará una multa de 212.0545 a 530.1364 Unidades de Medida y Actualización.
+VII. No presentar oportunamente el dictamen en materia de Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal o del Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, a que estén obligados los contribuyentes de conformidad con las disposiciones de este Código, se aplicará una multa de 212.0545 a 530.1364 Unidades de Medida y Actualización.
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1771,7 +1771,9 @@ III. Dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remu
 
 Los contribuyentes obligados a dictaminarse, así como los voluntarios, deberán presentar el aviso correspondiente a más tardar el 30 de abril del ejercicio posterior al que se dictamina, el aviso.
 
-El incumplimiento en los plazos señalados en los dos párrafos anteriores, motivará la aplicación de las sanciones establecidas en el artículo 73 fracción I, incisos b) y c) respectivamente, de este Código.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+El incumplimiento en los plazos señalados en los dos párrafos anteriores, motivará la aplicación de las sanciones establecidas en el artículo 73, fracciones I incisos b) y c) y VII respectivamente, de este Código. Las autoridades fiscales emitirán las Reglas de Carácter General a las que se sujetará el contador público autorizado para la elaboración del Dictamen.
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -2875,7 +2877,9 @@ IX. Almacenaje o guarda de bienes;
 
 X. Provenientes de archivo;
 
-XI. Los catastrales por servicios que preste la Secretaría, y
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Los catastrales por servicios que preste la Secretaría de Gobierno, y
 
 XII. Diversos.
 
@@ -2887,9 +2891,11 @@ Los productos por conceptos diversos se cobrarán atendiendo a los contratos cel
 
 Los ingresos que obtenga el Estado por la explotación de bienes inmuebles de su propiedad afectos a fideicomisos estatales integrantes de la administración pública paraestatal, con excepción de aquellos que se encuentren destinados a la prestación de un servicio público, también quedarán comprendidos en la categoría de productos y se encontrarán destinados primordialmente a cubrir las erogaciones necesarias para la correcta administración, operación, mantenimiento, conservación y modernización de dichos inmuebles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 152.
 
-Por los servicios prestados por la Secretaría de Finanzas y Planeación se pagarán los siguientes productos:
+Por los servicios prestados por la Secretaría de Gobierno se pagarán los siguientes productos:
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -3061,13 +3067,17 @@ V. Captación de bonos verdes en términos de la Ley Estatal de Mitigación y Ad
 
 VI. Los instrumentos financieros y de mercado, establecidos en la Ley Estatal de Protección Ambiental y demás normatividad ambiental en el Estado.
 
-Los ingresos establecidos en la fracción I de este Apartado B serán depositados directamente en el Fideicomiso Público del Fondo Ambiental Veracruzano; el cuarenta por ciento de los mismos se destinará para el cumplimiento de los Programas de Gestión de Calidad del Aire y el Programa de Verificación Vehicular Obligatoria y el sesenta por ciento restante se destinará al cumplimiento del objeto de dicho fideicomiso.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+Los ingresos establecidos en la fracción I de este apartado B serán depositados en la OVH y se destinarán para el cumplimiento de los Programas de Gestión de Calidad del Aire, el Programa de Verificación Vehicular Obligatoria y demás relativos en el porcentaje que determine el Decreto de Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal correspondiente;
 
 Los ingresos establecidos en las fracciones II, III, V y VI del Apartado B serán depositados directamente en el Fideicomiso Público del Fondo Ambiental Veracruzano y se destinarán íntegramente para el cumplimiento del objeto de dicho fideicomiso.
 
 Se exceptúan del destino anterior las multas impuestas por la Procuraduría Estatal de Protección al medio Ambiente.
 
-Los ingresos relativos a la fracción IV serán parte del Fondo Forestal Veracruzano, en términos de los artículos 69, 70 y 71 de la Ley número 555 de Desarrollo Forestal Sustentable para el Estado de Veracruz de Ignacio de la Llave.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+Los ingresos relativos a la fracción IV serán parte del Fondo Forestal Estatal, en términos de los artículos 69, 70 y 71 de la Ley número 555 de Desarrollo Forestal Sustentable para el Estado de Veracruz de Ignacio de la Llave.
 
 # LIBRO CUARTO. DEL PRESUPUESTO Y GASTO PÚBLICO
 
@@ -3707,6 +3717,28 @@ La Secretaría determinará los lineamientos a que se sujetarán las dependencia
 
 Los recursos presupuestales que no se hayan destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Secretaría.
 
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+Las dependencias centralizadas y entidades paraestatales de la administración pública estatal, los Poderes Legislativo y Judicial, los organismos autónomos y demás entes públicos que ejerzan recursos públicos estatales, deberán reintegrar a la Secretaría los recursos presupuestales que no se hubieren devengado incluidos sus rendimientos, dentro de los diez días hábiles posteriores al término del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+El incumplimiento de estas disposiciones dará lugar a las responsabilidades administrativas, así como a la actualización de los delitos contra el servicio público establecidos en el Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+Sólo ante hechos o situaciones contingentes, graves o de fuerza mayor debidamente justificada y ante la posibilidad de que se vea afectada la prestación del servicio público correspondiente, la Secretaría podrá adelantar a los entes públicos con cargo a los recursos de libre disposición para enfrentar la situación extraordinaria o contingente, siempre y cuando, en el instrumento que suscriban se especifiquen:
+
+I. Los antecedentes y las evidencias por las cuales se presentan problemas de liquidez o insuficiencia de recursos;
+
+II. Los montos objeto de la solicitud; y
+
+III. El plazo para el reintegro de dichos recursos.
+
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 195.
@@ -4095,11 +4127,15 @@ Las dependencias y entidades serán responsables de llevar un estricto control d
 
 Todos los fondos que dentro del territorio estatal se recauden por diversos conceptos fiscales y otros que perciba el Gobierno del Estado, por cuenta propia o ajena, se concentrarán invariablemente en la Secretaría, con excepción de:
 
-a) Los fondos ajenos constituidos por particulares en calidad de depósitos para garantizar ante los juzgados estatales el cumplimiento de obligaciones;
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
-b) Las cuotas de trabajadores y las aportaciones patronales que reciba el Instituto de Pensiones del Estado por la incorporación de trabajadores a su régimen de seguridad social, y
+a) Los fondos ajenos constituidos por particulares en calidad de depósitos para garantizar ante los juzgados estatales el cumplimiento de obligaciones; y
 
-c) Los ingresos producto de la prestación de servicios públicos que administren las entidades.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
+
+b) Las cuotas de trabajadores y las aportaciones patronales que reciba el Instituto de Pensiones del Estado por la incorporación de trabajadores a su régimen de seguridad social.
+
+c) (DEROGADO, G.O. 17 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -5862,3 +5898,11 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 591 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO Y QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
