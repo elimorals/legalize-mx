@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-extincion-de-dominio-para-el-estado-de-puebla-80544"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-16"
-last_updated: "2015-09-01"
+last_updated: "2020-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY PARA LA ADMINISTRACIÓN, ENAJENACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS, DECOMISADOS Y EXTINTOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 18 DE SEPTIEMBRE DE 2020; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR 60 DÍAS NATURALES DE SU PUBLICACIÓN.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Sección Séptima al Periódico Oficial del Estado de Puebla, el miércoles 16 de marzo de 2011.
 
@@ -724,3 +726,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Todos los asuntos que se encuentren en trámite para el ejercicio de la acción o en sustanciación del procedimiento de la extinción de dominio, hasta antes de la entrada en vigor del presente Decreto, seguirán rigiéndose por las normas vigentes al momento de la realización del hecho delictivo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY PARA LA ADMINISTRACIÓN, ENAJENACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS, DECOMISADOS Y EXTINTOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. La presente Ley entrará en vigor a los 60 días naturales de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Conforme a lo establecido en el artículo que antecede, a partir de la entrada en vigor de la presente Ley, se derogan todas aquellas disposiciones del ámbito estatal que se contrapongan al mismo.
+
+TERCERO. Respecto de los Bienes sujetos a los procedimientos penales y/o de extinción de dominio que a la entrada en vigor de la presente Ley se encuentren en trámite, la administración, enajenación y destino se ajustará a lo dispuesto por ésta.
+
+CUARTO. El Reglamento de la presente Ley, así como el Estatuto Orgánico del Instituto para la Administración de Bienes del Estado de Puebla, deberán ser emitidos dentro de los 30 días naturales de la entrada en vigor de la presente Ley.
+
+QUINTO. La Junta de Gobierno deberá tener su primera sesión ordinaria a los primeros 10 días hábiles de la entrada en vigor de la presente Ley, en la cual deberá designarse al Director General del Instituto para la Administración de Bienes del Estado de Puebla.
+
+SEXTO. La Secretaría de Planeación y Finanzas otorgará, conforme a la disponibilidad presupuestal, los recursos que sean necesarios para la instalación y funcionamiento del Instituto, en tanto que el Congreso del Estado determine lo conducente en el Presupuesto de Egresos del ejercicio correspondiente.
+
+SÉPTIMO. Se abroga la Ley de Extinción de Dominio para el Estado de Puebla, publicada en el Periódico Oficial del Estado de Puebla de fecha 16 de marzo de 2011.
