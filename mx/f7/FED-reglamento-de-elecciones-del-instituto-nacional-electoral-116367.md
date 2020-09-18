@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2020-07-21"
+last_updated: "2020-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-09-07"
 ---
 # REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS DE LOS ANEXOS A QUE REFIERE ESTE ORDENAMIENTO, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE.]</small>
-
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2020.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 18 DE SEPTIEMBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -8718,5 +8718,55 @@ https://www.ine.mx/sesion-ordinaria-del-consejo-general-08-de-julio-de-2020/
 Página DOF
 
 www.dof.gob.mx/2020/INE/CGord202007_08_ap_12.pdf
+
+D.O.F. 18 DE SEPTIEMBRE DE 2020.
+
+[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODALIDADES DE VOTACIÓN POSTAL Y ELECTRÓNICA POR INTERNET, RESPECTIVAMENTE; LOS LINEAMIENTOS PARA LA ORGANIZACIÓN DEL VOTO POSTAL DE LAS CIUDADANAS Y LOS CIUDADANOS MEXICANOS RESIDENTES EN EL EXTRANJERO; LOS LINEAMIENTOS PARA LA ORGANIZACIÓN Y OPERACIÓN DEL VOTO ELECTRÓNICO POR INTERNET PARA LAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO, AMBOS PARA LOS PROCESOS ELECTORALES LOCALES 2020-2021, ASÍ COMO LA PRESENTACIÓN DE LOS DICTÁMENES DE AUDITORÍA AL SISTEMA DE VOTO ELECTRÓNICO POR INTERNET PARA LAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+ACUERDOS
+
+PRIMERO. Se aprueba la implementación del Voto de las Mexicanas y los Mexicanos Residentes en el Extranjero, bajo las modalidades postal y electrónica por Internet, con carácter vinculante, para los Procesos Electorales Locales 2020-2021.
+
+SEGUNDO. Se aprueban los "Lineamientos para la organización del voto postal de las ciudadanas y los ciudadanos mexicanos residentes en el extranjero para los Procesos Electorales Locales 2020-2021", de conformidad con el Anexo 1 que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+TERCERO. Se aprueban los "Lineamientos para la organización y operación del voto electrónico por Internet para las y los mexicanos residentes en el extranjero para los Procesos Electorales Locales 2020-2021", de conformidad con el Anexo 2 que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+CUARTO. Se tienen por presentados los Dictámenes de Auditoría al Sistema del Voto Electrónico por Internet para las y los Mexicanos Residentes en el Extranjero, de conformidad con el Anexo 3 que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+QUINTO. Se aprueba la adición de los siguientes Anexos, mismos que son parte integral del Reglamento de Elecciones de Instituto Nacional Electoral, que corresponden a los puntos Segundo y Tercero del presente Acuerdo:
+
+ANEXO DENOMINACIÓN
+
+21.1 Lineamientos para la organización del voto postal de las
+
+ciudadanas y los ciudadanos mexicanos residentes en
+
+el extranjero para los Procesos Electorales Locales 2020-2021.
+
+21.2 Lineamientos para la organización y operación del voto
+
+electrónico por Internet para las y los mexicanos
+
+residentes en el extranjero para los Procesos
+
+Electorales Locales 2020-2021.
+
+SEXTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, en coordinación con la Unidad Técnica de Servicios de Informática, a elaborar, con base en los Dictámenes de Auditoría al Sistema del Voto Electrónico por Internet para las y los Mexicanos Residentes en el Extranjero, un plan de trabajo con los elementos observados en la fase de la Auditoría correspondiente al 2020, a fin de informarlo a la Comisión Temporal de Vinculación con Mexicanos Residentes en el Extranjero y Análisis de las Modalidades de su Voto.
+
+SÉPTIMO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, a informar lo aprobado en el presente Acuerdo a los Organismos Públicos Locales de las entidades federativas con Proceso Electoral Local 2020-2021, cuya legislación contempla el Voto de las Mexicanas y los Mexicanos Residentes en el Extranjero.
+
+OCTAVO. El presente Acuerdo y sus Anexos entrarán en vigor a partir del día de su aprobación por parte de este Consejo General.
+
+NOVENO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, la Gaceta Electoral y en el portal electrónico del Instituto Nacional Electoral.
+
+El Acuerdo y los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-26-de-agosto-de-2020/
+
+Página DOF
+
+www.dof.gob.mx/2020/INE/CGext202008_26_ap_14.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
