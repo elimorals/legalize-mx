@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-accion-ante-el-cambio-climatico-del-estado-de-10960
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2019-07-11"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 27 de agosto de 2015.
 
@@ -71,7 +71,9 @@ VI. Asegurar que las acciones de adaptación y mitigación coadyuvan al equilibr
 
 VII. Reducir el riesgo, la vulnerabilidad de la población en zonas rurales, urbanas y costeras, de la infraestructura y de los ecosistemas, frente a los efectos adversos del cambio climático, mejorar su resiliencia, así como crear y fortalecer las capacidades locales de acción y respuesta;
 
-VIII. Regular, establecer, enumerar, y ponderar los criterios y acciones en materia de vulnerabilidad, riesgo, prevención, adaptación y mitigación;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Regular, establecer, enumerar, y ponderar los criterios y acciones en materia de vulnerabilidad, riesgo, prevención, adaptación y mitigación; reduciendo el riesgo y la vulnerabilidad de la población en zonas indígenas, afromexicanas, rurales, urbanas y costeras, de la infraestructura y de los ecosistemas, frente a los efectos adversos del cambio climático, mejorando su resiliencia mediante mecanismos para crear y fortalecer las capacidades locales de acción y respuesta;
 
 IX. Promover un desarrollo en el cual la tasa de extracción y uso de los recursos naturales sea menor a su tasa de producción y regeneración natural;
 
@@ -2168,3 +2170,9 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°,7°,15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27952/LXII/20 QUE REFORMA EL ARTÍCULO 3 FRACCIÓN VIII DE LA LA (SIC) LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. La presente ley entrará en vigor un día después de su publicación en el periódico oficial “El Estado de Jalisco”.
