@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2020-08-06"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -193,9 +193,17 @@ III. Violencia patrimonial. Es cualquier acto u omisión que afecta la supervive
 
 IV. Violencia económica. Es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar, privar o restringir sus percepciones económicas, la administración de sus bienes propios, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+V. Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Victima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones graficas o sonoras verdaderas o alteradas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -713,15 +721,15 @@ X. Promover y difundir conocimientos y prácticas de respeto a los derechos de l
 
 XI. Las demás previstas para el cumplimiento de la presente ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-#### Sección Cuarta. De la Fiscalía Estatal y la Secretaría de Seguridad
+#### Sección Cuarta. De la Fiscalía del (sic) Estatal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 28.
 
-Corresponde a la Fiscalía General del Estado, además de lo establecido en otros ordenamientos:
+Corresponde a la Fiscalía Estatal, además de lo establecido en otros ordenamientos:
 
 I. Diseñar e implementar una política criminal con perspectiva de género orientada a la prevención, detección, atención, sanción y erradicación de los delitos violentos cometidos contra las mujeres;
 
@@ -733,7 +741,9 @@ III. Generar mecanismos de prevención, detección, atención y derivación de l
 
 IV. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
-V. (DEROGADA, P.O. 21 DE MARZO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+V. Promover la creación, en conjunto con la Secretaría de Seguridad, de direcciones y unidades especializadas para investigación y, en su caso, sanción, en materia de delitos contra las mujeres mediante el uso de las tecnologías de la información y la comunicación.
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
@@ -809,7 +819,9 @@ III. Difundir y promover, de conformidad con su presupuesto, la investigación m
 
 IV. Capacitar anualmente al personal docente en materia de derechos humanos y prevención de tipos y modalidades de violencia hacia las mujeres;
 
-V. Formular y aplicar programas que permitan la prevención, detección, atención y erradicación temprana de los problemas de violencia contra las mujeres en los centros educativos;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+V. Formular y aplicar programas y protocolos que permitan la prevención, detección, atención y erradicación temprana de los problemas de violencia contra las mujeres en los centros educativos públicos y privados haciendo énfasis en la violencia digital.
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -977,25 +989,27 @@ X. Promover la creación de estrategias eficaces de asistencia integral que perm
 
 XI. Promover de conformidad con su disponibilidad presupuestaria, la organización de actividades públicas y sociales que tengan como finalidad visibilizar los tipos y modalidades de violencia contra las mujeres, así como la difusión de acciones encaminadas a la eliminación de la violencia contra la mujer;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres;
+XII. Proponer, elaborar, promover e implementar programas y protocolos para prevenir, atender, sancionar y erradicar la violencia digital en todas sus formas y manifestaciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Garantizar que en el Plan Estatal de Desarrollo se incorpore un componente específico que aborde la violencia política contra las mujeres en razón de género bajo enfoques de interseccionalidad, interculturalidad e intesectorialidad (sic); con la dotación presupuestaria correspondiente;
+XIII. Diseñar e implementar campañas de difusión masiva para prevenir la violencia digital, haciendo énfasis en los derechos sexuales y reproductivos de las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Establecer un protocolo que coordine la actuación de los órganos competentes para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género, así como para la efectiva resolución de los casos;
+XIV. Promover, en conjunto con la comunidad académica, las organizaciones de la sociedad civil y las universidades públicas y privadas, concursos de aplicaciones móviles contra la violencia digital;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XV. Incorporar la violencia política contra las mujeres en razón de género en los protocolos de atención e investigación de violencia contra las mujeres;
+XV. Promover la cultura de denuncia de la violencia contra las mujeres, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XXIV.]</small>
 
-XVI. Asegurar el acceso a las mujeres víctimas de violencia política contra las mujeres en razón de género, a los servicios especializados y gratuitos en materia de violencia;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Las demás previstas para el cumplimiento de la ley.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1024,6 +1038,8 @@ XXII. Promover y proteger en coordinación con la Fiscalía Especializada en Mat
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
 XXIII. Promover que las organizaciones sociales, sindicatos, organizaciones estudiantiles, organismos de derechos humanos y otras que se ocupan de la vida pública, incorporaren en sus normas de funcionamiento las obligaciones en materia de prevención, sanción y erradicar la violencia política contra las mujeres en razón de género, y para adoptar todas las medidas a su alcance para lograr la participación política paritaria de mujeres y hombres y en igualdad de condiciones, y
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XVI.]</small>
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1141,13 +1157,17 @@ I. Promover con la comunidad científica y académica la participación con el G
 
 II. Promover la elaboración de estudios estadísticos sobre la violencia de género en el estado;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-III. Promover la difusión, entre la comunidad estudiantil, de una cultura de respeto a los derechos humanos de las mujeres; y
+III. Promover la difusión, entre la comunidad estudiantil, de una cultura de respeto a los derechos humanos de las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Aprobar, observar y aplicar protocolos de actuación especializados para la prevención, atención, sanción y erradicación de las violencias contra las mujeres, niñas y de género, de forma particular los relacionados con el acoso y hostigamiento sexual por parte de la comunidad universitaria.
+IV. Aprobar, observar y aplicar protocolos de actuación especializados para la prevención, atención, sanción y erradicación de las violencias contra las mujeres, niñas y en razón de género, de forma particular en lo relacionado con el acoso y hostigamiento sexual, así como con la violencia digital, en todas sus formas y manifestaciones, dirigidos al personal y estudiantes de los planteles universitarios, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+V. Diseñar e implementar campañas de difusión masiva para prevenir la violencia digital, haciendo énfasis en los derechos sexuales y reproductivos de las mujeres.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
 
@@ -1185,17 +1205,21 @@ VI. Participar y coadyuvar en la prevención, detección, atención y erradicaci
 
 VII. Llevar a cabo, de acuerdo con el Consejo, programas permanentes de información a la población respecto de la violencia contra las mujeres, sus tipos y modalidades y sobre las atribuciones y responsabilidades de las instituciones que atienden a las víctimas;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 VIII. Celebrar, con dependencias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Establecer y operar protocolos en materia de prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género, así como para la efectiva resolución de los casos; y
+IX. Diseñar campañas municipales tendientes a prevenir la violencia digital, haciendo énfasis en los derechos de las mujeres;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-X. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+X. Implementar programas y protocolos para prevenir, atender y sancionar la violencia digital en todas sus formas y manifestaciones, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XI. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1477,13 +1501,23 @@ IV. Reingreso de la víctima al domicilio, una vez que se salvaguarde su segurid
 
 V. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
 
-VI. Protección a la imagen personal, eliminando toda fotografía, pintura o video, en formato original o alterado de cualquier medio electrónico o impreso en el que se reproduzca o difunda sin el consentimiento de la víctima su imagen o imágenes que supongan un daño a sus derechos de personalidad; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Protección a la víctima y su familia, para lo cual la autoridad competente determinará las medidas necesarias que se deban de tomar para garantizar el respeto a sus derechos incluyendo la adopción de medidas para que no se revele su paradero.
+VI. Protección a la imagen personal, eliminando toda fotografía, pintura o video, en formato original o alterado de cualquier medio electrónico o impreso en el que se reproduzca o difunda sin el consentimiento de la víctima su imagen o imágenes que supongan un daño a sus derechos de personalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Prohibición del agresor de intimidar, molestar, acosar o comunicarse con la víctima, directa o indirectamente, a través del uso de las tecnologías de la información y comunicación, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Protección a la víctima y su familia, para lo cual la autoridad competente determinará las medidas necesarias que se deban de tomar para garantizar el respeto a sus derechos incluyendo la adopción de medidas para que no se revele su paradero.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 Las autoridades en casos de emergencia además de lo establecido en el presente Artículo deberán de realizar las acciones que estimen pertinentes conforme a lo previsto en esta Ley garantizando el respeto a los derechos humanos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 Con el mismo objetivo, las autoridades administrativas, con la finalidad de garantizar la vida, la integridad y la seguridad de mujeres y niñas víctimas de violencia, favorecerán la utilización de sistemas de monitoreo electrónico preservando en todo momento los principios de presunción de inocencia y de mínima intervención. En todo caso su implementación se basará en mecanismos para la gestión integral del riesgo y deberá ajustarse a las reglas que al efecto se emitan por medio de protocolos específicos para su operación.
 
@@ -1507,15 +1541,19 @@ V. Acceso al domicilio en común, de autoridades policiacas o de personas que au
 
 VI. Establecer el derecho de visitas o convivencia asistida o supervisada por la autoridad competente en materia de familia, niñas, niños y adolescentes. En caso de que la autoridad jurisdiccional lo estime necesario la suspensión o restricción temporal al agresor a las visitas y convivencia con sus descendientes en los términos de la legislación civil;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VII. La persona agresora deberá asistir a tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas y privadas debidamente acreditadas; y
+VII. La persona agresora deberá asistir a tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas y privadas debidamente acreditada (sic),
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la victima u ofendido en el momento de solicitarlo.
+VIII. Restringir y bloquear de internet o de redes sociales, las cuentas del agresor cuando se determine que persiste el riesgo para la víctima; y
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 La autoridad responsable, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las órdenes de protección idóneas cuando estime riesgo inminente en contra de la seguridad de la mujer víctima de violencia.
 
@@ -1812,3 +1850,13 @@ P.O. 6 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27926/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO PENAL Y DE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO, TODAS DEL ESTADO DE JALISCO, CON EL OBJETO DE ESTABLECER QUE EN LOS DELITOS QUE SEAN COMETIDOS POR CUESTIONES DE GÉNERO EN AGRAVIO DE MUJERES, LA ASISTENCIA A PROGRAMAS REEDUCATIVOS, INTEGRALES, ESPECIALIZADOS Y GRATUITOS, Y EL TRABAJO EN BENEFICIO DE LA COMUNIDAD, SERÁN OBLIGATORIOS PARA LAS PERSONAS AGRESORAS DE MUJERES”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27958/LXII/20 QUE REFORMA Y ADICIONA LOS ARTÍCULOS 10, 28, 29, 34, 40, 41, 57 A Y 57 B, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, SE DEROGA EL ARTÍCULO 135 BIS Y SE ADICIONAN LOS ARTÍCULOS 176 BIS 1 Y 176 BIS 2, DEL CÓDIGO PENAL, AMBAS LEYES DEL ESTADO DE JALISCO, CON EL OBJETO DE PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA DIGITAL CONTRA LAS MUJERES, CONOCIDA COMO LEY OLIMPIA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO. Las secretarías y las instituciones señaladas en el presente decreto contaran con un plazo no mayor a 90 días posteriores a la publicación del presente decreto para la creación e implementación de los programas, protocolos y políticas para la prevención, atención, sanción y erradicación de la violencia digital.
