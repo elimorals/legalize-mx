@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2020-02-27"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -4285,9 +4285,9 @@ Cuando el Proyecto Definitivo de Urbanización proponga una modificación en el 
 
 El dictamen técnico señalado en el presente artículo deberá ser sometido a consulta pública de acuerdo con los procedimientos señalados en el artículo 98 del presente Código.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-En ningún caso se autorizarán obras de urbanización en predios que hubiesen sido incendiados de manera intencional, decretado así, previo dictamen emitido por la Secretaría de Medio Ambiente y Desarrollo Territorial, por el término de veinte años.
+En ningún caso se autorizarán obras de urbanización en predios que hubiesen sido incendiados de manera intencional, decretado así, previo dictamen emitido por la Secretaría de Medio Ambiente y Desarrollo Territorial, por el término de cincuenta años.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -6464,3 +6464,9 @@ P.O. 27 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27808/LXII/20 MEDIANTE EL CUAL SE REFORMA (SIC) LOS ARTÍCULOS 26, NUMERAL 1, FRACCIÓN II DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO Y EL ARTÍCULO 10, FRACCIÓN XLIX DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27944/LXII/20 QUE ADICIONA EL ARTÍCULO 58 BIS A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y SE REFORMA EL ARTÍCULO 251 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
