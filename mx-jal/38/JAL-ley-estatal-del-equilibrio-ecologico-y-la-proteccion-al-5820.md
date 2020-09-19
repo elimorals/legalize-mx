@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2020-06-16"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -75,149 +75,153 @@ Para los efectos de esta ley, se tomarán las definiciones de la Ley General del
 
 I. Actividades riesgosas: Aquellas actividades que conllevan la utilización de materiales peligrosos que de conformidad a la legislación federal y disposiciones aplicables no se consideran actividades altamente riesgosas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-II. Áreas destinadas voluntariamente a la conservación: Son predios que reúnen las características de áreas naturales protegidas y que sus propietarios o legítimos posesionarios los destinan de manera voluntaria para ser conservados y cuentan con el certificado correspondiente emitido por la Secretaría;
+II. Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-III. Áreas naturales protegidas: Las zonas del territorio estatal en que los ecosistemas originales que las conforman no han sido significativamente alterados por la actividad del hombre, y que han quedado sujetas al régimen de protección;
+III. Áreas destinadas voluntariamente a la conservación: Son predios que reúnen las características de áreas naturales protegidas y que sus propietarios o legítimos posesionarios los destinan de manera voluntaria para ser conservados y cuentan con el certificado correspondiente emitido por la Secretaría;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VI (SIC). Capacidad de amortiguamiento de los ecosistemas: Se refiere a la cualidad intrínseca que poseen los ecosistemas para recuperar su estructura y función después de sufrir un impacto ambiental negativo;
+IV. Áreas naturales protegidas: Las zonas del territorio estatal en que los ecosistemas originales que las conforman no han sido significativamente alterados por la actividad del hombre, y que han quedado sujetas al régimen de protección;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-V. Capacidad de carga ambiental: Respuesta de un ecosistema a las diversas actividades o acciones productivas del desarrollo, sin que se afecte su condición natural y/o aumente su fragilidad;
+V. Auditoría ambiental. Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Composta: Producto resultante del tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
+VI. Cambio climático. Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Condición natural clímax: Características que hacen a un ecosistema mantener la estabilidad, el desarrollo y la evolución de cada uno de sus elementos, cuya composición y estructura es remotamente conocida;
+VII. Capacidad de amortiguamiento de los ecosistemas: Se refiere a la cualidad intrínseca que poseen los ecosistemas para recuperar su estructura y función después de sufrir un impacto ambiental negativo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Corta sanitaria: Medida para prevenir y evitar la degradación provocada por algún agente patógeno en especies como árboles, arbustos y otras plantas;
+VIII. Capacidad de carga ambiental: Respuesta de un ecosistema a las diversas actividades o acciones productivas del desarrollo, sin que se afecte su condición natural y/o aumente su fragilidad;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Criterios ambientales: Los lineamientos y conceptos necesarios para preservar, restaurar y conservar el equilibrio de los ecosistemas y proteger al ambiente, en el marco del desarrollo sustentable;
+IX. Composta: Producto resultante del tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-X. Desequilibrio ambiental: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman al ambiente que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+X. Condición natural clímax: Características que hacen a un ecosistema mantener la estabilidad, el desarrollo y la evolución de cada uno de sus elementos, cuya composición y estructura es remotamente conocida;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Ecoturismo: Es la actitud de respeto, admiración e interacción del hombre con la cultura y naturaleza en el desarrollo de actividades recreativas en entornos naturales dentro de un marco de sustentabilidad, propiciando un involucramiento activo y socioeconómico en beneficio de las poblaciones locales, principalmente a través de una modalidad turística ambientalmente responsable;
+XI. Contaminación acústica. La presencia en el ambiente de sonidos molestos e intempestivos que rebasen los límites máximos permisibles señalados en las normas oficiales que para el efecto emitan las autoridades competentes; o aquel que por su intensidad, duración o frecuencia, implique daño, riesgo o perjudique el bienestar de las personas, con independencia de cuál sea la fuente que los origine;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Emergencia ambiental: Urgencia ante un problema ambiental que necesita solución inmediata;
+XII. Corta sanitaria: Medida para prevenir y evitar la degradación provocada por algún agente patógeno en especies como árboles, arbustos y otras plantas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Emisión contaminante: La generación o descarga de materia o energía en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los sistemas biótico y abiótico, afecte o pueda afectar negativamente su composición o condición natural;
+XIII. Criterios ambientales: Los lineamientos y conceptos necesarios para preservar, restaurar y conservar el equilibrio de los ecosistemas y proteger al ambiente, en el marco del desarrollo sustentable;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Estudio de impacto ambiental: Proceso de análisis de carácter interdisciplinario, basado en estudios de campo y gabinete, encaminado a identificar, predecir, interpretar, valorar, prevenir y comunicar los efectos de una obra, actividad o proyecto sobre el medio ambiente;
+XIV. Desequilibrio ambiental: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman al ambiente que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XV. Flora y fauna acuáticas: Las especies biológicas y elementos biogénicos que tienen como medio de vida temporal, parcial o permanente, las aguas del territorio del estado;
+XV. Ecoturismo: Es la actitud de respeto, admiración e interacción del hombre con la cultura y naturaleza en el desarrollo de actividades recreativas en entornos naturales dentro de un marco de sustentabilidad , propiciando un involucramiento activo y socioeconómico en beneficio de las poblaciones locales, principalmente a través de una modalidad turística ambientalmente responsable;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Fragilidad ambiental: Condición actual de un ecosistema, parte de él o de sus componentes, en comparación a su condición natural clímax;
+XVI. Emergencia ambiental: Urgencia ante un problema ambiental que necesita solución inmediata;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. Gestión ambiental: Conjunto de acciones orientadas a lograr la sustentabilidad en los procesos de defensa, protección y mejora ambiental;
+XVII. Emisión contaminante: La generación o descarga de materia o energía en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los sistemas biótico y abiótico, afecte o pueda afectar negativamente su composición o condición natural;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Secretaría: Secretaría de Medio Ambiente y Desarrollo Territorial;
+XVIII. Estudio de impacto ambiental: Proceso de análisis de carácter interdisciplinario, basado en estudios de campo y gabinete, encaminado a identificar, predecir, interpretar, valorar, prevenir y comunicar los efectos de una obra, actividad o proyecto sobre el medio ambiente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XIX. Información ambiental: Se considera a cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades estatales y municipales, en materia ambiental, de agua, aire, suelo, flora, fauna y recursos naturales en general, así como de las actividades o medidas que les afectan o pueden afectarles;
+XIX. Flora y fauna acuáticas: Las especies biológicas y elementos biogénicos que tienen como medio de vida temporal, parcial o permanente, las aguas del territorio del estado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XX. Mejoramiento: El restablecimiento e incremento en la calidad del ambiente;
+XX. Fragilidad ambiental: Condición actual de un ecosistema, parte de él o de sus componentes, en comparación a su condición natural clímax;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXI. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la materia;
+XXI. Gestión ambiental: Conjunto de acciones orientadas a lograr la sustentabilidad en los procesos de defensa, protección y mejora ambiental;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXII. Norma Oficial Mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias,
+XXII. Información ambiental. Se considera a cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades estatales y municipales, en materia ambiental, de agua, aire, suelo, flora, fauna y recursos naturales en general, así como de las actividades o medidas que les afectan o pueden afectarles;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXIII. Paisajes bioculturales: son territorios reconocidos como tales a través de una certificación otorgada por la Secretaría, que contribuyen a la gestión territorial integral, teniendo por objetivo proteger el patrimonio natural y cultural que les da identidad, mediante la planificación de los usos tradicionales del suelo y la promoción del crecimiento económico local a través del desarrollo rural y urbano sustentable;
+XXIII. Mejoramiento: El restablecimiento e incremento en la calidad del ambiente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXIV. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica o intelectual para la sociedad jalisciense;
+XXIV. Norma Oficial Mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXV. Reciclaje: El Proceso por el cual los residuos son transformados en productos nuevos, de tal manera que pierden su identidad original y se convierten en materia prima de nuevos productos;
+XXV. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la materia;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXVI. Recurso natural: elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XXVI. Paisajes bioculturales: son territorios reconocidos como tales a través de una certificación otorgada por la Secretaría, que contribuyen a la gestión territorial integral, teniendo por objetivo proteger el patrimonio natural y cultural que les da identidad, mediante la planificación de los usos tradicionales del suelo y la promoción del crecimiento económico local a través del desarrollo rural y urbano sustentable;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXVII. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar a través de la compactación e infraestructura adicionales los impactos ambientales;
+XXVII. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica o intelectual para la sociedad jalisciense;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXVIII. Rescate energético: Es la recuperación con fines de reutilización de una parte de la energía que fue utilizada en los procesos productivos que anteceden a la generación de residuos;
+XXVIII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXIX. Residuo incompatible: Aquél que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
+XXIX. Reciclaje: El Proceso por el cual los residuos son transformados en productos nuevos, de tal manera que pierden su identidad original y se convierten en materia prima de nuevos productos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXX. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+XXX. Recurso natural: elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXXI. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+XXXI. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar a través de la compactación e infraestructura adicionales los impactos ambientales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXXII. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas;
+XXXII. Rescate energético: Es la recuperación con fines de reutilización de una parte de la energía que fue utilizada en los procesos productivos que anteceden a la generación de residuos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIII. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
+XXXIII. Residuo incompatible: Aquél que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIV. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial;
+XXXIV. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXXV. Auditoría ambiental. Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente;
+XXXV. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXXVI. Cambio climático. Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables; y
+XXXVI. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XXXVII. Contaminación acústica. La presencia en el ambiente de sonidos molestos e intempestivos que rebasen los límites máximos permisibles señalados en las normas oficiales que para el efecto emitan las autoridades competentes; o aquel que por su intensidad, duración o frecuencia, implique daño, riesgo o perjudique el bienestar de las personas, con independencia de cuál sea la fuente que los origine.
+XXXVII. Secretaría: Secretaría de Medio Ambiente y Desarrollo Territorial; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVIII. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1384,6 +1388,12 @@ Las declaratorias deberán publicarse en el Periódico Oficial El Estado de Jali
 ###### Artículo 58.
 
 Una vez decretada y delimitada un área natural protegida, sólo podrá ser aumentada su extensión y, en su caso, se podrán cambiar las restricciones de usos del suelo por la autoridad que la haya establecido, de conformidad con los estudios que al efecto se realicen para aumentar su extensión o para cambiar las restricciones de usos del suelo.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 58 Bis.
+
+En caso de áreas naturales protegidas, que hubiesen registrado un incendio; no podrá ser cambiado el uso de suelo en las superficies afectadas por los incendios, y debe realizarse la restauración y recuperación de dicha área afectada.
 
 ###### Artículo 59.
 
@@ -3270,3 +3280,15 @@ P.O. 16 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27915/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 41 QUINQUES (SIC) Y 41 SEXIES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27943/LXII/20 QUE REFORMA EL ARTÍCULO 3 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN DEL AMBIENTE”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27944/LXII/20 QUE ADICIONA EL ARTÍCULO 58 BIS A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y SE REFORMA EL ARTÍCULO 251 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO ".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
