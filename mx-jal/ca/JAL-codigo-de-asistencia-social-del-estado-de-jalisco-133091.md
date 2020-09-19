@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-133091"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-01"
-last_updated: "2019-02-01"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 1 de febrero de 2019.
 
@@ -835,9 +835,11 @@ VIII. Los demás bienes que obtenga por cualquier título.
 
 El Hogar Cabañas quedará exento del pago de toda clase de contribuciones estatales. También lo estará respecto de las municipales, siempre que recaigan sobre los bienes de dominio público que posean.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 57.
 
-La vigilancia financiera y administrativa, así como la práctica de auditorías en el Hogar Cabañas estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, sin perjuicio de la intervención que le corresponda a la Auditoría Superior del Estado.
+El control, evaluación, vigilancia financiera y administrativa, así como la práctica de auditorías en el Hogar Cabañas estarán a cargo de su Órgano Interno de Control, sin perjuicio de la intervención que le corresponda a la Auditoría Superior del Estado.
 
 ### CAPÍTULO III. De los Órganos de Gobierno del Hogar Cabañas
 
@@ -849,9 +851,21 @@ I. La Junta de Gobierno;
 
 II. La Presidencia de la Junta de Gobierno;
 
-III. La Dirección General; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Las unidades técnicas y de administración que determinen las autoridades del mismo Hogar Cabañas y que se autoricen en su presupuesto de egresos.
+III. La Dirección General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+IV. La Delegación Institucional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+V. Un Órgano Interno de Control; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Las unidades técnicas y de administración que determinen las autoridades del mismo Hogar Cabañas y que se autoricen en su presupuesto de egresos.
 
 #### Sección Primera. De la Junta de Gobierno
 
@@ -867,9 +881,17 @@ a) Los titulares de la Secretaría General de Gobierno, de la Hacienda Pública,
 
 b) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de niñas, niños y adolescentes, con mayor mérito, inscrita, reconocida y propuesta por la Secretaría;
 
-c) El Director General del Organismo Estatal; y
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-d) Hasta dos Consejeros que por las necesidades del propio Hogar Cabañas se deban integrar, los cuales deberán ser de reconocida inclinación y vocación al servicio de la comunidad.
+c) El Director General del Organismo Estatal;
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+d) Hasta dos Consejeros que por las necesidades del propio Hogar Cabañas se deban integrar, los cuales deberán ser de reconocida inclinación y vocación al servicio de la comunidad; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+e) El titular de la Delegación Institucional del Hogar Cabañas.
 
 Los integrantes de la Junta de Gobierno contarán con voz y voto en las sesiones de la Junta de Gobierno. Ésta contará además con un secretario técnico que será el Director General del Hogar Cabañas, quien concurrirá a las sesiones con voz pero sin voto
 
@@ -883,13 +905,19 @@ Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones de
 
 Serán facultades de la Junta de Gobierno las siguientes:
 
-I. Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Hogar Cabañas para que sólo ingresen aquellas niñas, niños y adolescentes cuya situación económica o moral así lo amerite;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-II. Previo el estudio específico en cada caso, procurar a las personas residentes un hogar familiar por medio de la adopción o de custodias temporales;
+I. Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Hogar Cabañas para que sólo ingresen aquellas niñas, niños y adolescentes cuya situación económica o social lo amerite;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+II. Verificar que la Delegación Institucional procure para las personas residentes un hogar familiar por medio de la adopción o de custodias temporales;
 
 III. Proponer las medidas que tiendan a mejorar el tratamiento integral de las personas residentes, con el máximo rendimiento de sus recursos económicos;
 
-IV. Estudiar y adoptar las medidas necesarias para que las personas residentes que están por terminar su estancia en el Hogar Cabañas, puedan bastarse a sí mismos y sean capaces de formar su propio hogar;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Supervisar el diseño, planeación y ejecución de los proyectos de vida individualizado de los adolescentes residentes;
 
 V. Aprobar su presupuesto anual, así como los programas de trabajo que presente el Director General del Hogar Cabañas;
 
@@ -901,13 +929,19 @@ VIII. Expedir las disposiciones de carácter general necesarias para la adecuada
 
 IX. Aprobar el Organigrama General del Hogar Cabañas y sus modificaciones;
 
-X. Practicar auditorías contables y administrativas, así como visitas de inspección a todos los órganos del Hogar Cabañas cuando lo estime necesario;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Analizar y dictaminar en ejercicio de la facultad de auditoría, sobre la aplicación de las cuentas de administración;
+X. Solicitar al Órgano Interno de Control la práctica de auditorías contables y administrativas, así como visitas de inspección a todos los órganos del Hogar Cabañas cuando lo estime necesario;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Aprobar los dictámenes de las auditorías practicadas al Hogar Cabañas y los estados financieros;
 
 XII. Dictar las medidas necesarias para conservar el patrimonio del Hogar Cabañas;
 
-XIII. Acordar la expulsión de algún albergado cuando esté justificada; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Acordar la derivación y atención necesaria de residentes que no cubran con el perfil establecido en los lineamientos de ingreso y permanencia; y
 
 XIV. Las demás que señale este código y los reglamentos aplicables.
 
@@ -975,7 +1009,9 @@ VI. Celebrar convenios, contratos y actos jurídicos que sean indispensables par
 
 VII. Ejecutar las penas convencionales, así como determinar las sanciones que, en su caso, procedan por rescisión, en contra de los proveedores y demás entes o personas que, habiendo celebrado algún contrato o acuerdo de voluntades con el Hogar Cabañas, incumplan con el mismo en su perjuicio, de conformidad con la ley que regula la materia de compras gubernamentales y contratación de servicios;
 
-VIII. Expedir, con aprobación de la Junta de Gobierno, los nombramientos del personal del Hogar Cabañas;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Expedir, con aprobación de la Junta de Gobierno, los nombramientos de la Delegación Institucional y demás personal del Hogar Cabañas;
 
 IX. Llevar las relaciones de trabajo de acuerdo con las disposiciones legales;
 
@@ -1606,3 +1642,17 @@ JUAN ENRIQUE IBARRA PEDROZA
 El Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27972/LXII/20 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO Y DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. En tanto se nombra al titular del Órgano Interno de Control del Hogar Cabañas, las funciones serán ejercidas por el Órgano Interno de Control de la Secretaría a la que se encuentre sectorizado el organismo, sin perjuicio de la intervención que le corresponda a los entes fiscalizadores.
+
+TERCERO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las adecuaciones presupuestales necesarias para la creación de su Delegación Institucional.
+
+CUARTO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las acciones necesarias para armonizar su normatividad interna, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente decreto.
