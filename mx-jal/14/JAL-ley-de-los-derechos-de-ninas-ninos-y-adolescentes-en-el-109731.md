@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2019-11-23"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -75,27 +75,57 @@ I. Albergue o centro de asistencia social: El establecimiento, lugar o espacio, 
 
 II. Autoridades: Las autoridades y los servidores públicos de las dependencias y entidades del Poder Ejecutivo del Estado y de los Gobiernos Municipales, así como a los organismos constitucionales autónomos;
 
-III. Discriminación múltiple: Es resultado de la interseccionalidad de condiciones de vulnerabilidad que afecta a niñas, niños y adolescentes, por medio de actos de discriminación por más de una razón o motivo en el respeto, protección, promoción y ejercicio de sus derechos y libertades fundamentales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+III. Castigo corporal o físico: todo castigo en el que se utilice de manera severa o innecesaria la fuerza física y tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve;
 
-V. Programa Estatal: El Programa Estatal de Protección de Niñas, Niños y Adolescentes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio de la intervención que corresponda a la representación social;
+IV. Crianza positiva: la enseñanza de niñas, niños y adolescentes, la cual se basa en fijar las metas para aprender, darles información, apoyarles en su crecimiento y ayudarles a tener éxito, misma que se realiza de forma respetuosa, no violenta y de acuerdo a los principios del desarrollo infantil;
 
-VII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio de la intervención que corresponda a la representación social;
+V. Discriminación múltiple: Es resultado de la interseccionalidad de condiciones de vulnerabilidad que afecta a niñas, niños y adolescentes, por medio de actos de discriminación por más de una razón o motivo en el respeto, protección, promoción y ejercicio de sus derechos y libertades fundamentales;
 
-IX. Sistema Estatal DIF: El organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-X. Sistema Estatal de Protección: Es el Sistema local para la protección integral de los derechos de niñas, niños y adolescentes;
+VI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XI. Sistema Municipal de Protección: El sistema organizado en cada municipio para la protección integral de los derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Sistemas municipales DIF: Son los organismos públicos descentralizados de cada municipio denominados Sistema Municipal para el Desarrollo Integral de la Familia; y
+VII. Programa Estatal: El Programa Estatal de Protección de Niñas, Niños y Adolescentes;
 
-XIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio de la intervención que corresponda a la representación social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+X. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio de la intervención que corresponda a la representación social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Sistema Estatal DIF: El organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Sistema Estatal de Protección: Es el Sistema local para la protección integral de los derechos de niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Sistema Municipal de Protección: El sistema organizado en cada municipio para la protección integral de los derechos de niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Sistemas municipales DIF: Son los organismos públicos descentralizados de cada municipio denominados Sistema Municipal para el Desarrollo Integral de la Familia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
 
 ### CAPÍTULO II. De los Principios Rectores
 
@@ -377,7 +407,9 @@ Las autoridades están obligadas a tomar las medidas necesarias, de conformidad 
 
 I. El descuido y la negligencia;
 
-II. La violencia o el abuso físico, psicológico o de cualquier otro tipo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+II. La violencia, castigo corporal, o el abuso físico, psicológico, emocional o de cualquier otro tipo;
 
 III. La corrupción, tráfico y trata;
 
@@ -841,7 +873,9 @@ VII. Garantizar que la niña, niño o adolescente reciba educación obligatoria;
 
 VIII. Impulsar el desarrollo académico, cultural, artístico y científico;
 
-IX. Determinar límites y normas de conducta preservando el interés superior de la niñez; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Determinar límites y normas de conducta preservando el interés superior de la niñez, a través de la crianza positiva en los términos de la normatividad vigente, lo que en ningún caso implicará cualquier forma de maltrato o violencia que atente contra la dignidad humana, quedando prohibido el castigo corporal severo o innecesario; y
 
 X. Vigilar permanentemente que se preserve el goce y ejercicio de los derechos de niñas, niños y adolescentes.
 
@@ -859,7 +893,9 @@ IV. Fomentar el respeto a todas las personas, así como el cuidado de los bienes
 
 V. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
-VI. Abstenerse de cometer cualquier acto que atente contra su integridad física, psicológica, así como aquellos actos que menoscaben su desarrollo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Abstenerse de cometer cualquier acto que atente contra su integridad física o psicológica, aquellos que menoscaben su desarrollo, así como de utilizar el castigo corporal severo o innecesario como mecanismo de disciplina o crianza;
 
 VII. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes; y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
@@ -1231,13 +1267,17 @@ En caso de incumplimiento de las medidas urgentes de protección, el Procurador 
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes desarrollará los lineamentos y procedimientos para la restitución de los derechos de las niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 86.
 
-Con el fin de permitir la desconcentración regional, y a efecto de que se logre la mayor presencia y cobertura posible en los municipios del Estado, la Procuraduría de Protección de Niñas, Niños y Adolescentes se desempeñará de manera directa y a través de delegados institucionales, dependientes de los Sistemas DIF Municipales.
+Con el fin de permitir la desconcentración regional, y a efecto de que se logre la mayor presencia y cobertura posible en los municipios del Estado, la Procuraduría de Protección de Niñas, Niños y Adolescentes se desempeñará de manera directa y a través de delegados institucionales, dependientes de los Sistemas DIF Municipales y del Hogar Cabañas.
 
 Los Sistemas Municipales DIF, deberán constituir a los delegados institucionales, de acuerdo a las necesidades de su población de niñas, niños y adolescentes, a fin de proporcionarles todos los servicios necesarios para garantizar el goce de sus derechos.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes emitirá los lineamientos de operación a los que deberá ajustarse la actuación de los delegados institucionales municipales e intermunicipales.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes emitirá los lineamientos de operación a los que deberá ajustarse la actuación de los delegados institucionales municipales, intermunicipales y del Hogar Cabañas.
 
 ###### Artículo 87.
 
@@ -1836,3 +1876,21 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27520/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLECENTES, (SIC) DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY PARA LA OPERACIÓN DE ALBERGUES, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27971/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27972/LXII/20 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO Y DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. En tanto se nombra al titular del Órgano Interno de Control del Hogar Cabañas, las funciones serán ejercidas por el Órgano Interno de Control de la Secretaría a la que se encuentre sectorizado el organismo, sin perjuicio de la intervención que le corresponda a los entes fiscalizadores.
+
+TERCERO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las adecuaciones presupuestales necesarias para la creación de su Delegación Institucional.
+
+CUARTO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las acciones necesarias para armonizar su normatividad interna, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente decreto.
