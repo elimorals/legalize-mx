@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2018-09-25"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -89,11 +89,49 @@ En lo no previsto en esta Ley se aplicarán en forma supletoria y en lo conducen
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Reglamento: el Reglamento de la presente Ley; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+I. Área de Protección Forestal: Comprende los espacios forestales o boscosos colindantes a la zona federal y de influencia de nacimientos, corrientes, cursos y cuerpos de agua, o la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la autoridad, de acuerdo con el Reglamento de esta Ley;
 
-II. La Secretaría: La Secretaría de Medio Ambiente y Desarrollo Territorial.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+II. Bosque: Ecosistema forestal principalmente ubicado en zonas de clima templado en el que predominan especies leñosas perennes que se desarrollan de forma espontánea y que cuentan con las características para ser considerados terrenos forestales arbolados de acuerdo con esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+III. Consejo: Consejo Forestal Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Cultura Forestal: Son los conocimientos científicos y tradicionales, técnicas, hábitos y valores sobre el cuidado, manejo y aprovechamiento sustentable de los recursos forestales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+V. Degradación Forestal: Proceso de disminución de la capacidad de los suelos y ecosistemas forestales para brindar servicios ambientales, así como de su capacidad productiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Desarrollo Forestal Sustentable: Proceso evaluable y medible mediante criterios e indicadores de carácter ambiental, silvícola, económico y social que tienda a alcanzar una productividad óptima y sostenida de los recursos forestales sin comprometer el rendimiento, equilibrio e integridad de los ecosistemas forestales, que mejore el ingreso y la calidad de vida de las personas que participan en la actividad forestal y promueva la generación de valor agregado en las regiones forestales, diversificando las alternativas productivas y creando fuentes de empleo en el sector;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. La Secretaría: La Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Materia Forestal: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+X. Reforestación: Establecimiento de especies forestales en terrenos forestales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Reglamento: el Reglamento de la presente Ley.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN EN MATERIA FORESTAL
 
@@ -820,5 +858,11 @@ SEGUNDO. Las obras de urbanización iniciadas con anterioridad a la entrada en v
 P.O. 25 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26924/LXI/18 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27954/LXII/20 QUE REFORMA EL ARTÍCULO 5 DE LA LA (SIC) LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
