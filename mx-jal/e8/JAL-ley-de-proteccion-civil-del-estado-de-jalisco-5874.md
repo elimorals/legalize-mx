@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2019-12-28"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -599,11 +599,17 @@ I. Afirmar el sentido social de la función pública de protección civil, integ
 
 II. Establecer, fomentar y encauzar una nueva actitud, conciencia y cultura de la población ante la protección civil, para motivar en los momentos de alto riesgo, siniestro o desastre, una respuesta eficaz, amplia, responsable y participativa;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-III. Coordinar la acción del Estado y los municipios, para organizar y mejorar su capacidad de respuesta ante siniestros y desastres; y
+III. Coordinar la acción del Estado y los municipios, para organizar y mejorar su capacidad de respuesta ante siniestros y desastres;
 
-IV. Fortalecer y ampliar los medios de participación de la comunidad, para mejorar las funciones de protección civil.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Fortalecer y ampliar los medios de participación de la comunidad, para mejorar las funciones de protección civil; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+
+V. Establecer las instancias, mecanismos y procedimientos, para instrumentar y operar redes de detección, monitoreo, pronóstico, sistemas de alertamiento y medición de riesgos en coordinación con las dependencias responsables, a través de organismos y dependencias, entidades públicas o privadas especializadas, asegurando la existencia de alertas sísmicas públicas suficientes y la utilización de tecnologías de la información conforme a los lineamientos establecidos.
 
 ###### Artículo 19.
 
@@ -2328,5 +2334,11 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 28 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27771/LXII/19 QUE REFORMA LOS ARTÍCULOS 41 Y 85 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27953/LXII/20 QUE ADICIONA AL ARTÍCULO 18 LA FRACCIÓN V DE LA LA (SIC) LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
