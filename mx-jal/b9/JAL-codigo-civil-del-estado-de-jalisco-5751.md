@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2020-02-18"
+last_updated: "2020-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3965,9 +3965,9 @@ II. Tiene el carácter de intransmisible, salvo en los casos de adopción;
 
 III. Representa un deber positivo de trato continuo, que exige y requiere un despliegue eficaz y constante que cumpla su cometido; y
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Confiere el derecho, el deber y la responsabilidad de cuidar, criar y aplicar la corrección disciplinaria de manera prudente y moderada a sus hijos, así como la obligación de observar una conducta que sirva a éstos de buen ejemplo, garantizándoles su bienestar físico y emocional, así como la promoción del ordenado desarrollo de su personalidad, con el fin de educar de forma armónica y positiva.
+IV. Confiere el derecho, el deber y la responsabilidad de cuidar, criar y aplicar la corrección disciplinaria de manera prudente y moderada a sus hijos a través de la crianza positiva en los términos de la normatividad vigente, lo que de ninguna manera podrá ser a través de cualquier forma de maltrato o violencia que atente contra la dignidad humana, quedando prohibido el castigo corporal severo o innecesario; así como la obligación de observar una conducta que sirva a éstos de buen ejemplo, garantizándoles su bienestar físico y emocional, así como la promoción del ordenado desarrollo de su personalidad, con el fin de educar de forma armónica y positiva.
 
 ###### Art. 581.
 
@@ -4415,17 +4415,25 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal de tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Art. 639.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes en forma directa o a través de sus delegados institucionales, desempeñarán la tutela sin necesidad de discernimiento del cargo:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes en forma directa o a través de sus delegados institucionales o de la delegación institución (sic) del Hogar Cabañas, desempeñarán la tutela sin necesidad de discernimiento del cargo:
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 I. De los expósitos;
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 II. De niñas, niños y adolescentes abandonados sean estos huérfanos, expuestos por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes; y
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 III. De niñas, niños y adolescentes que se encuentren en acogimiento residencial en centros de asistencia social o albergues, instituciones educativas ya sean estas públicas o privadas, o cuando quienes la ejerzan sean ilocalizables.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 En todos los casos se estará a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y la legislación para la operación de albergues.
 
@@ -5353,39 +5361,63 @@ En los casos en que conforme a este código tenga que intervenir el curador, cob
 
 La protección y restitución integral de los derechos a las niñas, niños y adolescentes estará a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, de conformidad a la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, misma que se aplicará de manera supletoria a lo previsto en este Código.
 
-Para el cumplimiento de sus atribuciones en asuntos jurisdiccionales y administrativos la Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de agentes, o a través de delegados institucionales, de conformidad a la legislación de la materia.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+Para el cumplimiento de sus atribuciones en asuntos jurisdiccionales y administrativos la Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de agentes, o a través de delegados institucionales o del respectivo del Hogar Cabañas, de conformidad a la legislación de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Art. 775.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes, desempeñará las siguientes atribuciones:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, las delegaciones institucionales y la delegación institucional del Hogar Cabañas desempeñarán las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 I. Ejercer la representación en suplencia de una niña, niño o adolescente, y prestar asesoría jurídica a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público y a la representación social;
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 II. Intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 III. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 IV. Registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre­adoptivo, y de igual forma para las familias de acogida;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 V. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial o administrativa;
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 VI. Solicitar medidas para la suspensión de la difusión de información publicada en internet o por cualquier otro medio de comunicación que afecte los derechos humanos o ponga en riesgo objetivamente el sano desarrollo de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Substanciar de manera oficiosa o a petición de parte el procedimiento para la protección y restitución integral de los derechos de niñas, niños y adolescentes, conforme a lo previsto en la legislación de la materia;
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 VIII. Emitir bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 IX. Coordinar la ejecución y dar seguimiento a las medidas de seguridad y protección que se dicten para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada; y
 
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 X. Las demás previstas en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Art. 776.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes solicitará al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, e informará al órgano jurisdiccional competente, para que éste, dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, se pronuncie sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, las delegaciones institucionales y la delegación institucional del Hogar Cabañas, solicitarán al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, e informará al órgano jurisdiccional competente, para que éste, dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, se pronuncie sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 Asimismo, solicitará la imposición de las medidas de apremio, previstas en la legislación civil, en caso de incumplimiento de las medidas urgentes de protección.
 
@@ -19178,3 +19210,21 @@ P.O. 18 DE FEBRERO DE 20120.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27800/LXII/20 QUE REFORMA LOS ARTÍCULOS 685, 688 Y 689 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; Y EL ARTÍCULO 2045 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27971/LXII/20 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27972/LXII/20 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO Y DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. En tanto se nombra al titular del Órgano Interno de Control del Hogar Cabañas, las funciones serán ejercidas por el Órgano Interno de Control de la Secretaría a la que se encuentre sectorizado el organismo, sin perjuicio de la intervención que le corresponda a los entes fiscalizadores.
+
+TERCERO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las adecuaciones presupuestales necesarias para la creación de su Delegación Institucional.
+
+CUARTO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las acciones necesarias para armonizar su normatividad interna, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente decreto.
