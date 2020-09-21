@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-procuraduria-agraria-9235"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-28"
-last_updated: "2012-01-27"
+last_updated: "2020-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9235&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1996-12-20"
 ---
 # REGLAMENTO INTERIOR DE LA PROCURADURIA AGRARIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA PROCURADURÍA AGRARIA, PUBLICADO EN EL D.O.F. DE 21 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA PROCURADURÍA AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación el Sábado 28 de diciembre de 1996.
 
@@ -1014,3 +1016,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Quedará abrogado el Estatuto del Servicio Profesional Agrario, publicado en el Diario Oficial de la Federación el 14 de septiembre de 1994, una vez que entre en vigor el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria.
 
 TERCERO.- Los procedimientos de reclutamiento, selección, nombramiento y evaluación del personal de la Procuraduría Agraria, previstos en el Estatuto del Servicio Profesional Agrario, que no estén concluidos a la entrada en vigor del Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria, se concluirán observando lo previsto en el primero de los Estatutos citados.
+
+D.O.F. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA PROCURADURÍA AGRARIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Procuraduría Agraria, publicado en el Diario Oficial de la Federación el día veintiocho de diciembre de mil novecientos noventa y seis.
+
+TERCERO.- Todos los acuerdos y demás disposiciones administrativas que derivan del Reglamento que se abroga, conforme al transitorio anterior, continuarán vigentes en lo que no se opongan a las disposiciones del presente Reglamento que se expide.
+
+CUARTO.- Las erogaciones que se efectúen con motivo de la entrada en vigor del presente Reglamento, se realizarán con cargo al presupuesto que respectivamente le haya sido asignado a la Secretaría de Desarrollo Agrario, Territorial y Urbano y a la Procuraduría Agraria, en el Presupuesto de Egresos de la Federación, por lo que no se incrementara su presupuesto regularizable durante el presente ejercicio fiscal y subsecuentes, y cualquier modificación al mismo deberá realizarse mediante movimientos compensados conforme a las disposiciones aplicables.
+
+QUINTO.- Cuando, en términos del último párrafo del artículo 71 de este Reglamento, el auxilio que proporcione la Procuraduría Agraria al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos humanos, materiales o financieros, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
+
+SEXTO.- Los asuntos que se encuentran en trámite a la entrada en vigor de este Reglamento, serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se haya presentado el asunto.
