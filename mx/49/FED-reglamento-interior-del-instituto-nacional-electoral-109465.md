@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-electoral-109465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-19"
-last_updated: "2020-07-21"
+last_updated: "2020-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el miércoles 19 de agosto de 2015.
 
@@ -1261,9 +1261,11 @@ o) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 1. La Secretaría Ejecutiva es el órgano central de carácter unipersonal; encargado de coordinar a la Junta, de conducir la administración y supervisar el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto, de conformidad con las disposiciones aplicables, cuyo titular será el Secretario Ejecutivo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
 
-2. Para el cumplimiento de las atribuciones que la Ley Electoral le confiere, corresponde a la o el Secretario Ejecutivo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+2. Para el cumplimiento de las atribuciones que la Ley Electoral le confiere, corresponde a la persona titular de la Secretaria Ejecutiva:
 
 a) Actuar como Secretario del Consejo y de la Junta, respectivamente, así como remitir a los integrantes de dichos órganos colegiados los documentos y anexos necesarios, a través de medios digitales o electrónicos del Instituto;
 
@@ -1311,7 +1313,11 @@ r) Coordinar los trabajos de investigación que realice la Junta en términos de
 
 s) Suscribir conjuntamente con el Consejero Presidente, los convenios que se celebren para asumir la organización de los procesos electorales locales;
 
-t) En su carácter de Secretario del Consejo, realizar las acciones conducentes para sustanciar y formular los proyectos de resolución de los procedimientos administrativos sancionadores ordinarios y vigilar que la Unidad Técnica de lo Contencioso Electoral remita los procedimientos especiales sancionadores a la Sala Regional Especializada del Tribunal Electoral del Poder Judicial de la Federación, en los términos de la Ley Electoral y del Reglamento de la materia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+t) En su carácter de Secretaria o Secretario del Consejo, realizar las acciones conducentes para sustanciar y formular los proyectos de resolución de los procedimientos administrativos sancionadores ordinarios y vigilar que la Unidad Técnica de lo Contencioso remita los procedimientos especiales sancionadores a la Sala Regional Especializada del Tribunal Electoral del Poder Judicial de la Federación, en los términos de la Ley Electoral y del Reglamento de la materia.
 
 u) Ejercer la función de Oficialía Electoral, en términos del párrafo 3 del artículo 51 de la Ley Electoral y del Reglamento que al efecto emita el Consejo;
 
@@ -1345,9 +1351,17 @@ ee) Llevar a cabo el seguimiento de las auditorías del Instituto;
 
 ff) Supervisar y coordinar la elaboración, integración control y seguimiento del plan integral y calendario de los Procesos Electorales Federales, así como de los planes integrales de coordinación y calendarios con los Organismos Públicos Locales para los Procesos Electorales Locales, que lleven a cabo las áreas responsables;
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
 
-gg) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+gg) Emitir, con el apoyo y por conducto de la Unidad Técnica de lo Contencioso Electoral, las medidas de protección en el marco de los procedimientos especiales sancionadores relacionados con violencia política contra las mujeres en razón de género, así como aquéllas que sean competencia de otra autoridad, en los términos establecidos en el Reglamento de Quejas y Denuncias en materia de Violencia Política contra las Mujeres en Razón de Género, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf y https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/]</small>
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+hh) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. De las Direcciones Ejecutivas
 
@@ -1647,9 +1661,17 @@ t) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 ###### ARTÍCULO 48.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
 1. Para el cumplimiento de las atribuciones que la Ley Electoral le confiere, corresponde a la Dirección Ejecutiva del Servicio Profesional Electoral Nacional:
 
-a) Presentar a la Junta los programas y proyectos que con relación al Servicio Profesional Electoral Nacional formule la Dirección Ejecutiva;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+a) Planear, organizar, operar y evaluar el Servicio, en los términos previstos en la Ley, en el Estatuto y de conformidad con las disposiciones aprobadas por la Junta y el Consejo General;
 
 b) Organizar la participación de las diversas áreas del Instituto y de los organismos públicos locales en lo relativo al Servicio Profesional Electoral Nacional de conformidad con lo establecido en el Estatuto;
 
@@ -1659,13 +1681,29 @@ d) Proponer al Secretario Ejecutivo la participación de instituciones de educac
 
 e) Promover la coordinación de actividades y, en su caso, la celebración de convenios de cooperación técnica con instituciones nacionales, con la finalidad de apoyar los programas institucionales;
 
-f) Coordinar la elaboración de estudios relacionados con la integración, operación y desarrollo del Servicio Profesional Electoral Nacional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
 
-g) Integrar y actualizar el Catálogo de Cargos y de Puestos del Servicio y someterlo para su aprobación a la Junta;
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
-h) Regular la organización y funcionamiento del Servicio Profesional Electoral Nacional;
+f) Llevar a cabo los procesos de selección, ingreso al Servicio, profesionalización, capacitación, promoción, ascenso, incentivos, cambios de adscripción, rotación y evaluación de las y los miembros del Servicio, así como los procedimientos y programas de la Carrera en los términos del Estatuto;
 
-i) Formular el anteproyecto de Estatuto y las normas que regirán a los integrantes del Servicio Profesional Electoral Nacional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+g) Integrar, revisar y actualizar el Catálogo del Servicio y someterlo para su aprobación a la Junta, previo conocimiento de la Comisión del Servicio Profesional Electoral Nacional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+h) Proponer a la Junta los lineamientos para la organización, funcionamiento y operación del Servicio Profesional Electoral Nacional, a excepción de los correspondientes a disciplina, así como las modificaciones, adiciones, o reformas a los mismos, previo conocimiento de la Comisión del Servicio Profesional Electoral Nacional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+i) Proponer a la Junta, previo conocimiento de la Comisión del Servicio, el anteproyecto de modificaciones, adiciones o reformas al Estatuto, en el ámbito de su competencia;
 
 j) Elaborar los dictámenes de cumplimiento de requisitos por parte de los Vocales Ejecutivos del Instituto, para ser designados Presidentes de Consejo durante proceso electoral, conforme lo establece la Ley Electoral, el Estatuto y demás disposiciones que para el efecto se emitan, y
 
@@ -1753,6 +1791,10 @@ aa) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables
 
 ###### ARTÍCULO 50.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
 1. Para el cumplimiento de las atribuciones que la Ley Electoral le confiere, corresponde a la Dirección Ejecutiva de Administración:
 
 a) Presentar al Secretario Ejecutivo para su aprobación, las políticas y normas generales para el ejercicio y control del presupuesto;
@@ -1835,9 +1877,17 @@ cc) Coordinar las actividades de las unidades responsables del Instituto en mate
 
 dd) Dirigir las actividades de las unidades responsables en el Instituto a efecto de implementar un modelo de gestión por procesos, en acuerdo con las autoridades del Instituto y
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
 
-ee) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables;
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+ee) Intervenir en la elaboración de los contratos que celebre el Instituto con prestadores de servicios sujetos a la legislación civil, en coordinación con la Dirección Jurídica, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf y https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/]</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+ff) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 DELEGACIONALES
 
@@ -2383,6 +2433,10 @@ y) Las demás que le confiera este Reglamento y otras disposiciones aplicables.
 
 ###### ARTÍCULO 67.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
 1. La Dirección Jurídica estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
@@ -2481,9 +2535,33 @@ aa) Acordar con el Secretario Ejecutivo del Instituto los asuntos de su competen
 
 bb) Sustanciar y resolver los procedimientos de responsabilidad patrimonial del Estado, que se promuevan contra el Instituto, y
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
 
-cc) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+cc) Recibir las denuncias o quejas que se presenten en contra del personal del Instituto, así como de las consejerías locales y distritales;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+dd) Brindar la atención y orientación al personal del Instituto respecto de asuntos vinculados con posibles conductas de hostigamiento y/o acoso sexual o laboral;
+
+[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf](ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)
+
+ee) Llevar a cabo la investigación respecto de las denuncias o quejas que se presenten en contra del personal del Instituto, así como de las consejerías locales y distritales en los términos precisados para cada una de ellas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+ff) Sustanciar el procedimiento laboral sancionador y proponer al titular de la Secretaría Ejecutiva el proyecto de resolución respectivo, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+gg) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
 2. (DEROGADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)
 
@@ -2553,41 +2631,125 @@ w) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### ARTÍCULO 70.
 
-1. La Unidad Técnica de Igualdad de Género y no Discriminación estará adscrita a la Presidencia del Consejo y tendrá las atribuciones siguientes:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+1. La Unidad Técnica de Igualdad de Género y no Discriminación estará adscrita a la Presidencia del Consejo General y tendrá las atribuciones siguientes:
 
 a) Proponer a la Presidencia del Consejo, por conducto de su titular, los programas, estrategias de trabajo y presupuesto de esta Unidad conforme a las atribuciones señaladas en el presente artículo y otras disposiciones para que, una vez aprobados por la propia Presidencia del Consejo, se incorporen a la propuesta de Planeación Institucional, así como el Proyecto de Presupuesto correspondiente;
 
 b) Proponer a la Presidencia del Consejo General, para su aprobación por la Junta y el Consejo, la Política Institucional en materia de igualdad de género y no discriminación para el Instituto, así como promover las actualizaciones que correspondan, de acuerdo a las necesidades institucionales;
 
-c) Proponer a las Direcciones Ejecutivas, Unidades Técnicas, y órganos desconcentrados, la implementación de políticas, programas y proyectos de no discriminación y en materia de igualdad de género, con base en la Política Institucional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
 
-d) Brindar apoyo especializado y asesoría a las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados, en la formulación de sus políticas, programas y proyectos para hacerlos congruentes con la Política Institucional en materia de igualdad de género y no discriminación para el Instituto;
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+c) Proponer a las Direcciones Ejecutivas, Unidades Técnicas, y órganos desconcentrados, la implementación de políticas, programas y proyectos en materia de paridad de género, igualdad sustantiva, así como de prevención y erradicación de la violencia política contra las mujeres en razón de género con base en la Política Institucional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+d) Brindar apoyo especializado y asesoría a las Direcciones Ejecutivas, Unidades Técnicas y órganos desconcentrados, en la formulación de sus políticas, programas y proyectos para hacerlos congruentes con la Política Institucional en materia de igualdad y no discriminación, paridad de género, igualdad sustantiva, así como prevención y erradicación de la violencia política contra las mujeres en razón de género para el Instituto;
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
 
 e) Integrar al modelo de planeación y visión estratégica institucional la perspectiva de género y no discriminación, con la supervisión y colaboración de la Secretaría Ejecutiva;
 
-f) Proponer a la Junta las medidas conducentes para institucionalizar y transversalizar la igualdad de género y no discriminación en los programas y proyectos de las distintas áreas del Instituto, para su presentación al Consejo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
 
-g) Analizar los procesos institucionales y, en su caso, proponer el rediseño de los mismos propiciando que la perspectiva de género y no discriminación se integre en cualquier acción que planifique programas o proyectos, en todas las áreas y en todos los niveles;
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
+f) Proponer a la Junta, previo conocimiento para análisis u observaciones por parte de la Comisión de Igualdad de Género y No Discriminación, las medidas conducentes para institucionalizar y transversalizar la igualdad de género, la paridad de género, la no discriminación y la prevención y erradicación de la violencia política contra las mujeres en razón de género en los programas y proyectos de las distintas áreas del Instituto, para su presentación al Consejo;
 
-h) Dar seguimiento y analizar la información que se genere acerca del desarrollo y cumplimiento de los programas y proyectos institucionales en materia de igualdad de género y no discriminación, para apoyar la toma oportuna de decisiones, en coordinación con la Secretaría Ejecutiva;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+g) Analizar los procesos institucionales y, en su caso, proponer el rediseño de los mismos propiciando que la perspectiva de género, la paridad de género, la no discriminación, el principio de igualdad y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral se integre en cualquier acción que planifique programas o proyectos, en todas las áreas y en todos los niveles;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+h) Dar seguimiento e informar a la Comisión de Igualdad de Género y No Discriminación acerca del desarrollo y cumplimiento de los programas y proyectos institucionales en materia de igualdad, paridad de género, no discriminación y violencia política contra las mujeres en razón de género, para apoyar la toma oportuna de decisiones, en coordinación con la Secretaría Ejecutiva;
 
 i) Integrar, bajo la supervisión de la Presidencia, los informes trimestrales y anual, mismos que deberán presentarse a la Junta y al Consejo, respectivamente;
 
-j) Asesorar a la Junta y al Consejo para la incorporación de la perspectiva de igualdad de género y no discriminación en sus Resoluciones y Acuerdos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+j) Asesorar a la Junta y al Consejo para la incorporación de la perspectiva de género, la no discriminación y el principio de paridad en sus Resoluciones y Acuerdos;
 
 k) Propiciar espacios laborales libres de violencia al atender las responsabilidades que correspondan del Protocolo para la prevención, atención y sanción del hostigamiento y acoso sexual o laboral;
 
-l) Coordinar, bajo la supervisión de la Presidencia, la relación interinstitucional en el ámbito gubernamental, social, nacional e internacional en materia de género y no discriminación por parte del Instituto, que se requiera tanto para el fortalecimiento de la institucionalización y transversalización al interior de éste, como en la coadyuvancia que en esta materia se tenga para el Estado Mexicano;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
 
-m) Divulgar al interior del Instituto la información relacionada con la perspectiva de género y no discriminación, para concientizar a las personas de la exigibilidad de sus derechos, y
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
-n) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
+l) Coordinar, bajo la supervisión de la Presidencia, la relación interinstitucional en el ámbito gubernamental, social, nacional e internacional en materia de derechos humanos de las mujeres, igualdad, paridad de género, no discriminación; así como prevención y erradicación de la violencia política contra las mujeres en razón de género, por parte del Instituto, que se requiera tanto para el fortalecimiento de la institucionalización y transversalización al interior de éste, como en la coadyuvancia que en esta materia se tenga para el Estado Mexicano;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+m) Divulgar al interior del Instituto la información relacionada con la perspectiva de género, no discriminación y el principio de paridad para concientizar a las personas de la exigibilidad de sus derechos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+n) Coordinar la presupuestación y emisión de informes de seguimiento del apartado correspondiente del Presupuesto de Egresos de la Federación, referente a las erogaciones para la igualdad entre mujeres y hombres que presupueste el Instituto, así como asesorar a las Direcciones Ejecutivas y Unidades Técnicas en la materia;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+o) Coadyuvar con la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica en el diseño e instrumentación de las campañas de educación cívica e información para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+p) Coordinar y coadyuvar en las acciones que se realicen en materia de violencia política contra las mujeres en razón de género con las distintas áreas del Instituto;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+q) Coadyuvar en la vigilancia del cumplimiento de las disposiciones en materia de violencia política contra las mujeres en razón de género;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+r) Emitir opinión especializada relacionada con los elementos que se requieren para determinar la existencia de violencia política contra las mujeres en razón de género;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+s) Conducir los trabajos que guíen la participación institucional en el sistema nacional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en razón de género;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+t) Asesorar en la transversalización de la perspectiva de género, en las actividades de los órganos del Instituto, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+u) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
 ###### ARTÍCULO 71.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
 1. La Unidad Técnica de lo Contencioso Electoral, estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
@@ -2595,13 +2757,21 @@ a) La tramitación de los procedimientos sancionadores y demás que determine la
 
 b) Apoyar al Secretario Ejecutivo en la sustanciación del procedimiento de remoción de los Consejeros Electorales de los Organismos Públicos Locales, cuando tenga conocimiento de hechos que actualicen alguna de las causas de procedencia previstas en la Ley Electoral;
 
-c) Sustanciar los procedimientos especiales y ordinarios sancionadores que deriven de quejas en las que se denuncien infracciones a la normatividad electoral;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+c) Sustanciar los procedimientos especiales y ordinarios sancionadores que deriven de quejas en las que se denuncien infracciones a la normatividad electoral; así como sustanciar en cualquier momento, el procedimiento especial sancionador, de manera oficiosa o cuando se presenten denuncias por hechos relacionados con violencia política contra las mujeres en razón de género;
 
 d) Apoyar al Secretario Ejecutivo en la integración de informes que correspondan, relativos a los asuntos de su competencia;
 
 e) Remitir para su resolución los expedientes de los procedimientos especiales sancionadores a la Sala Regional Especializada del Tribunal Electoral del Poder Judicial de la Federación una vez agotadas las diligencias de investigación;
 
-f) Remitir a la Comisión de Quejas y Denuncias los proyectos de resolución de los procedimientos ordinarios y así como los relacionados con la adopción de medidas cautelares;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf, https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/ Y https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114501/CG2ex202008-31-ap-2.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+f) Remitir a la Comisión de Quejas y Denuncias los proyectos de resolución de los procedimientos ordinarios y los relacionados con la adopción de medidas cautelares que fueren necesarias, así como apoyar a la Secretaría Ejecutiva para la emisión de las medidas de protección correspondientes en los procedimientos relacionados con violencia política contra las mujeres en razón de género, competencia del Instituto.
 
 g) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
@@ -3530,3 +3700,27 @@ Tercero. Publíquese el presente Acuerdo en el Diario Oficial de la Federación,
 ## Artículo Transitorio
 
 Para efectos de lo establecido en el artículo 46, párrafo 1, inciso t), la digitalización de los libros se implementará a partir del 2021 y estará sujeto (sic) a la disponibilidad presupuestal.
+
+D.O.F. 21 DE SEPTIEMBRE DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE LOS PUNTOS DEL “EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL REGLAMENTO DE QUEJAS Y DENUNCIAS EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL.]</small>
+
+PRIMERO. Se aprueba el Reglamento de Quejas y Denuncias en Materia de Violencia Política contra las Mujeres en razón de Género, en los términos siguientes:
+
+[…]
+
+SEGUNDO. Se modifican los artículos 41, párrafo 2, incisos t) y gg); 48, párrafo 1, incisos a), f), g), h) e i); 50, párrafo 1, inciso ee); 67, párrafo 1, inciso cc); 70, párrafo 1, incisos c), d), f), g), h), j), l), m) y n); 71, párrafo 1, incisos c) y f). Se adicionan el inciso hh), del párrafo 2, del artículo 41; el inciso ff), del párrafo 1, del artículo 50; los incisos dd), ee), ff) y gg), del párrafo 1, del artículo 67; los incisos o), p), q), r), s), t) y u), del párrafo 1, del artículo 70, todos del Reglamento Interior, para quedar en los siguientes términos:
+
+[…]
+
+CUARTO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+QUINTO. Publíquese el presente acuerdo en la Gaceta Electoral, en NormaINE, en el portal de internet del Instituto Nacional Electoral y un extracto en el Diario Oficial de la Federación.
+
+El Consejero Presidente del Consejo General del Instituto Nacional Electoral, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario Ejecutivo y Secretario del Consejo del Instituto Nacional Electoral,] Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo integro puede ser consultado en las siguientes direcciones electrónicas:
+
+DOF: www.dof.gob.mx/2020/INE/CGext202008_31_ap_2.pdf
+
+INE Acuerdo: https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-31-de-agosto-de-2020/
