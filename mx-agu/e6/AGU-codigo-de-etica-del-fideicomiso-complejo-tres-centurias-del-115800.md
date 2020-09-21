@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-fideicomiso-complejo-tres-centurias-del-115
 country: "mx"
 rank: "codigo"
 publication_date: "2016-07-11"
-last_updated: "2016-07-11"
+last_updated: "2020-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL FIDEICOMISO COMPLEJO TRES CENTURIAS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL FIDEICOMISO COMPLEJO TRES CENTURIAS, PUBLICADO EN EL P.O. DE 21 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL FIDEICOMISO COMPLEJO TRES CENTURIAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de julio de 2016.
 
@@ -441,3 +443,21 @@ MIEMBROS DEL COMITÉ TECNICO
 5.- Vocal: ING. PEDRO DE LA SERNA LOPEZ. Presidente del Consejo Coordinador Empresarial.
 
 6.- Vocal Suplente: LIC. YARMELINE PUENTE DIAZ. Directora del Centro Empresarial Aguascalientes, COPARMEX.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL FIDEICOMISO COMPLEJO TRES CENTURIAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas aquellas disposiciones que refieran al tema de ética para el Fideicomiso Complejo Tres Centurias, emitidas con anterioridad al presente documento.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan a lo previsto en el presente acuerdo.
