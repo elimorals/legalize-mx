@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2018-del-pleno-del-consejo-de-la-131556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-11-13"
-last_updated: "2019-03-06"
+last_updated: "2020-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2018-11-05"
 
 ACUERDO GENERAL 36/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN ENSENADA; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 6 DE MARZO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de noviembre de 2018.
 
@@ -63,7 +61,9 @@ El presente Acuerdo tiene por objeto regular la organización, funcionamiento e 
 
 Para efectos del presente Acuerdo se entenderá por:
 
-I. Administrador: Juez de Distrito encargado de la administración del Centro de Justicia Penal Federal;
+> <small>(REFORMADA POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+I. Administrador: Administrador del Centro de Justicia Penal Federal, en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal;
 
 II. Centro: Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Ensenada;
 
@@ -73,7 +73,13 @@ IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
 
 V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio;
 
-VI. Juzgadores: Jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
+> <small>(ADICIONADA POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+V. Bis. Juez de Ejecución: Juez de Distrito especializado en el sistema penal acusatorio con competencia en ejecución;
+
+> <small>(REFORMADA POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Juzgadores: Jueces de Control, Juez de Ejecución, así como tribunales de Enjuiciamiento y de Alzada;
 
 VII. Pleno: Pleno del Consejo; y
 
@@ -165,11 +171,19 @@ Los jueces de control contarán con un sistema de acceso electrónico, mediante 
 
 En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
 
-I. La sustitución recaerá en otro juez de Distrito del mismo Centro, con exclusión del juez de ejecución; y
+> <small>(REFORMADA POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
-II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal Federal más cercano.
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro; y
+
+> <small>(REFORMADA POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+II. De no ser posible la sustitución en los términos previstos en la fracción anterior, deberá hacerse del conocimiento de la Secretaría Ejecutiva de Creación de Nuevos Órganos y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para que sea analizada y en su caso, se efectúe la propuesta respectiva al órgano competente a fin de que se determine el Juez al que le corresponderá la sustitución.
 
 Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Decimoquinto Circuito, con residencia en Tijuana, Baja California, en el orden de su denominación y en caso de que ello no sea posible, la sustitución recaerá en los Tribunales de Alzada del Centro de Justicia Penal más cercano, en los mismos términos; en el entendido que conocerán de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO POR EL PUNTO TRIGESIMOSEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
 
 ###### Artículo 18.
 
@@ -242,3 +256,13 @@ QUINTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal 
 SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 36/2018, del Pleno del Consejo de la Judicatura Federal, por el que inicia funciones el Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Ensenada; y que reforma y adiciona disposiciones de diversos acuerdos generales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de diecisiete de octubre de dos mil dieciocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández.- Ciudad de México, a cinco de noviembre de dos mil dieciocho.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
