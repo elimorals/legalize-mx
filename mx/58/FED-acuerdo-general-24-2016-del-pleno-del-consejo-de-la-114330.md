@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2016-del-pleno-del-consejo-de-la-114330"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-04-28"
-last_updated: "2018-08-24"
+last_updated: "2020-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-04-20"
 
 ACUERDO GENERAL 24/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SONORA, CON RESIDENCIA EN HERMOSILLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de abril de 2016.
 
@@ -105,7 +105,9 @@ El Centro iniciará funciones a partir de las cero horas del veintinueve de abri
 
 El Centro se integrará por los jueces de Distrito y Tribunales de Alzada que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
 
-Los jueces de Distrito, con excepción del Juez de Ejecución, tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO POR EL PUNTO VIGESIMOQUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+Los jueces de Distrito tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
 
 El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
@@ -201,9 +203,13 @@ Los jueces de control contarán con un sistema de acceso electrónico, mediante 
 
 En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
 
-I. La sustitución recaerá en otro juez de Distrito del mismo Centro, con exclusión del Juez de Ejecución; y
+> <small>(REFORMADA POR EL PUNTO VIGESIMOQUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
-II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal Federal más cercano.
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro; y
+
+> <small>(REFORMADA POR EL PUNTO VIGESIMOQUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+II. De no ser posible la sustitución en los términos previstos en la fracción anterior, deberá hacerse del conocimiento de la Secretaría Ejecutiva de Creación de Nuevos Órganos y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para que sea analizada y en su caso, se efectúe la propuesta respectiva al órgano competente a fin de que se determine el Juez al que le corresponderá la sustitución.
 
 Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Quinto Circuito con residencia en Hermosillo, Sonora, para conocer, con ese carácter y en el orden numérico de su denominación de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
@@ -819,7 +825,13 @@ DÉCIMO TERCERO. Las referencias que se hagan en cualquier disposición al Juez 
 
 DÉCIMO CUARTO. La Visitaduría Judicial deberá presentar al Pleno la propuesta de metodología de inspección a los Centros de Justicia Penal Federal, en términos de lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIII-474 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2°, FRACCIONES IV Y XVI; 4°, FRACCIÓN IV; 11, FRACCIÓN III; 14 FRACCIÓN III, 22; 24; 25, PÁRRAFO PRIMERO Y SU FRACCIÓN I, Y PÁRRAFO SEGUNDO; 25 BIS, PÁRRAFOS PRIMERO Y SEGUNDO; 26 PÁRRAFO PRIMERO Y SU FRACCIÓN XXIII, Y PÁRRAFO SEGUNDO; 27; 28, PÁRRAFO PRIMERO Y SUS FRACCIONES I, II, Y III; 31; 34; 38; 43; 44, FRACCIÓN IX; 45 BIS, PÁRRAFOS PRIMERO Y TERCERO; 46, PÁRRAFO PRIMERO Y FRACCIÓN II; 50; 56, FRACCIÓN IV; 63; 65, FRACCIÓN VI; 68; 70, FRACCIÓN II; 77; 79, PÁRRAFO PRIMERO; 91; 92, PÁRRAFO PRIMERO; 93; ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO V PERTENECIENTE AL TÍTULO PRIMERO; Y SE ADICIONAN LA FRACCIÓN XXIV, RECORRIÉNDOSE LA ACTUAL PARA SER XXV AL ARTÍCULO 26; Y EL CAPÍTULO I BIS AL TÍTULO SEGUNDO DENOMINADO "DE LA IMPLEMENTACIÓN DEL CÓDIGO ADAM" QUE CONTIENE LOS ARTÍCULOS 63 BIS, 63 TER, 63 QUATER, Y 63 QUINQUIES, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+D.O.F. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
 
