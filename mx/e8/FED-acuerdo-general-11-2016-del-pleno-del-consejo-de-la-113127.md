@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2016-del-pleno-del-consejo-de-la-113127"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2018-09-21"
+last_updated: "2020-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113127&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 11/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE QUINTANA ROO, CON RESIDENCIA EN CANCÚN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2020.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -103,7 +103,9 @@ El Centro iniciará funciones a partir de las cero horas del veintinueve de febr
 
 El Centro se integrará por los jueces de Distrito y Tribunales de Alzada que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
 
-Los jueces de Distrito, con excepción del Juez de Ejecución, tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO POR EL PUNTO VIGESIMOCUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+Los jueces de Distrito tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
 
 El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
@@ -197,9 +199,13 @@ Los jueces de control contarán con un sistema de acceso electrónico, mediante 
 
 En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
 
-I. La sustitución recaerá en otro juez de Distrito del mismo Centro, con exclusión del Juez de Ejecución; y
+> <small>(REFORMADA POR EL PUNTO VIGESIMOCUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
-II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal Federal más cercano.
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro; y
+
+> <small>(REFORMADA POR EL PUNTO VIGESIMOCUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+II. De no ser posible la sustitución en los términos previstos en la fracción anterior, deberá hacerse del conocimiento de la Secretaría Ejecutiva de Creación de Nuevos Órganos y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para que sea analizada y en su caso, se efectúe la propuesta respectiva al órgano competente a fin de que se determine el Juez al que le corresponderá la sustitución.
 
 III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano.
 
@@ -854,3 +860,11 @@ SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artíc
 Los Tribunales Unitarios precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
 
 Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como Tribunal Unitario de Circuito."
+
+D.O.F. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
