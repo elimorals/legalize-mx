@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-118515"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-27"
-last_updated: "2018-02-16"
+last_updated: "2020-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-01-20"
 ---
 # REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES, PUBLICADO EN EL D.O.F. DE 21 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTO.]</small>
+
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2020 (SIN EFECTO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de enero de 2017.
 
@@ -1044,3 +1046,15 @@ PRIMERO. Las modificaciones al presente Reglamento entrarán en vigor a partir d
 SEGUNDO. Las presentes disposiciones tendrán efectos retroactivos siempre y cuando sea en beneficio de los/las investigadores(as). La retroactividad será aplicable en la operación administrativa del Sistema Nacional de Investigadores.
 
 TERCERO. La interpretación del Reglamento del Sistema Nacional de Investigadores, así como los asuntos no previstos en éste, serán resueltos por la Secretaría Ejecutiva del propio Sistema, con la opinión de la Unidad de Asuntos Jurídicos del Consejo Nacional de Ciencia y Tecnología.
+
+D.O.F. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES".]
+
+PRIMERO. Las modificaciones al presente Reglamento entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación. Quedan sin efecto todas aquellas disposiciones que se opongan al presente.
+
+SEGUNDO. Las presentes disposiciones tendrán efectos retroactivos siempre y cuando sea en beneficio de los/las investigadores(as). La retroactividad será aplicable en la operación administrativa del Sistema Nacional de Investigadores.
+
+TERCERO. La interpretación del Reglamento del Sistema Nacional de Investigadores, así como los asuntos no previstos en éste, serán resueltos por la Secretaría Ejecutiva del propio Sistema, con la opinión de la Unidad de Asuntos Jurídicos del Consejo Nacional de Ciencia y Tecnología.
+
+CUARTO. En cumplimiento a lo ordenado por el artículo Quinto del ACUERDO que fija los lineamientos que deberán ser observados por las dependencias y organismos descentralizados de la Administración Pública Federal, en cuanto a la emisión de los actos administrativos de carácter general a los que les resulta aplicable el artículo 69-H de la Ley Federal de Procedimiento Administrativo, y al artículo 78 de la Ley General de Mejora Regulatoria: I. Se elimina el requisito de estar inscrito en un programa de licenciatura o de posgrado en México, estos últimos preferentemente con reconocimiento en el Programa Nacional de Posgrados de Calidad del CONACYT o haber concluido esos estudios durante el año inmediato anterior para los ayudantes de Investigador Nacional nivel III e Investigador Nacional Emérito; II. Se elimina el requisito para los ayudantes de Investigador Nacional nivel III e Investigador Nacional Emérito, deben de ser menores de 35 años.
