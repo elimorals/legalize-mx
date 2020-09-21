@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2020-08-17"
+last_updated: "2020-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -9354,6 +9354,20 @@ d) Dos integrantes de la Comisión de Seguridad Pública, que serán elegidos de
 e) Dos representantes ciudadanos del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, los cuales serán elegidos democráticamente por los integrantes de dicho órgano.
 
 Esta comisión sesionará con la presencia del Presidente y al menos la mitad más uno de sus vocales. Cada miembro de la Comisión podrá designar, por escrito, a un representante para que lo supla en las sesiones, los que deberán pertenecer a las mismas áreas y cubrir en su caso, los mismos requisitos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 21 DE SEPTIEMBRE DE 2020)</small>
+
+Para el correcto desempeño de las actividades de esta Comisión, el Secretario Técnico, tendrá las siguientes facultades y obligaciones:
+
+I. Representar legalmente ante cualquier instancia a esta Comisión, en los procedimientos judiciales y administrativos con todos los derechos procesales que las disposiciones legales otorgan en cumplimiento de sus funciones;
+
+II. Suscribir escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones;
+
+III. Realizar y llevar a cabo las notificaciones emanadas de esta Comisión;
+
+IV. Presentar mensualmente ante los miembros de esta Comisión o cuando así lo requiera su Presidente, un informe detallado sobre los asuntos a su responsabilidad; y
+
+V. Las demás que le confiera o instruya la Comisión y las disposiciones legales aplicables.
 
 (REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
@@ -24798,3 +24812,9 @@ P.O. 17 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES AL REGLAMENTO DE DESARROLLO DE FRACCIONAMIENTOS, CONDOMINIOS, DESARROLLOS ESPECIALES Y SUBDIVISIONES PARA EL MUNICIPIO DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 614 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+PRIMERO: La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
