@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-de-las-personas-servidoras-publicas-de-la-13600
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-29"
-last_updated: "2019-04-29"
+last_updated: "2020-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 29 de abril de 2019.
 
@@ -477,6 +477,12 @@ p) Mostrar deliberadamente partes íntimas del cuerpo a una o varias personas.
 
 OCTAVO. Para la promoción del conocimiento y aplicación de los principios rectores, los valores y las reglas de integridad, así como para facilitar su eficacia en la prevención de la corrupción, la Comisión a través de la unidad administrativa correspondiente, llevará a cabo mecanismos de capacitación y difusión del Código de Ética y de las políticas de integridad, a través de cursos, talleres, conferencias, seminarios y demás análogos, de manera permanente y continua a las personas servidoras públicas de la Comisión.
 
+> <small>(ADICIONADO, G.G. 21 DE SEPTIEMBRE DE 2020)</small>
+
+NOVENO. Queda estrictamente prohibida cualquier forma de maltrato, violencia y segregación de las autoridades de la Comisión de Derechos Humanos del Estado de México hacia el personal y entre el personal en materia de: apariencia física, cultura, discapacidad, idioma, sexo, género, edad, condición social, económica, de salud o jurídica, embarazo, estado civil o conyugal, religión, opiniones, origen étnico o nacional, preferencias sexuales y/o situación migratoria, de conformidad con lo establecido en la Ley Federal para Prevenir y Eliminar la Discriminación.
+
+El incumplimiento a lo establecido en el presente Código de Ética será sancionado conforme a las disposiciones legales correspondientes.
+
 ## TRANSITORIOS
 
 PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado de México “Gaceta del Gobierno”, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
@@ -528,3 +534,13 @@ M. en D. María del Rosario Mejía Ayala
 Secretaria General de la Comisión de Derechos Humanos del Estado de México y Secretaria Técnica del Consejo Consultivo
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 7/2020-25, POR EL QUE SE ADICIONA EL NUMERAL NOVENO AL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. - Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. - El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno".
