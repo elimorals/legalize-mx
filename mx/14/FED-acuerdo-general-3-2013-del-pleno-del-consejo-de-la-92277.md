@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2020-03-11"
+last_updated: "2020-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -595,9 +595,15 @@ XIV. DECIMOCUARTO CIRCUITO: Estado de Yucatán.
 
 XV. DECIMOQUINTO CIRCUITO: En los tribunales colegiados con residencia en Mexicali, para las materias penal y administrativa, su jurisdicción es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora y por lo que toca a las materias civil y de trabajo, dicha jurisdicción se limita al municipio de San Luis Río Colorado del Estado de Sonora y a Mexicali, Baja California.
 
-Los tribunales colegiados en materias civil y de trabajo con residencia en Tijuana, tendrán jurisdicción en el territorio que comprende dicho municipio y en los diversos de Ensenada, Playas de Rosarito y Tecate, en el Estado de Baja California.
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
-Los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
+Los tribunales colegiados en materias civil y de trabajo con residencia en Tijuana, tendrán jurisdicción en el territorio que comprende dicho municipio y en los diversos de Ensenada, San Quintín, Playas de Rosarito y Tecate, en el Estado de Baja California.
+
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+Los tribunales unitarios con residencia en Mexicali, será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
 Los tribunales unitarios con residencia en Tijuana tendrán la misma que la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
 
@@ -783,7 +789,9 @@ Los juzgados de Distrito en el Estado de Baja California, con residencia en Mexi
 
 Los juzgados de Distrito en el Estado de Baja California, con residencia en Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Playas de Rosarito, Tecate y Tijuana.
 
-Los juzgados de Distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+
+Los juzgados de Distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre y en San Quintín.
 
 XVI. DECIMOSEXTO CIRCUITO:
 
@@ -1039,13 +1047,13 @@ I. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en
 
 > <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
 
-I. Bis. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Tecate y Playas de Rosarito;
+I Bis. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Tecate y Playas de Rosarito;
 
-> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
-I. Ter. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Ensenada, cuya jurisdicción territorial comprenderá dicho municipio;
+I Ter. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Ensenada, cuya jurisdicción territorial comprenderá dicho municipio y San Quintín;
 
-II. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Ensenada, Tecate y Playas de Rosarito;
+II. (DEROGADA POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
 
@@ -7768,3 +7776,15 @@ Los turnos de guardia semanal inician a las ocho horas con treinta minutos del d
 QUINTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, realizará todos los ajustes requeridos en el sistema de cómputo de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Nayarit con competencia en Procesos Penales Federales y de Amparo en Materia Penal, con residencia en Tepic para la distribución de las comunicaciones oficiales en materia de procesos penales federales conforme a lo dispuesto en el presente acuerdo.
 
 SEXTO. La Coordinación de Administración Regional y la Dirección General de Gestión Judicial diseñarán e implementarán, de forma coordinada entre sí, la logística necesaria para el envío de los asuntos al Juzgado Tercero de Distrito en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales en el Estado de Nayarit, ubicado en el Centro Federal de Readaptación Social No. 4 Noroeste, “El Rincón”, por parte de la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales en el Estado de Nayarit, con residencia en Tepic.
+
+D.O.F. 21 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO, EN RELACIÓN CON LA INCORPORACIÓN DEL MUNICIPIO DE SAN QUINTÍN A LA JURISDICCIÓN TERRITORIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+Los asuntos que se hayan recibido desde la creación del municipio de San Quintín y antes de la entrada en vigor del presente Acuerdo serán competencia de los órganos jurisdiccionales señalados en el presente instrumento normativo, en el entendido que ya tenían competencia desde que el municipio creado integraba el diverso de Ensenada.
+
+SEGUNDO. Infórmese la presente determinación a la Unidad de Consolidación del Nuevo Sistema de Justicia Penal, así como a las Direcciones Generales de Estadística Judicial, Gestión Judicial y de Tecnologías de la Información, para su conocimiento y efectos procedentes.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
