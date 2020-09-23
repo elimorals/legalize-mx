@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg314-2016-del-consejo-general-del-instituto-117495
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-12-05"
-last_updated: "2016-12-05"
+last_updated: "2020-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117495&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2016-05-04"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS “LINEAMIENTOS PARA EL ACCESO, VERIFICACIÓN Y ENTREGA DE LOS DATOS PERSONALES EN POSESIÓN DEL REGISTRO FEDERAL DE ELECTORES POR LOS INTEGRANTES DE LOS CONSEJOS GENERAL, LOCALES Y DISTRITALES, LAS COMISIONES DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES Y LOS ORGANISMOS PÚBLICOS LOCALES”
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2020.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 5 de diciembre de 2016.
 
@@ -66,3 +68,31 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 El anexo puede ser consultado en la siguiente dirección electrónica:
 
 http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/05_Mayo/CGex201605-04_01/CG1ex201605-04_ap_11_x1.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE SEPTIEMBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES A LOS LINEAMIENTOS PARA EL ACCESO, VERIFICACIÓN Y ENTREGA DE LOS DATOS PERSONALES EN POSESIÓN DEL REGISTRO FEDERAL DE ELECTORES POR LOS INTEGRANTES DE LOS CONSEJOS GENERAL, LOCALES Y DISTRITALES, LAS COMISIONES DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES Y LOS ORGANISMOS PÚBLICOS LOCALES, APROBADOS MEDIANTE ACUERDO INE/CG314/2016 Y RATIFICADOS EN EL DIVERSO INE/CG424/2018”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO. Se aprueban las modificaciones a los “Lineamientos para el acceso, verificación y entrega de los datos personales en posesión del Registro Federal de Electores por los integrantes de los Consejos General, Locales y Distritales, las Comisiones de Vigilancia del Registro Federal de Electores y los Organismos Públicos Locales”, aprobados mediante Acuerdo INE/CG314/2016 y ratificados en el diverso INE/CG424/2018, de conformidad con el Anexo que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, a hacer del conocimiento lo aprobado en el presente Acuerdo a los Organismos Públicos Locales de las entidades federativas.
+
+TERCERO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a informar a las y los integrantes de la Comisión Nacional de Vigilancia lo aprobado por este órgano superior de dirección.
+
+CUARTO. El presente Acuerdo entrará en vigor a partir del día de su aprobación por parte de este Consejo General.
+
+QUINTO. Publíquese el presente Acuerdo en la Gaceta Electoral y en el Diario Oficial de la Federación, así como en el portal electrónico del Instituto Nacional Electoral.
+
+El Acuerdo y el anexo pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-07-de-septiembre-de-2020/
+
+Página DOF
+
+www.dof.gob.mx/2020/INE/CGext202009_07_ap_4.pdf
