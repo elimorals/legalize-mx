@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-etica-del-poder-judicial-del-estado-de-zacatecas-8586
 country: "mx"
 rank: "codigo"
 publication_date: "2012-01-28"
-last_updated: "2012-01-28"
+last_updated: "2020-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA Y CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2020 (DEROGADO).
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 28 de enero de 2012.
 
@@ -174,3 +176,13 @@ LIC. LEONOR VARELA PARGA.
 EL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 LIC. MARCO AURELIO RENTERÍA SALCEDO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA Y CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+Segundo. Se deroga el Código de Ética del Poder Judicial del Estado de Zacatecas publicado el 28 de enero de 2012 en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
