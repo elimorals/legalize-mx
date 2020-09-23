@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2020-09-18"
+last_updated: "2020-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 18 DE SEPTIEMBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2020.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -2545,19 +2545,33 @@ I. Acta de electores en tránsito para, en su caso, casillas especiales;
 
 II. Bolsa para boletas entregadas al presidente de mesa directiva de casilla (por tipo de elección);
 
-III. Bolsa para sobres con boletas sobrantes, votos válidos y votos nulos (por tipo de elección);
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Bolsa para boletas sobrantes (por tipo de elección);
+III. Bolsa o sobre para boletas sobrantes, votos válidos y votos nulos (por tipo de elección);
 
-V. Bolsa para votos válidos (por tipo de elección);
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Bolsa para votos nulos (por tipo de elección).
+IV. Bolsa o sobre para boletas sobrantes (por tipo de elección);
 
-VII. Bolsa de expediente de casilla (por tipo de elección);
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Bolsa de expediente, en su caso, para casilla especial (por tipo de elección);
+V. Bolsa o sobre para votos válidos (por tipo de elección);
 
-IX. Bolsa para lista nominal de electores;
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Bolsa o sobre para votos nulos (por tipo de elección).
+
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Bolsa o sobre de expediente de casilla (por tipo de elección);
+
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Bolsa o sobre de expediente, en su caso, para Casilla Especial (por tipo de elección);
+
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Bolsa o sobre para lista nominal de electores;
 
 X. Bolsa para actas de escrutinio y cómputo por fuera del paquete electoral;
 
@@ -2573,11 +2587,31 @@ XV. Recibo de documentación y materiales electorales entregados al presidente d
 
 XVI. Recibo de documentación y materiales electorales entregados al presidente de mesa directiva de casilla especial;
 
-XVII. Recibo de entrega del paquete electoral al consejo distrital;
+XVII. (DEROGADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)
 
 XVIII. Constancia de mayoría y validez de la elección;
 
 XIX. Cartel de identificación de personas que requieren atención preferencial para acceder a la casilla.
+
+> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Recibo de entrega del paquete electoral.
+
+> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Cartel informativo para la casilla (por tipo de elección);
+
+> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Sobre para el depósito de boletas encontradas en otras urnas (por tipo de elección);
+
+> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Formato para el registro de personas con discapacidad que acuden a votar; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Tarjetón vehicular.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -2632,6 +2666,10 @@ d) Cartel de identificación de personas que requieren atención preferencial pa
 e) Bolsa para la lista nominal de electores, y
 
 f) Tarjetón vehicular.
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+
+g) Formato para el registro de personas con discapacidad que acuden a votar.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -7653,7 +7691,7 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 4.1 DOCUMENTOS Y MATERIALES ELECTORALES, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 27 A LA 96.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4.1 EN EL D.O.F. DE 26 DE JULIO DE 2019, PÁGINA 163.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4.1 EN EL D.O.F. DE 26 DE JULIO DE 2019, PÁGINA 163; 23 DE SEPTIEMBRE DE 2020, PÁGINAS DE LA 29 A LA 36.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 4.2 PROCEDIMIENTO DE VERIFICACIÓN DE LAS MEDIDAS DE SEGURIDAD EN LA DOCUMENTACIÓN ELECTORAL Y EL LÍQUIDO INDELEBLE, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 97 A LA 98.]</small>
 
@@ -7661,13 +7699,21 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 6.1 SOLICITUD DE ACREDITACIÓN DE OBSERVADOR DE LAS ACTIVIDADES DEL PROCESO ELECTORAL, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 107.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 6.1 EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, PÁGINA 114.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 6.2 SOLICITUD DE RATIFICACIÓN DE ACREDITACIÓN DE OBSERVADOR DE LAS ACTIVIDADES DEL PROCESO ELECTORAL, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 108.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 6.2 EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, PÁGINA 114.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 6.3 PROCESO ELECTORAL (AÑO), EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 109.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 6.4 PROCESO ELECTORAL (AAAA), EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 110.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 6.5 GAFETE DE OBSERVADOR ELECTORAL, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 111 A LA 112.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 6.5 EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, PÁGINA 114.]</small>
+
+> <small>[N. DE E. VÉASE ANEXO 6.6 CONVOCATORIA DEL INSTITUTO Y EL MODELO DE CONVOCATORIA DEL OPL, EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, PÁGINA 114.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 7 SOLICITUD DE ACREDITACIÓN COMO VISITANTE EXTRANJERO, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 1.]</small>
 
@@ -8768,5 +8814,55 @@ https://www.ine.mx/sesion-extraordinaria-del-consejo-general-26-de-agosto-de-202
 Página DOF
 
 www.dof.gob.mx/2020/INE/CGext202008_26_ap_14.pdf
+
+D.O.F. 23 DE SEPTIEMBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN EL DISEÑO Y LA IMPRESIÓN DE LA DOCUMENTACIÓN ELECTORAL SIN EMBLEMAS PARA EL PROCESO ELECTORAL FEDERAL 2020-2021, ASÍ COMO LAS MODIFICACIONES AL REGLAMENTO DE ELECCIONES Y SU ANEXO 4.1.", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+(…)
+
+SEGUNDO. Se aprueban los diseños de la documentación electoral sin emblemas cuyos diseños son consistentes con el RE y su Anexo 4.1 adjuntos a este Acuerdo, que se utilizarán durante el Proceso Electoral Federal 2020-2021 en la elección para Diputaciones Federales en territorio nacional.
+
+(…)
+
+CUARTO. La Comisión de Capacitación y Organización Electoral, conforme a sus atribuciones, informará al Consejo General sobre la supervisión del desarrollo de los trabajos previstos en el Punto de Acuerdo anterior y recibirá los planteamientos que sobre el particular realicen los Partidos Políticos Nacionales, con el objeto de garantizar el cumplimiento de los fines y principios rectores del Instituto Nacional Electoral. Los Partidos Políticos Nacionales y las candidaturas independientes podrán designar representantes para vigilar la producción, impresión, almacenamiento y distribución de la documentación electoral, de las elecciones donde compitan.
+
+(…)
+
+SÉPTIMO. Se instruye al Secretario Ejecutivo para que realice las acciones necesarias para dar a conocer el contenido del presente Acuerdo a las y los vocales ejecutivos de las 32 Juntas Ejecutivas Locales y 300 Distritales, para que instrumenten lo conducente a fin de que, en su momento, las y los integrantes de los consejos locales y distritales tengan pleno conocimiento de este Acuerdo para su debido cumplimiento
+
+(…)
+
+El contenido de este Acuerdo y sus anexos se pueden consultar en el Acuerdo Original, el cual podrá consultarse en la siguiente página del Instituto Nacional Electoral:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114535/CGex202009-04-ap-2.pdf
+
+DOF: www.dof.gob.mx/2020/INE/CGext202009_04_ap_2.pdf
+
+D.O.F. 23 DE SEPTIEMBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITEN LAS CONVOCATORIAS PARA LA CIUDADANÍA INTERESADA EN ACREDITARSE COMO OBSERVADORA ELECTORAL PARA EL PROCESO ELECTORAL 2020-2021, Y SE APRUEBA EL MODELO QUE DEBERÁN ATENDER LOS ORGANISMOS PÚBLICOS LOCALES PARA EMITIR LA CONVOCATORIA RESPECTIVA; ASÍ COMO LAS MODIFICACIONES A LOS ANEXOS 6.1, 6.2, 6.5 Y 6.6 DEL REGLAMENTO DE ELECCIONES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+(…)
+
+PRIMERO. Se aprueban las modificaciones a la "Solicitud de Acreditación para Participar como Observadora u Observador Electoral" (Anexo 6.1) y a la "Solicitud de Ratificación para Participar como Observadora u Observador Electoral" (Anexo 6.2), al "Gafete de Observadora u Observador Electoral" (Anexo 6.5), y a la Convocatoria del Instituto y el modelo de convocatoria del OPL (Anexo 6.6) del Reglamento de Elecciones, de conformidad con los Considerandos 51, incisos a) y b), 52 y 55, incisos a) y b) del presente Acuerdo.
+
+SEGUNDO. Se aprueba, de conformidad con el Anexo 6.6 del RE, la emisión de la convocatoria del Instituto Nacional Electoral, así como el modelo de convocatoria del OPL, mismas que forman parte del presente Acuerdo como Anexo 1 y Anexo 2 respectivamente; a efecto de que la ciudadanía interesada participe como observadora electoral en el proceso 2020-2021 y los extraordinarios que se deriven de éstos.
+
+(…)
+
+SEXTO. Se instruye a las juntas ejecutivas locales y distritales del INE, promover que las organizaciones que atiendan a grupos de personas en situación de vulnerabilidad participen en la observación de las etapas de los Procesos Electorales Locales y de la aplicación de los protocolos y medidas de inclusión contenidas en la Estrategia de Capacitación y Asistencia Electoral 2020-2021.
+
+(…)
+
+El contenido de este Acuerdo y sus anexos se pueden consultar en el Acuerdo Original, el cual podrá consultarse en la siguiente página del Instituto Nacional Electoral:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114537/CGex202009-04-ap-4.pdf
+
+DOF: www.dof.gob.mx/2020/INE/CGext202009_04_ap_4.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
