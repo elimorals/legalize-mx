@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2020-06-24"
+last_updated: "2020-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -219,17 +219,27 @@ Cuando dichas resoluciones puedan poner en peligro el interés público y la seg
 
 El organismo autónomo garante podrá acudir ante el organismo garante federal a través de petición fundada para que éste conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten.
 
-El organismo autónomo garante se integra por cinco comisionados. Para su nombramiento, la Legislatura, previa realización de una consulta a la sociedad, a propuesta de los grupos parlamentarios, con el voto de las dos terceras partes de los miembros presentes, nombrará al comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de este plazo, ocupará el cargo la persona nombrada por la Legislatura.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+El organismo autónomo garante se integra por cinco comisionadas o comisionados. Para su nombramiento, la Legislatura, previa realización de una consulta a la sociedad, a propuesta de los grupos parlamentarios, con el voto de las dos terceras partes de los miembros presentes, nombrará a la comisionada o comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de este plazo, ocupará el cargo la persona nombrada por la Legislatura.
 
 En caso de que el Gobernador objetara el nombramiento, la Legislatura hará un nuevo nombramiento, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, la Legislatura, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al comisionado que ocupará la vacante.
 
-Los comisionados durarán en su encargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, V y VI del artículo 91 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Séptimo de esta Constitución y serán sujetos de juicio político.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-En la conformación del organismo autónomo garante se procurará la equidad de género.
+Las comisionadas o comisionados durarán en su encargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, V y VI del artículo 91 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Séptimo de esta Constitución y serán sujetos de juicio político.
 
-El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante la Legislatura, en la fecha y en los términos que disponga la ley.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El organismo autónomo garante tendrá un Consejo Consultivo, integrado por cinco consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura. Anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+En la conformación del organismo autónomo garante se observará el principio de paridad de género.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La comisionada o el comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante la Legislatura, en la fecha y en los términos que disponga la ley.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+El organismo autónomo garante tendrá un Consejo Consultivo, integrado por cinco consejeras o consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura. Anualmente serán sustituidos las o los dos consejeras o consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
 
 La ley establecerá las medidas de apremio que podrá imponer el organismo autónomo garante, para asegurar el cumplimiento de sus decisiones.
 
@@ -307,19 +317,19 @@ Las leyes del Estado no podrán establecer sanciones que priven de la vida a las
 
 No se considerará confiscación la aplicación, el decomiso o la extinción del dominio de bienes que se haga de conformidad con el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 8.
 
-Nadie estará exceptuado de las obligaciones que las leyes le impongan, salvo en los casos de riesgo, siniestro o desastre, en cuya situación el Gobernador del Estado de acuerdo con los titulares de las secretarías del Poder Ejecutivo dictará los acuerdos necesarios para hacer frente a la contingencia, los cuales deberán ser por un tiempo limitado y de carácter general y únicamente por lo que hace a las zonas afectadas; el Fiscal General de Justicia únicamente tendrá voz.
+Nadie estará exceptuado de las obligaciones que las leyes le impongan, salvo en los casos de riesgo, siniestro o desastre, en cuya situación el Gobernador o Gobernadora del Estado de acuerdo con las o los titulares de las secretarías del Poder Ejecutivo dictará los acuerdos necesarios para hacer frente a la contingencia, los cuales deberán ser por un tiempo limitado y de carácter general y únicamente por lo que hace a las zonas afectadas; la o el Fiscal General de Justicia únicamente tendrá voz.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-En los casos de riesgo, siniestro o desastre, el Ejecutivo del Estado acordará la ejecución de acciones y programas públicos en relación a las personas, de sus bienes o del hábitat para el restablecimiento de la normalidad; para ello podrá disponer de los recursos necesarios, sin autorización previa de la Legislatura. Asimismo podrá ordenar la ocupación o utilización temporal de bienes o la prestación de servicios.
+En los casos de riesgo, siniestro o desastre, el o la titular del Ejecutivo del Estado acordará la ejecución de acciones y programas públicos en relación a las personas, sus bienes o del hábitat para el restablecimiento de la normalidad; para ello podrá disponer de los recursos necesarios, sin autorización previa de la Legislatura. Asimismo podrá ordenar la ocupación o utilización temporal de bienes o la prestación de servicios.
 
-Una vez tomadas las primeras medidas para atender las causas mencionadas, el Ejecutivo del Estado, dará cuenta de inmediato a la Legislatura o a la Diputación Permanente de las acciones adoptadas para hacer frente a esos hechos.
+Una vez tomadas las primeras medidas para atender las causas mencionadas, el o la titular del Ejecutivo del Estado, dará cuenta de inmediato a la Legislatura o a la Diputación Permanente de las acciones adoptadas para hacer frente a esos hechos.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -333,73 +343,103 @@ Los ciudadanos, los partidos políticos y las autoridades velarán por su respet
 
 La ley establecerá las sanciones por violaciones al sufragio.
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernador, Diputados a la Legislatura del Estado y miembros de Ayuntamientos es una función que se realiza a través del Instituto Nacional Electoral y el Organismo Público Electoral del Estado de México, denominado Instituto Electoral del Estado de México, dotado de personalidad jurídica y patrimonio propios, éste contará con un Órgano de Dirección Superior, integrado por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, designados por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con un representante de cada partido político y un Secretario Ejecutivo, quienes asistirán con voz, pero sin voto. En el ejercicio de esta función, la certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad serán principios rectores.
+La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernadora o Gobernador, Diputadas y Diputados a la Legislatura del Estado, de las y los integrantes de Ayuntamientos, son una función que se realiza a través del Instituto Nacional Electoral y el Organismo Público Electoral del Estado de México, denominado Instituto Electoral del Estado de México, dotado de personalidad jurídica y patrimonio propios, este contará con un Órgano de Dirección Superior, integrado por una Consejera o un Consejero Presidente y seis Consejeras o Consejeros Electorales, con derecho a voz y voto, designados bajo el principio de paridad de género por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con una representación de cada partido político y una o un Secretario Ejecutivo, quienes asistirán con voz, pero sin voto. En el ejercicio de esta función, la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad serán principios rectores y se realizarán con perspectiva de género.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 El Instituto Electoral del Estado de México será autoridad en la materia, independiente en sus decisiones y funcionamiento, y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos, operativos y de vigilancia.
 
-El Secretario Ejecutivo será nombrado por el Consejo General del Instituto Electoral del Estado de México en la forma y términos que señale la ley, durará en su cargo seis años y fungirá como Secretario del Consejo General.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La Secretaria o Secretario Ejecutivo será nombrado por el Consejo General del Instituto Electoral del Estado de México en la forma y términos que señale la ley, durará en su encargo seis años y fungirá como Secretaria o Secretario del Consejo General.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 El Instituto Electoral del Estado de México contará con una Contraloría General adscrita al Consejo General, que tendrá a su cargo la fiscalización de las finanzas y recursos que este ejerza y conocerá de las responsabilidades administrativas de sus servidores públicos. El Titular de la Contraloría General del Organismo será designado por la Legislatura del Estado, mediante las dos terceras partes de la votación de sus integrantes presentes, en la forma y términos que señale la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización del Estado de México.
 
-El Consejero Presidente y los Consejeros Electorales durarán en su cargo siete años y no podrán ser reelectos. Durante su ejercicio no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La Consejera o el Consejero Presidente, y las Consejeras y los Consejeros Electorales durarán en su encargo siete años y no podrán ser reelectos. Durante su ejercicio no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 El Instituto Electoral, de ser el caso que ejecute las funciones de fiscalización delegadas por el Instituto Nacional Electoral, contará con su respectivo órgano técnico de fiscalización.
 
-El Consejero Presidente y los Consejeros Electorales, cuando no haya proceso electoral, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral, de participación ciudadana y de educación cívica.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Secretario Ejecutivo y titular de la Contraloría General.
+La Consejera o el Consejero Presidente, y las Consejeras y los Consejeros Electorales cuando no haya proceso electoral, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral, de participación ciudadana y de educación cívica.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Secretaria o Secretario Ejecutivo y la o el titular de la Contraloría General.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 La ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto Electoral del Estado de México, así como las relaciones jerárquicas y administrativas entre éstos.
 
-Los emolumentos que perciban el Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y el titular de la Contraloría General serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Los emolumentos que perciban la Consejera o el Consejero Presidente, las Consejeras y los Consejeros Electorales, la Secretaria o el Secretario Ejecutivo y la o el titular de la Contraloría General serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 Las leyes determinarán los regímenes laboral y de responsabilidades de los servidores públicos del Instituto Electoral del Estado de México.
 
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
 El Instituto Electoral del Estado de México contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley de la materia.
 
-El Instituto Electoral del Estado de México tendrá a su cargo, además de las que determine la ley de la materia, las actividades relativas al desarrollo de la democracia y la cultura política, derecho y acceso a las prerrogativas de los candidatos y partidos políticos, educación cívica, preparación de la jornada electoral, impresión de documentos y la producción de materiales electorales, escrutinios y cómputos, declaración de validez y otorgamiento de constancias en las elecciones locales, resultados preliminares, encuestas o sondeos de opinión, observación electoral, conteo rápido y sobre mecanismos de participación ciudadana, así como las que le delegue el Instituto Nacional Electoral.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+El Instituto Electoral del Estado de México tendrá a su cargo, además de las que determine la ley de la materia, las actividades relativas al desarrollo de la democracia y la cultura política, la paridad de género y el respeto de los derechos humanos en el ámbito político y electoral, derecho y acceso a las prerrogativas de las candidatas, candidatos y partidos políticos, educación cívica, preparación de la jornada electoral, impresión de documentos y la producción de materiales electorales, escrutinios y cómputos, declaración de validez y otorgamiento de constancias en las elecciones locales, resultados preliminares, encuestas o sondeos de opinión, observación electoral, conteo rápido y sobre mecanismos de participación ciudadana, así como las que le delegue el Instituto Nacional Electoral.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 Asimismo, se faculta al Instituto Electoral del Estado de México a celebrar convenios con los ayuntamientos del Estado de México para la organización, desarrollo y vigilancia de las elecciones de autoridades auxiliares municipales. A petición de los partidos políticos locales y con cargo a sus prerrogativas, en los términos que establezca la ley, podrá organizar las elecciones de sus dirigentes. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
 
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
 La ley determinará las facultades y atribuciones que en materia de candidaturas independientes y de consulta popular tendrá el Instituto Electoral del Estado de México.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 El Instituto Electoral del Estado de México podrá convenir con el Instituto Nacional Electoral que se haga cargo de la organización de los procesos electorales locales, en los términos que disponga la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propio, con registro ante el Instituto Nacional Electoral y el Instituto Electoral del Estado de México, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, facilitarles el acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros en candidaturas a Diputados Locales e integrantes de los Ayuntamientos. Su participación en los procesos electorales estará determinada por la ley. Es derecho de los partidos políticos solicitar el registro de candidatos a cargos de elección popular. Solo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, sin la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que medie afiliación corporativa.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propio, con registro ante el Instituto Nacional Electoral y el Instituto Electoral del Estado de México, tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanas y ciudadanos, facilitarles el acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad de género en las candidaturas a Diputaciones Locales e integrantes de los Ayuntamientos, y a los demás cargos de elección popular, así como contribuir a la erradicación de la violencia política en razón de género. Su participación en los procesos electorales estará determinada por la ley. Es derecho de los partidos políticos solicitar el registro de las candidatas y candidatos a cargos de elección popular. Solo las ciudadanas y ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, sin la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que medie afiliación corporativa.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen ésta Constitución y la ley respectiva.
 
-> <small>(REFORMADO, G.G. 25 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, formulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
+En los procesos electorales los partidos políticos tendrán derecho a postular candidatas y candidatos, formulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 La coalición podrá ser total, parcial o flexible y deberá formalizarse, mediante convenio por el cual no podrá existir transferencia o distribución de votación entre los partidos coaligados, de acuerdo con lo que establece la legislación de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Cada partido político en lo individual, independiente de participar coaligado, deberá garantizar la paridad entre los géneros, en las candidaturas locales correspondientes.
+Cada partido político en lo individual, independiente de participar coaligado, deberá garantizar la paridad de género, en las candidaturas locales correspondientes.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Ningún ciudadano podrá ser registrado como candidato a distintos cargos de elección popular en el mismo proceso electoral. Los partidos políticos podrán registrar simultáneamente, en un proceso comicial hasta cuatro fórmulas de candidatos a Diputados por mayoría relativa y por representación proporcional.
+Ninguna ciudadana o ciudadano podrá ser registrado como candidata o candidato a distintos cargos de elección popular en el mismo proceso electoral. Los partidos políticos podrán registrar simultáneamente, en un proceso comicial hasta cuatro fórmulas de candidatas y candidatos a las Diputaciones por mayoría relativa y por representación proporcional.
 
 > <small>(DEROGADO PÁRRAFO SÉPTIMO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El partido político local que no obtenga, al menos el tres por ciento de la votación válida emitida en la elección para Gobernador o Diputados a la Legislatura del Estado, le será cancelado el registro. Para tener derecho a participar en la asignación de Diputados de representación proporcional, los partidos políticos deberán haber obtenido al menos el tres por ciento de la votación válida emitida en la elección para Diputados.
+El partido político local que no obtenga, al menos el tres por ciento de la votación válida emitida en la elección para Gobernadora o Gobernador o Diputadas y Diputados a la Legislatura del Estado, le será cancelado el registro. Para tener derecho a participar en la asignación de Diputaciones de representación proporcional, los partidos políticos deberán haber obtenido al menos el tres por ciento de la votación válida emitida en la elección para Diputadas y Diputados.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -409,29 +449,29 @@ La ley garantizará que los partidos políticos cuenten de manera equitativa con
 
 De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en que sus bienes y remanentes pasarán a formar parte del patrimonio del Estado.
 
-> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los partidos políticos y los candidatos independientes, en su caso, podrán acceder a la radio y a la televisión, conforme a lo dispuesto en el apartado B de la base III del artículo 41 de la Constitución Federal, los cuales en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+Los partidos políticos, las candidatas y los candidatos independientes, en su caso, podrán acceder a la radio y a la televisión, conforme a lo dispuesto en el apartado B de la base III del artículo 41 de la Constitución Federal, los cuales en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Ninguna otra persona, física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+Ninguna otra persona, física o jurídica colectiva, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de las y los ciudadanos, ni a favor o en contra de partidos políticos o de candidatas y candidatos a cargos de elección popular.
 
-> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para el desarrollo de las precampañas. También establecerá los plazos para el desarrollo de las campañas electorales de los partidos políticos y los candidatos independientes.
+La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatas y candidatos a cargos de elección popular, así como las reglas para el desarrollo de las precampañas. También establecerá los plazos para el desarrollo de las campañas electorales de los partidos políticos, de las candidatas y candidatos independientes.
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-La duración máxima de las campañas será de sesenta días para la elección de Gobernador y de treinta y cinco días cuando se elijan Diputados locales o Ayuntamientos. Asimismo, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales; la ley de la materia fijará los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de los militantes y simpatizantes.
+La duración máxima de las campañas será de sesenta días para la elección de Gobernadora o Gobernador y de treinta y cinco días cuando se elijan Diputadas y Diputados locales o Ayuntamientos. Asimismo, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales; la ley de la materia fijará los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de los y las militantes y simpatizantes.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
 La violación a estas disposiciones por los partidos o cualquier otra persona física o moral, será sancionada conforme a la ley.
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-La propaganda política o electoral que realicen y difundan los partidos políticos y candidatos deberán abstenerse de expresiones que calumnien a las personas.
+La propaganda política o electoral que realicen y difundan los partidos políticos, candidatas y candidatos deberán abstenerse de expresiones que calumnien a las personas o que contengan violencia política en razón de género.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -453,51 +493,65 @@ El Instituto Electoral del Estado de México y el Tribunal Electoral podrán ord
 
 La ley determinará las faltas en materia electoral, estableciendo los procedimientos aplicables y las sanciones que deba (sic) imponerse.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos político-electorales de los ciudadanos.
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos político-electorales de la ciudadanía.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
 Habrá un Tribunal Electoral autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen esta Constitución y la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El Tribunal Electoral funcionará en Pleno, se integrará por cinco Magistrados designados por el Senado de la República en los términos que establece la legislación de la materia y gozarán de todas las garantías judiciales previstas en la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
+El Tribunal Electoral funcionará en Pleno, se compondrá de cinco Magistraturas designadas por el Senado de la República en los términos que establece la legislación de la materia, y gozarán de todas las garantías judiciales previstas en la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los Magistrados del Tribunal Electoral designarán a su Presidente, por mayoría de votos, entre ellos; la Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
+Las Magistradas y los Magistrados del Tribunal Electoral designarán a su Presidenta o Presidente, por mayoría de votos, entre ellos; la Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-En caso de falta absoluta de alguno de los Magistrados, el Magistrado Presidente del Tribunal lo hará del conocimiento al Senado. Si ocurriera una vacante temporal, corresponderá a la Legislatura designar, de entre una terna de ciudadanos propuestos por el Pleno del Tribunal Electoral y con el voto de las dos terceras partes de los miembros presentes, a quien cubrirá la vacante.
+En caso de falta absoluta de alguna de las Magistradas o Magistrados, quien presida el Tribunal lo hará del conocimiento al Senado. Si ocurriera una vacante temporal, corresponderá a la Legislatura designar, de entre una terna de ciudadanas y ciudadanos propuestos por el Pleno del Tribunal Electoral y con el voto de las dos terceras partes de los miembros presentes, a quien cubrirá la vacante.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Quienes hayan fungido como magistrados electorales no podrán asumir un cargo público en los órganos emanados de las elecciones celebradas durante su periodo, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+Quienes hayan fungido como magistradas o magistrados electorales no podrán asumir un cargo público en los órganos emanados de las elecciones celebradas durante su periodo, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 24 DE JUNIO DE 2014)</small>
 
 Al Tribunal Electoral le corresponderá resolver de forma definitiva e inatacable las impugnaciones en contra de los actos y resoluciones del Instituto Electoral del Estado de México a través de los medios establecidos en la ley de la materia; los conflictos o diferencias laborales entre el Tribunal Electoral y sus servidores y entre el Instituto Electoral del Estado de México y sus servidores públicos electorales, así como las determinaciones sobre imposición de sanciones por parte del Instituto Electoral del Estado de México.
 
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+
 El Tribunal Electoral expedirá su reglamento interno y los acuerdos generales para su adecuado funcionamiento, en los términos que señale la ley.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
 El Tribunal Electoral contará con una Contraloría General adscrita al Pleno, que tendrá a su cargo la fiscalización de las finanzas y recursos del Tribunal Electoral; su titular será nombrado por la Legislatura del Estado, en la forma y términos que señale la ley.
 
-El Magistrado Presidente y los Magistrados Electorales, durante el tiempo que transcurra entre dos procesos electorales, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-La ley fijará las causales de nulidad de las elecciones de Gobernador, Diputados locales y Ayuntamientos. El Tribunal Electoral sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley.
+La Magistrada o el Magistrado Presidente, las Magistradas y los Magistrados Electorales, durante el tiempo que transcurra entre dos procesos electorales, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La ley fijará las causales de nulidad de las elecciones de Gobernadora o Gobernador, Diputadas o Diputados locales y Ayuntamientos de la entidad. El Tribunal Electoral sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley.
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
 La ley establecerá los supuestos y las reglas para el ejercicio de los medios de apremio para hacer cumplir de manera expedita sus resoluciones.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-El Gobernador del Estado podrá someter a referéndum total o parcial las reformas y adiciones a la presente Constitución y las leyes que expida la Legislatura, excepto las de carácter tributario o fiscal.
+El Gobernador o Gobernadora del Estado podrá someter a referéndum total o parcial las reformas y adiciones a la presente Constitución y las leyes que expida la Legislatura, excepto las de carácter tributario o fiscal.
 
-Los ciudadanos de la Entidad podrán solicitar al Gobernador que sean sometidas a referéndum total o parcial esos ordenamientos, siempre y cuando lo hagan al menos el 20 por ciento de los inscritos en las listas nominales de electores, debidamente identificados y dentro de los 30 días naturales siguientes a su publicación en el diario oficial del Estado.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las ciudadanas y los ciudadanos de la Entidad podrán solicitar al Gobernador o Gobernadora que sean sometidas a referéndum total o parcial esos ordenamientos, siempre y cuando lo hagan al menos el 20 por ciento de los inscritos en las listas nominales de electores, debidamente identificados y dentro de los 30 días naturales siguientes a su publicación en el diario oficial del Estado.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
@@ -531,21 +585,21 @@ El organismo que establecerá la Legislatura del Estado se denominará Comisión
 
 Toda autoridad o servidor público está obligado a responder las Recomendaciones que les presente este organismo. Cuando las Recomendaciones emitidas no sean aceptadas o cumplidas, éstos deberán fundar, motivar y hacer pública su negativa. La Legislatura podrá llamar, a solicitud del organismo a las autoridades o servidores públicos responsables para que comparezcan ante dicho órgano, a efecto de que expliquen el motivo de su negativa o de incumplimiento.
 
-> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-La Comisión de Derechos Humanos del Estado de México tendrá un Consejo Consultivo integrado por un presidente, un secretario técnico y cinco consejeros ciudadanos, estos últimos elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. Los consejeros ciudadanos durarán en su cargo tres años, salvo que fuesen propuestos y ratificados para un segundo periodo.
+La Comisión de Derechos Humanos del Estado de México tendrá un Consejo Consultivo integrado por una presidenta o presidente, una secretaria o secretario técnico y cinco consejeras o consejeros ciudadanos, elegidos observando el principio de paridad de género, alternando el género mayoritario entre las designaciones respectivas, por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. Las y los consejeros ciudadanos durarán en su cargo tres años, salvo que fuesen propuestos y ratificados para un segundo periodo.
 
-> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El Presidente de la Comisión de los Derechos Humanos del Estado de México, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior y durara en su encargo cuatro años, podrá ser reelecto por una sola vez y removido de sus funciones en los términos del Título Séptimo de esta Constitución.
+La Presidenta o el Presidente de la Comisión de los Derechos Humanos del Estado de México, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior y durará en su encargo cuatro años, podrá ser reelecto por una sola vez y removido de sus funciones en los términos del Título Séptimo de esta Constitución.
 
-> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Para los efectos de la elección del Presidente y de los consejeros ciudadanos, la Legislatura estatal deberá establecer mecanismos de consulta pública, con la sociedad civil, organismos públicos y privados que tengan por objeto la protección y defensa de los derechos humanos. Con base en dicha consulta, que deberá ser transparente, la comisión legislativa que corresponda propondrá una terna de candidatos, de la cual se elegirá a quien ocupe el cargo, en los términos y condiciones que señale la ley correspondiente.
+Para los efectos de la elección de la Presidenta o el Presidente, así como de las consejeras o los consejeros ciudadanos, la Legislatura estatal deberá establecer mecanismos de consulta pública, con la sociedad civil, organismos públicos y privados que tengan por objeto la protección y defensa de los derechos humanos. Con base en dicha consulta, que deberá ser transparente, la comisión legislativa que corresponda propondrá una terna de candidatas y candidatos, de la cual se elegirá a quien ocupe el cargo, en los términos y condiciones que señale la ley correspondiente.
 
-> <small>(ADICIONADO, G.G. 25 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El Presidente de la Comisión de Derechos Humanos del Estado de México presentará, anualmente a los Poderes del Estado, un informe de actividades, de manera personal.
+La Presidenta o el Presidente de la Comisión de Derechos Humanos del Estado de México presentará, anualmente a los Poderes del Estado, un informe de actividades, de manera personal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE FEBRERO DE 2011)</small>
 
@@ -561,9 +615,9 @@ La ley protegerá y promoverá el desarrollo de sus culturas, lenguas, usos, cos
 
 Las autoridades promoverán el bienestar de estos grupos mediante las acciones necesarias, convocando incluso a la sociedad, en especial en las materias de salud, educación, vivienda y empleo, así como en todas aquellas que con respeto a las expresiones y manifestaciones de su cultura, faciliten e impulsen la participación de quienes los integran en todos los ámbitos del desarrollo del Estado y en igualdad de condiciones y oportunidades que los demás habitantes.
 
-> <small>(ADICIONADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos, con el propósito de fortalecer su participación y representación política, de conformidad con sus tradiciones y normas internas.
+Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos, observando el principio de paridad de género, con el propósito de fortalecer su participación y representación política, de conformidad con sus tradiciones y normas internas, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
 
 > <small>(REFORMADO, G.G. 16 DE MARZO DE 2018)</small>
 
@@ -591,9 +645,9 @@ Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bie
 
 En el Estado de México toda persona tiene derecho al acceso y disposición de agua de manera suficiente, asequible y salubre, para consumo personal y doméstico. La ley definirá las bases, accesos y modalidades en que se ejercerá este derecho, siendo obligación de los ciudadanos su cuidado y uso racional.
 
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-La Legislatura del Estado establecerá en la Ley la existencia de un organismo en materia de agua, integrado por un Comisionado Presidente aprobado por la Legislatura a propuesta del Gobernador, por representantes del Ejecutivo del Estado, de los municipios y por ciudadanos, el cual regulará y propondrá los mecanismos de coordinación para la prestación del servicio de agua potable, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales y, en general, el mejoramiento de la gestión integral del agua en beneficio de la población.
+La Legislatura del Estado establecerá en la Ley la existencia de un organismo en materia de agua, integrado por un Comisionado Presidente o Comisionada Presidenta aprobada por la Legislatura a propuesta del Gobernador o Gobernadora, por representantes del Ejecutivo del Estado, de los municipios y por ciudadanos o ciudadanas, el cual regulará y propondrá los mecanismos de coordinación para la prestación del servicio de agua potable, alcantarillado, saneamiento, tratamiento y disposición de agua residuales (sic) y, en general, el mejoramiento de la gestión integral del agua en beneficio de la población.
 
 > <small>(ADICIONADO, G.G. 3 DE MARZO DE 2020)</small>
 
@@ -695,29 +749,35 @@ III. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas
 
 IV. Las demás que esta Constitución y las leyes establezcan.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPITULO SEGUNDO. De los Ciudadanos del Estado
+### CAPITULO SEGUNDO. De las Ciudadanas y los Ciudadanos del Estado
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 28.
 
-Son ciudadanos del Estado los habitantes del mismo que tengan esta calidad conforme a la Constitución Federal, y que además reúnan la condición de mexiquenses o vecinos a que se refiere esta Constitución.
+Son ciudadanas y ciudadanos del Estado los habitantes del mismo que tengan esta calidad conforme a la Constitución Federal, y que además reúnan la condición de mexiquenses o vecinos a que se refiere esta Constitución.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 29.
 
-Son prerrogativas de los ciudadanos del Estado:
+Son prerrogativas de la ciudadanía del Estado:
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 I. Inscribirse en los registros electorales;
 
-II. Votar y ser votados para los cargos públicos de elección popular del Estado y de los municipios y desempeñar cualquier otro empleo o comisión, si reúnen los requisitos que las normas determinen;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, G.G. 7 DE AGOSTO DE 2013)</small>
+II. Votar y ser votadas y votados, en condiciones de paridad, para todos los cargos públicos de elección popular del Estado y de los municipios, y desempeñar cualquier otro empleo o comisión, si reúnen los requisitos que las normas determinen;
 
-III. Solicitar el registro de candidatos independientes ante la autoridad electoral cumpliendo con los requisitos, condiciones y términos que determine la legislación aplicable en la materia;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+III. Solicitar el registro de candidatas y candidatos independientes ante la autoridad electoral cumpliendo con los requisitos, condiciones y términos que determine la legislación aplicable en la materia;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 IV. Desempeñar las funciones electorales que se les asignen;
 
@@ -725,7 +785,9 @@ IV. Desempeñar las funciones electorales que se les asignen;
 
 V. Asociarse libre y pacíficamente para tomar parte en los asuntos políticos del Estado y sus municipios;
 
-VI. Participar en las organizaciones de ciudadanos que se constituyan en sus comunidades, para la atención de sus necesidades;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Participar en las organizaciones de ciudadanas y ciudadanos que se constituyan en sus comunidades, para la atención de sus necesidades;
 
 > <small>(ADICIONADA, G.G. 7 DE AGOSTO DE 2013)</small>
 
@@ -737,15 +799,21 @@ VIII. Votar en las consultas populares sobre temas de trascendencia estatal, las
 
 1°. Serán convocadas por la Legislatura, a petición de:
 
-a) El Gobernador del Estado;
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+a) La Gobernadora o el Gobernador del Estado;
 
 b) El equivalente al treinta y tres por ciento de los integrantes de la Legislatura, o
 
-c) Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores de la entidad con corte a la fecha que se haga la petición, debiéndose atender los términos que determine la ley.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+c) Las ciudadanas y los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores de la entidad con corte a la fecha que se haga la petición, debiéndose atender los términos que determine la ley.
 
 Con excepción de la hipótesis prevista en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de la Legislatura.
 
-2°. Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores con corte a la fecha que se haga la consulta, en el respectivo ámbito, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo locales y para las autoridades estatales competentes;
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+2°. Cuando la participación total corresponda, al menos, al cuarenta por ciento de las ciudadanas y los ciudadanos inscritos en la lista nominal de electores con corte a la fecha que se haga la consulta, en el respectivo ámbito, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo locales y para las autoridades estatales competentes;
 
 3°. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, y la particular del Estado; los principios consagrados en el artículo 40 de la Constitución Federal; los principios consagrados en el artículo 3 de esta Constitución; la materia electoral; los ingresos y gastos del Estado y, la seguridad estatal. La Sala Constitucional del Tribunal Superior de Justicia del Estado resolverá, previo a la convocatoria que realice la Legislatura, sobre la constitucionalidad de la materia de la consulta;
 
@@ -765,35 +833,51 @@ Con excepción de la hipótesis prevista en el inciso c) anterior, la petición 
 
 IX. Acceder a la gestión pública de forma alternativa más no limitativa, a través del uso de medios electrónicos.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-Tienen suspendidos los derechos y prerrogativas de ciudadanos del Estado:
+Tienen suspendidos los derechos y prerrogativas de ciudadanas y ciudadanos del Estado:
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 I. Los que estén sujetos a un proceso penal por delito que merezca pena privativa de libertad, a contar desde la fecha del auto de vinculación a proceso hasta que cause ejecutoria la sentencia que los absuelva o se extinga la pena;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 II. Los que sean declarados incapaces por resolución judicial;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 III. Los prófugos de la justicia desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 IV. Los que pierdan la condición de vecinos; y
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 V. Los que incumplan injustificadamente cualquiera de las obligaciones de ciudadano, señaladas en la Constitución Federal. Esta suspensión durará un año.
 
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+
 La Ley determinará los casos en que se suspenden los derechos de ciudadano y la forma de su rehabilitación.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-Pierden la calidad de ciudadanos del Estado:
+Pierden la calidad de ciudadanas y ciudadanos del Estado:
 
-I. Los que por cualquier causa dejen de ser ciudadanos mexicanos; y
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-II. Los ciudadanos electos para cargos públicos que se nieguen a desempeñarlos sin causa justificada.
+I. Los que por cualquier causa dejen de ser ciudadanas mexicanas y ciudadanos mexicanos; y
+
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+II. Las ciudadanas y los ciudadanos electos para cargos públicos que se nieguen a desempeñarlos sin causa justificada.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 La Ley determinará los términos y procedimientos para la declaratoria de la pérdida de la ciudadanía y la manera de hacer la rehabilitación.
 
@@ -823,11 +907,11 @@ Quienes se encuentren accidental o transitoriamente en el territorio del Estado,
 
 El Poder Público del Estado de México se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
-Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes.
+Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanas y ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -849,123 +933,155 @@ La ciudad de Toluca de Lerdo es la sede de los poderes públicos del Estado y ca
 
 #### SECCION PRIMERA. De la Legislatura
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 38.
 
-El ejercicio del Poder Legislativo se deposita en una asamblea denominada Legislatura del Estado, integrada por diputados electos en su totalidad cada tres años, conforme a los principios de mayoría relativa y de representación proporcional, mediante sufragio universal, libre, secreto y directo.
+El ejercicio del Poder Legislativo se deposita en una asamblea denominada Legislatura del Estado, integrada por diputadas y diputados electos en su totalidad cada tres años, conforme a los principios de mayoría relativa y representación proporcional, mediante sufragio universal, libre, secreto y directo.
 
-Por cada diputado propietario se elegirá un suplente.
+Por cada diputada propietaria y diputado propietario se elegirá un suplente del mismo género.
 
-El o los diputados electos en elecciones extraordinarias concluirán el período de la Legislatura respectiva.
+La o las diputadas y el o los diputados electos en elecciones extraordinarias concluirán el periodo de la Legislatura respectiva.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 39.
 
-La Legislatura del Estado se integrará con 45 diputados electos en distritos electorales según el principio de votación mayoritaria relativa y 30 de representación proporcional.
+La Legislatura del Estado se integrará con 45 diputaciones electas en distritos electorales según el principio de votación mayoritaria relativa y 30 de representación proporcional.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 27 DE FEBRERO DE 1995)</small>
+
 La asignación de diputaciones por el principio de representación proporcional se efectuará conforme a las siguientes bases:
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 I. Se constituirán hasta tres circunscripciones electorales en el Estado, integradas cada una por los distritos electorales que en los términos de la ley de la materia se determinen.
 
-> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-II. Para tener derecho a la asignación de diputaciones de representación proporcional, el partido político de que se trate deberá acreditar la postulación de candidatos propios de mayoría relativa en por lo menos 30 distritos electorales y de haber obtenido al menos el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que haya obtenido;
+II. Para tener derecho a la asignación de diputaciones de representación proporcional, el partido político de que se trate deberá acreditar la postulación de candidatas y candidatos propios de mayoría relativa en por lo menos 30 distritos electorales y de haber obtenido al menos el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que haya obtenido;
 
-> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-III. Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional, conforme a la fórmula establecida en la ley.
+III. Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional, conforme a la fórmula establecida en la ley, respetando el principio de paridad de género.
 
-Los diputados de mayoría relativa y los de representación proporcional tendrán iguales derechos y obligaciones.
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, G.G. 24 DE JUNIO DE 2014)</small>
+IV. Las listas de representación proporcional se integrarán por fórmulas de candidatos y candidatas compuestas cada una por una persona propietaria y una suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad, hasta agotar cada lista.
 
-En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura del Estado que exceda en ocho puntos su porcentaje de votación emitida.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las diputadas y diputados de mayoría relativa y los de representación proporcional tendrán iguales derechos y obligaciones.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+En ningún caso un partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la Legislatura del Estado que exceda en ocho puntos su porcentaje de votación emitida.
 
 > <small>(ADICIONADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura del Estado superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Así mismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 40.
 
-Para ser diputado propietario o suplente se requiere:
+Para ser diputada o diputado, propietario o suplente, se requiere:
 
-I. Ser ciudadano del Estado en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+I. Ser ciudadana o ciudadano del Estado en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 II. Ser mexiquense con residencia efectiva en su territorio no menor a un año o vecino del mismo, con residencia efectiva en su territorio no menor a tres años, anteriores al día de la elección;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 III. No haber sido condenado por sentencia ejecutoriada por delito intencional que merezca pena corporal;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 IV. Tener 21 años cumplidos el día de la elección;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 V. No ser ministro de algún culto religioso, a menos de que se separe formal, material y definitivamente de su ministerio cuando menos 5 años antes del día de la elección;
 
-> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VI. No ser consejero presidente o consejero electoral, en los consejos distritales o municipales del Instituto Electoral del Estado de México, salvo que se hubiera separado del cargo dos años antes del día de la elección;
+VI. No ser consejera o consejero presidente o consejera o consejero electoral, en los consejos distritales o municipales del Instituto Electoral del Estado de México, salvo que se hubiera separado del cargo dos años antes del día de la elección;
 
-> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VII. No ser diputado local, diputado federal o senador en ejercicio;
+VII. No ser diputada o diputado local, diputada o diputado federal o senadora o senador en ejercicio;
 
-> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. No ser juez, magistrado ni integrante del Consejo de la Judicatura del Poder Judicial, servidor público federal, estatal o municipal;
+VIII. No ser jueza o juez, magistrada o magistrado ni integrante del Consejo de la Judicatura del Poder Judicial, servidora o servidor público federal, estatal o municipal;
 
 > <small>(ADICIONADA, G.G. 24 DE JUNIO DE 2014)</small>
 
 IX. No ser militar o jefe de las fuerzas de seguridad pública del Estado o de los municipios en ejercicio de mando en el territorio del distrito o circunscripción por el que se pretenda postularse.
 
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+X. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XI. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XII. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
+
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 En el caso a que se refieren las tres fracciones anteriores, podrán postularse si se separan del cargo noventa días antes de las elecciones ordinarias y treinta de las extraordinarias.
 
-El Gobernador del Estado, durante todo el período del ejercicio, no podrá ser electo diputado.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+La Gobernadora o el Gobernador del Estado, durante todo el período del ejercicio, no podrá ser electo diputado o diputada.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 41.
 
-Ningún ciudadano podrá excusarse de desempeñar el cargo de diputado, salvo por causa justificada calificada por la Legislatura, la cual conocerá la solicitud.
+Ninguna ciudadana o ciudadano podrá excusarse de desempeñar el cargo de diputada o diputado, salvo por causa justificada calificada por la Legislatura, la cual conocerá la solicitud.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 42.
 
-Los diputados jamás podrán ser reconvenidos o enjuiciados por las declaraciones o los votos que emitan con relación al desempeño de su cargo.
+Las diputadas y diputados jamás podrán ser reconvenidos o enjuiciados por las declaraciones o los votos que emitan con relación al desempeño de su cargo.
 
-Los presidentes de la Legislatura y de la Diputación Permanente velarán por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto donde se reúnan a sesionar.
+Las presidentas o los presidentes de la Legislatura y de la Diputación Permanente velarán por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto donde se reúnan a sesionar.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 43.
 
-El ejercicio del cargo de diputado es incompatible con cualquier comisión o empleo del Gobierno Federal, del Estado o de los municipios y de sus organismos auxiliares por el que se disfrute sueldo. La Legislatura podrá conceder licencia a sus miembros, según los casos, para desempeñar otras funciones que les hayan sido encomendadas.
+El ejercicio del cargo de diputada o diputado es incompatible con cualquier comisión o empleo del Gobierno Federal, del Estado o de los municipios y de sus organismos auxiliares por el que se disfrute sueldo. La Legislatura podrá conceder licencia a sus miembros, según los casos, para desempeñar otras funciones que les hayan sido encomendadas.
 
-> <small>[N. DE E. LA REFORMA AL PRESENTE ARTÍCULO SERÁ APLICABLE A LOS DIPUTADOS LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS QUE SEAN ELECTOS A PARTIR DEL PROCESO ELECTORAL DE 2015.]</small>
-
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 44.
 
-La Legislatura del Estado se renovará en su totalidad cada tres años, la ley de la materia determinará la fecha de la elección. Los Diputados podrán ser electos de manera consecutiva hasta por cuatro periodos; la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiera postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-La Ley establecerá las medidas para que la elección conserve el carácter de libre y auténtica, garantizando la observancia de los principios consagrados en esta Constitución.
-
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
-
-###### Artículo 45.
-
-Las elecciones de diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia.
+La Legislatura del Estado se renovará en su totalidad cada tres años, la ley de la materia determinará la fecha de la elección. Las diputadas y los diputados podrán ser electos de manera consecutiva hasta por cuatro periodos; la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiera postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-El cómputo y la declaración de validez de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será hecha por el Instituto Electoral del Estado de México encargado de la organización, desarrollo y vigilancia de las elecciones.
+La Ley establecerá las medidas para que la elección conserve el carácter de libre y auténtica, garantizando la observancia de los principios consagrados en esta Constitución.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 45.
+
+Las elecciones de diputadas y diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatas y candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia.
+
+El cómputo y la declaración de validez de las elecciones de diputadas y diputados de representación proporcional, así como la asignación de éstos, será hecha por el Instituto Electoral del Estado de México encargado de la organización, desarrollo y vigilancia de las elecciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
 
@@ -977,13 +1093,13 @@ La Legislatura del Estado de México se reunirá en sesiones ordinarias tres vec
 
 En el año de inicio del período constitucional del Ejecutivo Federal el primer período podrá prolongarse hasta el 31 de diciembre.
 
-> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia podrán asistir al recinto de la Legislatura a la apertura del primer período.
+La Gobernadora o el Gobernador del Estado y la Presidenta o el Presidente del Tribunal Superior de Justicia podrán asistir al recinto de la Legislatura a la apertura del primer período.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Excepcionalmente, la Legislatura podrá invitar a los titulares de los poderes Ejecutivo y Judicial a asistir a su recinto con motivo de la celebración de sesiones solemnes.
+Excepcionalmente, la Legislatura podrá invitar a las y los titulares de los poderes Ejecutivo y Judicial a asistir a su recinto con motivo de la celebración de sesiones solemnes.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -993,17 +1109,23 @@ En cualquier tiempo, la Diputación Permanente o el Ejecutivo del Estado por con
 
 Los períodos extraordinarios de sesiones se destinarán exclusivamente para deliberar sobre el asunto o asuntos comprendidos en la convocatoria, y concluirán antes del día de la apertura de sesiones ordinarias, aún cuando no hubieren llegado a terminarse los asuntos que motivaron su reunión, reservando su conclusión para las sesiones ordinarias.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 48.
 
-Los diputados en ejercicio tienen el deber de acudir a todas las sesiones ordinarias y extraordinarias y votar la resolución de los asuntos sujetos a debate. El mismo deber asiste a los diputados electos de concurrir a las juntas preparatorias necesarias a que sean convocados.
+Las diputadas y los diputados en ejercicio tienen el deber de acudir a todas las sesiones ordinarias y extraordinarias y votar la resolución de los asuntos sujetos a debate. El mismo deber asiste a las diputadas y los diputados electos de concurrir a las juntas preparatorias necesarias a que sean convocados.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 En ningún caso la Legislatura del Estado podrá sesionar sin la concurrencia de la mitad más uno del total de sus miembros.
 
-Los diputados que asistan tanto a las juntas preparatorias como a las sesiones ordinarias y extraordinarias, y éstas excepcionalmente no pudieran celebrarse por falta de quórum, deberán compeler a los ausentes a que se presenten en un plazo que no exceda de 48 horas, apercibiéndolos de que, si no lo hacen, se llamará desde luego a los suplentes; y si éstos no se presentaran después de haber sido apercibidos, se declarará vacante la diputación y, si procede, se convocará a elecciones extraordinarias.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los diputados que falten a tres sesiones consecutivas sin previa licencia del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el período en que ocurran las faltas y se llamará desde luego a los suplentes.
+Las diputadas y los diputados que asistan tanto a las juntas preparatorias como a las sesiones ordinarias y extraordinarias, y estás excepcionalmente no pudieran celebrarse por falta de quórum, deberán compeler a las y los ausentes a que se presenten en un plazo que no exceda de 48 horas, apercibidos de que, si no lo hacen, se llamará desde luego a las y los suplentes; y si éstas o éstos no se presentaran después de haber sido apercibidos, se declarará vacante la diputación y, si procede, se convocará elecciones extraordinarias.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las diputadas y los diputados que falten a tres sesiones consecutivas sin previa licencia de la Presidenta o del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el periodo en que ocurran las faltas y se llamará desde luego a los suplentes.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1025,9 +1147,13 @@ En la segunda sesión del primer período ordinario del ejercicio de la Legislat
 
 El derecho de iniciar leyes y decretos corresponde:
 
-I. Al Gobernador del Estado;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-II. A los diputados;
+I. A la Gobernadora o al Gobernador del Estado;
+
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+II. A las diputadas o diputados;
 
 > <small>(REFORMADA, G.G. 13 DE ENERO DE 2012)</small>
 
@@ -1037,9 +1163,9 @@ III. Al Tribunal Superior de Justicia;
 
 IV. A los ayuntamientos;
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-V. A los ciudadanos del Estado;
+V. A las ciudadanas y ciudadanos del Estado;
 
 > <small>(ADICIONADA, G.G. 25 DE JULIO DE 2008)</small>
 
@@ -1049,9 +1175,9 @@ VI. A la Comisión de Derechos Humanos del Estado de México, en materia de dere
 
 VII. A la Fiscalía General de Justicia del Estado de México, en materia de su competencia.
 
-> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El Gobernador del Estado tendrá derecho a presentar hasta tres iniciativas de carácter preferente al inicio del periodo ordinario de sesiones, debiendo sustentar las razones por las cuales les otorga dicho carácter.
+La Gobernadora o el Gobernador del Estado tendrán derecho a presentar hasta tres iniciativas de carácter preferente al inicio del periodo ordinario de sesiones, debiendo sustentar las razones por las cuales les otorga dicho carácter.
 
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
@@ -1061,17 +1187,19 @@ Las iniciativas con carácter preferente deberán ser sometidas a discusión y v
 
 No podrán incluirse como iniciativas preferentes las que modifiquen disposiciones en materia electoral, las relacionadas con la creación de impuestos o las referidas en el artículo 61 fracción XXX de esta Constitución.
 
-> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 52.
 
-La Legislatura podrá solicitar del Gobernador del Estado la presencia de los titulares de las dependencias del Poder Ejecutivo, así como de los directores de los organismos auxiliares. Del Presidente del Tribunal Superior de Justicia podrá solicitar la presencia de los magistrados y de los miembros del Consejo de la Judicatura del Poder Judicial, cuando sea necesaria para el estudio de iniciativas de ley o decreto, de sus respectivas competencias.
+La Legislatura podrá solicitar de la Gobernadora o del Gobernador del Estado la presencia de los titulares de las dependencias del Poder Ejecutivo, así como de los directores de los organismos auxiliares. De la Presidenta o del Presidente del Tribunal Superior de Justicia podrá solicitar la presencia de las y los magistrados, y de las y los miembros del Consejo de la Judicatura del Poder Judicial, cuando sea necesaria para el estudio de iniciativas de ley o decreto, de sus respectivas competencias.
 
 > <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
 Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitarse al presidente municipal que concurra él o un integrante del ayuntamiento, para responder a los cuestionamientos que se les planteen. Tratándose de iniciativas que incidan en el ámbito de competencia de la Comisión de Derechos Humanos del Estado de México, o de la Fiscalía General de Justicia del Estado de México, la Legislatura podrá solicitar la presencia de un representante de los mismos para responder los cuestionamientos que se les planteen. Las solicitudes de la Legislatura se harán por conducto de la Junta de Coordinación Política.
 
-El Gobernador del Estado podrá participar en el análisis de los proyectos legislativos que caigan dentro de su ámbito competencial, así como de la discusión del dictamen, ya sea de propia voz, o a través de la voz del representante que designe al efecto. El mismo derecho tendrán las autoridades a quienes la Constitución otorga el derecho de iniciativa. La ley y el reglamento establecerán las bases bajo las cuales se dará esta participación una vez que haya sido formalmente solicitada por quien tiene derecho a ello.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La Gobernadora o el Gobernador del Estado podrá participar en el análisis de los proyectos legislativos que caigan dentro de su ámbito competencial, así como de la discusión del dictamen, ya sea de propia voz, o a través de la voz del representante que designe al efecto. El mismo derecho tendrán las autoridades a quienes la Constitución otorga el derecho de iniciativa. La ley y el reglamento establecerán las bases bajo las cuales se dará esta participación una vez que haya sido formalmente solicitada por quien tiene derecho a ello.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1105,9 +1233,13 @@ Para la adición, reforma o derogación del articulado o abrogación de las leye
 
 Toda resolución de la Legislatura tendrá el carácter de ley, decreto, iniciativa al Congreso de la Unión o acuerdo. Las leyes o decretos aprobados se comunicaran al Ejecutivo para su promulgación, publicación y observancia, salvo aquéllos que sean de la incumbencia exclusiva de la Legislatura, en los que no tendrá el derecho de veto.
 
-Las leyes o decretos aprobados se comunicarán al Ejecutivo firmados por el Presidente y los secretarios, y los acuerdos por los secretarios.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Las iniciativas al Congreso de la Unión se comunicarán también con la firma del Presidente y los secretarios.
+Las leyes o decretos aprobados se comunicarán al Ejecutivo firmados por la Presidenta o el Presidente y las secretarias o los secretarios, y los acuerdos por las secretarias o los secretarios.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las iniciativas al Congreso de la Unión se comunicarán también con la firma de la Presidenta o del Presidente y las secretarias o los secretarios.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1115,35 +1247,43 @@ Las iniciativas al Congreso de la Unión se comunicarán también con la firma d
 
 Las leyes y decretos se publicarán en la siguiente forma:
 
-N.N. Gobernador (aquí el carácter que tenga, si es constitucional, interino o sustituto) del Estado Libre y Soberano de México, a sus habitantes, sabed: Que la Legislatura del Estado ha tenido a bien aprobar lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+N.N. Gobernadora o Gobernador (aquí el carácter que tenga, si es constitucional, interina, interino, sustituta o sustituto) del Estado Libre y Soberano de México, a sus habitantes, sabed: Que la Legislatura del Estado ha tenido a bien aprobar lo siguiente:
 
 La (número ordinal que corresponda) Legislatura del Estado de México decreta:
 
 (El texto de la ley o decreto).
 
-Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla. (Fecha y rúbricas del Presidente y Secretarios).
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Lo tendrá entendido la Gobernadora o el Gobernador del Estado, haciendo que se publique y se cumpla. (Fecha y rúbricas de la Presidenta o Presidente y Secretarias o Secretarios).
 
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
-(Fecha y rúbricas del Gobernador y del Secretario General de Gobierno)
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+(Fecha y rúbricas de la Gobernadora o del Gobernador y de la Secretaria o del Secretario General de Gobierno)
 
 > <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 1997)</small>
 
 (La exposición de motivos que originó su expedición y el dictamen legislativo correspondiente).
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 59.
 
-El Gobernador del Estado podrá formular observaciones a las leyes o decretos que expida la Legislatura y remitirlas para su discusión y, en su caso, aprobación dentro de los treinta días naturales siguientes a su recepción.
+La Gobernadora o el Gobernador del Estado podrá formular observaciones a las leyes o decretos que expida la Legislatura y remitirlas para su discusión y, en su caso, aprobación dentro de los treinta días naturales siguientes a su recepción.
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
 
 Las leyes o decretos desechados en todo o en parte por el Ejecutivo, serán devueltos, con sus observaciones a la Legislatura. Deberán ser discutidos de nuevo por ésta, y si fuesen confirmados por las dos terceras partes del número total de sus integrantes serán ley o decreto y volverán al Ejecutivo para su promulgación.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 60.
 
-Cuando un proyecto de ley o decreto sea devuelto a la Legislatura con observaciones del Gobernador y no se apruebe con arreglo al artículo anterior, no podrá ser sometido nuevamente a discusión sino hasta el siguiente período ordinario de sesiones.
+Cuando un proyecto de ley o decreto sea devuelto a la Legislatura con observaciones de la Gobernadora o del Gobernador y no se apruebe con arreglo al artículo anterior, no podrá ser sometido nuevamente a discusión sino hasta el siguiente período ordinario de sesiones.
 
 > <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1179,9 +1319,11 @@ X. Conocer y resolver sobre las modificaciones a la Constitución General de la 
 
 XI. Autorizar facultades extraordinarias en favor del Ejecutivo, en casos excepcionales, y cuando así lo estime conveniente por las circunstancias especiales en que se encuentre el Estado, por tiempo limitado y previa aprobación de las dos terceras partes del total de sus miembros. En tales casos, se expresarán con toda precisión y claridad las facultades que se otorgan, mismas que no podrán ser las funciones electorales;
 
-XII. Convocar a elecciones ordinarias o extraordinarias de Gobernador, diputados y miembros de los ayuntamientos;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Para el caso de elecciones ordinarias de Gobernador la convocatoria deberá expedirse por lo menos 100 días antes de la fecha de elección y para las de diputados y miembros de los ayuntamientos 80 días antes;
+XII. Convocar a elecciones ordinarias o extraordinarias de Gobernador o Gobernadora, diputados o diputadas y miembros de los ayuntamientos.
+
+Para el caso de elecciones ordinarias de Gobernador o Gobernadora la convocatoria deberá expedirse por lo menos 100 días antes de la fecha de elección, y para las de diputadas o diputados y miembros de los ayuntamientos 80 días antes;
 
 > <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 1998)</small>
 
@@ -1213,9 +1355,9 @@ XVII. Resolver sobre las licencias temporales o absolutas de sus miembros, del G
 
 Para los efectos de esta fracción, se consideran temporales las ausencias que excedan de 15, pero no de 60 días. La Legislatura calificará cuando existan los motivos fundados que justifiquen una licencia temporal por un período mayor y que podrá extenderse por el tiempo que dure la causa que la motivó;
 
-> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Conocer y resolver de las solicitudes de destitución por faltas graves, de los Magistrados del Tribunal de Justicia Administrativa del Estado de México y del Tribunal Superior de Justicia en términos de la presente Constitución.
+XVIII. Conocer y resolver de las solicitudes de destitución por faltas graves, de los Magistrados y de las Magistradas del Tribunal de Justicia Administrativa del Estado de México y del Tribunal Superior de Justicia en términos de la presente Constitución.
 
 > <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1223,11 +1365,13 @@ XIX. Recibir el aviso del Ejecutivo del Estado y de los presidentes municipales,
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-XXI. Recibir la protesta del Gobernador, los Diputados, y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de México, del Auditor Superior de Fiscalización y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos.
+XXI. Recibir la protesta de la Gobernadora o del Gobernador, las Diputadas, los Diputados, las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de México, de la Auditora o del Auditor Superior de Fiscalización y de la Presidenta o del Presidente e integrantes del Consejo de la Comisión de Derechos Humanos.
 
-El Gobernador del Estado protestará en los siguientes términos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La Gobernadora o el Gobernador del Estado protestará en los siguientes términos:
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, las leyes que de una y otra emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por su bien y prosperidad; y si no lo hiciere así, que la Nación y el Estado me lo demanden".
 
@@ -1239,7 +1383,9 @@ El servidor público deberá contestar: "Sí, protesto".
 
 El Presidente de la Legislatura dirá: " Si no lo hiciere así, la Nación y el Estado se lo demanden";
 
-XXII. Convocar a ejercicio a los diputados suplentes en los casos de muerte, licencia o inhabilitación de los diputados propietarios;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Convocar a ejercicio a las diputadas y los diputados suplentes en los casos de muerte, licencia o inhabilitación de los diputados propietarios;
 
 XXIII. Aprobar en su caso, los convenios que celebre el Ejecutivo en relación con los límites del Estado;
 
@@ -1513,27 +1659,49 @@ La elección de Gobernador del Estado de México será mediante sufragio univers
 
 El Gobernador del Estado durará en su encargo seis años. Quien haya sido electo popularmente, nunca podrá serlo para otro período constitucional ni designado para cubrir ausencias absolutas o temporales del Ejecutivo.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 68.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernadora o Gobernador del Estado se requiere:
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 II. Ser mexiquense con residencia efectiva en su territorio no menor a tres años o vecino del mismo, con residencia efectiva en su territorio no menor a cinco años, anteriores al día de la elección.
 
 Se entenderá por residencia efectiva para los efectos de esta Constitución, el hecho de tener domicilio fijo en donde se habite permanentemente;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 III. Tener 30 años cumplidos el día de la elección;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 V. No ser servidor público en ejercicio de autoridad, ni militar en servicio activo o con mando de fuerzas dentro del Estado en los últimos 90 días anteriores al día de la elección ordinaria, o a partir del quinto día de la fecha de la publicación de la convocatoria para la elección extraordinaria.
 
 > <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 1998)</small>
 
 VI. No contar con una o más nacionalidades distintas a la mexicana.
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+VII. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+IX. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1563,23 +1731,23 @@ Si dentro de 30 días siguientes al inicio del período constitucional, el elect
 
 Si por algún motivo no hubiera podido efectuarse la elección de Gobernador, fuese nula o no estuviera hecha y declarada el 16 de septiembre del año que corresponda, cesará el saliente y se encargará del poder ejecutivo en calidad de Gobernador interino el que designe la Legislatura. El mismo día en que la Legislatura nombre al Gobernador interino, expedirá la convocatoria para nuevas elecciones, las cuales deberán tener verificativo dentro de los 90 días siguientes contado (sic) a partir del inicio del período constitucional.
 
-> <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 72.
 
-Cuando el Gobernador hubiere tomado posesión del cargo y se produjera falta absoluta ocurrida en los dos primeros años del período respectivo, si la Legislatura estuviere en sesiones se constituirá en Colegio Electoral y con la concurrencia de cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un gobernador interino y en la misma sesión expedirá la convocatoria para la elección de Gobernador que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de la elección un plazo no mayor de noventa días.
+Cuando la Gobernadora o el Gobernador hubiere tomado posesión del cargo y se produjera falta absoluta ocurrida en los dos primeros años del período respectivo, si la Legislatura estuviere en sesiones se constituirá en Colegio Electoral y con la concurrencia de cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un gobernador interino y en la misma sesión expedirá la convocatoria para la elección de Gobernadora o Gobernador que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de la elección en un plazo no mayor de noventa días.
 
-Si la Legislatura no estuviere en sesiones, lo suplirá como encargado del despacho el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia; la Diputación Permanente convocará de inmediato a la Legislatura a un período extraordinario de sesiones para que designe al Gobernador interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
+Si la Legislatura no estuviere en sesiones, lo suplirá como encargada o encargado del despacho la Secretaria o el Secretario General de Gobierno o la Presidenta o el Presidente del Tribunal Superior de Justicia; la Diputación Permanente convocará de inmediato a la Legislatura a un período extraordinario de sesiones para que designe a la Gobernadora o al Gobernador interino y expida la convocatoria a elecciones de Gobernadora o Gobernador en los términos del párrafo anterior.
 
-Cuando la falta del Gobernador ocurriese en los últimos cuatro años del período respectivo, si la Legislatura se encontrase en sesiones, designará al Gobernador sustituto que deberá concluir el período; si no estuviese reunida, lo suplirá como encargado del despacho el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia; la Diputación Permanente convocará de inmediato a la Legislatura a un período extraordinario de sesiones para que se erija en Colegio Electoral y designe al Gobernador sustituto.
+Cuando la falta de la Gobernadora o del Gobernador ocurriese en los últimos cuatro años del período respectivo, si la Legislatura se encontrase en sesiones, designará a la Gobernadora o al Gobernador sustituta o sustituto que deberá concluir el período; si no estuviese reunida, lo suplirá como encargada o encargado del despacho la Secretaria o el Secretario General de Gobierno o la Presidenta o el Presidente del Tribunal Superior de Justicia; la Diputación Permanente convocará de inmediato a la Legislatura a un período extraordinario de sesiones para que se erija en Colegio Electoral y designe a la Gobernadora sustituta o al Gobernador sustituto.
 
-> <small>(REFORMADO G.G. 1 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 73.
 
-Las faltas temporales del Gobernador hasta por 15 días las suplirá el Secretario General de Gobierno.
+Las faltas temporales de la Gobernadora o del Gobernador hasta por 15 días las suplirá la Secretaria o el Secretario General de Gobierno.
 
-Aquellas que excedan de 15 días pero no de 60 las cubrirá como encargado del despacho el Secretario General de Gobierno. La Legislatura del Estado si estuviere reunida o la Diputación Permanente, decretará el nombramiento respectivo.
+Aquellas que excedan de 15 días pero no de 60, las cubrirá como encargada o encargado del despacho la Secretaria o el Secretario General de Gobierno. La Legislatura del Estado si estuviere reunida o la Diputación Permanente, decretará el nombramiento respectivo.
 
 > <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1998)</small>
 
@@ -1587,37 +1755,41 @@ Aquellas que excedan de 15 días pero no de 60 las cubrirá como encargado del d
 
 Si la falta temporal se convierte en absoluta, se procederá como lo dispone el artículo 72.
 
-> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 75.
 
-El Gobernador del Estado rendirá la protesta constitucional ante la Legislatura o ante la Diputación Permanente en los recesos de aquélla.
+La Gobernadora o el Gobernador del Estado rendirá la protesta constitucional ante la Legislatura o ante la Diputación Permanente en los recesos de aquélla.
 
-Si por cualquier circunstancia el Gobernador no pudiere rendir la protesta en los términos del párrafo anterior, lo hará de inmediato ante la Directiva de la Legislatura.
+Si por cualquier circunstancia la Gobernadora o el Gobernador no pudiere rendir la protesta en los términos del párrafo anterior, lo hará de inmediato ante la Directiva de la Legislatura.
 
-En caso de que el Gobernador no pudiere rendir la protesta ante la Legislatura, la Diputación Permanente o su Directiva, lo hará de inmediato ante el Presidente del Tribunal Superior de Justicia.
+En caso de que la Gobernadora o el Gobernador no pudiere rendir la protesta ante la Legislatura, la Diputación Permanente o su Directiva, lo hará de inmediato ante la Presidenta o el Presidente del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 76.
 
-El Gobernador del Estado podrá renunciar al cargo por causa grave, o solicitar licencia por causa justificada, pero en ambos casos no se hará efectiva sino hasta que sea aprobada por la Legislatura.
+La Gobernadora o el Gobernador del Estado podrá renunciar al cargo por causa grave, o solicitar licencia por causa justificada, pero en ambos casos no se hará efectiva sino hasta que sea aprobada por la Legislatura.
 
-> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-#### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador del Estado
+#### SECCIÓN SEGUNDA. De las Facultades y Obligaciones de la Gobernadora o del Gobernador del Estado
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 77.
 
-Son facultades y obligaciones del Gobernador del Estado:
+Son facultades y obligaciones de la Gobernadora o del Gobernador del Estado:
 
 > <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
 I. Cumplir y hacer cumplir la Constitución Federal, las leyes del Congreso de la Unión y los Tratados Internacionales en materia de derechos fundamentales de los que el Estado Mexicano sea parte;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 II. Cuidar el cumplimiento de la presente Constitución y de las leyes, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 III. Promulgar y publicar las leyes, decretos o acuerdos que expida la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
@@ -1625,13 +1797,19 @@ III. Promulgar y publicar las leyes, decretos o acuerdos que expida la Legislatu
 
 IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura.
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2003)</small>
 
 VI. Planear y conducir el desarrollo integral del Estado; formular, aprobar, desarrollar, ejecutar, controlar y evaluar el Plan Estatal de Desarrollo, planes sectoriales, metropolitanos y regionales, y los programas que de éstos se deriven. En los procesos de planeación metropolitana y regional deberá consultarse a los ayuntamientos;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 VII. Convocar a la Legislatura a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 VIII. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la Constitución Federal, siempre que por el texto mismo de ese artículo o por las disposiciones federales que de él se deriven no deban considerarse como reservados al Gobierno Federal o concedidos a los Cuerpos Municipales;
 
@@ -1639,25 +1817,31 @@ VIII. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la
 
 IX. Conservar el orden público en todo el territorio del Estado; mandar personalmente las fuerzas de seguridad pública del Estado y coordinarse en esta materia con la Federación, otras entidades y los municipios en términos de ley;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 X. Cuidar de la instrucción de la Guardia Nacional en el Estado, conforme a las leyes y reglamentos federales y mandarla como jefe;
 
 > <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
 
 XI. Formular observaciones, dentro de los treinta días naturales siguientes a su recepción, a las leyes o decretos aprobados por la Legislatura, en términos de lo dispuesto por el artículo 59 de esta Constitución.
 
-> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Nombrar a las y los Magistrados del Tribunal de Justicia Administrativa del Estado de México, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso.
+XII. Nombrar a las y los Magistrados del Tribunal de Justicia Administrativa del Estado de México, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso. En las designaciones respectivas, se favorecerá el principio de igualdad y equidad de género;
 
-> <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Aceptar las renuncias de los Magistrados del Tribunal de Justicia Administrativa del Estado de México, previo sometimiento a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiéndolas a la aprobación de la Legislatura del Estado o la Diputación permanente en su caso.
+XIII. Aceptar las renuncias de las Magistradas y los Magistrados del Tribunal de Justicia Administrativa del Estado de México, previo sometimiento a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar sus licencias cuando éstas excedan de tres meses, sometiéndolas a la aprobación de la Legislatura del Estado o la Diputación permanente en su caso;
 
-XIV. Nombrar y remover libremente a los servidores públicos del Estado cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Nombrar y remover libremente a las personas servidoras públicas del Estado cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes. Los nombramientos que realice favorecerán el principio de igualdad y equidad de género;
 
 > <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
 XV. Solicitar a la Legislatura Local, o en su caso, a la Diputación Permanente, la destitución por faltas graves, de las y los Magistrados del Tribunal de Justicia Administrativa del Estado de México.
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 XVI. Hacer que las sentencias ejecutoriadas dictadas por los tribunales en materia penal sean debidamente ejecutadas;
 
@@ -1665,9 +1849,9 @@ XVI. Hacer que las sentencias ejecutoriadas dictadas por los tribunales en mater
 
 XVII. Conceder el indulto necesario y por gracia, con arreglo a la ley de la materia.
 
-> <small>(REFORMADA, G.G. 8 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. Rendir a la Legislatura del Estado, a través de la entrega, por sí mismo o por medio de un representante, de un documento impreso o de un archivo en medio magnético o electrónico, dentro del mes de septiembre de cada año, previo aviso a la Legislatura, por lo menos, con ocho días naturales de anticipación, el informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional del Gobernador del Estado que deberá ser en los primeros quince días del mes de septiembre, en cuyo caso, el aviso deberá darse, por lo menos, con cinco días naturales de anticipación.
+XVIII. Rendir a la Legislatura del Estado, a través de la entrega, por sí mismo o por medio de un representante, de un documento impreso o de un archivo en medio magnético o electrónico, dentro del mes de septiembre de cada año, previo aviso a la Legislatura, por lo menos, con ocho días naturales de anticipación, el informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional de la Gobernadora o del Gobernador del Estado que deberá ser en los primeros quince días del mes de septiembre, en cuyo caso, el aviso deberá darse, por lo menos, con cinco días naturales de anticipación;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
 
@@ -1681,27 +1865,45 @@ Dicho Presupuesto deberá incluir los tabuladores desglosados de las remuneracio
 
 XX. Enviar cada año a la Legislatura a más tardar el 21 de noviembre o el 20 de diciembre, cuando inicie el periodo constitucional el Ejecutivo Federal, el proyecto de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los Ayuntamientos y que regirá en el año fiscal inmediato siguiente;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 XXI. Cuidar la recaudación y buena administración de la Hacienda Pública del Estado;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 XXII. Informar a la Legislatura por escrito o verbalmente, por conducto del titular de la dependencia a que corresponda el asunto, sobre cualquier ramo de la administración, cuando la Legislatura lo solicite;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 XXIII. Convenir con la Federación la asunción del ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos cuando el desarrollo económico y social lo haga necesario;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 XXIV. Fomentar la organización de instituciones para difundir o inculcar entre los habitantes de Estado, hábitos, costumbres o actividades que les permitan mejorar su nivel de vida;
 
-> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-XXV. Nombrar y remover al titular del Centro de Conciliación Laboral de conformidad con la legislación aplicable.
+XXV. Nombrar y remover a la o el titular del Centro de Conciliación Laboral de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 XXVI. Prestar apoyo a los poderes Legislativo y Judicial y a los ayuntamientos, cuando le sea solicitado, para el ejercicio de sus funciones;
 
 XXVII. (DEROGADA, G.G. 28 DE JULIO DE 2016)
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 XXVIII. Conducir y administrar los ramos de la administración pública del gobierno del Estado, dictando y poniendo en ejecución las políticas correspondientes mediante las acciones públicas y los procedimientos necesarios para este fin;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 XXIX. Crear organismos auxiliares, cuya operación quedará sujeta a la ley reglamentaria;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 XXX. Determinar los casos en los que sea de utilidad pública la ocupación de la propiedad privada y decretar la expropiación en términos de la ley respectiva;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 XXXI. Asumir la representación política y jurídica del Municipio para tratar los asuntos que deban resolverse fuera del territorio estatal;
 
@@ -1709,7 +1911,11 @@ XXXI. Asumir la representación política y jurídica del Municipio para tratar 
 
 XXXII. Proponer a la Legislatura del Estado las ternas correspondientes para la designación de ayuntamientos provisonales (sic), concejos municipales y miembros de los cuerpos edilicios en los casos previstos por ésta Constitución y en la ley orgánica respectiva;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 XXXIII. Ser el conducto para cubrir a los Municipios las Participaciones Federales que les correspondan conforme a las bases, montos y plazos que fije la Legislatura;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 XXXIV. Enviar a la Legislatura, al término de cada período constitucional, una memoria sobre el estado de los asuntos públicos;
 
@@ -1720,6 +1926,8 @@ XXXV. Formar la estadística del Estado y normar, con la participación de los m
 > <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXXVI. Celebrar convenios con los municipios para la asunción por éstos, del ejercicio de funciones, ejecución y operación de obras y prestación de servicios públicos federales que el Estado asuma, en términos de la fracción XXIII de este artículo;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 XXXVII. Otorgar el nombramiento de notario con arreglo a la ley de la materia;
 
@@ -1759,15 +1967,17 @@ XLV. Asumir la representación política y jurídica del Estado en los conflicto
 
 XLVI. Solicitar a la Legislatura las consultas populares sobre los temas de trascendencia estatal, conforme a lo dispuesto en la presente Constitución y las leyes aplicables en la materia;
 
-> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-XLVII. Objetar los nombramientos de los comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales hechos por la Legislatura, en los términos establecidos en esta Constitución y en la Ley.
+XLVII. Objetar los nombramientos de las comisionadas o comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales hechos por la Legislatura, en los términos establecidos en esta Constitución y en la Ley;
 
 > <small>(REFORMADA, G.G. 25 DE JULIO DE 2016)</small>
 
 XLVIII. Optar en cualquier momento por un gobierno de coalición con uno o varios de los partidos políticos representados en la Legislatura del Estado.
 
-El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los Diputados presentes en la sesión del pleno de la Legislatura donde se discuta. Si la Legislatura se encontrara en receso la Diputación Permanente convocará de inmediato a la Legislatura del Estado a un periodo extraordinario. El convenio establecerá las causas de la disolución del gobierno de coalición.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de las Diputadas y los Diputados presentes en la sesión del pleno de la Legislatura donde se discuta. Si la Legislatura se encontrara en receso la Diputación Permanente convocará de inmediato a la Legislatura del Estado a un periodo extraordinario. El convenio establecerá las causas de la disolución del gobierno de coalición.
 
 > <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1787,25 +1997,29 @@ Ll. Las demás que la Constitución General de la República, la presente Consti
 
 Para el despacho de los asuntos que la presente Constitución le encomienda, el Ejecutivo contará con las dependencias y los organismos auxiliares que las disposiciones legales establezcan.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 79.
 
-Para ser Secretario General de Gobierno se requiere cumplir los mismos requisitos que para ser Gobernador del Estado.
+Para ser Secretaria o Secretario General de Gobierno se requiere cumplir los mismos requisitos que para ser Gobernadora o Gobernador del Estado.
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2020)</small>
+Para ser secretaria o secretario del despacho del Ejecutivo, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, y tener como mínimo 25 años cumplidos al día de la designación.
 
-Para ser secretario del despacho del Ejecutivo, se requiere ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos, y tener como mínimo 25 años cumplidos al día de la designación.
+En los nombramientos de secretaria o secretario del despacho se favorecerá el principio de igualdad y equidad de género.
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 80.
 
-Los reglamentos, decretos, circulares y acuerdos expedidos por el Gobernador deberán, para su validez y observancia, ir firmados por el Secretario del Despacho respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
+Los reglamentos, decretos, circulares y acuerdos expedidos por la Gobernadora o el Gobernador deberán, para su validez y observancia, ir firmados por la Secretaria o el Secretario del Despacho respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todas las y los titulares de las mismas.
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
 
 Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por la Legislatura, sólo se requerirá el refrendo del titular de la Secretaría General de Gobierno.
 
-El Secretario General de Gobierno y los demás titulares de las dependencias del Ejecutivo, serán responsables de todas las órdenes y providencias que autoricen con su firma, contra la Constitución y las leyes del Estado.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La Secretaria o el Secretario General de Gobierno y las y los demás titulares de las dependencias del Ejecutivo, serán responsables de todas las órdenes y providencias que autoricen con su firma, contra la Constitución y las leyes del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE FEBRERO DE 2011)</small>
 
@@ -1839,9 +2053,13 @@ El Ministerio Público hará efectivos los derechos del Estado en los casos que 
 
 El Ministerio Público se integra en una Fiscalía General de Justicia, órgano público autónomo, dotado de personalidad jurídica y patrimonio propios con autonomía presupuestal, técnica y de gestión, así como con capacidad para decidir sobre el ejercicio de su presupuesto, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes aplicables, la cual estará a cargo de un Fiscal General.
 
-La ley establecerá las bases para la formación y profesionalización de los servidores públicos de la Fiscalía General de Justicia, así como para el desarrollo del servicio de carrera, el cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los servidores públicos de la Fiscalía General del Estado de México, se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La ley establecerá las bases para la formación y profesionalización de las personas servidoras públicas de la Fiscalía General de Justicia, así como para el desarrollo del servicio de carrera, el cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las personas servidoras públicas de la Fiscalía General del Estado de México, se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 > <small>(ADICIONADO, G.G. 28 DE JULIO DE 2016)</small>
 
@@ -1863,29 +2081,47 @@ Si la Legislatura se encontrará en receso, la Diputación Permanente convocará
 
 Si la Legislatura del Estado no se pronunciare y notificare su decisión durante el plazo referido, se entenderá que no tiene objeción.
 
-> <small>(ADICIONADO, G.G. 28 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 83 Ter.
 
-El Fiscal General durará en su cargo nueve años y será designado y removido conforme al siguiente procedimiento:
+La o el Fiscal General durará en su cargo nueve años y será designado y removido conforme al siguiente procedimiento:
 
-A partir de la ausencia definitiva del Fiscal General, la Legislatura contará con un plazo improrrogable de veinte días naturales para integrar y enviar al Ejecutivo una lista de hasta diez candidatos al cargo, que surgirá del dictamen que emita la Legislatura de acuerdo al procedimiento que se establezca en la Ley, la cual deberá ser aprobada por las dos terceras partes de los miembros presentes en el Pleno de la Legislatura del Estado.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+A partir de la ausencia definitiva de la o del Fiscal General, la Legislatura contará con un plazo improrrogable de veinte días naturales para integrar y enviar al Ejecutivo una lista de hasta diez candidatas y candidatos al cargo, que surgirá del dictamen que emita la Legislatura de acuerdo al procedimiento que se establezca en la Ley, la cual deberá ser aprobada por las dos terceras partes de los miembros presentes en el Pleno de la Legislatura del Estado.
+
+> <small>(ADICIONADO, G.G. 28 DE JULIO DE 2016)</small>
 
 Recibida la lista a que se refiere el párrafo anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración de la Legislatura.
 
-Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente a la Legislatura una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-La Legislatura, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente a la Legislatura una terna y designará provisionalmente a la o el Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, la o el Fiscal General designado podrá formar parte de la terna.
 
-En caso que el Ejecutivo no envíe la terna a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar al Fiscal General de entre los candidatos de la lista a que se refiere este artículo.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+La Legislatura, con base en la terna y previa comparecencia de las personas propuestas, designará a la o el Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
 
-El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades y comparecerá ante la Legislatura del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El Fiscal General presentará de manera directa a la Legislatura su proyecto de presupuesto, para su incorporación al Presupuesto de Egresos de cada Ejercicio Fiscal, el cual no podrá ser reducido respecto del autorizado para el ejercicio anterior.
+En caso de que el Ejecutivo no envíe la terna a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar a la o el Fiscal General de entre las candidatas y candidatos de la lista a que se refiere este artículo.
 
-El Fiscal General y sus agentes serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará a la o el Fiscal General de entre las candidatas y candidatos que integren la lista o, en su caso, la terna respectiva.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La o el Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades y comparecerá ante la Legislatura del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La o el Fiscal General presentará de manera directa a la Legislatura su proyecto de presupuesto, para su incorporación al Presupuesto de Egresos de cada Ejercicio Fiscal, el cual no podrá ser reducido respecto del autorizado para el ejercicio anterior.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La o el Fiscal General y sus agentes serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
 > <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
@@ -1905,11 +2141,17 @@ V. Ser honrado y gozar de buena reputación; y
 
 VI. Tener experiencia en la investigación y persecución de los delitos, así como en la administración pública.
 
-El Fiscal General podrá ser removido por el Ejecutivo Estatal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-En los recesos de la Legislatura del Estado, su Diputación Permanente la convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
+La Fiscal General o el Fiscal General podrá ser removido por el Ejecutivo Estatal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
 
-Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+En los recesos de la Legislatura del Estado, su Diputación Permanente la convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción de la Fiscal General o el Fiscal General.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las ausencias de la Fiscal General o del Fiscal General serán suplidas en los términos que determine la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -1953,7 +2195,9 @@ Conocerá y resolverá de las controversias que se susciten entre la administrac
 
 El Tribunal funcionará en Pleno o en Salas Regionales.
 
-Las y los Magistrados de la Sala Superior serán designados por el Gobernador y ratificados por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las y los Magistrados de la Sala Superior serán designados por la Gobernadora o el Gobernador y ratificados por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente.
 
 Durarán en su encargo diez años improrrogables.
 
@@ -1983,9 +2227,9 @@ b) En tribunales y juzgados de primera instancia, juzgados de cuantía menor y t
 
 El Poder Judicial contará con jueces de control que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, esta Constitución y las demás leyes aplicables les confieran.
 
-> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los jueces y magistrados del Estado de México, en el ámbito de su competencia, al emitir sus resoluciones observarán en lo concerniente el respeto a los derechos fundamentales, a las libertades, derechos y garantías reconocidas por la Constitución Federal, esta Constitución, los Tratados Internacionales de los que el Estado Mexicano sea parte, las leyes y reglamentos que el Estado establecen (sic).
+Las y los jueces y magistradas y magistrados del Estado de México, en el ámbito de su competencia, al emitir sus resoluciones observarán en lo concerniente el respeto a los derechos fundamentales, a las libertades, derechos y garantías reconocidas por la Constitución Federal, esta Constitución, los Tratados Internaciones de los que el Estado Mexicano sea parte, las leyes y reglamentos que el Estado establecen (sic).
 
 Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.
 
@@ -2001,13 +2245,13 @@ El Presupuesto de Egresos del Poder Judicial que se apruebe para el ejercicio fi
 
 En ningún caso, el Presupuesto Anual de Egresos que se apruebe para el Poder Judicial del Estado, podrá ser inferior al 2.0% de los ingresos ordinarios del Estado, para el año fiscal de que se trate. De conformidad con las necesidades del servicio, dicho porcentaje se incrementará anualmente.
 
-> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los integrantes de los tribunales laborales serán designados atendiendo a lo dispuesto por el artículo 116 fracción III de la Constitución Política de los Estados Unidos Mexicanos y conforme a los procedimientos de selección y formación que el Consejo de la Judicatura del Estado de México determine y deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+Las y los integrantes de los tribunales laborales serán designados atendiendo a lo dispuesto por el artículo 116 fracción III de la Constitución Política de los Estados Unidos Mexicanos y conforme a los procedimientos de selección y formación que el Consejo de la Judicatura del Estado de México determine y deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
-> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral, el cual contará con personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión rigiéndose por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+Antes de acudir a los tribunales laborales, las y los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral, el cual contará con personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión rigiéndose por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
 
 > <small>(ADICIONADO, G.G. 12 DE JULIO DE 2004)</small>
 
@@ -2029,7 +2273,9 @@ d) El Poder Ejecutivo y el Poder Legislativo del Estado.
 
 III. Conocer y resolver las acciones de inconstitucionalidad planteadas en contra de leyes, reglamentos estatales o municipales, bandos municipales o decretos de carácter general por considerarse contrarios a esta Constitución, y que sean promovidos dentro de los 45 días naturales siguientes a la fecha de publicación de la norma en el medio oficial correspondiente, por:
 
-a) El Gobernador del Estado;
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+a) La Gobernadora o el Gobernador del Estado;
 
 b) Cuando menos el treinta y tres por ciento de los miembros de la Legislatura;
 
@@ -2055,31 +2301,33 @@ Contra la resolución emitida por la Sala Constitucional en primera instancia, p
 
 En caso de que la controversia o acción de inconstitucionalidad verse sobre la constitucionalidad de actos, o presunta violación o contradicción de preceptos constitucionales federales, se estará a lo dispuesto en la Constitución General de la Republica, así como a la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 89.
 
-El Tribunal Superior de Justicia se compondrá del número de magistrados que determine la Ley Orgánica del Poder Judicial, durarán en su encargo 15 años y serán sustituidos de manera escalonada.
+El Tribunal Superior de Justicia se compondrá del número de magistradas y magistrados que determine la Ley Orgánica del Poder Judicial, observando el principio de paridad de género, durarán en su encargo 15 años y serán sustituidos de manera escalonada.
 
-Al finalizar su encargo los magistrados gozarán de un haber de retiro por el monto, plazo y bajo las condiciones que señale la Ley Orgánica del Poder Judicial del Estado.
+Al finalizar su encargo las y los magistrados gozarán de un haber de retiro por el monto, plazo y bajo las condiciones que señale la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+Las y los jueces de primera instancia, las y los jueces de cuantía menor, los tribunales laborales y los ejecutores de sentencias serán los necesarios para el despacho pronto y expedito de los asuntos que les correspondan en los distritos judiciales y en los municipios del Estado. La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
 
-Los jueces de primera instancia, los de cuantía menor, los tribunales laborales y los ejecutores de sentencias serán los necesarios para el despacho pronto y expedito de los asuntos que les correspondan en los distritos judiciales y en los municipios del Estado.
-
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 90.
 
-Los magistrados del Tribunal Superior de Justicia sólo podrán ser privados de sus cargos por la Legislatura del Estado, a petición del Consejo de la Judicatura, por faltas u omisiones graves en el desempeño de sus funciones, por mala conducta o porque estén incapacitados física o mentalmente. La ley determinará el procedimiento correspondiente.
+Las magistradas y los magistrados del Tribunal Superior de Justicia sólo podrán ser privados de sus cargos por la Legislatura del Estado, a petición del Consejo de la Judicatura, por faltas u omisiones graves en el desempeño de sus funciones, por mala conducta o porque estén incapacitados física o mentalmente. La ley determinará el procedimiento correspondiente.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 91.
 
-Para ser magistrado del Tribunal Superior de Justicia se requiere:
+Para ser magistrada o magistrado del Tribunal Superior de Justicia se requiere:
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 I. Ser ciudadano del Estado, mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos y con vecindad efectiva de tres años;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 II. Tener más de 35 años de edad;
 
@@ -2091,13 +2339,17 @@ III. Haber servido como Juez de Primera Instancia y que haya sido ratificado por
 
 III. Bis. Haber aprobado un examen de admisión a un curso de capacitación para magistrado y aprobado éste, se tendrá derecho a presentar el concurso de oposición para tal designación;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 IV. Poseer título profesional de licenciado en derecho expedido por las instituciones de educación superior legalmente facultadas para ello, con una antigüedad mínima de 10 años al día de la designación;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-> <small>(REFORMADA, G.G. 28 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VI. No haber ocupado el cargo de Secretario del despacho, Fiscal General de Justicia, Senador, Diputado federal o local, o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
+VI. No haber ocupado el cargo de Secretaria o Secretario del despacho, Fiscal General de Justicia, Senadora o Senador, Diputada o Diputado federal o local, Presidenta o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
 
 > <small>(REFORMADO, G.G. 25 DE JULIO DE 2007)</small>
 
@@ -2105,17 +2357,17 @@ VI. No haber ocupado el cargo de Secretario del despacho, Fiscal General de Just
 
 No podrán integrar un Juzgado, Sala del Tribunal Superior de Justicia o Consejo de la Judicatura, dos o más parientes por consanguinidad en línea recta sin limitación de grado, colateral dentro del cuarto grado, o por afinidad dentro del segundo o cónyuges.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 93.
 
-Aunque los magistrados no se presenten a tomar posesión de sus cargos en el término en que deban hacerlo, cesarán sin embargo los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de aquéllos, los interinos conforme a las leyes respectivas.
+Aunque las magistradas y los magistrados no se presenten a tomar posesión de sus cargos en el término en que deban hacerlo, cesarán sin embargo los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de aquéllos, los interinos conforme a las leyes respectivas.
 
-> <small>(REFORMADO, G.G. 12 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 94.
 
-El Pleno estará integrado por todos los magistrados; la Sala Constitucional, por cinco magistrados; las Salas Colegiadas, por tres magistrados cada una; y las Unitarias, por un magistrado en cada Sala.
+El Pleno estará integrado por todas las magistradas y los magistrados; la Sala Constitucional, por cinco magistradas y magistrados; las Salas Colegiadas, por tres magistradas y magistrados cada una; y las Unitarias, por una magistrada o un magistrado en cada Sala.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2165,27 +2417,27 @@ Para el despacho de los asuntos habrá en cada región, salas colegiadas y unita
 
 Ningún negocio judicial podrá tener más de dos instancias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 99.
 
-Los magistrados y jueces estarán impedidos para el ejercicio de la abogacía, salvo en causa propia o por actividad académica.
+Las magistradas, los magistrados, las juezas y los jueces estarán impedidos para el ejercicio de la abogacía, salvo en causa propia o por actividad académica.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 Tampoco podrán desempeñar ningún otro cargo, empleo o comisión que sea remunerado e incompatible con su función.
 
-> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 100.
 
-Los jueces de primera instancia y los titulares de los tribunales laborales durarán en su encargo seis años y podrán ser ratificados por el Consejo de la Judicatura al término de tal periodo previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma.
+Las juezas y los jueces de primera instancia, así como las personas titulares de los tribunales laborales, durarán en su encargo seis años y podrán ser ratificados por el Consejo de la Judicatura, al término de tal periodo previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma.
 
-> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 101.
 
-Los jueces de primera instancia y los titulares de los tribunales laborales deberán reunir los mismos requisitos que los magistrados, menos el referente a la edad, que bastará que sea de 28 años y cinco años de poseer título profesional de licenciado en derecho y de ejercicio profesional.
+Las y los jueces de primera instancia y las y los titulares de los tribunales laborales deberán reunir los mismos requisitos que las y los magistrados, menos el referente a la edad, que bastará que sea de 28 años y cinco años de poseer título profesional de licenciado en derecho y de ejercicio profesional.
 
 > <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2193,17 +2445,17 @@ Los jueces de primera instancia y los titulares de los tribunales laborales debe
 
 En cada distrito o región judicial habrá un juez y tribunal laboral o los que sean necesarios, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
 
-> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 103.
 
-Los jueces de cuantía menor durarán en su encargo tres años y podrán ser ratificados por el Consejo de la Judicatura, al término de tal periodo previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma. Tendrán la competencia que les señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, ejerciendo su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal.
+Las y los jueces de cuantía menor durarán en su encargo tres años y podrán ser ratificados por el Consejo de la Judicatura, al término de tal periodo previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma. Tendrán la competencia que les señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, ejerciendo su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 104.
 
-Los jueces de cuantía menor deberán cumplir los requisitos establecidos en las fracciones I y V del artículo 91 de esta Constitución, tener cuando menos 25 años el día de su designación y poseer título profesional de licenciado en derecho, expedido por institución legalmente facultada para ello.
+Las y los jueces de cuantía menor deberán cumplir los requisitos establecidos en las fracciones I y V del artículo 91 de esta Constitución, tener cuando menos 25 años el día de su designación y poseer título profesional de licenciado en derecho, expedido por institución legalmente facultada para ello.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -2215,17 +2467,17 @@ Bis.- El proceso penal será acusatorio y oral. Se regirá por los principios de
 
 La imposición de las penas, su modificación y duración son propias y exclusivas del Poder Judicial del Estado.
 
-> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los jueces ejecutores de sentencias durarán en su encargo seis años, podrán ser ratificados en los mismos términos que los demás jueces de primera instancia, y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley.
+Las y los jueces ejecutores de sentencias durarán en su encargo seis años, podrán ser ratificados en los mismos términos que los demás jueces de primera instancia, y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley.
 
-> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los jueces de ejecución de sentencias deberán reunir los mismos requisitos que la ley establece para los demás jueces de primera instancia.
+Las y los jueces de ejecución de sentencias deberán reunir los mismos requisitos que por ley se establecen para las y los demás jueces de primera instancia.
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El juez de ejecución controlará y vigilará la exacta ejecución de la pena.
+La o el juez de ejecución controlará y vigilará la exacta ejecución de la pena.
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2261,55 +2513,61 @@ Para la investigación, sustanciación y resolución de los procedimientos de re
 
 El Consejo de la Judicatura del Estado de México se integrará por:
 
-> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-I. Un Presidente, que será el del Tribunal Superior de Justicia;
+I. Una Presidenta o Presidente, que será el del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, G.G. 15 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-II. Dos Magistrados del Pleno del Tribunal Superior de Justicia designados por el Pleno del Tribunal Superior de Justicia;
+II. Dos Magistradas o Magistrados del pleno del Tribunal Superior de Justicia designados por el propio Pleno del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, G.G. 15 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-III. Dos jueces de primera instancia designados por el propio Pleno del Tribunal Superior de Justicia;
+III. Dos jueces o juezas de primera instancia designados por el propio Pleno del Tribunal Superior de Justicia;
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Uno designado por el titular del Ejecutivo del Estado; y
+IV. Una persona designada por el o la titular del Ejecutivo del Estado; y
 
-> <small>(REFORMADA, G.G. 15 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-V. Uno designado por la Legislatura del Estado.
+V. Una persona designada por la Legislatura del Estado.
 
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
 
 Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con los requisitos que para magistrado señala esta Constitución, salvo el de haber servido en el Poder Judicial del Estado.
 
-> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los magistrados y los jueces designados por el Pleno del Tribunal Superior de Justicia deberán tener cuando menos cinco años en el cargo y cumplir con los requisitos que señale la Ley Orgánica del Poder Judicial del Estado.
+Las magistradas o magistrados y las juezas o jueces, designados por el Pleno del Tribunal Superior de Justicia deberán tener cuando menos cinco años en el cargo y cumplir con los requisitos que señale la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 108.
 
-Salvo el Presidente del Consejo, los demás consejeros durarán en su cargo cinco años, serán sustituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
+Salvo la Presidenta o el Presidente del Consejo, las y los demás consejeros durarán en su cargo cinco años, serán sustituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 109.
 
-El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción y remoción de magistrados y jueces, así como de los demás asuntos que la ley determine.
+El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción y remoción de las magistradas, los magistrados, las juezas y los jueces, así como de los demás asuntos que la ley determine.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
 
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+
 Las decisiones del Consejo serán definitivas e inatacables.
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 110.
 
-Los consejeros ejercerán su función con independencia e imparcialidad y, no representan a quien los designa.
+Las consejeras y los consejeros ejercerán su función con independencia e imparcialidad y, no representan a quien los designa.
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
 Durante su encargo sólo podrán ser removidos en los términos que establece esta Constitución.
 
@@ -2347,11 +2605,11 @@ Los municipios del Estado, su denominación y la de sus cabeceras, serán los qu
 
 Cada municipio será gobernado por un ayuntamiento con la competencia que le otorga la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que de ellas emanen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 114.
 
-Los Ayuntamientos serán electos mediante sufragio universal, libre, secreto y directo. La ley de la materia determinará la fecha de la elección. Las elecciones de Ayuntamientos serán computadas y declaradas válidas por el órgano electoral municipal, mismo que otorgará la constancia de mayoría a los integrantes de la planilla que hubiere obtenido el mayor número de votos en términos de la ley de la materia.
+Los ayuntamientos serán electos mediante sufragio universal, libre, secreto y directo. La ley de la materia determinará la fecha de la elección. Las elecciones de ayuntamientos serán computadas y declaradas válidas por el órgano electoral municipal, mismo que otorgará la constancia de mayoría de las y los integrantes de la planilla que hubiere obtenido el mayor número de votos en términos de la ley de la materia.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2363,35 +2621,37 @@ El cargo de miembro del ayuntamiento no es renunciable, sino por justa causa que
 
 En ningún caso los ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del presidente municipal, ni éste por sí solo las de los ayuntamientos, ni el ayuntamiento o el presidente municipal, funciones judiciales.
 
-> <small>[N. DE E. LA REFORMA AL PRESENTE ARTÍCULO SERÁ APLICABLE A LOS DIPUTADOS LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS QUE SEAN ELECTOS A PARTIR DEL PROCESO ELECTORAL DE 2015.]</small>
-
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 116.
 
-Los ayuntamientos serán asamblea deliberante y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de esta corresponderá exclusivamente a los presidentes municipales, quienes durarán en sus funciones tres años.
+Los ayuntamientos serán asamblea deliberante y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los presidentes o presidentas municipales, quienes durarán en sus funciones tres años.
 
-La elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, será por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato y de conformidad con lo establecido en la ley respectiva.
+La elección consecutiva para el mismo cargo de presidentas o presidentes municipales, regidoras o regidores y síndicas o síndicos, será por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato y de conformidad con lo establecido en la ley respectiva.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 117.
 
-Los ayuntamientos se integrarán con un jefe de asamblea, que se denominará Presidente Municipal, y con varios miembros más llamados Síndicos y Regidores, cuyo número se determinará en razón directa de la población del municipio que representen, como lo disponga la Ley Orgánica respectiva.
+Los ayuntamientos se integrarán con una jefa o jefe de asamblea que se denominará Presidenta o Presidente Municipal, respectivamente, y con varios miembros más llamados Síndicas o Síndicos y Regidoras o Regidores, cuyo número se determinará en razón directa de la población del municipio que representen, como lo disponga la Ley Orgánica respectiva.
 
-Los ayuntamientos de los municipios podrán tener síndicos y regidores electos según el principio de representación proporcional de acuerdo a los requisitos y reglas de asignación que establezca la ley de la materia.
+Los ayuntamientos de los municipios podrán tener síndicas o síndicos y regidoras o regidores electos según el principio de representación proporcional de acuerdo a los requisitos y reglas de asignación que establezca la ley de la materia, respetando el principio de paridad de género.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO SEGUNDO. De los Miembros de los Ayuntamientos
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 118.
 
-Los miembros de un ayuntamiento serán designados en una sola elección. Se distinguirán los regidores por el orden numérico y los síndicos cuando sean dos, en la misma forma.
+Los miembros de un ayuntamiento serán designados en una sola elección. Se distinguirán las regidoras y los regidores por el orden numérico y los síndicos cuando sean dos, en la misma forma.
 
-Los regidores de mayoría relativa y de representación proporcional tendrán los mismos derechos y obligaciones, conforme a la ley de la materia. Los síndicos electos por ambas fórmulas tendrán las atribuciones que les señale la ley.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las regidoras y los regidores de mayoría relativa y de representación proporcional tendrán los mismos derechos y obligaciones, conforme a la ley de la materia. Las síndicas electas y los síndicos electos por ambas fórmulas tendrán las atribuciones que les señale la ley.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 Por cada miembro del ayuntamiento que se elija como propietario se elegirá un suplente.
 
@@ -2401,11 +2661,25 @@ Por cada miembro del ayuntamiento que se elija como propietario se elegirá un s
 
 Para ser miembro propietario o suplente de un ayuntamiento se requiere:
 
-I. Ser mexicano por nacimiento, ciudadano del Estado, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+I. Ser mexicana o mexicano, ciudadana o ciudadano del Estado, en pleno ejercicio de sus derechos;
 
 II. Ser mexiquense con residencia efectiva en el municipio no menor a un año o vecino del mismo, con residencia efectiva en su territorio no menor a tres años, anteriores al día de la elección; y
 
 III. Ser de reconocida probidad y buena fama pública.
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+IV. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+V. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+VI. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2413,27 +2687,39 @@ III. Ser de reconocida probidad y buena fama pública.
 
 No pueden ser miembros propietarios o suplentes de los ayuntamientos:
 
-I. Los diputados y senadores al Congreso de la Unión que se encuentren en ejercicio de su cargo;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-II. Los diputados a la Legislatura del Estado que se encuentren en ejercicio de su cargo;
+I. Las diputadas o diputados y senadoras o senadores al Congreso de la Unión que se encuentren en ejercicio de su cargo;
 
-III. Los jueces, magistrados o consejeros de la Judicatura del Poder Judicial del Estado o de la Federación;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Los servidores públicos federales, estatales o municipales en ejercicio de autoridad;
+II. Las diputadas o diputados a la Legislatura del Estado que se encuentren en ejercicio de su cargo;
 
-V. Los militares y los miembros de las fuerzas de seguridad pública del Estado y los de los municipios que ejerzan mando en el territorio de la elección; y
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Los ministros de cualquier culto, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
+III. Las juezas o jueces, magistradas o magistrados o consejeras o consejeros de la Judicatura del Poder Judicial del Estado o de la Federación;
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los servidores públicos a que se refieren las fracciones de la I a la V serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos noventa días antes de la elección.
+IV. Las y los servidores públicos federales, estatales o municipales en ejercicio de autoridad;
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+V. Las y los militares y los miembros de las fuerzas de seguridad pública del Estado y los de los municipios que ejerzan mando en el territorio de la elección; y
+
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Las y los ministros de cualquier culto, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las y los servidores públicos a que se refieren las fracciones de la I a la V serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos noventa días antes de la elección.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 121.
 
-Para el despacho de los asuntos municipales cada Ayuntamiento designará un Secretario y sus atribuciones serán las que determine la ley respectiva.
+Para el despacho de los asuntos municipales cada Ayuntamiento designará una Secretaria o un Secretario y sus atribuciones serán las que determine la ley respectiva.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2451,11 +2737,11 @@ Los municipios tendrán a su cargo las funciones y servicios públicos que seña
 
 Los municipios ejercerán las facultades señaladas en la Constitución General de la República, de manera coordinada con el Gobierno del Estado, de acuerdo con los planes y programas federales, estatales, regionales y metropolitanos a que se refiere el artículo 139 de este ordenamiento.
 
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 123.
 
-Los ayuntamientos, en el ámbito de su competencia, desempeñarán facultades normativas, para el régimen de gobierno y administración del Municipio, así como lo relacionado al Sistema Municipal Anticorrupción y funciones de inspección, concernientes al cumplimiento de las disposiciones de observancia general aplicables.
+Los ayuntamientos, en el ámbito de su competencia, desempeñarán facultades normativas, para el régimen de gobierno y administración del Municipio, así como lo relacionado al Sistema Municipal Anticorrupción y funciones de inspección, concernientes al cumplimiento de las disposiciones de observancia general aplicables. En la designación de los cargos de dirección de la administración pública municipal se observará el principio de igualdad y equidad de género.
 
 > <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -2483,23 +2769,27 @@ Las leyes del Estado no podrán establecer exenciones o subsidios en favor de pe
 
 Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señalen la (sic) leyes de la materia.
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los Ayuntamientos podrán celebrar sesiones extraordinarias de cabildo cuando la Ley de Ingresos aprobada por la Legislatura, implique adecuaciones a su Presupuesto de Egresos, así como por la asignación de las participaciones y aportaciones federales y estatales. Estas sesiones tendrán como único objeto concordar con el Presupuesto de Egresos. El Presidente Municipal, promulgará y publicará el Presupuesto de Egresos Municipal, a más tardar el día 25 de febrero de cada año debiendo enviarlo al Órgano Superior de Fiscalización en la misma fecha.
+Los Ayuntamientos podrán celebrar sesiones extraordinarias de cabildo cuando la Ley de ingresos aprobada por la Legislatura, implique adecuaciones a su Presupuesto de Egresos, asi como por la asignación de las participaciones y aportaciones federales y estatales. Estas sesiones tendrán como único objeto concordar con el Presupuesto de Egresos. La Presidenta o el Presidente Municipal, promulgará y publicará el Presupuesto de Egresos Municipal, a más tardar el día 25 de febrero de cada año debiendo enviarlo al Órgano Superior de Fiscalización en la misma fecha.
 
-> <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-El Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 147 de esta Constitución.
+El Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban las y los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 147 de esta Constitución.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o por quien ellos autoricen, conforme a la ley.
 
-> <small>(REFORMADO, G.G. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 126.
 
-El Ejecutivo del Estado podrá convenir con los ayuntamientos la asunción de las funciones que originalmente le corresponden a aquél, la ejecución de obras y la prestación de servicios públicos, cuando el desarrollo económico y social o la protección al ambiente lo hagan necesarios.
+La titular o el titular del Ejecutivo del Estado podrá convenir con los ayuntamientos la asunción de las funciones que originalmente le corresponden a aquél, la ejecución de obras y la prestación de servicios públicos, cuando el desarrollo económico y social o la protección al ambiente lo hagan necesarios.
 
-Tratándose de la protección al ambiente, el Ejecutivo del Estado podrá establecer Regiones Ambientales y Centros Integrales de Residuos en cada región y coordinarse en esta materia con los municipios, a través de los convenios respectivos, en términos de las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Tratándose de la protección al ambiente, la titular o el titular del Ejecutivo del Estado podrá establecer Regiones Ambientales y Centros Integrales de Residuos en cada región y coordinarse en esta materia con los municipios, a través de los convenios respectivos, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.G. 12 DE JULIO DE 2018)</small>
 
 Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, asimismo, podrán asociarse para concesionar los servicios públicos, de conformidad con las disposiciones jurídicas aplicables, prefiriéndose en igualdad de circunstancias a vecinos del municipio. Cuando trascienda el periodo constitucional del Ayuntamiento se requerirá autorización de la Legislatura del Estado.
 
@@ -2507,7 +2797,7 @@ Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y as
 
 ###### Artículo 127.
 
-La ministración de las participaciones del erario que por ley o por convenio deba cubrir el Estado a los municipios, se programará y entregará oportunamente a los ayuntamientos.
+La ministración (sic) de las participaciones del erario que por ley o por convenio deba cubrir el Estado a los municipios, se programará y entregará oportunamente a los ayuntamientos.
 
 Cualquier incumplimiento en la entrega de las participaciones que correspondan a los municipios, en las fechas programadas, será responsabilidad de los servidores públicos que originen el retraso; el Ejecutivo proveerá para que se entreguen inmediatamente las participaciones retrasadas y resarcirá al ayuntamiento que corresponda el daño que en su caso se cause, con cargo a los emolumentos de los responsables.
 
@@ -2517,15 +2807,21 @@ En los casos de participaciones federales, las autoridades del Estado convendrá
 
 ### CAPITULO CUARTO. De las Atribuciones de los Presidentes Municipales
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 128.
 
-Son atribuciones de los presidentes municipales:
+Son atribuciones de las presidentas o presidentes municipales:
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 I. Presidir las sesiones de sus ayuntamientos;
 
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+
 II. Ejecutar las decisiones de los ayuntamientos e informar de su cumplimiento;
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 III. Cumplir y hacer cumplir dentro del municipio, las leyes federales y del Estado y todas las disposiciones que expidan los mismos ayuntamientos;
 
@@ -2541,13 +2837,13 @@ V. Asumir la representación jurídica del Municipio, conforme a la ley respecti
 
 VI. Rendir al ayuntamiento en sesión solemne de cabildo, dentro de los primeros cinco días hábiles del mes de diciembre de cada año, un informe por escrito y en medio electrónico del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
 
-> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Someter a la consideración del Ayuntamiento los nombramientos de los titulares de las dependencias y entidades de la administración pública municipal;
+VII. Someter a la consideración del Ayuntamiento los nombramientos de las o los titulares de las dependencias y entidades de la administración pública municipal;
 
-> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Nombrar y remover libremente a los servidores públicos del municipio cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes que de ella emanan;
+VIII. Nombrar y remover libremente a las o los servidores públicos del municipio cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes que de ella emanan;
 
 > <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -2595,9 +2891,9 @@ Cuando las licitaciones a las que hace referencia el párrafo anterior no sean i
 
 Todos los pagos se harán mediante orden escrita en la que se expresará la partida del presupuesto a cargo de la cual se realicen.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-Los servidores públicos del Estado y municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+Las personas servidoras públicas del Estado y municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
 > <small>(ADICIONADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -2691,11 +2987,11 @@ d) La elaboración de un informe anual que contenga los avances y resultados del
 
 e) Elaboración y entrega de un informe anual al Comité Coordinador del Sistema Estatal Anticorrupción de las acciones realizadas, las políticas aplicadas y del avance de éstas con respecto al ejercicio de sus funciones, además informar al mismo Comité de la probable comisión de hechos de corrupción y faltas administrativas para que en su caso, emita recomendaciones no vinculantes a las autoridades competentes, a fin de que adopten medidas dirigidas al fortalecimiento institucional para la prevención y erradicación de tales conductas.
 
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 131.
 
-Los Diputados de la Legislatura del Estado, los Magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los magistrados del Tribunal de Justicia Administrativa del Estado de México, los titulares de las dependencias del Poder Ejecutivo, el Fiscal General de Justicia y los integrantes de los órganos superiores de los organismos a los que la presente Constitución les otorga autonomía, son responsables de los delitos graves del orden común, que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
+Las Diputadas o Diputados de la Legislatura del Estado, las Magistradas, los Magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, las magistradas o magistrados del Tribunal de Justicia Administrativa del Estado de México, las y los titulares de las dependencias del Poder Ejecutivo, la o el Fiscal General de Justicia y los integrantes de los órganos superiores de los organismos a los que la presente Constitución les otorga autonomía, son responsables de los delitos graves del orden común, que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. La Gobernadora o el Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusada o acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2705,13 +3001,13 @@ Tratándose de los delitos a que se refiere el artículo anterior, la Legislatur
 
 Contra las declaraciones y resoluciones de la Legislatura erigida en Gran Jurado no procede juicio o recurso alguno.
 
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 133.
 
-El Gobernador del Estado, cuando el caso lo amerite, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de los Magistrados del Tribunal de Justicia Administrativa del Estado de México. Si por el voto de las dos terceras partes de los miembros de la Legislatura o de la Diputación Permanente, en sesión de una u otra, se declara justificada la petición, el magistrado acusado quedará privado de su puesto a partir de la fecha en que se le haga saber la resolución, independientemente de la responsabilidad en que, en su caso, haya incurrido y se procederá a nueva designación.
+La Gobernadora o el Gobernador del Estado, cuando el caso lo amerite, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de las Magistradas o Magistrados del Tribunal de Justicia Administrativa del Estado de México. Si por el voto de las dos terceras partes de los miembros de la Legislatura o de la Diputación Permanente, en sesión de una u otra, se declara justificada la petición, la magistrada acusada o el magistrado acusado quedará privada o privado de su puesto a partir de la fecha en que se le haga saber la resolución, independientemente de la responsabilidad en que, en su caso, haya incurrido y se procederá a nueva designación.
 
-El Consejo de la Judicatura del Estado de México, cuando el caso lo amerite, por causas de responsabilidad administrativa o por la comisión de delitos del fuero común, incluidas aquellas faltas y delitos relacionados con actos de corrupción, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de los magistrados del Tribunal Superior de Justicia, misma que será aprobada en su caso por el voto de las dos terceras partes de los miembros presentes de la Legislatura o de la Diputación Permanente, en términos del Procedimiento que al efecto determine la ley.
+El Consejo de la Judicatura del Estado de México, cuando el caso lo amerite, por causas de responsabilidad administrativa o por la comisión de delitos del fuero común, incluidas aquellas faltas y delitos relacionados con actos de corrupción, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de las magistradas o magistrados del Tribunal Superior de Justicia, misma que será aprobada en su caso por el voto de las dos terceras partes de los miembros presentes de la Legislatura o de la Diputación Permanente, en términos del Procedimiento que al efecto determine la ley.
 
 > <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
@@ -2719,13 +3015,15 @@ El Consejo de la Judicatura del Estado de México, cuando el caso lo amerite, po
 
 La Fiscalía Especializada en Combate a la Corrupción es la unidad administrativa competente de la Fiscalía General de Justicia del Estado de México, encargada de la investigación de los delitos, y del ejercicio de la acción penal, ante los tribunales correspondientes, derivado de las acciones u omisiones de los servidores públicos y particulares constitutivos de delitos en materia de corrupción, de acuerdo con las leyes de la materia.
 
-Los servidores públicos condenados por delitos cometidos con motivo del desempeño de sus funciones públicas no gozarán del indulto por gracia.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+Las y los servidores públicos condenados por delitos cometidos con motivo del desempeño de sus funciones públicas no gozarán del indulto por gracia.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 135.
 
-Se concede acción popular para denunciar ante la Legislatura los delitos graves del orden común en que incurran los servidores públicos a que se refiere el artículo 131 de esta Constitución.
+Se concede acción popular para denunciar ante la Legislatura los delitos graves del orden común en que incurran las y los servidores públicos a que se refiere el artículo 131 de esta Constitución.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2743,9 +3041,9 @@ En demandas del orden civil no hay fuero ni inmunidad para ningún servidor púb
 
 Las autoridades del Estado y de los municipios, en la esfera de su competencia, acatarán sin reservas los mandatos de la Constitución Política de los Estados Unidos Mexicanos y cumplirán con las disposiciones de las leyes federales y de los tratados internacionales.
 
-> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-De conformidad con lo dispuesto en la legislación federal aplicable, los titulares de los poderes Ejecutivo, Legislativo y Judicial, de cualquier dependencia u organismo descentralizado de la Administración Pública Estatal y los presidentes municipales, podrán convenir acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales.
+De conformidad con lo dispuesto en la legislación federal aplicable, los titulares de los poderes Ejecutivo, Legislativo y Judicial, de cualquier dependencia u organismo descentralizado de la Administración Pública Estatal y las presidentas o los presidentes municipales, podrán convenir acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2765,7 +3063,9 @@ I. El Sistema Estatal de Planeación Democrática se integra por los planes y pr
 
 Los planes, programas y acciones que formulen y ejecuten los ayuntamientos en las materias de su competencia, se sujetarán a las disposiciones legales aplicables y serán congruentes con los planes y programas federales, estatales, regionales y metropolitanos, en su caso.
 
-Los ciudadanos del Estado, individualmente o a través de agrupaciones legalmente constituidas podrán participar en el proceso de planeación democrática en los términos establecidos por las leyes para la formulación de planes y programas estatales, municipales, regionales y metropolitanos para la integración social de sus habitantes y el desarrollo de las comunidades.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+Las ciudadanas o ciudadanos del Estado, individualmente o a través de agrupaciones legalmente constituidas podrán participar en el proceso de planeación democrática en los términos establecidos por las leyes para la formulación de planes y programas estatales, municipales, regionales y metropolitanos para la integración social de sus habitantes y el desarrollo de las comunidades.
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2833,17 +3133,17 @@ Nunca podrán reunirse en un solo individuo dos empleos o cargos públicos del E
 
 Ningún individuo podrá desempeñar dos cargos de elección popular, pero el electo podrá optar de entre ambos el que quiera desempeñar.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 146.
 
-Los ciudadanos mexicanos que ejerzan el ministerio de cualquier culto no podrán desempeñar cargos de secretarios, subsecretarios, directores en la administración pública estatal, o ser titulares de organismos auxiliares a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años antes de la aceptación del cargo respectivo y seis meses para los demás puestos.
+Las ciudadanas o ciudadanos mexicanos que ejerzan el ministerio de cualquier culto no podrán desempeñar cargos de secretarias, secretarios, subsecretarias, subsecretarios, directoras o directores en la administración pública estatal, o ser titulares de organismos auxiliares a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años antes de la aceptación del cargo respectivo y seis meses para los demás puestos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 147.
 
-El Gobernador, los Diputados, y los Magistrados de los Tribunales Superior de Justicia y de Justicia Administrativa del Estado de México, los miembros del Consejo de la Judicatura, los trabajadores al servicio del Estado, los integrantes y los servidores de los organismos constitucionalmente autónomos, así como los miembros de los ayuntamientos y demás servidores públicos municipales recibirán una retribución adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión, que será determinada en el presupuesto de egresos que corresponda.
+El Gobernador o Gobernadora, los Diputados o Diputadas, y los Magistrados o Magistradas de los Tribunales Superior de Justicia y de Justicia Administrativa del Estado de México, los miembros del Consejo de la Judicatura, los trabajadores y trabajadoras al servicio del Estado, las y los integrantes, y las y los servidores de los organismos constitucionalmente autónomos, así como los miembros de los ayuntamientos y demás servidores públicos municipales recibirán una retribución adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión, que será determinada en el presupuesto de egresos que corresponda.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2006)</small>
 
@@ -2857,7 +3157,9 @@ I. Se considera remuneración o retribución toda percepción en efectivo o en e
 
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida;
 
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República y la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente;
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+III. Ninguna servidora pública o servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República y la remuneración establecida para la Gobernadora o Gobernador del Estado en el presupuesto correspondiente;
 
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
 
@@ -4724,3 +5026,15 @@ G.G. 24 DE JUNIO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 186.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Legislatura deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de aplicar el principio de paridad de género.
+
+CUARTO.- Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones jurídicas aplicables.
