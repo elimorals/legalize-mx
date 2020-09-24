@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2020-09-07"
+last_updated: "2020-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -429,7 +429,7 @@ b) La verificación de los hechos y la publicidad de la verdad.
 
 ### CAPITULO V TER. DE LA VIOLENCIA POLÍTICA
 
-> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 27 Bis.
 
@@ -471,55 +471,169 @@ El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrolla
 
 ###### Artículo 27 Quinquies.
 
-la violencia política contra las mujeres son las acciones u omisiones o bien la tolerancia de las autoridades, basadas en elementos de género que tengan como finalidad menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos en cualquier ámbito de participación o de las prerrogativas inherentes a un cargo público.
+La violencia política contra las mujeres en razón de género es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización; así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-###### Artículo 27 Sexies.
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General, así como en esta Ley y puede ser perpetrada indistintamente por agentes estatales o municipales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-Son actos u omisiones que pueden constituir violencia política contra las mujeres, de manera enunciativa, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+###### Articulo 27 Sexies.
+
+La violencia política contra las mujeres en razón género puede expresarse, entre otras, a través de las siguientes conductas:
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 I. Registrar candidatas con el fin de renunciar a su cargo para que lo asuman suplentes varones.
 
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 II. Registrar a mujeres mayoritariamente en distritos electorales o municipios donde los partidos políticos que las postulen registren baja votación.
 
-III. Amenazas a las mujeres que han sido electas.
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Inequidad en la distribución de los recursos para las campañas.
+III. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-V. Represalias o difusión diferenciada por vincularse y defender temas de género y derechos humanos de las mujeres.
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Desestimación y descalificación de las propuestas que presentan las mujeres.
+IV. Realizar acciones u omisiones que impliquen inequidad en la distribución de los recursos para las campañas en perjuicio de las candidatas;
 
-VII. Agresiones verbales basadas en estereotipos y visiones discriminatorias sobre las mujeres.
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Acoso, ataques físicos, violencia sexual en el ámbito del ejercicio político.
+V. Llevar a cabo represalias o hacer difusión diferenciada por vincularse y defender temas de género y derechos humanos de las mujeres;
 
-IX. Amenazas, o presión para asistir a eventos proselitistas.
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Desestimar o descalificar las propuestas que presentan las mujeres;
+
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Efectuar agresiones verbales basadas en estereotipos y visiones discriminatorias sobre las mujeres;
+
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Amenazar o presionar a las mujeres para asistir a eventos proselitistas;
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 X. Presionar, mediante amenazas o violencia, para votar o abstenerse de votar por un candidato o candidata, partido político o coalición, durante la campaña electoral, el día de la jornada electoral o en los 3 días previos a la misma.
 
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 XI. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de la función política.
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 XII. Ocultar información o bien, proporcionar a las mujeres candidatas o autoridades electas o designadas información falsa, errada o imprecisa que induzca al inadecuado ejercicio de sus funciones públicas.
 
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 XIII. Restringir el uso de la palabra, en las sesiones u otras reuniones políticas en el ejercicio del derecho de petición o en órganos deliberantes.
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 XIV. Restringir la participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida.
 
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 XV. Imponer sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos.
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 XVI. Discriminar a la autoridad designada o en el ejercicio de la función pública, por encontrarse en estado de embarazo, parto o puerperio, impidiendo o negando el ejercicio de su función o el goce de sus derechos.
 
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
 XVII. Divulgar o revelar información personal y privada, de las mujeres que ejerzan una función pública o que aspiren a ella, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan.
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 XVIII. Presionar o inducir a las autoridades electas mujeres o designadas a presentar renuncia al cargo.
 
-XIX. Obstaculizar la participación de las mujeres en las elecciones regidas por sistemas normativos internos o por usos y costumbres de las comunidades indígenas.
+> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Obstaculizar o restringir los derechos políticos y la participación de las mujeres en las elecciones regidas por sistemas normativos internos o propios, tradiciones o por usos y costumbres de las comunidades indígenas que sean violatorios de derechos humanos;
+
+> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 XX. Usar inadecuadamente el presupuesto destinado a la capacitación, promoción y desarrollo del liderazgo político de las mujeres.
 
-XXI. Cualquier otra conducta análoga que se realice conculcando la libertad de derechos político-electorales de las mujeres.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Restringir o anular por razones de género el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Obstaculizar la campaña, de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXX. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, lactancia o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 > <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
@@ -534,6 +648,10 @@ El Instituto Electoral del Estado de México, el Tribunal Electoral del Estado d
 ###### Artículo 28.
 
 Las Órdenes de Protección: Son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos constitutivos de infracciones o delitos que impliquen violencia de género.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de México y el Instituto Electoral del Estado de México podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere este artículo.
 
 ###### Artículo 29.
 
@@ -1263,6 +1381,20 @@ IX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 X. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 52 Bis.
+
+Corresponde al Instituto Electoral del Estado de México:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al realizar los monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, durante el período de precampaña y campaña electoral, o antes si así lo solicita un partido político,
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género;
+
+IV. Las demás previstas para el cumplimiento de la presente Ley y otros ordenamientos.
+
 ### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 53.
@@ -1818,3 +1950,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Los municipios declarados en Alerta de Violencia de Género contra las Mujeres, deberán instalar las comisiones transitorias a que se refiere este Decreto, en un plazo no mayor a sesenta días naturales a partir de su publicación.
+
+G.G. 24 DE SEPTIEMBRE DE 2020.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 187.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, Y DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, EN MATERIA DE VIOLENCIA POLÍTICA Y PARIDAD DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Legislatura deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de aplicar el principio de paridad de género.
+
+CUARTO. Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones jurídicas aplicables.
