@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2020-04-14"
+last_updated: "2020-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -181,9 +181,17 @@ XX. Compartir las bases de datos e información de que disponga en materia delic
 
 Los niveles de acceso y características de la información serán definidos en el protocolo en materia de investigación que emita el Fiscal General, y
 
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Generar un Protocolo de Procedimientos para la Atención y Seguimiento de denuncias por violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Integrar una base de datos con el registro de denuncias por violencia política contra las mujeres en razón de género y compartir la información de que disponga, en términos de las disposiciones legales aplicables, para alimentar la Base Estadística Nacional de Violencia Política contra las Mujeres en razón de género.
+
 > <small>(ADICIONADA Y F. DE E., G.G. 29 DE SEPTIEMBRE DE 2017)</small>
 
-XXI. Las demás previstas en las disposiciones jurídicas aplicables.
+XXIII. Las demás previstas en las disposiciones jurídicas aplicables.
 
 #### SECCIÓN TERCERA. DEL INGRESO Y PERMANENCIA DEL PERSONAL OPERATIVO DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
@@ -1782,3 +1790,15 @@ G.G. 14 DE ABRIL DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 24 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 187.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, Y DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, EN MATERIA DE VIOLENCIA POLÍTICA Y PARIDAD DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Legislatura deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de aplicar el principio de paridad de género.
+
+CUARTO. Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones jurídicas aplicables.
