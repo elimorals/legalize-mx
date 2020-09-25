@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-114915"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-28"
-last_updated: "2020-03-07"
+last_updated: "2020-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Suplemento “B” del Periódico Oficial del Estado de Tabasco, el sábado 28 de mayo de 2016.
 
@@ -133,9 +133,11 @@ El Tribunal Superior de Justicia tendrá jurisdicción en todo el Estado de Taba
 
 Para los efectos de la administración de justicia, el Estado de Tabasco, conforme al sistema mixto tradicional, se dividirá en los distritos judiciales que al efecto determine el Consejo de la Judicatura en los acuerdos respectivos, que deberán ser publicados en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-La impartición de justicia del Sistema Procesal Penal Acusatorio y Oral, se dividirá en regiones judiciales que al efecto determine el Consejo de la Judicatura en los acuerdos respectivos, los cuales deberán ser publicados en el Periódico Oficial del Estado.
+La impartición de justicia del Sistema Procesal Penal Acusatorio y Oral, y del Sistema de Justicia Laboral, se dividirán en regiones judiciales que al efecto determine el Consejo de la Judicatura en los acuerdos respectivos, los cuales deberán ser publicados en el Periódico Oficial del Estado.
 
 ###### Artículo 8.
 
@@ -1087,15 +1089,285 @@ III. Jefe de Unidad de Causa;
 
 IV. Jefe de Unidad de Sala;
 
-V. Notificador; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Demás personal que el Pleno del Consejo determine y el presupuesto permita.
+V. Notificador;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Director General de Administración; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Demás personal que el Pleno del Consejo determine y el presupuesto permita.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2020)</small>
 
 ###### Artículo 67 Quater.
 
 Para ser Juez laboral además de los requisitos establecidos en el artículo 46 de esta Ley, se requiere contar con conocimientos y experiencia en la materia.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 67 Quinquies.
+
+Para ser Secretario Instructor se requiere:
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+
+II. Tener veintisiete años cumplidos;
+
+III. Poseer título de licenciado en derecho y cédula profesional;
+
+IV. No haber sido condenado por delito intencional;
+
+V. Tener capacidad y experiencia en materia laboral;
+
+VI. Ser de reconocida honorabilidad;
+
+VII. Haber desempeñado algún cargo en el Poder Judicial o en las Juntas de Conciliación y Arbitraje, cuando menos durante tres años o su equivalente en el ejercicio profesional;
+
+VIII. No ser ministro de algún culto religioso; y
+
+IX. Cumplir con los demás requisitos que señale el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 67 Sexies.
+
+El Secretario Instructor tendrá las funciones siguientes:
+
+I. Dirigir las actividades necesarias para la tramitación y seguimiento de los procedimientos judiciales, en el ámbito de su competencia;
+
+II. Admitir o prevenir con inmediatez las demandas derivadas de conflictos del trabajo;
+
+III. Adoptar las medidas necesarias para evitar retrasos en la atención de personas en condiciones de vulnerabilidad relacionadas con los procedimientos judiciales, dentro del ámbito de su competencia;
+
+IV. Ordenar al Notificador el desahogo de vistas, traslados y notificaciones;
+
+V. Admitir y proveer respecto de pruebas ofrecidas para acreditar excepciones dilatorias;
+
+VI. Dictar las providencias cautelares que resulten procedentes;
+
+VII. Dictar los acuerdos conducentes hasta antes de la audiencia preliminar;
+
+VIII. Certificar que las notificaciones personales estén debidamente practicadas;
+
+IX. Hacer constar oralmente el registro, fecha, hora y lugar de las audiencias, el nombre de quienes intervendrán y tomar la protesta de ley a las partes;
+
+X. Rendir en tiempo y forma, dentro del ámbito de su competencia, el informe relacionado con la observancia a los ordenamientos jurídicos en materia de transparencia y acceso a la información pública;
+
+XI. Vigilar que la conducta del personal a su cargo se ajuste a lo dispuesto en esta Ley, el Código de Ética y el Reglamento Interior del Poder Judicial;
+
+XII. Dar vista al Consejo de la Judicatura de las faltas administrativas cometidas por el personal a su cargo;
+
+XIII. Despachar los exhortos, requisitorias y colaboraciones que reciba el Tribunal, observando las formalidades procesales correspondientes;
+
+XIV. Revisar el estatus de los expedientes para gestionar el impulso de los mismos, de acuerdo a la Ley Federal del Trabajo;
+
+XV. Registrar, administrar, dar seguimiento y supervisar el cumplimiento de los amparos que se promuevan contra resoluciones o sentencias definitivas, de conformidad con la Ley de Amparo;
+
+XVI. Certificar los medios en donde se encuentren registradas las audiencias, identificarlas con el número de expediente y tomar las medidas necesarias para evitar que puedan alterarse;
+
+XVII. Expedir copias certificadas de registros y actuaciones procesales a los interesados;
+
+XVIII. Dar vista al Fiscal del Ministerio Público en los casos que establece la Ley Federal del Trabajo;
+
+XIX. Certificar las actas que se generen a través del Sistema de Gestión Judicial;
+
+XX. Auxiliar al Juez en los casos que determine la Ley Federal del Trabajo;
+
+XXI. Administrar en conjunto con el Jefe de Unidad de Causa la agenda del Juez, a fin de realizar el registro de las audiencias ordenadas en los asuntos de su competencia;
+
+XXII. Elaborar la autovisita mensual y coordinarse con la Visitaduría Judicial para atender las visitas ordinarias y extraordinarias que determine el Consejo de la Judicatura;
+
+XXIII. Designar al auxiliar de unidad de causa que tendrá a su cargo la recepción y turno de las promociones, correspondencia, escritos y documentos, relacionados con la tramitación y seguimiento de los asuntos competencia del Tribunal;
+
+XXIV. Proponer la capacitación y adiestramiento del personal a su cargo;
+
+XXV. Disponer la tramitación inmediata del escrito de emplazamiento a huelga que de manera lícita y justificada formule una coalición de trabajadores, observando los plazos establecidos en la Ley Federal del Trabajo; así como atender en el ámbito de su competencia, la substanciación del procedimiento correspondiente; y
+
+XXVI. Las que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Consejo de la Judicatura, las que le asigne el Juez y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 67 Septies.
+
+Para ser Jefe de Unidad de Causa de los tribunales laborales se deberá cumplir con los requisitos establecidos en el artículo 39 de esta Ley, además de contar con los conocimientos necesarios en el Sistema de Justicia Laboral.
+
+El Jefe de Unidad de Causa de los tribunales laborales tendrá las funciones siguientes:
+
+I. Registrar los asuntos iniciados en el Sistema de Gestión Judicial o en los mecanismos implementados para tal efecto, asignarles el número de expediente y mantenerlos actualizados, acorde con el estatus procesal;
+
+II. Dar cuenta conforme a los plazos de ley y acordar con su superior jerárquico inmediato lo concerniente a las promociones, correspondencia, escritos o documentos recibidos, a efecto de ejecutar las determinaciones derivadas de la tramitación y seguimiento de los asuntos competencia del Tribunal;
+
+III. Revisar diariamente el Sistema de Gestión Judicial, conforme al ámbito de su competencia;
+
+IV. Tramitar, llevar el registro y control de los juicios de amparo que se promuevan contra las resoluciones dictadas por el Tribunal;
+
+V. Llevar el registro de los convenios derivados de las conciliaciones celebradas en sede judicial;
+
+VI. Dirigir y supervisar la captura, digitalización e integración de las causas, actuaciones, documentos e información en el Sistema de Gestión Judicial, conforme al ámbito de su competencia;
+
+VII. Constatar que el expediente cuente con todos los documentos que deben integrarlo, que su integración corresponda a las actuaciones ordenadas y que se encuentren debidamente requisitadas, en el ámbito de su competencia;
+
+VIII. Turnar al Notificador con prontitud, los acuerdos, oficios o resoluciones, mediante el Sistema de Gestión Judicial para que efectúe las notificaciones en los términos establecidos por la Ley Federal del Trabajo;
+
+IX. Verificar que el Notificador haya llevado a cabo, en tiempo y forma las notificaciones;
+
+X. Administrar en conjunto con el Secretario Instructor la agenda del Juez, a fin de realizar el registro de las audiencias ordenadas en los asuntos de su competencia y coordinarse al respecto con el Jefe de Unidad de Sala;
+
+XI. Constatar que el Juez tenga preparados los expedientes en los que deberá presidir audiencias;
+
+XII. Comunicar al Jefe de Unidad de Sala, con la debida anticipación, la agenda de audiencias acordadas;
+
+XIII. Efectuar y mantener actualizados sus reportes estadísticos, así como remitirlos oportunamente a las áreas correspondientes;
+
+XIV. Dar cumplimiento en tiempo y forma a las obligaciones en materia de transparencia y acceso a la información pública;
+
+XV. Coordinarse con el Jefe de Unidad de Sala y el Técnico de Audio y Video para la implementación de acciones a fin de mantener ordenado y clasificado el archivo general del Tribunal;
+
+XVI. Vigilar que el personal a su cargo se conduzca con orden y disciplina;
+
+XVII. Brindar atención al público, dentro del ámbito de su competencia;
+
+XVIII. Verificar el cumplimiento de los plazos y términos procesales, conforme al ámbito de su competencia;
+
+XIX. Intervenir en las autovisitas y rendir la información requerida; y
+
+XX. Las que le asigne el Juez o Secretario Instructor, con apego a las disposiciones establecidas en esta Ley, la Ley Federal del Trabajo y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 67 Octies.
+
+Para ser Jefe de Unidad de Sala de los tribunales laborales se deberán cumplir con los requisitos establecidos en el artículo 39 de esta Ley, además de contar con los conocimientos necesarios en el Sistema de Justicia Laboral.
+
+El Jefe de Unidad de Sala de los tribunales laborales tendrá las funciones siguientes:
+
+I. Organizar el trabajo diario de la Unidad de Sala;
+
+II. Coordinarse con el Jefe de Unidad de Causa para la observancia de lo relacionado con la agenda del Juez y, en el ámbito de su competencia, realizar los preparativos necesarios para el desahogo de las audiencias;
+
+III. Llevar el control de las audiencias que deberán efectuarse en la sala a su cargo, de acuerdo con la agenda del Juez, así como operar y mantener actualizada la información que corresponda en el Sistema de Gestión Judicial;
+
+IV. Supervisar la utilización adecuada de las salas, controlar el acceso a las mismas y verificar su disposición oportuna de acuerdo a la programación de audiencias;
+
+V. Verificar la preparación de los medios de comunicación remota, programando su disponibilidad y supervisando su utilización para garantizar la adecuada transmisión de datos;
+
+VI. Verificar que las partes intervinientes en las audiencias hayan sido notificadas en tiempo y forma, así como confirmar su presencia en la fecha y hora señalada;
+
+VII. Ordenar el ingreso de las partes que intervendrán en las audiencias programadas a la sala correspondiente;
+
+VIII. Permitir el acceso del público en general a la sala de audiencias, salvo los casos en que el Juez determine que deban ser a puerta cerrada;
+
+IX. Llamar a los peritos, testigos y a quienes deban absolver posiciones para que accedan a la sala;
+
+X. Ubicar a las partes intervinientes en sus respectivos lugares;
+
+XI. Constatar que el expediente cuente con todos los documentos que deben integrarlo, que su integración corresponda a las actuaciones ordenadas y que se encuentren debidamente requisitadas, conforme al ámbito de su competencia;
+
+XII. Verificar que el expediente completamente integrado y requisitado se encuentre en el módulo del Juez antes de cada audiencia;
+
+XIII. Permanecer en la sala durante el tiempo que dure la audiencia, asistiendo al Juez en todo lo necesario;
+
+XIV. Vigilar que las personas en condiciones de vulnerabilidad reciban atención prioritaria y pronta;
+
+XV. Coordinarse con el Jefe de Unidad de Causa y el Técnico de Audio y Video para la implementación de acciones a fin de mantener ordenado y clasificado el archivo general del Tribunal;
+
+XVI. Efectuar y mantener actualizados sus reportes estadísticos, así como remitirlos oportunamente a las áreas administrativas correspondientes;
+
+XVII. Supervisar las actas que contengan la transcripción de las audiencias;
+
+XVIII. Verificar el cumplimiento de los términos y plazos procesales, conforme al ámbito de su competencia;
+
+XIX. Vigilar que el personal a su cargo se conduzca con orden y disciplina;
+
+XX. Intervenir en las autovisitas y rendir la información requerida;
+
+XXI. Dar cumplimiento en tiempo y forma a las obligaciones en materia de transparencia y acceso a la información pública; y
+
+XXII. Las que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Consejo de la Judicatura, las que le asigne el Juez o el Secretario Instructor y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 67 Nonies.
+
+Para ser Notificador de los tribunales laborales se requiere cumplir con los requisitos establecidos en el artículo 43 de esta Ley.
+
+El Notificador de los tribunales laborales tendrá las funciones siguientes:
+
+I. Efectuar las notificaciones, traslados y vistas que le encomiende el Secretario Instructor, atendiendo a las formalidades y plazos que marca la Ley Federal del Trabajo y demás ordenamientos aplicables;
+
+II. Realizar las notificaciones por buzón electrónico a las partes que intervendrán en las audiencias y expresamente lo hubieren solicitado;
+
+III. Entregar la correspondencia y citaciones a las partes, recabando la firma de acuse de recibo, para efectos de control;
+
+IV. Asentar en las actas, en forma clara y precisa las circunstancias de cada notificación, así como los datos relevantes que deba conocer su superior jerárquico inmediato;
+
+V. Informar al Secretario Instructor o al Jefe de Unidad de Causa sobre las notificaciones efectuadas, o en su caso, reportar las causas por las que no han sido practicadas;
+
+VI. Establecer con el Secretario Instructor o con el Jefe de Unidad de Causa, la mecánica para la entrega recepción de los expedientes para notificación;
+
+VII. Llevar el control físico y electrónico de las notificaciones;
+
+VIII. Rendir los datos que le sean requeridos en las autovisitas, así como en las visitas ordinarias y extraordinarias que efectúe la Visitaduría Judicial;
+
+IX. Ajustar su conducta a los lineamientos establecidos en esta Ley, el Código de Ética y el Reglamento Interior del Poder Judicial;
+
+X. Revisar diariamente el Sistema de Gestión Judicial y efectuar las notificaciones correspondientes;
+
+XI. Coordinar sus actividades con el Jefe de Unidad de Causa y de Unidad de Sala, para efectuar las notificaciones en los términos que indica la Ley Federal del Trabajo y esta Ley; y
+
+XII. Las que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Consejo de la Judicatura, las que le asigne el Juez, el Secretario Instructor o el Jefe de Unidad de Causa y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+###### Artículo 67 Decies.
+
+La Dirección General de Administración de los Tribunales Laborales estará a cargo de un titular, que será nombrado por el Pleno del Consejo de la Judicatura a propuesta del Presidente.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 67 Undecies. Para ser Director General de Administración de los Tribunales Laborales se requiere:
+
+I. Tener nacionalidad mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Tener 30 años cumplidos, al día de su designación;
+
+III. Poseer título y cédula profesional de licenciado en Derecho;
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 277/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IV. NO HABER SIDO CONDENADO POR DELITO DOLOSO; Y
+
+V. Tener conocimiento en materia laboral.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 67 Duodecies. El Director General de Administración de los Tribunales Laborales dependerá del Consejo de la Judicatura y tendrá de manera enunciativa, más no limitativa, las funciones siguientes:
+
+I. Supervisar y ejecutar el cumplimiento de los acuerdos, lineamientos, protocolos, manuales y demás ordenamientos aprobados por el Pleno del Consejo de la Judicatura relacionados con el funcionamiento de los tribunales laborales;
+
+II. Proponer al Pleno del Consejo de la Judicatura, lineamientos, protocolos, manuales y, en general, buenas prácticas administrativas para el buen funcionamiento de los tribunales laborales;
+
+III. Elaborar, en el ámbito de su competencia, los informes solicitados por las autoridades encargadas de previsión social, transparencia, conciliación y registro laboral, así como los requeridos por la Presidencia, los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, la Visitaduría Judicial o cualquier otro órgano administrativo;
+
+IV. Fungir como enlace administrativo de los tribunales laborales ante la Secretaría del Trabajo y Previsión Social y demás instituciones encargadas de previsión social; los centros federal y estatal de conciliación; las instituciones nacionales y estatales en materia de transparencia; el Pleno del Tribunal Superior de Justicia del Estado y demás autoridades correspondientes;
+
+V. Realizar con base en los datos proporcionados por los tribunales laborales, los informes estadísticos requeridos, así como la estadística analítica que permita medir cualitativa y cuantitativamente los resultados de la operatividad de aquellos e informar semestralmente sobre los resultados al Consejo de la Judicatura;
+
+VI. Proponer al Consejo de la Judicatura indicadores de medición que permitan detectar la funcionabilidad y áreas de oportunidad de los tribunales laborales;
+
+VII. Elaborar estudios y diagnósticos que contribuyan a la mejora continua de los tribunales laborales;
+
+VIII. Participar en las acciones de coordinación con las autoridades competentes a fin de solventar las necesidades de orden administrativo y de seguridad de los tribunales laborales; y
+
+IX. Las que le confiera esta Ley, los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 67 Terdecies. Para el adecuado ejercicio de sus funciones, la Dirección General de Administración de los Tribunales Laborales contará con el personal auxiliar que se requiera conforme a las necesidades del servicio y la disponibilidad presupuestal.
 
 ### CAPÍTULO IV. DE LOS JUECES DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL
 
@@ -4114,3 +4386,13 @@ TERCERO. El Consejo de la Judicatura adoptará en el ámbito de su competencia l
 CUARTO. Los Tribunales Laborales iniciarán sus funciones en el cuarto trimestre de 2020, en los términos que para tal efecto se establezcan mediante acuerdo del Pleno del Consejo de la Judicatura.
 
 QUINTO. El Consejo de la Judicatura definirá mediante acuerdo las atribuciones que corresponderán a los jefes de Unidad de Causa y de Unidad de Sala a los que se refieren las fracciones III y IV del artículo 67 Ter, que se adiciona mediante el presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 219 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 7; 67 TER FRACCIONES V Y VI; Y SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 67 TER; LOS ARTÍCULOS 67 QUINQUIES, 67 SEXIES, 67 SEPTIES, 67 OCTIES, 67 NONIES, 67 DECIES, 67 UNDECIES, 67 DUODECIES Y 67 TERDECIES; TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. El Consejo de la Judicatura adoptará en el ámbito de su competencia, las medidas correspondientes para el cumplimiento del presente Decreto, en términos de las disposiciones jurídicas aplicables.
