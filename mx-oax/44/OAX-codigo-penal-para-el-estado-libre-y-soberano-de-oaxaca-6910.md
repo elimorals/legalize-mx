@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-09-12"
+last_updated: "2020-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1019,13 +1019,13 @@ Multa.
 
 23.- La multa consiste en el pago de una cantidad de dinero al Estado y se aplicará al Fondo para la Administración de Justicia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-24.- La multa se fijará por días multa y no podrá exceder de mil quinientos días de salario.
+24.- La multa se fijará por días multa y no podrá exceder de mil quinientos veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-El día multa equivale al salario mínimo general vigente en el lugar y: en el momento de la consumación, si el delito fuere instantáneo; o en el momento que cesó, si fuere delito permanente; o en el momento consumativo de la última conducta, si fuere delito continuado;
+El día multa equivale al valor de Unidad de Medida y Actualización vigente y: en el momento de la consumación, si el delito fuere instantáneo; o en el momento que cesó, si fuere delito permanente; o en el momento consumativo de la última conducta, si fuere delito continuado;
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1047,9 +1047,13 @@ Cada jornada de trabajo saldará un día de multa. Cuando no sea posible o conve
 
 26.- Dentro del plazo señalado para el cumplimiento voluntario, el sentenciado podrá solicitar al Juez que le conceda pagar la multa en parcialidades, pudiendo dicha autoridad fijar plazos de la manera siguiente:
 
-I.- Si el monto no excede de cien salarios, se podrá conceder un plazo hasta de un mes y pagarse por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en una sola exhibición; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-II.- Si el monto excede de cien salarios, se podrá conceder un plazo hasta de seis meses, y pagarse por terceras partes, si se da la condición expresada en la fracción anterior.
+I.- Si el monto no excede de cien veces el valor de la Unidad de Medida y Actualización vigente, se podrá conceder un plazo hasta de un mes y pagarse por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en una sola exhibición; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Si el monto excede de cien veces el valor de la Unidad de Medida y Actualización vigente, se podrá conceder un plazo hasta de seis meses, y pagarse por terceras partes, si se da la condición expresada en la fracción anterior.
 
 Si el sentenciado se negare, sin causa justificada, a cubrir el importe de la multa, el Estado lo exigirá mediante el procedimiento económico coactivo.
 
@@ -3205,9 +3209,9 @@ Evasión de presos.
 
 153.- Se aplicará de tres meses a siete años de prisión, al que favoreciere la evasión de algún detenido, procesado, o condenado.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-Si el evadido fuere un procesado o sentenciado por el delito de secuestro agravado a que se refiere el artículo 348 BIS A y el que favoreciera su evasión fuere un servidor público del sistema penitenciario, de seguridad pública, de procuración o impartición de justicia, se le impondrá de treinta a cincuenta años de prisión y multa de 500 a 1,000 días de salario.
+Si el evadido fuere un procesado o sentenciado por el delito de secuestro agravado a que se refiere el artículo 348 BIS A y el que favoreciera su evasión fuere un servidor público del sistema penitenciario, de seguridad pública, de procuración o impartición de justicia, se le impondrá de treinta a cincuenta años de prisión y multa de 500 a 1,000 veces el valor de la Unidad de Medida y Actualización.
 
 154.- El artículo anterior no comprende a los ascendientes, descendientes, cónyuge o hermanos del prófugo, ni a sus parientes por afinidad hasta el segundo grado, pues están excentos (sic) de toda sanción, excepto el caso en que hayan proporcionado la fuga por medio de la violencia en las personas o en las cosas.
 
@@ -3261,9 +3265,9 @@ En todos los casos incluídos en este artículo, además de las medidas señalad
 
 Asociaciones delictuosas.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-164.- Se impondrán prisión de tres a seis años y multa de cincuenta a cien días de salario, al que tomare participación en una asociación o banda de tres o más personas, organizada para cometer alguno o algunos delitos, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido. Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la autorización legal correspondiente.
+164.- Se impondrán prisión de tres a seis años y multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente, al que tomare participación en una asociación o banda de tres o más personas, organizada para cometer alguno o algunos delitos, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido. Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la autorización legal correspondiente.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
@@ -3285,9 +3289,9 @@ Si con alguna de las conductas previstas en este artículo resulta la comisión 
 
 Provocación de un delito y apología de éste.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-165 Bis.- Al que provoque públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien días de salario mínimo, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+165 Bis.- Al que provoque públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien veces el valor de la Unidad de Medida y Actualización vigente, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -3477,17 +3481,27 @@ Venta de bebidas alcohólicas a menores de edad.
 
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
 
-I.- Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
+I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
 
-A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta días de salario mínimo.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-II.- Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para sí o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta días de salario mínimo;
+A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta veces el valor de la Unidad de Medida y Actualización vigente.
 
-III.- Quien permita directa o indirectamente el acceso de una persona menor de dieciocho años de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, a espectáculos o exhibiciones audiovisuales de carácter pornográfico. Estas conductas se sancionarán con prisión de tres a cinco años de prisión y multa de trescientos a trescientos cincuenta días de salario mínimo;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-IV.- Quien ejecute o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho. Estas conductas se sancionarán con prisión de tres a cinco años y multa de trescientos a trescientos cincuenta días de salario mínimo; y
+II. Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para sí o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización vigente;
 
-V.- Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográficos, reales o simulados, sea de manera física o a través de cualquier medio, se sancionará con prisión de uno a tres años y multa de cien a doscientos días de salario mínimo.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+III. Quien permita directa o indirectamente el acceso de una persona menor de dieciocho años de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, a espectáculos o exhibiciones audiovisuales de carácter pornográfico. Estas conductas se sancionarán con prisión de tres a cinco años de prisión y multa de trescientos a trescientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Quien ejecute o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho. Estas conductas se sancionarán con prisión de tres a cinco años y multa de trescientos a trescientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+V. Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográficos, reales o simulados, sea de manera física o a través de cualquier medio, se sancionará con prisión de uno a tres años y multa de cien a doscientos veces el valor de la Unidad de Medida y Actualización vigente.
 
 No se entenderá como material pornográfico, aquel que signifique o tenga como fin la divulgación científica, artística o técnica, o en su caso, la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo, siempre que esté aprobado por la autoridad competente.
 
@@ -4153,9 +4167,9 @@ III.- Al que soborne a un testigo, a un perito, o a un intérprete para que se c
 
 IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el salario mínimo general; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
+231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el valor de la Unidad de Medida y Actualización Vigente; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2012)</small>
 
@@ -4247,9 +4261,9 @@ Disposiciones comunes a los capítulos precedentes.
 
 235.- Las disposiciones contenidas en este título solo se aplicarán en lo que no estuviere previsto en las leyes especiales o no se opusiera a lo establecido en ellas.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta salarios mínimos. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que hayan sido condenados.
+235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta veces el valor de la Unidad de Medida y Actualización vigente. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenados.
 
 TITULO DECIMOPRIMERO.
 
@@ -4335,9 +4349,11 @@ Las autoridades competentes, procederán al inmediato aseguramiento de los vehí
 
 Del tráfico de plazas y servicios.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-240 Ter.- Se impondrá pena de tres a siete años de prisión y multa de cien a quinientas veces el salario mínimo, a quien obtenga un lucro o beneficio económico, prometiendo falsamente otorgar u obtener para otra persona un empleo, trabajo, cargo, plaza, comisión o nombramiento en el sector público o privado, o una concesión, autorización, permiso, licencia, contrato o trámite respecto de un servicio público.
+240 Ter.- Se impondrá pena de tres a siete años de prisión y multa de cien a quinientas veces el valor de la Unidad de Medida y Actualización vigente, a quien obtenga un lucro o beneficio económico, prometiendo falsamente otorgar u obtener para otra persona un empleo, trabajo, cargo, plaza, comisión o nombramiento en el sector público o privado, o una concesión, autorización, permiso, licencia, contrato o trámite respecto de un servicio público.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
 
 Si el sujeto activo es servidor público, se aumentará en una mitad los mínimos y máximos de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ejercer otro por un tiempo igual al de la pena de prisión impuesta.
 
@@ -5085,19 +5101,27 @@ III.- Al servidor público que no realice la consignación de un detenido dentro
 
 347.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-347 Bis.- Cuando se sustraiga a un menor de doce años de edad, de su seno familiar por un pariente sin limitación de grado, que no ejerza la patria potestad o la tutela sobre él, y con el propósito distinto a los señalados en el artículo 348 BIS C, se le impondrá la pena de uno a cinco años de prisión y multa de cincuenta a quinientos días de salario.
+347 Bis.- Cuando se sustraiga a un menor de doce años de edad, de su seno familiar por un pariente sin limitación de grado, que no ejerza la patria potestad o la tutela sobre él, y con el propósito distinto a los señalados en el artículo 348 BIS C, se le impondrá la pena de uno a cinco años de prisión y multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 Este delito sólo se perseguirá por querella de la parte ofendida si el menor no sufrió algún daño, en caso contrario, si el daño constituyere un delito que deba perseguirse de oficio, la querella será inadmisible y se atenderá a las reglas del concurso de delitos.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-347 Bis A.- Cuando se detenga en calidad de rehén a una persona o servidor público, con el fin de presionar para que un servidor público realice o deje de realizar un acto de cualquier naturaleza, se le impondrá al autor de esta conducta de tres a diez años de prisión y multa de cincuenta a cuatrocientos salarios mínimos.
+347 Bis A.- Cuando se detenga en calidad de rehén a una persona o servidor público, con el fin de presionar para que un servidor público realice o deje de realizar un acto de cualquier naturaleza, se le impondrá al autor de esta conducta de tres a diez años de prisión y multa de cincuenta a cuatrocientas veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 En este supuesto, si el sujeto activo deja en libertad a la persona ilegalmente retenida, en forma espontánea dentro de las veinticuatro horas siguientes al inicio de la privación de la libertad, el delito se perseguirá por querella y en su caso, la sanción que se aplique será de la tercera parte del mínimo a la tercera parte del máximo; y si desiste de la privación de la libertad, dentro de las setenta y dos horas siguientes de iniciada aquella, la pena será de las dos terceras partes de la mínima, a las dos terceras partes de la máxima.
 
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 SI con la conducta descrita en el primer párrafo de este artículo, concurrieren amenazas de privar a los rehenes de la vida o de causarles un daño de cualquier tipo se agravará la pena de uno a tres años.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 Si resultare otro delito, se atenderá a la pena agravada y a las reglas del concurso de delitos.
 
@@ -5129,7 +5153,9 @@ Secuestro.
 
 348.- Comete el delito de secuestro quien prive de su libertad a otro, para obtener un rescate en dinero, en especie o información que la víctima o una persona relacionada con ella pueda tener en razón del empleo o actividad que desempeñe o para causarle un daño o perjuicio al secuestrado o a persona distinta pero relacionada con éste.
 
-Al responsable de este delito se le impondrá de cuarenta a sesenta y cinco años de prisión y multa de setecientos cincuenta a mil quinientos días de salario.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Al responsable de este delito se le impondrá de cuarenta a sesenta y cinco años de prisión y multa de setecientos cincuenta a mil quinientas veces el valor de la Unidad de Medida y Actualización vigente.
 
 La misma pena se impondrá a quien a sabiendas de su ilicitud realice actos de administración, pago, enajenación, traslado, transferencia de bienes o derechos, producto del secuestro.
 
@@ -5139,7 +5165,9 @@ A los autores y partícipes de este delito no se les concederá ningún benefici
 
 348 Bis.- Comete el delito de secuestro exprés el que prive de la libertad a otra persona, con el objeto de obtener un lucro mediante el uso de cualesquiera de los siguientes medios: Tarjetas de crédito, tarjetas de débito, título de crédito, medios electrónicos, informáticos, mecánicos, en especie o efectivo.
 
-Al que cometa el delito señalado en el párrafo anterior, se le impondrá la pena de diez a quince años de prisión y multa de quinientos a setecientos treinta días de salario.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Al que cometa el delito señalado en el párrafo anterior, se le impondrá la pena de diez a quince años de prisión y multa de quinientos a setecientos treinta veces el valor de la Unidad de Medida y Actualización vigente.
 
 Si el tiempo de la privación de la libertad excediera de cinco horas se aplicará lo dispuesto en el artículo 348.
 
@@ -5161,9 +5189,9 @@ VI. La secuestrada sea mujer; y
 
 VII. Cuando el plagiario tenga una relación de parentesco, confianza o lealtad con el secuestrado.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-En estos casos, la pena será de 70 a 105 años de prisión para el autor y partícipes del delito y se impondrá multa de setecientos cincuenta hasta mil quinientos salarios.
+En estos casos, la pena será de 70 a 105 años de prisión para el autor y partícipes del delito y se impondrá multa de setecientos cincuenta hasta mil quinientas veces el valor de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -5177,9 +5205,9 @@ El producto de los bienes señalados en el párrafo anterior se aplicará prefer
 
 Si resultare otro delito en perjuicio o agravio de la víctima de secuestro, se estará a las reglas del concurso de delitos.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-348 Bis B.- Al que realice un acto o actos simulados de secuestro tendentes a engañar a la autoridad o para obtener un lucro o causar un daño a un tercero, se le impondrá de dos a cuatro años de prisión y multa de cincuenta a cien salarios mínimos.
+348 Bis B.- Al que realice un acto o actos simulados de secuestro tendentes a engañar a la autoridad o para obtener un lucro o causar un daño a un tercero, se le impondrá de dos a cuatro años de prisión y multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
@@ -5207,13 +5235,13 @@ Lo dispuesto en el párrafo anterior, también podrá ser cometido por un partic
 
 Se equipara al delito de desaparición forzada de persona, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-348 Bis E.- Al servidor público que cometa el delito de desaparición forzada de personas, se le impondrá una pena de prisión de veinte a treinta años de prisión y multa de trescientos a setecientos salarios mínimos, así como la inhabilitación por el tiempo de la pena fijada en la sentencia ejecutoriada, para el desempeño de cualquier cargo o empleos públicos.
+348 Bis E.- El servidor público que comete el delito de desaparición forzada de personas, se le impondrá una pena de prisión de veinte a treinta años de prisión y multa de trescientos a setecientas veces el valor de la Unidad de Medida y Actualización vigente, así como la inhabilitación por el tiempo de la pena fijada en la sentencia ejecutoriada, para el desempeño de cualquier cargo o empleos públicos.
 
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-Al particular que cometa el delito de desaparición forzada de personas, se le impondrán prisión de cinco a veinticinco años y multa de doscientos a quinientos salarios mínimos.
+Al particular que comete el delito de desaparición forzada de personas, se le impondrá prisión de cinco a veinticinco años y multa de doscientos a quinientas veces el valor de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
@@ -5259,9 +5287,9 @@ II.- El aprovechamiento de cualquier fluido, ejecutado sin derecho y sin consent
 
 III.- Al que, después de la ejecución del robo y sin haber participado en éste, posea, enajene o trafique de cualquier manera, adquiera o reciba los instrumentos, objetos o productos del robo, a sabiendas de esta circunstancia o que el valor intrínseco de la adquisición de éstos sea desproporcionado o sumamente inferior al valor imperante en el mercado.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-350 Bis.- Al que sin derecho y sin consentimiento se apodere de un expediente, total o parcialmente, perteneciente a una oficina pública o Notaría, se aplicará de tres a siete años de prisión y multa de cien a doscientos días de salario mínimo. Si el activo fuere servidor público o Notario, abogado o litigante, además se le inhabilitará, de dos a diez años para ejercer su cargo o profesión.
+350 Bis.- Al que sin derecho y sin consentimiento se apodere de un expediente, total o parcialmente, perteneciente a una oficina pública o Notaría, se aplicará de tres a siete años de prisión y multa de cien a doscientas veces el valor de la Unidad de Medida y Actualización vigente. Si el activo fuere servidor público o Notario, abogado o litigante, además se le inhabilitará, de dos a diez años para ejercer su cargo o profesión.
 
 351.- Para la aplicación de la sanción se tendrá por consumado el robo, desde el momento en que el ladrón se apodera de la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
@@ -5301,13 +5329,15 @@ Se entiende por vehículo de motor, para los efectos de este artículo, las moto
 
 Se entiende por maquinaria pesada todo aquel vehículo automotor que se utilice en los procesos de construcción u obras industriales, incluidas las de minería, construcción y conservación de obras, que por sus características no pueden transitar por las vías de uso público o privadas abiertas al público.
 
-II.- De partes de vehículos automotores o de objetos de que se encuentren en el interior de los mismos, se aplicará de tres a siete años de prisión y de cien a doscientos días multa, salvo que el monto de lo robado exceda de los quinientos salarios, pues entonces la sanción será la prevista en la fracción anterior; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+II.- De partes de vehículos automotores o de objetos de que se encuentren en el interior de los mismos, se aplicará de tres a siete años de prisión y de cien a doscientos días multa, salvo que el monto de lo robado exceda de las quinientas veces el valor de la Unidad de Medida y Actualización vigente, pues entonces la sanción será la prevista en la fracción anterior; y
 
 III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-357 Bis.- Se equiparará al delito de robo de vehículo y se sancionará con pena de ocho a catorce años de prisión y multa de quinientos a mil días de salario mínimo:
+357 Bis.- Se equipara al delito de robo de vehículo y se sancionará con pena de ocho a catorce años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización vigente:
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
@@ -5325,7 +5355,11 @@ III.- Al que desmantele algún vehículo robado o comercialice conjunta o separa
 
 IV.- A quien después de la ejecución del robo de un vehículo y sin haber participado en él, adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte el vehículo o partes de éste, con conocimiento de esta circunstancia.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+
 Cuando los objetos o productos del delito de robo de vehículo se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que provienen de un ilícito.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 Si el que recibió en venta, prenda o bajo cualquier otro concepto el vehículo o partes de éste, sin haber participado en el delito de robo de vehículo y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el artículo anterior, en la proporción correspondiente al delito culposo.
 
@@ -5379,9 +5413,9 @@ VI.- Cuando el ladrón se finja funcionario público o suponga una orden de la a
 
 VII.- Cuando se cometa en contra de un niño, niña o adolescente, persona adulta mayor, persona con discapacidad, persona en compañía de un infante o mujer embarazada.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-363.- Cuando el valor de lo robado no exceda de diez veces el salario, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna si no se ha ejecutado el robo por medio de la violencia.
+363.- Cuando el valor de lo robado no exceda de diez veces el valor de la Unidad de Medida y Actualización vigente, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna si no se ha ejecutado el robo por medio de la violencia.
 
 364.- En todo caso de robo si el Juez, lo creyera justo, podrá suspender al infractor de un mes a seis años en los derechos de tutela curatela, perito, depositario o interventor judicial, síndico o interventor en concursos o quiebras albacea, asesor y representante de ausentes; o en el ejercicio de cualquiera profesión de las que exijan título.
 
@@ -5463,17 +5497,23 @@ IV.- Con prisión de dieciocho a veinticinco años de prisión y multa de tresci
 
 373.- El abigeato de ganado menor se sancionará:
 
-I. Con prisión de tres a cinco años y multa de cincuenta a ciento cincuenta veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-II. Con prisión de cinco a ocho años y multa de ciento cincuenta a trescientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince, y
+I.- Con prisión de tres a cinco años y multa de cincuenta a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento no exceda de cinco cabezas;
 
-III. Con prisión de ocho a diez años y multa de trescientas a setecientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Con prisión de cinco a ocho años y multa de ciento cincuenta a trescientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de cinco cabezas pero no de quince, y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+III.- Con prisión de ocho a diez años y multa de trescientas a setecientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de quince cabezas.
 
 373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta salarios mínimos vigente en el momento de cometerse el delito, a quienes:
+374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta veces el valor de la Unidad de Medida y Actualización vigente en el momento de cometerse el delito, a quienes:
 
 I.- Desfiguren o borren las marcas de animales vivos o pieles;
 
@@ -5525,11 +5565,17 @@ Abuso de Confianza.
 
 376.- Comete el delito de abuso de confianza el que, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa ajena mueble de la que se le haya trasmitido la tenencia y no el dominio.
 
-Cuando el monto del abuso no exceda de cien veces el salario, se sancionará con prisión de un mes a dos años y multa de cinco a cien veces el salario.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-Si excede de cien pero no de quinientas veces el salario, la prisión será de dos a cuatro años y la multa de cien a ciento cincuenta veces el salario.
+Cuando el monto del abuso no exceda de cien veces el valor de la Unidad de Medida y Actualización vigente, se sancionará con prisión de un mes a dos años y multa de cinco a cien veces el valor de la Unidad de Medida y Actualización vigente.
 
-Si el monto del abuso excede de quinientas veces el salario, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el salario.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Si excede de cien pero no de quinientas veces el valor de la Unidad de Medida y Actualización vigente, la prisión será de dos a cuatro años y la multa de cien a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Si el monto del abuso excede de quinientas veces el valor de la Unidad de Medida y Actualización vigente, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente.
 
 377.- Se considera como abuso de confianza, para los efectos de la pena:
 
@@ -5583,11 +5629,17 @@ Fraude.
 
 380.- Comete el delito de fraude el que engañando a otro o aprovechándose del error en que éste se halle, se haga ilícitamente de alguna cosa o alcance un lucro indebido. El delito de fraude se castigará con las penas siguientes:
 
-I.- Con prisión de tres meses a tres años y multa de cinco a cien veces el salario, cuando el valor de lo defraudado no exceda de esta última cantidad;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-II.- Con prisión de tres a seis años y multa de cien a ciento cincuenta veces el salario, cuando el valor de lo defraudado exceda de cien veces el salario; pero no de quinientas veces;
+I.- Con prisión de tres meses a tres años y multa de cinco a cien veces el valor de la Unidad de Medida y Actualización vigente, cuando el valor de lo defraudado no exceda de esta última cantidad;
 
-III.- Con prisión de seis a doce años y multa de ciento cincuenta a quinientas veces el salario cuando el valor de lo defraudado exceda de ésta última cantidad.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Con prisión de tres a seis años y multa de cien a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente, cuando el valor de lo defraudado exceda de cien veces el valor de la Unidad de Medida y Actualización vigente; pero no de quinientas veces;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+III.- Con prisión de seis a doce años y multa de ciento cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el valor de lo defraudado exceda de ésta última cantidad.
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
@@ -5653,15 +5705,21 @@ Extorsión.
 
 Este delito se sancionará en los siguientes términos:
 
-I) Cuando el lucro obtenido o perjuicio patrimonial causado no exceda de cien veces el salario mínimo general, se aplicará prisión de uno a tres años y multa de cinco a cien veces el salario.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-II) Si excede de cien veces el salario mínimo general, pero no de quinientas, la prisión será de tres a seis años y la multa de cien a doscientas cincuenta veces el salario.
+I).- Cuando el lucro obtenido o perjuicio patrimonial causado no exceda de cien veces el valor de la Unidad de Medida y Actualización vigente, se aplicará prisión de uno a tres años y multa de cinco a cien veces el salario.
 
-III) Si excede de quinientas veces el salario mínimo general, la prisión será de seis a doce años y la multa de doscientas cincuenta a quinientas veces el salario.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
+II).- Si excede de cien veces el valor de la Unidad de Medida y Actualización vigente, pero no de quinientas, la prisión será de tres a seis años y la multa de cien a doscientas cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
 
-IV) Al que cometa una extorsión por vía telefónica o por cualquier medio electrónico se le impondrá de ocho a catorce años de prisión y multa de quinientos a mil salarios mínimos.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+III).- Si excede de quinientas veces el valor de la Unidad de Medida y Actualización vigente, la prisión será de seis a doce años y la multa de doscientas cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+IV).- Al que cometa una extorsión por vía telefónica o por cualquier medio electrónico se le impondrá de ocho a catorce años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización vigente,. (sic)
 
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -5713,21 +5771,35 @@ Cuando el delito se cometa en contra de los grupos vulnerables a que se refiere 
 
 La punibilidad será aplicable, aun cuando el derecho a la posesión del objeto material del despojo sea dudoso o esté en disputa.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-386.- Se aplicará la pena de quince a veinte años de prisión y multa de ochocientos a mil días de salario mínimo general vigente en el Estado, si el despojo se realiza por dos o más personas; al que planee, o induzca, o financie, o dirija, o propicie la acción de despojo; si el que lo ejecutare fuera servidor público en ejercicio de sus funciones o con motivo de ellas.
+386.- Se aplicará la pena de quince a veinte años de prisión y multa de ochocientos a mil veces el valor de la Unidad de Medida y Actualización vigente, si el despojo se realiza por dos o más personas; al que planee, o induzca, o financie, o dirija o prop1c1e la acc1on de despojo; si el que lo ejecutare fuera servidor público en ejercicio de sus funciones o con motivo de ellas.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 A quienes se dediquen en forma reiterada a promover el despojo de inmuebles urbanos o rústicos y se acredite su reincidencia, se les aplicará de veinte a veinticinco años de prisión. Se considera que se dedican a promover el despojo de inmuebles urbanos en forma reiterada, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o bien, se les hubiere decretado en más de dos ocasiones auto de formal prisión por este mismo delito, salvo cuando en el proceso correspondiente se hubiese resuelto el desvanecimiento de datos, el sobreseimiento o la absolución del inculpado.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
 Si al realizarse el despojo se cometen otros delitos, aun sin la participación física de los que planeen, induzcan, financien, dirijan, o propicien la invasión, se considerará a todos estos, inculpados de los delitos cometidos.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 A las penas que señala el artículo anterior, se acumulará la que corresponda por la violencia o la amenaza.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+
 Si para cometer el delito se destruye la propiedad, se observarán las reglas del concurso.
 
-Cuando el delito de despojo se cometa en el medio rural, sin violencia, se trate de delincuentes primarios y se acredite haber reparado el daño a satisfacción del ofendido, la sanción que se imponga será hasta de seis meses de prisión o multa hasta de cien días de salario mínimo general vigente para nuestro Estado.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando el delito de despojo se cometa en el medio rural, sin violencia, se trate de delincuentes primarios y se acredite haber reparado el daño a satisfacción del ofendido, la sanción que se imponga será hasta de seis meses de prisión o multa de cien veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 En el delito de despojo de inmueble, el perdón del ofendido extingue la acción penal, una vez que se haya restituido el inmueble y que no hubiere resultado daño. Para el caso de que exista algún daño en la propiedad, además de que sea restituido el inmueble, se requerirá repararlo a satisfacción del ofendido.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 
@@ -5755,23 +5827,15 @@ Cuando el delito se ejecute por persona que fuera embozado y por objeto de manif
 
 388.- Al que causare daños mediante inundación, incendio, minas, bombas, o explosivos, o los causare de cualquier modo en bienes de valor científico, artístico, cultural o de utilidad pública, se le aplicará:
 
-I.- De dos a cinco años de prisión y de treinta a doscientos días multa, si el monto del daño no excede de quinientos salarios; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-II.- De cinco a doce años de prisión y de doscientos a quinientos días multa, si el monto excede de quinientos salarios.
+I.- De dos a cinco años de prisión y de treinta a doscientos días multa, si el monto del daño no excede de quinientas veces el valor de la Unidad de Medida y Actualización vigente; y
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-388 Bis.- Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientos días de salario mínimo vigente o prisión de seis meses a tres años.
+II.- De cinco a doce años de prisión y de doscientos a quinientos días multa, si el monto excede de quinientas veces el valor de la Unidad de Medida y Actualización vigente.
 
-Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientos días de salario mínimo vigente o pena privativa de libertad de dos años a seis años.
-
-En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
-
-Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
 ### CAPITULO I.
 
@@ -5871,9 +5935,9 @@ En caso de tratarse de que el ejercicio de la acción penal recaiga sobre un hom
 
 De la Sustracción de Menores o Incapaces.
 
-(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-407.- A quien sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de dieciocho años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientos días de salario mínimo.
+407.- Aquí sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de 18 años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientas veces el valor de la Unidad de Medida y Actualización vigente.
 
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -5887,13 +5951,13 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 
 408.-Si el sujeto activo a que se refiere el artículo anterior, devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
@@ -6097,13 +6161,19 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 
 ### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
+419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 veces el valor de la Unidad de Medida y Actualización vigente a quien:
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
 II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
 
@@ -6129,6 +6199,26 @@ Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualq
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+###### ARTÍCULO 388 Bis.
+
+Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente o pena privativa de libertad de dos años a seis años.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
+
 ## TITULO VIGESIMO.
 
 Encubrimiento.
@@ -6153,9 +6243,11 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
+420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 veces el valor de la Unidad de Medida y Actualización vigente a quien:
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 I. Dolosamente prive de la vida a un animal vertebrado.
 
@@ -6163,9 +6255,11 @@ I. Dolosamente prive de la vida a un animal vertebrado.
 
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
+421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 veces el valor de la Unidad de Medida y Actualización vigente a quien:
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
 
@@ -7214,3 +7308,11 @@ P.O. 12 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.1619.- MEDIANTE EL CUAL SE REFORMA DIVERSAS DISPERSIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
