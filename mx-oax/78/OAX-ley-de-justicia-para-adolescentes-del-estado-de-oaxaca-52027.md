@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-para-adolescentes-del-estado-de-oaxaca-52027"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2013-12-20"
+last_updated: "2020-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -1477,7 +1477,9 @@ La Sala Especializada en Adolescentes del Tribunal Superior de Justicia resolver
 
 Ministerio Público Especializado.
 
-La Procuraduría General de Justicia del Estado, contará con agentes del Ministerio Público especializados en adolescentes que tendrán los siguientes deberes y atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+La Fiscalía General del Estado de Oaxaca, contará con agentes del Ministerio Público especializados en adolescentes que tendrán los siguientes deberes y atribuciones:
 
 I. Realizar la investigación y persecución de las conductas tipificadas como delitos en la ley atribuidas a adolescentes.
 
@@ -1644,3 +1646,11 @@ P.O. 20 DE DICIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, por los delitos contemplados en los artículos 217 Bis A, 241, 247, 348 Bis D, 348 Bis E, 357, 357 Bis, 407 y 408, todos del Código Penal para el Estado Libre y Soberano de Oaxaca, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 26 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1650.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
