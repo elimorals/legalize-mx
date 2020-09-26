@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2020-09-05"
+last_updated: "2020-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -53,15 +53,15 @@ La presente Ley es de orden público, y tiene por objeto reglamentar los artícu
 
 Los Ejecutores de gasto estarán obligados a cumplir las disposiciones de esta Ley así como observar que la administración de los recursos públicos se realice con base en criterios de legalidad, eficiencia, eficacia, economía, transparencia, honestidad, racionalidad, austeridad, control, rendición de cuentas y equidad de género.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca, tendrá a su cargo la revisión y fiscalización del cumplimiento de las disposiciones de esta Ley por parte de los Ejecutores de gasto, conforme a la competencia que le confiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca.
+El Órgano Superior de Fiscalización del Estado de Oaxaca fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los ejecutores de gasto, conforme a la competencia que le confieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-Para los efectos de esta ley, se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
 I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los Ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con la competencia que les señala su respectiva Ley Orgánica o el ordenamiento jurídico que les es aplicable;
 
@@ -261,9 +261,9 @@ XLVII. Ley de Ingresos: la Ley de Ingresos del Estado de Oaxaca para el ejercici
 
 XLVIII. Órganos Autónomos: los entes de derecho público de carácter estatal con patrimonio y personalidad jurídica, con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado Libre y Soberano de Oaxaca a las que se asignen recursos de ramos autónomos del Presupuesto de Egresos;
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-XLVIII Bis. Órgano de Fiscalización: Órgano Superior de Fiscalización del Estado de Oaxaca;
+XLVIII Bis. Órgano Fiscalizador: El Órgano Superior de Fiscalización del Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -369,11 +369,11 @@ LXX. Unidad responsable: Para efectos presupuestales los Poderes Legislativo y J
 
 Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado, deberán incluirse en el Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 3.
 
-La interpretación de esta Ley para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal corresponde a la Secretaría y a la Contraloría en el ámbito de su respectiva competencia. La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y el Código Fiscal para el Estado de Oaxaca serán supletorios de esta Ley en lo conducente.
+La interpretación de esta Ley para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal corresponde a la Secretaría y a la Contraloría en el ámbito de su respectiva competencia. La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y el Código Fiscal para el Estado de Oaxaca serán supletorios de esta Ley en lo conducente.
 
 Las dependencias, entidades, órganos auxiliares del Gobernador del Estado y los órganos auxiliares de colaboración deberán observar las disposiciones generales que emitan la Secretaría y la Contraloría, en el ámbito de su respectiva competencia, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Poderes Legislativo y Judicial y de los Órganos Autónomos, sus respectivas Unidades de administración deberán establecer las disposiciones generales correspondientes.
 
@@ -589,11 +589,11 @@ Al extinguir los fideicomisos que se constituyan en los términos de este artíc
 
 ### CAPÍTULO SEGUNDO. DEL BALANCE PRESUPUESTARIO SOSTENIBLE Y LOS PRINCIPIOS DE RESPONSABILIDAD HACENDARIA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-La Ley de Ingresos y el Presupuesto de Egresos se elaborarán conforme a lo establecido en la legislación aplicable, en la Ley General de Contabilidad Gubernamental y en las normas que para tal efecto emita el Consejo Nacional de Armonización Contable con base en objetivos y parámetros cuantificables e indicadores del desempeño, deberán ser congruentes con el Plan Estatal de Desarrollo y los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
+La Ley de Ingresos y el Presupuesto de Egresos se elaborarán conforme a lo establecido en la legislación aplicable, en la Ley General de Contabilidad Gubernamental y en las normas que para tal efecto emita el Consejo Nacional de Armonización Contable con base en objetivos y parámetros cuantificables e indicadores del desempeño, deberán ser congruentes con el Plan Estatal de Desarrollo y demás aplicables, así como los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1063,9 +1063,11 @@ d) La demás información que contribuya a la comprensión de los proyectos a qu
 
 ### CAPÍTULO TERCERO. DE LA APROBACIÓN Y LOS MECANISMOS DE COMUNICACIÓN Y COORDINACIÓN ENTRE PODERES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 37.
 
-La aprobación de la Ley de Ingresos y del Presupuesto de Egresos se sujetará al siguiente procedimiento:
+La aprobación de la Ley de Ingresos y del Presupuesto de Egresos, deberá considerar lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se sujetará al siguiente procedimiento:
 
 I. El Ejecutivo Estatal, por conducto de la Secretaría, remitirá al Congreso del Estado, a más tardar el 31 de agosto de cada año:
 
@@ -1167,9 +1169,11 @@ A su vez, las Unidades de administración de cada dependencia y entidad deberán
 
 ### CAPÍTULO I. DEL EJERCICIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 40.
 
-Las Unidades de administración de los Ejecutores de gasto serán responsables de la administración por resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en su programa operativo anual, conforme a lo dispuesto en esta Ley y las demás disposiciones aplicables.
+Las Unidades de Administración de los Ejecutores de gasto serán responsables de la administración por resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en su programa operativo anual, conforme a lo dispuesto en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y las demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1549,9 +1553,11 @@ Los Ejecutores de gasto deberán integrar expedientes que incluyan, entre otros,
 
 ### CAPÍTULO QUINTO. DE LOS SERVICIOS PERSONALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 60.
 
-El gasto en servicios personales aprobado en el Presupuesto de Egresos comprende la totalidad de recursos para cubrir:
+El gasto en servicios personales aprobado en el Presupuesto de Egresos, comprende la totalidad de recursos para cubrir, debiendo considerar lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 I. Las remuneraciones que constitucional y legalmente correspondan a los servidores públicos de los Ejecutores de gasto por concepto de percepciones ordinarias y extraordinarias;
 
@@ -1951,11 +1957,11 @@ Los registros contables se llevarán con base acumulativa en apego estricto de l
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 86.
 
-Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, su Reglamento y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y demás disposiciones aplicables en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -2158,3 +2164,13 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1632.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aun cuando no estén expresamente derogadas.
