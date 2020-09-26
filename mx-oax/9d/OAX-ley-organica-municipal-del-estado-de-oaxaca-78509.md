@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-09-12"
+last_updated: "2020-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -555,7 +555,9 @@ XXIV.- Dotar a la cabecera municipal, agencias, colonias y comunidades de su Mun
 
 XXV.- Coadyuvar en la ejecución de los planes y programas federales y estatales en el Municipio;
 
-XXVI.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia, así como formular, aprobar y ejecutar los planes de desarrollo municipal y los programas de obras correspondientes;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia y el propio Plan Municipal de Desarrollo;
 
 XXVII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
 
@@ -651,7 +653,9 @@ g) Estado analítico de los egresos en las clasificaciones administrativa (sic),
 
 h) Estado de actividades;
 
-LII.- Solicitar al Congreso del Estado, autorización para contratar créditos destinados a las inversiones públicas productivas en los términos de la Ley de Deuda Pública Estatal y Municipal;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+LII.- Solicitar al Congreso del Estado, autorización para contratar créditos destinados a las inversiones públicas productivas en los términos de la Ley de Deuda Pública para el Estado de Oaxaca;
 
 LIII.- Realizar descuentos en el cobro de contribuciones a favor de los pensionados, jubilados, pensionistas, discapacitados, senescentes y demás que dispongan las leyes del Estado, que tengan su domicilio en el ámbito de la jurisdicción del Municipio respectivo;
 
@@ -1993,7 +1997,9 @@ II.- Que el Ayuntamiento emita la declaratoria correspondiente en la que se espe
 
 III.- La publicación de la declaratoria que emita el Ayuntamiento, en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal; y
 
-IV.- La inscripción de la declaratoria correspondiente en el Registro Público de la Propiedad.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+IV.- La inscripción de la declaratoria correspondiente en el Instituto de la Función Registral del Estado de Oaxaca.
 
 ### CAPÍTULO II. DEL INVENTARIO Y CATÁLOGO DE LOS BIENES MUNICIPALES
 
@@ -2283,7 +2289,9 @@ ARTÍCULO 126 UNVICIES.- Los comités de contraloría social deberán coadyuvara
 
 El Ayuntamiento, a través de las autoridades correspondiente (sic) que construyan las obras o realicen las acciones, explicarán a los comités de contraloría social, las características físicas y financieras de las obras y les proporcionarán, antes del inicio de la obra, el resumen del expediente técnico respectivo y darles el apoyo, las facilidades y la información necesaria para el desempeño de sus funciones.
 
-Asimismo, la Auditoría Superior de Fiscalización del Estado, la Secretaría de la Contraloría y Transparencia Gubernamental deberá capacitar y asesorar a los comités de contraloría social para el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Asimismo, el Órgano Superior de Fiscalización del Estado de Oaxaca, la Secretaría de la Contraloría y Transparencia Gubernamental deberá capacitar y asesorar a los comités de contraloría social para el ejercicio de sus funciones.
 
 ### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
 
@@ -2341,9 +2349,11 @@ Los libros o los registros contables deberán de conservarse durante 5 años por
 
 ### CAPÍTULO VI. DE LA DEUDA PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 132.
 
-La Deuda Pública del Municipio se sujetará a los términos, modalidades y requerimientos establecidos en la Ley de Deuda Pública Estatal y Municipal.
+La Deuda Pública del Municipio se sujetará a los términos, modalidades y requerimientos establecidos en la Ley de Deuda Pública para el Estado de Oaxaca.
 
 ###### ARTÍCULO 133.
 
@@ -2649,17 +2659,21 @@ La Comisión Permanente de Gobernación y Asuntos Agrarios dará cuenta del resu
 
 La Seguridad Pública Municipal se regirá y prestará conforme a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 160.
 
-En cada Municipio se establecerá un Sistema de Protección Civil. El Sistema Municipal de Protección Civil es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos, que establecerán las dependencias y entidades de cada Municipio entre sí, con las organizaciones de los diversos grupos voluntarios, sociales y privados y con las autoridades federales y estatales. El Sistema Municipal de Protección Civil, tendrá como objetivos los que establece la Ley de Protección Civil para el Estado de Oaxaca.
+En cada Municipio se establecerá un Sistema de Protección Civil. El Sistema Municipal de Protección Civil es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos, que establecerán las dependencias y entidades de cada Municipio entre sí, con las organizaciones de los diversos grupos voluntarios, sociales y privados y con las autoridades federales y estatales. El Sistema Municipal de Protección Civil, tendrá como objetivos los que establece la Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca.
 
 ###### ARTÍCULO 161.
 
 En cada Municipio se integrará un Consejo Municipal, que será un órgano de consulta y planeación basado en la coordinación de acciones de los sectores público, social y privado, con el objeto de sentar las bases para prevenir los problemas que puedan ser causados por agentes perturbadores; proteger y auxiliar a la población ante la ocurrencia de situaciones de emergencia o desastre, y dictar las medidas necesarias para el restablecimiento de la normalidad en su territorio. Asimismo cada Municipio contará con una Unidad de Protección Civil.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 162.
 
-La integración y facultades de los Consejos Municipales estarán determinadas por la Ley de Protección Civil para Estado de Oaxaca.
+La integración y facultades de los Consejos Municipales estarán determinadas por la Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca.
 
 ###### ARTÍCULO 163.
 
@@ -3780,3 +3794,19 @@ P.O. 12 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1595.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 69 A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estada de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1622.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1639.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN LII DEL ARTÍCULO 43, LA FRACCIÓN IV DEL ARTÍCULO 108, EL TERCER PÁRRAFO DEL ARTÍCULO 126 UNVICIES, EL ARTÍCULO 132, EL ARTÍCULO 160 Y EL ARTÍCULO 162 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
