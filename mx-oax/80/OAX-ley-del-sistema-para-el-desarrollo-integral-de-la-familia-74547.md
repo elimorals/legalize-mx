@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-74547
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-13"
-last_updated: "2020-02-29"
+last_updated: "2020-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de marzo de 2010.
 
@@ -183,7 +183,7 @@ II.- El Director General; y
 
 III.- El Consejo Consultivo.
 
-El DIF Oaxaca queda sujeto al control y vigilancia del Ejecutivo del Estado, por conducto de las Secretarías de Finanzas, Administración y de la Contraloría en el respectivo ámbito de sus atribuciones.
+El DIF Oaxaca queda sujeto al control y vigilancia del Ejecutivo del Estado, por conducto de las Secretarías de Finanzas, Administración y de la Contraloría, en el respectivo ámbito de sus atribuciones.
 
 ### CAPÍTULO V. Del Consejo Directivo y sus Facultades
 
@@ -319,7 +319,7 @@ El Consejo Consultivo comprenderá un mínimo de cinco y un máximo de nueve int
 
 ###### ARTÍCULO 18.
 
-El Consejo Consultivo celebrará sesiones ordinarias dos veces al año, en los meses de marzo y septiembre, en las fechas y con las formalidades que al respecto disponga la Presidencia del mismo y extraordinarias según se requierán. Las reuniones se deberán celebrar con la asistencia del cincuenta por ciento más uno de sus miembros. Los acuerdos se decidirán por mayoría de votos y en caso de empate, la Presidencia tendrá voto de calidad.
+El Consejo Consultivo celebrará sesiones ordinarias dos veces al año, en los meses de marzo y septiembre, en las fechas y con las formalidades que al respecto disponga la Presidencia del mismo y extraordinarias según se requieran. Las reuniones se deberán celebrar con la asistencia del cincuenta por ciento más uno de sus miembros. Los acuerdos se decidirán por mayoría de votos y en caso de empate, la Presidencia tendrá voto de calidad.
 
 ###### ARTÍCULO 19.
 
@@ -743,13 +743,17 @@ Para el cumplimiento de los convenios o determinaciones que se tomen con la inte
 
 ### CAPÍTULO XIII. De los Actos Administrativos
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 57.
 
-Los actos administrativos que realicen los servidores públicos del DIF Oaxaca estarán sujetos en su esencia, especie y forma a los requisitos que establece la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Los actos administrativos que realicen los servidores públicos del DIF Oaxaca, estarán sujetos en su esencia, especie y forma a los requisitos que establece la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 58.
 
-Los ciudadanos podrán si a sus intereses conviene, ejercer contra las resoluciones emanadas de las autoridades del DIF Oaxaca, los recursos legales que procedan y podrán ejercitar las acciones que previene la propia Ley de Justicia Administrativa para el Estado de Oaxaca.
+Los ciudadanos podrán, si a sus intereses conviene, ejercer contra las resoluciones emanadas de las autoridades del DIF Oaxaca, los recursos legales que procedan y podrán ejercitar las acciones que previene la propia Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ### CAPÍTULO XIV. Del Acceso a la Información Pública
 
@@ -828,3 +832,11 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1271.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 1 Y LA FRACCIÓN VIII AL ARTÍCULO 8 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA; Y SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 4; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 4 DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca; remítase al Ejecutivo del Estado para su publicación.
+
+P.O. 26 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1649.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA, PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
