@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-mediacion-para-el-estado-de-oaxaca-39432"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-12"
-last_updated: "2016-01-30"
+last_updated: "2020-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MEDIACIÓN PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el día 12 de abril de 2004.
 
@@ -437,15 +437,19 @@ Dicha resolución admitirá el recurso de revisión ante el Pleno del Tribunal S
 
 Los mediadores o centros de mediación, que de conformidad con la resolución emitida por el Director del Centro de Mediación Judicial, cometan infracciones a esta Ley o a sus disposiciones reglamentarias, incurrirán en responsabilidad y se sujetarán a las sanciones establecidas en este ordenamiento, sin perjuicio de los actos constitutivos de delito, en cuyo caso el Director del Centro de Mediación Judicial deberá dar vista al Ministerio Público, para los efectos legales procedentes.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 40.
 
-Tratándose de mediadores que tengan el carácter de servidores públicos, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Oaxaca. Los mediadores que no tengan este carácter y los centros de mediación privados, serán sancionados en los términos del presente Capítulo.
+Tratándose de mediadores que tengan el carácter de servidores públicos, se estará a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca. Los mediadores que no tengan este carácter y los centros de mediación privados, serán sancionados en los términos del presente Capítulo.
 
 ###### Artículo 41.
 
 El Director del centro de mediación Judicial dependiente del Tribunal Superior de Justicia sancionará al mediador o mediadores conforme a lo siguiente:
 
-I.- Amonestación y multa de entre 25 a 50 salarios mínimos vigentes en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique realizar la mediación contraria a los términos establecidos en el acuerdo que exista entre los mediados o a la cláusula de mediación.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+I.- Amonestación y multa de entre 25 a 50 Unidades de Medida y Actualización vigentes en el momento de decretarse la sanción a quién incurra en acción u omisión que signifique realizar la mediación contraria a los términos establecidos en el acuerdo que exista entre los mediados o a la cláusula de mediación.
 
 II.- Suspensión del registro ante el Centro de Mediación Judicial, hasta por un plazo de seis meses, a quien:
 
@@ -463,9 +467,13 @@ III.- La revocación del registro en caso de reincidir, en alguna de las accione
 
 El Director del centro de Mediación Judicial dependiente del Tribunal Superior de Justicia sancionará al Centro de Mediación que hubiere incurrido en infracción a esta Ley o a sus disposiciones reglamentarias conforme a lo siguiente:
 
-I.- Multa de entre 25 y 50 salarios mínimos vigentes en el momento de decretarse la sanción, al centro de mediación que incumpla notificar su cambio de domicilio ante el Centro de Mediación Judicial;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-II.- Apercibimiento y multa de entre 25 y 50 salarios mínimos vigentes al momento de decretarse la sanción, al centro de mediación que no cuente con espacios acondicionados para las sesiones de mediación; en caso de reincidencia, se le suspenderá el registro ante el Centro de Mediación Judicial hasta que dé cumplimiento;
+I.- Multa de entre 25 y 50 Unidades de Medida y Actualización vigentes en el momento de decretarse la sanción, al centro de mediación que incumpla notificar su cambio de domicilio ante el Centro de Mediación Judicial;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Apercibimiento y multa de entre 25 y 50 Unidades de Medida y Actualización vigentes al momento de decretarse la sanción, al centro de mediación que no cuente con espacios acondicionados para las sesiones de mediación; en caso de reincidencia, se le suspenderá el registro ante el Centro de Mediación Judicial hasta que dé cumplimiento;
 
 III.- Suspensión del registro ante el Centro de Mediación Judicial hasta por un plazo de seis meses a quien incumpla vigilar y acreditar que los mediadores que presten sus servicios dentro de su organización cumplan con los requisitos y obligaciones que establece esta Ley;
 
@@ -532,3 +540,11 @@ P.O. 30 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1372.- MEDIANTE EL CUAL SE MODIFICAN, REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 23 BIS A, INCISO C PÁRRAFO 32 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE MEDIACIÓN DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1620.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIACIÓN PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
