@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2019-11-04"
+last_updated: "2020-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -957,7 +957,13 @@ VI. Revisar y firmar los cortes de caja que hágala Dirección General de Finanz
 
 VII. Cuidar que la aplicación de los gastos se haga cubriendo todos los requisitos legales y conforme al Presupuesto de Egresos;
 
-VIII. Vigilar que las multas impuestas por las autoridades municipales ingresen a la Dirección General de Finanzas y Administración, mediante la expedición del comprobante respectivo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Vigilar que las multas impuestas por las autoridades municipales ingresen a la Dirección General de Finanzas y Administración, mediante la expedición del comprobante respectivo.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+
+El Síndico Municipal, tomando en consideración la situación económica del infractor, podrá recomendar un descuento de hasta un 50%, según sea el caso, de las multas o infracciones generadas por el incumplimiento a la Ley de Movilidad del Estado de Aguascalientes y/o al Código Municipal de San Francisco de los Romo, Ags., mediante formato oficial en donde conste la firma de éste, a fin de que la Autoridad Administrativa facultada pueda reconsiderar y aplicar el descuento sugerido, siempre y cuando no medie ningún otro descuento previamente otorgado al infractor, de aquellos descritos en la Ley de Ingresos del Municipio, ni contravenga los supuestos establecidos en el "CAPÍTULO TERCERO, de Las Infracciones en Materia de Vialidad, Artículo 313, fracción IV. Muy graves" de la Ley de Movilidad del Estado de Aguascalientes.
 
 IX. Cerciorarse de que el Director General de Finanzas y Administración haya otorgado caución de manejo de fondos;
 
@@ -1161,11 +1167,15 @@ Delegado;
 
 Subdelegado.
 
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+
 VI.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
-Secretario del H. Ayuntamiento y Director General de Gobierno;
+Secretaría del H. Ayuntamiento y Director General de Gobierno;
 
-Subdirector General de Gobierno;
+Subdirección General de Gobierno;
+
+Coordinación Jurídica;
 
 Coordinación de Fomento Deportivo;
 
@@ -1181,9 +1191,11 @@ Departamento de Protección Civil;
 
 Departamento de Logística;
 
-Unidad Municipal de Paramédicos;
+Unidad Municipal de Paramédicos
 
 Unidad del Archivo Municipal.
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
 
 VII.- DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN.
 
@@ -1191,23 +1203,25 @@ Director de Finanzas y Administración;
 
 Subdirector de Finanzas, Administración y Control Presupuestal;
 
-Subdirector de Ingresos;
+Coordinador del Área de Ingresos;
 
-Departamento de Presupuesto e Información Pública Financiera;
+Departamento de Presupuesto;
 
 Departamento de Ingresos y Recaudación Municipal;
 
-Departamento de Egresos y contabilidad;
+Departamento de Egresos;
 
 Departamento de Fondos Federales;
 
 Departamento de Compras y Suministros;
 
-Departamento de Recursos Humanos.
+Departamento de Mantenimiento Vehicular y Servicios Generales;
 
-Departamento de Control Patrimonial
+Departamento de Recursos Humanos;
 
-Departamento de Mantenimiento Vehicular y Servicios Generales
+Departamento de Control Patrimonial.
+
+Departamento de Informática, Tecnologías de la Información y Comunicación (TIC's)
 
 VIII.- DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
 
@@ -1877,11 +1891,11 @@ APARTADO NOVENO
 
 De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 110.
 
-Corresponde a la Secretaria del H. Ayuntamiento y Dirección General de Gobierno, las siguientes atribuciones:
+Corresponde a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, las siguientes atribuciones:
 
 I. Fungir como Secretario del H. Ayuntamiento;
 
@@ -2001,9 +2015,37 @@ XXXVII. Fomentar la consulta de los archivos históricos del Municipio de San Fr
 
 XXXVIII. Las demás que designe el Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+XXXIX. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2020)
 
-XXXIX. En caso de ausencia del Secretario del H. Ayuntamiento y Dirección General de Gobierno, el Subdirector General de Gobierno podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 110 BIS.- El Secretario del H. Ayuntamiento y Director General de Gobierno podrá auxiliarse en lo general, para el cumplimiento de sus funciones y en caso de ausencia, del Subdirector General de Gobierno, con excepción de las atribuciones conferidas en las fracciones I, VII, XI, XII, XIII, del artículo 110 de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 110 TER.- Con la finalidad de optimizar los procedimientos de la Secretaria del H. Ayuntamiento y Dirección General de Gobierno, el Coordinador Jurídico tendrá las siguientes atribuciones:
+
+a) Deberá revisar y/o modificar los documentos técnico jurídicos que le sean turnados por el Secretario del H. Ayuntamiento y el Subdirector General de Gobierno;
+
+b) Controlar el ejercicio de toda actividad comercial que se desarrolla en el Municipio;
+
+c) Brindar atención a la ciudadanía en general, especialmente a trámites referentes a la expedición o renovación de licencias de funcionamiento, placas, permisos temporales y permisos de uso de suelo a puestos fijos, semifijos y ambulantes así también a establecimientos comerciales, de servicios e industriales y espectáculos públicos.
+
+d) Realizar proyecto de credencialización para el comercio de los tianguis del día sábado y domingo, mismo que será una herramienta de control para la dirección.
+
+e) Regular los establecimientos con venta de bebidas alcohólicas que no cuenten con licencia de funcionamiento.
+
+f) Supervisar que el horario de funcionamiento correspondiente al giro de venta y consumo de bebidas alcohólicas, considerados que por su naturaleza afecten a terceros, cumplan con el horario que establecido para Establecimientos de Venta y Consumo de Bebidas Alcohólicas del Municipio;
+
+g) Supervisar que todos los eventos públicos cuenten con su permiso correspondiente para la realización del evento, así como el permiso para el consumo de bebidas alcohólicas según sea el caso, considerando lo establecido en los lineamientos para los Establecimientos de Venta y Consumo de Bebidas Alcohólicas;
+
+h) Revisar que todas las exposiciones y eventos que se realicen en plaza principal o jardín municipal hayan dado previo aviso a esta dirección.
+
+i) Realizar visitas de inspección de manera aleatoria a los giros que por su naturaleza afecten a terceros, con el fin de supervisar su correcto funcionamiento conforme a lo que marca la normatividad;
+
+j) Elaborar propuesta para la reubicación de comerciantes ambulantes y semifijos;
+
+k) Regular, verificar, reubicar y coordinar la actividad comercial que se desarrolla en fechas de relevancia en el Municipio, como fiestas patrias, aniversarios y en general aquellas actividades culturales que, por su naturaleza, se desarrollen en espacios públicos.
 
 ###### ARTICULO 111.
 
@@ -2165,29 +2207,45 @@ XXXVI. Tramitar los traslados de domino emitidos por el Notariado, para el pago 
 
 XXXVII. Fomentar el pago de impuestos, mediante el otorgamiento de estímulos fiscales, con el fin de crear una cultura de pronto pago de contribuciones al Municipio.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
 
-XXXVIII. Llevar a cabo el control de cada uno de los vehículos utilitarios propiedad de la Administración Municipal.
+XXXVIII. Llevar a cabo el control de cada uno de los vehículos utilitarios propiedad y/o al servicio de la Administración Municipal a fin de conocer del estado físico y mecánico que guarda cada uno de ellos.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIX. Programar calendarización de mantenimiento preventivo de los vehículos utilitarios, con el fin de extender la vida útil de estos y tener certeza del estado que guarda cada uno de ellos.
+XXXIX. Programar y brindar el mantenimiento preventivo de los vehículos utilitarios o al servicio de la Administración Municipal, a fin de extender la vida útil de estos.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XL. Establecer convenios para llevar a cabo el adecuado mantenimiento correctivo de los vehículos utilitarios que se encuentren averiados.
+XL. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 XLI. Brindar servicios generales de mantenimiento correctivos y preventivos a las instalaciones Municipales.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+XLII. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2020)
 
-XLII. Vigilar el control de los recursos patrimoniales del Municipio de San Francisco de los Romo.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+XLIII. Definir y establecer las políticas y lineamientos en materia de informática que deberán respetar las dependencias de la administración pública municipal, en apego al Plan Municipal de Desarrollo;
 
-XLIII. Las demás que señale la Ley Municipal, el presente Código y las que en (sic) encomiende el Presidente Municipal.
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 112 BIS.- El Director de Finanzas y Administración podrá auxiliarse en lo general, para el cumplimiento de sus funciones y en caso de ausencia, del Subdirector de Finanzas y Administración quien podrá realizar cualquiera de las atribuciones descritas en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 112 TER.- Con la finalidad de optimizar los procedimientos recaudatorios, el Director de Finanzas y Administración se apoyará en el Coordinador del Área de Ingresos, el cual tendrá la facultad de instituir los mecanismos de programación necesarios, información, control, y mejoramiento de la recaudación de los ingresos municipales y en general coadyuvar con aquellas actividades que sean inherentes con el propósito de puesto.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+
+ARTICULO 112 QUATER.- El Titular del Departamento de Informática y Tecnologías de la Información y Comunicación, tendrá a su cargo las siguientes tareas:
+
+a) Establecer los espacios y medios necesarios a fin de diagnosticar y evaluar riesgos oportunamente, garantizando que las Tecnologías de la Información y Comunicación (TIC's) trabajen de manera oportuna, en cada una de las unidades administrativas de la administración municipal;
+
+b) Brindar asesoría y soporte técnico que en materia de informática y simplificación administrativa soliciten las dependencias de la administración pública municipal.
+
+c) Efectuar mantenimiento preventivo y correctivo de los equipos de cómputo, comunicación, servidores y aquellos inherentes, a fin de que la funcionalidad de estos sea oportuna; y
+
+d) Las análogas que encomiende la Dirección de Finanzas y Administración.
 
 APARTADO DECIMO PRIMERO
 
@@ -21398,3 +21456,11 @@ P.O. 4 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DE “REFORMAS AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
 
 ÚNICO. - La presente reforma al Código Municipal de San Francisco de los Romo entrará en vigor al (sic) día 16 de octubre de 2019 y para su posterior publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
