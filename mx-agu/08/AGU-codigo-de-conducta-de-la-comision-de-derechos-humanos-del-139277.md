@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-conducta-de-la-comision-de-derechos-humanos-del-13927
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-30"
-last_updated: "2019-09-30"
+last_updated: "2020-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Del CÓDIGO DE CONDUCTA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 28 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de septiembre de 2019.
 
@@ -296,3 +298,15 @@ Consejero
 José Alfredo Muñoz Delgado
 
 Secretario Técnico
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- Se abroga el Código de Conducta, publicado el treinta de septiembre de dos mil diecinueve en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El presente Código de Conducta, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO.- Difúndase mediante los mecanismos previstos en el artículo 24 del Código de Ética de la CDHEA. Adicionalmente, los apartados de Preámbulo y Decálogo, deberán colocarse en las instalaciones de la CDHEA de manera que estén a la vista de sus Servidores Públicos, así como de usuarios o visitantes, incluyendo la siguiente leyenda: “Cualquier acción u omisión contraria a las Reglas de Conducta, podrá denunciarse ante el Órgano Interno de Control de la CDHEA”.
