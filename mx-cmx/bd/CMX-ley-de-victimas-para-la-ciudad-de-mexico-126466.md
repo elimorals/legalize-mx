@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-victimas-para-la-ciudad-de-mexico-126466"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-19"
-last_updated: "2019-12-24"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126466&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-02-15"
 
 LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 19 febrero de 2018.
 
@@ -728,7 +728,13 @@ Las medidas de asistencia, atención e inclusión en materia de procuración e i
 
 Estas medidas se brindarán a la víctima con independencia de la representación legal y asesoría que dé a la víctima la Asesora o Asesor Jurídico.
 
-Cuando en la investigación o en el proceso penal se requiera la intervención de expertos independientes o peritos internacionales, sólo podrán contratarse cuando no se cuente con personal nacional capacitado en la materia.
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando en la investigación o en el proceso penal se requiera la intervención de expertos independientes o peritos internacionales, podrán contratarse cuando no se cuente con personal nacional capacitado en la materia, lo cual deberá informarse a la víctima.
+
+> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando la víctima dentro de la investigación o en el proceso penal perdiera la confianza en los expertos o peritos nacionales asignados al caso, podrá solicitar la contratación de expertos o peritos independientes o internacionales, siempre y cuando sustente ante la instancia correspondiente dicha pérdida de confianza, a fin de garantizar el derecho a la verdad, a la justicia y la reparación integral.
 
 La Comisión de Víctimas deberá cubrir con cargo al Fondo de la Ciudad de México los gastos que se originen con motivo de la contratación de expertos independientes o peritos internacionales a los que se refiere el párrafo anterior, requeridos para la investigación de casos en cualquier etapa del proceso.
 
@@ -850,9 +856,11 @@ En el caso de que se abra procedimiento judicial, surgirá la obligación de ind
 
 En casos en que la víctima demuestre extrema vulnerabilidad con ocasión de la ocurrencia del acto delictivo, la Comisión de Víctimas podrá reconocer, en calidad de indemnización provisional y anticipada, los montos a que diera lugar de manera parcial o total.
 
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 64.
 
-La compensación subsidiaria a la víctima, a que se refiere la Ley General, será otorgada por una sola ocasión; se establecerá que el mismo tendrá que otorgarse observando un mínimo de 50 y un máximo de 1500 veces la Unidad de Medida y Actualización.
+La compensación subsidiaria a la víctima de delito o de violación a derechos humanos, será otorgada por una sola ocasión; se establecerá que la misma tendrá que otorgarse observando un mínimo de 50 y un máximo de 1500 veces la Unidad de Medida y Actualización.
 
 ###### Artículo 65.
 
@@ -2649,3 +2657,9 @@ G.O. 24 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México y para mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN PÁRRAFO CUARTO RECORRIENDO LOS SUBSECUENTES, DEL ARTÍCULO 55; Y SE REFORMA EL ARTÍCULO 64; AMBOS DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
