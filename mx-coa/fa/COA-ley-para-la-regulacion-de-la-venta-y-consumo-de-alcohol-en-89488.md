@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2020-01-10"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -1057,7 +1057,9 @@ d) Personas que porten cualquier tipo de armas.
 
 II. Permitir la entrada a menores de edad, a los establecimientos descritos en las fracciones II, IV, IX, XI, XII y XVII del artículo 4°. Por lo que hace al establecimiento previsto en la fracción XVII del mismo artículo, únicamente se admitirá la entrada de menores acompañados de sus padres o tutores;
 
-III. Alterar, contaminar o adulterar las bebidas alcohólicas, para su venta, expendio o consumo;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+III. Alterar, contaminar o adulterar las bebidas alcohólicas, para su venta, expendio o consumo, bajo las consideraciones establecidas en los artículos 206, 207 y 208 de la Ley General de Salud;
 
 IV. Expender en el interior de los establecimientos bajo la modalidad conocida como ¨barra libre¨ o cualquier otra que implique la posibilidad del consumo libre sin que exista el cobro por cada bebida consumida;
 
@@ -1086,8 +1088,6 @@ XV. Permitir que los clientes tengan cualquier tipo de interacción que implique
 XVI. Las demás que establezca esta ley, su reglamento y otras disposiciones legales aplicables.
 
 En los establecimientos o lugares que se vendan o consuman bebidas alcohólicas queda estrictamente prohibida la presentación de espectáculos con personas desnudas o semidesnudas o en los que la vestimenta de los participantes permita al espectador ver en todo o en parte los órganos reproductores externos o la región genital y además, en el caso de las mujeres los senos.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE ENERO DE 2020)</small>
 
 Observancia de la ley
 
@@ -1127,11 +1127,13 @@ V. Participar, conjuntamente con los menores o incapaces a su cargo, en los trat
 
 Sanciones
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 70.
 
 Las sanciones aplicables por infracción a lo dispuesto en esta ley serán las siguientes:
 
-I. Multa hasta con cien días de salario mínimo vigente en la capital del estado, a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
+I. Multa hasta con cien unidades de medida y actualización vigentes, a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
 
 a) Omitan exhibir en un lugar visible al interior del establecimiento, la licencia y, en su caso, el refrendo anual;
 
@@ -1141,9 +1143,9 @@ c) Omitan exhibir en lugar visible al público, el cartel oficial emitido por la
 
 d) Condicione la prestación de sus servicios a la venta, expendio o consumo de bebidas alcohólicas.
 
-II. Multa hasta con doscientos días de salario mínimo vigente en la capital del estado a los propietarios u operadores de los establecimientos a que se refiere esta ley que reincidan en las conductas descritas en la fracción anterior;
+II. Multa hasta con doscientas unidades de medida y actualización vigentes a los propietarios u operadores de los establecimientos a que se refiere esta ley que reincidan en las conductas descritas en la fracción anterior;
 
-III. Multa hasta con cuatrocientos días de salario mínimo vigente en la capital del estado a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
+III. Multa hasta con cuatrocientas unidades de medida y actualización vigentes a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
 
 a) Abstenerse de informar a la autoridad competente sobre las alteraciones al orden o la comisión de ilícitos o faltas administrativas, así como la presencia de personas con armas blancas o de fuego;
 
@@ -1163,9 +1165,9 @@ h) Expender bebidas alcohólicas en envase abierto para llevar, o permitir a sus
 
 i) Permitir el consumo de bebidas alcohólicas en el interior del establecimiento, su estacionamiento y toda área destinada a la operación del mismo para los giros señalados en las fracciones XI, XIII, XV, XXI y XXXV del artículo 4° de esta ley.
 
-IV. Multa hasta con quinientos cincuenta días de salario mínimo vigente en la capital del estado a los propietarios u operadores de los establecimientos a que se refiere esta ley, que reincidan en las conductas descritas en la fracción anterior;
+IV. Multa hasta con quinientas cincuenta unidades de medida y actualización vigentes a los propietarios u operadores de los establecimientos a que se refiere esta ley, que reincidan en las conductas descritas en la fracción anterior;
 
-V. Multa hasta con setecientos días de salario mínimo vigente en la capital del estado, a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
+V. Multa hasta con setecientas unidades de medida y actualización vigentes, a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
 
 a) Permitir la entrada a menores de edad, a los establecimientos descritos en las fracciones II, IV, IX, XI, XII y XVII del artículo 4°. Tratándose de los establecimientos previstos en la fracción XVII del mismo artículo, permitirles la entrada sin la compañía de sus padres o tutores;
 
@@ -1185,7 +1187,7 @@ h) Ofrecer por sí o por interpósita persona, dinero, objetos o servicios a las
 
 En el caso de los supuestos a que se refiere esta fracción podrá la autoridad imponer además como sanción la clausura temporal hasta por 30 días.
 
-VI. Multa hasta con mil quinientos días de salario mínimo vigente en la capital del estado a los propietarios u operadores de los establecimientos a que se refiere esta ley, que sean sorprendidos en:
+VI. Multa hasta con mil quinientas unidades de medida y actualización vigentes a los propietarios u operadores de los establecimientos a que se refiere esta ley, que sean sorprendidos en:
 
 a) Reincidir en las conductas descritas en la fracción anterior;
 
@@ -1209,7 +1211,7 @@ Se entiende por clausura, como medida cautelar, el acto administrativo, realizad
 
 Para el caso de que se ordene la clausura mediante resolución, como consecuencia de la suspensión de los derechos o revocación de la licencia o permiso correspondiente, el personal que designe la autoridad emisora de dicho acto administrativo procederá en los términos de la presente ley y la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza; procediendo además a colocar sellos de papel engomado, mismos que se pegarán en todos los accesos al establecimiento en forma tal que impidan totalmente la entrada al mismo.
 
-X. Revocación de licencia y multa de hasta mil quinientos días de salario mínimo vigente en la capital del estado cuando:
+X. Revocación de licencia y multa de hasta mil quinientas unidades de medida y actualización vigentes cuando:
 
 a) Con motivo de la inspección o verificación realizada por la autoridad competente, se detecte que el infractor haya reincidido en una o más infracciones u obligaciones señaladas en esta ley;
 
@@ -1229,7 +1231,7 @@ h) Se violen las prohibiciones establecidas en la fracción XVI del artículo 65
 
 i) Se dé alguno de los supuestos que se prevén en los artículos 100 y 101 de la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
 
-XI. Multa hasta con cien días de salario mínimo vigente en la capital del estado o arresto a quien:
+XI. Multa hasta con cien unidades de medida y actualización vigentes o arresto a quien:
 
 a) Ingiera bebidas alcohólicas en vehículos durante su trayecto;
 
@@ -1237,7 +1239,9 @@ b) Adquiera bebidas alcohólicas en establecimientos o en horarios no autorizado
 
 XII. Cuando se detecte un establecimiento que viole lo dispuesto es (sic) en el último párrafo del artículo 65 de esta ley, se procederá de inmediato a su clausura definitiva y se dará vista al Ministerio Público para los efectos conducentes.
 
-Las sanciones a que se refiere este artículo podrán imponerse conjunta o separadamente sin que en ningún caso exceda la multa del monto equivalente a dos mil quinientos días de salario mínimo.
+Las prohibiciones a que se refiere la fracción III del artículo 65, serán sancionadas conforme lo establecido en el artículo 464 de la Ley General de Salud.
+
+Las sanciones a que se refiere este artículo podrán imponerse conjunta o separadamente sin que en ningún caso exceda la multa del monto equivalente a dos mil quinientos (sic) Unidades de Medida y Actualización vigentes.
 
 Las sanciones anteriores serán independientes de las que procedan de conformidad a lo establecido en el Código Penal para el Estado de Coahuila de Zaragoza, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y las demás disposiciones aplicables.
 
@@ -1480,3 +1484,9 @@ P.O. 10 DE ENERO DE 2020.
 Primero.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 Segundo.- Se derogan (sic) cualquier disposición contraria al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 717.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 65 Y EL ARTÍCULO 70, DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DEL ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
