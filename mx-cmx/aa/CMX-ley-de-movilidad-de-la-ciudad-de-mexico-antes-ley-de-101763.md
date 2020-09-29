@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2020-04-23"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2014-07-08"
 ---
 # LEY DE MOVILIDAD DE LA CIUDAD DE MEXICO -- ANTES LEY DE MOVILIDAD DEL DISTRITO FEDERAL --
 
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
-
 LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -530,9 +528,9 @@ CII. Vehículo: Todo medio autopropulsado que se usa para transportar personas o
 
 CIII. Vehículo motorizado: Aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de un motor de combustión interna, eléctrica, o de cualquier otra tecnología que le proporciona velocidad;
 
-> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-CIV. Vehículo no motorizado: Aquellos vehículos que utilizan tracción humana para su desplazamiento. Incluye bicicletas asistidas por motor que desarrollen velocidades máximas de 25 kilómetros por hora;
+CIV. Vehículo no motorizado: Aquellos vehículos que utilizan tracción humana, pedaleo asistido y/o propulsión eléctrica para su desplazamiento con una velocidad máxima de 25 kilómetros por hora.
 
 > <small>(REFORMADA [N. DE E. REUBICADA Y REPUBLICADA], G.O. 23 DE ABRIL DE 2020)</small>
 
@@ -3617,3 +3615,11 @@ Quinto.- Las reformas a que se refieren los artículos 12, fracción XXXV y 137,
 - Del 01 de enero al 30 de junio de 2020, la Secretaría de Movilidad deberá realizar las acciones y adecuaciones administrativas pertinentes, a fin de dar cumplimiento a lo previsto en los artículos referidos en este artículo transitorio.
 
 - Del 01 de julio de 2020 al 30 de junio de 2021, será el periodo en el que se deberán realizarse las actualizaciones correspondientes al Registro de Público del Transporte.
+
+G.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
