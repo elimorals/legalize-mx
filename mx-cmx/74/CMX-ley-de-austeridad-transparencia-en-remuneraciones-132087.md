@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-06-22"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -60,6 +60,8 @@ La presente Ley es de orden público e interés general y tiene por objeto regul
 
 Esta Ley, es de observancia obligatoria para el poder Ejecutivo, Legislativo y Judicial, las Alcaldías, organismos autónomos y demás entes públicos todos de la Ciudad de México.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 29 DE SEPTIEMBRE DE 2020, PÁGINA 7.]</small>
+
 ###### Artículo 2.
 
 Para efectos de esta Ley, se entenderá por:
@@ -74,151 +76,169 @@ IV. Analítico de Claves Presupuestales: Es el listado que muestra la desagregac
 
 V. Analítico de Plazas: El cual integra el desglose, separación y clasificación de las plazas presupuestarias que tiene asignadas una entidad de la Administración Pública.
 
-VI. Anteproyectos de Presupuesto: Estimaciones que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública efectúan de las erogaciones necesarias para el desarrollo de sus programas, para que con base en éstos la Secretaría, integre, elabore y consolide el Proyecto de Presupuesto de Egresos.
+> <small>N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VII, VÉASE PUBLICACIONES OFICIALES AMBAS DE FECHAS 29 DE SEPTIEMBRE DE 2020.</small>
 
-VII. Auditoría Superior: Auditoría Superior de la Ciudad de México;
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Austeridad: Es una política de Estado, cuyo fin es eliminar los excesos en el gasto público para reencauzar dichos recursos en prioridades de gasto, encaminadas a la atención de las necesidades de los habitantes de esta Ciudad, sin que ello implique la afectación de la buena administración.
+VI. Anexo transversal: Anexo del proyecto de Presupuesto de Egresos con las previsiones de gasto vinculados con el desarrollo de diferentes sectores;
 
-IX. Catálogo de Unidades Responsables: Relación de claves con la que se identifica la denominación de las Unidades Responsables del Gasto que realizan erogaciones con cargo al Presupuesto de Egresos;
+> <small>N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VI, VÉASE PUBLICACIONES OFICIALES AMBAS DE FECHAS 29 DE SEPTIEMBRE DE 2020.</small>
 
-X. Código: Código Fiscal de la Ciudad de México;
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XI. Comisión de Presupuesto: Comisión de Presupuesto y Cuenta Pública del Congreso de la Ciudad de México.
+VII. Anexo transversal: Anexo del proyecto del Presupuesto de Egresos con las previsiones de gasto vinculados con el desarrollo de diferentes sectores;
 
-XII. CONAC: Consejo Nacional de Armonización Contable;
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Congreso Local: Congreso de la Ciudad de México;
+VIII. Anteproyectos de Presupuesto: Estimaciones que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública efectúan de las erogaciones necesarias para el desarrollo de sus programas, para que con base en éstos la Secretaría, integre, elabore y consolide el Proyecto de Presupuesto de Egresos;
 
-XIV. Consejo de Evaluación: Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
+IX. Auditoría Superior: Auditoría Superior de la Ciudad de México;
 
-XV. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos.
+X. Austeridad: Es una política de Estado, cuyo fin es eliminar los excesos en el gasto público para reencauzar dichos recursos en prioridades de gasto, encaminadas a la atención de las necesidades de los habitantes de esta Ciudad, sin que ello implique la afectación de la buena administración.
 
-XVI. Constitución Local: Constitución Política de la Ciudad de México.
+XI. Catálogo de Unidades Responsables: Relación de claves con la que se identifica la denominación de las Unidades Responsables del Gasto que realizan erogaciones con cargo al Presupuesto de Egresos;
 
-XVII. Contrato Multianual: Instrumento jurídico a través del cual se establecen compromisos presupuestales que cuenten con previa autorización por escrito de la Secretaría, para exceder el periodo anual del presupuesto;
+XII. Código: Código Fiscal de la Ciudad de México;
 
-XVIII. Coordinadora de Sector: Dependencia que en cada caso coordina un agrupamiento de Órganos Desconcentrados y/o Entidades;
+XIII. Comisión de Presupuesto: Comisión de Presupuesto y Cuenta Pública del Congreso de la Ciudad de México.
 
-XIX. Corto Plazo: Periodo que comprende de 1 y hasta 3 años;
+XIV. CONAC: Consejo Nacional de Armonización Contable;
 
-XX. Cuenta Comprobada: Documentos relativos a un periodo determinado, integrados por el resumen de operaciones de caja o de pólizas de ingresos o egresos;
+XV. Congreso Local: Congreso de la Ciudad de México;
 
-XXI. Cuenta por Liquidar Certificada: Instrumento mediante el cual los servidores públicos facultados de las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno, autorizan el pago de los compromisos adquiridos con cargo a su Presupuesto de Egresos;
+XVI. Consejo de Evaluación: Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
 
-XXII. Cuenta Pública: Es el documento técnico que elabora el Poder Ejecutivo y entrega al Congreso local con la información de los recursos, las finanzas y contabilidad de los Poderes Ejecutivo, Legislativo y Judicial, las Alcaldías, Órganos Autónomos y demás entes públicos de la Ciudad de México.
+XVII. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos.
 
-XXIII. Decreto de Presupuesto de Egresos de la Ciudad de México que anualmente autoriza el Congreso;
+XVIII. Constitución Local: Constitución Política de la Ciudad de México.
 
-XXIV. Dependencias: Unidades Administrativas que integran la Administración Pública Centralizada, de conformidad con la Ley Orgánica;
+XIX. Contrato Multianual: Instrumento jurídico a través del cual se establecen compromisos presupuestales que cuenten con previa autorización por escrito de la Secretaría, para exceder el periodo anual del presupuesto;
 
-XXV. Economías: Diferencia positiva del gasto público generada durante el periodo de vigencia del Presupuesto de Egresos, una vez cumplidos los programas y metas establecidos y que se deriva de la obtención de mejores condiciones en la adquisición de bienes y servicios.
+XX. Coordinadora de Sector: Dependencia que en cada caso coordina un agrupamiento de Órganos Desconcentrados y/o Entidades;
 
-XXVI. Entidades: Organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del sector paraestatal de la Ciudad de México;
+XXI. Corto Plazo: Periodo que comprende de 1 y hasta 3 años;
 
-XXVII. Evaluación de desempeño: El seguimiento y evaluación sistemática de los Programas Presupuestarios, que permiten la valoración objetiva del desempeño de las políticas públicas a través de la verificación del cumplimiento de metas y objetivos con base en indicadores estratégicos y de gestión, y
+XXII. Cuenta Comprobada: Documentos relativos a un periodo determinado, integrados por el resumen de operaciones de caja o de pólizas de ingresos o egresos;
 
-XXVIII. Evaluación de diseño: Análisis y valoración del diseño del programa presupuestario, que tiene la finalidad de identificar si el programa contiene los elementos necesarios que permiten prever de manera razonable el logro de sus metas y objetivos, a efecto de instrumentar mejoras.
+XXIII. Cuenta por Liquidar Certificada: Instrumento mediante el cual los servidores públicos facultados de las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno, autorizan el pago de los compromisos adquiridos con cargo a su Presupuesto de Egresos;
 
-XXIX. Función: Agrupación del gasto público conforme a la naturaleza de los servicios gubernamentales en beneficio de una población objetivo, que se ejercen a través de una Unidad Responsable del Gasto;
+XXIV. Cuenta Pública: Es el documento técnico que elabora el Poder Ejecutivo y entrega al Congreso local con la información de los recursos, las finanzas y contabilidad de los Poderes Ejecutivo, Legislativo y Judicial, las Alcaldías, Órganos Autónomos y demás entes públicos de la Ciudad de México.
 
-XXX. Gaceta: Gaceta Oficial de la Ciudad de México;
+XXV. Decreto de Presupuesto de Egresos de la Ciudad de México que anualmente autoriza el Congreso;
 
-XXXI. Informe Trimestral: Documento de rendición de cuentas, en el cual el Gobierno de la Ciudad de México reporta al Congreso, cada tres meses, sobre las Finanzas Públicas y la Deuda Pública, desde el inicio del ejercicio fiscal hasta el término del trimestre correspondiente;
+XXVI. Dependencias: Unidades Administrativas que integran la Administración Pública Centralizada, de conformidad con la Ley Orgánica;
 
-XXXII. Ingresos de Aplicación Automática: Recursos por concepto de productos y aprovechamientos que recaudan y administran las Dependencias, Órganos Desconcentrados y las Alcaldías, de conformidad con las reglas de carácter general a que se refieren los artículos 303 y 308 del Código;
+XXVII. Economías: Diferencia positiva del gasto público generada durante el periodo de vigencia del Presupuesto de Egresos, una vez cumplidos los programas y metas establecidos y que se deriva de la obtención de mejores condiciones en la adquisición de bienes y servicios.
 
-XXXIII. Ingresos Excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos de la Ciudad de México o en su caso respecto de los Ingresos propios de las Entidades;
+XXVIII. Entidades: Organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del sector paraestatal de la Ciudad de México;
 
-XXXIV. Ingresos Propios: Recursos que por cualquier concepto obtengan las Entidades, distintos a los recursos por concepto de subsidios, aportaciones y transferencias;
+XXIX. Evaluación de desempeño: El seguimiento y evaluación sistemática de los Programas Presupuestarios, que permiten la valoración objetiva del desempeño de las políticas públicas a través de la verificación del cumplimiento de metas y objetivos con base en indicadores estratégicos y de gestión, y
 
-XXXV. Jefe de Gobierno: la o el titular de la Jefatura de Gobierno de la Ciudad de México;
+XXX. Evaluación de diseño: Análisis y valoración del diseño del programa presupuestario, que tiene la finalidad de identificar si el programa contiene los elementos necesarios que permiten prever de manera razonable el logro de sus metas y objetivos, a efecto de instrumentar mejoras.
 
-XXXVI. Largo Plazo: Periodo que comprende más de 6 años;
+XXXI. Función: Agrupación del gasto público conforme a la naturaleza de los servicios gubernamentales en beneficio de una población objetivo, que se ejercen a través de una Unidad Responsable del Gasto;
 
-XXXVII. Ley de Ingresos: Ley de Ingresos de la Ciudad de México, que anualmente autoriza el Congreso.
+XXXII. Gaceta: Gaceta Oficial de la Ciudad de México;
 
-XXXVIII. Ley de Planeación: Ley de Planeación del Desarrollo aplicable en la Ciudad de México;
+XXXIII. Informe Trimestral: Documento de rendición de cuentas, en el cual el Gobierno de la Ciudad de México reporta al Congreso, cada tres meses, sobre las Finanzas Públicas y la Deuda Pública, desde el inicio del ejercicio fiscal hasta el término del trimestre correspondiente;
 
-XXXIX. Ley General: Ley General de Contabilidad Gubernamental;
+XXXIV. Ingresos de Aplicación Automática: Recursos por concepto de productos y aprovechamientos que recaudan y administran las Dependencias, Órganos Desconcentrados y las Alcaldías, de conformidad con las reglas de carácter general a que se refieren los artículos 303 y 308 del Código;
 
-XL. Ley Orgánica: Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+XXXV. Ingresos Excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos de la Ciudad de México o en su caso respecto de los Ingresos propios de las Entidades;
 
-XLI. Ley: Ley de Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México;
+XXXVI. Ingresos Propios: Recursos que por cualquier concepto obtengan las Entidades, distintos a los recursos por concepto de subsidios, aportaciones y transferencias;
 
-XLII. LXXI. (SIC) Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe la o el Jefe de Gobierno;
+XXXVII. Jefe de Gobierno: la o el titular de la Jefatura de Gobierno de la Ciudad de México;
 
-XLIII. Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
+XXXVIII. Largo Plazo: Periodo que comprende más de 6 años;
 
-XLIV. Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
+XXXIX. Ley de Ingresos: Ley de Ingresos de la Ciudad de México, que anualmente autoriza el Congreso.
 
-XLV. Órganos Autónomos: Los Órganos Autónomos que establece la Constitución Política de la Ciudad de México;
+XL. Ley de Planeación: Ley de Planeación del Desarrollo aplicable en la Ciudad de México;
 
-XLVI. Órganos de Control Interno: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos Constitucionales Autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las normas.
+XLI. Ley General: Ley General de Contabilidad Gubernamental;
 
-XLVII. Órganos Desconcentrados: Los que con este carácter se establezcan conforme a la Ley Orgánica y su Reglamento, que integran la Administración Pública Desconcentrada
+XLII. Ley Orgánica: Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
-XLVIII. Poder Ejecutivo: La persona titular de la Jefatura de Gobierno de la Ciudad de México.
+XLIII. Ley: Ley de Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México;
 
-XLIX. Poder Judicial: El Tribunal Superior de Justicia;
+XLIV. LXXI. (SIC) Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe la o el Jefe de Gobierno;
 
-L. Poder Legislativo: El Congreso de la Ciudad de México;
+XLV. Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
 
-LI. Presupuesto Autorizado: Asignaciones presupuestarias anuales comprendidas en el Decreto autorizadas por el Congreso;
+XLVI. Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
 
-LII. Presupuesto basado en Resultados: Estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
+XLVII. Órganos Autónomos: Los Órganos Autónomos que establece la Constitución Política de la Ciudad de México;
 
-LIII. Presupuesto Comprometido: Provisiones de recursos que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades constituyen con cargo a su presupuesto, para atender los compromisos derivados de cualquier acto y/o instrumento jurídico, tales como las reglas de operación de los programas, otorgamiento de subsidios, aportaciones a fideicomisos u otro concepto que signifique una obligación, compromiso o potestad de realizar una erogación;
+XLVIII. Órganos de Control Interno: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos Constitucionales Autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las normas.
 
-LIV. Presupuesto Devengado: Reconocimiento de las obligaciones de pago por parte de las Unidades Responsables del Gasto a favor de terceros que se deriven por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, por mandato de tratados, leyes o decretos y por resoluciones y sentencias definitivas;
+XLIX. Órganos Desconcentrados: Los que con este carácter se establezcan conforme a la Ley Orgánica y su Reglamento, que integran la Administración Pública Desconcentrada
 
-LV. Presupuesto Ejercido: Importe de las erogaciones respaldadas por los documentos comprobatorios una vez autorizadas para su pago con cargo al presupuesto autorizado o modificado, determinadas por el acto de recibir el bien o el servicio, independientemente de que éste se haya pagado o no;
+L. Poder Ejecutivo: La persona titular de la Jefatura de Gobierno de la Ciudad de México.
 
-LVI. Presupuesto Modificado: Presupuesto que resulta de aplicar las adecuaciones presupuestarias al presupuesto autorizado, de conformidad con lo que establece esta Ley;
+LI. Poder Judicial: El Tribunal Superior de Justicia;
 
-LVII. Presupuesto Pagado: Erogaciones realizadas para efectos del cumplimiento efectivo de la obligación;
+LII. Poder Legislativo: El Congreso de la Ciudad de México;
 
-LVIII. Programa General: Programa General de Desarrollo de la Ciudad de México. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
+LIII. Presupuesto Autorizado: Asignaciones presupuestarias anuales comprendidas en el Decreto autorizadas por el Congreso;
 
-LIX. Programa Operativo Anual: Documento que sirve de base para la integración de los Anteproyectos de Presupuesto anuales de las propias Dependencias, Órganos Desconcentrados, Alcaldías y Entidades;
+LIV. Presupuesto basado en Resultados: Estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
 
-LX. Programa Operativo: Programa Operativo de la Administración Pública de la Ciudad de México referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas de las Alcaldías, para la asignación de recursos presupuestales;
+LV. Presupuesto Comprometido: Provisiones de recursos que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades constituyen con cargo a su presupuesto, para atender los compromisos derivados de cualquier acto y/o instrumento jurídico, tales como las reglas de operación de los programas, otorgamiento de subsidios, aportaciones a fideicomisos u otro concepto que signifique una obligación, compromiso o potestad de realizar una erogación;
 
-LXI. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los sujetos obligados al cumplimiento de esta Ley generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo;
+LVI. Presupuesto Devengado: Reconocimiento de las obligaciones de pago por parte de las Unidades Responsables del Gasto a favor de terceros que se deriven por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, por mandato de tratados, leyes o decretos y por resoluciones y sentencias definitivas;
 
-LXII. Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
+LVII. Presupuesto Ejercido: Importe de las erogaciones respaldadas por los documentos comprobatorios una vez autorizadas para su pago con cargo al presupuesto autorizado o modificado, determinadas por el acto de recibir el bien o el servicio, independientemente de que éste se haya pagado o no;
 
-LXIII. Programas Parciales de Desarrollo Urbano: Programas de desarrollo de las demarcaciones territoriales de la Ciudad de México;
+LVIII. Presupuesto Modificado: Presupuesto que resulta de aplicar las adecuaciones presupuestarias al presupuesto autorizado, de conformidad con lo que establece esta Ley;
 
-LXIV. Proyecto de Presupuesto: Documento que elabora, integra y consolida la Secretaría y que contiene la estimación de gastos a efectuar por parte de las Unidades Responsables del Gasto para el año inmediato siguiente, mismo que la o el Jefe de Gobierno presenta al Congreso Local para su aprobación.
+LIX. Presupuesto Pagado: Erogaciones realizadas para efectos del cumplimiento efectivo de la obligación;
 
-LXV. Proyectos de Inversión: Acciones realizadas por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, que son registradas en la cartera de proyectos de inversión que administra la Secretaría, que implican erogaciones de gasto de capital y que son destinadas a la adquisición de activos requeridos para atender una necesidad o problemática pública específica; el desarrollo de proyectos específicos y la construcción, adquisición y modificación de inmuebles, así como las rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles;
+LX. Programa General: Programa General de Desarrollo de la Ciudad de México. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
 
-LXVI. Reglamento Interior: Reglamento Interior del Poder Ejecutivo de la Ciudad de México;
+LXI. Programa Operativo Anual: Documento que sirve de base para la integración de los Anteproyectos de Presupuesto anuales de las propias Dependencias, Órganos Desconcentrados, Alcaldías y Entidades;
 
-LXVII. Reglamento: Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
+LXII. Programa Operativo: Programa Operativo de la Administración Pública de la Ciudad de México referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas de las Alcaldías, para la asignación de recursos presupuestales;
 
-LXVIII. Reglas de Operación: Disposiciones a las cuales se sujetan determinados programas de gobierno con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+LXIII. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los sujetos obligados al cumplimiento de esta Ley generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo;
 
-LXIX. Remuneración o retribución: Toda percepción en efectivo o en especie, incluyendo salarios, dietas, aguinaldos, gratificaciones, premios, honorarios, recompensas, bonos, estímulos, comisiones, compensaciones que se entrega a un servidor público por su desempeño cuantificada como parte de la misma o determinada por la ley, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+LXIV. Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
 
-LXX. Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos de la Ciudad de México, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso.
+LXV. Programas Parciales de Desarrollo Urbano: Programas de desarrollo de las demarcaciones territoriales de la Ciudad de México;
 
-LXXI. Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
+LXVI. Proyecto de Presupuesto: Documento que elabora, integra y consolida la Secretaría y que contiene la estimación de gastos a efectuar por parte de las Unidades Responsables del Gasto para el año inmediato siguiente, mismo que la o el Jefe de Gobierno presenta al Congreso Local para su aprobación.
 
-LXXII. Secretaría de la Contraloría: La Secretaría de la Contraloría General de la Ciudad de México;
+LXVII. Proyectos de Inversión: Acciones realizadas por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, que son registradas en la cartera de proyectos de inversión que administra la Secretaría, que implican erogaciones de gasto de capital y que son destinadas a la adquisición de activos requeridos para atender una necesidad o problemática pública específica; el desarrollo de proyectos específicos y la construcción, adquisición y modificación de inmuebles, así como las rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles;
 
-LXXIII. Secretaría: Secretaría de Administración y Finanzas de la Ciudad de México;
+LXVIII. Reglamento Interior: Reglamento Interior del Poder Ejecutivo de la Ciudad de México;
 
-LXXIV. Servidores Públicos: los miembros de los poderes ejecutivo, legislativo y judicial, los integrantes de las alcaldías, los miembros de los organismos autónomos, fideicomisos públicos y en general toda persona que desempeñe un empleo, cargo, función, mandato o comisión de cualquier naturaleza ante éstos; así como las personas que ejerzan actos de autoridad, recursos públicos o contraten con entes públicos la ejecución de obra o servicios públicos, de adquisiciones, de subrogación de funciones o reciban concesiones, todos ellos contemplados en la Constitución Política de la Ciudad de México.
+LXIX. Reglamento: Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
 
-LXXV. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+LXX. Reglas de Operación: Disposiciones a las cuales se sujetan determinados programas de gobierno con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
 
-LXXVI. Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general
+LXXI. Remuneración o retribución: Toda percepción en efectivo o en especie, incluyendo salarios, dietas, aguinaldos, gratificaciones, premios, honorarios, recompensas, bonos, estímulos, comisiones, compensaciones que se entrega a un servidor público por su desempeño cuantificada como parte de la misma o determinada por la ley, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-LXXVII. Tesorería: Tesorería de la Ciudad de México;
+LXXII. Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos de la Ciudad de México, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso.
 
-LXXVIII. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos;
+LXXIII. Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
+
+LXXIV. Secretaría de la Contraloría: La Secretaría de la Contraloría General de la Ciudad de México;
+
+LXXV. Secretaría: Secretaría de Administración y Finanzas de la Ciudad de México;
+
+LXXVI. Servidores Públicos: los miembros de los poderes ejecutivo, legislativo y judicial, los integrantes de las alcaldías, los miembros de los organismos autónomos, fideicomisos públicos y en general toda persona que desempeñe un empleo, cargo, función, mandato o comisión de cualquier naturaleza ante éstos; así como las personas que ejerzan actos de autoridad, recursos públicos o contraten con entes públicos la ejecución de obra o servicios públicos, de adquisiciones, de subrogación de funciones o reciban concesiones, todos ellos contemplados en la Constitución Política de la Ciudad de México.
+
+LXXVII. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+
+LXXVIII. Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general
+
+LXXIX. Tesorería: Tesorería de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+LXXIX (SIC). Transversalidad de la perspectiva de género: Incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe; y
+
+LXXX. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos;
 
 ###### Artículo 3.
 
@@ -330,41 +350,59 @@ La Secretaría y la Secretaría de la Contraloría en el ámbito de su competenc
 
 Los Sujetos Obligados emitirán y publicarán en la Gaceta Oficial antes del 31 de enero de cada año, los lineamientos de austeridad para hacer efectivas las disposiciones establecidas en la presente Ley. Dichos lineamientos deberán incluir, al menos, el señalamiento claro y preciso de las medidas de austeridad a implementar en el ejercicio fiscal de que se trate, el comparativo con los tres ejercicios fiscales previos y los montos de ahorros generados por rubro.
 
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 13.
 
-La Administración Pública impulsará la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto basado en resultados a través de las Unidades Responsables del Gasto.
+La Administración Pública impulsará las áreas prioritarias a las que hace referencia este artículo, incorporando las mismas en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto basado en resultados. Para tal efecto, será obligatorio para todas las Unidades Responsables de Gasto:
 
-Será obligatorio para todas las Unidades Responsables del Gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, considerando directamente a atender las necesidades de las mujeres, así como a generar un impacto diferenciado de género.
+A) En materia de igualdad entre mujeres y hombres:
 
-Así mismo, impulsará el interés superior de la niñez a través de la incorporación del enfoque de derechos de la niñez y adolescencia en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto basado en resultados a través de las Unidades Responsables del Gasto.
+I. Incorporar la perspectiva de género en todas sus acciones, proyectos o programas públicos;
 
-Será obligatorio para todas las Unidades Responsables del Gasto, la inclusión de programas orientados a promover los derechos de la niñez y de la adolescencia en sus presupuestos anuales.
+II. Diseñar, implementar y evaluar programas y/o actividades orientadas a promover la igualdad de género en sus presupuestos anuales, considerando directamente a atender las necesidades de las mujeres, así como a generar un impacto diferenciado de género;
 
-Para tal efecto, deberán considerar lo siguiente:
+III. Incorporar la perspectiva de género y reflejarlo en los indicadores para resultados de los programas bajo su responsabilidad;
 
-I. Incorporar el enfoque de género y reflejarlo en los indicadores para resultados de los programas bajo su responsabilidad;
+IV. Fomentar la perspectiva de género en el diseño y la ejecución de programas en los que, aun cuando no estén dirigidos a mitigar o solventar desigualdades de género, se puede identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
 
-II. Identificar y registrar la población objetivo y la atendida por dichos programas, diferenciada por sexo y grupo de edad en los indicadores para resultados y en los padrones de beneficiarias y beneficiarios que corresponda;
+V. En los programas bajo su responsabilidad, establecer o consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de género;
 
-III. Fomentar el enfoque de género en el diseño y la ejecución de programas en los que, aún cuando no estén dirigidos a mitigar o solventar desigualdades de género, se puede identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
+VI. Aplicar la perspectiva de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de las Mujeres de la Ciudad de México y el Consejo de Evaluación;
 
-IV. En los programas bajo su responsabilidad, establecer o consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con enfoque de género;
+VII. Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación;
 
-V. Aplicar el enfoque de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de las Mujeres de la Ciudad de México y el Consejo de Evaluación;
+La Secretaría de las Mujeres de la Ciudad de México coadyuvará con las Unidades Responsables del Gasto en el contenido de estos programas y campañas; y
 
-VI. Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación.
+VIII. Elaborar diagnósticos sobre la situación de las mujeres en los distintos ámbitos de su competencia.
 
-La Secretaría de las Mujeres de la Ciudad de México coadyuvará con las Unidades Responsables del Gasto en el contenido de estos programas y campañas, y
-
-VII. Elaborar diagnósticos sobre la situación de las mujeres en los distintos ámbitos de su competencia.
-
-La Secretaría, en coordinación con la Secretaría de las Mujeres de la Ciudad de México, y con base en la información que proporcionen las Unidades Responsables del Gasto, remitirá a la Comisión para la Igualdad de Género del Congreso, un informe trimestral de los avances financieros y programáticos, a más tardar a los 45 días naturales de concluido el trimestre que corresponda.
+La Secretaría, en coordinación con la Secretaría de las Mujeres de la Ciudad de México, y con base en la información que proporcionen las Unidades Responsables del Gasto, remitirá a la Comisión para la Igualdad de Género del Congreso, un informe trimestral de los avances financieros y programáticos, a más tardar a los 30 días naturales de concluido el trimestre que corresponda.
 
 Dicho informe deberá contener las oportunidades de mejora que realice la Secretaría de las Mujeres de la Ciudad de México, en cuanto al impacto de las actividades mencionadas.
 
-La Secretaría de las Mujeres de la Ciudad de México, en coordinación con la Secretaría podrá emitir recomendaciones a la Administración Pública sobre las oportunidades de mejora en materia de presupuesto con perspectiva de género, así como los programas y acciones encaminadas a disminuir las brechas de igualdad entre mujeres y hombres.
+La Secretaría de las Mujeres de la Ciudad de México, en coordinación con la Secretaría podrá emitir recomendaciones a la Administración Pública sobre las oportunidades de mejora en materia de presupuesto con perspectiva de género, así como los programas y acciones encaminadas a disminuir las brechas de igualdad entre mujeres y hombres. La Secretaría de las Mujeres de la Ciudad de México podrá emitir opinión a las Unidades Responsables del Gasto sobre los resultados alcanzados en las acciones enfocadas a disminuir las brechas de igualdad entre mujeres y hombres.
 
-La Secretaría de las Mujeres de la Ciudad de México podrá emitir opinión a las Unidades Responsables del Gasto sobre los resultados alcanzados en las acciones enfocadas a disminuir las brechas de igualdad entre mujeres y hombres.
+B) En materia de atención de niños, niñas y adolescentes y en coordinación con el Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes de la Ciudad de México:
+
+I. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de sus políticas, programas y acciones;
+
+II. Conforme a sus atribuciones, diseñar programas orientados a promover los derechos de la niñez y de la adolescencia, identificando y registrando la población objetivo y la atendida, diferenciada por sexo y grupo de edad en los indicadores para resultados y en los padrones de beneficiarias y beneficiarios que corresponda;
+
+III. En los programas bajo su responsabilidad, establecer o consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con enfoque de derechos de la niñez y adolescencia;
+
+IV. Aplicar el enfoque de derechos de la niñez y adolescencia en las evaluaciones de los programas;
+
+V. Incluir en sus programas y campañas de comunicación social contenidos que promuevan los derechos de la niñez y adolescencia y el interés superior de la niñez, e inhiban roles y estereotipos que fomenten cualquier forma de discriminación; y
+
+VI. Elaborar diagnósticos sobre la situación de la niñez y adolescencia en los distintos ámbitos de su competencia.
+
+La Secretaria, en coordinación con la Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes, y con base en la información que proporcionen las Unidades Responsables del Gasto, remitirá a la Comisión de Atención al Desarrollo de la Niñez del Congreso de la Ciudad de México, un informe trimestral de los avances financieros y programáticos, a más tardar a los 30 días naturales de concluido el trimestre que corresponda.
+
+Dicho informe deberá contener las oportunidades de mejora que realice la Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México, en cuanto al impacto de las actividades mencionadas.
+
+La Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México, en coordinación con la Secretaria podrá emitir recomendaciones a la Administración Publica sobre las oportunidades de mejora en materia de presupuesto con perspectiva de derechos de la niñez y adolescencia.
+
+La Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México podrá emitir opinión a las Unidades Responsables del Gasto sobre los resultados alcanzados en las acciones enfocadas a la niñez y adolescencia.
 
 ###### Artículo 14.
 
@@ -714,6 +752,8 @@ La Iniciativa de Ley de Ingresos deberá contener, invariablemente, la estimaci�
 
 La Secretaría podrá solicitar a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades la información que considere pertinente para la elaboración del Proyecto de la Ley de Ingresos.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 29 DE SEPTIEMBRE DE 2020, PÁGINAS 7 Y 8.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 23 DE ENERO DE 2020)</small>
 
 ###### Artículo 47.
@@ -726,33 +766,67 @@ II. El gasto neto total que en éste se especifique, así como la clasificación
 
 III. Descripción clara de las funciones y subfunciones que sean base del proyecto en los que se señalen objetivos, metas y prioridades, así como las Unidades responsables de su ejecución;
 
-IV. Descripción del presupuesto con enfoque de equidad de género, derechos humanos,atención (sic) de niñas, niños y adolescentes y sustentabilidad; este último se contendrá en un Anexo específico de las actividades institucionales del Resultado correspondiente que realicen las Unidades Responsables del Gasto;
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Anexo transversal del presupuesto con perspectiva de género, que contendrá las actividades institucionales programadas para dar cumplimiento a la política pública en materia de igualdad sustantiva. Éste identificará la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+V. Anexo transversal del presupuesto con enfoque de Derechos Humanos, que contendrá las actividades institucionales vinculadas a las Estrategias del Programa de Derechos Humanos de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Anexo trasversal para la atención de niñas, niños y adolescentes; que contendrá las actividades institucionales vinculadas a esta materia y al Programa de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas por grupo de edad;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Anexo transversal en materia de sustentabilidad;
+
+(REUBLICADA, G.O. 29 DE SEPTIEMBRE DE 2020)
+
+VIII. Descripción y explicación del presupuesto que se asignará a las Alcaldías para la preservación, protección, conservación, revalorización, restauración, investigación y difusión del patrimonio histórico, cultural, inmaterial y material, natural, rural, urbano, territorial y otros bienes declarados como monumentos, zonas, paisajes y rutas culturales y conjuntos arqueológicos, artísticos, históricos y paleontológicos en sus demarcaciones;
+
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Anexo transversal del presupuesto con perspectiva de género, que contendrá las actividades institucionales programadas para dar cumplimiento a la política pública en materia de igualdad sustantiva. Éste identificará la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+X. Anexo transversal del presupuesto con enfoque de Derechos Humanos, que contendrá las actividades institucionales vinculadas a las Estrategias del Programa de Derechos Humanos de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Anexo trasversal para la atención de niñas, niños y adolescentes; que contendrá las actividades institucionales vinculadas a esta materia y al Programa de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas por grupo de edad;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Anexo transversal en materia de sustentabilidad;
 
 > <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
 
-V. Descripción y explicación del presupuesto que se asignará a las Alcaldías para la preservación, protección, conservación, revalorización, restauración, investigación y difusión del patrimonio histórico, cultural, inmaterial y material, natural, rural, urbano, territorial y otros bienes declarados como monumentos, zonas, paisajes y rutas culturales y conjuntos arqueológicos, artísticos, históricos y paleontológicos en sus demarcaciones;
+XIII. Descripción y explicación del presupuesto que se asignará a las Alcaldías para la preservación, protección, conservación, revalorización, restauración, investigación y difusión del patrimonio histórico, cultural, inmaterial y material, natural, rural, urbano, territorial y otros bienes declarados como monumentos, zonas, paisajes y rutas culturales y conjuntos arqueológicos, artísticos, históricos y paleontológicos en sus demarcaciones;
 
-VI. Explicación y comentarios de las funciones consideradas como prioritarias, así como las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
+XIV. Explicación y comentarios de las funciones consideradas como prioritarias, así como las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
 
-VII. Estimación de los ingresos y de los gastos del ejercicio fiscal para el que se propone;
+XV. Estimación de los ingresos y de los gastos del ejercicio fiscal para el que se propone;
 
-VIII. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
+XVI. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
-IX. Los montos de endeudamiento propuestos al Congreso de la Unión;
+XVII. Los montos de endeudamiento propuestos al Congreso de la Unión;
 
-X. Los proyectos de Presupuesto de Egresos de los Órganos Autónomos especificando los montos de los recursos públicos que sometan a consideración del Congreso;
+XVIII. Los proyectos de Presupuesto de Egresos de los Órganos Autónomos especificando los montos de los recursos públicos que sometan a consideración del Congreso;
 
-XI. Los montos de los recursos públicos que correspondan a los Órganos de Gobierno;
+XIX. Los montos de los recursos públicos que correspondan a los Órganos de Gobierno;
 
-XII. Analítico de Claves Presupuestales;
+XX. Analítico de Claves Presupuestales;
 
 > <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
 
-XIII. La propuesta de monto para el Fondo Adicional de Financiamiento de las Alcaldías mandatado en la Constitución Local, así como su propuesta de distribución entre las Alcaldías, conforme a los criterios de población, marginación, infraestructura y equipamiento urbano;
+XXI. La propuesta de monto para el Fondo Adicional de Financiamiento de las Alcaldías mandatado en la Constitución Local, así como su propuesta de distribución entre las Alcaldías, conforme a los criterios de población, marginación, infraestructura y equipamiento urbano;
 
-XIV. Catálogo de Unidades Responsables, y
+XXII. Catálogo de Unidades Responsables, y
 
-XV. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión de los Órganos de Gobierno y Autónomos, conforme a esta Ley.
+XXIII. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión de los Órganos de Gobierno y Autónomos, conforme a esta Ley.
 
 ###### Artículo 48.
 
@@ -2131,3 +2205,19 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debid
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
 
 TERCERO.- Las referencias hechas en el presente Decreto a los Órganos Autónomos se entenderán realizadas a los Organismos Autónomos.
+
+G.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 2, RECORRIENDO EN SU ORDEN A LOS SUBSECUENTES; SE REFORMA EL ARTÍCULO 13 Y SE REFORMA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 47, RECORRIENDO EN SU ORDEN LAS SUBSECUENTES; TODOS ELLOS DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, QUE PRESENTAN LAS COMISIONES UNIDAS DE PRESUPUESTO Y CUENTA PÚBLICA Y DE ATENCIÓN AL DESARROLLO DE LA NIÑEZ".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México y sus disposiciones serán aplicables en el proceso de elaboración y consecuente aprobación del Presupuesto de Egresos de la Ciudad de México a partir del Ejercicio Fiscal 2021.
+
+G.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI Y UNA FRACCIÓN LXXIX AL ARTÍCULO 2, RECORRIENDO EN SU ORDEN LAS SUBSECUENTES; SE REFORMA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 47, RECORRIENDO EN SU ORDEN LAS SUBSECUENTES; TODOS ELLOS DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO¨.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México y sus disposiciones serán aplicables en el proceso de elaboración y consecuente aprobación del Presupuesto de Egresos de la Ciudad de México a partir del Ejercicio Fiscal 2021.
