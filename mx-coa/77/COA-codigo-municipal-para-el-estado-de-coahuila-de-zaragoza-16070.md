@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-08-14"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -785,9 +785,11 @@ Las sesiones del Ayuntamiento se celebrarán en el recinto oficial destinado par
 
 Las sesiones únicamente se podrán suspender, cuando se altere gravemente el desarrollo de las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### ARTÍCULO 98.
 
-El secretario del ayuntamiento hará constar en un libro de actas el desarrollo de las sesiones; en él se describirán en forma extractada los asuntos tratados, los acuerdos tomados y los resultados de las votaciones. Cuando el acuerdo de Ayuntamiento se refiera a normas de carácter general o informes financieros, se harán constar en el libro de actas y se anexarán íntegramente en el apéndice del mismo.
+El secretario del ayuntamiento hará constar en un libro de actas el desarrollo de las sesiones; en él se describirán en forma extractada los asuntos tratados, los acuerdos tomados, los resultados de las votaciones, y el sentido del voto de cada integrante del Cabildo, salvo en aquellos casos que la votación se establezca como secreta o por cedula. Cuando el acuerdo de Ayuntamiento se refiera a normas de carácter general o informes financieros, se harán constar en el libro de actas y se anexarán íntegramente en el apéndice del mismo.
 
 Las actas de las sesiones de Ayuntamiento se elaborarán por triplicado; el original lo conservará el propio Ayuntamiento, una copia se enviará, terminado el período del gobierno municipal, al Archivo General del Estado para formar parte del acervo histórico de la Entidad, y la tercera al Archivo Municipal.
 
@@ -5144,3 +5146,9 @@ P.O. 14 DE AGOSTO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 721.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado
