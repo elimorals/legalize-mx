@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2020-04-14"
+last_updated: "2020-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -193,37 +193,31 @@ VI. Secretaría de Educación;
 
 VII. Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Secretaría de Desarrollo Urbano y Metropolitano;
+VIII. Secretaría de Desarrollo Urbano y Obra;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+IX. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-IX. Secretaría de Comunicaciones.
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
-
-X. Secretaría de Desarrollo Agropecuario;
+X. Secretaría del Campo;
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 XI. Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Secretaría de Turismo;
+XII. Secretaría de Cultura y Turismo;
 
-> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2020)</small>
-
-XIII. Secretaría de Cultura y Deporte;
+XIII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
 XIV. Secretaría de la Contraloría;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-XV. Secretaría de Obra Pública.
+XV. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -237,13 +231,17 @@ XVII. Secretaría del Medio Ambiente;
 
 XVIII. Secretaría de Justicia y Derechos Humanos.
 
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Secretaría de la Mujer.
+
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Las Secretarías a las que se refieren las fracciones II a la XVIII de este artículo tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las Secretarías a las que se refieren las fracciones II a la XIX de este artículo tendrán igual rango y entre ellas no habrá preeminencia alguna.
 
 > <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
 
@@ -465,7 +463,13 @@ XIX. Proporcionar asesoría en materia de desarrollo social a las dependencias y
 
 XX. Promover que los recursos públicos destinados a los programas sociales, se apliquen dando cobertura de prioridad a los municipios en este orden: de muy alta, alta, media, baja y muy baja marginalidad;
 
-XXI. Las demás que señalen otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Promover, coordinar, operar y evaluar políticas o programas de apoyo, fomento, atención y desarrollo de las personas adultas mayores;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Las demás que señalen otros ordenamientos legales.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1071,21 +1075,23 @@ XXVI. Promover la transformación de las guarderías y de las escuelas del siste
 
 XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-La Secretaría de Desarrollo Urbano y Metropolitano es la dependencia encargada del ordenamiento territorial de los asentamientos humanos, de regular el desarrollo urbano de los centros de población y la vivienda, así como coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas.
+La Secretaría de Desarrollo Urbano y Obra es la dependencia encargada del ordenamiento territorial de los asentamientos humanos, de regular el desarrollo urbano de los centros de población y la vivienda, y de coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas, así como de ejecutar obras públicas a su cargo, y de promover y ejecutar las acciones para el desarrollo de infraestructura en la Entidad.
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-I.- Formular y conducir las políticas estatales de asentamientos humanos, ordenamiento territorial, desarrollo urbano y vivienda.
+I.- Formular y conducir las políticas estatales de asentamientos humanos, ordenamiento territorial, desarrollo urbano, vivienda, obras públicas e infraestructura para el desarrollo;
 
-II.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ordenamiento territorial de los asentamientos humanos, del desarrollo urbano y vivienda;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ordenamiento territorial de los asentamientos humanos, del desarrollo urbano, vivienda y obra pública;
 
 III.- Formular, ejecutar y evaluar el Plan Estatal de Desarrollo Urbano, los planes regionales de desarrollo urbano y los planes parciales que de ellos se deriven;
 
@@ -1095,11 +1101,17 @@ V.- Vigilar que los planes municipales de desarrollo urbano, los planes de centr
 
 VI.- Promover y vigilar el desarrollo urbano de las comunidades y de los centros de población del Estado;
 
-VII.- Vigilar el cumplimiento de las normas técnicas en materia de desarrollo urbano, vivienda y construcciones;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VIII.- Proponer al Ejecutivo del Estado la celebración de convenios en materia de desarrollo urbano y vivienda y participar en su ejecución;
+VII.- Vigilar el cumplimiento de las normas técnicas en materia de desarrollo urbano, vivienda y construcciones, así como que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
 
-IX.- Promover la construcción de obras de urbanización, infraestructura y equipamiento urbano;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- Proponer al Ejecutivo del Estado la celebración de convenios en materia de desarrollo urbano, vivienda, obra pública e infraestructura y participar en su ejecución;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IX.- Promover el financiamiento y la construcción, instalación, conservación, mantenimiento o mejoramiento de obras de urbanización, infraestructura y equipamiento urbano;
 
 X.- Participar en la promoción y realización de programas de suelo y vivienda preferentemente para la población de menores recursos económicos y coordinar su gestión y ejecución;
 
@@ -1107,9 +1119,9 @@ XI.- Establecer los lineamientos para la regulación de la tenencia de la tierra
 
 XII.- Promover, apoyar y ejecutar programas de regularización de la tenencia de la tierra, con la participación que corresponda a los municipios;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XIII.- Emitir autorizaciones para conjuntos urbanos, condominios, subdivisiones, fusiones, relotificaciones de predios y demás establecidas en los ordenamientos jurídicos aplicables;
+XIII.- Emitir autorizaciones para conjuntos urbanos, condominios, subdivisiones, fusiones, relotificaciones de predios y demás establecidas en los ordenamientos jurídicos aplicables, así como para el uso y disponibilidad del Agua por Zona o Región para que los municipios otorguen licencias de construcción de vivienda o industria;
 
 XIV.- Establecer y vigilar el cumplimiento de los programas de adquisición de reservas territoriales del Estado, con la participación que corresponda a otras autoridades;
 
@@ -1117,11 +1129,15 @@ XV.- Formular, en términos de ley, los proyectos de declaratorias sobre provisi
 
 XVI.- Promover estudios para el mejoramiento del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano, y la vivienda en la Entidad e impulsar proyectos para su financiamiento;
 
-XVII.- Determinar la apertura o modificación de vías públicas;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVII.- Impulsar y promover trabajos de introducción de energía eléctrica en áreas urbanas y rurales, así como determinar la apertura o modificación de vías públicas;
 
 XVIII.- Participar en las comisiones de carácter regional y metropolitano en la que se traten asuntos sobre asentamientos humanos, desarrollo urbano y vivienda.
 
-XIX.- (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIX.- Integrar el Programa General de Obras Públicas del Gobierno del Estado, con la Participación de las dependencias y organismos del Poder Ejecutivo, en congruencia con el Plan Estatal de Desarrollo y la política, objetivos y prioridades que establezca el Gobernador del Estado, y vigilar su ejecución;
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1167,31 +1183,75 @@ XXIX.- Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos
 
 XXX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXXI.- Expedir la evaluación técnica de factibilidad de impacto urbano de conformidad a los ordenamientos jurídicos aplicables;
+XXXI.- Expedir la evaluación técnica de factibilidad de impacto urbano de conformidad a los ordenamientos jurídicos aplicables y emitir, a través de la Comisión del Agua del Estado de México, la evaluación técnica de factibilidad para la distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
 
-XXXII.- (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XXXII.- Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos podrán ser realizados por instituciones públicas o privadas en términos de las disposiciones jurídicas aplicables;
 
-XXXIII.- Las demás que le señalen otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XXXIII.- Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del Gobierno del Estado que le sean asignadas;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV.- Construir, mantener o modificar, en su caso, la obra pública que corresponda al desarrollo y equipamiento urbano y que no competa a otras autoridades;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV.- Expedir en coordinación con las dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI.- Establecer lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII.- Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbano, que no estén asignadas a otras autoridades;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVIII.- Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIX.- Controlar el inventario de disponibilidad de Agua Potable del Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XL.- Administrar en conjunto con la Secretaría de Finanzas los fideicomisos de infraestructura del Gobierno del Estado de acuerdo con el Plan Anual y Sexenal de Obras;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XLI.- Dirigir, coordinar y supervisar a la Comisión de Factibilidad del Estado de México;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XLII.- Coordinar la política estatal de fortalecimiento institucional del desarrollo metropolitano en el Estado de México, de conformidad a las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XLIII.- Las demás que le señalen otras leyes reglamentos y disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 32.
 
-La Secretaría de Comunicaciones es la dependencia encargada del desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad.
+La Secretaría de Movilidad es la dependencia encargada de planear, formular, dirigir, coordinar, gestionar, evaluar, ejecutar y supervisar las políticas, programas, proyectos y estudios para el desarrollo del sistema integral de movilidad, incluyendo el servicio público de transporte de jurisdicción estatal, sus servicios conexos y los sistemas de transporte masivo o de alta capacidad, así como el desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local.
 
 > <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y ejecutar los programas de infraestructura vial primaria;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+I.- Formular y ejecutar planes, programas y acciones para el desarrollo del transporte y sus servicios conexos, infraestructura vial primaria y comunicaciones de jurisdicción local, incluyendo los relativos a sistemas de transporte masivo o de alta capacidad;
 
-II.- Formular y ejecutar los planes y programas de comunicaciones de jurisdicción local, en los que se incluyen los relativos a sistemas de transporte masivo o de alta capacidad;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Fomentar mecanismos para garantizar el derecho humano a la movilidad eficiente y segura, así como para garantizar que todas las personas en ejercicio de dicho derecho se obliguen a respetar y preservar las condiciones de la infraestructura para la movilidad;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1199,17 +1259,21 @@ III.- Emitir la evaluación técnica de factibilidad de incorporación e impacto
 
 IV.- Expedir normas técnicas a que debe sujetarse el establecimiento y operación de la infraestructura vial primaria y las comunicaciones de jurisdicción local;
 
-V.- Vigilar el cumplimiento de las disposiciones legales en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, con la intervención que corresponda a otras autoridades;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+V.- Vigilar el cumplimiento de las disposiciones legales en materia de infraestructura vial primaria, de comunicaciones de jurisdicción local y de transporte público con la intervención que corresponda a otras autoridades;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 VI.- Operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial primaria y a las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad de su competencia, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos;
 
-VII.- Ejecutar acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras a que se refiere la fracción anterior, sin perjuicio de la intervención que en tales materias corresponda a otras dependencias;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+VII.- Ejecutar acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras a que se refiere la fracción anterior, o de la prestación de los servicios en materia de transporte, sin perjuicio de la intervención que en tales materias corresponda a otras autoridades;
 
-VIII.- Otorgar, modificar, revocar o dar por terminadas las concesiones, permisos o autorizaciones para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota y de los sistemas de transporte masivo o de alta capacidad, ejerciendo los derechos de rescate y reversión;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- Otorgar, modificar, revocar, rescatar, sustituir, cancelar o dar por terminadas las concesiones, permisos o autorizaciones, según corresponda, para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, fijando los requisitos mediante disposiciones de carácter general para su otorgamiento, y para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota y de los sistemas de transporte masivo o de alta capacidad, ejerciendo los derechos de rescate y reversión;
 
 IX.- Administrar las vías de cuota a cargo del Estado de México;
 
@@ -1219,11 +1283,13 @@ X.- Establecer disposiciones de carácter general para el uso de la infraestruct
 
 XI.- Realizar por sí o a través de particulares la construcción, ampliación, mantenimiento, administración y operación de paradores para facilitar el uso de la infraestructura vial primaria por los servicios de carga;
 
-> <small>(F. DE E., G.G. 18 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XII.- Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de infraestructura vial primaria, paradores y de comunicaciones de jurisdicción local;
+XII.- Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público, infraestructura vial primaria, paradores y de comunicaciones de jurisdicción local;
 
-XIII.- Realizar las tareas relativas a la ingeniería vial y señalamiento de la infraestructura vial primaria, coordinándose con las autoridades municipales respecto de la integración de la infraestructura vial local con la infraestructura vial primaria;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIII.- Realizar las tareas relativas a la ingeniería del transporte y a la ingeniería vial y señalamiento de la infraestructura vial primaria, coordinándose con las autoridades municipales respecto de la integración de la infraestructura vial local con la infraestructura vial primaria;
 
 > <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -1237,13 +1303,13 @@ XV.- Expedir las bases a que deben sujetarse los concursos públicos para el oto
 
 XVI.- Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
 
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XVII.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de infraestructura vial y de comunicaciones de jurisdicción local;
+XVII.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte, infraestructura vial y de comunicaciones de jurisdicción local, así como fomentar programas y campañas para promover la educación vial y la cultura de movilidad con el objeto de reducir índices de accidentes, fomentar el trato respetuoso y erradicar la violencia con atención especial a niñas, niños, adultos mayores, personas con discapacidad, mujeres y demás grupos vulnerables;
 
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII.- Normar, organizar, integrar, operar y actualizar el Registro Estatal de Comunicaciones;
+XVIII.- Normar, organizar, integrar, operar y actualizar el Registro Público Estatal de Movilidad y el Registro Estatal de Comunicaciones;
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1253,9 +1319,9 @@ XIX.- Participar con los gobiernos federal y de otras entidades federativas, en 
 
 XX.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, explotar, conservar, rehabilitar y dar mantenimiento a estaciones de transferencia modal para los sistemas de transporte masivo o de alta capacidad, directamente o a través de particulares, mediante el otorgamiento de concesiones o contratos;
 
-> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXI.- Determinar el uso restringido de la infraestructura vial;
+XXI.- Resolver respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje, así como determinar el uso restringido de la infraestructura vial;
 
 > <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
 
@@ -1273,25 +1339,45 @@ XXIV.- Otorgar a particulares, permisos para el uso y el aprovechamiento de espa
 
 XXV.- Emitir los lineamientos generales para el otorgamiento de los permisos para espacios públicos en las vías primarias de comunicación;
 
-XXVI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXVII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXVI.- Otorgar, modificar, cancelar, revocar, rescatar, sustituir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
 
-XXVIII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXIX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXVII.- Implementar medidas y acciones para el debido cumplimiento de las obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
 
-XXX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXXI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXVIII.- Autorizar y modificar en todo tiempo rutas, itinerarios, horarios, frecuencias, así como bases, paraderos y terminales del servicio público de transporte y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
 
-XXXII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXIX.- Autorizar y modificar las tarifas a que se sujete el servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, así como determinar el medio a través del cual los usuarios realizarán el pago de las mismas y los dispositivos con que deberán contar los concesionarios para recabarlas;
 
-XXXIV.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXXV.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXX.- Aplicar las medidas de seguridad en términos de la legislación vigente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII.- Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte público en sus diversas clases y modalidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII.- Aprobar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV.- Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV.- Definir la operación de las rutas alimentadoras para el transporte de alta capacidad; y
 
 XXXVI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
@@ -1303,7 +1389,9 @@ XXXIX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 XL.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-XLI.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XLI.- Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -1359,7 +1447,7 @@ XVI. Promover y ejecutar directamente o por terceros, la construcción y operaci
 
 XVII. Concesionar la construcción, administración, operación y conservación de las instalaciones a que se refiere la fracción anterior.
 
-XVIII. Promover, coordinar y participar en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en la Entidad.
+XVIII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 XIX. Regular y promover la protección y preservación de los recursos de fauna y flora silvestres en territorio del Estado.
 
@@ -1387,81 +1475,119 @@ XXVI. Determinar el uso restringido de la infraestructura vial.
 
 XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 33.
 
-La Secretaría de Movilidad es la dependencia encargada de planear, formular, dirigir, coordinar, gestionar, evaluar, ejecutar y supervisar las políticas, programas, proyectos y estudios para el desarrollo del sistema integral de movilidad, incluyendo el servicio público de transporte de jurisdicción estatal y de sus servicios conexos.
+La Secretaría de la Mujer es la dependencia encargada de promover, coordinar, impulsar, formular, ejecutar y evaluar las políticas públicas, programas y acciones relativas a la igualdad sustantiva entre mujeres y hombres, la transversalización de la perspectiva de género, la erradicación de la violencia contra las mujeres por razón de género y condición social, la implementación de acciones afirmativas que acorten las brechas sociales, la protección integral de mujeres, y la eliminación de cualquier tipo de discriminación que obstaculice el acceso igualitario a las oportunidades, el empoderamiento, y el ejercicio de sus derechos.
 
-I. Fomentar mecanismos para garantizar el derecho humano a la movilidad, a través de una política gubernamental que facilite y propicie el acceso a todas las posibilidades de movimiento de las personas en el Estado en condiciones de accesibilidad, calidad y seguridad, favoreciendo el mejor desplazamiento de personas y bienes, para contribuir al desarrollo de la Entidad;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II. Propiciar que las personas tengan derecho a disfrutar de una movilidad eficiente y segura;
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-III. Instrumentar programas y campañas de capacitación y difusión permanentes de cultura de movilidad, encaminados a mejorar las condiciones en que se realizan los desplazamientos, fomentar cambios de hábitos viales y la sana convivencia entre los distintos usuarios de la vía;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Verificar las condiciones bajo las cuales se pueda propiciar la movilidad mediante el uso del transporte público y medios alternativos a través de un diseño adecuado del espacio público;
+I. Formular, proponer, coordinar, ejecutar y dar seguimiento a la instrumentación de políticas públicas, programas estatales y acciones que promuevan la igualdad de género, la prevención, atención, sanción y erradicación de la violencia contra las mujeres, así como de las medidas institucionales que aseguren el ejercicio de sus derechos, oportunidades y acceso igualitario a la participación equitativa en el desarrollo económico, político, social y cultural, a fin de eliminar los estereotipos y prácticas sociales que refuerzan la discriminación hacia las mujeres;
 
-V. Fomentar mecanismos para garantizar en todo momento, que todas las personas en ejercicio del derecho a la movilidad se obliguen a respetar y preservar las condiciones de la infraestructura para la movilidad, así como evitar perjudicarla o poner en riesgo a las demás personas, y a que cumpla las disposiciones contenidas en la ley de la materia y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Realizar campañas permanentes de educación vial para promover la cultura de la movilidad, con el objeto de reducir índices de accidentes, fomentar el trato respetuoso y erradicar la violencia con atención especial a niñas, niños, adultos mayores, personas con discapacidad, mujeres y demás grupos vulnerables;
+II. Elaborar, proponer, ejecutar, coordinar y dar seguimiento al Programa Integral para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de México;
 
-VII. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Otorgar, modificar, revocar, rescatar, sustituir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento, con excepción del transporte masivo o de alta capacidad. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma; con excepción del transporte masivo o de alta capacidad;
+III. Impulsar y promover la incorporación de la perspectiva de género en los programas y políticas públicas de las dependencias y organismos auxiliares de la administración pública estatal; así como en la planeación del desarrollo, la programación y el presupuesto de egresos del Estado;
 
-IX. Otorgar, modificar, cancelar, revocar, rescatar, sustituir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos; con excepción del transporte masivo o de alta capacidad;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-X. Autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
+IV. Expedir lineamientos administrativos para la coordinación de los procesos internos de planeación, programación y presupuestación de la política pública con perspectiva de género y de derechos humanos de las mujeres, así como diseñar indicadores para su seguimiento, sistematización y evaluación, y realizar proyecciones con la información que se genere en la operación de los programas y acciones gubernamentales en favor de la mujer;
 
-XI. Vigilar el cumplimiento de las disposiciones legales en materia de transporte público dictando al respecto, las medidas administrativas que sean necesarias para el mejoramiento de la prestación del servicio;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XII. Ejecutar las acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras o de la prestación de los servicios en materia de transporte, sin perjuicio de la intervención que corresponda a otras autoridades;
+V. Diseñar, implementar y evaluar políticas transversales en materia de igualdad de género, con enfoque de derechos humanos, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en coordinación con las dependencias y organismos auxiliares de la Administración Pública Estatal, así como coadyuvar con los municipios, los poderes Legislativo y Judicial, y los organismos constitucionales autónomos, cuando así lo soliciten, para los mismos fines;
 
-XIII. Autorizar y modificar las tarifas a que se sujete el servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, así como determinar el medio a través del cual los usuarios realizarán el pago de la misma y los dispositivos con que deberán contar los concesionarios para recabarla;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. Implementar medidas y acciones para el debido cumplimiento de las obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
+VI. Administrar, ejecutar y gestionar ante las instancias correspondientes, recursos financieros para la elaboración y ejecución de proyectos productivos y de inversión que promuevan el empoderamiento de la mujer y contribuyan al mejoramiento de las condiciones económicas, políticas, culturales y sociales que garanticen su bienestar integral y reduzcan las desigualdades;
 
-XV. Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. Opinar respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje;
+VII. Fortalecer la participación de las mujeres en actividades productivas y fomentar el desarrollo de sus capacidades económicas, en coordinación con las autoridades competentes, mediante la implementación de estrategias de formación, capacitación y certificación en materia laboral y empresarial, que les permitan el acceso a un trabajo digno y a la obtención de ingresos, a través del autoempleo;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Comunicaciones en los casos de uso de la infraestructura vial primaria, o de impacto o influencia directa en terminales o rutas de transporte masivo o de alta capacidad.
+VIII. Atender e impulsar el ejercicio pleno de los derechos de las mujeres mediante el otorgamiento de asesoría, atención y representación jurídica, así como de apoyo psicoterapéutico, a mujeres en situación de vulnerabilidad por razón de violencia familiar y violencia de género;
 
-XVIII. Realizar las tareas relativas a ingeniería del transporte, coordinándose con otras autoridades cuando así fuere procedente;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XIX. Normar, organizar, integrar, operar y actualizar el Registro Estatal de Transporte;
+IX. Promover y difundir una cultura de paz para eliminar las prácticas sociales que reproduzcan o refuercen la violencia contra la mujer, y la discriminación por razón de género, a fin de garantizar la protección de los derechos humanos de las niñas y mujeres, así como para fomentar el empoderamiento y desarrollo de las mujeres en la esfera pública y privada;
 
-XX. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXI. Emitir las disposiciones administrativas necesarias para la desconcentración por región de la Secretaría, así como las facultades de las unidades desconcentradas;
+X. Colaborar con el Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México para que los programas de formación, capacitación y profesionalización de las personas servidoras públicas se desarrollen con perspectiva de género;
 
-XXII. Aplicar las medidas de seguridad en términos de la legislación vigente;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXIII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
+XI. Promover la inclusión de las organizaciones de la sociedad civil en la elaboración de los instrumentos de planeación y los programas de participación social, con el objeto de fortalecer la transversalidad de la perspectiva de género y garantizar la igualdad sustantiva para las mujeres;
 
-XXIV. Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXV. Aprobar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos Indicante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+XII. Proponer al Ejecutivo del Estado la celebración de convenios en materia de igualdad de género, desarrollo integral de las mujeres y erradicación de todas las formas de violencia y discriminación contra las mujeres;
 
-XXVI. Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en la modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XIII. Generar acciones que promuevan los derechos sexuales y reproductivos de las mujeres, en coordinación con las instancias competentes;
 
-XXVII. Definir en coordinación con la Secretaría de Comunicaciones, la operación de las rutas alimentadoras para el transporte de alta capacidad; y
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXVIII. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+XIV. Fomentar la participación de las mujeres y las organizaciones sociales, políticas y económicas en los diferentes aspectos del desarrollo en el Estado, así como el acceso de las mujeres a un sistema de salud que favorezca su desarrollo personal y social;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Coordinar y representar al Mecanismo Interinstitucional de Seguimiento de las Medidas de Seguridad, Prevención y Justicia para atender y erradicar la violencia contra niñas, adolescentes y mujeres en el Estado de México;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Coordinar, dirigir y supervisar al Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes, y el Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Difundir información en materia de igualdad de género, inclusión social y derechos de las mujeres en la vida pública y privada, así como fomentar la eliminación de roles y estereotipos de género que atenten contra la dignidad de las personas;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Elaborar y remitir a la Secretaría de Finanzas su anteproyecto de presupuesto anual para que sea integrado al proyecto de presupuesto del Gobierno del Estado, de conformidad con lo que establecen las normas en materia de presupuesto, el cuál no podrá ser menor al presupuesto correspondiente al año inmediato anterior, y
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Las demás que le señalen otras leyes reglamentos y disposiciones jurídicas aplicables.
+
+XX. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXI. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXIII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXIV. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXV. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXVI. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXVII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXVIII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 34.
 
-La Secretaria de Desarrollo Agropecuario es la dependencia encargada de planear, promover, coordinar, supervisar y regular el desarrollo de la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero e hidráulico y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
+La Secretaría del Campo es la dependencia encargada de planear, promover, coordinar, supervisar y regular el desarrollo de la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero e hidráulico, la conservación forestal y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
 
-> <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-A la Secretaría de Desarrollo Agropecuario corresponde el despacho de los siguientes asuntos:
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -1539,63 +1665,17 @@ XVIII. Coordinar las actividades operativas de las Coordinaciones Regionales de 
 
 XIX. Elaborar inventarios, así como procesar y difundir la información estadística y geográfica referente a los recursos disponibles, el potencial productivo de las regiones del Estado, la oferta y la demanda de los productos del campo, a efecto de coadyuvar en la planeación del desarrollo rural y en la óptima utilización y preservación rural.
 
-> <small>(ADICIONADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XX. Las demás que señalen el Reglamento y otras disposiciones jurídicas relativas en la Entidad.
+XX. Promover, coordinar y participar en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales de la Entidad, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Las demás que señalen el Reglamento y otras disposiciones jurídicas relativas en la Entidad.
 
 ###### Artículo 35.
 
-La Secretaría de Obra Pública es la dependencia encargada de ejecutar las obras públicas que tenga a su cargo y de promover y ejecutar las acciones tendientes al desarrollo de la infraestructura hidráulica y eléctrica en la Entidad.
-
-A esta Secretaría le corresponde el despacho de los siguientes asuntos:
-
-I. Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en términos de las disposiciones jurídicas aplicables;
-
-II. Formular y conducir la política estatal en materia de obras públicas e infraestructura para el desarrollo;
-
-III. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública;
-
-IV. Integrar el Programa General de Obras Públicas del Gobierno del Estado, con la Participación de las dependencias y organismos del Poder Ejecutivo, en congruencia con el Plan Estatal de Desarrollo y la política, objetivos y prioridades que establezca el Gobernador del Estado, y vigilar su ejecución;
-
-V. Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del Gobierno del Estado que le sean asignadas;
-
-VI. Construir, mantener o modificar, en su caso, la obra pública que corresponda al desarrollo y equipamiento urbano y que no competa a otras autoridades;
-
-VII. Expedir en coordinación con las dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre;
-
-VIII. Establecer lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
-
-IX. Vigilar que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
-
-X. Proponer al Ejecutivo del Estado la celebración de convenios en materia de obra pública e infraestructura para el desarrollo y participar en su ejecución;
-
-XI. Apoyar la creación y consolidación de los organismos públicos descentralizados municipales, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje y tratamiento de aguas residuales;
-
-XII. Impulsar y promover trabajos de introducción de energía eléctrica en áreas urbanas y rurales;
-
-XIII. Promover el financiamiento y la construcción, instalación, conservación, mantenimiento o mejoramiento de la infraestructura hidráulica estatal;
-
-XIV. Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbano, que no estén asignadas a otras autoridades;
-
-XV. Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo;
-
-XVI. Controlar el inventario de disponibilidad de Agua Potable del Estado;
-
-XVII. Autorizar el uso y disponibilidad del Agua por Zona o Región en conjunto con la Secretaría de Desarrollo Urbano y Metropolitano para que los municipios otorguen licencias de construcción de vivienda o industria;
-
-XVIII. Administrar en conjunto con la Secretaría de Finanzas los fideicomisos de infraestructura del Gobierno del Estado de acuerdo al Plan Anual y Sexenal de Obras;
-
-XIX. Representar, participar o dirigir, los fideicomisos, consejos o empresas de participación estatal que el Gobernador le instruya para el cumplimiento de sus funciones, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-XX. Emitir a través de la Comisión del Agua del Estado de México, la evaluación técnica de factibilidad para la distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-XXI. Las demás que le señalen otras leyes reglamentos y disposiciones de observancia general.
+(DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1685,53 +1765,21 @@ XVIII. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
 
 XIX. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
-
 ###### Artículo 36 Bis.
 
-La Secretaría de Turismo es la dependencia encargada de regular, promover y fomentar el desarrollo turístico y artesanal del Estado.
+(DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2004)</small>
-
-A esta Secretaría le corresponde el despacho de los siguientes asuntos:
-
-I.- Proponer al Gobernador las políticas y programas relativos al fomento de las actividades turísticas y artesanales;
-
-II.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción turística y artesanal para el desarrollo de la Entidad;
-
-III.- Fomentar la comercialización, promoción y difusión de las artesanías que se producen en el Estado;
-
-IV.- Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos turísticos del Estado;
-
-V.- Explotar directamente, otorgar y revocar concesiones para la explotación de los recursos turísticos del Estado, así como, para la creación de centros, establecimientos y la prestación de los servicios turísticos en el Estado;
-
-VI.- Controlar y supervisar, de acuerdo a las leyes y reglamentos de la materia, la prestación de los servicios turísticos que se realicen en el Estado;
-
-VII.- Actualizar el inventario de atractivos turísticos y el directorio de servicios que se prestan en este ramo en el Estado;
-
-VIII.- Asesorar técnicamente a los Ayuntamientos, a los sectores sociales, privados o públicos que los soliciten, en la promoción y fomento del desarrollo turístico y artesanal;
-
-IX.- Apoyar los programas de investigación, capacitación y cultura turística y fomentar su divulgación;
-
-X.- Promover la realización de ferias, exposiciones y congresos artesanales;
-
-XI.- Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia turística y comercial artesanal contengan los convenios firmados entre él mismo y la administración pública federal;
-
-XII.- Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos;
-
-XIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
-
-> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 37.
 
-La Secretaría de Cultura y Deporte tiene por objeto vincular a la sociedad con el quehacer cultural de la entidad, así como planear, organizar, coordinar, promover, ejecutar y evaluar las políticas, programas y acciones necesarias para desarrollar la cultura, cultura física y el deporte, en el Estado de México.
+La Secretaría de Cultura y Turismo tiene por objeto vincular a la sociedad con el quehacer cultural, turístico y artesanal de la entidad, así como planear, organizar, coordinar, promover, ejecutar y evaluar las políticas, programas y acciones necesarias para desarrollar la cultura, la cultura física, el deporte, y el fomento al turismo y desarrollo artesanal en el Estado de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 38.
 
-La Secretaría de Cultura y Deporte tiene las siguientes atribuciones:
+La Secretaría de Cultura y Turismo tiene las siguientes atribuciones:
 
 > <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1757,13 +1805,13 @@ V. Impulsar las actividades de difusión y fomento cultural, priorizándolas hac
 
 VI. Coordinar los programas culturales del Estado, con los desarrollados por el gobierno federal en la entidad;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Asesorar a los ayuntamientos, cuando así lo soliciten, en la prestación de servicios culturales;
+VII.- Asesorar técnicamente a los Ayuntamientos, a los sectores sociales, privados o públicos que lo soliciten, en la prestación de servicios culturales, así como en la promoción y fomento del desarrollo turístico y artesanal;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Estimular la producción artística y cultural, de manera individual y colectiva;
+VIII.- Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos, así como estimular la producción artística y cultural, de manera individual y colectiva;
 
 > <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1781,9 +1829,9 @@ XI. Administrar la Orquesta Sinfónica y el Conservatorio de Música del Estado 
 
 XII. Organizar, preservar y acrecentar el Archivo Histórico del Gobierno del Estado de México;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XIII. Mantener actualizado el inventario de bienes que constituyen el patrimonio arqueológico, histórico, artístico y cultura de la entidad;
+XIII. Mantener actualizado el inventario de bienes que constituyen el patrimonio arqueológico, histórico, artístico y cultural de la entidad, el inventario de atractivos turísticos y el directorio de servicios que se prestan en este ramo en el Estado;
 
 > <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1829,9 +1877,45 @@ XXIII. Apoyar a los municipios en la planeación y ejecución de programas de pr
 
 XXIV. Convenir con los sectores público, social y privado la ejecución de acciones para promover y fomentar la cultura física y el deporte en el Estado;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXV. Las demás que sean necesarias para el cumplimiento de su objeto.
+XXV.- Proponer al Gobernador las políticas y programas relativos al fomento de las actividades turísticas y artesanales;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción turística y artesanal para el desarrollo de la Entidad;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII.- Fomentar la comercialización, promoción y difusión de las artesanías que se producen en el Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII.- Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos turísticos del Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX.- Explotar directamente, otorgar y revocar concesiones para la explotación de los recursos turísticos del Estado, así como para la creación de centros, establecimientos y la prestación de los servicios turísticos en el Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXX.- Controlar y supervisar, de acuerdo con las leyes y reglamentos de la materia, la prestación de los servicios turísticos que se realicen en el Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI.- Apoyar los programas de investigación, capacitación y cultura turística y fomentar su divulgación;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII.- Promover la realización de ferias, exposiciones y congresos artesanales;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII.- Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia turística y comercial artesanal contengan los convenios firmados entre él mismo y la administración pública federal, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV.- Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -2097,9 +2181,7 @@ Para efectos de lo establecido en esta fracción se considerará la opinión de 
 
 XXXV. Requerir de las áreas jurídicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-XXXVI. Dirigir, coordinar y supervisar a la Comisión de Factibilidad del Estado de México;
+XXXVI. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2113,9 +2195,7 @@ XXXVII Bis. Desarrollar y coordinar con las dependencias del Ejecutivo, organism
 
 XXXVIII. Promover y autorizar acciones afirmativas en favor de las servidoras públicas adscritas a su dependencia.
 
-> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
-
-XXXIX. Coordinar y representar al Mecanismo Interinstitucional de Seguimiento de las Medidas de Seguridad, Prevención y Justicia para atender y erradicar la violencia contra niñas, adolescentes y mujeres en el Estado de México.
+XXXIX. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 > <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3808,3 +3888,63 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas, acuerdos y convenios, así como en cualquier tipo de documentación, se haga referencia a la Secretaría de Cultura se entenderá por Secretaría de Cultura y Deporte.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
