@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2020-07-23"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1027,7 +1027,9 @@ II. Un Secretario, quien será designado por el Consejo Interno a propuesta de s
 
 III. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
 
-IV. Ocho vocales que son los representantes de las secretarías de Finanzas, del Trabajo, de Educación, de Desarrollo Urbano y Metropolitano, de Desarrollo Agropecuario, del Medio Ambiente, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Ocho vocales que son los representantes de las secretarías de Finanzas, del Trabajo, de Educación, de Desarrollo Urbano y Obra, del Campo, del Medio Ambiente, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
 
 Por cada uno de los integrantes, el Consejo Interno aprobará el nombramiento de un suplente quien será propuesto por el propietario.
 
@@ -3027,9 +3029,9 @@ XIV. Las demás que se establezcan en otros ordenamientos.
 
 47.- La dirección y administración del Consejo está a cargo de una junta directiva y un director general.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con trece vocales, que son los representantes de las Secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano y Metropolitano, de Desarrollo Agropecuario, de Desarrollo Económico, del Medio Ambiente, de Obra Pública y de Movilidad, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la Junta, dos científicos destacados en la materia.
+La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con doce vocales, que son los representantes de las Secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano y Obra, del Campo, de Desarrollo Económico, del Medio Ambiente, y de Movilidad, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la Junta, dos científicos destacados en la materia.
 
 El director general será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta.
 
@@ -3407,7 +3409,9 @@ VIII. Fomentar acciones que garanticen un turismo para todos.
 
 I. Estado.- El Estado Libre y Soberano de México;
 
-II. Secretaría.- La Secretaría de Turismo del Estado de México;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II. Secretaría.- La Secretaría de Cultura y Turismo;
 
 III. Sector.- Todas aquellas entidades públicas, sociales y privadas que intervengan en la prestación de servicios turísticos en el Estado;
 
@@ -3453,7 +3457,9 @@ XI. Turismo para todos.- El desarrollo de la actividad turística que tiene como
 
 I. El Titular del Ejecutivo del Estado de México;
 
-II. La Secretaría de Turismo del Estado de México; y
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II. La Secretaría de Cultura y Turismo; y
 
 III. Los Municipios a través de los Ayuntamientos.
 
@@ -3471,25 +3477,41 @@ III. Presidir el Consejo Consultivo Estatal; y
 
 IV. Las demás que le confieran las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 4.
 
-5 Bis.- Son atribuciones de la Secretaría de Turismo:
+5 Bis.- Son atribuciones de la Secretaría de Cultura y Turismo:
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 I. Planear, programar, ordenar, clasificar, promover, fomentar y regular la actividad turística sustentable y el desarrollo artesanal en el Estado;
 
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
 II. Elaborar y proponer al Titular del Ejecutivo Estatal para su aprobación el Programa Estatal de Turismo Sustentable, en congruencia con el Plan Estatal de Desarrollo; y conforme a lo que se establezca en las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 III. Establecer los lineamientos generales para la elaboración de los Programas Municipales de Turismo;
 
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
 IV. Proponer al Titular del Ejecutivo Estatal las zonas de interés turístico sustentable para su aprobación;
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 V. Instrumentar las medidas conducentes y los medios necesarios para la correcta vinculación y colaboración entre los diferentes órdenes de gobierno en apoyo a los programas de desarrollo turístico;
 
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
 VI. Suscribir convenios para fomentar y desarrollar el turismo sustentable en el Estado;
 
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
 VII. Fomentar, en coordinación con los Ayuntamientos de los municipios, acciones y/o programas para el desarrollo de un turismo para todos; y
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 VIII. Las demás que en materia de turismo señalen otros ordenamientos.
 
@@ -3905,7 +3927,7 @@ V. Las demás que ordenen los otros ordenamientos.
 
 ### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
@@ -4169,7 +4191,9 @@ XLI. Reservas: A las áreas urbanizables previstas en los planes de desarrollo u
 
 XLII. Resiliencia: A la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr mejorar su protección futura y las medidas de reducción de riesgos.
 
-XLIII. Secretaría: A la Secretaría de Desarrollo Urbano y Metropolitano.
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XLIII. Secretaría: A la Secretaría de Desarrollo Urbano y Obra.
 
 XLIV. Sistema Estatal: Al Sistema Estatal de Información del Desarrollo Urbano.
 
@@ -4277,17 +4301,17 @@ Los registradores de la propiedad sólo inscribirán dichas escrituras públicas
 
 No surtirán efectos los permisos, licencias o autorizaciones que contravengan lo establecido en este Libro, su Reglamento y los planes de desarrollo urbano.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-6. Bis.- El uso, aprovechamiento y rehabilitación de espacios públicos en desuso y de bajo puentes, se sujetarán a lo dispuesto en el presente Código, en la Ley Orgánica de la Administración Pública del Estado de México, en la Ley de Bienes del Estado de México y de sus Municipios, en los Reglamentos respectivos, reglas de carácter general y en los lineamientos que para tal efecto emita la Secretaría de Comunicaciones.
+6. Bis.- El uso, aprovechamiento y rehabilitación de espacios públicos en desuso y de bajo puentes, se sujetarán a lo dispuesto en el presente Código, en la Ley Orgánica de la Administración Pública del Estado de México, en la Ley de Bienes del Estado de México y de sus Municipios, en los Reglamentos respectivos, reglas de carácter general y en los lineamientos que para tal efecto emita la Secretaría de Movilidad.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-6. Ter.- Le corresponde a la Secretaría de Comunicaciones otorgar a particulares, el uso, aprovechamiento y rehabilitación de espacios públicos que se encuentren en desuso, ubicados en la infraestructura vial primaria, que podrá incluir la colocación de publicidad exterior, en el bajo puente.
+6. Ter.- Le corresponde a la Secretaría de Movilidad otorgar a particulares, el uso, aprovechamiento y rehabilitación de espacios públicos que se encuentren en desuso, ubicados en la infraestructura vial primaria, que podrá incluir la colocación de publicidad exterior, en el bajo puente.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4297,7 +4321,7 @@ No surtirán efectos los permisos, licencias o autorizaciones que contravengan l
 
 ###### Artículo 5.
 
-7.- Son autoridades para la aplicación de este Libro el Gobernador del Estado, la Secretaría de Desarrollo Urbano y Metropolitano, la Secretaría de Comunicaciones y los municipios.
+7.- Son autoridades para la aplicación de este Libro el Gobernador del Estado, la Secretaría de Desarrollo Urbano y Obra, la Secretaría de Movilidad y los municipios.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5089,9 +5113,9 @@ La organización y funcionamiento de estas instancias, se contendrá como corres
 
 I. La localización, extensión y delimitación del polígono que comprenda zona metropolitana, considerando sus áreas de crecimiento e influencia.
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II. La integración, organización y funcionamiento de un órgano permanente de coordinación metropolitana, que se denominará Comisión Metropolitana, seguido del nombre que identifique la zona de que se trate, en el que participarán el Estado y los municipios respectivos y que será presidida por el titular de la Secretaría de Desarrollo Urbano y Metropolitano.
+II. La integración, organización y funcionamiento de un órgano permanente de coordinación metropolitana, que se denominará Comisión Metropolitana, seguido del nombre que identifique la zona de que se trate, en el que participarán el Estado y los municipios respectivos y que será presidida por el titular de la Secretaría de Desarrollo Urbano y Obra.
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -7843,7 +7867,9 @@ En los lugares, en los que no se cuente con establecimientos autorizados para pr
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON EL ARTÍCULO QUE LA INTEGRA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
+#### SECCION PRIMERA. De las facultades de la Secretaría del Campo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 7.
 
@@ -8793,7 +8819,7 @@ II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
@@ -8807,21 +8833,29 @@ II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci
 
 ### CAPITULO TERCERO. De las organizaciones de productores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-3.- Corresponde a la Secretaría de Desarrollo Agropecuario, lo siguiente:
+3.- Corresponde a la Secretaría del Campo, lo siguiente:
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
 I. El fomento y desarrollo de la trazabilidad, la agricultura, pecuaria, acuacultura, apicultura, el agave y demás actividades agropecuarias.
 
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
 II. Adoptar las medidas necesarias para llevar a cabo la verificación e inspección sanitaria de la agricultura, pecuaria, acuacultura, apicultura, el agave, sus productos y subproductos y demás actividades agropecuarias.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
 III. Vigilar el control sanitario en la movilización de la agricultura, acuacultura, apicultura y el agave, sus productos y subproductos y demás actividades agropecuarias dentro del Estado de México.
 
 > <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2019)</small>
 
 IV. Fomentar la rotación, asociación de cultivos y cultivos múltiples para la conservación del suelo y sostenibilidad del campo mexiquense.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
 V. Las demás que señale este Libro, su Reglamento y otras disposiciones jurídicas aplicables en la materia.
 
@@ -8831,9 +8865,11 @@ V. Las demás que señale este Libro, su Reglamento y otras disposiciones juríd
 
 ### CAPITULO PRIMERO. De la producción y transformación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-5. Los productores podrán constituirse en Asociaciones Locales de Productores Rurales y éstas, en Asociaciones Municipales, Uniones Regionales y Federaciones Estatales de Productores Rurales, mediante su registro en la Secretaría de Desarrollo Agropecuario, en los términos de la reglamentación correspondiente, fecha a partir de la cual tendrán personalidad jurídica. El registro deberá realizarse de manera presencial o a través de las plataformas tecnológicas que la Secretaría habilite para tal efecto.
+5.- Los productores podrán constituirse en Asociaciones Locales de Productores Rurales y éstas, en Asociaciones Municipales, Uniones Regionales y Federaciones Estatales de Productores Rurales, mediante su registro en la Secretaría del Campo, en los términos de la reglamentación correspondiente, fecha a partir de la cual tendrán personalidad jurídica. El registro deberá realizarse de manera presencial o a través de las plataformas tecnológicas que la Secretaría habilite para tal efecto.
 
 > <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -8845,9 +8881,11 @@ Se entiende por productor rural a la persona física que directa o indirectament
 
 ### CAPITULO SEGUNDO. De la comercialización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-6.- La Secretaría de Desarrollo Agropecuario impulsará:
+6.- La Secretaría del Campo impulsará:
 
 I. La identificación e inducción de las oportunidades de producción, preferentemente mediante proyectos integrales, de acuerdo con el potencial productivo y rentabilidad económica de cada zona y procurando la conservación y mejoramiento de los recursos naturales;
 
@@ -8879,7 +8917,9 @@ X. La producción agroecológica en el Estado de México, desarrollando programa
 
 7. El impulso del desarrollo agropecuario, de la acuacultura, apicultura y el agave tendrá presente en todo momento el desarrollo sustentable de la producción primaria bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos con rotación y asociación de cultivos, del agua y demás recursos naturales, así como de prevención y mitigación del impacto ambiental y de las emisiones de gases de efecto invernadero de las actividades productivas en los ecosistemas y la biodiversidad.
 
-Para tal efecto, la Secretaría de Desarrollo Agropecuario promoverá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Para tal efecto, la Secretaría del Campo promoverá:
 
 I. La aplicación de métodos, técnicas y prácticas que aseguren la conservación del suelo, el agua y los recursos naturales utilizados en los procesos productivos, así como la reducción de la pérdida de estos recursos, y que hagan posible el mejor aprovechamiento de los mismos;
 
@@ -8895,9 +8935,11 @@ V. Un modelo de agricultura sostenible, inclusiva y eficaz en el uso de los recu
 
 ### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-8.- La Secretaría de Desarrollo Agropecuario impulsará:
+8.- La Secretaría del Campo impulsará:
 
 I. La organización de los productores con el objeto de reducir costos de comercialización y acceder a los mercados en condiciones más competitivas;
 
@@ -8909,7 +8951,9 @@ II. El cumplimiento de normas relativas a la calidad e inocuidad de sus producto
 
 III. La certificación de origen de los productos y subproductos agropecuarios, de la acuacultura, apicultura y el agave.
 
-IV. El establecimiento de servicios de consultoría, asesoría e información para la ubicación de mercados y oportunidades específicas de exportación, así como en materia de comercio exterior y tratados comerciales, sin perjuicio de que la Secretaría de Desarrollo Agropecuario pueda prestar directamente estos servicios;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IV. El establecimiento de servicios de consultoría, asesoría e información para la ubicación de mercados y oportunidades específicas de exportación, así como en materia de comercio exterior y tratados comerciales, sin perjuicio de que la Secretaría del Campo pueda prestar directamente estos servicios;
 
 V. La adopción de esquemas modernos de acopio, distribución y comercialización;
 
@@ -8931,7 +8975,7 @@ VIII. La certificación en la calidad, inocuidad y producción orgánica de los 
 
 ###### Artículo 9.
 
-9.- La Secretaría de Desarrollo Agropecuario promoverá:
+9.- La Secretaría del Campo promoverá:
 
 > <small>(REFORMADA, G.G. 1 DE AGOSTO DE 2019)</small>
 
@@ -9005,9 +9049,9 @@ XII. Las demás que le asigne el Gobernador del Estado.
 
 11.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con tres vocales, que son los representantes de las secretarías de Finanzas, de Desarrollo Agropecuario y de Medio Ambiente.
+El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con tres vocales, que son los representantes de las secretarías de Finanzas, del Campo y del Medio Ambiente.
 
 > <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -9039,6 +9083,8 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ### CAPITULO QUINTO. De los apoyos y estímulos
 
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 9.
 
 13.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
@@ -9057,7 +9103,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ###### Artículo 9.
 
-16.- La Secretaría de Desarrollo Agropecuario y los municipios podrán otorgar, en función de la disponibilidad y autorización de las partidas presupuestales correspondientes, apoyos y estímulos a los productores, organizados o individuales, que operen de acuerdo con las acciones de impulso reguladas en este Libro. Los apoyos y estímulos serán congruentes con esas acciones y podrán ser en dinero o en especie.
+16.- La Secretaría del Campo y los municipios podrán otorgar, en función de la disponibilidad y autorización de las partidas presupuestales correspondientes, apoyos y estímulos a los productores, organizados o individuales, que operen de acuerdo con las acciones de impulso reguladas en este Libro. Los apoyos y estímulos serán congruentes con esas acciones y podrán ser en dinero o en especie.
 
 ###### Artículo 9.
 
@@ -9081,11 +9127,11 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 ## TITULO TERCERO. De la Movilización y Trazabilidad, del Sistema Estatal de Información de Desarrollo Agropecuario, de la Acuacultura, Apicultura y el Agave
 
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-18.- La Secretaria de Desarrollo Agropecuario organizará y coordinará la movilización, la trazabilidad, el sistema estatal de información de desarrollo agropecuario y de la acuacultura, la apicultura y el agave, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro, así como para proveer de información oportuna a quienes participan en dichas actividades y al público en general.
+18. La Secretaría del Campo organizará y coordinará la movilización, la trazabilidad, el sistema estatal de información de desarrollo agropecuario y de la acuacultura, la apicultura y el agave, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro, así como para proveer de información oportuna a quienes participan en dichas actividades y al público en general.
 
 > <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -9669,9 +9715,9 @@ III. Secretaría, a la Secretaría de Finanzas.
 
 IV. Contraloría, a la Secretaría de la Contraloría y órganos de control interno de las dependencias, entidades estatales y de los municipios;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-V. Secretaría del Ramo, a la Secretaría de Obra Pública;
+V. Secretaría del Ramo, a la Secretaría de Desarrollo Urbano y Obra;
 
 VI. Licitante, a la persona que participe en un procedimiento de licitación de obra pública o de servicios relacionados con la misma;
 
@@ -11751,17 +11797,19 @@ II. Catorce Vocales, que serán:
 
 a. El Secretario General de Gobierno;
 
-b. El Secretario de Desarrollo Metropolitano;
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+b. El Secretario de Desarrollo Urbano y Obra;
 
 c. El Secretario del Medio Ambiente;
 
 d. El Secretario de Desarrollo Social;
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+e. (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-e. El Secretario de Desarrollo Urbano;
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-f. El Secretario de Desarrollo Agropecuario;
+f. El Secretario del Campo;
 
 g. El Secretario de Desarrollo Económico;
 
@@ -12535,15 +12583,15 @@ Los sistemas de transporte de pasajeros de alta capacidad o masivo y teleférico
 
 4.- Para efectos del presente Libro se entenderá por:
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Comunicaciones que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial primaria;
+I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Movilidad, que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial primaria;
 
 II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-III. Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial. A la resolución técnica de la Secretaría de Comunicaciones, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
+III. Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial. A la resolución técnica de la Secretaría de Movilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto urbano, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
@@ -12577,9 +12625,9 @@ VI Bis. Responsable de un Inmueble.- Persona física o jurídica colectiva que t
 
 VI Ter. Anunciante.- Persona física o jurídica colectiva que difunda o publicite productos, bienes, servicios o actividades, haciendo uso de cualquier elemento que corresponda a la publicidad exterior que se encuentre instalada dentro del derecho de vía;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VII. Secretaría.- A la Secretaría de Comunicaciones;
+VII. Secretaría.- A la Secretaría de Movilidad;
 
 > <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -12595,9 +12643,9 @@ VIII Bis. Transporte Teleférico.- El que se presta a través de un sistema elev
 
 VIII Ter. Zona de Influencia.- Es la extensión, que en relación al teleférico, se determinará en cada caso, atendiendo a la topografía y a la naturaleza geológica del terreno, a las peculiares instalaciones del teleférico y a las características de utilización pública o privada de la zona afectada; y
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura variable determinada en las normas técnicas que emita la Secretaría de Comunicaciones, cuya preservación y restricción de uso, son necesarios para evitar riesgos a los usuarios de la infraestructura vial.
+IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura variable determinada en las normas técnicas que emita la Secretaría de Movilidad, cuya preservación y restricción de uso, son necesarios para evitar riesgos a los usuarios de la infraestructura vial.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12611,9 +12659,9 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II. El Secretario de Comunicaciones.
+II. El Secretario de Movilidad;
 
 III. La Junta de Caminos del Estado de México;
 
@@ -12855,9 +12903,9 @@ Los Municipios ordenarán los trabajos de retiro de tales instalaciones publicit
 
 27.- Los permisos y autorizaciones no podrán ser objeto de cesión por ninguna vía.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Sin perjuicio de lo anterior, los permisionarios podrán, por autorización expresa de la Secretaría de Comunicaciones, ceder de manera parcial el derecho de uso al que tengan derecho, en favor de terceros, siempre y cuando se garantice el cumplimiento de los términos del permiso y las disposiciones aplicables por parte del concesionario.
+Sin perjuicio de lo anterior, los permisionarios podrán, por autorización expresa de la Secretaría de Movilidad, ceder de manera parcial el derecho de uso al que tengan derecho, en favor de terceros, siempre y cuando se garantice el cumplimiento de los términos del permiso y las disposiciones aplicables por parte del concesionario.
 
 > <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -13043,11 +13091,11 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 En el caso de la Propuesta no Solicitada, los requisitos y los procedimientos para su otorgamiento, se establecerán en el presente código y en el reglamento correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-40.- El otorgamiento de las concesiones es facultad exclusiva e indelegable de la Secretaría y su titular es el único facultado para firmar el título de concesión. El Secretario de Comunicaciones podrá encomendar a los Organismos Auxiliares del sector la tramitación del concurso, de conformidad con el procedimiento siguiente:
+40.- El otorgamiento de las concesiones es facultad exclusiva e indelegable de la Secretaría y su titular es el único facultado para firmar el título de concesión. El Secretario de Movilidad podrá encomendar a los Organismos Auxiliares del sector la tramitación del concurso, de conformidad con el procedimiento siguiente:
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13201,9 +13249,9 @@ c) Presentar aviso a la autoridad competente en caso de enfrentar dificultades q
 
 d) Vigilar y preservar el derecho de vía y coadyuvar en la preservación de su zona de seguridad, o zona de influencia, según sea el caso, así como dar aviso a la autoridad sobre cualquier anomalía, invasión o daño que le afecte;
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-e) Vigilar que el personal a su cargo cumpla con las disposiciones legales en materia de infraestructura vial, de sistemas de transporte masivo y teleférico, y las contenidas o derivadas del título de concesión o permiso y de aquellas que emita, en su caso, la autoridad en materia de comunicaciones;
+e) Vigilar que el personal a su cargo cumpla con las disposiciones legales en materia de infraestructura vial, de sistemas de transporte masivo y teleférico, y las contenidas o derivadas del título de concesión o permiso y de aquellas que emita, en su caso, la autoridad en materia de movilidad;
 
 f) Proporcionar en todo tiempo a la autoridad competente los datos, informes y documentos que le sean solicitados relacionados con el objeto de la concesión o permiso, y otorgar las facilidades necesarias a dicha autoridad para la realización de visitas de verificación, inspección y calificación;
 
@@ -13581,11 +13629,11 @@ XV. Las demás que se señalen en este Libro, en su Reglamento Interno, el Progr
 
 La organización y funcionamiento de la Junta se rige por el reglamento interno y su manual de organización que expida el consejo directivo.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-67.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y cuenta con siete vocales, que son: El Secretario de Comunicaciones quien lo preside, los representantes de las Secretarías de: Finanzas, de Desarrollo Urbano y Metropolitano, de Obra Pública, del Medio Ambiente y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+67.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y cuenta con seis vocales, que son: El Secretario de Movilidad quien lo preside, los representantes de las Secretarías de: Finanzas, de Desarrollo Urbano y Obra, del Medio Ambiente y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13685,11 +13733,11 @@ XXI. Las demás que se señalen en este Libro y otras disposiciones.
 
 La organización y funcionamiento del Sistema se rige por el reglamento interno expedido por el consejo directivo.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con siete vocales, que son: el Secretario de Comunicaciones quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano y Metropolitano, de Obra Pública, del Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
+73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales, que son: el Secretario de Movilidad quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano y Obra, del Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13739,9 +13787,9 @@ I. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, 
 
 II. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, explotación, mantenimiento, rehabilitación y conservación de infraestructura y operación de transporte de alta capacidad, de estaciones de transferencia modal, así como del sistema de transporte teleférico y las estaciones de origen-destino e intermedias que se requieren para su eficiente funcionamiento;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-III. Presentar a consideración del Secretario de Comunicaciones, para su autorización y firma, en su caso:
+III. Presentar a consideración del Secretario de Movilidad, para su autorización y firma, en su caso:
 
 > <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -13749,9 +13797,9 @@ a) Proyectos para otorgar o ampliar el plazo de las concesiones y contratos para
 
 b) Proyectos sustentados en los que se proponga la terminación anticipada, revocación o rescate de las concesiones o contratos.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Llevar a cabo, previa autorización del Secretario de Comunicaciones, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico:
+IV. Llevar a cabo, previa autorización del Secretario de Movilidad, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico:
 
 > <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
@@ -13803,11 +13851,11 @@ XVI. Las demás que se señalen en este Libro y otras disposiciones.
 
 La organización y funcionamiento del Sistema se rige por el Reglamento Interno expedido por el Consejo Directivo.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con ocho vocales, que son: el Secretario de Comunicaciones, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano y Metropolitano, de Movilidad y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con siete vocales, que son: el Secretario de Movilidad, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano y Obra y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14011,9 +14059,9 @@ III. Construcciones: a toda obra, edificación o instalación de carácter priva
 
 IV. Normas Técnicas: a las Normas Técnicas Complementarias de Construcción, en materia de diseño urbano y arquitectónico, procesos constructivos, estructuras e instalaciones;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-V. Secretaría: A la Secretaría de Obra Pública, y
+V. Secretaría: A la Secretaría de Desarrollo Urbano y Obra, y
 
 VI. Vía pública: a la infraestructura vial primaria y local definidas en el Libro Séptimo del Código, que tiene por objeto el libre tránsito de personas, bienes y servicios; el alojamiento de redes de infraestructura; así como el dar acceso, iluminación, ventilación y asoleamiento a los inmuebles que la delimitan.
 
@@ -14129,9 +14177,9 @@ XI. Las demás que le confieran otras disposiciones legales.
 
 I. El titular de la Secretaría, quien fungirá como Presidente;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II. Representantes especialistas de las Secretarías: General de Gobierno, del Medio Ambiente, de Obra Pública, de Desarrollo Económico, de Desarrollo Urbano y Metropolitano y de Salud;
+II. Representantes especialistas de las Secretarías: General de Gobierno, del Medio Ambiente, de Desarrollo Económico, y de Salud;
 
 III. Las instituciones académicas de educación superior, de ciencia y tecnología, las asociaciones de profesionistas en la materia y las cámaras y asociaciones de industriales y de la construcción, que determine el Presidente del Comité, quienes deberán designar como representantes a especialistas en la materia; y
 
@@ -14533,9 +14581,9 @@ III. De acuerdo al tipo de licencia de construcción que se solicite, adicionalm
 
 A). Para obra nueva, así como para la ampliación, modificación o reparación que afecte elementos estructurales de una obra existente:
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-1. Licencia de uso del suelo, autorización de conjunto urbano o, en los casos que impliquen la construcción de más de diez viviendas o de un coeficiente de utilización del suelo de tres mil o más metros cuadrados de construcción en otros usos, constancia de viabilidad, autorización de subdivisión o de condominio según corresponda, expedida por la Secretaría de Desarrollo Urbano y Metropolitano.
+1. Licencia de uso del suelo, autorización de conjunto urbano o, en los casos que impliquen la construcción de más de diez viviendas o de un coeficiente de utilización del suelo de tres mil o más metros cuadrados de construcción en otros usos, constancia de viabilidad, autorización de subdivisión o de condominio según corresponda, expedida por la Secretaría de Desarrollo Urbano y Obra.
 
 2. Constancia de alineamiento y número oficial;
 
@@ -14561,9 +14609,9 @@ A). Para obra nueva, así como para la ampliación, modificación o reparación 
 
 8. Evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales o documento que acredite la existencia y dotación de agua potable para el desarrollo que se pretende, así como incorporación a los sistemas de agua potable y alcantarillado, el cual será emitido por la Comisión del Agua del Estado de México o autoridad competente, en su caso.
 
-> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-9. Tratándose de conjuntos urbanos, condominios y lotificaciones de vivienda, industriales, comerciales, de servicios y mixtos, la evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales será exigible para la asignación de obligaciones en materia de infraestructura, vinculantes a la autorización que emita la Secretaría de Desarrollo Urbano y Metropolitano, conforme a lo dispuesto por el Libro Quinto del presente Código y su Reglamento, así como la Ley del Agua para el Estado de México y Municipios.
+9. Tratándose de conjuntos urbanos, condominios y lotificaciones de vivienda, industriales, comerciales, de servicios y mixtos, la evaluación técnica de factibilidad de agua, drenaje, alcantarillado y tratamiento de aguas residuales será exigible para la asignación de obligaciones en materia de infraestructura, vinculantes a la autorización que emita la Secretaría de Desarrollo Urbano y Obra, conforme a lo dispuesto por el Libro Quinto del presente Código y su Reglamento, así como la Ley del Agua para el Estado de México y Municipios.
 
 B). Para modalidades de obra nueva, de ampliación, modificación o reparación de la construcción existente, que no afecte elementos estructurales e impliquen la construcción de entre veinte y sesenta metros cuadrados:
 
@@ -15819,7 +15867,9 @@ V. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 I. El Secretario de Desarrollo Económico, quien fungirá como Presidente.
 
-II. El Secretario de Desarrollo Urbano y Metropolitano.
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II. El Secretario de Desarrollo Urbano y Obra.
 
 III. El Director General del Instituto de la Función Registral del Estado de México.
 
@@ -18404,3 +18454,63 @@ G.G. 23 DE JULIO DE 2020.
 PRIMERO.- Publíquese el presente Decreto, en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
