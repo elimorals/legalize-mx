@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2020-09-24"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -277,7 +277,9 @@ Las ciudadanas y los ciudadanos que reúnan los requisitos que establece el art�
 
 Las ciudadanas y los ciudadanos que reúnan los requisitos establecidos en el artículo 119 y que no se encuentren en cualquiera de los supuestos previstos en el artículo 120 de la Constitución Local, son elegibles para ser miembros de los ayuntamientos.
 
-Las ciudadanas y los ciudadanos que se hayan separado de un cargo público para contender en un proceso electoral podrán reincorporase al mismo, una vez que concluya el proceso electoral.
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Las ciudadanas y los ciudadanos que se hayan separado de un cargo público para contender en un proceso electoral, podrán reincorporase al mismo, una vez que concluya la jornada electoral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -317,7 +319,13 @@ VIII. Ser electo o designado candidata o candidato, de conformidad con los proce
 
 La elección consecutiva para el cargo de presidentes municipales, regidores y síndicos será por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Los integrantes de los Ayuntamientos que tengan interés en reelegirse deberán cumplir con los requisitos previstos en el artículo 119 de la Constitución Local, estar inscrito en el Registro Federal de Electores, contar con la credencial para votar con fotografía y separarse del cargo noventa días antes de la elección.
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Las y los integrantes de los Ayuntamientos que tengan interés en reelegirse deberán cumplir con los requisitos previstos en el artículo 119 de la Constitución Local, estar inscritos en el Registro Federal de Electores y contar con la credencial para votar vigente.
+
+> <small>(ADICIONADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Las y los integrantes de los Ayuntamientos que tengan interés en reelegirse, deberán separarse del cargo, por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
 
 > <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -325,9 +333,13 @@ Los integrantes de los Ayuntamientos que tengan interés en reelegirse deberán 
 
 La elección consecutiva de los diputados a la Legislatura podrá ser hasta por cuatro periodos consecutivos. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubiere postulado salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Los diputados de la Legislatura que pretendan reelegirse deberán estar en pleno ejercicio de sus derechos políticos, inscritos en el padrón electoral respectivo, y contar con credencial para votar vigente, tener residencia efectiva en el Estado de México, no menor a tres años anteriores al de la elección y separarse del cargo noventa días antes de la elección.
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Los diputados que se hayan separado del cargo público para contender en un proceso electoral, podrán reincorporarse al mismo una vez que concluya el proceso electoral.
+Las y los diputados de la Legislatura que pretendan reelegirse deberán estar en pleno ejercicio de sus derechos políticos, inscritos en el padrón electoral respectivo, y contar con credencial para votar vigente, tener residencia efectiva en el Estado de México, no menor a tres años anteriores al de la elección.
+
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Las y los diputados de la Legislatura que tengan interés en reelegirse, deberán separarse del cargo, por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
 
 ### CAPÍTULO SEGUNDO. De los sistemas electorales
 
@@ -413,17 +425,23 @@ I. Se aplicarán los principios de mayoría relativa y de representación propor
 
 II. Los ayuntamientos se integrarán conforme a los siguientes criterios poblacionales:
 
-a) En los municipios de hasta ciento cincuenta mil habitantes, el ayuntamiento estará integrado por un presidente municipal, un síndico y seis regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá hasta cuatro regidores asignados según el principio de representación proporcional.
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-b) En los municipios de más de ciento cincuenta mil y hasta quinientos mil habitantes, el Ayuntamiento estará integrado por un presidente municipal, un síndico y siete regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá hasta seis regidores asignados según el principio de representación proporcional.
+a) En los municipios de menos de ciento cincuenta mil habitantes, el Ayuntamiento estará integrado por un presidente municipal, un síndico y cuatro regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá tres regidores asignados según el principio de representación proporcional.
 
-c) En los municipios de más de quinientos mil y hasta un millón de habitantes, el Ayuntamiento estará integrado por un presidente municipal, dos síndicos y nueve regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá un síndico y hasta siete regidores asignados según el principio de representación proporcional.
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-d) En los municipios de más de un millón de habitantes, el Ayuntamiento estará integrado por un presidente municipal, dos síndicos y once regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá un síndico y hasta ocho regidores asignados por el principio de representación proporcional.
+b) En los municipios de más de ciento cincuenta mil y hasta quinientos mil habitantes, el Ayuntamiento estará integrado por un presidente municipal, un síndico y cinco regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá cuatro regidores asignados según el principio de representación proporcional.
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-III. Cada partido político, coalición, candidatura común o independiente deberá postular en planilla con fórmulas de propietarios y suplentes la totalidad de candidatos propios, comunes o en coalición para los cargos a elegir, en la que se deberá considerar un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, debiendo estar integrada de forma alternada por personas de género distinto. El candidato a Presidente Municipal ocupará el primer lugar en la lista de la planilla; el candidato o los candidatos a síndico ocupará u ocuparán, según el caso, el segundo y el tercer lugar en dicha lista, y los restantes candidatos a regidor ocuparán los siguientes lugares en la lista, hasta completar el número que corresponda de acuerdo a lo establecido en los incisos a) al d) de la fracción II de este artículo.
+c) En los municipios de más de quinientos mil habitantes, el Ayuntamiento estará integrado por un presidente municipal, un síndico y siete regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá un síndico y cinco regidores asignados según el principio de representación proporcional.
+
+d) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+III. Cada partido político, coalición, candidatura común o independiente deberá postular en planilla con fórmulas de propietarios y suplentes la totalidad de candidatos propios, comunes o en coalición para los cargos a elegir, en la que se deberá considerar un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, debiendo estar integrada de forma alternada por personas de género distinto. El candidato a Presidente Municipal ocupará el primer lugar en la lista de la planilla; el candidato a síndico ocupará el segundo lugar en dicha lista, y los restantes candidatos a regidor ocuparán los siguientes lugares en la lista, hasta completar el número que corresponda de acuerdo a lo establecido en los incisos a), b) y c) de la fracción II de este artículo.
 
 (NOTA: EL 25 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2016 Y SUS ACUMULADAS 51/2016, 52/2016, 53/2016 Y 54/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -7678,3 +7696,21 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Legislatura deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de aplicar el principio de paridad de género.
 
 CUARTO. Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 190.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Una vez entrado en vigor del presente Decreto, queda sin efecto cualquier articulado que lo contravenga.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 192.- POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 18, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 19, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 18 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
