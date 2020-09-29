@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2019-09-05"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -55,9 +55,11 @@ Esta Ley es de orden público, interés social y de observancia general en el Es
 
 La aplicación de esta Ley corresponde a las autoridades estatales y municipales, de conformidad con sus respectivas competencias debiendo tomar las medidas presupuestales y administrativas para garantizar la igualdad de trato y oportunidades entre mujeres y hombres.
 
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-La rectoría y operación de la política en materia de igualdad en el Estado, estará a cargo del Ejecutivo Estatal, quien la ejercerá a través del Consejo Estatal de la Mujer y Bienestar Social, en términos de las disposiciones de esta Ley y sin perjuicio de las competencias que tengan atribuidas otras dependencias.
+La rectoría y operación de la política en materia de igualdad en el Estado estará a cargo del Ejecutivo Estatal, quien la ejercerá a través de la Secretaría de la Mujer, en términos de las disposiciones de esta Ley y sin perjuicio de las competencias que tengan atribuidas otras dependencias.
 
 ###### Artículo 4.
 
@@ -99,7 +101,7 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones Afirmativas: Al conjunto de medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad de trato y oportunidades entre mujeres y hombres;
 
-II. CEMyBS: Al Consejo Estatal de la Mujer y Bienestar Social;
+II. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 III. Conciliación entre vida familiar y laboral: A la implementación de esquemas y mecanismos que permitan a trabajadores y patrones, convenir horarios y espacios laborales de tal forma que se incrementen las probabilidades de compatibilidad entre las exigencias laborales y las familiares;
 
@@ -233,9 +235,13 @@ XIX. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 El Sistema Estatal se integrará por los representantes de las instancias siguientes:
 
-I. La Secretaría General de Gobierno, que fungirá como Presidente;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II. El CEMyBS, que se hará cargo de la Secretaría Ejecutiva del Sistema;
+I. La Secretaría de la Mujer, que fungirá como Presidenta;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II. La Secretaría Ejecutiva del Sistema, a cargo de quien designe la persona titular de la Secretaría de la Mujer;
 
 III. Todas las dependencias de la administración pública estatal;
 
@@ -243,9 +249,9 @@ IV. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 V. El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
 
-> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VI. La Secretaría de Seguridad Ciudadana;
+VI. Secretaría de Seguridad;
 
 VII. El Instituto Mexiquense de la Juventud;
 
@@ -315,9 +321,11 @@ Los Sistemas Municipales deberán coordinarse con el Sistema Estatal, con la fin
 
 El Programa Integral, es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar los integrantes del Sistema Estatal, en el corto, mediano y largo plazo, tomando en cuenta las necesidades y particularidades específicas de la desigualdad en los ámbitos público y privado, así como en las zonas rurales y urbanas con el propósito de erradicarla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-El Programa Integral deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal, a través del CEMyBS, señalando los objetivos y estrategias para alcanzar la igualdad de trato y oportunidades entre mujeres y hombres, en términos de lo previsto por esta Ley, por lo que deberá:
+El Programa Integral deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal, a través de la Secretaría de la Mujer, señalando los objetivos y estrategias para alcanzar la igualdad de trato y oportunidades entre mujeres y hombres, en términos de lo previsto por esta Ley, por lo que deberá:
 
 I. Establecer las líneas de acción prioritarias y metas para lograr la igualdad de trato y oportunidades entre mujeres y hombres; y
 
@@ -351,9 +359,11 @@ IV. Promover la participación de la sociedad en la planeación, diseño, aplica
 
 V. Las demás necesarias para el cumplimiento del objeto de la Ley y las que le confieran otras disposiciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-Son atribuciones del CEMyBS, las siguientes:
+Son atribuciones de la Secretaría de la Mujer, las siguientes:
 
 I. Coordinar, instrumentar y fomentar las acciones afirmativas que posibiliten la no discriminación, la Igualdad de trato y oportunidades entre mujeres y hombres y la transversalidad de la perspectiva de género en los ámbitos público, social y privado;
 
@@ -567,9 +577,11 @@ VII. Las demás que se establezcan en otras disposiciones jurídicas.
 
 ### CAPÍTULO DÉCIMO. EL MODELO DE EQUIDAD Y GÉNERO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-Será el CEMyBS quien propondrá el modelo que contenga los mecanismos de ejecución para impulsar la certificación, para lo que deberá:
+Será la Secretaría de la Mujer la que propondrá el modelo que contenga los mecanismos de ejecución para impulsar la certificación, para lo que deberá:
 
 I. Definir los lineamientos de gestión con perspectiva de género; y
 
@@ -662,3 +674,63 @@ G.G. 5 DE SEPTIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
