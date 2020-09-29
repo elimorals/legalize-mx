@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2020-04-14"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -1655,7 +1655,11 @@ I. El titular del Ejecutivo Estatal.
 
 II. El titular de la Secretaría General de Gobierno.
 
-III. El titular de la Procuraduría General de Justicia.
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II Bis. La persona titular de la Secretaría de la Mujer.
+
+III. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 IV. El titular de la Secretaría de Finanzas.
 
@@ -1663,7 +1667,9 @@ V. El titular de la Secretaría de Desarrollo Social.
 
 VI. El titular de la Secretaría de Educación.
 
-VII. El titular de la Secretaría de Cultura.
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VII. El titular de la Secretaría de Cultura y Turismo.
 
 VIII. El titular de la Secretaría de Salud.
 
@@ -1705,13 +1711,19 @@ III. Instituto de Transparencia y Acceso a la Información Pública y Protecció
 
 IV. Universidad Autónoma del Estado de México.
 
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+V. Fiscalía General de Justicia del Estado de México.
+
 G. Dos representantes de la sociedad civil organizada que serán nombrados por el Sistema Estatal de Protección Integral, en los términos del reglamento de esta Ley.
 
 Para efectos de lo previsto en el apartado G, el Presidente del Sistema Estatal de Protección Integral emitirá una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus requisitos, fechas límites y plazos.
 
 Serán invitados permanentes a las sesiones del Sistema Estatal de Protección Integral, cuatro representantes de la Red Estatal de Difusores Infantiles, en el que participarán una niña, un niño, una adolescente y un adolescente, cuyas opiniones serán tomadas en cuenta en los asuntos de su interés conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, así como los demás que sean determinados, quienes intervendrán con voz pero sin voto.
 
-El Gobernador del Estado podrá ser suplido por el Secretario General de Gobierno.
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+El Gobernador del Estado podrá ser suplido por la persona titular de la Secretaría de la Mujer.
 
 Los integrantes del Sistema Estatal de Protección Integral nombrarán un suplente que deberá tener un nivel jerárquico inmediatamente inferior.
 
@@ -1731,9 +1743,11 @@ Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección I
 
 #### Sección Segunda. De la Secretaría Ejecutiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 100.
 
-La coordinación operativa del Sistema Estatal de Protección Integral recaerá en un órgano administrativo desconcentrado de la Secretaría de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva.
+La coordinación operativa del Sistema Estatal de Protección Integral recaerá en un órgano administrativo desconcentrado de la Secretaría de la Mujer, que ejercerá las funciones de Secretaría Ejecutiva.
 
 Las (sic) Secretaría Ejecutiva tendrá las siguientes atribuciones:
 
@@ -1996,3 +2010,63 @@ G.G. 14 DE ABRIL DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
