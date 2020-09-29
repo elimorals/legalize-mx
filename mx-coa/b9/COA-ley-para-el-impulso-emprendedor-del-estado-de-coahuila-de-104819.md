@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-emprendedor-del-estado-de-coahuila-de-10481
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2020-06-26"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, al martes 30 de diciembre de 2014.
 
@@ -148,6 +148,10 @@ I. A la Secretaría de Economía y Turismo: la promoción de manera prioritaria 
 a) Incentivar y facilitar el aprovechamiento de productos tecnológicos e innovaciones para el sector productivo, especialmente para empresas de reciente creación; y
 
 b) Conformar, asociar, detonar o desarrollar la integración de ecosistemas de negocios, agrupamientos empresariales, incubadoras de empresas innovadoras, empresas especializadas en vinculación y empresas que pudieran estar soportadas en el aprovechamiento del conocimiento y nuevas tecnologías.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+c) Fomentar la implementación permanente, en todos los municipios del Estado, de un sistema de apertura rápida de empresas.
 
 II. A la Secretaría de Educación: la promoción y facilitación de la incorporación de la temática de investigación, desarrollo e innovación tecnológica; incluyendo la incorporación de contenidos y desarrollo de competencias en aspectos económicos, financieros, de negocios y de desarrollo humano necesarios para el fomento de una cultura emprendedora; a través de programas educativos para el desarrollo integral de emprendedores en el sistema de educación estatal; en todos los niveles, desde primaria a posgrado, tanto en instituciones públicas como privadas; y
 
@@ -627,6 +631,34 @@ b) Las prioridades a apoyar; y
 
 c) Los términos de referencia de los proyectos y la forma de aplicación de apoyos de la subcuenta correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 28 bis.- En la aplicación del Fondo Estatal se deben considerar y razonar las decisiones de los apoyos en base a los siguientes criterios:
+
+I. Promover una mayor participación de las mujeres y jóvenes en el desarrollo económico del Estado;
+
+II. Contribuir a la creación, fortalecimiento, desarrollo, consolidación, viabilidad, productividad y sustentabilidad de las micro, pequeñas y medianas empresas a través de la mejora de sus procesos;
+
+III. Promover, capacitar y difundir los programas, instrumentos, productos, herramientas y acciones para elevar la competitividad de las micro, pequeñas y medianas empresa (sic), como estudios de factibilidad, capacitación de personal, fondos de garantía, entre otros;
+
+IV. Fomentar el acceso al financiamiento de las micro, pequeñas y medianas empresas;
+
+V. Facilitar y fomentar la constitución de incubadoras de empresas, aceleradoras de negocios, empresas de reciente creación y formación de emprendedores, mediante la implementación de programas de apoyo dirigidos a mujeres jefas de familia y jóvenes;
+
+VI. Facilitar y fomentar la integración de las micro, pequeña (sic) y medianas empresas a las cadenas globales de valor;
+
+VII. Promover la investigación y el desarrollo de tecnología en las micro, pequeñas y medianas empresas;
+
+VIII. Fomentar la generación de empleos en las micro, pequeñas y medianas empresas del Estado; y
+
+IX. Apoyar a las incubadoras, aceleradoras y talleres especializados a través de mecanismos para vincular a las micro, pequeñas y medianas empresas con las universidades, así como los centros de investigación científicos y tecnológicos del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Artículo 28 bis 1.- La Secretaría de Economía, con la aprobación del Consejo General Ciudadano, generará una serie de estímulos y programas, en el marco de la política integral de apoyo a las micro, pequeñas y medianas empresas que facilite el financiamiento y otorgamiento de créditos para el fortalecimiento y desarrollo de la micro, pequeña y mediana empresa.
+
+La Secretaría deberá crear un esquema integral y de fácil acceso a las micro, pequeñas y medianas empresas, donde se presente el conjunto de apoyos, actividades de fomento y estímulos dedicados a este segmento.
+
 #### SECCIÓN TERCERA. DE OTROS FONDOS
 
 ###### Artículo 29.
@@ -752,5 +784,11 @@ P.O. 31 DE ENERO DE 2020.
 P.O. 26 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 611.- SE ADICIONA EL INCISO F) A LA FRACCIÓN IV DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 8, ASÍ COMO UNA REFORMA A LAS FRACCIONES II, IV, XI Y XII DEL ARTÍCULO 10, AL PRIMER PÁRRAFO DEL ARTÍCULO 13, AL 16, A LA FRACCIÓN I DEL ARTÍCULO 18, Y AL ARTÍCULO 24, TODOS DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 726.- SE ADICIONAN EL INCISO C) A LA FRACCIÓN I DEL ARTÍCULO 5°, ASÍ COMO LOS ARTÍCULOS 28 BIS Y 28 BIS 1, DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
