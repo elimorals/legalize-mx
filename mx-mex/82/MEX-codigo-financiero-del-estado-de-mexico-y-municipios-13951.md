@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2020-02-20"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 20 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -3725,9 +3723,9 @@ Artículo 69 H.- Los ingresos del Fideicomiso para la Promoción Turística ser�
 
 Artículo 69 I.- El Fideicomiso para la Promoción Turística operará a través de reglas específicas y contará con un Comité Técnico que será el máximo órgano de decisión.
 
-> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Artículo 69 J.- El Comité Técnico del Fideicomiso para la Promoción Turística, será presidido por la Secretaría de Turismo y estará integrado por servidores públicos con injerencia en la materia turística, pudiendo participar representantes del sector privado, previa invitación expresa del Comité Técnico.
+Artículo 69 J.- El Comité Técnico del Fideicomiso para la Promoción Turística, será presidido por la Secretaría de Cultura y Turismo y estará integrado por servidores públicos con injerencia en la materia turística, pudiendo participar representantes del sector privado, previa invitación expresa del Comité Técnico.
 
 > <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -3951,11 +3949,11 @@ Para los supuestos establecidos en las fracciones IV y V, el solicitante podrá,
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO Y METROPOLITANO
+#### SECCIÓN QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO URBANO Y OBRA
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 205 A LA 206.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 74.
 
@@ -3983,11 +3981,11 @@ VIII. Por inscripción de licencia colectiva de portación de arma de fuego por 
 
 > <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
-#### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE OBRA PÚBLICA
+#### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE OBRA PUBLICA
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 206 A LA 207.]</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 75.
 
@@ -4160,6 +4158,96 @@ B). Refrendo. $4,986
 C). Reposición. $4,986
 
 El derecho establecido en el inciso B) se pagará anualmente, mediante la forma oficial aprobada dentro de los tres primeros meses de cada año.
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+X. Por la expedición inicial de licencias o de permisos para conducir vehículos automotores:
+
+A). Chofer para servicio público:
+
+1. Tipo A, modalidad discrecional (taxi) por un año de vigencia. $937
+
+Por dos años de vigencia. $1,326
+
+2. Tipo B, modalidad colectivo por un año de vigencia. $937
+
+Por dos años de vigencia. $1,326
+
+3. Tipo C, modalidad transporte especializado, escolar y de personal por un año de vigencia. $937
+
+Por dos años de vigencia. $1,326
+
+4. Tipo D, modalidad para vehículos de Servicio a la Comunidad por un año de vigencia. $937
+
+La expedición de la Licencia de Chofer para Servicio Público, incluye los exámenes de conocimiento del Reglamento de Tránsito del Estado de México, médico, psicométrico, toxicológico y demás que prevea el reglamento correspondiente.
+
+B). Chofer para servicio particular:
+
+1. Por cuatro años de vigencia. $1,652
+
+2. Por tres años de vigencia. $1,240
+
+3. Por dos años de vigencia. $930
+
+4. Por un año de vigencia. $697
+
+C). Automovilista:
+
+1. Por cuatro años de vigencia. $1,267
+
+2. Por tres años de vigencia. $953
+
+3. Por dos años de vigencia. $713
+
+4. Por un año de vigencia. $532
+
+D). Motociclista:
+
+1. Por cuatro años de vigencia. $1,267
+
+2. Por tres años de vigencia. $953
+
+3. Por dos años de vigencia. $713
+
+4. Por un año de vigencia. $532
+
+E). Por la expedición del permiso provisional de práctica “B”:
+
+1. Por dos años de vigencia. $713
+
+2. Por un año de vigencia. $532
+
+F). Por la expedición de permiso provisional de práctica “A”. $2,532
+
+El pago de los anteriores conceptos incluye en su caso, examen de conocimientos al Reglamento de Tránsito del Estado de México.
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Duplicado de licencias y permisos, con la vigencia del documento expedido originalmente y con la leyenda de “Duplicado”. $360
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Por la expedición del duplicado de la Licencia de Chofer para Servicio Público con la vigencia del documento expedido originalmente y con la leyenda “Duplicado”. $937
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Por los servicios de control vehicular relativos al servicio público de transporte, se pagarán los siguientes derechos:
+
+A). Por la expedición o reposición, en su caso, de placas, tarjeta de circulación y calcomanía para vehículos de servicio público en todas sus clases, modalidades y tipos. $1,528
+
+B). Por refrendo anual para vehículos afectos a la prestación del servicio público del transporte en todas sus clases, modalidades y tipos, a excepción del servicio de carga en general y especializado de carga. $1,247
+
+Los derechos previstos en este inciso se pagarán anualmente de manera simultánea con el impuesto sobre tenencia, mediante la forma oficial aprobada por la autoridad fiscal, dentro de los tres primeros meses de cada año.
+
+C). Por cambio de propietario o cambio de motor del vehículo afecto a la prestación del servicio público de transporte en todas sus modalidades y tipos. $251
+
+D). Por cambio de vehículo afecto a la prestación del servicio público de transporte, en todas sus modalidades y tipos. $665
+
+E). Por el trámite de baja de placas para vehículos afectos a la prestación del servicio público de transporte en todas sus clases, modalidades y tipos. $507
+
+F). Por la expedición de placas y tarjeta de circulación, para vehículos de servicio público en la modalidad de individual en vehículo de propulsión no mecánica. $469
+
+G). Por la reposición de tarjeta de circulación, o del título de concesión o permiso en todas sus modalidades o tipos. $1,177
 
 No pagarán estos derechos las empresas registradas en el Padrón Nacional de la Microindustria.
 
@@ -4361,7 +4449,7 @@ IV. Acta informativa por extravío, robo o pérdida de identificación o gafete 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES
+#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE MOVILIDAD
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -4601,17 +4689,17 @@ B). Educación Media Superior. $1,068
 
 C). Educación Superior. $1,068
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-#### SECCION NOVENA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE MOVILIDAD
+#### SECCION DECIMA (SIC). DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 213 A LA 219.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 219.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 81.
 
-Por los servicios prestados por la Secretaría de Desarrollo Urbano y Metropolitano se pagarán los siguientes derechos:
+Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obra se pagarán los siguientes derechos:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -4709,15 +4797,21 @@ IV. Por la emisión de la evaluación técnica de factibilidad de distribución 
 
 No pagarán los derechos previstos en este artículo los fraccionadores de conjuntos urbanos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de Microindustria.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 82.
 
-Por los servicios prestados por la Secretaría de Obra Pública se pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obra se pagarán los derechos siguientes
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 I. Por la expedición de la autorización de Director Responsable de Obra y Corresponsable de Obra certificados en las distintas ramas de la construcción, por tres años de vigencia, la cantidad de $4,627.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 15 DE DICIEMBRE DE 2017)</small>
+
 II. Por el refrendo, el 50% de la tarifa establecida.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 III. Por la reposición de la credencial, el 50% de la tarifa establecida.
 
@@ -4725,11 +4819,17 @@ III. Por la reposición de la credencial, el 50% de la tarifa establecida.
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE JUSTICIA Y DERECHOS HUMANOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 219.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+SUBSECCION PRIMERA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION DE LEGALIZACION Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 220.]</small>
+
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 83.
 
@@ -4813,9 +4913,9 @@ Uso a cargo del municipio $2.20
 
 Otros usos $5.12
 
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Este pago no aplica cuando haya intercambio de agua, en este caso se establecerá convenio o contrato, entre el usuario, la Secretaría de Obra Pública y la Comisión del Agua del Estado de México, para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
+Este pago no aplica cuando haya intercambio de agua, en este caso se establecerá convenio o contrato, entre el usuario, la Secretaría de Desarrollo Urbano y Obra y la Comisión del Agua del Estado de México, para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
 
 E). Conexión, tratamiento y manejo ecológico de aguas residuales:
 
@@ -4851,17 +4951,7 @@ En caso de que la Comisión Nacional del Agua considere que existe alguna difere
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE JUSTICIA Y DERECHOS HUMANOS
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
-
-SUBSECCION PRIMERA
-
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION DE LEGALIZACION Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 220.]</small>
-
-> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
 
 ###### Artículo 83 Bis.
 
@@ -4869,7 +4959,7 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION DE LEGALIZACION Y DEL P
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
+#### SECCIÓN DÉCIMA TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
 ###### Artículo 84.
 
@@ -4877,9 +4967,11 @@ Por los servicios de auditoría técnica requeridos, que se practiquen a los tra
 
 Los estudios técnicos que con motivo de la auditoria técnica sean necesarios practicar, a efecto de soportar y sustentar dicha auditoria, correrán a cargo del solicitante.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-#### SECCIÓN DÉCIMA TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+#### SECCION PRIMERA. DEL IMPUESTO PREDIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 85.
 
@@ -5223,7 +5315,15 @@ D). Modificaciones de permiso. $848
 
 E). Prórroga de permiso. $848
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+SUBSECCION TERCERA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE MOVILIDAD
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINAS DE LA 213 A LA 219.]</small>
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 87.
 
@@ -5509,107 +5609,13 @@ C). Autorización de las tarifas a que se sujetará la operación del servicio p
 
 D). Autorización de la cromática de los vehículos y equipos afectos a los servicios de transporte en las modalidades referidas en los incisos A) y B) anteriores, por cada vehículo. $768
 
-VIII. Por la expedición inicial de licencias o de permisos para conducir vehículos automotores:
+VIII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-A). Chofer para servicio público:
+IX. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+X. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-1. Tipo A, modalidad discrecional (taxi) por un año de vigencia. $716.00
-
-> <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
-
-Por dos años de vigencia. $1,326
-
-> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
-
-2. Tipo B, modalidad colectivo por un año de vigencia. $716.00
-
-> <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
-
-Por dos años de vigencia. $1,326
-
-> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
-
-3. Tipo C, modalidad transporte especializado, escolar y de personal por un año de vigencia. $716.00
-
-> <small>(ADICIONADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
-
-Por dos años de vigencia. $1,326
-
-> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
-
-4. Tipo D, modalidad para vehículos de Servicio a la Comunidad por un año de vigencia. $716.00
-
-5. (SIC)
-
-> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
-
-La expedición de la Licencia de Chofer para Servicio Público, incluye los exámenes de conocimiento del Reglamento de Tránsito del Estado de México, médico, psicométrico, toxicológico y demás que prevea el reglamento correspondiente.
-
-B). Chofer para servicio particular:
-
-1. Por cuatro años de vigencia. $1,205
-
-2. Por tres años de vigencia. $905
-
-3. Por dos años de vigencia. $678
-
-4. Por un año de vigencia. $508
-
-C). Automovilista:
-
-1. Por cuatro años de vigencia. $924
-
-2. Por tres años de vigencia. $695
-
-3. Por dos años de vigencia. $520
-
-4. Por un año de vigencia. $388
-
-D). Motociclista:
-
-1. Por cuatro años de vigencia. $924
-
-2. Por tres años de vigencia. $695
-
-3. Por dos años de vigencia. $520
-
-4. Por un año de vigencia. $388
-
-E). Por la expedición del permiso provisional de práctica "B":
-
-1. Por dos años de vigencia. $520
-
-2. Por un año de vigencia. $388
-
-F). Por la expedición de permiso provisional de práctica "A". $1,847
-
-El pago de los anteriores conceptos incluye en su caso, examen de conocimientos al Reglamento de Tránsito del Estado de México.
-
-IX. Duplicado de licencias y permisos, con la vigencia del documento expedido originalmente y con la leyenda de "Duplicado". $262
-
-> <small>(REFORMADA, G.G. 20 DE NOVIEMBRE DE 2014)</small>
-
-X. Por la expedición del duplicado de la Licencia de Chofer para Servicio Público con la vigencia del documento expedido originalmente y con la leyenda "Duplicado". $716.00
-
-XI. Por los servicios de control vehicular relativos al servicio público de transporte, se pagarán los siguientes derechos:
-
-A). Por la expedición o reposición, en su caso, de placas, tarjeta de circulación y calcomanía para vehículos de servicio público en todas sus clases, modalidades y tipos. $1,114
-
-B). Por refrendo anual para vehículos afectos a la prestación del servicio público del transporte en todas sus clases, modalidades y tipos, a excepción del servicio de carga en general y especializado de carga. $910
-
-Los derechos previstos en este inciso se pagarán anualmente de manera simultánea con el impuesto sobre tenencia, mediante la forma oficial aprobada por la autoridad fiscal, dentro de los tres primeros meses de cada año.
-
-C). Por cambio de propietario o cambio de motor del vehículo afecto a la prestación del servicio público de transporte en todas sus modalidades y tipos. $183
-
-D). Por cambio de vehículo afecto a la prestación del servicio público de transporte, en todas sus modalidades y tipos. $485
-
-E). Por el trámite de baja de placas para vehículos afectos a la prestación del servicio público de transporte en todas sus clases, modalidades y tipos. $370
-
-F). Por la expedición de placas y tarjeta de circulación, para vehículos de servicio público en la modalidad de individual en vehículo de propulsión no mecánica. $342
-
-G). Por la reposición de tarjeta de circulación, o del título de concesión o permiso en todas sus modalidades o tipos. $859
+XI. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 XII. Expedición de permiso de transporte público en otras modalidades. $860
 
@@ -5637,9 +5643,9 @@ XVI. Expedición del permiso para el establecimiento de bases a concesionarios d
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION PRIMERA. DEL IMPUESTO PREDIAL
+#### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 88.
 
@@ -6405,7 +6411,7 @@ Por la expedición del oficio que determine que una obra y/o actividad no requie
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE OCTUBRE DE 2017)</small>
 
-#### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
+#### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -7843,9 +7849,9 @@ DE LOS DERECHOS POR SERVICIOS CORRESPONDIENTES AL DICTAMEN ÚNICO DE FACTIBILIDA
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
-#### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
+#### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 105.
 
@@ -7853,23 +7859,23 @@ DE LOS DERECHOS POR SERVICIOS CORRESPONDIENTES AL DICTAMEN ÚNICO DE FACTIBILIDA
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LO INTEGRA, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
+#### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
 
-> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 106.
 
 (DEROGADO, G.G. 31 DE DICIEMBRE DE 2018)
 
-#### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+#### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
 ## TITULO CUARTO. DE LOS INGRESOS DE LOS MUNICIPIOS
 
 ### CAPITULO PRIMERO. DE LOS IMPUESTOS
 
-#### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
+#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y RECEPCIÓN DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 107.
 
@@ -8003,9 +8009,7 @@ Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y RECEPCIÓN DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+#### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
 
 ###### Artículo 113.
 
@@ -8231,7 +8235,9 @@ Si las adquisiciones se hacen constar en documentos privados, el cálculo y ente
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
-#### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
+#### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 118.
 
@@ -8345,9 +8351,9 @@ Grupo B.- Comprenderá los municipios no incluidos en el grupo A.
 
 II. Los montos determinados de conformidad con lo previsto en este artículo, se pagarán ante la tesorería correspondiente, dentro de los noventa días siguientes contados a partir de la fecha de publicación en el periódico oficial, del acuerdo de autorización del conjunto urbano o de las subdivisiones de predios de que se trate, o de sus modificaciones.
 
-#### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
+#### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 120.
 
@@ -8435,9 +8441,7 @@ No se pagará este impuesto, por aquellos anuncios que tengan como única finali
 
 Para efectos de este artículo se entenderá como anuncio luminoso, aquél que sea alumbrado por una fuente de luz distinta de la natural, en su interior o exterior.
 
-#### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS DE RASTROS
 
 ###### Artículo 122.
 
@@ -8499,7 +8503,7 @@ Los contribuyentes que habitualmente realicen actividades por las que se cause e
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS DE RASTROS
+#### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
 
 ###### Artículo 125.
 
@@ -8525,7 +8529,9 @@ Artículo 128 Bis B.- (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-#### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
+#### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
+
+(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
 
 ###### Artículo 129.
 
@@ -9377,9 +9383,7 @@ Grupo 4.- Comprenderá el resto de los municipios del Estado no incluidos en los
 
 (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-#### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
-
-(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
+#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
 
 ###### Artículo 142.
 
@@ -9551,7 +9555,9 @@ Los municipios podrán convenir con el Estado, para que éste sea quien preste l
 
 Tratándose de los derechos a que se refiere la fracción V del presente artículo, el 60% constituirá un ingreso para el municipio donde se localice la Oficialía del Registro Civil respectiva, y el 40% corresponderá a los honorarios del Oficial del Registro Civil que hubiese prestado el servicio.
 
-#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
+#### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 143.
 
@@ -10005,9 +10011,9 @@ Para los efectos de esta Sección, se atenderá a la clasificación de municipio
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-#### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
+#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 147.
 
@@ -10171,9 +10177,9 @@ B). Por cada metro o fracción
 
 excedente, por día. 1.0
 
-#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 150.
 
@@ -10265,9 +10271,7 @@ por cabeza, o cada una. 0.0051
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación del número de cabezas sacrificadas por especie, en el mes anterior.
 
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
 
 ###### Artículo 152.
 
@@ -10299,7 +10303,7 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
+#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA DE LOTES BALDIOS, RECOLECCION, TRASLADO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS INDUSTRIALES Y COMERCIALES
 
 ###### Artículo 154.
 
@@ -10357,7 +10361,9 @@ Por la expedición y renovación anual de la cédula para puestos fijos, semifij
 
 Para el cobro del derecho a que se refiere el presente artículo, la autoridad municipal deberá emitir el reglamento relativo a las modalidades, requisitos y características que deberán tener las cédulas, como son, entre otros, los datos que permitan la identificación del comercio, la persona a quien se expide la cédula, la vigencia de la misma y su carácter no transferible.
 
-#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA DE LOTES BALDIOS, RECOLECCION, TRASLADO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS INDUSTRIALES Y COMERCIALES
+#### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 155.
 
@@ -10531,9 +10537,9 @@ Por la evaluación de la prestación del servicio de panteones concesionados, el
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación de las inhumaciones efectuadas el mes anterior.
 
-#### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
+#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 157.
 
@@ -10599,9 +10605,9 @@ El permisionario podrá establecer una cuota fija por tiempo libre o cobrar el s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 159.
 
@@ -10849,9 +10855,9 @@ Cuando la expedición de la licencia no se autorice en el primer mes del ejercic
 
 El refrendo deberá pagarse dentro de los meses de febrero, marzo y abril de cada año.
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
+#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 160.
 
@@ -10887,9 +10893,9 @@ VIII. Primer
 
 comandante. 9.64
 
-#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 161.
 
@@ -10913,9 +10919,7 @@ Tratándose de microindustrias ubicadas en los inmuebles de referencia y que est
 
 Los ayuntamientos podrán acordar la aplicación del derecho en aquellas zonas que no tengan un grado relativo de existencia del servicio, a solicitud de los habitantes del área específica del municipio, o por convenio expreso entre éstos y el ayuntamiento, cuando los importes de su recaudación se destinen precisamente a la introducción o ampliación en su caso, de las redes de alumbrado público faltantes o insuficientes, respectivamente.
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACION DE LAS APORTACIONES
 
 ###### Artículo 163.
 
@@ -10987,7 +10991,7 @@ Se consideran residuos sólidos industriales y comerciales, los que así conside
 
 Por uso del relleno sanitario, se deberán cubrir por concepto de derechos 0.776 veces el valor diario de la Unidad de Medida y Actualización vigente por m3 o fracción.
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACION DE LAS APORTACIONES
+#### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
 
 ###### Artículo 166.
 
@@ -11493,7 +11497,9 @@ Cuando no se inscriba un inmueble, no se manifieste su valor o las modificacione
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
+#### SECCION CUARTA. DE LA FORMA DE PAGO
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 185.
 
@@ -11971,9 +11977,9 @@ En la Tabla de Valores Unitarios de Construcciones, se identifican el código de
 
 > <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION CUARTA. DE LA FORMA DE PAGO
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 195.
 
@@ -12083,9 +12089,9 @@ Independientemente del método que se adopte para determinar el Valor Unitario d
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
 
-> <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 197.
 
@@ -12147,9 +12153,9 @@ El IGECEM registrará y autorizará a los especialistas en valuación inmobiliar
 
 > <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
-#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
+#### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 202.
 
@@ -12483,7 +12489,9 @@ El Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Via
 
 I. Un representante del Poder Legislativo.
 
-II. Un representante de la Secretaría de Comunicaciones.
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II. Un representante de la Secretaría de Movilidad.
 
 III. Un representante de la Secretaría de Finanzas.
 
@@ -12491,7 +12499,9 @@ III. Un representante de la Secretaría de Finanzas.
 
 IV. Dos representantes de los Municipios de la entidad, que serán elegidos anualmente en el seno del Instituto Hacendario, en Sesión de su Consejo Directivo, utilizando el procedimiento de insaculación, debiendo ser municipios en los cuales se genere la aportación.
 
-Este Comité será presidido por el representante de la Secretaría de Comunicaciones y tendrá, entre otras funciones, las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Este Comité será presidido por el representante de la Secretaría de Movilidad y tendrá, entre otras funciones, las siguientes:
 
 I. Dar seguimiento al ingreso que se obtenga por estas aportaciones.
 
@@ -12579,9 +12589,9 @@ VIII. Los estacionamientos, terminales de autobuses urbanos y foráneos, torres 
 
 El ingreso que se perciba por este concepto, será destinado para el desarrollo de obras de infraestructura vial que tienda a mitigar el impacto vial en la zona de influencia.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-El proyecto de obra y su ejecución, se dará de manera coordinada, entre la Secretaría de Comunicaciones y el municipio o municipios afectados, conforme lo dispone el artículo 5.10, fracción XV del Código Administrativo del Estado de México.
+El proyecto de obra y su ejecución se dará de manera coordinada, entre la Secretaría de Movilidad y el municipio o municipios afectados, conforme lo dispone el artículo 5.10, fracción XV del Código Administrativo del Estado de México.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -12613,15 +12623,17 @@ Cuando los municipios o los organismos públicos descentralizados municipales ac
 
 El fideicomiso constituido al efecto contará con un Comité Técnico, que deberá estar integrado con un representante de:
 
-I. La Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+I. La Secretaría del Campo;
 
 II. La Secretaría de Finanzas;
 
 III. La Secretaría del Medio Ambiente;
 
-> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-IV. La Secretaría de Obra Pública;
+IV. La Secretaría de Desarrollo Urbano y Obra;
 
 V. El organismo público descentralizado de carácter estatal denominado Protectora de Bosques del Estado de México;
 
@@ -18477,7 +18489,7 @@ OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el prese
 
 G.G. 26 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, "DE LOS IMPUESTOS", ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, "DE LOS DERECHOS" PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO "DE LOS INGRESOS DEL ESTADO" DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, “DE LOS IMPUESTOS”, ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, “DE LOS DERECHOS” PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO “DE LOS INGRESOS DEL ESTADO” DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
 
 Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -18490,3 +18502,63 @@ G.G. 14 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DE LA “FE DE ERRATAS DEL ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, "DE LOS IMPUESTOS" ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, "DE LOS DERECHOS" PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO "DE LOS INGRESOS DEL ESTADO" DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS", PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL 26 DE DICIEMBRE DE 2019, QUE LA PARTE CORRESPONDIENTE AL ARTÍCULO 95 FRACCIÓN II DEL NUMERAL TERCERO, Y AL CUADRO DEL NUMERAL CUARTO, REFERENTE AL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO”.]
 
 Único. Publíquese la presente Fe de Erratas en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las diposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
