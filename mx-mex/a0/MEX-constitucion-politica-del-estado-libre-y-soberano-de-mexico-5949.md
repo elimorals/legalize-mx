@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2020-09-24"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2020 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1037,9 +1039,9 @@ XI. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Esta
 
 XII. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
 
-> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-En el caso a que se refieren las tres fracciones anteriores, podrán postularse si se separan del cargo noventa días antes de las elecciones ordinarias y treinta de las extraordinarias.
+En el caso a que se refieren las tres fracciones anteriores, podrán postularse si se separan del cargo, por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
 
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2711,9 +2713,9 @@ V. Las y los militares y los miembros de las fuerzas de seguridad pública del E
 
 VI. Las y los ministros de cualquier culto, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Las y los servidores públicos a que se refieren las fracciones de la I a la V serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos noventa días antes de la elección.
+Las y los servidores públicos a que se refieren las fracciones de la I a la V serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
 
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -5038,3 +5040,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Legislatura deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de aplicar el principio de paridad de género.
 
 CUARTO.- Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 189.- POR EL QUE SE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 40 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
