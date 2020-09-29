@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-la-lectura-y-el-libro-de-la-ciudad-de-67091
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2018-03-05"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-25"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de marzo de 2009.
 
@@ -172,37 +172,41 @@ VIII. Agente literario: persona física o moral que representa los derechos de a
 
 ### CAPITULO II. DE LA ORGANIZACION
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 6.
 
 Son autoridades encargadas de la aplicación de la presente Ley en el ámbito de sus competencias:
 
-I. El Jefe de Gobierno
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II. La Secretaría de Cultura
+I. La persona titular de la Jefatura de Gobierno.
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-III. La Dirección General de Fomento a la Lectura
+II. La Secretaría de Cultura.
+
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+III. La Dirección General de Vinculación Cultural Comunitaria.
 
 > <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
 
 IV. Las Alcaldías.
 
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-La secretaría de Cultura, a través de la Dirección General de Fomento a la Lectura, elaborará planes y programas de actuación, global y anual, acompañados de la dotación presupuestaria adecuada, con el fin de coordinar las medidas de promoción y fomento previstas en la presente ley y en sus disposiciones reglamentarias.
+La Secretaría de Cultura, a través de la Dirección General de Vinculación Cultural Comunitaria, elaborará planes y programas de actuación, global y anual, acompañados de la dotación presupuestaria adecuada, con el fin de coordinar las medidas de promoción y fomento previstas en la presente ley y en sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+La Dirección General de Vinculación Cultural Comunitaria es la unidad administrativa de la Secretaría de Cultura del Gobierno de la Ciudad de México, responsable de la aplicación de las políticas públicas destinadas a garantizar el fomento a la lectura entre los lectores de la ciudad.
 
-La Dirección General de Fomento a la lectura es el órgano desconcentrado dependiente de la Secretaría de Cultura del Gobierno de la Ciudad de México, responsable de la aplicación de las políticas públicas destinadas a garantizar el fomento a la lectura entre los lectores de la ciudad.
-
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 8.
 
-Corresponde a la Dirección General de Fomento a la lectura de la Ciudad de México:
+Corresponde a la Dirección General de Vinculación Cultural Comunitaria de la Ciudad de México:
 
 > <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
 
@@ -230,15 +234,19 @@ VI. Incentivar el desarrollo de distintos géneros literarios en donde se retrat
 
 VII. Organizar todo tipo de actividades y eventos que promuevan el libro y estimulen el hábito de la lectura, en apoyo a los objetivos de esta ley.
 
-> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Ser responsable de la organización de la Feria Internacional del Libro en el Zócalo de la Ciudad de México, promoviendo su desarrollo en la mayor cantidad de espacios culturales y educativos de la Ciudad de México. Tendrá como sede el propio Zócalo, y se podrá extender hacia otros puntos de la ciudad.
+VIII. Generar espacios de promoción institucional para la difusión del hábito de la lectura y de aquellos libros impresos y editados en México que por su valor cultural o interés científico o técnico que enriquezcan la cultura de la ciudad.
 
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Ser responsable de la organización de la Feria Internacional del Libro en el Zócalo de la Ciudad de México, promoviendo su desarrollo en la mayor cantidad de espacios culturales y educativos de la Ciudad de México. Tendrá como sede el propio Zócalo, y se podrá extender hacia otros puntos de la ciudad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
-La Dirección General de Fomento a la Lectura elaborará el programa de fomento para la lectura y el libro de la Ciudad de México, a través de los siguientes medios:
+La Dirección General de Vinculación Cultural Comunitaria elaborará el programa de fomento para la lectura y el libro de la Ciudad de México, a través de los siguientes medios:
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -274,51 +282,61 @@ X. Talleres, círculos literarios, libro clubes y cualesquiera otras medidas con
 
 Corresponde al ejecutivo de la Ciudad de México garantizar las políticas y estrategias que se establezcan en el plan global y programa de fomento a la lectura y el libro, así como impulsar la creación, edición, producción, difusión, venta y exportación del libro mexicano y de las coediciones mexicanas que satisfagan los requerimientos culturales y educativos en la ciudad en condiciones adecuadas de calidad, cantidad, precio único y variedad, procurando su presencia en todas las bibliotecas de la Ciudad de México, del país y en el exterior.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-La Dirección General de Fomento a la Lectura deberá generar espacios de promoción institucional para la difusión del hábito de la lectura, y de aquellos libros impresos y editados en México que por su valor cultural o interés científico o técnico que (sic) enriquezcan la cultura de la ciudad.
+Corresponde a las Alcaldías:
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+I. Fomentar, promover, incentivar y difundir material de lectura con la finalidad de desarrollar y fortalecer el hábito a la lectura.
+
+II. Elaborar y organizar, en coordinación con la Dirección General de Vinculación Cultural Comunitaria el programa anual de actividades culturales, el cual deberá contener como mínimo la realización de una feria del libro dentro de su demarcación territorial, así como, campañas, bibliotecas itinerantes o cualquier otra actividad que incentive la lectura.
+
+III. Crear espacios que contribuyan a desarrollar y robustecer la cultura y el hábito de la lectura en zonas identificadas de alta y muy alta marginación mediante diversos mecanismos de difusión, promoción, distribución y fácil acceso a la lectura.
+
+IV. Impulsar la formación de nuevos escritores en las Alcaldías.
+
+V. Canalizar a las y los escritores que radiquen en sus Alcaldías al Consejo de Fomento a la Lectura y el Libro de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 12.
 
 Con el fin de promover la lectura y el libro, el Gobierno de la Ciudad de México otorgará incentivos fiscales a empresas editoras y a toda aquella medida encaminada a la renovación tecnológica y modernización del sector editorial, de artes gráficas y de distribución y venta del libro, incluidas a las que se refieren a la utilización de medios informáticos, audiovisuales y redes de telecomunicación.
 
+La finalidad y cuantía de las ayudas y subvenciones, los requisitos y procedimientos para obtenerlas y las obligaciones y condiciones que conlleven su otorgamiento se establecerán por el ejecutivo local a través del reglamento correspondiente para esta ley.
+
 ### CAPITULO III. DE LAS MEDIDAS DE FOMENTO EDITORIAL Y A LA LECTURA
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-El Gobierno de la Ciudad de México (sic) través de la Dirección General de Fomento a la lectura y las Universidades públicas y privadas, propondrá programas de fomento a la lectura, ya sea para el conjunto de la población o dirigidos a sectores específicos de la misma.
+El Gobierno de la Ciudad de México (sic) través de la Dirección General de Vinculación Cultural Comunitaria y las Universidades públicas y privadas, propondrá programas de fomento a la lectura, ya sea para el conjunto de la población o dirigidos a sectores específicos de la misma.
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-El Gobierno de la Ciudad de México a través de la Dirección General de Fomento a la Lectura y el Consejo de Fomento a la Lectura y el Libro de la Ciudad de México, realizará campañas de difusión acerca de las bibliotecas de la Ciudad de México, para sensibilizar e incrementar los hábitos de lectura y fomentar la visita a las mismas.
+El Gobierno de la Ciudad de México a través de la Dirección General de Vinculación Cultural Comunitaria y el Consejo de Fomento a la Lectura y el Libro de la Ciudad de México, realizará campañas de difusión acerca de las bibliotecas de la Ciudad de México, para sensibilizar e incrementar los hábitos de lectura y fomentar la visita a las mismas.
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 15.
 
-La Dirección General de Fomento a la Lectura, en coordinación con la Secretaria de Movilidad de la Ciudad de México, establecerá las medidas necesarias, mediante suscripción de los acuerdos correspondientes, para que en el transporte público de la Ciudad de México, concesionado y no concesionado, se privilegie la lectura y se distribuya material de lectura durante el trayecto.
+La Dirección General de Vinculación Cultural Comunitaria, en coordinación con la Secretaría de Movilidad de la Ciudad de México, establecerá las medidas necesarias, mediante suscripción de los acuerdos correspondientes, para que en el transporte público de la Ciudad de México, concesionado y no concesionado, se privilegie la lectura y se distribuya material de lectura durante el trayecto.
+
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-El Consejo gestionará espacios de tiempo oficial en los medios de comunicación para fomentar la lectura.
+El Consejo de Fomento a la Lectura y el Libro, gestionará espacios de tiempo oficial en los medios de comunicación para fomentar la lectura.
 
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-El Gobierno de la Ciudad de México por medio de la Dirección General de Fomento a la Lectura previa consulta al Consejo de la Lectura y el Libro de la Ciudad de México, adquirirá un porcentaje mínimo razonable de la primera edición de cada título impreso y editado en el país, que por su valor cultural o interés científico o técnico enriquezca el acervo de las bibliotecas de la Ciudad de México.
-
-> <small>(ADICIONADO, G.O. 5 DE MARZO DE 2018)</small>
-
-El porcentaje al que hace alusión el párrafo anterior, deberá contemplar de manera obligatoria publicaciones escritas en las lenguas indígenas de mayor presencia en la Ciudad de México.
+El Gobierno de la Ciudad de México por medio de la Dirección General de Vinculación Cultural Comunitaria previa consulta al Consejo de Fomento a la Lectura y el Libro de la Ciudad de México, adquirirá un porcentaje mínimo razonable de la primera edición de cada título impreso y editado en el país, que por su valor cultural o interés científico o técnico enriquezca el acervo de las bibliotecas de la Ciudad de México. El porcentaje al que hace alusión el párrafo anterior, deberá contemplar de manera obligatoria publicaciones escritas en las lenguas indígenas de mayor presencia en la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
@@ -326,23 +344,23 @@ El porcentaje al que hace alusión el párrafo anterior, deberá contemplar de m
 
 El presupuesto de egresos anual incluirá la partida correspondiente para que esta política de libros de publicación nacional para la provisión de bibliotecas públicas de la Ciudad de México se ejecute regularmente y en tal forma que los recursos presupuestarios se incrementen cada a (sic) año en razón de las necesidades proyectadas.
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 19.
 
-La Dirección General de Fomento a la Lectura dotará a las Bibliotecas públicas de la Ciudad de México, con volúmenes de audio libros y en braille, a fin de dar adecuada atención a la población con alguna discapacidad.
+La Dirección General de Vinculación Cultural Comunitaria dotará a las Bibliotecas públicas de la Ciudad de México, con volúmenes de audio libros y en braille, a fin de dar adecuada atención a la población con alguna discapacidad.
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 20.
 
-Las personas físicas o morales que realicen donaciones de libros, revistas, fascículos, catálogos o folletos a establecimientos educativos, culturales y bibliotecas del ámbito público, de conformidad con el procedimiento establecido para el efecto en el Reglamento de esta Ley, gozaran de la exención al impuesto predial que establezca el Código Fiscal de la Ciudad de México.
+Las personas físicas o morales que realicen donaciones de libros, revistas, fascículos, catálogos o folletos a establecimientos educativos, culturales y bibliotecas del ámbito público, de conformidad con el procedimiento establecido para el efecto en el Reglamento de esta Ley, gozarán de la exención al impuesto predial que establezca el Código Fiscal de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-El Gobierno de la Ciudad de México, a través de la Dirección General de Fomento a la Lectura, procurará impulsar ante las entidades bancarias y financieras con domicilios fiscales en la Ciudad de México, el ofrecimiento de líneas de crédito especiales en condiciones preferenciales de cuantía, garantías, intereses y plazos, destinadas a incrementar y mejorar la producción y difusión de libros y publicaciones en la Ciudad de México.
+El Gobierno de la Ciudad de México, a través de la Dirección General de Vinculación Cultural Comunitaria, procurará impulsar ante las entidades bancarias y financieras con domicilios fiscales en la Ciudad de México, el ofrecimiento de líneas de crédito especiales en condiciones preferenciales de cuantía, garantías, intereses y plazos, destinadas a incrementar y mejorar la producción y difusión de libros y publicaciones en la Ciudad de México.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 5 DE MARZO DE 2018)</small>
 
@@ -350,49 +368,39 @@ El Gobierno de la Ciudad de México, a través de la Dirección General de Fomen
 
 DEL CONSEJO DE FOMENTO A LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO.
 
-> <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-Se crea el Consejo de Fomento a la Lectura y el Libro, con carácter de órgano consultivo de la Secretaria de Cultura de la Ciudad de México, cuyo objeto es fomentar las actividades y trabajos que contribuyan al perfeccionamiento de las políticas públicas, en pro de una cultura de fomento a la lectura y el libro, y que faciliten el acceso al libro para la población en general.
+Se crea el Consejo de Fomento a la Lectura y el Libro, con carácter de órgano consultivo de la Secretaría de Cultura de la Ciudad de México, cuyo objeto es fomentar las actividades y trabajos que contribuyan al perfeccionamiento de las políticas públicas, en pro de una cultura de fomento a la lectura y el libro, y que faciliten el acceso al libro para la población en general.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 23.
 
 El Consejo de Fomento a la Lectura y el Libro estará integrado por:
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+I. El o la presidenta, que será la persona titular de la Dirección General de Vinculación Cultural Comunitaria;
 
-I. Su presidente que será el titular de la Dirección General de Fomento a la Lectura;
+II. La secretaría ejecutiva, que será nombrada por la persona titular de la Jefatura de Gobierno;
 
-> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+III. Una persona representante, por cada Alcaldía;
 
-II. Un secretario ejecutivo, que será nombrado por el Jefe de Gobierno de la Ciudad de México;
+IV. Hasta 10 vocales, a invitación de la presidencia;
 
-III. Hasta 10 vocales invitados a participar por su presidente;
+V. Las personas que presidan las Comisiones de Derechos Culturales y de Educación, del Congreso de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+VI. Una persona representante de la Cámara Nacional de la Industria Editorial Mexicana;
 
-IV. Los presidentes de las Comisiones de Cultura y de Educación del Congreso de la Ciudad de México;
+VII. Tres personas representantes de asociaciones vinculadas al fomento a la lectura, difusión y promoción del libro;
 
-V. Un representante de la Cámara Nacional de la Industria Editorial;
+VIII. Dos personas representantes de asociaciones de escritores;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+IX. Dos personas del ámbito académico de reconocido prestigio y experiencia en la promoción de la lectura; y
 
-VI. Tres representantes de las asociaciones más representativas de fomento a la lectura, difusión y promoción del libro;
+X. La o el Rector de la Universidad Autónoma de la Ciudad de México, o a quien se designe como su representante.
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
-
-VII. Dos representantes de las asociaciones más representativas de los escritores;
-
-VIII. Dos personas del ámbito académico de reconocido prestigio y experiencia en la promoción de la lectura; y
-
-> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2011)</small>
-
-IX. El Rector de la Universidad Autónoma de la Ciudad de México.
-
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 24.
 
@@ -410,7 +418,9 @@ III. Promover la formación y actualización de profesionales en el fomento y pr
 
 IV. Apoyar la concertación de los intereses y esfuerzos del sector público con el sector privado para el desarrollo sostenido y democrático de la industria del libro;
 
-V. Promover el desarrollo de sistemas integrales de información sobre el libro, su distribución, la lectura y los derechos de autor, así como crear una base de datos que contemple: catálogos y directorios colectivos de autores, obras, editoriales, industria grafica, bibliotecas y librerías disponibles para la consulta en red de cualquier país;
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+V. Promover el desarrollo de sistemas integrales de información sobre el libro, su distribución, la lectura y los derechos de autor, así como crear una base de datos que contemple: catálogos y directorios colectivos de autores, obras, editoriales, industria gráfica, bibliotecas y librerías disponibles para la consulta en red de cualquier país;
 
 VI. Apoyar las actividades en defensa de los derechos del autor, el traductor y del editor dentro y fuera del territorio nacional;
 
@@ -434,13 +444,13 @@ XI. Apoyar a los escritores locales.
 
 XII. Sugerir a los editores la traducción y publicación de textos editados en las lenguas indígenas de mayor presencia en la Ciudad de México fortaleciendo con ello su naturaleza intercultural.
 
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 25.
 
 El Consejo de Fomento a la Lectura y el Libro de la Ciudad de México sesionará como mínimo tres veces al año y sobre los asuntos que el mismo establezca.
 
-El quórum mínimo será del 50% más uno de sus miembros y para que sus decisiones sean validas, deberán ser aprobadas por la Mayoría de los miembros presentes, salvo aquellos casos en que se requiera mayoría calificada según su reglamento.
+El quórum mínimo será del 50% más uno de sus miembros y para que sus decisiones sean válidas, deberán ser aprobadas por la Mayoría de los miembros presentes, salvo aquellos casos en que se requiera mayoría calificada según su reglamento.
 
 > <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
@@ -450,7 +460,7 @@ El Consejo de Fomento a la Lectura y el Libro de la Ciudad de México se regirá
 
 ### CAPITULO V. DE LAS SANCIONES
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 27.
 
@@ -493,3 +503,15 @@ G.O. 5 DE MARZO DE 2018.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
+
+G.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México y para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Para la expedición de la normativa reglamentaria de la presente ley, el Poder Ejecutivo contará con un plazo de 90 días hábiles, a partir de la publicación del presente decreto.
+
+CUARTO. La Secretaría de Cultura de la Ciudad de México, a través de la Dirección General de Vinculación Cultural Comunitaria, promoverá entre las 16 Alcaldías, la aplicación de las facultades que les otorga la presente Ley.
