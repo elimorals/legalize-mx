@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2020-08-24"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -461,21 +461,19 @@ Los integrantes de los ayuntamientos de elección popular deberán cumplir con l
 
 Los Ayuntamientos se renovarán cada tres años, iniciarán su periodo el 1 de enero del año inmediato siguiente al de las elecciones municipales ordinarias y concluirán el 31 de diciembre del año de las elecciones para su renovación; y se integrarán por:
 
-> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-I. Un presidente, un síndico y seis regidores, electos por planilla según el principio de mayoría relativa y hasta cuatro regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de menos de 150 mil habitantes;
+I. Un presidente, un síndico y cuatro regidores, electos por planilla según el principio de mayoría relativa, y tres regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de menos 150 mil habitantes.
 
-> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II. Un presidente, un síndico y siete regidores, electos por planilla según el principio de mayoría relativa y hasta seis regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 150 mil y menos de 500 mil habitantes;
+II. Un presidente, un síndico y cinco regidores, electos por planilla según el principio de mayoría relativa, y cuatro regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 150 mil habitantes y menos de 500 mil habitantes.
 
-> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-III. Un presidente, dos síndicos y nueve regidores, electos por planilla según el principio de mayoría relativa. Habrá un síndico y hasta siete regidores según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 500 mil y menos de un millón de habitantes; y
+III. Un presidente, un síndico y siete regidores, electos por planilla según el principio de mayoría relativa; un síndico y cinco regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 500 mil habitantes.
 
-> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
-
-IV. Un presidente, dos síndicos y once regidores, electos por planilla según el principio de mayoría relativa y un síndico y hasta ocho regidores designados por el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de un millón de habitantes.
+IV. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2014)</small>
 
@@ -1377,7 +1375,7 @@ XVII. Las demás que les señalen las disposiciones aplicables.
 
 En el caso de que sean dos los síndicos que se elijan, uno estará encargado de los ingresos de la hacienda municipal y el otro de los egresos. El primero tendrá las facultades y obligaciones consignadas en las fracciones I, IV, V, y XVI y el segundo, las contenidas en las fracciones II, III, VI, VII, VIII, IX, X y XII entendiéndose que se ejercerán indistintamente las demás.
 
-En el caso de que se elija un tercer síndico, este ejercerá las atribuciones del segundo a que se refieren las fracciones VII, VIII, IX, y X.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 > <small>(REFORMADO, G.G. 31 DE JULIO DE 2012)</small>
 
@@ -1563,95 +1561,67 @@ Las comisiones las determinará el ayuntamiento de acuerdo a las necesidades del
 
 I. Serán permanentes las comisiones:
 
-a). De gobernación, de seguridad pública y tránsito y de protección civil, cuyo responsable será el presidente municipal;
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+a). De gobernación, cuyo responsable será el presidente municipal;
 
 b). De planeación para el desarrollo, que estará a cargo del presidente municipal;
 
 c). De hacienda, que presidirá el síndico o el primer síndico, cuando haya mas de uno;
 
-d). De agua, drenaje y alcantarillado;
+d). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-e). De mercados, centrales de abasto y rastros;
+e). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-f). De alumbrado público;
+f). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-g). De obras públicas y desarrollo urbano;
+g). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-h). De fomento agropecuario y forestal;
+h). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADO, G.G. 18 DE JULIO DE 2013)</small>
+i). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-i). De parques y jardines;
+j). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+k). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-j). De panteones;
+l). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-k) De cultura, educación pública, deporte y recreación;
+m). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-l). De turismo;
+n). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-m). De preservación y restauración del medio ambiente;
+ñ). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-n). De empleo;
+o). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-ñ). De salud pública;
+p). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-o). De población;
+q). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>[N. DE E. MEDIANTE REFORMA EN LA G.G. DE 18 DE JULIO DE 2013, SE ADICIONA EL INCISO J) A LA FRACCIÓN I, RECORRIÉNDOSE Y ADECUÁNDOSE EN SU ORDEN LOS SUBSECUENTES INCISOS, POR LO QUE EL ANTERIOR INCISO Ñ) BIS PASÓ A FORMAR EL ACTUAL INCISO P).]</small>
+r). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+s). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-p). De Participación Ciudadana;
+t). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE FEBRERO DE 2010)</small>
+u). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-q). De asuntos indígenas, en aquellos municipios con presencia de población indígena;
+v). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-r). De revisión y actualización de la reglamentación municipal;
+w). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADO, G.G. 21 DE NOVIEMBRE DE 2014)</small>
+x). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-s). De Asuntos Internacionales y Apoyo al Migrante, en aquellos municipios que se tenga un alto índice de migración.
+y). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2013)</small>
+z). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-t). De asuntos metropolitanos, en aquellos municipios que formen parte de alguna zona metropolitana;
+z.1). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+z.2). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-u). De Protección e Inclusión a Personas con Discapacidad;
-
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2014)</small>
-
-v). De prevención social de la violencia y la delincuencia;
-
-> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
-
-w). De Derechos Humanos.
-
-> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
-
-x). Atención a la violencia en contra de las mujeres.
-
-> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
-
-y). De Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 19 DE SEPTIEMBRE DE 2018)</small>
-
-z). De prevención y atención de conflictos laborales; y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 12 DE JUNIO DE 2019)</small>
-
-z.1). De Atención al Adulto Mayor;
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2019)</small>
-
-z.2) De protección y bienestar animal; y
-
-z.3) Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del Municipio.
+z.3). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -5212,3 +5182,13 @@ G.G. 24 DE AGOSTO DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 190.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Una vez entrado en vigor del presente Decreto, queda sin efecto cualquier articulado que lo contravenga.
