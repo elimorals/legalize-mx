@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-las-personas-adultas-mayores-del-estado-de-mexico-62524"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-06"
-last_updated: "2019-12-16"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de agosto de 2008.
 
@@ -67,7 +67,7 @@ V. Bienestar Social: Resultado de las acciones que realizan las dependencias, or
 
 VI. Calidad del Servicio: Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
 
-VII. CEMyBS: Consejo Estatal de la Mujer y Bienestar Social del Estado de México;
+VII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 VIII. Comité: Comité Estatal para la Atención del Adulto Mayor;
 
@@ -91,7 +91,9 @@ XV. Vulnerabilidad: Condición de indefensión jurídica, social, económica o f
 
 La aplicación, seguimiento y observancia de las disposiciones de esta Ley corresponde:
 
-I. Al Ejecutivo Estatal a través de la Secretaría de Desarrollo Social y del Consejo Estatal de la Mujer y Bienestar Social y Órgano Rector; y
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+I. Al Ejecutivo Estatal a través de la Secretaría de Desarrollo Social y el Órgano Rector; y
 
 II. A los Gobiernos Municipales, en el ámbito de sus respectivas competencias, por conducto de los SMDIF.
 
@@ -305,9 +307,43 @@ III. Incorporar en el Programa de Desarrollo Social y Combate a la Pobreza, prog
 
 IV. Promover, a través de las dependencias de la administración pública estatal, programas de asistencia, protección, provisión, participación y atención de sus derechos;
 
-V. Suscribir con los sectores público, social y privado, los convenios que se requieran para la implementación de programas de defensa, protección, provisión, participación y atención a los derechos de los adultos mayores; y
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+V. Suscribir con los sectores público, social y privado, los convenios que se requieran para la implementación de programas de defensa, protección, provisión, participación y atención a los derechos de los adultos mayores; así como de programas y acciones que aseguren el bienestar social de los adultos mayores;
 
 VI. Promover el acceso de los adultos mayores a los programas sociales que establezcan las instituciones públicas y privadas.
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Promover, coordinar, operar y evaluar políticas y programas de apoyo para los adultos mayores y su bienestar social;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Coordinar e instrumentar los programas y acciones de atención a los adultos mayores que se deriven de los acuerdos nacionales e internacionales que le sean encomendados;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Sensibilizar a la sociedad, respecto de los problemas, necesidades, méritos, capacidades y experiencias de los adultos mayores, impulsando una cultura de respeto y reconocimiento a éstos;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+X. Proporcionar asesoría jurídica gratuita en los procedimientos administrativos y judiciales en que los adultos mayores sean parte;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Impulsar la oportunidad, eficiencia, suficiencia y calidad de los servicios de prevención y atención a la salud de los adultos mayores, ante las instancias de salud del sector público y privado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Integrar y mantener actualizado un sistema de información que dé cuenta de la situación de los adultos mayores;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Promover el acceso de los adultos mayores a la alimentación, salud, educación, vivienda, práctica del deporte, actividades recreativas y la cultura, y
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Promover que los adultos mayores tengan una atención preferente en los establecimientos públicos y privados que prestan servicios al público.
 
 ###### Artículo 9.
 
@@ -411,25 +447,7 @@ XVI. La atención y seguimiento de quejas, denuncias e informes, sobre la violac
 
 ###### Artículo 11.
 
-Corresponde al Consejo Estatal de la Mujer y Bienestar Social:
-
-I. Promover, coordinar, operar y evaluar políticas y programas de apoyo para los adultos mayores y su bienestar social;
-
-II. Coordinar e instrumentar los programas y acciones de atención a los adultos mayores que se deriven de los acuerdos nacionales e internacionales que le sean encomendados;
-
-III. Sensibilizar a la sociedad, respecto de los problemas, necesidades, méritos, capacidades y experiencias de los adultos mayores, Impulsando una cultura de respeto y reconocimiento a éstos;
-
-IV. Proporcionar asesoría jurídica gratuita en los procedimientos administrativos y judiciales en que los adultos mayores sean parte;
-
-V. Impulsar la oportunidad, eficiencia, suficiencia y calidad de los servicios de prevención y atención a la salud de los adultos mayores, ante las instancias de salud del sector público y privado;
-
-VI. Integrar y mantener actualizado un sistema de información que dé cuenta de la situación de los adultos mayores;
-
-VII. Promover el acceso de los adultos mayores a la alimentación, salud, educación, vivienda, práctica del deporte, actividades recreativas y la cultura;
-
-VIII. Promover que los adultos mayores tengan una atención preferente en los establecimientos públicos y privados que prestan servicios al público; y
-
-IX. Suscribir con los sectores público, social y privado, los convenios que se requieran para la implementación de programas y acciones que aseguren el bienestar social de los adultos mayores.
+(DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 ###### Artículo 12.
 
@@ -519,7 +537,7 @@ VI. Fomentar el acceso gratuito o con descuentos especiales, a eventos culturale
 
 VII. Promover, en coordinación con las autoridades correspondientes, el establecimiento de programas permanentes de educación para la alfabetización de los adultos mayores, en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ### CAPÍTULO I. DE LA FAMILIA
 
@@ -527,7 +545,7 @@ VII. Promover, en coordinación con las autoridades correspondientes, el estable
 
 ###### Artículo 16.
 
-Corresponde a la Secretaría de Desarrollo Urbano y Metropolitano:
+Corresponde a la Secretaría de Desarrollo Urbano y Obra:
 
 I. Verificar que los desarrollos urbanos cuenten con las características que satisfagan las necesidades de los adultos mayores y que les permitan un libre desplazamiento;
 
@@ -535,9 +553,11 @@ II. Promover programas sociales para que los adultos mayores tengan una vivienda
 
 III. Promover proyectos de vivienda de interés social acordes a las necesidades de parejas compuestas por adultos mayores, adultos mayores solos o que jefaturen una familia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Corresponde a la Secretaría de Turismo:
+Corresponde a la Secretaría de Cultura y Turismo:
 
 I. Impulsar la promoción de actividades y participación de los adultos mayores en actividades turísticas;
 
@@ -671,7 +691,9 @@ El Comité Estatal para la Atención del Adulto Mayor, estará integrado por:
 
 I. Un Presidente, que será el Secretario de Desarrollo Social;
 
-II. Un Secretario Técnico, que será el Vocal Ejecutivo del Consejo Estatal de la Mujer y Bienestar Social;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II. Un Secretario Técnico, que será la persona que designe el titular de la SEDESEM;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -687,7 +709,9 @@ c) De la Secretaría del Trabajo;
 
 d) De la Secretaría de Educación;
 
-e) De la Secretaría de Turismo;
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+e) De la Secretaría de Cultura y Turismo;
 
 f) De la (sic) Sistema para el Desarrollo Integral de la Familia;
 
@@ -697,9 +721,9 @@ h) Del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del
 
 i) De la Secretaría de Finanzas;
 
-> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-j) De la Secretaría de Desarrollo Urbano y Metropolitano;
+j) De la Secretaría de Desarrollo Urbano y Obra;
 
 > <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -707,7 +731,9 @@ k) De la Secretaría de Movilidad;
 
 l) De la Comisión (sic) Derechos Humanos del Estado de México;
 
-m) De la Procuraduría de Justicia del Estado de México;
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+m) De la Fiscalía General de Justicia del Estado de México;
 
 n) De la Legislatura del Estado, que sea un diputado que integre una Comisión Legislativa relacionada con el tema de los Adultos Mayores;
 
@@ -863,9 +889,11 @@ IX. Denunciar a la autoridad competente los casos que sean de su conocimiento so
 
 Cuando una institución otorgue atención a un Adulto Mayor, examinará, en primer término, la posibilidad de su reintegración familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 46.
 
-La creación de la Estancia del Adulto Mayor será impulsada por organizaciones civiles y el Municipio; deberán funcionar de acuerdo con el Reglamento y el Programa Estatal. El CEMYBS (sic) propondrá el Modelo de Atención y la Secretaría de Desarrollo Social se encargará de su ejecución.
+La creación de la Estancia del Adulto Mayor será impulsada por organizaciones civiles y el Municipio; deberán funcionar de acuerdo con el Reglamento y el Programa Estatal. SEDESEM propondrá el Modelo de Atención y se encargará de su ejecución.
 
 El Gobierno Estatal y los Gobiernos Municipales se coordinarán con los diversos sectores social y privado para impulsar la creación de estancias para la atención a los Adultos Mayores. Corresponde a las Estancias municipales del Adulto Mayor:
 
@@ -1066,3 +1094,63 @@ e) Poder Legislativo del Estado de México.
 Décimo Séptimo. La Legislatura del Estado proveerá de los recursos necesarios para la implementación de la reforma del sistema de justicia laboral del Estado de México y para dar cumplimiento a lo dispuesto en el presente Decreto.
 
 Décimo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
