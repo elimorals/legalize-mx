@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2020-01-31"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -45,7 +45,9 @@ LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 Las disposiciones de esta ley son de orden público, interés social, obligatorias dentro del Estado de Coahuila; regulan el derecho a la cultura física y el deporte reconocido en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las autoridades estatales reconocen a la cultura física y el deporte como componentes insustituibles para el desarrollo integral de las personas.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Las autoridades estatales reconocen el derecho de todas las personas de acceder a la cultura física y el deporte como componentes insustituibles para el desarrollo integral, sin restricciones o impedimentos de ningún tipo, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
 En tal propósito esta Ley tiene como objeto lo siguiente:
 
@@ -936,3 +938,9 @@ P.O. 31 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 490.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 35; DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONAN LAS FRACCIONES XI Y XX DEL ARTÍCULO 5 RECORRIENDO LAS SUBSECUENTES, LOS ARTÍCULOS 9 BIS, 9 BIS 1 Y 9 BIS 2 ADEMÁS DE AGREGAR EL INCISO C A LA FRACCIÓN VII DEL ARTÍCULO 13; DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 724.- SE REFORMA CONTENIDO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 1° DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
