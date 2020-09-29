@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-fiscalia-general-del-estado-de-coahuila-1233
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-12"
-last_updated: "2019-07-05"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección al Número 73 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de septiembre de 2017.
 
@@ -845,7 +845,9 @@ Deberes y atribuciones de la Fiscalía Especializada en investigación de Delito
 
 Esta Fiscalía tendrá los deberes y atribuciones siguientes:
 
-I. La investigación y persecución de los delitos relacionados con hechos probablemente constitutivos de las figuras típicas descritas en el Título Quinto de los Delitos contra la vida, integridad y dignidad de los animales, del Título Segundo del Código Penal del Estado de Coahuila de Zaragoza, y el análisis de su incidencia delictiva;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+I. La investigación y persecución de los delitos relacionados con hechos probablemente constitutivos de las figuras típicas descritas en el Título Décimo “Delitos contra animales que afectan al derecho de una vida libre de violencia”, del Libro Segundo “Parte especial”, Apartado Primero, del Código Penal del Estado de Coahuila de Zaragoza, y el análisis de su incidencia delictiva;
 
 II. La implementación en su caso, de acciones para prevenir y combatir los delitos, de su competencia;
 
@@ -2542,3 +2544,11 @@ P.O. 5 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 298.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 716.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
