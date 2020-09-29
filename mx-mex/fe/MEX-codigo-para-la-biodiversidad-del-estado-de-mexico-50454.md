@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2020-08-21"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -3515,9 +3515,9 @@ VI. Planeación operativa: Instrumento de los planes que ordena y vincula cronol
 
 VII. Probosque: Protectora de Bosques del Estado de México, organismo público descentralizado.
 
-> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Secretaría: La Secretaría del Medio Ambiente.
+VIII. Secretaría: a la Secretaría del Campo.
 
 > <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
 
@@ -3799,15 +3799,15 @@ XV. Las demás que le atribuyan las disposiciones legales y los convenios o acue
 
 18. La dirección y administración de PROBOSQUE estará a cargo de un consejo directivo y un director general.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-El consejo directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales que son los representantes de las Secretarías de Finanzas, Desarrollo Económico, Desarrollo Urbano y Metropolitano, Comunicaciones, Obra Pública y Desarrollo Agropecuario; así como un Comisario, que será el representante de la Secretaría de la Contraloría.
+El consejo directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales que son los representantes de la Secretaría y de las Secretarías de Finanzas, Desarrollo Económico, Desarrollo Urbano y Obra, Movilidad y del Medio Ambiente; así como un Comisario, que será el representante de la Secretaría de la Contraloría.
 
 El director general será nombrado por el Gobernador del Estado a propuesta del presidente del consejo directivo.
 
 La organización y funcionamiento del organismo se rige por el reglamento interno que expida el consejo directivo.
 
-###### Articulo 3.
+###### Artículo 3.
 
 19. El patrimonio de la Protectora de bosques se integra con:
 
@@ -3825,7 +3825,7 @@ VI. Las utilidades, intereses, dividendos, rendimiento de bienes, derechos y dem
 
 Los ingresos del organismo y los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-###### Articulo 3.
+###### Artículo 3.
 
 20. El Gobierno del Estado y los Ayuntamientos de conformidad con el artículo 38 de la Ley General de Desarrollo Forestal Sustentable y en términos de los convenios o acuerdos de coordinación celebrados, informarán a la Secretaría de Medio Ambiente y Recursos Naturales y a la Comisión Nacional Forestal de los resultados obtenidos.
 
@@ -8100,3 +8100,63 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a este Decreto.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las diposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
