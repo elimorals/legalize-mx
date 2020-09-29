@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2020-09-24"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -107,7 +107,7 @@ X. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Err
 
 XI. Sistema Estatal: El Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XII. CEMYBS: Consejo Estatal de la Mujer y Bienestar Social;
+XII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 XIII. Tipos de Violencia: Son los actos u omisiones que constituyen delito y dañan la dignidad, la integridad y la libertad de las mujeres. Los tipos de violencia son: psicológica, física, patrimonial, económica y sexual;
 
@@ -133,7 +133,9 @@ XX. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres 
 
 XXI. Formación General: Premisas teóricas, metodológicas y conceptos fundamentales sobre la perspectiva de género que deben recibir todas y todos los servidores públicos que integran la administración pública local, con la finalidad de incorporar esta visión al diseño, ejecución, seguimiento y evaluación de las políticas, las acciones y los programas de su competencia, así como en sus relaciones laborales;
 
-XXII. Especialización: Son los conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho a una vida libre de violencia. El CEMYBS será la instancia encargada de diseñar e instrumentar la formación de las y los servidores públicos, vía cursos, seminarios, talleres, diplomados y/o especialidades académicas;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Especialización: Son los conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho a una vida libre de violencia. La Secretaría de la Mujer será la instancia encargada de diseñar e instrumentar, en colaboración con el Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, programas de formación, capacitación y profesionalización con perspectiva de género de las y los servidores públicos, a través de cursos, seminarios, talleres, diplomados y/o especialidades académicas;
 
 XXIII. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas perspectivas en materia de igualdad, equidad y derechos humanos de las mujeres; la formación, especialización y actualización deben entenderse como parte de un proceso integral y continúo de comprensión y conocimiento de la perspectiva de género;
 
@@ -765,9 +767,13 @@ Todas las medidas que lleven a cabo sus integrantes deberán realizarse sin disc
 
 El Sistema Estatal se conformará por las y los representantes de:
 
-I. La Secretaría General de Gobierno, que fungirá como Presidente;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II. El CEMyBS, que se hará cargo de la Secretaría Ejecutiva del Sistema;
+I. La Secretaría de la Mujer, que fungirá como Presidenta;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II. La Secretaría Ejecutiva del Sistema, a cargo de quien designe la persona titular de la Secretaría de la Mujer
 
 III. Todas las dependencias de la administración pública estatal;
 
@@ -775,9 +781,9 @@ IV. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 V. El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
 
-> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-VI. La Secretaría de Seguridad Ciudadana;
+VI. Secretaría de Seguridad;
 
 VII. El Instituto Mexiquense de la Juventud;
 
@@ -823,7 +829,7 @@ VI. Las relacionadas con las anteriores que sean necesarias para incrementar la 
 
 DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 36 Bis.
 
@@ -835,17 +841,17 @@ En caso de existir la presencia de un hecho que atente, vulnere o menoscabe la s
 
 El mecanismo tendrá por objeto dirigir y verificar el debido seguimiento para que las dependencias y organismos de los tres poderes del Estado, los organismos autónomos y las instancias municipales que lo conformen, realicen acciones de seguridad, prevención y justicia, de acuerdo al ámbito de su respectiva competencia, así como aquellas que marca el título quinto de este ordenamiento legal. Si dicho mecanismo se instaura como consecuencia de una Declaratoria de Alerta de Violencia de Género contra las Mujeres, se deberá atender a lo dispuesto por la misma.
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 36 Quáter.
 
-Para la conformación del mecanismo, la o el titular del Poder Ejecutivo, por conducto de la o el Secretario de Justicia y Derechos Humanos, convocará a las y los titulares de los tres poderes del Estado, a las dependencias y organismos del Ejecutivo Estatal, a los organismos autónomos, así como a las y los presidentes municipales que correspondan, a fin de implementar el mecanismo de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, mismos que se reunirán de manera semanal, con la finalidad de verificar los avances y el cumplimiento con el que se cuenta por parte de cada una de las áreas responsables.
+Para la conformación del mecanismo, la o el titular del Poder Ejecutivo, por conducto de la persona titular de la Secretaría de la Mujer, convocará a las y los titulares de los tres poderes del Estado, a las dependencias y organismos del Ejecutivo Estatal, a los organismos autónomos, así como a las y los presidentes municipales que correspondan, a fin de implementar el mecanismo de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, mismos que se reunirán de manera semanal, con la finalidad de verificar los avances y el cumplimiento con el que se cuenta por parte de cada una de las áreas responsables.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 36 Quinquies.
 
-El mecanismo será coordinado por la o el titular de la Secretaría de Justicia y Derechos Humanos, quien además fungirá como representante del Gobierno del Estado de México ante las instancias nacionales que así lo requieran, cuando se traten asuntos relacionados con los objetivos del mecanismo.
+El mecanismo será coordinado por la persona titular de la Secretaría de la Mujer, quien además fungirá como representante del Gobierno del Estado de México ante las instancias nacionales que así lo requieran, cuando se traten asuntos relacionados con los objetivos del mecanismo.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -867,7 +873,7 @@ La implementación del mecanismo culminará hasta que la o el titular del Poder 
 
 ###### Artículo 37.
 
-El Programa deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal a través del CEMyBS y es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias, los organismos auxiliares y los organismos autónomos del Estado, en el corto, mediano y largo plazo. Deberá ser expedido por el titular del Ejecutivo y será congruente con el Plan Estatal de Desarrollo y el Programa Nacional que en esta materia se establezca a nivel federal, y contendrá las acciones con perspectiva de género para:
+El Programa deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal a través de la Secretaría de la Mujer y es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias, los organismos auxiliares y los organismos autónomos del Estado, en el corto, mediano y largo plazo. Deberá ser expedido por el titular del Ejecutivo, será congruente con el Plan Estatal de Desarrollo y el Programa Nacional que en esta materia se establezca a nivel federal, y contendrá las acciones con perspectiva de género para:
 
 I. Impulsar y fomentar el conocimiento, la promoción y el respeto a los Derechos Humanos de las mujeres y las niñas;
 
@@ -933,7 +939,9 @@ VIII. Coordinar la creación de programas de reeducación y reinserción social 
 
 IX. Garantizar una adecuada coordinación con los municipios con la finalidad de erradicar la violencia de género;
 
-X. Realizar a través del Consejo Estatal de la Mujer y Bienestar Social y con el apoyo de las instancias locales, campañas de información, con énfasis de la protección integral de los Derechos Humanos de las mujeres y las niñas, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+X. Realizar a través de la Secretaría de la Mujer y con el apoyo de las instancias locales, campañas de información, con énfasis de la protección integral de los Derechos Humanos de las mujeres y las niñas, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
 
@@ -947,9 +955,9 @@ XV. Promover y realizar investigaciones con perspectiva de género sobre las cau
 
 XVI. Promover ante las autoridades competentes la adopción de las medidas de protección previstas en esta Ley y demás disposiciones aplicables que requiere la mujer o la niña que haya sido víctima de violencia;
 
-> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XVII. Proporcionar a la Secretaria de Seguridad Ciudadana, la información necesaria para la integración del Banco Estatal de Datos e Información de Casos de Violencia contra las Mujeres al que se refiere en la fracción V del artículo 52 de la presente Ley;
+XVII. Proporcionar a la Secretaria de Seguridad, la información necesaria para la integración del Banco Estatal de Datos e Información de Casos de Violencia contra las Mujeres al que se refiere en la fracción V del artículo 52 de la presente Ley;
 
 XVIII. Evaluar y considerar la eficacia de las acciones del Programa, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
@@ -975,9 +983,11 @@ XXVI Bis. Crear Unidades de Igualdad de Género y Erradicación de la Violencia 
 
 XXVII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 41.
 
-Corresponde a la Secretaría General de Gobierno:
+Corresponde a la Secretaría de la Mujer:
 
 I. Difundir la Ley en español y en los dialectos preponderantes de la Entidad;
 
@@ -985,7 +995,9 @@ II. Presidir el Sistema Estatal y, en su caso, proponer a la Secretaría de Gobe
 
 III. Diseñar con una visión transversal, la Política Integral con perspectiva de género para la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres y las niñas;
 
-IV. (DEROGADA, G.G. 18 DE MARZO DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal y Organismos Descentralizados, Organismos Autónomos, Organizaciones de la Sociedad Civil, Universidades e Instituciones de Educación Superior e Investigación, sobre las causas, características y consecuencias de la violencia de género, así como la evaluación de las medidas de prevención, atención, sanción y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los Derechos Humanos de las mujeres y las niñas en el Estado y los Municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
 
 V. Formular las bases para la coordinación entre la autoridad estatal y las autoridades municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres y las niñas;
 
@@ -1005,7 +1017,65 @@ XII. Difundir periódicamente a través de diversos medios, los resultados del S
 
 XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
-XIV. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Proponer a las autoridades encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que considere pertinentes, con la finalidad de erradicar la violencia de género;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Colaborar con los integrantes del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Crear unidades de atención integral y protección a las víctimas de violencia prevista en la Ley;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Canalizar a las víctimas a programas de atención integral que les permitan participar activamente en la vida pública, privada y social;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Difundir el respeto a los Derechos Humanos de las mujeres y promover que las instancias de gobierno garanticen la integridad, la dignidad y la libertad de las mujeres;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Crear refugios para las mujeres en situación de violencia conforme al modelo de atención diseñado por el Sistema Estatal;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Coadyuvar en la promoción del conocimiento de los derechos, de los procesos y los mecanismos para acceder a la atención, prevención y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Difundir el respeto de los Derechos Humanos de las mujeres y promover que las acciones de las organizaciones de la sociedad garanticen la integridad, la dignidad y la libertad de las mujeres;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. Rendir un informe anual sobre los avances del programa estatal relativo a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres y las niñas;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. Revisar y evaluar la eficacia en la eliminación de las causas de la violencia de género y en el impulso del adelanto de las mujeres y la equidad entre los géneros, de las acciones, las políticas públicas y los programas estatales;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. Impulsar la participación de las organizaciones de la sociedad civil dedicadas a la promoción y defensa de los Derechos Humanos de las mujeres y las niñas, en la ejecución de los programas estatales, así como generar un padrón único de las organizaciones dedicadas a la promoción y derechos de la mujer;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. Recibir de las organizaciones de la sociedad civil, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres y las niñas, a fin de mejorar los mecanismos para su erradicación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 42.
 
@@ -1177,9 +1247,11 @@ XI. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 XII. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 47.
 
-Corresponde a la Secretaría de Turismo:
+Corresponde a la Secretaría de Cultura y Turismo:
 
 I. Ejecutar acciones de prevención y erradicación del turismo sexual infantil y la trata de personas;
 
@@ -1237,53 +1309,7 @@ XVIII. Las demás que le atribuya la Ley.
 
 ###### Artículo 50.
 
-Corresponde al Consejo Estatal de la Mujer y Bienestar Social:
-
-I. Fungir como Secretaria Ejecutiva del Sistema Estatal, a través de su titular;
-
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
-
-II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal y Organismos Descentralizados, Organismos Autónomos, Organizaciones de la Sociedad Civil, Universidades e Instituciones de Educación Superior e Investigación, sobre las causas, características y consecuencias de la violencia de género, así como la evaluación de las medidas de prevención, atención, sanción y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los Derechos Humanos de las mujeres y las niñas en el Estado y los Municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
-
-III. Proponer a las autoridades encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que considere pertinentes, con la finalidad de erradicar la violencia de género;
-
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
-
-IV. Colaborar con los integrantes del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
-
-V. Crear unidades de atención integral y protección a las víctimas de violencia prevista en la Ley;
-
-VI. Canalizar a las víctimas a programas de atención integral que les permitan participar activamente en la vida pública, privada y social;
-
-VII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
-
-VIII. Difundir el respeto a los Derechos Humanos de las mujeres y promover que las instancias de gobierno garanticen la integridad, la dignidad y la libertad de las mujeres;
-
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
-
-IX. Crear refugios para las mujeres en situación de violencia conforme al modelo de atención diseñado por el Sistema Estatal;
-
-X. Coadyuvar en la promoción del conocimiento de los derechos, de los procesos y los mecanismos para acceder a la atención, prevención y erradicación de la violencia contra las mujeres;
-
-XI. Difundir el respeto de los Derechos Humanos de las mujeres y promover que las acciones de las organizaciones de la sociedad garanticen la integridad, la dignidad y la libertad de las mujeres;
-
-XII. Difundir por todos los medios de comunicación el contenido de esta Ley, y en las lenguas indígenas principales habladas en el Estado;
-
-XIII. Rendir un informe anual sobre los avances del programa estatal relativo a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
-
-XIV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres y las niñas;
-
-XV. Revisar y evaluar la eficacia en la eliminación de las causas de la violencia de género y en el impulso del adelanto de las mujeres y la equidad entre los géneros, de las acciones, las políticas públicas y los programas estatales;
-
-XVI. Impulsar la participación de las organizaciones de la sociedad civil dedicadas a la promoción y defensa de los Derechos Humanos de las mujeres y las niñas, en la ejecución de los programas estatales, así como generar un padrón único de las organizaciones dedicadas a la promoción y derechos de la mujer;
-
-XVII. Recibir de las organizaciones de la sociedad civil, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres y las niñas, a fin de mejorar los mecanismos para su erradicación;
-
-XVIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
-
-XIX. Las demás previstas para el cumplimiento de la presente Ley.
+(DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1419,7 +1445,7 @@ V. Las demás que le confiera esta Ley u otros ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 54.
 
@@ -1529,7 +1555,7 @@ La persona agresora deberá participar obligatoriamente en los programas de reed
 
 ###### Artículo 58.
 
-Los refugios impulsados por organizaciones civiles deberán funcionar de acuerdo con el Programa Estatal y el Modelo de Atención aprobados por el Sistema Estatal. El CEMyBS propondrá al Sistema Estatal, el Modelo de Atención.
+Los refugios impulsados por organizaciones civiles deberán funcionar de acuerdo con el Programa Estatal y el Modelo de Atención aprobados por el Sistema Estatal. La Secretaría de la Mujer propondrá al Sistema Estatal, el Modelo de Atención.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -1962,3 +1988,63 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Legislatura deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de aplicar el principio de paridad de género.
 
 CUARTO. Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
