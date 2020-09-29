@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2018-09-17"
+last_updated: "2020-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -171,13 +171,11 @@ I. El Gobernador del Estado.
 
 II. La Secretaría.
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-III. Secretaría de Comunicaciones.
+III. Secretaría de Desarrollo Urbano y Obra.
 
-> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-III Bis. Secretaría de Obra Pública.
+III Bis. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 IV. La Secretaría de Finanzas.
 
@@ -293,17 +291,15 @@ II. El Secretario de Movilidad, quien tendrá el carácter de Secretario Técnic
 
 III. Los titulares de las dependencias siguientes, tendrán el carácter de vocales:
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-a) Secretaría de Comunicaciones.
+a) Secretaría de Desarrollo Urbano y Obra.
 
-> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-a bis) Secretaría de Obra Pública.
+a bis) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 b) Secretaría de Finanzas.
 
-c) Secretaría de Desarrollo Urbano y Metropolitano.
+c) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -415,19 +411,21 @@ III. Instrumentos de programación de la movilidad: Se refiere a los estudios y 
 
 IV. Elementos del Servicio de Transporte: Los señalados en el Título Segundo de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Competencia de las autoridades en materia de movilidad por lo que se refiere a las vías públicas. La Secretaría será competente para programar, formular, dirigir, coordinar, ejecutar, evaluar y controlar las políticas y programas en materia de aprovechamiento de las vías públicas. Por lo que se refiere a la infraestructura vial primaria, será competencia de la Secretaría de Infraestructura programar, formular, dirigir, coordinar, evaluar, ejecutar y controlar las políticas y programas en materia de aprovechamiento de las mismas.
+Competencia de las autoridades en materia de movilidad por lo que se refiere a las vías públicas. La Secretaría será competente para programar, formular, dirigir, coordinar, ejecutar, evaluar y controlar las políticas y programas en materia de aprovechamiento de las vías públicas. Por lo que se refiere a la infraestructura vial primaria, será competencia de la Secretaría de Movilidad programar, formular, dirigir, coordinar, evaluar, ejecutar y controlar las políticas y programas en materia de aprovechamiento de las mismas.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-En el ámbito de su competencia, la Secretaría y la Secretaría de Comunicaciones deberán ajustarse a lo establecido en esta Ley, el Programa y demás disposiciones jurídicas aplicables.
+En el ámbito de su competencia, la Secretaría deberá ajustarse a lo establecido en esta Ley, el Programa y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 18.
 
-Regulación de las vías públicas. En el Código Administrativo del Estado de México se regulará la programación, formulación, dirección, coordinación, ejecución, evaluación y control de las políticas y programas en materia de aprovechamiento de las vías públicas, que llevarán a cabo la Secretaría y la Secretaría de Comunicaciones en el ámbito de su competencia.
+Regulación de las vías públicas. En el Código Administrativo del Estado de México se regulará la programación, formulación, dirección, coordinación, ejecución, evaluación y control de las políticas y programas en materia de aprovechamiento de las vías públicas, que llevará a cabo la Secretaría en el ámbito de su competencia.
 
 ###### Artículo 19.
 
@@ -447,9 +445,9 @@ III. Las infracciones y sanciones, se aplicarán por contravenir las disposicion
 
 Infraestructura de movilidad. La infraestructura de movilidad incluye la de alta capacidad y de mejoramiento a la movilidad.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-La infraestructura de los sistemas de transporte de alta capacidad y teleférico, las estaciones de transferencia modal y las de origen-destino e intermedias que se requieren para el eficiente funcionamiento de dichos sistemas, estará a cargo de la Secretaría de Comunicaciones.
+La infraestructura de los sistemas de transporte de alta capacidad y teleférico, las estaciones de transferencia modal y las de origen-destino e intermedias que se requieren para el eficiente funcionamiento de dichos sistemas, estará a cargo de la Secretaría.
 
 La infraestructura que tienda a mejorar la movilidad en el Estado, que permita la prestación del Servicio de Transporte y los destinados a la conexión entre los diversos modos de transporte, estarán a cargo de la Secretaría.
 
@@ -459,11 +457,11 @@ Lo anterior con excepción de lo establecido en la presente Ley.
 
 Otorgamiento de concesiones referente a la Infraestructura de Transporte. El otorgamiento de concesiones referente a la Infraestructura de Transporte, se regirá por las disposiciones legales respectivas, atendiendo a la competencia de la Secretaría y la Secretaría de Infraestructura.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 23.
 
-Elementos incorporados a las vías públicas. Los objetos adicionados a las vías públicas que no forman parte intrínseca de la misma serán competencia exclusiva de la Secretaría, salvo por lo que se refiere a aquellos elementos incorporados en la infraestructura vial primaria mismos que serán competencia de la Secretaría de Comunicaciones.
+Elementos incorporados a las vías públicas. Los objetos adicionados a las vías públicas que no forman parte intrínseca de la misma serán competencia exclusiva de la Secretaría, incluyendo los elementos incorporados en la infraestructura vial primaria.
 
 ###### Artículo 24.
 
@@ -563,11 +561,11 @@ Programas regionales, metropolitanos, sectoriales o especiales. En caso de consi
 
 Los programas regionales, metropolitanos, sectoriales o especiales, tendrán como objetivo principal la aplicación o el desarrollo sectorizado de los principios establecidos en el Programa, para lo cual deberán enfocarse al sector o sectores que se pretende atender.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 30.
 
-Evaluación técnica de factibilidad de impacto de movilidad. La Secretaría y la Secretaría de Comunicaciones, en el ámbito de su competencia, deberán llevar a cabo la evaluación técnica de factibilidad de Impacto de Movilidad respecto de cualquier obra, proyecto o actividad que se realice por cualquier entidad en el Estado. La evaluación técnica de factibilidad de Impacto de Movilidad se regulará de conformidad con lo que se establezca en los libros correspondientes del Código Administrativo del Estado de México, los cuales deberán establecer, como mínimo, lo siguiente:
+Evaluación técnica de factibilidad de impacto de movilidad. La Secretaría en el ámbito de su competencia, deberá llevar a cabo la evaluación técnica de factibilidad de Impacto de Movilidad respecto de cualquier obra, proyecto o actividad que se realice por cualquier entidad en el Estado. La evaluación técnica de factibilidad de Impacto de Movilidad se regulará de conformidad con lo que se establezca en los libros correspondientes del Código Administrativo del Estado de México, los cuales deberán establecer, como mínimo, lo siguiente:
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -669,9 +667,9 @@ VIII. Especializado.
 
 IX. De mensajería y paquetería.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Corresponderá a la Secretaría de Comunicaciones la programación, coordinación, dirección, evaluación y control de los medios de transporte masivo o de alta capacidad y teleférico del Sistema de Transporte Público.
+Corresponderá a la Secretaría la programación, coordinación, dirección, evaluación y control de los medios de transporte masivo o de alta capacidad y teleférico del Sistema de Transporte Público.
 
 ## TÍTULO TERCERO. DE LAS CONCESIONES
 
@@ -709,11 +707,11 @@ Corredores de autobuses. El otorgamiento de concesiones del servicio público se
 
 Los criterios de selección de los prestadores del servicio en dichos corredores de alta y mediana capacidad operado por autobuses, privilegiará a los actuales prestadores del servicio, para obtener el canje o sustitución de concesiones individuales vigentes por una concesión única, colectiva y precisa.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 40.
 
-Corredores con concesión única. La creación de los corredores que operen con una concesión única se podrá originar con base en los estudios realizados o autorizados por la Secretaría o la Secretaría de Comunicaciones o los propuestos por los prestadores del servicio previa autorización de las mismas Secretarías, en la esfera de su competencia.
+Corredores con concesión única. La creación de los corredores que operen con una concesión única se podrá originar con base en los estudios realizados o autorizados por la Secretaría o los propuestos por los prestadores del servicio previa autorización de la misma.
 
 ###### Artículo 41.
 
@@ -731,11 +729,11 @@ III. Cuando las condiciones de la operación no permitan con facilidad la reasig
 
 Con independencia de lo anterior, es facultad de la autoridad revocar la concesión por causas de movilidad.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 42.
 
-Inexistencia o no participación de concesionarios actuales. En caso de que no existan o no participen los concesionarios actuales en la operación de los corredores referidos en el artículo anterior, la Secretaría o la Secretaría de Comunicaciones, en el ámbito de su competencia, emitirán la convocatoria correspondiente para nuevas concesiones únicas.
+Inexistencia o no participación de concesionarios actuales. En caso de que no existan o no participen los concesionarios actuales en la operación de los corredores referidos en el artículo anterior, la Secretaría en el ámbito de su competencia, emitirá la convocatoria correspondiente para nuevas concesiones únicas.
 
 ###### Artículo 43.
 
@@ -1018,3 +1016,63 @@ DÉCIMO NOVENO. El Manual de funcionamiento del Análisis de Impacto Regulatorio
 VIGÉSIMO. El Catálogo Estatal de Regulaciones, Trámites y Servicios iniciará su funcionamiento dentro de un plazo de un año, a partir de la entrada en vigor de la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
 
 VIGÉSIMO PRIMERO. Se abroga la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 6 de septiembre del 2010, a través del Decreto número 148, sin perjuicio de lo previsto en los transitorios anteriores.
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
