@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-la-juventud-del-estado-10340
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2020-01-31"
+last_updated: "2020-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 28 de octubre de 2014.
 
@@ -129,31 +129,43 @@ Secretario Técnico y Vocal Ejecutivo: Titular del Instituto Coahuilense de la J
 
 Vocal: Titular de la Secretaría de Educación.
 
-Vocal: Titular de la Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Vocal: Titular de la Secretaría de Inclusión y Desarrollo Social.
 
 Vocal: Titular de la Secretaría de Salud.
 
-Vocal: Titular de la Secretaría de Medio Ambiente y Recursos Naturales.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Vocal: Titular de la Secretaría de Desarrollo Económico y Competitividad.
+Vocal: Titular de la Secretaría de Medio Ambiente.
 
-Vocal: Titular de la Secretaría de Turismo.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Vocal: Titular de la Secretaría de Economía.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Vocal: Titular de la Secretaría de Turismo y Desarrollo de Pueblos Mágicos.
 
 Vocal: Titular de la Secretaría de Cultura.
 
 Vocal: Titular de Secretaría de Gobierno.
 
-Vocal: Titular de la Secretaría de las Mujeres.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Vocal: Titular del Instituto Coahuilense de las Mujeres.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2020)</small>
 
 Vocal: Titular de la Secretaría del Trabajo.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
-Vocal: Fiscal General del Estado.
+Vocal: Titular de la Fiscalía General del Estado.
 
-Vocal: Director del Instituto Estatal del Deporte.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Vocal: Titular del Instituto Estatal del Deporte.
 
 Un mínimo de tres directores de instancias municipales de la juventud, que actuarán como vocales; y,
 
@@ -323,9 +335,11 @@ VIII.- La estimulación de la formación y capacitación de los estudiantes de N
 
 IX.- Coordinar esfuerzos con la Secretaría de Salud, para que los planteles educativos de nivel secundaria y bachillerato, cuenten con personal especializado, o bien que haya sido capacitado, en la detección de trastornos emocionales de las y los jóvenes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-La Secretaría de Desarrollo Económico y Competitividad, podrá proponer actividades como las que a continuación se mencionan:
+La Secretaría de Economía, podrá proponer actividades como las que a continuación se mencionan:
 
 I.- Acciones de vinculación entre estudiantes y empresas, particularmente a partir del nivel bachillerato o equivalente y universitario de nivel licenciatura.
 
@@ -377,9 +391,11 @@ IV.- El desarrollo en conjunto con los jóvenes de campañas de prevención, con
 
 V.- La difusión y la promoción de los programas y campañas de sexualidad responsable, que regularmente lleva a cabo, a través de grupos de jóvenes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 24.
 
-Corresponde a la Secretaría de Desarrollo Social, poder realizar las siguientes actividades:
+Corresponde a la Secretaría de Inclusión y Desarrollo Social, poder realizar las siguientes actividades:
 
 I.- Promover la integración de grupos de jóvenes para que realicen todo tipo de acciones a favor de la población más necesitada de la entidad.
 
@@ -389,9 +405,11 @@ III.- Captar de las y los jóvenes coahuilenses, propuestas e iniciativas para c
 
 IV.- Impulsar la participación permanente de las y los jóvenes en actividades de desarrollo comunitario en las poblaciones marginadas y/o aisladas de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-La Secretaría de las Mujeres, impulsará, entre otras, actividades para:
+El Instituto Coahuilense de las Mujeres, impulsará, entre otras, actividades para:
 
 I.- Ofrecer opciones de autodesarrollo a las jóvenes jefas de familia, que se ocupan de la manutención y sustento de la familia.
 
@@ -401,9 +419,11 @@ III.- Propiciar los principios de igualdad y equidad de género en la ideología
 
 IV.- Impulsar acciones para erradicar la violencia entre las mujeres jóvenes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-La Secretaría de Turismo, podrá proponer de acuerdo a la naturaleza de sus funciones, propondrá (sic) acciones, como las siguientes.
+La Secretaría de Turismo y Desarrollo de Pueblos Mágicos, podrá proponer de acuerdo a la naturaleza de sus funciones, acciones como las siguientes:
 
 I.- Difusión de los sitios de interés de nuestro estado entre la juventud coahuilense.
 
@@ -652,3 +672,11 @@ P.O. 31 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes modificaciones a la Ley para el Desarrollo Integral de la Juventud del Estado de Coahuila de Zaragoza, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 723.- SE REFORMA EL QUINTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO SEGUNDO, DÉCIMO TERCER Y DÉCIMO CUARTO PÁRRAFOS DEL ARTÍCULO 9, EL PRIMER PÁRRAFO DEL ARTÍCULO 20, EL PRIMER PÁRRAFO DEL ARTÍCULO 24, EL PRIMER PÁRRAFO DEL ARTÍCULO 25 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 26, DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA.”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
