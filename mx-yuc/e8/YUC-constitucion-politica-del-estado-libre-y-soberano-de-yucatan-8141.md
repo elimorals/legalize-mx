@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2020-07-22"
+last_updated: "2020-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2020.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -72,6 +72,10 @@ Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata
 > <small>(ADICIONADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
 El Estado a través de un organismo especializado, con la participación de la sociedad civil, establecerá mecanismos para vigilar la atención de las necesidades de niños, niñas y adolescentes y en conjunto producirán información periódica sobre el cumplimiento progresivo de los derechos de la infancia en el Estado, dando a conocer los rubros que presentan rezago.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2020)</small>
+
+El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores en el Estado, tendrán acceso a los servicios de salud, alimentación, cultura, protección de su patrimonio, igualdad de condiciones para desempeñar un trabajo, asistencia y seguridad social e igualdad de oportunidades que les propicie mayor bienestar y una mejor calidad de vida. Las autoridades estatales y municipales; establecerán un sistema permanente de apoyo e integración social de los adultos mayores para permitirles una vida digna y decorosa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
 
@@ -2721,11 +2725,13 @@ El ejercicio de las acciones inherentes al arrendamiento de predios para habitac
 
 Para el desarrollo y consolidación de la solidaridad como condición básica de la convivencia, es necesario fomentar en los elementos sociales, la simpatía, como aptitud de sentir reflejamente el bien o el mal ajenos. Consecuentemente, el Estado impedirá todo espectáculo, comercio o actividad que pueda inspirar sentimientos inhumanos o crueles, o de odio y antipatía entre los conviventes, o de rebajamiento o degradación de la personalidad humana.
 
-> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 93.
 
-Las niñas, niños y adolescentes en desamparo y las personas con discapacidad recibirán la protección y asistencia especial del Estado, a través de la creación de instituciones, instalaciones y servicios para su cuidado; así como programas sociales que garanticen el disfrute de una vida plena y aseguren su dignidad.
+Las niñas, niños y adolescentes en desamparo, los adultos mayores y las personas con discapacidad recibirán la protección y asistencia especial del Estado, a través de la creación de instituciones, instalaciones y servicios para su cuidado; así como programas sociales que garanticen el disfrute de una vida plena y aseguren su dignidad.
+
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
 Las leyes que se dicten en esta materia atenderán la vigilancia y orientarán la conveniente asistencia social con miras a lograr la interacción y desarrollo individual asumido por las instituciones de beneficencia pública y privada.
 
@@ -4786,3 +4792,15 @@ D.O. 22 DE JULIO DE 2020.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 279/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ADULTOS MAYORES".]
+
+Primero.- Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo.- Derogación Expresa
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga al presente decreto.
