@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-81205
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-23"
-last_updated: "2014-10-18"
+last_updated: "2020-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera al Periódico Oficial del Estado de Nayarit, el sábado 23 de abril de 2011.
 
@@ -331,11 +331,11 @@ IV. Establecer la conformación de estructuras paralegales para la asesoría de 
 
 Serán objetivos de la Política de Igualdad entre Mujeres y Hombres en materia económica, los siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2020)</small>
 
-I. Impulsar el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+I. Impulsar el acceso de las mujeres al empleo, garantizar que entre mujeres y hombres exista un salario igualitario cuando realicen trabajos iguales, desempeñados en puestos, jornadas y condiciones de eficiencia idénticas.
 
-Para tal efecto se habrá de promover y vigilar el otorgamiento de salarios iguales a mujeres y a hombres por trabajos iguales, desempeñados en puestos, jornadas y condiciones de eficiencia idénticas;
+Para tal efecto, se establecerán los mecanismos que promuevan y vigilen que se cumpla la presente disposición, además de los principios de igualdad de trato y de no discriminación;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
@@ -347,7 +347,7 @@ IV. Impulsar la eliminación de los estereotipos de género como criterio en los
 
 V. Promover la corresponsabilidad social en el cuidado de niñas, niños, personas enfermas, personas de la tercera edad, y en el trabajo doméstico;
 
-Vl.- Elaborar un diagnóstico desagregado por sexo sobre la contribución al Estado a través de pago de impuestos;
+VI.- Elaborar un diagnóstico desagregado por sexo sobre la contribución al Estado a través de pago de impuestos;
 
 VII. Garantizar la redistribución de los impuestos en obras, programas y proyectos que beneficien a las mujeres de acuerdo a su contribución en actividades productivas, y
 
@@ -489,7 +489,7 @@ V. Crear y fortalecer las instancias administrativas que se ocupen del progreso 
 
 VI. Celebrar con la Federación, Estados y municipios acuerdos de coordinación, cooperación y concertación en materia de igualdad de género;
 
-VIl. Efectuar la planeación y previsión para incorporar en el Presupuesto de Egresos del Estado la asignación de recursos para el cumplimiento de la Política de igualdad;
+VII. Efectuar la planeación y previsión para incorporar en el Presupuesto de Egresos del Estado la asignación de recursos para el cumplimiento de la Política de igualdad;
 
 VIII. Promover, en coordinación con las dependencias de la Administración Pública la aplicación de la presente Ley;
 
@@ -652,3 +652,13 @@ Y en cumplimiento a lo dispuesto en (sic) Fracción II del Artículo 69 de (sic)
 P.O. 18 DE OCTUBRE DE 2014.
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 15 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT, EN MATERIA DE SALARIO IGUALITARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- La observancia del principio de igualdad salarial a que se refiere el presente Decreto, será aplicable a las instituciones del ámbito de la administración pública estatal y municipal, y a empresas públicas y privadas.
+
+Este principio será aplicable para quienes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda, así como a las autoridades que no se renuevan mediante procesos electorales cuya integración y designación se realizará de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
