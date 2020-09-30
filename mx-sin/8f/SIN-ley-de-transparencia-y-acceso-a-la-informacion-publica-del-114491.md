@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1144
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-09-11"
+last_updated: "2020-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de mayo de 2016.
 
@@ -1353,7 +1353,9 @@ Además de lo señalado en el artículo 95 de la presente Ley, los sujetos oblig
 
 I. La publicación de criterios jurisdiccionales;
 
-II. Las versiones públicas de las sentencias relevantes o de interés público, con los respectivos votos particulares si los hubiera;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2020)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas; con los respectivos votos particulares si los hubiera;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -2299,7 +2301,7 @@ I. Sea extemporáneo por haber transcurrido el plazo establecido en el artículo
 
 II. Se esté tramitando ante el Poder Judicial, recurso o medio de defensa interpuesto por el recurrente en contra del mismo acto y autoridad que se recurre;
 
-III. No actualice alguno de los supuestos previstos en el artículo 171 de la presente Lley;
+III. No actualice alguno de los supuestos previstos en el artículo 171 de la presente Ley;
 
 IV. No se haya desahogado la prevención en los términos establecidos en el artículo 173 de la presente Ley;
 
@@ -2573,7 +2575,7 @@ DIPUTADO SECRETARIO
 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los tres días del mes de mayo del dos mil dieciséis.
+Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los tres días del mes de mayo del año dos mil dieciséis.
 
 El Gobernador Constitucional del Estado
 
@@ -2628,3 +2630,11 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 30 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 508 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 98 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 9 de febrero de 2021, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Poder Judicial del Estado, los Órganos Jurisdiccionales Administrativos, Laborales y Electorales, contarán con un plazo de 180 días para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas, a partir de la entrada en vigor del presente Decreto.
