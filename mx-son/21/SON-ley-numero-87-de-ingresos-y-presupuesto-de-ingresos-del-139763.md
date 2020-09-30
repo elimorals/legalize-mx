@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-87-de-ingresos-y-presupuesto-de-ingresos-del-139763"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-27"
-last_updated: "2020-04-16"
+last_updated: "2020-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL ESTADO DE SONORA PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2020.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 27 de diciembre de 2019.
 
@@ -50,6 +50,8 @@ En el Ejercicio Fiscal del año 2020, el Estado de Sonora percibirá los ingreso
 Se conceden las siguientes participaciones y transferencias a los Municipios del Estado de Sonora, por el rendimiento de los ingresos estatales que se generen en sus respectivos territorios y por participación e incentivos en ingresos federales, en la forma siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN ESPECIAL DEL B.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 12 A LA 14.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS DE LA TABLA EN LA EDICIÓN ESPECIAL DEL B.O. DE 30 DE SEPTIEMBRE DE 2020, PÁGINA 3.]</small>
 
 Las Participaciones en Ingresos Federales y los Fondos de Aportaciones Federales a favor del Estado, se percibirán con arreglo a lo que dispongan los ordenamientos que los otorguen.
 
@@ -520,3 +522,15 @@ B.O. 16 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. DE 30 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 130, QUE ADICIONA DIVERSAS DISPOSICIONES AL DECRETO QUE ESTABLECE LOS FACTORES DE DISTRIBUCIÓN DE PARTICIPACIONES FEDERALES A LOS MUNICIPIOS DEL ESTADO DE SONORA, PARA EL EJERCICIO FISCAL DEL AÑO 2020 Y A LA LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2020”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado y su vigencia no excederá del 31 de diciembre del 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+Las participaciones que correspondan a los municipios conforme a este Decreto, serán transferidas a los municipios con la periodicidad que establece el segundo párrafo del artículo 6 de la Ley de Coordinación Fiscal.
