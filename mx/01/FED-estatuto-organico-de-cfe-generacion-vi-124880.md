@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-vi-124880"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-22"
-last_updated: "2018-06-14"
+last_updated: "2020-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124880&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-12-04"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN VI
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2020.
 
 Estatuto publicado en la Octava Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 2017.
 
@@ -121,11 +121,17 @@ II. Dirección General
 
 B. Unidades Operativas y Administrativas:
 
-1. Gerencia de Proyectos Geotermoeléctricos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-2. Subgerencia de Producción Termoeléctrica Peninsular.
+1. Subgerencia de Producción Termoeléctrica Peninsular.
 
-3. Subgerencia de Producción Termoeléctrica Sureste.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+2. Subgerencia de Producción Termoeléctrica Sureste.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+3. Subgerencia de Producción Hidroeléctrica Grijalva.
 
 4. Subgerencia de Producción Hidroeléctrica Golfo.
 
@@ -159,13 +165,17 @@ El Consejo se integrará por cinco miembros, cuatro consejeros del Gobierno Fede
 
 I. El Director General de la Comisión, quien fungirá como Presidente del Consejo, o bien el funcionario de la Comisión que éste designe;
 
-II. Un consejero designado por el Consejo de Administración, a propuesta del Presidente del Consejo;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+II. Un consejero designado por el Consejo de Administración, a propuesta de su Presidente;
 
 III. Un consejero designado por el titular de la SENER, previa aprobación del Consejo de Administración;
 
 IV. Un consejero designado por el titular de la Secretaría de Hacienda y Crédito Público, previa aprobación del Consejo de Administración, y
 
-V. Un consejero independiente designado por el Consejo de Administración, a propuesta del Presidente del Consejo.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+V. Un consejero independiente designado por el Consejo de Administración, a propuesta de su Presidente.
 
 En cada sesión del Consejo participará un representante de los Trabajadores, con derecho a voz, pero sin voto.
 
@@ -179,7 +189,9 @@ I. Aprobar el plan de negocios de CFE Generación VI alineado al Plan de Negocio
 
 II. Aprobar los proyectos y programas de inversión de conformidad a los lineamientos que al efecto emita el Consejo de Administración.
 
-III. Aprobar la propuesta de designación y remoción de los titulares de la Gerencia de Proyectos Geotermoeléctricos; Subgerencia de Administración, Finanzas y Recursos Humanos; y del Departamento Jurídico de CFE Generación VI, presentada por su Director General.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+III. Aprobar la propuesta de designación y remoción de los titulares de la Subgerencia de Administración, Finanzas y Recursos Humanos; y del Departamento Jurídico de CFE Generación VI, presentada por su Director General.
 
 ###### Artículo 8.
 
@@ -231,7 +243,9 @@ V. Propiciar el correcto funcionamiento de los sistemas de procesamiento de info
 
 VI. Supervisar la ejecución de las inversiones y proyectos de CFE Generación VI;
 
-VII. Con excepción de los cargos mencionados en el artículo 7, fracción III, del presente Estatuto, designar a los Gerentes, Subgerentes, Jefes de Unidad, y Jefes de Departamento del nivel jerárquico inmediato inferior y autorizar en su caso a los Superintendentes de Central y Residentes;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Con excepción de los cargos mencionados en el artículo 7, fracción III, del presente Estatuto, designar a los Subgerentes, Jefes de Unidad, y Jefes de Departamento del nivel jerárquico inmediato inferior y autorizar en su caso a los Superintendentes de Central y Residentes;
 
 VIII. Validar la estructura y plantilla de personal para la operación de CFE Generación VI, que no corresponda a la estructura orgánica básica prevista en este Estatuto;
 
@@ -239,7 +253,9 @@ IX. Proponer al Consejo la normativa que de acuerdo con el objeto de CFE Generac
 
 X. Además de las funciones anteriores, tendrá las que establecen los Términos para la Estricta Separación Legal de la Comisión Federal de Electricidad; el Acuerdo de Creación y las que establezca el Consejo de Administración o el Consejo.
 
-Para el ejercicio de sus funciones, el Director General se auxiliará de las Unidades Administrativas, Operativas y servidores públicos que se establezcan en el presente Estatuto. Tendrá adscritas directamente la Gerencia de Proyectos Geotermoeléctricos, Subgerencias, Unidad, Departamentos y la Superintendencia General.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+Para el ejercicio de sus funciones, el Director General se auxiliará de las Unidades Administrativas, Operativas y servidores públicos que se establezcan en el presente Estatuto. Tendrá adscritas directamente las Subgerencias, Unidad, Departamentos y la Superintendencia General.
 
 ## TÍTULO TERCERO. De la Auditoría Interna
 
@@ -255,53 +271,7 @@ La Auditoría Interna, cuyo titular será el Auditor Interno, dependerá jerárq
 
 ###### Artículo 15.
 
-A cargo de la Gerencia de Proyectos Geotermoeléctricos habrá un Gerente, el cual tendrá las funciones siguientes:
-
-I. Planear y dirigir la exploración y explotación eficiente de los recursos energéticos renovables, en coordinación con la Dirección General, para el desarrollo de proyectos geotérmicos, eólicos, solares y de otras fuentes renovables no convencionales, fortaleciendo el proceso de generación de energía eléctrica de CFE Generación VI;
-
-II. Coordinar de manera conjunta con la Dirección General la planeación, operación y mantenimiento de los campos geotérmicos para asegurar el suministro de vapor requerido por las centrales geotermoeléctricas en operación;
-
-III. Dirigir la planeación para el suministro de vapor endógeno a través de sus áreas y Residencias adscritas, en la cantidad y calidad conforme a los programas y metas establecidas para la operación de las centrales geotermoeléctricas;
-
-IV. Colaborar con la Dirección General en la formulación de la planeación operativa, para diseñar los objetivos, planes operativos y financieros, ejecutándolos a través de las áreas y Residencias adscritas;
-
-V. Dirigir las actividades de ingeniería y diseño de los proyectos geotérmicos, eólicos, solares y de otras fuentes de energía renovable no convencionales, de acuerdo con los esquemas de contratación definidos por el Consejo, para garantizar su viabilidad económica y su ejecución en tiempo y forma;
-
-VI. Coordinar la formulación de los programas de perforación y reparación de pozos, su ejecución y la construcción de instalaciones superficiales, para asegurar el suministro de vapor a las centrales geotermoeléctricas;
-
-VII. Dirigir el desarrollo de los proyectos para el aprovechamiento integral de los subproductos y de los usos no eléctricos del proceso geotérmico;
-
-VIII. Coordinar la investigación, diseño y desarrollo de nuevos proyectos de explotación de campos geotérmicos, eólicos, solares y de otras fuentes de energía renovable no convencionales para cumplir con las metas de crecimiento, competitividad y rentabilidad dentro del mercado eléctrico;
-
-IX. Proponer a la Dirección General la comercialización de proyectos de generación eléctrica en el mercado eléctrico mayorista, con el fin de contribuir a la competitividad y rentabilidad de CFE Generación VI;
-
-X. Negociar la creación de asociaciones, alianzas y convenios para el desarrollo de nuevos negocios en materia de proyectos de energías renovables no convencionales que generen mayor rentabilidad, en coordinación con la Dirección General, a fin de cumplir con las metas de crecimiento y competitividad dentro del mercado eléctrico y someterlo a consideración de la Dirección;
-
-XI. Promover y proponer a la Dirección General la venta de servicios especializados a nivel nacional e internacional, para el desarrollo estratégico de proyectos de energía limpia para terceros, con el objeto de contribuir a diversificar los ingresos de CFE Generación VI;
-
-XII. Promover y proponer a la Dirección General servicios especializados para la ejecución de proyectos de energías renovables para terceros en el mercado eléctrico nacional e internacional;
-
-XIII. Desarrollar y promover la elaboración e implementación de las políticas de operación de las Residencias;
-
-XIV. Coordinar las actividades relacionadas con los diagnósticos de fallas del proceso de suministro de vapor geotérmico, con la participación de los expertos técnicos en la identificación de la causa raíz y elaboración del plan de restablecimiento;
-
-XV. Autorizar la solicitud de pedido de bienes, servicios y obras con destino a las áreas y Residencias adscritas, con el objeto de garantizar el cumplimiento de las especificaciones técnicas requeridas;
-
-XVI. Coadyuvar en la instrumentación del Sistema de Control Interno, promover el fortalecimiento de la cultura de control, así como contribuir a la eficacia de los controles internos en CFE Generación VI, de conformidad con las disposiciones que para tal efecto emita el Consejo de Administración y el Director General de la Comisión;
-
-XVII. Coadyuvar y asegurar la observancia de los manuales, normatividad interna y demás ordenamientos legales, contables, financieros o administrativos, que resulten aplicables en el ámbito de la Gerencia a su cargo;
-
-XVIII. Fomentar que el ejercicio de sus funciones contribuya al mejoramiento de los procesos de negocio;
-
-XIX. Suscribir contratos de adquisición, arrendamientos, servicios y obras, así como sus convenios modificatorios y, en su caso, determinar la procedencia de la rescisión, suspensión o terminación de los mismos, observando siempre lo establecido en la normatividad de la materia;
-
-XX. Administrar los contratos, permisos, concesiones, licencias, títulos, derechos y obligaciones que correspondan al proceso geotérmico, así como vigilar su cumplimiento;
-
-XXI. Transmitir los poderes que le otorgue el Director General y revocar los que hubiere otorgado conforme a lo dispuesto por esta fracción;
-
-XXII. Cotejar y expedir constancias de los documentos que obren en los archivos de la Gerencia y que le sean solicitadas por autoridad competente o por las unidades administrativas de la Comisión; y
-
-XXIII. Las demás que le resulten necesarias para el cumplimiento de las funciones conferidas y la resolución de los asuntos que son de su competencia, aquellas que deriven del acatamiento a los Términos para la estricta separación legal de la Comisión Federal de Electricidad, así como las que le otorgue el Consejo, el Director General, los manuales o normatividad y demás ordenamientos legales aplicables.
+(DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)
 
 ### CAPÍTULO II. De las Subgerencias
 
@@ -349,9 +319,11 @@ XIX. Asegurar el cumplimiento de los indicadores operativos, financieros y de re
 
 XX. Las demás que le resulten necesarias para el cumplimiento de las funciones conferidas y la resolución de los asuntos que son de su competencia, aquellas que deriven del acatamiento a los Términos para la estricta separación legal de la Comisión Federal de Electricidad, así como las que le otorgue el Consejo, el Director General, los manuales o normatividad y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-A la Subgerencia de Producción Hidroeléctrica Golfo le corresponde, además de las funciones genéricas señaladas en este Estatuto, las siguientes:
+A las Subgerencias de Producción Hidroeléctrica Grijalva y Golfo les corresponde, además de las funciones genéricas señaladas en este Estatuto, las siguientes:
 
 I. Asegurar el cumplimiento de los criterios a utilizar en los diversos aspectos técnicos y administrativos que surjan en el ámbito de las Centrales adscritas a la Subgerencia a su cargo;
 
@@ -399,7 +371,9 @@ IX. Coordinar las actividades relacionadas con los diagnósticos de fallas de la
 
 X. Autorizar las solicitudes de pedido de bienes, servicios y obras con destino a las Centrales Termoeléctricas y unidades móviles de su adscripción, con el objeto de garantizar el cumplimiento de las especificaciones técnicas requeridas;
 
-XI. Coordinar estrategias para el aprovechamiento eficiente del vapor geotérmico, con la Dirección General y el Gerente de Proyectos Geotermoeléctricos;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Coordinar estrategias para el aprovechamiento eficiente del vapor geotérmico, con la Dirección General;
 
 XII. Coordinar estrategias para la participación de las Centrales a su cargo en el MEM con el Jefe del Departamento de Optimización y Gestión de Energía; y
 
@@ -753,143 +727,167 @@ Las Superintendencias de Centrales estarán jerárquicamente subordinadas a las 
 
 CFE Generación VI cuenta con las siguientes Superintendencias Generales:
 
-I. C.G. Cerro Prieto
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-II. C.C.C. Hermosillo
+I. C.H. Mazatepec
 
-III. C.T. Carlos Rodríguez Rivero (Guaymas II)
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-IV. C.T. José López Portillo (Río Escondido)
+II. C.H. Temascal
 
-V. C.C.C. Huinalá
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-VI. C.G. Los Azufres
+III. C.H. Tuxpango
 
-VII. C.COG. Salamanca
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. C.C.C. Dos Bocas
+IV. C.H. Ixtaczoquitlán
 
-IX. C.E. La Venta
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-X. C.G. Humeros
+V. C.H. Chilapan
 
-XI. C.H. Bombaná
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XII. C.H. José Cecilio del Valle
+VI. C.H. Encanto
 
-XIII. C.H. Chilapan
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XIV. C.H. Colotlipa
+VII. C.H. Minas
 
-XV. C.H. Encanto
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XVI. C.H. Mazatepec
+VIII. C.H. Texolo
 
-XVII. C.H. Portezuelo I y II
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII. C.H. Schpoiná
+IX. C.H. José Cecilio del Valle
 
-XIX. C.H. Tamazulapan
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XX. C.H. Tuxpango
+X. C.H. Bombaná
 
-XXI. C.T. Pdte. Adolfo López Mateos (Tuxpan)
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XXII. C.T. Lerma
+XI. C.H. Tamazulapan
 
-XXIII. C.T. Felipe Carrillo Puerto (Valladolid)
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XXIV. C.TG. Cancún
+XII. C.H. Schpoiná
 
-XXV. C.TG. Carmen
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XXVI. C.TG. Chankanaab
+XIII. C.T. Mérida II
 
-XXVII. C.T. Mérida II
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XXVIII. C.TG. Xul-Há
+XIV. C.T. Lerma
 
-XXIX. C.H. Gral. Ambrosio Figueroa (La Venta)
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XXX. C.G. Tres Vírgenes
+XV. C.T. Felipe Carrillo Puerto (Valladolid)
 
-XXXI. CCI Guerrero Negro (II, III y IV)
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
 
-XXXII. C.TG. Vizcaíno
+XVI. C.C.C. Felipe Carrillo Puerto (Valladolid)
 
-XXXIII. C.H. Temascal
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. C.H. Camilo Arriaga (El Salto)
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. C.H. Electroquímica
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. C.H. Micos
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XX. C.C.C. Poza Rica
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. C.TG. Cancún
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. C.TG. Nizuc
+
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXIII. C.TG. Nachi-Cocom
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXIV. C.TG. Mérida II
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXV. C.TG. Ciudad del Carmen
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI. C.TG. Xul-Ha
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII. C.TG. Chankanaab
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII. C.C.I. Hol-Box
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX. C.E. Yuumil´iik
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXX. C.E. La Venta
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI. C.T. Pdte. Adolfo López Mateos (Tuxpan)
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII. C.C.C. Dos Bocas
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII. C.G. Humeros
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV. C.H. Belisario Domínguez (Angostura)
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV. C.H. Manuel Moreno Torres (Chicoasén)
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI. C.H. Malpaso
+
+> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII. C.H. Ángel Albino Corzo (Peñitas)
 
 ### CAPÍTULO VII. De las Residencias
 
 ###### Artículo 30.
 
-A cargo de cada Residencia habrá un Residente, quien tendrá en el ámbito de sus respectivas competencias las funciones genéricas siguientes:
-
-I. Suministrar el vapor geotérmico en la cantidad y calidad conforme a los programas y metas establecidas para la operación de las centrales geotermoeléctricas;
-
-II. Participar en la organización, clasificación y conservación de la información pública en cumplimiento a los ordenamientos aplicables;
-
-III. Elaborar procedimientos técnicos, operativos o administrativos, así como de normativa interna y proponerlos al Gerente;
-
-IV. Supervisar la ejecución de los contratos de adquisición, arrendamientos, servicios y obras, así como sus convenios modificatorios, observando siempre lo establecido en la normatividad de la materia;
-
-V. Elaborar los documentos necesarios para la atención de los requerimientos que realicen instancias de revisión, supervisión y fiscalización;
-
-VI. Coadyuvar en la instrumentación del Sistema de Control Interno, promover el fortalecimiento de la cultura de control, así como contribuir a la eficacia de los controles internos en CFE Generación VI, de conformidad con las disposiciones que para tal efecto emita el Consejo de Administración y el Director General de la Comisión;
-
-VII. Coadyuvar a la observancia de los manuales, normatividad interna y demás ordenamientos legales, contables, operativos, financieros o administrativos, que resulten aplicables en el ámbito de la Residencia a su cargo;
-
-VIII. Fomentar que el ejercicio de sus funciones contribuya al mejoramiento de los procesos de negocio;
-
-IX. Vigilar y controlar que la operación y mantenimiento de la Residencia se efectúe de acuerdo a los parámetros establecidos de operación de diseño y/o aceptación;
-
-X. Informar oportunamente a la Gerencia de Proyectos Geotermoeléctricos, sobre las novedades relevantes del estado operativo de su Centro de Trabajo;
-
-XI. Enviar oportunamente a la Gerencia de Proyectos Geotermoeléctricos, el reporte diario de novedades y producción, reportes preliminares y definitivos de falla, así como los reportes de avance de mantenimiento, en su caso;
-
-XII. Gestionar la realización de pruebas especiales para la comprobación de la efectividad de los mantenimientos realizados a los pozos geotérmicos;
-
-XIII. Gestionar ante la Superintendencia de Centrales las licencias de mantenimiento programado para la infraestructura del proceso de suministro de vapor geotérmico;
-
-XIV. Coadyuvar en la implementación de actividades de seguridad e higiene, para la prevención, detección y control de riesgos a la salud, instalaciones, procesos y medio ambiente;
-
-XV. Negociar con las Superintendencias de Centrales el predespacho anual de suministro de vapor geotérmico a fin de someterlo a consideración de las autoridades superiores y prever los recursos necesarios para cumplirlo;
-
-XVI. Planear en coordinación con la Gerencia o sus áreas adscritas, los análisis, pruebas, estudios y actividades necesarias para determinar las estrategias de explotación y crecimiento del campo geotérmico de acuerdo con los programas y planes, con objeto de satisfacer los requerimientos de vapor geotérmico de las centrales generadoras en operación y de los nuevos proyectos;
-
-XVII. Coordinar con la Gerencia o sus áreas adscritas, los programas y proyectos que involucren al campo geotérmico con objeto de optimizar el aprovechamiento del recurso geotérmico, en términos de la Ley de Energía Geotérmica y su reglamento;
-
-XVIII. Programar y desarrollar las obras necesarias para la extracción, acondicionamiento, conducción y entrega del vapor geotérmico requerido por las unidades generadoras a fin de cumplir con las especificaciones, normatividad y presupuestos autorizados; y
-
-XIX. Las demás que le resulten necesarias para el cumplimiento de las funciones conferidas y la resolución de los asuntos que son de su competencia, aquellas que deriven del acatamiento a los Términos para la estricta separación legal de la Comisión Federal de Electricidad, así como las que le otorgue el Consejo, el Director General, los manuales o normatividad y demás ordenamientos legales aplicables.
+(DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)
 
 ###### Artículo 31.
 
-Las Residencias estarán jerárquicamente subordinadas a la Gerencia de Proyectos Geotermoeléctricos, tendrán las funciones genéricas y específicas previstas en este Estatuto, los manuales, normatividad interna y demás ordenamientos aplicables.
-
-CFE Generación VI cuenta con las siguientes Residencias para la operación, mantenimiento y administración de campos geotérmicos:
-
-I. Residencia General de Cerro Prieto
-
-II. Residencia Azufres
-
-III. Residencia Humeros
-
-IV. Residencia Tres Vírgenes
-
-V. Residencia La Primavera (Cerritos Colorados)
+(DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)
 
 ###### Artículo 32.
 
-CFE Generación VI cuenta con las siguientes Unidades móviles para su operación, mantenimiento y administración:
-
-I. UME-06
-
-II. UME-08
-
-III. UME-13
-
-IV. UME-14
+(DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)
 
 ### CAPÍTULO VIII. Del Personal de CFE Generación VI
 
@@ -943,7 +941,9 @@ La Unidad de Responsabilidades en CFE Generación VI contará con la estructura 
 
 La representación de CFE Generación VI estará a cargo del Director General, con las más amplias facultades para actos de dominio, administración, pleitos y cobranzas, incluso los que requieran autorización, poder o cláusula especial en términos de las disposiciones aplicables, acorde a lo establecido por artículo 17 fracción I del Acuerdo de Creación.
 
-El Gerente de Proyectos Geotermoeléctricos, los Subgerentes, los Superintendentes de Central y los Residentes, dentro del ámbito de sus funciones, representarán legalmente a CFE Generación VI, con las más amplias facultades para administración. Podrán promover cualquier acto jurídico y realizar cualquier diligencia en defensa de los bienes e intereses de CFE Generación VI.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+Los Subgerentes y los Superintendentes de Central, dentro del ámbito de sus funciones, representarán legalmente a CFE Generación VI, con las más amplias facultades para administración. Podrán promover cualquier acto jurídico y realizar cualquier diligencia en defensa de los bienes e intereses de CFE Generación VI.
 
 Además, el Jefe del Departamento Jurídico representará legalmente a CFE Generación VI, así como a su Director General ante particulares, instancias arbitrales, tribunales y demás autoridades, con las más amplias facultades para administración, pleitos y cobranzas, incluso los que requieran autorización, poder o cláusula especial en términos de las disposiciones aplicables, incluyendo la representación patronal y facultades necesarias en materia laboral; formular querellas en casos de delitos que sólo se pueden perseguir a petición de la parte afectada; para otorgar perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo; para comprometer en árbitros y transigir; así como para otorgar toda clase de poderes generales o especiales a favor de los abogados adscritos al Departamento Jurídico a su cargo y revocarlos, dentro del límite de las facultades que le son otorgadas.
 
@@ -951,7 +951,9 @@ Además, el Jefe del Departamento Jurídico representará legalmente a CFE Gener
 
 El Director General acreditará su representación en términos del nombramiento respectivo y las funciones que le corresponden de conformidad con este Estatuto y demás disposiciones jurídicas aplicables.
 
-El Gerente de Proyectos Geotermoeléctricos, los Subgerentes, los Superintendentes de Central y los Residentes, acreditarán su representación con el documento que acredite la titularidad del puesto; sin perjuicio de que también puedan acreditarla a través del poder notarial que en su caso se les otorgue.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)</small>
+
+Los Subgerentes y los Superintendentes de Central, acreditarán su representación con el documento que acredite la titularidad del puesto; sin perjuicio de que también puedan acreditarla a través del poder notarial que en su caso se les otorgue.
 
 ###### Artículo 39.
 
@@ -969,7 +971,7 @@ En caso de Vacancia del Auditor Interno de CFE Generación VI, será suplido por
 
 ###### Artículo 41.
 
-Durante la ausencia del Gerente de Proyectos Geotermoeléctricos, será suplido por el titular del nivel jerárquico inmediato inferior que designe.
+(DEROGADO, D.O.F. 30 DE SEPTIEMBRE DE 2020)
 
 ###### Artículo 42.
 
@@ -1002,3 +1004,9 @@ D.O.F. 14 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DE LAS "ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN VI, PUBLICADO EL 22 DE DICIEMBRE DE 2017".]
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN VI”.]
+
+UNICO: El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
