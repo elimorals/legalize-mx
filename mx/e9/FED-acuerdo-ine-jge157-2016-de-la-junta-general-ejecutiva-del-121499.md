@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge157-2016-de-la-junta-general-ejecutiva-del-12149
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-23"
-last_updated: "2017-05-23"
+last_updated: "2020-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121499&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-06-29"
 ---
 # ACUERDO INE/JGE157/2016 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS APLICABLES AL PROCEDIMIENTO LABORAL DISCIPLINARIO Y A SU RECURSO DE INCONFORMIDAD, PARA EL PERSONAL DEL INSTITUTO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO DEL INE/JGE130/2020 Y ARTÍCULO SEGUNDO TRANSITORIO DE LOS LINEAMIENTOS PARA REGULAR EL PROCEDIMIENTO DE CONCILIACIÓN DE CONFLICTOS LABORALES, EL LABORAL SANCIONADOR Y EL RECURSO DE INCONFORMIDAD, PUBLICADOS EN EL D.O.F. DE 30 DE SEPTIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE ENTREN EN VIGOR LOS CITADOS LINEAMIENTOS, ESTOS ÚLTIMOS EN LOS TÉRMINOS DEL PUNTO SEGUNDO DEL ACUERDO INE/JGE130/2020 Y ARTÍCULO PRIMERO TRANSITORIO DE DICHOS LINEAMIENTOS.]</small>
+
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS APLICABLES AL PROCEDIMIENTO LABORAL DISCIPLINARIO Y A SU RECURSO DE INCONFORMIDAD, PARA EL PERSONAL DEL INSTITUTO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2020 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de mayo de 2017.
 
@@ -428,3 +430,43 @@ La autoridad competente deberá presentar el proyecto de resolución del recurso
 ###### Artículo 52.
 
 Una vez aprobados por la Junta, con conocimiento de los integrantes de la Comisión del Servicio, según sea el caso: el Auto de Admisión o Desechamiento, el Auto de no interposición del recurso, el Auto de sobreseimiento o la resolución respectiva, serán remitidos en original a la Dirección Jurídica para que proceda a notificar a las partes, en un plazo no mayor a diez días hábiles posteriores a la fecha en que se reciban.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE “LOS LINEAMIENTOS PARA REGULAR EL PROCEDIMIENTO DE CONCILIACIÓN DE CONFLICTOS LABORALES, EL LABORAL SANCIONADOR Y EL RECURSO DE INCONFORMIDAD”.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2020/INE/JGEext202009_14_ap_2_1.pdf]</small>
+
+PRIMERO. Los presentes Lineamientos serán aplicables, en términos del artículo Vigésimo transitorio del Estatuto y hasta en tanto se encuentre en funciones el área de la Dirección Jurídica responsable de sustanciar los procedimientos laborales previstos en el Libro Cuarto del citado cuerpo normativo.
+
+SEGUNDO. Se abrogan los Lineamientos para la Conciliación de Conflictos entre el Personal del Instituto Nacional Electoral, así como los lineamientos aplicables al procedimiento laboral disciplinario y a su recurso de inconformidad, para el personal del instituto aprobados mediante Acuerdos INE/JGE217/2016 e INE/JGE157/2016, respectivamente, por tanto, quedarán sin efecto aquellas disposiciones que se contrapongan a los presentes lineamientos.
+
+TERCERO. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de los presentes lineamientos, continuarán hasta su conclusión en los términos y las disposiciones establecidas en el momento de su inicio y en términos de lo dispuesto en el Estatuto vigente.
+
+CUARTO. La Dirección Jurídica expedirá las guías y manuales de operación atinentes a la orientación, entrevista, contención, conciliación e investigación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/JGE130/2020]</small>
+
+Primero. Se aprueban los Lineamientos para regular el procedimiento de conciliación de conflictos laborales, el laboral sancionador y el recurso de inconformidad, en los términos del documento anexo que forma parte integral del presente Acuerdo.
+
+Segundo. Los presentes Lineamientos serán aplicables, en términos del artículo Vigésimo transitorio del Estatuto y hasta en tanto se encuentre en funciones el área de la Dirección Jurídica responsable de sustanciar los procedimientos laborales sancionadores previstos en el Libro Cuarto del citado cuerpo normativo.
+
+Tercero. Una vez que entren en vigor de (sic) los presentes lineamientos, se abrogan los Lineamientos para la Conciliación de Conflictos entre el Personal del Instituto Nacional Electoral, así como los Lineamientos aplicables al procedimiento laboral disciplinario y su recurso de inconformidad, para el personal del instituto aprobados mediante acuerdos INE/JGE217/2016 e INE/JGE157/2016, respectivamente, por tanto, quedarán sin efecto aquellas disposiciones que se contrapongan a los Lineamientos referidos en el punto anterior.
+
+Cuarto. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de los presentes Lineamientos, continuarán hasta su conclusión en los términos y las disposiciones establecidas en el momento de su inicio y en términos de lo dispuesto en el Estatuto vigente y en los lineamientos señalados en el punto anterior.
+
+Quinto. Publíquese el presente Acuerdo en la NormaINE, en la Gaceta Electoral, en el portal de internet del Instituto Nacional Electoral, así como un extracto del mismo en el Diario Oficial de la Federación con la liga electrónica para la ubicación del Anexo en dicho medio.
+
+[…]
+
+El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Nacional Electoral, Dr. Lorenzo Córdova Vianello. - Rúbrica. - El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del INE, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo integro puede ser consultado en las siguientes direcciones electrónicas:
+
+DOF: www.dof.gob.mx/2020/INE/JGEext202009_14_ap_2_1.pdf
+
+INE Acuerdo: https://www.ine.mx/sesion-extraordinaria-de-la-junta-general-ejecutiva-14-de-septiembre-de-2020/
+
+Norma INE: https://norma.ine.mx/unidades-tecnicas/direccion-juridica/vigente/normativo/lineamientos y https://norma.ine.mx/ - Unidades Técnicas - Dirección Jurídica - Lineamientos - Lineamientos para regular el procedimiento de conciliación de conflictos laborales, el laboral sancionador y el recurso de inconformidad
