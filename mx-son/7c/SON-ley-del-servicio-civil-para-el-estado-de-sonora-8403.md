@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2018-04-26"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2021 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -223,6 +225,14 @@ Las mujeres disfrutarán, con goce de salario íntegro, de cuatro semanas de des
 
 Los servidores públicos disfrutarán de un periodo de descanso o licencia con goce de sueldo con motivo del nacimiento de su hijo o de adopción, en los términos que determinen las disposiciones legales vigentes que reglamenten las relaciones laborales del Estado.
 
+> <small>(ADICIONADO, B.O. 1 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 26 BIS.- Todos los trabajadores, tanto hombres como mujeres, gozarán del permiso de un día al año, con goce íntegro de su sueldo, para someterse a la realización de exámenes médicos de detección oportuna de cáncer, particularmente de mama, cervicouterino y de próstata, así como cualquier otra enfermedad crónica que determine la Secretaría de Salud Pública.
+
+Para justificar el permiso laboral al que se refiere este artículo, se deberá presentar el certificado médico correspondiente expedido por una institución de salud pública o privada.
+
+Así mismo, la madre o padre trabajador del servicio civil que tenga una hija o hijo menor de dieciocho años que haya sido diagnosticado con cáncer de cualquier tipo o enfermedad terminal por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, podrá gozar de una licencia para cuidados médicos de los hijos para ausentarse de sus labores en caso de que la niña, niño o adolescente diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción del médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado o enfermedad terminal.
+
 > <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 27.
@@ -347,7 +357,29 @@ V.- Cumplir con todos los servicios de higiene y de prevención de accidentes a 
 
 VI.- Conceder licencias con goce de sueldo a sus trabajadores para el desempeño de las comisiones sindicales que no excedan de cinco días hábiles y sin goce de sueldo por mayor tiempo, salvo el caso de que por la naturaleza de la comisión y a juicio del titular, debe otorgarse licencia con goce de sueldo por mayor tiempo. Las licencias que se concedan serán computadas como tiempo efectivo de servicios;
 
-VII.- Hacer las deducciones en los salarios, que soliciten los sindicatos respectivos, siempre que se ajusten a los términos de esta ley.
+> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2020)</small>
+
+VII.- Hacer las deducciones en los salarios, que soliciten los sindicatos respectivos, siempre que se ajusten a los términos de esta ley; y
+
+> <small>(ADICIONADA [CON SUS PÁRRAFOS E INCISOS], B.O. 1 DE OCTUBRE DE 2020)</small>
+
+VIII.- Conceder licencias con goce de sueldo cuando se trate de ausencias para el cuidado médico de hijas o hijos de trabajadores diagnosticados con cáncer de cualquier tipo.
+
+La licencia que expida el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora al padre o madre trabajador asegurado tendrá una vigencia de hasta treinta días. Pudiéndose expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años, sin que se excedan de trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+
+La licencia para cuidado médico, sólo se podrá otorgar a solicitud de la madre o padre que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor. En caso de que la madre y el padre sean trabajadores del servicio civil, la licencia sólo podrá otorgarse a uno de ellos, sin que esto impida que en algunos casos la licencia se le otorgue en una ocasión a la madre y en otra al padre.
+
+Las licencias otorgadas a padres o madres trabajadores, quedará sin vigencia:
+
+a) Cuando la hija o hijo no requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
+
+b) Por fallecimiento de la hija o hijo; y
+
+c) Cuando la madre o padre deje de ser trabajador del servicio civil.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VIII, B.O. 1 DE OCTUBRE DE 2020.]</small>
+
+Si la Hija o Hijo menor de edad diagnosticado cumple la mayoría de edad en el transcurso de los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, continuará con vigencia la licencia otorgada a padres o madres trabajadores.
 
 ### CAPITULO V. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
@@ -1272,6 +1304,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 26 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 208, QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 26 DE LA LEY DEL SERVICIO CIVIL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 1 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 132, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL SERVICIO CIVIL”.]
 
 ###### ARTÍCULO ÚNICO.
 
