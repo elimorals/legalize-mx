@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-09-26"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -805,6 +805,10 @@ VII.- Impedir el acceso o el desempeño a los cargos políticos y de elección p
 
 VIII.- Ejercer violencia política contra las mujeres, o impedir el ejercicio de sus derechos políticos electorales.
 
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+IX.- Dictar acuerdos o acciones que contravengan disposiciones de autoridades en materia sanitaria que pongan en riesgo la salud de la población.
+
 ### CAPÍTULO III. DEL CABILDO MUNICIPAL
 
 ###### ARTÍCULO 45.
@@ -1027,9 +1031,9 @@ Son causas graves para la desaparición de un Ayuntamiento:
 
 I.- Cuando sea imposible el funcionamiento, por falta absoluta de la mayoría de sus integrantes, si no existen suplentes que puedan integrarlo, cualquiera que fueren las causas que motiven dicha falta;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-II.- La violación reiterada por parte del Ayuntamiento, de los derechos humanos y sus garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Local;
+II.- Poner en riesgo la vida, salud, dignidad o la violación reiterada por parte del Ayuntamiento de los Derechos Humanos y las garantías de sus habitantes, consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Local.
 
 III.- La promoción o adopción que realice un Ayuntamiento, de formas de gobierno u organización política, distintas a las establecidas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado;
 
@@ -1108,6 +1112,10 @@ VIII.- La inejecución de sentencia en materia electoral.
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 IX.- La violencia política ejercida por razón de género, decretada por un órgano jurisdiccional.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+X.- Desacatar las medidas sanitarias o protocolos de salud pública, tratándose de emergencias sanitarias, epidemias, o cualquier crisis de salud.
 
 ###### ARTÍCULO 62.
 
@@ -3810,3 +3818,11 @@ P.O. 26 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+P.O. 1 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1624.-MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 58; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 44 Y LA FRACCIÓN X AL ARTÍCULO 61 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
