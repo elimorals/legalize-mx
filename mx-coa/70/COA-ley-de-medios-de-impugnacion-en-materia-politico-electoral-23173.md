@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-de-impugnacion-en-materia-politico-electoral-2317
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2016-08-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de noviembre de 2001.
 
@@ -47,7 +47,9 @@ Esta ley es de orden público y de observancia general en el régimen interior d
 
 El sistema de medios de impugnación previsto en esta ley, tiene por objeto garantizar:
 
-I. La constitucionalidad y legalidad de los actos, omisiones, acuerdos y resoluciones de los órganos del Instituto o de los partidos políticos; a fin de salvaguardar la forma democrática de gobierno y la validez y eficacia de las normas aplicables en la materia.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+I. La constitucionalidad y legalidad de los actos, omisiones, acuerdos y resoluciones de los órganos del Instituto o de los partidos políticos, así como del Poder Ejecutivo y Legislativo o de los Ayuntamiento (sic), a fin de salvaguardar la forma democrática de gobierno, y la validez y eficacia de las normas aplicables en la materia.
 
 II. La constitucionalidad y legalidad de los actos, omisiones, acuerdos o resoluciones del Poder Ejecutivo, del Poder Legislativo o de los Ayuntamientos del Estado, para salvaguardar los resultados vinculatorios del plebiscito o del referendo o el trámite de la iniciativa popular, así como la validez y eficacia de las normas aplicables en la materia.
 
@@ -55,21 +57,37 @@ III. La salvaguarda, validez, eficacia y actualización democrática de los dere
 
 IV. La definitividad de los distintos actos y etapas de los procesos electorales y de los procedimientos de plebiscito o de referendo.
 
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+V. La salvaguarda de los derechos laborales de los trabajadores del Instituto y de los del Tribunal Electoral, así como la resolución de los conflictos inherentes a dicha materia.
+
 ###### Artículo 3°.
 
 El sistema de medios de impugnación se integra por:
 
 I. El juicio electoral.
 
-II. El juicio para la protección de los derechos políticos-electorales de los ciudadanos.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. El juicio para la protección de los derechos políticos-electorales de la ciudadanía.
 
 III. El juicio de participación ciudadana.
 
 IV. El recurso de queja en materia electoral o de participación ciudadana.
 
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+V. El Juicio para dirimir las controversias laborales entre el Instituto y su personal, así como entre el Tribunal Electoral y su personal.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+La tramitación de cualquiera de los medios de impugnación se puede realizar de manera ordinaria, esto es físicamente o a través de los medios electrónicos dispuestos para tal efecto por el Pleno del Tribunal Electoral.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 4°.
 
-En ningún caso la interposición de los medios de impugnación en materia político-electoral previstos en el artículo anterior, producirá efectos suspensivos sobre el acto o la resolución impugnada.
+En ningún caso la interposición de los medios de impugnación en materia político-electoral previstos en el artículo anterior producirá efectos suspensivos sobre el acto o la resolución impugnada, excepto en los casos inherentes a los conflictos laborales que surjan entre el Instituto y su personal o entre el Tribunal Electoral y su personal, cuando así lo determine el Pleno.
 
 ###### Artículo 5º.
 
@@ -91,11 +109,15 @@ Corresponde al Tribunal Electoral conocer y resolver, en única instancia y de m
 
 El Tribunal Electoral resolverá los asuntos de su competencia con plena jurisdicción y conforme a los principios que establecen los artículos 17 de la Constitución Política de los Estados Unidos Mexicanos, así como 154 y 158 de la Constitución Política del Estado de Coahuila.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+El Tribunal Electoral implementará el Sistema de Justicia Electoral Digital como un mecanismo adicional para la presentación, sustanciación y resolución de los asuntos de su competencia, para lo cual, celebrará los convenios que estime convenientes, además establecerá los requisitos de uso y pautas de funcionamiento en su reglamento interno.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 7°.
 
-Para la organización y el funcionamiento del Tribunal Electoral, se observarán las disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado de Coahuila, en el Código Electoral del Estado de Coahuila, en esta ley, en el Reglamento Interior del Tribunal Electoral y demás disposiciones aplicables.
+Para la organización y el funcionamiento del Tribunal Electoral, se observarán las disposiciones previstas en los Tratados Internacionales de los que el Estado mexicano sea parte, la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado de Coahuila, en el Código Electoral del Estado de Coahuila, en esta ley, en el Reglamento Interior del Tribunal Electoral, la legislación laboral atinente y demás disposiciones aplicables.
 
 ###### Artículo 8°.
 
@@ -139,7 +161,9 @@ El Tribunal Electoral deberá tomar, a petición de parte o de oficio, todas las
 
 Las sesiones de resolución del Pleno del Tribunal Electoral serán públicas, salvo que expresamente la ley disponga lo contrario o el Tribunal Electoral así lo decida por razones de seguridad u orden público.
 
-En todo caso, el acceso a los expedientes quedará reservado sólo a las partes y a las personas autorizadas para ello.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+En todo caso, el acceso a los expedientes, en la etapa de sustanciación, quedará reservado sólo a las partes y a las personas autorizadas para ello.
 
 ###### Artículo 15.
 
@@ -155,9 +179,13 @@ Son partes en el procedimiento de los medios de impugnación las siguientes:
 
 I. El actor, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante legal, en los términos de esta ley.
 
-II. La autoridad responsable, que haya realizado el acto o emitido la resolución que se impugna.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-III. El tercero interesado, que es el ciudadano, el partido político, la coalición, el candidato, la organización o la agrupación política o de ciudadanos, según corresponda, con un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor.
+II. La autoridad responsable, que haya realizado el acto o emitido la resolución que se impugna o a quien se atribuya alguna omisión.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Tercería interesada, que es la ciudadanía, partido político, coalición, candidatura, organización o la agrupación política o ciudadana, según corresponda, con un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende la parte actora.
 
 ###### Artículo 17.
 
@@ -197,11 +225,15 @@ I. Los partidos políticos a través de sus representantes legítimos, entendié
 
 3. Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido político facultados para ello.
 
-4. Los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+4. Las precandidaturas y candidaturas por su propio derecho, o por conducto de su legítima representación. Deberán acompañar el original o copia certificada del documento en el que conste su registro.
 
 II. Las coaliciones, a través de su representante legítimo que se acreditará en los términos del convenio respectivo y de conformidad con la ley de la materia.
 
-III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación aplicable.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Las organizaciones y agrupaciones políticas o ciudadanas, a través de su representación legítima, de conformidad con los estatutos respectivos o en los términos de la legislación aplicable.
 
 IV. Los ciudadanos por su propio derecho o a través de su representante legal.
 
@@ -217,21 +249,25 @@ Cualquier planteamiento contrario a lo previsto en el artículo anterior, será 
 
 Durante los procesos electorales, todos los días y horas son hábiles para la presentación, sustanciación y resolución de los medios de impugnación. Los plazos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+Se exceptúan de lo dispuesto en el párrafo anterior, los asuntos inherentes a conflictos laborales que surjan entre el instituto y su personal o entre el Tribunal Electoral y su personal, respecto de los cuales, para el cómputo de los plazos respectivos se tomarán únicamente los días y horas hábiles, con independencia de que exista o no proceso electoral ordinario o extraordinario.
+
 ###### Artículo 22.
 
 Cuando la violación reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral, o se produzca en el desarrollo del procedimiento de plebiscito o referendo, o trámite de la iniciativa popular; el cómputo de los plazos se hará contando solamente las horas y días hábiles.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-Se entiende por horas hábiles las que se señalen conforme a la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y por días hábiles todos los del año, exceptuando los sábados y domingos y los demás que la ley o el Pleno del Tribunal Electoral señalen como inhábiles.
+Se entiende por días hábiles todos los del año, exceptuando los sábados y domingos y los demás que la ley o el Pleno del Tribunal Electoral señalen como inhábiles.
 
 Para los efectos de este artículo, se entenderá que el proceso electoral ha concluido, cuando las constancias de mayoría o de asignación respectivas y las declaratorias de validez correspondientes, hayan quedado firmes e inatacables.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 23.
 
-Los medios de impugnación previstos en esta ley, deberán presentarse dentro de los tres días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con la ley aplicable.
+Los medios de impugnación, con excepción del Juicio Laboral, previstos en esta ley deberán presentarse dentro de los tres días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnada, o se hubiese notificado de conformidad con la ley aplicable
 
 ###### Artículo 24.
 
@@ -321,9 +357,11 @@ La notificación por correo se hará en pieza certificada agregándose al expedi
 
 Exclusivamente en casos urgentes o extraordinarios y a juicio del Pleno del Tribunal Electoral o el magistrado instructor, las notificaciones que se ordenen podrán hacerse a través de correo electrónico o fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido. La notificación por esa vía deberá hacerse constar en autos por la Secretaría General de Acuerdos del Tribunal Electoral.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 33.
 
-El partido político cuyo representante haya estado presente en la sesión o reunión de la autoridad responsable que actuó o resolvió el acto a impugnar, se entenderá automáticamente notificado del acto o resolución correspondiente desde ese momento para todos los efectos legales.
+El partido político cuya representación haya estado presente en la sesión o reunión de la autoridad responsable que actuó o resolvió el acto a impugnar, se entenderá automáticamente notificado del acto o resolución correspondiente desde ese momento para todos los efectos legales, siempre y cuando tenga a su alcance todos los elementos necesarios para quedar enterado de su contenido.
 
 ###### Artículo 34.
 
@@ -339,15 +377,19 @@ Las notificaciones en los medios de impugnación previstos en esta ley, surtirá
 
 #### SECCIÓN TERCERA. LA ACUMULACIÓN
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 37.
 
-Para la resolución pronta y expedita de los medios de impugnación previstos en esta ley, el Tribunal Electoral podrá determinar su acumulación.
+Para la resolución pronta y expedita de los medios de impugnación previstos en esta ley, el Tribunal Electoral podrá determinar su acumulación o escisión.
 
-La acumulación podrá decretarla de oficio el Pleno del Tribunal Electoral o a solicitud de cualquiera de los magistrados o las partes sin mayor trámite.
+La acumulación o escisión podrá decretarla de oficio el Pleno del Tribunal Electoral o a solicitud de cualquiera de las magistraturas o las partes sin mayor trámite.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 38.
 
-La acumulación podrá decretarse al inicio o durante la sustanciación o para la resolución de los medios de impugnación.
+La acumulación o la escisión podrán decretarse al inicio o durante la sustanciación o para la resolución de los medios de impugnación.
 
 ### CAPÍTULO VI. LOS REQUISITOS DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -365,15 +407,23 @@ IV. Señalar domicilio en el lugar de residencia del Tribunal Electoral para rec
 
 V. El nombre y domicilio del tercero o terceros interesados, si los hubiere.
 
-VI. Identificar el acto o resolución impugnado y la autoridad responsable del mismo.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-VII. Mencionar de manera expresa y clara los hechos en que se basa la impugnación, los agravios que cause el acto o resolución impugnado y los preceptos presuntamente violados.
+VI. Identificar el acto, resolución u omisión impugnado y la autoridad responsable.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+VII. Mencionar de manera expresa y clara los hechos en que se basa la impugnación, los agravios que cause el acto, la omisión o resolución impugnada y los preceptos presuntamente violados.
 
 VIII. Ofrecer y aportar, en su caso, las pruebas dentro de los plazos para la interposición o presentación de los medios de impugnación previstos en la presente ley; mencionar, en su caso, las que se habrán de aportar dentro de dichos plazos; y las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas.
 
 Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con este requisito.
 
 IX. Hacer constar el nombre y la firma autógrafa del promovente.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+Los requisitos para la presentación de los medios de impugnación a través del Sistema de Justicia Electoral Digital se ajustarán a lo previsto en el Reglamento Interno del Tribunal Electoral.
 
 ###### Artículo 40.
 
@@ -383,11 +433,15 @@ I. El o los documentos que sean necesarios para acreditar la representación del
 
 II. Una copia del escrito para cada parte.
 
-III. Las pruebas documentales o técnicas que ofrezca o bien el documento que justifique haberlas solicitado por escrito en tiempo y no haberlas podido obtener, señalando la autoridad que las tenga en su poder. En caso contrario precluirá el derecho para ofrecerlas a excepción de las supervinientes.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Las pruebas documentales o técnicas que ofrezca o bien el documento que justifique haberlas solicitado por escrito en tiempo y no haberlas podido obtener, señalando la autoridad que las tenga en su poder. En caso contrario precluirá el derecho para ofrecerlas a excepción de las supervenientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 41.
 
-Cuando el medio de impugnación no se presente por escrito; incumpla con los requisitos esenciales, para sustanciar y resolver el asunto, previstos en los artículos 39 y 40 de esta ley; resulte evidentemente frívolo o su notoria improcedencia se derive de las disposiciones de la presente ley; se desechará de plano.
+Cuando el medio de impugnación incumpla con los requisitos esenciales para sustanciar y resolver el asunto, previstos en los artículos 39 y 40 de esta ley; resulte evidentemente frívolo o su notoria improcedencia se derive de las disposiciones de la presente ley; se desechará de plano.
 
 También operará el desechamiento de plano, cuando no existan hechos y agravios expuestos o habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno.
 
@@ -399,13 +453,37 @@ Los medios de impugnación previstos en esta ley, serán improcedentes en los si
 
 I. Cuando se pretenda impugnar actos o resoluciones que:
 
-1. No afecten el interés legítimo del actor.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+l. No afecten el interés jurídico o legítimo de la parte actora.
 
 2. Se hayan consumado de un modo irreparable.
 
-3. Se hubiesen consentido expresamente, entendiéndose por ello, las manifestaciones de voluntad que entrañen ese consentimiento.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+3. Se hubiesen consentido expresamente, entendiéndose por ello, las manifestaciones de voluntad que entrañen ese consentimiento, o aquellos contra los cuales no se hubiese interpuesto el medio de impugnación respectivo, dentro de los plazos señalados en esta ley.
 
 4. Aquellos contra los cuales no se hubiese interpuesto el medio de impugnación respectivo, dentro de los plazos señalados en esta ley.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+5. Sea materia de algún otro medio de impugnación que conozca el propio Tribunal, promovido por la misma parte actora, contra las mismas autoridades, y los versen sobre el mismo acto reclamado y agravios.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+6. Dictados en cumplimiento a resoluciones emitidas por el Tribunal que tengan el carácter de ejecutoria, y no sean reclamadas por vicios propios.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+7. Cuyos efectos sean inviables.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+8. Sentencias emitidas por la Suprema Corte de Justicia de la Nación o el Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+9. En las que no se hayan agotado las instancias previas establecidas en el Código Electoral, o en las normas internas de los partidos políticos, según corresponda, para combatir los actos o resoluciones electorales o determinaciones, en virtud de las cuales se pudieran haber modificado, revocado o anulado, salvo que se considere que los actos o resoluciones del partido político violen derechos político-electorales o los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa a quien promueve.
 
 II. Que el compareciente carezca de legitimación en los términos de la presente ley.
 
@@ -413,13 +491,15 @@ III. Cuando en un mismo escrito se pretenda impugnar más de una elección, salv
 
 IV. Cuando no se reúnan los requisitos que establece la ley para los medios de impugnación, salvo que resulten inesenciales para sustanciar y resolver el asunto.
 
-V. Las demás causas que se deriven por analogía o por mayoría de razón.
+V. (DEROGADA, P.O. 1 DE OCTUBRE DE 2020)
 
 ###### Artículo 43.
 
 Procede el sobreseimiento cuando:
 
-I. El promovente se desista expresamente por escrito y ratifique su desistimiento ante el funcionario autorizado por el magistrado instructor o ante fedatario público.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+I. El promovente se desista expresamente por escrito o a través del Sistema de Justicia Electoral Digital y ratifique su desistimiento ante el funcionario autorizado por el magistrado instructor o ante fedatario público.
 
 II. La autoridad responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo antes de que se dicte resolución o sentencia.
 
@@ -455,9 +535,11 @@ El Tribunal Electoral, a través del magistrado instructor, emitirá las resoluc
 
 El incumplimiento de las obligaciones a que se refieren los artículos anteriores, será sancionado en los términos previstos en la presente ley, sin perjuicio de las demás sanciones aplicables en las leyes respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 48.
 
-Dentro del plazo a que se refiere la fracción II del artículo 45 de esta ley, los terceros interesados podrán comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
+Dentro del plazo a que se refiere la fracción II del artículo 45 de esta ley, la tercería interesada podrá comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
 
 I. Presentarse ante la autoridad responsable del acto o resolución impugnado.
 
@@ -467,11 +549,17 @@ III. Señalar domicilio para recibir notificaciones en el lugar de residencia de
 
 IV. Acompañar el o los documentos que sean necesarios para acreditar la representación del compareciente.
 
-V. Precisar la razón del interés jurídico en que se funden y las pretensiones concretas del compareciente.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+V. Precisar la razón del interés jurídico o legítimo en que se funden y las pretensiones concretas de su comparecencia.
 
 VI. Ofrecer y aportar, en su caso, las pruebas dentro del plazo a que se refiere la fracción II del artículo 45 de esta ley; mencionar en su caso, las que se habrán de aportar dentro de dicho plazo; y solicitar las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas.
 
 VII. Hacer constar el nombre y la firma autógrafa del compareciente.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+Los requisitos para la presentación de los escritos a través del Sistema de Justicia Electoral Digital se ajustarán a lo previsto en el Reglamento Interno del Tribunal Electoral.
 
 ###### Artículo 49.
 
@@ -493,6 +581,16 @@ V. El informe circunstanciado.
 
 VI. Cualquier otro documento que estime necesario para la resolución del asunto.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 50 Bis.
+
+Tratándose de medios de impugnación presentados en el Sistema de Justicia Electoral Digital:
+
+I. El Tribunal Electoral notificará a la autoridad responsable sobre la presentación del medio de impugnación, remitiéndole copia digital del mismo.
+
+II. La autoridad responsable procederá en los términos del artículo 45, fracción II y quedará exenta de cumplir con el requisito contenido en la fracción I del artículo 50.
+
 ###### Artículo 51.
 
 El informe circunstanciado que debe rendir la autoridad responsable, por lo menos deberá contener:
@@ -505,9 +603,11 @@ III. La firma del funcionario que lo rinde.
 
 #### SECCIÓN SEGUNDA. EL TRÁMITE ANTE EL TRIBUNAL ELECTORAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 52.
 
-Recibida la documentación a que se refiere el artículo 50 de esta ley, el Tribunal Electoral, por conducto del magistrado instructor, realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación del medio de impugnación de que se trate, de acuerdo con lo siguiente:
+Recibida la documentación a que se refiere el artículo 50 de esta ley, el Tribunal Electoral, por conducto de la o el magistrado instructor, realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación del medio de impugnación de que se trate, de acuerdo con lo siguiente:
 
 I. El Presidente del Tribunal Electoral, remitirá conforme al turno correspondiente y de inmediato el expediente recibido al magistrado, que será instructor y ponente en los términos de las disposiciones aplicables.
 
@@ -525,7 +625,9 @@ VII. Respecto de los escritos de los terceros interesados, se estará a lo dispu
 
 VIII. Una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En este caso, se ordenará fijar copia de los autos respectivos en los estrados.
 
-IX. Cerrada la instrucción, el magistrado instructor formulará el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá al conocimiento del Tribunal Electoral.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+IX. Cerrada la instrucción, se formulará el proyecto de sentencia de desechamiento, sobreseimiento o de fondo, según sea el caso, y lo someterá al conocimiento del Pleno del Tribunal Electoral.
 
 X. La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso, el Tribunal Electoral resolverá con los elementos que obren en autos.
 
@@ -631,9 +733,11 @@ III. En ningún caso se tomarán en cuenta para resolver las pruebas constituida
 
 #### SECCIÓN CUARTA. LA RESOLUCIÓN DE LOS MEDIOS DE IMPUGNACIÓN
 
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 65.
 
-El Tribunal Electoral, resolverá el fondo de los asuntos de su competencia en sesión pública y en forma colegiada.
+El Tribunal Electoral, resolverá el fondo de los asuntos de su competencia en sesión pública y en forma colegiada. La sesión podrá llevarse a cabo de manera presencial o de manera remota.
 
 ###### Artículo 66.
 
@@ -675,7 +779,9 @@ En todo caso, si se omite señalar los preceptos jurídicos presuntamente violad
 
 Las sentencias del Tribunal Electoral, serán definitivas e inatacables cuando no sean impugnadas ante el Tribunal Electoral del Poder Judicial de la Federación y podrán tener los efectos siguientes:
 
-I. Confirmar el acto o resolución impugnada, caso en el cual las cosas se mantendrán en el estado que se encontraban antes de la impugnación.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+I. Confirmar el acto o resolución impugnada.
 
 II. Revocar el acto o resolución impugnada y restituir al promovente en el uso y goce del derecho que le haya sido violado.
 
@@ -684,6 +790,14 @@ III. Modificar el acto o resolución impugnada y restituir al promovente en el u
 IV. Reponer el procedimiento del acto o resolución impugnada, siempre que no exista impedimento que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables; en cuyo caso deberá resolver plenamente el efecto que corresponda conforme a las fracciones anteriores.
 
 V. Sobreseer cuando concurra alguna de las causales previstas por el artículo 43 de esta ley.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+VI. Ordenar la realización del acto o resolución cuya omisión s~ atribuya a la autoridad responsable.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+VII. Los demás que determine el Pleno.
 
 En todo caso, el acto o resolución impugnado o su parte conducente se dejará subsistente en los términos que establezca el Tribunal Electoral en su resolución.
 
@@ -735,9 +849,11 @@ Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la
 
 Las elecciones cuyos cómputos, constancias o declaratorias de validez o de mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 79.
 
-Cuando se declare la inelegibilidad de candidatos a diputados electos por el principio de mayoría relativa, tomará el lugar del declarado no-elegible su suplente y en el supuesto de que este último también sea inelegible, la elección será nula.
+Cuando se declare la inelegibilidad de candidaturas a diputaciones o regidurías electas por el principio de mayoría relativa, tomará el lugar de la candidatura declarada no- elegible su suplente y en el supuesto de que este último también sea inelegible, la elección será nula.
 
 En el caso de la inelegibilidad de los diputados, regidores o síndicos electos por el principio de representación proporcional, ocupará el cargo el que sigue en el orden de la lista correspondiente al mismo partido político o coalición.
 
@@ -797,9 +913,13 @@ VII. Cuando se compre o adquiera cobertura informativa o propaganda de cualquier
 
 VIII. Cuando el partido, candidato o planilla ganadora reciba o utilice para su campaña recursos de procedencia ilícita o recursos públicos no autorizados por la ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-Tratándose de lo establecido en las fracciones VI, VII y VIII anteriores, las violaciones deberán acreditarse de manera objetiva y material, y se presumirá que son determinantes cuando la diferencia entre la votación obtenida por el ganador y el segundo lugar sea menor al cinco por ciento.
+IX. Cuando se acredite que quien gane la elección cometió violencia política contra la mujer en razón de género, siempre y cuando esta causa haya sido determinante para el resultado de la elección. El Tribunal deberá, además, dar vista a las autoridades correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+Tratándose de lo establecido en las fracciones VI, VII, VIII, IX anteriores, las violaciones deberán acreditarse de manera objetiva y material, y se presumirá que son determinantes cuando la diferencia entre la votación obtenida por el ganador y el segundo lugar sea menor al cinco por ciento.
 
 ###### Artículo 83.
 
@@ -831,7 +951,9 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 El juicio electoral tiene por objeto garantizar la constitucionalidad y legalidad de los actos, acuerdos y resoluciones de las autoridades electorales en los términos señalados en la presente ley.
 
-El juicio electoral será aplicable y procederá fuera y durante los procesos electorales locales ordinarios y extraordinarios, en los términos y formas que establece esta ley.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+El juicio electoral procederá fuera y durante los procesos electorales locales ordinarios y extraordinarios, en los términos y formas que establece esta ley.
 
 ###### Artículo 85.
 
@@ -903,33 +1025,45 @@ En los casos del artículo anterior, el Tribunal Electoral podrá modificar el a
 
 Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de gobernador, diputados o Ayuntamientos previstos en esta ley; el Tribunal Electoral declarará lo conducente, aún cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 93.
 
-Todos los juicios electorales promovidos en el proceso electoral deberán estar resueltos en un plazo no mayor de doce días a partir de que la autoridad responsable cumpla con las obligaciones previstas en los artículos 45 y 50 de esta ley; dicho plazo se podrá reducir a juicio del tribunal, sin que se afecten las garantías de las partes.
+Todos los medios de impugnación promovidos en el proceso electoral deberán estar resueltos en un plazo no mayor de veinte días naturales a partir de que la autoridad responsable cumpla con las obligaciones previstas eh los artículos 45 y 50 de esta ley; dicho plazo se podrá reducir a juicio del tribunal, sin que se afecten las garantías de las partes.
 
-Los demás juicios electorales que se promuevan fuera del proceso electoral, serán resueltos en un plazo máximo de treinta días contados a partir de la presentación del medio de impugnación de que se trate.
+Los demás medios de impugnación que se promuevan fuera del proceso electoral serán resueltos en un plazo máximo de treinta días hábiles contados a partir de la presentación del medio de impugnación de que se trate.
 
-#### SECCIÓN SEGUNDA. EL JUICIO PARA LA PROTECCIÓN DE LOS DERECHOS POLÍTICOS-ELECTORALES DE LOS CIUDADANOS
+Los plazos para la presentación, sustanciación y resolución de los juicios sobre conflictos laborales entre el Instituto y su personal o entre el Tribunal Electoral y su personal se sujetarán a lo dispuesto en la legislación laboral aplicable, el Reglamento Interior del Instituto y del Tribunal y los Lineamientos que se expidan para tal efecto.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. EL JUICIO PARA LA PROTECCIÓN DE LOS DERECHOS POLÍTICO ELECTORALES DE LA CIUDADANÍA
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 94.
 
-El juicio para la protección de los derechos político-electorales de los ciudadanos tiene por objeto la protección de los derechos político-electorales en el estado, cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones a sus derechos de votar y de ser votado; de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos; siempre y cuando se hubieren reunido los requisitos constitucionales y los que se señalan en las leyes para el ejercicio de esos derechos.
+El juicio para la protección de los derechos político-electorales de la ciudadanía tiene por objeto la protección de los derechos político-electorales en el estado, cuando el ciudadano o ciudadana por sí mismo y en forma individual, hagan valer presuntas violaciones a sus derechos de votar y de ser votada; de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos, y de afiliarse libre e individualmente a los partidos políticos, así como de ejercer plenamente el derecho a conformar y ejercer un encargo público para el que fue electa o designada; siempre y cuando se hubieren reunido los requisitos constitucionales y los que se señalan en las leyes para el ejercicio de esos derechos.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 95.
 
-El juicio será promovido por los ciudadanos con interés legítimo en los casos siguientes:
+El juicio será promovido por la ciudadanía con interés legítimo en los casos siguientes:
 
-I. Cuando consideren que el partido político o coalición, a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidatos o de ser postulados como candidatos a un cargo de elección popular, por transgresión a las normas de los estatutos del mismo partido o del convenio de coalición.
+I. Cuando considere que el partido político o coalición, a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidaturas o de ser postulados como candidatas o candidatos a un cargo de elección popular, por transgresión a las normas de los estatutos del mismo partido o del convenio de coalición.
 
-II. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales locales, si también el partido político interpuso el juicio electoral por la negativa del mismo registro, el Instituto remitirá el expediente para que sea resuelto por el Tribunal Electoral, junto con el juicio promovido por el ciudadano.
+II. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesta o propuesto por un partido político, le sea negado indebidamente su registro como candidata o candidato a un cargo de elección popular. En los procesos electorales locales, si también el partido político interpuso el juicio electoral por la negativa del mismo registro, el Instituto remitirá el expediente para que sea resuelto por el Tribunal Electoral, junto con el juicio promovido por la ciudadanía.
 
-III. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política.
+III. Habiéndose asociado con otras ciudadanas o ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política.
 
-IV. Considere que un acto o resolución de la autoridad responsable, es violatorio de cualquier otro de sus derechos político-electorales.
+IV. Considere que un acto o resolución de la autoridad responsable, es violatorio de cualquier otro de sus derechos político electorales.
 
-Los actos o resoluciones que violen el derecho político-electoral de votar de los ciudadanos sólo se impugnará a través del medio de impugnación correspondiente previsto en la Ley General del Sistema de Medios de Impugnación en Materia Electoral, a menos de que los órganos del Instituto expidan el documento oficial mediante el cual los ciudadanos electores coahuilenses ejerzcan (sic) su derecho a votar en las elecciones locales, en cuyo caso los actos o resoluciones del Instituto podrán ser impugnadas conforme a este artículo.
+V. Considere que se violó su derecho político-electoral de integrar un órgano de representación popular o partidista, no obstante haber tenido una designación o elección, previamente para tal efecto.
+
+VI. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza, en la Ley General de Instituciones y Procedimientos Electorales y en el Código Electoral del Estado de Coahuila de Zaragoza.
+
+Los actos o resoluciones que violen el derecho político-electoral de votar de la ciudadanía sólo se impugnará a través del medio de impugnación correspondiente previsto en la Ley General del Sistema de Medios de Impugnación en Materia Electoral, a menos de que los órganos del Instituto expidan el documento oficial mediante el cual la ciudadanía coahuilense ejerza su derecho a votar en las elecciones locales, en cuyo caso los, actos o resoluciones del Instituto podrán ser impugnadas conforme a este artículo.
 
 ###### Artículo 96.
 
@@ -999,7 +1133,9 @@ El recurso de queja se sujetará a las reglas siguientes:
 
 I. Se interpondrá ante el Tribunal Electoral en cualquier momento, a partir de cuando se produzca la situación que lo motive; pero sólo si ésta subsiste, pues en caso contrario se declarará sin materia.
 
-II. Se presentará por escrito y en él se señalará la autoridad responsable, el acto reclamado, sus antecedentes, los preceptos legales violados y los conceptos de violación conducentes.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Se presentará por escrito y en él se señalará la autoridad responsable, la omisión reclamada, sus antecedentes, los preceptos legales violados y los conceptos de violación conducentes.
 
 III. El Presidente del Tribunal Electoral dará entrada al recurso de queja desde luego y requerirá por oficio a las autoridades señaladas como responsables, para que rinda informe dentro del plazo de tres días.
 
@@ -1012,6 +1148,16 @@ VI. La autoridad que omita informar oportunamente y sin causa justificada, se ha
 ###### Artículo 105.
 
 El recurso de queja en materia electoral y de participación ciudadana se presentará, sustanciará y resolverá conforme a las disposiciones previstas en este título, sin perjuicio de aplicar en lo conducente las reglas generales previstas en esta ley para todos los medios de impugnación.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+#### SECCIÓN QUINTA. DEL JUICIO PARA DIRIMIR LOS CONFLICTOS LABORALES ENTRE EL INSTITUTO Y SUS TRABAJADORES Y EL TRIBUNAL ELECTORAL Y SUS TRABAJADORES
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 106.
+
+Para la regulación de los aspectos relativos a la presentación, sustanciación y resolución de los juicios para dirimir los conflictos laborales entre el Instituto y su personal y el Tribunal Electoral y su personal se atenderá a lo dispuesto en el Reglamento Interno del Instituto, el Reglamento Interior del Tribunal Electoral, así como en los Lineamientos que se expidan para tales efectos.
 
 ## TRANSITORIOS
 
@@ -1076,3 +1222,27 @@ P.O. 1 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 520.- SE REFORMAN LOS ARTÍCULOS 5, 7, 9, 11, 14, 16, 22, 25, 30, 32, 67, 71 Y 82; SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 82 Y EL ARTÍCULO 83 BIS; DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 741.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones reglamentarias y administrativas necesarias para el cumplimiento del presente Decreto, deberán adecuarse en un plazo que no podrá exceder de sesenta días contados a partir de iniciada su vigencia.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones relativas al Sistema de Justicia Electoral Digital, serán aplicables hasta en tanto el Pleno del Tribunal Electoral emita los acuerdos generales correspondientes a su implementación, lo cual deberá ocurrir antes del 30 de junio del 2021.
+
+###### ARTICULO CUARTO.
+
+Los procedimientos administrativos y jurisdiccionales que estuvieran pendientes a la entrada en vigor del presente Decreto, se resolverán de conformidad a la ley vigente al momento de su promoción.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones que se opongan a lo previsto en el presente decreto.
