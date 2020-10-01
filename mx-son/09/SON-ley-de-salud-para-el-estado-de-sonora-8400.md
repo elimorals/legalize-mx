@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2020-06-01"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -335,13 +335,17 @@ V. Celebrar con la Federación los acuerdos de coordinación en materia de salub
 
 VI.- Vigilar y hacer cumplir en la esfera de su competencia la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2020)</small>
 
-VII.- Ejercer las funciones de regulación y control sanitario en materia de salubridad general que corresponde al Estado, conforme a lo que establecen la Ley General de Salud, la presente Ley y demás disposiciones aplicables; y
+VII.- Ejercer las funciones de regulación y control sanitario en materia de salubridad general que corresponde al Estado, conforme a lo que establecen la Ley General de Salud, la presente Ley y demás disposiciones aplicables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE OCTUBRE DE 2020)</small>
 
-VIII.- Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de la Ley.
+VIII.- Promocionar, implementar y desarrollar un programa de medicina alternativa, en el que se incluya lo relacionado a la medicina tradicional que tenga como propósitos su integración y ofrecimiento en las unidades de atención a su cargo, el fomento a su conocimiento y práctica adecuada, así como la vigilancia de su uso terapéutico apropiado y seguro; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE OCTUBRE DE 2020)</small>
+
+IX.- Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de la Ley.
 
 ###### ARTICULO 16.
 
@@ -763,15 +767,19 @@ IV. La obligatoriedad de los profesionales de la salud, de mantenerse actualizad
 
 V. Las disposiciones de esta ley y demás normas jurídicas aplicables.
 
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 64.
 
-Para el ejercicio de actividades profesionales en el campo de la salud y especialidades de la medicina, odontología, optometría, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes y registrados ante la Secretaría.
+Para el ejercicio de actividades profesionales en el campo de la salud y especialidades de la medicina, naturopatía, odontología, optometría, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes y registrados ante la Secretaría.
+
+> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 65.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, quiroprácticos, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes y además registrarse ante la Secretaría.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, naturopatía, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, quiroprácticos, trabajo social, nutrición, citotecnologia, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes y además registrarse ante la Secretaría.
+
+Para efectos del ejercicio de actividades profesionales, técnicas y auxiliares de la medicina tradicional indígena, éste será con base a lo que señalan los usos y costumbres de los pueblos y comunidades indígenas en la entidad; asimismo, será optativo de quién lo ejerce, para efectos de la expedición de títulos, diplomas o cualquier reconocimiento con validez oficial para el ejercicio de dichas actividades; para tales efectos, las Secretarías de Educación y de Salud en el Estado, realizarán los acuerdos de coordinación necesarias con las autoridades federales correspondientes a fin de reconocer, respetar y promover el desarrollo y ejercicio de la medicina tradicional indígena en Sonora, todo lo anterior en apego a lo que señala el artículo 93 de la Ley General de Salud.
 
 ###### ARTICULO 66.
 
@@ -3444,3 +3452,11 @@ La Secretaría de Hacienda en coordinación con la Secretaría de Salud, realiza
 ###### ARTÍCULO TERCERO.
 
 Para estar en posibilidad de dar cumplimiento de las disposiciones contenidas en el Artículo 110 BIS de la Ley de Salud del Estado de Sonora, que se adiciona en términos del Artículo Segundo del presente Decreto, la Secretaría de Salud deberá convocar al Titular de la Secretaría de Hacienda, al Titular de la Secretaría de la Contraloría General del Estado, al Titular del Instituto Superior de Auditoría y Fiscalización y a por lo menos un representante de organizaciones ciudadanas, con el objeto de integrar un Comité de Supervisión que implementará el proceso de asignaciones presupuestales y dará puntual seguimiento.
+
+B.O. 1 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 133, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
