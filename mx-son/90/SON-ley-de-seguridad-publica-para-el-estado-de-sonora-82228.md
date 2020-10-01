@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2020-04-27"
+last_updated: "2020-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2021 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -2471,9 +2473,25 @@ La Secretaría, a través del Centro de Control, Comando, Comunicación y Cómpu
 
 ### CAPÍTULO I. DE LOS BANDOS DE POLICÍA Y GOBIERNO, DE LAS CIRCULARES Y DE LAS DEMÁS DISPOSICIONES DE OBSERVANCIA GENERAL EN MATERIA DE SEGURIDAD PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 210.
 
 Los Ayuntamientos expedirán dentro de sus respectivas jurisdicciones y con sujeción a la presente Ley, los Bandos de Policía y Gobierno, las circulares y las demás disposiciones de observancia general en materia de seguridad pública.
+
+A la par de lo anterior, deberán de elaborar, con independencia de la denominación que se le proporcione, un reglamento especializado de separos preventivos, mismo que deberá ser dado a conocer a la Comisión Estatal de Derechos Humanos, para recabar su opinión antes de ser publicado.
+
+Dicho reglamento deberá de realizarse en estricta observancia del respeto a los derechos humanos, con perspectiva de género, propiciando la capacitación constante del personal ahí adscrito, estableciendo condiciones de seguridad para los que ingresen, generando las condiciones mínimas de higiene, entre otros aspectos.
+
+Además de cumplir con lo establecido en este Capítulo, el reglamento deberá de contener por lo menos:
+
+I. Los derechos y obligaciones de los detenidos, arrestados y personas que acudan a los separos preventivos;
+
+II. La regulación de la administración y funcionamiento de los separos preventivos de las Direcciones de Seguridad Pública correspondientes;
+
+III. Establecer de manera precisa las facultades y restricciones de los servidores públicos adscritos a los separos preventivos.
+
+No obstante lo anterior, en las instalaciones de los separos preventivos se deberá de propiciar contar como mínimo con una ventilación adecuada, cámaras de video vigilancia, monitoreo constante, un debido registro de ingresos y salidas, asistencia médica, alimentación oportuna, colchones dignos para pernoctar y sanitarios higiénicos.
 
 ###### ARTÍCULO 211.
 
@@ -3040,3 +3058,15 @@ B.O. 27 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 1 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 129, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA Y A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor a los 180 días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el debido cumplimiento de las disposiciones contenidas en la presente reforma, los ayuntamientos del Estado procuraran celebrar convenios de colaboración con la Comisión Estatal de Derechos Humanos.
