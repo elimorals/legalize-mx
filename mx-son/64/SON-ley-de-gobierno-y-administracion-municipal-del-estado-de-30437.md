@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2020-06-15"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2021 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -3553,6 +3555,26 @@ Para la aprobación, reforma, derogación o abrogación de los ordenamientos jur
 
 El procedimiento para la aprobación por parte del Ayuntamiento del Bando de Policía y Gobierno, los reglamentos, circulares y las demás disposiciones administrativas de observancia general a que se refiere este capítulo, así como la reforma, derogación o abrogación de los mismos, se llevará a cabo conforme lo establezca el reglamento interior del Ayuntamiento y, en todo caso, en la reforma, derogación o abrogación de dichos ordenamientos jurídicos, se observarán los mismos trámites establecidos para su formación.
 
+> <small>(ADICIONADO, B.O. 1 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 347 Bis 1.
+
+Los Ayuntamientos deberán de elaborar, con independencia de la denominación que se le proporcione, un reglamento especializado de separos preventivos, mismo que deberá ser dado a conocer a la Comisión Estatal de Derechos Humanos para recabar su opinión antes de ser publicado.
+
+Dicho reglamento deberá realizarse en estricta observancia del respeto a los derechos humanos, con perspectiva de género, propiciando la capacitación constante del personal ahí adscrito, estableciendo condiciones de seguridad para los que ingresen, generando las condiciones mínimas de higiene, entre otros aspectos.
+
+Además de cumplir con lo establecido en este Capítulo, el reglamento deberá de contener por lo menos:
+
+I.- Los derechos y obligaciones de los detenidos, arrestados y personas que acudan a los separos preventivos;
+
+II.- La regulación de la administración y funcionamiento de los separos preventivos de las Direcciones de Seguridad Pública correspondientes;
+
+III.- Establecer de manera precisa las facultades y restricciones de los servidores públicos adscritos a los separos preventivos.
+
+> <small>(ADICIONADO, B.O. 1 DE OCTUBRE DE 2020)</small>
+
+Artículo 344 Bis 2 (sic).- En relación con las disposiciones contenidas en el artículo anterior, así como en lo establecido en el artículo 210 de la Ley de Seguridad Pública para el Estado de Sonora, los integrantes del Ayuntamiento deberán analizar trimestralmente el seguimiento y avance de las medidas implementadas, para lo cual, se anotará en el orden del día de la sesión que corresponda.
+
 ###### Artículo 348.
 
 Los reglamentos, circulares y las demás disposiciones de observancia general que emita el Ayuntamiento, serán promulgadas y publicadas en el Boletín Oficial del Gobierno del Estado por el Presidente Municipal, previo el refrendo que realice el Secretario del Ayuntamiento.
@@ -4556,3 +4578,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ayuntamiento, dentro del plazo de 15 días hábiles siguientes a la entrada en vigor del presente Decreto, deberá de expedir los lineamientos para la celebración de sesiones virtuales.
+
+B.O. 1 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 129, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA Y A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor a los 180 días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el debido cumplimiento de las disposiciones contenidas en la presente reforma, los ayuntamientos del Estado procuraran celebrar convenios de colaboración con la Comisión Estatal de Derechos Humanos.
