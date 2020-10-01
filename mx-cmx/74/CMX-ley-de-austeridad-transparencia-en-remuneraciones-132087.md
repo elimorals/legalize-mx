@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-09-29"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE OCTUBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -54,13 +54,15 @@ LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE 
 
 ### CAPÍTULO I. Objeto, Definiciones y Unidades Responsables del Gasto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular y normar las acciones en materia de austeridad, programación, presupuestación, aprobación, ejercicio, contabilidad gubernamental, emisión de información financiera, control y evaluación de los ingresos y egresos públicos de la Ciudad de México, así como sentar las bases para establecer los tabuladores que indiquen las remuneraciones de los servidores públicos locales, mediante el conjunto de principios, normas y procedimientos que tienen como propósito regular y simplificar el pago de las remuneraciones y otros conceptos de pago a que tienen derecho las personas servidoras públicas.
+La presente Ley es de orden público e interés general y tiene por objeto regular y normar las acciones en materia de austeridad, programación, presupuestación, aprobación, ejercicio, contabilidad gubernamental, emisión de información financiera, control y evaluación de los ingresos y egresos públicos de la Ciudad de México, así como sentar las bases para establecer los tabuladores que indiquen las remuneraciones de las personas servidoras públicas locales, mediante el conjunto de principios, normas y procedimientos que tienen como propósito regular y simplificar el pago de las remuneraciones y otros conceptos de pago a que tienen derecho las personas servidoras públicas.
 
 Esta Ley, es de observancia obligatoria para el poder Ejecutivo, Legislativo y Judicial, las Alcaldías, organismos autónomos y demás entes públicos todos de la Ciudad de México.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 29 DE SEPTIEMBRE DE 2020, PÁGINA 7.]</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 2.
 
@@ -76,173 +78,161 @@ IV. Analítico de Claves Presupuestales: Es el listado que muestra la desagregac
 
 V. Analítico de Plazas: El cual integra el desglose, separación y clasificación de las plazas presupuestarias que tiene asignadas una entidad de la Administración Pública.
 
-> <small>N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VII, VÉASE PUBLICACIONES OFICIALES AMBAS DE FECHAS 29 DE SEPTIEMBRE DE 2020.</small>
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
-
 VI. Anexo transversal: Anexo del proyecto de Presupuesto de Egresos con las previsiones de gasto vinculados con el desarrollo de diferentes sectores;
 
-> <small>N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VI, VÉASE PUBLICACIONES OFICIALES AMBAS DE FECHAS 29 DE SEPTIEMBRE DE 2020.</small>
+VII. Anteproyectos de Presupuesto: Estimaciones que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública efectúan de las erogaciones necesarias para el desarrollo de sus programas, para que con base en éstos la Secretaría, integre, elabore y consolide el Proyecto de Presupuesto de Egresos;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+VIII. Auditoría Superior: Auditoría Superior de la Ciudad de México;
 
-VII. Anexo transversal: Anexo del proyecto del Presupuesto de Egresos con las previsiones de gasto vinculados con el desarrollo de diferentes sectores;
+IX. Austeridad: Es una política de Estado, cuyo fin es eliminar los excesos en el gasto público para reencauzar dichos recursos en prioridades de gasto, encaminadas a la atención de las necesidades de las personas habitantes de esta Ciudad, sin que ello implique la afectación de la buena administración.
 
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+X. Catálogo de Unidades Responsables: Relación de claves con la que se identifica la denominación de las Unidades Responsables del Gasto que realizan erogaciones con cargo al Presupuesto de Egresos;
 
-VIII. Anteproyectos de Presupuesto: Estimaciones que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública efectúan de las erogaciones necesarias para el desarrollo de sus programas, para que con base en éstos la Secretaría, integre, elabore y consolide el Proyecto de Presupuesto de Egresos;
+XI. Código: Código Fiscal de la Ciudad de México;
 
-IX. Auditoría Superior: Auditoría Superior de la Ciudad de México;
+XII. Comisión de Presupuesto: Comisión de Presupuesto y Cuenta Pública del Congreso de la Ciudad de México.
 
-X. Austeridad: Es una política de Estado, cuyo fin es eliminar los excesos en el gasto público para reencauzar dichos recursos en prioridades de gasto, encaminadas a la atención de las necesidades de los habitantes de esta Ciudad, sin que ello implique la afectación de la buena administración.
+XIII. CONAC: Consejo Nacional de Armonización Contable;
 
-XI. Catálogo de Unidades Responsables: Relación de claves con la que se identifica la denominación de las Unidades Responsables del Gasto que realizan erogaciones con cargo al Presupuesto de Egresos;
+XIV. Congreso Local: Congreso de la Ciudad de México;
 
-XII. Código: Código Fiscal de la Ciudad de México;
+XV. Consejo de Evaluación: Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
 
-XIII. Comisión de Presupuesto: Comisión de Presupuesto y Cuenta Pública del Congreso de la Ciudad de México.
+XVI. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos.
 
-XIV. CONAC: Consejo Nacional de Armonización Contable;
+XVII. Constitución Local: Constitución Política de la Ciudad de México.
 
-XV. Congreso Local: Congreso de la Ciudad de México;
+XVIII. Contrato Multianual: Instrumento jurídico a través del cual se establecen compromisos presupuestales que cuenten con previa autorización por escrito de la Secretaría, para exceder el periodo anual del presupuesto;
 
-XVI. Consejo de Evaluación: Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
+XIX. Coordinadora de Sector: Dependencia que en cada caso coordina un agrupamiento de Órganos Desconcentrados y/o Entidades;
 
-XVII. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos.
+XX. Corto Plazo: Periodo que comprende de 1 y hasta 3 años;
 
-XVIII. Constitución Local: Constitución Política de la Ciudad de México.
+XXI. Cuenta Comprobada: Documentos relativos a un periodo determinado, integrados por el resumen de operaciones de caja o de pólizas de ingresos o egresos;
 
-XIX. Contrato Multianual: Instrumento jurídico a través del cual se establecen compromisos presupuestales que cuenten con previa autorización por escrito de la Secretaría, para exceder el periodo anual del presupuesto;
+XXII. Cuenta por Liquidar Certificada: Instrumento mediante el cual las personas servidoras públicas facultadas de las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno, autorizan el pago de los compromisos adquiridos con cargo a su Presupuesto de Egresos;
 
-XX. Coordinadora de Sector: Dependencia que en cada caso coordina un agrupamiento de Órganos Desconcentrados y/o Entidades;
+XXIII. Cuenta Pública: Es el documento técnico que elabora el Poder Ejecutivo y entrega al Congreso local con la información de los recursos, las finanzas y contabilidad de los Poderes Ejecutivo, Legislativo y Judicial, las Alcaldías, Órganos Autónomos y demás entes públicos de la Ciudad de México.
 
-XXI. Corto Plazo: Periodo que comprende de 1 y hasta 3 años;
+XXIV. Decreto: Decreto de Presupuesto de Egresos de la Ciudad de México que anualmente autoriza el Congreso;
 
-XXII. Cuenta Comprobada: Documentos relativos a un periodo determinado, integrados por el resumen de operaciones de caja o de pólizas de ingresos o egresos;
+XXV. Dependencias: Unidades Administrativas que integran la Administración Pública Centralizada, de conformidad con la Ley Orgánica;
 
-XXIII. Cuenta por Liquidar Certificada: Instrumento mediante el cual los servidores públicos facultados de las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno, autorizan el pago de los compromisos adquiridos con cargo a su Presupuesto de Egresos;
+XXVI. Economías: Diferencia positiva del gasto público generada durante el periodo de vigencia del Presupuesto de Egresos, una vez cumplidos los programas y metas establecidos y que se deriva de la obtención de mejores condiciones en la adquisición de bienes y servicios.
 
-XXIV. Cuenta Pública: Es el documento técnico que elabora el Poder Ejecutivo y entrega al Congreso local con la información de los recursos, las finanzas y contabilidad de los Poderes Ejecutivo, Legislativo y Judicial, las Alcaldías, Órganos Autónomos y demás entes públicos de la Ciudad de México.
+XXVII. Entidades: Organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del sector paraestatal de la Ciudad de México;
 
-XXV. Decreto de Presupuesto de Egresos de la Ciudad de México que anualmente autoriza el Congreso;
+XXVIII. Evaluación de desempeño: El seguimiento y evaluación sistemática de los Programas Presupuestarios, que permiten la valoración objetiva del desempeño de las políticas públicas a través de la verificación del cumplimiento de metas y objetivos con base en indicadores estratégicos y de gestión;
 
-XXVI. Dependencias: Unidades Administrativas que integran la Administración Pública Centralizada, de conformidad con la Ley Orgánica;
+XXIX. Evaluación de diseño: Análisis y valoración del diseño del programa presupuestario, que tiene la finalidad de identificar si el programa contiene los elementos necesarios que permiten prever de manera razonable el logro de sus metas y objetivos, a efecto de instrumentar mejoras.
 
-XXVII. Economías: Diferencia positiva del gasto público generada durante el periodo de vigencia del Presupuesto de Egresos, una vez cumplidos los programas y metas establecidos y que se deriva de la obtención de mejores condiciones en la adquisición de bienes y servicios.
+XXX. Función: Agrupación del gasto público conforme a la naturaleza de los servicios gubernamentales en beneficio de una población objetivo, que se ejercen a través de una Unidad Responsable del Gasto;
 
-XXVIII. Entidades: Organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del sector paraestatal de la Ciudad de México;
+XXXI. Gaceta: Gaceta Oficial de la Ciudad de México;
 
-XXIX. Evaluación de desempeño: El seguimiento y evaluación sistemática de los Programas Presupuestarios, que permiten la valoración objetiva del desempeño de las políticas públicas a través de la verificación del cumplimiento de metas y objetivos con base en indicadores estratégicos y de gestión, y
+XXXII. Informe Trimestral: Documento de rendición de cuentas, en el cual el Gobierno de la Ciudad de México reporta al Congreso, cada tres meses, sobre las Finanzas Públicas y la Deuda Pública, desde el inicio del ejercicio fiscal hasta el término del trimestre correspondiente;
 
-XXX. Evaluación de diseño: Análisis y valoración del diseño del programa presupuestario, que tiene la finalidad de identificar si el programa contiene los elementos necesarios que permiten prever de manera razonable el logro de sus metas y objetivos, a efecto de instrumentar mejoras.
+XXXIII. Ingresos de Aplicación Automática: Recursos por concepto de productos y aprovechamientos que recaudan y administran las Dependencias, Órganos Desconcentrados y las Alcaldías, de conformidad con las reglas de carácter general a que se refieren los artículos 303 y 308 del Código;
 
-XXXI. Función: Agrupación del gasto público conforme a la naturaleza de los servicios gubernamentales en beneficio de una población objetivo, que se ejercen a través de una Unidad Responsable del Gasto;
+XXXIV. Ingresos Excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos de la Ciudad de México o en su caso respecto de los Ingresos propios de las Entidades;
 
-XXXII. Gaceta: Gaceta Oficial de la Ciudad de México;
+XXXV. Ingresos Propios: Recursos que por cualquier concepto obtengan las Entidades, distintos a los recursos por concepto de subsidios, aportaciones y transferencias;
 
-XXXIII. Informe Trimestral: Documento de rendición de cuentas, en el cual el Gobierno de la Ciudad de México reporta al Congreso, cada tres meses, sobre las Finanzas Públicas y la Deuda Pública, desde el inicio del ejercicio fiscal hasta el término del trimestre correspondiente;
+XXXVI. Jefe de Gobierno: La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-XXXIV. Ingresos de Aplicación Automática: Recursos por concepto de productos y aprovechamientos que recaudan y administran las Dependencias, Órganos Desconcentrados y las Alcaldías, de conformidad con las reglas de carácter general a que se refieren los artículos 303 y 308 del Código;
+XXXVII. Largo Plazo: Periodo que comprende más de 6 años;
 
-XXXV. Ingresos Excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos de la Ciudad de México o en su caso respecto de los Ingresos propios de las Entidades;
+XXXVIII. Ley de Ingresos: Ley de Ingresos de la Ciudad de México, que anualmente autoriza el Congreso.
 
-XXXVI. Ingresos Propios: Recursos que por cualquier concepto obtengan las Entidades, distintos a los recursos por concepto de subsidios, aportaciones y transferencias;
+XXXIX. Ley de Planeación: Ley de Planeación del Desarrollo aplicable en la Ciudad de México;
 
-XXXVII. Jefe de Gobierno: la o el titular de la Jefatura de Gobierno de la Ciudad de México;
+XL. Ley General: Ley General de Contabilidad Gubernamental;
 
-XXXVIII. Largo Plazo: Periodo que comprende más de 6 años;
+XLI. Ley Orgánica: Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
-XXXIX. Ley de Ingresos: Ley de Ingresos de la Ciudad de México, que anualmente autoriza el Congreso.
+XLII. Ley: Ley de Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México;
 
-XL. Ley de Planeación: Ley de Planeación del Desarrollo aplicable en la Ciudad de México;
+XLIII. Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe la persona titular de la Jefatura de Gobierno;
 
-XLI. Ley General: Ley General de Contabilidad Gubernamental;
+XLIV. Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
 
-XLII. Ley Orgánica: Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+XLV. Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
 
-XLIII. Ley: Ley de Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos en la Ciudad de México;
+XLVI. Órganos Autónomos: Los Órganos Autónomos que establece la Constitución Política de la Ciudad de México;
 
-XLIV. LXXI. (SIC) Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe la o el Jefe de Gobierno;
+XLVII. Órganos de Control Interno: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos Constitucionales Autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las normas.
 
-XLV. Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
+XLVIII. Órganos Desconcentrados: Los que con este carácter se establezcan conforme a la Ley Orgánica y su Reglamento, que integran la Administración Pública Desconcentrada
 
-XLVI. Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
+XLIX. Poder Ejecutivo: La persona titular de la Jefatura de Gobierno de la Ciudad de México.
 
-XLVII. Órganos Autónomos: Los Órganos Autónomos que establece la Constitución Política de la Ciudad de México;
+L. Poder Judicial: El Tribunal Superior de Justicia;
 
-XLVIII. Órganos de Control Interno: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos Constitucionales Autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las normas.
+LI. Poder Legislativo: El Congreso de la Ciudad de México;
 
-XLIX. Órganos Desconcentrados: Los que con este carácter se establezcan conforme a la Ley Orgánica y su Reglamento, que integran la Administración Pública Desconcentrada
+LII. Presupuesto Autorizado: Asignaciones presupuestarias anuales comprendidas en el Decreto autorizadas por el Congreso;
 
-L. Poder Ejecutivo: La persona titular de la Jefatura de Gobierno de la Ciudad de México.
+LIII. Presupuesto basado en Resultados: Estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
 
-LI. Poder Judicial: El Tribunal Superior de Justicia;
+LIV. Presupuesto Comprometido: Provisiones de recursos que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades constituyen con cargo a su presupuesto, para atender los compromisos derivados de cualquier acto y/o instrumento jurídico, tales como las reglas de operación de los programas, otorgamiento de subsidios, aportaciones a fideicomisos u otro concepto que signifique una obligación, compromiso o potestad de realizar una erogación;
 
-LII. Poder Legislativo: El Congreso de la Ciudad de México;
+LV. Presupuesto Devengado: Reconocimiento de las obligaciones de pago por parte de las Unidades Responsables del Gasto a favor de terceros que se deriven por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, por mandato de tratados, leyes o decretos y por resoluciones y sentencias definitivas;
 
-LIII. Presupuesto Autorizado: Asignaciones presupuestarias anuales comprendidas en el Decreto autorizadas por el Congreso;
+LVI. Presupuesto Ejercido: Importe de las erogaciones respaldadas por los documentos comprobatorios una vez autorizadas para su pago con cargo al presupuesto autorizado o modificado, determinadas por el acto de recibir el bien o el servicio, independientemente de que éste se haya pagado o no;
 
-LIV. Presupuesto basado en Resultados: Estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
+LVII. Presupuesto Modificado: Presupuesto que resulta de aplicar las adecuaciones presupuestarias al presupuesto autorizado, de conformidad con lo que establece esta Ley;
 
-LV. Presupuesto Comprometido: Provisiones de recursos que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades constituyen con cargo a su presupuesto, para atender los compromisos derivados de cualquier acto y/o instrumento jurídico, tales como las reglas de operación de los programas, otorgamiento de subsidios, aportaciones a fideicomisos u otro concepto que signifique una obligación, compromiso o potestad de realizar una erogación;
+LVIII. Presupuesto Pagado: Erogaciones realizadas para efectos del cumplimiento efectivo de la obligación;
 
-LVI. Presupuesto Devengado: Reconocimiento de las obligaciones de pago por parte de las Unidades Responsables del Gasto a favor de terceros que se deriven por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, por mandato de tratados, leyes o decretos y por resoluciones y sentencias definitivas;
+LIX. Programa General: Programa General de Desarrollo de la Ciudad de México. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
 
-LVII. Presupuesto Ejercido: Importe de las erogaciones respaldadas por los documentos comprobatorios una vez autorizadas para su pago con cargo al presupuesto autorizado o modificado, determinadas por el acto de recibir el bien o el servicio, independientemente de que éste se haya pagado o no;
+LX. Programa Operativo Anual: Documento que sirve de base para la integración de los Anteproyectos de Presupuesto anuales de las propias Dependencias, Órganos Desconcentrados, Alcaldías y Entidades;
 
-LVIII. Presupuesto Modificado: Presupuesto que resulta de aplicar las adecuaciones presupuestarias al presupuesto autorizado, de conformidad con lo que establece esta Ley;
+LXI. Programa Operativo: Programa Operativo de la Administración Pública de la Ciudad de México referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas de las Alcaldías, para la asignación de recursos presupuestales;
 
-LIX. Presupuesto Pagado: Erogaciones realizadas para efectos del cumplimiento efectivo de la obligación;
+LXII. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los sujetos obligados al cumplimiento de esta Ley generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo;
 
-LX. Programa General: Programa General de Desarrollo de la Ciudad de México. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
+LXIII. Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
 
-LXI. Programa Operativo Anual: Documento que sirve de base para la integración de los Anteproyectos de Presupuesto anuales de las propias Dependencias, Órganos Desconcentrados, Alcaldías y Entidades;
+LXIV. Programas Parciales de Desarrollo Urbano: Programas de desarrollo de las demarcaciones territoriales de la Ciudad de México;
 
-LXII. Programa Operativo: Programa Operativo de la Administración Pública de la Ciudad de México referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas de las Alcaldías, para la asignación de recursos presupuestales;
+LXV. Proyecto de Presupuesto: Documento que elabora, integra y consolida la Secretaría y que contiene la estimación de gastos a efectuar por parte de las Unidades Responsables del Gasto para el año inmediato siguiente, mismo que la persona titular de la Jefatura de Gobierno presenta al Congreso Local para su aprobación.
 
-LXIII. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los sujetos obligados al cumplimiento de esta Ley generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo;
+LXVI. Proyectos de Inversión: Acciones realizadas por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, que son registradas en la cartera de proyectos de inversión que administra la Secretaría, que implican erogaciones de gasto de capital y que son destinadas a la adquisición de activos requeridos para atender una necesidad o problemática pública específica; el desarrollo de proyectos específicos y la construcción, adquisición y modificación de inmuebles, así como las rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles;
 
-LXIV. Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
+LXVII. Reglamento Interior: Reglamento Interior del Poder Ejecutivo de la Ciudad de México;
 
-LXV. Programas Parciales de Desarrollo Urbano: Programas de desarrollo de las demarcaciones territoriales de la Ciudad de México;
+LXVIII. Reglamento: Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
 
-LXVI. Proyecto de Presupuesto: Documento que elabora, integra y consolida la Secretaría y que contiene la estimación de gastos a efectuar por parte de las Unidades Responsables del Gasto para el año inmediato siguiente, mismo que la o el Jefe de Gobierno presenta al Congreso Local para su aprobación.
+LXIX. Reglas de Operación: Disposiciones a las cuales se sujetan determinados programas de gobierno con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
 
-LXVII. Proyectos de Inversión: Acciones realizadas por las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades, que son registradas en la cartera de proyectos de inversión que administra la Secretaría, que implican erogaciones de gasto de capital y que son destinadas a la adquisición de activos requeridos para atender una necesidad o problemática pública específica; el desarrollo de proyectos específicos y la construcción, adquisición y modificación de inmuebles, así como las rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles;
+LXX. Remuneración o retribución: Toda percepción en efectivo o en especie, incluyendo salarios, dietas, aguinaldos, gratificaciones, premios, honorarios, recompensas, bonos, estímulos, comisiones, compensaciones que se entrega a la persona servidora pública por su desempeño cuantificada como parte de la misma o determinada por la ley, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-LXVIII. Reglamento Interior: Reglamento Interior del Poder Ejecutivo de la Ciudad de México;
+LXXI. Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos de la Ciudad de México, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso.
 
-LXIX. Reglamento: Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
+LXXII. Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
 
-LXX. Reglas de Operación: Disposiciones a las cuales se sujetan determinados programas de gobierno con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+LXXIII. Secretaría de la Contraloría: La Secretaría de la Contraloría General de la Ciudad de México;
 
-LXXI. Remuneración o retribución: Toda percepción en efectivo o en especie, incluyendo salarios, dietas, aguinaldos, gratificaciones, premios, honorarios, recompensas, bonos, estímulos, comisiones, compensaciones que se entrega a un servidor público por su desempeño cuantificada como parte de la misma o determinada por la ley, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+LXXIV. Secretaría: Secretaría de Administración y Finanzas de la Ciudad de México;
 
-LXXII. Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos de la Ciudad de México, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso.
+LXXV. Servidores Públicos: Las personas miembros de los Poderes Ejecutivo, Legislativo y Judicial, los integrantes de las Alcaldías, los miembros de los Organismos Autónomos, fideicomisos públicos y en general toda persona que desempeñe un empleo, cargo, función, mandato o comisión de cualquier naturaleza ante éstos; así como las personas que ejerzan actos de autoridad, recursos públicos o contraten con entes públicos la ejecución de obra o servicios públicos, de adquisiciones, de subrogación de funciones o reciban concesiones, todos ellos contemplados en la Constitución Política de la Ciudad de México.
 
-LXXIII. Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
+LXXVI. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
 
-LXXIV. Secretaría de la Contraloría: La Secretaría de la Contraloría General de la Ciudad de México;
+LXXVII. Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
 
-LXXV. Secretaría: Secretaría de Administración y Finanzas de la Ciudad de México;
+LXXVIII. Tesorería: Tesorería de la Ciudad de México;
 
-LXXVI. Servidores Públicos: los miembros de los poderes ejecutivo, legislativo y judicial, los integrantes de las alcaldías, los miembros de los organismos autónomos, fideicomisos públicos y en general toda persona que desempeñe un empleo, cargo, función, mandato o comisión de cualquier naturaleza ante éstos; así como las personas que ejerzan actos de autoridad, recursos públicos o contraten con entes públicos la ejecución de obra o servicios públicos, de adquisiciones, de subrogación de funciones o reciban concesiones, todos ellos contemplados en la Constitución Política de la Ciudad de México.
+LXXIX. Transversalidad de la perspectiva de género: Incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres y los hombres cualquier acción que se programe; y
 
-LXXVII. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+LXXX. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
 
-LXXVIII. Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general
-
-LXXIX. Tesorería: Tesorería de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
-
-LXXIX (SIC). Transversalidad de la perspectiva de género: Incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe; y
-
-LXXX. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Alcaldías y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 3.
 
-Son sujetos obligados de la presente Ley, las personas servidoras públicas de la Ciudad México, observando en todo momento la buena administración de los recursos públicos con base en criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, rendición de cuentas, con una perspectiva que fomente la igualdad de género y con un enfoque de respeto a los derechos humanos, objetividad,honradez (sic) y profesionalismo.
+Son sujetos obligados de la presente Ley, las personas servidoras públicas de la Ciudad México, observando en todo momento la buena administración de los recursos públicos con base en criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, rendición de cuentas, con una perspectiva que fomente la igualdad de género y con un enfoque de respeto a los derechos humanos, objetividad, honradez y profesionalismo.
 
 Deberán destinar del presupuesto asignado para cada ejercicio fiscal un porcentaje para la capacitación de mujeres y el fomento de la igualdad sustantiva entre mujeres y hombres.
 
@@ -252,7 +242,9 @@ Asimismo, deberán tomar medidas para racionalizar el gasto destinado a las acti
 
 Los sujetos obligados, emitirán las disposiciones administrativas generales en materia de austeridad, que sean necesarias para dar cumplimiento a la presente ley.
 
-La austeridad no podrá ser invocada parajustificar (sic) la restricción, disminución o supresión de programas sociales, a excepción de que exista una evaluación del impacto presupuestario que acredite un dispendio de recursos con relación al beneficio que otorgue el programa social.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La austeridad no podrá ser invocada para justificar la restricción, disminución o supresión de programas sociales, a excepción de que exista una evaluación del impacto presupuestario que acredite un dispendio de recursos con relación al beneficio que otorgue el programa social.
 
 ###### Artículo 5.
 
@@ -274,7 +266,9 @@ La autonomía presupuestaria y de gestión otorgada a los Órganos Autónomos y 
 
 I. Aprobar sus proyectos de presupuesto y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando las previsiones de ingresos que les comunique la Secretaría y los criterios generales en los cuales se fundamente el Decreto;
 
-II. Será responsabilidad exclusiva de las unidades administrativas y de los servidores públicos competentes, manejar, administrar y ejercer sus presupuestos sujetándose a sus propias leyes, así como a las normas que al respecto se emitan en congruencia con lo previsto en esta Ley, en todo aquello que no se oponga a las normas que rijan su organización y funcionamiento.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Será responsabilidad exclusiva de las unidades administrativas y de las personas servidoras públicas competentes, manejar, administrar y ejercer sus presupuestos sujetándose a sus propias leyes, así como a las normas que al respecto se emitan en congruencia con lo previsto en esta Ley, en todo aquello que no se oponga a las normas que rijan su organización y funcionamiento.
 
 Asimismo, elaborarán sus calendarios presupuestales y deberán comunicarlos a la Secretaría a más tardar el 20 de enero del ejercicio fiscal correspondiente, los cuales estarán en función de la capacidad financiera de la Ciudad de México y deberán ser publicados en la Gaceta a más tardar dentro de los 10 días hábiles siguientes a la fecha de su comunicación.
 
@@ -294,7 +288,9 @@ Los Órganos Autónomos y de Gobierno deberán seguir en lo conducente las dispo
 
 El Congreso autorizará la afectación o retención de participaciones federales asignadas a la Ciudad de México, así como de los ingresos propios de las Entidades, para el pago de obligaciones contraídas por la Ciudad de México, de acuerdo con el siguiente procedimiento:
 
-I. La o el Jefe de Gobierno enviará al Congreso la solicitud correspondiente indicando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE OCTUBRE DE 2020)</small>
+
+I. La persona titular de la Jefatura de Gobierno enviará al Congreso la solicitud correspondiente indicando:
 
 a) Compromiso de pago que se pretende contraer;
 
@@ -306,7 +302,9 @@ d) Fuente de garantía, y
 
 e) Mecanismos de pago.
 
-II. El Congreso, dentro de un plazo de 30 días, contados a partir de la presentación de la solicitud, deberá emitir el dictamen correspondiente. En todo caso, se aprobará por mayoría simple de los votos de los legisladores presentes en la Sesión.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. El Congreso, dentro de un plazo de 30 días hábiles, contados a partir de la presentación de la solicitud, deberá emitir el dictamen correspondiente. En todo caso, se aprobará por mayoría simple de los votos de las personas legisladoras presentes en la Sesión.
 
 No se reconocerán compromisos adquiridos sin la autorización del Congreso.
 
@@ -314,7 +312,9 @@ Las Entidades podrán afectar y/o gravar como garantía y/o fuente de pago sus i
 
 La Secretaría llevará un Registro Único de Compromisos y Garantías que afecten los ingresos de la Ciudad de México.
 
-La o el Jefe de Gobierno, a través de la Secretaría, informará trimestralmente al Congreso de la cartera y evolución de los compromisos y garantías autorizados, con los cuales se hayan afectado los ingresos de la Ciudad de México en los términos previstos en la Ley de Coordinación Fiscal y del presente artículo. En el informe se detallarán los compromisos contraídos y las garantías otorgadas, así como las fuentes de pago o garantía.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La persona titular de la Jefatura de Gobierno, a través de la Secretaría, informará trimestralmente al Congreso de la cartera y evolución de los compromisos y garantías autorizados, con los cuales se hayan afectado los ingresos de la Ciudad de México en los términos previstos en la Ley de Coordinación Fiscal y del presente artículo. En el informe se detallarán los compromisos contraídos y las garantías otorgadas, así como las fuentes de pago o garantía.
 
 Podrán incluirse las obligaciones derivadas de los convenios de seguridad social entre el Gobierno Federal y la Administración Pública.
 
@@ -336,13 +336,17 @@ Asimismo, respecto de los registros contables y la información financiera, ést
 
 Los Órganos Autónomos y de Gobierno coordinarán con la Secretaría la instrumentación del sistema en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-Las Unidades Responsables del Gasto estarán facultadas para realizar los trámites presupuestarios y de pago y, en su caso, emitir las autorizaciones correspondientes en los términos de esta Ley, a través del sistema a que se refiere el artículo anterior, para lo cual, en sustitución de la firma autógrafa, se emplearán los medios de identificación electrónica. En los casos excepcionales que determine la Secretaría podrán realizarse los trámites mediante la utilización de documentos impresos con la correspondiente firma autógrafa del servidor público competente.
+Las Unidades Responsables del Gasto estarán facultadas para realizar los trámites presupuestarios y de pago y, en su caso, emitir las autorizaciones correspondientes en los términos de esta Ley, a través del sistema a que se refiere el artículo anterior, para lo cual, en sustitución de la firma autógrafa, se emplearán los medios de identificación electrónica. En los casos excepcionales que determine la Secretaría podrán realizarse los trámites mediante la utilización de documentos impresos con la correspondiente firma autógrafa de la persona servidora pública competente.
 
 El uso de los medios de identificación electrónica producirá los mismos efectos que las leyes otorgan a los documentos equivalentes con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio.
 
-Los servidores públicos de las Unidades Responsables del Gasto están obligados a llevar un estricto control de los medios de identificación electrónica, así como de cuidar la seguridad y protección de los equipos y sistemas electrónicos, la custodia de la documentación comprobatoria y justificatoria y en su caso, de la confidencialidad de la información en ellos contenida.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las personas servidoras públicas de las Unidades Responsables del Gasto están obligados a llevar un estricto control de los medios de identificación electrónica, así como de cuidar la seguridad y protección de los equipos y sistemas electrónicos, la custodia de la documentación comprobatoria y justificatoria y en su caso, de la confidencialidad de la información en ellos contenida.
 
 ###### Artículo 12.
 
@@ -412,23 +416,31 @@ Asimismo, deberán integrar en sus anteproyectos de Presupuesto de Egresos, recu
 
 I. La realización y el seguimiento de las acciones encaminadas a mejorar los proyectos y los programas de gobierno en materia de desarrollo humano y régimen democrático;
 
-II. Que las políticas públicas en materia presupuestal, se sustenten en un enfoque de derechos humanos;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-III. Que los servidores públicos, en la aplicación de los programas, asignación de recursos y evaluación de los resultados, consideren los principios de no discriminación e igualdad.
+II. Que las políticas públicas en materia presupuestal se sustenten en un enfoque de derechos humanos; y
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Que las personas servidoras públicas, en la aplicación de los programas, asignación de recursos y evaluación de los resultados, consideren los principios de no discriminación e igualdad.
 
 ### CAPÍTULO II. Fideicomisos Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 15.
 
-Son fideicomisos públicos los que constituya el Gobierno de la Ciudad de México por conducto de la Secretaría en su carácter de fideicomitente único de la Administración Pública. Los fideicomisos públicos tendrán como propósito auxiliar al Jefe de Gobierno o a los Alcaldes, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
+Son fideicomisos públicos los que constituya el Gobierno de la Ciudad de México por conducto de la Secretaría en su carácter de fideicomitente único de la Administración Pública. Los fideicomisos públicos tendrán como propósito auxiliar a la persona titular de la Jefatura de Gobierno o a las personas titulares de las Alcaldías, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
 
 Se asimilarán a los fideicomisos públicos en términos de transparencia y rendición de cuentas, aquellos que constituyan los Órganos Autónomos y de Gobierno a los que se les asignen recursos del Presupuesto de Egresos.
 
 Los fideicomisos públicos y los que se asimilen a éstos, deberán registrarse ante la Secretaría en los términos y condiciones que se establecen en la presente Ley y su Reglamento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-Para constituir, modificar o extinguir fideicomisos públicos, cuando así convenga al interés público, las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades deberán contar con la aprobación de la o el Jefe de Gobierno, emitida por conducto de la Secretaría.
+Para constituir, modificar o extinguir fideicomisos públicos, cuando así convenga al interés público, las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades deberán contar con la aprobación de la persona titular de la Jefatura de Gobierno, emitida por conducto de la Secretaría.
 
 La constitución, modificación y extinción de los fideicomisos públicos de la Ciudad de México, deberán informarse en un apartado específico en el Informe Trimestral y en la Cuenta Pública.
 
@@ -460,9 +472,11 @@ Las Unidades Responsables del Gasto enviarán de manera trimestral al Congreso p
 
 Los proyectos de Ley de Ingresos y de Presupuesto de Egresos para cada ejercicio fiscal se elaborarán con base en los resultados que se pretendan alcanzar conforme al avance y cumplimiento del Programa General, al análisis del desempeño económico de la Ciudad de México y las perspectivas económicas para el año que se presupuesta, de conformidad con lo establecido en esta Ley, su Reglamento y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-El gasto propuesto por la o el Jefe de Gobierno en el proyecto de Presupuesto de Egresos, aprobado por el Congreso y que se ejerza en el año fiscal por las Unidades Responsables del Gasto, deberá guardar el equilibrio presupuestario.
+El gasto propuesto por la persona titular de la Jefatura de Gobierno en el proyecto de Presupuesto de Egresos, aprobado por el Congreso y que se ejerza en el año fiscal por las Unidades Responsables del Gasto, deberá guardar el equilibrio presupuestario.
 
 Circunstancialmente, y con la finalidad de hacer frente a las condiciones económicas y sociales que privan en el país, las iniciativas de Ley de Ingresos podrán prever ingresos cuya recuperación sea inminente de ocurrir al inicio del año fiscal siguiente.
 
@@ -470,35 +484,43 @@ Dicho monto se consignará en la iniciativa de Ley de Ingresos bajo el rubro de 
 
 Por contra partida, para mantener el balance fiscal y equilibrio presupuestal en el presupuesto de Egresos se deberá establecer cuales asignaciones presupuestales serán susceptibles de considerarse para el diferimiento de su pago. En caso de registrase ingresos excedentes a lo aprobado en la Ley de Ingresos, los montos correspondientes disminuirán en la misma medida los diferimientos señalados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-Toda iniciativa de ley, decreto, o proyecto de reglamento y acuerdo que presente la o el Jefe de Gobierno deberá contar con una evaluación del impacto presupuestario realizada por la Secretaría, cuando éstas impliquen afectaciones a la Hacienda Pública.
+Toda iniciativa de ley, decreto, o proyecto de reglamento y acuerdo que presente la persona titular de la Jefatura de Gobierno deberá contar con una evaluación del impacto presupuestario realizada por la Secretaría, cuando éstas impliquen afectaciones a la Hacienda Pública.
 
 En el caso de que dichas iniciativas impliquen erogaciones adicionales y con el propósito de guardar el equilibrio presupuestal, se deberá señalar su fuente de financiamiento ya sea mediante la cancelación o suspensión de programas; la creación de nuevas contribuciones o bien, por eficiencia recaudatoria.
 
 El Congreso, a través de la Comisión de Presupuesto y Cuenta Pública, al elaborar los dictámenes respectivos, podrá realizar una valoración del impacto presupuestario de la iniciativa de Ley o Decreto, con el apoyo de la Unidad de Estudios y Finanzas Públicas y podrá solicitar opinión a la Secretaría sobre el proyecto de dictamen correspondiente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 22.
 
-La o el Jefe de Gobierno, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los Ingresos Excedentes que, en su caso, resulten de los aprobados en la Ley de Ingresos o bien, ante la expectativa de la captación de mayores ingresos.
+La persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los Ingresos Excedentes que, en su caso, resulten de los aprobados en la Ley de Ingresos o bien, ante la expectativa de la captación de mayores ingresos.
 
 Los excedentes que resulten de los Ingresos Propios de las Entidades, se destinarán a aquellas que los generen.
 
-Las ampliaciones presupuestales que a través de la Secretaría autorice la o el Jefe de Gobierno de Gobierno (sic) serán para los fines específicos siguientes: alcaldías; infraestructura pública de transporte, agua, entorno urbano, escuelas, hospitales y deportes; pago del saldo neto de la deuda pública de la Ciudad de México; construcción adaptación y equipamiento de las escuelas de arte en las demarcaciones territorialesy (sic) no podrán reorientarse a proyectos distintos para los que fueron aprobados, por lo que en caso de incumplimiento del programa o proyecto, se procederá a efectuar la reducción líquida presupuestal correspondiente, justificando las causas que impidieron la ejecución de los programas y proyectos.
+> <small>(REFORMADO G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las ampliaciones presupuestales que a través de la Secretaría autorice la persona titular de la Jefatura de Gobierno serán para los fines específicos siguientes: alcaldías; infraestructura pública de transporte, agua, entorno urbano, escuelas, hospitales y deportes; pago del saldo neto de la deuda pública de la Ciudad de México; construcción adaptación y equipamiento de las escuelas de arte en las demarcaciones territoriales y no podrán reorientarse a proyectos distintos para los que fueron aprobados, por lo que en caso de incumplimiento del programa o proyecto, se procederá a efectuar la reducción líquida presupuestal correspondiente, justificando las causas que impidieron la ejecución de los programas y proyectos.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 23.
 
-En caso de que los ingresos sean menores a los programados, la o el Jefe de Gobierno, por conducto de la Secretaría, podrá aplicar medidas de disciplina y equilibrio presupuestal, ordenando las reducciones al Presupuesto de Egresos, cuidando en todo momento el mantenimiento de los servicios públicos y los programas sociales.
+En caso de que los ingresos sean menores a los programados, la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, podrá aplicar medidas de disciplina y equilibrio presupuestal, ordenando las reducciones al Presupuesto de Egresos, cuidando en todo momento el mantenimiento de los servicios públicos y los programas sociales.
 
-En el caso de que la contingencia que motive los ajustes represente una reducción equivalente de hasta el 5% de los ingresos previstos en el calendario mensual de recaudación publicado en la Gaceta, la o el Jefe de Gobierno, a través de la Secretaría, enviará al Congreso en los siguientes 10 días hábiles a que se haya determinado la disminución de ingresos, un informe que contenga el monto de gasto programable reducido y su composición, desagregado por Unidades Responsables del Gasto.
+En el caso de que la contingencia que motive los ajustes represente una reducción equivalente de hasta el 5% de los ingresos previstos en el calendario mensual de recaudación publicado en la Gaceta, la persona titular de la Jefatura de Gobierno, a través de la Secretaría, enviará al Congreso en los siguientes 10 días hábiles a que se haya determinado la disminución de ingresos, un informe que contenga el monto de gasto programable reducido y su composición, desagregado por Unidades Responsables del Gasto.
 
-En el caso de que la contingencia represente una reducción que supere el 5% de los ingresos, la o el Jefe de Gobierno, a través de la Secretaría, enviará al Congreso en los siguientes 10 días hábiles a que se haya determinado la disminución de ingresos, una propuesta con el monto de gasto a reducir y su composición por Unidades Responsables del Gasto.
+En el caso de que la contingencia represente una reducción que supere el 5% de los ingresos, la persona titular de la Jefatura de Gobierno, a través de la Secretaría, enviará al Congreso en los siguientes 10 días hábiles a que se haya determinado la disminución de ingresos, una propuesta con el monto de gasto a reducir y su composición por Unidades Responsables del Gasto.
 
-El Congreso, en un plazo de 10 días hábiles a partir de la recepción de la propuesta, la analizará con el fin de proponer en su caso, modificaciones en el marco de las disposiciones generales aplicables y la información disponible. La o el Jefe de Gobierno, a través de la Secretaría, con base en la opinión del Congreso, resolverá lo conducente informando de ello a la misma.
+El Congreso, en un plazo de 10 días hábiles a partir de la recepción de la propuesta, la analizará con el fin de proponer en su caso, modificaciones en el marco de las disposiciones generales aplicables y la información disponible. La persona titular de la Jefatura de Gobierno, a través de la Secretaría, con base en la opinión del Congreso, resolverá lo conducente informando de ello a la misma.
 
-En caso de que el Congreso no emita opinión dentro de dicho plazo, será procedente la propuesta enviada por la o el Jefe de Gobierno. Los Órganos Autónomos y de Gobierno, de conformidad con las disposiciones de esta Ley deberán coadyuvar al cumplimiento de las normas de disciplina y de equilibro presupuestarios a que se refiere el presente artículo y esta Ley, a través de ajustes en sus respectivos presupuestos. Asimismo, deberán reportar los ajustes realizados en el informe trimestral y en la Cuenta Pública.
+En caso de que el Congreso no emita opinión dentro de dicho plazo, será procedente la propuesta enviada por la persona titular de la Jefatura de Gobierno. Los Órganos Autónomos y de Gobierno, de conformidad con las disposiciones de esta Ley deberán coadyuvar al cumplimiento de las normas de disciplina y de equilibro presupuestarios a que se refiere el presente artículo y esta Ley, a través de ajustes en sus respectivos presupuestos. Asimismo, deberán reportar los ajustes realizados en el informe trimestral y en la Cuenta Pública.
 
-Para el caso de las Alcaldías, la Secretaría se coordinará con éstas, para que en el ámbito de sus respectivas competencias, analicen, autoricen y apliquen las medidas de disciplina y equilibrio presupuestal que plantee la o el Jefe de Gobierno.
+Para el caso de las Alcaldías, la Secretaría se coordinará con éstas, para que en el ámbito de sus respectivas competencias, analicen, autoricen y apliquen las medidas de disciplina y equilibrio presupuestal que plantee la persona titular de la Jefatura de Gobierno.
 
 > <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
 
@@ -550,11 +572,17 @@ Las reglas de carácter general para la integración de los Anteproyectos de Pre
 
 La programación y presupuestación del gasto público comprende:
 
-I. Las actividades que deberán realizar las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados con base en indicadores de desempeño, contenidos en los programas sectoriales que se derivan del Programa General y, en su caso, de las directrices que la o el Jefe de Gobierno expida en tanto se elabore dicho Programa;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-II. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para el desarrollo de las actividades señaladas en la fracción anterior, y
+I. Las actividades que deberán realizar las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados con base en indicadores de desempeño, contenidos en los programas sectoriales que se derivan del Programa General y, en su caso, de las directrices que la persona titular de la Jefatura de Gobierno expida en tanto se elabore dicho Programa;
 
-III. Las actividades y sus respectivas previsiones de gasto público correspondiente a los Órganos Autónomos y de Gobierno.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para el desarrollo de las actividades señaladas en la fracción anterior;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Las actividades y sus respectivas previsiones de gasto público correspondiente a los Órganos Autónomos y de Gobierno; y
 
 IV. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para la operación y el cumplimiento de los Programas Presupuestarios.
 
@@ -562,9 +590,13 @@ IV. Las previsiones de gasto público para cubrir los recursos humanos, material
 
 La programación y presupuestación anual del gasto público se realizará con apoyo en los Anteproyectos de Presupuesto que elaboren las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para cada ejercicio fiscal y con base en:
 
-I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-II. Las políticas de gasto público que determine la o el Jefe de Gobierno, a través de la Secretaría. Y
+I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Las políticas de gasto público que determine la persona titular de la Jefatura de Gobierno, a través de la Secretaría; y
 
 III. La evaluación de los avances logrados en el cumplimiento de los objetivos y metas del Programa General y los avances sectoriales con base al Sistema de Evaluación del Desempeño, las metas y avances físicos financieros del ejercicio fiscal anterior y los pretendidos para el siguiente ejercicio.
 
@@ -610,7 +642,9 @@ La Secretaría queda facultada para formular los Anteproyectos de Presupuesto de
 
 La Secretaría podrá efectuar las modificaciones que considere necesarias a los anteproyectos de presupuesto, comunicándoles a las Dependencias, Órganos Desconcentrados, y Entidades, los ajustes que habrán de realizar a los mismos en función de la cifra definitiva proyectada de ingresos, de conformidad con el Reglamento.
 
-Para el caso de las Alcaldías, la Secretaría se coordinará con éstas a efecto de acordar los ajustes planteados durante los primeros 15 días naturales del mes de Enero de cada ejercicio, a efecto de respetar la congruencia entre los objetivos del programa de Gobierno de la Alcaldía y la aplicación del marco normativo y procedimental.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Para el caso de las Alcaldías, la Secretaría se coordinará con éstas a efecto de acordar los ajustes planteados durante los primeros 15 días naturales del mes de enero de cada ejercicio, a efecto de respetar la congruencia entre los objetivos del programa de Gobierno de la Alcaldía y la aplicación del marco normativo y procedimental.
 
 ###### Artículo 33.
 
@@ -638,7 +672,9 @@ La Secretaría procurará que los techos presupuestales que se asignen a las Alc
 
 Los recursos adicionales que se otorguen deberán ser orientados preferentemente a la ampliación de infraestructura y acciones de seguridad pública.
 
-Las o los Alcaldes determinarán su Programa de Inversión con base en las disponibilidades presupuestales del techo comunicado por la Secretaría y atendiendo a las necesidades de equipamiento y ampliación de la infraestructura que requieran.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las personas titulares de las Alcaldías determinarán su Programa de Inversión con base en las disponibilidades presupuestales del techo comunicado por la Secretaría y atendiendo a las necesidades de equipamiento y ampliación de la infraestructura que requieran.
 
 Los programas sociales que implementen las Alcaldías deberán coordinarse con el Sector Central con el fin de unificar padrones de beneficiarios para evitar su duplicidad con el propósito de maximizar el impacto económico y social de los mismos. Para materializar lo anterior, las Alcaldías deberán observar lo dispuesto en esta Ley.
 
@@ -676,7 +712,9 @@ I. La vinculación de estos proyectos con lo establecido en el Programa General;
 
 II. Los estudios de la demanda social, el grado de cobertura o avance de las acciones institucionales respecto del total de las necesidades sociales correspondientes, diagnóstico sobre los beneficios que se esperan obtener con la ejecución del programa de inversión física y la generación de empleos directos e indirectos;
 
-III. Informar a la Secretaría, el periodo total de ejecución del proyecto, los responsables del mismo, fecha de inicio y conclusión, monto total de dicho proyecto y lo previsto para el ejercicio presupuestal correspondiente, así como los importes considerados para la operación y mantenimiento de dicho proyecto, a realizar en años posteriores, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Informar a la Secretaría, el periodo total de ejecución del proyecto, los responsables del mismo, fecha de inicio y conclusión, monto total de dicho proyecto y lo previsto para el ejercicio presupuestal correspondiente, así como los importes considerados para la operación y mantenimiento de dicho proyecto, a realizar en años posteriores; y
 
 IV. Para el caso de los proyectos en proceso, el total de la inversión realizada, las metas y resultados obtenidos al término del ejercicio inmediato anterior.
 
@@ -684,11 +722,17 @@ IV. Para el caso de los proyectos en proceso, el total de la inversión realizad
 
 Las Dependencias, Órganos Desconcentrados y Entidades elaborarán Programas Operativos Anuales para la ejecución del Programa General de Desarrollo de la Ciudad de México y de los programas de mediano plazo, desagregando su contenido atendiendo al destino y alcance de los mismos, a la fecha en que se ejecutarán, debiendo presentar los indicadores que serán utilizados para la evaluación de cada programa.
 
-Las Alcaldías elaborarán sus Programas Operativos Anuales, los cuales serán la base para la integración de sus Anteproyectos de Presupuesto anuales. Los Comités Mixtos de Planeación del Desarrollo de las Alcaldías, vigilarán que la elaboración de los Programas Operativos Anuales de las Alcaldías sean congruentes con la planeación y programación previas; que se ajusten al presupuesto aprobado por el Congreso y que su aplicación se realice conforme a las disposiciones vigentes.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-Las Entidades deberán presentar sus Programas Operativos Anuales para aprobación de la o el Jefe de Gobierno por conducto de los titulares de sus órganos de gobierno, vigilando su congruencia con los programas sectoriales.
+Las Alcaldías elaborarán sus Programas Operativos Anuales, los cuales serán la base para la integración de sus Anteproyectos de Presupuesto anuales. Los Comités Mixtos de Planeación del Desarrollo de las Alcaldías, vigilarán que la elaboración de los Programas Operativos Anuales de las Alcaldías sea congruentes con la planeación y programación previas; que se ajusten al presupuesto aprobado por el Congreso y que su aplicación se realice conforme a las disposiciones vigentes.
 
-El Congreso, a través de las comisiones de Hacienda Pública, y de Presupuesto y Cuenta Pública, podrán requerir información, a efecto de contar con elementos que permitan realizar observaciones a los procedimientos técnicos y operativos para la elaboración de los programas a que se refiere este artículo.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las Entidades deberán presentar sus Programas Operativos Anuales para aprobación de la persona titular de la Jefatura de Gobierno por conducto de las personas titulares de sus órganos de gobierno, vigilando su congruencia con los programas sectoriales.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+El Congreso, a través de las comisiones de Hacienda Pública, y de Presupuesto y Cuenta Pública, podrá requerir información, a efecto de contar con elementos que permitan realizar observaciones a los procedimientos técnicos y operativos para la elaboración de los programas a que se refiere este artículo.
 
 ###### Artículo 41.
 
@@ -696,9 +740,11 @@ El Programa Operativo y aquéllos que de él deriven, especificarán las accione
 
 ### CAPÍTULO III. De los Ingresos y el Presupuesto de Egresos
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 42.
 
-El Presupuesto de Ingresos es el documento que contiene la estimación de contribuciones, aprovechamientos, productos y demás ingresos que durante un año de calendario deba percibir la Ciudad de México, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables en la materia y que servirá de base para la elaboración de la Iniciativa de Ley de Ingresos.
+La Ley de Ingresos es el documento que contiene la estimación de contribuciones, aprovechamientos, productos y demás ingresos que durante un año de calendario deba percibir la Ciudad de México, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables en la materia y que servirá de base para la elaboración de la Iniciativa de Ley de Ingresos.
 
 ###### Artículo 43.
 
@@ -738,7 +784,9 @@ IV. Los Ingresos Propios previstos por las Entidades;
 
 V. Los ingresos relativos a los adeudos de ejercicios anteriores;
 
-VI. Las expectativas de ingresos por financiamiento, y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+VI. Las expectativas de ingresos por financiamiento; y
 
 VII. Los demás ingresos a recaudar.
 
@@ -752,9 +800,7 @@ La Iniciativa de Ley de Ingresos deberá contener, invariablemente, la estimaci�
 
 La Secretaría podrá solicitar a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades la información que considere pertinente para la elaboración del Proyecto de la Ley de Ingresos.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 29 DE SEPTIEMBRE DE 2020, PÁGINAS 7 Y 8.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 47.
 
@@ -766,101 +812,89 @@ II. El gasto neto total que en éste se especifique, así como la clasificación
 
 III. Descripción clara de las funciones y subfunciones que sean base del proyecto en los que se señalen objetivos, metas y prioridades, así como las Unidades responsables de su ejecución;
 
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
-
 IV. Anexo transversal del presupuesto con perspectiva de género, que contendrá las actividades institucionales programadas para dar cumplimiento a la política pública en materia de igualdad sustantiva. Éste identificará la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas;
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 V. Anexo transversal del presupuesto con enfoque de Derechos Humanos, que contendrá las actividades institucionales vinculadas a las Estrategias del Programa de Derechos Humanos de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
-
-VI. Anexo trasversal para la atención de niñas, niños y adolescentes; que contendrá las actividades institucionales vinculadas a esta materia y al Programa de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas por grupo de edad;
-
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+VI. Anexo trasversal para la atención de niñas, niños y adolescentes, que contendrá las actividades institucionales vinculadas a esta materia y al Programa de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas por grupo de edad;
 
 VII. Anexo transversal en materia de sustentabilidad;
 
-(REUBLICADA, G.O. 29 DE SEPTIEMBRE DE 2020)
-
 VIII. Descripción y explicación del presupuesto que se asignará a las Alcaldías para la preservación, protección, conservación, revalorización, restauración, investigación y difusión del patrimonio histórico, cultural, inmaterial y material, natural, rural, urbano, territorial y otros bienes declarados como monumentos, zonas, paisajes y rutas culturales y conjuntos arqueológicos, artísticos, históricos y paleontológicos en sus demarcaciones;
 
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+IX. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los resultados contenidos en el presupuesto de las Unidades Responsables del Gasto, precisando los recursos involucrados para su obtención;
 
-IX. Anexo transversal del presupuesto con perspectiva de género, que contendrá las actividades institucionales programadas para dar cumplimiento a la política pública en materia de igualdad sustantiva. Éste identificará la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas;
+X. Explicación y comentarios de las funciones consideradas como prioritarias, así como las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+XI. Estimación de los ingresos y de los gastos del ejercicio fiscal para el que se propone;
 
-X. Anexo transversal del presupuesto con enfoque de Derechos Humanos, que contendrá las actividades institucionales vinculadas a las Estrategias del Programa de Derechos Humanos de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas;
+XII. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+XIII. Los montos de endeudamiento propuestos al Congreso de la Unión;
 
-XI. Anexo trasversal para la atención de niñas, niños y adolescentes; que contendrá las actividades institucionales vinculadas a esta materia y al Programa de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México, identificando la Unidad Responsable del Gasto, las actividades institucionales respectivas, así como las metas físicas y financieras previstas por grupo de edad;
+XIV. Los proyectos de Presupuesto de Egresos de los Órganos Autónomos especificando los montos de los recursos públicos que sometan a consideración del Congreso;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+XV. Los montos de los recursos públicos que correspondan a los Órganos de Gobierno;
 
-XII. Anexo transversal en materia de sustentabilidad;
+XVI. La propuesta de monto para el Fondo Adicional de Financiamiento de las Alcaldías mandatado en la Constitución Local, así como su propuesta de distribución entre las Alcaldías, conforme a los criterios de población, marginación, infraestructura y equipamiento urbano;
 
-> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
+XVII. Analítico de Claves Presupuestales;
 
-XIII. Descripción y explicación del presupuesto que se asignará a las Alcaldías para la preservación, protección, conservación, revalorización, restauración, investigación y difusión del patrimonio histórico, cultural, inmaterial y material, natural, rural, urbano, territorial y otros bienes declarados como monumentos, zonas, paisajes y rutas culturales y conjuntos arqueológicos, artísticos, históricos y paleontológicos en sus demarcaciones;
+XVIII. Analítico de plazas;
 
-XIV. Explicación y comentarios de las funciones consideradas como prioritarias, así como las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-XV. Estimación de los ingresos y de los gastos del ejercicio fiscal para el que se propone;
+XIX. Catálogo de Unidades Responsables; y
 
-XVI. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
+XX. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa
 
-XVII. Los montos de endeudamiento propuestos al Congreso de la Unión;
-
-XVIII. Los proyectos de Presupuesto de Egresos de los Órganos Autónomos especificando los montos de los recursos públicos que sometan a consideración del Congreso;
-
-XIX. Los montos de los recursos públicos que correspondan a los Órganos de Gobierno;
-
-XX. Analítico de Claves Presupuestales;
-
-> <small>(REFORMADA, G.O. 23 DE ENERO DE 2020)</small>
-
-XXI. La propuesta de monto para el Fondo Adicional de Financiamiento de las Alcaldías mandatado en la Constitución Local, así como su propuesta de distribución entre las Alcaldías, conforme a los criterios de población, marginación, infraestructura y equipamiento urbano;
-
-XXII. Catálogo de Unidades Responsables, y
-
-XXIII. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión de los Órganos de Gobierno y Autónomos, conforme a esta Ley.
+La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión de los Órganos de Gobierno y Autónomos, conforme a esta Ley.
 
 ###### Artículo 48.
 
 Los Órganos Autónomos y de Gobierno presentarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo. Su proyecto de presupuesto deberá incorporar perspectiva de derechos humanos.
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 49.
 
-En el año en que termina su encargo, la o el Jefe de Gobierno saliente deberá elaborar los anteproyectos de Iniciativa de Ley de Ingresos y del Decreto en apoyo al Jefe de Gobierno electo, incluyendo sus recomendaciones, a efecto de que éste los presente al Congreso a más tardar en la fecha y en los términos a que se refiere el artículo 122 Apartado C, Base Primera, fracción V, inciso b) de la Constitución Política de los Estados Unidos Mexicanos.
+En el año en que termina su encargo, la persona titular de la Jefatura de Gobierno saliente deberá elaborar los anteproyectos de Iniciativa de Ley de Ingresos y del Decreto en apoyo a la persona que ocupara la titularidad de la Jefatura de Gobierno electo, incluyendo sus recomendaciones, a efecto de que éste los presente al Congreso a más tardar en la fecha y en los términos a que se refiere el artículo 122 Apartado C, Base Primera, fracción V, inciso b) de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO TERCERO. Del Ejercicio del Gasto Público
 
 ### CAPÍTULO I. Del Ejercicio
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 50.
 
-El Presupuesto de Egresos será el que contenga el Decreto que apruebe el Congreso a iniciativa de la o el Jefe de Gobierno, para expensar, durante el periodo de un año contado a partir del 1ro de enero del ejercicio fiscal correspondiente, el gasto neto total que en éste se especifique, así como la clasificación administrativa, clasificación funcional y económica y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables del Gasto que el propio presupuesto señale.
+El Presupuesto de Egresos será el que contenga el Decreto que apruebe el Congreso a iniciativa de la persona titular de la Jefatura de Gobierno, para expensar, durante el periodo de un año contado a partir del 1ro de enero del ejercicio fiscal correspondiente, el gasto neto total que en éste se especifique, así como la clasificación administrativa, clasificación funcional y económica y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables del Gasto que el propio presupuesto señale.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 51.
 
-Los titulares de las Unidades Responsables del Gasto y los servidores públicos encargados de su administración adscritos a la misma Unidad Responsable del Gasto, serán los responsables del manejo y aplicación de los recursos, del cumplimiento de los calendarios presupuestales autorizados, metas y de las funciones contenidas en el presupuesto autorizado; de que se cumplan las disposiciones legales vigentes para el ejercicio del gasto; de que los compromisos sean efectivamente devengados, comprobados y justificados; de la guarda y custodia de los documentos que los soportan; de llevar un estricto control de los medios de identificación electrónica y de llevar el registro de sus operaciones conforme a las disposiciones aplicables en la materia, con sujeción a los capítulos, conceptos y partidas del clasificador por objeto del gasto que expida la Secretaría.
+Las personas titulares de las Unidades Responsables del Gasto y las personas servidoras públicas encargados de su administración adscritos a la misma Unidad Responsable del Gasto, serán los responsables del manejo y aplicación de los recursos, del cumplimiento de los calendarios presupuestales autorizados, metas y de las funciones contenidas en el presupuesto autorizado; de que se cumplan las disposiciones legales vigentes para el ejercicio del gasto; de que los compromisos sean efectivamente devengados, comprobados y justificados; de la guarda y custodia de los documentos que los soportan; de llevar un estricto control de los medios de identificación electrónica y de llevar el registro de sus operaciones conforme a las disposiciones aplicables en la materia, con sujeción a los capítulos, conceptos y partidas del clasificador por objeto del gasto que expida la Secretaría.
 
 Las Unidades Responsables del Gasto deberán contar con sistemas de control presupuestario que promuevan la programación, presupuestación, ejecución, registro e información del gasto de conformidad con los criterios establecidos en el párrafo tercero del artículo 1 de esta Ley, así como que contribuyan al cumplimiento de los objetivos y metas aprobados en el Presupuesto de Egresos.
 
 La Secretaría emitirá las reglas de carácter general para los procedimientos del ejercicio presupuestal, con apego a lo dispuesto en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 52.
 
-Los titulares de las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, Órganos de Gobierno y Autónomos de la Ciudad de México, así como los servidores públicos adscritos a estas Unidades Responsables del Gasto encargados de la administración de los recursos asignados, que ejerzan recursos aprobados en el Decreto, tendrán la obligación de cubrir las contribuciones, aprovechamientos y productos federales y locales correspondientes y, en su caso, sus accesorios, con cargo a sus presupuestos de conformidad con las disposiciones aplicables.
+Las personas titulares de las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, Órganos de Gobierno y Autónomos de la Ciudad de México, así como las personas servidoras públicas adscritos a estas Unidades Responsables del Gasto encargados de la administración de los recursos asignados, que ejerzan recursos aprobados en el Decreto, tendrán la obligación de cubrir las contribuciones, aprovechamientos y productos federales y locales correspondientes y, en su caso, sus accesorios, con cargo a sus presupuestos de conformidad con las disposiciones aplicables.
 
 Para el caso de las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, las operaciones se consolidarán y se contabilizarán en el sector central, para tal efecto, las Entidades deberán ajustarse a las disposiciones establecidas en esta Ley, en lo que a Dependencias, Órganos Desconcentrados y Alcaldías se refiere.
 
-Los titulares de las Dependencias, Alcaldías y Órganos Desconcentrados, así como las Entidades que realicen sus operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, deberán remitir oportunamente a la Secretaría la información necesaria para que ésta cumpla dentro de los plazos legales con la obligación de tramitar la declaración del Impuesto al Valor Agregado; de igual forma, deberán remitir correcta y oportunamente a la Secretaría la información necesaria para que ésta cumpla dentro de los plazos legales, con la obligación de tramitar ante la Secretaría el pago del Impuesto Sobre la Renta.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-Si la falta de cumplimiento de dichas obligaciones a cargo del Gobierno de la Ciudad de México se origina por causas imputables a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, los servidores públicos facultados que no hayan enviado oportunamente la información serán responsables del pago de actualizaciones, recargos, multas y demás accesorios que en su caso se generen.
+Las personas titulares de las Dependencias, Alcaldías y Órganos Desconcentrados, así como las Entidades que realicen sus operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, deberán remitir oportunamente a la Secretaría la información necesaria para que ésta cumpla dentro de los plazos legales con la obligación de tramitar la declaración del Impuesto al Valor Agregado; de igual forma, deberán remitir correcta y oportunamente a la Secretaría la información necesaria para que ésta cumpla dentro de los plazos legales, con la obligación de tramitar ante la Secretaría el pago del Impuesto Sobre la Renta.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Si la falta de cumplimiento de dichas obligaciones a cargo del Gobierno de la Ciudad de México se origina por causas imputables a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, las personas servidoras públicas facultados que no hayan enviado oportunamente la información serán responsables del pago de actualizaciones, recargos, multas y demás accesorios que en su caso se generen.
 
 La Secretaría, hará del conocimiento de la Secretaría de la Contraloría la falta de cumplimiento.
 
@@ -908,7 +942,9 @@ Para el ejercicio de recursos relacionados con servicios prestados entre Depende
 
 I. Cuando no exista erogación material de fondos se afectará la partida que reporte la erogación mediante el documento presupuestario respectivo, abonando a la fracción de la Ley de Ingresos que corresponda;
 
-II. En los casos que exista erogación material de fondos por pagos que deban efectuarse a terceros, se afectará la partida correspondiente, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. En los casos que exista erogación material de fondos por pagos que deban efectuarse a terceros, se afectará la partida correspondiente; y
 
 III. Las Dependencias y Órganos Desconcentrados efectuarán el pago de impuestos, derechos y servicios de acuerdo con lo previsto en la fracción I.
 
@@ -918,7 +954,9 @@ Las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades al contraer c
 
 I. Que cuenten con suficiencia presupuestal en la o las partidas que se vayan a afectar, previo a la celebración del compromiso;
 
-II. Que no impliquen obligaciones anteriores a la fecha en que se suscriban, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Que no impliquen obligaciones anteriores a la fecha en que se suscriban; y
 
 III. Que no impliquen obligaciones con cargo a presupuestos de años posteriores, salvo previa autorización de la Secretaría en los términos de la presente Ley.
 
@@ -944,7 +982,9 @@ I. Señalar con precisión su vigencia, importe total, plazo de terminación o e
 
 II. Excepto por el pago de costos financieros, en caso de retrasos en los pagos que deban realizar las Dependencias, Órganos Desconcentrados y Alcaldías bajo los contratos que celebren, en ningún caso se aceptará la estipulación de penas convencionales, ni intereses moratorios a cargo de las Dependencias, Órganos Desconcentrados y Alcaldías;
 
-III. En los casos procedentes, deberá existir la garantía correspondiente, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. En los casos procedentes, deberá existir la garantía correspondiente; y
 
 IV. Cumplir con lo establecido en esta Ley.
 
@@ -968,9 +1008,11 @@ La Secretaría comunicará las fechas de los trámites presupuestales para el ci
 
 Para la ejecución del gasto público, las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán sujetarse a las previsiones de esta Ley, su Reglamento y demás normatividad aplicable.
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 65.
 
-Las Dependencias, Órganos Desconcentrados y Alcaldías deberán llevar un registro del ejercicio de su gasto autorizado de acuerdo con las disposiciones de esta Ley, así como a las normas que para tal efecto dicte la o el Jefe de Gobierno, por conducto de la Secretaría, a fin de que consolide la contabilidad general de egresos de la Ciudad de México.
+Las Dependencias, Órganos Desconcentrados y Alcaldías deberán llevar un registro del ejercicio de su gasto autorizado de acuerdo con las disposiciones de esta Ley, así como a las normas que para tal efecto dicte la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, a fin de que consolide la contabilidad general de egresos de la Ciudad de México.
 
 ###### Artículo 66.
 
@@ -1006,13 +1048,17 @@ La Secretaría atenderá las solicitudes de pago o de fondos que las Dependencia
 
 Por lo que hace a los órganos de gobierno y autónomos, la Secretaría ministrará los fondos autorizados el Congreso, conforme el calendario financiero previamente aprobado, en términos de lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 71.
 
-Todas las erogaciones se harán por medio de una Cuenta por Liquidar Certificada la cual deberá ser elaborada y autorizado su pago por el servidor público facultado para ello o bien, podrá encomendar por escrito la autorización referida a otro servidor público de la propia Unidad Responsable del Gasto.
+Todas las erogaciones se harán por medio de una Cuenta por Liquidar Certificada la cual deberá ser elaborada y autorizado su pago por la persona servidora pública facultada para ello o bien, podrá encomendar por escrito la autorización referida a otra persona servidora pública de la propia Unidad Responsable del Gasto.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 72.
 
-La ministración se efectuará por conducto de la Secretaría a través de Cuentas por Liquidar Certificadas, elaboradas y autorizadas por los servidores públicos competentes de las Unidades Responsables del Gasto ya sea por sí o a través de las instituciones de crédito o sociedades nacionales de crédito autorizadas para tal efecto.
+La ministración se efectuará por conducto de la Secretaría a través de Cuentas por Liquidar Certificadas, elaboradas y autorizadas por las personas servidoras públicas competentes de las Unidades Responsables del Gasto ya sea por sí o a través de las instituciones de crédito o sociedades nacionales de crédito autorizadas para tal efecto.
 
 ###### Artículo 73.
 
@@ -1020,7 +1066,9 @@ Las Unidades Responsables del Gasto deberán remitir sus Cuentas por Liquidar Ce
 
 Las Cuentas por Liquidar Certificadas cumplirán con los requisitos que se establezcan en el Reglamento y en las demás disposiciones que con apego a lo dispuesto en esta Ley, emita la Secretaría para los procedimientos del ejercicio presupuestal.
 
-Los servidores públicos de las Unidades Responsables del Gasto que hayan autorizado los pagos a través de las Cuentas por Liquidar Certificadas son los directamente responsables de la elaboración, generación, tramitación, gestión e información que en éstas se contenga.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las personas servidoras públicas de las Unidades Responsables del Gasto que hayan autorizado los pagos a través de las Cuentas por Liquidar Certificadas son los directamente responsables de la elaboración, generación, tramitación, gestión e información que en éstas se contenga.
 
 ###### Artículo 74.
 
@@ -1036,7 +1084,9 @@ En caso de incumplimiento por parte de la Ciudad de México a sus obligaciones d
 
 Con el objeto de obtener las mejores condiciones en cuanto a precio, calidad, oportunidad en la adquisición de bienes o contratación de servicios y generar ahorros, las unidades administrativas consolidadoras podrán establecer compromisos a determinadas partidas de gasto con cargo a los presupuestos aprobados de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades conforme a sus requerimientos y que los cargos se realicen de manera centralizada o consolidada a través de la unidad administrativa o Entidad que haya formalizado los compromisos.
 
-Las unidades administrativas consolidadadoras (sic) instrumentarán el compromiso basándose en la suficiencia presupuestal que las propias Dependencias, Órganos Desconcentrados, Alcaldías y Entidades proporcionen. Éstas serán las responsables de prever la disponibilidad de los recursos en las partidas presupuestales para la realización de los pagos, de conformidad con la información proporcionada por la unidad administrativa o Entidad que en su caso, realice los pagos centralizados.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las unidades administrativas consolidadoras instrumentarán el compromiso basándose en la suficiencia presupuestal que las propias Dependencias, Órganos Desconcentrados, Alcaldías y Entidades proporcionen. Éstas serán las responsables de prever la disponibilidad de los recursos en las partidas presupuestales para la realización de los pagos, de conformidad con la información proporcionada por la unidad administrativa o Entidad que en su caso, realice los pagos centralizados.
 
 La unidad administrativa consolidadora informará a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades el importe de los cargos centralizados o consolidados que afectaron sus presupuestos conforme a sus requerimientos indicados en las adhesiones, a fin de que conozcan sus compromisos y puedan determinar su disponibilidad presupuestal, economías y calendarios. Asimismo, informará a las Contralorías Internas para el seguimiento correspondiente.
 
@@ -1050,7 +1100,9 @@ Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán cuid
 
 I. Que correspondan a compromisos efectivamente devengados con excepción de los anticipos previstos en esta Ley y en otros ordenamientos aplicables;
 
-II. Que se efectúen dentro de los límites de los calendarios presupuestales autorizados por la Secretaría, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Que se efectúen dentro de los límites de los calendarios presupuestales autorizados por la Secretaría; y
 
 III. Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos, entendiéndose por justificantes los documentos legales que determinen la obligación de hacer un pago y, por comprobantes, los documentos que demuestren la entrega de las sumas de dinero correspondientes.
 
@@ -1062,7 +1114,9 @@ I. Que se encuentren debidamente contabilizados al 31 de diciembre del ejercicio
 
 II. Que exista suficiencia presupuestal para esos compromisos en el año en que se cumplieron;
 
-III. Que se informe a la Secretaría, a más tardar el día 10 de enero de cada año, en los términos de esta Ley, el monto y características de su pasivo circulante, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Que se informe a la Secretaría, a más tardar el día 10 de enero de cada año, en los términos de esta Ley, el monto y características de su pasivo circulante; y
 
 IV. Que se radiquen en la Secretaría los documentos que permitan efectuar los pagos respectivos, a más tardar el último día de enero del año siguiente al del ejercicio al que corresponda el gasto.
 
@@ -1082,9 +1136,13 @@ No es aplicable lo dispuesto en este artículo, tratándose de recursos presupue
 
 Las unidades responsables del gasto que por cualquier motivo al término del ejercicio fiscal que corresponda conserve fondos presupuestales o recursos que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio. Las Unidades responsables del gasto que hayan recibido recursos federales, así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los 10 días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 23 DE ENERO DE 2020)</small>
 
-De los remanentes a los que se refieren los párrafos anteriores, se destinará como mínimo una cantidad equivalente al 30% del total, a un fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías, el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales; así como a mejorar el balance fiscal, de conformidad con las reglas que para tal efecto emita la Secretaría. Una vez que el fondo alcance el valor equivalente al 0.50% del PIB de la Ciudad de México del año inmediato anterior, los excedentes del fondo podrán ser destinados conforme a lo siguiente:
+De los remanentes a los que se refieren los párrafos anteriores, se destinará como mínimo una cantidad equivalente al 30% del total, a un fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías, el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales; así como a mejorar el balance fiscal, de conformidad con las reglas que para tal efecto emita la Secretaría.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE ENERO DE 2020)</small>
+
+Una vez que el fondo alcance el valor equivalente al 0.50% del PIB de la Ciudad de México del año inmediato anterior, los excedentes del fondo podrán ser destinados conforme a lo siguiente:
 
 > <small>(REFORMADO, G.O. 23 DE ENERO DE 2020)</small>
 
@@ -1106,11 +1164,17 @@ Los Órganos de Gobierno deberán informar al Congreso dentro de los primeros 5 
 
 El Congreso o cuando ésta (sic) se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por esta Ley. Para tal efecto, el Congreso comunicará a la Secretaría lo que resuelva al respecto.
 
-Queda prohibido realizar erogaciones, así como constituir o participar en fideicomisos, mandatos o análogos, al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo. El servidor público que incumpla con esta prohibición será sancionado en los términos de la Ley de Responsabilidades Administrativas de la Ciudad de México.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-De los movimientos que se efectúen en los términos de este artículo, la o el Jefe de Gobierno informará el Congreso en cada Informe Trimestral y al rendir la Cuenta Pública.
+Queda prohibido realizar erogaciones, así como constituir o participar en fideicomisos, mandatos o análogos, al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo. La persona servidora pública que incumpla con esta prohibición será sancionado en los términos de la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
-La Secretaría deberá de prever como parte de los recursos de dicho Fondo, las previsiones para constituir e incrementar un fondo para proveer de seguros a la vivienda de los contribuyentes del impuesto predial de la Ciudad de México, en los términos de las disposiciones que emita la o el Jefe de Gobierno.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+De los movimientos que se efectúen en los términos de este artículo, la persona titular de la Jefatura de Gobierno informará el Congreso en cada Informe Trimestral y al rendir la Cuenta Pública.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La Secretaría deberá de prever como parte de los recursos de dicho Fondo, las previsiones para constituir e incrementar un fondo para proveer de seguros a la vivienda de los contribuyentes del impuesto predial de la Ciudad de México, en los términos de las disposiciones que emita la persona titular de la Jefatura de Gobierno.
 
 ###### Artículo 81.
 
@@ -1118,17 +1182,23 @@ Solamente se podrán efectuar pagos por anticipo en los siguientes casos:
 
 I. Los establecidos en la Ley de Adquisiciones y en la Ley de Obras Públicas, ambas vigentes en la Ciudad de México, cuando las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades celebren contratos de adquisiciones o de obra pública;
 
-II. En casos excepcionales, podrá anticiparse el pago de viáticos, sin que excedan del importe que el empleado vaya a devengar en un periodo de 30 días, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. En casos excepcionales, podrá anticiparse el pago de viáticos, sin que excedan del importe que el empleado vaya a devengar en un periodo de 30 días; y
 
 III. Los demás que establezcan otros ordenamientos legales Los anticipos que se otorguen en términos de este artículo, deberán informarse a la Secretaría a fin de llevar a cabo el registro presupuestal correspondiente.
 
-Los interesados reintegrarán en todo caso las cantidades anticipadas que no hubieran devengado o erogado.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las personas interesadas reintegrarán en todo caso las cantidades anticipadas que no hubieran devengado o erogado.
 
 ###### Artículo 82.
 
 Para cada ejercicio fiscal, el Congreso deberá aprobar en el Decreto una partida presupuestal específica que será destinada a cumplimentar las resoluciones definitivas pronunciadas por los órganos jurisdiccionales competentes.
 
-En caso de que la partida presupuestal referida, autorizada por el Congreso para cada ejercicio fiscal, fuere insuficiente para darles cumplimiento a las resoluciones definitivas, la o el Jefe de Gobierno, por conducto de la Secretaría, podrá solicitar al Congreso una ampliación a la partida correspondiente para cumplimentar dichas resoluciones.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+En caso de que la partida presupuestal referida, autorizada por el Congreso para cada ejercicio fiscal, fuere insuficiente para darles cumplimiento a las resoluciones definitivas, la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, podrá solicitar al Congreso una ampliación a la partida correspondiente para cumplimentar dichas resoluciones.
 
 El Congreso, para autorizar la ampliación deberá tomar en cuenta que no se afecten las funciones del Presupuesto de Egresos y lo permitan las condiciones económicas de la hacienda pública.
 
@@ -1144,15 +1214,23 @@ Las garantías que deban constituirse a favor de las Dependencias, Órganos Desc
 
 En los contratos que comprendan varios ejercicios fiscales, deberá estipularse la obligación para el contratista, proveedor o prestador de servicios de presentar una fianza por el 10% del importe del ejercicio inicial y se incrementará con el 10% del monto autorizado para cada uno de los ejercicios subsecuentes, en la inteligencia de que mediante dicha fianza, deberán quedar garantizadas todas las obligaciones que en virtud del contrato asuma el contratista, proveedor o prestador de servicios.
 
-Para el caso de proyectos de coinversión, así como los de prestación de servicios a largo plazo en los que no se autoricen recursos públicos por parte del Gobierno de la Ciudad de México, en los primeros ejercicios en que se lleve a cabo el proyecto, los contratistas, proveedores, prestador de servicios o inversionista proveedor deberán garantizar el cumplimiento del vehículo o contrato con cuando menos el importe del 1% de su monto inicial.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-A partir del ejercicio en que se autoricen recursos públicos al contratista, proveedor o prestador de servicios o inversionista proveedor deberá garantizar mediante fianza cuando menos el 10% del monto que se autorice en dicho ejercicio.
+Para el caso de proyectos de coinversión, así como los de prestación de servicios a largo plazo en los que no se autoricen recursos públicos por parte del Gobierno de la Ciudad de México, en los primeros ejercicios en que se lleve a cabo el proyecto, las personas contratistas, proveedores, prestador de servicios o inversionista proveedor deberán garantizar el cumplimiento del vehículo o contrato con cuando menos el importe del 1% de su monto inicial.
 
-Asimismo, deberá garantizarse mediante fianza cuando menos el 10% de los montos autorizados para cada uno de los ejercicios siguientes, para que al final del contrato se encuentre garantizado por lo menos el 10% del monto total de los recursos públicos autorizados al contratista, proveedor, prestador de servicios o inversionista proveedor.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+A partir del ejercicio en que se autoricen recursos públicos a la persona contratista, proveedor o prestador de servicios o inversionista proveedor deberá garantizar mediante fianza cuando menos el 10% del monto que se autorice en dicho ejercicio.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Asimismo, deberá garantizarse mediante fianza cuando menos el 10% de los montos autorizados para cada uno de los ejercicios siguientes, para que al final del contrato se encuentre garantizado por lo menos el 10% del monto total de los recursos públicos autorizados a la persona contratista, proveedor, prestador de servicios o inversionista proveedor.
 
 La fianza de cumplimiento continuará vigente como mínimo 5 años y no deberá ser cancelada por parte de la autoridad a favor de quien se expida sino hasta que hayan quedado cubiertos los vicios ocultos que pudiere tener el proyecto.
 
-Tratándose de contratos de prestación de servicios a largo plazo, la Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento de la Ciudad de México podrá autorizar al contratista, proveedor o prestador de servicios o inversionista proveedor la presentación de una garantía distinta a la fianza sujeta a los requisitos a que se refiere el párrafo anterior.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Tratándose de contratos de prestación de servicios a largo plazo, la Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento de la Ciudad de México podrá autorizar a la persona contratista, proveedor o prestador de servicios o inversionista proveedor la presentación de una garantía distinta a la fianza sujeta a los requisitos a que se refiere el párrafo anterior.
 
 La Secretaría resolverá las solicitudes de autorización que presenten las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para admitir otra forma de garantía o eximir de ésta, respecto de actos y contratos que celebren materia de este artículo.
 
@@ -1164,7 +1242,9 @@ Las adecuaciones presupuestarias comprenderán las relativas a:
 
 I. La estructura presupuestal aprobada por el Congreso;
 
-II. Los calendarios presupuestales autorizados, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Los calendarios presupuestales autorizados; y
 
 III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos.
 
@@ -1172,7 +1252,9 @@ III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos.
 
 Las adecuaciones presupuestarias, se realizarán siempre que permitan un mejor cumplimiento de los objetivos y metas de las funciones a cargo de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, mismas que tomarán en cuenta:
 
-I. El resultado de la evaluación que realicen respecto del cumplimiento de los objetivos y metas que lleven a cabo mensualmente, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+I. El resultado de la evaluación que realicen respecto del cumplimiento de los objetivos y metas que lleven a cabo mensualmente; y
 
 II. Las situaciones coyunturales, contingentes y extraordinarias que incidan en el desarrollo de las funciones.
 
@@ -1188,17 +1270,23 @@ Tanto las autorizaciones que emita la Secretaría como los trámites de adecuaci
 
 Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que utilicen el sistema electrónico aceptarán en la forma que se prevea en las disposiciones que emita la Secretaría las consecuencias y alcance probatorio de los medios de identificación electrónica y deberán conservar los archivos electrónicos que se generen en los plazos que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 88.
 
-La o el Jefe de Gobierno, por conducto de la Secretaría, podrá modificar el contenido orgánico y financiero de las funciones de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades incluidas en el Presupuesto de Egresos cuando por razones de interés social, económico o de seguridad pública, lo considere necesario.
+La persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, podrá modificar el contenido orgánico y financiero de las funciones de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades incluidas en el Presupuesto de Egresos cuando por razones de interés social, económico o de seguridad pública, lo considere necesario.
 
-Si como consecuencia de dicha modificación la o el Jefe de Gobierno, por conducto de la Secretaría, instruye a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades a tramitar adecuaciones presupuestarias y no lo hicieren, la Secretaría aplicará dichas adecuaciones y las notificará a las mismas.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Si como consecuencia de dicha modificación la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, instruye a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades a tramitar adecuaciones presupuestarias y no lo hicieren, la Secretaría aplicará dichas adecuaciones y las notificará a las mismas.
 
 En el caso de las Alcaldías, tendrán 3 días para hacerlo o manifestar lo que a su derecho corresponda. En caso contrario la Secretaría las aplicará por su cuenta.
 
 De igual forma actuará la Secretaría para el caso que por disposición legal se encuentren obligadas a presentar adecuaciones y no las efectúen dentro de los plazos legales establecidos.
 
-Cuando el ajuste alcance o rebase en forma acumulada el 10% del presupuesto anual asignado a cada Dependencia, Órgano Desconcentrado, Alcaldías y Entidad, la o el Jefe de Gobierno, por conducto de la Secretaría, deberá solicitar la opinión al Congreso para que ésta manifieste lo conducente, informando en un capítulo especial del Informe de Avance Trimestral, la conciliación de las modificaciones realizadas, explicando a detalle los fundamentos, motivos y razonamientos de tales ajuste (sic).
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Cuando el ajuste alcance o rebase en forma acumulada el 10% del presupuesto anual asignado a cada Dependencia, Órgano Desconcentrado, Alcaldías y Entidad, la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, deberá solicitar la opinión al Congreso para que ésta manifieste lo conducente, informando en un capítulo especial del Informe de Avance Trimestral, la conciliación de las modificaciones realizadas, explicando a detalle los fundamentos, motivos y razonamientos de tales ajuste.
 
 > <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
 
@@ -1208,7 +1296,9 @@ Lo dispuesto en el párrafo anterior no será aplicable tratándose de emergenci
 
 Los Órganos Autónomos y de Gobierno, a través de sus respectivas unidades de administración, previa autorización de su órgano competente, podrán autorizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de las funciones a su cargo, siempre y cuando, emitan las normas aplicables.
 
-Dichas adecuaciones, deberán ser informadas al Jefe de Gobierno, por conducto de la Secretaría, para efectos de la integración de los Informes Trimestrales y de la Cuenta Pública.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Dichas adecuaciones, deberán ser informadas a la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, para efectos de la integración de los Informes Trimestrales y de la Cuenta Pública.
 
 ### CAPÍTULO IV. De la Disciplina Presupuestaria
 
@@ -1226,9 +1316,11 @@ Los Órganos Autónomos y de Gobierno, respetando su autonomía, evaluarán y aj
 
 Se establece como criterio de gasto eficiente, que toda adquisición tenga racionalidad económica, que sea necesaria, que cumpla un fin predeterminado, que no sea redundante y que su costo monetario sea inferior al beneficio que aporte.
 
+REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)
+
 ###### Artículo 92.
 
-En materia de gastos de publicidad, propaganda, bajo cualquier modalidad de comunicación social, que difunda como tal, los sujetos obligados por esta ley, deberán tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+En materia de gastos de publicidad, propaganda, bajo cualquier modalidad de comunicación social, que difunda como tal, los sujetos obligados por esta ley, deberán tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier persona servidora pública.
 
 Por lo que hace a televisión radio y prensa, que lleve a cabo la Administración Pública Centralizada, no podrá rebasar el 0.30% del total del Presupuesto de Egresos autorizado (sic) el Congreso en el Decreto correspondiente.
 
@@ -1250,7 +1342,9 @@ Las unidades nuevas que se adquieran no podrán costar más de 3300 veces la Uni
 
 Solo podrán exceder el costo señalado en el párrafo anterior, los vehículos blindados que se adquieran, de acuerdo con lo establecido en la presente Ley.
 
-Los vehículos oficiales al servicio de servidores públicos de la Administración Pública de la Ciudad de México deberán darse de baja cuando:
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Los vehículos oficiales al servicio de las personas servidoras públicas de la Administración Pública de la Ciudad de México deberán darse de baja cuando:
 
 a) Tengan doce años de uso, o
 
@@ -1262,27 +1356,35 @@ Los vehículos oficiales deberán de permanecer resguardados después de la jorn
 
 El uso del vehículo oficial automotor se sujetará a lo siguiente:
 
-El servidor público que utilice el vehículo oficial será directamente responsable del uso que haga del mismo y estará obligado a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La persona servidora pública que utilice el vehículo oficial será directamente responsable del uso que haga del mismo y estará obligado a:
 
 Cubrir los daños que pudiera ocasionar al vehículo a consecuencia de algún percance por negligencia, conducción irresponsable o en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares, sin que medie prescripción médica.
 
 Para tal efecto deberá realizar el pago de infracciones o multas viales que pudieran generarse, hasta la liberación del vehículo oficial.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 95.
 
-Los Sujetos obligados por esta Ley, únicamente podrán realizar un viaje oficial al extranjero, con excepción de la persona titular de la Jefatura de Gobierno, a quien el Congreso Local podrá autorizar los viajes necesarios para el desempeño de su actividad.
+Los Sujetos obligados por esta Ley, únicamente podrán realizar un viaje oficial al extranjero con el uso de recursos públicos, con excepción de las personas servidoras públicas que por la naturaleza de sus funciones tengan la necesidad de realizar más viajes. Dicha excepción tendrá que ser acreditada ante el Congreso local y la Secretaría de la Contraloría.
 
-En todos los casos, los funcionarios que efectúen el viaje oficial deberán remitir un informe del propósito de su viaje, los gastos efectuados y de los resultados obtenidos al Congreso Local y a la Secretaría de la Contraloría dentro del plazo de 15 días hábiles, una vez concluido el mismo.
+La persona titular de la Jefatura de Gobierno, podrá ausentarse del territorio nacional hasta por siete días, informando previamente de los motivos de la ausencia, al Congreso local o a la Comisión Permanente del mismo en su caso. En ausencias mayores a siete días, se requerirá permiso de dichas instancias.
+
+En todos los casos, las personas funcionarias que efectúen el viaje oficial deberán remitir un informe del propósito de su viaje, los gastos efectuados y de los resultados obtenidos al Congreso local y a la Secretaría de la Contraloría dentro del plazo de 15 días hábiles, una vez concluido el mismo.
 
 ###### Artículo 96.
 
 Los Bienes y Servicios de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades se deberán sujetar y reducir al máximo, en el gasto de los servicios de telefonía y fotocopiado, energía eléctrica, combustibles, arrendamientos, viáticos, honorarios, alimentación, mobiliario, remodelación de oficinas, equipo de telecomunicaciones, bienes informáticos, pasajes, congresos, convenciones, exposiciones, seminarios, estudios e investigaciones, a lo estrictamente indispensable.
 
-Todo servidor público que tenga acceso a los bienes antes referidos, no podrá disponer de ellos para uso personal, o para terceros, quien utilice los servicios arriba enlistados para uso no vinculado a su cargo en cantidad excesiva, deberá reembolsar el doble de su costo, sin menoscabo de las responsabilidades del orden civil o penal que pudieran derivar de la violación del presente ordenamiento.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-De la Secretaría de la Contraloría establecerá las medidas necesarias para determinar que un servidor público utiliza los servicios arriba enlistados para uso no vinculado a su cargo. La Secretaría, establecerá los valores unitarios que se consideran un uso excesivo y hará públicos los costos de referencia para el reembolso correspondiente.
+Toda persona servidora pública que tenga acceso a los bienes antes referidos, no podrá disponer de ellos para uso personal, o para terceros, quien utilice los servicios arriba enlistados para uso no vinculado a su cargo en cantidad excesiva, deberá reembolsar el doble de su costo, sin menoscabo de las responsabilidades del orden civil o penal que pudieran derivar de la violación del presente ordenamiento.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+De la Secretaría de la Contraloría establecerá las medidas necesarias para determinar que una persona servidora pública utiliza los servicios arriba enlistados para uso no vinculado a su cargo. La Secretaría, establecerá los valores unitarios que se consideran un uso excesivo y hará públicos los costos de referencia para el reembolso correspondiente.
 
 Los bienes informáticos no podrán tener más de 5 años de uso. En su caso, se adoptarán soluciones de software abierto.
 
@@ -1292,13 +1394,17 @@ Ninguna adquisición podrá autorizarse si el precio propuesto se encuentra en u
 
 Lo dispuesto en este Capítulo no será aplicable a las adquisiciones financiadas, total o parcialmente con cargo a recursos federales, quedando sujetas a la normatividad federal aplicable, siempre y cuando dicha normatividad prevea las adquisiciones reguladas por esta Ley.
 
-Los servidores públicos que no cumplan con lo establecido en este artículo incurrirán en falta grave.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las personas servidoras públicas que no cumplan con lo establecido en este artículo incurrirán en falta grave.
 
 ###### Artículo 97.
 
 El uso de Internet con costo al presupuesto público de los Sujetos obligados por esta Ley, debe ser exclusivamente para fines oficiales.
 
-Las comunicaciones oficiales entre los entes y servidores públicos de la ciudad, así como la prestación de los servicios cuya naturaleza lo permita, deberán hacerse preferentemente de manera electrónica, informática o telemática; con la finalidad de evitar en la medida de los (sic) posible la utilización de papel; insumos de reproducción física de documentos, servicios de mensajería, pasajes, utilización de vehículos y sus combustibles.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las comunicaciones oficiales entre los entes y personas servidoras públicas de la Ciudad, así como la prestación de los servicios cuya naturaleza lo permita, deberán hacerse preferentemente de manera electrónica, informática o telemática; con la finalidad de evitar en la medida de los (sic) posible la utilización de papel; insumos de reproducción física de documentos, servicios de mensajería, pasajes, utilización de vehículos y sus combustibles.
 
 ###### Artículo 98.
 
@@ -1308,13 +1414,17 @@ En caso de omisión a lo señalado, el titular será el responsable directo de s
 
 ### CAPÍTULO V. Pago de Remuneraciones y Servicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 99.
 
-Todo servidor público recibe una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que es proporcional a sus responsabilidades.
+Toda persona servidora pública recibe una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que es proporcional a sus responsabilidades.
 
 Se integrará por las retribuciones nominales y adicionales de carácter extraordinario establecidas de manera objetiva en el Presupuesto de Egresos. Las personas servidoras públicas no podrán gozar de bonos, prestaciones, compensaciones, servicios personales o cualquier otro beneficio económico o en especie que no se cuantifique como parte de su remuneración o no esté determinado en la ley. No podrá cubrirse ninguna remuneración mediante el ejercicio de partidas cuyo objeto sea diferente en el presupuesto correspondiente.
 
-Los servidores públicos están obligados a reportar a su superior jerárquico dentro de los siguientes 30 días naturales, cualquier pago en demasía respecto de lo que corresponda según las disposiciones legales vigentes. Los titulares de los entes públicos deberán presentar el reporte a la unidad administrativa responsable.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las personas servidoras públicas están obligadas a reportar a su superior jerárquico dentro de los siguientes 30 días naturales, cualquier pago en demasía respecto de lo que corresponda según las disposiciones legales vigentes. Las personas titulares de los entes públicos deberán presentar el reporte a la unidad administrativa responsable.
 
 ###### Artículo 100.
 
@@ -1328,27 +1438,43 @@ III. Racionalidad: Criterio remunerativo en función a un análisis coherente, r
 
 IV. Fiscalización: La remuneración es objeto de vigilancia, control y revisión por las autoridades competentes;
 
-V. Igualdad: La remuneración se compensa en igualdad de condiciones a puestos iguales en funciones, responsabilidades, jornada laboral y condición de eficiencia, o cualquier otra que atente contra la dignidad humana, sin perjuicio de los derechos adquiridos;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-VI. Transparencia y rendición de cuentas: la remuneración es pública y toda autoridad está obligada a informar y a rendir cuentas con veracidad y oportunidad, privilegiando el principio de máxima publicidad, en los términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+V. Igualdad: La remuneración se compensa en igualdad de condiciones a puestos iguales en funciones, responsabilidades, jornada laboral y condición de eficiencia, o cualquier otra que atente contra la dignidad humana, sin perjuicio de los derechos adquiridos; y
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+VI. Transparencia y rendición de cuentas: La remuneración es pública y toda autoridad está obligada a informar y a rendir cuentas con veracidad y oportunidad, privilegiando el principio de máxima publicidad, en los términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 101.
 
-No forman parte de la remuneración los recursos que perciban los servidores públicos, en términos de ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo, relacionados con jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos, ni los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+No forman parte de la remuneración los recursos que perciban las personas servidoras públicas, en términos de ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo, relacionados con jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos, ni los servicios de seguridad que requieran las personas servidoras públicas por razón del cargo desempeñado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 102.
 
-Para la determinación de la remuneración de los servidores públicos de la Ciudad de México se consideran las siguientes bases:
+Para la determinación de la remuneración de las personas servidoras públicas de la Ciudad de México se consideran las siguientes bases:
 
-I. Ningún servidor público podrá recibir una remuneración o retribución por el desempeño de su función, empleo, cargo o comisión mayor a la establecida para el Jefe de Gobierno de la Ciudad de México, establecido en el Presupuesto de Egresos de la Ciudad de México.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-II. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que:
+I. Ninguna persona servidora pública podrá recibir una remuneración o retribución por el desempeño de su función, empleo, cargo o comisión mayor a la establecida para persona titular de la Jefatura de Gobierno de la Ciudad de México, establecido en el Presupuesto de Egresos de la Ciudad de México.
 
-a) El excedente sea consecuencia del desempeño de varios empleos públicos, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que:
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+a) El excedente sea consecuencia del desempeño de varios empleos públicos; y
 
 b) La remuneración que sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función.
 
-III. Ningún servidor público deberá recibir un salario menor al doble del salario mínimo general vigente en el país. Bajo las anteriores excepciones, la suma de las retribuciones no deberá exceder de la mitad de la remuneración establecida para el Jefe de Gobierno de la Ciudad de México establecido en el Presupuesto de Egresos de la Ciudad de México.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Ninguna persona servidora pública deberá recibir un salario menor al doble del salario mínimo general vigente en el país. Bajo las anteriores excepciones, la suma de las retribuciones no deberá exceder de la mitad de la remuneración establecida para la persona titular de la Jefatura de Gobierno de la Ciudad de México establecido en el Presupuesto de Egresos de la Ciudad de México.
 
 ###### Artículo 103.
 
@@ -1374,9 +1500,11 @@ De la presupuestación de las remuneraciones.
 
 El pago de remuneraciones al personal se hará conforme al puesto o categoría que se les asigne, de conformidad con los tabuladores autorizados por la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 107.
 
-Durante el procedimiento de programación y presupuestación establecido en esta Ley, los poderes Legislativo, Ejecutivo y Judicial, así como los entes con autonomía o independencia respecto de las autoridades locales de la Ciudad de México, reconocidas por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política de la Ciudad de México, por conducto de sus respectivas unidades de administración u órganos de gobierno deben incluir dentro de sus proyectos de presupuesto los tabuladores de las remuneraciones que se propone perciban los servidores públicos que prestan sus servicios en cada ejecutor de gasto.
+Durante el procedimiento de programación y presupuestación establecido en esta Ley, los poderes Legislativo, Ejecutivo y Judicial, así como los entes con autonomía o independencia respecto de las autoridades locales de la Ciudad de México, reconocidas por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política de la Ciudad de México, por conducto de sus respectivas unidades de administración u órganos de gobierno deben incluir dentro de sus proyectos de presupuesto los tabuladores de las remuneraciones que se propone perciban las personas servidoras públicas que prestan sus servicios en cada ejecutor de gasto.
 
 Las remuneraciones siempre deberán estar desglosadas en las percepciones ordinarias y, en su caso, las extraordinarias por cada concepto en que éstas sean otorgadas, considerando que:
 
@@ -1384,47 +1512,67 @@ a) Las percepciones ordinarias incluyen la totalidad de los elementos fijos de l
 
 b) Las percepciones extraordinarias consideran los elementos variables de dicha remuneración, la cual sólo podrá cubrirse conforme a los requisitos y con la periodicidad establecida en las disposiciones aplicables.
 
-c) Las contribuciones a cargo de los servidores públicos que se causen por las percepciones señaladas en los dos incisos anteriores, forman parte de su remuneración.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+c) Las contribuciones a cargo de las personas servidoras públicas que se causen por las percepciones señaladas en los dos incisos anteriores, forman parte de su remuneración.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 108.
 
-Únicamente podrán concederse y cubrirse pagos por servicios prestados en el desempeño de la función pública, tales como pensiones, jubilaciones, compensaciones o cualquiera otra de semejante naturaleza, cuando tales prestaciones se encuentren expresamente asignadas por una ley o decreto legislativo o cuando estén señaladas en contrato colectivo o condiciones generales de trabajo. Las liquidaciones al término de la relación de trabajo en el servicio público sólo serán las que establezca la ley o decreto legislativo, el contrato colectivo de trabajo o las condiciones generales de trabajo y no podrán concederse por el solo acuerdo de los titulares de los entes públicos ni de sus órganos de gobierno. Los servidores públicos de elección popular no tienen derecho a liquidación o compensación alguna por el término de su mandato. Los recursos efectivamente erogados por los conceptos definidos en los párrafos anteriores, se informan en la cuenta pública correspondiente, haciendo expreso señalamiento de las disposiciones legales, contractuales o laborales que les dan fundamento.
+Únicamente podrán concederse y cubrirse pagos por servicios prestados en el desempeño de la función pública, tales como pensiones, jubilaciones, compensaciones o cualquiera otra de semejante naturaleza, cuando tales prestaciones se encuentren expresamente asignadas por una ley o decreto legislativo o cuando estén señaladas en contrato colectivo o condiciones generales de trabajo. Las liquidaciones al término de la relación de trabajo en el servicio público sólo serán las que establezca la ley o decreto legislativo, el contrato colectivo de trabajo o las condiciones generales de trabajo y no podrán concederse por el solo acuerdo de las personas titulares de los entes públicos ni de sus órganos de gobierno. Las personas servidores (sic) públicas de elección popular no tienen derecho a liquidación o compensación alguna por el término de su mandato. Los recursos efectivamente erogados por los conceptos definidos en los párrafos anteriores, se informan en la cuenta pública correspondiente, haciendo expreso señalamiento de las disposiciones legales, contractuales o laborales que les dan fundamento.
 
 ###### Artículo 109.
 
 Los créditos, préstamos y anticipos de remuneraciones sólo podrán concederse cuando una ley o decreto, contrato colectivo o condiciones generales de trabajo así lo permitan. Los recursos erogados por estos conceptos se informan en la cuenta pública, haciendo expreso señalamiento de las disposiciones legales, contractuales o laborales que les dan fundamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 110.
 
-Ningún servidor público de la Ciudad de México recibirá una remuneración o retribución por el desempeño de su función, empleo, cargo o comisión mayor a la establecida para la persona titular de la jefatura de gobierno, mismo que no podrá ser mayor a 54 veces al salario mínimo general vigente.
+Ninguna persona servidora pública de la Ciudad de México recibirá una remuneración o retribución por el desempeño de su función, empleo, cargo o comisión mayor a la establecida para la persona titular de la Jefatura de Gobierno, mismo que no podrá ser mayor a 54 veces al salario mínimo general vigente.
 
 En el Proyecto de Presupuesto de Egresos se deberá presentar el tabulador de sueldos y salarios de mandos medios y superiores de la Administración Pública u homólogo.
 
-Ningún servidor público, pueden tener una remuneración igual o mayor que su superior jerárquico.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Ninguna persona servidora pública, pueden tener una remuneración igual o mayor que su superior jerárquico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 111.
 
-A ningún servidor público de la Ciudad de México se le autorizará viajes en primera clase, bonos o percepciones extraordinarias, gastos de representación ni la contratación de seguros privados de gastos médicos, seguros de vida y seguro de separación individualizada, todos los servidores públicos recibirán los beneficios del sistema público de seguridad social correspondiente.
+A ninguna persona servidora pública de la Ciudad de México se le autorizarán viajes en primera clase, bonos o percepciones extraordinarias, gastos de representación ni la contratación de seguros privados de gastos médicos o seguros de separación individualizada, con excepción de los seguros obligatorios que la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado establece, todas las personas servidoras públicas recibirán los beneficios del sistema público de seguridad social correspondiente.
 
-Sólo se podrá autorizar la contratación de seguros de gastos médicos y seguros de vida a los servidores públicos cuya función esté relacionada con la Seguridad Ciudadana, Gestión de Riesgos y Servicios de Emergencia.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-Solamente contarán con Secretario Particular la o el Jefe de Gobierno, los Secretarios, las o los Alcaldes y los Subsecretarios o puestos homólogos. Queda prohibida la creación de plazas de Secretario Privado o equivalente.
+Sólo se podrá autorizar la contratación de seguros de gastos médicos y seguros de vida a las personas servidoras públicas cuya función esté relacionada con la Seguridad Ciudadana, Gestión de Riesgos y Servicios de Emergencia.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Solamente contarán con persona Secretaria Particular la persona titular de la Jefatura de Gobierno, las o los Secretarios, las personas titulares de las Alcaldías y las Subsecretarias o puestos homólogos. Queda prohibida la creación de plazas de Secretario Privado o equivalente.
 
 Sólo habrá, como máximo, cinco asesores por Secretaría.
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 112.
 
-Ningún servidor público podrá disponer de los servicios de escolta, seguridad privada, policías auxiliares o bancarios, con cargo al erario público, ni utilizar automóviles blindados, con excepción en caso de ser necesario de los titulares de entes públicos con responsabilidades en materia de seguridad, procuración e impartición de justicia y de aquellos servidores públicos que requieran en atención a sus funciones, previa autorización del superior jerárquico.
+Ninguna persona servidora pública podrá disponer de los servicios de escolta, seguridad privada, policías auxiliares o bancarios, con cargo al erario público, ni utilizar automóviles blindados, con excepción en caso de ser necesario de las personas titulares de entes públicos con responsabilidades en materia de seguridad, procuración e impartición de justicia y de aquellas personas servidoras públicas que requieran en atención a sus funciones, previa autorización del superior jerárquico.
 
-Será causa de responsabilidad administrativa de los servidores públicos que no cumplan con lo establecido en el presente artículo.
+Será causa de responsabilidad administrativa de las personas servidoras públicas que no cumplan con lo establecido en el presente artículo.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 113.
 
-Los Órganos de Gobierno y Autónomos ajustarán sus criterios de economía y gasto eficiente con el fin de que el sueldo de los servidores y funcionarios públicos no sea mayor al salario de la o el Jefe de Gobierno de la Ciudad de México.
+Los Órganos de Gobierno y Autónomos ajustarán sus criterios de economía y gasto eficiente con el fin de que el sueldo de las personas servidoras públicas y funcionarias públicas no sea mayor al salario de la persona titular de la Jefatura de Gobierno de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 114.
 
-No procederá hacer pago alguno por concepto de servicios personales a servidores públicos de mandos medios y superiores de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades cuyas estructuras orgánicas básicas o las modificaciones a las mismas, no hubieran sido aprobadas y dictaminadas por la Secretaría de la Contraloría.
+No procederá hacer pago alguno por concepto de servicios personales a personas servidoras públicas de mandos medios y superiores de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades cuyas estructuras orgánicas básicas o las modificaciones a las mismas, no hubieran sido aprobadas y dictaminadas por la Secretaría de la Contraloría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2020)</small>
 
@@ -1434,17 +1582,23 @@ La Secretaría está facultada para emitir las normas en las que se establezca:
 
 I. Los casos en que proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. Los interesados podrán optar por el empleo o comisión que les convenga cuando se dictamine que sus empleos no son compatibles;
 
-II. Los requisitos para efectuar el pago de las remuneraciones al personal, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-III. Los casos en que proceda la creación de nuevas plazas se hará sin incrementar el presupuesto asignado en la partida correspondiente. Las reglas a que se refiere esta fracción deberá expedirlas conjuntamente la Secretaría de la Contraloría y la Secretaría en el ámbito de sus competencias.
+II. Los requisitos para efectuar el pago de las remuneraciones al personal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Los casos en que proceda la creación de nuevas plazas se hará sin incrementar el presupuesto asignado en la partida correspondiente. Las reglas a que se refiere esta fracción deberá expedirlas conjuntamente la Secretaría de la Contraloría y la Secretaría en el ámbito de sus competencias; y
 
 > <small>(ADICIONADA, G.O. 4 DE MARZO DE 2020)</small>
 
 IV. Los requisitos y plazos para el pago, en caso de proceder, de aguinaldos, indemnizaciones y cualquier otra remuneración adicional a que tengan derecho las personas servidoras públicas de las Dependencias, Órganos Desconcentrados y Alcaldías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 116.
 
-Cuando algún servidor público perteneciente a las Dependencias, Órganos Desconcentrados y Alcaldías, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos y salarios integrales, así como haberes que estuviere percibiendo en esa fecha. Con excepción del personal docente, las pagas de defunción sólo se cubrirán en una sola plaza, aún cuando la persona fallecida hubiese ocupado dos o más de éstas, en cuyo caso se cubrirán con base en la que tenga una mayor remuneración.
+Cuando alguna persona servidora pública perteneciente a las Dependencias, Órganos Desconcentrados y Alcaldías, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos y salarios integrales, así como haberes que estuviere percibiendo en esa fecha. Con excepción del personal docente, las pagas de defunción sólo se cubrirán en una sola plaza, aun cuando la persona fallecida hubiese ocupado dos o más de éstas, en cuyo caso se cubrirán con base en la que tenga una mayor remuneración.
 
 Para que se tenga derecho a las pagas de defunción es indispensable que la persona fallecida no se hubiere encontrado disfrutando de licencia sin goce de sueldo superior a tres meses, excepto cuando se trate de licencia por enfermedad.
 
@@ -1458,7 +1612,9 @@ El término para que se consume la prescripción a que refiere el párrafo prime
 
 La acción para exigir el pago de las remuneraciones del personal dependiente del Gobierno de la Ciudad de México, que a continuación se indican, prescribirá en un año contado a partir de la fecha en que sean devengadas o se tenga derecho a percibirlas:
 
-I. Los sueldos, salarios, honorarios, emolumentos, sobresueldos, compensaciones y demás remuneraciones del personal, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+I. Los sueldos, salarios, honorarios, emolumentos, sobresueldos, compensaciones y demás remuneraciones del personal; y
 
 II. Las recompensas a cargo del erario de la Ciudad de México.
 
@@ -1468,13 +1624,17 @@ La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
 Los movimientos que realicen las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades a sus estructuras orgánicas ocupacionales y salariales, así como a las plantillas de personal, deberán realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso incrementarán el presupuesto para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas que autorice la Secretaría en el ámbito de sus respectivas atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 119.
 
-Las remuneraciones adicionales por jornadas u horas extraordinarias, primas dominicales y guardias, no excederán a los límites legales, a las estrictamente indispensables y deberán cubrirse con cargo al presupuesto aprobado por el Congreso, salvo los casos extraordinarios que autorice previamente la Secretaría en el ámbito de su competencia.
+Las remuneraciones adicionales por jornadas u horas extraordinarias, primas dominicales y guardias no excederán a los límites legales, a las estrictamente indispensables y deberán cubrirse con cargo al presupuesto aprobado por el Congreso, salvo los casos extraordinarios que autorice previamente la Secretaría en el ámbito de su competencia.
 
 Tratándose de remuneraciones adicionales por jornadas y por horas extraordinarias y otras prestaciones del personal que labora en las Entidades que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales. Las remuneraciones adicionales referidas, así como otras prestaciones se regularán por las disposiciones que establezcan la Secretaría y en el caso de las Entidades además por las disposiciones que emita su órgano de gobierno.
 
-Las contrataciones de trabajadores eventuales se sujetarán a los lineamientos que emita la Secretaría y al presupuesto aprobado por el Congreso, salvo los casos extraordinarios que autorice previamente la Secretaría, o cuando se cubran con recursos adicionales de aplicación automática, en éste último caso, se deberá contar con la autorización de la Secretaría y en el caso de las Alcaldías únicamente de la o el Alcalde.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las contrataciones de trabajadores eventuales se sujetarán a los lineamientos que emita la Secretaría y al presupuesto aprobado por el Congreso, salvo los casos extraordinarios que autorice previamente la Secretaría, o cuando se cubran con recursos adicionales de aplicación automática, en éste último caso, se deberá contar con la autorización de la Secretaría y en el caso de las Alcaldías únicamente de la persona titular de la Alcaldía.
 
 En ningún supuesto se deberá otorgar remuneración adicional a los miembros que participen en los Órganos de Gobierno o de vigilancia, comités o subcomités instalados, al interior de la Administración Pública.
 
@@ -1486,7 +1646,9 @@ Las plazas de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades
 
 No se permitirán traspasos de recursos que en cualquier forma afecten las asignaciones del capítulo de servicios personales aprobadas por el Congreso, excepto los casos que autorice la Secretaría, de conformidad con la normatividad aplicable.
 
-Asimismo, cuando se trate de readscripción de plazas, se deberá efectuar la transferencia de asignaciones presupuestales del capítulo de servicios personales a la o el Alcalde o a la Dependencia a la que se adscriban.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Asimismo, cuando se trate de readscripción de plazas, se deberá efectuar la transferencia de asignaciones presupuestales del capítulo de servicios personales a la persona titular de la Alcaldía o a la Dependencia a la que se adscriban.
 
 ###### Artículo 122.
 
@@ -1520,23 +1682,37 @@ VI. Incorporar, en su caso, acciones de corresponsabilidad por parte de los bene
 
 VII. Incorporar el enfoque de equidad de género;
 
-VIII. Procurar que el procedimiento para el acceso y cumplimiento de los requisitos por parte de la población beneficiaria, no le representen a ésta una elevada dificultad y costo en su cumplimiento, cuidando en todo momento, la objetividad, confiabilidad y veracidad de la información; IX (SIC). Procurar que el procedimiento y mecanismo para el otorgamiento de los beneficios sea el medio más eficaz y eficiente y, de ser posible, permita que otras acciones puedan ser canalizadas a través de éste;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+VIII. Procurar que el procedimiento para el acceso y cumplimiento de los requisitos por parte de la población beneficiaria, no le representen a ésta una elevada dificultad y costo en su cumplimiento, cuidando en todo momento, la objetividad, confiabilidad y veracidad de la información;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+IX. Procurar que el procedimiento y mecanismo para el otorgamiento de los beneficios sea el medio más eficaz y eficiente y, de ser posible, permita que otras acciones puedan ser canalizadas a través de éste;
 
 X. Garantizar que los recursos se canalicen exclusivamente a la población objetivo;
 
-XI. Especificar los indicadores que permitan la evaluación del cumplimiento de sus objetivos, su desempeño e impacto en la población beneficiaria, así como el costo administrativo de su operación, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+XI. Especificar los indicadores que permitan la evaluación del cumplimiento de sus objetivos, su desempeño e impacto en la población beneficiaria, así como el costo administrativo de su operación; y
 
 XII. Obligarse a publicar el padrón de beneficiarios.
 
 En el caso de que no cuenten con dicho padrón, deberán manejarse mediante convocatoria abierta, la cual deberá publicarse en la Gaceta y en periódicos de amplia circulación y en las oficinas del gobierno y en ningún caso se podrán etiquetar o predeterminar.
 
-Podrán otorgarse subsidios, apoyos o ayudas a personas físicas o morales individuales, siempre que medie autorización previa del titular de las Dependencias, Órganos Desconcentrados, Alcaldías o Entidades, en la que se justifique la procedencia del otorgamiento. Los titulares de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que ejerzan recursos por los conceptos a que se refiere este artículo, deberán crear un padrón único de beneficiarios de los programas sociales cuya ejecución esté a su cargo.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-Se exceptúa de lo anterior los subsidios, apoyos o ayudas que se otorguen excepcionalmente, a personas físicas o morales siempre que medie autorización previa del titular de las Dependencias, Órganos Desconcentrados, Alcaldías o Entidades en las que se justifique la procedencia del otorgamiento.
+Podrán otorgarse subsidios, apoyos o ayudas a personas físicas o morales individuales, siempre que medie autorización previa de la persona titular de las Dependencias, Órganos Desconcentrados, Alcaldías o Entidades, en la que se justifique la procedencia del otorgamiento. Las personas titulares de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que ejerzan recursos por los conceptos a que se refiere este artículo, deberán crear un padrón único de beneficiarios de los programas sociales cuya ejecución esté a su cargo.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Se exceptúa de lo anterior los subsidios, apoyos o ayudas que se otorguen excepcionalmente, a personas físicas o morales siempre que medie autorización previa de la persona titular de las Dependencias, Órganos Desconcentrados, Alcaldías o Entidades en las que se justifique la procedencia del otorgamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 125.
 
-La o el Jefe de Gobierno, previa autorización del Congreso, podrá autorizar subsidios con cargo al Presupuesto de Egresos. Dichos subsidios sólo se aprobarán para la consecución de los objetivos de las funciones contenidos en el presupuesto señalado o bien, cuando se considere de beneficio social y para el pago de las contribuciones establecidas en los capítulos I, II, III, IV, V, VI, VIII y IX en sus secciones Primera, Tercera, Cuarta, Quinta y Octava, del Título Tercero del Libro Primero del Código.
+La persona titular de la Jefatura de Gobierno, previa autorización del Congreso, podrá autorizar subsidios con cargo al Presupuesto de Egresos. Dichos subsidios sólo se aprobarán para la consecución de los objetivos de las funciones contenidos en el presupuesto señalado o bien, cuando se considere de beneficio social y para el pago de las contribuciones establecidas en los capítulos I, II, III, IV, V, VI, VIII y IX en sus secciones Primera, Tercera, Cuarta, Quinta y Octava, del Título Tercero del Libro Primero del Código.
 
 La autorización a que se refiere el párrafo anterior y el acuerdo de carácter general que se refiere en esta ley, no será necesaria en caso de resoluciones individuales.
 
@@ -1544,27 +1720,31 @@ La autorización a que se refiere el párrafo anterior y el acuerdo de carácter
 
 En la resolución que otorgue el subsidio se determinará la forma en que deberá aplicarse el mismo por parte del subsidiado, quien proporcionará a la Secretaría la información que se les solicite sobre la aplicación que haga de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 127.
 
-Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar subsidios, donativos, apoyos y/o ayudas, a los fideicomisos, siempre y cuando cumplan con lo que a continuación se señala y lo dispuesto en su Reglamento.
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar subsidios, donativos, apoyos y/o ayudas, a los fideicomisos, siempre y cuando cumplan con lo que a continuación se señala y lo dispuesto en su Reglamento:
 
 I. Los subsidios, donativos, apoyos y ayudas en numerario deberán otorgarse en los términos de esta Ley y su Reglamento;
 
 II. Los recursos se identificarán específicamente en una subcuenta que deberá reportarse en el informe trimestral, conforme lo establezca el Reglamento, identificando los ingresos, incluyendo rendimientos financieros del periodo, egresos, así como su destino y el saldo;
 
-III. En el caso de fideicomisos constituidos por particulares, la suma de los recursos públicos otorgados no podrá representar más del 50% del saldo en su patrimonio neto, salvo en el caso de que se cuente con autorización de los titulares para incrementar ese porcentaje, informando de ello a la Secretaría y a la Secretaría de la Contraloría, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. En el caso de fideicomisos constituidos por particulares, la suma de los recursos públicos otorgados no podrá representar más del 50% del saldo en su patrimonio neto, salvo en el caso de que se cuente con autorización de las personas titulares para incrementar ese porcentaje, informando de ello a la Secretaría y a la Secretaría de la Contraloría; y
 
 IV. Si existe compromiso recíproco de los particulares y de la Ciudad de México para otorgar recursos al patrimonio y aquéllos incumplen, el Gobierno de la Ciudad de México, por conducto de la Dependencia, Órgano Desconcentrado, Alcaldía y Entidad con cargo a cuyo a cuyo (sic) presupuesto se hayan otorgado los recursos, suspenderá las aportaciones subsecuentes.
 
 Los recursos aportados mantienen su naturaleza jurídica de recursos públicos, para efectos de su fiscalización y transparencia.
 
-> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 128.
 
-Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar donativos, apoyos y ayudas para atender contingencias, emergencias, resolver demandas, problemáticas identificadas de carácter especial, temporal y emergente, así como para la realización de actividades que contribuyan al beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, siempre que cuenten con suficiencia presupuestal y se cumplan con los requisitos que establece el artículo 129 y las disposiciones que señale el Reglamento.
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar donativos, apoyos y ayudas para atender contingencias, emergencias, resolver demandas, problemáticas identificadas de carácter especial, temporal y emergente, así como para la realización de actividades que contribuyan al beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, siempre que cuenten con suficiencia presupuestal y se cumplan con los requisitos que señale el Reglamento.
 
-Los apoyos, ayudas y los donativos deberán ser autorizados expresamente por el titular de la Dependencia, Alcaldía y Órgano Desconcentrado. Tratándose de Entidades la autorización la otorgará su órgano de gobierno. La facultad para otorgar la autorización será indelegable. Los lineamientos de operación de las acciones sociales serán remitidos al consejo de evaluación del desarrollo social para su valoración y en su caso aprobación para los efectos señalados en el artículo 129.
+Los apoyos, ayudas y los donativos deberán ser autorizados expresamente por la persona titular de la Dependencia, Alcaldía y Órgano Desconcentrado. Tratándose de Entidades la autorización la otorgará su órgano de gobierno. La facultad para otorgar la autorización será indelegable.
 
 ###### Artículo 129.
 
@@ -1572,7 +1752,9 @@ Con el propósito de elevar el impacto de los recursos, evitar duplicidades en l
 
 En caso de creación o modificación de los programas sociales de las Alcaldías, a que se refiere el párrafo anterior, el Comité de Planeación del Desarrollo, comunicará a sus titulares, su resolución en un plazo de 10 días hábiles, para que éstos manifiesten lo conducente dentro de los cinco días hábiles siguientes a la fecha de notificación.
 
-En caso, de que durante dicho plazo el titular de la Alcaldía respectiva no se manifieste, quedará firme la resolución emitida por el Comité de Planeación del Desarrollo.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+En caso, de que durante dicho plazo la persona titular de la Alcaldía respectiva no se manifieste, quedará firme la resolución emitida por el Comité de Planeación del Desarrollo.
 
 Las Alcaldías proporcionarán al Comité de Planeación del Desarrollo, a más tardar el 31 de enero, la relación de programas o acciones que tengan tales propósitos, a fin de que dicho Comité emita opinión sobre la posible duplicidad de esfuerzos y lo haga del conocimiento de las Alcaldías, así como de las Dependencias, Órganos Desconcentrados y Entidades, a más tardar en el mes de febrero.
 
@@ -1628,9 +1810,13 @@ f) Debe definirse la forma de realizar el trámite;
 
 g) Sólo podrán exigirse los datos y documentos anexos estrictamente necesarios para tramitar la solicitud y acreditar si el potencial beneficiario cumple con los criterios de elegibilidad;
 
-h) Se deberán definir con precisión los plazos que tiene el supuesto beneficiario, para realizar el trámite, así como el plazo de prevención y el plazo máximo de resolución de la autoridad, y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-i) Se deberán especificar las unidades administrativas ante quienes se realiza el tramite o, en caso, si hay algún mecanismo alterno.
+h) Se deberán definir con precisión los plazos que tiene el supuesto beneficiario, para realizar el trámite, así como el plazo de prevención y el plazo máximo de resolución de la autoridad;
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+i) Se deberán especificar las unidades administrativas ante quienes se realiza el tramite o, en caso, si hay algún mecanismo alterno; y
 
 j) Las reglas de operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
 
@@ -1656,21 +1842,27 @@ Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que reciban d
 
 Los mecanismos plurianuales de gasto son todos aquellos instrumentos legales, financieros y económicos previstos en esta ley y otros ordenamientos legales que permiten a la Ciudad de México diseñar, ejecutar y evaluar una política presupuestal de mediano y largo plazo y, en específico, presentar Presupuestos Plurianuales, realizar proyectos de prestación de servicios a largo plazo o arrendamientos a largo plazo y proyectos de coinversión, sin perjuicio de cualquier otra figura análoga determinada o determinable en la normatividad.
 
-La o el Jefe de Gobierno integrará en el proyecto de Presupuesto de Egresos las asignaciones a dichos instrumentos. Las asignaciones que apruebe el Congreso estarán garantizadas y no estarán sujetas a la disponibilidad presupuestal de los ejercicios siguientes. Corresponderá al Jefe de Gobierno proponer los mecanismos para garantizar los recursos necesarios para su financiamiento en los ejercicios fiscales que comprendan su ejecución.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La persona titular de la Jefatura de Gobierno integrará en el proyecto de Presupuesto de Egresos las asignaciones a dichos instrumentos. Las asignaciones que apruebe el Congreso estarán garantizadas y no estarán sujetas a la disponibilidad presupuestal de los ejercicios siguientes. Corresponderá a la persona titular de la Jefatura de Gobierno proponer los mecanismos para garantizar los recursos necesarios para su financiamiento en los ejercicios fiscales que comprendan su ejecución.
 
 Para efectos informativos, el Presupuesto de Egresos establecerá las obligaciones de pago previstas en los Presupuestos Plurianuales, los contratos de prestación de servicios a largo plazo o arrendamientos a largo plazo y proyectos de coinversión para los ejercicios fiscales subsecuentes.
 
 El Congreso aprobará en el Presupuesto de Egresos de cada ejercicio fiscal, las erogaciones para el pago de las contraprestaciones derivadas de los Presupuestos Plurianuales, los contratos de prestación de servicios a largo plazo o arrendamientos a largo plazo y proyectos de coinversión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 134.
 
-La o el Jefe de Gobierno, a través de la Secretaría, tendrá la facultad para presentar un presupuesto plurianual como instrumento de carácter indicativo que sirva de guía en la política presupuestal de mediano y largo plazo, a fin de que sea un marco referencial del plan plurianual de inversiones públicas.
+La persona titular de la Jefatura de Gobierno, a través de la Secretaría, tendrá la facultad para presentar un presupuesto plurianual como instrumento de carácter indicativo que sirva de guía en la política presupuestal de mediano y largo plazo, a fin de que sea un marco referencial del plan plurianual de inversiones públicas.
 
 Dicho instrumento contendrá las previsiones de ingresos, gasto e inversiones además de otras variables macroeconómicas que permitan formar una agenda de gestión presupuestaria plurianual.
 
 En la formulación de este instrumento participarán los sectores público, social y privado conforme a la normatividad en la materia.
 
-La o el Jefe de Gobierno, por conducto de la Secretaría, enviará al Congreso, con fines indicativos, una estimación de tres años de los ingresos y egresos que pretenda recaudar y gastar la Administración Pública, con el propósito de conocer y anticipar las estrategias fiscales y de gasto necesarias para su implementación en el tiempo.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, enviará al Congreso, con fines indicativos, una estimación de tres años de los ingresos y egresos que pretenda recaudar y gastar la Administración Pública, con el propósito de conocer y anticipar las estrategias fiscales y de gasto necesarias para su implementación en el tiempo.
 
 Dicha previsión deberá considerar aquellos elementos económicos y sociales relevantes para la consecución del escenario previsto, o en su defecto un programa tendiente a promover su consolidación.
 
@@ -1680,7 +1872,9 @@ Los Presupuestos Plurianuales integrarán las necesidades básicas de operación
 
 Una vez determinados los mínimos de operación, éstos, dentro de la presentación del Proyecto de Presupuesto de Egresos se revisarán anualmente con el propósito de llevar a cabo los ajustes necesarios para su actualización, de acuerdo con la evolución económica internacional, nacional y local.
 
-De igual forma, podrán gozar de asignaciones plurianuales aquellos programas integrales que tengan por objeto llevar a cabo cambios estructurales a las decisiones políticas y económicas fundamentales de la Ciudad de México, siempre y cuando, la o el Jefe de Gobierno, por conducto de la Secretaría proponga conjuntamente la estrategia de financiamiento necesaria para su instrumentación.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+De igual forma, podrán gozar de asignaciones plurianuales aquellos programas integrales que tengan por objeto llevar a cabo cambios estructurales a las decisiones políticas y económicas fundamentales de la Ciudad de México, siempre y cuando, la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría proponga conjuntamente la estrategia de financiamiento necesaria para su instrumentación.
 
 ### CAPÍTULO II. De prestación de Servicios a Largo Plazo y Arrendamientos a Largo Plazo
 
@@ -1748,11 +1942,15 @@ La Secretaría realizará la evaluación económica de los ingresos y egresos en
 
 La evaluación se realizará a través de la revisión del avance del cumplimiento de los objetivos y metas presupuestales, tomando como referencia las mediciones previstas en esta Ley, a fin de conocer el resultado de la aplicación de los recursos presupuestales, generando la información para atender en su caso lo previsto en el artículo 49 de la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 147.
 
-La o el Jefe de Gobierno, por conducto de la Secretaría, está obligado a proporcionar, dentro del informe trimestral, la información siguiente al Congreso:
+La persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, está obligado a proporcionar, dentro del informe trimestral, la información siguiente al Congreso:
 
-I. Ingresos de aplicación automática generados por las Dependencias, Órganos Desconcentrados y Alcaldías, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+I. Ingresos de aplicación automática generados por las Dependencias, Órganos Desconcentrados y Alcaldías; y
 
 II. Las reglas generales y reglas específicas emitidas por la Secretaría durante todo el periodo de informe.
 
@@ -1792,11 +1990,11 @@ Las Entidades, así como los Órganos de Gobierno y Autónomos, serán responsab
 
 Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, suministrarán a la Secretaría con la periodicidad que ésta lo determine, la información presupuestal, programática, contable y financiera que requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 153.
 
-La información financiera, presupuestal, programática y contable que emane consolidadamente del sistema y de los registros auxiliares de las Dependencias, Órganos Desconcentrados, Alcaldías y en el caso de las Entidades de sus estados financieros, será la que sirva de base para que la Secretaria elabore los informes trimestrales así como de formular la Cuenta Pública de la Ciudad de México y someterlos a la consideración de la persona Titular de la Jefatura de Gobierno para su presentación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+La información financiera, presupuestal, programática y contable que emane consolidadamente del sistema y de los registros auxiliares de las Dependencias, Órganos Desconcentrados, Alcaldías y en el caso de las Entidades de sus estados financieros, será la que sirva de base para que la Secretaría elabore los informes trimestrales así como de formular la Cuenta Pública de la Ciudad de México y someterlos a la consideración de la persona titular de la Jefatura de Gobierno para su presentación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE ENERO DE 2020)</small>
 
@@ -1804,21 +2002,31 @@ Los informes trimestrales deberán ser remitidos por la persona Titular de la Je
 
 La información contable financiera de aquellas Entidades que operen con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, será consolidada por la Secretaría.
 
-Los Órganos Autónomos y de Gobierno remitirán oportunamente los estados financieros e información a que se refiere el párrafo anterior al Congreso quien enviará por conducto de la Secretaría al Jefe de Gobierno para su incorporación, en capítulo por separado, a los Informes Trimestrales y Cuenta Pública.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Los Órganos Autónomos y de Gobierno remitirán oportunamente los estados financieros e información a que se refiere el párrafo anterior al Congreso quien enviará por conducto de la Secretaría a la persona titular de la Jefatura de Gobierno para su incorporación, en capítulo por separado, a los Informes Trimestrales y Cuenta Pública.
 
 Dicha información deberá permitir el análisis de los resultados obtenidos en el año y comparación con las previsiones contenidas en el presupuesto de egresos del año de que se trate, respecto de:
 
-I.- El alcance y contenido de los programas, funciones y actividades institucionales bajo su responsabilidad;
+I. El alcance y contenido de los programas, funciones y actividades institucionales bajo su responsabilidad;
 
-II.- Explicación y comentarios de los avances de subprogramas y especialmente de aquellos considerados como prioritarios, especiales y de las adquisiciones cuya ejecución abarque dos o más ejercicios fiscales, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-III.- Estimación de todos los ingresos que se recibieron conforme a sus leyes y de los gastos del ejercicio fiscal a nivel de capítulo, concepto y partida presupuestal. Los órganos referidos en este artículo, de acuerdo con el formato que para el efecto les envíe la Secretaría, elaborarán los trimestrales y la cuenta pública para informar los resultados de las líneas programáticas, objetivos específicos, acciones responsables de su ejecución, así como la temporalidad y especialidad de las acciones para las que se asignaron recursos, en función de las disponibilidades y necesidades contenidas en los balances de recursos humanos, materiales y financieros.
+II. Explicación y comentarios de los avances de subprogramas y especialmente de aquellos considerados como prioritarios, especiales y de las adquisiciones cuya ejecución abarque dos o más ejercicios fiscales; y
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Estimación de todos los ingresos que se recibieron conforme a sus leyes y de los gastos del ejercicio fiscal a nivel de capítulo, concepto y partida presupuestal.
+
+Los órganos referidos en este artículo, de acuerdo con el formato que para el efecto les envíe la Secretaría, elaborarán los trimestrales y la cuenta pública para informar los resultados de las líneas programáticas, objetivos específicos, acciones responsables de su ejecución, así como la temporalidad y especialidad de las acciones para las que se asignaron recursos, en función de las disponibilidades y necesidades contenidas en los balances de recursos humanos, materiales y financieros.
 
 ###### Artículo 154.
 
 La contabilidad de las operaciones deberá estar respaldada por los documentos justificantes y comprobatorios originales.
 
-Será responsabilidad de los titulares de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, así como de los servidores públicos encargados de su administración, la recepción, guarda, custodia y conservación de los documentos justificantes y comprobatorios del gasto, así como de los registros auxiliares e información relativa, y en el caso de las Entidades, de sus libros de contabilidad, en términos de las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Será responsabilidad de las personas titulares de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, así como de las personas servidoras públicas encargados de su administración, la recepción, guarda, custodia y conservación de los documentos justificantes y comprobatorios del gasto, así como de los registros auxiliares e información relativa, y en el caso de las Entidades, de sus libros de contabilidad, en términos de las disposiciones aplicables.
 
 Los Órganos Autónomos y de Gobierno, definirán al interior las responsabilidades para dar cumplimiento a esta disposición, en los términos que aplique la presente Ley, así como la Ley General.
 
@@ -1840,7 +2048,9 @@ Las Entidades que realicen operaciones con el Registro Federal de Contribuyentes
 
 La Secretaría, Entidades, Órganos de Gobierno y Autónomos contabilizarán las operaciones financieras y presupuestales en sus libros principales de contabilidad, que serán en su caso los denominados diario, mayor e inventarios y balances. Cuando el Sistema electrónico emita de forma impresa dichos libros, éstos tendrán la misma validez.
 
-La contabilización de las operaciones financieras y presupuestales tendrá que efectuarse dentro de los treinta días siguientes a la fecha de su realización y tendrán que estar respaldadas por los documentos comprobatorios y justificativos origina (sic)
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La contabilización de las operaciones financieras y presupuestales tendrá que efectuarse dentro de los treinta días siguientes a la fecha de su realización y tendrán que estar respaldadas por los documentos comprobatorios y justificativos originales.
 
 ###### Artículo 159.
 
@@ -1856,9 +2066,13 @@ La Secretaría preverá que en el sistema contable se realice el registro de fon
 
 I. Captar la información del ingreso, administración de fondos y valores y del egreso efectuado para proceder a su contabilización;
 
-II. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-III. Aportar los elementos que permitan determinar la responsabilidad de los servidores públicos en materia de manejo de fondos y valores mediante controles contables y administrativos
+II. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones; y
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+III. Aportar los elementos que permitan determinar la responsabilidad de las personas servidoras públicas en materia de manejo de fondos y valores mediante controles contables y administrativos.
 
 ###### Artículo 162.
 
@@ -1869,6 +2083,10 @@ Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes 
 La Secretaría por conducto de la unidad administrativa responsable de concentrar los fondos y valores propiedad o al cuidado de la Ciudad de México, formulará las cuentas comprobadas y registrará los asientos que correspondan en el sistema contable, para efectos de la Cuenta Pública de la Ciudad de México.
 
 ## TÍTULO SEGUNDO. De la Cuenta Pública
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO ÚNICO. Disposiciones generales
 
 ###### Artículo 164.
 
@@ -1886,11 +2104,15 @@ IV. La congruencia entre los gastos promedios por unidad de meta previstos y los
 
 V. El grado de cobertura e impacto de las acciones sobre la población y grupos sociales específicos;
 
-VI. Los indicadores para medir el avance de los objetivos y metas de los programas, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+VI. Los indicadores para medir el avance de los objetivos y metas de los programas; y
 
 VII. Los demás que considere la Secretaría. En caso de que el último día para rendir el informe a que se refiere el párrafo primero sea inhábil, se presentará al día hábil siguiente.
 
-La información a la que se refiere este artículo, será responsabilidad del titular, así como de los servidores públicos encargados de la administración y aplicación de los recursos asignados, conforme al Reglamento Interior y demás normatividad aplicable.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La información a la que se refiere este artículo, será responsabilidad del titular, así como de las personas servidoras públicas encargadas de la administración y aplicación de los recursos asignados, conforme al Reglamento Interior y demás normatividad aplicable.
 
 ###### Artículo 165.
 
@@ -1898,7 +2120,9 @@ Las Dependencias, Órganos Desconcentrados y Alcaldías deberán proporcionar a 
 
 I. Mensualmente, dentro de los primeros diez días del mes siguiente.
 
-a) Conciliación del ejercicio presupuestal, y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+a) Conciliación del ejercicio presupuestal; y
 
 b) Estado analítico de ingresos en caso de ser áreas generadoras; en caso contrario, la información deberá ser proporcionada por el área competente de la Secretaría.
 
@@ -1910,23 +2134,35 @@ IV. Trimestralmente.
 
 a) Información sobre el avance de metas por función. En caso de desviaciones a las metas se deberán especificar las causas que las originen;
 
-b) Información sobre la aplicación por concepto de erogaciones imprevistas y gastos de orden social, especificando el objeto del gasto, importes autorizados y acciones que las generaron, y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+b) Información sobre la aplicación por concepto de erogaciones imprevistas y gastos de orden social, especificando el objeto del gasto, importes autorizados y acciones que las generaron; y
 
 c) Información sobre la ejecución de los recursos por subsidios, ayudas, donaciones y aportaciones autorizados y ministrados a instituciones, personas físicas o morales, especificando importes, causas y finalidades de las erogaciones.
 
 V. A más tardar en la segunda quincena de febrero de cada año, la información al 31 de diciembre del año inmediato anterior, que comprenderá lo siguiente:
 
-a) Resultado de los inventarios físicos practicados a los bienes muebles e inmuebles, con indicación de cantidad, descripción de bienes, valor unitario, partida presupuestal y costo total, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría, y b) Informes de las bajas de activos fijos ocurridas durante el período, señalando cantidad, descripción del bien, valor unitario, partida presupuestal, costo total y destino final debidamente justificado, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+a) Resultado de los inventarios físicos practicados a los bienes muebles e inmuebles, con indicación de cantidad, descripción de bienes, valor unitario, partida presupuestal y costo total, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría; y
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+b) Informes de las bajas de activos fijos ocurridas durante el período, señalando cantidad, descripción del bien, valor unitario, partida presupuestal, costo total y destino final debidamente justificado, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
 VI. Otra información complementaria que le solicite la Secretaría, en la forma y plazos que ésta determine.
 
 VII. Semestralmente.
 
-a) Resultado de los inventarios físicos, incluyendo las altas y bajas ocurridas durante el período que se informa, practicados a los bienes muebles e inmuebles, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría, y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+a) Resultado de los inventarios físicos, incluyendo las altas y bajas ocurridas durante el período que se informa, practicados a los bienes muebles e inmuebles, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría; y
 
 b) Resultado de los inventarios físicos, incluyendo saldo final del período anterior, las altas, bajas ocurridas durante el período que se informa y saldo final, practicados a los almacenes de bienes consumibles, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
-Los Alcaldes deberán enviar la información prevista en este artículo al Jefe de Gobierno, por conducto de la Secretaría.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+Las personas titulares de las Alcaldías deberán enviar la información prevista en este artículo a la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría.
 
 ###### Artículo 166.
 
@@ -1944,7 +2180,9 @@ d) Estado de cambios en la situación financiera;
 
 e) Estado analítico de ingresos;
 
-f) Estado de variaciones al patrimonio
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+f) Estado de variaciones al patrimonio;
 
 g) Estado de variaciones al activo fijo;
 
@@ -1954,7 +2192,9 @@ i) Flujo de efectivo;
 
 j) Conciliación del ejercicio presupuestal;
 
-k) Informe presupuestal del flujo de efectivo, y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+k) Informe presupuestal del flujo de efectivo; y
 
 l) Estado del endeudamiento bajo su administración.
 
@@ -1964,7 +2204,13 @@ a) Estado de endeudamiento;
 
 b) Información sobre el avance de metas, por funciones en especial prioritarias, estratégicas y multisectoriales. En caso de desviaciones a las metas, se deberán especificar las causas que las originen;
 
-c) Información sobre la ejecución de los recursos por subsidios, ayudas, donaciones y aportaciones autorizados y ministrados a instituciones, personas físicas o morales, especificando importes, causas y finalidades de las erogaciones, e d) Información sobre la aplicación por concepto de erogaciones imprevistas y gastos de orden social, especificando el objeto del gasto, importes autorizados y acciones que las generaron, y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+c) Información sobre la ejecución de los recursos por subsidios, ayudas, donaciones y aportaciones autorizados y ministrados a instituciones, personas físicas o morales, especificando importes, causas y finalidades de las erogaciones; e
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+d) Información sobre la aplicación por concepto de erogaciones imprevistas y gastos de orden social, especificando el objeto del gasto, importes autorizados y acciones que las generaron; y
 
 III. Otra información complementaria que les solicite la Secretaría, en la forma y plazos que ésta determine.
 
@@ -1980,11 +2226,13 @@ Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que participe
 
 La Secretaría dará a conocer a las Unidades Responsables del Gasto de quienes deba recabar información, a más tardar el día quince de enero de cada año, las instrucciones y formatos para obtener los datos necesarios para la integración de la Cuenta Pública del año anterior.
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 169.
 
-Con base en los estados financieros y demás información financiera, presupuestal y contable que emane de los registros de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades comprendidas en el Presupuesto de Egresos, la Secretaría integrará la Cuenta Pública y la someterá a la consideración de la o el Jefe de Gobierno para su presentación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+Con base en los estados financieros y demás información financiera, presupuestal y contable que emane de los registros de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades comprendidas en el Presupuesto de Egresos, la Secretaría integrará la Cuenta Pública y la someterá a la consideración de la persona titular de la Jefatura de Gobierno para su presentación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las áreas competentes de los Órganos Autónomos y Órganos de Gobierno, remitirán a más tardar dentro de los primeros 3 días hábiles del mes de abril, la información presupuestaria, programática y contable, así como el Dictamen de Estados Financieros, conforme a los términos que establezca la o el Jefe de Gobierno por conducto de la Secretaría para su integración a la Cuenta Pública de la Ciudad de México.
+Las áreas competentes de los Órganos Autónomos y Órganos de Gobierno, remitirán a más tardar dentro de los primeros 3 días hábiles del mes de abril, la información presupuestaria, programática y contable, así como el Dictamen de Estados Financieros, conforme a los términos que establezca la persona titular de la Jefatura de Gobierno por conducto de la Secretaría para su integración a la Cuenta Pública de la Ciudad de México.
 
 ###### Artículo 170.
 
@@ -1996,17 +2244,25 @@ a) Estado de ejercicio del presupuesto;
 
 Asimismo, el área competente de la Secretaría, deberá proporcionar:
 
-b) Estado analítico de ingresos, y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+b) Estado analítico de ingresos; y
 
 c) Estado de financiamiento;
 
-II. Informe de Cuenta Pública conforme a las instrucciones y formatos a que se refiere la presente Ley, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+II. Informe de Cuenta Pública conforme a las instrucciones y formatos a que se refiere la presente Ley; y
 
 III. Otra información complementaria que solicite la Secretaría.
 
-Los Alcaldes deberán entregar la información señalada a la o al Jefe de Gobierno, por conducto de la Secretaría.
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-La información a que se refiere este artículo, deberá estar suscrita por el titular de la Dependencia, Órgano Desconcentrado, la o el Alcalde de que se trate
+Las personas titulares de las Alcaldías deberán entregar la información señalada a la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+La información a que se refiere este artículo, deberá estar suscrita por la persona titular de la Dependencia, Órgano Desconcentrado, la persona titular de la Alcaldía de que se trate.
 
 ###### Artículo 171.
 
@@ -2048,13 +2304,19 @@ q) Informe de presupuesto comprometido.
 
 II. Informe de Cuenta Pública conforme a las instrucciones y formatos que se señalan en esta Ley.
 
-III. Información para integrar los apartados de análisis y avance presupuestales, y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-IV. Otra información complementaria que solicite la Secretaría. La información a que se refiere este artículo, deberá estar suscrita por el titular de la Entidad y los de sus órganos encargados del manejo y ejercicio de sus recursos, contar con el dictamen de contador público externo, así como con la aprobación de la respectiva Dependencia Coordinadora de Sector, por cuyo conducto se hará llegar a la Secretaría, sin perjuicio de que en caso de incumplimiento la solicite directamente a las Entidades Coordinadas.
+III. Información para integrar los apartados de análisis y avance presupuestales; y
+
+IV. Otra información complementaria que solicite la Secretaría.
+
+La información a que se refiere este artículo, deberá estar suscrita por el titular de la Entidad y los de sus órganos encargados del manejo y ejercicio de sus recursos, contar con el dictamen de contador público externo, así como con la aprobación de la respectiva Dependencia Coordinadora de Sector, por cuyo conducto se hará llegar a la Secretaría, sin perjuicio de que en caso de incumplimiento la solicite directamente a las Entidades Coordinadas.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 172.
 
-Los titulares de las Entidades, así como los de sus órganos encargados del manejo y ejercicio de sus recursos, serán directamente responsables de la información presupuestal, financiera, programática y contable proporcionada a la Secretaría para la integración de la Cuenta Pública.
+Las personas titulares de las Entidades, así como los de sus órganos encargados del manejo y ejercicio de sus recursos, serán directamente responsables de la información presupuestal, financiera, programática y contable proporcionada a la Secretaría para la integración de la Cuenta Pública.
 
 ###### Artículo 173.
 
@@ -2066,13 +2328,17 @@ La Secretaría agrupará, cuando sea necesario, la información armonizada conta
 
 # LIBRO TERCERO. DEL CONTROL, DE LAS RESPONSABILIDADES DEL SERVIDOR PÚBLICO Y DE LAS SANCIONES
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 175.
 
-Todo servidor público deberá actuar con honestidad, legalidad y rectitud sin utilizar su empleo, cargo o comisión para disponer de los recursos humanos, materiales y técnicos con que cuente, para beneficio personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona física o moral.
+Toda persona servidora pública deberá actuar con honestidad, legalidad y rectitud sin utilizar su empleo, cargo o comisión para disponer de los recursos humanos, materiales y técnicos con que cuente, para beneficio personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona física o moral.
+
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 176.
 
-Todo servidor público por motivo de su empleo, cargo o comisión en cualquier forma, deberá de abstenerse de la atención, tramitación o resolución de asuntos en los que tenga conflicto de interés o impedimento legal, en términos de la Ley de Responsabilidades Administrativas de la Ciudad de México.
+Toda persona servidora pública por motivo de su empleo, cargo o comisión en cualquier forma, deberá de abstenerse de la atención, tramitación o resolución de asuntos en los que tenga conflicto de interés o impedimento legal, en términos de la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
 ###### Artículo 177.
 
@@ -2098,9 +2364,13 @@ I. Realizarán observaciones a los entes revisados o fiscalizados para los efect
 
 II. Inicia procedimientos para el fincamiento de responsabilidad administrativa y resarcitoria y la imposición de las sanciones que procedan;
 
-III. Hacer del conocimiento del Sistema Anticorrupción de la Ciudad de México, a aquellos hechos en que se considere existan responsabilidades de servidores públicos, para la imposición de las sanciones que en derecho correspondan.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
 
-IV. También hará del conocimiento aquellos casos en los que determine que existen daños y perjuicios que afectan la Hacienda Pública de la Ciudad de México o, en su caso, al patrimonio de los entes públicos de la Ciudad de México o de las entidades paraestatales, para que se finquen las responsabilidades resarcitorias;
+III. Hacer del conocimiento del Sistema Anticorrupción de la Ciudad de México, a aquellos hechos en que se considere existan responsabilidades de personas servidoras públicas, para la imposición de las sanciones que en derecho correspondan; y
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+
+IV. También hará del conocimiento aquellos casos en los que determine que existen daños y perjuicios que afectan la Hacienda Pública de la Ciudad de México o, en su caso, al patrimonio de los entes públicos de la Ciudad de México o de las entidades paraestatales, para que se finquen las responsabilidades resarcitorias.
 
 ###### Artículo 182.
 
@@ -2221,3 +2491,11 @@ G.O. 29 DE SEPTIEMBRE DE 2020.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México y sus disposiciones serán aplicables en el proceso de elaboración y consecuente aprobación del Presupuesto de Egresos de la Ciudad de México a partir del Ejercicio Fiscal 2021.
+
+G.O. 1 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES A LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, QUE PRESENTÓ LA COMISIÓN DE PRESUPUESTO Y CUENTA PÚBLICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
