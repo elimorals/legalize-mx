@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2019-12-08"
+last_updated: "2020-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -51,9 +51,11 @@ LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado. Tiene por objeto establecer las bases para fomentar e incentivar la inversión local, nacional y extranjera, generar la creación de empleos estables y de alto valor agregado y propiciar un ambiente de competitividad que fomente el desarrollo económico, el bienestar social y la sustentabilidad en el Estado.
+La presente Ley es de orden público, interés social y observancia general en el Estado. Tiene por objeto establecer las bases para fomentar e incentivar la inversión local, nacional y extranjera, generar la creación de empleos decentes, estables y de alto valor agregado y propiciar un ambiente de competitividad que fomente el desarrollo económico, el bienestar social y la sustentabilidad en el Estado.
 
 ###### ARTÍCULO 2.
 
@@ -84,6 +86,10 @@ IX. Establecer las bases para la operación del Sistema Duranguense de Apertura 
 > <small>(ADICIONADA, P.O. 13 DE MAYO DE 2018)</small>
 
 X. Promover acciones para facilitar el acceso al financiamiento a empresarias y emprendedoras en igualdad de condiciones; evitando formas de discriminación que transgredan los derechos de las personas en su incorporación al mercado y la sana competencia.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+XI. Promover la generación de nuevas fuentes de empleo decente y consolidar las existentes.
 
 ###### ARTÍCULO 4.
 
@@ -144,6 +150,10 @@ XV. Plan Sectorial: El Plan Sectorial de fomento a la creación, viabilidad, des
 XVI. Registro de Certificación: Registro Estatal del Certificado de Empresa Duranguense, que se otorga a aquellas empresas que sus actividades empresariales se desarrollan en el Estado.
 
 XVII. Secretaría: La Secretaría de Desarrollo Económico del Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+
+XVIII. Empleo Decente: aquél en el que se respeta plenamente la dignidad humana del trabajador; no existe discriminación en ninguna de sus manifestaciones; se tiene acceso a la seguridad social y se percibe un salario bien remunerado; se recibe capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
 
 ###### ARTÍCULO 5.
 
@@ -1768,6 +1778,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 8 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 210.- QUE CONTIENE REFORMAS Y ADICIONES AL ARTÍCULO 6, FRACCIÓN X DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO, EN MATERIA DE APOYO A LA MICRO, PEQUEÑA Y MEDIANAS EMPRESAS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 354 POR EL QUE SE REFORMA EL ARTÍCULO UNO; SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 3; SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 4 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
