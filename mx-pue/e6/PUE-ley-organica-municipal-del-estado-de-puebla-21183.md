@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2020-06-24"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1183,79 +1183,39 @@ Cuando el Congreso del Estado nombre un Concejo Municipal, designará como miemb
 
 El Concejo Municipal tendrá las mismas facultades que el Ayuntamiento. Los miembros del Concejo a su vez, tendrán las mismas atribuciones y obligaciones que para los integrantes del Ayuntamiento señala la presente Ley y demás ordenamientos aplicables.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 #### SECCIÓN IV. DE LAS SESIONES DEL AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 65.
 
-El Ayuntamiento saliente hará entrega al Ayuntamiento electo, de la documentación que contenga la situación que guarda la Administración Pública Municipal dentro de un plazo de cinco días contados a partir de la fecha de toma de posesión del Ayuntamiento electo.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
-
-En el acto de entrega-recepción, deberá estar presente un representante de la Auditoría Superior del Estado
-
-La entrega-recepción no podrá dejar de realizarse por ningún motivo y bajo ninguna circunstancia.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 66.
 
-La documentación a que se refiere el artículo anterior deberá ser por lo menos la siguiente:
-
-I.- Los libros de las sesiones de Cabildo del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
-
-II.- La documentación justificativa y comprobatoria relativa a la situación financiera y estados contables, así como los informes de avance de gestión financiera, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
-
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
-
-III.- La documentación acerca del estado que guarda la cuenta de la Hacienda Pública Municipal, la que deberá incluir la información relativa a los estados de origen y aplicación de recursos, los ingresos y egresos del Municipio, las observaciones, recomendaciones, requerimientos o apercibimientos emitidos por la Auditoría Superior del Estado o por el Congreso del Estado, por sí o a través de la Comisión correspondiente;
-
-IV.- La situación que guarda la deuda pública municipal, la documentación relativa y su registro;
-
-V.- El estado de la obra pública ejecutada, en proceso de ejecución y en programación en el Municipio, así como la documentación relativa a la misma;
-
-VI.- La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos;
-
-VII.- La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
-
-VIII.- La documentación relativa a convenios o contratos que el Municipio haya celebrado con otros Municipios, con el Estado, con el Gobierno Federal o con particulares;
-
-IX.- La documentación relativa a los programas municipales y proyectos aprobados y ejecutados, así como el estado que guardan los mismos en proceso de ejecución;
-
-X.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
-
-XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
-
-XII.- Entregar la documentación en la que consten los Registros Fiscales del Municipio, así como aquélla que contenga el estado que guarda la recaudación de los ingresos municipales; y
-
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2001)</small>
-
-XIII.- La demás información relevante, para garantizar la continuidad de la Administración Pública Municipal.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 67.
 
-El Síndico del Ayuntamiento electo levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia a los integrantes del Ayuntamiento saliente que participaron y al representante de la Auditoría Superior del Estado, quedando un ejemplar en la Secretaría General del Ayuntamiento a disposición del público para su consulta.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 68.
 
-Una vez concluida la entrega-recepción, el Ayuntamiento electo designará una comisión, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo no mayor de noventa días naturales.
-
-El dictamen se someterá, dentro de los quince días siguientes, al conocimiento y consideración del Ayuntamiento electo, el cual podrá llamar a los servidores públicos involucrados para solicitar cualquier información o documentación que estime necesarias, los que estarán obligados a proporcionarlas y atender las observaciones consecuentes.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 69.
 
-Una vez que haya sido sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
-
-El Ayuntamiento electo, dentro de los quince días hábiles siguientes, deberá remitir copia del expediente de entrega-recepción, a la Auditoría Superior del Estado, para efecto de la revisión de las cuentas públicas municipales.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2020)
 
 #### SECCIÓN I. DE LOS PRINCIPIOS Y OBJETIVOS DE LA PLANEACIÓN
 
 ###### ARTÍCULO 70.
 
-El Ayuntamiento celebrará por lo menos una sesión ordinaria mensualmente, y las extraordinarias que sean necesarias cuando existan motivos que las justifiquen.
+El Ayuntamiento celebrará por lo menos una sesión ordinaria mensualmente, y las extraordinarias que sean necesarias cuando existan motivos que las justifiquen. Estas sesiones deberán ser transmitidas en directo a través de las plataformas digitales o medios electrónicos con que cuente el Ayuntamiento. Las versiones digitales deberán estar disponibles para su consulta pública.
+
+Cuando se presente algún problema técnico o cualquier otra causa que imposibilite la transmisión en directo, el Ayuntamiento deberá grabar la sesión correspondiente y sin edición digital que altere el contenido la hará pública posteriormente.
 
 ###### ARTÍCULO 71.
 
@@ -3479,11 +3439,15 @@ ARTÍCULO 223 Duovicies.- Las facultades para determinar si existe causa o casus
 
 Las Juntas Auxiliares son órganos desconcentrados de la administración pública municipal y estarán supeditadas al Ayuntamiento del Municipio del que formen parte, sujetos a la coordinación con las dependencias y entidades de la administración pública municipal, en aquellas facultades administrativas que desarrollen dentro de su circunscripción. El vínculo de información e interacción será la Secretaría de Gobernación Municipal o su equivalente en la estructura administrativa.
 
-Las Juntas Auxiliares estarán integradas por un Presidente y cuatro miembros propietarios, y sus respectivos suplentes.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Las Juntas Auxiliares estarán integradas por un Presidente o Presidenta y cuatro miembros propietarios, y sus respectivos suplentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 225.
 
-Las Juntas Auxiliares serán electas en plebiscito, que se efectuará de acuerdo con las bases que establezca la convocatoria que se expida y publicite por el Ayuntamiento, por lo menos quince días antes de la celebración del mismo, y con la intervención del Presidente Municipal o su representante, así como del Agente Subalterno del Ministerio Público. El Congreso del Estado podrá enviar o nombrar un representante que presencie la elección.
+Las Juntas Auxiliares serán electas en plebiscito, que se efectuará de acuerdo con las bases que establezca la convocatoria que se expida por el Ayuntamiento, dicha convocatoria deberá atender el principio de paridad de género, y deberá ser publicada por lo menos quince días antes de la celebración del mismo, y con la intervención del Presidente o Presidenta Municipal o su representante, así como del Agente Subalterno del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -3492,6 +3456,14 @@ El Ayuntamiento podrá celebrar convenio con el Instituto Electoral del Estado, 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
 
 Los Ayuntamientos, en los reglamentos respectivos, fijarán las bases mínimas que contendrán las convocatorias para el registro de candidatos, mismas que deberán observar las disposiciones constitucionales y legales aplicables en donde se deberá prohibir el apoyo o postulación de los candidatos a integrar la o las Juntas Auxiliares Respectivas por parte de los Partidos Políticos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+La convocatoria a la que se refiere el párrafo primero de este artículo, a efecto de contar con la estructura y organización para la sana convivencia entre hombres y mujeres, deberá observar las reglas siguientes:
+
+a) Deberán registrar a las personas candidatas por planilla, integrada por las propietarias y suplentes conformándose de manera paritaria.
+
+b) El Ayuntamiento deberá rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando a los solicitantes un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -4264,3 +4236,35 @@ P.O. 24 DE JUNIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY QUE ESTABLECE LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN EN LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS CONSTITUCIONALMENTE AUTÓNOMOS Y PÚBLICOS PARAESTATALES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA, Y SE DEROGA LA SECCIÓN III DEL CAPÍTULO V Y LOS ARTÍCULOS 65, 66, 67, 68 Y 69 DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los actos de entrega-recepción que se encuentren en trámite, serán concluidos conforme a las disposiciones legales vigentes, al momento de su inicio.
+
+CUARTO. Dentro de los ciento veinte días hábiles posteriores a la entrada en vigor del presente Decreto, los Entes Públicos deberán, conforme a su diseño institucional y en el ámbito de sus competencias, expedir sus lineamientos para adaptar el acto de entrega-recepción a lo dispuesto en el Presente.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 224, EL ACÁPITE DEL ARTÍCULO 225, Y ADICIONA UN CUARTO PÁRRAFO Y LOS INCISOS A) Y B) AL ARTÍCULO 225 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El presente Decreto aplicará para las elecciones de Juntas Auxiliares del Estado de Puebla, que se realicen con posterioridad a su entrada en vigor.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 70 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Ayuntamientos contarán con un plazo de noventa días naturales para dar cumplimiento al presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
