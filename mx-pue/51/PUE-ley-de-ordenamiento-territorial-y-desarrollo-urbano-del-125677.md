@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2019-11-28"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -148,6 +148,10 @@ XXXIII. Provisiones: Las áreas que serán utilizadas para la fundación de un c
 XXXIV. Reservas: Las áreas de un centro de población que serán utilizadas para su crecimiento;
 
 XXXV. Resiliencia: La capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXV Bis. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
@@ -1669,9 +1673,11 @@ La Secretaría promoverá la emisión de las normas, lineamientos y manuales par
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 115.
 
-Para la accesibilidad universal de los habitantes a los servicios y satisfactores urbanos; las políticas de movilidad deberán asegurar que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, infraestructura, servicios y oportunidades que ofrecen sus centros de población.
+Para la accesibilidad universal de los habitantes a los servicios y satisfactores urbanos; las políticas de movilidad deberán asegurar y garantizar que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, infraestructura, servicios y oportunidades que ofrecen sus centros de población.
 
 Las políticas y programas para la movilidad serán parte del proceso de planeación de los asentamientos humanos.
 
@@ -1687,7 +1693,9 @@ III. Promover los usos del suelo mixtos, la distribución jerárquica de equipam
 
 IV. Promover la innovación tecnológica de punta, para almacenar, procesar y distribuir información que permita contar con nuevos sistemas, aplicaciones y servicios que contribuyan a una gestión eficiente, así como a la reducción de las externalidades negativas en la materia;
 
-V. Incrementar la oferta de opciones de servicios y modos de transporte integrados, a los diferentes grupos de usuarios, que proporcionen disponibilidad, velocidad, densidad y accesibilidad universal, que permitan reducir la dependencia del uso del automóvil particular, aquellas innovaciones tecnológicas que permitan el uso compartido del automóvil, el uso de la motocicleta y desarrollar nuevas alternativas al transporte público;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+V. Incrementar la oferta de opciones de servicios y modos de transporte integrados, a los diferentes grupos de usuarios, que proporcionen disponibilidad, velocidad, densidad y accesibilidad universal, que permitan reducir la dependencia del uso del automóvil particular, fomentando innovaciones tecnológicas que permitan el uso compartido del automóvil, así como el uso de la motocicleta, el uso de la bicicleta y desarrollar nuevas alternativas al transporte público;
 
 VI. Implementar políticas y acciones de movilidad residencial que faciliten la venta, renta, o intercambio de inmuebles, para una mejor interrelación entre el lugar de vivienda, el empleo y demás satisfactores urbanos, tendentes a disminuir la distancia y frecuencia de los traslados y hacerlos más eficientes;
 
@@ -2840,6 +2848,22 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 P.O. 28 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 3 Y EL INCISO D) DE LA FRACCIÓN III DEL 35 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XXXV BIS AL ARTÍCULO 3 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 115 Y LA FRACCIÓN V DEL 116 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
