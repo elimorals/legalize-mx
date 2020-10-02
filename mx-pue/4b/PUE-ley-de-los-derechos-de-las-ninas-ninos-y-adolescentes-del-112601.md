@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-03-10"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -69,13 +69,21 @@ Las autoridades estatales y municipales, de conformidad con los principios estab
 
 I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, étnicos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, étnicos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de Tratados Internacionales en la materia.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de Tratados Internacionales en la materia, y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IV. Atender, denunciar y sancionar el abuso, desatención, maltrato o violencia física, psicológica o sexual o de cualquier otro tipo generada en contra de niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones, medidas, actuaciones, procedimientos, conductas, propuestas, servicios y demás iniciativas sobre una cuestión debatida que involucre niñas, niños y adolescentes. Asimismo, se debe de considerar la opinión de las niñas, niños y adolescentes en cualquier decisión que les afecte, y se acentúe la obligación del juez(a) de examinar las circunstancias específicas de cada asunto para poder llegar a una solución estable, justa, equitativa y que no produzca afectaciones psicológicas especialmente para las niñas, niños o adolescentes. Cuando se presenten diferentes interpretaciones, se atenderá a lo establecido en la Constitución y en los tratados internacionales de la materia, de los que México forma parte, eligiendo la opción que garantice la protección más amplia y efectiva de este principio rector.
 
 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 
@@ -221,9 +229,11 @@ Atendiendo al principio del interés superior de la niñez, el ejercicio de los 
 
 A falta de disposición expresa en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales, en la Ley General, en esta Ley o en las demás disposiciones aplicables, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 11.
 
-Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente, y en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes, en términos de las disposiciones aplicables.
+Es obligación de toda persona o autoridad, especialmente quienes por su profesión o función detecten o tengan conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, la violación de sus derechos, o que perciba alguna situación de abuso, desatención, maltrato o violencia física, psicológica o sexual o de cualquier otro tipo generada en contra de niñas, niños y adolescentes, prestarle el auxilio inmediato correspondiente, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente, y en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes, en términos de las disposiciones aplicables.
 
 Es deber de la familia, la comunidad a la que pertenecen, del Estado y Municipios, y en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de los derechos de las niñas, niños y adolescentes.
 
@@ -797,11 +807,15 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Asimismo, quienes tengan trato con niñas, niños y adolescentes deberán abstenerse de ejercer cualquier tipo de violencia en su contra, en específico castigo corporal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 62.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+I. El abuso, descuido, negligencia, desatención, maltrato o violencia física, psicológica o sexual o de cualquier otro tipo generada en contra de niñas, niños y adolescentes.
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
@@ -1143,7 +1157,9 @@ V. Impartir en consonancia con la evolución de su desarrollo, dirección y orie
 
 VI. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
 
-VII. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos para su desarrollo integral;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VII. Fomentar en niñas, niños y adolescentes el respeto a todas las personas y el cuidado al medio ambiente, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento responsable de los recursos para su desarrollo integral;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
@@ -1155,9 +1171,17 @@ IX. Abstenerse de cualquier atentado contra su integridad física, psicológica 
 
 X. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de la familia;
 
-XI. Considerar la opinión y fomentar la participación de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XII. Fomentar la educación y uso responsable de las tecnologías de la información y la comunicación.
+XI. Considerar la opinión y fomentar la participación de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XII. Procurar evitar el uso de juguetes, videojuegos o la visualización de programas u cualquier otro medio de entretenimiento o diversión, que induzca a la violencia o afecte su sano desarrollo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XIII. Fomentar la educación y uso responsable de las tecnologías de la información y la comunicación.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, en términos de las leyes aplicables.
 
@@ -1980,6 +2004,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 62 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II Y III DEL ARTÍCULO 2, EL PRIMER PÁRRAFO DEL 11, EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL 62, Y ADICIONA LA FRACCIÓN IV AL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII, XI Y XII, Y ADICIONA LA FRACCIÓN XIII, TODAS DEL ARTÍCULO 98 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
