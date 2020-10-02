@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2020-07-14"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2187,23 +2187,35 @@ La disposición del artículo 195 de este Código no comprende la correspondenci
 
 #### SECCION PRIMERA.- DELITOS CONTRA EL MEDIO AMBIENTE
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 198.
 
-Se aplicará prisión de dos a diez años y multa de treinta a dos mil días de salario mínimo, a quien ocasione un daño ambiental o desequilibrio ecológico, y en contravención a las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
+Se aplicará prisión de dos a diez años y multa de treinta a dos mil veces el valor diario de la Unidad de Medida y Actualización, a quien ocasione un daño ambiental o desequilibrio ecológico, y en contravención a las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
 
-I.- Tale, corte, desmonte, destruya árboles, bosques y/o afecte de manera ilícita, recursos forestales, excepto en los casos de aprovechamientos de dichos recursos para uso doméstico, conforme a lo dispuesto en la Ley de Desarrollo Forestal Sustentable del Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+I.- Tale, corte, desmonte, provoque incendios, destruya árboles, bosques y/o afecte de manera ilícita, recursos forestales, excepto en los casos de aprovechamientos de dichos recursos para uso doméstico, conforme a lo dispuesto en la Ley de Desarrollo Forestal Sustentable del Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 II.- Transporte, comercie, acopie, almacene o transforme madera en rollo, astilla, carbón vegetal, así como cualquier recurso forestal maderable en cantidades superiores a tres metros cúbicos rollo o su equivalente;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 III.- Expulse o descargue en la atmósfera gases, humos, polvos, líquidos, vapores o partículas sólidas que causen o puedan ocasionar daños graves a la salud pública o al medio ambiente en jurisdicción estatal o municipal;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 IV.- Transporte, comercie, almacene, deseche, descargue o realice cualquier actividad empleando residuos sólidos urbanos o de manejo especial, sin la autorización correspondiente y en volúmenes que causen o puedan causar daños graves a la salud pública, al medio ambiente o a los recursos naturales;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
 V.- Realice obras o actividades sin obtener de la autoridad correspondiente la autorización de impacto y riesgo ambiental o no implemente las medidas preventivas, correctivas o de seguridad, indicadas por la autoridad ambiental, ocasionando daños a la salud pública, al medio ambiente o a los recursos naturales; y
 
-VI- Introduzca al Estado recursos del medio ambiente a sabiendas de que porten, o padezcan o hayan padecido, alguna enfermedad contagiosa, que ocasione o pueda ocasionar alguna enfermedad al medio ambiente.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+
+VI.- Introduzca al Estado recursos del medio ambiente a sabiendas de que porten, o padezcan o hayan padecido, alguna enfermedad contagiosa, que ocasione o pueda ocasionar alguna enfermedad al medio ambiente.
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
 
@@ -6892,6 +6904,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE JULIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER Y CUARTO PÁRRAFOS DEL ARTÍCULO 357, ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 357, Y EL 438 BIS, AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 198 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
