@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2019-11-27"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -401,9 +401,7 @@ La limitante a que se refiere el segundo párrafo del presente artículo no ser�
 
 Los actos realizados en ejercicio de las atribuciones que confiere este Reglamento, deberán contener firma autógrafa o firma electrónica, así como el nombre y puesto del suscriptor.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
-
-La firma electrónica a que se refiere el párrafo anterior se utilizará cuando los actos se realicen a través de medios electrónicos, ópticos o de cualquier otra tecnología.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -1375,13 +1373,15 @@ Cuando otras disposiciones aplicables faculten a los jefes o analistas adscritos
 
 La Dirección Jurídica tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
-I. Notificar los acuerdos, proveídos y demás resoluciones relativas a los recursos de reconsideración referidos en la fracción II de este artículo, así como las sanciones que el Banco imponga en ejercicio de sus facultades, sin perjuicio de las atribuciones conferidas a otras Unidades Administrativas para efectuar notificaciones;
+I. Notificar, de forma electrónica, o bien, de forma personal cuando así se determine por cualquier circunstancia, los acuerdos, proveídos y demás resoluciones relativas al recurso de reconsideración referido en la fracción II de este artículo;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
-II. Conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de reconsideración previsto en la Ley del Banco de México, la Ley de Sistemas de Pagos y la Ley de Instituciones de Crédito, así como solicitar ante la autoridad competente el inicio del procedimiento administrativo de ejecución para el cobro de las multas que no hubieren sido cubiertas oportunamente al Banco de México o, en su caso, efectuar dicho procedimiento en términos de lo previsto en el artículo 67 de la Ley del Banco de México;
+II. Conocer, sustanciar y proveer, incluso de manera electrónica, lo necesario para la debida resolución del recurso de reconsideración, previsto en la Ley del Banco de México, la Ley de Sistemas de Pagos y la Ley de Instituciones de Crédito, así como solicitar ante la autoridad competente el inicio del procedimiento administrativo de ejecución para el cobro de las multas que no hubieren sido cubiertas oportunamente al Banco de México o, en su caso, efectuar dicho procedimiento en términos de lo previsto en el artículo 67 de la Ley del Banco de México.
+
+Los documentos electrónicos que se generen con motivo de la tramitación y resolución del recurso de reconsideración referido en el párrafo precedente, podrán ser consultados por medio de la utilización de los medios tecnológicos respectivos, y la certificación de los mismos quedará a cargo de las Subgerencias que se encuentran adscritas a la Gerencia Jurídica de lo Contencioso;
 
 > <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -1395,7 +1395,9 @@ IV. Atender y dar seguimiento a los juicios de amparo, controversias constitucio
 
 V. Representar al Banco, por su propio derecho o en su carácter de fiduciario, ante toda clase de autoridades, incluyendo las judiciales, administrativas y del trabajo, quedando comprendida en esta atribución el ejercicio de la facultad para absolver posiciones a que se refiere el artículo 6o. de este Reglamento;
 
-VI. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, derivados de juicios o de procedimientos administrativos tramitados como tales;
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 2020)</small>
+
+VI. Atender y resolver, incluso de manera electrónica, los requerimientos que le presenten las autoridades o particulares, derivados de juicios o de procedimientos administrativos tramitados como tales;
 
 VII. Formalizar los nombramientos de apoderados, y delegados fiduciarios, así como designar a los abogados que deban representar al Banco en procedimientos judiciales o de carácter administrativo;
 
@@ -1419,13 +1421,17 @@ XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos
 
 XV. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2018)
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
-XVI. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como de fiscalización y rendición de cuentas, le otorguen a la Autoridad Substanciadora en el Órgano Interno de Control, respecto a las faltas administrativas cuya resolución competa a la Comisión de Responsabilidades, y expedir los certificados de constancias que obren en sus expedientes de Autoridad Substanciadora. Asimismo, auxiliar a la mencionada Comisión en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción I, del presente Reglamento, y
+XVI. Ejercer las atribuciones que las leyes en materia de responsabilidades administrativas y anticorrupción, así como de fiscalización y rendición de cuentas, le otorguen a la Autoridad Substanciadora en el Órgano Interno de Control, respecto a las faltas administrativas cuya resolución competa a la Comisión de Responsabilidades, y expedir los certificados de constancias que obren en sus expedientes de Autoridad Substanciadora. Asimismo, auxiliar a la mencionada Comisión en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción I, del presente Reglamento;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
-XVII. Conocer, substanciar y proveer lo necesario para la debida resolución de los recursos de su competencia como Autoridad Substanciadora, a que se refiere la Ley General de Responsabilidades Administrativas, y auxiliar a la Comisión de Responsabilidades en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción II, del presente Reglamento.
+XVII. Conocer, substanciar y proveer lo necesario para la debida resolución de los recursos de su competencia como Autoridad Substanciadora, a que se refiere la Ley General de Responsabilidades Administrativas, y auxiliar a la Comisión de Responsabilidades en el ejercicio de las atribuciones que le corresponden en términos del artículo 36, fracción III, del presente Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE OCTUBRE DE 2020)</small>
+
+XVIII. Designar, a través de su titular, a los notificadores, de entre el personal adscrito a las unidades administrativas de esta Dirección, para que practiquen las notificaciones que le correspondan en ejercicio de sus atribuciones como Autoridad Substanciadora a que se refieren las fracciones XVI y XVII anteriores.
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -1893,6 +1899,10 @@ La Comisión prevista en el artículo 61 de la Ley será presidida por el miembr
 
 El Presidente de la Comisión representará al Órgano Interno de Control del Banco ante el Comité Coordinador previsto en el artículo 113, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y ante las demás instancias y autoridades previstas en las disposiciones en materia de responsabilidades administrativas y anticorrupción y, en su caso, designará a sus suplentes de entre los miembros de la propia Comisión.
 
+> <small>(ADICIONADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
+
+La Comisión de Responsabilidades podrá ser representada en el juicio de amparo por su Secretario o Prosecretario.
+
 ###### ARTICULO 33.
 
 Cualquiera de los miembros podrá convocar a reuniones de la Comisión, la cual deberá sesionar por lo menos con la asistencia de dos de ellos. Tratándose del conocimiento de responsabilidades imputables a alguno de sus miembros deberá sesionar exclusivamente con la asistencia de los restantes.
@@ -2017,7 +2027,9 @@ I. Gozar de reconocida competencia en materia económica, financiera, contable o
 
 II. Ser de reconocida probidad y contar con excelente reputación y honorabilidad.
 
-III. No haber sido sentenciado por delitos intencionales o inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano.
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 2020)</small>
+
+III. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano.
 
 IV. No tener parentesco por consanguinidad o afinidad hasta el cuarto grado con algún servidor público del Banco; no haber sido servidor público de este, ni ser o haber sido proveedor o prestador de servicios del propio Banco, ni socio, accionista, tenedor de partes sociales, asociado o empleado de alguna persona moral proveedora o prestadora de servicios del Banco, dentro de los cinco años anteriores a su contratación. Dicha prohibición será extensiva para las personas físicas que forman parte de dichos proveedores o prestadores de servicios.
 
@@ -2213,25 +2225,21 @@ El Banco publicará semanalmente, con cifras preliminares al cierre del último 
 
 El plazo de interposición del recurso de reconsideración a que se refiere el artículo 64 de la Ley se contará a partir del día siguiente a aquél en que surta efectos la notificación del acto que se reclame.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 43.
 
-Corresponderá a la Gerencia Jurídica de lo Contencioso del Banco recibir el recurso de reconsideración, siendo competente su titular para resolverlo, y en sus ausencias el Subgerente Jurídico de lo Contencioso. En ausencia de ambos, le corresponderá resolver al Jefe de la Oficina de Procesos Constitucionales y Especiales del Banco.
+Corresponderá a la Gerencia Jurídica de lo Contencioso del Banco recibir el recurso de reconsideración, incluso a través de los medios tecnológicos que el Banco determine en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador. La resolución de dicho recurso corresponderá al titular de esta Gerencia y, en su ausencia, al Subgerente de Procesos Jurisdiccionales.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
+Las promociones posteriores a la interposición del recurso de reconsideración se realizarán preferentemente en forma electrónica, a través de los medios tecnológicos que el Banco establezca y deberán estar suscritas utilizando la firma electrónica vigente expedida por el Servicio de Administración Tributaria, conforme a lo establecido en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador.
 
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
-
-Dicho recurso y las promociones relativas a la tramitación del procedimiento deberán presentarse en días hábiles bancarios, dentro de un horario comprendido entre las nueve y las diecinueve horas.
-
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 44.
 
-El trámite del recurso estará a cargo de la Subgerencia Jurídica de lo Contencioso. El titular de ésta, y en sus ausencias el Jefe de la Oficina de lo Contencioso del propio Banco, autorizará los acuerdos correspondientes.
+El trámite del recurso estará a cargo de la Subgerencia Jurídica de lo Contencioso. La persona titular de esta Subgerencia y, en su ausencia, la titular de la Subgerencia Jurídica de Procedimientos de Responsabilidad Administrativa suscribirán, mediante firma autógrafa o electrónica, según corresponda, los acuerdos correspondientes.
 
-Los acuerdos de desechamiento o de no interposición del recurso deberán ir firmados por el Gerente Jurídico de lo Contencioso y, en su ausencia, por el Subgerente mencionado en el párrafo anterior. En ausencia de ambos, dichos acuerdos deberán ir firmados por el Jefe de la Oficina de Procesos Constitucionales y Especiales del Banco.
+Los acuerdos de desechamiento, de no interposición y resolución del recurso deberán ir firmados de forma autógrafa o electrónica, según corresponda, por la persona titular de la Gerencia Jurídica de lo Contencioso y, en sus ausencias, por la titular de la Subgerencia de Procesos Jurisdiccionales.
 
 ###### ARTICULO 45.
 
@@ -2243,61 +2251,47 @@ El recurso de reconsideración será desechado cuando no se presente en tiempo, 
 
 Cuando el recurso carezca de firma del promovente se tendrá por no interpuesto. Si este no acredita su personalidad, se le prevendrá para que subsane dicha omisión dentro del plazo de tres días. En caso de que se abstenga de hacerlo, se tendrá por no interpuesto el recurso.
 
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
-ARTICULO 46 BIS.- Las notificaciones de los actos relacionados con la tramitación del recurso de reconsideración se realizarán en los términos establecidos en la Ley y en este Reglamento.
+ARTICULO 46 BIS.- Todas las notificaciones de los actos relacionados con la tramitación del recurso de reconsideración se realizarán preferentemente a través de los medios tecnológicos que el Banco determine para tal efecto, por lo que será responsabilidad de los promoventes designar una cuenta de correo electrónico donde se puedan enviar los documentos electrónicos respectivos, e informar cualquier cambio a esta. En caso de que la cuenta de correo electrónico proporcionada resulte inexacta o inexistente, la notificación se tendrá por realizada a través de su publicación en la página electrónica de internet del Banco de México.
 
-A las notificaciones precisadas en el párrafo anterior se aplicará supletoriamente las disposiciones contenidas en el Código Fiscal de la Federación, siempre que estas no se opongan a las reglas de las notificaciones contenidas en la citada Ley o en este Reglamento.
+A las notificaciones precisadas en el párrafo anterior se aplicará supletoriamente las disposiciones contenidas en el Código Fiscal de la Federación, siempre que estas no se opongan a lo previsto en la Ley, en este Reglamento y en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 47.
 
-Si el recurrente no señala en el escrito inicial domicilio en la Ciudad de México, se le prevendrá por estrados para que, en el plazo de tres días, lo señale y se le apercibirá que, de no hacerlo, todas las notificaciones, aun las de carácter personal, se efectuarán por estrados.
+Si el recurrente no señala en la promoción inicial una cuenta de correo electrónico y un domicilio en la Ciudad de México, se le prevendrá para que, en el plazo de tres días, los señale y se le apercibirá que, de no hacerlo, todas las notificaciones, aun las de carácter personal, se efectuarán a través de la página electrónica de internet del Banco de México.
+
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 48.
 
-Sin perjuicio de lo dispuesto en el artículo 134 del Código Fiscal de la Federación, se notificarán personalmente y, en su caso, por instructivo:
+Las notificaciones relativas al recurso de reconsideración se regirán de conformidad con lo establecido en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador.
 
-I. La resolución que resuelva el fondo del recurso;
-
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
-
-II. El acuerdo de desechamiento del recurso;
-
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
-
-III. El acuerdo de no interposición del recurso, y
-
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
-
-IV. La prevención a que se refiere el artículo 46 de este Reglamento.
-
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 49.
 
-Los acuerdos que deban notificarse por estrados se comunicarán mediante lista que se fijará durante quince días en un lugar abierto al público en el domicilio a que se refiere el artículo 1o. de este Reglamento. Además, se publicarán, durante el mismo plazo, en la página electrónica de internet del Banco de México y se dejará constancia de ello en el expediente respectivo.
+Los acuerdos se publicarán en la página electrónica de internet del Banco de México.
 
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 50.
 
-Corresponderá al personal de la Oficina de lo Contencioso del Banco practicar las notificaciones a que alude la fracción I del artículo 28 de este Reglamento, así como solicitar el inicio del procedimiento administrativo de ejecución ante la autoridad competente o, en su caso, efectuar dicho procedimiento. Sin perjuicio de lo anterior, el Director Jurídico podrá habilitar a personas distintas de las que integran dicha Oficina, para que realicen las notificaciones o ejecuciones mencionadas. Las notificaciones previstas en este párrafo podrán realizarse a través de medios electrónicos.
+Corresponderá al personal de la Dirección Jurídica practicar las notificaciones a que alude la fracción I del artículo 28 de este Reglamento. Asimismo, corresponderá al personal de la Dirección Jurídica solicitar el inicio del procedimiento administrativo de ejecución ante la autoridad competente o, en su caso, efectuar dicho procedimiento. Las notificaciones previstas en este párrafo podrán realizarse a través de medios electrónicos.
 
-Será medio de identificación de los notificadores y ejecutores citados, la credencial, que para tales efectos, expida en su favor el Banco de México o, en su caso, el oficio firmado por el Director Jurídico que los faculte para realizar tales funciones.
-
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+Será medio de identificación de los notificadores y ejecutores citados, la credencial que, para tales efectos, expida en su favor el Banco de México.
 
 ###### ARTICULO 51.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que hayan sido realizadas.
+(DEROGADO, D.O.F. 2 DE OCTUBRE DE 2020)
 
-Las notificaciones por estrados surtirán sus efectos al día siguiente en que el acuerdo, acto o resolución de que se trate, se hubiere fijado en la lista a que se refiere el artículo 49 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 52.
 
-En la sustanciación y resolución del recurso de reconsideración se aplicarán supletoriamente las disposiciones del Código Federal de Procedimientos Civiles, a falta de disposición expresa en la Ley y en este Reglamento. No se aplicarán al efecto las disposiciones que se opongan a los citados Ley y Reglamento, o bien, aquellas normas que no sean acordes con la naturaleza del recurso previsto en este capítulo.
+En la sustanciación y resolución del recurso de reconsideración se aplicarán supletoriamente las disposiciones del Código Federal de Procedimientos Civiles, a falta de disposición expresa en la Ley, en este Reglamento y en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -2433,15 +2427,17 @@ Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México,
 
 Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposiciones aplicables, deban ser suscritas por el titular de la Dirección de Recursos Materiales, en su ausencia aquéllas serán firmadas por el titular de la Dirección General de Administración. En ausencia de ambos, las adjudicaciones señaladas deberán ser firmadas por dos funcionarios que actúen en forma mancomunada y que ocupen puestos de Gerente, adscritos a la propia Dirección de Recursos Materiales.
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
-En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales, Directores o los titulares de las Unidades de Transparencia o Auditoría, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, podrán firmar el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales, Directores o los titulares de las Unidades de Transparencia o de Auditoría, las promociones correspondientes podrán ser firmadas por el Director General Jurídico o el Director Jurídico. En ausencia de estos dos últimos, podrán firmar dos funcionarios de la Dirección Jurídica que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior. En este último supuesto, cuando se utilicen medios electrónicos que no permitan la coexistencia de dos firmas electrónicas, será suficiente una de ellas.
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 67.
 
-El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Secretario de la Junta, los Directores y los titulares de las Unidades de Transparencia y Auditoría podrán ser representados en el juicio de amparo, en las controversias constitucionales o en cualquier otro proceso de carácter constitucional, según corresponda, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Secretario de la Junta, los Directores y los titulares de las Unidades de Transparencia y Auditoría podrán ser representados en el juicio de amparo, en las controversias constitucionales o en cualquier otro proceso de carácter constitucional, según corresponda, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, podrán firmar dos funcionarios de la Dirección Jurídica que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior. En este último supuesto, cuando se utilicen medios electrónicos que no permitan la coexistencia de dos firmas electrónicas, será suficiente una de ellas.
+
+Los servidores públicos distintos a los miembros de la Junta de Gobierno, los Directores Generales, el Secretario de la Junta, los Directores y los titulares de las Unidades de Transparencia y Auditoría podrán ser representados en el juicio de amparo o en procesos constitucionales por el Gerente Jurídico de lo Contencioso o el Subgerente de Procesos Jurisdiccionales.
 
 ## TRANSITORIOS
 
@@ -3022,3 +3018,13 @@ Los procedimientos sancionadores que deriven de probables infracciones detectada
 CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados conservarán todo su valor y fuerza legales.
 
 Las presentes modificaciones al Reglamento Interior del Banco de México fueron aprobadas por su Junta de Gobierno, con fundamento en lo dispuesto por el artículo 46, fracción XVI, de la Ley del Banco de México, en sesión del 23 de octubre de 2019.
+
+D.O.F. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Las reformas y adiciones de los artículos 28, fracciones I y II, 43, 44, 46 Bis, 47, 48, 49 y 52, del presente Reglamento, entrarán en vigor una vez que la persona titular de la Dirección Jurídica publique en el Diario Oficial de la Federación la declaratoria de inicio de funciones, a partir de la cual se entenderá que quedan en operación los medios tecnológicos para la tramitación del recurso de reconsideración.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
