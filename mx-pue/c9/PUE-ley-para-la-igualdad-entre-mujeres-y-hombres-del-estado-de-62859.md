@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2019-12-06"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -303,9 +303,11 @@ VII.- Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 10.
 
-La Política Estatal en materia de igualdad entre mujeres y hombres deberá establecer las acciones tendientes a lograr la igualdad en el ámbito, económico, político, social y cultural.
+La Política Estatal en materia de igualdad entre mujeres y hombres deberá establecer las acciones tendientes a lograr la igualdad sustantiva en los ámbitos económico, político, social, deportivo y cultural.
 
 La Política Estatal que establezca el Gobierno del Estado deberá considerar los siguientes lineamientos:
 
@@ -343,13 +345,17 @@ X.- La utilización de un lenguaje no sexista en el ámbito administrativo y su 
 
 XI.- En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XII.- Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud, y
+XII.- Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XIII.- Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
+XIII.- Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XIV.- Fomentar e impulsar la participación, el desarrollo, la capacitación y el reconocimiento de las mujeres y los hombres en materia deportiva, garantizando su acceso a los espacios deportivos.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -483,11 +489,11 @@ Todas las Dependencias y Entidades que formen parte del Sistema, estarán obliga
 
 ### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-El Programa Estatal, será propuesto por la Secretaría y tomará en cuenta las necesidades de los Municipios, así como las particularidades de la desigualdad en cada región.
+El programa estatal, será propuesto por la Secretaría y tomará en cuenta las necesidades de los Poderes Públicos del Estado, órganos autónomos y municipios, considerando las particularidades de la desigualdad en cada región del Estado.
 
 El Programa Estatal deberá integrarse al Plan Estatal de Desarrollo, así como a los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación para el Desarrollo del Estado de Puebla; en congruencia con los objetivos establecidos en el Plan Nacional de Desarrollo.
 
@@ -499,19 +505,19 @@ Los programas que elaboren los Municipios, con visión de mediano y largo alcanc
 
 La Secretaría deberá revisar el Programa Estatal de forma anual, a fin de procurar ante las instancias competentes su permanente actualización.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 23 Bis.
 
-La Secretaría entregará al Poder Ejecutivo del Estado los informes sobre el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley, para que se incluyan en su informe anual.
+La Secretaría entregará al Poder Ejecutivo del Estado los informes necesarios, y un informe anual del estado que guarda la ejecución del Programa, el cual deberá incluir el estado de las acciones realizadas en coordinación con los Poderes Legislativo, Judicial, órganos autónomos y municipios, así como las demás relativas al cumplimiento de lo establecido en la presente Ley.
 
 ### CAPÍTULO SEXTO. DE LA COORDINACIÓN INSTITUCIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 24.
 
-El Gobierno del Estado, a través de la Secretaría, podrá suscribir convenios o acuerdos de coordinación con los Municipios que conforman la Entidad y con asociaciones públicas y privadas nacionales e internacionales, a fin de:
+El Gobierno del Estado, a través de la Secretaría, podrá suscribir convenios o acuerdos de coordinación con los Poderes Públicos del Estado, órganos autónomos y municipios, así como con asociaciones públicas y privadas nacionales e internacionales, a fin de:
 
 I.- Establecer acciones orientadas a eliminar la discriminación y a fortalecer la igualdad entre mujeres y hombres;
 
@@ -527,9 +533,11 @@ VI.- Generar las estrategias que contribuyan a formar, orientar y capacitar al p
 
 VII.- Diseñar, elaborar y en su caso, proponer iniciativas y políticas de cooperación, a fin de lograr la instrumentación y el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida política, social, cultural y civil.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-En la celebración de convenios o acuerdos de coordinación los Gobiernos Estatal y Municipales, deberán tomar en consideración los recursos presupuestales, materiales y humanos disponibles, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa presupuestaria correspondiente.
+En la celebración de convenios o acuerdos de coordinación los Poderes Públicos del Estado, gobiernos municipales y órganos autónomos interesados, deberán tomar en consideración los recursos financieros, materiales y humanos disponibles, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa presupuestaria correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -870,3 +878,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO, LAS FRACCIONES XII Y XIII, Y ADICIONA LA FRACCIÓN XIV, TODAS DEL ARTÍCULO 10 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 22; EL 23 BIS; EL PRIMER PÁRRAFO DEL 24, Y EL 25 TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
