@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2020-03-10"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -145,7 +145,9 @@ II.- Combatir la inequidad en la distribución de la riqueza, los bienes, y los 
 
 III.- Combatir la inequidad social derivada de condiciones de sexo, edad, origen étnico, religioso, orientación sexual o condición física, respetando la pluralidad y diversidad;
 
-IV.- Lograr la integración o reintegración de los grupos de población excluidos de los ámbitos del Desarrollo Social, la familia o la comunidad;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IV.- Lograr la integración o reintegración de los grupos de población excluidos de los ámbitos del Desarrollo Social, el territorio, la familia o la comunidad.
 
 V.- Ofrecer servicios sociales adecuados a las necesidades de la población en su ámbito familiar y comunitario, que sean suficientes y de calidad; y
 
@@ -175,9 +177,11 @@ El Gobierno del Estado y los Ayuntamientos de los Municipios, en sus respectivos
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-Serán considerados derechos para el Desarrollo Social: la salud, la educación, la alimentación y nutrición adecuada, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social; la equidad y los relativos a la no discriminación en los términos de las Leyes en la materia.
+Serán considerados derechos para el Desarrollo Social: la salud, la educación, la alimentación nutritiva y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social; la equidad y los relativos a la no discriminación en los términos de las Leyes en la materia.
 
 ###### Artículo 10.
 
@@ -251,7 +255,9 @@ La planeación del Desarrollo Social incluirá los programas, planes de trabajo 
 
 La planeación del Desarrollo Social en el Estado, estará a cargo del Ejecutivo Estatal por conducto de la Secretaría, en coordinación con las demás Dependencias y Entidades del Estado, la que deberá guardar congruencia con la Política Nacional de Desarrollo Social y la normatividad aplicable, para priorizar:
 
-I.- Superación de la pobreza y marginación a través de la educación, la salud, la alimentación, la generación de empleos e ingreso, autoempleo y capacitación;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+I.- Superación de la pobreza y marginación a través de la educación, la salud, la alimentación nutritiva y de calidad, la generación de empleos e ingreso, autoempleo y capacitación;
 
 II.- Programas asistenciales;
 
@@ -401,19 +407,25 @@ III.- Acceso a los servicios de salud;
 
 IV.- Acceso a la seguridad social;
 
-V.- Calidad y espacios de la vivienda;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+V.- Calidad y espacios de la vivienda digna y decorosa;
 
-VI.- Acceso a los servicios básicos de la vivienda;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+VI.- Acceso a los servicios básicos de la vivienda digna y decorosa;
 
-VII.- Acceso a la alimentación; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+VII.- Acceso a la alimentación nutritiva y de calidad;
 
-VIII.- Grado de cohesión social.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VIII.- Grado de cohesión social; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IX.- Grado de Accesibilidad a carretera pavimentada.
 
 ###### Artículo 34.
 
@@ -820,3 +832,13 @@ P.O. 10 DE MARZO DE 2020.
 PRIMERO. El presente decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 4, EL 9, LA FRACCIÓN I DEL 15 Y LAS FRACCIONES V, VI, VII Y VIII DEL 33, Y ADICIONA LA FRACCIÓN IX AL 33 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestal, para el cumplimiento del presente Decreto, en su caso.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
