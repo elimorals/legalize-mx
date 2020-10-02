@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2019-02-27"
+last_updated: "2020-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -257,47 +257,93 @@ XVII. Información Confidencial: Aquélla que contiene datos personales y se enc
 
 XVIII. Información de Interés Público: Se refiere a la información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los sujetos obligados;
 
-XIX. Información Pública: Todo archivo, registro o dato contenido en cualquier medio, documento o registro impreso, óptico, electrónico, magnético, químico, físico o cualquiera que el desarrollo de la ciencia o la tecnología permita que los sujetos obligados generen, obtengan, adquieran, transformen o conserven, incluida la que consta en registros públicos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XX. Información Reservada: Información pública que se encuentre temporalmente sujeta a alguna de las excepciones previstas en esta Ley, así como la que tenga ese carácter en otros ordenamientos legales;
+XIX. Información focalizada: la información útil que sirve para que los particulares tomen decisiones mejor informadas respecto a bienes y servicios públicos, bajo el uso de datos estadísticos y/o comparativos;
 
-XXI. Instituto de Transparencia: El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXII. Instituto Nacional de Transparencia: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+XX. Información Pública: Todo archivo, registro o dato contenido en cualquier medio, documento o registro impreso, óptico, electrónico, magnético, químico, físico o cualquiera que el desarrollo de la ciencia o la tecnología permita que los sujetos obligados generen, obtengan, adquieran, transformen o conserven, incluida la que consta en registros públicos;
 
-XXIII. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXIV. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
+XXI. Información Reservada: Información pública que se encuentre temporalmente sujeta a alguna de las excepciones previstas en esta Ley, así como la que tenga ese carácter en otros ordenamientos legales;
 
-XXV. Obligaciones de Transparencia: La información que los sujetos obligados deben difundir de manera obligatoria, permanente y actualizada, a través de sus sitios web y de la Plataforma Nacional, sin que para ello medie una solicitud de acceso;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXVI. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hace referencia el artículo 49 de la Ley General;
+XXII. Instituto de Transparencia: El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla;
 
-XXVII. Recurrente: Solicitante que interpone recurso de revisión;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXVIII. Recurso de Revisión: Medio de impugnación interpuesto por ausencia o inconformidad con la respuesta del sujeto obligado a una solicitud de acceso;
+XXIII. Instituto Nacional de Transparencia: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XXIX. Sanción: Medida coercitiva establecida por el incumplimiento de la presente Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXX. Servidores Públicos: Los mencionados en el artículo 124 de la Constitución Política del Estado Libre y Soberano de Puebla y demás disposiciones legales aplicables;
+XXIV. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
 
-XXXI. Sistema Nacional: Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXXII. Sitio Web: Grupo de páginas electrónicas alojadas en un servidor de Internet, las cuales están relacionadas entre sí en un mismo dominio de Internet;
+XXV. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
 
-XXXIII. Solicitante: Toda persona que requiere a los sujetos obligados información;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXXIV. Solicitud de Acceso: Solicitud de acceso a la información pública;
+XXVI. Obligaciones de Transparencia: La información que los sujetos obligados deben difundir de manera obligatoria, permanente y actualizada, a través de sus sitios web y de la Plataforma Nacional, sin que para ello medie una solicitud de acceso;
 
-XXXV. Suplencia de la Deficiencia de la Queja: Intervención del Instituto de Transparencia con el fin de subsanar en la resolución respectiva, los errores del recurrente respecto de los motivos de su inconformidad al interponer el recurso de revisión;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXXVI. Tercero Interesado: Se refiere a la persona que tiene un interés directo en impedir la divulgación de información que ha proporcionado a una autoridad pública, ya sea porque dicha divulgación afecta su privacidad o sus intereses comerciales;
+XXVII. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hace referencia el artículo 49 de la Ley General;
 
-XXXVII. Unidad de Medida y Actualización: Unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes, de acuerdo con los párrafos sexto y séptimo del Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXXVIII. Unidad de Transparencia: La Unidad a la que se refiere el Capítulo I del Título Segundo de la presente Ley, y
+XXVIII. Recurrente: Solicitante que interpone recurso de revisión;
 
-XXXIX. Versión Pública: Documento o expediente en el que se da acceso a información eliminando u omitiendo las partes o secciones clasificadas como información reservada o confidencial.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXIX. Recurso de Revisión: Medio de impugnación interpuesto por ausencia o inconformidad con la respuesta del sujeto obligado a una solicitud de acceso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXX. Sanción: Medida coercitiva establecida por el incumplimiento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXI. Servidores Públicos: Los mencionados en el artículo 124 de la Constitución Política del Estado Libre y soberano de Puebla y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXII. Sistema Nacional: Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXIII. Sitio Web: Grupo de páginas electrónicas alojadas en un servidor de Internet, las cuales están relacionadas entre sí en un mismo dominio de Internet;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXIV. Solicitante: Toda persona que requiere a los sujetos obligados información;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXV. Solicitud de Acceso: Solicitud de acceso a la información pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXVI. Suplencia de la Deficiencia de la Queja: Intervención del Instituto de Transparencia con el fin de subsanar en la resolución respectiva, los errores del recurrente respecto de los motivos de su inconformidad al interponer el recurso de revisión;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXVII. Tercero Interesado: Se refiere a la persona que tiene un interés directo en impedir la divulgación de información que ha proporcionado a una autoridad pública, ya sea porque dicha divulgación afecta su privacidad o sus intereses comerciales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXVIII. Unidad de Medida y Actualización: Unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes, de acuerdo con los párrafos sexto y séptimo del Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXXIX. Unidad de Transparencia: La Unidad a la que se refiere el Capítulo I del Título Segundo de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XL. Versión Pública: Documento o expediente en el que se da acceso a información eliminando u omitiendo las partes o secciones clasificadas como información reservada o confidencial.
 
 ###### ARTÍCULO 8.
 
@@ -717,7 +763,9 @@ XVIII. Emitir políticas de transparencia proactiva, en atención a los lineamie
 
 Dichas políticas tendrán por objeto, entre otros, promover la reutilización de la información que generan los sujetos obligados, considerando las condiciones económicas, sociales y culturales y la demanda de la sociedad, identificada con base en las metodologías previamente establecidas;
 
-XIX. Organizar seminarios, cursos, talleres y demás actividades que promuevan el conocimiento, la capacitación y actualización de servidores públicos y población en general sobre los derechos y obligaciones contempladas en la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XIX. Organizar seminarios, cursos, talleres y demás actividades que promuevan el conocimiento, la capacitación, la profesionalización, la especialización y actualización continua y de manera permanente, de servidores públicos y población en general sobre los derechos y obligaciones contempladas en la presente Ley y su Reglamento;
 
 XX. Capacitar a los servidores públicos y brindar apoyo técnico a los sujetos obligados en materia de transparencia y acceso a la información;
 
@@ -903,9 +951,11 @@ Los sujetos obligados deben utilizar la Plataforma a la que se refiere el artíc
 
 El Instituto de Transparencia promoverá el derecho de acceso a la información pública en el Estado, procurando promover dicho derecho entre los grupos en situación vulnerable.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 54.
 
-Los sujetos obligados cooperarán con el Instituto de Transparencia para capacitar y actualizar de forma permanente a su personal en materia del derecho de acceso a la información pública, transparencia, rendición de cuentas y protección de datos personales, a través de cursos, seminarios, talleres y todas las formas de enseñanza que se consideren pertinentes.
+Los sujetos obligados cooperarán con el Instituto de Transparencia para capacitar y actualizar de forma permanente a su personal en materia del derecho de acceso a la información pública, transparencia, gobierno abierto, rendición de cuentas y protección de datos personales, a través de cursos, seminarios, talleres y todas las formas de enseñanza que se consideren pertinentes.
 
 ###### ARTÍCULO 55.
 
@@ -1207,7 +1257,9 @@ XLVI. Las actas de sesiones ordinarias y extraordinarias, así como las opinione
 
 XLVII. Para efectos estadísticos, el listado de solicitudes a las empresas concesionarias de telecomunicaciones y proveedores de servicios o aplicaciones de internet para la intervención de comunicaciones privadas, el acceso al registro de comunicaciones y la localización geográfica en tiempo real de equipos de comunicación, que contenga exclusivamente el objeto, el alcance temporal y los fundamentos legales del requerimiento, así como, en su caso, la mención de que cuenta con la autorización judicial correspondiente;
 
-XLVIII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XLVIII. Cualquier información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público y la que se genere de forma proactiva y focalizada, y
 
 XLIX. Las demás que establezca la legislación vigente.
 
@@ -1270,6 +1322,10 @@ XV. El padrón de cabilderos, de acuerdo a la normatividad aplicable, en su caso
 XVI. El Nombre, fotografía y currícula de los Diputados en funciones, así como las Comisiones Generales y los Comités a los que pertenecen, y
 
 XVII. Las asignaciones y bienes materiales entregados a Grupos Legislativos o Diputados.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Por transparencia proactiva además se deberá publicar las Agendas Legislativas de los Grupos y Representaciones Legislativas, las versiones estenográficas y los planes de trabajo de las Comisiones Generales, Especiales y Comités; así como el archivo histórico de la actividad legislativa de al menos dos legislaturas anteriores.
 
 ###### ARTÍCULO 80.
 
@@ -2177,7 +2233,9 @@ El ejercicio del derecho de acceso a la información es gratuito y sólo podrá 
 
 En ningún caso los Ajustes Razonables que se realicen para el acceso de la información de solicitantes con discapacidad, será con costo a los mismos.
 
-Los costos de reproducción estarán previstos en la normatividad vigente y se calcularán atendiendo a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+En caso de existir costos de reproducción para obtener la información, deberán cubrirse de manera previa a la entrega, y no podrán ser superiores a la suma de:
 
 I. El costo de los materiales utilizados en la reproducción de la información;
 
@@ -2185,7 +2243,13 @@ II. El costo de envío, en su caso, y
 
 III. La certificación de documentos cuando proceda.
 
-Las cuotas de los derechos aplicables se publicarán en los sitios de Internet de los sujetos obligados. En su determinación se deberá considerar que los montos permitan o faciliten el ejercicio del derecho de acceso a la información, asimismo se establecerá la obligación de fijar una cuenta bancaria única y exclusivamente para que el solicitante realice el pago íntegro del costo de la información que solicitó.
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Lo anterior, deberá ser previsto en las Leyes de Ingresos correspondientes.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Además, las cuotas de los derechos aplicables se publicarán en los sitios de Internet de los sujetos obligados. En su determinación se deberá considerar que los montos permitan o faciliten el ejercicio del derecho de acceso a la información, asimismo se establecerá la obligación de fijar una cuenta bancaria única y exclusivamente para el pago de derechos del costo de reproducción y envío de información solicitada.
 
 Los costos de reproducción no deberán ser mayores a las dispuestas en la Ley Federal de Derechos.
 
@@ -2672,3 +2736,27 @@ P.O. 27 DE FEBRERO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER Y QUINTO PÁRRAFOS DEL ARTÍCULO 162, Y SE ADICIONA UN CUARTO PÁRRAFO AL 162 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 79 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIX A LA XXXIX DEL ARTÍCULO 7, LA FRACCIÓN XIX DEL 39, EL 54, Y LA FRACCIÓN XLVIII DEL 77, Y ADICIONA LA FRACCIÓN XL AL ARTÍCULO 7, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
