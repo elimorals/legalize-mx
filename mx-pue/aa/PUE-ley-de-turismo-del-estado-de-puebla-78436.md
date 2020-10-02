@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2020-03-10"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -85,9 +85,11 @@ XIV.- Promover y vigilar el desarrollo del turismo social, propiciando el acceso
 
 XV.- Determinar las líneas de acción que estimulen la calidad y competitividad en los servicios turísticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta ley, se entenderá por:
 
 I.- Accesibilidad: combinación de elementos constructivos y operativos que permiten a cualquier persona con discapacidad entrar, desplazarse, salir, orientarse, ser atendido y comunicarse de manera segura, autónoma y cómoda en los espacios de uso público, con o sin ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte;
 
@@ -135,9 +137,9 @@ XVIII.- Zonas de Desarrollo Turístico Prioritario: Son aquellos municipios, reg
 
 XIX.- Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyen un atractivo turístico así declarado mediante Decreto.
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XX.- Turismo de Salud: Actividad generada por las personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud a través de servicios terapéuticos, de recreación, relajación y tratamientos relacionados con la salud; y
+XX.- Turismo Médico y Salud: Actividad generada por las personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud a través de servicios terapéuticos, de recreación, relajación, servicios y tratamientos médicos relacionados con la salud; y
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2013)</small>
 
@@ -663,21 +665,23 @@ La Secretaría, con el apoyo y en coordinación de las dependencias y entidades 
 
 La Secretaría deberá establecer los mecanismos de coordinación y participación con autoridades municipales que favorezcan el desarrollo del turismo gastronómico y promoverá la capacitación a los prestadores de servicios turísticos, con el propósito de buscar la calidad en el sector.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO VIII TER. DEL TURISMO DE SALUD
+### CAPÍTULO VIII TER. DEL TURISMO MÉDICO Y DE SALUD
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 41 Quinquies.
 
-La Secretaría, en coordinación con la Secretaría de Salud y con los Servicios de Salud del Estado de Puebla, impulsarán el Turismo de Salud, que comprende actividades que tengan como motivo principal o alterno recibir algún servicio de salud. De igual forma fomentarán la certificación de todos aquellos establecimientos que brinden servicios de calidad, donde los turistas se puedan relajar, curar o aliviar de ciertas dolencias. Las certificaciones correspondientes se tramitarán de conformidad con la legislación aplicable.
+La Secretaría, en coordinación con la Secretaría de Salud y con los Servicios de Salud del Estado de Puebla, impulsarán, colaborarán y participarán en el establecimiento de programas, lineamientos, criterios y estándares del Turismo Médico y de Salud, que comprende actividades que tengan como motivo principal o alterno recibir algún servicio de salud. Asimismo, celebrarán convenios o cualquier otro acto tendiente a la promoción y fomento del Turismo Médico y de Salud.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+De igual forma, fomentarán la certificación de todos aquellos establecimientos que brinden servicios de calidad, donde los turistas se puedan relajar, curar o aliviar de ciertas dolencias. Las certificaciones correspondientes se tramitarán de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 41 Sexies.
 
-Los prestadores de servicios relacionados con el Turismo de Salud se sujetarán a los lineamientos y disposiciones establecidos en la Ley General de Salud, Ley Estatal de Salud, Normas Oficiales Mexicanas y demás legislación sanitaria aplicable para tal efecto.
+Los prestadores de servicios relacionados con el Turismo Médico y de Salud se sujetarán a los lineamientos y disposiciones establecidos en la Ley General de Salud, la Ley Estatal de Salud, las Normas Oficiales Mexicanas y demás disposiciones sanitarias aplicables para tal efecto.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2015)</small>
 
@@ -1286,6 +1290,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XX Y XXI DEL ARTÍCULO 13, Y ADICIONA LA FRACCIÓN XXII AL 13 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VIII TER DEL TÍTULO SEGUNDO, ASÍ COMO LOS ARTÍCULOS 3 FRACCIÓN XX, 41 QUINQUIES Y 41 SEXIES DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
