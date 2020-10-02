@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-regula-el-regimen-de-propiedad-en-condominio-para-82715
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-10"
-last_updated: "2019-03-28"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la segunda sección del Periódico Oficial del Estado de Puebla, el miércoles 10 de agosto de 2011.
 
@@ -373,15 +373,43 @@ I.- Las generales se celebrarán por lo menos cada seis meses y tanto éstas com
 
 II.- Cada condómino gozará de un voto por unidad de propiedad exclusiva del total del bien condominal;
 
-III.- La votación será personal, nominal y directa, sin perjuicio de que el reglamento interior determine otros procedimientos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+III.- La votación será nominal y directa, la cual podrá delegarse a un representante que se acreditará mediante carta poder firmada por el mandante y dos testigos. En ningún caso una sola persona podrá representar a más de tres condóminos;
 
 IV.- Las resoluciones de la Asamblea, se tomarán por mayoría simple de los condóminos, cuando a ésta asistan el 50% más uno de los condóminos o de sus representantes, en términos de la presente Ley, excepto en los casos en que la Ley y el reglamento interior establezcan una mayoría especial;
 
-V.- De las sesiones se llevará un libro de actas;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-VI.- La convocatoria deberá realizarse con diez días de anticipación para el caso de asambleas generales, y cinco para las asambleas extraordinarias, debiendo incluirse en ella el lugar, día y hora de celebración, así como el orden del día; y
+V.- De las sesiones se llevará un libro de actas que deberá contener al menos: lugar, fecha, hora de inicio y de cierre, orden del día, firmas de los participantes, lista de asistentes, acuerdos y desarrollo de la Asamblea; para su validez el acta deberá presentarse y registrarse ante la autoridad municipal competente en un término no mayor de diez días después de celebrada la Asamblea;
 
-VII.- Para declarar válida una asamblea celebrada en primera convocatoria, deberá contarse cuando menos con la asistencia de más del cincuenta por ciento de los condóminos o sus representantes en términos de la presente Ley, en caso de una segunda convocatoria se declarará válida con los asistentes.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VI.- La convocatoria deberá realizarse con diez días de anticipación para el caso de asambleas generales, y cinco para las asambleas extraordinarias, debiendo incluirse en ella el lugar, día y hora de celebración, así como el orden del día;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VII.- Para declarar válida una asamblea celebrada en primera convocatoria, deberá contarse cuando menos con la asistencia de más del cincuenta por ciento de los condóminos o sus representantes en términos de la presente Ley, en caso de una segunda convocatoria se declarará válida con los asistentes;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VIII.- Podrán convocar a Asamblea General de acuerdo a lo que establece esta Ley:
+
+a) El Administrador o Comité de Administración,
+
+b) La Mesa Directiva,
+
+c) Cuando menos el 40% del total de los condóminos acreditando la convocatoria ante la Administración y la Mesa Directiva del Condominio;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IX.- Cuando por la importancia del o los asuntos a tratar en la Asamblea se considere necesario, se podrá solicitar la presencia de un Notario Público; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+X.- Las reglas para la convocatoria, organización y desahogo de las Asambleas se sujetarán a lo previsto en esta Ley, la escritura constitutiva y su reglamento interior.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 2 DE OCTUBRE DE 2020)</small>
 
 Las determinaciones y acuerdos tomados por la asamblea obligan a todos los condóminos, incluyendo a los ausentes y residentes.
 
@@ -688,6 +716,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 28 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII Y VIII DEL ARTÍCULO 8, Y ADICIONA LA FRACCIÓN IX AL ARTÍCULO 8, Y EL ARTÍCULO 14 BIS, TODOS DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, V, VI Y VII DEL ARTÍCULO 33 Y ADICIONA LAS FRACCIONES VIII, IX, X Y UN ÚLTIMO PÁRRAFO AL 33 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
