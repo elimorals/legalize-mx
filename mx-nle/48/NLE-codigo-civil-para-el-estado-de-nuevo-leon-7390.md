@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2020-06-17"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -12165,9 +12165,11 @@ Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera ha
 
 Los daños y perjuicios deben ser consecuencia inmediata y directa de la falta de cumplimiento de la obligación, ya sea que se hayan causado o que necesariamente deban causarse.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### Art. 2005.
 
-Nadie está obligado al caso fortuito sino cuando ha dado causa o contribuído a él, cuando ha aceptado expresamente esa responsabilidad, o cuando la ley se la impone.
+Nadie está obligado al caso fortuito o fuerza mayor, sino cuando ha dado causa o contribuido a él, cuando ha aceptado expresamente esa responsabilidad, o cuando la ley se la impone.
 
 ###### Art. 2006.
 
@@ -13748,6 +13750,10 @@ Si por caso fortuito o fuerza mayor se impide totalmente al arrendatario el uso 
 ###### Art. 2326.
 
 Si solo se impide en parte el uso de la cosa, podrá el arrendatario pedir la reducción parcial de la renta, a juicio de peritos, a no ser que las partes opten por la rescisión del contrato, si el impedimento dura el tiempo fijado en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Los arrendatarios de bienes inmuebles en los cuales se realicen actividades de giro comercial y que resulten perturbados en el disfrute de los mismos como consecuencia de la aplicación de declaratoria de emergencia de protección civil o sanitaria emitida por autoridad competente, en la cual se ordene el cese de las operaciones comerciales del giro comercial que le resulte aplicable, podrán tener derecho a una rebaja de la renta durante el tiempo que dure la declaratoria de emergencia y la prohibición de la apertura de sus comercios sobre la circunscripción territorial en la que se ubique el inmueble en términos de lo pactado entre el arrendador y arrendatario o a falta de acuerdo, lo que defina la autoridad competente.
 
 ###### Art. 2327.
 
@@ -17714,6 +17720,18 @@ P.O. 17 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 294. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 308 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 308 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 357. SE REFORMA EL ARTÍCULO 2005 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 358. SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 2326 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
