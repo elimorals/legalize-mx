@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2020-01-14"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -69,11 +69,11 @@ LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
 La presente Ley es de orden público e interés social; y tiene por objeto establecer las condiciones necesarias para lograr la protección, atención, bienestar y desarrollo de las personas a partir de los sesenta años de edad, sin distinción de raza, sexo, credo, religión, situación económica o nivel cultural, para lograr su plena integración al desarrollo social, económico, político y cultural.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 2.
 
-Para los efectos de la presente Ley, se entenderá por "personas adultas mayores", a las personas a partir de los sesenta años de edad.
+Para los efectos de la presente Ley, se entenderá por “personas adultas mayores”, a las personas a partir de los sesenta años de edad que se encuentren domiciliadas o en tránsito en el territorio del Estado de Puebla.
 
 > <small>(ADICIONADO, P.O. 14 DE ENERO DE 2020)</small>
 
@@ -111,7 +111,9 @@ VII.- Promover y diseñar, de manera coordinada con la Secretaría de Turismo y 
 
 VIII.- Impulsar con los sectores público, social y privado políticas preferenciales para las personas adultas mayores, que comprendan precios especiales o gratuitos en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y transporte;
 
-IX.- Implementar programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto y dignificación hacia ellas, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IX.- Implementar de forma continua y permanente programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto a sus derechos humanos y dignificación hacia ellas, y
 
 X.- Las demás que determine el presente Ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
 
@@ -137,7 +139,9 @@ VII.- Llevar a cabo las acciones procedentes para su afiliación al Instituto Na
 
 VIII.- Informar a la Fiscalía General del Estado de Puebla, de la probable comisión de delitos en su contra, de los cuales se tenga conocimiento;
 
-IX.- Implementar programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto y dignificación hacia ellas;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IX.- Implementar de forma continua y permanente programas de concientización para que las personas adultas mayores reciban la protección de su familia, de la sociedad en general, fomentando una cultura de respeto a sus derechos humanos y dignificación hacia ellas;
 
 X.- Fomentar la participación social, así como impulsar la creación de establecimientos en los cuales se dé atención a las personas adultas mayores desamparadas;
 
@@ -175,9 +179,9 @@ III.- Vivir con decoro, honor y respeto, libres de cualquier forma de violencia 
 
 IV.- Residir dignamente en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie enfermedad grave, que requiera de internamiento en instituciones especializadas;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-V.- Gozar del respeto y reconocimiento de su dignidad como personas adultas mayores y ser protegidas contra toda forma de explotación;
+V.- Gozar del respeto a sus derechos humanos y ser protegidos contra toda forma de explotación;
 
 VI.- Seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad de ser ocupado en trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, aprovechando de esta manera sus habilidades, sin más restricción que sus limitaciones físicas o mentales declaradas por autoridad médica o legal competente;
 
@@ -199,9 +203,17 @@ XIII.- Obtener atención de calidad con componentes gerontológicos y geriátric
 
 XIV.- Estar informados de las condonaciones y descuentos a que se refiere el artículo anterior;
 
-XV.- Prestar labor social, sin que esto implique que puedan ser obligados a realizar cualquier trabajo; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XVI.- Los demás que dimanen de la presente Ley y otras disposiciones aplicables.
+XV.- Prestar labor social, sin que esto implique que puedan ser obligados a realizar cualquier trabajo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XVI.- Disfrutar del respeto a su integridad física, psicoemocional y sexual; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XVII.- Los demás previstos en la presente Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -409,7 +421,9 @@ II.- Carecer de familia;
 
 III.- Sufrir trastornos físicos o mentales que los incapacite;
 
-IV.- Ser víctimas de rechazo o malos tratos; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IV.- Ser víctimas de rechazo, abandono o malos tratos; y
 
 V.- Carecer de habitación.
 
@@ -463,17 +477,35 @@ Si una persona adulta mayor carece de familiares, será atendido en los establec
 
 Cualquier persona podrá hacer del conocimiento de las autoridades competentes, los casos de las personas adultas mayores abandonadas o maltratadas, de acuerdo a lo establecido por las disposiciones jurídicas vigentes.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
-La familia de las personas adultas mayores, estará obligada a:
+La calidad de vida de las personas adultas mayores deberá ser garantizada en todo momento por su familia, la cual proporcionará los satisfactores de las necesidades básicas de cuidado, atención y desarrollo integral, teniendo además las siguientes obligaciones:
 
-I.- Evitar que alguno de sus integrantes cometa actos de discriminación, abuso, aislamiento, prepotencia o violencia, en contra de la persona adulta mayor;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-II.- Abstenerse de obligar a la persona adulta mayor a realizar cualquier acto que ponga en riesgo su persona, bienes o derechos, y
+I.- Evitar que se cometa cualquier acto de discriminación, abuso, explotación, tortura, aislamiento, prepotencia, perjuicio, daño, maltrato, agresión, trata de personas o violencia en contra de la persona adulta mayor;
 
-III.- Abstenerse de forzar a la persona adulta mayor a realizar actos de mendicidad, que atenten a su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física o mental.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+II.- Abstenerse de obligar a la persona adulta mayor a realizar cualquier acto que ponga en riesgo su persona, salud, bienes o derechos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+III.- Abstenerse de forzar a la persona adulta mayor a realizar actos de mendicidad o a efectuar un trabajo que atente a su dignidad o que implique un esfuerzo que perjudique su salud física o mental, o que pueda provocarle la muerte;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IV.- Otorgar alimentos, de conformidad con lo establecido en el Código Civil para el Estado Libre y Soberano de Puebla;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+V.- Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe de manera activa, y promover al mismo tiempo los valores y principios, que incidan en sus necesidades afectivas, de protección y de apoyo; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VI.- Atender sus necesidades psicoemocionales, cuando la persona adulta mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores, con la finalidad de mantener los lazos familiares.
 
 ### CAPÍTULO VIII. DEL EMPLEO Y LA CAPACITACIÓN
 
@@ -563,11 +595,11 @@ El incumplimiento a lo dispuesto en esta Ley por parte de servidores públicos, 
 
 Las violaciones a lo establecido en la presente Ley por personas u organizaciones que no sean autoridades, serán sancionadas conforme a lo establecido por los ordenamientos legales aplicables.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 44.
 
-Cualquier persona que tenga conocimiento del maltrato o violencia contra las personas adultas mayores deberá denunciarlo de manera inmediata ante las autoridades competentes.
+Cualquier persona que tenga conocimiento del maltrato, abandono o violencia contra las personas adultas mayores deberá denunciarlo de manera inmediata ante las autoridades competentes.
 
 ## TRANSITORIOS
 
@@ -622,6 +654,14 @@ TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 14 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO; POR EL QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 3 BIS, Y ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 2, LA FRACCIÓN IX DEL 3, LA FRACCIÓN IX DEL 3 BIS, LAS FRACCIONES V, XV Y XVI DEL 4, LA FRACCIÓN IV DEL 25, PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y III DEL 33 Y 44; Y ADICIONA LA FRACCIÓN XVII AL 4 Y LAS FRACCIONES IV, V Y VI AL 33; TODOS DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
