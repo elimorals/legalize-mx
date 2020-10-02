@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2019-12-06"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -87,41 +87,89 @@ VI.- Discapacidad Mental: A la alteración o deficiencia en el sistema neuronal 
 
 VII.- Discapacidad Sensorial: Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos;
 
-VIII.- Educación Especial: Conjunto de servicios, programas, orientación y recursos educativos especializados, que favorece la eliminación de barreras físicas, sensoriales, afectivas y cognitivas para el acceso, aprendizaje, y participación de las personas que padecen algún tipo de discapacidad, así como aquellos con capacidades y aptitudes sobresalientes, que no logran acceder a la escolaridad regular, en ella se favorecerá su desarrollo integral, y se facilitará la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación; así mismo se promoverá su inserción en la escuela regular;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-IX.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con el goce o ejercicio en paridad de condiciones de todos los derechos y libertades fundamentales;
+VIII.- Comunicación: Se entenderá el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
-X.- Impedimento: La incapacidad que constituye una desventaja para una persona, en cuanto limite o impida el cumplimiento de una función que es normal según sea la edad, el sexo, los factores sociales y culturales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XI.- Inclusión: Impulso y transformación de la administración pública y la sociedad para la inserción total de las personas con algún tipo y grado de discapacidad en las áreas de salud, trabajo, educación, transporte, servicios y demás materias para el desarrollo de una vida en condiciones normales, que provoca el diseño y aplicación de políticas públicas no discriminatorias;
+IX.- Comunidad de Sordos: Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
 
-XII.- Índice Apgar: El sistema de puntuación que permite valorar la calidad de presión respiratoria y respuesta neurológica al momento del nacimiento, mediante la calificación de ciertos signos físicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+X.- Educación Especial: Conjunto de servicios, programas, orientación y recursos educativos especializados, que favorece la eliminación de barreras físicas, sensoriales, afectivas y cognitivas para el acceso, aprendizaje, y participación de las personas que padecen algún tipo de discapacidad, así como aquellos con capacidades y aptitudes sobresalientes, que no logran acceder a la escolaridad regular, en ella se favorecerá su desarrollo integral, y se facilitará la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación; así mismo se promoverá su inserción en la escuela regular;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XI.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XII.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con el goce o ejercicio en paridad de condiciones de todos los derechos y libertades fundamentales;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XII Bis.- Instituto.- Instituto de la Discapacidad del Estado de Puebla;
 
-XIII.- Legislación Asistencial: La Ley sobre el Sistema Estatal de Asistencia Social;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XIV.- Legislación Sanitaria: La Ley Estatal de Salud;
+XIII.- Impedimento: La incapacidad que constituye una desventaja para una persona, en cuanto limite o impida el cumplimiento de una función que es normal según sea la edad, el sexo, los factores sociales y culturales;
 
-XV.- Legislación Vial: Ordenamiento que en materia de tránsito y vialidad (sic) emita el Estado, así como los Municipios, en sus respectivos ámbitos de competencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XVI.- Ley: Ley para las Personas con Discapacidad del Estado de Puebla;
+XIV.- Inclusión: Impulso y transformación de la administración pública y la sociedad para la inserción total de las personas con algún tipo y grado de discapacidad en las áreas de salud, trabajo, educación, transporte, servicios y demás materias para el desarrollo de una vida en condiciones normales, que provoca el diseño y aplicación de políticas públicas no discriminatorias;
 
-XVII.- Lugares con acceso al público: Los inmuebles del dominio público de propiedad particular que, en razón de la naturaleza principal de las actividades que en ellos se realizan, permitan el libre tránsito de las personas y, en su caso, de sus vehículos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XVIII.- Minusvalía: Es la limitación o pérdida de oportunidades de participar en la vida de la comunidad en condiciones de igualdad con los demás;
+XV.- Índice Apgar: El sistema de puntuación que permite valorar la calidad de presión respiratoria y respuesta neurológica al momento del nacimiento, mediante la calificación de ciertos signos físicos;
 
-XIX.- Persona con Discapacidad: La que por deficiencia física, mental, intelectual y sensorial ya sea de naturaleza permanente o temporal, se encuentra limitada para ejercer o interactuar en una o más actividades esenciales de la vida diaria, lo que le impide estar en igualdad de condiciones para con los demás;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XX.- Reglamento de Construcciones: Los Reglamentos de Construcciones expedidos por los Ayuntamientos de los Municipios del Estado;
+XVI.- Legislación Asistencial: La Ley sobre el Sistema Estatal de Asistencia Social;
 
-XXI.- Senescentes: Persona que en razón de su edad padece disminución o limitación de sus facultades mentales, visión o audio;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XXII.- Sistema DIF: Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, y
+XVII.- Legislación Sanitaria: La Ley Estatal de Salud;
 
-XXIII.- Vía Pública: Los espacios terrestres, de uso común, destinados al tránsito.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XVIII.- Legislación Vial: Ordenamiento que en materia de tránsito y vialidad emita el Estado, así como los Municipios, en sus respectivos ámbitos de competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XIX.- Lengua de Señas Mexicana: Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XX.- Ley: Ley para las Personas con Discapacidad del Estado de Puebla;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXI.- Lugares con acceso al público: Los inmuebles del dominio público de propiedad particular que, en razón de la naturaleza principal de las actividades que en ellos se realizan, permitan el libre tránsito de las personas y, en su caso, de sus vehículos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXII.- Minusvalía: Es la limitación o pérdida de oportunidades de participar en la vida de la comunidad en condiciones de igualdad con los demás;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXIII.- Persona con Discapacidad: La que por deficiencia física, mental, intelectual y sensorial ya sea de naturaleza permanente o temporal, se encuentra limitada para ejercer o interactuar en una o más actividades esenciales de la vida diaria, lo que le impide estar en igualdad de condiciones para con los demás;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXIV.- Reglamento de Construcciones: Los Reglamentos de Construcciones expedidos por los Ayuntamientos de los Municipios del Estado;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXV.- Senescentes: Persona que en razón de su edad padece disminución o limitación de sus facultades mentales, visión o audio;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXVI.- Sistema DIF: Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XXVII.- Vía Pública: Los espacios terrestres, de uso común, destinados al tránsito.
 
 ###### Artículo 5.
 
@@ -151,9 +199,9 @@ III.- Educación inclusiva e investigación;
 
 IV.- Deporte, cultura y recreación;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-V.- Comunicación, información y acceso a las tecnologías de la información;
+V.- Comunicación, estenografía proyectada, información y acceso a las tecnologías de la información.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -512,6 +560,10 @@ VIII.- A que se respete su integridad física y mental en igualdad de condicione
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 IX.- Tener privacidad de la información y de la rehabilitación, en igualdad de condiciones con los demás.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+X.- Facilitar la asistencia de intérpretes en Lengua de Señas Mexicana y/o en sistema braille.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -1086,3 +1138,7 @@ P.O. 6 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. EL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII A XXIII DEL ARTÍCULO 4, LA FRACCIÓN V DEL ARTÍCULO 6, Y ADICIONA LAS FRACCIONES XXIV A XXVII AL ARTÍCULO 4 Y LA FRACCIÓN X AL ARTÍCULO 16, TODOS DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
