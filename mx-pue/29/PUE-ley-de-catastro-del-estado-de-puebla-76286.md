@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-catastro-del-estado-de-puebla-76286"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-16"
-last_updated: "2017-02-22"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
 
@@ -35,7 +35,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57, 63 fracciones I y II, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I, 69 fracciones I y II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -80,6 +82,18 @@ VIII. Establecer las formas en las que se podrán sustanciar los trámites y ser
 Para efectos de la presente Ley, el Catastro es el sistema de información territorial de uso multifinalitario; integrado por registros, tanto gráficos, geométricos, vectoriales y raster, así como numéricos o alfanuméricos, los cuales contienen datos referentes al inventario de los predios, así como de infraestructura y equipamiento urbano, su entorno y toda aquélla susceptible de ser inventariada, ubicada en el territorio del Estado.
 
 La formación y conservación del Catastro, es de interés y utilidad pública.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Los Catastros utilizarán la firma electrónica avanzada en los documentos digitales y, en su caso, en los mensajes de datos que emitan, con motivo del cumplimiento de su función, de conformidad con la ley aplicable en la materia
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+En el ejercicio de la función catastral se observarán los principios de inscripción, validación de trámites, especialidad o determinación y prelación, por lo que deberán garantizar una operación eficiente realizada con estándares de calidad.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Con la finalidad de eficientar la función catastral y promover su modernización, se procurará en la medida de lo posible, el uso de las tecnologías de la información, y la implementación de los sistemas digitales necesarios que permitan automatizar los procesos que se requieran.
 
 ###### Artículo 4.
 
@@ -191,6 +205,10 @@ III. Rústicos.
 
 El Gobierno del Estado en coordinación con los Municipios y en el ámbito de sus respectivas competencias, realizarán actividades catastrales, y se proporcionarán mutua ayuda, cooperación e información, en términos de esta Ley y de los convenios que para tal efecto suscriban.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+El Instituto y los municipios deberán diseñar programas para la homologación y armonización de sus Catastros que permitan su modernización y vinculación, de conformidad con la disponibilidad presupuestal.
+
 ###### Artículo 10.
 
 El Gobierno del Estado por conducto del Instituto, será el encargado de interpretar en el ámbito administrativo la presente Ley, así como de emitir las disposiciones que sean necesarias para su debida aplicación y cumplimiento, sin perjuicio de las facultades que correspondan a los Municipios en términos de esta Ley y demás disposiciones aplicables.
@@ -206,6 +224,10 @@ El cómputo de los términos y plazos a que se refiere la presente Ley, se reali
 ###### Artículo 13.
 
 La prestación de los servicios a que se refiere la presente Ley, proporcionados ya sea por la autoridad catastral estatal o la municipal, se realizará previo pago de los derechos previstos según corresponda, en las Leyes de Ingresos del Estado o del Municipio respectivo que para cada Ejercicio Fiscal apruebe el Congreso Estatal.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Los procesos catastrales podrán solicitarse de manera presencial en las oficinas de los Catastros, o a través de vía remota mediante los medios electrónicos que estos mismos dispongan, de conformidad con la disponibilidad presupuestal y en términos de las disposiciones jurídicas aplicables.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES CATASTRALES EN EL ESTADO Y SUS ATRIBUCIONES
 
@@ -305,7 +327,9 @@ XI. Valuar y/o revaluar los predios del Estado de Puebla, de conformidad con las
 
 XII. Inscribir en el padrón Catastral los predios de los propietarios o poseedores, y en los casos que proceda, realizar su cancelación o modificación, en términos de esta Ley y demás disposiciones legales aplicables;
 
-XIII. Actualizar la cartografía catastral del Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XIII. Actualizar la cartografía catastral del Estado, con los sistemas digitales necesarios, de conformidad con la disponibilidad presupuestal y en términos de las disposiciones jurídicas aplicables;
 
 XIV. Realizar la inspección de los predios ubicados en la circunscripción territorial del Estado para efectos catastrales y de valuación comercial;
 
@@ -371,7 +395,9 @@ IX. Determinar los valores catastrales correspondientes a cada predio, con apego
 
 X. Localizar cada predio mediante su deslinde y medida e incorporarlo a la cartografía catastral, con observancia de los métodos que determine el Instituto;
 
-XI. Elaborar y actualizar permanentemente la cartografía catastral del territorio de su Municipio, conforme a lo dispuesto en esta Ley y las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XI. Elaborar y actualizar permanentemente la cartografía catastral del territorio de su Municipio, con los sistemas digitales necesarios y conforme a lo dispuesto en esta Ley y las disposiciones aplicables;
 
 XII. Llevar a cabo, de conformidad con las disposiciones aplicables, la inspección de los predios ubicados en la circunscripción territorial de su Municipio, con el objeto de obtener información para conformar y actualizar su catastro y determinar la base de las contribuciones sobre la propiedad inmobiliaria;
 
@@ -559,7 +585,9 @@ II. Levantamiento predial;
 
 III. Inspección catastral;
 
-IV. Elaboración y actualización de la cartografía catastral;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IV. Elaboración y actualización de la cartografía catastral, con los sistemas digitales necesarios;
 
 V. Valuación catastral;
 
@@ -572,6 +600,16 @@ VIII. Zonificación catastral;
 IX. Determinación de tablas de valores unitarios; y
 
 X. Censo catastral.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Los procesos catastrales deberán realizarse electrónicamente y podrán iniciarse:
+
+I. A petición de parte por los propietarios, poseedores o personas que tengan un derecho real sobre los Predios o por cualquier persona con interés legítimo en cumplimiento a una obligación registra! (sic);
+
+II. De oficio, por parte de las autoridades catastrales competentes, y
+
+III. Por notario pÚblico que haya autorizado o vaya a autorizar el acto jurídico de que se trate.
 
 ### CAPÍTULO II. DEL REGISTRO CATASTRAL
 
@@ -633,11 +671,11 @@ Al inicio de la inspección, el personal acreditado para llevarla a cabo, deber�
 
 ### CAPÍTULO V. DE LA CARTOGRAFÍA CATASTRAL
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 54.
 
-Cartografía catastral es el conjunto de planos, mapas y bases de datos geográficas físicos y electrónicos, que contienen información relativa a los predios y su entorno. Su elaboración, clasificación, conservación y difusión, deberán sujetarse a las disposiciones que en la materia emita el Instituto.
+Cartografía catastral es el conjunto de planos, mapas y bases de datos geográficas físicos y electrónicos, que contienen información relativa a los predios y su entorno. Su elaboración, clasificación, conservación, difusión y actualización digital deberán sujetarse a las disposiciones que en la materia emita el Instituto.
 
 ### CAPÍTULO VI. DE LA VALUACIÓN CATASTRAL
 
@@ -739,9 +777,11 @@ Si concluida la vigencia a que se refiere el párrafo anterior, el Gobierno Muni
 
 ### CAPÍTULO XI. DEL CENSO CATASTRAL
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 68.
 
-El censo catastral es el programa masivo de levantamiento e inspección predial llevado a cabo por las autoridades catastrales con objeto de actualizar la cartografía y bases de datos catastrales del territorio.
+El censo catastral es el programa masivo de levantamiento e inspección predial llevado a cabo por las autoridades catastrales con objeto de actualizar la cartografía y bases de datos catastrales del territorio, con los sistemas digitales necesarios para su actualización.
 
 ###### Artículo 69.
 
@@ -1280,3 +1320,13 @@ P.O. 22 DE FEBRERO DE 2017.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIII DEL ARTÍCULO 16, LA XI DEL 20, LA IV DEL 43, LOS ARTÍCULOS 54 Y 68, Y ADICIONA LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 3, SEGUNDO AL 9, SEGUNDO AL 13, Y SEGUNDO Y TERCERO AL 43, TODOS DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestaria para el cumplimiento del presente Decreto, en su caso.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
