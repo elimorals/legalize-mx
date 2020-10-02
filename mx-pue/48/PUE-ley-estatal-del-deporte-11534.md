@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2019-04-23"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -77,9 +77,11 @@ LEY ESTATAL DEL DEPORTE
 
 Las disposiciones de esta Ley, son de orden público e interés social y tienen por objeto establecer el Sistema Estatal del Deporte, así como las bases para su funcionamiento, con el fin de coadyuvar en la formación y desarrollo integral de los habitantes del Estado de Puebla en las actividades relacionadas con el deporte, la cultura física y la activación física.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 ###### ARTICULO 2.
 
-Se reconoce el derecho de todo individuo al conocimiento y práctica del deporte. Al constituir un derecho, el Gobierno del Estado y los Ayuntamientos de los Municipios tienen la obligación de incluirlo dentro de sus planes, programas y presupuestos, acciones y recursos que propicien las prácticas deportivas.
+Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte, sin distinción, exclusión o restricción basada por razón del origen étnico, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la lengua, la orientación sexual, el estado civil, la creencia religiosa, o cualquier otra condición que tenga por efecto anular o menoscabar el goce y ejercicio de este derecho. Al constituir un derecho, el Gobierno del Estado y los Ayuntamientos de los Municipios tienen la obligación de incluirlo dentro de sus planes, programas y presupuestos, acciones y recursos que propicien las prácticas deportivas.
 
 ###### ARTICULO 3.
 
@@ -111,17 +113,29 @@ IV.- Deporte de alto rendimiento y talentos deportivos;
 
 V.- Deportes autóctonos y tradicionales;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-VI.- Deportes para adultos mayores y personas con discapacidad;
+VI.- Deporte para adultos mayores;
 
-VII.- Formación, capacitación y actualización de entrenadores deportivos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-VIII.- Infraestructura deportiva;
+VII.- Deporte adaptado para personas con discapacidad;
 
-IX.- Deporte Recreativo; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-X.- Deporte Popular.
+VIII.- Formación, capacitación y actualización de entrenadores deportivos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IX.- Infraestructura deportiva;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+X.- Deporte Recreativo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XI.- Deporte Popular.
 
 ###### ARTICULO 7.
 
@@ -225,11 +239,11 @@ VII.- Evaluar permanentemente la práctica del deporte, la cultura física y la 
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
 
-VIII. Promover el otorgamiento de estímulo a las personas que destaquen en alguna actividad deportiva;
+VIII.- Promover el otorgamiento de estímulo a las personas que destaquen en alguna actividad deportiva;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-IX. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con discapacidad;
+IX.- Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el diseño universal, los ajustes razonables y el pleno reconocimiento a la equidad, igualdad e inclusión hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
@@ -237,7 +251,7 @@ X.- Promover la cultura de la paz en el deporte y las medidas necesarias a fin d
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
 
-XI. Las demás que le otorgue esta Ley, su reglamento y demás normas reglamentarias y estatutarias, aplicables.
+XI.- Las demás que le otorgue esta Ley, su reglamento y demás normas reglamentarias y estatutarias, aplicables.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
 
@@ -273,7 +287,9 @@ III.- Las políticas y lineamientos, para que los centros educativos públicos y
 
 IV.- El incremento de entrenadores deportivos para la práctica y desarrollo del deporte;
 
-V.- La planeación, programación y ejecución, a través de las instituciones públicas o privadas, de las prácticas deportivas y recreativas de acuerdo al Sistema Estatal del Deporte;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+V.- La Planeación, programación y ejecución, a través de las instituciones pÚBlicas (sic) o privadas, de las actividades físicas, prácticas deportivas y recreativas, como un medio importante en la prevención del delito, las adicciones y el uso indebido de drogas de acuerdo al Sistema Estatal del Deporte;
 
 VI.- Los medios para que los organismos deportivos conozcan y cumplan con las disposiciones de la presente Ley;
 
@@ -287,9 +303,9 @@ X.- El otorgamiento de apoyos económicos o de equipamiento a las Asociaciones D
 
 XI.- La concertación con asociaciones deportivas, con el fin de que éstas se organicen debidamente;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XII.- Los mecanismos necesarios para impulsar el desarrollo del deporte, la cultura física y la activación física para adultos mayores y personas con discapacidad, así como otorgar especial atención en estas materias, en el sector social; y
+XII.- Los mecanismos necesarios para impulsar el desarrollo del deporte, la cultura física y la activación física para adultos mayores y personas con discapacidad, así como otorgar especial atención en estas materias, en el sector social y el impulso a la investigación de los diferentes implementos que se requieren para la práctica de las diferentes disciplinas y modalidades que practican las personas con discapacidad; y
 
 XIII.- La creación del Salón de Honor del Deportista Poblano.
 
@@ -487,15 +503,17 @@ El Gobernador del Estado, promoverá la constitución de un fondo estatal para e
 
 ### CAPITULO IV. DEL FOMENTO AL DEPORTE ADAPTADO
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-ARTICULO 30 BIS.- El Consejo Estatal del Deporte en su respectivo ámbito de competencia, en coordinación con las Asociaciones Civiles de Deporte para personas con discapacidad además de las facultades previstas en el artículo 14 de la presente Ley tendrá las siguientes:
+ARTICULO 30 BIS. El deporte adaptado consiste en la práctica del deporte realizado por personas con cualquier tipo de discapacidad.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 30 BIS 1. El Consejo Estatal del Deporte en su respectivo ámbito de competencia, en coordinación con las Asociaciones Civiles de Deporte para personas con discapacidad además de las facultades previstas en el artículo 14 de la presente Ley tendrá las siguientes:
 
 I. Proponer las condiciones básicas que serán consideradas para el aprovechamiento y realización de las actividades encaminadas a la inclusión en la vida deportiva de personas con discapacidad, respetándose siempre los derechos de igualdad, libertad, accesibilidad, inclusión, autonomía personal, no discriminación y de participación;
 
-Las condiciones mencionadas en el párrafo anterior, estarán conforme a los principios previstos en el artículo primero de la Constitución Política de los Estados Unidos Mexicanos y regirán de manera enunciativa mas no limitativa.
-
-II. Concientizar y motivar el interés integrador y socializador para una mejor inclusión en la vida social de las personas con discapacidad, con apego a los principios y derechos de la presente Ley; y
+II. Concientizar y motivar el interés integrador y socializador para una mejor inclusión en la vida social de las personas con discapacidad, con apego a los principios y derechos de la presente Ley, y
 
 III. Impulsar el desarrollo de talento de las personas con alguna discapacidad, inculcando la propia superación personal.
 
@@ -631,11 +649,11 @@ El Ejecutivo del Estado, a través de la Secretaría de Educación Pública de l
 
 En la construcción de instalaciones deportivas, deberá tomarse en cuenta las obras que sean necesarias para la práctica del deporte infantil y federado, debiendo en todo caso contar con las especificaciones técnicas señaladas en la Legislación correspondiente y que sean necesarias para su desarrollo.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 40.
 
-En la reestructuración de las instalaciones deportivas ya existentes y en el acondicionamiento de las que se construyan, se deberá tomar en cuenta el deporte para adultos mayores y personas con discapacidad.
+En la reestructuración de las instalaciones deportivas ya existentes y en el acondicionamiento de las que se construyan, se deberá tomar en cuenta el deporte adaptado para personas con discapacidad y el deporte para adultos mayores.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2012)</small>
 
@@ -718,6 +736,18 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 11, LA FRACCIÓN X DEL 14 Y EL 35 DE LA LEY ESTATAL DEL DEPORTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. EL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI A X DEL ARTÍCULO 6, LA FRACCIÓN IX DEL ARTÍCULO 14, LAS FRACCIONES V Y XII DEL ARTÍCULO 18, EL ARTÍCULO 30 BIS Y EL ARTÍCULO 40, Y ADICIONA LA FRACCIÓN XI AL ARTÍCULO 6 EL ARTÍCULO 30 BIS 1, TODOS DE LA LEY ESTATAL DEL DEPORTE”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o DEL CÓDIGO CIVIL FEDERAL.]</small>
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 2 DE LA LEY ESTATAL DEL DEPORTE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
