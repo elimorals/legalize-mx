@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-07-29"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -143,9 +143,9 @@ X.- Víctima: La mujer de cualquier edad a quien se le causa algún tipo de viol
 
 X Bis.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XI.- Persona en condición de vulnerabilidad: aquella que, por razón de su edad, género, estado físico o mental, o por circunstancias sociales, económicas, étnicas y/o culturales, encuentra especial dificultad para ejercitar con plenitud ante el sistema de justicia sus derechos humanos;
+XI.- Mujeres en condición de riesgo: Aquellas que por su origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; y/o cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -247,13 +247,11 @@ IV.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la superviv
 
 V.- Violencia sexual.- Es cualquier acto que degrade, dañe o lesione el cuerpo y/o la sexualidad de la víctima, por tanto atenta contra su integridad física, libertad y/o dignidad. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-VI.- Violencia obstétrica.- Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer, y
+VI. Cualquier otro tipo análogo que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VII.- (DEROGADA, P.O. 2 DE OCTUBRE DE 2020)
 
 #### SECCIÓN PRIMERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO FAMILIAR
 
@@ -277,9 +275,17 @@ III.- La atención que reciban la víctima y el agresor será proporcionada por 
 
 IV.- Favorecer la separación y distanciamiento del agresor con respecto a la víctima, protegiendo necesariamente a ésta y a sus hijas e hijos;
 
-V.- Favorecer la instalación y mantenimiento de albergues, casas de medio camino y refugios para las víctimas, sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-VI.- Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima.
+V.- Favorecer la instalación y mantenimiento de albergues, casas de medio camino y refugios para las víctimas, sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VI.- Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VII.- La instalación, mantenimiento y funcionamiento de los Centros de Reeducación para agresores.
 
 #### SECCIÓN SEGUNDA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO LABORAL O DOCENTE
 
@@ -365,9 +371,37 @@ II.- La instrumentación de un sistema de atención, protección y defensa para 
 
 III.- El diseño de un centro de datos respecto a las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las distintas instancias y órdenes de gobierno.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+#### SECCIÓN TERCERA BIS. DE LA VIOLENCIA OBSTÉTRICA
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 18 BIS.- La violencia obstétrica, es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre, o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer.
+
+También se considera violencia obstétrica, negar la petición de acompañamiento de persona de confianza durante la prestación de los servicios médicos en los que la normatividad en materia de salubridad, epidemiología o control sanitario lo permita; fotografiar o grabar por cualquier medio el procedimiento de atención médica sin que medie el consentimiento voluntario; así como permitir el ingreso, atención o intervención de personal externo no acreditado ni justificado medicamente, sin que medie el consentimiento voluntario.
+
 #### SECCIÓN CUARTA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO INSTITUCIONAL
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
+###### ARTÍCULO 19.
+
+Violencia contra las mujeres en al ámbito institucional, son los actos u omisiones de las y/o los servidores públicos del Estado o de los Municipios que tengan por objeto o por resultado discriminación, impedir el reconocimiento, goce o ejercicio pleno de los derechos humanos de las mujeres, así como su acceso a políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Cuando las y/o los servidores públicos incurran en violencia contra las mujeres en el ámbito institucional, se estará a lo establecido en el Título III de la Ley General de Responsabilidades Administrativas.
+
+###### ARTÍCULO 20.
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, proporcionarán la capacitación a las y/o los servidores públicos, a fin de que en el ejercicio de sus funciones aseguren el derecho de las mujeres a una vida libre de violencia.
+
+###### ARTÍCULO 21.
+
+El Estado y los Municipios promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas cometidas por servidoras o servidores públicos en contra de las mujeres y en su caso, a reparar el daño, de conformidad con lo dispuesto por el ordenamiento legal aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2020)</small>
 
 #### SECCIÓN CUARTA BIS. DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
 
@@ -435,26 +469,6 @@ DE LA VIOLENCIA FEMINICIDA
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
-###### ARTÍCULO 19.
-
-Violencia contra las mujeres en al ámbito institucional, son los actos u omisiones de las y/o los servidores públicos del Estado o de los Municipios que tengan por objeto o por resultado discriminación, impedir el reconocimiento, goce o ejercicio pleno de los derechos humanos de las mujeres, así como su acceso a políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
-
-###### ARTÍCULO 20.
-
-El Estado y los Municipios, en el ámbito de sus respectivas competencias, proporcionarán la capacitación a las y/o los servidores públicos, a fin de que en el ejercicio de sus funciones aseguren el derecho de las mujeres a una vida libre de violencia.
-
-###### ARTÍCULO 21.
-
-El Estado y los Municipios promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas cometidas por servidoras o servidores públicos en contra de las mujeres y en su caso, a reparar el daño, de conformidad con lo dispuesto por el ordenamiento legal aplicable.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2020)</small>
-
-#### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
-
-ARTÍCULO 23 BIS.- Son los actos de acoso, hostigamiento, amenazas, intimidación, exhibición, insultos, vulneración de datos, mensajes de odio, o divulgación de información, textos y publicación de fotografías, videos, impresiones gráficas o sonoras, verdaderas, falsas o alteradas, de contenido violento, erótico o sexual, que se realice sin el consentimiento, empleando las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, aplicaciones, servicios de mensajería instantánea, correo electrónico o cualquier otro espacio digital, que atente contra la integridad, la intimidad, la libertad, la vida privada o transgreda algún derecho humano de las mujeres o de sus familias.
-
 ###### ARTÍCULO 22.
 
 Violencia feminicida es la manifestación extrema de violencia contra las mujeres, producto de la violación de sus derechos humanos, en cualquier ámbito, integrada por una serie de conductas misóginas que pueden implicar impunidad y originar la muerte.
@@ -470,6 +484,12 @@ En los casos de feminicidio se aplicarán las sanciones previstas en el Código 
 En el caso de que se declare una alerta de violencia de género contra las mujeres en el territorio del Estado, la persona Titular del Poder Ejecutivo, deberá tomar todas las medidas indicadas en sus resolutivos estableciendo un programa de trabajo que dé cumplimiento a las medidas de prevención, seguridad y justicia, así como cualquier otra indicada en la declaratoria para hacer frente a la contingencia en la entidad y abatir la violencia feminicida, asignándose los recursos presupuestales, humanos y materiales necesarios para hacerle frente. Así mismo, deberá emitir un mensaje a la ciudadanía de cero tolerancia, ante la comisión de conductas violentas en contra de las mujeres y niñas, el cual se deberá difundir, además de en español, en las principales lenguas indígenas que se hablen en la entidad, en todos los medios masivos de comunicación y radios comunitarias, así como a través de medios que sean accesibles para personas con discapacidad.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2020)</small>
+
+#### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+
+ARTÍCULO 23 BIS.- Son los actos de acoso, hostigamiento, amenazas, intimidación, exhibición, insultos, vulneración de datos, mensajes de odio, o divulgación de información, textos y publicación de fotografías, videos, impresiones gráficas o sonoras, verdaderas, falsas o alteradas, de contenido violento, erótico o sexual, que se realice sin el consentimiento, empleando las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, aplicaciones, servicios de mensajería instantánea, correo electrónico o cualquier otro espacio digital, que atente contra la integridad, la intimidad, la libertad, la vida privada o transgreda algún derecho humano de las mujeres o de sus familias.
 
 ## TÍTULO TERCERO. DE LAS MEDIDAS DE PROTECCIÓN
 
@@ -533,9 +553,11 @@ IV.- Las demás previstas en otras disposiciones legales.
 
 Son órdenes de protección preventivas las siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-I.- Retener y resguardar las armas de fuego propiedad del agresor, independientemente de si cuenta con el documento que acredite su legal portación de acuerdo a la normatividad de la materia;
+I.- Retener y resguardar las armas de fuego propiedad del agresor o de alguna otra institución privada de seguridad, independientemente de si cuenta con el documento que acredite su legal portación de acuerdo a la normatividad de la materia.
+
+Es aplicable lo anterior, a cualquier otro instrumento que independientemente de su uso, haya sido empleado para amenazar o lesionar a la víctima;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -557,11 +579,17 @@ V.- Entrega inmediata por parte de quien se encuentre en el domicilio o lugar en
 
 VI.- El auxilio de la fuerza pública como medida inmediata en favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre en el momento de solicitar el auxilio;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-VII.- Proporcionar servicios integrales especializados, gratuitos y con perspectiva de género al agresor, en Instituciones públicas o privadas debidamente acreditadas, y
+VII.- Proporcionar servicios integrales especializados, gratuitos y con perspectiva de género al agresor, en Instituciones públicas o privadas debidamente acreditadas;
 
-VIII.- Las demás previstas en otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VIII.- Las que se otorguen para los casos de violencia contra las mujeres privadas de su libertad, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+IX.- Las demás previstas en otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2019)</small>
 
@@ -1095,7 +1123,9 @@ Corresponde a la Secretaría de Educación Pública las funciones siguientes:
 
 I.- Definir y fomentar en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
 
-II.- Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+II.- Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, y el respeto a su dignidad; así como la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable, consciente e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo físico y psicológico de sus hijas e hijos;
 
 III.- Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
 
@@ -1107,9 +1137,9 @@ Deberá, a su vez, proporcionar escolarización inmediata de las niñas, adolesc
 
 V.- Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-VI.- Incorporar en los programas educativos, en todos los niveles de la instrucción, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+VI.- Incorporar en los programas educativos, en todos los niveles de la instrucción, el respeto a los derechos humanos de las mujeres, así como contenidos educativos con perspectiva de género, tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
 
 VII.- Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
 
@@ -1337,13 +1367,17 @@ XIV.- Difundir a través de diversos medios de comunicación, los resultados del
 
 XV.- Observar y emitir recomendaciones para que los medios de comunicación integren el lenguaje incluyente y con perspectiva de género, que contribuya a la erradicación de todos los tipos y modalidades de violencia y se fortalezca la dignidad de las mujeres;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XVI.- Fomentar que en el desarrollo político y en la ciudadanización de los organismos electorales, se observen la paridad y la perspectiva de género, y
+XVI.- Fomentar que en el desarrollo político y en la ciudadanización de los organismos electorales, se observen la paridad y la perspectiva de género;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XVII.- Las demás previstas en otros ordenamientos legales aplicables.
+XVII.- Coadyuvar con los Ayuntamientos en la implementación de Centros de Reeducación para Agresores; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XVIII.- Las demás previstas en otros ordenamientos legales aplicables.
 
 ###### ARTÍCULO 47.
 
@@ -1433,9 +1467,17 @@ VIII.- Participar y coadyuvar en la prevención, atención y erradicación de la
 
 IX.- Llevar a cabo, de acuerdo con los Sistemas Nacional y Estatal, programas de información a la población respecto de la violencia contra las mujeres;
 
-X.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XI.- Las demás previstas en otros ordenamientos legales aplicables.
+X.- Suscribir convenios de coordinación, colaboración y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XI.- Instalar Centros de Reeducación para Agresores con el objetivo de transformar los patrones de conducta violenta, y de educación para prevenir y erradicar la violencia en todos los tipos y modalidades previstos en esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XII.- Las demás previstas en otros ordenamientos legales aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -1588,6 +1630,32 @@ Para efectos del párrafo que precede, el personal médico, psicológico y jurí
 ###### ARTÍCULO 57.
 
 En ningún caso o por motivo alguno se podrá mantener a las víctimas en los albergues, casas de medio camino y refugios encargados de la atención, en contra de su voluntad, salvo mandato de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 57 Bis.
+
+Las autoridades de los tres órdenes de Gobierno, se coordinarán bajo el esquema del Protocolo Alba, para llevar a cabo la búsqueda y localización inmediata de niñas, adolescentes y mujeres con reporte de extravío.
+
+El Protocolo a que se refiere el presente artículo, tiene como objetivo llevar a cabo la búsqueda inmediata, para la localización de niñas, adolescentes y mujeres desaparecidas, con el fin de proteger su vida, libertad personal e integridad, mediante un plan de atención y coordinación entre las autoridades de los tres niveles de gobierno, que involucren a medios de comunicación, sociedad civil, organismos públicos y privados, en todo el territorio mexicano.
+
+El Protocolo Alba se activa al instante que se reporta la desaparición de la mujer, la niña y adolescente desde ese momento se inician las labores pertinentes para su localización.
+
+El Protocolo Alba no se desactiva sino hasta encontrar a la mujer, niña o adolescente reportada como desaparecida.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 57 Ter.
+
+El funcionamiento de este mecanismo se hará de conformidad con lo establecido en el “Protocolo Alba Actualizado para el Estado de Puebla” y demás ordenamientos que al efecto se establezcan y contribuyan para agilizar la búsqueda inmediata de las mujeres, niñas y adolescentes con reporte de extravío.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 57 Quater.
+
+Los Centros de Reeducación para Agresores otorgarán una atención multidisciplinaria en la que se brindará al usuario (a) las herramientas necesarias para identificar y detener sus prácticas de violencia, mediante el desarrollo de habilidades psico-emocionales, el ejercicio de una comunicación asertiva, la generación de nuevas ideas y pensamientos con perspectiva de género. Todo lo anterior encaminado a la modificación de conductas, actitudes e introyectos que lo han vinculado al ejercicio de la violencia, además de prevenir y erradicar la violencia en todos los tipos y modalidades previstos en esta Ley.
+
+Los agresores deberán asistir obligatoriamente a los programas de reeducación integral, cuando así sea determinado por mandato de autoridad competente, de conformidad con el reglamento para su organización y funcionamiento, que al efecto se expida.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1756,3 +1824,23 @@ P.O. 29 DE JULIO DE 2020.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 10, ADICIONA LA SECCIÓN TERCERA BIS, DE LA VIOLENCIA OBSTÉTRICA, DENTRO DEL CAPÍTULO II, CON EL ARTÍCULO 18 BIS, Y DEROGA LA FRACCIÓN VII DEL ARTÍCULO 10, DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 90 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+SEGUNDO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestaria para el cumplimiento del presente Decreto, en su caso.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
