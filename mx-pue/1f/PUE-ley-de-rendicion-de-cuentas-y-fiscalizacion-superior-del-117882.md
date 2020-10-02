@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-117882
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2020-02-17"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE RENDICION DE CUENTAS Y FISCALIZACION SUPERIOR DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Trigésima Primera Sección del Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -126,6 +128,10 @@ XVI. Informe General: el Informe del Resultado a que se refiere el artículo 114
 XVII. Informe Individual: el Informe del Resultado a que se refiere el artículo 114 de la Constitución Política del Estado Libre y Soberano de Puebla, correspondiente a las revisiones, auditorías y evaluaciones practicadas a cada una de las Entidades Fiscalizadas, con motivo de la fiscalización superior de la Cuenta Pública respectiva, que deba presentar la Auditoría Superior al Congreso del Estado, por conducto de la Comisión, en términos de esta Ley;
 
 XVIII. Órganos Internos de Control: las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en las Entidades Fiscalizadas, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que les competan en los términos previstos en la legislación aplicable en materia de responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XVIII Bis. Laboratorio: el laboratorio de control de calidad de obra pública de la Auditoría Superior del Estado;
 
 XIX. Revisión preventiva: aquella que se lleva a cabo durante el ejercicio fiscal en curso, en términos de lo dispuesto en esta Ley;
 
@@ -493,17 +499,23 @@ XLI. Elaborar y proponer al Congreso del Estado por conducto de la Comisión, lo
 
 XLII. Solicitar a las Entidades Fiscalizadas, copia de la licencia del sistema de contabilidad gubernamental que hayan utilizado o estén utilizando como instrumento de cumplimiento a la Ley General de Contabilidad Gubernamental; o en su caso, la herramienta de registro contable con el permiso y los atributos para verificar el cumplimiento de la Ley en cita;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
 XLIII. Acordar por cada ejercicio fiscal y por una sola vez, la ampliación hasta por quince días hábiles, de los plazos a que hace referencia esta Ley, que por escrito sea solicitada con al menos cinco días hábiles previos al vencimiento de dichos plazos, siempre que no afecte el cumplimiento en tiempo y forma, de las obligaciones que tiene la Auditoría Superior y la causa sea justificada a juicio de esta última.
 
-Dicha ampliación no podrá otorgarse, respecto al plazo de presentación de la Cuenta Pública, en cuyo caso se observará lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla y esta Ley, y
+Dicha ampliación no podrá otorgarse, respecto al plazo de presentación de la Cuenta Pública, en cuyo caso se observará lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla y esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XLIV. Practicar auditorias forenses, mediante la revisión de hechos o evidencias que permitan detectar o investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas; así como sus causas efectos o consecuencias; y
+XLIV. Práctica de auditoriaforenses (sic), mediante la revisión de hechos o evidencias que permitan decretar (sic) o investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas; así como sus causas, efectos o consecuencias;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
-XLV. Las demás que deriven de la Constitución Política del Estado Libre y Soberano de Puebla, de la presente Ley, del Reglamento de la Auditoría Superior y demás disposiciones aplicable (sic) en la materia
+XLV. Recabar las muestras y practicar pruebas de la obra pública necesarias para la comprobación de la calidad de los materiales conforme a las especificaciones reportadas, las cuales se deberán realizar en el laboratorio de control de calidad de la Auditoría Superior; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XLVI. Las demás que deriven de la Constitución Política del Estado Libre y Soberano de Puebla, de la presente Ley, del Reglamento de la Auditoría Superior y demás disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 34.
 
@@ -1670,5 +1682,15 @@ P.O. 17 DE FEBRERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Auditoria Superior del Estado, en ejercicio de la autonomía técnica y de gestión que la Constitución Política del Estado Libre y Soberano de Puebla le reconoce, deberá realizar las modificaciones reglamentarias necesarias, normando las facultades, funciones y atribuciones; así como diseñando los procedimientos institucionales de la unidad administrativa cuya encomienda de cumplimiento al presente Decreto. Por tanto, la Auditoria Superior del Estado, deberá asignar los recursos humanos, materiales y financieros suficientes, sin perjuicio al principio de austeridad para dichos efectos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XVIII BIS AL ARTÍCULO 4 Y LA FRACCIÓN XLVI DEL ARTÍCULO 33, Y REFORMA LAS FRACCIONES XLIII, XLIV Y XLV DEL ARTÍCULO 33 DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil veintiuno.
+
+SEGUNDO. La Auditoría Superior del Estado, en ejercicio de la autonomía técnica y de gestión que la Constitución Política del Estado Libre y Soberano de Puebla le reconoce, deberá realizar las modificaciones reglamentarias necesarias, normando las facultades, funciones y atribuciones; así como diseñando los procedimientos institucionales de la unidad administrativa cuya encomienda dé cumplimiento al presente Decreto. Por tanto, la Auditoría Superior del Estado deberá asignar los recursos humanos, materiales y financieros suficientes, sin perjuicio al principio de austeridad, para dichos efectos.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
