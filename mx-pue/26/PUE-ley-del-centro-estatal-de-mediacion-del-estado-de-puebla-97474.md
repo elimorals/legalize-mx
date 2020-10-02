@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-centro-estatal-de-mediacion-del-estado-de-puebla-97474"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2016-09-20"
+last_updated: "2020-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Trigésima Octava Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -161,11 +161,21 @@ II. Los Jueces de paz;
 
 III. Los Jueces indígenas;
 
-IV. El Sistema para el Desarrollo Integral de la Familia del Estado de Puebla; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-V. Las demás que establezcan las leyes respectivas.
+IV. El Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
 
-Los convenios celebrados en el Centro Estatal de Mediación, tendrán efecto de cosa juzgada, así como aquéllos celebrados por el Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, siempre que éstos sean informados al Centro Estatal de. Mediación, quien determinará las reglas para su registro. Todos los demás requerirán de su homologación para alcanzar dicho efecto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+V. El Notario Público Certificado en términos de las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+
+VI. Las demás que establezcan las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Los convenios celebrados en el Centro Estatal de Mediación, tendrán efecto de cosa juzgada, así como aquéllos celebrados por el Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, y por el Notario Público Certificado en términos de las disposiciones legales aplicables, siempre que éstos sean informados al Centro Estatal de Mediación, quien determinará las reglas para su registro. Todos los demás requerirán de su homologación para alcanzar dicho efecto.
 
 ###### ARTÍCULO 8.
 
@@ -516,3 +526,11 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IV Y V Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 7, Y ADICIONA LA FRACCIÓN VI AL 7, TODOS DE LA LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
