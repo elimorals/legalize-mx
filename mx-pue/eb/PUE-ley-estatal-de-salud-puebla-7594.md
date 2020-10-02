@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2020-04-06"
+last_updated: "2020-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -2629,6 +2629,10 @@ IV. Los demás que determine la Ley General de Salud.
 
 El certificado médico prenupcial será requerido por las Autoridades del Registro Civil a quiénes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones generales aplicables.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+Cuando en el certificado se muestre el padecimiento de enfermedad crónica o incurable, o contagiosa o hereditaria, deberá acompañarse de la información que permita conocer los efectos y medidas de prevención del padecimiento de que se trate, además de informarle de las instituciones donde pueda ser atendido, en cuyo caso deberá notificarse lo conducente a las autoridades competentes en términos de Ley.
+
 ###### ARTICULO 279.
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la Secretaría de Salud Pública del Estado.
@@ -3408,3 +3412,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestaria para el cumplimiento del presente Decreto, en su caso.
+
+P.O. 2 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 278 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Una vez que entre en vigor el presente Decreto, la Secretaría de Salud del Estado de Puebla, deberá actualizar los manuales de operación para la expedición de certificados médicos prenupciales, conforme a los modelos aprobados y distribuidos por la Secretaría de Salud Federal y de conformidad con las Normas Oficiales Mexicanas que la misma emita, en un término que no exceda de 60 días naturales.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
