@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-09-26"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3021,9 +3021,11 @@ Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indul
 
 104. El indulto es estrictamente personal y cada caso se tramitará ante el Ejecutivo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-105.- El Ejecutivo podrá otorgar el indulto:
+105.- Cuando la conducta observada por el sentenciado refleje un alto grado de reinserción social y su liberación no represente un riesgo para la tranquilidad y seguridad públicas, el Ejecutivo podrá otorgar el indulto, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 I.- En los delitos políticos, según su prudencia y discreción; y
 
@@ -3034,6 +3036,10 @@ II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestad
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciocho años.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+No se podrá otorgar el indulto en favor del sentenciado por los delitos de abuso o violencia sexual contra menores, feminicidio, violación, violación equiparada, trata de personas, homicidio doloso, feminicidio, secuestro, desaparición forzada, delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho, delitos graves que determine la ley en contra del libre desarrollo de la personalidad, y de la salud, y no se trate de delitos imprescriptibles.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -7316,3 +7322,11 @@ P.O. 26 DE SEPTIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1656.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
