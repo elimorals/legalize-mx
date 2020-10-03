@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2020-08-29"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -87,6 +87,8 @@ IX. Promover acciones concretas de desarrollo sostenible en el campo, teniendo l
 
 X. Promover programas y apoyos dirigidos a desarrollar las capacidades de los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales para favorecer el relevo generacional que contribuirá al desarrollo rural sustentable de nuestro estado, y demás aplicables a la presente Ley.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O DE 3 DE OCTUBRE DE 2020 EL PRESENTE ARTÍCULO PASO DE XXXVII A XXXVI FRACCIONES; VÉASE LITERALIDAD DEL DECRETO, PÁGINA 9.]</small>
+
 ###### ARTÍCULO 4.
 
 Para los efectos de la presente Ley se entenderá por:
@@ -127,75 +129,85 @@ XV. Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social 
 
 XVI. Ejecutivo Estatal: El titular del Poder Ejecutivo del Estado de Oaxaca;
 
-XVII. Estado: El Estado Libre y Soberano de Oaxaca;
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XVIII. Estímulos Fiscales: Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
+XVII. Estacionalidad agrícola campesina: El periodo de tiempo medido en días, semanas o meses que las familias campesinas según las condiciones climáticas y de su calendario agrícola no tiene actividad.
 
-XIX. Gobierno del Estado: El Gobierno del Estado de Oaxaca;
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XX. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
+XVIII. Estado: El Estado Libre y Soberano de Oaxaca;
 
-XXI. Investigación y transferencia de tecnología: La investigación y la modernización de tecnologías aplicadas a las actividades rurales, que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXII. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Oaxaca;
+XIX. Estímulos Fiscales: Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
 
-XXIII. Ley de Planeación: La Ley de Planeación para el Estado de Oaxaca;
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXIV. Órdenes de Gobierno: Los Gobiernos Federal, Estatal y Municipal;
+XX. Gobierno del Estado: El Gobierno del Estado de Oaxaca;
 
-XXV. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+XXI. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
 
-XXVI. Unidad productiva familiar: Es la unidad de explotación rural que depende preponderantemente del trabajo familiar desarrollado sobre determinada área, con independencia de su forma jurídica o régimen de tenencia del predio, administrada y operada directamente por los miembros de la familia, quienes residiendo en él o en zona cercana, obtienen de ella su principal fuente de ingreso.
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXVI], P.O. 29 DE AGOSTO DE 2020)
+XXII. Investigación y transferencia de tecnología: La investigación y la modernización de tecnologías aplicadas a las actividades rurales, que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
+
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+
+XXIII. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Oaxaca;
+
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+
+XXIV. Ley de Planeación: La Ley de Planeación para el Estado de Oaxaca;
+
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+
+XXV. Órdenes de Gobierno: Los Gobiernos Federal, Estatal y Municipal;
+
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+
+XXVI. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
+
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXVII. Participación Ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXVII], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXVIII. Productos Básicos y Estratégicos: Aquellos que forman parte de la dieta de la mayoría de la población diferenciados por regiones, los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales y/o nacionales, definidos por la Ley o por considerarlos así por el Consejo Estatal;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXVIII], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXIX. Programa Especial Concurrente: El programa especial concurrente para el desarrollo rural sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley,
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXIX], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXX. Programas Sectoriales: Los programas específicos del Gobierno Federal como Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXX], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXXI. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXXI], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXXII. Secretaría: Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXXII], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXXIII. Seguridad Alimentaria: El abasto oportuno, constante e incluyente de los alimentos nutritivos en cantidad suficiente para satisfacer la demanda nutricional de la población;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXXIII], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXXIV. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXXIV], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXXV. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXXV], P.O. 29 DE AGOSTO DE 2020)
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXXVI. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
-
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
-
-XXXVI (SIC). Producción Orgánica: Sistema de producción que pondera el medio ambiente y la salud humana por medio de técnicas que procuran la conservación del suelo, la fertilidad de la tierra, la alimentación natural de ganado y en general todo aquel método que tienda reducir al mínimo la aplicación de agentes sintéticos, modificados o que se consideren dañinos para la preservación del medio ambiente.
-
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
-
-XXXVII. Maíz Nativo: Cereales de la especie Zea Mays originario de cierta Comunidad, Región o Estado dentro del Territorio Nacional y que se diferencia de otras clases extranjeras, mejoradas o genéticamente modificadas.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -587,9 +599,11 @@ La operación de los Distritos de Desarrollo Rural, en vinculación con las Coor
 
 ### CAPÍTULO I. DE LAS ACTIVIDADES ECONÓMICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 38.
 
-El Ejecutivo Estatal, con la participación de los gobiernos Municipales y los sectores social y privado del medio rural impulsará las actividades económicas en el ámbito rural el desarrollo.
+El Ejecutivo Estatal, con la participación de los gobiernos Municipales y los sectores social y privado del medio rural impulsará las actividades económicas en el ámbito rural el desarrollo, tomando en consideración el potencial de cada microrregión y la estacionalidad agrícola campesina.
 
 Las acciones y programas que se establezcan para tales propósitos se orientarán a incrementar la productividad y la competitividad en el ámbito rural, a fin de fortalecer el empleo y elevar el ingreso de los productores; a generar clúster regionales así como condiciones favorables para ampliar los mercados agropecuarios; aumentar el capital natural para la producción, y a la constitución y consolidación de empresas rurales.
 
@@ -1499,13 +1513,19 @@ Los Consejos Municipales participarán en la detección de necesidades de profil
 
 III. El Ejecutivo Estatal a través de la Comisión Estatal de Vivienda (CEVI), participará en los objetivos a que se refiere el Fondo Nacional de Vivienda Rural con el propósito de contribuir en el fomento y financiamiento, para reducir el déficit habitacional en el medio rural.
 
-Para el cumplimiento de lo anterior, el Gobierno del Estado promoverá la construcción, ampliación y mejoramiento de viviendas en zonas rurales; Asimismo, su equipamiento y la construcción de servicios públicos, privilegiando el uso de materiales regionales y tecnologías apropiadas, el desarrollo de programas que generen empleo y se complemente con la actividad agropecuaria. Para la atención de grupos vulnerables vinculados al Sector Agropecuario, se formularán e instrumentarán programas enfocados a su propia problemática y posibilidades de superación, mediante actividades económicas conjuntando los instrumentos de impulso a la productividad con los de carácter asistencial y con la provisión de infraestructura básica como caminos, puentes y otros, a cargo de las dependencias competentes, así como con programas de empleo temporal que atiendan la estacionalidad de los ingresos de las familias campesinas.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-IV. Sin menoscabo de la libertad individual, el Consejo Estatal y los Consejos Municipales, en el ámbito de sus atribuciones, coadyuvarán en las acciones de fomento a políticas de población en el medio rural, que instrumenten las autoridades locales y federales de salud y educativas.
+Para el cumplimiento de lo anterior, el Gobierno del Estado promoverá la construcción, ampliación y mejoramiento de viviendas en zonas rurales; Asimismo, su equipamiento y la construcción de servicios públicos, privilegiando el uso de materiales regionales y tecnologías apropiadas, el desarrollo de programas que generen empleo y se complemente con la actividad agropecuaria.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. Para la atención de las familias campesinas en condiciones de pobreza por causa de la estacionalidad agrícola, se diseñará e instrumentarán programas de empleo temporal acordes a los tiempos de paro, a las potencialidades microrregionales y a sus habilidades campesinas.
+
+V. Sin menoscabo de la libertad individual, el Consejo Estatal y los Consejos Municipales, en el ámbito de sus atribuciones, coadyuvarán en las acciones de fomento a políticas de población en el medio rural, que instrumenten las autoridades locales y federales de salud y educativas.
 
 Estará dentro de su esfera de responsabilidad, vigilar y confirmar que los programas de planeación familiar que se realicen en su demarcación territorial y administrativa, se lleven a cabo con absoluto respeto a la dignidad de las familias y se orienten a una regulación racional del crecimiento de la población y a la promoción de patrones de asentamiento que faciliten la prestación de servicios de calidad, a fin de conseguir un mejor aprovechamiento de los recursos del Estado y elevar las condiciones de vida de la población.
 
-V. Las comunidades rurales en general y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, deberán tener representación y participación directa en las unidades municipales de protección civil para dar impulso a los Programas de Protección Civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
+VI. Las comunidades rurales en general y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, deberán tener representación y participación directa en las unidades municipales de protección civil para dar impulso a los Programas de Protección Civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
 
 ###### ARTÍCULO 129.
 
@@ -1551,9 +1571,11 @@ XII. La producción y desarrollo de mercados para productos no tradicionales; y
 
 XIII. La modernización de la Infraestructura básica del medio rural.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 133.
 
-Para la atención de grupos vulnerables vinculados al sector rural, específicamente etnias, jóvenes, mujeres, jornaleros, adultos mayores y discapacitados, con o sin tierra, se formularán e instrumentarán programas enfocados a su propia problemática y posibilidades de superación, integrando los instrumentos de impulso a la productividad con los del carácter asistencial y con la provisión de infraestructura básica, así como con programas de empleo temporal que atienden la estacionalidad de los ingresos de las familias campesinas, en los términos del Programa Especial Concurrente.
+Para la atención de grupos en situación de vulnerabilidad vinculados al sector rural, específicamente etnias, jóvenes, mujeres, jornaleros, adultos mayores y discapacitados, con o sin tierra, se formularán e instrumentarán programas enfocados a su propia problemática y posibilidades de superación, integrando los instrumentos de impulso a la productividad con los del carácter asistencial y con la provisión de infraestructura básica, así como con programas de empleo temporal que atienden la estacionalidad agrícola campesina y por ende los ingresos de las familias campesinas, en los términos del Programa Especial Concurrente.
 
 ###### ARTÍCULO 134.
 
@@ -1838,3 +1860,11 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1661.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
