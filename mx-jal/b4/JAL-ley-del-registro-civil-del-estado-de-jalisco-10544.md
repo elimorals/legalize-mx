@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2020-01-25"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -471,11 +471,11 @@ Para el acto registral deberá ser presentada la persona a quien se deba registr
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes, con la representación en suplencia, solicitará la expedición de acta de nacimiento en caso de registro extemporáneo y en caso de niñas, niños y adolescentes de padres desconocidos o de persona que ejerza la representación originaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 41.
 
-Los profesionales de la medicina, paramédicos o parteras que hubieren asistido el alumbramiento, deberán extender dentro de los seis días siguientes y en forma gratuita, constancia única de nacimiento expedida y autorizada por la Secretaría de Salud del Estado, anotando el nombre y huella digital de la madre, número de orden que ocupa ese parto; así como huella digital, día, hora y lugar de nacimiento, sexo, peso y demás características de los recién nacidos, que pudieran servir de identificación.
+Los profesionales de la medicina, paramédicos o parteras que hubieren asistido el alumbramiento, deberán extender dentro de los seis días siguientes y en forma gratuita, constancia única de nacimiento expedida y autorizada por la Secretaría de Salud, anotando el nombre y huella digital de la madre, número de orden que ocupa ese parto; así como huella digital, día, hora y lugar de nacimiento, sexo, peso y demás características de los recién nacidos, que pudieran servir de identificación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1788,3 +1788,9 @@ P.O. 25 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27528/LXII/19 QUE REFORMA EL ARTÍCULO 26 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27946/LXII/20 QUE REFORMA EL ARTÍCULO 41 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
