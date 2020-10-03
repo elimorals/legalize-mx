@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-de-la-lectura-la-escritura-el-libro-y-10452
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-10"
-last_updated: "2019-08-17"
+last_updated: "2020-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DE LA LECTURA, LA ESCRITURA, EL LIBRO Y EL USO DE LAS BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de octubre de 2014.
 
@@ -197,9 +197,11 @@ Para el cumplimiento de lo señalado en el presente artículo, el Ejecutivo del 
 
 El Consejo Estatal promoverá la participación de las organizaciones de padres de familia, las escuelas de todos los niveles, las universidades, las instituciones de educación privada y pública, las autoridades comunitarias, los organismos culturales y cualquier persona u organización que contribuya a alcanzar los objetivos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 8.
 
-El Estado garantizará el establecimiento de bibliotecas como espacios de acceso de la población al libro, a la información y al conocimiento.
+El Estado garantizará el establecimiento de bibliotecas como espacios de acceso de la población al libro, a la información y al conocimiento; así mismo garantizará que las bibliotecas públicas y escolares cuenten con un acervo literario basto mediante la dotación periódica de estas con material actualizado y suficiente.
 
 ###### Artículo 9.
 
@@ -537,9 +539,15 @@ X. Programar y presupuestar los recursos para la operación de las acciones de l
 
 XI. Establecer mecanismos de vinculación y coordinación interinstitucional de los Programas Estatal y Municipales;
 
-XII. Establecer mecanismos de evaluación y reprogramación de las acciones de los Programas Estatal y Municipales; y,
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XIII. Las demás que establezca esta Ley, su Reglamento y demás disposiciones legales aplicables.
+XII. Establecer mecanismos de evaluación y reprogramación de las acciones de los Programas Estatal y Municipales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XIII. Acciones para garantizar la funcionalidad de las bibliotecas y la dotación de material literario suficiente, asimismo con equipos y medios digitales, para facilitar el acceso a los usuarios a un acervo literario suficiente; y
+
+XIV. Las demás que establezca esta Ley, su Reglamento y demás disposiciones legales aplicables.
 
 ### CAPÍTULO VIII. DEL FOMENTO A LA PRODUCCIÓN BIBLIOGRÁFICA
 
@@ -672,3 +680,11 @@ P.O. 17 DE AGOSTO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1638.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO DE LA LECTURA, LA ESCRITURA, EL LIBRO Y EL USO DE LAS BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
