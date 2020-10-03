@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-fomento-y-la-participacion-de-las-102023"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-16"
-last_updated: "2014-08-16"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 16 de agosto de 2014.
 
@@ -91,7 +91,9 @@ II. La Ley del Impuesto sobre la Renta, en lo aplicable a las organizaciones reg
 
 III. El Código de Asistencia Social del Estado de Jalisco;
 
-IV. Lo que se derive del artículo 22 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. Lo que se derive del artículo 34 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; y
 
 V. Las que establezcan las demás disposiciones aplicables en la materia.
 
@@ -151,17 +153,21 @@ El Comité es un órgano de vinculación entre los tres Poderes del Estado y sus
 
 El Comité se integra de la siguiente manera:
 
-I. El Secretario de Desarrollo e Integración Social;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-II. El Diputado Presidente de la Comisión de Participación Ciudadana y Acceso a la Información Pública del Poder Legislativo del Estado;
+I. La o el titular de la Secretaría del Sistema de Asistencia Social;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+II. La o el Diputado Presidente de la Comisión de Participación Ciudadana, Transparencia y Ética en el Servicio Público del Poder Legislativo del Estado;
 
 III. El Presidente del Supremo Tribunal de Justicia del Estado de Jalisco;
 
 IV. El Presidente del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-V. El Director del Instituto Jalisciense de Asistencia Social;
+V. (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
 
-VI. El Presidente del Consejo Económico y Social de Jalisco para el Desarrollo y la Competitividad;
+VI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
 
 VII. Un Presidente Municipal de alguno de los municipios de (sic) conforman el Área Metropolitana de Guadalajara, elegido por orden alfabético en función del nombre del municipio, el cual durará en su cargo dos años;
 
@@ -177,9 +183,11 @@ Los miembros del Comité establecidos en las fracciones VIII y IX del presente a
 
 Adicionalmente, por invitación del Comité, se podrá incorporar a uno o más Presidentes Municipales de municipios del interior del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 8.
 
-El cargo como miembro del Comité es honorífico y, por lo tanto, no remunerado, con excepción del Secretario Ejecutivo quien tendrá el carácter de servidor público y dependerá administrativamente de la Secretaría de Desarrollo e Integración Social.
+El cargo como miembro del Comité es honorífico y, por lo tanto, no remunerado, con excepción del Secretario Ejecutivo quien tendrá el carácter de servidor público y dependerá administrativamente de la Secretaría del Sistema de Asistencia Social.
 
 ###### Artículo 9.
 
@@ -438,3 +446,17 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27838/LXII/20 QUE REFORMAN LOS ARTÍCULOS 3, 7 Y 8 DE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27973/LXII/20 QUE REFORMAN (SIC) LOS ARTÍCULOS 3, 7 Y 8 DE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
