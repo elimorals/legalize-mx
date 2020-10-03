@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2020-08-06"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -51,11 +51,17 @@ Esta ley tiene por objeto:
 
 I. Promover y garantizar la igualdad de trato y oportunidades, el respeto a los derechos y libertades fundamentales de las personas, la integración de la sociedad de manera inclusiva en las actividades que les permitan el desarrollo pleno de su persona así como su efectiva participación en la vida política, económica, cultural y social del estado;
 
-II. Prevenir y eliminar toda forma de discriminación y violencia que se ejerza contra cualquier persona en los términos del Artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, de los tratados, convenciones o acuerdos internacionales de los que el Estado Mexicano sea parte y del Artículo 4° de la Constitución Política del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-III. Coadyuvar en la eliminación de las disposiciones normativas, hechos, acciones, omisiones o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir ilícitamente alguno o algunos de los derechos y libertades fundamentales de las personas, grupos o comunidades; y
+II. Prevenir, atender, sancionar y eliminar toda forma de discriminación y violencia que se ejerza contra cualquier persona en los términos del Artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, de los tratados, convenciones o acuerdos internacionales de los que el Estado Mexicano sea parte y del artículo 4° de la Constitución Política del Estado de Jalisco;
 
-IV. Establecer los principios y criterios que orienten las políticas públicas para promover la igualdad y la libertad de las personas, a efecto de que sean reales, efectivas y permanentes.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III. Coadyuvar a la eliminación de las circunstancias sociales, culturales educativas, políticas, económicas, de salud, trabajo, disposiciones legales, figuras o instituciones jurídicas o de hechos, acciones, omisiones o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir ilícitamente alguno o algunos de los derechos humanos y libertades fundamentales de las personas, grupos o comunidades en condición de vulnerabilidad, por cualquiera de los motivos relacionados en la Constitución Política de los Estados Unidos Mexicanos y en los instrumentos internacionales suscritos y ratificados por México; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. Establecer los principios y criterios que orienten las políticas públicas para reconocer, promover, respetar, proteger y garantizar el derecho a la igualdad y la libertad de las personas, en todos los ámbitos de la vida, a efecto de que sean reales, efectivas y permanentes, así como establecer la coordinación interinstitucional para atender, prevenir, sancionar y eliminar la discriminación.
 
 ###### Artículo 3.
 
@@ -75,7 +81,9 @@ VI. Discapacidad: Impedimento que presentan algunas personas para lograr una par
 
 VII. Diseño universal: Diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. No se excluye la ayuda técnica para grupos particulares de personas con discapacidad, cuando se necesite;
 
-VIII. Discriminación: La negación, distinción, exclusión, restricción, menoscabo o preferencia que no sea objetiva, racional ni proporcional, imputable a personas físicas y jurídicas o entes públicos que, basada en el origen étnico o nacional, la raza, el sexo, el género, la identidad indígena, la lengua, la edad, la discapacidad de cualquier tipo, la condición jurídica, social o económica, la apariencia física, la forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, las condiciones de salud, las características genéticas, el embarazo, la religión, las opiniones políticas, académicas o filosóficas, la ideología, el estado civil, la situación familiar, la identidad o filiación política, la orientación sexual, los antecedentes penales, la situación migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular, menoscabar o impedir, por acción u omisión, dolosa o culpable, el reconocimiento, goce y ejercicio, en condición de igualdad de los derechos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo, de las personas, grupos y comunidades.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VIII. Discriminación: Todo acto u omisión realizada por particulares, servidores públicos de los poderes Ejecutivo, Legislativo y Judicial, ayuntamientos, organismos autónomos o cualquier entidad de los poderes públicos estatales o municipales que generen negación, distinción, exclusión, rechazo, menoscabo, impedimento o restricción de los derechos o libertades, sin motivo o causa que sea racionalmente justificable, basada en el origen étnico o nacional, la raza, el género, la identidad indígena, la lengua, la edad, la discapacidad de cualquier tipo, la condición jurídica, social o económica, la apariencia física, la forma de pensar, vestir, actuar o gesticular, las condiciones de salud, las características genéticas, el embarazo, la religión, las opiniones políticas, académicas o filosóficas, la ideología, el estado civil, la situación familiar, la identidad o filiación política, la situación migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular, menoscabar o impedir, por acción u omisión, dolosa o culpable, el reconocimiento, goce y ejercicio, en condición de igualdad de los derechos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo, de las personas, grupos y comunidades.
 
 También se entenderá como discriminación la misoginia, la xenofobia, el acoso, la incitación a la discriminación así como otras formas conexas que produzcan un efecto negativo sobre los derechos fundamentales;
 
@@ -99,11 +107,11 @@ XVI. Programa Estatal: El Programa Estatal para Promover la Igualdad, Prevenir y
 
 XVII. Violencia Institucional: Actos u omisiones de servidores públicos que discriminan o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos y libertades fundamentales de las personas, grupos o comunidades.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 4.
 
-Es obligación de todo ente público del estado de Jalisco, garantizar la igualdad de trato y oportunidades a todas las personas, así como eliminar los obstáculos que impidan o limiten el goce y ejercicio de los derechos y libertades fundamentales reconocidas en la Constitución Federal, los tratados, convenciones o acuerdos internacionales firmados y ratificados por los Estados Unidos Mexicanos y en la Constitución Local.
-
-De igual manera, en el ámbito de sus competencias tienen obligación de promover el pleno desarrollo de los jaliscienses, así como su efectiva participación en la vida política, económica, cultural y social, fomentando una transformación basada en los ajustes razonables, el diseño universal, la debida diligencia, la inclusión y la no discriminación.
+Es obligación de todas las dependencias y entidades estatales y municipales y organismos públicos autónomos y miembros de la sociedad civil, en el ámbito de sus competencias, en un marco de coordinación y colaboración interinstitucional, garantizar que todas las personas gocen sin discriminación alguna, de sus derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Jalisco, en los instrumentos internacionales suscritos y ratificados por México, en la presente Ley, en la Ley Estatal de Derechos Humanos del Estado de Jalisco y demás leyes vigentes; quienes están obligados a observar, salvaguardar, promover, gestionar, avalar y garantizar el goce y ejercicio real y efectivo de los derechos humanos, así como a la eliminación de obstáculos que impidan su pleno desarrollo y la efectiva participación en la vida política, económica, cultural y social del Estado, debiendo impulsar y fortalecer acciones para promover una cultura de sensibilización, igualdad, respeto y no discriminación en contra de las personas, con especial énfasis en grupos y comunidades en condición de vulnerabilidad.
 
 Es obligación de las personas físicas y jurídicas abstenerse de efectuar prácticas discriminatorias o en contra de la igualdad de trato y oportunidades, ya sea por acción u omisión.
 
@@ -111,7 +119,7 @@ El enfoque antidiscriminatorio debe ser incorporado de manera transversal y prog
 
 Para el debido cumplimiento de las disposiciones de la presente ley y la promoción de las medidas de nivelación, de inclusión y acciones afirmativas a favor de la igualdad de oportunidades, el Congreso del Estado y los municipios que así lo determinen podrán incluir en su presupuesto de egresos la partida y programas respectivos, de acuerdo con la suficiencia presupuestal y las previsiones de ingresos correspondientes.
 
-Es obligación de los órganos de (sic) poder públicos, entidades y dependencias, capacitar a sus servidores públicos en la cultura de la igualdad.
+Es obligación de los órganos de poder públicos, entidades y dependencias, capacitar a sus servidores públicos en la cultura de la igualdad.
 
 ###### Artículo 5.
 
@@ -133,7 +141,9 @@ Cuando se presenten diferentes interpretaciones de la legislación aplicable en 
 
 Se consideran conductas discriminatorias para toda persona, de manera enunciativa más no limitativa, aquellas que por motivos de discriminación produzcan el efecto de:
 
-I. Impedir el acceso o permanencia a la educación pública o privada, así como a becas e incentivos en los centros educativos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+I. Limitar o impedir el acceso o permanencia a la educación pública o privada, así como becas e incentivos en los centros educativos, en los términos de las disposiciones aplicables, por razones de origen étnico o social, nacionalidad, características genéticas, discapacidades, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, orientación sexual, género, estado civil, edad, apariencia física, ocupación o actividad, o cualquier otro supuesto en el que se encuentre el alumno o alguno de sus ascendientes o descendientes directos;
 
 II. Incorporar contenidos, metodología o instrumentos pedagógicos en los que se asignen papeles o difundan representaciones, imágenes o situaciones de inferioridad contrarios a los principios de equidad, igualdad, inclusión, justicia social, respeto, no violencia y no discriminación;
 
@@ -161,11 +171,15 @@ XIII. Negar el derecho a la convivencia, salvo resolución judicial;
 
 XIV. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier índole;
 
-XV. Negar, limitar o condicionar los derechos de participación política, al sufragio activo o pasivo, la elegibilidad y acceso a todos los cargos públicos en el Estado, salvo los casos previstos (sic) legislación aplicable;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XV. Negar, limitar o condicionar el derecho de participación política, al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, salvo los casos previstos en la legislación aplicables, así como la participación en el diseño y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;
 
 XVI. Impedir o limitar el ejercicio de los derechos de propiedad, administración y disposición de bienes, salvo los casos que la legislación prevé por resolución judicial;
 
-XVII. Impedir o restringir el acceso a la procuración de justicia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XVII. Impedir, negar, retardar, obstaculizar o restringir el derecho de acceso a la procuración e impartición de justicia;
 
 XVIII. Impedir, negar o restringir el derecho a ser oídos y vencidos en procedimientos administrativos o judiciales, a la asistencia por parte de abogados, de especialistas, de intérpretes, traductores; así como el derecho de los niños y las niñas a ser escuchados;
 
@@ -173,9 +187,13 @@ XIX. Aplicar o permitir usos o costumbres que atenten contra los derechos y libe
 
 XX. Obstaculizar, restringir o impedir la libre elección de personas con quien genere vínculos afectivos, salvo que se afecte el interés superior de la niñez, y por resolución judicial;
 
-XXI. Ofender, ridiculizar a las personas o promover el odio y la violencia en su contra;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XXII. Limitar o impedir el ejercicio de las libertades de expresión de ideas, conciencia o religiosa, siempre que estas no atenten contra el orden público o derechos de terceros;
+XXI. Ofender, ridiculizar o promover el odio y la violencia a través de mensajes o imágenes, medios de comunicación masiva o bajo cualquier otra forma;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XXII. Limitar o impedir el ejercicio de la libre expresión de ideas, creencias, conciencia o religión, o de prácticas o costumbres, siempre que éstas no atenten contra el orden público o derechos a terceros;
 
 XXIII. Negar asistencia religiosa a personas privadas de la libertad, internadas en instituciones de salud o asistencia o que presten servicio en las fuerzas armadas;
 
@@ -185,11 +203,17 @@ XXV. Limitar, obstaculizar o impedir el derecho a la alimentación, la vivienda,
 
 XXVI. Negar u obstaculizar el acceso y la permanencia de cualquier persona, o los ajustes razonables a espacios, instalaciones y servicios públicos, o a institución o establecimiento privado que preste u ofrezca servicios o productos al público;
 
-XXVII. Limitar o negar el libre desplazamiento de cualquier persona, salvo los casos previstos por la legislación aplicable;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XXVIII. Explotar o dar un trato abusivo o degradante a cualquier persona;
+XXVII. Limitar, obstaculizar o negar el libre desplazamiento de cualquier persona, salvo los casos previstos por la legislación aplicable;
 
-XXIX. Restringir o impedir la participación en actividades académicas, deportivas, recreativas o culturales, salvo que el solicitante incumpla los requisitos previstos por las leyes y normatividad de la materia para acceder a dichas actividades;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XXVIII. Explotar de cualquier manera o dar un trato abusivo o degradante a cualquier persona;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XXIX. Restringir, obstaculizar o impedir el derecho a la participación en actividades académicas, deportivas, recreativas o culturales, salvo que el solicitante incumpla los requisitos previstos por las leyes y normatividad de la materia para acceder a dichas actividades;
 
 XXX. Negar, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos colectivos de los pueblos indígenas u originarios y de sus integrantes, el uso de sus lenguas, idiomas, costumbres, la práctica de sus sistemas normativos, la reproducción de su cultura y vida comunitaria en contravención a lo dispuesto por el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos y de los convenios y tratados firmados y ratificados por los Estados Unidos Mexicanos;
 
@@ -205,13 +229,17 @@ XXXIV. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones
 
 XXXV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos y libertades fundamentales de las personas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XXXVI. Negar o restringir el derecho de amamantar al menor en cualquier espacio público; y
+XXXVI. Negar o restringir el derecho a amamantar al menor en cualquier espacio público;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XXXVII. En general cualquier otra conducta discriminatoria o práctica contraria a la igualdad de trato y oportunidades.
+XXXVII. Restringir, por cualquier motivo, el acceso a la información pública o gubernamental, salvo aquellos supuestos que sean establecidos por las disposiciones legales aplicables; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XXXVIII. En general, incurrir en cualquier otro acto u omisión discriminatoria que tenga por objeto anular, impedir o menoscabar los derechos, las libertades, la igualdad de oportunidades y de trato de las personas, o que atenten contra su dignidad.
 
 ###### Artículo 8.
 
@@ -239,7 +267,9 @@ La enunciación de las medidas de nivelación, de inclusión y acciones afirmati
 
 Corresponde a los entes públicos en el ámbito de sus competencias la implementación de las medidas de prevención destinadas a eliminar la discriminación o violencia en las personas y grupos vulnerables que habitan el Estado, que son las siguientes:
 
-I. Garantizar que sean tomadas en cuenta sus necesidades en las políticas públicas destinadas a erradicar la pobreza y asegurar espacios para su participación en el diseño, implementación y evaluación de las mismas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+I. Garantizar que sean tomadas en cuenta las necesidades y experiencias de las personas o grupos en situación de vulnerabilidad en todos los programas y políticas públicas destinadas a erradicar la pobreza y asegurar espacios para su participación en el diseño, implementación, seguimiento y evaluación de las mismas;
 
 II. Impulsar la educación contra la discriminación que promueva el respeto a las diferencias físicas, ideológicas, políticas, económicas, sociales, culturales y religiosas;
 
@@ -247,7 +277,9 @@ III. Sensibilizar, informar y capacitar de manera permanente a las personas serv
 
 IV. Contar con programas de formación permanente para las personas físicas o jurídicas que se encuentren en Jalisco, en materia de igualdad de trato y oportunidades;
 
-V. Promover y llevar a cabo estudios en materia de no violencia e igualdad de trato y oportunidades;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V. Promover y llevar a cabo estudios para fomentar el respeto al derecho a la igualdad, a la no discriminación y a la no violencia, así como de los mecanismos para prevenirlos y erradicarlos;
 
 VI. Fortalecer los servicios de salud para la prevención, detección y tratamiento de enfermedades o discapacidades, así como garantizar en los mismos los ajustes razonables bajo los principios de diseño universal y de respeto a la dignidad, voluntad e intimidad de las personas;
 
@@ -261,13 +293,17 @@ IX. Garantizar la no violencia institucional en contra de personas, grupos o com
 
 Las medidas de nivelación incluyen, entre otras:
 
-I. Los ajustes razonables;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+I. Ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
 
 II. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, de fácil acceso para las personas con discapacidad y personas indígenas;
 
 III. Uso de intérpretes de lengua de señas mexicana en eventos públicos de las dependencias gubernamentales, así como el uso de intérpretes y traductores de lenguas indígenas cuando así se requiera;
 
-IV. La accesibilidad del entorno social;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. La accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
 
 V. Derogación o abrogación de las disposiciones normativas que resulten discriminatorias; y
 
@@ -283,9 +319,21 @@ Las medidas de inclusión podrán comprender, entre otras, las siguientes:
 
 I. La educación para la igualdad y la diversidad dentro del sistema educativo estatal;
 
-II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-III. Las acciones de sensibilización y capacitación dirigidas a servidores públicos con el objetivo de combatir actitudes discriminatorias.
+II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III. El desarrollo de políticas contra la misoginia, xenofobia o discriminación por apariencia;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. Las acciones de sensibilización y capacitación dirigidas a servidores públicos con el objetivo de combatir actitudes discriminatorias; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales.
 
 ###### Artículo 16.
 
@@ -405,9 +453,29 @@ II. Crear, fortalecer y hacer efectivo el acceso en todo el Estado a servicios d
 
 III. Generar programas de créditos y subsidios para la adquisición, restauración o mejora de una vivienda accesible y adecuada;
 
-IV. Promover el otorgamiento de beneficios y descuentos especiales para el acceso a centros turísticos, de entretenimiento, recreación, cultura y deporte; así como a los servicios de transporte aéreo, terrestre y marítimo; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-V. Fomentar en las universidades y los centros de educación superior la investigación y el estudio en gerontología, geriatría, psicología y psiquiatría geriátricas.
+IV. Promover el otorgamiento de beneficios y descuentos especiales para el acceso a centros turísticos, de entretenimiento, recreación, cultura y deporte; así como a los servicios de transporte aéreo, terrestre y marítimo;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V. Fomentar en las universidades y los centros de educación superior la investigación y el estudio en gerontología, geriatría, psicología y psiquiatría geriátricas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VI. Procurar un nivel mínimo y decoroso de ingresos a través de programas de capacitación y fomento a la creación de empleos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VII. Establecer incentivos a las empresas que contraten a las personas adultas mayores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VIII. Sensibilizar a los profesionales de la salud y de servicio social, sobre los derechos de los adultos mayores, implementando campañas de solidaridad intergeneracional que combatan prejuicios; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IX. Las demás que establezca la presente Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 27.
 
@@ -481,35 +549,37 @@ El Consejo es un organismo interinstitucional de consulta y participación socia
 
 Tendrá por objeto prevenir y eliminar las formas de discriminación, mediante la promoción de políticas públicas y la elaboración de proyectos y propuestas a las instancias correspondientes que tiendan a fomentar la igualdad de oportunidades y de trato en favor de todas las personas que se encuentren en el territorio del Estado de Jalisco, así como contribuir al desarrollo cultural, social y democrático del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 33.
 
-El Consejo Estatal está integrado por:
+El Consejo está integrado por:
 
-I. El Presidente del Consejo que será el Gobernador del Estado, o quien éste designe en su representación;
+I. La o el Presidente del Consejo será la persona titular del Ejecutivo del Estado de Jalisco, o quien este designe en su representación;
 
-II. Un consejero de las siguientes instituciones, entidades y organismos públicos:
+II. La persona titular, o quien esta designe en su representación, de las siguientes instituciones, entidades y organismos públicos:
 
-a) El Sistema DIF Jalisco;
+a) Secretaría General de Gobierno;
 
-b) El Instituto Jalisciense de la Juventud:
+b) Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
 
-c) El Instituto Jalisciense de las Mujeres;
+c) Secretaría de Salud;
 
-d) El Instituto Jalisciense del Adulto Mayor;
+d) Secretaría de Trabajo y Previsión Social;
 
-e) El Consejo Estatal para Atención e Inclusión de Personas con Discapacidad;
+e) Secretaría de Educación;
 
-f) El Consejo Estatal Indígena; y
+f) Secretaría del Sistema de Asistencia Social;
 
-g) La Universidad de Guadalajara, que será representada por un investigador de reconocido prestigio en la materia de la Ley.
+g) Sistema DIF Jalisco;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+h) Comisión Estatal Indígena; e
 
-III. Cuatro Consejeros ciudadanos representantes de la sociedad civil.
+i) Universidad de Guadalajara, representado (sic) por una persona con conocimiento del tema.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+III. Cuatro consejeras o consejeros ciudadanos representantes de la sociedad civil.
 
-Los integrantes del Consejo tendrán derecho a voz y voto, el cargo es honorífico y no recibirán remuneraciones adicionales por el desempeño de tal representación, estarán sujetos al régimen legal de responsabilidades para los servidores públicos del Estado, a excepción de los consejeros ciudadanos.
+Las y los integrantes del Consejo tendrán derecho a voz y voto, el cargo es honorífico y no recibirán remuneraciones adicionales por el desempeño de tal representación, estarán sujetos al régimen legal de responsabilidades para los servidores públicos del Estado, a excepción de las y los consejeros ciudadanos.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
 
@@ -876,3 +946,15 @@ P.O. 6 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27928/LXII/20 QUE REFORMA EL ARTÍCULO 34 FRACCIONES I Y III DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO".]
 
 Único. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27955/LXII/20 QUE REFORMA EL ARTÍCULO 33 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27760/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
