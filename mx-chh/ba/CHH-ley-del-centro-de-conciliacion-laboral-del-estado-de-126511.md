@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-centro-de-conciliacion-laboral-del-estado-de-126511"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-17"
-last_updated: "2018-02-17"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Folleto Anexo al No. 14 del Periódico Oficial del Estado de Chihuahua, el sábado 17 de febrero de 2018.
 
@@ -115,9 +115,11 @@ I. La Junta de Gobierno.
 
 II. La Dirección General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 10.
 
-La Junta de Gobierno se compondrá por nueve integrantes:
+La Junta de Gobierno es el órgano máximo de decisión y establecimiento de políticas del Centro y se compondrá por cinco integrantes:
 
 I. La persona titular de la Secretaría del Trabajo, quien la presidirá.
 
@@ -125,19 +127,23 @@ II. La persona titular de la Secretaría de Hacienda.
 
 III. La persona titular de la Secretaría de Innovación y Desarrollo Económico.
 
-IV. La persona titular de la Dirección del Instituto de Capacitación para el Trabajo del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-V. La persona titular de la Procuraduría de la Defensa del Trabajo.
+IV. La persona titular del Instituto de Justicia Alternativa del Poder Judicial del Estado de Chihuahua.
 
-VI. Dos personas representantes de organizaciones sindicales, designada cada una de ellas por cada una de las dos centrales obreras que representen el mayor número de trabajadoras y trabajadores en el Estado.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VII. Dos representantes de organizaciones de personas empleadoras, cuya designación realice el Consejo Coordinador Empresarial de Juárez y Chihuahua, respectivamente.
+V. La persona titular del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+
+VI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
+
+VII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
 
 ###### Artículo 11.
 
 Las personas integrantes del sector gubernamental ante la Junta de Gobierno podrán ser suplidas en las sesiones, por una o un funcionario de su nivel jerárquico inmediato inferior, a quien deberán acreditar en la primera sesión a que concurran.
 
-Quienes funjan como representantes de las organizaciones de personas empleadoras y trabajadoras contarán con una o un suplente; durarán en su encargo tres años, con la posibilidad de removerse en forma anticipada por la organización que realizó el nombramiento, quienes habrán de sustituirles lo harán para concluir el periodo correspondiente; y podrán designarse para desempeñar diferentes períodos sucesivos o discontinuos, sin limitación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 El cargo de miembro en la Junta de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
 
@@ -321,13 +327,17 @@ En la extinción del organismo deberán observarse las mismas formalidades estab
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- La Secretaría del Trabajo y Previsión Social adoptará las medidas pertinentes para la instalación de la Junta de Gobierno, dentro de los veinte días hábiles siguientes a la publicación del presente Decreto.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+SEGUNDO.- La Secretaría del Trabajo y Previsión Social adoptará las medidas pertinentes para la instalación de la Junta de Gobierno, acorde a los términos y plazos que determine el Grupo Interinstitucional para la Implementación de la Reforma laboral para el Estado de Chihuahua.
 
 TERCERO.- Dentro de los primeros treinta días hábiles siguientes a la instalación de la Junta de Gobierno, la Presidencia convocará a la primera sesión de trabajo.
 
 CUARTO.- En la misma sesión de instalación, la Dirección presentará, para su aprobación, el Estatuto Orgánico del Centro, así como el cronograma y proyecto de convocatoria para el proceso de selección de las y los conciliadores que integrarán el Centro de Conciliación del Estado de Chihuahua, en los términos que disponga la Ley Federal del Trabajo.
 
-QUINTO.- El Centro comenzará a prestar el servicio público de conciliación cuando entre en vigor la reforma a la Ley Federal del Trabajo, en la que se establezca el procedimiento que habrá de observarse en la instancia conciliatoria.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+QUINTO.- El Centro comenzará a prestar el servicio público de conciliación en la fecha que determine el Grupo Interinstitucional para la Implementación de la Reforma Laboral para el Estado de Chihuahua, siguiendo los procedimientos establecidos en la Ley Federal del Trabajo para tales efectos.
 
 La Secretaría del Trabajo y Previsión Social llevará a cabo las gestiones necesarias a efecto de que el Centro cuente con los recursos necesarios para su operación.
 
@@ -344,3 +354,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los treintaiún días del mes de enero del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0754/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
