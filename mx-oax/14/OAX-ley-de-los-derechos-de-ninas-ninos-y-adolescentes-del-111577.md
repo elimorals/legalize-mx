@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2020-09-04"
+last_updated: "2020-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -535,6 +535,26 @@ III. Contar con un sistema de información que permita registrar a las niñas, n
 
 Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+Con el fin de garantizar la igualdad sustantiva entre niñas, niños y adolescentes, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán realizar las siguientes acciones:
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+l. Diseñar, implementar y evaluar políticas públicas a través de acciones afirmativas tendentes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, educación y atención médica entre niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+II. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III. Establecer acciones dirigidas a las niñas y las adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el goce de los derechos contenidos en esta Ley y en la Ley General; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. Desarrollar campañas permanentes de difusión, promoción, conocimiento, sensibilización y goce de los derechos de las niñas, niños y adolescentes.
+
 ### CAPÍTULO VIII. DEL DERECHO A NO SER DISCRIMINADO
 
 ###### Artículo 35.
@@ -715,7 +735,9 @@ VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de pro
 
 VII. Emprender, en cooperación con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes;
 
-VIII. Impartir a los educandos conocimientos sobre la sexualidad, la reproducción humana, la planificación familiar, la paternidad y maternidad responsables; así como la prevención de enfermedades de transmisión sexual, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VIII. Impartir a las niñas, niños y adolescentes una educación sexual integral desde un enfoque de derechos humanos, donde se aborden temas de autocuidado, autoexploración, relaciones sanas, reproducción humana, planificación familiar, paternidad y maternidad responsables; así como de prevención de enfermedades de transmisión sexual, de embarazos en niñas y adolescentes y de violencia de género, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
 IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
@@ -1914,3 +1936,19 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y So
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. La Secretaría de Salud del Gobierno del Estado de Oaxaca aplicará y vigilará el cumplimiento de las Normas Oficiales Mexicanas, que establecen los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadido a las bebidas azucaradas y a los alimentos envasados, y conforme a ello, determinará cuáles bebidas y alimentos están prohibidos para la distribución, venta, regalo y suministro a menores de edad en el Estado.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1648.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1672.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
