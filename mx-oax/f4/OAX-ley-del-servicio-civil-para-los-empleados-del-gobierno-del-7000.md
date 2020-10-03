@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2020-09-05"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -76,6 +76,10 @@ Esta Ley solo regirá las relaciones entre los Poderes del Estado y los empleado
 ###### ARTICULO 6o.
 
 Todos los empleados de los Poderes del Estado deberán ser mexicanos y sólo podrán ser substituidos por extranjeros cuando no existan mexicanos técnicos que puedan desarrollar eficientemente el servicio de que se trata.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+En la contratación se dará preferencia a personas con discapacidad que cumplan con el perfil requerido para el puesto, y así garantizar su inclusión en al menos el 6% del total de los empleados de los Poderes del Estado.
 
 ###### ARTICULO 7o.
 
@@ -691,7 +695,13 @@ II.- Las acciones de los funcionarios para suspender a los empleados por causas 
 
 III.- Las acciones de los empleados para volver a ocupar el puesto que hayan dejado por accidente o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
 
-IV.- Las acciones de los empleados para reclamar separación injustificada, a partir del momento en que les sea notificada dicha separación.
+IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 70 BIS.- Prescriben en dos meses las acciones de los trabajadores que sean separados del trabajo.
+
+La prescripción corre a partir del día siguiente a la fecha de la separación.
 
 ###### ARTICULO 71.
 
@@ -991,7 +1001,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan a
 
 P.O. 11 DE ABRIL DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1402.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 25 BIS, A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1402.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 25 BIS, A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA".]
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado; y entrará en vigor al día siguiente de su publicación.
 
@@ -1010,3 +1020,21 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1607.- MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 21 QUÁTER Y 21 QUINQUIES A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1654.- MEDIANTE EL CUAL SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DE GOBIERNO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1679.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los Poderes del Estado contarán con treinta y seis meses a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a sus plantillas de trabajadores, a fin de garantizar la inclusión de personas con discapacidad en la vida laboral.
+
+TERCERO. Infórmese a los Titulares y Representantes de los Poderes del Estado.
