@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2020-09-19"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -477,15 +477,21 @@ XI. Proponer al Titular del Ejecutivo Estatal los reglamentos necesarios para el
 
 XII. Contribuir a la difusión de la legislación en materia de violencia contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XIII. Promover estrategias para la obtención de recursos destinados al cumplimiento de los objetivos de esta Ley; y
+XIII. Promover estrategias para la obtención de recursos destinados al cumplimiento de los objetivos de esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XIV. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
+XIV. Promover la creación del observatorio de justicia y género que será conformado por representantes de organismos académicos y sociales con facultades para opinar, diagnosticar y dar seguimiento a las actuaciones de autoridades administrativas y judiciales en los tres niveles de gobierno, para lograr establecer pautas de actuación en materia de acceso a la justicia de las mujeres y obtener una mayor eficacia y contundencia en la respuesta de dichas autoridades.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2018)</small>
+La integración y funcionamiento se establecerá en las disposiciones reglamentarias;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XV. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2020)</small>
 
 El protocolo para la prevención de la violencia contra mujeres a que hace referencia este artículo, deberá contener al menos las acciones preventivas a realizarse en espacios públicos, en espacios privados con atención al público y en la prestación de servicios públicos.
 
@@ -1860,3 +1866,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO. Las secretarías y las instituciones señaladas en el presente decreto contaran con un plazo no mayor a 90 días posteriores a la publicación del presente decreto para la creación e implementación de los programas, protocolos y políticas para la prevención, atención, sanción y erradicación de la violencia digital.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27970/LXII/20 QUE REFORMAN (SIC) EL ARTÍCULO 18 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
