@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2020-09-05"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1845,17 +1845,21 @@ La Secretaría podrá celebrar convenios con las empresas distribuidoras de veh�
 
 Tratándose de vehículos provenientes del extranjero, deberán además portar el permiso de importación e internación temporal otorgado por las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 170.
 
-Todo conductor de vehículo motorizado en cualquiera de sus modalidades, incluyendo a los motociclistas, deberá contar y portar licencia para conducir junto con la documentación establecida por esta Ley y otras disposiciones aplicables de acuerdo con las categorías, modalidades y tipo de servicio.
+Todo conductor de vehículo motorizado en cualquiera de sus modalidades, incluyendo a los motociclistas, deberá contar y portar en un dispositivo móvil la licencia digital o bien contar con la licencia impresa para conducir junto con la documentación establecida por esta Ley y otras disposiciones aplicables de acuerdo con las categorías, modalidades y tipo de servicio.
 
 Para el caso de las personas menores de dieciocho y mayores de dieciséis años, la Secretaría podrá otorgar permisos para conducir vehículos motorizados de uso privado, solo en las modalidades “A” y “B”.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 171.
 
-Toda persona que conduzca un vehículo por las vías públicas del Estado y sus Municipios deberá obtener y llevar consigo la licencia de conducir vigente que corresponda al tipo de vehículo de que se trate y que haya sido expedida por la autoridad legalmente facultada para ello.
+Toda persona que conduzca un vehículo por las vías públicas del Estado y sus Municipios deberá obtener y llevar consigo en un dispositivo móvil la licencia digital o bien contar con la licencia impresa para conducir vigente que corresponda al tipo de vehículo de que se trate y que haya sido expedida por la autoridad legalmente facultada para ello.
 
-Para conducir los vehículos del servicio público y especial de transporte, se requiere de la licencia de conducir expedida por la Secretaría.
+Para conducir los vehículos del servicio público y especial de transporte, se requiere de la licencia de conducir digital o impresa vigente expedida por la Secretaría.
 
 ###### Artículo 172.
 
@@ -1874,6 +1878,16 @@ En caso de no aprobar el examen, deberá esperar treinta días naturales a efect
 Las licencias de conducir tendrán una vigencia de dos, tres y cinco años y se renovarán por plazos iguales a solicitud del interesado con el cumplimiento de los requisitos que establezca la Secretaría.
 
 En el caso de las licencias tipo “A” y “B”, se podrá expedir vigencia permanente, previo pago de derechos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 173 Bis.
+
+Para la renovación y reposición de las licencias en cualquiera de sus tipos el interesado podrá realizar el trámite de forma digital mediante la plataforma electrónica de la Secretaría para lo cual deberá requisitar la solicitud de trámite correspondiente, cumpliendo con los requisitos y mecanismos que emita la Secretaría.
+
+Las licencias digitales tendrán la misma vigencia y validez que la versión impresa.
+
+El usuario tendrá la opción de sólo portar la licencia digital y/o utilizarla como complemento de la impresa.
 
 ###### Artículo 174.
 
@@ -2670,3 +2684,11 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1675.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
