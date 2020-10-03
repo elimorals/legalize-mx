@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-10-01"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -387,6 +387,10 @@ Los presidentes municipales, regidores y síndicos de los ayuntamientos, electos
 
 Los integrantes de los Ayuntamientos electos por Sistemas Normativos Internos, desempeñaran el cargo durante el tiempo que sus tradiciones y prácticas democráticas determinen.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 33 BIS.- Las autoridades municipales electas para integrar el Ayuntamiento, previo a la toma de protesta de ley a sus respectivos cargos, deberán solicitar a las instancias públicas, privadas y académicas, la asesoría, y curso de capacitación necesarias para la formación y buen desempeño de sus funciones.
+
 ###### ARTÍCULO 34.
 
 Los cargos de Presidente Municipal, Síndicos y Regidores del Ayuntamiento serán obligatorios y sólo podrá renunciarse a ellos por causa justificada que calificará el propio Ayuntamiento.
@@ -507,9 +511,9 @@ XVI.- Administrar, vigilar y evaluar la formulación e instrumentación de los p
 
 XVI Bis.- Aprobar la denominación o modificación, de las vías públicas y asentamientos humanos ya existentes o de nueva creación; establecer o modificar la nomenclatura de las vías públicas, parques, jardines, plazas, y asentamientos humanos, así como el alineamiento y número oficial de avenidas, calles y predios, conforme al reglamento respectivo. El ayuntamiento dará aviso por conducto de la Secretaría, al Servicio Postal Mexicano, al Instituto Nacional Electoral, al Instituto Nacional de Geografía y Estadística, al Instituto de la Función Registral del Estado, y a los demás organismos públicos correspondientes, a fin de que se hagan las modificaciones necesarias en los registros correspondientes.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XVII.- Reconocer y Convocar en coordinación con las autoridades comunitarias a elecciones de las autoridades auxiliares del Ayuntamiento, así como de las agencias municipales y de policía, respetando en su caso, la organización interna, las tradiciones, usos, costumbres y prácticas democráticas de las propias localidades, en los términos previstos por el artículo 79 de esta Ley.
+XVII.- Convocar a elecciones de las autoridades auxiliares del Ayuntamiento, así como de las Agencias Municipales, de policía y a los Núcleos Rurales, respetando en su caso, las tradiciones, usos, costumbres y prácticas democráticas de las propias localidades, en los términos previstos por el artículo 79 de esta Ley.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -551,7 +555,9 @@ XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con lo
 
 En ese orden se deberá especificar el uso y destino de los recursos económicos asignados para seguridad pública municipal, de la parte correspondiente se remitirá para conocimiento copia a la Secretaría de Seguridad Pública del Estado de Oaxaca.
 
-XXIV.- Dotar a la cabecera municipal, agencias, colonias y comunidades de su Municipio de obras y servicios públicos básicos como son: agua potable, drenaje, o cualquier obra supletoria que sea de saneamiento ambiental o ecológico, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos; y los demás que señala el artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca, velando siempre por la preservación del equilibrio ecológico;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XXIV.- Dotar a la cabecera municipal, Agencias, a los Núcleos Rurales, colonias y comunidades de su Municipio de obras y servicios públicos básicos como son: agua potable, drenaje, o cualquier obra supletoria que sea de saneamiento ambiental o ecológico, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos; y los demás que señala el artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca, velando siempre por la preservación del equilibrio ecológico;
 
 XXV.- Coadyuvar en la ejecución de los planes y programas federales y estatales en el Municipio;
 
@@ -585,7 +591,9 @@ XXXVIII.- Promover ante la Legislatura del Estado, la suspensión o revocación 
 
 XXXIX.- Rendir a la ciudadanía por conducto del Presidente Municipal, un informe anual detallado sobre el estado financiero de la hacienda pública municipal, el avance de los programas, las obras en proceso y concluidas, y en general del estado que guardan los asuntos municipales;
 
-XL.- Constituir el Concejo de Protección Civil Municipal, y llevar a cabo las medidas y acciones que promuevan los sistemas nacional y estatal de protección civil, para garantizar la seguridad de la población en caso de emergencias o de siniestros;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XL.- Constituir el Concejo de Protección Civil Municipal y llevar a cabo las medidas y acciones que promuevan los sistemas nacional y estatal de protección civil, para garantizar la seguridad de la población en caso emergencias o de siniestros; promoviendo la elaboración del Atlas de Riesgo Municipal a fin de ubicar las situaciones de riesgo en su jurisdicción;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -777,9 +785,13 @@ LXXXVI.- Promover la organización y preservación de los archivos municipales c
 
 LXXXVII.- En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-LXXXVII (SIC).- Las demás que les señalen las leyes y reglamentos municipales.
+LXXXVIII.- Instalar viveros municipales dentro de su jurisdicción, para producir plantas nativas de la zona, para contribuir a la reforestación en su región y promover la forestación entre la población.
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+LXXXIX.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -793,7 +805,9 @@ III.- Retener o invertir para fines distintos, lo establecido en el presupuesto 
 
 IV.- Suspender o revocar por sí mismos, el mandato a alguno de sus miembros;
 
-V.- Delegar a las agencias municipales y de policía facultades de su competencia; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V.- Delegar a las Agencias Municipales, de Policía y a los Núcleos Rurales facultades de su competencia;
 
 VI.- Omitir la aplicación de recursos para brindar al Municipio los servicios básicos.
 
@@ -827,6 +841,10 @@ III.- Solemnes, aquellas que se revisten de un ceremonial especial.
 
 Las sesiones ordinarias y extraordinarias deben celebrarse en el Recinto Oficial o en el lugar que habilite o lo acuerde el Ayuntamiento con el voto calificado de sus integrantes, y las solemnes en el lugar que para tal efecto acuerde el Cabildo, por mayoría simple, mediante declaratoria oficial.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+En caso de emergencia o por situaciones extraordinarias; fortuito o de fuerza mayor, tanto nacional o estatal que afecten la salud pública, seguridad pública, protección civil y la estabilidad social, declarada o determinada por la autoridad competente, y por el tiempo que dure ésta, podrán sesionar a distancia mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, los miembros del Ayuntamiento serán convocados con 48 horas de anticipación mediante correo electrónico, durante la sesión se deberá garantizar la correcta identificación de sus miembros, sus intervenciones, así como el sentido de la votación, para tales efectos la Secretaría del Ayuntamiento deberá además certificar la asistencia de cada uno de los integrantes del Ayuntamiento; para lo cual deberá guardarse una copia íntegra de la sesión, debiéndose con ello levantar acta de sesión de cabildo y en el momento oportuno la Secretaría Municipal deberá recabar las firmas correspondientes.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 47.
@@ -837,7 +855,9 @@ I.- Cambiar la sede de la cabecera municipal, previa autorización del Congreso 
 
 II.- (DEROGADA, P.O. 7 DE ABRIL DE 2011)
 
-III.- Remover de su cargo por causa grave a los agentes municipales y de policía, en los términos del artículo 85 de esta Ley;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III.- Remover de su cargo por causa grave a los Agentes Municipales, de Policía y a los Representantes de Núcleos Rurales en los términos del artículo 85 de esta Ley;
 
 IV.- Eximir al Tesorero Municipal y empleados que manejen fondos de la garantía que se haya determinado por el manejo de recursos municipales en términos del artículo 96 de esta Ley;
 
@@ -873,9 +893,13 @@ XVII.- Acordar la contratación de deuda pública, con sujeción a la Ley aplica
 
 XVIII.- Acordar el periodo de recepción de las participaciones y remitir a la Secretaría de Finanzas del Poder Ejecutivo en los primeros diez días de iniciada la administración dicho acuerdo señalando en el mismo la clabe interbancaria, número de referencia de la cuenta productiva específica e institución financiera a la cual debe realizarse la transferencia de las mismas, así como de los Fondos de Aportaciones que les corresponda.
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XIX.- Las demás que establezca esta y otras leyes.
+XIX.- Las sesiones de cabildo de manera virtual; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XX.- Las demás que establezcan esta y otras leyes.
 
 El Ayuntamiento no podrá revocar sus acuerdos sino en aquellos casos en que se hayan dictado en contravención de la Ley o del interés público.
 
@@ -1279,9 +1303,9 @@ IV.- Convocar y presidir con voz y voto de calidad las sesiones del Cabildo y ej
 
 V.- Promulgar y publicar en la gaceta municipal o en el Periódico Oficial del Gobierno del Estado los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, así como los planes y programas de desarrollo municipal; publicados que sean remitirlos a los Poderes del Estado y al Archivo General del Estado;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VI.- Expedir de manera inmediata los nombramientos de los agentes municipales y de policía, una vez obtenido el resultado de la elección;
+VI.- Expedir de manera inmediata los nombramientos de los Agentes Municipales, de Policía y a los Representantes de Núcleos Rurales, una vez obtenido el resultado de la elección;
 
 VII.- Asumir la representación jurídica del ayuntamiento en los litigios, a falta de Síndico o cuando el Síndico o Síndicos estén ausentes o impedidos legalmente para ello;
 
@@ -1555,37 +1579,55 @@ El Ayuntamiento establecerá las denominaciones o materias de las regidurías en
 
 Son autoridades auxiliares del Ayuntamiento:
 
-I.- Los agentes municipales;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-II.- Los agentes de policía, y
+I.- Los Agentes Municipales;
 
-Por cada agente municipal o de policía, habrá un suplente.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+II.- Los Agentes de Policía,
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III.- Los Representantes de Núcleos Rurales, y
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+Por cada Agente Municipal, de Policía y los Representantes de Núcleos Rurales habrá un suplente.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 77.
 
-Los agentes municipales y de policía actuarán en sus respectivas demarcaciones y tendrán las atribuciones que sean necesarias para mantener, en términos de esta Ley y disposiciones complementarias, el orden, la tranquilidad y la seguridad de los habitantes del lugar donde actúen.
+Los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales actuarán en sus respectivas demarcaciones y tendrán las atribuciones que sean necesarias para mantener, en términos de esta Ley y disposiciones complementarias, el orden, la tranquilidad y la seguridad de los habitantes del lugar donde actúen.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 78.
 
-Los agentes municipales y de policía durarán en su cargo hasta tres años o el tiempo que determinen sus usos y costumbres, sin exceder de tres años, pudiendo ser removidos a juicio del Ayuntamiento en cualquier tiempo por causa grave, que se calificará por acuerdo de las dos terceras partes de los integrantes del Ayuntamiento, llamándose en su caso a quienes acrediten ser suplentes; y en ausencia de suplentes, el Ayuntamiento designará a los sustitutos en los términos del artículo siguiente.
+Los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales durarán en su cargo hasta tres años o el tiempo que determinen sus usos y costumbres, sin exceder de tres años, pudiendo ser removidos a juicio del Ayuntamiento en cualquier tiempo por causa grave, que se calificará por acuerdo de las dos terceras partes de los integrantes del Ayuntamiento, llamándose en su caso a quienes acrediten ser suplentes; y en ausencia de suplentes, el Ayuntamiento designará a los sustitutos en los términos del artículo siguiente. En el caso de remoción de Agentes Municipales, de Policía y los Representantes de Núcleos Rurales elegidos por usos y costumbres, éstos se seguirán respetando por el Ayuntamiento.
 
-En el caso de remoción de agentes municipales y de policía elegidos por usos y costumbres, éstos se seguirán respetando por el Ayuntamiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, 2 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 79.
 
-La elección de los agentes municipales y de policía, se sujetará al siguiente procedimiento:
+La elección de Los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales, se sujetará al siguiente procedimiento:
 
-I.- Dentro de los cuarenta días siguientes a la toma de posesión del Ayuntamiento, éste lanzará la convocatoria para la elección de los agentes municipales y de policía; y
+> <small>(REFORMADA, 3 DE OCTUBRE DE 2020)</small>
+
+I.- Dentro de los cuarenta días siguientes a la toma de posesión del Ayuntamiento, éste lanzará la convocatoria para la elección de Los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales; y
 
 II.- La elección se llevará a cabo en la fecha señalada por el Ayuntamiento teniendo como límite el quince de marzo. Las autoridades auxiliares del ayuntamiento entrarán en funciones al día siguiente de su elección.
 
-En los Municipios de usos y costumbres, la elección de los agentes municipales y de policía, respetará y se sujetará a las tradiciones y prácticas democráticas de las propias localidades.
+> <small>(REFORMADO, 3 DE OCTUBRE DE 2020)</small>
+
+En los Municipios de usos y costumbres, la elección de Los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales, respetará y se sujetará a las tradiciones y prácticas democráticas de las propias localidades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 80.
 
-Corresponden a los agentes municipales y de policía las siguientes obligaciones:
+Corresponden a Los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales las siguientes obligaciones:
 
 I.- Vigilar el cumplimiento de las disposiciones y reglamentos que expida el Ayuntamiento, así como las disposiciones legales federales y estatales y reportar al Presidente Municipal, las violaciones a las mismas;
 
@@ -1715,6 +1757,10 @@ III.- La responsable de la obra pública municipal.
 
 IV.- Contraloría Interna Municipal
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V.- Oficialía de Partes Municipal.
+
 Cuando las posibilidades económicas de un Municipio no permitan el funcionamiento de más dependencias administrativas, los concejales realizarán las actividades relativas a la regiduría o comisión que les haya asignado el Ayuntamiento, pero no así las correspondientes al secretario y tesorero.
 
 ###### ARTÍCULO 89.
@@ -1753,7 +1799,9 @@ El Secretario Municipal tendrá las siguientes atribuciones:
 
 I.- Tener a su cargo el archivo del Municipio, observado la ley de la materia;
 
-II.- Controlar y distribuir la correspondencia oficial del Ayuntamiento, dando cuenta diaria al Presidente Municipal para acordar su trámite;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+II.- Controlar y distribuir la correspondencia recepcionada en la Oficialía de Partes Municipal del Ayuntamiento, dando cuenta diaria al Presidente Municipal para acordar su trámite;
 
 III.- Asistir a las sesiones del Cabildo con voz, pero sin voto; y elaborar las actas correspondientes;
 
@@ -1763,7 +1811,9 @@ V.- Llevar y conservar los libros de actas, obteniendo las firmas de los asisten
 
 VI.- Expedir constancias de origen y de vecindad que le sean solicitadas, previa acreditación indubitable de la misma;
 
-VII.- Comunicar a los agentes municipales y de policía los acuerdos del Cabildo y las órdenes del Presidente Municipal;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VII.- Comunicar a Los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales los acuerdos del Cabildo y las órdenes del Presidente Municipal;
 
 VIII.- Coordinar la elaboración de los informes anuales del Presidente Municipal, en caso de que no exista una dependencia a la cual el reglamento interior de la administración pública municipal le confiera esta atribución;
 
@@ -1775,9 +1825,13 @@ XI.- Compilar las leyes, bandos de policía y gobierno, decretos, reglamentos, a
 
 XII.- Las demás que establezca esta Ley, los reglamentos municipales y las que acuerde el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 93.
 
-La tesorería municipal, es el órgano de recaudación de los ingresos municipales y responsable de realizar las erogaciones que haga el Ayuntamiento. Estará a cargo de un Tesorero Municipal, que deberá ser preferentemente un profesionista con conocimientos de administración y contabilidad.
+La tesorería municipal, es el órgano de recaudación de los ingresos municipales y responsable de realizar las erogaciones que haga el Ayuntamiento; la cual estará a cargo de un Tesorero Municipal.
+
+Para ser Titular de la Tesorería Municipal, además de lo señalado en el artículo 91 de la presente Ley, deberá ser preferentemente un profesionista con conocimientos de administración y contabilidad.
 
 ###### ARTÍCULO 94.
 
@@ -1904,6 +1958,18 @@ El Responsable de la Obra Pública deberá ser de preferencia un profesionista e
 I.- Previa orden del Ayuntamiento concluir las obras iniciadas por administraciones anteriores y dar mantenimiento a la infraestructura e instalaciones de los servicios públicos municipales; y
 
 II.- Ejecutar los acuerdos del ayuntamiento tendientes a proporcionar a la cabecera municipal, agencias, colonias y comunidades del Municipio obras y servicios públicos básicos en términos del artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 97 BIS.- La Oficialía de Partes Municipal tendrá las siguientes atribuciones:
+
+I.- Tiene la obligación de recibir y entregar todas las peticiones, promociones, notificaciones y documentos al Secretario Municipal.
+
+II.- Mantener bajo su cuidado y resguardo los escritos y documentales recibidos.
+
+III.- Rendir mensualmente un informe.
+
+IV.- Las demás que establezcan las disposiciones legales y reglamentarias, los acuerdos del Ayuntamiento y las que expresamente le asigne el Secretario Municipal.
 
 ### CAPÍTULO II. DE LA DELEGACIÓN DE FACULTADES Y LA DESCONCENTRACIÓN ADMINISTRATIVA
 
@@ -2300,6 +2366,18 @@ El Ayuntamiento, a través de las autoridades correspondiente (sic) que construy
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
 Asimismo, el Órgano Superior de Fiscalización del Estado de Oaxaca, la Secretaría de la Contraloría y Transparencia Gubernamental deberá capacitar y asesorar a los comités de contraloría social para el ejercicio de sus funciones.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+#### Sección Tercera. De las Sanciones a la Contraloría Interna Municipal
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 126 DUOVICIES.- Las Contralorías Internas Municipales deben cumplir en todo momento las obligaciones contenidas en la presente ley, implementando para ello los mecanismos, reglas y procedimientos que garanticen el cumplimiento de las mismas, desempeñando sus atribuciones con independencia, imparcialidad, honestidad, responsabilidad y eficiencia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 126 TERVICIES.- Las Contralorías Internas Municipales que incumplan, o realicen actos tendientes a omitir, las obligaciones y atribuciones determinadas en la presente ley y demás relativas a su funcionamiento serán sancionados (sic) conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca así como la Ley General de Responsabilidades Administrativas.
 
 ### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
 
@@ -3822,6 +3900,50 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 1 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1624.-MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 58; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 44 Y LA FRACCIÓN X AL ARTÍCULO 61 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1613.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN LXXXVIII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1614.- MEDIANTE EL CUAL SE ADICIONA LA SECCIÓN TERCERA DENOMINADA “DE LAS SANCIONES A LA CONTRALORÍA INTERNA MUNICIPAL”, INTEGRADO POR LOS ARTÍCULOS 126 DUOVICIES Y 126 TERVICIES, AL CAPÍTULO IV BIS DEL TÍTULO SEXTO DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1623.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los Municipios del Estado de Oaxaca, en un término de 90 días a que entre en vigor el presente Decreto, realizarán las acciones necesarias para dar cumplimiento al presente Decreto.
+
+TERCERO. Para efectos del Artículo 92 las atribuciones que le competen a la Oficialía de Partes, estarán a cargo del Secretario Municipal, en aquellos Municipios que no tengan los recursos económicos para crear la Oficialía de Partes Municipal.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1663.- MEDIANTE EL CUAL SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 46, Y LA FRACCIÓN XIX, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 47 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1664.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XL DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
