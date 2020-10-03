@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-ciencias-forenses-120
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-07"
-last_updated: "2020-04-02"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -211,53 +211,31 @@ IV. La Contraloría.
 
 ### Capítulo IV. De la Junta de Gobierno y sus atribuciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 8°.
 
-La Junta de Gobierno es la primera autoridad del Instituto. Se integrará por diez vocalías honoríficas y sus respectivos suplentes, con derecho a voz y voto, conforme a la siguiente relación:
+La Junta de Gobierno es la primera autoridad del Instituto. Se integrará por once vocalías honoríficas y sus respectivos suplentes, con derecho a voz y voto, conforme a la siguiente relación:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
+I. El Titular de la Secretaría General de Gobierno, quien presidirá la Junta;
 
-I. El Titular de la Coordinación General Estratégica de Seguridad, quien presidirá la Junta;
+II. Titular de la Secretaría de la Hacienda Pública;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
+III. Titular de la Procuraduría Social del Estado;
 
-II. El Titular de la Secretaría de la Hacienda Pública;
+IV. Titular de la Secretaría de Seguridad;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
-
-III. El Titular de la Procuraduría Social del Estado de Jalisco;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
-
-IV. El Titular de la Secretaría de Seguridad;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
-
-V. El Titular de la Secretaría de Salud;
-
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+V. Titular de la Secretaría de Salud;
 
 VI. Un representante de una institución de educación superior privada en el estado;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
-
 VII. Un representante de una institución de educación superior pública en el estado;
-
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 VIII. Un representante del sector privado del estado;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
-
 IX. Un representante de las asociaciones y colegios de abogados del estado; y
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
-
 X. Un ciudadano jalisciense con conocimientos en las ciencias y técnicas forenses y con prestigio académico en las mismas.
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 Los vocales a que se refieren las fracciones VI, VII, VIII, IX y X, serán designados a invitación del Gobernador del Estado. Los miembros durarán en su encargo cuatro años, y podrán ser ratificados para otro periodo más, el titular del Ejecutivo podrá removerlos libremente para sustituirlos por otros que reúnan los mismos requisitos.
 
@@ -503,27 +481,23 @@ VIII. Dirección de Laboratorios: obtener mediante los diversos instrumentos, eq
 
 ### CAPITULO VI. De los convenios y contratos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 18.
 
 El Instituto podrá celebrar convenios de coordinación o de colaboración con dependencias, entidades, autoridades y organismos del orden federal, estatal y municipal, así como con instituciones de educación superior, en los que se podrá establecer el cobro por los servicios pactados.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+Para tal efecto la Junta de Gobierno del Instituto deberá remitir a más tardar el 1° de septiembre de cada año el anteproyecto de cobro de tarifas por los servicios técnicos y científicos al Poder Ejecutivo a través de la Secretaría de la Hacienda Pública a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.
 
-Para tal efecto la Junta de Gobierno del Instituto deberá remitir a más tardar el 1° de septiembre de cada año el anteproyecto de cobro de tarifas por los servicios técnicos y científicos al Poder Ejecutivo a través e (sic) la Secretaría de Planeación Administración y Finanzas a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.
+En la prestación de los servicios técnicos y científicos a particulares del (sic) Instituto deberá garantizar no se distraiga el cumplimiento de su finalidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2003)</small>
-
-En la prestación de los servicios técnicos y científicos a particulares del Instituto deberá garantizar no se distraiga el cumplimiento de su finalidad.
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 19.
 
 En la prestación de sus servicios técnicos, científicos, académicos así como los de Certificación de competencias profesionales y en la intervención como peritos o consultores técnicos, el Instituto podrá cobrar a los usuarios las tarifas que al efecto señale la Ley de Ingresos del Gobierno del Estado de Jalisco, incluso aquellas solicitudes formuladas por órganos estatales encargados de procurar o administrar justicia, cuando expresamente requieran la contratación del servicio.
 
-Para tal efecto la Junta de Gobierno del Instituto deberá remitir el anteproyecto de cobro de tarifas por los servicios que oferte el Instituto, a más tardar el 1° de septiembre de cada año al Titular del Poder Ejecutivo, a través de la Secretaria de Planeación, Administración y Finanzas, a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.
+Para tal efecto la Junta de Gobierno del Instituto deberá remitir el anteproyecto de cobro de tarifas por los servicios que oferte el Instituto, a más tardar el 1° de septiembre de cada año al Titular del Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.
 
 ### Capítulo VII. De los servidores públicos del Instituto
 
@@ -764,3 +738,9 @@ P.O. 2 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27852/LXII/20 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX Y ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 50 DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA; LAS FRACCIONES VII Y XIII, Y ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 30 Y 30 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO SE REFORMA FRACCIÓN V DEL ARTÍCULO 26 Y FRACCIÓN III INCISO A NUMERAL 10 DEL ARTÍCULO 40 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27741/LXII/19 QUE REFORMAN LOS ARTÍCULOS 8, 18 Y19 DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
