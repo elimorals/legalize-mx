@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cooperacion-de-los-productores-de-limon-del-estado-21399
 country: "mx"
 rank: "ley"
 publication_date: "1976-07-24"
-last_updated: "1976-07-24"
+last_updated: "2020-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE COOPERACION DE LOS PRODUCTORES DE LIMON DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 1653, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE COOPERACION DE LOS PRODUCTORES DE LIMON DEL ESTADO DE OAXACA, EN EL FIDEICOMISO PARA REALIZAR ESTUDIOS E INVESTIGACIONES DE CARACTER TECNICO, ASI COMO DESARROLLAR PROGRAMAS PARA EL MEJORAMIENTO DEL CULTIVO Y DE LA INDUSTRIA BENEFICIADORA DEL LIMON Y DE LOS SISTEMAS DE CONSERVACION Y COMERCIALIZACION DE ESTE CITRICO EN LA REPUBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 24 de julio de 1976.
 
@@ -78,3 +80,19 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 30 de junio de 1976.- LIC. ENRIQUE PACHECO ALVAREZ.- Rúbrica.
 
 Al C.......
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. SE TRANSCRIBEN EL ARTÍCULO ÚNICO DEL DECRETO NO. 1653 QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley de Cooperación de los Productores de Limón del Estado de Oaxaca aprobada por la Cuadragésima Novena Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, mediante Decreto número 145 de fecha 30 de junio de 1976, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca el 24 de julio de 1976.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1653.- MEDIANTE EL CUAL ABROGA LA LEY DE COOPERACIÓN DE LOS PRODUCTORES DE LIMÓN DEL ESTADO DE OAXACA APROBADA POR LA CUADRAGÉSIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, MEDIANTE DECRETO NÚMERO 145 DE FECHA 30 DE JUNIO DE 1976, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL 24 DE JULIO DE 1976”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
