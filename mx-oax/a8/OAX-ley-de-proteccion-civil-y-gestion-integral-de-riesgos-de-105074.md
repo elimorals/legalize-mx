@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2020-02-29"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -561,13 +561,17 @@ XIV (SIC). Asesorar y apoyar a los municipios, en su caso, para la integración 
 
 XV. Unificar criterios y acciones entre las dependencias y entidades de la Administración Pública Estatal que intervienen en regular, supervisar y evaluar las actividades de protección civil bajo el enfoque de la Gestión Integral de Riesgos;
 
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XVI. Constituirse en sesión permanente en el caso de presentarse un alto riesgo, siniestro o desastre, a fin de decidir las acciones que procedan;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XVII. Promover que la normativa en materia de protección civil contenga acciones afirmativas y progresivas para identificar los riesgos de la población en situación de vulnerabilidad, en especial cuando se trate de niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad; y
+
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XVI. Constituirse en sesión permanente en el caso de presentarse un alto riesgo, siniestro o desastre, a fin de decidir las acciones que procedan; y
-
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
-
-XVII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
+XVIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 ###### Artículo 26.
 
@@ -2150,3 +2154,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO. El Consejo Consultivo deberá quedar constituido, instalando y reglamentando en un plazo no mayor a ciento ochenta días naturales, posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1673.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
