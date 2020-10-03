@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2020-02-18"
+last_updated: "2020-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE FEBRERO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 27802/LXII/20 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -387,21 +385,9 @@ f) Asistir a los cursos de capacitación permanente que brinde el sistema de tra
 
 g) Las demás que se señalen en la presente ley, su reglamento y demás ordenamientos legales aplicables;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VIII. Cualquier persona puede hacer uso del servicio público de transporte. En el caso del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, cualquier persona puede hacer uso del servicio y elegir su forma de pago siempre y cuando lo solicite exclusivamente a través de las aplicaciones móviles que pongan a su disposición las empresas de redes de transporte autorizadas por la Secretaría.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
-
-En consecuencia, la administración pública estatal, así como el sujeto de autorización, el concesionario, permisionario, subrogatario o el conductor, estarán obligados a prestarlo, salvo en los siguientes casos en que el usuario:
-
-a) Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes y psicotrópicos, con excepción en el servicio de taxi y radiotaxi;
-
-b) Cause disturbios o molestias a otros usuarios o terceros;
-
-c) Pretenda que se le preste un servicio cuando existe imposibilidad física y material en razón de vehículo y modalidad, y
-
-d) Pretenda contravenir lo dispuesto por la ley y su reglamento;
+VIII. Cualquier persona puede hacer uso del servicio público y privado de transporte y realizar la liquidación del mismo eligiendo el método de pago de conformidad a la norma técnica aplicable.
 
 IX. El Ejecutivo del Estado, mediante los estudios técnicos, determinará en la norma técnica correspondiente, la incorporación al servicio público de transporte de vehículos que cuenten con aditamentos especiales, tales como rampas y elevadores o mecanismos especiales que permitan la entrada y salida a personas en sillas de ruedas, muletas y prótesis, así como el número, ubicación y características que deberán reunir los espacios para personas con discapacidad en las unidades que se destinen a la prestación de este servicio público, y
 
@@ -1275,7 +1261,9 @@ En el caso de que al conductor se le hubiere suspendido o cancelado su licencia 
 
 El conductor de vehículos del Servicio de Transporte Público colectivo de pasajeros en el Estado de Jalisco, deberá contar con licencia de conductor de servicios de transporte público vigente, expedida por la Secretaría.
 
-Para conducir vehículos destinados al transporte público de pasajeros en taxi en todas sus modalidades, se requerirá licencia de conductor de servicios de transporte público en la modalidad de taxis y la misma deberá estar vigente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+Para conducir vehículos destinados al transporte público de pasajeros en taxi en todas sus modalidades, así como los de empresas de redes de transporte mediante aplicaciones móviles, se requerirá licencia de conductor de servicios de transporte público en la modalidad correspondiente y la misma deberá estar vigente.
 
 ###### Artículo 56.
 
@@ -1289,9 +1277,17 @@ III. Chofer;
 
 IV. Conductor de servicio de transporte público, que podrá ser:
 
-a) Colectivo, y
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-b) Taxi en todas sus modalidades;
+a) Colectivo;
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+b) Taxi en todas sus modalidades; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+c) Empresas de redes de transporte mediante aplicaciones móviles.
 
 V. Operadores de maquinaria y equipo móvil especial, y
 
@@ -1729,37 +1725,81 @@ III. Comprobar que está al corriente en el pago de las contribuciones relaciona
 
 La falta de solicitud de la renovación en el plazo previsto en este artículo se considerará como renuncia al derecho de renovación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-###### Artículo 83 Sexies.
+Artículo 83 sexies. Las empresas de redes de transporte tendrán los siguientes derechos y obligaciones:
 
-Las empresas de redes de transporte, tendrán los siguientes derechos y obligaciones:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
 
 I. Garantizar que el servicio público de transporte que ofrecen se preste acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su Reglamento, conforme a la autorización correspondiente;
 
-II. Proteger, orientar y respetar a los usuarios del servicio;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-III. En caso que la póliza de seguro de uno de los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles registrado en la empresa de redes de transporte correspondiente, no se encuentre vigente, deberán responder de manera solidaria con éstos, por los daños que puedan causarse tanto a los ocupantes del vehículo, incluido el conductor, como a terceros, tanto en sus bienes como en sus personas, por accidentes ocurridos con motivo de la prestación del servicio, únicamente hasta por el monto igual a las sumas aseguradas requeridas para la póliza del seguro del vehículo;
+II. Proteger, orientar y respetar a los usuarios del servicio y a los conductores que lo presten, obligándose además a implementar en su programa informático o plataforma electrónica los mecanismos de seguridad necesarios que permitan la identificación tanto del usuario como del conductor para su reconocimiento al momento de la asignación y prestación del servicio;
 
-IV. Verificar que los vehículos y conductores que presten el servicio de transporte de pasajeros bajo demanda mediante la aplicación móvil que administren cumplan con los requisitos que para esa modalidad establecen esta Ley y su Reglamento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-V. Inscribirse y mantener actualizada su incorporación en el Registro Estatal;
+III. Implementar en su programa informático o plataforma electrónica las medidas necesarias para garantizar durante la prestación del servicio, la seguridad tanto del usuario como del conductor, mediante el uso de mecanismos de alerta o botón de enlace a números de emergencia;
 
-VI. Solicitar la renovación de la autorización para su funcionamiento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VII. Registrar los vehículos y conductores cuyo servicio se contrate mediante la aplicación móvil que administre, en los términos que disponga esta ley y su reglamento;
+IV. Solicitar como requisito para dar de alta en su programa informático o plataforma electrónica tanto al conductor como al usuario, copia de su identificación oficial o clave única de registro de población, debiendo proteger y resguardar los datos personales de conformidad con lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios;
 
-VIII. Mantener en sus aplicaciones móviles y página web de manera visible, permanente y de fácil acceso, las tarifas de cobro; así como implementar un sistema de cálculo de tarifas cuando la modalidad del servicio contratado así lo permitan;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-IX. Crear y mantener una página web permanente y vinculada a la aplicación móvil que administren, a efecto de poner a disposición del público, el catálogo de los vehículos que presten sus servicios a través de esa empresa de redes de transporte, los contratos de adhesión y condiciones de la prestación del servicio;
+V. En caso de fallecimiento del conductor, durante la prestación del servicio, la empresa de redes de transporte o el seguro contratado a favor del conductor, pagará a los beneficiarios que corresponda según la normativa aplicable, el equivalente a mínimo 120 unidades de medida y actualización;
 
-X. Compartir con la Secretaría, las bases de datos que contengan la información de los propietarios de vehículos afectos al servicio que se encuentren afiliados a la aplicación móvil que administren, el número de vehículos que tiene cada uno, así como la información estadística que generen con motivo de la prestación del servicio de transporte; debiendo proteger y resguardar la relativa a los datos personales de los usuarios conforme a la legislación en la materia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XI. Prestar todas las facilidades e información que le requieran las autoridades estatales, federales y municipales en el ejercicio de sus funciones;
+VI. Ofrecer los incentivos que éstas determinen a sus conductores en activo;
 
-XII. Verificar que los vehículos que presten el servicio de transporte de pasajeros bajo demanda mediante la aplicación móvil que administren, cumplan con las condiciones mecánicas y de seguridad previstas en las disposiciones reglamentarias aplicables; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XIII. Suscribir con el Estado un convenio de colaboración para la constitución de un fondo económico al que podrán aportar las empresas de redes de transporte, cuyos recursos se destinarán a los fines o programas públicos que se determinen en el presupuesto de egresos respectivo.
+VII. En caso que la póliza de seguro de uno de los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles registrado en la empresa de redes de transporte correspondiente, no se encuentre vigente, deberán responder de manera solidaria con éstos, por los daños que puedan causarse tanto a los ocupantes del vehículo, incluido el conductor, como a terceros, tanto en sus bienes como en sus personas, por accidentes ocurridos con motivo de la prestación del servicio, únicamente hasta por el monto igual a las sumas aseguradas requeridas para la póliza del seguro del vehículo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VIII. Verificar que los vehículos y conductores que presten el servicio de transporte de pasajeros bajo demanda mediante la aplicación móvil que administren cumplan con los requisitos que para esa modalidad establecen esta Ley y su Reglamento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IX. Inscribirse y mantener actualizada su incorporación en el Registro Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+X. Solicitar la renovación de la autorización para su funcionamiento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XI. Registrar los vehículos y conductores cuyo servicio se contrate mediante la aplicación móvil que administre, en los términos que disponga esta ley y su reglamento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XII. Mantener en sus aplicaciones móviles y página web de manera visible, permanente y de fácil acceso, las tarifas de cobro; así como implementar un sistema de cálculo de tarifas cuando la modalidad del servicio contratado así lo permitan;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XIII. Crear y mantener una página web permanente y vinculada a la aplicación móvil que administren, a efecto de poner a disposición del público, el catálogo de los vehículos que presten sus servicios a través de esa empresa de redes de transporte, los contratos de adhesión y condiciones de la prestación del servicio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XIV. Compartir con la Secretaría, las bases de datos que contengan la información de los propietarios de vehículos afectos al servicio que se encuentren afiliados a la aplicación móvil que administren, el número de vehículos que tiene cada uno, así como la información estadística que generen con motivo de la prestación del servicio de transporte; debiendo proteger y resguardar la relativa a los datos personales de los usuarios conforme a la legislación en la materia;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XV. Prestar sin dilación alguna, todas las facilidades e información que le requieran las autoridades estatales, federales y municipales en el ejercicio de sus funciones. Tratándose de procesos de investigación Judicial o Ministerial, los datos personales de los propietarios y conductores de los vehículos deberán proporcionarlos en los términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XVI. Verificar que los vehículos que presten el servicio de transporte de pasajeros bajo demanda mediante la aplicación móvil que administren, cumplan con las condiciones mecánicas y de seguridad previstas en las disposiciones reglamentarias aplicables;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XVII. Garantizar en los procesos de reclutamiento y actualización de información que propietarios y conductores de los vehículos que presten el servicio de transporte en sus plataformas electrónicas, no cuenten con antecedentes penales derivados de delitos contra la seguridad y libertad sexual, así como de delitos de secuestro, extorsión y privación ilegal de la libertad, debiendo actualizar cada año dicha información mediante los mecanismos conducentes. En caso contrario, procederá de inmediato a dar de baja al conductor de su aplicación móvil, para la prestación del servicio en esta modalidad; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XVIII. Suscribir con el Estado un convenio de colaboración para la constitución de un fondo económico al que podrán aportar las empresas de redes de transporte, cuyos recursos se destinarán a los fines o programas públicos que se determinen en el presupuesto de egresos respectivo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
 
@@ -2635,9 +2675,17 @@ III. Hacer llegar a la dirección de correo electrónico registrada por el usuar
 
 IV. Cumplir oportunamente con el calendario de verificación vehicular semestral, así como realizar la revista mecánica correspondiente en los términos que establece la presente Ley y sus disposiciones reglamentarias; y
 
-V. Las demás señaladas en las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
 
-El cumplimiento de las anteriores disposiciones se llevará a cabo por la empresa de redes de transporte a través de la cual se gestionen sus servicios, en términos de la presente Ley y los ordenamientos que de ella emanen.
+V. Colaborar con las autoridades señaladas en la fracción XVI del articulo 83 Sexies de esta Ley y en los términos que dicha fracción establece, mediante requerimiento fundado y motivado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VI. Las demás señaladas en las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+El cumplimiento de las anteriores disposiciones, salvo la dispuesta en la fracción V, se llevará a cabo por la empresa de redes de transporte a través de la cual se gestionen sus servicios, en términos de la presente Ley y los ordenamientos que de ella emanen.
 
 ### Capítulo XI. De las causas de revocación de las concesiones, permisos, autorizaciones y subrogaciones
 
@@ -2821,13 +2869,17 @@ IX. Un representante de entre los concesionarios, permisionarios o subrogatarios
 
 X. El Sistema de Tren Eléctrico Urbano, a través de su Director o quien éste designe que sea del nivel jerárquico inmediato inferior;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XI. El Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a través del comisionado designado por el Pleno de dicho Instituto; y
+XI. El Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a través del comisionado designado por el Pleno de dicho Instituto;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XII. El Contralor del Estado o quien éste designe que sea del nivel jerárquico inmediato inferior.
+XII. El Contralor del Estado o quien éste designe que sea del nivel jerárquico inmediato inferior; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XIII. Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -3505,9 +3557,11 @@ II. Por moverse del lugar en un accidente de colisión, salvo en caso de llegar 
 
 III. A los vehículos que transporten carga sin contar con las medidas de seguridad, equipo de protección e higiene, o pongan en riesgo la integridad o patrimonio de terceros.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 181.
 
-Se sancionará a los conductores o propietarios de vehículos que se estacionen o circulen por corredores exclusivos y confinados para el transporte público colectivo y masivo y carriles de contraflujo.
+Se sancionará a los conductores o propietarios de vehículos que se estacionen o circulen por corredores exclusivos y confinados para el transporte público colectivo y masivo y carriles de contra flujo, así como a quienes crucen dichos corredores sin respetar los señalamientos viales.
 
 ###### Artículo 182.
 
@@ -3543,7 +3597,9 @@ Los vehículos de transporte público observarán, respecto a esta disposición,
 
 III. Al conductor de un vehículo que exceda en más de diez kilómetros por hora el límite de velocidad máximo permitido, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitales, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo, rebasar la velocidad permitida;
 
-IV. No disponer de un seguro que cubra daños a terceros. Dicha sanción quedará condonada, si el infractor presenta dentro de los veinte días hábiles siguientes la constancia o póliza de seguro contra daños a terceros a la Secretaría o dependencia del Ejecutivo del Estado que señale el reglamento de esta ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. No disponer de un seguro que cubra daños a terceros.
 
 Los vehículos de transporte público colectivo y masivo, y los de transporte especializado en las modalidades contempladas en esta ley, para que puedan prestar dicho servicio, además del seguro de daños a terceros, deben contar con un seguro de vida para los pasajeros y que además garantice las posibles lesiones que puedan sufrir los usuarios en los casos de los que transporten pasajeros, considerando las reglas y consideraciones de calidad en el servicio;
 
@@ -3669,7 +3725,9 @@ I. Preste servicios de transporte público en cualquiera de sus modalidades sin 
 
 II. Porte en un vehículo de uso particular los colores asignados por la Secretaría para las unidades de transporte público;
 
-III. Al conductor que preste sus servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles que no cuente o presente licencia de chofer vigente expedida por la Secretaría;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III. Al conductor que preste sus servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles que no exhiba la licencia correspondiente vigente expedida por la Secretaría;
 
 IV. Al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público;
 
@@ -3679,11 +3737,11 @@ VI. Cuando el vehículo no porte, o se altere, destruya, imposibilite o inhabili
 
 VII. A la empresa de redes de transporte que permita deliberadamente que los propietarios o conductores de vehículos destinados a la prestación de transporte público cuyos servicios gestionen a través de una aplicación móvil, cometan infracciones a lo dispuesto en la presente Ley y su Reglamento; o bien, cuando estando obligado a ello, omita vigilar y garantizar que tanto los propietarios, conductores y unidades vehiculares que tenga afiliadas o registradas, contravengan lo dispuesto en la presente Ley o no reúnan los requisitos que establecen los ordenamientos jurídicos y técnicos para la prestación del servicio de transporte público de acuerdo a la modalidad correspondiente.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 27260/LXII/19 PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2019, PÁGINAS DE LA 12 A LA 13.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 188.
 
-En caso de reincidencia en las infracciones previstas en el presente capítulo, cometidas dentro de los tres meses siguientes, se duplicará el importe de la multa correspondiente.
+En caso de reincidencia en las infracciones previstas en el presente capítulo, cometidas dentro de los tres meses siguientes, con excepción de la establecida en el artículo 183 fracción IV de esta Ley, se duplicará el importe de la multa correspondiente.
 
 En caso de reincidencia en las infracciones previstas en las fracciones V y VII del artículo 182 de esta ley, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de movilidad y transporte.
 
@@ -3697,9 +3755,9 @@ Tratándose de la infracción contenida en el artículo 186, a la persona que re
 
 Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 192 fracciones I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros, de taxi en sus diversas modalidades, así como de transporte de pasajeros bajo demanda mediante aplicaciones móviles, dentro de los treinta días siguientes, se duplicara el importe de la multa correspondiente.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 192 fracción I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los treinta días siguientes, la sanción se incrementará hasta en doscientas veces el valor diario de la Unidad de Medida y Actualización.
+En caso de reincidencia en la infracción prevista en el artículo 183 fracción IV de esta ley, la sanción se incrementará a 40 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### Capítulo III. De las sanciones administrativas en materia del servicio del transporte público
 
@@ -3887,7 +3945,11 @@ Para el caso de los créditos fiscales derivados de las infracciones previstas e
 
 Para el caso de la sanción económica a que se refiere el artículo 186 de esta ley respecto a los reincidentes, los plazos a que se refiere esta disposición correrán a partir del día hábil siguiente al en que el infractor debió asistir al curso a que se refiere el mismo artículo; en cuyo caso, sólo mediante la presentación de la constancia de asistencia se tendrá derecho a las referidas reducciones.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+Para el caso de los créditos fiscales derivados de la infracción prevista en el artículo 183 fracción IV de la presente Ley, el infractor no tendrá derecho a la reducción de (sic) multa prevista en el primer párrafo del presente artículo, sin embargo, tendrá derecho a la condonación total de la misma siempre y cuando al presentarse a pagar dentro de los sesenta días naturales siguientes al de la notificación de la cédula de infracción, acredite que ya cuenta con su póliza de seguro contra daños a terceros.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 3 DE OCTUBRE DE 2020)</small>
 
 El Poder Ejecutivo del Estado, a través de la Secretaría de la Hacienda Pública, podrá celebrar convenios con establecimientos comerciales para efectos de que reciban el pago de dichos créditos fiscales, dentro del plazo ordinario que no genera recargo, aplicando en su caso, los descuentos señalados.
 
@@ -4510,3 +4572,31 @@ PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicaci�
 SEGUNDO. El titular del Poder Ejecutivo deberá realizar las modificaciones necesarias al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente decreto.
 
 TERCERO. Las dependencias del Poder Ejecutivo deberán realizar las adecuaciones o modificaciones que resulten necesarias para la aplicación del presente decreto.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27957/LXII/20 QUE REFORMA EL ARTÍCULO 83 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor a los 60 días siguiente (sic) de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27773/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto se publicará en el periódico oficial "El Estado de Jalisco", y su vigencia será de conformidad con lo siguiente:
+
+I. La reforma al artículo 83 Sexies fracciones II, III y IV, entrará en vigor a los 365 días posteriores a su publicación; y
+
+II. El resto del presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. En lo que respecta a la reforma del artículo 55, los conductores de vehículos de empresas de redes de transporte estarán obligados a cumplir con dicha disposición una vez que haya vencido la licencia con la que actualmente prestan el servicio.
+
+TERCERO. Se exhorta al titular del Poder Ejecutivo del Estado, para que se realicen las reformas conducentes al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco, en los términos del presente decreto; atendiendo en lo que corresponda a lo dispuesto en la Ley de Mejora Regulatoria del Estado de Jalisco y sus Municipios.
+
+CUARTO. Para la aplicación de la reforma al artículo 8, fracción VIII, la Secretaría determinará de forma progresiva y viable para cada modalidad del servicio, y los programas de transición que permitan a los usuarios, concesionarios y permisionarios cumplir con la norma técnica aplicable.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27775/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
