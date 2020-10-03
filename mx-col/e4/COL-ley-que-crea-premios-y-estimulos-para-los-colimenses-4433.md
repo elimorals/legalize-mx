@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2019-08-03"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -138,6 +138,16 @@ c) La Ciencia; y
 d) El Arte;
 
 La entrega de los premios contenidos en esta fracción se llevará a cabo en Sesión Solemne que al efecto convoque el H. Congreso del Estado, preferentemente el día 28 de agosto de cada año, fecha en que se celebra el Día Nacional del Adulto Mayor.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XI. El Premio Estatal de Enfermería se entregará a profesionales del área como reconocimiento y estímulo por la contribución relevante y distinguida en favor de la salud de la población colimense y mexicana, conforme a las siguientes categorías:
+
+a) EI premio al mérito en enfermería primer nivel de atención. Se otorgará a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades, particularmente en el área de salud pública y de enfermería comunitaria.
+
+b) El premio al mérito de enfermería de segundo y tercer nivel de atención. Se otorgará a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades, particularmente en el área de segundo y tercer nivel de atención.
+
+c) El premio al mérito de enfermería gestión e investigación en enfermería. Se otorgará a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades o áreas de conocimiento relacionadas a la gestión e investigación en enfermería.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -331,6 +341,16 @@ Sólo en la categoría deportiva, la premiación podrá ser individual o en equi
 
 Los reconocimientos se otorgarán sin perjuicio de otras distinciones que sean entregadas por las instituciones públicas, privadas y sociales de la entidad.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 11.
+
+El "Premio Estatal de Enfermería" a que hace referencia la fracción XI del artículo 1o, se entregará en sesión solemne del H. Congreso del Estado, la que se celebrará preferentemente el 12 de mayo de cada año, en el marco del "Día Estatal de Enfermería”.
+
+La Comisión de Educación y Cultura en conjunto con la Comisión de Salud y Bienestar Social del H. Congreso del Estado, expedirá la convocatoria en los primeros días del mes de abril, misma que señalará los plazos, términos, categorías y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, a los profesionistas de enfermería y en general a toda la población del Estado, para efectos de que se reciban propuestas a distinguir con dicho reconocimiento.
+
+Para determinar a la persona merecedora de dicho reconocimiento, se integrará un Comité por un representante de la Comisión de Educación y Cultura del Congreso, un representante de la Comisión de Salud y Bienestar Social y un representante de la Secretaría de Salud y Bienestar Social, quien se encargará de revisar y calificar la idoneidad de cada una de las personas propuestas; siendo las Comisiones Legislativas citadas, las encargadas de elaborar y presentar el dictamen al Pleno del Congreso.
+
 TRANSITORIOS:
 
 ###### Artículo 1o.
@@ -402,3 +422,9 @@ P.O. 3 DE AGOSTO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La emisión de la Convocatoria para la edición 2019 de la entrega anual del Premio Estatal a los Adultos Mayores se realizará, por esta ocasión, una vez que entre en vigor lo señalado en el presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 318.- POR EL QUE SE DECLARA EL DÍA 12 DE MAYO DE CADA AÑO, COMO EL "DÍA ESTATAL DE ENFERMERÍA" Y SE APRUEBAN ADICIONES A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
