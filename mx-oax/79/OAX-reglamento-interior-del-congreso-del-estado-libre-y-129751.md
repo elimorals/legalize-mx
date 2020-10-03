@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-08-29"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -506,6 +506,18 @@ Tratándose de omisión por parte de la Comisión Dictaminadora, el Presidente d
 Se exceptúan de lo dispuesto en el párrafo anterior, las comisiones permanentes, que, por la naturaleza de los asuntos de su competencia, conozcan del trámite de procedimientos ordinarios y especiales previstos en otros ordenamientos legales, en cuyo caso, se estarán a los términos señalados en ellos.
 
 En el caso de las iniciativas preferentes, se dictaminará de acuerdo a los plazos previstos en el artículo 51 de la Constitución Local.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 38 Bis.
+
+Tratándose de las proposiciones con punto de acuerdo, las Comisiones aplicarán las siguientes reglas:
+
+I. La Comisión o Comisiones competentes tendrán como plazo 8 días hábiles para dictaminar las proposiciones con punto de acuerdo.
+
+II. Tratándose de los expedientes de las proposiciones con punto de acuerdo que no se dictaminen dentro del periodo de sesiones ordinarias en que fueron presentadas, la Comisión o Comisiones deberán dictaminar, mediante acuerdo, su archivo como asuntos total y definitivamente concluidos, dejando a salvo el derecho de las diputadas y los diputados para volver a presentarlas.
+
+III. Las proposiciones con punto de acuerdo solicitadas para el trámite de urgente y obvia resolución presentadas durante los periodos de receso quedarán reservadas, y se dará cuenta de ellas en el inicio del periodo ordinario siguiente, y quedarán sujetas a los plazos establecidos en las fracciones anteriores de este artículo.
 
 ###### ARTÍCULO 39.
 
@@ -2862,3 +2874,11 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1677.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 38 BIS AL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria del Congreso del Estado de Oaxaca, y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
