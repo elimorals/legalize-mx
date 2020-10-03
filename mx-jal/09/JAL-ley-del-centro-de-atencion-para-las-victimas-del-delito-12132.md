@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-centro-de-atencion-para-las-victimas-del-delito-12132"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "2019-08-29"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -457,9 +457,11 @@ Son trabajadores de confianza, el Director General y demás personas de direcci�
 
 Todo acto de dominio con relación a inmuebles pertenecientes a su patrimonio, sólo podrá hacerse previo acuerdo del Ejecutivo del Estado con autorización del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 40.
 
-El Director General podrá imponer al personal de la dependencia, previa audiencia y defensa, por las faltas en que incurran en el servicio o por motivo de éste, las correcciones o sanciones que establece la Ley para los Servidores Públicos y la Ley de Responsabilidades de los Servidores Públicos, ambas del Estado de Jalisco.
+El Director General podrá imponer al personal de la dependencia, previa audiencia y defensa, por las faltas en que incurran en el servicio o por motivo de éste, las correcciones o sanciones que establece la Ley para los Servidores Públicos y la Ley de Responsabilidades Políticas y Administrativas, ambas del Estado de Jalisco.
 
 ## TRANSITORIOS
 
@@ -536,5 +538,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27325/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8°, FRACCIÓN II Y IV, INCISO B) Y 21, FRACCIÓN IX, AMBOS DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27740/LXII/19 QUE REFORMA EL ARTÍCULO 40 DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
