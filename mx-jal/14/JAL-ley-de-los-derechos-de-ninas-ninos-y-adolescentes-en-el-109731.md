@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2020-09-19"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -873,11 +873,17 @@ VII. Garantizar que la niña, niño o adolescente reciba educación obligatoria;
 
 VIII. Impulsar el desarrollo académico, cultural, artístico y científico;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-IX. Determinar límites y normas de conducta preservando el interés superior de la niñez, a través de la crianza positiva en los términos de la normatividad vigente, lo que en ningún caso implicará cualquier forma de maltrato o violencia que atente contra la dignidad humana, quedando prohibido el castigo corporal severo o innecesario; y
+IX. Determinar límites y normas de conducta preservando el interés superior de la niñez;
 
-X. Vigilar permanentemente que se preserve el goce y ejercicio de los derechos de niñas, niños y adolescentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+X. Fomentar en las niñas, niños y adolescentes el ejercicio físico, además de procurar que su alimentación sea adecuada y equilibrada; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XI. Vigilar permanentemente que se preserve el goce y ejercicio de los derechos de niñas, niños y adolescentes.
 
 ###### Artículo 66.
 
@@ -1894,3 +1900,9 @@ SEGUNDO. En tanto se nombra al titular del Órgano Interno de Control del Hogar 
 TERCERO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las adecuaciones presupuestales necesarias para la creación de su Delegación Institucional.
 
 CUARTO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las acciones necesarias para armonizar su normatividad interna, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27759/LXII/19 QUE REFORMA EL ARTÍCULO 65 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
