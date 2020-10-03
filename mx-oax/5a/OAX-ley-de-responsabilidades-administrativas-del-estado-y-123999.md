@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-administrativas-del-estado-y-123999"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-03"
-last_updated: "2019-03-21"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 3 de octubre de 2017.
 
@@ -155,9 +155,11 @@ Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comi
 
 ### Capítulo III. Autoridades competentes para aplicar la presente Ley
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-Las autoridades del Estado y Municipios de Oaxaca concurrirán con las de la Federación para el cumplimiento de la Ley General y de la presente Ley, de conformidad con las bases y principios que establezcan los Sistemas Anticorrupción respectivos.
+Las autoridades del Estado y Municipios de Oaxaca concurrirán con las de la Federación para el cumplimiento de la Ley General y de esta Ley, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género, así como de las bases y principios que establezcan los Sistemas Anticorrupción respectivos.
 
 ###### Artículo 8.
 
@@ -171,7 +173,9 @@ III. La Auditoría Superior;
 
 IV. El Tribunal; y,
 
-V. Tratándose de las responsabilidades administrativas de los Servidores Públicos del poder judicial, será competente para investigar e imponer las sanciones que correspondan, el Consejo de la Judicatura del Poder Judicial del Estado, conforme al régimen establecido en los artículos 100 y 115 de la Constitución Local, su Ley Orgánica y demás reglamentación interna, sin perjuicio de las atribuciones de la Auditoría Superior en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V. Tratándose de las responsabilidades administrativas de los Servidores Públicos del poder judicial, así como de los actos de violencia de género que estos cometan contra las mujeres de acuerdo a lo dispuesto por la Ley General y Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género, será competente para investigar e imponer las sanciones que correspondan, el Consejo de la Judicatura del Poder Judicial del Estado, conforme al régimen establecido en los artículos 100 y 115 de la Constitución Local, su Ley Orgánica, y demás reglamentación interna, sin perjuicio de las atribuciones de la Auditoría Superior en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 Para los efectos del artículo 8 de esta Ley, las autoridades que en el mismo se mencionan estarán facultadas para que en el ámbito de su competencia emitan la normatividad que resulte necesaria para dar cumplimiento a lo dispuesto por la Ley General, la presente Ley y demás disposiciones aplicables.
 
@@ -461,11 +465,17 @@ La declaración de intereses deberá presentarse en los plazos a que se refiere 
 
 ## TÍTULO TERCERO. DE LAS FALTAS ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES
 
-### Capítulo I. De las Faltas administrativas no graves de los Servidores Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+### Capítulo I. De las Faltas administrativas de los Servidores Públicos y de Particulares
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 47.
 
-Incurrirán en Faltas administrativas no graves, Faltas administrativas graves, Faltas de particulares en la modalidad de graves y Faltas de particulares en situación especial quienes actualicen los supuestos previstos en el Título Segundo y los Capítulos I, II, III y IV de la Ley General.
+Incurrirán en Faltas administrativas no graves, Faltas administrativas graves, Faltas de particulares en la modalidad de graves y Faltas de particulares en situación especial quienes actualicen los supuestos previstos en los Capítulos I, II, III y IV, del Título Tercero, del Libro Primero, de la Ley General.
+
+También se considerarán como faltas administrativas graves de las y los servidores públicos los actos de violencia de género cometidos contra las mujeres, de acuerdo a lo establecido por la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 
 ###### Artículo 48.
 
@@ -654,3 +664,11 @@ TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, q
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 CUARTO. LAS DECLARACIONES PRESENTADAS ANTE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS MUNICIPIOS DEBERÁN SER REMITIDAS EN UN PLAZO NO MAYOR DE 30 DÍAS AL ÓRGANO INTERNO DE CONTROL DEL H. CONGRESO DEL ESTADO DE OAXACA.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1534.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
