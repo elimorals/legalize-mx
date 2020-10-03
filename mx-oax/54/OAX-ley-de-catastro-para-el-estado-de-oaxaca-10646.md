@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2016-12-31"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -1059,15 +1059,15 @@ Los Ayuntamientos proveerán lo necesario, dentro de la esfera de su competencia
 
 ### CAPÍTULO DÉCIMO BIS. DE LOS PERITOS VALUADORES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 64 A.- Para obtener la constancia de registro en el Padrón de Peritos Valuadores, expedida por el Instituto Catastral del Estado de Oaxaca y autorizada por la Secretaría de Finanzas, se deberán reunir los siguientes requisitos:
 
 I. Ubicarse en alguno de los siguientes supuestos:
 
-a) Tener cédula profesional de arquitecto, de ingeniero civil o de alguna carrera afín a la materia inmobiliaria, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+a) Tener cédula profesional de arquitectura, de ingeniería civil o de alguna carrera afín a la materia inmobiliaria, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
 b) Los profesionistas que no cumplan con lo señalado en el inciso anterior, deberán contar con cédula relativa a una especialidad o maestría en materia de valuación de inmuebles, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
@@ -1321,29 +1321,37 @@ ARTÍCULO 64 P.- La resolución que dicte el Instituto Catastral del Estado de O
 
 El escrito de interposición del recurso deberá presentarse ante la Secretaría de Finanzas o ante la Oficina Recaudadora de Rentas correspondiente o por correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el recurrente; en estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina recaudadora o de correos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 64 Q.- El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 24 de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y señalar además:
 
-ARTÍCULO 64 Q.- El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 13 de la Ley de Justicia Administrativa para el Estado de Oaxaca, y señalar además:
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 I. La resolución recurrida;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 II. Los agravios que le cause la resolución; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 III. Las pruebas que se ofrezcan y los hechos controvertidos de que se trate.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 Cuando no se expresen los agravios, no se señale la resolución que se recurre, los hechos controvertidos o no se ofrezcan las pruebas a que se refieren las fracciones I, II y III, la Secretaría de Finanzas requerirá al promovente para que dentro del plazo de cinco días cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución, la Secretaría de Finanzas desechará el recurso; si no se señala la resolución que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
 
-Cuando no se gestione en nombre propio, la representación deberá acreditarse en términos del artículo 13 de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Cuando no se gestione en nombre propio, la representación deberá acreditarse en términos del artículo 24 de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 64 R.- El promovente deberá acompañar al escrito en que se interponga el recurso:
 
-I. Los documentos que acrediten su personalidad en términos del artículo 13 de la Ley de Justicia Administrativa para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+I. Los documentos que acrediten su personalidad en términos del artículo 24 de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca;
 
 II. El documento en que conste la resolución recurrida;
 
@@ -1517,29 +1525,17 @@ I. Cuando no cumplan el término de 30 días naturales para dar aviso al Institu
 
 II. Cuando presenten al Instituto Catastral del Estado de Oaxaca información no fidedigna respecto a los bienes inmuebles a los que se refiere la fracción anterior.
 
-ARTÍCULO 66 (SIC).- Se impondrá multa de 5 a 10 días de salario mínimo vigente, a todos aquellos propietarios o poseedores o cualquier otra persona encargada de un bien inmueble:
+###### ARTÍCULO 66.
 
-I. Que no proporcione al Instituto, los datos o informes que éste le solicite.
-
-II. Que, habiéndose cumplido las formalidades previstas en el Código Fiscal del Estado para las visitas domiciliarias, no permita el acceso al interior del inmueble al personal del Instituto.
-
-III. Que de manera dolosa obstruya los trabajos del personal del Instituto para la localización, identificación, mensura y levantamiento de los planos, así como las demás operaciones catastrales relativas a los bienes inmuebles.
-
-IV. Que no realice las manifestaciones o avisos que esta Ley le impone.
-
-V. Que no manifieste al Instituto cualquier modificación que se haga a los elementos y características físicas del inmueble.
+(SIC) (DEROGADO, P.O. 3 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 67.
 
-Se impondrá una multa de 100 a 500 días de salario mínimo vigente, cuando los fraccionadores, lotificadores o propietarios de condominios cometan alguna de las infracciones a que se refiere el Artículo anterior, o cuando éstos antes de la terminación de las obras celebren un contrato traslativo de dominio, preparatorio o definitivo, sin tener la autorización correspondiente.
+(SIC) (DEROGADO, P.O. 3 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 68.
 
-Se impondrá multa de entre 100 a 500 días de salario mínimo vigente, a todos aquellos Notarios Públicos que intervengan en la celebración de contratos que transmitan o modifiquen el dominio de inmuebles, en los siguientes casos:
-
-I. Cuando no cumplan el término de 30 días naturales para dar aviso al Instituto sobre la celebración de un acto jurídico en el que intervengan y que modifique las características de la propiedad o posesión de un inmueble.
-
-II. Cuando presenten al Instituto Catastral del Estado de Oaxaca información no fidedigna respecto a los bienes inmuebles a los que se refiere la fracción anterior.
+(SIC) (DEROGADO, P.O. 3 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 69.
 
@@ -1794,3 +1790,11 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1658.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
