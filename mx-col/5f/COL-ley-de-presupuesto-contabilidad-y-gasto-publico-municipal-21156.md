@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-contabilidad-y-gasto-publico-municipal-21156
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-14"
-last_updated: "2016-11-22"
+last_updated: "2020-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO MUNICIPAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA PARA LOS MUNICIPIOS DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 3 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 14 de abril de 2001.
 
@@ -624,3 +626,13 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 310 POR EL QUE SE EXPIDE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA PARA LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga a partir del inicio de vigencia del Presente Decreto, la Ley de Presupuesto, Contabilidad y Gasto Publico Municipal y queda sin efectos cualesquier disposición, Reglamento o acuerdo municipal que ha ya sido expedido con base en la norma abrogada.
+
+TERCERO.- Los Municipios del Estado de Colima, dispondrán de un término de 30 días hábiles contados a partir del inicio de vigencia del presente Decreto, para adecuar su normativa municipal interna y con motivo de la presupuestación de gasto público 2021, deberán ajustarse a los lineamientos de la nueva Ley de Presupuesto y Responsabilidad Hacendaria para los Municipios del Estado de Colima.
