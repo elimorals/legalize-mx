@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-las-personas-jovenes-del-estado-de-oaxaca-117872"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2020-02-29"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -111,9 +111,29 @@ III. Con problemas de drogadicción y/o alcoholismo;
 
 IV. En situación de pobreza;
 
-V. Personas con discapacidad; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VI. Con enfermedades crónicas.
+V. Personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VI. Con enfermedades crónicas;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VII. Víctimas u ofendidos de cualquier delito;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VIII. Se encuentren en estado de orfandad o en situación de calle;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IX. Migrantes; e
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+X. Indígenas.
 
 ## TÍTULO SEGUNDO. DERECHOS DE LAS PERSONAS JÓVENES
 
@@ -613,9 +633,15 @@ XVII. Promover el turismo juvenil;
 
 XVIII. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos, documentales y a las nuevas tecnologías de información y comunicación;
 
-XIX. Proporcionar orientación a las jóvenes madres con demandas de acceso a vivienda, transporte y servicios públicos, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-XX. Las demás que le otorgue la presente Ley y otros ordenamientos legales que le permitan cumplir con su objetivo fundamental.
+XIX. Proporcionar orientación a las jóvenes madres con demandas de acceso a vivienda, transporte y servicios públicos;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XX. Diseñar y promover proyectos productivos agrícolas sustentables en beneficio del desarrollo integral de la juventud de las comunidades rurales, en coordinación con las dependencias de la Administración Pública federal, estatal y municipal; y
+
+XXI. Las demás que le otorgue la presente Ley y otros ordenamientos legales que le permitan cumplir con su objetivo fundamental.
 
 ###### ARTÍCULO 21.
 
@@ -740,3 +766,19 @@ P.O. 29 DE FEBRERO DE 2020.
 PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1651.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1671.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
