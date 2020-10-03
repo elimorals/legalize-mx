@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-hospital-civil-de-203
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "2014-10-09"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -121,17 +121,19 @@ I. Junta de Gobierno.
 
 II. Dirección General
 
+> <small>(REFORMADO PRIMER PÁRRAFO], P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-La Junta de Gobierno estará integrada de la siguiente forma:
+La junta de Gobierno estará integrada de la siguiente forma:
 
 I. Un presidente que será el Titular del Poder Ejecutivo del Estado, o quien éste designe.
 
 II. El Secretario de Salud;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-III. El Secretario de Planeación, Administración y Finanzas;
+III. El Secretario de la Hacienda Pública.
 
 IV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2014)
 
@@ -344,3 +346,9 @@ SEGUNDO.- Publíquese el presente Decreto incorporando la exposición de motivos
 P.O. 9 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27949/LXII/20 QUE REFORMA EL ARTÍCULO 9 DEL ORGANISMO PÚBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
