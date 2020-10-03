@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-09-12"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -3533,9 +3533,11 @@ La renuncia del usufructo hecha en favor del hijo, se considera como donación.
 
 Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 448.
 
-El usufructo de los bienes concedido a las personas que ejerzan la patria potestad, lleva consigo las obligaciones que expresa el capítulo II del título tercero de este libro, y, además, las impuestas a los usufructuarios, con excepción de la obligación de dar fianza, fuera de los casos siguientes:
+El usufructo de los bienes concedido a las personas que ejerzan la patria potestad, lleva consigo las obligaciones que expresa el Capítulo III, del Título Quinto, del Libro Segundo, y, además, las impuestas a los usufructuarios, con excepción de la obligación de dar fianza, fuera de los casos siguientes:
 
 I. Cuando los que ejerzan la patria potestad han sido declarados en quiebra o estén concursados;
 
@@ -16856,6 +16858,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 12 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1530.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1657.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
