@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-h-7002"
 country: "mx"
 rank: "ley"
 publication_date: "1974-05-11"
-last_updated: "2020-08-29"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2020.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 11 de mayo de 1974.
 
@@ -587,9 +587,15 @@ II.- Las acciones de los funcionarios para suspender a los empleados por causas 
 
 III.- Las acciones de los empleados para volver a ocupar el puesto que hayan dejado por accidente o por enfermedad, contándose el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
 
-IV.- Las acciones de los empleados para reclamar separación injustificada, contados a partir del día siguiente a la fecha de la separación.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 70 Bis.
+
+Prescriben en dos meses las acciones de los trabajadores que sean separados del trabajo.
+
+La prescripción corre a partir del día siguiente a la fecha de la separación.
 
 ###### Artículo 71.
 
@@ -804,3 +810,11 @@ P.O. 29 DE AGOSTO DE 2020.
 SEGUNDO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 PRIMERO (SIC). Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1654.- MEDIANTE EL CUAL SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DE (SIC) GOBIERNO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
