@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-denominado-bosque-962
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2020-01-25"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "BOSQUE LA PRIMAVERA" DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -153,9 +153,9 @@ I. Un Presidente, que será el Gobernador del Estado de Jalisco o la persona que
 
 II. Los vocales, que serán:
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-a. El Secretario de Hacienda Pública;
+a. El Secretario de la Hacienda Pública;
 
 b. El Secretario de Medio Ambiente y Desarrollo Territorial;
 
@@ -654,5 +654,11 @@ P.O. 11 DE MAYO DE 2019.
 P.O. 25 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27526/LXII/19 QUE REFORMA LOS ARTÍCULOS 8 Y 28 DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "BOSQUE DE LA PRIMAVERA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27947/LXII/20 QUE REFORMA EL ARTÍCULO 8 DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO BOSQUE LA PRIMAVERA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
