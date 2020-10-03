@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2020-08-27"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -47,23 +47,29 @@ LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
 La presente ley es de interés social, orden público y observancia general en el Estado de Jalisco y tiene por objeto:
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-I. Fomentar el desarrollo social, reconocer los derechos sociales y crear los mecanismos necesarios para lograr su cabal cumplimiento;
+I. Promover, proteger y garantizar el cumplimiento de los derechos sociales de los habitantes del Estado de Jalisco y crear los mecanismos necesarios para lograr su cabal cumplimiento;
 
 II. Coordinar y armonizar la política estatal y municipal de desarrollo social, en el marco de la Política Nacional de Desarrollo Social;
 
 III. Establecer las bases y principios generales para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo social;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-IV. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a los principios de las políticas públicas de desarrollo social contenidos en la Ley General de Desarrollo Social y esta Ley;
+IV. Regular y garantizar la prestación, los bienes y servicios contenidos en los programas sociales a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a los principios de las políticas públicas de desarrollo social contenidos en la Ley General de Desarrollo Social y esta Ley;
 
-V. Impulsar la participación ciudadana, abriendo espacios para que la sociedad coadyuve con la Política Estatal en materia de Desarrollo Social;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VI. Establecer los criterios de coordinación de las acciones que se realicen entre el Gobierno del Estado y los Municipios, y con la Federación, en materia de Desarrollo Social;
+V. Impulsar la Política Estatal en materia de Desarrollo Social, promoviendo la participación ciudadana;
 
-VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VI. Establecer los criterios de coordinación de las acciones que se realicen entre el Gobierno del Estado y los Municipios, y con la Federación, en materia de Desarrollo Social, así como las bases para la concertación de acciones con los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado así como el sector social de la economía;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -71,7 +77,13 @@ VIII. Crear y regular el Consejo Estatal para el Desarrollo Social y la Comisió
 
 IX. Regular las atribuciones del Gobierno del Estado y los Municipios que en materia de desarrollo social otorga la Ley General de Desarrollo Social; y
 
-X. Crear mecanismos de evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social se ejerzan con efectividad y transparencia.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+X. Establecer mecanismos de evaluación y seguimiento para vigilar que los recursos públicos aplicados a los programas de desarrollo social se ejerzan con efectividad y transparencia; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XI. Los demás que se deriven de la Ley General de Desarrollo Social, la Constitución Local y demás ordenamientos legales que estén vinculados con los principios de la Política Estatal de Desarrollo Social.
 
 ###### Artículo 2.
 
@@ -157,15 +169,41 @@ Son principios rectores en la observancia, interpretación y aplicación de la p
 
 I. Desarrollo integral de la persona: a través de políticas públicas de desarrollo social se le brindarán las oportunidades necesarias a fin de que ésta despliegue sus potencialidades y capacidades para acceder a una mejor calidad de vida;
 
-II. Igualdad y el respeto a la dignidad de la persona;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-III. Respeto por la familia: fomentará el desarrollo armónico de la familia, procurando que ésta, en conjunto con todos sus miembros, supere su situación y acceda a mejores condiciones de vida;
+II. Justicia distributiva: garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y de las demás personas;
 
-IV. Corresponsabilidad: responsabilidad compartida entre gobierno y sociedad, para que los beneficiarios se asuman como sujetos de su propia transformación, a través de la participación activa y permanente en actividades vinculadas a los programas de desarrollo social, que coadyuven al fortalecimiento de sus capacidades y el desarrollo de nuevas habilidades;
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-V. Buena fe: la información y documentación que aportan las personas para acreditar que cumplen con los requisitos y criterios necesarios para acreditar su condición de vulnerabilidad y ser beneficiarios de los programas de desarrollo social; y
+III. Elegibilidad: Capacidad de las personas para elegir los medios para su desarrollo personal así como para participar en el desarrollo social;
 
-VI. Transversalidad: en el ejercicio de las políticas públicas de las instituciones públicas con la participación de los tres órdenes de gobierno.
+IV. Respeto por la familia: fomentará el desarrollo armónico de la familia, procurando que ésta, en conjunto con todos sus miembros, supere su situación y acceda a mejores condiciones de vida;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V. Respeto a la diversidad: reconocimiento en términos de origen étnico, genero, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VI. Perspectiva de género: visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género;
+
+VII. Corresponsabilidad: responsabilidad compartida entre gobierno y sociedad, para que los beneficiarios se asuman como sujetos de su propia transformación, a través de la participación activa y permanente en actividades vinculadas a los programas de desarrollo social, que coadyuven al fortalecimiento de sus capacidades y el desarrollo de nuevas habilidades;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VIII. Buena fe: la información y documentación que aportan las personas para acreditar que cumplen con los requisitos y criterios necesarios para acreditar su condición de vulnerabilidad y ser beneficiarios de los programas de desarrollo social;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IX. Transversalidad: en el ejercicio de las políticas públicas de las instituciones públicas con la participación de los tres órdenes de gobierno;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+X. Efectividad: Obligación de la autoridad de ejecutar los programas sociales de manera austera, con el menor costo administrativo, la mayor celeridad, los mejores resultados e impacto, y con una actitud republicana de vocación de servicio, respeto y reconocimiento de los derechos que profundice el proceso de construcción de ciudadanía de todos los habitantes; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XI. Transparencia: la información relativa al desarrollo social es pública en los términos de las leyes en la materia. Las autoridades del país garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
@@ -179,7 +217,9 @@ I. El derecho a la salud;
 
 II. El derecho a la educación;
 
-III. El derecho a la alimentación y nutrición adecuada;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III. El derecho a la alimentación nutritiva y de calidad;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -219,25 +259,33 @@ XII. El derecho a la libre determinación de los pueblos indígenas y sus comuni
 
 El Gobierno del Estado y los Gobiernos Municipales, deberán cumplir y hacer cumplir con los derechos sociales en todas sus funciones y actividades.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+Queda prohibida cualquier práctica discriminatoria en el goce de los bienes y servicios contenidos en los programas para el desarrollo social.
+
 ### Capítulo II. De los Beneficiarios
 
 ###### Artículo 9.
 
 Toda persona tiene derecho a ser beneficiada por los programas de desarrollo social y formar parte en los consejos de participación ciudadana que tenga que ver con el desarrollo social, siempre y cuando cumpla con los requisitos que para el caso se señalen en las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-Las personas que formen parte de algún grupo social en condición de vulnerabilidad tienen derecho a recibir los apoyos necesarios para superar su situación y contar con mejor calidad de vida.
+Toda persona o grupo social en situación de vulnerabilidad tienen derecho a recibir los servicios y apoyos tendientes a disminuir su desventaja y contar con mejor calidad de vida.
 
 ###### Artículo 11.
 
 Los beneficiarios de los programas de desarrollo social tienen derecho a:
 
-I. Recibir las prestaciones derivadas de los programas de desarrollo social, bajo las reglas y formas de operación que estos mismos señalen;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-II. Ser tratados con respeto, dignidad y atendidos con calidad;
+I. Recibir los servicios y prestaciones derivadas de los programas de desarrollo social, bajo las reglas y formas de operación que estos mismos señalen;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+II. Ser tratados con respeto, oportunidad, dignidad y atendidos con calidad;
 
 III. Contar con la información necesaria de los programas, y conocer sus reglas de operación y forma de acceder a los mismos;
 
@@ -247,9 +295,13 @@ IV. Al tratamiento de los datos e información de carácter personal que proporc
 
 V. Recibir asesoría para alcanzar su desarrollo integral;
 
-VI. Participar en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VII. Denunciar ante la Secretaría cualquier incumplimiento de los objetivos y líneas de acción de los programas, así como de las disposiciones de la presente Ley;
+VI. Participar de manera corresponsable en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VII. Presentar denuncias ante la Secretaría, como cualquier incumplimiento de los objetivos y líneas de acción de los programas, así como de las disposiciones de la presente Ley;
 
 VIII. Las demás que establezcan los planes y programas de desarrollo social, así como otras disposiciones legales aplicables.
 
@@ -299,11 +351,13 @@ VIII. Fomentar la organización y participación ciudadana y familiar en los pro
 
 IX. Ejercer fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes respectivas; así como informar a la Secretaría de Bienestar del Gobierno Federal sobre el avance y los resultados generados con los mismos;
 
-X. Informar a la sociedad sobre las acciones en torno al desarrollo social;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+X. Rendir cuentas a la sociedad sobre las acciones en torno al desarrollo social;
 
-XI. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, oportunidad, transparencia y equidad;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+XI. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con eficiencia, legalidad, eficacia, economía, honradez, oportunidad, transparencia, honestidad, equidad e imparcialidad;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1242,3 +1296,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
 
 Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27770/LXII/19 QUE REFORMA LOS ARTÍCULOS 1 EN SUS FRACCIONES I, IV, V, VI, VII Y X, 6 FRACCIÓN II, 7 FRACCIÓN III, ARTÍCULO 10, ARTÍCULO 11 FRACCIONES I, II, VI Y VII, ARTÍCULO 13 Y 14 FRACCIONES X Y XI, Y ADICIONAN AL ARTÍCULO 1 UNA FRACCIÓN XI, AL ARTÍCULO 6 LAS FRACCIONES III, V, VI, X Y XI RECORRIÉNDOSE LAS SUBSECUENTES IV, VII, VIII Y IX, Y AL ARTÍCULO 8, UN SEGUNDO PÁRRAFO TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
