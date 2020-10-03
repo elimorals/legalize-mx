@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-08-27"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -911,7 +911,9 @@ Se requiere el voto favorable de la mayoría calificada de los integrantes del A
 
 I. Celebrar actos jurídicos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
 
-II. Crear organismos públicos descentralizados municipales o constituir empresas de participación municipal mayoritaria;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+II. Crear organismos públicos descentralizados municipales o constituir empresas de participación municipal mayoritaria cuyos órganos de gobierno deberán estar integrados preferentemente bajo el principio de paridad de género;
 
 III. Adquirir bienes inmuebles a título oneroso;
 
@@ -1453,13 +1455,15 @@ Las faltas temporales de los jueces municipales hasta por dos meses, serán cubi
 
 ### CAPITULO V. De los Servidores Públicos Auxiliares del Ayuntamiento
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 60.
 
 Para el despacho de los asuntos administrativos y para auxiliar en sus funciones al Ayuntamiento, en cada Municipio se pueden crear de conformidad a la ley y mediante ordenamiento municipal, las dependencias y entidades que se consideren necesarias, mismas que integran la administración centralizada y paramunicipal, respectivamente, atendiendo a las posibilidades económicas y a las necesidades de cada municipio.
 
 Los ordenamientos municipales deben regular las atribuciones de las dependencias y entidades que integran la administración pública municipal.
+
+Para la designación de los funcionarios titulares de las dependencias y entidades a que hace referencia el primer párrafo de este artículo, deberá observarse el principio de paridad de género.
 
 ###### Artículo 61.
 
@@ -2157,11 +2161,11 @@ En cada Municipio debe existir la policía preventiva municipal, bajo el mando d
 
 La policía preventiva municipal debe acatar las órdenes que el Gobernador les transmita, sólo en los casos que éste juzgue de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 102.
 
-La organización de la policía preventiva municipal debe ser regulada mediante los reglamentos municipales que para tal efecto aprueben los Ayuntamientos respectivos.
+La organización de la policía preventiva municipal debe ser regulada mediante los reglamentos municipales que para tal efecto aprueben los Ayuntamientos respectivos, con base en las disposiciones previstas en la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
 
 Al frente de dicha policía debe estar un servidor público designado por el Presidente Municipal, con las funciones que señale el reglamento respectivo, y que puede ser removido por mayoría absoluta de votos de los integrantes del Ayuntamiento, por causa justificada.
 
@@ -3234,3 +3238,17 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
 
 Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27950/LXII/20 QUE REFORMA LOS ARTÍCULOS 36 Y 60 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La observancia del principio de paridad de género a que se refiere el presente decreto, habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con las disposiciones legales aplicables.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27951/LXII/2 QUE REFORMA EL ARTÍCULO 102 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
