@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2019-08-17"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -417,7 +417,9 @@ La Secretaría deberá mantener actualizado el Catálogo, el cual tendrá carác
 
 La Secretaría impulsará y promoverá el turismo social, el cual comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades para que las personas viajen con fines recreativos, deportivos, educativos y culturales en condiciones adecuadas de economía, seguridad y comodidad.
 
-La Secretaria pondrá especial atención para que se facilite la participación en el turismo Social de los grupos de trabajadores, niños, jóvenes, estudiantes, adultos mayores, indígenas y otros que por razones físicas, económicas, sociales o culturales tienen acceso limitado a disfrutar del patrimonio y los servicios turísticos. Las dependencias y las entidades de la Administración Pública del Estado, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos municipales, e impulsarán acciones con los sectores social y privado para el fomento del turismo social.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+La Secretaría pondrá especial atención para que se facilite la participación en el turismo Social de los grupos de trabajadores, niños, jóvenes, estudiantes, adultos mayores, indígenas, afromexicanos y otros que por razones físicas, económicas, sociales o culturales tienen acceso limitado a disfrutar del patrimonio y los servicios turísticos. Las dependencias y las entidades de la Administración Pública del Estado, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos municipales, e impulsarán acciones con los sectores social y privado para el fomento del turismo social.
 
 Las dependencias y entidades de la Administración Pública del Estado y de los Municipios promoverán entre sus trabajadores el turismo social. La Secretaría en coordinación con la Secretaría de Desarrollo Social y Humano elaboraran y ejecutarán de manera coordinada un programa tendiente a fomentar el turismo social en el Estado.
 
@@ -1012,3 +1014,11 @@ P.O. 17 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 659.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES EN LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1655.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
