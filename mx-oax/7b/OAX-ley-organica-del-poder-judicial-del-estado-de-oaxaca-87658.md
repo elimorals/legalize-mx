@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2020-04-20"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -757,7 +757,9 @@ Al reanudarse el correspondiente período ordinario de sesiones, los consejeros 
 
 Son atribuciones del pleno del Consejo de la Judicatura:
 
-I. Nombrar y remover en los términos que señala la ley, a los jueces, secretarios de estudio y cuenta, secretarios de acuerdos, administradores y demás personal del Poder Judicial que no dependa del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+I. Nombrar con estricto apego al principio de paridad de género y remover en los términos que señala la ley, a los jueces, secretarios de estudio y cuenta, secretarios de acuerdos, administradores y demás personal del Poder Judicial que no dependa del Tribunal Superior de Justicia;
 
 II. Sustanciar y resolver los procesos de ratificación de los jueces y peritos en los términos de esta ley, reglamento respectivo y acuerdos generales;
 
@@ -2706,5 +2708,13 @@ P.O. 20 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1475.- MEDIANTE (SIC) ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 2 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1534.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
