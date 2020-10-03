@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2019-08-03"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -79,7 +79,9 @@ III.- La prestación de servicios públicos de agua potable y alcantarillado en 
 
 IV.- Los sistemas de regulación, captación, conducción, potabilización, desolación, fluorización, almacenamiento y distribución de agua; así como la colección, desalojo, tratamiento de aguas residuales y el manejo de lodos;
 
-V.- Las obras destinadas a dichos servicios públicos, tanto en su estudio, diseño o, proyecto, presupuesto, mejoramiento, construcción, operación, conservación, mantenimiento, ampliación y rehabilitación, así como, en su caso, las expropiaciones u ocupaciones por causa de utilidad pública que se requieran;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V.- Las obras destinadas a dichos servicios públicos, tanto en su estudio, diseño o, proyecto, presupuesto, mejoramiento, construcción, operación, conservación, mantenimiento, ampliación y rehabilitación, así como, en su caso, las expropiaciones u ocupaciones por causa de utilidad pública que se requieran. En el caso de la conservación, mantenimiento, ampliación y rehabilitación se deberán hacer de manera permanente y periódica;
 
 VI.- La administración a través de organismos operadores de dichos servicios y obras, así como la participación de particulares por virtud de concesión en la prestación de los mismos y en la construcción y operación de las obras relativas;
 
@@ -1285,6 +1287,10 @@ La falta de pago de dos o más mensualidades, faculta al organismo operador muni
 
 ARTÍCULO 113 BIS.- El organismo operador municipal, intermunicipal o en su defecto, la Comisión Estatal del Agua, bajo ninguna circunstancia puede restringir o suspender el servicio al usuario, por falta de pago de cuotas o tarifas por servicio público de agua potable, siempre y cuando este sea empleado para uso personal y doméstico.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+En caso de que se presente alguna contingencia, ya sea por desastre natural o sanitaria, el organismo operador municipal, intermunicipal o en su defecto, la Comisión Estatal del Agua, no podrán aumentar las cuotas y tarifas del servicio doméstico, ni tampoco realizar la determinación presuntiva del volumen de consumo del agua. Asimismo, deberán suspender los procedimientos que pudieran tener como consecuencia la suspensión parcial o total del suministro de agua potable.
+
 ###### ARTÍCULO 114.
 
 Los organismos descentralizados están facultados para suspender el servicio, cuando se comprueben derivaciones no autorizadas o un uso distinto al contratado o convenido.
@@ -1754,3 +1760,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO.- Dentro de los noventa días posteriores a la publicación del presente Decreto, los organismos operadores municipales, intermunicipales, así como, la Comisión Estatal del Agua, deberán realizar las adecuaciones normativas correspondientes a su normatividad interna.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1660.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
