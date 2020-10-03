@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2019-11-23"
+last_updated: "2020-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -203,7 +203,9 @@ I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la
 
 II.- Contribuir al desarrollo demográfico armónico del Estado;
 
-III.- Colaborar al bienestar social de la población del Estado, mediante servicios de asistencia social principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+III.- Colaborar al bienestar social de la población del Estado, mediante servicios de asistencia social principalmente a menores en estado de abandono, madres adolescentes, personas adultas mayores desamparadas y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y el crecimiento físico y mental de la niñez;
 
@@ -715,11 +717,11 @@ VII.- Informar a las autoridades competentes de las irregularidades o deficienci
 
 VIII.- Otras actividades que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 52.
 
-La Secretaría de Salud del Estado y demás instituciones de salud estatal, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención del maltrato infantil, de la violencia intrafamiliar, de la invalidez y de la rehabilitación de discapacitados.
+La Secretaría de Salud del Estado y demás instituciones de salud estatal, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención del maltrato infantil, de la violencia intrafamiliar, de la invalidez y de la rehabilitación de personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -809,6 +811,10 @@ En los servicios de salud se promoverá la organización institucional de comit�
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+En caso de la existencia de un diagnóstico de trastorno o enfermedad mental de un menor y que por su comportamiento requiera internamiento, esta deberá efectuarse en un establecimiento o área específica, decoroso, acorde a sus principios éticos y sociales respetando siempre el interés superior de la niñez.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 59.
@@ -845,7 +851,9 @@ VI.- Acciones de equipamiento y áreas especializadas para la atención materno-
 
 Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia apoyarán y fomentarán:
 
-I.- Los programas destinados a promover la paternidad y maternidad responsable y la atención infantil;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+I.- Los programas destinados a promover la atención infantil, la paternidad y maternidad responsable y la orientación en la prevención de embarazos en los adolescentes;
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
@@ -1363,7 +1371,7 @@ ARTICULO 125 QUATER.- El paciente en etapa terminal, tiene derecho a solicitar l
 
 El enfermo no curable o en situación terminal que reciba los cuidados paliativos, en cualquier momento podrá solicitar nuevamente le sea administrado el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 107.
 
@@ -1579,7 +1587,7 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION E INVALIDEZ Y REHABILITACION DE DISCAPACITADOS
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION E INVALIDEZ Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
@@ -1599,13 +1607,17 @@ Son actividades básicas de asistencia social:
 
 I.- La atención a personas que por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer su requerimientos básicos de subsistencia y desarrollo;
 
-II.- La atención, en establecimientos especializados, de menores y ancianos y a toda persona en estado de abandono desamparo, de discapacitados sin recursos, de mujeres y menores maltratados;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+II.- La atención, en establecimientos especializados, de menores y personas adultas mayores y a toda persona en estado de abandono desamparo, de personas con discapacidad sin recursos, de mujeres y menores maltratados;
 
 III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV.- El ejercicio de la tutela de los menores en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica y orientación social, especialmente a madres de familia, menores, ancianos, discapacitados o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+V.- La prestación de servicios de asistencia jurídica y orientación social, especialmente a madres de familia, menores, personas adultas mayores, personas con discapacidad o incapaces sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -1623,17 +1635,19 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 129.
 
-Toda persona en estado de desamparo y desprotección social, en especial los menores, los ancianos y las madres de familia, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público al que sean remitidas para su atención, sin perjuicio de la intervención que corresponda a otras autoridades.
+Toda persona en estado de desamparo y desprotección social, en especial los menores, las personas adultas mayores y las madres de familia, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público al que sean remitidas para su atención, sin perjuicio de la intervención que corresponda a otras autoridades.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 130.
 
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores, ancianos y a toda persona sometidos a cualquier forma de maltrato que ponga en peligro su salud física, mental o emocional. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física, emocional, mental o el normal desarrollo psicosexual de las personas.
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores, las personas adultas mayores y a toda persona sometida a cualquier forma de maltrato que ponga en peligro su salud física, mental o emocional. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física, emocional, mental o el normal desarrollo psicosexual de las personas.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 En estos casos, las instituciones de salud del Estado, establecerán programas que permitan tomar las medidas inmediatas que sean necesarias para la protección de la salud, sin perjuicio de dar intervención a las autoridades competentes.
 
@@ -1645,11 +1659,11 @@ El Gobierno del Estado contará con un organismo que se denominará Sistema para
 
 Las atribuciones y funciones se regirán por las disposiciones legales que para tal efecto se expidan.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 132.
 
-Los Gobiernos Estatal y Municipales crearán establecimientos en los que se dé atención a personas con padecimientos mentales o emocionales, a menores desprotegidos, a ancianos desamparados y a víctimas de violencia intrafamiliar.
+Los Gobiernos Estatal y Municipales crearán establecimientos en los que se dé atención a personas con padecimientos mentales o emocionales, a menores desprotegidos, a las personas adultas mayores desamparados y a víctimas de violencia intrafamiliar.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1727,23 +1741,37 @@ La Secretaría de Salud del estado en coordinación con otras instituciones púb
 
 Para los efectos de esta Ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 146.
+###### ARTÍCULO 146.
 
-La atención en materia de prevención de invalidez y rehabilitación de discapacitados comprende:
+La atención en materia de prevención de invalidez y rehabilitación de personas con discapacidad comprende:
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
 
 I.- La investigación de las causas de la invalidez y de los factores que la condicionan;
 
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
+
 II.- La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la invalidez;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
 
 III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez o discapacidad;
 
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
+
 IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún inválido promoviendo al efecto la solidaridad social;
 
-V.- La atención integral de los discapacitados, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los discapacitados; y
+V.- La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad; y
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
 
 VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
@@ -3596,3 +3624,11 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 825.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1678.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
