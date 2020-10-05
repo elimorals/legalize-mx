@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-obras-publicas-y-servicios-relacionados-con-las-115249"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-20"
-last_updated: "2020-09-07"
+last_updated: "2020-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE OCTUBRE DE 2020 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.XXX
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE OCTUBRE DE 2020.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de junio de 2016.
 
@@ -2295,17 +2295,17 @@ III. Una vez desahogadas las pruebas ofrecidas o transcurrido el plazo a que se 
 
 IV. La resolución respectiva se dictará en un plazo no mayor de veinte días hábiles, misma que deberá cumplir con los requisitos constitucionales de fundamentación y motivación.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 108.
 
-Los servidores públicos que infrinjan las disposiciones contenidas en esta Ley, previo desahogo del procedimiento correspondiente, serán sancionados por el órgano interno de control, de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+Los servidores públicos que infrinjan las disposiciones contenidas en esta Ley, previo desahogo del procedimiento correspondiente, serán sancionados por el órgano interno de control, de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 109.
 
-Los servidores públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las normas que de ella se deriven, deberán comunicarlo al órgano interno de control de la institución correspondiente. La omisión a lo dispuesto a este artículo será sancionada conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+Los servidores públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las normas que de ella se deriven, deberán comunicarlo al órgano interno de control de la institución correspondiente. La omisión a lo dispuesto a este artículo será sancionada conforme a la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 ###### Artículo 110.
 
