@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2020-09-14"
+last_updated: "2020-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1109,9 +1109,13 @@ IV. Terapias físicas;
 
 V. Terapias psicológicas;
 
-VI. La detección y atención temprana de las discapacidades psicomotoras;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2020)</small>
 
-VII. Visitas domiciliaria (sic) cuando la incapacidad o gravedad del adulto mayor, haga difícil su desplazamiento a un centro de salud, asilo o casa de retiro;
+VI. La detección y atención temprana de demencia, así como de las discapacidades psicomotoras;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2020)</small>
+
+VII. Visitas domiciliarias cuando la incapacidad o gravedad del adulto mayor, haga difícil su desplazamiento a un centro de salud, asilo o casa de retiro;
 
 VIII. Actividades de educación y cuidados de salud dirigida a la familia o las personas encargadas del o de los adultos mayores, con la finalidad de propiciar una mayor calidad de vida;
 
@@ -3882,3 +3886,11 @@ El Comité Interinstitucional de Atención a Enfermos Renales deberá celebrar s
 ###### ARTÍCULO TERCERO.
 
 El Comité Interinstitucional de Atención a Enfermos Renales expedirá su Reglamento Interior en un término no mayor de sesenta días, contado a partir de la fecha en que celebre su primera sesión, para lo cual deberá publicarse en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 394.- SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 74 TER DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
