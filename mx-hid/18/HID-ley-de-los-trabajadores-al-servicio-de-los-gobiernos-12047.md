@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2019-10-07"
+last_updated: "2020-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -1147,6 +1147,18 @@ Pronunciado el laudo, el Tribunal lo notificará a las partes.
 
 Las autoridades están obligadas a prestar auxilio al Tribunal Estatal de Conciliación y Arbitraje para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 138 BIS.- Se aplicarán supletoriamente, y en su orden:
+
+I.- La Ley Federal del Trabajo;
+
+II.- La Jurisprudencia;
+
+III.- La Costumbre; y
+
+IV.- La Equidad.
+
 ### CAPITULO IV. CORRECCIONES DISCIPLINARIAS Y SANCIONES
 
 ###### ARTICULO 139.
@@ -1356,3 +1368,9 @@ P.O. 7 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 212.- QUE REFORMA EL ARTÍCULO 126; Y SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO, RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 125 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 5 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 519 QUE ADICIONA EL ARTÍCULO 138 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
