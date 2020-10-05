@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2020-09-14"
+last_updated: "2020-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1147,9 +1147,13 @@ IV. Terapias físicas;
 
 V. Terapias psicológicas;
 
-VI. La detección y atención temprana de las discapacidades psicomotoras;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2020)</small>
 
-VII. Visitas domiciliaria (sic) cuando la incapacidad o gravedad del adulto mayor, haga difícil su desplazamiento a un centro de salud, asilo o casa de retiro;
+VI. La detección y atención temprana de demencia, así como de las discapacidades psicomotoras;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2020)</small>
+
+VII. Visitas domiciliarias cuando la incapacidad o gravedad del adulto mayor, haga difícil su desplazamiento a un centro de salud, asilo o casa de retiro;
 
 VIII. Actividades de educación y cuidados de salud dirigida a la familia o las personas encargadas del o de los adultos mayores, con la finalidad de propiciar una mayor calidad de vida;
 
@@ -3923,59 +3927,13 @@ El Comité Interinstitucional de Atención a Enfermos Renales deberá celebrar s
 
 El Comité Interinstitucional de Atención a Enfermos Renales expedirá su Reglamento Interior en un término no mayor de sesenta días, contado a partir de la fecha en que celebre su primera sesión, para lo cual deberá publicarse en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 44/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS TERCERO Y CUARTO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN CON RESIDENCIA EN GUADALAJARA, JALISCO, Y SU TRANSFORMACIÓN EN TRIBUNALES COLEGIADOS SEXTO Y SÉPTIMO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO CON RESIDENCIA EN ZAPOPAN, JALISCO; ASÍ COMO LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN EL CIRCUITO, RESIDENCIA Y ESPECIALIDAD INDICADOS”.]
+P.O. 5 DE OCTUBRE DE 2020.
 
-PRIMERO. El presente Acuerdo entrará en vigor el treinta y uno de octubre de dos mil dieciséis, con excepción de lo previsto en el transitorio CUARTO, que entrará en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 394.- SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 74 TER DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. La Dirección General de Recursos Humanos, respetando los derechos laborales del personal de los órganos jurisdiccionales auxiliares, atenderá la situación laboral y adoptará las medidas que correspondan, de conformidad a lo acordado por el Pleno del Consejo de la Judicatura Federal, así como en las demás disposiciones aplicables.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos de la infraestructura y equipamiento necesario para el desempeño de sus funciones
-
-QUINTO. Se reforman los numerales SEGUNDO, fracción III, número 1; y QUINTO, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a II. …
-
-III. TERCER CIRCUITO:
-
-1. Veinte tribunales colegiados especializados: tres en materia penal, siete en materia administrativa, cinco en materia civil y cinco en materia de trabajo, todos con residencia en Zapopan.
-
-2. …
-
-3. …
-
-4. …
-
-IV. a XXXII. …
-
-QUINTO. …
-
-1. a 2. …
-
-3. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco tribunales unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-4. a 11. …
-
-…”.
-
-SEXTO. Se reforma el numeral PRIMERO, párrafo primero y fracción I, del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
-
-“PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco Tribunales Unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
-
-I. Los tribunales colegiados de Circuito se denominarán:
-
-a) Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Morelia, Michoacán.
-
-b) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
-
-II. …”.
-
-D.O.F. 11 DE NOVIEMBRE DE 2016.
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 47/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO, DE LOS TRIBUNALES UNITARIOS PRIMERO Y SEGUNDO EN EL ESTADO DE CHIAPAS, ASÍ COMO DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA SERVICIO”.]
 
