@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2019-04-26"
+last_updated: "2020-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -1455,7 +1455,9 @@ Para estos efectos y para los de la reparación del daño y pago de los perjuici
 
 ARTICULO 76 TER.- La función conciliatoria en el ámbito local, en materia laboral, que establece la Constitución Política de los Estados Unidos Mexicanos, estará a cargo del Centro de Conciliación Laboral del Estado de Campeche, organismo descentralizado de la Administración Pública del Estado de Campeche, especializado e imparcial. Dicho Centro tendrá personalidad jurídica y patrimonio propios, con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en su ley orgánica. Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente.
 
-Para la designación del titular del organismo descentralizado a que se refiere el párrafo anterior, el Gobernador del Estado someterá una terna a consideración del H. Congreso del Estado, obteniendo el voto de las dos terceras partes de sus integrantes para su designación, previa comparecencia de las personas propuestas. La designación deberá realizarse dentro del improrrogable plazo de treinta días.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2020)</small>
+
+La o el titular del organismo descentralizado a que hace mención el párrafo anterior, será la persona designada de entre la terna que presente la Gobernadora o el Gobernador del Estado ante el H. Congreso del Estado, cuyos integrantes realizarán la designación dentro del plazo improrrogable de treinta días posteriores a la comparecencia de las personas propuestas. La persona designada será quien obtenga los votos de las dos terceras partes de los integrantes del Congreso del Estado presentes en la sesión.
 
 En caso de que el H. Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador.
 
@@ -3154,3 +3156,13 @@ SEXTO.- Quedan salvaguardados los derechos adquiridos por los servidores públic
 SÉPTIMO.- El organismo público local electoral preverá, en un plazo contado desde la publicación del presente decreto hasta antes del inicio del proceso electoral, todo lo relativo a la elección de los nuevos Ayuntamientos de los Municipios de Seybaplaya y de Dzitbalché, conforme a lo dispuesto en la legislación general y estatal en materia electoral.
 
 OCTAVO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 5 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 155 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 76 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La designación de la primera Directora o primer Director General del Centro de Conciliación Laboral deberá realizarse dentro del improrrogable plazo de treinta días anteriores a la emisión de la declaratoria a que se refiere el artículo transitorio Vigésimo Cuarto del Decreto publicado el 1 de mayo de 2019 en el Diario Oficial de la Federación, por el que se derogan, adicionan y reforman diversas disposiciones de la Ley Federal del Trabajo. Las y los subsecuentes titulares serán designados una vez que concluya el periodo de seis años o, en su caso, de doce años, cuando haya habido reelección.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
