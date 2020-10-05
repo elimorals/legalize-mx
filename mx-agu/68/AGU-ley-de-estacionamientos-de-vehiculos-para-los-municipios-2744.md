@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-estacionamientos-de-vehiculos-para-los-municipios-2744"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-09"
-last_updated: "2017-07-03"
+last_updated: "2020-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE ESTACIONAMIENTOS DE VEHÍCULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2020.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 9 de abril de 1989.
+Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 9 de abril de 1989.
 
 INGENIERO MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del
 
@@ -154,6 +154,18 @@ El servicio de estacionamiento de vehículos con acomodadores tiene por objeto l
 ###### ARTICULO 14.
 
 El servicio de estacionamiento público de paga, podrá prestarse por hora, día o mes, a cambio del pago que señale la tarifa autorizada. Este servicio podrá comprender la guarda o pensión de vehículos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 14 A.- Las personas con discapacidad, adultos mayores y/o las mujeres embarazadas tendrán derecho exclusivo a ocupar los espacios de estacionamiento que sean destinados para ellos.
+
+Los estacionamientos previstos en el Artículo 11 de la misma ley, deberán de contar, en las zonas comerciales, por lo menos con cuatro espacios por manzana, para el ascenso y descenso de personas con discapacidad, adultos mayores y mujeres embarazadas.
+
+Dichos espacios deberán diseñarse de acuerdo con los requerimientos específicos y encontrarse claramente señalados como reservados para uso exclusivo.
+
+Fuera del área comercial a que se refiere este Artículo, pero en sitios en que se establezcan oficinas, escuelas, centros recreativos o culturales; o cualquier otro lugar con acceso al público, deberá contar por igual con espacios para el ascenso y descenso exclusivo de personas con discapacidad, adultos mayores y mujeres embarazadas.
+
+Para tal efecto, deberá contarse, previamente, con la autorización de construcción expedida por las autoridades del ramo, con la finalidad de que estas indiquen el área más adecuada para ello.
 
 ###### ARTICULO 15.
 
@@ -315,7 +327,9 @@ No se podrá modificar el tipo de estacionamiento para vehículos que se haya au
 
 Los estacionamientos públicos de paga deberán reunir los siguientes requisitos:
 
-I.- Estar pavimentados, drenados adecuadamente y bardeados en sus colidancias (sic) con los predios vecinos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2020)</small>
+
+I.- Estar pavimentados, drenados adecuadamente y bardeados en sus colindancias con los predios vecinos;
 
 II.- Tener carriles de entrada y salida de vehículos por separado, para que los vehículos en ningún caso utilicen un mismo carril y entren o salgan en reversa;
 
@@ -333,9 +347,17 @@ VIII.- Deben tener una adecuada ventilación e iluminación;
 
 IX.- Contar con los suficientes y adecuados servicios sanitarios para hombres y mujeres;
 
-X.- Contar con protecciones adecuadas en rampas, colindancias, fachadas y elementos estructurales, con dispositivos capaces de resistir los posibles impactos de los vehículos; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2020)</small>
 
-XI.- Contar con las instalaciones y los equipos necesarios para prevenir y combatir incendios.
+X.- Contar con protecciones adecuadas en rampas, colindancias, fachadas y elementos estructurales, con dispositivos capaces de resistir los posibles impactos de los vehículos;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2020)</small>
+
+XI.- Contar con las instalaciones y los equipos necesarios para prevenir y combatir incendios; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2020)</small>
+
+XII.- Contar con cajones de vehículos destinados al uso exclusivo de personas con discapacidad, adultos mayores y/o mujeres embarazadas, mismos (sic) deben contar con los requerimientos técnicos necesarios para una atención prioritaria.
 
 ###### ARTICULO 30.
 
@@ -726,3 +748,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 395.- SE REFORMAN LAS FRACCIONES I, X Y XI DEL ARTÍCULO 29; Y SE ADICIONA EL ARTÍCULO 14 A, Y LA FRACCIÓN XII AL ARTÍCULO 29; DE LA LEY DE ESTACIONAMIENTOS DE VEHÍCULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos deberán expedir, modificar y eliminar toda disposición contenida en el Reglamento respectivo contraria a la presente reforma en un plazo no mayor a 90 días a la entrada en vigor del presente Decreto.
