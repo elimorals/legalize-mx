@@ -1,0 +1,168 @@
+---
+title: "ACUERDO INE/CG251/2020 POR EL QUE SE EMITEN LOS LINEAMIENTOS RECTORES DEL PROCESO DE ELECCION DE LA PRESIDENCIA Y LA SECRETARIA GENERAL DEL PARTIDO POLITICO NACIONAL DENOMINADO MORENA A TRAVES DE UNA ENCUESTA NACIONAL ABIERTA A SUS MILITANTES Y SIMPATIZANTES, ASI COMO EL CRONOGRAMA DE ACTIVIDADES PARA TAL EFFECTO"
+identifier: "FED-acuerdo-ine-cg251-2020-por-el-que-se-emiten-los-144415"
+country: "mx"
+rank: "acuerdo"
+publication_date: "2020-10-05"
+last_updated: "2020-10-05"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144415&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "144415"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "ACUERDO (S)"
+original_gazette_section: "3"
+reform_count: "0"
+scjn_last_update: "2020-10-05"
+issue_date: "2020-09-18"
+---
+# ACUERDO INE/CG251/2020 POR EL QUE SE EMITEN LOS LINEAMIENTOS RECTORES DEL PROCESO DE ELECCION DE LA PRESIDENCIA Y LA SECRETARIA GENERAL DEL PARTIDO POLITICO NACIONAL DENOMINADO MORENA A TRAVES DE UNA ENCUESTA NACIONAL ABIERTA A SUS MILITANTES Y SIMPATIZANTES, ASI COMO EL CRONOGRAMA DE ACTIVIDADES PARA TAL EFFECTO
+
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-JDC-1903/2020 Y ACUMULADOS SE MODIFICAN LOS LINEAMIENTOS, CRONOGRAMA Y CONVOCATORIA QUE SE APROBARON MEDIANTE LOS ACUERDOS INE/CG251/2020 E INE/CG278/2020 CORRESPONDIENTES AL PROCESO DE RENOVACIÓN DE LA PRESIDENCIA Y SECRETARÍA GENERAL DEL COMITÉ EJECUTIVO NACIONAL DEL PARTIDO POLÍTICO NACIONAL DENOMINADO MORENA A TRAVÉS DE LA ENCUESTA PÚBLICA ABIERTA
+
+TEXTO ORIGINAL.
+
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 5 de octubre de 2020.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG291/2020.
+
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-JDC-1903/2020 Y ACUMULADOS SE MODIFICAN LOS LINEAMIENTOS, CRONOGRAMA Y CONVOCATORIA QUE SE APROBARON MEDIANTE LOS ACUERDOS INE/CG251/2020 E INE/CG278/2020 CORRESPONDIENTES AL PROCESO DE RENOVACIÓN DE LA PRESIDENCIA Y SECRETARÍA GENERAL DEL COMITÉ EJECUTIVO NACIONAL DEL PARTIDO POLÍTICO NACIONAL DENOMINADO MORENA A TRAVÉS DE LA ENCUESTA PÚBLICA ABIERTA
+
+ANTECEDENTES
+
+[…]
+
+CONSIDERANDO
+
+[…]
+
+En razón de los Antecedentes y Considerandos expresados este Consejo General del Instituto Nacional Electoral, emite el presente:
+
+ACUERDO
+
+PRIMERO. Se modifican los artículos 18, 19, 20 y 24 de los Lineamientos aprobados mediante el Acuerdo INE/CG251/2020 para quedar como sigue:
+
+###### Artículo 18.
+
+Para garantizar la calidad ejercicio referido en el artículo 4 y para poder derivar de éste resultados confiables, es necesario que la encuesta abierta a militantes y simpatizantes de Morena se limite a un máximo de opciones de votación que permitan la menor probabilidad de traslape entre sus intervalos de confianza considerando el tamaño de la muestra. Lo anterior, tomando como parámetro de referencia la Recomendación técnica para diseño de cuestionario para selección de candidatos que, a solicitud del Instituto Nacional Electoral, hizo llegar la Asociación Mexicana de Agencias de Inteligencia de Mercado y Opinión A.C. (AMAI) en la que se señaló entre 5 y 6 candidaturas a medir en una sola pregunta
+
+###### Artículo 19.
+
+En caso de que el listado de candidatas y candidatos registrados exceda el máximo recomendado referido previamente, a más tardar el 14 de septiembre de 2020, se hará una insaculación entre las empresas encuestadoras que no hayan sido elegidas para realizar la encuesta abierta, con el propósito de seleccionar a las tres empresas que deberán realizar, de manera previa, una encuesta pública abierta de reconocimiento que permita reducir el número de candidaturas conforme a lo establecido en el artículo previo.
+
+Dicha encuesta tendrá como marco muestral a la ciudadanía mexicana residente en el país, mayor de 18 años y con credencial para votar válida y vigente, registrada en la Lista Nominal con corte a la fecha de emisión de la sentencia dictada en el incidente de incumplimiento SUP-JDC-1573/2019, respecto de personas que se auto adscriban como militantes y simpatizantes del partido político Morena.
+
+###### Artículo 20.
+
+Se conformará un grupo de expertos, integrado por un representante de cada una de las tres empresas insaculadas de acuerdo con lo previsto en el artículo anterior y las dos personas designadas por el INE en los términos del artículo 7 de los Lineamientos. Dicho grupo de expertos aprobará un documento metodológico que entregarán a la Comisión de Prerrogativas y Partidos Políticos del Instituto Nacional Electoral a más tardar el 21 de septiembre de 2020. Éste contendrá, al menos, lo siguiente:
+
+1. Objetivos de la encuesta
+
+2. Definición de las preguntas
+
+3. Marco muestral
+
+4. Diseño muestral
+
+a. Definición de población objetivo.
+
+b. Procedimiento de selección de unidades.
+
+c. Procedimiento de estimación.
+
+d. Tamaño y forma de obtención de la muestra y sobremuestra.
+
+e. Calidad de la estimación: confianza y error máximo implícito en la muestra seleccionada.
+
+5. Método de levantamiento que deberá ser presencial (cara a cara) salvo en aquellos estados donde las autoridades de salud determinen su imposibilidad.
+
+6. Formato de presentación de los resultados y método de agregación de las tres encuestas.
+
+###### Artículo 24.
+
+Los resultados de la encuesta pública abierta de reconocimiento serán definitivos y deberán entregarse a la DEPPP para que ésta proceda a hacerlos del conocimiento del partido político y de quienes integran el Consejo General del INE a más tardar el 9 de octubre de 2020, previo informe a la Comisión de Prerrogativas y Partidos Políticos. Dichos resultados serán acompañados de la documentación soporte correspondiente.
+
+SEGUNDO. Se modifica la Convocatoria aprobada mediante el Acuerdo INE/CG278/2020, en lo correspondiente a la aplicación del principio de paridad, y al número máximo de candidaturas, misma que acompaña al presente y forma parte del mismo como anexo único, en los términos siguientes:
+
+DÉCIMA. EXIGENCIAS PARA GARANTIZAR LA CALIDAD DEL EJERCICIO DEMOSCÓPICO.
+
+Para garantizar la calidad del ejercicio demoscópico y para obtener resultados confiables conforme a los Lineamientos es necesario que la encuesta abierta a militantes y simpatizantes de Morena se limite a un máximo de opciones de votación que permitan la menor probabilidad de traslape entre sus intervalos de confianza considerando el tamaño de la muestra, y que evite el efecto fatiga de la persona encuestada, posibilitando que ésta pueda contrastar y elegir con mayor certeza la opción de su preferencia. Esto, tomando como parámetro de referencia entre 5 y 6 candidaturas por cargo.
+
+DÉCIMO PRIMERA: DE LA ENCUESTA DE RECONOCIMIENTO.
+
+En caso de que el listado de candidatas y candidatos registrados exceda de seis para alguno de los cargos o ambos, se realizará una encuesta de reconocimiento que tendrá lugar entre el veintidós y el veintiocho de septiembre, con el propósito reducir el número de opciones por cargo a elegir conforme el procedimiento establecido en el artículo 19 de los Lineamientos. Lo anterior conforme a lo establecido en la base anterior.
+
+En dicha encuesta podrán participar las y los ciudadanos, mayores de 18 años, residentes en el país, con credencial para votar válida y vigente, que se auto adscriban como simpatizantes o militantes de Morena a pregunta expresa de la encuestadora o encuestador, de conformidad con el documento metodológico que para tales efectos apruebe el grupo de expertos correspondiente.
+
+DÉCIMO SEGUNDA: DE LA PARIDAD DE GÉNERO.
+
+Para garantizar que las mujeres y los hombres militantes participen en igualdad de condiciones, se estará a lo siguiente:
+
+1. De los resultados de la encuesta pública de reconocimiento se extraerá el número de opciones de votación por cada cargo para la realización de la encuesta pública abierta. Las listas de candidaturas a la Presidencia y la Secretaría General deberán integrarse por igual número de mujeres y de hombres.
+
+En caso de que no haya un número suficiente de personas de un género para conformar las listas de manera paritaria para la realización de la encuesta pública abierta, se incluirán en la lista de candidaturas a todas las personas de ese género sub representado, sin que éstas formen parte de la encuesta de reconocimiento.
+
+2. Para garantizar el principio de paridad de género en la elección de las personas que ocupen la Presidencia y Secretaría General del Comité Ejecutivo Nacional, la persona que resulte electa para la Secretaría General será de género distinto a la que, conforme al resultado de la encuesta pública abierta, resulte electa para la Presidencia.
+
+Es decir, si como resultado de la encuesta pública abierta, una mujer obtiene el porcentaje más alto de preferencias para ocupar la Presidencia, la persona que ocupe la Secretaría General será el hombre que mayor porcentaje de preferencias haya obtenido. De manera análoga, si como resultado de la encuesta pública abierta, un hombre obtiene el porcentaje más alto de preferencias para ocupar la Presidencia, la persona que ocupe la Secretaría General será la mujer que mayor porcentaje de preferencias haya obtenido.
+
+DÉCIMO TERCERA: ENTREGA DE RESULTADOS DE LA ENCUESTA DE RECONOCIMIENTO.
+
+El grupo de expertos entregará los resultados a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a más tardar el veintinueve de septiembre, para que ésta proceda a hacerlos del conocimiento del partido político y de las y los integrantes del Consejo General del INE, previo informe a la Comisión de Prerrogativas y Partidos Políticos.
+
+El INE publicará en su página de Internet el listado de las o los candidatos por cargo, resultado de la encuesta de reconocimiento. Asimismo, el partido publicará el listado en su página de Internet, en los estrados de sus comités ejecutivos, así como a través de cualquier otro medio que estime conveniente el listado referido.
+
+DÉCIMO CUARTA: DE LA ENCUESTA ABIERTA PARA LA ELECCIÓN DE PRESIDENCIA Y SECRETARÍA GENERAL.
+
+Una vez definidas las candidaturas por cargo, conforme a la base décima, se procederá a realizar una encuesta abierta para la elección de la Presidencia y Secretaría General del partido político Morena.
+
+El levantamiento y procesamiento de la encuesta abierta se llevará a cabo del dos al ocho de octubre de dos mil veinte. Su ejecución estará a cargo de las empresas insaculadas para tal efecto, conforme a los Lineamientos.
+
+En dicha encuesta podrán participar las y los ciudadanos, mayores de 18 años, residentes en el país, con credencial para votar válida y vigente, que se auto adscriban como simpatizantes o militantes de Morena a pregunta expresa de la encuestadora o encuestador, de conformidad con el documento metodológico que para tales efectos apruebe el grupo de expertos respectivo.
+
+Si de la agregación de resultados se presentara el caso de que, ya sea para la Presidencia, Secretaría General o ambas, los intervalos de los resultados de preferencias de la candidata o candidato que aparezca en primer lugar se “traslapan” con alguna candidata o candidato para el mismo cargo, y no haya forma conforme a la metodología de la encuesta, de afirmar que alguna candidatura tiene una ventaja significativa sobre la otra, deberá realizarse una nueva encuesta, en los términos de los Lineamientos.(*)
+
+(*)Nota aclaratoria. La presente base se deberá interpretar en el sentido que cuando el intervalo de confianza de la candidatura primera en preferencias se superponga con el intervalo de confianza de la o las candidaturas que le sigan, con base en la metodología de la encuesta, deberá realizarse una nueva encuesta, exclusivamente con las candidaturas que se hallen en este supuesto.
+
+DÉCIMO QUINTA: ENTREGA DE RESULTADOS DE LA ENCUESTA ABIERTA
+
+El grupo de expertos entregará los resultados de la encuesta abierta a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a más tardar el nueve de octubre. A su vez, la Dirección Ejecutiva los remitirá a la Comisión de Prerrogativas y Partidos Políticos, la que ordenará su envío al partido político y a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, para los efectos conducentes.
+
+DÉCIMO SEXTA. NUEVA ENCUESTA RESULTADO DEL TRASLAPE DE INTERVALOS DE CONFIANZA.
+
+Conforme al último párrafo de la base décimo tercera, cuando no haya forma de afirmar que alguna candidatura tiene una ventaja significativa sobre la otra, con base en la metodología de la encuesta, deberá realizarse una nueva encuesta. Esta situación deberá informarse a la Comisión de Prerrogativas y Partidos Políticos para que tome las determinaciones conducentes e informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, la necesidad de ampliar los plazos de cumplimiento de la sentencia.
+
+Su ejecución estará a cargo de tres empresas encuestadoras seleccionadas previamente por vía de insaculación, quienes serán responsables de su levantamiento. El listado de candidatas y candidatos cuyos nombres se pondrán a consideración de la ciudadanía entrevistada para ocupar los cargos se limitarán a las candidaturas puntero.
+
+En este caso, el grupo de expertos que integrará el documento metodológico correspondiente, estará integrado por un representante de cada una de las empresas seleccionadas, además de las dos personas designadas por el INE en los términos del artículo 7 de los Lineamientos.
+
+Nota aclaratoria. Cuando el intervalo de confianza de la candidatura primera en preferencias se superponga con el intervalo de confianza de la o las candidaturas que le sigan, con base en la metodología de la encuesta, deberá realizarse una nueva encuesta, exclusivamente con las candidaturas que se hallen en este supuesto. Esta situación deberá informarse a la Comisión de Prerrogativas y Partidos Políticos para que tome las determinaciones conducentes e informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, la necesidad de ampliar los plazos de cumplimiento de la sentencia.
+
+TERCERO. Se modifica el cronograma aprobado mediante Acuerdo INE/CG251/2020, a efecto de recorrer las actividades que se tenían previstas a partir del 15 de septiembre para que se reanuden a partir del 21 de septiembre, lo que permitirá que se desahoguen todas las actividades previstas en la misma secuencia y sin quitar ni ampliar un solo día al levantamiento ni de la encuesta de reconocimiento ni de la encuesta abierta.
+
+CUARTO. El numeral I de la base SEGUNDA de la convocatoria deberá ser interpretado en el sentido de que la pertenencia a un padrón de militantes incluido el del propio INE— solo genera un indicio inicial de que la persona aspirante se encuentra afiliada al partido MORENA, por lo que los solicitantes podrán aportar las pruebas que consideren pertinentes a efecto de acreditar la calidad de militante, lo cual será analizado por la instancia correspondiente al verificar el cumplimiento de los requisitos dispuestos para participar en el proceso de renovación de la Presidencia y Secretaría General del partido político MORENA— por lo que se instruye a la Comisión de Prerrogativas y Partidos Políticos para que en esos términos realice la interpretación del numeral I, de la base SEGUNDA de la Convocatoria para los efectos conducentes.
+
+QUINTO. Se instruye a la Secretaría Ejecutiva para que por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos notifique electrónicamente el presente instrumento al Presidente del Comité Ejecutivo Nacional del Partido Político Nacional denominado Morena, a los representantes del partido y del poder legislativo ante el Consejo General del Instituto y a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación una vez que la Comisión de Prerrogativas y Partidos Políticos atienda lo dispuesto en el punto que antecede.
+
+SEXTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SÉPTIMO. Publíquese el presente Acuerdo en la Gaceta Electoral y en el Diario Oficial de la Federación, así como en el portal electrónico del Instituto Nacional Electoral.
+
+El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Consejo General celebrada el 18 de septiembre de 2020, por diez votos a favor de los Consejeros Electorales, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y un voto en contra de la Consejera Electoral, Maestra Norma Irene De La Cruz Magaña.
+
+Se aprobó en lo particular por lo que hace al cronograma y su justificación correspondiente, en los términos del Proyecto de Acuerdo originalmente circulado, por nueve votos a favor de los Consejeros Electorales, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y dos votos en contra de las Consejeras Electorales, Maestra Norma Irene De La Cruz Magaña y Carla Astrid Humphrey Jordán.
+
+Se aprobó en lo particular por lo que hace al Numeral 2 de la Base Décima Segunda, en los términos del Proyecto de Acuerdo originalmente circulado, por nueve votos a favor de los Consejeros Electorales, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y dos votos en contra de las Consejeras Electorales, Maestra Norma Irene De La Cruz Magaña y Maestra Dania Paola Ravel Cuevas.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo y los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-18-de-septiembre-de-2020/
+
+Página DOF
+
+www.dof.gob.mx/2020/INE/CGext202009_18_ap_1.pdf
