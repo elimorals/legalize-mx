@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-99956"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-27"
-last_updated: "2018-05-18"
+last_updated: "2020-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-19"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2020.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de marzo de 2014.
 
@@ -35,21 +35,27 @@ ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
 ### CAPÍTULO PRIMERO. De las Disposiciones Preliminares
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-El ejercicio de las atribuciones que las leyes y las disposiciones reglamentarias confieran al Instituto para la Protección al Ahorro Bancario, así como las que su propia Ley otorga al Secretario Ejecutivo por sí o a través de las unidades administrativas del Instituto, se sujetará a lo dispuesto en este Estatuto Orgánico y en el Reglamento del Instituto para la Protección al Ahorro Bancario.
+El ejercicio de las atribuciones que las leyes y las disposiciones reglamentarias confieran al Instituto para la Protección al Ahorro Bancario, así como las que su propia Ley otorga al Secretario Ejecutivo por sí o a través de las unidades administrativas del Instituto, se sujetará a lo dispuesto en este Estatuto Orgánico, el Reglamento del Instituto para la Protección al Ahorro Bancario en Materia de Requerimientos de Información, Visitas de Inspección e Imposición de Sanciones y en el Acuerdo por el que se Adscriben Orgánicamente las Unidades Administrativas del Instituto para la Protección al Ahorro Bancario.
 
-El domicilio del Instituto, para todos los efectos legales, incluyendo la práctica de cualquier clase de notificaciones, interpelaciones, citaciones, requerimientos, emplazamientos, actos de ejecución y solicitudes de información, por parte de autoridades aun de carácter judicial, es el ubicado en Varsovia número 19, colonia Juárez, código postal 06600, Delegación Cuauhtémoc, Distrito Federal. Sin perjuicio de lo anterior, el Instituto podrá designar otros lugares para la realización de determinados actos y eventos.
+El domicilio del Instituto, para todos los efectos legales, incluyendo la práctica de cualquier clase de notificaciones, interpelaciones, citaciones, requerimientos, emplazamientos, actos de ejecución y solicitudes de información, por parte de autoridades aun de carácter judicial, es el ubicado en Varsovia número 19, colonia Juárez, código postal 06600, Alcaldía Cuauhtémoc, Ciudad de México. Sin perjuicio de lo anterior, el Instituto podrá designar otros lugares para la realización de determinados actos y eventos.
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 2.
 
-Para efectos de este Estatuto Orgánico, se entenderá por Ley, a la Ley de Protección al Ahorro Bancario y serán aplicables las definiciones contenidas en dicha Ley.
+Para efectos de este Estatuto Orgánico, se entenderá por Ley, a la Ley de Protección al Ahorro Bancario y serán aplicables las definiciones contenidas en dicha Ley; por Reglamento del Instituto, al Reglamento del Instituto para la Protección al Ahorro Bancario en Materia de Requerimientos de Información, Visitas de Inspección e Imposición de Sanciones; por Acuerdo de Adscripción, al Acuerdo por el que se Adscriben Orgánicamente las Unidades Administrativas del Instituto para la Protección al Ahorro Bancario, y al Instituto, como el Instituto para la Protección al Ahorro Bancario.
 
 ### CAPÍTULO SEGUNDO. Del Órgano de Gobierno
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 3.
 
-A las sesiones de la Junta de Gobierno, asistirá el Comisario a que se refiere el artículo 89 de la Ley, teniendo derecho a voz pero no a voto. Asimismo y únicamente con derecho a voz, podrán asistir el Secretario Ejecutivo, el titular del Órgano Interno de Control y todos aquellos servidores públicos del Instituto y de las demás autoridades que se encuentren representadas en la Junta de Gobierno, cuyas atribuciones estén relacionadas con los asuntos a tratar en la sesión correspondiente. También, podrán ser invitados a asistir a las sesiones de la Junta de Gobierno, profesionales de reconocido prestigio en las materias a que se refieran los asuntos a tratar.
+El Órgano máximo de gobierno es la Junta de Gobierno, a sus sesiones, asistirá el Comisario a que se refiere el artículo 89 de la Ley, teniendo derecho a voz, pero no a voto. Únicamente con derecho a voz, podrán asistir el Secretario Ejecutivo, el Titular del Órgano Interno de Control y todos aquellos servidores públicos del Instituto y de las demás autoridades que se encuentren representadas en la Junta de Gobierno, cuyas atribuciones estén relacionadas con los asuntos a tratar en la sesión correspondiente. También, podrán ser invitados a asistir a las sesiones de la Junta de Gobierno, profesionales de reconocido prestigio en las materias a que se refieran los asuntos a tratar.
 
 ###### ARTÍCULO 4.
 
@@ -121,65 +127,69 @@ I. Secretaría Adjunta de Protección al Ahorro Bancario
 
 A. Dirección General de Finanzas
 
-i. Dirección General Adjunta de Planeación Financiera
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-ii. Dirección General Adjunta de Tesorería
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 B. Dirección General de Seguimiento de Instituciones y Análisis
 
-i. Dirección General Adjunta de Modelos de Información y Análisis
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-ii. Dirección General Adjunta de Seguimiento de Instituciones “A”
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-iii. Dirección General Adjunta de Seguimiento de Instituciones “B”
+iii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-C. Dirección General de Resoluciones Bancarias
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-i. Dirección General Adjunta de Métodos de Resolución
+C. Dirección General de Métodos de Resolución
 
-ii. Dirección General Adjunta de Seguimiento de Resoluciones Bancarias
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 D. Dirección General de Visitas de Inspección
 
-i. Dirección General Adjunta de Análisis e Inspección “A”
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-ii. Dirección General Adjunta de Análisis e Inspección “B”
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-> <small>(ADICIONADO, D.O.F. 15 DE MARZO DE 2016)</small>
+iii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-iii. Dirección General Adjunta de Análisis e Inspección “C”
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-E. Dirección General de Administración y Seguimiento de Activos
+E. Dirección General de Gestión de Resoluciones Bancarias
 
-i. Dirección General Adjunta de Administración de Activos
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-ii. Dirección General Adjunta de Análisis y Seguimiento de Activos
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-F. Dirección General de Investigación y Asuntos Internacionales
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-i. Dirección General Adjunta de Investigación
+F. Dirección General de Investigación, Vinculación y Educación Financiera
 
-ii. Dirección General Adjunta de Asuntos Internacionales
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 II. Secretaría Adjunta Jurídica
 
 A. Dirección General Jurídica de Protección al Ahorro
 
-i. Dirección General Adjunta Jurídica para Resoluciones Bancarias
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-ii. Dirección General Adjunta Jurídica para el Seguro de Depósito
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 B. Dirección General Jurídica de lo Contencioso
 
-i. Dirección General Adjunta Jurídica de Seguimiento, Enlace y Sanciones
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-ii. Dirección General Adjunta Jurídica de Procedimientos Contenciosos
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 C. Dirección General Jurídica de Normatividad y Consulta
 
-i. Dirección General Adjunta Jurídica de Normatividad y Consulta
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-ii. Dirección General Adjunta Jurídica de Contrataciones Administrativas y Procedimientos Legales
+ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 III. Secretaría Adjunta de Administración y Presupuesto
 
@@ -193,13 +203,9 @@ C. Dirección General Adjunta de Presupuesto y Contabilidad
 
 IV. Dirección General de Planeación Estratégica y Procesos
 
-i. Dirección General Adjunta de Planeación Estratégica y Procesos
+i. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-V. Dirección General de Comunicación Social y Relaciones Institucionales
-
-i. (DEROGADO, D.O.F. 26 DE FEBRERO DE 2015)
+V. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 VI. Dirección General de Tecnologías de la Información
 
@@ -207,21 +213,29 @@ Las Direcciones Generales y Direcciones Generales Adjuntas citadas estarán inte
 
 Para efectos de este Estatuto Orgánico, se entenderá por unidades administrativas las previstas en los Capítulos Primero y Segundo del Título Segundo de este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 9.
 
-Las atribuciones encomendadas a los titulares de las Direcciones Generales o Direcciones Generales Adjuntas mencionadas en el Capítulo Segundo del Título Segundo de este Estatuto Orgánico, podrán ser ejercidas por ellos en forma individual o por dos servidores públicos que actúen mancomunadamente en la materia de sus respectivas competencias, siempre y cuando tengan puestos de Director de Área o superior, y se encuentren subordinados al Director General o Director General Adjunto, según se trate, de conformidad con el artículo 8 de este Estatuto Orgánico y el Acuerdo de adscripción a que se refiere el antepenúltimo párrafo de dicho artículo. Lo anterior, con excepción de aquellas atribuciones que se ejerzan de manera coordinada entre dos unidades administrativas o que requieran la firma conjunta de éstas; en tal evento, los documentos correspondientes deberán ser suscritos por los titulares de cada una de las unidades administrativas de que se trate.
+Las atribuciones encomendadas a los titulares de las Direcciones Generales o Direcciones Generales Adjuntas mencionadas en el Capítulo Segundo del Título Segundo de este Estatuto Orgánico, podrán ser ejercidas por ellos en forma individual o por dos servidores públicos que actúen mancomunadamente en la materia de sus respectivas competencias, siempre y cuando tengan puestos de Director de Área o superior y se encuentren subordinados al Director General de que se trate, de conformidad con el artículo 8 de este Estatuto Orgánico y el Acuerdo de Adscripción. Lo anterior, con excepción de aquellas atribuciones que se ejerzan de manera coordinada entre dos unidades administrativas o que requieran la firma conjunta de éstas. En tal evento, los documentos correspondientes serán suscritos por los titulares de cada una de las unidades administrativas de que se trate o por los servidores públicos que los suplan, en los términos del presente Estatuto Orgánico.
 
-Tratándose de autorizaciones, respuestas a consultas, opiniones y la celebración de contratos o convenios, que en términos de las leyes competa al Instituto emitir o celebrar, los documentos relativos deberán ser firmados por un servidor público de la Secretaría Adjunta Jurídica, según el ámbito de sus atribuciones, junto con un servidor público de la Secretaría Adjunta que sea competente para atender y resolver el asunto de que se trate, los cuales deberán tener puesto de Director General Adjunto o superior. Lo dispuesto en este párrafo no será aplicable a los actos relativos estrictamente a la operación administrativa del Instituto, en los que intervengan las unidades administrativas de la Secretaría Adjunta de Administración y Presupuesto.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-Para efectos de la imposición de sanciones, se estará a lo dispuesto por el Capítulo Tercero del Título Segundo de este Estatuto.
+Tratándose de autorizaciones, respuestas a consultas, opiniones y la celebración de contratos o convenios, que en términos de las leyes competa al Instituto emitir o celebrar, los documentos relativos deberán ser firmados por un servidor público de la Secretaría Adjunta Jurídica, según el ámbito de sus atribuciones, junto con un servidor público de la Secretaría Adjunta que sea competente para atender y resolver el asunto de que se trate, los cuales deberán tener puesto de Director General o superior. Lo dispuesto en este párrafo no será aplicable a los actos relativos estrictamente a la operación administrativa del Instituto, en los que intervengan las unidades administrativas de la Secretaría Adjunta de Administración y Presupuesto.
+
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+Para efectos de la imposición de sanciones, se estará a lo dispuesto por el Capítulo Tercero del Título Segundo de este Estatuto Orgánico.
 
 En el caso de requerimientos al Instituto efectuados por la Auditoría Superior de la Federación y otras entidades fiscalizadoras, los documentos con los que se atiendan dichos requerimientos, deberán suscribirse conjuntamente por el titular de la Dirección General auditada o a quien competa conocer del asunto, y el titular de la Dirección General Jurídica competente para brindar la asesoría y apoyo correspondiente.
 
 Lo dispuesto en el primer párrafo de este artículo no será aplicable tratándose de aquellos actos previstos en las disposiciones administrativas internas, en las cuales se establezca un régimen de firmas más riguroso que el previsto en este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 10.
 
-Los documentos en que consten los actos realizados en ejercicio de las atribuciones que confiere este Estatuto Orgánico, deberán contener la firma autógrafa, así como el nombre y puesto del servidor público del Instituto que lo suscriba.
+Los documentos en que consten los actos realizados en ejercicio de las atribuciones que confiere este Estatuto Orgánico, deberán contener la firma autógrafa o electrónica, así como el nombre y puesto del servidor público del Instituto que lo suscriba.
 
 Los servidores públicos del Instituto asumen con su firma, la responsabilidad de que los términos y condiciones de los actos contenidos en los documentos que suscriban, están validados conforme a las funciones que correspondan al cargo que desempeñen dentro del Instituto.
 
@@ -229,7 +243,9 @@ Los servidores públicos del Instituto asumen con su firma, la responsabilidad d
 
 El Secretario Ejecutivo será suplido en sus ausencias por los titulares de las Secretarías Adjuntas de Protección al Ahorro Bancario, Jurídica, y de Administración y Presupuesto, en el orden indicado.
 
-El Secretario Adjunto de Protección al Ahorro Bancario será suplido en sus ausencias por el titular de la Dirección General de Finanzas, por el titular de la Dirección General de Seguimiento de Instituciones y Análisis, por el titular de la Dirección General de Resoluciones Bancarias, por el titular de la Dirección General de Visitas de Inspección, por el titular de la Dirección General de Administración y Seguimiento de Activos, o por el titular de la Dirección General de Investigación y Asuntos Internacionales, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+El Secretario Adjunto de Protección al Ahorro Bancario será suplido en sus ausencias por el titular de la Dirección General de Finanzas, por el titular de la Dirección General de Seguimiento de Instituciones y Análisis, por el titular de la Dirección General de Métodos de Resolución, por el titular de la Dirección General de Visitas de Inspección, por el titular de la Dirección General de Gestión de Resoluciones Bancarias, o por el titular de la Dirección General de Investigación, Vinculación y Educación Financiera, en el orden indicado.
 
 El Secretario Adjunto Jurídico será suplido en sus ausencias por el titular de la Dirección General Jurídica de Protección al Ahorro, por el titular de la Dirección General Jurídica de lo Contencioso, o por el titular de la Dirección General Jurídica de Normatividad y Consulta, en el orden indicado.
 
@@ -237,25 +253,23 @@ El Secretario Adjunto Jurídico será suplido en sus ausencias por el titular de
 
 El Secretario Adjunto de Administración y Presupuesto será suplido en sus ausencias por el titular de la Dirección General Adjunta de Presupuesto y Contabilidad, por el titular de la Dirección General Adjunta de Administración, o por el titular de la Dirección General Adjunta de Recursos Humanos, en el orden indicado.
 
-El Director General de Finanzas será suplido en sus ausencias por el titular de la Dirección General Adjunta de Planeación Financiera, o por el titular de la Dirección General Adjunta de Tesorería, en el orden indicado.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-El Director General de Seguimiento de Instituciones y Análisis será suplido en sus ausencias por el titular de la Dirección General Adjunta de Modelos de Información y Análisis, o por el titular de la Dirección General Adjunta de Seguimiento de Instituciones "A", o por el titular de la Dirección General Adjunta de Seguimiento de Instituciones "B", en el orden indicado.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-El Director General de Resoluciones Bancarias será suplido en sus ausencias por el titular de la Dirección General Adjunta de Métodos de Resolución, o por el titular de la Dirección General Adjunta de Seguimiento de Resoluciones Bancarias, en el orden indicado.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE MARZO DE 2016)</small>
+> <small>(DEROGADO OCTOVO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-El Director General de Visitas de Inspección será suplido en sus ausencias por el titular de la Dirección General Adjunta de Análisis e Inspección "A", por el titular de la Dirección General Adjunta de Análisis e Inspección "B", o por el titular de la Dirección General Adjunta de Análisis e Inspección "C", en el orden indicado.
+> <small>(DEROGADO NOVENO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-El Director General de Administración y Seguimiento de Activos será suplido en sus ausencias por el titular de la Dirección General Adjunta de Administración de Activos, o por el titular de la Dirección General Adjunta de Análisis y Seguimiento de Activos, en el orden indicado.
+> <small>(DEROGADO DÉCIMO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-El Director General de Investigación y Asuntos Internacionales será suplido en sus ausencias por el titular de la Dirección General Adjunta de Investigación, o por el titular de la Dirección General Adjunta de Asuntos Internacionales, en el orden indicado.
+> <small>(DEROGADO DÉCIMO PRIMERO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-El Director General Jurídico de Protección al Ahorro será suplido en sus ausencias por el titular de la Dirección General Adjunta Jurídica para Resoluciones Bancarias, o por el titular de la Dirección General Adjunta Jurídica para el Seguro de Depósito, en el orden indicado.
+> <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-El Director General Jurídico de lo Contencioso será suplido en sus ausencias por el titular de la Dirección General Adjunta Jurídica de Seguimiento, Enlace y Sanciones, o por el titular de la Dirección General Adjunta Jurídica de Procedimientos Contenciosos, en el orden indicado.
-
-El Director General Jurídico de Normatividad y Consulta será suplido en sus ausencias por el titular de la Dirección General Adjunta Jurídica de Normatividad y Consulta, o por el titular de la Dirección General Adjunta Jurídica de Contrataciones Administrativas y Procedimientos Legales, en el orden indicado.
+> <small>(DEROGADO DÉCIMO TERCERO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
@@ -263,15 +277,17 @@ El Director General Adjunto de Administración será suplido en sus ausencias po
 
 El Director General Adjunto de Presupuesto y Contabilidad será suplido en sus ausencias por el titular de la Dirección de Programación y Presupuesto, o por el titular de la Dirección de Contabilidad Financiera, en el orden indicado.
 
-El Director General de Planeación Estratégica y Procesos será suplido en sus ausencias por el titular de la Dirección General Adjunta de Planeación Estratégica y Procesos.
+> <small>(DEROGADO DÉCIMO SEXTO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
-
-El Director General de Comunicación Social y Relaciones Institucionales será suplido en sus ausencias por el titular de la Dirección de Información, por el titular de la Dirección de Difusión, o por el titular de la Dirección de Análisis, en el orden indicado.
+> <small>(DEROGADO DÉCIMO SÉPTIMO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 El Director General de Tecnologías de la Información será suplido en sus ausencias por el titular de la Dirección de Infraestructura Tecnológica, por el titular de la Dirección de Sistemas, o por el titular de la Dirección de Seguridad y Cumplimiento de Tecnologías de la Información y Comunicaciones, en el orden indicado.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+Las Direcciones Generales mencionadas en el artículo 8 del presente Estatuto Orgánico serán suplidas en sus ausencias, por dos servidores públicos de nivel inmediato inferior adscritos a las mismas.
 
 El servidor público que ejerza la facultad prevista en este artículo deberá indicar que actúa en los términos de esta disposición.
 
@@ -279,13 +295,17 @@ El servidor público que ejerza la facultad prevista en este artículo deberá i
 
 ### CAPÍTULO PRIMERO. De las Secretarías Adjuntas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 12.
 
-Las Secretarías Adjuntas tendrán, además de las atribuciones que este Estatuto les confiere expresamente, las de las unidades administrativas que les están adscritas, así como la planeación, coordinación y supervisión de éstas.
+Las Secretarías Adjuntas tendrán, además de las atribuciones que el presente Estatuto Orgánico les confiere expresamente, las de las unidades administrativas que les están adscritas, así como la planeación, coordinación y supervisión de éstas.
 
 Adicionalmente, las Secretarías Adjuntas coordinarán la elaboración de los informes y documentos que deban ser presentados al Secretario Ejecutivo, para su posterior consideración por parte de la Junta de Gobierno del Instituto o para su entrega a cualquier otra autoridad.
 
-Asimismo, corresponde a las Secretarías Adjuntas llevar a cabo las demás actividades que se deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa, les encomiende el Secretario Ejecutivo.
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+Asimismo, corresponde a las Secretarías Adjuntas llevar a cabo las demás actividades que se deriven de las disposiciones legales y administrativas aplicables, así como aquellas que, por instrucción expresa, les encomiende el Secretario Ejecutivo.
 
 ###### ARTÍCULO 13.
 
@@ -309,7 +329,9 @@ VIII. Remitir al Congreso de la Unión, conjuntamente con el titular de la Secre
 
 IX. Proponer al Secretario Ejecutivo, en coordinación con el titular de la Secretaría Adjunta Jurídica, que se someta a la aprobación de la Junta de Gobierno la designación del administrador cautelar de las Instituciones en los términos de los artículos 129 y 130 de la Ley de Instituciones de Crédito, así como la integración del consejo consultivo a que se refiere el artículo 138 de dicho ordenamiento legal;
 
-X. Emitir opinión, previa revisión de la Dirección General de Resoluciones Bancarias, respecto del presupuesto que el administrador cautelar presente para aprobación del Secretario Ejecutivo en términos del artículo 131, fracción III de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+X. Emitir opinión, previa revisión de la Dirección General de Gestión de Resoluciones Bancarias, respecto del presupuesto que el administrador cautelar presente para aprobación del Secretario Ejecutivo en términos del artículo 131, fracción III de la Ley de Instituciones de Crédito;
 
 XI. Revisar y proponer al Secretario Ejecutivo, en coordinación con el titular de la Secretaría Adjunta Jurídica y, en su caso, conforme a los resultados del estudio técnico elaborado al efecto, la determinación del método de resolución o las operaciones de la liquidación de las Instituciones conforme a la Ley de Instituciones de Crédito, para que se sometan a la consideración de la Junta de Gobierno;
 
@@ -317,9 +339,13 @@ XII. Proponer, en coordinación con el titular de la Secretaría Adjunta Jurídi
 
 XIII. Proponer al Secretario Ejecutivo, en coordinación con el titular de la Secretaría Adjunta Jurídica, que se someta a la aprobación de la Junta de Gobierno la solicitud de declaración de liquidación judicial a que se refiere el artículo 227 de la Ley de Instituciones de Crédito;
 
-XIV. Proponer al Secretario Ejecutivo, en coordinación con el titular de la Secretaría Adjunta Jurídica, que se someta a la aprobación de la Junta de Gobierno el dictamen de extinción de capital a que se refiere el artículo 226, fracción II, de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XV. Proponer al Secretario Ejecutivo el Programa de Trabajo previsto en el numeral IV del Programa de Enajenación de Bienes a que se refiere el artículo Décimo Tercero Transitorio de la Ley de Protección al Ahorro Bancario, para que se someta a la aprobación de la Junta de Gobierno;
+XIV. Proponer al Secretario Ejecutivo, en coordinación con el titular de la Secretaría Adjunta Jurídica, que se someta a la aprobación de la Junta de Gobierno el dictamen de extinción de capital a que se refiere el artículo 226, fracción II de la Ley de Instituciones de Crédito;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XV. Proponer al Secretario Ejecutivo el Programa de Trabajo previsto en el numeral IV del Programa de Enajenación de Bienes a que se refiere el artículo Décimo Tercero Transitorio de la Ley, para que se someta a la aprobación de la Junta de Gobierno;
 
 XVI. Proponer al Secretario Ejecutivo, en coordinación con el titular de la Secretaría Adjunta Jurídica, los programas, procedimientos, políticas y lineamientos conforme a los cuales se lleve a cabo la administración de los Bienes, así como los actos a que se refiere el artículo 68, fracción XIII, de la Ley, para que se sometan a la autorización de la Junta de Gobierno;
 
@@ -339,13 +365,13 @@ XXIII. Suscribir, conjuntamente con el titular de la Secretaría Adjunta Jurídi
 
 XXIV. (DEROGADA, D.O.F. 26 DE FEBRERO DE 2015)
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXV. Emitir, en coordinación con el titular de la Secretaría Adjunta Jurídica y previo acuerdo superior, la opinión que deba otorgar el Instituto a la Comisión Nacional Bancaria y de Valores, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito, así como solicitar a dicha Comisión, cuando lo considere conveniente, que requiera a cualquier Institución la actualización del referido plan, y
+XXV. Emitir, en coordinación con el titular de la Secretaría Adjunta Jurídica y previo acuerdo superior, la opinión que deba otorgar el Instituto a la Comisión Nacional Bancaria y de Valores, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito, así como solicitar a dicha Comisión, cuando lo considere conveniente, que requiera a cualquier Institución la actualización del referido plan;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXVI. Emitir, en coordinación con el titular de la Secretaría Adjunta Jurídica, planes de resolución de Instituciones, en términos de lo previsto en el artículo 120 de la Ley de Instituciones de Crédito.
+XXVI. Emitir, en coordinación con el titular de la Secretaría Adjunta Jurídica, planes de resolución de Instituciones, en términos de lo previsto en el artículo 120 de la Ley de Instituciones de Crédito, y
 
 XXVII. (DEROGADA, D.O.F. 26 DE FEBRERO DE 2015)
 
@@ -355,11 +381,13 @@ Corresponde al titular de la Secretaría Adjunta Jurídica, el ejercicio de las 
 
 I. Brindar apoyo técnico jurídico al Secretario Ejecutivo y unidades administrativas del Instituto;
 
-II. Establecer el criterio del Instituto cuando las unidades administrativas de la propia Secretaría Adjunta Jurídica emitan opiniones contradictorias en aspectos legales, así como en caso de contradicción de criterios o discrepancia respecto de la participación de las unidades administrativas a que se refiere la fracción XI del artículo 16 del presente Estatuto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+II. Establecer el criterio del Instituto cuando las unidades administrativas de la propia Secretaría Adjunta Jurídica emitan opiniones contradictorias en aspectos legales, así como en caso de contradicción de criterios o discrepancia respecto de la participación de las unidades administrativas a que se refiere la fracción XI del artículo 16 del presente Estatuto Orgánico;
 
-III. Coordinarse con el titular de la Secretaría Adjunta de Protección al Ahorro Bancario, para el ejercicio de las atribuciones previstas en las fracciones V, VIII, IX, XI, XII, XIII, XIV, XVI, XVIII, XXIII, XXV y XXVI del artículo 13 de este Estatuto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+III. Coordinarse con el titular de la Secretaría Adjunta de Protección al Ahorro Bancario, para el ejercicio de las atribuciones previstas en las fracciones V, VIII, IX, XI, XII, XIII, XIV, XVI, XVIII, XXIII, XXV y XXVI del artículo 13 de este Estatuto Orgánico;
 
 IV. Coordinar con las unidades administrativas competentes, la elaboración de los proyectos de lineamientos, reglas, acuerdos y demás disposiciones de carácter general que corresponda expedir al Instituto de conformidad con la ley, y proponerlos al Secretario Ejecutivo para su posterior consideración por parte de la Junta de Gobierno del Instituto;
 
@@ -371,17 +399,17 @@ VII. Formular los proyectos de resolución y resolver los recursos administrativ
 
 VIII. Representar a los Vocales de la Junta de Gobierno, al Secretario Ejecutivo y a cualquier servidor público del Instituto, ante particulares y toda clase de autoridades, incluyendo las judiciales, administrativas y del trabajo, en materia de la competencia de dichos servidores públicos;
 
-> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-IX. Resolver los recursos de revisión que se interpongan en contra de las sanciones impuestas por el Instituto, en términos de la Ley, la Ley de Instituciones de Crédito, el presente Estatuto y el Reglamento del Instituto;
+IX. Resolver los recursos de revisión que se interpongan en contra de las sanciones impuestas por el Instituto, en términos de la Ley, la Ley de Instituciones de Crédito, el presente Estatuto Orgánico y el Reglamento del Instituto;
 
 > <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
 
 X. Suscribir, conjuntamente con el titular de la Secretaría Adjunta de Administración y Presupuesto, los acuerdos de coordinación que celebre el Instituto, conforme al artículo 149 de la Ley de Instituciones de Crédito, y
 
-> <small>(ADICIONADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XI. Coordinar la atención de las solicitudes de información conforme a la normativa aplicable.
+XI. Coordinar la atención de las solicitudes de información y de datos personales, así como el cumplimiento de las obligaciones de transparencia, conforme a la normativa aplicable.
 
 ###### ARTÍCULO 15.
 
@@ -421,9 +449,11 @@ XV. Suscribir, en representación del Instituto y con la asesoría del titular d
 
 ### CAPÍTULO SEGUNDO. De las Direcciones Generales y Direcciones Generales Adjuntas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 16.
 
-A las Direcciones Generales y a las Direcciones Generales Adjuntas previstas en este Capítulo, por conducto de sus titulares, les corresponden en el ámbito de sus respectivas competencias, las atribuciones siguientes:
+A las Direcciones Generales y Direcciones Generales Adjuntas previstas en este Capítulo, por conducto de sus titulares, les corresponde en el ámbito de su respectiva competencia, las atribuciones siguientes:
 
 I. Planear, formular y dirigir los programas de trabajo de la unidad administrativa que le corresponda;
 
@@ -437,7 +467,9 @@ V. Elaborar y actualizar los manuales de organización y de procedimientos, en a
 
 VI. Participar con la Dirección General de Planeación Estratégica y Procesos, en las actividades relacionadas con la administración integral de los riesgos y la planeación estratégica inherentes a las operaciones del Instituto. Dichas actividades incluyen la identificación, monitoreo, información, revelación y control de sus riesgos; así como la evaluación periódica de los procesos que el Instituto deba ejecutar ante escenarios de resolución bancaria;
 
-VII. Participar, previo acuerdo superior, en comités u otros órganos colegiados de deliberación en los que forme parte el Instituto, en materia de regulación, supervisión y protección al ahorro bancario;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VII. Participar, previo acuerdo superior, en comités u otros órganos colegiados de deliberación de los que forme parte el Instituto, en materia de regulación, supervisión y protección al ahorro bancario; en aquellos relacionados con sus atribuciones o para los que sean designados;
 
 VIII. Participar con las unidades administrativas competentes, en la elaboración de los proyectos de lineamientos, reglas, acuerdos y demás disposiciones de carácter general que corresponda expedir al Instituto de conformidad con la ley, así como en la revisión de los proyectos de iniciativas de ley, reglamentos y demás disposiciones generales relacionadas con sus atribuciones;
 
@@ -445,15 +477,25 @@ IX. Resolver, en el ámbito de su competencia, las solicitudes que formulen los 
 
 X. Hacer del conocimiento de la Dirección General Jurídica de lo Contencioso los hallazgos o situaciones presuntamente constitutivas de infracciones a la Ley, o a la Ley de Instituciones de Crédito, a fin de aplicar las sanciones que resulten procedentes en el ámbito de sus atribuciones, así como atender los requerimientos de información y proporcionar los documentos necesarios, respecto de tales hallazgos o situaciones;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XI. Participar, en el ámbito de su competencia, en la atención de los asuntos que las unidades administrativas deban ejercer de manera coordinada conforme a lo dispuesto en el presente Estatuto, previa solicitud de su titular. Lo anterior, en aquellos casos en que la unidad administrativa no se encuentre expresamente prevista en la disposición correspondiente;
+XI. Participar, en el ámbito de su competencia, en la atención de los asuntos que las unidades administrativas deban ejercer de manera coordinada conforme a lo dispuesto en el presente Estatuto Orgánico, previa solicitud de su titular. Lo anterior, en aquellos casos en que la unidad administrativa no se encuentre expresamente prevista en la disposición correspondiente;
 
-> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XII. Hacer del conocimiento del Director General Jurídico de lo Contencioso cualquier irregularidad detectada en las instituciones conforme al artículo 123 de la Ley de Instituciones de Crédito, en el ámbito de su competencia, y
+XII. Hacer del conocimiento del Director General Jurídico de lo Contencioso cualquier irregularidad detectada en las instituciones conforme al artículo 123 de la Ley de Instituciones de Crédito, en el ámbito de su competencia;
 
-XIII. Llevar a cabo las demás actividades que conforme a su competencia se deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa les encomiende el Secretario Ejecutivo o el titular de la Secretaría Adjunta correspondiente.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIII. Llevar a cabo las demás actividades que conforme a su competencia se deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa les encomiende el Secretario Ejecutivo o el titular de la Secretaría Adjunta correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIV. Participar, previo acuerdo superior, en las reuniones y foros nacionales e internacionales, en coordinación con la Dirección General de Investigación, Vinculación y Educación Financiera, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XV. Participar, previo acuerdo superior, en los comités técnicos de los fideicomisos en los que el Instituto tenga interés económico, y cuyo objeto sea, entre otros, la administración y enajenación de Bienes y de los bienes de Instituciones en liquidación o liquidación judicial.
 
 ###### ARTÍCULO 17.
 
@@ -461,7 +503,9 @@ Corresponde al titular de la Dirección General de Finanzas, el ejercicio de las
 
 I. Realizar las actividades de tesorería y programación financiera del Instituto, contando con facultades para la inversión, la enajenación y la adquisición de valores y de activos financieros, distintos a los que corresponden a otras unidades administrativas de la Secretaría Adjunta de Protección al Ahorro Bancario, así como facultades para coordinar la realización de los pagos que se deriven de las obligaciones a cargo del Instituto, distintas a aquellas que corresponden a las unidades administrativas de la Secretaría Adjunta de Administración y Presupuesto;
 
-II. Analizar las fuentes de financiamiento del Instituto y participar en la definición y negociación de los términos y condiciones de los financiamientos que el Instituto suscriba, así como ejecutar la emisión, colocación, compraventa y redención de instrumentos financieros a cargo del Instituto, en mercados nacionales y extranjeros;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+II. Analizar las fuentes de financiamiento del Instituto y participar en la definición y negociación de los términos y condiciones de los financiamientos que el Instituto suscriba; la ejecución de la emisión, colocación, compraventa y redención de instrumentos financieros a cargo del Instituto, en mercados nacionales y extranjeros, así como la negociación de los términos y condiciones de los contratos marco para la celebración de operaciones con instrumentos financieros derivados; participando con la Dirección General Jurídica de Protección al Ahorro en la instrumentación jurídica de las actividades que se mencionan en la presente fracción;
 
 III. Elaborar y dar seguimiento a los programas anuales de financiamiento, así como sus ampliaciones o modificaciones, cuando las circunstancias y actividades del Instituto así lo demanden;
 
@@ -469,55 +513,85 @@ IV. Realizar la estimación de los recursos correspondientes al Programa de Apoy
 
 V. Llevar a cabo operaciones con derivados financieros y de compraventa de divisas, observando los límites establecidos para estos efectos por la Junta de Gobierno;
 
-VI. Solicitar a la Dirección General de Seguimiento de Instituciones y Análisis, su recomendación respecto a los límites propuestos de riesgo por contraparte;
+VI. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-VII. Suscribir con la Dirección General Jurídica de Protección al Ahorro, los contratos relacionados con las actividades y operaciones de tesorería y planeación financiera que no generen pasivos a cargo del Instituto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-VIII. Registrar el pago de las cuotas a cargo de las Instituciones, así como llevar el registro, control y manejo de los recursos a que se refieren los artículos 25 y Décimo Transitorio de la Ley, conforme a lo que determine la Junta de Gobierno y participar con la Dirección General de Resoluciones Bancarias para efectos de lo dispuesto por la fracción II del artículo 13 del presente Estatuto;
+VII. Suscribir con la Dirección General Jurídica de Protección al Ahorro, los contratos y convenios, relacionados con las actividades y operaciones de tesorería y planeación financiera que no generen pasivos a cargo del Instituto;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VIII. Registrar el pago de las cuotas a cargo de las Instituciones, llevar el registro, control y manejo de los recursos a que se refieren los artículos 25 y Décimo Transitorio de la Ley, conforme a lo que determine la Junta de Gobierno y participar con las Direcciones Generales de Métodos de Resolución o Gestión de Resoluciones Bancarias, según corresponda, para efectos de lo dispuesto por la fracción II del artículo 13 del presente Estatuto Orgánico;
 
 IX. Realizar el cálculo para la actualización de las cuotas omitidas en términos de la fracción II, del artículo 91 de la Ley, así como del monto de las multas y su actualización, de conformidad con la Ley, la Ley de Instituciones de Crédito y demás disposiciones aplicables;
 
 X. Solicitar al Banco de México, conjuntamente con las Direcciones Generales de Seguimiento de Instituciones y Análisis y Jurídica de Protección al Ahorro, se realice el cargo correspondiente al importe de las cuotas que deban pagar las Instituciones, así como con la Dirección General Jurídica de lo Contencioso cuando se solicite el cargo por concepto de multas;
 
-XI. Participar en coordinación con las Direcciones Generales de Resoluciones Bancarias y Jurídica de Protección al Ahorro, en los actos necesarios para el otorgamiento del crédito que el administrador cautelar solicite en términos del artículo 29 Bis 15 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XII. Realizar, en coordinación con la Dirección General de Resoluciones Bancarias, por sí o a través de terceros, la estimación del valor de los activos financieros, conforme a la información disponible, para la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
+XI. Participar en coordinación con las Direcciones Generales de Gestión de Resoluciones Bancarias y Jurídica de Protección al Ahorro, en los actos necesarios para el otorgamiento del crédito que el administrador cautelar solicite en términos del artículo 29 Bis 15 de la Ley de Instituciones de Crédito;
 
-XIII. Participar con la Dirección General de Resoluciones Bancarias en la elaboración, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XIV. Participar, en el ámbito de sus atribuciones, conjuntamente con la Dirección General de Resoluciones Bancarias, en la preparación e implementación de los métodos de resolución de Instituciones;
+XII. Realizar, en coordinación con la Dirección General de Métodos de Resolución, por sí o a través de terceros, la valuación de instrumentos financieros y derivados, conforme a la información disponible, para la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
 
-XV. Participar, dentro del ámbito de su competencia, con las Direcciones Generales de Resoluciones Bancarias y Jurídica de Protección al Ahorro, en la instrumentación financiera de los procesos de saneamiento financiero de las Instituciones;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVI. Transferir a las Instituciones en proceso de saneamiento, en estado de liquidación o en liquidación judicial, así como a aquellas organizadas y operadas por el Instituto, los recursos que le sean solicitados por las unidades administrativas competentes o que se deriven de operaciones suscritas por el Instituto para estos efectos, y llevar a cabo su registro;
+XIII. Participar, con la Dirección General de Métodos de Resolución, en el ámbito de su competencia, en la elaboración, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIV. Participar, en el ámbito de sus atribuciones, según corresponda, con la Dirección General de Gestión de Resoluciones Bancarias, en la preparación e implementación de los métodos de resolución de Instituciones;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XV. Participar, dentro del ámbito de su competencia, con las Direcciones Generales de Gestión de Resoluciones Bancarias y Jurídica de Protección al Ahorro, en la instrumentación financiera de los procesos de saneamiento financiero de las Instituciones;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVI. Transferir a las Instituciones en proceso de saneamiento, en estado de liquidación o en liquidación judicial, así como a aquellas organizadas y operadas por el Instituto, los recursos autorizados previo acuerdo superior y que le sean solicitados por las unidades administrativas competentes o que se deriven de operaciones suscritas por el Instituto para estos efectos, y llevar a cabo su registro;
 
 XVII. Dar seguimiento al vencimiento de las obligaciones financieras a cargo del Instituto, derivadas de operaciones de saneamiento;
 
-XVIII. Dar seguimiento, en el ámbito de su competencia, en coordinación con la Dirección General de Resoluciones Bancarias, a las áreas de tesorería de las Instituciones objeto de saneamiento;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XIX. Realizar, en coordinación con la Dirección General de Resoluciones Bancarias, las operaciones de tesorería de las Instituciones que se encuentren en estado de liquidación o liquidación judicial cuando no exista un tercero apoderado para desempeñar el cargo de liquidador o liquidador judicial o un área de tesorería en dichas Instituciones;
+XVIII. Dar seguimiento, en el ámbito de su competencia, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, a las áreas de tesorería de las Instituciones objeto de saneamiento;
 
-XX. Participar, en coordinación con la Dirección General de Resoluciones Bancarias, en la supervisión a las áreas de tesorería de las Instituciones en los procesos de liquidación o liquidación judicial, así como el desempeño del apoderado liquidador o apoderado liquidador judicial, tratándose de procesos conducidos mediante terceros apoderados por el Instituto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXI. Emitir instrucciones a las entidades financieras que correspondan, en coordinación con las Direcciones Generales de Resoluciones Bancarias, y de Visitas de Inspección y de conformidad con la información que éstas le proporcionen, para la realización de transferencias para efectuar los pagos de obligaciones garantizadas; el pago de aquellas obligaciones a que se refiere el artículo 198 de la Ley de Instituciones de Crédito y los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público en los que participe el Instituto;
+XIX. Realizar, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, las operaciones de tesorería de las Instituciones que se encuentren en estado de liquidación o liquidación judicial cuando no exista un tercero apoderado para desempeñar el cargo de liquidador o liquidador judicial o un área de tesorería en dichas Instituciones;
 
-XXII. Participar, en coordinación con las Direcciones Generales de Resoluciones Bancarias y Jurídica de Protección al Ahorro, en la celebración de los actos para el otorgamiento de los recursos necesarios para la operación de las Instituciones organizadas y operadas por el Instituto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXIII. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo del titular de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con el titular de la Dirección General Jurídica de Protección al Ahorro, de los derechos corporativos y patrimoniales inherentes a títulos de crédito, instrumentos de deuda o de capital en los que el Instituto sea titular, distintos a los que corresponde ejercer a la Dirección General de Administración y Seguimiento de Activos;
+XX. Participar, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, en la supervisión a las áreas de tesorería de las Instituciones en los procesos de liquidación o liquidación judicial, así como el desempeño del apoderado liquidador o apoderado liquidador judicial, tratándose de procesos conducidos mediante terceros apoderados por el Instituto;
 
-XXIV. Participar con la Dirección General de Seguimiento de Instituciones y Análisis en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+XXI. Emitir instrucciones a las entidades financieras que correspondan, en coordinación con las Direcciones Generales de Gestión de Resoluciones Bancarias, y de Visitas de Inspección y de conformidad con la información que éstas le proporcionen, para la emisión de cheques, órdenes de pago, realización de transferencias o cualquier otro medio de pago autorizado por el Banco de México, para efectuar los pagos de obligaciones garantizadas; el pago de aquellas obligaciones a que se refiere el artículo 198 de la Ley de Instituciones de Crédito y los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público en los que participe el Instituto;
 
-XXV. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXII. Participar, en coordinación con las Direcciones Generales de Gestión de Resoluciones Bancarias y Jurídica de Protección al Ahorro, en la celebración de los actos para el otorgamiento de los recursos necesarios para la operación de las Instituciones organizadas y operadas por el Instituto;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXIII. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo del titular de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con el titular de la Dirección General Jurídica de Protección al Ahorro, de los derechos corporativos y patrimoniales inherentes a títulos de crédito, instrumentos de deuda o de capital en los que el Instituto sea titular, distintos a los que corresponde ejercer a la Dirección General de Gestión de Resoluciones Bancarias;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXIV. Participar con la Dirección General de Seguimiento de Instituciones y Análisis en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXV. Participar, con la Dirección General de Métodos de Resolución, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
 
 > <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 XXVI. Participar, en el ámbito de su competencia, en la revisión de la información contenida en los estados financieros del Instituto, y
 
-> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXVII. Solicitar a la Secretaría de Hacienda y Crédito Público, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, la inscripción de los títulos de crédito, documentos contractuales e instrumentos mediante los cuales se generen pasivos directos o contingentes a cargo del Instituto o sirvan para refinanciar sus obligaciones, en el registro a que se refiere el artículo 27 de la Ley General de Deuda Pública.
+XXVII. Solicitar a la Secretaría de Hacienda y Crédito Público, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, la inscripción de los títulos de crédito, documentos contractuales e instrumentos mediante los cuales se generen pasivos directos o contingentes a cargo del Instituto o sirvan para refinanciar sus obligaciones, en el registro a que se refiere el artículo 27 de la Ley Federal de Deuda Pública.
 
 ###### ARTÍCULO 18.
 
@@ -531,7 +605,9 @@ III. Dar seguimiento a la condición financiera y operativa de las Instituciones
 
 IV. Conducir el análisis y seguimiento de las obligaciones garantizadas por el Instituto;
 
-V. Solicitar a la Dirección General de Visitas de Inspección la realización de visitas a las Instituciones, con motivo de hallazgos o inconsistencias detectadas en la información proporcionada por éstas;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+V. Solicitar a la Dirección General de Visitas de Inspección la realización de visitas a las Instituciones, con motivo de hallazgos o inconsistencias detectadas en la información proporcionada por éstas para el cálculo de las cuotas que las Instituciones deban pagar al Instituto;
 
 VI. Emitir las opiniones que le soliciten las unidades administrativas, relacionadas con la situación financiera y económica de las Instituciones, a fin de retroalimentar y fortalecer las actividades preparatorias de una resolución bancaria o para integrar los informes, opiniones o solicitudes que deba realizar el Instituto en el ámbito de sus atribuciones o le requieran otras autoridades del sistema financiero;
 
@@ -541,11 +617,17 @@ VIII. Desarrollar instrumentos de información financiera de interés para el In
 
 IX. Proponer medidas para mejorar el sistema de protección al ahorro bancario que opera el Instituto, con base en los estudios y análisis que realice sobre el estado de las Instituciones;
 
-X. Realizar, en coordinación con la Dirección General de Resoluciones Bancarias, por sí o a través de terceros, la evaluación de la situación financiera de la Institución de que se trate para la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XI. Participar con la Dirección General de Resoluciones Bancarias en la elaboración, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+X. Realizar, en coordinación con la Dirección General de Métodos de Resolución, por sí o a través de terceros, la evaluación de la situación financiera de la Institución de que se trate para la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
 
-XII. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XI. Participar con la Dirección General de Métodos de Resolución, en el ámbito de su competencia, en la elaboración, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XII. Participar, con la Dirección General de Métodos de Resolución, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
 
 XIII. Recabar y analizar la información necesaria para el cálculo de las cuotas que las Instituciones deban pagar al Instituto y efectuar dicho cálculo, así como dar seguimiento a las observaciones y sanciones que se deriven de dicho proceso;
 
@@ -555,85 +637,119 @@ XIV. Solicitar al Banco de México, conjuntamente con las Direcciones Generales 
 
 XV. Resolver, en el ámbito de su competencia, las solicitudes relativas a los programas de autocorrección que presenten las Instituciones en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
-XVI. Elaborar con la participación de las Direcciones Generales de Finanzas, Resoluciones Bancarias, Visitas de Inspección, Administración y Seguimiento de Activos y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario, la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito, así como proponer al Secretario Adjunto de Protección al Ahorro Bancario solicitar a dicha Comisión, cuando así lo considere conveniente, que requiera a cualquier Institución la actualización del referido plan;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVI. Elaborar con la participación de las Direcciones Generales de Finanzas, Métodos de Resolución, Visitas de Inspección, Gestión de Resoluciones Bancarias y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario, la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito, así como proponer al Secretario Adjunto de Protección al Ahorro Bancario solicitar a dicha Comisión, cuando así lo considere conveniente, que requiera a cualquier Institución la actualización del referido plan;
 
 XVII. Emitir, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario y conjuntamente con la Dirección General Jurídica de Protección al Ahorro, la opinión que corresponda respecto de las solicitudes que formule la Comisión Nacional Bancaria y de Valores en términos del artículo 28 de la Ley de Instituciones de Crédito;
 
 XVIII. Atender, previo acuerdo superior, y en coordinación con las unidades administrativas competentes, las solicitudes de la Secretaría de Hacienda y Crédito Público en relación con las evaluaciones de desempeño a que se refiere el artículo 278 de la Ley de Instituciones de Crédito.
 
-XIX. Elaborar los estudios, análisis e informes que se requieran, derivado de la participación del Instituto en el Consejo de Estabilidad del Sistema Financiero y en el Comité de Estabilidad Bancaria, y
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XX. Realizar el análisis y emitir las recomendaciones en cuanto a los límites de riesgo por contraparte que solicite la Dirección General de Finanzas para el manejo de los recursos de la tesorería.
+XIX. Elaborar los estudios, análisis e informes que se requieran, derivado de la participación del Instituto en el Consejo de Estabilidad del Sistema Financiero y en el Comité de Estabilidad Bancaria;
+
+XX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXI. Analizar, en colaboración con la Dirección General de Métodos de Resolución, los cambios estructurales y operativos de las Instituciones, con la finalidad de identificar aquellas que requieran actualización a su plan de resolución, o bien, la elaboración de un plan de resolución fuera del Programa de Trabajo previamente autorizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 19.
 
-Corresponde al titular de la Dirección General de Resoluciones Bancarias, el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Dirección General de Métodos de Resolución, el ejercicio de las atribuciones siguientes:
 
-I. Solicitar conjuntamente con la Dirección General Jurídica de Protección al Ahorro, a las Instituciones y a la Comisión Nacional Bancaria y de Valores, la información que en el ámbito de su competencia requiera, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+I. Solicitar conjuntamente con la Dirección General Jurídica de Protección al Ahorro, a las Instituciones y a otras autoridades, la información que en el ámbito de su competencia requiera, en términos de las disposiciones aplicables;
 
 II. Participar con la Dirección General de Seguimiento de Instituciones y Análisis en la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
 
-III. Elaborar con la participación de las Direcciones Generales de Finanzas, Seguimiento de Instituciones y Análisis, Visitas de Inspección, Administración y Seguimiento de Activos y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes, los planes de resolución de Instituciones a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como proponer los proyectos respectivos, para aprobación superior, y coordinar las actividades vinculadas con los simulacros de ejecución de dichos planes;
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+II Bis. Elaborar, previo acuerdo superior, el Programa Anual de Trabajo para la elaboración de los planes de resolución; plantear sus modificaciones y proporcionar el seguimiento correspondiente;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+III. Elaborar con la participación de las Direcciones Generales de Finanzas, Seguimiento de Instituciones y Análisis, Visitas de Inspección, Gestión de Resoluciones Bancarias y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes, los planes de resolución de Instituciones a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como proponer los proyectos respectivos, para aprobación superior, y coordinar las actividades vinculadas con los simulacros de ejecución de dichos planes;
 
 IV. Solicitar a las Instituciones, previo acuerdo superior, la realización de simulacros de ejecución de los planes de resolución respectivos, en términos del artículo 120 de la Ley de Instituciones de Crédito;
 
-V. Implementar los procedimientos de selección de terceros especializados para la realización de las funciones de administrador cautelar de Instituciones y someter la propuesta correspondiente a aprobación superior;
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-VI. Revisar, en coordinación con las unidades administrativas competentes, el presupuesto que el administrador cautelar presente al Secretario Ejecutivo en términos del artículo 131, fracción III de la Ley de Instituciones de Crédito;
+IV Bis. Analizar, en colaboración con la Dirección General de Seguimiento de Instituciones y Análisis, los cambios estructurales y operativos de las Instituciones, con la finalidad de identificar aquellas que requieran actualización a su plan de resolución, o bien, la elaboración de un plan de resolución fuera del Programa de Trabajo previamente autorizado;
 
-VII. Realizar, previo acuerdo superior y en coordinación con las unidades administrativas competentes, los actos necesarios para la integración del consejo consultivo a que se refiere el artículo 138 de la Ley de Instituciones de Crédito;
+V. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-VIII. Dar seguimiento al desempeño del administrador cautelar de Instituciones, y emitir opinión, respecto de los informes periódicos y la documentación que presente al Instituto en términos de la Ley de Instituciones de Crédito, coordinando para ello la participación de las Direcciones Generales de Administración y Seguimiento de Activos y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes;
+VI. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-IX. Coordinar y ejecutar, en el ámbito de su competencia y con la participación de las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los actos necesarios para el otorgamiento del crédito que el administrador cautelar solicite en términos del artículo 29 Bis 15 de la Ley de Instituciones de Crédito;
+VII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-X. Realizar los actos necesarios para la publicación e inscripción a que se refiere el artículo 135 de la Ley de Instituciones de Crédito, así como para la cancelación a que se refiere el artículo 139 del mismo ordenamiento;
+VIII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XI. Elaborar el estudio técnico a que se refiere el artículo 187 de la Ley de Instituciones de Crédito, coordinando la participación de las Direcciones Generales de Finanzas, de Seguimiento de Instituciones y Análisis, de Visitas de Inspección, de Administración y Seguimiento de Activos, Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, para su aprobación superior, o proveer su elaboración a través de algún tercero especializado y supervisar su desempeño;
+IX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XII. Elaborar, coordinando la participación de las Direcciones Generales de Finanzas, Seguimiento de Instituciones y Análisis, Visitas de Inspección, Administración y Seguimiento de Activos, Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, el análisis que permita determinar la regla de menor costo, para su aprobación superior, o proveer su elaboración a través de algún tercero especializado y supervisar su desempeño;
+X. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XIII. Elaborar, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley, coordinando para ello la participación de las Direcciones Generales de Finanzas, Seguimiento de Instituciones y Análisis, Visitas de Inspección, Administración y Seguimiento de Activos y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XIV. Preparar y coordinar la participación de las Direcciones Generales de Finanzas, Visitas de Inspección, Administración y Seguimiento de Activos y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes, para la implementación de los métodos de resolución a que se refiere el artículo 148 de la Ley de Instituciones de Crédito;
+XI. Elaborar el estudio técnico a que se refiere el artículo 187 de la Ley de Instituciones de Crédito, coordinando la participación de las Direcciones Generales de Finanzas, de Seguimiento de Instituciones y Análisis, de Visitas de Inspección, de Gestión de Resoluciones Bancarias, Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, para su aprobación superior, o proveer su elaboración a través de algún tercero especializado y supervisar su desempeño;
 
-XV. Presentar a la consideración del Secretario Adjunto de Protección al Ahorro Bancario, con la participación de la Dirección General de Finanzas, la propuesta de disposición de los fondos para efectos de lo dispuesto por la fracción II del artículo 13 del presente Estatuto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVI. Solicitar a los administradores cautelares de Instituciones sujetas a saneamiento, la contratación de terceros especializados para la prestación de cualquier servicio relacionado con dicho saneamiento;
+XII. Elaborar, coordinando la participación de las Direcciones Generales de Finanzas, Seguimiento de Instituciones y Análisis, Visitas de Inspección, Gestión de Resoluciones Bancarias, Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, el análisis que permita determinar la regla de menor costo, para su aprobación superior, o proveer su elaboración a través de algún tercero especializado y supervisar su desempeño;
 
-XVII. Coordinar y ejecutar, en el ámbito de su competencia y con la participación de las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los actos necesarios para el saneamiento financiero de Instituciones, en términos de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVIII. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo del titular de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con el titular de la Dirección General Jurídica de Protección al Ahorro, de los derechos corporativos y patrimoniales inherentes a los títulos representativos del capital social de Instituciones respecto de las cuales se implemente un método de resolución en términos de lo establecido en la Ley de Instituciones de Crédito;
+XIII. Elaborar, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, la propuesta relativa al método de resolución de Instituciones, incluyendo el saneamiento financiero o a las operaciones para su liquidación, conforme a dicha Ley, coordinando para ello la participación de las Direcciones Generales de Finanzas, Seguimiento de Instituciones y Análisis, Visitas de Inspección, Gestión de Resoluciones Bancarias y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XIX. Realizar los actos necesarios para la constitución, organización y operación de las Instituciones a que se refiere el artículo 27 Bis 1 de la Ley de Instituciones de Crédito, previo acuerdo superior y en coordinación con las unidades administrativas competentes del Instituto;
+XIII Bis. Participar, en coordinación con las unidades administrativas competentes, en el análisis y revisión de las actividades, procesos de planeación y documentación relativos a resoluciones bancarias, derivados de reuniones con autoridades financieras y grupos de trabajo a nivel internacional, así como de las instituciones globales que tengan subsidiaria en México;
 
-XX. Instrumentar, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los actos para el otorgamiento de los recursos necesarios para la operación de las Instituciones organizadas y operadas por el Instituto;
+XIV. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXI. Realizar los actos necesarios para la contratación del tercero especializado que deberá elaborar el dictamen sobre el supuesto de extinción de capital a que se refiere la fracción II del artículo 226 de la Ley de Instituciones de Crédito, en los casos en que el Instituto ejerza directamente las atribuciones de liquidador;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXII. Solicitar, en coordinación con la Dirección General Jurídica de lo Contencioso, a la Comisión Nacional Bancaria y de Valores la información que se considere necesaria para efectos de la solicitud de la declaración de liquidación judicial, en términos de lo previsto en el artículo 226 de la Ley de Instituciones de Crédito;
+XV. Presentar a consideración del Secretario Adjunto de Protección al Ahorro Bancario, con la participación de la Dirección General de Finanzas, la propuesta de disposición de los fondos para efectos de lo dispuesto por la fracción II del artículo 13 del presente Estatuto Orgánico, cuando derivado de la determinación del método de resolución y previo al inicio de la resolución, se requiera la disposición de recursos;
 
-XXIII. Implementar los procedimientos de selección de terceros especializados para la realización de las funciones de apoderado liquidador o apoderado liquidador judicial de Instituciones, así como para la realización del estudio técnico a que se refiere el artículo 187 de la Ley de Instituciones de Crédito;
+XVI. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXIV. Supervisar los procesos de liquidación o liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador o apoderado liquidador judicial, tratándose de procesos conducidos mediante terceros apoderados por el Instituto, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías externas que, en su caso, se practiquen, coordinando para ello la participación de las Direcciones Generales de Finanzas, Administración y Seguimiento de Activos, Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes;
+XVII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXV. Ejercer las atribuciones del Instituto en su carácter de liquidador o liquidador judicial de Instituciones, en los casos en que no exista un tercero contratado para ello, coordinando la participación de las Direcciones Generales de Finanzas, Administración y Seguimiento de Activos, Jurídica de Protección al Ahorro, Jurídica de lo Contencioso y Adjunta de Presupuesto y Contabilidad, así como las demás unidades administrativas competentes;
+XVIII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXVI. Solicitar a la Comisión Nacional Bancaria y de Valores, previo acuerdo del titular de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con el titular de la Dirección General Jurídica de Protección al Ahorro, el cierre de las oficinas y sucursales de Instituciones o emitir la opinión que sobre dicho cierre solicite la mencionada autoridad, en términos de la Ley de Instituciones de Crédito;
+XIX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXVII. Llevar a cabo en coordinación con la Dirección General Jurídica de Protección al Ahorro los actos necesarios, en carácter de liquidador, cuando no exista un tercero contratado para ello, para proceder a la sustitución de los deberes fiduciarios en la liquidación, en términos de lo dispuesto por el artículo 185 de la Ley de Instituciones de Crédito;
+XX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXVIII. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
+XXI. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+XXII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXIX. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+XXIII. Implementar los procedimientos de selección de terceros especializados para la realización del estudio técnico a que se refiere el artículo 187 de la Ley de Instituciones de Crédito;
 
-XXX. Solicitar a las Direcciones Generales Jurídica de Normatividad y Consulta y de Comunicación Social y Relaciones Institucionales, la realización de las publicaciones que correspondan en el ámbito de su competencia;
+XXIV. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+XXV. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+XXVI. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+XXVII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+XXVIII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+XXIX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+XXX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXX Bis. Proponer, previo acuerdo con el Secretario Adjunto de Protección al Ahorro Bancario, modificaciones a los Lineamientos para elaborar planes de resolución, a que hace referencia el artículo 120 de la Ley de Instituciones de Crédito, con base en las áreas de oportunidad identificadas y/o prácticas internacionales;
 
 > <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
@@ -645,7 +761,9 @@ XXXII. Integrar los expedientes documentales o Libros Blancos que correspondan e
 
 Corresponde al titular de la Dirección General de Visitas de Inspección, el ejercicio de las atribuciones siguientes:
 
-I. Elaborar, previo acuerdo superior, el programa anual de visitas de inspección, proponer modificaciones a dicho programa y realizar el seguimiento correspondiente;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+I. Elaborar el programa anual de visitas de inspección y, en su caso, realizar las modificaciones a dicho programa, así como el seguimiento correspondiente;
 
 II. Realizar, en coordinación con la Dirección General Jurídica de Protección al Ahorro, las notificaciones de las visitas de inspección que se realicen a las Instituciones en términos de la Ley, la Ley de Instituciones de Crédito y el Reglamento del Instituto;
 
@@ -655,19 +773,29 @@ III. Realizar las visitas de inspección a las Instituciones, en términos de lo
 
 IV. Solicitar, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, a las Instituciones y a la Comisión Nacional Bancaria y de Valores, la información que en el ámbito de su competencia requiera, en términos de las disposiciones aplicables;
 
-V. Participar con la Dirección General de Seguimiento de Instituciones y Análisis en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-VI. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
+V. Participar con la Dirección General de Seguimiento de Instituciones y Análisis en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VI. Participar, con la Dirección General de Métodos de Resolución, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
 
 > <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 VII. Resolver, en el ámbito de su competencia, las solicitudes relativas a los programas de autocorrección que presenten las Instituciones, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
-VIII. Participar, en coordinación con la Dirección General de Resoluciones Bancarias, y dentro del ámbito de su competencia, en la elaboración del estudio técnico o del análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-IX. Participar, con la Dirección General de Resoluciones Bancarias, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, en la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+VIII. Participar, en coordinación con la Dirección General de Métodos de Resolución, y dentro del ámbito de su competencia, en la elaboración del estudio técnico o del análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
 
-X. Ejecutar, supervisar y dar seguimiento, en coordinación con la Dirección General de Resoluciones Bancarias, a los procesos de transferencia de pasivos que se realicen dentro de la implementación del método de resolución que corresponda, conforme a la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+IX. Participar, con la Dirección General de Métodos de Resolución, en el ámbito de su competencia, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, en la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+X. Ejecutar, supervisar y dar seguimiento, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, a los procesos de transferencia de pasivos que se realicen dentro de la implementación del método de resolución que corresponda, conforme a la Ley de Instituciones de Crédito;
 
 > <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
@@ -677,181 +805,351 @@ XI. Implementar, en coordinación con las Direcciones Generales de Finanzas y Ju
 
 XII. Realizar, en coordinación con la Dirección General de Finanzas, el pago de las obligaciones a que se refiere la fracción inmediata anterior de este artículo;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XIII. Participar, en el ámbito de su competencia con la Dirección General de Resoluciones Bancarias, en la preparación e implementación de los métodos de resolución a que se refiere el artículo 148 de la Ley de Instituciones de Crédito;
+XIII. Participar, en el ámbito de su competencia según corresponda, con la Dirección General de Gestión de Resoluciones Bancarias, en la preparación e implementación de los métodos de resolución a que se refiere el artículo 148 de la Ley de Instituciones de Crédito;
 
 > <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 XIV. Dar seguimiento, en coordinación con la Dirección General Jurídica de Protección al Ahorro, a las solicitudes de pago a que se refieren los artículos 191 y 198 de la Ley de Instituciones de Crédito;
 
-> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XV. Coordinar las actividades para informar y atender al público en general, en todo lo relacionado con los procedimientos de pago a que se refieren los artículos 191 y 198 de la Ley de Instituciones de Crédito, y
+XV. Coordinar las actividades para informar y atender al público en general, en todo lo relacionado con los procedimientos de pago a que se refieren los artículos 191 y 198 de la Ley de Instituciones de Crédito, con la participación de la Dirección General de Investigación, Vinculación y Educación Financiera;
 
-> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVI. Desarrollar instrumentos de análisis de información relativa a las visitas de inspección, que tengan por objeto el previsto en el segundo y tercer párrafos del artículo 124 de la Ley de Instituciones de Crédito.
+XVI. Desarrollar instrumentos de análisis de información relativa a las visitas de inspección, que tengan por objeto el previsto en el segundo y tercer párrafos del artículo 124 de la Ley de Instituciones de Crédito, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVII. Presentar a consideración del Secretario Adjunto de Protección al Ahorro Bancario, con la participación de la Dirección General de Finanzas, la propuesta de disposición de los fondos para efectos de lo dispuesto por la fracción II del artículo 13 del presente Estatuto Orgánico, respecto del pago de obligaciones garantizadas, el pago de pasivos o en la transferencia de pasivos, cuando durante la implementación del método de resolución se requiera la disposición de recursos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 21.
 
-Corresponde al titular de la Dirección General de Administración y Seguimiento de Activos, el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Dirección General de Gestión de Resoluciones Bancarias, el ejercicio de las atribuciones siguientes:
 
-I. Realizar, en coordinación con la Dirección General de Resoluciones Bancarias, por sí o a través de terceros, la estimación del valor de los activos, conforme a la metodología institucional y a la información disponible, para la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-II. Participar con la Dirección General de Resoluciones Bancarias en la elaboración, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+I. Realizar, en coordinación con la Dirección General de Métodos de Resolución, por sí o a través de terceros, la estimación del valor de mercado de los activos y pasivos diferentes a las obligaciones garantizadas e instrumentos financieros y derivados, conforme a la metodología institucional y a la información disponible, para la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo, para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
 
-III. Ejecutar, supervisar y dar seguimiento, en coordinación con la Dirección General de Resoluciones Bancarias, a los procesos de transferencia de activos que se realicen dentro de la implementación del método de resolución que corresponda, conforme a la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-IV. Realizar el análisis técnico de la conformación de los activos de las Instituciones y elaborar los reportes que correspondan;
+II. Participar con la Dirección General de Métodos de Resolución, en la elaboración, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+III. Ejecutar, supervisar y dar seguimiento con las unidades administrativas correspondientes, a los procesos de transferencia de activos y/o pasivos que se realicen dentro de la implementación del método de resolución que corresponda, conforme a la Ley de Instituciones de Crédito;
+
+IV. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 V. (DEROGADA, D.O.F. 26 DE FEBRERO DE 2015)
 
-VI. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-VII. Participar, con la Dirección General de Seguimiento de Instituciones y Análisis, en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
+VI. Participar, con la Dirección General de Métodos de Resolución, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VII. Participar, con la Dirección General de Seguimiento de Instituciones y Análisis, en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
 
 VIII. Participar, con la Dirección General de Visitas de Inspección, en el análisis de los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
-IX. Elaborar, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, los programas, procedimientos, políticas y lineamientos conforme a los cuales se lleve a cabo la administración de los Bienes, así como los actos a que se refiere el artículo 68, fracción XIII, de la Ley, para que se sometan a la consideración del Secretario Ejecutivo, para su posterior autorización por parte de la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-X. Elaborar, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, el procedimiento a que se refiere el artículo 209 de la Ley de Instituciones de Crédito, para que se someta a la consideración del Secretario Ejecutivo, para su posterior autorización por parte de la Junta de Gobierno;
+IX. Elaborar, conjuntamente con la Dirección General Jurídica de Normatividad y Consulta, los programas, procedimientos, políticas y lineamientos relacionados con la administración y enajenación de los Bienes;
 
-XI. Elaborar el Programa de Trabajo previsto en el numeral IV del Programa de Enajenación de Bienes a que se refiere el artículo Décimo Tercero Transitorio de la Ley de Protección al Ahorro Bancario, para que previo acuerdo con la Secretaría Adjunta de Protección al Ahorro Bancario, sea sometido a la consideración del Secretario Ejecutivo;
+X. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XII. Suscribir, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, los convenios que se requieran para formalizar las operaciones de administración y enajenación de Bienes en las que el Instituto sea parte;
+XI. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XII. Suscribir, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, los convenios que se requieran para formalizar las operaciones de administración y enajenación de Bienes en las que el Instituto sea parte, así como los actos a que se refiere el artículo 68, fracción XIII, de la Ley, para que se sometan a consideración del Secretario Ejecutivo, para su posterior autorización por parte de la Junta de Gobierno;
 
 XIII. Encomendar a terceros especializados la administración y enajenación de Bienes, y de los bienes de las Instituciones en liquidación o liquidación judicial;
 
-XIV. Requerir, conjuntamente con la Dirección General Jurídica de Protección al Ahorro, información a las Instituciones y los terceros especializados, respecto de la administración y enajenación de Bienes, así como de los bienes de las Instituciones en liquidación o liquidación judicial;
+XIV. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 XV. Realizar, en coordinación con la Dirección General Jurídica de Protección al Ahorro, los actos necesarios para la administración y enajenación de Bienes, y de los bienes de las Instituciones en liquidación o liquidación judicial, cuando éstos no se lleven a cabo por terceros especializados o terceros apoderados por el Instituto;
 
-XVI. Participar, en coordinación con la Dirección General de Resoluciones Bancarias, en la supervisión de los procesos de liquidación y liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador o apoderado liquidador judicial, tratándose de procesos conducidos a través de terceros apoderados por el Instituto, en lo referente a los procesos de administración y enajenación de Bienes y de los bienes de las Instituciones en liquidación y liquidación judicial, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías que, en su caso, se practiquen;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVII. Ejercer, en el ámbito de su competencia y con la participación que corresponda a las demás unidades administrativas del Instituto, las atribuciones de éste en su carácter de liquidador o liquidador judicial de Instituciones, en los casos en que no exista un tercero contratado al efecto;
+XVI. Supervisar, contando con la participación de las unidades administrativas competentes, los procesos de concurso mercantil, liquidación y/o liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador, apoderado liquidador judicial o apoderado síndico, tratándose de procesos conducidos a través de terceros apoderados por el Instituto;
 
-XVIII. Dar seguimiento, en coordinación con las Direcciones Generales de Resoluciones Bancarias y Jurídica de Protección al Ahorro y dentro del ámbito de su competencia, al desempeño del administrador cautelar de Instituciones, con base en los informes periódicos que presente al Instituto, en términos de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XIX. Dar seguimiento, en coordinación con la Dirección General Jurídica de Protección al Ahorro, en el ámbito de su competencia, a los procesos de administración y enajenación de los Bienes, que sean transferidos para dichos efectos al Servicio de Administración y Enajenación de Bienes, en términos de los convenios que se suscriban y de conformidad con los informes que dicha entidad presente;
+XVII. Ejercer, en coordinación con las unidades administrativas competentes, las atribuciones del Instituto en su carácter de liquidador, liquidador judicial o síndico de Instituciones, en los casos en que no exista un tercero contratado al efecto;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVIII. Dar seguimiento, con el apoyo de la Dirección General Jurídica de Protección al Ahorro, al desempeño del administrador cautelar de Instituciones y emitir opinión, respecto de los informes periódicos y la documentación que presente al Instituto en términos de la Ley de Instituciones de Crédito, coordinando la participación de las unidades administrativas competentes;
+
+XIX. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 XX. Participar o emitir instrucciones sobre la participación de terceros, previo acuerdo superior y en coordinación con la Dirección General Jurídica de Protección al Ahorro, en los consejos de administración, asambleas de accionistas, comités y cualquier órgano interno de las sociedades y comités técnicos de los fideicomisos en los que el Instituto tenga interés económico y cuyo objeto sea, entre otros, la administración y enajenación de Bienes y de los bienes de las Instituciones en liquidación o liquidación judicial;
 
-XXI. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con la Dirección General Jurídica de Protección al Ahorro, de los derechos inherentes a títulos de crédito, instrumentos de deuda, acciones o partes sociales en los que el Instituto sea titular o mantenga en garantía, incluyendo aquellos a que se refiere el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXII. Elaborar, y en su caso, compilar el ejemplar del informe detallado a que se refiere el artículo 65 de la Ley, así como proveerlo a las unidades administrativas competentes del Instituto, para su envío al Ejecutivo Federal;
+XXI. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con la Dirección General Jurídica de Protección al Ahorro, de los derechos inherentes a títulos de crédito, instrumentos de deuda, acciones o partes sociales en los que el Instituto sea titular o mantenga en garantía, que deriven de saneamientos bancarios, procesos de liquidación, liquidación judicial y/o concurso mercantil, incluyendo aquellos a que se refiere el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
 
-XXIII. Participar, en coordinación con las unidades administrativas competentes del Instituto, en la integración de los expedientes documentales o Libros Blancos en lo referente a los procesos de enajenación de Bienes y de contratación de terceros especializados relacionados con dichos procesos;
+XXII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+XXIII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 XXIV. Supervisar, en el ámbito de su competencia y en coordinación con la Dirección General Jurídica de Protección al Ahorro, el cumplimiento de las obligaciones contenidas en los fideicomisos, convenios y contratos en los que el Instituto sea parte, o que expresamente le otorguen algún derecho de recuperación, respecto de la administración y enajenación de Bienes, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías que, en su caso, se practiquen;
 
-XXV. Proponer los alcances y elaborar los programas para la realización de auditorías a efecto de supervisar el cumplimiento contractual a que se refiere la fracción XXIV anterior, y
+XXV. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXVI. Informar a la Dirección General Jurídica de lo Contencioso cuando en el ejercicio de la atribución prevista en la fracción XXIV anterior de este artículo, se detecten posibles incumplimientos a los contratos y convenios referidos.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXVI. Informar a la Dirección General Jurídica de lo Contencioso cuando en el ejercicio de la atribución prevista en la fracción XXIV anterior de este artículo, se detecten posibles incumplimientos a los contratos y convenios referidos;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXVII. Implementar los procedimientos de selección de terceros especializados para la realización de las funciones de administrador cautelar de Instituciones y someter la propuesta correspondiente a aprobación superior;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXVIII. Realizar, previo acuerdo superior y en coordinación con las unidades administrativas competentes, los actos necesarios para la integración del consejo consultivo a que se refiere el artículo 138 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXIX. Coordinar y ejecutar, previo acuerdo superior, en el ámbito de su competencia y con la participación de las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los actos necesarios para el otorgamiento del crédito que el administrador cautelar solicite en términos del artículo 29 Bis 15 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXX. Preparar y coordinar la participación de las unidades administrativas competentes, para la implementación de los métodos de resolución a que se refiere el artículo 148 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXI. Presentar a consideración del Secretario Adjunto de Protección al Ahorro Bancario, con la participación de la Dirección General de Finanzas, la propuesta de disposición de los fondos para efectos de lo dispuesto por la fracción II del artículo 13 del presente Estatuto Orgánico, cuando durante la implementación del método de resolución se requiera la disposición de recursos;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXII. Coordinar y ejecutar, previo acuerdo superior, en el ámbito de su competencia y con la participación de las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los actos necesarios para el saneamiento financiero de Instituciones, en términos de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXIII. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo del titular de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con el titular de la Dirección General Jurídica de Protección al Ahorro, de los derechos corporativos y patrimoniales inherentes a los títulos representativos del capital social de Instituciones respecto de las cuales se implemente un método de resolución a través de saneamiento financiero, en términos de lo establecido en la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXIV. Realizar los actos necesarios para la constitución, organización y operación de las Instituciones a que se refiere el artículo 27 Bis 1 de la Ley de Instituciones de Crédito, previo acuerdo superior y en coordinación con las unidades administrativas competentes del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXV. Solicitar, en coordinación con la Dirección General Jurídica de lo Contencioso, a la Comisión Nacional Bancaria y de Valores la información que se considere necesaria para efectos de la solicitud de la declaración de liquidación judicial, en términos de lo previsto en el artículo 226 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXVI. Solicitar a la Comisión Nacional Bancaria y de Valores, previo acuerdo del titular de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con el titular de la Dirección General Jurídica de Protección al Ahorro, el cierre de las oficinas y sucursales de Instituciones o emitir la opinión que sobre dicho cierre solicite la mencionada autoridad, en términos de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXVII. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXVIII. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 22.
 
-Corresponde al titular de la Dirección General de Investigación y Asuntos Internacionales, el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Dirección General de Investigación, Vinculación y Educación Financiera, el ejercicio de las atribuciones siguientes:
 
-I. Atender, en coordinación con las unidades administrativas del Instituto, la relación de éste con organismos e instituciones públicas y privadas, en torno a asuntos de carácter internacional relacionados con el Instituto y fungir como enlace ante dichas entidades;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-II. Coordinar con las unidades administrativas competentes, las relaciones del Instituto con autoridades y otras instancias del Gobierno Federal, en torno a asuntos de carácter internacional vinculados con el Instituto;
+I. Coordinar, previo acuerdo con las unidades administrativas competentes, las actividades de enlace, fomento y planeación, así como la atención de las relaciones institucionales y públicas del Instituto con otras autoridades u organismos, incluyendo las correspondientes en materia de comunicación social, educación financiera y sus obligaciones en términos de la normatividad aplicable;
 
-III. Coordinar, previo acuerdo con el Secretario Adjunto de Protección al Ahorro Bancario, la participación del Instituto en reuniones y foros internacionales relacionados con el seguro de depósito y resoluciones bancarias, así como dar seguimiento y apoyar a las unidades administrativas para atender los compromisos institucionales que se deriven de dicha participación;
+II. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-IV. Participar con la Dirección General Jurídica de Protección al Ahorro, en la negociación, formalización y solicitud de registro de los acuerdos y/o convenios de cooperación e intercambio de información relacionados con el seguro de depósito y resoluciones bancarias que el Instituto celebre en términos del artículo 143 de la Ley de Instituciones de Crédito, la Ley y demás disposiciones aplicables con organismos, autoridades financieras e instituciones públicas y privadas internacionales;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-V. Coordinar con las unidades administrativas competentes del Instituto y realizar los actos necesarios para desahogar las solicitudes de cooperación e intercambio de información que el Instituto formule o reciba de organismos, autoridades financieras e instituciones públicas y privadas internacionales, así como para atender los requerimientos a que se refiere el artículo 143 de la Ley de Instituciones de Crédito;
+III. Coordinar, en el ámbito de su competencia, la participación de los servidores públicos del Instituto en foros nacionales e internacionales, así como su difusión, seguimiento y apoyo a las unidades administrativas, para atender los compromisos institucionales que se deriven de dicha participación;
 
-VI. Dar seguimiento al régimen de operación de otras instituciones que administran sistemas similares al de protección al ahorro bancario que opera el Instituto, así como a los eventos relevantes de carácter financiero que se susciten a nivel mundial e informar periódicamente al Secretario Adjunto de Protección al Ahorro Bancario;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-VII. Realizar investigaciones y estudios relacionados con el seguro de depósito y resoluciones bancarias, a fin de detectar mejores prácticas y la implementación de nuevos programas y cambios de regulación, entre otras medidas, que contribuyan a fortalecer el sistema de protección al ahorro bancario, y elaborar los informes correspondientes, y
+IV. Participar con la Dirección General Jurídica de Protección al Ahorro, en la elaboración, negociación, formalización y solicitud de registro de los acuerdos y/o convenios de cooperación e intercambio de información relacionados con el seguro de depósitos y resoluciones bancarias que el Instituto celebre en términos del artículo 143 de la Ley de Instituciones de Crédito, la Ley y demás disposiciones aplicables con organismos, autoridades financieras e instituciones públicas y privadas nacionales e internacionales;
 
-VIII. Coordinar la elaboración y construcción de modelos financieros y económicos que apoyen las funciones del seguro de depósito.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+V. Coordinar previo acuerdo con las unidades administrativas competentes, el desahogo y atención de las solicitudes de cooperación e intercambio de información que el Instituto formule o reciba de organismos, autoridades financieras e instituciones públicas y privadas nacionales e internacionales, bajo el marco de lo dispuesto por los artículos 97 y 143 de la Ley de Instituciones de Crédito;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VI. Dar seguimiento periódico al régimen de operación y la experiencia de otras entidades que administran sistemas similares al de protección al ahorro bancario que opera el Instituto, así como a los eventos relevantes de carácter financiero que se susciten a nivel nacional e internacional, e informar de ello al personal del Instituto;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VII. Realizar investigaciones y estudios relacionados con el seguro de depósito y resoluciones bancarias, a fin de detectar las mejores prácticas y su implementación por medio de nuevos programas y cambios de regulación, elaborando los informes correspondientes. Asimismo, divulgar información a este respecto como parte de los programas de educación financiera que contribuyan a fortalecer el esquema de protección al ahorro bancario;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VIII. Coordinar, en conjunto con otras autoridades, organismos, entidades e instancias, la organización de eventos, foros y actividades que promuevan una mayor inclusión y educación financiera, con el fin de concientizar al público sobre los beneficios del ahorro formal, el sistema de protección al ahorro bancario y la función del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+IX. Coordinar, previo acuerdo con las unidades administrativas competentes, la elaboración y diseño de contenidos y materiales que promuevan la labor y objeto del Instituto para su difusión a través de medios de comunicación, conforme a la normativa aplicable;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+X. Coordinar las actividades de comunicación interna del Instituto, para promover el correcto uso y aplicación de la imagen e identidad institucional, y para la implementación de las políticas que en materia de comunicación social se establezcan por el Gobierno Federal, en apego a la regulación aplicable y los procedimientos internos, con el fin de fomentar el conocimiento e involucramiento del personal respecto al objeto y actividades del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XI. Coordinar el diseño, elaboración, administración, control y publicación de los contenidos de las páginas de Intranet e/o Internet institucional, en coordinación con la Dirección General de Tecnologías de la Información, con base en la información proporcionada por las unidades administrativas del Instituto y otras entidades;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XII. Coordinar, en el ámbito de su competencia, la divulgación a través de medios de comunicación de los contenidos informativos y noticiosos generados por las unidades administrativas, así como las publicaciones que corresponda efectuar al Instituto conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIII. Planear, diseñar, ejecutar y evaluar, conforme a las disposiciones aplicables, las campañas de comunicación social de interés para el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIV. Coordinar la atención a los medios de comunicación sobre temas relacionados con el Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XV. Fungir como enlace y coordinar la organización, difusión y seguimiento de las conferencias de prensa y las entrevistas para medios y empresas de comunicación.
 
 ###### ARTÍCULO 23.
 
 Corresponde al titular de la Dirección General Jurídica de Protección al Ahorro, el ejercicio de las atribuciones siguientes:
 
-I. Dar seguimiento, en coordinación con las Direcciones Generales de Resoluciones Bancarias y Administración y Seguimiento de Activos y dentro del ámbito de su competencia, al desempeño del administrador cautelar de Instituciones, con base en los informes periódicos y en la documentación que presente al Instituto, en términos de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+I. Dar seguimiento, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias y dentro del ámbito de su competencia, al desempeño del administrador cautelar de Instituciones, con base en los informes periódicos y en la documentación que presente al Instituto, en términos de la Ley de Instituciones de Crédito;
 
 II. Solicitar, conjuntamente con las unidades administrativas competentes, a las Instituciones y a la Comisión Nacional Bancaria y de Valores, la información que se requiera en términos de las disposiciones aplicables;
 
-III. Ejecutar, en el ámbito de su competencia y en coordinación con las Direcciones Generales de Finanzas y de Resoluciones Bancarias, los actos jurídicos necesarios para el saneamiento financiero de Instituciones, en términos de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-IV. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo del titular de la Secretaría Adjunta Jurídica y conjuntamente con la Dirección General de Resoluciones Bancarias, de los derechos corporativos y patrimoniales inherentes a los títulos representativos del capital social de Instituciones respecto de las cuales se implemente un método de resolución en términos de lo establecido en la Ley de Instituciones de Crédito;
+III. Ejecutar, en el ámbito de su competencia y en coordinación con las Direcciones Generales de Finanzas y de Gestión de Resoluciones Bancarias, los actos jurídicos necesarios para el saneamiento financiero de Instituciones, en términos de la Ley de Instituciones de Crédito;
 
-V. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales de Resoluciones Bancarias y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-VI. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+IV. Ejercer o emitir instrucciones sobre el ejercicio, previo acuerdo del titular de la Secretaría Adjunta Jurídica y conjuntamente con la Dirección General de Gestión de Resoluciones Bancarias, de los derechos corporativos y patrimoniales inherentes a los títulos representativos del capital social de Instituciones respecto de las cuales se implemente un método de resolución en términos de lo establecido en la Ley de Instituciones de Crédito;
 
-VII. Ejercer, en coordinación con la Dirección General de Resoluciones Bancarias, las atribuciones del Instituto en su carácter de liquidador o liquidador judicial de Instituciones, en los casos en que no exista un tercero contratado para ello;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-VIII. Participar, en coordinación con la Dirección General de Resoluciones Bancarias, en la supervisión de los procesos de liquidación y liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador o apoderado liquidador judicial, tratándose de procesos conducidos mediante terceros apoderados por el Instituto, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías que, en su caso, se practiquen;
+V. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales de Gestión de Resoluciones Bancarias y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VI. Participar, con la Dirección General de Métodos de Resolución, en la elaboración, para aprobación superior y considerando, en su caso, los resultados del estudio técnico efectuado de conformidad con el artículo 187 de la Ley de Instituciones de Crédito, de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación, conforme a dicha Ley;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VII. Ejercer, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, las atribuciones del Instituto en su carácter de liquidador o liquidador judicial de Instituciones, en los casos en que no exista un tercero contratado para ello;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VIII. Participar, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, en la supervisión de los procesos de liquidación y liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador o apoderado liquidador judicial, tratándose de procesos conducidos mediante terceros apoderados por el Instituto, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías que, en su caso, se practiquen;
 
 IX. Implementar, previo acuerdo superior y en coordinación con la Dirección General de Visitas de Inspección los aspectos jurídicos de los procedimientos para realizar el pago de las obligaciones garantizadas y el pago de las obligaciones a que se refiere el artículo 198 de la Ley de Instituciones de Crédito;
 
-X. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y de Resoluciones Bancarias, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+X. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y de Gestión de Resoluciones Bancarias, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto;
 
-XI. Solicitar a la Secretaría de Hacienda y Crédito Público, conjuntamente con la Dirección General de Finanzas, la inscripción de los títulos de crédito, documentos contractuales e instrumentos mediante los cuales se generen pasivos directos o contingentes a cargo del Instituto o sirvan para refinanciar sus obligaciones, en el registro a que se refiere el artículo 27 de la Ley General de Deuda Pública;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XII. Participar, en coordinación con las Direcciones Generales de Resoluciones Bancarias y de Finanzas, en la celebración de los actos para el otorgamiento de los recursos necesarios para la operación de las Instituciones organizadas y operadas por el Instituto;
+XI. Solicitar a la Secretaría de Hacienda y Crédito Público, conjuntamente con la Dirección General de Finanzas, la inscripción de los títulos de crédito, documentos contractuales e instrumentos mediante los cuales se generen pasivos directos o contingentes a cargo del Instituto o sirvan para refinanciar sus obligaciones, en el registro a que se refiere el artículo 27 de la Ley Federal de Deuda Pública;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XII. Participar, en coordinación con las Direcciones Generales de Gestión de Resoluciones Bancarias y de Finanzas, en la celebración de los actos para el otorgamiento de los recursos necesarios para la operación de las Instituciones organizadas y operadas por el Instituto;
 
 XIII. Emitir, previo acuerdo superior y conjuntamente con la Dirección General de Seguimiento de Instituciones y Análisis, la opinión que corresponda respecto de las solicitudes que formule la Comisión Nacional Bancaria y de Valores en términos de lo previsto en el artículo 28 de la Ley de Instituciones de Crédito;
 
-XIV. Solicitar a la Comisión Nacional Bancaria y de Valores, previo acuerdo del titular de la Secretaría Adjunta Jurídica y conjuntamente con la Dirección General de Resoluciones Bancarias el cierre de las oficinas y sucursales de Instituciones o emitir la opinión que sobre dicho cierre solicite la mencionada autoridad, en términos de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XV. Llevar a cabo, en coordinación con la Dirección General de Finanzas, la instrumentación jurídica relacionada con la emisión y colocación de instrumentos financieros que emita el Instituto en los mercados nacionales y extranjeros, así como la relacionada con la contratación de instrumentos de operaciones financieras conocidas como derivadas;
+XIV. Solicitar a la Comisión Nacional Bancaria y de Valores, previo acuerdo del titular de la Secretaría Adjunta Jurídica y conjuntamente con la Dirección General de Gestión de Resoluciones Bancarias el cierre de las oficinas y sucursales de Instituciones o emitir la opinión que sobre dicho cierre solicite la mencionada autoridad, en términos de la Ley de Instituciones de Crédito;
 
-XVI. Ejercer o emitir instrucciones sobre el ejercicio, en el ámbito de su competencia y conjuntamente con la Dirección General de Finanzas, de los derechos corporativos y patrimoniales inherentes a títulos de crédito e instrumentos de deuda o de capital en los que el Instituto sea titular, distintos a los que corresponde ejercer a otras unidades administrativas de la Secretaría Adjunta de Protección al Ahorro Bancario;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVII. Ejercer o emitir instrucciones sobre el ejercicio, previa instrucción superior y conjuntamente con la Dirección General de Administración y Seguimiento de Activos, de los derechos inherentes a títulos de crédito, instrumentos de deuda, acciones o partes sociales en los que el Instituto sea titular o mantenga en garantía, incluyendo aquellos a que se refiere el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
+XV. Llevar a cabo, en coordinación con la Dirección General de Finanzas, la instrumentación jurídica relacionada con la emisión, colocación, liquidación, compraventa y redención de instrumentos financieros que emita el Instituto en los mercados nacionales y extranjeros, así como la relacionada con la negociación de los términos y condiciones de los contratos marco para la celebración de operaciones con instrumentos financieros derivados;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVI. Ejercer o emitir instrucciones sobre el ejercicio, en el ámbito de su competencia y conjuntamente con la Dirección General de Finanzas, de los derechos corporativos y patrimoniales inherentes a títulos de crédito e instrumentos de deuda o de capital en los que el Instituto sea titular, distintos a los que corresponde ejercer a la Dirección General de Gestión de Resoluciones Bancarias;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVII. Ejercer o emitir instrucciones sobre el ejercicio, previa instrucción superior y conjuntamente con la Dirección General de Gestión de Resoluciones Bancarias, de los derechos inherentes a títulos de crédito, instrumentos de deuda, acciones o partes sociales en los que el Instituto sea titular o mantenga en garantía, incluyendo aquellos a que se refiere el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
 
 XVIII. Celebrar, conjuntamente con la Dirección General de Finanzas, los contratos relacionados con las actividades y operaciones de tesorería y planeación financiera que no generen pasivos a cargo del Instituto;
 
-XIX. Realizar, en coordinación con la Dirección General de Administración y Seguimiento de Activos, los actos necesarios para la administración y enajenación de Bienes, y de los bienes de las Instituciones en liquidación o liquidación judicial, cuando éstos no se lleven a cabo por terceros especializados o terceros apoderados por el Instituto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XX. Participar o emitir instrucciones sobre la participación de terceros, previo acuerdo superior y en coordinación con la Dirección General de Administración y Seguimiento de Activos, en los consejos de administración, asambleas de accionistas, comités y cualquier órgano interno de las sociedades y comités técnicos de los fideicomisos en los que el Instituto tenga interés económico y cuyo objeto sea, entre otros, la administración y enajenación de Bienes y de los bienes de Instituciones en liquidación o liquidación judicial;
+XIX. Realizar, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, los actos necesarios para la administración y enajenación de Bienes, y de los bienes de las Instituciones en liquidación o liquidación judicial, cuando éstos no se lleven a cabo por terceros especializados o terceros apoderados por el Instituto;
 
-XXI. Supervisar, en el ámbito de su competencia y en coordinación con la Dirección General de Administración y Seguimiento de Activos, el cumplimiento de las obligaciones contenidas en los fideicomisos, convenios y contratos en los que el Instituto sea parte, o que expresamente le otorguen algún derecho de recuperación, respecto de la administración y enajenación de Bienes, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías que, en su caso, se practiquen;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XX. Participar o emitir instrucciones sobre la participación de terceros, previo acuerdo superior y en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, en los consejos de administración, asambleas de accionistas, comités y cualquier órgano interno de las sociedades y comités técnicos de los fideicomisos en los que el Instituto tenga interés económico y cuyo objeto sea, entre otros, la administración y enajenación de Bienes y de los bienes de Instituciones en liquidación o liquidación judicial;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXI. Supervisar, en el ámbito de su competencia y en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, el cumplimiento de las obligaciones contenidas en los fideicomisos, convenios y contratos en los que el Instituto sea parte, o que expresamente le otorguen algún derecho de recuperación, respecto de la administración y enajenación de Bienes, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías que, en su caso, se practiquen;
 
 XXII. Realizar, en coordinación con la Dirección General de Visitas de Inspección, las notificaciones de las visitas de inspección que se realicen a las Instituciones en términos de la Ley, la Ley de Instituciones de Crédito y el Reglamento del Instituto;
 
-XXIII. Elaborar y suscribir, conjuntamente con la Dirección General de Administración y Seguimiento de Activos, los convenios que se requieran para formalizar las operaciones de administración y enajenación de Bienes en las que el Instituto sea parte;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXIV. Llevar a cabo, en coordinación con la Dirección General de Resoluciones Bancarias, los actos necesarios, en carácter de liquidador, cuando no exista un tercero contratado para ello, para proceder a la sustitución de los deberes fiduciarios en la liquidación, en términos de lo dispuesto por el artículo 185 de la Ley de Instituciones de Crédito;
+XXIII. Elaborar y suscribir, conjuntamente con la Dirección General de Gestión de Resoluciones Bancarias, los convenios que se requieran para formalizar las operaciones de administración y enajenación de Bienes en las que el Instituto sea parte;
 
-XXV. Participar, en coordinación con la Dirección General de Investigación y Asuntos Internacionales, en la negociación, formalización y solicitud de registro de los acuerdos y convenios de cooperación e intercambio de información relacionados con el seguro de depósito y resoluciones bancarias que el Instituto celebre en términos de la Ley, Ley de Instituciones de Crédito y demás disposiciones aplicables con organismos, autoridades financieras e instituciones públicas y privadas internacionales;
+XXIV. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
-XXVI. Participar, en el ámbito de su competencia y en coordinación con la Dirección General de Administración y Seguimiento de Activos, en el seguimiento a los procesos de administración y enajenación de los Bienes, que sean transferidos para dichos efectos al Servicio de Administración y Enajenación de Bienes, en términos de los convenios que se suscriban y de conformidad con los informes que dicha entidad presente;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXVII. Elaborar, conjuntamente con la Dirección General de Administración y Seguimiento de Activos, los programas, procedimientos, políticas y lineamientos previstos en el artículo 21, fracción IX, del presente Estatuto;
+XXV. Participar, en coordinación con la Dirección General de Investigación, Vinculación y Educación Financiera, en la negociación, formalización y solicitud de registro de los acuerdos y convenios de cooperación e intercambio de información relacionados con el seguro de depósito y resoluciones bancarias que el Instituto celebre en términos de la Ley, la Ley de Instituciones de Crédito y demás disposiciones aplicables con organismos, autoridades financieras e instituciones públicas y privadas internacionales;
+
+XXVI. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
+
+XXVII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 XXVIII. Conocer, dentro del ámbito de su competencia, los requerimientos efectuados al Instituto por la Auditoría Superior de la Federación y otras entidades fiscalizadoras y coordinar lo necesario para su atención con las unidades administrativas del Instituto, así como suscribir, conjuntamente con éstas, los documentos con los que se dé atención a dichos requerimientos;
 
-XXIX. Elaborar y, en su caso, suscribir, los convenios y contratos que deba celebrar el Instituto en relación con las atribuciones a que se refiere este artículo;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXIX. Elaborar y, en su caso, suscribir, los convenios y contratos que deba celebrar el Instituto en relación con las atribuciones a que se refiere este artículo, con excepción de los regulados por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público que correspondan a otras unidades administrativas;
 
 XXX. En general, otorgar apoyo y asesoría en relación con los asuntos que, en el ámbito de su competencia, sean sometidos a su consideración por las unidades administrativas;
 
-XXXI. Elaborar, en coordinación con las Direcciones Generales de Seguimiento de Instituciones y Análisis y de Investigación y Asuntos Internacionales, la propuesta de convenios de intercambio de información o acuerdos de coordinación que celebre el Instituto, conforme a los artículos 97, 123 y 143 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+XXXI. Elaborar, en coordinación con las Direcciones Generales de Seguimiento de Instituciones y Análisis y de Investigación, Vinculación y Educación Financiera, la propuesta de convenios de intercambio de información o acuerdos de coordinación que celebre el Instituto, conforme a los artículos 97, 123 y 143 de la Ley de Instituciones de Crédito;
 
-XXXII. Participar con las Direcciones Generales de Visitas de Inspección, de Seguimiento de Instituciones y Análisis y de Resoluciones Bancarias en el análisis para resolver las solicitudes relativas a los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXII. Participar con las Direcciones Generales de Visitas de Inspección, de Seguimiento de Instituciones y Análisis, de Métodos de Resolución y Gestión de Resoluciones Bancarias, en el análisis para resolver las solicitudes relativas a los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
 XXXIII. Participar con la Dirección General de Seguimiento de Instituciones y Análisis, en la emisión de la opinión que solicite al Instituto la Comisión Nacional Bancaria y de Valores, previo acuerdo del Secretario Adjunto Jurídico, respecto del plan de contingencia que formulen las Instituciones, en términos del artículo 119 de la Ley de Instituciones de Crédito;
 
-XXXIV. Participar, con la Dirección General de Resoluciones Bancarias, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXXV. Participar, en coordinación con la Dirección General de Resoluciones Bancarias y en el ámbito de su competencia, en la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
+XXXIV. Participar, con la Dirección General de Métodos de Resolución, en la elaboración de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito, así como en las actividades vinculadas con los simulacros de ejecución de dichos planes;
 
-XXXVI. Participar, en coordinación con las Direcciones Generales de Finanzas y de Resoluciones Bancarias, en los actos necesarios para el otorgamiento del crédito que el administrador cautelar solicite en términos del artículo 29 Bis 15 de la Ley de Instituciones de Crédito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXV. Participar, en coordinación con la Dirección General de Métodos de Resolución y en el ámbito de su competencia, en la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo para la elaboración de la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXXVI. Participar, en coordinación con las Direcciones Generales de Finanzas y de Gestión de Resoluciones Bancarias, en los actos necesarios para el otorgamiento del crédito que el administrador cautelar solicite en términos del artículo 29 Bis 15 de la Ley de Instituciones de Crédito;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 XXXVII. Solicitar al Banco de México, conjuntamente con la Dirección General de Seguimiento de Instituciones y Análisis y la Dirección General de Finanzas, se realice el cargo correspondiente al importe de las cuotas que deban pagar las Instituciones, y
 
-XXXVIII. Elaborar, conjuntamente con la Dirección General de Administración y Seguimiento de Activos, el procedimiento a que se refiere el artículo 209 de la Ley de Instituciones de Crédito, para que se someta a la consideración del Secretario Ejecutivo, para su posterior autorización por parte de la Junta de Gobierno.
+XXXVIII. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 24.
 
@@ -859,7 +1157,9 @@ Corresponde al titular de la Dirección General Jurídica de lo Contencioso, el 
 
 I. Representar al Instituto en cualquier tipo de controversias judiciales, del trabajo, administrativas, arbitrales o de cualquier otra especie, en las que éste sea parte o resulte afectado, ejercitando las acciones, excepciones y defensa correspondientes, ofreciendo y desahogando pruebas, tachando testigos, presentando y respondiendo posiciones mediante oficio y formulando alegatos, interponiendo los recursos correspondientes, incluyendo aquellas atribuciones que requieran de poder o cláusula especial, incluso, desistirse, allanarse y transigir, en este último caso previa aprobación del titular de la Secretaría Adjunta Jurídica;
 
-II. Representar al Instituto en los juicios de amparo que inicie, elaborar y rendir los informes previos y justificados que se requieran, autorizar delegados en los términos del artículo 19 de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, comparecer en las audiencias constitucionales, ofrecer y desahogar pruebas, formular alegatos, interponer los recursos correspondientes e intervenir cuando el Instituto tenga el carácter de tercero perjudicado, así como para proveer el cumplimiento de las ejecutorias;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+II. Representar al Instituto en los juicios de amparo que inicie, elaborar y rendir los informes previos y justificados que se requieran, autorizar delegados en los términos del artículo 9 de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, comparecer en las audiencias constitucionales, ofrecer y desahogar pruebas, formular alegatos, interponer los recursos correspondientes e intervenir cuando el Instituto tenga el carácter de tercero perjudicado, así como para proveer el cumplimiento de las ejecutorias;
 
 III. Presentar denuncias o querellas en contra de quien o quienes resulten presuntos responsables de la comisión de algún delito sancionado por las leyes respectivas y, en su caso, previa autorización de la Junta de Gobierno e instrucción del Secretario Ejecutivo otorgar el perdón;
 
@@ -869,13 +1169,19 @@ V. Representar a los Vocales de la Junta de Gobierno, al Secretario Ejecutivo, a
 
 VI. Formular la solicitud de declaración de liquidación judicial ante la autoridad competente en los casos en que así lo haya aprobado la Junta de Gobierno;
 
-VII. Ejercer, en coordinación con la Dirección General de Resoluciones Bancarias, las atribuciones del Instituto en su carácter de liquidador o liquidador judicial de Instituciones, en los casos en que no exista un tercero contratado para ello, respecto de los juicios en que sea parte la Institución o tenga interés;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VII. Ejercer, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, las atribuciones del Instituto en su carácter de liquidador o liquidador judicial de Instituciones, en los casos en que no exista un tercero contratado para ello, respecto de los juicios en que sea parte la Institución o tenga interés;
 
 VIII. Supervisar el desempeño de los terceros contratados para auxiliar al Instituto respecto de los juicios en que sea parte la Institución o tenga interés, en los casos en que no exista un apoderado liquidador o apoderado liquidador judicial, con base en los informes periódicos y en los planes de trabajo que se establezcan;
 
-IX. Participar, en coordinación con la Dirección General de Resoluciones Bancarias, en la supervisión de los procesos de liquidación y liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador o apoderado liquidador judicial, tratándose de procesos conducidos mediante terceros apoderados por el Instituto, respecto de los procedimientos legales o jurisdiccionales en que sea parte el Instituto o la Institución, por cuenta propia o en su carácter de fiduciaria, con base en los informes periódicos y en los planes de trabajo que se establezcan;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-X. Solicitar, en coordinación con la Dirección General de Resoluciones Bancarias, a la Comisión Nacional Bancaria y de Valores la información que se considere necesaria para efectos de la solicitud de la declaración de liquidación judicial, en términos de lo previsto en el artículo 226 de la Ley de Instituciones de Crédito;
+IX. Participar, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, en la supervisión de los procesos de liquidación y liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador o apoderado liquidador judicial, tratándose de procesos conducidos mediante terceros apoderados por el Instituto, respecto de los procedimientos legales o jurisdiccionales en que sea parte el Instituto o la Institución, por cuenta propia o en su carácter de fiduciaria, con base en los informes periódicos y en los planes de trabajo que se establezcan;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+X. Solicitar, en coordinación con la Dirección General de Gestión de Resoluciones Bancarias, a la Comisión Nacional Bancaria y de Valores la información que se considere necesaria para efectos de la solicitud de la declaración de liquidación judicial, en términos de lo previsto en el artículo 226 de la Ley de Instituciones de Crédito;
 
 XI. Coordinar, previo acuerdo superior, la cobranza por la vía judicial de los créditos, títulos o derechos de los cuales el Instituto sea titular;
 
@@ -889,9 +1195,13 @@ XIV. Ratificar ante la autoridad laboral, cualquier tipo de convenio que el Inst
 
 XV. Proporcionar, en el ámbito de su competencia, asesoría y apoyo en materia administrativa, laboral, civil, penal o de cualquier otra naturaleza a las unidades administrativas del Instituto;
 
-XVI. Analizar, a solicitud de la Dirección General de Administración y Seguimiento de Activos, cuando se detecten posibles incumplimientos a los contratos y convenios a los que se refiere la fracción XXIV del artículo 21 del presente Estatuto y, en su caso, llevar a cabo las acciones legales que correspondan;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVII. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales de Resoluciones Bancarias y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
+XVI. Analizar, a solicitud de la Dirección General de Gestión de Resoluciones Bancarias, cuando se detecten posibles incumplimientos a los contratos y convenios a los que se refiere la fracción XXIV del artículo 21 del presente Estatuto Orgánico y, en su caso, llevar a cabo las acciones legales que correspondan;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVII. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales de Gestión de Resoluciones Bancarias y Jurídica de Protección al Ahorro, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
 
 XVIII. Conocer, analizar y, en su caso, autorizar las solicitudes presentadas por las Instituciones o terceros respecto del pago de obligaciones indemnizatorias previstas en los contratos en que el Instituto sea parte o causahabiente y, en su caso, resolver sobre su reconsideración;
 
@@ -901,17 +1211,17 @@ XX. Auxiliarse en el ejercicio de las atribuciones legales y administrativas de 
 
 XXI. Solicitar al Banco de México, conjuntamente con la Dirección General de Finanzas, se realice el cargo correspondiente al importe de las multas que deban pagar las Instituciones, en términos de lo previsto en los artículos 109 Bis 5 de la Ley de Instituciones de Crédito y 92 de la Ley;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXII. Participar con las Direcciones Generales de Visitas de Inspección, de Seguimiento de Instituciones y Análisis y de Resoluciones Bancarias en el análisis para resolver las solicitudes relativas a los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
+XXII. Participar con las Direcciones Generales de Visitas de Inspección, de Seguimiento de Instituciones y Análisis y de Métodos de Resolución en el análisis para resolver las solicitudes relativas a los programas de autocorrección que presenten las Instituciones al Instituto, en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXIII. Participar, en coordinación con la Dirección General de Resoluciones Bancarias y en el ámbito de su competencia, en la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo en la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
+XXIII. Participar, en coordinación con la Dirección General de Métodos de Resolución y en el ámbito de su competencia, en la elaboración del estudio técnico o el análisis que permita determinar la regla de menor costo en la propuesta relativa al método de resolución de Instituciones o a las operaciones para su liquidación;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XXIV. Solicitar a la Dirección General de Comunicación Social y Relaciones Institucionales, en términos de los lineamientos a que se refieren los artículos 94 de la Ley y 109 Bis 8 de la Ley de Instituciones de Crédito, la publicación de la información a que dichos preceptos se refieren, en el portal de Internet del Instituto, y
+XXIV. Solicitar a la Dirección General de Investigación, Vinculación y Educación Financiera, en términos de los lineamientos a que se refieren los artículos 94 de la Ley y 109 Bis 8 de la Ley de Instituciones de Crédito, la publicación de la información a que dichos preceptos se refieren, en el portal de Internet del Instituto, y
 
 > <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
@@ -925,11 +1235,13 @@ I. Elaborar, en coordinación con las unidades administrativas competentes, los 
 
 II. Analizar, en coordinación con las unidades administrativas competentes, los proyectos de iniciativas de ley, reglamentos y demás disposiciones generales relacionadas con la competencia del Instituto;
 
-III. Elaborar estudios jurídicos y resolver consultas sobre asuntos competencia del Instituto, que le sean encomendados por la Junta de Gobierno o por cualquiera de los titulares de las unidades administrativas;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
+III. Elaborar estudios jurídicos, asesorar y resolver consultas sobre asuntos competencia del Instituto, que le sean encomendados por la Junta de Gobierno o por cualquiera de los titulares de las unidades administrativas;
 
-IV. Recibir o dar seguimiento a las consultas efectuadas por terceros, sobre asuntos concernientes a la competencia del Instituto, cuya gestión o trámite no estén asignados expresamente a otra unidad administrativa, a fin de canalizarlas a las unidades administrativas competentes para su atención, así como apoyar al Secretario Adjunto Jurídico en la atención a las solicitudes de información conforme a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+IV. Recibir o dar seguimiento a las consultas efectuadas por terceros, sobre asuntos concernientes a la competencia del Instituto, cuya gestión o trámite no estén asignados expresamente a otra unidad administrativa, a fin de canalizarlas a las unidades administrativas competentes para su atención, así como apoyar al Secretario Adjunto Jurídico en la atención de las solicitudes de información y de datos personales, así como en el cumplimiento de las obligaciones de transparencia conforme a la normativa aplicable;
 
 V. Elaborar, en coordinación con las unidades administrativas del Instituto, los proyectos de Estatuto Orgánico y de condiciones generales de trabajo, y sus modificaciones;
 
@@ -937,13 +1249,19 @@ VI. Efectuar los actos necesarios para la publicación en el Diario Oficial de l
 
 VII. Remitir, en coordinación con las unidades administrativas competentes, la documentación e información que el Ejecutivo Federal o el Congreso de la Unión requieran al Instituto o que deba entregarse con motivo de sus atribuciones;
 
-VIII. Gestionar la formalización de los poderes, mandatos y comisiones que el Instituto celebre, designando a los fedatarios públicos respectivos;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VIII. Gestionar la formalización de los poderes, mandatos, comisiones y otros instrumentos que el Instituto celebre o requiera, designando a los fedatarios públicos respectivos;
 
 IX. Llevar el registro de los poderes otorgados por el Instituto a través del Secretario Ejecutivo y demás funcionarios facultados;
 
-X. Certificar los documentos y las firmas de los servidores públicos del Instituto relacionados con el ejercicio de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XI. Revisar y, en su caso, elaborar los contratos y convenios administrativos que le correspondan en el ámbito de su competencia;
+X. Cotejar y/o certificar los documentos y las firmas de los servidores públicos del Instituto relacionados con el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XI. Revisar y, en su caso, elaborar los contratos y convenios administrativos regulados por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público que correspondan a otras unidades administrativas y los de su ámbito de competencia;
 
 XII. Compilar, difundir y concentrar las disposiciones que integran el marco normativo aplicable al Instituto;
 
@@ -961,7 +1279,21 @@ XVI. Revisar, en coordinación con las unidades administrativas competentes, la 
 
 XVII. Llevar un registro y resguardo de los convenios, acuerdos de coordinación y, en general, instrumentos jurídicos que el Instituto celebre en el ámbito de sus atribuciones, con excepción de los relativos a las contrataciones públicas a que se refiere la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y
 
-XVIII. Conocer, dentro del ámbito de su competencia, los requerimientos efectuados al Instituto por la Auditoría Superior de la Federación y otras entidades fiscalizadoras y coordinar lo necesario para su atención con las unidades administrativas del Instituto, así como suscribir conjuntamente con éstas, los documentos con los que se dé atención a dichos requerimientos.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVIII. Conocer, dentro del ámbito de su competencia, los requerimientos efectuados al Instituto por la Auditoría Superior de la Federación y otras entidades fiscalizadoras y coordinar lo necesario para su atención con las unidades administrativas del Instituto, así como suscribir conjuntamente con éstas, los documentos con los que se dé atención a dichos requerimientos;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIX. Llevar a cabo el seguimiento de los temas de interés para el Instituto que se debatan en el Congreso de la Unión;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XX. Emitir, en el ámbito de su competencia, los criterios jurídicos a seguir por el Instituto, en relación con las atribuciones que le son conferidas en diversos ordenamientos, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XXI. Sustanciar el procedimiento de responsabilidad patrimonial del Estado, de conformidad con la ley de la materia y la Ley Federal de Procedimiento Administrativo.
 
 > <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
@@ -969,9 +1301,15 @@ XVIII. Conocer, dentro del ámbito de su competencia, los requerimientos efectua
 
 Corresponde al titular de la Dirección General Adjunta de Administración, el ejercicio de las atribuciones siguientes:
 
-I. Elaborar y aplicar políticas y lineamientos en materia de recursos materiales, adquisiciones y expedientes documentales o Libros Blancos del Instituto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+I. Elaborar y aplicar políticas y lineamientos en materia de recursos materiales, servicios generales, adquisiciones y expedientes documentales o Libros Blancos del Instituto;
 
 II. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+II Bis. Coordinar las acciones que faciliten el cumplimiento de los compromisos institucionales de apego a la ética, de prevención de conflictos de interés y de respeto a la equidad de género;
 
 III. Integrar y desarrollar en el ámbito de su competencia los programas y acciones institucionales en materia de modernización, innovación, transparencia, simplificación y productividad que establezcan las autoridades correspondientes;
 
@@ -983,9 +1321,13 @@ VI. Rescindir los contratos y demás documentos a que se refiere la fracción in
 
 VII. Coordinar, en el ámbito de su competencia y a solicitud de las unidades administrativas correspondientes, la celebración de conferencias, congresos y seminarios;
 
-VIII. Actualizar e implementar, conforme a las disposiciones aplicables, las acciones relativas a los recursos materiales, financieros, servicios generales y control interno;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-IX. Elaborar, emitir y aplicar los lineamientos y las normas para regular la utilización de los bienes muebles e inmuebles, así como para su conservación, mantenimiento y aprovechamiento para el servicio del Instituto;
+VIII. Actualizar e implementar, conforme a las disposiciones aplicables, las acciones relativas a los recursos materiales, las adquisiciones, servicios generales y control interno;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+IX. Elaborar, emitir y aplicar los lineamientos y las normas para regular la utilización de los bienes muebles e inmuebles, así como para su conservación, mantenimiento y óptimo aprovechamiento para el servicio del Instituto;
 
 X. Implementar las actividades correspondientes en materia de seguridad y protección civil, conforme a la normativa vigente;
 
@@ -993,11 +1335,21 @@ XI. Compilar el ejemplar de la memoria a que se refiere el artículo 66 de la Le
 
 XII. Coordinar la integración, resguardo y consulta de información de los expedientes documentales o Libros Blancos de cada una de las operaciones establecidas en la normativa aplicable al Instituto, así como de aquellos que se requieran integrar a solicitud de la Junta de Gobierno, el Secretario Ejecutivo o los Secretarios Adjuntos, en coordinación con las unidades administrativas ejecutoras;
 
-XIII. Coordinar a las unidades administrativas del Instituto para la adecuada organización y funcionamiento de sus archivos, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás normativa aplicable;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XIV. Proporcionar, en coordinación con la Dirección General Adjunta de Presupuesto y Contabilidad, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto, y
+XIII. Coordinar a las unidades administrativas del Instituto para la adecuada organización y funcionamiento de sus archivos, en los términos de la normatividad aplicable;
 
-XV. Representar al Instituto ante la Secretaría de Hacienda y Crédito Público y el Gobierno del Distrito Federal para el cumplimiento de las obligaciones tributarias y realizar trámites, consultas e integrar la información que sea requerida por la normativa en materia fiscal federal y local.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIV. Proporcionar, en coordinación con la Dirección General Adjunta de Presupuesto y Contabilidad, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XV. Representar al Instituto ante la Secretaría de Hacienda y Crédito Público y el Gobierno de la Ciudad de México para el cumplimiento de las obligaciones tributarias y realizar trámites, consultas e integrar la información que sea requerida por la normativa en materia fiscal federal y local, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVI. Coordinar conjuntamente con la Dirección General Adjunta de Presupuesto y Contabilidad, el ejercicio del gasto asignado a las diferentes unidades administrativas del Instituto en materia de adquisiciones y servicios generales.
 
 > <small>(ADICIONADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
@@ -1005,9 +1357,13 @@ XV. Representar al Instituto ante la Secretaría de Hacienda y Crédito Público
 
 Corresponde al titular de la Dirección General Adjunta de Recursos Humanos, el ejercicio de las atribuciones siguientes:
 
-I. Elaborar y aplicar las políticas, lineamientos y procesos de reclutamiento, selección, contratación, movimientos, administración del desempeño, sanciones, bajas de personal y demás procesos en materia de administración de personal, así como rescindir o cesar la relación del trabajo del Instituto con sus trabajadores;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-II. Tramitar los nombramientos y movimientos de personal y resolver, conforme a la legislación aplicable, los casos de terminación de sus efectos, así como imponer las medidas disciplinarias y sanciones administrativas previstas en las disposiciones aplicables;
+I. Elaborar y aplicar las políticas, lineamientos y procesos de reclutamiento, selección, contratación, movimientos, administración del desempeño, sanciones, bajas de personal y demás procesos en materia de administración de personal; incluida la contratación de las personas que presten sus servicios profesionales bajo el régimen de honorarios asimilados a salarios;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+II. Tramitar los nombramientos y movimientos de personal y resolver, conforme a la legislación aplicable, los casos de terminación de sus efectos;
 
 III. Celebrar cualquier tipo de convenio, en representación del Instituto en su calidad de patrón, con sus trabajadores;
 
@@ -1021,15 +1377,41 @@ VI. Coordinar la elaboración y modificaciones de las condiciones generales de t
 
 VII. Integrar y operar el servicio profesional de carrera, así como el programa anual de capacitación y desarrollo del personal del Instituto;
 
-VIII. Controlar, proponer y actualizar las estructuras orgánicas del Instituto, vigilar que sus unidades administrativas se ajusten a las mismas y registrar sus modificaciones aprobadas ante las dependencias rectoras en la materia;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+VIII. Proponer al Secretario Ejecutivo la estructura orgánica y ocupacional del Instituto y sus modificaciones para el cumplimiento de los objetivos institucionales y registrar sus modificaciones aprobadas ante las dependencias rectoras en la materia; vigilando que las unidades administrativas se ajusten a las mismas;
 
 IX. Fomentar y coordinar la participación del personal en eventos de capacitación, culturales, deportivos y sociales;
 
 X. Integrar y desarrollar los programas y acciones institucionales de recursos humanos que establezcan las autoridades correspondientes;
 
-XI. Desarrollar e implementar programas que permitan mejorar el clima organizacional, fomentar los valores y la retención del talento y capital humano del Instituto, y
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XII. Implementar la suscripción de acuerdos de coordinación con el Banco de México o la Comisión Nacional Bancaria y de Valores para que personal de esas instancias preste temporalmente sus servicios al Instituto en términos de lo dispuesto en el artículo 149 de la Ley de Instituciones de Crédito.
+XI. Desarrollar e implementar programas que permitan mejorar el clima organizacional, fomentar los valores y la retención del talento y capital humano del Instituto;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XII. Participar en la suscripción de acuerdos de coordinación con el Banco de México o la Comisión Nacional Bancaria y de Valores para que personal de esas instancias preste temporalmente sus servicios al Instituto en términos de lo dispuesto en el artículo 149 de la Ley de Instituciones de Crédito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIII. Planear, programar y ejercer el presupuesto de servicios personales del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIV. Imponer en coordinación con la Dirección General Jurídica de lo Contencioso, las sanciones y/o medidas disciplinarias al personal, de acuerdo con el procedimiento y las disposiciones aplicables; así como rescindir o cesar la relación de trabajo del Instituto con sus trabajadores;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XV. Dar cumplimiento a las resoluciones, laudos o sentencias en materia laboral en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVI. Expedir hojas de servicios, constancias, credenciales y demás documentos relativos al personal del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVII. Suscribir convenios de colaboración con instituciones de educación superior para establecer programas de servicio social y prácticas profesionales.
 
 ###### ARTÍCULO 27.
 
@@ -1051,37 +1433,61 @@ VII. Registrar y procesar presupuestal y contablemente las operaciones del Insti
 
 VIII. Suscribir, en representación del Instituto, los contratos o convenios con las instituciones de crédito para el manejo del gasto de administración del Instituto;
 
-IX. Emitir estados financieros mensuales, elaborar trimestral y anualmente las notas a los mismos, y en el caso de los estados financieros anuales y sus notas, someterlos a revisión y comentarios de los titulares de las unidades administrativas competentes del Instituto;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-X. Elaborar los estados analítico de ingresos presupuestales y del ejercicio presupuestal del gasto e informes sobre el ejercicio programático presupuestal y de la Cuenta de la Hacienda Pública Federal del Instituto, así como los libros contables, conforme a las disposiciones que emita la Secretaría de Hacienda y Crédito Público;
+IX. Emitir los estados de situación financiera y de actividades mensuales, asimismo, elaborar trimestral y anualmente los estados financieros acompañados de notas a los mismos, y en el caso de los estados financieros anuales y sus notas, someterlos a revisión y comentarios de los titulares de las unidades administrativas competentes del Instituto;
 
-XI. Representar al Instituto ante la Secretaría de Hacienda y Crédito Público y el Gobierno del Distrito Federal para el cumplimiento de las obligaciones tributarias y realizar trámites, consultas e integrar la información que sea requerida por la normativa en materia fiscal federal y local;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XII. Coordinar la información requerida por el Comité de Información del Gobierno Federal e integrarla y transmitirla en los formatos vigentes al Sistema Integral de Información;
+X. Elaborar los estados analíticos de ingresos presupuestales y del ejercicio presupuestal del gasto e informes sobre el ejercicio programático presupuestal, para su integración en la Cuenta de la Hacienda Pública Federal del Instituto, conforme a las disposiciones que emita la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XI. Representar al Instituto ante la Secretaría de Hacienda y Crédito Público y el Gobierno de la Ciudad de México para el cumplimiento de las obligaciones tributarias y realizar trámites, consultas e integrar la información que sea requerida por la normativa en materia fiscal federal y local;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XII. Operar el Sistema Integral de Información de los Ingresos y Gasto Público del Gobierno Federal y coordinar la información requerida por su Comité Técnico de Información con las unidades administrativas del Instituto, para integrarla y transmitirla en los formatos vigentes autorizados para tal efecto;
 
 XIII. Fungir como enlace del Instituto con los auditores externos designados por la instancia competente;
 
 XIV. Representar al Instituto en las gestiones en materia presupuestaria ante las Dependencias del Gobierno Federal, con respecto al gasto de administración del Instituto;
 
-XV. Participar, en el ámbito de su competencia, en el registro de la contabilidad de las Instituciones en liquidación o liquidación judicial así como en el cumplimiento de las obligaciones fiscales a cargo de dichas Instituciones, en aquellos casos en los que no exista un tercero apoderado para desempeñar el cargo de liquidador o liquidador judicial o un área de contabilidad en dichas Instituciones;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVI. Proporcionar, en coordinación con la Dirección General Adjunta de Administración, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto, y
+XV. Participar, en el ámbito de su competencia, en el análisis de la información y registro de la contabilidad de las Instituciones en liquidación o liquidación judicial, emisión de estados financieros mensuales, así como en el cumplimiento de las obligaciones fiscales a cargo de dichas Instituciones, en aquellos casos en los que no exista un tercero apoderado para desempeñar el cargo de liquidador o liquidador judicial o un área de contabilidad en dichas Instituciones, en apego a las disposiciones legales aplicables y las políticas que la administración del Instituto emita;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-XVII. Establecer, conforme a las disposiciones aplicables y en coordinación con la Dirección General Adjunta de Administración, en el ámbito de sus competencias, los mecanismos para la comprobación del gasto de administración, así como para la glosa, guarda y custodia de la documentación comprobatoria de dicho gasto.
+XVI. Proporcionar, en coordinación con la Dirección General Adjunta de Administración, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto;
+
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVII. Establecer, conforme a las disposiciones aplicables y en coordinación con la Dirección General Adjunta de Administración, en el ámbito de sus competencias, los mecanismos para la comprobación del gasto de administración, así como para la glosa, guarda y custodia de la documentación comprobatoria de dicho gasto;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XVIII. Autorizar las adecuaciones presupuestarias internas del gasto de administración del Instituto, de conformidad con la normativa aplicable, realizando el registro en los sistemas que para tal efecto disponga la Secretaría de Hacienda y Crédito Público, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIX. Elaborar, generar y presentar conjuntamente con el Secretario Adjunto de Administración y Presupuesto en la Cuenta de la Hacienda Pública Federal del Instituto, la información contable referente a los estados de situación financiera, de actividades, de variación en la hacienda pública, de cambios en la situación financiera, de flujos de efectivo, estado analítico del activo, estado analítico de la deuda y otros pasivos, informe sobre pasivos contingentes, notas a los estados financieros y demás anexos requeridos, de conformidad con las disposiciones que emita la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTÍCULO 28.
 
 Corresponde al titular de la Dirección General de Planeación Estratégica y Procesos, el ejercicio de las atribuciones siguientes:
 
-I. Coordinar el proceso de planeación estratégica en el Instituto, a fin de alinear las actividades y proyectos al cumplimiento de la misión, visión y objetivos institucionales;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+I. Coordinar el proceso de planeación estratégica en el Instituto, a fin de alinear las actividades y proyectos al cumplimiento de la misión, visión y objetivos institucionales y las actividades para mantenerlos actualizados;
 
 II. Proponer al Secretario Ejecutivo la estrategia institucional, programas de trabajo en materia de planeación estratégica, administración de riesgos y procesos, y coordinar el desarrollo de los mismos con las unidades administrativas del Instituto, con el objeto de coadyuvar a la eficiencia del sistema de protección al ahorro bancario, así como para dar cumplimiento a la normativa aplicable;
 
 III. Informar periódicamente al Secretario Ejecutivo del Instituto sobre la ejecución de los planes, programas y proyectos estratégicos institucionales;
 
-IV. Elaborar y establecer políticas, lineamientos y procedimientos en materia de planeación, organización y evaluación institucional;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+IV. Elaborar y establecer políticas, lineamientos y procedimientos en materia de planeación estratégica, organización y evaluación institucional;
 
 V. Elaborar y establecer los lineamientos generales para los Sistemas de Planeación, Evaluación y Administración de Riesgos del Instituto, así como dar seguimiento a los programas que se deriven para el corto, mediano y largo plazos, conforme a las directrices que emitan las autoridades competentes;
 
@@ -1099,7 +1505,13 @@ XI. Coordinar las actividades relacionadas con la administración integral de ri
 
 XII. Asistir a las unidades administrativas en la identificación, evaluación, información, revelación y control de riesgos institucionales, así como en las demás actividades relativas a la administración integral de riesgos;
 
-XIII. Proponer, con base en la información y en las recomendaciones de las unidades administrativas competentes, políticas y lineamientos necesarios para la administración integral de los riesgos en que incurran el Instituto y sus unidades administrativas, principalmente en sus actividades de gestión de tesorería, administración de activos y pasivos y de seguro de depósito;
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIII. Proponer y coordinar, con base en la información y en las recomendaciones de las unidades administrativas competentes, políticas, metodologías y lineamientos necesarios para la administración integral de los riesgos en que incurran el Instituto y sus unidades administrativas, principalmente en sus actividades de gestión de tesorería, administración de activos y pasivos y de seguro de depósito;
+
+> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+XIII Bis. Coordinar el seguimiento y revisión de las metodologías en materia de administración de riesgos financieros y operativos, y
 
 XIV. Identificar, evaluar, informar y revelar los riesgos financieros del Instituto;
 
@@ -1109,67 +1521,13 @@ XVI. Proponer, en coordinación con el Secretario Adjunto de Protección al Ahor
 
 XVII. Coordinar la preparación y el desarrollo de simulacros de resoluciones bancarias y demás acciones preventivas relacionadas con las operaciones de protección, y
 
-XVIII. Participar con la Dirección General de Resoluciones Bancarias en las actividades vinculadas con los simulacros de ejecución de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito.
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+XVIII. Participar con la Dirección General de Métodos de Resolución en las actividades vinculadas con los simulacros de ejecución de los planes de resolución de Instituciones, a que se refiere el artículo 120 de la Ley de Instituciones de Crédito.
 
 ###### ARTÍCULO 29.
 
-Corresponde al titular de la Dirección General de Comunicación Social y Relaciones Institucionales, el ejercicio de las atribuciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-I. Coordinar las actividades en materia de comunicación social del Instituto, diseñar la estrategia y los programas correspondientes, así como llevar a cabo su implementación en términos de la normatividad aplicable;
-
-II. Coordinar la divulgación a través de medios de comunicación de los contenidos informativos y noticiosos generados por las unidades administrativas;
-
-III. Coordinar las publicaciones que corresponda efectuar al Instituto en medios de comunicación conforme a las disposiciones aplicables;
-
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-IV. Elaborar, con la participación de las unidades administrativas competentes del Instituto, los comunicados de prensa, así como instrumentar su difusión;
-
-V. Organizar y dar seguimiento a las conferencias de prensa y las entrevistas para medios y empresas de comunicación;
-
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-VI. Diseñar y coordinar los contenidos de la página de Internet e Intranet institucional y otras aplicaciones del Instituto con base en la información y actualizaciones que generen las unidades administrativas;
-
-VII. Realizar el seguimiento a la información difundida en medios de comunicación sobre los temas de interés para el Instituto, con la finalidad de mantener informados a los servidores públicos del Instituto;
-
-VIII. Planear, diseñar, ejecutar y evaluar, conforme a las disposiciones aplicables, las campañas de difusión de interés para el Instituto con la colaboración de las unidades administrativas correspondientes;
-
-> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
-
-IX. Coordinar la atención a los medios de comunicación sobre temas relacionados con el Instituto;
-
-X. Coordinar las relaciones institucionales y públicas del Instituto en materia de comunicación social;
-
-XI. Llevar a cabo el seguimiento de los temas de interés para el Instituto que se lleven a cabo en el Congreso de la Unión;
-
-XII. Coordinar, en el ámbito de su competencia, la participación de servidores públicos del Instituto en comparecencias y foros nacionales;
-
-XIII. Coordinar la participación del Instituto en materia de Educación Financiera relativa al seguro de depósitos;
-
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-XIV. Llevar a cabo, a solicitud de la Dirección General Jurídica de lo Contencioso, en términos de los lineamientos a que se refieren los artículos 94 de la Ley y 109 Bis 8 de la Ley de Instituciones de Crédito, la publicación en el portal de Internet del Instituto de la información a que dichos preceptos se refieren;
-
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-XV. Realizar, a solicitud de la Secretaría de Hacienda y Crédito Público, la publicación en el portal de Internet del Instituto de la información a que se refiere el artículo 280 de la Ley de Instituciones de Crédito;
-
-> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-XVI. Coordinar las actividades de comunicación interna del Instituto;
-
-> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-XVII. Llevar a cabo análisis de información y brindar apoyo a los servidores públicos del Instituto para la atención a los medios de comunicación, y
-
-> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
-
-XVIII. Elaborar, en coordinación con las unidades administrativas del Instituto, materiales de información sobre el objeto y fines del Instituto para su difusión a través de medios de comunicación, conforme a la normativa aplicable.”
+(DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 30.
 
@@ -1217,9 +1575,11 @@ La imposición de las sanciones a que se refiere la Ley y la Ley de Institucione
 
 La Dirección General Jurídica de lo Contencioso ejercerá la atribución a que se refiere el párrafo anterior, a partir de la información que le proporcionen las unidades administrativas competentes del Instituto.
 
+> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 33.
 
-Para efectos de lo previsto en el artículo anterior, en caso de ausencia del titular de la Dirección General Jurídica de lo Contencioso, será suplido por el titular de la Dirección General Adjunta Jurídica de Seguimiento, Enlace y Sanciones, o por el titular de la Dirección General Adjunta Jurídica de Procedimientos Contenciosos, en el orden indicado.
+Para efectos de lo previsto en el artículo anterior, en ausencia del titular de la Dirección General Jurídica de lo Contencioso, será suplido por la Dirección de Proyectos Sancionatorios o la Dirección Jurídica de Procedimientos Contenciosos, en el orden indicado.
 
 ###### ARTÍCULO 34.
 
@@ -1241,11 +1601,19 @@ Las reglas, disposiciones, resoluciones o acuerdos que conforme a la Ley o la Le
 
 ## TÍTULO TERCERO. Del Control y Evaluación
 
-> <small>(REFORMADO, D.O.F. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 36.
 
-El Instituto cuenta con un Órgano Interno de Control, integrado por su titular y los titulares de las Áreas que determine el Reglamento Interior de la Secretaría de la Función Pública y los demás ordenamientos legales y administrativos aplicables. Dichos titulares se auxiliarán, para el ejercicio de sus atribuciones, con el personal asignado al Órgano Interno de Control.
+El Instituto cuenta con un Órgano Interno de Control, integrado por su titular y los titulares de áreas de auditoría, quejas, y responsabilidades, quienes tendrán el carácter de autoridad y serán designados en términos de la Ley Orgánica de la Administración Pública Federal.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el Reglamento Interior de la Secretaría de la Función Pública y los demás ordenamientos legales y administrativos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+
+Dichos titulares se auxiliarán, para el ejercicio de sus atribuciones, con el personal asignado al Órgano Interno de Control, en los términos ordenados por las disposiciones legales en la materia.
 
 ## TRANSITORIOS
 
@@ -1316,3 +1684,17 @@ TERCERO.- El personal, expedientes en trámite, archivo, mobiliario y, en genera
 CUARTO.- Las unidades administrativas a que se refiere el presente Acuerdo, deberán realizar los ajustes que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
 
 QUINTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
+
+D.O.F. 6 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor del presente Acuerdo y que, conforme a éste, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones derogadas, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+TERCERO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Acuerdo, pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose de conformidad con el ámbito de facultades que a cada una corresponda.
+
+CUARTO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas o áreas que cambian de denominación o ajustan sus atribuciones, por virtud de la expedición del presente Acuerdo, se entenderán hechas o conferidas a las unidades administrativas que asuman dichas atribuciones. Sin perjuicio de lo anterior, los lineamientos, acuerdos, reglas y demás disposiciones expedidas por el Instituto deberán ajustarse, en lo conducente, a lo dispuesto en el presente Acuerdo.
+
+QUINTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Acuerdo.
