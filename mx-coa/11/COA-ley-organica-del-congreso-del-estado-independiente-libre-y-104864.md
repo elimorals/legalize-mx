@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2020-07-10"
+last_updated: "2020-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -1043,9 +1043,9 @@ VII. De Desarrollo Económico, Competitividad y Turismo;
 
 VIIII (SIC). De Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-IX. De Educación, Cultura, Familias y Actividades Cívicas;
+IX. De Educación, Cultura, Familias, Desarrollo Humano y Actividades Cívicas;
 
 X. De Desarrollo Rural;
 
@@ -1271,11 +1271,11 @@ VII. Planes de conurbación; y
 
 VIII. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADAO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 97.
 
-La Comisión de Educación, Cultura, Familias y Actividades Cívicas conocerá de los asuntos relacionados con:
+La Comisión de Educación, Cultura, Familias, Desarrollo Humano y Actividades Cívicas conocerá de los asuntos relacionados con:
 
 I. Materia de educación y recreación;
 
@@ -1287,13 +1287,13 @@ IV. Universidades e instituciones de educación superior en el Estado, mantenien
 
 V. Protección, preservación y difusión de los fósiles y vestigios paleontológicos existentes en la entidad;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-VI. Acciones para el fortalecimiento del núcleo familiar;
+VI. Acciones para el fortalecimiento del núcleo familiar, fomentando el sentido de pertenencia, la recreación y la cultura;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-VII. Fomentar la comunicación entre los miembros de las familias;
+VII. Fomentar la comunicación entre los miembros de las familias, así como la implementación de políticas públicas para lograr su bienestar integral, inhibiendo la violencia, la pobreza y la marginación, mediante el acceso al derecho a la vivienda, a la protección civil y a los servicios primarios que les corresponden;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2019)</small>
 
@@ -2095,6 +2095,10 @@ Además de los requisitos antes señalados, toda iniciativa de ley podrá contem
 
 La exposición de motivos a que hace referencia el párrafo anterior deberá ser redactada en términos objetivos, evitando cualquier consideración personal que pudiese resultar violenta, discriminatoria o que atente en contra de los derechos humanos de alguna persona o grupo de personas.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 156 BIS. Todas las iniciativas que contengan alguna norma relacionada con las personas con discapacidad, serán turnadas a la Comisión de Atención a Grupos en Situación de Vulnerabilidad para que se realice la o las consultas a que se refiere la fracción VII del Artículo 109 de esta Ley, salvo aquellos casos que por tratarse de una legislación íntegra tenga que turnarse a comisiones dictaminadoras unidas.
+
 ###### ARTÍCULO 157.
 
 Toda petición de particulares, corporaciones o autoridades que no tengan derecho de iniciativa, se mandará pasar directamente por el Presidente de la Mesa Directiva a la Comisión que corresponda, según la naturaleza del asunto de que se trate. Las comisiones dictaminarán si son de tomarse o no en consideración estas peticiones.
@@ -2867,6 +2871,12 @@ VIII. Un enlace que lleve al usuario a llenar y enviar a la Dirección de Comuni
 
 No podrá contener dicha página propaganda, publicidad o información comercial ni de proselitismo político.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 255 BIS. El Congreso contará con un "Canal del Congreso del Estado de Coahuila", que será implementado mediante el sistema digital con el que actualmente cuenta esta asamblea deliberativa y otros que se consideren adquirir para el de (sic) objeto de reseñar y difundir, a través de sus distintas plataformas de comunicación digital, la actividad legislativa y parlamentaria que corresponda al Congreso del Estado, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad estatal vinculados con la difusión de la cultura y valores de la democracia.
+
+El Canal del Congreso del Estado de Coahuila, estará bajo la dirección del titular de Comunicación Social del Congreso.
+
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS ESPECIALES
 
 ### CAPÍTULO I. Del Informe del Estado que Guarda la Administración Pública Estatal
@@ -3550,3 +3560,29 @@ Se derogan las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 742.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 88, ASÍ COMO EL PÁRRAFO PRIMERO Y LAS FRACCIONES VI, Y VII, DEL ARTÍCULO 97, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- el presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 743.- SE ADICIONA EL ARTÍCULO 255 BIS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; Y SE ADICIONA EL ARTÍCULO 214 BIS AL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso deberá emitir el acuerdo correspondiente para el correcto y eficiente funcionamiento del Canal del Congreso, dentro de un lapso no mayor a tres meses a partir de la publicación del presente decreto.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 744.- SE ADICIONA UN ARTÍCULO 156 BIS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
