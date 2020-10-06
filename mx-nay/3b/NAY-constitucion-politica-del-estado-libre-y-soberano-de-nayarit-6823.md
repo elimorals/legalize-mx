@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2020-08-21"
+last_updated: "2020-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -102,6 +102,10 @@ I. La más estricta igualdad ante las leyes, sin otras diferencias que las que r
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+
+La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de la familia.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -187,9 +191,9 @@ XII. El derecho de acceso a la información pública y a la transparencia. La in
 
 El Estado contará con un organismo autónomo, especializado, imparcial y colegiado denominado Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, encargado de garantizar la transparencia y el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, dotado de autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propios.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-Dicho organismo se integrará por tres comisionados designados por el Congreso del Estado con el voto de las dos terceras partes de los diputados presentes y durarán en su cargo siete años. Para su designación deberán cumplir con los requisitos que establezca la ley.
+Dicho organismo se integrará por tres comisionados designados por el Congreso del Estado con el voto de las dos terceras partes de los diputados presentes y durarán en su cargo siete años. Para su designación se observará el principio de paridad de género y deberán cumplir con los requisitos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
@@ -431,19 +435,27 @@ III. Tener un modo honesto de vivir.
 
 Son derechos del ciudadano Nayarita:
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2020)</small>
 
-I. Votar y ser votado en las elecciones estatales para los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y reúnan cuando menos el dos por ciento de apoyo ciudadano del padrón electoral de la geografía estatal, distrital, municipal o por demarcación, según corresponda; en ambos casos deben cumplir con los requisitos, condiciones y términos que determine la legislación en la materia.
+I. Votar y ser votado en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y reúnan cuando menos el dos por ciento de apoyo ciudadano del padrón electoral de la geografía estatal, distrital, municipal o por demarcación, según corresponda; en ambos casos deben cumplir con los requisitos, condiciones y términos que determine la legislación en la materia.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
 
 Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la Ley en la materia.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
 Los ciudadanos que participen como candidatos independientes tendrán derecho a recibir financiamiento público y privado, en la forma y términos que establezca la ley de la materia.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 La fiscalización de los recursos financieros que utilicen los candidatos independientes, se realizará conforme a lo establecido en la ley de la materia.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
 Los ciudadanos podrán participar en los procesos de consulta popular de plebiscito, referéndum e iniciativa popular, en los términos que establezcan las leyes.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 La ley regulará los mecanismos de participación ciudadana en los procesos de referéndum, plebiscito e iniciativa popular, los que se regirán por los siguientes principios:
 
@@ -557,9 +569,9 @@ El Poder Legislativo del Estado se depositará en una asamblea que se denominar�
 
 El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y doce diputados electos por representación proporcional, quienes podrán ser electos hasta por cuatro períodos consecutivos.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-La postulación para ser elegido por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+La postulación para ser elegido por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -594,6 +606,10 @@ La ley determinará el procedimiento y requisitos a que se sujetará la asignaci
 (REPUBLICADO, P.O. 6 DE OCTUBRE DE 2010)
 
 Ningún partido político podrá contar con más de dieciocho diputados por ambos principios.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+
+Los partidos políticos postularán entre sus candidatos de la lista de representación proporcional a una fórmula de personas migrantes.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
 
@@ -1265,9 +1281,9 @@ X. Hacer cumplir los fallos y sentencias de los tribunales y prestar a estos el 
 
 XI.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1998)
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2020)</small>
 
-XII.- Nombrar y remover libremente a los titulares de las dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades.
+XII.- Nombrar y remover libremente a los titulares de las dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades, observando el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1453,11 +1469,15 @@ El Secretario General de Gobierno substituirá al Gobernador en las faltas no pr
 
 El ejercicio de la función jurisdiccional corresponde al Poder Judicial, en el ámbito de su competencia y se deposita en el Tribunal Superior de Justicia y en los Juzgados que la ley determine.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-El Tribunal Superior de Justicia, se integrará por trece Magistrados Numerarios y funcionará en Pleno o en Salas, Colegiadas o Unitarias.
+El Tribunal Superior de Justicia, se integrará por trece Magistradas y Magistrados Numerarios de manera paritaria y funcionará en Pleno o en Salas, Colegiadas o Unitarias. (1)
 
-Se podrán nombrar hasta tres Magistrados Supernumerarios y durarán en su cargo 5 años.
+(1) Reserva aprobada por el Pleno de la Honorable Asamblea Legislativa, de la sesión pública virtual celebrada el día 11 de septiembre de 2020.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+
+Se podrán nombrar hasta tres Magistrados Supernumerarios observando el principio de paridad de género y durarán en su cargo 5 años.
 
 La ley establecerá los términos y condiciones para la solución de conflictos mediante procedimientos alternativos de justicia y juicios orales.
 
@@ -1561,9 +1581,9 @@ El nombramiento, adscripción y readscripción de jueces se hará atendiendo a l
 
 La planeación del desarrollo institucional, evaluación, administración, vigilancia, disciplina y carrera judicial, del Poder Judicial, estará a cargo del Consejo de la Judicatura en los términos que señale la ley, conforme a las siguientes bases:
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-1.- Establecerá las bases para el desarrollo de la carrera judicial a través de la fijación del catálogo de puestos, los procedimientos para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial, así como su capacitación, especialización y actualización; la cual se regirá por los principios de excelencia, objetividad, imparcialidad, rectitud, probidad, profesionalismo e independencia.
+1.- Establecerá las bases para el desarrollo de la carrera judicial a través de la fijación del catálogo de puestos, los procedimientos para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial, así como su capacitación, especialización y actualización; la cual se regirá por los principios de excelencia, objetividad, imparcialidad, rectitud, probidad, profesionalismo, independencia y paridad de género.
 
 2.- Determinará el número, división, especialización por materia y competencia territorial de los Juzgados que la ley establezca.
 
@@ -1891,11 +1911,11 @@ Las facultades y obligaciones del Fiscal General y de los Agentes del Ministerio
 
 #### SECCIÓN II. De las Fiscalías Especializadas
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
 ###### Art. 100.
 
-La Fiscalía General contará, al menos, con las Fiscalías Especializadas en materia de delitos electorales y en combate a la corrupción, cuyos titulares serán nombrados y removidos por el voto de las dos terceras partes de los miembros del Congreso del Estado presentes en la sesión correspondiente.
+La Fiscalía General contará, al menos, con las Fiscalías Especializadas en materia de delitos electorales y en combate a la corrupción, cuyos titulares serán nombrados y removidos por el voto de las dos terceras partes de los miembros del Congreso del Estado presentes en la sesión correspondiente, observando el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
 
@@ -1923,9 +1943,9 @@ El organismo a que se refiere el párrafo anterior, formulará recomendaciones p
 
 Todo servidor público o autoridad está obligado a responder las recomendaciones que le formule el organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además la Cámara de Diputados, o en sus recesos, la Diputación Permanente, podrán llamar a solicitud del organismo, a las autoridades o servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa, en los términos que disponga la ley.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio; tendrá un Consejo Consultivo integrado por el número de consejeros que fije la ley los cuales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación. La integración de las propuestas por parte del Congreso para la elección de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
+La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio; tendrá un Consejo Consultivo integrado por el número de consejeros que fije la ley los cuales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación, observando el principio de paridad de género. La integración de las propuestas por parte del Congreso para la elección de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2012)</small>
 
@@ -2023,29 +2043,29 @@ Cada Municipio será gobernado por un Ayuntamiento de elección popular directa,
 
 Los Ayuntamientos se renovarán en su totalidad cada tres años y sus integrantes, serán electos popularmente por elección directa hasta por dos períodos consecutivos para el mismo cargo, en los términos que prescribe la Constitución General de la República y la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-La postulación por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+La postulación por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 La elección de Ayuntamientos, se realizará de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-I. Presidente y Síndico Municipal serán electos por planilla, en votación de mayoría relativa;
+I. Presidente o Presidenta y Síndica o Síndico Municipal serán electos por planilla, en votación de mayoría relativa;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2020)</small>
 
-II. Los regidores de mayoría relativa, se elegirán por fórmula de conformidad al número que disponga la ley y territorialización que determine el órgano competente.
+II. Las regidurías de mayoría relativa, se elegirán por fórmula de conformidad al número que disponga la ley y territorialización que determine el órgano competente.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 La demarcación territorial de los municipios para la elección de regidores a que se refiere la fracción anterior será determinada tomando en consideración la que resulte de dividir la población total del Municipio, entre el número de regidurías a elegir, considerando regiones geográficas del Municipio.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
-En todos los casos y bajo el procedimiento que establezca la Ley Electoral del Estado, se integrará a los Ayuntamientos el número de Regidores que les corresponda, bajo el principio de representación proporcional.
+En todos los casos y bajo el procedimiento que establezca la Ley Electoral del Estado, se integrará a los Ayuntamientos el número de regidurías que les corresponda, bajo el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -2723,7 +2743,9 @@ Las elecciones del Gobernador del Estado, de los miembros del Congreso y de los 
 
 Apartado A.- De los partidos políticos y los candidatos independientes.
 
-I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal y las formas específicas de su participación y organización en el proceso electoral, respetando las bases que establece la Constitución General de la República, esta Constitución y la ley de la materia.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2020)</small>
+
+I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal y las formas específicas de su participación y organización en el proceso electoral, y tendrán derecho a postular candidatos de forma individual, en coaliciones o en candidatura común con otros partidos, para la elección de gobernador, diputados e integrantes de los ayuntamientos, respetando las bases que establece la Constitución General de la República, esta Constitución y la ley de la materia.
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre géneros, en candidaturas a legisladores locales e integrantes de ayuntamientos. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
@@ -4214,3 +4236,17 @@ P.O. 21 DE AGOSTO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 2021 y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto a los Ayuntamientos del Estado de Nayarit, para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+P.O. 6 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA ELECTORAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado; sin prejuicio de lo dispuesto en el artículo Tercero Transitorio.
+
+SEGUNDO.- En un plazo no mayor a 180 días, el Congreso deberá hacer las adecuaciones necesarias a la legislación secundaria correspondiente, con el objetivo de armonizar el marco jurídico del Estado.
+
+TERCERO.- La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quiénes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+CUARTO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
