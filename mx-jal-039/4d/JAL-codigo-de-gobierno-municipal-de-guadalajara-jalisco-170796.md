@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2020-06-17"
+last_updated: "2020-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 17 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 7 DE OCTUBRE DE 2020.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -4289,9 +4289,17 @@ XI. Realizar la conformación de mesas de trabajo para la planeación de las pol
 
 XII. Publicar y difundir las convocatorias que emita la Presidenta o el Presidente Municipal con relación a los organismos sociales, las organizaciones vecinales, las organizaciones de la sociedad civil, las organizaciones no gubernamentales, colectivos y demás formas organizativas que existan en el Municipio;
 
-XIII. Ejecutar las comisiones que le sean encomendadas por el Consejo Municipal de Participación Ciudadana y valorar las que emitan los consejos ciudadanos de otras materias relacionadas con la participación ciudadana y gobernanza; y
+> <small>(REFORMADA, G.M. 7 DE OCTUBRE DE 2020)</small>
 
-XIV. Diseñar y generar contenidos, materiales impresos y digitales, estadísticas, numeralias, infografías, mapas, planos y aplicaciones digitales para la difusión de la cultura de la Participación Ciudadana y la Gobernanza del Municipio como eje rector.
+XIII. Ejecutar las comisiones que le sean encomendadas por el Consejo Municipal de Participación Ciudadana y valorar las que emitan los consejos ciudadanos de otras materias relacionadas con la participación ciudadana y gobernanza;
+
+> <small>(REFORMADA, G.M. 7 DE OCTUBRE DE 2020)</small>
+
+XIV. Diseñar y generar contenidos, materiales impresos y digitales, estadísticas, numeralias, infografías, mapas, planos y aplicaciones digitales para la difusión de la cultura de la Participación Ciudadana y la Gobernanza del Municipio como eje rector; y
+
+> <small>(ADICIONADA, G.M. 7 DE OCTUBRE DE 2020)</small>
+
+XV. Promover, por conducto del Colegio de Notarios del Estado de Jalisco, la prestación de los servicios de constitución y formalización de organizaciones vecinales, sin costo para los interesados. Lo anterior, cuando los vecinos no tengan la capacidad económica para sufragar los gastos correspondientes.
 
 Para la atención de sus asuntos, cuenta con las áreas de Capacitación, Difusión y Comunicación Ciudadana, Innovación, Metodología y Estadística Ciudadana, Organización Ciudadana, y Vinculación con Consejos Consultivos, Asociaciones Vecinales y Organizaciones de la Sociedad Civil.
 
@@ -6246,3 +6254,15 @@ Primero. Publíquese las presentes reformas en la Gaceta Municipal de Guadalajar
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 7 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DICTAMEN POR EL QUE “SE EXPIDE EL REGLAMENTO DE PARTICIPACIÓN CIUDADANA PARA LA GOBERNANZA DE GUADALAJARA; SE ABROGA EL REGLAMENTO DE PARTICIPACIÓN CIUDADANA PARA LA GOBERNANZA DEL MUNICIPIO DE GUADALAJARA Y SE REFORMA EL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese el presente ordenamiento municipal en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento municipal entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Las consejerías ciudadanas seguirán en funciones hasta en tanto no corresponda su renovación conforme fueron electos, las consejerías ciudadanas tipo A se renovarán en el mes de julio del año siguiente a aquel en que haya iniciado el periodo del Gobierno Municipal y las consejerías ciudadanas B se renovarán en el mes de julio del tercer año siguiente a aquel en que haya iniciado el periodo del Gobierno Municipal.
+
+Cuarto. Una vez publicadas las presentes disposiciones, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
