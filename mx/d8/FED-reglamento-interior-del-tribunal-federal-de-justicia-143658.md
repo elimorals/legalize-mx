@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2020-07-17"
+last_updated: "2020-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-08"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE OCTUBRE DE 2020.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -986,6 +986,10 @@ a. Tramitar y resolver los juicios que se promuevan contra resoluciones definiti
 9.- Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF), y
 
 10.- Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA).
+
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2020)</small>
+
+11.- Comisión Reguladora de Energía (CRE).
 
 b. Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones I, IV, XII, XIII y XV y último párrafo, del artículo 3 de la Ley, dictadas con fundamento en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General de Desarrollo Forestal Sustentable, Ley General de Vida Silvestre, Ley General para la Prevención y Gestión Integral de Residuos, Ley de Bioseguridad de Organismos Genéticamente Modificados, Ley General de Cambio Climático, así como en los demás ordenamientos que regulan la materia de Protección al Medio Ambiente, o que tengan alguna injerencia en la citada materia; con la excepción de resoluciones definitivas, actos administrativos y procedimientos, a que se refiere este inciso, emitidos por la Comisión Nacional del Agua o sus unidades administrativas, supuestos en los cuales será competente la Sala Regional del Tribunal que corresponda.
 
@@ -3077,6 +3081,10 @@ El Sistema de Justicia en Línea es el sistema informático establecido por el T
 
 Dicho Sistema se integrará por todos los sistemas informáticos y soluciones digitales de comunicación e información que desarrolle el Tribunal, entre los que se deberán incluir, el Sistema de Información Estadística a que se refiere el artículo 43 del presente Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2020)</small>
+
+Las Salas Regionales en las que se autorice la implementación del Sistema de Justicia en Línea tendrán la facultad de tramitar y resolver los juicios de su competencia material y territorial, en la modalidad tradicional o en línea.
+
 ###### Artículo 133.
 
 Los servidores públicos del Tribunal cuyas funciones los vinculen directamente con la operación y aplicación de los Sistemas mencionados en el artículo anterior, deberán cumplir con diligencia, oportunidad y certeza las obligaciones que les impongan los acuerdos, normas, lineamientos y procedimientos que emita la Junta, conforme a las disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo, y de la Ley.
@@ -3264,3 +3272,13 @@ DÉCIMO SÉPTIMO. El Pleno Jurisdiccional de la Sala Superior emitirá en breve 
 DÉCIMO OCTAVO. Publíquese en el Diario Oficial de la Federación.
 
 Así lo acordó el Pleno General de la Sala Superior del Tribunal Federal de Justicia Administrativa por unanimidad de votos, en sesión realizada a distancia el ocho de julio de dos mil veinte, utilizando herramientas tecnológicas, tal y como se precisa en el acta levantada como constancia.- Firman el Magistrado Rafael Anzures Uribe, Presidente del Tribunal Federal de Justicia Administrativa y el Licenciado Tomás Enrique Sánchez Silva, Secretario General de Acuerdos, quien da fe.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SS/22/2020 POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA".]
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La competencia territorial de la Sala Especializada en Juicios en Línea se irá restringiendo en la circunscripción territorial que legalmente les corresponde a las Salas Regionales que autorice la Junta de Gobierno para la tramitación y resolución de los juicios en la modalidad en línea, hasta que ésta pierda toda competencia.
