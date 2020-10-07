@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-electoral-para-el-estado-de-nayarit-116965"
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-05"
-last_updated: "2016-10-05"
+last_updated: "2020-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Tercera al Número 59 del Periódico Oficial del Estado de Nayarit, el miércoles 5 de octubre de 2016.
 
@@ -59,9 +59,11 @@ La interpretación del orden jurídico deberá realizarse conforme a los derecho
 
 En la interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos, se deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-Las autoridades estatales y municipales, así como los ciudadanos, partidos políticos, coaliciones, candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y toda persona física o moral, están obligadas a prestar su apoyo y colaboración a las autoridades y organismos electorales cuando así lo soliciten con motivo del trámite, sustanciación y resolución de los medios de impugnación previstos en esta ley, o la imposición de sanciones administrativas.
+Las autoridades estatales y municipales, así como las ciudadanas y ciudadanos, partidos políticos, coaliciones, candidatas y candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y toda persona física o moral, están obligadas a prestar su apoyo y colaboración a las autoridades y organismos electorales cuando así lo soliciten con motivo del trámite, sustanciación y resolución de los medios de impugnación previstos en esta ley, o la imposición de sanciones administrativas.
 
 El incumplimiento a lo dispuesto en el párrafo anterior, o el desacato a los requerimientos o resoluciones dictados por el Instituto o el Tribunal Estatal Electoral, serán sancionados en los términos del Capítulo XIV del Título Primero del Libro Segundo de la presente ley y el Código Penal para el Estado de Nayarit.
 
@@ -99,17 +101,21 @@ El Tribunal Electoral es autónomo, de carácter permanente, con personalidad ju
 
 Al Tribunal Electoral le corresponde garantizar los actos y resoluciones electorales, así como resolver los procedimientos especiales sancionadores en los términos establecidos por la Constitución federal, la local y esta ley; actuará con autonomía e independencia en sus decisiones y serán definitivas en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 6.
 
-El Tribunal Electoral, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales que pronuncie, se sujeten invariablemente a los principios rectores de certeza, legalidad, independencia, imparcialidad, objetividad, probidad y máxima publicidad en los términos de la legislación de la materia.
+El Tribunal Electoral al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales que pronuncie, se sujeten invariablemente a los principios rectores de certeza, legalidad, independencia, imparcialidad, objetividad, probidad, y máxima publicidad en los términos de la legislación de la materia, así como brindar una tutela judicial con perspectiva de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 7.
 
-El Tribunal Electoral funcionará en Pleno y tendrá su sede en la capital del Estado. Sus sesiones serán públicas. Las sesiones del Pleno serán válidas con la asistencia de la mayoría de sus integrantes, entre los que deberá estar su Presidente.
+El Tribunal Electoral funcionará en Pleno y tendrá su sede en la capital del Estado. Sus sesiones serán públicas. Las sesiones del Pleno serán válidas con la asistencia de la mayoría de sus integrantes, entre los que deberá estar su Presidenta o Presidente.
 
-(NOTA: EL 3 DE ENERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 94/2016 Y SU ACUMULADA 96/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ENERO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-Se integrará por cinco magistrados numerarios designados por la Cámara de Senadores del Congreso de la Unión, Y HASTA TRES MAGISTRADOS SUPERNUMERARIOS ELECTOS POR EL PLENO DEL CONGRESO DEL ESTADO.
+Se integrará el Pleno por tres magistradas o magistrados numerarios designados por la Cámara de Senadores del Congreso de la Unión.
 
 Los magistrados supernumerarios permanecerán en su encargo durante siete años y se elegirán de la siguiente forma:
 
@@ -137,9 +143,21 @@ I. Conocer y resolver los medios de impugnación a los que se refiere esta ley;
 
 II. Resolver los procedimientos especiales sancionadores, en términos de la Ley Electoral y esta ley;
 
-III. Declarar las nulidades a las que se refiere esta ley, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-IV. Las demás que le confiera el presente ordenamiento y otras disposiciones legales.
+III. Declarar las nulidades a las que se refiere esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2020)</small>
+
+IV. Velar porque los Derechos Políticos Electorales se ejerzan libre (sic) de violencia política contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. Podrá solicitar a las autoridades competentes el otorgamiento de medidas necesarias para la atención de los asuntos sobre violencia política que se sometan a su competencia, en los términos previstos por el artículo 27 de la Ley General de Acceso de las Mujeres a una Vida Libre de violencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2020)</small>
+
+VI. Las demás que le confiera el presente ordenamiento y otras disposiciones legales.
 
 ###### Artículo 9.
 
@@ -151,43 +169,59 @@ II. Ejecutar programas de capacitación, investigación y difusión en materia d
 
 III. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
 
-IV. Calificar y resolver acerca de las excusas de los magistrados;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-V. Nombrar o remover, a propuesta del Presidente del Tribunal, al Secretario General de Acuerdos;
+IV. Calificar y resolver acerca de las excusas de las magistradas y los magistrados;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. Nombrar o remover, a propuesta de la Presidenta o el Presidente del Tribunal, a la Secretaria o Secretario General de Acuerdos;
 
 VI. Determinar y, en su caso, aplicar las sanciones administrativas previstas en el capítulo correspondiente de esta ley, y
 
 VII. Las demás que le establezca el presente ordenamiento y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 10.
 
-En ningún caso los magistrados podrán abstenerse de votar, salvo cuando tengan alguno de los impedimentos legales a los que se refiere la Ley General de Instituciones y Procedimientos Electorales.
+En ningún caso las magistradas y los magistrados podrán abstenerse de votar, salvo cuando tengan alguno de los impedimentos legales a los que se refiere la Ley General de Instituciones y Procedimientos Electorales.
 
 Las excusas y recusaciones que por impedimento legal se presenten, serán calificadas y resueltas de inmediato por el propio Pleno.
 
-(NOTA: EL 3 DE ENERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 94/2016 Y SU ACUMULADA 96/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ENERO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-LAS VACANTES TEMPORALES DE LOS MAGISTRADOS NUMERARIOS O LAS EXCUSAS DE LOS MISMOS, CALIFICADAS DE PROCEDENTES, SE SUPLIRÁN POR LOS MAGISTRADOS SUPERNUMERARIOS, EN EL ORDEN DE PRELACIÓN QUE ESTABLEZCA EL DECRETO DE SU NOMBRAMIENTO. Cuando la vacante sea definitiva, se hará una nueva designación de magistrado de conformidad con lo establecido en la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales.
+Cuando la vacante sea definitiva, se hará una nueva designación de magistrada o magistrado de conformidad con lo establecido en la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales.
 
 La retribución que reciban los magistrados durante el tiempo en que ejerzan su cargo, será la prevista en el presupuesto de egresos del Estado.
 
-### CAPÍTULO II. DEL PRESIDENTE DEL TRIBUNAL ESTATAL ELECTORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO II. DE LA PRESIDENTA O EL PRESIDENTE DEL TRIBUNAL ESTATAL ELECTORAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-Son atribuciones del Presidente del Tribunal Electoral las siguientes:
+Son atribuciones de la Presidenta o Presidente del Tribunal Electoral las siguientes:
 
 I. Representar al Tribunal ante toda clase de autoridades;
 
 II. Convocar y presidir las sesiones del Pleno del Tribunal, dirigir los debates y conservar el orden durante las mismas;
 
-Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y demás medias (sic) preventivas que considere necesaria (sic) para el adecuado desarrollo de las sesiones;
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-III. Proponer al Pleno el nombramiento o la remoción del Secretario General de Acuerdos;
+Cuando las y los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y demás medias (sic) preventivas que considere necesaria (sic) para el adecuado desarrollo de las sesiones;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+III. Proponer al Pleno el nombramiento o la remoción de la Secretaria o Secretario General de Acuerdos;
 
 IV. Tomar las medidas conducentes para la integración de las áreas jurídicas, administrativas y técnicas del Tribunal, de acuerdo con la disponibilidad presupuestaria;
 
-V. Convocar a reuniones de planeación y coordinación a los magistrados del Tribunal, al Secretario General de Acuerdos, y a los demás miembros del personal jurídico, administrativo y técnico;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. Convocar a reuniones de planeación y coordinación a las magistradas y los magistrados del Tribunal, a la Secretaria o Secretario General de Acuerdos, y a los demás miembros del personal jurídico, administrativo y técnico;
 
 VI. Despachar la correspondencia del Tribunal;
 
@@ -199,63 +233,101 @@ IX. Requerir de las autoridades estatales y municipales los documentos que obran
 
 X. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
-### CAPÍTULO III. DEL SECRETARIO GENERAL DE ACUERDOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO III. DE LA SECRETARIA O SECRETARIO GENERAL DE ACUERDOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-Son atribuciones del Secretario General de Acuerdos, las siguientes:
+Son atribuciones de la Secretaria o Secretario General de Acuerdos, las siguientes:
 
-I. Apoyar al Presidente del Tribunal en las sesiones del Pleno y en las tareas que le encomiende;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+I. Apoyar a la Presidenta o Presidente del Tribunal en las sesiones del Pleno y en las tareas que le encomiende;
 
 II. Dar cuenta, tomar votaciones y formular el acta respectiva en las sesiones del Pleno;
 
 III. Supervisar que se hagan en tiempo y forma las notificaciones a que se refiere el capítulo respectivo de esta Ley;
 
-IV. Apoyar durante las sesiones a los magistrados que deban presentar los proyectos para resolución del Pleno;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-V. Llevar el control de los asuntos turnados a los magistrados;
+IV. Apoyar durante las sesiones a las magistradas y a los magistrados que deban presentar los proyectos para resolución del Pleno;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. Llevar el control de los asuntos turnados a las magistradas y a los magistrados;
 
 VI. Supervisar el debido funcionamiento de los archivos jurisdiccionales y, en su momento, su concentración y supervisión;
 
-VII. Dictar, previo acuerdo con el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+VII. Dictar, previo acuerdo con la Presidenta o el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes;
 
 VIII. Autorizar con su firma las actuaciones del Pleno;
 
-IX. Por acuerdo del magistrado Presidente, expedir los certificados de constancias que se requieran y les soliciten;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-X. Llevar el registro de los criterios legales que se adopten, y
+IX. Por acuerdo de la magistrada o el magistrado Presidente, expedir los certificados de constancias que se requieran y les soliciten;
 
-XI. Atender las encomiendas del Pleno, y en su caso del Presidente del Tribunal.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+X. Llevar el registro de los criterios legales que se adopten;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+XI. Atender las encomiendas del Pleno, y en su caso de la Presidenta o del Presidente del Tribunal, y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+XII. Llevar a cabo la certificación y autentificación de los documentos que obran en el Tribunal Estatal Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 13.
 
-El Secretario General de Acuerdos deberá reunir los siguientes requisitos:
+La Secretaria o el Secretario General de Acuerdos deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener 30 años de edad por lo menos, al momento de la designación;
 
-III. Tener al día de la designación, con antigüedad mínima de cinco años, título profesional de licenciado en derecho expedido por autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-IV. No haber sido candidato, ni desempeñar o haber desempeñado cargo de elección popular en los últimos cuatro años;
+III. Tener al día de la designación, con antigüedad mínima de cinco años, título profesional de licenciada o licenciado en derecho expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+IV. No haber sido candidata o candidato, ni desempeñar o haber desempeñado cargo de elección popular en los últimos cuatro años;
 
 V. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos dos años, y
 
 VI. Acreditar conocimientos en materia de derecho electoral.
 
-La retribución que perciba el Secretario General de Acuerdos durante su encargo será la prevista en el presupuesto de egresos del Estado.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+La retribución que perciba la Secretaria o el Secretario General de Acuerdos durante su encargo será la prevista en el presupuesto de egresos del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-El Secretario General de Acuerdos y el personal de apoyo jurídico, se conducirán con imparcialidad y velarán por la aplicación irrestricta de los principios de constitucionalidad y legalidad en todas las diligencias y actuaciones en que intervengan durante el desempeño de sus funciones.
+La Secretaria o el Secretario General de Acuerdos y el personal de apoyo jurídico, se conducirán con imparcialidad y velarán por la aplicación irrestricta de los principios de constitucionalidad y legalidad en todas las diligencias y actuaciones en que intervengan durante el desempeño de sus funciones.
 
 ## TÍTULO TERCERO. DEL ÓRGANO INTERNO DE CONTROL
 
-### CAPÍTULO ÚNICO. DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL Y SUS ATRIBUCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO ÚNICO. DE LA O EL TITULAR DEL ÓRGANO INTERNO DE CONTROL Y SUS ATRIBUCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 15.
 
-El Tribunal contará con un Órgano Interno de Control que tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a los servidores públicos y empleados del propio Tribunal.
+El Tribunal contará con un Órgano Interno de Control que tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a las servidoras y los servidores públicos y empleados del propio Tribunal.
 
 (NOTA: EL 3 DE ENERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 94/2016 Y SU ACUMULADA 96/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ENERO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -266,6 +338,10 @@ El Órgano contará con los recursos presupuestales necesarios para el debido cu
 Estará adscrito administrativamente al Tribunal y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior del Estado.
 
 En su desempeño el Órgano Interno de Control se sujetará a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+La o el titular del Órgano Interno de Control, será elegido por los integrantes del Pleno del Tribunal Electoral, previa selección de aspirantes, mediante convocatoria pública.
 
 ###### Artículo 16.
 
@@ -287,7 +363,9 @@ VII. Corregir e investigar actos u omisiones que pudieran constituir responsabil
 
 VIII. Revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos que reciba y administre el Tribunal;
 
-IX. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito cometidos por servidores públicos del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+IX. Presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito cometidos por las servidoras o los servidores públicos del Tribunal;
 
 X. Revisar que las operaciones presupuestales que realice el Tribunal se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
 
@@ -295,13 +373,19 @@ XI. Verificar las obras, bienes adquiridos o arrendados y servicios contratados,
 
 XII. Requerir a terceros que hubieran contratado bienes o servicios con el Tribunal la información relacionada con la documentación justificativa y comprobatoria respectiva a efecto de realizar las compulsas que correspondan;
 
-XIII. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del Órgano Interno de Control, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-XIV. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Tribunal, y llevar el registro de los servidores públicos sancionados;
+XIII. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todas las servidoras o servidores públicos del Órgano Interno de Control, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+XIV. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de las servidoras o servidores públicos del Tribunal, y llevar el registro de los servidores públicos sancionados;
 
 XV. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Tribunal;
 
-XVI. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Tribunal por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+XVI. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Tribunal por parte de las servidoras o servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
 
 XVII. Efectuar visitas a las sedes físicas de las áreas y órganos del Tribunal para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
 
@@ -315,13 +399,21 @@ XXI. Fincar las responsabilidades e imponer las sanciones en términos de los li
 
 XXII. Presentar a la aprobación del Pleno del Tribunal sus programas anuales de trabajo;
 
-XXIII. Presentar al Pleno del Tribunal los informes previo y anual de resultados de su gestión, y acudir ante el mismo Pleno cuando así lo requiera el Magistrado Presidente;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-XXIV. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Tribunal, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia;
+XXIII. Presentar al Pleno del Tribunal los informes previo y anual de resultados de su gestión, y acudir ante el mismo Pleno cuando así lo requiera la Magistrada o el Magistrado Presidente;
 
-XXV. Intervenir en los procesos de entrega recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-XXVI. Participar, a través de su titular, con voz pero sin voto, en las sesiones del Pleno del Tribunal por motivo del ejercicio de sus facultades cuando así lo considere necesario el magistrado Presidente;
+XXIV. Recibir y resguardar las declaraciones patrimoniales que deban presentar las servidoras o servidores públicos del Tribunal, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+XXV. Intervenir en los procesos de entrega recepción por inicio o conclusión de encargo de las servidoras y servidores públicos que corresponda;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+XXVI. Participar, a través de su titular, con voz, pero sin voto, en las sesiones del Pleno del Tribunal por motivo del ejercicio de sus facultades cuando así lo considere necesario la Magistrada o el Magistrado Presidente;
 
 XXVII. Evaluar los informes de avance de la gestión de programas y proyectos respecto de los autorizados por el Pleno del Tribunal;
 
@@ -345,13 +437,17 @@ III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e in
 
 IV. Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere esta ley.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 18.
 
-Los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus atribuciones, así como de sus actuaciones y observaciones.
+Las servidoras o servidores públicos adscritos al órgano Interno de Control y, en su caso, las y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus atribuciones, así como de sus actuaciones y observaciones.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 19.
 
-Las áreas y servidores públicos del Tribunal estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones legales.
+Las áreas, servidoras y servidores públicos del Tribunal estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones legales.
 
 ###### Artículo 20.
 
@@ -373,9 +469,17 @@ Durante el desahogo de los procedimientos administrativos tendientes, en su caso
 
 Elsistema (sic) de medios de impugnación regulado por esta ley tiene por objeto garantizar:
 
-I. Que todos los actos y resoluciones de las autoridades electorales en los procesos electorales y en los de participación ciudadana se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y legalidad, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-II. La definitividad de los distintos actos y etapas de los procesos electorales y los d e (sic) participación ciudadana, realizada mediante los mecanismos de consulta popular de referéndum, plebiscito e iniciativa popular.
+I. Que todos los actos y resoluciones de las autoridades electorales en los procesos electorales y en los de participación ciudadana se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y legalidad;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+II. La definitividad de los distintos actos y etapas de los procesos electorales y los de participación ciudadana, realizada mediante los mecanismos de consulta popular de referéndum, plebiscito e iniciativa popular, y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+III. Los mecanismos que garanticen la prevención, atención y sanción de la violencia política contra las mujeres en razón de género.
 
 ###### Artículo 22.
 
@@ -429,11 +533,17 @@ Los medios de impugnación deberán presentarse ante la autoridad u órgano part
 
 I. Presentarse por escrito;
 
-II. Hacer constar el nombre del actor y carácter con que promueve;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-III. Señalar domicilio para recibir notificaciones en la capital del Estado y, en su caso, a quien en su nombre las pueda oír y recibir; si el promovente omite señalar domicilio, las notificaciones se le harán por estrados;
+II. Hacer constar el nombre de la actora o el actor y carácter con que promueve;
 
-IV. Acompañar el o los documentos que sean necesarios para acreditarla (sic) personería del promovente, en caso de no tener la (sic) acreditada ante la responsable;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+III. Señalar domicilio para recibir notificaciones en la capital del Estado y, en su caso, a quien en su nombre las pueda oír y recibir; si la o el promovente omite señalar domicilio, las notificaciones se le harán por estrados;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+IV. Acompañar el o los documentos que sean necesarios para acreditar la personería de la o el promovente, en caso de no tenerla acreditada ante la responsable;
 
 V. Identificar el acto o resolución que se impugna y al responsable del mismo;
 
@@ -441,7 +551,9 @@ VI. Mencionar de manera expresa y clara los hechos en que se basa la impugnació
 
 VII. Ofrecer y aportar las pruebas dentro de los plazos para la interposición o presentación delos (sic) medios de impugnación, mencionar, en su caso, las que se habrán de aportar dentro de dichos plazos, así como lasque (sic) deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente y éstas no le hubieren sido entregadas, y
 
-VIII. Llevar la firma autógrafa del promovente.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+VIII. Llevar la firma autógrafa de la o el Promovente.
 
 Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción VII del presente artículo.
 
@@ -473,23 +585,33 @@ Las causales de improcedencia serán examinadas de oficio; cuando el Instituto o
 
 Procede el sobreseimiento cuando:
 
-I. El promovente se desista expresamente por escrito;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+I. La o el promovente se desista expresamente por escrito;
 
 II. La autoridad u órgano partidista responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que quede totalmente sin materia el medio de impugnación respectivo, antes de que se dicte resolución o sentencia;
 
 III. Habiendo sido admitido el medio de impugnación correspondiente, aparezca o sobre venga (sic) alguna causal de improcedencia en los términos de la presente ley;
 
-IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político-electorales, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-V. El actor incumpla el requerimiento que se le haya formulado en términos de la fracción II del artículo 42 de esta ley.
+IV. La ciudadana o el ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político electorales, y
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. La actora o el actor incumpla el requerimiento que se le haya formulado en términos de la fracción II del artículo 42 de esta ley.
 
 ###### Artículo 30.
 
 Cuando se actualice alguno de los supuestos a que se refiere el artículo anterior se estará a lo siguiente:
 
-I. En los casos competencia del Tribunal Electoral, el Magistrado Instructor propondrá el sobreseimiento ante el Pleno, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-II. En los asuntos competencia de los órganos del Instituto, e lSecretario (sic) propondrá el sobreseimiento al órgano competente del mismo.
+I. En los casos de competencia del Tribunal Electoral, la Magistrada o el Magistrado Instructor propondrá el sobreseimiento ante el Pleno, y
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+II. En los asuntos competencia de los órganos del Instituto, la Secretaria o el Secretario propondrá el sobreseimiento al órgano competente del mismo.
 
 ### CAPÍTULO VI. PARTES DEL PROCEDIMIENTO
 
@@ -497,11 +619,15 @@ II. En los asuntos competencia de los órganos del Instituto, e lSecretario (sic
 
 Son partes en el procedimiento de sustanciación de los medios de impugnación:
 
-I. Como actor o promovente, quien estando legitimado interponga por sí mismo o a través de representante, el medio de impugnación en los términos previstos en esta ley;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+I. Como actor, actora o promovente, quien estando legitimado interponga por sí mismo o a través de representante, el medio de impugnación en los términos previstos en esta ley;
 
 II. La autoridad responsable o el partido político, en su caso, que haya realizado el acto o emitido la resolución que se impugna, y
 
-III. Como tercero interesado, el ciudadano, partido político, coalición, candidato, organización política o de ciudadanos, según corresponda, quien, teniendo interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor, comparezca mediante escrito al proceso.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+III. Como tercero interesado, la ciudadana o el ciudadano, partido político, coalición, candidata o candidato, organización política o de ciudadanos, según corresponda, quien, teniendo interés legítimo en la causa, derivado de un derecho incompatible con el que pretende la parte actora, comparezca mediante escrito al proceso.
 
 ###### Artículo 32.
 
@@ -511,7 +637,9 @@ I. Presentarán escrito en el que manifiesten lo que a su derecho convenga, sin 
 
 II. Los escritos deberán presentarse dentro de los plazos establecidos para la presentación de los escritos de los terceros interesados;
 
-III. Deberá acompañarse el documento con el que se acredite el registro como candidato del partido político respectivo;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+III. Deberá acompañarse el documento con el que se acredite el registro como candidata o candidato del partido político respectivo;
 
 IV. Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su partido político, y
 
@@ -533,13 +661,17 @@ c) Los que estén autorizados para representarlos mediante poder otorgado en esc
 
 II. Las coaliciones por conducto de sus representantes en estricta ejecución de los términos del convenio respectivo, de conformidad con las disposiciones legales aplicables;
 
-(NOTA: EL 3 DE ENERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 94/2016 Y SU ACUMULADA 96/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ENERO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-III. Los ciudadanos y candidatos, POR SU PROPIO DERECHO, SIN QUE SEA ADMISIBLE REPRESENTACIÓN ALGUNA; los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
+III. Las ciudadanas o ciudadanos y candidatas o candidatos, deberán acompañar el original o copia certificada del documento en el que conste su registro;
 
-IV. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los Estatutos respectivos o en los términos de la legislación aplicable, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-V. Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante el Instituto.
+IV. Las organizaciones o agrupaciones políticas o de ciudadanas y ciudadanos, a través de sus representantes legítimos, de conformidad con los Estatutos respectivos o en los términos de la legislación aplicable, y
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. Las candidatas y candidatos independientes, a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante el Instituto.
 
 ### CAPÍTULO VIII. PRUEBAS
 
@@ -611,7 +743,9 @@ En ningún caso se tomarán en cuenta para resolver, las pruebas ofrecidas o apo
 
 La autoridad u órgano partidista, según sea el caso, que reciba un medio de impugnación, en contra de sus propios actos o resoluciones, bajo su más estricta responsabilidad y de inmediato, deberá:
 
-I. Por la vía más expedita, dar aviso de su presentación al órgano competente del Instituto o al Tribunal Electoral, precisando: nombre del actor, acto o resolución que se impugna, fecha y hora exactas de su recepción, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+I. Por la vía más expedita, dar aviso de su presentación al órgano competente del Instituto o al Tribunal Electoral, precisando: nombre del actor o actora, acto o resolución que se impugna, fecha y hora exactas de su recepción, y
 
 II. Hacer del conocimiento público mediante cédula que durante un plazo de cuarenta y ocho horas se fije en los estrados respectivos o por cualquier otro medio que garantice fehacientemente la publicidad del escrito, asentando la razón de la fecha y hora de su fijación y retiro.
 
@@ -649,7 +783,9 @@ I. El escrito original mediante el cual se presenta el medio de impugnación, la
 
 II. Copia certificada del documento en que conste el acto o resolución que se impugna y demás documentación relacionada y pertinente que obre en su poder;
 
-III. En su caso, los escritos de los terceros interesados y coadyuvantes, las pruebas y demás documentación que se haya acompañado a los mismos;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+III. En su caso, los escritos de las y los terceros interesados y coadyuvantes, las pruebas y demás documentación que se haya acompañado a los mismos;
 
 IV. En los juicios de inconformidad, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado, en los términos de la Ley Electoral y la presente ley;
 
@@ -663,7 +799,9 @@ I. La mención de si el promovente y, en su caso, los comparecientes tienen reco
 
 II. Los motivos y fundamentos jurídicos que considere pertinentes para sostener la constitucionalidad o legalidad del acto o resolución que se impugna, y
 
-III. El nombre y la firma autógrafa del funcionario que lo rinde.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+III. El nombre y la firma autógrafa de la funcionaria o el funcionario que lo rinde.
 
 ### CAPÍTULO X. SUSTANCIACIÓN
 
@@ -671,17 +809,29 @@ III. El nombre y la firma autógrafa del funcionario que lo rinde.
 
 Recibida la documentación a que se refiere el artículo anterior, el Tribunal Electoral realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los expedientes, de acuerdo con lo siguiente:
 
-I. El Presidente del Tribunal turnará de inmediato el expediente recibido a un Magistrado Instructor, por riguroso orden alfabético, pudiendo reservarse para sí cualquier asunto relevante con el acuerdo del Pleno del Tribunal Electoral, quien con el apoyo del Secretario de su ponencia tendrá la obligación de revisar que el escrito del medio de impugnación reúna todos los requisitos señalados en el artículo 27 de esta ley;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-II. El Magistrado Instructor propondrá al Pleno del Tribunal Electoral el proyecto de resolución por el que se deseche de plano el medio de impugnación, cuando se dé alguno de los supuestos previstos en el párrafo tercero del artículo 27, o se acredite cualquiera de las causales de improcedencia señaladas en el artículo 28 de esta ley. Asimismo, cuando el promovente incumpla los requisitos señalados en las fracciones IV y V del artículo 27, y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique por estrados el auto correspondiente;
+I. La Presidenta o el Presidente del Tribunal turnará de inmediato el expediente recibido a una Magistrada o Magistrado Instructor, por riguroso orden alfabético, pudiendo reservarse para sí cualquier asunto relevante con el acuerdo del Pleno del Tribunal Electoral, quien con el apoyo de la Secretaria o Secretario de su ponencia tendrá la obligación de revisar que el escrito del medio de impugnación reúna todos los requisitos señalados en el artículo 27 de esta ley;
 
-III. En cuanto al informe circunstanciado, si la autoridad, candidato independiente u órgano partidista no lo envía dentro del plazo y en los términos señalados en el artículo 41 de esta ley, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las leyes aplicables;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-IV. El Magistrado Instructor, en el proyecto de sentencia del medio de impugnación que corresponda, propondrá al Pleno del Tribunal Electoral tener por no presentado el escrito del tercero interesado, cuando se presente en forma extemporánea o se den los supuestos previstos en el párrafo segundo del artículo 40 de este ordenamiento. Asimismo, cuando el compareciente incumpla el requisito señalado en la fracción IV del artículo 40, y éste no se pueda deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de que no se tomará en cuenta el escrito al momento de resolver si no se cumple con el mismo dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique por estrados el auto correspondiente;
+II. La Magistrada o el Magistrado Instructor propondrá al Pleno del Tribunal Electoral el proyecto de resolución por el que se deseche de plano el medio de impugnación, cuando se dé alguno de los supuestos previstos en el párrafo tercero del artículo 27, o se acredite cualquiera de las causales de improcedencia señaladas en el artículo 28 de esta ley. Asimismo, cuando la o el promovente incumpla los requisitos señalados en las fracciones IV y V del artículo 27, y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique por estrados el auto correspondiente;
 
-V. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Magistrado Instructor, dictará el auto de admisión que corresponda, proveerá lo necesario sobre la admisión delas (sic) pruebas ofrecidas por las partes y señalará fecha para su desahogo, ordenando cuando así proceda el requerimiento de documentos e informes, así como de las diligencias que estime necesarias para resolver; una vez sustanciado el expediente, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-VI. Cerrada la instrucción, el Magistrado Instructor procederá a formular el proyecto de sentencia y lo someterá a la consideración del Pleno del Tribunal Electoral.
+III. En cuanto al informe circunstanciado, si la autoridad, candidata o candidato independiente u órgano partidista no lo envía dentro del plazo y en los términos señalados en el artículo 41 de esta ley, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+IV. La Magistrada o el Magistrado Instructor, en el proyecto de sentencia del medio de impugnación que corresponda, propondrá al Pleno del Tribunal Electoral tener por no presentado el escrito del tercero interesado, cuando se presente en forma extemporánea o se den los supuestos previstos en el párrafo segundo del artículo 40 de este ordenamiento. Asimismo, cuando el compareciente incumpla el requisito señalado en la fracción IV del artículo 40, y éste no se pueda deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de que no se tomará en cuenta el escrito al momento de resolver si no se cumple con el mismo dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique por estrados el auto correspondiente;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, la Magistrada o el Magistrado Instructor, dictará el auto de admisión que corresponda, proveerá lo necesario sobre la admisión de las pruebas ofrecidas por las partes y señalará fecha para su desahogo, ordenando cuando así proceda el requerimiento de documentos e informes, así como de las diligencias que estime necesarias para resolver; una vez sustanciado el expediente, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados, y
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+VI. Cerrada la instrucción, la Magistrada o el Magistrado Instructor procederá a formular el proyecto de sentencia y lo someterá a la consideración del Pleno del Tribunal Electoral.
 
 La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado, en todo caso, el Tribunal Electoral resolverá con los elementos que obren en autos.
 
@@ -693,9 +843,11 @@ I. El Presidente del Tribunal tomará las medidas necesarias para su cumplimient
 
 II. En el caso del recurso de revisión, el Instituto deberá aplicar la sanción correspondiente en los términos de la Ley Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-El secretario del Instituto, el presidente del Tribunal o el magistrado instructor que corresponda, en los asuntos de su competencia podrán requerir a las autoridades federales, estatales y municipales, así como a los partidos políticos, coaliciones, candidatos, agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que, obrando en su poder, pueda servir para la sustanciación y resolución del medio de impugnación respectivo.
+La secretaria o el secretario del Instituto, la presidenta o el presidente del Tribunal o el magistrado o magistrada instructor que corresponda, en los asuntos de su competencia podrán requerir a las autoridades federales, estatales y municipales, así como a los partidos políticos, coaliciones, candidatos, agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución del medio de impugnación respectivo.
 
 Asimismo, si se estima necesario, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables.
 
@@ -725,15 +877,23 @@ En todo caso, si se omite señalar los preceptos jurídicos presuntamente violad
 
 El Tribunal Electoral dictará sus sentencias en sesión pública, de conformidad con lo que establezca esta ley y demás ordenamientos aplicables, conforme al procedimiento siguiente:
 
-I. El Presidente ordenará se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en la misma, o en un plazo menor cuando se trate de asuntos de urgente resolución;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+I. La Presidenta o el Presidente ordenará se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en la misma, o en un plazo menor cuando se trate de asuntos de urgente resolución;
 
 II. Abierta la sesión pública y verificado el quórum legal, se procederá a exponer cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido delos (sic) puntos resolutivos que se proponen;
 
-III. Se procederá a discutir los asuntos y cuando el Presidente del Tribunal los considere suficientemente discutidos, los someterá a votación. Las resoluciones se aprobarán por unanimidad o por mayoría de votos;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-IV. Si el proyecto que se presenta es votado en contra por la mayoría de los Magistrados, a propuesta del Presidente del Tribunal, se designará a un Magistrado diferente del instructor para que, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, engrose el fallo con las consideraciones y razonamientos jurídicos correspondientes, y
+III. Se procederá a discutir los asuntos y cuando la Presidenta o el Presidente del Tribunal los considere suficientemente discutidos, los someterá a votación. Las resoluciones se aprobarán por unanimidad o por mayoría de votos;
 
-V. En las sesiones sólo podrán participar y hacer uso de la palabra los Magistrados, directamente o a través de uno de sus Secretarios de Estudio y Cuenta, y el Secretario General de Acuerdos del Tribunal Electoral, el cual levantará el acta circunstanciada correspondiente.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+IV. Si el proyecto que se presenta es votado en contra por la mayoría de las Magistradas y los Magistrados, a propuesta de la Presidenta o el Presidente del Tribunal, se designará a un Magistrado o Magistrada diferente del instructor para que, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, engrose el fallo con las consideraciones y razonamientos jurídicos correspondientes, y
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. En las sesiones sólo podrán participar y hacer uso de la palabra las Magistradas o los Magistrados, directamente o a través de uno de sus Secretarios de Estudio y Cuenta, y el Secretario o Secretaria General de Acuerdos del Tribunal Electoral, el cual levantará el acta circunstanciada correspondiente.
 
 En casos extraordinarios y por acuerdo de la mayoría, el Tribunal Electoral podrá diferir la resolución de un asunto listado.
 
@@ -749,9 +909,13 @@ En la resolución que se modifique un criterio obligatorio se expresarán las ra
 
 También constituyen tesis obligatorias, las que resuelvan la contradicción de criterios.
 
-La contradicción de criterios podrá ser planteada por cualquier Magistrado o por las partes en cualquier momento, y el que prevalezca será obligatorio a partir de que se dicte sin que puedan modificarse los efectos delas (sic) resoluciones dictadas con anterioridad.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-El Tribunal Electoral hará la publicación de los criterios obligatorios dentro delos (sic) seis meses siguientes a la conclusión del proceso electoral, el Presidente del mismo, enviará al Congreso del Estado las tesis y criterios que se hubiesen adoptado, con recomendación de sus alcances.
+La contradicción de criterios podrá ser planteada por cualquier Magistrada o Magistrado o por las partes en cualquier momento, y el que prevalezca será obligatorio a partir de que se dicte sin que puedan modificarse los efectos de las resoluciones dictadas con anterioridad.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+El Tribunal Electoral hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión del proceso electoral, la Presidenta o el Presidente del mismo, enviará al Congreso del Estado las tesis y criterios que se hubiesen adoptado, con recomendación de sus alcances.
 
 ### CAPÍTULO XII. NOTIFICACIONES
 
@@ -761,7 +925,9 @@ Notificación es el acto procesal por medio del cual las autoridades electorales
 
 Durante los procesos electorales, el Instituto y el Tribunal Electoral podrán notificar sus actos o resoluciones en cualquier día y hora, sin necesidad de habilitación previa, pero durante el tiempo que transcurra entre dos procesos electorales, las notificaciones las harán únicamente en los días hábiles y entre las siete y las veinte horas.
 
-Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado, por telegrama, por fax o cualquier otro medio de que se disponga, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa en esta ley.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado, por telegrama, por fax, medios electrónicos o cualquier otro medio de que se disponga, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa en esta ley.
 
 ###### Artículo 49.
 
@@ -831,11 +997,15 @@ En los juicios de inconformidad la acumulación procederá en aquellos expedient
 
 La acumulación podrá decretarse durante la sustanciación o para la resolución de los medios de impugnación.
 
-El Secretario de Acuerdos constatará si el medio de impugnación guarda relación con uno previo, en cuyo caso, de inmediato lo hará del conocimiento del Presidente de la Sala para que lo turne al magistrado instructor que haya recibido el medio de impugnación más antiguo, a fin de que determine sobre la acumulación y, en su caso, sustancie los expedientes y formule el proyecto de sentencia para que los asuntos se resuelvan de manera conjunta.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+La Secretaria o Secretario de Acuerdos constatará si el medio de impugnación guarda relación con uno previo, en cuyo caso, de inmediato lo hará del conocimiento de la Presidenta o Presidente de la Sala para que lo turne a la magistrada o magistrado instructor que haya recibido el medio de impugnación más antiguo, a fin de que determine sobre la acumulación y, en su caso, sustancie los expedientes y formule el proyecto de sentencia para que los asuntos se resuelvan de manera conjunta.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 54.
 
-Cuando el magistrado instructor estime fundadamente que no es conveniente resolver en forma conjunta los expedientes acumulados, se dictará el acuerdo de escisión, concluyéndose la sustanciación por cuerda separada.
+Cuando la magistrada o el magistrado instructor estime fundadamente que no es conveniente resolver en forma conjunta los expedientes acumulados, se dictará el acuerdo de escisión, concluyéndose la sustanciación por cuerda separada.
 
 ### CAPÍTULO XIV. CUMPLIMIENTO Y EJECUCIÓN DE LAS RESOLUCIONES, MEDIDAS DE APREMIO Y CORRECCIONES DISCIPLINARIAS
 
@@ -853,11 +1023,41 @@ IV. Auxilio de la fuerza pública, y
 
 V. Arresto hasta por treinta y seis horas.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 55 Bis.
+
+Para los efectos del artículo 55 de esta Ley, se entenderá por:
+
+a) Apercibimiento: Es la advertencia que se hace de una persona para que haga o deje de hacer determinada conducta, señalándose las consecuencias para en caso de incumplimiento, incluso las que se puedan tipificar como delitos penales;
+
+b) Amonestación: Es el extrañamiento verbal o escrito, con la exhortación de enmendar la conducta;
+
+c) Multa: Es la sanción económica con cargo al patrimonio de una persona, con la finalidad de sancionar el incumplimiento a un deber o lograr el cumplimiento de éste, los cuales, de acuerdo con el numeral 6 del Código Fiscal del Estado de Nayarit, se consideran aprovechamientos, por lo que al no ser sufragadas se exigirán como créditos fiscales;
+
+d) Auxilio de la Fuerza Pública: Consistente en la excitativa escrita, formulada a la autoridad competente para que proporcione los elementos a su cargo necesarios, para el cumplimiento de una determinación jurisdiccional, y
+
+e) Arresto hasta por treinta y seis horas: Consistente en la privación de la libertad ejecutada por la autoridad competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 56.
 
-Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior serán aplicados por el órgano del Instituto que conozca del medio de impugnación y el Presidente del Tribunal, según corresponda, de manera indistinta y sin sujetarse al orden de prelación señalado, tomándose en cuenta para su determinación las circunstancias particulares del caso, las personales del responsable y la gravedad de la infracción;
+Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 55 podrán ser aplicadas a las partes, a su representación y en general a cualquier persona que provoque o no guarde el respeto y la consideración debidos o se conduzcan con falta de probidad o decoro, el encargado de ejecutar será el Órgano del Instituto que conozca del medio de impugnación, y la Presidenta o el Presidente del Tribunal, según corresponda, ordenará que se levante el acta correspondiente y que se haga del conocimiento a la autoridad competente para que proceda conforme a derecho de manera indistinta y sin sujetarse al orden de prelación señalado, tomándose en cuenta para su determinación las circunstancias particulares del caso, las personales del responsable y la gravedad de la infracción.
 
 Para hacer efectivas las determinaciones a que refiere el presente artículo, el órgano del Instituto o del Tribunal Electoral podrán auxiliarse de los órganos del Ejecutivo del Estado o municipales que corresponda.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+En caso de multas impuestas por tales conceptos se harán efectivas por la Secretaría de Administración y Finanzas del Estado a través del Procedimiento Administrativo de Ejecución, de conformidad a la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+Cuando sea aplicable lo anterior a partidos políticos, el Tribunal dará cuenta al Instituto, para el efecto de que proceda al descuento correspondiente de las prerrogativas que le correspondan; tratándose de candidatas o candidatos independientes se procederá en los términos de la Ley Electoral.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+Por cuanto hace a los órganos electorales y autoridades responsables, así como a las autoridades federales, estatales, municipales y titulares de Notarias Públicas, el apercibimiento podrá consistir en aplicar el medio de apremio o la corrección disciplinaria sin perjuicio de cualquier otra responsabilidad que pudiera derivarse.
 
 ###### Artículo 57.
 
@@ -897,17 +1097,23 @@ El recurso de revisión será procedente, cuando reuniendo los requisitos que se
 
 ### CAPÍTULO II. SUSTANCIACIÓN Y RESOLUCIÓN
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 61.
 
-Recibido un recurso de revisión por el Instituto, el Presidente de éste lo turnará de inmediato al Secretario para que certifique si cumple con los requisitos establecidos en el artículo 27 de esta ley o, en su caso, si debe desecharse por actualizarse alguna causal de improcedencia.
+Recibido un recurso de revisión por el Instituto, la Presidenta o el Presidente de éste lo turnará de inmediato a la Secretaria o el Secretario para que certifique si cumple con los requisitos establecidos en el artículo 27 de esta ley o, en su caso, si debe desecharse por actualizarse alguna causal de improcedencia.
 
-Si se ha cumplido con todos los requisitos y no existieran causas de improcedencia, el Secretario formulará el proyecto de resolución que corresponda, mismo que será sometido al Consejo Local en la primera sesión que celebre después de su recepción, siempre y cuando se hubiese recibido con la suficiente antelación para su sustanciación.
+Si se ha cumplido con todos los requisitos y no existieran causas de improcedencia, la Secretaria o el Secretario formulará el proyecto de resolución que corresponda, mismo que será sometido al Consejo Local en la primera sesión que celebre después de su recepción, siempre y cuando se hubiese recibido con la suficiente antelación para su sustanciación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 62.
 
-Cuando el promovente incumpla los requisitos señalados en las fracciones IV y V del artículo 27 y no sea posible deducirlos de los elementos que obran en el expediente, el Secretario lo hará de inmediato del conocimiento del Presidente, quien podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación, si no se cumple con el mismo dentro del término de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente.
+Cuando la o el promovente incumpla los requisitos señalados en las fracciones IV y V del artículo 27 y no sea posible deducirlos de los elementos que obran en el expediente, la Secretaria o el Secretario lo hará de inmediato del conocimiento de la Presidenta o el Presidente, quien podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación, si no se cumple con el mismo dentro del término de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente.
 
-Cuando la omisión de requisitos sea atribuible al escrito del tercero interesado o éste se presente fuera de tiempo, el Secretario, en el proyecto de resolución que formule lo tendrá por no presentado.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+Cuando la omisión de requisitos sea atribuible al escrito del tercero interesado o éste se presente fuera de tiempo, la Secretaria o el Secretario, en el proyecto de resolución que formule lo tendrá por no presentado.
 
 Si la autoridad responsable no envía el informe circunstanciado en los términos previstos en el párrafo segundo del artículo 41 de esta ley, el recurso se resolverá con los elementos que obren en autos, sin perjuicio de la sanción que deba imponerse de conformidad con las leyes aplicables.
 
@@ -1019,7 +1225,9 @@ El escrito de protesta por los resultados contenidos en el acta de escrutinio y 
 
 El escrito de protesta deberá contener:
 
-I. El partido político, candidato independiente o coalición que lo presenta;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+I. El partido político, candidato o candidata independiente o coalición que lo presenta;
 
 II. La mesa directiva de casilla ante la que se presenta;
 
@@ -1081,11 +1289,15 @@ Tratándose de la impugnación de los mecanismos de participación ciudadana, el
 
 Para la sustanciación y resolución de los juicios de inconformidad que se interpongan, los órganos electorales correspondientes remitirán el escrito de demanda al Tribunal Electoral junto con los expedientes que integren los escritos de protesta recibidos por éstos y los presentados ante las mesas directivas de casilla, las hojas de incidentes y todo documento relacionado con ésta, bajo su más estricta responsabilidad, según corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 80.
 
-Recibida la demanda de juicio de inconformidad y sus anexos en el Tribunal Electoral, el Presidente de la misma lo turnará al magistrado instructor que corresponda, para que proceda a dictar auto de admisión en el que provea además sobre las pruebas que se ofrezcan o, en su caso, proyecto de resolución de desechamiento cuando así proceda, para someterla a la consideración del Pleno.
+Recibida la demanda de juicio de inconformidad y sus anexos en el Tribunal Electoral, la Presidenta o el Presidente de la misma lo turnará a la magistrada o magistrado instructor que corresponda, para que proceda a dictar auto de admisión en el que provea además sobre las pruebas que se ofrezcan o, en su caso, proyecto de resolución de desechamiento cuando así proceda, para someterla a la consideración del Pleno.
 
-Admitido el medio de impugnación, el magistrado instructor desahogará las pruebas ofrecidas por las partes y, en caso de resultar necesario, ordenará la práctica de diligencias para mejor proveer cuando en los autos no se cuente con elementos suficientes para dirimir la contienda, girando oficio para la obtención de informes o documentos indispensables que la autoridad que figure como responsable omitió allegarle para resolver.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+Admitido el medio de impugnación, la magistrada o el magistrado instructor desahogará las pruebas ofrecidas por las partes y, en caso de resultar necesario, ordenará la práctica de diligencias para mejor proveer cuando en los autos no se cuente con elementos suficientes para dirimir la contienda, girando oficio para la obtención de informes o documentos indispensables que la autoridad que figure como responsable omitió allegarle para resolver.
 
 En todo caso, los magistrados actuarán asistidos por un Secretario de Estudio y Cuenta adscrito a su ponencia, y en caso de ausencia o impedimento, por el Secretario General de Acuerdos.
 
@@ -1131,9 +1343,11 @@ La impugnación de los acuerdos de procedencia o improcedencia del plebiscito o 
 
 Tratándose de la impugnación de los resultados de la votación respecto del plebiscito o del referéndum realizado, el juicio se deberá resolver dentro de un término de 25 días siguientes al día en que se haya recibido en el Tribunal Electoral la demanda y sus anexos correspondientes.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 85.
 
-Las sentencias que recaigan a los juicios de inconformidad presentados en contra de los resultados de las elecciones de gobernador, diputados e integrantes de los ayuntamientos, así como en contra de los resultados de los procesos de consulta, plebiscito, referéndum e iniciativa popular que no sean impugnados en tiempo y forma, serán definitivas e inatacables.
+Las sentencias que recaigan a los juicios de inconformidad presentados en contra de los resultados de las elecciones de gobernadora o gobernador, diputadas o diputados e integrantes de los ayuntamientos, así como en contra de los resultados de los procesos de consulta, plebiscito, referéndum e iniciativa popular que no sean impugnados en tiempo y forma, serán definitivas e inatacables.
 
 ### CAPÍTULO VII. NOTIFICACIONES
 
@@ -1149,7 +1363,9 @@ III. En su caso, al Congreso del Estado, a más tardar dentro de las cuarenta y 
 
 IV. Al representante legal del Comité de Ciudadanos que haya promovido el mecanismo de participación ciudadana dentro de las cuarenta y ocho horas siguientes al dictado de la sentencia, y
 
-V. Al Titular del Poder Ejecutivo del Estado, al Presidente del Poder Legislativo, al Presidente Municipal o Síndico del Ayuntamiento respectivo, o en su caso, al representante legal que hayan acreditado ante el Tribunal Electoral, dentro de las cuarenta y ocho horas siguientes a la emisión de la resolución respectiva.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. Al Titular del Poder Ejecutivo del Estado, a la Presidenta o Presidente del Poder Legislativo, a la Presidenta o Presidente Municipal o Síndico del Ayuntamiento respectivo, o en su caso, al representante legal que hayan acreditado ante el Tribunal Electoral, dentro de las cuarenta y ocho horas siguientes a la emisión de la resolución respectiva.
 
 ## TÍTULO QUINTO. NULIDADES
 
@@ -1281,17 +1497,19 @@ Declarada nula una elección, el Tribunal Electoral notificará este hecho al Co
 
 ### CAPÍTULO I. PROCEDENCIA
 
-(NOTA: EL 3 DE ENERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 94/2016 Y SU ACUMULADA 96/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ENERO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 98.
 
-El juicio para la protección de los derechos político-electorales del ciudadano nayarita sólo procederá cuando el ciudadano POR SÍ MISMO Y EN FORMA INDIVIDUAL, haga valer presuntas violaciones a su derecho de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos, o cuando impugne los actos y resoluciones que indebidamente afecten su derecho para integrar las autoridades electorales y de participación ciudadana en el Estado.
+El juicio para la protección de los derechos político electorales del ciudadano nayarita sólo procederá cuando la ciudadana o el ciudadano haga valer presuntas violaciones a su derecho de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos, o cuando impugne los actos y resoluciones que indebidamente afecten su derecho para integrar las autoridades electorales y de participación ciudadana en el Estado.
 
 En el caso de la impugnación de la negativa de registro como partido, asociación o agrupación política de ciudadanos, la demanda deberá presentarse por conducto de quien ostente la representación legítima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 99.
 
-El juicio sólo podrá ser promovido por el ciudadano cuando:
+El juicio sólo podrá ser promovido por la ciudadana o el ciudadano cuando:
 
 I. Considere que se violó su derecho político-electoral de ser votado, cuando habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el órgano del Instituto que conozca, a solicitud del Tribunal Electoral, remitirá el expediente para que sea resuelto por ésta, junto con el juicio promovido por el ciudadano;
 
@@ -1301,41 +1519,33 @@ III. Habiéndose asociado con otros ciudadanos para tomar parte de forma pacífi
 
 IV. Considere que un acto o resolución de la autoridad electoral es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior;
 
-V. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+V. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político electorales. Lo anterior es aplicable a las precandidatas o precandidatos y candidatas o candidatos a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable;
 
 VI. Al candidato ganador de una elección se le niegue la constancia de mayoría o de asignación;
 
-VII. Habiendo cumplido con los requisitos y trámites exigidos, no hubiere obtenido su acreditación como observador electoral, para el proceso electoral correspondiente, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
-VIII. Teniendo interés jurídico, se viole su derecho de acceso a la información en materia político-electoral y que lo vincule con el ejercicio de algunos de los derechos de votar o ser votado en las elecciones populares del Estado, de asociarse libremente para participar en forma pacífica en los asuntos políticos del Estado, en términos de las fracciones I y II del artículo 17 de la Constitución local.
+VII. Habiendo cumplido con los requisitos y trámites exigidos, no hubiere obtenido su acreditación como observador electoral, para el proceso electoral correspondiente;
 
-El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizadas las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que se establecen en la presente ley para tal efecto.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+VIII. Teniendo interés jurídico, se viole su derecho de acceso a la información en materia político electoral y que lo vincule con el ejercicio de algunos de los derechos de votar o ser votado en las elecciones populares del Estado, de asociarse libremente para participar en forma pacífica en los asuntos políticos del Estado, en términos de las fracciones I y II del artículo 17 de la Constitución local, y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+IX. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+El juicio sólo será procedente cuando la parte actora haya agotado todas las instancias previas y realizadas las gestiones necesarias para estar en condiciones de ejercer el derecho político electoral presuntamente violado, en la forma y en los plazos que se establecen en la presente ley para tal efecto.
 
 En los casos previstos en la fracción IV de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
 ###### Artículo 100.
 
-El juicio sólo podrá ser promovido por el ciudadano cuando:
-
-I. Considere que se violó su derecho político-electoral de ser votado, cuando habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el órgano del Instituto que conozca, a solicitud del Tribunal Electoral, remitirá el expediente para que sea resuelto por ésta, junto con el juicio promovido por el ciudadano;
-
-II. Estime que se violentó su derecho político-electoral de ser votado, por habérsele negado indebidamente su registro como candidato independiente a algún cargo de elección popular;
-
-III. Habiéndose asociado con otros ciudadanos para tomar parte de forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación o asociación política o de integración de autoridades de participación ciudadana;
-
-IV. Considere que un acto o resolución de la autoridad electoral es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior;
-
-V. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable;
-
-VI. Al candidato ganador de una elección se le niegue la entrega de la constancia de mayoría o de asignación;
-
-VII. Habiendo cumplido con los requisitos y trámites exigidos, no hubiere obtenido su acreditación como observador electoral, para el proceso electoral correspondiente, y
-
-VIII. Teniendo interés jurídico, se viole su derecho de acceso a la información en materia político-electoral y que lo vincule con el ejercicio de algunos de los derechos de votar o ser votado en las elecciones populares del Estado, de asociarse libremente para participar en forma pacífica en los asuntos políticos del Estado, en términos de las fracciones I y II del artículo 17 de la Constitución local.
-
-El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizadas las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que se establecen en la presente ley para tal efecto.
-
-En los casos previstos en la fracción IV de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2020)
 
 ###### Artículo 101.
 
@@ -1361,11 +1571,15 @@ I. Confirmar el acto o resolución impugnada, o
 
 II. Revocar o modificar el acto o resolución impugnada y restituir al promovente en el uso y goce del derecho político-electoral que le haya sido violado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 105.
 
-Las sentencias recaídas en los juicios para la protección de los derechos político electorales del ciudadano nayarita serán notificadas:
+Las sentencias recaídas en los juicios para la protección de los derechos político electorales del ciudadano o ciudadana nayarita serán notificadas:
 
-I. Al actor que promovió el juicio, y en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó, de manera personal, siempre y cuando haya señalado domicilio ubicado en la sede del Tribunal Electoral; en cualquier otro caso, la notificación se hará por estrados, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+
+I. A la actora o actor que promovió el juicio, y en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes en que se dictó, de manera personal, siempre y cuando haya señalado domicilio ubicado en la sede del Tribunal Electoral; en cualquier otro caso, la notificación se hará por estrados, y
 
 II. A la autoridad u órgano partidista responsable, a más tardar dentro de los dos días siguientes al en que se dictó, por oficio acompañado de la copia certificada de la sentencia respectiva.
 
@@ -1408,3 +1622,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.- Dip. Francisco Javier Jacobo Cambero, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los cinco días del mes de octubre del año dos mil dieciséis. - ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica. - El Secretario General de Gobierno, Lic. Jorge Armando Gómez Arias.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS A LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
