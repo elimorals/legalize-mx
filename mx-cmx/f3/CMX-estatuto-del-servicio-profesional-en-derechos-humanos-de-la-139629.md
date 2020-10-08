@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-139
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-30"
-last_updated: "2020-03-06"
+last_updated: "2020-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139629&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-16"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Aviso publicado en el número 251 de la Gaceta Oficial de la Ciudad de México, el lunes 30 de diciembre de 2019.
 
@@ -184,15 +184,25 @@ XXII. Padrón: Padrón de Actividades Complementarias de Profesionalización;
 
 XXIII. Persona Integrante del Servicio: Persona que ocupa un cargo y puesto del Servicio Profesional en Derechos Humanos;
 
-XXIV. Personal Administrativo: El conjunto de personas que laboran en la Comisión y que no pertenecen al Servicio Profesional en Derechos Humanos de la Comisión;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-XXV. Personal Profesional: El conjunto de personas trabajadoras de confianza que ocupan cargos y puestos del Servicio Profesional en Derechos Humanos de la Comisión, en los términos del presente Estatuto;
+XXIV. (DEROGADA, G.O. 8 DE OCTUBRE DE 2020)
 
-XXVI. Prestadora o Prestador de Servicios Profesionales: La persona que presta sus servicios profesionales a la Comisión y que no forma parte del Personal Administrativo ni del Personal Profesional de la Comisión;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+XXV. (DEROGADA, G.O. 8 DE OCTUBRE DE 2020)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+XXVI. (DEROGADA, G.O. 8 DE OCTUBRE DE 2020)
 
 XXVII. Programa de Profesionalización: El Programa de Profesionalización en Derechos Humanos de la Comisión;
 
-XXVIII. Promoción: Es el mecanismo por el cual el Personal Profesional y el Personal Administrativo accede a una categoría más alta en la estructura orgánica;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+XXVIII. Promoción: Es el mecanismo por el cual las personas integrantes del servicio y el personal de la Comisión accede a una categoría más alta en la estructura orgánica;
 
 XXIX. Puesto: Es la denominación específica de una unidad de trabajo, al que se le atribuye un conjunto de funciones y un perfil determinado, y al que le corresponde un cargo, de acuerdo al tabulador de sueldos y al catálogo correspondiente;
 
@@ -226,9 +236,13 @@ Toda interpretación realizada a estas normas deberá cumplir con los principios
 
 ### Capítulo I. Naturaleza y objeto del Servicio
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 5.
 
-El Servicio es un sistema de carrera que busca el desarrollo y formación del Personal Profesional con el propósito de que la atención que brinda la Comisión a las personas usuarias sea comprometida con los derechos humanos, de calidad, empática, integral, profesional, acorde con las líneas estratégicas institucionales, y conforme a los principios rectores de:
+El Servicio es un sistema de carrera que busca el desarrollo y formación de sus Integrantes, con el propósito de que la atención que brinda la Comisión a las personas usuarias sea comprometida con los derechos humanos, de calidad, empática, integral, profesional, acorde con las líneas estratégicas institucionales, y conforme a los principios rectores de:
 
 I. Enfoque de derechos humanos;
 
@@ -252,17 +266,21 @@ X. Equidad laboral, y
 
 XI. Un ambiente laboral libre de todo tipo de violencias.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 6.
 
-Para el cumplimiento de su propósito, el Servicio se conformará por un conjunto de normas, principios y procedimientos diseñados para regular el ingreso, ascenso, promoción, permanencia y disciplina del personal de servicio profesional en derechos humanos, a través de los subsistemas de:
+Para el cumplimiento de su propósito, el Servicio se conformará por un conjunto de normas, principios y procedimientos diseñados para regular el ingreso, ascenso, promoción, permanencia y disciplina de las personas integrantes del Servicio, a través de los subsistemas de:
 
-I. Selección, Ingreso, Ascenso, Promoción y Separación: Integrado por las normas y los procedimientos para reclutar, seleccionar y designar al Personal Profesional, los medios para su ascenso y los supuestos y procedimientos por los cuales una persona deja de ser Integrante del Servicio;
+I. Selección, Ingreso, Ascenso, Promoción y Separación: Integrado por las normas y los procedimientos para reclutar, seleccionar y designar a las personas integrantes del Servicio, los medios para su ascenso y los supuestos y procedimientos por los cuales una persona deja de ser Integrante del Servicio;
 
-II. Gestión del Desempeño: Integrado por las normas y los procedimientos para la planeación, seguimiento y evaluación del desempeño del Personal Profesional.
+II. Gestión del Desempeño: Integrado por las normas y los procedimientos para la planeación, seguimiento y evaluación del desempeño de las personas integrantes del Servicio;
 
-III. Desarrollo·de Carrera: Integrado por las normas y los procedimientos para incentivar, promover, reconocer, estimular y premiar la formación y el desempeño individual del Personal Profesional, y
+III. Desarrollo de Carrera: Integrado por las normas y los procedimientos para incentivar, promover, reconocer, estimular y premiar la formación y el desempeño individual de las personas integrantes del Servicio, y
 
-IV. Profesionalización: Integrado por las normas y los procedimientos de formación y capacitación especializada, continua y permanente para la profesionalización del trabajo del Personal Profesional.
+IV. Profesionalización: Integrado por las normas y los procedimientos de formación y capacitación especializada, continua y permanente para la profesionalización del trabajo de las personas integrantes del Servicio.
 
 ###### Artículo 7.
 
@@ -278,9 +296,13 @@ IV. Promover entre las personas Integrantes del Servicio una cultura de trabajo 
 
 ### Capítulo II. Derechos y obligaciones de las personas integrantes del Servicio
 
+> <small>N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 8.
 
-El Personal Profesional tendrá los derechos siguientes:
+Las personas integrantes del Servicio tendrán los derechos siguientes:
 
 I. Obtener la titularidad como Integrante del Servicio, en los términos establecidos por este Estatuto;
 
@@ -308,9 +330,13 @@ XII. En caso de reincorporarse al Servicio, solicitar el reconocimiento de las f
 
 XIII. Las demás que se deriven de la Ley, del Reglamento, del presente Estatuto y de la normatividad derivada.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-Con independencia de aquellas obligaciones impuestas por los Lineamientos generales de Trabajo de los Servidores Públicos de la Comisión y demás ordenamientos en materia de (sic) laboral aplicables, son obligaciones del Personal Profesional:
+Con independencia de aquellas obligaciones impuestas por los Lineamientos generales de Trabajo de los Servidores Públicos de la Comisión y demás ordenamientos en materia de laboral aplicables, son obligaciones de las personas integrantes del Servicio:
 
 I. Desempeñar sus labores con eficiencia, diligencia, empatía, probidad y eficacia, observando las instrucciones que reciban de sus superiores jerárquicos;
 
@@ -340,7 +366,7 @@ XIII. Conducirse con honradez y rectitud en los procesos derivados del Servicio,
 
 XIV. Acreditar las horas de actualización permanente en profesionalización de acuerdo a lo establecido en el Programa de Profesionalización y el presente Estatuto;
 
-XV. Mantener una conducta de respeto hacia el personal que labora en la Comisión, personas peticionarias y demás personas, considerando siempre un trato digno con perspectiva de derechos humanos, género, abstención absoluta de hostigamiento y acoso o cualquier otra que vulnere la dignidad o los derechos de las personas;
+XV. Mantener una conducta de respeto hacia el personal que labora en la Comisión, personas peticionarias y demás personas, considerando siempre un trato digno con perspectiva de derechos humanos, género, abstención absoluta de hostigamiento y acoso o cualquier otra que vulnere la dignidad o los derechos de las. personas;
 
 XVI. Aprobar las evaluaciones derivadas del Programa de Profesionalización, en los términos y condiciones que establece este Estatuto y la normativa aplicable;
 
@@ -350,17 +376,25 @@ XVIII. Las demás que señale la normatividad aplicable.
 
 ### Capítulo III. Catálogo General de Cargos y Puestos
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 10.
 
-El Catálogo es el documento que establece la denominación, clasificación, descripción, perfil y funciones requeridas para los cargos y puestos tanto del Personal Profesional como del Personal Administrativo de la Comisión. Corresponderá a las personas Titulares de cada área la determinación de las fichas en las que conste la información sobre los puestos a su cargo, en tanto que la DGA será responsable de la concentración de los insumos que le alleguen las áreas para efectos de fijar una versión definitiva del Catálogo, así como velar porque el personal cumpla con sus respectivos perfiles y funciones, en los términos de las disposiciones aplicables.
+El Catálogo es el documento que establece la denominación, clasificación, descripción, perfil y funciones requeridas para los cargos y puestos del personal de la Comisión. Corresponderá a las personas Titulares de cada área la determinación de las fichas en las que conste la información sobre los puestos a su cargo, en tanto que la DGA será responsable de la concentración de los insumos que le alleguen las áreas para efectos de fijar una versión definitiva del Catálogo, así como velar por que el personal cumpla con sus respectivos perfiles y funciones, en los términos de las disposiciones aplicables.
 
 ###### Artículo 11.
 
 Los puestos del Servicio serán aquellos que, conforme a sus funciones, se relacionen directamente con el cumplimiento del objeto de la Comisión, de acuerdo con las áreas de especialidad de Defensa y Garantía, Protección y Promoción de los Derechos Humanos, a que se refiere el artículo 41 del Reglamento.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 12.
 
-El Catálogo señalará al menos las funciones genéricas de los cargos y puestos del Servicio, así como el perfil mínimo de conocimientos, capacidades, habilidades y experiencia que se exigirá al Personal Profesional que los ocupe, conforme a la especialidad señalada en el artículo anterior.
+El Catálogo señalará al menos las funciones genéricas de los cargos y puestos del Servicio, así como el perfil mínimo de conocimientos, capacidades, habilidades y experiencia que se exigirá a las personas integrantes del Servicio que los ocupe, conforme a la especialidad señalada en el artículo anterior.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
@@ -398,15 +432,15 @@ A efecto de realizar incorporaciones, desincorporaciones u otras actualizaciones
 
 La DGA informará a la persona Titular de la Presidencia sobre las incorporaciones y retiros de puestos, u otras propuestas de modificación al Catálogo.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-Una vez aprobada la solicitud, la DGA instruirá a la Coordinación que realice la notificación que corresponda a la persona que ocupe el puesto, la cual deberá tener lugar con al menos cinco días hábiles de anticipación a la fecha en la que la modificación produzca efectos.
+Una vez aprobada la solicitud, la persona Titular de la DGA instruirá a la Coordinación que realice la notificación que corresponda a la persona que ocupe el puesto, la cual deberá tener lugar con al menos cinco días hábiles de anticipación a la fecha en la que la modificación produzca efectos.
 
-Las personas integrantes del Servicio cuyos puestos sean retirados del mismo, conservarán su calidad de personas Servidoras Públicas y los derechos laborales inherentes al cargo o puesto y ajustarán sus actuaciones a las disposiciones aplicables para el personal administrativo.
+Las personas integrantes del Servicio cuyos puestos sean retirados del mismo, conservarán su calidad de personas Servidoras Públicas y los derechos laborales inherentes al cargo o puesto y ajustarán sus actuaciones a las disposiciones aplicables para el personal de la Comisión que no forme parte del Servicio.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
@@ -418,9 +452,13 @@ La Presidencia o las personas Titulares de las áreas de la Comisión podrán so
 
 ### Capítulo IV. Régimen laboral del Personal Profesional
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 18.
 
-El Personal Profesional de la Comisión será considerado de confianza y tendrán los derechos y obligaciones comprendidas en la normativa laboral aplicable, así como de los previstos en este Estatuto.
+Las personas integrantes del Servicio de la Comisión serán consideradas de confianza y tendrán los derechos y obligaciones comprendidas en la normativa laboral aplicable, así como de los previstos en este Estatuto.
 
 ###### Artículo 19.
 
@@ -470,11 +508,15 @@ La Coordinación deberá dar respuesta dentro de los cinco días hábiles siguie
 
 En caso de autorizarse, se brindarán las facilidades necesarias a las personas acreedoras de apoyos institucionales referidos en los artículos 216 y 217 del presente Estatuto, quienes deberán prestar sus servicios en la Comisión por un período igual al de la duración del apoyo, y podrán ser convocadas en cualquier momento para realizar actividades de socialización para replicar lo aprendido en beneficio de otras personas Integrantes del Servicio.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 24.
 
-La antigüedad del Personal Profesional, para efectos laborales, se computará a partir de la fecha en que haya ingresado a la Comisión o, en su defecto, a partir de la fecha en que hubiera comenzado a cotizar por la Comisión al ISSSTE.
+La antigüedad de las personas integrantes del Servicio, para efectos laborales, se computará a partir de la fecha en que haya ingresado a la Comisión o, en su defecto, a partir de la fecha en que hubiera comenzado a cotizar por la Comisión al ISSSTE.
 
-Para computar la antigüedad del personal del Servicio se considerarán exclusivamente los períodos efectivos en los que se desempeñe de manera activa, a excepción de que cuente con alguna licencia con goce de sueldo o de carácter médico expedida por el ISSSTE.
+Para computar la antigüedad de las personas integrantes del Servicio se considerarán exclusivamente los períodos efectivos en los que se desempeñe de manera activa, a excepción de que cuente con alguna licencia con goce de sueldo o de carácter médico expedida por el ISSSTE.
 
 ### Capítulo V. Atribuciones de las instancias de coordinación y consulta del Servicio
 
@@ -530,7 +572,11 @@ IV. Las demás que le confiere el presente Estatuto y los demás ordenamientos j
 
 La persona Titular de la Presidencia tendrá las atribuciones siguientes:
 
-I. Dictar los criterios y directrices para la implementación de los procesos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, permanencia, separación y disciplina de las personas Integrantes del Servicio, así como de la capacitación del personal administrativo, en los términos previstos en el presente Estatuto;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+I. Dictar los criterios y directrices para la implementación de los procesos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, permanencia, separación y disciplina de las personas Integrantes del Servicio, así como de la capacitación del personal de la Comisión, en los términos previstos en el presente Estatuto y las disposiciones aplicables;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
@@ -624,7 +670,11 @@ X. Someter el Programa de Profesionalización a la aprobación de la persona Tit
 
 XI. Supervisar las gestiones internas y externas para la certificación de personal especializado en materia de mediación y conciliación.
 
-XII. Proponer a la persona titular de la Presidencia los lineamientos y acciones necesarias de capacitación del Personal Administrativo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+XII. Proponer a la persona titular de la Presidencia los lineamientos y acciones necesarias de capacitación del personal de la Comisión;
 
 XIII. Impulsar acciones de vinculación interna y externa con personas expertas, organizaciones, instituciones públicas, privadas y educativas para el adecuado funcionamiento del Servicio y el Programa de Profesionalización;
 
@@ -692,11 +742,11 @@ I. Coordinar el diseño e implementación de los procesos de selección, ingreso
 
 II. Fungir como Secretaría Técnica del Mecanismo y del Grupo Consultivo;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
 
-III. Proponer al Mecanismo los cambios de adscripción, incentivos, el otorgamiento de licencias y encargadurías de despacho del Personal Profesional, y emitir y formular, una vez aprobados, las notificaciones de las resoluciones correspondientes a las personas interesadas;
+III. Proponer al Mecanismo los cambios de adscripción, incentivos, el otorgamiento de licencias y encargadurías de despacho de las personas integrantes del Servicio, y emitir y formular, una vez aprobados, las notificaciones de las resoluciones correspondientes a las personas interesadas;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
@@ -724,7 +774,11 @@ IX. (DEROGADA, G.O. 6 DE MARZO DE 2020)
 
 X. (DEROGADA, G.O. 6 DE MARZO DE 2020)
 
-XI. Diseñar e implementar, en acuerdo con la persona Titular de la DGA, la estrategia de capacitación del Personal Administrativo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+XI. Diseñar e implementar, en acuerdo con la persona Titular de la DGA, la estrategia de capacitación del personal de la Comisión;
 
 XII. Proponer a la persona titular de la DGA, la adopción de acciones de vinculación interna y externa con personas expertas, organizaciones, instancias gubernamentales y educativas para el adecuado funcionamiento del Servicio y el Programa de Profesionalización;
 
@@ -808,11 +862,11 @@ Serán atribuciones del Mecanismo las siguientes:
 
 I. Servir como instancia de consulta y validación para la implementación de los procesos de selección, ingreso, promoción, evaluación, permanencia, separación y disciplina de las personas Integrantes del Servicio;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-> <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
 
-II. Autorizar los cambios de adscripción, incentivos, el otorgamiento de licencias y encargadurías de despacho del Personal Profesional que someta a su consideración la Coordinación, en su carácter de Secretaría Técnica del Mecanismo;
+II. Autorizar los cambios de adscripción, incentivos, el otorgamiento de licencias y encargadurías de despacho de las personas integrantes del Servicio que someta a su consideración la Coordinación, en su carácter de Secretaría Técnica del Mecanismo;
 
 III. Formular propuestas a la Presidencia de la Comisión y a las instancias referidas en este Estatuto, o bien, a las áreas de la Comisión que así lo requieran, encaminadas a la adopción de medidas transversales de igualdad sustantiva, no discriminación y respeto e inclusión de personas y grupos de atención prioritaria en el marco de lo dispuesto en el presente Estatuto y la normatividad que de él emane;
 
@@ -904,7 +958,11 @@ La Coordinación podrá invitar a las sesiones del Grupo Consultivo a personas e
 
 Son atribuciones del Grupo Consultivo, las siguientes:
 
-I. Servir como instancia de consulta para la implementación de los procesos de profesionalización, capacitación y actualización permanente de las personas Integrantes del Servicio, así como de la capacitación del personal administrativo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+I. Servir como instancia de consulta para la implementación de los procesos de profesionalización, capacitación y actualización permanente de las personas Integrantes del Servicio;
 
 II. Proponer a la Coordinación las modificaciones y mejoras que estime pertinente en el marco del diseño o de la implementación del Programa de Profesionalización;
 
@@ -914,7 +972,11 @@ IV. Emitir opiniones y propuestas sobre acciones de vinculación interna y exter
 
 V. En caso de así requerirse, revisar y dictaminar bancos de reactivos para procesos de evaluación del Servicio;
 
-VI. Emitir opiniones respecto a las estrategias de capacitación a personal administrativo de la Comisión;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+VI. Emitir opiniones respecto a las estrategias de capacitación a personal de la Comisión;
 
 VII. Emitir opiniones respecto al otorgamiento de apoyos institucionales para la realización de actividades complementarias de profesionalización, y
 
@@ -966,9 +1028,13 @@ El Subsistema de Selección, Ingreso, Ascenso, Promoción y Separación tiene co
 
 El ingreso al Servicio solamente podrá efectuarse como resultado de los concursos de oposición, celebrados para cada cargo y puesto en los términos y con las condiciones establecidas en el presente Estatuto. El proceso de ingreso al Servicio se consumará con la obtención del nombramiento y la adscripción correspondiente.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 51.
 
-Por causas excepcionales, el Personal Administrativo podrá ingresar al Servicio mediante el proceso extraordinario de ingreso, establecido en el Presente Estatuto.
+Por causas excepcionales, el personal de la Comisión que no pertenezca al Servicio podrá ingresar a éste mediante el proceso extraordinario de ingreso, establecido en el Presente Estatuto.
 
 ###### Artículo 52.
 
@@ -980,9 +1046,13 @@ Asimismo, se implementarán mecanismos que permitan la transparencia en los proc
 
 El ascenso de las personas Integrantes del Servicio sólo podrá obtenerse mediante concursos de oposición.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 54.
 
-La ocupación de vacantes únicamente podrá llevarse a cabo mediante concurso o a través de una readscripción y, excepcionalmente, por el proceso extraordinario de ingreso al Servicio del Personal Administrativo en los términos establecidos por el presente Estatuto y la normativa aplicable.
+La ocupación de vacantes únicamente podrá llevarse a cabo mediante concurso o a través de una readscripción y, excepcionalmente, por el proceso extraordinario de ingreso al Servicio en los términos establecidos por el presente Estatuto y la normativa aplicable.
 
 ###### Artículo 55.
 
@@ -1014,9 +1084,13 @@ Si de manera posterior a la conclusión del concurso de oposición se genera otr
 
 La calidad de reserva activa se dará por terminada al inicio de un nuevo proceso de ingreso o ascenso, o en caso de que esto no suceda, tendrá una vigencia no mayor de dos años.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 58.
 
-La persona Titular de la Presidencia de la Comisión determinará los cargos y puestos vacantes que serán sometidos a concurso de oposición, conforme a las necesidades del Servicio y a los recursos presupuestarios disponibles. La ocupación de cargos y puestos estará sujeta a disponibilidad presupuestal, a partir de la propuesta validada por el mecanismo.
+La persona Titular de la Presidencia de la Comisión determinará los cargos y puestos vacantes que serán sometidos a concurso de oposición, conforme a las necesidades del Servicio y a los recursos presupuestarios disponibles. La ocupación de cargos y puestos estará sujeta a disponibilidad presupuestal, a partir de la propuesta validada por el Mecanismo.
 
 ###### Artículo 59.
 
@@ -1048,7 +1122,11 @@ Los concursos de oposición se clasificarán en dos tipos:
 
 I. Abierto: Tiene el objetivo de invitar al público en general a ocupar un puesto vacante de la Comisión, y
 
-II. Cerrado: Tiene el objetivo de convocar únicamente al Personal Profesional que busque ocupar un puesto vacante de mayor jerarquía, así como al Personal Administrativo que reúna los requisitos establecidos tanto en el presente Estatuto como en la convocatoria respectiva.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+II. Cerrado: Tiene el objetivo de convocar únicamente a las personas integrantes del Servicio que busquen ocupar un puesto vacante de mayor jerarquía, así como al personal de la Comisión que no forme parte del Servicio o tengan una relación contractual de prestación de servicios profesionales por honorarios asimilados a salarios, que reúna los requisitos establecidos tanto en el presente Estatuto como en la convocatoria respectiva.
 
 ###### Artículo 65.
 
@@ -1128,11 +1206,11 @@ Las características generales de las etapas de los concursos de oposición se e
 
 El reclutamiento de las personas aspirantes a ingresar al Servicio o a ocupar un puesto se entenderá como el procedimiento que permite atraer personas aspirantes con el perfil y los requisitos necesarios.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
 
-Esta etapa se iniciará a través de la emisión de una convocatoria y terminará con la validación curricular y documental de los registros correspondientes.
+Esta etapa se iniciará a través de la emisión de una convocatoria y terminará con la validación curricular y documental de los requisitos correspondientes.
 
 ###### Artículo 71.
 
@@ -1248,21 +1326,33 @@ Aquellas personas que se readscriban o reincorporen al Servicio y cambien de la 
 
 ### Capítulo IV. Proceso extraordinario de ingreso del Personal Administrativo al Servicio
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 88.
 
-El proceso extraordinario de ingreso al Servicio del Personal Administrativo constituye la vía excepcional del Subsistema de Ingreso, Ascenso, Promoción y Separación, el cual se aplicará en aquellos casos en que la Comisión determine la incorporación de puestos administrativos al Servicio Profesional en relación con aquellas personas que ocupen por estructura dichos puestos.
+El proceso extraordinario de ingreso al Servicio constituye la vía excepcional del Subsistema de Ingreso, Ascenso, Promoción y Separación, el cual se aplicará en aquellos casos en que la Comisión determine la incorporación de puestos administrativos al Servicio Profesional en relación con aquellas personas que ocupen por estructura dichos puestos.
 
 La incorporación a través del proceso extraordinario de ingreso no implicará ascenso ni promoción en cargo o puesto homólogo de la estructura del Servicio. El ascenso dentro del Servicio estará reservado a la participación en un concurso de oposición.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 89.
 
-El presente proceso se aplicará exclusivamente al Personal Administrativo cuyo cargo o puesto de estructura se incorpore al Servicio a partir de un Acuerdo de la persona Titular de la Presidencia, a propuesta de la persona Titular de la DGA y validada por el Mecanismo, por virtud del cual se lleve a cabo un proceso de reestructura o reorganización administrativa que implique modificaciones en las áreas de la Comisión.
+El presente proceso se aplicará exclusivamente al personal de la Comisión cuyo cargo o puesto de estructura se incorpore al Servicio a partir de un Acuerdo de la persona Titular de la Presidencia, a propuesta de la persona Titular de la DGA y validada por el Mecanismo, por virtud del cual se lleve a cabo un proceso de reestructura o reorganización administrativa que implique modificaciones en las áreas de la Comisión.
 
-La aplicación del proceso extraordinario de ingreso al Servicio para el Personal Administrativo tendrá como propósito fundamental salvaguardar los derechos laborales de las personas que ocupen un cargo o puesto que se incorpore al Servicio por necesidades institucionales.
+La aplicación del proceso extraordinario de ingreso al Servicio tendrá como propósito fundamental salvaguardar los derechos laborales de las personas que ocupen un cargo o puesto que se incorpore al Servicio por necesidades institucionales.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 90.
 
-La Coordinación notificará al Personal Administrativo que deberá incorporarse al Servicio en el marco de la implementación del proceso extraordinario.
+La Coordinación notificará al personal que deberá incorporarse al Servicio en el marco de la implementación del proceso extraordinario.
 
 ###### Artículo 91.
 
@@ -1272,9 +1362,13 @@ La decisión de la persona servidora pública de no incorporarse al Servicio ten
 
 La Comisión podrá ofrecer, en la medida de sus posibilidades administrativas o presupuestales, la readscripción de la persona servidora pública que decida no incorporarse al Servicio.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 93.
 
-La persona servidora pública que decida incorporarse al Servicio Profesional a través del presente procedimiento, deberá acreditar la evaluación de conocimientos correspondiente a la Fase de Formación Inicial del Programa de Profesionalización en una única oportunidad, con una calificación mayor o igual a 80, a efecto de obtener su ingreso definitivo al Servicio. El Personal Administrativo que no acredite dicha evaluación tendrá como consecuencia la terminación de la relación laboral, sin responsabilidad para la Comisión.
+La persona servidora pública que decida incorporarse al Servicio Profesional a través del presente procedimiento, deberá acreditar la evaluación de conocimientos correspondiente a la Fase de Formación Inicial del Programa de Profesionalización en una única oportunidad, con una calificación mayor o igual a 80, a efecto de obtener su ingreso definitivo al Servicio. El personal que no acredite dicha evaluación tendrá como consecuencia la terminación de la relación laboral, sin responsabilidad para la Comisión.
 
 ###### Artículo 94.
 
@@ -1350,9 +1444,13 @@ Las notificaciones de los nombramientos deberán contener el nombre de la person
 
 Las notificaciones de los nombramientos provisionales serán otorgadas a las personas que hayan concluido todas las etapas dispuestas en el marco del Subsistema de Ingreso, Ascenso, Promoción y Separación, quienes a partir de este momento serán consideradas Integrantes del Servicio.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 105.
 
-Las notificaciones de los nombramientos del Personal Profesional serán provisionales hasta en tanto la persona Integrante del Servicio haya concluido la fase de Formación y Capacitación Especializada del Programa de Profesionalización, en los términos, modalidades y procedimientos señalados en el presente Estatuto. Una vez satisfechos esos requisitos, se otorgará la titularidad, expidiendo el nombramiento respectivo.
+Las notificaciones de los nombramientos de las personas integrantes del Servicio serán provisionales hasta en tanto la persona Integrante del Servicio haya concluido la fase de Formación y Capacitación Especializada del Programa de Profesionalización, en los términos, modalidades y procedimientos señalados en el presente Estatuto. Una vez satisfechos esos requisitos, se otorgará la titularidad, expidiendo el nombramiento respectivo.
 
 ###### Artículo 106.
 
@@ -1366,17 +1464,21 @@ Las notificaciones de los nombramientos de titularidad de las personas Integrant
 
 La notificación de nombramiento de titularidad iniciará su vigencia a partir de la fecha en que la Coordinación emita el dictamen correspondiente que determine, en definitiva, a aquellas personas integrantes que hayan obtenido la titularidad de conformidad con las normas del presente Estatuto.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 109.
 
-La Coordinación, previa valoración de los expedientes del Personal Profesional, elaborará un Dictamen sobre las personas que cumplan con los requisitos para obtener la titularidad, mismo que pondrá a consideración de la DGA, con el visto bueno de la DGJ. La Coordinación emitirá las notificaciones de los nombramientos correspondientes.
+La Coordinación, previa valoración de los expedientes de las personas integrantes del Servicio, elaborará un Dictamen sobre las personas que cumplan con los requisitos para obtener la titularidad, mismo que pondrá a consideración de la DGA, con el visto bueno de la DGJ. La Coordinación emitirá las notificaciones de los nombramientos correspondientes.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 110.
 
-La Coordinación realizará la valoración de los requisitos para la obtención de la titularidad del Personal Profesional, dentro de los cuatro meses siguientes a la conclusión de los cursos de la fase de Formación y Capacitación Especializada del Programa de Profesionalización.
+La Coordinación realizará la valoración de los requisitos para la obtención de la titularidad de las personas integrantes del Servicio, dentro de los cuatro meses siguientes a la conclusión de los cursos de la fase de Formación y Capacitación Especializada del Programa de Profesionalización.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
@@ -1444,7 +1546,7 @@ VI. Por defunción;
 
 > <small>(REFORMADA, G.O. 6 DE MARZO DE 2020)</small>
 
-VII. Otras circunstancias que previamente valoradas por la instancia competente, impidan persona Integrante del Servicio su permanencia; y
+VII. Otras circunstancias que previamente valoradas por la instancia competente, impidan a la persona Integrante del Servicio su permanencia; y
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
@@ -1498,11 +1600,15 @@ IX. Cuando sume dos períodos consecutivos con resultados iguales a 80 puntos en
 
 X. Por incumplimiento a sus obligaciones de carácter laboral, previstas en este Estatuto, los Lineamientos Generales de Trabajo de los Servidores Públicos de la Comisión y en las demás leyes en materia del trabajo aplicables.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 120.
 
-El Personal Profesional que por cualquier circunstancia cause baja de la Comisión o, en su caso, se separe del Servicio para ocupar una plaza de la rama administrativa, perderá todos los derechos y obligaciones inherentes al Servicio.
+La persona integrante del Servicio que por cualquier circunstancia cause baja de la Comisión o, en su caso, se separe del Servicio para ocupar una plaza de la rama administrativa, perderá todos los derechos y obligaciones inherentes al Servicio.
 
-Cuando el Personal Profesional que funja como persona evaluadora dentro del Subsistema de Gestión del Desempeño concluya su encargo, deberá entregar a la Coordinación la evidencia documental que acredite el cumplimiento de sus obligaciones.
+Cuando las personas integrantes del Servicio que funjan como personas evaluadoras dentro del Subsistema de Gestión del Desempeño concluyan su encargo, deberán entregar a la Coordinación la evidencia documental que acredite el cumplimiento de sus obligaciones.
 
 ###### Artículo 121.
 
@@ -1516,9 +1622,13 @@ La pertenencia al Servicio no implica inamovilidad de las personas Integrantes d
 
 ### Capítulo Único. Gestión del desempeño
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 123.
 
-El Subsistema de Gestión del Desempeño está conformado por las normas y los procedimientos para la planeación, seguimiento y evaluación del desempeño del Personal Profesional. Los criterios a emplear en la evaluación del desempeño se precisarán en la Metodología.
+El Subsistema de Gestión del Desempeño está conformado por las normas y los procedimientos para la planeación, seguimiento y evaluación del desempeño de las personas integrantes del Servicio. Los criterios a emplear en la evaluación del desempeño se precisarán en la Metodología.
 
 ###### Artículo 124.
 
@@ -1536,7 +1646,11 @@ La Evaluación del Desempeño estará destinada a medir las metas alcanzadas, as
 
 La persona Titular de la DGA someterá a consideración de la persona Titular de la Presidencia de la Comisión, la propuesta de Metodología, la cual contendrá las normas y procedimientos a evaluar en el Subsistema de la Gestión del Desempeño.
 
-Una vez aprobada la Metodología o, en su caso las modificaciones a la misma, la persona Titular de la DGA, a través de la Coordinación, deberá notificarla al Personal Profesional en los diez días hábiles siguientes, mediante correo institucional y por Estrados Institucionales.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+Una vez aprobada la Metodología o, en su caso las modificaciones a la misma, la persona Titular de la DGA, a través de la Coordinación, deberá notificarla a las personas integrantes del Servicio en los diez días hábiles siguientes, mediante correo institucional y por Estrados Institucionales.
 
 ###### Artículo 127.
 
@@ -1604,13 +1718,13 @@ El Acuerdo de Desempeño es la base de la evaluación del factor de logro indivi
 
 Dicho acuerdo deberá contener hasta seis metas, de las cuales tres serán fijas, propuestas por la persona titular del área y deben responder a líneas y objetivos estratégicos de alta prioridad de la Comisión, mientras que las personas evaluadas y evaluadoras deberán definir por consenso las metas restantes.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 132.
 
-Para la determinación de las metas fijas, cada año las áreas que cuenten con Personal Profesional deberán remitir a la persona Titular de la DGA, junto con sus Programas Operativos Anuales y el Programa Interno de Trabajo, el conjunto de metas que busquen fijar en los Acuerdos de Desempeño de cada persona Integrante del Servicio para el ejercicio fiscal siguiente, las cuales deberán estar alineadas a la programación operativa de mérito. Por su parte, las metas que se fijen de manera consensuada entre las personas evaluadas y las evaluadoras deberán cumplir con los elementos y requisitos que precise la Metodología.
+Para la determinación de las metas fijas, cada año las áreas que cuenten con personas integrantes del Servicio deberán remitir a la persona Titular de la DGA, junto con sus Programas Operativos Anuales y el Programa Interno de Trabajo, el conjunto de metas que busquen fijar en los Acuerdos de Desempeño de cada persona Integrante del Servicio para el ejercicio fiscal siguiente, las cuales deberán estar alineadas a la programación operativa de mérito. Por su parte, las metas que se fijen de manera consensuada entre las personas evaluadas y las evaluadoras deberán cumplir con los elementos y requisitos que precise la Metodología.
 
 En su caso, la persona Titular de la Presidencia de la Comisión podrá emitir un acuerdo dirigido a las áreas de la Comisión en el que se establezcan todas o algunas de las metas institucionales que deberán incorporarse a los Acuerdos de Desempeño que correspondan.
 
@@ -1756,9 +1870,13 @@ Los puntos obtenidos por el descriptor Programa de Profesionalización, se actua
 
 ### Capítulo IV. Incentivos
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 156.
 
-El esquema de incentivos es el conjunto de procedimientos destinados a reconocer y premiar el buen desempeño profesional, así como las aportaciones institucionales extraordinarias que realice el Personal Profesional, con arreglo a las posibilidades presupuestales anuales de la Comisión.
+El esquema de incentivos es el conjunto de procedimientos destinados a reconocer y premiar el buen desempeño profesional, así como las aportaciones institucionales extraordinarias que realicen las personas integrantes del Servicio, con arreglo a las posibilidades presupuestales anuales de la Comisión.
 
 ###### Artículo 157.
 
@@ -1788,11 +1906,23 @@ IV. Quien hubiera contribuido a la Comisión con aportaciones institucionales ex
 
 El proceso de incentivos se sujetará a las disposiciones siguientes:
 
-I. La Coordinación, previo acuerdo con la persona Titular de la DGA, tomará las previsiones pertinentes para definir la modalidad del incentivo para el Personal Profesional que obtenga ese derecho de acuerdo a la disponibilidad presupuestal;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-II. De acuerdo con dicha previsión y análisis de disponibilidad presupuestal, la persona Titular de la Presidencia, previa opinión del Mecanismo, determinará y autorizará el monto de los incentivos que recibirá el Personal Profesional, cuando se trate de retribuciones o cuando para su otorgamiento se requiera la erogación de recursos financieros;
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
 
-III. La Coordinación emitirá el Dictamen de incentivos a los que el Personal Profesional se haga acreedor, durante el último trimestre del año;
+I. La Coordinación, previo acuerdo con la persona Titular de la DGA, tomará las previsiones pertinentes para definir la modalidad del incentivo para las personas integrantes del Servicio que obtengan ese derecho de acuerdo a la disponibilidad presupuestal;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+II. De acuerdo con dicha previsión y análisis de disponibilidad presupuestal, la persona Titular de la Presidencia, previa opinión del Mecanismo, determinará y autorizará el monto de los incentivos que recibirán las personas integrantes del Servicio, cuando se trate de retribuciones o cuando para su otorgamiento se requiera la erogación de recursos financieros;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+III. La Coordinación emitirá el Dictamen de incentivos a los que las personas integrantes del Servicio se hagan acreedoras, durante el último trimestre del año;
 
 IV. La Coordinación notificará por escrito a cada persona Integrante del Servicio en caso de haberse hecho merecedora de un incentivo, sin perjuicio de publicar el dictamen correspondiente a través de los estrados institucionales;
 
@@ -1804,9 +1934,13 @@ VII. En caso de que la persona Integrante del Servicio se encuentre de Licencia 
 
 ### Capítulo V. Readscripciones
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 161.
 
-La readscripción es el acto mediante el cual el Personal Profesional es adscrito a un cargo o puesto distinto al que ocupa y pueden realizarse por necesidades del Servicio, a petición del Personal Profesional, o a solicitud de la persona Titular del área correspondiente de la Comisión.
+La readscripción es el acto mediante el cual las personas integrantes del Servicio son adscritas a un cargo o puesto distinto al que ocupa y pueden realizarse por necesidades del Servicio, a petición de las mismas personas integrantes del Servicio, o a solicitud de la persona Titular del área correspondiente de la Comisión.
 
 La readscripción procederá siempre que en el área de readscripción solicitada se cuente con una plaza vacante con suficiencia presupuestal.
 
@@ -1862,9 +1996,13 @@ Cuando exista más de una solicitud de readscripción sobre el mismo cargo o pue
 
 ### Capítulo VII. Encargadurías de Despacho
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 169.
 
-Las encargadurías de despacho se podrán otorgar al Personal Profesional para desarrollar funciones, de manera temporal, de un cargo y puesto del Servicio, sin que ello implique su ocupación definitiva ni antigüedad en la misma.
+Las encargadurías de despacho se podrán otorgar a las personas integrantes del Servicio para desarrollar funciones, de manera temporal, de un cargo y puesto del Servicio, sin que ello implique su ocupación definitiva ni antigüedad en la misma.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
 
@@ -1906,9 +2044,13 @@ IV. Cuando una persona Integrante del Servicio haya sido designada como encargad
 
 V. Cuando una persona integrante del Servicio haya sido designada para ocupar un puesto administrativo.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 175.
 
-El Personal Profesional que desee asumir una encargaduría de despacho deberá cumplir, cuando menos, con los siguientes requisitos:
+Las personas integrantes del Servicio que deseen asumir una encargaduría de despacho deberán cumplir, cuando menos, con los siguientes requisitos:
 
 I. Ocupar una plaza de estructura del Servicio Profesional con una antigüedad mínima de un año de forma ininterrumpida. La Coordinación computará este plazo a partir de la fecha de ingreso de la persona Integrante del Servicio a la Comisión y hasta el día en que se proponga surta efectos su designación;
 
@@ -2130,15 +2272,19 @@ VIII. Demás información necesaria para el adecuado desarrollo de cada fase.
 
 Lo anterior no impedirá a la Coordinación General efectuar los ajustes que considere pertinentes para el desarrollo de las actividades del Programa, en cuyo caso deberá hacer de conocimiento de manera oportuna a las personas Integrantes del Servicio participantes.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 202.
 
-Los cursos previstos en el Programa de Profesionalización son parte de los derechos y obligaciones del Personal Profesional, y se llevarán a cabo, de preferencia, durante la jornada laboral.
+Los cursos previstos en el Programa de Profesionalización son parte de los derechos y obligaciones de las personas integrantes del Servicio, y se llevarán a cabo, de preferencia, durante la jornada laboral.
 
 Las personas superiores jerárquicas, en la medida de las necesidades del Servicio, brindarán todas las facilidades y tomarán las medidas necesarias a fin de garantizar la asistencia y participación de las personas Integrantes del Servicio en los cursos, actividades y evaluaciones que la Coordinación establezca en el Programa de Profesionalización.
 
 ###### Artículo 203.
 
-Salvo casos justificados, es obligación de las personas integrantes del Servicio Profesional presentarse puntualmente a todas las actividades convocadas por la Coordinación, así como permanecer durante todo el desarrollo de la mismas, en caso de no hacerlo, se tomará por ausente.
+Salvo casos justificados, es obligación de las personas integrantes del Servicio Profesional presentarse puntualmente a todas las actividades convocadas por la Coordinación, así como permanecer durante todo el desarrollo de la (sic) mismas, en caso de no hacerlo, se tomará por ausente.
 
 Se podrá conceder una tolerancia máxima de quince minutos en cada actividad respecto a la hora de inicio establecida, una vez transcurrido este tiempo se tomará por ausente y se registrará la falta correspondiente.
 
@@ -2160,9 +2306,13 @@ En ningún caso se autorizará más de una justificación de falta en una misma 
 
 La Coordinación en acuerdo con la persona Titular de la DGA seleccionará y evaluará a las personas expertas que faciliten las actividades organizadas en el marco del Programa de Profesionalización, para lo cual podrá establecer convenios y acuerdos con instituciones u organizaciones especializadas.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 206.
 
-La Coordinación implementará un mecanismo que le permita detectar las necesidades de profesionalización de los cargos y puestos del Personal Profesional, denominado Diagnóstico de Necesidades de Profesionalización.
+La Coordinación implementará un mecanismo que le permita detectar las necesidades de profesionalización de los cargos y puestos de las personas integrantes del Servicio, denominado Diagnóstico de Necesidades de Profesionalización.
 
 Para establecer dicho Diagnóstico, cada año durante el mes de octubre, la Coordinación deberá enviar un formato con el propósito de que las áreas especifiquen las necesidades de formación, capacitación y sensibilización que estimen necesarias. Una vez recibidos los insumos para su construcción, la Coordinación emitirá el Diagnóstico de Necesidades de Profesionalización.
 
@@ -2212,7 +2362,11 @@ La Coordinación en acuerdo con la persona Titular de la DGA, hará difusión de
 
 Las personas Titulares de las áreas de la Comisión, así como las personas Integrantes del Servicio podrán solicitar a la Coordinación la incorporación de actividades al Padrón, las cuales, para tal efecto, deberán cumplir al menos con las características siguientes:
 
-I. Tener relación con los objetivos institucionales;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+I. Tener relación con los objetivos;
 
 II. Aportar conocimientos y habilidades vinculadas a las funciones generales y específicas que desempeñan las personas Integrantes del Servicio, y
 
@@ -2328,9 +2482,13 @@ A partir de que emita la respuesta, la Coordinación contará con 10 días hábi
 
 ### Capítulo III. Recurso de inconformidad
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 226.
 
-El Personal Profesional podrá interponer recurso de inconformidad ante la DGJ, por conducto de la Dirección de Asuntos Jurídicos.
+Las personas integrantes del Servicio podrán interponer recurso de inconformidad ante la DGJ, por conducto de la Dirección de Asuntos Jurídicos.
 
 ###### Artículo 227.
 
@@ -2444,17 +2602,21 @@ VII. La resolución deberá ser notificada personalmente a la persona Integrante
 
 El procedimiento disciplinario es la secuencia de actos tendientes a resolver si ha lugar o no a la aplicación de alguna sanción derivada del incumplimiento de alguna obligación conforme a lo dispuesto en este Estatuto, con independencia de aquellas infracciones que sean competencia de la Contraloría Interna de la Comisión, así como de las responsabilidades y sanciones administrativas, civiles, penales, electorales o laborales que establezcan otros ordenamientos jurídicos aplicables.
 
-Dicho procedimiento se apegará invariablemente a los principios de certeza, objetividad, imparcialidad, equidad y legalidad, respetando en todo momento, el derecho de audiencia del Personal Profesional.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
+Dicho procedimiento se apegará invariablemente a los principios de certeza, objetividad, imparcialidad, equidad y legalidad, respetando en todo momento, el derecho de audiencia de las personas integrantes del Servicio.
 
 Las determinaciones intraprocesales dictadas por la instancia sustanciadora del presente procedimiento no son susceptibles de impugnación; si la persona recurrente considera que le causan perjuicio, deberá impugnarlas hasta la emisión de la resolución definitiva.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx//pdf/estrados/2020/CDHCM-CGPDH-Estatuto-SPDH-febrero.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
 
-> <small>(REFORMADO, G.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 237.
 
-En caso de incumplimiento de obligaciones derivadas del desempeño de sus funciones como personas servidoras públicas, al Personal Profesional le será aplicable la Ley de Responsabilidades Administrativas de la Ciudad de México; para tal efecto, se implementará el procedimiento administrativo que corresponda.
+En caso de incumplimiento de obligaciones derivadas del desempeño de sus funciones como personas servidoras públicas, a las personas integrantes del Servicio les será aplicable la Ley de Responsabilidades Administrativas de la Ciudad de México; para tal efecto, se implementará el procedimiento administrativo que corresponda.
 
 ###### Artículo 238.
 
@@ -2474,9 +2636,13 @@ El exhorto se emitirá por escrito dirigido a la persona Integrante del Servicio
 
 El procedimiento disciplinario podrá iniciarse sin haber agotado la emisión de un exhorto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 242.
 
-El incumplimiento de las obligaciones a cargo del Personal Profesional, dará lugar, previo procedimiento, a la imposición de las sanciones que se establecen en el presente Estatuto.
+El incumplimiento de las obligaciones a cargo de las personas integrantes del Servicio, dará lugar, previo procedimiento, a la imposición de las sanciones que se establecen en el presente Estatuto.
 
 ###### Artículo 243.
 
@@ -2667,5 +2833,33 @@ UNICO. Las modificaciones al Estatuto del Servicio Profesional en Derechos Human
 ## TRANSITORIOS
 
 PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debido observancia y aplicación.
+
+SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México al Mtro. Silvano Joel Cantú Martínez, Coordinador General de Profesionalización en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico silvano.cantu@cdhcm.org.mx, y teléfono 5552295600, extensión 1825.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO".]
+
+G.O. 8 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Estatuto entrarán en vigor al día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones normativas internas que contravengan lo dispuesto en el presente Estatuto.
+
+###### ARTÍCULO TERCERO.
+
+Los casos de implementación no contemplados en los presentes artículos transitorios, podrán ser resueltos mediante acuerdo emitido por la persona Titular de la Presidencia de la Comisión.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO APROBADAS POR SU CONSEJO MEDIANTE ACUERDO NUMERO 14/2020, EMITIDO EN LA SESIÓN ORDINARIA 03/2020 DE FECHA 26 DE MARZO DE 2020]</small>
+
+UNICO. Las modificaciones al Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, entra en vigor al día siguiente de la publicación del presente aviso en la Gaceta Oficial de la Ciudad de México y estará disponible para su consulta y descarga en el siguiente enlace electrónico: https://directorio.cdhdf.org.mx/pdf/acuerdo_14_2020.pdf
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
 
 SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México al Mtro. Silvano Joel Cantú Martínez, Coordinador General de Profesionalización en Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico silvano.cantu@cdhcm.org.mx, y teléfono 5552295600, extensión 1825.
