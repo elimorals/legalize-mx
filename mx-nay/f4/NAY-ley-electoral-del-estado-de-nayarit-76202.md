@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-76202"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2020-10-07"
+last_updated: "2020-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2020 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2020.]</small>
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -303,11 +303,11 @@ Votación efectiva: La que resulte de deducir de la votación válida emitida, l
 
 Votación ajustada: Es la resultante de deducir de la votación efectiva, la votación de aquellos partidos políticos que se ubiquen en sobre representación en la asignación de diputados de representación proporcional, o bien que mediante sus triunfos electorales obtengan la totalidad de los dieciocho distritos electorales.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020) (F. DE E., P.O. 8 DE OCTUBRE DE 2020)
 
 ###### Artículo 22 Bis.
 
-A los partidos políticos que obtengan cuando menos el tres por ciento de la votación válida emitida en la elección de Diputados de Mayoría Relativa, les será asignado un Diputado por el principio de Representación Proporcional, con excepción de aquel al que se le hubiere otorgado las constancias de mayoría y validez de la totalidad de los distritos electorales.
+A los partidos políticos que obtengan cuando menos el tres por ciento de la votación válida emitida en la elección de Diputados de Mayoría Relativa, les será asignado una diputación por el principio de Representación Proporcional, con excepción de aquel al que se le hubiere otorgado las constancias de mayoría y validez de la totalidad de los distritos electorales.
 
 En forma previa a realizar la primera asignación de diputaciones por el principio de representación proporcional que les correspondan a los partidos políticos que hubiesen obtenido cuando menos el tres por ciento de la votación válida emitida, se verificará si alguno se encuentra en el límite de su porcentaje de votación más ocho puntos adicionales.
 
@@ -3289,9 +3289,9 @@ III. Los escrutadores procederán a extraer las boletas de la urna y clasificar�
 
 IV. El Presidente de la mesa mostrará a todos los presentes que la urna quedó vacía.
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 7 DE OCTUBRE DE 2020)</small>
+(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 7 DE OCTUBRE DE 2020) (F. DE E., P.O. 8 DE OCTUBRE DE 2020)
 
-En el caso de que se hubiere instalado casilla única en elecciones concurrentes, en forma simultánea a los cómputos de Presidente de los Estados Unidos Mexicanos; de senadores; de diputados federales, y en su caso de consulta de consulta (sic) popular, el escrutinio y cómputo local se llevará a cabo en el orden siguiente:
+En el caso de que se hubiere instalado casilla única en elecciones concurrentes, en forma simultánea a los cómputos de Presidente de los Estados Unidos Mexicanos; de senadores; de diputados federales, y en su caso de consulta popular, el escrutinio y cómputo local se llevará a cabo en el orden siguiente:
 
 a) Gubernatura;
 
@@ -3403,9 +3403,9 @@ a) Las boletas no utilizadas, y;
 
 b) Los votos válidos y los nulos;
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+(REFORMADO, P.O. 7 DE OCTUBRE DE 2020) (F. DE E., P.O. 8 DE OCTUBRE DE 2020)
 
-En forma adicional a los sobres referidos, por fuera del paquete electoral se fijará un sobre conteniendo copia legible del acta de la jornada electoral para los efectos del programa de resultados preliminares y el cual se desprenderá al recibirse en el Consejo Municipal Electoral respectivo, en los términos de la presente ley.
+En forma adicional a los sobres referidos, por fuera del paquete electoral se fijará un sobre conteniendo copia legible del acta de escrutinio y cómputo para los efectos del programa de resultados preliminares y el cual se desprenderá al recibirse en el Consejo Municipal Electoral respectivo, en los términos de la presente ley.
 
 ### CAPÍTULO VI. De la Información de los Resultados Preliminares
 
@@ -3463,9 +3463,9 @@ Los Consejos respectivos harán las sumas de los resultados consignados en el ac
 
 I. El Consejo respectivo autorizará al personal necesario para la recepción continua y simultánea de los paquetes y expedientes electorales, así como del encargado para la captura de los resultados de cada una de las elecciones;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+(REFORMADA, P.O. 7 DE OCTUBRE DE 2020) (F. DE E., P.O. 8 DE OCTUBRE DE 2020)
 
-II. El personal designado y acreditado para atender el programa de resultados electorales preliminares, recibirá los sobres al (sic) que se refiere el último párrafo del artículo 191 de esta ley y procederá a capturar los resultados electorales contenidos en la copia del acta de la jornada electoral y una vez realizado (sic), la turnará al Presidente del Consejo;
+II. El personal designado y acreditado para atender el programa de resultados electorales preliminares, recibirá los sobres al (sic) que se refiere el último párrafo del artículo 191 de esta ley y procederá a capturar los resultados electorales contenidos en la copia del acta de escrutinio y cómputo y una vez realizado, la turnará al Presidente del Consejo;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -3583,9 +3583,9 @@ El cómputo municipal de la votación respectiva para la elección de Diputados,
 
 I. Se abrirán los sobres que contengan los expedientes de las casillas que no tengan muestras de alteración y siguiendo el orden numérico de ellos, se cotejará el resultado del acta de la jornada electoral con los resultados que de la misma obren en poder del Presidente del Consejo Municipal Electoral. Si los resultados de ambas actas coinciden, se asentarán en las formas establecidas para ello;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
+(REFORMADA, P.O. 7 DE OCTUBRE DE 2020) (F. DE E., P.O. 8 DE OCTUBRE DE 2020)
 
-II. Si los resultados de las actas no coinciden o no existiera el acta de la jornada electoral en el expediente relativo, ni obrare en poder del Presidente del Consejo, o en su caso, si el número de votos nulos es mayor a la diferencia entre el primero y segundo lugar o todos los votos fueron depositados a favor de un mismo partido o candidato, se procederá a realizar nuevamente el escrutinio y cómputo, levantándose el acta correspondiente. Los resultados se anotarán en el formato establecido para ello, dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se hará constar en dicha acta, las objeciones que hubiere manifestado cualquiera de los representantes ante el Consejo;
+II. Si los resultados de las actas no coinciden o no existiera el acta de escrutinio y cómputo en el expediente relativo, ni obrare en poder del Presidente del Consejo, o en su caso, si el número de votos nulos es mayor a la diferencia entre el primero y segundo lugar o todos los votos fueron depositados a favor de un mismo partido o candidato, se procederá a realizar nuevamente el escrutinio y cómputo, levantándose el acta correspondiente. Los resultados se anotarán en el formato establecido para ello, dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se hará constar en dicha acta, las objeciones que hubiere manifestado cualquiera de los representantes ante el Consejo;
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -4711,11 +4711,11 @@ IV. Regidurías para la integración de Ayuntamientos por el principio de mayor�
 
 No procederá en ningún caso, el registro de aspirantes a una candidatura independiente por el principio de representación proporcional.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020) (F. DE E., P.O. 8 DE OCTUBRE DE 2020)
 
 ###### Artículo 254.
 
-Tratándose de candidaturas independientes, la formula de propietario y suplente a una diputación, deberá estar integrada por candidatos y candidatas del mismo género, excepto cuando la fórmula sea presidida por (sic) masculino, se podrá registrar suplente del género femenino y en ningún caso a la inversa.
+Tratándose de candidaturas independientes, la fórmula de propietario y suplente a una diputación, deberá estar integrada por candidatos y candidatas del mismo género, excepto cuando la fórmula sea presidida por masculino, se podrá registrar suplente del género femenino y en ningún caso a la inversa.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
@@ -4825,7 +4825,9 @@ Queda prohibido a las y los aspirantes, en todo tiempo, la contratación de prop
 
 Los actos tendentes a recabar el apoyo ciudadano se financiarán con recursos privados de origen lícito, en los términos de la legislación aplicable, y estarán sujetos al tope de gastos que determine el Consejo Local Electoral por el tipo de elección para la que pretenda ser postulado.
 
-El Consejo Local Electoral determinará el tope de gastos equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2020)</small>
+
+El Consejo Local Electoral determinará el tope de gastos para recabar el apoyo ciudadano, según la elección de que se trate.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2020)</small>
 
