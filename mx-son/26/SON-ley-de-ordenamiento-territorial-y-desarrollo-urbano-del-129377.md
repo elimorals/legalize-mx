@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129377"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2019-10-31"
+last_updated: "2020-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 11 de junio de 2018.
 
@@ -2097,13 +2097,17 @@ Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su pu
 
 Artículo Segundo.- Se abroga la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado el 28 de septiembre de 2006 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
 
-Artículo Tercero.- En un plazo de un año contado a partir de la entrada en vigor de la presente Ley, las autoridades estatales y municipales deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
+> <small>(REFORMADO, B.O. 8 DE OCTUBRE DE 2020)</small>
 
-Artículo Cuarto.- En un plazo de un año contado a partir de la entrada en vigor de esta Ley, se formularán, o adecuarán los programas de Desarrollo Urbano de los Centros de Población, así como los programas estatales y metropolitanos, incluyendo todos los nuevos instrumentos de gestión a los que alude la Ley General y esta Ley.
+Artículo Tercero.- En un plazo de tres años contados a partir de la entrada en vigor de la presente Ley, las autoridades estatales y municipales deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
 
-El Instituto Catastral y Registral del Estado de Sonora y los catastros municipales estarán a lo señalado en los artículos 60, 111 y 112 del decreto que expide la Ley General, una vez que sean adecuados los programas mencionados en el párrafo anterior.
+> <small>(REFORMADO, B.O. 8 DE OCTUBRE DE 2020)</small>
 
-Artículo Quinto.- En un plazo de seis meses a partir de la entrada en vigor de esta Ley, el Gobierno del Estado y los gobiernos municipales, convocarán a las sesiones de instalación de los Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano.
+Artículo Cuarto.- En un plazo de tres años contados a partir de la entrada en vigor de esta Ley, se formularán, o adecuarán los programas de Desarrollo Urbano de los Centros de Población, así como los programas estatales y metropolitanos, incluyendo todos los nuevos instrumentos de gestión a los que alude la Ley General y esta Ley. El Instituto Catastral y Registral del Estado de Sonora y los catastros municipales estarán a lo señalado en los artículos 60, 111 y 112 del decreto que expide la Ley General, una vez que sean adecuados los programas mencionados en el párrafo anterior.
+
+> <small>(REFORMADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo Quinto.- En un plazo de tres años a partir de la entrada en vigor de esta Ley, el Gobierno del Estado y los gobiernos municipales, convocarán a las sesiones de instalación de los Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano.
 
 Artículo Sexto.- El Gobierno del Estado y los municipios deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en la presenta Ley.
 
@@ -2122,3 +2126,11 @@ B.O. 31 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 8 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 139, QUE REFORMA LOS ARTÍCULOS TRANSITORIOS TERCERO, CUARTO Y QUINTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
