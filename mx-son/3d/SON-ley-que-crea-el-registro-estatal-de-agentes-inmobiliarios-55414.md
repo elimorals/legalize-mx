@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-registro-estatal-de-agentes-inmobiliarios-55414
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-23"
-last_updated: "2017-08-03"
+last_updated: "2020-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY QUE CREA EL REGISTRO ESTATAL DE AGENTES INMOBILIARIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SERVICIOS INMOBILIARIOS PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 8 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL REGISTRO ESTATAL DE AGENTES INMOBILIARIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 23 de mayo de 2002.
 
@@ -424,3 +426,27 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 8 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 170, DE SERVICIOS INMOBILIARIOS PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que Crea el Registro Estatal de Agentes Inmobiliarios, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, número 40, Sección I, de fecha 23 de mayo del 2002 y sus modificaciones de fecha 12 de abril de 2007 y de fecha 4 de Agosto 2008.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado emitirá el Reglamento de la presente Ley dentro de los siguientes cuarenta y cinco días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las personas que a la entrada en vigor de la presente Ley estén llevando a cabo operaciones de intermediación inmobiliaria y tengan su licencia vencida, deberán dentro de un plazo de tres meses, contados a partir de la entrada en vigor de la presente Ley, comparecer ante la Secretaría y tramitar su licencia como Asesor Inmobiliario.
+
+###### ARTÍCULO QUINTO.
+
+Los Asesores Inmobiliarios que, a la entrada en vigor de la presente Ley, estén inscritos en el Registro y tengan vigente su licencia, podrán renovar dicha licencia hasta la fecha de su vencimiento.
