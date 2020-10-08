@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-para-el-estado-de-coahuila-de-zaragoza-para-139
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2020-01-03"
+last_updated: "2020-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE INGRESOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA PARA EL EJERCICIO FISCAL 2020
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Ley publicada en el Número 105 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 31 de diciembre de 2019.
 
@@ -169,9 +167,11 @@ Cuando no se cubran las contribuciones en la fecha o dentro de los plazos establ
 
 Se autoriza al Ejecutivo del Estado para que, por conducto de la Secretaría de Finanzas, afecte en garantía y/o fuente de pago de todas y cada una de las obligaciones que contraiga por los créditos o empréstitos que contrate como deudor directo o contingente, sus ingresos derivados de contribuciones, derechos, productos, aprovechamientos y/o participaciones que en ingresos federales le correspondan al Estado, sin perjuicio de afectaciones anteriores, a través de la celebración de los mecanismos legales o fideicomisos que bajo cualquier modalidad o forma considere necesarios o convenientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 7.
 
-Previa información al Congreso, la cual incluirá análisis del destino y capacidad de pago, el Poder Ejecutivo del Estado por conducto de la Secretaría de Finanzas podrá negociar y contratar, conforme a las mejores condiciones de mercado, durante el ejercicio fiscal 2020, la celebración de operaciones financieras de cobertura de tasa de interés hasta por el saldo insoluto del financiamiento que sea constitutivo de la deuda pública vigente del Estado, con la finalidad de minimizar el riesgo de fluctuaciones de la Tasa de Interés Interbancario (TIIE) que afecte las finanzas públicas del Estado, siempre que el plazo no exceda de tres años. Al concluir la negociación y la contratación, los términos acordados de las operaciones serán comunicados al Congreso.
+El Congreso autoriza previo análisis de destino y la capacidad de pago, al Poder Ejecutivo del Estado por conducto de la Secretaría de Finanzas para que negocie y contrate durante el ejercicio fiscal 2020 y conforme a las mejores condiciones de mercado, operaciones financieras de cobertura de tasa de interés hasta por el saldo insoluto del financiamiento que sea constitutivo de la deuda pública vigente del Estado, con la finalidad de minimizar el riesgo de fluctuaciones de la Tasa de Interés Interbancaria (TIIE) que afecte las finanzas públicas del Estado, siempre que el plazo no exceda de tres años. Al concluir la negociación y la contratación, los términos acordados de las operaciones serán comunicados al Congreso.
 
 En el caso de que las referidas operaciones financieras excedan el plazo de tres años, su contratación requerirá previa autorización del Congreso.
 
@@ -272,3 +272,13 @@ ING. JOSÉ MARÍA FRAUSTRO SILLER
 (RÚBRICA)
 
 > <small>[N. DE E. VÉASE ANEXOS I, II Y III EN EL P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINAS DE LA 14 A LA 21 Y F. DE E., P.O. 3 DE ENERO DE 2020.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 757.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7 DE LA LEY DE INGRESOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA PARA EL EJERCICIO FISCAL 2020".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
