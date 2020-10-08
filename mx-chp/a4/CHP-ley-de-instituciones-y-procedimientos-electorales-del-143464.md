@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-instituciones-y-procedimientos-electorales-del-143464"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-29"
-last_updated: "2020-06-29"
+last_updated: "2020-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "CHP"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO. 235, POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE NOVIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO 007, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL OCHO DE OCTUBRE DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 29 de junio de 2020.
 
@@ -499,7 +497,11 @@ Derivado de lo anterior, lo (sic) interesados deberán presentar al momento de s
 
 b) Tratándose de las y los presidentes municipales, síndicos y regidores que hayan sido electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad con la que fueron electos;
 
-c) Las y los presidentes municipales, síndicos y regidores, que pretendan ser reelectos deberán ser registrados para el mismo cargo y municipio en que fueron electos previamente, y deberán acreditar haber cumplido con la entrega oportuna de la cuenta pública de los dos años anteriores al de la elección en que pretendan reelegirse; para tal efecto deberán exhibir la constancia original expedida por el órgano técnico fiscalizador del Congreso del Estado encargado de revisarla, de conformidad con lo dispuesto por los artículos 45 fracción XX, segundo párrafo y 50 de la Constitución Local.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA EL INCISO c) DE LA FRACCIÓN IV DEL APARTADO C DEL PÁRRAFO 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+c) LAS PERSONAS CON EL CARGO DE PRESIDENTES MUNICIPALES, SÍNDICOS Y REGIDORES, QUE PRETENDAN SER REELECTOS DEBERÁN SER REGISTRADOS PARA EL MISMO CARGO Y MUNICIPIO EN QUE FUERON ELECTOS PREVIAMENTE, ACREDITANDO HABER SOLVENTADO LAS OBSERVACIONES QUE ESTÉN VINCULADAS A DESVÍO DE RECURSOS PÚBLICOS O FALTA DE COMPROBACIÓN DE GASTOS, REALIZADAS POR LOS ÓRGANOS TÉCNICOS FISCALIZADORES EN LA CUENTA PÚBLICA CORRESPONDIENTE AL PRIMER EJERCICIO FISCAL, ASÍ COMO A LOS CORRESPONDIENTES INFORMES PARCIALES QUE SE HAYAN REALIZADO.
 
 d) Las y los presidentes municipales, síndicos y regidores deberán obtener la licencia respectiva de separación de su encargo a más tardar ciento veinte días antes del inicio del período de precampañas la cual deberán de conservar hasta la conclusión del proceso electoral en el que participa;
 
@@ -1295,37 +1297,73 @@ VII. Las empresas mexicanas de carácter mercantil.
 
 2. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes y específicas, así como para la obtención del voto, se entregarán al representante que cada partido político tenga legalmente registrado ante el Instituto de Elecciones. La única fuente de financiamiento permitida en precampañas, será la de carácter privado. Los Partidos Políticos, en esta etapa, únicamente podrán destinar recursos para gastos operativos y de difusión de sus procesos internos, los cuales no serán mayores al treinta por ciento del monto de financiamiento público que por actividades ordinarias permanentes reciba en lo individual cada ente político en el año de la elección.
 
-3. Durante el mes de enero de cada año, el Consejo General fijará el monto del financiamiento público anual para el sostenimiento de sus actividades ordinarias permanentes que recibirán los Partidos Políticos. Dicho monto se determinará multiplicando el número de ciudadanos inscritos en el padrón electoral local a la fecha de corte del mes de julio del año inmediato anterior, por el sesenta y cinco por ciento del valor de la unidad de medida y actualización vigente, lo cual estará sujeto a las medidas de excepción contempladas en la presente Ley.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA EL PÁRRAFO 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-4. El financiamiento público anual que resulte de la aplicación de la fórmula prevista en el punto anterior, deberá repartirse conforme a las siguientes reglas:
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2020)</small>
 
-I. El treinta por ciento de la cantidad total que resulte se entregará en forma igualitaria a los Partidos Políticos con representación en el Congreso del Estado.
+3. DURANTE EL MES DE ENERO DE CADA AÑO, EL CONSEJO GENERAL FIJARÁ EL MONTO ANUAL DEL FINANCIAMIENTO PÚBLICO, DE ORIGEN ESTATAL, PARA EL SOSTENIMIENTO DE LAS ACTIVIDADES ORDINARIAS PERMANENTES QUE RECIBIRÁN LOS PARTIDOS POLÍTICOS, MISMO QUE SE DETERMINARÁ MULTIPLICANDO EL NÚMERO DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DEL ESTADO DE CHIAPAS CON FECHA DE CORTE DEL MES DE JULIO DEL AÑO INMEDIATO ANTERIOR, POR EL TREINTA Y DOS PUNTO CINCO POR CIENTO DEL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN VIGENTE.
 
-II. El setenta por ciento restante se distribuirá según el porcentaje de la votación que hubiese obtenido cada partido político con representación en el Congreso del Estado, en la elección de Diputados inmediata anterior.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA EL PÁRRAFO 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS Y FRACCIONES], P.O. 8 DE OCTUBRE DE 2020)</small>
+
+4. EL FINANCIAMIENTO PÚBLICO ANUAL QUE RESULTE DE LA APLICACIÓN DE LA FÓRMULA PREVISTA EN EL PUNTO ANTERIOR, DEBERÁ REPARTIRSE CONFORME A LAS SIGUIENTES REGLAS:
+
+A) SE ASIGNARÁ EL FINANCIAMIENTO PÚBLICO ESTATAL A LOS PARTIDOS POLÍTICOS LOCALES CONFORME AL PORCENTAJE DE VOTACIÓN QUE LE CORRESPONDA CON BASE EN LO ESTABLECIDO POR LA LEY GENERAL.
+
+B) UNA VEZ REALIZADA LA ASIGNACIÓN ANTERIOR, LA SUMATORIA QUE RESULTE SE RESTA DE LA CANTIDAD DE FINANCIAMIENTO PÚBLICO RESULTADO DEL CÁLCULO OBTENIDO SEGÚN EL PÁRRAFO 3 DEL PRESENTE ARTÍCULO.
+
+C) LA CANTIDAD RESULTANTE DE LA OPERACIÓN ANTERIOR SE DISTRIBUYE DE LA MANERA SIGUIENTE:
+
+I. EL TREINTA POR CIENTO DE LA CANTIDAD TOTAL QUE RESULTE SE ENTREGARÁ EN FORMA IGUALITARIA A LOS PARTIDOS POLÍTICOS NACIONALES QUE HUBIEREN CONSERVADO SU REGISTRO, ALCANZANDO EL PORCENTAJE REQUERIDO POR LA LEGISLACIÓN LOCAL, EN LA ELECCIÓN DE DIPUTADOS INMEDIATA ANTERIOR Y QUE CUENTE CON REPRESENTACIÓN EN EL CONGRESO DEL ESTADO DE CHIAPAS RESULTADO DE LA ELECCIÓN.
+
+II. EL SETENTA POR CIENTO RESTANTE SE DISTRIBUIRÁ SEGÚN EL PORCENTAJE DE LA VOTACIÓN QUE HUBIESE OBTENIDO CADA PARTIDO POLÍTICO QUE HUBIERE CONSERVADO SU REGISTRO, ALCANZANDO EL PORCENTAJE REQUERIDO POR LA LEGISLACIÓN LOCAL, EN LA ELECCIÓN DE DIPUTADOS INMEDIATA ANTERIOR Y QUE CUENTE CON REPRESENTACIÓN EN EL CONGRESO DEL ESTADO DE CHIAPAS RESULTADO DE LA ELECCIÓN.
 
 5. Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales en los primeros días del mes que corresponda, conforme al calendario presupuestal que se apruebe anualmente.
 
 6. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de actividades específicas de educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales.
 
-7. Para las actividades de formación, promoción y capacitación para el desarrollo del liderazgo político de las mujeres y de los liderazgos políticos indígenas, los Partidos Políticos ejercerán anualmente el seis y el dos por ciento, respectivamente, del financiamiento público ordinario; cantidades que ejercerán mediante convenio con Instituciones Educativas de Educación Superior de reconocido prestigio en el Estado de Chiapas.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA EL PÁRRAFO 7 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-8. En casos excepcionales, el Consejo General velando por el interés público y atendiendo la disminución presupuestal que autorice el Congreso, determinará el monto a que hace alusión el párrafo tercero del presente artículo, multiplicando el número de ciudadanos inscritos en el padrón local a la fecha de corte de julio de cada año, por no menos del treinta por ciento de la Unidad de Medida y Actualización, según sea el caso. Dicha excepción no resultará aplicable cuando se desarrollen procesos electorales locales ordinarios.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2020)</small>
 
-9. El financiamiento para la obtención del voto en campañas electorales se determinará de la siguiente forma:
+7. PARA LAS ACTIVIDADES DE FORMACIÓN, PROMOCIÓN Y CAPACITACIÓN PARA EL DESARROLLO DEL LIDERAZGO POLÍTICO DE LAS MUJERES Y DE LOS LIDERAZGOS POLÍTICOS INDÍGENAS, LOS PARTIDOS POLÍTICOS EJERCERÁN ANUALMENTE EL SEIS Y EL DOS POR CIENTO, RESPECTIVAMENTE, DEL FINANCIAMIENTO PÚBLICO ORDINARIO; CANTIDADES QUE EJERCERÁN MEDIANTE CONVENIO CON INSTITUCIONES EDUCATIVAS DE EDUCACIÓN SUPERIOR DE RECONOCIDO PRESTIGIO.
 
-I. En el año de la elección en que se renueven el Poder Ejecutivo local, el Congreso y los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al cincuenta por ciento al del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA EL PÁRRAFO 8 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. El monto para gastos de campaña se otorgará a los Partidos Políticos en forma adicional al resto de las prerrogativas.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+8. EN CASOS EXCEPCIONALES, EL CONSEJO GENERAL VELANDO POR EL INTERÉS PÚBLICO Y ATENDIENDO EN TODO CASO, LA DISMINUCIÓN APROBADA POR EL CONGRESO EN EL PRESUPUESTO DE EGRESOS, DETERMINARÁ EL MONTO A QUE HACE ALUSIÓN EL PÁRRAFO TERCERO DEL PRESENTE ARTÍCULO, MULTIPLICANDO EL NÚMERO DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DEL ESTADO DE CHIAPAS CON FECHA DE CORTE DEL MES DE JULIO DEL AÑO INMEDIATO ANTERIOR, POR NO MENOS DEL VEINTICINCO POR CIENTO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, SEGÚN SEA EL CASO. DICHA EXCEPCIÓN NO RESULTARÁ APLICABLE CUANDO SE DESARROLLEN PROCESOS ELECTORALES LOCALES ORDINARIOS.
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA EL PÁRRAFO 9 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 8 DE OCTUBRE DE 2020)</small>
+
+9. EL FINANCIAMIENTO PARA LA OBTENCIÓN DEL VOTO EN CAMPAÑAS ELECTORALES SE DETERMINARÁ DE LA SIGUIENTE FORMA:
+
+I. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN EL PODER EJECUTIVO LOCAL, EL CONGRESO DEL ESTADO Y LOS AYUNTAMIENTOS, A CADA PARTIDO POLÍTICO SE LE OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL CINCUENTA POR CIENTO AL DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES LE CORRESPONDA EN ESE AÑO;
+
+II. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVE EL CONGRESO DEL ESTADO Y AYUNTAMIENTOS, A CADA PARTIDO POLÍTICO NACIONAL O LOCAL, RESPECTIVAMENTE, SE LE OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL TREINTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES LE CORRESPONDA EN ESE AÑO; Y
+
+III. EL MONTO PARA GASTOS DE CAMPAÑA SE OTORGARÁ A LOS PARTIDOS POLÍTICOS EN FORMA ADICIONAL AL RESTO DE LAS PRERROGATIVAS.
 
 10. El financiamiento correspondiente a gastos de campaña, será entregado en una sola ministración, una vez cumplidos los plazos para el registro de candidatos, y haber sido declarada la procedencia de las candidaturas.
 
-11. Los Partidos Políticos que hubieren obtenido su registro o acreditación con fecha posterior a la última elección de Diputados locales, o aquellos que habiendo conservado su registro local no cuenten con representación en el Congreso del Estado, tendrán derecho a que se les otorgue financiamiento público conforme con las siguientes bases:
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA EL PÁRRAFO 11 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-I. Se dividirá entre dichos Partidos Políticos el dos por ciento del monto que corresponde al treinta por ciento del financiamiento que se distribuye de manera igualitaria a los Partidos Políticos para el sostenimiento de sus actividades ordinarias permanentes, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 8 DE OCTUBRE DE 2020)</small>
 
-II. Los montos de dicho financiamiento serán entregados por la parte proporcional que corresponda a la anualidad a partir de la fecha en que surta efectos el registro o la acreditación correspondiente, y tomando en cuenta el calendario presupuestal aprobado para el año.
+11. LOS PARTIDOS POLÍTICOS QUE HUBIEREN OBTENIDO SU REGISTRO O ACREDITACIÓN CON FECHA POSTERIOR A LA ÚLTIMA ELECCIÓN DE DIPUTADOS LOCALES, O AQUELLOS QUE HABIENDO CONSERVADO SU REGISTRO LOCAL NO CUENTEN CON REPRESENTACIÓN EN EL CONGRESO DEL ESTADO, TENDRÁN DERECHO A QUE SE LES OTORGUE FINANCIAMIENTO PÚBLICO DE ORIGEN ESTATAL CONFORME CON LAS SIGUIENTES BASES:
 
-12. Cuando derivado de un fenómeno o catástrofe natural, uno o más municipios de la entidad sean declarados zona de desastre, se eliminará el financiamiento público otorgado a los Partidos Políticos durante el tiempo que dure la contingencia. Dicho monto será destinado para el auxilio de la población chiapaneca y la reconstrucción de las comunidades que resulten afectadas, mediante los mecanismos y procedimientos que establezca la autoridad hacendaria estatal correspondiente. La aplicación de dichos recursos, será vigilado por un Consejo Ciudadano designado por el Congreso del Estado.
+I. SE OTORGARÁ A CADA PARTIDO POLÍTICO EL DOS POR CIENTO DEL MONTO QUE CORRESPONDE AL TREINTA POR CIENTO DEL FINANCIAMIENTO QUE SE DISTRIBUYE DE MANERA IGUALITARIA A LOS PARTIDOS POLÍTICOS PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES, ASÍ COMO, EN EL AÑO DE LA ELECCIÓN DE QUE SE TRATE, EL FINANCIAMIENTO DE ORIGEN ESTATAL PARA GASTOS DE CAMPAÑA QUE CORRESPONDA.
+
+II. LOS MONTOS DE DICHO FINANCIAMIENTO SERÁN ENTREGADOS EN LA PARTE PROPORCIONAL QUE CORRESPONDA A LA ANUALIDAD A PARTIR DE LA FECHA EN QUE SURTA EFECTOS EL REGISTRO O LA ACREDITACIÓN CORRESPONDIENTE, Y TOMANDO EN CUENTA EL CALENDARIO PRESUPUESTAL APROBADO PARA EL AÑO.
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA EL PÁRRAFO 12 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+12. CUANDO DERIVADO DE UN FENÓMENO O CATÁSTROFE NATURAL, UNO O MÁS MUNICIPIOS DE LA ENTIDAD SEAN DECLARADOS POR LA AUTORIDAD COMPETENTE COMO ZONA DE DESASTRE O CONTINGENCIA GRAVE, SE PODRÁ MODIFICAR EL FINANCIAMIENTO PÚBLICO ESTATAL OTORGADO A LOS PARTIDOS POLÍTICOS DURANTE EL TIEMPO DE LA DECLARATORIA, HASTA EL VEINTICINCO POR CIENTO DE LA UMA. DICHO MONTO SERÁ DESTINADO PARA HACER FRENTE AL FENÓMENO MOTIVO DE LA DECLARATORIA EN EL AUXILIO DE LA POBLACIÓN CHIAPANECA Y DE LAS COMUNIDADES QUE RESULTEN AFECTADAS, MEDIANTE LOS MECANISMOS Y PROCEDIMIENTOS QUE ESTABLEZCA LA AUTORIDAD HACENDARIA ESTATAL CORRESPONDIENTE. LA APLICACIÓN DE DICHOS RECURSOS, SERÁ VIGILADO POR UN CONSEJO CIUDADANO DESIGNADO POR EL CONGRESO DEL ESTADO Y RENDIRÁ UN INFORME FINAL AL INSTITUTO DE ELECCIONES.
 
 ###### Artículo 53.
 
@@ -1885,7 +1923,11 @@ VII. Aprobar, cada tres años, el Plan General de Desarrollo del Instituto de El
 
 VIII. Aprobar a más tardar el último día de octubre de cada año, los proyectos de Presupuesto de Egresos y el Programa Operativo Anual del Instituto de Elecciones que proponga la Junta General Ejecutiva para el siguiente ejercicio fiscal; ordenando su remisión al Titular del Ejecutivo del Estado para que se incluya en el proyecto de presupuesto de egresos del Estado de Chiapas; así como solicitar los recursos financieros que le permitan al Instituto de Elecciones cumplir con las funciones que le sean delegadas por el Instituto Nacional o por disposición legal;
 
-IX. Aprobar, en su caso, durante los primeros dos meses del año el ajuste al Presupuesto de Egresos y al Programa Operativo Anual del Instituto de Elecciones, con base en la propuesta que le presente la Junta General Ejecutiva, por conducto de su presidente;
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA LA FRACCIÓN IX DEL PÁRRAFO 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+IX. DAR CUENTA AL CONSEJO GENERAL, POR CONDUCTO DE SU PRESIDENTE, EN SU CASO, DURANTE EL MES DE ENERO, DEL AJUSTE AL PRESUPUESTO DE EGRESOS Y AL PROGRAMA OPERATIVO ANUAL DEL INSTITUTO DE ELECCIONES, CON BASE EN LO APROBADO POR EL CONGRESO DEL ESTADO;
 
 X. Ordenar la realización de auditorías que se consideren necesarias a los órganos del Instituto de Elecciones;
 
@@ -2461,7 +2503,11 @@ III. Recibir de la Contraloría General, en el mes de septiembre del año anteri
 
 IV. Integrar el Proyecto de Programa Operativo Anual con base en los Programas Institucionales autorizados;
 
-V. Someter a la aprobación del Consejo General, en el mes de enero las adecuaciones al Programa Operativo Anual y al Presupuesto de Egresos del Instituto de Elecciones, con base en las asignaciones autorizadas por el Congreso del Estado;
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO 007 POR EL QUE SE REFORMA LA FRACCIÓN V DEL PÁRRAFO 6 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+V. DAR CUENTA AL CONSEJO GENERAL, EN EL MES DE ENERO LAS ADECUACIONES AL PROGRAMA OPERATIVO ANUAL Y AL PRESUPUESTO DE EGRESOS DEL INSTITUTO DE ELECCIONES, CON BASE EN LAS ASIGNACIONES AUTORIZADAS POR EL CONGRESO DEL ESTADO;
 
 VI. Dar cuenta al Consejo General para su conocimiento y aplicación los proyectos de procedimientos, manuales e instructivos que sean necesarios para el desempeño de las funciones de la Contraloría General, así como de la estructura administrativa de su área de conformidad a los (sic) establecido en la Ley de Responsabilidades Administrativas para el Estado de Chiapas;
 
@@ -6634,3 +6680,17 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 26 días del mes de junio del año dos mil veinte.- D. P. C. ROSA ELIZABETH BONILLA HIDALGO.- D. S. C. ROSA NETRO RODRIGUEZ.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 29 días del mes de junio del año dos mil veinte.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Ismael Brito Mazariegos, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO 007, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL OCHO DE OCTUBRE DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 8 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 007 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan al presente decreto.
+
+Artículo Tercero.- Se vincula al Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas para que, en un plazo no mayor a 30 días naturales contados a partir de la publicación del presente, modifique el acuerdo aprobado por dicho ente a efecto de calcular las prerrogativas de los Partidos Políticos para el ejercicio 2021 en términos del presente decreto.
