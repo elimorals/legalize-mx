@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2020-05-29"
+last_updated: "2020-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE DICIEMBRE DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -2123,7 +2125,9 @@ El Congreso del Estado de Sonora asegurará y reservará los recursos presupuest
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
 
-### CAPÍTULO II. APLICACIÓN DE SANCIONES A LOS DELITOS CULPOSOS
+### CAPÍTULO I. UNIDAD TÉCNICA PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 204.
 
@@ -2229,43 +2233,85 @@ Los acuerdos que se aprueben en la sesión del Parlamento Juvenil del Estado se 
 
 En la sesión del Parlamento Juvenil del Estado se elegirá por mayoría absoluta de sus integrantes la mesa directiva que fungirá para esa sesión, así como el orden del día correspondiente.
 
-## TÍTULO DÉCIMO. RESPONSABILIDAD PROFESIONAL
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+## TÍTULO DÉCIMO SEXTO. DE LA UNIDAD TÉCNICA PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE OCTUBRE DE 2020)</small>
 
 ### CAPÍTULO III. SANCIÓN PARA LA TENTATIVA
 
-###### Artículo 210.
+###### ARTÍCULO 210.
 
-La prevención y el control de emergencias ecológicas y contingencias ambientales serán competencia de los ayuntamientos cuando la magnitud o gravedad de los desequilibrios ecológicos o los daños al ambiente no rebasen el territorio del Municipio respectivo, o cuando no se haga necesaria la acción exclusiva del Estado o de la Federación. En el último de los casos, los municipios solicitarán la intervención de la Federación debiendo dar aviso al Estado.
+Se crea la Unidad Técnica para la Igualdad de Género, adscrita a la Mesa Directiva del Congreso del Estado, la cual supervisará el cumplimiento de sus objetivos, atribuciones, y el programa para la igualdad de género del propio congreso y contará con la estructura necesaria así como el presupuesto suficiente para sus funciones.
 
-###### Artículo 211.
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
 
-Corresponderá a la Secretaría proponer al Titular del Ejecutivo Estatal la adopción de las medidas necesarias para la prevención y el control de emergencias ecológicas y contingencias ambientales. Igualmente, le corresponderá la aplicación, en el ámbito de su competencia, de dichas medidas y su coordinación, cuando deban intervenir dos o más dependencias estatales para la atención de las emergencias y contingencias señaladas.
+###### ARTÍCULO 211.
 
-###### Artículo 212.
+La Unidad tendrá las siguientes facultades y atraibuciones (sic):
 
-El Gobierno Estatal y los Municipios deberán promover la participación corresponsable de la sociedad y comunidad estudiantil en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
+I.- Sensibilizar y capacitar al capital humano de este poder en todo lo concerniente en perspectiva de género parar mejorar el acceso a la justicia de las personas que en él laboran tanto como representantes populares asi como personal administrativo sea de base o de confianza;
 
-###### Artículo 213.
+II.- Crear ambientes laborales libres de violencia y discriminación;
 
-La Secretaría y los Gobiernos Municipales en sus respectivas jurisdicciones promoverán, en congruencia con el Sistema Estatal de Planeación Democrática, el establecimiento del Consejo Consultivo Estatal o Municipal para el Desarrollo Sustentable, como órganos de concertación social y de coordinación institucional entre las dependencias gubernamentales en el ámbito federal, estatal y municipal con los diferentes sectores sociales.
+III.- Promover la paridad de género y la conciliación de la vida laboral y familiar;
 
-###### Artículo 214.
+IV.- Impulsar ejercicios de participación con la sociedad civil y otros poderes públicos con el fin de promover y salvaguardar los derechos humanos de las mujeres;
 
-Se establece el Consejo Estatal para el Desarrollo Sustentable como un órgano permanente de coordinación institucional y de concertación social entre las dependencias y entidades estatales y los ayuntamientos, y los representantes de los sectores social y privado, así como la sociedad en general.
+V.- Realizar actividades al interior de este congreso para la promoción y estudios de genero entre los trabajadores manuales y administrativos de este congreso y la propia sociedad civil;
 
-Al Consejo Estatal para el Desarrollo Sustentable le corresponde:
+VI.- Ejecutar y dar seguimiento al cumplimiento de las obligaciones contraídas en tratados y convenciones internacionales de derechos humanos de las mujeres, en su ámbito de competencia;
 
-I. Proponer prioridades, programas y acciones ecológicas y de protección al ambiente;
+VII.- Coordinar los programas y actividades con perspectiva de genero que se relice (sic) al interior de este Poder Legislativo;
 
-II. Impulsar la participación de los sectores público, social y privado en los programas y acciones que impulsen las autoridades;
+VIII.- Intervenir en el marco de sus facultades , en acciones que impulse este Poder Legislativo para garantizar el acceso equitativo y no discriminatorio de las mujeres al desarrollo y la tutela de sus derechos humanos;
 
-III. Promover la incorporación de la variable ambiental en la toma de decisiones políticas, económicas y sociales en todos los órdenes de gobierno, sectores económicos y sociedad;
+IX.- Implementar mecanismos para promover la igualdad sustantiva entre mujeres y hombres al interior del recinto parlamentario;
 
-IV. Evaluar periódicamente los resultados de las políticas, programas, estudios y acciones específicas en materia de protección del medio ambiente y de aprovechamiento sustentable de los recursos naturales, a partir de los informes que proporcionen las autoridades competentes;
+X.- Proponer estrategias para incorporar y transversalizar la perspectiva de género en este Congreso;
 
-V. Elaborar recomendaciones para mejorar las leyes, reglamentos y procedimientos relativos a la protección del medio ambiente y el aprovechamiento sustentable de los recursos naturales, y
+XI.- Realizar diagnóstico sobre la cultura Institucional y los indicadores de igualdad de género en el Congreso del Estado;
 
-VI. Promover la integración de los consejos municipales de ecología en los municipios del Estado.
+XII.- Coadyuvar en la construcción y el cumplimiento de una agenda Interna basada en la perspectiva de género;
+
+XIII.- Elabora los manuales de organización y de funcionamiento asi como su propio reglamento para su debida aprobación y publicación respectivas;
+
+XIV.- Realizar publicaciones y contenidos editoriales que permita (sic) consolidar la perspectiva de género en el Poder Legislativo; y
+
+XV.- Prevenir, atender, sancionar y erradica (sic) la violencia derivada de cualquier motivo y en especial aquella que se ejerza contra las mujeres.
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 212.
+
+Para ser titular de la Unidad Técnica para la Igualdad de Género, se requiere:
+
+I.- Ser ciudadana sonorense en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II.- No haber sido inhabilitada por la Secretaría de la Contraloría General o por otra autoridad competente para ello;
+
+III.- No haber sido sentenciada por delito intencional que merezca pena corporal;
+
+IV.- Contar con licenciatura; y
+
+V.- Acreditar experiencia en materia (sic) equidad de género o en actividades relacionadas con la promoción de la igualdad sustantiva.
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 213.
+
+La titular de la Unidad Técnica para la Igualdad de Género será nombraba en sesión del Pleno, atendiendo lo dispuesto en el artículo 64, fracción XXXI de la Constitución Política del Estado de Sonora, previa convocatoria que para tal efecto emita la Comisión para la Igualdad de Género del Congreso del Estado.
+
+La Comisión deberá señalar en la Convocatoria los requisitos que deberán cumplir los aspirantes al cargo y el procedimiento de elección de la misma, la cual deberá ser publicada en el portal oficial del Congreso del Estado de Sonora y por una sola ocasión en el Boletín Oficial del Gobierno del Estado de Sonora
+
+La titular de la Unidad Técnica para la Igualdad de Género durará en su encargo un periodo de tres años contados a partir de su nombramiento, pudiendo ser ratificada por otro periodo más.
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 214.
+
+La titular de la Unidad estará obligada a rendir un informe anual de labores ante la Comisión para la Igualdad de Género del Congreso del Estado, en la fecha en que se lleve a cabo el parlamento de mujeres de mujeres (sic) que apruebe este Congreso o cada año lectivo de acuerdo a su respectivo nombramiento.
 
 ## TÍTULO DÉCIMO PRIMERO. FALSEDAD
 
@@ -2759,11 +2805,21 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 
 La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+B.O. 8 DE OCTUBRE DE 2020.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 138, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 14 DE JULIO DE 2022.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día 01 de enero de 2021, presiva (sic) su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado, a través de las instancias correspondientes deberá deberá (sic) de expedir el Reglamento de la Unidad Técnica para la Igualdad de Género, dentro de los sesenta dias naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión de Regimen Interno y Concertación Política deberá proponer al Pleno del Congreso del Estado una partida presupuestal suficiente para que inicie sus funciones de (sic) la Unidad Técnica para la Igualdad de Género.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIOINES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE CIBERVIOLENCIA O VIOLENCIA A LA INTIMIDAD SEXUAL, ASÍ COMO EN SU MODALIDAD DE DEEPFAKE”.]
 
