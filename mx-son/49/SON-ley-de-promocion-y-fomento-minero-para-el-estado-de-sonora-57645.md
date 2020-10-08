@@ -4,7 +4,7 @@ identifier: "SON-ley-de-promocion-y-fomento-minero-para-el-estado-de-sonora-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-22"
-last_updated: "2007-11-22"
+last_updated: "2020-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROMOCION Y FOMENTO MINERO PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 22 de noviembre de 2007.
 
@@ -249,9 +249,11 @@ c) Aportación de recursos para el desarrollo de infraestructura y servicios; y
 
 d) Los demás que se señalen en otras disposiciones legales y los que se establezcan en los programas que implementen las dependencias y entidades de la administración pública estatal.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 18.
 
-Tendrán derecho a los incentivos fiscales los empresarios e inversionistas mineros que operen como personas físicas o morales establecidos o por establecerse en la Entidad y que reúnan los requisitos establecidos por las leyes fiscales respectivas.
+Tendrán derecho a los incentivos fiscales los empresarios e inversionistas mineros que operen como personas físicas o morales establecidos o por establecerse en la Entidad, que reúnan los requisitos establecidos por las leyes fiscales respectivas y que al menos el setenta por ciento del personal que labore en sus instalaciones, tenga residencia en el municipio o en su defecto en los municipios circunvecinos a aquel en el cual se encuentren establecidas dichas instalaciones.
 
 ###### ARTÍCULO 19.
 
@@ -436,3 +438,13 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUBIAL ASTIAZARAN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 140, QUE REFORMA AL ARTÍCULO 18 DE LA LEY DE PROMOCIÓN Y FOMENTO MINERO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
