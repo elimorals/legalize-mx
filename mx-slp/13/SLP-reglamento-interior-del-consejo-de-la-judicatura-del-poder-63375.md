@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-consejo-de-la-judicatura-del-poder-6337
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-06"
-last_updated: "2008-09-06"
+last_updated: "2020-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de septiembre de 2008.
 
@@ -1633,9 +1633,423 @@ En el caso de la Central de Actuarios, se estará a lo previsto en su reglamento
 
 El Consejo expedirá los reglamentos, acuerdos generales y manuales necesarios para normar las actividades del personal administrativo, secretarias, trabajadores sociales de los juzgados familiares y mozos.
 
-### Capítulo III. Evaluación del desempeño, estímulos y recompensas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2020)</small>
 
-### Capítulo I. De los registros de control
+### Capítulo II BIS. De los Tribunales o Juzgados del Sistema Laboral
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 BIS. Los Tribunales Laborales contarán con la figura de Secretario Instructor, quien auxiliará al titular del Órgano Jurisdiccional en la fase escrita del procedimiento; además de las atribuciones que le otorga el artículo 871 de la Ley Federal del Trabajo y 75 QUINQUE de la Ley Orgánica del Poder Judicial del Estado, tendrá las siguientes obligaciones:
+
+I. Auxiliar al titular del órgano jurisdiccional en el cumplimiento de su deber;
+
+II. Autorizar la lista de las resoluciones que se dicten, independientemente de la que se publique en estrados, conservando copia de la misma en el archivo del órgano jurisdiccional;
+
+III. Dar cuenta al titular del órgano jurisdiccional, de los informes que deban rendirse a las diversas autoridades federales, locales, administrativas o internas, y vigilar que se realicen dentro de los plazos legales;
+
+IV. Recibir escritos de término en su domicilio particular fuera de horas de oficina, el que deberá ser publicado de manera visible en la puerta del órgano jurisdiccional; y
+
+V. Las demás que establezcan las disposiciones legales, reglamentarias, acuerdos generales del Consejo de la Judicatura, manuales de organización y de procedimientos.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 TER. Dentro de los Tribunales Laborales se contará con la figura de Secretaria Capturista, quien tendrá las siguientes atribuciones y obligaciones:
+
+I. Elaborar los acuerdos, actas, oficios, exhortos y demás documentos propios de las funciones del tribunal, ordenados por el Secretario Instructor, bajo los lineamientos proporcionados por éste o por el titular del órgano jurisdiccional;
+
+II. Guardar con absoluta reserva la información que se les confía con motivo de su cargo;
+
+III. Auxiliar cuando sea necesario al demás personal del tribunal laboral, en las actividades que le sean encomendadas y acordes a sus conocimientos y habilidades;
+
+IV. Cumplir con los lineamientos que marca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+V. Recibir y firmar de recibido los expedientes sobre los que deberá elaborar los proyectos de resolución (acuerdos o sentencias);
+
+VI. Elaborar actas de audiencia;
+
+VII. Elaborar oficios;
+
+VIII. Recabar firma de entrega de expedientes con resoluciones para costura;
+
+IX. Dar el uso adecuado y razonado al equipo de cómputo y demás bienes que tenga bajo su resguardo y responsabilidad;
+
+X. Mecanografiar resoluciones, actas y demás constancias relacionadas a los expedientes, sin emplear abreviaturas, sin raspar palabras equivocadas;
+
+XI. Sobre la palabra equivocada trazar una línea delgada que permita su lectura:
+
+a) Salvar con toda precisión, antes de la firma, el error cometido.
+
+b) Salvar las palabras que se hubiere entrerrenglonado.
+
+c) Escribir fechas y cantidades con letra.
+
+d) Asentar las actuaciones en forma continua, sin dejar hojas o espacios en blanco, sólo el necesario para firmas.
+
+XII. Ante la necesidad de que un expediente tenga que salir del local para fotocopia, deberá el solicitante, previo depósito de su identificación, hacerse acompañar por el empleado que al efecto comisione el Secretario Instructor;
+
+XIII. Realizar el servicio de mensajería;
+
+XIV. Cumplir con los lineamientos que marca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+
+XV. Las funciones y responsabilidades que se mencionaron anteriormente son de carácter enunciativo, más no limitativo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 CUATER. Los Tribunales Laborales contarán con una Dirección de Área, la cual tendrá las siguientes atribuciones y obligaciones:
+
+I. Formular y someter a consideración del Consejo de la Judicatura el Programa Operativo Anual y en su caso, los Programas basados en Resultados o emergentes del tribunal laboral;
+
+II. Actualizar anualmente los manuales de organización y procedimientos cuando se requiera;
+
+III. Definir y controlar los derechos de acceso de usuarios a los programas institucionales, redes e internet;
+
+IV. Autorizar los permisos económicos y salidas anticipadas al personal que labora en el Tribunal Laboral;
+
+V. Acceder al Sistema de adquisiciones, de control patrimonial y almacén;
+
+VI. Difundir y hacer cumplir los criterios obligatorios, órdenes directas, acuerdos, oficios y circulares que reciba del Pleno del Consejo de la Judicatura, cuando incidan en el ámbito de organización y funcionamiento del Tribunal Laboral;
+
+VII. Supervisar que el personal administrativo del Tribunal Laboral cumpla, sin demora y con estricto apego a la normatividad aplicable, las funciones que tenga asignadas;
+
+VIII. Brindar apoyo a los Jueces para la debida realización de las tareas que éstos desarrollen en el ejercicio de sus funciones;
+
+IX. Dictar al Jefe de Departamento y de Sección, así como al demás personal las instrucciones y medidas administrativas que estime pertinentes, para realizar las funciones asignadas a su cargo;
+
+X. Proponer al Pleno del Consejo de la Judicatura, las medidas que, a su juicio, deban adoptarse para el mejor funcionamiento del Tribunal Laboral, con base en los resultados estadísticos;
+
+XI. Proponer al Pleno del Consejo de la Judicatura, la aprobación de lineamientos de operación y políticas con el propósito de prestar un servicio eficiente y eficaz;
+
+XII. Remitir al Archivo Judicial, o a la superioridad, los expedientes respectivos, según sea el caso;
+
+XIII. Proporcionar a los Secretarios Instructores, los expedientes y documentos necesarios a través del personal a su cargo;
+
+XIV. Estandarizar y mejorar los procesos administrativos del Tribunal Laboral;
+
+XV. Generar un sistema de indicadores de gestión consolidado, que permita evaluar el desempeño;
+
+XVI. Resolver, en conjunto con los Secretarios Instructores, la problemática administrativa que llegare a presentarse e informar al Pleno del Consejo de la Judicatura, aquella que por su complejidad o naturaleza, requiera de su intervención;
+
+XVII. Recibir y otorgar las facilidades al personal de la Visitaduría en las revisiones de inspección y solicitar a los Secretarios Instructores para que atiendan y entreguen la información y documentos que el órgano de vigilancia requiera;
+
+XVIII. Establecer políticas y lineamientos con los Jueces Laborales para estandarizar las actividades y tiempos en el desahogo de audiencias y hacer eficiente el desarrollo de las mismas;
+
+XIX. Supervisar que se capacite a los usuarios en la implementación de los nuevos sistemas;
+
+XX. Supervisar que sean atendidos los requerimientos de mantenimiento preventivo y/o correctivo enviados por el área jurisdiccional y administrativa en materia de tecnologías de la información;
+
+XXI. Realizar el levantamiento de los requerimientos para la elaboración del presupuesto anual del Tribunal Laboral, según las directrices o instrucciones que emanen del Pleno del Consejo de la Judicatura;
+
+XXII. Supervisar al personal a su cargo para que cumplan con las disposiciones que dictan los reglamentos del Poder Judicial;
+
+XXIII. Orientar al personal, conjuntamente con los Secretarios Instructores, según sea el caso, en el cumplimiento de sus responsabilidades;
+
+XXIV. Coordinar que se video grabe y respalden las audiencias de manera correcta;
+
+XXV. Fomentar la capacitación específica del personal que labora en Tribunal Laboral;
+
+XXVI. Salvaguardar, dentro del marco del desempeño de sus funciones y responsabilidades, la legalidad, honradez, lealtad, imparcialidad y eficiencia, acorde a lo dispuesto en el artículo 56 de la Ley de Responsabilidades de los Servidores Públicos del Estado de San Luis Potosí.
+
+XXVII. Conocer y autorizar lo relativo a las incidencias laborales de asistencia y puntualidad, del personal del Tribunal laboral.
+
+XXVIII. Las funciones y responsabilidades que se mencionaron anteriormente son de carácter enunciativo, más no limitativo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 QUINQUE. Dentro de los Tribunales Laborales se contará con la figura de Jefe de Departamento, quien tendrá las siguientes atribuciones y obligaciones:
+
+I. Recibir y registrar las promociones y correspondencia;
+
+II. Agregar las promociones a los expedientes y turnarlas oportunamente al Secretario Instructor;
+
+III. Revisar las actas de notificaciones del Actuario y, en caso de detectar alguna irregularidad, dar cuenta al Secretario Instructor para los efectos conducentes;
+
+IV. Enviar la correspondencia;
+
+V. Remitir los informes que se rindan en los juicios de amparo en los que el titular del órgano jurisdiccional sea señalado como autoridad responsable;
+
+VI. Inventariar rigurosamente los expedientes que se encuentren en trámite y vigilar el envío de los que pasen al archivo, anotando todos los datos que faciliten su localización;
+
+VII. Prestar los expedientes a las partes, a sus representantes o autorizados, a sus defensores o a quienes tengan interés, siempre que se cubran los requisitos que exige éste reglamento;
+
+VIII. Sellar y foliar, oficios y demás documentos que lo requieran;
+
+IX. Elaborar las estadísticas e informes mensuales;
+
+X. Llevar libros de registro de expedientes en los cuales se asienten todos los datos sobre trámite y resolución que se dicten en cada negocio, así como organizar los minutarios correspondientes;
+
+XI. Recibir: 1. Demandas, 2. Promociones, 3. Amparos, 4. Exhortos, 5. Exhortos diligenciados, 6. Exhortos para diligenciar, 7. Oficios varios;
+
+XII. Firmar de recibido, anotando los anexos y documentos fundatorios que se pongan a disposición del juzgado, además asentar la fecha, hora, número de fojas y el número de control interno de entrada que le corresponda;
+
+XIII. Registrar por orden progresivo: 1. Demandas, 2. Promociones, 3. Amparos, 4. Exhortos para diligenciar, 5. Requisitorias;
+
+XIV. Separar asuntos urgentes y registrar en el sistema informático correspondiente;
+
+XV. Da cuenta y entrega al secretario instructor demandas y asuntos de mero trámite dentro de veinticuatro horas;
+
+XVI. Localizar expedientes;
+
+XVII. Entregar expedientes con promociones;
+
+XVIII. Recabar firmas de quienes reciben los expedientes;
+
+XIX. Recibir expedientes para archivo;
+
+XX. Remitir al archivo judicial, mediante listado, expedientes de asuntos concluidos;
+
+XXI. Entregar al Secretario Instructor expedientes con recursos y anotar oficio de remisión;
+
+XXII. Elaborar informes de labores;
+
+XXIII. Atender al público;
+
+XXIV. Elaborar informes estadísticos que se proporcionan tanto al Tribunal como al Instituto de Estadística, Geografía e Informática entre otros, de las actividades realizadas mensualmente;
+
+XXV. Vigilar y dar el uso adecuado y razonado al equipo de cómputo y demás bienes que tenga bajo su resguardo y responsabilidad;
+
+XXVI. Las demandas que le encomienden los superiores en relación a sus deberes;
+
+XXVII. Cumplir con los lineamientos que marca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+
+XXVIII. Las funciones y responsabilidades que se mencionaron anteriormente son de carácter enunciativo, más no limitativo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 SEXTIES. Dentro de los Tribunales Laborales se contará con la figura de Jefe de Sección, quien tendrá las siguientes atribuciones y obligaciones:
+
+I. Recibir: Demandas, promociones, amparos, exhortos, Exhortos diligenciados, Exhortos para diligenciar, oficios varios;
+
+II. Firmar de recibido, anota los anexos, además asienta la fecha, hora, número de fojas y el número de control interno de entrada que le corresponda;
+
+III. Registrar por orden progresivo: demandas, promociones, amparos, exhortos para diligenciar y requisitorias;
+
+IV. Separar asuntos urgentes y registrar en el Sistema Informático correspondiente;
+
+V. Dar cuenta y entrega al Secretario Instructor de las demandas y asuntos de mero trámite dentro de veinticuatro horas;
+
+VI. Localizar expedientes;
+
+VII. Entregar expedientes con promociones;
+
+VIII. Recabar firmas de quienes reciben los expedientes;
+
+XIX (SIC). Recibir expedientes para archivo;
+
+X. Remitir al archivo judicial, mediante listado, expedientes de asuntos concluidos;
+
+XI. Entregar al Secretario Instructor expedientes con recursos y anotar oficio de remisión;
+
+XII. Elaborar informes de labores;
+
+XIII. Atender al público;
+
+XIV. Elaborar informes estadísticos que se proporcionen tanto a la a la Unidad de Estadística, Evaluación y Seguimiento del Consejo, como al Instituto Nacional de Estadística, Geografía e Informática de las actividades realizadas mensualmente;
+
+XV. Vigilar y dar el uso adecuado y razonado al equipo de cómputo y demás bienes que tenga bajo su resguardo y responsabilidad;
+
+XVI. Las demandas que le encomienden los superiores en relación a sus deberes;
+
+XVII. Cotejar los escritos de demanda y sus anexos, registrarlos y escanearlos en el en el (sic) sistema informático. En caso de que hubiera omisión o errores en el escaneo y/o registro, deberá subsanar los mismos;
+
+XVIII. Recibir, escanear y registrar los documentos que le son presentados por las partes o terceros en el sistema informático que se utiliza en el Tribunal Laboral;
+
+XIX. Turnar los documentos recibidos para que sean integrados en los expedientes, o entregados al personal según corresponda;
+
+XX. Registrar y separar los documentos que serán resguardados en el secreto del tribunal laboral, mismos que serán entregados al Secretario Instructor;
+
+XXI. Entregar la demanda y anexos que correspondan a la brevedad posible al titular del tribunal laboral y Secretario Instructor;
+
+XXII. Comunicar al titular del tribunal cualquier anomalía que detecte en los documentos;
+
+XXIII. Cumplir con los lineamientos que marca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+
+XXIV. Las funciones y responsabilidades que se mencionaron anteriormente son de carácter enunciativo, más no limitativo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 SEPTIES. Dentro de los Tribunales Laborales se contará con la figura de Analista en Sistemas Computacionales, quien tendrá las siguientes atribuciones y obligaciones:
+
+I. Acceder a información documental;
+
+II. Acceder al archivo del Juzgado Laboral;
+
+III. Atender a los usuarios y servidores judiciales que lo requieran;
+
+IV. Acceder a los sistemas de información;
+
+V. Acceder a documentación oficial del juzgado laboral;
+
+VI. Diagnosticar las fallas en equipos de cómputo e instalaciones de redes;
+
+VII. Determinar el equipo que será enviado a servicio externo, previa autorización de titular de Tecnologías de Información;
+
+VIII. Asistir y/o asesorar técnicamente al personal del Tribunal Laboral, respecto a los recursos y plataformas tecnológicas;
+
+IX. Asesorar a los usuarios en lo referente al manejo de equipos de computación, impresoras y herramientas de trabajo;
+
+X. Registrar y controlar las cuentas de usuarios del Tribunal Laboral;
+
+XI. Asesorar a los servidores judiciales en lo referente a los manuales del usuario y del sistema;
+
+XII. Realizar configuraciones e instalaciones de equipo de cómputo en el Tribunal Laboral;
+
+XIII. Respaldar la información de bases de datos de los sistemas desarrollados internamente;
+
+XIV. Realizar el mantenimiento y operación de los sistemas de información;
+
+XV. Realizar los niveles de seguridad para la información manejada en los módulos de los sistemas;
+
+XVI. Cuidar que se lleven a cabo los lineamientos y políticas para el manejo de los equipos de cómputo y sistemas de informática;
+
+XVII. Publicar la información que sea pertinente, de acuerdo con lo establecido por el H. Consejo de la Judicatura;
+
+XVIII. Publicar las listas de acuerdos del Tribunal Laboral, únicamente cuando éstos no cuenten con servicio de internet;
+
+XIX. Configurar los equipos para el acceso a las redes instaladas en el Tribunal Laboral;
+
+XX. Realizar los diagnósticos de fallas en equipos de cómputo;
+
+XXI. Configurar los dispositivos de comunicaciones de las redes de datos;
+
+XXII. Revisar el buen funcionamiento de la red de voz y datos en las salas de audiencias del Tribunal Laboral;
+
+XXIII. Respaldar y restituir la información contenida en equipos que son configurados durante el mantenimiento correctivo;
+
+XXIV. Salvaguardar, dentro del marco del desempeño de sus funciones y responsabilidades, la legalidad, honradez, lealtad, imparcialidad y eficiencia, acorde a lo dispuesto en el artículo 56 de la Ley de Responsabilidades de los Servidores Públicos del Estado de San Luis Potosí;
+
+XXV. Mantener disponible y ordenada la información referente a los trámites solicitados, así como dar seguimiento para su correcto desahogo;
+
+XXVI. Administrar los recursos tecnológicos del Tribunal Laboral, para dar respuesta oportuna a las solicitudes y requerimientos de los usuarios;
+
+XXVII. Ejecutar y monitorear actividades de operación sobre los sistemas, de acuerdo a los procedimientos establecidos;
+
+XXVIII. Identificar propuestas e iniciativas de mejora de procesos y operación del Tribunal Laboral;
+
+XXIX. Coadyuvar en la elaboración de estudios y proyectos de la competencia del Tribunal Laboral;
+
+XXX. Coadyuvar en él envió de datos, para la conformación de los informes mensuales que solicita el H. Consejo de la Judicatura;
+
+XXXI. Definir un plan de capacitación para el recurso humano del Tribunal Laboral que opera los sistemas computacionales;
+
+XXXII. Cualquier otra que le designe el Director de Área y que esté relacionada con la naturaleza de su puesto;
+
+XXXIII. Las funciones y responsabilidades que se mencionaron anteriormente son de carácter enunciativo, más no limitativo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 OCTIES. Dentro de los Tribunales Laborales se contará con la figura de Secretaria Capturista de apoyo al Director de Área, quien tendrá las siguientes atribuciones y obligaciones:
+
+I. Manejar el Sistema Informático de Control del Almacén;
+
+II. Elaborar técnicamente los oficios que les dicte su jefe inmediato;
+
+III. Cuando se trate de oficios manuscritos, se deberán consignar en los mismos, las iniciales con letra mayúscula de quien dicta y con minúscula las iniciales de quien toma el dictado, en el ángulo inferior izquierdo de los oficios que elaboren;
+
+IV. Evitar el desperdicio o sustracción de los útiles de oficina;
+
+V. Capturar requerimiento anual de materiales y suministros de las áreas del Tribunal Laboral;
+
+VI. Recibir y capturar la información para el proceso de adquisiciones, así como imprimir los diferentes reportes que genera el sistema de compras;
+
+VII. Llevar el control y captura del sistema de compras;
+
+VIII. Presentar reporte mensual de órdenes de compra, clasificándolas en menores y mayores para su difusión en la página de transparencia del Poder Judicial del Estado;
+
+IX. Mantener bajo control, los documentos manejados dentro del ejercicio de sus funciones;
+
+X. Las funciones y responsabilidades que se mencionaron anteriormente son de carácter enunciativo, más no limitativo; así como las demás que su jefe inmediato le encomiende.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 NONIES. Dentro de los Tribunales Laborales se contará con la figura de Auxiliar Administrativo, quien además tendrá las siguientes atribuciones y obligaciones:
+
+I. Localizar los expedientes que le encomiende el Jefe de Departamento;
+
+II. Colocar los expedientes en la estantería que corresponda, según la clasificación correspondiente;
+
+III. Ordenar y clasificar los expedientes para el control respectivo en el más estricto orden por año y número consecutivo;
+
+IV. Integrar los documentos de manera ordenada y cronológica, cosiéndolos al expediente, colocando el folio y sello del Tribunal Laboral;
+
+V. Sellar debidamente las copias de traslado;
+
+VI. Colaborar con el Jefe de Sección en la localización de los expedientes con promociones para acordar y para consulta de los interesados;
+
+VII. Realizar revisiones periódicas a efecto de informar al Secretario Instructor de los expedientes susceptibles de envío al Archivo Judicial por estar concluidos procesalmente;
+
+VIII. Prohibir la entrada al archivo de personas ajenas al mismo, impidiendo el manejo de expedientes, oficios o documentos a su cargo;
+
+IX. Coadyuvar con su superior jerárquico en lo siguiente:
+
+a) Localizar los expedientes para devolución, que le sean solicitados por el Juez Laboral o los Secretarios Instructores;
+
+b) Guardar los vales de los expedientes devueltos al Tribunal Laboral;
+
+c) Acomodar los expedientes, de acuerdo con su clasificación, en la estantería correspondiente;
+
+d) Checar los expedientes sueltos para colocarlos en los legajos correspondientes;
+
+e) Verificar que se encuentren completos los legajos de expedientes de los cuales se le haya ordenado su envío;
+
+f) Localizar los expedientes que soliciten los litigantes.
+
+X. Checar los paquetes que les sean turnados y poner las etiquetas en los inventarios;
+
+XI. Archivar escritos y minutas de devoluciones que les sean turnados;
+
+XII. Auxiliar en la atención al público, cuando así le sea ordenado;
+
+XIII. Las demás que les encomiende su superior jerárquico;
+
+XIV. Cumplir con los lineamientos que marca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+
+XV. Las funciones y responsabilidades que se mencionaron anteriormente son de carácter enunciativo, más no limitativo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2020)</small>
+
+Artículo 148 DECIES. Dentro de los Tribunales Laborales se contará con la figura de Auxiliar en Mantenimiento, quien tendrá las siguientes atribuciones y obligaciones:
+
+I. Realizar las actividades propias del servicio que le son asignadas por los responsables del Tribunal Laboral;
+
+II. Mantener limpios y ordenado y funcional los espacios de trabajo del Tribunal Laboral;
+
+III. Apoyar en el traslado de mobiliario de la bodega a las áreas en que éste sea requerido;
+
+IV. Recoger y entregar los bienes, materiales e insumos solicitados por las áreas, previa autorización del Director de Área;
+
+V. Hacer buen uso de los insumos de limpieza y guardarla en el lugar asignado, al término de sus labores;
+
+VI. Informar de los faltantes de materiales de limpieza al Director de Área para gestionar los requerimientos respectivos;
+
+VII. Mantener en buen estado las herramientas y artículos de limpieza a su cargo;
+
+VIII. Archivar escritos y minutas de devoluciones que les sean turnados;
+
+IX. Realizar el servicio de mensajería;
+
+X. Acompañar al solicitante de fotocopias previa autorización del Jefe de Departamento;
+
+XI. Coadyuvar con su superior jerárquico en lo siguiente:
+
+a) Localizar los expedientes para devolución, que le sean solicitados por el Jefe de Departamento y Jefe de Sección;
+
+b) Guardar los vales de los expedientes devueltos al tribunal laboral y ponerlos en substitución del expediente devuelto;
+
+c) Integrar los documentos de manera ordenada y cronológica, cosiéndolos al expediente y colocar el folio y el sello del Tribunal Laboral;
+
+d) Acomodar los expedientes, de acuerdo con su clasificación, en la estantería correspondiente;
+
+e) Checar los expedientes sueltos para colocarlos en los legajos correspondientes;
+
+f) Verificar que se encuentren completos los legajos de expedientes de los cuales se le haya ordenado su envío;
+
+g) Localizar los expedientes que soliciten los litigantes.
+
+XII. Cumplir con los lineamientos que marca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+XIII. Las funciones y responsabilidades que se mencionaron anteriormente son de carácter enunciativo, más no limitativo.
+
+### Capítulo III. Evaluación del desempeño, estímulos y recompensas
 
 ###### Artículo 149.
 
@@ -1675,7 +2089,7 @@ El sistema de estímulos será desarrollado por el área de Recursos Humanos.
 
 ## TÍTULO QUINTO. DEL DESPACHO DE LOS ASUNTOS EN LOS JUZGADOS.
 
-### Capítulo II. De la recepción y registro de documentos en los juzgados
+### Capítulo I. De los registros de control
 
 ###### Artículo 158.
 
@@ -2979,7 +3393,7 @@ h. Fecha de acuerdo;
 
 i. Observaciones.
 
-### Capítulo III. De los expedientes y promociones
+### Capítulo II. De la recepción y registro de documentos en los juzgados
 
 ###### Artículo 172.
 
@@ -3025,7 +3439,7 @@ Al siguiente día hábil de la presentación de escritos y promociones en la Ofi
 
 Fuera del horario de despacho, las promociones y escritos deberán presentarse en la Oficialía de Partes Común o, en su defecto, en el domicilio particular del secretario de acuerdos respectivo, el cual deberá estar publicado en forma permanente y debidamente protegido, en la parte exterior de la puerta del juzgado. Al recibirse las promociones y escritos, se deberá asentar lo previsto en éste capítulo, en lo conducente.
 
-### Capítulo IV. De los valores e instrumentos del delito
+### Capítulo III. De los expedientes y promociones
 
 ###### Artículo 183.
 
@@ -3145,7 +3559,7 @@ Cuando las promociones se presenten con documentos originales o valores, a crite
 
 Cuando se agreguen hojas a los expedientes, cuadernos de amparos y similares, deberán foliarse y sellarse en la confluencia donde unen las hojas, observándose en general las disposiciones legales aplicables.
 
-### Capítulo V. De las listas de acuerdos y estrados
+### Capítulo IV. De los valores e instrumentos del delito
 
 ###### Artículo 195.
 
@@ -3163,7 +3577,7 @@ Las cantidades que dejen los procesados o sus fiadores a disposición del juzgad
 
 En el supuesto de que las instituciones bancarias se encuentren cerradas, podrá el juez recibir la cantidad en efectivo, la cual depositará a primera hora del siguiente día hábil.
 
-### Capítulo VII (sic). De la correspondencia y remisión de documentos
+### Capítulo V. De las listas de acuerdos y estrados
 
 ###### Artículo 199.
 
@@ -3181,7 +3595,7 @@ Al publicarse la lista de acuerdos, los expedientes deberán estar debidamente f
 
 Los Órganos jurisdiccionales contarán con estrados para fijar citaciones, notificaciones, edictos y avisos de naturaleza judicial en el sitio que resulte más conveniente y visible para la consulta de las partes y público.
 
-### Capítulo VIII. Del acuerdo
+### Capítulo VII (sic). De la correspondencia y remisión de documentos
 
 ###### Artículo 203.
 
@@ -3219,7 +3633,7 @@ En la carátula del expediente deberán anotarse los números de los expedientes
 
 La correspondencia del juzgado será foliada, formándose el cuadernillo respectivo.
 
-### Capítulo IX. De las audiencias
+### Capítulo VIII. Del acuerdo
 
 ###### Artículo 212.
 
@@ -3233,7 +3647,7 @@ La elaboración del acuerdo deberá realizarse el mismo día y, excepcionalmente
 
 Las secretarias taquimecanógrafas serán responsables de los expedientes que se les entreguen, evitando las sustracciones, mutilaciones, raspaduras y daños a los mismos.
 
-### Capítulo X. Del archivo y consulta de expedientes
+### Capítulo IX. De las audiencias
 
 ###### Artículo 215.
 
@@ -3250,6 +3664,8 @@ Las secretarias taquimecanógrafas se concretarán a asentar y registrar el acta
 ###### Artículo 218.
 
 El juez o el secretario de acuerdos deberán mantener el orden en la audiencia, podrán, en su caso, sancionar conforme a la Ley, a los abogados que interrumpan el examen de las partes, testigos o peritos con la intención de que no se anote la respuesta correcta.
+
+### Capítulo X. Del archivo y consulta de expedientes
 
 ###### Artículo 219.
 
@@ -3336,3 +3752,15 @@ Mtro. Juan Miguel Chávez Vázquez
 Secretario Ejecutivo de Pleno y Carrera Judicial.
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “ADICIÓN AL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, EL CAPÍTULO II BIS “DE LOS TRIBUNALES O JUZGADOS DEL SISTEMA LABORAL”.]
+
+PRIMERO.- La presente reforma al Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado, entrará en vigor al día siguiente de su aprobación, con independencia de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a dichas reformas y que hayan sido dictadas con anterioridad a la entrada en vigor del mismo.
+
+TERCERO.- Désele la más amplia difusión al contenido del presente acuerdo en el portal de transparencia del Poder Judicial del Estado y en la Gaceta Judicial.
