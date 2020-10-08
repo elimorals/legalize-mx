@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2017-04-20"
+last_updated: "2020-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -923,13 +923,15 @@ VIII.- Conducir sin licencia vigente.
 
 Las sanciones impuestas por infracciones a este Reglamento y la Ley de Tránsito del Estado de Sonora, podrán ser impugnadas mediante la interposición de los recursos previstos en el artículo 240 de la Ley.
 
-> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, B.O. 8 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 69.
 
-El cuarenta por ciento de los ingresos recaudados por el Ayuntamiento por concepto de multas por infracciones a este Reglamento, se destinarán a la formación de fondos para campañas de prevención y de salud, relacionadas con el consumo de alcohol, drogas, estupefacientes y otras sustancias, así como para los programas vinculados a la función pública de tránsito.
+El cuarenta por ciento de los ingresos recaudados por el Ayuntamiento por concepto de multas por infracciones a este Reglamento, se destinará a los siguientes rubros:
 
-En el caso de las multas por conducir en estado de ebriedad, el cien por ciento de su ingreso de destinara a los fines antes indicados.
+I. Capacitación, apoyos económicos y/o estimulos académicos destinados solamente a elementos de la Policía Preventiva y Tránsito Municipal del área operativa que hayan cumplido satisfactoriamente con los exámenes del Centro de Evaluación y Control de Confianza, y/o
+
+II. Para la formación de fondos para campañas de prevención y salud, relacionadas con el consumo de alcohol, drogas, estupefacientes y otras sustancias.
 
 ## TRANSITORIOS
 
@@ -990,3 +992,9 @@ Se instruye a la Jefatura de Policía Preventiva y Tránsito Municipal, Direcci�
 PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones reglamentarias que se opongan a la aplicación de la presente reforma.
+
+B.O. 8 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE REFORMA EL ARTÍCULO 69 DEL REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO".]
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
