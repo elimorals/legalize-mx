@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2020-05-29"
+last_updated: "2020-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE DICIEMBRE DE 2020 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -2123,6 +2125,10 @@ El Congreso del Estado de Sonora asegurará y reservará los recursos presupuest
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
 
+### CAPÍTULO I. UNIDAD TÉCNICA PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 204.
 
 El parlamento Juvenil del Estado de Sonora es un órgano de participación ciudadana de deliberación, debate, ejecución y formación cívica, en el cual las y los jóvenes sonorenses se reúnen para expresar sus preocupaciones, intereses y aspiraciones, con el objetivo de que, en forma colegiada y a través del diálogo, se propongan al Congreso del Estado y al Poder Ejecutivo propuestas e iniciativas que contribuyan con el desarrollo integral de la sociedad sonorense.
@@ -2226,6 +2232,84 @@ V.- La edad para integrar el Parlamento Juvenil del Estado, oscilará entre los 
 Los acuerdos que se aprueben en la sesión del Parlamento Juvenil del Estado se tomarán por mayoría absoluta de sus integrantes. En la sesión se levantará el acta correspondiente y será publicada en el Boletín Oficial del Estado.
 
 En la sesión del Parlamento Juvenil del Estado se elegirá por mayoría absoluta de sus integrantes la mesa directiva que fungirá para esa sesión, así como el orden del día correspondiente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+## TÍTULO DÉCIMO SEXTO. DE LA UNIDAD TÉCNICA PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 210.
+
+Se crea la Unidad Técnica para la Igualdad de Género, adscrita a la Mesa Directiva del Congreso del Estado, la cual supervisará el cumplimiento de sus objetivos, atribuciones, y el programa para la igualdad de género del propio congreso y contará con la estructura necesaria así como el presupuesto suficiente para sus funciones.
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 211.
+
+La Unidad tendrá las siguientes facultades y atraibuciones (sic):
+
+I.- Sensibilizar y capacitar al capital humano de este poder en todo lo concerniente en perspectiva de género parar mejorar el acceso a la justicia de las personas que en él laboran tanto como representantes populares asi como personal administrativo sea de base o de confianza;
+
+II.- Crear ambientes laborales libres de violencia y discriminación;
+
+III.- Promover la paridad de género y la conciliación de la vida laboral y familiar;
+
+IV.- Impulsar ejercicios de participación con la sociedad civil y otros poderes públicos con el fin de promover y salvaguardar los derechos humanos de las mujeres;
+
+V.- Realizar actividades al interior de este congreso para la promoción y estudios de genero entre los trabajadores manuales y administrativos de este congreso y la propia sociedad civil;
+
+VI.- Ejecutar y dar seguimiento al cumplimiento de las obligaciones contraídas en tratados y convenciones internacionales de derechos humanos de las mujeres, en su ámbito de competencia;
+
+VII.- Coordinar los programas y actividades con perspectiva de genero que se relice (sic) al interior de este Poder Legislativo;
+
+VIII.- Intervenir en el marco de sus facultades , en acciones que impulse este Poder Legislativo para garantizar el acceso equitativo y no discriminatorio de las mujeres al desarrollo y la tutela de sus derechos humanos;
+
+IX.- Implementar mecanismos para promover la igualdad sustantiva entre mujeres y hombres al interior del recinto parlamentario;
+
+X.- Proponer estrategias para incorporar y transversalizar la perspectiva de género en este Congreso;
+
+XI.- Realizar diagnóstico sobre la cultura Institucional y los indicadores de igualdad de género en el Congreso del Estado;
+
+XII.- Coadyuvar en la construcción y el cumplimiento de una agenda Interna basada en la perspectiva de género;
+
+XIII.- Elabora los manuales de organización y de funcionamiento asi como su propio reglamento para su debida aprobación y publicación respectivas;
+
+XIV.- Realizar publicaciones y contenidos editoriales que permita (sic) consolidar la perspectiva de género en el Poder Legislativo; y
+
+XV.- Prevenir, atender, sancionar y erradica (sic) la violencia derivada de cualquier motivo y en especial aquella que se ejerza contra las mujeres.
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 212.
+
+Para ser titular de la Unidad Técnica para la Igualdad de Género, se requiere:
+
+I.- Ser ciudadana sonorense en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II.- No haber sido inhabilitada por la Secretaría de la Contraloría General o por otra autoridad competente para ello;
+
+III.- No haber sido sentenciada por delito intencional que merezca pena corporal;
+
+IV.- Contar con licenciatura; y
+
+V.- Acreditar experiencia en materia (sic) equidad de género o en actividades relacionadas con la promoción de la igualdad sustantiva.
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 213.
+
+La titular de la Unidad Técnica para la Igualdad de Género será nombraba en sesión del Pleno, atendiendo lo dispuesto en el artículo 64, fracción XXXI de la Constitución Política del Estado de Sonora, previa convocatoria que para tal efecto emita la Comisión para la Igualdad de Género del Congreso del Estado.
+
+La Comisión deberá señalar en la Convocatoria los requisitos que deberán cumplir los aspirantes al cargo y el procedimiento de elección de la misma, la cual deberá ser publicada en el portal oficial del Congreso del Estado de Sonora y por una sola ocasión en el Boletín Oficial del Gobierno del Estado de Sonora
+
+La titular de la Unidad Técnica para la Igualdad de Género durará en su encargo un periodo de tres años contados a partir de su nombramiento, pudiendo ser ratificada por otro periodo más.
+
+> <small>(ADICIONADO, B.O. 8 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 214.
+
+La titular de la Unidad estará obligada a rendir un informe anual de labores ante la Comisión para la Igualdad de Género del Congreso del Estado, en la fecha en que se lleve a cabo el parlamento de mujeres de mujeres (sic) que apruebe este Congreso o cada año lectivo de acuerdo a su respectivo nombramiento.
 
 ## TRANSITORIOS
 
@@ -2654,3 +2738,19 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 ###### ARTÍCULO TERCERO.
 
 La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
+
+B.O. 8 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 138, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día 01 de enero de 2021, presiva (sic) su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado, a través de las instancias correspondientes deberá deberá (sic) de expedir el Reglamento de la Unidad Técnica para la Igualdad de Género, dentro de los sesenta dias naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión de Regimen Interno y Concertación Política deberá proponer al Pleno del Congreso del Estado una partida presupuestal suficiente para que inicie sus funciones de (sic) la Unidad Técnica para la Igualdad de Género.
