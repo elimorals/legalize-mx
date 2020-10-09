@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-fiscalizacion-disolucion-y-liquidacion-12290
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2017-08-17"
+last_updated: "2020-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122907&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO PARA LA FISCALIZACION, DISOLUCION Y LIQUIDACION DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES A LAS CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MEXICO -- ANTES REGLAMENTO PARA LA FISCALIZACION, DISOLUCION Y LIQUIDACION DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS Y LOS ASPIRANTES A LAS CANDIDATURAS INDEPENDIENTES EN LA CIUDAD DE MEXICO --
 
-REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS Y LOS ASPIRANTES A LAS CANDIDATURAS INDEPENDIENTES EN LA CIUDAD DE MÉXICO
+REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES A LAS CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE OCTUBRE DE 2020.
 
 Reglamento publicado al Número 135 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -64,7 +64,9 @@ Lic. Rubén Geraldo Venegas
 
 Secretario Ejecutivo
 
-REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS Y LOS ASPIRANTES A LAS CANDIDATURAS INDEPENDIENTES EN LA CIUDAD DE MÉXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES A LAS CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MÉXICO.
 
 ÍNDICE
 
@@ -130,9 +132,11 @@ REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONE
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de orden público, de observancia general y obligatoria en la Ciudad de México y tiene por objeto establecer las reglas relativas al procedimiento de fiscalización, disolución y liquidación del patrimonio de las Asociaciones Civiles constituidas para la rendición de cuentas de las y los aspirantes, así como de las candidatas y candidatos independientes a cargos de elección popular en la Ciudad de México, con la finalidad de preservar el interés público y los derechos de terceros.
+El presente Reglamento es de orden público, de observancia general y obligatoria en la Ciudad de México y tiene por objeto establecer las reglas relativas al procedimiento de fiscalización, disolución y liquidación del patrimonio de las Asociaciones Civiles constituidas para la rendición de cuentas de las personas aspirantes, así como de las personas que obtengan registro de candidaturas sin partido a cargos de elección popular en la Ciudad de México, con la finalidad de preservar el interés público y los derechos de terceros.
 
 ###### Artículo 2.
 
@@ -162,19 +166,29 @@ III.- Consejo General: Consejo General del Instituto;
 
 IV.- Comisión de Fiscalización: Comisión Permanente de Fiscalización del Instituto;
 
-V.- Titular de la Secretaría Ejecutiva: Funcionaria o funcionario designado por el Consejo General como Titular de la Secretaría Ejecutiva del Instituto;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-VI.- Titular de la Secretaría Administrativa: Funcionaria o funcionario designado por el Consejo General como Titular de la Secretaría Administrativa del Instituto; y
+V.- Titular de la Secretaría Ejecutiva: Persona designada por el Consejo General como Titular de la Secretaría Ejecutiva del Instituto;
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+VI.- Titular de la Secretaría Administrativa: Persona designada por el Consejo General como Titular de la Secretaría Administrativa del Instituto; y
 
 VII.- Unidad de Fiscalización: Unidad Técnica Especializada de Fiscalización del Instituto Electoral de la Ciudad de México.
 
 C). En cuanto a los términos:
 
-I.- Asociación Civil: Aquella constituida sin ánimo de lucro y con personalidad jurídica plena, constituida para la rendición de cuentas y fiscalización por los y las aspirantes a una candidatura independiente en la Ciudad de México, en términos del Modelo Único de Estatutos aprobado por el Consejo General;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-II.- Aspirante: Persona que tiene interés en obtener el apoyo ciudadano para postularse como candidata o candidato independiente a un cargo de elección popular en la Ciudad de México sin partido político;
+I. Asociación Civil: Aquella constituida sin ánimo de lucro y con personalidad jurídica plena, constituida para la rendición de cuentas y fiscalización por las personas aspirantes a una candidatura sin partido en la Ciudad de México, en términos del Modelo Único de Estatutos aprobado por el Consejo General;
 
-III.- Candidato (a) Independiente: Persona que obtuvo el registro mediante acuerdo del Consejo General para contender de forma independiente por un cargo de elección popular en la Ciudad de México, sin partido político;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+II. Aspirante: Persona que tiene interés en obtener el apoyo ciudadano para postularse como candidata sin partido a un cargo de elección popular en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+III.- Candidato (a) sin partido: Persona que obtuvo el registro mediante acuerdo del Consejo General para contender de forma independiente por un cargo de elección popular en la Ciudad de México, entendiéndose así a las personas que obtuvieron su registro mediante una candidatura por la vía independiente o sin partido;
 
 IV.- Créditos Fiscales: Ingresos que tiene derecho a percibir el Estado en sus funciones de derecho público que provengan de contribuciones, entre otras: Impuesto Sobre la Renta, Impuesto al Valor Agregado, Impuesto Sobre Nóminas, Aprovechamientos o de sus accesorios, recargos y multas, incluyendo las multas impuestas por el Instituto Nacional;
 
@@ -184,31 +198,49 @@ VI.- Disolución: Acto por el cual se extingue una Asociación Civil, ya sea por
 
 VII.- Grupo de Trabajo: Personal adscrito a la Unidad de Fiscalización comisionado para apoyar los trabajos derivados del proceso de fiscalización, disolución y liquidación;
 
-VIII.- Interventora/or: La o el servidor público adscrito a la Unidad de Fiscalización, designado por la Comisión de Fiscalización, con capacidad profesional o técnica en las materias de contabilidad, auditoría, administración o derecho, quien fungirá como encargado del procedimiento de liquidación;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+VIII.- Persona Interventora: Persona servidora pública adscrita a la Unidad de Fiscalización, designada por la Comisión de Fiscalización, con capacidad profesional o técnica en las materias de contabilidad, auditoría, administración o derecho, quien fungirá como encargada del procedimiento de liquidación;
 
 IX.- Liquidación: Procedimiento por medio del cual una vez concluidas las operaciones de la Asociación Civil; se cobran los créditos, se pagan los adeudos, se cumplen obligaciones y se otorga un destino cierto a los bienes y recursos que integran su patrimonio, de conformidad con el orden de prelación establecido en el presente Reglamento;
 
-X.- Liquidador: Persona designada por las y los asociados como encargado de la liquidación de la Asociación Civil.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+X.- Persona Liquidadora: Persona designada por las y los asociados como encargado de la liquidación de la Asociación Civil.
 
 XI.- Patrimonio: Cúmulo de bienes y derechos susceptibles de liquidación y que se considera entre otras, todas las cuentas bancarias utilizadas para la administración de todos sus recursos, bienes muebles que las Asociaciones Civiles en la Ciudad de México hayan adquirido con financiamiento público y/o privado;
 
 XII.- Prevención: Periodo previo al de liquidación cuyo objeto es realizar las acciones precautorias necesarias para proteger el patrimonio de la Asociación Civil y, por ende, garantizar el interés público y los derechos de terceros frente a la misma;
 
-XIII.- Responsable: La o el Asociada/o nombrada/o por la Asamblea de la Asociación Civil de que se trate, como responsable para el proceso de liquidación;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+XIII.- Persona Responsable: Persona asociada, nombrada por la Asamblea de la Asociación Civil de que se trate, como responsable para el proceso de liquidación;
 
 XIV.- UMA: Unidad de Medida y Actualización; y
 
 XV.- Valor de Mercado: Es el importe neto que razonablemente podría esperar recibir un oferente por el intercambio de un bien o servicio en la fecha de valoración, mediante una comercialización adecuada, y suponiendo que existe al menos un demandante con potencial económico.
 
+> <small>(ADICIONADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+XVI.- Token. Clave única generada por el sistema de notificaciones electrónicas por internet que será enviada mediante SMS al número celular proporcionado para ser ingresada en el apartado correspondiente y tener acceso a dicho sistema, a través del cual se garantizará la autenticación del usuario.
+
+> <small>(ADICIONADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+XVII.- Casilla virtual. Denominación que se utilizará para referirse al apartado del sistema de notificaciones electrónicas por internet, generado de manera exclusiva para la persona que fue emitida, es decir, la persona aspirante, persona liquidadora o persona responsable.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 3.
 
-En sus respectivos ámbitos de competencia, la aplicación, vigilancia y cumplimiento del presente Reglamento corresponde al Consejo General, a la Comisión de Fiscalización, a la Secretaría Ejecutiva, a la Secretaría Administrativa, a la Unidad de Fiscalización, a la o el aspirante, al candidato o candidata independiente, al Liquidador o al Interventor.
+En sus respectivos ámbitos de competencia, la aplicación, vigilancia y cumplimiento del presente Reglamento corresponde al Consejo General, a la Comisión de Fiscalización, a la Secretaría Ejecutiva, a la Secretaría Administrativa, a la Unidad de Fiscalización, a la persona aspirante, a la persona candidata sin partido, a la Persona Liquidadora o a la Persona Interventora.
 
-Los gastos que se generen para las Asociaciones Civiles en el periodo de prevención, en el procedimiento de liquidación de sus patrimonios respectivos y, en su caso, en la subasta pública de sus bienes, serán cubiertos por éstas.
+Los gastos que se generen para las Asociaciones Civiles en el periodo de prevención, en el procedimiento de liquidación de sus patrimonios respectivos y, en su caso, en la subasta pública de sus bienes, serán cubiertos por éstas. En todo caso, las personas aspirantes y candidatas sin partido serán responsables directas de reservar recursos suficientes para gestionar la disolución de la asociación civil ante un notario público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 4.
 
-La interpretación del presente Reglamento, corresponde a la Comisión de fiscalización, y se hará conforme a los criterios gramatical, sistemático y funcional, y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política de la Ciudad de México y en los Tratados e Instrumentos Internacionales favoreciendo en todo tiempo a las personas con la protección más amplia.
+La interpretación del presente Reglamento corresponde a la Comisión de fiscalización, y se hará conforme a los criterios gramatical, sistemático y funcional, y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política de la Ciudad de México y en los Tratados e Instrumentos Internacionales favoreciendo en todo tiempo a las personas con la protección más amplia.
 
 A falta de disposición expresa, para el procedimiento de fiscalización, disolución y liquidación que regula el presente Reglamento, se aplicarán supletoriamente los siguientes ordenamientos:
 
@@ -218,19 +250,31 @@ b). Ley Procesal;
 
 c). Reglamento de Fiscalización del Instituto Nacional Electoral;
 
-d). Código de Comercio;
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-e). Ley de Concursos Mercantiles;
+d). Reglamento de Procedimientos Sancionadores en Materia de Fiscalización del Instituto Nacional Electoral;
 
-f). Ley Procesal Electoral para la Ciudad de México
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+e). Código de Comercio;
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+f). Ley de Concursos Mercantiles;
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 g). Código Civil para el Distrito Federal; y
 
-h). Código Fiscal del Distrito Federal.
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+h). Código Fiscal de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-La aplicación del presente Reglamento es independiente a cualquier otro procedimiento a que haya lugar, con motivo de las responsabilidades que, en su caso, se deriven por el incumplimiento de las obligaciones que representen compromisos pecuniarios, antes, durante y después del procedimiento de liquidación de los bienes frente a otras autoridades, cometidas por los asociados, el o la aspirante, la candidata o candidato independiente y sus simpatizantes.
+La aplicación del presente Reglamento es independiente a cualquier otro procedimiento a que haya lugar, con motivo de las responsabilidades que, en su caso, se deriven por el incumplimiento de las obligaciones que representen compromisos pecuniarios, antes, durante y después del procedimiento de liquidación de los bienes frente a otras autoridades, cometidas por los asociados, la persona aspirante, la persona candidata sin partido y sus simpatizantes.
 
 ### CAPÍTULO II. DEL CÓMPUTO Y DE LOS PLAZOS
 
@@ -240,25 +284,29 @@ Las actuaciones relacionadas con el presente Reglamento se practicarán en días
 
 Se entenderán por días hábiles, todos los días con excepción de los sábados y domingos y los no laborables en términos de la normativa aplicable y aquellos en los que no haya actividad en el Instituto. Por horas hábiles se entenderán aquéllas comprendidas dentro del horario laboral aprobado por la Junta Administrativa del Instituto, al momento del inicio de los procedimientos establecidos en el presente Reglamento.
 
-Una vez iniciada la actuación de que se trate, previo consenso con la/el Responsable o con quien se esté entendiendo ésta, podrá habilitar días y horas para que sean hábiles hasta la conclusión de la misma, haciéndolo constar en el acta correspondiente.
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+Una vez iniciada la actuación de que se trate, previo consenso con la Persona Responsable o con quien se esté entendiendo ésta, podrá habilitar días y horas para que sean hábiles hasta la conclusión de la misma, haciéndolo constar en el acta correspondiente.
 
 ### CAPÍTULO III. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-Las notificaciones se realizarán en días y horas hábiles y surtirán sus efectos el mismo día en que se practiquen. Por regla general, la notificación se desarrolla en un acto y por tanto se entenderá efectuada en la fecha asentada en el acta correspondiente.
+Las notificaciones se realizarán en días y horas hábiles y surtirán sus efectos el mismo día en que se practiquen.
+
+Por regla general, la notificación se desarrolla en un acto y por tanto se entenderá efectuada en la fecha asentada en el acta, cédula o constancia correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 8.
 
-Las notificaciones se podrán hacer de manera personal, por estrados o por oficio, según se requiera para la eficacia del acto a notificar.
+Las notificaciones se podrán hacer de manera electrónica, personal, por comparecencia, por estrados o por oficio, según se requiera para la eficacia del acto a notificar.
 
-Las notificaciones serán personales cuando así se determine, pero en todo caso, lo serán las siguientes:
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-I. El inicio del procedimiento.
-
-II. Los requerimientos realizados a los responsables.
-
-III. Los acuerdos o determinaciones que pongan fin al procedimiento.
+Las notificaciones serán personales cuando así se determine o en caso de que la notificación por correo electrónico sea de imposible realización.
 
 Cuando no sea posible notificar personalmente a la o el interesado, las notificaciones se harán por cédula que se fijará en los estrados de las oficinas centrales del Instituto. En todos los casos, las que se dirijan a una autoridad se practicarán por oficio.
 
@@ -340,17 +388,61 @@ VI. Manifestación de haber dejado citatorio requiriendo la espera de la persona
 
 VII. Referencia de lazo familiar o relación de la persona con quien se entiende la diligencia y la persona a notificar.
 
+> <small>(ADICIONADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+Artículo 9 bis. En la práctica de las notificaciones por correo electrónico, se deberá observar el procedimiento siguiente:
+
+Las asociaciones deberán informar a la Unidad de Fiscalización, mediante el formato AC7-FNE y dentro de los tres días posteriores a que la Dirección Ejecutiva de Asociaciones le notifique la procedencia de su registro como aspirantes a una candidatura sin partido, ya sea de manera personal en las oficinas de esta, o bien, de manera electrónica, los datos de identificación consistentes en: nombre completo, correo electrónico, teléfono móvil (celular) y domicilio completo del aspirante, del responsable de la administración del patrimonio de la Asociación Civil y, en su caso, de la persona liquidadora.
+
+Una vez recibidos los datos, la Unidad de Fiscalización los ingresará en el sistema de notificaciones electrónicas, el cual generará un registro que incluirá una casilla virtual dentro del propio sistema y creará una clave de usuario y contraseña para uso exclusivo de cada una de las personas señaladas en el párrafo anterior. La clave de usuario será generada de manera automática por el sistema y ésta podrá contener letras, números y símbolos para hacerla más segura.
+
+Dentro de las 48 horas hábiles siguientes a la generación de los datos señalados en el párrafo que antecede, les serán entregados su clave de usuario y contraseña a través del correo electrónico proporcionado.
+
+En caso de cambiar el número de teléfono móvil proporcionado para el o la aspirante, liquidador o liquidadora, o bien, el o la responsable, se deberá informar a la Unidad de Fiscalización, al correo electrónico utef@iecm.mx, dentro de las 48 horas hábiles siguientes, a fin de que sea reemplazado o eliminado de los registros del sistema.
+
+I. ACCESO AL SISTEMA. Una vez que la o el sujeto obligado cuente con su clave de usuario y contraseña deberá ingresarlos al sistema; en ese momento, el sistema de notificaciones electrónicas por internet proporcionará una Clave Única (token), la cual será enviada mediante SMS (al número celular indicado), misma que deberá ser ingresada en el apartado correspondiente. Cada ocasión que el sujeto obligado desee acceder al sistema, será necesario repetir los pasos descritos.
+
+II. CONSULTA DE NOTIFICACIONES. Una vez que los sujetos obligados ingresen el token, el sistema de notificaciones electrónicas por internet le permitirá acceder a su casilla virtual, en la cual podrá consultar la información de las distintas notificaciones que le haya efectuado el Instituto Electoral. Para visualizar los documentos, deberá ingresar en la columna correspondiente al archivo que contenga el documento a notificar.
+
+Cada vez que el Instituto Electoral genere una nueva notificación, el sistema enviará un aviso de ello mediante SMS y vía correo electrónico (al número celular y cuentas de correo electrónico indicados), en el que se le informe que fue emitida una notificación, del cual se precisará la fecha de emisión y que tal documento se encuentra en el sistema.
+
+III. REQUISITOS DE LAS NOTIFICACIONES. Las notificaciones deberán identificar claramente:
+
+a) El motivo de esta.
+
+b) El nombre de la persona o personas a las que está dirigida.
+
+c) La identificación del acto, requerimiento, acuerdo o resolución que se notifica.
+
+d) La autoridad que dictó el acto, requerimiento, acuerdo o resolución.
+
+e) El contenido íntegro del acto, requerimiento, acuerdo o resolución en archivo "PDF".
+
+f) Identificación plena de la o del funcionario o servidor público habilitado para realizar la notificación y su información de contacto.
+
+En el caso de que, por causas de fuerza mayor, no fuera posible realizar las notificaciones a través del SNI, éstas se harán de manera personal, en los domicilios precisados por los interesados.
+
+IV. EFECTOS DE LAS NOTIFICACIONES. Las notificaciones mediante el sistema de notificaciones electrónicas por internet se entenderán practicadas una vez que se registre en el sistema la fecha de envío al correo electrónico del destinatario, con la cual se generará una cédula de notificación en la que aparecerá la fecha y hora de la misma y será referencia para el cómputo de los plazos.
+
+Las notificaciones por vía electrónica se realizarán en días y horas hábiles y surtirán sus efectos al día siguiente al en que se practiquen.
+
+En caso de que el acuse de recibo de la notificación mediante el sistema sea recibido en días y horario inhábiles, se tendrá por recibido a partir de la hora hábil siguiente, para los efectos legales a que haya lugar.
+
 ###### Artículo 10.
 
 Las notificaciones personales podrán realizarse por comparecencia de parte interesada, de su representante o de su autorizado o autorizada. En tales casos, se deberá elaborar la razón de la comparecencia y agregarse una copia simple de la identificación oficial con la cual se haya identificado el o la compareciente, y en su caso, copia simple del documento que acredite la personería con la que se ostenta.
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-Las notificaciones personales se practicarán en el domicilio de la Asociación Civil, o bien, en el que haya proporcionado él o la Responsable o la o el Liquidador.
+Las notificaciones personales se practicarán en el domicilio de la Asociación Civil, o bien, en el que haya proporcionado la Persona Responsable o la Persona Liquidadora.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-Cuando el acto a notificar entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación, salvo disposición legal expresa en contrario.
+Cuando el acto a notificar entrañe una citación o un plazo para la práctica de una diligencia se notificará, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación, salvo disposición legal expresa en contrario.
 
 ###### Artículo 13.
 
@@ -358,9 +450,11 @@ El o la Titular de la Secretaría Ejecutiva podrá autorizar al personal que con
 
 ### CAPÍTULO IV. DE LAS MEDIDAS DE APREMIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 14.
 
-Por medidas de apremio se entiende el conjunto de instrumentos jurídicos a través de los cuales el Titular de la Secretaría Ejecutiva, la Comisión de Fiscalización y la Unidad de Fiscalización podrán hacer cumplir coactivamente sus determinaciones, contra quienes se nieguen a proporcionar la información y documentación que les sea requerida, la entreguen en forma incompleta o con datos falsos o fuera de los plazos que se señalan en el requerimiento, señalándose de manera enunciativa y no limitativa los siguientes:
+Por medidas de apremio se entiende el conjunto de instrumentos jurídicos a través de los cuales la persona Titular de la Secretaría Ejecutiva, la Comisión de Fiscalización y la Unidad de Fiscalización podrán hacer cumplir coactivamente sus determinaciones, contra quienes se nieguen a proporcionar la información y documentación que les sea requerida, la entreguen en forma incompleta o con datos falsos o fuera de los plazos que se señalan en el requerimiento, señalándose de manera enunciativa y no limitativa los siguientes:
 
 I. Apercibimiento;
 
@@ -388,9 +482,11 @@ Previo al procedimiento de liquidación del patrimonio de la Asociaciones Civile
 
 El periodo de prevención iniciará dentro de las 72 horas contadas a partir del día siguiente a que se realice la jornada electoral.
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 18.
 
-La Unidad de Fiscalización notificará por escrito el inicio de la etapa de prevención a la o el Responsable, quien deberá entregar la información y documentación que le requiera ésta y/o el o la Interventora durante dicha etapa.
+La Unidad de Fiscalización notificará por escrito el inicio de la etapa de prevención a la Persona Responsable, quien deberá entregar la información y documentación que le requiera ésta y/o la Persona Interventora durante dicha etapa.
 
 ###### Artículo 19.
 
@@ -398,23 +494,31 @@ Una vez que dé inicio el periodo de prevención el o la Titular de la Unidad de
 
 I. Informar por escrito a las y los Consejeros Electorales integrantes de la Comisión de Fiscalización, a la o el Titular de la Secretaría Ejecutiva y a la o el Titular de la Secretaría Administrativa, del inicio de la prevención;
 
-II. Proponer de entre su personal a la o el Interventor y notificarlo a la Comisión de Fiscalización, para su designación; e
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-III. Informar a la o el Responsable de las obligaciones y prohibiciones establecidas en el artículo 21 del presente Reglamento.
+II. Proponer de entre su personal a la o la Persona Interventora y notificarlo a la Comisión de Fiscalización, para su designación; e
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+III. Informar a la Persona Responsable de las obligaciones y prohibiciones establecidas en el artículo 21 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 20.
 
-A partir de su designación la o el Interventora/or será responsable del patrimonio de la Asociación Civil y tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos, por lo que todos los gastos que realice deberán ser autorizados y pagados expresamente por su conducto.
+A partir de su designación la Persona Interventora será responsable del patrimonio de la Asociación Civil y tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos, por lo que todos los gastos que realice deberán ser autorizados y pagados expresamente por su conducto.
 
-La Unidad de Fiscalización informará por escrito a la o el Responsable, a la o el Titular de la Secretaría Ejecutiva y a la o el Titular de la Secretaría Administrativa el nombre de la o el servidor público designado para tales tareas.
+La Unidad de Fiscalización informará por escrito a la Persona Responsable, a la o el Titular de la Secretaría Ejecutiva y a la o el Titular de la Secretaría Administrativa el nombre de la o el servidor público designado para tales tareas.
 
-Designado (sic) la persona Interventora, ésta solicitará por escrito una reunión con el o la Responsable de la Asociación Civil de que se trate y asumirá las funciones encomendadas en este Reglamento.
+Designado la Persona Interventora, ésta solicitará por escrito una reunión con la Persona Responsable de la Asociación Civil de que se trate y asumirá las funciones encomendadas en este Reglamento.
 
-El o la Responsable deberá rendir a la o el Interventor un informe del inventario de bienes y recursos que integran su patrimonio. De dicha reunión se levantará un acta circunstanciada y se dará cuenta en el informe que en su momento presente a la Comisión de Fiscalización el o la interventora.
+La Persona Responsable deberá rendir a la Persona Interventora un informe del inventario de bienes y recursos que integran su patrimonio. De dicha reunión se levantará un acta circunstanciada y se dará cuenta en el informe que en su momento presente a la Comisión de Fiscalización el o la interventora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-Iniciado el periodo de prevención, el o la Responsable tendrá las obligaciones y prohibiciones siguientes:
+Iniciado el periodo de prevención, la Persona Responsable tendrá las obligaciones y prohibiciones siguientes:
 
 I. Deberá suspender los pagos respecto de las obligaciones contraídas con anterioridad, con excepción de aquellas de carácter laboral, fiscal y en las que se haya otorgado garantía y establezcan penas convencionales, en tanto el o la Interventora asume sus funciones;
 
@@ -432,7 +536,9 @@ Dentro de la etapa de prevención, conforme al presente Reglamento, tendrá luga
 
 I. La presentación y fiscalización de la información financiera y administrativa de la Asociación Civil, así como la elaboración del informe relacionado con la misma;
 
-II. La presentación, por parte de la o el Interventor, del informe a la Comisión de Fiscalización respecto a la situación financiera y el inventario físico de los bienes muebles de la Asociación Civil; y
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+II. La presentación, por parte de la Persona Interventora, del informe a la Comisión de Fiscalización respecto a la situación financiera y el inventario físico de los bienes muebles de la Asociación Civil; y
 
 III. Las acciones conducentes para el cobro a los deudores de la Asociación Civil.
 
@@ -442,31 +548,43 @@ El periodo de prevención finalizará una vez que concluyan las actividades refe
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 25.
 
-El o la Responsable conservará esa calidad durante las etapas de prevención, disolución y liquidación; así también, respecto de las operaciones realizadas que estén en contravención a lo previsto por el Código, este Reglamento y demás leyes aplicables.
+La Persona Responsable conservará esa calidad durante las etapas de prevención, disolución y liquidación; así también, respecto de las operaciones realizadas que estén en contravención a lo previsto por el Código, este Reglamento y demás leyes aplicables.
 
 Asimismo, conservarán dicho nombramiento independientemente de que la Asociación Civil pierda su estatus jurídico ante la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-El o la Responsable tendrá las siguientes obligaciones:
+La Persona Responsable tendrá las siguientes obligaciones:
 
 I. Dentro de los diez días siguientes a la notificación del periodo de prevención, presentará a la Unidad de Fiscalización el informe de ingresos y gastos, en los términos y formatos establecidos en el presente Reglamento; asimismo, se someterá al procedimiento de revisión respectivo.
 
 II. Adjunto a dicho informe, remitirán copia de los Informes de precampaña y campaña presentados al Instituto Nacional, los oficios de notificación de errores u omisiones emitidos por la autoridad electoral federal, así como los oficios de respuesta respectivos.
 
-III. En caso de que así lo solicite la o el Interventor, el o la Responsable deberá cederle todos los poderes necesarios para ejercer actos de dominio, administración, pleitos y cobranzas, con todas las cláusulas especiales que requiera, así como las necesarias para suscribir títulos y operaciones de crédito y apertura de cuentas bancarias, respecto del patrimonio de la Asociación Civil; además, deberá revocar todos los otorgados con anterioridad, ante notario público.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+III. En caso de que así lo solicite la Persona Interventora, la Persona Responsable deberá cederle todos los poderes necesarios para ejercer actos de dominio, administración, pleitos y cobranzas, con todas las cláusulas especiales que requiera, así como las necesarias para suscribir títulos y operaciones de crédito y apertura de cuentas bancarias, respecto del patrimonio de la Asociación Civil; además, deberá revocar todos los otorgados con anterioridad, ante notario público.
 
 IV. Desempeñar el cargo o comisiones que les fueron asignados.
 
-V. Atender las solicitudes y requerimientos de la o el Interventor y de la Unidad de Fiscalización.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+V. Atender las solicitudes y requerimientos de la Persona Interventora y de la Unidad de Fiscalización.
 
 VI. Todas aquellas que fueran necesarias para cumplir con el objeto establecido por el artículo 1 del presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 27.
 
-El o la Interventora tendrá las obligaciones siguientes:
+La Persona Interventora tendrá las obligaciones siguientes:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 9 DE OCTUBRE DE 2020)</small>
 
 I. Durante la etapa de prevención:
 
@@ -486,7 +604,9 @@ g) Ordenar, en su caso, lo necesario para cubrir las obligaciones que la ley det
 
 h) Formular las listas de acreedores, así como la de reconocimiento, cuantía, gradación y prelación de créditos, conforme a lo establecido en este Reglamento; y
 
-i) Elaborar el Informe de lo actuado que contendrá, además, el balance de bienes y recursos remanentes, después de establecer las provisiones necesarias para el pago de las obligaciones señaladas en los incisos anteriores.
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+i) Elaborar y presentar a la Comisión de Fiscalización el Informe de lo actuado que contendrá, además de lo establecido en al artículo 23, el balance de bienes y recursos remanentes, después de establecer las provisiones necesarias para el pago de las obligaciones señaladas en los incisos anteriores.
 
 II. Durante la etapa de liquidación:
 
@@ -498,25 +618,35 @@ c) Abstenerse de divulgar o utilizar en beneficio propio o de terceros la inform
 
 d) Cumplir con las demás obligaciones que este Reglamento determine y las que otras leyes establezcan.
 
-III. Todos los gastos en que incurra el Interventor con motivo de sus funciones, serán cubiertos por el Instituto.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+III. Todos los gastos en que incurra la Persona Interventora con motivo de sus funciones, serán cubiertos por el Instituto.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 28.
 
-En todo momento y para el adecuado cumplimiento de sus obligaciones, el Interventor podrá solicitar el apoyo de la Secretaría Ejecutiva, la Secretaría Administrativa y la Unidad de Fiscalización, según su ámbito de competencia.
+En todo momento y para el adecuado cumplimiento de sus obligaciones, la Persona Interventora podrá solicitar el apoyo de la Secretaría Ejecutiva, la Secretaría Administrativa y la Unidad de Fiscalización, según su ámbito de competencia.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 29.
 
-La cuenta bancaria concentradora será administrada con firmas mancomunadas por él o la Interventora y la o el Titular de la Unidad de Fiscalización, la cual se utilizará para el manejo y control de los recursos destinados a las operaciones derivadas de las actividades en las etapas de prevención y liquidación.
+La cuenta bancaria concentradora será administrada con firmas mancomunadas por la Persona Interventora y la o el Titular de la Unidad de Fiscalización, la cual se utilizará para el manejo y control de los recursos destinados a las operaciones derivadas de las actividades en las etapas de prevención y liquidación.
 
 ### CAPÍTULO III. DE LA PRESENTACIÓN Y REVISIÓN DE LA INFORMACIÓN FINANCIERA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 30.
 
-El o la Responsable deberá proporcionar a la Unidad de Fiscalización, los Informes de Precampaña y Campaña, presentados al Instituto Nacional, los oficios de notificación de errores u omisiones emitidos por la autoridad electoral federal, así como los escritos de respuesta respectivos, atendiendo a las siguientes reglas:
+La Persona Responsable deberá proporcionar a la Unidad de Fiscalización, los Informes de Precampaña y Campaña, presentados al Instituto Nacional, los oficios de notificación de errores u omisiones emitidos por la autoridad electoral federal, así como los escritos de respuesta respectivos, atendiendo a las siguientes reglas:
 
 I. Serán presentados a más tardar dentro de los diez días siguientes a la notificación del inicio del periodo de prevención.
 
-II. Adicionalmente, presentará un Informe en el que se incluirán los ingresos y gastos totales que la Asociación Civil haya recibido y aplicado durante el periodo comprendido de la fecha en que obtengan la calidad de aspirante a candidato independiente hasta la fecha en que se lleve a cabo la jornada electoral.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+II. Adicionalmente, presentará un Informe en el que se incluirán los ingresos y gastos totales que la Asociación Civil haya recibido y aplicado durante el periodo comprendido de la fecha en que obtengan la calidad de persona aspirante a una candidatura sin partido hasta la fecha en que se lleve a cabo la jornada electoral.
 
 La información referida en el párrafo que antecede será presentada en los formatos establecidos en el presente Reglamento: AC1-IIYG, AC2-LIFAV, AC3-DP, AC4-RP y AC5-CXC.
 
@@ -538,19 +668,29 @@ g). Conciliaciones bancarias;
 
 Toda la documentación que la Asociación Civil presente a la Unidad de Fiscalización deberá ser relacionada en el formato AC7-DD, establecido en el presente Reglamento.
 
-IV. La o el Interventor y el grupo de trabajo tendrán acceso total a los libros de contabilidad, registros y balanza de comprobación de la Asociación Civil de que se trate, así como a cualquier otro documento y medio electrónico de almacenamiento de datos que les sean útiles para llevar a cabo sus funciones.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+IV. La Persona Interventora y el grupo de trabajo tendrán acceso total a los libros de contabilidad, registros y balanza de comprobación de la Asociación Civil de que se trate, así como a cualquier otro documento y medio electrónico de almacenamiento de datos que les sean útiles para llevar a cabo sus funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-El o la Interventora realizará, dentro de los cinco días siguientes a su nombramiento, un inventario físico de los bienes muebles, que se encuentren en los registros contables o en posesión de la Asociación Civil al momento de elaborarlo.
+La Persona Interventora realizará, dentro de los cinco días siguientes a su nombramiento, un inventario físico de los bienes muebles, que se encuentren en los registros contables o en posesión de la Asociación Civil al momento de elaborarlo
 
-El Grupo de trabajo podrá auxiliar a la o el Interventor en el levantamiento correspondiente, si así lo requiere.
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+El Grupo de trabajo podrá auxiliar a la Persona Interventora en el levantamiento correspondiente, si así lo requiere.
 
 El inventario físico de los bienes muebles de la Asociación Civil, se realizará conforme al procedimiento siguiente:
 
-I. El o la Interventora informará por escrito, a la o el Responsable el día y la hora en que se llevará a cabo dicha verificación;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-II. Con base en el inventario físico valuado proporcionado por la Asociación Civil vía formato AC2- LIFAV, el o la Interventora con el apoyo del personal técnico y la o el Responsable iniciarán un recorrido por las instalaciones para verificar cada uno de los bienes muebles; y
+I. La Persona Interventora informará por escrito, a la Persona Responsable el día y la hora en que se llevará a cabo dicha verificación;
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+II. Con base en el inventario físico valuado proporcionado por la Asociación Civil vía formato AC2- LIFAV, la Persona Interventora con el apoyo del personal técnico y la Persona Responsable iniciarán un recorrido por las instalaciones para verificar cada uno de los bienes muebles; y
 
 III. Al término de dicho recorrido y, en el supuesto de que no se localizaran físicamente bienes en las instalaciones de la Asociación Civil o que no se identificaron en el formato AC2- LIFAV, se levantará un acta en la que se harán constar las inconsistencias.
 
@@ -564,7 +704,9 @@ Presentado el Informe a que hace referencia el artículo 30, fracción II del pr
 
 I. La Unidad de Fiscalización informará por escrito a la Asociación Civil los nombres del personal que integrará el Grupo de Trabajo que se encargará de la verificación documental y contable correspondiente;
 
-II. La Unidad de Fiscalización contará con quince días para revisarla y tendrá en todo momento la facultad de requerir a la o el Responsable la documentación necesaria para comprobar la veracidad de lo reportado tanto en el Informe como en la información financiera;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+II. La Unidad de Fiscalización contará con quince días para revisarla y tendrá en todo momento la facultad de requerir a la Persona Responsable la documentación necesaria para comprobar la veracidad de lo reportado tanto en el Informe como en la información financiera;
 
 III. Si durante el proceso de revisión se determinaran errores u omisiones, éstos serán notificados a la Asociación Civil, para que en un término de cinco días presente las aclaraciones y rectificaciones que considere pertinentes;
 
@@ -576,19 +718,25 @@ b) La autenticidad de las cuentas por cobrar, el monto de las cuentas de dudosa 
 
 c) La comprobación de la existencia física del inventario, así como verificar que sean propiedad de la Asociación Civil, identificando aquellos que se compraron con recursos públicos locales y por donaciones;
 
-d) Corroborar que todos los pasivos que muestra la información financiera son reales y que proceden de operaciones de precampaña y campaña del candidato o candidata independiente que dio origen a la Asociación Civil, cuyos bienes o servicios fueron recibidos;
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+d) Corroborar que todos los pasivos que muestra la información financiera son reales y que proceden de operaciones de precampaña y campaña de la persona candidata sin partido que dio origen a la Asociación Civil, cuyos bienes o servicios fueron recibidos;
 
 e) Verificar el cálculo de los pagos pendientes de las y los prestadores de servicios de la Asociación Civil, los que deberán ser considerados como pasivos en la información financiera; y
 
 f) Detalle, en su caso, de los impuestos federales y locales que se encuentren pendientes de pago; y
 
-V. Elaborar un informe del resultado de la revisión que será entregado a la o el Interventor.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+V. Elaborar un informe que contenga el resultado de la revisión que será entregado a la Persona Interventora.
 
 ### CAPÍTULO IV. DEL INFORME A LA COMISIÓN DE FISCALIZACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 34.
 
-Con base en el informe elaborado por la Unidad de Fiscalización y el inventario físico de los bienes muebles, dentro de los diez días siguientes de recibido el informe referido, la o el Interventor presentará a la Comisión de Fiscalización un informe detallado que contendrá cuando menos lo siguiente:
+Con base en el informe elaborado por la Unidad de Fiscalización y el inventario físico de los bienes muebles, dentro de los diez días siguientes de recibido el informe referido, la Persona Interventora presentará a la Comisión de Fiscalización un informe detallado que contendrá cuando menos lo siguiente:
 
 I. Relación de las operaciones realizadas por la Asociación Civil durante el periodo comprendido desde el inicio del periodo de prevención y hasta el de presentación del informe;
 
@@ -608,17 +756,21 @@ VIII. Los recursos depositados en la cuenta concentradora.
 
 ### CAPÍTULO V. DEL COBRO A LOS DEUDORES Y DEL RECONOCIMIENTO DE LOS ACREEDORES
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-La Comisión de Fiscalización con base en la información que presente el o la Interventora lo instruirá para que proceda a realizar las acciones conducentes para el cobro a los deudores.
+La Comisión de Fiscalización con base en la información que presente la Persona Interventora lo instruirá para que proceda a realizar las acciones conducentes para el cobro a los deudores.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 36.
 
-El o la Interventora procederá a realizar las acciones necesarias para ubicar a las o los deudores de la Asociación Civil a efecto de requerir el pago correspondiente.
+La Persona Interventora procederá a realizar las acciones necesarias para ubicar a las o los deudores de la Asociación Civil a efecto de requerir el pago correspondiente.
 
-En caso de existir alguna garantía otorgada por la o el deudor y se niegue al pago respectivo, el Interventor procederá a hacer efectiva la misma, de no existir garantía alguna, podrá demandar el pago por la vía judicial, para lo cual contará con el apoyo de la Secretaría Ejecutiva.
+En caso de existir alguna garantía otorgada por la o el deudor y se niegue al pago respectivo, la Persona Interventora procederá a hacer efectiva la misma, de no existir garantía alguna, podrá demandar el pago por la vía judicial, para lo cual contará con el apoyo de la Secretaría Ejecutiva.
 
-En el supuesto de que algún deudor de la Asociación Civil fuera también prestador de servicios de la misma, y existieran servicios pendientes de pago, la o el Interventor procederá a disminuir el importe del adeudo al momento del pago final.
+En el supuesto de que algún deudor de la Asociación Civil fuera también prestador de servicios de la misma, y existieran servicios pendientes de pago, la Persona Interventora procederá a disminuir el importe del adeudo al momento del pago final.
 
 ###### Artículo 37.
 
@@ -654,9 +806,13 @@ Para el pago a los referidos acreedores, se aplicará en lo conducente, lo estab
 
 El procedimiento para reconocer y ubicar a los diversos acreedores, se realizará conforme a lo siguiente:
 
-I. El o la Interventora formulará una lista de acreedores que remitirá a la Unidad de Fiscalización para su aprobación, con base en los registros contables de la Asociación Civil y en la documentación que permita determinar el pasivo, así como de las solicitudes de reconocimiento de créditos que se presenten;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-II. Aprobada la lista de acreedores, la Unidad de Fiscalización solicitará a las instancias competentes su difusión en el portal de Internet y en los estrados de las oficinas centrales del Instituto, así como su publicación en la Gaceta Oficial de la Ciudad de México para darle publicidad, con la finalidad de que aquellas personas que consideren que les asiste un derecho y no hubiesen sido incluidas en dicha lista, acudan ante la o el Interventor para presentar la solicitud de reconocimiento de crédito en un plazo de diez días hábiles contados a partir de la publicación;
+I. La Persona Interventora formulará una lista de acreedores que remitirá a la Unidad de Fiscalización para su aprobación, con base en los registros contables de la Asociación Civil y en la documentación que permita determinar el pasivo, así como de las solicitudes de reconocimiento de créditos que se presenten;
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+II. Aprobada la lista de acreedores, la Unidad de Fiscalización solicitará a las instancias competentes su difusión en el portal de Internet y en los estrados de las oficinas centrales del Instituto, así como su publicación en la Gaceta Oficial de la Ciudad de México para darle publicidad, con la finalidad de que aquellas personas que consideren que les asiste un derecho y no hubiesen sido incluidas en dicha lista, acudan ante Persona Interventora para presentar la solicitud de reconocimiento de crédito en un plazo de diez días hábiles contados a partir de la publicación;
 
 III. Las solicitudes de reconocimiento de crédito deberán contener lo siguiente:
 
@@ -674,15 +830,19 @@ IV. Transcurrido el plazo dispuesto en la fracción II de este artículo, y en c
 
 ### CAPÍTULO VI. DEL PROCEDIMIENTO DE LIQUIDACIÓN DEL PATRIMONIO
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 41.
 
-Una vez concluido el plazo a que se refiere la fracción IV del artículo que antecede, la Unidad de Fiscalización mediante oficio informará a la Presidencia del Consejo General, a la Comisión de Fiscalización, a la o el Titular de la Secretaría Ejecutiva, a la o el Interventor y a la o el Responsable la conclusión de la etapa de prevención y el inicio de la etapa de liquidación.
+Una vez concluido el plazo a que se refiere la fracción IV del artículo que antecede, la Unidad de Fiscalización mediante oficio informará a la Presidencia del Consejo General, a la Comisión de Fiscalización, a la o el Titular de la Secretaría Ejecutiva, a la Persona Interventora y a la Persona Responsable la conclusión de la etapa de prevención y el inicio de la etapa de liquidación.
 
-Dentro de los tres días siguientes, los asociados deberán acordar la disolución de la Asociación y proceder a su protocolización ante notario público. Una vez que la o el Responsable cuente con el acta protocolizada deberá remitirla a la Unidad de Fiscalización.
+Dentro de los tres días siguientes, las personas asociadas deberán acordar la disolución de la Asociación y proceder a su protocolización ante notario público. Una vez que la o Persona Responsable cuente con el acta protocolizada deberá remitirla a la Unidad de Fiscalización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 42.
 
-En la etapa de inicio de liquidación la o el Interventor deberá:
+En la etapa de inicio de liquidación la Persona Interventora deberá:
 
 I. Dentro de los cinco días posteriores al inicio de esta etapa, emitir aviso de Liquidación de la Asociación Civil y solicitar a las autoridades correspondientes del Instituto su publicación en la Gaceta Oficial de la Ciudad de México para los efectos legales procedentes;
 
@@ -690,11 +850,15 @@ II. Determinar el valor de los bienes o monto de los recursos para cubrir las ob
 
 III. Realizado lo anterior, dentro de los cinco días siguientes formulará un informe que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias para cubrir las obligaciones a cargo de la Asociación Civil de que se trate y remitirlo a la Unidad de Fiscalización;
 
-IV. Una vez que la Unidad de Fiscalización valide el informe a que se refiere la fracción anterior, con el balance de liquidación, el o la Interventora procederá en los términos del artículo 43 del presente ordenamiento.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+IV. Una vez que la Unidad de Fiscalización valide el informe a que se refiere la fracción anterior, con el balance de liquidación, la Persona Interventora procederá en los términos del artículo 43 del presente ordenamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 43.
 
-Dentro de la etapa de conclusión de la liquidación, conforme al presente Reglamento, la o el Interventor deberá:
+Dentro de la etapa de conclusión de la liquidación, conforme al presente Reglamento, la Persona Interventora deberá:
 
 I. Liquidar el total de los adeudos de la Asociación Civil, en el supuesto de que los recursos en dinero sean superiores al monto de los pasivos;
 
@@ -704,17 +868,23 @@ III. Cuando los recursos en dinero no sean suficientes para cubrir el monto de l
 
 IV. Realizar, en su caso, las acciones conducentes para subastar los bienes de la Asociación Civil a efecto de pagar a sus acreedores, en la prelación establecida en los artículos 38 y 39 de este Reglamento; y
 
-V. Elaborar y presentar el dictamen de liquidación.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+V. Elaborar y presentar a la Comisión de Fiscalización el dictamen de liquidación.
 
 ### CAPÍTULO VII. DE LA SUBASTA PÚBLICA DE LOS BIENES
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-La enajenación de los bienes de la Asociación Civil se hará en moneda nacional, conforme al valor de mercado. El o la Interventora determinará su valor en el mercado, pudiéndose auxiliar para ello de peritos valuadores o por el promedio de cuando menos tres cotizaciones.
+La enajenación de los bienes de la Asociación Civil se hará en moneda nacional, conforme al valor de mercado. La Persona Interventora determinará su valor en el mercado, pudiéndose auxiliar para ello de peritos valuadores o por el promedio de cuando menos tres cotizaciones.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 45.
 
-Cuando la o él Interventor cuente con el valor de mercado de los bienes muebles propiedad de la Asociación Civil, informará mediante oficio a la Comisión de Fiscalización y a la Unidad de Fiscalización, para que ésta última con apoyo de la Secretaría Administrativa, elaboren y procedan a la publicación de la convocatoria pública para subastar los bienes suficientes a efecto de contar con los recursos necesarios para liquidar a los acreedores.
+Cuando la Persona Interventora cuente con el valor de mercado de los bienes muebles propiedad de la Asociación Civil, informará mediante oficio a la Comisión de Fiscalización y a la Unidad de Fiscalización, para que ésta última con apoyo de la Secretaría Administrativa, elaboren y procedan a la publicación de la convocatoria pública para subastar los bienes suficientes a efecto de contar con los recursos necesarios para liquidar a los acreedores.
 
 ###### Artículo 46.
 
@@ -734,9 +904,13 @@ III. Recibir desde el día en que se haga la publicación de la convocatoria y h
 
 IV. Prever el pago en efectivo, transferencia electrónica o depósito bancario a la cuenta concentradora a que hacen referencia los artículos 27, fracción I, inciso e) y 29 del presente Reglamento;
 
-V. Vigilar que las y los postores u oferentes presenten escrito, bajo protesta de decir verdad en el que señalen no tener vínculos familiares hasta en tercer grado con la o el Interventor, las o los asociados y los o las trabajadoras de la Asociación Civil, personal de la Unidad de Fiscalización o cualquier otra persona que por sus funciones hayan tenido acceso a la información relacionada con el procedimiento de liquidación; y
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-VI. El o la Titular de la Unidad de Fiscalización en compañía de la o el Interventor presidirán la subasta en la fecha, hora y lugar establecido.
+V. Vigilar que las y los postores u oferentes presenten escrito, bajo protesta de decir verdad en el que señalen no tener vínculos familiares hasta en tercer grado con la Persona Interventora, las o los asociados y los o las trabajadoras de la Asociación Civil, personal de la Unidad de Fiscalización o cualquier otra persona que por sus funciones hayan tenido acceso a la información relacionada con el procedimiento de liquidación; y
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+VI. El o la Titular de la Unidad de Fiscalización en compañía de la Persona Interventora presidirán la subasta en la fecha, hora y lugar establecido.
 
 Cualquier acto o enajenación que se realice en contravención a lo dispuesto en la convocatoria respectiva y el presente artículo, será nulo de pleno derecho.
 
@@ -746,9 +920,11 @@ No podrán participar en la subasta pública de los bienes de la Asociación Civ
 
 ### CAPÍTULO VIII. DEL PAGO A LOS ACREEDORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 48.
 
-Concluida la subasta pública y depositados los recursos obtenidos en la cuenta concentradora, la o el Interventor procederá a:
+Concluida la subasta pública y depositados los recursos obtenidos en la cuenta concentradora, la Persona Interventora procederá a:
 
 I. Realizar la entrega jurídica de los bienes subastados dentro de los tres días posteriores a su enajenación;
 
@@ -774,9 +950,11 @@ Cuando los recursos sean insuficientes para liquidar a los acreedores, aún y cu
 
 ### CAPÍTULO IX. DEL DICTAMEN DE CIERRE DE LA LIQUIDACIÓN
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 50.
 
-Cerrada la etapa de liquidación, la Unidad de Fiscalización conjuntamente con el o la Interventora elaborará, dentro de los diez días siguientes un Dictamen en el que detallará las operaciones realizadas, las circunstancias relevantes del proceso y el destino final de los bienes y recursos de la Asociación Civil correspondiente.
+Cerrada la etapa de liquidación, la Unidad de Fiscalización conjuntamente con la Persona Interventora elaborará, dentro de los diez días siguientes un Dictamen en el que detallará las operaciones realizadas, las circunstancias relevantes del proceso y el destino final de los bienes y recursos de la Asociación Civil correspondiente.
 
 ###### Artículo 51.
 
@@ -792,27 +970,35 @@ IV. La debida fundamentación;
 
 V. El resultado y las conclusiones de revisión;
 
-VI. En su caso, la mención de los errores o irregularidades encontradas en la revisión; y
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-VII. El nombre de la o el Responsable de la Asociación Civil que participó en el procedimiento de liquidación.
+VI. La mención de los errores o irregularidades encontradas en la revisión, o bien que durante la revisión no se tuvieron este tipo de hallazgos; y
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+VII. El nombre de la Persona Responsable de la Asociación Civil que participó en el procedimiento de liquidación
 
 ###### Artículo 52.
 
 La Unidad de Fiscalización someterá a la consideración del Consejo General, previa aprobación de la Comisión de Fiscalización, el Dictamen de liquidación del patrimonio de la Asociación Civil.
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 53.
 
-En el supuesto de que una vez liquidados los diversos acreedores, existan recursos remanentes o bienes muebles, el Consejo General instruirá a la o el Interventor para que los entregue junto con el dictamen de liquidación al Gobierno de la Ciudad de México, para los efectos conducentes.
+En el supuesto de que una vez liquidados los diversos acreedores, existan recursos remanentes o bienes muebles, el Consejo General instruirá a la Persona Interventora para que los entregue junto con el dictamen de liquidación al Gobierno de la Ciudad de México, para los efectos conducentes.
 
-Hecho lo anterior, la o el Interventor cancelará la cuenta bancaria concentradora y solicitará a las autoridades fiscales la baja del Registro Federal de Contribuyentes de la Asociación Civil, haciéndolo del conocimiento de la Comisión de Fiscalización y de la Unidad de Fiscalización, quien le notificará el término de su designación como Interventor.
+Hecho lo anterior, la o el Interventor cancelará la cuenta bancaria concentradora y solicitará a las autoridades fiscales la baja del Registro Federal de Contribuyentes de la Asociación Civil, haciéndolo del conocimiento de la Comisión de Fiscalización y de la Unidad de Fiscalización, quien le notificará el término de su designación como Persona Interventora.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO DE DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS PARA LOS ASPIRANTES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 54.
 
-El Consejo General, a través de la o el Consejero Presidente, les hará saber a las o los aspirantes que no podrán registrarse como candidatas o candidatos, en los siguientes casos:
+El Consejo General, a través de la o el Consejero Presidente, les hará saber a las personas aspirantes que no podrán registrarse como candidatas o candidatos, en los siguientes casos:
 
 I. Por sentencias de los órganos jurisdiccionales en los que las o los aspirantes sean parte del proceso;
 
@@ -826,23 +1012,37 @@ V. No haber obtenido las firmas ciudadanas necesarias para alcanzar el porcentaj
 
 VI. La o el aspirante que no entregue el informe de ingresos y egresos, dentro de los treinta días siguientes a la conclusión del periodo para recabar el apoyo ciudadano, le será negado el registro como Candidata o Candidato o cuando la autoridad nacional así lo determine.
 
+> <small>(ADICIONADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+VII. Pérdida del derecho de la o el aspirante infractor a ser registrado como candidata o candidato sin partido o, en su caso, si ya hubiera sido registrado, con la cancelación de la candidatura, cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres.
+
 ###### Artículo 55.
 
 Liquidación de las Asociaciones Civiles de las y los aspirantes que no obtengan el registro como candidatas o candidatos:
 
 I. Las Asociaciones Civiles de las y los aspirantes que les sea negado el registro como candidato o candidata a un cargo de elección popular en la Ciudad de México, así como aquellos y aquellas que presenten escrito de desistimiento de su intención, procederán como sigue:
 
-a). Dentro de los tres días siguientes de que les sea notificada la resolución de negativa de registro o presenten escrito de desistimiento ante este Instituto, las y los asociados deberán acordar la disolución de la misma y designar a una o un liquidador;
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-b). Informar a la Unidad de Fiscalización, al día siguiente de su designación, el nombre de la o el liquidador, número telefónico, correo electrónico y domicilio para oír y recibir toda clase de notificaciones;
+a). Dentro de los tres días siguientes de que les sea notificada la resolución de negativa de registro o presenten escrito de desistimiento ante este Instituto, las y los asociados deberán acordar la disolución de la misma y designar a una Persona liquidadora;
 
-c). El o la Representante, deberá otorgar los más amplios poderes a la o el liquidador, para actos de dominio y representación de la Asociación Civil, así como el registro de firmas de la cuenta bancaria, como único facultado para suscribir en la misma; y
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-d). El o la Responsable, deberá presentar a la Unidad de Fiscalización, dentro de los diez días siguientes, los Estados de Posición Financiera y de Resultados, así como la balanza de comprobación y auxiliares contables acumulados de la Asociación Civil, con cifras al día en que le sea notificada la resolución de negativa de registro como candidato o presenten su escrito de desistimiento.
+b). Informar a la Unidad de Fiscalización, al día siguiente de su designación, el nombre de la Persona Liquidadora, número telefónico, correo electrónico y domicilio para oír y recibir toda clase de notificaciones;
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+c). El o la Representante, deberá otorgar los más amplios poderes a la Persona Liquidadora, para actos de dominio y representación de la Asociación Civil, así como el registro de firmas de la cuenta bancaria, como único facultado para suscribir en la misma; y
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+d). La Persona Responsable, deberá presentar a la Unidad de Fiscalización, dentro de los diez días siguientes, los Estados de Posición Financiera y de Resultados, así como la balanza de comprobación y auxiliares contables acumulados de la Asociación Civil, con cifras al día en que le sea notificada la resolución de negativa de registro de la candidatura sin partido o presenten su escrito de desistimiento.
 
 II. Una vez que la Unidad de Fiscalización cuente con la información financiera de la Asociación Civil, procederá como sigue:
 
-1. Contará con un plazo de hasta quince días para validar dicha información, para lo cual la o el Responsable deberá remitir toda la información y documentación que le sea requerida por esta autoridad electoral;
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+1. Contará con un plazo de hasta quince días para validar dicha información, para lo cual la Persona Responsable deberá remitir toda la información y documentación que le sea requerida por esta autoridad electoral;
 
 2. Una vez vencido el plazo anterior, la Unidad de Fiscalización contará con un plazo de cinco días para elaborar un informe de los resultados de la revisión efectuada;
 
@@ -856,9 +1056,13 @@ c). El total de las cuentas por cobrar; y
 
 d). El total de cuentas por pagar, diferenciando las laborales, fiscales y con proveedores.
 
-4. Al día siguiente de la conclusión del informe referido, la Unidad de Fiscalización lo notificará a la o el liquidador.
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-III. Con base en el informe que le sea notificado y bajo la supervisión de la Unidad de Fiscalización, la o el liquidador realizará las acciones siguientes:
+4. Al día siguiente de la conclusión del informe referido, la Unidad de Fiscalización lo notificará a la Persona Liquidadora.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 9 DE OCTUBRE DE 2020)</small>
+
+III. Con base en el informe que le sea notificado y bajo la supervisión de la Unidad de Fiscalización, la Persona Liquidadora realizará las acciones siguientes:
 
 1. Los recursos que, en su caso, se encuentren en caja deberán ser depositados en la cuenta de cheques, a más tardar al día siguiente;
 
@@ -884,43 +1088,71 @@ d). Cubrir las deudas adquiridas por la Asociación Civil hasta el día en que l
 
 e). Si una vez cubiertas las condiciones establecidas en las fracciones anteriores, existieran bienes muebles y/o recursos remanentes, dentro de los cinco días siguientes, éstos serán entregados al Instituto Electoral, para ser trasladados a la Secretaría de Ciencia, Tecnología e Innovación de la Ciudad de México.
 
-IV. Al término del plazo establecido en el inciso e) de la fracción anterior, la o el liquidador procederá a dar la baja del Registro Federal de Contribuyentes ante las autoridades hacendarias, cancelar la cuenta bancaria y rendir un informe detallado de todo lo actuado ante la Unidad de Fiscalización.
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-V. Con base en dicho informe y las acciones de supervisión desplegadas por la Unidad de Fiscalización, ésta elaborará un Informe del proceso de liquidación, el cual será puesto a la consideración de la Comisión de Fiscalización, para su posterior presentación al Consejo General.
+IV. Al término del plazo establecido en el inciso e) de la fracción anterior, la Persona Liquidadora procederá a dar la baja del Registro Federal de Contribuyentes ante las autoridades hacendarias, cancelar la cuenta bancaria y rendir un informe detallado de todo lo actuado ante la Unidad de Fiscalización.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 9 DE OCTUBRE DE 2020)</small>
+
+V. Con base en dicho informe y las acciones de supervisión desplegadas por la Unidad de Fiscalización, ésta elaborará un Informe del proceso de liquidación, el cual será puesto a la consideración de la Comisión de Fiscalización, para su posterior presentación al Consejo General, dicho informe deberá contener cuando menos lo siguiente:
+
+a) Los resultados de la revisión practicada a la información financiera;
+
+b) Los errores o irregularidades encontradas en la revisión;
+
+c) El destino final de los bienes y remanentes;
+
+d) Las circunstancias relevantes del proceso de liquidación; y
+
+e) El nombre de la persona liquidadora designado por la Asociación Civil.
 
 ## TÍTULO CUARTO. DE LAS ATRIBUCIONES DE LOS ÓRGANOS DEL INSTITUTO ELECTORAL
 
 ### CAPÍTULO ÚNICO
 
-Artículo 57 (sic). La Comisión de Fiscalización, por conducto de la Unidad de Fiscalización, tendrá a su cargo la vigilancia de la actuación del Interventor y, en su caso, del liquidador, para lo cual dicha Unidad informará mensualmente a los integrantes de la Comisión de Fiscalización las acciones llevadas a cabo por los mismos, en las etapas de prevención y liquidación del patrimonio de la Asociación Civil de que se trate, respecto a la administración de sus recursos.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 56.
+
+La Comisión de Fiscalización, por conducto de la Unidad de Fiscalización, tendrá a su cargo la vigilancia de la actuación de la Persona Interventora y, en su caso, de la Persona Liquidadora, para lo cual dicha Unidad informará mensualmente a los integrantes de la Comisión de Fiscalización las acciones llevadas a cabo por los mismos, en las etapas de prevención y liquidación del patrimonio de la Asociación Civil de que se trate, respecto a la administración de sus recursos.
 
 Adicionalmente, La Comisión de Fiscalización tendrá las facultades siguientes:
 
-I. Solicitar, en todo momento, a la o el Interventor la información por escrito sobre las cuestiones relativas a su desempeño;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-II. En caso de que la Comisión de Fiscalización o el Interventor o interventora tengan conocimiento de una situación que pueda implicar una trasgresión a ordenamientos ajenos a su competencia, derivado del procedimiento de liquidación del patrimonio de una Asociación Civil, solicitará la intervención de la o el Titular de la Secretaría Ejecutiva para que éste proceda a dar parte a las autoridades competentes; y
+I. Solicitar, en todo momento, a la Persona Interventora la información por escrito sobre las cuestiones relativas a su desempeño;
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+II. En caso de que la Comisión de Fiscalización o la Persona Interventora tengan conocimiento de una situación que pueda implicar una trasgresión a ordenamientos ajenos a su competencia, derivado del procedimiento de liquidación del patrimonio de una Asociación Civil, solicitará la intervención de la o el Titular de la Secretaría Ejecutiva para que éste proceda a dar parte a las autoridades competentes; y
 
 III. Las demás que le confieran el presente Reglamento.
 
-###### Artículo 58.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 57.
 
 La Unidad de Fiscalización tendrá las siguientes facultades:
 
 I. Revisar los informes que en términos de este Reglamento presenten las Asociaciones Civiles;
 
-II. Solicitar a él o la Responsable cualquier medio de almacenamiento de datos que la Asociación Civil utilice;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
 
-III. Solicitar a la o el Interventor o liquidador toda la información o documentación necesaria para el correcto desarrollo de sus tareas;
+II. Solicitar a la Persona Responsable cualquier medio de almacenamiento de datos que la Asociación Civil utilice;
 
-IV. Vigilar la actuación de la o el Interventor o liquidador, en las etapas de prevención y liquidación del patrimonio de las Asociaciones Civiles. Si en el ejercicio de sus facultades, la Unidad de Fiscalización advierte que la o el Interventor o liquidador incumplieron con cualesquiera de sus obligaciones, independientemente de resarcir el daño ocasionado al patrimonio de la Asociación Civil, informará inmediatamente a la Comisión de Fiscalización, a la Secretaría Ejecutiva y a la Contraloría General del Instituto, para que en el ámbito de su competencia inicien los procedimientos a que haya lugar;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+III. Solicitar a la Persona Interventora o Persona Liquidadora toda la información o documentación necesaria para el correcto desarrollo de sus tareas;
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+IV. Vigilar la actuación de la Persona Interventora o Persona Liquidadora, en las etapas de prevención y liquidación del patrimonio de las Asociaciones Civiles. Si en el ejercicio de sus facultades, la Unidad de Fiscalización advierte que la Persona Interventora o Persona Liquidadora incumplieron con cualesquiera de sus obligaciones, independientemente de resarcir el daño ocasionado al patrimonio de la Asociación Civil, informará inmediatamente a la Comisión de Fiscalización, a la Secretaría Ejecutiva y a la Contraloría General del Instituto, para que en el ámbito de su competencia inicien los procedimientos
 
 V. En caso de que tenga conocimiento de una situación que implique alguna trasgresión a ordenamientos ajenos a su competencia derivado de la liquidación del patrimonio de una Asociación Civil, solicitará la intervención de la o el Secretario Ejecutivo del Instituto para que éste proceda a dar parte a las autoridades competentes; y
 
 VI. Las demás que le confiera el Código y el presente Reglamento.
 
-###### Artículo 59.
-
-La Unidad de Fiscalización, adicionalmente a los informes mensuales que presente a la Comisión de Fiscalización, atenderá todos los requerimientos de información sobre la situación que guarden el periodo de prevención y el procedimiento de liquidación de las Asociaciones Civiles, que realicen la Comisión de Fiscalización o el Consejo General a través de la o el Secretario Ejecutivo.
+Artículo 59 (SIC). La Unidad de Fiscalización, adicionalmente a los informes mensuales que presente a la Comisión de Fiscalización, atenderá todos los requerimientos de información sobre la situación que guarden el periodo de prevención y el procedimiento de liquidación de las Asociaciones Civiles, que realicen la Comisión de Fiscalización o el Consejo General a través de la o el Secretario Ejecutivo.
 
 ###### Artículo 60.
 
@@ -943,3 +1175,67 @@ ANEXOS:
 - AC7-DD DETALLE DE DOCUMENTACIÓN.
 
 > <small>[N. DE E. VÉANSE ANEXOS EN LA G.O. DE 17 DE AGOSTO DE 2017, PÁGINAS DE LA 144 A LA 156.]</small>
+
+> <small>(ADICIONADO, G.O. 9 DE OCTUBRE DE 2020)</small>
+
+AC7-FNE
+
+FORMATO NOTIFICACIONES ELECTRÓNICAS
+
+Ciudad de México, a de de 20 .
+
+Otrora Aspirante u otrora Candidata o
+
+Candidato a una Candidatura sin Partido
+
+Presente.
+
+El Instituto Electoral de la Ciudad de México, le hace del conocimiento que las notificaciones a las y los otrora (sic) aspirantes sin partido a los distintos cargos de elección popular durante el Proceso Electoral Local - en la Ciudad de México (otrora (sic) aspirantes) deberán realizarse a través del sistema de notificaciones electrónicas por internet.
+
+Por lo que, deberá proporcionar los datos siguientes:
+
+OTRORA (SIC) ASPIRANTE U OTRORA (SIC) CANDIDATA O CANDIDATO
+
+1. Nombre y Apellidos
+
+2, Correo electrónico
+
+3. Teléfono móvil (celular)
+
+4. Domicilio
+
+RESPONSABLE DE LA ADMINISTRACIÓN DEL PATRIMONIO
+
+5. Nombre y Apellidos
+
+6. Correo electrónico
+
+7. Teléfono móvil (celular)
+
+8. Domicilio
+
+(llenar sólo en caso de ser Aspirante que no logró el registro como candidato sin partido)
+
+9. Nombre y Apellidos
+
+10. Correo electrónico
+
+11. Teléfono móvil (celular)
+
+12. Domicilio
+
+Lo anterior para los efectos legales a que haya lugar.
+
+Firma de conformidad
+
+Nombre
+
+Cargo al que aspiró
+
+Los datos recabados por medio de este formato se encuentran protegidos por la normatividad aplicable en materia de protección de datos personales, por lo que, no podrán ser transferidos a terceros.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. EL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN REFORMAS AL REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS Y LOS ASPIRANTES A LAS CANDIDATURAS INDEPENDIENTES EN LA CIUDAD DE MÉXICO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.]</small>
