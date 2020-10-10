@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2019-05-25"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -3091,19 +3093,51 @@ III.- De muerte fetal.
 
 IV.- Los demás que determine la Ley General de Salud, esta Ley, sus reglamentos y los acuerdos de coordinación.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+Para fines epidemiológicos y estadísticos, la Secretaría expedirá el formato vigente del Certificado de Nacimiento.
+
 ###### Artículo 347.
 
 El certificado médico prenupcial será requerido por las autoridades del Registro Civil a quienes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 348.
 
-Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinado sus causas, por profesionales de la medicina, o personas autorizadas por la autoridad sanitaria competente.
+Se expedirán por profesionales de la medicina, o personas autorizadas por la autoridad sanitaria competente, los siguientes documentos:
+
+I. El Certificado de Nacimiento, para cada persona nacida viva, una vez comprobado el hecho.
+
+Se entenderá por persona nacida viva, al producto de la concepción expulsado o extraído completo del cuerpo de su madre, independientemente de la duración del embarazo, y que después de dicha separación, respire o dé cualquier otra señal de vida, como latidos del corazón, pulsaciones del cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical, y esté o no desprendida la placenta.
+
+II. Los certificados de defunción y de muerte fetal, una vez comprobado el fallecimiento y determinadas sus causas.
 
 ###### Artículo 349.
 
 Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud Federal y de conformidad con las Normas Oficiales Mexicanas que la misma emita.
 
 Las autoridades judiciales o administrativas, sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+La Secretaría y los Servicios Estatales de Salud, en el ámbito de sus respectivas competencias, son responsables del estricto control y uso adecuado de los Certificados de Nacimiento foliados que les proporcionen.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 349 Bis.
+
+La Secretaría deberá destinar un espacio físico en todas las instituciones de salud en el Estado para instalar los Módulos Auxiliares Registrales, con personal a su cargo para realizar el registro de nacimiento de las personas recién nacidas, antes de abandonar dichos establecimientos.
+
+Los módulos estarán coordinados y bajo la supervisión de la Oficialía de la Dirección del Registro Civil que corresponda, la cual coadyuvará en la capacitación del personal que designe la institución de salud, y les brindará las herramientas, equipos y materiales necesarios para llevar a cabo el registro de nacimientos.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 349 Ter.
+
+Las instituciones de salud deberán recabar la información necesaria para llenar el Formato Único de Nacimiento proporcionado por la Dirección del Registro Civil, del cual entregará un tanto a la madre, padre o quien presente a la persona recién nacida y remitirá otro a la Oficialía del Registro Civil a la que se encuentre adscrita, para efectos del registro correspondiente.
+
+El documento deberá contener firma o huella de la madre y/o padre o quien presente a la persona recién nacida, así como por dos testigos.
 
 TÍTULO DECIMOSEXTO
 
@@ -3820,3 +3854,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud, procurará incluir dentro de su presupuesto anual, a partir del ejercicio fiscal 2020 y en los subsecuentes, recursos suficientes para la implementación de las disposiciones contempladas en el presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLYC/0758/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno, a través de la Dirección del Registro Civil, y la Secretaría de Salud, ambas del Gobierno del Estado de Chihuahua, en el ámbito de sus respectivas competencias, deberán realizar las previsiones necesarias en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2021 y demás acciones necesarias, a fin de generar la coordinación para la implementación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
