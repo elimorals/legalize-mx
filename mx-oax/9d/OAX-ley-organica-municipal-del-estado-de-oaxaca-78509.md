@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-10-03"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -777,9 +777,9 @@ LXXXIV.- Hacer pública la información del padrón a que hace referencia la fra
 
 LXXXV.- Crear la instancia Municipal de la Mujer, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXXXV], P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-LXXXVI.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos del Estado de Oaxaca.
+LXXXVI.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos para el Estado de Oaxaca.
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXXXVI], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
@@ -919,9 +919,11 @@ Cada sesión del Cabildo tendrá el siguiente orden: Toma de lista, declaratoria
 
 Inmediatamente después el Secretario Municipal, informará sobre el cumplimiento de los acuerdos de la sesión anterior, posteriormente se deliberarán los asuntos restantes del orden del día. Agotado este, se procederá a la clausura de la sesión y se levantará el acta correspondiente por duplicado.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 51.
 
-En el curso del primer bimestre de cada año, el Ayuntamiento debe remitir al Archivo General del Poder Ejecutivo del Estado un ejemplar del libro de actas de las sesiones del Cabildo correspondiente al año anterior.
+En el curso del primer bimestre de cada año, el Ayuntamiento debe remitir al Archivo General del Estado de Oaxaca un ejemplar del libro de actas de las sesiones del Cabildo correspondiente al año anterior.
 
 ###### ARTÍCULO 52.
 
@@ -2429,9 +2431,11 @@ El Ayuntamiento establecerá un sistema de evaluación y control que permita que
 
 El control presupuestal comprenderá las asignaciones, transferencias, compromisos y ejercicios correspondientes a los programas y partidas de su presupuesto que permita la obtención de sus estados de cuenta y demás información presupuestal, con la finalidad de medir la eficacia y eficiencia del gasto público municipal.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 131.
 
-Los libros o los registros contables deberán de conservarse durante 5 años por el Ayuntamiento en su archivo administrativo y no podrán por ningún motivo, modificarse o destruirse. Al término de ese lapso, la documentación se remitirá al Archivo General del Estado.
+Los libros o los registros contables deberán de conservarse durante 5 años por el Ayuntamiento en su archivo administrativo y no podrán por ningún motivo, modificarse o destruirse. Al término de ese lapso, la documentación se remitirá al Archivo General del Estado de Oaxaca.
 
 ### CAPÍTULO VI. DE LA DEUDA PÚBLICA MUNICIPAL
 
@@ -3944,6 +3948,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 3 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1664.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XL DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1693.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
