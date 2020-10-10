@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2020-03-21"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚM. 1268 Y DE ACUERDO CON LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE VETADA, POR LO QUE OBEDECIENDO AL MANDATO CONSTITUCIONAL, TENGO A BIEN PUBLICAR LAS PARTES VETADAS, DEL CITADO DECRETO POR EL QUE SE CREA LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA, EN CONSECUENCIA SE PUBLICA EL CITADO DECRETO EN EL P.O. 26 DE AGOSTO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -159,9 +157,17 @@ Son objetivos de la presente Ley:
 
 I.- Asegurar el desarrollo integral de las personas con discapacidad para que tengan plena participación social, así como el ejercicio pleno de sus derechos y deberes reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de Derechos Humanos suscritos por el Estado Mexicano y la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-II.- Garantizar la igualdad y equiparación de oportunidades para las personas con discapacidad, así como su participación efectiva en todos los aspectos de la vida; y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-III.- Eliminar cualquier forma de discriminación por motivos de discapacidad, incluyendo la denegación de ajustes razonables.
+II.- Garantizar la igualdad y equiparación de oportunidades para las personas con discapacidad, así como su participación efectiva en todos los aspectos de la vida;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+III.- Eliminar cualquier forma de discriminación por motivos de discapacidad, incluyendo la denegación de ajustes razonables; y
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+IV.- Garantizar que todas las autoridades en el ámbito de sus competencias realicen consultas a las personas con discapacidad, y tratándose de niñas y niños con discapacidad a través de sus tutores, en la elaboración y aplicación de la legislación como en la implementación de programas y políticas públicas.
 
 ### CAPÍTULO II
 
@@ -211,7 +217,9 @@ n) El Pro Persona.
 
 Corresponde a los Poderes del Estado y sus municipios, dentro de sus respectivos ámbitos de competencias en materia de esta Ley, las siguientes:
 
-I. Establecer políticas públicas para garantizar los derechos de las personas con discapacidad, apegados a los principios enmarcados en la presente Ley, a fin de cumplir con las obligaciones derivadas de los tratados internacionales de derechos humanos ratificados por el Estado Mexicano;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+I. Establecer políticas públicas para garantizar los derechos de las personas con discapacidad, apegados a los principios enmarcados en la presente Ley, a fin de cumplir con las obligaciones derivadas de los tratados internacionales de derechos humanos ratificados por el Estado Mexicano, mediante la implementación de consultas a las personas con discapacidad, y tratándose de niñas y niños con discapacidad a través de sus tutores.
 
 II. Garantizar, respetar, proteger, y promover en condiciones de igualdad el ejercicio y goce de los derechos humanos de las personas con discapacidad para su inclusión plena.
 
@@ -886,3 +894,11 @@ P.O. 21 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1269.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 16, LA FRACCIÓN I DEL ARTÍCULO 55; SE ADICIONAN LOS PÁRRAFOS NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO SEGUNDO Y DÉCIMO TERCERO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 2; SE REFORMAN LOS INCISOS L) Y M) Y SE ADICIONA EL INCISO N) AL ARTÍCULO 6; TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1589.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
