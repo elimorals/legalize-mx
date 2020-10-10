@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-12383
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2019-09-07"
+last_updated: "2020-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra Periódico Oficial del Estado de Oaxaca, el jueves 21 de septiembre de 2017.
 
@@ -83,11 +83,15 @@ XII. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos constituc
 
 XIII. Entidades fiscalizadas: Los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos públicos o privados, cuando hayan recibido por cualquier título, recursos públicos estatales y municipales, no obstante que sean o no considerados entidades paraestatales por la Ley de la materia, aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos estatales o municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
 
-XIV. Faltas administrativas: Las graves y no graves, señaladas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+XIV. Faltas administrativas: Las graves y no graves, señaladas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, así como la Ley General de Responsabilidades Administrativas;
 
 XV. Fiscalía Especializada: Fiscalía Especializada en Materia de Combate a la Corrupción del Estado de Oaxaca;
 
-XVI. Fiscalización Estatal: La revisión que realiza el Órgano Superior de Fiscalización del Estado de Oaxaca, a los recursos estatales y municipales en los términos constitucionales y de esta Ley;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+XVI. Fiscalización Estatal: La revisión que realiza el Órgano Superior de Fiscalización del Estado de Oaxaca, a los fondos y recursos estatales y municipales en los términos constitucionales y de esta Ley;
 
 XVII. Fondo: Al fondo para el fortalecimiento de la fiscalización;
 
@@ -111,7 +115,9 @@ XXVI. Ley de Responsabilidades de los Servidores Públicos: Ley de Responsabilid
 
 XXVII. Órgano Constitucional Autónomo: Son los órganos creados inmediata y fundamentalmente en la Constitución Política del Estado Libre y Soberano de Oaxaca, que no se adscriben a los poderes del Estado, y que cuentan con autonomía e independencia funcional y financiera;
 
-XXVIII. Órgano Superior de Fiscalización del Estado de Oaxaca: Es la instancia técnica del Congreso, que goza de autonomía técnica, de gestión, presupuestal y financiera, que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+XXVIII. Órgano Superior de Fiscalización del Estado de Oaxaca: Es la instancia técnica del Congreso, que goza de autonomía técnica, de gestión, presupuestal, presupuestaria y financiera que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido fondos o recursos públicos estatales o municipales;
 
 XXIX. Órgano interno de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como de la investigación, substanciación y en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
@@ -171,9 +177,13 @@ El Órgano Superior de Fiscalización del Estado de Oaxaca deberá emitir los cr
 
 Los entes públicos facilitarán los auxilios que requiera el Órgano Superior de Fiscalización del Estado de Oaxaca para el ejercicio de sus funciones.
 
-Los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales, deberán proporcionar la información y documentación que solicite el Órgano Superior de Fiscalización del Estado de Oaxaca para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-De no proporcionar la información, los responsables serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y, en su caso, en términos de la legislación penal aplicable.
+Los servidores públicos, así como cualquier entidad fiscalizada, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan fondos o recursos públicos estatales o municipales, deberán proporcionar la información y documentación que solicite el Órgano Superior de Fiscalización del Estado de Oaxaca para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios de (sic) sistema financiero.
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+De no proporcionar la información, los responsables serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y, en su caso, en términos de la legislación penal aplicable.
 
 Cuando esta Ley no prevea plazo, el Órgano Superior de Fiscalización del Estado de Oaxaca podrá fijarlo y no será inferior a diez días hábiles ni mayor a quince días hábiles contados a partir del día siguiente a que haya surtido efectos la notificación correspondiente.
 
@@ -199,11 +209,13 @@ VI. Para imponer la multa que corresponda, el Órgano Superior de Fiscalización
 
 VII. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables por la negativa a entregar información a él Órgano Superior de Fiscalización del Estado de Oaxaca, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-La negativa a entregar información a él Órgano Superior de Fiscalización del Estado de Oaxaca, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la legislación penal y demás disposiciones aplicables.
+La negativa a entregar información al Órgano Superior de Fiscalización del Estado de Oaxaca, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y a la legislación penal y demás disposiciones aplicable (sic).
 
-Cuando los servidores públicos y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados conforme a la legislación penal aplicable.
+Cuando los servidores públicos y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados conforme la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y a la legislación penal y demás dispersiones aplicable (sic).
 
 ###### Artículo 12.
 
@@ -297,7 +309,9 @@ II. Establecer los lineamientos técnicos y criterios para las auditorías y su 
 
 III. Proponer al Congreso y demás entes públicos, en los términos de la Ley General de Contabilidad Gubernamental y la Ley de Archivos del Estado de Oaxaca, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías;
 
-IV. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, estatales y municipales, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Estatal de Desarrollo, los programas sectoriales, regionales, operativos anuales, en su caso, los Planes Municipales de Desarrollo que correspondan y demás programas de las entidades fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos públicos federales, estatales o municipales;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+IV. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, estatales y municipales, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Nacional de Desarrollo, Plan Estatal de Desarrollo, los programas sectoriales, regionales, operativos anuales, en su caso, los Planes Municipales de Desarrollo que correspondan y demás programas de las entidades fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos federales, estatales o municipales;
 
 V. Verificar que las entidades fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
@@ -327,9 +341,13 @@ Cuando derivado de la práctica de auditorías se entregue al Órgano Superior d
 
 El incumplimiento a lo dispuesto en esta fracción será motivo de fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes;
 
-XI. Fiscalizar los recursos públicos estatales o municipales, fideicomisos, fondos, mandatos o, cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-XII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita, o comisión de faltas administrativas, en los términos establecidos en esta Ley y en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
+XI. Fiscalizar los recursos públicos estatales o municipales, y, en su caso, federales, fideicomisos, fondos, mandatos o, cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+XII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita, o comisión de faltas administrativas, en los términos establecidos en esta Ley, en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, Ley General de Responsabilidades Administrativas y demás disposiciones aplicables;
 
 XIII. Efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones;
 
@@ -387,9 +405,11 @@ En caso de que el Órgano Superior de Fiscalización del Estado de Oaxaca consid
 
 Lo previsto en los artículos anteriores, se realizará sin perjuicio de que el Órgano Superior de Fiscalización del Estado de Oaxaca convoque a las reuniones de trabajo que estime necesarias durante las auditorías correspondientes, para la revisión de los resultados preliminares.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 24.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que el Órgano Superior de Fiscalización del Estado de Oaxaca emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión. Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la unidad administrativa a cargo de las investigaciones del Órgano Superior de Fiscalización del Estado de Oaxaca para que proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes en los términos esta Ley.
+El Órgano Superior de Fiscalización del Estado de Oaxaca podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que el Órgano Superior de Fiscalización del Estado de Oaxaca emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión. Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la unidad administrativa a cargo de las investigaciones del Órgano Superior de Fiscalización del Estado de Oaxaca para que proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes en los términos (sic) esta Ley, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y a la legislación penal y demás disposiciones aplicable (sic).
 
 ###### Artículo 25.
 
@@ -531,13 +551,21 @@ II. Tratándose de los pliegos de observaciones, determinará en cantidad líqui
 
 III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización;
 
-IV. A través del informe de presunta responsabilidad administrativa, el Órgano Superior de Fiscalización del Estado de Oaxaca promoverá ante el Tribunal, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-V. En caso de que el Órgano Superior de Fiscalización del Estado de Oaxaca determine la existencia de daños o perjuicios, o ambos, a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
+IV. A través del informe de presunta responsabilidad administrativa, el Órgano Superior de Fiscalización del Estado de Oaxaca promoverá ante el Tribunal y, en su caso, demás instancias competentes, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas;
 
-VI. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y,
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-VII. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos.
+V. En caso de que el Órgano Superior de Fiscalización del Estado de Oaxaca determine la existencia de daños o perjuicios, o ambos, a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios del Estado de Oaxaca, la Ley General de Responsabilidades Administrativas y a la legislación penal y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+VI. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables; y,
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+VII. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada u otras instancias competentes, la posible comisión de hechos delictivos.
 
 ###### Artículo 44.
 
@@ -587,7 +615,9 @@ Para los efectos de lo previsto en el párrafo segundo de la fracción I, del ar
 
 En ese tenor, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá acompañar al requerimiento los documentos o evidencias presentados por los denunciantes al enviar el requerimiento antes mencionado a las entidades fiscalizables. Las denuncias podrán presentarse ante el Congreso, la Comisión o directamente en el Órgano Superior de Fiscalización del Estado de Oaxaca.
 
-Con base en el informe de situación excepcional, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá, en su caso, fincar las responsabilidades que procedan en términos de la presente ley o promover otras responsabilidades ante las autoridades competentes.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+Con base en el informe de situación excepcional, el Órgano Superior de Fiscalización del Estado de Oaxaca deberá, en su caso, fincar las responsabilidades que procedan en términos de la presente ley, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables o promover otras responsabilidades ante las autoridades competentes.
 
 ###### Artículo 51.
 
@@ -649,17 +679,27 @@ Lo dispuesto en el presente Capítulo, no excluye la imposición de las sancione
 
 Si de la fiscalización que realice el Órgano Superior de Fiscalización del Estado de Oaxaca se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de servidores públicos o particulares, el Órgano Superior de Fiscalización del Estado de Oaxaca procederá a:
 
-I. Promover ante el Tribunal, en los términos de Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que detecte durante sus auditorías e investigaciones, en que incurran los servidores públicos, así como sanciones a los particulares vinculados con dichas faltas;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-II. Determinar en su caso la existencia de daños, perjuicios, o ambos, a la Hacienda Pública Estatal y Municipal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley de Responsabilidades Administrativas del Estado y sus Municipios;
+I. Promover ante el Tribunal, u otras instancias competentes, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que detecte durante sus auditorías e investigaciones, en que incurran los servidores públicos, así como sanciones a los particulares vinculados con dichas faltas;
 
-III. Presentar las denuncias y querellas penales, que correspondan ante la Fiscalía Especializada, por los probables delitos que se detecten derivado de sus auditorías; y,
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-IV. Coadyuvar con la Fiscalía Especializada en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial. En estos casos, la Fiscalía Especializada recabará previamente la opinión del Órgano Superior de Fiscalización del Estado de Oaxaca, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
+II. Determinar en su caso la existencia de daños, perjuicios, o ambos, a la Hacienda Pública Estatal y Municipal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+III. Presentar las denuncias y querellas penales, que correspondan ante la Fiscalía Especializada, o, en su caso, otras instancias competentes, por los probables delitos que se detecten derivado de sus auditorías; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2020)</small>
+
+IV. Coadyuvar con la Fiscalía Especializada y demás instancias competentes en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial. En estos casos, la Fiscalía Especializada recabará previamente la opinión del Órgano Superior de Fiscalización del Estado de Oaxaca, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
 
 Previamente a que la Fiscalía Especializada determine declinar su competencia, abstenerse de investigar los hechos denunciados, archivar temporalmente las investigaciones o decretar el no ejercicio de la acción penal, deberá hacerlo del conocimiento el Órgano Superior de Fiscalización del Estado de Oaxaca para que exponga las consideraciones que estime convenientes.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca podrá impugnar ante la autoridad competente las omisiones de la Fiscalía Especializada en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN IV], P.O. 10 DE OCTUBRE DE 2020)</small>
+
+El Órgano Superior de Fiscalización del Estado de Oaxaca podrá impugnar ante la autoridad competente las omisiones de la Fiscalía Especializada y demás instancias competentes en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento.
 
 Las denuncias penales de hechos presuntamente ilícitos deberán presentarse por parte del Órgano Superior de Fiscalización del Estado de Oaxaca cuando se cuente con los elementos que establezcan las leyes en dichas materias.
 
@@ -689,9 +729,11 @@ Lo anterior, sin perjuicio de que la unidad administrativa a cargo de las invest
 
 El procedimiento para promover el informe de presunta responsabilidad administrativa y la imposición de sanciones por parte del Tribunal, se regirá por lo dispuesto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 63.
 
-De conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, la unidad administrativa del Órgano Superior de Fiscalización del Estado de Oaxaca a la que se le encomiende la substanciación ante el Tribunal, deberá ser distinta de la que se encargue de las labores de investigación.
+De conformidad con lo dispuesto en la Ley de Responsabilidades Administrativa (sic) del Estado y Municipios de Oaxaca, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, la unidad administrativa del Órgano Superior de Fiscalización del Estado de Oaxaca a la que se encomiende la substanciación ante el Tribunal, deberá ser distinta de la que se encargue de las labores de investigación.
 
 Para efectos de lo previsto en el párrafo anterior, el Reglamento Interior del Órgano Superior de Fiscalización del Estado de Oaxaca, deberá contener una unidad administrativa a cargo de las investigaciones que será la encargada de ejercer las facultades que la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca le confiere a las autoridades investigadoras; así como una unidad que ejercerá las atribuciones que la citada Ley otorga a las autoridades substanciadoras. Los titulares de las unidades referidas deberán cumplir para su designación con los requisitos que se prevén esta Ley.
 
@@ -825,9 +867,11 @@ La Comisión a través de la Unidad realizará las observaciones y las recomenda
 
 ### Capítulo I. De la integración y Organización del Órgano Superior de Fiscalización del Estado de Oaxaca
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 75.
 
-El Órgano Superior de Fiscalización del Estado de Oaxaca del Estado de Oaxaca, es la instancia técnica del Congreso, que goza de autonomía técnica, de gestión, presupuestal y financiera que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales.
+El Órgano Superior de Fiscalización del Estado de Oaxaca, es la instancia técnica del Congreso, que goza de autonomía técnica, de gestión, presupuestal, presupuestaria y financiera que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido fondos o recursos públicos estatales o municipales.
 
 ###### Artículo 76.
 
@@ -1241,8 +1285,12 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no lo estén expresamente.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL”.]
+P.O. 10 DE OCTUBRE DE 2020.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1633.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA”.]
 
-Segundo.- A la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas contarán con un plazo de 90 días naturales para realizar las adecuaciones a su normatividad correspondiente.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se deroga cualquier disposición que se oponga al presente Decreto.
