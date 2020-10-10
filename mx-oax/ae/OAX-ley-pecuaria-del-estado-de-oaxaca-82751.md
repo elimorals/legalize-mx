@@ -4,7 +4,7 @@ identifier: "OAX-ley-pecuaria-del-estado-de-oaxaca-82751"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2019-11-23"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PECUARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 18 de agosto de 2011.
 
@@ -473,7 +473,13 @@ XXXVIII. Establecer las medidas que sean necesarias para proteger la biodiversid
 
 XXXIX. Promover la incorporación de productos apícolas al menú de los comedores escolares, de los establecimientos dependientes del gobierno estatal y de la población en general;
 
-XL. Establecer los programas necesarios que permitan la certificación de origen de la miel oaxaqueña, y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+XL. Establecer los programas necesarios que permitan la certificación de origen de la miel Oaxaqueña;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+XLI. Propiciar la conservación, mejoramiento y aprovechamiento sustentable de las tierras de pastoreo; y
 
 XLI. Las demás que establezcan la presente Ley, su reglamento, los convenios que celebre el Gobernador del Estado, el artículo 30 de Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y demás normatividad aplicable en la materia.
 
@@ -857,9 +863,15 @@ XI. Promover las medidas más adecuadas para la protección y defensa de sus int
 
 XII. Llevar un registro de propiedad pecuaria a través de fierros, marcas, señales, tatuajes, aretes u otros mecanismos de identificación electrónicas;
 
-XIII. Las señaladas como objeto de las organizaciones ganaderas en la Ley de Organizaciones Ganaderas Federal; y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-XIV. Las demás que les confiera esta Ley.
+XIII. Las señaladas como objeto de las organizaciones ganaderas en la Ley de Organizaciones Ganaderas Federal;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+XIV. Fomentar entre sus asociados prácticas sostenibles de producción a través de sistemas silvopastoriles, en el desarrollo de las actividades agropecuarias, a fin de potenciar el sector; y
+
+XV. Las demás que les confiera esta Ley.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -1973,7 +1985,29 @@ Con relación al artículo anterior, al término de la exposición donde concurr
 
 ## TÍTULO DÉCIMO SÉPTIMO. DE LA APICULTURA
 
-### CAPÍTULO I. OBLIGACIONES DE LOS APICULTORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS APICULTORES
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 212 Bis.
+
+Todo apicultor tiene los siguientes derechos:
+
+I. Disfrutar de los apoyos que el Gobierno Estatal y Federal otorgue sobre apicultura;
+
+II. Formar parte de la Asociación de Apicultores de la localidad donde se encuentre instalada su explotación;
+
+III. Recibir el asesoramiento técnico de la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+
+IV. Recibir de la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura la credencial que lo identifique como apicultor;
+
+V. Participar en la integración de organismos técnicos o de consulta que se establezcan exprofeso para la protección y mejoramiento de la actividad apícola en el Estado;
+
+VI. Gozar, en igualdad de condiciones, de preferencia en la comercialización de sus productos; y
+
+VII. Los demás que les confiera esta Ley y su Reglamento.
 
 ###### ARTÍCULO 213.
 
@@ -2065,9 +2099,39 @@ Con el objeto de vigilar que se cumplan las normas de sanidad e higiene y de asp
 
 En su caso, las inspecciones podrán efectuarse en el lugar de los apiarios, durante la movilización de las colmenas y sus productos, en las bodegas, plantas de extracción, sedimentación y envasado.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 225.
 
-Las inspecciones abarcarán también las movilizaciones de los productos de las empresas que industrialicen la miel y otros productos de la colmena.
+Las visitas se desarrollarán:
+
+I. En el lugar de ubicación de los apiarios;
+
+II. Durante la movilización de las colmenas y sus productos; y
+
+III. En las bodegas, plantas de extracción, envasado y procesamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 225 Bis.
+
+Se practicarán visitas de inspección para:
+
+I. Verificar que la marca de identificación del apicultor se encuentre debidamente registrada y colocada conforme a lo dispuesto por la presente Ley;
+
+II. Conocer si las ubicaciones de los apiarios llenan las condiciones que fija esta Ley;
+
+III. Verificar si los apicultores cumplen las medidas de movilización de las colmenas establecidas por esta Ley y demás disposiciones legales aplicables;
+
+IV. Si existen enfermedades o plagas que amenacen la actividad apícola; e
+
+V. Investigar si se cumplen debidamente las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 225 Ter.
+
+Las medidas preventivas o de combate tendientes a evitar la propagación de plagas o enfermedades que afecten a las abejas que dicte la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura, serán de carácter obligatorio para los apicultores del Estado.
 
 ### CAPÍTULO V. DE LOS SERVICIOS DE POLINIZACIÓN
 
@@ -2087,23 +2151,125 @@ Cuando la prestación del servicio de polinización se efectúe en predios compr
 
 La instalación de las colmenas para la prestación del servicio de polinización quedará exento de lo dispuesto en el artículo 23 de la presente ley.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO VI. ATRIBUCIONES EN MATERIA DE APICULTURA
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Bis.
+
+En el ámbito de la apicultura, corresponde a la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura en el cumplimiento de las siguientes atribuciones:
+
+I. Proteger, planear, fomentar, estimular y coordinar conjuntamente con los tres niveles de gobierno en la realización de programas estatales que tiendan al mejoramiento de la apicultura en el estado;
+
+II. Coordinarse con las autoridades competentes Federales, Estatales y Municipales, junto con el Consejo Apícola del Estado de Oaxaca, para impulsar el desarrollo apícola, su comercialización y transformación, conforme a los lineamientos expedidos por dichas dependencias;
+
+III. Proporcionar asesoría y ayuda técnica, proveyendo conforme a sus posibilidades, el material, las herramientas y el personal necesario a los apicultores que lo soliciten para el mejor desarrollo y aprovechamiento de su actividad;
+
+IV. Evaluar periódicamente las actividades apícolas y mantener un registro de su producción;
+
+V. Supervisar la actividad apícola para dirigir sus acciones hacia su mejoramiento, preservación y aprovechamiento sustentable;
+
+VI. Promover estudios sobre la apicultura, los productos emanados de ella y los que se hagan necesarios para su fortalecimiento;
+
+VII. Fomentar el mejoramiento, la instalación y la mejor función de los centros de cría de abejas reina;
+
+VIII. Llevar y mantener actualizado el registro de los apicultores y de asociaciones apícolas;
+
+IX. Prevenir, proteger y fomentar la conservación de los recursos naturales, bosque, suelo y agua, así como la flora melífera, necesarios para el desarrollo de la actividad apícola en el Estado;
+
+X. Promover y apoyar, en coordinación con los municipios, campañas para prevenir y controlar las plagas y enfermedades de las abejas;
+
+XI. Asesorar y ayudar a los apicultores que lo soliciten, con el material, herramientas y personal especializado, en el combate de plagas y enfermedades de las abejas;
+
+XII. Fomentar la comercialización y la industrialización de los productos apícolas, y
+
+XIII. Las demás que le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO VII. DE LA MOVILIZACIÓN DE COLMENAS
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Ter.
+
+Para la movilización y transportación de colmenas deberá contarse con una guía de tránsito que autorice la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Quáter.
+
+Queda prohibida la introducción para ubicarse en el territorio de Oaxaca, colmenas de otros Estados, sin el permiso correspondiente mismo que será otorgado por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura, debiendo portar los siguientes documentos:
+
+a) Carta de aceptación de las disposiciones legales de la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura donde va a establecerse temporalmente;
+
+b) Anuencia escrita de la Asociación de apicultores para establecerse en el lugar que indica; y
+
+c) Certificado de Sanidad Animal del Estado de su procedencia.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Quinquies.
+
+Se exceptúan de lo anterior, los núcleos y reinas que por sus características, exámenes y certificados sanitarios responden al interés del gobierno del estado de definir esta actividad y de común acuerdo con la asociación del lugar.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Sexies.
+
+Para la movilización de las cajas con abejas el interesado deberá tomar en cuenta las siguientes medidas:
+
+I. Preferentemente deberá realizarse en horario de noche, al menos que exista una razón que exceptúe dicha condición y ésta sea presentada por escrito y autorizada por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+
+II. Las colmenas deberán ir debidamente cubiertas con una malla que permita la ventilación, cubra la entrada y no permita la salida de las abejas; y
+
+III. Los demás que establezca el Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO VIII. DE LA IDENTIFICACIÓN Y EL REGISTRO DE LAS COLMENAS
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Septies.
+
+Para la identificación de la propiedad de las colmenas, todo apicultor que opere dentro del Estado deberá marcarlas al frente, mediante fierro caliente, que sea visible cuando menos a una distancia de dos metros.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Octies.
+
+Todo apicultor deberá tener su marca debidamente registrada ante la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura y revalidarla en los años terminados en cero y cinco.
+
+No se registrará ninguna marca de fácil alteración, igual o de estrecha semejanza a otra ya registrada.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Nonies.
+
+El apicultor que adquiera colmenas o material apícola marcado, pondrá su fierro o marca a un lado de la del vendedor, sin borrarla, y conservará las facturas que amparen la adquisición correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 229 Decies.
+
+Las colmenas remarcadas o alteradas en sus marcas, se considerarán robadas y el poseedor si no justifica la propiedad o posesión de las mismas se hará acreedor a las sanciones que establezcan las disposiciones legales en la materia.
+
+## TÍTULO DÉCIMO OCTAVO. DE LAS RESPONSABILIDADES, SANCIONES Y DEFENSA DE PARTICULARES
+
 ### CAPÍTULO I. DE LAS RESPONSABILIDADES
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO II. LAS SANCIONES Y SU APLICACIÓN
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
-
-### CAPÍTULO III. DE LA DEFENSA DE PARTICULARES
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
-
-## TÍTULO DÉCIMO OCTAVO. DE LAS RESPONSABILIDADES, SANCIONES Y DEFENSA DE PARTICULARES
-
 ###### ARTÍCULO 230.
 
 Las autoridades encargadas de aplicar esta Ley, y demás servidores públicos estatales y municipales competentes en la materia, están sujetos a las disposiciones de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; por lo tanto, cualquier persona podrá denunciar actos u omisiones que constituyan causa de responsabilidad de los servidores públicos.
+
+### CAPÍTULO II. LAS SANCIONES Y SU APLICACIÓN
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 231.
 
@@ -2329,6 +2495,10 @@ Cuando en esta Ley se faculte a la Autoridad Municipal para imponer sanciones, c
 
 En los casos en que esta Ley no especifique la sanción correspondiente, pero otorgue competencia a la Autoridad Municipal, ésta se limitará a aplicar multas de cincuenta a ciento cincuenta veces el salario mínimo diario, sin perjuicio de poner en conocimiento de la Secretaría o de otra autoridad municipal o estatal competente los hechos que pudieran constituir infracción o delito y cuya sanción no sea de su competencia.
 
+### CAPÍTULO III. DE LA DEFENSA DE PARTICULARES
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 243.
 
 En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento, se podrá interponer el recurso de inconformidad, previsto en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
@@ -2412,3 +2582,19 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1662.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PECUARIA DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1689.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PECUARIA DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
