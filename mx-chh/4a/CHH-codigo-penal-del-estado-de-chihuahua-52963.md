@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2020-02-22"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2471,7 +2471,9 @@ VII. Sustituya a una persona menor de edad o que no comprenda el significado del
 
 VIII. Inscriba o haga registrar un divorcio o nulidad de matrimonio inexistentes o que aún no hubiesen sido declarados por sentencia que haya causado ejecutoria.
 
-La autoridad judicial podrá prescindir de la sanción si el agente actúa por motivos nobles o humanitarios, en el caso a que se refiere la fracción I de este artículo.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+Además de la pena de prisión, cuando las conductas referidas en las fracciones I, II y III de este artículo, sean realizadas con motivo de sus funciones por personal adscrito a la institución de salud pública o privada, se aplicará pena de inhabilitación para ejercer su profesión de 1 a 5 años. Cuando el delito se cometa en contra de dos o más víctimas, se duplicará la pena.
 
 ### CAPÍTULO ÚNICO. INHUMACIÓN, EXHUMACIÓN Y RESPETO A LOS CADÁVERES O RESTOS HUMANOS
 
@@ -5430,3 +5432,19 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO.- Las facultades que confieren los artículos 240 y 241 de la Ley Nacional de Extinción de Dominio a la Unidad Especializada, corresponderán a la Dirección de Extinción de Dominio de la Dirección General Jurídica y, en su caso, a la Fiscalía Anticorrupción, como el ente a que alude esa Ley Nacional.
 
 CUARTO.- Para efectos del presente Decreto, la Dirección de Administración y Enajenación de Bienes, Fondos y Fideicomisos de la Fiscalía General del Estado será tanto la Autoridad Administrativa contenida en la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, como la Autoridad Administradora a que alude la Ley Nacional de Extinción de Dominio.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLYC/0758/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno, a través de la Dirección del Registro Civil, y la Secretaría de Salud, ambas del Gobierno del Estado de Chihuahua, en el ámbito de sus respectivas competencias, deberán realizar las previsiones necesarias en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2021 y demás acciones necesarias, a fin de generar la coordinación para la implementación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
