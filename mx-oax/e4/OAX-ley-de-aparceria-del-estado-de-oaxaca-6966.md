@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-aparceria-del-estado-de-oaxaca-6966"
 country: "mx"
 rank: "ley"
 publication_date: "1955-10-01"
-last_updated: "1955-10-01"
+last_updated: "2020-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE APARCERIA DEL ESTADO DE OAXACA
 
-LEY DE APARCERIA DEL ESTADO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1688, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE APARCERÍA DEL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de octubre de 1955.
 
@@ -230,3 +232,17 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección.- Carreteras y Escuelas.- Oaxaca de Juárez, a tres de julio de mil novecientos treinta y seis.- El Subsecretario Enc. del Despacho.- Manuel Calderón.- Rúbrica.
 
 Al C.........
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1688.- MEDIANTE EL CUAL ABROGA LA LEY DE APARCERÍA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. En caso de existir algún contrato vigente de aparcería en el Estado, surtirá sus efectos hasta su conclusión.
+
+CUARTO. La aparcería se regulará de conformidad con el contenido del Código Civil para el Estado Libre y Soberano de Oaxaca.
