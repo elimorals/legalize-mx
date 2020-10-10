@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-02-08"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1191,11 +1191,33 @@ El DIF Estatal enviará al Sistema Nacional DIF la información en el momento en
 
 En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO VIGÉSIMO. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 106 Bis.
+
+Niñas, niños y adolescentes gozan del derecho de acceso universal a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+Se garantizará el acceso y uso seguro del Internet, como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 106 Ter.
+
+El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 106 Quáter.
+
+Las madres, padres y quienes tengan a su cargo el cuidado de niñas, niños y adolescentes, instruirán el conocimiento y uso responsable de las tecnologías de la información y comunicación, y deberán velar para que los riesgos derivados del acceso a tal derecho, no afecten o impidan objetivamente su desarrollo integral, por lo que, en caso de que se vulneren sus derechos, ejercerán las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 107.
 
@@ -1209,7 +1231,9 @@ I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad 
 
 Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación.
 
-II. Registrarlos dentro de los primeros treinta días de vida.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+II. Registrarlos dentro de los primeros cinco días de vida.
 
 III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo.
 
@@ -1261,7 +1285,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
-### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 112.
 
@@ -1405,7 +1429,7 @@ Todo individuo como integrante de la sociedad es corresponsable de proteger a ni
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO SEGUNDO. DE LA PROCURADURÍA DE PROTECCIÓN
+### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
 
 ###### Artículo 121.
 
@@ -1567,7 +1591,7 @@ VII. Las demás que establezcan otras disposiciones en relación con la protecci
 
 Ante la falta de familia y de recursos económicos para el sostenimiento, el organismo estatal para la asistencia social pública, deberá proveer lo necesario para la protección, asistencia y atención integral de niñas, niños y adolescentes.
 
-### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
+### CAPÍTULO SEGUNDO. DE LA PROCURADURÍA DE PROTECCIÓN
 
 ###### Artículo 129.
 
@@ -1661,7 +1685,7 @@ En aquellos casos donde la niña, niño o adolescente cuente con familia para pr
 
 Sin perjuicio de lo anterior, podrá acudir ante el Ministerio Público a efecto de que conforme a la legislación penal se sancione a los responsables.
 
-### CAPÍTULO CUARTO. DEL SISTEMA MUNICIPAL DE PROTECCIÓN
+### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
 ###### Artículo 135.
 
@@ -1829,9 +1853,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 La Secretaría Ejecutiva contará con un área administrativa para el adecuado cumplimiento de sus atribuciones, las cuales estarán determinadas en el reglamento de la presente Ley.
 
-### CAPÍTULO CUARTO BIS. DE LOS CONSEJOS CONSULTIVOS ESTATAL Y MUNICIPALES
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
+### CAPÍTULO CUARTO. DEL SISTEMA MUNICIPAL DE PROTECCIÓN
 
 ###### Artículo 143.
 
@@ -1851,7 +1873,9 @@ Los Sistemas Municipales expedirán su reglamento a efecto de determinar quiéne
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2020)</small>
 
-### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO CUARTO BIS. DE LOS CONSEJOS CONSULTIVOS ESTATAL Y MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 145 Bis.
 
@@ -1899,7 +1923,7 @@ VIII. Presentar al Sistema Estatal de Protección Integral y a los sistemas muni
 
 IX. Las demás que le encomiende el Sistema Estatal de Protección Integral y los sistemas municipales, así como otras disposiciones jurídicas aplicables.
 
-### CAPÍTULO SEXTO. DEL SISTEMA DE INFORMACIÓN EN MATERIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 146.
 
@@ -1915,7 +1939,7 @@ El Programa Estatal deberá prever acciones de mediano y largo alcance, indicar�
 
 El Programa Estatal deberá incluir mecanismos trasparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y serán publicados en el Periódico Oficial del Estado.
 
-### CAPÍTULO SÉPTIMO. DE LA PROTECCIÓN DE LOS DERECHOS
+### CAPÍTULO SEXTO. DEL SISTEMA DE INFORMACIÓN EN MATERIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 149.
 
@@ -1949,7 +1973,7 @@ Los gobiernos municipales, en el ámbito de sus atribuciones, coadyuvarán a la 
 
 Los datos contenidos en el Sistema de Información en Materia de Niñas, Niños y Adolescentes, quedarán sujetos a lo establecido en la Ley de Transparencia y Acceso a la Información Pública, así como en la Ley de Protección de Datos Personales, ambos ordenamientos del Estado de Chihuahua y demás legislación aplicable.
 
-### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO DE PROTECCIÓN
+### CAPÍTULO SÉPTIMO. DE LA PROTECCIÓN DE LOS DERECHOS
 
 ###### Artículo 153.
 
@@ -2037,7 +2061,7 @@ Todo convenio habrá de ratificarse ante el Juzgado correspondiente para que se 
 
 Tratándose del procedimiento de conciliación, se harán constar en el convenio respectivo las condiciones o medidas de protección que resulten aplicables de las previstas en las fracciones I, II, III y IV del artículo 158 de esta Ley, a fin de salvaguardar el interés superior de niñas, niños y adolescentes.
 
-### CAPÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO ADMINISTRATIVO DE PROTECCIÓN
 
 ###### Artículo 164.
 
@@ -2253,7 +2277,7 @@ En toda medida de acogimiento con una familia, siempre se privilegiará a las pe
 
 De no ser posible en definitiva la reintegración de la niña, niño o adolescente al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, la Procuraduría de Protección o el DIF Municipal podrán proponer a la persona o personas que reúnan las condiciones para adoptar y, de ser procedente, iniciará el procedimiento de adopción, dando la intervención que legalmente competa al Consejo Estatal Técnico de Adopciones.
 
-### CAPÍTULO DÉCIMO. MEDIOS DE DEFENSA
+### CAPÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 190.
 
@@ -2330,6 +2354,8 @@ III. Los daños que hubieren producido o puedan producirse.
 IV. La condición económica del infractor.
 
 V. La reincidencia del infractor.
+
+### CAPÍTULO DÉCIMO. MEDIOS DE DEFENSA
 
 ###### Artículo 200.
 
@@ -2448,3 +2474,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo contará con un plazo de 90 días posteriores a la entrada en vigor del presente Decreto, para la integración y operación del Consejo Consultivo.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLYC/0758/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0759/2020 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno, a través de la Dirección del Registro Civil, y la Secretaría de Salud, ambas del Gobierno del Estado de Chihuahua, en el ámbito de sus respectivas competencias, deberán realizar las previsiones necesarias en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2021 y demás acciones necesarias, a fin de generar la coordinación para la implementación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2020.
