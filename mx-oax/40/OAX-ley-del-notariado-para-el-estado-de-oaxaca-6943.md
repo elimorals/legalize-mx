@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-notariado-para-el-estado-de-oaxaca-6943"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-30"
-last_updated: "2010-04-16"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 30 de julio de 1994.
 
@@ -144,6 +144,12 @@ Los Notarios cobrarán a quienes soliciten sus servicios los honorarios que fije
 ###### ARTICULO 11.
 
 El Ejecutivo del Estado podrá requerir a los Notarios para que colaboren en la prestación de los servicios notariales cuando se trate de satisfacer demandas de interés social o de carácter electoral.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 11 BIS.- Las autoridades competentes conjuntamente con el Colegio de Notarios, mediante convenio diseñarán e implementarán anualmente un programa estatal, en el que se deberá impulsar la cultura testamentaria; así como, establecer entre otros beneficios, la implementación de asesorías gratuitas, reducciones y/o condonaciones de honorarios en el registro de testamentos; dicho programa deberá tener una duración mínima de tres meses, ser difundida en las lenguas indígenas y a través de los medios de comunicación oficiales con que cuenta el gobierno del Estado.
+
+En casos de emergencia (sic) sanitarias declaradas por la autoridad competente, el programa anual también deberá prever mecanismos de difusión y orientación respecto del testamento privado, así como contar con formatos ajustados a la legislación civil vigente y disponibles para ser descargados de forma gratuita.
 
 ## TITULO SEGUNDO. ORGANIZACION DE LOS NOTARIOS
 
@@ -1254,3 +1260,11 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 16 DE ABRIL DE 2010.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1682.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
