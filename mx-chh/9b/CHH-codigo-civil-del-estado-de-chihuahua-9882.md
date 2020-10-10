@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2020-07-08"
+last_updated: "2020-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -337,43 +339,47 @@ Ninguna autoridad podrá ordenar la presentación de los libros del registro civ
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-54.- Las declaraciones de nacimiento se harán presentando al niño ante el jefe de la oficina o en la casa donde aquél hubiere nacido.
+54.- Los nacimientos de niñas y niños que ocurran en las instituciones de salud en el Estado, deberán ser registrados antes de abandonar dichos establecimientos, en los Módulos Auxiliares Registrales establecidos para ello, en coordinación y en los formatos establecidos por la Dirección del Registro Civil.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2020)</small>
 
-Para el registro del nacimiento de indígenas del Estado, la ley reconoce como fedatarios a las autoridades indígenas tradicionales, para acreditar hechos de filiación y residencia de los indígenas que deben intervenir en el registro, cuando los actos se asienten en las respectivas comunidades.
+En los demás casos, la madre, el padre o quien presente a la persona recién nacida, deberá realizar el registro ante la Oficialía del Registro Civil que corresponda, presentando el Certificado de Nacimiento, expedido por la Secretaría de Salud. Ante el impedimento de acudir a la Oficialía del Registro Civil, se solicitará la presencia de su personal para que acuda al lugar de nacimiento para realizar el registro.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE OCTUBRE DE 2020)</small>
 
-El Jefe de la Oficina estará obligado a reconocer en todo caso la personalidad de la autoridad indígena que haga constar un nacimiento de un miembro de su comunidad, sin exigir formalidades especiales, debiendo proceder a levantar el acta de nacimiento que corresponda, una vez que se le proporcionen los datos necesarios para ello.
+Para los efectos del presente Capítulo, se entenderá por institución de salud a cualquier institución pública o privada que preste servicios de atención médica.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE OCTUBRE DE 2020)</small>
 
-55.- La madre y el padre tienen la obligación de declarar el nacimiento. La Dirección del Registro Civil levantará, de manera gratuita, el registro del nacimiento y expedirá la primer acta de la misma forma.
+Para el registro de nacimiento de personas pertenecientes a pueblos y comunidades indígenas en el Estado, la ley reconoce como fedatarios a las autoridades indígenas tradicionales, para acreditar hechos de filiación y residencia de quienes deben intervenir en el registro, cuando los actos se asienten en los respectivos pueblos y comunidades.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE OCTUBRE DE 2020)</small>
 
-Los médicos, matronas o personas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Registro Civil dentro de los diez días siguientes. La misma obligación tiene la persona que sea propietaria o arrendataria, en cuyo domicilio haya tenido lugar el nacimiento.
+La persona titular de la Oficialía del Registro Civil estará obligada a reconocer en todo caso la personalidad de la autoridad indígena que haga constar un nacimiento de una persona integrante de su comunidad, sin exigir formalidades especiales, debiendo proceder a asentar el acta de nacimiento que corresponda, una vez que se le proporcionen los datos necesarios para ello.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-Recibido el aviso, el Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+55.- La madre, el padre, quien tenga bajo su cuidado a la persona recién nacida, así como los médicos, matronas o personas que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento a la Oficialía del Registro Civil correspondiente, dentro de los cinco días siguientes a la fecha en que ocurra aquel.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-Si el nacimiento tuviere lugar en un sanatorio, la obligación a que se refiere el párrafo anterior estará a cargo del Director o encargado del mismo.
+La Dirección del Registro Civil asentará, de manera gratuita, el registro de nacimiento conforme a las disposiciones relativas, y expedirá la primera acta de la misma forma.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-La Dirección del Registro Civil determinará las instituciones médicas públicas y privadas, en las que se deberán registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo la supervisión de la propia Dirección del Registro Civil.
+Cuando no se pueda acreditar la filiación de la persona recién nacida, la o el Oficial del Registro Civil lo hará del conocimiento del Organismo Público Descentralizado denominado Desarrollo Integral de la Familia del Estado de Chihuahua, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-56.- Las personas que, estando obligadas a dar el aviso establecido en el segundo párrafo del artículo anterior, lo hagan fuera del término fijado, serán sancionadas por el jefe de la oficina, atendiendo a las circunstancias de cada caso, con una multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 10 DE OCTUBRE DE 2020)</small>
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)</small>
+
+55 BIS.- En caso de que la o el Oficial del Registro Civil, advierta que se pudiera haber proporcionado información con el propósito de alterar la filiación de la persona a registrar, hará la denuncia penal correspondiente.
+
+56.- (DEROGADO, P.O. 10 DE OCTUBRE DE 2020)
 
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 3 DE OCTUBRE DE 1987)
 
@@ -13258,3 +13264,19 @@ Cuando otros ordenamientos legales del Estado se refieran a la firma electrónic
 ###### ARTÍCULO OCTAVO.
 
 En tanto no se expida la Ley de Procedimiento Administrativo del Estado, se aplicarán en lo conducente el Código Administrativo y el Código de Procedimientos Civiles, ambos ordenamientos del Estado de Chihuahua.
+
+P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLYC/0758/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno, a través de la Dirección del Registro Civil, y la Secretaría de Salud, ambas del Gobierno del Estado de Chihuahua, en el ámbito de sus respectivas competencias, deberán realizar las previsiones necesarias en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2021 y demás acciones necesarias, a fin de generar la coordinación para la implementación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
