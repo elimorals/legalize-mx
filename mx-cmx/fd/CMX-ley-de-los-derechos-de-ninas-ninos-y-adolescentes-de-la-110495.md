@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2020-03-20"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE OCTUBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -355,6 +355,10 @@ Las autoridades de la Ciudad de México y los órganos político administrativos
 Niñas, niños y adolescentes tienen derecho a que se les preserve la vida y a disfrutarla en condiciones que aseguren su dignidad y un nivel de vida adecuado para su desarrollo integral óptimo físico, mental, material, espiritual, ético, cultural y social.
 
 Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos, ni en cualquier tipo de experimento o ensayo que atente contra su dignidad humana.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2020)</small>
+
+A efecto de garantizar lo dispuesto en el párrafo primero del presente artículo, así como en el artículo 77; el Gobierno de la Ciudad de México, emitirá los protocolos de actuación a seguir por parte de las personas servidoras públicas de las instituciones de Seguridad Ciudadana, cuando en los mítines o marchas públicas se cuente con la presencia de niñas, niños y/o adolescentes.
 
 ###### Artículo 16.
 
@@ -2005,3 +2009,11 @@ CUARTO.- La Secretaria de Gobierno de la Ciudad de México, contará con un tér
 QUINTO.- A partir de la entrada en vigor del presente decreto, la Secretaria de Gobierno, deberá incluir en la base de datos del Registro, (sic) todas aquellas personas sentenciadas que hayan adquirido ese carácter con fecha posterior a la entrada del presente decreto.
 
 SEXTO.- Envíese el presente decreto a la Jefa de Gobierno de la Ciudad de México para sus efectos legales.
+
+G.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 15 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Gobierno de la Ciudad de México emitirá los protocolos de actuación a que hace referencia el último párrafo del artículo 15, en un término no mayor de 90 días naturales a partir de la entrada en vigor del presente decreto.
