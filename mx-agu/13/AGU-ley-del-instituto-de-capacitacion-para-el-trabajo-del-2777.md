@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-capacitacion-para-el-trabajo-del-2777"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-30"
-last_updated: "1994-10-30"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 1994.
 
@@ -59,6 +59,10 @@ El Instituto de Capacitación para el Trabajo del Estado de Aguascalientes tendr
 
 3.- Formar y actualizar a los instructores que se harán cargo de capacitar a los alumnos del Instituto.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+4.- Fomentar el desarrollo, participación y reconocimiento de las mujeres, personas con discapacidad, y adultos mayores en los diferentes ámbitos laborales.
+
 ###### ARTICULO 4o.
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes facultades:
@@ -75,9 +79,17 @@ Para el cumplimiento de su objeto, el Instituto tendrá las siguientes facultade
 
 6.- Celebrar convenios, contratos y acuerdos con los sectores productivos de bienes y servicios: público, social y privado, así como otras instituciones nacionales e internacionales de capacitación formal para el trabajo, conforme a lo dispuesto por la normatividad vigente aplicable.
 
-7.- Crear un órgano de vinculación entre los planteles dependientes del Instituto con el sector productivo de bienes y servicios, con la participación de los representantes de los sectores involucrados; y
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
 
-8.- Los demás que sean afines a su naturaleza.
+7.- Crear un órgano de vinculación entre los planteles dependientes del Instituto con el sector productivo de bienes y servicios, con la participación de los representantes de los sectores involucrados;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+8.- Establecimiento de medidas para fortalecer el acceso de personas con discapacidad, adultos mayores y de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+9.- Los demás que sean afines a su naturaleza.
 
 ### CAPITULO II. De la Organización
 
@@ -203,7 +215,9 @@ Corresponde al Director del Area de Planeación:
 
 1.- Integrar el Programa anual de actividades del Instituto y presentarlo a la consideración del Director General.
 
-2.- Evaluar las necesidades estatales de capacitación y establecer las prioridades para su atención.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+2.- Evaluar las necesidades estatales de capacitación y establecer las prioridades para su atención, creando estrategias específicas para atender la ocupación laboral de mujeres, personas con algún tipo de discapacidad y adultos mayores.
 
 3.- Coordinar la asignación de recursos de acuerdo a los programas prioritarios del Instituto.
 
@@ -215,7 +229,9 @@ Corresponde al Director del Area de Planeación:
 
 Corresponde al Director del Area Académica:
 
-1.- Realizar la investigación necesaria, con la colaboración de los Directores de Plantel para proponer al Director General los contenidos, planes y programas de estudio, métodos, medios, materiales didácticos y normas pedagógicas para la capacitación.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+1.- Realizar la investigación necesaria, con la colaboración de los Directores de Plantel para proponer al Director General los contenidos, planes y programas de estudio, métodos, medios, materiales didácticos y normas pedagógicas para la capacitación, estableciendo además medidas a favor de la igualdad de mujeres y hombres, personas con discapacidad y adultos mayores en las condiciones de trabajo.
 
 2.- Supervisar y controlar la ejecución del calendario escolar y los planes y programas de estudio, vigilando su cumplimiento.
 
@@ -244,6 +260,14 @@ Corresponde al Director del Area de Vinculación:
 5.- Organizar y desarrollar actividades de vinculación entre el Instituto de Capacitación y el Sector Productivo.
 
 6.- Apoyar al Patronato del Instituto, cuando éste lo solicite.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+7.- Crear medidas para fortalecer el acceso de las personas con discapacidad, adultos mayores, y las mujeres al empleo y la actividad laboral, así como la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+8.- Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de conducta, campañas informativas o acciones que inhiban este tipo de comportamiento.
 
 ###### ARTICULO 19.
 
@@ -358,3 +382,13 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 407.- REFORMAS Y ADICIONES A LA LEY DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
