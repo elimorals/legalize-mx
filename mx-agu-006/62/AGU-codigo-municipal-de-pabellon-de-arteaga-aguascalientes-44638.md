@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2020-05-18"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -5889,251 +5889,243 @@ V.- En ningún caso se autorizará la baja documental de los documentos de Archi
 
 ### CAPITULO QUINTO. De la Entrega Recepción
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 376], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 370.
 
-Los servidores públicos de la Presidencia Municipal de Pabellón de Arteaga, que sean titulares o responsables de una dependencia o unidad administrativa, están obligados a rendir informe escrito al separarse de su empleo, cargo o comisión de los asuntos de su competencia, entregando debidamente desglosados los recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones legales, a quienes lo sustituyan en sus funciones.
+El proceso de entrega-recepción de los asuntos y recursos de la Administración Pública Municipal de Pabellón de Arteaga, o de alguna de sus dependencias o entidades deberá realizarse:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 371.
-
-También estarán obligados a rendir informe los servidores que de acuerdo a la naturaleza de sus funciones le sea solicitado por el titular de su Dependencia, al separarse del empleo, cargo o comisión.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 372.
-
-El titular que entrega la dependencia a su cargo, deberá requisitar y suscribir el Acta Administrativa de entrega-recepción y estará obligado a hacer las aclaraciones posteriores que le sean requeridas en un plazo de 15 días hábiles a partir de la fecha de separación del cargo.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 373.
-
-El servidor público que concluye en el desempeño de sus funciones con motivo de la entrega, una vez firmada el acta y transcurridos los quince días señalados, no queda eximido de las responsabilidades Penales, Civiles o Administrativas en que hubiese incurrido durante el desempeño de su empleo, cargo o comisión.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 374.
-
-En caso de que el servidor público que deba recibir, aún no haya sido designado, el Presidente Municipal entrante nombrará al servidor público que celebrará la recepción del despacho, comunicando a la Controlaría Municipal tal designación.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 375.
-
-Si por causa imputable a la Administración saliente no hubiera entrega del despacho, el servidor público que debió recibir, será el responsable de que se levante el acta correspondiente, con asistencia de dos testigos, donde se anote el estado en que se encuentran los asuntos y recursos del funcionario saliente, haciéndolo del conocimiento de su jefe inmediato y de la contraloría Municipal, a efecto de que se ejecuten las acciones correspondientes a la aplicación de responsabilidades de los servidores públicos.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 376.
-
-El proceso de Entrega-Recepción de los asuntos y recursos públicos de la Administración Pública Municipal de Pabellón de Arteaga, Ags., deberá realizarse:
-
-I.- Al término del periodo constitucional de la Administración Pública Municipal;
+I.- Al término del periodo constitucional del H. Ayuntamiento y de la Administración Pública Municipal;
 
 II.- En caso de licencia por tiempo indefinido del Presidente Municipal;
 
 III.- Cuando se declare la desaparición o suspensión del Ayuntamiento;
 
-IV.- Cuando se declaré la suspensión o revocación del mandato del Presidente Municipal; y
+IV.- Cuando se declaré la suspensión o revocación del mandato del Presidente Municipal, y
 
-V.- En el caso que los titulares de las Secretarías, Direcciones y Organismos Descentralizados sean removidos, se separen del cargo o se haya expedido un nombramiento a favor de otra persona.
+V.- En el caso de que los titulares de las dependencias y entidades de la Administración Pública Municipal se separen del cargo o se haya expedido un nombramiento a favor de otra persona.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 377], P.O. 12 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 377.
+###### ARTICULO 371.
 
-La Entrega-Recepción deberá llevarse a cabo mediante la elaboración del Acta Administrativa de Entrega-Recepción que describe el estado que guarda la Administración Pública Municipal de Pabellón de Arteaga, Ags., la cual se acompañará de los Anexos correspondientes en los formularios autorizados por la Contraloría Municipal. Dichos Anexos comprenderán los aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales.
+La entrega-recepción deberá llevarse a cabo mediante la elaboración de un acta administrativa que describa el estado que guarda la Administración Pública Municipal de Pabellón de Arteaga, o una de sus dependencias o entidades, la cual se acompañará de los anexos previstos en el presente código, mediante los formularios autorizados por la Contraloría Municipal.
 
-###### ARTICULO 378.
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 381], P.O. 12 DE OCTUBRE DE 2020)</small>
 
-Corresponde a la Contraloría Municipal la coordinación de las acciones del Programa de Entrega-Recepción, así como la elaboración e implementación de los Lineamientos, Criterios y Anexos que deberán estar contenidos en el Manual de Entrega-Recepción, que especifique la forma, términos y alcances de la información que deberá proporcionarse, misma que de ninguna manera dejará de abarcar los aspectos mínimos que se indican en el presente Código.
+###### ARTICULO 372.
 
-###### ARTICULO 379.
+Los anexos indicados en el artículo anterior deberán comprender los siguientes puntos:
 
-Cuando el servidor público saliente no efectué la Entrega que señala este ordenamiento, será requerido por la Contraloría Municipal, para que en un término de 10 días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
+I.- Resumen de Actuación.- breve resumen de las actividades realizadas por la dependencia o entidad de que se trate, cuyo contenido consistirá en: misión u objetivo de la unidad administrativa, situación existente al inicio de la presente administración, acciones realizadas más relevantes y la situación que presente al concluir su gestión.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+II.- Marco de Actuación.- Señalamiento del marco jurídico-administrativo sobre el cual se fundamenta la actuación de la dependencia o entidad, mismo que estará conformado por: leyes, decretos, acuerdos, el presente código, reglamentos, manuales de organización y de procedimientos y otros ordenamientos aplicables, así como sus estructuras orgánicas correspondientes, con los siguientes anexos: marco jurídico administrativo; libros de juntas, acuerdos o actas; estructura orgánica; y manuales administrativos.
 
-###### ARTICULO 380.
+III.- Recursos Financieros.- Estados financieros, cuentas bancarias, inversiones, cuentas por cobrar y por pagar, documentación comprobatoria de ingresos y egresos, fideicomisos, conciliaciones bancarias y de más (sic) información relativa a fondos;
 
-Dentro del Programa de Entrega-Recepción, la Contraloría Municipal establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por la propia Contraloría, el cual se instrumentará y operará mediante ensayos previos.
+IV.- Recursos Humanos.- Plantillas autorizadas y relación de personal que incluya clasificación y situación laboral de cada empleado;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+V.- Recursos Materiales.- Detalle de mobiliario y equipo, vehículos, maquinaria, herramientas, utensilios, sistemas de cómputo, sellos oficiales, inventario en almacenes, libros, manuales y demás información relativa;
 
-###### ARTICULO 381.
+VI.- Obras y Programas.- Relación de obras terminadas y en proceso, así como los programas de trabajo permanentes;
 
-La elaboración e implementación de los Anexos indicados en el artículo anterior deberá comprender los siguientes recursos y asuntos:
+VII.- Asuntos Jurídicos.- Estado actual que guarda el trámite de amparos, juicios, acuerdos, contratos, convenios, formas oficiales numeradas y demás información relativa, y
 
-I.- Resumen de Actuación.- breve resumen de las actividades realizadas por la Dependencia o Entidad que se trate, cuyo contenido consistirá en: misión u objetivo de la Unidad Administrativa, situación existente al inicio de la presente administración, acciones realizadas más relevantes y la situación que presente al concluir su gestión.
+VIII.- Asuntos Generales.- Relación de expedientes, planos oficiales y actas en archivo, asuntos y proyectos en proceso, así como toda la información complementaria en relación a los asuntos de carácter general de la administración municipal, que por su naturaleza deba presentar cada dependencia u organismo descentralizado.
 
-II.- Anexo Resumen de Actuación.
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 383], P.O. 12 DE OCTUBRE DE 2020)</small>
 
-III.- Marco de Actuación.- Señalamiento del marco jurídico-administrativo sobre el cual se fundamenta la actuación de la Dependencia o Entidad, mismo que estará conformado por: Leyes, Decretos, Acuerdos, el presente Código, Reglamentos, Manuales de Organización y de Procedimientos y otros ordenamientos aplicables, así como estructuras orgánicas correspondientes, con los siguientes anexos: Marco Jurídico Administrativo; Libros de juntas, acuerdos o actas; Estructura Orgánica; y Manuales Administrativos.
+###### ARTICULO 373.
 
-IV.- Recursos Financieros.- Estados financieros, cuentas bancarias, inversiones, cuentas por cobrar y por pagar, documentación comprobatoria de ingresos y egresos, fideicomisos, conciliaciones bancarias y de más información relativa a fondos;
-
-V.- Recursos Humanos.- Plantillas autorizadas y relación de personal que incluya clasificación y situación laboral de cada empleado;
-
-VI.- Recursos Materiales.- Detalle de mobiliario y equipo, vehículos, maquinaria, herramientas, utensilios, sistemas de cómputo, sellos oficiales, inventario en almacenes, libros, manuales y demás información relativa;
-
-VII.- Obras y Programas.- Relación de obras terminadas y en proceso, así como los programas de trabajo permanentes;
-
-VIII.- Asuntos Jurídicos.- Estado actual que guarda el trámite de amparos, juicios, acuerdos, contratos, convenios, formas oficiales numeradas y demás información relativa;
-
-IX.- Asuntos Generales.- Relación de expedientes, planos oficiales y actas en archivo, asuntos y proyectos en proceso, así como toda la información complementaria en relación a los asuntos de carácter general de la administración municipal, que por su naturaleza deba presentar cada dependencia u organismo descentralizado.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 382.
-
-Los Servidores Públicos involucrados en la ejecución de los trabajos de la Entrega-Recepción deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 383.
-
-El acto de Entrega-Recepción se llevará a cabo una vez terminada la ceremonia de toma de protesta del Ayuntamiento entrante, firmando el Acta Administrativa de Entrega-Recepción por el Ayuntamiento saliente y entrante:
+El acto de Entrega-Recepción se llevará a cabo una vez terminada la ceremonia de toma de protesta del Ayuntamiento entrante, firmando el Acta Administrativa de Entrega-Recepción las siguientes personas:
 
 I.- El Presidente Municipal saliente;
 
-II.- El Presidente Municipal entrante; y
+II.- El Presidente Municipal entrante;
 
-III.- El Sindico saliente y entrante;
+III.- Los síndicos saliente y entrante, y
 
-IV.- El Contralor entrante y saliente.
+IV.- Los contralores entrante y saliente.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 384], P.O. 12 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 384.
+###### ARTICULO 374.
 
-El Acta de Entrega-Recepción con sus Anexos se presentarán en un documento que será integrado en cuatro tantos para distribuirse de la siguiente forma:
+El Acta de Entrega-Recepción con sus anexos se integrará en cuatro tantos para distribuirse de la siguiente forma:
 
 I.- Presidente Municipal entrante;
 
 II.- Presidente Municipal saliente;
 
-III.- Contaduría Mayor de Hacienda; y
+III.- Órgano Superior de Fiscalización del Estado de Aguascalientes, y
 
 IV.- Contraloría Municipal.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 378], P.O. 12 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 385.
+###### ARTICULO 375.
+
+Corresponde a la Contraloría Municipal la coordinación de las acciones del Programa de Entrega-Recepción, así como la elaboración e implementación de los lineamientos, criterios y anexos mismos que deberán estar contenidos en el Manual de Entrega-Recepción, que especifique la forma, términos y alcances de la información que deberá proporcionarse, debiendo incluir los aspectos mínimos previstos en el presente Código.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 380], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 376.
+
+Dentro del Programa de Entrega-Recepción, la Contraloría Municipal establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por la propia Contraloría, el cual se instrumentará y operará mediante ensayos previos.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 370], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 377.
+
+Los servidores públicos de la Administración Pública Municipal de Pabellón de Arteaga, que sean titulares o responsables de una dependencia o entidad, están obligados a entregar sus unidades administrativas a quienes los sustituyan, mediante el proceso de entrega-recepción previsto en el presente capítulo.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 371], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 378.
+
+También están obligados a rendir informe los servidores que de acuerdo a la naturaleza de sus funciones le sea solicitado por el titular de su Dependencia, al separarse del empleo, cargo o comisión.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 372], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 379.
+
+El titular que entrega la dependencia a su cargo, deberá requisitar y suscribir el Acta Administrativa de entrega-recepción y estará obligado a hacer las aclaraciones posteriores que le sean requeridas en un plazo de 15 días hábiles a partir de la fecha de separación del cargo.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 373], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 380.
+
+Una vez firmada el acta y transcurridos los quince días señalados, el servidor público que concluye su cargo, no queda exento de las responsabilidades penales, civiles o administrativas en que hubiese incurrido durante el desempeño de su empleo, cargo o comisión.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 374], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 381.
+
+En caso de que el servidor público que deba recibir, aún no haya sido designado, el Presidente Municipal entrante nombrará al servidor público que celebrará la recepción del despacho, comunicando a la Controlaría Municipal tal designación.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 375], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 382.
+
+Si por causa imputable a la Administración saliente no hubiera entrega del despacho, el servidor público que debió recibir, será el responsable de que se levante el acta correspondiente, con asistencia de dos testigos, donde se anote el estado en que se encuentran los asuntos y recursos del funcionario saliente, haciéndolo del conocimiento de su jefe inmediato y de la contraloría Municipal, a efecto de que se ejecuten las acciones correspondientes a la aplicación de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 379], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 383.
+
+Cuando el servidor público saliente no efectué la entrega prevista en el presente capítulo, será requerido por la Contraloría Municipal, para que en un término de 10 días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 385], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 384.
 
 Una vez oficializados los nombramientos de los titulares entrantes a nivel de organismo descentralizado, secretarios y directores que sean removidos, se separen del cargo o se haya expedido un nombramiento a favor de otra persona, excepto los funcionarios cuyo nombramiento y remoción requiera la aprobación del Ayuntamiento, o consejo directivo, se harán acompañar del titular saliente y de un testigo cada uno y se trasladarán a sus respectivas oficinas para firmar el acta administrativa correspondiente a la entrega-recepción de los asuntos y recursos de esta dependencia u organismo descentralizado ante la presencia de un representante de la Contraloría Municipal o de la persona que esta última designe.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 382], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 385.
+
+Los servidores públicos involucrados en la ejecución de los trabajos de la entrega-recepción deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 386.
 
 En relación a los hechos que sucedan después de la entrega recepción y/o la fecha de corte de información, se deberá elaborar un acta circunstanciada en la que se detalle la situación de los asuntos y aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales que hayan presentado movimientos, en presencia de los servidores públicos entrantes y salientes, dos testigos y la representación de la Contraloría Municipal.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 392], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 387.
 
-Una vez reconocido legal y definitivamente por la autoridad electoral competente, el Presidente Municipal electo constituirá una comisión de enlace, en coordinación con el Presidente Municipal saliente, quien a su vez designará la Comisión correspondiente, preparen la transferencia de información sobre el estado que guardan los asuntos y aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales sin que esto implique la entrega de documentación alguna.
+Los titulares de las unidades administrativas serán responsables en el ámbito de su competencia de la información contenida en la documentación que integre la entrega-recepción y de llevar a cabo la planeación y organización de este proceso.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 393], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 388.
 
-Dentro de los tres días hábiles siguientes a su formación las comisiones de enlace establecerán el procedimiento adecuado para realizar el proceso de preparación para la transferencia de información en forma ordenada.
+Si durante el acto de entrega-recepción resultaren hechos que pudiesen constituir irregularidades, se harán constar en acta por separado, que será incluida como anexo del acta de la unidad administrativa de que se trate, quedando a juicio de la Contraloría Municipal, la valoración de los hechos y la determinación de responsabilidades de los servidores públicos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 394], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 389.
 
-Todos los titulares de las dependencias y organismos descentralizados estarán obligados a brindar la información correspondiente una vez que el Presidente Municipal en funciones les dé a conocer los nombres de las personas integrantes de la comisión de enlace entrante referida en el artículo anterior.
+La entrega de los asuntos a cargo del servidor público que concluye, no lo exime de las responsabilidades civiles, administrativas, penales laborales y las que se deriven, conforme a las disposiciones legales respectivas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 395], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 390.
 
-La Comisión de Enlace por parte de la administración entrante deberá tomar conocimiento de la situación que guarda la administración municipal, desarrollo y cumplimiento de los programas, obras y proyectos; de tal manera que al momento de concretarse la sustitución en la titularidad de los puestos, se continué la marcha normal de la administración pública municipal.
+Cada titular sólo implementará un acta administrativa de entrega-recepción a la cual acompañará los anexos formulados para el efecto, clasificados por la dirección o nivel equivalente, manteniendo en cada dirección copia que incluya la información de la entrega.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 396], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 391.
 
-La Contraloría Municipal vigilará el cumplimiento de las disposiciones a que se refiere este Código y queda facultada para interpretar el mismo para efectos administrativos, así como para dictar las disposiciones que se requieran para su adecuada aplicación y cumplimiento.
+En la entrega de la Comisión de Agua Potable y Alcantarillado, dado su carácter de organismo público descentralizado, participará su Consejo Directivo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 387], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 392.
 
-Los titulares de las unidades administrativas serán responsables en el ámbito de su competencia de la información contenida en la documentación que integre la entrega-recepción y de llevar a cabo la planeación y organización de este proceso.
+Una vez reconocido legal y definitivamente por la autoridad electoral competente, el Presidente Municipal electo constituirá una comisión de enlace, en coordinación con el Presidente Municipal saliente, quien a su vez designará la comisión correspondiente para preparar la transferencia de información sobre el estado que guardan los asuntos y aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales sin que esto implique la entrega de documentación alguna.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 388], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 393.
 
-Si durante el acto de entrega-recepción resultaren hechos que pudiesen constituir irregularidades, se harán constar en acta por separado, que será incluida como anexo del acta de la unidad administrativa de que se trate, quedando a juicio de la Contraloría Municipal, la valoración de los hechos y la determinación de responsabilidades de los servidores públicos.
+Dentro de los tres días hábiles siguientes a su formación las comisiones de enlace establecerán el procedimiento adecuado para realizar el proceso de preparación para la transferencia de información en forma ordenada.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 389], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 394.
 
-La entrega de los asuntos a cargo del servidor público que concluye, no lo exime de las responsabilidades civiles, administrativas, penales laborales y las que se deriven, conforme a las disposiciones legales respectivas.
+Todos los titulares de las dependencias y entidades estarán obligados a brindar la información correspondiente una vez que el Presidente Municipal en funciones les dé a conocer los nombres de las personas integrantes de la comisión de enlace entrante, referida en los artículos anteriores.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 390], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 395.
 
-Cada titular sólo implementará un acta administrativa de entrega-recepción a la cual acompañará los anexos formulados para el efecto, clasificados por la dirección o nivel equivalente, manteniendo en cada dirección copia que incluya la información de la entrega.
+La Comisión de Enlace por parte de la administración entrante deberá tomar conocimiento de la situación que guarda la administración municipal, el desarrollo y cumplimiento de los programas, obras y proyectos; de tal manera que al momento de concretarse la sustitución en la titularidad de los puestos, se continué la marcha normal de la administración pública municipal.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 398], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 396.
 
-En la entrega de la Comisión de Agua Potable y Alcantarillado, dado su carácter de organismo público descentralizado, participará su Consejo Directivo.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 397.
-
-El documento de entrega-recepción deberá contener:
-
-I.- Acta Administrativa;
-
-II.- La estructura orgánica de la dependencia hasta el nivel jerárquico de departamento; y
-
-III.- Una relación que señale el marco jurídico de actuación de la dependencia o entidad.
-
-IV.- Formas debidamente requisitadas.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 398.
-
 Para los gastos preoperativos de la nueva administración municipal, se le deberá entregar al presidente municipal electo una partida especial que deberá establecerse en el presupuesto de egresos del último año de la administración. La partida, así como su manejo y entrega se deberá ceñir a las siguientes reglas:
 
-I.- La cantidad asignada será entregada en tres partes a más tardar en las siguientes fechas, la primera el día veinte de septiembre, la segunda el veinte de octubre y la tercera el treinta de noviembre;
+I.- La cantidad asignada será entregada en tres partes a más tardar en las siguientes fechas, la primera el día primero de agosto, la segunda el primero de septiembre y la tercera el primero de octubre;
 
-II.- El presidente municipal electo deberá firmar de recibido de las cantidades que se le entreguen; y
+II.- El presidente municipal electo deberá firmar de recibido de las cantidades que se le entreguen, y
 
 III.- Para amparar la cantidad otorgada, se deberá acompañar a cada abono una póliza de cheque, así como los requisitos fiscales señalados por la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 399], P.O. 12 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 399.
+###### ARTICULO 397.
 
 Las partidas entregadas por concepto de gastos preoperativos sólo deberán utilizarse para aquellos gastos estrictamente indispensables para preparación de la recepción de la administración municipal; cualquier cantidad que no sea utilizada deberá regresarse al erario municipal, y los bienes muebles que sean adquiridos deberán ser entregados al Municipio para que pasen a formar parte de su patrimonio.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 400], P.O. 12 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 400.
+###### ARTICULO 398.
 
 Si la documentación señalada no reúne los requisitos anotados, queda cargada a la cuenta personal de deudores diversos del presidente municipal electo, y será en todo caso su responsabilidad aclarar lo relativo al saldo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 401], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 399.
+
+Una vez recibida la documentación que ampara los gastos realizados, la misma será revisada e integrada a la cuenta que corresponda.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 391], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 400.
+
+La Contraloría Municipal vigilará el cumplimiento de las disposiciones a que se refiere este Código y queda facultada para interpretar el mismo para efectos administrativos, así como para dictar las disposiciones que se requieran para su adecuada aplicación y cumplimiento.
 
 ###### ARTICULO 401.
 
-Una vez recibida la documentación que ampara los gastos realizados, la misma será revisada e integrada a la cuenta que corresponda.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2020)
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -29122,6 +29114,14 @@ SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipa
 P.O. 18 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS".]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS".]
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
