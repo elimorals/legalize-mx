@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2019-11-11"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -864,6 +864,12 @@ D.- Por enfermedad de sus hijos, cuando por esta razón no sean admitidos en la 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2019)</small>
 
 Todos los supuestos a que se refiere esta Fracción deberán ser acreditados a través de los medios razonables e idóneos.
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+XII.- Conceder permiso a sus trabajadores, mujeres y hombres, consistente en un día al año, con goce integro de su salario, sin afectar sus derechos y antigüedad, para someterse a la realización de exámenes médicos de prevención y detección de cáncer de mama y cervicouterino, a las mujeres; y, de prevención y detección de cáncer de próstata a los hombres.
+
+En ambos casos, deberán justificar este permiso, presentando el certificado médico correspondiente expedido por una institución pública de salud.
 
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2000)</small>
 
@@ -2166,3 +2172,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las autoridades de los tres poderes del Estado, los Organismos Constitucionalmente Autónomos y los Ayuntamientos tendrán un plazo de sesenta días naturales para reformar sus reglamentos internos en lo que contradiga a la presente reforma.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 401.- ADICIÓN AL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
