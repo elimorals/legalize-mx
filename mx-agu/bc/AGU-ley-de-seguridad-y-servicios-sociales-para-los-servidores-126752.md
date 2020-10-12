@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2018-09-03"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -2023,6 +2023,10 @@ El servicio de guardería y pre escolar será otorgado por la Estancia de Bienes
 
 Tanto en el caso de las Estancias de Bienestar Infantil, como en el de las Subrogadas, el Instituto será responsable de asegurar la adecuada atención de los menores, así como de velar el pleno cumplimiento de la presente Ley y el respectivo programa de trabajo.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+Dicho servicio será proporcionado a los infantes desde la edad de cuarenta y tres días, o en su defecto, desde el día siguiente al que concluya el periodo de descanso de maternidad de la mujer servidora pública, previsto en el artículo 58 bis del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
+
 ###### Artículo 183.
 
 Se considerarán servicios de Guardería y Pre escolar, aquellos que se imparten en la Estancia de Bienestar Infantil y Subrogados, consistentes en la guarda, custodia, aseo, alimentación y educación de los menores que asistan a ellos, con la finalidad de que sus progenitores o tutores puedan laborar dentro de su turno correspondiente, con sujeción a los horarios establecidos administrativamente por el Instituto para otorgar el servicio.
@@ -2590,3 +2594,13 @@ Se Derogan todas las disposiciones legales, reglamentarias y administrativas que
 ###### ARTÍCULO TERCERO.
 
 Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas y administrativas correspondientes.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 400.- ADICIONES A LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Los Poderes Ejecutivo y Judicial, así como los Órganos Constitucionales Autónomos en nuestro Estado, deberá (sic) adecuar sus disposiciones reglamentarias a efecto de ajustarlos al contenido del presente Decreto, en un plazo no mayor a noventa días de su entrada en vigor.
+
+TERCERO.- Una vez iniciada la vigencia de la presente reforma, el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, llevará a cabo las acciones conducentes para que la Estancia de Bienestar Infantil y las estancias Subrogadas, reciban a los niños y niñas, a partir de la edad estipulada en el presente Decreto.
