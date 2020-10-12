@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-territorio-de-la-ciudad-de-mexico-140465"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-27"
 
 LEY DEL TERRITORIO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE OCTUBRE DE 2020.
 
 Ley publicada en el número 251 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 30 de diciembre de 2019.
 
@@ -397,6 +397,10 @@ III. De la Secretaría de Administración y Finanzas:
 a) La Subtesorería de Catastro y Padrón Territorial de la Tesorería de la Ciudad de México; y
 
 IV. Del Instituto de Planeación.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2020)</small>
+
+Cuando la materia técnica de opinión o dictaminación verse sobre la propiedad social de la tierra en la Ciudad de México, el Órgano al que se refiere el presente artículo podrá solicitar la asistencia técnica del Registro Agrario Nacional, promoviendo una estrecha coordinación con el mismo en los temas de su competencia de conformidad con la legislación aplicable.
 
 ###### Artículo 21.
 
@@ -947,3 +951,13 @@ SÉPTIMO. La Jefatura de Gobierno expedirá el reglamento de la Comisión de Lí
 Palacio Legislativo del Congreso de la Ciudad de México, a los once días del mes de diciembre del año dos mil diecinueve. POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD ÁVILA VENTURA, SECRETARIA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintisiete días del mes de diciembre del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTÍZ QUINTERO.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE APRUEBAN CON MODIFICACIONES LA INICIATIVA MATERIA DEL PRESENTE DICTAMEN, ADICIONANDO UN PÁRRAFO SEGUNDO AL ARTÍCULO 20 DE LA LEY DEL TERRITORIO DE LA CIUDAD DE MÉXICO"]
+
+PRIMERO. Remítase a la Jefatura de Gobierno de la Ciudad de México, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
