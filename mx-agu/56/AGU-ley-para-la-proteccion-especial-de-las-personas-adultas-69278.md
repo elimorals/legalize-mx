@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2020-05-18"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -917,6 +917,10 @@ Todas las instituciones públicas, privadas y sociales que presten asistencia a 
 
 Así mismo, deberán implementarse mecanismos que, durante el tiempo de espera, garanticen su descanso como: sillas, bancas, sillones; así como mecanismos para la atención inmediata, como ventanillas o filas especiales, que deberán estar adecuadamente señalados para su fácil identificación.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+Las instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier otro centro de atención a las personas adultas mayores, deberán ajustar su funcionamiento a lo dispuesto por las Normas Oficiales Mexicanas y los reglamentos que se expidan para este efecto.
+
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
 
 ARTÍCULO 38 A.- La atención preferencial, es un beneficio que sólo podrá otorgarse para realizar trámites personales. Es intransferible, y las personas adultas mayores deberán presentar una identificación oficial vigente.
@@ -1178,3 +1182,11 @@ P.O. 18 DE MAYO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 406.- ADICIÓN A LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
