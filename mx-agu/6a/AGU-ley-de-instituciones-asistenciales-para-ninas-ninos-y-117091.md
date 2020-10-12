@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-instituciones-asistenciales-para-ninas-ninos-y-117091"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2016-11-07"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
-Ley publicada en la Primera Sección del Periódico Oficial al Número 45, el lunes 7 de noviembre de 2016.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
 CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
 
@@ -59,7 +59,9 @@ b) La Secretaría de Salud;
 
 c) El Instituto de Educación de Aguascalientes;
 
-d) La Secretaría de Bienestar y Desarrollo Social;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+d) La Secretaría de Desarrollo Social;
 
 e) La Secretaría de Seguridad Pública;
 
@@ -149,23 +151,37 @@ II. Un Secretario Ejecutivo, que será un representante de la Secretaría Genera
 
 III. Un Secretario Técnico, que será el Titular de la Procuraduría, quien se encargará de dar seguimiento a los acuerdos tomados al interior del Comité, contando con derecho a voz, pero no a voto en las sesiones; y
 
-IV. Ocho Vocales, que serán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+IV. Nueve Vocales, que serán:
 
 a) Un representante de la Secretaría de Salud;
 
 b) Un representante del Instituto de Educación de Aguascalientes;
 
-c) Un representante de la Secretaría de Bienestar y Desarrollo Social;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+c) Un representante de la Secretaría de Desarrollo Social;
 
 d) Un representante de la Secretaria de Seguridad Publica;
 
 e) Un representante del Supremo Tribunal de Justicia del Estado;
 
-f) Un representante de la Fiscalía General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
 
-g) Un representante de la Comisión Estatal de Derechos Humanos; y
+f) Un representante de la Fiscalía General del Estado;
 
-h) Un representante de Casas Asistenciales privadas o de Beneficencia Privada que cuenten con licencia de operación vigente en el Estado, nombrado por mayoría de estos.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+g) Un representante de la Comisión de Derechos Humanos del Estado;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+h) Un representante de Casas Asistenciales privadas o de Beneficencia Privada que cuenten con licencia de operación vigente en el Estado, nombrado por mayoría de estos; y
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+i) Un representante de la Comisión de Familia y Derechos de la Niñez del Poder Legislativo del Estado de Aguascalientes.
 
 Los integrantes del Comité deberán nombrar por escrito a sus respectivos suplentes, quienes actuarán en su ausencia, con los mismos derechos y obligaciones que los titulares.
 
@@ -245,6 +261,10 @@ V. Promover el restablecimiento y la preservación de los vínculos familiares d
 
 VI. Contar con las instalaciones y el personal adecuado para garantizar la seguridad integral de las niñas, niños y adolescentes ingresados;
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+En el caso de que la Institución reciba niñas, niños y adolescentes con alguna discapacidad, sus espacios físicos deberán cumplir con las especificaciones técnicas que garanticen su derecho a la accesibilidad;
+
 VII. Tener en un lugar visible en la recepción de las instalaciones de la Institución Asistencial, copia del documento que acredite la licencia y la certificación vigente expedida por la Procuraduría;
 
 VIII. Contar con un Reglamento Interno, autorizado por la Procuraduría;
@@ -267,9 +287,17 @@ XVI. Solicitar y en su caso obtener de la autoridad judicial competente la autor
 
 De igual manera, se observará el mismo trámite referido en el párrafo anterior cuando el motivo del traslado de la niña, niño o adolescente sea el cambio de domicilio o residencia del menor, ya sea dentro o fuera de la entidad. En todos los supuestos contemplados en esta fracción se deberá remitir en un plazo no mayor de tres días hábiles, copia de la solicitud y de la resolución respectiva a la Procuraduría;
 
-XVII. Cumplir con las observaciones que le imponga la Procuraduría; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2020)</small>
 
-XVIII. Las demás obligaciones que éste u otros ordenamientos legales les establezcan.
+XVII. Cumplir con las observaciones que le imponga la Procuraduría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+XVIII. Contar con programas de sensibilización, capacitación y actualización, dirigidos a su personal médico y administrativo, para la atención de las niñas, niños y adolescentes con discapacidad, mismos que deberán cumplir con lo especificado en las Normas Oficiales Mexicanas en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+XIX. Las demás obligaciones que éste u otros ordenamientos legales les establezcan.
 
 ###### Artículo 15.
 
@@ -333,7 +361,9 @@ III. Copia de la licencia de uso de suelo de sus instalaciones;
 
 IV. Copia del registro de niñas, niños y adolescentes ingresados, en su caso;
 
-V. Presentar sus programas de promoción para la integración familiar, formación, educación, recreación, cultura y deporte de las niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+V. Presentar sus programas de promoción para la integración familiar, formación, educación, recreación, cultura, deporte, y en su caso de atención integral y especializada en discapacidad de las niñas, niños y adolescentes;
 
 VI. Permitir las inspecciones necesarias por parte del personal de la Procuraduría en conjunto con las autoridades coadyuvantes que para tal efecto determine, con la finalidad de verificar que las instalaciones sean las adecuadas para el modelo de atención de las niñas, niños y adolescentes, así como las condiciones generales sobre infraestructura, personal, población e higiene, debiendo solventarlas satisfactoriamente;
 
@@ -353,9 +383,11 @@ La certificación de la licencia establecida en este capítulo, deberá de renov
 
 ### CAPÍTULO PRIMERO. De las Instalaciones
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-Los inmuebles que sean destinados como establecimientos de las Instituciones Asistenciales para niñas, niños y adolescentes deberán contar con los servicios indispensables para proporcionar a los ingresados el bienestar, la comodidad, seguridad e higiene necesarias conforme a su edad.
+Los inmuebles que sean destinados como establecimientos de las Instituciones Asistenciales para niñas, niños y adolescentes deberán contar con los servicios indispensables para proporcionar a los ingresados el bienestar, la comodidad, seguridad e higiene necesarias conforme a su edad o en su caso discapacidad.
 
 ###### Artículo 22.
 
@@ -465,9 +497,11 @@ Las niñas, niños y adolescentes ingresados a las Instituciones Asistenciales d
 
 Los directores, responsables o encargados de las Instituciones Asistenciales deberán realizar los trámites de inscripción y regularización de sus estudios en los planteles educativos que les asignen. La Procuraduría, en coordinación con las áreas correspondientes del Instituto de Educación del Estado se encargará de verificar el cumplimiento a esta disposición.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 39.
 
-Cuando algún niño, niña o adolescente deba recibir educación especial, los directores de las Instituciones Asistenciales, y la Procuraduría en coadyuvancia, deberán tomar las medidas necesarias para que el menor sea inscrito en una escuela que brinde la educación especial requerida.
+Cuando algún niño, niña o adolescente deba recibir educación especial, ya sea por alguna discapacidad y/o aptitudes sobresalientes, de acuerdo a sus condiciones, necesidades, intereses y potencialidades, los directores de las Instituciones Asistenciales, y la Procuraduría en coadyuvancia, deberán tomar las medidas necesarias para que el menor sea inscrito en una escuela que brinde la educación especial requerida.
 
 ## TÍTULO SÉPTIMO. DE LA INSPECCIÓN Y VIGILANCIA DE LAS INSTITUCIONES ASISTENCIALES
 
@@ -610,3 +644,21 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETRIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 3 de noviembre de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 398.- REFORMA A LA LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 399.- REFORMA A LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
