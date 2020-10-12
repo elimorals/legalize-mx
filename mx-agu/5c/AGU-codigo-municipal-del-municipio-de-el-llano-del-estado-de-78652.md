@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2019-07-08"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -425,7 +425,9 @@ La violación de los derechos y el incumplimiento de cualquiera de las obligacio
 
 El Honorable Ayuntamiento es el órgano colegiado de Gobierno del Municipio de el Llano, y se integrará por un Presidente Municipal, y los síndicos y regidores que establezcan la Constitución Local y la Ley Municipal, y será conformado conforme las disposiciones electorales.
 
-Durarán en su encargo tres años y tomarán posesión el día primero de enero del año siguiente en que se realice la elección.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+El Presidente Municipal, Regidores y Síndico (sic) integran el H. Ayuntamiento del Municipio de El Llano, Aguascalientes, duraran en su cargo tres años, o los que establezcan la constitución local y las disposiciones electorales, salvo el caso de que uno, varios o la totalidad de sus integrantes, sean elegidos para un periodo más, entrando en funciones el día señalado en la ley que en materia municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado; son los encargados de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios del Municipio de El Llano, Aguascalientes.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -675,7 +677,9 @@ XIX. Celebrar a nombre del Ayuntamiento todos los convenios, contratos y actos n
 
 XX. Expedir a la Dirección de Administración y Finanzas las órdenes de pago conforme al Presupuesto de Egresos aprobado para el ejercicio fiscal del año en que se actúe; firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios si autorizasen algún gasto no previsto en dicho presupuesto;
 
-XXI. Informar anualmente al Ayuntamiento, al término del ejercicio fiscal, del estado que guarda la Administración Pública Municipal y de las actividades realizadas;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+XXI. Informar anualmente al Ayuntamiento, en Sesión Cabildo a celebrarse a más tardar el día catorce de octubre de cada año, del estado que guarda la Administración Pública Municipal y de las actividades realizadas.
 
 XXII. Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes; y
 
@@ -823,11 +827,17 @@ XXIV. Las demás que expresamente le otorgue el Presente Código, demás leyes y
 
 ### CAPÍTULO I. Del Procedimiento y Protocolo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 49.
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal, los Regidores y Síndico, tanto del Ayuntamiento en funciones como del electo, se reunirán el día 31 de diciembre del año de la elección, en el lugar y hora que determine el H. Ayuntamiento en funciones.
+Para la instalación y toma de protesta constitucional del H. Ayuntamiento el Presidente Municipal los Regidores y Síndicos tanto del H. Ayuntamiento en funciones como el electo, se reunirán dentro de las setenta y dos horas anteriores al inicio del periodo constitucional del día 15 de Octubre, en el lugar y la hora que determine el H. Ayuntamiento en funciones, en Sesión Solemne.
 
 A esta sesión solemne de instalación, se invitará de manera formal y personal al Gobernador del Estado de Aguascalientes, al Presidente de la Mesa Directiva del Honorable Congreso del Estado de Aguascalientes y al Presidente del Supremo Tribunal de Justicia del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+La toma de protesta surtirá efectos a partir de la primera hora del día 15 de Octubre
 
 ###### ARTÍCULO 50.
 
@@ -855,7 +865,9 @@ Acto seguido, el Presidente Municipal electo dirá: "SI ASI NO LO HICIERE QUE EL
 
 VII. Acto continuo el Presidente Municipal electo hará la declaración de instalación en los términos siguientes:
 
-"EL H. AYUNTAMIENTO DEL MUNICIPIO DE EL LLANO SE DECLARA LEGALMENTE INSTALADO PARA EL PERÍODO CONSTITUCIONAL DEL 1° DE ENERO DEL AÑO… AL 31 DE DICIEMBRE DEL AÑO… ";
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+EL H. AYUNTAMIENTO DEL MUNICIPIO DE EL LLANO SE DECLARA CONSTITUIDO PARA EL PERIODO CONSTITUCIONAL DEL 15 DE OCTUBRE DE ... AL 14 OCTUBRE DE... (deberá citar los años en los cuales se ostentará como gobierno)";
 
 VIII. El Presidente Municipal Electo dará a conocer los lineamientos generales del Programa de Gobierno de su Administración Pública Municipal;
 
@@ -17018,3 +17030,19 @@ P.O. 8 DE JULIO DE 2019.
 ###### ARTICULO ÚNICO.
 
 Las presentes Reformas a las Facultades de la Contraloría Municipal entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE EL LLANO, AGS.".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los (sic) dispuesto en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de El Llano, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
