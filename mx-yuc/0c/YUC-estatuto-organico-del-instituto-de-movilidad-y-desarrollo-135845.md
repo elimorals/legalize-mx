@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-movilidad-y-desarrollo-13584
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-04-25"
-last_updated: "2020-07-07"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Estatuto publicado en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el jueves 25 de abril de 2019.
 
@@ -102,6 +102,10 @@ g) Dirección de Desarrollo Urbano y Territorial.
 > <small>(ADICIONADO, D.O. 7 DE JULIO DE 2020)</small>
 
 h) Dirección de Procesos de Transporte.
+
+> <small>(ADICIONADO, D.O. 12 DE OCTUBRE DE 2020)</small>
+
+i) Dirección de Movilidad.
 
 ### Capítulo III. Funcionamiento del instituto
 
@@ -639,6 +643,42 @@ XIII. Las demás que le confiera el Director General o establezcan este estatuto
 
 En el ejercicio de sus facultades y obligaciones, el Director de Procesos de Transporte deberá sujetarse a las instrucciones e indicaciones que emita el Director de Transporte.
 
+> <small>(ADICIONADO, D.O. 12 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 31 Quinquies.
+
+Facultades y obligaciones del director de Movilidad
+
+El director de Movilidad tendrá las siguientes facultades y obligaciones:
+
+I. Identificar y analizar la problemática de movilidad en el estado, y plantear propuestas para su atención.
+
+II. Fomentar el desarrollo de estudios e investigaciones que permitan conocer las condiciones de movilidad del estado, principalmente, su problemática y las medidas para su atención.
+
+III. Recopilar y sistematizar información en materia de movilidad, para su análisis y procesamiento.
+
+IV. Definir, con base en estándares nacionales e internacionales, los mecanismos e indicadores con que se habrán de monitorear y evaluar las condiciones de movilidad del estado.
+
+V. Diseñar y, en su caso, implementar políticas públicas, programas y proyectos que permitan mejorar las condiciones de movilidad del estado.
+
+VI. Coordinar el diseño y la implementación de un programa estatal de movilidad urbana.
+
+VII. Proponer y, en su caso, vigilar la aplicación de los lineamientos y criterios que deberán observarse en la ejecución de cualquier obra o proyecto que afecte o pudiera afectar las condiciones de movilidad del estado, así como en materia de diseño y seguridad viales.
+
+VIII. Participar en la elaboración o revisión de proyectos legislativos o normativos en materia de movilidad.
+
+IX. Ejecutar las acciones necesarias para acceder a los recursos de los fondos destinados para proyectos en materia de movilidad.
+
+X. Coordinar el desarrollo de programas, campañas de difusión, cursos de capacitación y eventos que promuevan la movilidad y la educación vial.
+
+XI. Fomentar la interacción de los sectores público, privado y social en el diseño, implementación y evaluación de políticas públicas, programas, estrategias y acciones en materia de movilidad.
+
+XII. Dirigir la creación de observatorios urbanos y apoyar su funcionamiento.
+
+XIII. Las demás que le confiera el Director General o establezcan este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+En el ejercicio de sus facultades y obligaciones, el director de Movilidad deberá sujetarse a las instrucciones e indicaciones que emita el director de Movilidad, Desarrollo Urbano Sustentable y Territorial.
+
 ###### Artículo 32.
 
 Consejo Consultivo de Movilidad y Desarrollo Urbano Territorial
@@ -716,3 +756,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El Director General del Instituto de Movilidad y Desarrollo Urbano Territorial, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá inscribir en el Registro de Entidades Paraestatales las modificaciones efectuadas por este acuerdo en el Estatuto orgánico del Instituto de Movilidad y Desarrollo Urbano Territorial.
+
+D.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IMDUT 04/2020 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto de Movilidad y Desarrollo Urbano Territorial, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá inscribir en el Registro de Entidades Paraestatales las modificaciones efectuadas por este acuerdo al Estatuto orgánico del Instituto de Movilidad y Desarrollo Urbano Territorial.
