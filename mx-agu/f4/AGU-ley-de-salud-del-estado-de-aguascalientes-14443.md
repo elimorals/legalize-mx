@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2020-10-05"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -417,17 +419,17 @@ e).- El control sanitario de los establecimientos dedicados al proceso de los pr
 
 f).- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere la Ley General de Salud;
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 g).- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos;
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE OCTUBRE DE 2020)</small>
 
 h).- La sanidad internacional; y
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE OCTUBRE DE 2020)</small>
 
-i).- La prestación de los servicios de salud, medicamentos y demás insumos asociados para personas sin seguridad social.
+i).- Alinear los programas estatales con la política pública en materia de atención y protección a personas con la condición del espectro autista, y alcanzar una efectiva transversalidad de las políticas públicas; en términos de la Ley General para la Atención y Protección a Personas con la Condición de Espectro Autista;
 
 IV.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general siguientes:
 
@@ -493,9 +495,13 @@ u).- Publicar anualmente en el Periódico Oficial del Estado la relación de pro
 
 v).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal y la diabetes;
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
 
-w).- La atención temprana tanto quirúrgica como rehabilitación para personas con malformaciones congénitas como labio leporino y paladar hendido, sindactilia y polidactilia.
+w).- La atención temprana tanto quirúrgica como rehabilitación para personas con malformaciones congénitas como labio leporino y paladar hendido, sindactilia y polidactilia; y
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+x).- La orientación, prevención, detección, estimulación temprana, atención integral o especializada, así como tratamiento de carácter progresivo en sus derechos, de las personas con la condición del espectro autista;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -504,6 +510,10 @@ V.- Coadyuvar con la autoridad competente para:
 a).- Fomentar la no discriminación ni conculcación de derechos, libertades o dignidad de las personas con motivo de sus caracteres genéticos;
 
 b).- Salvaguardar en términos de la normatividad aplicable, la confidencialidad de los datos genéticos de todo grupo o individuo, obtenidos o conservados con fines de diagnóstico, prevención, investigación, terapéuticos o para cualquier propósito, salvo en los casos que exista orden judicial; y
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+c).- Para el establecimiento de programas estatales que resulten en políticas públicas progresivas en materia de atención y protección a personas con la condición del espectro autista, en términos de lo previsto por la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.
 
 > <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -3894,3 +3904,11 @@ P.O. 5 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 405.- REFORMAS Y ADICIONES A LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
