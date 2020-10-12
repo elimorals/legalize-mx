@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2020-10-02"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -1017,7 +1017,9 @@ Para operar los prestadores de servicios turísticos, deberán cumplir con los e
 
 Los prestadores de servicios turísticos, tendrán los siguientes derechos:
 
-I.- Ser considerados en las estrategias de relaciones públicas, difusión y promoción turística de la Secretaría y de los Municipios, tanto en el ámbito nacional como internacional;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+I.- Ser considerados en las estrategias, programas y acciones de relaciones públicas, difusión, promoción, desarrollo, y en su caso, reactivación turística de la Secretaría y de los Municipios, tanto en el ámbito nacional como internacional;
 
 II.- Participar en el Consejo Consultivo de Turismo de conformidad con las reglas de organización del mismo;
 
@@ -1300,5 +1302,13 @@ P.O. 2 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VIII TER DEL TÍTULO SEGUNDO, ASÍ COMO LOS ARTÍCULOS 3 FRACCIÓN XX, 41 QUINQUIES Y 41 SEXIES DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 81 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
