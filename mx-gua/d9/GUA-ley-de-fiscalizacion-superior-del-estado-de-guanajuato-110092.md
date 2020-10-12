@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-110092"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-25"
-last_updated: "2017-12-18"
+last_updated: "2020-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
 
 Ley publicada en la Décima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2015.
 
@@ -191,11 +191,27 @@ Las personas a que se refiere este artículo, tendrán el carácter de represent
 
 Uso de medios electrónicos y firma electrónica
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 15.
 
-La entrega de la cuenta pública, la información financiera trimestral y cualquier otra obligación a cargo de los sujetos de fiscalización, así como la interposición del recurso de reconsideración, podrán llevarse a cabo en lo conducente, a través de medios remotos de comunicación electrónica, en los términos establecidos en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, así como en los lineamientos que para tal efecto emita la Auditoría Superior.
+La entrega de la cuenta pública, la información financiera trimestral y cualquier otra obligación a cargo de los sujetos de fiscalización, así como la interposición del recurso de reconsideración, podrán llevarse a cabo en lo conducente, a través de medios digitales o electrónicos, en los términos establecidos en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, el Reglamento del Poder Legislativo del Estado de Guanajuato para el Uso de Medios electrónicos y Firma Electrónica, así como en los lineamientos que para tal efecto emita la Auditoría Superior.
 
-El pliego de observaciones, los informes de resultados y cualquier otra notificación o comunicación a cargo de la Auditoría Superior se podrá llevar a cabo a través de medios electrónicos, en los términos señalados en el párrafo anterior.
+La Auditoría Superior facilitará, a los sujetos de fiscalización el acceso a los mecanismos o herramientas referidos en este artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+Actos de fiscalización a través de medios digitales o electrónicos
+
+###### Artículo 15 Bis.
+
+Se podrán realizar los actos de fiscalización, notificaciones y comunicaciones previstos en esta Ley, su Reglamento y normas complementarias, a través de medios electrónicos o digitales, mediante los mecanismos o herramientas que disponga la Auditoría Superior.
+
+Las disposiciones relativas a los actos de fiscalización presenciales serán aplicables, en lo conducente, a los realizados a través de medios digitales o electrónicos, en los términos establecidos en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, el Reglamento del Poder Legislativo del Estado de Guanajuato para el Uso de Medios electrónicos y Firma Electrónica, así como en los lineamientos que para tal efecto emita la Auditoría Superior.
+
+La Auditoría Superior facilitará, a los sujetos de fiscalización o particulares que deban intervenir en los actos de fiscalización, el acceso a los mecanismos o herramientas referidos en este artículo.
+
+Los actos de fiscalización, realizados en los términos precedentes, deberán conservarse electrónicamente y se proporcionará una copia de los mismos en archivo electrónico a quienes en ellos hayan intervenido, los que deberán guardar reserva sobre la información generada.
 
 ### Capítulo II. Programa General de Fiscalización
 
@@ -355,7 +371,27 @@ Plazo
 
 El proceso de revisión de cuenta pública y auditorías a cargo de la Auditoría Superior tendrá un plazo máximo de duración de seis meses. Dicho plazo se computará a partir de la fecha de notificación de su inicio al sujeto de fiscalización. Para los efectos de este plazo, el proceso concluirá con la entrega del informe de resultados al Congreso.
 
-El incumplimiento del plazo señalado en el párrafo anterior, solo tendrá como consecuencia una responsabilidad administrativa en su caso, sin perjuicio de que deba continuarse con el proceso de fiscalización hasta su total conclusión y de la validez del informe de resultados.
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+El Auditor Superior podrá suspender el plazo referido en el párrafo anterior, cuando se presenten circunstancias que alteren el orden social, la seguridad, la salud pública o cualquier otra que restrinja el ejercicio de las atribuciones de la Auditoría Superior.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE OCTUBRE DE 2020)</small>
+
+Dicha suspensión deberá formalizarse mediante acuerdo, estableciendo:
+
+I. Las razones que la sustentan;
+
+II. La fecha de inicio y conclusión de la misma, la cual no podrá exceder el plazo de seis meses, con la salvedad de poder renovarse en caso de prevalecer las circunstancias que le dieron origen; y
+
+III. El o los procesos de fiscalización a los que aplicará.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+El acuerdo de suspensión de plazos para que surta sus efectos deberá publicarse previamente en el Periódico Oficial del Gobierno del Estado de Guanajuato. Dicho acuerdo, además, se notificará al sujeto o sujetos de fiscalización que afecte y se informará al Órgano de Gobierno y a la Comisión.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+El incumplimiento del plazo señalado en el primer párrafo de este artículo, solo tendrá como consecuencia una responsabilidad administrativa en su caso, sin perjuicio de que deba continuarse con el proceso de fiscalización hasta su total conclusión y de la validez del informe de resultados.
 
 Alcance mínimo
 
@@ -412,6 +448,10 @@ El informe de resultados que se presente al Congreso, deberá contener, además 
 IV. El informe de resultados se notificará al sujeto de fiscalización, así como a los ex titulares, cuando el proceso de fiscalización corresponda al periodo de su gestión, quienes contarán con un término de cinco días hábiles, contado a partir del día hábil siguiente al de la citada notificación, para hacer valer el recurso de reconsideración previsto por esta ley, en caso de estimarlo pertinente;
 
 V. Agotado el plazo para presentar el recurso de reconsideración o resuelto éste, el Auditor Superior remitirá el informe de resultados al Congreso, a más tardar el 30 de octubre tratándose de la cuenta pública estatal, y a más tardar el 30 de noviembre respecto a la (sic) cuentas públicas municipales;
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+Ante la emisión del acuerdo de suspensión señalado en el artículo 35 de la presente Ley, el periodo que comprenda dicha suspensión será adicionado a las fechas para la remisión del informe de resultados al Congreso, establecidas en el párrafo anterior.
 
 VI. Emitido el acuerdo correspondiente por el Congreso, la Auditoría Superior notificará el mismo a quienes corresponda.
 
@@ -525,7 +565,9 @@ Medios de presentación
 
 Para la recepción de opiniones, solicitudes y quejas, la Auditoría Superior pondrá a disposición de la ciudadanía, entre otros mecanismos, un correo electrónico y número telefónico, mismos que deberán publicitarse en su página electrónica institucional.
 
-Presentación por escrito
+> <small>(REFORMADO ACÁPITE, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+Requisitos de las solicitudes, opiniones y quejas
 
 ###### Artículo 47.
 
@@ -538,6 +580,10 @@ II. Domicilio;
 III. Hechos y pruebas en que funde su solicitud o queja; y
 
 IV. Firma autógrafa del promovente.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+De contarse con datos que lo hagan posible, se dará a conocer al solicitante que la opinión, solicitud o queja podrá ser utilizada para la planeación de la fiscalización y la elaboración del Programa, así como para direccionar algún acto de fiscalización que se encuentre en proceso, de conformidad con lo dispuesto por el artículo 45 de esta Ley.
 
 ### Capítulo V. Recurso de Reconsideración
 
@@ -664,6 +710,10 @@ Plazo de informes de resultados de desempeño
 ###### Artículo 60.
 
 La Auditoría Superior, una vez emitidos los informes de resultados de las auditorías de desempeño, los remitirá al Congreso a más tardar el 30 de septiembre del ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+
+Ante la emisión del acuerdo de suspensión señalado en el artículo 35 de la presente Ley, el periodo que comprenda dicha suspensión será adicionado a la fecha para la remisión del informe de resultados al Congreso, establecida en el párrafo anterior.
 
 ### Capítulo VII. Análisis de la Información Financiera Trimestral
 
@@ -1248,3 +1298,11 @@ Asuntos civiles en trámite
 Artículo Tercero. El ejercicio de las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, que a la entrada en vigor del presente Decreto se encuentren pendientes de trámite o en desahogo por los sujetos de fiscalización o la Auditoría Superior del Estado de Guanajuato, les serán aplicables de manera retroactiva las disposiciones legales y reglamentarias relativas a la abstención del ejercicio de las acciones civiles y su dictaminarían (sic) contempladas por el artículo 70 de la Ley y demás complementarias del Reglamento de la misma, que se derogan con el presente Decreto.
 
 De igual manera, las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, cuya tramitación hubiere correspondido a la Auditoría Superior, una vez causada ejecutoria la sentencia respectiva, podrán ser ejecutados por los sujetos de fiscalización, siempre y cuando ello no actualice un conflicto de interés.
+
+P.O. 12 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 223, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO, Y SE DEROGA EL TERCER PÁRRAFO DEL ARTÍCULO 12 DEL REGLAMENTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La Auditoría Superior del estado de Guanajuato deberá adecuar su Reglamento Interior, así como sus manuales, lineamientos, guías y demás disposiciones administrativas al contenido del presente Decreto en un término de 90 días naturales, contado a partir de su entrada en vigor.
