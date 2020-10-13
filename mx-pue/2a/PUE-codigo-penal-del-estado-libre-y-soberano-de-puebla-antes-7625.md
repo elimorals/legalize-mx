@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2020-10-02"
+last_updated: "2020-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3897,9 +3897,9 @@ I.- De quince días a ocho meses de prisión o multa de cinco a veinte días de 
 
 II.- De seis meses a dos años de prisión y multa de diez a cincuenta días de salario, si la lesión tardare en sanar quince días o más.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2020)</small>
 
-En ambos supuestos, sólo se procederá contra el agresor por querella de la parte ofendida.
+En ambos supuestos, se procederá contra el agresor por querella de la parte ofendida y de oficio si las lesiones son inferidas durante una emergencia sanitaria, epidemia o pandemia a personas que se desempeñen en los servicios de salud; médicos, personal de enfermería, demás profesionales similares y auxiliares del sector salud, privado o público. En estos casos las sanciones previstas en las fracciones I y II se duplicarán.
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2009)</small>
 
@@ -4123,13 +4123,25 @@ La alevosía consiste en sorprender intencionalmente a alguien de improviso, o e
 
 Se dice que obra a traición, quien además de la alevosía emplea la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 330 Bis.
 
-Para los efectos del artículo 323 de este Código, existe odio cuando el agente lo comete por razón del origen étnico o nacional, raza, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas o cualquier otra que atente contra la dignidad humana, la libertad o la igualdad.
+Para los efectos del artículo 323 de este Código, existe odio cuando el agente lo comete por razón del origen étnico o nacional, raza, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas, trabajo, profesión o cualquier otra que atente contra la dignidad humana, la libertad o la igualdad.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2020)</small>
+
+Se considerará que existe odio cuando el delito sea cometido durante la vigencia de una declaratoria de emergencia sanitaría, en contra de médicos, cirujanos, personal de enfermería y demás profesionales similares y auxiliares, del sector privado o público del área de la salud, con motivo de sus funciones o en el desempeño de ellas.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 13 DE OCTUBRE DE 2020)</small>
 
 La existencia de cualquier otro móvil no excluye el odio; siempre se estará a lo que aparezca probado.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 330 Ter.
+
+También se entenderá que existe odio cuando el o los sujetos activos tengan por objeto causar una afectación en la persona o bienes del sujeto pasivo, en razón de la profesión o labor que este último desempeña.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
@@ -4251,6 +4263,8 @@ Se presumirá que hay tentativa de feminicidio cuando las lesiones dolosas previ
 
 #### SECCION PRIMERA.- ATAQUES PELIGROSOS
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 339.
 
 Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
@@ -4345,13 +4359,17 @@ CAPITULO DECIMOSEXTO.- DELITOS DE PELIGRO
 
 ###### Artículo 344.
 
-Se aplicará de tres días a dos años de prisión y multa de tres a treinta días de salario, al que ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o de la destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado lesiones o la muerte.
+Se aplicará de tres días a dos años de prisión y multa de tres a treinta veces el valor diario de la Unidad de Medida y Actualización, al que ataque a alguien de tal manera que, debido al arma empleada, de la fuerza o de la destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado lesiones o la muerte.
+
+En caso de que la conducta del agresor se ejecute durante la vigencia de la declaratoria de epidemia o emergencia sanitaria, y en contra de médicos, personal de enfermería y demás profesionales similares y auxiliares, del sector privado o público de salud, con motivo de sus funciones o en el desempeño de ellas. La sanción establecida en el párrafo anterior se aumentará en una mitad.
 
 ###### Artículo 345.
 
 Si a consecuencia de los actos a que se refiere el artículo anterior se causare algún daño, solamente se impondrán las sanciones del delito que resultare.
 
 #### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 346.
 
@@ -4399,7 +4417,7 @@ Si en los supuestos previstos por los artículos que forman esta sección, se ca
 
 #### SECCION SEGUNDA.- DISCRIMINACION
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 354 Bis.
 
@@ -4429,7 +4447,7 @@ CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR Y LA DIGNIDAD
 
 ###### Artículo 355.
 
-Se impondrá de tres meses a tres años de prisión y multa de cinco a cincuenta días de salario, al autor de golpes y violencias físicas, si el ofendido fuere ascendiente del ofensor.
+Se impondrán de tres meses a tres años de prisión y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, al autor de golpes y violencias físicas, si el ofendido fuere ascendiente del ofensor.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -4445,15 +4463,25 @@ Son simples los golpes y las violencias físicas que no causen lesión en el ofe
 
 ###### Artículo 357.
 
-Se aplicará prisión de uno a tres años y de cien a quinientos días de multa a todo aquél que, por razón del origen étnico o nacional, raza, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas o cualquier otra que atente contra la dignidad humana, la libertad o la igualdad:
+Se aplicarán prisión de uno a tres años y de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización de multa a todo aquél que, por razón del origen étnico o nacional, raza, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, apariencia física, estado civil, creencia religiosa, ideología política, trabajo o profesión, opiniones expresadas o cualquier otra que atente contra los derechos y la dignidad humana, la libertad o la igualdad:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2012)</small>
 
 I.- Provoque o incite al odio o a la violencia;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2012)</small>
+
 II.- Niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2012)</small>
 
 III.- Veje o excluya persona alguna o grupo de personas; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2012)</small>
+
 IV.- Niegue o restrinja derechos laborales de cualquier tipo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2012)</small>
 
 Al servidor público que por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en este numeral, además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
 
@@ -4469,9 +4497,17 @@ No serán consideradas discriminatorias todas aquellas medidas tendientes a la p
 
 Este delito se perseguirá por querella de la parte ofendida.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 357 Bis.
+
+A quien realice por si o inste a otros a realizar, actos discriminatorios mencionados en el artículo anterior, en contra de médicos, personal de enfermería, demás profesionales similares y auxiliares del sector salud, privado o público, durante una emergencia sanitaria declarada por autoridad competente, las penas se aumentarán hasta en una mitad más.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 358.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
+Las sanciones previstas en el artículo 357, se duplicarán en el caso de la fracción I, si el sujeto pasivo se encontrare prestando servicios de salud como médicos, personal de enfermería, demás profesionales similares y auxiliares del sector salud, privado o público, con motivo de alguna emergencia sanitaria, y su actividad o apariencia profesional fueran la causa.
 
 ###### Artículo 359.
 
@@ -6912,6 +6948,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 198 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 306, EL PRIMER PÁRRAFO DEL 330 BIS, EL 344, EL PRIMER PÁRRAFO DEL 355, EL PRIMER PÁRRAFO DEL 357, Y EL 358; Y ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL 330 BIS, EL 330 TER, Y EL 357 BIS; TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
