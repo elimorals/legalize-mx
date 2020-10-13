@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2019-11-25"
+last_updated: "2020-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -497,11 +497,11 @@ El Estado establecerá un trato especial y preferente a favor de las personas j�
 
 Toda persona joven indígena además de disfrutar de los demás derechos establecidos en esta Ley, tienen derecho a la justicia económica y social y a ser reconocidas, respetados sus valores, principios, costumbres y prácticas tradicionales, a gozar de su cultura tradicional, a practicar su propia religión y a utilizar su lengua tradicional a favor de su desarrollo integral.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 49.
 
-Toda persona joven en situaciones especiales desde el punto de vista de la pobreza, exclusión social, indigencia, situación de calle, discapacidad o privación de la libertad, tienen el derecho a la reinserción e integración a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida.
+Toda persona joven en situaciones especiales desde el punto de vista de la pobreza, exclusión social, indigencia, situación de calle, discapacidad o privación de la libertad, tienen el derecho a la reinserción y reintegración a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida, en términos de lo dispuesto por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -1004,3 +1004,11 @@ P.O. 25 DE NOVIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 49 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto dentro del presente Decreto.
