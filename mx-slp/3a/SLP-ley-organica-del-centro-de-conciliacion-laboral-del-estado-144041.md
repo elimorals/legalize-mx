@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1440
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-09-03"
-last_updated: "2020-09-03"
+last_updated: "2020-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de septiembre de 2020.
 
@@ -237,7 +237,7 @@ I. Establecer las políticas generales y las prioridades que deberá desarrollar
 
 II. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario la Dirección General pueda disponer de los activos fijos del Centro de Conciliación que no correspondan a las operaciones propias del objeto del mismo;
 
-III. Nombrar a propuesta del Gobernador del Estado, a él o la titular de la Dirección General del Centro de Conciliación y removerlo por causa justificada;
+III. (DEROGADA, P.O. 13 DE OCTUBRE DE 2020)
 
 IV. Aprobar anualmente, previo informe de los comisarios, auditores externos o del Órgano Interno de Control, los estados financieros del Centro de Conciliación y autorizar la publicación de los mismos;
 
@@ -582,3 +582,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0764.- SE DEROGA DEL ARTÍCULO 12 LA FRACCIÓN III, DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
