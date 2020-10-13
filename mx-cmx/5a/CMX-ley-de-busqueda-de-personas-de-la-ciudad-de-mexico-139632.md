@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-busqueda-de-personas-de-la-ciudad-de-mexico-139632"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139632&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-11-30"
 
 LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el martes 31 de diciembre de 2019.
 
@@ -728,9 +728,9 @@ V. Informar de manera inmediata a la Comisión de Búsqueda, la localización o 
 
 VI. Solicitar directamente la localización geográfica en tiempo real o la entrega de los datos conservados, en los términos establecidos en el Código Nacional de Procedimientos Penales;
 
-(NOTA: EL 12 DE JULIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 102/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE ENERO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO POR EL QUE SE ABROGA LA LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO Y SE EXPIDE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2020)</small>
 
-VII. SOLICITAR A LA AUTORIDAD JUDICIAL COMPETENTE LA AUTORIZACIÓN PARA ORDENAR LA INTERVENCIÓN DE COMUNICACIONES, EN TÉRMINOS DE LAS DISPOSICIONES APLICABLES;
+VII. Requerir a la persona titular de la Fiscalía General, solicite la autorización para ordenar la intervención de comunicaciones, en términos de las disposiciones aplicables;
 
 VIII. Realizar y comunicar sin dilación todos aquellos actos que requieran de autorización judicial que previamente hayan sido solicitados por la Comisión que corresponda para la búsqueda y localización de una Persona Desaparecida;
 
@@ -1269,3 +1269,13 @@ DÉCIMO SÉPTIMO.- Las autoridades que integran el Sistema de Búsqueda, así co
 Palacio Legislativo del Congreso de la Ciudad de México, a los tres días del mes de diciembre del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD ÁVILA VENTURA, SECRETARIA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2, párrafo segundo, 3, fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los treinta días del mes de noviembre del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL.- MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA.- OMAR HAMID GARCÍA HARFUCH.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 45, FRACCIÓN VII, DE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
