@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-10-02"
+last_updated: "2020-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -235,9 +235,9 @@ I.- Violencia física.- Es todo acto que causa daño no accidental, por medio de
 
 II.- Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica de la víctima, la cual puede consistir en amenazas, negligencia, abandono, descuido reiterado, insultos, gritos, humillaciones, marginación y/o restricción a la autodeterminación, celotipia, devaluación, indiferencia, infidelidad, comparaciones destructivas, rechazo o cualquier otra que conlleve a la víctima a la depresión, aislamiento, desvalorización, anulación de su autoestima e incluso al suicidio;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2020)</small>
 
-III.- Violencia económica.- Es toda acción u omisión que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+III.- Violencia económica.- Es toda acción u omisión que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; también se considera como tal el incumplimiento de la obligación alimentaria;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1844,3 +1844,11 @@ SEGUNDO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Pue
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 10 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
