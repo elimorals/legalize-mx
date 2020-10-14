@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2020-07-08"
+last_updated: "2020-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -283,87 +283,93 @@ El titular del Poder Ejecutivo del Estado deberá informar al Congreso del Estad
 
 La persona titular de la Fiscalía General intervendrá por sí o por conducto de las y los servidores públicos a su mando en el ejercicio de las facultades conferidas por la Constitución General, la Constitución del Estado, la presente Ley, el Reglamento y demás ordenamientos aplicables, siendo las siguientes:
 
-I. Ser el titular y representante de la Fiscalía General, así como presidir al Ministerio Público en el Estado;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2020)</small>
 
-II. Velar por el respeto de las instituciones constitucionales y los derechos humanos;
+I. Ser el titular de la Fiscalía General, así como presidir al Ministerio Público en el Estado;
 
-III. Participar en el Sistema Nacional de Seguridad Pública y en el Sistema de Seguridad Pública del Estado;
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
 
-IV. Integrar el Consejo Estatal de Política Criminal;
+II. Ser el representante de la Fiscalía General;
 
-V. Proponer al titular del Poder Ejecutivo proyectos de iniciativas de Ley para su presentación ante el Congreso del Estado, en materia de procuración de justicia, política criminal y seguridad pública; asimismo, podrá emitir opinión ante el Congreso cuando las leyes que se discutan sean de su competencia;
+III. Velar por el respeto de las instituciones constitucionales y los derechos humanos;
 
-VI. Emitir los reglamentos, manuales, protocolos, lineamientos, acuerdos, circulares, criterios, instrucciones y demás disposiciones que rijan la actuación de los órganos, unidades administrativas y, servidores públicos que integran la Fiscalía General;
+IV. Participar en el Sistema Nacional de Seguridad Pública y en el Sistema de Seguridad Pública del Estado;
 
-VII. Nombrar y remover de conformidad con la Ley, a las y los servidores públicos bajo su dependencia, siempre y cuando el nombramiento no esté previsto de manera especial por la Constitución del Estado o las leyes aplicables;
+V. Integrar el Consejo Estatal de Política Criminal;
 
-VIII. Asignar y desplazar libremente a las y los servidores públicos en las labores de procuración de justicia, investigación y atención de procesos;
+VI. Proponer al titular del Poder Ejecutivo proyectos de iniciativas de Ley para su presentación ante el Congreso del Estado, en materia de procuración de justicia, política criminal y seguridad pública; asimismo, podrá emitir opinión ante el Congreso cuando las leyes que se discutan sean de su competencia;
 
-IX. Auxiliar al titular del Poder Ejecutivo del Estado con la información que se derive de las investigaciones, cuando sea necesaria para preservar y mantener el orden público;
+VII. Emitir los reglamentos, manuales, protocolos, lineamientos, acuerdos, circulares, criterios, instrucciones y demás disposiciones que rijan la actuación de los órganos, unidades administrativas y, servidores públicos que integran la Fiscalía General;
 
-X. Elaborar cada año el proyecto de presupuesto de la Fiscalía General y hacerlo llegar al titular del Poder Ejecutivo del Estado, para su inclusión en el presupuesto de egresos del Estado;
+VIII. Nombrar y remover de conformidad con la Ley, a las y los servidores públicos bajo su dependencia, siempre y cuando el nombramiento no esté previsto de manera especial por la Constitución del Estado o las leyes aplicables;
 
-XI. Presidir el Consejo de Fiscales;
+IX. Asignar y desplazar libremente a las y los servidores públicos en las labores de procuración de justicia, investigación y atención de procesos;
 
-XII. Proponer al Consejo de Fiscales el Plan de Persecución Penal;
+X. Auxiliar al titular del Poder Ejecutivo del Estado con la información que se derive de las investigaciones, cuando sea necesaria para preservar y mantener el orden público;
 
-XIII. Dictar los criterios generales que deberán regir la protección y atención a víctimas, ofendidos, testigos del delito, de acuerdo con lo establecido por las leyes existentes en tal materia;
+XI. Elaborar cada año el proyecto de presupuesto de la Fiscalía General y hacerlo llegar al titular del Poder Ejecutivo del Estado, para su inclusión en el presupuesto de egresos del Estado;
 
-XIV. Coadyuvar en la Política Estatal de Seguridad Pública y Prevención del Delito;
+XII. Presidir el Consejo de Fiscales;
 
-XV. Coadyuvar en la Política Criminal del Estado en los términos que establezcan las leyes aplicables;
+XIII. Proponer al Consejo de Fiscales el Plan de Persecución Penal;
 
-XVI. Encomendar a las y los servidores públicos de la Fiscalía General, el estudio y atención de asuntos específicos, independientemente de las funciones que el Reglamento le señale;
+XIV. Dictar los criterios generales que deberán regir la protección y atención a víctimas, ofendidos, testigos del delito, de acuerdo con lo establecido por las leyes existentes en tal materia;
 
-XVII. Conceder licencias y aceptar renuncias de las y los servidores públicos adscritos a la Fiscalía General;
+XV. Coadyuvar en la Política Estatal de Seguridad Pública y Prevención del Delito;
 
-XVIII. Conocer y resolver sobre las excusas y recusaciones interpuestas contra los Agentes del Ministerio Público;
+XVI. Coadyuvar en la Política Criminal del Estado en los términos que establezcan las leyes aplicables;
 
-XIX. Presentar anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades y comparecer ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión;
+XVII. Encomendar a las y los servidores públicos de la Fiscalía General, el estudio y atención de asuntos específicos, independientemente de las funciones que el Reglamento le señale;
 
-XX. Administrar los recursos destinados para la procuración de justicia de acuerdo con la partida del Presupuesto de Egresos del Estado; y para tal efecto adquirir, arrendar y contratar bienes, servicios y obras públicas de conformidad con las disposiciones aplicables;
+XVIII. Conceder licencias y aceptar renuncias de las y los servidores públicos adscritos a la Fiscalía General;
 
-XXI. Celebrar contratos y convenios de colaboración con las autoridades federales y con los gobiernos de los estados integrantes de la federación y municipios, así como con instituciones públicas y privadas, de conformidad con la Constitución General, la Constitución del Estado y esta Ley, que permitan el mejor desempeño de la función institucional;
+XIX. Conocer y resolver sobre las excusas y recusaciones interpuestas contra los Agentes del Ministerio Público;
 
-XXII. Dirigir, conservar y fomentar las relaciones con la Fiscalía General de la República y con los demás organismos responsables de la investigación y persecución de los delitos en el País;
+XX. Presentar anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades y comparecer ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión;
 
-XXIII. Participar en las Conferencias Nacionales e Internacionales de Procuración de Justicia, así como los congresos y reuniones nacionales e internacionales o sus equivalentes y hacer que se cumplan en el Estado los acuerdos adoptados;
+XXI. Administrar los recursos destinados para la procuración de justicia de acuerdo con la partida del Presupuesto de Egresos del Estado; y para tal efecto adquirir, arrendar y contratar bienes, servicios y obras públicas de conformidad con las disposiciones aplicables;
 
-XXIV. Promover los juicios de control constitucional federales o locales, en los casos en que esté facultado por la Ley o cuente con la representación legal para ello. Para el seguimiento de los procedimientos podrá designar representantes especiales, o delegados;
+XXII. Celebrar contratos y convenios de colaboración con las autoridades federales y con los gobiernos de los estados integrantes de la federación y municipios, así como con instituciones públicas y privadas, de conformidad con la Constitución General, la Constitución del Estado y esta Ley, que permitan el mejor desempeño de la función institucional;
 
-XXV. Conducir las relaciones con los Poderes Públicos del Estado, los organismos constitucionalmente autónomos del Estado, los Poderes de la Unión, órganos constitucionales federales autónomos y otras Entidades Federativas;
+XXIII. Dirigir, conservar y fomentar las relaciones con la Fiscalía General de la República y con los demás organismos responsables de la investigación y persecución de los delitos en el País;
 
-XXVI. Promover al interior de la Fiscalía General la prevención y erradicación de la discriminación, como parte de la Política Criminal del Estado;
+XXIV. Participar en las Conferencias Nacionales e Internacionales de Procuración de Justicia, así como los congresos y reuniones nacionales e internacionales o sus equivalentes y hacer que se cumplan en el Estado los acuerdos adoptados;
 
-XXVII. Crear, modificar o suprimir mediante acuerdo, las unidades administrativas internas de la Fiscalía General;
+XXV. Promover los juicios de control constitucional federales o locales, en los casos en que esté facultado por la Ley o cuente con la representación legal para ello. Para el seguimiento de los procedimientos podrá designar representantes especiales, o delegados;
 
-XXVIII. Administrar la licencia oficial colectiva de armas, expedida por la Secretaría de la Defensa Nacional;
+XXVI. Conducir las relaciones con los Poderes Públicos del Estado, los organismos constitucionalmente autónomos del Estado, los Poderes de la Unión, órganos constitucionales federales autónomos y otras Entidades Federativas;
 
-XXIX. Atender requerimientos, visitas, quejas, propuestas de conciliación y recomendaciones de las Comisiones (sic) Nacional de Derechos Humanos y la Comisión de los Derechos Humanos del Estado, y demás organismos internacionales de protección de los derechos humanos;
+XXVII. Promover al interior de la Fiscalía General la prevención y erradicación de la discriminación, como parte de la Política Criminal del Estado;
 
-XXX. Solicitar a las dependencias y entidades de la administración pública del Estado, apoyo en las labores de la Fiscalía General, a través de la comisión de servidores públicos, en los términos y condiciones que para tal efecto se indique;
+XXVIII. Crear, modificar o suprimir mediante acuerdo, las unidades administrativas internas de la Fiscalía General;
 
-XXXI. Proponer al Consejo de Fiscales los criterios que deban aplicarse en materia de recursos humanos, remuneraciones, gasto de los fondos respectivos, de planificación del desarrollo, administración y de finanzas de la institución observando, en todo caso, lo dispuesto en la Ley, el Reglamento y demás ordenamientos aplicables;
+XXIX. Administrar la licencia oficial colectiva de armas, expedida por la Secretaría de la Defensa Nacional;
 
-XXXII. Emitir los lineamientos para el otorgamiento de estímulos, reconocimiento de méritos y otorgar las menciones que procedan a las y los servidores públicos de la Fiscalía General;
+XXX. Atender requerimientos, visitas, quejas, propuestas de conciliación y recomendaciones de las Comisiones (sic) Nacional de Derechos Humanos y la Comisión de los Derechos Humanos del Estado, y demás organismos internacionales de protección de los derechos humanos;
 
-XXXIII. Ofrecer y entregar recompensas, en los casos, términos y condiciones que determine la normatividad aplicable;
+XXXI. Solicitar a las dependencias y entidades de la administración pública del Estado, apoyo en las labores de la Fiscalía General, a través de la comisión de servidores públicos, en los términos y condiciones que para tal efecto se indique;
 
-XXXIV. (DEROGADA, P.O. 8 DE JULIO DE 2020)
+XXXII. Proponer al Consejo de Fiscales los criterios que deban aplicarse en materia de recursos humanos, remuneraciones, gasto de los fondos respectivos, de planificación del desarrollo, administración y de finanzas de la institución observando, en todo caso, lo dispuesto en la Ley, el Reglamento y demás ordenamientos aplicables;
 
-XXXV. Autorizar la infiltración de agentes para investigaciones, de conformidad con el acuerdo que al efecto emita;
+XXXIII. Emitir los lineamientos para el otorgamiento de estímulos, reconocimiento de méritos y otorgar las menciones que procedan a las y los servidores públicos de la Fiscalía General;
 
-XXXVI. (DEROGADA, P.O. 8 DE JULIO DE 2020)
+XXXIV. Ofrecer y entregar recompensas, en los casos, términos y condiciones que determine la normatividad aplicable;
 
-XXXVII. Resolver las cuestiones de competencia que surjan entre el Ministerio Público del Estado y de la Federación; y
+XXXV. (DEROGADA, P.O. 8 DE JULIO DE 2020)
 
-XXXVIII. Ejercer las demás facultades que le confiera la Constitución General, la Constitución del Estado, esta Ley, el Reglamento y otros ordenamientos legales.
+XXXVI. Autorizar la infiltración de agentes para investigaciones, de conformidad con el acuerdo que al efecto emita;
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+XXXVII. (DEROGADA, P.O. 8 DE JULIO DE 2020)
+
+XXXVIII. Resolver las cuestiones de competencia que surjan entre el Ministerio Público del Estado y de la Federación; y
+
+XXXIX. Ejercer las demás facultades que le confiera la Constitución General, la Constitución del Estado, esta Ley, el Reglamento y otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-Corresponde a la persona titular de la Fiscalía General ejercer en forma personal y directa las atribuciones indelegables señaladas en las fracciones I, IV, V, VI, VII, VIII, X, XI, XII, XIII, XIX, XXII, XXV, XXVII, XXVIII, XXXI y XXXV del artículo 15 de esta Ley y las demás que prevean otras disposiciones legales aplicables.
+Corresponde a la persona titular de la Fiscalía General ejercer en forma personal y directa las atribuciones indelegables señaladas en las fracciones I, V, VI, VII, VIII, IX, XI, XII, XIII, XIV, XX, XXIII, XXVI, XXVIII, XXIX, XXXII y XXXVI del artículo 15 de esta Ley y las demás que prevean otras disposiciones legales aplicables.
 
 ### CAPÍTULO III. DE LAS VICEFISCALÍAS
 
@@ -1619,9 +1625,15 @@ XII. Autorizar los trámites correspondientes a altas, bajas, cambios de adscrip
 
 XIII. Implementar los programas para el mantenimiento de los inmuebles, del parque vehicular, así como de los servicios generales de los edificios que albergan las unidades administrativas;
 
-XIV. Llevar el registro y control del flujo documental de la institución, así como el depósito y resguardo de la documentación inactiva; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2020)</small>
 
-XV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende y delegue la persona titular de la Fiscalía General.
+XIV. Llevar el registro y control del flujo documental de la institución, así como el depósito y resguardo de la documentación inactiva;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+XV. Fungir como representante de la Fiscalía General y su titular, ante autoridades y particulares, en la realización de gestiones que con motivo del ejercicio de las atribuciones conferidas se requiera; y
+
+XVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende y delegue la persona titular de la Fiscalía General.
 
 ###### Artículo 74.
 
@@ -1781,6 +1793,214 @@ La Fiscalía General elaborará anualmente su proyecto de Presupuesto de Egresos
 
 El Presupuesto de Egresos de la Fiscalía General se deberá elaborar conforme a lo establecido en la legislación local, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+## TÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO I. DE LA COMISIÓN ESTATAL DE BÚSQUEDA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 84.
+
+La Comisión Estatal de Búsqueda de Personas, es el órgano desconcentrado de la Fiscalía General, que determina, ejecuta y da seguimiento a las acciones de búsqueda de personas desaparecidas y no localizadas de conformidad con lo dispuesto en esta Ley y la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
+
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión Estatal de Búsqueda de Personas para el cumplimiento de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 85.
+
+La Comisión Estatal de Búsqueda de Personas estará a cargo de una persona titular designada por el Congreso del Estado, previa consulta pública a los colectivos de víctimas, personas expertas, así como organizaciones de la sociedad civil especializadas en la materia y durará en el cargo cuatro años a partir de su designación.
+
+En caso de que se genere la vacante de la persona titular de la Comisión Estatal, el Fiscal General en un plazo no mayor a diez días hábiles informará al Congreso del Estado, a efecto de que dé inicio al trámite correspondiente en un término no mayor a treinta días hábiles a partir de su conocimiento. La persona designada cubrirá la vacante generada y durará en el cargo a partir de la fecha de su designación, hasta concluir el periodo de la vacante.
+
+En tanto se designe titular de la Comisión Estatal, ocupará el cargo la persona designada conforme al régimen de suplencias establecido en el Título Segundo, Capítulo VI de esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 86.
+
+Para ser titular de la Comisión Estatal de Búsqueda de Personas, se requiere:
+
+I. Ser ciudadana o ciudadano mexicano;
+
+II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+
+III. Contar con título profesional;
+
+IV. No haber desempeñado cargo de dirigente nacional o estatal en algún partido político, dentro de los dos años previos a su nombramiento;
+
+V. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, por lo menos en los dos años previos a su nombramiento; y
+
+VI. Contar con conocimientos y experiencia en derechos humanos y búsqueda de personas, y preferentemente con conocimientos en ciencias forenses o investigación criminal.
+
+En la designación de la persona titular de la Comisión Estatal de Búsqueda de Personas, debe garantizarse el respeto a los principios que prevé la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, especialmente los de enfoque transversal de género, diferencial y de no discriminación.
+
+La persona titular de la Comisión Estatal de Búsqueda de Personas no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 87.
+
+La Comisión Estatal de Búsqueda de Personas, tendrá las siguientes atribuciones:
+
+I. Dirigir, planear, dar seguimiento y evaluar las actividades de las distintas áreas de la Comisión Estatal de Búsqueda de Personas, conforme al Programa Nacional de Búsqueda y a los programas regionales de búsqueda;
+
+II. Gestionar la coordinación con las dependencias y entidades de la administración pública estatal, municipal y organismos autónomos para la ejecución de los programas y acciones de la Comisión Estatal de Búsqueda de Personas;
+
+III. Fungir como representante de la Comisión Estatal de Búsqueda de Personas ante el Sistema Nacional de Búsqueda de Personas;
+
+IV. Integrar los informes que corresponda enviar a la Comisión Nacional de Búsqueda de Personas, sobre el cumplimiento de las políticas y estrategias para la búsqueda y localización de personas desaparecidas o no localizadas;
+
+V. Emitir alertas de acción inmediata para búsqueda y localización de personas;
+
+VI. Atender en su caso y dar seguimiento a las recomendaciones de organismos de derechos humanos, de la Comisión Nacional de Búsqueda de Personas y del Consejo Estatal Ciudadano, en los temas relacionados con las atribuciones de la Comisión Estatal de Búsqueda de Personas;
+
+VII. Determinar y en su caso, ejecutar las acciones necesarias a efecto de garantizar la búsqueda y localización de personas en el territorio estatal;
+
+VIII. Canalizar a los familiares ante la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, para que, de ser el caso, realicen la denuncia correspondiente;
+
+IX. Solicitar a la Comisión Ejecutiva de Atención a Víctimas, que implementen los mecanismos necesarios para que se cubran los gastos de ayuda cuando lo requieran los familiares de las personas desaparecidas por la presunta comisión de los delitos materia de la Ley General en la materia;
+
+X. Promover la comunicación, participación y evaluación con la sociedad civil y los familiares para que coadyuven con los objetivos, fines y trabajos de la Comisión Estatal de Búsqueda de Personas, en los términos de las disposiciones jurídicas aplicables;
+
+XI. Requerir información a las autoridades estatales, así como integrar grupos de trabajo para proponer acciones específicas de búsqueda de personas y colaborar con la Comisión Nacional de Búsqueda de Personas, en el análisis del fenómeno de desaparición a nivel nacional, brindando información sobre el problema a nivel regional;
+
+XII. Suministrar y actualizar la información del Registro Estatal que formará parte del Registro Nacional, por medio del sistema único de información tecnológica e informática del Sistema Nacional de Búsqueda de Personas, en los términos de las disposiciones legales aplicables; y
+
+XIII. Las demás que le confiera el Reglamento, otras disposiciones aplicables de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas o le encomiende la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 88.
+
+La Comisión Estatal de Búsqueda de Personas, para realizar sus actividades, deberá contar como mínimo con:
+
+I. Grupo especializado de búsqueda, cuya regulación y funciones se encuentran en el artículo 66, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+II. Área de Análisis de Contexto, la cual desempeñará, además de las funciones que la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas u otras disposiciones jurídicas le asignen, las atribuciones a que se refiere el Reglamento;
+
+III. Área de Gestión y Procesamiento de Información, la cual desempeñará, además de las funciones que la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas u otras disposiciones jurídicas le asignen, las atribuciones a que se refiere el Reglamento; y
+
+IV. La estructura administrativa y el personal necesarios para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 89.
+
+El Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, es un órgano ciudadano de consulta en materia de búsqueda de personas, designado por el Congreso del Estado previa consulta pública con las organizaciones de familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de víctimas y expertos en la materia previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 90.
+
+El Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, estará integrado por:
+
+I. Tres familiares que representen a los familiares de las personas desaparecidas o no localizadas;
+
+II. Tres especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, la búsqueda de Personas Desaparecidas o No Localizadas o en la investigación y persecución de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Se procurará que uno de los especialistas siempre sea en materia forense; y
+
+III. Tres representantes de organizaciones de la sociedad civil de derechos humanos que cuenten con experiencia en el tema de desaparición y búsqueda de personas.
+
+Para el cumplimiento de las funciones establecidas en el artículo 92 de la presente Ley, el Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas nombrará de entre sus integrantes, una persona quien estará a cargo de la Presidencia, la cual se rotará anualmente, atendiendo a la antigüedad que tengan en el Consejo.
+
+Las y los integrantes del Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, durarán en el cargo tres años improrrogables y no deberán desempeñar ningún cargo como servidor público. Asimismo, ejercerán su función en forma honorífica, y no recibirán emolumento o contraprestación económica alguna por su desempeño.
+
+En caso de que se genere la vacante de alguno de sus integrantes, la persona titular de la Comisión Estatal de Búsqueda de Personas, dará aviso al Fiscal General en un plazo no mayor a diez días hábiles, quien a su vez informará al Congreso del Estado a efecto de que dé inicio al trámite correspondiente en un término no mayor a treinta días hábiles a partir de su conocimiento. La persona designada cubrirá la vacante generada y durará en el cargo a partir de la fecha de su designación, hasta concluir el periodo de la vacante.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 91.
+
+El Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, sesionará de manera ordinaria semestralmente y en forma extraordinaria a convocatoria de su Presidente.
+
+Para sesionar válidamente se requerirá un quórum de la mayoría de sus integrantes; sus decisiones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente tendrá el voto de calidad.
+
+La persona titular de la Comisión Estatal de Búsqueda de Personas, podrá asistir a las reuniones del Consejo con voz, pero sin voto.
+
+Las decisiones que el Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas adopte son públicas, en apego a la legislación de transparencia y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 92.
+
+El Consejo Ciudadano tiene las funciones siguientes:
+
+I. Solicitar información relacionada a los procedimientos de búsqueda y localización a la Comisión Estatal;
+
+II. Proponer a la Comisión Estatal, y en su caso, acompañar las acciones para acelerar o profundizar sus acciones, en el ámbito de sus competencias;
+
+III. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión Estatal;
+
+IV. Contribuir, de acuerdo a lo establecido en el presente Decreto, a la participación directa de los familiares en el ejercicio de sus atribuciones;
+
+V. Dar vista a la Comisión Estatal, o de ser necesario a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas;
+
+VI. Dar seguimiento y emitir recomendaciones sobre la integración y operación de la Comisión Estatal la implementación del Programa Nacional de Búsqueda de Personas Desaparecidas;
+
+VII. Elaborar, aprobar y modificar la guía de procedimientos del Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión Estatal; y
+
+VIII. Las demás que señalen sus Reglas de Funcionamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 93.
+
+El Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, se auxiliará con una Secretaría Técnica, que estará a cargo del área administrativa que para tal efecto designe el titular de la Comisión Estatal de Búsqueda de Personas, quien podrá participar únicamente con derecho a voz, de conformidad con lo dispuesto por el Reglamento.
+
+Las opiniones y recomendaciones emitidas por el Consejo Ciudadano, no son vinculantes. La Comisión Estatal de Búsqueda de Personas y las áreas a las que vayan dirigidas las recomendaciones deberán fundar y motivar las razones por las cuales se acepta o rechaza la recomendación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO II. DE LA UNIDAD ESPECIALIZADA EN COMBATE AL SECUESTRO
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 94.
+
+La Unidad Especializada en Combate al Secuestro, será un órgano desconcentrado dependiente directamente de la persona titular de la Fiscalía General, estará integrada con personal especializado y contará con la Coordinación de Ministerios Públicos, Dirección de Administración, Capacitación y Evaluación, Dirección de Atención a Víctimas, Unidad de Manejo de Crisis y Negociación y Unidad de Operación, además de Agentes del Ministerio Público quienes serán los Titulares de las Unidades Especializadas en Combate al Secuestro, peritos y policías investigadores, así como con los recursos humanos, financieros, materiales y las áreas que sean necesarias para su efectiva operación.
+
+Tiene por objeto llevar a cabo toda investigación e intervención para el esclarecimiento de los hechos que puedan ser constitutivos de los delitos en materia de secuestro, así como para dar seguimiento al juicio respectivo, con las atribuciones y obligaciones que para el Ministerio Público y Policía establecen, la Constitución General, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, la presente Ley Orgánica, así como las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 95.
+
+Para ser integrante de la Unidad Especializada en Combate al Secuestro deberá reunir los requisitos establecidos para los Agentes del Ministerio Público en la presente Ley, así como lo dispuesto en el artículo 42, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 96.
+
+La Unidad Especializada en Combate al Secuestro, tendrá las siguientes atribuciones:
+
+I. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, las leyes, reglamentos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que las leyes consideran como delitos de su competencia;
+
+II. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos en materia de secuestro;
+
+III. Implementar acciones para prevenir y combatir hechos que pudieran ser constitutivos de los delitos en materia de secuestro;
+
+IV. Representar a la Fiscalía General ante autoridades federales o estatales, en materia de secuestro;
+
+V. Otorgar la autorización de la operación de entrega vigilada, previo informe al Fiscal General;
+
+VI. Instrumentar estrategias en materia del delito de secuestro, así como tomar acciones para el intercambio de información sobre los asuntos relacionados;
+
+VII. Dirigir el proceso de la prestación del servicio de asesoría en crisis y negociación a las víctimas y sus familiares en el delito de secuestro;
+
+VIII. Coordinar y supervisar la realización de operativos por elementos de la policía de investigación, en la captura de presuntos responsables relacionados con el delito de secuestro;
+
+IX. Desarrollar estadísticas sobre actividades relacionadas con el secuestro que permitan determinar la situación que guarda el fenómeno delictivo, así como sus tendencias;
+
+X. Proporcionar la información estadística que requiera la Coordinación Nacional Antisecuestro, así como el intercambio de datos con otras instancias involucradas en el combate del delito de secuestro;
+
+XI. Promover la formación y capacitación del personal de la Unidad Especializada en Combate al Secuestro y coadyuvar a la definición de los perfiles correspondientes; y
+
+XII. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1928,3 +2148,25 @@ Se derogan las disposiciones legales aplicables que se opongan al presente Decre
 ###### ARTÍCULO TERCERO.
 
 Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, a efecto de que realice las acciones correspondientes con motivo de la entrada en vigor del presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-146 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la designación del Titular de la Comisión Estatal de Búsqueda de Personas.
+
+###### ARTÍCULO CUARTO.
+
+Las y los Consejeros Honoríficos del Consejo Estatal Ciudadano de la Comisión Estatal de Búsqueda de Personas, designados mediante Decreto LXIII-797, publicado en el Periódico Oficial del Estado Número 55, de fecha 7 de mayo de 2019, continuarán en su encargo hasta concluir el periodo para el cual fueron designados.
+
+El Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la integración y designación de las y los Consejeros Honoríficos del Consejo Ciudadano de la Comisión Estatal de Búsqueda de Personas, treinta días antes de que concluya el plazo para el cual fueron designados.
