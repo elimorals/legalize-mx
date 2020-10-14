@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2020-03-20"
+last_updated: "2020-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -640,11 +640,21 @@ II. Desarrollar campañas de difusión sobre los servicios que brinda;
 
 III. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres;
 
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
-IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora de violencia sexual; siempre y cuando exista un modelo de abordaje psicoterapéutico debidamente probado en sus beneficios y alcances y supervisado por la Secretaria de la Mujer y
+IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora de cualquier tipo de violencia; siempre y cuando exista un modelo de abordaje psicoterapéutico debidamente probado en sus beneficios y alcances bajo la supervisión de la Secretaría de las Mujeres;
 
-V. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+
+V. Sensibilizar y concientizar a las personas usuarias de sus servicios sobre las consecuencias y efectos de la violencia contra las mujeres y las niñas dentro del entorno familiar;
+
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+
+VI. Desarrollar programas de intervención temprana para prevenir casos de violencia contra las mujeres en el ámbito familiar en coordinación con la Secretaría de las Mujeres y demás dependencias e instituciones competentes; y
+
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+
+VII. Las demás que le confieran esta y otras leyes o disposiciones legales aplicables y el Reglamento de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
 
@@ -902,15 +912,29 @@ La Secretaría de Desarrollo Urbano y Vivienda, en coordinación con la Secretar
 
 La Secretaría de Educación en colaboración con el Sistema para el Desarrollo Integral de la Familia del Distrito Federal y la Dirección de Igualdad, deberá formular programas de otorgamiento de becas dirigido a mujeres víctimas de violencia y en situación de riesgo, así como a sus dependientes.
 
+> <small>(REFORMAD PRIMER PÁRRAFO, G.O. 14 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 42.
 
-El Sistema para el Desarrollo Integral de la Familia del Distrito Federal deberá:
+El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México deberá:
 
-I. Dar acceso preferencial y gratuito o a bajo costo, a estancias o guarderías a las hijas y los hijos de las mujeres víctimas de violencia;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
 
-II. Brindar servicios reeducativos integrales para las personas agresoras; con la finalidad de erradicar la violencia de su vida; y
+I. Dar acceso preferencial y gratuito o a bajo costo, a estancias o guarderías, a las hijas y los hijos de las mujeres víctimas de violencia;
 
-III. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+
+II. Brindar asesoría, orientación y asistencia social a las personas víctimas de violencia familiar y violencia de género, en todos los centros que se encuentren a su cargo, así como servicios reeducativos integrales a las personas agresoras, con la finalidad de erradicar la violencia de su vida;
+
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+
+III. Capacitar y sensibilizar al personal a su cargo a fin de que otorguen atención con perspectiva de género a las personas víctimas de violencia familiar;
+
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2020)</small>
+
+IV. Canalizar oportunamente a las instancias competentes los casos de violencia contra las mujeres y las niñas, así como, brindar a las víctimas la orientación necesaria sobre el proceso y tramites respectivos; y
+
+V. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
 
 ### CAPÍTULO IV. DEL SEGUIMIENTO Y EVALUACIÓN
 
@@ -1729,3 +1753,13 @@ CUARTO.- La Secretaria de Gobierno de la Ciudad de México, contará con un tér
 QUINTO.- A partir de la entrada en vigor del presente decreto, la Secretaria de Gobierno, deberá incluir en la base de datos del Registro, todas aquellas personas sentenciadas que hayan adquirido ese carácter con fecha posterior a la entrada del presente decreto.
 
 SEXTO.- Envíese el presente decreto a la Jefa de Gobierno de la Ciudad de México para sus efectos legales.
+
+G.O. 14 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES V Y VI, RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE, DEL ARTÍCULO 24; Y SE REFORMA EL PRIMER PÁRRAFO, SE ADICIONAN LAS FRACCIONES III Y IV DEL ARTÍCULO 42, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE; AMBOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Turnese al Ejecutivo Local para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La Jefatura de Gobierno contará con un plazo que no excederá de 30 días hábiles para realizar las adecuaciones reglamentarias que sean necesarias.
