@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-yucateco-de-emprendedores-10248
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-25"
-last_updated: "2019-07-23"
+last_updated: "2020-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO YUCATECO DE EMPRENDEDORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2020.
 
 Estatuto publicado en el Diario Oficial del estado de Yucatán, el jueves 25 de septiembre de 2014.
 
@@ -387,9 +387,17 @@ XII. Evaluar el impacto social o económico de los programas, proyectos, accione
 
 XIII. Difundir los programas, proyectos, acciones, actividades y convocatorias a su cargo.
 
-XIV. Elaborar y actualizar en coordinación con las diferentes unidades administrativas del instituto los manuales de organización, de procedimientos y de servicios al público, con el objeto de someterlos a la consideración del director general para su aprobación.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2020)</small>
 
-XV. Las demás que le confiera este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+XIV. Elaborar y actualizar en coordinación con las diferentes unidades administrativas del instituto los manuales de organización, de procedimientos y de servicios al público, con el objeto de someterlos a la consideración del director general para su validación.
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2020)</small>
+
+XV. Dirigir y coordinar las actividades de promoción y comercialización de productos de emprendedores, artesanos, micro, pequeñas y medianas empresas o que sean generados en su dirección.
+
+XVI. Las demás que le confiera este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 30.
 
@@ -397,17 +405,17 @@ Facultades y obligaciones generales de los jefes de departamento
 
 Los jefes de departamento de las unidades administrativas del instituto, tendrán las siguientes facultades y obligaciones de carácter general:
 
-I. Ejecutar las acciones programáticas dictadas por el subdirector de su área administrativa.
+I. Ejecutar las acciones programáticas dictadas por el director de su área administrativa.
 
-II. Evaluar las funciones que lleve a cabo su departamento y presentar un reporte a su subdirector.
+II. Evaluar las funciones que lleve a cabo su departamento y presentar un reporte a su director.
 
-III. Observar y hacer cumplir, en el ámbito de sus respectivas competencias, el Decreto 422 que crea el Instituto Yucateco de Emprendedores, el Código de la Administración Pública de Yucatán, su reglamento, este estatuto orgánico y demás disposiciones legales y normativas aplicables.
+III. Observar y hacer cumplir, en el ámbito de sus respectivas competencias, el Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores, el Código de la Administración Pública de Yucatán, su reglamento, este estatuto orgánico y demás disposiciones legales y normativas aplicables.
 
 IV. Coordinar sus actividades con las demás unidades administrativas del instituto para el mejor cumplimiento de los programas, proyectos y acciones a su cargo.
 
-V. Formular los dictámenes, opiniones e informes que le sean solicitados por el subdirector de su área administrativa.
+V. Formular los dictámenes, opiniones e informes que le sean solicitados por el director de su área administrativa.
 
-VI. Apoyar al subdirector de su área administrativa en la formulación del anteproyecto de presupuesto de egresos del departamento a su cargo.
+VI. Apoyar al director de su área administrativa en la formulación del anteproyecto de presupuesto de egresos del departamento a su cargo.
 
 VII. Las demás que le confiera este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
@@ -445,9 +453,13 @@ XI. Coordinar el diseño y difusión de campañas publicitarias que fomenten la 
 
 XII. Impulsar el establecimiento de prácticas que contribuyan a mejorar la calidad de los procesos y servicios de las unidades administrativas del instituto.
 
-XIII. Organizar el Premio Yucatán a la Calidad, de acuerdo a la normatividad vigente.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2020)</small>
 
-XIV. Promover la participación de las organizaciones públicas y privadas en el Premio Yucatán a la Calidad.
+XIII. Organizar el Premio Yucatán de Calidad, de acuerdo con la normativa vigente.
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2020)</small>
+
+XIV. Promover la participación de las organizaciones públicas y privadas en el Premio Yucatán de Calidad.
 
 > <small>(ADICIONADA, D.O. 23 DE JULIO DE 2019)</small>
 
@@ -585,7 +597,11 @@ XIII. Vigilar el cumplimiento de las condiciones generales de trabajo del instit
 
 XIV. Celebrar convenios y contratos dentro de su ámbito de competencia, previo acuerdo con el director general.
 
-XV. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2020)</small>
+
+XV. Comercializar los productos de emprendedores, artesanos, micro, pequeñas y medianas empresas y los bienes que sean generados en el instituto y administrar los recursos que se obtengan de esta actividad.
+
+XVI. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JULIO DE 2019)</small>
 
@@ -651,11 +667,13 @@ Las relaciones del instituto con sus trabajadores, cualesquiera que sea la natur
 
 ### Capítulo VII. Suplencias
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 40.
 
 Suplencias del director general
 
-El director general será suplido en sus ausencias por el subdirector de innovación y competitividad empresarial, cuando no excedan de quince días, y por la persona nombrada por la junta de gobierno, cuando se exceda de dicho término.
+El director general será suplido en sus ausencias por el director de Innovación y Competitividad Empresarial o el director de Emprendedores, o por los titulares de las unidades administrativas señaladas en el artículo 7, fracción II, en ese mismo orden, cuando sus ausencias no excedan de quince días, y por la persona designada por la junta de gobierno, cuando se exceda de dicho término.
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
 
@@ -700,3 +718,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El Director General del Instituto Yucateco de Emprendedores deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
+
+D.O. 14 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IYEM 06/2020 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO YUCATECO DE EMPRENDEDORES”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto Yucateco de Emprendedores deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
