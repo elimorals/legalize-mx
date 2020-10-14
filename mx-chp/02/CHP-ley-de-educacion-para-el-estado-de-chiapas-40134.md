@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-educacion-para-el-estado-de-chiapas-40134"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-16"
-last_updated: "2020-02-12"
+last_updated: "2020-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CHP"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, PUBLICADA EN EL P.O. DE 14 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 16 de junio de 2004.
 
@@ -2718,3 +2720,25 @@ P.O. 12 DE FEBRERO DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 003 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley de Educación del Estado de Chiapas, publicada con fecha 16 de junio de 2004, en el Periódico Oficial número 241, Tomo II, bajo número de Decreto 194 y sus correspondientes reformas; y se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero.- La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en la presente Ley, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose los correspondientes a la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de esta Ley continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+Artículo Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Artículo Quinto.- Las autoridades educativas estatales, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas, relativas a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en esta Ley; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
+
+Artículo Sexto.- La Comisión de Planeación y Programación del Sistema Estatal de Educación Media Superior, cuya creación se encuentra prevista en el artículo 38 de esta Ley, deberá quedar instalada en un plazo de sesenta días contados a partir de la entrada en vigor de la misma.
+
+Artículo Séptimo.- El Sistema Integral de Formación, Capacitación y Actualización del Estado de Chiapas, previsto en el artículo 122 de esta Ley deberá instalarse antes de finalizar el año 2020.
+
+Artículo Octavo.- El Programa Educativo Estatal previsto en el artículo 139 de la presente Ley se presentará en un plazo no mayor a noventa días contados a partir de la entrada en vigor de la misma. Dicho Programa se actualizará cuando sea considerado necesario, conforme a los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en esta Ley.
