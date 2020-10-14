@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-h-congreso-del-estado-libre-y-soberano-de-3369
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-18"
-last_updated: "2019-05-22"
+last_updated: "2020-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el lunes 18 de agosto de 2003.
 
@@ -617,7 +617,7 @@ XIII. DE TRABAJO Y PREVISION SOCIAL;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XIV.- DE TURISMO Y COOPERACION INTERNACIONAL.
+XIV. DE TURISMO Y COOPERACION INTERNACIONAL.
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -673,7 +673,7 @@ XXXIV. DE IGUALDAD DE GENERO
 
 > <small>(ADICIONADA, P.O. 30 DE MARZO DE 2005)</small>
 
-XXXV.- DE JUVENTUD Y DEPORTE;
+XXXV. DE JUVENTUD Y DEPORTE;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
@@ -706,6 +706,10 @@ XLII. DE VIVIENDA.
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XLIII. DE ASUNTOS RELIGIOSOS.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+XLIV. DE TRANSPARENCIA E INFORMACION PUBLICA
 
 ###### ARTICULO 33.
 
@@ -861,7 +865,7 @@ XXXV. LA COMISION DE JUVENTUD Y DEPORTE.- TENDRA A SU CARGO EL FOMENTO A LAS ACT
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XXXVI.- LA COMISIÓN DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, EJERCERÁ LAS FUNCIONES DE ESTUDIO, ANÁLISIS Y DICTAMEN DE LAS INICIATIVAS DE LEY, DECRETOS Y ACUERDOS QUE LE SEAN TURNADAS DE TODO LO RELACIONADO CON LA CIENCIA, LA TECNOLOGÍA Y LA INNOVACIÓN;
+XXXVI. LA COMISIÓN DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, EJERCERÁ LAS FUNCIONES DE ESTUDIO, ANÁLISIS Y DICTAMEN DE LAS INICIATIVAS DE LEY, DECRETOS Y ACUERDOS QUE LE SEAN TURNADAS DE TODO LO RELACIONADO CON LA CIENCIA, LA TECNOLOGÍA Y LA INNOVACIÓN;
 
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2006)</small>
 
@@ -890,6 +894,10 @@ XLII. LA COMISION DE VIVIENDA OFRECERA VIGILANCIA Y REGULACION PARA LAS ALTERNAT
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XLIII. LA COMISION DE ASUNTOS RELIGIOSOS TENDRA LA CAPACIDAD DE ANALIZAR, DICTAMINAR Y EVALUAR ASUNTOS Y/O ACCIONES DE LAS AUTORIDADES CORRESPONDIENTES AL TEMA RELIGIOSO.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+XLIV. LA COMISION DE TRANSPARENCIA E INFORMACION PUBLICA, ESTUDIARA, DELIBERARA Y DICTAMINARA SOBRE TODOS LOS ASUNTOS QUE TENGAN RELACION CON EL FORTALECIMIENTO DE LOS MECANISMOS Y PROCESOS DE INVOLUCRAMIENTO CIUDADANO EN LOS TEMAS PUBLICOS, CON LA CREACION Y ADECUACION DE LOS ORDENAMIENTOS JURIDICOS QUE GARANTICEN EL DERECHO HUMANO DE ACCESO A LA TRANSPARENCIA Y ACCESO A LA INFORMACION; ASIMISMO TRABAJARA EN LOS INSTRUMENTOS QUE CONSOLIDEN LOS RESULTADOS ESPERADOS DEL ORGANO GARANTE DE LA TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES.
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
@@ -1420,3 +1428,13 @@ P.O. 22 DE MAYO DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 004 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. En términos de lo dispuesto por el artículo 15 numeral 1 inciso E), de la Ley Orgánica del Congreso del Estado, la Junta de Coordinación Política del Honorable Congreso del Estado, dentro del plazo de 10 días hábiles contados a partir de la publicación del presente Decreto, propondrá al Pleno de esta Legislatura, a las Diputadas y los Diputados que integrarán la Comisión Ordinaria de Transparencia e Información Pública.
