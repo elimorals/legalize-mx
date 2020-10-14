@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2020-08-25"
+last_updated: "2020-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -10241,7 +10241,9 @@ La Tesorería Municipal a través del Departamento de Licencias y Padrón de Con
 
 Para el debido funcionamiento de los establecimientos señalados en el artículo 628 fracción III numerales 94 y 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán contar en el término de treinta días naturales posteriores a la expedición de la licencia de funcionamiento con los dispositivos y material informático y tecnológico que al efecto señale la autoridad municipal mediante el Manual de Operación que al efecto expedirá la Secretaría de Administración y Tecnologías de la Información o la que realice estas funciones, en el que se especificará la forma en que se instalarán las cámaras de seguridad y su operación; las formas en que se hará el registro y transferencia de la información requerida, situación que constatará la Unidad de Normatividad y Regulación Comercial, en caso de no contar con lo anterior se cancelará la licencia otorgada.
 
-El licenciatario deberá, solicitar al cliente copia simple de su credencial para votar con fotografía, copia simple del comprobante de domicilio el cual tendrá una antigüedad máxima de dos meses, así como tomar una fotografía del que solicite la transacción mercantil y del bien mueble materia de la transacción. Asimismo colocar en lugar visible uno o varios avisos que lleven la leyenda "VENDER, COMPRAR O EMPEÑAR ARTÍCULOS DE PROCEDENCIA ILÍCITA, CONSTITUYE UN DELITO DEL FUERO COMÚN, QUE SE CASTIGA CON CÁRCEL".
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+El licenciatario deberá, solicitar al cliente copia simple de su credencial para votar con fotografía, copia simple del comprobante de domicilio el cual tendrá una antigüedad máxima de dos meses, así como tomar una fotografía del que solicite la transacción mercantil y del bien mueble materia de la transacción, cuando se trate de teléfonos celulares, tablets y computadoras portátiles, solicitará además la factura original que acredite la propiedad de estos artículos electrónicos. Asimismo colocar en lugar visible uno o varios avisos que lleven la leyenda "VENDER, COMPRAR O EMPEÑAR ARTÍCULOS DE PROCEDENCIA ILÍCITA, CONSTITUYE UN DELITO DEL FUERO COMÚN, QUE SE CASTIGA CON CÁRCEL".
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
@@ -39044,5 +39046,13 @@ P.O. 25 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE DICIEMBRE DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CAPÍTULO 20 DENOMINADO "DE LOS MERCADOS MUNICIPALES" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
 PRIMERO. El presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 14 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 14 DE FEBRERO DE 2020, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS COMISIONES UNIDAS DE REGLAMENTACIÓN MUNICIPAL Y DE SEGURIDAD CIUDADANA, QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 632 BIS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. La reforma aprobada en el presente Dictamen entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
