@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2020-10-02"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1769,7 +1769,13 @@ LVIII.- Ordenar la ejecución de las determinaciones del Ayuntamiento en materia
 
 LIX.- Integrar, coordinar y supervisar el Sistema Municipal de Protección Civil para la prevención, auxilio, recuperación y apoyo de la población en situaciones de emergencia o desastre, para lo cual deberá coordinarse con las autoridades de los Gobiernos Federal, Estatales y Municipales, así como concertar con las instituciones y organismos de los sectores privado y social, las acciones conducentes para el logro del mismo objetivo;
 
-LX.- Proponer y vigilar el funcionamiento de los Consejos de Participación Ciudadana, Comités y Comisiones Municipales que se integren; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+LX. Proponer y vigilar el funcionamiento de los Consejos de Participación Ciudadana, Comités y Comisiones Municipales que se integren;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+LX Bis. Fomentar la participación de la población a través de jornadas de atención ciudadana, en compañía de los Titulares de cada Secretaría, y en su caso, del personal responsable designado para tal efecto, llevándose a cabo en cualquier día de la semana;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -4268,3 +4274,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos contarán con un plazo de noventa días naturales para dar cumplimiento al presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN LX Y ADICIONA LA FRACCIÓN LX BIS AL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
