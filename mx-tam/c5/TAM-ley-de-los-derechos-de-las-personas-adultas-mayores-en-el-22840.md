@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2020-08-27"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -233,9 +233,11 @@ a).- Ser sujetos de programas de asistencia social cuando se encuentren en situa
 
 ### CAPITULO UNICO. DE LAS OBLIGACIONES DE LA FAMILIA
 
-###### ARTICULO 6º.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente, deberá hacerse cargo de cada una de las personas adultas mayores que formen parte de ella y proporcionándoles los elementos necesarios para su atención integral.
+###### ARTICULO 6°.
+
+La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente, deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de mantener y preservar su calidad de vida, así como proporcionar los satisfactores necesarios para su cuidado, atención y desarrollo integral.
 
 ###### ARTICULO 7º.
 
@@ -249,11 +251,17 @@ I.- Otorgar alimentos de conformidad con lo establecido en el Código Civil vige
 
 II.- Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
 
-III.- Conocer los derechos de las personas adultas mayores, previstos en la presente ley, así como los que se encuentran contemplados en la Constitución Política del Estado y demás ordenamientos para su debida observancia; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+III.- Conocer los derechos de las personas adultas mayores, previstos en la presente ley, así como los que se encuentran contemplados en la Constitución Política del Estado y demás ordenamientos para su debida observancia;
 
-IV.- Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o los que pongan en riesgo a la persona adulta mayor, así como sus bienes y derechos.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+IV.- Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o los que pongan en riesgo a la persona adulta mayor, así como sus bienes y derechos; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+V.- Atender sus necesidades psicoemocionales cuando la persona adulta mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención, a efecto de mantener los lazos familiares.
 
 ###### ARTICULO 9º.
 
@@ -267,7 +275,9 @@ El Sistema para el Desarrollo Integral de la Familia de Tamaulipas, deberá toma
 
 Corresponde al Ejecutivo del Estado, en materia de personas adultas mayores:
 
-I.- Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+I.- Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención, así como contribuir con el objetivo de la política nacional de propiciar las condiciones para alcanzar y mantener los altos niveles de calidad de vida física y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
 
 II.- Concertar, con la Federación, Estados y Municipios, los convenios que se requieran, para la realización de programas de defensa y representación jurídica, protección, provisión, prevención, participación y atención;
 
@@ -285,9 +295,23 @@ VIII.- Implementar, en coordinación con las instancias competentes, las medidas
 
 IX.- Presidir el Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores;
 
-X.- Crear los mecanismos o instancias correspondientes para el cumplimiento de esta ley; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-XI.- Las demás que le confieran otros ordenamientos jurídicos.
+X.- Crear los mecanismos o instancias correspondientes para el cumplimiento de esta ley;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XI.- Fomentar la creación de espacios de expresión para las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XII.- Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XIII.- Promover programas especiales para ampliar la cobertura de espacios de asistencia integral para las personas adultas mayores; y
+
+XIV.- Las demás que le confieran otros ordenamientos jurídicos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -796,6 +820,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 27 DE AGOSTO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-134 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN II, RECORRIENDO EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3°, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-145 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6; 8, FRACCIONES III Y IV; Y 10, FRACCIONES I Y X; Y SE ADICIONAN LA FRACCIÓN V AL ARTÍCULO 8; LAS FRACCIONES XI, XII Y XIII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XI PARA PASAR A SER FRACCIÓN XIV DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
