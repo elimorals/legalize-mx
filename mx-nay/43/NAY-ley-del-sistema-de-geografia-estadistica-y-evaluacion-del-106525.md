@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-de-geografia-estadistica-y-evaluacion-del-10652
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-27"
-last_updated: "2016-11-08"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DEL SISTEMA DE GEOGRAFIA, ESTADISTICA Y EVALUACION DEL ESTADO DE NAYARIT- ANTES - LEY DEL SISTEMA DE INFORMACION ESTADISTICA Y GEOGRAFICA DEL ESTADO DE NAYARIT
 
-LEY DEL SISTEMA DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE NAYARIT
+LEY DEL SISTEMA DE GEOGRAFÍA, ESTADÍSTICA Y EVALUACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 27 de diciembre de 2014.
 
@@ -35,7 +35,9 @@ Que el H. Congreso Local, se ha servido dirigirme para su promulgación, el sigu
 
 El Congreso del Estado Libre y Soberano de Nayarit representado por su XXXI Legislatura, decreta:
 
-Ley del Sistema de Información Estadística y Geográfica del Estado de Nayarit
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+Ley del Sistema de Geografía, Estadística y Evaluación del Estado de Nayarit
 
 ### Capítulo I. Disposiciones Generales
 
@@ -47,9 +49,13 @@ Las disposiciones de esta Ley son de orden público, interés social y observanc
 
 Esta ley tiene por objeto:
 
-I. Constituir el Sistema Estatal de Información Estadística y Geográfica, y normar su organización y funcionamiento para la toma de decisiones;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-II. Regular el uso de la información estadística y geográfica, en favor del desarrollo estatal, así como ampliar la cultura en materia de generación y uso de la información estadística y geográfica en la sociedad nayarita, y
+I. Constituir el Sistema de Geografía, Estadística y Evaluación, y normar su organización y funcionamiento para la toma de decisiones;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+II. Regular el uso de la información estadística y geográfica, en favor del desarrollo estatal, apoyar los procesos de diseño, implementación, monitoreo y evaluación de las políticas públicas, así como ampliar la cultura en materia de generación y uso de la información estadística y geográfica en la sociedad nayarita, y
 
 III. Establecer los derechos y obligaciones de quienes deban proporcionar la información del Sistema, en los términos de esta ley.
 
@@ -61,55 +67,95 @@ I. Actividades: Las relativas al diseño, captación, producción, actualizació
 
 II. Comité: El Comité Estatal de Información Estadística y Geográfica;
 
-III. INEGI: El Instituto Nacional de Estadística y Geografía;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
-IV. Información Cartográfica: La representación en forma analógica o digital de la información geográfica;
+III. Gran Plan: Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo;
 
-V. Información Estadística: El conjunto de resultados cuantitativos o datos que se obtienen de las actividades estadísticas y geográficas en materia estadística, tomando como base los datos primarios obtenidos de los informantes del Sistema sobre hechos que son relevantes para el conocimiento de los fenómenos económicos, demográficos y sociales, así como sus relaciones con el medio ambiente y su espacio territorial;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
-VI. Información Geográfica: El conjunto organizado de datos referenciados en el territorio, que describen un hecho y fenómenos geográficos;
+IV. INEGI: El Instituto Nacional de Estadística y Geografía;
 
-VII. Informantes: Personas físicas y morales de carácter público o privado a quienes les sean solicitados datos estadísticos y geográficos en términos de esta ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
-VIII. Levantamiento Aerofotográfico: Técnica que mediante fotografías aéreas verticales, permite realizar mediciones confiables del terreno;
+V. Información Cartográfica: La representación en forma analógica o digital de la información geográfica;
 
-IX. Levantamiento Geodésico: El conjunto de procedimientos y operaciones de campo y gabinete, destinado a determinar las coordenadas geodésicas de puntos sobre el terreno considerando la curvatura de la Tierra, elegidos y demarcados con respecto al sistema de referencia en uso;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
-X. Programa Estatal: El Programa Estatal de Información Estadística y Geográfica;
+VI. Información Estadística: El conjunto de resultados cuantitativos o datos que se obtienen de las actividades estadísticas y geográficas en materia estadística, tomando como base los datos primarios obtenidos de los informantes del Sistema sobre hechos que son relevantes para el conocimiento de los fenómenos económicos, demográficos y sociales, así como sus relaciones con el medio ambiente y su espacio territorial;
 
-XI. Red Estatal de Información: El conjunto de Unidades y procesos para el intercambio y resguardo de información, así como la prestación del servicio público de información a toda la sociedad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
-XII. Secretaría: La Secretaría de Planeación, Programación y Presupuesto;
+VII. Información Geográfica: El conjunto organizado de datos referenciados en el territorio, que describen un hecho y fenómenos geográficos;
 
-XIII. Servicio al público de información estadística y geográfica: Se refiere a las actividades mediante las cuales se pone a disposición de los usuarios, la información generada por el Sistema;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
-XIV. Sistema: Al Sistema Estatal de Información Estadística y Geográfica;
+VIII. Informantes: Personas físicas y morales de carácter público o privado a quienes les sean solicitados datos estadísticos y geográficos en términos de esta ley;
 
-XV. Sistema Nacional: Al Sistema Nacional de Información Estadística y Geográfica;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+IX. Instituto: El Instituto de Planeación del Estado de Nayarit;
 
-XVI. Subsistemas: A los Subsistemas Estatales de Información;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+X. Levantamiento Aerofotográfico: Técnica que, mediante fotografías aéreas verticales, permite realizar mediciones confiables del terreno;
 
-XVII. UMA: A la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XI. Levantamiento Geodésico: El conjunto de procedimientos y operaciones de campo y gabinete, destinado a determinar las coordenadas geodésicas de puntos sobre el terreno considerando la curvatura de la Tierra, elegidos y demarcados con respecto al sistema de referencia en uso;
 
-XVIII. Unidades: Las dependencias y entidades que integran la Administración Pública Estatal, así como las dependencias y entidades de los municipios, y del INEGI, que cuenten con atribuciones para desarrollar Actividades, o que cuenten con registros administrativos que permitan obtener información estadística y geográfica.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XII. Programa de Gobierno: El Programa de Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XIII. Programa Estatal: Programa Estatal de Geografía, Estadística y Evaluación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XIV. Red Estatal de Información: El conjunto de Unidades y procesos para el intercambio y resguardo de información, así como la prestación del servicio público de información a toda la sociedad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XV. Servicio al público de información estadística y geográfica: Se refiere a las actividades mediante las cuales se pone a disposición de los usuarios, la información generada por el Sistema;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XVI. Sistema: Al Sistema de Geografía, Estadística y Evaluación del Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XVII. Sistema Nacional: Al Sistema Nacional de Información Estadística y Geográfica;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XVIII. Subsistemas: A los Subsistemas Estatales de Información;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XIX. UMA: A la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XX. Unidades: Las dependencias y entidades que integran la Administración Pública Estatal, así como las dependencias y entidades de los municipios, y del INEGI, que cuenten con atribuciones para desarrollar Actividades, o que cuenten con registros administrativos que permitan obtener información estadística y geográfica.
 
 ### Capítulo II. Autoridades en Materia de Información Estadística y Geográfica
 
-#### Sección Primera. De la Secretaría
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+#### Sección Primera. Del Instituto
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 4.
 
-Para los efectos de esta ley, la Secretaría es la autoridad encargada de su aplicación.
+Para los efectos de esta ley, el Instituto es la autoridad encargada de su aplicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-La Secretaría tendrá las siguientes atribuciones:
+El Instituto tendrá las siguientes atribuciones:
 
 I. Dictar las políticas, estrategias, prioridades y restricciones para la captación, generación, integración y organización de la información estadística y geográfica en congruencia con el Sistema Nacional;
 
@@ -125,7 +171,9 @@ VI. Poner a disposición del Sistema Nacional la información estadística y geo
 
 VII. Promover la capacitación técnica de las Unidades y la cultura del uso de la información estadística y geográfica;
 
-VIII. Elaborar y someter a la aprobación del Comité, el Programa Estatal, asegurando su inclusión en el Plan Estatal de Desarrollo y la congruencia con los programas establecidos por el Sistema Nacional;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+VIII. Elaborar y someter a la aprobación del Comité, el Programa Estatal, asegurando su inclusión en el Gran Plan y Programa de Gobierno y la congruencia con los programas establecidos por el Sistema Nacional;
 
 IX. Ejecutar los acuerdos y disposiciones que en su caso dicte el Gobernador en relación al objeto de esta ley;
 
@@ -137,7 +185,9 @@ XII. Solicitar a las Unidades la información que éstas obtengan en el ámbito 
 
 XIII. Promover los levantamientos aerofotográficos, geodésicos y de información cartográfica que sea necesaria, para el cumplimiento del objeto de esta ley;
 
-XIV. Coordinarse con las Unidades en la realización de estudios e investigaciones que permitan conocer la realidad sociodemográfica, educativa, económica, ambiental, así como del gobierno, seguridad y justicia, para apoyar la ejecución y evaluación de las políticas y estrategias del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XIV. Coordinarse con las Unidades en la realización de estudios e investigaciones que permitan conocer la realidad sociodemográfica, educativa, económica, ambiental, así como del gobierno, seguridad y justicia, para apoyar la ejecución y evaluación de las políticas y estrategias del Gran Plan y Programa de Gobierno;
 
 XV. Realizar la denuncia o querella ante la instancia correspondiente por mala utilización de la información;
 
@@ -155,9 +205,13 @@ El Comité es un órgano colegiado de participación para la toma de decisiones 
 
 El Comité estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el titular de la Secretaría;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-II. Vocales, serán los titulares de las dependencias de la administración pública centralizada estatal, así como los municipios que representen a las regiones, grupos o zonas que se conformen en el Estado, elegidos por los integrantes de las mismas;
+I. Un Presidente, que será el Director General del Instituto;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+II. Vocales, serán los titulares de las dependencias de la administración pública centralizada estatal, así como los municipios que representen a las regiones con base en la Ley de Planeación del Estado de Nayarit, grupos o zonas que se conformen en el Estado, elegidos por los integrantes de las mismas;
 
 III. Un Secretario Técnico, que será el Titular de la Coordinación Estatal del INEGI en la entidad, y
 
@@ -243,11 +297,15 @@ El Comité establecerá un calendario de sesiones, celebrando cuando menos dos s
 
 El desahogo de la sesiones se sujetará a lo dispuesto en el reglamento de esta ley.
 
-#### Sección Tercera. De las Unidades del Sistema Estatal de Información Estadística y Geográfica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+#### Sección Tercera. De las Unidades del Sistema de Geografía, Estadística y Evaluación
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-Las Unidades, así como otras instituciones académicas o particulares invitadas, se integrarán al Sistema a través de la Secretaría, bajo los principios y normas que para tales fines establece esta ley y su reglamento.
+Las Unidades, así como otras instituciones académicas o particulares invitadas, se integrarán al Sistema a través del Instituto, bajo los principios y normas que para tales fines establece esta ley y su reglamento.
 
 ###### Artículo 13.
 
@@ -257,91 +315,159 @@ I. Observar las bases, normas y principios para producir, integrar y difundir in
 
 II. Definir al interior de su estructura orgánica, el o los enlaces que serán en la dependencia quienes realicen las funciones objeto de esta ley, así como dotarlos de los recursos suficientes para dichas funciones;
 
-III. Proporcionar en tiempo y forma a la Secretaría, la información que ésta solicite;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-IV. Colaborar en la integración de un sistema de indicadores de gestión que permita el diseño, seguimiento y evaluación del Plan Estatal de Desarrollo;
+III. Proporcionar en tiempo y forma al Instituto, la información que éste solicite;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+IV. Colaborar en la integración de un sistema de indicadores de gestión que permita el diseño, seguimiento y evaluación del Gran Plan y Programa de Gobierno;
 
 V. Elaborar, sujetándose a la normatividad y disponibilidad presupuestaria los anteproyectos de presupuesto anual para la realización de los trabajos estadísticos y geográficos de su competencia;
 
-VI. Promover en tiempo y forma los temas, información e indicadores que integrará la Secretaría;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+VI. Promover en tiempo y forma los temas, información e indicadores que integrará el Instituto;
 
 VII. Resguardar y conservar la información, así como los metadatos o especificaciones concretas de la aplicación de las metodologías que se utilicen en su elaboración;
 
-VIII. Impulsar el estudio y las investigaciones en el campo del conocimiento de la estructura, el funcionamiento y la evolución de la situación económica y social del Estado y de los fenómenos de esta índole que se presenten en la región y en el resto del país, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-IX. Participar en los programas de formación de capacidades que convoque la Secretaría.
+VIII. Impulsar el estudio y las investigaciones en el campo del conocimiento de la estructura, el funcionamiento y la evolución de la situación económica y social del Estado y de los fenómenos de esta índole que se presenten en la región y en el resto del país;
 
-### Capítulo III. Sistema Estatal de Información Estadística y Geográfica y Subsistemas Estatales de Información
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+IX. Participar en los programas de formación de capacidades que convoque el Instituto;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+X. Colaborar en la integración del sistema de indicadores de gestión que permita el diseño, seguimiento y evaluación de los programas y planes de desarrollo;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XI. Realizar estudios e investigaciones especiales que se le encomienden, con la finalidad de apoyar al Ejecutivo del Estado en la planeación y evaluación de los programas de gobierno de los sectores y áreas estratégicas;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XII. Impulsar el desarrollo, la sistematización y fortalecimiento de la generación de registros administrativos en las dependencias de Gobierno del Estado, con base a una metodología científicamente sustentada, que permita obtener información ligada y para el monitoreo periódico de indicadores estratégicos y de gestión.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+### Capítulo III. Sistema de Geografía, Estadística y Evaluación y Subsistemas Estatales de Información
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-El Sistema Estatal de Información Estadística y Geográfica es el conjunto de Unidades organizadas a través de los Subsistemas, coordinadas por la Secretaría mediante la Red Estatal de Información, con el propósito de producir y difundir la información estadística y geográfica estatal.
+El Sistema de Geografía, Estadística y Evaluación es el conjunto de Unidades organizadas a través de los Subsistemas, coordinadas por el Instituto mediante la Red Estatal de Información, con el propósito de producir y difundir la información geográfica, estadística y de evaluación estatal.
 
 El Sistema tiene por finalidad satisfacer las necesidades de información estratégica para la planeación del desarrollo económico, social y territorial sustentable, bajo los principios de accesibilidad, transparencia, objetividad e independencia.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+Así también institucionalizar y operar un esquema coordinado con las Unidades del Sistema que permita apoyar el monitoreo y evaluación de las políticas públicas.
 
 ###### Artículo 15.
 
 El Sistema tendrá como objetivos específicos:
 
-I. Proveer la información necesaria para el diseño, seguimiento y evaluación del Plan Estatal de Desarrollo, así como de programas y proyectos ejecutados por las dependencias del Gobierno del Estado y los municipios;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+I. Proveer la información necesaria para el diseño, seguimiento y evaluación del Gran Plan y Programa de Gobierno, así como de programas y proyectos ejecutados por las dependencias del Gobierno del Estado y los municipios;
 
 II. Mantener, mejorar y actualizar la información estadística y geográfica del Estado;
 
 III. Impulsar la generación de estadísticas sectoriales a través del aprovechamiento, desarrollo y la modernización de registros administrativos;
 
-IV. Promover la difusión, conocimiento, uso y conservación de la Información, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-V. Establecer las reservas que existen sobre la información conforme a la Ley de Transparencia y Acceso de Información Pública del Estado de Nayarit.
+IV. Promover la difusión, conocimiento, uso y conservación de la Información;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+V. Establecer las reservas que existen sobre la información conforme a la Ley de Transparencia y Acceso de (sic) Información Pública del Estado de Nayarit;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+VI. Conocer la situación que guardan la gestión y el desempeño de las Unidades de Estado, y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+VII. Proveer de información necesaria que apoye los procesos de diseño, implementación, monitoreo y evaluación de los programas y proyectos ejecutados por las Unidades del Estado, así como los planes y las políticas públicas generales de alcance estatal.
 
 ###### Artículo 16.
 
 Para asegurar la concordancia del Sistema al Sistema Nacional, se constituirán al menos los siguientes Subsistemas Estatales de Información:
 
-I. Demográfica y Social;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+I. Social;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
 II. Económica;
 
-III. Geográfica, Medio Ambiente y Desarrollo Urbano, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-IV. Gobierno, Seguridad Pública y Justicia.
+III. Gobernanza, y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+IV. Territorio.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-El Subsistema Estatal de Información Demográfica y Social se integrará por los indicadores básicos de temas relacionados con población y dinámica demográfica, salud, educación, empleo, distribución del ingreso, pobreza y vivienda.
+El Subsistema Estatal de Información Social se integrará por los indicadores básicos de temas relacionados con población y dinámica demográfica, salud, educación, empleo, distribución del ingreso, pobreza y vivienda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 18.
 
-La Secretaría deberá integrar y/o generar, con la colaboración de las Unidades, los indicadores y los diagnósticos de los temas a que se refiere el artículo anterior, a partir de la estadística oficial que se obtenga de:
+El Instituto deberá integrar y/o generar, con la colaboración de las unidades, los indicadores y los diagnósticos de los temas a que se refiere el artículo anterior, a partir de la estadística oficial que se obtenga de:
 
 I. Los censos y conteos de población y vivienda que realiza el INEGI, o de los esquemas alternativos que pudieran adoptarse en el futuro para sustituirlo total o parcialmente;
 
-II. Las encuestas en hogares que realiza el INEGI y las que determine la Secretaría como necesarias para el Estado;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+II. Las encuestas en hogares que realiza el INEGI y las que determine el Instituto como necesarias para el Estado;
 
 III. Los registros administrativos sectoriales del Estado y municipales que permitan obtener información en la materia, en estricta observancia de la normatividad técnica y legislación aplicable;
 
-IV. Las encuestas sociodemográficas que ésta promueva, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+IV. Las encuestas sociodemográficas que éste promueva, y
 
 V. La generada por el Consejo Nacional de Evaluación de la Política de Desarrollo Social, el Consejo Nacional de Población y por el Sistema Nacional.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 19.
 
 El Subsistema Estatal de Información Económica se integrará por los indicadores básicos de temas relacionados con el sistema de cuentas nacionales; precios, empleo e inversión, ciencia y tecnología, así como información de las finanzas estatales y municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-El Subsistema Estatal de Información Geográfica, Medio Ambiente y Desarrollo Urbano se integrará por la siguiente información:
+El Subsistema Estatal de Información del Territorio, se integrará por la siguiente información:
 
 I. Geográfica: Marco geoestadístico que genera el INEGI, tenencia de la tierra, límites costeros, insulares, estatales y municipales, datos topográficos y nombres geográficos;
 
 II. Medio Ambiente: Recursos naturales y clima. Procurando integrar los datos que describan los medios naturales, los espacios de plantas y animales, así como de otros organismos que se encuentran dentro de estos medios. La información mínima deberá abarcar los temas relacionados con la atmósfera, agua, suelo, flora, fauna, residuos peligrosos, residuos sólidos y cambio climático, y
 
-III. Desarrollo Urbano: Desarrollo urbano, catastro, ordenamiento territorial, patrimonio histórico e infraestructura.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+III. Urbano: Desarrollo urbano, catastro, ordenamiento territorial, patrimonio histórico e infraestructura.
 
 A la información de este subsistema se le denominará infraestructura de datos espaciales del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-La Secretaría integrará los datos a que se refiere el artículo anterior a partir de la información proveniente de:
+El Instituto integrará los datos a que se refiere el artículo anterior a partir de la información proveniente de:
 
 I. Los sistemas de información ambiental y de recursos naturales, nacional, estatal y municipal;
 
@@ -357,9 +483,11 @@ VI. El sistema de planeación del desarrollo urbano, y
 
 VII. Los inventarios de infraestructura carretera y obra de edificación.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 22.
 
-El Subsistema Estatal de Gobierno, Seguridad Pública y Justicia se integrará por los indicadores básicos de temas relacionados, entre otros, con la transparencia y rendición de cuentas, indicadores de gestión gubernamental, índices delictivos, averiguaciones previas, protección civil y estadísticas judiciales.
+El Subsistema Estatal de Gobernanza, se integrará por los indicadores básicos de temas relacionados, entre otros, con la transparencia y rendición de cuentas, indicadores de gestión gubernamental, índices delictivos, averiguaciones previas, protección civil y estadísticas judiciales.
 
 ###### Artículo 23.
 
@@ -369,7 +497,9 @@ Las Unidades que participarán en los trabajos de cada subsistema serán determi
 
 El Comité podrá acordar la creación de otros subsistemas que considere necesarios para el adecuado funcionamiento del Sistema.
 
-### Capítulo IV. Programa Estatal de Información Estadística y Geográfica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+### Capítulo IV. Programa Estatal de Geografía, Estadística y Evaluación
 
 ###### Artículo 25.
 
@@ -381,7 +511,9 @@ El Programa Estatal se publicará en el Periódico Oficial, Órgano del Gobierno
 
 El Programa Estatal, cumplirá con los siguientes lineamientos:
 
-I. Será elaborado cada seis años formando parte de los programas sectoriales, regionales y especiales del Plan Estatal de Desarrollo y en congruencia con el Programa Nacional de Estadística y Geografía, debiendo evaluarse y actualizarse al final de cada gestión del Gobierno Estatal o cuando se modifique el Programa Nacional aludido;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+I. Será elaborado cada seis años formando parte de los programas sectoriales, regionales y especiales del Programa de Gobierno derivado del Gran Plan, con el Programa de Gobierno y en congruencia con el Programa Nacional de Estadística y Geografía, debiendo evaluarse y actualizarse al final de cada gestión del Gobierno Estatal o cuando se modifique el Programa Nacional aludido;
 
 II. Establecerá el conjunto de proyectos y actividades a ser realizados por las Unidades durante cada periodo del Gobierno Estatal, en congruencia con el Programa Nacional de Estadística y Geografía en lo relativo al contenido temático de la información correspondiente a los subsistemas;
 
@@ -419,7 +551,9 @@ Los datos que los informantes del Sistema proporcionen para fines estadísticos 
 
 Cuando se deba divulgar la información a que se refiere el párrafo anterior, ésta deberá estar agregada de tal manera que no se pueda identificar a los informantes del Sistema y en general, a las personas físicas o morales objeto de la información.
 
-La Secretaría asegurará la correcta difusión y el acceso del público a la información, con apego a lo dispuesto en la legislación aplicable.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+El Instituto asegurará la correcta difusión y el acceso del público a la información, con apego a lo dispuesto en la legislación aplicable.
 
 ###### Artículo 31.
 
@@ -437,11 +571,13 @@ V. El plazo para proporcionar la información, que deberá fijarse conforme a la
 
 Las anteriores previsiones deberán aparecer en los cuestionarios y documentos que formulen las Unidades para recopilar datos o se harán del conocimiento de los informantes al captar la información estadística o geográfica.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 32.
 
-La Secretaría podrá efectuar inspecciones para verificar la autenticidad de la información cuando los datos proporcionados sean incongruentes, incompletos o inconsistentes, siempre y cuando se lleve a cabo con el objeto de verificar las obligaciones que establezca esta ley.
+El Instituto podrá efectuar inspecciones para verificar la autenticidad de la información cuando los datos proporcionados sean incongruentes, incompletos o inconsistentes, siempre y cuando se lleve a cabo con el objeto de verificar las obligaciones que establezca esta ley.
 
-Para la realización de las inspecciones de verificación, se observaran las disposiciones aplicables previstas en la Ley de Justicia y Procedimientos Administrativo (sic) para el Estado de Nayarit.
+Para la realización de las inspecciones de verificación, se observarán las disposiciones aplicables previstas en la Ley de Justicia y Procedimientos Administrativo (sic) para el Estado de Nayarit.
 
 ### Capítulo VI. Registro Estatal de Estadística y de Información Geográfica
 
@@ -461,17 +597,23 @@ En los casos en que las Unidades en materia de producción catastral no cuenten 
 
 ### Capítulo VII. Servicio al Público de Información Estadística y Geográfica
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-La Secretaría será la responsable de prestar el servicio público de información estadística y geográfica, poniendo a disposición de los usuarios, el acervo de información, de conformidad con las disposiciones previstas en esta ley.
+El Instituto será el responsable de prestar el servicio público de información geográfica, estadística y de evaluación, poniendo a disposición de los usuarios, el acervo de información, de conformidad con las disposiciones previstas en esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 36.
 
-El servicio al público de información será otorgado por la Secretaría, sin perjuicio de que las propias Unidades puedan dar a conocer la información que generen, observando las previsiones de la presente ley.
+El servicio al público de información será otorgado por el Instituto, sin perjuicio de que las propias Unidades puedan dar a conocer la información que generen, observando las previsiones de la presente ley.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 37.
 
-La Secretaría pondrá la información a que refiere esta ley a disposición de los usuarios en el sitio de internet y en los centros de consulta que para tal efecto se establezcan.
+El Instituto pondrá la información a que refiere esta ley a disposición de los usuarios en el sitio de internet y en los centros de consulta que para tal efecto se establezcan.
 
 ### Capítulo VIII. Infracciones y Sanciones Administrativas
 
@@ -487,7 +629,9 @@ I. Se nieguen a proporcionar datos, informes o a exhibir documentos cuando les s
 
 II. Suministren datos falsos o incompletos;
 
-III. Se opongan a las visitas del personal facultado por la Secretaría para la verificación de la información proporcionada;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+III. Se opongan a las visitas del personal facultado por el Instituto para la verificación de la información proporcionada;
 
 IV. Participen deliberadamente en actos y omisiones que entorpezcan el desarrollo de los procesos de generación de información estadística y geográfica;
 
@@ -525,7 +669,9 @@ II. Suministren datos falsos o incompletos, y
 
 III. Violen la confidencialidad de los datos estadísticos o revelen dichos datos.
 
-Para efectos del presente artículo, se consideran como recolectoras las personas a las que la Secretaría encomiende labores propias de recolección y recopilación de información estadística y geográfica en forma periódica y como auxiliares, quienes desempeñen cualquier otra actividad relacionada con el proceso de elaboración de la estadística y la obtención de datos de carácter geográfico.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+Para efectos del presente artículo, se consideran como recolectoras las personas a las que el Instituto encomiende labores propias de recolección y recopilación de información geográfica, estadística y de evaluación en forma periódica y como auxiliares, quienes desempeñen cualquier otra actividad relacionada con el proceso de elaboración de la estadística y la obtención de datos de carácter geográfico.
 
 ###### Artículo 42.
 
@@ -591,9 +737,11 @@ Las resoluciones que impongan sanciones económicas se comunicarán a la Secreta
 
 ### Capítulo IX. Recurso Administrativo de Inconformidad
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 48.
 
-Los actos que dicte la Secretaría podrán ser impugnados de acuerdo al recurso de inconformidad contemplado en la Ley de Justicia y Procedimientos Administrativos del Estado Nayarit.
+Los actos que dicte el Instituto podrán ser impugnados de acuerdo al recurso de inconformidad contemplado en la Ley de Justicia y Procedimientos Administrativos del Estado Nayarit.
 
 ## Artículos Transitorios
 
@@ -614,3 +762,11 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE NAYARIT.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA LA DENOMINACIÓN DE LA LEY Y DIVERSOS ARTÍCULOS A LA LEY DEL SISTEMA DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, deberá realizar las modificaciones al Reglamento de la presente Ley dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
