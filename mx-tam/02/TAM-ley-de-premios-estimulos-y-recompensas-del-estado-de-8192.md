@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2020-07-08"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -697,25 +697,45 @@ El premio deberá entregarse anualmente, preferentemente el día 12 de mayo por 
 
 ### CAPITULO XVIII. PREMIO ESTATAL DE LA INNOVACIÓN, LA CIENCIA Y LA TECNOLOGÍA
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-ARTICULO 89 QUATER.- El Premio Estatal de la Innovación, la Ciencia y la Tecnología se conferirán a la o a las personas físicas o morales que estén domiciliadas dentro del Estado que, por sus productos, diseños, procesos, servicios, métodos u organizaciones, contribuyan en el avance de la innovación, la ciencia y la tecnología de Tamaulipas.
+ARTICULO 89 QUÁTER.- El Premio Estatal de la Innovación, la Ciencia y la Tecnología se conferirá a la o a las personas físicas o morales que estén domiciliadas dentro del Estado que, por sus productos, diseños, procesos, servicios, métodos u organizaciones, contribuyan en el avance de la innovación, la ciencia y la tecnología de Tamaulipas.
 
-Estos Premios se otorgarán en las siguientes categorías:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+Este Premio se otorgará hasta en tres categorías:
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
 
 I. Innovación;
 
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
 II. Ciencia; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
 
 III. Tecnología.
 
-Estos Premios se tramitarán ante el Consejo Tamaulipeco de Ciencia y Tecnología, cuyo titular formará parte del Consejo de Premiación, el cual será presidido por quien ostente la Presidencia de la Comisión de Innovación, Ciencia y Tecnología del Congreso del Estado; así mismo, lo integrarán también las o los titulares de las Secretarías de Bienestar Social, de Desarrollo Económico, de Educación, y la Rectoría de la Universidad Autónoma de Tamaulipas.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+La tramitación de este Premio se hará ante el Consejo Tamaulipeco de Ciencia y Tecnología, cuyo titular formará parte del Consejo de Premiación, el cual será presidido por quien ostente la Presidencia de la Comisión de Innovación, Ciencia y Tecnología del Congreso del Estado; así mismo, lo integrarán también las o los titulares de las Secretarías de Bienestar Social, de Desarrollo Económico, de Educación, y la Rectoría de la Universidad Autónoma de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 Cualquier persona podrá presentar candidaturas de acuerdo con los lineamientos de la Convocatoria.
 
-Los Premios consistirán en una medalla. El Consejo podrá proponer al Gobernador del Estado que la presea se acompañe de entrega en numerario o en especie.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-Estos Premios deberán entregarse anualmente y de preferencia durante el mes de abril, en el marco de la conmemoración del Día Mundial de la Ciencia y Tecnología, del Día Mundial de la Creatividad y la Innovación o del Día Mundial de la Propiedad Intelectual.
+El Premio consistirá en una medalla. El Consejo podrá proponer al Gobernador del Estado que la presea se acompañe de entrega en numerario o en especie.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+Este Premio deberá otorgarse anualmente y de preferencia durante el mes de abril, en el marco de la conmemoración del Día Mundial de la Ciencia y Tecnología, del Día Mundial de la Creatividad y la Innovación o del Día Mundial de la Propiedad Intelectual.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+La denominación del Premio se sujetará a las categorías comprendidas en la Convocatoria para el año respectivo.
 
 (REUBICADO [N. DE E. ANTES CAPITULO XVII], P.O. 6 DE ABRIL DE 2011)
 
@@ -811,17 +831,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-P.O. 6 DE SEPTIEMBRE DE 2006.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
 P.O. 23 DE FEBRERO DE 2010.
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 6 DE ABRIL DE 2011.
 
@@ -890,3 +910,11 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-147 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 89 QUÁTER, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, QUINTO Y SEXTO; Y SE ADICIONA UN PÁRRAFO SÉPTIMO A DICHO NUMERAL DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
