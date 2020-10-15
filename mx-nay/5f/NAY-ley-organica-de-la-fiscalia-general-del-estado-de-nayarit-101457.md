@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2020-08-06"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE AGOSTO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -2029,11 +2027,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Los órganos, unidades y demás áreas administrativas que actualmente se encuentren en funciones y que modifiquen su configuración orgánica interna con la entrada en vigor del presente decreto, seguirán desarrollando sus funciones y atribuciones, hasta en tanto se emita el Reglamento Interior.
 
-TERCERO. En el proceso de transición del personal a la Fiscalía General deberá llevarse a cabo conforme a los siguientes lineamientos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+TERCERO. El proceso de transición de los recursos humanos, materiales, financieros y presupuestales, del Gobierno del Estado a la Fiscalía General del Estado a fin de materializar la autonomía de la Fiscalía General, se seguirá conforme a las siguientes bases normativas:
 
 I. Para el fortalecimiento transicional al Sistema de Justicia Penal Acusatorio y Oral, el Fiscal General en coordinación con el titular del Poder Ejecutivo, ambos a través de sus instancias o dependencias respectivas, acordarán sobre el personal administrativo y de base que aquel necesite para el desempeño de sus funciones, respetándose los derechos laborales adquiridos;
 
 II. En tanto se instale el Servicio Profesional de Carrera de la Fiscalía General, la profesionalización, el régimen disciplinario, la certificación y el régimen de seguridad social deberán cumplir con el régimen previsto por la Ley General del Sistema Nacional de Seguridad Pública y la particular del Estado.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+III. Ejecutar conjuntamente un convenio interinstitucional entre la Fiscalía General del Estado y el Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, a fin de formalizar la transferencia en favor de la Fiscalía General del Estado de todos los recursos humanos, materiales, financieros y presupuestales necesarios para realizar su función como ente público autónomo, y deberá contener, por lo menos:
+
+a) Las bases para formalizar las transferencias de los recursos presupuestales aprobados por el Congreso del Estado en sus correspondientes ejercicios fiscales, así como la implementación de mecanismos necesarios para que la Fiscalía General del Estado ejerza de manera directa su presupuesto vigente, con la suficiencia que le permita materializar y consolidar su autonomía técnica y de gestión;
+
+b) Las bases para formalizar la transferencia de los vehículos, el equipo de oficina, de cómputo, licencias y demás bienes muebles que se han adquirido y se encuentran en posesión de ésta, quedando a cargo de una Comisión de Trabajo la elaboración del inventario de los bienes transferidos y las actas de entrega-recepción correspondientes, y
+
+c) Las bases para formalizar la transferencia del personal operativo que conforma su plantilla y, en su caso, la reubicación del personal que no sea asignado a alguna de las unidades administrativas u operativas de la Fiscalía General del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+Para el proceso de transición del patrimonio del Gobierno del Estado a la Fiscalía General del Estado se deberá suscribir el convenio referido en el presente artículo transitorio, en un plazo no mayor a un año contado a partir de la entrada en vigor del presente Decreto, estableciendo la temporalidad en que deberá llevarse a cabo dicha transición.
 
 CUARTO. A partir de la entrada en vigor del presente decreto, el Fiscal General del Estado, contará con un plazo máximo de un año para emitir el Reglamento Interior y las disposiciones conducentes que permitan el funcionamiento y cumplimiento de sus atribuciones a los órganos y unidades que conforman la Fiscalía General, en las que se deberá contemplar un área de inteligencia patrimonial y económica a que se refiere el artículo 6 de la Ley, además de definir la operación y despliegue territorial del modelo de investigación criminal, los lineamientos para el diseño y activación de la nueva estructura organizativa; así como del proceso de cierre de las estructuras y la estrategia de colaboración con otras instituciones con las que requiera coordinarse para llevar a cabo la función de investigación y litigación penal.
 
@@ -2054,3 +2068,9 @@ P.O. 6 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POLÍTICA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT, PUBLICADO EL 28 DE MAYO DE 2019, SECCIÓN CUARTA, NÚMERO 103, EN EL PERIÓDICO OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
