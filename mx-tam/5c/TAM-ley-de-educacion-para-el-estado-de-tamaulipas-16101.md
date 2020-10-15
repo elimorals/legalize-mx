@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2020-06-25"
+last_updated: "2020-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -1881,15 +1881,21 @@ XIV.- Administrar a los educandos, sin previa prescripción médica y consentimi
 
 XV.- Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes:
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-XVI.- Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos; y
+XVI.- Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2020)</small>
 
-XVII.- Incumplir con las medidas correctivas derivadas de las visitas de inspección.
+XVII.- Condicionar la entrega de documentos personales o académicos de las o los alumnos; y
 
-Las disposiciones de este Artículo no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ellos.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XVIII.- Incumplir con las medidas correctivas derivadas de las visitas de inspección.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+Las disposiciones de este artículo no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ellos.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -2320,3 +2326,11 @@ P.O. 25 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIV-143 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVI, XVII Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 103 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
