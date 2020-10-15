@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2020-07-08"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -901,11 +901,21 @@ El Sistema DIF Tamaulipas y los Sistemas DIF Municipales, en coordinación con l
 
 El Sistema DIF Tamaulipas y los Sistemas DIF Municipales enviarán al Sistema Nacional DIF la información en el momento en que se genere a fin de que se incorpore en las bases que operará éste último, en coordinación con el Instituto Nacional de Migración, bajo los criterios establecidos en la ley respectiva.
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO VIGÉSIMO SEGUNDO. DEL DERECHO DE ACCESO A LA INTERNET Y A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LA COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 69 BIS.
+
+1. Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro de la internet y las tecnologías de la información y la comunicación, como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento y no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones legales aplicables.
+
+2. Las madres, padres, tutores o quienes ejerzan la guarda y custodia de las y los menores, tendrán la obligación de promover y procurar el uso adecuado, equilibrado y responsable del internet y de las tecnologías de la información y la comunicación, a fin de garantizar el desarrollo y bienestar físico, mental y emocional de niñas, niños y adolescentes.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### ARTÍCULO 70.
 
@@ -979,7 +989,7 @@ La madre, el padre, los tutores, todas las personas que tengan a su cuidado niñ
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 76.
 
@@ -1005,7 +1015,7 @@ La Procuraduría de Protección, en coordinación con la Procuraduría de Protec
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO SEGUNDO. DE LA PROCURADURÍA DE PROTECCIÓN
+### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
 
 ###### ARTÍCULO 80.
 
@@ -1075,7 +1085,7 @@ XI.- Impulsar la participación de las organizaciones privadas dedicadas a la pr
 
 XII.- Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Estatal DIF.
 
-### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
+### CAPÍTULO SEGUNDO. DE LA PROCURADURÍA DE PROTECCIÓN
 
 ###### ARTÍCULO 84.
 
@@ -1185,7 +1195,7 @@ V.- No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 3. La Procuraduría de Protección podrá contar con Procuradurías Regionales para el mejor desempeño de sus atribuciones.
 
-### CAPÍTULO CUARTO. DE LOS ORGANISMOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS
+### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
 #### SECCIÓN PRIMERA. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
@@ -1363,13 +1373,13 @@ V.- No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 Los Ayuntamientos contarán con un programa de atención y los Sistemas DIF municipales fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y estatales competentes.
 
-### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL
+### CAPÍTULO CUARTO. DE LOS ORGANISMOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 95.
 
 La Comisión de Derechos Humanos del Estado, en la medida de sus posibilidades, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL
 
 ###### ARTÍCULO 96.
 
@@ -1384,6 +1394,8 @@ El Programa preverá acciones de mediano y largo alcance, indicando los objetivo
 El Programa deberá incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y será publicado en el Periódico Oficial del Estado de Tamaulipas.
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES ADMINISTRATIVAS
+
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 99.
 
@@ -1540,3 +1552,11 @@ P.O. 8 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIV-149 MEDIANTE EL CUAL SE ADICIONAN EL CAPÍTULO VIGÉSIMO SEGUNDO AL TÍTULO SEGUNDO Y EL ARTÍCULO 69 BIS A LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
