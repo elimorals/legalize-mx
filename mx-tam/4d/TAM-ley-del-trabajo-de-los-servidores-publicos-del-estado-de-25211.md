@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2020-08-27"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -460,6 +460,32 @@ XIX.- Otorgar a los trabajadores al servicio del Gobierno del Estado, permisos e
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 Para el cumplimiento de las obligaciones mencionadas en la fracción III del presente artículo, las dependencias dispondrán en su presupuesto de un fondo económico, de conformidad con la disponibilidad del Presupuesto de Egresos del Estado. De ser insuficiente dicho fondo, el saldo deberá incluirse en el presupuesto del año siguiente y pagarse en el orden de la fecha de notificación del laudo o de la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 33 Bis.
+
+Para los casos de madres o padres servidores públicos del Estado, cuyos hijos menores de 18 años o mayores de edad que presenten una discapacidad que amerite el cuidado de un familiar hayan sido diagnosticados por la Institución de Salud correspondiente con cáncer de cualquier tipo, podrán gozar de una licencia por cuidados médicos de los hijos para ausentarse de sus labores en caso de que el niño, niña, adolescente o mayor de edad con discapacidad diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción del médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.
+
+La Institución de Salud correspondiente podrá expedir a alguno de los padres servidores públicos del Estado, que se sitúe en el supuesto previsto en el párrafo que antecede, una constancia que acredite el padecimiento oncológico y la duración del tratamiento respectivo, a fin de que el patrón o patrones de éstos tengan conocimiento de tal licencia.
+
+La licencia expedida por la Institución de Salud correspondiente al padre o madre trabajador asegurado, tendrá una vigencia de uno y hasta veintiocho días.
+
+Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años sin que se excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+
+Las madres o padres servidores públicos del Estado ubicados en el supuesto establecido en los párrafos que anteceden y que hayan cubierto por lo menos treinta cotizaciones semanales en el periodo de doce meses anteriores a la fecha del diagnóstico por los servicios médicos institucionales, y en caso de no cumplir con este periodo, tener al menos registradas cincuenta y dos semanas de cotización inmediatas previas al inicio de la licencia, gozarán de un subsidio equivalente al sesenta por ciento del último salario diario de cotización registrado por la Institución en que labora.
+
+La licencia a que se refiere el presente artículo, únicamente podrá otorgarse a petición de parte, ya sea al padre o madre que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor o al mayor de edad con discapacidad que por su condición amerite el cuidado de un familiar. En ningún caso se podrá otorgar dicha licencia a ambos padres.
+
+Las licencias otorgadas a padres o madres servidores públicos del Estado previstas en el presente artículo, cesarán:
+
+I.- Cuando no se requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
+
+II.- Por ocurrir el fallecimiento del enfermo;
+
+III.- Cuando el menor cumpla 18 años, con excepción de las personas con discapacidad que por su condición ameriten el cuidado de un familiar; y
+
+IV.- Cuando el ascendiente que goza de la licencia, sea contratado por un nuevo patrón.
 
 ###### ARTICULO 34.
 
@@ -1542,3 +1568,11 @@ P.O. 27 DE AGOSTO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-148 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 33 BIS, A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
