@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2020-08-27"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4393,7 +4393,7 @@ ARTICULO 337 QUATER.- Al que prive de la vida a su adoptante o adoptado, cónyug
 
 ### CAPITULO VIII. ABANDONO DE PERSONAS
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 338.
 
@@ -4685,7 +4685,7 @@ III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de mu
 
 ###### ARTICULO 362.
 
-Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a una persona menor de edad, o que siendo mayor de edad le sea imposible cuidar de sí misma.
+Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a un menor, a una persona enferma o adulta mayor, incapaces de cuidarse a sí mismos.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -6776,6 +6776,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE AGOSTO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-131 MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO VI BIS, DEL TÍTULO UNDÉCIMO; Y EL ARTÍCULO 263 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-144 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS; LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS; LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS; LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
