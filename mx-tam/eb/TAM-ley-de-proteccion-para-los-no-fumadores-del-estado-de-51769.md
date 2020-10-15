@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-para-los-no-fumadores-del-estado-de-51769"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-06"
-last_updated: "2016-12-21"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de septiembre de 2006.
 
@@ -359,7 +359,9 @@ I. La venta de cigarros a menores de edad e incapaces, personas con discapacidad
 
 II. La inducción de cualquier persona para hacer fumar o formar el hábito o dependencia al tabaquismo a menores de edad o incapaces, o personas con discapacidad mental; y
 
-III. Fumar en cualquiera de los lugares a que se refiere el Artículo 7o. de esta Ley con la presencia de lactantes, niños, ancianos, mujeres embarazadas y personas con discapacidad.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+III. Fumar en cualquiera de los lugares a que se refiere el Artículo 7o. de esta Ley con la presencia de lactantes, niños, persona adulta mayor, mujeres embarazadas y personas con discapacidad.
 
 ###### ARTICULO 32.
 
@@ -456,3 +458,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-144 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS; LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS; LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS; LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
