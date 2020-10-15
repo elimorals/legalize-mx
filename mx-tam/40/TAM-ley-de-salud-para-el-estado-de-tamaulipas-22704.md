@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2020-08-27"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -355,9 +355,9 @@ I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de
 
 II.- Contribuir al desarrollo demográfico armónico del Estado, mediante el fortalecimiento de programas en materia de salud sexual y reproductiva;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y personas con discapacidad, para fomentar y proporcionar su incorporación a una vida activa y equilibrada en lo físico, psicológico, económico y social;
+III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, personas adultas mayores desamparadas y personas con discapacidad, para fomentar y proporcionar su incorporación a una vida activa y equilibrada en lo físico, psicológico, económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez y la adolescencia;
 
@@ -3728,6 +3728,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 27 DE AGOSTO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-135 MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 185 DE LA LEY DE SALUD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-144 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS; LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS; LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS; LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
