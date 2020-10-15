@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-13981
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en la Trigésima Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 31 de diciembre de 2019.
 
@@ -459,6 +459,12 @@ Artículo Sexto. Túrnese el presente Decreto al Titular de la Auditoría Superi
 
 Artículo Séptimo. Dese cuenta del presente Decreto y sus anexos respectivos que forman parte integral del mismo, al Titular del Poder Ejecutivo del Estado, al titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+Artículo Octavo. Durante los meses de agosto a diciembre del Ejercicio Fiscal 2020, se otorgará un descuento del 100% en los adeudos de ejercicios fiscales anteriores a que se refieren los Derechos por Servicios de Registro y Control Vehicular de Transporte Particular en materia de motocicletas, establecidos en el artículo 104 en su fracción I, inciso E y fracción II inciso E, incluyendo sus accesorios, de la Ley de Hacienda del Estado de Michoacán de Ocampo. Dicho descuento se aplicará siempre y cuando se cubran los derechos correspondientes al Ejercicio Fiscal del año 2020.
+
+En ningún caso el descuento a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
 El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno, de conformidad con lo dispuesto por la primera parte del artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
@@ -470,3 +476,13 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 31 treinta y un días del mes de diciembre del año 2019 dos mil diecinueve.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. CARLOS HERRERA TELLO.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 353 POR EL QUE “SE ADICIONA EL ARTÍCULO OCTAVO TRANSITORIO A LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
