@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-derechos-de-cooperacion-para-la-ejecucion-de-obras-16160
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-28"
-last_updated: "1978-09-16"
+last_updated: "2020-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAM"
 ---
 # LEY DE DERECHOS DE COOPERACION PARA LA EJECUCION DE OBRAS DE INTERES PUBLICO
 
-LEY DE DERECHOS DE COOPERACION PARA LA EJECUCION DE OBRAS DE INTERES PUBLICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. LXIV-151, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1978.
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE OCTUBRE DE 2020 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
+LEY DE DERECHOS DE COOPERACIÓN PARA LA EJECUCIÓN DE OBRAS DE INTERÉS PÚBLICO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020 (DEROGADA).
 
 Ley publicada en el Periódico Oficial, el 28 de diciembre de 1977.
 
@@ -180,3 +184,17 @@ Continúa en vigor el Decreto No. 406 publicado en el Periódico Oficial No. 104
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NO. LXIV-151 MEDIANTE EL CUAL SE ABROGA LA LEY DE DERECHOS DE COOPERACIÓN PARA LA EJECUCIÓN DE OBRAS DE INTERÉS PÚBLICO DEL ESTADO DE TAMAULIPAS, EXPEDIDA POR EL CONGRESO DEL ESTADO EL DÍA 26 DE DICIEMBRE DE 1977, MEDIANTE DECRETO NÚMERO 407 (SIC).]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley de Derechos de Cooperación para la Ejecución de Obras de Interés Público del Estado de Tamaulipas, expedida por el Congreso del Estado el día 26 de diciembre de 1977, mediante decreto número 407 (sic).
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-151 MEDIANTE EL CUAL SE ABROGA LA LEY DE DERECHOS DE COOPERACIÓN PARA LA EJECUCIÓN DE OBRAS DE INTERÉS PÚBLICO DEL ESTADO DE TAMAULIPAS, EXPEDIDA POR EL CONGRESO DEL ESTADO EL DÍA 26 DE DICIEMBRE DE 1977, MEDIANTE DECRETO NÚMERO 407 (SIC)”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
