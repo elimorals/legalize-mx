@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-136930"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-29"
-last_updated: "2019-12-03"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE DICIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Cuarta al Número 104 del Periódico Oficial del Estado de Nayarit, el miércoles 29 de mayo de 2019.
 
@@ -651,9 +649,11 @@ El Gran Plan deberá ser aprobado por la Junta de Gobierno del IPLANAY, y por el
 
 Los Programas de Gobierno Estatal y Municipal contendrán los objetivos, estrategias y metas que sirvan de base a las actividades del Poder Ejecutivo del Estado y de los Municipios, de forma que aseguren el cumplimiento del Gran Plan y los planes municipales de Desarrollo.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 48.
 
-El Programa de Gobierno del Estado deberá ser coordinado en su elaboración por el IPLANAY con la participación de las Dependencias y Entidades del Poder Ejecutivo, con la coordinación y asesoría del IPLANAY, y deberá ser aprobado por la Junta de Gobierno del IPLANAY y el Gobernador del Estado dentro de los primeros cien días de su gestión. El Programa de Gobierno se actualizará, en su caso, cuando por condiciones específicas de carácter estratégico, se considere necesario, para lo cual, deberá seguirse el mismo proceso consultivo, que se llevó a cabo en su elaboración.
+El Programa de Gobierno del Estado deberá ser coordinado en su elaboración por el IPLANAY con la participación de las Dependencias y Entidades del Poder Ejecutivo, con la coordinación y asesoría del IPLANAY, y deberá ser aprobado por la Junta de Gobierno del IPLANAY y el Gobernador del Estado dentro de los primeros setenta y cinco días de su gestión. El Programa de Gobierno se actualizará, en su caso, cuando por condiciones específicas de carácter estratégico, se considere necesario, para lo cual, deberá seguirse el mismo proceso consultivo, que se llevó a cabo en su elaboración.
 
 ###### Artículo 49.
 
@@ -842,3 +842,11 @@ Dip. Ana Yusara Ramírez Salazar, Presidenta.- Rúbrica.- Dip. Marisol Sánchez 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintinueve días del mes de mayo del año dos mil diecinueve.- L.C. ANTONIO ECHEVARRÍA GARCÍA.
 
 Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 48 DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
