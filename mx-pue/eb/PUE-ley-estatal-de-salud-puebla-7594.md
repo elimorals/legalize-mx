@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2020-10-02"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -131,7 +131,9 @@ II. La atención materno-infantil;
 
 III. La prestación de servicios de planificación familiar;
 
-IV. La salud mental;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+IV. La salud mental, visual y auditiva;
 
 V. La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
@@ -155,11 +157,15 @@ XIII. La prevención y el control de enfermedades transmisibles;
 
 XIV. La prevención y el control de las enfermedades no transmisibles y accidentes;
 
-XV. La prevención de la invalidez y la rehabilitación de los inválidos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XV. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
 XVI. La asistencia social;
 
-XVII. La participación con las Autoridades Federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2020)</small>
+
+XVII. La participación con las Autoridades Federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo, la farmacodependencia y el consumo de estupefacientes y psicotrópicos, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
 
 XVIII. Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento basándose en la Norma Oficial Mexicana;
 
@@ -3422,3 +3428,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Una vez que entre en vigor el presente Decreto, la Secretaría de Salud del Estado de Puebla, deberá actualizar los manuales de operación para la expedición de certificados médicos prenupciales, conforme a los modelos aprobados y distribuidos por la Secretaría de Salud Federal y de conformidad con las Normas Oficiales Mexicanas que la misma emita, en un término que no exceda de 60 días naturales.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IV, XV Y XVII DE LA BASE A DEL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
