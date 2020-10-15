@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2017-12-15"
+last_updated: "2020-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -55,9 +55,9 @@ c) precisar los elementos rectores para su convivencia; y,
 
 d) definir los principios para su formación, atención, protección y desarrollo integral e integrado en sus aspectos ético y social.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
-3. Las normas del derecho de familia que esta ley establece son de carácter social, tendentes a satisfacer las necesidades de subsistencia, defensa y desarrollo de los integrantes de la familia; y tutelares substancialmente de los derechos de la mujer, los menores, los adultos mayores, jubilados y ancianos, así como de todo miembro de la familia con capacidades diferentes;
+3. Las normas del derecho de familia que esta ley establece son de carácter social, tendentes a satisfacer las necesidades de subsistencia, defensa y desarrollo de los integrantes de la familia; y tutelares substancialmente de los derechos de la mujer, los menores, los adultos mayores y jubilados, así como de todo miembro de la familia con alguna discapacidad.
 
 4. Las disposiciones de esta ley se aplicarán con preferencia a otras leyes. En caso de ausencia de norma, supletoriamente se aplicarán el Código Civil y el Código de Procedimientos Civiles para el Estado.
 
@@ -792,6 +792,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE DICIEMBRE DE 2017
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-144 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS; LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS; LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS; LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
