@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-sobre-modificaciones-a-documentos-basicos-124097"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-10-16"
-last_updated: "2017-10-16"
+last_updated: "2020-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "BCN"
 
 REGLAMENTO SOBRE MODIFICACIONES A DOCUMENTOS BÁSICOS, REGISTRO DE INTEGRANTES DE ÓRGANOS DIRECTIVOS, CAMBIO DE DOMICILIO Y REGISTRO DE REGLAMENTOS DE PARTIDOS POLÍTICOS LOCALES, ASÍ COMO LA ACREDITACIÓN DE REPRESENTANTES ANTE LOS CONSEJOS ELECTORALES DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 16 de octubre de 2017.
 
@@ -256,7 +256,9 @@ Cuando el Partido Político de nuevo registro lleve a cabo la primera integraci�
 
 a) Constancias que acrediten la elección o designación de los delegados o equivalentes que deban asistir a la sesión del órgano competente;
 
-b) Documento que acredite el registro de candidatos a los cargos directivos, mismos que deberán cumplir con los requisitos establecidos en las normas estatutarias correspondientes;
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+b) Documento que acredite el registro de candidatos a los cargos directivos, mismos que deberán cumplir con los requisitos establecidos en las normas estatutarias correspondientes, así como con el principio de paridad de género;
 
 c) Copia fotostática legible de la Credencial para Votar de cada uno de los integrantes de los órganos directivos electos o designados; y
 
@@ -272,11 +274,13 @@ En la integración de órganos directivos de Partidos Políticos de nuevo regist
 
 DE LA COMUNICACIÓN RESPECTO A LA RENOVACIÓN O CAMBIOS DE LOS ÓRGANOS DIRECTIVOS DE LOS PARTIDOS POLÍTICOS.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 19.
 
 DE LA RENOVACIÓN DE LOS ÓRGANOS DIRECTIVOS DE LOS PARTIDOS POLÍTICOS.
 
-La renovación de los órganos directivos de los Partidos Políticos deberá efectuarse invariablemente en los plazos previstos en sus Estatutos, tomando en cuenta la duración del período para el cual hayan sido electos o designados de conformidad con las normas estatutarias respectivas.
+La renovación de los órganos directivos de los Partidos Políticos deberá efectuarse invariablemente en los plazos previstos en sus Estatutos, tomando en cuenta la duración del período para el cual hayan sido electos o designados de conformidad con las normas estatutarias respectivas, así como con el principio de paridad de género.
 
 ###### ARTÍCULO 20.
 
@@ -286,7 +290,9 @@ Cuando el Partido Político lleve a cabo la renovación o cambios en la integrac
 
 a) Constancias que acrediten la elección o designación de los delegados o equivalentes que deban asistir a la sesión del órgano competente;
 
-b) Documento que acredite el registro de candidatos a los cargos directivos, mismos que deberán cumplir con los requisitos establecidos en las normas estatutarias correspondientes;
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+b) Documento que acredite el registro de candidatos a los cargos directivos, mismos que deberán cumplir con los requisitos establecidos en las normas estatutarias correspondientes, así como con el principio de paridad de género.
 
 c) Copia fotostática legible de la Credencial para Votar de cada uno de los integrantes de los órganos directivos electos o designados; y
 
@@ -304,13 +310,17 @@ DE LA INTEGRACIÓN DE FORMA TEMPORAL DE UN ÓRGANO DIRECTIVO.
 
 En caso de que se lleve a cabo un cambio temporal en la integración del órgano directivo, en virtud de la solicitud de licencia o la aplicación de una sanción a alguno de sus miembros, consistente en la suspensión temporal en el ejercicio del cargo, también deberán acompañarse las constancias que acrediten haber concluido tal procedimiento, indicando el plazo en que estará vigente la licencia o suspensión y, en su caso, la designación de quien ejercerá dichas funciones durante la licencia o suspensión del dirigente.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 23.
 
 DE OTRAS CAUSALES Y SUS CONSTANCIAS.
 
-1. De existir alguna otra causal por la que el titular del órgano directivo no haya podido continuar en el cargo, y por la cual haya sido sustituido, deberán también acompañarse las constancias relativas, tales como renuncia, acta de defunción o cualquier otro documento que genere convicción respecto de la imposibilidad de seguir en el cargo.
+Cuando se trate de renuncia a un cargo partidista el Partido Político deberá cerciorarse plenamente de su autenticidad, debiendo llevar a cabo la ratificación por comparecencia correspondiente.
 
-2. Cuando se trate de renuncia a un cargo partidista el Partido Político deberá cerciorarse plenamente de su autenticidad, debiendo llevar a cabo la ratificación por comparecencia correspondiente.
+En caso de ser mujeres quienes presenten su renuncia, en el acto de comparecencia se deberá prestar la atención necesaria para prevenir y atender los posibles casos de violencia política contra la mujer en razón de género, haciéndoles saber las consecuencias jurídicas del acto al que acude y el derecho que tienen a integrar los órganos intrapartidistas, explicando qué es violencia política de género y, en su caso, informándoles que pueden presentar las denuncias correspondientes.
+
+Una vez brindada la asistencia referida, y de persistir la intención de renunciar al cargo, se procederá a ratificar la renuncia en plena conciencia de los efectos del acto.
 
 En caso de no poder llevar a cabo la ratificación de la renuncia deberá informar por escrito los motivos correspondientes, proporcionando el o los domicilios de las personas que hayan renunciado, para que el Instituto a través del ejercicio de la función de oficialía electoral realice la ratificación por comparecencia respectiva.
 
@@ -441,3 +451,11 @@ PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente de
 SEGUNDO. Publíquese el presente Reglamento en el Periódico Oficial del Gobierno del Estado de Baja California y difúndase a través de la página electrónica del Instituto Estatal Electoral del Estado de Baja California.
 
 TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento serán resueltos conforme a las normas aplicables al momento de su inicio.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "RESOLUTIVO QUINTO DEL DICTAMEN NÚMERO VEINTIDÓS POR EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA, REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA Y REGLAMENTO SOBRE MODIFICACIONES A DOCUMENTOS BÁSICOS, REGISTRO DE INTEGRANTES DE ÓRGANOS DIRECTIVOS, CAMBIO DE DOMICILIO, Y REGISTRO DE REGLAMENTOS DE PARTIDOS POLÍTICOS LOCALES, ASÍ COMO LA ACREDITACIÓN DE REPRESENTANTES ANTE LOS CONSEJOS ELECTORALES DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA".]
+
+ÚNICO. Las reformas realizadas al Reglamento sobre modificaciones a documentos básicos, registro de integrantes de órganos directivos, cambio de domicilio, y registro de reglamentos de partidos políticos locales, así como la acreditación de representantes ante los Consejos Electorales del Instituto Estatal Electoral de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
