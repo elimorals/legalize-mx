@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2020-07-09"
+last_updated: "2020-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2311,7 +2311,9 @@ Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autorida
 
 Comete el delito de ultrajes a la moral pública o a las buenas costumbres, quien en un sitio público y por cualquier medio ejecuta o hace ejecutar por otro, exhibiciones obscenas.
 
-Este delito se sancionará con una pena de seis meses a dos años de prisión y sanción pecuniaria de sesenta a doscientos días de salario mínimo.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+Este delito se sancionará con una pena de seis meses a dos años de prisión y sanción pecuniaria de sesenta a doscientos días del valor de la unidad de medida y actualización.
 
 ### CAPÍTULO IV. Incumplimiento de las Obligaciones de Asistencia Familiar
 
@@ -5324,3 +5326,9 @@ P.O. 9 DE JULIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0766.- SE REFORMA EL ARTÍCULO 190 EN SU PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
