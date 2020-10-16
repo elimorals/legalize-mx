@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2019-11-25"
+last_updated: "2020-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -527,7 +527,9 @@ I.- La constitución de empresas de carácter colectivo y familiar, o que genere
 
 II.- El establecimiento de convenios entre industrias y productores primarios de la región para la adquisición de materias primas;
 
-III.- La adopción de tecnologías sustentables ahorradoras de energía; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+III.- La adopción de tecnologías sustentables ahorradoras de energía, basadas en energías limpias y renovables; y
 
 IV.- La construcción y adquisición de infraestructura, maquinaria y equipo que eleve su competitividad.
 
@@ -627,7 +629,9 @@ IV.- La asociación de productores mediante la figura jurídica que más conveng
 
 V.- La inversión en restauración y mejoramiento del suelo, recursos naturales y servicios ambientales;
 
-VI.- El establecimiento de tecnologías sustentables ahorradoras de energía; y que permitan la conservación de los recursos naturales renovables y no renovables; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+VI.- El establecimiento de tecnologías sustentables ahorradoras de energía; basadas en energías limpias y renovables, y que permitan la conservación de los recursos naturales renovables y no renovables; y
 
 VII.- Los demás que establezca la Secretaría, con la participación del Consejo Estatal.
 
@@ -1462,6 +1466,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 25 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 2, 4 FRACCIONES I, XXIV Y XXV, 36, 86 PRIMER PÁRRAFO, 90 SEGUNDO PÁRRAFO, 146 FRACCIÓN XI; Y ADICIONA LA FRACCIÓN XXVI AL ARTÍCULO 4, TODOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 Y LA FRACCIÓN VI DEL ARTÍCULO 64 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
