@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2020-05-29"
+last_updated: "2020-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -35,9 +35,11 @@ REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-El Tribunal de Justicia Administrativa para el Estado de Nuevo León, se rige por las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, la Ley de Justicia Administrativa para el Estado, el presente Reglamento y demás ordenamientos jurídicos aplicables.
+El Tribunal de Justicia Administrativa para el Estado de Nuevo León, se rige por las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, el presente Reglamento y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 2.
 
@@ -57,7 +59,9 @@ IV. Sala Superior: La Sala Superior del Tribunal de Justicia Administrativa del 
 
 V. Salas Ordinarias: Las Salas Ordinarias Unitarias del Tribunal de Justicia Administrativa del Estado;
 
-VI. Ley de Transparencia: La Ley de Transparencia y Acceso a la Información Pública del Estado;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+VI. Ley de Transparencia: La Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
 
 VII. Reglamento: El presente Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Nuevo León; y.
 
@@ -67,29 +71,35 @@ VIII. SITJA: Sistema de Información del Tribunal de Justicia Administrativa
 
 Los servidores públicos del Tribunal ajustarán su actividad jurisdiccional y administrativa a la Ley, a este Reglamento, a los Acuerdos de la Sala Superior y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 4.
 
-Las disposiciones de este Reglamento son de observancia obligatoria para los servidores públicos del Tribunal. Corresponde a la Sala Superior y al Presidente cuidar su debido cumplimiento, en el ámbito de sus respectivas competencias.
+Las disposiciones de este Reglamento son de observancia obligatoria para los servidores públicos del Tribunal y usuarios en general. Corresponde a la Sala Superior y al Presidente cuidar su debido cumplimiento, en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-El horario de recepción de promociones en la Oficialía de Partes del Tribunal, así como para la práctica de diligencias de notificación será el previsto en la Ley y en el presente reglamento.
+El horario de recepción de promociones en el Tribunal, así como para la práctica de diligencias de notificación será el previsto en la Ley y este Reglamento.
 
 ###### Artículo 6.
 
 Cuando la Sala Superior estime pertinente adicionar, reformar o derogar disposiciones del Reglamento, se ajustarán al siguiente procedimiento:
 
-I. La Sala Superior, en sesión, designará una Comisión Normativa, que estará integrada cuando por lo menos con un Magistrado de la Sala Superior, y con los Secretarios de Estudio y Cuenta que se consideren necesarios; Comisión que emitirá por escrito el dictamen correspondiente ante la Sala Superior, en un plazo no mayor de diez días hábiles;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+I. La Sala Superior, en sesión, designará una Comisión Normativa, que estará integrada por lo menos con un Magistrado de la Sala Superior, y demás personal que se estime necesario; Comisión que emitirá por escrito el dictamen correspondiente ante la Sala Superior, en un plazo no mayor de diez días hábiles;
 
 II. Una vez presentado el dictamen, la Sala Superior lo analizará, en sesión, para su votación.
 
 III. Aprobada la adición, reforma o derogación de las disposiciones del Reglamento, la Sala Superior ordenará su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-Los Magistrados, Secretario General, Secretarios de Estudio y Cuenta, escribientes y demás personal jurisdiccional, así como los servidores públicos responsables de las áreas administrativas que generen, administren, manejen, archiven o custodien información pública estarán sujetos en lo que corresponda a lo establecido en la Ley de Transparencia.
+Los Magistrados, Secretario General, Secretarios de Estudio y Cuenta, Escribientes y demás personal jurisdiccional, así como los servidores públicos responsables de las áreas administrativas que generen, administren, manejen, archiven o custodien información pública estarán sujetos en lo que corresponda a lo establecido en la Ley de Transparencia.
 
 Asimismo, están obligados a cumplir con los lineamientos que respecto a estas materias establezca la Sala Superior.
 
@@ -139,33 +149,49 @@ VIII. Coordinador de Amparos;
 
 IX. Coordinador de Actuarios.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-X. Secretarios de Estudio y Cuenta;
+X. Coordinadores de Ponencia de Sala Superior.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XI. Secretarios Auxiliares;
+XI. Coordinador de Sala Ordinaria
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XII. Asistentes jurídicos;
+XII. Coordinador de Sala Especializada en Materia de Responsabilidades Administrativas
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XIII. Escribientes;
+XIII. Coordinador de enlace interinstitucional y transparencia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XIV. Actuarios;
+XIV. Secretarios de Estudio y Cuenta;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XV. Jefes de Archivo; y
+XV. Secretarios Auxiliares;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XVI. Personal jurídico y técnico administrativo.
+XVI. Asistentes jurídicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XVII. Escribientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XVIII. Actuarios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XIX. Jefes de Archivo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XX Personal jurídico y técnico administrativo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2018)</small>
 
@@ -205,9 +231,11 @@ X. Analizar y aprobar todas las acciones relacionadas con el presupuesto del (si
 
 En el caso de renuncia, licencia o ausencia absoluta del Presidente del Tribunal, los dos Magistrados restantes de la Sala Superior en sesión extraordinaria, acordarán quien deberá concluir el período en cuestión, mismo que desempeñará el cargo hasta la toma de posesión del nuevo Presidente. En caso de que no exista acuerdo, ocupara dicha función el Magistrado que tenga mayor antigüedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 14.
 
-Las sesiones de la Sala Superior serán ordinarias, extraordinarias y jurisdiccionales, mismas que serán públicas, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean privadas. En las Sesiones ordinarias serán revisados los informes de actividades de la Sala Superior y Salas Ordinarias, y el buen funcionamiento del Tribunal, pudiendo tratarse los demás asuntos generales que estimen pertinentes; en las sesiones extraordinarias serán tratados los asuntos que por su premura se considere necesario; y en las sesiones jurisdiccionales serán analizados los proyectos de resolución de los Recursos de Revisión que para tal efecto sean enlistados.
+Las sesiones de la Sala Superior serán ordinarias, extraordinarias y jurisdiccionales, mismas que serán públicas y podrán ser videograbadas a petición de uno de los Magistrados que integran la Sala Superior, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean privadas. En las Sesiones ordinarias serán revisados los informes de actividades de la Sala Superior y Salas Ordinarias, y el buen funcionamiento del Tribunal, pudiendo tratarse los demás asuntos generales que estimen pertinentes; en las sesiones extraordinarias serán tratados los asuntos que por su premura se considere necesario; y en las sesiones jurisdiccionales serán analizados los proyectos de resolución de los Recursos de Revisión que para tal efecto sean enlistados.
 
 De toda sesión se levantará el acta correspondiente, elaborada por el Secretario General de Acuerdos o a falta de éste por la persona autorizada para el efecto por la propia Sala Superior.
 
@@ -225,9 +253,11 @@ La Sala Superior sesionará ordinariamente dentro de los quince primeros días d
 
 Si una sesión se prolongara en demasía, sin acordarse todos los puntos del Orden del Día o si se considera justificadamente necesario, el Presidente podrá establecer un receso por el tiempo que estime necesario. La sesión se reanudará en el momento o en la fecha y hora establecidas, sin necesidad de nueva convocatoria.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-Las Convocatorias para sesiones ordinarias, extraordinarias y jurisdiccionales, se harán cuando menos con 24 horas de anticipación y contendrán el correspondiente Orden del Día, en donde se relacionarán los puntos a tratar.
+Las Convocatorias para sesiones ordinarias, extraordinarias y jurisdiccionales, se harán cuando menos con 24 horas de anticipación, exceptuando lo anterior cuando los tres Magistrados de la Sala Superior así lo acuerden de forma unánime y contendrán el correspondiente Orden del Día, en donde se relacionarán los puntos a tratar.
 
 ###### Artículo 17.
 
@@ -237,9 +267,11 @@ Los magistrados asistentes a cada sesión deberán firmar las actas que se levan
 
 Los acuerdos o resoluciones tomadas en las sesiones ordinarias y extraordinarias, se harán constar en el acta respectiva indicándose si el resultado de la votación se obtuvo por mayoría o por unanimidad. El Magistrado que no haya estado de acuerdo con el sentido de la votación podrá solicitar que se haga constar en el acta su voto razonado; las votaciones serán tomadas nominalmente.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 19.
 
-En el desahogo de las sesiones jurisdiccionales, los Magistrados presentarán sus ponencias en los términos de este Reglamento. Durante las mismas el Magistrado Ponente podrá retirar el proyecto cuando así lo considere conveniente, a fin de realizar una nueva reflexión entorno (sic) al asunto jurídico a dilucidar. Si algún proyecto no alcanza la mayoría de votos, se turnará al Magistrado que en su caso designe el Presidente, para la elaboración del nuevo proyecto; en su caso el Magistrado disidente podrá formular voto particular o concurrente, debiendo resolverse en definitiva por mayoría. El desahogo de la sesión jurisdiccional se hará constar en el acta respectiva.
+En el desahogo de las sesiones jurisdiccionales, los Magistrados presentarán sus ponencias en los términos de este Reglamento. Durante las mismas el Magistrado Ponente podrá retirar el proyecto cuando así lo considere conveniente. Si algún proyecto no alcanza la mayoría de votos, se turnará al Magistrado que en su caso designe el Presidente, para la elaboración del nuevo proyecto; en su caso el Magistrado disidente podrá formular voto particular o concurrente, debiendo resolverse en definitiva por mayoría. El desahogo de la sesión jurisdiccional se hará constar en el acta respectiva.
 
 ###### Artículo 20.
 
@@ -253,9 +285,9 @@ Corresponde al Presidente del Tribunal, además de las facultades y atribuciones
 
 I. Representar al Tribunal y a la Sala Superior ante toda clase de autoridades, incluyendo las jurisdiccionales y administrativas.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-II. Nombrar, contando con la aprobación de la mayoría de los integrantes de la Sala Superior al Coordinador Jurídico de la Sala Superior, Coordinador de Criterios, Coordinador de Amparos, Coordinador de Actuarios, Secretario Auxiliar de Presidencia, Secretarios Auxiliares de Sala, Enlace Administrativo, Jefe de Tecnología de Información, conforme a los lineamientos y procedimientos que establezca la propia Sala Superior; previa evaluación de su experiencia y trayectoria.
+II. Nombrar, contando con la aprobación de la mayoría de los integrantes de la Sala Superior al Coordinador Jurídico de la Sala Superior, Coordinador de Criterios, Coordinador de Amparos, Coordinador de Actuarios, Coordinador de Enlace Interinstitucional y Transparencia, Secretario Auxiliar de Presidencia, Secretarios Auxiliares de Sala, Enlace Administrativo, Jefe de Tecnología de Información, conforme a los lineamientos y procedimientos que establezca la propia Sala Superior; previa evaluación de su experiencia y trayectoria.
 
 III. Dar cuenta a la Sala Superior, en la sesión ordinaria próxima, de las quejas administrativas que se interpongan;
 
@@ -283,9 +315,13 @@ XIII. Conducir la planeación estratégica del Tribunal, de conformidad con los 
 
 XIV. Dirigir la política de comunicación social y de relaciones públicas del Tribunal, informando a la Sala Superior;
 
-XV. Presentar los informes de actividades realizadas por la Sala Superior y las Salas Ordinarias.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XVI. Recepcionar los exhortos rogatorios y despachados, que sean girados por otros Órganos de Justicia Administrativa, y turnarlos a la Sala Ordinaria que se designe, a fin de que sea debidamente diligenciado.
+XV. Presentar los informes de actividades realizadas por la Sala Superior, las Salas Ordinarias y la Sala Especializada en Materia de Responsabilidades Administrativas
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XVI. Recepcionar los exhortos rogatorios y despachados, que sean girados por otros Órganos de Justicia Administrativa, y turnarlos a las Salas que se designe, a fin de que sean debidamente diligenciados.
 
 XVII. Nombrar a los escribientes a propuesta de cualquiera de los Magistrados Integrantes del Tribunal.
 
@@ -321,11 +357,19 @@ X. Exponer en sesión pública, personalmente o por conducto de un secretario, s
 
 XI. Realizar los engroses de los fallos aprobados por la Sala Superior, de los asuntos que le corresponda a su ponencia, dentro del término de cinco días siguientes a la sesión en donde se aprobó; y
 
-XII. Las demás establecidas en la Ley, acuerdos de la Sala Superior y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XII. Nombrar de entre los Secretarios de Estudio y Cuenta, adscritos a su ponencia, al coordinador de ponencia; y
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XIII. Las demás establecidas en la Ley, acuerdos de la Sala Superior y otras disposiciones aplicables
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 24.
 
-Los Magistrados de la Sala Superior contarán con el número de Secretarios, Actuarios y demás personal que se decida por dicha Sala, atendiendo a su presupuesto. Cada uno de los Secretarios dará fe de los actos que practique de acuerdo con las facultades que la Ley le otorga y realizarán las tareas que el Magistrado Ponente le asigne.
+Los Magistrados de la Sala Superior contarán con el número de Secretarios de Estudio y Cuenta, Actuarios y demás personal que se decida por dicha Sala, atendiendo a su presupuesto. Cada uno de los Secretarios de Estudio y Cuenta dará fe de los actos que practique de acuerdo con las facultades que la Ley le otorga y realizarán las tareas que el Magistrado Ponente le asigne.
 
 ### CAPÍTULO VI. DEL SECRETARIO GENERAL DE ACUERDOS
 
@@ -349,7 +393,9 @@ V. Con el auxilio del Enlace Administrativo del Tribunal, tramitar los movimient
 
 VI. Compilar las resoluciones del Tribunal y de otros organismos jurisdiccionales vinculados con la materia administrativa y fiscal; pudiendo utilizar medios electrónicos para tal efecto;
 
-VII. Levantar el registro de firmas de los Magistrados, Secretarios y Actuarios del Tribunal.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+VII. Levantar el registro de firmas de los Magistrados, Secretarios de Estudio y Cuenta y Actuarios del Tribunal.
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
 
@@ -381,13 +427,13 @@ XVIII. Las demás que le atribuyan las disposiciones legales, le ordene la Sala 
 
 Corresponde al Secretario Auxiliar de Presidencia:
 
-I. Acopiar los informes que rindan las Salas Integrantes del Tribunal;
+I. (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
-II. Elaborar las Estadísticas Mensuales de las labores del Tribunal;
+II. (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
-III. Fungir como enlace con las diversas dependencias, entidades, órganos y personas en general; y para el efecto del enlace de información en los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, deberá ejercer las facultades que a dicho encargo corresponden de conformidad con lo previsto en la citada Ley.
+III. (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
-IV. Auxiliar en la administración de los recursos humanos, financieros y materiales del Tribunal; y
+IV. (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
 V. Las demás que le asigne el Presidente o la Sala Superior del Tribunal o cualquier otra disposición legal.
 
@@ -416,6 +462,12 @@ VIII. Supervisar para su adecuado funcionamiento el archivo de la ponencia a la 
 IX. Autorizar y dar fe de los acuerdos, autos y demás actuaciones del Magistrado de la ponencia de su adscripción, así como expedir las copias certificadas que autorice el titular; y
 
 X. Desempeñar las demás funciones que el Magistrado de la ponencia de su adscripción les indiquen;
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 27 Bis.
+
+El Secretario de Estudio y Cuenta Coordinador, coadyuvará en el debido funcionamiento de la ponencia, del Magistrado al que se encuentre adscrito.
 
 ### CAPÍTULO IX. DE LOS MAGISTRADOS DE LAS SALAS ORDINARIAS
 
@@ -457,19 +509,25 @@ XV. Conservar en el secreto de la Sala, para su resguardo, todos los valores exh
 
 XVI. Acatar las resoluciones que dicte la Sala Superior, en materia de contradicción de criterios; y
 
-XVII. Las demás que establezcan las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XVII. Nombrar de entre sus Secretarios de Estudio y Cuenta, al Coordinador de la Sala; y
+
+(REUBICADA, P.O. 16 DE OCTUBRE DE 2020)
+
+XVIII. Las demás que establezcan las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-Artículo 28 bis. El Tribunal de Justicia Administrativa, a través de la Sala Especializada en materia de Responsabilidades Administrativas, será el órgano competente, para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como faltas administrativas graves, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los asuntos derivados de las sanciones administrativas que emitan otras autoridades derivadas de responsabilidades administrativas.
+Artículo 28 bis.- El Tribunal de Justicia Administrativa, a través de la Sala Especializada en materia de Responsabilidades Administrativas, será el órgano competente, para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como faltas administrativas graves, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los asuntos derivados de las sanciones administrativas que emitan otras autoridades derivadas de responsabilidades administrativas.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
-Artículo 28 bis 1. El Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, además de las facultades y atribuciones establecidas en la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, tendrá las referidas en el artículo 28 del presente Reglamento.
+Artículo 28 bis 1.- El Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas, además de las facultades y atribuciones establecidas en la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, tendrá las referidas en el artículo 28 del presente Reglamento.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-Artículo 28 bis 2. La Sala Especializada en materia de Responsabilidades Administrativas estará conformada por los (sic) menos con el personal que señala el artículo 197, fracción XIV, de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+Artículo 28 bis 2.- La Sala Especializada en materia de Responsabilidades Administrativas estará conformada por los menos con el personal que señala el artículo 197, fracción XIV, de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, pudiendo nombrar de entre sus Secretarios de Estudio y Cuenta a un Coordinador.
 
 ### CAPÍTULO X. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA DE LAS SALAS ORDINARIAS
 
@@ -506,6 +564,12 @@ XIII Controlar los sellos a su cargo;
 XIV Coadyuvar con el Magistrado de Sala Ordinaria, en la elaboración del Informe de labores; y
 
 XV Desempeñar las demás funciones que el Magistrado de su adscripción les indiquen, acorde a la naturaleza propia del Tribunal.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 29 Bis.
+
+El Secretario de Estudio y Cuenta Coordinador, coadyuvará en el debido funcionamiento de la Sala de su adscripción
 
 ### CAPÍTULO XI. DE LOS ACTUARIOS
 
@@ -551,7 +615,9 @@ II.- Atender con toda diligencia y calidad a los usuarios que soliciten los serv
 
 III.- Citar por escrito a las autoridades administrativas, a petición del usuario o de oficio, cuando la situación así lo amerite, a fin de procurar la solución del conflicto, en términos de la Ley.
 
-IV.- Remitir a la Secretaría General de Acuerdos del Pleno las cédulas citatorias, cuando menos, con tres días hábiles de anticipación a la fecha en que se deba celebrar la junta, a fin de mandar notificarlas por conducto del Actuario que corresponda.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+IV.- Remitir a la Actuaria las cédulas citatorias, cuando menos, con tres días hábiles de anticipación a la fecha en que se deba celebrar la junta, a fin de mandar notificarlas por conducto del Actuario que corresponda.
 
 V.- Comunicar al Presidente del Tribunal los asuntos de trascendencia y de relevante importancia.
 
@@ -617,23 +683,25 @@ XIII. Mantener actualizada la base de datos de los criterios; y
 
 XIV. Las demás funciones que específicamente le asignen la Sala Superior.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-Los Secretarios Auxiliares serán nombrados por la Sala Superior, quien también fijará su adscripción a la Sala del Tribunal que corresponda, auxiliando en el cumplimiento de las atribuciones y funciones de los Magistrados de su adscripción que le sean encomendadas. A quienes les corresponderá:
+Los Secretarios Auxiliares serán nombrados por la Sala Superior, quien también fijará su adscripción al área que corresponda del Tribunal, auxiliando en el cumplimiento de las atribuciones y funciones que le sean encomendadas.
 
-I.- Auxiliar a los Secretarios de Estudio y Cuenta de su adscripción, en la elaboración de proyectos de sentencias de juicios y recursos.
+I.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
-II.- Participar en la realización de estudios de investigación en materia administrativa y fiscal.
+II.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
-III.- Auxiliar en la elaboración y coordinación de programas de capacitación que se le encomienden.
+III.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
-IV.- Auxiliar al Secretario General de Acuerdos del Pleno en la difusión de las actividades del Tribunal, previo acuerdo del Magistrado de su adscripción.
+IV.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
-V.- Las demás que les ordene el Magistrado de su adscripción.
+V.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 
 ###### Artículo 36.
 
-La Sala Superior del Tribunal podrá designar como Asistentes Jurídicos a aquellos escribientes que por sus conocimientos y responsabilidad hayan sobresalido en el cumplimiento de sus labores, pudiendo ser propuestos por cualquiera de los Magistrados integrantes del Tribunal.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2020)
 
 ###### Artículo 37.
 
@@ -819,6 +887,22 @@ X.- Rendir al Presidente del Tribunal, un Informe sobre los juicios en trámite 
 
 XI.- Todas las demás atribuciones que le encomiende la Sala Superior por conducto de su Presidente.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 44 Bis.
+
+El Coordinador de Enlace Interinstitucional y Transparencia, tendrá las siguientes atribuciones:
+
+I. Acopiar los informes que rindan las Salas Integrantes del Tribunal;
+
+II. Elaborar las Estadísticas Mensuales de las labores del Tribunal;
+
+III. Auxiliar en la administración de los recursos humanos, financieros y materiales del Tribunal; y
+
+IV. Fungir como enlace con las diversas dependencias, entidades, órganos y personas en general; y para el efecto del enlace de información en los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, deberá ejercer las facultades que a dicho encargo corresponden de conformidad con lo previsto en la citada Ley.
+
+V. Las demás que le asigne el Presidente del Tribunal, la Sala Superior o las disposiciones legales aplicables.
+
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2018)</small>
 
 ### CAPÍTULO XIV. DE LA COMISIÓN INTERNA DE REVISIÓN Y EVALUACIÓN DE PROCEDIMIENTOS
@@ -962,3 +1046,9 @@ P.O. 29 DE MAYO DE 2020.
 Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN POR DEROGACIÓN, ADICION Y MODIFICACION DE DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
