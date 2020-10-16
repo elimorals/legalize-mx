@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2020-05-15"
+last_updated: "2020-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -267,13 +267,17 @@ XVI.- Rastros;
 
 XVII.- Transporte público de carga de productos alimenticios;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XVIII.- Los centros de desarrollo infantil y Estancias Infantiles Familiares; y
+XVIII. Los centros de desarrollo infantil y Estancias Infantiles Familiares;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XIX.- Los demás establecimientos y servicios similares y aquellos que determinen otras disposiciones aplicables.
+XIX. Los establecimientos en que se realicen tatuajes, micropigmentaciones y perforaciones, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XX. Los demás establecimientos y servicios similares y aquellos que determinen otras disposiciones aplicables.
 
 ### CAPITULO SEGUNDO. DEL SISTEMA ESTATAL DE SALUD
 
@@ -2291,9 +2295,35 @@ Los transportes de carga señalados en el artículo anterior que circulen por el
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-#### SECCION I. DE LAS AUTORIZACIONES
+#### SECCION XII. DE LOS ESTABLECIMIENTOS DEDICADOS A REALIZAR TATUAJES, MICROPIGMENTACIONES Y PERFORACIONES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 148 TER.- Los establecimientos donde se realicen tatuajes, micropigmentaciones y perforaciones, estarán obligados a contar con licencia sanitaria expedida por la autoridad competente de la materia, en términos de la presente Ley, además deberán contar con personal debidamente capacitado en la práctica y dominio de sus técnicas. En todo momento debe garantizarse condiciones de seguridad, higiene y asepsia.
+
+En ningún caso se podrá realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 148 TER 1.- Para efectos de esta Ley se entenderá por:
+
+I. Tatuaje: Procedimiento mediante el cual se graban dibujos, trazos, marcas o figuras en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otros instrumentos, a través de punzadas o picaduras previamente dispuestas.
+
+II. Micropigmentación: Procedimiento mediante el cual se depositan bajo la epidermis pigmentos en áreas específicas de la piel, mediante un instrumento manual o electromecánico.
+
+III. Perforación: Procedimiento mediante el cual se introduce algún objeto hipoalergénico en la piel o mucosas a través de una cánula, catéter o un instrumento punzo cortante.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 148 TER 2.- Sólo se realizarán tatuajes, micropigmentaciones o perforaciones a personas mayores de edad, que acrediten tal carácter con documento oficial, que no se encuentren bajo el influjo de drogas y/o alcohol y no padezcan enfermedades mentales o alguna enfermedad transmisible. Los menores de edad, para realizarse tatuajes, micropigmentaciones o perforaciones, deberán presentarse en compañía de alguno de sus padres o de su tutor, siendo necesario acreditar tal carácter.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 148 TER 3.- En los establecimientos en que se realizan tatuajes, micropigmentaciones y perforaciones, previo al inicio del procedimiento de que se trate, deberá ser mostrado al cliente el material esterilizado que será utilizado en el procedimiento que será realizado, además deberá de explicarse las medidas de higiene que deben de ser tomadas a efecto de realizar dicho procedimiento.
+
+Los responsables deberán contar con el material mínimo que prevé la Norma Oficial Mexicana y el Reglamento de Control Sanitario de Productos y Servicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 147.
 
@@ -2439,13 +2469,15 @@ III.- Conformar grupos de trabajo para la realización y seguimiento de tareas e
 
 IV.- Las demás que le establezca el Reglamento Interno.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+#### SECCION I. DE LAS AUTORIZACIONES
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 #### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
 
 > <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-#### SECCION III. DE LOS CERTIFICADOS
 
 ### CAPITULO DECIMO PRIMERO. DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
@@ -2553,6 +2585,8 @@ El Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios ser�
 
 ### CAPITULO DECIMO SEGUNDO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
+#### SECCION III. DE LOS CERTIFICADOS
+
 ###### ARTÍCULO 151.
 
 La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud del Estado por conducto de la Comisión Estatal de Protección Contra Riesgos Sanitarios permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, con los requisitos y modalidades que determine esta Ley, Normas Oficiales Mexicanas y demás disposiciones aplicables.
@@ -2595,9 +2629,23 @@ VIII.- Las funerarias;
 
 IX.- Los transportes de carga de alimentos y perecederos;
 
-X.- Los centros de desarrollo infantil, y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XI.- Los demás que se señalen en esta Ley y otras disposiciones legales aplicables.
+X.- Los Centros de Desarrollo Infantil y Estancias Infantiles Familiares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XI.- Los establecimientos en que se realicen tatuajes, micropigmentaciones y perforaciones en personas, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XII.- Los demás que se señalen en esta Ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+Cuando los establecimientos a que se refiere este artículo cambien su ubicación, requerirán nueva licencia sanitaria.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE OCTUBRE DE 2020)</small>
 
 Los derechos que se generen por la aplicación de esta Ley, se regirán por lo que disponga la Ley de Ingresos del Estado, la legislación fiscal y los acuerdos de coordinación que celebren en la materia el Ejecutivo Federal y las Autoridades Sanitarias del Estado.
 
@@ -3618,3 +3666,9 @@ P.O. 15 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 68 MEDIANTE EL CUAL SE APRUEBAN LASREFORMASA (SIC) LOS ARTÍCULOS 2, 149, 150 Y 153 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 120 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
