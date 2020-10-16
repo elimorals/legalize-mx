@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2020-08-20"
+last_updated: "2020-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -3751,7 +3751,9 @@ ART. 760.- El poseedor que haya adquirido la posesión por algún hecho delictuo
 
 ART. 761.- Las mejoras voluntarias no son abonables a ningún piseedor (sic); pero el de buena fe puede retirar esas mejoras conforme a lo dispuesto en el artículo 756, fracción III.
 
-ART. 763 (SIC).- Se entienden percibidos los frutos naturales o industriales desde que se alzan o separan. Los frutos civiles se producen día por día, y pertenecen al poseedor en esta proporción, luego que son debidos, aunque no los haya recibido.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ART. 762.- Se entienden percibidos los frutos naturales o industriales desde que se alzan o separan. Los frutos civiles se producen día por día, y pertenecen al poseedor en esta proporción, luego que son debidos, aunque no los haya recibido.
 
 ART. 763.- Son gastos necesarios los que están prescritos por la Ley, y aquéllos sin los que la cosa se pierde o desmejora.
 
@@ -10576,6 +10578,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE AGOSTO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0732.- SE REFORMA (SIC) LOS ARTÍCULOS 599 EN SU FRACCIÓN I Y 605, DEL CÓDIGO CIVIL PARA EL ESTADO. SE REFORMA (SIC) LOS ARTÍCULOS 175, 359 Y 379; Y ADICIONA AL ARTÍCULO 301 EL PÁRRAFO TERCERO, DEL CÓDIGO FAMILIAR PARA EL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0765.- SE REFORMA EL NUMERAL DEL ARTÍCULO 763(SIC), DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
