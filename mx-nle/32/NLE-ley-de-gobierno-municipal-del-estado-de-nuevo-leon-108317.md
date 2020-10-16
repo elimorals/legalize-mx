@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2020-01-22"
+last_updated: "2020-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -1141,13 +1141,17 @@ III. La Contraloría Municipal, en los Municipios con población superior a vein
 
 IV. Un área encargada de Seguridad Pública Municipal;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-V. Un área encargada de la Protección al Medio Ambiente; y
+V. Un área encargada de la Protección al Medio Ambiente;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-VI. Un área encargada de la Protección al Adulto Mayor.
+VI. Un área encargada de la Protección al Adulto Mayor; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+VII. Un área encargada del cuidado y protección de parques y jardines municipales.
 
 ###### ARTÍCULO 93.
 
@@ -1479,13 +1483,25 @@ X. Realizar programas de prevención y protección para aquellos que se encuentr
 
 XI. Coordinarse con las dependencias estatales o federales para celebrar conjuntamente programas de prevención y protección, en materia de defensa o atención al Adulto Mayor.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+#### SECCION VII. DEL CUIDADO Y PROTECCIÓN DE PARQUES Y JARDINES MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 110 BIS V.- El área encargada del cuidado y protección de parques y jardines es la unidad administrativa que tendrá a cargo la creación, cuidado, protección, la conservación, el mantenimiento y la restauración de los parques y jardines de competencia municipal, con base a lo establecido en la Ley Ambiental del Estado, la Ley para la Conservación y Protección del Arbolado Urbano del Estado de Nuevo León y demás leyes y reglamentos municipales.
+
+(NOTA: EL 24 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 195/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+EN LOS MUNICIPIOS CON MÁS DE CIEN MIL HABITANTES, EL ÁREA TENDRÁ EL NIVEL DE SECRETARÍA O DE DIRECCIÓN GENERAL. EN LOS DEMÁS MUNICIPIOS DICHA ÁREA TENDRÁ EL NIVEL DE ACUERDO CON SUS POSIBILIDADES PRESUPUESTALES.
+
 #### SECCIÓN I. DE LOS ORGANISMOS DESCENTRALIZADOS
 
 (NOTA: EL 19 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 168/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-#### SECCIÓN II. DE LOS FIDEICOMISOS PÚBLICOS MUNICIPALES
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
@@ -1496,6 +1512,8 @@ El Ayuntamiento, con objeto de llevar a cabo una oportuna toma de decisiones y l
 ###### ARTÍCULO 112.
 
 Para los efectos de esta Ley, los organismos descentralizados, cualquiera que sea la forma o estructura que adopten, serán los que se constituyan total o mayoritariamente con fondos del Municipio.
+
+#### SECCIÓN II. DE LOS FIDEICOMISOS PÚBLICOS MUNICIPALES
 
 ###### ARTÍCULO 113.
 
@@ -2676,3 +2694,11 @@ P.O. 22 DE ENERO DE 2020.
 Primero.- El presente decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los Ayuntamientos de los Municipios tendrán un plazo de noventa días naturales contados a partir del día de la vigencia del presente Decreto para adecuar sus reglamentos a lo establecido en el mismo.
+
+P.O. 16 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 359. SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 92; Y SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 92; Y UNA SECCIÓN VII QUE SE DENOMINARÁ “DEL CUIDADO Y PROTECCIÓN DE PARQUES Y JARDINES MUNICIPALES” AL CAPÍTULO II DEL TÍTULO CUARTO QUE CONTIENE EL ARTÍCULO 110 BIS V DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Ayuntamientos de los Municipios tendrán un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto para adecuar sus reglamentos a lo establecido en el mismo.
