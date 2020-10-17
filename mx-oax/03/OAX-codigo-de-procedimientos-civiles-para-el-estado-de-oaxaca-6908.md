@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-03-21"
+last_updated: "2020-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -221,9 +221,9 @@ Las acciones duran lo que la obligación que representan, menos en los casos en 
 
 Intentada la acción y fijados los puntos cuestionados, no podrán modificarse ni alterarse, salvo en los casos en que la ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentimiento del reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que la hizo a pagar las costas y los daños y perjuicios a la contraparte, salvo convenio en contrario.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-En los casos de desistimiento, el Juez mandará ratificar al actor, previa identificación con documento indubitable, cuya copia se agregará en autos.
+En los casos de desistimiento, el Juez ordenará el reconocimiento al actor, previa identificación con documento indubitable, cuya copia se agregará en autos.
 
 ### CAPITULO II. De las excepciones
 
@@ -2065,9 +2065,9 @@ Se substanciarán por cuerda separada y en forma incidental; su resolución se r
 
 Confesada la demanda en todas sus partes y manifestando el actor su conformidad con la contestación de ella, se citará para sentencia y se dictará la que proceda.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-En este caso, el Juez mandará ratificar al demandado, previa identificación con documento indubitable, cuya copia se agregará en autos.
+En este caso, el Juez ordenará el reconocimiento al demandado, previa identificación con documento indubitable, cuya copia se agregará en autos.
 
 ###### Artículo 275.
 
@@ -2749,9 +2749,11 @@ El declarado confeso, sin que haya hecho confesión, puede rendir prueba en cont
 
 La confesión judicial expresa, que afecte a toda la demanda, engendra el efecto de obligar al juez a otorgar en la sentencia un plazo de gracia al deudor, después de efectuado el secuestro, y a reducir las costas.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 380.
 
-La confesión hecha en la demanda, en la contestación, o en cualquier otro acto del juicio, hará prueba plena sin necesidad de ratificación ni de ser ofrecida como prueba.
+La confesión hecha en la demanda, en la contestación, o en cualquier otro acto del juicio, hará prueba plena sin necesidad de reconocimiento ni de ser ofrecida como prueba.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -4625,15 +4627,15 @@ Si no se lograre la reconciliación y en el convenio quedaran bien garantizados 
 
 El juez siempre resolverá velando por el interés superior de los hijos.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 659.
 
-Cuando los consortes convengan en divorciarse en los términos del artículo 284 del Código Civil, sean mayores de edad, no tengan hijos o estos sean mayores de veinticinco años y no se encuentren incapacitados y no hubiere reclamo alguno respecto a bienes o hubieren convenido extrajudicialmente sobre la liquidación de la sociedad conyugal; el tribunal dentro de los cinco días siguientes de recibida la solicitud mandará a ratificarla y en los cinco posteriores dictará sentencia en la que declarará disuelto el vínculo matrimonial.
+Cuando los consortes convengan en divorciarse en los términos del artículo 284 del Código Civil, sean mayores de edad, no tengan hijos o estos sean mayores de veinticinco años y no se encuentren incapacitados y no hubiere reclamo alguno respecto a bienes o hubieren convenido extrajudicialmente sobre la liquidación de la sociedad conyugal; el tribunal dentro de los cinco días siguientes de recibida la solicitud mandará a reconocerla y en los cinco posteriores dictará sentencia en la que declarará disuelto el vínculo matrimonial.
 
-Cuando los cónyuges no se presenten a ratificar la solicitud, el juez a petición de parte y por única ocasión otorgara un nuevo plazo para que se presenten a ratificar.
+Cuando los cónyuges no se presenten a reconocer la solicitud, el juez a petición de parte y por única ocasión otorgará un nuevo plazo para que se presenten a reconocerla.
 
-Si los cónyuges no ratifican la solicitud o no se presentaren en la segunda oportunidad, el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
+Si los cónyuges no reconocen la solicitud o no se presentaren en la segunda oportunidad, el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -4709,11 +4711,11 @@ La audiencia se señalará dentro de los cinco días siguientes a la fecha de ex
 
 El demandado formulará la contestación en los términos previstos para la demanda. En la misma contestación y en caso de no estar de acuerdo con el convenio, deberá presentar su contrapropuesta, debiendo anexar las pruebas necesarias relacionadas con la misma. Si en la contestación se fuere omiso sobre la conformidad o no del convenio, el juzgador prevendrá al cónyuge para que se pronuncie al respecto. De esta nueva propuesta debe darse vista a la otra parte por tres días.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 664 Octies.
 
-Si el demandado se allanare a la demanda de divorcio, el juzgador citará a las partes con el fin de que el cónyuge que se allane ratifique su escrito, una vez realizada la ratificación se dictará sentencia.
+Si el demandado se allanare a la demanda de divorcio, el juzgador citará a las partes con el fin de que el cónyuge que se allane reconozca su escrito, una vez realizado el reconocimiento se dictará sentencia.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -4813,11 +4815,11 @@ En los juicios sumarios la revocación se decide de plano.
 
 De los decretos y autos dictado por el Presidente de la Sala, aún de aquéllos que dictados en primera instancia serían apelables, puede pedirse la reposición que se interpondrá y substanciará en el mismo plazo y forma que la revocación.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 669.
 
-Las partes tendrán en todo tiempo, el derecho de desistirse de los recursos que interpongan, hasta antes de su resolución. En éste caso, el órgano jurisdiccional mandará ratificar, previa identificación con documento indubitable, cuya copia se agregará en autos.
+Las partes tendrán en todo tiempo, el derecho de desistirse de los recursos que interpongan, hasta antes de su resolución. En éste caso, el órgano jurisdiccional mandará reconocer, previa identificación con documento indubitable, cuya copia se agregará en autos.
 
 ###### Artículo 670.
 
@@ -6409,11 +6411,11 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 La persona que pretenda adoptar, deberá manifestar en su promoción inicial, el nombre y edad del sujeto o sujetos a adoptar, y el nombre y domicilio de quienes ejerzan sobre él o ellos la Patria Potestad o la tutela, o de las personas o institución de beneficencia que lo hayan acogido si se trata de persona abandonada. Además de cumplir con los requisitos que establecen los artículos 411, 411 Bis y 411 BIS A del Código Civil, el solicitante deberá acreditar documentalmente su situación económica, así como su salud física y mental, mediante estudios socioeconómicos, psicológicos y médicos realizados por la Procuraduría de la Defensa del Menor, la Mujer y la Familia en el Estado.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 915.
 
-Satisfechos los requisitos que se exigen en el artículo anterior, así como los establecidos en los artículos 411 y 412 del Código Civil, el juez resolverá dentro del siguiente día hábil lo que proceda sobre la adopción.
+Satisfechos los requisitos que se exigen en el artículo anterior, así como los establecidos en los artículos 411, 411 Bis, 411 Bis A y 412 del Código Civil, el juez resolverá dentro del plazo de 15 días hábiles lo que proceda sobre la adopción.
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
@@ -7262,3 +7264,19 @@ P.O. 21 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1397.- MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 76, FRACCIÓN II DEL ARTÍCULO 77, LA FRACCIÓN I DEL ARTÍCULO 79, EL ARTÍCULO 106, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 158, EL ARTÍCULO 180, EL ARTÍCULO 255, EL ARTÍCULO 289, EL ARTÍCULO 342, EL ARTÍCULO 700, EL ARTÍCULO 844, EL ARTÍCULO 931 Y EL ARTÍCULO 970 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1563.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 2; LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 8; EL PRIMER PÁRRAFO, LA FRACCIÓN I DEL SEGUNDO PÁRRAFO, EL TERCERO, CUARTO, NOVENO Y DÉCIMO PÁRRAFO DEL ARTÍCULO 20; LAS FRACCIONES III Y IV DEL ARTÍCULO 31; Y EL PRIMER PÁRRAFO Y LA FRACCIÓN (SIC) DEL ARTÍCULO 33; SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7; LA FRACCIÓN XV AL ARTÍCULO 8; UN QUINTO, SEXTO, SÉPTIMO Y OCTAVO PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES PARA SER NOVENO Y DÉCIMO, ASÍ COMO EL PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 30; LAS FRACCIONES V, VI, VII Y VIII AL ARTÍCULO 31; LOS ARTÍCULOS 31 BIS, 31 BIS A, 31 BIS B, 31 BIS C, 31 BIS D, 31 BIS D (SIC), 31 BIS E, 31 BIS F, 31 BIS G, 31 BIS H, 31 BIS I, 31 BIS J, 31 BIS K, 31 BIS L, 31 BIS M, 31 BIS N Y 31 BIS O; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 411 BIS A DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA EL ARTÍCULO 915 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA; SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 6; LA FRACCIÓN XI DEL ARTÍCULO 7; LA FRACCIÓN VII DEL ARTÍCULO 21; LAS FRACCIONES IV Y V DEL ARTÍCULO 31; SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 6; LAS FRACCIONES XIII, XIV, XV Y XVI DEL ARTÍCULO 7; UN TERCER PÁRRAFO AL ARTÍCULO 29; LA FRACCIÓN VI AL ARTÍCULO 31; UN SEGUNDO PÁRRAFO AL ARTÍCULO 34; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 44, TODOS DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1702.·MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 102; TERCER PÁRRAFO DEL ARTÍCULO 286 BIS, EL INCISO I) DE LA FRACCIÓN I DEL ARTÍCULO 291; EL TERCER PÁRRAFO DEL ARTÍCULO 411; EL ARTÍCULO 661, LAS FRACCIONES II Y III DEL ARTÍCULO 2432; EL PRIMER PÁRRAFO DEL ARTÍCULO 2436 Y EL ARTÍCULO 2437 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 34; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 274; EL ARTÍCULO 380; EL ARTÍCULO 659; EL ARTÍCULO 664 OCTIES Y EL ARTÍCULO 669 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
