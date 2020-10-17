@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2020-09-05"
+last_updated: "2020-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -1625,11 +1625,11 @@ XVIII.- Las demás que le confieran la Ley, este ordenamiento, la Asamblea, la D
 
 #### SECCIÓN C. DE LAS ÁREAS DE APOYO DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 87.
 
-Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones: de Proceso Legislativo; de Administración, Finanzas y Servicios Generales, Jurídica y de Comunicación Social. Asimismo, tendrá las siguientes Unidades: de Igualdad y Equidad de Género, y de Seguridad; además, la persona titular de la Oficialía Mayor será apoyada por una Secretaría Técnica y una Oficialía de Partes.
+Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones: de Proceso Legislativo; de Administración, Finanzas y Servicios Generales, Jurídica y de Comunicación Social. Asimismo, tendrá las siguientes Unidades: de Igualdad y Equidad de Género, y de Seguridad; además, la persona titular de la Oficialía Mayor será apoyada por una Secretaría Técnica, una Oficialía de Partes y una Jefatura de Informática.
 
 ###### Artículo 87 Bis.
 
@@ -1835,11 +1835,11 @@ VIII.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comisi
 
 El Director Jurídico deberá ser licenciado en derecho, con una experiencia profesional de por lo menos 5 años anterior a la designación y cumplir con los requisitos que señale el artículo 85 de este Reglamento.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 91 Bis.
 
-La Dirección de Comunicación Social tiene como objetivo la atención a las y los representantes de los medios de comunicación, la difusión de las actividades legislativas, además de proporcionar la información de medios de comunicación a las y los Diputados, así como el cuidado del contenido y actualización de la información de la página web institucional del H. Congreso del Estado. Su titular dependerá jerárquicamente de la Oficialía Mayor. Esta Dirección contará con las Jefaturas siguientes: de Comunicación Social, de Producción Audiovisual y de Informática.
+La Dirección de Comunicación Social tiene como objetivo la atención a las y los representantes de los medios de comunicación, la difusión de las actividades legislativas, además de proporcionar la información de medios de comunicación a las y los Diputados. Su titular dependerá jerárquicamente de la Oficialía Mayor. Esta Dirección contará con las Jefaturas siguientes: de Comunicación Social y de Producción Audiovisual.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -3634,3 +3634,9 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 309 POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 73 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 324.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+PRIMERO (SIC).- El presente decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
