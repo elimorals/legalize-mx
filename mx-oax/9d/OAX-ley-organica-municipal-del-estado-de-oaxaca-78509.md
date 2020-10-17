@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-10-10"
+last_updated: "2020-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -209,7 +209,7 @@ III.- Que el número de habitantes del centro de población de que se trata se a
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
-Cuando a un centro de población le ha sido aprobada o declarada por este Congreso, alguna denominación o categoría administrativa, deberán trascurrir (sic) al menos cinco años para solicitar el cambio a la siguiente categoría administrativa.
+Cuando a un centro de población le ha sido aprobada o declarada por este Congreso, alguna denominación o categoría administrativa, deberán trascurrir al menos cinco años para solicitar el cambio a la siguiente categoría administrativa.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2527,9 +2527,9 @@ Los reglamentos municipales tendrán los siguientes propósitos generales:
 
 I.- Instrumentar la normatividad para el adecuado funcionamiento del Ayuntamiento y de la correcta administración del patrimonio municipal;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-II.- Establecer las bases que garanticen, en beneficio de la sociedad y el medio ambiente, la adecuada prestación de los servicios públicos municipales directamente por el Ayuntamiento o a través de concesionarios.
+II.- Establecer las bases y difusión a través de los medios de comunicación que garanticen, en beneficio de la sociedad y el medio ambiente, la adecuada prestación de los servicios públicos municipales directamente por el Ayuntamiento o a través de concesionarios;
 
 III.- Estimular la participación de la comunidad en la gestión municipal; particularmente en los municipios y poblaciones que se rigen bajo el sistema de usos y costumbres, y
 
@@ -3703,7 +3703,7 @@ P.O. 6 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 583.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
-ÚNICO.- El presente Decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+ÚNICO.- El presente Decreto surtirá efectos al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE ABRIL DE 2019.
 
@@ -3956,6 +3956,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 10 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1693.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1692.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 141 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
