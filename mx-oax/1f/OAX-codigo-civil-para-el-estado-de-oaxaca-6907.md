@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-10-03"
+last_updated: "2020-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -859,11 +859,11 @@ IX. En caso de que alguno de los contrayentes haya sido acusado o sentenciado po
 
 En el caso de que los pretendientes, por falta de conocimientos no puedan redactar el convenio a que se refiere la Fracción V del artículo anterior, el Oficial del Registro Civil tendrá obligación de redactarlo con los datos que los mismos pretendientes le suministren.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 102.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento; reconozcan ante él y por separado sus firmas, las declaraciones de los testigos a que se refiere la Fracción III del artículo 100 de este ordenamiento, serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el Certificado Médico presentado.
+El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento; reconozcan ante él y por separado sus firmas, las declaraciones de los testigos a que se refiere la Fracción III del artículo 100 de este ordenamiento, serán reconocidas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el Certificado Médico presentado.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -2245,9 +2245,9 @@ Procede el divorcio administrativo cuando ambos consortes convengan en divorciar
 
 Reunidos los requisitos anteriores, los cónyuges se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio o el del en que contrajeron matrimonio, deberán acreditar que son casados, mayores de edad; además de lo anterior, manifestarán su voluntad de divorciarse.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-El Oficial de Registro Civil, previa identificación de los consortes les hará entrega de la solicitud de divorcio, misma que deberá ser requisitada y devuelta al Oficial del Registro Civil, hecho lo anterior, se citará a los cónyuges para que se presenten a ratificar la solicitud a los quince días posteriores. Si los consortes realizan la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acata (sic) respectiva y haciendo la anotación correspondiente en el libro respectivo.
+El Oficial del Registro Civil, previa identificación de los consortes les hará entrega de la solicitud de divorcio, misma que deberá ser requisitada y devuelta al Oficial del Registro Civil, hecho lo anterior, se citará a los cónyuges para que se presenten a reconocer la solicitud a los quince días posteriores. Si los consortes realizan el reconocimiento, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el libro respectivo.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -2325,7 +2325,9 @@ g) En caso de haber contraído matrimonio bajo el régimen de sociedad conyugal 
 
 h) Identificación oficial o equivalente en caso de minoría de edad;
 
-i) Ratificar la solicitud por comparecencia dentro de un término de dos días posteriores a la fecha de presentación de la misma.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+i) Reconocer la solicitud por comparecencia dentro de un término de dos días posteriores a la fecha de presentación de la misma.
 
 II. Con independencia de los requisitos referidos en la fracción anterior, las personas extranjeras deberán cumplir con la siguiente documentación.
 
@@ -3277,9 +3279,9 @@ V. El Ministerio Público del domicilio del o de los adoptados cuando éstos no 
 
 Si el sujeto o sujetos de la adopción tienen más de catorce años, también se necesita su consentimiento para ese efecto.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-El consentimiento otorgado en términos de ley ante la Procuraduría de la Defensa del Menor, la Mujer y la Familia en el Estado, previa identificación fehaciente de quien deba otorgarlo, surtirá todos sus efectos legales sin que se requiera su posterior ratificación ante la presencia judicial.
+El consentimiento otorgado en términos de ley ante la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, previa identificación fehaciente de quien deba otorgarlo, surtirá todos sus efectos legales sin que se requiera su posterior reconocimiento ante la presencia judicial.
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
@@ -3308,6 +3310,10 @@ VI. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2010)
 Artículo 411 Bis A.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
 
 La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en el presente Código.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+En igualdad de circunstancias se dará preferencia en la adopción a solicitantes mexicanos sobre extranjeros. Asimismo se dará preferencia a las adopciones nacionales sobre las internacionales.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
@@ -4695,7 +4701,7 @@ La emancipación siempre será decretada por el juez, y la resolución correspon
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 660.
 
@@ -4707,7 +4713,7 @@ La mayor edad se rige por las prevenciones de los artículos 23 y 24 de este Có
 
 ###### Artículo 661.
 
-En cualquier caso en que los cónyuges dejaren pasar más de tres meses, sin continuar el procedimiento iniciado por mutuo consentimiento o no acudieren a ratificar su solicitud presentada para obtener el divorcio administrativo, la autoridad correspondiente declarará sin efectos la solicitud y se mandara archivar el expediente.
+En cualquier caso, en que los cónyuges dejaren pasar más de tres meses, sin continuar el procedimiento iniciado por mutuo consentimiento o no acudieren a reconocer su solicitud presentada para obtener el divorcio administrativo, la autoridad correspondiente declarará sin efectos la solicitud y se mandará archivar el expediente.
 
 ###### Artículo 662.
 
@@ -13367,9 +13373,13 @@ El mandato escrito puede otorgase:
 
 I. En escritura pública;
 
-II. En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, o Alcaldes; o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-III. En carta poder sin ratificación de firmas.
+II. En escrito privado, firmado por el otorgante y dos testigos y reconocidas las firmas ante Notario Público, Juez de Primera Instancia, o Alcaldes; o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+III. En carta poder sin reconocimiento de firmas.
 
 ###### Artículo 2433.
 
@@ -13393,9 +13403,11 @@ Cuando se quisieren limitar, en los tres casos antes mencionados, las facultades
 
 Los notarios insertarán este artículo en los testimonios de los poderes que otorguen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 2436.
 
-El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario, ante los jueces o autoridades administrativas correspondientes:
+El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos y reconocidas las firmas del otorgante y testigos ante notario, ante los jueces o autoridades administrativas correspondientes:
 
 I. Cuando sea general;
 
@@ -13405,11 +13417,11 @@ II. Cuando el interés del negocio para que se confiere llegue a trescientas cin
 
 III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 2437.
 
-El mandato podrá otorgarse en escrito privado, firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de diez y no llegue a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
+El mandato podrá otorgarse en escrito privado, firmado ante dos testigos, sin que sea necesario el previo reconocimiento de las firmas, cuando el interés del negocio para que se confiere exceda de diez y no llegue a ciento cincuenta salarios mínimos.
 
 ###### Artículo 2438.
 
@@ -16866,6 +16878,22 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 3 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1657.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1563.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 2; LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 8; EL PRIMER PÁRRAFO, LA FRACCIÓN I DEL SEGUNDO PÁRRAFO, EL TERCERO, CUARTO, NOVENO Y DÉCIMO PÁRRAFO DEL ARTÍCULO 20; LAS FRACCIONES III Y IV DEL ARTÍCULO 31; Y EL PRIMER PÁRRAFO Y LA FRACCIÓN DEL ARTÍCULO 33; SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7; LA FRACCIÓN XV AL ARTÍCULO 8; UN QUINTO, SEXTO, SÉPTIMO Y OCTAVO PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES PARA SER NOVENO Y DÉCIMO, ASÍ COMO EL PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 30; LAS FRACCIONES V, VI, VII Y VIII AL ARTÍCULO 31; LOS ARTÍCULOS 31 BIS, 31 BIS A, 31 BIS B, 31 BIS C, 31 BIS D, 31 BIS D, (SIC) 31 BIS E, 31 BIS F, 31 BIS G, 31 BIS H, 31 BIS I, 31 BIS J, 31 BIS K, 31 BIS L, 31 BIS M, 31 BIS N Y 31 BIS O; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 411 BIS A DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA EL ARTÍCULO 915 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA; SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 6; LA FRACCIÓN XI DEL ARTÍCULO 7; LA FRACCIÓN VII DEL ARTÍCULO 21; LAS FRACCIONES IV Y V DEL ARTÍCULO 31; SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 6; LAS FRACCIONES XIII, XIV, XV Y XVI DEL ARTÍCULO 7; UN TERCER PÁRRAFO AL ARTÍCULO 29; LA FRACCIÓN VI AL ARTÍCULO 31; UN SEGUNDO PÁRRAFO AL ARTÍCULO 34; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 44, TODOS DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1702.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 102; TERCER PÁRRAFO DEL ARTÍCULO 286 BIS, EL INCISO I) DE LA FRACCIÓN I DEL ARTICULO 291; EL TERCER PÁRRAFO DEL ARTÍCULO 411; EL ARTÍCULO 661, LAS FRACCIONES II Y III DEL ARTÍCULO 2432; EL PRIMER PÁRRAFO DEL ARTÍCULO 2436 Y EL ARTÍCULO 2437 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 34; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 274; EL ARTÍCULO 380; EL ARTÍCULO 659; EL ARTÍCULO 664 OCTIES Y EL ARTÍCULO 669 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
