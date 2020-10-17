@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-planeacion-del-estado-de-oaxaca-112059"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-09"
-last_updated: "2020-07-25"
+last_updated: "2020-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de enero de 2016.
 
@@ -483,9 +483,11 @@ El Reglamento definirá la integración del COPLADE, las calidades exigidas a su
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-El PED es el instrumento rector de la Planeación Estatal en el corto, mediano y largo plazo. Se elaborará con base en necesidades específicas estatales identificadas, precisará los objetivos generales, estrategias y prioridades del desarrollo integral del Estado; contendrá previsiones sobre los recursos públicos que sean asignados a tales prioridades a través de un marco anual y/o plurianual de gasto; determinará los instrumentos y responsables de su ejecución; y establecerá los lineamientos de política de carácter global, sectorial y regional.
+El PED es el instrumento rector de la Planeación Estatal en el corto, mediano y largo plazo. Se elaborará con base en necesidades específicas estatales identificadas, precisará los objetivos generales, estrategias y prioridades del desarrollo integral del Estado en concordancia y transversalidad con el Sistema Nacional de Planeación Democrática; contendrá previsiones sobre los recursos públicos que sean asignados a tales prioridades a través de un marco anual y/o plurianual de gasto; determinará los instrumentos y responsables de su ejecución; y establecerá los lineamientos de política de carácter global, sectorial y regional.
 
 Sus previsiones se referirán al conjunto de actividades económicas y sociales y regirá el contenido de los demás planes que se formulen dentro del SIEP, incorporando el enfoque transversal en sus contenidos.
 
@@ -637,11 +639,17 @@ II. En el segundo semestre del tercer año de la gestión administrativa, y
 
 III. En el último semestre del sexto año de gobierno de la administración, en cuyo caso comprenderá todo el periodo constitucional.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Adicionalmente a lo anterior, el Ejecutivo Estatal deberá considerar su actualización o sustitución del PED, cuando este difiera con el Plan Nacional de Desarrollo, u ocurra una transición federal, mismo que será en concordancia y transversalidad con dicho Plan.
+
 ###### Artículo 44.
 
 La actualización o sustitución del Plan y los planes que de él se deriven, producto de las evaluaciones a que se refiere el artículo anterior, será coordinada por la Coordinación General, siguiendo en lo conducente en el mismo procedimiento establecido para su formulación, debiendo presentar sus resultados y propuestas a la consideración y aprobación del Titular del Poder Ejecutivo, en los términos de esta Ley.
 
-El Titular del Poder Ejecutivo podrá realizar modificaciones y adecuaciones al PED de manera excepcional en cualquier tiempo, cuando sea suficientemente justificado, siguiendo el mismo procedimiento establecido en la Ley para la actualización o sustitución, previa evaluación.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+El Titular del Poder Ejecutivo podrá realizar modificaciones y adecuaciones al PED de manera excepcional en cualquier tiempo, cuando sea suficientemente justificado, siguiendo el mismo procedimiento establecido en la Ley para la actualización o sustitución, previa evaluación. En cualquier caso, el Ejecutivo enviará al Congreso ajustes realizados para su discusión y aprobación.
 
 ## Título Quinto. Dimensiones de la Planeación
 
@@ -1400,3 +1408,11 @@ P.O. 25 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM.- 1592.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 2; EL PRIMERO, SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 66, EL ARTÍCULO 112 Y EL ARTÍCULO 120 DE LA LEY ESTATAL DE PLANEACIÓN”.]
 
 ÚNICO. El Presente Decreto entrará en vigor el día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1709.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 44; Y SE ADICIONA UN SEGUNDO AL ARTÍCULO 43 DE LA LEY ESTATAL DE PLANEACIÓN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
