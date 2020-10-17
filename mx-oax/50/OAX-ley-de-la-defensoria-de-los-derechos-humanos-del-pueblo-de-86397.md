@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-de-los-derechos-humanos-del-pueblo-de-8639
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2018-11-10"
+last_updated: "2020-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 14 de febrero de 2012.
 
@@ -373,7 +373,11 @@ V. Los aspirantes a ocupar el cargo de Defensor o Defensora, deberán comparecer
 
 VI. De los aspirantes que hayan comparecido, la Comisión Permanente de Derechos Humanos integrará una terna que será presentada ante el Pleno del Congreso y la dará a conocer públicamente a través de los principales medios de comunicación, incluidos los oficiales y comunitarios al interior del Estado;
 
-VII. De la terna propuesta, el Pleno del Congreso del Estado elegirá con el voto de cuando menos las dos terceras partes de sus integrantes, a quien fungirá como Defensor o Defensora de la Comisión; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VII. De la terna propuesta, el Pleno del Congreso del Estado elegirá por votación nominal, con la aprobación de cuando menos las dos terceras partes de sus integrantes, a quien fungirá como Defensor o Defensora de los Derechos Humanos del Pueblo de Oaxaca.
+
+En el caso de que ninguna de las personas que conforman la terna propuesta por la Comisión Permanente de Derechos Humanos al Pleno del Congreso del Estado, logra los consensos para obtener la votación requerida, dicha terna será regresada a la Comisión dictaminadora, a fin de que ésta emita una nueva terna; y
 
 VIII. Realizada la elección se hará el nombramiento mediante un acto oficial y se notificará a la ciudadanía en general a través de los principales medios de comunicación, incluidos los oficiales y comunitarios.
 
@@ -485,6 +489,8 @@ VII. Las demás que le confieren esta ley y otras disposiciones aplicables.
 
 ### CAPÍTULO X. DE LA COORDINACION GENERAL DE LA (SIC) DEFENSORIAS, Y DE LAS DEFENSORIAS ADJUNTAS Y ESPECIALIZADAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
 ### CAPÍTULO XI. DE LA DIRECCIÓN DE PETICIONES, ORIENTACIÓN Y SEGUIMIENTO DE RECOMENDACIONES
 
 ###### Artículo 28.
@@ -507,17 +513,45 @@ VI. Las demás que les sean conferidas mediante acuerdo del Consejo Ciudadano, o
 
 ###### Artículo 29.
 
-La o el Coordinador General de las Defensorías Adjuntas y especializadas, las y los Defensores Adjuntos, deberán reunir para su designación los siguientes requisitos:
+La o el Coordinador General de las Defensorías Adjuntas y especializadas, las y los Defensores Adjuntos y Especializados deberán reunir para su designación los siguientes requisitos:
 
-I. Haber nacido en el Estado de Oaxaca o haber residido en él durante los últimos cinco años (sic) nacimiento y estar en pleno uso de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+I. Haber nacido en el Estado de Oaxaca o haber residido en él durante los últimos cinco años antes de su nombramiento y estar en pleno uso de sus derechos civiles y políticos;
 
 II. No haber desempeñado cargo dentro de la administración pública federal, estatal o municipal, durante los dos últimos años anteriores al día de la designación;
 
-III. Contar con conocimientos suficientes teóricos y prácticos en la defensa y promoción de los derechos humanos;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-IV. No tener antecedentes de violencia y/o discriminación en el ámbito público o privado; y
+III. Acreditar que al momento de la designación se cuenta con suficientes conocimientos teóricos y prácticos en la defensa y promoción de los derechos humanos con perspectiva de género y pluralismo jurídico;
 
-V. No haber ocupado puesto de elección popular ni de partido político al menos dos años anteriores al proceso de selección.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+IV. No tener antecedentes de violencia y/o discriminación en el ámbito público o privado;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+V. No haber ocupado puesto de elección popular ni de partido político al menos dos años anteriores al proceso de selección;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VI. No estar inhabilitado o inhabilitada en el desempeño de la función pública, al momento de la designación;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VII. No haber sido señalado o señalada en recomendaciones, resoluciones o sentencias emitidas por los organismos públicos protectores de derechos humanos locales, regionales o internacionales, y en comisiones de la verdad, como participantes o responsables de violaciones graves a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VIII. No ser cónyuge, concubina o concubino, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, del o la titular de la Defensoría ni de las personas que integran el Consejo Ciudadano;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+IX. No estar ni haber estado afiliada o afiliado en ningún partido político al menos en los tres años anteriores a su nombramiento; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+X. No haber sido sentenciado por delito doloso o intencional.
 
 ###### Artículo 30.
 
@@ -753,15 +787,17 @@ X. Sancionar al funcionario de la Defensoría de acuerdo al procedimiento que se
 
 XI. Las demás que le confieren esta ley y otras disposiciones aplicables.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2020)</small>
+
 ### CAPÍTULO I. OBLIGACIONES Y COLABORACIÓN
 
 ###### Artículo 42.
 
-Los Municipios del Estado de Oaxaca, atendiendo a su normatividad interna, podrán crear Defensorías Municipales de Derechos Humanos, las cuales tendrá (sic) por objeto la defensa, protección, promoción, estudio y divulgación de los derechos humanos, así como la prevención, atención y erradicación de la discriminación y la violencia que sufren las personas por su condición y posición social, identidad cultural, política, económica, género, discapacidades, origen, orientación y preferencia sexual, ciudadanía, migración, sexo, nacionalidades, salud, religión e ideología; o cualquier otra que vulnere la dignidad de la persona dentro de su circunscripción territorial.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2020)
 
 ###### Artículo 43.
 
-Cuando en un mismo hecho, estuvieren involucrados tanto autoridades o servidores públicos del Estado o de algún municipio, la competencia se surtirá a favor de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2020)
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO ANTE LA DEFENSORÍA
 
@@ -1072,3 +1108,11 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1592.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1691.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 24; EL PRIMER PÁRRAFO Y LAS FRACCIONES I, III, IV Y V DEL ARTÍCULO 29; Y SE ADICIONAN LAS FRACCIONES VI, VII, VIII, IX Y X AL ARTÍCULO 29; Y SE DEROGA EL CAPÍTULO XVIII DEL TÍTULO SEGUNDO QUE CONTIENE LOS ARTÍCULOS 42 Y 43, DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de la misma o menor jerarquía que se opongan al presente Decreto.
