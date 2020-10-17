@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2020-04-21"
+last_updated: "2020-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -299,9 +299,11 @@ VII. El periodo de registro de aspirantes no puede ser menor a tres días hábil
 
 VIII. A más tardar al día hábil siguiente en que cierre el registro de aspirantes debe publicarse la lista de los registrados, en el sitio web del Congreso del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-IX. La comisión legislativa competente debe realizar una entrevista pública individual a cada aspirante registrado, a realizarse el día y hora señalada en la convocatoria o en el acuerdo interno que se publicará en el sitio web del Congreso del Estado. A la entrevista se invitará al Comité de Participación Social para que participe en la misma;
+IX. La comisión legislativa competente debe realizar una entrevista pública individual a cada aspirante registrado, para ampliar la información sobre su trayectoria profesional o conocer su plan de trabajo.
+
+La entrevista se desahogará de manera presencial o a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, habrá de realizarse el día y hora señalada en la convocatoria o en el acuerdo interno que se publicará en el sitio web del Congreso del Estado. A la entrevista se invitará al Comité de Participación Social para que participe en la misma; será grabada y transmitida en tiempo real.
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
@@ -311,11 +313,11 @@ X. La comisión legislativa competente solicitará el apoyo a organismos especia
 
 XI. El examen referido en la fracción anterior será calificado por los organismos o instituciones que los apliquen, quienes entregarán los resultados a la comisión legislativa competente, la cual los publicará en el sitio web del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+XII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2020)
 
-XII. Los aspirantes deberán aprobar el examen con una calificación mínima de 80 sobre 100;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-XIII. Los exámenes serán aplicados y calificados en el Congreso del Estado y podrán participar como observadores de su aplicación y calificación representantes de organismos privados y de la sociedad civil;
+XIII. Los exámenes serán aplicados en el Congreso del Estado o en la sede habilitada para ello, por escrito o en línea, según se convenga con las instituciones que participen de su elaboración o aplicación; podrán participar como observadores de su aplicación representantes de organismos privados y de la sociedad civil;
 
 XIV. Para efectos de lo dispuesto en la fracción anterior, los organismos privados y de la sociedad civil interesados en participar deberán registrarse ante la comisión legislativa competente, en el plazo que se señale en la convocatoria, y podrán formular por escrito las observaciones que consideren pertinentes ante dicha comisión, hasta antes de que ésta apruebe el dictamen correspondiente;
 
@@ -323,7 +325,15 @@ XIV. Para efectos de lo dispuesto en la fracción anterior, los organismos priva
 
 XV. Previo a la emisión del dictamen con la lista de los candidatos elegibles, la comisión legislativa competente debe verificar que el órgano encargado de la evaluación de control de confianza haya remitido los resultados de las evaluaciones de los aspirantes;
 
-XVI. La comisión legislativa competente debe emitir el dictamen de acuerdo legislativo que proponga la lista de los candidatos elegibles para el cargo, en la que debe incluir a todos los aspirantes que hayan acreditado los requisitos legales, el examen teórico práctico y la evaluación de control de confianza;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XVI. La comisión legislativa competente debe emitir el dictamen de acuerdo legislativo que proponga a cinco candidatos elegibles para el cargo por cada una de las vacantes, en la que se incluirá únicamente a aquellos aspirantes que:
+
+a) Acrediten los requisitos que establece la Constitución Política del Estado con los documentos o medios comprobatorios requeridos en la convocatoria;
+
+b) Los cinco aspirantes, por vacante, que obtengan la mejor calificación en el examen teórico práctico. En caso de empate en las posiciones, accederán las personas aspirantes que se encuentren en este supuesto; y
+
+c) Los que hayan aprobado la evaluación de control de confianza.
 
 XVII. Al dictamen de la comisión se debe acompañar como anexos, el informe con la opinión técnica del Comité de Participación Social, los informes de los observadores ciudadanos y los demás documentos que señale la convocatoria;
 
@@ -351,47 +361,145 @@ XXI. Una vez electo el magistrado o magistrada, la Asamblea debe aprobar y manda
 
 4. Los aspirantes que hayan acreditado la evaluación de control de confianza pueden volver a participar en cualquier proceso de elección de magistrado tomando en cuenta la vigencia de la evaluación correspondiente.
 
-### Capítulo II. Procedimientos para la elección de consejeros del Consejo de la Judicatura del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+### Capítulo II. Procedimiento para la elección de consejeros del Consejo de la Judicatura del Estado
 
 ###### Artículo 18.
 
 1. El procedimiento para la elección de un consejero del Consejo de la Judicatura del Estado es el siguiente:
 
-I. La comisión competente debe proponer a la Asamblea el proyecto de convocatoria pública, para su aprobación y publicación, preferentemente dentro del segundo mes anterior a que se genere la vacante;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-II. La convocatoria pública debe contener cuando menos lo siguiente:
+I. La comisión competente debe proponer a la Asamblea el proyecto de convocatoria pública, para su aprobación y publicación, preferentemente dentro del cuarto mes anterior a que se genere la vacante;
 
-a) Cargo vacante, periodo de duración y fecha determinada o determinable de inicio del periodo;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE OCTUBRE DE 2020)</small>
 
-b) Requisitos de elegibilidad y documentos para acreditarlos;
+II. La convocatoria debe contener cuando menos lo siguiente:
 
-c) Lugar, fechas y horario para el registro de aspirantes;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-d) Fecha límite para que los grupos y representaciones parlamentarias propongan su lista de candidatos a consejero;
+a) Cargo vacante y periodo del mismo;
 
-e) Procedimiento para elegir al consejero;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-f) Fecha límite para que el Congreso del Estado elija al consejero; y
+b) Requisitos para el cargo;
 
-g) Procedimiento en caso de que el Congreso del Estado no resuelva la elección en el plazo establecido o de que ningún candidato alcance la mayoría requerida;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-III. El periodo de registro de aspirantes no debe ser inferior a dos días;
+c) Documentos o medios para acreditar los requisitos;
 
-IV. Una vez que se cierre el registro de aspirantes, la comisión competente puede realizar entrevistas personales a cada uno de los aspirantes, para ampliar la información sobre su trayectoria profesional o conocer su plan de trabajo;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-V. Dentro del plazo señalado en la convocatoria, cada grupo parlamentario a través de su presidente y cada representación parlamentaria, puede enviar a la comisión, una lista de candidatos propuestos, de entre los aspirantes inscritos;
+d) Lugar, días y horario para el registro de aspirantes;
 
-VI. La comisión competente debe emitir y presentar a la Asamblea el dictamen de acuerdo legislativo que proponga la lista de candidatos elegibles, de entre los aspirantes propuestos por los grupos y representaciones parlamentarias;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-VII. La Asamblea debe aprobar la lista de candidatos elegibles, por mayoría simple y en votación nominal;
+e) Procedimiento para la elección;
 
-VIII. Una vez aprobada la lista, la Asamblea debe elegir al consejero, de entre los candidatos elegibles, por el voto de cuando menos las dos terceras partes de los diputados y las diputadas presentes, en votación por cédula;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-IX. Si ningún candidato alcanza la votación requerida o el Congreso del Estado no resuelve la elección en el plazo señalado en la convocatoria, se entiende que se rechazan todos los candidatos y el Presidente de la Mesa Directiva declara desierta la convocatoria y se emite una nueva en la que pueden participar los aspirantes registrados en la anterior convocatoria;
+f) Fecha límite en que el Congreso del Estado debe realizar la elección;
 
-X. Una vez electo el consejero, la Asamblea debe aprobar y mandar publicar la minuta de acuerdo legislativo que precise el nombre de la persona designada, el cargo, la duración del mismo y la fecha determinada o el momento determinable a partir del cual inicia el periodo; y
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-XI. El consejero electo debe rendir la protesta de ley ante la Asamblea, previo a tomar posesión del cargo.
+g) Procedimiento en caso de que el Congreso del Estado no resuelva la elección en el plazo establecido o de que ningún candidato alcance la mayoría requerida; y
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+h) La institución que practicará las evaluaciones de control de confianza;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+III. Preferentemente debe emitirse una convocatoria por cada vacante, y cada una se expedirá para elegir a una persona bajo el principio de paridad y regla de alternancia de géneros;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+IV. La convocatoria debe publicarse cuando menos por una ocasión en el Periódico Oficial "El Estado de Jalisco" y en dos diarios de mayor circulación en el Estado, y de forma permanente durante todo el tiempo que dure el proceso de elección en el sitio web del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+V. El registro de aspirantes debe ser en el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VI. Entre la publicación de la convocatoria y el inicio del periodo de registro de aspirantes deben mediar al menos quince días hábiles;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VII. El periodo de registro de aspirantes no debe ser inferior a tres días;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VIII. A más tardar al día hábil siguiente en que cierre el registro de aspirantes debe publicarse la lista de los registrados, en el sitio web del Congreso del Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2020)</small>
+
+IX. La comisión legislativa competente debe realizar una entrevista pública individual a cada aspirante registrado, para ampliar la información sobre su trayectoria profesional o conocer su plan de trabajo.
+
+La entrevista se desahogará de manera presencial o a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, habrá de realizarse el día y hora señalada en la convocatoria o en el acuerdo interno que se publicará en el sitio web del Congreso del Estado. A la entrevista se invitará al Comité de Participación Social para que participe en la misma; será grabada y transmitida en tiempo real;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+X. La comisión legislativa competente solicitará el apoyo a organismos especializados de evaluación y/o a instituciones de educación superior públicas y privadas, para que diseñen y apliquen el examen teórico práctico de conocimientos jurídicos a los aspirantes;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XI. El examen referido en la fracción anterior será calificado por los organismos o instituciones que los apliquen, quienes entregarán los resultados a la comisión legislativa competente, la cual los publicará en el sitio web del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XII. Los exámenes serán aplicados en el Congreso del Estado o en la sede habilitada para ello, por escrito o en línea, según se convenga con las instituciones que participen de su elaboración o aplicación; podrán participar como observadores de su aplicación representantes de organismos privados y de la sociedad civil;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XIII. Para efectos de lo dispuesto en la fracción anterior, los organismos privados y de la sociedad civil interesados en participar deberán registrarse ante la comisión legislativa competente, en el plazo que se señale en la convocatoria, y podrán formular por escrito las observaciones que consideren pertinentes ante dicha comisión, hasta antes de que ésta apruebe el dictamen correspondiente;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XIV. Previo a la emisión del dictamen con la lista de los candidatos elegibles, la comisión legislativa competente debe verificar que el órgano encargado de la evaluación de control de confianza haya remitido los resultados de las evaluaciones de los aspirantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XV. La comisión legislativa competente debe emitir el dictamen de acuerdo legislativo que proponga a cinco candidatos elegibles para el cargo por cada una de las vacantes, en la que se incluirá únicamente a aquellos aspirantes que:
+
+a) Acrediten los requisitos que establece la Constitución Política del Estado con los documentos o medios comprobatorios requeridos en la convocatoria;
+
+b) Los cinco aspirantes, por vacante, que obtengan la mejor calificación en el examen teórico práctico. En caso de empate en las posiciones, accederán las personas aspirantes que se encuentren en este supuesto; y
+
+c) Los que hayan aprobado la evaluación de control de confianza.
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XVI. Al dictamen de la comisión se debe acompañar como anexos, el informe con la opinión técnica del Comité de Participación Social, los informes de los observadores ciudadanos y los demás documentos que señale la convocatoria;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XVII. La Asamblea debe aprobar el dictamen que propone la lista de candidatos elegibles, por mayoría simple y en votación nominal;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XVIII. Una vez aprobada la lista, la Asamblea debe elegir a la Consejera o Consejero por el voto de cuando menos las dos terceras partes de las diputadas y los diputados presentes, en votación por cédula;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XIX. En el caso de una convocatoria para varias vacantes, el presidente de la Mesa Directiva debe precisar antes de la votación por cédula correspondiente a cuál vacante corresponde la elección que se efectuará, identificándola con el nombre del Consejero que anteriormente la ocupaba o está por desocuparla;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XX. Si ningún candidato alcanza la votación requerida o el Congreso del Estado no resuelve la elección en el plazo señalado en la convocatoria, se entiende que se rechazan todos los candidatos y el Presidente de la Mesa Directiva declara desierta la convocatoria y se emite una nueva en la que pueden participar los aspirantes registrados en la anterior convocatoria;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XXI. Una vez electo la Consejero o Consejero, la Asamblea debe aprobar y mandar publicar la minuta de acuerdo legislativo correspondiente, que precise el nombre de la persona designada, el cargo, la duración de este y la fecha determinada o el momento determinable a partir de cual inicia su periodo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XXII. La persona que resulte electa, debe rendir la protesta de ley ante la Asamblea, previo a tomar posesión del cargo;
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+2. Para efectos de que el Congreso del Estado lleve a cabo el proceso de Evaluación de Confianza a los aspirantes a Consejero Ciudadano, deberá celebrar un convenio de colaboración con Instituciones acreditadas por el Centro Nacional.
 
 ### Capítulo III. Procedimientos para la elección de consejeros de la Comisión Estatal de Derechos Humanos del Estado
 
@@ -4356,3 +4464,15 @@ P.O. 21 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27868/LXII/20 SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO CUARTO PARA QUEDAR “PROCEDIMIENTO PARA LA ELECCIÓN DE MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO“, LA FRACCIÓN VI, SE ADICIONA LA FRACCIÓN IX Y SE RECORREN LAS SUBSECUENTES, SE MODIFICAN LAS FRACCIONES X, XI, XII, XV, Y XXI, SE ADICIONA EL PARÁGRAFO 2 AL ARTÍCULO 16 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27994/LXII/20 QUE REFORMA LAS FRACCIONES IX Y XIII DEL ARTÍCULO 16, SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO CUARTO “PROCEDIMIENTO PARA LA ELECCIÓN DE CONSEJEROS DEL CONSEJO DE LA JUDICATURA DEL ESTADO” SE REFORMAN LOS INCISOS A), AL G) DE LA FRACCIÓN II, FRACCIONES VII, VIII, XXI; Y SE ADICIONAN LAS FRACCIONES III A VI, IX A XIV; Y XVII A XXII, EL NUMERAL 2, DEL ARTÍCULO 18 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entra en vigor el mismo día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 27995/LXII/20 QUE REFORMA LAS FRACCIONES XII Y XVI DEL ARTÍCULO 16 Y LA FRACCIÓN XV DEL ARTÍCULO 18 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entra en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco".
