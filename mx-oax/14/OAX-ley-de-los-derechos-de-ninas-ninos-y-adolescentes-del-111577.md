@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2020-10-03"
+last_updated: "2020-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -55,7 +55,9 @@ La presente Ley es de orden público, interés social y observancia general en e
 
 Esta Ley tiene por objeto:
 
-I. Reconocer a niñas, niños y adolescentes como titulares de derechos;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+I. Reconocer a niñas, niños y adolescentes como titulares de derechos con capacidad de goce de los mismos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Promover y garantizar el pleno goce y ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes que se encuentren en el territorio del estado de Oaxaca;
 
@@ -175,6 +177,10 @@ Cuando exista la duda de si se trata de una persona mayor de dieciocho años de 
 
 Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Para efectos de los tratados internacionales y la mayoría de edad, son niños los menores de dieciocho años de edad.
+
 ###### Artículo 8.
 
 Para efectos del artículo 4 de esta Ley, son principios rectores, los siguientes:
@@ -205,9 +211,17 @@ XI. La autonomía progresiva;
 
 XII. El principio pro persona;
 
-XIII. El acceso a una vida libre de violencia, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-XIV. La accesibilidad.
+XIII. El acceso a una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XIV. La accesibilidad, y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XV. El derecho al adecuado desarrollo evolutivo de la personalidad.
 
 ###### Artículo 9.
 
@@ -473,13 +487,17 @@ Cuando las autoridades de la entidad tengan conocimiento de casos de niñas, ni�
 
 Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 30.
 
-El Sistema DIF Estatal, deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+El Sistema DIF Estatal, en coordinación con la Procuraduría Estatal de Protección, deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial o que se encuentren en desamparo familiar.
 
 Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación civil aplicable, el Sistema DIF Estatal, se asegurarán (sic) de que niñas, niños y adolescentes:
 
-I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+I. Sean ubicados con su familia de origen, extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
 
 II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
@@ -487,13 +505,41 @@ III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedim
 
 IV. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
 
-Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-El Sistema DIF Estatal, en el ámbito de su respectiva competencia, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo.
+Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
 
-La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-El Sistema DIF Estatal en todo momento será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento.
+El Sistema DIF Estatal y Sistemas DIF Municipales, en el ámbito de sus respectivas competencias, deberán registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+El Sistema DIF Estatal y la Procuraduría Estatal de Protección deberán mantener estrecha comunicación entre sí, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Las autoridades administrativas y jurisdiccionales a nivel nacional y estatal, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guarda o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Los certificados de idoneidad serán expedidos por el Consejo Técnico de Adopciones, de conformidad con lo dispuesto por la Ley de Adopciones del Estado, y serán válidos para iniciar el proceso de adopción en cualquier entidad federativa, independientemente de dónde hayan sido expedidos.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+El proceso administrativo y jurisdiccional de adopción podrá realizarse en cualquier entidad federativa, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Las autoridades competentes deberán tener en consideración el interés superior de la niñez al determinar la opción que sea más adecuada para restituirle su derecho a vivir en familia.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+El Sistema DIF Estatal, en coordinación con la Procuraduría de Protección, serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años, contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
 
 ###### Artículo 31.
 
@@ -507,9 +553,149 @@ I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad
 
 II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez;
 
-III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
+III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+V. Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VI. Garantizar que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en esta ley;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VII. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente, y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VIII. El Poder Judicial del Estado, garantizará que los procedimientos de adopción se lleven de conformidad con esta ley.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 31 Bis.
+
+Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante las Procuradurías de Protección, ante el Sistema Nacional DIF o ante los Sistemas de las Entidades, con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis A. Los centros de asistencia social que reciban niñas, niños y adolescentes en situación de indefensión o desamparo familiar sólo podrán recibir niñas, niños y adolescentes por disposición de la Procuraduría de Protección correspondiente o de autoridad competente.
+
+Niñas, niños y adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen, salvo que la Procuraduría de Protección correspondiente no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandonado de los menores de edad. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.
+
+El lapso inicial a que hace referencia el párrafo anterior, correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando el Sistema Nacional DIF, los Sistemas de las Entidades o las Procuradurías de Protección, según corresponda, levanten la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente. Se considera expósito al menor de edad que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor de edad cuyo origen se conoce, se considerará abandonado.
+
+Durante el término referido se investigará el origen de niñas, niños y adolescentes y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez. Lo anterior, en coordinación con los centros de asistencia social y con el auxilio de cualquier autoridad que se considere necesaria, sin exponer, exhibir o poner en riesgo a la niña, niño o adolescente.
+
+Una vez transcurrido dicho término sin obtener información respecto del origen de niñas, niños o adolescentes, o no habiendo logrado su reintegración al seno familiar, la Procuraduría de Protección correspondiente levantará un acta circunstanciada publicando la certificación referida en el presente artículo y a partir de ese momento las niñas, niños o adolescentes serán susceptibles de adopción.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis B. Para los fines de esta ley, en materia de adopción se prohíbe:
+
+I. La promesa de adopción durante el proceso de gestación;
+
+II. La adopción privada, entendida como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia, o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes, sin que intervengan las autoridades competentes de conformidad con esta ley;
+
+III. Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si se presentare cualquiera de los supuestos referidos una vez concluida judicialmente la adopción, la Procuraduría de Protección competente presentará denuncia ante el Ministerio Público y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes;
+
+IV. El contacto de los padres biológicos que entregaron en adopción a una niña, un niño o un adolescente, con el adoptante, el adoptado o con cualquier persona involucrada en la adopción; con excepción de los casos en que los adoptantes sean familiares biológicos, de la familia extensa o cuando el adoptado desee conocer sus antecedentes familiares y sea mayor de edad. Niñas, niños y adolescentes que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de los adoptantes, y siempre que ello atienda al interés superior de la niñez;
+
+V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
+
+VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa del adoptado, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
+
+VIII. El matrimonio entre el adoptante y el adoptado o sus descendientes, así como el matrimonio entre el adoptado con los familiares del adoptante o sus descendientes;
+
+IX. Ser adoptado por más de una persona, salvo en caso de que los adoptantes sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
+
+X. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio, y
+
+XI. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
+
+Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección o el sistema DIF competente, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
+
+Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que la adopción se realiza en contravención de lo establecido por la presente ley. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría de Protección o el sistema DIF correspondiente tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para los hijos consanguíneos.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis C. Pueden ser adoptados niñas, niños y adolescentes que:
+
+I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
+
+II. Sean expósitos o abandonados;
+
+III. Se encuentren en alguno de los supuestos anteriores y acogidos en Centros de Asistencia Social o bajo la tutela del Sistema Nacional DIF, de los Sistemas de las Entidades o de las Procuradurías de Protección, y
+
+IV. Estando bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante el Sistema Nacional DIF, los Sistemas de las Entidades o ante la Procuraduría de Protección correspondiente.
+
+En todo caso se deberá contar con el informe de adoptabilidad.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis D. Los solicitantes deberán acudir a las Procuradurías de Protección, al Sistema Nacional DIF o a los Sistemas de las Entidades para realizar sus trámites de adopción, atendiendo a lo previsto en la reglamentación correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis E. Una vez reunidos los requisitos e integrado el expediente, la autoridad competente emitirá su opinión respecto a la expedición del certificado de idoneidad en un término que no excederá de cuarenta y cinco días naturales, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos, caso en el que se podrá ampliar el plazo hasta por treinta días naturales más.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis F. El juez familiar, o en su caso el juez especializado en la materia, dispondrá de 90 días hábiles improrrogables para emitir la sentencia sobre resolución de la patria potestad de menores de edad, en los juicios respectivos. Dicho término será contado a partir del día siguiente de la presentación de la demanda.
+
+Respecto a las resoluciones de adopción, el juez contará con 15 días hábiles improrrogables, contados a partir del día siguiente de la entrega, por parte de la autoridad administrativa, del expediente de adopción completo. Dicha autoridad administrativa contará con cinco días hábiles para la entrega de tal expediente al juzgado de la materia, una vez cumplimentado lo referido en el artículo 30 Bis 5 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis G. En igualdad de circunstancias se dará preferencia en la adopción a solicitantes mexicanos sobre extranjeros. Asimismo, se dará preferencia a las adopciones nacionales sobre las internacionales.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis H. Los Centros de Asistencia Social públicos y privados que tengan bajo su custodia adolescentes que cumplan la mayoría de edad deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis I. Para que la adopción pueda tener lugar deberán consentirla, por escrito y ante el juez que conozca del procedimiento, la Procuraduría de Protección correspondiente, el solicitante y, en su caso, el adolescente sujeto de adopción.
+
+Para el caso de que los solicitantes sean cónyuges o concubinos, ambos deberán consentir la adopción ante el juez.
+
+En el caso de adolescentes con discapacidad, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
+
+Si la Procuraduría de Protección competente no consiente la adopción, deberá expresar la causa, misma que el juez calificará tomando en cuenta el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis J. La Procuraduría Estatal de Protección y los Sistemas DIF Estatal y Municipal, en el ámbito de sus respectivas competencias, crearán los mecanismos necesarios para que los adoptantes cuenten con un procedimiento único, que permita que el trámite de adopción sea rápido, eficaz y transparente.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis K. En su ámbito de competencia, el Sistema Nacional DIF, en coordinación con la Procuraduría Federal de Protección, dispondrá lo necesario a efecto de homologar los requisitos y procedimientos administrativos de adopción a nivel nacional y estatal.
+
+En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis L. A fin de acompañar la adaptación de niñas, niños y adolescentes a su nueva familia y entorno, así como conocer la evolución de su desarrollo, el Sistema DIF Estatal, en coordinación con la Procuraduría Estatal de Protección, realizarán su seguimiento al menos cada seis meses durante los tres años posteriores a la adopción.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis M. En caso de que el adoptante sea extranjero con residencia permanente en el territorio nacional, las autoridades competentes incluirán, como requisito del certificado de idoneidad, la comprobación de la situación migratoria regular en el territorio nacional.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis N. La adopción en todo caso será plena e irrevocable.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Artículo 31 Bis O. El Sistema Nacional DIF y la Procuraduría de Protección Federal celebrarán los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia con sus pares locales o con las autoridades que se requiera.
 
 ###### Artículo 32.
 
@@ -519,15 +705,19 @@ Si no se consolidan las condiciones de adaptación de niñas, niños o adolescen
 
 Corresponde al Consejo Técnico de Adopciones revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones jurídicas aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 33.
 
-Corresponde al Sistema DIF Estatal, en el ámbito de su respectiva competencia:
+Corresponde al Sistema DIF Estatal y los Sistemas DIF Municipales, en coordinación con la Procuraduría Estatal de Protección, en el ámbito de sus respectivas competencias:
 
 I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
 
 II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional, y
 
-III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Federal.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+III. Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
 
 ### CAPÍTULO VII. DEL DERECHO A LA IGUALDAD SUSTANTIVA
 
@@ -1952,3 +2142,11 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1563.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 2; LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 8; EL PRIMER PÁRRAFO, LA·FRACCIÓN I DEL SEGUNDO PÁRRAFO, EL TERCERO, CUARTO, NOVENO Y DÉCIMO PÁRRAFO DEL ARTÍCULO 20; LAS FRACCIONES III Y IV DEL ARTÍCULO 31; Y EL PRIMER PÁRRAFO Y LA FRACCIÓN DEL ARTÍCULO 33; SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7; LA FRACCIÓN XV AL ARTÍCULO 8; UN·QUINTO, SEXTO, SÉPTIMO Y OCTAVO PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES PARA SER NOVENO Y DÉCIMO, ASÍ COMO EL PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 30; LAS FRACCIONES V, VI, VII Y VIII AL ARTÍCULO 31; LOS ARTÍCULOS 31BIS, 31 BIS A, 31 BIS B, 31 BIS C, 31 BIS D, 31 BIS E, 31 BIS F, 31 BIS G, 31 BIS H, 31 BIS I , 31 BIS J, 31 BIS K, 31 BIS L, 31 BIS M, 31 BIS N Y 31 BIS O; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 411 BIS A DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA EL ARTÍCULO 915 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA; SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 6; LA FRACCIÓN XI DEL ARTÍCULO 7; LA FRACCIÓN VII DEL ARTÍCULO 21; LAS FRACCIONES IV Y V DEL ARTÍCULO 31; SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 6; LAS FRACCIONES XIII, XIV, XV Y XVI DEL ARTÍCULO 7; UN TERCER PÁRRAFO AL ARTÍCULO 29; LA FRACCIÓN VI AL ARTÍCULO 31; UN SEGUNDO PÁRRAFO AL ARTÍCULO 34; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 44, TODOS DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
