@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adopciones-del-estado-de-oaxaca-121802"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-12"
-last_updated: "2017-05-12"
+last_updated: "2020-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ADOPCIONES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el viernes 12 de mayo de 2017.
 
@@ -175,9 +175,17 @@ XII. El principio pro persona;
 
 XIII. El acceso a una vida libre de violencia;
 
-XIV. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-XV.- El principio de subsidiariedad.
+XIV. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XV. El principio de subsidiariedad; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XVI. El derecho al adecuado desarrollo evolutivo de la personalidad.
 
 ###### ARTÍCULO 7.
 
@@ -203,9 +211,27 @@ IX. A los titulares o personas que presten sus servicios en los Centros de Asist
 
 X. A los padres biológicos, representante legal, del niño, niña o adolescente disponer expresamente quien adoptará a su hijo, hija o representado salvo que se trate del hijo o hija del cónyuge, concubino o concubina o de la familia extensa ampliada;
 
-XI. La adopción por el cónyuge, concubina o concubino sin el consentimiento del otro; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XI. La adopción por el cónyuge, concubina o concubino sin el consentimiento del otro;
 
 XII. La adopción que inicia con el procedimiento judicial sin que previamente exista aprobación, Informe de Adoptabilidad y asignación del niño o adolescente por parte del Consejo Técnico de Adopciones, así como la expedición del Certificado de Idoneidad;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XIII. Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si se presentare cualquiera de los supuestos referidos una vez concluida judicialmente la adopción, la Procuraduría de Protección competente presentará denuncia ante el Ministerio Público y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XIV. El matrimonio entre el adoptante y el adoptado o sus descendientes, así como el matrimonio entre el adoptado con los familiares del adoptante o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XV. Ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges o concubinos en cuyo caso se requerirá el consentimiento de ambos;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+XVI. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio.
 
 En los expedientes que sean detectadas algunas o alguna de las prohibiciones anteriores, será de inmediato suspendido el trámite, y se procederá con la denuncia del orden correspondiente y boletinándolos a nivel nacional para los efectos correspondientes.
 
@@ -361,7 +387,9 @@ V. Estudiar y analizar los casos de las niñas, niños o adolescentes para deter
 
 VI. Asignar a niñas, niños y adolescentes, a una familia que previamente ha sido considerada idónea, una vez consideradas sus características como ideales para albergar al candidato de adopción;
 
-VII. Expedir los certificados de idoneidad;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VII. Expedir los certificados de idoneidad en un término no mayor a cuarenta y cinco días naturales, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos, caso en el que se podrá ampliar el plazo hasta por treinta días naturales más.
 
 VIII. Guardar estricta confidencialidad sobre todos los asuntos de su competencia;
 
@@ -427,6 +455,10 @@ La adopción internacional es la promovida por ciudadanos de otro país, con res
 
 La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+En igualdad de circunstancias se dará preferencia en la adopción a solicitantes mexicanos sobre extranjeros. Asimismo se dará preferencia a las adopciones nacionales sobre las internacionales.
+
 ###### ARTÍCULO 30.
 
 En las adopciones internacionales deberán reunirse los requisitos establecidos en la presente Ley y en los instrumentos internacionales sobre la materia de que México sea parte. En caso de controversia, serán competentes los tribunales de los Estados Unidos Mexicanos para dirimirlas.
@@ -441,9 +473,17 @@ II. Que la niña, niño o adolescente es adoptable, para lo cual emitirá un inf
 
 III. Que las personas a quienes les corresponde otorgar consentimiento sobre la adopción han sido previamente asesoradas e informadas de las consecuencias de ello;
 
-IV. Que la adopción obedece al interés superior del niño, niña o adolescente; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-V. Que las autoridades competentes del país de origen de los solicitantes acrediten, con los documentos respectivos, que estos son aptos para adoptar.
+IV. Que la adopción obedece al interés superior del niño, niña o adolescente;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+V. Que las autoridades competentes del país de origen de los solicitantes acrediten, con los documentos respectivos, que estos son aptos para adoptar; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+VI. En caso de que el adoptante sea extranjero con residencia permanente en el territorio nacional, las autoridades competentes incluirán como requisito del certificado de idoneidad, la comprobación de la situación migratoria regular en el territorio nacional.
 
 ###### ARTÍCULO 32.
 
@@ -456,6 +496,10 @@ En la adopción internacional de una niña, niño o adolescente de nacionalidad 
 ###### ARTICULO 34.
 
 Tratándose de adopción internacional, la Procuraduría realizará las acciones pre-adoptivas y post adoptivas necesarias en coordinación con las autoridades en materia internacional para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten el (sic) interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir la colaboración de la autoridad central del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional en la materia.
 
 ###### ARTICULO 35.
 
@@ -529,6 +573,10 @@ IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de
 
 La Procuraduría, que en su respectivo ámbito de competencia, haya autorizado la asignación de niñas, niños o adolescentes a una familia de acogida preadoptiva, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2020)</small>
+
+A fin de acompañar la adaptación de niñas, niños y adolescentes a su nueva familia y entorno, así como conocer la evolución de su desarrollo, el Sistema DIF, en coordinación con la Procuraduría de Protección, realizarán su seguimiento al menos cada seis meses durante los tres años posteriores a la adopción.
+
 ###### ARTICULO 45.
 
 En los casos que la Procuraduría constate que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida preadoptiva, procederá a iniciar el procedimiento a fin de reincorporarlos al sistema que corresponda y se realizará, en su caso, una nueva asignación.
@@ -564,3 +612,13 @@ Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpl
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 15 de abril de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Donovan Rito García, Secretario.- Dip. Rosa Elia Romero Guzmán, Secretaria.- Dip. Paola Gutiérrez Galindo, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 24 de Abril de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- La encargada de despacho de la Secretaría General de Gobierno. Lic. María del Carmen Ricárdez Vela.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1563.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 2; LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 8; EL PRIMER PÁRRAFO, LA FRACCIÓN I DEL SEGUNDO PÁRRAFO, EL TERCERO, CUARTO, NOVENO Y DÉCIMO PÁRRAFO DEL ARTÍCULO 20; LAS FRACCIONES III Y IV DEL ARTÍCULO 31; Y EL PRIMER PÁRRAFO Y LA FRACCIÓN DEL ARTÍCULO 33; SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7; LA FRACCIÓN XV AL ARTÍCULO 8; UN QUINTO, SEXTO, SÉPTIMO Y OCTAVO PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES PARA SER NOVENO Y DÉCIMO, ASÍ COMO EL PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 30; LAS FRACCIONES V, VI, VII Y VIII AL ARTÍCULO 31; LOS ARTÍCULOS 31 BIS, 31 BIS A, 31 BIS B, 31 BIS C, 31 BIS D, 31 BIS D, (SIC) 31 BIS E, 31 BIS F, 31 BIS G, 31 BIS H, 31 BIS I, 31 BIS J, 31 BIS K, 31 BIS L, 31 BIS M, 31 BIS N Y 31 BIS O; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 411 BIS A DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; SE REFORMA EL ARTÍCULO 915 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA; SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 6; LA FRACCIÓN XI DEL ARTÍCULO 7; LA FRACCIÓN VII DEL ARTÍCULO 21; LAS FRACCIONES IV Y V DEL ARTÍCULO 31; SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 6; LAS FRACCIONES XIII, XIV, XV Y XVI DEL ARTÍCULO 7; UN TERCER PÁRRAFO AL ARTÍCULO 29; LA FRACCIÓN VI AL ARTÍCULO 31; UN SEGUNDO PÁRRAFO AL ARTÍCULO 34; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 44, TODOS DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
