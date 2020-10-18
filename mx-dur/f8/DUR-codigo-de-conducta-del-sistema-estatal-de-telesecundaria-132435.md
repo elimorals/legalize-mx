@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-del-sistema-estatal-de-telesecundaria-132435
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-09"
-last_updated: "2018-12-09"
+last_updated: "2020-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DEL SISTEMA ESTATAL DE TELESECUNDARIA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL SISTEMA ESTATAL DE TELESECUNDARIA, PUBLICADO EN EL P.O. DE 18 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL SISTEMA ESTATAL DE TELESECUNDARIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 9 de diciembre de 2018.
 
@@ -834,3 +836,17 @@ La Dirección General del SETEL, expide el presente Código de Conducta del Sist
 PROFR. JOSÉ TEODORO ORTIZ PARRA
 
 DIRECTOR GENERAL Y PRESIDENTE DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL SETEL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL SISTEMA ESTATAL DE TELESECUNDARIA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el siguiente día de su publicación en el Periódico oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta del Sistema Estatal de Telesecundaria publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 98 de fecha 9 de diciembre de 2018.
+
+TERCERO.- Los puntos no considerados en este Código de Conducta, serán atendidos por el Comité de Ética y de Prevención de Conflictos de Interés, de conformidad con la norma aplicable.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de SETEL.
