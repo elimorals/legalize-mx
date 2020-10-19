@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2020-10-14"
+last_updated: "2020-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE OCTUBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -66,79 +66,65 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXI
 
 Las disposiciones de la presente Ley son de orden público, interés social y observancia general en la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-El objeto de la presente ley es establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia; así como establecer la coordinación interinstitucional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el marco de los ordenamientos jurídicos aplicables en la Ciudad de México y lo previsto en el primero, segundo y tercer párrafos del artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, respetándose los derechos humanos de las mujeres de conformidad con los principios de universalidad, interdependencia, indivisibilidad, pro persona y progresividad.
+El objeto de la presente ley es establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia; así como establecer la coordinación interinstitucional para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el marco de los ordenamientos jurídicos aplicables de la Ciudad de México y lo previsto en el primero, segundo y tercer párrafos del artículo 1ro de la Constitución Política de los Estados Unidos Mexicanos, respetándose y garantizando los derechos humanos de las mujeres de conformidad con los principios de universalidad, interdependencia, indivisibilidad, pro persona y progresividad establecidos en los Tratados Internacionales en materia de Derechos Humanos de las Mujeres.
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 3.
 
-Para efectos de la presente Ley se entenderá por:
+Para efectos de la presente ley se entenderá:
 
 I. Acciones afirmativas: Las medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la discriminación, desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
 
 II. Debida diligencia: La obligación de las personas que tienen la calidad de servidores públicos, las dependencias y entidades del Distrito Federal, de dar respuesta eficiente, eficaz, oportuna y responsable para garantizar los derechos de las mujeres;
 
-III. Dirección de Igualdad: La Dirección General de Igualdad y Diversidad Social de la Secretaría de Desarrollo Social del Distrito Federal;
+III. Declaratoria de Alerta de Violencia contra las mujeres: conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
 
 IV. Discriminación contra las mujeres: Toda distinción, exclusión o restricción que sufren las mujeres por razón de género, edad, salud, características físicas, posición social, económica, condición étnica, nacional, religiosa, opinión, identidad u orientación sexual, estado civil, o cualquier otra que atente contra su dignidad humana, que tiene por objeto menoscabar o anular el goce o ejercicio de sus derechos;
 
 V. Empoderamiento de las mujeres: El proceso que permite el tránsito de las mujeres de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión hacia un estadio de conciencia, autodeterminación y autonomía, que se manifiesta en el ejercicio pleno de sus derechos y garantías;
 
-VI. (DEROGADA, G.O. 8 DE MARZO DE 2019)
+VI: Fiscalía: La Fiscalía General de la Ciudad de México;
 
-VII. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Distrito Federal;
+VII. SEMUJERES: Secretaría de las Mujeres de la Ciudad de México;
 
-VIII. Misoginia: Las conductas de odio contra las mujeres por el hecho de serlo;
+VIII. Ley: Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México;
 
-IX. Mujeres en condición de vulnerabilidad: Aquellas en mayor situación de riesgo de ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
+IX. LUNAS: Unidades de Atención a mujeres víctimas de violencia que brindan asesoría psicológica y legal, formación para el liderazgo y servicios comunitarios, para promover la autonomía y la exigibilidad de derechos de las mujeres y niñas;
 
-X. Modalidades de violencia: Los ámbitos donde ocurre, públicos o privados, y se ejerce la violencia contra las mujeres;
+X. Misoginia: Las conductas de odio contra las mujeres por el hecho de serlo;
 
-> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
+XI. Mujeres en condición de vulnerabilidad: Aquellas en mayor situación de riesgo de ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
 
-XI. Parto Humanizado: Modelo de atención a las mujeres durante el parto y el puerperio, basado en el respeto a sus derechos humanos, su dignidad, Integridad, libertad y toma de decisiones relativas a cómo, dónde y con quien parir. La atención Médica otorgada debe estar basada en fundamentos científicos y en las recomendaciones de la Organización Mundial de la Salud, proporcionando condiciones de comodidad y privacidad durante el parto, con lo mejor de la atención desmedicalizada, y garantizando en su caso, la coordinación y los acuerdos interinstitucionales para identificar, atender y resolver de manera oportuna y segura las complicaciones y emergencias obstétricas.
+XII. Modalidades de violencia: Los ámbitos donde ocurre, públicos o privados, y se ejerce la violencia contra las mujeres;
 
-El modelo incluye de manera explícita y directa, las opiniones, necesidades y valoraciones emocionales de las mujeres y sus familias en los procesos de atención del parto y puerperio, incorporando medidas para erradicar las barreras culturales y de género que dificultan el acceso de las mujeres a los servicios de salud, reconociendo la diversidad cultural existente, y los aportes de la partería tradicional y otros aportes clínico terapéuticos de salud no convencionales.
+XIII. Parto Humanizado: Modelo de atención a las mujeres durante el parto y el puerperio, basado en el respeto a sus derechos humanos, su dignidad, Integridad, libertad y toma de decisiones relativas a cómo, dónde y con quién parir. La atención Médica otorgada debe estar basada en fundamentos científicos y en las recomendaciones de la Organización Mundial de la Salud, proporcionando condiciones de comodidad y privacidad durante el parto, con lo mejor de la atención desmedicalizada, y garantizando en su caso, la coordinación y los acuerdos interinstitucionales para identificar, atender y resolver de manera oportuna y segura las complicaciones y emergencias obstétricas.
 
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+El modelo incluye de manera explícita y directa, las opiniones, necesidades y valoraciones emocionales de las mujeres y sus familias en los procesos de atención del parto y puerperio, incorporando medidas para erradicar las barreras culturales y de género que dificultan el acceso de las mujeres a los servicios de salud, reconociendo la diversidad cultural existente, y los aportes de la partería tradicional y otros aportes clínico terapéuticos de salud no convencionales;
 
-XII. Persona agresora: Quien o quienes infligen algún tipo de violencia contra las mujeres en cualquiera de sus tipos y modalidades, así como quienes se encuentren registrados en el Registro Público de Personas Agresores Sexuales;
+XIV. Persona agresora: Quien o quienes infligen algún tipo de violencia contra las mujeres en cualquiera de sus tipos y modalidades;
 
-XIII. Perspectiva de género: Visión crítica, explicativa, analítica y alternativa que aborda las relaciones entre los géneros y que permite enfocar y comprender las desigualdades construidas socialmente entre mujeres y hombres y establece acciones gubernamentales para disminuir las brechas de desigualdad entre mujeres y hombres;
+XV. Perspectiva de género: Visión crítica, explicativa, analítica y alternativa que aborda las relaciones entre los géneros y que permite enfocar y comprender las desigualdades construidas socialmente entre mujeres y hombres y establece acciones gubernamentales para disminuir las brechas de desigualdad entre mujeres y hombres;
 
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+XVI. Red de información de violencia contra las mujeres: El sistema de recolección, procesamiento y clasificación de la información producida por las dependencias y entidades señaladas en esta Ley;
 
-XIV. Fiscalía: La Fiscalía General de Justicia de la Ciudad de México;
+XVII. Refugios Especializados. Las estancias del Gobierno del Distrito Federal, específicamente creadas para la atención de víctimas de trata de personas;
 
-XV. Red de información de violencia contra las mujeres: El sistema de recolección, procesamiento y clasificación de la información producida por las dependencias y entidades señaladas en esta Ley;
+XVIII. Relación afectiva o de hecho: Aquella en la que se comparte una relación íntima sin convivencia ni vínculo matrimonial o concubinato;
 
-XVI. Refugios Especializados. Las estancias del Gobierno del Distrito Federal, específicamente creadas para la atención de víctimas de trata de personas.
+XIX. Tipos de violencia: Los distintos daños que puede ocasionar la violencia contra las mujeres;
 
-> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
-
-XVII. Relación afectiva o de hecho: Aquella en la que se comparte una relación íntima sin convivencia ni vínculo matrimonial o concubinato.
-
-XVIII. Tipos de violencia: Los distintos daños que puede ocasionar la violencia contra las mujeres;
-
-XIX. Tribunal: El Tribunal Superior de Justicia del Distrito Federal;
-
-XX. Unidades de Atención: Las Unidades de Atención y Prevención de la Violencia Familiar de la Dirección de Igualdad:
+XX. Tribunal: El Tribunal Superior de Justicia de la Ciudad de México;
 
 XXI. Víctima: La mujer de cualquier edad que sufra algún tipo de violencia;
 
 XXII. Víctima indirecta: familiares de la víctima y/o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres;
 
 XXIII. Violencia contra las mujeres: Toda acción u omisión que, basada en su género y derivada del uso y/o abuso del poder, tenga por objeto o resultado un daño o sufrimiento físico, psicológico, patrimonial, económico, sexual o la muerte a las mujeres, tanto en el ámbito público como privado, que limite su acceso a una vida libre de violencia;
-
-> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2017)</small>
-
-XXIV. Declaratoria de Alerta por violencia contra las mujeres: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
-
-> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
-
-XXV. Registro: El Registro Público de Personas Agresores Sexuales.
 
 ###### Artículo 4.
 
@@ -334,9 +320,11 @@ X. Violencia digital.- Es cualquier acto realizado mediante el uso de materiales
 
 ## TITULO TERCERO. DE LA DECLARATORIA DE ALERTA Y MEDIDAS POR VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. DE LA DECLARATORIA DE ALERTA POR VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+### CAPÍTULO I. DE LA DECLARATORIA DE ALERTA DE VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 8.
 
@@ -346,7 +334,7 @@ I. Existan delitos graves y sistemáticos contra las mujeres;
 
 II. Existan elementos que presuman una inadecuada investigación y sanción de esos delitos; o
 
-III. Los organismos de derechos humanos a nivel nacional o del Distrito Federal, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten a INMUJERESDF.
+III. Los organismos de derechos humanos a nivel nacional o de la Ciudad de México, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten a la SEMUJERES.
 
 ###### Artículo 9.
 
@@ -376,21 +364,27 @@ II. Reparación del daño a través de la investigación y sanción de los actos
 
 III. Todas aquellas que se consideren necesarias para atender, erradicar y sancionar la violencia contra las mujeres
 
-## TÍTULO CUARTO. DE LA COORDINACIÓN INTERINSTITUCIONAL Y LAS MEDIDAS DE PREVENCIÓN Y ATENCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO I. DE LA COORDINACIÓN INTERINSTITUCIONAL
+## TÍTULO CUARTO. DEL GABINETE DE IGUALDAD SUSTANTIVA Y VIOLENCIA CONTRA LAS MUJERES Y LAS MEDIDAS DE PREVENCIÓN Y ATENCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO I. DEL GABINETE DE IGUALDAD SUSTANTIVA Y VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-Para la efectiva aplicación de la presente Ley, las dependencias y entidades de la Ciudad de México establecerán una coordinación interinstitucional, entre las Secretarías de Gobierno, Desarrollo Social, Seguridad Ciudadana, Trabajo y Fomento al Empleo, Salud, Educación, Cultura, Desarrollo Urbano y Vivienda, Fiscalía General de Justicia, Consejería Jurídica y de Servicios Legales, Secretaría de las Mujeres, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia de la Ciudad de México y los dieciséis Órganos Político Administrativos.
+Para la efectiva aplicación de la presente Ley, las dependencias y entidades de la Ciudad de México establecerán el Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México, entre las Secretarías de Gobierno, Inclusión y Bienestar Social, Seguridad Ciudadana, Trabajo y Fomento al Empleo, Salud, Educación, Ciencia, Tecnología e Innovación, Cultura, Desarrollo Urbano y Vivienda, Fiscalía General de Justicia, Consejería Jurídica y de Servicios Legales, Secretaría de las Mujeres, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia de la Ciudad de México y las dieciséis Alcaldías. El Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México establecido en esta Ley se coordinará con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-La coordinación interinstitucional establecida en esta Ley se coordinará con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-La Coordinación Interinstitucional se implementará desde la perspectiva de género, las acciones afirmativas, la debida diligencia y las acciones de prevención, atención y acceso a la Justicia.
+El Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México implementará las acciones de prevención, atención y de acceso a la justicia, así como las acciones afirmativas que considere necesarias, desde la debida diligencia para erradicar la violencia contra las mujeres.
+
+Asimismo, diseñará un Plan Anual de Trabajo que contenga las acciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
 ### CAPÍTULO II. DE LA PREVENCIÓN
 
@@ -472,13 +466,11 @@ IV. Expedir los mecanismos que permitan inscribir, acceder, rectificar, cancelar
 
 V. Suscribir los convenios con instituciones públicas, privadas y académicas necesarios para el cumplimiento de su objeto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 16.
 
 La Secretaría de las Mujeres, deberá:
-
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
 I. Diseñar lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de los objetivos de la presente Ley; así como para la capacitación y especialización de las y los servidores públicos del gobierno de la Ciudad de México en perspectiva de género y derechos humanos de las mujeres;
 
@@ -486,13 +478,27 @@ II. Coordinar y operar la Red de Información de Violencia contra las Mujeres;
 
 III. Realizar diagnósticos, investigaciones, estudios e informes sobre el cumplimiento de los objetivos de esta Ley;
 
-IV. Brindar a las víctimas de violencia servicios de educación y capacitación para el fortalecimiento de sus habilidades, desarrollo personal y empoderamiento;
+IV. Realizar acciones de prevención territorial y comunitaria para la promoción de los derechos de las mujeres y prevención de la violencia de género, a partir de las Unidades Territoriales de Atención, LUNAS;
 
-V. Promover una imagen de las mujeres libre de prejuicios y estereotipos, así como la eliminación del lenguaje sexista y/o misógino;
+V. Realizar acciones y proyectos destinados a prevenir el embarazo en adolescentes y por violencia de género;
 
-VI. Celebrar convenios de cooperación, coordinación y concertación con empresas, organizaciones patronales y sindicatos, para promover los derechos de las mujeres en los ámbitos público y privado; y
+VI. Brindar información y orientación requerida para cada caso sobre los programas con los que cuenta la SEMUJERES para víctimas de violencia de género, en alto riesgo y/o riesgo feminicida;
 
-VII. Las demás que señalen la (sic) disposiciones legales.
+VII. Promover una imagen de las mujeres libre de prejuicios y estereotipos, así como la eliminación del lenguaje sexista y/o misógino;
+
+VIII. Celebrar convenios de cooperación, coordinación y concertación con empresas, organizaciones patronales y sindicatos, para promover los derechos de las mujeres en los ámbitos público y privado;
+
+IX. Promover y vigilar la integración de la perspectiva de género y enfoque de derechos humanos, en los programas, servicios y acciones que ejecuten las instituciones del Gobierno de la Ciudad de México;
+
+X. Fomentar la coordinación local y nacional con los Centros de Refugio y Casas de Emergencia para mujeres víctimas de violencia de género;
+
+XI. Garantizar que la atención telefónica de primer contacto gratuita y especializada las 24 horas del día, los 365 días del año a través de Línea Mujeres, en donde se brindará orientación, intervención y respuesta inmediata para la prevención y atención de todo tipo de violencias para las mujeres de la Ciudad de México;
+
+XII. Brindar orientación y asesoría jurídica a mujeres víctimas de violencia de género a través de las Abogadas de las Mujeres, para el trámite de medidas de protección en términos de la presente Ley, con el objetivo de prevenir la comisión de un delito así como la violencia feminicida;
+
+XIII. Establecer mecanismos de coordinación interinstitucional con las Alcaldías para implementar acciones de prevención de la violencia contra las mujeres y niñas;
+
+XIV. Las demás que señalen las disposiciones legales.
 
 ###### Artículo 17.
 
@@ -822,49 +828,63 @@ II. Realizar en coordinación con las otras dependencias, para asegurar la unifo
 
 III. Las dependencias, entidades de la Ciudad de México y las Alcaldías que atiendan a mujeres víctimas de violencia deberán expedir documentos que hagan constar la atención de las mujeres víctimas de violencia, con la finalidad de que los hagan valer en sus centros de trabajo.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 35.
 
-La Secretaría de Desarrollo Social deberá:
+La Secretaría de las Mujeres deberá:
 
-I. Atender a las mujeres víctimas de violencia;
+I. Realizar acciones de atención multidisciplinaria y especializada, detección de riesgo de violencia feminicida y, en su caso, acompañamiento a mujeres y niñas en situación de violencia de género, que acudan (sic) las Unidades Territoriales de Atención, LUNAS, ubicadas en cada alcaldía. La atención se brindará con enfoque de género y derechos humanos;
 
-II. Entrevistar a la víctima, elaborar la Cédula de registro único, salvo en el caso de delitos sexuales, en el que deberá canalizar y acompañarla sin dilación alguna a la Procuraduría, registrando únicamente los datos de identificación de la víctima;
+II. Garantizar la aplicación de los instrumentos para la atención inicial, orientación jurídica y psicológica, y asistencia social en las Unidades Territoriales de Atención, LUNAS, quienes realizarán:
 
-III. Brindar asesoría jurídica y representar legalmente a la victima de violencia;
+a) Entrevista inicial a la víctima, elaboración de la Cédula de Registro único, detección de riesgo y en el caso de delitos sexuales, se deberá canalizar y acompañarla sin dilación alguna a la Procuraduría;
 
-IV. Brindar la atención psicológica urgente y terapéutica, según se requiera y que puede ser:
+b) La orientación y asesoría jurídica a las víctimas de violencia de género;
 
-a) De intervención en crisis;
+c) La atención psicológica urgente y terapéutica, según se requiera y que puede ser:
 
-b) Individual; o
+i) De intervención en crisis;
 
-c) Grupal.
+ii) Individual; o
 
-V. Canalizar a la víctima mediante oficio correspondiente, debiendo remitir a la instancia destinataria copia de la cédula de registro único, incluyendo la documentación soporte, de la cual las dependencias y entidades tomarán los datos para el seguimiento del caso con el objetivo que cada instancia que atienda a la víctima parta de una sola fuente de información para evitar la duplicidad de registros;
+iii) Grupal.
 
-VI. Gestionar su ingreso a los Centros de Refugio, en caso de resultar necesario;
+d) Canalizar a la víctima para seguimiento y atención a la instancia correspondiente;
 
-VII. Coordinar y administrar el Programa de Reinserción Social para las mujeres egresadas de los Centros de Refugio, con la finalidad de generar las condiciones necesarias que les permitan superar su situación de exclusión social;
+e) La gestión de su ingreso a los Centros de Refugio, en caso de resultar necesario.
 
-VIII. Generar programas específicos de atención para las mujeres en reclusión, internas en hospitales psiquiátricos y mujeres con capacidades especiales o diferentes;
+III. Coordinar y administrar el Programa de Reinserción Social para las mujeres egresadas de los Centros de Refugio, con la finalidad de generar las condiciones necesarias que les permitan superar su situación de exclusión social;
 
-IX. Gestionar:
+IV. Generar programas específicos en conjunto con la Secretaría de Salud de la Ciudad de México para atención de las mujeres en reclusión, internas en hospitales psiquiátricos y mujeres con capacidades especiales o diferentes;
 
-a) Ante la Secretaria de Desarrollo Económico, impulsar y facilitar el acceso de las víctimas a sus programas de crédito, así como, generar una bolsa de trabajo;
+V. Gestionar:
+
+a) Ante la Secretaría de Desarrollo Económico, impulsar y facilitar el acceso de las víctimas a sus programas de crédito, así como, generar una bolsa de trabajo;
 
 b) Ante la Secretaría del Trabajo y Fomento al Empleo, incentivar en las empresas la capacitación y generación de empleo con horarios favorables y remuneración justa y vigilar que las contratadas gocen de todos sus derechos laborales;
 
 c) Ante el Sistema de Transporte Público, la obtención de credenciales que permitan la gratuidad del transporte para las mujeres que se encuentren en un albergue, por el espacio en que dure su estancia en el mismo;
 
-d) Ante la Secretaría de Desarrollo Urbano y Vivienda, facilitar los trámites para que las mujeres víctimas de violencia obtengan vivienda y/o créditos accesibles para la adquisición o mejoramiento de la vivienda;
+d) Ante la Secretaría de Desarrollo Urbano y Vivienda, facilitar los trámites para que las mujeres víctimas de violencia de género obtengan vivienda y/o créditos accesibles para la adquisición o mejoramiento de la vivienda;
 
-e) Ante el Sistema para el Desarrollo Integral de la Familia del Distrito Federal, el acceso preferencial y gratuito o a bajo costo, a estancias o guarderías para las y los hijos de las mujeres víctimas de violencia y, en conjunción con la Secretaría de Educación, gestionar un programa de becas exclusivo para este tipo de población en riesgo y privilegiar su ingreso a escuelas cercanas al albergue o domicilio de las víctimas; y
+e) Ante el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, el acceso preferencial y gratuito o a bajo costo, a estancias o guarderías para las y los hijos de las mujeres víctimas de violencia y, en conjunción con la Secretaría de Educación, Ciencia, Tecnología e Innovación, gestionar un programa de becas exclusivo para este tipo de población en riesgo y privilegiar su ingreso a escuelas cercanas al albergue o domicilio de las víctimas; y
 
-f) Con la Secretaría de Finanzas, la exención del pago en la emisión de documentos que requieran las víctimas para la substanciación de procedimientos en materia penal y civil instaurados con motivo de la violencia que viven.
+f) Con la Secretaría de Administración y Finanzas, la exención del pago en la emisión de documentos que requieran las víctimas de violencia de género para la substanciación de procedimientos en materia penal y civil instaurados con motivo de la violencia que viven.
 
-X. Dar seguimiento a los casos integrando el expediente con la cédula de registro único, documentos de referencia y de soporte; y
+VI. Dar seguimiento a los casos integrando el expediente con la cédula de registro único, documentos de referencia y soporte; y
 
-XI. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
+VIII. A través de las Abogadas de las Mujeres:
+
+a) Atender a las mujeres víctimas de violencia de género
+
+b) Realizar entrevista inicial para la identificación de la problemática y detección de riesgo de violencia;
+
+c) Brindar orientación y asesoría jurídica a las mujeres víctimas de violencia de género, en las Agencias Desconcentradas y algunas Fiscalías Especializadas del Ministerio Público;
+
+d) Coadyuvar en el proceso de denuncia de las mujeres víctimas de violencia de género en las Agencias del Ministerio Público;
+
+IX. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
 
 ###### Artículo 36.
 
@@ -1088,25 +1108,17 @@ III. Instrumentar acciones integrales que tiendan a disminuir los efectos de la 
 
 En la esfera de la procuración y administración de justicia, se contará con abogadas victimales y asesoras o asesores jurídicos que coadyuven con las mujeres víctimas de violencia, quienes podrán tener la representación legal de aquellas mujeres que no cuenten con los medios económicos suficientes para contratar una o un defensor particular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 57.
 
 La representación legal que se proporcione a las víctimas, consistirá en el patrocinio y asesoría legal especializada, en asuntos del fuero común, en materia penal, civil, familiar, arrendamiento y laboral de la siguiente manera:
 
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
-
-I. En materia penal a cargo de la instancia de atención a víctimas a través de una asesora o un asesor jurídico;
-
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+I. En materia penal a cargo de la Fiscalía a través de una asesora o un asesor jurídico;
 
 II. En materia civil y arrendamiento, a cargo de la Consejería Jurídica y de Servicios Legales a través de una defensora o un defensor público;
 
-III. En materia familiar:
-
-a) A cargo del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, a través de los abogados adscritos a la Dirección Ejecutiva de Asuntos Jurídicos; y
-
-b) A cargo de la Dirección de Igualdad a través de las abogadas de las mujeres víctimas y víctimas indirectas de violencia adscritas a las Unidades de Atención.
+III. En materia familiar a cargo del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, a través de las abogadas o los abogados adscritos a la Dirección Ejecutiva de Asuntos Jurídicos;
 
 IV. En materia laboral a cargo de la Procuraduría de la Defensa del Trabajo, a través de personal jurídico adscrito a la Subprocuraduría de Atención a Mujeres.
 
@@ -1376,25 +1388,19 @@ XV. La interrupción, bloqueo, destrucción o eliminación de imágenes, audios,
 
 XVI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 64.
 
-Una vez que el Juez reciba la solicitud, otorgará de plano cualquiera de las medidas de protección previstas en el artículo anterior, fundada y motivadamente, debiendo tomar en cuenta, los principios de actuación para la implementación de tales medidas, otorgándolas en un plazo que no exceda de 6 horas.
+Una vez que la Jueza o el Juez de Control reciba la solicitud bajo su más estricta responsabilidad, ordenará fundada y motivadamente, en un plazo que no exceda de 6 horas, cualquiera de las medidas u órdenes de protección mencionadas en esta Ley, debiendo tomar en cuenta, en su caso, el interés superior de la niñez.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 65.
 
-En materia penal, el Ministerio Público o el Juez emitirán la medida u orden de protección en un plazo que no exceda de doce horas.
-
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+En materia penal, las o los Agentes del Ministerio Público o las Juezas o Jueces de Control emitirán la medida u orden de protección en un plazo que no exceda de doce horas a partir de que tengan conocimiento del evento de violencia.
 
 Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en las fracciones I, II y III del artículo 63 de esta Ley, deberá celebrarse una audiencia en la que el órgano jurisdiccional correspondiente podrá ratificarlas, ampliarlas o cancelarlas, en este último caso siempre y cuando se encuentre documentado que el riesgo ha cesado.
-
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
 En caso de que la persona agresora incumpla cualquier medida de protección, con independencia de la posible responsabilidad penal del sujeto activo, reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las víctimas directas o indirectas.
 
@@ -1404,9 +1410,11 @@ En caso de que la persona agresora incumpla cualquier medida de protección, con
 
 Las medidas de protección tendrán una duración máxima de sesenta días, prorrogables hasta por treinta días y en caso de no cesar la violencia, las medidas de protección se mantendrán vigentes con una revisión trimestral que justifique su permanencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 67.
 
-El juez penal podrá emitir como orden de protección preventiva la retención y guarda de armas en posesión de la persona agresora, y dar aviso a la autoridad federal competente.
+La Jueza o el Juez de Control podrá emitir como orden de protección preventiva la retención y guarda de armas en posesión de la persona agresora, y dar aviso a la autoridad federal competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1432,9 +1440,11 @@ En todos los casos, al finalizar la diligencia de ejecución de las medidas u ó
 
 Las medidas u órdenes de protección podrán ser solicitadas por la víctima o cualquier persona, que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de la víctima y víctimas indirectas.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 70.
 
-Las órdenes de protección de naturaleza civil tienen como propósito salvaguardar el patrimonio de la víctima o víctimas indirectas y podrán ser dictadas por el juez de lo familiar o de lo civil, según corresponda dentro de las seis horas siguientes a su solicitud y tendrán una temporalidad no mayor a 72 horas a partir de la notificación a la persona agresora.
+Las órdenes de protección de naturaleza civil tienen como propósito salvaguardar el patrimonio de la víctima o víctimas indirectas y podrán ser dictadas por la jueza o el juez de lo familiar o de lo civil, según corresponda dentro de las seis horas siguientes a la solicitud y tendrán una temporalidad máxima de sesenta días, prorrogables hasta por treinta días, contados a partir de la notificación a la persona agresora, debiendo implementar las medidas que garanticen la integridad y seguridad de las mujeres y sus hijas e hijos de forma inmediata.
 
 ###### Artículo 71.
 
@@ -1447,6 +1457,10 @@ II. Elaboración del inventario de los bienes de su propiedad o que formen parte
 III. Prohibición al agresor de enajenar o hipotecar bienes de la sociedad conyugal o las que se encuentren en el domicilio común en caso de concubinato o sociedad de convivencia;
 
 IV. Obligación alimentaría provisional e inmediata.
+
+> <small>(ADICIONADA, G.O. 19 DE OCTUBRE DE 2020)</small>
+
+V. Recuperación y entrega inmediata de las niñas, niños y adolescentes menores de 18 años de la víctima y/o personas incapaces que requieran cuidados especiales.
 
 ###### Artículo 72.
 
@@ -1763,3 +1777,11 @@ PRIMERO.- Turnese al Ejecutivo Local para su publicación en la Gaceta Oficial d
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- La Jefatura de Gobierno contará con un plazo que no excederá de 30 días hábiles para realizar las adecuaciones reglamentarias que sean necesarias.
+
+G.O. 19 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL DISTRITO FEDERAL. Y SE MODIFICAN LOS ARTÍCULOS 2, 3, 8 FRACCIÓN III, 11, 12, 16, 35, 57, FRACCIONES I Y III, 64, 65 PRIMER PÁRRAFO, 67 Y 70, LA DENOMINACIÓN DEL TÍTULO CUARTO, ASÍ COMO EL NOMBRE DEL CAPÍTULO I DEL MISMO TÍTULO; Y SE AGREGA UNA FRACCIÓN V AL ARTÍCULO 71; TODOS ELLOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su conocimiento y efectos legales conducentes.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
