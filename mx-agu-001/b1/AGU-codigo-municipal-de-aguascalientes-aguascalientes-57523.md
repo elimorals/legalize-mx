@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2020-09-21"
+last_updated: "2020-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -15819,11 +15819,13 @@ VII. Las infracciones y sanciones;
 
 VIII. El procedimiento de denuncia popular;
 
-XI (sic). Proponer las modificaciones de los usos del suelo del territorio municipal;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+IX. Proponer las modificaciones de los usos del suelo del territorio municipal;
 
 X. Establecer las normas técnicas para la clasificación de los usos del suelo; y
 
-XI. Realizar y actualizar el manual técnico de usos del suelo.
+XI. (DEROGADA, P.O. 19 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 1105.
 
@@ -15947,7 +15949,7 @@ XXXIV. Anuencia de Vecinos: Carta de consentimiento de los propietarios y/o veci
 
 XXXV. Área de restricción de construcción: La superficie libre de construcción que debe dejarse en todos los niveles en el interior del lote, destinada a área jardinada, captación y filtración de aguas pluviales y/o iluminación y ventilación del predio;
 
-XXXVI. Manual Técnico de Usos del Suelo: Es el documento que complementa la normatividad para la clasificación de las actividades y sus normas de compatibilidad a fin de facilitar la aplicación del presente reglamento;
+XXXVI. (DEROGADA, P.O. 19 DE OCTUBRE DE 2020)
 
 XXXVII. Coeficiente de Ocupación del Suelo, COS: Es el factor que multiplicado por el área total de un lote o predio, determina la máxima superficie edificable del mismo;
 
@@ -24818,3 +24820,9 @@ P.O. 21 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 614 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 PRIMERO: La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
