@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-8607"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-08"
-last_updated: "2017-04-05"
+last_updated: "2020-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8607&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1996-06-26"
 ---
 # LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR -ANTES LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO, PUBLICADO EN LA G.O. DE 19 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE OCTUBRE DE 2020 (DEROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de julio de 1996 y republicada en la Primera Sección del Diario Oficial de la Federación, el martes 9 de julio de 1996.
 
@@ -565,3 +567,11 @@ Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial 
 ###### ARTÍCULO SEGUNDO.
 
 Las presentes reformas, adiciones y derogación a la Ley entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL DISTRITO FEDERAL. Y SE MODIFICAN LOS ARTÍCULOS 2, 3, 8 FRACCIÓN III, 11, 12, 16, 35, 57, FRACCIONES I Y III, 64, 65 PRIMER PÁRRAFO, 67 Y 70, LA DENOMINACIÓN DEL TÍTULO CUARTO, ASÍ COMO EL NOMBRE DEL CAPÍTULO I DEL MISMO TÍTULO; Y SE AGREGA UNA FRACCIÓN V AL ARTÍCULO 71; TODOS ELLOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su conocimiento y efectos legales conducentes.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
