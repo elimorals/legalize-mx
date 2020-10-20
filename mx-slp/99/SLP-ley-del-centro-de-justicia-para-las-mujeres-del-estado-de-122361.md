@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2020-03-17"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -789,11 +789,13 @@ VII. Atender las encomiendas de la jefatura del área, y
 
 VIII. Llevar el expediente jurídico de cada usuaria y realizar los reportes respectivos en el expediente único de la misma.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 42.
 
-El Reglamento de la presente Ley determinará el procedimiento de asesoría jurídica, debiendo contemplar que en todo caso se den a conocer a la usuaria los conceptos de violencia familiar y tipos de violencia que marcan la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y el Código de Procedimientos Penales para el Estado, con la intención de que conozca la problemática como un delito y los derechos que tiene como víctima, así como el énfasis en la autodeterminación de las mismas en la decisión de las acciones que deban tomarse, para apoyar su empoderamiento; igualmente determinará las causas de suspensión o conclusión del servicio.
+El Reglamento de la presente Ley determinará el procedimiento de asesoría jurídica, debiendo contemplar que en todo caso se den a conocer a la usuaria, los conceptos de violencia familiar y tipos de violencia que definen, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí; el Código Penal del Estado de San Luis Potosí; así como lo relativo que estipula el Código Nacional de Procedimientos Penales, con la intención de que conozca la problemática como un delito; los derechos que tiene como víctima, así como el énfasis en la autodeterminación de las mismas en la decisión de las acciones que deban tomarse, para apoyar su empoderamiento; e igualmente determinará las causas de suspensión o conclusión del servicio.
 
-En caso de que se requiera realizar el trámite por la vía civil o familiar se canalizará a la usuaria a la Defensoría Pública para su atención o con alguna otra de las instituciones asociadas que brinden este servicio.
+En caso de que se requiera llevar a cabo el trámite por la vía civil o familiar, se canalizará a la usuaria a la Defensoría Pública para su atención, o con alguna otra de las instituciones asociadas que brinden este servicio.
 
 ### Capítulo VII. Del Trabajo Social
 
@@ -1173,9 +1175,11 @@ V. Supervisión del manejo de servicios y de la transparencia del Centro.
 
 ### Capítulo XV. Procuraduría General de Justicia
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 76.
 
-El Procurador General de Justicia del Estado deberá asignar al Centro una Agente del Ministerio Público quien realizará sus funciones con base en lo dispuesto en la Ley Orgánica de la Procuraduría General de Justicia del Estado y los Códigos Penal y de Procedimientos Penales de la Entidad, así como en lo dispuesto en las leyes de, Acceso de las Mujeres a una Vida Libre de Violencia, de Prevención y Atención a la Violencia Familiar; de Víctimas y demás leyes aplicables.
+El Fiscal General del Estado, deberá asignar al Centro, una Agente Fiscal, quien realizará sus funciones con base en lo dispuesto en, el Código Nacional de Procedimientos Penales; la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí, y en su caso, el Código Penal, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia; la Ley de Prevención y Atención a la Violencia Familiar, estos tres últimos ordenamientos, del Estado de San Luis Potosí; y demás leyes que resulten aplicables.
 
 ###### ARTÍCULO 77.
 
@@ -1258,6 +1262,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0627.- SE DEROGA DEL ARTÍCULO 20 LA FRACCIÓN V, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0769.- SE REFORMA LOS ARTÍCULOS 42 Y 76, DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
