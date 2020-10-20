@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-peritos-del-estado-de-san-luis-potosi-90039"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2020-03-17"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de Octubre de 2012.
 
@@ -241,33 +241,33 @@ La constancia facultará al perito para que dictamine únicamente sobre la mater
 
 ### CAPÍTULO II. De la Comisión del Registro Estatal de Peritos
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 7°.
 
-Para efectos de la administración del Registro habrá una Comisión integrada por:
+Para efectos de la administración del Registro habrá una Comisión que se integrará por:
 
-I. Un Presidente, que será el Secretario General de Gobierno;
+I. Una persona que presida, que será la o el titular de la Secretaría General de Gobierno;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+II. Una persona que fungirá como secretario o secretaria, que será la o el titular de la Dirección General de Gobernación;
 
-II. Un Secretario, que será el Director General de Gobernación;
+III. La persona titular del Instituto Registral y Catastral del Estado;
 
-III. El Director de Catastro del Estado;
+IV. La persona titular de la Dirección del Registro Público de la Propiedad;
 
-IV. El Director General del Registro Público de la Propiedad;
+V. La persona titular del Catastro del Estado;
 
-V. Un representante del Poder Judicial del Estado, con nivel mínimo de Juez de Primera Instancia;
+VI. Una persona representante del Poder Judicial del Estado, con nivel mínimo de juez de Primera Instancia;
 
-VI. Un representante de la Procuraduría General de Justicia del Estado, con nivel mínimo de Sub-procurador;
+VII. Una persona representante de la Fiscalía General del Estado, con nivel mínimo de vicefiscal;
 
-VII. El Coordinador General de la Defensoría Social y de Oficio;
+VIII. La persona titular de la Coordinación General de la Defensoría Pública;
 
-VIII. Los Presidentes de los Colegios, asociaciones y barras de abogados que se encuentren reconocidos en el Estado, y
+IX. Las personas que presidan los colegios, asociaciones, y barras de abogados, que se encuentren reconocidos en el Estado, y
 
-IX. Los Presidentes de los Colegios o Asociaciones de Peritos que existan o se constituyan en el Estado.
+X. Las personas que presidan colegios o asociaciones de peritos que existan o se constituyan en el Estado.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
-
-En ausencia del Presidente, éste designará por oficio a quien lo represente; y, en caso de ausencia del Secretario, éste será representado por el Director de Catastro.
+En ausencia de la persona que presida, ésta designará mediante oficio a quien la represente; y, en caso de ausencia de quien funja como secretario o secretaría, éste será representado por el Director del Instituto Registral y Catastral del Estado.
 
 ###### ARTÍCULO 8°.
 
@@ -479,7 +479,9 @@ XVII. Conducirse con ética, lealtad y buena fe en la relación que establezca c
 
 XVIII. Las demás que establezcan las Leyes y el Reglamento.
 
-En relación con las fracciones XII, XIII y XV, los peritajes emitidos no surtirán los efectos legales procedentes, ni serán reconocidos por las autoridades competentes.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+En relación con las fracciones XII, XIII, y XV, los peritajes emitidos no surtirán los efectos legales procedentes, ni serán reconocidos por las autoridades competentes; además, quienes incumplan los principios y obligaciones que establece la presente Ley, se harán acreedores a las sanciones previstas en el artículo 22 del presente Ordenamiento.
 
 ###### ARTÍCULO 21.
 
@@ -608,6 +610,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0631.- SE DEROGA DEL ARTÍCULO 12 EN SUS FRACCIONES I A V LOS INCISOS E), DE LA LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0767.- SE REFORMA (SIC) LOS ARTÍCULOS 7° Y 20 EN SU PÁRRAFO ÚLTIMO, DE LA LEY DE PERITOS DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
