@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2020-08-07"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -118,6 +118,8 @@ IV. Afectación: Acción u omisión que se desarrolla para dañar, menoscabar, p
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
 V. Consejo: Consejo para la Garantía de los Derechos Humanos de Niños y Niñas.
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 729, PUBLICADO EN EL P.O. 20 DE OCTUBRE DE 2020, SE MODIFICA LA DENOMINACIÓN DEL CONSEJO TÉCNICO DE ADOPCIONES POR CONSEJO TÉCNICO DE EVALUACIÓN.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2017)</small>
 
@@ -1329,6 +1331,8 @@ La Procuraduría procederá a solicitar a la autoridad judicial competente la p�
 
 Se podrá solicitar una prórroga por el mismo tiempo al juez competente cuando el caso y las circunstancias lo ameriten.
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 729, PUBLICADO EN EL P.O. 20 DE OCTUBRE DE 2020, SE MODIFICA LA DENOMINACIÓN DEL CONSEJO TÉCNICO DE ADOPCIONES POR CONSEJO TÉCNICO DE EVALUACIÓN.]</small>
+
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 Determinada la imposibilidad de reintegrar al niño, niña o adolescente, y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, la Procuraduría podrá iniciar el procedimiento de adopción correspondiente, previa opinión del Consejo Técnico de Adopciones, en los términos de esta ley y demás disposiciones aplicables.
@@ -1687,21 +1691,23 @@ La cancelación de la inscripción, únicamente será procedente si el deudor al
 
 De la participación de la Procuraduría en los procesos de adopción.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 105.
 
-En el proceso administrativo de adopción, la Procuraduría deberá integrar el expediente conforme a lo establecido en el Reglamento del Proceso Administrativo de Adopciones del Estado de Coahuila de Zaragoza.
+En el proceso administrativo de adopción, la Procuraduría deberá integrar el expediente conforme a lo establecido en la Ley de Adopciones y Acogimiento Familiar para el Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 106.
 
-Una vez integrado el expediente, las Subprocuradurías Regionales lo remitirán al área de adopciones de la Procuraduría de las Niñas, Niños y la Familia, quien validará y enviará a la Unidad de Evaluación y Seguimiento para la Protección de Derechos del DIF, a fin de registrar su solicitud de adopción.
+Una vez integrado el expediente, las Subprocuradurías Regionales lo remitirán al área de adopciones de la Procuraduría de las Niñas, Niños y la Familia, quien validará y registrará su solicitud de adopción.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 107.
 
-La Procuraduría iniciará de manera inmediata el juicio de adopción de conformidad a lo previsto en la legislación civil aplicable una vez que se hayan agotado y satisfecho los requisitos legales que se desprenden de la Ley de Asistencia social y Protección de Derechos del Estado de Coahuila de Zaragoza, el Reglamento del Proceso Administrativo de Adopciones del Estado de Coahuila de Zaragoza y demás ordenamientos aplicables.
+La Procuraduría iniciará el procedimiento judicial de adopción de conformidad a lo previsto en la legislación familiar aplicable, una vez que se hayan agotado y satisfecho los requisitos legales que se desprenden de la Ley para la Familia de Coahuila de Zaragoza, la Ley de Asistencia Social y Protección de Derechos del Estado de Coahuila de Zaragoza, la Ley de Adopciones y Acogimiento Familiar para el Estado de Coahuila de Zaragoza y demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -2042,3 +2048,33 @@ P.O. 7 DE AGOSTO DE 2020.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 729.- LEY DE ADOPCIONES Y ACOGIMIENTO FAMILIAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Proceso Administrativo de Adopciones del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 27 de septiembre de 2013.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se deberán concluir conforme a la normatividad vigente al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+Se modifica la denominación del Consejo Técnico de Adopciones por Consejo Técnico de Evaluación, mismo que deberá integrarse de conformidad con lo establecido en el presente Decreto, en un periodo que no excederá de sesenta días hábiles contados a partir de la entrada en vigor del mismo, previa emisión de la convocatoria para elegir a las personas representantes de las asociaciones civiles.
+
+Cuando alguna disposición legal o administrativa haga mención al Consejo Técnico de Adopciones, se entenderá que se refiere al Consejo Técnico de Evaluación.
+
+###### ARTICULO QUINTO.
+
+Cuando se haga alusión en un ordenamiento jurídico al Reglamento del Proceso Administrativo de Adopciones del Estado de Coahuila de Zaragoza se entenderá que se refiere a la Ley de Adopciones y Acogimiento Familiar para el Estado de Coahuila de Zaragoza, sin perjuicio de que con posterioridad se hagan los ajustes normativos necesarios.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
