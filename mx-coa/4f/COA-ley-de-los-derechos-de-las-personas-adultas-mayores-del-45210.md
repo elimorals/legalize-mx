@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2020-09-04"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -131,9 +131,9 @@ XIV. Perspectiva de Género. Las políticas, programas y acciones cuyo propósit
 
 XV. Tanatología. Los estudios encaminados a procurar una muerte digna con cuidados, paliativos biológicos, sicológicos y sociales.
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XVI. Abandono. La falta de acción deliberada o no para atender de manera integral las necesidades de una persona mayor que ponga en peligro su vida o su integridad física, psíquica o moral.
+XVI. Abandono. La falta de acción sistemática, permanente, consiente y deliberada o no para atender de manera integral las necesidades de una persona mayor que ponga en peligro su vida o su integridad física, psíquica o moral.
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -445,6 +445,10 @@ IX. Del Acceso a los Servicios:
 
 4. Contar con un lugar preferente en las filas de bancos, tiendas de autoservicio y tiendas de conveniencia.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+5. Se de atención prioritaria a las personas adultas mayores que cuenten con alguna discapacidad.
+
 ###### Artículo 11.
 
 Son responsabilidades y facultades de las personas adultas mayores, las siguientes:
@@ -637,9 +641,9 @@ II. Fomentar la convivencia familiar cotidiana, donde las personas adultas mayor
 
 III. Conocer los derechos de las personas adultas mayores, previstos en la Constitución Política de los Estados Unidos Mexicanos, en la presente Ley y demás ordenamientos para su debida observancia, así como transmitirlos a las personas adultas mayores.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia, abandono de la persona adulta mayor y demás actos u omisiones que pongan en riesgo su persona, bienes y derechos.
+IV. Evitar que alguno de sus integrantes, realice o induzca a la realización de cualquier acto de discriminación, abuso, explotación, aislamiento, violencia, abandono, hacinamiento o desalojo de la persona adulta mayor y demás actos u omisiones que pongan en riesgo su persona, bienes y derechos. Los actos descritos en la presente fracción serán sancionados acorde a lo establecido en el Código Penal para el Estado.
 
 > <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1688,3 +1692,15 @@ P.O. 4 DE SEPTIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 731.- SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 5 Y LA FRACCIÓN IV DEL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULOS (SIC) 211 Y SE ADICIONA UN PÁRRAFO AL FINAL, ASIMISMO SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 212 Y EL ARTÍCULO 254 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 754.- SE ADICIONA EL PUNTO 5 A LA FRACCIÓN IX DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
