@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2020-06-26"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -994,6 +994,28 @@ XVI.- Cubrir a los deudos del trabajador fallecido, por concepto de pago de defu
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 XVII.- Tratándose de trabajadores con discapacidad, otorgar los permisos para someterse al tratamiento médico o de rehabilitación, previa constancia médica.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XVIII.- Implementar los protocolos necesarios para prevenir y erradicar la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual, así como erradicar el trabajo forzoso e infantil que anule, menoscabe o restrinja los derechos humanos de las y los trabajadores.
+
+Los protocolos a los que hace referencia esta fracción deberán contener al menos los siguientes elementos:
+
+a) Un catálogo detallado enunciativo más no limitativo de los actos considerados como discriminación por razones de género, violencia dentro del trabajo, acoso u hostigamiento sexual, que atenten contra los derechos humanos de las y los trabajadores.
+
+b) Mecanismos de prevención tales como capacitación al personal de las empresas, así como promoción de talleres sobre el combate a la violencia, discriminación, maltrato, acoso sexual, y hostigamiento sexual y trabajo infantil, entre otros.
+
+c) Mecanismos de atención inmediata a las víctimas de violencia, discriminación, maltrato, acoso u hostigamiento sexual y trabajo infantil, que anulen, menoscaben o restrinjan los derechos humanos de las y los trabajadores, así como la disponibilidad y acceso a servicios médicos, psicológicos, y de asesoría jurídica y social que requieran.
+
+d) Medidas cautelares para situaciones de riesgo o urgencia.
+
+e) Procedimientos adecuados y sencillos para el trámite de quejas y denuncias, así como los órganos internos competentes para conocer de las mismas.
+
+f) Mecanismos eficientes y eficaces de investigación de las conductas a que hace referencia el inciso a.
+
+g) Sanciones.
+
+h) Recursos procesales efectivos.
 
 ###### ARTICULO 87.
 
@@ -2338,3 +2360,11 @@ P.O. 26 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 626.- SE REFORMA EL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 34, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, LAS FRACCIONES III Y VII DEL ARTÍCULO 56, Y LA FRACCIÓN II DEL ARTÍCULO 164 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 761.- SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 86 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
