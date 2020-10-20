@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-130401"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2018-08-30"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR, SANCIONAR, Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS; Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -347,9 +347,11 @@ V. Las policías, el Ministerio Público y las autoridades jurisdiccionales adop
 
 Las policías, Ministerio Público y autoridades jurisdiccionales deben hacer una consideración especial en el desarrollo de sus actividades, cuando la víctima se encuentre en situación de vulnerabilidad por haber sufrido algún daño físico o emocional que requieran tomar medidas especiales.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 23.
 
-En materia de investigación, procedimientos y sanciones de los delitos relativos a la trata de personas, que sean de su competencia, las autoridades estatales, y municipales, aplicarán (sic) Ley General; el Código Nacional de Procedimientos Penales, y en lo procedente las disposiciones del Código Penal Federal; la Ley Federal contra la Delincuencia Organizada; el Código Fiscal de la Federación; la Ley Federal de Extinción de Dominio; y la Ley General del Sistema Nacional de Seguridad Pública, así como la legislación estatal correlativa en dichas materias en los casos aplicables.
+En materia de investigación, procedimientos y sanciones de los delitos relativos a la trata de personas, que sean de su competencia, las autoridades estatales, y municipales, aplicarán la Ley General; el Código Nacional de Procedimientos Penales, y en lo procedente las disposiciones del Código Penal Federal; la Ley Federal contra la Delincuencia Organizada; el Código Fiscal de la Federación; la Ley Nacional de Extinción de Dominio; y la Ley General del Sistema Nacional de Seguridad Pública, así como la legislación estatal correlativa en dichas materias en los casos aplicables.
 
 ### Capítulo II. Técnicas de Investigación
 
@@ -1156,3 +1158,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0768.- SE REFORMA EL ARTÍCULO 23 DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
