@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-09-29"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -327,11 +327,13 @@ Los miembros del Ayuntamiento deberán cumplir con las funciones que les señala
 
 El cargo de munícipe, es obligatorio pero no gratuito. El Ayuntamiento, al elaborar su presupuesto de egresos, deberá señalar las partidas que correspondan a las dietas que deben los munícipes percibir por el desempeño de sus funciones, observando en todo caso lo dispuesto por el artículo 103 fracción IV de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 39.
 
-Los miembros de un ayuntamiento, así como quienes tengan la condición de servidor público municipal, independientemente de la categoría, no podrán aceptar el desempeño de cualquier otro empleo, cargo o comisión de la Federación, de los Estados o de otros municipios. Se exceptúan los cargos honoríficos, de investigación y/o de docencia.
+Los miembros de un ayuntamiento, así como quienes tengan la condición de servidor público municipal, independientemente de la categoría, no podrán aceptar el desempeño de cualquier otro empleo, cargo o comisión de la Federación, de los Estados o de otros municipios. Se exceptúan los cargos honoríficos de investigación y/o de docencia, siempre que no interfiera con el horario o funciones del cargo que desempeña.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 Para desempeñar un cargo diferente, deberán separarse previamente del que desempeñen, en los términos que prevé este Código y demás disposiciones aplicables.
 
@@ -5152,3 +5154,9 @@ P.O. 29 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 721.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 753.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 39 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
