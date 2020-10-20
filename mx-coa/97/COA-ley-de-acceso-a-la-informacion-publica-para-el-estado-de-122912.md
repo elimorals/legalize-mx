@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2018-10-19"
+last_updated: "2020-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -75,79 +75,101 @@ Además de las definiciones contenidas en el artículo 3 de la Ley General de Tr
 
 I. Datos Personales: En términos de la Ley de Protección de Datos Personales, se consideran datos personales toda la información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a una persona, identificada o identificable.
 
-El nombre no será dato personal salvo que se encuentre asociado: al origen étnico o racial; a las características físicas, morales o emocionales; a la vida afectiva y familiar; al domicilio particular, número de teléfono, cuenta personal de correo electrónico, claves informáticas y cibernéticas; al patrimonio; a la ideología y opiniones políticas, creencias, convicciones religiosas, filosóficas, morales u otras análogas que afecten la intimidad; a los estados de salud físicos o mentales; a las preferencias sexuales; a la huella dactilar; a la información genética; a la información fotográfica; y al número de seguridad social.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 20 DE OCTUBRE DE 2020)</small>
 
-II. Días: Días hábiles.
+II. Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que tienen las siguientes características:
 
-III. Documentos: Los reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros, escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
+a) Accesibles: Los datos están disponibles para la gama más amplia de usuarios, para cualquier propósito;
 
-IV. Expediente: Unidad documental constituida por uno o varios documentos, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados.
+b) Integrales: Contienen el tema que describen a detalle y con los metadatos necesarios;
 
-V. Documento Electrónico: Información que puede constituir un documento, archivada o almacenada en un soporte electrónico, en un formato determinado y susceptible de identificación y tratamiento.
+c) Gratuitos: Se obtienen sin entregar a cambio contraprestación alguna;
 
-VI. Expediente Electrónico: Es el conjunto de documentos electrónicos cuyo contenido y estructura permiten identificarlos como documentos de archivo que aseguran la validez, autenticidad, confidencialidad, integridad y disponibilidad de la información que contienen.
+d) No discriminatorios: Los datos están disponibles para cualquier persona, sin necesidad de registro;
 
-VII. Indicadores de Gestión: La información numérica o gráfica que permite evaluar la eficacia y eficiencia en el cumplimiento del grado de ejecución de las actividades, la asignación y el uso de recursos en las diferentes etapas de los procesos, proyectos y programas; así como, los planes gubernamentales de los sujetos obligados en una dimensión de mediano y largo plazo.
+e) Oportunos: Son actualizados, periódicamente, conforme se generen;
 
-VIII. Indicador de Resultados: La información que permita evaluar el cumplimiento de las metas y objetivos institucionales, indicando los beneficios obtenidos, de acuerdo a los resultados de la gestión.
+f) Permanentes: Se conservan en el tiempo, para lo cual, las versiones históricas relevantes para uso público se mantendrán disponibles con identificadores adecuados al efecto;
 
-IX. Información: La contenida en los documentos o documentos electrónicos que los sujetos obligados generan, obtienen, adquieren, transforman o conservan por cualquier título o medio.
+g) Primarios: Provienen de la fuente de origen con el máximo nivel de desagregación posible;
 
-X. Información Pública de Oficio: La información que los sujetos obligados deben difundir, actualizar y poner a disposición del público en medios electrónicos de manera proactiva, sin que medie solicitud de por medio.
+h) Legibles por máquinas: Deberán estar estructurados, total o parcialmente, para ser procesados e interpretados por equipos electrónicos de manera automática;
 
-XI. Información Confidencial: La información en posesión de los sujetos obligados, que refiera a la vida privada y/o los datos personales, por lo que no puede ser difundida, publicada o dada a conocer, excepto en aquellos casos en que así lo contemple la presente ley y/o la Ley de Protección de Datos Personales.
+i) En formatos abiertos: Los datos estarán disponibles con el conjunto de características técnicas y de presentación que corresponden a la estructura lógica usada para almacenar datos en un archivo digital, cuyas especificaciones técnicas están disponibles públicamente, que no suponen una dificultad de acceso y que su aplicación y reproducción no estén condicionadas a contraprestación alguna;
 
-XII. Información Pública: Toda información en posesión de los sujetos obligados, con excepción de la que tenga el carácter de confidencial.
+j) De libre uso: Citan la fuente de origen como único requerimiento para ser utilizados libremente;
 
-XIII. Información Reservada: La información pública que por razones de interés público sea excepcionalmente restringido el acceso de manera temporal, de conformidad con el capítulo quinto de la ley.
+III. Días: Días hábiles.
 
-XIV. Instituto: El Instituto Coahuilense de Acceso a la Información Pública.
+IV. Documentos: Los reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros, escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
 
-XV. Medio Electrónico: Sistema electrónico de comunicación abierta, que permite almacenar, difundir o transmitir documentos, datos o información.
+V. Expediente: Unidad documental constituida por uno o varios documentos, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados.
 
-XVI. Ley: La Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
+VI. Documento Electrónico: Información que puede constituir un documento, archivada o almacenada en un soporte electrónico, en un formato determinado y susceptible de identificación y tratamiento.
 
-XVII. Ley de Protección de Datos Personales: Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
+VII. Expediente Electrónico: Es el conjunto de documentos electrónicos cuyo contenido y estructura permiten identificarlos como documentos de archivo que aseguran la validez, autenticidad, confidencialidad, integridad y disponibilidad de la información que contienen.
 
-XVIII. Reglamento: Reglamento de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
+VIII. Indicadores de Gestión: La información numérica o gráfica que permite evaluar la eficacia y eficiencia en el cumplimiento del grado de ejecución de las actividades, la asignación y el uso de recursos en las diferentes etapas de los procesos, proyectos y programas; así como, los planes gubernamentales de los sujetos obligados en una dimensión de mediano y largo plazo.
 
-XIX. Servidor público: Los representantes de elección popular, los miembros de los órganos jurisdiccionales del Poder Judicial, los integrantes de organismos públicos autónomos, los funcionarios y empleados, y en general toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en las entidades públicas.
+IX. Indicador de Resultados: La información que permita evaluar el cumplimiento de las metas y objetivos institucionales, indicando los beneficios obtenidos, de acuerdo a los resultados de la gestión.
 
-XX. Sistema de Solicitudes de Acceso a la Información: Aquél que forma parte de la Plataforma Nacional de Transparencia, de conformidad con el artículo 50 fracción I de la Ley General.
+X. Información: La contenida en los documentos o documentos electrónicos que los sujetos obligados generan, obtienen, adquieren, transforman o conservan por cualquier título o medio.
 
-XXI. Sujetos obligados: Los señalados en el artículo 6 de esta ley.
+XI. Información Pública de Oficio: La información que los sujetos obligados deben difundir, actualizar y poner a disposición del público en medios electrónicos de manera proactiva, sin que medie solicitud de por medio.
 
-XXII. Sujetos obligados indirectos: Las personas físicas o morales que por su labor auxiliar en funciones de orden público, y por razones de interés público, poseen obligaciones de transparentar información en términos de la Sección Tercera del Capítulo Tercero de la presente ley.
+XII. Información Confidencial: La información en posesión de los sujetos obligados, que refiera a la vida privada y/o los datos personales, por lo que no puede ser difundida, publicada o dada a conocer, excepto en aquellos casos en que así lo contemple la presente ley y/o la Ley de Protección de Datos Personales.
 
-XXIII. Entidad Pública: Los sujetos obligados a proporcionar información en los términos de la Ley General, esta ley y demás disposiciones aplicables, contenidos en el artículo 6 de esta ley, con excepción de las organizaciones de la sociedad civil que reciban y/o ejerzan recursos públicos en el ámbito estatal y municipal, a partir de 16,000 salarios mínimos generales vigentes en el Estado o aquellos que reciban un ingreso estatal, que sea propuesto dentro de su presupuesto y las instituciones de beneficencia.
+XIII. Información Pública: Toda información en posesión de los sujetos obligados, con excepción de la que tenga el carácter de confidencial.
 
-XXIV. Organizaciones de la Sociedad Civil: Asociaciones o Sociedades Civiles legalmente constituidas.
+XIV. Información Reservada: La información pública que por razones de interés público sea excepcionalmente restringido el acceso de manera temporal, de conformidad con el capítulo quinto de la ley.
 
-XXV. Instituciones de Beneficencia: Toda institución, asociación, fundación o ente económico que realice actos de beneficencia, en términos de la ley de la materia.
+XV. Instituto: El Instituto Coahuilense de Acceso a la Información Pública.
 
-XXVI. Estado: El Estado de Coahuila de Zaragoza.
+XVI. Medio Electrónico: Sistema electrónico de comunicación abierta, que permite almacenar, difundir o transmitir documentos, datos o información.
 
-XXVII. Versiones Públicas: Documento en el que, para permitir su acceso, se testa u omite la información clasificada como reservada o la confidencial.
+XVII. Ley: La Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 
-XXVIII. Persona: Todo ser humano sin importar condición o entidad jurídica, salvo lo dispuesto en la ley.
+XVIII. Ley de Protección de Datos Personales: Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
 
-XXIX. Derecho de Acceso a la Información Pública: El derecho fundamental que tiene toda persona para acceder a la información generada, administrada o en poder de los sujetos obligados, en los términos de la presente ley.
+XIX. Reglamento: Reglamento de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 
-XXX. Protección de Datos Personales: La garantía que tutela la privacidad de datos personales en poder de las entidades públicas y sujetos obligados, en términos de la Ley de Protección de Datos Personales.
+XX. Servidor público: Los representantes de elección popular, los miembros de los órganos jurisdiccionales del Poder Judicial, los integrantes de organismos públicos autónomos, los funcionarios y empleados, y en general toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en las entidades públicas.
 
-XXXI. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido por la ley, y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla.
+XXI. Sistema de Solicitudes de Acceso a la Información: Aquél que forma parte de la Plataforma Nacional de Transparencia, de conformidad con el artículo 50 fracción I de la Ley General.
 
-XXXII. Redes sociales: Formas de comunicación electrónica por medio de comunidades virtuales con objeto de compartir información, ideas, mensajes personales, fotografía, videos y diversos contenidos.
+XXII. Sujetos obligados: Los señalados en el artículo 6 de esta ley.
 
-XXXIII. Interés Público: Valor agregado que posee la información producto de una actividad, que por su naturaleza resulta de importancia conocer para la comunidad para el debido respeto y ejercicio de los derechos humanos.
+XXIII. Sujetos obligados indirectos: Las personas físicas o morales que por su labor auxiliar en funciones de orden público, y por razones de interés público, poseen obligaciones de transparentar información en términos de la Sección Tercera del Capítulo Tercero de la presente ley.
 
-XXXIV. Ley General: Ley General de Transparencia y Acceso a la Información Pública.
+XXIV. Entidad Pública: Los sujetos obligados a proporcionar información en los términos de la Ley General, esta ley y demás disposiciones aplicables, contenidos en el artículo 6 de esta ley, con excepción de las organizaciones de la sociedad civil que reciban y/o ejerzan recursos públicos en el ámbito estatal y municipal, a partir de 16,000 salarios mínimos generales vigentes en el Estado o aquellos que reciban un ingreso estatal, que sea propuesto dentro de su presupuesto y las instituciones de beneficencia.
 
-XXXV. Ley General de Protección de Datos Personales: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+XXV. Organizaciones de la Sociedad Civil: Asociaciones o Sociedades Civiles legalmente constituidas.
 
-XXXVI. Organismo Garante Nacional: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+XXVI. Instituciones de Beneficencia: Toda institución, asociación, fundación o ente económico que realice actos de beneficencia, en términos de la ley de la materia.
 
-XXXVII. Persona que realiza actos de autoridad: Es toda aquella que, con independencia de su naturaleza formal, dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifique o extinga situaciones jurídicas en forma unilateral y obligatoria; u omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones jurídicas.
+XXVII. Estado: El Estado de Coahuila de Zaragoza.
+
+XXVIII. Versiones Públicas: Documento en el que, para permitir su acceso, se testa u omite la información clasificada como reservada o la confidencial.
+
+XXIX. Persona: Todo ser humano sin importar condición o entidad jurídica, salvo lo dispuesto en la ley.
+
+XXX. Derecho de Acceso a la Información Pública: El derecho fundamental que tiene toda persona para acceder a la información generada, administrada o en poder de los sujetos obligados, en los términos de la presente ley.
+
+XXXI. Protección de Datos Personales: La garantía que tutela la privacidad de datos personales en poder de las entidades públicas y sujetos obligados, en términos de la Ley de Protección de Datos Personales.
+
+XXXII. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido por la ley, y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla.
+
+XXXIII. Redes sociales: Formas de comunicación electrónica por medio de comunidades virtuales con objeto de compartir información, ideas, mensajes personales, fotografía, videos y diversos contenidos.
+
+XXXIV. Interés Público: Valor agregado que posee la información producto de una actividad, que por su naturaleza resulta de importancia conocer para la comunidad para el debido respeto y ejercicio de los derechos humanos.
+
+XXXV. Ley General: Ley General de Transparencia y Acceso a la Información Pública.
+
+XXXVI. Ley General de Protección de Datos Personales: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
+XXXVII. Organismo Garante Nacional: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+XXXVIII. Persona que realiza actos de autoridad: Es toda aquella que, con independencia de su naturaleza formal, dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifique o extinga situaciones jurídicas en forma unilateral y obligatoria; u omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones jurídicas.
 
 #### SECCIÓN TERCERA. LOS SUJETOS OBLIGADOS
 
@@ -2916,3 +2938,11 @@ P.O. 19 DE OCTUBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 730.- SE ADICIONA LA FRACCIÓN II DEL ARTÍCULO 3 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
