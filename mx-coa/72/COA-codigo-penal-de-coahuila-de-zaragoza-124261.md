@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-08-07"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3389,7 +3389,9 @@ Los delitos previstos en este artículo y en el precedente, solo se punirán cua
 
 Artículo 211 (Abandono de persona incapaz de valerse por sí misma)
 
-Se impondrá de tres meses a dos años de prisión y multa, a quien, teniendo la obligación jurídica de cuidarla, abandone a una persona incapaz de valerse por sí misma, por más tiempo del necesario para preservar o no agravar su estado de salud.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Se impondrá de tres meses a dos años de prisión y multa, a quien, teniendo la obligación jurídica de cuidarla, realice o induzca a la realización de acciones discriminatorias de abuso, explotación, aislamiento, violencia, abandono, hacinamiento o desalojo de una persona incapaz de valerse por sí misma, incluyendo a las personas adultas mayores y/o con discapacidad, por más tiempo del necesario para preservar o no agravar su estado de salud.
 
 Si como consecuencia del abandono se producen lesiones a la víctima que tarden en sanar más de quince días, al sujeto activo se le aplicará las reglas del concurso de delitos, respecto al abandono cometido y las lesiones concretamente producidas.
 
@@ -3397,9 +3399,15 @@ Mas si como consecuencia del abandono, se pone a la víctima en peligro concreto
 
 Además, en cualquiera de los supuestos de este artículo, si el sujeto activo es ascendiente o descendiente consanguíneo en línea recta de la víctima, tutor o tutora de la misma, se le privará de la patria potestad o de la tutela y de los derechos de acreedor alimentario, según sea el caso, además, se le suspenderá de los demás derechos de familia de uno a dos años según se regula la suspensión de derechos en la Parte General de este código.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Así mismo se proporcionara (sic) las medidas de protección idóneas que considere pertinentes el Ministerio Público, cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima, establecidas en el Código Nacional de Procedimientos Penales
+
 Artículo 212 (Abandono en institución o ante otra persona)
 
-Se impondrá de tres a seis meses de prisión, a quien abandone en una institución o ante cualquier otra persona, que no hayan aceptado el cuidado, a una persona incapaz de valerse por sí misma, respecto de la cual tenga la obligación de cuidar o se encuentre legalmente a su cargo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Se impondrá de tres a seis meses de prisión, a quien abandone en una institución o ante cualquier otra persona, que no hayan aceptado el cuidado, a una persona incapaz de valerse por sí misma, incluyendo a las personas adultas mayores y/o con discapacidad, respecto de la cual tenga la obligación de cuidar o se encuentre legalmente a su cargo.
 
 El ascendiente o tutor que entregue en una casa de expósitos, de menores o de asilo, a una persona que tenga menos de doce años que esté bajo su potestad o custodia, sin que haya autorización legal o judicial para aquel efecto, perderán por ese solo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
@@ -4037,9 +4045,11 @@ No procederá el perdón o acuerdos reparatorios en los delitos de violencia fam
 
 ### Capítulo Segundo. Delitos contra la subsistencia familiar
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 Artículo 254 (Incumplimiento injustificado de obligaciones alimenticias)
 
-Se impondrá de tres meses a tres años de prisión, multa, suspensión de los derechos de familia y la reparación del daño a quien, a pesar de tener recursos económicos, no le proporcione en lo posible, los recursos necesarios a cualquier persona respecto de la que tenga obligación legal de proveer a su alimentación, habitación, salud y/o educación.
+Se impondrá de tres meses a tres años de prisión, multa, suspensión de los derechos de familia y la reparación del daño a quien, a pesar de tener recursos económicos, no le proporcione en lo posible, los recursos necesarios a cualquier persona ascendiente o descendiente, menores incapaces o adultos mayores, respecto de la que tenga obligación legal de proveer a su alimentación, habitación, salud y/o educación.
 
 Artículo 255 (Impago injustificado de pensión alimenticia)
 
@@ -7988,3 +7998,9 @@ P.O. 7 DE AGOSTO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 731.- SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 5 Y LA FRACCIÓN IV DEL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULOS (SIC) 211 Y SE ADICIONA UN PÁRRAFO AL FINAL, ASIMISMO SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 212 Y EL ARTÍCULO 254 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
