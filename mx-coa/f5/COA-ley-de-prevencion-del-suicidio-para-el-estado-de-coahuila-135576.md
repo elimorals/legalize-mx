@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-del-suicidio-para-el-estado-de-coahuila-13557
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2020-08-07"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección al Número 29 del Periódico Oficial del Estado de Coahuila, el martes 9 de abril de 2019.
 
@@ -43,9 +43,11 @@ LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-La presente Ley es de orden público e interés social y tiene como propósito fundamental la protección de la salud mental y la prevención del suicidio. Sus disposiciones son aplicables en todo el territorio coahuilense.
+###### Artículo 1º.
+
+La presente Ley es de orden público e interés social y tiene como propósito fundamental la protección de la salud mental y la disminución de la incidencia y prevalencia del suicidio en el Estado de Coahuila, a través de la prevención, asistencia y posvención de las víctimas y sus familiares.
 
 ###### Artículo 2°.
 
@@ -59,7 +61,9 @@ I. Atender de forma coordinada, interinstitucional e interdisciplinaria el probl
 
 II. Promover la participación de la comunidad en el combate a este problema de salud pública.
 
-III. Capacitar al personal del sistema estatal de salud y de todos los sectores e instituciones involucrados en la atención a personas con ideación suicida y a deudos de suicidas.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+III. Capacitar al personal del sistema estatal de salud y de todos los sectores e instituciones involucrados en la atención a personas con ideación suicida y posvención suicida.
 
 IV. Realizar campañas de orientación a la sociedad civil.
 
@@ -76,6 +80,10 @@ I. Ideación suicida.- Pensamientos de un individuo referentes a desear y planea
 II. Intento de suicidio.- Acción autodestructiva a la que sobrevive la persona con ideación suicida.
 
 III. Suicidio.- Acto voluntario de quitarse la vida; causarse la muerte a sí mismo-a.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+IV. Posvención.- Las acciones e intervenciones posteriores a un evento autodestructivo, destinadas a trabajar con personas y familias vinculadas a la persona que se quitó la vida, a fin de apoyarlas a superar esta situación.
 
 ### CAPÍTULO II. APLICACIÓN
 
@@ -205,9 +213,11 @@ Todo personal involucrado en el tratamiento a pacientes con conducta suicida, es
 
 Para el diseño de los programas de capacitación que, de manera sistemática y permanente emprenda la Secretaría de Salud, en coordinación con sus jurisdicciones en la entidad, se contemplará el contexto económico y sociocultural de cada entidad donde se imparta dicho adiestramiento.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 16.
 
-La capacitación incluirá un programa de formación a los trabajadores de la salud, educación, seguridad, justicia y centros de reinserción social, esto, en las distintas áreas de atención preventiva, tanto como en los servicios terapéuticos a los deudos de los suicidas.
+La capacitación incluirá un programa de formación a los trabajadores de la salud, educación, seguridad, justicia y centros de reinserción social, esto, en las distintas áreas de atención preventiva, y posvención diseñando un espacio de capacitación continua.
 
 ### CAPÍTULO VI. COBERTURA
 
@@ -288,3 +298,9 @@ P.O. 7 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 682.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 756.- SE REFORMA: EL ARTÍCULO 1°, LA FRACCIÓN III DEL ARTÍCULO 3° Y EL ARTÍCULO 16; Y SE ADICIONA: LA FRACCIÓN IV AL ARTÍCULO 5° DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO (SIC).- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
