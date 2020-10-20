@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2020-08-07"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -229,9 +229,9 @@ XXI. Disturbios. Las contingencias que pudieran presentarse derivadas de amenaza
 
 XXII. Emergencia. Situación anormal que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
 
-> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XXIII. Establecimientos. A los centros educativos y de investigación, estancias, guarderías, fábricas, empresas, comercios, restaurantes, bares, cantinas, discotecas, almacenes, hoteles, moteles, circos, centros de espectáculos, centros de salud públicos y privados, oficinas públicas y privadas, teatros, estadios, centros recreativos, salones de fiestas y, en general, cualquier instalación, construcción, actividad, servicio u obra en los que debido a su propia naturaleza, al uso que se destine o a la concurrencia de personas, pueda existir riesgo;
+XXIII. Establecimientos. A los centros educativos y de investigación, estancias, guarderías, fábricas, empresas, comercios, restaurantes, bares, cantinas, discotecas, almacenes, hoteles, moteles, lugares que ofrecen hospedaje vía plataforma digital, circos, centros de espectáculos, centros de salud públicos y privados, oficinas públicas y privadas, teatros, estadios, centros recreativos, salones de fiestas y, en general, cualquier instalación, construcción, actividad, servicio u obra en los que debido a su propia naturaleza, al uso que se destine o a la concurrencia de personas, pueda existir riesgo;
 
 > <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -569,7 +569,9 @@ VIII. Implementar y evaluar acciones de emergencia en las zonas que se establezc
 
 IX. Ordenar actos de inspección, a fin de constatar el cumplimiento de las disposiciones relativas a la constitución de unidades internas y a la formulación y aplicación de los Programas Internos de Protección Civil a cargo de los establecimientos, edificaciones o inmuebles siguientes:
 
-a) Edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, condominios, campamentos turísticos y centros vacacionales;
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+a) Edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, incluyendo los lugares en los que se ofrece hospedaje mediante plataformas digitales, condominios, campamentos turísticos y centros vacacionales;
 
 b) Instituciones educativas de los sectores público o privado, en todos sus niveles;
 
@@ -843,6 +845,10 @@ Podrá promoverse ante la autoridad competente, la ejecución de medidas de segu
 
 Cuando se apliquen alguna o algunas de las medidas de prevención y seguridad previstas en el artículo anterior, se indicará su temporalidad estimada y, en su caso, las acciones que se deben de llevar a cabo para ordenar el retiro de las mismas.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Además de darle difusión a dichas medidas, entre la población que se ve afectada directamente por las mismas.
+
 ###### ARTÍCULO 20.
 
 El titular del Ejecutivo del Estado y los ayuntamientos podrán, sin perjuicio de lo establecido en la legislación correspondiente, realizar las acciones de emergencia en caso de desastre para proporcionar y brindar atención a las necesidades prioritarias de la población, particularmente en materia de protección de la vida y la salud, la alimentación, la atención médica, el vestido, albergue temporal, el restablecimiento de las vías de comunicación incluyendo la limpieza inmediata y urgente de escombros y derrumbes de calles, caminos, carreteras y accesos, así como la reanudación del servicio eléctrico y el abastecimiento de agua y todas aquellas que sean necesarias para la reconstrucción del área afectada.
@@ -863,11 +869,11 @@ ARTÍCULO 22 A.- Todos los elementos operativos adscritos a las unidades de Prot
 
 Para ello, deberán efectuar un curso específico que será impartido por alguna de las instituciones registradas en la Escuela Nacional de Protección Civil, el cual contendrá las materias que les permitan adquirir los conocimientos y aptitudes generales básicas, para ejercer sus funciones en las unidades de Protección Civil y en los servicios de atención de emergencias.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 23.
 
-El Consejo Estatal promoverá ante la Secretaría de Educación para que proporcione información y capacitación en materia de protección civil, en las instituciones de educación básica y media superior. Asimismo, fomentará este tipo de acciones en las instituciones de educación superior, en organizaciones sociales y grupos de vecinos.
+El Consejo Estatal promoverá ante la Secretaría de Educación para que proporcione información y capacitación en materia de protección civil y primeros auxilios, en las instituciones de educación básica y media superior. Asimismo, fomentará este tipo de acciones en las instituciones de educación superior, en organizaciones sociales y grupos de vecinos.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
@@ -901,7 +907,9 @@ V. Observar las medidas de prevención y seguridad de protección civil dispuest
 
 Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles, que por su uso y destino tengan una concentración masiva de personas, así como aquellas personas físicas y morales que desarrollen cualquier actividad que implique un riesgo a las personas, sus bienes o al medio ambiente tendrán las siguientes obligaciones:
 
-I. Capacitar a su personal en materia de protección civil;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+I. Capacitar a su personal en materia de protección civil y primeros auxilios. El personal que esté a cargo de proveer primeros auxilios deberá recibir capacitación al menos de forma anual.
 
 II. Practicar simulacros cuando menos una vez cada seis meses.
 
@@ -1125,11 +1133,11 @@ II. Colocar en lugares visibles señalización en donde se advierta que se debe 
 
 III. Verificar que los vehículos estacionados en el interior de las cocheras cerradas adjuntas a las habitaciones estén completamente apagados.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 34.
 
-Las empresas, sean industriales, comerciales o de servicios deberán dar capacitación a su personal en materia de protección civil, dotarlos del equipo de respuesta necesario, y estar provistas de sistemas contra incendios en óptimas condiciones para su uso. Asimismo, deberán contar con unidades internas de protección civil, responsables de la aplicación de los programas de prevención de accidentes, fungiendo como enlace de la Subsecretaria para la atención de desastres o emergencias.
+Las empresas, sean industriales, comerciales o de servicios deberán dar capacitación a su personal en materia de protección civil y primeros auxilios, dotarlos del equipo de respuesta necesario, y estar provistas de sistemas contra incendios en óptimas condiciones para su uso. Asimismo, deberán contar con unidades internas de protección civil, responsables de la aplicación de los programas de prevención de accidentes, fungiendo como enlace de la Subsecretaria para la atención de desastres o emergencias.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
@@ -1986,3 +1994,23 @@ P.O. 7 DE AGOSTO DE 2020.
 PRIMERO. - El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 SEGUNDO. - Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 746.- SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 33 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA; Y SE REFORMAN LA FRACCIÓN XXIII DEL ARTÍCULO 5 Y EL INCISO A) DE LA FRACCIÓN IX DEL ARTÍCULO 12 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 747.- SE REFORMAN LOS ARTÍCULOS 23, 26 FRACCIÓN I Y 34 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 751.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
