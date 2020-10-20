@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-del-estado-de-coahuila-de-zaragoza-139863"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-27"
-last_updated: "2020-06-23"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Coahuila, el día viernes 27 de diciembre de 2019.
 
@@ -87,7 +87,9 @@ VI. Estado. El Estado de Coahuila de Zaragoza;
 
 VII. Formación de la cultura turística. Infundir en la sociedad el conjunto de conocimientos y valores que adquieren tanto turistas como anfitriones del destino y que, mediante su práctica, más una serie de actitudes y costumbres, se favorece el fomento y el crecimiento de la actividad turística;
 
-VIII. Hospedaje a través de plataformas digitales. La prestación del servicio de alojamiento temporal en inmuebles que se ofrece al público a través de plataformas digitales;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+VIII. Servicio de hospedaje mediante modalidades no tradicionales. Aquellos por los que se conceda, ya sea de forma parcial o total, el uso de inmuebles amueblados destinados a la casa habitación, siempre que tales servicios se presten de forma habitual por más de seis meses al año a una o más personas. Este servicio puede ser provisto mediante el uso de plataformas digitales;
 
 IX. Huella de carbono. La cantidad de emisiones de gases de efecto invernadero emitidas de forma directa, o indirecta como consecuencia del desarrollo de una actividad, medido en toneladas de dióxido de carbono equivalente;
 
@@ -147,7 +149,9 @@ V. Coordinar las actividades de promoción turística que realicen las áreas ad
 
 VI. Establecer la coordinación de información respecto al Registro Nacional, para garantizar la actualización y eficacia de este instrumento de difusión;
 
-VII. Llevar el control y seguimiento del padrón de aquellas personas físicas o morales que proporcionen el servicio (sic) hospedaje a través de plataformas digitales;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+VII. Llevar el control y seguimiento del padrón de aquellas personas físicas o morales que proporcionen el servicio de hospedaje mediante modalidades no tradicionales;
 
 VIII. Participar dentro del marco jurídico aplicable, en los comités, fideicomisos, programas y fondos de corte estatal que determinen las estrategias de inversión en infraestructura y promoción turística en el estado;
 
@@ -511,17 +515,47 @@ La información que deberán proporcionar los prestadores de servicios a que se 
 
 Podrán requerir mediante los mecanismos establecidos y previa identificación, información en los términos de este artículo quienes sean titulares de la Secretaría de Seguridad Pública y de la Fiscalía General del Estado, los subsecretarios o Fiscales respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a lo dispuesto en la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 41.
 
-Tratándose de los prestadores de servicio de hospedaje a través de plataformas digitales, deberán:
+Tratándose de los prestadores de servicio de hospedaje mediante modalidades no tradicionales, deberán cumplir los siguientes requisitos:
 
-I. Solicitar licencia de funcionamiento ante el municipio correspondiente;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-II. Colaborar con las autoridades que, con motivo de su solicitud de licencia de funcionamiento, tengan que realizar visitas de inspección a fin de obtener la información de seguridad e higiene necesarias para emitir el dictamen de factibilidad y viabilidad de funcionamiento, así como cuando las autoridades competentes los requieran;
+I. El inmueble o casa habitación deberá contar con los certificados, permisos, licencias o autorizaciones tramitados ante el municipio correspondiente, para satisfacer así, los requisitos de seguridad, accesibilidad, higiene, comodidad y buen aspecto, exigibles en la legislación aplicable;
 
-III. Cumplir con las obligaciones de los prestadores de servicios turísticos previstas en el artículo 39 de esta ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
 
-IV. Cumplir con las obligaciones fiscales que establecen las leyes correspondientes a la materia, así como con las normas de seguridad, protección civil e higiene que se marcan dentro de las respectivas leyes que norman la materia.
+II. La publicidad o información divulgada a través de cualquier medio para la contratación de este tipo de servicios de hospedaje deberá ser extensa y sin dolo o error, para que los usuarios conozcan si es un inmueble o casa habitación dedicada exclusivamente a dicho servicio, así como la calidad y reconocimiento que este tiene respecto a su función.
+
+Informarán a sus usuarios de manera impresa o electrónica la descripción de los servicios de hospedaje contratados, los horarios de entrada y salida, número de noches a pernoctar, tarifa, y en su caso, depósito de dinero en garantía exigible al usuario para la prestación del servicio, así como todas las demás condiciones particulares aplicables.
+
+En caso de que el inmueble no cuente con medidas o instalaciones adecuadas para personas con algún tipo de discapacidad, deberá señalarse expresamente al usuario.
+
+La información proporcionada al usuario hará las veces de contrato una vez aceptada por el huésped, así como los términos en particular acordados por escrito, se redactará en idioma español y señalará la tarifa total aplicable, así como las condiciones y políticas de cancelación.
+
+En caso de que estos servicios se anuncien a través de una plataforma digital operada por un tercero, la misma deberá implementar mecanismos a través de los cuales los usuarios puedan presentar quejas, así como crear mecanismos alternativos para la solución de conflictos. La plataforma digital por la que se anuncien este tipo de servicios de hospedaje deberá expresar la dirección, teléfono y/o correo electrónico, del tercero operador de la plataforma electrónica ante quien se puedan presentar quejas, así como la forma para recibirlas;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+III. Colaborar con las autoridades que, con motivo de la solicitud de los tramites marcados en la fracción I del presente artículo, tengan que realizar visitas de inspección a fin de obtener la información de seguridad e higiene necesarias para emitir el dictamen de factibilidad y viabilidad de funcionamiento, así como cuando las autoridades competentes los requieran;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+IV. Cumplir con las obligaciones de los prestadores de servicios turísticos previstas en el artículo 39 de esta ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+V. Cumplir con las obligaciones fiscales que establecen las leyes correspondientes a la materia, así como con las normas de seguridad, protección civil e higiene que se marcan dentro de las respectivas leyes que norman la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Artículo 41 bis. No se considerará prestación de servicios de hospedaje mediante modalidades no tradicionales, aquellos que:
+
+l. Se presten en los mismos espacios amueblados y habitados por quien ofrece el servicio de hospedaje, otorgando para ello, temporal y parcialmente, el uso de éste; y
+
+II. Se presten por periodos equivalentes o mayores a lo que constituya un arrendamiento según la legislación civil aplicable.
 
 ###### Artículo 42.
 
@@ -832,3 +866,9 @@ P.O. 23 DE JUNIO DE 2020.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 727.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 5, LA FRACCIÓN VII DEL ARTÍCULO 6, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 41; SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 41, Y EL ARTÍCULO 41 BIS, DE LA LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
