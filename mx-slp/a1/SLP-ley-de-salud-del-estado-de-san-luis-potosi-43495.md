@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2020-07-16"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -287,6 +287,10 @@ V. Las demás que determinen esta Ley y las disposiciones legales aplicables.
 
 C. La prevención del consumo de narcóticos y atención a las adicciones.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+D. La protección y cuidado del personal de salud respecto a los efectos y riesgos dañinos contraídos por motivo de su trabajo.
+
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
 ### CAPITULO I. Disposiciones Generales
@@ -329,13 +333,17 @@ VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de pro
 
 IX. Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones, para ampliar la cobertura y mejorar la calidad de atención a la salud;
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-X. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad, y su relación con los beneficios a la salud, y
+X. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad, y su relación con los beneficios a la salud;
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XI. Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
+XI. Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria, y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XII. Diseñar acciones de política pública encaminada a lograr el permanente cuidado y protección del personal de salud, atendiendo las necesidades físicas, materiales y psicológicas del mismo, teniendo como eje los derechos humanos, así como el principio pro persona.
 
 ###### ARTICULO 8º.
 
@@ -357,7 +365,9 @@ VI. Coordinar el proceso de programación de las actividades de salud en el Esta
 
 VII. Establecer un sistema estatal de información básica en materia de salud;
 
-VIII. Formular recomendaciones a las dependencias competentes, sobre la asignación de los recursos que requieran los programas de salud del Estado;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+VIII. Formular recomendaciones a las dependencias competentes, sobre la asignación de los recursos que requieran los programas de salud del Estado, vigilando que cada institución asigne un monto razonable de recursos para el cuidado y protección del personal médico;
 
 IX. Impulsar en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud;
 
@@ -471,9 +481,13 @@ XI. Crear un padrón de instituciones y organismos públicos y privados que real
 
 XII. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen, y
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XIII. Formular e implementar un programa de protección y contención del personal de la salud, que tenga como objetivo el fortalecimiento y cuidado de los recursos humanos de la Secretaría que tienen a su cargo la atención a usuarios, considerando de forma integral sus necesidades físicas, materiales, y psicológicas, y
+
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-XIII. Las demás atribuciones que se deriven de la Ley General de Salud, esta Ley, los acuerdos de coordinación o colaboración, y demás disposiciones legales aplicables.
+XIV. Las demás atribuciones que se deriven de la Ley General de Salud, esta Ley, los acuerdos de coordinación o colaboración, y demás disposiciones legales aplicables.
 
 B. En materia de salubridad local:
 
@@ -567,11 +581,15 @@ III. Formulen y desarrollen programas municipales de salud, en el marco del Sist
 
 IV. Vigilen y hagan cumplir en la esfera de su competencia, los ordenamientos legales correspondientes en materia de salud;
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-V. Establezcan programas tendientes a erradicar la violencia y discriminación de género en los ámbitos, familiares, públicos, sociales y privados, y
+V. Establezcan programas tendientes a erradicar la violencia y discriminación de género en los ámbitos, familiares, públicos, sociales y privados;
 
-VI. Las demás que esta Ley y sus reglamentos les confieran.
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+VI. Formular y desarrollar programas municipales de salud, para el cuidado, protección y contención del personal de salud que brinde servicios en los municipios, coordinándose para ello con el Sistema Nacional, y Estatal de Salud. Los Servicios de Salud coadyuvarán y asesorarán a los municipios para que elaboren sus planes de salud municipal, y
+
+VII. Las demás que esta Ley y sus reglamentos les confieran.
 
 ###### ARTICULO 16.
 
@@ -657,9 +675,9 @@ I. Participar y emitir opiniones para la formulación de las políticas pública
 
 II. Proponer líneas de acción y estrategias para el fortalecimiento y consolidación del Sistema Estatal de Salud;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-III. Analizar, evaluar y emitir recomendaciones sobre planes, programas y proyectos del Sector Salud en el Estado;
+III. Analizar, evaluar y emitir recomendaciones sobre planes, programas y proyectos del Sector Salud en el Estado, incluido el programa de protección del personal de salud que brinda atención a la población;
 
 IV. Promover y establecer mecanismos para la coordinación de esfuerzos en materia de servicios de salud;
 
@@ -731,9 +749,17 @@ VIII. Familiares que dependen económicamente de quienes se encuentren detenidos
 
 IX. Personas en condiciones de pobreza y marginación;
 
-X. Personas afectadas por desastres naturales, y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XI. Mujeres víctimas de violencia de género.
+X. Personas afectadas por desastres naturales;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XI. Mujeres víctimas de violencia de género, y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XII. Personal de la salud que se vea afectado en sus condiciones físicas, materiales o mentales, por motivo del servicio de salud que presta.
 
 ###### ARTICULO 24.
 
@@ -787,13 +813,17 @@ XII. La atención médica a los adultos mayores en áreas de salud geriátrica;
 
 XIII. El desarrollo y fortalecimiento de programas en materia de prevención y control de las enfermedades de los hombres y, específicamente, de la próstata;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XIV. Coadyuvar en la detección y prevención oportuna del cáncer de mama, mediante acciones de información que orienten sobre la responsabilidad del autocuidado, a fin de disminuir la prevalencia de los factores de riesgo entre la población, y
+XIV. Coadyuvar en la detección y prevención oportuna del cáncer de mama, mediante acciones de información que orienten sobre la responsabilidad del autocuidado, a fin de disminuir la prevalencia de los factores de riesgo entre la población;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XV. La atención y asistencia del personal de salud que por sus funciones sufra algún deterioro, y
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
-XV. Las demás que establezca esta Ley o disposiciones legales aplicables.
+XVI. Las demás que establezca esta Ley o disposiciones legales aplicables.
 
 ###### ARTICULO 26.
 
@@ -1257,11 +1287,15 @@ II. La difusión de las orientaciones para la promoción de la salud mental;
 
 III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes, y otras substancias que puedan causar alteraciones mentales o dependencia;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-IV. Los mecanismos tendientes a la prevención y tratamiento de conductas suicidas por causa de trastornos mentales y del comportamiento, y
+IV. Los mecanismos tendientes a la prevención y tratamiento de conductas suicidas por causa de trastornos mentales y del comportamiento;
 
-V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+V. Los mecanismos tendientes a la prevención y tratamiento de conductas de afectación emocional en el personal prestador de servicios de salud, y
+
+VI. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -1471,7 +1505,9 @@ La Secretaría de Salud del Estado, y las instituciones de educación superior, 
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades educativas y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
 
-La Secretaría de Salud del Estado, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas, y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de recursos humanos para la salud.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+La Secretaría de Salud del Estado, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas, y en coordinación con ellas, asíì (sic) como con la participación de las instituciones de salud, establecerá las normas y criterios para la capacitación en cuanto a protección, contención y actualización de recursos humanos para la salud.
 
 ###### ARTICULO 78.
 
@@ -1481,7 +1517,9 @@ Corresponde a la Secretaría de Salud del Estado, sin perjuicio de las atribucio
 
 I. Promover actividades tendientes a la formación, capacitación y actualización con perspectiva de género de los recursos humanos que se requieran, para la satisfacción de las necesidades del Estado en materia de salud;
 
-II. Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+II. Apoyar la creación de centros de capacitación, protección, cuidado y actualización de los recursos humanos para la salud;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -1503,11 +1541,11 @@ I. Los requisitos para la apertura y funcionamiento de instituciones dedicadas a
 
 II. El perfil de los profesionales para la salud en sus etapas de formación.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 80.
+###### ARTÍCULO 80.
 
-La Secretaría de Salud del Estado, en coordinación con las autoridades federales, estatales y municipales competentes, impulsarán y fomentarán la formación con perspectiva de género, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+La Secretaría de Salud del Estado, en coordinación con las autoridades federales, estatales y municipales competentes, impulsarán y fomentarán la formación con perspectiva de género, capacitación, contención y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
 
 ###### ARTICULO 81.
 
@@ -4582,6 +4620,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE JULIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0718.- SE REFORMA EL ARTÍCULO 51 EN SUS FRACCIONES III Y IV; Y ADICIONA A LOS ARTÍCULOS 51 LA FRACCIÓN V Y 51 BIS EL PÁRRAFO SEGUNDO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0773.- SE REFORMA LOS ARTÍCULOS 7° EN SUS FRACCIONES X Y XI, 8° EN SU FRACCIÓN VIII, 13 EN EL APARTADO A SU FRACCIÓN XII, 15 EN SU FRACCIÓN V, 20 QUÁTER EN SU FRACCIÓN III, 23 EN SUS FRACCIONES X Y XI, 25 EN SU FRACCIÓN XIV, 62 EN SU FRACCIÓN IV, 77 EN SU PÁRRAFO SEGUNDO, 78 EN SU FRACCIÓN II Y 80; Y ADICIONA A Y LOS ARTÍCULOS 5° EL APARTADO D, 7º LA FRACCIÓN XII, 13 EN EL APARTADO A UNA FRACCIÓN, ÉSTA COMO XIII, 15 UNA FRACCIÓN, ÉSTA COMO VI, 23 LA FRACCIÓN XII, 25 UNA FRACCIÓN, ÉSTA COMO XV Y 62 UNA FRACCIÓN, ÉSTA COMO V, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
