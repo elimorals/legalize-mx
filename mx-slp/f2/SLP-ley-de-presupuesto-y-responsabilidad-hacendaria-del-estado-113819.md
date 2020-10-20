@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2020-07-04"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -461,6 +461,10 @@ VI. La interrelación que, en su caso, exista con los acuerdos de concertación 
 VII. La transversalización del gasto con perspectiva de género.
 
 El anteproyecto se elaborará por las unidades responsables de las dependencias y entidades tratándose del Poder Ejecutivo, y por las unidades de administración de los demás ejecutores del gasto, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores necesarios para medir su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+En el caso de los anteproyectos de los organismos constitucionales autónomos que cuenten con autonomía presupuestaria, éstos observarán el contenido de este artículo en lo aplicable. Además, lo elaborarán con base en sus instrumentos internos de planeación, observarán lo contenido en la fracción I del artículo 5º de esta Ley, estarán enfocados al cumplimiento de objetivos propios y deberán ser aprobados por su órgano interno de gobierno.
 
 ###### ARTÍCULO 26.
 
@@ -1367,5 +1371,13 @@ P.O. 4 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0707.- SE ADICIONA AL ARTÍCULO 36 EL PÁRRAFO DÉCIMO PRIMERO, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0771.- SE ADICIONA AL ARTÍCULO 25 EL PÁRRAFO ÚLTIMO, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
