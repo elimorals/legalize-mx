@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2019-12-06"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -1295,7 +1295,13 @@ XXI. Implementar políticas públicas que fomenten el desarrollo turístico de l
 
 XXII. Promover y apoyar el desarrollo de la infraestructura turística en los pueblos mágicos y estimular la participación de los sectores social y privado, y
 
-XXIII. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XXIII. Realizar convenios de coordinación y colaboración, con el objeto de regular la prestación de servicios de hospedaje que se ofrecen mediante plataformas digitales en el Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XXIV. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
 ###### ARTÍCULO 34.
 
@@ -1512,3 +1518,9 @@ El plan de trabajo a que se refiere el párrafo anterior, se deberá implementar
 DÉCIMO SEGUNDO.- El Congreso del Estado, el Poder Judicial y el Poder Ejecutivo a través de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, en el ámbito de sus respectivas competencias, determinarán las adecuaciones presupuestarias necesarias para dotar de los recursos humanos, financieros y materiales correspondientes, para el cumplimiento del presente decreto, en términos de las disposiciones aplicables.
 
 DÉCIMO TERCERO.- Se derogan las disposiciones que se opongan a este decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 746.- SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 33 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA; Y SE REFORMAN LA FRACCIÓN XXIII DEL ARTÍCULO 5 Y EL INCISO A) DE LA FRACCIÓN IX DEL ARTÍCULO 12 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
