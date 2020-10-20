@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2020-09-09"
+last_updated: "2020-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -43,11 +43,11 @@ En consecuencia, se hace necesario modificar la Ley Orgánica del Poder Judicial
 
 Con estos cambios se abroga la Ley Orgánica del Poder Judicial expedida con fecha 25 de diciembre de 1996, no obstante que una buena parte de las disposiciones vigentes permanecen intocadas, porque su contenido es válido y no tiene que alterarse, pues la reforma constitucional no las afecta; pero si deben recorrer su numeración para dar correcta estructura al ordenamiento legal que organiza al Poder Judicial del Estado.
 
-Si bien gran parte de las modificaciones a este ordenamiento son de forma y texto, han sido reordenados en sus numerales y capítulos, en razón de técnica jurídica; de esta manera, se respecta en lo general el contenido restante de la ley que se abroga, con la reestructura y reacomodo necesarios, en ocho títulos. Asimismo, conforme a lo establecido en el artículo 92 fracción I del Reglamento Interior del Congreso del Estado, al modificarse y adicionarse más del cincuenta por ciento del contenido de la ley en comento, se trata entonces de una nueva ley, haciéndose por tanto necesaria la abrogación de la vigente, aun cuando se conserva gran parte de la estructura y sistematización ya existentes en la misma. La ley abrogada en virtud del presente decreto contaba con 153 artículos, y la que ahora se expide con 203, con lo que se adicionan 48 artículos; además, de que de los 153 vigentes se reforman 135, razón por la que formal y cuantitativamente se actualiza el supuesto que consigna el numeral de referencia.
+Si bien gran parte de las modificaciones a este ordenamiento son de forma y texto, han sido reordenados en sus numerales y capítulos en razón de técnica jurídica; de esta manera, se respeta en lo general el contenido restante de la ley que se abroga, con la reestructura y reacomodo necesarios, en ocho títulos. Asimismo, conforme a lo establecido en el artículo 92 fracción I del Reglamento Interior del Congreso del Estado, al modificarse y adicionarse más del cincuenta por ciento del contenido de la ley en comento, se trata entonces de una nueva ley, haciéndose por tanto necesaria la abrogación de la vigente, aun cuando se conserva gran parte de la estructura y sistematización ya existentes en la misma. La ley abrogada en virtud del presente decreto contaba con 153 artículos, y la que ahora se expide con 203, con lo que se adicionan 48 artículos; además, de que de los 153 vigentes se reforman 135, razón por la que formal y cuantitativamente se actualiza el supuesto que consigna el numeral de referencia.
 
 Una parte de estas modificaciones responden a la necesidad de sustituir los términos referidos al Supremo Tribunal de Justicia en la ley que se abroga, por el vocablo Consejo de la Judicatura, que conforme al mandato constitucional asumirá las funciones de administración del Poder Judicial, antes conferidas al Pleno de su máximo órgano.
 
-Otros artículos sí introducen cambios sustantivos, porque redistribuyen facultades de administración, de vigilancia y de disciplina que correspondían al Supremo Tribunal y a los juzgados, o a los diversos órganos de apoyo a la administración de justicia y que ahora competen al Consejo de la Judicatura.
+Otros artículos si introducen cambios sustantivos, porque redistribuyen facultades de administración, de vigilancia y de disciplina que correspondían al Supremo Tribunal y a los juzgados, o a los diversos órganos de apoyo a la administración de justicia y que ahora competen al Consejo de la Judicatura.
 
 Por otra parte, se establecen disposiciones nuevas, ordenadas por capítulos y títulos adicionales, que resultan indispensables para dar cabida a la existencia del Consejo de la Judicatura y a sus atribuciones y disposiciones, así como a sus organismos internos de apoyo, como el Secretariado Ejecutivo que se subdivide para el pleno y la carrera judicial, para la administración y para la vigilancia y disciplina.
 
@@ -57,7 +57,7 @@ De esta manera, esta nueva Ley Orgánica del Poder Judicial atiende fundamentalm
 
 Dependiente del Consejo de la Judicatura se crea la Visitaduría Judicial, encargada de atender este rubro con personal altamente capacitado; llevará a cabo su encomienda conforme a las estrictas reglas que al efecto también se establecen en esta Ley, cuestión que desahogará de esta responsabilidad a los magistrados del Tribunal, que previo a esta reforma se encontraban encargados de realizar personalmente esa labor en los juzgados de primera instancia del Estado.
 
-Esta Visitaduría del Poder Judicial del Estado, estará conformada por profesionistas debidamente capacitados y especializados en los procedimientos de visita, inspección, revisión, suspensión y análisis de la calidad en el desempeño del trabajo que se lleva a cabo en los juzgados de Primera Instancia y menores del Estado; pero exclusivamente en lo que toca al aspecto administrativo de los órganos encargados de la justicia y no a su impartición; distinguiendo a estos conceptos con la claridad que la doctrina y la jurisprudencia les entrega, con esto se quiere decir que el Consejo de la Judicatura no podrá revisar el sentido, ni el contenido de las resoluciones jurisdiccionales; ni intervenir en sus fallos; ni mucho menos en los criterios que alimentan el arbitrio judicial en una sentencia, que es responsabilidad exclusiva de los juzgadores.
+Esta Visitaduría del Poder Judicial del Estado, estará conformada por profesionistas debidamente capacitados y especializados en los procedimientos de visita, inspección, revisión, suspervisión y análisis de la calidad en el desempeño del trabajo que se lleva a cabo en los juzgados de Primera Instancia y menores del Estado; pero exclusivamente en lo que toca al aspecto administrativo de los órganos encargados de la justicia y no a su impartición; distinguiendo a estos conceptos con la claridad que la doctrina y la jurisprudencia les entrega; con esto se quiere decir que el Consejo de la Judicatura no podrá revisar el sentido, ni el contenido de las resoluciones jurisdiccionales; ni intervenir en sus fallos; ni mucho menos en los criterios que alimentan el arbitrio judicial en una sentencia, que es responsabilidad exclusiva de los juzgadores.
 
 Conforme a los criterios anteriores, se establecen en esta Ley el procedimiento que en cada caso debe seguirse para llevar a cabo tales visitas, garantizando así una revisión más objetiva y especializada.
 
@@ -203,7 +203,9 @@ IV. En caso de que el dictamen del Ejecutivo sea en el sentido de no ratificar e
 
 V. Si el dictamen del Ejecutivo propone la ratificación del Magistrado, el Congreso si la estima procedente, citará a éste para valorar los aspectos que considere necesarios a fin de determinar la procedencia de su ratificación. En caso de que el Congreso rechace la propuesta de ratificación, lo hará del conocimiento del Ejecutivo a efecto de que el mismo presente terna para ocupar la vacante.
 
-Los magistrados que sean ratificados en su encargo, gozarán de inamovilidad en términos de lo dispuesto en la Constitución Política del Estado, y sólo podrán ser removidos conforme a lo que establece la propia Constitución, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Los magistrados que sean ratificados en su encargo, gozarán de inamovilidad en términos de lo dispuesto en la Constitución Política del Estado, y sólo podrán ser removidos conforme a lo que establece la propia Constitución, la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2015)</small>
 
@@ -813,7 +815,9 @@ VII. Vigilar que se respeten los derechos humanos del imputado, y de la víctima
 
 VIII. Ordenar la aprehensión, cuando preceda denuncia, acusación, o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido este hecho y que exista la probabilidad de que el imputado lo cometió o participó en su comisión. Así como la citación, o la comparecencia del imputado en los casos que la ley señale;
 
-IX. Resolver en audiencia pública lo conducente a la impugnación que la víctima o el ofendido realicen ante las determinaciones del Ministerio Público y, en su caso, del Procurador General de Justicia, al resolver acerca de la abstención de investigar, archivo temporal, no ejercicio de la acción penal o, en su caso, criterios de oportunidad;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+IX. Resolver en audiencia pública lo conducente a la impugnación que la víctima o el ofendido realicen ante las determinaciones del Ministerio Público y, en su caso, del Fiscal General del Estado, al resolver acerca de la abstención de investigar, archivo temporal, no ejercicio de la acción penal o, en su caso, criterios de oportunidad;
 
 X. Conceder las técnicas de la investigación que requieren autorización judicial, y
 
@@ -1381,9 +1385,9 @@ XXII. Despachar la correspondencia a través de la Secretaría;
 
 XXIII. Vigilar que los jueces, secretarios y demás servidores del Poder Judicial, cumplan con sus deberes respectivos, dictando las medidas que exijan el buen servicio y la disciplina de los mismos;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XXIV. Llevar el seguimiento de los actos del desempeño del personal del Poder Judicial del Estado, para evaluar y resolver sobre las designaciones, promociones, ratificaciones, y reelecciones, sanciones o remociones que corresponda, conforme a los lineamientos de la carrera judicial y las disposiciones constitucionales; además llevar un registro referente a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrito en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades de los Servidores Públicos;
+XXIV. Llevar el seguimiento de los actos del desempeño del personal del Poder Judicial del Estado, para evaluar y resolver sobre las designaciones, promociones, ratificaciones, y reelecciones, sanciones o remociones que corresponda, conforme a los lineamientos de la carrera Judicial y las disposiciones constitucionales; además llevar un registro referente a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrito en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
 
 XXV. Llevar la estadística del Poder Judicial, a través de la Unidad de Estadística y Seguimiento;
 
@@ -1547,7 +1551,9 @@ I. Vigilar el cumplimiento de las normas de control establecidas por la ley y el
 
 II. Comprobar el cumplimiento, por parte de los órganos administrativos, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
 
-III. Llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial del Estado, a que se refiere la fracción VI del artículo 80 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+III. Llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial del Estado, a que se refieren los artículos, 30, y 31 de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí;
 
 IV. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Poder Judicial del Estado, y
 
@@ -1753,7 +1759,9 @@ Salvo los servidores a que se refiere el artículo anterior, los demás servidor
 
 El Poder Judicial contará con un Archivo Judicial, el cual dependerá del Consejo de la Judicatura, quien dictará las medidas y prevenciones que estime convenientes para su organización y preservación; para tal efecto, deberá practicar cuando menos una visita de inspección al año.
 
-Para la consulta y expedición de documentos que se encuentren depositados en el archivo, deberá observarse lo dispuesto en la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Para la consulta y expedición de documentos que se encuentren depositados en el archivo, deberá observarse lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
 
 ###### ARTICULO 136.
 
@@ -2109,9 +2117,11 @@ La responsabilidad de los delitos o faltas administrativas de los magistrados, c
 
 ### CAPITULO II. De las Faltas Administrativas
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### ARTICULO 177.
 
-Son faltas administrativas además de las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, las previstas en el presente Capítulo.
+Son faltas administrativas además de las establecidas en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, las previstas en el presente Capítulo.
 
 ###### ARTICULO 178.
 
@@ -2183,9 +2193,11 @@ b) De seis meses a tres años en caso de que se obtenga algún beneficio o se ca
 
 c) De tres a diez años, si los daños o perjuicios causados exceden el límite señalado en el inciso anterior.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### ARTICULO 182.
 
-Las sanciones administrativas se impondrán tomando en cuenta lo que al efecto prevé, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Las sanciones administrativas se impondrán tomando en cuenta lo que al efecto prevé, la Ley de Responsabilidades de (sic) Administrativas para el Estado y Municipios de San Luis Potosí.
 
 ### CAPITULO IV. Del Procedimiento Administrativo
 
@@ -2225,9 +2237,11 @@ I. Sanción hasta de doscientos veces el salario mínimo diario vigente en la zo
 
 II. Auxilio de la fuerza pública. Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo previsto en el Código Penal del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### ARTICULO 188.
 
-La facultad para imponer las sanciones que establece el Capítulo Tercero de este Título, caducará en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+La facultad para imponer las sanciones que establece el Capítulo Tercero de este Título, caducará en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 189.
 
@@ -2600,6 +2614,14 @@ TERCERO. Los reglamentos correspondientes deberán ser armonizados dentro de los
 P.O. 9 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0747.- SE REFORMA LOS ARTÍCULOS 3º, 4º EN SU FRACCIÓN III EL INCISO H), 11, 50, 94 EN SU FRACCIÓN VIII, 117 EN SU FRACCIÓN V, 148 EN SUS FRACCIONES V A IX Y 175; Y ADICIONA A Y LOS ARTÍCULOS 4º EN SU FRACCIÓN III EL INCISO I), 53 QUINQUE, EN EL TÍTULO SEGUNDO EN SU CAPÍTULO IX LA SECCIÓN PRIMERA BIS “DE LOS SECRETARIOS INSTRUCTORES” CON LOS ARTÍCULOS 75 BIS A 75 QUINQUE Y 148 LA FRACCIÓN X, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0772.- SE REFORMA LOS ARTÍCULOS 8º EN SU PÁRRAFO ÚLTIMO, 54 QUÁTER EN SU FRACCIÓN IX, 94 EN SU FRACCIÓN XXIV, 109 EN SU FRACCIÓN III, 135 EN SU PÁRRAFO SEGUNDO, 177, 182 Y 188, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
