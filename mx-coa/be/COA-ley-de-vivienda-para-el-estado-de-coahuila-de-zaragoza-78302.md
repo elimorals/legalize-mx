@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2019-10-29"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -129,9 +129,13 @@ II. Instrumentar mecanismos indicativos de las tendencias de desarrollo urbano y
 
 III. Realizar la planeación, programación y presupuesto de las acciones en materia de vivienda, con atención preferente al sector vulnerable;
 
-IV. Convenir y coordinar programas y acciones de vivienda con el Gobierno Federal, con otras entidades federativas y con los municipios;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-V. Apoyar a los municipios que lo soliciten, en la planeación gestión de recursos, implementación de programas y ejecución de acciones en materia de vivienda;
+IV. Convenir y coordinar programas y acciones de vivienda con el Gobierno Federal, con otras entidades federativas y con los municipios; bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana y vivienda sustentable, procurando el aprovechamiento y explotación racional de los recursos naturales y el respeto al medio ambiente;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+V. Apoyar a los municipios que lo soliciten, en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo y vivienda;
 
 VI. Promover la participación de los sectores social y privado en la instrumentación de acciones y programas de vivienda, de conformidad lo (sic) dispuesto en esta ley y demás disposiciones aplicables;
 
@@ -235,7 +239,9 @@ c) (DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
 Los municipios tendrán las siguientes atribuciones:
 
-I. Formular, aprobar y administrar los programas municipales vivienda (sic), de conformidad con lo establecido en la Política Estatal de Vivienda, la Política Nacional de Vivienda y demás disposiciones aplicables, así como evaluar y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+I. Formular, aprobar y administrar los programas municipales de suelo y vivienda, de conformidad con lo establecido en la Política Estatal de Vivienda, los lineamientos de la Política Nacional señalados en la Ley de Vivienda y demás ordenamientos locales aplicables, así como evaluar y vigilar su cumplimiento;
 
 II. Instrumentar mecanismos que determinen las tendencias de desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, dentro de su jurisdicción;
 
@@ -245,13 +251,17 @@ IV. Establecer las zonas para desarrollo habitacional, con respeto al entorno ec
 
 V. Coordinarse con el Estado para la ejecución, vigilancia y seguimiento de la Política Estatal de Vivienda y de los programas que de ésta se deriven;
 
-VI. Coordinarse con otros municipios en acciones de vivienda que tengan como fin mejorar las condiciones de sus habitantes;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+VI. Coordinar acciones en materia de suelo y vivienda con otros municipios, que tengan como fin mejorar las condiciones de sus habitantes, bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana y vivienda sustentable, procurando el aprovechamiento y explotación racional de los recursos naturales y el respeto al medio ambiente.
 
 VII. Gestionar soluciones a los problemas habitacionales que se presenten en el ámbito de su jurisdicción y someterlas al Gobierno del Estado cuando requiera de su apoyo en la implementación de las mismas;
 
 VIII. Participar y apoyar a las instancias competentes en las acciones de regularización de la tenencia de la tierra, de conformidad con las disposiciones aplicables;
 
-IX. Proporcionar los servicios públicos municipales en los predios en que se lleven a cabo acciones de vivienda, derivados de los planes y acciones federales y estatales;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+IX. Proporcionar, en términos de las disposiciones jurídicas aplicables en los predios en que se lleven a cabo acciones de vivienda derivados de los diferentes programas de vivienda federales y de la entidad federativa;
 
 X. Celebrar convenios de colaboración y coordinación con los gobiernos Federal y Estatal para promover acciones en materia de vivienda;
 
@@ -1164,3 +1174,9 @@ P.O. 29 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 364.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 5, DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 755.- SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 8 Y LAS FRACCIONES I, VI Y IX DEL ARTÍCULO 10, DE LA LEY DE VIVIENDA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y
