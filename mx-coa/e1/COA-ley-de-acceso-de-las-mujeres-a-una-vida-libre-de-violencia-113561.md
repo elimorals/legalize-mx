@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2020-08-14"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -45,9 +45,11 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COA
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público, interés social y de observancia general y obligatoria en el Estado de Coahuila de Zaragoza.
+Esta Ley es de orden público, interés social y de observancia general y obligatoria y establece los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia, que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y los Tratados Internacionales en materia de derechos humanos de las mujeres, ratificados por el Estado Mexicano.
 
 ###### Artículo 2.
 
@@ -91,9 +93,25 @@ VIII. La libertad de las mujeres;
 
 IX. La transversalidad de la perspectiva de género;
 
-X. La integración de las mujeres a la vida democrática y productiva del Estado; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XI. La debida diligencia.
+X. La integración de las mujeres a la vida democrática y productiva del Estado;
+
+> <small>(REFORMADA [N. DE E.ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XI. La interculturalidad;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XII. La accesibilidad;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XIII. La corresponsabilidad familiar; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XIV. La debida diligencia.
 
 ###### Artículo 4.
 
@@ -261,9 +279,21 @@ X. Las mujeres víctimas de violencia serán asistidas en todo tiempo por intér
 
 XI. A la protección de su identidad y la de su familia;
 
-XII. La reparación integral del daño; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XIII. Los demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
+XII. La reparación integral del daño;
+
+> <small>(REFORMADA [N. DE E.ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XIII. La garantía de no victimización secundaria;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XIV. La integración plena a la vida democrática y productiva; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XV. Los demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
 
 ### CAPÍTULO II. TIPOS Y MODALIDADES DE VIOLENCIA
 
@@ -283,7 +313,9 @@ V. Violencia sexual: Es todo acto sexual o la tentativa de consumarlo bajo coacc
 
 VI. Violencia contra los derechos sexuales y reproductivos: Es toda acción u omisión que limite o vulnere el derecho de las mujeres de cualquier edad a decidir de manera libre, voluntaria, e informada sobre su sexualidad; acceder a métodos anticonceptivos, incluidos los de emergencia; a una maternidad elegida y segura, al número y espaciamiento de las y los hijos; a servicios de interrupción legal del embarazo en el marco jurídico previsto en la legislación vigente en la (sic) Estado; así como, a servicios de atención prenatal y obstétricos de emergencia;
 
-VII. Violencia obstétrica: Es toda acción u omisión por parte del personal de salud, de tipo médico o administrativo, que dañe, lastime o denigre a las mujeres de cualquier edad durante el embarazo, parto o puerperio, así como la negligencia en su atención médica; se expresa en la falta de acceso a los servicios de salud reproductiva, un trato inhumano o degradante, un abuso de medicación y patologización de los procesos naturales, menoscabando la capacidad de decidir de manera libre e informada sobre sus cuerpos y los procesos reproductivos. Se caracteriza por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+VII. Violencia obstétrica: Es toda acción u omisión por parte del personal de salud, de tipo médico o administrativo, que dañe, lastime o denigre a las mujeres de cualquier edad durante el embarazo, parto o puerperio, así como la negligencia en su atención médica; se expresa en la falta de acceso a los servicios de salud reproductiva, un trato inhumano o degradante, un abuso de medicación y patologización de los procesos naturales, menoscabando la capacidad de decidir de manera libre e informada sobre sus cuerpos y los procesos reproductivos y su sexualidad, que incluso llegue a provocar la pérdida de la vida de la mujer o, en su caso, del producto de la gestación o del recién nacido. Se caracteriza por:
 
 a) Negar la atención oportuna y eficaz de las emergencias obstétricas;
 
@@ -347,59 +379,51 @@ s). Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger 
 
 t). Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
 
-u). Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad; o
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-v). Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+u). Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+v). Realicen proposiciones, tocamientos, acercamientos o invitaciones no deseadas, de naturaleza sexual, que influyan en las aspiraciones políticas de la mujer y/o en las condiciones o el ambiente donde la mujer desarrolla su actividad política y pública; o
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+w). Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
-IX. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, culminando en homicidio y otras formas de muerte violenta de mujeres; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+IX. Violencia feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, culminando en homicidio y otras formas de muerte violenta de mujeres;
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
 X. Violencia Mediática o Publicitaria: Aquella difusión o publicación de imágenes estereotipadas y mensajes a través de anuncios publicitarios en exhibición al público en general, que de manera directa o indirectamente promueven la explotación de la mujer en imágenes sexistas que injurien, difamen, discriminen, deshonren, humillen y atenten contra la dignidad humana, legitimando la desigualdad de trato o construya parámetros sociales generadores de violencia contra la mujer.
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XI. Violencia Digital: Cualquier acto que se presenta a través de las tecnologías de la información y comunicación, mediante la divulgación sin consentimiento, de textos, videos u otras impresiones gráficas, de contenido íntimo, erótico o imágenes sugerentemente sexuales, verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atenta contra la integridad y dignidad de las mujeres.
+XI. Violencia en el espacio o transporte público: Son aquellas conductas físicas o verbales ejercida en contra (sic) las mujeres por una o más personas, en lugares públicos o de acceso público e instalaciones o vehículos destinados al transporte de pasajeros, con connotación sexista o sexual, que afecten o dañen su dignidad, integridad, libertad, libre circulación o permanencia y/o generen un ambiente hostil, intimidatorio u ofensivo;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XII. Cualesquiera otras formas análogas que lesionen o sean susceptible (sic) de dañar la dignidad, integridad o libertad de las mujeres.
+XII. Violencia digital: Cualquier acto que se presenta a través de las tecnologías de la información y comunicación, o cualquier espacio digital, mediante la divulgación sin consentimiento de textos, videos u otras impresiones gráficas, imágenes o grabaciones de audio, sonidos o la voz de una persona, de contenido íntimo, erótico o imágenes sugerentemente sexuales, verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atenta contra la integridad y dignidad de las mujeres.
+
+Para efectos de la presente fracción se entenderá por tecnologías de la información y la comunicación a aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 Las políticas de prevención, atención, investigación, sanción y reparación integral del daño derivado de los tipos de violencia del presente Capítulo, atenderán y garantizarán en todo momento el cumplimiento de los principios del interés superior de la niñez y la autonomía progresiva en el ejercicio de los derechos de las niñas.
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
-
 ###### Artículo 8 Bis.
 
-Se considera violencia obstétrica: el tipo de violencia ejercida por el profesional de salud sobre el cuerpo y los procesos reproductivos de las mujeres. Esta clase de violencia se expresa mayoritariamente -aunque no con exclusividad- en el trato deshumanizado hacia la mujer embarazada, en la tendencia a apologizar los procesos reproductivos naturales y en múltiples manifestaciones que resultan amenazantes en el contexto de la atención de la salud sexual, embarazo, parto y post parto.
-
-En este sentido dicha acción, se configura por parte del personal médico, paramédico, de enfermería y administrativo de las instituciones de salud cuando se dañe o denigre a la mujer durante el embarazo, el parto, post parto o en emergencias obstétricas, vulnerando sus derechos mediante tratos crueles, inhumanos o degradantes.
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2020)
 
 ###### Artículo 8 Ter.
 
-Son actos u omisiones constitutivos de violencia obstétrica, de manera enunciativa, pero no limitativa, los siguientes:
-
-I. No atender o no brindar atención oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas.
-
-II. Presionar psicológica u ofensivamente a una parturienta.
-
-III. Obligar a la mujer a parir acostada sobre su columna y con las piernas levantadas o en forma distinta a la que sea propia de sus usos, costumbres y tradiciones obstétricas, aun cuando existan los medios necesarios para la realización del parto vertical.
-
-IV. Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer.
-
-V. Practicar el parto por vía de cesárea, sin obtener el consentimiento voluntario, expreso e informado de la mujer, no obstante de existir condiciones para el parto natural.
-
-VI. Obstaculizar, sin causa médica justificada, el apego de la niña o el niño con su madre, mediante la negación a ésta de la posibilidad de cargarle o de amamantarle inmediatamente después de nacer.
-
-VII. Intervenir quirúrgicamente sin consentimiento o autorización de la paciente, en términos de las disposiciones aplicables.
-
-VIII. Realizar la esterilización sin el consentimiento voluntario, expreso e informado de la mujer, así como las consecuencias físicas y psicológicas de dicha intervención.
-
-IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2020)
 
 > <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -517,11 +541,11 @@ XXI. Informar de inmediato a la víctima cuando la persona generadora de violenc
 
 Las acciones que se lleven a cabo con motivo de esta Ley, y demás disposiciones aplicables, tienen por objeto la protección y asistencia a las víctimas, o a aquellas en situación de riesgo de violencia y además promover su desarrollo integral y su participación en los ámbitos de la vida pública y privada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-Las Entidades públicas deberán contribuir, en sus respectivas esferas de competencia, al reconocimiento y ejercicio de derechos y a la aplicación de los principios establecidos en la Declaración sobre la eliminación de la violencia contra la mujer, de la Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, de la Ley de Prevención, Asistencia y Atención de la Violencia Familiar, la Ley de Procuración de Justicia y los Códigos Civil y Penal en materia de prevención y erradicación de la violencia en contra de mujeres y, a este fin, entre otras cosas.
+Las entidades públicas deberán contribuir, en sus respectivas esferas de competencia, al reconocimiento y ejercicio de derechos y a la aplicación de los principios establecidos en la Declaración sobre la Eliminación de la Violencia contra la Mujer, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Prevención, Asistencia y Atención de la Violencia Familiar, la Ley para la Familia de Coahuila de Zaragoza, el Código Civil para el Estado de Coahuila de Zaragoza y el Código Penal de Coahuila de Zaragoza, en materia de prevención y erradicación de la violencia en contra de las mujeres y, con este fin, deberán:
 
 I. Fomentar la cooperación internacional, nacional, estatal y municipal con miras a definir estrategias para combatir la violencia, intercambiar experiencias y financiar programas relacionados con la eliminación de la violencia contra la mujer;
 
@@ -583,11 +607,15 @@ Todas las acciones que se realicen con motivo de la prevención, atención, asis
 
 ### CAPÍTULO IV. DE LAS ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-Las órdenes de protección, son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, podrán otorgarse de oficio o a petición de parte, por el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tenga conocimiento del hechos de violencia contra las mujeres presuntamente constitutivos de infracciones o delitos, evitando en todo momento que la persona agresora, por sí o a través de algún tercero, tenga contacto de cualquier tipo ya sea con la víctima directa, indirectas o ambas.
+Las órdenes de protección, son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, podrán otorgarse e instrumentarse de oficio o a petición de parte, por el Ministerio Público o por los órganos jurisdiccionales competentes en materia penal, civil y familiar, en el momento en que tenga conocimiento de los hechos de violencia contra las mujeres presuntamente constitutivos de infracciones o delitos, evitando en todo momento que la persona agresora, por sí o a través de algún tercero, tenga contacto de cualquier tipo ya sea con la víctima directa, indirectas o ambas.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+En virtud de la notoria urgencia, en los municipios, la expedición e instrumentación de las órdenes de protección de emergencia y preventivas de carácter temporal hasta por 72 horas, les corresponderá a los jueces municipales, una vez concedida dicha orden de protección, el juez municipal deberá hacerlo del conocimiento del Ministerio Público o de la autoridad jurisdiccional competente.
+
+Para la ejecución y seguimiento de las órdenes de protección, se contará con el auxilio de las Instituciones de Seguridad Pública Estatal o Municipal, pudiendo utilizar en caso de ser necesaria la fuerza pública para su efectividad, de conformidad con el procedimiento y observancia que determine la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza.
 
 Las órdenes de protección serán giradas de oficio tratándose de niñas, niños y adolescentes o incapaces y de urgente aplicación en función del interés superior de la víctima y de naturaleza precautorias y cautelares, en los términos de la Ley de la materia.
 
@@ -599,17 +627,23 @@ I. De emergencia;
 
 II. Preventivas; y
 
-III. De naturaleza civil.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+III. De naturaleza civil o familiar.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 19.
 
-Las órdenes de protección de emergencia y preventivas deberán ser otorgadas por la autoridad competente y ser implementadas por el Agente del Ministerio Público, en un término no mayor de ocho horas siguientes al conocimiento del hecho que las generen en todos los casos relacionados con violencia familiar, violencia de género y delitos contra la libertad, la seguridad sexual y contra la familia.
+Las órdenes de protección deberán ser otorgadas e implementadas por el Ministerio Público o por los órganos jurisdiccionales competentes inmediatamente que tenga conocimiento de los hechos que las generen, en todos los casos relacionados con violencia familiar, violencia de género y delitos contra la libertad, la seguridad sexual y contra la familia, y deberán tomar en consideración:
 
-Las órdenes de protección de emergencia y preventivas tendrán una duración que dependerá directamente con que la víctima de violencia deje de estar expuesta al riesgo, garantizando la vida, integridad y seguridad de las víctimas, y en su caso de las víctimas indirectas.
+I. El riesgo o peligro existente;
 
-Previo a la suspensión de las órdenes de protección decretadas por la autoridad, ésta deberá asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado.
+II. La seguridad de la víctima o víctimas indirectas; y
+
+III. Los demás elementos de convicción con que se cuente.
+
+Las órdenes de protección tendrán una duración que dependerá directamente con que la víctima de violencia deje de estar expuesta al riesgo, garantizando la vida, integridad y seguridad de las víctimas, y en su caso de las víctimas indirectas.
 
 ###### Artículo 20.
 
@@ -645,11 +679,19 @@ V. La prohibición de intimidar o molestar a la víctima en su entorno social, a
 
 VI. El auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ésta, cualquier miembro de su familia o persona autorizada, para el ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
 
-Las medidas a que se refiere el presente artículo, podrán ser emitidas por el Ministerio Público, cuando se ponga en peligro la vida y/o libertad de la víctima. Para su emisión, bastará únicamente con la declaración de la víctima, la cual posteriormente deberá ser corroborada por peritos legalmente acreditados. Para la aplicación de estas medidas se atenderá a lo dispuesto en el Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Las medidas a que se refiere el presente artículo podrán ser emitidas por cualquier autoridad competente en el momento en que tenga conocimiento de los hechos de violencia contra las mujeres que ponga en peligro la vida y/o libertad de la víctima. Para su emisión, bastará únicamente con la declaración de la víctima.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Para la aplicación de estas medidas se atenderá a lo dispuesto en la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza, así como el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-Para la emisión de las órdenes de protección de emergencia, el Ministerio Público tomará en consideración:
+Para la emisión de las órdenes de protección de emergencia, cualquier autoridad competente en el momento en que tenga conocimiento de los hechos de violencia contra las mujeres, tomará en consideración:
 
 I. Los hechos relatados por la mujer, o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo, o por quien lo haga del conocimiento a la autoridad;
 
@@ -661,15 +703,21 @@ IV. Las necesidades específicas que se deriven de su situación, considerando e
 
 V. La manifestación de actos o hechos previos de cualquier tipo de violencia.
 
-Para la tramitación de las órdenes de protección de emergencia, se atenderá a lo establecido por el Código Nacional de Procedimientos Penales para las medidas de protección.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Para la tramitación de las órdenes de protección de emergencia, se atenderá a lo establecido por la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza y el Código Nacional de Procedimientos Penales para las medidas de protección.
 
 ###### Artículo 23.
 
 Son órdenes de protección preventivas las siguientes:
 
-I. La retención y guarda de armas de fuego propiedad del agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-Lo anterior, es aplicable a las armas punzocortantes y punzo contundentes, que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
+I. La retención y guarda de armas de fuego que estén en custodia o posesión o sean de la propiedad del agresor, o de alguna institución pública o privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
+
+Lo anterior es aplicable a las armas punzocortantes y punzo contundentes, que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima.
+
+En los casos donde la persona agresora pertenezca a los cuerpos de policía, militares o de seguridad, ya sea de corporaciones públicas o privadas, la autoridad deberá retirar el arma de cargo, así como cualquier otra que tenga registrada.
 
 II. El inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
 
@@ -679,9 +727,11 @@ IV. El acceso al domicilio en común, de autoridades policiacas o de personas qu
 
 V. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 24.
 
-Son órdenes de protección de naturaleza civil las siguientes:
+Son órdenes de protección de naturaleza civil y familiar las siguientes:
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
 
@@ -691,17 +741,27 @@ Lo anterior a fin de garantizar el respeto al principio de interés superior de 
 
 II. La prohibición a la persona agresora de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
 
-III. La posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio conyugal, hasta en tanto el órgano jurisdiccional determine lo conducente; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+III. La posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio conyugal, hasta en tanto el órgano jurisdiccional determine lo conducente;
 
-IV. El embargo precautorio de bienes inmuebles propiedad de la persona agresora, que deberá inscribirse con carácter temporal en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza o en su caso un porcentaje del salario mínimo o de salarios suficientes a efecto de garantizar y hacer efectivas las obligaciones alimentarias.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+IV. El embargo precautorio de bienes inmuebles propiedad de la persona agresora, que deberá inscribirse con carácter temporal en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza o en su caso un porcentaje del salario mínimo o de salarios suficientes a efecto de garantizar y hacer efectivas las obligaciones alimentarias; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+V. Tratándose de alimentos, se fijará a petición del acreedor, sin audiencia del deudor, una pensión alimenticia provisional e inmediata, mientras se resuelve el juicio, para lo cual el órgano jurisdiccional en materia familiar cuando reciba la demanda, o a solicitud del Ministerio Público cuando reciba la denuncia de incumplimiento injustificado de obligaciones alimenticias, girará oficio al lugar o empresa donde labore el agresor ordenando el descuento provisional y la entrega a la mujer.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 25.
 
-Las órdenes de protección, preventivas y civiles serán tramitadas ante los órganos jurisdiccionales competentes.
+Las órdenes de protección preventivas, civiles y familiares serán tramitadas ante los órganos jurisdiccionales competentes.
 
-Para la tramitación de las órdenes de protección preventivas, se atenderá a lo establecido por el Código Nacional de Procedimientos Penales para las medidas cautelares.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Para la tramitación, emisión y ejecución de las órdenes de protección preventivas, se atenderá a lo establecido por esta Ley, la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza y el Código Nacional de Procedimientos Penales.
 
 Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
 
@@ -711,19 +771,51 @@ Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se
 
 Respecto de las personas menores de edad se sujetará a los principios establecidos en la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Para los efectos previstos en este capítulo, los cuerpos de seguridad pública estatal y municipal, cumplirán y vigilarán la ejecución de las órdenes de protección previstas en esta Ley.
+
 ###### Artículo 27.
 
 La tramitación y otorgamiento de una orden de protección, podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 28.
 
-Las autoridades competentes, deberán de establecer los lineamientos básicos para la implementación de las órdenes de protección en coordinación con las instancias responsables de atender a las mujeres y niñas en situación de violencia.
+Las autoridades competentes deberán de atender los lineamientos básicos para la implementación de las órdenes de protección, en coordinación con las instancias responsables de atender a las mujeres y niñas en situación de violencia, observando lo establecido por la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza.
 
 En los casos donde presuntamente exista conexidad con delitos de competencia federal, las órdenes de protección deberán ser otorgadas por el Ministerio Público de la Federación, y en caso de que lo amerite, por una jueza o juez federal, por lo que la autoridad del Estado que conozca de la situación que las amerite, de inmediato, canalizará a la víctima con el Ministerio Público de la Federación para su tramitación.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad competente, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer o niña víctima de violencia sobre las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+La autoridad deberá de realizar a la mujer o niña víctima de violencia, la medición y valoración del riesgo, la valoración médica en caso de requerirla, así como la valoración psicológica.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 28 Bis.
+
+La autoridad ministerial o judicial responsable, con el auxilio de la policía preventiva estatal o municipal, deberá de realizar las gestiones necesarias para notificar a la persona agresora, para informar a las autoridades responsables de la implementación de la medida, así como para verificar que la misma se cumpla en los términos para los que fue dictada.
+
+Por ninguna circunstancia el Ministerio Público notificará de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad.
+
+Las autoridades que intervengan en el cumplimiento de una orden de protección también serán las responsables de informar a la autoridad ordenadora sobre su implementación conforme a la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 29.
 
-Las órdenes de protección deberán ser registradas dentro de la información estadística semanal, las solicitudes de medidas de restricción de acuerdo a la terminología empleada en la legislación que rija al Ministerio Público de la Federación, así como las medidas de protección descritas en el Código Nacional de Procedimiento Penales.
+Las órdenes de protección deberán ser registradas dentro del Banco de Datos respecto a las órdenes de protección y de las personas sujetas a ellas, que podrá ser consultable por todas las autoridades de primer contacto con hechos de violencia contra mujeres y niñas y estará cargo de la Secretaría Técnica del Sistema Estatal de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+El Banco de Datos contará con la información del Ministerio Público, de las autoridades judiciales competentes y demás autoridades estatales y municipales que emitan, implementen o den seguimiento a las órdenes de protección, impulsando el efectivo intercambio de la información.
 
 ###### Artículo 30.
 
@@ -891,9 +983,9 @@ VII. Secretaría de Inclusión y Desarrollo Social;
 
 VIII. Secretaría del Trabajo;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-IX. Secretaría de Economía y Turismo;
+IX. Secretaría de Economía;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -903,7 +995,9 @@ X. Secretaría de Infraestructura y Transporte;
 
 XI. Secretaría de Medio Ambiente y Desarrollo Urbano;
 
-XII. (DEROGADA, P.O. 17 DE MARZO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XII. Secretaría de Turismo y Desarrollo de Pueblos Mágicos;
 
 XIII. Secretaría de Cultura;
 
@@ -915,13 +1009,31 @@ XV. Secretaría de Fiscalización y Rendición de Cuentas;
 
 XVI. Instituto Coahuilense de la Juventud;
 
-XVII. Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XVIII. Procuraduría para Niños, Niñas y la Familia.
+XVII. Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XVIII. Procuraduría para Niños, Niñas y la Familia;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XIX. Dirección de Prevención Social de la Violencia y la Delincuencia;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XX. Dirección para Promover la Igualdad y Prevenir la Discriminación; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+XXI. Centro de Justicia y Empoderamiento para las Mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 42.
 
-Cuando se trate de asuntos de su competencia, puede convocarse al Consejo a:
+Cuando se trate de asuntos de su competencia, puede convocarse a las sesiones del Consejo a:
 
 I. Las entidades federales, estatales y/o municipales, así como los organismos públicos autónomos encargados de aplicar programas en favor de las mujeres en los municipios del Estado;
 
@@ -932,6 +1044,10 @@ III. A quien ejerza la Presidencia del Tribunal Superior de Justicia del Estado,
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 IV. Las organizaciones de la sociedad civil que tengan por objeto, realizar acciones afines a las descritas en la Ley, considerando aquéllas que atienden a los refugios para mujeres en situación de violencia, sus hijas e hijos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Podrán asistir también otras instituciones con el carácter de invitados para el desahogo de alguno de los puntos del orden del día, que por acuerdo de la Presidencia o Secretaría Técnica del Consejo deban participar en la sesión que corresponda.
 
 ###### Artículo 43.
 
@@ -1077,7 +1193,9 @@ La Fiscalía General del Estado, además de las atribuciones previstas en los or
 
 I. Participar en la elaboración y ejecución del Programa Estatal, y en el diseño de nuevos modelos de erradicación de la violencia contra las mujeres;
 
-II. Impartir cursos permanentes de formación y especialización con perspectiva de género al personal ministerial, peritos, cuerpo policiaco a su cargo y personal administrativo, a fin de identificar los casos de violencia hacia las mujeres, para mejorar la atención y asistencia que se brinda cuando son víctimas de violencia;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+II. Capacitar de manera permanente y con perspectiva de género al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y sujetos activos, así como de lineamientos para la integración adecuada de carpetas de investigación;
 
 III. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya un delito, asistencia, orientación jurídica y de cualquier otra índole, necesarias para su eficaz atención y protección;
 
@@ -1203,7 +1321,13 @@ IV. Realizar acciones tendientes a mejorar las condiciones de vida de las mujere
 
 V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género; y
 
-VI. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+VI. Promover, en su caso, en coordinación con la Secretaría del Trabajo y el Instituto Coahuilense de las Mujeres, la realización de capacitaciones, talleres y cursos dirigidos a identificar conductas que constituyan todo tipo de violencia en contra de las mujeres, especialmente en el ámbito laboral; fomentando el desarrollo económico con sentido social que propicie el acceso a un empleo libre de violencia y acoso.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+
+VII. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1727,7 +1851,9 @@ I. Responder ante toda denuncia o solicitud de asistencia relativa a situaciones
 
 II. Acudir de manera inmediata ante una denuncia o solicitud de asistencia, aun cuando quien haga del conocimiento el hecho de violencia, no sea la víctima;
 
-III. Coadyuvar en el estricto cumplimiento de las órdenes de protección o medidas cautelares dictadas a favor de víctimas de violencia contra las mujeres, de acuerdo con lo dispuesto en esta Ley y demás disposiciones aplicables,
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+III. Coadyuvar en el estricto cumplimiento de las órdenes de protección dictadas a favor de mujeres y niñas víctimas de violencia, de acuerdo con lo dispuesto en esta Ley, la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza y demás disposiciones aplicables;
 
 IV. Informar a la víctima de sus derechos, en términos de lo establecido en la Constitución, la Ley General de Víctimas, la Ley General, la presente Ley y demás disposiciones aplicables; y
 
@@ -2256,3 +2382,19 @@ P.O. 14 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 686.- SE MODIFICA LA FRACCIÓN VIII DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 722.- SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 54 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 725.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
