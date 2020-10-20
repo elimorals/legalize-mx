@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2020-08-14"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -2647,9 +2647,11 @@ También está permitido a la persona la investigación de su origen biológico,
 
 Disposiciones generales.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 375.
 
-La adopción constituye, de una manera irrevocable, una relación de filiación entre adoptante y adoptado o adoptada, al mismo tiempo que establece un parentesco equiparable al consanguíneo entre la o el adoptado y la familia de la o el adoptante y entre ésta y éste y los descendientes del adoptado.
+La adopción constituye, de una manera irrevocable, una relación de filiación entre adoptante y adoptado o adoptada, al mismo tiempo que establece un parentesco equiparable al consanguíneo entre la o el adoptado y la familia de la o el adoptante y entre ésta y éste y los descendientes del adoptado. Todo procedimiento de adopción, deberá ser llevado a cabo de manera eficaz y eficiente, conforme a lo establecido en los convenios y tratados internacionales y en la presente ley.
 
 ###### Artículo 376.
 
@@ -2659,7 +2661,9 @@ I. Que tienen medios bastantes para proveer a la subsistencia, la educación, y 
 
 II. Que la adopción es benéfica para la persona que trata de adoptarse, y que tratándose de niñas o niños, además atienda al interés superior de la niñez.
 
-III. Que son personas aptas y adecuadas para adoptar.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+III. Que son personas aptas y adecuadas para adoptar, de acuerdo a lo que las autoridades competentes determinen en base a estudios socioeconómicos, médicos y psicológicos que se les realicen.
 
 IV. Que no se encuentran inscritos en el Registro Estatal de Deudores Alimentarios Morosos.
 
@@ -4674,3 +4678,9 @@ P.O. 14 DE AGOSTO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los planes de desarrollo estatal y municipales, a partir de la entrada en vigor del presente decreto deberán incluir la perspectiva de familia.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 732.- SE AGREGA UNA PORCIÓN NORMATIVA AL ARTÍCULO 375 Y SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 376 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
