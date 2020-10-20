@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mediacion-y-conciliacion-para-el-estado-de-san-luis-1004
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-15"
-last_updated: "2017-05-20"
+last_updated: "2020-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 15 de abril de 2014.
 
@@ -169,7 +169,11 @@ Pueden ser materia de la aplicación de los mecanismos alternativos, todas o alg
 
 El Centro Estatal tendrá competencia para aplicar los mecanismos alternativos para la solución de los conflictos que establece esta Ley, en materia civil, mercantil y familiar.
 
-Por lo que toca a cuestiones vinculadas a la materia penal, le corresponde conocer al Centro de Solución de Controversias de la Procuraduría General de Justicia del Estado, conforme lo determine el Código Penal del Estado de San Luis Potosí, el Código Procesal Penal del Estado de San Luis Potosí, la Ley Orgánica de la Procuraduría General de Justicia del Estado y la Ley de Mecanismos Alternativos de Solución de Controversias en Materia Penal para el Estado de San Luis Potosí.
+(NOTA: EL 19 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 296/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
+Por lo que toca a cuestiones vinculadas a la materia penal, le corresponde conocer al Centro de Métodos Alternos de Solución de Controversias en Materia Penal de la Fiscalía General del Estado; EN CASO DE QUE EL IMPUTADO HAYA SIDO VINCULADO A PROCESO, LOS INTERVINIENTES PODRÁN OPTAR POR QUE EL MECANISMO SE DESARROLLE EN EL ÓRGANO ADSCRITO A LA FISCALÍA, O EN EL ÓRGANO ADSCRITO AL PODER JUDICIAL; quienes deberán regir su actuación conforme lo determine la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal; el Código Nacional de Procedimientos Penales; el Código Penal, y la Ley Orgánica de la Fiscalía General, estos dos últimos ordenamientos, del Estado de San Luis Potosí.
 
 ### Capítulo II. Del Centro Estatal de Mediación y Conciliación
 
@@ -1384,5 +1388,13 @@ P.O. 20 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0630.- SE REFORMA (SIC) LOS ARTÍCULOS, 15 EN SU FRACCIÓN XIV, Y 17 EN SU FRACCIÓN V, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0770.- SE REFORMA EL ARTÍCULO 6º EN SU PÁRRAFO TERCERO, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
