@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2020-07-13"
+last_updated: "2020-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -2211,6 +2211,10 @@ X.- El objeto robado sea una máquina agrícola o una bomba de agua, su arrancad
 
 XI.- El objeto del robo sean documentos que integren prestaciones a favor del trabajador, utilizados para intercambiar bienes o servicios.
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2020)</small>
+
+XII.- Se cometa mediante la utilización de uno o más vehículos motorizados o no motorizados.
+
 En los casos de robo calificado las sanciones correspondientes al robo simple se aumentarán con prisión hasta de cinco años.
 
 > <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2019)</small>
@@ -4226,3 +4230,9 @@ P.O. 13 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 200, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 183 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 221, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
