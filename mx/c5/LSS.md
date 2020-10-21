@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2019-11-07"
+last_updated: "2020-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -2166,13 +2166,17 @@ Para los efectos de esta sección, la Ley para la Coordinación de los Sistemas 
 
 #### SECCION PRIMERA. DEL RAMO DE GUARDERIAS
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 201.
 
-El ramo de guarderías cubre el riesgo de no poder proporcionar cuidados durante la jornada de trabajo a sus hijos en la primera infancia, de la mujer trabajadora, del trabajador viudo o divorciado o de aquél al que judicialmente se le hubiera confiado la custodia de sus hijos, mediante el otorgamiento de las prestaciones establecidas en este capítulo.
+El ramo de guarderías cubre los cuidados, durante la jornada de trabajo, de las hijas e hijos en la primera infancia, de las personas trabajadoras, mediante el otorgamiento de las prestaciones establecidas en este capítulo.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 Este beneficio se podrá extender a los asegurados que por resolución judicial ejerzan la patria potestad y la custodia de un menor, siempre y cuando estén vigentes en sus derechos ante el Instituto y no puedan proporcionar la atención y cuidados al menor.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 El servicio de guardería se proporcionará en el turno matutino y vespertino pudiendo tener acceso a alguno de estos turnos, el hijo del trabajador cuya jornada de labores sea nocturna.
 
@@ -2188,11 +2192,13 @@ Los servicios de guardería infantil incluirán el aseo, la alimentación, el cu
 
 Para otorgar la prestación de los servicios de guardería, el Instituto establecerá instalaciones especiales, por zonas convenientemente localizadas en relación a los centros de trabajo y de habitación, y en las localidades donde opere el régimen obligatorio.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 205.
 
-Las madres aseguradas, los viudos, divorciados o los que judicialmente conserven la custodia de sus hijos, mientras no contraigan nuevamente matrimonio o se unan en concubinato, tendrán derecho a los servicios de guardería, durante las horas de su jornada de trabajo, en la forma y términos establecidos en esta Ley y en el reglamento relativo.
+Las personas trabajadoras aseguradas tendrán derecho a los servicios de guardería para sus hijas e hijos, durante las horas de su jornada de trabajo, en la forma y términos establecidos en esta Ley y en el reglamento relativo.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 El servicio de guarderías se proporcionará en el turno matutino y vespertino, pudiendo tener acceso a alguno de estos turnos, el hijo del trabajador cuya jornada de labores sea nocturna.
 
@@ -4373,3 +4379,11 @@ D.O.F. 7 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 137 BIS A LA LEY DEL SEGURO SOCIAL”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 201, PRIMER PÁRRAFO Y 205, PRIMER PÁRRAFO DE LA LEY DEL SEGURO SOCIAL".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto ejercerá las atribuciones y obligaciones derivadas del presente Decreto de manera que, con sujeción a las disponibilidades presupuestales, se realice una incorporación gradual de los derechohabientes a los servicios que se establecen en el mismo, elaborando previamente un programa piloto para medir los impactos de éste en los servicios y operación del Instituto.
