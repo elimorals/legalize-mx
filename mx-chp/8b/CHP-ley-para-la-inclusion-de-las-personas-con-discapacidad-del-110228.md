@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-inclusion-de-las-personas-con-discapacidad-del-1102
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-21"
-last_updated: "2015-09-21"
+last_updated: "2020-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
 
 Ley Publicada en el Periódico Oficial del Estado de Chiapas, el lunes 21 de septiembre de 2015.
 
@@ -121,6 +121,12 @@ XXIX. Sistema DIF-Chiapas: Al Sistema para el Desarrollo Integral de la Familia 
 
 XXX. Trabajo Protegido: Al trabajo que realizan las personas con discapacidad que tienen un grado tal de limitación en sus capacidades que les impide cubrir los requerimientos mínimos de inserción laboral por lo que requiere la tutela de la familia, el sector público y privado para su desempeño en instalaciones apropiadas.
 
+(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2020)</small>
+
+XXXI. ESPACIOS PRIVADOS DE USO PÚBLICO: SON ESPACIOS ABIERTOS O CERRADOS, DE PROPIEDAD PRIVADA QUE POR SU NATURALEZA, USO O AFECTACIÓN, SATISFACEN NECESIDADES DE USO PÚBLICO.
+
 ###### Artículo 3.
 
 La observancia de la presente Ley corresponde al Poder Ejecutivo, a través de las dependencias y entidades que lo integran, los poderes Legislativo y Judicial del Estado y los Municipios, en el ámbito de sus respectivas competencias, así como a las personas físicas o morales de los sectores social y privado que presten servicios a las personas con discapacidad.
@@ -195,17 +201,23 @@ X. La transversalidad.
 
 XI. Los demás que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 9.
 
-Es obligación de todo ciudadano denunciar ante el Ministerio Público o ante la autoridad correspondiente, la comisión de conductas que puedan ser constitutivas de delitos en contra de las personas con discapacidad, así como la omisión y falta de atención en su cuidado que pueda significar un riesgo en su vida, integridad física o patrimonio.
+Es obligación de todo ciudadano denunciar ante la Fiscalía General del Estado o ante la autoridad correspondiente, la comisión de conductas que puedan ser constitutivas de delitos en contra de las personas con discapacidad, así como la omisión y falta de atención en su cuidado que pueda significar un riesgo en su vida, integridad física o patrimonio.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-La Procuraduría General de Justicia del Estado, el Tribunal Superior de Justicia del Estado, la Comisión Estatal de los Derechos Humanos, así como los órganos de procuración de justicia, deberán elaborar, publicar y difundir manuales y material informativo dirigido a las personas con discapacidad para hacer de su conocimiento los procedimientos que se pueden iniciar en caso de violación a alguno de sus derechos fundamentales, así como qué autoridades son competentes para conocer de dichas violaciones.
+La Fiscalía General del Estado, el Tribunal Superior de Justicia del Estado, la Comisión Estatal de los Derechos Humanos, así como los órganos de procuración de justicia, deberán elaborar, publicar y difundir manuales y material informativo dirigido a las personas con discapacidad para hacer de su conocimiento los procedimientos que se pueden iniciar en caso de violación a alguno de sus derechos fundamentales, así como qué autoridades son competentes para conocer de dichas violaciones.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-La Procuraduría General de Justicia del Estado deberá aplicar criterios de Sensibilización en todas las diligencias y actuaciones en las que intervengan personas con discapacidad.
+La Fiscalía General del Estado deberá aplicar criterios de sensibilización en todas las diligencias y actuaciones en las que intervengan personas con discapacidad.
 
 ## Título Segundo. De los Derechos de las Personas con Discapacidad
 
@@ -287,9 +299,11 @@ V. Los demás que tengan por objeto garantizar la prestación de servicios de as
 
 ### Capítulo II. Del Trabajo y Empleo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 15.
 
-La Secretaría del Trabajo conjuntamente con el Consejo Estatal, promoverá el derecho al trabajo de las personas con discapacidad, y para tal efecto formulará políticas públicas, mecanismos y estrategias para su incorporación al empleo, capacitación y readaptación laboral, considerando las siguientes acciones:
+La Secretaría de Economía y del Trabajo conjuntamente con el Consejo Estatal, promoverá el derecho al trabajo de las personas con discapacidad, y para tal efecto formulará políticas públicas, mecanismos y estrategias para su incorporación al empleo, capacitación y readaptación laboral, considerando las siguientes acciones:
 
 I. Promover el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades y equidad integrándolos al sistema ordinario de trabajo, o en su caso, de acuerdo a su tipo y grado de Discapacidad, su incorporación a la modalidad de Trabajo Protegido, en condiciones salubres, dignas y de mínimo riesgo a su integridad física.
 
@@ -349,23 +363,39 @@ XII. Las demás que dispongan otros ordenamientos.
 
 El Ejecutivo del Estado y los municipios determinarán, a través de sus dependencias competentes respectivas, la adecuación y modernización de las instalaciones que ocupan sus oficinas y dependencias, destinadas a brindar servicios de salud, educación, administración y procuración de justicia, actividades deportivas, culturales, recreativas o sociales, a fin de garantizar la libre movilidad, el libre tránsito, la seguridad y el Derecho de Uso Exclusivo de estos espacios por parte de las personas con discapacidad.
 
+(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 20.
 
-La Secretaría de Infraestructura y Comunicaciones, el Instituto de la Infraestructura Física Educativa del Estado de Chiapas y las direcciones de desarrollo urbano o dependencias afines en los municipios, vigilarán que las construcciones o modificaciones públicas y privadas que se realicen, cuenten con las facilidades arquitectónicas y de desarrollo urbano, adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
+La Secretaría de Obras Públicas, el Instituto de la Infraestructura Física Educativa del Estado de Chiapas y las direcciones de desarrollo urbano o dependencias afines en los municipios, vigilarán que las construcciones o modificaciones públicas y privadas que se realicen en los espacios públicos y privados de uso público, cuenten con las facilidades arquitectónicas y de desarrollo urbano, adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
+
+(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 21.
 
-El Programa Estatal de Desarrollo Urbano, contendrá lineamientos generales que establezcan la obligatoriedad de incorporar facilidades arquitectónicas y de señalización en la planificación, construcción y remodelación de la infraestructura urbana de carácter público a fin de facilitar el tránsito, libre acceso, desplazamiento y uso de estos espacios por las personas con discapacidad.
+El Programa Estatal de Desarrollo Urbano, contendrá lineamientos generales que establezcan la obligatoriedad de incorporar facilidades arquitectónicas y de señalización en la planificación, construcción y remodelación de la infraestructura urbana de carácter público y privado de uso público a fin de facilitar el tránsito, libre acceso, desplazamiento y uso de estos espacios por las personas con discapacidad.
+
+(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-Las personas con Discapacidad Visual acompañadas de perros guías tendrán libre acceso a todos los lugares públicos, a los servicios públicos y de transporte y establecimientos comerciales, sin restricción alguna.
+Las personas con Discapacidad Visual acompañadas de perros guías tendrán libre acceso a todos los lugares públicos y privados de uso público, a los servicios públicos y de transporte y establecimientos comerciales, sin restricción alguna.
 
-El acceso del Perro Guía a los lugares con pago de entrada o de peaje no implicará un pago adicional, salvo que su movilización constituya la prestación de un servicio agregado.
+El acceso del perro guía a los lugares con pago de entrada o de peaje no implicará un pago adicional, salvo que su movilización constituya la prestación de un servicio agregado.
+
+(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 297/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIAPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 23.
 
-Los municipios, a través de sus áreas correspondientes, al autorizar los proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a la prestación de servicios al público, vigilarán que los mismos cuenten con instalaciones, servicios y señalamientos adecuados a las necesidades de las personas con discapacidad.
+Los municipios, a través de sus áreas correspondientes, al autorizar los proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a la prestación de servicios en los espacios públicos y privados de uso público, vigilarán que los mismos cuenten con instalaciones, servicios y señalamientos adecuados a las necesidades de las personas con discapacidad.
 
 ###### Artículo 24.
 
@@ -383,9 +413,11 @@ La Promotora de la Vivienda Chiapas, de acuerdo a la disponibilidad de presupues
 
 ### Capítulo V. Del Transporte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 27.
 
-La Secretaría de Transportes establecerá acciones, mecanismos, facilidades y preferencias, que permitan a las personas con discapacidad el acceso al transporte y libre desplazamiento, contemplando como mínimo lo siguiente:
+La Secretaría de Movilidad y Transporte establecerá acciones, mecanismos, facilidades y preferencias, que permitan a las personas con discapacidad el acceso al transporte y libre desplazamiento, contemplando como mínimo lo siguiente:
 
 I. Los vehículos del servicio público de transporte deberán contar con las especificaciones técnicas que permitan el fácil acceso y uso a las personas con discapacidad, así como la asignación de espacios adecuados, incluyendo la modificación de instalaciones físicas como paraderos y estaciones, conforme a lo dispuesto en los ordenamientos aplicables.
 
@@ -403,9 +435,11 @@ La Secretaría de Hacienda, expedirá las placas y calcomanías de identificaci�
 
 ### Capítulo VI. Del Desarrollo Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 29.
 
-La Secretaría de Desarrollo y Participación Social, incidirá positivamente en la elevación del nivel de la calidad de vida de las personas con discapacidad, así como el de sus familias, para lo cual deberá realizar como mínimo las siguientes acciones:
+La Secretaría de Bienestar incidirá positivamente en la elevación del nivel de la calidad de vida de las personas con discapacidad, así como el de sus familias, para lo cual deberá realizar como mínimo las siguientes acciones:
 
 I. Crear, implementar y ejecutar programas y proyectos que garanticen a las personas con discapacidad su accesibilidad para el desarrollo social.
 
@@ -441,13 +475,17 @@ VIII. Otros bienes o servicios análogos, que se consideren necesarios para el m
 
 ### Capítulo VII. De la Igualdad de Género
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 31.
 
-La Secretaría para el Desarrollo y Empoderamiento de las Mujeres establecerá estrategias para la orientación de recursos a proyectos para contribuir al mejoramiento de las condiciones económicas, políticas, culturales y sociales de las mujeres con Discapacidad.
+La Secretaría de Igualdad de Género establecerá estrategias para la orientación de recursos a proyectos para contribuir al mejoramiento de las condiciones económicas, políticas, culturales y sociales de las mujeres con discapacidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 32.
 
-Para prevenir y erradicar cualquier tipo de discriminación hacia las mujeres con Discapacidad, la Secretaría para el Desarrollo y Empoderamiento de las Mujeres y las autoridades competentes en el ámbito municipal, adoptarán como mínimo las siguientes medidas:
+Para prevenir y erradicar cualquier tipo de discriminación hacia las mujeres con discapacidad la Secretaría de Igualdad de Género y las autoridades competentes en el ámbito municipal, adoptarán como mínimo las siguientes medidas:
 
 I. Implementar criterios de género en las políticas públicas para personas con discapacidad.
 
@@ -463,9 +501,11 @@ VI. Contar, por lo menos, con un traductor-interprete de la Lengua de Señas Mex
 
 ### Capítulo VIII. Del Deporte, Cultura y Turismo
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 33.
 
-La Secretaría de la Juventud, Recreación y Deporte, a través de la Subsecretaría del Deporte, y las dependencias municipales afines, en coordinación con el Consejo Estatal, establecerán acciones para que las personas con discapacidad se integren y puedan participar en las actividades deportivas en condiciones de igualdad.
+El Instituto del Deporte y las dependencias municipales afines, en coordinación con el Consejo Estatal, establecerán acciones para que las personas con discapacidad se integren y puedan participar en las actividades deportivas en condiciones de igualdad.
 
 ###### Artículo 34.
 
@@ -475,17 +515,23 @@ El Consejo Estatal para las Culturas y las Artes de Chiapas, implementará mecan
 
 La Secretaría de Educación y el Consejo Estatal para las Culturas y las Artes de Chiapas, promoverán el desarrollo y la utilización de medios técnicos especiales para que la literatura, las películas cinematográficas y el teatro cuenten con estrategias de accesibilidad a las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 36.
 
-Las secretarías de Educación; de la Juventud, Recreación y Deporte, y el Consejo Estatal para la Cultura y las Artes de Chiapas, en coordinación con el Consejo y las autoridades competentes, formularán y aplicarán acciones que otorguen las facilidades administrativas y los apoyos técnicos y humanos requeridos para la práctica de actividades deportivas y artísticas de las personas con discapacidad, que incluyan el otorgamiento de becas.
+La Secretaría de Educación, el Instituto del Deporte y el Consejo Estatal para las Culturas y las Artes de Chiapas, en coordinación con el Consejo y las autoridades competentes, formularán y aplicarán acciones que otorguen las facilidades administrativas y los apoyos técnicos y humanos requeridos para la práctica de actividades deportivas y artísticas de las personas con discapacidad, que incluyan el otorgamiento de becas.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 37.
 
-La Secretaría de la Juventud, Recreación y Deporte promoverá y difundirá las actividades de Deporte Adaptado, así como la conformación de equipos deportivos representativos.
+El Instituto del Deporte promoverá y difundirá las actividades de Deporte adaptado, así como la conformación de equipos deportivos representativos.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 38.
 
-La Secretaría de la Juventud, Recreación y Deporte deberá contar, por lo menos, con un traductor-interprete de la Lengua de Señas Mexicana, que auxilie a las personas con discapacidad en los servicios que requiera.
+El Instituto del Deporte deberá contar, por lo menos, con un traductor-interprete de la Lengua de Señas Mexicana, que auxilie a las personas con discapacidad en los servicios que requiera.
 
 ###### Artículo 39.
 
@@ -603,23 +649,25 @@ II. Un Vicepresidente, que será la titular del Sistema para el Desarrollo Integ
 
 III. Un Secretario Técnico, que será designado por la Vicepresidente.
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE OCTUBRE DE 2020)</small>
+
 IV. Fungirán como vocales:
 
-a) El titular de la Secretaría del Trabajo.
+a) El titular de la Secretaría de Economía y del Trabajo.
 
-b) La titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+b) La titular de la Secretaría de Igualdad de Género.
 
-c) El titular de la Secretaría de Infraestructura y Comunicaciones.
+c) El titular de la Secretaría de Obras Públicas.
 
-d) El titular de la Secretaría de Desarrollo y Participación Social.
+d) El titular de la Secretaría de Bienestar.
 
 e) El titular de la Secretaría de Salud y Director General del Instituto de Salud.
 
 f) El titular de la Secretaría de Educación.
 
-g) El titular de la Secretaría de Transportes.
+g) El titular de la Secretaría de Movilidad y Transporte.
 
-h) El titular de la Secretaría de la Juventud, Recreación y Deporte.
+h) Los titulares del Instituto del Deporte y del Instituto de la Juventud.
 
 i) El titular del Consejo Estatal para las Culturas y las Artes de Chiapas.
 
@@ -760,3 +808,15 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I, del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas a los 21 días del mes de Septiembre del año dos mil quince.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 009 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. La Secretaría de Salud del Estado, deberá utilizar sistemas de comunicación inclusiva, como lengua de señas mexicana y otras, para difundir información por cualquier medio de comunicación, sobre la pandemia derivada del Covid-19, hasta en tanto dure la emergencia sanitaria decretada a nivel nacional el 30 de marzo de 2020 por el Consejo de Salubridad General, o por decreto posterior de la autoridad competente.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
