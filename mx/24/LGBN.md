@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2018-01-19"
+last_updated: "2020-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2020.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -209,6 +209,10 @@ XIV.- Los demás bienes considerados de uso común por otras leyes que regulen b
 Todos los habitantes de la República pueden usar los bienes de uso común, sin más restricciones que las establecidas por las leyes y reglamentos administrativos.
 
 Para aprovechamientos especiales sobre los bienes de uso común, se requiere concesión, autorización o permiso otorgados con las condiciones y requisitos que establezcan las leyes.
+
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2020)</small>
+
+El acceso a las playas marítimas y la zona federal marítimo terrestre contigua a ellas no podrá ser inhibido, restringido, obstaculizado ni condicionado salvo en los casos que establezca el reglamento.
 
 ###### ARTÍCULO 9.
 
@@ -1694,6 +1698,10 @@ La zona federal marítimo terrestre y los terrenos ganados al mar no podrán ser
 
 Los concesionarios y permisionarios que aprovechen y exploten la zona federal marítimo terrestre, pagarán los derechos correspondientes, conforme a lo dispuesto en la legislación fiscal aplicable.
 
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2020)</small>
+
+En el caso de que no existan vías públicas o accesos desde la vía pública, los propietarios de terrenos colindantes con la zona federal marítimo terrestre deberán permitir el libre acceso a la misma, así como a las playas marítimas, a través de los accesos que para el efecto convenga la Secretaría de Medio Ambiente y Recursos Naturales con los propietarios, mediando compensación en los términos que fije el reglamento. Dichos accesos serán considerados servidumbre, en términos de la fracción VIII del artículo 143 de esta Ley.
+
 ## TÍTULO QUINTO. DE LOS BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
 ### CAPÍTULO ÚNICO
@@ -1970,6 +1978,14 @@ Respecto de los Notarios del Patrimonio Inmobiliario Federal, la Secretaría pod
 
 Quienes realicen el uso o aprovechamiento de la zona federal marítimo terrestre y los terrenos ganados al mar, sin contar con concesión permiso o autorización de la autoridad competente, ocasionando directa o indirectamente un daño a los ecosistemas o sus componentes, estarán obligados a la reparación de los daños al ambiente, o bien, a la compensación ambiental que proceda de conformidad con lo dispuesto en la Ley Federal de Responsabilidad Ambiental.
 
+> <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 154.
+
+Se sancionará con multa de entre tres mil y hasta doce mil veces la Unidad de Medida y Actualización vigente a los propietarios de terrenos colindantes con la zona federal marítimo terrestre o los titulares de concesiones, permisos, autorizaciones y acuerdos de destino respecto del aprovechamiento de la zona federal marítimo terrestre que por cualquier medio o acto impidan, inhiban, restrinjan, obstaculicen o condicionen el acceso a la zona federal marítimo terrestre y a las playas marítimas.
+
+Para el caso de titulares de concesiones, permisos, autorizaciones y acuerdos de destino respecto del aprovechamiento de la zona federal marítimo terrestre, en caso de reincidencia, además de la sanción señalada en el párrafo anterior, se revocará la concesión, autorización o permiso, observando en lo conducente, lo dispuesto en el artículo 18 de esta Ley.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2097,3 +2113,9 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO PRIMERO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. TRANSITORO DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY GENERAL DE BIENES NACIONALES, PARA GARANTIZAR EL LIBRE ACCESO Y TRÁNSITO EN LAS PLAYAS”.]</small>
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
