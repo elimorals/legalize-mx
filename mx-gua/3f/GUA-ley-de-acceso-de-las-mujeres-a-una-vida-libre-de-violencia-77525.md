@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2020-07-22"
+last_updated: "2020-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -251,7 +253,9 @@ IX. El titular de la Fiscalía General del Estado de Guanajuato;
 
 X. El titular del Instituto para las Mujeres Guanajuatenses, quien ocupará (sic) Secretaría Ejecutiva del Consejo;
 
-XI. El titular del Instituto de la Juventud Guanajuatense;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2020)</small>
+
+XI. El titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato;
 
 XII. El titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
@@ -647,9 +651,13 @@ XI. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-#### Sección Undécima. Facultades del titular del Instituto de la Juventud Guanajuatense
+#### Sección Undécima. Facultades del titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
 
-Facultades del titular del Instituto de la Juventud Guanajuatense
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 21 DE OCTUBRE DE 2020)</small>
+
+Facultades del titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 24.
 
@@ -687,13 +695,15 @@ XIV. Impulsar mecanismos de prevención, promoción, difusión y respeto de los 
 
 XV. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2020)</small>
+
 #### Sección Duodécima. Facultades del titular (sic) Sistema para el Desarrollo Integral de la Familia
 
 Facultades del titular del Sistema para el Desarrollo Integral de la Familia
 
 ###### Artículo 25.
 
-El titular del Instituto de la Juventud Guanajuatense ejercerá las siguientes facultades:
+El titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato ejercerá las siguientes facultades:
 
 I. Proporcionar la información relativa a programas y acciones tendientes al desarrollo integral de las mujeres jóvenes;
 
@@ -1280,3 +1290,85 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 222, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LAS JUVENTUDES DEL ESTADO DE GUANAJUATO Y SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS LEGALES".]
+
+Vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Juventud del Estado de Guanajuato, contenida en el decreto número 205, expedida por la Sexagésima Segunda Legislatura del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado, número 200, Tercera Parte del 16 de diciembre de 2014.
+
+Derogación tácita
+
+Artículo Tercero. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+Conformación del Instituto y asignación de recursos
+
+Artículo Cuarto. El Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato se conformará a partir del organismo público descentralizado Instituto de Financiamiento e Información para la Educación, por lo que, previa la realización de las entregas-recepción respectivas, proseguirá con la atención de los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que se hayan venido usando para la atención de sus atribuciones.
+
+La Secretaría de Finanzas, Inversión y Administración realizará las adecuaciones presupuestales necesarias para dotar al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato de los recursos financieros necesarios para realizar sus funciones.
+
+Extinción del Injug
+
+Artículo Quinto. Se extingue el Instituto para la Juventud Guanajuatense, por lo que le transferirá al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, a través de la entrega-recepción respectiva, el mobiliario, vehículos, instrumentos, aparatos, maquinaria y en general, el equipo que tenía asignado.
+
+Los asuntos jurídicos, administrativos y de cualquier otra índole en trámite a la entrada en vigor del presente Decreto, así como los archivos, se pasarán, a través de la entrega-recepción, al Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, para que éste prosiga con su atención.
+
+Causahabiencia y subsistencia de poderes
+
+Artículo Sexto. A la conclusión de la entrega-recepción, el Instituto asume los derechos y el cumplimiento de las obligaciones tanto del Instituto de la Juventud Guanajuatense como del Instituto de Financiamiento e Información para la Educación, por lo que le corresponderá cumplir con los contratos, convenios, obligaciones o derechos contraídos tanto por el Instituto de la Juventud Guanajuatense como por el Instituto de Financiamiento e Información para la Educación.
+
+El Instituto quedará facultado para realizar las gestiones o ejercer las acciones judiciales o extrajudiciales que sean necesarias para lograr su cumplimiento o para la defensa del patrimonio que tenían asignado dichas entidades, así como para oponer cualquier defensa o excepción judicial o extrajudicial para esos fines.
+
+Los poderes que el Instituto de la Juventud Guanajuatense o el Instituto de Financiamiento e Información para la Educación hayan conferido con anterioridad a la vigencia del presente Decreto se entenderán conferidos por el Instituto y subsistirán mientras no sean revocados por el Director General de este último.
+
+El personal del Instituto de la Juventud Guanajuatense y del Instituto de Financiamiento e Información para la Educación, conforme a su estatus laboral, conformarán el personal del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, en atención a la adscripción con que a la fecha de entrada en vigencia del presente Decreto contaban, así como a las materias que se atienden, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Entrega-recepción
+
+Artículo Séptimo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega-recepción extraordinaria, de conformidad con lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Plazo para la instalación del Instituto y de su Consejo Directivo
+
+Artículo Octavo. El Instituto deberá quedar conformado e instalado dentro de los sesenta días siguientes a la entrada en vigencia del presente Decreto, una vez concluidos los procesos de entrega recepción.
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, el titular del Poder Ejecutivo designará previamente, a la persona de la sociedad civil que fungirá como Presidente del Consejo Directivo del Instituto y a los representantes a que se refieren las fracciones XIII, XIV y XV del artículo 79 de la Ley que se expide mediante el presente Decreto; así como a la persona titular de su Dirección General.
+
+Una vez designadas las personas que desempeñarán dichos cargos, el Instituto quedará instalado en la fecha en que el Consejo Directivo celebre su primera sesión.
+
+Facultamiento a la persona que se designe en la Dirección General del Instituto
+
+Artículo Noveno. La persona que el titular del Poder Ejecutivo designe en la Dirección General del Instituto quedará facultada a partir de su designación para efectuar los trámites, actos y diligencias administrativas, fiscales y jurídicas necesarios para la instalación e inicio de funciones del organismo público descentralizado Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, ante las autoridades de los tres ámbitos de gobierno, especialmente, para que acuda ante el Sistema de Administración Tributaria (SAT) para realizar los trámites y notificaciones conducentes a la modificación del Instituto, así como para la realización de los actos necesarios para la conclusión de las actividades y funciones, así como los procedimientos que quedaran pendientes del Instituto de la Juventud Guanajuatense, al momento de su extinción, con posterioridad a la entrega-recepción a que se refieren los Artículos Cuarto y Quinto Transitorios del presente Decreto.
+
+Sede del nuevo organismo
+
+Artículo Décimo. Para la instalación del Instituto, y para las sesiones de su Consejo Directivo, se establece como su sede provisional, la que actualmente corresponde al Instituto de Financiamiento e Información para la Educación, en tanto se expide su Reglamento Interior en que se determinará su sede definitiva.
+
+Plazo para expedir el Reglamento Interior del Instituto
+
+Artículo Undécimo. El titular del Poder Ejecutivo del Estado expedirá el Reglamento Interior del Instituto dentro de los sesenta días siguientes a la fecha de su instalación, con base en el proyecto que apruebe el Consejo Directivo del Instituto, a propuesta de la persona titular de la Dirección General.
+
+Para este fin, en la primera sesión del Consejo Directivo, la persona titular de la Dirección General someterá el anteproyecto de Reglamento Interior a su consideración.
+
+Plazo para expedir la reglamentación complementaria
+
+Artículo Duodécimo. El Titular del Poder Ejecutivo del Estado expedirá y en su caso actualizará los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de su entrada en vigencia. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a éste, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+El Instituto de Financiamiento e Información para la Educación y el Instituto de la Juventud Guanajuatense continuarán ejerciendo sus atribuciones, hasta el acto formal de entrega-recepción.
+
+Referencias
+
+Artículo Décimo Tercero. Para todos los efectos legales correspondientes, el Instituto a que alude el presente Decreto, se entenderá referido al Instituto de la Juventud Guanajuatense, y el Instituto de Financiamiento e Información para la Educación, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Asignación de recursos
+
+Artículo Décimo Cuarto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada transferencia de recursos al Instituto para la correcta operación de sus atribuciones.
+
+Plazo para actualización de reglamentación municipal
+
+Artículo Décimo Quinto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor del mismo.
