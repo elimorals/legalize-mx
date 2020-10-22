@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2020-10-15"
+last_updated: "2020-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1663,7 +1663,9 @@ XI.- Cooperar con las autoridades competentes en la ejecución y cumplimiento de
 
 XII.- Actualizar cada cinco años el padrón de los vecinos de la Municipalidad, con expresión de las circunstancias señaladas en la presente Ley;
 
-XIII.- Formar anualmente en el mes de julio el padrón de niñas y niños, para quienes sea obligatoria, en el Municipio, la instrucción primaria y secundaria desde el año inmediato siguiente, enviando un tanto a las autoridades educativas correspondientes. Este padrón deberá contener los nombres, apellidos, edad, profesión y domicilio del padre o encargado de la niña o niño y el nombre y edad de éste;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+XIII.- Formar anualmente en el mes de julio el padrón de niñas, niños, adolescentes y jóvenes para quienes sea obligatoria, en el Municipio, la instrucción básica y media superior desde el año inmediato siguiente, enviando un tanto a las autoridades educativas correspondientes. Este padrón deberá contener los nombres, apellidos, edad, profesión y domicilio de las madres, padres o tutores de las y los menores, así como el nombre y edad de estos últimos;
 
 XIV.- Formar una noticia de las personas que en la Municipalidad ejerzan profesiones que requieran título y tomar nota de estos;
 
@@ -3537,7 +3539,9 @@ II.- Permitir y aportar la información para la práctica de inventarios, así c
 
 III.- Remitir mensualmente al Ayuntamiento, por conducto de la Tesorería Municipal las cuentas relacionadas con el movimiento de fondos de la Junta Auxiliar; así como las comprobaciones de los gastos, en los términos que determine el propio Ayuntamiento;
 
-IV.- Coadyuvar con las dependencias municipales competentes, en la elaboración del padrón de personas sujetas a educación básica;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+IV.- Coadyuvar con las dependencias municipales competentes, en la elaboración del padrón de personas sujetas a educación básica y media superior;
 
 V.- Cumplir y hacer cumplir las normas Federales, Estatales y Municipales, los acuerdos que dicte el Ayuntamiento al que pertenezca, así como las demás disposiciones que le encomiende el Presidente Municipal;
 
@@ -4280,5 +4284,13 @@ P.O. 15 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN LX Y ADICIONA LA FRACCIÓN LX BIS AL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIII DEL ARTÍCULO 91 Y IV DEL ARTÍCULO 231, AMBOS DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
