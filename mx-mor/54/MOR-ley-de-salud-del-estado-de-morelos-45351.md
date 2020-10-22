@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2019-08-28"
+last_updated: "2020-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -55,7 +55,9 @@ II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
 III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, promoción, conservación y disfrute de condiciones de salud que contribuyan al bienestar y desarrollo social;
 
-IV.- La extensión de actitudes solidarias y responsables de la población, en la promoción, preservación, conservación, mejoramiento y restauración de la salud;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+IV.- La extensión de actitudes solidarias y responsables de la población, en la promoción, preservación, conservación, mejoramiento, restauración de la salud y la prevención de las enfermedades;
 
 V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
@@ -641,7 +643,9 @@ Para los efectos del derecho a la promoción y protección de la salud, se consi
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias ambientales;
 
-II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes; así como las infecciones de transmisión sexual.
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
 
@@ -991,9 +995,11 @@ V.- Los programas de prevención al maltrato infantil, la violencia familiar y l
 
 VI.- Las demás que coadyuven a la salud de los menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 73.
 
-En materia de higiene escolar, corresponde a las autoridades sanitarias del estado, vigilar el cumplimiento de las normas para proteger la salud del educando y de la comunidad escolar de los centros educativos de la entidad. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de dichas normas.
+En materia de higiene escolar, corresponde a las autoridades sanitarias del estado, vigilar el cumplimiento de las normas para proteger la salud del educando y de la comunidad escolar, así como establecer acciones que promuevan una alimentación nutritiva y la realización de actividad física.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
@@ -1233,21 +1239,27 @@ VI. La prevención de la trasmisión materno-infantil del Virus de Inmunodeficie
 
 Artículo 88 Undecies.- En los servicios de salud, se promoverá la organización institucional de los Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2020)</small>
 
-Artículo 88 Duodecies.- En la organización y operación de los servicios de salud, destinados a la atención materno-infantil, la autoridad competente establecerá:
+Artículo 88 Duodecies.- En la organización y operación de los servicios de salud, destinados a la atención materno infantil, la autoridad competente establecerá:
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
 
-II. Acciones de orientación y vigilancia institucional, fomento para la lactancia materna, promoviendo que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, además de impulsar, la instalación de espacios lactarios de calidad en los centros de trabajo de los sectores público y privado;
+II. Acciones de orientación y vigilancia institucional, fomento para la lactancia materna, promoviendo que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida, para tal efecto, se impulsará la instalación de lactarios en los centros de trabajo de los sectores públicos y privados y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil.
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
 III. Acciones de promoción para la creación de bancos de leche humana, en los establecimientos de salud que cuenten con servicios neonatales;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
 
 IV. Acciones para controlar las enfermedades prevenibles por vacunación, las infecciones gastrointestinales, los procesos diarréicos y las infecciones respiratorias agudas de los menores de cinco años, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
 V. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio
 
@@ -1529,9 +1541,17 @@ II.- Nutrición, sobrepeso y obesidad;
 
 III.- Control de los efectos nocivos del ambiente en la salud, adoptando medidas y promoviendo estrategias de mitigación y de adaptación a los efectos del cambio climático;
 
-IV.- Salud ocupacional; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
 
-V.- Fomento Sanitario.
+IV.- Salud ocupacional;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+V.- Fomento Sanitario y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2020)</small>
+
+VI.- Actividad física y Educación nutricional;
 
 ### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
 
@@ -1559,9 +1579,11 @@ Las autoridades de salud del Estado, en sus respectivos ámbitos de competencia,
 
 ### CAPÍTULO III. NUTRICIÓN
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 112.
 
-Para la atención y mejoramiento de la nutrición de la población, las Entidades del sector salud y los H. Ayuntamientos del Estado, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los sectores social y privado.
+Para la atención y mejoramiento de la nutrición de la población, las Entidades del sector salud y los H. Ayuntamientos del Estado, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición que promuevan la alimentación nutritiva y acciones para reducir la malnutrición, promoviendo el consumo de alimentos adecuados a las necesidades nutricionales de la población; y evitar otros elementos que representen un riesgo potencial para la salud.
 
 ###### Artículo 113.
 
@@ -1603,7 +1625,9 @@ V.- Promover investigaciones necesarias encaminadas a conocer las condiciones de
 
 VI.- Recomendar dietas y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos para la población en general y promoveer (sic) en la esfera de su competencia a dicho consumo; y
 
-VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos y efectuar la valoración a que se refiere el artículo que antecede.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+VII.- Establecer las necesidades nutrimentales que deben satisfacer los cuadros básicos de alimentos evitando los altos contenidos en azucares, grasas saturadas, trans y sodio. Tratándose de harinas industrializadas de trigo y de maíz, se exigirá la fortificación obligatoria de estas, indicándose los nutrimentos y las cantidades que deberán incluirse;
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2013)</small>
 
@@ -2015,7 +2039,13 @@ III.- La prevención específica en cada caso y la vigilancia de su cumplimiento
 
 IV.- La realización de estudios epidemiológicos; y
 
-V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+V.- Las necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2020)</small>
+
+VI.- La difusión permanente de las dietas, hábitos alimenticios y procedimientos que se conduzcan al consumo efectivo de los mínimos de nutrimentos por la población general y no exceder lo (sic) máximos de azucares, grasas saturadas y grasas trans y sodio, con base en lo recomendado por la Norma Oficial Mexicana.
 
 ###### Artículo 144.
 
@@ -2322,6 +2352,10 @@ A los establecimientos que vendan o utilicen sustancias inhalantes con efectos p
 ###### Artículo 177.
 
 Para efectos de esta Ley, se entiende por proceso, la o las actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos sujetos a control sanitario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2020)</small>
+
+En referente al etiquetado de alimentos y bebidas no alcohólicas, deberá exhibirse en el envase de manera clara, veraz y rápida el contenido que exceda los niveles máximos de contenido energético, azucares, añadidos, grasas saturadas, grasas, sodio y los nutrimentos críticos que son componentes de la alimentación que pueden ser un factor de riesgo de las enfermedades.
 
 ###### Artículo 178.
 
@@ -4688,3 +4722,33 @@ SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente 
 (NOTA: EL 7 DE JULIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2019, DECLARÓ LA INVALIDEZ DE LA DISPOSICIÓN TRANSITORIA TERCERA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 TERCERA.- LA SECRETARÍA DE SALUD DEL ESTADO, TENDRÁ UN PLAZO DE 120 DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE LA PUBLICACIÓN DEL PRESENTE DECRETO, PARA EMITIR LAS DISPOSICIONES O LINEAMIENTOS NECESARIOS PARA EL EJERCICIO DE ESTE DERECHO EN LOS CASOS QUE ESTABLECE LA PRESENTE LEY.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS SIETE POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 88 DUODECIES DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Aprobado que sea el presente decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir de los sesenta días naturales siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del gobierno del estado de Morelos.
+
+TERCERA.- Las autoridades sanitarias en el Estado, el Gobernador del Estado, el Secretario de Salud, el Organismo Público Descentralizado denominado "Servicios de Salud de Morelos", los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de vigencia otorgado en el transitorio segundo, deberán actualizar sus disposiciones, lineamientos y/o reglamentos internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS DIECINUEVE.- POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto iniciará su vigencia a partir de los sesenta días naturales siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del gobierno del estado de Morelos.
+
+TERCERA.- Las autoridades sanitarias en el Estado, el Gobernador del Estado, el Secretario de Salud, el Organismo Público Descentralizado denominado “Servicios de Salud de Morelos”, los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de vigencia otorgado en el transitorio segundo, deberán actualizar sus disposiciones, lineamientos y/o reglamentos internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS VEINTE POR EL QUE SE REFORMA Y ADICIONA LA LEY DE SALUD DEL ESTADO DE MORELOS, CON LA FINALIDAD DE ARMONIZAR EN MATERIA DE SOBREPESO, OBESIDAD Y ETIQUETADO DE ALIMENTOS Y BEBIDAS NO ALCOHÓLICAS".]
+
+PRIMERO.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia a partir de los sesenta días naturales siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO.- Las autoridades sanitarias en el Estado, el Gobernador del Estado, el Secretario de Salud, el Organismo público descentralizado denominado "Servicios de Salud de Morelos", los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de vigencia otorgado en el transitorio segundo, deberán actualizar sus disposiciones, lineamientos y/o reglamentos internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
