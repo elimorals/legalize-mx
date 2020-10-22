@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2020-02-12"
+last_updated: "2020-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-(NOTA: EL 27 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 124/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS CINCUENTA Y SIETE, POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 22 Y EL ARTÍCULO 23 DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 28 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2020.
 
-Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007.
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
 Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.
 
@@ -979,13 +977,21 @@ V. Que incluyan disposiciones generales que incidan en la regulación en materia
 
 Deberán contener evaluación de impacto presupuestario, acorde con los planes y programas de gobierno. Toda propuesta de aumento o creación del gasto público, deberá agregarse la correspondiente iniciativa de ingreso distinta al financiamiento o compensarse con reducciones en otras previsiones de gasto.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 98.
 
-Los diputados que promuevan iniciativas y puntos de acuerdo, podrán presentarlas directamente ante el Pleno del Congreso, en sesión ordinaria, previa su inscripción en la orden del día.
+Los diputados y diputadas que promuevan Iniciativas, Decretos y Puntos de Acuerdo, podrán presentarlas directamente ante el Pleno del Congreso, en Sesión Ordinaria, previa su inscripción en la orden del día.
 
-Para la presentación de las mismas, el iniciador, no podrá excederse de diez minutos en su participación, pues sólo leerá una síntesis o la exposición de motivos. El Presidente de la Mesa Directiva, vigilará el cumplimiento del tiempo reglamentario y ordenará se turne a la comisión o comisiones que corresponda, según la materia.
+Para la presentación de estas, el iniciador, no podrá excederse de diez minutos en su participación, pues sólo leerá una síntesis o la exposición de motivos. El presidente de la Mesa Directiva, vigilará el cumplimiento del tiempo reglamentario y ordenará se turne a la Comisión o Comisiones que corresponda, según la materia.
+
+Al concluir la exposición de motivos de las iniciativas, proyectos de decretos o puntos de acuerdo, uno o varios de los Diputados y Diputadas presentes en la sesión, podrán solicitar al Presidente de la Mesa Directiva, adherirse a estas, motivando su petición. El Presidente de la Mesa Directiva preguntará al iniciador, si acepta la moción; de ser aceptada, el peticionario será considerado con el carácter de adherente a la iniciativa, haciéndose constar en el acta, gaceta parlamentaria, dictámenes y en los demás registros que la oficina de servicios legislativos y parlamentarios lleve a cabo.
+
+La adherencia parlamentaria es la expresión que un legislador o legisladora realizan para mostrar su reconocimiento al iniciador, así como su solidaridad y coincidencia política, social o ideológica con la iniciativa, decreto o proposición de punto de acuerdo presentado.
+
+En los registros parlamentarios, actas, gaceta parlamentaria y dictámenes, se deberá especificar por separado el nombre del iniciador o iniciadora y los legisladores o legisladoras que en su caso, se adhirieron a la iniciativa, proyecto de decreto o proposición de punto de Acuerdo.
+
+Para los efectos de transparencia y acceso a la información, la Secretaría de Servicios Legislativos y Parlamentarios a través de la unidad de transparencia del Congreso, deberá revisar que la información que se rinda, se especifique el Diputado o Diputada iniciadora y el legislador o legisladora, que en su caso, tiene la calidad de adherente a la iniciativa, decreto o punto de acuerdo.
 
 ###### ARTÍCULO 99.
 
@@ -1067,7 +1073,9 @@ Los dictámenes deberán contener:
 
 I. Los datos generales que identifiquen la iniciativa y una exposición clara y precisa del asunto al que se refiere;
 
-II. Formularse por escrito y en disco de grabación electromagnética;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+II. Formularse por escrito y en archivo electrónico;
 
 III. La expresión pormenorizada de las consideraciones resultantes del análisis y estudio de la iniciativa, el sustento de la misma, así como la exposición precisa de los motivos y fundamentos legales que justifiquen los cambios, consideraciones o cualquier otra circunstancia que afecte a los motivos y al texto de la iniciativa en los términos en que fue promovida;
 
@@ -1391,9 +1399,11 @@ X. Clausura de la sesión; y
 
 XI. Firmas de los integrantes de la Mesa Directiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 142.
 
-Las actas deben ser conservadas por el archivo legislativo del Congreso, como evidencia de los asuntos tratados a cargo de la Secretaría del Congreso.
+Las actas deben ser conservadas por el archivo legislativo del Congreso, como evidencia de los asuntos tratados a cargo de la Secretaría de Servicios Legislativos y Parlamentarios.
 
 A través de las unidades administrativas correspondientes, el Congreso debe mantener actualizado el libro de las actas.
 
@@ -1423,7 +1433,9 @@ VIII. Directorio de la legislatura y los responsables de la publicación.
 
 La Mesa Directiva y en su caso, la Diputación Permanente ordenará, publicar las Leyes, Decretos y Acuerdos que emita el Congreso en el semanario de los debates.
 
-El Secretario del Congreso, por instrucciones del Presidente de la Mesa Directiva, vigilará la publicación del mismo.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+El Secretario del Servicios Legislativos y Parlamentarios, por instrucciones del Presidente de la Mesa Directiva, vigilará la publicación del mismo.
 
 En el semanario de los debates se registrará íntegramente los hechos ocurridos en las sesiones ordinarias, extraordinarias o de la Diputación Permanente.
 
@@ -1557,29 +1569,45 @@ En todo lo referente a la Auditoría Superior de Fiscalización, se estará a lo
 
 Los órganos administrativos del congreso, deberán presentar para su aprobación ante lo (sic) órgano de gobierno que le corresponda, las disposiciones administrativas que regularán su funcionamiento.
 
-### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DEL CONGRESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 159.
 
-La Secretaría del Congreso, contará con las siguientes unidades institucionales y profesionales de asistencia, asesoría y apoyo técnico parlamentario:
+La Secretaría de Servicios Legislativos y Parlamentarios, contará con las siguientes unidades institucionales y profesionales de asistencia, asesoría y apoyo técnico parlamentario:
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
 
 I. Dirección de Proceso Legislativo y Parlamentario;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
 II. Dirección de Desarrollo Legislativo;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
 
 III. Dirección Jurídica;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
+
 IV. La oficialía de partes; y
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
 
 V. Las unidades administrativas y el personal que se señalen en sus disposiciones administrativas internas de acuerdo con el presupuesto autorizado.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+
 El personal que integre las unidades institucionales y profesionales de asesoría y apoyo técnico parlamentario gozará de la estabilidad y seguridad en el empleo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 160.
 
-El Secretario del Congreso le corresponde, además de lo señalado por la ley:
+El Secretario de Servicios Legislativos y Parlamentarios le corresponde, además de lo señalado por la ley:
 
 I. El semanario de los debates, órgano oficial de difusión del Congreso, en el que se publicará la fecha y lugar en que se verifiquen la sesiones, el sumario, nombre del que preside, copia fiel del acta de la sesión anterior;
 
@@ -1591,13 +1619,17 @@ IV. Apoyar el desarrollo de las sesiones del pleno del Congreso con los medios q
 
 V. Revisar el cumplimiento del proceso legislativo que deriven en dictámenes y Acuerdos Parlamentarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 161.
 
-Corresponderá al Secretario del Congreso dar trámite y curso a la correspondencia oficial del Congreso, de acuerdo al siguiente procedimiento:
+Corresponderá al Secretario de Servicios Legislativos y Parlamentarios dar trámite y curso a la correspondencia oficial del Congreso, de acuerdo al siguiente procedimiento:
 
 I. Recibida que sea, analizará si cumple con los requisitos posteriormente establecidos y resolverá junto con el Presidente de la Mesa Directiva si la naturaleza del asunto exige que se registre en sesión de Congreso y dar trámite en la misma;
 
-II. En caso contrario a lo señalado en la fracción anterior, la Secretaría del Congreso, por instrucciones del Presidente de la Mesa Directiva, podrá contestar al solicitante lo que proceda conforme a derecho;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
+
+II. En caso contrario a lo señalado en la fracción anterior, la Secretaría de Servicios Legislativos y Parlamentarios, por instrucciones del Presidente de la Mesa Directiva, podrá contestar al solicitante lo que proceda conforme a derecho;
 
 III. Los asuntos que por disposición del Presidente de la Mesa Directiva sean turnados a alguna comisión de trabajo y que no se refieran a alguna iniciativa, deberán ser contestados por sus integrantes de forma directa a quien lo haya suscrito, en un plazo no mayor de 30 días.
 
@@ -1733,11 +1765,11 @@ La página de internet aludida en la fracción IV que antecede, no debe contener
 
 ### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN JURÍDICA
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2020)</small>
 
-ARTÍCULO 173 BIS.- La Dirección Jurídica es el órgano jurídico especializado del Congreso del Estado adscrito a la Secretaría del Congreso y dependiente de la Mesa Directiva, cuya función es la defensa del Poder Legislativo en los procesos jurídicos en los que éste sea parte, llevando a cabo sus actividades en forma programada y con base en los principios de integridad, honestidad, congruencia, eficacia, productividad y pertinencia.
+ARTÍCULO 173 BIS.- La Dirección Jurídica es el órgano jurídico especializado del Congreso del Estado adscrito a la Secretaría de Servicios Legislativos y Parlamentarios y dependiente de la Mesa Directiva, cuya función es la defensa del Poder Legislativo en los procesos jurídicos en los que éste sea parte, llevando a cabo sus actividades en forma programada y con base en los principios de integridad, honestidad, congruencia, eficacia, productividad y pertinencia.
 
-El titular de dicho Órgano será el Director Jurídico, quien dependerá en forma directa del Secretario del Congreso y de la Presidencia de la Mesa Directiva.
+El titular de dicho Órgano será el Director Jurídico, quien dependerá en forma directa del Secretario de Servicios Legislativos y Parlamentarios y de la Presidencia de la Mesa Directiva.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
 
@@ -1835,11 +1867,11 @@ Quienes hayan ocupado el cargo de diputado, podrán conservar dentro del Recinto
 
 (DEROGADO, P.O. 7 DE MAYO DE 2007)
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 179.
 
-El Congreso a través de la Secretaría del Congreso, llevará un libro de registro con fotografía de quienes hayan ocupado el cargo de Diputado. En el mismo se anotarán los nombres de quienes estén designados como sus beneficiarios, para el otorgamiento de la prestación que les confiere la Ley.
+El Congreso a través de la Secretaría de Servicios Legislativos y Parlamentarios, llevará un libro de registro con fotografía de quienes hayan ocupado el cargo de diputado. En el mismo se anotarán los nombres de quienes estén designados como sus beneficiarios, para el otorgamiento de la prestación que les confiere la Ley.
 
 ## TÍTULO DÉCIMO PRIMERO. DEL PÚBLICO ASISTENTE A LAS SESIONES
 
@@ -2180,3 +2212,43 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDA. El presente Decreto, entrara en vigor a partir de su aprobación por el Pleno de esta Asamblea Legislativa.
 
 TERCERA. Se instruye a los Titulares de la Secretaría de Servicios Legislativos y Secretaría de Administración y Finanzas para que realicen un calendario de honores a la bandera, tomando en cuenta las fechas que se establecen en la Ley sobre el Escudo, la Bandera y el Himno Nacionales, así como otras fechas o ceremonias con las que se tenga que cumplir y celebrar los honores respectivos, con el fin de que todas y todos las Diputadas y Diputados así como el personal del Congreso, estén previamente convocados a participar en las ceremonia (sic) de honores a la bandera.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS VEINTIDÓS POR EL QUE SE REFORMA EL ARTÍCULO 98 DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Aprobado el presente Decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación por el Pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS VEINTITRÉS POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 106 DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente Decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, óRgano (sic) de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación por el pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+QUINTA. El titular de la Mesa Directiva del Congreso del Estado de Morelos deberá emitir circular en un término de 10 días hábiles contados a partir de la vigencia del presente Decreto, con el fin de dar a conocer a las Diputadas, Diputados, Secretarías Técnicas de las Comisiones y demás Unidades Administrativas los correos electrónicos oficiales por medio de los cuales se remitirán las versiones de los formatos electrónicos de los dictámenes.
+
+Así mismo deberá indicar el área responsable de administrar el portal de la página web oficial del Congreso del Estado de Morelos para el efecto de que se les remita por correo electrónico oficial y autorizado, los formatos electrónicos en PDF de los dictámenes rubricados por los diputados y diputadas presidentas de las Comisiones Legislativas para su publicación, en cumplimiento de lo dispuesto por el artículo 46 y 53 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS VEINTISÉIS POR EL QUE SE REFORMAN LA FRACCIÓN XXVIII DEL ARTÍCULO 36 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS; PRIMER PÁRRAFO DEL ARTÍCULO 142, SEGUNDO PÁRRAFO DEL ARTÍCULO 144, LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO, LOS ARTÍCULOS 159, 160, 161, 173 BIS Y 179, TODOS DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente Decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación por el Pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
