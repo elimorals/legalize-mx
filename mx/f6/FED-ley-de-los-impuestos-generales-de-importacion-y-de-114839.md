@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-114839"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2020-09-03"
+last_updated: "2020-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114839&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -81465,3 +81465,7 @@ SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerd
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 3 DE SEPTIEMBRE DE 2020.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN”.]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 22 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN".]</small>
