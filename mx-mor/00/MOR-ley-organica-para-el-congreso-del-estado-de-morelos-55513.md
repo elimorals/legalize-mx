@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2020-03-11"
+last_updated: "2020-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -223,9 +223,11 @@ IX. Contar con los recursos materiales y humanos necesarios para el cumplimiento
 
 X. Contar con la asesoría del personal técnico y profesional en función de las comisiones a las que pertenezcan;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
 
-XI. En caso de fallecimiento, sus beneficiarios percibirán el equivalente a seis meses del total de la dieta. Quien hubiera sido parte de una anterior legislatura, tendrá derecho después de los sesenta años de edad a recibir previa su solicitud la suma de ciento ocho días del equivalente al total de la dieta vigente en la legislatura en curso, reservándose los otros setenta y dos días restantes de esa prestación a sus beneficiarios por su fallecimiento, o bien, en su defecto aquellos últimos tendrán derecho a percibir el equivalente a los ciento ochenta días del total de la dieta, para lo cual se deberá hacer la designación en los términos del Reglamento para el Congreso del Estado de Morelos; si no se designa beneficiario, ésta se pagará a la persona física que acredite ser su heredero en términos de la legislación civil vigente. Este beneficio se aplicará sólo a los diputados que desarrollaron su labor por un mínimo de dos años en la legislatura correspondiente.
+XI. En caso de fallecimiento, sus beneficiarios percibirán el equivalente a seis meses del total de la dieta. Quien hubiera sido parte de una anterior legislatura, tendrá derecho después de los sesenta años de edad o por acreditar que padece enfermedad grave, a recibir previa su solicitud la suma de ciento ocho días del equivalente al total de la dieta vigente en la legislatura en curso, reservándose los otros setenta y dos días restantes de esa prestación a sus beneficiarios por su fallecimiento, o bien, en su defecto aquellos últimos tendrán derecho a percibir el equivalente a los ciento ochenta días del total de la dieta, para lo cual se deberá hacer la designación en los términos del Reglamento para el Congreso del Estado de Morelos; si no se designa beneficiario, ésta se pagará a la persona física que acredite ser su heredero en términos de la legislación civil vigente. Este beneficio se aplicará sólo a los diputados que desarrollaron su labor por un mínimo de dos años en la legislatura correspondiente.
+
+Para acreditar la enfermedad grave se deberá de anexar a la solicitud el resumen del diagnóstico clínico y la prescripción médica, otorgada por una institución pública o privada debidamente acreditadas por las autoridades de salud, cédula profesional vigente del médico que lo prescribe, firma, sello y membrete de la institución.
 
 XII. Gestionar ante las autoridades correspondientes la atención de las solicitudes que se presenten;
 
@@ -581,9 +583,9 @@ XXVI. Hacer cumplir al Secretario de Administración y Finanzas, la exhibición 
 
 XXVII. Vigilar que el Secretario de Administración y Finanzas y los servidores públicos que manejen fondos o valores, otorguen y mantengan vigentes las fianzas a que hace referencia el presente ordenamiento;
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
 
-XXVIII. Designar a los Encargados de Despacho de la Secretaría del Congreso y/o de la Secretaría de Administración y Finanzas, así como a los encargados de despacho de aquéllas áreas del Congreso donde existan ausencias temporales o definitivas que sean de su competencia, con las excepciones previstas en la Ley y el Reglamento;
+XXVIII. Designar a los Encargados de Despacho de la Secretaría de Servicios Legislativos y Parlamentarias y/o de la Secretaría de Administración y Finanzas, así como a los encargados de despacho de aquéllas áreas del Congreso donde existan ausencias temporales o definitivas que sean de su competencia, con las excepciones previstas en la Ley y el Reglamento;
 
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -3008,3 +3010,27 @@ Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo
 Artículo Segundo.- El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
 
 Artículo Tercero.- Se Instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS VEINTICINCO POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 18 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente Decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación por el Pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 22 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO NÚMERO SETECIENTOS VEINTISÉIS.- POR EL QUE SE REFORMAN LA FRACCIÓN XXVIII DEL ARTÍCULO 36 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS; PRIMER PÁRRAFO DEL ARTÍCULO 142, SEGUNDO PÁRRAFO DEL ARTÍCULO 144, LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO, LOS ARTÍCULOS 159, 160, 161, 173 BIS Y 179, TODOS DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA.- Aprobado el presente Decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir de la aprobación por el Pleno del Congreso del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA.- Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los Decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
