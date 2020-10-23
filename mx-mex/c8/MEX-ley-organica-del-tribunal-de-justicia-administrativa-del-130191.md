@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-tribunal-de-justicia-administrativa-del-130191
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-31"
-last_updated: "2018-08-31"
+last_updated: "2020-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2020.
 
 Ley publicada en la Décimo Primera Sección de la Gaceta del Gobierno del Estado de México, el viernes 31 de agosto de 2018.
 
@@ -303,9 +303,9 @@ XXXII. Determinar el envío de expedientes para su trámite o resolución, de la
 
 XXXIII. Cambiar de adscripción a las y los servidores públicos del Tribunal por exigencias propias del servicio, previa opinión de la o el titular de las áreas de adscripción;
 
-XXXIV. Emitir la convocatoria para ocupar el cargo de Titular del Órgano Interno de Control del Tribunal y proponer la terna correspondiente ante la Legislatura Local y sea designado conforme a lo señalado en la Constitución Local;
+XXXIV. (DEROGADA, G.G. 23 DE OCTUBRE DE 2020)
 
-XXXV. Proponer la ratificación del Titular del Órgano Interno de Control, ante la Legislatura Local, una vez concluido el periodo ordinario para el que fue nombrado, cuando así lo considere la Junta; y
+XXXV. (DEROGADA, G.G. 23 DE OCTUBRE DE 2020)
 
 XXXVI. Las que señale esta Ley, el Reglamento y las demás disposiciones aplicables.
 
@@ -417,7 +417,7 @@ La o el Vicepresidente tiene como atribuciones, las siguientes:
 
 I. Coordinar y supervisar las acciones en materia de capacitación y profesionalización que se realizan en el Tribunal, debiendo acordar con la o el Director del Instituto de Justicia Administrativa, las gestiones y labores indispensables para la preparación y desarrollo del personal jurídico y administrativo;
 
-II. Presidir el Comité de Transparencia del Tribunal y requerir a las áreas para su debido cumplimiento las obligaciones que, en materia de transparencia, acceso a la información y protección de los datos personales, establezca la normatividad aplicable;
+II. (DEROGADA, G.G. 23 DE OCTUBRE DE 2020)
 
 III. Suplir las ausencias de la o el Presidente del Tribunal, en el Pleno y en la Junta; y
 
@@ -1277,23 +1277,57 @@ XIV. Las demás que le señalen otras disposiciones legales aplicables.
 
 ## TÍTULO OCTAVO. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 80.
 
-El Tribunal contará con un Órgano Interno de Control con autonomía de gestión para el ejercicio de sus atribuciones, que será designado en los términos establecidos en la Constitución local, quien durará en su encargo tres años, pudiendo ser ratificado para un periodo igual y tendrá las facultades que le confieren la presente Ley y su Reglamento.
+El Tribunal contará con un Órgano Interno de Control con autonomía de gestión para el ejercicio de sus atribuciones, cuyo titular será designado por la Legislatura del Estado, en los términos establecidos en la Constitución local; así como en la legislación aplicable.
+
+El titular o la titular del Órgano Interno de Control durará en su encargo cinco años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley.
+
+Además de las señaladas en la presente Ley, son facultades y obligaciones del titular del Órgano Interno de Control rendir un informe anual de actividades a la Junta de Gobierno y Administración del Tribunal, del cual marcará copia al Poder Legislativo del Estado; así como abstenerse de desempeñar cualquier otro empleo, cargo, trabajo o comisión públicos o privados, en el ámbito federal o local en términos de las normas aplicables, con excepción de los cargos docentes.
 
 ###### Artículo 81.
 
 Para ser titular del Órgano Interno de Control se deberán cumplir los siguientes requisitos:
 
-I. Ser mexicano;
+> <small>(REFORMADA, G.G. 23 DE OCTUBRE DE 2020)</small>
 
-II. Ser mayor de treinta años de edad;
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
 
-III. Contar con reconocida buena conducta;
+(NOTA: EL 18 DE ENERO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 300/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE ENERO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-IV. Ser Licenciado en Derecho o materias afines a la misma; y
+> <small>(REFORMADA, G.G. 23 DE OCTUBRE DE 2020)</small>
 
-V. Experiencia en materia administrativa y funciones del Tribunal de Justicia Administrativa.
+II. Gozar de buena reputación Y NO HABER SIDO CONDENADO POR DELITO DOLOSO QUE AMERITE PENA DE PRISIÓN POR MÁS DE UN AÑO;
+
+> <small>(REFORMADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, transparencia y acceso a la información pública y de responsabilidades administrativas;
+
+> <small>(REFORMADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+IV. Contar con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+(NOTA: EL 18 DE ENERO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 300/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE ENERO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+V. CONTAR CON RECONOCIDA SOLVENCIA MORAL;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Tribunal de Justicia Administrativa, o haber fungido como consultor o auditor externo del Tribunal;
+
+(NOTA: EL 18 DE ENERO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 300/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE ENERO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+VII. No estar suspendido NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO, NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA FEDERAL O LOCAL EN TÉRMINOS DE LAS NORMAS APLICABLES, y
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+VIII. No haber sido Secretario de Estado, Fiscal General de Justicia, Diputado, miembro de la Junta de Gobierno y Administración, responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
 
 ###### Artículo 82.
 
@@ -1331,7 +1365,45 @@ XV. Expedir las constancias de no inhabilitación del personal del Tribunal;
 
 XVI. Auditar el Fondo Auxiliar para la Justicia Administrativa; y
 
-XVII. Las demás que determinen las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XVII. Promover las acciones que coadyuven a mejorar la gestión de las unidades administrativas del Tribunal, cuando derivado de la atención de los asuntos de su competencia así se determine;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XVIII. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, según corresponda en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XIX. Realizar la defensa jurídica de las resoluciones que emitan, ante las diversas instancias jurisdiccionales;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XX. Expedir las copias certificadas de los documentos que se encuentren en los archivos del Órgano Interno de Control;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XXI. Presentar denuncias por los hechos que las leyes señalen como delitos ante la Fiscalía General de Justicia del Estado de México o, en su caso, ante la instancia competente;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XXII. Solicitar mediante exhorto o carta rogatoria, la colaboración de las autoridades competentes del lugar de la preparación o desahogo de las pruebas, cuando sea fuera de su competencia territorial;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XXIII. Requerir a las unidades administrativas del Tribunal, la información necesaria para cumplir con sus atribuciones y brindar la asesoría que les requieran en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XXIV. Participar o comisionar a un representante en los procesos de entrega y recepción de las unidades administrativas del Tribunal, verificando su apego a la normatividad correspondiente;
+
+> <small>(ADICIONADA, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XXV. Ser integrante de los Comités de Transparencia; de Adquisiciones y servicios, y de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones del Tribunal; y demás Órganos Colegiados que en términos de ley y las demás disposiciones aplicables les correspondan, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 23 DE OCTUBRE DE 2020)</small>
+
+XXVI. Las que determine la Ley de Responsabilidades Administrativas del Estado de México y Municipios, Ley del Sistema Anticorrupción del Estado de México y Municipios y demás disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -1372,3 +1444,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. SERGIO ALEJANDRO OZUNA RIVERO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 23 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 194.- POR EL QUE SE REFORMA EL ARTÍCULO 80, LAS FRACCIONES I, II, III, IV, V DEL ARTÍCULO 81, LA FRACCIÓN XVII DEL ARTÍCULO 82; SE ADICIONAN LAS FRACCIONES VI, VII, VIII AL ARTÍCULO 81, LAS FRACCIONES XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV Y XXVI AL ARTÍCULO 82; Y SE DEROGAN LAS FRACCIONES XXXIV Y XXXV DEL ARTÍCULO 17, LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO. El presente Decreto entrara´ en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
