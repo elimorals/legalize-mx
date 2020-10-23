@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-12-20"
+last_updated: "2020-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Quinta de la Gaceta Oficial del Estado de México, el miércoles 4 de mayo de 2016.
 
@@ -447,9 +447,13 @@ III. Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 IV. No ser Secretario del despacho, Procurador General de Justicia del Estado, Senador, Diputado federal o local, o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
 
-Si no se hubieren aprobado las designaciones de quienes habrán de desempeñar el cargo de Comisionados, seguirán en vigor los nombramientos anteriores hasta en tanto la Legislatura del Estado apruebe la designación de los nuevos.
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2020)</small>
 
-En ningún caso se entenderá esto como ratificación del encargo.
+Las personas designadas para ocupar el cargo de Comisionados, desempeñarán sus funciones exclusivamente durante el periodo para el que fueron nombrados.
+
+> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2020)</small>
+
+En un plazo de sesenta días hábiles anteriores a la fecha en que concluya su cargo, la Comisionada o Comisionado que deje su puesto, dará cuenta de ello a la Legislatura para que proceda a cubrir la vacante, en términos del artículo anterior.
 
 ###### Artículo 32.
 
@@ -2888,3 +2892,13 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 23 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 195.- POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 31 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
