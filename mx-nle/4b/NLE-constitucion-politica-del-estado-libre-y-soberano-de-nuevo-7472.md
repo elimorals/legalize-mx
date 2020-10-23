@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-07-17"
+last_updated: "2020-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -4121,59 +4121,27 @@ VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en l
 
 Quedan para siempre prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquiera especie, la multa excesiva, la confiscación de bienes y cualquiera otras penas inusitadas o trascendentales.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2020)</small>
 
-Toda pena deberá ser proporcional al delito que sancione al bien jurídico afectado.
+Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
 No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito, o un tribunal administrativo para el pago de daños y perjuicios derivados de responsabilidades administrativas.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2020)</small>
 
-Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de la Ley; la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia.
+Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de la Ley; la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables.
 
-(NOTA: EL 1 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.6.B., VIII.9. Y VIII.10., ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 169/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
+Los delitos o faltas administrativas de servidores públicos del Estado o sus municipios, así como de particulares vinculados con los mismos, serán sancionados conforme al código penal, la ley aplicable a responsabilidades administrativas y los ordenamientos municipales emitidos legalmente, según corresponda.
 
-Los delitos o faltas administrativas de servidores públicos del Estado o sus municipios, así como de particulares vinculados con los mismos, serán sancionados conforme al código penal, la ley aplicable a responsabilidades administrativas y los ordenamientos municipales emitidos legalmente, según corresponda. PARA EFECTO DE LA REPARACIÓN DEL DAÑO Y, EN SU CASO, PARA LA APLICACIÓN DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO, SE ESTARÁ A LO PREVISTO POR ESTE ARTÍCULO.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 23 DE OCTUBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 23 DE OCTUBRE DE 2020)</small>
 
-En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
-
-I. Será jurisdiccional y autónomo de cualquier otro procedimiento;
-
-(NOTA: EL 1 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.6.B., VIII.9. Y VIII.10., ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 169/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
-
-II. Procederá en los casos de secuestro, HECHOS DE CORRUPCIÓN, robo de vehículos, trata de personas, y enriquecimiento ilícito respecto de los bienes siguientes:
-
-a) Aquellos que sean instrumento, objeto o producto del hecho ilícito, aun cuando no se haya dictado la sentencia que determine la responsabilidad, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
-
-b) Aquellos que no sean instrumento, objeto o producto del hecho ilícito pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del hecho ilícito, siempre y cuando se reúnan los extremos del inciso anterior.
-
-c) Aquellos que estén siendo utilizados para la comisión de hechos ilícitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
-
-d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de hechos ilícitos y el acusado por estos hechos ilícitos se comporte como dueño.
-
-(NOTA: EL 1 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.6.B., VIII.9. Y VIII.10., ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 169/2017, DECLARÓ LA INVALIDEZ DEL INCISO e) DE LA FRACCIÓN II DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-e) AQUELLOS CUYO VALOR DE ADQUISICIÓN O VALOR DE MERCADO, CONJUNTA O INDIVIDUALMENTE, EXCEDA LOS INGRESOS NETOS QUE PUEDAN ACREDITARSE LEGÍTIMAMENTE.
-
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
-
-Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
-
-(NOTA: EL 1 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.6.B., VIII.9. Y VIII.10., ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 169/2017, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
-
-LA ACCIÓN DE EXTINCIÓN DE DOMINIO, EN EL CASO DE LOS BIENES QUE SEAN PRODUCTO DE UN HECHO ILÍCITO, SERÁ IMPRESCRIPTIBLE.
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 23 DE OCTUBRE DE 2020)</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
 
@@ -5492,3 +5460,9 @@ P.O. 17 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 332. SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 364. SE REFORMAN LOS PÁRRAFOS SEGUNDO, CUARTO Y QUINTO Y SE DEROGAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
