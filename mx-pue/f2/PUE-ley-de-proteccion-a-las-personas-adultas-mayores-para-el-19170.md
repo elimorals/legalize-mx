@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2020-10-02"
+last_updated: "2020-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -83,11 +83,21 @@ I.- Autonomía y autorrealización: Consiste en todas las acciones que se realic
 
 II.- Participación: Consiste en la inserción de las personas adultas mayores en todos los órdenes de la vida pública. En los ámbitos de su interés, serán consultados y tomados en cuenta; asimismo se promoverá su presencia e intervención;
 
-III.- Equidad: Consiste en el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios, para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2020)</small>
 
-IV.- Corresponsabilidad: Consiste en la concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley; y
+III.- Equidad y no discriminación: Consiste en el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios, así como en las medidas que se dirigen para superar las desigualdades existentes, para el bienestar de las personas adultas mayores, el otorgamiento de oportunidades y condiciones de acceso y disfrute de sus derechos, servicios y satisfactores necesarios, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
 
-V.- Atención preferente: Consiste en obligar a las instituciones estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+IV.- Corresponsabilidad: Consiste en la concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+V.- Atención diferenciada y preferente: Consiste en obligar a las instituciones estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas y ejercer acciones acordes a las diferentes etapas, características, condiciones y circunstancias de las personas adultas mayores, que tienden a facilitar, impulsar y mejorar su bienestar social, sin que ello pueda ocasionar discriminación hacia otros sectores; y
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+VI.- Protección integral: Consiste en la obligatoriedad de la observancia irrestricta de los derechos humanos de las personas adultas mayores como un sistema indivisible que deberá orientarse a la prevención de cualquier situación de riesgo, abuso o vulneración y la procuración de la restitución o reparación inmediata de los derechos vulnerados y los intereses o garantías afectadas.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -662,6 +672,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 2, LA FRACCIÓN IX DEL 3, LA FRACCIÓN IX DEL 3 BIS, LAS FRACCIONES V, XV Y XVI DEL 4, LA FRACCIÓN IV DEL 25, PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y III DEL 33 Y 44; Y ADICIONA LA FRACCIÓN XVII AL 4 Y LAS FRACCIONES IV, V Y VI AL 33; TODOS DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, IV Y V DEL ARTÍCULO 2 BIS Y ADICIONA LA FRACCIÓN VI AL 2 BIS DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
