@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-obras-publicas-y-servicios-relacionados-con-las-115249"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-20"
-last_updated: "2020-10-05"
+last_updated: "2020-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE OCTUBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de junio de 2016.
 
@@ -2799,8 +2797,32 @@ Artículo Segundo. El Poder Ejecutivo, a través de la Secretaría de Innovació
 
 Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Artículo Cuarto. Las instituciones deberán de adecuar su normativa interna, así como integrar sus comités de obra pública y servicios relacionados con las mismas en un plazo máximo de sesenta días hábiles a la entrada en vigor de este decreto.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+Artículo Cuarto. Las instituciones deberán adecuar su normativa interna, así como integrar sus comités de obra pública y servicios relacionados con las mismas a más tardar el 31 de diciembre de 2020.
+
+En tanto se designan los tres ciudadanos por parte del Comité de Participación Ciudadana y en consecuencia se integran e instalan los Comités de Obras y Servicios Relacionados con las Mismas conforme a la fecha mencionada en el párrafo anterior, continuarán funcionando los Comités actuales con la estructura y organización que cuentan.
+
+Y en caso de que para el procedimiento de convocatoria de designación de las tres ciudadanas o ciudadanos que conformarán cada uno de los Comités de Obras y Servicios Relacionados con las Mismas de las instituciones no hubiera participación alguna de los gremios y organizaciones mencionadas en los párrafos primeros de la fracción VI de los artículos 35, 36, 37 y 38 de la presente ley, por única ocasión el Comité de Participación Ciudadana les solicitará de nueva cuenta mediante oficio que designen a quienes enviarán para integrar los Comités de las instituciones respectivas.
+
+Una vez que los gremios envíen las (sic) personas propuestas igualmente, por única ocasión, el Comité de Participación Ciudadana los designará directamente para integrar a los Comités de las Instituciones que correspondan.
+
+Los órganos internos de control de las instituciones, deberán emitir lineamientos o reglas procedimentales para los efectos de la acreditación de las asociaciones civiles, organizaciones empresariales, colegios e instituciones académicas y organizaciones estatales del transporte de mayor representación en el Estado referidos en la fracción VI de los artículos 35, 36, 37 y 38 de la presente ley.
 
 Artículo Quinto. Los órganos internos de control de las instituciones tendrán un plazo de noventa días para crear el padrón de testigos sociales en función de la cantidad de obras a ejecutarse.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+En caso de que el procedimiento de selección de los testigos sociales sea declarado desierto porque no hubo poder de convocatoria y por lo tanto no pueda ser integrado el padrón dentro del plazo de los 90 días a que alude el párrafo anterior o bien si aún conformado no se logran cubrir la totalidad de las obras a ejecutar con los que están registrados, los Comités podrán realizar sus procedimientos de licitación sin testigos sociales hasta en tanto en convocatorias subsecuentes se registran más testigos en los padrones, atento en lo dispuesto por el último párrafo del artículo 40 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+No obstante los testigos sociales a que se refiere la parte final del párrafo anterior que sean asignados a procedimientos de licitación una vez que se hayan desocupado de los mismos, las instituciones los deberán asignar a otros para que participen a partir de cualquier etapa previa a la emisión del fallo respectivo; esto en tanto se registran más testigos sociales y se integra en su totalidad en número suficiente el padrón para cubrir las obras que se hayan programado para el ejercicio fiscal que corresponda.
+
 Artículo Sexto. Lo dispuesto en los artículos 71, fracción VII y 79, relativo al pago de los gastos por financiamiento que podrá cobrar el contratista a la contratante, entrará en vigor a partir del 1 de enero de 2021, una vez que se estipule la tasa de referencia por las prórrogas para el cobro de créditos fiscales en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa.
+
+P.O. 23 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 512 DECRETO POR EL QUE SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 456 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
