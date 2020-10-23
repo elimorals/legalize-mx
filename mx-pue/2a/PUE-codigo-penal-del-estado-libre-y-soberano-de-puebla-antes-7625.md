@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2020-10-13"
+last_updated: "2020-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -5817,7 +5817,7 @@ Artículo 436 Terdecies.- Al prófugo no se le contará el tiempo que estuviere 
 
 #### SECCIÓN ÚNICA
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 437.
 
@@ -6095,11 +6095,19 @@ En las actividades que desarrollen el o los policías que ejecuten la orden, se 
 
 ###### Artículo 470.
 
-Al que mediante acción u omisión, realice actos de maltrato o crueldad en contra de cualquier animal con la intención de ocasionarle dolor, sufrimiento o afectar su bienestar, de manera ilícita o sin causa justificada, provocándole lesiones que no pongan en peligro la vida, se le impondrán de seis meses a dos años de prisión y multa de cincuenta a cien días de salario.
+Al que, mediante acción u omisión, realice actos de maltrato o crueldad en contra de cualquier animal con la intención de ocasionarle dolor, sufrimiento o afectar su bienestar, de manera ilícita o sin causa justificada, provocándole lesiones que no pongan en peligro la vida, se le impondrán de seis meses a cuatro años de prisión y multa de cincuenta a trescientas unidades de medida y actualización vigente al momento que se cometa el delito.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 Si las lesiones ponen en peligro la vida del animal, las penas se incrementará (sic) en una mitad.
 
-Si los actos de maltrato o crueldad provocan la muerte del animal, se impondrán de dos a cuatro años de prisión y multa de doscientos a cuatrocientos días de salario.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+Si los actos de maltrato o crueldad provocan la muerte del animal, se impondrán de cuatro a ocho años de prisión y multa de doscientas a quinientas unidades de medida y actualización vigente al momento que se cometa el delito.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+En cualquiera de los casos anteriores, se incrementará la sanción en un tercio más de las señaladas, cuando concurra que dichas conductas sean cometidas con medios violentos como armas y explosivos.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -6130,6 +6138,18 @@ Se impondrá de uno a cuatro años de prisión y multa de doscientos a cuatrocie
 ###### Artículo 474.
 
 Se exceptúan de las disposiciones anteriores, los espectáculos de tauromaquia, charrería y peleas de gallos; así como los relacionados con fiestas tradicionales y usos y costumbres.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 474 Bis.
+
+A quien se apropie de un animal de compañía sin el consentimiento de su propietario se le impondrán de seis meses a dos años de prisión y de cien a doscientas cincuenta unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 474 Ter.
+
+A quien por medio de un animal de compañía extorsione solicitando a cambio de su restitución un beneficio económico o en especie se le impondrá de uno a cuatro años de prisión y de doscientas a quinientas unidades de medida y actualización.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -6956,6 +6976,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 306, EL PRIMER PÁRRAFO DEL 330 BIS, EL 344, EL PRIMER PÁRRAFO DEL 355, EL PRIMER PÁRRAFO DEL 357, Y EL 358; Y ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL 330 BIS, EL 330 TER, Y EL 357 BIS; TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER Y EL TERCER PÁRRAFO DEL ARTÍCULO 470, Y ADICIONA UN CUARTO PÁRRAFO AL 470, Y LOS ARTÍCULOS 474 BIS Y 474 TER AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
