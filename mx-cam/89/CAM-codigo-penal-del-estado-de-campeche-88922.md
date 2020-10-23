@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2020-05-29"
+last_updated: "2020-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -3043,7 +3043,9 @@ II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después 
 
 III. Teniendo conocimiento por razón de su empleo, cargo o comisión de cualquier acto u omisión que puedan afectar gravemente el patrimonio o los intereses de alguna dependencia, entidad, órgano, poder o ente de los mencionadas (sic) en el artículo 89 de la Constitución Política del Estado, y no lo informe por escrito a su superior jerárquico, o no lo evite si está dentro de sus facultades;
 
-IV. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+IV. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente por cualquier medio, información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión en alguna dependencia, entidad, órgano, poder o ente de los mencionadas (sic) en el artículo 89 de la Constitución Política del Estado.
 
 V. Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos;
 
@@ -4041,6 +4043,10 @@ II. La suspensión, modificación o demolición de las construcciones, obras o a
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2014)</small>
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 363.
 
 (DEROGADO, P.O. 27 DE JUNIO DE 2014)
@@ -4190,6 +4196,22 @@ La autoridad judicial o ministerial deberá asegurar y resguardar los animales e
 ###### Artículo 387.
 
 Se exceptúan de las disposiciones anteriores, los espectáculos tradicionales de fiestas mexicanas consistentes en charrería, tauromaquia, peleas de gallos, carreras de caballos y otros animales, las actividades cinegéticas y las de pesca, autorizadas por las instancias legales.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+## TÍTULO VIGÉSIMO SÉPTIMO. DELITOS INFORMÁTICOS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 388.
+
+Sin perjuicio de las sanciones que correspondan por la comisión de otros delitos, se impondrán de dos a cinco años de prisión y multa de trescientas a cuatrocientas Unidades de Medida y Actualización a quien dolosamente y sin derecho:
+
+I. Por medio de un ordenador accese a una o más bases de datos de sistemas informáticos con el propósito de conocer, copiar, alterar o destruir la información que contengan.
+
+II. A través de medios informáticos o electrónicos, Intercepte, interfiera, reciba, use, altere o destruya un sistema, soporte o programa de cómputo o los datos contenidos en este.
+
+III. Sirviéndose de medios informáticos o electrónicos, altere o configure dispositivos de la misma naturaleza, para obtener, modificar o transmitir información.
 
 ## TRANSITORIOS
 
@@ -4458,3 +4480,13 @@ PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes al momento de la comisión del ilícito que corresponda.
+
+P.O. 23 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 159 POR EL QUE “SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 286 Y SE ADICIONA UN TÍTULO VIGÉSIMO SÉPTIMO DENOMINADO “DELITOS INFORMÁTICOS”, CON UN CAPÍTULO ÚNICO Y UN ARTÍCULO 388 AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido de este decreto
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
