@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2020-09-23"
+last_updated: "2020-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 23 DE OCTUBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2020.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -7767,6 +7767,8 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 16 PROCEDIMIENTO PARA LA DESTRUCCIÓN DE DOCUMENTACIÓN ELECTORAL, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 125 A LA 128.]</small>
 
+> <small>[N. DE E. VÉASE ANEXO 19.3 PROCEDIMIENTO Y PROTOCOLO DE SEGURIDAD PARA LA GENERACIÓN, IMPRESIÓN, ENTREGA, DEVOLUCIÓN Y DESTRUCCIÓN DE LAS LISTAS NOMINALES DE ELECTORES PARA SU USO EN LAS JORNADAS ELECTORALES, EN EL D.O.F. DE 23 DE OCTUBRE DE 2020, PÁGINA 441.]</small>
+
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 12 DE DICIEMBRE DE 2016.
@@ -8864,5 +8866,31 @@ El contenido de este Acuerdo y sus anexos se pueden consultar en el Acuerdo Orig
 https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/114537/CGex202009-04-ap-4.pdf
 
 DOF: www.dof.gob.mx/2020/INE/CGext202009_04_ap_4.pdf
+
+D.O.F. 23 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO INE/CRFE56/06SE/2020 DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL ANEXO 19.3 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO. Se aprueban las modificaciones al Anexo 19.3 del RE, con fundamento en el artículo 443, párrafo 1, del propio Reglamento, de conformidad con el Anexo que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se instruye a la Secretaría Técnica de la Comisión, dar a conocer este Acuerdo y su Anexo a la Dirección Jurídica, para que dicha Unidad Técnica cuente con un registro de las modificaciones a los Anexos del RE.
+
+TERCERO. Hágase del conocimiento de la Comisión Nacional de Vigilancia lo aprobado por esta Comisión Permanente.
+
+CUARTO. El presente Acuerdo entrará en vigor el día de su aprobación por esta Comisión. […]
+
+## TRANSITORIO
+
+ÚNICO. Para el caso de los Procesos Electorales Locales 2019-2020 en las entidades de Coahuila e Hidalgo, cuya Jornada Electoral tendrá lugar el 18 de octubre de 2020, las representaciones de los Partidos Políticos y, en su caso, las Candidaturas Independientes que así lo determinen, podrán solicitar por escrito al INE o al OPL de la entidad correspondiente, que no les sean entregados los ejemplares impresos o cuadernillos de la LNEDF, a más tardar el 11 de septiembre de 2020.
+
+El Acuerdo completo y Anexo que forma parte integral del mismo, están disponibles para consulta en la dirección electrónica:
+
+https://repositoriodocumental.ine.mx/xmlui/handle/123456789/114556
+
+Página DOF: www.dof.gob.mx/2020/INE/Acuerdo-INE-CRFE56-06SE-2020.pdf
+
+Ciudad de México, 3 de septiembre de 2020.- El Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
