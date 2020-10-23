@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2019-11-22"
+last_updated: "2020-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE EDUCACION DEL ESTADO DE GUERRERO NUM. 158
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERNO DE GUERRERO, PUBLICADA EN EL P.O. DE 23 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NÚM. 158
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -2066,3 +2068,25 @@ Dentro de los seis meses posteriores a la entrada en vigor de este decreto de re
 ###### ARTÍCULO CUARTO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 23 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley de Educación del Estado de Guerrero Núm. 158, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero No. 32 de fecha 21 de abril de 1995 y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a esta Ley.
+
+TERCERO. La autoridad educativa estatal deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en esta Ley, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a esta Ley.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de esta Ley, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo, a la disponibilidad presupuestaria que se apruebe, para tal fin al sector educativo en el ejercicio fiscal de que se trate lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+QUINTO. Las autoridades educativas en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en esta Ley; hasta en tanto, las autoridades educativas no realizará ninguna acción derivada de la aplicación de dichas disposiciones.
+
+SEXTO. La Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado, prevista en el artículo 29 de esta Ley deberá quedar instalada en un plazo de sesenta días contados a partir de la entrada en vigor del mismo.
+
+SÉPTIMO. El sistema integral de formación, capacitación y actualización del Estado, previsto en el artículo 88 de esta Ley deberá instalarse antes de finalizar el año 2020.
+
+OCTAVO. El Programa Educativo Estatal previsto en el artículo 105 de esta Ley se presentará en un plazo no mayor a sesenta días contados a la entrada en vigor de la misma. Dicho Programa se actualizará en el caso de los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en esta Ley.
