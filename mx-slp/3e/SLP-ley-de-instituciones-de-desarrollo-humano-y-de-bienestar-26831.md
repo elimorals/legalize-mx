@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-instituciones-de-desarrollo-humano-y-de-bienestar-26831"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-03"
-last_updated: "2020-09-10"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE INSTITUCIONES DE DESARROLLO HUMANO Y DE BIENESTAR SOCIAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 3 de diciembre del 2002.
 
@@ -99,13 +99,17 @@ XV. Fortalecer el desarrollo sustentable regional y comunitario y, en general, f
 
 XVI. Realizar acciones de prevención y protección civil;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XVII. Fortalecer el desarrollo de los pueblos indígenas, y
+XVII. Fortalecer el desarrollo de los pueblos indígenas;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XVIII. Desarrollar y promover acciones que propicien el establecimiento de políticas públicas encaminadas a instaurar entre la población medidas de salud preventiva, y
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-XVIII. Las demás que a juicio del Consejo de Desarrollo Humano y Bienestar Social, tengan relación con las actividades señaladas o coadyuven al mejoramiento de las condiciones de vida de los individuos, la sociedad y el desarrollo del Estado.
+XIX. Las demás que a juicio del Consejo de Desarrollo Humano y Bienestar Social, tengan relación con las actividades señaladas o coadyuven al mejoramiento de las condiciones de vida de los individuos, la sociedad y el desarrollo del Estado.
 
 ###### ARTICULO 4°.
 
@@ -934,3 +938,11 @@ P.O. 10 DE SEPTIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0775.- SE REFORMA EL ARTÍCULO 3° EN SU FRACCIÓN XVII; Y ADICIONA AL MISMO ARTÍCULO 3° UNA FRACCIÓN, ÉSTA COMO XVIII, DE LA LEY DE INSTITUCIONES DE DESARROLLO HUMANO Y DE BIENESTAR SOCIAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
