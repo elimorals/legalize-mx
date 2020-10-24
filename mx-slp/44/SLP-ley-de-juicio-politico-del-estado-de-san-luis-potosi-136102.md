@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juicio-politico-del-estado-de-san-luis-potosi-136102"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-16"
-last_updated: "2019-08-20"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de abril de 2019.
 
@@ -241,11 +241,15 @@ Recibida la denuncia por las citadas comisiones revisarán de oficio si se actua
 
 Si las comisiones encuentran que la denuncia no encuadra en las causas de procedencia de juicio político que establece esta Ley, de manera fundada y motivada desecharán la misma, lo que se notificará al promovente. Contra esta resolución no existe recurso alguno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 21.
 
-Si la denuncia es procedente la Comisión Instructora, para mejor proveer, en su caso, podrá solicitar al denunciante que en un término de cinco días aclare o complemente la denuncia.
+Si la denuncia es procedente, la Comisión Instructora, para mejor proveer, en su caso, requerirá personalmente al denunciante, para que, en un término de cinco días hábiles, aclare o complemente la denuncia si ésta fuere vaga o imprecisa. En caso de que el denunciante no diere cumplimiento al requerimiento dentro del término legal concedido, se procederá a su desechamiento en términos del artículo 17 de esta Ley.
 
-Recibida y, en su caso, aclarada o complementada la denuncia, correrá traslado al servidor, o servidores públicos imputados, con una copia de la misma y de los documentos anexos, a fin de que queden debidamente impuestos de los hechos materia de la acusación y provean lo conducente a su defensa. En el mismo acto requerirá al servidor público denunciado un informe respecto de los hechos que se le imputan.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Recibida y, en su caso, aclarada o complementada la denuncia, correrá traslado al servidor, o servidores públicos imputados, con una copia certificada de la misma y de los documentos anexos, a fin de que queden debidamente impuestos de los hechos materia de la acusación y provean lo conducente a su defensa. En el mismo acto requerirá al servidor público denunciado un informe respecto de los hechos que se le imputan.
 
 El Informe referido en el párrafo anterior deberá rendirse dentro del término de diez días hábiles siguientes a la notificación correspondiente.
 
@@ -253,7 +257,9 @@ El Informe referido en el párrafo anterior deberá rendirse dentro del término
 
 Recibido el informe a que se refiere el artículo anterior, en el caso de que la Comisión Instructora estime procedente la denuncia, y considere que se acredita la existencia de los hechos y de las causas que hagan probable la responsabilidad del servidor público denunciado, propondrá la creación de la Comisión Jurisdiccional para la tramitación del procedimiento respectivo.
 
-El dictamen que realice la Comisión Instructora será entregado a la Secretaría del Congreso, para que dé cuenta al Presidente del mismo, quien, a su vez, lo hará del conocimiento del Pleno, el cual resolverá sobre el dictamen preliminar y, en su caso, declarará procedente la incoación del procedimiento.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+El dictamen de procedencia que realice la Comisión Instructora, será entregado a la Secretaría del Congreso, para que dé cuenta al Presidente del mismo, quien, a su vez, lo hará del conocimiento del Pleno, el cual resolverá sobre el dictamen preliminar y, en su caso, declarará procedente la incoación del procedimiento.
 
 #### Sección Segunda. Formalidades
 
@@ -261,9 +267,11 @@ El dictamen que realice la Comisión Instructora será entregado a la Secretarí
 
 Los plazos correrán independientemente de que el Congreso se encuentre en período ordinario de sesiones o en receso.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 24.
 
-Cuando alguna de las comisiones, Instructora o Jurisdiccional, o el Congreso deban realizar una diligencia en la que se requiera la presencia del procesado si es juicio político, se le fijará un término de tres días hábiles para que comparezca o conteste por escrito a los requerimientos que se le hagan; si se abstiene de comparecer o de informar por escrito, se entenderá que contesta en sentido afirmativo.
+Cuando alguna de las comisiones, Instructora, o Jurisdiccional, o el Congreso, deban realizar una diligencia en la que se requiera la presencia del procesado si es juicio político, se le fijará un término de tres días hábiles para que comparezca o conteste por escrito a los requerimientos que se le hagan; bajo apercibimiento legal de que, si se abstiene de comparecer o de informar por escrito, se entenderá que contesta en sentido afirmativo.
 
 ###### ARTÍCULO 25.
 
@@ -293,7 +301,9 @@ Tanto el imputado como el denunciante podrán solicitar de las oficinas o establ
 
 Las autoridades están obligadas a expedir dichas copias certificadas en un término de cinco días hábiles; si no lo hicieren, la Comisión respectiva o el Congreso, a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien días del valor de la unidad de medida y actualización vigente, sanción que se hará efectiva a la autoridad si no las expidiera. Si resultase falso que el interesado hubiere solicitado las constancias, o si la demora se debe a causas imputables al solicitante, la multa se hará efectiva en su contra.
 
-Por su parte, la Comisión respectiva o el Congreso, solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento, y si la autoridad de quien las solicitasen no las remite dentro del plazo discrecional que se le señale, se le impondrá la multa que refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Por su parte, la Comisión respectiva o el Congreso, solicitarán informes o las copias certificadas de las constancias que estimen necesarias para mejor proveer dentro del procedimiento, y si la autoridad de quien las solicitasen no las remite dentro del plazo discrecional que se le señale, se le impondrá la multa que refiere el párrafo anterior.
 
 ###### ARTÍCULO 30.
 
@@ -492,3 +502,19 @@ P.O. 20 DE AGOSTO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0778.- SE REFORMA EL ARTÍCULO 29 EN SU PÁRRAFO TERCERO, DE LA LEY DE JUICIO POLÍTICO DEL ESTADO SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0783.- SE REFORMA LOS ARTÍCULOS 21 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, 22 EN SU PÁRRAFO SEGUNDO Y 24, DE LA LEY DE JUICIO POLÍTICO DEL ESTADO SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
