@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-forestal-sustentable-del-estado-de-oaxaca-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-11"
-last_updated: "2019-11-23"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de junio de 2013.
 
@@ -411,7 +411,9 @@ El Ejecutivo Estatal aplicará las disposiciones contenidas en esta Ley, por con
 
 Corresponden al Ejecutivo Estatal a través de la Comisión Estatal Forestal y de conformidad con lo dispuesto en esta Ley, las siguientes atribuciones:
 
-I. Formular, conducir y evaluar la política forestal establecida en el Plan Estatal de Desarrollo a través de su Programa Sectorial, el cual debe estar en concordancia con el establecido a nivel nacional, con una visión a largo plazo;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+I. Formular, instrumentar, conducir y evaluar la política forestal establecida en el Plan Estatal de Desarrollo a través de su Programa Sectorial, el cual debe estar en concordancia con los programas y acciones establecidas a nivel nacional, con una visión a largo plazo;
 
 II. Participar en la elaboración de los programas regionales de desarrollo forestal a mediano y largo plazo, de ámbito interestatal o por cuencas hidrológico-forestales;
 
@@ -451,6 +453,10 @@ XIX. Impulsar programas de mejoramiento genético forestal y de producción de p
 
 XX. Diseñar y aplicar programas de reforestación y forestación en zonas degradadas que no sean competencia de la Federación, así como de llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas o forestadas;
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+De manera excepcional y mediante estudio u opinión técnica conservar y forestar anualmente las áreas de recarga de los mantos acuíferos.
+
 XXI. Fomentar y promover programas de regeneración natural asistida en bosques y en terrenos con vegetación forestal para aumentar la capacidad de regeneración de especies deseadas, de plantaciones destinadas a la producción como a la protección;
 
 XXII. Realizar y supervisar labores de conservación, protección y restauración de los terrenos forestales y de aptitud preferentemente forestal que se localizan en la entidad, así como en las acciones de prevención y combate al aprovechamiento irregular de los recursos forestales;
@@ -483,9 +489,21 @@ XXXV. Elaborar estudios, para en su caso, recomendar a la Federación el estable
 
 XXXVI. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta Ley y la política forestal nacional;
 
-XXXVII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley u otros ordenamientos que no estén expresamente otorgados a la Federación o a los municipios; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XXXVIII. Coadyuvar en las labores de mitigación y adaptación al cambio climático.
+XXXVII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley u otros ordenamientos que no estén expresamente otorgados a la Federación o a los municipios;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXXVIII. Coadyuvar en las labores de mitigación y adaptación al cambio climático;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXXIX. De forma coordinada entre el Consejo y los Núcleos Agrarios, las empresas de aserradero establecidas en la entidad, quedarán obligadas en cada Núcleo agrario donde adquieren la madera a contribuir con el programa de reforestación anual que instrumente el Gobierno Estatal; y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XL. El Consejo impulsará un Programa Estatal de reforestación que tenga como especial atención atender las áreas de recarga de los mantos acuíferos.
 
 #### SECCIÓN TERCERA. FUNCIONES DE LOS MUNICIPIOS
 
@@ -495,7 +513,9 @@ XXXVIII. Coadyuvar en las labores de mitigación y adaptación al cambio climát
 
 Son atribuciones de los Municipios en materia forestal, las siguientes:
 
-I. Diseñar, formular y aplicar, en concordancia con la política nacional y estatal, la política forestal del municipio;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+I. Diseñar e instrumentar, en concordancia con la política nacional y estatal, la política forestal del municipio con programas y acciones concretas;
 
 II. Aplicar los criterios de política forestal previstos en esta Ley y en las disposiciones municipales en bienes y zonas de competencia municipal, en las materias que no estén expresamente reservadas a la Federación o al Estado;
 
@@ -1730,3 +1750,11 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1711.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I, XXXVII Y XXXVIII DEL ARTÍCULO 13, LA FRACCIÓN I DEL ARTÍCULO 14; Y SE ADICIONA EL SEGUNDO PÁRRAFO A LA FRACCIÓN XX Y LAS FRACCIONES XXXIX Y XL AL ARTÍCULO 13 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
