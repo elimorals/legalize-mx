@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2020-10-16"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1639,9 +1639,29 @@ A quien ocasional o habitualmente ejecute actos de violencia física, psíquica 
 
 Si el ofendido es ascendiente, descendiente, cónyuge, concubina, concubinario, adoptante o adoptado del responsable de las lesiones y éstas son causadas dolosamente con conocimiento de esa relación, se aumentará la pena que corresponda hasta dos años de prisión y, además, si el sujeto activo ejerce la patria potestad o la tutela, perderá este derecho.
 
-### CAPÍTULO IV. Reglas Comunes para el Homicidio y las Lesiones
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO V. Auxilio o Instigación al Suicidio
+### CAPÍTULO III BIS. Lesiones Cometidas contra la Mujer en Razón de su Género
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 142 BIS. Al que cause lesiones a una mujer en razón de su género, se le impondrá pena de siete a catorce años de prisión, y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+
+I. Que las lesiones causadas sean infamantes, degradantes o una mutilación, o
+
+II. Que previo a la lesión infringida existan datos que establezcan que se han cometido amenazas, acoso o violencia del sujeto activo contra la víctima.
+
+Si entre el sujeto activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita que en virtud de esa relación fueron infringidas las lesiones infamantes, degradantes o mutilaciones, se impondrán de nueve a dieciocho años de prisión, y multa de trescientos a seiscientos días del valor de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 142 TER. Las penas previstas en el artículo anterior se aumentarán en dos tercios en los siguientes casos:
+
+I. Cuando las lesiones sean provocadas mediante el empleo de ácidos o substancias corrosivas, o
+
+II. Cuando las lesiones sean provocadas en los órganos genitales femeninos o en las mamas, excluyendo aquellas que sean consecuencia de llevar a cabo un procedimiento médico por motivos de salud.
+
+### CAPÍTULO IV. Reglas Comunes para el Homicidio y las Lesiones
 
 ###### ARTÍCULO 143.
 
@@ -1685,7 +1705,7 @@ Si únicamente ocasionara lesiones, se le impondrá de (sic) hasta un cuarto de 
 
 Cuando un animal cause lesiones u homicidio será responsable el que con esa intención lo azuce o suelte o haga esto último por descuido se le impondrá la pena que corresponda al delito doloso o culposo según sea el caso.
 
-### CAPÍTULO VI. Aborto
+### CAPÍTULO V. Auxilio o Instigación al Suicidio
 
 ###### ARTÍCULO 147.
 
@@ -1701,7 +1721,7 @@ Si se le presta la ayuda hasta el punto de ejecutar él mismo la muerte, la sanc
 
 Si el suicida fuere menor de edad o enajenado mental, a quien lo ayude o instigue se le impondrá una pena de quince a cuarenta años de prisión y sanción pecuniaria de mil quinientos a cuatro mil días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO VII. Violencia en Espectáculos Deportivos
+### CAPÍTULO VI. Aborto
 
 ###### ARTÍCULO 148.
 
@@ -1735,7 +1755,7 @@ II. El embarazo sea resultado de un delito de violación o inseminación indebid
 
 III. De no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPÍTULO I. Ataque Peligroso
+### CAPÍTULO VII. Violencia en Espectáculos Deportivos
 
 ###### ARTÍCULO 151.
 
@@ -1753,7 +1773,7 @@ Además de las sanciones previstas en este capítulo, a juicio del juzgador se p
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA PAZ, LA LIBERTAD, Y LA SEGURIDAD DE LAS PERSONAS
 
-### CAPÍTULO II. Omisión de Auxilio a Lesionados
+### CAPÍTULO I. Ataque Peligroso
 
 ###### ARTÍCULO 153.
 
@@ -1773,7 +1793,7 @@ Se aplicarán las sanciones correspondientes a la tentativa de homicidio al que 
 
 Cuando el daño causado fuere de lesiones u homicidio, sólo se sancionará el que de éstos resulte.
 
-### CAPÍTULO III. Privación Ilegal de la Libertad
+### CAPÍTULO II. Omisión de Auxilio a Lesionados
 
 ###### ARTÍCULO 155.
 
@@ -1783,11 +1803,7 @@ Comete el delito de omisión de auxilio a lesionados el conductor de un vehícul
 
 Este delito se sancionará con una pena de tres meses a un año de prisión y sanción pecuniaria de treinta a cien días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO IV. Desaparición Forzada de Personas
-
-(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+### CAPÍTULO III. Privación Ilegal de la Libertad
 
 ###### ARTÍCULO 156.
 
@@ -1801,7 +1817,11 @@ II. Se realice con violencia; la víctima sea menor de dieciocho, o mayor de ses
 
 III. Por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto de quien la ejecuta.
 
-### CAPÍTULO V. Robo de Infante; Sustracción de Menores, o de Incapaces
+### CAPÍTULO IV. Desaparición Forzada de Personas
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2018 Y SU ACUMULADA 39/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE FEBRERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 0882, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 157.
 
@@ -1881,7 +1901,7 @@ Asimismo, se impondrá pena de diez a veinte años de prisión a quien, sin habe
 
 ARTÍCULO 158 TER. La penas previstas en los artículos, 158, y 158 BIS, pueden ser determinadas y modificadas conforme a las reglas previstas en los artículos, 157 TER, y 157 QUÁTER, de este Código.
 
-### CAPÍTULO VI. Tráfico de Menores
+### CAPÍTULO V. Robo de Infante; Sustracción de Menores, o de Incapaces
 
 ###### ARTÍCULO 159.
 
@@ -1909,7 +1929,7 @@ En los casos a que se refiere este artículo, el delito se perseguirá a petici�
 
 En el caso de los delitos contemplados en este capítulo, si el menor o incapaz es restituido espontáneamente a su familia o a la autoridad dentro de los tres días siguientes en que hubiere ocurrido el hecho y sin que se le cause perjuicio, se impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida de actualización.
 
-### CAPÍTULO VII. Asalto
+### CAPÍTULO VI. Tráfico de Menores
 
 ###### ARTÍCULO 162.
 
@@ -1955,7 +1975,7 @@ En los casos a que se refiere este artículo, el delito se perseguirá a petici�
 
 Si el menor es restituido espontáneamente al seno familiar o a la autoridad antes de tres días de ocurrido el hecho y sin que se le cause perjuicio, se impondrá hasta una tercera parte de la pena que corresponda.
 
-### CAPÍTULO VIII. Allanamiento
+### CAPÍTULO VII. Asalto
 
 ###### ARTÍCULO 165.
 
@@ -1975,7 +1995,7 @@ A quienes, con los mismos propósitos, asalten un poblado se les impondrá una p
 
 A quien en despoblado o camino público hace uso de la violencia, en cualquier forma, en contra de los ocupantes de un vehículo de transporte, se le impondrá una pena de prisión de diez a veinte años y sanción pecuniaria de mil a dos mil días del valor de la unidad de medida y actualización, siempre que se persigan los mismos propósitos del asalto, sin perjuicio de la pena que resulte aplicable por otros delitos.
 
-### CAPÍTULO IX. Amenazas
+### CAPÍTULO VIII. Allanamiento
 
 ###### ARTÍCULO 167.
 
@@ -1987,7 +2007,7 @@ Este delito se sancionará con una pena de seis meses a tres años de prisión y
 
 Si el medio empleado es la violencia física o moral, la prisión y la sanción pecuniaria se aumentarán hasta en una mitad más. Este delito se perseguirá por querella necesaria.
 
-### CAPÍTULO X. Exposición al Peligro
+### CAPÍTULO IX. Amenazas
 
 ###### ARTÍCULO 168.
 
@@ -2009,11 +2029,11 @@ El delito de amenazas se perseguirá por querella necesaria.
 
 ARTÍCULO 168 BIS. Comete el delito de cobranza ilegítima quien con la intención de requerir el pago de una deuda ya sea propia del deudor, o de quien funja como referencia o aval, utilice cualquier medio ilícito, o efectúe actos de hostigamiento, o intimidación, o amenazas de cualquier índole, o actos de molestia al deudor, sin mediar orden emanada de autoridad competente, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientas unidades de medida y actualización, además de las sanciones que correspondan si para tal efecto se emplearon documentos, sellos falsos o se usurparon funciones públicas o de profesión.
 
+### CAPÍTULO X. Exposición al Peligro
+
 ### CAPÍTULO XI
 
 Uso Ilícito de equipos de Radiocomunicación.
-
-### CAPÍTULO I. Violación
 
 ###### ARTÍCULO 169.
 
@@ -2023,7 +2043,7 @@ Comete el delito a que se refiere este capítulo quien coloque en situación de 
 
 Este delito se sancionará con una pena de tres a ocho años de prisión y sanción pecuniaria de trescientos a ochocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO II. Abuso Sexual
+### CAPÍTULO I. Violación
 
 ###### ARTÍCULO 170.
 
@@ -2035,15 +2055,13 @@ También comete el delito a que se refiere este capítulo quien proporcione el s
 
 Este delito se sancionará con una pena de tres a ocho años de prisión, sanción pecuniaria de trescientos a ochocientos días del valor de la unidad de medida y actualización, así como el decomiso de los equipos de radiocomunicación, vehículos y demás bienes utilizados para la comisión del delito.
 
-### CAPÍTULO III. Estupro
+### CAPÍTULO II. Abuso Sexual
 
-### CAPÍTULO IV. Hostigamiento, y Acoso Sexual
+### CAPÍTULO III. Estupro
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA LIBERTAD SEXUAL; LA SEGURIDAD SEXUAL; Y EL NORMAL DESARROLLO PSICOSEXUAL
 
-### CAPÍTULO I. Corrupción de Menores, de personas que no tienen capacidad para comprender el significado del hecho, o personas que no tienen capacidad para resistirlo
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPÍTULO IV. Hostigamiento, y Acoso Sexual
 
 ###### ARTÍCULO 171.
 
@@ -2095,7 +2113,9 @@ III. Cuando el delito fuere cometido por el ministro de algún culto religioso, 
 
 Para los efectos de este Título se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por (sic) vaginal, anal u oral.
 
-### CAPÍTULO II. Venta y suministro de bebidas alcohólicas a menores de dieciocho años o a personas que no tienen capacidad para comprender el significado del hecho
+### CAPÍTULO I. Corrupción de Menores, de personas que no tienen capacidad para comprender el significado del hecho, o personas que no tienen capacidad para resistirlo
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 178.
 
@@ -2129,7 +2149,7 @@ ARTÍCULO 178 BIS. Comete el delito de abuso sexual equiparado, quien mediante e
 
 Este delito se sancionará conforme a lo prescrito por el artículo 178 de este Código.
 
-### CAPÍTULO III. Discriminación
+### CAPÍTULO II. Venta y suministro de bebidas alcohólicas a menores de dieciocho años o a personas que no tienen capacidad para comprender el significado del hecho
 
 ###### ARTÍCULO 179.
 
@@ -2141,11 +2161,7 @@ Este delito se sancionará con una pena de uno a cinco años de prisión y sanci
 
 Este delito se perseguirá por querella necesaria.
 
-### CAPÍTULO IV. Difusión Ilícita de Imágenes
-
-(NOTA: EL 28 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 208/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE ABRIL DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0659, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+### CAPÍTULO III. Discriminación
 
 ###### ARTÍCULO 180.
 
@@ -2175,6 +2191,14 @@ En caso de reincidencia en cualquiera de los supuestos, se impondrá prisión de
 
 Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de dieciocho años, en cuyo caso se perseguirá de oficio.
 
+### CAPÍTULO IV. Difusión Ilícita de Imágenes
+
+(NOTA: EL 28 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 208/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE ABRIL DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0659, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+## TÍTULO CUARTO. DELITOS CONTRA LA DIGNIDAD HUMANA Y EL LIBRE DESARROLLO DE LA PERSONALIDAD
+
 ### CAPÍTULO V. Delito contra la identidad de las personas
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2018)</small>
@@ -2190,12 +2214,6 @@ II. Posea o utilice datos identificativos de otra persona con la intención de c
 III. Asuma, suplante, se apropie o utilice, a través de internet, cualquier sistema informático o medio de comunicación, la identidad de una persona física o jurídica que no le pertenezca, produciendo con ello un daño moral o patrimonial, u obteniendo un lucro o un provecho indebido para sí o para otra persona.
 
 Las penas previstas en el presente artículo se aumentarán hasta en la mitad, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito; así como en el supuesto en que el sujeto activo del delito tenga licenciatura, ingeniería, o cualquier otro grado académico en el rubro de informática, computación o telemática.
-
-## TÍTULO CUARTO. DELITOS CONTRA LA DIGNIDAD HUMANA Y EL LIBRE DESARROLLO DE LA PERSONALIDAD
-
-### CAPÍTULO VI
-
-Provocación de un delito y apología del mismo o de algún vicio y de la omisión de impedir un delito que atente contra el libre desarrollo de la personalidad, la dignidad humana o la integridad física o mental.
 
 ###### ARTÍCULO 183.
 
@@ -2215,11 +2233,11 @@ La misma pena se aplicara a quien siendo padre, madre, tutor o curador de un men
 
 Se considerará como empleado en cualquiera de los establecimientos mencionados en el párrafo primero de este articulo, y para los efectos del mismo, a la persona menor de dieciocho años o quien no tenga capacidad para comprender el significado del hecho, que por cualquier estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
+### CAPÍTULO VI
+
+Provocación de un delito y apología del mismo o de algún vicio y de la omisión de impedir un delito que atente contra el libre desarrollo de la personalidad, la dignidad humana o la integridad física o mental.
+
 ### CAPÍTULO VII. Ultrajes a la moral pública o las buenas costumbres
-
-### CAPÍTULO I. Disposición de Células
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 185.
 
@@ -2229,11 +2247,11 @@ Comete el delito a que se refiere este capítulo, quien venda o suministre bebid
 
 Este delito se sancionará con una pena de un mes a tres años de prisión y sanción pecuniaria de diez a trescientos días del valor de la unidad de medida y actualización.
 
+### CAPÍTULO I. Disposición de Células
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ### CAPÍTULO II. Inseminación Artificial Indebida
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-### CAPÍTULO III. Esterilización Forzada
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -2259,9 +2277,9 @@ Este delito se sancionará de seis meses a tres años de prisión, y multa de se
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO IV. Manipulación genética
+### CAPÍTULO III. Esterilización Forzada
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 187.
 
@@ -2287,9 +2305,11 @@ En el supuesto al que se refiere la fracción V de este artículo, además de la
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE MAYO DE 2018)</small>
 
-### CAPÍTULO I. Delito contra la Filiación y el Estado Civil de las Personas
+### CAPÍTULO IV. Manipulación genética
 
-### CAPÍTULO II. Matrimonios Ilegales
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO I. Delito contra la Filiación y el Estado Civil de las Personas
 
 ###### ARTÍCULO 188.
 
@@ -2305,7 +2325,7 @@ Se impondrá de tres meses a un año de prisión a quien, pudiendo hacerlo con s
 
 Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para que impidan un delito de los contemplados en el párrafo anterior, y de cuya próxima comisión tenga conocimiento.
 
-### CAPÍTULO III. Bigamia
+### CAPÍTULO II. Matrimonios Ilegales
 
 ###### ARTÍCULO 190.
 
@@ -2315,17 +2335,23 @@ Comete el delito de ultrajes a la moral pública o a las buenas costumbres, quie
 
 Este delito se sancionará con una pena de seis meses a dos años de prisión y sanción pecuniaria de sesenta a doscientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO IV. Incumplimiento de las Obligaciones de Asistencia Familiar
+### CAPÍTULO III. Bigamia
 
 ## TÍTULO QUINTO. DELITOS CONTRA LA LIBERTAD REPRODUCTIVA
+
+### CAPÍTULO IV. Incumplimiento de las Obligaciones de Asistencia Familiar
+
+###### ARTÍCULO 191.
+
+A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes o depositarios, siempre y cuando no atenten contra la dignidad humana, se le impondrán de tres a seis años de prisión y sanción de trescientos a seiscientos días del valor de la unidad de medida y actualización.
 
 ### CAPÍTULO VI (SIC). Violencia Familiar
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2020)</small>
 
-###### ARTÍCULO 191.
+###### ARTÍCULO 192.
 
-A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes o depositarios, siempre y cuando no atenten contra la dignidad humana, se le impondrán de tres a seis años de prisión y sanción de trescientos a seiscientos días del valor de la unidad de medida y actualización.
+A quien realice una inseminación en una mujer mayor de dieciocho (sic) sin consentimiento, se le impondrá de cuatro a siete años de prisión y sanción pecuniaria de cuatrocientos a setecientos días del valor de la unidad de medida y actualización.
 
 ### CAPÍTULO VII. Incesto
 
@@ -2336,14 +2362,6 @@ ARTÍCULO 207 BIS. Cometen el delito de incesto quienes siendo, descendientes, a
 Este delito se sancionará con una pena de uno a cuatro años de prisión y sanción pecuniaria de veinte a ochenta unidades de medida de actualización.
 
 Cuando la víctima sea menor de edad la conducta siempre se tipificará como violación.
-
-###### ARTÍCULO 192.
-
-A quien realice una inseminación en una mujer mayor de dieciocho (sic) sin consentimiento, se le impondrá de cuatro a siete años de prisión y sanción pecuniaria de cuatrocientos a setecientos días del valor de la unidad de medida y actualización.
-
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 193.
 
@@ -2375,7 +2393,9 @@ IV. En el supuesto de que el delito se realice con violencia física o moral o p
 
 Además de las penas previstas en el capítulo anterior, se impondrá suspensión para ejercer la profesión o, en caso de servidores públicos, inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución.
 
-### CAPÍTULO I. Robo
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 197.
 
@@ -2395,7 +2415,7 @@ Si resultan hijos a consecuencia de la comisión de alguno de los delitos previs
 
 ## TÍTULO SEXTO. DELITOS CONTRA LA FAMILIA
 
-### CAPÍTULO II. Fraude
+### CAPÍTULO I. Robo
 
 ###### ARTÍCULO 199.
 
@@ -2415,7 +2435,7 @@ V. Omite la inscripción de una persona teniendo dicha obligación, con el prop�
 
 Este delito se sancionará con una pena de uno a cinco años de prisión y sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO III. Abuso de Confianza
+### CAPÍTULO II. Fraude
 
 ###### ARTÍCULO 200.
 
@@ -2425,7 +2445,7 @@ Comete el delito de matrimonio ilegal quien, fuera del caso de bigamia, contrae 
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización. Las mismas sanciones y además la destitución e inhabilitación hasta por el doble de la pena de prisión impuesta, se impondrá al Oficial del Registro Civil que, teniendo conocimiento del impedimento, autorice la celebración del matrimonio.
 
-### CAPÍTULO IV. Despojo
+### CAPÍTULO III. Abuso de Confianza
 
 ###### ARTÍCULO 201.
 
@@ -2441,7 +2461,7 @@ A quienes ejerzan la patria potestad o la tutela y den su consentimiento para el
 
 Además de la pena señalada en el párrafo anterior, se impondrá la destitución o la inhabilitación por el doble de la pena de prisión impuesta a los oficiales del Registro Civil que, conociendo el impedimento, celebren el matrimonio.
 
-### CAPÍTULO V. Usura
+### CAPÍTULO IV. Despojo
 
 ###### ARTÍCULO 202.
 
@@ -2483,9 +2503,7 @@ ARTÍCULO 204 BIS. Al que abandone a un adulto mayor en situación de vulnerabil
 
 Para el caso de que el abandono traiga como consecuencia la muerte de la persona, se aplicarán las penas que este propio Código contempla para el homicidio por omisión.
 
-### CAPÍTULO VI. Extorsión
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPÍTULO V. Usura
 
 ###### ARTÍCULO 205.
 
@@ -2533,19 +2551,17 @@ En todos los casos previstos en los artículos precedentes, el Ministerio Públi
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE FEBRERO DE 2017)</small>
 
+### CAPÍTULO VI. Extorsión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO VII. Daño en las Cosas
+
+## TÍTULO SÉPTIMO. INHUMACIONES Y EXHUMACIONES ILÍCITAS
 
 ### CAPÍTULO VIII. Abigeato
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
-
-## TÍTULO SÉPTIMO. INHUMACIONES Y EXHUMACIONES ILÍCITAS
-
-### CAPITULO IX. Insolvencia Fraudulenta
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
-
-ARTÍCULO 242 BIS. Al que por cualquier medio se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo, ya sea frente a sus acreedores, o para evitar el cumplimiento de una obligación de dar, de hacer o de no hacer, impuesta por autoridad competente mediante resolución judicial, se le impondrán las penas previstas en el artículo 224 de este Código.
 
 ###### ARTÍCULO 208.
 
@@ -2583,9 +2599,11 @@ En estos casos se impondrá una pena de seis meses a dos años de prisión y san
 
 ## TÍTULO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO X. Disposiciones Comunes a los Delitos contra el Patrimonio
+### CAPITULO IX. Insolvencia Fraudulenta
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 242 BIS. Al que por cualquier medio se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo, ya sea frente a sus acreedores, o para evitar el cumplimiento de una obligación de dar, de hacer o de no hacer, impuesta por autoridad competente mediante resolución judicial, se le impondrán las penas previstas en el artículo 224 de este Código.
 
 ###### ARTÍCULO 211.
 
@@ -2733,7 +2751,9 @@ No se sancionará a quien, sin emplear medios violentos, se apodere una sola vez
 
 A quien se le impute el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o enajenarla, se le impondrá una pena de tres meses a un año de prisión y sanción pecuniaria de treinta a cien días del valor de la unidad de medida y actualización, siempre que justifique no haberse negado a devolverla si se le requirió para ello, pero, además, pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
-### CAPÍTULO ÚNICO
+### CAPITULO X. Disposiciones Comunes a los Delitos contra el Patrimonio
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 222.
 
@@ -2809,7 +2829,7 @@ V. Cuando el valor de lo defraudado exceda de mil quinientas veces del valor de 
 
 Para estimar la cuantía del fraude, si por alguna circunstancia no fuere estimable en dinero o si por su naturaleza no fuese posible fijar su valor, se aplicará una pena de seis meses a dos años de prisión y sanción pecuniaria de sesenta a doscientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO I. Falsificación de Documentos en General
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 225.
 
@@ -2837,7 +2857,7 @@ IV. La ilegitima posesión de una cosa, si el tenedor o poseedor de ella la reti
 
 V. El hecho de haber recibido mercancías con subsidio o franquicia para darles destino determinado, y distraerlas de ese destino o desvirtuar en cualquier forma los fines perseguidos con el subsidio o la franquicia.
 
-### CAPITULO II. Falsificación de Sellos, Matrices, Troqueles, Placas, Marcas, Contraseñas y Llaves
+### CAPÍTULO I. Falsificación de Documentos en General
 
 ###### ARTÍCULO 227.
 
@@ -2865,7 +2885,7 @@ A los autores intelectuales, a quienes dirijan la invasión y a quienes instigue
 
 A quienes se dediquen a promover el despojo de bienes inmuebles urbanos se les aplicará una sanción de tres a once años de prisión, más una sanción pecuniaria de trescientos a mil cien días del valor de la unidad de medida y actualización. Se considera que se dedican a promover el despojo de inmuebles urbanos, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o cuando se les hubiere decretado en más de una ocasión auto de formal prisión o de vinculación a proceso por este delito, salvo que en el proceso correspondiente se hubiere resuelto el desvanecimiento de datos, el sobreseimiento o la absolución del inculpado.
 
-### CAPÍTULO III. Uso de Objeto o Documento Falso o Alterado
+### CAPITULO II. Falsificación de Sellos, Matrices, Troqueles, Placas, Marcas, Contraseñas y Llaves
 
 ###### ARTÍCULO 229.
 
@@ -2877,7 +2897,7 @@ Para los efectos de este artículo, se entenderá que existe el lucro excesivo, 
 
 Este delito se sancionará con una pena de dos a seis años de prisión, sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización y la reparación del daño.
 
-### CAPÍTULO IV. Usurpación de Funciones Públicas o de Profesión y Uso Indebido de Condecoraciones o Uniformes
+### CAPÍTULO III. Uso de Objeto o Documento Falso o Alterado
 
 ###### ARTÍCULO 230.
 
@@ -2907,7 +2927,7 @@ Si en la comisión del delito de extorsión participa algún miembro de una corp
 
 A los trabajadores de instituciones bancarias o crediticias, y a los empleados de empresas de comunicación telefónica, de radio comunicación, de telecomunicación, o encargadas de transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos vía satelital, u otro (sic) sistemas electromagnéticos, o cualquier otro sistema originado con motivo de los descubrimientos de la ciencia, que por razón de su empleo manejen información de clientes o tengan acceso a la misma, y que la utilicen de cualquier forma o la sustraigan para sí o para terceros con el objeto de obtener un lucro o beneficio por medio de la extorsión en sus diversas modalidades, se les impondrán las penas y sanción pecuniaria a que se refiere el párrafo anterior.
 
-### CAPÍTULO V. Variación de Nombre o de Domicilio
+### CAPÍTULO IV. Usurpación de Funciones Públicas o de Profesión y Uso Indebido de Condecoraciones o Uniformes
 
 ###### ARTÍCULO 232.
 
@@ -2971,7 +2991,7 @@ Al que cause daño a bienes de valor científico, histórico, artístico, cultur
 
 Si el daño, destrucción o deterioro se causa por medio de inundación, incendio, sustancias peligrosas o explosivos, se impondrá una pena de tres a diez años de prisión y sanción pecuniaria de trescientos a mil días del valor de la unidad de medida y actualización.
 
-### CAPITULO I. Rebelión
+### CAPÍTULO V. Variación de Nombre o de Domicilio
 
 ###### ARTÍCULO 237.
 
@@ -3045,9 +3065,9 @@ En estos casos se impondrá una pena de dos a seis años de prisión y sanción 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO II. Sedición
+### CAPITULO I. Rebelión
 
-### CAPÍTULO III. Motín
+### CAPÍTULO II. Sedición
 
 ###### ARTÍCULO 243.
 
@@ -3063,7 +3083,7 @@ Los delitos de abuso de confianza, despojo, daño en los bienes y fraude, se per
 
 ## TÍTULO NOVENO. DELITOS CONTRA LA FIDELIDAD PROFESIONAL
 
-### CAPÍTULO IV. Terrorismo
+### CAPÍTULO III. Motín
 
 ###### ARTÍCULO 246.
 
@@ -3109,7 +3129,7 @@ A la persona o a la institución, clínica, sanatorio y hospital públicos o pri
 
 ## TÍTULO DÉCIMO. DELITOS EN CONTRA DE LA FE PÚBLICA
 
-### CAPÍTULO I. Desobediencia a un Mandato Legítimo de Autoridad
+### CAPÍTULO IV. Terrorismo
 
 ###### ARTÍCULO 250.
 
@@ -3163,7 +3183,7 @@ Asimismo, comete el delito de falsificación de documentos, quien siendo médico
 
 En este caso se sancionará con la pena que establece el artículo 250 de este Código.
 
-### CAPÍTULO II. Resistencia
+### CAPÍTULO I. Desobediencia a un Mandato Legítimo de Autoridad
 
 ###### ARTÍCULO 254.
 
@@ -3193,7 +3213,7 @@ Quien falsifique la marca o contraseña que alguna autoridad use para identifica
 
 A quien falsifique llaves para adaptarlas a cualquier cerradura, el sello, las marcas u otras señas de algún particular, sin el consentimiento de quien pueda darlo, se le impondrá de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO III. Coacción
+### CAPÍTULO II. Resistencia
 
 ###### ARTÍCULO 258.
 
@@ -3211,7 +3231,7 @@ IV. Emplee sellos verdaderos en objetos falsificados para hacerlos pasar como le
 
 Este delito se sancionará con una pena de uno a cinco años de prisión y sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO IV. Quebrantamiento de Sellos
+### CAPÍTULO III. Coacción
 
 ###### ARTÍCULO 259.
 
@@ -3229,11 +3249,7 @@ IV. Use uniforme, insignia, distintivo o condecoración a que no tiene derecho.
 
 Este delito se sancionará con una pena de uno a cuatro años de prisión y sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO V. Delitos Cometidos Contra Servidores Públicos o Agentes de la Autoridad en Ejercicio de sus Funciones
-
-(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO IV. Quebrantamiento de Sellos
 
 ###### ARTÍCULO 260.
 
@@ -3251,7 +3267,11 @@ Este delito se sancionará con una pena de uno a tres años de prisión y sanci�
 
 ## TÍTULO DÉCIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO VI. Delito contra Instituciones de Auxilio por uso Indebido de Sistemas de Emergencia
+### CAPÍTULO V. Delitos Cometidos Contra Servidores Públicos o Agentes de la Autoridad en Ejercicio de sus Funciones
+
+(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 261.
 
@@ -3317,7 +3337,7 @@ A los jefes, directores, policías o agentes del Gobierno y a los rebeldes que c
 
 No se impondrá sanción alguna a los que espontáneamente depongan las armas antes de que se hayan roto las hostilidades, siempre que no hayan cometido alguno de los delitos señalados anteriormente.
 
-### CAPÍTULO I. Encubrimiento
+### CAPÍTULO VI. Delito contra Instituciones de Auxilio por uso Indebido de Sistemas de Emergencia
 
 ###### ARTÍCULO 268.
 
@@ -3333,7 +3353,7 @@ Este delito se sancionará con una pena de uno a cinco años de prisión y sanci
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO II. Falso Testimonio
+### CAPÍTULO I. Encubrimiento
 
 ###### ARTÍCULO 270.
 
@@ -3349,7 +3369,7 @@ Este delito se sancionará con una pena de uno a cinco años de prisión y sanci
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO III. Simulación de Pruebas
+### CAPÍTULO II. Falso Testimonio
 
 ###### ARTÍCULO 272.
 
@@ -3358,6 +3378,10 @@ Comete el delito de terrorismo quien, utilizando explosivos, sustancias peligros
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Este delito se sancionará con una pena de cinco a veinte años de prisión y sanción pecuniaria de quinientos a dos mil días del valor de la unidad de medida y actualización.
+
+### CAPÍTULO III. Simulación de Pruebas
+
+## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA AUTORIDAD, E INSTITUCIONES DE AUXILIO
 
 ### CAPÍTULO IV. Acusación o Denuncias Falsas
 
@@ -3373,10 +3397,6 @@ No se aplicará sanción alguna al autor de la acusación, denuncia, o querella,
 
 ARTÍCULO 286 TER. Si la conducta señalada en el artículo anterior la comete un servidor público, se duplicarán las penas y se impondrá la destitución del cargo, además la inhabilitación para desempeñar un empleo, cargo o comisión publica, hasta por el doble de la pena de prisión impuesta; excepto que la denuncia se haya realizado en ejercicio de sus funciones.
 
-## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA AUTORIDAD, E INSTITUCIONES DE AUXILIO
-
-### CAPÍTULO I. Armas Prohibidas
-
 ###### ARTÍCULO 273.
 
 Comete el delito de desobediencia a un mandato legítimo de autoridad quien, sin causa justificada, se rehúsa a prestar un servicio de interés público a que lo obligue la ley, o desobedece un mandato de la autoridad.
@@ -3385,7 +3405,7 @@ Comete el delito de desobediencia a un mandato legítimo de autoridad quien, sin
 
 Este delito se sancionará con una pena de un mes a un año de prisión y sanción pecuniaria de diez a cien días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO II. Asociación Delictuosa
+### CAPÍTULO I. Armas Prohibidas
 
 ###### ARTÍCULO 274.
 
@@ -3395,7 +3415,7 @@ Comete el delito de resistencia quien, empleando la fuerza, el amago o la amenaz
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO III. Evasión
+### CAPÍTULO II. Asociación Delictuosa
 
 ###### ARTÍCULO 275.
 
@@ -3404,6 +3424,18 @@ Comete el delito de coacción quien presiona a la autoridad por medio de la viol
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización.
+
+### CAPÍTULO III. Evasión
+
+###### ARTÍCULO 276.
+
+Comete el delito de quebrantamiento de sellos quien altera, destruye o quita los sellos puestos por orden de la autoridad.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2017)</small>
 
 ### CAPÍTULO IV. Quebrantamiento de Medida Cautelar, o de Sanción
 
@@ -3429,20 +3461,6 @@ ARTÍCULO 293 TER. A la persona privada de su libertad que se fugue mientras com
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-###### ARTÍCULO 276.
-
-Comete el delito de quebrantamiento de sellos quien altera, destruye o quita los sellos puestos por orden de la autoridad.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2017)</small>
-
-### CAPÍTULO I. Delitos contra el Ambiente
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
-
 ###### ARTÍCULO 277.
 
 QUIEN EJECUTE ACTOS VIOLENTOS O AGRESIVOS EN CONTRA DE UN SERVIDOR O FUNCIONARIO PÚBLICO, O AGENTE DE LA AUTORIDAD, EN EL ACTO DE EJERCER LÍCITAMENTE SUS FUNCIONES O CON MOTIVO DE ELLAS, SE LE APLICARÁ DE UNO A SEIS AÑOS DE PRISIÓN, Y SANCIÓN PECUNIARIA DE CIEN A TRESCIENTAS UNIDADES DE MEDIDA DE ACTUALIZACIÓN, ADEMÁS DE LA QUE LE CORRESPONDA POR EL DELITO COMETIDO.
@@ -3451,9 +3469,9 @@ QUIEN EJECUTE ACTOS VIOLENTOS O AGRESIVOS EN CONTRA DE UN SERVIDOR O FUNCIONARIO
 
 > <small>(DEROGADO TERCER PÁRRAFO. P.O. 17 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO II. Delitos contra la Gestión Ambiental
+### CAPÍTULO I. Delitos contra el Ambiente
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 278.
 
@@ -3475,9 +3493,9 @@ En los artículos anteriores en caso de reincidencia se impondrá hasta el doble
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA ADECUADA PROCURACIÓN E IMPARTICIÓN DE JUSTICIA
 
-### CAPÍTULO III. Delitos contra el Desarrollo Territorial Sustentable
+### CAPÍTULO II. Delitos contra la Gestión Ambiental
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 280.
 
@@ -3513,9 +3531,9 @@ Los adquirientes o detentadores no serán sancionados, cuando acrediten legalmen
 
 No se impondrá sanción alguna, en el caso de la fracción I del artículo 280 de este Código, al cónyuge, concubina, concubinario, ascendientes o descendientes consanguíneos del delincuente o colaterales hasta en segundo grado.
 
-### CAPÍTULO IV. Disposiciones comunes a los Delitos previstos en los Capítulos I a III
+### CAPÍTULO III. Delitos contra el Desarrollo Territorial Sustentable
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 284.
 
@@ -3537,7 +3555,7 @@ Este delito se sancionará con una pena de uno a tres años de prisión, sanció
 
 En el caso de la fracción III de este artículo, la pena será de uno a cuatro años de prisión y sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO V. Maltrato a los Animales Domésticos y Silvestres
+### CAPÍTULO IV. Disposiciones comunes a los Delitos previstos en los Capítulos I a III
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -3557,13 +3575,13 @@ Cuando el delito a que se refiere este capítulo sea cometido por un servidor p�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. Maltrato a los Animales Domésticos y Silvestres
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO II. Cohecho
+### CAPÍTULO I. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3583,11 +3601,13 @@ Este delito se sancionará con una pena de uno a cinco años de prisión, sanci�
 
 En caso de indígenas, o campesinos, la acreditación como instrumento de trabajo será otorgada por la autoridad comunitaria.
 
+### CAPÍTULO II. Cohecho
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+
 ### CAPÍTULO III. Ejercicio ilícito de las Funciones Públicas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
-
-### CAPÍTULO IV. Abandono de las Funciones Públicas
 
 ###### ARTÍCULO 288.
 
@@ -3607,7 +3627,7 @@ Para los efectos de esta disposición se entiende por pandilla, la reunión habi
 
 Cuando quien cometa el delito a que se refiere el presente capítulo sea o haya sido servidor público de alguna corporación policíaca, las penas a que se refiere el artículo 288 de este Código se aumentarán en una mitad y se le impondrá, además, destitución, en su caso, del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro por el doble de la pena de prisión impuesta.
 
-### CAPÍTULO V. Coalición
+### CAPÍTULO IV. Abandono de las Funciones Públicas
 
 ###### ARTÍCULO 291.
 
@@ -3637,19 +3657,15 @@ Si el procesado o sentenciado fue inculpado por cualquier delito de los consider
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2018)</small>
 
+### CAPÍTULO V. Coalición
+
 ### CAPÍTULO VI. Abuso de Autoridad
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO VII. Tortura
-
 ## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL AMBIENTE; LA GESTIÓN AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMÉSTICOS Y SILVESTRES
 
-### CAPÍTULO VIII. Tráfico de Influencia
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 336 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 336 ... Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de, cien a cuatrocientos días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+### CAPÍTULO VII. Tortura
 
 ###### ARTÍCULO 294.
 
@@ -3795,9 +3811,9 @@ III. Una barranca, o
 
 IV. Un área verde en suelo urbano.
 
-### CAPÍTULO IX. Concusión
+### CAPÍTULO VIII. Tráfico de Influencia
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 337 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 337 ... Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días del valor de la unidad de medida y actualización, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos."]</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 336 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 336 ... Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de, cien a cuatrocientos días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3871,7 +3887,9 @@ VIII. Preste sus servicios como auditor técnico, especialista o perito o especi
 
 Los delitos previstos en el presente capítulo se perseguirán de oficio y en su caso, por la denuncia o querella que presente la Secretaria de Ecología y Gestión Ambiental.
 
-### CAPÍTULO X. Peculado
+### CAPÍTULO IX. Concusión
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 337 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 337 ... Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días del valor de la unidad de medida y actualización, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos."]</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3927,7 +3945,7 @@ VI. Expida autorización sin observar los análisis de riesgo; y los atlas, muni
 
 VII. Realice obras, o edificaciones en suelos destinados a, vialidades; áreas verdes; bienes de dominio público; o lugares que tengan legal, o administrativamente reconocido su valor paisajístico, ecológico, artístico, histórico, o cultural, o que por los mismos motivos hayan sido considerados de especial protección.
 
-### CAPÍTULO XI. Enriquecimiento Ilícito
+### CAPÍTULO X. Peculado
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3979,9 +3997,7 @@ Cuando en la comisión de un delito previsto en los capítulos I a III de este T
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+### CAPÍTULO XI. Enriquecimiento Ilícito
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4011,7 +4027,11 @@ Los delitos previstos en el presente capítulo se perseguirán de oficio.
 
 ## TÍTULO DÉCIMO SEXTO. DELITOS POR HECHOS DE CORRUPCIÓN
 
-### CAPÍTULO XIII. Deslealtad al Empleo, Cargo o Comisión, o Perjuicio al Servicio Público
+### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 318.
 
@@ -4059,6 +4079,46 @@ Para la individualización de las sanciones previstas a los delitos de este Tít
 
 Cuando los delitos a que se refieren los artículos, 321, y 327, del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
 
+### CAPÍTULO XIII. Deslealtad al Empleo, Cargo o Comisión, o Perjuicio al Servicio Público
+
+###### ARTÍCULO 321.
+
+Comete el delito de cohecho:
+
+I. El servidor público que por sí o por interpósita persona solicita o recibe ilícitamente, para sí o para otro, dinero o cualquier beneficio o acepte una promesa para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
+
+II. El que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 318 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y
+
+III. El servidor público que, en el ejercicio de sus funciones o atribuciones, gestione o solicite:
+
+a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo.
+
+b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
+
+Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación de un servidor público las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 322.
+
+El delito de cohecho se sancionará con las siguientes penas:
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces del valor de la unidad de medida y actualización, en el momento de cometerse el delito o no sea valuable, se impondrán de seis meses a dos años de prisión, sanción pecuniaria equivalente al doble de la dádiva o promesa, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas pero no de mil quinientas veces del valor de la unidad de medida y actualización, en el momento de cometerse el delito, se impondrán de dos a cinco años de prisión, sanción pecuniaria equivalente al doble de la dádiva o promesa, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos, o
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+III. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de cinco a doce años de prisión, sanción pecuniaria equivalente al doble de la dádiva o promesa, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos.
+
+En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2017)</small>
+
 ### CAPÍTULO XIV. Uso ilícito de atribuciones y facultades
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
@@ -4100,58 +4160,6 @@ I. Genere y utilice información falsa o alterada, respecto de los rendimientos 
 II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
-
-###### ARTÍCULO 321.
-
-Comete el delito de cohecho:
-
-I. El servidor público que por sí o por interpósita persona solicita o recibe ilícitamente, para sí o para otro, dinero o cualquier beneficio o acepte una promesa para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
-
-II. El que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 318 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y
-
-III. El servidor público que, en el ejercicio de sus funciones o atribuciones, gestione o solicite:
-
-a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo.
-
-b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
-
-Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación de un servidor público las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-###### ARTÍCULO 322.
-
-El delito de cohecho se sancionará con las siguientes penas:
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces del valor de la unidad de medida y actualización, en el momento de cometerse el delito o no sea valuable, se impondrán de seis meses a dos años de prisión, sanción pecuniaria equivalente al doble de la dádiva o promesa, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas pero no de mil quinientas veces del valor de la unidad de medida y actualización, en el momento de cometerse el delito, se impondrán de dos a cinco años de prisión, sanción pecuniaria equivalente al doble de la dádiva o promesa, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos, o
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-III. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de cinco a doce años de prisión, sanción pecuniaria equivalente al doble de la dádiva o promesa, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos.
-
-En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2017)</small>
-
-### CAPÍTULO XV. Intimidación
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-ARTÍCULO 343 QUÁTER. Comete el delito de intimidación:
-
-I. El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas, y
-
-II. El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
-
-Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4203,6 +4211,28 @@ El delito a que se refiere el artículo anterior se sancionará con una pena de 
 
 Al infractor de las fracciones, IV, VI, VII, VIII, y XI del artículo anterior, se le impondrá una pena de tres a siete años de prisión, y sanción pecuniaria de trescientas a setecientas veces el valor diario de la unidad de medida y actualización.
 
+### CAPÍTULO XV. Intimidación
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 343 QUÁTER. Comete el delito de intimidación:
+
+I. El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas, y
+
+II. El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 325.
+
+Comete el delito de abandono de las funciones públicas el servidor público que sin causa justificada abandona sus funciones sin haber presentado su renuncia o sin que se le haya aceptado o al que habiéndole sido aceptada no entrega todo aquello que haya sido objeto de su responsabilidad a la persona autorizada para recibirlo, siempre que se cause perjuicio a la buena marcha de la función a su cargo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización que percibía, e inhabilitación hasta por cuatro años para desempeñar empleo, cargo o comisión públicos.
+
 ### CAPÍTULO XVI. Ejercicio abusivo de funciones
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
@@ -4218,16 +4248,6 @@ Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las s
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de seis meses a dos años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de trescientas a un mil veces el valor diario de la Unidad de Medida y Actualización.
-
-###### ARTÍCULO 325.
-
-Comete el delito de abandono de las funciones públicas el servidor público que sin causa justificada abandona sus funciones sin haber presentado su renuncia o sin que se le haya aceptado o al que habiéndole sido aceptada no entrega todo aquello que haya sido objeto de su responsabilidad a la persona autorizada para recibirlo, siempre que se cause perjuicio a la buena marcha de la función a su cargo.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización que percibía, e inhabilitación hasta por cuatro años para desempeñar empleo, cargo o comisión públicos.
-
-### CAPÍTULO I. Delitos Contra el Consumo
 
 ###### ARTÍCULO 326.
 
@@ -4245,9 +4265,7 @@ A los autores intelectuales, a los instigadores o a quienes encabecen el grupo c
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
 
-### CAPÍTULO II. Incumplimiento a Normas de Operación o Funcionamiento
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPÍTULO I. Delitos Contra el Consumo
 
 ###### ARTÍCULO 327.
 
@@ -4295,7 +4313,9 @@ Igualmente comete el delito de abuso de autoridad con contenido patrimonial, el 
 
 El delito de abuso de autoridad se sancionará, con una pena de uno a cinco años de prisión, sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el doble de la pena de prisión impuesta.
 
-### CAPÍTULO III. Delitos Contra el Derecho de los Trabajadores
+### CAPÍTULO II. Incumplimiento a Normas de Operación o Funcionamiento
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 329.
 
@@ -4339,9 +4359,7 @@ Cualquier autoridad que conozca de un hecho de tortura está obligada a denuncia
 
 (DEROGADO, P.O. 11 DE ABRIL DE 2017)
 
-### CAPÍTULO I
-
-Ataques a las Vías de Comunicación y medios de Transporte.
+### CAPÍTULO III. Delitos Contra el Derecho de los Trabajadores
 
 ###### ARTÍCULO 336.
 
@@ -4357,9 +4375,9 @@ IV. Al particular que, sin estar autorizado legalmente para intervenir en un neg
 
 Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y sanción pecuniaria de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
+### CAPÍTULO I
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
+Ataques a las Vías de Comunicación y medios de Transporte.
 
 ###### ARTÍCULO 337.
 
@@ -4370,6 +4388,38 @@ Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de seis meses a dos años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y sanción pecuniaria de cien a trescientas veces al valor diario de la Unidad de Medida y Actualización.
+
+### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 338.
+
+Comete el delito de peculado:
+
+I. Todo servidor público que, para usos propios o ajenos, distrae de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o Municipios, a organismos descentralizados, o a un particular, si, por razón de su cargo, los ha recibido en administración, en depósito o por otra causa;
+
+II. El servidor público que indebidamente utiliza fondos públicos u otorga alguno de los actos a que se refiere el artículo 319 de este Código con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o con el fin de denigrar a cualquier persona;
+
+III. Quien solicita o acepta realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso indebido de atribuciones y facultades, y
+
+IV. Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+
+###### ARTÍCULO 339.
+
+El delito de peculado se castigará con las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+I. Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientos días del valor de la unidad de medida y actualización en el momento de cometerse el delito o no sea valuable, se impondrá una pena de seis meses a dos años de prisión, sanción pecuniaria de sesenta a doscientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación, por el doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas pero no de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrá una pena de dos a cinco años de prisión, sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos, y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+
+III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrá una pena de cinco a diez años de prisión, sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPÍTULO III. Delitos contra la Prestación del Servicio de Transporte Público de Pasajeros
 
@@ -4403,36 +4453,6 @@ Este delito se perseguirá por querella de la dependencia u órgano estatal del 
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 14 DE OCTUBRE DE 2016)
 
-###### ARTÍCULO 338.
-
-Comete el delito de peculado:
-
-I. Todo servidor público que, para usos propios o ajenos, distrae de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o Municipios, a organismos descentralizados, o a un particular, si, por razón de su cargo, los ha recibido en administración, en depósito o por otra causa;
-
-II. El servidor público que indebidamente utiliza fondos públicos u otorga alguno de los actos a que se refiere el artículo 319 de este Código con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o con el fin de denigrar a cualquier persona;
-
-III. Quien solicita o acepta realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso indebido de atribuciones y facultades, y
-
-IV. Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
-
-###### ARTÍCULO 339.
-
-El delito de peculado se castigará con las siguientes sanciones:
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-I. Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientos días del valor de la unidad de medida y actualización en el momento de cometerse el delito o no sea valuable, se impondrá una pena de seis meses a dos años de prisión, sanción pecuniaria de sesenta a doscientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación, por el doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas pero no de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrá una pena de dos a cinco años de prisión, sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos, y
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrá una pena de cinco a diez años de prisión, sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
-
-### CAPÍTULO IV. Violación de Correspondencia
-
 ###### ARTÍCULO 340.
 
 Comete el delito de enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño.
@@ -4457,7 +4477,7 @@ II. Cuando el monto a que asciende el enriquecimiento no exceda del equivalente 
 
 III. Cuando el monto a que asciende el enriquecimiento ilícito exceda del equivalente a cinco mil veces del valor de la unidad de medida y actualización, se impondrá una pena de cuatro a diez años de prisión, sanción pecuniaria de cuatrocientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO I. Prevenciones Generales
+### CAPÍTULO IV. Violación de Correspondencia
 
 ###### ARTÍCULO 342.
 
@@ -4539,7 +4559,11 @@ A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, X
 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
-### CAPÍTULO II. Dolo en la Emisión del Voto
+### CAPÍTULO I. Prevenciones Generales
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 343.
 
@@ -4559,15 +4583,29 @@ Este delito se sancionará con una pena de cinco a doce años de prisión y sanc
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2017)</small>
 
+### CAPÍTULO II. Dolo en la Emisión del Voto
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
 ### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ### CAPÍTULO IV. Violaciones al Proceso Electoral
 
-### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ## TÍTULO DECIMO SÉPTIMO. DELITOS CONTRA LA ECONOMÍA PÚBLICA
 
-### CAPÍTULO VI. Inducción Ilícita a Electores
+### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 344.
 
@@ -4597,7 +4635,7 @@ Este delito se sancionará con una pena de cuatro a siete años de prisión, y s
 
 Las penas previstas en este artículo se aplicarán independientemente de las que correspondan por la comisión de cualquier otro delito.
 
-### CAPÍTULO VII. No Desempeño del Cargo
+### CAPÍTULO VI. Inducción Ilícita a Electores
 
 ###### ARTÍCULO 346.
 
@@ -4611,7 +4649,11 @@ También comete el delito a que se refiere este capítulo quien en negocio estab
 
 En caso de reincidencia, o que además del incumplimiento a las normas de que se trata se haya incurrido en otro ilícito, con independencia de las penas o sanciones que correspondan se decretará la cancelación definitiva de la licencia o permiso y, en su caso, el decomiso de los bienes respectivos.
 
-### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
+### CAPÍTULO VII. No Desempeño del Cargo
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 348.
 
@@ -4648,6 +4690,12 @@ Este delito se sancionará con una pena de tres a cinco años de prisión, y san
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN; MEDIOS DE TRANSPORTE; Y LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS
+
+### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 351.
 
@@ -4688,6 +4736,12 @@ A quien destruya, inutilice, quite o cambie un dispositivo o señal de seguridad
 ###### ARTÍCULO 356.
 
 A quien entorpezca, paralice o deje de prestar un servicio público de transporte, se le impondrá una sanción de dos a ocho años de prisión y sanción pecuniaria de doscientos a ochocientos días del valor de la unidad de medida y actualización.
+
+### CAPÍTULO IX. Violencia Política contra las Mujeres en Razón de Género
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 357.
 
@@ -4751,21 +4805,87 @@ El delito de violación de correspondencia sólo se perseguirá por querella nec
 
 ###### ARTÍCULO 365.
 
-Para los efectos de este Título, se entiende por delitos electorales los actos u omisiones que realicen los ciudadanos, funcionarios electorales, representantes partidistas, servidores públicos y candidatos que atenten contra la limpieza del voto y la efectividad del sufragio.
+Para los efectos de este Título se entiende por delitos electorales, los actos u omisiones que realicen los ciudadanos, funcionarios electorales, funcionarios partidistas, representantes partidistas, servidores públicos, precandidatos, candidatos, organizadores de campaña, y ministros de culto religioso, que atenten contra la limpieza del voto y la efectividad del sufragio.
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### ARTÍCULO 366.
 
-Para los efectos de este Título, se entiende por:
+PARA LOS EFECTOS DE ESTE TÍTULO, SE ENTIENDE POR:
 
-I. Funcionarios electorales, quienes, en los términos de la legislación electoral estatal, integran los órganos que cumplen funciones públicas electorales;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-II. Representantes de partido, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes, en el curso de los procesos electorales que se lleven a cabo en el Estado, los propios partidos otorguen representación para actuar en la jornada electoral ante los órganos correspondientes, en los términos de la legislación estatal electoral, y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-III. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales o municipales y, en general, los documentos expedidos en el ejercicio de sus funciones por el Consejo Estatal Electoral y de Participación Ciudadana.
+I. CANDIDATOS: LAS O LOS CIUDADANOS REGISTRADOS FORMALMENTE COMO TALES POR LA AUTORIDAD COMPETENTE;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+II. DOCUMENTOS PÚBLICOS ELECTORALES: LA CREDENCIAL PARA VOTAR, LOS LISTADOS NOMINALES, LAS BOLETAS ELECTORALES, LAS ACTAS OFICIALES DE INSTALACIÓN DE CASILLAS, DE LOS ESCRUTINIOS Y CÓMPUTO DE LAS MESAS DIRECTIVAS DE CASILLA, PAQUETES ELECTORALES Y EXPEDIENTES DE CASILLA, LAS ACTAS CIRCUNSTANCIADAS DE LAS SESIONES DE CÓMPUTO DE LOS CONSEJOS LOCALES Y DISTRITALES Y, EN GENERAL, LOS DOCUMENTOS EXPEDIDOS EN EL EJERCICIO DE SUS FUNCIONES POR EL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+III. FUNCIONARIOS ELECTORALES: QUIENES EN LOS TÉRMINOS DE LA LEGISLACIÓN ELECTORAL INTEGRAN LOS ÓRGANOS QUE CUMPLEN FUNCIONES ELECTORALES;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IV. FUNCIONARIOS PARTIDISTAS: LOS DIRIGENTES DE LOS PARTIDOS POLÍTICOS Y DE LAS AGRUPACIONES POLÍTICAS, Y SUS REPRESENTANTES ANTE EL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, ASÍ COMO LOS RESPONSABLES DE LAS FINANZAS DE LOS PARTIDOS POLÍTICOS, COALICIONES O CANDIDATURAS, EN LOS TÉRMINOS DE LA LEGISLACIÓN ELECTORAL;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+V. MATERIALES ELECTORALES: LOS ELEMENTOS FÍSICOS, TALES COMO URNAS, CANCELES O ELEMENTOS MODULARES PARA LA EMISIÓN DEL VOTO, MARCADORAS DE CREDENCIAL, LÍQUIDO INDELEBLE, ÚTILES DE ESCRITORIO, Y DEMÁS EQUIPAMIENTO AUTORIZADO PARA SU UTILIZACIÓN EN LAS CASILLAS ELECTORALES DURANTE LA JORNADA ELECTORAL;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+VI. ORGANIZADORES DE ACTOS DE CAMPAÑA: LAS PERSONAS QUE DIRIJAN, COORDINEN, INSTRUMENTEN O PARTICIPEN EN LA ORGANIZACIÓN DE LAS REUNIONES PÚBLICAS, ASAMBLEAS, MARCHAS Y, EN GENERAL, LOS ACTOS EN QUE LAS PERSONAS CANDIDATAS O VOCERAS DE LOS PARTIDOS POLÍTICOS SE DIRIGEN AL ELECTORADO PARA PROMOVER SUS CANDIDATURAS;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+VII. PRECANDIDATO: LA O EL CIUDADANO QUE PRETENDE SER POSTULADO COMO CANDIDATO A ALGÚN CARGO DE ELECCIÓN POPULAR, Y QUE HA CUMPLIDO CON LOS REQUISITOS QUE EXIGE LA LEGISLACIÓN ELECTORAL;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+VIII. REPRESENTANTES PARTIDISTAS: LAS O LOS DIRIGENTES DE LOS PARTIDOS POLÍTICOS, DE LAS COALICIONES, Y DE LAS AGRUPACIONES POLÍTICAS, SUS CANDIDATAS O CANDIDATOS, LAS Y LOS REPRESENTANTES ANTE LOS ÓRGANOS ELECTORALES, ASÍ COMO LOS RESPONSABLES DE LAS FINANZAS DE LOS PARTIDOS POLÍTICOS, COALICIONES O CANDIDATOS EN LOS TÉRMINOS DE LA LEGISLACIÓN ELECTORAL;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IX. SERVIDOR PÚBLICO: LA PERSONA QUE DESEMPEÑE UN EMPLEO, CARGO O COMISIÓN DE CUALQUIER NATURALEZA EN LOS PODERES DEL ESTADO, ORGANISMOS DESCENTRALIZADOS LOCALES, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA, ORGANIZACIONES Y SOCIEDADES ASIMILADAS A ÉSTAS, FIDEICOMISOS PÚBLICOS LOCALES, Y EN LOS AYUNTAMIENTOS, O QUE MANEJEN RECURSOS ECONÓMICOS DE DICHAS ENTIDADES, ASÍ COMO EN LOS ORGANISMOS A LOS QUE LA CONSTITUCIÓN DEL ESTADO OTORGUE AUTONOMÍA, Y
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+X. VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO: EN TÉRMINOS DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ, ES TODA ACCIÓN U OMISIÓN, INCLUIDA LA TOLERANCIA, BASADA EN ELEMENTOS DE GÉNERO Y EJERCIDA DENTRO DE LA ESFERA PÚBLICA O PRIVADA, QUE TENGA POR OBJETO O RESULTADO LIMITAR, ANULAR O MENOSCABAR EL EJERCICIO EFECTIVO DE LOS DERECHOS POLÍTICOS Y ELECTORALES DE UNA O VARIAS MUJERES, EL ACCESO AL PLENO EJERCICIO DE LAS ATRIBUCIONES INHERENTES A SU CARGO, LABOR O ACTIVIDAD, EL LIBRE DESARROLLO DE LA FUNCIÓN PÚBLICA, LA TOMA DE DECISIONES, LA LIBERTAD DE ORGANIZACIÓN, ASÍ COMO EL ACCESO Y EJERCICIO A LAS PRERROGATIVAS TRATÁNDOSE DE PRECANDIDATURAS, CANDIDATURAS, FUNCIONES O CARGOS PÚBLICOS DEL MISMO TIPO.
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+SE ENTENDERÁ QUE LAS ACCIONES U OMISIONES SE BASAN EN ELEMENTOS DE GÉNERO, CUANDO SE DIRIJAN A UNA MUJER POR SER MUJER; LE AFECTEN DESPROPORCIONADAMENTE O TENGAN UN IMPACTO DIFERENCIADO EN ELLA.
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 367.
 
-Por la Comisión de cualquiera de los delitos comprendidos en el presente Título se impondrá, además de la pena señalada, la inhabilitación para el desempeño de cargos públicos por un tiempo igual al doble de la pena de prisión impuesta y, en su caso, la destitución del cargo.
+Tratándose de servidores públicos, por la comisión de cualquiera de los delitos comprendidos en el presente Título se impondrá, además de la pena señalada, la inhabilitación para ocupar un empleo, cargo o comisión en el servicio público, de dos a seis años y, en su caso, la destitución del cargo.
 
 ###### ARTÍCULO 368.
 
@@ -4773,107 +4893,237 @@ Quien induzca o influya directamente en la voluntad de otro, para que incurra en
 
 ###### ARTÍCULO 369.
 
-Comete el delito de dolo en la emisión del voto quien:
+COMETE EL DELITO DE DOLO EN LA EMISIÓN DEL VOTO QUIEN:
 
-I. Vote a sabiendas de que no cumple con los requisitos que señala la Ley Electoral vigente en el Estado;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-II. Vote más de una vez en la misma elección;
+I. VOTE A SABIENDAS DE QUE NO CUMPLE CON LOS REQUISITOS QUE SEÑALA LA LEY ELECTORAL VIGENTE EN EL ESTADO;
 
-III. Viole de cualquier manera el secreto de voto;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-IV. Vote o pretenda votar con una credencial de la que no sea titular, o
+II. VOTE MÁS DE UNA VEZ EN LA MISMA ELECCIÓN;
 
-V. Suplante a un votante.
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+III. VIOLE DE CUALQUIER MANERA EL SECRETO DE VOTO;
 
-Este delito será sancionado con pena de seis meses a tres años de prisión, y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización.
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+IV. VOTE O PRETENDA VOTAR CON UNA CREDENCIAL DE LA QUE NO SEA TITULAR, O
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+V. SUPLANTE A UN VOTANTE.
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ESTE DELITO SERÁ SANCIONADO CON PENA DE SEIS MESES A TRES AÑOS DE PRISIÓN, Y SANCIÓN PECUNIARIA DE CINCUENTA A CIEN DÍAS DEL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
 
 ###### ARTÍCULO 370.
 
-Comete el delito de interferencia en el desarrollo del proceso electoral quien:
+Comete el delito de interferencia en el desarrollo del proceso electoral la persona que:
 
-I. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto o bien que comprometa el voto mediante amenaza o promesa;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-II. Impida en forma violenta la instalación o el cierre de una casilla;
+I. Obtenga o solicite evidencia del elector acerca de su intención en el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa;
 
-III. Haga proselitismo el día de la jornada electoral en las casillas o en el lugar en el que se encuentren formados los electores;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-IV. Haga proselitismo los días previos a la jornada en los que se encuentre prohibido por la ley cualquier acto de esa naturaleza;
+II. Impida sin causa legalmente justificada, en forma violenta la instalación, el cierre, o la clausura de una casilla;
 
-V. Obstaculice, altere o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-VI. Destruya, altere o no respete la propaganda electoral fijada por los partidos políticos;
+III. Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas, o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto o para que se abstengan de emitirlo;
 
-VII. Recoja, sin causa prevista por la Ley, credenciales para votar de los ciudadanos;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-VIII. Se presente a una casilla electoral en plan intimidatorio portando armas;
+IV. Durante los tres días previos a la elección y hasta la hora del cierre oficial de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión, que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos;
 
-IX. Usurpe funciones electorales;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-X. Prive de la libertad a los candidatos, sus representantes o los representantes de los partidos políticos, pretextando delitos o faltas inexistentes;
+V. Obstaculice, altere o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo; o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
-XI. Por cualquier medio, participe en la alteración del registro de electores, el padrón electoral, los listados nominales o en la expedición ilícita de credenciales para votar con fotografía, o
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XII. Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, o destruya o altere boletas o documentos electorales.
+VI. Recoja, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-Este delito se sancionará con pena de seis meses a cinco años de prisión y sanción pecuniaria de sesenta a quinientos días del valor de la unidad de medida y actualización.
+VII. Realice por cualquier medio algún acto que provoque temor o intimidación en el electorado, que atente contra la libertad del sufragio, o perturbe el orden o el libre acceso de los electores a la casilla;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+VIII. Usurpe funciones electorales;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IX. Participe, por cualquier medio, en la alteración del registro de electores, el padrón electoral, los listados nominales, o en la expedición ilícita de credenciales para votar con fotografía;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+X. Introduzca o sustraiga de las urnas ilícitamente, una o más boletas electorales, o destruya, o altere boletas, o documentos electorales;
+
+XI. (DEROGADA, P.O. 24 DE OCTUBRE DE 2020)
+
+XII. (DEROGADA, P.O. 24 DE OCTUBRE DE 2020)
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Este delito se sancionará con pena de seis meses a tres años de prisión y sanción pecuniaria de cincuenta a cien días del valor de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Si la conducta a la que se refieren las fracciones, II, y VII, se realizan por una o varias personas armadas, o que utilicen o porten objetos peligrosos, la pena señalada se aumentará hasta en una mitad, con independencia de las que correspondan por la comisión de otros delitos.
 
 ###### ARTÍCULO 371.
 
-Comete el delito de violaciones al proceso electoral el funcionario electoral o representante de partido político que:
+COMETE EL DELITO DE VIOLACIONES AL PROCESO ELECTORAL, EL FUNCIONARIO ELECTORAL, FUNCIONARIO PARTIDISTA, O EL REPRESENTANTE PARTIDISTA, QUE:
 
-I. Altere en cualquier forma, substituya, destruya o haga uso indebido de documentos relativos al padrón electoral o de cualquier documento de los organismos electorales, según la elección de que se trate;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-II. Induzca o altere los resultados electorales, sustraiga, modifique o destruya boletas electorales;
+I. ALTERE EN CUALQUIER FORMA, SUBSTITUYA, DESTRUYA O HAGA USO INDEBIDO DE DOCUMENTOS RELATIVOS AL PADRÓN ELECTORAL O DE CUALQUIER DOCUMENTO DE LOS ORGANISMOS ELECTORALES, SEGÚN LA ELECCIÓN DE QUE SE TRATE;
 
-III. No entregue o impida la entrega oportuna de documentos oficiales en los términos legales, sin mediar causa justificada;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-IV. Obstruya el desarrollo normal de la votación, sin mediar causa justificada;
+II. INDUZCA O ALTERE LOS RESULTADOS ELECTORALES, SUSTRAIGA, MODIFIQUE O DESTRUYA BOLETAS ELECTORALES;
 
-V. En el ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar en que los propios electores se encuentren formados;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-VI. Instale, abra o cierre dolosamente una urna o casilla fuera de los tiempos y formas previstos por la ley de la materia; la instale en lugar distinto al legalmente señalado, sin que exista causa justificada o impida su instalación;
+III. NO ENTREGUE O IMPIDA LA ENTREGA OPORTUNA DE DOCUMENTOS OFICIALES EN LOS TÉRMINOS LEGALES, SIN MEDIAR CAUSA JUSTIFICADA;
 
-VII. Expulse, sin causa justificada, de la casilla electoral al representante de un partido político debidamente acreditado o coarte los derechos que la Ley le concede;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-VIII. Se abstenga de cumplir, sin causa justificada, sus obligaciones electorales en perjuicio del proceso;
+IV. OBSTRUYA EL DESARROLLO NORMAL DE LA VOTACIÓN, SIN MEDIAR CAUSA JUSTIFICADA;
 
-IX. Conociendo la existencia de condiciones o actividades que atenten contra la libertad o el secreto del voto, no tome las medidas conducentes para que cesen, en el ámbito de su competencia;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-X. Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple con los requisitos de ley o que introduzca en las urnas ilícitamente una o más boletas electorales;
+V. EN EL EJERCICIO DE SUS FUNCIONES, EJERZA PRESIÓN SOBRE LOS ELECTORES Y LOS INDUZCA A VOTAR POR UN CANDIDATO O PARTIDO DETERMINADO, EN EL INTERIOR DE LA CASILLA O EN EL LUGAR EN QUE LOS PROPIOS ELECTORES SE ENCUENTREN FORMADOS;
 
-XI. Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XII. Siendo asistente electoral, se exceda en sus funciones en perjuicio del proceso;
+VI. INSTALE, ABRA O CIERRE DOLOSAMENTE UNA URNA O CASILLA FUERA DE LOS TIEMPOS Y FORMAS PREVISTOS POR LA LEY DE LA MATERIA; LA INSTALE EN LUGAR DISTINTO AL LEGALMENTE SEÑALADO, SIN QUE EXISTA CAUSA JUSTIFICADA O IMPIDA SU INSTALACIÓN;
 
-XIII. Retenga o no entregue, en los términos electorales correspondientes, los paquetes electorales;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XIV. Realice propaganda electoral o proselitismo mientras cumple sus funciones durante la jornada electoral;
+VII. EXPULSE, SIN CAUSA JUSTIFICADA, DE LA CASILLA ELECTORAL AL REPRESENTANTE DE UN PARTIDO POLÍTICO DEBIDAMENTE ACREDITADO O COARTE LOS DERECHOS QUE LA LEY LE CONCEDE;
 
-XV. Obstaculice el desarrollo normal de la votación, sin mediar causa justificada o ejerza violencia física o moral sobre los funcionarios electorales, o
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XVI. A sabiendas, aproveche ilícitamente fondos, bienes o servicios distintos a los permitidos legalmente para efectos del financiamiento del partido político al que pertenezca.
+VIII. SE ABSTENGA DE CUMPLIR, SIN CAUSA JUSTIFICADA, SUS OBLIGACIONES ELECTORALES EN PERJUICIO DEL PROCESO;
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-Este delito se sancionará con pena de tres meses a cinco años de prisión y sanción pecuniaria de treinta a quinientos días del valor de la unidad de medida y actualización.
+IX. CONOCIENDO LA EXISTENCIA DE CONDICIONES O ACTIVIDADES QUE ATENTEN CONTRA LA LIBERTAD O EL SECRETO DEL VOTO, NO TOME LAS MEDIDAS CONDUCENTES PARA QUE CESEN, EN EL ÁMBITO DE SU COMPETENCIA;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+X. PERMITA O TOLERE QUE UN CIUDADANO EMITA SU VOTO, A SABIENDAS DE QUE NO CUMPLE CON LOS REQUISITOS DE LEY O QUE INTRODUZCA EN LAS URNAS ILÍCITAMENTE UNA O MÁS BOLETAS ELECTORALES;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+XI. PROPAGUE DOLOSAMENTE NOTICIAS FALSAS EN TORNO AL DESARROLLO DE LA JORNADA ELECTORAL O RESPECTO DE SUS RESULTADOS;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XII. REALICE FUNCIONES ELECTORALES QUE LEGALMENTE NO LE HAYAN SIDO ENCOMENDADAS;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+XIII. RETENGA O NO ENTREGUE, EN LOS TÉRMINOS ELECTORALES CORRESPONDIENTES, LOS PAQUETES ELECTORALES;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+XIV. REALICE PROPAGANDA ELECTORAL O PROSELITISMO MIENTRAS CUMPLE SUS FUNCIONES DURANTE LA JORNADA ELECTORAL;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XV. OBSTACULICE EL DESARROLLO NORMAL DE LA VOTACIÓN, SIN MEDIAR CAUSA JUSTIFICADA O EJERZA VIOLENCIA FÍSICA O MORAL SOBRE LOS FUNCIONARIOS ELECTORALES, O;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XVI. A SABIENDAS, APROVECHE ILÍCITAMENTE FONDOS, BIENES O SERVICIOS DISTINTOS A LOS PERMITIDOS LEGALMENTE PARA EFECTOS DEL FINANCIAMIENTO DEL PARTIDO POLÍTICO AL QUE PERTENEZCA;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XVII. SE ABSTENGA DE RENDIR CUENTAS O DE REALIZAR LA COMPROBACIÓN O JUSTIFICACIÓN DE LOS GASTOS ORDINARIOS O GASTOS DE EVENTOS PROSELITISTAS DE CAMPAÑA DE ALGÚN PARTIDO POLÍTICO, COALICIÓN, AGRUPACIÓN POLÍTICA NACIONAL O CANDIDATO, UNA VEZ QUE HUBIESE SIDO LEGALMENTE REQUERIDO DENTRO DEL ÁMBITO DE SUS FACULTADES;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XVIII. OCULTE, ALTERE O NIEGUE LA INFORMACIÓN QUE LE SEA LEGALMENTE REQUERIDA POR LA AUTORIDAD ELECTORAL COMPETENTE, O
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XIX. UTILICE FACTURAS O DOCUMENTOS COMPROBATORIOS DE GASTO DE PARTIDO POLÍTICO O CANDIDATO, ALTERANDO EL COSTO REAL DE LOS BIENES O SERVICIOS PRESTADOS.
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ESTE DELITO SE SANCIONARÁ CON PENA DE DOS A SEIS AÑOS DE PRISIÓN Y SANCIÓN PECUNIARIA DE CIEN A DOSCIENTOS DÍAS DEL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
 
 ###### ARTÍCULO 372.
 
-Comete el delito a que se refiere este Capítulo quien, siendo servidor público:
+COMETE EL DELITO DE VIOLACIONES ELECTORALES COMETIDAS POR SERVIDORES PÚBLICOS, LA PERSONA QUE SIENDO SERVIDOR PÚBLICO:
 
-I. Obligue a sus subordinados a emitir sus votos en favor de determinado partido o candidato;
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE SEPTIEMBRE DE 2014, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-II. Condicione la prestación de un servicio público o la realización de una obra a la emisión del sufragio en favor de un partido político o candidato, o
+I. OBLIGUE A SUS SUBORDINADOS A EMITIR SUS VOTOS EN FAVOR DE DETERMINADO PARTIDO O CANDIDATO;
 
-III. Destine recursos que tenga a su disposición en virtud de su cargo para apoyar a un determinado partido político o candidato o proporcione ese apoyo a través de sus subordinados, usando el tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-Este delito se sancionará con pena de tres meses a seis años de prisión y sanción pecuniaria de treinta a seiscientos días del valor de la unidad de medida y actualización. La imposición de esta pena es sin perjuicio de aquella que le pudiera corresponder por el delito de peculado.
+II. CONDICIONE LA PRESTACIÓN DE UN SERVICIO PÚBLICO O LA REALIZACIÓN DE UNA OBRA A LA EMISIÓN DEL SUFRAGIO EN FAVOR DE UN PARTIDO POLÍTICO O CANDIDATO, O;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+III. DESTINE RECURSOS QUE TENGA A SU DISPOSICIÓN EN VIRTUD DE SU CARGO PARA APOYAR A UN DETERMINADO PARTIDO POLÍTICO O CANDIDATO O PROPORCIONE ESE APOYO A TRAVÉS DE SUS SUBORDINADOS, USANDO EL TIEMPO CORRESPONDIENTE A SUS LABORES PARA QUE ÉSTOS PRESTEN SERVICIOS A UN PARTIDO POLÍTICO O CANDIDATO;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IV. DESTINE, UTILICE O PERMITA LA UTILIZACIÓN, DE MANERA ILEGAL DE FONDOS, BIENES O SERVICIOS QUE TENGA A SU DISPOSICIÓN, EN VIRTUD DE SU CARGO, AL APOYO O AL PERJUICIO DE UN PRECANDIDATO, PARTIDO POLÍTICO, COALICIÓN, AGRUPACIÓN POLÍTICA O CANDIDATO, SIN PERJUICIO DE LAS PENAS QUE PUEDAN CORRESPONDER POR EL DELITO DE PECULADO;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+V. PROPORCIONE APOYO O PRESTE ALGÚN SERVICIO A UN PRECANDIDATO, PARTIDO POLÍTICO, COALICIÓN, AGRUPACIÓN POLÍTICA O CANDIDATO, SEA QUE LO HAGA POR SÍ MISMO O A TRAVÉS DE SUS SUBORDINADOS, EN SUS HORARIOS DE LABORES;
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+VI. SOLICITE A SUS SUBORDINADOS, POR CUALQUIER MEDIO, APORTACIONES DE DINERO O EN ESPECIE PARA APOYAR A UN PRECANDIDATO, CANDIDATO, PARTIDO POLÍTICO, COALICIÓN O AGRUPACIÓN POLÍTICA, O
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+VII. SE ABSTENGA DE ENTREGAR O NIEGUE, SIN CAUSA JUSTIFICADA, LA INFORMACIÓN QUE LE SEA SOLICITADA POR LA AUTORIDAD ELECTORAL COMPETENTE, RELACIONADA CON FUNCIONES DE FISCALIZACIÓN.
+
+(NOTA: EL 22 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 290/2020, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0784, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ESTE DELITO SE SANCIONARÁ CON PENA DE DOS A NUEVE AÑOS DE PRISIÓN, Y SANCIÓN PECUNIARIA DE DOSCIENTOS A CUATROCIENTOS DÍAS DEL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. LA IMPOSICIÓN DE ESTA PENA ES SIN PERJUICIO DE AQUELLA QUE LE PUDIERA CORRESPONDER POR EL DELITO DE PECULADO.
 
 ###### ARTÍCULO 373.
 
@@ -4893,19 +5143,61 @@ Este delito se sancionará con una pena de cinco meses a cinco años de prisión
 
 ###### ARTÍCULO 374.
 
-Comete el delito de no desempeño del cargo quien, habiendo sido electo Gobernador, Diputado local, Presidente Municipal, Síndico, o Regidor, no se presente, sin causa justificada, a desempeñar el encargo dentro del plazo señalado por la Constitución Política del Estado.
+Comete el delito de no desempeño del cargo, la persona que habiendo sido electa en el cargo de la Gubernatura, diputación local, titular de presidencia municipal, sindicatura, o regiduría, no se presente, sin causa justificada, a desempeñar el encargo dentro del plazo señalado por la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Este delito será sancionado con una pena de un mes a un año de prisión y sanción pecuniaria de cien a un mil días del valor de la unidad de medida y actualización.
+Este delito será sancionado con una pena de un mes a un año de prisión, la suspensión de sus derechos políticos hasta por seis años, y sanción pecuniaria de cien a unos mil días del valor de la unidad de medida y actualización.
 
 ###### ARTÍCULO 375.
 
-Cometen el delito a que se refiere este capítulo los ministros de culto religioso que por cualquier medio en el desarrollo de los actos propios de su ministerio, bien sea en los edificios destinados al culto o en cualquier otro lugar, induzcan al electorado a votar en favor o en contra de algún candidato o partido político, o abstenerse de votar.
+Cometen el delito de inducción al voto por ministros del culto religioso, las personas ministros de culto religioso que por cualquier medio en el desarrollo de los actos propios de su ministerio, bien sea en los edificios destinados al culto o en cualquier otro lugar, induzcan al electorado a votar en favor o en contra de algún candidato o partido político, o coalición, o abstenerse de votar.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+Este delito se sancionará con sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización.
 
-Este delito se sancionará con sanción pecuniaria de cien a mil días del valor de la unidad de medida y actualización.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+###### ARTÍCULO 376.
+
+Comete el delito de violencia política contra las mujeres en razón de género, quien por sí o interpósita persona:
+
+I. Ejerza cualquier tipo de violencia, en términos de ley, contra una mujer, que afecte el ejercicio de sus derechos políticos y electorales, o el desempeño de un cargo público;
+
+II. Restrinja o anule el derecho al voto libre y secreto de una mujer;
+
+III. Amenace o intimide a una mujer, directa o indirectamente, con el objeto de inducirla u obligarla a presentar su renuncia a una precandidatura o candidatura de elección popular;
+
+IV. Amenace o intimide a una mujer, directa o indirectamente, con el objeto de inducirla u obligarla a presentar su renuncia al cargo para el que haya sido electa o designada;
+
+V. Impida, por cualquier medio, que las mujeres electas o designadas a cualquier cargo público; rindan protesta; ejerzan libremente su cargo, así como las funciones inherentes al mismo;
+
+VI. Ejerza cualquier tipo de violencia, con la finalidad de obligar a una o varias mujeres a suscribir documentos o avalar decisiones contrarias a su voluntad, en el ejercicio de sus derechos políticos y electorales;
+
+VII. Limite o niegue a una mujer el otorgamiento, ejercicio de recursos o prerrogativas, en términos de ley, para el desempeño de sus funciones, empleo, cargo, comisión, o con la finalidad de limitar el ejercicio de sus derechos políticos y electorales;
+
+VIII. Publique o divulgue imágenes, mensajes o información privada de una mujer, que no tenga relación con su vida pública, utilizando estereotipos de género que limiten o menoscaben el ejercicio de sus derechos políticos y electorales;
+
+IX. Limite o niegue que una mujer reciba la remuneración por el desempeño de sus funciones, empleo, cargo o comisión;
+
+X. Proporcione información incompleta o datos falsos a las autoridades administrativas o jurisdiccionales en materia electoral, con la finalidad de impedir el ejercicio de los derechos políticos y electorales de las mujeres;
+
+XI. Impida, por cualquier medio, que una mujer asista a las sesiones ordinarias o extraordinarias, así como a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo;
+
+XII. Impida a una mujer su derecho a voz y voto en el ejercicio del cargo;
+
+XIII. Discrimine a una mujer embarazada, con la finalidad de evitar el ejercicio de sus derechos políticos y electorales, impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad, o de cualquier otra contemplada en la normatividad, y
+
+XIV. Realice o distribuya propaganda político electoral que degrade o denigre a una mujer, basándose en estereotipos de género, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales.
+
+Las conductas señaladas en las fracciones I a la VI, serán sancionadas con pena de cuatro a seis años de prisión y sanción pecuniaria de doscientos a trescientos días del valor de la unidad de medida y actualización.
+
+Las conductas señaladas en las fracciones de la VII a la IX, serán sancionadas con pena de dos a cuatro años de prisión y sanción pecuniaria de cien a doscientas días del valor de la unidad de medida y actualización.
+
+Las conductas señaladas en las fracciones de la X a la XIV, serán sancionadas con pena de uno a dos años de prisión y sanción pecuniaria de cincuenta a cien días del valor de la unidad de medida y actualización.
+
+Cuando las conductas señaladas en las fracciones anteriores fueren realizadas por servidora o servidor público, persona funcionaria electoral, funcionaria partidista, aspirante a candidata independiente, precandidata o candidata, o con su aquiescencia, la pena se aumentará un tercio.
+
+Cuando las conductas señaladas en las fracciones anteriores, fueren cometidas contra una mujer perteneciente a un pueblo o comunidad indígena, la pena se incrementará una mitad.
+
+Para la determinación de la responsabilidad y la imposición de las penas señaladas en este artículo, se seguirán las reglas de autoría y participación en términos de la legislación penal aplicable.
 
 SEGUNDO. Se ABROGA el Código Penal del Estado de San Luis Potosí, expedido en el Decreto Legislativo 1155 publicado en el Periódico Oficial del Estado el dieciséis de octubre de dos mil doce.
 
@@ -5332,3 +5624,19 @@ P.O. 16 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0766.- SE REFORMA EL ARTÍCULO 190 EN SU PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0784.- SE REFORMA LOS ARTÍCULOS 40 Y 32; SE ADICIONA AL ARTÍCULO 32, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 88, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 365, 366, 371 , 372, 374 Y 375; ADICIONA A LOS ARTÍCULOS 366 DIEZ PÁRRAFOS, 370 UN PÁRRAFO, 372 CUATRO FRACCIONES Y EN LA PARTE ESPECIAL EN SU TÍTULO DÉCIMO NOVENO EL CAPÍTULO IX "VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO" Y EL ARTÍCULO 376; Y DEROGA DEL ARTÍCULO 370 LAS FRACCIONES XI Y XII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XXIX; Y ADICIONA AL MISMO ARTÍCULO 57 UNA FRACCIÓN, ÉSTA COMO XXX, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. Y REFORMA EL ARTÍCULO 56, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0785.- SE ADICIONA A LA PARTE ESPECIAL EN SU TÍTULO PRIMERO EL CAPÍTULO III BIS “LESIONES COMETIDAS CONTRA LA MUJER EN RAZÓN DE SU GÉNERO”, Y LOS ARTÍCULOS 142 BIS Y 142 TER, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
