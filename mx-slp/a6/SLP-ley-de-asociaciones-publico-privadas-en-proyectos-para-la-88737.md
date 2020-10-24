@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2019-12-27"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -1149,9 +1149,25 @@ Con la autorización previa de la Secretaría o de la Tesorería Municipal en su
 
 a) razones de interés general;
 
-b) eventos de caso fortuito o de fuerza mayor que afecten la prestación de los servicios; o
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-c) motivos justificados extingan la necesidad de requerir los servicios originalmente contratados y se acredite que de continuar con el cumplimiento de las obligaciones pactadas se ocasionaría algún daño o perjuicio a la dependencia o entidad.
+b) eventos de caso fortuito o de fuerza mayor que afecten la prestación de los servicios;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+c) motivos justificados extingan la necesidad de requerir los servicios originalmente contratados y se acredite que de continuar con el cumplimiento de las obligaciones pactadas se ocasionaría algún daño o perjuicio a la dependencia o entidad;
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+d) deficiencias y/o incumplimientos reiterados en la prestación de un servicio, previo análisis y dictamen de la Contraloría General del Estado, o contralorías municipales, o
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+e) cancelación de las autorizaciones requeridas para el proyecto o servicio.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Para el cumplimiento del inciso d) del presente artículo, la Secretaría o Tesorería Municipal, en su caso, podrá resolver en qué casos realizar el análisis y el dictamen, por determinación propia, o por petición de ciudadanos o servidores públicos.
 
 La determinación de dar por terminado anticipadamente el contrato, requiere el establecimiento de la causa que lo motiva y la expresión de los razonamientos y pruebas que permitan invocarla.
 
@@ -1420,3 +1436,11 @@ P.O. 27 DE DICIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0786.- SE REFORMA ARTICULO 71 EN SUS INCISOS B) Y C); Y ADICIONA AL MISMO ARTÍCULO 71, TRES PÁRRAFOS, ESTOS COMO, INCISOS: D), Y E), Y PÁRRAFO SÉPTIMO, DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
