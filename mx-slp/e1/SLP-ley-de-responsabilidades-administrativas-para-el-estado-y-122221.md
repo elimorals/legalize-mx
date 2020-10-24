@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2020-08-07"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -561,11 +561,11 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el servidor público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 56.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 51 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realice por sí o a través de un tercero, alguna de las conductas descritas en los artículos, 20 Ter, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y 4° fracción XII, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, en materia de violencia política contra las mujeres en razón de género.
+Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 51 de esta Ley o para causar perjuicio a alguna persona o al servicio público; o cuando realiza por sí o a través de un tercero, alguna de las conductas descritas en el artículo 4° fracción XII, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 57.
 
@@ -1888,3 +1888,11 @@ P.O. 7 DE AGOSTO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0784.- SE REFORMA (SIC) LOS ARTÍCULOS 4° Y 32; SE ADICIONA AL ARTÍCULO 32, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 88, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA (SIC) LOS ARTÍCULOS 365, 366, 371 , 372, 374 Y 375; ADICIONA A LOS ARTÍCULOS 366 DIEZ PÁRRAFOS, 370 UN PÁRRAFO, 372 CUATRO FRACCIONES Y EN LA PARTE ESPECIAL EN SU TÍTULO DÉCIMO NOVENO EL CAPÍTULO IX “VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO” Y EL ARTÍCULO 376; Y DEROGA DEL ARTÍCULO 370 LAS FRACCIONES XI Y XII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XXIX; Y ADICIONA AL MISMO ARTÍCULO 57 UNA FRACCIÓN, ÉSTA COMO XXX, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. Y REFORMA EL ARTÍCULO 56, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
