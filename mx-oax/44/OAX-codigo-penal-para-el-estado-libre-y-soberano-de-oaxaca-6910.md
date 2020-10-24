@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-10-03"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -6133,13 +6133,19 @@ Este delito se perseguirá de oficio.
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-413.- A quien sin motivo justificado incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de tres a cinco años de prisión y de cien a cuatrocientos días multa, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente. Para los efectos de este artículo, se tendrá por consumado el delito aun cuando él o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
+413. A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de cuatro a ocho años de prisión y de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente. Para los efectos de este artículo, se tendrá por consumado el delito aun cuando él o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
 Los alimentos comprenderán la comida, el vestido, la habitación, la asistencia en caso de enfermedad y, en su caso, los gastos de embarazo y parto. Respecto a los menores de edad, comprende, además, los gastos necesarios para la educación básica y para proporcionarle un oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
 También comprenden las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento y en su caso, los gastos de funerales.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
 Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el Juez determinará el pago de los alimentos o la reparación del daño, con base en la capacidad económica del deudor; el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años; así como del estado de necesidad de los acreedores.
 
@@ -7328,5 +7334,13 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1656.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1703.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 413 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
