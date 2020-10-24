@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-10-17"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -2765,9 +2765,11 @@ En cada Municipio se integrará un Consejo Municipal, que será un órgano de co
 
 La integración y facultades de los Consejos Municipales estarán determinadas por la Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 163.
 
-Cada Municipio establecerá una Unidad de Protección Civil, la cual tendrá atribuciones que determine la Ley de la materia.
+Cada Municipio establecerá una Unidad de Protección Civil, la cual estará obligada a capacitarse por lo menos una vez cada año, de forma virtual o presencial, misma que tendrá las atribuciones que determine la Ley de la materia.
 
 ### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
 
@@ -3964,6 +3966,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 17 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1692.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 141 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1714.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 163 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
