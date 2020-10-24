@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2020-10-03"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -821,7 +821,7 @@ II. Individual Motorizado:
 
 a) Taxi. El que se presta con automóvil dentro del territorio de un Municipio o de una zona conurbada, sin itinerario ni horario fijo, y
 
-b) Mototaxi. El que se presta con motocicleta de tres ruedas dentro de zonas periféricas de un Municipio o zona conurbada, que sin encontrarse sujeto a itinerario ni horario fijo deberá prestar el servicio y circular dentro de la zona y por las vialidades exclusivamente autorizadas por la Secretaría.
+b) (DEROGADO, P.O. 24 DE OCTUBRE DE 2020)
 
 III. Individual No Motorizado:
 
@@ -1343,9 +1343,11 @@ Para prestar el servicio de taxi, se otorgarán para operar solo en el territori
 
 La Secretaría establecerá para cada zona las vialidades donde se prestará el servicio de mototaxi y bicitaxi, y circulara en el lugar donde se realizó el estudio técnico, no considerándose vialidades estatales primarias.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 112.
 
-Las concesiones para prestar el servicio público de taxi, mototaxi y bicitaxi se otorgarán exclusivamente a personas físicas y sólo podrán ser titulares de una concesión.
+Las concesiones para prestar el servicio público de taxi y bicitaxi se otorgarán exclusivamente a personas físicas y sólo podrán ser titulares de una concesión.
 
 ###### Artículo 113.
 
@@ -1355,7 +1357,9 @@ I. Para el transporte público colectivo: diez años;
 
 II. Para el transporte público individual taxi: diez años;
 
-III. Para el transporte público individual mototaxi y bicitaxi: cinco años; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+III. Para el transporte público individual bicitaxi: cinco años; y
 
 IV. Para el transporte público de carga en todas sus modalidades: diez años.
 
@@ -2692,3 +2696,13 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1731.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 112 Y LA FRACCIÓN III DEL ARTÍCULO 113; Y SE DEROGA EL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 52, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Las personas que cuentan con título de concesión para la prestación del servicio individual de transporte, en su modalidad mototaxi, continuarán con los derechos y obligaciones que se establecen en la presente Ley.
