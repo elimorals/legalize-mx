@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2020-10-20"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -563,9 +563,19 @@ c) Datos y observaciones médicas relevantes, como fecha de diagnóstico, etapa 
 
 d) Fuente de información de los datos.
 
-e) Toda aquella información que considere la Secretaría, para lo cual se podrá solicitar está a instituciones de salud pública, social y privada. El Registro debe ser operado en apego a los principios de protección de datos personales, y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XVI. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
+e) Toda aquella información que considere la Secretaría, para lo cual se podrá solicitar está a instituciones de salud pública, social y privada. El Registro debe ser operado en apego a los principios de protección de datos personales;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XVI. La prevención y el control de los efectos derivados de condiciones estresantes en que se brindan los servicios de salud ya sea por la gravedad, peligrosidad, emergencia o situación precaria en la que han tenido que participar para realizar su labor;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XVII. La coordinación con las autoridades municipales para implementar brigadas médicas, mismas que, en la medida de sus posibilidades presupuestales, proporcionarán medidas de protección entre la población cuando haya sido declarada por parte de las autoridades sanitarias alguna pandemia o epidemia, privilegiando a las personas que se encuentren en mayor grado de vulnerabilidad, y
+
+XVIII. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
 
 ###### ARTICULO 15.
 
@@ -1705,11 +1715,17 @@ I. Promover hábitos de conducta que contribuyan a proteger la salud o a solucio
 
 II. Fomentar en la población el desarrollo de actitudes conductas que le permitan participar en la erradicación y prevención de enfermedades individuales, colectivas y accidentes; y protegerla de los riesgos que pongan en peligro su salud y la de las demás personas;
 
-III. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+III. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IV. Difundir a la población ante la existencia de una pandemia, el autocuidado mediante la implantación de hábitos saludables y el uso de objetos o accesorios, que contribuyan a la protección del padecimiento que se trate, para sí o frente a terceros, y
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-IV. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, prevención del embarazo adolescente, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes y detección oportuna de enfermedades.
+V. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, prevención del embarazo adolescente, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2016)</small>
 
@@ -1863,7 +1879,9 @@ Asimismo, promoverán la realización de las actividades de vigilancia epidemiol
 
 I. Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis virales, y otras enfermedades del aparato digestivo;
 
-II. Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+II. Influenza epidémica, virus SARS-CoV-2 (Covid-19), otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
 
 III. Tuberculosis;
 
@@ -1887,9 +1905,15 @@ XI. Helmintiasis intestinales y extraintestinales;
 
 XII. Toxoplasmosis;
 
-XIII. Síndrome de inmunodeficiencia adquirida (SIDA), y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XIV. Las demás que determinen el Consejo de Salubridad General, y otros tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
+XIII. Síndrome de inmunodeficiencia adquirida (SIDA);
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XIV. Coronavirus 2 del síndrome respiratorio agudo grave (SARS-CoV-2), y
+
+XV. Las demás que determinen el Consejo de Salubridad General, y otros tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
 
@@ -1905,7 +1929,9 @@ I. Inmediatamente, en los casos individuales de enfermedades objeto del Reglamen
 
 II. De manera inmediata, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
 
-III. En un plazo no mayor de veinticuatro horas, en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tos-ferina, rabia, así como los de difteria y los casos humanos de encefalitis equina;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+III. En un plazo no mayor de veinticuatro horas, en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tos-ferina, rabia, así como los de difteria, virus SARS-CoV-2 (Covid-19), y los casos humanos de encefalitis equina;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -1957,11 +1983,15 @@ VI. La destrucción o control de vectores y reservorios y fuentes de infección 
 
 VII. La inspección de personas pasajeras que puedan ser portadoras de gérmenes, así como de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos;
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-VIII. En caso de confirmar la violencia de género, proporcionar la atención conforme a las normas establecidas y dar parte a las autoridades correspondientes, y
+VIII. En caso de confirmar la violencia de género, proporcionar la atención conforme a las normas establecidas y dar parte a las autoridades correspondientes;
 
-IX. Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud del Estado.
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IX. La restricción y, en su caso, disuasión, retiro o dispersamiento de personas en y de lugares públicos, así como de privados con aglomeraciones de más de una persona, que no respeten las indicaciones sanitarias, o que no porten las medidas de protección que haya declarado la autoridad sanitaria para enfrentar una pandemia o determine la autoridad sanitaria en aras de protección de la salud, y
+
+X. Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud del Estado.
 
 ###### ARTICULO 109.
 
@@ -3963,6 +3993,16 @@ III. Clausura temporal o definitiva, que podrá ser parcial o total, y
 
 IV. Arresto hasta por treinta y seis horas.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 380 BIS. La inobservancia a las determinaciones que durante una pandemia decrete la autoridad sanitaria, dará lugar indistintamente a las siguientes sanciones:
+
+I. Retiro del lugar del que se trate;
+
+II. Dispersión, y
+
+III. Trabajo en favor de la comunidad.
+
 ###### ARTICULO 381.
 
 Al imponerse una sanción se fundará y motivará la resolución, tomando en cuenta:
@@ -4630,5 +4670,13 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0773.- SE REFORMA LOS ARTÍCULOS 7° EN SUS FRACCIONES X Y XI, 8° EN SU FRACCIÓN VIII, 13 EN EL APARTADO A SU FRACCIÓN XII, 15 EN SU FRACCIÓN V, 20 QUÁTER EN SU FRACCIÓN III, 23 EN SUS FRACCIONES X Y XI, 25 EN SU FRACCIÓN XIV, 62 EN SU FRACCIÓN IV, 77 EN SU PÁRRAFO SEGUNDO, 78 EN SU FRACCIÓN II Y 80; Y ADICIONA A Y LOS ARTÍCULOS 5° EL APARTADO D, 7º LA FRACCIÓN XII, 13 EN EL APARTADO A UNA FRACCIÓN, ÉSTA COMO XIII, 15 UNA FRACCIÓN, ÉSTA COMO VI, 23 LA FRACCIÓN XII, 25 UNA FRACCIÓN, ÉSTA COMO XV Y 62 UNA FRACCIÓN, ÉSTA COMO V, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0779.- SE REFORMA LOS ARTÍCULOS 14 EN SU FRACCIÓN XV, 92 EN SU FRACCIÓN III, 103 EN SU FRACCIÓN II, 104 EN SU FRACCIÓN III Y 108 EN SU FRACCIÓN VIII; Y ADICIONA A Y LOS ARTÍCULOS, 14 DOS FRACCIONES, ÉSTAS COMO XVI Y XVII, 92 UNA FRACCIÓN, ÉSTA COMO IV, 103 UNA FRACCIÓN, ÉSTA COMO XIV, 108 UNA FRACCIÓN, ÉSTA COMO IX Y 380 BIS, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
