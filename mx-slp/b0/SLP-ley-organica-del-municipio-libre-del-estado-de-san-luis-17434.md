@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2020-08-20"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1393,11 +1393,11 @@ VII. Ejercer la facultad para hacer efectivo el pago de las contribuciones cuyo 
 
 VIII. Llevar la contabilidad del municipio;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-IX. Formular trimestralmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el Ayuntamiento, deberáì (sic) publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del ayuntamiento.
+IX. Formular trimestralmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el Ayuntamiento, deberá publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del ayuntamiento.
 
-Cuando el ayuntamiento se encuentre en su último año de Ejercicio Legal, deberá formular de manera mensual la información financiera de los meses de julio y agosto del año respectivo, debiendo enviarlos posteriormente para su fiscalización al Congreso del Estado; el ayuntamiento entrante deberá formular el informe trimestral de julio a septiembre, antes de los diez días del mes siguiente;
+Cuando el ayuntamiento se encuentre en su último año de Ejercicio Legal, deberá formular de manera mensual la información financiera de los meses de julio y agosto del año respectivo, debiendo enviarlos al Congreso del Estado para su fiscalización, dentro de los diez días del mes siguiente. Corresponderá al ayuntamiento entrante formular y remitir en el mismo plazo, el informe financiero del mes de septiembre, con base en la información financiera proporcionada en la entrega-recepción;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -1697,13 +1697,13 @@ XL. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 En los municipios que cuenten con una población indígena significativa, los ayuntamientos contarán con un Departamento de Asuntos Indígenas para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 88.
 
-El Departamento de Asuntos Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, la que será propuesta por las comunidades y pueblos indígenas, y ratificado por el presidente municipal.
+El Departamento de asuntos indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, la que será propuesta de las comunidades y pueblos indígenas, de conformidad con sus sistemas normativos y formas de organización comunitaria, garantizando el principio de paridad de género, en cumplimiento de lo establecido en el artículo 2o. de la Constitución Federal. La persona designada por las comunidades y pueblos indígenas, deberá ser ratificada por el presidente municipal para la ocupación del cargo.
 
-El Jefe del Departamento realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del Municipio correspondiente. Se procurará que el personal de este Departamento sea preferentemente indígena.
+La o el jefe del departamento realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del municipio correspondiente. Se procurará que el personal de este departamento sea preferentemente indígena.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2014)</small>
 
@@ -3250,6 +3250,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE AGOSTO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0728.- SE DEROGA DEL ARTÍCULO 85 BIS LA FRACCIÓN II, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0781.- SE REFORMA EL ARTÍCULO 81 EN SU FRACCIÓN IX, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE ADICIONA EL ARTÍCULO 60 BIS, DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0784.- SE REFORMA LOS ARTÍCULOS 4º Y 32; SE ADICIONA AL ARTÍCULO 32, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 88, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 365, 366, 371 , 372, 374 Y 375; ADICIONA A LOS ARTÍCULOS 366 DIEZ PÁRRAFOS, 370 UN PÁRRAFO, 372 CUATRO FRACCIONES Y EN LA PARTE ESPECIAL EN SU TÍTULO DÉCIMO NOVENO EL CAPÍTULO IX “VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO” Y EL ARTÍCULO 376; Y DEROGA DEL ARTÍCULO 370 LAS FRACCIONES XI Y XII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XXIX; Y ADICIONA AL MISMO ARTÍCULO 57 UNA FRACCIÓN, ÉSTA COMO XXX, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. Y REFORMA EL ARTÍCULO 56, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
