@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-82750
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2018-10-13"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el día jueves 18 del año 2011.
 
@@ -65,7 +65,9 @@ VII. Determinar y establecer las bases para la creación, operación y funcionam
 
 VIII. Regular y administrar las actividades de pesca y acuacultura en los cuerpos de agua continental ubicadas dentro del territorio del Estado, de conformidad a lo establecido en la Ley General de Pesca y Acuacultura Sustentables;
 
-IX. Procurar y promover que a las comunidades y pueblos indígenas, les sea respetado su derecho preferente sobre los recursos pesqueros y acuícolas de los lugares que ocupen y habiten;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IX. Reconocer, proteger y fomentar la pesca artesanal; así como procurar y promover que, a las comunidades y pueblos indígenas, les sea respetado su derecho preferente sobre los recursos pesqueros y acuícolas de los lugares que ocupen y habiten;
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2013)</small>
 
@@ -160,6 +162,10 @@ XXVI. Ordenamiento pesquero: Al Conjunto de instrumentos cuyo objeto es regular 
 XXVII. Permiso: Al documento que otorga la autoridad competente, a las personas físicas o morales para llevar a cabo las actividades de pesca y acuacultura que se señalan en la presente Ley;
 
 XXVIII. Pesca: Al acto de extraer, capturar o recolectar por cualquier método o procedimiento, especies biológicas, o elementos biogénicos cuyo medio de vida total, parcial o temporal, sea el agua;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXVIII Bis. Pesca Artesanal: A la actividad de pesca que emplea predominantemente el trabajo manual autónomo en la captura, recolección, transformación, distribución y comercialización de recursos pesqueros marinos o de aguas continentales, practicado principalmente por individuos, grupos familiares o comunitarios u organizaciones asentadas en comunidades indígenas o afromexicanas costeras o ribereñas, desde embarcaciones con poca autonomía, con artes y técnicas de pesca de mínima tecnificación, cuyas dimensiones son de escala menor;
 
 XXIX. Pesca comercial: La captura o extracción de recursos pesqueros que se efectúa con propósitos de beneficio económico;
 
@@ -445,7 +451,9 @@ V. Investigación y desarrollo tecnológico para el manejo y procesamiento de re
 
 VI. Investigación científica y tecnológica orientada a incrementar la capacidad de producción pesquera;
 
-VII. Programas que fomenten la pesca de los habitantes de las comunidades indígenas, utilizando sus artes y métodos de pesca sustentables;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+VII. Programas que protejan, promuevan y fomenten la pesca artesanal;
 
 VIII. Estudios para identificar los cuerpos de agua susceptibles de ser restaurados para la recuperación de los ecosistemas y, por ende, el incremento de la producción;
 
@@ -771,11 +779,37 @@ V. Establecer viveros, criaderos, reservas de especies acuáticas, épocas y zon
 
 Para el ejercicio de estas atribuciones, se estará a lo dispuesto en el reglamento respectivo.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO III. DE LA PESCA ARTESANAL
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 44 Bis.
+
+En el Estado de Oaxaca se declara de interés público y social, la investigación, protección, promoción, conservación y desarrollo de la pesca artesanal, como parte fundamental de la seguridad y soberanía alimentaria de las y los oaxaqueños; así como, por su contribución a la mejora de las condiciones de vida de las familias de los pueblos y comunidades indígenas y afromexicanas.
+
+Por lo que el Estado y los Municipios adquieren la obligación de respetar, reconocer y atender de manera prioritaria a la pesca artesanal que realicen los pueblos y comunidades indígenas y afromexicanas, como actores económicos productivos, frente a otros modelos de desarrollo productivo. Asimismo, deberán proteger, conservar y difundir los conocimientos y prácticas utilizados en la pesca artesanal.
+
+El Estado de Oaxaca garantizará que los pescadores artesanales, participen en los procesos de toma de decisiones pertinentes y los órganos que establece esta Ley; así mismo deberán consultar sobre los proyectos o acciones que pudieran afectarlos.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 44 Ter.
+
+El Gobierno del Estado y sus Ayuntamientos establecerán políticas y programas preferenciales en favor de la pesca artesanal, tomando en consideración la vulnerabilidad; la situación de pobreza, discriminación y exclusión prevalecientes en las comunidades indígenas y afromexicanas; la falta de seguridad alimentaria y nutricional; con el objeto de crear mayores oportunidades, mejores condiciones de acceso, garantías especiales que contribuyan a la equidad social, al desarrollo sostenible y a la justicia social
+
+Asimismo, deberán de analizar y, en su caso, prevenir los impactos negativos de adoptar políticas y medidas que contribuyan a la sobrecapacidad pesquera y, por consiguiente, a la sobreexplotación de los recursos pesqueros con resultados adversos en las y los pescadores artesanales.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 44 Quater.
+
+El Poder Ejecutivo del Estado deberá inscribir a los pescadores artesanales en el Registro Estatal de Pesca y Acuacultura, lo anterior con la finalidad de contar con la información relativa a dicho sector que sirva para la toma de decisiones y el establecimiento de políticas, programas y acciones que beneficien a este sector.
 
 ## TÍTULO OCTAVO. DE LA LEGAL PROCEDENCIA
 
-### CAPÍTULO I. DE LA PLANEACIÓN PARA EL DESARROLLO Y DEL ORDENAMIENTO ACUÍCOLA
+### CAPÍTULO ÚNICO
 
 ###### Artículo 45.
 
@@ -795,7 +829,7 @@ El trámite, los requisitos y la vigencia de los documentos para acreditar la le
 
 ## TÍTULO NOVENO. DE LA ACUACULTURA
 
-### CAPÍTULO II. DE LA CARTA ESTATAL ACUÍCOLA
+### CAPÍTULO I. DE LA PLANEACIÓN PARA EL DESARROLLO Y DEL ORDENAMIENTO ACUÍCOLA
 
 ###### Artículo 47.
 
@@ -835,7 +869,7 @@ El Estado, en coordinación con la Federación, en los términos de la legislaci
 
 Para regular e inducir las actividades de acuacultura llevadas a cabo en una región de la Entidad, con el propósito de garantizar la productividad, la funcionalidad y sustentabilidad del medio natural, el Estado, a través de la SEPESCA, podrá establecer planes de acuacultura, como instrumentos de planeación, conforme a las disposiciones de la presente Ley.
 
-### CAPÍTULO III. DE LOS INSTRUMENTOS DE MANEJO PARA LA ACUACULTURA
+### CAPÍTULO II. DE LA CARTA ESTATAL ACUÍCOLA
 
 ###### Artículo 52.
 
@@ -863,7 +897,7 @@ VI. Las estadísticas de producción; y
 
 VII. La información que se determine en el reglamento de la presente Ley.
 
-### CAPÍTULO ÚNICO. DE LAS CONCESIONES Y PERMISOS DE ACUACULTURA
+### CAPÍTULO III. DE LOS INSTRUMENTOS DE MANEJO PARA LA ACUACULTURA
 
 ###### Artículo 54.
 
@@ -905,7 +939,7 @@ El Estado y los municipios, en el ámbito de sus respectivas competencias, aplic
 
 ## TÍTULO DÉCIMO. DE LA ADMINISTRACIÓN DE LA ACUACULTURA
 
-### CAPÍTULO I. DE LA SANIDAD DE ESPECIES ACUÍCOLAS
+### CAPÍTULO ÚNICO. DE LAS CONCESIONES Y PERMISOS DE ACUACULTURA
 
 ###### Artículo 58.
 
@@ -913,7 +947,7 @@ En lo relativo a las concesiones y permisos para las diferentes modalidades de l
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA SANIDAD, INOCUIDAD Y CALIDAD
 
-### CAPÍTULO II. DE LAS MEDIDAS SANITARIAS
+### CAPÍTULO I. DE LA SANIDAD DE ESPECIES ACUÍCOLAS
 
 ###### Artículo 59.
 
@@ -933,9 +967,7 @@ III. Difundir permanentemente la información y conocimiento sobre sanidad acuí
 
 IV. Realizar acciones de saneamiento acuícola.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL DE INFORMACIÓN PESQUERA Y ACUÍCOLA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2013)</small>
+### CAPÍTULO II. DE LAS MEDIDAS SANITARIAS
 
 ###### Artículo 61.
 
@@ -947,7 +979,9 @@ El Estado, los municipios, órganos de asistencia y particulares interesados pod
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA INFORMACIÓN PESQUERA Y ACUÍCOLA
 
-### CAPÍTULO II. DEL REGISTRO ESTATAL DE PESCA Y ACUACULTURA
+### CAPÍTULO I. DEL SISTEMA ESTATAL DE INFORMACIÓN PESQUERA Y ACUÍCOLA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 63.
 
@@ -977,7 +1011,7 @@ Las comunidades pesqueras y acuícolas de los municipios, proporcionarán la inf
 
 Todos los titulares de concesiones o permisos deberán, en los términos de la presente Ley y de la LGPAS, presentar los informes acerca de los datos estadísticos requeridos por la SEPESCA para el cumplimiento de sus fines y objetivos.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DEL REGISTRO ESTATAL DE PESCA Y ACUACULTURA
 
 ###### Artículo 65.
 
@@ -1005,7 +1039,7 @@ La SEPESCA integrará una Red de Información Acuícola, que concentrará la inf
 
 ## TÍTULO DÉCIMO TERCERO. INSPECCIÓN Y VIGILANCIA
 
-### CAPÍTULO I. DE LAS INFRACCIONES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 67.
 
@@ -1029,7 +1063,7 @@ En las labores de inspección y vigilancia para el cumplimiento de esta Ley y de
 
 ## TÍTULO DÉCIMO CUARTO. DE LAS INFRACCIONES, SANCIONES Y RESPONSABILIDADES
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LAS INFRACCIONES
 
 ###### Artículo 70.
 
@@ -1043,7 +1077,7 @@ III. Proporcionar información falsa o alterada a la SEPESCA, cuando exista la o
 
 IV. Cualquier otra contravención a lo dispuesto en la presente Ley y su reglamento.
 
-### CAPÍTULO III. DE LAS RESPONSABILIDADES
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 71.
 
@@ -1077,7 +1111,7 @@ La amonestación será por escrito y aplicable a los infractores por primera vez
 
 La imposición de multas relativas a las infracciones contenidas en el artículo 70 de esta Ley, no rebasarán los veinticinco días de salario mínimo general vigente en la Entidad.
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
+### CAPÍTULO III. DE LAS RESPONSABILIDADES
 
 ###### Artículo 75.
 
@@ -1090,6 +1124,8 @@ Son responsables solidarios de las sanciones a que haya lugar, aquellas personas
 El incumplimiento por parte de los servidores públicos estatales y municipales de las disposiciones contenidas en la presente Ley, su reglamento y demás disposiciones que de ella deriven, dará lugar a la responsabilidad en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
 Las responsabilidades a que se refiere este artículo se aplicarán sin perjuicio de las sanciones de carácter penal o civil que en su caso lleguen a determinarse por la autoridad judicial.
+
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 77.
 
@@ -1178,3 +1214,15 @@ P.O. 13 DE OCTUBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se oponga al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1710.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 3, Y LA FRACCIÓN VII DEL ARTÍCULO 20; Y SE ADICIONAN LA FRACCIÓN XXVIII BIS AL ARTÍCULO 5; Y EL CAPÍTULO III DENOMINADO "DE LA PESCA ARTESANAL" AL TÍTULO SÉPTIMO "DE LA PESCA", QUE CONTIENE LOS ARTÍCULOS 44 BIS, 44 TER Y 44 QUATER A LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan y contravengan el presente Decreto.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado deberá adoptar y realizar las acciones necesarias; así como disponer de los recursos necesarios para dar cumplimiento al presente.
