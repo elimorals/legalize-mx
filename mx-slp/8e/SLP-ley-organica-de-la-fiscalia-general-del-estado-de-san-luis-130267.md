@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2019-11-02"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -1231,9 +1231,17 @@ XXVII. Emitir los informes, partes policiales y demás documentos que se generen
 
 XXVIII. Remitir los informes relativos a la investigación del delito de narcomenudeo, que le requiera el Agente Fiscal;
 
-XXIX. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando, y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XXX. Las demás que le confieran otras disposiciones legales y el Fiscal General.
+XXIX. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXX. Crear la Base Estadística Estatal de Violencia Política contra las Mujeres en razón de Género, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXXI. Las demás que le confieran otras disposiciones legales y el Fiscal General.
 
 ###### ARTÍCULO 58.
 
@@ -1434,5 +1442,13 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0293.- SE REFORMA EL ARTÍCULO 122 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0784.- SE REFORMA (SIC) LOS ARTÍCULOS 4º Y 32; SE ADICIONA AL ARTÍCULO 32, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 88, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA (SIC) LOS ARTÍCULOS 365, 366, 371, 372, 374 Y 375; ADICIONA A LOS ARTÍCULOS 366 DIEZ PÁRRAFOS, 370 UN PÁRRAFO, 372 CUATRO FRACCIONES Y EN LA PARTE ESPECIAL EN SU TÍTULO DÉCIMO NOVENO EL CAPÍTULO IX “VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO” Y EL ARTÍCULO 376; Y DEROGA DEL ARTÍCULO 370 LAS FRACCIONES XI Y XII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XXIX; Y ADICIONA AL MISMO ARTÍCULO 57 UNA FRACCIÓN, ÉSTA COMO XXX, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ. Y REFORMA EL ARTÍCULO 56, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
