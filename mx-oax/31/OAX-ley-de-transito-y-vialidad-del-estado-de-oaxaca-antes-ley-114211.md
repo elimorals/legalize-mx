@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2020-09-05"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -515,6 +515,30 @@ Los peatones deberán utilizar la infraestructura vial destinada para ellos, com
 
 Los peatones, las personas con discapacidad y ciclistas tendrán siempre preferencia al cruzar las vías públicas o al hacer uso de ellas. Todo conductor que tenga que cruzar la acera para entrar o salir de una cochera, estacionamiento o calle privada, deberá ceder el paso a los peatones y a las personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 31 Bis.
+
+Los peatones y las personas con discapacidad gozarán de los siguientes derechos:
+
+I. Que los centros poblacionales ofrezcan la posibilidad de desplazamiento peatonal, con las condiciones óptimas de comodidad, habitabilidad, seguridad y el uso de medios de transporte acordes con una movilidad incluyente y segura;
+
+II. Disfrutar del espacio público y de un medio ambiente sano, en condiciones de seguridad, comodidad y accesibilidad adecuadas para su salud física, emocional y mental;
+
+III. Acceder a un sistema de movilidad libre, seguro e incluyente, a través de un servicio de transporte público debidamente equipado, así como de zonas seguras para todo tipo de movilidad urbana y la disposición de áreas de aparcamiento que no afecten su movilidad;
+
+IV. Derecho de paso en todas las intersecciones, en las zonas con señalamiento para tal efecto y en aquellas en que el tránsito vehicular esté controlado por dispositivos electrónicos o por agentes y policías viales;
+
+V. Derecho de paso libre sobre las aceras y zonas peatonales;
+
+VI. Derecho de preferencia al cruzar las calles, cuando el señalamiento de tránsito permita el paso simultáneo de vehículos y peatones, en los cruces peatonales con señalamiento específico en vuelta continua de los vehículos a la derecha o a la izquierda o con señalamiento manual o electrónico, cuando habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar totalmente la vía, cuando transiten en formación, desfile, filas escolares o comitivas organizadas y cuando transiten por la banqueta y algún conductor deba cruzarla para entrar o salir de alguna cochera, estacionamiento o calle privada;
+
+VII. Derecho de orientación, entendido como la obligación a cargo de los agentes y policías viales, a proporcionar la información que soliciten los peatones, sobre el señalamiento vial, ubicación de las calles, normas que regulen el tránsito de personas y bienes;
+
+VIII. Derecho de asistencia o auxilio, es decir, la obligación de los ciudadanos y agentes y policías viales de ayudar a los peatones menores de diez años, a los ancianos y a quienes no se encuentren en uso de sus facultades físicas o mentales para cruzar las calles, gozando de prioridad en el paso; en estos casos los agentes y policías viales, deberán acompañar a los menores y personas con movilidad limitada, hasta que se complemente el cruzamiento; y
+
+IX. Recibir asesoría e información por parte de los agentes y policías viales, sobre las leyes y demás disposiciones legales vigentes en materia de movilidad y de vialidad y transporte.
+
 ###### Artículo 32.
 
 Son obligaciones de los peatones y de las personas con discapacidad:
@@ -531,9 +555,35 @@ V. Abstenerse de cruzar las calles, avenidas, calzadas y caminos por las esquina
 
 VI. No descender o ascender a la vía de rodamiento de vehículos;
 
-VII. No transitar diagonalmente por los cruceros, excepto cuando así se permita, y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-VIII. Las demás que se deriven de esta Ley y el Reglamento aplicable.
+VII. No transitar diagonalmente por los cruceros, excepto cuando así se permita;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+VIII. Cruzar las calles en las esquinas o en las zonas especiales de paso, de forma perpendicular a las aceras, atendiendo las indicaciones de los agentes y policías viales, cuando se encuentren presentes;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IX. Abstenerse de caminar a lo largo de la superficie de rodamiento de las calles;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+X. Dar preferencia de paso y asistencia a las personas que utilicen ayudas técnicas o tengan movilidad limitada;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XI. En intersecciones no controladas por semáforos o agentes de tránsito, deberán cruzar las calles cerciorándose que pueden hacerlo con toda seguridad;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XII. Cuando no existan banquetas en las vialidades, deberá circular por el acotamiento y a falta de éste, por la orilla de la vía. En todo caso procurarán circular en sentido contrario al tránsito de los vehículos;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XIII. Al abordar o descender de un vehículo, no deberán obstaculizar la circulación, hasta el momento que se acerque el vehículo a la orilla de la banqueta y puedan hacerlo con toda seguridad; y
+
+XIV. Las demás que se deriven de esta Ley y el Reglamento aplicable.
 
 ###### Artículo 33.
 
@@ -1270,3 +1320,9 @@ P.O. 5 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1610.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 3 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1676.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 32; Y SE ADICIONAN EL ARTÍCULO 31 BIS Y LAS FRACCIONES VIII, IX, X, XI, XII Y XIII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 32 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
