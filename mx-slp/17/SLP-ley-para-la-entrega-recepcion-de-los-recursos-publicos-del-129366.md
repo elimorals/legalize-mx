@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-entrega-recepcion-de-los-recursos-publicos-del-1293
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-21"
-last_updated: "2019-12-27"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de junio de 2018.
 
@@ -933,6 +933,12 @@ Los servidores públicos del Ayuntamiento saliente en el ámbito de sus respecti
 
 Los representantes del Ayuntamiento saliente y entrante, así como la Auditoría Superior del Estado, deberán efectuar la verificación física preliminar del contenido del expediente de entrega-recepción.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 60 BIS. Acorde a lo establecido por el artículo 81, fracción IX, de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, en el último año de ejercicio legal, el ayuntamiento saliente deberá entregar al ayuntamiento entrante de manera específica, la información financiera correspondiente al mes de septiembre del año respectivo, con el objeto de que este último formule y envíe el informe financiero del mes al Congreso del Estado para su fiscalización, lo que deberá realizar dentro de los diez (sic) del mes siguiente.
+
+En el supuesto de que el ayuntamiento saliente no entregue la información financiera respectiva, el ayuntamiento entrante dentro del mismo plazo lo hará del conocimiento del Congreso del Estado, de la Auditoría Superior del Estado, y de la Contraloría Interna del ayuntamiento, para los efectos de la determinación de responsabilidades y sanciones.
+
 ###### ARTÍCULO 61.
 
 En el acto protocolario de entrega-recepción de los ayuntamientos intervendrán las comisiones de entrega y recepción de los ayuntamientos saliente y entrante.
@@ -993,11 +999,15 @@ Una vez agotado el procedimiento antes señalado, de persistir las irregularidad
 
 En los casos de posibles irregularidades, el órgano de control interno, una vez recibido el escrito que refiera las presuntas anomalías del proceso de entrega-recepción, participará en las aclaraciones de los servidores públicos entrantes y salientes, a efecto de vigilar y conocer las aclaraciones pertinentes y en su caso, se proporcione la documentación que resultare faltante, levantando las actas circunstanciadas que al caso amerite, dejando asentadas en ellas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas. Si el servidor público entrante considera que no se aclaran dichas inconsistencias, el órgano de control interno, procederá a realizar las investigaciones a que haya lugar y de resultar que las mismas constituyen probables faltas administrativas, promoverá el inicio de los procedimientos correspondientes a efecto de que las autoridades competentes impongan las sanciones administrativas, sin perjuicio de las civiles o penales que para cada caso procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 73.
 
-Cuando el servidor público saliente que no entregue actualizados los asuntos y recursos a su cargo, en los términos de esta Ley, el servidor público entrante al tomar posesión o el funcionario designado para recibir la entrega recepción, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos y recursos, haciéndolo del conocimiento del superior jerárquico y del órgano de control interno para efectos del requerimiento a que se refiere este artículo y, en su caso, para que se promuevan las acciones que correspondan.
+Cuando el servidor público saliente no entregue actualizados los asuntos y recursos a su cargo, en los términos de esta Ley, el servidor público entrante al tomar posesión o el funcionario designado para recibir la entrega recepción, dentro del término de treinta días hábiles, contados a partir de la fecha del acto protocolario de entrega-recepción, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos y recursos, haciéndolo del conocimiento del superior jerárquico y del órgano de control interno para efectos del requerimiento a que se refiere el párrafo segundo de este artículo y, en su caso, para que se promuevan las acciones que correspondan.
 
-Recibido el aviso a que se refiere el párrafo anterior, el servidor público saliente será requerido de forma inmediata por el órgano de control interno de la dependencia o entidad que corresponda, para que, en un plazo no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Recibido el aviso a que se refiere el párrafo anterior, el servidor público saliente será requerido de forma inmediata por el órgano de control interno de la dependencia o entidad que corresponda, para que, en un plazo no mayor de quince días hábiles, contados a partir de la fecha de notificación del requerimiento, cumpla con esta obligación.
 
 Si a pesar del requerimiento realizado, el servidor público saliente dejare de cumplir esta disposición, se promoverán las acciones que correspondan en términos de la Ley de Responsabilidades Administrativas, independientemente de las posibles responsabilidades de tipo penal o civil, que en su caso hubiere incurrido con motivo del desempeño de su función.
 
@@ -1062,6 +1072,22 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0441.- SE REFORMAN LOS ARTÍCULOS 20, 57 Y 60 DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0780.- SE REFORMA EL ARTÍCULO 73 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0781.- SE REFORMA EL ARTÍCULO 81 EN SU FRACCIÓN IX, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE ADICIONA EL ARTÍCULO 60 BIS, DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
