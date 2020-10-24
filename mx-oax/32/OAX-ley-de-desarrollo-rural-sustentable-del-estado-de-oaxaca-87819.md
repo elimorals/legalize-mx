@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2020-10-03"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -67,7 +67,9 @@ II. Inducir el desarrollo productivo, económico y social de las comunidades rur
 
 III. Contribuir en la implementación de programas, proyectos y acciones orientadas a lograr la soberanía y seguridad alimentaria en el Estado mediante el impulso de la producción agropecuaria privilegiando los métodos de la agricultura orgánica;
 
-IV. Promover y fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+IV. Promover y fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable y el manejo integrado de plagas;
 
 V. Fortalecer los esquemas de asistencia técnica, investigación y transferencia de tecnología en el medio rural, valorando las funciones económicas, ambientales, sociales y culturales que intervienen en las diferentes manifestaciones de producción agropecuaria;
 
@@ -83,9 +85,13 @@ VIII. Promover la celebración de convenios con el sector privado de tiendas de 
 
 IX. Promover acciones concretas de desarrollo sostenible en el campo, teniendo lazos de colaboración institucional con las demás dependencias del sector para focalizar sus acciones en las zonas de atención prioritaria a que se refiere la Ley de Desarrollo Social para el Estado de Oaxaca y como lo disponen las fracciones que anteceden.
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+X. Prevenir, controlar y erradicar los plaguicidas de uso restringido, prohibido o con cierto grado de peligrosidad en las actividades agropecuarias.
+
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-X. Promover programas y apoyos dirigidos a desarrollar las capacidades de los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales para favorecer el relevo generacional que contribuirá al desarrollo rural sustentable de nuestro estado, y demás aplicables a la presente Ley.
+XI. Promover programas y apoyos dirigidos a desarrollar las capacidades de los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales para favorecer el relevo generacional que contribuirá al desarrollo rural sustentable de nuestro estado, y demás aplicables a la presente Ley.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O DE 3 DE OCTUBRE DE 2020 EL PRESENTE ARTÍCULO PASO DE XXXVII A XXXVI FRACCIONES; VÉASE LITERALIDAD DEL DECRETO, PÁGINA 9.]</small>
 
@@ -157,6 +163,10 @@ XXII. Investigación y transferencia de tecnología: La investigación y la mode
 
 XXIII. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Oaxaca;
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXIII BIS. Manejo Integrado de Plagas: La cuidadosa consideración de todas las técnicas disponibles para combatir las plagas y la posterior integración de medidas apropiadas que disminuyen el desarrollo de poblaciones de plagas y mantienen o restringen el empleo de plaguicidas para reducir los riesgos para la salud humana, la salud animal o el medio ambiente.
+
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXIV. Ley de Planeación: La Ley de Planeación para el Estado de Oaxaca;
@@ -168,6 +178,22 @@ XXV. Órdenes de Gobierno: Los Gobiernos Federal, Estatal y Municipal;
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
 XXVI. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXVI BIS. Plaga: Toda especie, variedad o biotipo vegetal, animal o agente patógeno dañino para las plantas y productos, materiales o entornos vegetales;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXVI TER. Plaguicida: Cualquier sustancia o mezclas de sustancias con ingredientes químicos o biológicos destinados a repeler, destruir o controlar cualquier plaga o a regular el crecimiento de las plantas;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXVI QUATER. Plaguicida de Uso Prohibido o Restringido: Es aquel cuyos usos se encuentran dentro de una o más categorías prohibidas o restringidas total o parcialmente mediante una medida o norma reglamentaria. Estos incluyen los productos químicos cuya aprobación para primer uso haya sido denegada o que las industrias hayan retirado del mercado o de ulterior consideración en el proceso de aprobación nacional o internacional y cuando haya pruebas claras que esa medida se haya adoptado con el objeto de proteger la salud humana y el medio ambiente;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XXVI QUINQUIES. Plaguicida con grado de peligrosidad: Son aquellos que representan riesgos agudos o crónicos a la salud humana o el medio ambiente de acuerdo a las normas oficiales mexicanas o a través de alguna de las clasificaciones realizadas por los organismos internacionales.
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
@@ -253,17 +279,17 @@ III. Incrementar, diversificar, reconvertir la producción para atender la deman
 
 IV. Fomentar el aprovechamiento sustentable de los recursos naturales, que permitan ampliar y diversificar las actividades productivas en el medio rural, a fin de incrementar y diversificar las fuentes de empleo y el ingreso de la población;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE OCTUBRE DE 2020)</small>
 
 V. Impulsar la conservación de los ecosistemas naturales y el eficiente aprovechamiento de su capacidad productiva, para fortalecer la economía del sector rural, el autoabasto y el desarrollo de mercados locales, que mejoren el acceso de la población rural a la alimentación;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE OCTUBRE DE 2020)</small>
 
 VI. Mejorar la cantidad y la calidad de los servicios a la población rural; y
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE OCTUBRE DE 2020)</small>
 
-VII. Promover la preservación, producción, comercialización y consumo de las diferentes variedades de maíz nativo.
+VII. Prevenir, controlar y erradicar los plaguicidas de uso restringido, prohibido o con cierto grado de peligrosidad en las actividades agropecuarias.
 
 ###### ARTÍCULO 8.
 
@@ -283,9 +309,11 @@ Los programas y acciones para el desarrollo rural sustentable que ejecute el Est
 
 Para el cumplimiento de lo anterior, la Comisión Intersecretarial, con la participación del Consejo, establecerá en coordinación con el Gobierno Federal, una tipología de productores y sujetos del desarrollo rural sustentable, utilizando para tal efecto la información y metodología disponibles en las dependencias y entidades públicas y privadas competentes.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 11.
 
-Las acciones para el desarrollo rural sustentable que se realicen en el Estado, mediante obras de infraestructura y de fomento de actividades económicas y de generación de bienes y servicios, dentro de todas las cadenas productivas en el medio rural, se realizarán en base a criterios de preservación, restauración, aprovechamiento sustentable de los recursos naturales y la biodiversidad, buscando en todo momento prevenir y mitigar el impacto ambiental.
+Las acciones para el desarrollo rural sustentable que se realicen en el Estado, mediante obras de infraestructura y de fomento de actividades económicas y de generación de bienes y servicios, dentro de todas las cadenas productivas en el medio rural, se realizarán en base a criterios de preservación, restauración, aprovechamiento sustentable de los recursos naturales y la biodiversidad, buscando en todo momento prevenir y mitigar el impacto ambiental; así como un manejo integrado de plagas.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACION Y COORDINACION DE LA POLÍTICA PARA EL DESARROLLO RURAL SUSTENTABLE
 
@@ -371,9 +399,15 @@ XVI. Impulso a los programas de protección civil para la prevención auxilio, r
 
 XVII. Impulso a los programas orientados a la paz social;
 
-XVIII. Difusión estatal a los programas y acciones; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XIX. Las demás que determinen el Ejecutivo Estatal.
+XVIII. Difusión estatal a los programas y acciones;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XIX. El manejo integrado de plagas, y
+
+XX. Las demás que determinen el Ejecutivo Estatal.
 
 ###### ARTÍCULO 17.
 
@@ -639,9 +673,15 @@ XII. La creación de condiciones adecuadas para enfrentar el proceso de globaliz
 
 XIII. Valoración y pago de los servicios ambientales;
 
-XIV. La conservación y mejoramiento de los suelos y demás recursos naturales; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XV. Las demás que emanen del cumplimiento de esta Ley.
+XIV. La conservación y mejoramiento de los suelos y demás recursos naturales;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XV. La prevención, control y erradicación de los plaguicidas de uso restringido, prohibido o con cierto grado de peligrosidad en las actividades agropecuarias; y
+
+XVI. Las demás que emanen del cumplimiento de esta Ley.
 
 ### CAPÍTULO II. DE LA INVESTIGACIÓN Y TRANSFERENCIA DE TECNOLOGÍA
 
@@ -717,9 +757,17 @@ XVI. Facilitar la reconversión productiva del sector hacia cultivos, variedades
 
 XVII. Desarrollar formas de aprovechamiento y mejoramiento de los recursos Naturales, que incrementen los servicios ambientales y la productividad de manera sustentable;
 
-XVIII. Propiciar información y criterios confiables sobre el estado de los recursos naturales y los procesos que lo determinan, así como las bases para la construcción de los indicadores correspondientes; y,
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XIX. Vincular de manera prioritaria la investigación científica y desarrollo tecnológico con los programas de reconversión productiva de las unidades económicas y las regiones para aumentar sus ventajas competitivas y mejorar los ingresos de las familias rurales.
+XVIII. Propiciar información y criterios confiables sobre el estado de los recursos naturales y los procesos que lo determinan, así como las bases para la construcción de los indicadores correspondientes;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XIX. Vincular de manera prioritaria la investigación científica y desarrollo tecnológico con los programas de reconversión productiva de las unidades económicas y las regiones para aumentar sus ventajas competitivas y mejorar los ingresos de las familias rurales; y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XX. Desarrollar plaguicidas orgánicos para lograr un manejo integrado de plagas.
 
 ###### ARTÍCULO 47.
 
@@ -787,9 +835,17 @@ VII. Promover, divulgar el conocimiento para el mejor aprovechamiento de los pro
 
 VIII. Proporcionar a los productores, agentes de la sociedad rural conocimientos para acceder y participar activamente en los mecanismos relativos al crédito y al financiamiento;
 
-IX. Instruir y capacitar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos; y,
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-X. Contribuir a elevar el nivel educativo y tecnológico en el medio rural.
+IX. Instruir y capacitar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+X. Contribuir a elevar el nivel educativo y tecnológico en el medio rural; y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XI. Proporcionar a los productores, los conocimientos para la utilización de plaguicidas orgánicos, lo anterior para erradicar los plaguicidas de uso restringido, prohibido o con cierto grado de peligrosidad en las actividades agropecuarias.
 
 ###### ARTÍCULO 54.
 
@@ -1108,6 +1164,14 @@ VI. Forma de resolver las controversias que se originen con motivo de los apoyos
 ###### ARTÍCULO 88.
 
 La Secretaría fomentará un desarrollo productivo, comercial y agropecuario en el territorio estatal, libre de plagas, enfermedades y de productos que puedan poner en riesgo las actividades, procesos, el medio ambiente y la salud de la población, así como el comercio de productos en los mercados local, regional, nacional e internacional; en este último, se promoverá la observancia y cumplimiento de las disposiciones y ordenamientos vigentes en la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+A efecto de garantizar la salud de los habitantes y el medio ambiente en el Estado, queda prohibido la venta, distribución o uso de plaguicidas, especialmente de uso restringido, prohibido o con cierto grado de peligrosidad en las actividades agropecuarias que se realicen en el territorio de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Quedan exentos de la restricción anterior, el uso de plaguicidas biodegradables
 
 ###### ARTÍCULO 89.
 
@@ -1589,6 +1653,10 @@ La sustentabilidad será criterio rector fundamental para el fomento a las activ
 
 Quienes hagan uso productivo de las tierras, deberán seleccionar técnicas y cultivos que garanticen la conservación o incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores. En el caso del uso de tierras de pastoreo, se deberán observar las recomendaciones oficiales sobre carga animal o, en su caso, justificar una dotación mayor de ganado.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Asimismo, quien venda, distribuya o utilice plaguicidas, especialmente de uso restringido, prohibido o con cierto grado de peligrosidad en las actividades agropecuarias será sancionado de acuerdo a las leyes respectivas.
+
 ###### ARTÍCULO 136.
 
 De conformidad con lo dispuesto por el artículo anterior, el Gobierno Estatal y los Municipios, cuando así lo convengan, fomentarán el uso del suelo más pertinente de acuerdo con sus características y potencial productivo, así como los procesos de producción más adecuados para la conservación y mejoramiento de los suelos y el agua.
@@ -1868,3 +1936,17 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1636.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 3, LAS FRACCIONES V Y VI DEL ARTÍCULO 7, EL ARTÍCULO 11, LA FRACCIÓN XVIII DEL ARTÍCULO 16, LA FRACCIÓN XIV DEL ARTÍCULO 39, LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 46 Y LAS FRACCIONES IX Y X DEL ARTÍCULO 53; Y SE ADICIONAN LA FRACCIÓN X, RECORRRIÉNDOSE (SIC) LA SUBSECUENTE AL ARTÍCULO 3, LAS FRACCIONES XXIII BIS, XXVI BIS, XXVI TER, XXVI QUATER Y XXVI QUINQUIES AL ARTÍCULO 4, LA FRACCIÓN VII AL ARTÍCULO 7, LA FRACCIÓN XIX RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 16, LA FRACCIÓN XV RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 39, LA FRACCIÓN XX AL ARTÍCULO 46, LA FRACCIÓN XI AL ARTÍCULO 53, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 88, Y UN TERCER PÁRRAFO AL ARTÍCULO 135 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+TERCERO. Una que vez que entre en vigor el presente Decreto, la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura y los Municipios, en un plazo no mayor de 30 días deberán instrumentar campañas permanentes de difusión para evitar la venta, distribución y uso de plaguicidas especialmente de uso restringido, prohibido o con cierto grado de peligrosidad en las actividades agropecuarias, cuyas campañas duraran; así como los riesgos que representan su uso para la salud y el medio ambiente.
+
+CUARTO. Los establecimientos comerciales y mercantiles una vez que entre en vigor el presente Decreto, ya no podrán ingresar, distribuir o producir plaguicidas de uso restringido, prohibido o con cierto grado de peligrosidad en el territorio del Estado; tratándose de microempresas y pequeñas empresas dispondrá de un plazo de un término de un año posterior a la entrada en vigor del presente Decreto para terminar con su inventario de dichos productos; y en el caso de medianas y grandes empresas dicho plazo será de seis meses, contados a partir de la publicación del presente Decreto.
+
+Una vez vencido el plazo a que se refiere el párrafo anterior, la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura deberá realizar la recolección de los remanentes de los plaguicidas de uso restringido, prohibido o con cierto grado de peligrosidad.
