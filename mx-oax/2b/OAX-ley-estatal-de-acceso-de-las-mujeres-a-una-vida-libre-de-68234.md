@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2020-05-30"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -239,9 +239,9 @@ V. Proteger los derechos de la víctima y vigilar que el agresor garantice la re
 
 VI. Ordenar la separación y alejamiento del agresor con respecto a la víctima; en términos del Código Nacional de Procedimientos Penales, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley General de Víctimas y la presente Ley.
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-VII. Favorecer la instalación y el mantenimiento de unidades de atención integral y refugios para las víctimas y sus hijas e hijos, así como centros reeducativos para agresores. La información sobre la ubicación de los refugios será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo (sic) violencia.
+VII. Instalar de forma obligatoria unidades de atención integral y refugios para las víctimas y sus hijas e hijos, así como centros reeducativos para agresores, a los cuales se les deberá dar el mantenimiento necesario. La información sobre la ubicación de los refugios será secreta.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -781,6 +781,10 @@ XIII. La Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
 
 XIV. El Instituto Estatal de Educación Pública de Oaxaca;
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+XIV Bis. La Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología;
+
 XV. La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
 XVI. La Corporación Oaxaqueña de Radio y Televisión;
@@ -867,9 +871,9 @@ XVI. Suscribir convenios de colaboración con los Consejos Municipales del Estad
 
 XVII. Aprobar el informe anual que rinda la Secretaría Ejecutiva del Sistema;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XVIII. Promover la instalación de Unidades de Atención Integral, para las Mujeres; Centros de Atención y Refugios para mujeres víctimas de violencia; Centros Reeducativos y Módulos de Información sobre los derechos de las mujeres en los Municipios y principales cabeceras distritales del Estado;
+XVIII. Garantizar la instalación de Unidades de Atención Integral, Refugios, Centros Reeducativos y módulos de información en las principales cabeceras distritales del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -1551,9 +1555,11 @@ VIII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta 
 
 IX. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 65.
 
-Corresponde al Instituto Estatal de Educación Pública de Oaxaca:
+Corresponde al Instituto Estatal de Educación Pública de Oaxaca, a la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología y a las instituciones de educación superior pública y privada:
 
 I. Participar en la elaboración del Programa y en el diseño de modelos de prevención y erradicación de la violencia contra las mujeres;
 
@@ -1839,9 +1845,15 @@ IX. Servicio telefónico especializado; y
 
 X. Canalización de agresores a los Centros Reeducativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 74.
 
-Los Refugios son espacios terapéuticos y temporales, en donde se brindará a las víctimas de violencia de género y a sus hijas e hijos, seguridad y servicios de hospedaje, alimentación, vestido y calzado, además de los señalados en el artículo anterior.
+Los Refugios son espacios temporales de alojamiento para las mujeres y sus hijas e hijos víctimas de violencia de género, en donde se les proporcionará protección, seguridad, atención psicológica y asesoría legal especializada, servicios de hospedaje, alimentación, vestido y calzado, además de los señalados en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
 ###### Artículo 75.
 
@@ -2254,3 +2266,19 @@ TERCERO. La Fiscalía General del Estado de Oaxaca a través de la Fiscalía Esp
 CUARTO. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca en un plazo no mayor a los sesenta días hábiles deberá actualizar sus reglamentos y manuales de conformidad con lo establecido en el presente Decreto, a más tardar al inicio del proceso electoral ordinario 2020-2021.
 
 QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1727.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 9, LA FRACCIÓN XVIII DEL ARTÍCULO 42 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 74; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 74; DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. La Secretaria General de Gobierno del Estado de Oaxaca, dentro de los 30 días hábiles posteriores a la entrada en vigor del presente Decreto, deberá presentar un informe detallado a las Comisiones Permanentes de Grupos en Situación de Vulnerabilidad e Igualdad de Género sobre el Plan de Trabajo que se deberá llevar a cabo para dar cumplimiento a los artículos 9 y 42 del presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1728.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 65; Y SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 39, DE LA LEY ESTATAL DE ACCESO DE LA (SIC) MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
