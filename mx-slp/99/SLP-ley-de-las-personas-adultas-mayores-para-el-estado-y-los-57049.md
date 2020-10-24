@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2020-03-03"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -208,6 +208,10 @@ e) Violencia patrimonial: cualquier acto u omisión que afecta la supervivencia 
 f) Violencia psicológica: cualquier acto u omisión que dañe la estabilidad psicológica; que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas; las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso, al suicidio.
 
 g) Violencia sexual: cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que, por tanto, atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso del poder.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+h) Cualquier otra conducta análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -1049,7 +1053,9 @@ El titular de la Procuraduría de la Defensa de las Personas Adultas Mayores, se
 
 Para ser titular de la Defensa de las Personas Adultas Mayores se requiere:
 
-I. Ser mexicano por nacimiento, y haber residido durante los últimos tres años en el Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+I. Ser mexicano, y haber residido durante los últimos tres años en el Estado de San Luis Potosí;
 
 II. Ser Licenciado en Derecho, con título debidamente registrado, con cédula profesional y cinco años mínimo de ejercicio profesional;
 
@@ -1260,3 +1266,19 @@ P.O. 3 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0776.- SE ADICIONA AL ARTÍCULO 5° EN SU FRACCIÓN XXIV EL INCISO H), DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0777.- SE REFORMA EL ARTÍCULO 52 EN SU FRACCIÓN I, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
