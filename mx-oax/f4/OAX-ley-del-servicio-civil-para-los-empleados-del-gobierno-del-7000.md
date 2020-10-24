@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2020-10-03"
+last_updated: "2020-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -387,13 +389,31 @@ V.- Asistir puntualmente a sus labores.
 
 VI.- Abstenerse de hacer propaganda de toda clase durante las horas de trabajo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO QUINTO BIS. DE LAS MODALIDADES DE TRABAJO
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 37 BIS.- La prestación del servicio por los empleados de los Poderes del Estado podrá ser de manera presencial o a distancia.
+
+Se considera presencial cuando el empleado realice sus labores dentro de su centro de trabajo ordinario, y será a distancia cuando las desempeñe eficazmente de manera no presencial a través de las plataformas de comunicación, siendo esta segunda una modalidad extraordinaria, por lo que solo será aplicable en circunstancias excepcionales, por causas sanitarias, de seguridad pública o de gobernabilidad, previa declaración o decreto emitido por las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 37 TER.- El Estado reconoce que los trabajadores a distancia tienen los mismos derechos y obligaciones que los que prestan sus servicios de manera presencial.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 37 QUÁTER.- El empleado que desempeñe sus labores a distancia, dentro de su jornada laboral deberá cumplir puntualmente con las obligaciones respectivas a sus funciones asignadas, salvo de aquellas que impliquen un riesgo fundado o se encuentre notoriamente imposibilitado.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 37 QUINQUIES.- Para que el empleado pueda desempeñar sus funciones a distancia, se le deberá notificar por escrito, debiendo cumplir con los requisitos que establezca el reglamento interno de la Dirección de Recursos Humanos de su organismo de adscripción.
+
 ### CAPITULO SEXTO.
 
 DE LA SUSPENSION DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS EMPLEADOS.
-
-### CAPITULO SEPTIMO.
-
-DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS EMPLEADOS.
 
 ###### ARTICULO 38.
 
@@ -407,9 +427,9 @@ II.- La prisión preventiva del empleado, seguida de sentencia absolutoria o de 
 
 En cuanto a los empleados que tengan encomendado manejo de fondos, podrán ser suspendidos desde luego, por el Titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión.
 
-### CAPITULO PRIMERO.
+### CAPITULO SEPTIMO.
 
-DEL SINDICATO.
+DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS EMPLEADOS.
 
 ###### ARTICULO 39.
 
@@ -455,9 +475,9 @@ Si el empleado reclama la revocación de su nombramiento y aquella resulta injus
 
 DE LA ORGANIZACION COLECTIVA DE LOS EMPLEADOS DE LOS PODERES DEL ESTADO.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-DE LAS CONDICIONES GENERALES DE TRABAJO.
+DEL SINDICATO.
 
 ###### ARTICULO 41.
 
@@ -521,9 +541,9 @@ I.- Por el voto de las dos terceras partes de los miembros que lo integren.
 
 II.- Por dejar de contar con el número de empleados requeridos para su constitución. La violación de lo dispuesto en el artículo 46 será causa para la cancelación del registro del Sindicato.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-DE LAS HUELGAS.
+DE LAS CONDICIONES GENERALES DE TRABAJO.
 
 ###### ARTICULO 50.
 
@@ -541,9 +561,9 @@ III.- Las fechas y condiciones en que los empleados deben someterse a exámenes 
 
 IV.- Las demás reglas que fueren convenientes para obtener mayor regularidad, seguridad y eficacia en el trabajo.
 
-### CAPITULO CUARTO.
+### CAPITULO TERCERO.
 
-DEL PROCEDIMIENTO EN MATERIA DE HUELGAS Y DE LA INTERVENCION QUE CORRESPONDE A LA JUNTA DE ARBITRAJE.
+DE LAS HUELGAS.
 
 ###### ARTICULO 52.
 
@@ -577,9 +597,9 @@ La huelga sólo suspende los efectos de los nombramientos de los empleados al se
 
 La huelga deberá limitarse al mero acto de la suspensión del trabajo. Los actos violentos de los huelguistas contra la propiedad o las personas ocasionarán la pérdida de la calidad de empleados al servicio del Estado y la aplicación de las sanciones establecidas en el Artículo 262 de la Ley Federal del Trabajo, si los hechos violentos reúnen los caracteres de las infracciones señaladas en dicho artículo.
 
-### CAPITULO UNICO.
+### CAPITULO CUARTO.
 
-DE LOS RIESGOS PROFESIONALES Y DE LAS LICENCIAS.
+DEL PROCEDIMIENTO EN MATERIA DE HUELGAS Y DE LA INTERVENCION QUE CORRESPONDE A LA JUNTA DE ARBITRAJE.
 
 ###### ARTICULO 57.
 
@@ -639,7 +659,7 @@ DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES.
 
 ### CAPITULO UNICO.
 
-DE LAS PRESCRIPCIONES.
+DE LOS RIESGOS PROFESIONALES Y DE LAS LICENCIAS.
 
 ###### ARTICULO 67.
 
@@ -677,9 +697,9 @@ ARTICULO 68 TER.- Los padres o madres de menores diagnosticados con cualquier ti
 
 ## TITULO QUINTO.
 
-### CAPITULO PRIMERO.
+### CAPITULO UNICO.
 
-DE LA INTEGRACIÓN DE LA JUNTA DE ARBITRAJE.
+DE LAS PRESCRIPCIONES.
 
 ###### ARTICULO 69.
 
@@ -737,9 +757,9 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 DE LA JUNTA DE ARBITRAJE, DE SU COMPETENCIA Y DEL PROCEDIMIENTO ANTE LA MISMA.
 
-### CAPITULO SEGUNDO.
+### CAPITULO PRIMERO.
 
-DE LA COMPETENCIA DE LA JUNTA.
+DE LA INTEGRACIÓN DE LA JUNTA DE ARBITRAJE.
 
 ###### ARTICULO 75.
 
@@ -775,9 +795,9 @@ Los Secretarios y empleados de la Junta de Arbitraje estarán sujetos a la prese
 
 Los gastos que origine el funcionamiento de la Junta de Arbitraje serán cubiertos por el Estado, consignándose la planta en el Presupuesto de Egresos.
 
-### CAPITULO TERCERO.
+### CAPITULO SEGUNDO.
 
-DEL PROCEDIMIENTO ANTE LA JUNTA DE ARBITRAJE.
+DE LA COMPETENCIA DE LA JUNTA.
 
 ###### ARTICULO 81.
 
@@ -789,9 +809,9 @@ II.- Para conocer de los conflictos colectivos que surjan entre el Sindicato y l
 
 III.- Para llevar a cabo el registro del Sindicato y la cancelación del mismo.
 
-### CAPITULO UNICO.
+### CAPITULO TERCERO.
 
-DISPOSICIONES COMPLEMENTARIAS.
+DEL PROCEDIMIENTO ANTE LA JUNTA DE ARBITRAJE.
 
 ###### ARTICULO 82.
 
@@ -878,6 +898,10 @@ Se notificará al Titular del Poder Ejecutivo, Legislativo, Judicial y President
 Las autoridades civiles estarán obligadas a prestar auxilio a la Junta de Arbitraje, para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
 
 ## TITULO SEPTIMO.
+
+### CAPITULO UNICO.
+
+DISPOSICIONES COMPLEMENTARIAS.
 
 ###### ARTICULO 97.
 
@@ -1038,3 +1062,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Poderes del Estado contarán con treinta y seis meses a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a sus plantillas de trabajadores, a fin de garantizar la inclusión de personas con discapacidad en la vida laboral.
 
 TERCERO. Infórmese a los Titulares y Representantes de los Poderes del Estado.
+
+P.O. 24 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1732.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO QUINTO BIS DENOMINADO "DE LAS MODALIDADES DE TRABAJO", AL TÍTULO SEGUNDO, QUE CONTIENE LOS ARTÍCULOS 37 BIS, 37 TER, 37 QUATER Y 37 QUINQUIES, A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Las Direcciones de Recursos Humanos de los Poderes del Estado, dentro del plazo de cuarenta y cinco días posteriores a la publicación del presente Decreto, deberán elaborar y publicar los reglamentos respectivos y manuales de procedimiento para la modalidad del trabajo a distancia, mismos que deberán difundir en las áreas administrativas responsables.
