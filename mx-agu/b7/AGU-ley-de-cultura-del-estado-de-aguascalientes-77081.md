@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-del-estado-de-aguascalientes-77081"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-25"
-last_updated: "2018-09-03"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 25 de octubre de 2010.
 
@@ -89,11 +89,13 @@ VII. Conocer, apreciar, desarrollar y expresarse a través de los lenguajes art�
 
 VIII. Organizarse y asociarse para la realización de festividades y cualesquiera otras manifestaciones culturales de carácter popular.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 4°.
 
-La cultura es una de las expresiones fundamentales de la vida pública de una sociedad y sus habitantes. El Estado en participación con la sociedad tiene la misión de fortalecer los procesos de creación, expresión, preservación de la cultura y generación de conocimiento a través de mecanismos dirigidos a la sociedad para la difusión de actividades, bienes y servicios culturales.
+La cultura es una de las expresiones fundamentales de la vida pública de una sociedad y sus habitantes. El Estado, en participación con la sociedad, tiene la misión de fortalecer los procesos de creación, expresión, inversión, producción, preservación, fomento y consumo de la cultura a través de mecanismos dirigidos a la sociedad para la difusión de actividades, bienes y servicios culturales.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 8 DE AGOSTO DE 2016)</small>
 
 Por lo anterior serán principios rectores de la política cultural del Estado:
 
@@ -105,11 +107,25 @@ III. La promoción de la valoración de lo propio para el fortalecimiento de la 
 
 IV. La igual dignidad y respeto de todas las culturas;
 
-V. El reconocimiento de la diversidad cultural; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-VI. El fomento y consolidación de la participación ciudadana.
+V. El reconocimiento de la diversidad cultural;
 
-Se entiende por diversidad cultural la multiplicidad de formas, medios y técnicas por las que se expresan y transmiten las culturas de los grupos y la sociedad.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI. El fomento y consolidación de la participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VII. El Reconocimiento, el fomento y la consolidación de los derechos culturales; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VIII. El reconocimiento y el fomento de una educación artística de calidad;
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Se entiende por cultura al conjunto de rasgos distintivos, de índole espiritual, material, intelectual y emocional, que caracterizan a una sociedad o a un grupo social y generan un sentido de pertenencia colectiva, que se refleja y expresa a través de una diversidad de manifestaciones, y por diversidad cultural la multiplicidad de formas, medios y técnicas por las que se expresan y transmiten las culturas de los grupos y la sociedad.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
@@ -1108,3 +1124,11 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 412.- REFORMAS Y ADICIONES A LA LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
