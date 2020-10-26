@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-10-23"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -3717,6 +3717,10 @@ Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y 
 
 Toda persona tiene derecho a la movilidad, a gozar de ciudades sustentables que garanticen una adecuada calidad de vida y acceder a un transporte público de calidad, digno y eficiente. El Estado proveerá lo necesario para garantizar dicho acceso.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Todas las personas tienen el derecho a la paz. El Estado y los Municipios desarrollarán e implementarán políticas públicas dentro del sistema educativo y en todos los ámbitos a fin de garantizar este derecho.
+
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
 ###### Art. 3o.
@@ -5466,3 +5470,9 @@ P.O. 23 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 364. SE REFORMAN LOS PÁRRAFOS SEGUNDO, CUARTO Y QUINTO Y SE DEROGAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 365. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3O (SIC) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
