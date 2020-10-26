@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2018-07-23"
+last_updated: "2020-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -85,13 +85,15 @@ XI. Pleno: Máximo órgano colegiado de carácter jurisdiccional que se integra 
 
 XII. Poder Judicial: El Poder Judicial del Estado de Michoacán;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-XIII. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia; y,
+XIII. Procedimientos en línea: Sustanciación de los procedimientos del proceso o juicio por medios electrónicos;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+XIV. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia; y,
 
-XIII. (SIC) Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelven la apelación y los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento y jueces de ejecución de sanciones.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XV. Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelven la apelación y los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento y jueces de ejecución de sanciones.
 
 ###### Artículo 3.
 
@@ -1213,9 +1215,11 @@ Concluidos los procedimientos de elección o designación se notificará al Cong
 
 ### Capítulo Segundo. Atribuciones del Consejo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 90.
 
-Son atribuciones del Consejo:
+Son atribuciones del Consejo
 
 I. Conducir la administración, vigilancia y disciplina del Poder Judicial;
 
@@ -1307,7 +1311,11 @@ XLIV. Administrar el Fondo Auxiliar para la Administración de Justicia y realiz
 
 XLV. Ejercer las atribuciones que le correspondan en materia de responsabilidades de los servidores públicos del Poder Judicial; y,
 
-XLVI. Las demás que le confiera esta ley y otros ordenamientos.
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XLVI. Elaborar, implementar y operar la reglamentación de los procedimientos en línea, conforme a las necesidades del Poder Judicial y de acuerdo con la disponibilidad presupuestal; y,
+
+XLVII. Las demás que le confiera esta ley y otros ordenamientos.
 
 ### Capítulo Tercero. Presidente del Consejo
 
@@ -2304,3 +2312,9 @@ SEGUNDO. El Consejo General de Instituto Electoral de Michoacán; el Pleno del T
 El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
 
 TERCERO. El Poder Judicial del Estado de Michoacán, el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 357 POR EL QUE “SE ADICIONAN LA FRACCIÓN XIII RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 2 Y LA FRACCIÓN XLVI AL ARTÍCULO 90, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN”.]
+
+UìNICO (SIC). El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
