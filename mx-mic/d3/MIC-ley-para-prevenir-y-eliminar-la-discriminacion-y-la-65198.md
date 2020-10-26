@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2019-08-28"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -47,27 +47,39 @@ LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE M
 
 ### CAPÍTULO PRIMERO. OBJETO
 
-> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y de observancia general en el territorio del Estado de Michoacán de Ocampo, tiene como objeto:
+Queda prohibida en el Estado de Michoacán cualquier forma de discriminación que tenga por objeto o resultado; impedir, menoscabar o anular; el reconocimiento, goce o ejercicio de los derechos y libertades fundamentales de las personas, grupos o comunidades; así como su igualdad frente al ejercicio de sus derechos. La presente Ley es de orden público, de interés social y de observancia general en el territorio del Estado de Michoacán de Ocampo, tiene como objeto:
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2009)</small>
 
 I. Prevenir, sancionar y eliminar la discriminación y la violencia;
 
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2009)</small>
+
 II. Establecer la coordinación entre los distintos niveles de Gobierno en lo referente a las políticas públicas adecuadas para implementar las acciones necesarias que garanticen el acceso a una vida libre de discriminación y violencia, favoreciendo el desarrollo y bienestar fundado en el respeto de los derechos humanos, conforme a los principios de igualdad, libertad, no discriminación y desarrollo integral sustentable;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2009)</small>
 
 III. Tutelar el derecho humano a vivir libre de discriminación y violencia, así como la igualdad y libertad de las personas, minorías, grupos vulnerables y colectivos u otros análogos;
 
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2009)</small>
+
 IV. Garantizar la protección del derecho a la no discriminación y la violencia; y,
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2009)</small>
 
 V. Establecer los criterios y las bases para superar las circunstancias, de carácter social, que lesionen la dignidad humana o tengan por objeto anular o menoscabar los derechos y libertades de las personas consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los Instrumentos Internacionales de los que México sea parte, en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en esta Ley o en cualquier otra análoga.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 2.
 
-Se entiende por discriminación todo acto u omisión de exclusión, distinción, menoscabo, impedimento o restricción que, motivado por el origen étnico o nacional, de lengua, sexo, edad, género, identidad indígena, racial, discapacidad, condición social o económica, de salud, apariencia física, características genéticas, embarazo, religión, opiniones, preferencias sexuales, expresión de rol de género, estado civil o cualquier otra que anule el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas.
+Para los efectos de esta Ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia; por acción u omisión, con intención o sin ella, que no sea objetiva, razonable ni proporcional; y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades de las personas, grupos o comunidades; cuando se base en uno o más de los siguientes motivos: origen étnico o nacional; identidad o expresión indígena, racial o de género; color de piel; cultura; sexo; género; edad; discapacidad; condición social, económica, de salud o jurídica; religión; apariencia física; forma de pensar, vestir, actuar o gesticular; tatuajes, perforaciones o modificaciones corporales; consumo de sustancias psicoactivas; características genéticas; situación migratoria; embarazo; opiniones; orientación sexuales; (sic) identidad, filiación u opiniones política, académicas o filosóficas; estado civil; situación familiar; responsabilidades familiares; oficio; lengua o idioma; antecedentes penales; o cualquier otro motivo.
 
-La violencia a que se refiere esta Ley, derivada de la discriminación, la situación de desigualdad y las relaciones de poder, comprende todo acto que tenga o pueda tener como resultado un daño físico, sexual, económico, patrimonial, psicológico o cualquier otro análogo sobre quien se ejerce, así como las amenazas de tales actos, la coacción o la privación arbitraria de algún derecho, independientemente, de la modalidad y el tipo en que éstas se den.
+La violencia a que se refiere esta Ley, derivada de la discriminación, la situación de desigualdad y las relaciones de poder, comprende todo acto que tenga o pueda tener como resultado un daño físico, sexual, económico, patrimonial, psicológico, laboral o cualquier otro análogo sobre quien se ejerce, así como las amenazas de tales actos, la coacción o la privación arbitraria de algún derecho, independientemente, de la modalidad y el tipo en que éstas se den.
 
 ###### Artículo 3.
 
@@ -165,45 +177,121 @@ Las partidas destinadas a los anteriores propósitos se incrementarán progresiv
 
 ### CAPÍTULO PRIMERO. TIPOS DE DISCRIMINACIÓN
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-La discriminación a que hace alusión esta Ley, puede presentarse en los tipos siguientes, a razón de:
+Se presumirá, salvo prueba en contrario, que una persona, grupo o comunidad sufre discriminación, cuando de manera enunciativa, más no limitativa, se actualice alguna de las siguientes conductas:
 
-I. Origen étnico;
+I. Impedir el acceso o la permanencia en la educación pública o privada, así como a becas e incentivos en los centros educativos, una vez satisfechos los requisitos establecidos en las normas aplicables;
 
-II. Nacionalidad;
+II. Incorporar contenidos, metodologías o instrumentos pedagógicos en los que se asignen papeles o difundan representaciones, imágenes o situaciones de inferioridad o subordinación contrarios a los principios de equidad, igualdad, inclusión, justicia social, respeto, no violencia y no discriminación;
 
-III. Lengua;
+III. Negar o restringir las oportunidades de elección, acceso, permanencia, promoción y ascenso en el empleo; o establecer requisitos para el mismo, que atenten contra los derechos y libertades fundamentales de las personas;
 
-IV. Sexo;
+IV. Negar, restringir o establecer diferencias injustificadas en la remuneración, las prestaciones, y las condiciones laborales para trabajos iguales dentro del mismo centro laboral;
 
-V. Género;
+V. Negar o limitar el acceso a los programas de capacitación y de desarrollo humano o social, así como de formación profesional;
 
-VI. Identidad indígena;
+VI. Negar o limitar información sobre derechos sexuales y reproductivos; o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
 
-VII. Expresión de rol de género;
+VII. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, una vez satisfechos los requisitos establecidos en la Ley aplicable;
 
-VIII. Edad;
+VIII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
 
-IX. Discapacidad;
+IX. Obligar a un tratamiento médico, psicológico o psiquiátrico, salvo los casos previstos por las disposiciones legales aplicables;
 
-X. Condición social, económica o de salud;
+X. Restringir o negar información al interesado o, en su caso, a sus padres o tutores, sobre algún padecimiento, sus consecuencias, alternativas, posibles tratamientos a los que pueda acceder, riesgos y pronósticos, así como su historial médico. Éste se deberá manejar en forma confidencial;
 
-XI. Apariencia física;
+XI. Efectuar o exigir pruebas de detección de cualquier tipo de enfermedad, en particular del Virus de la Inmunodeficiencia Humana (VIH), sin previa información de su contenido y significado en forma explícita y comprensible, y sin el previo consentimiento de la persona interesada o, en su caso, de los padres o tutores;
 
-XII. Características genéticas;
+XII. Impedir o evitar que como usuarios de servicios de salud se conozcan los procedimientos para presentar queja o recurso ante cualquier irregularidad en su prestación; establecidos por las instituciones encargadas de otorgarlos;
 
-XIII. Religión;
+XIII. Efectuar actos de discriminación, abuso, explotación, aislamiento, indiferencia, violencia y demás actos u omisiones que pongan en riesgo a los adultos mayores, a su persona, bienes y derechos;
 
-XIV. Opiniones políticas, académicas o filosóficas;
+XIV. Establecer distinciones excluyentes o restrictivas respecto de la discapacidad de una persona, que tenga como finalidad menoscabar, violentar o dejar sin efectos el reconocimiento, goce o ejercicio de sus derechos humanos;
 
-XV. Identidad o filiación política;
+XV. Impedir, negar, restringir o menoscabar los derechos de las personas, grupos o comunidades pertenecientes a los pueblos indígenas, en situación de calle o pobreza, afrodescendientes, mujeres, niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores;
 
-XVI. Preferencias sexuales;
+XVI. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole sin razón justificada;
 
-XVII. Estado civil; o,
+XVII. Negar o condicionar el derecho al desarrollo y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;
 
-XVIII. Cualquier otra análoga.
+XVIII. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;
+
+XIX. Impedir el acceso a la procuración e impartición de justicia;
+
+XX. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; y a la asistencia de personas intérpretes o traductoras en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables; así como el derecho de las niñas y niños a ser escuchados;
+
+XXI. Negar el derecho a ser atendido correctamente, sin vejaciones o malos tratos cuando sean víctimas de un delito;
+
+XXII. Cometer o incitar actos de violencia, maltrato, tortura o detención arbitraria;
+
+XXIII. Aplicar cualquier tipo de uso o costumbre que atente contra la igualdad, dignidad e integridad humana;
+
+XXIV. Impedir la libre elección de cónyuge o pareja;
+
+XXV. Ofender, ridiculizar o promover el odio y la violencia en los supuestos a que se refiere esta Ley a través de mensajes e imágenes en los medios de comunicación;
+
+XXVI. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia o religión, o de prácticas o costumbres religiosas, siempre que estas no atenten contra el orden público;
+
+XXVII. Negar asistencia religiosa a personas privadas de la libertad o que estén internadas en instituciones de salud o asistencia;
+
+XXVIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes aplicables;
+
+XXIX. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas y los niños, con base al interés superior de la niñez;
+
+XXX. Impedir el acceso a la seguridad social y a sus beneficios, o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la Ley así lo disponga;
+
+XXXI. Limitar el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la Ley así lo prevea;
+
+XXXII. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+
+XXXIII. Explotar o dar un trato abusivo o degradante;
+
+XXXIV. Restringir la participación en actividades deportivas, recreativas o culturales; así como establecer diferencias en las remuneraciones, apoyos, estímulos y compensaciones entre los atletas y los atletas paralímpicos;
+
+XXXV. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+
+XXXVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
+
+XXXVII. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o la exclusión;
+
+XXXVIII. Realizar o promover violencia física, sexual, psicológica, patrimonial, económica o patrimonial por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia u orientación sexual, o por cualquier otro motivo de discriminación;
+
+XXXIX. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
+
+XL. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+XLI. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad física, intelectual, sensorial, mental o psicosocial;
+
+XLII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores;
+
+XLIII. Difundir sin consentimiento de la persona agraviada información sobre su condición de salud;
+
+XLIV. Estigmatizar y negar derechos a personas con el Virus de la Inmunodeficiencia Humana (VIH) o el Síndrome de la Inmunodeficiencia Adquirida (SIDA);
+
+XLV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas; y,
+
+XLVI. En general cualquier acto u omisión discriminatoria en términos de la normatividad internacional, nacional y estatal.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 7 Bis.
+
+No se considerarán hechos, acciones, omisiones o prácticas discriminatorias constitucionalmente ilícitas, las siguientes:
+
+I. Las acciones legislativas o de políticas públicas, las acciones afirmativas, especificas, de nivelación o inclusión, las medidas positivas, las compensatorias, así como los ajustes razonables o prestación de apoyos, que establezcan tratos diferenciados con el objeto de lograr la igualdad sustantiva de oportunidades y de trato, de personas, grupos y comunidades histórica y estructuralmente desaventajados; tampoco será juzgada como discriminatoria la distinción o diferencia de trato basada en criterios razonables, proporcionales y objetivos cuya finalidad no sea el menoscabo de derechos humanos y libertades fundamentales;
+
+II. Los requerimientos basados en calificaciones, habilidades o conocimientos especializados exigidos para desempeñar una actividad determinada;
+
+III. La distinción establecida por las instituciones públicas de seguridad social del Estado de Michoacán entre las personas aseguradas y la población en general, siempre y cuando se garantice el principio de universalidad;
+
+IV. En el ámbito educativo, los requisitos académicos pedagógicos y de evaluación acordes con el nivel al que se vaya a ingresar;
+
+V. Los requisitos académicos que fomenten la inclusión y permanencia de toda persona en el sistema educativo regular de todo tipo; y,
+
+VI. El cumplimiento de un deber derivado de una potestad establecida en la Ley, siempre y cuando dicha disposición no sea discriminatoria.
 
 ### CAPÍTULO SEGUNDO. TIPOS DE VIOLENCIA
 
@@ -219,9 +307,15 @@ III. Sexual. Cualquier acción, mediante la violencia física o psicológica que
 
 IV. Patrimonial. Cualquier acción u omisión encaminada a la sustracción, destrucción o retención de objetos, alteración de valores, documentos personales o bienes de las personas o de su entorno; que limitan o dañan la supervivencia, independientemente del valor material o emocional, asociado a éstos;
 
-V. Económica. Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las personas, que lesionan su independencia y supervivencia; y,
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-VI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las personas.
+V. Económica. Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las personas, que lesionan su independencia y supervivencia;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI. Institucional. Actos u omisiones de servidores públicos que discriminan o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos y libertades fundamentales de las personas, grupos o comunidades; y;
+
+VII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las personas.
 
 ### CAPÍTULO TERCERO. MODALIDADES DE DISCRIMINACIÓN Y VIOLENCIA
 
@@ -864,3 +958,11 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO TRIGÉSIMO PRIMERO.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20 Y EL INCISO D) DE LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 354 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 1 Y LOS ARTÍCULOS 2 Y 7; SE CREA EL ARTÍCULO 7 BIS; SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 8, TODOS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
