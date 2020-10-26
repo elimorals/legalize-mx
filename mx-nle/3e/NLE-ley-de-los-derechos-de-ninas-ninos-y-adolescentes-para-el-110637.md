@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2020-01-27"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -47,7 +47,9 @@ LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LE�
 
 Esta Ley es de orden público e interés social y de observancia general en el estado de Nuevo León, y tiene por objeto:
 
-I. Reconocer a niñas, niños y adolescentes como titulares de derechos, así como garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León y en los Tratados Internacionales de los que el Estado mexicano forma parte;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+I. Reconocer a niñas, niños y adolescentes como titulares de derechos, así como garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes, de acuerdo con los principios de universalidad, interdependencia, indivisibilidad y progresividad, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León y en los Tratados Internacionales de los que el Estado mexicano forma parte;
 
 II. Sentar las bases para la creación y regulación, integración, organización y funcionamiento del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes;
 
@@ -75,6 +77,10 @@ Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo i
 
 Las autoridades estatales y municipales, deberán incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+V. Promover e impulsar el desarrollo de la niñez bajo la perspectiva de la cultura de la paz.
+
 ###### Artículo 3.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
@@ -95,7 +101,9 @@ IV. Ajustes Razonables: las modificaciones y adaptaciones necesarias y adecuadas
 
 V. Institución Asistencial: las casas hogar, casas cuna, albergues, internados o cualquier otra institución pública, social, privada o de beneficencia privada en la que residan y tengan bajo su guarda, custodia o ambas a niñas, niños y adolescentes;
 
-VI. Certificado de Idoneidad: documento expedido por el Sistema Estatal DIF por medio de la Procuraduría de Protección o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello. Asimismo la Procuraduría de Protección podrá certificar a los Sistemas DIF Municipales y a las Instituciones Asistenciales para que otorguen el certificado;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI. Certificado de Idoneidad: documento expedido por el Sistema Estatal DIF por medio de la Procuraduría de Protección o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
 VII. Certificado de Idoneidad para Acogimiento Familiar: documento expedido por el Sistema Estatal DIF por medio de la Procuraduría de Protección o por los Sistemas Municipales DIF debidamente certificados por la Procuraduría de Protección, que determina que los solicitantes son aptos para ello;
 
@@ -134,6 +142,10 @@ XXIII. Ley General: La Ley General de los Derechos de Niñas, Niños y Adolescen
 XXIV. Órgano Jurisdiccional: los juzgados o tribunales del Estado de Nuevo León;
 
 XXV. Parentalidad Asistida: Proceso en el que se propician y fortalecen en quienes ejercen la patria potestad o tutela, las condiciones que satisfacen las necesidades de niñas, niños y adolescentes para su desarrollo integral y armonioso, basado en el ejercicio pleno de sus derechos;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XXV Bis. Paz: Conjunto de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, tratando de atacar sus causas para solucionar problemas mediante el diálogo y la negociación entre las personas, los grupos o las naciones;
 
 XXVI. Procuraduría de Protección: la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León;
 
@@ -181,7 +193,9 @@ IV. La no discriminación;
 
 V. La inclusión;
 
-VI. El derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI. El derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 VII. La participación;
 
@@ -195,9 +209,17 @@ XI. La autonomía progresiva;
 
 XII. El principio pro persona;
 
-XIII. El acceso a una vida libre de violencia; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-XIV. La accesibilidad.
+XIII. El acceso a una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XIV. La accesibilidad, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XV. El derecho al adecuado desarrollo de la autonomía evolutiva de la personalidad.
 
 ###### Artículo 7.
 
@@ -235,7 +257,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 II. Derecho de prioridad;
 
@@ -283,11 +307,15 @@ XXIII. Derecho a revisión de la medida.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-### CAPÍTULO II. DEL DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+### CAPÍTULO II. DEL DERECHO A LA VIDA, A LA PAZ, A LA SUPERVIVENCIA Y AL DESARROLLO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 14.
 
-Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, la supervivencia y al desarrollo.
+Niñas, niños y adolescentes tienen derecho a la paz, a que se les preserve la vida, a la supervivencia y al desarrollo.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
@@ -387,7 +415,9 @@ Niñas, niños y adolescentes no podrán ser separados de las personas que ejerz
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia, y para que en su caso sean atendidos a través de las medidas especiales de protección que dispone el artículo 27 de esta Ley.
 
 ###### Artículo 25.
 
@@ -405,13 +435,19 @@ Para efectos del párrafo anterior, el Sistema Estatal DIF deberá otorgar acogi
 
 En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes, se estará a lo dispuesto en lo establecido en el artículo 25 de la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 27.
 
-El Sistema DIF Estatal, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+El Sistema Estatal DIF, a través de la Procuraduría de Protección, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial, o se encuentren expósitos o en estado de abandono.
 
-Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación civil aplicable, el Sistema Estatal DIF, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2020)</small>
 
-I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieren por su situación de desamparo familiar, privilegiando el derecho a vivir en su familia de origen, considerando en su caso, el acogimiento familiar a efecto de que la adopción sea el último recurso. En estos casos, de conformidad con la legislación civil aplicable, el Sistema Estatal DIF, así como las autoridades involucradas, según sea el caso, se asegurará de que niñas, niños y adolescentes:
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+I. Sean ubicados para su cuidado con su familia de origen, extensa, ampliada o familia de acogimiento, para lo cual podrá considerarse a persona significativa con quien tenga una relación de intimidad nacida de algún acto civil, religioso o afectivo sancionado y respetado por la costumbre, en dicho orden, siempre que ello sea posible y no sea contrario a su interés superior;
 
 II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
@@ -419,15 +455,45 @@ III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedim
 
 IV. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por las Instituciones Asistenciales el menor tiempo posible.
 
-Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
 
-El Sistema DIF Nuevo León por conducto de la Procuraduría de Protección, podrá capacitar, evaluar y certificar a las Instituciones Asistenciales y a los Sistemas DIF Municipales así como al personal que en éstas labore, para llevar a cabo los procedimientos de adopción y/o acogimiento familiar de acuerdo al Código Civil del Estado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2020)</small>
 
-De acuerdo con lo anterior, el Sistema Estatal DIF, por conducto de la Procuraduría de Protección y los Sistemas DIF Municipales debidamente certificados por la anterior, deberán registrar, capacitar, evaluar, certificar y dar seguimiento a las familias que deseen adquirir la calidad de familia de acogida o familia de acogimiento pre-adoptivo, así como de adopción.
+El Sistema Estatal DIF y la Procuraduría de Protección deberán mantener estrecha comunicación entre sí, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo de la autonomía evolutiva de su personalidad, así como materializar su derecho a vivir en familia.
 
-Las instituciones Asistenciales debidamente certificadas podrán realizar lo anterior, con la limitante de certificar a las familias de acogida, por lo que recurrirán a la Procuraduría de Protección con las evaluaciones hechas para que ésta, mediante la valoración previa de las evaluaciones y del procedimiento otorgue el certificado de idoneidad para acogimiento familiar.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+El Sistema Estatal DIF a través de la Procuraduría de Protección, podrá capacitar, evaluar y certificar a las Instituciones Asistenciales que formen parte del Consejo Estatal de Adopciones y a los Sistemas DIF Municipales, o bien, las instituciones que por su naturaleza y objetivos operen programas de acogimiento familiar; así como, al personal que en éstas labore, para llevar a cabo los procedimientos de adopción y/o acogimiento familiar de acuerdo con el Código Civil para el Estado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+De acuerdo con lo anterior, el Sistema Estatal DIF, por conducto de la Procuraduría de Protección deberá registrar, capacitar, evaluar, certificar y dar seguimiento a las familias que deseen adquirir la calidad de familia de acogida o familia de acogimiento preadoptivo, así como de adopción.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Los Sistemas DIF Municipales, así como las Instituciones Asistenciales que por su naturaleza y objetivos operen programas de acogimiento familiar; Instituciones Asistenciales que formen parte del Consejo Estatal de Adopciones y que estén debidamente certificadas podrán realizar lo anterior, con la limitante de certificar; para ello, tendrán que recurrir a la Procuraduría de Protección con las evaluaciones hechas para que ésta, mediante la valoración previa de las evaluaciones y del procedimiento, otorgue la certificación de idoneidad para acogimiento familiar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Las autoridades administrativas y jurisdiccionales del estado, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guarda o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Los certificados de idoneidad deberán ser expedidos, previa valoración técnica, por la Procuraduría de Protección y serán válidos para iniciar el proceso de adopción en cualquier entidad federativa, independientemente de dónde hayan sido expedidos. En todo caso, la Procuraduría de Protección deberá actualizar, confirmar o descartar la información proporcionada en el certificado de idoneidad, atendiendo a los principios y disposiciones establecidos en la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+El proceso administrativo y jurisdiccional de adopción podrá realizarse en cualquier entidad federativa, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado, observando las reglas de competencias previstas en la legislación civil aplicable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO Y REUBICADO], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Las autoridades competentes deberán tener en consideración el interés superior de la niñez al determinar la opción que sea más adecuada para restituir su derecho a vivir en familia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+El Sistema Estatal DIF, a través de la Procuraduría de Protección, será la responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el proceso de adopción, sujetándose a lo establecido en el artículo 30 bis 12 de esta Ley.
 
 ###### Artículo 28.
 
@@ -469,9 +535,181 @@ II. Realizar capacitación, evaluación sobre la idoneidad de quienes deseen asu
 
 III. Contar con un listado de personas o solicitantes que deseen asumir el carácter de familia de acogida, así como de las personas o familias que concluyeron con dicho proceso, e informar de manera semestral a la Procuraduría de Protección; y
 
-IV. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+IV. Contar con un sistema de información permanentemente actualizado, que permita registrar niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción nacionales y extranjeros y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
 
 Las instituciones Asistenciales certificadas por la Procuraduría de Protección, podrán realizar lo anterior, con la limitante de emitir el certificado de idoneidad para acogimiento familiar.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis.
+
+En materia de adopción, todas las autoridades deberán observar lo siguiente:
+
+I. Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
+
+II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo de su autonomía evolutiva, cognitiva y grado de madurez, en términos de la presente Ley;
+
+III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma;
+
+IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella;
+
+V. Garantizar que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en esta ley;
+
+VI. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente, y
+
+VII. El Poder Judicial, garantizará que los procedimientos de adopción se lleven de conformidad con esta Ley, la legislación civil y demás aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 1.
+
+Toda persona que encontrare una niña, niño o adolescente en situación de desamparo familiar, deberá presentarlo ante la Procuraduría de Protección, ante el Sistema Nacional DIF o ante el Sistema Estatal DIF, con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 2.
+
+Serán considerados expósitos las niñas, niños o adolescentes abandonados en cualquier lugar y de quienes se desconoce su identidad y la de sus progenitores; se determinará el carácter de expósito una vez que se agotaron las investigaciones correspondientes por parte de las instituciones que intervengan y hubieren ingresado en cualquier centro de asistencia social; no habiendo logrado su reintegración al seno familiar, la Procuraduría de Protección levantará el acta del menor de edad en condición de expósito para que pueda ser susceptible de adopción, conforme al término establecido por el Código Civil para el Estado de Nuevo León; el cual correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando el Sistema Estatal DIF a través de la Procuraduría de Protección, levante la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente.
+
+Se investigará el origen de niñas, niños y adolescentes y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez. Lo anterior, en coordinación con los centros de asistencia social y con el auxilio de cualquier autoridad que se considere necesaria, sin exponer, exhibir o poner en riego (sic) a la niña, niño o adolescente.
+
+Se considera abandonado el menor de edad cuyo origen se conoce y que es colocado en una situación de desamparo por quienes conforme a la Ley estén obligados a su custodia, protección y cuidado; así como, cuando esta circunstancia no le represente un riesgo sin importar el lugar donde ocurra, una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos.
+
+Serán considerados abandonados las niñas, niños y adolescentes acogidos en Centros de Asistencia Social, conforme al término establecido por el Código Civil para el Estado de Nuevo León.
+
+En caso de las niñas, niños o adolescentes considerados expósitos o en estado de abandono, la Procuraduría de Protección podrá solicitar información, por escrito o vía electrónica, de la familia de origen a cualquier dependencia pública o institución privada, quienes contarán con el término improrrogable de tres días hábiles a partir del día siguiente en que reciban la notificación, para dar contestación a las peticiones; en caso contrario, se solicitará a la autoridad competente se apliquen los medios de apremio que correspondan.
+
+A excepción de los ingresos voluntarios, los centros de asistencia social que reciban niñas, niños y adolescentes en situación de desamparo familiar sólo podrán recibirlos por disposición de la Procuraduría de Protección o de autoridad competente.
+
+Se entenderá como ingreso voluntario del menor de edad, el realizado por quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 3.
+
+Para los fines de esta ley se prohíbe:
+
+I. La promesa de adopción durante el proceso de gestación;
+
+II. La adopción privada, entendida como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia, o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes, sin que intervengan las autoridades competentes de conformidad con esta ley;
+
+III. Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si una vez concluida judicialmente la adopción se presentare cualquiera de los supuestos referidos, la Procuraduría de Protección deberá presentar denuncia ante el Ministerio Público a fin de que éste promueva la revocación de la adopción y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes;
+
+IV. El contacto de los padres biológicos que entregaron en adopción a una niña, un niño o un adolescente, con el adoptante, el adoptado o con cualquier persona involucrada en la adopción; con excepción de los casos en que los adoptantes sean familiares biológicos, de la familia extensa o cuando el adoptado desee conocer sus antecedentes familiares y sea mayor de edad. Las niñas, niños y adolescentes que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de los adoptantes, y siempre que ello atienda al interés superior de la niñez;
+
+V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
+
+VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa del adoptado, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
+
+VIII. El matrimonio o concubinato entre el adoptante y el adoptado o sus descendientes, así como el matrimonio o concubinato entre el adoptado con los familiares del adoptante o sus descendientes;
+
+IX. Ser adoptado por más de una persona, salvo en caso de que los adoptantes sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
+
+X. La adopción por discriminación, entendida como aquella donde se considera a la niña, niño o adolescente como valor supletorio o reivindicatorio, y
+
+XI. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y el adecuado desarrollo de su autonomía evolutiva de la personalidad.
+
+Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
+
+Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que se realiza en contravención de lo establecido por la presente ley. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría de Protección tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para los hijos consanguíneos.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 4.
+
+Pueden ser adoptados niñas, niños y adolescentes que:
+
+I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
+
+II. Sean expósitos o abandonados;
+
+III. Se encuentren en alguno de los supuestos anteriores y acogidos en Centros de Asistencia Social o bajo la tutela del Sistema Nacional DIF, de los Sistemas de las Entidades o de las Procuradurías de Protección, y
+
+IV. En todo caso se deberá contar con el informe de adoptabilidad.
+
+Cuando estén bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante la Procuraduría de Protección, en los casos de proceso de adopción promovidos por ésta.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 5.
+
+Los solicitantes deberán acudir a la Procuraduría de Protección, o a las Instituciones Asistenciales que operen programas de adopción y formen parte del Consejo Estatal de Adopciones para realizar sus trámites de adopción.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 6.
+
+Una vez reunidos los requisitos e integrado el expediente, la Procuraduría de Protección expedirá o ratificará el certificado de idoneidad en los términos de la presente Ley.
+
+Las opiniones del Consejo Estatal de Adopciones deberán sujetarse a lo establecido en la legislación civil y en la presente Ley. Se emitirán en un plazo no mayor a cuarenta y cinco días naturales, contados a partir de la entrega del expediente de adopción por parte de la Procuraduría de Protección, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos; caso en el cual, se reservará emitir la opinión correspondiente y podrá ampliarse el plazo hasta por treinta días naturales más.
+
+Para que el trámite de adopción ante el Juez pueda dar inicio, se deberá de contar, por escrito, con la opinión favorable del Consejo Estatal de Adopciones respecto de las adopciones que se soliciten y tramiten en el Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 7.
+
+Una vez cumplimentado lo referido en el artículo anterior e integrado el expediente de adopción completo, la Procuraduría de Protección realizará la solicitud de adopción ante el Juez que corresponda. Dicha autoridad administrativa, sin necesidad de requerimiento judicial, contará con cinco días hábiles para la entrega de tal expediente al juzgado de la materia.
+
+Respecto a las resoluciones de adopción, el juez contará con 15 días hábiles improrrogables, contados a partir del día siguiente de la entrega, por parte de la autoridad administrativa, del expediente de adopción completo.
+
+Tratándose de solicitudes de adopción realizadas por particulares, se observará el procedimiento previsto en el Código de Procedimientos Civiles del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 8.
+
+En igualdad de circunstancias se dará preferencia en la adopción a solicitantes del Estado sobre los de otras entidades federativas y de estos, sobre extranjeros. Asimismo, se dará preferencia a las adopciones nacionales sobre las internacionales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 9.
+
+Los Centros de Asistencia Social públicos y privados que tengan bajo su custodia adolescentes que cumplan la mayoría de edad deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 10.
+
+La Procuraduría de Protección y el Sistema Estatal DIF, en el ámbito de sus respectivas competencias, crearán los mecanismos necesarios para que los adoptantes cuenten con un procedimiento único, que permita que el trámite de adopción sea rápido, eficaz y transparente.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 11.
+
+En su ámbito de competencia, el Sistema Estatal DIF a través de la Procuraduría de Protección, en coordinación con el Sistema DIF Nacional y la Procuraduría de Protección Federal, dispondrá lo necesario a efecto de homologar los requisitos y procedimientos administrativos de adopción a nivel estatal en congruencia con el Sistema DIF Nacional.
+
+En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 12.
+
+A fin de acompañar la adaptación de niñas, niños y adolescentes a su nueva familia y entorno, así como conocer la evolución de su desarrollo, el Sistemas (sic) Estatal DIF a través de la Procuraduría de Protección, realizarán un seguimiento de su situación.
+
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de psicología y trabajo social, donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 13.
+
+En caso de que el adoptante sea extranjero con residencia permanente en el territorio nacional, las autoridades competentes incluirán, como requisito del certificado de idoneidad, la comprobación de la situación migratoria regular en el territorio nacional.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 14.
+
+La adopción en todo caso será plena e irrevocable, salvo los supuestos establecidos en la legislación civil aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 30 Bis 15.
+
+El Sistema Estatal DIF y la Procuraduría de Protección celebrarán con el Sistema Nacional DIF y la Procuraduría de Protección Federal, los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia, con sus pares estatales o con las autoridades que se requiera.
 
 ###### Artículo 31.
 
@@ -1933,13 +2171,17 @@ VI. Las demás que resulten de ésta y otras leyes o le señale el Procurador de
 
 Quienes ejerzan la patria potestad o tutela de una niña, niño o adolescente que se encuentren inconformes con las medidas de protección determinadas por la procuraduría, podrá resolver sus diferencias con la misma, mediante la negociación y conciliación, en la forma y términos establecidos por las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 148.
 
-La Procuraduría de Protección para hacer cumplir sus atribuciones, las disposiciones de esta Ley, podrá emplear cualquiera de los siguientes medios de apremio dictados por autoridad competente:
+La Procuraduría de Protección para hacer cumplir sus atribuciones y las disposiciones de estar (sic) Ley, podrá emplear cualquiera de los siguientes medios de apremio:
 
 I. Apercibimiento;
 
-II. Multa de una a diez cuotas, entendiéndose por ésta el salario mínimo general diario más bajo de los diversos que puedan regir en la entidad en el momento de su imposición;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+II. Multa de una a diez cuotas, entendiéndose por está el valor diario de la Unidad de Medida y Actualización que rija en la entidad en el momento de su imposición;
 
 III. Auxilio de la fuerza pública;
 
@@ -2810,3 +3052,11 @@ Recursos correspondientes a Municipio=% de menores de 18 años en el municipio r
 Sexto.- El ejercicio del monto asignado a las Defensorías Municipales, podrá ser ejercido durante doce meses siguientes a partir de la fecha en que sea radicado a la autoridad municipal.
 
 Séptimo.- Para el cumplimiento de las disposiciones de este Decreto, deberá de preverse la partida presupuestal correspondiente en la Ley de Egresos del Estado de Nuevo León.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 356. SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
