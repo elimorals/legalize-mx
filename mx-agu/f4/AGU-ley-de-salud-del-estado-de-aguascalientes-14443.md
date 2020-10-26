@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2020-10-12"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1315,7 +1313,9 @@ La prevención de las enfermedades mentales tiene carácter prioritario. Se basa
 
 Para la promoción de la salud mental, el Organismo y las Instituciones de Salud en coordinación con las autoridades federales, estatales y municipales competentes en cada materia, fomentarán y apoyarán:
 
-I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+I.- El desarrollo de actividades educativas, socioculturales, recreativas, deportivas y cívicas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
@@ -1323,21 +1323,41 @@ II.- La difusión de las orientaciones para la promoción de la salud mental;
 
 III.- La realización de programas para prevención del abuso del alcohol y del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o adicciones;
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-IV.- La realización de programas para la atención y tratamiento de los trastornos mentales, además de aquellos cuyo origen emocional derive en afecciones alimentarias; y
+IV.- La realización de programas para el diagnóstico oportuno, atención y tratamiento de los trastornos mentales, además de aquellos cuyo origen emocional derive en afecciones alimentarias;
 
-V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+V.- La realización de programas de bienestar psicosocial, comprendiendo el crecimiento personal, el desarrollo profesional y la resolución de conflictos emocionales;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI.- La realización de programas para la detección y tratamiento de posibles trastornos mentales que presenten niñas, niños y adolescentes de conformidad (sic) la Ley de Educación vigente en el Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VII.- La sensibilización a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VIII.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### ARTICULO 81.
 
 La atención de las enfermedades mentales comprende:
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-I.- La atención de personas con padecimientos mentales, incluidos los trastornos de la conducta alimentaria, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y
+I.- La atención de personas con padecimientos mentales, incluidos los trastornos de la conducta alimentaria, trastornos de ansiedad, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+II.- La organización, operación y supervisión de instituciones dedicadas al estudio tratamiento y rehabilitación de enfermos mentales; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+III.- El apoyo a las instituciones educativas del Estado para la detección y tratamiento de trastornos mentales en niñas, niños y adolescentes.
 
 ###### ARTICULO 82.
 
@@ -3953,85 +3973,13 @@ P.O. 12 DE OCTUBRE DE 2020.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 49/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DE LOS JUZGADOS SEXTO Y SÉPTIMO DE DISTRITO DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TUXTLA GUTIÉRREZ, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS REFERIDOS ÓRGANOS JURISDICCIONALES Y LOS JUZGADOS DE DISTRITO DE AMPARO Y JUICIOS FEDERALES, EN LA MISMA ENTIDAD FEDERATIVA Y SEDE”.]
+P.O. 26 DE OCTUBRE DE 2020.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de diciembre de dos mil dieciséis, con excepción de lo previsto en los transitorios TERCERO y CUARTO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 411.- REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito de Amparo y Juicios Federales en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, continuará aplicándose hasta el 5 de diciembre de 2016, en específico:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 28 de noviembre al 5 de Juzgado Quinto de Amparo y Juicios
-
-de diciembre de 2016 Federales y Juzgado Segundo de
-
-Procesos Penales Federales
-
-A partir del propio 5 de diciembre de 2016 y posteriormente, las guardias de turno quedarán como sigue:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 5 al 12 de diciembre de 2016 Juzgado Sexto de Amparo y Juicios
-
-Federales y Juzgado Primero de
-
-Procesos Penales Federales
-
-Del 12 al 19 de diciembre de 2016 Juzgado Séptimo de Amparo y Juicios
-
-Federales y Juzgado Segundo de
-
-Procesos Penales Federales
-
-Del 19 al 26 de diciembre de 2016 Juzgado Primero de Amparo y Juicios
-
-Federales y Juzgado Primero de
-
-Procesos Penales Federales
-
-Del 26 de diciembre de 2016 al Juzgado Segundo de Amparo y Juicios
-
-2 de enero de 2017 Federales y Juzgado Segundo de
-
-Procesos Penales Federales
-
-Del 2 al 9 de enero de 2017 Juzgado Tercero de Amparo y Juicios
-
-Federales y Juzgado Primero de
-
-Procesos Penales Federales
-
-Del 9 al 16 de enero de 2017 Juzgado Cuarto de Amparo y Juicios
-
-Federales y Juzgado Segundo de
-
-Procesos Penales Federales
-
-Y así sucesivamente de forma semanal.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XX, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a XIX. ...
-
-XX. ...
-
-1. a 2. ...
-
-3. Once juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
-
-XXI. a XXXII. …”.
-
-D.O.F. 30 DE NOVIEMBRE DE 2016.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES UNITARIOS PRIMERO, SEGUNDO Y TERCERO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO, Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL DECIMOSEXTO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, FECHA DE COMIENZO DE FUNCIONES Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN LA MATERIA, CIRCUITO Y RESIDENCIA INDICADOS, ASÍ COMO A LA CREACIÓN DE SU OFICINA DE CORRESPONDENCIA COMÚN.]
 
