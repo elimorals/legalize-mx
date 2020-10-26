@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2017-06-26"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -65,39 +65,43 @@ LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO.
 
 Esta Ley es de observancia general para el Estado de Hidalgo; sus disposiciones son de orden público e interés social.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 2.
 
 La presente Ley tiene por objeto:
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+I.- Fomentar y promover la lectura, la escritura y el libro, como medios para alcanzar la equidad social.
 
-I.- Fomentar y promover la lectura, la escritura y las bibliotecas.
+La lectura es un derecho cultural para mejorar los niveles educativos, técnicos y científicos de la población, apoyar la creación y transmisión de conocimientos, y la circulación de información en el marco de una sociedad democrática, diversa, equitativa y próspera.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-La lectura es un derecho cultural para mejorar los niveles educativos, técnicos y científicos de la población, apoyar la creación y transmisión de conocimientos, el desarrollo cultura (sic) de la nación y la circulación de información en el marco de una sociedad democrática, diversa, equitativa y próspera. Es fundamental para la creación artística y literaria y para la formación y diversidad de las culturas, así como para la recreación y tiene un efecto directo sobre la productividad de la sociedad y el desarrollo económico. Por ello, el Estado garantizará el aprendizaje de la lectura y la escritura, el desarrollo permanente de las competencias de la lectura y escritura que la sociedad del conocimiento requiere, facilitará el acceso de todos los miembros de la comunidad a la información y a la producción cultural y fomentará el uso creativo de la lectura y la escritura, de manera sostenida, por los miembros de la misma;
+El Estado garantizará el fomento de la lectura y la escritura, y facilitará su acceso a toda la población;
 
 II.- Contribuir a erradicar los distintos grados de analfabetismo presentes en diversos grupos poblacionales del Estado de Hidalgo;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+III.- Promover la producción, distribución, difusión, calidad y preservación del libro, en sus diferentes soportes y formatos, facilitando su acceso a toda la población. El Estado debe estimular la actividad editorial puesto que, además de los beneficios económicos que genera, crea bienes y valores indispensables para la cultura, la libertad de expresión y la democracia;
 
-III.- Promover la producción, distribución, difusión, calidad y preservación del libro, y facilitar su acceso a toda la población. El libro, en sus diferentes soportes y formatos, es elemento central de la cultura, portador de la diversidad lingüística y cultural y herramienta indispensable para la conservación y transmisión del patrimonio cultural de la nación, así como para el intercambio entre las culturas. El Estado debe estimular la actividad editorial puesto que, además de los beneficios económicos que genera, crea bienes y valores indispensables para la cultura, la libertad de expresión y la democracia;
+IV.- Garantizar que el gobierno estatal y los gobiernos municipales generen y ejecuten políticas públicas, programas y acciones relacionadas con la función cultural y educativa de fomento a la lectura y el libro;
 
-IV.- Distribuir y coordinar entre los gobiernos municipales y el Gobierno Estatal, las actividades relacionadas con la función educativa y cultural de fomento a la lectura y el libro;
+V.- Velar por la modernización, fortalecimiento y actualización permanente del acervo bibliográfico en sus diferentes formatos de las bibliotecas públicas del Estado, así como el fortalecimiento de su infraestructura y programas de fomento a la lectura.
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+VI.- Coordinar y concertar a los sectores social y privado en esta materia, para que el Estado garantice el ejercicio del derecho a la información;
 
-V.- Velar por la modernización y actualización del acervo literario y periodístico de las bibliotecas públicas del Estado de Hidalgo, las bibliotecas tienen como función principal garantizar el acceso de la población, sin restricciones económicas ni discriminación alguna, al libro y a las múltiples formas de lectura. Les corresponde asimismo la conservación, protección y divulgación del patrimonio bibliográfico de la nación. El Estado deberá garantizar el ejercicio del derecho a la información, mediante el apoyo al sistema de bibliotecas públicas en cooperación con las bibliotecas privadas;
+VII.- Establecer criterios que permitan generar lectores por medio de políticas públicas, programas, proyectos y acciones en materia de fomento y promoción de la lectura, con especial atención en las zonas rurales e indígenas;
 
-VI.- Coordinar y concertar a los sectores social y privado en esta materia;
+VIII.- Garantizar el acceso, en igualdad de condiciones, al libro en todo el Estado de Hidalgo para aumentar su disponibilidad y acercarlo al lector;
 
-VII.- Establecer criterios que permitan generar políticas públicas para todas las regiones del Estado de Hidalgo en materia de fomento y promoción de la lectura, con especial atención en las zonas rurales e indígenas;
+IX.- Fomentar a la industria editorial incentivando la edición, distribución y comercialización del libro y las publicaciones periódicas con especial énfasis en los temas culturales, literarios y científicos;
 
-VIII.- Aportar elementos para elevar la calidad de la educación, garantizar el acceso, en igualdad de condiciones, al libro en todo el Estado de Hidalgo para aumentar su disponibilidad y acercarlo al lector y;
+X.- Promover acuerdos con instancias municipales, estatales, nacionales o internacionales que coadyuven en el fomento y estímulo de la escritura, la lectura y la producción editorial;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+XI.- Elaborar campañas permanentes de fomento a la lectura en los municipios, así como el establecimiento de librerías, y otros espacios públicos y/o privados para la lectura y difusión del libro;
 
-IX.- Fomentar a la industria editora incentivando la edición, distribución y comercialización del libro y las publicaciones periódicas, la creación cultural, literaria y científica.
+XII.- Producir publicaciones interpretadas mediante el sistema braille, audiolibros y cualquier otro lenguaje que facilite el acceso a quienes poseen capacidades diferentes;
+
+XIII.- Apoyar a los hidalguenses con vocación de escribir; y
+
+XIV.- Infundir a los estudiantes desde la educación básica el hábito por la lectura de periódicos y revistas a fin de despertar su interés por los temas de trascendencia pública.
 
 ###### Artículo 3.
 
@@ -115,7 +119,9 @@ III.- Estado: El Estado Libre y Soberano de Hidalgo;
 
 IV.- Distribución: La actividad de intermediación entre el editor y el vendedor de libros al menudeo, que facilita el acceso al libro propiciando su presencia en el mercado;
 
-V.- Distribuidor: La persona física o moral legalmente constituida, dedicada a la distribución de libros y revistas;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+V.- Distribuidor: La persona física o moral legalmente constituida, dedicada a la distribución de libros y otras publicaciones;
 
 VI.- Libro: Toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa en cualquier soporte, cuya edición se haga en su totalidad de una sola vez en un volumen, o a intervalos en varios volúmenes o fascículos. Comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente.
 
@@ -141,15 +147,19 @@ XII.- Salas de lectura: Los espacios alternos y las escuelas y bibliotecas, coor
 
 XIII.- Autor: La persona que realiza alguna obra destinada a ser difundida en forma de libro. Se considera como tal, sin perjuicio de los requisitos establecidos en la legislación vigente, al traductor respecto de su traducción, al compilador y a quien extracta o adapta obras originales, así como al ilustrador y al fotógrafo, respecto de sus correspondientes trabajos;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-XIV.- Librería: establecimiento de comercio de libre acceso al público, cuya actividad principal es la venta de libros al detalle. Puede estar acompañada de la venta de otros bienes de la industria cultura, sonoros o audiovisuales y de la venta de materiales complementarios de escritura o lectura;
+XIV.- Librería: establecimiento de comercio de libre acceso al público, cuya actividad principal es la venta de libros al detalle. Puede estar acompañada de la venta de otros bienes de la industria cultural;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2020)</small>
 
-XV.- Libro de interés patrimonial: Se considera libro de interés patrimonial aquella publicación en la que concurran las siguientes circunstancias: Depósito legal.
+XV.- Libro de interés patrimonial: Se considera libro de interés patrimonial aquella publicación en la que concurran las siguientes circunstancias:
 
-a) Que la obra o sus copias sean necesarias para el adelanto de la ciencia, la tecnología, la cultura y la educación estatales; que sea necesaria para la conservación y difusión del patrimonio cultural hidalguense, a saber: la historia, estatal y local; los usos y costumbres, rurales y urbanos, el arte, ancestral y contemporáneo, las lenguas, la medicina, la cocina, el conocimiento científico generado en la entidad o por hidalguenses en diversas regiones del mundo, así como de otros artes y saberes según el dictamen que expida la Dirección de Bibliotecas y Documentación de Hidalgo: y
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+a) Que la obra o sus copias sean necesarias para el adelanto de la ciencia, la tecnología, la cultura y la educación estatales; que sea necesaria para la conservación y difusión del patrimonio cultural hidalguense, a saber: la historia, estatal y local; los usos y costumbres, rurales y urbanos, el arte, ancestral y contemporáneo, las lenguas, la medicina, la cocina, el conocimiento científico generado en la entidad o por hidalguenses en diversas regiones del mundo, así como de otros artes y saberes, según el dictamen que expida la Secretaría de Cultura; y
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 b) Que no exista una obra sucedánea para el adelanto de la rama de la ciencia, la tecnología, la cultura o la educación estatales de que se trate;
 
@@ -157,33 +167,33 @@ b) Que no exista una obra sucedánea para el adelanto de la rama de la ciencia, 
 
 XVI.- Catálogo de libros de interés patrimonial para (sic) Estado de Hidalgo: Es el registro de los libros considerados de interés patrimonial, según se define en el inciso anterior, que debe expedir la Dirección de Bibliotecas y Documentación de Hidalgo; y
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-XVII.- Depósito legal: El Depósito Legal es una obligación administrativa que exige depositar en las bibliotecas públicas ejemplares de las publicaciones de todo tipo que hayan sido reproducidas en cualquier soporte a través de cualquier procedimiento para distribución pública.
+XVII.- Depósito legal: Es una obligación para editores y productores de materiales bibliográficos y documentales que les exige depositar en el Fondo Estado de Hidalgo de la Biblioteca Central del Estado de Hidalgo, Ricardo Garibay, tres ejemplares de las publicaciones de todo tipo que hayan sido reproducidas en cualquier soporte a través de cualquier procedimiento para distribución pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 5.
 
-Consagrada por la Constitución Política de los Estados Unidos Mexicanos, la autonomía de imprenta garantiza que es inviolable la libertad de escribir, editar y publicar libros sobre cualquier materia, sin más limitación que la establecida en la misma.
+La autonomía de imprenta garantiza la libertad de escribir, editar y publicar libros sobre cualquier materia, atendiendo lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
 Ninguna autoridad estatal o municipal puede prohibir, restringir, ni obstaculizar la promoción, creación, edición, producción, distribución o difusión de libros.
 
 ### Capítulo II. De las Autoridades Responsables
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 6.
 
 Son autoridades encargadas de la aplicación de la presente Ley en el ámbito de sus respectivas competencias:
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+A. La Secretaría de Cultura del Estado de Hidalgo;
 
-A.- El Ejecutivo Estatal, a través de la Secretaría de Educación Pública.
+B. La Secretaría de Educación Pública del Estado de Hidalgo;
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
+C. El Consejo Estatal para el Fomento de la Lectura y el Libro; y
 
-B).- La Secretaría de Cultura, a través del Consejo Estatal para la Cultura y las Artes; y
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-C).- Los Ayuntamientos.
+D. Los Ayuntamientos.
 
 ###### Artículo 7.
 
@@ -197,93 +207,103 @@ El gobierno establecerá, como forma de promover la creación literaria, premios
 
 A fin de estimular la edición y divulgación de obras de nuevos autores, así como de aquellos que pertenezcan a comunidades lingüísticas o sociales minoritarias, promoverá una cultura de respeto por las creaciones intelectuales y sus autores. Para ello apoyará la divulgación de la creación estatal y fomentará, en el ámbito escolar y social el conocimiento de las obras literarias y artísticas y de sus autores, la valoración de la integridad de las obras culturales y el respeto al derecho de autor.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 8.
 
-Corresponde a la Secretaría de Educación Pública del Estado, en coordinación con los organismos competentes de los ayuntamientos de la Entidad, realizar el Programa Estatal de Fomento a la Lectura y al Libro, a través de las siguientes medidas:
+Corresponde a la Secretaría de Cultura en coordinación con los ayuntamientos de la entidad, realizar un Programa Estatal de Fomento a la Lectura y al Libro, a través de las siguientes medidas:
+
+I.- Promover la lectura, publicación y distribución de libros con contenidos de calidad; así como la existencia de ellos en todas las bibliotecas del estado;
+
+II.- Organizar actividades y eventos que promuevan libros con contenidos de calidad y estimulen el hábito de la lectura, en apoyo a los objetivos de esta Ley;
+
+III.- Fomentar y promover, la creación literaria en las lenguas autóctonas de la entidad, y buscar mecanismos de distribución para las distintas regiones del estado;
+
+IV.- Garantizar la existencia de bibliotecas públicas como lugares de acceso de toda la población al libro y a la información, como entidades de apoyo a la formación de lectores y como lugares de encuentro comunitario y cultural;
+
+V.- Procurar que los títulos inscritos en el catálogo de libros de interés patrimonial para el estado de Hidalgo, se publiquen y distribuyan en la Red Estatal de Bibliotecas Públicas, de acuerdo a la asignación presupuestal;
+
+VI.- Establecer programas de apoyo e incentivos para quienes tengan el interés y/o vocación por escribir;
+
+VII.- Organizar y ejecutar exposiciones, ferias y festivales del libro y la lectura;
+
+VIII.- Fomentar el hábito de la lectura;
+
+IX.- Difundir el trabajo de los nuevos autores, con énfasis en los creadores hidalguenses;
+
+X.- Fomentar la producción y transmisión de programas de radio, televisión e internet dedicados a la lectura y el libro;
+
+XI.- Procurar que los títulos inscritos en el Catálogo de libros de interés patrimonial del Estado de Hidalgo se traduzcan a las lenguas originarias y que dichas traducciones se pongan a disposición del público, así como las publicaciones interpretadas mediante el sistema braille y audiolibros;
+
+XII.- Promover la capacitación en relación al proceso editorial; y
+
+XIII.- Realizar acciones de actualización y capacitación para bibliotecarios y mediadores de lectura y promover su certificación.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 9.
+
+En el ámbito de su competencia, corresponde a la Secretaría de Educación Pública en coordinación con los ayuntamientos de la entidad:
 
 I.- Propiciar la creación, fortalecimiento y actualización de paquetes didácticos de estímulo y formación de lectores, adecuados para cada nivel de la educación básica, media y superior, que incluyan literatura de autores hidalguenses, dirigidos a educandos, docentes y padres de familia;
 
 II.- Emprender campañas educativas e informativas, permanentes y periódicas a través de los establecimientos de enseñanza y los medios de comunicación social;
 
-III.- Establecer un sistema de estímulos para los docentes de todos los niveles, padres de familia, organismos no gubernamentales y la sociedad civil, que promuevan la producción editorial, así como el fomento a la lectura y el libro;
+III.- Establecer un sistema de estímulos para los docentes de todos los niveles, que promuevan el fomento a la lectura y el libro;
 
-IV.- Organizar y ejecutar exposiciones, ferias y festivales del libro y la lectura;
+IV.- Garantizará la presencia permanente del libro, y de las obras inscritas en el catálogo de libros de interés patrimonial para el Estado de Hidalgo, en la escuela y en el aula por medio de la biblioteca escolar.
 
-V.- Difundir el trabajo de los nuevos autores, con énfasis en los creadores hidalguenses;
+V.- Realizar, fortalecer y evaluar los talleres literarios y métodos que faciliten la comprensión en la lectura;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+VI.- Promocionar en los niveles de enseñanza básica, métodos que faciliten la comprensión en la lectura; y
 
-VI.- Garantizará la presencia permanente del libro, y de las obras inscritas en el catálogo de libros de interés patrimonial para el Estado de Hidalgo, en la escuela y en el aula por medio de la biblioteca escolar, así como realizar cursos de capacitación vinculados al trabajo editorial y bibliotecario;
+VII.- Crear, fomentar, promover y distribuir textos en lengua autóctona propia de las etnias indígenas de la Entidad.
 
-VII.- Realizar y fortalecer y evaluar los talleres literarios, básica, métodos que faciliten la comprensión en la lectura;
-
-VIII.- Promocionar en los niveles de enseñanza básica, métodos que faciliten la comprensión en la lectura;
-
-IX.- Crear, fomentar, promover y distribuir textos en lenguas autóctonas propias de las etnias indígenas de la Entidad;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
-
-X.- Producir y transmitir programas de radio, televisión e internet dedicados a la lectura y el libro;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
-
-XI.- Asegurar que los títulos inscritos en el catálogo de obras de utilidad pública se publiquen, para que dichos libros estén en las bibliotecas públicas del Estado, privilegiando que los autores reciban la remuneración correspondiente; y
-
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
-
-XII.- Asegurar que los títulos inscritos en el Catálogo de libros de interés patrimonial del Estado de Hidalgo se traduzcan a las lenguas originarias y que dichas traducciones se pongan a disposición del público.
-
-Se establece el Sistema Hidalguense de Radio y Televisión de Hidalgo, como órgano coadyuvante para la producción y transmisión de los contenidos relacionados con la promoción y difusión de las acciones tendientes a fomentar la lectura en el Estado.
-
-###### Artículo 9.
-
-Corresponde al Consejo Estatal para la Cultura y las Artes:
-
-I.- Promover la lectura, publicación y distribución de libros con contenidos de calidad; así como la existencia de ellos en todas las bibliotecas del Estado;
-
-II.- Organizar actividades y eventos promuevan libros con contenidos de calidad y estimulen el hábito de la lectura, en apoyo a los objetivos de esta Ley;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
-
-III.- Fomentar y promover, en coordinación con la Secretaría de Educación Pública del Estado, la creación literaria en las lenguas autóctonas de la Entidad, y buscar mecanismos de distribución para las distintas regiones del Estado;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
-
-IV.- Garantizar la existencia de bibliotecas públicas comunitarias como lugares de acceso de toda la población al libro y a la información, como entidades de apoyo a la formación de lectores y como lugares de encuentro comunitario y cultural; y
-
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
-
-V.- Asegurar en coordinación con la Secretaría de Educación Pública del Estado de Hidalgo, que los títulos inscritos en el Catálogo de libros de interés patrimonial para el Estado de Hidalgo, se publiquen y distribuyan en la Red Estatal de Bibliotecas, privilegiando que los autores reciban remuneración correspondiente.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Secretaría de Educación Pública del Estado, y del Consejo Estatal para la Cultura y las Artes, poner en práctica las políticas y estrategias que se establezcan en el Programa Estatal para el Fomento de la Lectura y el Libro; así como impulsar la creación, edición, producción, difusión, venta y exportación del libro mexicano e hidalguense.
+Corresponde a la Secretaría de Cultura, poner en práctica las políticas y estrategias que se establezcan en el Programa Estatal para el Fomento de la Lectura y el Libro; así como impulsar la creación, edición, producción, difusión, venta y exportación del libro mexicano e hidalguense.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 11.
 
-La Secretaría de Educación Pública del Estado y el Consejo Estatal para la Cultura y las Artes, de manera enunciativa, más no limitativa, establecerán todas las medidas a su alcance para generar el acrecentamiento del hábito de la lectura, promoviendo la creación de acervos familiares de literatura; la venta de libros a bajo costo en ferias regionales; en coordinación con las instancias locales o federales correspondientes, y el seguimiento de las estrategias para estas acciones.
+La Secretaría de Cultura en coordinación con la Secretaría de Educación Pública del Estado establecerán todas las medidas a su alcance para generar el acrecentamiento del hábito de la lectura y el fomento editorial.
 
 ### Capítulo III. Del Consejo Estatal para el Fomento de la Lectura y el Libro
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 12.
 
-Se crea el Consejo Estatal para el Fomento de la Lectura y el Libro, con carácter de órgano consultivo de la Secretaría de Educación Pública del Estado; que tiene por objeto fomentar las actividades y trabajos relacionados a crear una cultura de estímulo a la lectura y el libro, así como facilitar el acceso al libro.
+Se crea el Consejo Estatal para el Fomento de la Lectura y el Libro con carácter de órgano consultivo de la Secretaría de Cultura; que tiene por objeto fomentar las actividades y trabajos relacionados a crear una cultura de estímulo a la lectura y el libro, así como facilitar el acceso al libro.
 
 ###### Artículo 13.
 
 El Consejo Estatal para el Fomento de la Lectura y el Libro, estará integrado por:
 
-I.- Un Presidente, que será el Titular de la Secretaría de Educación Pública del Estado;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-II.- Un Vicepresidente, que será el Director del Consejo Estatal para la Cultura y las Artes;
+I.- Un Presidente, que será el Titular de la Secretaría de Cultura;
 
-III.- Un Secretario Ejecutivo, que será el Director General de Educación Básica de la Secretaría de Educación Pública del Estado y;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-IV.- Hasta quince vocales, que serán el titular o un representante de:
+II.- Un Vicepresidente, que será el Titular de la Secretaría de Educación Pública;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+III.- Un Secretario Ejecutivo, que será el Titular de la Dirección General de Bibliotecas y Fomento Editorial; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+IV.- Como vocales que serán el titular o un representante de:
 
 a).- La Comisión de Cultura del Congreso del Estado;
 
-b).- La Universidad Autónoma del Estado de Hidalgo;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+b).- Hasta tres representantes de instituciones de educación superior que deberán ser elegidos cada año por el Presidente del Consejo;
 
 c).- La comunidad indígena por cada etnia en la Entidad;
 
@@ -293,29 +313,25 @@ d).- Una persona del ámbito académico de reconocido prestigio y experiencia en
 
 e).- El Director General de Bibliotecas en el Estado;
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-f).- Un titular del departamento de Cultura de un gobierno municipal, que deberá ser elegido cada año por el Presidente del Consejo, de entre los Municipios del Estado;
+f).- Hasta tres titulares del área de Cultura de gobiernos municipales, que deberán ser elegidos cada año por el Presidente del Consejo, de entre los Municipios del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+g).- (DEROGADO, P.O. 26 DE OCTUBRE DE 2020)
 
-g).- Un autor hidalguense que cuente con obra publicada dentro de los tres años anteriores a su integración al Consejo;
+h).- (DEROGADO, P.O. 26 DE OCTUBRE DE 2020)
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+i).- (DEROGADO, P.O. 26 DE OCTUBRE DE 2020)
 
-h).- Un editor cuyo acervo se haya editado o distribuido en Hidalgo, dentro de los tres años anteriores a su integración al Consejo;
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
-
-i).- Un librero en funciones, que cuente por lo menos una librería en el Estado de Hidalgo; y
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
-
-j).- Un promotor de salas de lectura en funciones.
+j).- (DEROGADO, P.O. 26 DE OCTUBRE DE 2020)
 
 Los cargos de dicho Consejo son honoríficos, es decir, quienes los ejercen no perciben remuneración alguna por desempeñarlos.
 
 Para el caso de los funcionarios incorporados, esta actividad se encuentra dentro de las obligaciones de su encargo.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+El Consejo podrá determinar invitar a sus sesiones a instancias o especialistas sobre temas específicos.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -333,27 +349,41 @@ III.- Promover la formación y actualización de profesionales en el fomento y p
 
 IV.- Apoyar la concertación de los intereses y esfuerzos del sector público con el sector privado, para el desarrollo sostenido y democrático de la industria del libro;
 
-V.- Promover el desarrollo de sistema integrales (sic) de información sobre el libro, su distribución, la lectura y los derechos de autor, así como crear una base de datos que contemple: catálogos y directorios colectivos de autores, obras, editoriales, industria gráfica, bibliotecas y librerías en el Estado;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-VI.- Apoyar acciones que favorezcan a los discapacitados dentro de las bibliotecas, mediante técnicas como la audición de texto y lectura braille.
+V.- Promover el desarrollo de sistema (sic) integrales de información sobre el libro, su distribución, la lectura y los derechos de autor, así como crear una base de datos que contemple: catálogos y directorios colectivos de autores, obras, editoriales, industria gráfica, bibliotecas y librerías en el Estado, para consulta en redes desde cualquier lugar;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI.- Apoyar acciones que favorezcan a las personas con discapacidad dentro de las bibliotecas, mediante técnicas como audiolibros, textos en sistema braille y lengua de señas mexicana;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
 VII.- Intervenir como instancia de consulta y conciliación, en todos los asuntos concernientes al seguimiento, evaluación y actualización de la política integral de la lectura y el libro;
 
-VIII.- Fomentar a los creadores literarios locales y regionales.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+VIII.- Fomentar la creación literaria en el estado y procurar estímulos a los escritores;
 
-IX.- Crear y mantener actualizado el Catálogo de libros de interés patrimonial par (sic) el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+IX.- Verificar la actualización del Catálogo de libros de interés patrimonial para el Estado de Hidalgo;
 
-X.- Asegurar, a través de la requisición de depósito legal, la edición con sus propios recursos, o la compra de ejemplares, que por lo menos 5 ejemplares de por lo menos la mitad de los títulos inscritos en I (sic) Catálogo de libros de interés patrimonial para el Estado de Hidalgo se encuentran en todo momento a disposición de los hidalguenses, en las diferentes lenguas reconocidas en la Ley de Derechos lingüísticos del Estado de Hidalgo, a través de los sistemas de bibliotecas públicas; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+X.- Asegurar, a través de la requisición de depósito legal, la edición con sus propios recursos, o la compra de ejemplares de títulos inscritos en el Catálogo de Libros (sic) Interés Patrimonial para el Estado de Hidalgo, de acuerdo a la asignación presupuestal;
 
-XI.- Garantizar que las obras se editen, por motivo de su inclusión en el Catálogo de libros de interés patrimonial para el Estado de Hidalgo, cuenten con los permisos necesarios que señala la Ley Federal del Derecho de Autor.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XI.- Promover la edición de las obras incluidas en el Catálogo de libros de interés patrimonial para el Estado de Hidalgo, previos los permisos necesarios que señala la Ley Federal del Derecho de Autor;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XII.- Ser responsable de la organización de la Feria Estatal del Libro, misma que tendrá como sede la capital del Estado, pudiéndose extender hacia otros puntos de la entidad; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XIII.- Organizar y otorgar anualmente el Premio Estatal al Fomento a la Lectura y Escritura.
 
 ###### Artículo 15.
 
@@ -367,11 +397,15 @@ El Consejo Estatal para el Fomento de la Lectura y el Libro se regirá, además 
 
 ### Capítulo IV. De la Disponibilidad y Acceso Equitativo al Libro
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 17.
 
-En todo libro editado en Hidalgo, deberán constar los siguientes datos: título de la obra, nombre del autor, editor, número de la edición, lugar y fecha de la impresión, nombre y domicilio del editor en su caso; ISBN y código de barras. El libro que no reúna estas características no gozará de los beneficios fiscales y de otro tipo que otorguen las disposiciones jurídicas en la materia.
+En todo libro editado en Hidalgo, deberán constar los siguientes datos: título de la obra, nombre del autor, número de la edición, lugar y fecha de la impresión, nombre y domicilio del editor en su caso; ISBN y código de barras. El libro que no reúna estas características no gozará de los beneficios fiscales y de otro tipo que otorguen las disposiciones jurídicas en la materia.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 17 Bis.
 
 La Secretaría de Cultura fomentará la edición, producción y difusión de libros y materiales accesibles para personas con discapacidad.
 
@@ -379,59 +413,91 @@ La Secretaría de Cultura fomentará la edición, producción y difusión de lib
 
 Toda persona física o moral que edite o importe libros estará obligada a fijar un precio de venta al público para los libros que edite o importe.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 18 Bis.
+
+La Secretaría de Cultura fomentará la edición, producción y difusión de libros en lenguas originarias, ya sean monolingües o bilingües.
+
 ###### Artículo 19.
 
 Todo libro editado en el Estado, se registrará en base de datos a cargo del Consejo Estatal para el Fomento de la Lectura y el Libro estará disponible para consulta pública.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-Los editores y productores de materiales bibliográficos y documentales que produzcan su material en Hidalgo, tienen la obligación de entregar como depósito legal tres ejempares (sic) de sus obras a la Red Estatal de Bibliotecas Públicas y tres a la Biblioteca del Congreso del Estado Libre y Soberano de Hidalgo.
+Los editores y productores de materiales bibliográficos y documentales que produzcan su material en Hidalgo, tienen la obligación de entregar como depósito legal, tres ejemplares de sus obras al Fondo del Estado de Hidalgo de la Biblioteca Central del Estado, Ricardo Garibay.
 
 ###### Artículo 20.
 
 Las acciones para detener y reparar las violaciones al precio, edición, impresión, distribución y venta de libros, pueden ser emprendidas por cualquier competidor, por profesionales de la edición y difusión del libro, así como por autores o por cualquier organización de defensa de autores. Dicha defensa se llevará a cabo por vía jurisdiccional y en su caso por medio de arbitraje para lo cual el consejo podrá actuar como perito.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-En lo no previsto por esta Ley se aplicará, supletoriamente, la Ley de Educación para el Estado de Hidalgo.
+En lo no previsto por esta Ley se aplicará, supletoriamente, la Ley de Derechos Culturales del Estado de Hidalgo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-### Capítulo V. De las Bibliotecas
+### Capítulo V. De las Bibliotecas Públicas
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 22.
 
-En toda unidad territorial municipal o su equivalente, deberá existir al menos una biblioteca pública.
+Compete a la Secretaría de Cultura en coordinación con los Ayuntamientos lo relacionado al establecimiento y operación de bibliotecas públicas en la entidad.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 23.
 
-La biblioteca pública garantizará el acceso amplio y gratuito a la lectura, en todas sus formas y tecnologías, y en las diversas lenguas de la nación, a toda la población, en particular a la que haga parte de grupos que, por razones culturales, económicas, sociales o de discapacidad, hayan sufrido alguna forma de exclusión o discriminación. Igualmente, debe servir de lugar de encuentro de la comunidad, de espacio para la promoción de la cultura en todas sus formas, y de entidad promotora de la conservación y divulgación del patrimonio cultural local.
+En toda unidad territorial municipal o su equivalente, deberá existir al menos una biblioteca pública.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
-
-La Secretaría de Cultura deberá de adecuar progresivamente las instalaciones, los acervos y materiales para garantizar a las personas con discapacidad, la accesibilidad y uso de las bibliotecas, salas de lectura y servicios de información, y las demás que sea (sic) análogas a las anteriores que le permitan garantizar el uso y disfrute universal de las bibliotecas públicas.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 24.
 
-Las bibliotecas públicas del Estado, deberán actualizar permanentemente sus colecciones, para que respondan en forma adecuada a las necesidades de los usuarios, a los rasgos culturales y sociales de las comunidades y al desarrollo del conocimiento y las ciencias.
+La biblioteca pública garantizará el acceso amplio y gratuito a la lectura, en todas sus formas y tecnología, y en las diversas lenguas originarias del Estado, a toda la población, en particular a la que haga parte de grupos que, por razones culturales, económicas, sociales o de discapacidad, hayan sufrido alguna forma de exclusión o discriminación. Igualmente, debe servir de lugar de encuentro de la comunidad, de espacio para la promoción de la cultura en todas sus formas, y de entidad promotora de la conservación y divulgación del patrimonio cultural local.
 
-De igual forma, deberán incorporar el uso de las tecnologías de la información en materia de acerbo y colecciones, cuando la disponibilidad presupestaria (sic) así lo permita.
+La Secretaría de Cultura en coordinación con los Ayuntamientos deberán adecuar progresivamente las instalaciones, los acervos y materiales para garantizar a las personas con discapacidad, la accesibilidad y uso de las bibliotecas y servicios de información.
+
+Las bibliotecas públicas, cuando la disponibilidad presupuestaria así lo permita, deberán brindar los siguientes servicios básicos:
+
+I.- Deberán actualizar permanentemente sus colecciones, para que respondan en forma adecuada a las necesidades de los usuarios, a los rasgos culturales y sociales de las comunidades y al desarrollo del conocimiento y las ciencias.
+
+II.- Consulta en la sala de las publicaciones que integran el acervo.
+
+III.- Préstamo individual y colectivo.
+
+IV.- Información y orientación para el uso de la biblioteca y la satisfacción de las necesidades informativas de los visitantes.
+
+V.- Acceso a computadoras para fines académicos, culturales o de investigación.
+
+VI.- Acceso a información digital a través de internet o las redes análogas que se puedan desarrollar, así como la formación para su mejor manejo.
+
+VII.- Contar con la biblioteca digital a efecto de facilitar el acceso remoto a los usuarios.
+
+VIII.- Actividades interactivas periódicas permanentes de tipo cultural o de promoción intelectual, tales como talleres, seminarios, simposios, conferencias, foros, exposiciones, presentaciones de libros, visitas guiadas, círculos de estudio, organización de ferias o festivales en las que se propicie la libre manifestación y el intercambio de ideas.
+
+IX.- Ludoteca.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 24 Bis.
+
+Las bibliotecas públicas del estado, deberán fortalecer permanentemente sus colecciones, para que respondan en forma adecuada a las necesidades de los usuarios, a los rasgos culturales y sociales de las comunidades y al desarrollo del conocimiento y las ciencias.
+
+De igual forma, deberán incorporar el uso de las tecnologías de la información en materia de acervo y colecciones, cuando la disponibilidad presupuestaria así lo permita.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ### Capítulo VI. De las Bibliotecas Escolares
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 25.
 
-Todas las instituciones educativas, para el cumplimiento de su objetivo, tendrán una biblioteca escolar, la cual contará con un responsable que gestione su funcionamiento, para garantizar un servicio eficaz y permanente durante todo el ciclo escolar.
+Corresponde a la Secretaría de Educación Pública que todas las instituciones educativas, para el cumplimiento de su objetivo, tendrán una biblioteca escolar, la cual contará con un responsable que gestione su funcionamiento, para garantizar un servicio eficaz y permanente durante todo el ciclo escolar.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -453,11 +519,11 @@ Las bibliotecas escolares y las bibliotecas de aula que se establezcan, deberán
 
 El Estado promoverá la formación de los bibliotecarios escolares y expedirá las normas que garanticen la estabilidad laboral del personal calificado.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 29.
 
-Cada centro aprobará su plan de lectura y de servicios bibliotecarios cuya gestión será desarrollada por el responsable de la biblioteca escolar, quien rendirá cuenta de los resultados al finalizar cada curso académico. En la configuración del plan de lectura participarán, bajo la coordinación del responsable de la biblioteca, representantes del profesorado y de los alumnos.
+Cada centro aprobará su plan de lectura y de servicios bibliotecarios cuya gestión será desarrollada por el responsable de la biblioteca escolar. En la ejecución del plan de lectura participarán, bajo la coordinación del responsable de la biblioteca, los colectivos docentes, alumnos y padres de familia.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -506,3 +572,9 @@ P.O. 26 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 191 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 526 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
