@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2018-01-08"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -945,9 +945,9 @@ VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
 VIII.- En los actos de jurisdicción voluntaria el del domicilio del que promueve, pero si se trata de bienes raíces será el del lugar en que estén ubicados.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-En todo lo relativo a la adopción, el juez del domicilio de la niña, niño y adolescente que se pretende adoptar o el de la Institución que lo tiene acogido.
+En todo lo relativo a la adopción, el juez del domicilio de la niña, niño y adolescente que se pretende adoptar o el de la Institución que lo tiene acogido. Para los casos de adopción tramitados por el Sistema para el Desarrollo Integral de la Familia del Estado a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León y en base al interés superior de la niñez, podrán ser tramitados en cualquier distrito judicial del Estado independientemente del domicilio donde habite éste.
 
 > <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -1601,7 +1601,9 @@ Artículo 180 Bis VI.- Toda persona que ejerza la patria potestad, la tutela o t
 
 El domicilio en que se depositará al menor, presunto agredido, debe estar dentro de la jurisdicción del juez que conoce de la solicitud y será diverso al del presunto agresor.
 
-Con la solicitud de separación del menor, el juez deberá actuar de inmediato y ordenar sin dilación alguna, la práctica de diligencias que permitan determinar la existencia o no del maltrato del menor, así como también deberá evaluarse al solicitante del acto prejudicial, a fin de evitar abusos y poner en riesgo la seguridad del menor, evaluaciones que estarán a cargo de la Procuraduría de la Defensa del Menor y la Familia.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Con la solicitud de separación del menor, el juez deberá actuar de inmediato y ordenar sin dilación alguna, la práctica de diligencias que permitan determinar la existencia o no del maltrato del menor, así como también deberá evaluarse al solicitante del acto prejudicial, a fin de evitar abusos y poner en riesgo la seguridad del menor, evaluaciones que estarán a cargo de la Procuraduría de Protección de Niños, Niñas y Adolescentes.
 
 Una vez realizadas estas diligencias, el juez, sin más trámites, resolverá sobre la solicitud y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias del caso.
 
@@ -9944,3 +9946,11 @@ En caso de que los recursos aportados al fondo no sean suficientes para garantiz
 Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
 El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 356. SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
