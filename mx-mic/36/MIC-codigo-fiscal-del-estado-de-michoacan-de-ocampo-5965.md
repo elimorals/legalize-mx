@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2018-12-31"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -1747,17 +1747,21 @@ Los Servidores Públicos que en ejercicio de sus funciones conozcan de hechos u 
 
 Cuando por un acto o una omisión se infrinjan diversas disposiciones a las que correspondan varias sanciones, sólo se aplicará la que corresponda a la infracción cuya sanción sea mayor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### ARTICULO 56.
 
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales, o cuando se haya incurrido en infracción por causa de fuerza mayor o caso fortuito. Se considera que el cumplimiento no es espontáneo en el caso de que:
+No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales, o cuando se haya incurrido en infracción por causa de fuerza mayor o caso fortuito. Se considera que el cumplimiento no es espontáneo en el caso de que:
 
 I. La omisión sea descubierta por las autoridades fiscales;
 
 II. La omisión haya sido corregida por el contribuyente después de que haya mediado requerimiento o cualquier otra gestión notificada por las autoridades fiscales, tendientes a la comprobación del cumplimiento de disposiciones fiscales; y
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+III. (DEROGADA, P.O. 26 DE OCTUBRE DE 2020)
 
-III. Haya transcurrido el plazo que se establezca para la prestación de los servicios de control vehicular a que se refiere la Ley.
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Para la notificación del vencimiento de los plazos de pago, la Secretaría podrá celebrar convenios de colaboración administrativa con los Ayuntamientos del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3482,3 +3486,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 117.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 5° PÁRRAFO TERCERO, 19 PÁRRAFO SEGUNDO Y FRACCIÓN IV, 19-A PÁRRAFO SEGUNDO, 34 PÁRRAFOS PRIMERO Y ÚLTIMO, 59 FRACCIÓN III, 63 FRACCIONES IV Y V, 64 FRACCIÓN II, 69 FRACCIONES IV Y V, 70 FRACCIÓN II, 71 FRACCIÓN IX Y 101 FRACCIÓN I; SE ADICIONAN UN CUARTO PÁRRAFO AL ARTÍCULO 5°, UN DÉCIMO PRIMER PÁRRAFO AL ARTÍCULO 20, UNA FRACCIÓN VI AL ARTÍCULO 63 Y AL ARTÍCULO 69 UNA FRACCIÓN VI; Y, SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 26, DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 356.- ARTÍCULO PRIMERO. SE REFORMA EL ARTÍCULO 56 PÁRRAFO PRIMERO, SE ADICIONA UN ÚLTIMO PÁRRAFO Y SE DEROGA LA FRACCIÓN III DEL PROPIO ARTÍCULO 56, DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO. SE REFORMA EL ARTÍCULO 58 PÁRRAFO PRIMERO Y SE DEROGA LA FRACCIÓN III DEL PROPIO ARTÍCULO 58, DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Finanzas y Administración del Gobierno del Estado y las autoridades fiscales municipales que correspondan; deberán realizar las adecuaciones necesarias en sus sistemas de recaudación de las contribuciones para efectos de cumplimiento del presente Decreto.
