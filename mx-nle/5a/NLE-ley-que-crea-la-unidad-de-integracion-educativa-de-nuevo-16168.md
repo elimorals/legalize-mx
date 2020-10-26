@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-unidad-de-integracion-educativa-de-nuevo-16168"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-03"
-last_updated: "2010-12-24"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIDAD DE INTEGRACION EDUCATIVA DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de junio de 1992.
 
@@ -105,9 +105,11 @@ VIII.- Establecer los objetivos de acuerdo a las políticas de desarrollo del Go
 
 IX.- Revisar y en su caso aprobar, el resultado de los balances que presente el Director.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### ARTICULO DECIMO
 
-- La Junta de Gobierno sesionará por lo menos una vez cada sesenta días y en forma extraordinaria, cuantas veces sea convocada por su Presidente o por la mayoría de sus miembros.
+- La Junta de Gobierno sesionará por lo menos dos veces al año y en forma extraordinaria, cuantas veces sea convocada por su Presidente o por la mayoría de sus miembros.
 
 ###### ARTICULO DECIMO PRIMERO
 
@@ -182,3 +184,9 @@ LIC. JORGE MANJARREZ RIVERA
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM.362. SE REFORMA EL ARTÍCULO DÉCIMO DE LA LEY QUE CREA LA UNIDAD DE INTEGRACIÓN EDUCATIVA DE NUEVO LEÓN”.]
+
+ÚNICO. - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
