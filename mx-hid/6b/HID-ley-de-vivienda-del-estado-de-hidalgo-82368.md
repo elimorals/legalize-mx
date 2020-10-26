@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2016-12-31"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -77,11 +77,11 @@ XI. Obtener y administrar toda la información relacionada con suelo habitaciona
 
 XII. Destinar recursos económicos a la investigación tecnológica, a la innovación y a la promoción de sistemas constructivos socialmente apropiados, con el concurso de las instancias u órganos competentes.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 2.
 
-Todos los hidalguenses tienen derecho a una vivienda digna y decorosa, entendida esta como aquella que cumple con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión y contemple criterios de calidad en sus materiales y en su construcción para la prevención de desastres naturales y la protección física y seguridad de sus ocupantes, que sea la base de su patrimonio familiar, así como el lugar seguro en el que disfruten de su intimidad y que cuente con las condiciones y servicios necesarios para lograr este derecho humano fundamental.
+Todos los hidalguenses tienen derecho a una vivienda digna y decorosa, entendida esta como aquella que cumple con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción y salubridad; que cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión y contemple criterios de calidad en sus materiales y en su construcción para la prevención de desastres naturales y la protección física y seguridad de sus ocupantes, que sea la base de su patrimonio familiar, así como el lugar seguro en el que disfruten de su intimidad y que cuente con las condiciones y servicios necesarios para lograr este derecho humano fundamental.
 
 ###### Artículo 3.
 
@@ -98,6 +98,14 @@ IV. Autogestión: Capacidad que permite a un individuo o a un grupo de individuo
 V. Comisión: Comisión Estatal de Vivienda;
 
 VI. Consejo: Consejo Estatal de Vivienda;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI Bis. Espacios Auxiliares: el lugar de la vivienda donde se desarrollan actividades de trabajo, higiene y circulación.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+VI Ter. Espacios Habitables: el lugar de la vivienda donde se desarrollan actividades de reunión o descanso, que cuenten con las dimensiones mínimas de superficie, altura, ventilación e iluminación natural, además de contar como mínimo con un baño, cocina, estancia-comedor y dos recamaras, de conformidad con las características y condiciones mínimas necesarias que establezcan las leyes y las normas oficiales mexicanas;
 
 VII. Estímulos: Las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas de suelo habitacional y de vivienda popular, económica y de interés social;
 
@@ -136,6 +144,8 @@ XX. Vivienda Económica: Aquélla cuyo valor al término de su edificación, se 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XXI. Vivienda Popular: Aquélla cuyo valor al término de su edificación, no exceda del total que resulte de multiplicar por cinco veces la Unidad de Medida y Actualización por 365 días;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE OCTUBRE DE 2020)</small>
 
 XXII. Vivienda Progresiva: Aquélla que se construye en etapas de acuerdo a los recursos del beneficiario;
 
@@ -185,9 +195,17 @@ XI. Promover medidas de mejora regulatoria, encaminadas a fortalecer la polític
 
 XII. Propiciar que las acciones de vivienda sean un factor de sustentabilidad ambiental, de ordenamiento territorial y desarrollo urbano;
 
-XIII. Identificar, alentar y apoyar las acciones habitacionales y la producción social de vivienda; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-XIV. Establecer en materia de vivienda las condiciones que garanticen esquemas seguros en desarrollos habitacionales, buscando la atenuación y amortiguamiento de riesgos tanto naturales como antropogénicos, así como mitigar la vulnerabilidad de personas y bienes sujetos a la (sic) disposiciones legales aplicables.
+XII (SIC). Identificar, alentar y apoyar las acciones habitacionales y la producción social de vivienda;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XIII. Establecer en materia de vivienda las condiciones que garanticen esquemas seguros en desarrollos habitacionales, buscando la atenuación y amortiguamiento de riesgos tanto naturales como antropogénicos, así como mitigar la vulnerabilidad de personas y bienes sujetos a las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XIV. Fomentar la calidad de la vivienda y fijar los criterios mínimos de los espacios habitables y auxiliares.
 
 La política estatal y municipal en materia de vivienda mantendrá congruencia con la política nacional.
 
@@ -733,11 +751,15 @@ El Estado y los Municipios en el ámbito de sus respectivas competencias, para e
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 52.
 
-El Estado y los Municipios a través de las dependencias u organismos correspondientes, impulsarán el desarrollo de las acciones de vivienda en sus distintas modalidades y en la utilización de recursos y servicios asociados, la misma deberán contar con los espacios habitables y de higiene suficientes en función al número de usuarios, factibilidad de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica, que contribuyan a disminuir las causas de enfermedad.
+El Estado y los Municipios a través de las dependencias u organismos correspondientes, impulsarán el desarrollo de las acciones de vivienda en sus distintas modalidades y en la utilización de recursos y servicios asociados, la misma deberán contar con los espacios habitables, espacios auxiliares y de higiene suficientes en función al número de usuarios, factibilidad de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica, que contribuyan a disminuir las causas de enfermedad.
 
 Así como avalar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados, con objeto de brindar una mejor calidad de vida a los ocupantes de las viviendas.
+
+Asimismo, promoverán el uso de energías renovables mediante las nuevas ecotecnologías aplicables a la vivienda, de acuerdo a las regiones bioclimáticas del Estado, utilizando equipos y sistemas normalizados en cualquiera de sus modalidades.
 
 ###### Artículo 53.
 
@@ -1020,3 +1042,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 527 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
