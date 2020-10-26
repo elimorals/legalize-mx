@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2020-10-02"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -885,15 +885,15 @@ II.- Si la madre manifiesta que no vive con su marido, en los trescientos días 
 
 El marido podrá reclamar judicialmente la paternidad constituida en los términos anteriores y deberá probarla a través de cualquiera de los medios de prueba autorizados por la ley. El plazo para hacer valer esta acción será de un año contado a partir de la inscripción del nacimiento de la hija o hijo ante el Oficial del Registro Civil, si está presente; desde el día en que llegó al lugar, si estuvo ausente; desde el día en que descubrió el hecho, si no sabía del nacimiento.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Art. 65.
 
-Toda persona que encontrare un menor abandonado, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo ante la Procuraduría de la Defensa del Menor y la Familia o ante el Ministerio Público, con los vestidos, papeles u otros objetos encontrados con él, declarando el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que hayan concurrido. La Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso, solicitará al Oficial del Registro Civil que levante el acta de nacimiento y, la primera, dará aviso al Ministerio Público poniendo al menor bajo la custodia de la Institución pública o privada correspondiente.
+Toda persona que encontrare un menor de edad abandonado, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León o ante el Ministerio Público, con los vestidos, papeles u otros objetos encontrados con él, declarando el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que hayan concurrido. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, en su caso, solicitará al Oficial del Registro Civil que levante el acta de nacimiento y, la primera, dará aviso al Ministerio Público poniendo al menor bajo la custodia de la Institución pública o privada correspondiente.
 
-Menor abandonado es aquél cuyos progenitores o encargados de ejercer sobre él la custodia, patria potestad o tutela, sin causa justificada desatiendan o incumplan las obligaciones a las que están compelidos por disposición de Ley, aún cuando esta circunstancia no represente un riesgo para el menor, sin importar el lugar donde ocurra.
+Menor de edad abandonado es aquél cuyos progenitores o encargados de ejercer sobre él la custodia, patria potestad o tutela, sin causa justificada desatiendan o incumplan las obligaciones a las que están compelidos por disposición de Ley, aun cuando esta circunstancia no represente un riesgo para el menor, sin importar el lugar donde ocurra.
 
-Expósito es el menor abandonado dentro de los primeros siete años de vida en cualquier lugar y de quien se desconoce su identidad y la de sus progenitores.
+Expósito es el menor de edad abandonado en cualquier lugar y de quien se desconoce su identidad y la de sus progenitores.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -907,11 +907,11 @@ La misma obligación tienen los jefes, directores o administradores de las prisi
 
 En las actas que se levanten en tales casos, se expresarán las circunstancias que señala el artículo 65, la edad aparente de la niña o niño, su sexo, el nombre y apellido que se le ponga y el nombre de la persona o institución que se encargue de él.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Art. 68.
 
-Si con el expósito o menor abandonado se hubieren encontrado papeles u objetos que puedan conducir a la identificación de aquél, la Procuraduría de la Defensa del Menor y la Familia ordenará sea confiado al Ministerio Público respectivo, quien lo hará constar en el acta circunstanciada correspondiente, de la cual entregará copia a quien recoja al menor.
+Si con el expósito o menor de edad abandonado se hubieren encontrado papeles u objetos que puedan conducir a la identificación de aquél, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León ordenará sea confiado al Ministerio Público respectivo, quien lo hará constar en el acta circunstanciada correspondiente, de la cual entregará copia a quien recoja al menor.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -919,7 +919,9 @@ Si con el expósito o menor abandonado se hubieren encontrado papeles u objetos 
 
 Se prohíbe al Oficial del Registro Civil y a los testigos que conforme al artículo 59 deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten a la niña o niño y los testigos.
 
-Cuando el Oficial del Registro Civil sospeche que quien o quienes presenten a la niña o niño o atestigüe falsamente, enviará las constancias al Ministerio Público, para los fines a que haya lugar y dará aviso a la Procuraduría de la Defensa del Menor y la Familia, suspendiéndose el trámite hasta en tanto se resuelva.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Cuando el Oficial del Registro Civil sospeche que quien o quienes presenten al menor de edad, atestigüe falsamente, enviará las constancias al Ministerio Público, para los fines a que haya lugar y avisará a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, suspendiendo el trámite hasta en tanto se resuelva.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -3361,7 +3363,9 @@ III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste 
 
 IV.- Si el menor que se va a adoptar ha cumplido doce años, también se requerirá su consentimiento para la adopción. Si es menor de esa edad, deberán ser tomados en cuenta sus deseos y opiniones según su madurez.
 
-El consentimiento para la adopción puede ser expresado ante el Titular de la Procuraduría de la Defensa del Menor y la Familia del Estado, por las madres y padres biológicos, o quienes ejerzan la patria potestad sobre el presunto adoptado, debidamente identificados, quienes además presentarán el certificado de nacido vivo o certificación del acta de nacimiento del menor.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+El consentimiento para la adopción puede ser expresado ante el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, por las madres y padres biológicos, o quienes ejerzan la patria potestad sobre el presunto adoptado, debidamente identificados, quienes además presentarán el certificado de nacido vivo o certificación del acta de nacimiento del menor.
 
 El titular de la dependencia citada en el párrafo anterior, deberá instruir suficientemente a quienes otorguen el consentimiento ante él, así como informarle sobre los efectos de la adoción (sic) y constatar que el consentimiento es dado libremente, sin remuneración alguna y después del nacimiento del menor, y que éste no se ha revocado. Respecto del menor, éste será instruido e informado sobre los efectos de la adopción, y se tomarán en cuenta sus deseos y opiniones de acuerdo con la edad y el grado de madurez que tenga.
 
@@ -3567,9 +3571,9 @@ En los términos de este Capítulo, el padre y la madre son los titulares de la 
 
 Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-Tratándose de niñas, niños o adolescentes que se encuentren a disposición de la Procuraduría de la Defensa del Menor y la Familia, y que después de treinta días no haya sido posible reincorporarlos con sus padres, los abuelos podrán ejercer los derechos y obligaciones derivados de la patria potestad, quienes serán sujetos a evaluaciones psicológicas y sociales; en caso contrario se les llamará mediante edicto que será publicado por única ocasión en el Diario Oficial de la Federación así como en el Periódico Oficial del Estado, a fin de que comparezcan en el improrrogable término de diez días naturales, contados a partir de la publicación. Transcurrido dicho término sin que hubieran comparecido a ejercitar su derecho, se entenderá su falta de interés manifiesta y por ende los abuelos no serán considerados para el procedimiento judicial de perdida de patria potestad.
+Tratándose de niñas, niños o adolescentes que se encuentren a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, y que después de treinta días no haya sido posible reincorporarlos con sus padres, los abuelos podrán ejercer los derechos y obligaciones derivados de la patria potestad, quienes serán sujetos a evaluaciones psicológicas y sociales; en caso contrario se les llamará mediante edicto que será publicado por única ocasión en el Periódico Oficial del Estado, a fin de que comparezcan en el improrrogable término de diez días naturales, contados a partir de la publicación. Transcurrido dicho término sin que hubieran comparecido a ejercitar su derecho, se entenderá su falta de interés manifiesta y por ende los abuelos no serán considerados para el procedimiento judicial de perdida de patria potestad.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3635,27 +3639,37 @@ Se entiende por Familia de Acogida: Aquélla que cuente con la certificación de
 
 El Sistema para el Desarrollo Integral de la Familia, orientará, asistirá y aprobará a las personas que deseen asumir la calidad de familia de acogida, de conformidad con los tratados internacionales, las leyes generales y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Art. 417 Bis 3.
 
-La Procuraduría de la Defensa del Menor y la Familia, podrá determinar la incorporación de una niña, niño o adolescente a una familia de acogida, en los casos siguientes:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, podrá determinar la incorporación de una niña, niño o adolescente a una familia de acogida, en los casos siguientes:
 
-I. Cuando quienes ejerzan la patria potestad consientan expresamente mediante convenio celebrado con la Procuraduría de la Defensa del Menor y la Familia que deberá presentarse al Juez competente;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+I. Cuando quienes ejerzan la patria potestad consientan expresamente mediante convenio celebrado con la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, que deberá presentarse al Juez competente;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2015)</small>
 
 II. En casos urgentes, dando aviso inmediato al Juez competente; o
 
-III. Cuando conforme al dictamen del equipo multidisciplinario de la Procuraduría de la Defensa del Menor y la Familia, la incorporación a una familia de acogida resulta benéfico para la niña, niño o adolescente, atendiendo al interés superior del niño y para evitar la institucionalización prolongada, dando aviso inmediato al Juez competente.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-En todos estos casos el Juez emitirá la resolución correspondiente para la integración de la niña, niño o adolescente a una familia de acogida o de aquella que en forma sucesiva se tengan que incorporar con base en el interés superior del menor de presentarse alguna de las causas de revocación o terminación que contemplan este Capítulo.
+III. Cuando conforme al dictamen del equipo multidisciplinario de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, la incorporación a una familia de acogida resulta benéfico para la niña, niño o adolescente, atendiendo al interés superior del menor y para evitar la institucionalización prolongada, dando aviso inmediato al Juez competente.
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
 
-###### Art. 417 Bis 4.
+En todos estos casos el Juez emitirá la resolución correspondiente para la integración de la niña, niño o adolescente a una familia de acogida o de aquella que en forma sucesiva se tengan que incorporar con base en el interés superior del menor de presentarse alguna de las causas de revocación o terminación que contemplan este Capítulo.
 
-El Juez competente aprobará la incorporación de la niña, el niño o adolescente a una familia de acogida, a solicitud de la Procuraduría de la Defensa del Menor y la Familia en vía de jurisdicción voluntaria o como medida cautelar a petición del Ministerio Público en juicio contencioso, sin perjuicio de lo que se resuelva en sentencia, previo el cumplimiento de los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Art. 417 bis 4.- El Juez competente aprobará la incorporación de la niña, el niño o adolescente a una familia de acogida, a solicitud de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, en vía de jurisdicción voluntaria o como medida cautelar a petición del Ministerio Público en juicio contencioso, sin perjuicio de lo que se resuelva en sentencia, previo el cumplimiento de los requisitos siguientes:
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2015)</small>
 
 I. El Juez, deberá escuchar a la niña o niño a partir de los seis años, previa evaluación psicológica en la que se determine su desarrollo evolutivo, cognoscitivo y madurez y en todos los casos tratándose de adolescentes; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2015)</small>
 
 II. Se cuente con la opinión del equipo multidisciplinario en relación al origen, la comunidad y las condiciones culturales donde se han desarrollado niñas, niños y adolescentes, así como la idoneidad de la familia cuya declaración de acogida se pretenda.
 
@@ -3693,17 +3707,17 @@ Las obligaciones, facultades y restricciones establecidas para los tutores, se a
 
 Los ascendientes de la niña, niño o adolescente, conservarán todas sus obligaciones, en los términos de este Código.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Art. 417 Bis 10.
 
-En los casos en que se autorice la incorporación de la niña, niño o adolescente a una familia de acogida y durante todo el tiempo que ésta dure, la Procuraduría de la Defensa del Menor y la Familia, deberá dar seguimiento al acogimiento, realizando una visita mensual durante los primeros seis meses, el siguiente semestre se realizaran visitas bimestrales y posterior a ello, visitas trimestrales por lo que resta del acogimiento familiar, cuya duración es indefinida.
+En los casos en que se autorice la incorporación de la niña, niño o adolescente a una familia de acogida y durante todo el tiempo que ésta dure, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, deberá dar seguimiento al acogimiento, realizando una visita mensual durante los primeros seis meses, el siguiente semestre se realizaran visitas bimestrales y posterior a ello, visitas trimestrales por lo que resta del acogimiento familiar, cuya duración es indefinida.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Art. 417 Bis 11.
 
-Cuando la Procuraduría de la Defensa del Menor y la Familia, determine que existe causa grave que ponga en peligro los intereses fundamentales de la niña, niño o adolescente, podrá suspender en forma provisional los efectos de la familia de acogida, determinando el ingreso de la niña, niño o adolescente a otra familia de acogida o a la institución de asistencia pública o privada, atendiendo al interés superior de la niñez, debiendo dar aviso al Ministerio Público a fin de que ejercite la acción correspondiente así como al Juez que autorizó la incorporación a la familia de acogida.
+Cuando la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, determine que existe causa grave que ponga en peligro los intereses fundamentales de la niña, niño o adolescente, podrá suspender en forma provisional los efectos de la familia de acogida, determinando el ingreso de la niña, niño o adolescente a otra familia de acogida o a la institución de asistencia pública o privada, atendiendo al interés superior de la niñez, debiendo dar aviso al Ministerio Público a fin de que ejercite la acción correspondiente así como al Juez que autorizó la incorporación a la familia de acogida.
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
 
@@ -3711,7 +3725,9 @@ Cuando la Procuraduría de la Defensa del Menor y la Familia, determine que exis
 
 Serán causas de terminación de Familia de acogida:
 
-I. Por reintegración familiar, cuando en opinión de la Procuraduría de la Defensa del Menor y la Familia; la familia de origen o extensa ha adquirido las habilidades parentales necesarias;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+I. Por reintegración familiar, cuando en opinión de la Procuraduría de Protección de Niñas, Niños y Adolescentes; la familia de origen o extensa, o persona significativa ha adquirido las habilidades parentales necesarias;
 
 II. Por haber concluido el término fijado en el convenio, cuando se hubiere constituido mediante esa modalidad;
 
@@ -3723,17 +3739,25 @@ V. Por la muerte de ambos miembros de la familia de acogida, o bien de la niña,
 
 En los supuestos establecidos en las fracciones I, II, III y V se deberá dar aviso al Juez.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 ###### Art. 417 Bis 13.
 
-El Juez que autorizó la medida podrá decretar la revocación de la Familia de acogida, a solicitud de la Procuraduría de la Defensa del Menor y la Familia o por el Ministerio Público, cuando se den alguna de las siguientes causas:
+El Juez que autorizó la medida podrá decretar la revocación de la Familia de acogida, a solicitud de la Procuraduría de Protección de Niñas, Niños y Adolescentes o por el Ministerio Público, cuando se den alguna de las siguientes causas:
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2015)</small>
 
 I. A petición de la familia de acogida, o
 
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2015)</small>
+
 II. Cuando existan circunstancias, actos o hechos que afecten el interés superior de la niña, niño o adolescente.
 
-En cualquiera de los supuestos anteriores, la Procuraduría de la Defensa del Menor y la Familia podrá egresar de manera provisional al niño, niña o adolescente de la familia de acogida, encomendándolo preferentemente a otra familia de acogida y de no ser posible esto a una Institución Asistencial para su atención, debiendo dar de manera inmediata aviso al Juez que conoció de las diligencias, para iniciar el trámite de revocación de la familia de acogida.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+En cualquiera de los supuestos anteriores, la Procuraduría de Protección de Niñas, Niños y Adolescentes podrá egresar de manera provisional al niño, niña o adolescente de la familia de acogida, encomendándolo preferentemente a otra familia de acogida y de no ser posible esto a una Institución Asistencial para su atención, debiendo dar de manera inmediata aviso al Juez que conoció de las diligencias, para iniciar el trámite de revocación de la familia de acogida.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
 
 El Juez previa audiencia de los interesados incluyendo a la niña, niño o adolescente según sea el caso y del Ministerio Público, con el correspondiente ofrecimiento y desahogo de pruebas, resolverá lo que fuere más conveniente al bienestar de la a la niña, niño o adolescente en atención al interés superior del menor.
 
@@ -17732,6 +17756,14 @@ P.O. 2 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 358. SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 2326 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 356. SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
 
 ###### ARTICULO TERCERO.
 
