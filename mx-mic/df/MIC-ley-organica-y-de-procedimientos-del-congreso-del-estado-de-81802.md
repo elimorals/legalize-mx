@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2020-07-28"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -3019,6 +3019,10 @@ La exposición de motivos de las iniciativas, deberán ser presentadas ante el P
 
 Tratándose de iniciativas, el articulado de Ley o de Decreto propuesto, se remitirá sin lectura para su estudio, análisis y dictamen a Comisión.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+Las iniciativas de Ley o de Decreto, así como las Propuestas de Acuerdo pueden ser retiradas mediante oficio dirigido al Presidente del Congreso y con la firma autógrafa de su promovente o promoventes, hasta antes de que la comisión o comisiones dictaminadoras presenten su dictamen. Lo cual se informará a la comisión o comisiones correspondientes de inmediato.
+
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 236.
@@ -4172,3 +4176,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en té
 SEGUNDO. Se deroga todo lo que se oponga al presente Decreto. La Auditoría Superior de Michoacán, en un plazo no mayor a treinta días naturales a la publicación del presente Decreto, hará la devolución respectiva de las fianzas o cauciones, en la forma como se hayan presentado, de todos aquellos servidores públicos que acataron lo establecido en su momento en los "LINEAMIENTOS PARA LA TRAMITACIÓN, CONTRATACIÓN, RECEPCIÓN, REGISTRO, OPERACIÓN, APLICACIÓN Y DETERMINACIÓN DE MONTOS DE LAS FIANZAS QUE DEBEN OTORGAR LOS SERVIDORES PÚBLICOS MUNICIPALES Y ESTATALES DEL ESTADO DE MICHOACÁN DE OCAMPO", Publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 13 de mayo de 2020, Séptima Sección.
 
 TERCERO. Las Comisión Inspectora de la Auditoría Superior de Michoacán, en un plazo no mayor a diez días hábiles, posteriores a la publicación del presente Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, solicitará al Auditor Superior, un nuevo proyecto de lineamientos sobre las fianzas o cauciones conforme al presente Decreto, mismo que en caso de ser aprobado será aplicable exclusivamente para los servidores públicos que no hayan exhibido fianza o caución conforme a la normatividad vigente al momento de asumir su encargo.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 360.- SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 235 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
