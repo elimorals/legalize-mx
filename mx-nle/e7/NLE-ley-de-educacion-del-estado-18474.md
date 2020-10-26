@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2020-08-10"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -1157,9 +1157,11 @@ Los candidatos a ingresar como alumnos a las escuelas normales públicas y parti
 
 Las escuelas de educación básica deberán colaborar con las instituciones formadoras de docentes de educación básica -preescolar, primaria y secundaria- en el desarrollo de proyectos educativos que incidan en la formación profesional de los futuros docentes.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 66.
 
-La autoridad educativa estatal prestará los servicios de actualización, capacitación y superación profesional para maestros y maestras del sistema educativo estatal. La asistencia a éstos será de carácter voluntario si es fuera de horario de trabajo y se ajustará a las disposiciones que establece la legislación laboral vigente.
+La autoridad educativa estatal prestará los servicios de actualización, capacitación y superación profesional para maestros y maestras del sistema educativo estatal, así como el fortalecimiento de los conocimientos y capacidades del personal educativo para la efectividad del derecho de todos los educandos a una educación de calidad, con equidad e inclusión. La asistencia a éstos será de carácter voluntario si es fuera de horario de trabajo y se ajustará a las disposiciones que establece la legislación laboral vigente.
 
 ### CAPÍTULO IV. DEL PROCESO EDUCATIVO
 
@@ -1543,9 +1545,9 @@ IV.- Colaborar con las instituciones educativas en las que estén inscritos sus 
 
 V.- Colaborar con el personal docente en el diagnóstico y atención de las dificultades escolares de sus hijas, hijos, pupilas o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física y psicológica;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-VI.- Asegurar que sus hijas, hijos, pupilas o pupilos cumplan con las tareas y compromisos escolares;
+VI.- Asegurar que sus hijas, hijos, pupilas o pupilos cumplan con las tareas y compromisos escolares, así como de las actividades extraescolares que realicen;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -2284,3 +2286,9 @@ P.O. 10 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 282. SE ADICIONA LA FRACCIÓN V BIS DEL ARTÍCULO 3 Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 126 BIS 13, TODOS DE LA LEY DE (SIC) AMBIENTAL DEL ESTADO; ASÍ TAMBIÉN SE REFORMAN LAS FRACCIONES XXI Y XXII, Y POR ADICIÓN DE LA FRACCIÓN XXIII DEL ARTÍCULO 21 TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 361. SE REFORMAN LOS ARTÍCULOS 66, LA FRACCIÓN VI DEL ARTÍCULO 93, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
