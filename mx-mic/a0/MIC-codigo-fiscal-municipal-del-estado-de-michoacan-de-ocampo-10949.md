@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-municipal-del-estado-de-michoacan-de-ocampo-10949
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-25"
-last_updated: "2016-12-29"
+last_updated: "2020-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 25 de agosto de 1997.
 
@@ -753,15 +753,17 @@ Cuando sean varios los responsables, cada uno deberá pagar el total de la multa
 
 Los Servidores Públicos municipales que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales municipales, lo comunicarán a la autoridad fiscal municipal competente para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
+
 ###### ARTICULO 58.
 
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales, o cuando se haya incurrido en infracción por causa de fuerza mayor o caso fortuito. Se considera que el cumplimiento no es espontáneo en el caso de que:
+No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales, o cuando se haya incurrido en infracción por causa de fuerza mayor o caso fortuito. Se considera que el cumplimiento no es espontáneo en el caso de que:
 
 I.- La omisión sea descubierta por las autoridades fiscales municipales;
 
 II.- La omisión haya sido corregida por el contribuyente después de que haya mediado requerimiento o cualquier otra gestión notificada por las autoridades fiscales correspondientes, tendientes a la comprobación del cumplimiento de disposiciones fiscales municipales; y
 
-III.- Se venza el plazo que se establezca en la ley para realizar los pagos del Impuesto Predial y de los derechos por suministro de agua potable, alcantarillado y saneamiento.
+III. (DEROGADA, P.O. 26 DE OCTUBRE DE 2020).
 
 ###### ARTICULO 59.
 
@@ -1990,3 +1992,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 356.- ARTÍCULO PRIMERO. SE REFORMA EL ARTÍCULO 56 PÁRRAFO PRIMERO, SE ADICIONA UN ÚLTIMO PÁRRAFO Y SE DEROGA LA FRACCIÓN III DEL PROPIO ARTÍCULO 56, DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OACAMPO.- ARTÍCULO SEGUNDO. SE REFORMA EL ARTÍCULO 58 PÁRRAFO PRIMERO Y SE DEROGA LA FRACCIÓN III DEL PROPIO ARTÍCULO 58, DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Finanzas y Administración del Gobierno del Estado y las autoridades fiscales municipales que correspondan; deberán realizar las adecuaciones necesarias en sus sistemas de recaudación de las contribuciones para efectos de cumplimiento del presente Decreto.
