@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2020-10-20"
+last_updated: "2020-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -791,7 +793,9 @@ V. Las listas de asistencia y votación de los dictámenes tratados en cada una 
 
 VI. La descripción general de las iniciativas de ley o decreto, quién las presenta, la fecha en que se recibieron, las comisiones a las que se turnaron, y los dictámenes emitidos respecto a las mismas;
 
-VII. Las leyes, decretos y acuerdos aprobados por el Congreso o la Diputación Permanente;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+VII. Leyes, decretos, acuerdos aprobados, puntos de acuerdo presentados y exhortos de las sesiones ordinarias y extraordinarias, tanto del Congreso en Pleno, como por la Diputación Permanente;
 
 VIII. El Diario de Debates y la Gaceta Parlamentaria;
 
@@ -799,25 +803,29 @@ IX. Los montos de: las dietas, las partidas presupuestales y cualquier recurso a
 
 X. Las convocatorias, actas, acuerdos, minutas y listas de asistencia de cada una de las comisiones o comités, así como del Pleno;
 
-XI. A través de la Auditoría Superior del Estado, los informes de resultados;
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
 
-XII. A través de la Auditoría Superior del Estado, la relación de los sujetos obligados respecto al cumplimiento en la presentación y publicación de los informes de avance de gestión financiera trimestrales y de la cuenta pública anual. Para tal efecto, la Auditoría Superior del Estado se coordinará con el instituto;
+XI. Las observaciones a leyes o decretos emitidos por el Órgano Legislativo a que hace referencia el artículo 62 fracción VII de la Constitución Política del Estado de Coahuila de Zaragoza;
 
-XIII. La dirección donde se encuentre ubicado el módulo de orientación y, en su caso, las oficinas de gestión de cada uno de los Diputados, así como el tipo y número de gestiones que realicen;
+XII. A través de la Auditoría Superior del Estado, los informes de resultados;
 
-XIV. Los informes de actividades que presentan los Diputados, el lugar donde los realizan y el origen de los recursos que utilizan;
+XIII. A través de la Auditoría Superior del Estado, la relación de los sujetos obligados respecto al cumplimiento en la presentación y publicación de los informes de avance de gestión financiera trimestrales y de la cuenta pública anual. Para tal efecto, la Auditoría Superior del Estado se coordinará con el instituto;
 
-XV. El monto asignado y ejercido de los recursos que reciben cada uno de los Diputados para realizar su informe anual de actividades;
+XIV. La dirección donde se encuentre ubicado el módulo de orientación y, en su caso, las oficinas de gestión de cada uno de los Diputados, así como el tipo y número de gestiones que realicen;
 
-XVI. Un mapa interactivo en el que se identifique el distrito que representa cada Diputado, señalando los límites de su circunscripción, incluyendo los municipios y colonias que represente;
+XV. Los informes de actividades que presentan los Diputados, el lugar donde los realizan y el origen de los recursos que utilizan;
 
-XVII. Descripción del Proceso Legislativo;
+XVI. El monto asignado y ejercido de los recursos que reciben cada uno de los Diputados para realizar su informe anual de actividades;
 
-XVIII. Listado de integración de las comisiones y comités;
+XVII. Un mapa interactivo en el que se identifique el distrito que representa cada Diputado, señalando los límites de su circunscripción, incluyendo los municipios y colonias que represente;
 
-XIX. Un registro de los juicios políticos y de responsabilidad penal señalando: el número de expediente, fecha de ingreso, nombre y cargo del denunciado, estado procesal y en su caso, resolución final; y
+XVIII. Descripción del Proceso Legislativo;
 
-XX. Los demás informes que deban presentarse conforme a su ley orgánica.
+XIX. Listado de integración de las comisiones y comités;
+
+XX. Un registro de los juicios políticos y de responsabilidad penal señalando: el número de expediente, fecha de ingreso, nombre y cargo del denunciado, estado procesal y en su caso, resolución final; y
+
+XXI. Los demás informes que deban presentarse conforme a su ley orgánica.
 
 ###### Artículo 27.
 
@@ -2946,3 +2954,13 @@ P.O. 20 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 776.- SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 26 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, Y SE ADICIONA LA FRACCIÓN XI, RECORRIÉNDOSE LAS SUBSECUENTES DEL MISMO ARTÍCULO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor a los 120 días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Las autoridades competentes deberán durante el plazo previsto en el artículo transitorio anterior realizar las adecuaciones técnicas correspondientes para dar cumplimiento a lo previsto en el presente decreto.
