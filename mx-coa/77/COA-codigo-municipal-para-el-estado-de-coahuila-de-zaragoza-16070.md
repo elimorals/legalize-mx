@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-10-20"
+last_updated: "2020-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -779,9 +779,17 @@ II. Mayoría absoluta: la mitad más uno de los integrantes del Ayuntamiento.
 
 III. Mayoría calificada: las dos terceras partes de la totalidad de los integrantes del Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+Las votaciones podrán ser a favor, en contra o en abstención. Las abstenciones no se toman en cuenta para la suma total y definición del asunto tratado; solo se tomarán en cuenta los votos emitidos a favor o en contra y los acuerdos y resoluciones serán válidos con estos votos, siempre y cuando se cumpla con la mayoría que se requiera, de conformidad a lo dispuesto en este artículo.
+
 ###### ARTÍCULO 96.
 
 Las sesiones del Ayuntamiento se celebrarán en el recinto oficial destinado para tal efecto. Sólo por causas excepcionales o justificadas, el Ayuntamiento podrá acordar el cambio del recinto oficial de manera temporal.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+De manera excepcional, en caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerden las dos terceras partes de los integrantes del Ayuntamiento, las sesiones se podrán realizar de forma virtual, por medios electrónicos, para desahogar los asuntos concretos acordados.
 
 ###### ARTÍCULO 97.
 
@@ -1073,6 +1081,10 @@ VIII. En materia de participación ciudadana y vecinal:
 
 5. Establecer e instrumentar mecanismos efectivos, funcionales y democráticos de participación comunitaria directa para la toma de decisiones fundamentales hacia el interior del gobierno municipal.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+El ayuntamiento implementará acciones y campañas dirigidas hacia una extensa difusión y promoción de la participación social; lo anterior, en beneficio directo hacia los habitantes del municipio, mediante la interacción con otros y la construcción del entorno en el que se desarrolla.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA CON SUS NUMERALES], P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 IX. En materia de derechos humanos.
@@ -1348,6 +1360,10 @@ El plazo señalado en el párrafo anterior podrá duplicarse por una sola vez y 
 ###### ARTÍCULO 109.
 
 Las sesiones de las comisiones podrán ser públicas, cuando la divulgación de la información de los asuntos que traten no afecte a particulares y no se encuentre dentro de la información que deba ser protegida conforme las disposiciones de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza o de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+En caso fortuito o de fuerza mayor, o cuando por causas especiales lo haya acordado las dos terceras partes de los integrantes del Ayuntamiento, las sesiones de las Comisiones se podrán realizar de forma virtual, por medios electrónicos, para desahogar los asuntos del ramo correspondiente o los que se le hubieren encomendado.
 
 ###### ARTÍCULO 110.
 
@@ -5160,3 +5176,23 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 753.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 39 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 772.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 96 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 779.- SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN VIII DEL ARTÍCULO 102, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 781.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 95 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
