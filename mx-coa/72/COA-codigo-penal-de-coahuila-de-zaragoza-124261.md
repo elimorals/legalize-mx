@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-10-20"
+last_updated: "2020-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -4715,6 +4715,12 @@ V. (Fraude de cuantía mayor)
 
 De tres a nueve años de prisión y de ochocientos a mil doscientos días multa, cuando el valor de lo defraudado exceda de diez mil veces el importe del valor diario de la unidad de medida y actualización, al momento en que se cometió el delito.
 
+(NOTA: EL 4 DE NOVIEMBRE DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 302/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE OCTUBRE DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 780, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+SE AUMENTARÁN EN UN TANTO MÁS, LAS SANCIONES PREVISTAS EN EL ARTÍCULO ANTERIOR, CUANDO PARA COMETER LA CONDUCTA TÍPICA SE UTILICEN ESQUEMAS DE RECLUTAMIENTO DE DOS O MÁS PERSONAS, O BIEN UTILICEN UN ESQUEMA PIRAMIDAL PARO (SIC) REALIZAR LOS HECHOS.
+
 Artículo 292 (Tipos penales equiparados al fraude)
 
 Se equipararán al fraude y se impondrá las penas previstas en el artículo anterior, según la cuantía estimada de la afectación de que se trate:
@@ -8004,3 +8010,9 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 731.- SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 5 Y LA FRACCIÓN IV DEL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULOS (SIC) 211 Y SE ADICIONA UN PÁRRAFO AL FINAL, ASIMISMO SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 212 Y EL ARTÍCULO 254 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 780.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 291 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
