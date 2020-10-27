@@ -4,7 +4,7 @@ identifier: "COA-ley-de-poblacion-y-desarrollo-municipal-para-el-estado-de-57286
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-11"
-last_updated: "2017-12-26"
+last_updated: "2020-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE POBLACIÓN Y DESARROLLO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 11 de septiembre de 2007.
 
@@ -74,6 +74,14 @@ I. Establecerá, organizará, vigilará y evaluará la Política Poblacional Est
 II. Diseñará y fortalecerá las acciones de desarrollo municipal en la entidad, y
 
 III. Promoverá y coordinará las medidas convenientes para resolver los problemas demográficos que se presenten en la Entidad.
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+IV. Celebrará acuerdos de colaboración con el Gobierno Federal y con las demás entidades federativas, que estime necesarios para promover el desarrollo municipal.
+
+> <small>(ADICIONADA. P.O. 27 DE OCTUBRE DE 2020)</small>
+
+V. Coordinará la creación de programas y políticas públicas que atiendan lo relacionado a las problemáticas demográficas en especial a los grupos de población que estadísticamente tiendan a incrementarse en el futuro y en atención de personas en situación de vulnerabilidad.
 
 Las acciones que se emprendan en la materia tendrán por objeto:
 
@@ -694,3 +702,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 778.- SE ADICIONAN LAS FRACCIONES IV Y V AL ARTÍCULO 3º DE LA LEY DE POBLACIÓN Y DESARROLLO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
