@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2020-04-24"
+last_updated: "2020-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -369,9 +371,9 @@ h) Dirección electrónica donde podrán recibirse las solicitudes de acceso a l
 
 i) La denominación, domicilio, teléfonos, faxes, dirección electrónica y correo electrónico oficiales del sujeto obligado;
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2020)</small>
 
-j) El directorio de todos los servidores públicos del sujeto obligado, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos, el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales;
+j) El directorio de todos los servidores públicos del sujeto obligado, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos, el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales (sic); el directorio a que se refiere este inciso deberá contener, además, el nombre de todas las cuentas oficiales de redes sociales digitales que administren los sujetos obligados, así como aquellas de los servidores públicos que voluntariamente decidan incorporarse a dicho directorio en los términos establecidos por el Sistema Nacional de Transparencia;
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -1077,13 +1079,17 @@ XIX. El número de denuncias penales presentadas por el Instituto, que contenga 
 
 XX. El número de arrestos administrativos ordenados por el Pleno del Instituto, que contenga al menos el nombre del arrestado, causa del arresto y sujeto obligado de adscripción;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
 
-XXI. La estadística general del Estado y por sujeto obligado actualizada sobre solicitudes de acceso a la información y recursos en materia de información pública; y
+XXI. La estadística general del Estado y por sujeto obligado actualizada sobre solicitudes de acceso a la información y recursos en materia de información pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2020)</small>
 
-XXII. La que acuerde el Pleno del Instituto.
+XXII. El padrón estatal que concentre todos los directorios de las páginas oficiales, así como las cuentas de redes sociales que manejen los sujetos obligados; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE OCTUBRE DE 2020)</small>
+
+XXIII. La que acuerde el Pleno del Instituto.
 
 ###### Artículo 13.
 
@@ -1877,13 +1883,41 @@ Quinquies. Información Focalizada - Publicación
 
 2. El Instituto podrá realizar recomendaciones, no vinculantes, a los sujetos obligados respecto de la determinación de transparencia focalizada, para que sean valoradas en el ejercicio de sus responsabilidades públicas, de oficio o a petición de los ciudadanos.
 
-### Capítulo I. Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+### Capítulo V
+
+Del Uso de Redes Sociales Digitales.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 23
+
+Sexies.
+
+1. Los sujetos obligados podrán utilizar las plataformas de internet denominadas “Redes Sociales Digitales” para la difusión de la información pública derivada del cumplimiento de sus funciones y del ejercicio de sus atribuciones, con el objeto de promover la cultura de la transparencia y los ejercicios de rendición de cuentas, independientemente de la obligación de publicar la información en los portales de transparencia correspondientes.
+
+2. Cuando los sujetos obligados determinen utilizar las redes sociales digitales para difundir información pública, se sujetarán para su utilización, en lo aplicable, a la normatividad en materia de transparencia, acceso a la información pública, protección de datos personales, de archivos, de comunicación social y electoral.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 23
+
+Septies
+
+1. Los sujetos obligados deberán establecer las medidas necesarias para garantizar a todos los usuarios el acceso a las cuentas de redes sociales oficiales desde las que se difunda información pública.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 23
+
+Octíes
+
+1. Los sujetos obligados procurarán publicar en sus cuentas oficiales de Redes Sociales Digitales la información pública que identifiquen como de mayor relevancia e interés social, independientemente de que ésta deba ser publicada obligatoriamente en los portales de transparencia correspondientes.
 
 ## Título Tercero. De los Sujetos Obligados
 
-### Capítulo II. Del Comité de Transparencia
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 24.
 
@@ -2155,9 +2189,9 @@ VIII. Lo demás que establezcan otras disposiciones legales aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-### Capítulo III. De la Unidad de Transparencia
+### Capítulo II. Del Comité de Transparencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 27.
 
@@ -2239,7 +2273,9 @@ XII. Establecer un índice de la información clasificada como confidencial o re
 
 XIII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo III. De la Unidad de Transparencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2017)</small>
 
 ###### Artículo 31.
 
@@ -2311,9 +2347,7 @@ XIV. Las demás que establezcan otras disposiciones legales o reglamentarias apl
 
 ## Título Cuarto. Del Instituto de Transparencia, Información Pública y Protección de Datos Personales
 
-### Capítulo II. Del Pleno del Instituto
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 33.
 
@@ -2519,9 +2553,9 @@ Instituto - Remuneraciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-### Capítulo III. De los Comisionados del Instituto
+### Capítulo II. Del Pleno del Instituto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 39.
 
@@ -2685,7 +2719,9 @@ XI. Las demás que establezcan otras disposiciones legales o reglamentarias apli
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-### Capítulo IV. De la Secretaría Ejecutiva
+### Capítulo III. De los Comisionados del Instituto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 43.
 
@@ -2807,7 +2843,7 @@ Comisionados-Impedimentos y excusas
 
 3. Cuando los comisionados no se inhibieren a pesar de existir alguno de los impedimentos expresados en el párrafo anterior, procede la recusación a petición de cualquier interesado.
 
-### Capítulo V. Del Consejo Consultivo
+### Capítulo IV. De la Secretaría Ejecutiva
 
 ###### Artículo 50.
 
@@ -2863,7 +2899,7 @@ VIII. Iniciar el procedimiento de responsabilidad administrativa que prevé la l
 
 IX. Las demás que establezca el Reglamento Interno del Instituto.
 
-### Capítulo I. Del Procedimiento de Clasificación de Información
+### Capítulo V. Del Consejo Consultivo
 
 ###### Artículo 52.
 
@@ -3093,7 +3129,7 @@ Consejo Consultivo - Suplencia Consejeros
 
 ## Título Quinto. De los Procedimientos Administrativos
 
-### Capítulo II. Del Procedimiento de Protección de Información Confidencial
+### Capítulo I. Del Procedimiento de Clasificación de Información
 
 ###### Artículo 60.
 
@@ -3219,7 +3255,7 @@ I. El Instituto debe notificar la respuesta definitiva derivada de un recurso de
 
 II. El sujeto obligado tiene un plazo de cinco días hábiles para acatar la respuesta definitiva del Instituto y notificar al mismo su cumplimiento.
 
-### Capítulo III. Del Procedimiento de Acceso a la Información
+### Capítulo II. Del Procedimiento de Protección de Información Confidencial
 
 #### Sección Primera. Disposiciones Generales
 
@@ -3385,7 +3421,7 @@ Respuesta de Protección - Sentido
 
 1. El Comité de Transparencia puede dar respuesta una (sic) solicitud de protección de información confidencial en sentido procedente, procedente parcialmente e improcedente.
 
-### Capítulo I. Del Recurso de Revisión
+### Capítulo III. Del Procedimiento de Acceso a la Información
 
 #### Sección Primera. Disposiciones generales
 
@@ -3713,7 +3749,7 @@ VIII. Caducidad: la obligación de conservar los informes específicos solicitad
 
 ## Título Sexto. De los Recursos y de la Facultad de Atracción
 
-### Capítulo II. Del Recurso de Protección de Datos Personales
+### Capítulo I. Del Recurso de Revisión
 
 ###### Artículo 91.
 
@@ -4005,7 +4041,7 @@ Recurso de Revisión - Ejecución
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-### Capítulo III. Del Recurso de Transparencia
+### Capítulo II. Del Recurso de Protección de Datos Personales
 
 ###### Artículo 104.
 
@@ -4027,9 +4063,7 @@ Recurso de Revisión - Ejecución
 
 (DEROGADO, P.O. 26 DE JULIO DE 2017)
 
-### Capítulo IV. De la Facultad de Atracción
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+### Capítulo III. Del Recurso de Transparencia
 
 ###### Artículo 109.
 
@@ -4157,9 +4191,9 @@ Recurso de transparencia - Ejecución
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-### Capítulo I. De la Responsabilidad Administrativa
+### Capítulo IV. De la Facultad de Atracción
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 117
 
@@ -4171,7 +4205,9 @@ Bis. Facultad de Atracción - Procedencia
 
 ## Título Séptimo. De las Responsabilidades y Sanciones
 
-### Capítulo II. De la Responsabilidad Penal
+### Capítulo I. De la Responsabilidad Administrativa
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 118.
 
@@ -4399,7 +4435,7 @@ Multas - Naturaleza
 
 1. Las multas impuestas como sanciones administrativas de acuerdo con esta ley, constituyen créditos fiscales a favor del Estado y su ejecución se rige por las disposiciones jurídicas aplicables.
 
-### Capítulo III. De la Responsabilidad Civil
+### Capítulo II. De la Responsabilidad Penal
 
 ###### Artículo 127.
 
@@ -4407,13 +4443,15 @@ Delitos
 
 1. Los delitos en materia de información pública son los establecidos en el Código Penal para el Estado Libre y Soberano de Jalisco.
 
-### Capítulo IV. De la Responsabilidad Política
+### Capítulo III. De la Responsabilidad Civil
 
 ###### Artículo 128.
 
 Responsabilidad civil
 
 1. La difusión o publicación de información pública reservada o confidencial sin la autorización correspondiente, será considerado como hecho ilícito, por lo que los que la realicen podrán ser sujetos de responsabilidad civil a instancia de parte agraviada, de conformidad a lo que prevé el Código Civil del Estado de Jalisco.
+
+### Capítulo IV. De la Responsabilidad Política
 
 ###### Artículo 129.
 
@@ -4608,3 +4646,9 @@ P.O. 24 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27976/LXII/20 QUE REFORMAN LOS ARTÍCULOS 8 Y 12 Y ADICIONA EL TÍTIULO (SIC) V “DEL USO DE REDES SOCIALES DIGITALES”, AL CAPÍTULO PRIMERO, Y LOS ARTÍCULOS 23-SEXIES, 23-SEPTIES Y 23-OCTIES, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor en los ciento ochenta días naturales siguientes de su publicación en el periódico oficial “El Estado de Jalisco”.
