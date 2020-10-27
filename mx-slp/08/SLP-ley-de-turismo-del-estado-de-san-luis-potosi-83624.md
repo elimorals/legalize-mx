@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2020-09-10"
+last_updated: "2020-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -209,9 +209,17 @@ VIII. Establecer las políticas para los lineamientos, sistemas y procedimientos
 
 IX. Aprobar el Programa Sectorial de Turismo;
 
-X. Prever la exacta observancia de la presente Ley, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2020)</small>
 
-XI. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
+X. Establecer estrategias y planes de acción ante un hecho de fuerza mayor que implique el cierre de servicios turísticos en el Estado, en conjunto con la Secretaría y ayuntamientos para reactivar el turismo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE OCTUBRE DE 2020)</small>
+
+XI. Prever la exacta observancia de la presente Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE OCTUBRE DE 2020)</small>
+
+XII. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 7°.
 
@@ -257,13 +265,17 @@ IV. Proporcionar orientación y asistencia a los turistas;
 
 V. Difundir información de atractivos turísticos, servicios y prestadores de servicios turísticos, a través de los medios de comunicación impresos, electrónicos, cibernéticos o cualquier otro;
 
-VI. Informar y orientar a los prestadores de servicios turísticos en materia de normatividad, acceso a financiamiento y estímulos, participación en los programas y reconocimientos de la Secretaría;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+VI. Informar y orientar periódicamente a los prestadores de servicios turísticos en materia de normatividad, acceso a financiamiento y estímulos, planes y acciones de reactivación de servicios turísticos y participación en los programas y reconocimientos de la Secretaría;
 
 VII. Recabar y solicitar datos estadísticos por cualquier medio a turistas, prestadores de servicios turísticos, autoridades o a cualquier persona u organización, a fin de obtener información que permita a la Secretaría proponer acciones y programas que mejoren la calidad de la infraestructura, el patrimonio y los servicios turísticos e impulsen con ello la afluencia de turistas;
 
 VIII. El diseño, la estandarización y la supervisión de la colocación de la nomenclatura turística, de acuerdo a sus características correspondientes, señalados en el Reglamento;
 
-IX. Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en el Estado;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+IX. Impulsar mediante estrategias de acción para fortalecer y promover a las micro, pequeñas y medianas empresas turísticas que operen en el Estado;
 
 X. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación para el desarrollo turístico del Estado;
 
@@ -311,9 +323,15 @@ XXX. Atender la demanda social relacionada con el acceso a los espacios turísti
 
 XXXI. Diseñar y elaborar materiales gráficos y audiovisuales de promoción e información sobre los atractivos turísticos del Estado;
 
-XXXII. Proponer y aplicar las políticas concernientes a la investigación, actualización y utilización de la información turística estatal, y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
 
-XXXIII. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
+XXXII. Proponer y aplicar las políticas concernientes a la investigación, actualización y utilización de la información turística estatal;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+XXXIII. Coadyuvar con el Ejecutivo Federal para la clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente, así como difundir la clasificación entre los prestadores de servicio del Estado, y
+
+XXXIV. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
 
 ###### ARTICULO 9°.
 
@@ -327,7 +345,9 @@ III. Proporcionar a la Secretaría las cifras y datos que le solicite en materia
 
 IV. Vigilar y dar mantenimiento en coordinación con la Secretaría, a la infraestructura turística para que se conserve y mantenga en buenas condiciones;
 
-V. Organizar, en coordinación con la Secretaría, la implementación de cursos, seminarios o talleres, y la celebración de congresos, encuentros o seminarios para la capacitación y adiestramiento del personal de los prestadores de servicios turísticos;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+V. Organizar, en coordinación con la Secretaría, la implementación de cursos, seminarios o talleres, y la celebración de congresos, encuentros o seminarios para la capacitación y adiestramiento del personal de los prestadores de servicios turísticos, tomando en cuenta las condiciones especiales que se pudieran presentar, y adaptándose a los cambios resultantes de un levantamiento de restricciones en servicios turísticos ocasionados por un hecho de fuerza mayor;
 
 VI. Propiciar el aprovechamiento sustentable del territorio municipal en favor del turismo;
 
@@ -707,9 +727,15 @@ II. Ser incluidos en la elaboración de los programas y acciones de promoción y
 
 III. Ser incluidos en el diseño y ejecución de los programas y acciones de promoción y difusión turística que realicen los Ayuntamientos siempre y cuando cumplan con la presente Ley y su Reglamento;
 
-IV. Solicitar y recibir de la Secretaría, capacitación y asesoramiento técnico destinado al mejoramiento de los servicios turísticos, de acuerdo con los planes y programas elaborados por está, y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
 
-V. Los demás que se señalen por esta Ley y su reglamento.
+IV. Solicitar y recibir de la Secretaría, capacitación y asesoramiento técnico destinado al mejoramiento de los servicios turísticos, de acuerdo con los planes y programas elaborados por está;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+V. Formar parte del Sistema de Clasificación de Hoteles, así como obtener la clasificación que se otorgue en los términos de la normatividad aplicable, y
+
+VI. Los demás que se señalen por esta Ley y su reglamento.
 
 ###### ARTICULO 67.
 
@@ -949,7 +975,13 @@ q) El Delegado de la Secretaría de Desarrollo Social.
 
 r) El Delegado de la Financiera Rural.
 
-s) El Delegado del Instituto Nacional de Antropología e Historia;
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+s) El Delegado del Instituto Nacional de Antropología e Historia.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+t) El representante de la Comisión Estatal de Protección Contra Riesgos Sanitarios;
 
 II. Un secretario técnico, que será el Secretario de Desarrollo Económico, quien asistirá a las sesiones del Consejo, con voz y voto;
 
@@ -1067,7 +1099,7 @@ Para la imposición de sanciones, las actuaciones que practique la Secretaría y
 
 ###### ARTICULO 92.
 
-Si del resultado de la (sic) visitas de verificación se detecta el incumplimiento de las disposiciones contenidas en la presente Ley, a cargo de los prestadores de bienes y servicios turísticos, la Secretaría efectuará lo conducente a fin de determinar la sanción que, en su caso, corresponda.
+Si del resultado de la visitas (sic) de verificación se detecta el incumplimiento de las disposiciones contenidas en la presente Ley, a cargo de los prestadores de bienes y servicios turísticos, la Secretaría efectuará lo conducente a fin de determinar la sanción que, en su caso, corresponda.
 
 ### Capítulo Tercero. Adscripción y Ratificación de Jueces
 
@@ -1242,3 +1274,27 @@ P.O. 10 DE SEPTIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0790.- SE REFORMA LOS ARTÍCULOS 8° EN SU FRACCIÓN XXXII Y 66 EN SU FRACCIÓN IV; Y ADICIONA A LOS ARTÍCULOS 8º UNA FRACCIÓN, ÉSTA COMO XXXIII Y 66 UNA FRACCIÓN, ÉSTA COMO V, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0791.- SE REFORMA (SIC) LOS ARTÍCULOS 6° EN SUS FRACCIONES X Y XI, 8° EN SUS FRACCIONES VI Y IX Y 9° EN SU FRACCIÓN V; Y ADICIONA AL ARTÍCULO 6° LA FRACCIÓN XII, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0792.- SE REFORMA EL ARTÍCULO 85 EN SU FRACCIÓN I EL INCISO S); Y ADICIONA AL MISMO ARTÍCULO 85 EN SU FRACCIÓN I EL INCISO T), DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
