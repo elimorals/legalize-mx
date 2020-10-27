@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2020-06-19"
+last_updated: "2020-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2020 EN LA EDICIÓN VESPERTINA DEL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -689,7 +691,9 @@ V.- De la Autoridad Jurisdiccional Electoral.- En términos de lo que dispone la
 
 Este órgano jurisdiccional no estará adscrito al Poder Judicial del Estado.
 
-El Tribunal Electoral del Estado de Tamaulipas se integra con cinco magistrados electorales, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, en términos de la Constitución Federal y la legislación aplicable.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+El Tribunal Electoral del Estado de Tamaulipas se integra con tres magistrados electorales, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, en términos de la Constitución Federal y la legislación aplicable.
 
 Los requisitos para ser Magistrado Electoral en el Estado de Tamaulipas son los que establece la Ley General de Instituciones y Procedimientos Electorales.
 
@@ -5124,6 +5128,36 @@ P.O. 19 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-201 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN V, DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado de Tamaulipas, y entrará en vigor al día siguiente del que termine el proceso electoral 2020-2021.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Magistrados del órgano jurisdiccional en materia electoral del Estado de Tamaulipas, designados por el Senado de la República, el 19 de noviembre de 2015, por un periodo de cinco años, concluirán su encargo por el periodo para el cual fueron designados.
+
+(NOTA: EL 6 DE DICIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 294/2020 Y SUS ACUMULADAS 298/2020 Y 301/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO SEGUNDO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+EN CASO DE QUE EL SENADO DE LA REPÚBLICA EMITA UNA NUEVA CONVOCATORIA EN TÉRMINOS DE LO DISPUESTO POR EL NUMERAL 5 DEL INCISO C DE LA FRACCIÓN VI DEL ARTÍCULO 116 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PARA SUSTITUIR A LOS MAGISTRADOS QUE TERMINAN SU ENCARGO EN NOVIEMBRE DE 2020, SERÁ ÚNICAMENTE PARA QUE LOS DESIGNADOS DUREN EN SU ENCARGO HASTA LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.
+
+(NOTA: EL 6 DE DICIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 294/2020 Y SUS ACUMULADAS 298/2020 Y 301/2020, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+###### ARTÍCULO TERCERO.
+
+LOS EXPEDIENTES QUE SE ENCUENTREN EN TRÁMITE AL TÉRMINO DEL PROCESO ELECTORAL 2020- 2021, SERÁN RETURNADOS A LAS PONENCIAS SUBSISTENTES, DE ACUERDO A LAS DISPOSICIONES QUE PARA TAL EFECTO EMITA EL PLENO DEL TRIBUNAL ELECTORAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese a la Cámara de Senadores del Congreso de la Unión, para los efectos legales conducentes.
+
+###### ARTÍCULO QUINTO.
+
+Las economías generadas durante el ejercicio fiscal 2021, en razón de la presente reforma, directa o indirectamente, se destinará a la Secretaría de Salud.
 
 ###### ARTÍCULO NOVENO.
 
