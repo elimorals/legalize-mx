@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2020-07-21"
+last_updated: "2020-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2020.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -137,11 +137,17 @@ a) Reglamentar, en el Consejo, lo previsto en los artículos 100, 126, 127 y 134
 
 a) Bis. Las que regulan la autorización de comisiones, así como la asignación y comprobación de recursos por concepto de viáticos y transportación, para aquellos servidores públicos designados para el cumplimiento de los objetivos de sus programas o para el desempeño de las funciones que tienen encomendadas;
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
 
-b) La regulación para la toma de decisiones en materia de inversión de los recursos financieros, de carácter presupuestal y no presupuestal administrados por el Consejo, para el óptimo manejo de sus recursos; y
+b) La regulación para la toma de decisiones en materia de inversión de los recursos financieros, de carácter presupuestal y no presupuestal administrados por el Consejo, para el óptimo manejo de sus recursos;
 
-c) Las relativas a la organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia, de conformidad con lo previsto en el Título Décimo Segundo de la Ley Orgánica del Poder Judicial de la Federación;
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+
+c) Las relativas a la organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia, de conformidad con lo previsto en el Título Décimo Segundo de la Ley Orgánica del Poder Judicial de la Federación; y
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+
+d) Las relativas a cuotas o aportaciones a organismos u organizaciones internacionales derivados de los compromisos establecidos en Acuerdos o Convenios celebrados por éstos y el Consejo;
 
 IV. Las disposiciones en materia de comunicación social;
 
@@ -233,7 +239,9 @@ XXX. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacita
 
 XXXI. CENDI: Centro de Desarrollo Infantil del Poder Judicial de la Federación;
 
-XXXII. Certificación de Disponibilidad Presupuestal: Validación de la existencia de recursos presupuestales para un destino de gasto específico, con objeto de respaldar la solicitud de autorización para la adquisición o contratación de un bien o servicio ante la instancia competente, incluyendo los correspondientes a servicios personales;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+
+XXXII. Certificación de Disponibilidad Presupuestal: Validación de la existencia de recursos presupuestales para un destino de gasto específico, con objeto de respaldar la solicitud de autorización para la adquisición o contratación de un bien o servicio ante la instancia competente, incluyendo los correspondientes a servicios personales; así como a los compromisos derivados de convenios o acuerdos que se celebren en el marco del derecho internacional público;
 
 XXXIII. Certificado Digital de la FIREL: El documento electrónico emitido por la UNCOCEFI que asocia de manera segura y fiable la identidad del Firmante con una Llave Pública, permitiendo con ello identificar quién es el autor o emisor de un documento electrónico o mensaje de datos remitido mediante el uso de la FIREL;
 
@@ -277,6 +285,10 @@ LII. Costos de administración: La suma de todos los gastos, tanto directos como
 
 LIII. Cuenta Pública: Cuenta de la Hacienda Pública Federal;
 
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+
+LIII Bis. Cuotas o aportaciones: Corresponden al pago en favor de organismos u organizaciones internacionales, derivados de los compromisos establecidos en Acuerdos o Convenios celebrados por el Consejo;
+
 LIV. CURP: Clave Única de Registro de Población;
 
 LV. Delegación Administrativa: Las Delegaciones Administrativas, adscritas a la Coordinación de Administración Regional;
@@ -289,7 +301,9 @@ LVIII. Destino final: La determinación de enajenar, donar, permutar, transferir
 
 LIX. Día(s) Hábil(es): Los días que se labore en el Consejo, comprendiéndose todos los del año, excluyéndose los sábados, domingos y los que establece como inhábiles el artículo 163 de la Ley Orgánica, así como los que determine el Pleno;
 
-LX. Dictamen jurídico: Documento que emite la Dirección General de Asuntos Jurídicos que contiene el análisis jurídico respecto del cumplimiento de la normativa en los procedimientos de contratación, previstos en el presente Acuerdo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+
+LX. Dictamen jurídico: Documento que emite la Dirección General de Asuntos Jurídicos que contiene el análisis jurídico respecto del cumplimiento de la normativa en los procedimientos de contratación; o para la suscripción de convenios con organismos u organizaciones internacionales, previstos en el presente Acuerdo;
 
 LXI. Documento de Afectación Presupuestal: Documento que se elabora para efectos de registrar el compromiso de recursos presupuestales autorizados, a través de la presentación de los contratos, convenios, pedidos, órdenes de trabajo y de servicio, así como cualquier otro documento que represente una obligación de pago a cargo del Consejo;
 
@@ -380,6 +394,10 @@ CII. Observador: Persona física que, a título individual, o en representación
 CIII. Operación y supervisión de los sistemas de seguridad: El desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, que la Coordinación de Seguridad propondrá al Presidente;
 
 CIV. Opinión jurídica: Documento emitido por la Dirección General de Asuntos Jurídicos que contiene el análisis jurídico respecto de las consultas que realicen las áreas administrativas, para la eficaz observancia de la normativa;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+
+CIV Bis. Organismo u Organización Internacional: Persona jurídica creada con esa naturaleza de conformidad con el derecho internacional público;
 
 CV. Órganos jurisdiccionales: Tribunales de Circuito y juzgados de Distrito;
 
@@ -8455,7 +8473,9 @@ Tratándose de bienes inmuebles se procederá a su inscripción en el Catálogo 
 
 Cuando el aprovechamiento se refiera a bienes muebles, los mismos deberán inventariarse y reportarse en los registros que correspondan.
 
-#### SECCIÓN PRIMERA. PRESUPUESTO DE EGRESOS
+#### SECCIÓN CUARTA. CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 676.
 
@@ -8495,9 +8515,7 @@ III. Acta de la destrucción del bien, que deberán suscribir el titular de la D
 
 La Dirección General de Recursos Materiales o la Administración Regional comunicarán a la Secretaría Ejecutiva de Administración, sobre las destrucciones que se hayan realizado a efecto de que ésta lleve el registro y control de ello, debiendo informar a la Comisión de Administración sobre cualquier operación de destrucción de bienes asegurados no reclamados y decomisados que se haya llevado a cabo en los términos de este Capítulo.
 
-#### SECCIÓN SEGUNDA. PROGRAMACIÓN Y PRESUPUESTACIÓN
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. PRESUPUESTO DE EGRESOS
 
 ###### Artículo 681.
 
@@ -8899,9 +8917,9 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión 
 
 ### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
 
-#### SECCIÓN PRIMERA. EJERCICIO DEL GASTO PÚBLICO
+#### SECCIÓN SEGUNDA. PROGRAMACIÓN Y PRESUPUESTACIÓN
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 697.
 
@@ -8937,7 +8955,9 @@ V. Determinar los ajustes que correspondan en su presupuesto en caso de disminuc
 
 VI. Llevar la contabilidad y elaborar sus informes conforme a la Ley General de Contabilidad Gubernamental; el Acuerdo General Conjunto emitido por el Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación que regula el proceso contable de dichos órganos; así como remitirlos a las autoridades competentes para su integración a los informes trimestrales y a la Cuenta Pública.
 
-#### SECCIÓN SEGUNDA. SERVICIOS PERSONALES
+#### SECCIÓN PRIMERA. EJERCICIO DEL GASTO PÚBLICO
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 700.
 
@@ -9053,11 +9073,9 @@ El registro histórico de indicadores que resulte del seguimiento físico y fina
 
 Lo previsto en este artículo tiene por objeto evitar el subejercicio de los recursos presupuestales al concluir el ejercicio fiscal, así como optimizar y racionalizar el uso de los mismos en cumplimiento al Plan de Desarrollo Institucional y los objetivos y metas institucionales.
 
+#### SECCIÓN SEGUNDA. SERVICIOS PERSONALES
+
 #### SECCIÓN TERCERA. ADECUACIONES PRESUPUESTARIAS
-
-#### SECCIÓN CUARTA. DESCONCENTRACIÓN DEL EJERCICIO DEL GASTO
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 705.
 
@@ -9071,15 +9089,57 @@ En el marco de la autonomía e independencia que la Constitución otorga al Pode
 
 Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través de la Secretaría Ejecutiva de Administración, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
 
-#### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+#### SECCIÓN CUARTA. DESCONCENTRACIÓN DEL EJERCICIO DEL GASTO
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 705 Bis.
+
+El Pleno, podrá aprobar la celebración de acuerdos o convenios cualquiera que sea su denominación, para la cooperación con organismos u organizaciones internacionales, dirigidos al cumplimiento de los programas y proyectos que se circunscriban exclusivamente a las atribuciones propias del Consejo y de sus áreas administrativas, los cuales se instrumentarán en el ámbito del derecho internacional público
+
+Dentro de los convenios a que se refiere este artículo, se podrá establecer el compromiso u obligación por parte del Consejo de cubrir cuotas o aportaciones en favor del organismo u organización internacional.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 705 Ter.
+
+Se deberán remitir a la Dirección General de Asuntos Jurídicos, previamente a su aprobación por el Pleno, los proyectos de convenios a efecto de que se emita el dictamen jurídico que corresponda.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 705 Quáter.
+
+Para la suscripción de los convenios con organismos u organizaciones internacionales, se deberá considerar lo siguiente:
+
+I. Declaración de cada una de las partes que contenga de forma clara y específica el fundamento o instrumento con el cual se acredita la representación de las mismas;
+
+II. La suscripción de dichos convenios deberá llevarse a cabo siempre con la intervención de la persona titular de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
+
+III. El monto de las cuotas o aportaciones en favor del organismo u organización internacional, se deberá validar por la unidad administrativa ejecutora del gasto que solicite la celebración del convenio y que se encargará de su seguimiento, debiendo justificar la conveniencia de la celebración del convenio, en relación con la erogación de los recursos públicos; realizándose el pago con cargo a la partida presupuestal de “Cuotas y aportaciones a organismos internacionales” prevista en el Clasificador por Objeto del Gasto correspondiente, previa obtención del certificado de disponibilidad presupuestal expedido por la Dirección General de Programación, Presupuesto y Tesorería por el cual se acredite la suficiencia presupuestal para cubrir el monto del compromiso que asumirá el Consejo, a través de la suscripción del convenio.
+
+En caso de que el proyecto represente erogaciones que rebasen el ejercicio de que se trate, se deberá señalar que el cumplimiento de la obligación o compromiso que asume el Consejo, se encuentra sujeto a la disponibilidad presupuestal de los ejercicios fiscales subsecuentes en la partida presupuestal a que refiere el párrafo anterior, debiendo sujetarse, en lo que resulte compatible con la naturaleza del convenio, al cumplimiento de los requisitos previstos en el artículo 730 del presente Acuerdo.
+
+IV. Los convenios deberán contener los siguientes elementos:
+
+a) El objeto o proyecto a desarrollar;
+
+b) Determinar las etapas del proyecto o programa y su tiempo de ejecución;
+
+c) La programación para cubrir la cuota o aportación, que en su caso se haya establecido, así como la forma de comprobación de la misma conforme a la normatividad aplicable en la materia, conforme lo requiera la Dirección General de Programación, Presupuesto y Tesorería; y
+
+d) Precisión de las áreas administrativas responsables del seguimiento, enlace, colaboración, rendición de cuentas y evaluación de resultados.
+
+Para tener por cumplidos los requisitos señalados en la presente fracción, no es necesario que estén enunciados de la forma en que se refieren, bastará que la redacción del contenido lo represente y tenga el mismo objeto o consecuencia, sin importar la literalidad de las denominaciones.
+
+El área administrativa solicitante deberá presentar un informe semestral al Pleno, sobre la evaluación de los avances y resultados obtenidos, así como al concluir la vigencia del convenio.
 
 ### CAPÍTULO QUINTO. DE LA CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO CONTABLE DE LAS OPERACIONES Y DEL REGISTRO PATRIMONIAL
+#### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9125,9 +9185,9 @@ El ejercicio del gasto será responsabilidad de las unidades ejecutoras del mism
 
 El Consejo establecerá los sistemas informáticos que sean adecuados para las distintas fases de su proceso presupuestario. Asimismo, podrá celebrar convenios con la Secretaría de Hacienda para mantener la compatibilidad con sus correspondientes sistemas informáticos, exclusivamente para efectos de registro e información de sus operaciones financieras.
 
-#### SECCIÓN TERCERA. DE LA FORMULACIÓN DE ESTADOS FINANCIEROS Y DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+#### SECCIÓN SEGUNDA. DEL REGISTRO CONTABLE DE LAS OPERACIONES Y DEL REGISTRO PATRIMONIAL
 
-> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 714.
 
@@ -9241,9 +9301,9 @@ La Dirección General de Innovación, Planeación y Desarrollo Institucional y l
 
 ### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO, Y CUMPLIMIENTO DE OBJETIVOS Y METAS
 
-#### SECCIÓN CUARTA. DEL ARCHIVO Y CONSERVACIÓN DE DOCUMENTOS
+#### SECCIÓN TERCERA. DE LA FORMULACIÓN DE ESTADOS FINANCIEROS Y DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 724.
 
@@ -9521,9 +9581,17 @@ Las erogaciones relacionadas con gastos de orden social, seminarios, asesorías,
 
 De los gastos realizados, la Dirección General de Programación, Presupuesto y Tesorería, deberá presentar mensualmente un informe a la Comisión de Administración.
 
-#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+###### Artículo 748 Bis.
+
+Las aportaciones que se eroguen derivado de la celebración de convenios entre el Consejo y organismos u organizaciones internacionales, se efectuarán a través de las áreas administrativas competentes conforme a los términos del propio convenio, con apoyo de la Dirección General de Programación, Presupuesto y Tesorería en términos del artículo 731 de este Acuerdo.
+
+Las mencionadas erogaciones estarán sujetas en todo momento al Presupuesto de Egresos del Poder Judicial de la Federación, y se deberá atender a las medidas de racionalidad, austeridad y disciplina presupuestal.
+
+#### SECCIÓN CUARTA. DEL ARCHIVO Y CONSERVACIÓN DE DOCUMENTOS
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 749.
 
@@ -9691,7 +9759,7 @@ Los pagos por concepto de defunción que se otorguen a los beneficiarios con mot
 
 Para que se tenga derecho a las pagas y apoyo por concepto de defunción, es indispensable que la persona fallecida no se hubiese encontrado disfrutando de licencia sin goce de sueldo, excepto cuando se trate de licencia por enfermedad.
 
-#### SECCIÓN SEGUNDA. AUDITORÍAS
+#### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
 
 > <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -9757,7 +9825,9 @@ III. Se realicen reducciones a partidas de inversión para incrementar las de ga
 
 IV. Cuando lo solicite de manera expresa la Comisión de Administración.
 
-#### SECCIÓN TERCERA. RESPONSABILIDADES
+#### SECCIÓN SEGUNDA. AUDITORÍAS
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 770.
 
@@ -9791,9 +9861,7 @@ Al extinguirse los fideicomisos, los recursos públicos remanentes deberán dest
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-#### SECCIÓN PRIMERA. EVALUACIÓN
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+#### SECCIÓN TERCERA. RESPONSABILIDADES
 
 ###### Artículo 773.
 
@@ -9857,7 +9925,9 @@ El Consejo adoptará los Postulados Básicos de Contabilidad Gubernamental, a ef
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
+#### SECCIÓN PRIMERA. EVALUACIÓN
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 776.
 
@@ -10107,11 +10177,7 @@ En los casos que no se cuente con los elementos suficientes para la depuración 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN PRIMERA. PATRIMONIO DEL FONDO DE APOYO
-
-SUBSECCIÓN PRIMERA
-
-DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA. INFORMACIÓN Y TRANSPARENCIA
 
 ###### Artículo 795 Bis.
 
@@ -10261,9 +10327,11 @@ La Dirección General de Programación, Presupuesto y Tesorería publicará la C
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-#### SECCIÓN SEGUNDA. CONTROL Y LA VIGILANCIA
+#### SECCIÓN PRIMERA. PATRIMONIO DEL FONDO DE APOYO
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+SUBSECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES
 
 ###### Artículo 802.
 
@@ -10319,7 +10387,9 @@ La Dirección General de Programación, Presupuesto y Tesorería, así como las 
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-#### SECCIÓN TERCERA. ADMINISTRACIÓN Y OPERACIÓN
+#### SECCIÓN SEGUNDA. CONTROL Y LA VIGILANCIA
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 810.
 
@@ -10379,7 +10449,7 @@ II. Fincamiento de las responsabilidades, en términos de las disposiciones lega
 
 III. Adopción de acciones tendentes a mejorar la gestión y el control interno.
 
-#### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
+#### SECCIÓN TERCERA. ADMINISTRACIÓN Y OPERACIÓN
 
 ###### Artículo 815.
 
@@ -10455,7 +10525,7 @@ Si como resultado de las auditorías o visitas, se detectan irregularidades que 
 
 La revisión y vigilancia que efectúe la Contraloría y en general las actividades propias de la auditoría, no deberán formar parte de las labores operativas y trámites administrativos que en forma directa realicen las unidades ejecutoras, por lo que los mecanismos de verificación y control interno que formen parte de los sistemas y procedimientos propios de la competencia, funciones y programas de las unidades ejecutoras, no deberán ser desarrollados por el personal de la Contraloría.
 
-#### SECCIÓN QUINTA. DESTINO
+#### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
 
 ###### Artículo 825.
 
@@ -10493,9 +10563,7 @@ Las responsabilidades a que se refiere este Título, se constituirán y exigirá
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-#### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+#### SECCIÓN QUINTA. DESTINO
 
 ###### Artículo 830.
 
@@ -10529,9 +10597,9 @@ Los indicadores del Sistema de Planeación Estratégica Institucional deberán f
 
 Las unidades ejecutoras de gasto serán responsables de la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra el Consejo para el cumplimiento de sus programas institucionales.
 
-#### SECCIÓN SÉPTIMA. SANCIONES
+#### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 834.
 
@@ -11179,7 +11247,9 @@ La contratación a que hace referencia este artículo deberá sujetarse a las re
 
 ### CAPÍTULO PRIMERO. SEGURIDAD EN LAS INSTALACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN SÉPTIMA. SANCIONES
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 854.
 
@@ -11355,9 +11425,7 @@ Los depósitos en dinero diversos a los depósitos judiciales corresponden, entr
 
 La Dirección General de Programación, Presupuesto y Tesorería transferirá, en un plazo no mayor a diez días naturales, los ingresos a que se refiere el artículo anterior y tenga en su posesión, a la cuenta patrimonial del Fondo de Apoyo e informará de ello a la Secretaría Técnica y al Comité.
 
-#### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 888.
 
@@ -11389,7 +11457,7 @@ III. El sistema de registro y control de los recursos ajenos; y
 
 IV. Las demás que se establezcan en las disposiciones legales aplicables y en los acuerdos que emitan el Consejo y el Comité.
 
-#### SECCIÓN TERCERA. MEDIDAS DE CONTROL PARA EL ACCESO DE SERVIDORES PÚBLICOS Y VISITANTES
+#### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
 
 > <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -11467,7 +11535,9 @@ La devolución de cantidades o valores que deban ser reintegrados al depositante
 
 Se procurará que los billetes, certificados o instrumentos de depósito se puedan hacer efectivos en cualquier sucursal del país de la institución depositaria, previa orden de pago de la autoridad judicial competente.
 
-#### SECCIÓN CUARTA. INSTALACIONES
+#### SECCIÓN TERCERA. MEDIDAS DE CONTROL PARA EL ACCESO DE SERVIDORES PÚBLICOS Y VISITANTES
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
 ###### Artículo 901.
 
@@ -11495,7 +11565,7 @@ La institución depositaria debe informar a la secretaría técnica del Fondo, p
 
 Los informes de la institución depositaria deberán rendirse de forma que permitan la conciliación oportuna, completa y precisa de los ingresos, egresos y rendimientos. En caso de inconsistencias en los estados de cuenta, la secretaría técnica del Fondo de Apoyo deberá promover las aclaraciones correspondientes en un término no mayor de treinta días posteriores a que tenga conocimiento de ellas.
 
-#### SECCIÓN QUINTA. SERVICIO DE SEGURIDAD Y VIGILANCIA
+#### SECCIÓN CUARTA. INSTALACIONES
 
 ###### Artículo 907.
 
@@ -11513,7 +11583,7 @@ En todo caso, se debe considerar que los recursos disponibles del Fondo de Apoyo
 
 Las percepciones del secretario técnico y las del personal que se designe para auxiliar en las actividades del Fondo de Apoyo, se cubrirán directamente de los recursos disponibles del Fondo de Apoyo, en los términos previstos en el artículo 249, fracción I, de la Ley Orgánica.
 
-#### SECCIÓN SEXTA. BIENES
+#### SECCIÓN QUINTA. SERVICIO DE SEGURIDAD Y VIGILANCIA
 
 ###### Artículo 911.
 
@@ -11523,7 +11593,7 @@ La Secretaría Técnica enviará en forma trimestral a la entidad de fiscalizaci
 
 La información que se genere con motivo de la administración y operación del Fondo de Apoyo, se regirá por lo dispuesto en las normas que en materia de transparencia tiene establecidas el Consejo.
 
-#### SECCIÓN PRIMERA. DEROGADA
+#### SECCIÓN SEXTA. BIENES
 
 ###### Artículo 913.
 
@@ -11567,7 +11637,7 @@ La Dirección General de Comunicación Social y Vocería deberá presentar al Pl
 
 ### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
 
-#### SECCIÓN SEGUNDA. DEROGADA
+#### SECCIÓN PRIMERA. DEROGADA
 
 ###### Artículo 918.
 
@@ -11597,7 +11667,7 @@ Todas las instalaciones deberán contar con un análisis de riesgo.
 
 En las instalaciones, la Administración de Inmuebles deberá colocar en lugar visible, las medidas de acceso, estancia y salida de las mismas, con el propósito de orientar a servidores públicos y visitantes, así como transparentar las mismas.
 
-#### SECCIÓN TERCERA. DEROGADA
+#### SECCIÓN SEGUNDA. DEROGADA
 
 ###### Artículo 922.
 
@@ -11643,7 +11713,7 @@ II. Gestionar y proveer los servicios de mantenimiento para la correcta operaci�
 
 La Coordinación de Seguridad atenderá los requerimientos que en materia de seguridad le soliciten las áreas administrativas, órganos jurisdiccionales y servidores públicos y, en su caso, atenderá en forma oportuna a las llamadas urgentes que se reciban en esta materia.
 
-#### SECCIÓN CUARTA. DEROGADA
+#### SECCIÓN TERCERA. DEROGADA
 
 ###### Artículo 927.
 
@@ -11717,7 +11787,7 @@ En la aplicación de los acuerdos generales y demás disposiciones del Consejo r
 
 El ingreso y estancia de periodistas y medios de comunicación en las instalaciones, requerirá la previa autorización de la Dirección General de Comunicación Social y Vocería o del Administrador del Centro de Justicia Penal quienes, en todo caso, deberán dar aviso a la Coordinación de Seguridad a efecto de que se apliquen los protocolos o manuales correspondientes.
 
-#### SECCIÓN QUINTA. DEROGADA
+#### SECCIÓN CUARTA. DEROGADA
 
 ###### Artículo 934.
 
@@ -11741,7 +11811,7 @@ La información que se genere por el uso de los equipos mencionados en el artíc
 
 El manejo, resguardo y entrega de la información generada por dichos sistemas, se regulará por los manuales, procedimientos y sistemas establecidos por la Coordinación de Seguridad, en ellos se privilegiará en todo momento la protección de los datos personales, con las excepciones que las leyes determinen. El mal uso de dicha información quedará bajo la responsabilidad de quien la controle y divulgue.
 
-#### SECCIÓN SEXTA. DEROGADA
+#### SECCIÓN QUINTA. DEROGADA
 
 ###### Artículo 938.
 
@@ -11751,7 +11821,7 @@ Asimismo, y a través del personal de seguridad, evaluará la prestación de los
 
 La administración de Inmuebles deberá reportar al área de contratación de que se trate, cualquier situación que contravenga las obligaciones contractuales.
 
-#### SECCIÓN SÉPTIMA. DEROGADA
+#### SECCIÓN SEXTA. DEROGADA
 
 ###### Artículo 939.
 
@@ -12781,13 +12851,13 @@ Derogado.
 
 ## TÍTULO SEGUNDO. DE LOS PREMIOS, PRESTACIONES Y LICENCIAS
 
-#### SECCIÓN OCTAVA. DEROGADA
+#### SECCIÓN SÉPTIMA. DEROGADA
 
 ###### Artículo 74.
 
 Derogado.
 
-#### SECCIÓN SÉPTIMA. DEROGADA
+#### SECCIÓN OCTAVA. DEROGADA
 
 ###### Artículo 75.
 
@@ -13356,3 +13426,11 @@ D.O.F. 21 DE JULIO DE 2020.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
