@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2020-07-09"
+last_updated: "2020-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -123,6 +123,14 @@ VI. Mascota: animales domésticos o silvestres destinados a la compañía del se
 
 VII. Maltrato: todo acto u omisión que ocasione dolor o sufrimiento innecesario, que afecte el bienestar animal, ponga en peligro la vida o afecte gravemente la salud, así como la sobreexplotación de su trabajo;
 
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+VII Bis. Padrón de animales comunitarios: son los animales en situación de calle que se encuentran inscritos;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+VII Ter. Programa animal comunitario (PAC): es el procedimiento que se compone por las acciones de atrapa, esteriliza y regresa; consiste en brindar cuidados como atención médica, esterilización, vacunación, alimentación y desparasitación entre otros. Así como un monitoreo constante a animales en situación de calle que se encuentren o vayan a registrarse en el Padrón de Animales Comunitarios;
+
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
 
 VIII. Protección a los animales: todas aquellas acciones encaminadas a brindarles un aceptable estado de salud física y psicológica
@@ -162,6 +170,10 @@ Asimismo, la protección a las mascotas deberá lograrse mediante programas educ
 ###### ARTICULO 7o.
 
 Las personas físicas y morales, que tengan bajo su cuidado animales domésticos o silvestres, deberán observar las normas aplicables en materia de sanidad animal.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 7o BIS.- El protector de los animales comunitarios deberá registrarlos, para así protegerlos y evitar que sean capturados por cualquier persona y/o institución. Incluso promover su acogimiento.
 
 ###### ARTICULO 8o.
 
@@ -749,17 +761,21 @@ X.- Resolver por medio del síndico municipal los recursos de reconsideración q
 
 XI.- Cooperar con la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos del Estado en el establecimiento de reservas de la fauna propia del municipio;
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
 
-XII.- Difundir por todos los medios posibles, en coordinación con otras dependencias, las disposiciones tendientes a la protección de los animales, así como, fomentar la cultura de la adopción, y
+XII.- Difundir por todos los medios posibles, en coordinación con otras dependencias, las disposiciones tendientes a la protección de los animales, así como, fomentar la cultura de la adopción;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
 
-XIII.- Expedir licencias de funcionamiento de farmacias, clínicas y hospitales veterinarios; lugares destinados a la crianza y venta de perros, gatos y otras mascotas, que incluya aquéllas no convencionales; lugares en que únicamente se comercialicen; albergues; estéticas y lugares de entrenamiento; siempre y cuando quien lo solicite exhiba cédula profesional que lo acredite como médico veterinario zootecnista; con base en el cumplimiento de las disposiciones de este Ordenamiento y de las normas de calidad en materia de protección animal. Debiendo llevar un registro detallado y actualizado de dichos establecimientos, de las sociedades protectoras de animales, y de los médicos responsables de éstos. Para el caso de venta y comercialización deberá garantizarse que los perros, gatos y otras mascotas, incluyendo a las no convencionales, en ningún momento sean menores a las ocho semanas de edad.
+XIII.- Expedir licencias de funcionamiento de farmacias, clínicas y hospitales veterinarios; lugares destinados a la crianza y venta de perros, gatos y otras mascotas, que incluya aquéllas no convencionales; lugares en que únicamente se comercialicen; albergues; estéticas y lugares de entrenamiento; siempre y cuando quien lo solicite exhiba cédula profesional que lo acredite como médico veterinario zootecnista; con base en el cumplimiento de las disposiciones de este Ordenamiento y de las normas de calidad en materia de protección animal. Debiendo llevar un registro detallado y actualizado de dichos establecimientos, de las sociedades protectoras de animales, y de los médicos responsables de éstos. Para el caso de venta y comercialización deberá garantizarse que los perros, gatos y otras mascotas, incluyendo a las no convencionales, en ningún momento sean menores a las ocho semanas de edad, y
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 La licencia de funcionamiento de establecimientos únicamente destinados a la estética animal, deberá especificar que en dicho lugar no se realizarán actividades de medicina veterinaria.
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+XIV.- Vigilar que los albergues para refugio y adopción animal cumplan con los preceptos de esta Ley, contar con licencia vigente, y que cumplan lo dispuesto en materia de bienestar animal.
 
 ###### ARTICULO 71.
 
@@ -922,6 +938,10 @@ Se sancionará con el equivalente de tres mil a seis mil días de la Unidad de M
 ###### ARTICULO 85.
 
 Las sanciones que se lleguen a aplicar con motivo de esta Ley, serán exclusivamente pecuniarias e independientes de las sanciones penales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2020)</small>
+
+De los ingresos obtenidos por los conceptos de multas contemplados en la presente Ley, los ayuntamientos, con base en su suficiencia presupuestal deberán destinar recursos a instituciones públicas y privadas que establezcan albergues para refugio y adopción de animales, de conformidad con las disposiciones aplicables.
 
 ### Capítulo Tercero.
 
@@ -1180,5 +1200,21 @@ P.O. 9 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0713.- SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 3°, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0788.- SE REFORMA EL ARTÍCULO 70 EN SUS FRACCIONES XII Y XIII; Y ADICIONA A LOS ARTÍCULOS 70 LA FRACCIÓN XIV Y 85 EL PÁRRAFO SEGUNDO, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis Potosí".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0789.- SE ADICIONA AL ARTÍCULO 3° LAS FRACCIONES VII BIS Y VII TER Y EL ARTÍCULO 7° BIS, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
