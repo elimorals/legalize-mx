@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2019-08-31"
+last_updated: "2020-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1450,6 +1450,28 @@ Propiciar la formación, proyección e integración social de las y los educando
 ###### ARTÍCULO 62.
 
 La Autoridad Educativa Estatal fomentará la investigación en la educación física y en la educación artística, con el fin de responder a las necesidades planteadas por la dinámica social.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 62 BIS.- La educación física promoverá, fomentará y difundirá la cultura física en todas sus manifestaciones, a favor de la formación integral y con calidad, de todos los escolares de la educación básica, para lo cual:
+
+I. Estimulará la competencia motriz, la alfabetización física, el ejercicio físico y las disciplinas deportivas y de recreación en las instituciones de educación básica, así como su práctica recomendablemente:
+
+a) En educación preescolar, 30 minutos diarios semanalmente.
+
+b) En educación primaria, secundaria y media superior, una hora diaria semanalmente.
+
+II. Procurará la salud y el bienestar físico de los educandos, a través de la construcción de estilos de vida saludables fundamentalmente activos.
+
+III. Promoverá actitudes responsables que propicien la recuperación del tejido social, a través del rechazo de las adicciones y se prevengan conductas delictivas.
+
+IV. Desarrollará la competencia motriz, estimulando la dimensión psicomotora de los educandos, conjuntamente con los dominios cognitivo y social - afectivo.
+
+V. Fomentará a través de la educación física, la alfabetización física de los escolares para desarrollar una verdadera cultura física para contribuir de manera importante a la reducción de enfermedades relacionadas con el síndrome metabólico como son: el sobrepeso y la obesidad, la hipertensión, la diabetes mellitus, las enfermedades cardiacas, y algunas formas de cáncer y depresión, mediante la práctica adecuada de formas permanentes de actividad física para lograr una mejor calidad de vida de las personas y de la sociedad en lo general.
+
+VI. Impulsará el desarrollo de una cultura por la paz, para la prevención de la dignidad humana y de fraternidad con las personas y con los pueblos, mediante programas que promuevan cooperación e intercambios regionales, nacionales e internacionales.
+
+VII. Las demás que establezcan esta Ley, así como las leyes y disposiciones conducentes, en los términos autorizados por los planes y los programas de estudios aplicables.
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
@@ -4400,3 +4422,15 @@ P.O. 31 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0779/2020 I P.O., POR EL QUE SE ADICIONA UN ARTÍCULO 62 BIS A LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, las instancias responsables se sujetarán a las previsiones presupuestarias en recursos humanos y financieros disponibles, exclusivamente.
