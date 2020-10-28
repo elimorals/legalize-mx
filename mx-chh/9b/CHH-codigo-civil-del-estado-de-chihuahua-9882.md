@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2020-10-10"
+last_updated: "2020-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -7611,6 +7611,10 @@ El Juez, oyendo a las partes, resolverá lo que proceda, acorde a la buena fe y 
 
 1691-E.- Sólo se considerarán como acontecimientos extraordinarios aquellos eventos imprevisibles de carácter general, que producen alteraciones inicuas en lo pactado por las partes, tales como las circunstancias que alteran la situación económica nacional, estatal o regional u otras análogas, de tal manera que de haberlas conocido los contratantes, no habrían pactado en la forma y términos en que lo hicieron o no hubieran contratado.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+Tratándose de epidemias de carácter grave, cuando sean reconocidas por la autoridad sanitaria federal, o estatal competentes, se estará a lo dispuesto por el numeral 2330 y demás disposiciones aplicables del presente Código.
+
 > <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
 
 1691-F.- Para poder ejercitar cualquiera de las acciones previstas en el artículo 1691-b, el obligado deberá estar cumpliendo conforme a lo pactado hasta antes del acontecimiento inusitado.
@@ -9796,6 +9800,14 @@ III.- A servirse de la cosa solamente para el uso convenido conforme a la natura
 2329.- Si el precio del arrendamiento debiere pagarse en frutos, y el arrendatario no los entregare en el tiempo debido, está obligado a pagar en dinero el mayor precio que tuvieren los frutos dentro del tiempo convenido.
 
 2330.- Si por caso fortuito o fuerza mayor se impide totalmente al arrendatario el uso de la cosa arrendada, no se causará renta mientras dure el impedimento, y si éste dura más de dos meses podrá pedir la rescisión del contrato.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+Si el impedimento para el uso de la cosa arrendada es con motivo de epidemia grave reconocida por la autoridad sanitaria federal, o estatal competentes, será aplicable lo dispuesto en los artículos 1691-a, al 1691-g, del presente Código. En este caso, las partes podrán acordar los términos de la rescisión o las modificaciones del contrato bajo los principios de equidad y buena fe, atendiendo a las circunstancias extraordinarias durante el periodo que permanezcan vigentes, o acudir ante la autoridad jurisdiccional competente, quien deberá ponderar los principios y circunstancias antes mencionadas.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+En el caso del arrendamiento, cuando se trate de aquellas causas derivadas de epidemias de carácter grave reconocidas por la autoridad sanitaria competente, que impidan o modifiquen las condiciones del uso total o parcial de la cosa arrendada, conforme a lo previsto en este artículo, y demás relativos del presente Código, se considerará que no se incurre en mora en el pago de rentas, durante todo el tiempo que permanezcan vigentes las medidas derivadas de la contingencia sanitaria.
 
 2331.- Si sólo se impide en parte el uso de la cosa, podrá el arrendatario pedir la reducción parcial de la renta, a juicio de peritos, a no ser que las partes opten por la rescisión del contrato, si el impedimento dura el tiempo fijado en el artículo anterior.
 
@@ -13280,3 +13292,27 @@ La Secretaría General de Gobierno, a través de la Dirección del Registro Civi
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFCOD/0780/2020 I P.O., POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del presente Decreto, la autoridad judicial que conozca aquellos asuntos en que se pretenda la desocupación de inmuebles por falta de pago de rentas de dos o más mensualidades en los términos de las disposiciones aplicables, se considerará previamente, la equidad y buena fe en beneficio de las partes involucradas, según los principios derivados del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Las personas físicas y/o morales que cuenten con instrumentos contractuales de arrendamiento vigentes durante el presente año 2020, deberán acordar las modificaciones de las formas y modalidades de la ejecución de los mismos, con efectos retroactivos a partir del día 23 de marzo del mismo año, para con ello restablecer las condiciones de equidad bajo las condiciones socioeconómicas actuales, mientras y hasta en tanto no se restablezca la normalidad o se decrete por las vías legalmente competentes, el fin de la emergencia señalada en el Acuerdo publicado ese mismo día en el Diario Oficial de la Federación, mediante el cual se reconoce la epidemia de enfermedad por el virus SARS-CoV2 (COVID-19) en México, como una enfermedad grave de atención prioritaria, así como se establecen las actividades de preparación y respuesta ante dicha epidemia. El reconocimiento de restablecimiento a la referida normalidad, será válido igualmente si lo emite la autoridad estatal competente.
+
+###### ARTÍCULO CUARTO.
+
+Para lo previsto en el artículo que antecede, en todo momento, los sujetos obligados, podrán acudir a los centros de Justicia Alternativa previstos en la Ley de Justicia Alternativa del Estado de Chihuahua, para los efectos de asesoría y facilitación de controversias relativas a su relación contractual en los términos previstos en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Además de la publicación prevista en el Artículo Primero Transitorio del presente Decreto, se dará la difusión adicional debida al contenido y efectos derivados del presente Decreto, por los medios de comunicación tanto públicos como privados disponibles, vías informáticas, plataformas digitales y demás posibles, en particular a la industria restaurantera, micro y pequeña empresa, y de servicios en general, para los efectos de su mejor incidencia y así contribuir a la recuperación económica de la Entidad.
