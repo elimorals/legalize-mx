@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2020-10-22"
+last_updated: "2020-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -1849,7 +1849,7 @@ VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo y otras rickettsi
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
 
-VIII. Sífilis, infecciones gonocóccicas (sic), virus del papiloma humano y otrasinfecciones (sic) de transmisión sexual;
+VIII.- Sífilis, infecciones gonocóccicas (sic), virus del papiloma humano y otrasinfecciones (sic) de transmisión sexual;
 
 IX.- Lepra y mal del pinto;
 
@@ -1861,7 +1861,13 @@ XII.- Toxoplasmosis;
 
 XIII.- Infección de VIH, síndrome de inmunodeficiencia adquirida (SIDA); y
 
-XIV.- Las demás que determinen el Consejo de Salubridad General y los Tratados y Convenciones Internacionales en los que los Estados Unidos Mexicanos sea parte.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2020)</small>
+
+XIV.- Tripanosomiasis americana o Tripasoma cruzi, transmitido principalmente por insectos triatomios y hematófagos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2020)</small>
+
+XV.- Las demás que determinen el Consejo de Salubridad General y los Tratados y Convenciones Internacionales en los que los Estados Unidos Mexicanos sea parte.
 
 ###### Artículo 128.
 
@@ -1972,6 +1978,10 @@ II. Cubrir los recipientes o contenedores utilizados para almacenar agua para el
 III. Drenar las aguas estancadas en patios, jardines y todo espacio del inmueble, así como limpiar los canales de techo, cunetas y de desagüe, y
 
 IV. Permitir el ingreso a sus viviendas a los verificadores sanitarios acreditados.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+V. Tirar o eliminar los muebles inservibles, escombro o cascajo, así como evitar almacenar madera o sus derivados, con el fin de evitar el alojamiento de vectores.
 
 ###### Artículo 133.
 
@@ -4752,3 +4762,13 @@ PRIMERO.- Aprobado que sea el presente Decreto, remítase al Titular del Poder E
 SEGUNDO.- El presente Decreto iniciará su vigencia a partir de los sesenta días naturales siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERO.- Las autoridades sanitarias en el Estado, el Gobernador del Estado, el Secretario de Salud, el Organismo público descentralizado denominado "Servicios de Salud de Morelos", los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de vigencia otorgado en el transitorio segundo, deberán actualizar sus disposiciones, lineamientos y/o reglamentos internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
+
+P.O. 28 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS VEINTINUEVE.- QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 127, ASIMISMO ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 127 Y ADICIONA LA FRACCIÓN V DEL ARTÍCULO 132 TER TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia a partir de los sesenta días naturales siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del gobierno del estado de Morelos.
+
+TERCERO: Las autoridades sanitarias en el Estado, el Gobernador del Estado, el Secretario de Salud, el Organismo público descentralizado denominado “Servicios de Salud de Morelos”, los H. Ayuntamientos, en el ámbito de su respectiva competencia, dentro del plazo de vigencia otorgado en el transitorio segundo, deberán actualizar sus disposiciones, lineamientos y/o reglamentos internos necesarios de acuerdo a la reforma aplicada a la Ley de Salud del Estado de Morelos.
