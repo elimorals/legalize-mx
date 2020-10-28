@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-110092"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-25"
-last_updated: "2020-10-12"
+last_updated: "2020-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
 
 Ley publicada en la Décima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2015.
 
@@ -767,9 +767,17 @@ Las recomendaciones deberán ser atendidas en el término de diez días hábiles
 
 Dicha prórroga no podrá exceder de cinco días hábiles. La solicitud de prórroga deberá presentarse dentro del plazo señalado para la atención de las recomendaciones.
 
-Una vez que se acredite el debido cumplimiento de la totalidad de las recomendaciones, o bien, el sujeto fiscalizado justifique su improcedencia o las razones por las cuales no resulta factible su implementación, la Auditoría Superior expedirá la constancia de que se han afendido (sic) dichas recomendaciones, para los efectos a que haya lugar en los ámbitos de competencia del sujeto fiscalizado y de la propia Auditoría Superior y ésta notificará al Congreso cuando expida la referida constancia.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2020)</small>
 
-La expedición de la constancia prevista en el párrafo anterior, no exime a la Auditoría Superior para promover y dar seguimiento a las responsabilidades a que hubiere lugar con motivo del acuerdo correspondiente.
+Una vez precisadas las mejoras realizadas y acciones emprendidas que acrediten el debido cumplimiento de la totalidad de las recomendaciones, o bien, el sujeto fiscalizado justifique su improcedencia o las razones por las cuales no resulta factible su implementación, la Auditoría Superior expedirá la constancia respectiva.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+La constancia señalada en el párrafo anterior deberá contener el análisis que derivó en la determinación de cualquiera de las conclusiones referidas en el párrafo anterior. Una vez expedida la referida constancia se notificará al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+La expedición de la constancia aludida en el presente artículo no exime a la Auditoría Superior para promover y dar seguimiento a las responsabilidades a que hubiere lugar con motivo del acuerdo correspondiente.
 
 ###### Artículo 67.
 
@@ -825,13 +833,59 @@ Presentación de denuncias
 
 Cuando durante el proceso de la auditoría se detecten elementos que acrediten algún ilícito penal, la Auditoría Superior promoverá para que los sujetos de fiscalización presenten las denuncias penales ante las instancias correspondientes.
 
-### Capítulo XII. Medidas de Apremio
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+### Capítulo XII. Informes al Congreso
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+Informes de gestión y labores
+
+###### Artículo 74 Bis.
+
+Los informes semestrales de gestión que rinda el Auditor Superior, previstos en la fracción XXVII del artículo 87 de la presente Ley, deberán considerar como mínimo:
+
+I. Los avances y el estatus de los actos de fiscalización, especificando, además, el estado de las observaciones y acciones promovidas;
+
+II. Las acciones de seguimiento y atención a recomendaciones, especificando aquellas que se atendieron y las que prevalecen;
+
+III. Las estadísticas y avances respecto de la siguiente información:
+
+a) El estado de los procedimientos de responsabilidad administrativa instaurados, las resoluciones firmes y el sentido de estas, así como el señalamiento de aquellas observaciones en las que no se encontraron elementos suficientes para demostrar la existencia de infracción, en términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato;
+
+b) El estado de los créditos fiscales derivados de sanciones administrativas;
+
+c) El estado de los procedimientos de responsabilidad civil, las resoluciones firmes y el sentido de estas, indicando en su caso, la cuantía recuperada y gastos y costas; y
+
+d) La situación que guardan las denuncias o querellas penales presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia, así como en su caso, la sanción impuesta derivada de sentencia ejecutoria;
+
+IV. El número y los avances respecto a las denuncias de investigación de situación excepcional presentadas y su estatus;
+
+V. Las multas impuestas, los montos y los cobros efectuados;
+
+VI. Las asesorías técnicas proporcionadas, los análisis y las propuestas de reformas o adiciones al marco normativo estatal en materia de transparencia, fiscalización y gestión financiera presentados, así como las capacitaciones impartidas; y
+
+VII. Las demás actividades institucionales llevadas a cabo en el periodo correspondiente.
+
+El informe del primer semestre se presentará dentro de los treinta días posteriores a su conclusión; y el correspondiente al segundo semestre se integrará al informe anual de labores a que alude el artículo 86 de la presente Ley.
+
+El informe anual de labores deberá especificar un apartado por cada semestre, presentando las conclusiones de manera integrada.
+
+Los informes a que se refiere este artículo deberán difundirse en la página de internet de la Auditoría Superior.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)</small>
+
+Información de seguimiento
+
+###### Artículo 74 Ter.
+
+La Auditoría Superior deberá solicitar la información suficiente que le permita rendir aquella señalada en el artículo 74 Bis de la presente Ley.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XII] P.O. 28 DE OCTUBRE DE 2020)
+
+### Capítulo XIII. Medidas de Apremio
 
 Medidas de apremio
-
-### Capítulo I. De sus atribuciones de la Auditoría Superior
-
-Atribuciones
 
 ###### Artículo 75.
 
@@ -901,7 +955,7 @@ La aplicación de las multas establecidas en la presente ley, no exceptúa a los
 
 ## TÍTULO TERCERO. ATRIBUCIONES Y ORGANIZACIÓN DE LA AUDITORÍA SUPERIOR
 
-### Capítulo II. Auditor Superior
+### Capítulo I. De sus atribuciones de la Auditoría Superior
 
 Atribuciones
 
@@ -1009,9 +1063,9 @@ Informe anual de labores
 
 La Auditoría Superior rendirá al Órgano de Gobierno en el primer bimestre del año, un informe anual sobre todas sus labores y actividades institucionales efectuadas durante el año inmediato anterior.
 
-### Capítulo III. Organización
+### Capítulo II. Auditor Superior
 
-Estructura
+Atribuciones
 
 ###### Artículo 87.
 
@@ -1173,6 +1227,10 @@ IV. Conducirse con parcialidad en los procedimientos de fiscalización, así com
 
 V. Incurrir en abandono del cargo en los términos del artículo 93 de esta ley.
 
+### Capítulo III. Organización
+
+Estructura
+
 ###### Artículo 96.
 
 El Auditor Superior para el eficaz desempeño de sus funciones será auxiliado por dos auditores especiales: de Cumplimiento Financiero, y de Evaluación y Desempeño, respectivamente; una Dirección General de Asuntos Jurídicos y la Dirección General de Administración, así como las demás unidades administrativas que establezca el reglamento interior.
@@ -1306,3 +1364,13 @@ P.O. 12 DE OCTUBRE DE 2020.
 Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. La Auditoría Superior del estado de Guanajuato deberá adecuar su Reglamento Interior, así como sus manuales, lineamientos, guías y demás disposiciones administrativas al contenido del presente Decreto en un término de 90 días naturales, contado a partir de su entrada en vigor.
+
+P.O. 28 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 235 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO Y DEL REGLAMENTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La Auditoría Superior del estado de Guanajuato deberá adecuar su Reglamento Interior, así como sus manuales, lineamientos, guías y demás disposiciones administrativas al contenido del presente Decreto en un término de 90 días naturales, contado a partir de su entrada en vigor.
+
+Artículo Tercero. Las disposiciones previstas en el artículo 74 Bis de la Ley de Fiscalización Superior del Estado de Guanajuato que refieren a las responsabilidades civiles estarán vigentes hasta en tanto concluyan los procesos correspondientes.
