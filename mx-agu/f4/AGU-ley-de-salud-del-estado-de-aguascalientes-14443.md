@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2020-10-26"
+last_updated: "2020-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "AGU"
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE OCTUBRE DE 2020.]</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -417,17 +419,21 @@ e).- El control sanitario de los establecimientos dedicados al proceso de los pr
 
 f).- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere la Ley General de Salud;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE OCTUBRE DE 2020)</small>
+(REFORMADO, P.O. 29 DE MAYO DE 2020) (F. DE E., P.O. 28 DE OCTUBRE DE 2020)
 
 g).- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE OCTUBRE DE 2020)</small>
+(REFORMADO, P.O. 12 DE OCTUBRE DE 2020) (F. DE E., P.O. 28 DE OCTUBRE DE 2020)
 
-h).- La sanidad internacional; y
+h).- La sanidad internacional;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE OCTUBRE DE 2020)</small>
+(REFORMADO, P.O. 12 DE OCTUBRE DE 2020) (F. DE E., P.O. 28 DE OCTUBRE DE 2020)
 
-i).- Alinear los programas estatales con la política pública en materia de atención y protección a personas con la condición del espectro autista, y alcanzar una efectiva transversalidad de las políticas públicas; en términos de la Ley General para la Atención y Protección a Personas con la Condición de Espectro Autista;
+i).- La prestación de los servicios de salud, medicamentos y demás insumos asociados para personas sin seguridad social; y
+
+(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020) (F. DE E., P.O. 28 DE OCTUBRE DE 2020)
+
+j).- Alinear los programas estatales con la política pública en materia de atención y protección a personas con la condición del espectro autista, y alcanzar una efectiva transversalidad de las políticas públicas; en términos de la Ley General para la Atención y Protección a Personas con la Condición de Espectro Autista;
 
 IV.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general siguientes:
 
