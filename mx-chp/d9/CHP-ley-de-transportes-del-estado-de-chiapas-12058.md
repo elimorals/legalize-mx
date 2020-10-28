@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transportes-del-estado-de-chiapas-12058"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2017-07-05"
+last_updated: "2020-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE TRANSPORTES DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 28 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPORTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 24 de junio de 1998.
 
@@ -1132,3 +1134,35 @@ Artículo Primero.- El presente Decreto entrará en Vigor al día siguiente de s
 Artículo Segundo.- El titular de la Secretaría de Transportes, en el ámbito de su competencia, realizará las acciones necesarias para el debido cumplimento del presente Decreto.
 
 Artículo Tercero.- El Titular de la Secretaría de Transportes deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones correspondientes en el marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 014 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Transportes del Estado de Chiapas, publicada mediante Decreto número 293, en el Periódico Oficial número 36, de fecha 24 de junio de 1998.
+
+Artículo Cuarto.- Se concede un plazo de 60 días hábiles a partir de la entrada en vigor de la presente Ley, para que quienes hayan presentado solicitud de concesión la ratifiquen ante la Secretaría, satisfaciendo los requisitos establecidos por esta Ley.
+
+Transcurrido este plazo, las solicitudes que no se ratifiquen se tendrán por no presentadas, procediéndose a la cancelación y destrucción de los expedientes conforme a lo establecido en la Ley de la materia.
+
+La Secretaría analizará las solicitudes que hayan sido ratificadas y comunicará el resultado a los interesados en un término de sesenta días hábiles contados a partir de la fecha de ratificación.
+
+Artículo Quinto.- Los convenios que los transportistas hubieren establecido entre sí o con la participación de fedatarios públicos o con dependencias de la administración pública de los tres órdenes de gobierno, se sujetarán a revisión de la Secretaría, teniendo los interesados un plazo de 60 días hábiles, a partir de la entrada en vigor de la presente Ley, para presentarse y entregar los convenios referidos, a efecto de analizar si su contenido se ajusta al interés público y contribuye a la estabilidad política y social del estado, y en su caso se proceda a su regularización con apego a la presente Ley y su Reglamento.
+
+Artículo Sexto.- La Secretaría llevará a cabo las acciones necesarias para la instalación del Comité Consultivo en Materia de Transporte Público, en cumplimiento a las disposiciones de la presente Ley. En tanto se instala el nuevo Comité Consultivo en Materia de Transporte Público, el Comité en funciones continuará operando únicamente para el proceso de concesión, con base en las Reglas de Operación que para tales efectos emita la Secretaría.
+
+Artículo Séptimo.- La Secretaría instrumentará un programa de sustitución de los títulos de concesiones existentes con el objeto de actualizar el registro y el control de las unidades con base en las disposiciones de esta Ley y el Reglamento. Los concesionarios deberán acudir a las oficinas autorizadas de la Secretaría a realizar el trámite.
+
+Artículo Octavo.- En los municipios en los que a la fecha de publicación de la presente Ley existan vehículos denominados mototaxis prestando el servicio público de pasajeros, la Secretaría con base en el estudio técnico de factibilidad concederá permisos para su circulación exclusivamente a aquellos que se encuentren operando con una antigüedad mínima de tres años y cumplan los requisitos señalados en esta Ley y demás ordenamientos aplicables.
+
+Cuando la vida útil del mototaxi concluya, la Secretaría, preservando el derecho del permisionario, podrá sustituir el permiso otorgado por un permiso de ecotaxi. Los permisionarios deberán sujetarse a las disposiciones establecidas para la modalidad especial tipo ecotaxi y las que determinen la Ley, el Reglamento y demás normas aplicables.
+
+No se otorgarán permisos a quienes no cumplan con los supuestos establecidos en el primer párrafo del presente artículo. Queda prohibida la operación de este servicio en las localidades o cabeceras municipales en donde, a la entrada en vigor de esta Ley, no exista.
+
+Artículo Noveno.- El Secretario deberá someter a consideración y aprobación del Titular del Ejecutivo del Estado, el proyecto del Reglamento de la presente Ley, en un plazo no mayor a noventa días hábiles siguientes a la publicación de la misma.
+
+Artículo Décimo.- El Secretario expedirá una medida de carácter general, en el momento oportuno y cuando las condiciones sociales y económicas del Estado lo permitan, a través de la cual se iniciará la recepción de solicitudes de personas morales interesadas en prestar el servicio público de transporte a través de plataformas tecnológicas, a fin de que obtengan la autorización correspondiente y puedan operar en el territorio (sic) la Entidad.
