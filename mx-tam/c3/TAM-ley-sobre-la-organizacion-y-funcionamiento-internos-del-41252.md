@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2020-06-16"
+last_updated: "2020-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -443,9 +443,9 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 1. En caso de ausencia temporal o definitiva del presidente de la Junta de Coordinación Política, el grupo parlamentario al cual pertenezca informará de inmediato al presidente de la Mesa Directiva y a la propia Junta, el nombre del diputado que lo sustituirá.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2020)</small>
 
-2. Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de los diputados de las representaciones partidistas que se declaren diputados sin partido, dejaran de formar parte de la Junta de Coordinación Política.
+2. Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de los diputados de las representaciones partidistas que se declaren diputados sin partido, podrán también participar ante el órgano, únicamente con voz, previo acuerdo que emita la propia Junta de Coordinación Política.
 
 ###### ARTICULO 31.
 
@@ -3374,3 +3374,11 @@ P.O. 16 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición, y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-206 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 30, PÁRRAFO 2 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
