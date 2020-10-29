@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salvaguarda-del-patrimonio-urbanistico-16125"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2017-01-12"
+last_updated: "2020-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16125&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-03-14"
 ---
 # LEY DE SALVAGUARDA DEL PATRIMONIO URBANISTICO ARQUITECTONICO DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA LA LEY DE SALVAGUARDA DEL PATRIMONIO URBANISTICO ARQUITECTONICO DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE PATRIMONIO CULTURAL, NATURAL Y BIOCULTURAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 29 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SALVAGUARDA DEL PATRIMONIO URBANÍSTICO ARQUITECTÓNICO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de abril de 2000.
 
@@ -1311,3 +1313,51 @@ G.O. 12 DE ENERO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 29 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE SALVAGUARDA DEL PATRIMONIO URBANISTICO ARQUITECTONICO DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE PATRIMONIO CULTURAL, NATURAL Y BIOCULTURAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y para mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto se derogan todas las normas que contravengan las disposiciones contenidas en la presente Ley.
+
+CUARTO. La Jefatura de Gobierno, deberá expedir en un término de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto, el Reglamento de esta Ley.
+
+QUINTO. La Comisión Interinstitucional, se instalará a más tardar a los noventa días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+SEXTO. Para la conformación del Consejo Social, la Secretaría emitirá la convocatoria a más tardar a los noventa días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. La persona titular de la Jefatura de Gobierno incluirá en el proyecto de presupuesto de egresos para el ejercicio fiscal 2022, el monto total de recursos que se destinarán para el Fondo del Cuidado del Patrimonio.
+
+OCTAVO. La persona titular de la Secretaría de Cultura deberá incluir en su proyecto de presupuesto que para tal efecto envíe a la jefatura de Gobierno, los recursos necesarios para la operación de la Comisión de la Memoria Histórica de la Ciudad.
+
+NOVENO. Las declaratorias emitidas por el Gobierno de la Ciudad de México previas a la publicación de esta Ley, conservarán su valor y no perderán su efecto, y su registro será incorporado a la Plataforma Digital del Patrimonio Cultural, Natural y Biocultural de la Ciudad de México, prevista en la presente Ley.
+
+DÉCIMO. Serán consideradas zonas y/o espacios afectos al Patrimonio Cultural Urbano, para su salvaguardia, registro, catalogación y difusión en la Plataforma Digital, conforme lo establecido en esta ley y demás normatividad aplicable, los reconocidos por la Ley de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal, que se enlistan a continuación:
+
+a) Colonias: Juárez, Santa María la Ribera, Roma, Hipódromo, Condesa, Pedregal, Las Lomas;
+
+b) Centros Históricos: Santa Fe, Cuajimalpa, Mixcoac, Tacubaya, San Bartolo Ameyalco, Santa Rosa Xochiac, Mexicalzingo;
+
+c) Calles: Arcos de Belén-Chapultepec, Florencia, Palmas, Vértiz, Campeche, División del Norte, Cumbres de Maltrata;
+
+d) Jardines: Jardín centenario;
+
+e) Panteones: Jardín, de los Remedios, de San Lorenzo Tezonco, Civil de Dolores. Francés de la Piedad, Español, San José, Xoco, El Calvario, San Isidro, Santa Lucía, Santa Apolonia, Monte Sinaí, Israelita, Pueblo de Atzacoalco "Pueblo Antiguo";
+
+f) Parques Urbanos: Chapultepec, Alameda Central, Alameda de Santa María, Felipe Xicoténcatl, Miguel Alemán, Revolución, San Lorenzo, Tlacoquemécatl, Francisco Villa (de los Venados), San Martín (México), España, Luis G. Urbina (hundido), Bosque de Tlalpan, Las Américas, Lira, María del Carmen Industrial, Parque Nacional del Tepeyac, Parque Nacional Cerro de la Estrella, Parque de los Cocodrilos y Parque Ramón López Velarde.
+
+g) Paseos: Reforma, Bucareli, Horacio (Paseo de los Cedros), Tlalpan, Tacuba, Mazatlán, Durango, Insurgentes, Oaxaca, Veracruz, Amsterdam, Miguel Ángel de Quevedo, los Misterios, Guadalupe, Paseo del Pedregal;
+
+h) Plazas: Las que se declaren conforme a las disposiciones de esta Ley exceptuando las de jurisdicción federal;
+
+i) Viveros: Viveros de Coyoacán; y
+
+j) Canales: Canal Nacional, Canal de Cuemanco y Canal de Chalco.
+
+k) Albarradón: Calzada de la Virgen.
+
+DÉCIMO PRIMERO. El Congreso de la Ciudad de México dentro del Tercer Año de Ejercicio Legislativo, deberá adecuar la Ley de Fomento Cultural del Distrito Federal a la presente Ley.
