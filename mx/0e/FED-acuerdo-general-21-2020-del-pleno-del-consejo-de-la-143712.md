@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2020-del-pleno-del-consejo-de-la-143712"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2020-07-31"
+last_updated: "2020-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143712&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-07-28"
 ---
 # ACUERDO GENERAL 21/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA REANUDACION DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ORGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19]
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL 21/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 31 de julio de 2020.
 
@@ -77,9 +79,11 @@ ACUERDO
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 25/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante "PJF"), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto al 31 de octubre, ambos de 2020, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
+Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante “PJF”), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 15 de enero de 2021, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
 
 ###### Artículo 2.
 
@@ -303,27 +307,29 @@ X. Los órganos jurisdiccionales designados para cubrir guardias de turno, o aqu
 
 XI. Se procurará que, si la plantilla, la potencial situación de vulnerabilidad frente al Covid-19 de parte del personal, las funciones y la organización del área administrativa lo permiten, quienes realicen labores presencialmente, puedan trabajar a distancia durante dos semanas antes de asistir nuevamente a una guardia presencial. También se procurará que una misma persona no esté en contacto con distintos equipos de trabajo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 25/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 15.
 
-Turnos y horarios escalonados para el trabajo presencial. Las jornadas presenciales de todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal serán de cinco horas. Como medida para evitar la concentración del personal, los órganos de cada edificio se dividirán hasta en ocho grupos, repartidos en dos turnos, cada uno de los cuales, a su vez, tendrá cuatro horarios de entrada y salida. Es importante enfatizar que el horario resulta aplicable al órgano jurisdiccional en su totalidad.
+Turnos y horarios escalonados para el trabajo presencial. Las jornadas presenciales de todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal serán de seis horas. Como medida para evitar la concentración del personal, los órganos de cada edificio se dividirán hasta en ocho grupos, repartidos en dos turnos, cada uno de los cuales, a su vez, tendrá cuatro horarios de entrada y salida. Es importante enfatizar que el horario resulta aplicable al órgano jurisdiccional en su totalidad.
 
 Grupo Turno Hora de entrada Hora de salida
 
-1 7:45 12:45
+1 7:45 13:45
 
-2 Matutino 8:30 13:30
+2 8:30 14:30
 
-3 9:15 14:15
+3 Matutino 9:15 15:15
 
-4 10:00 15:00
+4 10:00 16:00
 
-5 13:00 18:00
+5 12:30 18:30
 
-6 Vespertino 13:45 18:45
+6 Vespertino 13:15 19:15
 
-7 14:30 19:30
+7 14:00 20:20
 
-8 15:15 20:15
+8 14:45 20:45
 
 En el Anexo 1 del presente Acuerdo se definirán, a propuesta de la Secretaría Ejecutiva de Creación de Nuevos Órganos, los grupos a los que pertenece cada órgano jurisdiccional, lo cual implica la asignación de un turno y horario inamovible.
 
@@ -600,3 +606,19 @@ DÉCIMO SEGUNDO. Mientras no se emitan nuevos lineamientos administrativos para 
 DÉCIMO TERCERO. La Comisión Especial emitirá la Guía Técnica para el Retorno Seguro a las Actividades en el Consejo de la Judicatura Federal prevista en el artículo 43 antes de la entrada en vigor del presente Acuerdo.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 21/2020, del Pleno del Consejo de la Judicatura Federal, relativo a la reanudación de plazos y al regreso escalonado en los órganos jurisdiccionales ante la contingencia por el virus COVID-19, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de 28 de julio de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 28 de julio de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 25/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 21/2020, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN AL PERÍODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 1 de noviembre de 2020.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se mantiene el periodo de receso previsto para la segunda quincena de diciembre de 2020, que comprende del 16 de diciembre de 2020 al 3 de enero de 2021.
+
+CUARTO. A partir del 1 de noviembre de 2020, el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
+
+QUINTO. Se mantiene la distribución de los órganos jurisdiccionales en los ocho grupos generados según la división en turnos matutino y vespertino, y de cada uno en cuatro bloques de horarios, conforme al Anexo 1 del Acuerdo General 21/2020, cuyo contenido está disponible en el siguiente enlace: https://www.cjf.gob.mx/2020/distribucionOJ.pdf
