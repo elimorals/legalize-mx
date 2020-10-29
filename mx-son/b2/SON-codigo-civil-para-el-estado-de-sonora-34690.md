@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2018-09-27"
+last_updated: "2020-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2020.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -11779,11 +11779,13 @@ IV.- Los interesados en el caso de muerte de la víctima, recibirán la pensión
 
 V.- Si el daño originare una incapacidad temporal, bien sea total o parcial, la indemnización será regulada atendiendo a las reglas especificadas en las fracciones I, II y III, debiendo determinarse por peritos el tiempo de la incapacidad y el grado de la misma, a efecto de que el juez establezca la duración de la pensión y el monto de ella, según que la incapacidad fuera total o parcial.
 
-> <small>(REFORMADO, B.O. 12 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, B.O. 29 DE OCTUBRE DEL 2020)</small>
 
 ###### Art. 2087.
 
 Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afecto, creencias, decoro, honor, reputación, vida privada, prestigio o aspecto físico. Se presumirá que existe daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+También se entenderá daño moral a la intimidad de una persona cuando se exponga, distribuya, exhiba, genere, videograbe, audiograbe, fotografíe, filme, elabore, reproduzca, transmita, comercialice, oferte, intercambie, almacene, reciba u obtenga de una persona por medio del acoso, hostigamiento, amenazas, engaño, vulneración de datos e información privada o cualquier otro, imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico, sexual o pornográfico y las revele o divulgue información apócrifa, alterada o difunda sin su consentimiento o mediante engaño y en perjuicio de su intimidad o su derecho a la identidad personal, a través de mensajes de texto y conversaciones, publicaciones en redes sociales, correo electrónico o cualquier otro medio.
 
 En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
@@ -11792,6 +11794,10 @@ Cuando un hecho u omisión ilícito produzca un daño moral, el responsable del 
 El monto de la indemnización lo determinará el juez, tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso.
 
 En el caso de que la afectación sufrida por la víctima sea en su integridad física y la lesión que esto le origine no la imposibilite total o parcialmente para el trabajo, el juez fijará el importe del daño moral, tomando en cuenta, además de lo previsto en el párrafo anterior, si la parte lesionada es o no visible, así como el sexo, edad y condiciones de la persona.
+
+Como parte del concepto de reparación del daño, el Juez podrá decretar el retiro, cancelación, interrupción y/o eliminación inmediata, de la acción o actividad que dio origen al hecho ilícito. Cuando por su naturaleza dicha acción no pueda ser retirada se podrá solicitar la interrupción o bloqueo de redes sociales, plataforma digital o cualquier dispositivo o medio tecnológico en el cual se realice la misma.
+
+En el caso de que la acción y/o actividad que atenta contra la intimidad se realice a través de medios impresos la solicitud podrá incluir la interrupción de la distribución, el retiro y el resguardo inmediato de dichos impresos por parte del Juez. En ningún caso el Juez podrá decretar la reparación del daño al que hace referencia el presente párrafo por un hecho ilícito distinto al estipulado en el presente artículo.
 
 Una vez acreditado el daño moral, a petición de la víctima y con cargo al responsable, el juez podrá ordenar la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
 
@@ -11802,10 +11808,6 @@ I.- El que comunique a una o más personas la imputación que se hace a otra per
 II.- Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
 
 La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando en dicha reproducción se cite la fuente de donde se obtuvo.
-
-La acción de reparación del daño moral no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
-
-La indemnización por daño moral es independiente de la patrimonial y se decretará aun cuando ésta no exista.
 
 ###### Art. 2088.
 
@@ -19524,6 +19526,14 @@ Las cartas poder que se hubieren otorgado con anterioridad a la entrada en vigor
 B.O. 27 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 79, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE OCTUBRE DEL 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 141 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
