@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2019-08-06"
+last_updated: "2020-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DEL DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JULIO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 6 DE AGOSTO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.O. DE 4 DE JULIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE OCTUBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -752,9 +750,15 @@ a) Los usuarios domésticos, establecimientos mercantiles, industriales, comerci
 
 b) Las industrias ubicadas en el Distrito Federal que en todos sus procesos productivos no requieran necesariamente de agua potable, así como en las actividades mencionadas en la fracción anterior;
 
-c) Las obras en construcción mayores de 2,500 metros cuadrados, así como en terracerías y compactación de suelos; y
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 2020)</small>
+
+c) Las obras en construcción mayores de 2,500 metros cuadrados, así como en terracerías y compactación de suelos;
 
 d) Los establecimientos dedicados al lavado de autos; y
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2020)</small>
+
+e) Los establecimientos dedicados a proporcionar el servicio de sanitarios públicos.
 
 XII. El uso del agua para actividades humanas deberá realizarse de forma tal que se emplee únicamente en las cantidades estrictamente indispensables para cumplir con los objetivos a que se destina;
 
@@ -773,6 +777,10 @@ XV. Instalar en los edificios públicos y de servicios, mingitorios sin agua, in
 > <small>(ADICIONADA, G.O. 23 DE MARZO DE 2015)</small>
 
 XVI. En los edificios públicos y de servicios del Gobierno del Distrito Federal, se deberán instalar bebederos o estaciones de recarga de agua potable, debiéndose dar mantenimiento constante para garantizar su servicio e higiene.
+
+> <small>(ADICIONADA, G.O. 29 DE OCTUBRE DE 2020)</small>
+
+XVII. Los sanitarios públicos deberán contar con mingitorios sin agua, inodoros de bajo consumo, llaves, tuberías y accesorios sanitarios ahorradores de agua, los cuales deberán recibir mantenimiento periódicamente para conservarse en condiciones óptimas de servicio e higiene.
 
 > <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
@@ -2245,3 +2253,13 @@ G.O. 6 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DE LA “FE DE ERRATAS AL DECRETO QUE MODIFICA LOS ARTÍCULOS 4 FRACCIÓN XIX; 11 FRACCIONES II Y VII; 12 Y 13 DE LA LEY DE (SIC) DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL NÚMERO 127 BIS, DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DE FECHA 4 DE JULIO DE 2019”.]
 
 Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL INCISO c), SE ADICIONA UN INCISO e) A LA FRACCIÓN XI Y SE ADICIONA UNA FRACCIÓN XVII DEL ARTÍCULO 35 DE LA LEY DEL DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- Para efectos de la entrada en vigor las Alcaldías y el Instituto de Verificación Administrativa de la Ciudad de México, en el ámbito de sus atribuciones, contarán con 240 días hábiles posteriores a la entrada en vigor del presente Decreto a efecto de implementar una campaña de difusión e información a los establecimientos que presten el servicio de sanitarios públicos, con la finalidad de hacer del conocimiento de sus dueños, administradores y operadores, las disposiciones y alcances de las mismas contenidas en el presente Decreto.
+
+Tercero.- Las personas dueñas, administradoras y operadoras de establecimientos que presten el servicio de sanitarios públicos, contarán con 240 días hábiles en términos administrativos posteriores a la entrada en vigor del presente Decreto, para llevar a cabo los ajustes y adecuaciones que en su caso requieran para dar cumplimiento a lo previsto.
