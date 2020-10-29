@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2019-03-08"
+last_updated: "2020-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE OCTUBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -530,15 +530,23 @@ VII. Garantizar la paridad de género en los procesos de selección, contrataci�
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 26.
 
-Con el fin de garantizar la igualdad en el acceso a los derechos sociales y el pleno disfrute de éstos, serán objetivos de los entes públicos, en el ámbito de su competencia:
+Con el fin de garantizar la igualdad y equidad en el acceso a los derechos sociales y el pleno disfrute de éstos, serán objetivos de los entes públicos, en el ámbito de su competencia:
 
 I. Garantizar el conocimiento, la aplicación y difusión de la legislación existente en el ámbito del desarrollo social;
 
 II. Integrar la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad, y
 
-III. Evaluar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+> <small>(REFORMADA, G.O. 29 DE OCTUBRE DE 2020)</small>
+
+III. Evaluar de manera permanente las políticas de prevención, atención, sanción y erradicación de la violencia de género; debiendo compartir los resultados de dichas evaluaciones en sus portales, a fin de permitir un acceso fácil y fiable a los datos en materia de igualdad de género.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, G.O. 29 DE OCTUBRE DE 2020]</small>
+
+Para lo anterior se observará lo establecido por la Constitución y las leyes especiales en materia de protección de datos personales.
 
 ###### Artículo 27.
 
@@ -564,9 +572,11 @@ IX. Incorporar la progresividad de los servicios de cuidado y atención del desa
 
 ### CAPÍTULO QUINTO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ÁMBITO CIVIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 28.
 
-Con el fin de promover y procurar la igualdad sustantiva de mujeres y hombres en el ámbito civil, los entes públicos velarán por los siguientes objetivos:
+Con el fin de promover y procurar la igualdad sustantiva de mujeres y hombres en el ámbito civil, las personas integrantes designadas por los entes públicos velarán por los siguientes objetivos:
 
 I. Evaluar la legislación en materia de igualdad entre mujeres y hombres;
 
@@ -747,3 +757,13 @@ G.O. 8 DE MARZO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Con motivo de la entrada en vigor de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las referencias hechas al Instituto de las Mujeres en el Distrito Federal, deberán entenderse hechas a la Secretaría de las Mujeres.
+
+G.O. 29 DE OCTUBRE DE 2020
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR (SIC) SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 26; Y SE REFORMA EL PRIMER PÁRRAFO Y FRACCIÓN II DEL ARTÍCULO 28, AMBOS DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publiquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona Titular de la Jefatura de Gobierno de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles para, de ser el caso, armonizar el contenido reglamentario de la presente Ley.
