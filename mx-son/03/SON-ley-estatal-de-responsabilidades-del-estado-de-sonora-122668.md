@@ -4,7 +4,7 @@ identifier: "SON-ley-estatal-de-responsabilidades-del-estado-de-sonora-122668"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2020-05-29"
+last_updated: "2020-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ESTATAL DE RESPONSABILIDADES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de julio de 2017.
 
@@ -169,9 +169,11 @@ V.- Cuenten, al menos, con los mismos deberes de diligencia y lealtad aplicables
 
 Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 7.
 
-Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:
+Las y los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, perspectiva de género, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, las y los Servidores Públicos observarán las siguientes directrices:
 
 I.- Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 
@@ -189,9 +191,21 @@ VII.- Promover, respetar, proteger y garantizar los derechos humanos establecido
 
 VIII.- Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
 
-IX.- Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones; y
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-X.- Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado de Sonora.
+IX.- Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;
+
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2020)</small>
+
+X.- Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado de Sonora; y
+
+> <small>(ADICIONADA, B.O. 29 DE OCTUBRE DE 2020)</small>
+
+XI.- Prevenir, sancionar y erradicar en el ámbito de sus competencias, y en su actuar, cualquier acción que propicie violencia de género, justificando en todo momento sus acciones con un enfoque de perspectiva de género.
+
+> <small>(ADICIONADO, B.O. 29 DE OCTUBRE DE 2020)</small>
+
+Las autoridades estarán obligadas a salvaguardar el derecho humano a la buena administración de justicia, a la integridad e identidad personal.
 
 ### CAPÍTULO III. AUTORIDADES COMPETENTES PARA APLICAR LA PRESENTE LEY EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -2522,3 +2536,11 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 ###### ARTÍCULO TERCERO.
 
 La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior al proceso electoral 2020-2021.
+
+B.O. 29 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 141 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
