@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2020-06-01"
+last_updated: "2020-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2021 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2020.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -335,13 +337,25 @@ XVI.- Trabajo en favor de la comunidad;
 
 XVII.- Tratamiento para quienes tengan el hábito o la necesidad de consumir bebidas alcohólicas;
 
-> <small>(ADICIONADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-XVIII.- Pérdida de derechos de familia, y
+XVIII.- Pérdida de derechos de familia;
 
-> <small>(ADICIONADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+XIX.- El retiro, cancelación, interrupción y/o eliminación de las imágenes, audios o videos expuestos, distribuidos, difundidos, exhibidos, reproducidos, transmitidos, comercializados, ofertados e intercambiados, en medios impresos, plataformas digitales, mensajes de texto y conversaciones, publicaciones en redes sociales, correo electrónico o cualquier dispositivo o medio tecnológico, sin consentimiento de la persona que aparece en los mismos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE OCTUBRE DE 2020)</small>
 
 XIX.- Tratamiento psicoterapéutico integral.
+
+> <small>(ADICIONADO, B.O. 29 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 19 BIS.- La medida prevista en la fracción XIX del artículo 19 de este Código, tendrá una duración máxima de sesenta días naturales, prorrogable hasta por treinta días más.
+
+La víctima u ofendido podrá solicitar la medida ante el Ministerio Público, quien dentro de setenta y dos horas deberá requerir vía electrónica o mediante escrito a las empresas de plataformas digitales, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la denuncia.
+
+El Ministerio Púbico, el Juez o Tribunal dictará las medidas necesarias para hacer cumplir esta disposición. El juez o Tribunal al momento de resolver el fondo del asunto podrá determinar que la medida a que se refiere el artículo 19 fracción XIX sea de manera definitiva.
 
 ###### ARTICULO 20.
 
@@ -489,9 +503,9 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Familiar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: sexting contemplado en el artículo 167 Bis de este Código, corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio, chantaje, hostigamiento sexual, delitos contra la autoridad, delitos contra la intimidad personal, y fraude familiar.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: Violación a la Intimidad contemplado en el artículo 167 BIS de este Código, corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio, chantaje, hostigamiento sexual, delitos contra la autoridad, delitos contra la intimidad personal, y fraude familiar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1921,9 +1935,9 @@ Los ultrajes hechos a la legislatura, a un tribunal, a un cuerpo colegiado de la
 
 ## TITULO QUINTO. DELITOS CONTRA EL DESARROLLO Y DIGNIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO I. EXPOSICIÓN PÚBLICA DE PORNOGRAFÍA, EXHIBICIONES OBSCENAS Y SEXTING
+### CAPÍTULO I. EXPOSICIÓN PÚBLICA DE PORNOGRAFÍA, EXHIBICIONES OBSCENAS Y VIOLACIÓN A LA INTIMIDAD Y VIOLACIÓN A LA INTIMIDAD SEXUAL
 
 > <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -1943,11 +1957,57 @@ Al que públicamente ejecute o haga ejecutar, sin fines de explotación, exhibic
 
 Tratándose de víctimas menores de edad se aplicará lo establecido en el artículo 169 BIS, párrafo cuarto, del presente ordenamiento.
 
-> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-ARTICULO 167 BIS.- A quien reciba u obtenga de una persona, imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico, sexual o pornográfico y las revele o difunda sin su consentimiento y en perjuicio de su intimidad, a través de mensajes por teléfono, publicaciones en redes sociales, correo electrónico o cualquier otro medio, se le impondrá de uno a cinco años de prisión y de ciento cincuenta a trescientas Unidades de Medida y Actualización.
+ARTICULO 167 BIS.- Comete el delito de Violación a la Intimidad, a quien exponga, distribuya, exhiba, genere, videograbe, audiograbe, fotografíe, filme, elabore, reproduzca, transmita, comercialice, oferte, intercambie, reciba u obtenga, información privada por medio de amenazas, engaño, vulneración de datos o cualquier otro; revele o divulgue, información apócrifa, alterada o difunda sin consentimiento de la persona afectada en perjuicio de su intimidad o su derecho a la identidad personal o se realice cualquier forma de violencia digital, mensajes de texto, imágenes, textos o grabaciones de voz o conversaciones o audiovisuales y las publique en redes sociales, correo electrónico o las difunda por cualquier otro medio digital, impreso o tecnológico, se le impondrá de dos a cuatro años de prisión y de ciento cincuenta a trescientas Unidades de Medida y Actualización.
 
-Las penas a que se refiere el presente artículo, se aumentarán en una mitad cuando el delito se cometa en contra de una persona menor de edad o que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, aún y cuando mediare su consentimiento.
+La pena se agravará en una mitad cuando:
+
+I.- La víctima sea una persona ascendiente o descendiente en línea recta hasta el tercer grado o tenga una relación colateral hasta el cuarto grado;
+
+II.- Cuando exista o haya existido entre el activo y la víctima una relación de matrimonio, concubinato, noviazgo o cualquier otra relación sentimental o de hecho, de confianza, de amistad o vecinal con la víctima o sus familiares, docente, educativo, laboral, de subordinación o superioridad o resultado de una atención médica;
+
+III.- Cuando aprovechando su condición de persona responsable o encargada de algún establecimiento de servicio al público, realice alguna de las conductas establecidas en el presente artículo;
+
+IV.- Sea cometido por alguna persona servidora pública o integrante de las instituciones de Seguridad Pública en ejercicio de sus funciones, incluyendo a los integrantes de órganos ciudadanos que reciban recursos públicos;
+
+V.- Se cometa en contra de adultos mayores, con discapacidad, en situación de calle, o de identidad indigena;
+
+VI.- Se cometa en contra de una persona menor de edad que no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo;
+
+VII.- Cuando aprovechando su condición de responsable de algún medio de comunicación impreso, grabado, digital, radiofónico o televisión en cualquiera de sus modalidades, realicé alguna de las conductas establecidas en el presente artículo; o
+
+VIII.- Cuando se amenace con la publicación de un contenido a que se refiere el presente artículo a cambio de un intercambio sexual o económico, o condicione a cambio de cualquier beneficio la publicación a que se refiere el primer párrafo del presente artículo.
+
+Este delito se perseguirá de oficio.
+
+> <small>(ADICIONADO, B.O. 29 DE OCTUBRE DE 2020)</small>
+
+ARTICULO 167 TER.- Comete el delito de Violación a la Intimidad Sexual, a quien por cualquier medio exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, publique, intercambie, comparta, videograbe, audiograbe, fotografíe, filme o elabore, imágenes, audios o videos de contenido sexual, erótico o pornográfico de una persona reales o alterados, ya sea impreso, grabado o digital sin consentimiento de la víctima, se le impondrá de cuatro a seis años de prisión y de ciento cincuenta a trescientas Unidades de Medida y Actualización.
+
+La pena se agravará en una mitad cuando:
+
+I.- La víctima sea una persona ascendiente o descendiente en línea recta hasta el tercer grado o tenga una relación colateral hasta el cuarto grado;
+
+II.- Cuando exista o haya existido entre el activo y la víctima una relación de matrimonio, concubinato, noviazgo o cualquier otra relación sentimental o de hecho, de confianza, de amistad o vecinal con la víctima o sus familiares, docente, educativo, laboral, de subordinación o superioridad o resultado de una atención medica;
+
+III.- Cuando aprovechando su condición de persona responsable o encargada de algún establecimiento de servicio al público, realice alguna de las conductas establecidas en el presente artículo;
+
+IV.- Sea cometido por alguna persona servidora pública o integrante de las instituciones de Seguridad Pública en ejercicio de sus funciones, incluyendo a los integrantes de órganos ciudadanos que reciban recursos públicos;
+
+V.- Se cometa en contra de adultos mayores, con discapacidad en situación de calle, o de identidad indigena;
+
+VI.- Se cometa en contra de una persona menor de edad que no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo;
+
+VII.- Cuando aprovechando su condición de responsable de algún medio de comunicación impreso, grabado, digital, radiofónico o televisión en cualquiera de sus modalidades, realicé alguna de las conductas establecidas en el presente artículo;
+
+VIII.- Cuando se amenace con la publicación de un contenido a que se refiere el presente artículo, a cambio de un intercambio sexual o económico, o condicione a cambio de cualquier beneficio la publicación a que se refiere el primer párrafo del presente artículo;
+
+IX.- Cuando con violencia física, moral, verbal, psicológica, sexual, económica o patrimonial se oblique a la víctima a fabricar el contenido intimo, sexual o erótico publicado sin consentimiento; o
+
+X.- Cuando se realice por medio de acoso, hostigamiento, amenaza o engaño.
+
+Este delito se perseguirá de oficio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -5520,3 +5580,11 @@ La Secretaría de Hacienda en coordinación con la Secretaría de Salud, realiza
 ###### ARTÍCULO TERCERO.
 
 Para estar en posibilidad de dar cumplimiento de las disposiciones contenidas en el Artículo 110 BIS de la Ley de Salud del Estado de Sonora, que se adiciona en términos del Artículo Segundo del presente Decreto, la Secretaría de Salud deberá convocar al Titular de la Secretaría de Hacienda, al Titular de la Secretaría de la Contraloría General del Estado, al Titular del Instituto Superior de Auditoría y Fiscalización y a por lo menos un representante de organizaciones ciudadanas, con el objeto de integrar un Comité de Supervisión que implementará el proceso de asignaciones presupuestales y dará puntual seguimiento.
+
+B.O. 29 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 141 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
