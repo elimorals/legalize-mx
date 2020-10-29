@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2020-del-pleno-del-consejo-de-la-143713"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2020-07-31"
+last_updated: "2020-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2020.
 
 Acuerdo publicado en el Número 26 del Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -65,9 +65,11 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 26/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN AL PERIODO DE VIGENCIA, D.O.F. 29 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 1.
 
-Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto al 31 de octubre de 2020.
+Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 15 de enero de 2021.
 
 ###### Artículo 2.
 
@@ -539,6 +541,10 @@ IV. Las y los titulares de Unidades, las Directoras y Directores Generales, y la
 
 V. Las y los Secretarios Ejecutivos podrán designar a la persona que sustituirá a la o al Secretario Técnico de Comisión durante su periodo vacacional.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 26/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN AL PERIODO DE VIGENCIA, D.O.F. 29 DE OCTUBRE DE 2020)</small>
+
+El segundo periodo vacacional del año 2020 se mantiene conforme a lo establecido en el artículo 159 de la Ley Orgánica del Poder Judicial de la Federación.
+
 ###### Artículo 42.
 
 Cancelación de eventos académicos presenciales. Se cancelan cursos, capacitaciones, foros, seminarios y demás actividades académicas que requieran la presencia física de sus participantes, pudiendo llevarse a cabo únicamente aquéllas que se realicen a distancia mediante el uso de herramientas tecnológicas.
@@ -596,3 +602,15 @@ DÉCIMO PRIMERO. La Dirección General de Auditoría contará con un plazo de ha
 DÉCIMO SEGUNDO. La Comisión Especial emitirá la Guía Técnica para el Retorno Seguro a las Actividades en el Consejo de la Judicatura Federal prevista en el artículo 47 antes de la entrada en vigor del presente Acuerdo.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 22/2020, del Pleno del Consejo de la Judicatura Federal, relativo a las medidas necesarias para reactivar la totalidad de las actividades del Consejo en el contexto de la contingencia por el virus COVID-19, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de 28 de julio de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 28 de julio de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 26/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN AL PERIODO DE VIGENCIA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intrantet e internet.
+
+TERCERO. Se mantiene el periodo de receso para la segunda quincena de diciembre de 2020, que comprende del 16 de diciembre de 2020 al 3 de enero de 2021.
