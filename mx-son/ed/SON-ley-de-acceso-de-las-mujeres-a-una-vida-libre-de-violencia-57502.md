@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2020-05-29"
+last_updated: "2020-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2020.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -129,15 +129,19 @@ V.- La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la
 
 VI.- Violencia Política: Es el conjunto de acciones u omisiones cometidas por una o varias personas o a través de terceros, basadas en elementos de género que causen daño a una mujer y que tengan por objeto menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o prerrogativas inherentes a un cargo público;
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN VIII DEL PRESENTE ARTÍCULO.]</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN IX DEL PRESENTE ARTÍCULO.]</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE OCTUBRE DE 2020)</small>
 
-VIII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VIII.- La violencia digital.- Son los actos de acoso, hostigamiento, amenazas, engaño, abuso de confianza, vulneración de datos e información, divulgación y difusión de textos, imágenes, audios, videos, datos personales u otros elementos, ya sean de naturaleza verdadera, alterada o apócrifa de contenido sexual íntimo, que inciten al odio y/o que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, causen daño moral, atenten contra la salud psicológica o vulneren algún derecho humano, y que se realice a través de mensajes telefónicos, publicaciones en redes sociales, correo electrónico, sistemas de mensajería, aplicaciones tecnológicas, plataformas digitales o cualquier otro medio tecnológico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+IX.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
@@ -611,9 +615,17 @@ VIII.- Diseñar y difundir materiales educativos que promuevan la prevención y 
 
 IX.- Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-X.- Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres; y
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-XI.- Las demás previstas en esta ley y en otras disposiciones aplicables.
+X.- Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+XI.- Promover e implementar programas y protocolos para prevenir, atender, sancionar y erradicar la violencia digital contra las mujeres, en todas sus formas y manifestaciones, en todos los niveles y centros educativos en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+XII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ###### ARTÍCULO 30.
 
@@ -653,9 +665,11 @@ e) Los recursos erogados en la atención de las víctimas; y
 
 XII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 31.
 
-Corresponde a la Procuraduría General de Justicia del Estado, en materia de violencia en contra de las mujeres:
+Corresponde a la Fiscalía General de Justicia del Estado, en materia de violencia en contra de las mujeres:
 
 I.- Promover la formación y especialización de Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
@@ -671,13 +685,17 @@ V.- Proporcionar a las instancias encargadas de realizar estadísticas las refer
 
 VI.- Brindar protección para salvaguardar la integridad física de las mujeres que denuncien la violencia cometida en su contra;
 
-> <small>(REFORMADA, B.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-VII.- Diseñar y elaborar el Protocolo de actuación para la Investigación Ministerial, Policial y Pericial del Delito de Feminicidio con Perspectiva de Género, herramienta que establecerá las obligaciones que deben cumplir las y los servidores públicos como agentes del Estado; y
+VII.- Diseñar y elaborar el Protocolo de actuación para la Investigación Ministerial, Policial y Pericial del Delito de Feminicidio con Perspectiva de Género, herramienta que establecerá las obligaciones que deben cumplir las y los servidores públicos como agentes del Estado;
 
-> <small>(ADICIONADA, B.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE OCTUBRE DE 2020)</small>
 
-VIII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
+VIII.- Promover la creación de áreas o unidades especializadas para la investigación y, en su caso, sanción, en materia de violencia digital contra las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+IX.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -695,9 +713,25 @@ V.- Impulsar la creación de unidades de atención y protección a las víctimas
 
 VI.- Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
 
-VII.- Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia; y
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-VIII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
+VII.- Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia;
+
+> <small>(REFORMADA [N. DE ADICIONADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+VIII.- Proponer, elaborar, promover e implementar programas y protocolos para prevenir, atender, sancionar y erradicar la violencia digital en todas sus formas y manifestaciones;
+
+> <small>(ADICIONADA, B.O. 29 DE OCTUBRE DE 2020)</small>
+
+IX.- Diseñar e implementar campañas de difusión masiva para prevenir la violencia digital, haciendo énfasis en los derechos sexuales y reproductivos de las mujeres;
+
+> <small>(ADICIONADA, B.O. 29 DE OCTUBRE DE 2020)</small>
+
+X.- Promover, en conjunto con las instituciones académicas, las organizaciones de la sociedad civil y las universidades públicas y privadas concursos de aplicaciones móviles, digitales, contra la violencia digital; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+XI.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 29 DE MAYO DE 2020)</small>
 
@@ -815,9 +849,17 @@ V.- Entrega inmediata de objetos de uso personal y documentos de identidad de la
 
 VI.- Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
 
-VII.- Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas; y
+> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2020)</small>
 
-VIII.- Las demás establecidas en otras disposiciones legales.
+VII.- Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas;
+
+> <small>(REFORMADA [N. DE ADICIONADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+VIII.- El retiro, cancelación, interrupción y/o eliminación en medios impresos, plataformas digitales, mensajes de texto y conversaciones, publicaciones en redes sociales, correo electrónico o cualquier dispositivo o medio tecnológico, las imágenes, audios o videos expuestos, distribuidos, difundidos, exhibidos, reproducidos, transmitidos, comercializados, ofertados e intercambiados, sin consentimiento de la persona que aparece en los mismos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE OCTUBRE DE 2020)</small>
+
+IX.- Las demás establecidas en otras disposiciones legales.
 
 Tratándose de las órdenes previstas en las fracciones IV y VI de este artículo, también podrán decretarse por las autoridades policíacas del lugar.
 
@@ -834,6 +876,10 @@ III.- Los elementos con que se cuente.
 ###### ARTÍCULO 39.
 
 Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+
+> <small>(ADICIONADO, B.O. 29 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 39 BIS.- Tratándose de violencia digital las autoridades responsables procederán a realizar las acciones que sean necesarias a efecto (sic) conseguir el retiro, cancelación, interrupción y/o eliminación inmediata de imágenes, audios o videos de contenido sexual íntimo de una persona, sin su consentimiento.
 
 ###### ARTÍCULO 40.
 
@@ -1066,3 +1112,11 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 ###### ARTÍCULO TERCERO.
 
 La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
+
+B.O. 29 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 141, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
