@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-142407"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-04-02"
-last_updated: "2020-08-04"
+last_updated: "2020-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-03-30"
 
 ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACIÓN CON EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19)
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 2 de abril de 2020.
 
@@ -77,7 +77,7 @@ SEGUNDO.- La Comisión de Administración tomó conocimiento que el Magistrado P
 
 TERCERO.- Se suspenden los plazos y términos que en materia administrativa tienen lugar en el ejercicio de las funciones de la Contraloría Interna, Visitaduría Judicial y Dirección General de Investigación de Responsabilidades Administrativas hasta que esta Comisión de Administración lo determine.
 
-CUARTO.- Se suspenden los plazos y términos para que todos los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación presenten su Declaración Patrimonial y de Intereses, en sus modalidades de inicial, modificación y conclusión hasta en tanto la Comisión de Administración determine lo conducente, dentro de los quince días hábiles posteriores a la regularización de las actividades.
+CUARTO.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 30 DE OCTUBRE DE 2020)
 
 QUINTO.- El desarrollo de las sesiones de las Comisiones y Comités internos, se realizarán a través de reuniones no presenciales; las manifestaciones y votos correspondientes deberán ser remitidos al secretario de la comisión o comité de que se trate a través de correo electrónico para la debida constancia y elaboración del acta correspondiente.
 
@@ -178,3 +178,15 @@ SEGUNDO. Publíquese en el portal del Tribunal Electoral del Poder Judicial de l
 TERCERO. Las actuaciones que por su urgencia y necesidad en la continuación de la función pública hayan sido realizadas, surtirán plenos efectos desde el momento de su emisión, siempre que no afecten derechos o plazos procesales en perjuicio de terceros.
 
 CUARTO. Se deja sin efectos el calendario previsto en el Programa anual de Visitas Ordinarias de Inspección y Verificaciones a Distancia, aprobado por la Comisión de Administración y se instruye a la Visitaduría Judicial a presentar en la próxima sesión ordinaria de la Comisión de Administración el Programa anual de Visitas Ordinarias de Inspección y Verificaciones a Distancia.
+
+D.O.F. 30 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN POR EL QUE SE DEROGA EL ACUERDO CUARTO DEL ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACIÓN CON EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19), PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL PASADO DOS DE ABRIL DE DOS MIL VEINTE Y SE ORDENA LA REANUDACIÓN DE LOS PLAZOS PARA LA PRESENTACIÓN DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES EN SUS MODALIDADES DE INICIAL, MODIFICACIÓN 2019 Y CONCLUSIÓN".]
+
+PRIMERO. El presente Acuerdo entrara en vigor a partir de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, así como en la página de internet e intranet del Tribunal electoral de Poder Judicial de la Federación.
+
+TERCERO. Se deroga el ACUERDO CUARTO del Acuerdo General de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación por el que se implementan diversas medidas en relación con el funcionamiento y operación de las áreas administrativas y órganos auxiliares de la Comisión de Administración, con motivo de la contingencia derivada de la enfermedad por el virus SARS-CoV2 (COVID-19), publicado en el Diario Oficial de la Federación el pasado dos de abril de dos mil veinte, en el cual se dispuso lo siguiente “Se suspenden los plazos y términos para que todos los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación presenten su Declaración Patrimonial y de Intereses, en sus modalidades de inicial, modificación y conclusión hasta en tanto la Comisión de Administración determine lo conducente, dentro de los quince días hábiles posteriores a la regularización de las actividades”.
+
+CUARTO. Se deja sin efectos toda disposición que se oponga al presente Acuerdo.
