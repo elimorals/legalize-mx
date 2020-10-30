@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2020-10-14"
+last_updated: "2020-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -9981,13 +9981,17 @@ El presente Capítulo tiene por objeto regular el funcionamiento de los establec
 
 Los establecimientos se clasificarán según su actividad comercial en:
 
-a) Establecimientos de giros comerciales susceptibles de Aviso de Apertura de Negocio; aquellos en los que se desarrollan actividades económicas, en un espacio no mayor a 60 metros cuadrados y que por la naturaleza de los bienes y servicios que ofrecen no impactan negativamente en el entorno urbano en que se ubiquen.
+> <small>(REFORMADO P.O. 30 DE OCTUBRE DE 2020)</small>
+
+a) Establecimientos de giros comerciales susceptibles de Aviso de Apertura de Negocio, son aquellos en los que se desarrollan actividades económicas en un espacio no mayor de 90 metros cuadrados utilizados para la operación del comercio o servicio y que por la naturaleza de los bienes y servicios que ofrecen no impactan negativamente en el entorno urbano en que se ubiquen y de actividades que no sean competencia del Gobierno de Estado, de conformidad con lo previsto en la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, así como de su Reglamento.
 
 b) Establecimientos de giros comerciales obligados a obtener Licencia de Funcionamiento; aquellos en los que se desarrollan actividades económicas que por la naturaleza de los bienes y servicios que ofrecen y el impacto en el entorno urbano que generan, requieren del cumplimiento de requisitos específicos establecidos por la normatividad aplicable.
 
-El Catálogo de Giros Comerciales Complementarios, Industriales y de Servicios del Municipio de Puebla se actualizará anualmente o cuando implique mejoras a la competitividad del Municipio, y dicha actualización estará a cargo de la Tesorería Municipal en coordinación con la Secretaría de Desarrollo Económico y Turismo, Secretaría de Desarrollo Urbano y Sustentabilidad y Secretaría de Gobernación a través de la Dirección de Protección Civil. Una vez aprobado por el Cabildo Municipal se publicará en el Periódico Oficial del Estado y en la página electrónica del Ayuntamiento, haciéndolo del conocimiento de la Contraloría Municipal.
+> <small>(REFORMADO P.O. 30 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+El Catálogo de Giros Comerciales Complementarios, Industriales y de Servicios del Municipio de Puebla se actualizará anualmente o cuando implique mejoras a la competitividad del Municipio, y dicha actualización estará a cargo de la Tesorería Municipal en coordinación con las Unidades Administrativas encargadas del Desarrollo Económico, del Desarrollo Urbano y la Sustentabilidad, así como de la Protección Civil Municipal. Una vez aprobado por el Cabildo Municipal se publicará en el Periódico Oficial del Estado y en la Página electrónica del Ayuntamiento, haciéndolo del conocimiento de la Contraloría Municipal.
+
+> <small>(REFORMADO P.O. 30 DE OCTUBRE DE 2020)</small>
 
 #### SECCIÓN QUINTA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA. PROCURADURÍA FEDERAL DE PROTECCIÓN DE DERECHOS DE
 
@@ -9995,33 +9999,37 @@ NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 628.
 
-El Aviso de Apertura de Negocio es el documento técnico que contiene la autorización del Ayuntamiento para la apertura e inicio de actividades comerciales de un establecimiento y su registro en el Padrón de Contribuyentes del Municipio, expedido por la Tesorería Municipal, y del que se desprende la autorización del uso de suelo específico por parte de la Secretaría de Desarrollo Urbano y Sustentabilidad a través de la Dirección de Desarrollo Urbano.
+El Aviso de Apertura de Negocio es el documento técnico que contiene la autorización del Ayuntamiento para la apertura e inicio de actividades comerciales de un establecimiento y su registro en el Padrón de Contribuyentes del Municipio, expedido por la Tesorería Municipal, y del que se desprende la autorización del uso de suelo específico y recomendaciones sobre medidas de mitigación ambientales, en materia de prevención de la contaminación ambiental producida por olores, ruido, vibración, luces, radiaciones y contaminación a la atmósfera por fuentes fijas de competencia municipal; considerando lo dispuesto en los artículos 1768, 1769, 1770, 1771, 1795, 1796, 1797, 1798 y demás aplicables del presente ordenamiento, por parte de la Secretaría de Desarrollo Urbano y Sustentabilidad a través de la Dirección de Desarrollo Urbano y Medio Ambiente.
 
-El Aviso de Apertura de Negocio es susceptible de ser emitido a través del Sistema Informático diseñado por el Ayuntamiento, que de manera inmediata resuelva la viabilidad del inicio de apertura del negocio solicitado, al ser resuelto a través de los criterios que en materia de desarrollo urbano, observe la Secretaría de Desarrollo Urbano y Sustentabilidad a través de la Dirección de Desarrollo Urbano.
+El Aviso de Apertura de Negocio es susceptible de ser emitido a través del Sistema Informático diseñado por el Ayuntamiento, que de manera inmediata resuelva la viabilidad del inicio de apertura del negocio solicitado, al ser resuelto a través de los criterios que, en materia de desarrollo urbano, observe la Secretaría de Desarrollo Urbano y Sustentabilidad a través de la Dirección de Desarrollo Urbano.
 
-Para iniciar la operación de un negocio, cuyo giro corresponde a actividades susceptibles del Aviso de Apertura de Negocio de acuerdo al Catálogo de Giros Comerciales Complementarios, Industriales y de Servicio del Municipio de Puebla, el solicitante deberá estar inscrito en el Padrón de Usuarios Acreditados del Municipio de Puebla previsto en el Capítulo 37 denominado "Del Gobierno Digital" del presente Código, y para tal efecto además, deberá proporcionar la siguiente información:
+Para iniciar la operación de un negocio, cuyo giro corresponde a actividades susceptibles del Aviso de Apertura de Negocio de acuerdo al Catálogo de Giros Comerciales Complementarios, Industriales y de Servicio del Municipio de Puebla, el o la solicitante deberá estar inscrito en el Padrón de Usuarios Acreditados del Municipio de Puebla previsto en el Capítulo 37 denominado "Del Gobierno Digital" del presente Código, y para tal efecto, además, deberá proporcionar la siguiente información:
 
 I. Documento con el que acredite su alta fiscal, ante el Servicio de Administración Tributaria (SAT), para ejercer la actividad económica en el establecimiento que solicite se le autorice, cuya actividad económica debe coincidir con la de su solicitud para el otorgamiento del Aviso de Apertura de Negocio o que justifique se encuentra en trámite de inscripción, de aumento o diminución (sic) de obligaciones;
 
 II. Croquis de ubicación y superficie total del local donde pretende establecerse el giro comercial;
 
-III. Fotografías del bien inmueble: dos interiores y dos exteriores incluyendo fachada principal en las que se aprecien sus colindancias e interiores; y
+III. Fotografías del bien inmueble: dos interiores y dos exteriores incluyendo fachada principal en las que se aprecien sus colindancias e interiores, y
 
 IV. Comprobante domiciliario del establecimiento.
 
-En caso de haber realizado alguna adecuación remodelación o construcción deberá de presentar licencia de uso de suelo para construcción, licencia de construcción y/o terminación de obra.
+En caso de haber realizado alguna adecuación, remodelación, ampliación y/o construcción en los últimos 5 años, deberá de presentar licencia de uso de suelo para construcción, licencia de construcción y/o terminación de obra.
+
+Si el local acredita tener más de 5 años de antigüedad, no será necesario presentar licencia de uso de suelo para construcción, licencia de construcción y/o terminación de obra.
+
+Para la expedición de este trámite, se exceptúa de dar cumplimiento con lo establecido en el presente Código en sus artículos 955, 960 y 961, siempre y cuando se observe lo estipulado en su Capítulo 10 referente al estacionamiento en vía pública.
 
 Una vez que los documentos especificados se agreguen mediante archivo digital a su solicitud y ésta sea presentada por cualquiera de los medios electrónicos autorizados, en un término no mayor a un día hábil, se emitirá la resolución del trámite por medio del Sistema Informático.
 
-En caso de ser procedente la resolución, el solicitante podrá realizar el pago de los Derechos generados por la emisión del Aviso de Apertura de Negocio, a través de los medios puestos a su disposición; a partir de que surta sus efectos la notificación de la resolución empezará a transcurrir un plazo de cinco días hábiles para realizar el pago en las formas y lugares autorizados por la Tesorería Municipal; excedido dicho término sin realizar el pago, el trámite iniciado será cancelado.
+En caso de ser procedente la resolución, el o la solicitante podrá realizar el pago de los Derechos generados por la emisión del Aviso de Apertura de Negocio, a través de los medios puestos a su disposición; a partir de que surta sus efectos la notificación de la resolución empezará a transcurrir un plazo de cinco días hábiles para realizar el pago en las formas y lugares autorizados por la Tesorería Municipal; excedido dicho término sin realizar el pago, el trámite iniciado será cancelado.
 
 El Aviso de Apertura de Negocio autoriza la realización de actividades en el establecimiento desde el momento en que se expide, previo pago dentro del término concedido, y que este se vea reflejado en las cuentas bancarias correspondientes del Municipio.
 
 Para el caso de improcedencia del Aviso de Apertura de Negocio la autoridad deberá fundar y motivar la misma.
 
-Posterior a la apertura del establecimiento, el contribuyente debe solicitar la aprobación de las medidas de seguridad correspondientes ante la Unidad Operativa Municipal de Protección Civil, en un término no mayor a treinta día naturales, con el apercibimiento de que en caso de no realizar dicho trámite en los tiempos que establece la normatividad vigente, queda sujeto a la imposición de sanciones previstas en éste Código.
+Posterior a la apertura del establecimiento, el o la contribuyente debe solicitar la aprobación de las medidas preventivas y de seguridad correspondientes ante la Unidad Administrativa encargada de la Protección Civil Municipal, en un término no mayor a treinta días naturales, con el apercibimiento de que en caso de no realizar dicho trámite en los tiempos que establece la normatividad vigente, queda sujeto a la imposición de sanciones previstas en este Código.
 
-El Aviso de Apertura de Negocio es un trámite administrativo que opera únicamente en casos de apertura de nuevos establecimientos por lo que para la actualización, cambio de domicilio, cambio de denominación o nombre, cesión de derechos, cambio de giro y baja de giro respecto del establecimiento cesaran su efectos y se estará a lo dispuesto para licencia de funcionamiento regulada en el presente Capítulo y a lo conducente en los que resulten aplicables.
+El Aviso de Apertura de Negocio es un trámite administrativo que opera únicamente en casos de apertura de nuevos establecimientos por lo que, para la actualización, cambio de domicilio, cambio de denominación o nombre, cesión de derechos, cambio de giro y baja de giro respecto del establecimiento cesaran sus efectos y se estará a lo dispuesto para licencia de funcionamiento regulada en el presente Capítulo y a lo conducente en los que resulten aplicables.
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
@@ -39052,6 +39060,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 P.O. 14 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 14 DE FEBRERO DE 2020, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS COMISIONES UNIDAS DE REGLAMENTACIÓN MUNICIPAL Y DE SEGURIDAD CIUDADANA, QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 632 BIS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. La reforma aprobada en el presente Dictamen entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 30 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE OCTUBRE DE 2020, POR EL QUE REFORMA LOS INCISOS A) Y B) DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 627 Y EL 628 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, ASÍ COMO LOS INCISOS A) Y B) DEL CATÁLOGO DE GIROS COMERCIALES COMPLEMENTARIOS, INDUSTRIALES Y DE SERVICIOS DEL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. La reforma aprobada en el presente Dictamen entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
