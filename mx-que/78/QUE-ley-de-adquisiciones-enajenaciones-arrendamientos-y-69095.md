@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-69095"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2019-12-22"
+last_updated: "2020-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -352,6 +352,44 @@ Si a juicio de los Comités respectivos, pudieran existir proveedores idóneos f
 ###### Artículo 27.
 
 Las bases de cada licitación deberán contener la descripción completa de los bienes o servicios y sus especificaciones, indicando, en su caso, de manera particular, los requerimientos de carácter técnico y demás circunstancias pertinentes que habrá de considerar el Comité, para la adjudicación del contrato correspondiente, así como los requisitos que se contengan en los reglamentos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 27 Bis.
+
+Los contratos de suministro son aquellos instrumentos que permiten adquirir bienes por una cantidad, un presupuesto o un plazo mínimo y máximo. Estos contratos podrán adjudicarse de manera directa, por medio de licitación pública o de invitación restringida.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 27 Ter.
+
+Los Poderes del Estado, Ayuntamientos y entidades públicas, podrán celebrar contratos de suministro, conforme a lo siguiente:
+
+I. Se establecerá, de manera previa a la realización del procedimiento de adquisición, la cantidad mínima y máxima de bienes sujetos al contrato de suministro, así como el presupuesto máximo que podrá ejercerse en la adquisición, debiendo en todo caso relacionarse la partida presupuestal de la que se disponen los recursos y que ésta corresponda a los bienes que se pretenden adquirir.
+
+II. La cantidad mínima o máxima de los bienes que se contraten y máxima del presupuesto que podrá ejercerse, deberá establecerse por cada una de las partidas objeto de la contratación, en cuyo caso la evaluación y adjudicación del contrato se hará igualmente por partida.
+
+III. Se establecerá el plazo mínimo y máximo para el suministro de los bienes, así como la temporalidad en que se llevarán a cabo los pagos por los mismos, ya sea contra entrega o bien de inicio o al final del suministro de la totalidad de los bienes adquiridos;
+
+IV. Se hará una descripción completa de los bienes o servicios relacionada con sus correspondientes precios unitarios;
+
+En el caso de cambio de precios del producto, el proveedor asumirá los costos, lo que deberá constar en el contrato; en el caso de que exista un aumento que exceda de un 30% del valor de la mercancía se permitirá un ajuste en la contratación inicial, siempre que no resulte un incremento en el monto máximo total del contrato.
+
+V. Cada orden de compra que se emita con cargo al contrato deberá contar con la disponibilidad presupuestaria correspondiente
+
+VI. Deberá pactarse en el contrato de suministro correspondiente, penalizaciones por atraso en la entrega de los bienes, exclusivamente sobre el valor de lo entregado o prestado con atraso y no por la totalidad del contrato,
+
+VII. La vigencia del contrato no excederá del ejercicio fiscal correspondiente a aquel en que se suscriba;
+
+VIII. El proveedor suministrará los bienes y servicios a petición expresa del órgano usuario, en las cantidades y fechas que éste determine;
+
+IX. Los proveedores que celebren los contratos de suministro deberán garantizar, los anticipos que, en su caso, reciban, el cumplimiento de los contratos por la totalidad del período pactado, y el presupuesto máximo estimado a menos que se trate de la modalidad de pago posterior a la entrega de la mercancía, en la que la mercancía entregada constituirá garantía suficiente para efectos de la presente ley.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 27 Quáter.
+
+El contrato de suministros se llevará a cabo mediante los procedimientos que se establezcan en el Capítulo Tercero de esta Ley, atendiendo a los montos establecidos en el artículo 20 de esta Ley.
 
 ###### Artículo 28.
 
@@ -1732,3 +1770,11 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 30 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA LOS ARTÍCULOS 27 BIS, 27 TER Y 27 QUÁTER, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
