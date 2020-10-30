@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-humanos-del-estado-de-queretaro-109773"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2019-11-08"
+last_updated: "2020-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -483,13 +483,21 @@ El Visitador General, deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener título de Licenciado en Derecho y contar por lo menos con diez años de ejercicio profesional, contados a partir de la fecha de expedición del título respectivo;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
 
-III. No haber sido condenado por delito doloso, mediante sentencia ejecutoriada; y
+II. Tener título de Licenciado en Derecho;
 
-IV. Contar con conocimientos, trayectoria y experiencia suficiente para la aplicación de instrumentos jurídicos locales, nacionales e internacionales protectores de los Derechos Humanos.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2020)</small>
 
-Los Visitadores Adjuntos serán designados por el Visitador General; lo auxiliarán en sus funciones y deberán cubrir los mismos requisitos que éste para desempeñar el cargo.
+III. Contar por lo menos con diez años de ejercicio profesional, contados a partir de la fecha de expedición del título respectivo;
+
+IV. No haber sido condenado por delito doloso, mediante sentencia ejecutoriada; y
+
+V. Contar con conocimientos, trayectoria y experiencia suficiente para la aplicación de instrumentos jurídicos locales, nacionales e internacionales protectores de los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+Los Visitadores Adjuntos serán designados por el Visitador General; lo auxiliarán en sus funciones y deberán cubrir los mismos requisitos que éste para desempeñar el cargo, con excepción del requisito descrito en la fracción III, pues para ese caso, solo deberán contar al menos con tres años de ejercicio en la profesión que refiere.
 
 Las suplencias de los Visitadores Adjuntos y del resto del personal de la Defensoría, se sujetarán a lo dispuesto en el Reglamento Interior.
 
@@ -1226,6 +1234,14 @@ SEGUNDO.- Quedan abrogadas todas las disposiciones de igual o menor jerarquía q
 P.O. 8 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 17 DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 36 DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
