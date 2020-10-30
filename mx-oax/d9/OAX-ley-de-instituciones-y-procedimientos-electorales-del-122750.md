@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2020-06-02"
+last_updated: "2020-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "OAX"
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE OCTUBRE DE 2020.]</small>
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -255,9 +257,9 @@ Artículo 9
 
 3.- La Ley de Participación Ciudadana para el Estado de Oaxaca señalará las disposiciones a las que se sujetarán el ejercicio de los Mecanismos de participación ciudadana a que se refieren los artículos 25 Apartado C y 114 Ter de la Constitución Local.
 
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE MAYO DE 2020)</small>
+(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE MAYO DE 2020) (F. DE E., P.O. 30 DE OCTUBRE DE 2020)
 
-4.- La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley, en los términos de la fracción XXXI del Artículo 2 y el artículo 303 de la presente Ley.
+4.- La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley, en términos de la fracción XXXI del Artículo 2 y el artículo 303 de la presente Ley. Se declarará nula la elección cuando se acredite la existencia de violencia política en contra de las mujeres en razón de género, siempre y cuando el candidato que cometió la violencia haya resultado ganador.
 
 Constituyen acciones y omisiones que configuran violencia política en razón de género las siguientes:
 
@@ -285,21 +287,23 @@ XI. Divulgar imágenes, mensajes o información privada de una mujer candidata o
 
 XII. Amenazar o intimidar en cualquier forma a una o varias mujeres, a sus familiares o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios que sean violatorios de los derechos humanos;
 
 XIV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 
-XV. Amenazar o intimidar en cualquier forma a una o varias mujeres, a sus familiares o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada; y,
+XV. Amenazar o intimidar en cualquier forma a una o varias mujeres, a sus familiares o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada; y
+
+> <small>(F. DE E., P.O. 30 DE OCTUBRE DE 2020)</small>
 
 XVI. Cualquiera otra acción, conducta u omisión que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales, o esté considerada en el artículo 11 BIS de la Ley Estatal de Acceso de las Mujeres a Una Vida Libre de Violencia de Género.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+(ADICIONADO, P.O. 30 DE MAYO DE 2020) (F. DE E., P.O. 30 DE OCTUBRE DE 2020)
 
 5.- Dentro del proceso electoral o fuera de este, las quejas o denuncias por violencia política hacia las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador, conforme a lo establecido en los artículos 335 a 340 de esta Ley.
 
 6.- El ejercicio de los derechos y el cumplimento (sic) de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia.
 
-7.- El Instituto Estatal, el Tribunal y los Partidos Políticos, en términos de los artículos 1º, 2º y 4º de la Constitución Federal y de los tratados internacionales en la materia de los que el Estado mexicano sea parte, y en el ámbito de sus atribuciones, establecerán mecanismos, para prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género.
+7.- El Instituto Estatal, el Tribunal y los Partidos Políticos, en términos de los artículos 1°, 2° y 4° de la Constitución Federal y de los tratados internacionales en la materia de los que el Estado mexicano sea parte, y en el ámbito de sus atribuciones, establecerán mecanismos, para prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género.
 
 Artículo 10
 
