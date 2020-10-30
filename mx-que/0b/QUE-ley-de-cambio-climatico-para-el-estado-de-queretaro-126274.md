@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-cambio-climatico-para-el-estado-de-queretaro-126274"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2019-12-22"
+last_updated: "2020-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2020.
 
 Ley publicada en el número 7 del Periódico Oficial del Estado de Querétaro, el miércoles 31 de enero de 2018.
 
@@ -33,7 +33,7 @@ LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE L
 
 CONSIDERANDO
 
-[…]
+[...]
 
 Por lo expuesto, la Quincuagésima Octava Legislatura del Estado de Querétaro expide la siguiente:
 
@@ -401,7 +401,9 @@ XV. La Comisión Estatal de Aguas;
 
 XVI. El Centro de Ecología y Cambio Climático del Estado de Querétaro; y
 
-XVII. El Presidente de la Comisión de Desarrollo Sustentable y Cambio Climático de la Legislatura del Estado.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+XVII. La Diputada o el Diputado que presida la Comisión de Medio ambiente o aquella que conozca de materia ambiental y que señale para ese efecto la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -1214,3 +1216,11 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 30 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY POR LA QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 11, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
