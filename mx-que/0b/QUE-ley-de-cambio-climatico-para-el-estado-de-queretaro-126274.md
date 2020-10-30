@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-cambio-climatico-para-el-estado-de-queretaro-126274"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2019-12-22"
+last_updated: "2020-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1007 +21,1175 @@ state: "QUE"
 ---
 # LEY DE CAMBIO CLIMATICO PARA EL ESTADO DE QUERETARO
 
-LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE FECHA 11 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el número 7 del Periódico Oficial del Estado de Querétaro, el miércoles 31 de enero de 2018.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
-FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:
+Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
-LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+ACUERDO MEDIANTE EL CUAL EL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL.
 
-CONSIDERANDO
+Reunidos en sesión ordinaria, en la sede del Instituto Estatal Electoral, los integrantes del Consejo General, previa convocatoria de su Presidente y determinación del quórum legal, con base en los siguientes
 
-[…]
+R E S U L T A N D O S :.
 
-Por lo expuesto, la Quincuagésima Octava Legislatura del Estado de Querétaro expide la siguiente:
+En virtud a lo expuesto en los Resultandos y Considerandos anteriores y con fundamento en lo establecido en los artículos 116 fracción IV, inciso c) de la Constitución Política de los Estados Unidos Mexicanos; 17 Apartado B, párrafo tercero de la Constitución Política del Estado de Aguascalientes; y 92 del Código Electoral del Estado de Aguascalientes, este Consejo General emite el siguiente:
 
-LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO
+A C U E R D O :
 
-## Título Primero. Disposiciones generales
+PRIMERO. Este Consejo General determina aprobar y expedir el Reglamento Interior del Instituto Estatal Electoral, que como anexo se adjunta al presente documento, cuya vigencia iniciará el día siguiente de su publicación en los Estrados de este Instituto, dejando por tanto sin efectos el vigente hasta esta fecha, lo anterior de conformidad con lo establecido en los Considerandos que integran el presente Acuerdo.
 
-### Capítulo Único. Normas preliminares
+SEGUNDO. El presente Acuerdo surtirá sus efectos al momento de su aprobación.
 
-###### Artículo 1.
+TERCERO. Notifíquese por estrados el presente Acuerdo con el anexo adjunto, en términos de lo establecido por los artículos 381 fracción III y 384 del Código Electoral vigente en el Estado.
 
-Las disposiciones de esta Ley son de orden público, interés general y de observancia en el Estado de Querétaro; tiene por objeto establecer las atribuciones del Estado y los municipios, en términos de lo previsto por la Ley General de Cambio Climático y demás normatividad aplicable, para la formulación e instrumentación de políticas públicas de adaptación al cambio climático, así como de prevención y mitigación de emisiones de calor a la atmósfera, compuestos y gases de efecto invernadero, en un marco de desarrollo sustentable.
+CUARTO. Para su conocimiento general, publíquese el presente Acuerdo, así como el Reglamento Interior del Instituto Estatal Electoral en el Periódico Oficial del Estado de Aguascalientes.
 
-###### Artículo 2.
+El presente Acuerdo fue tomado en sesión ordinaria del Consejo General del Instituto Estatal Electoral, celebrada a los treinta días del mes de junio del año dos mil nueve.- CONSTE.- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Los objetivos de esta Ley son:
+El PRESIDENTE,
 
-I. Establecer las políticas públicas estatales en materia de prevención, adaptación, mitigación y financiamiento al cambio climático con un enfoque de corto, mediano y largo plazo, participativo e integral que promuevan la transición hacia un desarrollo ambientalmente sustentable, socialmente justo y económicamente viable del Estado, considerando el estado actual de sus ecosistemas;
+Lic. Héctor Salvador Hernández Gallegos.
 
-II. Reducir la vulnerabilidad social, productiva, ecosistémica y ambiental, así como la construcción de un estado resiliente, promoviendo la realización de campañas de educación e información para sensibilizar a la población sobre los efectos del cambio climático;
+El SECRETARIO TÉCNICO,
 
-III. Establecer las bases para la concordancia de acciones en materia de adaptación y mitigación de cambio climático mediante la instrumentación de mecanismos de coordinación entre los Estados, los municipios y la Federación, así como de la homologación de información, criterios, instrumentos técnicos y políticas públicas;
+Lic. Sandor Ezequiel Hernández Lara.
 
-IV. Garantizar un modelo de desarrollo económico en el Estado que permita tanto la reducción de fuentes de calor, compuestos y gases de efecto invernadero en sectores prioritarios, así como de bajas emisiones de carbono e impacto ambiental;
+INSTITUTO ESTATAL ELECTORAL
 
-V. Garantizar el Derecho Humano al medio ambiente sano para su desarrollo y bienestar, la calidad de vida y la salud humana mediante la transición energética a energías limpias, el uso eficiente de la energía, la protección de ecosistemas y el establecimiento de medidas para la conservación, la reducción de emisiones de calor a la atmósfera y de compuesto y gases de efecto invernadero;
+AGUASCALIENTES, AGS.
 
-VI. Garantizar y fomentar el desarrollo de capacidades en materia de educación, investigación, desarrollo, innovación, transferencia de tecnología, aprovechamiento de energías renovables y difusión en materia de prevención, adaptación y mitigación al cambio climático, reduciendo la dependencia de los hidrocarburos;
+Reglamento Interior del Instituto Estatal Electoral de Aguascalientes
 
-VII. Propiciar la participación activa de la sociedad civil en la elaboración, implementación y evaluación de los instrumentos de la política pública estatal en materia de prevención, adaptación y mitigación desde la educación y cultura para contrarrestar los efectos e impactos del cambio climático;
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-VIII. Desarrollar los instrumentos económicos, fiscales y financieros de mercado vinculados con las acciones en materia de cambio climático;
+### CAPÍTULO ÚNICO
 
-IX. Transitar a modelos de ciudades sustentables con sistemas de movilidad, consumo responsable, uso eficiente de energía, economía local de bajas emisiones, impulso de productos orgánicos, gestión integral de residuos y edificaciones de baja huella de carbono, que reduzcan las emisiones de elementos persistentes, así como transitar hacia una economía de cero residuos a mediano y largo plazo para la mitigación de fuentes de calor, compuestos y gases de efecto invernadero;
+###### ARTÍCULO 1°.
 
-X. Impulsar la transición energética, protegiendo y preservando el medio ambiente y mejorando la calidad de vida de los habitantes del Estado, en coordinación con las disposiciones federales de la materia;
+El Instituto Estatal Electoral es un organismo público autónomo, ciudadanizado, permanente e independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propios. Es depositario del ejercicio de la función pública estatal de organizar las elecciones. Sus principios rectores serán la certeza, la legalidad, la imparcialidad, la independencia, definitividad y la objetividad. Y sus fines son los siguientes:
 
-XI. Fortalecer el Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro para el pago de servicios de captura de carbono, equipamiento de energías renovables y programas de educación ambiental para la mitigación de compuestos y gases de efecto invernadero, prevención y adaptación al cambio climático;
+I. Contribuir al desarrollo de la vida democrática;
 
-XII. Incrementar y restaurar las superficies de conservación, sumideros y captura natural o artificial de carbono; y
+II. Preservar el fortalecimiento de régimen de Partidos Políticos;
 
-XIII. Establecer los mecanismos para el ejercicio de los actos de inspección y vigilancia que permitan garantizar el cumplimiento y la observancia de la presente Ley y de las disposiciones que de ella deriven, así como la cuantificación, valoración y establecimiento de medidas para compensar y mitigar los efectos del cambio climático, sus acciones de sanción y medidas de seguridad.
+III. Asegurar a los ciudadanos el ejercicio de los derechos políticos-electorales y de participación ciudadana, así como vigilar el cumplimiento de sus obligaciones;
 
-###### Artículo 3.
+IV. Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes del Poder Legislativo, Poder Ejecutivo y Ayuntamientos del Estado;
 
-Para los efectos de esta Ley se entenderá por:
+V. Velar por la autenticidad y efectividad del sufragio; y
 
-I. Adaptación: Medidas y ajustes en sistemas humanos o naturales como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño o aprovechar sus aspectos beneficiosos;
+VI. Llevar a cabo la promoción del voto, la educación cívico-electoral, y coadyuvar a la difusión de la cultura democrática.
 
-II. Ahorro de energía: Racionalización de los procesos y consumos energéticos para aumentar la eficiencia de sus usos y evitar consumos innecesarios;
+###### ARTÍCULO 2°.
 
-III. Autoabastecimiento: Producción de energía por una persona física o moral de manera aislada y para su propio consumo, a través de energías renovables;
+El presente ordenamiento es de observancia general para los integrantes del Instituto Estatal Electoral de Aguascalientes y tiene por objeto reglamentar el funcionamiento y la organización interna del mismo, así como implementar los mecanismos para el debido ejercicio de las atribuciones que le confieren las leyes en materia electoral.
 
-IV. Cambio Climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y que se suma a la variabilidad natural del clima, observada durante períodos de tiempo comparables;
+###### ARTÍCULO 3°.
 
-V. Centro: Centro de Ecología y Cambio Climático del Estado de Querétaro;
+A efecto de interpretar las disposiciones de este Reglamento, se atenderá a los criterios gramatical, sistemático y funcional. A falta de disposición expresa se aplicarán los principios generales del derecho.
 
-VI. Cogeneración: Aprovechamiento doble de un combustible para proporcionar calor de proceso y generación energética, que no sea destinado al servicio público de energía eléctrica;
+###### ARTÍCULO 4°.
 
-VII. Comisión: Comisión Estatal de Cambio Climático del Estado de Querétaro;
+En todo lo no previsto en el presente Reglamento, se estará a lo que dispone el Código.
 
-VIII. Comisionado: Coordinador del Fomento a las Energías Renovables del Estado de Querétaro;
+## TÍTULO SEGUNDO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL INSTITUTO
 
-IX. Contaminantes climáticos de vida corta: Sustancias como el metano, carbono negro, ozono troposférico y los hidrofluorocarbonos (HFC), que tienen un impacto significativo a corto tiempo sobre el cambio climático y una vida relativamente corta en la atmósfera comparada con la del bióxido de carbono y otros gases;
+### CAPÍTULO I. De su Integración
 
-X. Desastre: Resultado de la ocurrencia de uno o más agentes perturbadores severos y/o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta del sistema o la comunidad afectada;
+###### ARTÍCULO 5°.
 
-XI. Diversificación energética: El aprovechamiento integral de los recursos energéticos disponibles, enfatizando la utilización de las energías renovables;
+Para los efectos de este Reglamento, se entiende por:
 
-XII. Economía de bajas emisiones de carbono: Desarrollo social, tecnológico y económico que tiene asociado un nivel de emisiones de dióxido de carbono menor al promedio, promoviendo eficiencia energética y el uso eficiente de los recursos;
+I. Código: El Código Electoral del Estado de Aguascalientes.
 
-XIII. Eficiencia energética: Conjunto de acciones relativas a la gestión eficiente de la demanda, uso racional y eficiente de la energía, entre otras, que permitan optimizar la relación entre la cantidad de energía consumida y los productos y servicios finales obtenidos para garantizar la satisfacción del usuario y las necesidades energéticas del Estado;
+II. Instituto: El Instituto Estatal Electoral de Aguascalientes.
 
-XIV. Energía de Biomasa: Energía que se obtiene de los compuestos orgánicos mediante procesos naturales;
+III. Consejo General: El Consejo General del Instituto Estatal Electoral.
 
-XV. Energía Fototérmica: Aquella en la que el aprovechamiento de la energía se basa en el efecto del calor que produce la luz solar y se destina al calentamiento de un fluido;
+IV. Consejeros: Los integrantes del Consejo General del Instituto Estatal Electoral, con atribuciones de voz y voto.
 
-XVI. Energía Fotovoltaica: Consiste en la conversión directa de la luz solar en electricidad, sin proceso intermedio, mediante un fenómeno físico conocido como efecto fotovoltaico;
+V. Consejeros Representantes: Los Consejeros Representantes de los Partidos Políticos ante el Consejo General del Instituto Estatal Electoral.
 
-XVII. Energías limpias: Fuentes de energía y procesos de generación de electricidad definidos como tales en la Ley de la Industria Eléctrica;
+VI. Presidente: El Presidente del Consejo General del Instituto Estatal Electoral.
 
-XVIII. Energías renovables: Aquellas cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por la humanidad y que se regeneran naturalmente, por lo que se encuentran disponibles de forma continua o periódica, contempladas en la Ley de Transición Energética;
+VII. Secretario Técnico: El Secretario Técnico del Consejo General del Instituto Estatal Electoral.
 
-XIX. Escenario de línea base: Descripción hipotética de lo que podría ocurrir con las variables que determinan las emisiones, absorciones o capturas de gases y compuestos de efecto invernadero;
+VIII. Comisión: La Comisión de Capacitación y Organización Electoral.
 
-XX. Establecimiento sujeto a reporte: Conjunto de fuentes fijas y móviles con las cuales se desarrolla una actividad productiva, comercial o de servicios, cuya operación genere emisiones de gases o compuestos de efecto invernadero;
+IX. Reglamento: El Reglamento Interior del Instituto Estatal Electoral.
 
-XXI. Estado: El Estado de Querétaro;
+###### ARTÍCULO 6°.
 
-XXII. Evento hidrometeorológico extremo: Agente perturbador que se genera por la acción de los agentes atmosféricos tales como ciclones tropicales; lluvias extremas; inundaciones pluviales, fluviales, costeras o lacustres; tormentas de nieve, granizo, polvo o electricidad; heladas; sequías; ondas cálidas o gélidas y tornados;
+Para el estudio, planeación y despacho de los asuntos de orden técnico, operativo y administrativo, el Instituto ejercerá sus atribuciones a través de:
 
-XXIII. Fondo Estatal: Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro;
+I. El Consejo General;
 
-XXIV. Fuentes emisoras: Todo proceso, actividad, servicio o mecanismo de competencia estatal que libere un gas o compuesto de efecto invernadero a la atmósfera;
+II. Las Comisiones permanentes y temporales del Consejo General;
 
-XXV. Fuente de gases o compuestos de efecto invernadero: Aquella que en su operación o desarrollo de su actividad, emite gases o compuestos de efecto invernadero;
+III. La Presidencia del Consejo General;
 
-XXVI. Gases o compuestos de efecto invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y emiten radiación infrarroja;
+IV. La Secretaría Técnica del Consejo General;
 
-XXVII. INECC: Instituto Nacional de Ecología y Cambio Climático;
+V. Los Consejos Distritales;
 
-XXVIII. Inventario: Documento que contiene la estimación de las emisiones antropógenas por las fuentes y de la absorción por los sumideros de los gases o compuestos de efecto invernadero;
+VI. Los Consejos Municipales;
 
-XXIX. Inventario Estatal: Inventario Estatal de Emisiones de Gases y Compuesto de Efecto Invernadero;
+VII. Las Mesas Directivas de Casilla;
 
-XXX. Isla de Calor: Gradiente térmico que se observa entre los espacios urbanos densamente ocupados y construidos y la periferia rural o peri-urbana; es una modificación climática no intencional cuando la urbanización le cambia las características a la superficie y a la atmósfera de la tierra;
+VIII. La Dirección de Capacitación y Organización Electoral;
 
-XXXI. Ley: Ley de Cambio Climático para el Estado de Querétaro;
+IX. La Dirección Administrativa;
 
-XXXII. Ley General: Ley General de Cambio Climático;
+X. La Dirección Jurídica;
 
-XXXIII. Medición, Reporte y Verificación (MRV): Filosofía de sistemas de gestión de la calidad que busca el incremento de la confiabilidad de la información al utilizar procesos de medición de parámetros, reporte de resultados y verificación de resultados por parte de un organismo independiente;
+XI. La Dirección del Organismo de Fiscalización de los Recursos de los Partidos Políticos;
 
-XXXIV. Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero;
+XII. La Contraloría General;
 
-XXXV. Movilidad sustentable: La habilidad para satisfacer la necesidad de la sociedad de moverse libremente, logrando el acceso a la comunicación, el comercio y el establecimiento de relaciones sin sacrificar otros valores esenciales, humanos o ecológicos, ahora o en el futuro;
+XIII. La Coordinación de Comunicación Social; y
 
-XXXVI. Organismos: Aquéllos acreditados y aprobados de acuerdo a los mecanismos previstos en la Ley Federal sobre Metrología y Normalización y que, en términos del Reglamento de la Ley General, verifican la información contenida en los reportes de emisiones o verifican proyectos que se pretendan presentar o inscribir en el Registro;
+XIV. La Coordinación de Informática;
 
-XXXVII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente, los ecosistemas y el desarrollo de las presentes y futuras generaciones;
+El Instituto contará, además, con el personal administrativo y profesional necesario para el cumplimiento de sus funciones, el cual se nombrará bajo los criterios del servicio profesional estatal electoral del Instituto.
 
-XXXVIII. Procuraduría: Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano de Querétaro;
+###### ARTÍCULO 7°.
 
-XXXIX. Programa Especial: Programa Especial de Cambio Climático;
+El Consejo General es el Órgano Superior de Dirección y Decisión Electoral en el Estado, de carácter permanente, el cual se integrará y funcionará de conformidad a lo establecido en el Código.
 
-XL. Programa de Energías: Programa Estatal de Energías Renovables;
+El Consejo General residirá en la ciudad de Aguascalientes, su domicilio se ubicará en las oficinas que tenga el Instituto, con la posibilidad de establecer sedes alternas, previo acuerdo del propio Consejo General.
 
-XLI. Programa Estatal: Programa Estatal de Acción ante el Cambio Climático para el Estado de Querétaro;
+###### ARTÍCULO 8°.
 
-XLII. Programa Municipal: Programa Municipal de Cambio Climático;
+Las atribuciones del Consejo General del Instituto, serán las contempladas en el artículo 99 del Código.
 
-XLIII. Registro: Registro Nacional de Emisiones;
+###### Artículo 9°.
 
-XLIV. Registro Estatal: Registro Estatal de Emisiones;
+El Presidente ejercerá las facultades de administración y representación del Instituto, supervisará y coordinará el funcionamiento y desarrollo adecuado de las actividades de los órganos ejecutivos, técnicos, operativos y de vigilancia que conformen el Instituto.
 
-XLV. Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse o soportar los efectos derivados del cambio climático;
+### CAPÍTULO II. Del Consejo General
 
-XLVI. Secretaría: Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Querétaro;
+###### ARTÍCULO 10.
 
-XLVII. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales;
+El Presidente tendrá las siguientes atribuciones:
 
-XLVIII. Servicios ambientales: El conjunto de componentes, condiciones y procesos naturales, incluyendo especies y genes, que la sociedad puede utilizar y que ofrecen las áreas naturales protegidas por su simple existencia, tales como la biodiversidad, el mantenimiento del germoplasma con uso potencial para el beneficio humano, el mantenimiento de valores estéticos y filosóficos, la estabilidad climática, la contribución a ciclos básicos del agua, carbono y otros nutrientes y la conservación de suelos, entre otros;
+I. Las señaladas en el artículo 100 del Código;
 
-XLIX. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y o (sic) sus precursores y aerosoles en la atmósfera incluyendo en su caso, compuestos de efecto invernadero;
+II. Disponer e implementar las medidas necesarias para la salvaguarda y conservación del patrimonio del Instituto;
 
-L. Transición energética: Conversión de la generación, uso y aprovechamiento de energía proveniente de recursos no renovables por renovables;
+III. Formular y celebrar convenios con los Poderes de la Unión, del Estado de Aguascalientes y Municipios, así como con los organismos públicos autónomos y particulares, en todo lo relativo a los objetivos del Instituto;
 
-LI. Transporte Limpio: Sistemas de transporte de diferentes materias y objetos, impulsados por energías renovables y combustibles de bajas emisiones de compuestos y gases de efecto invernadero; y
+IV. Establecer los mecanismos adecuados, eficientes y eficaces para el acopio y difusión de los resultados preliminares de las elecciones de Gobernador, Diputados y Ayuntamientos que se celebren en el Estado de Aguascalientes;
 
-LII. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+V. Presidir el Comité de Adquisiciones y Enajenaciones del Instituto; y
 
-###### Artículo 4.
+VI. Las demás que le otorguen el Código y el presente Reglamento.
 
-En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en la Ley General, la Ley General de Equilibrio Ecológico y la Protección al Ambiente, la Ley Federal de Responsabilidad Ambiental, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Transición Energética, la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro, la Ley Forestal Sustentable del Estado de Querétaro, la Ley de Procedimientos Administrativos del Estado de Querétaro, la Ley de Biodiversidad del Estado de Querétaro, el Código Urbano del Estado de Querétaro; y demás instrumentos jurídicos internacionales, administrativos, federales y estatales aplicables, relacionados con la materia que regula esta Ley.
+###### ARTÍCULO 11.
 
-## Título Segundo. De la distribución de competencias
+Para el desarrollo de sus atribuciones y funciones definidas dentro del marco normativo aplicable, contará y tendrá a su mando el personal administrativo, técnico y de asesoría necesario para la eficaz administración del Instituto.
 
-### Capítulo Primero. De las autoridades y sus atribuciones
+###### ARTÍCULO 12.
 
-###### Artículo 5.
+El Coordinador de Presidencia, tendrá las siguientes funciones generales:
 
-Son autoridades competentes para la aplicación de la presente Ley:
+I. Asesorar al Presidente, en asuntos relacionados con el desempeño de sus funciones;
 
-I. El Poder Ejecutivo del Estado;
+II. Documentar los asuntos propios del Presidente;
 
-II. La Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Querétaro;
+III. Desarrollar programas que permitan fortalecer la imagen institucional;
 
-III. La Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro;
+IV. Analizar y dar seguimiento a quejas y sugerencias y proponer solución de las mismas; y
 
-IV. Los municipios del Estado; y
+V. Las demás que le sean encomendadas por el Presidente.
 
-V. La Procuraduría.
+###### ARTÍCULO 13.
 
-###### Artículo 6.
+La Presidencia del Consejo General en año electoral contará con un Jefe del Departamento de Relaciones Públicas, quién tendrá las siguientes funciones generales:
 
-Corresponde al Poder Ejecutivo del Estado directamente o a través de la Secretaría y en apego al artículo 8 de la Ley General las siguientes atribuciones:
+I. Coordinar las acciones orientadas a fortalecer el desarrollo social del Instituto;
 
-I. Elaborar y promulgar el Programa Estatal;
+II. Proponer estrategias de solución a problemas, o de restablecimiento de relaciones a situaciones que afecten la imagen y desarrollo social del Instituto;
 
-II. Impulsar, promover, facilitar o fomentar el uso de energías renovables;
+III. Apoyar en la organización de las reuniones de trabajo con Consejeros, Consejeros Representantes, autoridades y dirigentes de organizaciones, asociaciones y grupos ciudadanos;
 
-III. Formular, conducir y evaluar anualmente la política estatal en materia de cambio climático en concordancia con los instrumentos de política nacional;
+IV. Fortalecer las relaciones públicas con los actores políticos y sociales que están involucrados en el desarrollo del Instituto;
 
-IV. Formular, regular, dirigir, instrumentar y evaluar acciones de prevención, mitigación y adaptación al cambio climático, de acuerdo al Programa Estatal;
+V. Dar seguimiento a la agenda del Presidente; y
 
-V. Identificar y atender a poblaciones y ecosistemas vulnerables en el Estado y sus municipios;
+VI. Las demás que le sean encomendadas por el Presidente.
 
-VI. Implementar con los municipios lineamientos generales obligatorios para el ahorro, eficiencia en el uso de energía y en el uso de tecnologías ecológicas de bajo costo que mitiguen el cambio climático;
+###### ARTÍCULO 14.
 
-VII. Establecer la concordancia de políticas, mecanismos de coordinación, programas o proyectos en los tres órdenes de gobierno;
+El Instituto podrá contar con el personal eventual necesario para el cumplimiento de sus fines, de acuerdo a la disponibilidad financiera existente.
 
-VIII. Promover instrumentos económicos, sociales y ambientales, que salvaguarden los sumideros para la reducción y mitigación de islas de calor y emisiones de compuestos y gases de efecto invernadero;
+###### ARTÍCULO 15.
 
-IX. Promover campañas de fomento de mitigación de fuentes de calor, emisiones de compuestos y gases de efecto invernadero;
+La Secretaría Técnica, a fin de instrumentar los mecanismos necesarios para el cumplimiento de sus funciones, contará con la siguiente estructura:
 
-X. Promover la preservación, restauración, el aprovechamiento sustentable de los recursos naturales, promover el incremento de los sumideros naturales y la conservación de los ecosistemas y su biodiversidad;
+I. Secretario Técnico;
 
-XI. Involucrar activamente a la población en la formulación y evaluación de la política pública estatal en materia de cambio climático y en la aplicación del Programa Estatal;
+a) Asistente del Secretario Técnico;
 
-XII. Promover el fortalecimiento de capacidades individuales e institucionales en materia de prevención, adaptación y mitigación al cambio climático;
+b) Notificador;
 
-XIII. Elaborar indicadores para el monitoreo de las concentraciones de contaminantes y evaluar dichas concentraciones para mantenerlas por debajo de los límites permisibles de acuerdo a la legislación vigente en la materia y valores internacionales;
+II. Coordinador de la Secretaría Técnica;
 
-XIV. Promover el fortalecimiento continuo de capacidades técnicas para estudiar y conocer la cuenca atmosférica a la que pertenece el Estado;
+a) Jefe de la Unidad de Enlace;
 
-XV. Emitir criterios y procedimientos para evaluar y vigilar el cumplimiento del Programa Estatal y establecer metas e indicadores de efectividad e impacto de las acciones de prevención, mitigación y adaptación que implementen;
+b) Auxiliar del Coordinador (en año electoral)
 
-XVI. Crear un grupo estratégico de captación de fondos para proyectos de prevención, adaptación y mitigación ante el cambio climático, el cual se integrará al Fondo Estatal;
+c) Auxiliar para atención de la Oficialía de Partes (en año electoral)
 
-XVII. Crear la figura de sellos de bajas emisiones como una certificación para incentivar los procesos, productos y servicios ambientalmente responsables;
+III. Coordinador de Organismos Electorales (en año electoral);
 
-XVIII. Fomentar el bienestar de la biodiversidad y de los ecosistemas, así como fortalecer la resistencia y resiliencia de los ecosistemas ante los efectos del cambio climático a nivel estatal y municipal, así como los criterios y procedimientos para evaluar su estado y promoción de su conservación;
+a) Jefe del Departamento de Organismos Electorales;
 
-XIX. Promover la coordinación con la Federación, con otros Estados y municipios para hacer frente a los impactos causados por eventos hidrometeorológicos extremos en el Estado y sus daños asociados;
+b) Asistente para la atención de Consejos Distritales;
 
-XX. Celebrar convenios con los tres órdenes de gobierno para el desarrollo e implementación de proyectos de infraestructura ambientales en favor de la población, así como acciones en materia de cambio climático, su prevención, adaptación y mitigación;
+c) Asistente para la atención de Consejos Municipales;
 
-XXI. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la prevención y adaptación al cambio climático, así como para la mitigación de las emisiones de gases de efecto invernadero, con el apoyo del Centro;
+d) Asistente para la atención de Observadores Electorales;
 
-XXII. Realizar campañas de educación y sensibilización a la población, sobre los efectos adversos del cambio climático, principalmente con mujeres y los pueblos indígenas, para resaltar la importancia que tiene la prevención, adaptación y mitigación del cambio climático;
+e) Capturista;
 
-XXIII. Instrumentar programas de participación social en materia de cambio climático;
+IV. Jefe del Departamento de Prerrogativas a Partidos Políticos y Asociaciones Políticas;
 
-XXIV. Incorporar e integrar al Estado al Sistema Nacional de Cambio Climático de conformidad con la Ley General y elaborar e integrar, en colaboración con el INECC, la información de las categorías de fuentes emisoras del Estado para su incorporación al Inventario Nacional de Emisiones, así como para integrar el Inventario Estatal conforme a los criterios que la Federación emita;
+- Asistente de la Jefatura de Prerrogativas a Partidos Políticos y Asociaciones Políticas (en año electoral);
 
-XXV. Diseñar y promover el establecimiento y aplicación de incentivos que promuevan la ejecución de acciones para la mitigación de cambio climático;
+V. Jefe del Departamento de Gestión, Estudios y Proyectos;
 
-XXVI. Convenir con los sectores académico, social y privado la realización de acciones e inversiones concertadas hacia el cumplimiento de los objetivos del presente ordenamiento y del Programa Estatal;
+- Asistente de la Jefatura de Gestión, Estudios y Proyectos (en año electoral);
 
-XXVII. Generar los instrumentos de política pública que vinculen la remoción de vegetación, cambios de uso de suelo, fragmentación y desaparición de ecosistemas con las emisiones de carbono causantes del cambio climático de acuerdo con la normatividad vigente;
+###### ARTÍCULO 16.
 
-XXVIII. Evaluar continuamente el estado de los ecosistemas y sus indicadores, establecer políticas, planes y estudiar, reducir, aprovechar y monitorear las fuentes emisoras de calor que ocasionan el fenómeno de islas de calor y cambio climático;
+El Secretario Técnico del Consejo General, tendrá las siguientes atribuciones:
 
-XXIX. Establecer planes, programas y proyectos, acciones de coordinación y asignación de recursos para los mismos que tengan como fin el fomento del desarrollo y aprovechamiento de las energías renovables en el Estado;
+I. Las señaladas en el artículo 102 del Código;
 
-XXX. Establecer un modelo de desarrollo económico basado en el uso de energías renovables para una mayor competitividad de las actividades económicas y que contrarresten los efectos del cambio climático.
+II. Llevar el registro de asistencia de los integrantes del Consejo General a las sesiones e informar al Presidente de las ausencias tanto de los Consejeros, como de los Consejeros Representantes y en el caso de estos últimos, dar aviso a la Dirigencia Estatal del partido al que representen;
 
-XXXI. Convenir con la Federación, los municipios y con los particulares que acrediten un interés legítimo, la ejecución de obras y proyectos que tengan como propósito el beneficio social derivado del uso, fomento y aprovechamiento de las energías renovables en el Estado;
+III. Llevar el registro de los Partidos Políticos acreditados ante el Instituto y de su domicilio en el Estado, así como de los Consejeros Representantes propietarios y suplentes;
 
-XXXII. Promover instrumentos y mecanismos financieros para el uso y aprovechamiento de energías renovables.
+IV. Integrar y llevar el registro de los ciudadanos acreditados como observadores electorales, así como expedir las acreditaciones correspondientes;
 
-XXXIII. Fomentar acciones a favor (sic) desarrollo integral de la Entidad a través de los beneficios del aprovechamiento de las fuentes de energía renovables en el Estado;
+V. Notificar a los Partidos Políticos, Asociaciones Políticas y Coaliciones, de forma personal y por estrados, su domicilio particular o el del personal autorizado por el Consejo General, para la recepción de los escritos de término fuera del horario de labores;
 
-XXXIV. Gestionar a favor de la Entidad recursos nacionales e internacionales que propicien un mayor aprovechamiento de las energías renovables;
+VI. Ordenar y custodiar las actas de las sesiones del Consejo General, así como de los documentos en que consten los acuerdos y resoluciones, y en general del acervo histórico documental del Instituto;
 
-XXXV. Promover en el Estado y los municipios la cultura sobre el uso de las energías renovables, particularmente aquéllas que se apliquen en edificios públicos, monumentos, vialidades, parques urbanos y comunidades rurales;
+VII. Expedir copias certificadas que así le soliciten, respecto de los documentos que obren en el archivo del Instituto;
 
-XXXVI. Ser coadyuvante con el Poder Ejecutivo Federal para coordinar con los municipios del Estado el fomento del aprovechamiento y uso eficiente de las fuentes de energía renovable en la Entidad, en los términos que los convenios y acuerdos que al efecto se celebren;
+VIII. Atender los requerimientos de información de las instituciones, Partidos Políticos y de particulares interesados en la materia electoral, en los términos de lo que dispone la Ley de Transparencia e Información Pública del Estado;
 
-XXXVII. Promover el diseño de planes de ordenamiento territorial, considerando el uso de las energías renovables, fundamentalmente en zonas no conectadas a las redes de energía convencional, que se encuentran en regiones aisladas;
+IX. Despachar la documentación en cumplimiento de los acuerdos con el Presidente;
 
-XXXVIII. Coadyuvar con la Federación en la ejecución de los lineamientos que conduzcan a la diversificación energética;
+X. Autorizar libros de gobierno para el control de recepción de los documentos;
 
-XXXIX. Proponer a los municipios los criterios y mecanismos para establecer las contribuciones por licencias de construcción y permisos de uso de suelo aplicables en el fomento del aprovechamiento de las energías renovables;
+XI. Formular y firmar los informes circunstanciados de los medios de impugnación que en contra de los acuerdos y resoluciones del Consejo interpongan los Partidos Políticos, Asociaciones Políticas Estatales, Coaliciones, y en su caso, los ciudadanos;
 
-XL. Elaborar y dar seguimiento a todos los acuerdos y programas de coordinación que suscriba el Estado relacionados con el aprovechamiento sustentable de las energías renovables para el Estado de Querétaro;
+XII. Notificar los acuerdos administrativos, acuerdos de trámite, las resoluciones y los acuerdos del Consejo o aquellos que éste le encomiende;
 
-XLI. Señalar a las personas físicas o morales responsables de las fuentes emisoras las reducciones de emisiones a las que se estarán obligados (sic) y la temporalidad para lograr dichas reducciones; y
+XIII. Presentar al Consejo General propuestas de reformas; derogaciones y demás modificaciones a la normatividad interna del Instituto;
 
-XLII. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables en materia ambiental y administrativa.
+XIV. Presentar al Consejo General estudios de comportamiento electoral, presencia del Instituto en la ciudadanía;
 
-###### Artículo 7.
+XV. Informar sobre el cumplimiento de los acuerdos y resoluciones que emita el Consejo General así como de las actas de las sesiones que se aprueben;
 
-Corresponde a la Procuraduría vigilar, en el ámbito de su competencia, el cumplimiento de esta Ley y los demás ordenamientos que de ella se deriven, así como sancionar su incumplimiento.
+XVI. Dar cuenta al Consejo General de los proyectos de dictamen de las comisiones;
 
-###### Artículo 8.
+XVII. Recibir y dar el trámite previsto en la ley de la materia, a los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo General, informándole sobre los mismos en la sesión inmediata;
 
-Corresponde a los municipios, las siguientes atribuciones:
+XVIII. Informar al Consejo General de las resoluciones dictadas por los órganos jurisdiccionales electorales, en los asuntos que sean de su competencia;
 
-I. Formular, conducir y evaluar la política municipal en materia de prevención, adaptación y mitigación ante cambio climático, de eficiencia energética y del uso de energías renovables en concordancia con la política nacional y estatal;
+XIX. Llevar el registro de las actas, acuerdos y resoluciones aprobadas por el Consejo General, y un archivo de los mismos;
 
-II. Formular, instrumentar y expedir el Programa Municipal en concordancia con los instrumentos de planeación y política del Estado, así como vigilar y evaluar su cumplimiento;
+XX. Coordinar y supervisar los trabajos de los Consejos Distritales y Municipales, así como la integración de sus archivos correspondientes;
 
-III. Promover la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la prevención, mitigación y adaptación al cambio climático mediante el establecimiento de colaboración con centros de investigación, instituciones de educación superior, institutos, empresas y otros organismos especializados en la materia;
+XXI. Firmar, junto con el Presidente del Consejo General, todos los acuerdos y resoluciones que emita ese órgano colegiado;
 
-IV. Realizar campañas de educación e información, en coordinación con el gobierno estatal y federal, para sensibilizar a la población sobre los efectos adversos del cambio climático;
+XXII. Integrar los expedientes con las actas del cómputo de las elecciones de Gobernador y del Diputados por el principio de representación proporcional, y presentarlos oportunamente al Consejo General;
 
-V. Promover la participación corresponsable de la sociedad en la planeación, ejecución y vigilancia de las políticas del cambio climático y el Programa Municipal;
+XXIII. Dar cuenta al Consejo General de los informes que sobre las elecciones reciba de los Consejos Distritales y Municipales Electorales;
 
-VI. Promover el fortalecimiento de capacidades institucionales y sectoriales para la prevención, adaptación y mitigación al cambio climático;
+XXIV. Las demás que establezca el Código, que ordene el Consejo o su Presidente.
 
-VII. Desarrollar estrategias, programas y proyectos integrales de mitigación de las emisiones de gases de efecto invernadero, impulsando la movilidad sustentable, tanto pública como privada;
+### CAPÍTULO III. De la Presidencia del Consejo General
 
-VIII. Desarrollar el esquema de certificación para procesos, productos y servicios de bajas emisiones de carbono en coordinación con la Secretaría y el Centro;
+###### ARTÍCULO 17.
 
-IX. Proponer el establecimiento y aplicación de incentivos e instrumentos económicos que promuevan acciones para el cumplimiento del objeto de la presente ley;
+En el ejercicio de sus atribuciones, el Secretario Técnico deberá actuar conforme a lo señalado en el Código, lo que disponga el presente Reglamento, así como a lo establecido por el Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral.
 
-X. Coadyuvar con las autoridades federales y estatales en la instrumentación de la Estrategia Nacional, el Programa Especial y el Programa Estatal;
+###### ARTÍCULO 18.
 
-XI. Gestionar recursos para ejecutar acciones de prevención, adaptación y mitigación ante el cambio climático, de eficiencia energética y del uso de energías renovables;
+La Coordinación de la Secretaría Técnica, tendrá las siguientes funciones generales:
 
-XII. Generar los instrumentos de política pública que vinculen la remoción de vegetación, cambios de uso de suelo, fragmentación y desaparición de ecosistemas con las emisiones de carbono causantes del cambio climático;
+I. Promover, gestionar y coordinar la elaboración y publicación de investigaciones, ensayos y artículos sobre temas político-electorales;
 
-XIII. Elaborar e integrar, en colaboración con el INECC y la Secretaría, la información de las categorías de Fuentes Emisoras que se originan en su territorio, para su incorporación al Inventario Nacional y Estatal de Emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia de acuerdo a la Ley General;
+II. Promover y gestionar convenios de servicio social y practica profesionales con diferentes instituciones de educación;
 
-XIV. Vigilar y promover, en el ámbito de su competencia, el cumplimiento de esta ley, sus disposiciones reglamentarias y los demás ordenamientos que deriven de ella;
+III. Elaborar el proyecto para el registro de candidatos y de representantes de Partidos Políticos y coaliciones para el proceso electoral;
 
-XV. Establecer programas que promuevan la realización de actividades que tengan por objeto el fomento de las fuentes renovables de energía, así como la sustentabilidad energética, de acuerdo con los planes de desarrollo municipal;
+IV. Integrar el proyecto de agenda para el proceso electoral respectivo;
 
-XVI. Fomentar la realización de actividades de divulgación, difusión, promoción y concientización de las tecnologías de energías renovables; celebrar convenios para el cumplimiento de la presente Ley;
+V. Elaborar el proyecto anual de actividades de la Secretaría Técnica; y
 
-XVII. Prever en su Presupuesto de Egresos para el ejercicio fiscal que corresponda, los recursos necesarios para la promoción de energías renovables y la eficiencia energética en su municipio;
+VI. Las demás que le sean encomendadas por el Secretario Técnico.
 
-XVIII. Implementar mecanismos de aprovechamiento de fuentes renovables de energía y sustentabilidad energética, particularmente en la prestación de los servicios públicos municipales;
+## TÍTULO TERCERO. DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
 
-XIX. Instrumentar programas encaminados a la aplicación de fuentes renovables de energía y su uso eficiente en comunidades rurales y espacios públicos;
+### CAPÍTULO I. De los Consejos Distritales
 
-XX. Facilitar el acceso a aquellas zonas con alto potencial de fuentes renovables de energía y promover la compatibilidad del uso de suelo para tales fines;
+###### ARTÍCULO 67.
 
-XXI. Establecer regulaciones de uso de suelo y construcción, considerando los intereses de propietarios o poseedores de terrenos para el aprovechamiento de fuentes renovables de energía;
+Los Consejos Distritales son los responsables de organizar las elecciones dentro de sus respectivos distritos, conforme a lo dispuesto por el Código. Gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
 
-XXII. Implementar la reglamentación necesaria en materia de desarrollo urbano, con el fin de aprovechar las energías renovables en las obras públicas a realizar por los municipios; del mismo modo, se incorporen a los reglamentos de construcción, la normatividad pertinente que garantice la eficiencia energética en las edificaciones dentro de la jurisdicción de cada Ayuntamiento, considerando las condiciones del medio ambiente;
+### CAPÍTULO II. De los Consejos Municipales
 
-XXIII. Simplificar los procedimientos administrativos para la obtención de permisos y licencias, para los proyectos de aprovechamiento de fuentes renovables de energía;
+###### ARTÍCULO 68.
 
-XXIV. Establecer un programa para la transición energética que garantice al menos un 50 % de energías renovables;
+Los Consejos municipales son los responsables de organizar las elecciones dentro de sus respectivos municipios, conforme a lo dispuesto por el Código. Gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
 
-XXV. Aprovechar la biomasa de los rellenos sanitarios para la generación de energía, para el uso en los servicios públicos; y
+### CAPÍTULO IV. De la Secretaría Técnica del Consejo General
 
-XXVI. Las demás que sean necesarias para el cumplimiento de la presente Ley.
+###### ARTÍCULO 19.
 
-###### Artículo 9.
+La Jefatura de la Unidad de Enlace tendrá las siguientes funciones generales:
 
-El Poder Ejecutivo del Estado y los municipios podrán suscribir convenios de concertación con la sociedad en materia de cambio climático que, entre otros elementos, incluirán los objetivos, periodo, acciones, lugares, metas y aportaciones financieras que corresponda realizar a cada parte.
+I. Atender las solicitudes de transparencia solicitadas por cualquier persona relacionadas con información del Instituto, los Partidos Políticos y las Asociaciones Políticas;
 
-### Capítulo Segundo. De la Comisión Estatal de Cambio Climático
+II. Poner a disposición de cualquier persona en la página de Internet del Instituto, la documentación considerada como pública conforme a lo establecido en el Código;
 
-###### Artículo 10.
+III. Analizar la documentación considerada como confidencial y reservada de conformidad a lo establecido en el Código y la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
 
-La Comisión Estatal de Cambio Climático del Estado de Querétaro tendrá carácter permanente y será presidida por el titular del Ejecutivo del Estado de Querétaro y en su caso a quien de digne (sic) como su representante, quien deberá contar con experiencia en la materia.
+IV. Promover la cultura del derecho de acceso a la información pública en el Estado de Aguascalientes;
 
-###### Artículo 11.
+V. Observar las disposiciones señaladas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes; y
 
-La Comisión se integrará, en calidad de vocales, por los titulares de las siguientes dependencias:
+VI. Las demás que le sean encomendadas por el Secretario Técnico.
 
-I. Secretaría de Gobierno;
+###### ARTÍCULO 20.
 
-II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2019)
+La Secretaría Técnica del Consejo General en año electoral contará con una Coordinación de Organismos Electorales, la cual tendrá las siguientes funciones generales:
 
-III. Secretaría de Salud;
+I. Llevar a cabo las actividades relativas a la integración de los Consejos Distritales y Municipales;
 
-IV. Secretaría de Desarrollo Sustentable;
+II. Elaborar las bases para que la Dirección Jurídica realice convenios para las gestiones ante las autoridades del Estado para concretar los apoyos que requieren los Consejos Distritales y Municipales;
 
-V. Secretaría de Desarrollo Agropecuario;
+III. Prever la concentración de espacios para la instalación y funcionamiento de los Consejos Distritales;
 
-VI. Secretaría de Seguridad Ciudadana;
+IV. Gestionar la entrega de recursos humanos, materiales y financieros para el funcionamiento de los Consejos Distritales y Municipales;
 
-VII. Secretaría de Turismo;
+V. Apoyar con asesoría de la Dirección Jurídica a los Consejos Distritales y Municipales, en la preparación y realización de sus sesiones, y la documentación relativa a los estudios, proyectos y acuerdos que deban elaborar, presentar y aprobar;
 
-VIII. Secretaría de Educación;
+VI. Requerir a los Consejos Distritales y Municipales, copias de las actas elaboradas de las sesiones, realizar su análisis e integrar y controlar un archivo de las mismas, en el que se incluya la demás documentación que generen estos organismos;
 
-IX. Secretaría de la Juventud;
+VII. Proporcionar a los Consejos Distritales y Municipales la información necesaria para que estos lleven a cabo los procesos de ubicación de casillas, integración de mesas directivas, registros de candidatos y de representantes generales y ante mesas directivas de casillas;
 
-X. Secretaría de Desarrollo Social;
+VIII. Desarrollar e instrumentar el sistema y programa de insaculación de ciudadanos; coadyuvando con la Coordinación de Informática;
 
-XI. Secretaría de Desarrollo Urbano y Obras Públicas;
+IX. Apoyar y asesorar a los Consejos Distritales y Municipales en la realización de los cómputos electorales; y
 
-XII. Instituto Queretano del Transporte;
+X. Las demás que le sean encomendadas por el Secretario Técnico.
 
-XIII. Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano Querétaro;
+###### ARTÍCULO 21.
 
-XIV. La Coordinación Estatal de Protección Civil;
+La Jefatura de Organismos Electorales tendrá las siguientes funciones generales:
 
-XV. La Comisión Estatal de Aguas;
+I. Diseñar y proponer formatos, trípticos y documentación electoral utilizable por los organismos electorales;
 
-XVI. El Centro de Ecología y Cambio Climático del Estado de Querétaro; y
+II. Coordinar la entrega de recursos y materiales para el adecuado funcionamiento de los organismos electorales;
 
-XVII. El Presidente de la Comisión de Desarrollo Sustentable y Cambio Climático de la Legislatura del Estado.
+III. Supervisar la integración y mantenimiento del archivo de los organismos electorales;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+IV. Recopilar, resumir, analizar y sintetizar la información del Proceso Electoral para la elaboración del informe y memoria correspondiente;
 
-Los integrantes de la Comisión a los que se refiere el presente artículo tendrán derecho a voz y voto, en las sesiones que celebre la misma, pudiendo designar a quienes los suplan en sus ausencias, con los mismos derechos y obligaciones que les otorga la presente Ley a los Vocales.
+V. Supervisar la logística para las sesiones del Consejo Electoral correspondiente;
 
-La Comisión, por acuerdo de sus integrantes, podrá invitar a sus sesiones a otros representantes de los gobiernos federal, de otras entidades federativas o de los municipios, así como a personas físicas y representantes de organizaciones e instituciones relacionadas con la materia de cambio climático, cuando se estime conveniente por la naturaleza de los asuntos a tratar.
+VI. Llevar el control de acreditaciones de los Representantes de los Partidos Políticos ante el Consejo General, y
 
-###### Artículo 12.
+VII. Las demás que le sean encomendadas por el Secretario Técnico.
 
-La Comisión ejercerá las atribuciones siguientes:
+###### ARTÍCULO 22.
 
-I. Realizar todos los acuerdos que se tomen a fin de impulsar los programas para fomentar el desarrollo y aprovechamiento sustentable de las energías renovables en el Estado;
+La Jefatura de Prerrogativas a Partidos Políticos y Asociaciones Políticas, tendrá las siguientes funciones generales:
 
-II. Promover la investigación, desarrollo y actualización de tecnologías relacionadas con el aprovechamiento sustentable de las energías renovables en el Estado;
+I. Llevar el registro e integración de los expedientes, sobre la acreditación de los Partidos Políticos nacionales ante el Consejo General;
 
-III. Opinar sobre las acciones y los programas de gobierno en la materia, así como proponer líneas para la conducción eficiente de los mismos;
+II. Llevar el control y registro de las Asociaciones Políticas locales e integrar los expedientes correspondientes;
 
-IV. Definir, convocar e instalar grupos de trabajo necesarios para la consultoría científica, técnica, legal, y financiera, para atender los temas específicos objeto de la presente Ley;
+III. Apoyar en lo relativo a los procesos del registro de coaliciones, plataformas electorales y candidatos, verificando que se cumplan los requisitos señalados por el Código;
 
-V. Proponer formas y sistemas de generación y autoabastecimiento de energías renovables entre los sectores público y privado en el Estado;
+IV. Elaborar las bases para que la Dirección Jurídica desarrolle convenios para la concertación de lugares para fijar y colocar propaganda y la utilización de locales para realizar actos partidistas;
 
-VI. Formular, proponer y coordinar políticas públicas, planes, metas y estrategias en las diferentes dependencias de la administración pública estatal en materia de prevención, adaptación y mitigación del cambio climático, eficiencia energética y el uso de energías renovables, así como su incorporación en los programas y acciones, de conformidad con lo previsto en la Estrategia Nacional y el Programa Estatal;
+V. Realizar estudios sobre financiamiento de Partidos Políticos, así como de los costos de precampaña, campaña y gasto ordinario;
 
-VII. Aprobar el Programa Estatal, cuya elaboración corresponde a la Secretaría;
+VI. Diseñar el catalogo de precios, espacios y tiempos de los medios de comunicación impresa, electrónica, cibernética e Internet;
 
-VIII. Convocar a las organizaciones de los sectores sociales y privados a que manifiesten su opinión y propuestas en materia de cambio climático;
+VII. Diseñar las bases metodológicas para que el Instituto apruebe el desarrollo de encuestas o sondeos de opinión sobre asuntos electorales;
 
-IX. Definir acciones y proyectos en materia de cambio climático que sean estratégicos, así como proponer y encargar estudios y proyectos de investigación científica o tecnológica en materia de cambio climático, eficiencia energética y utilización de fuentes de energía renovables, con la participación del Centro;
+VIII. Elaborar las bases para el otorgamiento de prerrogativas a los Partidos Políticos; y
 
-X. Promover la realización de campañas de educación e información, para sensibilizar a la población sobre los efectos adversos del cambio climático;
+IX. Las demás que le sean encomendadas por el Secretario Técnico.
 
-XI. Promover el acceso a la información pública, la transparencia y la participación social en materia de cambio climático;
+###### ARTÍCULO 23.
 
-XII. Difundir sus trabajos y resultados, así como publicar un informe anual de actividades;
+La Jefatura de Gestión, Estudios y Proyectos, tendrá las siguientes funciones generales:
 
-XIII. Elaborar y emitir su reglamento interno;
+I. Efectuar los estudios previos a la celebración de los procesos electorales locales;
 
-XIV. Gestionar recursos para ejecutar el Programa Estatal y dar seguimiento al presupuesto anual en materia con el apoyo de la Secretaría de Planeación y Finanzas;
+II. Ejecutar lo relativo a la aplicación de las Bases de Colaboración con el Instituto Federal Electoral, en relación con los apoyos, información y documentación que proporciona ese organismo para la elección local;
 
-XV. Las demás que le confiera la presente Ley, sus reglamentos y otras disposiciones jurídicas que de ella deriven.
+III. Recibir la documentación de los ciudadanos que soliciten su acreditación como observadores electorales, verificar requisitos y elaborar, en su caso, las acreditaciones y gafetes correspondientes;
 
-###### Artículo 13.
+IV. Elaborar los proyectos de documentación y materiales electorales que apruebe el Consejo General para el proceso electoral;
 
-La Comisión sesionará en forma ordinaria por lo menos 2 veces al año, previa convocatoria que haga su Secretario Técnico por instrucción del Presidente o Coordinador General y de forma extraordinaria a propuesta de su Presidente.
+V. Recabar información y documentación que sirva de base para la elaboración de la estadística y memoria del proceso electoral, ejecutando ambos proyectos para darle difusión;
 
-###### Artículo 14.
+VI. Elaborar el manual de procedimientos de operación;
 
-A los funcionarios de la Comisión les corresponderá el ejercicio de las atribuciones siguientes:
+VII. Coordinar lo relativo a la instrumentación del programa de resultados electorales preliminares;
 
-I. Al Presidente:
+VIII. Elaborar estudios de carácter político-electoral; y
 
-a) Presidir las sesiones ordinarias y extraordinarias de la Comisión;
+IX. Las demás que le sean encomendadas por el Secretario Técnico.
 
-b) Presentar la propuesta de Reglamento Interno de la Comisión;
+###### ARTÍCULO 24.
 
-c) Instruir al Secretario Técnico para que emita las convocatorias para las sesiones ordinarias y extraordinarias de la Comisión;
+La Dirección Administrativa dependerá del Presidente, sus atribuciones serán las contempladas en el artículo 107 del Código además de las siguientes:
 
-d) Aprobar el orden del día de las sesiones ordinarias y extraordinarias de la Comisión; y
+I. Formular los proyectos de: manual de organización, manual de procedimientos y catálogo de puestos, para someterlos a la aprobación de la Presidencia;
 
-e) Las demás que le confiera su Reglamento Interno.
+II. Establecer con aprobación del Consejo General, las políticas, normas y procedimientos generales para el ejercicio, control y optimización del presupuesto anual autorizado;
 
-II. Al Coordinador General, que será el titular de la Secretaría:
+III. Autorizar la adquisición y pago de bienes materiales, suministros y servicios generales, para satisfacer las necesidades del Instituto, con base en la normatividad vigente;
 
-a) Presidir las sesiones ordinarias y extraordinarias de la Comisión, en ausencia del Presidente;
+IV. Formular los procedimientos para promoción y otorgamiento de estímulos del personal del Instituto, para someterlo a consideración de la Presidencia;
 
-b) Instruir al Secretario Técnico para que emita las convocatorias para las sesiones ordinarias y extraordinarias de la Comisión en ausencia del Presidente;
+V. Formular, en coordinación con la Dirección de Capacitación y Organización Electoral, los programas de capacitación permanente o especial para el personal del Instituto, presentándolos a la Presidencia para su análisis y aprobación;
 
-c) Coordinar, dirigir y supervisar los trabajos de la Comisión, y asumir su representación en eventos relacionados con las actividades de la misma; y
+VI. Diseñar los procedimientos de inscripción, capacitación y selección del personal que requiera el Instituto;
 
-d) Las demás que le confiera su Reglamento Interno.
+VII. Elaborar el informe mensual de la situación presupuestal, contable y financiera del Instituto;
 
-III. Al Secretario Técnico, que será el titular del Centro:
+VIII. Difundir a los órganos administrativos el presupuesto anual autorizado;
 
-a) Elaborar la propuesta de Reglamento Interno de la Comisión;
+IX. Autorizar, coordinar y ejercer el presupuesto autorizado, mancomunadamente con los servidores públicos que se designen y faculten para tal fin, mediante los instrumentos financieros, con base en la normatividad aplicable;
 
-b) Emitir las convocatorias para las sesiones ordinarias y extraordinarias de la Comisión, por instrucciones del Presidente o Coordinador General;
+X. Proveer lo necesario para el control, suministro, conservación, rehabilitación, reposición y en general el buen uso de los recursos, muebles e inmuebles propios, arrendados y de comodato, de acuerdo al presupuesto autorizado;
 
-c) Proponer el orden del día de las sesiones ordinarias y extraordinarias de la Comisión;
+XI. Vigilar el uso y modernización de los sistemas administrativos, para el control de los recursos humanos, materiales y financieros;
 
-d) Proponer la agenda anual de trabajo de la Comisión y presentar un informe anual de sus actividades;
+XII. Llevar a cabo el registro de la estructura orgánica del Instituto que haya sido aprobada, así como de la actualización de los manuales administrativos autorizados;
 
-e) Preparar las sesiones ordinarias y extraordinarias de la Comisión, verificar el quórum y levantar las actas de cada una de ellas;
+XIII. Elaborar los nombramientos del personal del Instituto;
 
-f) Llevar un registro y control de las actas, acuerdos y demás documentos relativos al funcionamiento de la Comisión;
+XIV. Administrar los recursos financieros del Instituto, en los mejores instrumentos del sistema financiero mexicano, previa aprobación del Consejo General y la Presidencia;
 
-g) Dar seguimiento a los acuerdos de la Comisión, vigilar su cumplimiento e informar periódicamente al Presidente sobre los avances de los trabajos de la misma; y
+XV. Proponer, formular e implantar un esquema de planeación en apoyo a funciones técnico-administrativas y de control, que regule la justa distribución de los recursos entre lo planeado y lo presupuestalmente permitido, con un aumento de precisión, productividad y transparencia;
 
-h) Las demás que le confiera su Reglamento Interno.
+XVI. Resguardar los expedientes personales de los trabajadores del Instituto;
 
-###### Artículo 15.
+XVII. Dar seguimiento a los asuntos de los diferentes departamentos de su Dirección;
 
-Para el ejercicio de sus funciones, la Comisión deberá apoyarse en los siguientes organismos auxiliares, previa convocatoria y cuyos miembros tendrán voz, en las sesiones ordinarias y extraordinarias:
+XVIII. Participar en las juntas de trabajo convocadas por el Presidente;
 
-I. Un Consejo Consultivo de Cambio Climático, que fungirá como organismo de consulta técnica de la Comisión y se integrará hasta por diez representantes de organizaciones e instituciones sociales, de educación superior, de investigación, de gestión, conservación ambiental o empresariales, o expertos en la materia con mérito y experiencia en los diferentes temas del cambio climático; serán nombrados por el Presidente, a propuesta de sus integrantes, conforme a lo que al efecto se establezca en su Reglamento Interior;
+XIX. Acordar con el Presidente los asuntos de su competencia; y
 
-II. Un representante del sector ambiental de cada uno de los municipios que conforman el Estado de Querétaro, y que tendrá participación en los grupos de trabajo; y
+XX. Las demás que establezca el Código, que ordene el Consejo o su Presidente.
 
-III. Hasta diez representantes de la sociedad civil, qué como órgano de consulta ciudadana, tendrán participación en los grupos de trabajo, y serán nombrados por el Presidente, a propuesta de sus integrantes, conforme a lo que al efecto se establezca en su Reglamento Interior.
+### CAPÍTULO V. De la Dirección Administrativa
 
-###### Artículo 16.
+###### ARTÍCULO 25.
 
-El Presidente presentará en la sesión de instalación de ésta, para su aprobación, una propuesta de Reglamento Interno para su funcionamiento, mismo que deberá establecer, por lo menos, los aspectos siguientes:
+La Dirección Administrativa, con el fin de instrumentar los mecanismos necesarios para el cumplimiento de sus funciones, contará con la siguiente estructura:
 
-I. El procedimiento para convocar a las sesiones, tanto ordinarias como extraordinarias;
+I. Director Administrativo;
 
-II. Las reglas para la toma de los acuerdos y para dejar constancia de los mismos;
+a) Asistente del Director Administrativo.
 
-III. Los procedimientos para la conformación de grupos de trabajo al interior de la Comisión sobre temas específicos, cuando así se considere necesario; y
+b) Mensajero.
 
-IV. Los mecanismos para la participación de expertos en los grupos de trabajo que, en su caso, sean conformados.
+II. Jefe del Departamento de Recursos Humanos;
 
-### Capítulo Tercero. Del Centro de Ecología y Cambio Climático del Estado de Querétaro
+- Asistente del Departamento de Recursos Humanos.
 
-###### Artículo 17.
+III. Jefe del Departamento de Recursos Materiales y Servicios Generales;
 
-El Centro, será una unidad administrativa adscrita a la Secretaría y tendrá por objeto el desarrollo de investigación científica y tecnológica en materia de cambio climático, eficiencia energética y energías renovables, en el ámbito de competencia estatal, y tendrá las siguientes atribuciones:
+a) Asistente de Recursos Materiales;
 
-I. Desarrollar e impulsar investigaciones científicas y tecnológicas en el área de su competencia;
+b) Oficial de Mantenimiento;
 
-II. Captar y resguardar información referente a los recursos naturales del estado;
+c) Auxiliar de Mantenimiento (en año electoral);
 
-III. Planear, organizar y evaluar sus actividades de investigación, científica y tecnológica en el área de su competencia;
+d) Almacenista (en año electoral);
 
-IV. Elaborar programas indicativos de investigación científica y tecnológica vinculados en tres áreas básicas;
+e) Auxiliar de Almacén (en año electoral);
 
-a) Recursos renovables
+IV. Coordinador de la Unidad del Servicio Profesional Estatal Electoral;
 
-b) Recursos no renovables
+a) Jefe del Departamento de Ingreso, Capacitación y Desarrollo Profesional;
 
-c) Recurso agua, y
+b) Auxiliar;
 
-d) Cambio climático
+V. Jefe del Departamento de Finanzas y Control Presupuestal;
 
-V. Promover cursos y sistemas de capacitación, especialización y actualización de conocimientos en las áreas básicas mencionadas;
+###### ARTÍCULO 26.
 
-VI. Establecer programas de colaboración en actividades académicas y de investigación;
+La Jefatura de Recursos Humanos tendrá las siguientes funciones generales:
 
-VII. Divulgar los conocimientos y experiencias en el orden científico y tecnológico;
+I. Registrar altas, bajas, modificaciones en nómina y SUA;
 
-VIII. Atender prioritariamente la solución de problemas de carácter estatal y contribuir en la medida de sus posibilidades en la solución de problemas regionales y nacionales, en materia de ecología y cambio climático;
+II. Cálculo de impuestos;
 
-IX. Elaborar y actualizar el diagnóstico del Programa Estatal;
+III. Determinación del salario base de cotización (SBC);
 
-X. Evaluar el Programa Estatal;
+IV. Elaborar las altas, bajas y modificaciones de sueldo en el IMSS;
 
-XI. Realizar por sí mismo o por conducto de terceros, estudios y proyectos de investigación científica o tecnológica con instituciones académicas, de investigación, públicas o privadas, nacionales o extranjeras en materia de cambio climático, eficiencia energética y energías renovables;
+V. Elaboración de contratos en coordinación con la Dirección Jurídica;
 
-XII. Colaborar con la SEMARNAT, el INECC y la Secretaría, para la elaboración de análisis de prospectiva sectorial en el Estado de Querétaro y colaborará en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con el cambio climático, la conservación y el aprovechamiento sustentable de los recursos naturales, la protección de la biodiversidad, el desarrollo sustentable, eficiencia energética y energías renovables en el Estado;
+VI. Archivo de nómina y recibos de pago del personal;
 
-XIII. Apoyar y asesorar a los municipios del Estado de Querétaro en la elaboración y actualización los Programas Municipales de Cambio Climático en materia de prevención, adaptación y mitigación del cambio climático;
+VII. Elaboración de declaración anual;
 
-XIV. Apoyar y asesorar al Estado y a los municipios en sistemas de transporte y energía limpia;
+VIII. Elaboración de las declaraciones informativas y formato 26 y 27;
 
-XV. Elaborar y actualizar el Atlas de Vulnerabilidad ante el Cambio Climático, con el apoyo de la Coordinación Estatal de Protección Civil de Querétaro;
+IX. Cálculo de la proporción del subsidio, y.
 
-XVI. Elaborar y actualizar el Inventario de Sumideros;
+X. Las demás que le sean encomendadas por el Director Administrativo.
 
-XVII. Integrar los instrumentos de ordenamiento territorial y sumidero para la generación del diagnóstico mencionado en la fracción I del presente artículo;
+###### ARTÍCULO 27.
 
-XVIII. Elaborar y actualizar el Inventario Estatal;
+La Jefatura de Recursos Materiales y Servicios Generales tendrá las funciones generales siguientes:
 
-XIX. Elaborar los estudios de los efectos de islas de calor que permitan un mayor entendimiento del cambio climático local y sus acciones de prevención, adaptación y mitigación;
+I. Elaborar el catálogo de proveedores.
 
-XX. Trabajar de manera transversal con todos los sectores y elaborar los estudios de impacto ambiental, social, económico, científico y tecnológico en materia prevención, adaptación, mitigación y resiliencia del cambio climático, así como de desarrollo sustentable, eficiencia energética y energías renovables en el estado;
+II. Control de contratos de proveeduría de los recursos materiales y servicios generales.
 
-XXI. Presentar anualmente a la Comisión, la relación de estudios y proyectos de investigación social, ambiental, económica, científica o tecnológica en materia de cambio climático, eficiencia energética y energías renovables, incluyendo la estimación de costos presentes y futuros asociados al cambio climático y a los beneficios derivados de las acciones para enfrentarlo;
+III. Recepción y registro de la proveeduría de los recursos materiales, mobiliario y equipo.
 
-XXII. Realizar por sí mismo o por conducto de terceros, evaluaciones periódicas de las capacidades de las dependencias y entidades de la Administración Pública Estatal y de los municipios, en materia de cambio climático, desarrollo sustentable, medio ambiente, eficiencia energética y energías renovables;
+IV. Control de existencias de mobiliario y equipo de oficina, papelería y artículos de oficina.
 
-XXIII. Garantizar la transparencia y rendición de cuentas del manejo de recursos económicos y decisiones de apoyo a programas y acciones de prevención, adaptación y mitigación;
+V. Control del parque vehicular del Instituto.
 
-XXIV. Promover el desarrollo, la adopción y transferencia equitativa de tecnologías ambientalmente responsables; y
+VI. Registro y control de altas, bajas y transferencias de mobiliario y equipo de oficina.
 
-XXV. Las demás que prevea esta Ley y demás disposiciones jurídicas aplicables.
+VII. Recepción y seguimiento de las solicitudes de mantenimiento de instalaciones mobiliario y equipo.
 
-###### Artículo 18.
+VIII. Apoyar en el proceso de licitación de bienes y servicios que requiere la operación y funcionamiento del Instituto; y
 
-El Centro podrá auxiliarse en el ejercicio de sus atribuciones, de las dependencias, entidades e instancias cuyas actividades estén relacionadas con el cambio climático.
+IX. Las demás que le sean encomendadas por el Director Administrativo.
 
-## Título Tercero. De la política estatal de cambio climático
+###### ARTÍCULO 28.
 
-### Capítulo Primero. De la prevención, adaptación y mitigación
+La Coordinación de la Unidad del Servicio Profesional Estatal Electoral, tendrá las siguientes funciones generales:
 
-###### Artículo 19.
+I. Implantación del Servicio Profesional conforme a lo dispuesto por el Título Sexto del Libro Segundo del Código Electoral Local en vigor;
 
-La política estatal de prevención, adaptación y mitigación del cambio climático se integrará tomando en consideración la consulta, participación y cooperación de la sociedad.
+II. Diseñar la organización, planeación, programación, e implantación de la (sic) y capacitación básica y profesional que establece el Reglamento del Servicio Profesional Estatal Electoral;
 
-Se fomentará la conciencia ciudadana a nivel individual y social respecto a la situación estatal, nacional y global en el tema de prevención, adaptación y mitigación del cambio climático y sus repercusiones.
+III. Revisar, analizar, evaluar y proponer a la Dirección Administrativa las modificaciones al Reglamento, Catálogo de Puestos, Manual de Operación y Funcionamiento del Servicio Profesional Estatal Electoral;
 
-###### Artículo 20.
+IV. En coordinación con la Secretaría Técnica y las Direcciones de Capacitación y Organización Electoral, Administrativa y Jurídica del Instituto, supervisar el avance y desarrollo de los programas de admisión, capacitación y promoción del personal interno del Instituto. Así como las convocatorias de integración del personal interno y externo al Servicio Profesional Estatal Electoral;
 
-La política estatal de adaptación y mitigación del cambio climático pondrá especial atención en la implementación de medidas en los sectores:
+V. Proponer a la Dirección Administrativa los nombramientos provisionales y definitivos para el Servicio Profesional;
 
-I. Agropecuario y salud de suelos;
+VI. Evaluar al personal en general y a los miembros del Servicio Profesional conforme a los lineamientos acordados por la Comisión del Servicio Profesional, y.
 
-II. Biodiversidad y forestal;
+VII. Las demás que le sean encomendadas por el Director Administrativo.
 
-III. Turismo y transporte;
+###### ARTÍCULO 29.
 
-IV. Industria;
+El Jefe del Departamento de Ingreso, Capacitación y Desarrollo Profesional, tendrá las siguientes funciones generales:
 
-V. Asentamientos humanos;
+I. Elaborar, aplicar y revisar las evaluaciones de conocimiento y psicométricas del personal;
 
-VI. Ordenamiento territorial;
+II. Desarrollar los procedimientos para la admisión, capacitación y promoción del personal interno del Instituto y personal externo;
 
-VII. Salud y protección civil;
+III. Desarrollar los planes y programas del Servicio Profesional Estatal Electoral;
 
-VIII. Residuos;
+IV. Supervisar el avance y desarrollo de los programas de admisión, capacitación y promoción del personal interno del Instituto. Así como las Convocatorias de integración del personal interno y externo, al Servicio Profesional Estatal Electoral;
 
-IX. Energético;
+V. Participar en el Programa de Formación Básica y Desarrollo Profesional; y
 
-X. Mujeres y pueblos indígenas;
+VI. Las demás que le sean encomendadas por el Coordinador de la Unidad del Servicio Profesional Estatal Electoral.
 
-XI. Educación ambiental; y
+###### ARTÍCULO 30.
 
-XII. Financiamiento de acciones de prevención, mitigación y adaptación al cambio climático.
+La Jefatura de Finanzas y Control Presupuestal tendrá las funciones generales siguientes:
 
-###### Artículo 21.
+I. Elaboración de pólizas de cheque, diario e ingreso;
 
-Los instrumentos de diagnóstico, planificación, medición, reporte, verificación y evaluación, constituirán el sustento de las políticas diseñadas, implementadas y reguladas por el presente capítulo, que tendrán como objetivos, el énfasis en el combate a los siguientes problemas:
+II. Archivo de pólizas y soporte de los gastos;
 
-I. Escasez y contaminación de agua y sus conflictos derivados;
+III. Revisión de comprobantes de gastos;
 
-II. Pérdida de zonas forestales y otros sumideros por deforestación, incendios forestales, tala clandestina, plagas, mal manejo forestal;
+IV. Conciliaciones bancarias;
 
-III. Afectaciones por inundaciones;
+V. Revisión de saldos en las cuentas bancarias;
 
-IV. Islas de calor, fragmentación y desaparición de ecosistemas;
+VI. Transferencias bancarias;
 
-V. Seguridad alimentaria;
+VII. Elaboración de estados financieros;
 
-VI. Prevención y atención de enfermedades derivadas de los efectos del cambio climático incluyendo a las asociadas a temperaturas extremas, infecciones biológicas;
+VIII. Elaborar el anteproyecto presupuesto anual; y
 
-VII. Vulnerabilidad de grupos sociales, enfocados en estrategias de equidad de género;
+IX. Las demás que le sean encomendadas por el Director Administrativo.
 
-VIII. Emisión de compuestos o gases de efecto invernadero; y
+###### ARTÍCULO 31.
 
-IX. Los demás que determine el Centro.
+La Dirección de Capacitación y Organización Electoral, dependerá del Presidente y actuará bajo la supervisión de la Comisión correspondiente, con la participación de los Consejeros Representantes. Sus atribuciones serán las contempladas en el artículo 105 del Código, además de las siguientes:
 
-###### Artículo 22.
+I. Formular y proponer a la Comisión de Capacitación Electoral y Organización Electoral el plan integral de actividades ordinarias y para el proceso electoral que corresponda;
 
-Las acciones de prevención, adaptación y mitigación deberán incluirse en la elaboración del Programa Estatal en los ámbitos establecidos en la Ley General y en la Estrategia Nacional de Cambio Climático y el presente ordenamiento.
+II. Elaborar y proponer a la Comisión de Capacitación y Organización Electoral los programas que contribuyan al fortalecimiento de la cultura política democrática y la participación ciudadana; para el efecto de que en acuerdo administrativo se resuelva lo conducente;
 
-###### Artículo 23.
+III. Dar cabal cumplimiento a las políticas y programas que por su competencia le sean asignadas por el Consejo y la Comisión de Capacitación y Organización Electoral;
 
-La política estatal de prevención, adaptación y mitigación se instrumentará gradualmente con base a las prioridades del Estado, promoviendo el fortalecimiento de las capacidades estatales para la conservación de los ecosistemas y la biodiversidad existente en el Estado, vigilando el cumplimiento de los programas de ordenamiento ecológico estatal y municipales, así como para la mitigación de emisiones y la adaptación a los efectos adversos al cambio climático, priorizando las acciones de mayor potencial de reducción a costos asequibles y culminando en las que representan los costos más elevados.
+IV. Generar, proponer e impulsar estrategias y propuestas que contribuyan a mejorar los procedimientos logísticos de organización electoral;
 
-Para aquellas políticas y actividades que impliquen o que trasladen un costo al sector privado o a la sociedad en general, y que no existan fondos de financiamiento que puedan cubrir los costos para la implementación de dichas políticas y actividades, éstas podrán instrumentarse, en dos fases:
+V. Mantener una comunicación permanente con el sector educativo y académico, así como en áreas de capacitación de organismos afines;
 
-I. Fomento de capacidades nacionales; y
+VI. Elaborar y proponer a la Comisión de Capacitación y Organización Electoral; los lineamientos a que se sujetará el proceso de insaculación de ciudadanos para integrar las mesas directivas de casilla para su ubicación y vigilar su aplicación;
 
-II. Establecimiento de metas específicas de reducción y mitigación de emisiones.
+VII. Coordinar la logística y operatividad para la recepción y distribución de la documentación y material electoral a emplear en el proceso electoral;
 
-###### Artículo 24.
+VIII. Supervisar, que la instalación de casillas se realice de acuerdo con las normas establecidas;
 
-Se promoverá el diseño y la elaboración de políticas y acciones de mitigación asociadas en todos los sectores, considerando en los siguientes ámbitos:
+IX. Diseñar y operar el programa de información sobre el desarrollo de la jornada electoral;
 
-I. Protección e incremento de sumideros naturales;
+X. Coordinar la recolección, en las casillas electorales del material electoral utilizado y sobrante del proceso electoral;
 
-II. Reducción de emisiones de compuestos y gases de efecto invernadero y aumento en los programas de mitigación en el sector transporte;
+XI. Auxiliar a la Secretaría Técnica en la destrucción de la documentación y material electoral utilizada (sic) y sobrante en el proceso electoral;
 
-III. Reducción de emisiones e incremento de sumideros en los sectores agrícola y forestal, a través de la preservación de ecosistemas, cuidado de la biodiversidad, implementación de enotecnias y prácticas sustentables como lo son el turismo alternativo, agricultura orgánica, ganadería holística, procesos, productos y servicios de bajas emisiones y lo que permita un desarrollo rural sustentable;
+XII. Auxiliar en la instalación de los Consejos Distritales y Municipales Electorales;
 
-IV. Cambios de uso de suelo;
+XIII. Elaborar en coordinación con la Secretaria Técnica y la Dirección Jurídica la propuesta al Consejo del diseño de documentación, boletas y formas para las actas del proceso electoral y dar seguimiento a los procesos de producción de los mismos;
 
-V. Incremento, preservación y fortalecimiento de los ecosistemas y su biodiversidad, en concordancia con el ordenamiento territorial;
+XIV. Elaborar, recabar e integrar los contenidos y procedimientos necesarios para la formulación de la estadística de resultados electorales;
 
-VI. Reducción de emisiones y aumento en los programas de mitigación en el sector residuos;
+XV. Supervisar y vigilar que se cumplan las políticas y programas de la Dirección de Capacitación y Organización relativas a los programas aprobados por la Comisión de Capacitación y Organización Electoral;
 
-VII. Reducción de emisiones y aumento en los programas de mitigación en el sector industrial;
+XVI. Elaborar y rendir a la Comisión de Organización y Capacitación Electoral y al Consejo los informes y dictámenes derivados del ejercicio de sus funciones y someterlos a su aprobación;
 
-VIII. Reducción y aprovechamiento de fuentes caloríficas contenidas en los gases emitidos en la atmósfera, así como su condensación y concentración; y
+XVII. Proponer a la Comisión de Organización y Capacitación Electoral, la realización de estudios para conocer las necesidades en materia de cultura político-electoral y así tener la posibilidad de sugerir políticas, lineamientos y criterios de capacitación electoral y educación cívica; a efecto de que en acuerdo administrativo se resuelva lo conducente;
 
-IX. Capacitación y fomento a través de la educación ambiental e información para lograr cambios en los patrones de extracción, producción, consumo, disposición y reproducción en los procesos o servicios industriales.
+XVIII. Formular, en coordinación con la Dirección Administrativa, los programas de capacitación permanente o especial para el personal del Instituto;
 
-### Capítulo Segundo. De los instrumentos de planeación
+XIX. Promover la actualización permanente de los sistemas de información electoral;
 
-###### Artículo 25.
+XX. Dar seguimiento a los asuntos de los diferentes departamentos de su Dirección;
 
-Son instrumentos de planeación de la política estatal de cambio climático los siguientes:
+XXI. Participar en las juntas de trabajo convocadas por el Presidente;
 
-I. Programa Estatal;
+XXII. Acordar con el Presidente los asuntos de su competencia; y
 
-II. Programa Municipal; y
+XXIII. Las demás que establezca el Código, el presente Reglamento, que ordene el Consejo o su Presidente.
 
-III. Los demás que el Centro determine.
+###### ARTÍCULO 32.
 
-###### Artículo 26.
+La Dirección de Capacitación y Organización Electoral, con el fin de instrumentar los mecanismos necesarios para el cumplimiento de sus funciones, contará con la siguiente estructura:
 
-La planeación de la política estatal en materia de cambio climático comprenderá dos vertientes:
+I. Director de Capacitación y Organización Electoral;
 
-I. La proyección de los periodos constitucionales que correspondan a las administraciones estatales y municipales; y
+- Asistente.
 
-II. La proyección en mediano y largo plazo que tendrán previsiones a diez, veinte y cuarenta años y que sea congruente con la Estrategia Nacional de Cambio Climático.
+II. Jefe del Departamento de Planeación y Diseño de la Capacitación Electoral;
 
-###### Artículo 27.
+a) Asistente del Departamento de Planeación;
 
-El Programa Estatal constituye el instrumento rector de la política estatal en el corto, mediano y largo plazo para enfrentar los efectos del cambio climático y transitar hacia una economía competitiva sustentable y de bajas emisiones de carbono.
+b) Instructor de capacitación.
 
-La Secretaría elaborará y actualizará el Programa Estatal considerando las recomendaciones de la SEMARNAT y el INECC, así como el diagnóstico del Centro; el Programa Estatal será aprobado por la Comisión y publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+III. Jefe del Departamento de Ejecución de Procesos de Organización y Jornada Electoral (en año electoral);
 
-###### Artículo 28.
+a) Asistente de organización electoral;
 
-La Secretaría, en colaboración con el Centro, deberá revisar el Programa Estatal en materia de prevención, adaptación y mitigación cada dos años, presentando información que justifique y la evidencia científica disponible debiendo explicarse las desviaciones que, en su caso, se adviertan entre las estimaciones proyectadas y los resultados evaluados. Asimismo, se actualizarán los escenarios, proyecciones, objetivos y las metas correspondientes.
+b) Supervisores electorales;
 
-Con base a dichas revisiones y a los resultados de las evaluaciones que realice el Centro y la Secretaría siguiendo las recomendaciones del INECC, el Programa Estatal deberá ser actualizado el primer año de cada administración.
+c) Capacitadores electorales;
 
-En ningún caso las revisiones y actualizaciones se harán en menoscabo de las metas, proyecciones y objetivos previamente planteados, o promoverán su reducción.
+d) Asistentes electorales;
 
-###### Artículo 29.
+IV. Jefe del Departamento de Promoción y Difusión de la Educación Cívica;
 
-Los escenarios, serán las proyecciones contenidas en la fracción II del artículo 26 del presente ordenamiento.
+- Instructores de Educación Cívica.
 
-###### Artículo 30.
+V. Jefatura de Promoción y Difusión del Voto (en año electoral);
 
-El Programa Estatal deberá reflejar los objetivos de las políticas de prevención, adaptación y mitigación al cambio climático establecidas en la presente Ley, considerando:
+- Promotor del Voto.
 
-I. La planeación con perspectiva de corto, mediano y largo plazo, de sus objetivos y acciones, en congruencia con la Estrategia Nacional de Cambio Climático;
+VI. Jefe del Departamento de Proceso Instruccional;
 
-II. Metas de prevención, adaptación y mitigación a corto, mediano o largo plazo:
-
-a) En materia de prevención, para establecer las medidas anticipadas para evitar el deterioro del medio ambiente, los ecosistemas y el desarrollo de las presentes y futuras generaciones.
-
-b) En materia de adaptación, para reducir la vulnerabilidad de los sistemas humanos y naturales ante los efectos adversos del cambio climático.
-
-c) En materia de mitigación, la reducción de emisiones específicas, por sectores y actividades, tomando como referencia los escenarios de línea base que establezca el propio Programa Estatal.
-
-d) En materia de eficiencia energética y el uso de energías renovables para generar estudios e investigaciones científicas y tecnológicas para su implementación.
-
-III. Los escenarios de cambio climático regionalizados para México y los diagnósticos de vulnerabilidad, riesgo y capacidad de adaptación;
-
-IV. El Inventario de Emisiones de Gases de Efecto Invernadero;
-
-V. Las metas y acciones para la prevención, adaptación y mitigación en materia de su competencia señaladas en la presente Ley y las demás disposiciones que de ella deriven;
-
-VI. Asignación de:
-
-a) Recursos necesarios para la ejecución de las acciones y proyectos que permitan el logro de las metas.
-
-b) Responsabilidades de las dependencias de la Administración Pública Estatal, así como de los Ayuntamientos.
-
-c) Tiempos de ejecución, revisión y evaluación de resultados;
-
-VII. Acciones, proyectos e inversiones concertadas con los sectores social y privado para la reducción de emisiones de gases de efecto invernadero, la eficiencia energética y el uso de energías renovables;
-
-VIII. Criterios de transversalidad e integralidad de las políticas públicas a cargo de las diferentes dependencias y entidades de la Administración Pública Estatal;
-
-IX. Estudiar y valorar el potencial de aprovechamiento sustentable de las energías renovables en el Estado;
-
-X. Fijar las políticas públicas de las actividades para el fomento del aprovechamiento sustentable de las energías renovables;
-
-XI. Determinar los objetivos y metas que orienten las acciones de planeación, programación y presupuesto de las actividades relacionadas con el aprovechamiento sustentable de las energías renovable (sic);
-
-XII. Ejecutar los mecanismos de coordinación y concertación con el Gobierno Federal, los municipios, generadores y demás titulares de los derechos de las tierras;
-
-XIII. Lograr establecer un modelo energético sustentable para el Estado;
-
-XIV. Mitigar el cambio climático con la reducción de dióxido de carbono, a partir del uso de energías renovables; y
-
-XV. Los demás que determinen las disposiciones legales en la materia.
-
-###### Artículo 31.
-
-Los programas municipales deberán reflejar los objetivos de las políticas de mitigación y adaptación al cambio climático establecidas en la presente Ley y tomar en cuenta el Inventario de Emisiones de Gases de Efecto Invernadero para sus proyecciones, en concordancia con lo que dispongan la Estrategia Nacional y el Programa Estatal de Cambio Climático; y contendrá entre otros elementos, los siguientes:
-
-I. La planeación con perspectiva de corto, mediano y largo plazo, de sus objetivos y acciones, en congruencia con el Programa Estatal y la Estrategia Nacional;
-
-II. Las metas y acciones para la prevención, adaptación y mitigación en materia de su competencia señaladas en la presente Ley y las demás disposiciones que de ella deriven; y
-
-III. Los demás que determinen sus disposiciones legales en la materia.
-
-Los programas municipales se elaborarán al inicio de cada administración, procurando siempre la equidad de género y la representación de las poblaciones más vulnerables al cambio climático, indígenas, personas con discapacidad, académicos e investigadores con presencia en el Municipio correspondiente.
-
-###### Artículo 32.
-
-El Programa Estatal y los Programas municipales, deberán contener las previsiones para el cumplimiento de los objetivos, principios y disposiciones para la prevención, mitigación y adaptación previstas en la presente Ley.
+- Asistente.
 
 #### Sección Primera. Del inventario estatal y municipal
 
-###### Artículo 33.
+###### ARTÍCULO 33.
 
-El Inventario Estatal de Emisiones de Gases y Compuesto de Efecto Invernadero deberá ser elaborado y actualizado por el Centro.
+La Jefatura de Planeación y Diseño de Capacitación Electoral, tendrá las siguientes funciones generales:
 
-###### Artículo 34.
+I. Elaboración del programa anual de actividades de capacitación electoral;
 
-Las personas físicas o morales responsables de las fuentes emisoras que sean requeridas por el Centro para proporcionar los informes, datos o documentos que integran el reporte de emisiones estatal, deberán hacerlo a través de la Cédula de Operación Anual, de conformidad con el reglamento que al efecto expida la Secretaría. En tanto no se expida el mismo se deberá proporcional (sic) en los términos que esta lo solicite.
+II. Formular el diagnóstico de necesidades de capacitación electoral;
 
-###### Artículo 35.
+III. Diseño de estrategias y contenidos de capacitación electoral;
 
-El Centro promoverá talleres presenciales o a través de medios electrónicos, para el desarrollo de capacidades, relacionadas con el cambio climático.
+IV. Diseñar, elaborar y reproducir los manuales, guías, instructivos, exámenes y material de apoyo;
 
-###### Artículo 36.
+V. Diseñar materiales didácticos para capacitar a los integrantes del Servicio Profesional Estatal Electoral; y
 
-El Centro elaborará los contenidos del Inventario Estatal cada tres años.
+VI. Las demás que le sean encomendadas por el Director de Capacitación y Organización Electoral.
 
-###### Artículo 37.
+###### ARTÍCULO 34.
 
-Las autoridades del Estado y los Municipios, proporcionarán al Centro, los datos, documentos y registros relativos a información relacionada con las categorías de fuentes emisoras, que se originen en el ámbito de sus respectivas jurisdicciones, conforme a los formatos, las metodologías y los procedimientos que se determinen en las disposiciones jurídicas que al efecto se expidan.
+La Dirección de Capacitación y Organización Electoral, en año electoral contará con una Jefatura de Ejecución de Procesos de Organización y Jornada Electoral, la cual tendrá las siguientes funciones generales:
+
+l. Elaboración del programa anual de actividades de organización electoral;
+
+II. Elaborar la propuesta de ubicación de casillas;
+
+III. Preparación e integración de documentación y materiales electorales;
+
+IV. Realizar la logística respecto a la entrega-recepción de los materiales electorales;
+
+V. Elaboración del manual del proceso de la jornada electoral (asistentes electorales);
+
+VI. Diseño y desarrollo del sistema de información de la jornada electoral; y
+
+VII. Las demás que le sean encomendadas por el Director de Capacitación y Organización Electoral.
+
+###### ARTÍCULO 35.
+
+El Jefe del Departamento de Promoción y Difusión de la Educación Cívica tendrá las siguientes funciones generales:
+
+I. Elaborar el programa anual de actividades de educación cívica;
+
+II. Diseñar los cursos y eventos de promoción de la educación cívica;
+
+III. Diseñar, elaborar y reproducir materiales de promoción de la educación cívica;
+
+IV. Impartir cursos y realizar jornadas de educación cívica;
+
+V. Difundir las acciones realizadas para promover la educación cívica; y
+
+VI. Las demás que le sean encomendadas por el Director de Capacitación y Organización Electoral.
+
+###### ARTÍCULO 36.
+
+La Dirección de Capacitación y Organización Electoral en año electoral, contará con una Jefatura de Promoción y Difusión del Voto, la cual tendrá las siguientes funciones generales:
+
+I. Diseñar la estrategia de la campaña de promoción del voto;
+
+II. Diseñar, elaborar y reproducir materiales para la promoción del voto;
+
+III. Organizar y ejecutar los eventos y acciones de promoción del voto, y.
+
+IV. Las demás que le sean encomendadas por el Director de Capacitación y Organización Electoral.
+
+###### ARTÍCULO 37.
+
+El Jefe del Departamento de Proceso Instruccional tendrá las siguientes funciones generales:
+
+I. Diseñar cursos y programas de capacitación electoral;
+
+II. Impartir cursos y programas de capacitación electoral;
+
+III. Reportar el avance de la capacitación electoral;
+
+IV. Impartir cursos de capacitación para los miembros del Servicio Profesional;
+
+V. Implementar el sistema de información de insaculación de ciudadanos e integración de mesas directivas de casilla; y
+
+VI. Las demás que le sean encomendadas por el Director de Capacitación y Organización Electoral.
 
 #### Sección Segunda. Del Fondo para la Protección Ambiental, el Desarrollo Sustentable y la Transición Energética del Estado de Querétaro
 
-###### Artículo 38.
+###### ARTÍCULO 38.
 
-El patrimonio del Fondo se constituirá por:
+La Dirección Jurídica dependerá directamente del Presidente y sus funciones serán las contempladas en el artículo 108 del Código, además de las siguientes:
 
-I. Los recursos anuales que, en su caso, señale el Presupuesto de Egresos de la Federación y del Estado de Querétaro y aportaciones del Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y otros fondos públicos;
+I. Apoyar a todas las áreas del Instituto con la asesoría que le sea requerida;
 
-II. Las contribuciones, pago de derechos y aprovechamientos, previstos en las leyes correspondientes;
+II. Atender y resolver las consultas sobre la aplicación del Código que al Secretario Técnico le formulen las Comisiones y los diversos órganos del Instituto, con el objeto de conformar criterios de interpretación legal y, en su caso, precedentes a observar;
 
-III. Las donaciones de personas físicas o morales, estatales, nacionales o internacionales;
+III. Implantar los mecanismos de coordinación con las dependencias, entidades o instancias con las que por necesidades del servicio y sus programas específicos, obliguen a relacionarse, previo acuerdo del Presidente;
 
-IV. Las aportaciones que efectúen gobiernos de otros países y organismos internacionales;
+IV. Participar en pláticas conciliatorias con los trabajadores del Instituto o con quien haya demandado al mismo, para contener o solucionar conflicto, así como llevar a cabo las negociaciones conducentes y el pago respectivo, previa autorización del Secretario Técnico, con base en el dictamen que el área especializada emita, debiendo elaborar un informe de los resultados obtenidos al Secretario Ejecutivo, quien a su vez lo presentará a la Presidencia y a los Consejeros Electorales;
 
-V. El valor de las reducciones certificadas de emisiones de proyectos implementados en el Estado de Querétaro, que de forma voluntaria se adquiera en el mercado; y
+V. Formular proyectos de reglamentos y acuerdos relacionados con la actividad electoral;
 
-VI. Los demás recursos que obtenga, previstos en otras disposiciones legales.
+VI. Elaborar los contratos o convenios en que el Instituto sea parte;
 
-###### Artículo 39.
+VII. Colaborar con el Director Administrativo en los asuntos derivados de la regulación del Reglamento del Servicio Profesional Estatal Electoral;
 
-Los recursos del Fondo se podrán destinar al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la transición energética, utilizando fuentes renovables de energía:
+VIII. Auxiliar a las Direcciones del Instituto en la formulación de proyectos de reglamentos, lineamientos, acuerdos, convenios y contratos relativos a los asuntos de sus respectivas competencias, para el mejor desempeño de las atribuciones de las áreas;
 
-I. Las acciones y proyectos para la adaptación atendiendo prioritariamente a los grupos sociales ubicados en las zonas más vulnerables del Estado;
+IX. Mantener comunicación y coordinación con las demás áreas del Instituto, para el mejor desarrollo de las funciones de la Dirección;
 
-II. Las acciones y proyectos para la mitigación realizados en el marco de las disposiciones de la presente Ley;
+X. Dar seguimiento a los asuntos de los diferentes departamentos de su Dirección;
 
-III. Las acciones y proyectos que contribuyan simultáneamente a la prevención, adaptación y mitigación al cambio climático;
+XI. Participar en las juntas de trabajo convocadas por el Presidente;
 
-IV. Desarrollo y verificación de inventarios;
+XII. Acordar con el Presidente los asuntos de su competencia; y
 
-V. Programas de educación ambiental que instruyan mejores prácticas de aprovechamiento a los propietarios de los recursos naturales y a la difusión de información con estrategias específicas para los diferentes sectores y objetivos, orientados a transitar hacia una economía de baja en emisiones de compuestos y gases de efecto invernadero, de mitigación y adaptación al cambio climático;
+XIII. Las demás que establezca el Código, el presente Reglamento, que ordene el Consejo o su Presidente.
 
-VI. Estudios y evaluaciones en materia de cambio climático que requiera el Estado de Querétaro;
+###### ARTÍCULO 39.
 
-VII. Proyectos de investigación, de innovación, desarrollo tecnológico y transferencia de tecnología en la materia, conforme lo establecido en el Programa Estatal;
+La Dirección Jurídica, contará con un asistente y con el fin de instrumentar los mecanismos necesarios para el cumplimiento de sus funciones, contará con la siguiente estructura:
 
-VIII. Proyectos de microgeneración de energía distribuida renovable; y
+I. Director Jurídico;
 
-IX. Otros proyectos y acciones en materia de cambio climático que el Centro considere estratégicos.
+- Asistente.
 
-###### Artículo 40.
+II. Jefatura de Estudio y proyectos;
 
-El Fondo se sujetará a los procedimientos de control, auditoría, transparencia, evaluación y rendición de cuentas que establecen las disposiciones legales aplicables.
+- Asistente (en año electoral).
+
+III. Jefatura de Asesoría y Servicios legales;
+
+- Asistente (en año electoral).
+
+IV. Jefatura de Instrucción y Tramitación de Medios de Impugnación (en año electoral);
+
+- Asistente; y
+
+V. Jefatura de Procedimientos Administrativos (en año electoral);
+
+- Asistente.
+
+###### ARTÍCULO 40.
+
+La Jefatura de Estudio y Proyectos, tendrá las siguientes funciones generales:
+
+I. Asesorar al Consejo, al Presidente, al Secretario Técnico y a los diferentes órganos del Instituto, en asuntos de orden jurídico;
+
+II. Atender y resolver consultas sobre la aplicación del Código, que formulen las diversas áreas del Instituto para conformar criterios de interpretación legal;
+
+III. Preparar proyectos de reglamentos y demás disposiciones normativas para el buen funcionamiento del Instituto;
+
+IV. Preparar, o en su caso, revisar los proyectos de acuerdo, dictámenes y lineamientos que deban ser expedidos por los órganos del Instituto;
+
+V. Realizar estudios jurídicos a petición de las Comisiones del Consejo;
+
+VI. Durante el proceso electoral, coadyuvar con la Secretaría Técnica en la elaboración de los proyectos de resolución, respecto de los recursos de inconformidad que llegaren a ser interpuestos en contra de los actos o resoluciones que emitan los Consejos Distritales y Municipales Electorales;
+
+VII. Elaborar los proyectos de resolución respecto de los procedimientos administrativos, denuncias de hechos, etc.; y
+
+VIII. Las demás que le sean encomendadas por el Director Jurídico.
 
 #### Sección Tercera. Del Reporte de Emisiones
 
-###### Artículo 41.
+###### ARTÍCULO 41.
 
-Las personas físicas o morales responsables de las fuentes sujetas al reporte de sus emisiones de gases y compuestos de efecto invernadero, que se encuentren dentro del Estado o de sus municipios, deberán cumplir con todas las obligaciones, guías, lineamientos y criterios emitidos por la Secretaría.
+La Jefatura de Asesoría y Servicios Legales, tendrá las siguientes funciones generales:
 
-###### Artículo 42.
+I. Colaborar en la atención de asuntos que se deriven de la aplicación de las normas del Reglamento del Servicio Profesional y del personal del Instituto;
 
-Todo aquel que sea responsable de una fuente emisora sujeta a reporte, deberá cumplir las disposiciones reglamentarias de esta Ley para la debida integración del registro.
+II. Prestar servicios legales a los órganos del Instituto;
 
-###### Artículo 43.
+III. Apoyar al Secretario Técnico en la defensa de los intereses patrimoniales del Instituto, ante los diversos órganos jurisdiccionales en materia civil, mercantil, penal, laboral, administrativa y fiscal;
 
-Para efectos de la integración del registro, el Estado de Querétaro podrá suscribir convenios de coordinación con la Federación y con otras entidades de la administración pública.
+IV. Coadyuvar con la Fiscalía Especializada para la Atención de Delitos Electorales, dependiente de la Procuraduría de Justicia del Estado;
+
+V. Elaborar y/o revisar los proyectos de convenio en que sea parte el instituto;
+
+VI. Prestar asesoría al Comité de Adquisiciones y Enajenaciones del Instituto, en relación a los diversos procedimientos a que se refiere la Ley Patrimonial del Estado de Aguascalientes; y
+
+VII. Las demás que le sean encomendadas por el Director Jurídico.
+
+###### ARTÍCULO 42.
+
+La Dirección Jurídica en año electoral, contará con la Jefatura de Instrucción y Tramitación de Medios de Impugnación, la cual tendrá las siguientes funciones generales:
+
+I. Coadyuvar en la instrucción y tramitación de los recursos de inconformidad que sean interpuestos, en contra de los acuerdos o resoluciones emitidos por los Consejos Distritales y Municipales;
+
+II. Coadyuvar en la tramitación y substanciación de los procedimientos administrativos de quejas, denuncias de hechos, etc; y (sic)
+
+III. Durante el proceso electoral, brindara asesoría jurídica tanto a la Coordinación de Organismos Electorales que se instalen, revisando y adecuando en su caso toda la documentación y actos jurídicos que de estos emanen; y
+
+IV. Las demás que le sean encomendadas por el Director Jurídico.
+
+###### ARTÍCULO 43.
+
+La Dirección Jurídica en año electoral, contará con la Jefatura de Procedimientos Administrativos, la cual tendrá las siguientes funciones generales:
+
+I. Llevar a cabo la tramitación y substanciación de los procedimientos administrativos de quejas y denuncias de hechos.
+
+II. Brindar asesoría jurídica a la Coordinación de Organismos Electorales, en la tramitación y substanciación de los diversos procedimientos administrativos.
+
+III. Coadyuvar en la tramitación y substanciación del procedimiento sancionador ordinario establecido en el Capítulo III del Libro Cuarto del Código Electoral del Estado de Aguascalientes.
+
+IV. Coadyuvar en la tramitación y substanciación del procedimiento especial sancionador establecido en el Capitulo IV del Libro Cuarto del Código Electoral del Estado de Aguascalientes.
+
+V. Coadyuvar en la tramitación y substanciación del procedimiento en materia de quejas sobre financiamiento y gasto de los Partidos Políticos establecido en el Capítulo V del Libro Cuarto del Código Electoral del Estado de Aguascalientes; y
+
+VI. Las demás que le sean encomendadas por el Director Jurídico.
 
 #### Sección Cuarta. De los instrumentos económicos
 
-###### Artículo 44.
+###### ARTÍCULO 44.
 
-El Ejecutivo Estatal a través de sus dependencias, podrá en el ámbito de sus atribuciones de ley, desarrollar, implementar y aplicar instrumentos económicos que incentiven y compensen el cumplimiento de los objetivos de la política estatal en materia de cambio climático previstos en el Plan Estatal de Desarrollo y el Programa Estatal de Protección al Ambiente.
+La Coordinación de Comunicación Social dependerá del Presidente y tendrá las siguientes funciones generales:
 
-###### Artículo 45.
+I. Elaborar, implementar y coordinar los proyectos de promoción y difusión del Instituto;
 
-La Secretaría, conforme a las disposiciones legales aplicables, promoverá el establecimiento de programas para incentivar financieramente a los interesados en participar de manera voluntaria en la realización de proyectos de reducción de emisiones y compensación de huella de carbono.
+II. Elaborar y enviar boletines y comunicados de prensa, que previamente sean evaluados por el Presidente;
 
-## Título Cuarto. De la evaluación de la política estatal de cambio climático
+III. Obtener material fotográfico, videográfico e informativo para la elaboración de la memoria de los procesos electorales y su difusión, así como ordenar, inventariar y conservar ese archivo;
 
-### Capítulo Único. Disposiciones generales
+IV. Elaborar y distribuir una síntesis informativa diaria;
 
-###### Artículo 46.
+V. Convocar a los Partidos Políticos y medios masivos de comunicación a conferencias, foros y ruedas de prensa;
 
-La política estatal de cambio climático estará sujeta a evaluación periódica y sistemática a través de la Coordinación de Evaluación del INECC. Estos resultados deberán ser considerados en la formulación, revisión o actualización del Programa Estatal y los Programas Municipales.
+VI. Editar una publicación en materia político-electoral, con la participación de los Partidos Políticos y ciudadanos mexicanos interesados, de conformidad con las posibilidades presupuestales del Instituto;
 
-Los resultados de las evaluaciones, se pondrán a disposición de la Coordinación de Evaluación.
+VII. Realizar con el apoyo de la Coordinación de Informática, actividades de difusión del Instituto a través de la Internet, mediante la construcción, actualización y mantenimiento de una página web; y
 
-###### Artículo 47.
+VIII. Las demás que establezca el presente Reglamento, que ordene el Consejo o su Presidente.
 
-Las autoridades del Estado y de los municipios, que sean responsables de la ejecución de programas de prevención, mitigación o adaptación, deberán proporcionar la información que les requiera la Coordinación de Evaluación del INECC y el Centro.
+###### ARTÍCULO 45.
+
+La Coordinación de Comunicación Social para el debido cumplimiento de sus funciones, contará con la siguiente estructura:
+
+I. Coordinador de Comunicación Social;
+
+- Asistente de Comunicación.
+
+- Auxiliar en la cobertura de medios y eventos del Instituto (en año electoral).
+
+II. Jefe del Departamento de Diseño Gráfico;
+
+- Asistente de Diseño Gráfico (en año electoral).
+
+## TÍTULO CUARTO. DE LAS MESAS DIRECTIVAS DE CASILLA
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 69.
+
+Las mesas directivas de casilla son los organismos electorales que tienen a su cargo la recepción, escrutinio y cómputo del voto emitido en las secciones en que se dividen los distritos electorales del Estado, con motivo de las elecciones para renovar los Poderes Legislativo, Ejecutivo y los Ayuntamientos del Estado, así como en el referéndum y el plebiscito.
+
+T R A N S I T O R I O S :
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su aprobación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Estatal Electoral, publicado en fecha 12 de enero de 2004 en el Periódico Oficial del Estado de Aguascalientes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JULIO DE 2011.
+
+PRIMERO. Se abroga el Reglamento Interior del Instituto Estatal Electoral, publicado en fecha trece de julio de dos mil nueve en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. El presente Reglamento entrará en vigor al momento de su aprobación.
+
+TERCERO: Los nombramientos expedidos con anterioridad a la entrada en vigor de este Reglamento, serán respetados y tendrán plena vigencia.
+
+CUARTO: El titular de la Contraloría General tendrá un plazo de seis meses contado a partir de su nombramiento por el Congreso para emitir los reglamentos, normas, lineamientos, procedimientos, métodos, mecanismos, programas y sistemas a que se refiere el artículo 353 del Código.
+
+QUINTO: Se derogan las disposiciones del Reglamento del Servicio Profesional Estatal Electoral que contravengan lo dispuesto en el presente Reglamento.
+
+### CAPÍTULO VI. De la Dirección de Capacitación y Organización Electoral
+
+###### ARTÍCULO 46.
+
+El Jefe del Departamento de Diseño Gráfico, tendrá las siguientes funciones generales:
+
+I. Diseñar proyectos de campañas de difusión, apoya en la planeación, producción, postproducción y difusión de las campañas promocionales del Instituto;
+
+II. Realiza el diseño de los manuales de capacitación;
+
+III. Realiza el diseño de los artículos promociónales del Instituto.
+
+IV. Diseña la imagen para diversas campañas de promoción de eventos; y
+
+V. Las demás que le sean encomendadas por el Coordinador de Comunicación Social.
+
+###### ARTÍCULO 47.
+
+La Coordinación de Informática dependerá del Presidente y tendrá las siguientes atribuciones generales:
+
+I. Implementar el archivo del Instituto en medios informáticos;
+
+II. Coadyuvar en la implementación de los mecanismos del Programa de Resultados Electorales Preliminares;
+
+III. Apoyar a la Secretaría Técnica en el procesamiento y captura de la información para la elaboración de la memoria de los procesos electorales;
+
+IV. Apoyar en la elaboración de la documentación electoral a las áreas competentes;
+
+V. Apoyar a las Direcciones, Coordinaciones y Jefaturas, en el mantenimiento y operación de los equipos de cómputo que tienen a su cargo;
+
+VI. Apoyar a la Coordinación de Comunicación Social a realizar actividades de difusión del Instituto a través de la Internet, mediante la construcción, actualización y mantenimiento de una página Web; y
+
+VII. Las demás que establezca el presente Reglamento, que ordene el Consejo o su Presidente.
 
 ## Título Quinto. De la transparencia y acceso a la información
 
-### Capítulo Único. Disposiciones generales
+### CAPÍTULO VII. De la Dirección Jurídica
 
-###### Artículo 48.
+###### ARTÍCULO 48.
 
-El Centro y la Secretaría deberán proporcionar la información que les soliciten los interesados, en los términos previstos por las leyes de la materia.
+La Coordinación de Informática para el debido cumplimiento de sus funciones, contará con la siguiente estructura:
 
-###### Artículo 49.
+I. Coordinador de Informática;
 
-Los recursos federales que se transfieran al Estado y los municipios, a través de los convenios de coordinación o de proyectos aprobados del Fondo, serán debidamente auditados conforme a la legislación aplicable, conservando esto el carácter de federales o estatales según corresponda.
+- Asistente de Informática;
 
-La información relativa a los recursos destinados a la adaptación y cambio climático es pública de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, Ley Federal de Transparencia y Acceso a la Información Pública y a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+- Técnico en Informática;
+
+- Auxiliar de Informática;
+
+II. Jefe del Departamento de Análisis y Programación; y
+
+III. Jefe del Departamento de red de datos y telecomunicaciones (en año electoral).
+
+###### ARTÍCULO 49.
+
+El Jefe del Departamento de Análisis y Programación, tendrá las siguientes funciones generales:
+
+I. Realizar actualizaciones en programas y paquetes;
+
+II. Diseña anteproyectos de funcionamientos de computadoras;
+
+III. Apoyar en el procesamiento, validación y corrección de productos informáticos; y
+
+IV. Las demás que le sean encomendadas por el Coordinador de Informática.
 
 ## Título Sexto. Del fomento y aprovechamiento sustentable de la energía
 
-### Capítulo Primero. De los principios generales
+### CAPÍTULO VIII. De la Coordinación de Comunicación Social
 
-###### Artículo 50.
+###### ARTÍCULO 50.
 
-Son principios generales de la presente Ley, en materia de energía (sic) renovables:
+La Coordinación de Informática en año electoral, contará con la Jefatura del Departamento de Red de Datos y Telecomunicaciones, la cual tendrá las siguientes funciones generales:
 
-I. Uso sustentable de las energías renovables;
+I. Administración y soporte técnico de equipos de telecomunicaciones;
 
-II. La priorización en la producción y utilización de las energías renovables;
+II. Resolución de problemas relacionados con la infraestructura de comunicaciones;
 
-III. El impulso de las prácticas más viables que hagan posible el ahorro y la eficiencia energética, incluyendo el uso de sistemas que garanticen la transformación eficiente de las energías primarias en energía final;
+III. Instalación y configuración de equipos de redes;
 
-IV. La democracia energética, como expresión equitativa de la participación de todo ciudadano en el uso y generación de energía (sic) renovables; y
+IV. Diseño e ingeniería de diagramas de redes; y
 
-V. La cooperación interinstitucional, cuando existan o concurran competencias del Estado y los Ayuntamientos, para la aprobación y gestión de instalaciones en el ámbito de aplicación de esta norma.
+V. Las demás que le sean encomendadas por el Coordinador de Informática.
 
-###### Artículo 51.
+###### ARTÍCULO 51.
 
-Mediante la presente Ley se garantiza el acceso a las fuentes de energía renovables, con las salvedades y condiciones de compatibilidad de uso que se establezcan en las disposiciones legales correspondientes.
+La Dirección del Organismo de Fiscalización dependerá directamente del Consejo General y sus funciones serán las contempladas en el artículo 64 del Código.
 
-###### Artículo 52.
+###### ARTÍCULO 52.
 
-Todas las personas, instituciones y poderes públicos del Estado, están obligados a usar la energía de forma racional, empleando sistemas eficientes y procurando el máximo ahorro.
+El Organismo de Fiscalización contará con la estructura administrativa que determine su Reglamento Interior.
 
-Se reconoce el principio de la democracia energética, que representa la responsabilidad compartida de la ciudadanía, instituciones, sectores productivos y poderes públicos, respecto a la utilización de la energía renovable como bien común, en la forma que mejor garantice el desarrollo justo, equitativo, colectivo y sustentable.
+###### ARTÍCULO 53.
 
-Los poderes públicos impulsarán, en relación a los recursos energéticos, el uso solidario de la energía, promoviendo que la participación social sea accesible, equitativa y efectiva.
+La Contraloría General se encontrará adscrita administrativamente a la Presidencia del Consejo General y sus funciones serán las contempladas en el artículo 353 del Código.
 
-###### Artículo 53.
+###### ARTÍCULO 54.
 
-El Estado y los municipios fomentarán el uso sustentable de la energía y el aprovechamiento de las energías renovables, observando las disposiciones que se emitan en la materia por parte del Ejecutivo Federal.
+La Contraloría General contará con la estructura orgánica y personal que apruebe el Consejo General a propuesta de su titular.
 
-###### Artículo 54.
+### CAPÍTULO IX. De la Coordinación de Informática
 
-El Centro, en coordinación con la Secretaría, podrá integrar programas de coordinación y de asesoría con los Ayuntamientos que tengan por objeto:
+###### ARTÍCULO 55.
 
-I. Establecer los mecanismos de participación en el ámbito de sus competencias, para el desarrollo de proyectos sustentables de energías renovables;
+El Consejo General aprobará, en términos de lo dispuesto por el Código, la integración de las comisiones permanentes o temporales que requiera el Instituto para la realización de la función pública estatal encomendada.
 
-II. Promover en la industria de la Entidad acciones relacionadas con el fomento de las tecnologías para aprovechamiento de las fuentes renovables de energía;
+A efecto de que las Comisiones lleven a cabo el correcto ejercicio de sus funciones, éstas podrán contar con el apoyo de los órganos ejecutivos y técnicos del Instituto, previa anuencia del Presidente.
 
-III. Instrumentar mecanismos que faciliten el desarrollo de proyectos en zonas con alto potencial de aprovechamiento de las fuentes de energías renovables y faciliten la adecuación y compatibilidad de los usos de suelo; y
+###### ARTÍCULO 56.
 
-IV. Facilitar asesoría científica y técnica en la introducción de tecnologías limpias y la sustitución de combustibles altamente contaminantes.
+Será comisión permanente del Instituto, la Comisión de Capacitación y Organización Electoral, de conformidad con lo establecido por el Código.
 
-### Capítulo Segundo. De la promoción de las energías renovables, el ahorro y la eficiencia energética
+###### ARTÍCULO 57.
 
-###### Artículo 55.
-
-Las autoridades del Estado pondrán en marcha los instrumentos necesarios para regular, impulsar, promover e incentivar las conductas y acciones de fomento de las energías renovables en las que se manifiesten la democracia energética y la colaboración social.
-
-La Secretaría nombrará al Comisionado para la coordinación del Fomento de Energías Renovables del Estado de Querétaro, para el impulso de proyectos, los mecanismos de financiamiento y certificación, las asociaciones de usuarios y generadores de energías renovables, la integración de la matriz energética estatal y la información sobre la generación de energías renovables en el Estado.
-
-###### Artículo 56.
-
-Los entes públicos del Estado de Querétaro deberán incorporar en sus edificios e instalaciones, la energía solar fotovoltaica o fototérmica, pudiendo ser complementadas o sustituidas con cualquier otra instalación de aprovechamiento de energía renovable. Se determinarán reglamentariamente los requisitos exigibles y sus excepciones, con atención a las siguientes circunstancias:
-
-I. Uso previsto del edificio o instalación;
-
-II. Limitaciones del acceso a la luz solar por la existencia de barreras externas;
-
-III. Limitaciones derivadas de la configuración previa del inmueble, o de la normativa urbanística aplicable;
-
-IV. Sujeción al inmueble de objetos con valor histórico o artístico; y
-
-V. Relación entre el costo de las medidas a adoptar y el ahorro energético obtenido.
-
-###### Artículo 57.
-
-Las dependencias en materia de desarrollo urbano del Estado y los municipios, adoptarán medidas de regulación para que los inmuebles de nueva construcción y las obras de ampliación, modificación, reforma o rehabilitación que alteren su configuración arquitectónica, incorporen instalaciones solares térmicas de agua caliente y en lo posible sistemas fotovoltaicos.
-
-Así mismo, para que los alumbrados públicos y comunes en los fraccionamientos o condominios se establezcan con base a la energía solar fotovoltaica.
+La Comisión de Capacitación y Organización Electoral, tiene por objeto el de supervisar a la Dirección de Capacitación y Organización Electoral.
 
 ## Título Séptimo. De la inspección y vigilancia, medidas de seguridad y sanciones
 
-### Capítulo Primero. De la inspección y vigilancia
+### CAPÍTULO X. De la Dirección del Organismo de Fiscalización
 
-###### Artículo 58.
+###### ARTÍCULO 58.
 
-La Procuraduría, realizará actos de inspección y vigilancia a las personas físicas y morales que estén obligadas al reporte de emisiones por contaminación a la atmosfera y daños a la salud, de fuentes emisoras de gases o compuestos de efecto invernadero en los términos de la presente Ley; así mismo recibirá y atenderá las denuncias ciudadanas por dichos actos.
+La Comisión de Capacitación y Organización Electoral se integrará por tres Consejeros con derecho a voz y voto, así como por los Consejeros Representantes de los Partidos Políticos, quienes tendrán únicamente derecho a voz.
 
-###### Artículo 59.
+###### ARTÍCULO 59.
 
-Las personas físicas o morales responsables de las fuentes emisoras que sean requeridas por la Procuraduría para proporcionar los informes, datos o documentos que integran el reporte de emisiones, tendrán la obligación de hacerlo dentro de un plazo no mayor a quince días hábiles, contados a partir del día siguiente al de la fecha de su notificación.
+Las Comisiones, tomarán sus determinaciones por mayoría de votos de sus Consejeros; con el fin de instrumentar los mecanismos necesarios para el cumplimiento de sus funciones, contarán con la siguiente estructura:
 
-### Capítulo Segundo. De las medidas de seguridad
+I. Presidente;
 
-###### Artículo 60.
+II. Secretario;
 
-Cuando de las visitas de inspección realizadas a las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, se determine que existe riesgo inminente derivado de contravenir las disposiciones de la presente Ley y demás leyes a que se refiere el artículo 4 de la presente Ley, asimismo, cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones, la Procuraduría podrá ordenar las medidas de seguridad previstas en la Ley.
+III. Vocal; y
 
-### Capítulo Tercero. De las sanciones
+IV. Consejeros Representantes de los Partidos Políticos Acreditados.
 
-###### Artículo 61.
+### CAPÍTULO XI. De la Contraloría General
 
-Las violaciones a los preceptos de esta Ley, el Programa Estatal y demás disposiciones que se deriven, constituyen infracciones y serán sancionadas administrativamente por la Procuraduría en asuntos de competencia Estatal, no reservados expresamente a otra instancia y en los demás casos, por las autoridades de los municipios en el ámbito de sus respectivas competencias y conforme a las disposiciones legales que se expidan.
+###### ARTÍCULO 60.
 
-###### Artículo 62.
+Las Comisiones estarán facultadas para la supervisión de las funciones de las diversas áreas del Instituto para las que sean creadas, a fin de emitir recomendaciones para mejorar las funciones de las mismas.
 
-En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte omitan entregar la información, datos o documentos requeridos por la Procuraduría en el plazo señalado, podrá imponer una multa de 130 a 700 UMA, sin menoscabo del cumplimiento inmediato de dicha obligación.
+### CAPÍTULO XII. De las Comisiones
 
-###### Artículo 63.
+###### ARTÍCULO 61.
 
-En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, incumplan con las reducciones de gases y compuestos de efecto invernadero, requeridos por la Secretaría, la Procuraduría podrá imponer multas, considerando lo siguiente:
+El Presidente de la Comisión tendrá las siguientes facultades:
 
-I. Si las emisiones totales de gases y compuestos de gases de efecto invernadero son mayores a 50 toneladas, pero menores a 100 toneladas, podrá imponerse una multa de 1,000 a 1,500 UMA;
+I. Será su representante ante el Consejo General;
 
-II. Si las emisiones totales de gases y compuestos de gases de efecto invernadero son iguales o mayores a 100 toneladas, pero menores a 150 toneladas, podrá imponerse una multa de 1,5000 a 2,500 UMA;
+II. Convocar y presidir las reuniones de trabajo;
 
-III. Si las emisiones totales de gases y compuestos de gases de efecto invernadero son iguales o mayores a 150 toneladas, pero menores a 600 toneladas, podrá imponerse una multa de 2,500 a 5,000 UMA;
+III. Tener voto de calidad;
 
-IV. Si las emisiones de gases y compuestos de gases de efecto invernadero son iguales o mayores a 600 toneladas, pero menores a 1,250 toneladas, podrá imponerse una multa de 5,000 a 25,000 UMA; y
+IV. Obtener de la Secretaría Técnica así como del área que supervisen, la documentación necesaria para el desempeño de sus funciones, documentación que de ser necesario estará resguardada provisionalmente por el Secretario de la Comisión;
 
-V. Si las emisiones de gases y compuestos de gases de efecto invernadero son iguales o mayores a 1,250 toneladas o más, podrá imponerse una multa de 25,000 a 50,000 UMA.
+V. Firmar conjuntamente con el Secretario y Vocal de la Comisión las actas, minutas y dictámenes que se elaboren y aprueben;
 
-En caso de reincidencia, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto.
+VI. Firmar las convocatorias para las reuniones de trabajo;
 
-###### Artículo 64.
+VII. Solicitar la intervención del Presidente del Consejo General para que las autoridades del Estado coadyuven con las labores de la Comisión;
 
-En caso de encontrarse falsedad en la información proporcionada, así como incumplir con los plazos y términos para su entrega, la Procuraduría aplicará una multa de 1,000 y hasta 10,000 UMA. La multa será independiente de cualquier otra responsabilidad de los órdenes civil y penal que pudieran derivarse.
+VIII. Mantener informado al Consejo General de sus actividades de supervisión, de manera mensual;
 
-La Procuraduría tendrá la obligación de hacer del conocimiento de las autoridades competentes dichos actos.
+###### ARTÍCULO 62.
 
-En caso de reincidencia, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto.
+El Secretario de la Comisión tendrá las siguientes atribuciones:
+
+I. Auxiliar a la Comisión y su Presidente, en el ejercicio de sus funciones;
+
+II. Elaborar y llevar el control de las actas, así como de los documentos necesarios para el desempeño de las funciones de dicha Comisión;
+
+III. Firmar conjuntamente con el Presidente de la Comisión las actas, acuerdos, minutas y dictámenes que se elaboren y aprueben;
+
+IV. Elaborar las convocatorias así como las minutas correspondientes para las audiencias y reuniones de trabajo;
+
+V. Declarar el quórum legal de asistencia que será de dos miembros presentes;
+
+VI. Recibir la documentación necesaria y resguardarla;
+
+VII. Llevar el archivo de los asuntos de la Comisión;
+
+VIII. Las demás que en uso de sus facultades, le señale el Presidente de la Comisión.
+
+###### ARTÍCULO 63.
+
+El Vocal de la Comisión coadyuvará con las funciones del Presidente y del Secretario, firmando las minutas de las reuniones de trabajo que se elaboren por la Comisión.
+
+###### ARTÍCULO 64.
+
+Las recomendaciones que emanen de las Comisiones serán turnadas al Consejo General para su aprobación y aplicación, de las que en su caso procedan.
+
+###### ARTÍCULO 65.
+
+Las Comisiones temporales serán creadas para la realización de tareas específicas temporales, y se integrarán de igual manera que las permanentes.
+
+###### ARTÍCULO 66.
+
+Las Comisiones permanentes del Consejo General se deberán reunir por lo menos dos veces al año, o en cualquier tiempo a convocatoria del Presidente de la Comisión respectiva o de la mayoría de los integrantes de la misma.
 
 ## TRANSITORIOS
 
