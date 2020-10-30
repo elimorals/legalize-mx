@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-participacion-ciudadana-del-estado-de-queretaro-89478"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-19"
-last_updated: "2012-08-19"
+last_updated: "2020-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el domingo 19 de agosto de 2012.
 
@@ -81,7 +81,9 @@ III. El Tribunal Superior de Justicia;
 
 IV. Los Ayuntamientos; y
 
-V. El Instituto Electoral de Querétaro.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+V. El Instituto Electoral del Estado de Querétaro.
 
 Salvo mención expresa distinta, se entenderá que el órgano competente de este Instituto es su Consejo General.
 
@@ -105,7 +107,9 @@ I. Los actos, propuestas o decisiones del poder ejecutivo u organismos e institu
 
 II. Los actos, propuestas o decisiones de los ayuntamientos u organismos e instituciones de la administración pública municipal, que se consideren trascendentes para la vida pública del municipio de que se trate; y
 
-III. Los actos, propuestas o decisiones del Instituto Electoral de Querétaro, que se consideren trascendente para la gobernabilidad y la vida democrática del Estado.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+III. Los actos, propuestas o decisiones del Instituto Electoral del Estado de Querétaro, que se consideren trascendentes para la gobernabilidad y la vida democrática del Estado.
 
 ###### Artículo 10.
 
@@ -119,13 +123,17 @@ III. El Presidente Municipal o la mitad más uno de los miembros del Ayuntamient
 
 IV. Los solicitantes que lo suscriben, debiendo ser éstos al menos el tres por ciento de los electores inscritos en la lista nominal de electores del Estado o, en su caso, el correspondiente al municipio respectivo, cuando los efectos del acto se circunscriban sólo a uno de éstos.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 11.
 
-El Instituto Electoral de Querétaro es la autoridad competente para emitir la declaratoria de procedencia o improcedencia del plebiscito.
+El Instituto Electoral del Estado de Querétaro es la autoridad competente para emitir la declaratoria de procedencia o improcedencia del plebiscito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 12.
 
-La solicitud de plebiscito se presentará por escrito y en medio electrónico o magnético ante el Instituto Electoral de Querétaro, debiendo contener, por lo menos:
+La solicitud de plebiscito se presentará por escrito y en medio electrónico o magnético ante el Instituto Electoral del Estado Querétaro, debiendo contener, por lo menos:
 
 I. La descripción del acto que se pretende someter a plebiscito;
 
@@ -141,7 +149,9 @@ VI. El nombre del representante común y domicilio para oír y recibir notificac
 
 VII. Cuando sea presentada por ciudadanos se deberán acreditar los siguientes datos: nombre, firma autógrafa y clave de la credencial de elector y copia por ambos lados de ésta de cada uno de los ciudadanos promoventes.
 
-El Instituto Electoral de Querétaro, a través de su órgano directivo correspondiente, verificará los datos aportados.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+El Instituto Electoral del Estado de Querétaro, a través de su órgano directivo correspondiente, verificará los datos aportados.
 
 Para todos los efectos legales, se entenderá que el representante designado podrá realizar todos los actos tendientes para tramitar el procedimiento.
 
@@ -177,29 +187,41 @@ IV. El escrito sea ilegible o su exposición de motivos no contenga una relació
 
 V. El acto no sea trascendente para la vida pública del Estado o del municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 15.
 
-El Instituto Electoral de Querétaro, con el voto de cuando menos las dos terceras partes de sus integrantes con derecho a voto, determinará si es trascendente para la vida pública del Estado, debiendo fundamentar y motivar la resolución que emita.
+El Instituto Electoral del Estado de Querétaro, con el voto de cuando menos las dos terceras partes de sus integrantes con derecho a voto, determinará si es trascendente para la vida pública del Estado, debiendo fundamentar y motivar la resolución que emita.
 
 Se entenderá como acto trascendental, aquel acto o resolución de una autoridad, cuyos efectos y consecuencias puedan causar un beneficio o perjuicio directo o indirecto, de manera permanente, general e importante, para los habitantes de un municipio, de una región o de todo el Estado.
 
-El Instituto Electoral de Querétaro podrá auxiliarse, para la elaboración de su dictamen, de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales u organismos ciudadanizados, relacionados con la materia de que se trate.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
-A fin de contar con mayores elementos de juicio, al momento de calificar la procedencia, el Instituto Electoral de Querétaro informará a la Legislatura de las solicitudes que haya recibido, dentro de las cuarenta y ocho horas siguientes; de considerarlo necesario, la Legislatura podrá emitir opinión al respecto, en un plazo no mayor de cinco días hábiles.
+El Instituto Electoral del Estado de Querétaro podrá auxiliarse, para la elaboración de su dictamen, de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales u organismos ciudadanizados, relacionados con la materia de que se trate.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+A fin de contar con mayores elementos de juicio, al momento de calificar la procedencia, el Instituto Electoral del Estado de Querétaro informará a la Legislatura de las solicitudes que haya recibido, dentro de los tres días hábiles, de considerarlo necesario, la Legislatura a través del órgano que considere, podrá emitir opinión al respecto, en un plazo no mayor de cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 16.
 
-En un plazo no mayor de diez días hábiles, siguientes a la recepción de la solicitud, el Instituto Electoral de Querétaro determinará si se acompañan los requisitos señalados por esta Ley y, en su caso, de existir alguna obscuridad en la solicitud, se dará vista al representante común del promovente o promoventes para que en un plazo no mayor de cinco días hábiles aclare la observación.
+En un plazo no mayor de diez días hábiles, siguientes a la recepción de la solicitud, el Instituto Electoral del Estado de Querétaro determinará si se acompañan los requisitos señalados por esta Ley y, en su caso, de existir alguna observación o discrepancia en la solicitud, se dará vista al representante común del promovente o promoventes para que en un plazo no mayor de cinco días hábiles aclare la observación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 17.
 
-El Instituto Electoral de Querétaro, a través del Consejo general, resolverá con el voto de las dos terceras partes de sus integrantes sobre la procedencia o no del plebiscito en un plazo no mayor de treinta días hábiles, siguientes a la recepción de la solicitud, debiendo fundamentar y motivar la resolución que emita, según sea el caso.
+El Instituto Electoral del Estado Querétaro, a través del Consejo General, resolverá con el voto de las dos terceras partes de sus integrantes sobre la procedencia o no del plebiscito en un plazo no mayor de treinta días hábiles, siguientes a la recepción de la solicitud, debiendo fundamentar y motivar la resolución que emita, según sea el caso.
 
 Solamente cuando el plebiscito sea solicitado por el gobernador o por los ayuntamientos, el procedimiento suspenderá los efectos del acto o decisión correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 18.
 
-El Instituto Electoral de Querétaro, después de decretar que la solicitud de plebiscito cumple con los requisitos que establece esta Ley, notificará a la autoridad de la que emana el acto respectivo, para que en un término de cinco días hábiles manifieste lo que a su derecho convenga.
+El Instituto Electoral del Estado de Querétaro, después de decretar que la solicitud de plebiscito cumple con los requisitos que establece esta Ley, notificará a la autoridad de la que emana el acto respectivo, para que en un término de cinco días hábiles manifieste lo que a su derecho convenga.
 
 ###### Artículo 19.
 
@@ -209,15 +231,19 @@ I. La mención del acto que se pretende someter a plebiscito;
 
 II. La exposición de motivos contenida en la solicitud del plebiscito; y
 
-III. El plazo que se le otorga para hacer llegar sus consideraciones ante el Instituto Electoral de Querétaro.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+III. El plazo que se le otorga para hacer llegar sus consideraciones ante el Instituto Electoral del Estado de Querétaro.
 
 ###### Artículo 20.
 
 La resolución que niegue el plebiscito se notificará de manera íntegra al representante común de los ciudadanos solicitantes o, en su caso, a la autoridad solicitante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 21.
 
-El Instituto Electoral del Estado iniciará el procedimiento de plebiscito mediante convocatoria que deberá expedir cuando menos treinta días naturales antes de la fecha de su realización.
+El Instituto Electoral del Estado de Querétaro iniciará el procedimiento de plebiscito mediante convocatoria que deberá expedir cuando menos treinta días naturales antes de la fecha de su realización.
 
 La convocatoria se publicará en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y en los principales diarios de circulación en la Entidad y en los medios de comunicación electrónicos que se consideren convenientes y contendrá:
 
@@ -301,7 +327,9 @@ IV. Exposición de motivos por los cuales se considera necesario someter la norm
 
 V. Nombre, firma autógrafa y clave de la credencial de elector y copia por ambos lados de ésta de cada uno de los ciudadanos promoventes; y
 
-VI. El Instituto Electoral de Querétaro, a través de su órgano competente, verificará los datos de las credenciales de elector.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+VI. El Instituto Electoral del Estado de Querétaro, a través de su órgano competente, verificará los datos de las credenciales de elector.
 
 ###### Artículo 28.
 
@@ -343,21 +371,27 @@ V. La norma no sea trascendente para la vida pública del Estado o del municipio
 
 La solicitud de referéndum realizada por alguna autoridad, deberá presentarse dentro de los quince días hábiles siguientes a la publicación de la norma o normas objeto de consulta, en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” o la gaceta municipal, en su caso. Si la solicitud corresponde a ciudadanos, el plazo será de treinta días hábiles.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 32.
 
-El Instituto Electoral de Querétaro, al recibir una solicitud de proceso de referéndum, le asignará un número consecutivo de registro, el cual indicará el orden en que ha sido presentada y la fecha de su inscripción.
+El Instituto Electoral del Estado de Querétaro, al recibir una solicitud de proceso de referéndum, le asignará un número consecutivo de registro, el cuál indicará el orden en que ha sido presentada y la fecha de su inscripción.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 33.
 
-El Instituto Electoral de Querétaro, a través del Consejo General, resolverá en un plazo no mayor de diez días hábiles siguientes a la recepción de la solicitud de referéndum, sobre el cumplimiento de los requisitos a que se refieren esta Ley. En caso afirmativo, notificará a la Legislatura o al ayuntamiento, en su caso, y a los solicitantes; de lo contrario, desechará de plano la solicitud.
+El Instituto Electoral del Estado de Querétaro, a través del Consejo General, resolverá en un plazo no mayor de diez días hábiles siguientes a la recepción de la solicitud de referéndum, sobre el cumplimiento de los requisitos a que se refieren esta Ley. En caso afirmativo, notificará a la Legislatura o al ayuntamiento, en su caso, y a los solicitantes; de lo contrario, desechará de plano la solicitud.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 34.
 
-El Instituto Electoral de Querétaro, con el voto de cuando menos las dos terceras partes de sus integrantes con derecho a voto, determinará si la norma o normas que se propone someter a referéndum son o no procedentes, debiendo fundamentar y motivar la resolución que emita según sea el caso.
+El Instituto Electoral del Estado de Querétaro, con el voto de cuando menos las dos terceras partes de sus integrantes con derecho a voto, determinará si la norma o normas que se propone someter a referéndum son o no procedentes, debiendo fundamentar y motivar la resolución que emita según sea el caso.
 
-El Instituto Electoral de Querétaro, después de decretar que la solicitud de referéndum cumple con los requisitos que establece esta Ley, notificará a la autoridad de la que emana el acto respectivo, para que en un término de cinco días hábiles manifieste lo que a su derecho convenga.
+El Instituto Electoral del Estado de Querétaro, después de decretar que la solicitud de referéndum cumple con los requisitos que establece esta Ley, notificará a la autoridad de la que emana el acto respectivo, para que en un término de cinco días hábiles manifieste lo que a su derecho convenga.
 
-El Instituto Electoral de Querétaro podrá auxiliarse para la elaboración de su dictamen, de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales u organismos ciudadanizados, relacionados con la materia de que se trate.
+El Instituto Electoral del Estado de Querétaro podrá auxiliarse para la elaboración de su dictamen, de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales u organismos ciudadanizados, relacionados con la materia de que se trate.
 
 ###### Artículo 35.
 
@@ -367,13 +401,17 @@ I. La mención de la norma o normas objeto de referéndum;
 
 II. La exposición de motivos contenida en la solicitud del promovente; y
 
-III. El plazo que se le otorga para hacer llegar sus consideraciones ante el Instituto Electoral de Querétaro.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+III. El plazo que se le otorga para hacer llegar sus consideraciones ante el Instituto Electoral del Estado de Querétaro.
 
 Igualmente, convocará a los ciudadanos de la Entidad o del municipio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 36.
 
-A cada proceso de referéndum precederá una convocatoria que el Instituto Electoral de Querétaro deberá expedir y difundir, cuando menos treinta días hábiles antes de la fecha de la votación, debiendo publicarse en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, los principales diarios de circulación de la Entidad y en los medios de comunicación electrónicos que se consideren convenientes y contendrá:
+A cada proceso de referéndum precederá una convocatoria que el Instituto Electoral del Estado de Querétaro deberá expedir y difundir, cuando menos treinta días hábiles antes de la fecha de la votación, debiendo publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", los principales diarios de circulación de la Entidad y en los medios de comunicación electrónicos que se consideren convenientes y contendrá:
 
 I. Referencia de la norma o normas que se propone someter a referéndum;
 
@@ -405,13 +443,17 @@ II. Indicativo: cuando la opinión manifestada por parte de los ciudadanos en de
 
 #### Sección primera. Del procedimiento
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 38.
 
-El Instituto Electoral de Querétaro es el órgano responsable de la organización y desarrollo de los procesos de plebiscito y referéndum, y le corresponde hacer la declaración de resultados y precisar sus efectos. Éstos últimos los remitirá al órgano o autoridad competente cuando adquieran el carácter de definitivos.
+El Instituto Electoral del Estado de Querétaro es el órgano responsable de la organización y desarrollo de los procesos de plebiscito y referéndum, y le corresponde hacer la declaración de resultados y precisar sus efectos. Éstos últimos los remitirá al órgano o autoridad competente cuando adquieran el carácter de definitivos.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 39.
 
-El Instituto Electoral de Querétaro, según las necesidades de cada proceso de plebiscito y referéndum, su naturaleza y el ámbito territorial de su aplicación, en su caso, establecerá la estructura requerida para su realización.
+El Instituto Electoral del Estado Querétaro, según las necesidades de cada proceso de plebiscito y referéndum, su naturaleza y el ámbito territorial de su aplicación, en su caso, establecerá la estructura requerida para su realización.
 
 ###### Artículo 40.
 
@@ -429,17 +471,23 @@ I. Preparación: comprende desde la publicación del acuerdo donde se declare la
 
 II. Jornada de consulta: inicia el día de la votación y concluye con la clausura de casillas;
 
-III. Cómputo y calificación de resultados: inicia con la remisión de los expedientes electorales al Instituto Electoral de Querétaro y concluye con el cómputo de la votación; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+III. Cómputo y calificación de resultados: inicia con la remisión de los expedientes electorales al Instituto Electoral del Estado de Querétaro y concluye con el cómputo de la votación; y
 
 IV. Declaración de los efectos: comprende desde la declaración de los resultados y concluye con la notificación de los mismos a la autoridad.
 
-Los representantes de los partidos políticos registrados o acreditados ante el Instituto Electoral de Querétaro, podrán participar en la vigilancia de la organización y desarrollo de los procesos a los que se refiere éste artículo.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+Los representantes de los partidos políticos registrados o acreditados ante el Instituto Electoral del Estado de Querétaro, podrán participar en la vigilancia de la organización y desarrollo de los procesos a los que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 43.
 
-El Instituto Electoral de Querétaro tendrá facultades para ampliar los plazos y términos establecidos en esta Ley cuando exista imposibilidad material para realizar las actividades o actos previstos para el proceso de plebiscito o referéndum.
+El Instituto Electoral del Estado de Querétaro tendrá facultades para ampliar los plazos y términos establecidos en esta Ley cuando exista imposibilidad material para realizar las actividades o actos previstos para el proceso de plebiscito o referéndum.
 
-El acuerdo o acuerdos del Instituto Electoral de Querétaro que determinen ampliaciones a los plazos y términos de los procesos mencionados, serán enviados para su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, dentro de los tres días hábiles siguientes a la fecha de su aprobación.
+El acuerdo o acuerdos del Instituto Electoral del Estado de Querétaro que determinen ampliaciones a los plazos y términos de los procesos mencionados, serán enviados para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", dentro de los tres días hábiles siguientes a la fecha de su aprobación.
 
 #### Sección Segunda. De las mesas directivas de casilla
 
@@ -449,29 +497,37 @@ Las mesas directivas de casilla se integrarán con un presidente, un secretario,
 
 En la integración de las mesas directivas de casilla, no podrán participar representantes de partidos políticos ni servidores públicos del orden de gobierno cuyo acto se someta a consulta.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 45.
 
-El Instituto Electoral de Querétaro, en atención a las necesidades particulares y específicas de cada proceso, decidirá el número y ubicación de las mesas directivas de casilla.
+El Instituto Electoral del Estado de Querétaro, en atención a las necesidades particulares y específicas de cada proceso, decidirá el número y ubicación de las mesas directivas de casilla.
 
 #### Sección Tercera. Del proceso
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 46.
 
-El proceso de plebiscito o de referéndum se inicia con la publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” del acuerdo de procedencia que emita el Instituto Electoral de Querétaro.
+El proceso de plebiscito o de referéndum se inicia con la publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" del acuerdo de procedencia que emita el Instituto Electoral del Estado de Querétaro.
 
 ###### Artículo 47.
 
 En el proceso de plebiscito o de referéndum se deberá aplicar, en lo conducente y de manera supletoria, las disposiciones relativas a la integración y ubicación de las mesas directivas de casilla, instalación y apertura de las mismas, votación, escrutinio, cómputo y clausura de la casilla, contenidas en la Ley Electoral del Estado de Querétaro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 48.
 
-El Instituto Electoral de Querétaro, a través de sus órganos directivos competentes, preparará el proyecto para la realización de los procesos de plebiscito o de referéndum.
+El Instituto Electoral del Estado de Querétaro, a través de sus órganos directivos competentes, preparará el proyecto para la realización de los procesos de plebiscito o de referéndum.
 
 Dicho proyecto podrá contemplar la utilización de nuevas tecnologías para su organización y votación, incluyendo la instalación de centros de votación. La instrumentación de la tecnología sólo podrá ser autorizada siempre y cuando garantice la autenticidad y el secreto del voto conforme a lo dispuesto en la Ley Electoral del Estado de Querétaro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 49.
 
-Para la emisión del voto en los procesos de plebiscito o referéndum se imprimirán las boletas electorales, conforme al modelo que aprueben el Instituto Electoral de Querétaro, debiendo contener cuando menos los siguientes datos:
+Para la emisión del voto en los procesos de plebiscito o referéndum se imprimirán las boletas electorales, conforme al modelo que apruebe el Instituto Electoral del Estado de Querétaro, debiendo contener cuando menos los siguientes datos:
 
 I. Distrito electoral y municipio, de conformidad con la naturaleza del voto y con la aplicación territorial del proceso;
 
@@ -483,7 +539,9 @@ IV. Cuadros o círculos para el “SÍ” y para el “NO”;
 
 V. Descripción del acto sometido a plebiscito o, en su caso, de la norma o normas sometidas a referéndum; y
 
-VI. Sello y firmas impresas del Consejero Presidente y del Director General del Instituto Electoral de Querétaro.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+
+VI. Sello y firmas impresas del Consejero Presidente y del Director General del Instituto Electoral del Estado de Querétaro.
 
 El voto a que se refiere este artículo será libre, secreto, directo, personal e intransferible.
 
@@ -491,29 +549,39 @@ El voto a que se refiere este artículo será libre, secreto, directo, personal 
 
 Para las consultas que se celebren con motivo de los procesos de plebiscito o referéndum, no se aplicarán las disposiciones relativas al régimen de los partidos políticos que establece la Ley Electoral del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 51.
 
-El Instituto Electoral de Querétaro difundirá a los ciudadanos los argumentos a favor y en contra del acto o de la norma objeto de consulta. Dentro de las actividades de divulgación que desarrolle, podrá contemplar la difusión de la temática en medios masivos de comunicación, así como la organización y celebración de debates, mesas de discusión u otros eventos similares que tengan por objeto informar a la ciudadanía sobre la trascendencia de los posibles resultados. Lo anterior, sin perjuicio de la divulgación que lleven a cabo los promoventes y las autoridades cuyo acto o norma sea objeto de consulta.
+El Instituto Electoral del Estado de Querétaro difundirá a los ciudadanos los argumentos a favor y en contra del acto o de la norma objeto de consulta. Dentro de las actividades de divulgación que desarrolle, podrá contemplar la difusión de la temática en medios masivos de comunicación, así como la organización y celebración de debates, mesas de discusión u otros eventos similares que tengan por objeto informar a la ciudadanía sobre la trascendencia de los posibles resultados. Lo anterior, sin perjuicio de la divulgación que lleven a cabo los promoventes y las autoridades cuyo acto o norma sea objeto de consulta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 52.
 
-El Instituto Electoral de Querétaro, previamente a la celebración de un proceso de plebiscito o de referéndum, determinará el tope de gastos que podrán destinarse a su difusión, por parte de los promoventes o de las autoridades de las que emana el acto o la norma motivo de consulta.
+El Instituto Electoral del Estado de Querétaro, previamente a la celebración de un proceso de plebiscito de referéndum, determinará el tope de gastos que podrán destinarse a su difusión, por parte de los promoventes o de las autoridades de las que emana el acto o la norma motivo de consulta.
 
 Durante los tres días naturales anteriores a la jornada de consulta de los procesos de plebiscito o de referéndum y hasta el cierre oficial de la misma, queda prohibida la publicación o difusión, total o parcial, de encuestas, sondeos de opinión o simulacros de votación, así como de las operaciones de simulación del voto, que tengan por objeto dar a conocer las preferencias de los ciudadanos, quedando sujetos quienes lo hicieren a lo dispuesto por el Código Penal para el Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 53.
 
-La calificación de la validez del proceso de plebiscito y de referéndum la realizará el Instituto Electoral de Querétaro, aplicando, en lo conducente, lo que establece la Ley Electoral del Estado de Querétaro.
+La calificación de la validez del proceso de plebiscito y de referéndum la realizará el Instituto Electoral del Estado de Querétaro, aplicando, en lo conducente, lo que establece la Ley Electoral del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 54.
 
-Una vez efectuado el cómputo correspondiente, el Instituto Electoral de Querétaro dará el resultado final de la votación en los procesos de plebiscito o de referéndum, y hará la declaratoria de los efectos correspondientes.
+Una vez efectuado el cómputo correspondiente; el Instituto Electoral del Estado de Querétaro dará el resultado final de la votación en los procesos de plebiscito o de referéndum, y hará la declaratoria de los efectos correspondientes.
 
 #### Sección Cuarta. De la publicidad de los resultados
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 55.
 
-El Instituto Electoral de Querétaro realizará el cómputo de los resultados y hará la declaratoria correspondiente de validez, ordenando su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, en los diarios de mayor circulación de la Entidad y en los medios electrónicos que se consideren necesarios.
+El Instituto Electoral del Estado Querétaro realizará el cómputo de los resultados y hará la declaratoria correspondiente de validez, ordenando su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", en los diarios de mayor circulación de la Entidad y en los medios electrónicos que se consideren necesarios.
 
 ### Capítulo cuarto. De la iniciativa ciudadana
 
@@ -567,9 +635,11 @@ VII. Un documento anexo de los ciudadanos que suscriban la iniciativa, donde exp
 
 Las iniciativas que no reúnan los requisitos expresados por esta Ley, para ser dictaminadas deberán ser remitidas por el presidente de la mesa directiva o el secretario del ayuntamiento, por una sola vez, a quienes las presentaron, para que en un plazo no mayor de cinco días hábiles, hagan las correcciones pertinentes; en caso de no subsanarse en el plazo estipulado, serán desechadas de plano.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 60.
 
-El presidente de la mesa directiva o el secretario del ayuntamiento deberá decidir sobre la admisión de la iniciativa, dentro de los diez días hábiles siguientes a la fecha de su presentación o de su reenvío para el caso del artículo anterior. Asimismo, podrá auxiliarse para la verificación y autenticidad de la documentación recibida, con el Instituto Electoral de Querétaro.
+El Presidente de la Mesa Directiva o el Secretario del Ayuntamiento deberá decidir sobre la admisión de la iniciativa, dentro de los diez días hábiles siguientes a la fecha de su presentación o de su reenvío para el caso del artículo anterior. Asimismo, podrá auxiliarse para la verificación y autenticidad de la documentación recibida, con el Instituto Electoral del Estado de Querétaro.
 
 ###### Artículo 61.
 
@@ -697,9 +767,11 @@ Tienen interés jurídico aquellos a quienes se faculta para solicitar la celebr
 
 Tratándose de la solicitud de plebiscito o de referéndum promovida por ciudadanos, lo podrá interponer el representante común que hayan designado en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 81.
 
-Siempre y cuando se agote el recurso que prevé esta Ley, los actos o resoluciones del Instituto Electoral de Querétaro dictados con motivo del plebiscito o del referéndum podrán ser impugnados ante la Sala Electoral del Tribunal Superior de Justicia.
+Siempre y cuando se agote el recurso que prevé esta Ley, los actos o resoluciones del Instituto Electoral del Estado de Querétaro dictados con motivo del plebiscito o del referéndum podrán ser impugnados ante la Sala Electoral del Tribunal Superior de Justicia.
 
 ###### Artículo 82.
 
@@ -762,3 +834,13 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
