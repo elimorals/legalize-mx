@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-y-desarrollo-de-ciencia-y-tecnologia-del-51981"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2013-11-16"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO Y DESARROLLO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -221,13 +221,13 @@ g) Secretaría de Desarrollo Rural;
 
 h) Secretaría de Finanzas;
 
-> <small>(REFORMADO, P. O. 29 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-i) Comisión de Educación y Cultura;
+i) La Diputada o Diputado Presidente de la Comisión Legislativa de Educación y Cultura del Honorable Congreso del Estado, o la denominación que en su caso adopte.
 
-> <small>(REFORMADO, P. O. 29 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-j) Comisión de Ciencia y Tecnología;
+j) La Diputada o Diputado Presidente de la Comisión Legislativa de Ciencia, Tecnología e Innovación Gubernamental del Congreso del Estado, o la denominación que en su caso adopte.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
@@ -493,6 +493,10 @@ c) Propiciando el desarrollo estatal mediante el establecimiento de redes o alia
 
 d) Promoviendo la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como la incentivación de una participación equilibrada de mujeres y hombres en las nuevas generaciones de investigadores y tecnólogos;
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+e) Promover en la educación media superior el establecimiento de un programa de iniciación a la vocación científica.
+
 II. Diagnósticos, políticas estrategias y acciones en lo que respecta a:
 
 a) Investigación científica y tecnológica;
@@ -632,3 +636,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Lo (sic) atribución prevista en la fracción XXI, que se adiciona al artículo 6º, de la Ley de Fomento y Desarrollo de Ciencia y Tecnología del Estado de Colima por virtud del presente Decreto, estará sujeta a la existencia de la suficiencia presupuestal que para tal efecto se requiere.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 322.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y DESARROLLO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
