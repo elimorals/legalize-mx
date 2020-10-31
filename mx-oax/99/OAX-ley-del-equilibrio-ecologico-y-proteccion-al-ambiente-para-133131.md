@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2019-11-23"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -488,6 +488,26 @@ I. Determinar las distintas áreas ecológicas que se localicen en la zona, regi
 II. Regular, fuera de los centros de población, los usos del suelo, con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos, y;
 
 III. Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de ordenamiento territorial y el desarrollo urbano en el Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 14 Bis.
+
+En la formulación y evaluación de los Programas de Ordenamiento Ecológico del Territorio, la Secretaría promoverá la participación de los municipios, pueblos indígenas y afromexicano, instituciones académicas y de investigación; en su realización considerarán los siguientes criterios:
+
+I. La naturaleza y características de cada ecosistema existente en el territorio estatal;
+
+II. La vocación de cada zona o región del Estado, en función de los recursos naturales y el patrimonio natural; la distribución de la población y las actividades económicas predominantes;
+
+III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
+
+IV. El impacto ambiental que puedan producir nuevas obras, asentamientos humanos, vías de comunicación y demás obras o actividades;
+
+V. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
+
+VI. La conservación y preservación de la naturaleza; y
+
+VII. Las observaciones y propuestas formuladas por la ciudadanía.
 
 ###### Artículo 15.
 
@@ -3104,3 +3124,11 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1601.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
