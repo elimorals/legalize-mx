@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-al-primer-empleo-para-el-estado-de-oaxaca-126108
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-08"
-last_updated: "2019-08-03"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO AL PRIMER EMPLEO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el viernes 8 de diciembre de 2017.
 
@@ -49,9 +49,11 @@ LEY DE FOMENTO AL PRIMER EMPLEO PARA EL ESTADO DE OAXACA
 
 La presente Ley es de orden e interés público y observancia general en el Estado de Oaxaca y sus municipios.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 ###### Artículo 2.
 
-Esta Ley tiene por objeto fomentar, promover e impulsar la creación de nuevos empleos para los jóvenes que estén cursando el último año escolar o tengan un año de haber egresado de su carrera técnica o profesional, otorgando estímulos, incentivos, beneficios técnicos, fiscales y económicos, acceso preferente a programas y apoyos previstos en la (sic) leyes reglamentarias y lo establecido en el presente ordenamiento a las personas físicas o morales, que contribuyan en la creación de nuevos empleos.
+Esta Ley tiene por objeto de (sic) reconocer y garantizar los derechos de la juventud establecidos en el artículo 12, párrafo vigésimo cuarto de la Constitución Política del Estado Libre y Soberano de Oaxaca, como, fomentar, promover e impulsar la creación de nuevos empleos para los jóvenes que estén cursando el último año escolar o tengan un año de haber egresado de su carrera técnica o profesional, otorgando estímulos, incentivos, beneficios técnicos, fiscales y económicos, acceso preferente a programas y apoyos previstos en la (sic) leyes reglamentarias y lo establecido en el presente ordenamiento a las personas físicas o morales, que contribuyan en la creación de nuevos empleos.
 
 ###### Artículo 3.
 
@@ -284,3 +286,11 @@ P.O. 3 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1576.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2 DE LA LEY DE FOMENTO AL PRIMER EMPLEO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
