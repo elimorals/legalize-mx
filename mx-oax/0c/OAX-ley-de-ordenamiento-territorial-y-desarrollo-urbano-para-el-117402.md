@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2020-08-29"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -2511,6 +2511,10 @@ Las acciones urbanísticas que se realicen en el ámbito municipal, sólo podrá
 
 Las autorizaciones de construcción, edificación, realización de obras de Infraestructura que otorgue la Secretaría y las autoridades municipales deberán incluir un análisis de riesgo y, en su caso, definir las medidas de mitigación para su reducción en el marco de la Ley General de Protección Civil.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+El otorgamiento de licencias para construcción de edificaciones que se dediquen a usos industrial, comercial o de servicios estará sujeto a que el proyecto incluya la separación de los desechos sólidos, así como la solución propia para el tratamiento y disposición final de las aguas negras generadas por el asentamiento.
+
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 151.
@@ -2661,17 +2665,29 @@ I. La congruencia con las normas de zonificación y planeación urbana vigente, 
 
 II. El tipo de fraccionamiento y sus características, para determinar su viabilidad y factibilidad, brindar los servicios públicos y extender o ampliar las redes de agua, drenaje, energía, alumbrado público y el manejo de desechos sólidos de manera segura y sustentable, sin afectar los asentamientos humanos colindantes y sin ocupar áreas de riesgo o no urbanizables;
 
-III. La estructura vial, el sistema de transporte que permitan la movilidad y la accesibilidad universal;
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-IV. La proporción y aplicación de las inversiones en diversas etapas, garantizando la suficiencia financiera para brindar los servicios públicos que se generen;
+III. Que el proyecto incluya una solución propia al manejo, tratamiento y disposición final de los residuos sólidos generados por el asentamiento.
 
-V. Las proporciones relativas a las áreas de servicios y el equipamiento e Infraestructura urbana;
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-VI. Las especificaciones relativas a las características y dimensiones de los lotes, la densidad de edificación, urbanización y las áreas que se escriturarán a nombre del municipio y de las que quedarán a cargo del Ayuntamiento;
+IV. Que el proyecto incluya una solución propia al manejo, tratamiento y disposición final de las aguas negras.
 
-VII. Lo dispuesto en los programas de ordenamiento territorial y de desarrollo urbano en vigor, y
+V. La estructura vial, el sistema de transporte que permitan la movilidad y la accesibilidad universal;
 
-VIII. Las demás normas vigentes aplicables.
+VI. La proporción y aplicación de las inversiones en diversas etapas, garantizando la suficiencia financiera para brindar los servicios públicos que se generen;
+
+VII. Las proporciones relativas a las áreas de servicios y el equipamiento e Infraestructura urbana;
+
+VIII. Las especificaciones relativas a las características y dimensiones de los lotes, la densidad de edificación, urbanización y las áreas que se escriturarán a nombre del municipio y de las que quedarán a cargo del Ayuntamiento;
+
+IX. Lo dispuesto en los programas de ordenamiento territorial y de desarrollo urbano en vigor, y
+
+X. Las demás normas vigentes aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+Las disposiciones previstas en las fracciones III y IV son requisitos indispensables para la autorización referida en el presente artículo.
 
 ###### ARTÍCULO 164.
 
@@ -2775,9 +2791,13 @@ IV. Que cuando menos el cincuenta por ciento de la totalidad de los lotes, se en
 
 V. Que el cincuenta por ciento de los lotes se encuentren construidos y habitados, cuando la construcción de los mismos corra a cargo del fraccionador, salvo cuando se trate de un fraccionamiento de tipo social progresivo;
 
-VI. Haber entregado a satisfacción de la autoridad competente las redes de energía eléctrica, alumbrado público, de agua potable, alcantarillado sanitario y drenaje pluvial, áreas verdes y mobiliario urbano, exceptuándose a los fraccionamientos habitacionales de tipo social progresivo, quienes deberán contar con la red de energía eléctrica, alumbrado público, agua potable y alcantarillado sanitario y drenaje pluvial como mínimo; y
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-VII. Haber entregado al municipio respectivo, las escrituras correspondientes al área de donación para equipamiento urbano, servicios, áreas verdes y remanentes.
+VI. Tener en funcionamiento y a satisfacción de las Secretaría (sic) los sistemas para el manejo, tratamiento y disposición final de los residuos sólidos y las aguas negras a los que hacen referencia las fracciones III y IV del artículo 163 de la presente ley.
+
+VII. Haber entregado a satisfacción de la autoridad competente las redes de energía eléctrica, alumbrado público, de agua potable, alcantarillado sanitario y drenaje pluvial, áreas verdes y mobiliario urbano, exceptuándose a los fraccionamientos habitacionales de tipo social progresivo, quienes deberán contar con la red de energía eléctrica, alumbrado público, agua potable y alcantarillado sanitario y drenaje pluvial como mínimo; y
+
+VIII. Haber entregado al municipio respectivo, las escrituras correspondientes al área de donación para equipamiento urbano, servicios, áreas verdes y remanentes.
 
 ###### ARTÍCULO 175.
 
@@ -3356,3 +3376,11 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1569.- MEDIANTE EL CUAL SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 150, LAS FRACCIONES III Y IV RECORRIÉNDOSE LAS SUBSECUENTES, ASÍ COMO UN ÚLTIMO PÁRRAFO AL ARTÍCULO 163; Y LA FRACCIÓN VI RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 174, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Las Autoridades Municipales, dentro de los sesenta días siguientes a la publicación del presente Decreto, deberán modificar sus reglamentos para incluir estas reformas.
