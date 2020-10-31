@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-la-coordinacion-estatal-de-atencion-al-140875
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-06"
-last_updated: "2020-02-11"
+last_updated: "2020-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY QUE ESTABLECE LA COORDINACIÓN ESTATAL DE ATENCIÓN AL BIENESTAR EMOCIONAL DE TAMAULIPAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE FEBRERO DE 2020]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de febrero de 2020.
 
@@ -55,7 +53,9 @@ LEY QUE ESTABLECE LA COORDINACIÓN ESTATAL DE ATENCIÓN AL BIENESTAR EMOCIONAL D
 
 Naturaleza jurídica.
 
-La presente ley tiene por objeto establecer las bases para el funcionamiento y atribuciones de la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas, como órgano desconcentrado, de nivel Subsecretaría, con autonomía técnica, operativa, de gasto y de gestión, sectorizada en la Secretaría de Bienestar Social del Gobierno del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+La presente ley tiene por objeto establecer las bases para el funcionamiento y atribuciones de la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas, como órgano desconcentrado, de nivel Subsecretaría, con autonomía técnica, operativa, administrativa y de gestión, sectorizada en la Secretaría de Bienestar Social del Gobierno del Estado de Tamaulipas.
 
 A falta de disposición expresa en esta ley, se aplicarán de forma supletoria la Ley Orgánica de la Administración Pública del Estado de Tamaulipas y los demás ordenamientos que resulten aplicables.
 
@@ -77,7 +77,9 @@ I. Autonomía técnica para dictar sus acuerdos y resoluciones;
 
 II. Autonomía operativa para la planeación y toma de decisiones organizacionales y programáticas;
 
-III. Autonomía de gasto con base a las prioridades de la implementación del Programa de Bienestar Emocional; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+III. Autonomía administrativa con base en las prioridades que requiere el programa de Bienestar Emocional; y
 
 IV. En general, autonomía de gestión para la consecución de su objeto.
 
@@ -87,17 +89,25 @@ Glosario.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Ley: la Ley de la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas;
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-II. Reglamento: el Reglamento de esta Ley;
+I. Consejo: el Consejo de la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas;
 
-III. Secretaría: la Secretaría de Bienestar Social del Gobierno del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-IV. CEABE: la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas;
+II. Ley: la Ley que establece la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas;
 
-V. Red de Personas Promotoras: la Red de Personas Promotoras de Bienestar Emocional; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-VI. Titular de la Coordinación General: la persona titular de la Coordinación General de la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas.
+III. Reglamento: el Reglamento de la Ley que establece la Coordinación Estatal de Atención al Bienestar Emocional;
+
+IV. Secretaría: la Secretaría de Bienestar Social del Gobierno del Estado de Tamaulipas;
+
+V. CEABE: la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas;
+
+VI. Red de Personas Promotoras: la Red de Personas Promotoras de Bienestar Emocional; y
+
+VII. Titular de la Coordinación General: la persona titular de la Coordinación General de la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
@@ -105,7 +115,9 @@ VI. Titular de la Coordinación General: la persona titular de la Coordinación 
 
 Principios Rectores.
 
-Son principios rectores de la actuación de la CEABE los de legalidad, imparcialidad, igualdad, objetividad, eficiencia, profesionalismo, transparencia, independencia, honradez, y respeto irrestricto a los derechos humanos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2020)</small>
+
+Son principios rectores de la actuación de la CEABE:
 
 I. Legalidad: la CEABE y las personas pertenecientes al servicio público que formen parte de ella realizarán sus actos con estricta sujeción a la ley;
 
@@ -133,45 +145,17 @@ X. Respeto irrestricto a los derechos humanos: El personal de la CEABE serán ga
 
 Estructura orgánica de la CEABE.
 
-Para el ejercicio de las funciones y despacho de los asuntos de su competencia, la CEABE se auxiliará de las Unidades Administrativas siguientes:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-I. Coordinación general;
+La CEABE contará con las unidades administrativas que acuerde el Titular del Poder Ejecutivo Estatal, para el ejercicio de sus funciones y despacho de los asuntos de su competencia, conforme a lo dispuesto por el artículo 16, párrafo 2 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas.
 
-II. Coordinación de formación y capacitación;
-
-1. Dirección de formación continua.
-
-2. Dirección de vinculación regional.
-
-3. Dirección de diseño y planeación.
-
-III. Coordinación de vinculación interinstitucional;
-
-1. Dirección de articulación con Políticas de Bienestar Social.
-
-2. Dirección de articulación con Políticas de Seguridad Ciudadana.
-
-3. Dirección de articulación con Políticas de Desarrollo Económico.
-
-4. Dirección de articulación con Políticas de Desarrollo Urbano.
-
-IV. Coordinación de vinculación territorial; y
-
-1. Dirección Región Norte.
-
-2. Dirección Región Sur.
-
-3. Dirección Región Centro.
-
-V. Coordinación Jurídica y Administrativa.
-
-1. Dirección Jurídica.
-
-2. Dirección de Administración.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 7.
 
-Además de las unidades administrativas señaladas en la presente Ley, la CEABE contará con las subdirecciones, delegaciones municipales, jefaturas y demás áreas subalternas que se establezcan por el titular de la Coordinación General, previa aprobación del Comité Técnico, con base en las necesidades de la CEABE y conforme al presupuesto de egresos autorizado, las que deberán contenerse y especificarse en el Reglamento o en su Manual de Organización.
+Unidades Administrativas auxiliares de la CEABE.
+
+La CEABE contará con las subdirecciones, delegaciones municipales, jefaturas y demás áreas subalternas que se establezcan por el titular de la Coordinación General, con base en las necesidades de la CEABE de acuerdo a la disponibilidad presupuestal, las que deberán contenerse y especificarse en el Reglamento o en su Manual de Organización.
 
 ### CAPÍTULO IV. DE LAS FACULTADES DE LA PERSONA TITULAR DE LA COORDINACIÓN GENERAL
 
@@ -179,7 +163,9 @@ Además de las unidades administrativas señaladas en la presente Ley, la CEABE 
 
 Facultades de la persona titular de la Coordinación General.
 
-Corresponde a la persona titular de la Coordinación General la representación legal de la CEABE, así como el trámite y resolución de los asuntos de su competencia. Para la mejor distribución y desempeño de sus funciones, podrá delegar en servidores públicos subalternos cualesquiera de sus facultades, sin perjuicio de su ejercicio directo, excepto aquellas determinadas como indelegables. Al efecto, expedirá los acuerdos delegatorios respectivos, mismos que deberán ser publicados en los medios oficiales de difusión.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+Corresponde a la persona titular de la Coordinación General la distribución y desempeño de sus funciones, quien podrá delegar en servidores públicos subalternos cualesquiera de sus facultades, sin perjuicio de su ejercicio directo, excepto aquellas determinadas como indelegables. Al efecto, expedirá los acuerdos delegatorios respectivos, mismos que deberán ser publicados en los medios oficiales de difusión.
 
 La persona titular de la Coordinación General de la CEABE tendrá las siguientes facultades y obligaciones:
 
@@ -193,27 +179,35 @@ IV. Formular los programas institucionales de corto, mediano y largo plazos;
 
 V. Supervisar el funcionamiento y cumplimiento de las diversas Coordinaciones conforme a los objetivos establecidos en los diversos programas;
 
-VI. Formular anualmente el anteproyecto de presupuesto de la CEABE, para someterlo a la aprobación del Consejo, ante quien también informará lo relacionado a sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado. La presente facultad será de carácter indelegable;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+VI. Elaborar anualmente el anteproyecto de presupuesto de la CEABE;
 
 VII. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles adscritos a la CEABE;
 
-VIII. Nombrar al personal de la CEABE, informando en su caso al Consejo;
+VIII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
-IX. Someter a consideración del Consejo y del Comité Técnico y publicar el informe anual sobre el desempeño de las funciones de la CEABE. La presente facultad será de carácter indelegable;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+IX. Someter a consideración del Consejo el informe anual sobre el desempeño de las funciones de la CEABE;
 
 X. Recabar información y elementos estadísticos sobre las funciones de la CEABE, para mejorar su desempeño;
 
-XI. Remitir al H. Congreso del Estado, al inicio del periodo ordinario de sesiones de cada año, los estudios e investigaciones relativos a la problemática y características del bienestar emocional y de violencias en el Estado. La presente facultad será de carácter indelegable;
+XI. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
-XII. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la CEABE con sus trabajadores;
+XII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
-XIII. Definir, aprobar y supervisar la estructura y distribución de las competencias territoriales de los funcionarios de la CEABE;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+XIII. Definir, aprobar y supervisar la distribución de las competencias territoriales de los funcionarios de la CEABE;
 
 XIV. Difundir los proyectos de desarrollo y bienestar emocional, el seguimiento a las acciones de los programas y sus correspondientes propuestas; y
 
 XV. Las que le confieran las demás disposiciones jurídicas aplicables.
 
-Durante las ausencias temporales de la persona titular de la Coordinación General, el despacho y resolución de los asuntos quedarán a cargo de la o el titular de la coordinación de vinculación territorial. En caso de renuncia, remoción o fallecimiento de la persona titular de la Coordinación General, la o el titular de la coordinación de vinculación territorial atenderá los asuntos correspondientes al Consejo, en tanto es nombrado un nuevo titular de la Coordinación General.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+Durante las ausencias temporales de la persona titular de la Coordinación General, el despacho y resolución de los asuntos quedarán a cargo de la o el titular de la coordinación de vinculación territorial, en tanto sea nombrado un nuevo titular de la Coordinación General.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES
 
@@ -223,7 +217,9 @@ Atribuciones de la Coordinación de formación y capacitación.
 
 La Coordinación de formación y capacitación tendrá las siguientes atribuciones:
 
-I. Llevar a cabo el diseño, construcción, e implementación de la Red de Promotoras de Bienestar Emocional, para lo cual deberá:
+> <small>(REFORMADO [N.DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2020)</small>
+
+I. Llevar a cabo la integración, organización y vigilar el funcionamiento de la Red de (sic) Promotoras de Bienestar Emocional, para lo cual deberá:
 
 a) Definir y, en su caso, ajustar los perfiles idóneos para la integración de la Red de Personas Promotoras de Bienestar Emocional;
 
@@ -231,9 +227,9 @@ b) Elaborar y proponer a la persona titular de la Coordinación General, para su
 
 c) Coordinar la creación y organización de la Red de Personas Promotoras de Bienestar Emocional estableciendo para ello programas definidos y calendarizados de instalación e implementación.
 
-> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-II. Establecer e implementar las distintas etapas y fases de los programas para la atención del bienestar emocional;
+II. Implementar las distintas etapas y fases de los programas para la atención del bienestar emocional;
 
 > <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
 
@@ -243,9 +239,9 @@ III. Coordinar, supervisar y diseñar las capacitaciones y formación para las P
 
 IV. Implementar y supervisar las actividades productivas para la generación de empleos e ingreso de personas, familias, grupos y organizaciones productivas;
 
-> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-V. Establecer los lineamientos y criterios para la creación de las organizaciones civiles;
+V. Establecer los lineamientos y criterios para la vinculación con las organizaciones civiles;
 
 > <small>(F. DE E., P.O. 11 DE FEBRERO DE 2020)</small>
 
@@ -271,9 +267,11 @@ X. Coadyuvar en la formación y formalización de organizaciones civiles que ten
 
 XI. Las demás que las disposiciones aplicables le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 10.
 
-Atribuciones de la Coordinación de vinculación territorial.
+La Coordinación de vinculación territorial tendrá las siguientes atribuciones:
 
 La Coordinación de vinculación territorial tendrá las siguientes atribuciones:
 
@@ -285,11 +283,15 @@ III. Propiciar acciones públicas dirigidas a proteger y promover el bienestar e
 
 IV. Coordinarse con los organismos de la sociedad civil para realizar trabajo conjunto encaminado a generar el bienestar emocional;
 
-V. Promover actividades productivas para la generación de empleos e ingreso de personas, familias, grupos y organizaciones productivas, destinando recursos públicos a proyectos productivos;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-VI. Planear y dar seguimiento a la aplicación de programas y estrategias que impulsen el bienestar social de conformidad con el Plan Estatal de Desarrollo en congruencia con el Plan Nacional de Desarrollo;
+V. Vincular con la Secretaría de Desarrollo Económico los proyectos productivos de los ciudadanos, para la posible generación de empleos e ingreso de personas, familias, grupos y organizaciones productivas;
 
-VII. Cuidar que los programas sociales de la CEABE mantengan congruencia en su elaboración, contenido, alcance, temporalidad, programación, ejecución, seguimiento y evaluación con el Plan Estatal de Desarrollo;
+VI. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+VII. Cuidar que los programas sociales de la CEABE mantengan congruencia en su elaboración, contenido, alcance, temporalidad, programación, ejecución, seguimiento y evaluación con el Plan Estatal de Desarrollo en concordancia con el Plan Nacional de Desarrollo;
 
 VIII. Vigilar y dar seguimiento puntual al desempeño de los programas sociales de la CEABE y el ejercicio de los recursos financieros destinados para tales fines;
 
@@ -305,27 +307,35 @@ La Coordinación jurídica y administrativa tendrá las siguientes atribuciones:
 
 I. Coordinar el buen funcionamiento del área jurídica;
 
-II. Gestionar la asignación presupuestal asignada a los programas a cargo de la CEABE, y realizar el seguimiento del ejercicio del mismo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+II. Administrar el presupuesto asignado a la CEABE;
 
 III. Acordar con la persona titular de la Coordinación General, el despacho de los asuntos a su cargo y responsabilidad;
 
 IV. Asesorar a la CEABE en los asuntos de naturaleza jurídica, controversias, trámites que sean de su competencia; y en los demás asuntos de índole legal, en que tenga interés o injerencia la CEABE;
 
-V. Atender, dirigir y supervisar los asuntos jurídicos de la CEABE que no se encuentren expresamente conferidos a otra unidad administrativa y participar en los del sector, cuando así lo instruya la persona titular de la Coordinación General;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-VI. Apoyar en el ámbito jurídico a las unidades administrativas de la CEABE;
+V. Atender, dirigir y supervisar los asuntos jurídicos de la CEABE que no se encuentren expresamente conferidos a otra unidad administrativa, cuando así lo instruya la persona titular de la Coordinación General;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+VI. Apoyar en el ámbito jurídico a las unidades administrativas de la Coordinación General;
 
 VII. Compilar las leyes, reglamentos, decretos, acuerdos, circulares, resoluciones, tesis jurisprudenciales y demás disposiciones jurídicas relacionadas con la competencia de la CEABE;
 
-VIII. Formular, y en su caso, suscribir en nombre y representación de la CEABE en los procedimientos legales, por hechos, acciones u omisiones relacionadas con la misma;
+VIII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
-IX. Preparar los proyectos de informes previo y justificado que en materia de juicio de amparo deba rendir la persona titular de la Coordinación General cuando sea señalado como autoridad responsable, así como intervenir cuando la CEABE tenga el carácter de tercero interesado, y formular, en general las promociones relativas;
+IX. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
-X. En las ausencias de la persona titular de la Coordinación General, firmar los informes previo y justificado que en materia de juicio de amparo deba rendir la CEABE;
+X. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
-XI. Revisar el aspecto jurídico de los convenios, acuerdos, contratos y demás actos jurídicos que le sean propuestos por las unidades administrativas de la CEABE, así como llevar el control y registro de los mismos;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-XII. Intervenir en la elaboración y autorizar, en su caso, los formatos e instructivos para la celebración de convenios, contratos y demás acuerdos con dependencias, entidades, Estados, Municipios y personas físicas y morales y demás organizaciones de los sectores social y privado, en las materias que competan a la CEABE;
+XI. Revisar el aspecto jurídico de los convenios, acuerdos, contratos y demás actos jurídicos que le sean propuestos por las unidades administrativas de la Coordinación General, así como llevar el control y registro de los mismos;
+
+XII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
 XIII. Revisar y formular los anteproyectos de iniciativa de leyes, reglamentos, decretos, acuerdos de observancia general y demás ordenamientos jurídicos relacionados con las atribuciones de la CEABE, considerando la participación de las unidades administrativas que correspondan, y someterlos a la consideración de la persona titular de la Coordinación General;
 
@@ -333,7 +343,9 @@ XIV. Revisar el aspecto jurídico de las propuestas de manuales de organización
 
 XV. Gestionar, por los conductos apropiados y mediante el trámite correspondiente, la publicación en el Periódico Oficial del Estado de los ordenamientos, disposiciones y documentos que emita la persona titular de la Coordinación General, y que de conformidad con las disposiciones legales aplicables lo requieran;
 
-XVI. Supervisar que se cumpla en la CEABE con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+XVI. Supervisar que se cumpla en la Coordinación General con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado;
 
 XVII. Brindar apoyo jurídico en la elaboración de los proyectos programáticos competencia de la CEABE;
 
@@ -355,7 +367,7 @@ II. Regular la participación de la CEABE en la concurrencia de la planeación p
 
 III. Analizar y proponer los contenidos que, en materia de bienestar emocional, se requieran para integrar el informe de actividades anuales del Titular del Ejecutivo Estatal. Así como las comparecencias de la persona titular de la Secretaría ante el H. Congreso del Estado, cuando se requiera;
 
-IV. Brindar seguimiento a la ejecución de los planes de desarrollo regional y los convenios de desarrollo social celebrados con la Federación, Ayuntamientos y grupos sociales, así como las obras de desarrollo social que favorezcan a las comunidades, en el marco de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Tamaulipas; y
+IV. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
 V. Las demás que las disposiciones aplicables le confieran.
 
@@ -369,23 +381,35 @@ Para la consecución de su objeto y el ejercicio de sus atribuciones, la CEABE c
 
 I. Consejo;
 
-II. Comité Técnico;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-III. Coordinación General; y
+II. Comité Técnico; y
 
-IV. Órgano Interno de Control.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+III. Coordinación General.
+
+IV. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
 ###### ARTÍCULO 14.
 
 Consejo.
 
-El Consejo de la CEABE estará a cargo de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2020)</small>
 
-I. Un Presidente que será la persona titular del Poder Ejecutivo del Estado de Tamaulipas;
+El Consejo estará conformado por:
 
-II. Un Secretario Ejecutivo que será la persona titular de la Secretaría de Bienestar Social del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-III. Un Secretario Técnico que será la persona titular de la Secretaría de Finanzas del Estado de Tamaulipas;
+I. La persona titular del Poder Ejecutivo del Estado de Tamaulipas, quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+II. La persona titular de la Secretaría de Bienestar Social del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+III. La persona titular de la Secretaría de Finanzas del Estado de Tamaulipas;
 
 IV. La persona titular de la Secretaría de Salud del Estado de Tamaulipas;
 
@@ -411,6 +435,10 @@ XIV. La persona titular del Instituto de las Mujeres en Tamaulipas; y
 
 XV. La persona titular del Instituto de la Juventud en Tamaulipas.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+La Secretaria Técnica del Consejo, estará a cargo de la persona titular de la Coordinación General de la CEABE.
+
 ###### ARTÍCULO 15.
 
 Facultades del Consejo.
@@ -423,21 +451,29 @@ II. Aprobar los programas y acciones que garanticen la correcta instrumentación
 
 III. Aprobar el Manual de Organización General y los correspondientes manuales organizativos y de funcionamiento de la CEABE;
 
-IV. Autorizar los presupuestos de la CEABE, así como sus modificaciones, en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-V. Aprobar anualmente el presupuesto de la CEABE, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente;
+IV. Adoptar los acuerdos necesarios para el ejercicio de las atribuciones de la CEABE;
 
-VI. Fijar las bases así como los montos mínimos, máximos y actualizaciones de las cuotas de recuperación por los servicios que preste la CEABE;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-VII. Aprobar cada año los estados financieros de la CEABE y autorizar su publicación, previo informe del Comité Técnico;
+V. Aprobar los programas institucionales de Trabajo de la CEABE, los cuales deberán ser congruentes con su objetivo y con el Plan Estatal de Desarrollo;
 
-VIII. Aprobar, de acuerdo con las disposiciones legales, la elaboración de las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios;
+VI. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+VII. Conocer, revisar y, en su caso, aprobar las propuestas emitidas por el Comité Técnico;
+
+VIII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
 IX. Constituir coordinaciones de apoyo y determinar sus bases de funcionamiento;
 
-X. Nombrar a las personas titulares de las coordinaciones de la CEABE, así como removerlos;
+X. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
-XI. Analizar y, en su caso, aprobar los informes periódicos que rinda la persona titular de la Coordinación General, con la intervención que corresponda al Comité Técnico; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+XI. Analizar y, en su caso, aprobar los informes periódicos que rinda la persona titular de la Coordinación General; y
 
 XII. Las demás que las disposiciones aplicables le confieran.
 
@@ -467,13 +503,13 @@ El Comité Técnico tendrá las siguientes atribuciones:
 
 I. Evaluará el desempeño general y por funciones de la CEABE;
 
-II. Realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos;
+II. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
 III. Solicitará la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría les asigne específicamente conforme a la Ley;
 
 IV. Evaluar y presentar informes relativos a los programas y acciones que garanticen la correcta instrumentación y ejecución de la política de bienestar emocional;
 
-V. Analizar y emitir opinión entorno a los informes periódicos que rinda la persona titular de la Coordinación General;
+V. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
 VI. Elaborar anualmente el informe relativo a los estados financieros de la CEABE y someter dicho informe a aprobación del Consejo con estricta confidencialidad;
 
@@ -542,3 +578,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de diciembre del año dos mil diecinueve.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-205 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LA COORDINACIÓN ESTATAL DE ATENCIÓN AL BIENESTAR EMOCIONAL DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
