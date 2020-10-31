@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2020-08-27"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -102,6 +102,10 @@ ART. 18.- Son personas físicas los individuos de la especie humana, desde que n
 La personalidad jurídica se adquiere por el nacimiento y se extingue por la muerte; pero desde el momento en que un ser humano es concebido entra bajo la protección de la Ley y se le tiene por nacido para los efectos declarados en este Código.
 
 ART. 19.- La minoría de edad, el estado de interdicción y cualquiera otra incapacidad establecida por la ley, constituyen restricción a la capacidad jurídica; pero los incapaces pueden ejercer derechos y contraer obligaciones por medio de sus representantes.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+Como excepción a lo dispuesto en el párrafo anterior, los menores de edad, a partir de los quince años cumplidos, podrán abrir cuentas de depósito bancario de dinero en los términos que establezca la Ley de Instituciones de Crédito, sin la intervención de sus representantes y tendrán la administración de los fondos depositados en dichas cuentas.
 
 ART. 20.- La mayoría de edad comienza a los dieciocho años cumplidos.
 
@@ -1878,6 +1882,10 @@ II.- Bienes que adquiera por cualquier otro título.
 ART. 398.- Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
 
 ART. 399.- En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se acatará tal disposición.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+Tratándose de las cuentas de depósito bancario de dinero a que se refiere el segundo párrafo del artículo 19 de este Código, la totalidad del usufructo de los fondos depositados en dichas cuentas pertenecerá al menor de edad.
 
 ART. 400.- Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a duda.
 
@@ -10458,3 +10466,11 @@ P.O. 27 DE AGOSTO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-204 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LOS ARTÍCULOS 19 Y 399, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
