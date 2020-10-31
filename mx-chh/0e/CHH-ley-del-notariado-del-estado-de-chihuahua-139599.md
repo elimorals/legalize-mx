@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-notariado-del-estado-de-chihuahua-139599"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-01"
-last_updated: "2020-01-01"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, miércoles 1 de enero de 2020.
 
@@ -317,7 +317,9 @@ Los requisitos señalados en la fracción I se justificarán en la forma que se 
 
 Cuando sea creada una Notaría, la Dirección podrá convocarla en el plazo de 60 días, contados desde la fecha en que se publique el Acuerdo de creación en el Periódico Oficial. Las personas aspirantes al ejercicio del Notariado, notarias y notarios públicos interesados, acudirán a la Dirección, solicitando su admisión al examen y una vez satisfechos los requisitos a que se refiere el artículo anterior, la Dirección, por conducto del Departamento, anotará en cada solicitud la fecha y la hora en que fuere presentada, haciéndolo saber al Colegio Estatal y al Colegio respectivo, en su caso.
 
-En el supuesto de que se encontrare vacante alguna de las notarías existentes, la Dirección, una vez transcurrido un año a partir de la entrega de la misma, publicará aviso de convocatoria por tres veces, de siete en siete días, en el Periódico Oficial del Estado, convocando a las personas aspirantes al ejercicio del Notariado, notarias y notarios públicos interesados en ocupar la Notaría convocada. El mismo aviso se publicará en igual forma en un periódico del Distrito Judicial correspondiente y en su defecto, en uno de la capital del Estado. En el plazo de 60 días, contados desde la fecha en que se publique por última vez dicho aviso en el Periódico Oficial, quienes tengan interés acudirán a la Dirección, solicitando su admisión al examen y una vez satisfechos los requisitos a que se refiere el artículo anterior, la Dirección, por conducto del Departamento del Notariado, anotará en cada solicitud la fecha y la hora en que fuere presentada, haciéndolo saber al Colegio Estatal y al Colegio respectivo, en su caso.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+En el supuesto de que se encontrare vacante alguna de las notarías existentes, la Dirección, una vez entregada la misma, publicará aviso de convocatoria por tres veces, de siete en siete días, en el Periódico Oficial del Estado, convocando a las personas aspirantes al ejercicio del Notariado, notarias y notarios públicos interesados en ocupar la Notaría convocada. El mismo aviso se publicará en igual forma en un periódico del Distrito Judicial correspondiente y, en su defecto, en uno de la capital del Estado. En el plazo de 60 días, contados desde la fecha en que se publique por última vez dicho aviso en el Periódico Oficial, quienes tengan interés deberán acudir a la Dirección, solicitando su admisión al examen y una vez satisfechos los requisitos a que se refiere el artículo anterior, la Dirección, por conducto del Departamento del Notariado, anotará en cada solicitud la fecha y la hora en que fuere presentada, haciéndolo saber al Colegio Estatal y al Colegio respectivo, en su caso.
 
 Los avisos que se publiquen al amparo de este artículo, deberán contener la mención de ser el primero, el segundo y el tercero, respectivamente.
 
@@ -383,15 +385,19 @@ Agotado el interrogatorio, el jurado procederá en privado a hacer la evaluació
 
 Al concluir la calificación, quien presida el jurado informará públicamente cuál de las y los sustentantes resultó triunfante en el examen y a quien por lo mismo deberá concedérsele la patente de Notaria o Notario Público, o si a nadie se consideró con aptitud para merecer esta distinción, levantándose las actas respectivas, que firmarán las personas sustentantes, vigilantes e integrantes del jurado.
 
-La o el sustentante que en un examen para Notaria o Notario Público, haya habido o no oposición, decidiere no continuar el examen u obtuviere una calificación de 60 puntos o menos, no tendrá derecho a participar en otro, sino después de transcurrido un año de la fecha señalada para el examen anterior.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+La o el sustentante que, en un examen para Aspirante al Ejercicio del Notariado, así como de Notaria o Notario Público, haya habido o no oposición, decidiere no continuar el examen u obtuviere una calificación de 60 puntos o menos, no tendrá derecho a participar en otro, sino después de transcurrido un año de la fecha señalada para el examen anterior.
 
 ###### ARTÍCULO 28.
 
 Cumplidos los requisitos a que se refiere el artículo 18, previo pago de los derechos respectivos, quien ocupe la titularidad del Poder Ejecutivo deberá expedir la patente de Notaria o Notario Público dentro del término de treinta días hábiles siguientes a la fecha del examen, la que se inscribirá en la Dirección por conducto del Departamento, en el Colegio Estatal y en el Colegio correspondiente. La persona interesada deberá firmar al calce de los registros, así como en la misma patente y se adherirá su fotografía en esta y en todos los registros.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-Cumplidos los requisitos anteriores, la Dirección mandará publicar por una sola vez la patente de Notaria o Notario Público en el Periódico Oficial del Estado, dentro de los seis días hábiles siguientes a aquel en que le sea presentada; hecha la publicación, le pondrá la razón “Requisitada”, asentando la fecha del día hábil siguiente a la publicación, sello y firma de la persona titular de la Dirección y procederá a registrarla en el libro de patentes de esta dependencia.
+Cumplidos los requisitos anteriores, la Dirección mandará publicar por una sola vez la patente de Notaria o Notario Público en el Periódico Oficial del Estado, dentro de los seis días hábiles siguientes a aquel en que le sea presentada; hecha la publicación, le pondrá la razón "Requisitada", asentando la fecha del día hábil siguiente a la publicación, sello y firma de la persona titular de la Dirección.
 
 ###### ARTÍCULO 30.
 
@@ -441,7 +447,9 @@ La función autentificadora es la facultad otorgada por la Ley a la Notaria o No
 
 La función notarial es el conjunto de actividades que la Notaria o Notario Público realiza conforme a las disposiciones de esta Ley, para garantizar el buen desempeño y la seguridad jurídica en el ejercicio de su función autentificadora. Se considera una función proveniente del Estado y de la Ley, que le confiere reconocimiento público a la actividad y documentación notarial, al servicio de las y los clientes.
 
-La Notaria o Notario Público es aquella persona profesional del Derecho a quien se le inviste de Fe Pública por el Ejecutivo del Estado, que tiene a su cargo recibir, interpretar, redactar y dar forma legal a la voluntad de quienes acuden ante su presencia para dotar de autenticidad y certeza jurídica los actos y hechos que le soliciten, mediante la consignación de los mismos en los instrumentos públicos que al efecto elabore y autorice.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+La Notaria o Notario Público es aquella persona profesional del Derecho a quien se le inviste de Fe Pública por la persona titular del Ejecutivo del Estado, que tiene a su cargo recibir, interpretar, redactar y dar forma legal a la voluntad de quienes acuden ante su presencia para dotar de autenticidad y certeza jurídica los actos y hechos que le soliciten, mediante la consignación de los mismos en los instrumentos públicos que al efecto elabore y autorice.
 
 Para el adecuado desempeño de la función notarial, tanto las notarias y notarios públicos, como las y los aspirantes, por un mínimo de veinte horas durante cada año calendario, deberán participar en actividades académicas que organizará el Colegio Estatal, en las que como equivalentes determine este órgano o en ambas, y durante el mes de diciembre de cada año, deberán acreditar haber satisfecho esta obligación, con la constancia que al efecto expida el Colegio Estatal, debiendo informar a la Dirección o al Departamento su acreditación.
 
@@ -467,9 +475,11 @@ Cuando la o las notarias o el o los notarios públicos de una misma cabecera dis
 
 Cuando faltare o se excusare la Notaria o Notario Público, cuya residencia sea distinta a la de la cabecera distrital, podrá actuar excepcionalmente la Jueza o Juez de la municipalidad, previo acuerdo de autorización de la Dirección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 42.
 
-La Dirección, previo acuerdo, otorgará discrecionalmente el ejercicio de la función notarial a las juezas y jueces de los distritos judiciales donde no hubiere Notaria o Notario Público, quienes desempeñarán la función notarial por ministerio de Ley, única y exclusivamente para asentar el acto para el cual recibieron autorización, misma que podrá revocarse, en todo momento, sin expresión de causa sujetándose a las previsiones de esta Ley.
+La Dirección, previo acuerdo, otorgará discrecionalmente el ejercicio de la función notarial a las juezas y jueces de los distritos judiciales donde no hubiere Notaria o Notario Público, quienes desempeñarán la función notarial por ministerio de Ley, única y exclusivamente para asentar el acto para el cual recibieron autorización, la cual podrá revocarse, en todo momento sin expresión de causa, sujetándose a las previsiones de esta Ley.
 
 Las juezas y jueces de las poblaciones en que no hubiere Notaria o Notario Público, previo acuerdo de la Dirección, actuarán con este carácter sujetándose a lo previsto en esta Ley, siempre que se trate de actos que, conforme a las leyes sustantivas, no requieran de realizarse en Escritura Pública y en los que al menos una de las partes interesadas tenga su domicilio dentro de la jurisdicción de la respectiva persona servidora pública, lo que se acreditará solamente con la credencial emitida por la autoridad electoral, documentos de los que se agregará copia certificada al Apéndice. Se exceptúa de lo anterior a los testamentos y mandatos. Tampoco será necesario el requisito de la residencia cuando se trate de actas de fe de hechos.
 
@@ -769,9 +779,11 @@ Las anotaciones marginales serán firmadas o rubricadas por la Notaria o Notario
 
 En caso de que se agote el espacio marginal, haciéndose el enlace correspondiente, las anotaciones continuarán en el legajo del Apéndice respectivo.
 
-Cuando alguno de los folios de este libro se dañe o contenga un error al momento de la impresión, tanto el folio como la Escritura Pública o Acta, en su caso, serán cancelados con la razón de “No Pasó” haciendo constar estas circunstancias, al calce del mismo, siguiendo la numeración progresiva y se encuadernará en las condiciones en que se encuentre en el libro correspondiente.
+Cuando alguno de los folios de este libro se dañe o contenga un error al momento de la impresión, tanto el folio como la Escritura Pública o Acta, en su caso, serán cancelados con la razón de "No Pasó" haciendo constar estas circunstancias, al calce del mismo, siguiendo la numeración progresiva y se encuadernará en las condiciones en que se encuentre en el libro correspondiente.
 
-En el libro de Registro de Actas, cuyas medidas serán iguales a las del libro de Protocolo, al registrarse los actos, en ambos lados, de cada página, se dejará en blanco una franja de cuatro centímetros de ancho, en el centro de la parte superior de su frente, llevará impreso el nombre y número de la Notaria o Notario Público, el Distrito Judicial, lugar de residencia, clase de libro, en su caso, y número de libro que corresponda. Cuando ya no pueda asentarse otro registro, lo cerrará poniendo razón en la que expresará el número de páginas utilizadas, el número de registros asentados y el lugar, fecha y hora en que lo cierran.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+En el libro de Registro de Actas, cuyas medidas serán iguales a las del libro de Protocolo, al registrarse los actos, en cada página, se dejará en blanco una franja de cuatro centímetros de ancho, en el centro de la parte superior de su frente, llevará impreso el nombre y número de la Notaria o Notario Público, el Distrito Judicial, lugar de residencia, clase de libro, en su caso, y número de libro que corresponda. Cuando ya no pueda asentarse otro registro, lo empastará y cerrará poniendo razón en la que expresará el número de páginas utilizadas, el número de registros asentados y el lugar, fecha y hora en que lo cierran.
 
 La omisión de lo señalado en este artículo será causa de una sanción de las previstas en esta Ley.
 
@@ -1169,9 +1181,11 @@ Al final de cada testimonio se hará constar su calidad de primero, segundo o ul
 
 La Notaria o Notario Público podrá expedir y autorizar testimonio o copias impresas por cualquier medio de reproducción que sea legible, mismos que deberán cumplir con las especificaciones que señala esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 ###### ARTÍCULO 135.
 
-La Notaria o Notario Público expedirá a cada otorgante o a sus causahabientes los testimonios que soliciten; a las terceras personas solo previo mandamiento de la autoridad competente.
+La Notaria o Notario Público expedirá a cada otorgante o a sus causahabientes los testimonios que soliciten; a las terceras personas solo previo mandamiento de la autoridad judicial competente.
 
 Lo establecido en la parte final del párrafo anterior, se entiende respecto de aquellos actos que no hubieren sido inscritos en registros públicos, pues en el caso de que el acto constare en algún Registro Público, las notarias y notarios públicos tendrán la obligación de expedir a cualquier tercera persona testimonio de la Escritura Pública respectiva.
 
@@ -1727,7 +1741,13 @@ XXV. Concluir a petición de parte los trámites que se encuentren pendientes al
 
 XXVI. Contestar las demandas que se promuevan ante la Dirección, así como rendir los informes previos y justificados en materia de amparo, con motivo de la función notarial.
 
-XXVII. Las demás funciones y atribuciones que establezca la presente Ley, así como otras disposiciones legales y reglamentarias correspondientes y las que le asigne la persona titular de la Secretaría.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2020)</small>
+
+XXVII. En ausencia de las personas titulares de la Dirección y del Departamento, les suplirá en las funciones quien ocupe la titularidad del Departamento Registral, en los términos de la Ley del Registro Público de la Propiedad del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE OCTUBRE DE 2020)</small>
+
+XXVIII. Las demás funciones y atribuciones que establezca la presente Ley, así como otras disposiciones legales y reglamentarias correspondientes y las que le asigne la persona titular de la Secretaría.
 
 ###### ARTÍCULO 195.
 
@@ -1866,3 +1886,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de diciembre del año dos mil diecinueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0756/2020 I P.O., POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
