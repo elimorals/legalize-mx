@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2020-05-30"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -867,9 +867,11 @@ IV. Agua y Saneamiento;
 
 V. Pueblos Indígenas y Afromexicano;
 
-VI. Cultura;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-VII. Cultura Física y Deporte;
+VI. Cultura, Juventud, Cultura Física y Deporte;
+
+VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
 VIII. Democracia y Participación Ciudadana;
 
@@ -1488,3 +1490,15 @@ P.O. 30 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1512.- MEDIANTE EL CUAL SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 9 Y UN TERCER PÁRRAFO AL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26, LA FRACCIÓN XIII DEL ARTÍCULO 69 Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN SEGUNDA DEL ARTÍCULO 27 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 183 RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca, y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1603.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI, Y SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA LA FRACCIÓN VI, Y SE DEROGA LA FRACCIÓN VII DEL PÁRRAFO TERCERO DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+TERCERO. La integración de la Comisión Permanente de Cultura, Juventud, Cultura Física y Deporte, será la misma que tenía la Comisión Permanente de Cultura.
+
+CUARTO. Los asuntos turnados y lo demás atinente a la Comisión Permanente de Cultura, así como los asuntos de la Comisión Permanente de Cultura Física y Deporte, se entenderán como materia de la Comisión Permanente de Cultura, Juventud, Cultura Física y Deporte.
