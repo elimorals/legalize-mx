@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-10-24"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -2043,9 +2043,19 @@ I.- Los que hayan formado parte de organismos públicos municipales que se extin
 
 II.- Los bienes muebles al servicio de las dependencias y oficinas municipales;
 
-III.- Los demás bienes que por cualquier titulo adquiera el Municipio; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+III.- Los demás bienes que por cualquier título traslativo de dominio adquiera el Municipio; y
 
 IV.- Los que adquiera por prescripción positiva.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+ARTÍCULO 104 BIS.- El Municipio deberá llevar a cabo el levantamiento físico del inventario de los bienes a que refiere el artículo 104 de la presente Ley. Dicho inventario deberá estar debidamente conciliado con el registro contable, no podrá establecerse un valor inferior al catastral que le corresponda.
+
+El Municipio contará con un plazo de 30 días hábiles para incluir en el inventario físico los bienes que adquieran. Así mismo, deberá de publicar el inventario de sus bienes en los términos que disponga la Ley de Transparencia y Acceso a (sic) Información Pública para el Estado de Oaxaca, el cual deberán actualizar, por lo menos, cada seis meses.
+
+Los registros contables de los bienes se reflejarán en la cuenta específica del activo que corresponda, de acuerdo con lo dispuesto en el Capítulo II, del Título Tercero de la Ley General de Contabilidad Gubernamental y las normas emitidas por el Consejo Nacional de Armonización Contable, sobre registro y valuación del patrimonio.
 
 ###### ARTÍCULO 105.
 
@@ -3974,6 +3984,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 24 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1714.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 163 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1544.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 104,; (SIC) Y SE ADICIONA EL ARTÍCULO 104 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
