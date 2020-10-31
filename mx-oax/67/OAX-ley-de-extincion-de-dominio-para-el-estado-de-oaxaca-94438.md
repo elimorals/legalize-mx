@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-extincion-de-dominio-para-el-estado-de-oaxaca-94438"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2019-08-17"
+last_updated: "2020-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 1529 DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020 (ABROGADA).
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -794,3 +796,15 @@ P.O. 17 DE AGOSTO DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1529.- MEDIANTE EL CUAL SE ABROGA LA LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE OAXACA, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL 27 DE ABRIL DEL AÑO 2013.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+CUARTO. Los juicios o procedimientos y demás asuntos jurídicos y administrativos que se encuentren en trámite y que se hayan iniciado conforme a las disposiciones previstas en la Ley de Extinción de Dominio para el Estado de Oaxaca, antes de la entrada en vigor de este Decreto, se seguirán rigiendo por las mismas hasta su conclusión.
