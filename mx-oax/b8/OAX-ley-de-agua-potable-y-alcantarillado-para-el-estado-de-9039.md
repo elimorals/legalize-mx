@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2020-10-03"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -317,7 +317,9 @@ Los organismos operadores contratarán directamente los créditos que requieran 
 
 El organismo operador municipal tendrá a su cargo:
 
-I.- Planear y programar en el municipio, así como estudiar, proyectar, presupuestar, construir, rehabilitar, ampliar, operar, administrar, conservar y mejorar tanto los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, como los sistemas de alcantarillado, tratamiento de aguas residuales, reuso de las mismas, y manejo de lodos conforme a las leyes y reglamentos de la materia.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+I.- Planear y programar en el municipio, así como estudiar, proyectar, presupuestar, construir, rehabilitar, ampliar, operar, administrar, conservar y; promover y realizar actividades de recarga de los mantos acuíferos y, mejorar tanto los sistemas de captación y el área de recarga, potabilización, conducción, almacenamiento y distribución de agua potable, como los sistemas de alcantarillado, tratamiento de aguas residuales, reúso de las mismas, y manejo de lodos conforme a las leyes y reglamentos de la materia.
 
 II.- Proporcionar los servicios de agua potable y alcantarillado, incluyendo saneamiento, a los centros de población y asentamientos humanos de las zonas urbanas y rurales en el municipio que le corresponda, en los términos de los convenios y contratos que para ese efecto se celebren.
 
@@ -333,9 +335,13 @@ VII.- Fijar y autorizar las tarifas o cuotas que cobren las empresas concesionar
 
 VIII.- Realizar las gestiones que sean necesarias a fin de obtener los créditos o financiamientos que se requieran para la más completa prestación de los servicios, en los términos de la legislación aplicable.
 
-IX.- Construir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos actualizados y para el servicio de su deuda, en los términos del Reglamento Interior del organismo.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-X.- Utilizar los ingresos que se recaude, obtenga o reciba, exclusivamente en los gastos inherentes a la prestación de los servicios públicos de agua potable y alcantarillado, incluyendo saneamiento, ya que en ningún caso podrán ser destinados a otro fin.
+IX.- Construir y manejar fondos de reserva para la protección de la zona de recarga, rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos actualizados y para el servicio de su deuda, en los términos del Reglamento Interior del organismo.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+X.- Utilizar los ingresos que se recaude, obtenga o reciba, exclusivamente en los gastos inherentes a la prestación de los servicios públicos de agua potable y alcantarillado, incluyendo saneamiento, conservación y actividades de recarga en el o los mantos acuíferos, ya que en ningún caso podrán ser destinados a otro fin.
 
 XI.- Otorgar los permisos de descargas de aguas residuales o los sistemas de drenaje o alcantarillado, en los términos de la presente ley y su reglamento.
 
@@ -1768,3 +1774,13 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1538.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I, IX Y X DEL ARTÍCULO 25 DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto aplicará a todos los comités Municipales que manejan agua potable, alcantarillado y descargas de aguas residuales.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
