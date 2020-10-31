@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-10-03"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -639,35 +639,35 @@ g. Coadyuvar, dentro del ámbito de su competencia, en la realización de las Co
 
 h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-VI. Cultura; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-a. La legislación en materia de cultura;
+VI. Cultura, Juventud, Cultura Física y Deporte, le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-b. Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones culturales;
+a. La legislación en materia de cultura, juventud, cultura física y deporte;
 
-c. La denominación de años o días festivos oficiales en materia cultural;
+b. Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones culturales y deportivas;
 
-d. El otorgamiento de reconocimientos y estímulos cívicos;
+c. La promoción de iniciativas de ley, tendientes a favorecer a la juventud oaxaqueña en todos los órdenes;
 
-e. Iniciativas que soliciten la inscripción de nombres, leyendas o apotegmas en el Muro de Honor del Honorable Congreso del Estado;
+d. Promover la participación de la sociedad ante las Instituciones, Organismos Públicos y Privados, Estatales o Nacionales en la vida deportiva;
 
-f. Estudiar, analizar y dictaminar iniciativas de ley, decretos y acuerdos en materia del Patrimonio Natural, Cultural e Histórico tangible e intangible de nuestro Estado;
+e. La denominación de años o días festivos oficiales en materia cultural;
 
-g. Promover la atención, salvaguarda, conservación y protección del patrimonio cultural, artístico, documental y arquitectónico e histórico del Estado de Oaxaca, y;
+f. El otorgamiento de reconocimientos y estímulos cívicos;
 
-h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+g. Iniciativas que soliciten la inscripción de nombres, leyendas o apotegmas en el Muro de Honor del Honorable Congreso del Estado;
 
-VII. Cultura Física y Deporte; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+h. Estudiar, analizar y dictaminar iniciativas de ley, decretos y acuerdos en materia del Patrimonio Natural, Cultural e Histórico tangible e intangible de nuestro Estado;
 
-a. Promover la participación de la sociedad ante las Instituciones, Organismos Públicos y Privados, Estatales o Nacionales en la vida deportiva;
+i. Promover la atención, salvaguarda, conservación y protección del patrimonio cultural, artístico, documental y arquitectónico e histórico del Estado de Oaxaca;
 
-b. Solicitar la celebración de convenios que tiendan a la creación de instituciones deportivas;
+j. Favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social en materia de cultura física y deporte;
 
-c. Favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social en la materia;
+k. Promover acciones de promoción, fomento y difusión de las actividades recreativas y deportivas; y
 
-d. Promover acciones de promoción, fomento y difusión de las actividades recreativas y deportivas, y;
+l. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
 VIII. Democracia y Participación Ciudadana; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
@@ -2882,3 +2882,15 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria del Congreso del Estado de Oaxaca, y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1603.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI, Y SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA LA FRACCIÓN VI, Y SE DEROGA LA FRACCIÓN VII DEL PÁRRAFO TERCERO DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno Estado de Oaxaca.
+
+TERCERO. La integración de la Comisión Permanente de Cultura, Juventud, Cultura Física y Deporte, será la misma que tenía la Comisión Permanente de Cultura.
+
+CUARTO. Los asuntos turnados y lo demás atinente a la Comisión Permanente de Cultura, así como los asuntos de la Comisión Permanente de Cultura Física y Deporte, se entenderán como materia de la Comisión Permanente de Cultura, Juventud, Cultura Física y Deporte.
