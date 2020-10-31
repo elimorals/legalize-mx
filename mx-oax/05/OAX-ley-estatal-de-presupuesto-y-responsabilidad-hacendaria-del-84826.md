@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2020-09-26"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -471,9 +471,9 @@ I. Sólo podrán comprometer recursos con cargo al presupuesto aprobado, contand
 
 II. Podrán realizar erogaciones adicionales a las aprobadas en el presupuesto, cuando la Secretaría autorice adecuaciones presupuestarias derivadas de ingresos excedentes que se obtengan, las que invariablemente tendrán el carácter de no regularizables para los ejercicios fiscales subsecuentes; o compensarse con reducciones en otras previsiones de gasto;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2020)</small>
 
-III. Con anterioridad al ejercicio o contratación de cualquier proyecto de inversión pública cuyo monto rebase el equivalente a 50 millones de pesos, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil. De igual forma, no se requerirá realizar un análisis costo y beneficio, cuando el gasto de inversión se destine a la atención prioritaria de desastres naturales y sea financiado con Ingresos de libre disposición.
+III. Con anterioridad al ejercicio o contratación de cualquier proyecto de inversión pública cuyo monto rebase el equivalente a 50 millones de pesos, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil; así como en caso de Acción Extraordinaria en Materia de Salubridad General, contemplada en la Ley General de Salud. De igual forma, no se requerirá realizar un análisis costo y beneficio, cuando el gasto de inversión se destine a la atención prioritaria de desastres naturales y sea financiado con Ingresos de libre disposición.
 
 > <small>(ADICIONADO, 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -661,7 +661,9 @@ Se podrá incurrir en un Balance presupuestario de recursos disponibles negativo
 
 I. Se presente una caída en el Producto Interno Bruto nacional en términos reales, y lo anterior origine una caída en las participaciones federales con respecto a lo aprobado en el Presupuesto de Egresos de la Federación, y ésta no logre compensarse con los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley federal de Presupuesto y Responsabilidad Hacendaria;
 
-II. Sea necesario cubrir el costo de la reconstrucción provocada por los desastres naturales declarados en los términos de la Ley General de Protección Civil, o
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+II. Sea necesario cubrir el costo de la reconstrucción provocada por los desastres naturales declarados en los términos de la Ley General de Protección Civil, así como en caso de Acción Extraordinaria en Materia de Salubridad General contemplada en la Ley General de Salud.
 
 III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del gasto no etiquetado observado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, derivado de la implementación de ordenamientos jurídicos o medidas de política fiscal que, en ejercicios fiscales posteriores, contribuyan a mejorar ampliamente el Balance presupuestario de recursos disponibles negativo, ya sea porque generen mayores ingresos o menores gastos permanentes, es decir, que el valor presente neto de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
 
@@ -2174,3 +2176,9 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1591.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 8 BIS Y LA FRACCIÓN II DEL ARTÍCULO 15 BIS, DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
