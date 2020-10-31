@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-10-24"
+last_updated: "2020-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -737,9 +737,11 @@ Prisión.
 
 18.- La prisión por un solo delito, podrá ser de tres días a ciento cinco años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos de la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.
+19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos del Código Penal Federal; Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
 
@@ -2519,11 +2521,11 @@ En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a po
 
 Del órgano ejecutor.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-93.- Corresponde a la autoridad judicial la ejecución, modificación y duración de las penas y medidas de seguridad impuestas en las sentencias definitivas, dictadas por los tribunales, en la forma y términos de la ley respectiva.
+93.- Corresponde a la autoridad judicial la ejecución, modificación y duración de las penas y medidas de seguridad impuestas en las sentencias definitivas, dictadas por los tribunales en la forma y términos del Código Penal Federal; Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 ## TITULO SEXTO.
 
@@ -2535,9 +2537,7 @@ Ejecución de sentencias.
 
 De la libertad preparatoria y la preliberación.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2018)</small>
-
-94.- La libertad preparatoria y la preliberación se concederán al sentenciado en forma y términos de ley, pero no se concederá a los reincidentes, a los habituales, ni a los sentenciados por el delito de tortura.
+94.- (DEROGADO, P.O. 31 DE OCTUBRE DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -7342,5 +7342,13 @@ P.O. 24 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1703.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 413 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1621.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 19 Y EL ARTÍCULO 93; Y SE DEROGA EL CAPÍTULO II DEL TÍTULO SEXTO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
