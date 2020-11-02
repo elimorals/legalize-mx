@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2020-06-29"
+last_updated: "2020-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -266,6 +268,28 @@ III. Por quince días hábiles adicionales, si durante los primeros quince días
 ###### Art. 24 Bis 5.
 
 Podrá otorgarse una Licencia por Enfermedad Infantil hasta de quince días hábiles al año con goce de sueldo, a los padres y madres trabajadoras a que se refiere esta Ley, que tengan decretada a su favor, por juez competente la guarda y custodia de hija(s) e hijo(s) menores de doce años, lo cual aplica también para casos de adopción, por causa de enfermedad debidamente acreditada mediante constancia médica, adjuntando la resolución judicial correspondiente. Dicha licencia será intransferible a la pareja.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2020)</small>
+
+###### Art. 24 Bis 6.
+
+Para los casos de madres o padres trabajadores, cuyos hijos menores de dieciocho años hayan sido diagnosticados por instituciones públicas de salud o mediante servicios subrogados de instituciones privadas con cáncer de cualquier tipo, podrán gozar de una licencia por cuidados médicos de los hijos para ausentarse de sus labores en caso de que el niño, niña o adolescente diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción del médico tratante.
+
+Las Instituciones podrán expedir a alguno de los padres trabajadores, que se sitúe en el supuesto previsto en el párrafo que antecede, una constancia que acredite el padecimiento oncológico y la duración del tratamiento respectivo, a fin de que el superior jerárquico de éstos tenga conocimiento de tal licencia.
+
+La licencia expedida por las instituciones al padre o madre trabajador, tendrá una vigencia de uno y hasta veintiocho días. Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años sin que excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+
+La licencia a que se refiere el presente artículo será con goce de sueldo íntegro y únicamente podrá otorgarse a petición de parte, ya sea al padre o madre que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor o la persona que tenga a su encargo la guarda y custodia del menor. En caso de que tanto la madre como el padre sean trabajadores al servicio del Estado, estos no podrán gozar de la licencia al mismo tiempo, salvo que sea de manera alternada por el tiempo definido en el párrafo anterior.
+
+Las licencias otorgadas a padres o madres trabajadores previstas en el presente artículo, cesarán:
+
+I. Cuando el menor no requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
+
+II. Por ocurrir el fallecimiento del menor;
+
+III. Cuando el menor cumpla dieciocho años; y
+
+IV. Cuando el ascendiente que goza de la licencia, sea contratado por un nuevo jefe.
 
 ###### Art. 25o.
 
@@ -1100,3 +1124,11 @@ P.O. 29 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 317. SE ADICIONA EL ARTÍCULO 39 BIS A LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 291. SE ACEPTAN PARCIALMENTE ALGUNAS DE LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO 291 DE FECHA 22 DE MAYO DE 2020; MEDIANTE EL CUAL SE REFORMA LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1º de enero del año 2021.
