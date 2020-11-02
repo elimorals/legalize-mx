@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2020-05-08"
+last_updated: "2020-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE NOVIEMBRE DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -795,9 +795,9 @@ El Presidente y el Secretario de la Directiva o de la Permanente deberán firmar
 
 Las comisiones, por su parte, podrán solicitar por escrito, con la firma de la mayoría de sus integrantes, la ampliación o la prórroga del término para la conclusión del dictamen respectivo.
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2020)</small>
 
-Si mediare excitativa del Presidente, formulada por sí o a solicitud de dos o más diputados, para la presentación de un dictamen, el presidente de la Comisión o su secretario explicará al Pleno o a la Permanente las razones de la demora.
+Si mediare excitativa del Presidente para la presentación de un dictamen, entregada por el autor de la iniciativa a la Junta de Trabajos Legislativos, por lo menos con cuarenta y ocho horas previas a la celebración de la siguiente sesión, el presidente de la comisión explicará al Pleno o a la Permanente las razones de la demora. Si no se cumpliera el requisito del término, el presidente de la comisión remitirá el escrito de su respuesta al Presidente, dentro de los dos días hábiles siguientes al de la notificación de la excitativa, quien la enviará al interesado y ordenará su publicación en la página de Internet del Congreso.
 
 ###### Artículo 67.
 
@@ -1900,3 +1900,11 @@ PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En un plazo máximo de treinta días naturales contado a partir de la entrada en vigor del presente Decreto, el Congreso deberá expedir el Reglamento de Sesiones a Distancia del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave. En tanto se expide dicho ordenamiento, la Junta de Trabajos Legislativos deberá acordar la forma que seguirán los debates, discusiones, deliberaciones y, en su caso, votaciones, de las sesiones a distancia.
+
+G.O. 2 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 599 QUE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 66 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
