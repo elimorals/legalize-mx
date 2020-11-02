@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2020-06-05"
+last_updated: "2020-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -287,9 +287,21 @@ VII. Cursos y capacitaciones en donde se genere una conciencia tributaria y se i
 
 La Secretaría deberá concertar con los gobiernos municipales y las instituciones de educación superior, la integración de una red estatal de incubadoras de nuevos proyectos, con el fin de apoyar el desarrollo económico de las MIPYMES, así como celebrar convenios para informar a los emprendedores sobre temas fiscales y de seguridad social.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 14.
 
-Se crea el Fondo al Fomento a la Micro, Pequeña y Mediana Empresa con la partida presupuestal que en su caso apruebe el Poder Legislativo a propuesta del Poder Ejecutivo, en la Ley de Egresos del Estado para el ejercicio correspondiente, y se procurara que sea de hasta 0.20% del total de Ingresos autorizados en la Ley de Ingresos antes de financiamiento.
+Se crea el Fondo al Fomento a la Micro, Pequeña, y Mediana Empresa, con la partida presupuestal que en su caso apruebe el Poder Legislativo a propuesta del Poder Ejecutivo, en la Ley de Egresos del Estado para el ejercicio correspondiente, cuyo monto se procurará que no sea menor al 1% del total de los ingresos autorizados en la Ley de Ingresos antes del financiamiento y tendrá los siguientes objetivos:
+
+I. Brindar apoyo económico y/o en especie a Micros, Pequeñas y Medianas Empresas, que por su naturaleza y tipo (sic) actividad sean susceptibles de generar crecimiento económico y empleo en el Estado;
+
+II. Otorgar financiamiento a Micros, Pequeñas, y Medianas Empresas, que por su naturaleza y tipo de actividad sean susceptibles de generar crecimiento económico y empleo en el Estado; y
+
+III. Otorgar financiamiento a Incubadoras y Aceleradoras de negocios públicas y privadas.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 14 Bis.
 
 El Fondo operará conforme a los siguientes principios:
 
@@ -297,15 +309,15 @@ I. La partida presupuestal para el ejercicio que se trate, estará prevista en l
 
 II. Sin menoscabo de lo dispuesto en la fracción anterior, este Fondo Económico se podrá complementar con aportaciones adicionales provenientes del gobierno federal, estatal y municipal, las cuales deberán informarse al Consejo oportunamente;
 
-III. El Fondo será ejercido por la Secretaría según el presente ordenamiento. Los apoyos y/o financiamientos podrán otorgarse en plazos de uno o varios años;
+III. El Fondo será ejercido por la Secretaría según el presente ordenamiento. Los apoyos y/o financiamientos podrán otorgarse en plazos que no excedan de tres años;
 
-IV. Los recursos destinados al Fondo que no sean erogados en el año, serán acumulados al del siguiente ejercicio fiscal;
+IV. Los apoyos y/o financiamiento a que se refiere la presente Ley estarán sujetos al saldo disponible en el Fondo;
 
-V. Los apoyos y/o financiamiento a que se refiere la presente Ley estarán sujetos al saldo disponible en el Fondo; y
+V. El Fondo deberá ser ministrado en cuenta individual, aperturada para cada acreditado; y
 
-VI. El Fondo deberá ser ministrado de manera mensual en cuenta individual aperturada para este fin por la Secretaria de Finanzas y Tesorería General del Estado.
+VI. El Fondo podrá aumentarse en caso de emergencias sanitarias, desastres naturales o contingencias que afecten gravemente a las MIPYMES.
 
-La Secretaría informará al Consejo sobre las acciones a que se refiere el presente artículo, conforme a la Ley de Transparencia y de Acceso a la Información Pública.
+La Secretaría informará al Consejo sobre las acciones a que se refiere el presente artículo, conforme a la Ley de Transparencia y de Acceso a la Información Pública del Estado de Nuevo León.
 
 ###### Artículo 15.
 
@@ -656,3 +668,9 @@ P.O. 5 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 2 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 370. SE REFORMA EL ARTÍCULO 14 Y SE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
