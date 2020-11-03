@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-30"
-last_updated: "2009-04-22"
+last_updated: "2020-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE TANGANCICUARO, MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE TANGANCÍCUARO, MICH, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE TANGANCICUARO, MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2020 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el viernes 30 de mayo de 2008.
 
@@ -530,3 +532,27 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Conforme a lo dispuesto por el artículo 145, segundo párrafo de la Ley Orgánica Municipal, se ordena su debida publicación para su observancia en el Periódico Oficial del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE TANGANCÍCUARO, MICH”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor un día después de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Se debe difundir para el conocimiento y aplicación por parte de los Servidores Públicos del H. Ayuntamiento.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presidente Municipal expedirá solicitud para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El Presente Reglamento abroga el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Tangancícuaro, Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 30 de Mayo de 2008.
+
+###### ARTÍCULO CUARTO.
+
+Al Reglamento se le podrán realizar adecuaciones de acuerdo con los cambios que se realicen en la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+###### ARTÍCULO QUINTO.
+
+En lo no previsto en este Reglamento, se aplicará supletoriamente la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
