@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2020-09-29"
+last_updated: "2020-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -59,15 +59,21 @@ I. Coordinar la política gubernamental de las dependencias e instituciones del 
 
 II. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las niñas, adolescentes y mujeres para generar mecanismos institucionales de aplicación de políticas de gobierno integrales que garanticen el respeto y el ejercicio de sus derechos humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por nuestro país, y para impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para todas las niñas y adolescentes.
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
-III. Garantizar la protección institucional especializada para las mujeres víctimas de la violencia de género, así como de sus hijas e hijos.
+III. Garantizar la protección institucional especializada para las mujeres víctimas u ofendidos de la violencia de género;
 
-IV. Asegurar el acceso pronto, expedito, transparente y eficaz de la justicia para las mujeres víctimas de violencia de género tanto desde los ámbitos de la procuración, como de la impartición de justicia;
+> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
-V. Establecer, promover, difundir y ejecutar la política Integral de gobierno para la prevención de la violencia contra las mujeres y las niñas, de igual forma se promoverán las acciones del gobierno del Estado de México, para la atención de las víctimas de cualquier tipo o modalidad de violencia de género, así como de la sanción y la reeducación de las personas agresoras;
+IV. Asegurar el acceso pronto, expedito, transparente y eficaz de la justicia para las mujeres víctimas u ofendidos de violencia de género tanto desde los ámbitos de la procuración, como de la impartición de justicia;
 
-VI. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las mujeres y las niñas víctimas de violencia de género; y
+> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+V. Establecer, promover, difundir y ejecutar la política integral de gobierno para la prevención de la violencia contra las mujeres y las niñas, de igual forma se promoverán las acciones del gobierno del Estado de México, para la atención de las víctimas u ofendidos de cualquier tipo o modalidad de violencia de género, así como de la sanción y la reeducación de las personas agresoras;
+
+> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+VI. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las mujeres y las niñas víctimas de violencia de género u ofendidos, y
 
 VII. Asegurar la concurrencia, integralidad y optimización de recursos e instrumentos que garanticen la vigencia de los Derechos Humanos de las niñas y las mujeres.
 
@@ -77,7 +83,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y las niñas y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres y las niñas involucra tanto a las personas como a la sociedad en sus distintas formas y organizaciones, comunidades, relaciones, prácticas e instituciones sociales y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres.
 
-La violencia de Género se ejerce tanto en el ámbito privado como en el ámbito público manifestándose en diversos tipos y modalidades como la familiar, en la comunidad, institucional, laboral, docente y feminicida de manera enunciativa y no limitativa;
+> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+La violencia de género se ejerce tanto en el ámbito privado como en el ámbito público manifestándose en diversos tipos y modalidades como la familiar, en la comunidad, institucional, laboral, docente, obstétrica, feminicida y en las relaciones afectivas de manera enunciativa y no limitativa;
 
 II. (DEROGADA, G.G. 18 DE MARZO DE 2011)
 
@@ -118,6 +126,10 @@ XIV. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocu
 Las modalidades son: violencia familiar, laboral y docente, violencia en la comunidad, violencia institucional, obstétrica, en el noviazgo, política y feminicida;
 
 XV. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+XV Bis. Persona ofendida: Se considerarán como personas ofendidas, en el siguiente orden, el o la cónyuge, la concubina o concubinario, el conviviente, los parientes por consanguinidad en la línea recta ascendente o descendente sin limitación de grado, por afinidad y civil, o cualquier otra persona que tenga relación afectiva o dependencia económica con la víctima;
 
 > <small>(ADICIONADA, G.G. 16 DE OCTUBRE DE 2014)</small>
 
@@ -365,7 +377,7 @@ El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias en el 
 
 ### CAPITULO V BIS. DE LA VIOLENCIA OBSTÉTRICA
 
-> <small>(ADICIONADO, G.G. 25 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 21.
 
@@ -417,7 +429,9 @@ Ante la violencia feminicida, el Gobierno del Estado deberá establecer las acci
 
 I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a las personas responsables;
 
-II. La rehabilitación: Es la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas;
+> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+II. La rehabilitación: Es la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas u ofendidos, y
 
 III. La satisfacción: Son las medidas que buscan una reparación orientada a resarcir los daños físicos y psicológicos de las víctimas de violencia.
 
@@ -435,7 +449,7 @@ b) La verificación de los hechos y la publicidad de la verdad.
 
 ###### Artículo 27 Bis.
 
-La violencia obstétrica se configura por parte del personal médico, paramédico, de enfermería y administrativo de las instituciones de salud cuando se dañe o denigre a la mujer durante el embarazo, el parto, post parto o en emergencias obstétricas, vulnerando sus derechos mediante tratos crueles, inhumanos o degradantes.
+La violencia obstétrica se configura por parte del personal médico, paramédico, de enfermería y administrativo de las instituciones de salud públicas o privadas, cuando se dañe o denigre a la mujer durante el embarazo, el parto, puerperio, post parto o en emergencias obstétricas, vulnerando sus derechos mediante tratos crueles, inhumanos o degradantes. Asimismo, se configura violencia obstétrica cuando se niegue a la mujer el acceso a tratamientos en caso de infertilidad o el uso de métodos anticonceptivos.
 
 > <small>(ADICIONADO, G.G. 25 DE JUNIO DE 2015)</small>
 
@@ -461,11 +475,15 @@ VIII. Realizar la esterilización sin el consentimiento voluntario, expreso e in
 
 IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
 
-> <small>(ADICIONADO, G.G. 25 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+X. Las acciones del personal médico o de cualquier otra persona que vulneren los derechos de las mujeres para decidir libre y responsablemente el número de hijos, su espaciamiento y oportunidad.
+
+> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 27 Quater.
 
-El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencias obstétricas, e instrumentará políticas públicas transversales para prevenir, erradicar y sancionar la violencia obstétrica.
+El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencias obstétricas, y los derechos que tienen las mujeres a decidir libre y responsablemente el número de hijos, su espaciamiento y oportunidad; asimismo instrumentará políticas públicas transversales para prevenir, erradicar y sancionar la violencia obstétrica; deberá también impartir programas de educación y salud sexual y reproductiva.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2048,3 +2066,11 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 198.- POR EL QUE SE REFORMAN LAS FRACCIONES III, IV, V Y VI DEL ARTICULO 2, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 27, EL ARTÍCULO 27 BIS Y EL ARTÍCULO 27 QUATER; SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 3, Y LA FRACCIÓN X AL ARTÍCULO 27 TER, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno"
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
