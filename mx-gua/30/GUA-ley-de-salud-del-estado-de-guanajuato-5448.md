@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2020-10-21"
+last_updated: "2020-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -427,9 +427,13 @@ V.- Cumplir con la normatividad correspondiente a fin de obtener en su caso, la 
 
 VI.- Incluir, en su caso, en los bandos de policía y buen gobierno, en sus reglamentos, circulares y demás disposiciones administrativas, normas relacionadas con los servicios de salud y asistencia social que estén a su cargo, conforme a los convenios que al efecto celebre con el Ejecutivo del Estado, en los términos de la presente Ley; y
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+VII.- Establecer como infracción en los bandos de policía y buen gobierno y reglamentos la agresión física o verbal cometida en contra del personal perteneciente al Sistema Nacional o Estatal de Salud, con una sanción que se aplicará conjunta o separadamente de mínimo doce horas de arresto administrativo, diez jornadas de trabajo de hasta tres horas en no más de tres días a la semana como mínimo y multa de cincuenta y hasta cien veces como máximo el valor diario de la Unidad de Medida y Actualización vigente; y
+
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-VII.- Las demás acciones que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
+VIII.- Las demás acciones que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
 
 ###### ARTICULO 17.
 
@@ -697,9 +701,11 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 
 ARTICULO 50 BIS.- El paciente y, en su caso, el familiar más cercano en vínculos, tutor, o quien ejerza la patria potestad, representante legal, o bien, persona de su confianza mayor de edad, tiene el derecho a solicitar y recibir información sobre su condición médica y opciones de tratamiento. Los profesionales de la salud deberán proporcionar dicha información, la que deberá permitirle el decidir de manera libro (sic) e informada el consentir o no tratamientos o procedimientos médicos.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 51.
 
-Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, tratar con respeto al personal perteneciente al Sistema Nacional o Estatal de Salud y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -1393,13 +1399,17 @@ III.- Lactancia materna;
 
 IV.- Control de los efectos nocivos del ambiente en la salud;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
-V.- Salud ocupacional; y
+V.- Salud ocupacional;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
-VI.- Fomento Sanitario.
+VI.- Fomento sanitario; y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+VII.- Educación para prevenir enfermedades transmisibles.
 
 ### CAPITULO II. Educación para la Salud
 
@@ -1407,9 +1417,9 @@ VI.- Fomento Sanitario.
 
 La educación para la salud tiene por objeto:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
-I.- Fomentar en la población el desarrollo de estilo de vida saludables (sic) y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerse de los riesgos que pongan en peligro su salud;
+I.- Fomentar en la población el desarrollo de estilo de vida saludables (sic) y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, enfermedades transmisibles, accidentes y protegerse de los riesgos que pongan en peligro su salud;
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
@@ -1438,6 +1448,10 @@ La Secretaría de Salud, en coordinación con las autoridades federales, estatal
 > <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 La Secretaría de Salud formulará un programa para la salud destinado a la población escolar en todos los niveles educativos, a efecto de combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta, regular la venta de alimentos no saludables y el fortalecimiento de una adecuada activación física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+La Secretaría de Salud formulará un programa para la prevención permanente de enfermedades transmisibles, destinado a la población escolar de los niveles de educación básica, media y media superior.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE OCTUBRE DE 2017)</small>
 
@@ -1549,9 +1563,11 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ### CAPITULO VI. Fomento Sanitario
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
-ARTICULO 111 BIS.- La Secretaría de Salud del Estado, en coordinación con las autoridades competentes orientarán sus acciones a la divulgación particularmente en los sectores productivo, comercial y de servicios, respecto a las medidas sanitarias que se deben observar para asegurar la calidad sanitaria de sus establecimientos, productos y servicios durante su proceso.
+ARTICULO 111 BIS.- La Secretaría de Salud del Estado, en coordinación con las autoridades competentes orientarán sus acciones a la divulgación particularmente en los sectores productivo, comercial y de servicios, respecto a las medidas sanitarias y prevención de enfermedades transmisibles que se deben observar para asegurar la calidad sanitaria de sus establecimientos, productos y servicios durante su proceso.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 Asimismo, proporcionará a la población información y conocimientos relativos a los daños provocados por el uso y consumo de ciertos productos, los efectos nocivos del ambiente en la salud, los riesgos y daños ocupacionales.
 
@@ -1605,7 +1621,9 @@ Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención 
 
 I.- Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo;
 
-II.- Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+II.- Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocócicas, enfermedades causadas por estreptococos y el COVID-19;
 
 III.- Tuberculosis;
 
@@ -3634,5 +3652,19 @@ Artículo Único. El presente Decreto entrará en vigencia el día siguiente al 
 P.O. 21 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 220, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 76 UNVICIES A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVOS (SIC) NÚMERO 229 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 16, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, Y SE REFORMA EL ARTÍCULO 51 DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los ayuntamientos deberán expedir o adecuar los bandos de policía y buen gobierno, reglamentos, circulares y demás disposiciones administrativas, relacionadas con este decreto, dentro de los diez días posteriores a su entrada en vigencia.
+
+P.O. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVOS (SIC) NÚMERO 230 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 99, LA FRACCIÓN I DEL ARTÍCULO 100, EL PRIMER PÁRRAFO DEL ARTÍCULO 111 BIS, Y LA FRACCIÓN II DEL ARTÍCULO 113; Y SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 99, Y UN PÁRRAFO TERCERO AL ARTÍCULO 101, RECORRIÉNDOSE EL PÁRRAFO SUBSECUENTE DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
