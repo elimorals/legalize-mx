@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-trabajo-de-los-servidores-publicos-al-servicio-del-5519
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-04"
-last_updated: "2020-05-27"
+last_updated: "2020-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,341 +21,397 @@ state: "GUA"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS, GUANAJUATO
 
-REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL Y TORTILLERIAS DEL MUNICIPIO DE ANGOSTURA SINALOA Y COMERCIALIZACION EN LA VIA PUBLICA DEL PRODUCTO QUE ELABORAN
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2009.
+LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE GUANAJUATO
 
-Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 8 de marzo de 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
 
-C. JOSÉ CUAUHTEMOC CASTRO REAL, Presidente Municipal de Angostura, Sinaloa, a sus habitantes hace saber:
+Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1992.
 
-Que el H. Ayuntamiento de este Municipio, por conducto de su Secretario, C. PROFR. SAMUEL BOJORQUEZ CAMACHO ha tenido a bien comunicarme que en sesión de Cabildo celebrada el día 26 de Febrero del año dos mil cuatro, acordó expedir el siguiente decreto con fundamento en el artículo 115 fracción II de la Constitución Política de los Estados Unidos mexicanos, artículo 45, fracción IV de la Constitución Política del Estado de Sinaloa; artículos, 3, 14, 27 fracción IV, 67, 79, 80 fracción III de la Ley de Gobierno Municipal y sus relativos de reglamento interior del Ayuntamiento del municipio de Angostura quien ha tenido a bien expedir el siguiente:
+AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
-DECRETO MUNICIPAL No. 9
+EL CIUDADANO INGENIERO CARLOS MEDINA PLASCENCIA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, A LOS HABITANTES DEL MISMO SABED:
 
-REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL Y TORTILLERÍAS DEL MUNICIPIO DE ANGOSTURA SINALOA Y COMERCIALIZACIÓN EN LA VÍA PÚBLICA DEL PRODUCTO QUE ELABORAN.
+QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+
+DECRETO NUMERO 115
+
+EL H. QUINCUAGESIMO QUINTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
+
+LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
 ## TITULO PRIMERO
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
 
-###### Artículo 1.
+DISPOSICIONES GENERALES.
 
-Las normas contenidas en el presente reglamento son de orden público, de interés social y de observancia general en todo el territorio del Municipio de Angostura, Sinaloa.
+###### ARTICULO 1.
 
-###### Artículo 2.
+LA PRESENTE LEY RIGE LAS RELACIONES DE TRABAJO ENTRE EL ESTADO Y SUS TRABAJADORES Y ENTRE LOS MUNICIPIOS Y SUS TRABAJADORES.
 
-El presente reglamento tiene por objeto establecer las normas administrativas bajo las cuales se ejercerá en el Municipio de Angostura, Sinaloa; la apertura y funcionamiento de molinos de nixtamal y tortillerías; las actividades que realizan las personas que se dediquen al comercio en forma ambulante en la vía pública; así como la producción de tortillas en el Municipio.
+CUANDO LAS EMPRESAS U ORGANISMOS PARAESTATALES, MUNICIPALES O DESCENTRALIZADAS DEL ESTADO O DE LOS MUNICIPIOS SE ENCARGUEN DE LA ATENCION DE LOS SERVICIOS PUBLICOS O DE ACTIVIDADES SOCIALES QUE LAS LEYES ENCOMIENDAN AL ESTADO O A LOS MUNICIPIOS, LAS RELACIONES CON SUS TRABAJADORES SE REGIRAN TAMBIEN POR ESTA LEY.
 
-###### Artículo 3.
+###### ARTICULO 2.
 
-Para los efectos del presente reglamento, se entenderá por:
+PARA LOS EFECTOS DE ESTA LEY LAS RELACIONES DE TRABAJO SE ENTIENDEN ESTABLECIDAS ENTRE LAS DEPENDENCIAS ESTATALES O MUNICIPALES Y SUS TRABAJADORES.
 
-I.- Molinos de nixtamal: los establecimientos donde se prepare masa de nixtamal con fines comerciales.
+###### ARTICULO 3.
 
-II.- Tortillerías: los establecimientos donde se elaboran con fines comerciales las tortillas de maíz, por procedimientos mecánicos o manuales, utilizando como materia prima la masa de nixtamal o masa de maíz nixtamalizada.
+SE CONSIDERA TRABAJADOR, PARA LA APLICACION DE ESTA LEY, A TODA PERSONA QUE PRESTA SUS SERVICIOS INTELECTUALES, FISICOS, O DE AMBOS GENEROS, A LAS DEPENDENCIAS MENCIONADAS MEDIANTE DESIGNACION LEGAL, EN VIRTUD DE NOMBRAMIENTO.
 
-III.- Molinos-tortillerías: los establecimientos donde se prepara y/o muele el nixtamal para obtener masa, con fines comerciales y donde además se elaboran con los mismos fines las tortillas de maíz por procedimientos mecánicos o manuales, utilizando como materia prima la propia masa de nixtamal.
+###### ARTICULO 4.
 
-IV.- Expendedor ambulante: las personas físicas que se dedican al comercio y distribución de masa y tortilla de maíz en la vía pública.
+LOS TRABAJADORES AL SERVICIO DEL ESTADO Y LOS MUNICIPIOS, SE CLASIFICAN EN:
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+I.- TRABAJADORES DE BASE;
 
-V.- Tienda de abarrotes, misceláneas y mini súper: Comercios que se dedican a la venta de tortillas de harina de maíz ya sea elaboradas por ellos mismos o que la adquieran con la finalidad de revenderla al menudeo al consumidor.
+II.- TRABAJADORES DE CONFIANZA;
 
-###### Artículo 4.
+III.- TRABAJADORES TEMPORALES; Y
 
-La aplicación del presente reglamento corresponde en el ámbito de su respectiva competencia a las siguientes autoridades:
+IV.- TRABAJADORES INTERINOS.
 
-I.- Ayuntamiento de Angostura;
+###### ARTICULO 5.
 
-II.- Presidente municipal del Ayuntamiento;
+ES TRABAJADOR DE BASE AQUEL QUE PRESTA SUS SERVICIOS EN ACTIVIDADES O PUESTOS CUYA MATERIA DE TRABAJO SEA PERMANENTE. ES TRABAJADOR TEMPORAL EL QUE DESEMPEÑA SU TRABAJO A TIEMPO FIJO U OBRA DETERMINADA. ES TRABAJADOR INTERINO EL QUE HACE SUPLENCIAS.
 
-III.- Secretario del H. Ayuntamiento;
+EL TRABAJO SE ENTENDERA PRORROGADO MIENTRAS PERDURE LA CAUSA QUE LO MOTIVO.
 
-IV.- Tesorería Municipal; y,
+###### ARTICULO 6.
 
-V.- Síndicos municipales.
+SON TRABAJADORES DE CONFIANZA LOS QUE REALIZAN TRABAJOS DE DIRECCION, INSPECCION, VIGILANCIA O FISCALIZACION, CUANDO TENGAN CARACTER GENERAL, SIENDO, ENTRE OTROS:
 
-###### Artículo 5.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-El Ayuntamiento elaborará un registro de establecimientos actuales de los especificados en el artículo 3 del presente reglamento, a fin de expedirles las respectivas licencias a cada uno de los establecimientos existentes.
+I.- EN EL CONGRESO DEL ESTADO: EL SECRETARIO GENERAL Y EL AUDITOR GENERAL Y LOS AUDITORES DEL ORGANO DE FISCALIZACION SUPERIOR, LOS SERVIDORES PUBLICOS DESIGNADOS POR EL PLENO EN TERMINOS DE SU LEY ORGANICA, Y EL PERSONAL DE LA CONTRALORIA INTERNA DEL PODER LEGISLATIVO;
 
-###### Artículo 6.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-Se exime de requisito de licencia para la elaboración de tortilla de maíz que se lleve a cabo en fondas o restaurantes, por procedimientos manuales para fines exclusivos del servicio que prestan.
+II.- EN EL PODER EJECUTIVO: LOS TITULARES DE LAS DEPENDENCIAS QUE SEÑALE LA LEY ORGANICA DEL PODER EJECUTIVO Y EL PROCURADOR GENERAL DE JUSTICIA, LOS SECRETARIOS PARTICULAR Y PRIVADO DEL GOBERNADOR DEL ESTADO Y SUS CORRESPONDIENTES AUXILIARES, LOS TITULARES DE LAS UNIDADES DE ASESORIA, DE APOYO TECNICO Y ADMINISTRATIVO, DE COORDINACION, DE CONTROL DE GESTION, DE TECNOLOGIA DE INFORMACION, Y DE COMUNICACION SOCIAL, LOS AYUDANTES, OPERADORES Y TODOS AQUELLOS QUE LABOREN BAJO LAS ORDENES INMEDIATAS DEL GOBERNADOR, ASI COMO LOS TITULARES DE LAS OFICINAS DE REPRESENTACION DEL GOBIERNO DEL ESTADO FUERA DEL PROPIO TERRITORIO, Y EL TITULAR DE LA COORDINACION GENERAL JURIDICA.
 
-Las ventas de tortillas de maíz que dentro de los mercados efectúen personas que carezcan de establecimiento propio, siempre que sean elaboradas manualmente por ellas, requerirán de autorización para venta y comercialización, por parte del Secretario del H. Ayuntamiento.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+LOS SUBSECRETARIOS DEL GOBIERNO DEL ESTADO Y SUS SECRETARIOS PARTICULARES; LOS SUBPROCURADORES DE JUSTICIA Y SUS SECRETARIOS PARTICULARES; LOS PRESIDENTES Y SECRETARIOS DE LA JUNTAS (SIC) DE CONCILIACION Y ARBITRAJE, EL PRESIDENTE Y SECRETARIOS DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE; LOS REGISTRADORES PUBLICOS DE LA PROPIEDAD; LOS PROCURADORES E INSPECTORES DEL TRABAJO; LOS DEFENSORES PUBLICOS EN MATERIA PENAL Y ADMINISTRATIVA, LOS REPRESENTANTES EN MATERIA CIVIL; LOS DIRECTORES DE LOS HOSPITALES OFICIALES; EL COORDINADOR GENERAL, SUBCOORDINADOR GENERAL Y COORDINADORES REGIONALES DE LA POLICIA MINISTERIAL DEL ESTADO, LOS JEFES DE GRUPO DE LA POLICIA MINISTERIAL; EL DIRECTOR GENERAL DE TRANSPORTE, SUS DIRECTORES Y LOS QUE SEAN JEFES DE OFICINAS DE TRANSPORTE Y REGULACION DE LOS REQUISITOS DEL TRANSITO DE LA MISMA DEPENDENCIA; LOS INTEGRANTES DE LA (SIC) FUERZAS DE SEGURIDAD PUBLICA DEL ESTADO; EL COORDINADOR Y LOS JEFES DE LAS OFICINAS RECAUDADORAS Y SUS SECRETARIOS PARTICULARES; LOS AUDITORES DE LAS SECRETARIAS DE FINANZAS, INVERSION Y ADMINISTRACION, Y DE LA TRANSPARENCIA Y RENDICION DE CUENTAS; LOS AGENTES Y DELEGADOS DEL MINISTERIO PUBLICO Y SUS SECRETARIOS; EL PROCURADOR, SUBPROCURADORES Y SECRETARIO GENERAL DE LA PROCURADURIA DE LOS DERECHOS HUMANOS DEL ESTADO; EL PERSONAL DIRECTIVO DE LAS INSTITUCIONES EDUCATIVAS DEL SISTEMA EDUCATIVO ESTATAL.
 
-###### Artículo 7.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-Es responsabilidad de la autoridad del Municipio de Angostura de regular la comercialización y distribución de masa de nixtamal o tortillas de maíz por comerciantes ambulantes y comercios establecidos cualquiera que sea su giro mercantil, dentro del área comprendida de la Fracción II del Artículo 13 del presente Reglamento.
+LOS TITULARES DE LOS ORGANOS DE GOBIERNO O ADMINISTRACION DE L AS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL;
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-###### Artículo 8.
+III.- EN EL PODER JUDICIAL: EL SECRETARIO GENERAL DEL SUPREMA TRIBUNAL DE JUSTICIA, EL SECRETARIO GENERAL DEL CONSEJO DEL PODER JUDICIAL, EL DIRECTOR GENERAL DE ADMINISTRACION, EL CONTRALOR, LOS SECRETARIOS PARTICULAR Y EJECUTIVO DE LA PRESIDENCIA, LOS SECRETARIOS DE ACUERDOS Y LOS SECRETARIOS PROYECTISTAS TANTO DE SALA COMO DE JUZGADO, Y
 
-En la vía publica y locales del comercio establecido los molinos de nixtamal y las tortillerías deberán expender directamente al publico los productos que elaboren la envoltura de papel higiénicamente empacado:
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-I.- En el momento de su producción en venta al mostrador;
+IV.- EN LOS MUNICIPIOS: LOS SECRETARIOS DEL AYUNTAMIENTO Y SUS SECRETARIOS PARTICULARES, EL SECRETARIO PARTICULAR DE LOS PRESIDENTES, EL TESORERO Y EL OFICIAL MAYOR, LOS DIRECTORES Y SUBDIRECTORES DE LAS AREAS QUE INTEGRAN LA ADMINISTRACION CENTRALIZADA, LOS TITULARES DE LOS ORGANOS DE GOBIERNO O ADMINISTRACION DE LAS ENTIDADES PARAMUNICIPALES.
 
-II.- En la vía pública, debidamente envasado y en apego a las reglas y normas que establece la Secretaría de Salud, la Secretaría de Economía y la Procuraduría Federal del Consumidor; siempre y cuando no se violen preceptos del artículo anterior y se garanticen la no interferencia en el área que señala la fracción II del artículo 13 de este reglamento.
+###### ARTICULO 7.
 
-###### Artículo 9.
+LA CATEGORIA DE TRABAJADOR DE CONFIANZA DEPENDE DE LA NATURALEZA DE LAS FUNCIONES DESEMPEÑADAS Y NO DE LA DESIGNACION QUE SE DE AL PUESTO.
 
-Quedan sujetos a las disposiciones del presente reglamento la apertura y funcionamiento de los establecimientos a que se refiere el artículo 3.
+AL CREARSE CATEGORIAS O CARGOS NO COMPRENDIDOS EN EL ARTICULO ANTERIOR, LA CLASIFICACION DE BASE O DE CONFIANZA QUE LES CORRESPONDA, SE DETERMINARA EXPRESAMENTE POR LA DISPOSICION LEGAL QUE FORMALICE SU CREACION, CONSIDERANDO LA NATURALEZA DE LAS FUNCIONES QUE REALICE EL TRABAJADOR.
 
-###### Artículo 10.
+###### ARTICULO 8.
 
-Corresponde al H. Ayuntamiento:
+QUEDAN EXCLUIDOS DEL REGIMEN DE ESTA LEY LOS MIEMBROS DE LAS POLICIAS ESTATALES O MUNICIPALES, DE LAS FUERZAS DE SEGURIDAD, DE LAS FUERZAS DE TRANSITO Y LOS TRABAJADORES DE CONFIANZA, PERO TENDRAN DERECHO A DISFRUTAR DE LAS MEDIDAS DE PROTECCION AL SALARIO Y GOZARAN DE LOS BENEFICIOS DE LA SEGURIDAD SOCIAL.
 
-I.- El otorgamiento de licencias para la apertura y funcionamiento de los establecimientos mencionados en el artículo 3 del presente reglamento.
+> <small>(REFORMADO, P. O. 12 DE MAYO DE 2015)</small>
 
-II.- El otorgamiento de licencias para el comercio y distribución de masa y tortilla de maíz en la vía pública al público consumidor, a los establecimientos señalados en el artículo 3 de este reglamento.
+LOS PODERES EJECUTIVO, LEGISLATIVO Y JUDICIAL, ORGANISMOS AUTONOMOS Y MUNICIPIOS, MEDIANTE DISPOSICIONES DE CARACTER GENERAL, PODRAN ESTABLECER UNA PRESTACION A FAVOR DE LOS TRABAJADORES DE CONFIANZA AL TERMINO DE LA RELACION LABORAL, CUYO IMPORTE EN NINGUN CASO PODRA SER SUPERIOR AL EQUIVALENTE A TRES MESES DE SALARIO, MAS LA PRIMA DE ANTIGÜEDAD EN LOS TERMINOS DE LA FRACCION I DEL ARTICULO 63 DE ESTA LEY.
 
-III.- La aplicación de las sanciones por violaciones al presente reglamento.
+> <small>(ADICIONADO, P. O. 12 DE MAYO DE 2015)</small>
 
-IV.- El conocimiento de los recursos de reconsideración que se interpongan en contra de las resoluciones dictadas con base en este reglamento.
+LOS TRABAJADORES QUE RECIBAN LA PRESTACION A QUE SE REFIERE EL PARRAFO QUE ANTECEDE, Y SE REINCORPOREN AL SERVICIO PUBLICO EN UN PLAZO NO MAYOR A TRES MESES, DEBERAN REINTEGRAR LA PARTE PROPORCIONAL DE LA PRESTACION RECIBIDA QUE NO CORRESPONDA A LOS DOCE DIAS DE SALARIO POR CADA UNO DE LOS AÑOS DE SERVICIO PRESTADO, EN UN PLAZO DE 15 DIAS HABILES CONTADOS A PARTIR DE SU INCORPORACION. SI REINTEGRAN ADEMAS LA PRESTACION CORRESPONDIENTE A LOS DOCE DIAS POR CADA AÑO DE SERVICIO PRESTADO CONSERVARAN LA ANTIGÜEDAD QUE HUBIEREN GENERADO COMO PRODUCTO DE SU RELACION LABORAL.
 
-V.- Notificar a la Comisión Federal de Electricidad respecto a la contratación, o no contratación, en su caso, del servicio de energía eléctrica para nuevos establecimientos de molinos y tortillerías.
+###### ARTICULO 9.
 
-VI.- En general, la aplicación y vigilancia del cumplimiento de las disposiciones de este reglamento.
+A FALTA DE DISPOSICION EXPRESA EN ESTA LEY, SE TOMARAN EN CONSIDERACION SUS DISPOSICIONES QUE REGULEN CASOS SEMEJANTES Y, SUPLETORIAMENTE, SE APLICARAN, EN SU ORDEN, LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, LA LEY FEDERAL DEL TRABAJO, LAS LEYES DEL ORDEN COMUN, LOS PRINCIPIOS GENERALES DEL DERECHO, LA COSTUMBRE Y EL USO.
 
-###### Artículo 11.
+EN CASO DE DUDA DEBE ESTARSE A LA NORMA MAS FAVORABLE AL TRABAJADOR.
 
-Solo previa licencia expedida por el Secretario del H. Ayuntamiento ya tendiendo previamente la opinión de la Unión de Industriales de la masa y la tortilla del Municipio de Angostura; podrá autorizarse la apertura y venta de totillas (sic) a nuevos establecimientos a que se refiere el Artículo 3 de este reglamento.
+###### ARTICULO 10.
 
-###### Artículo 12.
+PUEDEN OCUPARSE EN EL SERVICIO PUBLICO TODAS AQUELLAS PERSONAS CON CAPACIDAD LABORAL EN TERMINOS IGUALES A LOS ESTABLECIDOS EN LA LEY FEDERAL DEL TRABAJO.
 
-Los interesados en obtener licencia deberán presentar ante el Secretario del H. Ayuntamiento, una solicitud en la que expresarán:
+###### ARTICULO 11.
 
-I.- Nombre completo y domicilio, si se trata de personas físicas; o bien, la denominación o razón social, domicilio fiscal y nombre del representante o apoderado, en el caso de personas morales;
+EL ESTADO Y LOS MUNICIPIOS ESTARAN OBLIGADOS A EXPEDIR NOMBRAMIENTOS A LOS TRABAJADORES QUE OCUPEN.
 
-II.- Especificación del giro que se pretenda operar y nombre comercial del establecimiento; y,
+LA FALTA DE NOMBRAMIENTO ES IMPUTABLE AL PROPIO ESTADO Y A LOS AYUNTAMIENTOS.
 
-III.- Domicilio del local donde se pretenda instalar el establecimiento;
+###### ARTICULO 12.
 
-V (SIC).- Manifestación del solicitante emitida por escrito, de que persona distinta a la que maneje nixtamal, masa o tortillas, desempeñará funciones de cajero.
+LOS NOMBRAMIENTOS EXTENDIDOS A LOS TRABAJADORES DEBERAN ESTAR FIRMADOS POR AQUELLAS PERSONAS FACULTADAS POR LA LEY Y EXPRESARAN EL NOMBRE Y APELLIDOS DEL TRABAJADOR; SI EL TRABAJADOR ES DE BASE, TEMPORAL O INTERINO, PUESTO, SALARIO Y ADSCRIPCION. LAS LABORES SERAN AQUELLAS PREVISTAS EN LA REGLAMENTACION RESPECTIVA Y ACOSTUMBRADA PARA LA PLAZA DE QUE SE TRATE, O SUS ANALOGAS.
 
 ## TITULO SEGUNDO
 
 DE LOS DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES.
 
-### CAPÍTULO II. DE LAS LICENCIAS DE APERTURA Y FUNCIONAMIENTO
+### CAPITULO PRIMERO
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+GENERALIDADES.
 
-###### Artículo 13.
+###### ARTICULO 13.
 
-A la solicitud para la obtención de la licencia a que se refiere el artículo anterior, deberá anexarse:
+SE CONSIDERAN NULAS Y SE TENDRAN POR NO PUESTAS AQUELLAS CONDICIONES DE TRABAJO QUE IMPLIQUEN:
 
-I.- Croquis del local y de su ubicación, describiendo el acceso del público y las distancias a las calles transversales en que se encuentre el domicilio del establecimiento;
+I.- UNA JORNADA MAYOR DE LA PERMITIDA POR ESTA LEY;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+II.- LABORES PELIGROSAS O INSALUBRES PARA MENORES DE DIECISEIS AÑOS DE EDAD;
 
-II.- Emitida por la Unión de Industriales dela (sic) Masa y la Tortilla del Municipio de Angostura, en el que se señale el establecimiento mercantil que se desea establecer satisface el requisito de distancia, de 800 metros; es el espacio que debe existir como mínimo entre una negociación y otra, de las que se dedican al mismo giro en el dictamen a que se refiere el párrafo anterior, también deberá tomarse en cuenta la densidad geográfica y demográfica que exista en la zona donde se pretende instalar el establecimiento mercantil de que se trate;
+III.- JORNADAS NOCTURNAS A MENORES DE DIECIOCHO AÑOS;
 
-III.- Manifestación de impacto ambiental, expedida por la autoridad correspondiente de conformidad con la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Sinaloa.
+IV.- UNA JORNADA INHUMANA POR LO NOTORIAMENTE EXCESIVA, DADA LA INDOLE DEL TRABAJO, O PELIGROSA PARA LA VIDA DEL TRABAJADOR;
 
-El Ayuntamiento podrá comprobar por los medios que estime convenientes, la variedad de los datos de la solicitud y sus anexos.
+V.- UN PLAZO MAYOR DE QUINCE DIAS PARA EL PAGO DE LOS SALARIOS; Y
 
-###### Artículo 14.
+VI.- UN SALARIO INFERIOR AL MINIMO GENERAL OBLIGATORIO EN EL AREA GEOGRAFICA DONDE SE PRESTE EL SERVICIO.
 
-Si la solicitud se presentase incompleta o faltare alguno de sus anexos, se concederá al solicitante un plazo de hasta 20 días hábiles, susceptible de prórroga por una sola vez, para que la complete o aporte la documentación faltante.
+###### ARTICULO 14.
 
-Transcurrido dicho plazo y la prórroga, si la hubiere, sin que se haya subsanado la deficiencia, se tendrá por abandonada la solicitud. Si los datos de la solicitud o de sus anexos resultaren inexactos, aquella se desechará de inmediato. Las resoluciones dictadas con fundamento en este precepto se notificarán por escrito al interesado, sea personalmente o por correo.
+EL NOMBRAMIENTO ACEPTADO POR EL TRABAJADOR OBLIGA A ESTE AL CUMPLIMIENTO DE LAS CONDICIONES FIJADAS EN EL Y A LAS CONSECUENCIAS QUE RESULTEN CONFORME A LA LEY, COSTUMBRES Y USOS ESTABLECIDOS.
 
-###### Artículo 15.
+###### ARTICULO 15.
 
-Los promoventes de las solicitudes que no hubiesen prosperado, tendrán en todo tiempo el derecho de formular nueva solicitud, siempre que hubiesen subsanado las deficiencias respectivas.
+LOS TRABAJADORES TENDRAN DERECHO A FALTAR A SU TRABAJO PARA DESEMPEÑAR UNA COMISION ACCIDENTAL O PERMANENTE DE SU SINDICATO O DEL ESTADO, SIEMPRE QUE AVISEN CON LA OPORTUNIDAD DEBIDA Y QUE EL NUMERO DE TRABAJADORES COMISIONADOS NO SEA TAL QUE PERJUDIQUE LA BUENA MARCHA DE LA DEPENDENCIA. EL TIEMPO PERDIDO PODRA DESCONTARSE AL TRABAJADOR A NO SER QUE LO COMPENSE CON UN TIEMPO IGUAL DE TRABAJO EFECTIVO. CUANDO LA COMISION SEA DE CARACTER PERMANENTE, EL TRABAJADOR O TRABAJADORES PODRAN VOLVER AL PUESTO QUE OCUPABAN, CONSERVANDO TODOS SUS DERECHOS, SIEMPRE Y CUANDO REGRESEN A SU TRABAJO DENTRO DEL TERMINO DE SEIS AÑOS. LOS SUBSTITUTOS TENDRAN EL CARACTER DE INTERINOS CONSIDERANDOLOS COMO DE PLANTA DESPUES DE SEIS AÑOS.
 
-### CAPÍTULO III. DE LOS TRASPASOS Y CAMBIOS DE DOMICILIOS
+### CAPITULO SEGUNDO
 
-###### Artículo 16.
+JORNADA DE TRABAJO Y DIAS DE DESCANSO.
 
-Las solicitudes no comprendidas en el artículo 15 serán dictaminadas favorablemente, notificándose a los interesados que disponen de un plazo de 20 días hábiles para complementar los requisitos siguientes:
+###### ARTICULO 16.
 
-I.- Cumplir con las condiciones sanitarias; lo que se acreditará con la constancia expedida por la Dependencia competente en materia de salud;
+PARA LOS EFECTOS DE ESTA LEY LA JORNADA DE TRABAJO ES EL TIEMPO DURANTE EL CUAL EL TRABAJADOR ESTA A DISPOSICION DE LA DEPENDENCIA PARA PRESTAR SU TRABAJO.
 
-II.- Que las condiciones del inmueble donde se ubique el establecimiento sean aprobadas por la Dirección de Urbanismo y Ecología del Ayuntamiento; que se cuente con el equipo de seguridad establecido en lo conducente por el Reglamento Municipal de Protección Civil;
+###### ARTICULO 17.
 
-III.- Que el establecimiento tenga acceso directo a la vía pública;
+SE CONSIDERA TRABAJO DIURNO EL COMPRENDIDO ENTRE LAS SEIS Y LAS VEINTE HORAS, Y NOCTURNO, EL COMPRENDIDO ENTRE LAS VEINTE Y LAS SEIS HORAS DEL DIA SIGUIENTE.
 
-IV.- Que las transmisiones, bandas, ruedas, engranes y la maquinaria en general estén protegidos por materiales resistentes, a fin de prevenir accidentes al personal de la negociación;
+###### ARTICULO 18.
 
-V.- Que la maquinaria se instale de manera que el público no tenga acceso a la misma;
+LA DURACION MAXIMA DE LA JORNADA DIURNA DE TRABAJO SERA DE OCHO HORAS.
 
-VI.- Que se cuente con las instalaciones necesarias para la venta y despacho del producto de que se trate;
+###### ARTICULO 19.
 
-VII.- Dictamen favorable de impacto ambiental, en el que mediante estudios se dé a conocer el impacto ambiental significativo y potencial que generaría la actividad a realizar; así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
+LA JORNADA MAXIMA DE TRABAJO NOCTURNO SERA DE SIETE HORAS.
 
-La no presentación oportuna de los requisitos señalados en este artículo, dejará sin efecto alguno la solicitud dictaminada como favorable; por lo que la omisión de alguno de ellos causa la nulidad de cualquier licencia de apertura y funcionamiento otorgada.
+###### ARTICULO 20.
 
-###### Artículo 17.
+ES JORNADA MIXTA LA QUE COMPRENDE PERIODOS DE TIEMPO DE LAS JORNADAS DIURNA Y NOCTURNA, SIEMPRE QUE EL PERIODO NOCTURNO SEA MENOR DE TRES HORAS Y MEDIA, PUES, EN CASO CONTRARIO, SE REPUTARA COMO JORNADA NOCTURNA. LA DURACION MAXIMA DE LA JORNADA MIXTA SERA DE SIETE HORAS Y MEDIA.
 
-Las licencias para la apertura y funcionamiento de los establecimientos descritos en el artículo 3 de este reglamento, deberán contener:
+###### ARTICULO 21.
 
-I.- Nombre completo y domicilio, si se trata de persona física o, en el caso de personas morales, denominación o razón social, domicilio fiscal y nombre del representante o apoderado;
+CUANDO POR CIRCUNSTANCIAS ESPECIALES DEBAN AUMENTARSE LAS HORAS DE JORNADA MAXIMA, ESTE TRABAJO SERA CONSIDERADO COMO EXTRAORDINARIO Y NUNCA PODRA EXCEDER DE TRES HORAS DIARIAS NI DE TRES VECES POR SEMANA.
 
-II.- Nombre o razón social del establecimiento que se pretende instalar;
+###### ARTICULO 22.
 
-III.- Domicilio del local donde se pretenda instalar el establecimiento;
+POR CADA SEIS DIAS DE TRABAJO, DISFRUTARA EL TRABAJADOR, POR LO MENOS, DE UN DIA DE DESCANSO CON GOCE DE SALARIO INTEGRO.
 
-IV.- Modalidad de la actividad a desarrollar en el establecimiento;
+SE PROCURARA QUE EL DIA DE DESCANSO SEMANAL SEA EL DOMINGO.
 
-V.- Número de licencia;
+LOS TRABAJADORES QUE PRESTEN SUS SERVICIOS DURANTE EL DIA DOMINGO, TENDRAN DERECHO A UNA PRIMA DOMINICAL DE POR LO MENOS EL VEINTICINCO POR CIENTO, SOBRE EL MONTO DE SU SUELDO O SALARIO DE LOS DIAS ORDINARIOS DE TRABAJO.
 
-VI.- Fecha de expedición del permiso o licencia; y,
+###### ARTICULO 23.
 
-VII.- Nombre y firma del titular de la Dependencia que expida la licencia.
+LAS MADRES TRABAJADORAS TENDRAN LOS SIGUIENTES DERECHOS:
 
-Las licencias municipales no conceden a sus titulares derechos permanentes y definitivos, por lo que la autoridad municipal que las expida podrá en cualquier tiempo dictar revocación o cancelación, cuando haya incumplimiento de estas disposiciones reglamentarias u otras causas que lo justifiquen, sin derecho a la devolución de cantidad alguna.
+I. DURANTE EL PERIODO DE EMBARAZO NO REALIZARAN TRABAJOS QUE EXIJAN ESFUERZOS CONSIDERABLES Y SIGNIFIQUEN UN PELIGRO PARA SU SALUD EN RELACION CON LA GESTACION;
 
-###### Artículo 18.
+II. DISFRUTARAN DE UN DESCANSO DE CUARENTA Y DOS DIAS ANTERIORES A LA FECHA APROXIMADA QUE SE FIJE PARA EL PARTO Y CUARENTA Y DOS DIAS POSTERIORES AL PARTO. EL PRIMER PERIODO DE DESCANSO SE PRORROGARA POR EL TIEMPO NECESARIO SI SE ENCUENTRAN IMPOSIBILITADAS PARA TRABAJAR A CAUSA DEL EMBARAZO;
 
-Los molinos de nixtamal, las tortillerías y los molinos-tortillerías, previa opinión emitida por la Unión de Tortilleros del Municipio de Angostura y con la autorización del Secretario del H. Ayuntamiento, podrán efectuar traspasos o hacer los cambios de domicilio que consideren convenientes. La realización de dichos actos sin la autorización municipal respectiva causará la imposición de la sanción correspondiente.
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
-###### Artículo 19.
+EN CASO DE NACIMIENTO PREMATURO DEL HIJO, EL PERIODO DE DESCANSO PREVIO AL PARTO SE ACUMULARA AL DESCANSO POSTERIOR AL MISMO, A EFECTO DE COMPLETAR NOVENTA DIAS.
 
-Para notificar el cambio de domicilio de molinos de nixtamal, tortillerías, molinos-tortillerías, el interesado deberá presentar escrito ante la Secretaría del H. Ayuntamiento, indicando el número de licencia y el domicilio del nuevo local en donde pretenda instalar la negociación de que se trate. A dicha solicitud deberá anexarse el original de la licencia respectiva y los anexos a que se refiere el artículo 13 de este reglamento.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-###### Artículo 20.
+III. DURANTE EL PERIODO DE LACTANCIA TENDRAN DERECHO A DECIDIR ENTRE CONTAR CON DOS REPOSOS EXTRAORDINARIOS POR DIA, DE MEDIA HORA CADA UNO, O BIEN, UN DESCANSO EXTRAORDINARIO POR DIA, DE UNA HORA PARA AMAMANTAR A SUS HIJOS, Y PARA REALIZAR LA EXTRACCION MANUAL DE LECHE CADA QUE SEA NECESARIO, EN LAS SALAS DE LACTANCIA QUE PARA TAL EFECTO DEBERA HABILITAR LA INSTITUCION O DEPENDENCIA, PRIVILEGIANDO SIEMPRE EL INTERES SUPERIOR DEL MENOR Y LA SALUD DE LA MADRE TRABAJADORA.
 
-Una vez instalado el establecimiento en el nuevo local, con base en la autorización correspondiente se expedirá nueva licencia, previo cumplimiento de los requisitos a los que se refieren los artículos 12 y 13 de este reglamento, por lo que la licencia anterior quedará cancelada.
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-###### Artículo 21.
+IV. A LA CAPACITACION DE LA LACTANCIA MATERNA Y AMAMANTAMIENTO EN MODALIDAD PRESENCIAL O A DISTANCIA, MISMA QUE INCULCARA QUE LA LECHE MATERNA SEA ALIMENTO EXCLUSIVO DURANTE LOS PRIMEROS SEIS MESES, Y COMPLEMENTARIO HASTA AVANZADO EL SEGUNDO AÑO DE VIDA DEL MENOR;
 
-En el caso de traspaso de los establecimientos a que se refiere el artículo 3 de este reglamento, deberá solicitarse la modificación de la licencia ante la Secretaría del H. Ayuntamiento, mediante escrito firmado por el cedente y el cesionario, acompañado por el original de la licencia respectiva y por copia del aviso efectuado a la Unión de Industriales de la Masa y la Tortilla del Municipio de Angostura, Sinaloa.
+V. DURANTE LOS PERIODOS DE DESCANSO A QUE SE REFIERE LA FRACCION II DE ESTE ARTICULO, PERCIBIRA EL SALARIO INTEGRO. EN LOS CASOS DE PRORROGA A QUE SE REFIERE LA MISMA FRACCION, TENDRAN DERECHO AL CIEN POR CIENTO DE SU SALARIO POR UN PERIODO NO MAYOR DE TREINTA DIAS, Y
 
-Mientras que el Ayuntamiento no expida la nueva licencia, podrá seguir funcionando el establecimiento al amparo de la copia de la solicitud en que conste el sello de la recepción de la Dependencia competente. Una vez que el Ayuntamiento otorgue al cesionario la licencia respectiva, será automáticamente cancelada la licencia del cedente.
+VI. TENDRAN DERECHO A REGRESAR AL PUESTO QUE DESEMPEÑABAN, COMPUTANDOSE EN SU ANTIGÜEDAD LOS PERIODOS DE DESCANSO Y LA PRORROGA SI LA HUBO.
 
-###### Artículo 22.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2014)</small>
 
-Todo productor de masa y tortilla del Municipio de Angostura, para la distribución y comercialización de su producto en la vía pública estará sujeto además al Reglamento Municipal para el Comercio en la vía Pública, y para ejercer dicha actividad deberá obtener el permiso de la autoridad municipal competente, mismo que será solicitado anualmente, en los meses de enero y febrero. Estos permisos serán revocables en cualquier tiempo.
+ARTICULO 23 BIS.- LOS PADRES TRABAJADORES TENDRAN DERECHO A DISFRUTAR DE UNA LICENCIA CON GOCE DE SUELDO, DE CINCO DIAS HABILES, EN LOS SIGUIENTES CASOS:
 
-###### Artículo 23.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para obtener el permiso o licencia para ejercer el comercio de su producto en la vía pública, los interesados deberán reunir los requisitos que para ese efecto establece el Reglamento para el Comercio en la Vía Pública del Municipio de Angostura, y además, deberán presentar compromiso por escrito en el sentido de no transgredir el área de influencia de otras negociaciones del mismo ramo, indicada en el artículo 13, fracción II de este reglamento.
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-###### Artículo 24.
+I. POR EL NACIMIENTO DE UN HIJO;
 
-El comercio y distribución de tortilla podrá ofrecerse al público consumidor en vía pública, observando las reglas de orden comercial, sanitarias y fiscales aplicables, así como las disposiciones previstas en este reglamento; debiéndose distribuir en todo caso la tortilla en comunidades rurales del Municipio que carezcan de empresas productoras de este producto básico, a fin de garantizar su consumo en esos sectores de la población. Este servicio de reparto será prestado por la empresa productora más cercana a la comunidad de que se trate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En todo caso al transportarse la tortilla deberá evitarse que entre en contacto, dentro o fuera del vehículo, con materiales extraños, como son polvo, agua, grasas, o con fauna nociva; para lo cual se deberán emplear recipientes o lienzos limpios. El área de los vehículos destinados al transporte de tortillas, debe mantenerse limpio y lavarse diariamente con agua y jabón.
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-###### Artículo 25.
+II. POR LA ADOPCION DE UN MENOR; Y
 
-Las infracciones a lo dispuesto en el presente reglamento serán sancionadas con:
+III. (DEROGADA, P.O. 9 DE MAYO DE 2014)
 
-I.- Multa de los cinco a los cien mínimos vigentes en el Estado de Sinaloa;
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 9 DE MAYO DE 2014)</small>
 
-II.- Suspensión temporal de las actividades del giro hasta por 15 días;
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
 
-III.- Revocación de la licencia municipal al infractor;
+ARTICULO 23 TER.- EL PERIODO DE LICENCIA CON GOCE DE SUELDO SERA AMPLIADO A QUINCE DIAS, EN LOS SIGUIENTES CASOS:
 
-IV.- Clausura temporal hasta por 60 días; o,
+I. POR EL NACIMIENTO DE UN HIJO QUE DERIVE DE UN PARTO PREMATURO;
 
-V.- Clausura definitiva del establecimiento.
+II. EL MENOR PRESENTE PROBLEMAS DE DISCAPACIDAD AL NACER;
 
-El orden enunciado de las sanciones no es obligatorio y una no excluye a las demás, por lo que pueden imponerse simultáneamente.
+III. POR PERDIDA DEL PRODUCTO DURANTE EL ESTADO DE GESTACION O DENTRO DE LOS CINCO DIAS POSTERIORES A SU NACIMIENTO;
 
-###### Artículo 26.
+IV. POR PARTO MULTIPLE; Y
 
-En caso de reincidencia se duplicará la multa que se haya impuesto anteriormente, sin que su monto exceda del máximo fijado.
+V. POR ENFERMEDAD O ACCIDENTE QUE PONGA EN GRAVE PELIGRO LA VIDA, O QUE CAUSE LA MUERTE DE SUS MENORES HIJOS O DE LA MADRE DE ESTOS.
 
-###### Artículo 27.
+EN EL CASO DEL DERECHO TUTELADO EN LA FRACCION II DEL ARTICULO 23 BIS Y DE LA FRACCION V DE ESTE ARTICULO, EL MISMO SE EXTENDERA A LAS MADRES TRABAJADORAS.
 
-Para los efectos de este reglamento, se entiende por reincidencia la comisión u omisión de actos que impliquen violación a un mismo precepto de este reglamento, cometido dentro de los seis meses siguientes a la fecha en que se haya hecho constar la infracción inmediata anterior.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO IV. DE LAS LICENCIAS PARA EL COMERCIO Y DISTRIBUCIÓN DE MASA Y TORTILLA EN LA VÍA PÚBLICA AL PÚBLICO CONSUMIDOR
+ARTICULO 23 QUATER.- LAS SALAS DE LACTANCIA SON LOS ESPACIOS EXCLUSIVOS, DIGNOS, COMODOS, HIGIENICOS Y SEGUROS QUE OFRECEN LAS CONDICIONES ADECUADAS PARA LA EXTRACCION, ALMACENAMIENTO Y CONSERVACION DE LECHE MATERNA BAJO NORMAS TECNICAS DE SEGURIDAD, DENTRO DE LAS INSTITUCIONES Y DEPENDENCIAS.
 
-###### Artículo 28.
+LAS SALAS DE LACTANCIA DEBERAN CONTAR CON MEDIOS INFORMATIVOS ILUSTRATIVOS RESPECTO AL METODO DE EXTRACCION Y BENEFICIOS DE LA LECHE MATERNA.
 
-Para la determinación de las multas deberá tener en cuenta:
+LOS REQUISITOS MINIMOS NECESARIOS PARA HABILITAR LAS SALAS DE LACTANCIA SON LOS SIGUIENTES:
 
-I.- El carácter intencional o la simple negligencia de la acción u omisión constitutiva de la infracción;
+I. AREA: ES EL ESPACIO FISICO PARA HABILITAR LA SALA DE LACTANCIA, PARA QUE VARIAS MUJERES, EN FORMA SIMULTANEA, SE VEAN BENEFICIADAS CON EL SERVICIO;
 
-II.- Las condiciones económicas del infractor; y, (sic)
+II. PRIVACIDAD: LA SALA DE LACTANCIA, DEBERA CONTAR CON UN AMBIENTE QUE BRINDE PRIVACIDAD;
 
-III.- La gravedad que revista la infracción con relación al abastecimiento de nixtamal o de tortillas de maíz, así como el perjuicio ocasionado o que pueda ocasionarse a los consumidores o productores;
+III. COMODIDAD: EL ESPACIO CONTARA CON MOBILIARIO QUE DEBERA ENCONTRARSE EN OPTIMAS CONDICIONES DE FUNCIONAMIENTO;
 
-IV.- Las circunstancias que hubiesen originado la infracción o infracciones.
+IV. CONSERVACION: LA SALA DE LACTANCIA DEBERA CONTAR CON REFRIGERACION, PARA LA CONSERVACION DE LA LECHE MATERNA;
 
-###### Artículo 29.
+V. ACCESIBILIDAD: LA SALA DE LACTANCIA DEBERA HABILITARSE EN UN LUGAR DE FACIL Y RAPIDO ACCESO PARA LAS USUARIAS, TENIENDO EN CUENTA LAS MEDIDAS DE ACCESIBILIDAD PARA AQUELLAS CON ALGUNA DISCAPACIDAD CONFORME A LA NORMATIVA VIGENTE;
 
-Cuando en una misma acta se haga constar diversas infracciones, las multas se determinarán separadamente y por la suma resultante de todas ellas se expedirá la resolución respectiva. Cuando en la misma acta se comprenda a dos o más infractores, a cada uno de ellos se le impondrá la sanción que proceda.
+VI. HIGIENE: DEBERA GARANTIZAR QUE LAS CONDICIONES DE LIMPIEZA SE BRINDEN EN CONDICIONES DE SALUBRIDAD; Y
 
-###### Artículo 30.
+VII. EQUIPAMIENTO: DEBERA CONTAR CON AL MENOS LOS UTENSILIOS NECESARIOS PARA ESTERILIZAR Y ALMACENAR LA LECHE MATERNA.
 
-Las personas a quienes se haya levantado un acta podrán presentar por escrito y ofrecer pruebas con relación a los hechos contenidos en la misma, siempre que no se hubiese impuesto la sanción correspondiente. Si el interesado hace uso oportuno del derecho consignado en este artículo, tal circunstancia deberá tomarse en cuenta al emitir la resolución respectiva.
+###### ARTICULO 24.
 
-###### Artículo 31.
+SERAN DIAS DE DESCANSO OBLIGATORIO:
 
-Son motivos de clausura, señalados en forma enunciativa, a juicio de la autoridad municipal competente, los siguientes:
+I.- 1O. DE ENERO;
 
-I.- Carecer de la licencia municipal respectiva;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2006)</small>
 
-II.- Explotar el giro con actividad distinta a la que ampara la licencia correspondiente;
+II.- EL PRIMER LUNES DE FEBRERO EN CONMEMORACION DEL 5 DE FEBRERO;
 
-III.- Proporcionar datos falsos en la solicitud de la licencia o permiso;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2006)</small>
 
-IV.- Realizar actividades sin la autorización sanitaria correspondiente;
+III.- EL TERCER LUNES DE MARZO EN CONMEMORACION DEL 21 DE MARZO;
 
-V.- La violación reiterada a las normas, acuerdos y circulares municipales;
+IV.- 1O. DE MAYO;
 
-VI.- Llevar a cabo actividades en el establecimiento, fuera del horario que autoriza la licencia municipal; o,
+V.- 16 DE SEPTIEMBRE;
 
-VII.- Cambiar de domicilio, de giro, o traspasar los derechos sobre el establecimiento son (sic) la autorización de la autoridad competente.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2006)</small>
 
-###### Artículo 32.
+VI.- EL TERCER LUNES DE NOVIEMBRE EN CONMEMORACION DEL 20 DE NOVIEMBRE;
 
-Las personas afectadas por las resoluciones dictadas con base en este reglamento, podrán solicitar se reconsidere ante el Ayuntamiento dentro del término de 15 días hábiles siguientes a la fecha de notificación.
+VII.- 1O. DE DICIEMBRE DE CADA SEIS AÑOS CUANDO CORRESPONDA A LA TRANSMISION DEL PODER EJECUTIVO FEDERAL;
 
-###### Artículo 33.
+VIII.- 25 DE DICIEMBRE;
 
-Cuando el recurso no se interponga a nombre propio, deberá acreditarse la personalidad de quien promueva, en los términos del Código Civil del Estado de Sinaloa.
+IX.- (DEROGADA, P.O. 31 DE AGOSTO DE 2012)
 
-###### Artículo 34.
+X.- LOS DIAS QUE SEÑALE EL CALENDARIO OFICIAL.
 
-En el recurso administrativo podrán ofrecerse todo tipo de pruebas, siempre que tengan relación con los hechos que constituyan la motivación de la resolución recurrida. Al interponerse el recurso deberán ofrecerse las pruebas correspondientes y acompañarse las documentales.
+###### ARTICULO 25.
 
-###### Artículo 35.
+LOS TRABAJADORES NO ESTAN OBLIGADOS A PRESTAR SERVICIOS EN SUS DIAS DE DESCANSO SEMANAL U OBLIGATORIO. SI SE QUEBRANTA ESTA DISPOSICION, SE PAGARA AL TRABAJADOR, INDEPENDIENTEMENTE DEL SALARIO QUE LE CORRESPONDA POR EL DESCANSO, UN SALARIO DOBLE POR EL SERVICIO PRESTADO.
 
-Si se ofrecieren las pruebas cuyo desahogo deba efectuarse mediante la práctica de diligencias, se concederá al interesado un plazo no menor de 8 ni mayor de 30 días naturales para tal efecto. Quedará a cargo del recurrente la presentación de testigos, dictámenes y documentos. De no presentarlos dentro del término concedido, la prueba correspondiente no se tomará en cuenta al emitir la resolución.
+###### ARTICULO 26.
 
-En lo no previsto en este capítulo, con relación al ofrecimiento, recepción y desahogo de pruebas, será aplicable supletoriamente el Código de Procedimientos Civiles del Estado de Sinaloa.
+LOS TRABAJADORES AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DISFRUTARAN DE SUS VACACIONES DURANTE LOS PERIODOS ESTABLECIDOS PARA ELLO.
 
-###### Artículo 36.
+POR CADA SEIS MESES CONSECUTIVOS DE SERVICIO, LOS TRABAJADORES TENDRAN DERECHO A UN PERIODO DE VACACIONES DE DIEZ DIAS HABILES CONTINUOS.
 
-El recurso se tendrá por no interpuesto:
+EN CADA DEPENDENCIA, A JUICIO DEL TITULAR Y PARA LA ATENCION DE ASUNTOS URGENTES, SE DEJARAN GUARDIAS EN LAS QUE SE UTILIZARAN PREFERENTEMENTE A QUIENES NO TUVIEREN DERECHO A VACACIONES.
 
-I.- Cuando se presente fuera del plazo a que se refiere el artículo 28 de este reglamento; o,
+EN LAS DEPENDENCIAS EN DONDE, POR LAS NECESIDADES DEL SERVICIO NO SE PUEDE SUSPENDER ESTE, LOS TRABAJADORES DISFRUTARAN DE SU PERIODO VACACIONAL CONFORME AL CALENDARIO QUE LA PROPIA DEPENDENCIA ESTABLEZCA. EN NINGUN CASO EL TIEMPO DE DURACION DE LAS VACACIONES SERA INFERIOR A LO QUE SEÑALA ESTE ARTICULO.
 
-II.- Cuando no se haya acompañado la documentación relativa a la personalidad de quien lo suscriba o no se haya demostrado legalmente.
+CUANDO UN TRABAJADOR NO PUDIERE HACER USO DE LAS VACACIONES EN LOS PERIODOS SEÑALADOS, POR NECESIDADES DEL SERVICIO, DISFRUTARAN DE ELLAS DURANTE LOS DIEZ DIAS SIGUIENTES A LA FECHA EN QUE HAYA DESAPARECIDO LA CAUSA QUE IMPIDIERE EL DISFRUTE DE ESE DESCANSO, PERO EN NINGUN CASO LOS TRABAJADORES QUE LABOREN EN PERIODO DE VACACIONES TENDRAN DERECHO A DOBLE PAGO DE SUELDO.
 
-###### Artículo 37.
+###### ARTICULO 27.
 
-El Ayuntamiento emitirá la resolución que proceda en relación con los recursos de reconsideración, dentro de los 20 días hábiles siguientes a la fecha de recepción en la dependencia municipal encargada de ello, salvo que se ofrecieran pruebas que requieran desahogo mediante actuaciones o diligencias, en cuyo caso el término se computará a partir de la fecha en que se hayan desahogado todas las pruebas o, en su caso, haya vencido el plazo concedido para tal efecto.
+LAS VACACIONES NO PODRAN SUSTITUIRSE CON UNA REMUNERACION.
 
-###### Artículo 38.
+SI LA RELACION DE TRABAJO TERMINA ANTES DE QUE SE CUMPLAN SEIS MESES DE SERVICIO, EL TRABAJADOR TENDRA DERECHO A LA PARTE PROPORCIONAL QUE LE CORRESPONDA POR CONCEPTO DE VACACIONES.
 
-Las resoluciones no recurridas dentro del plazo establecido en el artículo 32 de este reglamento, así como las dictadas al resolver los recursos o tenerlos por no interpuestos, tendrán el carácter de definitivas; por lo que no podrán ser modificadas por ninguna otra autoridad municipal.
+LOS TRABAJADORES TENDRAN DERECHO A UNA PRIMA VACACIONAL DE POR LO MENOS EL TREINTA POR CIENTO, SOBRE EL SUELDO O SALARIO QUE LES CORRESPONDA DURANTE DICHO PERIODO.
 
-###### Artículo 39.
+### CAPITULO TERCERO
 
-La interposición del recurso suspenderá la ejecución de la resolución impugnada por cuanto al pago de multas, siempre que se garantice su importe en los términos del Código Fiscal del Estado de Sinaloa.
+DE LOS SALARIOS Y PRESTACIONES.
 
-Respecto a resoluciones que no impliquen pago de multas, la suspensión sólo se otorgará si concurren los siguientes requisitos:
+###### ARTICULO 28.
 
-I.- Que lo solicite el recurrente;
+SALARIO ES LA RETRIBUCION QUE DEBE PAGARSE AL TRABAJADOR A CAMBIO DE SUS SERVICIOS. SE INTEGRA CON LAS CANTIDADES EN EFECTIVO QUE SE CUBRAN POR LAS LABORES CONSTANTES Y ORDINARIAS.
 
-II.- Que el recurso sea procedente, atento a lo dispuesto en el artículo 27;
+###### ARTICULO 29.
 
-III.- Que no se permita la consumación o continuación de actos u omisiones que impliquen contravención o violación a lo dispuesto en el presente reglamento; y,
+EN IGUALDAD DE CONDICIONES A TRABAJO IGUAL, PRESTADO A LA MISMA DEPENDENCIA, DEBE CORRESPONDER SALARIO IGUAL.
 
-IV.- Que no se ocasionen daños o perjuicios a terceros.
+###### ARTICULO 30.
+
+EL SALARIO NUNCA SERA INFERIOR AL MINIMO GENERAL VIGENTE EN LOS TERMINOS DE LA LEY FEDERAL DEL TRABAJO.
+
+###### ARTICULO 31.
+
+EN NINGUN CASO Y POR NINGUN MOTIVO PODRA REDUCIRSE EL SALARIO A UN TRABAJADOR. CUANDO POR DIVERSOS MOTIVOS UN TRABAJADOR DESEMPEÑE ALGUN EMPLEO DE MENOR CATEGORIA SEGUIRA GOZANDO DEL SUELDO ESTIPULADO PARA SU EMPLEO DE BASE. SIN EMBARGO, SI LLEGARE EL CASO Y DESEMPEÑARE UN CARGO DE MAYOR CATEGORIA, GOZARA DEL SALARIO CORRESPONDIENTE A ESTA ULTIMA.
+
+###### ARTICULO 32.
+
+EL SALARIO DE LOS TRABAJADORES INTERINOS DEBE SER EL CORRESPONDIENTE AL DE LA PLAZA QUE SUPLAN. EL DE LOS TEMPORALES SERA IGUAL AL SEÑALADO PARA PUESTOS DE TRABAJOS ANALOGOS.
+
+###### ARTICULO 33.
+
+LOS SALARIOS SE CUBRIRAN POR LAS OFICINAS PAGADORAS CORRESPONDIENTES AL LUGAR DE TRABAJO. EL SALARIO SE FIJARA PREFERENTEMENTE POR CUOTA DIARIA, PERO CUANDO EL TIPO DE TRABAJO LO REQUIERA, PODRA FIJARSE POR UNIDAD DE TIEMPO, POR UNIDAD DE OBRA, POR COMISION, A PRECIO ALZADO O DE CUALQUIER OTRA MANERA.
+
+###### ARTICULO 34.
+
+SOLO PODRAN HACERSE DESCUENTOS, RETENCIONES O DEDUCCIONES AL SALARIO, EN LOS SIGUIENTES CASOS:
+
+I.- POR IMPUESTOS;
+
+II.- POR PAGOS DE DEUDAS AL ESTADO O AYUNTAMIENTOS EN LOS TERMINOS DE LA FRACCION I DEL ARTICULO 110 DE LA LEY FEDERAL DEL TRABAJO;
+
+II.- POR CUOTAS SINDICALES ORDINARIAS;
+
+IV.- POR CUOTAS PARA COOPERATIVAS Y CAJAS DE AHORRO EN LOS TERMINOS DE LA FRACCION IV DEL ARTICULO 110 DE LA LEY FEDERAL DEL TRABAJO;
+
+V.- POR CUOTAS Y PAGOS A LOS INSTITUTOS DE SEGURIDAD SOCIAL EN LOS TERMINOS DE LAS LEYES Y CONVENIOS RELATIVOS; Y
+
+VI.- POR CONCEPTO DE PAGO DE ALIMENTOS ORDENADOS POR LA AUTORIDAD JUDICIAL.
+
+###### ARTICULO 35.
+
+LOS BENEFICIARIOS DESIGNADOS POR EL TRABAJADOR QUE HUBIESE FALLECIDO, TENDRAN DERECHO A PERCIBIR LOS SALARIOS DEVENGADOS POR AQUEL Y NO CUBIERTOS, ASI COMO LAS PRESTACIONES E INDEMNIZACIONES PENDIENTES DE CUBRIRSE, SIN NECESIDAD DE JUICIO SUCESORIO.
+
+###### ARTICULO 36.
+
+LAS HORAS DE TRABAJO EXTRAORDINARIAS SE PAGARAN CON UN CIEN POR CIENTO MAS DEL SALARIO ASIGNADO A LAS HORAS DE JORNADA ORDINARIA.
+
+###### ARTICULO 37.
+
+EN LOS DIAS DE DESCANSO OBLIGATORIO Y SEMANAL Y EN LAS VACACIONES CONCEDIDAS POR ESTA LEY, LOS TRABAJADORES RECIBIRAN SU SALARIO INTEGRO; CUANDO EL SALARIO SE PAGUE POR UNIDAD DE OBRA, SE PROMEDIARA EL SALARIO DEL ULTIMO MES.
+
+###### ARTICULO 38.
+
+ES NULA LA CESION DE LOS SALARIOS QUE SE HAGA EN FAVOR DE TERCERAS PERSONAS.
+
+###### ARTICULO 39.
+
+LOS SALARIOS DE LOS TRABAJADORES NO PODRAN SER EMBARGADOS, SALVO EN EL CASO DE PENSIONES ALIMENTICIAS DECRETADAS POR LA AUTORIDAD JUDICIAL.
 
 ###### ARTICULO 40.
 
@@ -369,7 +425,9 @@ LOS TRABAJADORES TENDRAN DERECHO A UN AGUINALDO ANUAL EQUIVALENTE A, POR LO MENO
 
 ARTICULO 41 BIS.- NO PODRAN ESTABLECERSE A FAVOR DE LOS TRABAJADORES PRESTACIONES ADICIONALES DE NINGUNA ESPECIE COMO CONSECUENCIA DIRECTA DE LA TERMINACION DEL PERIODO DE LAS ADMINISTRACIONES PUBLICAS ESTATAL (SIC), LAS DE LOS AYUNTAMIENTOS, ASI COMO POR LA CONCLUSION DE UNA LEGISLATURA.
 
-### CAPÍTULO V. DE LAS SANCIONES
+### CAPITULO CUARTO
+
+DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES.
 
 ###### ARTICULO 42.
 
@@ -421,7 +479,9 @@ EN LOS CASOS DE SINIESTRO, CALAMIDAD PUBLICA O RIESGO INMINENTE EN QUE SE PONGA 
 
 LAS HORAS DE TRABAJO A QUE SE REFIERE EL ARTICULO ANTERIOR, SE RETRIBUIRAN CON UNA CANTIDAD IGUAL A LA QUE CORRESPONDE A CADA UNA DE LAS HORAS DE LA JORNADA.
 
-### CAPÍTULO VI. DEL RECURSO DE RECONSIDERACIÓN
+### CAPITULO QUINTO
+
+DE LAS OBLIGACIONES DE LOS TITULARES DE LAS DEPENDENCIAS.
 
 ###### ARTICULO 46.
 
@@ -519,25 +579,29 @@ III.- POR DESTRUIR INTENCIONALMENTE EDIFICIOS, OBRAS, MAQUINARIA, INSTRUMENTOS, 
 
 IV.- POR COMETER ACTOS INMORALES DURANTE EL TRABAJO;
 
-V.- POR REVELAR ASUNTOS SECRETOS O ASUNTOS RESERVADOS DE LOS QUE TUVIERE CONOCIMIENTO CON MOTIVO DEL TRABAJO.
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
-VI.- POR COMPROMETER CON SU IMPRUDENCIA, DESCUIDO O NEGLIGENCIA LA SEGURIDAD DEL TALLER, OFICINA O DEPENDENCIA DONDE PRESTE SUS SERVICIOS O DE LAS PERSONAS QUE ALLI SE ENCUENTREN;
+V.- CUANDO EL TRABAJADOR COMETA ACTOS DE HOSTIGAMIENTO O ACOSO SEXUAL CONTRA CUALQUIER PERSONA EN EL ESTABLECIMIENTO O LUGAR DE TRABAJO;
 
-VII.- POR NO OBEDECER, INJUSTIFICADAMENTE, LAS ORDENES QUE RECIBA DE SUS SUPERIORES;
+VI.- POR REVELAR ASUNTOS SECRETOS O ASUNTOS RESERVADOS DE LOS QUE TUVIERE CONOCIMIENTO CON MOTIVO DEL TRABAJO.
 
-VIII.- POR INGERIR BEBIDAS ALCOHOLICAS O INTOXICARSE CON ENERVANTES DURANTE LAS HORAS DE TRABAJO, Y DE IGUAL MANERA, ASISTIR A LAS LABORES BAJO TALES EFECTOS;
+VII.- POR COMPROMETER CON SU IMPRUDENCIA, DESCUIDO O NEGLIGENCIA LA SEGURIDAD DEL TALLER, OFICINA O DEPENDENCIA DONDE PRESTE SUS SERVICIOS O DE LAS PERSONAS QUE ALLI SE ENCUENTREN;
 
-IX.- POR FALTA DE CUMPLIMIENTO A LAS CONDICIONES DE TRABAJO;
+VIII.- POR NO OBEDECER, INJUSTIFICADAMENTE, LAS ORDENES QUE RECIBA DE SUS SUPERIORES;
 
-X.- POR PRISION IMPUESTA EN SENTENCIA EJECUTORIA;
+IX.- POR INGERIR BEBIDAS ALCOHOLICAS O INTOXICARSE CON ENERVANTES DURANTE LAS HORAS DE TRABAJO, Y DE IGUAL MANERA, ASISTIR A LAS LABORES BAJO TALES EFECTOS;
 
-XI.- CUANDO EL TRABAJADOR INCURRA EN ENGAÑOS O PRESENTE CERTIFICADOS FALSOS SOBRE SU COMPETENCIA;
+X.- POR FALTA DE CUMPLIMIENTO A LAS CONDICIONES DE TRABAJO;
 
-XII.- POR MALOS TRATOS AL PUBLICO QUE TENGA OBLIGACION DE ATENDER, DESCORTESIAS REITERADAS Y NOTORIAS, O POR RETARDAR INTENCIONALMENTE O POR NEGLIGENCIA GRAVE LOS TRAMITES A SU CARGO;
+XI.- POR PRISION IMPUESTA EN SENTENCIA EJECUTORIA;
 
-XIII.- POR NEGARSE EL TRABAJADOR A ADOPTAR LAS MEDIDAS PREVENTIVAS, O A SEGUIR LOS PROCEDIMIENTOS INDICADOS PARA EVITAR RIESGOS PROFESIONALES; Y
+XII.- CUANDO EL TRABAJADOR INCURRA EN ENGAÑOS O PRESENTE CERTIFICADOS FALSOS SOBRE SU COMPETENCIA;
 
-XIV.- LAS ANALOGAS A LAS ESTABLECIDAS EN LAS FRACCIONES ANTERIORES, DE IGUAL MANERA GRAVES Y DE CONSECUENCIAS SEMEJANTES EN LO QUE AL TRABAJO SE REFIERE.
+XIII.- POR MALOS TRATOS AL PUBLICO QUE TENGA OBLIGACION DE ATENDER, DESCORTESIAS REITERADAS Y NOTORIAS, O POR RETARDAR INTENCIONALMENTE O POR NEGLIGENCIA GRAVE LOS TRAMITES A SU CARGO;
+
+XIV.- POR NEGARSE EL TRABAJADOR A ADOPTAR LAS MEDIDAS PREVENTIVAS, O A SEGUIR LOS PROCEDIMIENTOS INDICADOS PARA EVITAR RIESGOS PROFESIONALES; Y
+
+XV.- LAS ANALOGAS A LAS ESTABLECIDAS EN LAS FRACCIONES ANTERIORES, DE IGUAL MANERA GRAVES Y DE CONSECUENCIAS SEMEJANTES EN LO QUE AL TRABAJO SE REFIERE.
 
 CUANDO SE RESCINDA LA RELACION DE TRABAJO, EL TITULAR DE LA DEPENDENCIA DEBERA DAR AVISO POR ESCRITO DE ELLA AL TRABAJADOR, EXPRESANDO EN EL LAS CAUSAS DE LA MISMA.
 
@@ -577,7 +641,9 @@ SI AL VENCIMIENTO DEL PLAZO SEÑALADO EN EL PARRAFO ANTERIOR NO HA CONCLUIDO EL 
 
 SON CAUSAS DE RESCISION DE LA RELACION DE TRABAJO, SIN RESPONSABILIDAD PARA EL TRABAJADOR:
 
-I.- CUANDO EL PATRON O SUS REPRESENTANTES, INCURRIEREN EN FALTAS DE PROBIDAD Y HONRADEZ O EN ACTOS DE VIOLENCIA, AMAGOS, INJURIAS O MALOS TRATOS PARA CON EL TRABAJADOR O SUS FAMILIARES; YA SEA DENTRO O FUERA DE LAS HORAS DE TRABAJO, SI SON DE TAL MANERA GRAVES QUE HAGAN IMPOSIBLE EL CUMPLIMENTO DE LA RELACION DE TRABAJO;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+I.- CUANDO EL PATRON O SUS REPRESENTANTES INCURRIEREN EN FALTAS DE PROBIDAD Y HONRADEZ O EN ACTOS DE VIOLENCIA, HOSTIGAMIENTO O ACOSO SEXUAL, AMAGOS, INJURIAS O MALOS TRATOS PARA CON EL TRABAJADOR, SUS FAMILIARES, CONYUGE O, CONCUBINO O CONCUBINA, YA SEA DENTRO O FUERA DE LAS HORAS DE TRABAJO;
 
 II.- REDUCIR EL PATRON EL SALARIO DEL TRABAJADOR;
 
@@ -621,7 +687,17 @@ IV.- POR INCAPACIDAD FISICA O MENTAL O INHABILIDAD MANIFIESTA DEL TRABAJADOR, QU
 
 EN EL CASO DE LA FRACCION I DEL ARTICULO ANTERIOR, LA TERMINACION NO SIGNIFICA LA LIBERACION DE LA OBLIGACION DE ENTREGAR EL PUESTO A SU SUCESOR Y, EN CASO DE MANEJO DE FONDOS O VALORES, LA ENTREGA IMPLICARA LA PRESENTACION DE UN ESTADO DE CUENTA.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
+
+TRATANDOSE DE TRABAJADORAS EN ESTADO DE GRAVIDEZ, ADEMAS DEL CONSENTIMIENTO EXPRESO DE DAR POR TERMINADA LA RELACION INDIVIDUAL DE TRABAJO MANIFESTADA EN EL ESCRITO DE RENUNCIA, DEBERA APORTAR LOS INDICIOS SUFICIENTES PARA DEMOSTRAR QUE FUE LIBRE Y ESPONTANEA LA SEPARACION DEL CARGO, LO ANTERIOR DE CONFORMIDAD A LAS CONDICIONES GENERALES DE TRABAJO QUE CORRESPONDAN A LA ADSCRIPCION DE LA TRABAJADORA.
+
 ASIMISMO, EN EL CASO DE LA FRACCION IV DEL PROPIO PRECEPTO, SI LA INCAPACIDAD O INHABILIDAD PROVIENE DE UN RIESGO NO PROFESIONAL, EL TRABAJADOR TENDRA DERECHO A QUE SE LE PAGUE UN MES DE SALARIO Y LA PRIMA DE ANTIGÜEDAD CORRESPONDIENTE.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
+
+ARTICULO 56 BIS. QUEDA PROHIBIDO SOLICITAR POR CUALQUIER MEDIO LA PRESENTACION DE CERTIFICADOS MEDICOS DE NO EMBARAZO PARA EL INGRESO, PERMANENCIA O ASCENSO EN EL EMPLEO.
+
+QUEDA PROHIBIDO DESPEDIR A UNA TRABAJADORA O COACCIONARLA DIRECTA O INDIRECTAMENTE PARA QUE RENUNCIE POR ESTAR EMBARAZADA, POR CAMBIO DE ESTADO CIVIL O POR TENER EL CUIDADO DE HIJOS MENORES.
 
 ###### ARTICULO 57.
 
@@ -1367,39 +1443,11 @@ II.- CON DESTITUCION DEL TRABAJADOR, SIN RESPONSABILIDAD PARA LA DEPENDENCIA.
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Sinaloa.
-
-SEGUNDO.- Los miembros de la Unión de Industriales de la Masa y la Tortilla del Municipio de Angostura, y las demás personas que exploten establecimientos a que se refiere el artículo 3 de este reglamento; tendrán un plazo de 30 días naturales, a partir de su inicio de vigencia, para sujetarse a las disposiciones del presente ordenamiento.
-
-Es dado en la sala de sesiones del H. Ayuntamiento de Angostura, Sinaloa, a los veintiséis días del mes de Febrero del año 2004.
-
-C. JOSÉ CUAUHTEMOC CASTRO REAL.
-
-Presidente Municipal
-
-PROFR. SAMUEL BOJORQUEZ CAMACHO.
-
-Secretario del Ayuntamiento
-
-Por lo tanto mando se imprima, publique y circule para su debida observancia.
-
-Dado en el edificio sede del Ayuntamiento de Angostura, Sinaloa, a los 26 días del mes de Febrero del año dos mil cuatro.
-
-C. JOSÉ CUAUHTEMOC CASTRO REAL.
-
-Presidente Municipal
-
-PROFR. SAMUEL BOJORQUEZ CAMACHO.
-
-Secretario del Ayuntamiento
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-P.O. 9 DE DICIEMBRE DE 2009.
-
 ###### ARTICULO PRIMERO.
 
-El presente Reglamento para la Apertura y Funcionamiento de Molinos de Nixtamal y Tortillerías del Municipio de Angostura, Sinaloa y Comercialización en la Vía Pública del Producto que Elaboran, entrará en vigor después de que salga publicado en el Periódico Oficial "El Estado de Sinaloa".
+SE ABROGA LA LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS AL SERVICIO DEL ESTADO Y LOS MUNICIPIOS, CONTENIDA EN EL DECRETO NUMERO 149, APROBADO POR LA H. QUINCUAGESIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO Y PUBLICADA EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO, NUMERO 23 DE FECHA 2 DE MARZO DE 1984; CON LA MODALIDAD SEÑALADA EN EL PARRAFO SIGUIENTE.
+
+LOS JUICIOS PENDIENTES ANTE EL TRIBUNAL DE CONCILIACION Y ARBITRAJE, A LA FECHA EN QUE ENTRE EN VIGOR EL PRESENTE DECRETO, CONTINUARAN TRAMITANDOSE DE CONFORMIDAD CON LA LEY QUE SE ABROGA HASTA SU TERMINACION.
 
 ###### ARTICULO SEGUNDO.
 
@@ -1526,3 +1574,15 @@ Las instituciones y dependencias deberán habilitar su sala de lactancia a más 
 ###### ARTÍCULO TERCERO.
 
 El Programa Estatal de Lactancia Materna deberá ser publicado a más tardar dentro de los 180 días posteriores a la entrada en vigencia del presente decreto.
+
+P.O. 27 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 184 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO Y EL ACTUAL PÁRRAFO SEGUNDO PASA A SER PÁRRAFO TERCERO DEL ARTÍCULO 56 Y UN ARTÍCULO 56 BIS A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y LOS MUNICIPIOS”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVOS (SIC) NÚMERO 225 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 53 Y SE ADICIONA UNA FRACCIÓN V Y SE RECORREN EN SU ORDEN LAS FRACCIONES SUBSECUENTES DEL ARTÍCULO 49 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
