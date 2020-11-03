@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2020-10-21"
+last_updated: "2020-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1267,6 +1267,10 @@ Si cesa la suspensión, a partir del día siguiente volverá a correr la prescri
 
 La acción penal prescribirá en el término máximo de la sanción privativa de libertad del delito que se trate.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+Serán imprescriptibles la acción penal y las sanciones en los supuestos de los delitos previstos en los artículos 140, 141 a, 153-a, 180, 181, 182, 184, 187 segundo párrafo, 187-c, 187-f, 236, 236-a, 237 y 238.
+
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 124.
@@ -1289,11 +1293,11 @@ Cuando para ejercitar una acción penal sea necesaria una resolución previa de 
 
 Los términos para la prescripción de las sanciones serán continuos y se computarán una vez que la condena sea firme; correrán, si son privativas de libertad, a partir del día siguiente al en que la persona sentenciada se sustraiga a la acción de la autoridad; si no lo son, a partir del día siguiente de la sentencia ejecutoria.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 129.
 
-La sanción privativa de libertad prescribirá en un plazo igual al doble del fijado en la condena.
+La sanción privativa de libertad prescribirá en un plazo igual al doble del fijado en la condena, con excepción de lo previsto en el segundo párrafo del artículo 123 de este Código.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1967,7 +1971,9 @@ VI.- Se cometa por quien tenga a la persona ofendida bajo su guarda, custodia, e
 
 En estos casos la punibilidad se incrementará de un cincuenta por ciento del mínimo a un cincuenta por ciento del máximo de la señalada en los artículos 180, 181 y 182 según corresponda.
 
-Cuando el activo ejerza sobre el ofendido la guarda, custodia, tutela o patria potestad, se le privará de ésta.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+Cuando el activo ejerza sobre el ofendido la guarda, custodia, tutela o patria potestad, se le privará de ésta y perderá cualquier derecho a alimentos o bienes que pudiera corresponderle por su relación con la víctima.
 
 ### Capítulo IV. Abusos Sexuales
 
@@ -4233,6 +4239,12 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 
 P.O. 21 DE OCTUBRE DE 2020.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 221, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 221, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVOS (SIC) NÚMERO 226 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 129 Y 184 ÚLTIMO PÁRRAFO; Y SE ADICIONA EL ARTÍCULO 123 CON UN SEGUNDO PÁRRAFO DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
