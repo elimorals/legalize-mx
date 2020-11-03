@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2020-del-pleno-del-consejo-de-la-143713"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2020-10-29"
+last_updated: "2020-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE NOVIEMBRE DE 2020.
 
 Acuerdo publicado en el Número 26 del Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -553,9 +553,13 @@ Cancelación de eventos académicos presenciales. Se cancelan cursos, capacitaci
 
 Revisión y posible recalendarización de obras. En el caso de las obras cuya entrega o entregas estén calendarizadas o sujetas a plazos, las áreas administrativas, por conducto de la Secretaría Ejecutiva de Administración, solicitarán a la Comisión de Administración los ajustes a dichos calendarios. A partir de la reanudación ordinaria de labores, las áreas encargadas de la supervisión de las mismas elaborarán un informe para conocimiento de los Comités respectivos y otro global para la Comisión de Administración.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 27/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 44.
 
-Declaraciones anuales. Se mantiene la suspensión del plazo para la presentación de las declaraciones de situación patrimonial (inicio, modificación y conclusión) y de intereses.
+Declaraciones de situación patrimonial y de intereses. A partir del tres de noviembre de dos mil veinte, se reanudan los plazos para la presentación de las declaraciones de situación patrimonial y de intereses en sus modalidades de inicio y conclusión.
+
+Para la declaración en su modalidad de modificación, el período para su presentación, correspondiente al ejercicio dos mil diecinueve, será del tres de noviembre al treinta y uno de diciembre de dos mil veinte.
 
 ###### Artículo 45.
 
@@ -614,3 +618,13 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intrantet e internet.
 
 TERCERO. Se mantiene el periodo de receso para la segunda quincena de diciembre de 2020, que comprende del 16 de diciembre de 2020 al 3 de enero de 2021.
+
+D.O.F. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 27/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, CON RELACIÓN A LA PRESENTACIÓN DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. El acceso al sistema de declaraciones del Consejo de la Judicatura Federal, se encuentra disponible en la liga electrónica: https://nuevosistemadeclaracionescjf.cjf.gob.mx
