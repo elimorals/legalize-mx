@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidad-patrimonial-del-estado-y-los-43154"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2020-05-20"
+last_updated: "2020-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 7 de enero de 2005
 
@@ -181,9 +181,9 @@ El procedimiento de responsabilidad patrimonial se iniciará a petición de part
 
 Por responsabilidad de los Poderes del Estado:
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
-I.- En el Poder Ejecutivo, ante el Tribunal de lo Contencioso Administrativo o la Secretaría de la Transparencia y Rendición de Cuentas;
+I.- En el Poder Ejecutivo, ante el Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
 II.- En el Poder Judicial, ante el Consejo del Poder Judicial; y
 
@@ -203,9 +203,13 @@ III.- En la Procuraduría de los Derechos Humanos del Estado, ante el Procurador
 
 IV.- En la Universidad de Guanajuato, ante el Rector General; y
 
-V.- En el Tribunal de lo Contencioso Administrativo, ante el Pleno.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
 
-Por responsabilidad de las autoridades municipales, será optativo para el particular acudir ante el Juzgado Administrativo Municipal correspondiente, o ante el Tribunal de lo Contencioso Administrativo.
+V.- En el Tribunal de Justicia Administrativa del Estado de Guanajuato, ante el Pleno.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+Por responsabilidad de las autoridades municipales, será optativo para el particular acudir ante el Juzgado Administrativo Municipal correspondiente, o ante el Tribunal de Justicia Administrativa del Estado de Guanajuato.
 
 ###### Artículo 22.
 
@@ -324,6 +328,30 @@ III.- La existencia o no de la relación de causalidad entre la actividad admini
 IV.- La valoración del daño causado, así como el monto de la indemnización explicando, en su caso, los criterios utilizados para la cuantificación.
 
 Igualmente, en los casos de concurrencia previstos en el Capítulo VII de esta Ley, en dichas resoluciones o sentencias se deberán razonar los criterios de imputación y la graduación correspondiente para su aplicación a cada caso en particular.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 35 Bis.
+
+Las resoluciones de la autoridad administrativa que nieguen la indemnización, o que, por su monto, no satisfagan al interesado podrán impugnarse mediante recurso de revisión en vía administrativa o bien, directamente por vía jurisdiccional ante el Tribunal de Justicia Administrativa del Estado de Guanajuato.
+
+El recurso se interpondrá mediante escrito con la expresión de agravios, ante el Tribunal de Justicia Administrativa del Estado de Guanajuato, dentro de los diez días hábiles siguientes a aquél en que surta los efectos la notificación respectiva. Si el escrito mencionado no contiene expresión de agravios, se declarará desierto el recurso.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 35 Ter.
+
+Interpuesto el recurso, sin más trámite, se ordenará que se asiente certificación de la fecha en que se notificó la resolución recurrida, así como la fecha de recepción del recurso y mandará el expediente al Presidente del Tribunal, quien acordará sobre su admisión.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 35 Quater.
+
+En caso de admitir el recurso, el Presidente del Tribunal designará al Magistrado ponente, quien en caso de ser una resolución de una Sala del propio Tribunal no podrá ser el que hubiera emitido la resolución impugnada.
+
+Dicho recurso se substanciará corriendo traslado con copia del recurso, cuando así procediere a las otras partes para que, dentro de cinco días, expresen lo que a su interés convenga.
+
+Transcurridos los cinco días, el Presidente remitirá los autos al Magistrado ponente para que dentro de diez días formule el proyecto de resolución que someterá al Pleno y éste resolverá dentro de los diez días siguientes, dictando la resolución que proceda.
 
 ### CAPÍTULO IV. DE LAS NOTIFICACIONES Y TÉRMINOS
 
@@ -532,5 +560,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 20 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 176, POR EL CUAL SE REFORMAN LOS ARTÍCULOS 12 Y 14; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 Y SE DEROGA EL ARTÍCULO 11 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVOS (SIC) NÚMERO 224 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS A LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO Y A LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
