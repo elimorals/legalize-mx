@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2020-10-21"
+last_updated: "2020-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -979,7 +977,9 @@ Son órdenes de protección de emergencia las siguientes:
 
 I. Prohibición al probable agresor de acercarse al domicilio, lugar de trabajo, de estudios, y del domicilio de las y los ascendientes y descendientes;
 
-II. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DEL 2020)</small>
+
+II. Prohibición de intimidar o molestar por cualquier medio a la víctima en su entorno social, así como a cualquier integrante de su familia;
 
 III. Depósito de la víctima y de sus hijas e hijos en un refugio que garantice su integridad personal;
 
@@ -1372,3 +1372,9 @@ Artículo Décimo Cuarto. La Secretaría de Finanzas, Inversión y Administraci�
 Plazo para actualización de reglamentación municipal
 
 Artículo Décimo Quinto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor del mismo.
+
+P.O. 3 DE NOVIEMBRE DEL 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVOS (SIC) NÚMERO 227 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 45 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
