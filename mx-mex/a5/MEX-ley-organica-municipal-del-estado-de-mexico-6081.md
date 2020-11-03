@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2020-09-29"
+last_updated: "2020-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -3109,11 +3109,17 @@ VII. Las que el ayuntamiento le asigne.
 
 ### CAPITULO DECIMO PRIMERO. Del Cronista Municipal
 
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
-Artículo 147 P.- En cada municipio, el ayuntamiento respectivo, mediante acuerdo de cabildo, expedirá, dentro de los primeros 120 días de la administración municipal, la convocatoria abierta a toda la población para designar al Cronista Municipal.
+Artículo 147 P.- Se entenderá por Cronista Municipal, a la persona que de manera responsable y objetiva tiene a su cargo la elaboración de la crónica sobre los hechos y acontecimientos históricos, así como los sucesos más relevantes acontecidos en el municipio. La crónica municipal será pública y formará parte del archivo municipal.
 
-El ayuntamiento garantizará que se publique y difunda en los lugares de mayor afluencia del municipio, durante un periodo no menor a 15 y no mayor a 20 días naturales. Además, se deberá publicar en un periódico de mayor circulación en el territorio municipal.
+> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+En cada municipio, el ayuntamiento respectivo, mediante acuerdo de cabildo, expedirá, dentro de los primeros 120 días de la administración municipal, la convocatoria pública y abierta a toda la población para designar al Cronista Municipal.
+
+> <small>(ADICIONADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+El ayuntamiento garantizará que se publique y difunda en los lugares de mayor afluencia del municipio, durante un periodo no menor a 15 y no mayor a 20 días naturales. Además, se deberá publicar en medios oficiales de comunicación electrónica disponibles y en un periódico de mayor circulación en el territorio municipal.
 
 > <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
 
@@ -3125,17 +3131,29 @@ II. Conocer y estar familiarizado con la historia, costumbres, tradiciones, desa
 
 III. Tener reconocida honorabilidad, buena reputación y evidente solvencia moral;
 
-IV. Ser mayor de 30 años.
+> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+IV. Ser mayor de 23 años.
 
-Artículo 147 R.- El ayuntamiento en cabildo, previo análisis de las propuestas, designará con base en criterios de objetividad, veracidad e imparcialidad, a quien tenga las mayores virtudes y conocimientos para ocupar el cargo del Cronista Municipal.
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+V. Contar preferentemente con título de Licenciado en Historia o disciplina a fin.
+
+> <small>(ADICIONADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+El cargo de Cronista Municipal tendrá una duración de 3 años, contados a partir de la fecha de su designación, mismo que podrá ser ratificado.
+
+> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+Artículo 147 R.- El ayuntamiento en cabildo, previo análisis de las propuestas, designará con base en criterios de objetividad, veracidad e imparcialidad, a quien resulte más idóneo para ocupar el cargo del Cronista Municipal.
 
 > <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
 
 Artículo 147 S.- El Cronista Municipal tendrá, entre otras funciones, las siguientes:
 
-I. Dar a conocer a la población, a través de la narración escrita, fotográfica o audiovisual los sucesos históricos y de mayor relevancia que hayan acontecido en el municipio;
+> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+I. Dar a conocer a la población por cualquier medio y a través de la narración escrita, fotográfica o audiovisual los sucesos históricos y de mayor relevancia que hayan acontecido en el municipio;
 
 II. Promover, investigar y divulgar, periódicamente, el patrimonio histórico y cultural del municipio;
 
@@ -3143,7 +3161,17 @@ III. Promover el rescate, organización y conservación de los archivos históri
 
 IV. Conocer y divulgar el patrimonio cultural intangible del municipio; y
 
-V. Las demás que tiendan a fortalecer la identidad y el desarrollo municipales.
+> <small>(REFORMADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+V. Presentar durante el primer trimestre de cada año ante el Consejo Municipal de la Crónica, un Informe Anual de sus actividades;
+
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+VI. Coadyuvar en el marco de sus funciones con las demás instituciones del municipio cuando se lo soliciten, y
+
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+
+VII. Las demás que favorezcan la identidad y el desarrollo municipales.
 
 > <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
 
@@ -3153,9 +3181,9 @@ Artículo 147 T.- El ayuntamiento, una vez designado el Cronista Municipal, conv
 
 Artículo 147 U.- El Consejo de la Crónica estará integrado hasta por siete ciudadanos honorables y distinguidos, y será presidido por el presidente municipal. Los cargos de este consejo serán honoríficos.
 
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
-Artículo 147 V.- De conformidad con la disposición presupuestal de cada Ayuntamiento, el cabildo acordará, a propuesta del Presidente Municipal, el rango y nivel salarial del Cronista Municipal, considerando la asignación de recursos materiales y humanos necesarios para su buen funcionamiento.
+Artículo 147 V.- Preferentemente, el Cronista Municipal tendrá el nivel de Director de Área. Para el ejercicio de sus funciones, se le podrá considerar la asignación de recursos materiales y humanos necesarios para su buen funcionamiento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -5192,3 +5220,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Una vez entrado en vigor del presente Decreto, queda sin efecto cualquier articulado que lo contravenga.
+
+G.G. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 197.- POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO Y SEGUNDO DEL ARTÍCULO 147 P, LA FRACCIÓN IV DEL ARTÍCULO 147 Q, EL ARTÍCULO 147 R, LAS FRACCIONES I Y V DEL ARTÍCULO 147 S Y EL ARTÍCULO 147 V; Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 147 P, LA FRACCIÓN V Y ÚLTIMO PÁRRAFO AL ARTÍCULO 147 Q, LAS FRACCIONES VI Y VII AL ARTÍCULO 147 S DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
