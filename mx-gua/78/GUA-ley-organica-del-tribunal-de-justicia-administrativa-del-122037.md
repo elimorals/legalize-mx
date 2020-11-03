@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-justicia-administrativa-del-122037
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-20"
-last_updated: "2018-09-18"
+last_updated: "2020-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -259,7 +259,9 @@ I. Designar al Presidente del Tribunal;
 
 II. Proponer al Congreso del Estado la terna del titular del Órgano de Control Interno;
 
-III. Resolver los recursos contra las resoluciones que dicten las Salas;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+III. Resolver los recursos contra las resoluciones que dicten las Salas; y aquellas que se dicten dentro del procedimiento de reclamación patrimonial;
 
 IV. Resolver sobre las contradicciones de criterios sustentados por las Salas del Tribunal, así como los del propio Pleno, según sea el caso, determinando cuál de ellos deberá de prevalecer;
 
@@ -373,7 +375,11 @@ VI. Calificar las recusaciones y excusas por impedimentos de los Secretarios de 
 
 VII. Ejecutar las resoluciones de amparo, en los términos de la Ley Federal correspondiente; y
 
-VIII. Las demás que le señalen esta Ley y el Reglamento Interior del Tribunal.
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Conocer y resolver sobre el recurso de revisión en materia de responsabilidad patrimonial del Estado; y
+
+IX. Las demás que le señalen esta Ley y el Reglamento Interior del Tribunal.
 
 ### Capítulo V. Funcionarios Jurisdiccionales
 
@@ -882,3 +888,9 @@ P.O. 18 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 328, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23, FRACCIÓN IV, INCISO F) Y SE ADICIONA AL ARTÍCULO 23, FRACCIÓN 1, UN INCISO N) DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, ASIMISMO SE ADICIONA AL ARTÍCULO 16 UN TERCER PÁRRAFO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVOS (SIC) NÚMERO 224 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS A LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO Y A LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
