@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2020-09-08"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -335,9 +335,11 @@ Las Agrupaciones Políticas Estatales son formas de asociación ciudadana que co
 
 Las Agrupaciones Políticas Estatales no podrán utilizar, bajo ninguna circunstancia, la denominación de “partido” o “partido político”.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 32.
 
-Las Agrupaciones Políticas Estatales sólo podrán participar en procesos electorales locales mediante acuerdos de participación con un Partido Político. No podrán hacerlo con coaliciones ni con candidatos independientes. Las candidaturas surgidas de los acuerdos de participación serán registradas por el Partido Político y serán votadas con la denominación, emblema, color o colores de éste.
+Las Agrupaciones Políticas Estatales sólo podrán participar en procesos electorales locales mediante acuerdos de participación con un Partido Político. No podrán hacerlo con coaliciones ni con candidatos comunes o independientes. Las candidaturas surgidas de los acuerdos de participación serán registradas por el Partido Político y serán votadas con la denominación, emblema, color o colores de éste.
 
 En la propaganda y campaña electoral, se podrá mencionar a la Agrupación participante.
 
@@ -557,7 +559,9 @@ V. Acceder a las prerrogativas y recibir el financiamiento público en los térm
 
 VI. Organizar procesos internos para seleccionar y postular candidaturas en las elecciones garantizando la participación de mujeres y hombres en igualdad de condiciones, en los términos de esta Ley y las leyes generales o locales aplicables;
 
-VII. Formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección que establezca el Estatuto de cada uno de los partidos políticos, en los términos de la Ley de General de Partidos Políticos, la Ley General y esta Ley;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+VII. Formar coaliciones, candidaturas comunes, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección que establezca el Estatuto de cada uno de los partidos políticos, en los términos de la Ley de General de Partidos Políticos, la Ley General y esta Ley;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -779,7 +783,9 @@ VII. Los contratos y convenios suscritos para la adquisición, arrendamiento y p
 
 VIII. Las plataformas electorales y programas de gobierno que registren ante el Instituto Estatal;
 
-IX. Los convenios de frente, coalición o fusión que celebren, o de participación electoral que realicen con agrupaciones políticas estatales, así como organizaciones de la sociedad civil;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+IX. Los convenios de frente, coalición, candidatura común o fusión que celebren, o de participación electoral que realicen con agrupaciones políticas estatales, así como organizaciones de la sociedad civil;
 
 X. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular;
 
@@ -1039,11 +1045,67 @@ El Instituto Estatal podrá desarrollar la función de la fiscalización ordinar
 
 Los partidos políticos podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes.
 
-Los partidos políticos, para fines electorales, podrán formar coaliciones para postular los mismos candidatos en las elecciones locales, siempre que cumplan con los requisitos establecidos en la Ley General de Partidos Políticos.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Los partidos políticos, para fines electorales, podrán formar coaliciones o candidaturas comunes para postular los mismos candidatos en las elecciones locales, siempre que cumplan con los requisitos establecidos en la Ley General de Partidos Políticos, como en la presente Ley, según corresponda.
 
 Dos o más partidos políticos podrán fusionarse para constituir un nuevo partido político o para incorporarse en uno de ellos.
 
-Los partidos políticos de nuevo registro no podrán convenir frentes, coaliciones o fusiones con otro partido político antes de la conclusión de la primera elección local inmediata posterior a su registro.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Los partidos políticos de nuevo registro no podrán convenir frentes, coaliciones, candidaturas comunes o fusiones con otro partido político antes de la conclusión de la primera elección local inmediata posterior a su registro.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 79 Bis.
+
+Para los efectos del artículo anterior, una candidatura común, es la unión de dos o más partidos políticos, para postular, en un mismo proceso electoral, hasta el 25 por ciento de las fórmulas o planillas a integrar, según corresponda, el Poder Legislativo local, o los ayuntamientos del Estado.
+
+Los partidos políticos no podrán postular candidaturas comunes en los distritos o municipios en los que ya participen bajo la figura de coalición, mientras que, en el resto de los mismos, los partidos políticos coaligados, podrán constituir candidaturas comunes con los partidos políticos que conformen la coalición, siempre y cuando la integración de la misma sea distinta.
+
+Los partidos políticos que registren candidaturas comunes conservarán su personalidad jurídica, derechos, obligaciones, emblema, colores con los que participen y el financiamiento público otorgado, así como la representación que hayan acreditado ante el Instituto.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 79 Ter.
+
+Los partidos políticos que postulen candidaturas comunes deberán acreditar individualmente que el órgano estatutariamente facultado aprobó participar y postular a la candidatura común respectiva. Para tal efecto, deberán adjuntar al convenio de candidatura común, original o copia certificada de la siguiente documentación:
+
+I. Acta de la sesión celebrada por los órganos de dirección nacional que cuenten con las facultades estatutarias para aprobar que el partido político contienda en candidatura común, anexando la convocatoria respectiva, orden del día, acta o minuta de la sesión, o en su caso, versión estenográfica y lista de asistencia;
+
+II. En su caso, acta de la sesión del órgano competente del partido político, en el cual conste que se aprobó convocar a la instancia facultada para decidir la participación en una candidatura común, incluyendo convocatoria, orden del día, acta o minuta de la sesión, o en su caso, versión estenográfica y lista de asistencia, y
+
+III. Toda la información y elementos de convicción adicionales que permitan al Instituto, verificar que la decisión partidaria de conformar una candidatura común fue adoptada de conformidad con los estatutos de cada partido político integrante.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 79 Quáter.
+
+Para el registro de candidaturas comunes, los partidos políticos deberán presentar, antes del inicio de la etapa de precampaña, los siguientes documentos:
+
+I. Convenio que deberá contener al menos los siguientes requisitos:
+
+a) La denominación de los partidos políticos postulantes de la candidatura común;
+
+b) La personalidad de quienes suscriben el convenio para la postulación y registro de la candidatura común;
+
+c) Nombres y firmas autógrafas de los funcionarios partidistas facultados estatutariamente para celebrar el convenio;
+
+d) El nombre de la o las personas facultadas para llevar a cabo los trámites relativos a la candidatura común, señalando domicilio para oír y recibir notificaciones;
+
+e) Distrito o municipio que motiva la postulación de la candidatura común;
+
+f) La fracción parlamentaria a la que, en caso de obtener el triunfo, la candidata o candidato se integrará en el Congreso del Estado; o en su caso la determinación de que la o el candidato pertenecerá a la fracción parlamentaria del partido político que obtenga la mayor cantidad de votos;
+
+g) Señalar la obligación de que cada uno de los partidos políticos postulantes de la candidatura común ejercerá de manera individual los recursos destinados para gastos de campaña de dicha candidatura, sujetándose en todo momento a los topes de gastos de campaña y los límites de financiamiento privado aprobados por el Consejo General; por lo tanto, entre otras actividades, los actos de campaña deberán organizarse de manera individual por cada partido político;
+
+h) Manifestar y acreditar documentalmente que el órgano competente de cada partido político sesionó válidamente y aprobó participar de la candidatura común.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 79 Quinquies.
+
+En los casos no previstos por la presente Ley, resultarán aplicables de manera supletoria, en lo conducente, las disposiciones contenidas, tanto en la Ley General de Partidos Políticos, como en la Ley General de Instituciones y Procedimientos Electorales.
 
 ### CAPÍTULO SEGUNDO. DE LOS FRENTES
 
@@ -1471,7 +1533,7 @@ IX. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-X. Insertar en su propaganda de manera visible la leyenda: “candidatura independiente”;
+X. Insertar en su propaganda de manera visible la leyenda: "candidatura independiente";
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1745,11 +1807,11 @@ I. Serán convocadas por la Presidencia del Consejo General, por lo menos con ve
 
 II. A la convocatoria deberá adjuntarse el orden del día y copias de los documentos indispensables, relativos a los asuntos a tratar;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 III. Cuando no se reúna el quórum establecido en la fracción anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con las consejeras y los consejeros, así como con las personas representantes de los partidos políticos, coalición o candidatura independiente o candidatura común que asistan, debiendo estar presente la Consejera presidenta o el Consejero Presidente, y
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 IV. En caso de que no asistiera la Consejera presidenta o el Consejero Presidente, dentro de las veinticuatro horas siguientes se realizará la sesión con las consejeras o los Consejeros y las personas representantes de los partidos políticos, coalición, candidatura común y candidatura independiente que asistan, debiendo otra consejera o consejero del Consejo General sustituir para esta única ocasión a la Consejera Presidenta o Consejero Presidente.
 
@@ -1795,7 +1857,9 @@ Para el caso de las candidaturas independientes determinar el monto del financia
 
 VIII. Proveer lo relativo a las prerrogativas que se otorgan a los partidos políticos;
 
-IX. Resolver sobre los convenios de frentes, fusiones y coaliciones, que sometan a su consideración los partidos políticos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+IX. Resolver sobre los convenios de frentes, fusiones, coaliciones y candidaturas comunes, que sometan a su consideración los partidos políticos;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1867,7 +1931,7 @@ XXX. Organizar durante las campañas al menos un debate entre las candidaturas a
 
 XXXI. Aprobar el calendario y el plan integral del proceso electoral local, a más tardar sesenta días antes de su inicio, y de los procesos extraordinarios cuando haya convocatoria;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 XXXII. Aprobar los topes de gastos de campaña y precampaña que puedan efectuar los partidos políticos, coaliciones, candidaturas comunes o candidaturas independientes en términos de esta Ley;
 
@@ -2073,7 +2137,9 @@ II. Proponer a la aprobación del Consejo General los reglamentos internos, esta
 
 III. Fijar los procedimientos administrativos, conforme a las políticas y programas generales del Instituto Estatal;
 
-IV. Supervisar el cumplimiento de las normas aplicables al otorgamiento o cancelación de registro o acreditación, en su caso, de las agrupaciones políticas, partidos políticos y coaliciones, así como de su financiamiento y prerrogativas;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+IV. Supervisar el cumplimiento de las normas aplicables al otorgamiento o cancelación de registro o acreditación, en su caso, de las agrupaciones políticas, partidos políticos, coaliciones o candidaturas comunes, así como de su financiamiento y prerrogativas;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2149,7 +2215,9 @@ V. Informar sobre el cumplimiento de los acuerdos del Consejo General;
 
 VI. Firmar, junto con la Consejera Presidenta o el Consejero Presidente todos los convenios, acuerdos y resoluciones que se emitan;
 
-VII. Sustanciar con el auxilio de la Dirección Jurídica y de Partidos Políticos el procedimiento de otorgamiento o pérdida de registro de las agrupaciones políticas estatales, partidos políticos locales o de las coaliciones, así como sobre la acreditación de los partidos políticos nacionales; someter el proyecto de resolución a la Junta y Consejo General, respectivamente, hasta dejarlos en estado de resolución;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+VII. Sustanciar con el auxilio de la Dirección Jurídica y de Partidos Políticos el procedimiento de otorgamiento o pérdida de registro de las agrupaciones políticas estatales, partidos políticos locales o de las coaliciones y candidaturas comunes, así como sobre la acreditación de los partidos políticos nacionales; someter el proyecto de resolución a la Junta y Consejo General, respectivamente, hasta dejarlos en estado de resolución;
 
 VIII. Formar y conservar el archivo del Instituto Estatal y de la Junta General;
 
@@ -2181,9 +2249,9 @@ XX. Proveer a los órganos del Instituto Estatal de los elementos para el cumpli
 
 XXI. Proponer para la aprobación del Consejo General, el proyecto de calendario integral de los procesos electorales ordinarios, así como de elecciones extraordinarias que se sujetará a la convocatoria respectiva;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-XXII. Expedir los documentos que acrediten la personalidad de las consejeras y los consejeros electorales y de los representantes de las agrupaciones políticas estatales acreditadas ante el Instituto Estatal y de los partidos políticos, coaliciones y de la candidatura independiente ante el Consejo General
+XXII. Expedir los documentos que acrediten la personalidad de las consejeras y los consejeros electorales y de los representantes de las agrupaciones políticas estatales acreditadas ante el Instituto Estatal y de los partidos políticos, coaliciones, candidaturas comunes y de la candidatura independiente ante el Consejo General;
 
 XXIII. Informar al Consejo General de las resoluciones emitidas por los Tribunales y tomar las medidas necesarias para su cumplimiento, y
 
@@ -2363,15 +2431,17 @@ I. Tramitar las solicitudes que formulen las organizaciones que pretendan consti
 
 II. Intervenir en el procedimiento de registro de los convenios de coalición o fusión entre partidos políticos, en los términos de la presente Ley y Ley General de Partidos Políticos;
 
-III. Inscribir en el libro respectivo el registro de agrupaciones políticas estatales, partidos políticos estatales, así como los convenios de coaliciones y de fusión, y la acreditación de los partidos políticos nacionales;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+III. Inscribir en el libro respectivo el registro de agrupaciones políticas estatales, partidos políticos estatales, así como los convenios de coaliciones, candidaturas comunes y de fusión, y la acreditación de los partidos políticos nacionales;
 
 IV. Recibir y tramitar los avisos de modificación a los documentos básicos de las agrupaciones políticas estatales y los partidos políticos estatales;
 
 V. Coordinar las acciones para sustanciar el procedimiento de otorgamiento o pérdida de registro de las agrupaciones políticas estatales y de partidos políticos locales que se encuentre en los supuestos previstos por esta ley; así como de la acreditación de los partidos políticos nacionales;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-VI. Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o locales, así como las coaliciones y las candidaturas independientes hagan efectivas las prerrogativas a las que tienen derecho;
+VI. Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o locales, así como las coaliciones, candidaturas comunes y las candidaturas independientes hagan efectivas las prerrogativas a las que tienen derecho;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2381,9 +2451,9 @@ VII. Llevar el libro de registro de las personas integrantes de los órganos dir
 
 VIII. Llevar los libros de registro de las candidaturas a los cargos de elección popular;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-IX. Vigilar que los contenidos de la propaganda y de la difusión de los partidos políticos, coaliciones y candidaturas independientes en medios de comunicación, se encuentren apegados a los requisitos exigidos por la Ley;
+IX. Vigilar que los contenidos de la propaganda y de la difusión de los partidos políticos, coaliciones, candidaturas comunes y candidaturas independientes en medios de comunicación, se encuentren apegados a los requisitos exigidos por la Ley;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2435,9 +2505,9 @@ XII. Promover el diseño de sistemas automatizados e informáticos, que coadyuve
 
 XIII. Proponer a la Junta General para su aprobación, los manuales, Estatuto del Servicio Profesional Electoral, normas y criterios técnicos en materia administrativa, para la mejor organización y funcionamiento del Instituto Estatal;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-XIV. Suministrar, previa autorización, a los partidos políticos nacionales y estatales, candidaturas independientes, a las coaliciones, y agrupaciones políticas estatales, los recursos económicos que, en su caso, les corresponda y de conformidad con lo que establezca la Ley;
+XIV. Suministrar, previa autorización, a los partidos políticos nacionales y estatales, candidaturas independientes, a las coaliciones, candidaturas comunes y agrupaciones políticas estatales, los recursos económicos que, en su caso, les corresponda y de conformidad con lo que establezca la Ley;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2707,11 +2777,17 @@ El procedimiento de selección de los Consejeros Presidentes y de los Consejeros
 
 Los consejos distritales y municipales electorales se instalarán dentro de los treinta días siguientes de la fecha de inicio del proceso electoral. A partir de su instalación y hasta la conclusión del proceso, sesionarán por lo menos una vez al mes.
 
-Para poder iniciar a sesionar válidamente deberán estar presentes la mayoría de los Consejeros de los Consejos Distritales y Municipales, con derecho a voz y voto, entre los que deberá estar el Consejero Presidente y la mayoría de los representantes de los partidos políticos, los de la coalición o candidatos independientes, en su caso.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-Cuando no se reúna el quórum establecido en el párrafo anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con los Consejeros y representantes de los partidos políticos, de coalición o candidatos independientes que asistan, debiendo estar presente el Consejero Presidente.
+Para poder iniciar a sesionar válidamente deberán estar presentes la mayoría de los Consejeros de los Consejos Distritales y Municipales, con derecho a voz y voto, entre los que deberá estar el Consejero Presidente y la mayoría de los representantes de los partidos políticos, los de la coalición, candidaturas comunes o candidatos independientes, en su caso.
 
-En caso de que no asistiere el Consejero Presidente, dentro de las veinticuatro horas siguientes se realizará la sesión con los Consejeros y representantes de los partidos políticos, de coalición o candidatos independientes que asistan, debiendo otro Consejero del Consejo General sustituir para esa única sesión al Consejero Presidente.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Cuando no se reúna el quórum establecido en el párrafo anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con los Consejeros y representantes de los partidos políticos, de coalición, candidaturas comunes o candidatos independientes que asistan, debiendo estar presente el Consejero Presidente.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+En caso de que no asistiere el Consejero Presidente, dentro de las veinticuatro horas siguientes se realizará la sesión con los Consejeros y representantes de los partidos políticos, de coalición, candidaturas comunes o candidatos independientes que asistan, debiendo otro Consejero del Consejo General sustituir para esa única sesión al Consejero Presidente.
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2018)</small>
 
@@ -3065,7 +3141,9 @@ Son atribuciones de los escrutadores de las mesas directivas de casilla:
 
 I. Contar la cantidad de boletas depositadas en cada urna, y el número de electores que votaron conforme a las marcas asentadas en la lista nominal de electores, cerciorándose de que ambas cifras sean coincidentes y, en caso de no serlo, consignar el hecho;
 
-II. Contar el número de votos emitidos a favor de cada uno de los partidos políticos, candidatos independientes, coaliciones o candidatos no registrados;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+II. Contar el número de votos emitidos a favor de cada uno de los partidos políticos, candidatos independientes, coaliciones, candidaturas comunes o candidatos no registrados;
 
 III. Auxiliar al presidente o al secretario de la mesa directiva de casilla en las actividades que les encomienden, y
 
@@ -3321,7 +3399,7 @@ Durante los procesos electorales, el Tribunal Electoral se integrará además co
 
 La presidencia del Tribunal Electoral tomará las medidas que sean necesarias para cubrir las ausencias temporales de las personas servidoras públicas y podrá designar provisionalmente a las personas sustitutas.
 
-Tratándose de ausencias definitivas, el Pleno del Tribunal Electoral tendrá la atribución de designar a las personas servidoras públicas sustitutas, observando el cumplimiento de los requisitos que para cada cargo prevé, la presente Ley.
+Tratándose de ausencias definitivas, el Pleno del Tribunal Electoral tendrá la atribución de designar a las personas servidoras públicas sustitutas, observando el cumplimiento de los requisitos que para cada cargo prevé la presente Ley.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4211,7 +4289,7 @@ La etapa de resultados y declaración de validez de las elecciones, inicia con l
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REGISTRO DE LAS PERSONAS CANDIDATAS
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 267.
 
@@ -4219,7 +4297,9 @@ Para los efectos de la presente Ley, se entenderán como:
 
 I. Procesos internos para la selección de candidaturas a cargos de elección popular: El conjunto de actividades que realizan los partidos políticos y las personas aspirantes a dichos cargos, de conformidad con lo establecido en esta Ley, en los Estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político;
 
-II. Precampaña electoral: El conjunto de actos que realizan los partidos políticos o coaliciones debidamente acreditados o registrados ante el Instituto Estatal, sus militantes y personas simpatizantes, así como las personas precandidatas y candidatas a cargos de elección popular debidamente registradas por cada partido político;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+II. Precampaña electoral: El conjunto de actos que realizan los partidos políticos, coaliciones o candidaturas comunes debidamente acreditados o registrados ante el Instituto Estatal, sus militantes y personas simpatizantes, así como las personas precandidatas y candidatas a cargos de elección popular debidamente registradas por cada partido político;
 
 III. Actos de precampaña electoral: Las reuniones públicas, asambleas, marchas y en general, todos aquellos actos en que las personas precandidatas a una candidatura se dirigen a las personas afiliadas, militantes o simpatizantes, con el objetivo de obtener su respaldo para ser postulada como persona candidata a un cargo de elección popular;
 
@@ -4229,11 +4309,15 @@ Las personas precandidatas deberán abstenerse de utilizar expresiones que calum
 
 El Consejo General y la Comisión de Quejas y Denuncias están facultadas para ordenar, una vez satisfechos los procedimientos establecidos en esta Ley, el retiro inmediato de la propaganda contraria a esta norma, y
 
-V. Persona precandidata: La ciudadanía que pretende ser postulada por un partido político como persona candidata a algún cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político o coalición, en el proceso de selección interna de candidaturas a cargos de elección popular.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+V. Persona precandidata: La ciudadanía que pretende ser postulada por un partido político como persona candidata a algún cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político, coalición o candidatura común, en el proceso de selección interna de candidaturas a cargos de elección popular.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 268.
 
-Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
+Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición o candidatura común.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4293,21 +4377,27 @@ Los partidos políticos, precandidatos y simpatizantes están obligados a retira
 
 ### CAPÍTULO TERCERO. DE LA CAMPAÑA ELECTORAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 274.
 
-Corresponde a los partidos políticos y coaliciones, el derecho de solicitar el registro de candidaturas a cargo de elección popular, así como a la ciudadanía que aspire a ser registrada como personas candidatas independientes y que hayan obtenido ese derecho en los términos de esta Ley.
+Corresponde a los partidos políticos, coaliciones o candidatura común, el derecho de solicitar el registro de candidaturas a cargo de elección popular, así como a la ciudadanía que aspire a ser registrada como personas candidatas independientes y que hayan obtenido ese derecho en los términos de esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 275.
 
-Las candidaturas a diputaciones e integrantes de los Ayuntamientos que presenten los partidos políticos o las coaliciones ante el Instituto Estatal, deberán integrarse salvaguardando la paridad entre los géneros, conforme a la Constitución Federal, la Constitución del Estado y esta Ley.
+Las candidaturas a diputaciones e integrantes de los Ayuntamientos que presenten los partidos políticos, las coaliciones o candidaturas comunes ante el Instituto Estatal, deberán integrarse salvaguardando la paridad entre los géneros, conforme a la Constitución Federal, la Constitución del Estado y esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la paridad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional, así como un ambiente libre de cualquier tipo de violencia política contra la mujer por razones de género. Corresponde a los partidos políticos el derecho de solicitar el registro de candidaturas a cargos de elección popular por ambos principios. La ciudadanía tendrá el derecho de solicitar su registro como personas candidatas independientes a cargos de elección popular únicamente por el principio de mayoría relativa.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
 En todo caso, será obligación de los partidos políticos postular candidaturas de ambos géneros, procurando, siempre que el número de postulaciones lo permita, que ninguno de éstos obtenga una cantidad mayor al cincuenta por ciento en las candidaturas a diputaciones locales, así como en las candidaturas a integrantes que conformen las planillas de Ayuntamientos. En la integración de las planillas de los Ayuntamientos se deberá postular una fórmula de candidaturas jóvenes. En la postulación de candidaturas a diputaciones locales y a integrantes de los ayuntamientos, se deberá respetar el principio de paridad de género, tanto en su dimensión vertical como en su dimensión horizontal, cuyos supuestos serán regulados en la ley. En ambos casos, no se admitirá la postulación de candidaturas, tanto a diputaciones locales como a integrantes de los ayuntamientos, en detrimento de la sub- representación y/o sobre-representación de cualquiera de los géneros, en la medida que esto sea posible.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 Para efectos del registro de candidaturas a diputaciones por el principio de representación proporcional, cada partido político registrará de manera directa una lista preliminar de cinco candidaturas propietarias conforme a su normatividad interna, misma que deberá encabezarse alternamente entre mujeres y hombres en cada periodo electivo, así como alternada por género para garantizar la paridad, misma que se integrará a la lista definitiva que deberá conformar el Consejo General del Instituto Estatal de conformidad con el artículo 374 de esta Ley.
 
@@ -4459,7 +4549,7 @@ Para efectos de la renuncia de candidaturas, se requerirá de la ratificación d
 
 ###### Artículo 285.
 
-La campaña electoral, para los efectos de esta Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y las personas candidatas registradas, para la obtención del voto.
+La campaña electoral, para los efectos de esta Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones, candidaturas comunes y las personas candidatas registradas, para la obtención del voto.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4491,33 +4581,45 @@ El presidente del Consejo General podrá solicitar a las autoridades competentes
 
 Los partidos políticos o candidatos que decidan dentro de la campaña electoral realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán comunicar a la autoridad competente su itinerario cuando menos con veinticuatro horas de anticipación, a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 288.
 
-La propaganda impresa y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos y candidaturas independientes se ajustarán a lo dispuesto por el primer párrafo del artículo 6º. de la Constitución Federal, así como contener una identificación precisa del partido político o coalición que ha registrado a la persona candidata.
+La propaganda impresa y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos y candidaturas independientes se ajustarán a lo dispuesto por el primer párrafo del artículo 6º. de la Constitución Federal, así como contener una identificación precisa del partido político, coalición o candidatura común que ha registrado a la persona candidata.
 
-La propaganda política o electoral que en el curso de una precampaña o campaña difundan los partidos políticos, las coaliciones y personas candidatas, deberán propiciar la exposición, desarrollo y discusión ante el electorado de la plataforma electoral fijada por los partidos políticos que para la elección correspondiente hubiesen registrado, y no tendrán más limite, en los términos del artículo 7o. de la Constitución Federal, que el respeto a la vida privada de las personas candidatas, autoridades, terceros y a las instituciones y valores democráticos.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las personas candidatas y personas precandidatas, deberán abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley y la Ley de Acceso.
-
-El Consejo General, está facultado para ordenar, una vez satisfechos los procedimientos establecidos en este Ley, la suspensión inmediata de la propaganda y mensajes políticos y electorales en medios impresos contrarios a esta norma, así como el retiro de cualquier otra propaganda.
+La propaganda política o electoral que en el curso de una precampaña o campaña difundan los partidos políticos, las coaliciones, candidaturas comunes y personas candidatas, deberán propiciar la exposición, desarrollo y discusión ante el electorado de la plataforma electoral fijada por los partidos políticos que para la elección correspondiente hubiesen registrado, y no tendrán más limite, en los términos del artículo 7o. de la Constitución Federal, que el respeto a la vida privada de las personas candidatas, autoridades, terceros y a las instituciones y valores democráticos.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
+En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las personas candidatas y personas precandidatas, deberán abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley y la Ley de Acceso.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+El Consejo General, está facultado para ordenar, una vez satisfechos los procedimientos establecidos en este Ley, la suspensión inmediata de la propaganda y mensajes políticos y electorales en medios impresos contrarios a esta norma, así como el retiro de cualquier otra propaganda.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 289.
 
-Los partidos políticos, las coaliciones, las personas precandidatas y personas candidatas podrán ejercer el derecho de réplica que establece el artículo 6o. de la Constitución Federal, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regula la materia de imprenta y de las disposiciones civiles y penales aplicables.
+Los partidos políticos, las coaliciones, candidaturas comunes, las personas precandidatas y personas candidatas podrán ejercer el derecho de réplica que establece el artículo 6o. de la Constitución Federal, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regula la materia de imprenta y de las disposiciones civiles y penales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 290.
 
-La propaganda que los partidos políticos, las coaliciones y los candidatos realicen en la vía pública a través de medios impresos, video, grabaciones y, en general cualquier otro medio, se sujetará a lo previsto en el artículo anterior, así como a las disposiciones en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
+La propaganda que los partidos políticos, las coaliciones, candidaturas comunes y los candidatos realicen en la vía pública a través de medios impresos, video, grabaciones y, en general cualquier otro medio, se sujetará a lo previsto en el artículo anterior, así como a las disposiciones en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
 
 Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
 
-Para efectos de esta Ley se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición o candidato que lo distribuye. Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-Está estrictamente prohibido a los partidos políticos y candidatos, sus equipos de campaña o cualquier otra persona, la entrega de cualquier tipo de material que contenga propaganda política o electoral de partidos políticos, coaliciones o candidatos, en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al elector para obtener su voto.
+Para efectos de esta Ley se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición, candidatura común o candidato que lo distribuye. Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Está estrictamente prohibido a los partidos políticos y candidatos, sus equipos de campaña o cualquier otra persona, la entrega de cualquier tipo de material que contenga propaganda política o electoral de partidos políticos, coaliciones, candidaturas comunes o candidatos, en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al elector para obtener su voto.
 
 El partido político, candidato registrado o simpatizante que viole lo dispuesto en este artículo, será sancionado en los términos previstos en la presente Ley.
 
@@ -4525,9 +4627,11 @@ El partido político, candidato registrado o simpatizante que viole lo dispuesto
 
 En los edificios, oficinas y locales ocupados por la administración y los poderes públicos, en los edificios escolares de cualquier nivel, en monumentos o sitios históricos o culturales, en zonas o lugares turísticos, en edificios o en oficinas de organismos descentralizados, delegaciones, subdelegaciones o representaciones del Gobierno Federal, Estatal o Municipal o en vehículos oficiales destinados al servicio público, no se podrá colocar, fijar, pintar, ni distribuir propaganda electoral de ningún tipo, con las excepciones que señala esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 292.
 
-En la colocación de la propaganda electoral, los partidos políticos, coaliciones y candidatos observarán las siguientes reglas:
+En la colocación de la propaganda electoral, los partidos políticos, coaliciones, candidaturas comunes, y candidatos observarán las siguientes reglas:
 
 I. No podrá colgarse en elementos del equipamiento urbano, ni obstaculizar en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población. Las autoridades electorales competentes ordenarán el retiro de la propaganda electoral contraria a esta norma;
 
@@ -4543,15 +4647,21 @@ VI. No podrá colgarse, fijarse o pintarse en monumentos, construcciones de valo
 
 La distribución o colocación de la propaganda electoral deberá respetar los tiempos legales que se establezcan para cada caso, su retiro o fin de su distribución deberá efectuarse tres días antes de la jornada electoral.
 
-En los actos de campaña, los partidos políticos, coaliciones, así como los candidatos independientes podrán colgar o fijar propaganda en las plazas públicas principales, la cual será retirada una vez que concluya el evento.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+En los actos de campaña, los partidos políticos, coaliciones, candidaturas comunes, así como los candidatos independientes podrán colgar o fijar propaganda en las plazas públicas principales, la cual será retirada una vez que concluya el evento.
 
 La propaganda colocada en vía pública, deberá retirarse durante los siete días posteriores a la conclusión de la jornada electoral.
 
 Toda la propaganda impresa deberá ser reciclable y elaborarse con materiales biodegradable (sic).
 
-Dentro de los treinta días siguientes a la jornada electoral, los partidos políticos, coaliciones y candidatos independientes estarán obligados a retirar su propaganda y llevarla a un centro de reciclaje.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-Del mismo modo, los partidos políticos, coaliciones y los candidatos independientes, cinco días antes de la jornada electoral quedan obligados a retirar su propaganda electoral que se encuentren en un radio de cincuenta metros a la redonda de donde se vaya a instalar una casilla.
+Dentro de los treinta días siguientes a la jornada electoral, los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes estarán obligados a retirar su propaganda y llevarla a un centro de reciclaje.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Del mismo modo, los partidos políticos, coaliciones, candidaturas comunes y los candidatos independientes, cinco días antes de la jornada electoral quedan obligados a retirar su propaganda electoral que se encuentren en un radio de cincuenta metros a la redonda de donde se vaya a instalar una casilla.
 
 La omisión en el retiro o fin de distribución de la propaganda, serán sancionados conforme a esta Ley.
 
@@ -4571,9 +4681,11 @@ Durante el tiempo que comprendan las campañas electorales y hasta la conclusió
 
 El día de la jornada electoral y durante los tres días anteriores, no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña, de propaganda o de proselitismo electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 295.
 
-Los gastos que realicen los candidatos, partidos políticos y coaliciones, en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General.
+Los gastos que realicen los candidatos, partidos políticos, coaliciones y candidaturas comunes, en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General.
 
 Para los efectos de este artículo quedarán comprendidos dentro de los topes de gastos, los siguientes conceptos:
 
@@ -4589,11 +4701,13 @@ IV. Los gastos de producción de los mensajes para radio y televisión comprende
 
 No se considerarán dentro de los topes de campaña los gastos que realicen los partidos políticos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 296.
 
-A más tardar en el mes de septiembre del año previo a la elección, el Consejo General determinará los topes de gastos de campaña por tipo de elección. El tope de gastos de campaña, que determinará el Consejo General para cada Partido Político, Coalición y candidato independiente será la cantidad que resulte de multiplicar tres por el monto otorgado para gastos de campaña al partido político con mayor financiamiento público, el resultado será considerado como tope de gastos de campaña de la elección de Gobernador. En el caso de las elecciones de Ayuntamientos y Diputados, el tope de gastos de campaña se calculará de igual forma y se distribuirá de acuerdo al porcentaje del padrón electoral que le corresponda, al distrito o municipio de que se trate, con corte al mes de septiembre del año previo a la elección.
+A más tardar en el mes de septiembre del año previo a la elección, el Consejo General determinará los topes de gastos de campaña por tipo de elección. El tope de gastos de campaña, que determinará el Consejo General para cada partido político, coalición, candidatura común y candidato independiente será la cantidad que resulte de multiplicar tres por el monto otorgado para gastos de campaña al partido político con mayor financiamiento público, el resultado será considerado como tope de gastos de campaña de la elección de Gobernador. En el caso de las elecciones de Ayuntamientos y Diputados, el tope de gastos de campaña se calculará de igual forma y se distribuirá de acuerdo al porcentaje del padrón electoral que le corresponda, al distrito o municipio de que se trate, con corte al mes de septiembre del año previo a la elección.
 
-Los gastos que realicen los partidos políticos, las coaliciones y los candidatos independientes en actividades de campaña, no podrán rebasar ese tope en cada una de las elecciones de Gobernador, diputados y miembros de los ayuntamientos, respectivamente.
+Los gastos que realicen los partidos políticos, las coaliciones, candidaturas comunes y los candidatos independientes en actividades de campaña, no podrán rebasar ese tope en cada una de las elecciones de Gobernador, diputados y miembros de los ayuntamientos, respectivamente.
 
 ### CAPÍTULO QUINTO. DE LAS BOLETAS ELECTORALES
 
@@ -4705,7 +4819,9 @@ II. La relación de los representantes de los partidos políticos y candidatos i
 
 III. La relación de los representantes generales acreditados por cada partido político y candidato independiente en el distrito o municipio en que se ubique la casilla en cuestión;
 
-IV. Las boletas correspondientes a cada elección, en número igual al de los electores que figuran para cada casilla de la sección; más las boletas que se requieran para que voten los representantes de los partidos políticos, coaliciones y candidatos independientes debidamente acreditados ante las mesas directivas de casilla.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+IV. Las boletas correspondientes a cada elección, en número igual al de los electores que figuran para cada casilla de la sección; más las boletas que se requieran para que voten los representantes de los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes debidamente acreditados ante las mesas directivas de casilla.
 
 V. Las urnas para recibir la votación, una por cada elección de que se trate;
 
@@ -4753,13 +4869,17 @@ IV. Tampoco tendrán acceso a las casillas, salvo que sea para ejercer su derech
 
 El secretario de la mesa directiva de casilla, hará constar en la respectiva hoja de incidentes las causas del quebranto del orden y las medidas acordadas por el presidente, que deberá firmarse por los funcionarios de la casilla y los representantes de los partidos políticos o candidatos independientes acreditados ante la misma. Si algún funcionario o representante se negase a firmar, el secretario hará constar la negativa, lo que en nada afectará su validez.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 308.
 
-Los miembros de la mesa directiva de casilla y los representantes de los partidos políticos, coaliciones o candidatos independientes, en ningún caso podrán interferir en el desarrollo de la jornada electoral, afectando la libertad y secrecía del voto de los electores.
+Los miembros de la mesa directiva de casilla y los representantes de los partidos políticos, coaliciones, candidaturas comunes o candidatos independientes, en ningún caso podrán interferir en el desarrollo de la jornada electoral, afectando la libertad y secrecía del voto de los electores.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 309.
 
-Ninguna autoridad puede, durante la jornada electoral, aprehender a los integrantes de las mesas directivas de casilla, a los representantes de partidos políticos o coaliciones o a un elector sino hasta después de que haya votado, salvo en el caso de flagrante delito o de orden expresa del presidente de la mesa directiva de casilla.
+Ninguna autoridad puede, durante la jornada electoral, aprehender a los integrantes de las mesas directivas de casilla, a los representantes de partidos políticos o coaliciones, candidaturas comunes, candidaturas independientes o a un elector sino hasta después de que haya votado, salvo en el caso de flagrante delito o de orden expresa del presidente de la mesa directiva de casilla.
 
 ###### Artículo 310.
 
@@ -4781,11 +4901,15 @@ III. El apoyo necesario para practicar las diligencias que les sean demandas par
 
 IV. La información de los hechos que puedan influir o alterar el resultado de las elecciones.
 
-Los juzgados de primera instancia y los de cuantía menor, permanecerán abiertos durante el día de la jornada electoral, igual obligación tienen las agencias del ministerio público y las oficinas que hagan sus veces, deberán atender las solicitudes de los funcionarios de casilla, de los ciudadanos y de los representantes de los partidos políticos o coaliciones, así como de los candidatos para dar fe de hechos o certificar documentos concernientes a la jornada electoral. Estos servicios se proporcionarán de manera gratuita.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Los juzgados de primera instancia y los de cuantía menor, permanecerán abiertos durante el día de la jornada electoral, igual obligación tienen las agencias del ministerio público y las oficinas que hagan sus veces, deberán atender las solicitudes de los funcionarios de casilla, de los ciudadanos y de los representantes de los partidos políticos, coaliciones, candidaturas comunes, así como de los candidatos para dar fe de hechos o certificar documentos concernientes a la jornada electoral. Estos servicios se proporcionarán de manera gratuita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 313.
 
-Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de la elección y deberán atender las solicitudes que les hagan las autoridades electorales, funcionarios de casilla, ciudadanos y representantes de los partidos políticos, coaliciones y candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la jornada electoral. Estos servicios se proporcionarán de manera gratuita.
+Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de la elección y deberán atender las solicitudes que les hagan las autoridades electorales, funcionarios de casilla, ciudadanos y representantes de los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la jornada electoral. Estos servicios se proporcionarán de manera gratuita.
 
 Para estos efectos, la Dirección General de Notarias del Gobierno del Estado, publicará cinco días antes de la fecha en que se celebre la jornada electoral, los nombres de los notarios y domicilios de sus oficinas en los periódicos de mayor circulación en el Estado.
 
@@ -5001,7 +5125,9 @@ El escrutinio y cómputo es el procedimiento por el cual los integrantes de cada
 
 I. El número de electores que votó en la casilla;
 
-II. El número de votos emitidos en favor de cada uno de los partidos políticos, coaliciones y candidatos independientes;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+II. El número de votos emitidos en favor de cada uno de los partidos políticos, coaliciones y candidatos independientes y candidaturas comunes;
 
 III. El número de votos nulos, y
 
@@ -5025,7 +5151,9 @@ IV. El segundo escrutador contará las boletas extraídas de la urna.
 
 V. Los dos escrutadores, bajo la supervisión del presidente, clasificarán las boletas para determinar:
 
-a) El número de votos emitidos a favor de cada uno de los partidos políticos, coaliciones o candidatos independientes.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+a) El número de votos emitidos a favor de cada uno de los partidos políticos, coaliciones, candidaturas comunes o candidatos independientes.
 
 b) El número de votos que sean nulos.
 
@@ -5035,25 +5163,37 @@ VI. El secretario anotará en hojas por separado los resultados de cada una de l
 
 Al realizar el escrutinio y cómputo de la votación recibida en casilla, los funcionarios de la misma, para determinar la validez o nulidad de los votos, observarán las siguientes reglas:
 
-I. Será considerado como voto válido en favor de un partido político, coalición o candidatura independiente, cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+I. Será considerado como voto válido en favor de un partido político, coalición, candidatura común o candidatura independiente, cuando:
 
 (NOTA: EL 5 DE DICIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS XVII, XVIII Y XX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO A) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE DICIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 a) El elector haya marcado la boleta electoral únicamente en el espacio que contenga el emblema del partido político, COALICIÓN o candidatura independiente.
 
-b) El centro de la marca principal se encuentre en un solo espacio, y demuestre fehacientemente la intención del elector de votar en favor del partido político, coalición o candidatura independiente.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-c) Los electores marquen dos o más recuadros de partidos políticos y estos se encuentren coaligados.
+b) El centro de la marca principal se encuentre en un solo espacio, y demuestre fehacientemente la intención del elector de votar en favor del partido político, coalición, candidatura común o candidatura independiente.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+c) Los electores marquen dos o más recuadros de partidos políticos y estos se encuentren coaligados o en candidatura común.
 
 II. Será nulo el voto emitido cuando:
 
 a) Aquel expresado por los electores en una boleta que depositen en la urna, sin haber marcado ningún cuadro que contenga el emblema de un partido político o de un candidato independiente;
 
-b) Cuando los electores marquen dos o más cuadros sin existir coalición entre los partidos;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-c) Los electores hayan marcado en su totalidad la boleta electoral y que no se pueda determinar la intención de votar por un solo partido político, coalición o candidato independiente;
+b) Cuando los electores marquen dos o más cuadros sin existir coalición o candidatura común entre los partidos;
 
-d) Cuando los electores marquen en la boleta dos o más cuadros y exista coalición entre los partidos cuyos emblemas hayan sido marcados, el voto contará para candidatura de la coalición y se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+c) Los electores hayan marcado en su totalidad la boleta electoral y que no se pueda determinar la intención de votar por un solo partido político, coalición, candidatura común o candidato independiente;
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+d) Cuando los electores marquen en la boleta dos o más cuadros y exista coalición entre los partidos cuyos emblemas hayan sido marcados, el voto contará para candidatura de la coalición o candidatura común y se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla.
 
 III. Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
 
@@ -5209,7 +5349,9 @@ El Programa de Resultados Electorales Preliminares es el mecanismo de informaci�
 
 El Instituto Estatal se sujetará a las reglas, lineamientos y criterios que en materia de resultados electorales preliminares emita el Instituto Nacional.
 
-El objetivo del programa de resultados electorales preliminares será el informar oportunamente bajo los principios de seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados en la información en todas sus fases al Instituto Estatal, los partidos políticos, coaliciones, candidatos, medios de comunicación y a la ciudadanía en general.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+El objetivo del programa de resultados electorales preliminares será el informar oportunamente bajo los principios de seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados en la información en todas sus fases al Instituto Estatal, los partidos políticos, coaliciones, candidaturas comunes, candidatos, medios de comunicación y a la ciudadanía en general.
 
 ### CAPÍTULO CUARTO. DE LOS CÓMPUTOS MUNICIPALES
 
@@ -5239,7 +5381,9 @@ Para llevar a cabo lo anterior, el secretario del consejo, abrirá el paquete en
 
 Anotará respecto de cada casilla, las objeciones relativas a votos computados o a votos no computados en el escrutinio, así como aquéllas que se refieran a irregularidades e incidentes en el funcionamiento de la casilla. Lo anterior se hará constar en el acta circunstanciada de la sesión de cómputo distrital.
 
-En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados o en candidatura común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición o candidatura común; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 III. Abrirán los paquetes electorales que tengan muestras de alteración. Si el acta original contenida en el expediente de casilla, coincide con la que obre en poder del consejo distrital, procederá a realizar el cómputo de los resultados sumándolos a los demás. Si no coinciden o se detectaren alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección de la casilla o no existiere el acta de escrutinio y cómputo en el expediente de casilla ni obrara en poder del presidente, se procederá a realizar nuevamente el escrutinio y cómputo y su resultado se sumará a los demás.
 
@@ -5249,7 +5393,9 @@ Para llevar a cabo lo anterior, el secretario del consejo, abrirá el paquete en
 
 Anotará respecto de cada casilla, las objeciones relativas a votos computados o a votos no computados en el escrutinio, así como aquéllas que se refieran a irregularidades e incidentes en el funcionamiento de la casilla. Lo anterior se hará constar en el acta circunstanciada de la sesión de cómputo distrital.
 
-En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados o en candidatura común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición o candidatura común; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 IV. La suma de los resultados después de realizar las operaciones anteriormente referidas constituirá el cómputo distrital para la elección de diputados por el principio de mayoría relativa.
 
@@ -5259,7 +5405,9 @@ VI. El cómputo distrital de la elección para la asignación de diputados por e
 
 VII. Levantará el acta de cómputo distrital haciendo constar en ella las operaciones realizadas, los resultados del cómputo y las objeciones o protestas que se hayan presentado y el resultado de la elección. Se entregará a cada uno de los integrantes del consejo copia del acta circunstanciada.
 
-En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados o en candidatura común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 VIII. Realizará la declaración de validez y la entrega de la constancia de mayoría a la fórmula de candidatos a diputados que hayan obtenido la mayoría de votos en la elección, verificando en cada caso que cumplan con los requisitos de elegibilidad previstos en la Constitución Particular y en esta Ley, y
 
@@ -5305,7 +5453,9 @@ Para llevar a cabo lo anterior, el secretario del consejo, abrirá el paquete en
 
 Anotará respecto de cada casilla, las objeciones relativas a votos computados o a votos no computados en el escrutinio, así como aquéllas que se refieran a irregularidades e incidentes en el funcionamiento de la casilla. Lo anterior se hará constar en el acta circunstanciada de la sesión de cómputo municipal.
 
-En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma municipal de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados o en candidatura común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma municipal de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición o candidatura común; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 III. Abrirán los paquetes electorales que tengan muestras de alteración. Si el acta original contenida en el expediente de casilla, coincide con la que obre en poder del consejo municipal, procederá a realizar el cómputo de los resultados sumándolos a los demás. Si no coinciden o se detectaren alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección de la casilla o no existiere el acta de escrutinio y cómputo en el expediente de casilla ni obrara en poder del presidente, se procederá a realizar nuevamente el escrutinio y cómputo y su resultado se sumará a los demás.
 
@@ -5315,7 +5465,9 @@ Para llevar a cabo lo anterior, el secretario del consejo, abrirá el paquete en
 
 Anotará respecto de cada casilla, las objeciones relativas a votos computados o a votos no computados en el escrutinio, así como aquéllas que se refieran a irregularidades e incidentes en el funcionamiento de la casilla. Lo anterior se hará constar en el acta circunstanciada de la sesión de cómputo municipal.
 
-En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma municipal de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados o en candidatura común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma municipal de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
 
 IV. La suma de los resultados después de realizar las operaciones anteriormente referidas constituirá el cómputo municipal para la elección de miembros de los Ayuntamientos;
 
@@ -5339,9 +5491,11 @@ II. El número de votos nulos sea mayor a la diferencia entre los candidatos ubi
 
 III. Todos los votos hayan sido depositados a favor de un mismo partido o candidatura independiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 363.
 
-Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección en el distrito o municipio y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión de cómputos, exista petición expresa del representante del partido político, coalición o candidato independiente que postuló al segundo de los candidatos antes señalados, el consejo distrital o municipal deberá realizar el recuento de votos en la totalidad de las casillas.
+Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección en el distrito o municipio y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión de cómputos, exista petición expresa del representante del partido político, coalición, candidatura común o candidato independiente que postuló al segundo de los candidatos antes señalados, el consejo distrital o municipal deberá realizar el recuento de votos en la totalidad de las casillas.
 
 Para estos efectos se considerará indicio suficiente la presentación ante el consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito o municipio.
 
@@ -5353,9 +5507,11 @@ Si al término del cómputo de que se trate se establece que la diferencia entre
 
 Conforme a lo establecido en los dos artículos inmediatos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el consejo distrital dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones. En el caso de los cómputos de las elecciones de diputados y de gobernador, estos deberán concluir antes del domingo siguiente al de la jornada electoral.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 366.
 
-Para la realización de los recuentos de votos, el presidente del Consejo Distrital dará aviso inmediato al Secretario Ejecutivo del Instituto Estatal, ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los Representantes de los partidos políticos, coaliciones y candidatos independientes, que presidirán los primeros.
+Para la realización de los recuentos de votos, el presidente del Consejo Distrital dará aviso inmediato al Secretario Ejecutivo del Instituto Estatal, ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los Representantes de los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes, que presidirán los primeros.
 
 Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos y candidatos independientes tendrán derecho a nombrar a un representante en cada punto de recuento, con su respectivo suplente.
 
@@ -5493,9 +5649,11 @@ En caso de falta de quienes provinieron de la lista a que se refiere la fracció
 
 A más tardar el segundo miércoles siguiente al de la jornada electoral, el Consejo General deberá contar con los cómputos municipales, a fin de que ese día sesione para realizar la asignación de regidores de representación proporcional, que correspondan al Ayuntamiento de cada Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 381.
 
-La asignación de las regidurías de representación proporcional se hará a favor de los candidatos registrados en las planillas respectivas de los partidos políticos, coaliciones y candidatos independientes que no ganaron la elección y que cumplan los siguientes requisitos:
+La asignación de las regidurías de representación proporcional se hará a favor de los candidatos registrados en las planillas respectivas de los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes que no ganaron la elección y que cumplan los siguientes requisitos:
 
 (NOTA: EL 5 DE DICIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS XVII, XVIII Y XX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE DICIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -5533,17 +5691,21 @@ Si sólo un partido político o candidato independiente, sin obtener la mayoría
 
 Las regidurías obtenidas por cada uno de los partidos políticos, se asignarán en favor de los candidatos de cada planilla de partido político o candidatos independientes, siguiendo el orden que tuviesen los candidatos en las listas registradas, iniciando por el que encabeza la planilla para la elección de miembros de los Ayuntamientos. Si faltare algún regidor propietario será llamado su respectivo suplente y en ausencia de ambos, serán llamados los que sigan en el orden de prelación de la planilla registrada.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 384.
 
-Para efecto de las asignaciones de las Regidurías de Representación Proporcional, las planillas registradas por las coaliciones serán consideradas como un solo partido.
+Para efecto de las asignaciones de las Regidurías de Representación Proporcional, las planillas registradas por las coaliciones o candidaturas comunes serán consideradas como un solo partido.
 
 ###### Artículo 385.
 
 En el caso de inelegibilidad de candidatos propietarios, tomarán su lugar los suplentes respectivos. Cuando se trate de inelegibilidad de la fórmula de candidatos propietario y suplente incluidos en la planilla de un partido político o candidato independiente con derecho a participar en la asignación de regidores de representación proporcional, tomarán el lugar de los declarados no elegibles los que les sigan en la planilla correspondiente del mismo partido o de la planilla de candidatos independientes.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 386.
 
-Una vez aplicada la fórmula electoral y concluida las asignaciones de las regidurías correspondientes, el Consejero Presidente del Consejo General expedirá a cada partido político, coalición o candidaturas independientes las constancias de asignación que les correspondieran, verificando en cada caso que los candidatos cumplen con los requisitos de elegibilidad previstos en la Constitución Estatal y en esta Ley.
+Una vez aplicada la fórmula electoral y concluida las asignaciones de las regidurías correspondientes, el Consejero Presidente del Consejo General expedirá a cada partido político, coalición, candidatura común o candidaturas independientes las constancias de asignación que les correspondieran, verificando en cada caso que los candidatos cumplen con los requisitos de elegibilidad previstos en la Constitución Estatal y en esta Ley.
 
 ### CAPÍTULO NOVENO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -5673,7 +5835,9 @@ III. El incumplimiento de las obligaciones o la infracción de las prohibiciones
 
 IV. La realización anticipada de actos de precampaña o campaña atribuible a los propios partidos políticos o coaliciones;
 
-V. Exceder los topes de gastos de campaña;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+V. La realización anticipada de actos de precampaña o campaña atribuible a los propios partidos políticos, coaliciones o candidaturas comunes;
 
 VI. La realización de actos de precampaña o campaña en territorio extranjero cuando se acredite que se hizo con consentimiento de aquéllos, sin perjuicio de que se determine la responsabilidad de quien hubiese cometido la infracción;
 
@@ -5781,13 +5945,17 @@ Constituyen infracciones de los observadores electorales y de las organizaciones
 
 I. Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones o interferir en el desarrollo de las mismas;
 
-II. Hacer proselitismo de cualquier tipo o manifestarse a favor o en contra de partido político, coalición o candidato alguno;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+II. Hacer proselitismo de cualquier tipo o manifestarse a favor o en contra de partido político, coalición, candidatura común, o candidato alguno;
 
 III. Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos;
 
 IV. Realizar encuestas o sondeos de opinión;
 
-V. Declarar el triunfo de algún partido político, coalición o candidato alguno, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+V. Declarar el triunfo de algún partido político, coalición, candidatura común o candidato alguno, y
 
 VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
@@ -6626,3 +6794,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el caso de los asuntos que se encuentren en trámite y/o pendientes de resolución, seguirán sustanciándose en términos de la legislación aplicable al momento de su inicio.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 053 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, EN MATERIA DE CANDIDATURAS COMUNES".]
+
+PRIMERO. - El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. - Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
