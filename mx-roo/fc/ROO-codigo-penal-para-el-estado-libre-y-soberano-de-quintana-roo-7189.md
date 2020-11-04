@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2020-09-08"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1827,9 +1827,7 @@ Al que cometa el delito de violación, se aplicará una pena de prisión de vein
 
 I.- Cuando la violación se realice aprovechando la autoridad que se ejerza legalmente sobre la víctima, o la confianza generada por una relación de parentesco sea cual fuere la naturaleza y el grado de ésta; en estos supuestos, el agente será privado del ejercicio de la patria potestad, de la tutela o custodia y, en su caso, de los derechos sucesorios con respecto a la víctima.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-II.- Cuando la violación sea cometida aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce, en cuyo caso éste será privado o suspendido además, del ejercicio del empleo, cargo o comisión por el término de la pena de prisión que se le imponga;
+II.- (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2020)
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -1846,6 +1844,10 @@ V.- Cuando la violación sea cometida en medios de transportes públicos o lugar
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2010)</small>
 
 A los sentenciados por el delito de violación previsto en este artículo no se le concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+ARTICULO 128 BIS.- Cuando la violación sea cometida aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión público o privado que el agente ejerce, se le aplicará una pena de prisión de treinta a cincuenta años y multa de mil quinientos a tres mil días multa. Cuando el agente activo sea servidor público, éste será privado o suspendido, además, del ejercicio, cargo o comisión por el término de la pena de prisión que se le imponga.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
@@ -1873,9 +1875,13 @@ Al que reincidiere en la comisión de este delito, se le aplicará el doble de l
 
 A quien sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto sexual o lo obliguen a ejecutarlo, se le impondrá prisión de uno a tres años. La pena se aumentará hasta en una mitad más, cuando se empleare la violencia.
 
-A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo se le impondrá prisión de cuatro a ocho años. La pena se aumentará hasta en una mitad más cuando se empleare violencia o fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido en los casos que proceda.
+REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)
 
-Además de las penas señaladas, se le privará de los derechos derivados de la patria potestad, de la tutela o custodia, cuando así proceda, a quienes teniendo el ejercicio de éstos en relación con la víctima o el ofendido, cometa el delito a que se refiere el presente artículo.
+A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo se le impondrá prisión de cuatro a ocho años. La pena se aumentará hasta en una mitad más cuando se empleare violencia o fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido en los casos que proceda; o cuando los actos sean cometidos aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce para tal efecto.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Además de las penas señaladas, se le privará de los derechos derivados de la patria potestad, de la tutela o custodia, cuando así proceda, a quienes teniendo el ejercicio de éstos en relación con la víctima o el ofendido, cometa el delito a que se refiere el presente artículo. Cuando el agente activo sea servidor público, éste será privado o suspendido, además, del ejercicio del empleo, cargo o comisión por el término de la pena de prisión que se le imponga.
 
 ### CAPITULO V. HOSTIGAMIENTO SEXUAL
 
@@ -2002,6 +2008,8 @@ Este delito se perseguirá por querella.
 (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2020)
 
 ### CAPITULO II. DELITOS EN MATERIA DE APICULTURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 134.
 
@@ -2151,7 +2159,7 @@ Si en los actos mencionados llegara a participar algún servidor público que te
 
 ###### ARTICULO 147.
 
-El que se apodere de una o más colmenas que contengan una colonia de abejas con panales, miel o material apícola, sin consentimiento de la persona que pueda disponer de ellas conforme a la ley, se le impondrá de dos meses a ocho años de prisión y de veinte a cien días multa.
+El que se apodere de una o más colmenas que contengan una colonia de abejas con panales, miel o material apícola, sin consentimiento de la persona que pueda disponer de ellas conforme a la ley, se le impondrá de dos años a ocho años de prisión y de veinte a cien días multa.
 
 Las mismas penas se aplicarán a:
 
@@ -2169,6 +2177,10 @@ VI.- Los que ilegítimamente contramarquen colmenas ajenas, y
 
 VII.- Los que expidan documentos falsos para obtener permisos simulando ventas o hagan uso de documentos falsificados para cualquier negociación sobre colmenas o productos apícolas.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+En el supuesto a que se refiere la fracción II, cuando la destrucción de colmenas, miel, abejas, panales y productos apícolas se derive del uso y aplicación de plaguicidas y herbicidas, el cual genere perjuicio al patrimonio del productor y que éste sea superior a quinientos días multa, se aumentará hasta una mitad más de la pena que le corresponda.
+
 ### CAPITULO VI. ADMINISTRACION FRAUDULENTA
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
@@ -2177,27 +2189,39 @@ VII.- Los que expidan documentos falsos para obtener permisos simulando ventas o
 
 Comete el delito de abigeato quien se apodera de una o más cabezas de ganado ajeno, sin consentimiento de quien legalmente puede disponer de aquéllas. Para efectos de este capítulo se entenderá como ganado mayor al ganado vacuno, equino, mular y asnal; y como ganado menor al ovino, caprino, porcino, ciervo rojo y avestruz.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Se equiparará al delito de abigeato y se sancionará con la misma pena que éste, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
+
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 148
 
 BIS.- El robo de ganado mayor se sancionará conforme a las siguientes reglas:
 
-I. Si fuera una o dos cabezas, se aplicará prisión de dos a cuatro años y de treinta a ochenta días multa.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-II. Tratándose de tres a cinco cabezas, se aplicará prisión de cuatro a nueve años y de setenta a doscientos días multa.
+I. Si fuera una o dos cabezas, se aplicará prisión de dos a cuatro años y de treinta a cien días multa.
 
-III. Cuando el número de cabezas fuera mayor de seis, se aplicará prisión de seis a doce años y de cien a cuatrocientos días multa.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+II. Tratándose de tres a cinco cabezas, se aplicará prisión de cuatro a nueve años y de cien a trescientos días multa.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+III. Cuando el número de cabezas fuera mayor de seis, se aplicará prisión de seis a doce años y de cien a quinientos días multa.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 148
 
-Ter.- El robo de ganado menor, se sancionará conforme a las siguientes reglas:
+TER.- El robo de ganado menor, se sancionará conforme a las siguientes reglas:
 
 I. Si fuera de una o dos cabezas, se aplicará prisión de seis meses a dos años y de veinte a cien días multa;
 
-II. Si fueran de tres a seis cabezas, se aplicará prisión de dos a cinco años y de treinta a ciento veinte días multa;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+II. Si fueran de tres a seis cabezas, se aplicará prisión de dos a cinco años y de treinta a ciento cincuenta días multa;
 
 III. Si excedieran de seis cabezas, se aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa.
 
@@ -2207,7 +2231,9 @@ III. Si excedieran de seis cabezas, se aplicará prisión de tres a ocho años y
 
 Se le impondrá prisión de uno a tres años y de treinta a cien días multa a quien:
 
-I. Adquiera, oculte, transporte o comercie con ganado, pieles, carnes u otros derivados, productos del abigeato;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+I. Adquiera, oculte o comercie con ganado, pieles, carnes u otros derivados, productos del abigeato;
 
 II. Los que adquieran ganado producto del abigeato sin cerciorarse de su legitima procedencia;
 
@@ -2217,7 +2243,17 @@ IV. Los que protejan ganado producto del abigeato con documentos alterados o doc
 
 V. Marque, contramarque, señale, contraseñale o elimine las marcas en animales ajenos, en cualquier parte, sin derecho para ello;
 
-VI. Expidan documentos falsos para obtener permisos simulando ventas o hagan uso de documentos falsificados para cualquier negociación sobre ganados o cualquiera de sus derivados.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+VI. Expida o haga uso de factura, guía de tránsito, certificado zoosanitario o dispositivo de identificación oficial apócrifo, para simular venta de uno o más ganados, productos o subproductos, de los que no se acredite la propiedad o para trasladarlos para fines de movilización de vida o sacrificio para consumo humano, sin estar debidamente autorizado;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+VII. Transporte o movilice una o más especies de ganado, en vehículo del servicio público estatal o federal que carezca de la autorización emitida por la autoridad competente, o del documento que avale la propiedad del animal, o de la guía de tránsito, o de la documentación de movilización;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+VIII. Transporte o movilice uno o más ganados, en vehículo particular sin consentimiento de quien legalmente pueda otorgarlo.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -2225,17 +2261,47 @@ VI. Expidan documentos falsos para obtener permisos simulando ventas o hagan uso
 
 Bis.- Si se comete el delito de abigeato sobre un ganado que por sus particularidades cuente al momento de cometerse el delito, con un valor comercial superior a las cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, la pena se aumentará hasta una mitad más de la que corresponda en razón del tipo de ganado y de la cantidad de cabezas hurtadas.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 149
 
-TER.- Se sancionará con prisión de hasta una mitad más de la pena que corresponda, al servidor público que incurra en alguna de las conductas señaladas en el presente Capítulo, así como con la destitución e inhabilitación del cargo que ostente al momento de cometer el ilícito.
+TER.- Se sancionará con prisión de hasta una mitad más de la pena que corresponda, al servidor público que incurra en alguna de las conductas señaladas en el presente Capítulo, se le compruebe que intervino o participó en las operaciones para la comisión del delito de abigeato, sino tomo las medidas a las que esté obligado, así como con la destitución e inhabilitación del cargo que ostente al momento de cometer el ilícito.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 149
 
 QUATER.- A quien incurra en forma reincidente en las conductas tipificadas como delito en el presente Capítulo, la pena que le corresponda, se aumentará hasta en una mitad más.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Se impondrá la pena establecida en el párrafo anterior, cuando el delito sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado o bien se ejecute mediante violencia física o moral.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Cuando la conducta a que se refiere este artículo se cometa por una asociación o banda, se sancionará en términos del artículo 181 de este Código.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+###### ARTICULO 149
+
+QUINQUIES.- Se sancionará con prisión de uno a seis años y de cincuenta a cien días multa, quien incurra en alguna de las conductas siguientes:
+
+I. Introduzca una o más especies de ganado al Estado, sin la documentación legal que corresponda;
+
+II. Movilice o enajene una o más especies de ganado, productos, subproductos o sus derivados, con restricciones sanitarias y sin autorización legal, dentro del Estado;
+
+III. Inicie el transporte o la movilización de ganado fuera del horario establecido en el Reglamento de la Ley de Fomento y Desarrollo Pecuario del Estado de Quintana Roo, en materia de Movilización de Ganado Bovino en Pie dentro del Territorio del Estado de Quintana Roo, sin causa justificada;
+
+IV. Expida guía de tránsito o documentación de movilización sin que se cumpla con los requisitos legales;
+
+V. Retire, altere, reutilice, encime o comercialice uno o más dispositivos de identificación oficial de especies de ganado, sin autorización de quien conforme a la ley pueda otorgarla;
+
+VI. Coloque en una o más especies de ganado, dispositivo de identificación oficial, sin autorización de quien conforme a la Ley pueda otorgarla;
+
+VII. Expida dictamen de la prueba de tuberculosis y brucelosis bovina o certificado zoosanitario de movilización para obtener guía de tránsito simulando venta, o haga uso de cualquiera de ellos, para cualquier negociación de especie o especies de ganado mayor o pieles, y
+
+VIII. Comercialice o fabrique dispositivos falsos de identificación oficial de especies pecuarias mayores o menores.
 
 ### CAPITULO VII. EXTORSION
 
@@ -4728,3 +4794,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 049 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales contrarias a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 051 POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 129, SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 128 Y SE ADICIONA EL ARTÍCULO 128 BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+ÚNICO. El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
