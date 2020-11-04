@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-552
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-30"
-last_updated: "2017-07-04"
+last_updated: "2020-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de marzo de 2007.
 
@@ -277,9 +277,9 @@ XVII. El desarrollo de una política educativa para fortalecer el aprecio por la
 
 XVIII. La igualdad de oportunidades de los habitantes de las islas y la aplicación de medidas específicas para lograr la integración de los territorios insulares al desarrollo del Estado.
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-XIX. El de bienestar social, para garantizar la igualdad de derechos y oportunidades entre mujeres y hombres, el desarrollo integral de los pueblos y comunidades indígenas, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, con el objeto de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población.
+XIX. El de bienestar social, para garantizar la igualdad de derechos y oportunidades entre mujeres y hombres, el desarrollo integral de los pueblos y comunidades indígenas, la no discriminación, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, con el objeto de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población.
 
 ###### Artículo 9.
 
@@ -519,13 +519,13 @@ II. Definir las políticas y directrices de la planeación para el desarrollo de
 
 III. Aprobar y ordenar la publicación y divulgación del Plan Estatal en los términos previstos en la presente Ley y presentarlo al Congreso para los efectos que señala el artículo 11 de la presente ley;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-IV. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Secretaría de la Gestión Pública, y
+IV. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Secretaría de la Contraloría;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-V. Establecer y proveer criterios para la formulación, instrumentación, ejecución, control y evaluación del Plan Estatal de Desarrollo, Planes Sectoriales y Programas, en congruencia con el plan nacional de desarrollo, identificando y registrando la población objetivo y la tendida por dichos planes y programas, desagregada por sexo y grupo de edad en los indicadores para resultados y en los padrones de beneficiarias y beneficiarios que corresponda, y
+V. Establecer y proveer criterios para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Estatal de Desarrollo, Planes Municipales y Programas, en congruencia con el Plan Nacional de Desarrollo, identificando y registrando la población objetivo y la tendida por dichos planes y programas, desagregada por sexo y grupo de edad en los indicadores para resultados y en los padrones de beneficiarias y beneficiarios que corresponda, y
 
 VI. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
 
@@ -603,9 +603,9 @@ Del COPLADE, su naturaleza, integración y atribuciones
 
 El COPLADE es un organismo de carácter técnico y consultivo, dependiente de la Secretaría, cuyo objeto consiste en participar, coordinar, promover y coadyuvar en la formulación, instrumentación, control, seguimiento y evaluación de la planeación en el Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-Para el desempeño de sus funciones, el COPLADE se apoyará en Subcomités Regionales, Sectoriales, Institucionales y Especiales, cuya integración, organización y funcionamiento se regularán en el Reglamento que al efecto se emitan (sic).
+Para el desempeño de sus funciones, el COPLADE se apoyará en Subcomités Regionales, Sectoriales, Institucionales y Especiales, cuya integración, organización y funcionamiento se regularán en las Reglas de Operación y Funcionamiento del COPLADE.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -641,9 +641,9 @@ XI. Los demás que considere el Titular del Poder Ejecutivo.
 
 Contará con un Director Operativo que será el responsable de llevar a cabo todos los compromisos y obligaciones derivados de la coordinación de las actividades de la planeación estatal de desarrollo.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-Para los efectos referidos en el párrafo que antecede, su Director Operativo tendrá las facultades que se determine (sic) en el Reglamento, como instrumento normativo de las actividades de dicho organismo.
+Para los efectos referidos en el párrafo que antecede, su Director Operativo tendrá las facultades que se determine en las Reglas de Operación y Funcionamiento del COPLADE, como instrumento normativo de las actividades de dicho organismo.
 
 ###### Artículo 31.
 
@@ -671,9 +671,9 @@ X. Evaluar anualmente la relación que guarden los programas y presupuestos de l
 
 XI. Verificar los programas municipales en términos de los convenios de coordinación que se celebren al respecto para tal efecto; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-XII. Coordinarse con los Titulares de las representaciones federales en el estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución, perspectiva de igualdad de género y beneficio social en el marco de la planeación del desarrollo, y
+XII. Coordinarse con los Titulares de las representaciones federales en el Estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución, la no discriminación, perspectiva de igualdad de género y beneficio social en el marco de la planeación del desarrollo, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1217,17 +1217,21 @@ III. Control, seguimiento, evaluación y actualización.
 
 La formulación es el conjunto de actividades que se desarrollan para la elaboración, validación, aprobación y publicación de los Planes Estatal y Municipales y de sus programas respectivos. Comprende la preparación y diagnóstico político, social, ambiental, cultural, económico, educativo y deportivo de carácter global, regional, sectorial e institucional; la definición de los objetivos y las prioridades del desarrollo, considerando las propuestas de los particulares, organismos, instituciones y representantes del sector social y privado, el señalamiento de estrategias y políticas congruentes entre sí.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 69.
 
-El Plan Estatal deberá elaborarse por el COPLADE y lo turnará a la Secretaría para validar su compatibilidad con el Plan Nacional. Una vez validada la compatibilidad de referencia, esta última lo turnará al Titular del Poder Ejecutivo para su aprobación, quien una vez hecho lo anterior, lo presentará ante el Congreso para los efectos que señala el artículo 11 de la presente ley, al tiempo que mandará a publicarlo en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+El Plan Estatal deberá elaborarse por el COPLADE y lo turnará a la Secretaría para validar su compatibilidad con el Plan Nacional. Una vez validada la compatibilidad de referencia, esta última lo turnará al Titular del Poder Ejecutivo para su aprobación, quien una vez hecho lo anterior, lo presentará ante el Congreso para los efectos que señala el artículo 11 de la presente ley, al tiempo que mandará a publicarlo en el Periódico Oficial del Estado de Quintana Roo.
 
 ###### Artículo 70.
 
 El tiempo para la elaboración, validación, aprobación y publicación del Plan Estatal no podrá exceder de cuatro meses contados a partir de la toma de posesión del titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 71.
 
-El Plan Municipal deberá elaborarse por el COPLADEMUN y lo turnará al COPLADE para validar su compatibilidad con el Plan Estatal. Una vez validada la compatibilidad de referencia, este último lo regresará al COPLADEMUN para que lo presente al Presidente Municipal, quien lo turnará al Ayuntamiento para su aprobación, el cual una vez hecho lo anterior, lo remitirá al Congreso del Estado para su conocimiento, al tiempo que mandará a publicarlo en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+El Plan Municipal deberá elaborarse por el COPLADEMUN y lo turnará al COPLADE para validar su compatibilidad con el Plan Estatal. Una vez validada la compatibilidad de referencia, este último lo regresará al COPLADEMUN para que lo presente al Presidente Municipal, quien lo turnará al Ayuntamiento para su aprobación, el cual una vez hecho lo anterior, lo remitirá al Congreso del Estado para su conocimiento, al tiempo que mandará a publicarlo en el Periódico Oficial del Estado de Quintana Roo.
 
 ###### Artículo 72.
 
@@ -1249,9 +1253,11 @@ II.- Dependencias: Programas Sectoriales y Especiales que le sean designados, y
 
 III.- Entidades: Programas Institucionales y Especiales que le sean designados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 74.
 
-Las Autoridades y Órganos de la Administración Pública Estatal que elaboren algún programa en términos del artículo anterior, deberán turnarlo a la Secretaría para validar su compatibilidad con el Plan Estatal, una vez validada la compatibilidad de referencia, esta última lo remitirá al Titular del Poder Ejecutivo para su aprobación, quien una vez hecho lo anterior, en su caso, lo presentará ante el Congreso para los efectos que señala el artículo 11 de la presente ley, al tiempo que mandará a publicarlo en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+Las Autoridades y Órganos de la Administración Pública Estatal que elaboren algún programa en términos del artículo anterior, deberán turnarlo a la Secretaría para validar su compatibilidad con el Plan Estatal, una vez validada la compatibilidad de referencia, esta última lo remitirá al Titular del Poder Ejecutivo para su aprobación, quien una vez hecho lo anterior, en su caso, lo presentará ante el Congreso para los efectos que señala el artículo 11 de la presente ley, al tiempo que mandará a publicarlo en el Periódico Oficial del Estado de Quintana Roo.
 
 En el caso de los Programas Institucionales, deberán ser sometidos para su visto bueno al Titular de la Dependencia Coordinadora de sector, previo a remitirlos a la Secretaría para la validación a que hace referencia el párrafo anterior.
 
@@ -1281,9 +1287,11 @@ II.- Dependencias: Programas Sectoriales y Especiales que le sean designados, y
 
 III.- Entidades: Programas Institucionales y Especiales que le sean designados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 77.
 
-Las Autoridades y Órganos Municipales que elaboren algún programa en términos del artículo anterior, deberán turnarlo al Presidente Municipal para validar su compatibilidad con el Plan Municipal, una vez validada la compatibilidad de referencia, este último lo remitirá al Ayuntamiento para su aprobación, quien una vez hecho lo anterior, en su caso, lo presentará ante el Congreso del Estado para su conocimiento, al tiempo que mandará a publicarlo en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+Las Autoridades y Órganos Municipales que elaboren algún programa en términos del artículo anterior, deberán turnarlo al Presidente Municipal para validar su compatibilidad con el Plan Municipal, una vez validada la compatibilidad de referencia, este último lo remitirá al Ayuntamiento para su aprobación, quien una vez hecho lo anterior, en su caso, lo presentará ante el Congreso del Estado para su conocimiento, al tiempo que mandará a publicarlo en el Periódico Oficial del Estado de Quintana Roo.
 
 En el caso de los programas institucionales, deberán ser sometidos para su visto bueno al titular de la dependencia coordinadora de sector, previo a remitirlos al Presidente Municipal para la validación a que hace referencia el párrafo anterior.
 
@@ -1455,9 +1463,11 @@ En los convenios a que se refiere esta sección, el Gobierno del Estado y de los
 
 Los convenios que se celebren conforme a esta sección, se considerarán de derecho público. Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos convenios, serán resueltas por los Tribunales competentes del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 98.
 
-Los Convenios de coordinación sobre la planeación del desarrollo, que se celebren en los términos de esta sección, deberán publicarse en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+Los Convenios de coordinación sobre la planeación del desarrollo, que se celebren en los términos de esta sección, deberán publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1503,9 +1513,11 @@ VII. Los demás de similar naturaleza, que no contravengan las disposiciones de 
 
 Los convenios que se celebren conforme a esta sección, se considerarán de derecho público. Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos convenios, serán resueltas por los Tribunales competentes del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 106.
 
-Los convenios de concertación sobre la planeación del desarrollo, que se celebren en los términos de esta sección deberán publicarse en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+Los convenios de concertación sobre la planeación del desarrollo, que se celebren en los términos de esta sección deberán publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1557,9 +1569,11 @@ II. En el último semestre del tercer año de gobierno de la administración, en
 
 La actualización del Plan Estatal y los Programas que de él se deriven, producto de las evaluaciones a que se refieren el artículo 111, será coordinada por el COPLADE, siguiendo en lo conducente el mismo procedimiento establecido para su formulación; debiendo presentar sus resultados y propuestas a la consideración y aprobación del Titular del Poder Ejecutivo, en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 116.
 
-El Titular del Poder Ejecutivo podrá realizar modificaciones al Plan Estatal y el Ayuntamiento podrá hacer lo propio con el Plan Municipal, de manera excepcional en cualquier tiempo, cuando sea suficientemente justificado, siguiendo el mismo procedimiento establecido en la Ley para la actualización y previa evaluación, las modificaciones únicamente deberán practicarse en asuntos concernientes a su competencia y deberán de publicarse en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+El Titular del Poder Ejecutivo podrá realizar modificaciones al Plan Estatal y el Ayuntamiento podrá hacer lo propio con el Plan Municipal, de manera excepcional en cualquier tiempo, cuando sea suficientemente justificado, siguiendo el mismo procedimiento establecido en la Ley para la actualización y previa evaluación, las modificaciones únicamente deberán practicarse en asuntos concernientes a su competencia y deberán de publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
 En caso de desastre o calamidad, en el Estado o en algún Municipio, el Ejecutivo del Estado o el Ayuntamiento, respectivamente, podrán hacer modificaciones al Plan Estatal o al Plan Municipal según corresponda, sin necesidad de atender a los procedimientos establecidos en esta Ley.
 
@@ -1607,11 +1621,15 @@ Los Mecanismos de Participación Social para la Planeación Democrática dentro 
 
 l. Foros de Consulta Ciudadana Estatales y Municipales;
 
-II. Consejos Consultivos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+II. Consejos Consultivos Estatales;
 
 III. Diálogos Ciudadanos;
 
-IV. Consejos Consultivos Municipales de Participación Social;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+IV. Consejos Consultivos Municipales;
 
 V. Encuestas y sondeos de opinión;
 
@@ -1659,11 +1677,11 @@ XII. Los instrumentos normativos de control y evaluación que se señalan en el 
 
 XIII. Los demás de similar naturaleza, que no contravengan las disposiciones de esta Ley.
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 125 Bis.
 
-El Consejo Insular deberá registrar ante la Secretaría los resultados de los estudios que sustenten las bases que permitan definir las políticas, en apoyo al desarrollo integral de las regiones insulares y al mejoramiento de las condiciones de vida de sus habitantes, a que se refiere el artículo 5 de la Ley que crea el Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo.
+El Consejo Insular deberá registrar ante la Secretaría los resultados de los estudios que sustenten las bases que permitan definir las políticas, en apoyo al desarrollo integral de las regiones insulares y al mejoramiento de las condiciones de vida de sus habitantes, a que se refiere la fracción I del artículo 5 de la Ley que crea el Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo.
 
 ###### Artículo 126.
 
@@ -1860,3 +1878,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente ley.
 
 TERCERO. El plazo para la elaboración de los programas regionales, sectoriales, institucionales y especiales, de la Administración Pública Estatal, mismos que fueron reasignados a las autoridades y órganos responsables para su elaboración por medio de la presente Ley, tendrá una ampliación por excepción de 60 días al establecido en el artículo 75 de la presente ley, a fin de que las Dependencias de la Administración Pública Estatal y Municipal puedan realizar las adecuaciones jurídico-administrativas correspondientes.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 048 POR EL QUE SE REFORMAN LA FRACCIÓN XIX DEL ARTÍCULO 8; LAS FRACCIONES IV Y V DEL ARTÍCULO 26; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 29; EL PÁRRAFO ÚLTIMO DEL ARTÍCULO 30; LA FRACCIÓN XII DEL ARTÍCULO 31; EL ARTÍCULO 69; EL ARTÍCULO 71; EL PÁRRAFO PRIMERO DEL ARTÍCULO 74; EL PÁRRAFO PRIMERO DEL ARTÍCULO 77; EL ARTÍCULO 98; EL ARTÍCULO 106; EL PÁRRAFO PRIMERO DEL ARTÍCULO 116; LAS FRACCIONES II Y IV DEL ARTÍCULO 123 Y EL ARTÍCULO 125 BIS DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
