@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2019-06-18"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -1013,9 +1015,9 @@ IX. De Seguridad Pública, Policía Preventiva y Tránsito;
 
 X. De Espectáculos y Diversiones;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-XI. De Desarrollo social y Participación Ciudadana; y
+XI. De Desarrollo Social.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1044,6 +1046,14 @@ XVI. De Asuntos Indígenas.
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2019)</small>
 
 XVII. De Ecología, Ambiente y Protección Animal.
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+XVIII. De Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+XIX. De Anticorrupción y Participación Ciudadana.
 
 ###### ARTÍCULO 73.
 
@@ -3426,3 +3436,11 @@ P.O. 18 DE JUNIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Los Ayuntamientos del Estado deberán crear las Comisiones Ordinarias de Asuntos Indígenas y de Ecología, Ambiente y Protección Animal, dentro de los 120 días siguientes a la publicación del presente decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 044 POR EL QUE SE REFORMA LA FRACCIÓN XI Y SE ADICIONAN LAS FRACCIONES XVIII Y XIX AL ARTÍCULO 72 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al primer día del mes de octubre del año dos mil veintiuno previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
