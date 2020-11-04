@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2020-10-14"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -3333,7 +3333,7 @@ Las mismas sanciones se le impondrán a los gerentes, directivos, mandatarios co
 
 Cuando el sujeto activo del delito, devuelva a los interesados las cantidades de dinero obtenidas con su actuación, antes de que se formule acusación en el proceso respectivo, la pena que se le aplicará será de tres días a seis meses de prisión.
 
-XVIII.- Al que simule la calidad de concesionario o permisionario o no explote de manera personal sin causa justificada la concesión o permiso y obtenga lucro de ello.
+XVIII.- (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2020)
 
 XIX.- Al que simulare un contrato, un acto o escrito judicial, con perjuicio de otro o para obtener cualquier beneficio indebido.
 
@@ -4117,7 +4117,9 @@ Los plazos para la prescripción de la pretensión punitiva y de la potestad de 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-### Capítulo I. Desobediencia y Resistencia de Particulares
+### Capítulo IV. Delitos en Materia de Transporte Público
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 378 Bis.
 
@@ -4129,7 +4131,7 @@ Cuando el responsable incite directa o indirectamente al odio, hostilidad, discr
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2010)</small>
 
-### Capítulo II. Oposición a que se Efectúe Alguna Obra o Trabajo Público
+### Capítulo I. Desobediencia y Resistencia de Particulares
 
 ###### Artículo 378 Ter.
 
@@ -4137,9 +4139,11 @@ A quien realice una llamada o aviso falso a los servicios de emergencia o su equ
 
 Se impondrá pena de dos meses a dos años de prisión y multa de diez a cien días de salario diario mínimo vigente en el Estado, a quien dolosamente facilite los medios para realizar una llamada o aviso falso a los servicios de emergencia o su equivalente.
 
-## Título Décimo Quinto. Delitos en Materia de Vías de Comunicación y Correspondencia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-### Capítulo III. Quebrantamiento de Sellos
+## Título Décimo Quinto. Delitos en Materias de Vías de Comunicación, Correspondencia y Transporte Público
+
+### Capítulo II. Oposición a que se Efectúe Alguna Obra o Trabajo Público
 
 ###### Artículo 379.
 
@@ -4199,7 +4203,7 @@ Si este delito se comete por conductores de vehículos de transporte escolar o d
 
 Las penas previstas en este artículo a juicio del Juez, podrán ser conmutadas por trabajos en favor de la comunidad por un término igual a la pena impuesta.
 
-### Capítulo IV. Delitos Cometidos Contra Servidores Públicos
+### Capítulo III. Quebrantamiento de Sellos
 
 ###### Artículo 386.
 
@@ -4219,7 +4223,7 @@ La disposición del artículo 386 no comprende la correspondencia que circula po
 
 Al empleado de una oficina o estación radio-telefónica que conscientemente dejare de transmitir un mensaje que se entregue con ese objeto o de comunicar al destinatario el que recibiera de otra oficina o estación, se le impondrá de quince días a un año de prisión y multa de cinco a quince días de salario. Si resultare perjuicio, se estará al delito que en este caso se hubiere cometido aplicándose la sanción correspondiente.
 
-### Capítulo I. Falsificación de Sellos, Llaves, Cuños, Troqueles, Marcas y otros Objetos
+### Capítulo IV. Delitos Cometidos Contra Servidores Públicos
 
 ###### Artículo 390.
 
@@ -4229,15 +4233,37 @@ Al responsable de este delito, se le impondrán de dos a ocho años de prisión 
 
 Si el responsable de una intervención de comunicación privada, haya sido ésta realizada de manera legal o ilegal, revela, divulga, o utilice ilegalmente o en perjuicio de tercero la información o imágenes obtenidas en tal intervención de comunicación privada, se le impondrán de tres a doce años de prisión y de doscientos a mil días multa.
 
-### Capítulo II. Falsificación de Documentos en General
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+### Capítulo I. Falsificación de Sellos, Llaves, Cuños, Troqueles, Marcas y otros Objetos
+
+###### Artículo 390 Bis.
+
+A quien, por sí o mediante interpósita persona, realice el servicio de transporte público en cualquiera de sus modalidades sin contar con la concesión o el permiso expedido por la autoridad competente, o por realizarlo con unidades vehiculares no registradas o distintas a las registradas ante la autoridad de transporte del Estado, se le impondrá pena privativa de libertad de tres a siete años y multa de quinientas a mil veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 390 Ter.
+
+A quien, por sí o mediante interpósita persona, dirija, organice, incite, induzca, compela o patrocine a otro u otros, a prestar el servicio público de transporte de pasajeros, en cualquiera de sus modalidades, sin contar con la concesión o permiso correspondiente, se le impondrá pena privativa de libertad de tres a siete años y multa de quinientas a mil veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 390 Quater.
+
+A quien, por sí o mediante interpósita persona, dirija, administre, opere o ponga en funcionamiento una terminal de servicio público de transporte de pasajeros, en cualquiera de sus modalidades, sin contar con el permiso o autorización correspondiente, se le impondrá pena privativa de libertad de tres a siete años y multa de quinientas a mil veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+Artículo 390 Quintus.- Los delitos establecidos en este capítulo serán perseguidos por querella que deberá presentar la Secretaría de Movilidad y Transporte, la cual podrá otorgar el perdón del ofendido cuando los imputados realicen acciones concretas y actuales para regularizar sus actividades relacionadas con la prestación del servicio público de transporte y garanticen la no repetición.
+
+De igual forma, los delitos previstos en este capítulo también se imputarán a las personas jurídicas en la forma y términos legales que establecen los artículos 421 al 425 del Código Nacional de Procedimientos Penales.
 
 ## Título Décimo Sexto. Delitos Contra la Autoridad
 
-### Capítulo III. Falsedad en Declaraciones y en Informes Dados a una Autoridad
+### Capítulo II. Falsificación de Documentos en General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 391.
 
@@ -4263,7 +4289,9 @@ Al que debiendo ser examinado en juicio y sin que le aprovechen las excepciones 
 
 Cuando la ley autorice el empleo de apremio para hacer efectivas las determinaciones de la autoridad, se consumará el delito de desobediencia cuando se hubiere agotado uno de los medios de apremio.
 
-### Capítulo IV. Usurpación de Funciones Públicas o de Profesión y uso Indebido de Condecoraciones, Uniformes e Insignias
+### Capítulo III. Falsedad en Declaraciones y en Informes Dados a una Autoridad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 396.
 
@@ -4271,7 +4299,7 @@ Al que procure con actos materiales impedir la ejecución de una obra o trabajo 
 
 Si el delito se comete por varios sujetos, la sanción será de tres meses a un año de prisión si sólo se hiciere una simple oposición; pero si mediare violencia, podrá aumentarse la sanción hasta por dos años de prisión y multa hasta de quince días de salario.
 
-### Capítulo V. Disposiciones Comunes a los Capítulos Precedentes
+### Capítulo IV. Usurpación de Funciones Públicas o de Profesión y uso Indebido de Condecoraciones, Uniformes e Insignias
 
 ###### Artículo 397.
 
@@ -4279,9 +4307,7 @@ Al que ilícitamente retire, destruya o de cualquier modo quebrante los sellos p
 
 Se equipara al delito de quebramiento de sellos y se sancionará con la misma pena, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que haya sido clausurada y que realice actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan sin violación alguna.
 
-### Capítulo VI. Fraude Procesal
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+### Capítulo V. Disposiciones Comunes a los Capítulos Precedentes
 
 ###### Artículo 398.
 
@@ -4309,9 +4335,9 @@ Asimismo, se entenderá por información confidencial o reservada aquella que es
 
 ## Título Décimo Séptimo. Falsedad
 
-### Capítulo I. Disposiciones Generales
+### Capítulo VI. Fraude Procesal
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 399.
 
@@ -4321,7 +4347,9 @@ Si los objetos falsificados o alterados son propiedad de un particular sea perso
 
 Al que use indebidamente cualquiera de los objetos arriba señalados, se le aplicará las penas previstas en el párrafo anterior.
 
-### Capítulo II. Desaparición Forzada de Personas
+### Capítulo I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 400.
 
@@ -4395,7 +4423,7 @@ Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumenta
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
 
-### Capítulo III. Ejercicio Ilegal y Abandono de Funciones Públicas
+### Capítulo II. Desaparición Forzada de Personas
 
 ###### Artículo 406.
 
@@ -4431,9 +4459,7 @@ I.- Al que oculte su nombre o apellido o tome otro imaginario o el de otra perso
 
 II.- Al que para eludir la práctica de una diligencia o notificación de cualquier clase o la citación de una autoridad, oculte su domicilio, designe otro distinto o niegue de cualquier modo el verdadero.
 
-### Capítulo IV. Coalición de Servidores Públicos
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+### Capítulo III. Ejercicio Ilegal y Abandono de Funciones Públicas
 
 ###### Artículo 409.
 
@@ -4449,7 +4475,9 @@ Al que usare uniformes oficiales, condecoraciones, grados jerárquicos distintos
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo V. Abuso de Autoridad
+### Capítulo IV. Coalición de Servidores Públicos
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 412.
 
@@ -4461,9 +4489,7 @@ Las disposiciones contenidas en este título, sólo se aplicarán en lo que no e
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2015)</small>
 
-### Capítulo VI. Delitos Cometidos Contra la Procuración de Justicia
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+### Capítulo V. Abuso de Autoridad
 
 ###### Artículo 413 Bis.
 
@@ -4477,7 +4503,7 @@ Cuando en la comisión de este delito intervengan en forma directa o Indirecta u
 
 ## Título Décimo Octavo. Delitos por Hechos de Corrupción
 
-### Capítulo VII. Delitos Contra la Administración de Justicia
+### Capítulo VI. Delitos Cometidos Contra la Procuración de Justicia
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -4519,17 +4545,15 @@ Cuando los delitos a que se refieren los artículos 420, 423 y 426 del presente 
 
 > <small>(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-### Capítulo VIII. Delitos Cometidos por Servidores Públicos Durante la Ejecución de la Pena
+### Capítulo VII. Delitos Contra la Administración de Justicia
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 416.
 
 (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
-### Capítulo IX
-
-Delitos Comunes que Pueden ser Cometidos por Servidores Públicos tanto en Contra de la Procuración o Administración de Justicia como Durante la Ejecución de la Pena
-
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)
+### Capítulo VIII. Delitos Cometidos por Servidores Públicos Durante la Ejecución de la Pena
 
 ###### Artículo 417.
 
@@ -4563,7 +4587,11 @@ Al infractor de las fracciones III al VII, se le impondrán de tres a ocho años
 
 Comete el delito de abandono de funciones públicas y se le impondrá pena de un mes a un año de prisión y de uno a treinta días multa, al servidor público que sin causa justificada abandone sus funciones sin haber presentado su renuncia, o sin que se le haya aceptado o al que habiéndole sido aceptada dicha renuncia, no entregue todo aquello que haya sido objeto de su responsabilidad a la persona autorizada para recibirlo.
 
-### Capítulo X. Delitos de Falsedad Cometidos por Servidores Públicos en el Ejercicio de sus Funciones
+### Capítulo IX
+
+Delitos Comunes que Pueden ser Cometidos por Servidores Públicos tanto en Contra de la Procuración o Administración de Justicia como Durante la Ejecución de la Pena
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)
 
 ###### Artículo 419.
 
@@ -4571,7 +4599,7 @@ Cometen el delito de Coalición de Servidores Públicos, los que teniendo tal ca
 
 Al que cometa el delito de coalición de servidores públicos se le impondrán de tres años a ocho años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
-### Capítulo XI. Tortura e Incomunicación
+### Capítulo X. Delitos de Falsedad Cometidos por Servidores Públicos en el Ejercicio de sus Funciones
 
 ###### Artículo 420.
 
@@ -4615,7 +4643,7 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VIII a XIII, se le impondrá de dos a nueve años de prisión, de sesenta hasta cuatrocientos días multa.
 
-### Capítulo XII. Intimidación
+### Capítulo XI. Tortura e Incomunicación
 
 ###### Artículo 421.
 
@@ -4635,9 +4663,7 @@ A quién cometa el delito previsto en la fracción II, se le impondrá la pena d
 
 A quién cometa los delitos previstos en las fracciones I, III, IV y V, se le impondrá la pena de cuatro a diez años de prisión y de mil a dos mil días multa.
 
-### Capítulo XIII. Cohecho
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+### Capítulo XII. Intimidación
 
 ###### Artículo 422.
 
@@ -4675,7 +4701,7 @@ A quién cometa el delito previsto en las fracciones IV, V, VI, VII y XIV se le 
 
 A quien cometa los delitos previstos en las fracciones I, II, III, VIII, IX, X, XI, XII y XIII se le impondrá la pena de cuatro a diez años de prisión y de cien a ciento cincuenta días multa.
 
-### Capítulo XIV. Peculado
+### Capítulo XIII. Cohecho
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -4693,7 +4719,9 @@ IV.- Permitir, fuera de los casos previstos por la Ley, la salida temporal de la
 
 A quien cometa los delitos previstos en este artículo, se le impondrá la pena de cuatro a diez años de prisión y de mil a dos mil días multa.
 
-### Capítulo XV. Concusión
+### Capítulo XIV. Peculado
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 424.
 
@@ -4765,9 +4793,7 @@ A quién cometa los delitos previstos en las fracciones VII, VIII, IX, XI, XII, 
 
 A quien cometa el delito previsto en la fracción XX, se le impondrá la pena de seis a diez años de prisión y de quinientos a mil quinientos días multa.
 
-### Capítulo XVI. Ejercicio Abusivo de Funciones
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+### Capítulo XV. Concusión
 
 ###### Artículo 425.
 
@@ -4783,7 +4809,9 @@ III.- Rinda a sabiendas informe falso ante cualquier autoridad, afirmando falsed
 
 Al responsable de cualquiera de las conductas antes señaladas, se aplicará sanción de dos meses a tres años de prisión y multa de cinco a veinticinco días de salario, además según el daño causado inhabilitación por el término de la sanción de prisión impuesta, suspensión o destitución del empleo, cargo o comisión.
 
-### Capítulo XVII. Tráfico de Influencia
+### Capítulo XVI. Ejercicio Abusivo de Funciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 426.
 
@@ -4799,9 +4827,7 @@ IV.- Ordenen como superiores jerárquicos de los responsables las conductas señ
 
 A los responsables del delito de tortura, se les aplicará, en orden a la gravedad, daños y consecuencias de las conductas desplegadas, la pena de cinco a diez años de prisión y multa de veinte a doscientos días de salario, además de destitución del cargo, empleo o comisión y nulidad absoluta de la confesión que se hubiese obtenido.
 
-### Capítulo XVIII. Enriquecimiento Ilícito
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+### Capítulo XVII. Tráfico de Influencia
 
 ###### Artículo 427.
 
@@ -4817,7 +4843,9 @@ II.- El servidor público que con motivo de la querella, denuncia o información
 
 Al que cometa el delito de intimidación, se le impondrán de dos a nueve años de prisión y multa por un monto de cincuenta a trescientos días multa.
 
-### Capítulo I. Revelación de Secretos
+### Capítulo XVIII. Enriquecimiento Ilícito
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 428.
 
@@ -4843,7 +4871,7 @@ Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación e
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
-### Capítulo II. Acceso Ilícito a Sistemas de Informática
+### Capítulo I. Revelación de Secretos
 
 ###### Artículo 429.
 
@@ -4873,9 +4901,7 @@ Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda
 
 Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
 
-### Capítulo I. Peligro de Contagio y Propagación de Enfermedades
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+### Capítulo II. Acceso Ilícito a Sistemas de Informática
 
 ###### Artículo 431.
 
@@ -4885,7 +4911,9 @@ Al responsable del delito de concusión, se le impondrán de tres meses a dos a�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-### Capítulo II. Delitos en Materia Sanitaria
+### Capítulo I. Peligro de Contagio y Propagación de Enfermedades
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 432.
 
@@ -4935,7 +4963,7 @@ b) Cuando estando legalmente obligado a entregar a una autoridad información so
 
 Al que cometa el delito a que se refiere la presente fracción, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
 
-### Capítulo I. Atentados Contra el Saneamiento del Ambiente y la Ecología del Estado
+### Capítulo II. Delitos en Materia Sanitaria
 
 ###### Artículo 433.
 
@@ -4975,7 +5003,7 @@ VI.- Al particular que, sin estar autorizado legalmente para intervenir en un ne
 
 Al que cometa el delito de tráfico de influencia, se le impondrán de tres a ocho años de prisión, multa de cincuenta a trescientos días multa.
 
-### Capítulo II. Ecocidio
+### Capítulo I. Atentados Contra el Saneamiento del Ambiente y la Ecología del Estado
 
 ###### Artículo 434.
 
@@ -5003,7 +5031,7 @@ En lo conducente, se aplicará a este capítulo lo dispuesto por la ley que en m
 
 ## Título Décimo Noveno. Delitos de Revelación de Secretos y de Acceso Ilícito a Sistemas y Equipos de Informática
 
-### Capítulo I. Responsabilidad Médica y Técnica
+### Capítulo II. Ecocidio
 
 ###### Artículo 435.
 
@@ -5021,9 +5049,7 @@ A quien revele, divulgue o utilice ilícitamente o en perjuicio de otro, informa
 
 Cuando el sujeto activo de los delitos contemplados en este capítulo sea un servidor público, además de las penas establecidas se le impondrá destitución e inhabilitación para ejercer otro cargo, empleo o comisión públicos de seis meses a tres años.
 
-### Capítulo II. Delitos de Licenciados en Derecho, Defensores y. Litigantes
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
+### Capítulo I. Responsabilidad Médica y Técnica
 
 ###### Artículo 439.
 
@@ -5049,7 +5075,9 @@ Los delitos previstos en este título serán sancionados por querella de parte o
 
 ## Título Vigésimo. Delitos Contra la Salud
 
-### Capítulo Único. Violación a las Leyes Sobre Inhumaciones y Exhumaciones
+### Capítulo II. Delitos de Licenciados en Derecho, Defensores y. Litigantes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 444.
 
@@ -5069,7 +5097,7 @@ Las penas establecidas en este artículo, se aplicarán aun cuando el sujeto act
 
 Se presume el conocimiento de la enfermedad, cuando el sujeto activo presenta lesiones o manifestaciones externas provocadas por la misma, fácilmente perceptibles, o cuando, conocedor de su padecimiento está siendo tratado médicamente.
 
-### Capítulo Único
+### Capítulo Único. Violación a las Leyes Sobre Inhumaciones y Exhumaciones
 
 ###### Artículo 445.
 
@@ -5147,9 +5175,7 @@ En caso de que se produzca la muerte o la alteración de la salud, se acumulará
 
 ## Título Vigésimo Primero. Delitos Ambientales
 
-### Capítulo Único. Operaciones con Recursos de Procedencia Ilícita
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+### Capítulo Único
 
 ###### Artículo 453.
 
@@ -5175,7 +5201,9 @@ Las mismas sanciones se impondrán al que sin contar con autorización de la aut
 
 Este delito se perseguirá por querella de la autoridad Estatal o Municipal que sea competente para conocer del asunto en los términos de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, la autoridad podrá otorgar el perdón, cuando se acredite haber realizado la reparación del daño y cubierto las multas impuestas.
 
-### Capítulo I. Generalidades
+### Capítulo Único. Operaciones con Recursos de Procedencia Ilícita
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 457.
 
@@ -5337,7 +5365,7 @@ Los delitos previstos en este capítulo, serán aplicables siempre que se cometa
 
 ## Título Vigésimo Segundo. Responsabilidad Profesional
 
-### Capítulo II. Delitos Electorales Cometidos por Cualquier Persona
+### Capítulo I. Generalidades
 
 ###### Artículo 466.
 
@@ -5383,7 +5411,7 @@ Si la extirpación, el injerto o el trasplante se realizan en persona plagiada o
 
 A los encargados, empleados o dependientes de farmacias que al surtir una receta sustituyan el medicamento señalado en la misma por otro que cause daño o sea evidentemente inapropiado para el padecimiento para el que se prescribió aquél, así como a los que expendan medicamentos que hayan alcanzado su fecha de caducidad, se les impondrá sanción de seis meses a tres años de prisión sin perjuicio de la reparación de los daños y de la sanción que resultare a causa de su conducta ilícita.
 
-### Capítulo III. Delitos Electorales Cometidos por Funcionarios Electorales
+### Capítulo II. Delitos Electorales Cometidos por Cualquier Persona
 
 ###### Artículo 473.
 
@@ -5415,7 +5443,7 @@ La misma sanción y multa que señala el párrafo primero de este artículo, se 
 
 ## Título Vigésimo Tercero. Delitos en Materia de Inhumaciones y Exhumaciones
 
-### Capítulo IV. Delitos Electorales Cometidos por Funcionarios Partidistas o Candidatos
+### Capítulo III. Delitos Electorales Cometidos por Funcionarios Electorales
 
 ###### Artículo 474.
 
@@ -5435,7 +5463,7 @@ II.- Al que viole una sepultura o féretro o profane un cadáver o restos humano
 
 ## Título Vigésimo Cuarto. Encubrimiento
 
-### Capítulo V. Delitos Electorales Cometidos por Precandidatos
+### Capítulo IV. Delitos Electorales Cometidos por Funcionarios Partidistas o Candidatos
 
 ###### Artículo 476.
 
@@ -5469,7 +5497,7 @@ El Órgano Jurisdiccional, teniendo en cuenta la naturaleza del hecho, las carac
 
 ## Título Vigésimo Quinto. Operaciones con Recursos de Procedencia ilícita
 
-### Capítulo VI. Delitos Electorales Cometidos por Servidores Públicos
+### Capítulo V. Delitos Electorales Cometidos por Precandidatos
 
 ###### Artículo 478.
 
@@ -5527,7 +5555,7 @@ Asimismo, las penas previstas en este Capítulo se aumentaran en una mitad si qu
 
 ## Título Vigésimo Sexto. Delitos en Materia Electoral
 
-### Capítulo Único. Delitos en Contra de los Símbolos Patrios o Valores Históricos del Estado
+### Capítulo VI. Delitos Electorales Cometidos por Servidores Públicos
 
 ###### Artículo 479.
 
@@ -5576,6 +5604,8 @@ El proceso electoral, comprende las etapas de preparación de elección, jornada
 ###### Artículo 480.
 
 Por la comisión de cualquiera de los delitos comprendidos en este título, se impondrá además de la punibilidad señalada en los artículos siguientes: destitución del empleo, cargo o comisión; inhabilitación de uno a cinco años para ejercer una función pública y suspensión de derechos políticos hasta por cinco años.
+
+### Capítulo Único. Delitos en Contra de los Símbolos Patrios o Valores Históricos del Estado
 
 ###### Artículo 481.
 
@@ -6142,3 +6172,11 @@ P.O. 14 DE OCTUBRE DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 027 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
