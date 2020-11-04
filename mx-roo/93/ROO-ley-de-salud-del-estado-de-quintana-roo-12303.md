@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2019-06-14"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -487,13 +487,17 @@ I. El Secretario de Salud del Gobierno del Estado, quien lo presidirá;
 
 II. El Presidente de la Comisión de Salud y Asistencia Social del Congreso del Estado;
 
-III. El Secretario de Hacienda;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+III. La persona titular de la Secretaría de Finanzas y Planeación;
 
 IV. El Secretario de Desarrollo Social;
 
 V. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-VI. El Presidente del Colegio de Médicos del Estado de Quintana Roo, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+VI. El Presidente del Colegio Médico de Quintana Roo, y
 
 VII. El Director de la División de Ciencias de la Salud de la Universidad de Quintana Roo.
 
@@ -3850,3 +3854,11 @@ P.O. 14 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 338 POR EL QUE SE REFORMAN LAS FRACCIONES IX Y XIX DEL APARTADO B DEL ARTÍCULO 5; Y SE ADICIONA UNA FRACCIÓN XX AL APARTADO B DEL ARTÍCULO 5, DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 045 POR EL QUE SE REFORMAN LAS FRACCIONES III Y VI DEL ARTÍCULO 24-A DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
