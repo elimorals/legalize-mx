@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-679-de-juntas-de-mejoras-para-el-estado-de-129979"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-20"
-last_updated: "2018-08-20"
+last_updated: "2020-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 679 DE JUNTAS DE MEJORAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 596 DE JUNTAS DE MEJORAS PARA EL DESARROLLO Y BIENESTAR DE LAS COMUNIDADES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 4 DE NOVIEMBRE DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 679 DE JUNTAS DE MEJORAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 4 DE NOVIEMBRE DE 2020 (ABROGADA).
 
 Ley publicada en el Núm. Ext. 332 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 20 de agosto de 2018.
 
@@ -392,3 +394,19 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 596 DE JUNTAS DE MEJORAS PARA EL DESARROLLO Y BIENESTAR DE LAS COMUNIDADES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se abroga la Ley número 679 de Juntas de Mejoras para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado número 332 Tomo I de fecha veinte de agosto del año dos mil dieciocho.
+
+Tercero. Al entrar en vigor la presente Ley, quedarán sujetas a las disposiciones de la misma aquellas Juntas legalmente constituidas que se encuentren en funciones, acrediten su correcta integración y hayan cumplido con oportunidad la obligación de haber rendido sus informes financieros y de actividades.
+
+Cuarto. El Titular del Poder Ejecutivo del Estado contará con un plazo de sesenta días hábiles, contado a partir de la entrada en vigor del presente Decreto, para expedir el Reglamento de la presente Ley.
+
+Quinto. Se derogan todas las disposiciones que se opongan a la presente Ley.
