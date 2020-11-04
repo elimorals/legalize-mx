@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-instituciones-y-procedimientos-electorales-del-143464"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-29"
-last_updated: "2020-10-08"
+last_updated: "2020-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "CHP"
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE NOVIEMBRE DE 2020.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 29 de junio de 2020.
 
@@ -4175,13 +4177,13 @@ II. Un 65% que se distribuirá de manera igualitaria entre todas las planillas a
 
 3. Ninguna persona física o jurídica sea a título propio o por cuenta de terceros, podrá contratar propaganda o tiempos en radio y televisión para promover a un candidato independiente o dirigida a influir en las preferencias electorales de los ciudadanos, a favor o en contra de los mismos o de los Partidos Políticos. Queda prohibida la transmisión en territorio estatal de éste tipo de propaganda contratada en algún otro estado o en el extranjero.
 
-Artículo 145 (SIC).
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-1. El conjunto de candidatos independientes, según el tipo de elección, accederán a la radio y la televisión, como si se tratara de un partido de nuevo registro, únicamente en el porcentaje que se distribuye en forma igualitaria a los Partidos Políticos, en términos de lo dispuesto en la Constitución federal. Los candidatos independientes sólo tendrán acceso a radio y televisión en campaña electoral.
+4. El conjunto de candidatos independientes, según el tipo de elección, accederán a la radio y la televisión, como si se tratara de un partido de nuevo registro, únicamente en el porcentaje que se distribuye en forma igualitaria a los Partidos Políticos, en términos de lo dispuesto en la Constitución federal. Los candidatos independientes sólo tendrán acceso a radio y televisión en campaña electoral.
 
-Artículo 146 (SIC).
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-1. El Instituto de Elecciones dará el aviso al Instituto Nacional, para efecto de suspender inmediatamente cualquier propaganda política o electoral en radio o televisión que resulte violatoria de esta Ley; lo anterior, sin perjuicio de las demás sanciones que deban aplicarse a los infractores.
+5. El Instituto de Elecciones dará el aviso al Instituto Nacional, para efecto de suspender inmediatamente cualquier propaganda política o electoral en radio o televisión que resulte violatoria de esta Ley; lo anterior, sin perjuicio de las demás sanciones que deban aplicarse a los infractores.
 
 ###### Artículo 147.
 
@@ -6683,7 +6685,7 @@ De conformidad con la fracción I del artículo 59 de la Constitución Política
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO 007, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL OCHO DE OCTUBRE DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO 007, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL OCHO DE OCTUBRE DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 P.O. 8 DE OCTUBRE DE 2020.
 
