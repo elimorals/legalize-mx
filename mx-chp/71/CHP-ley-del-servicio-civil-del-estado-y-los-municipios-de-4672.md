@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-servicio-civil-del-estado-y-los-municipios-de-4672"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-01"
-last_updated: "2020-08-19"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 1 de mayo de 1992.
 
@@ -390,6 +390,10 @@ EL PERMISO DE PATERNIDAD SE PODRA UTILIZAR UNA SEMANA ANTES DE LA FECHA FIJADA P
 ###### ARTICULO 28.
 
 A LOS HOMBRES TRABAJADORES SE LES OTORGARA UNA LICENCIA CON GOCE DE SUELDO INTEGRO, POR CAUSA DE ENFERMEDAD O ACCIDENTE GRAVES DE ALGUNO DE SUS HIJOS, CONYUGE O CONCUBINA O CONCUBINARIO, PREVIA EXPEDICION DEL CERTIFICADO MEDICO POR PARTE DEL INSTITUTO DE SEGURIDAD SOCIAL AL QUE SE ENCUENTRE AFILIADO EL TRABAJADOR, EL CUAL DETERMINARA LOS DIAS DE LICENCIA. EN CASO DE QUE AMBOS PADRES SEAN SERVIDORES PUBLICOS, SOLO SE CONCEDERA LA LICENCIA A UNO DE ELLOS.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+EN CASO DE MUERTE DE CUALQUIERA DE LOS PADRES, HIJOS, HERMANOS O CONYUGES, LAS PERSONAS TRABAJADORAS TENDRAN EL DERECHO A SOLICITAR LICENCIA POR FALLECIMIENTO CON GOCE DE SUELDO POR CUATRO DIAS HABILES CONTADOS A PARTIR DEL DIA SIGUIENTE DEL DECESO, PARA LO CUAL BASTARA QUE EL TRABAJADOR PRESENTE COPIA DEL ACTA DE DEFUNCION AL AREA ADMINISTRATIVA CORRESPONDIENTE, DENTRO DE LOS SIGUIENTES QUINCE DIAS NATURALES.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2212,3 +2216,11 @@ P.O. 19 DE AGOSTO DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo dispuesto en el presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 025 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
