@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-cultura-fisica-y-deporte-60594"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2019-06-03"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Número 19 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -51,9 +51,11 @@ LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
 La presente ley es de orden público y observancia general en todo el Estado de Quintana Roo, misma que reglamenta el derecho a la cultura física y deporte reconocido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, correspondiendo su aplicación en forma concurrente al Ejecutivo Estatal, por conducto de la Comisión para la Juventud y el Deporte de Quintana Roo y los organismos e instituciones municipales del Deporte, así como los sectores social y privado, en los términos que prevén.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 2.
 
-Esta ley tiene por objeto regular la planeación, organización, promoción, fomento y desarrollo en materia de cultura física y el deporte en el Estado de Quintana Roo; establecer las bases de coordinación y colaboración entre el Estado y los Municipios, así como entre éstos con la Federación en términos de la Ley General de Cultura Física y Deporte; y la concertación para la participación de los sectores social y privado en dicha materia, teniendo las finalidades generales siguientes:
+Esta ley tiene por objeto regular la planeación, organización, promoción, fomento y desarrollo en materia de cultura física y el deporte en el Estado de Quintana Roo; establecer las bases de coordinación y colaboración entre el Estado y los Municipios, así como entre éstos con la Federación en términos de la Ley General de Cultura Física y Deporte; y la concertación para la participación de los sectores social y privado en dicha materia, teniendo las finalidades generales siguientes, mismas que serán las bases obligatorias con las que deberá regirse en todo momento el Estado y los Municipios:
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -67,9 +69,9 @@ II. Contribuir, por medio de la activación física, cultura física y el deport
 
 III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, la cultura física y el deporte;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
-IV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud, prevención de enfermedades y prevención del delito;
+IV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud, prevención de enfermedades y prevención del delito; así como la prevención de las adicciones y el consumo de sustancias psicoactivas;
 
 V. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
 
@@ -1392,3 +1394,9 @@ PRIMERO. El presente Decreto entrará en vigor al momento de la entrada en vigen
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 TERCERO. Los Municipios deberán dentro del plazo (sic) 120 días hábiles expedir o, en su caso, adecuar sus disposiciones reglamentarias para el cumplimiento del presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 052 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 2 DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
