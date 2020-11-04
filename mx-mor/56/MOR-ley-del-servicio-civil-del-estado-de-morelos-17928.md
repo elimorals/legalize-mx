@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2017-03-08"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -894,6 +894,12 @@ IV. Copia certificada del acta de nacimiento del trabajador.
 CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 EL H. CONGRESO DEL ESTADO DEBERÁ EXPEDIR EL DECRETO CORRESPONDIENTE A PARTIR DE LA FECHA EN QUE SE TENGA POR RECIBIDA LA DOCUMENTACIÓN NECESARIA PARA SU TRAMITACIÓN, EN UN TÉRMINO DE TREINTA DÍAS DURANTE EL PERÍODO ORDINARIO DE SESIONES. EN CASO DE QUE LA LEGISLATURA SE ENCUENTRE EN RECESO, DEBERÁ CONTABILIZARSE DICHO TÉRMINO A PARTIR DE QUE INICIE EL PERÍODO ORDINARIO DE SESIONES INMEDIATO.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+###### Artículo 57 Bis.
+
+La Comisión de Trabajo, Previsión y Seguridad Social del Congreso del Estado de Morelos y los Cabildos Municipales, en su caso, al momento de realizar el trámite de otorgamiento de una pensión a los trabajadores al servicio del Estado y de los Municipios de nuestro Estado, tienen la facultad de realizar la investigación correspondiente tendiente a comprobar fehacientemente los datos que acrediten la antigüedad necesaria para el goce de la misma.
 
 ###### Artículo 58.
 
@@ -1778,3 +1784,13 @@ PRIMERA.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos, para l
 SEGUNDA.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS NOVENTA Y SEIS POR EL QUE SE ADICIONA UN ARTÍCULO 57 BIS A LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente Decreto.
