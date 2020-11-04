@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-10-10"
+last_updated: "2020-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -599,7 +599,9 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+
+I. El maltrato físico o psicológico, desatención, negligencia, abandono, abuso sexual, así como cualquier otro tipo de violencia generada que les cause o pueda causar un daño a su salud, desarrollo o dignidad, o poner en peligro su supervivencia.
 
 II. Conductas que atenten contra su correcta formación.
 
@@ -2483,6 +2485,8 @@ P.O. 10 DE OCTUBRE DE 2020.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 4 DE NOVIEMBRE DE 2020.
+
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0759/2020 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO PRIMERO.
@@ -2498,3 +2502,9 @@ La Secretaría General de Gobierno, a través de la Dirección del Registro Civi
 El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
 
 P.O. 10 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0768/2020 I P.O., POR EL QUE SE REFORMA EL ARTÍCULO 53, FRACCIÓN I, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
