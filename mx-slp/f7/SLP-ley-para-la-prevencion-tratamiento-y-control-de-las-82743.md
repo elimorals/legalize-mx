@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2020-03-10"
+last_updated: "2020-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -272,6 +272,10 @@ La Secretaría estará facultada para realizar visitas de inspección a los cent
 ###### ARTICULO 17.
 
 Los programas de tratamiento y rehabilitación de adicciones se sustentarán en acciones profesionales de tratamiento terapéutico, atención clínica, de orientación e información, y de ayuda mutua; en consecuencia, la atención que ofrezcan los centros de los sectores público y privado deberá ser accesible y diversificada, profesionalizada y de carácter interdisciplinaria, incluyendo las diferentes tipologías de tratamiento de eficacia científica reconocida existentes.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+Así mismo, el proceso de rehabilitación deberá reconocer y desarrollar en cada caso, el potencial del tratamiento comunitario, la participación de la familia del paciente, la responsabilidad personal y el cuidado, la adopción y promoción de un estilo de vida saludable, y las aportaciones de grupos de ayuda mutua de servicios gratuitos.
 
 ###### ARTICULO 18.
 
@@ -746,5 +750,13 @@ P.O. 10 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0612.- SE REFORMA EL ARTÍCULO 37 EN SU FRACCIÓN VI; Y ADICIONA AL MISMO ARTÍCULO 37 UNA FRACCIÓN, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor a los seis meses siguientes de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0796.- SE ADICIONA AL ARTÍCULO 17 EL PÁRRAFO SEGUNDO, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
