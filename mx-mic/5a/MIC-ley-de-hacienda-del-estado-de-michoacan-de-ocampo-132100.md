@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-132100"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-05-28"
+last_updated: "2020-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 31 de diciembre de 2018.
 
@@ -4209,6 +4209,18 @@ Por cotejo de copias de expedientes,
 
 adicionalmente, por cada página. $23.00
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+La certificación a que se refiere esta fracción,
+
+será gratuita, cuando sean solicitadas por
+
+persona que las requiera para hacer efectivo
+
+el ejercicio de un derecho o para el
+
+desconocimiento de una obligación.
+
 IX. Por otra clase de certificaciones, cuando
 
 éstas no estén previstas en el Capítulo
@@ -4305,7 +4317,9 @@ El pago de los derechos por los servicios comprendidos en este Artículo, se pod
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
-### CAPÍTULO I. PRODUCTOS
+### CAPÍTULO XXI. SERVICIOS URGENTES Y EXTRAURGENTES
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 130.
 
@@ -4375,9 +4389,7 @@ IX. Autorización para cambio de leyenda o
 
 figura en un anuncio. $845.00
 
-### CAPÍTULO II. VENTA DE PUBLICACIONES Y OTROS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO I. PRODUCTOS
 
 ###### ARTÍCULO 131.
 
@@ -4433,7 +4445,7 @@ E) Los acusados, para que surtan sus efectos en los procesos penales que se les 
 
 F) Los obreros, para asuntos laborales.
 
-### CAPÍTULO III. POR SUMINISTRO DE HOLOGRAMAS PARA VERIFICACIÓN VEHICULAR
+### CAPÍTULO II. VENTA DE PUBLICACIONES Y OTROS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -4441,15 +4453,25 @@ F) Los obreros, para asuntos laborales.
 
 De conformidad con lo previsto por el Código Fiscal del Estado de Michoacán de Ocampo y por la Ley de Ingresos del Estado de Michoacán de Ocampo para el ejercicio que corresponda, la falta de pago oportuno de la contribución Derechos, genera como accesorios recargos, multas, gastos de ejecución e indemnizaciones, mismos que se causarán, liquidarán y pagarán conforme a lo establecido por dichos ordenamientos.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+### CAPÍTULO III. POR SUMINISTRO DE HOLOGRAMAS PARA VERIFICACIÓN VEHICULAR
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 132 Bis.
+
+Los Derechos por la prestación de los servicios a que se refiere este Título, relativos a los Derechos por Servicios del Registro Civil; Derechos por Servicios de la Dirección del Notariado y Archivo General de Notarias; Derechos por Servicios de Catastro; y Derechos por Servicios Oficiales Diversos; cuando se realicen con carácter de urgente, se pagarán por el equivalente al doble de las cuotas correspondientes al servicio de que se trate, y con carácter extraurgente el triple de las cuotas correspondientes.
+
+Los servicios ordinarios que comúnmente son entregados el día de su solicitud o durante los siguientes tres días a su solicitud, no serán sujetos del carácter urgente ni extraurgente. Los servicios urgentes serán entregados al día siguiente, y los extra urgentes el mismo día. La aplicación de lo mencionado en el presente párrafo estará supeditada a la naturaleza del trámite.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO QUINTO. INGRESOS POR CONTRAPRESTACIONES POR LOS SERVICIOS QUE PRESTE EL ESTADO EN SUS FUNCIONES DE DERECHO PRIVADO
 
 ### CAPÍTULO ÚNICO. APROVECHAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-## TÍTULO QUINTO. INGRESOS POR CONTRAPRESTACIONES POR LOS SERVICIOS QUE PRESTE EL ESTADO EN SUS FUNCIONES DE DERECHO PRIVADO
-
-### CAPÍTULO I. INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
 
 ###### ARTÍCULO 133.
 
@@ -4469,7 +4491,7 @@ V. Otros Productos, como resultado de establecimientos y empresas del Estado; co
 
 Para la percepción de estos ingresos se estará a lo dispuesto en los contratos o concesiones respectivos o en las escrituras constitutivas o decretos que den nacimiento a los organismos o empresas del Estado, la presente Ley, la Ley de Ingresos o en su defecto, en las disposiciones legales que le sean aplicables.
 
-### CAPÍTULO II. OTROS INGRESOS
+### CAPÍTULO I. INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
 
 ###### ARTÍCULO 135.
 
@@ -4533,7 +4555,7 @@ el costo del papel oficial.
 
 IV. Venta de leyes, reglamentos, libros, folletos y demás publicaciones que edite el Gobierno del Estado, de acuerdo con los precios que fije la Secretaría de Finanzas y Administración.
 
-### CAPÍTULO I. PARTICIPACIONES
+### CAPÍTULO II. OTROS INGRESOS
 
 ###### ARTÍCULO 136.
 
@@ -4713,7 +4735,7 @@ Territorial. $175.00
 
 ## TÍTULO SEXTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO II. APORTACIONES
+### CAPÍTULO I. PARTICIPACIONES
 
 ###### ARTÍCULO 137.
 
@@ -4859,15 +4881,13 @@ Los aprovechamientos derivados de multas por infracciones a disposiciones admini
 
 Son los ingresos propios obtenidos por las Instituciones Públicas de Seguridad Social, las Empresas Productivas del Estado, las entidades de la administración pública paraestatal, los poderes legislativo y judicial, y los órganos autónomos estatales, por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
 
-### CAPÍTULO III. CONVENIOS
+### CAPÍTULO II. APORTACIONES
 
 ###### ARTÍCULO 141.
 
 Son recursos provenientes de la venta de energía eléctrica, realizada a la Comisión Federal de Electricidad por organismos descentralizados del Gobierno Estatal, conforme a los convenios y demás disposiciones aplicables al caso en concreto.
 
-### CAPÍTULO IV. INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO III. CONVENIOS
 
 ###### ARTÍCULO 142.
 
@@ -4883,13 +4903,15 @@ II. Otros.
 
 Son los recursos que recibe el Estado por concepto de participaciones, aportaciones, convenios, incentivos derivados de la colaboración fiscal y fondos distintos de aportaciones.
 
-### CAPÍTULO V. FONDOS DISTINTOS DE APORTACIONES
+### CAPÍTULO IV. INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 144.
 
 Son los ingresos que recibe el Estado que se derivan de la adhesión al Sistema Nacional de Coordinación Fiscal, así como las que correspondan a sistemas estatales de coordinación fiscal, determinados por las leyes correspondientes.
 
-### CAPÍTULO ÚNICO. FINANCIAMIENTO INTERNO
+### CAPÍTULO V. FONDOS DISTINTOS DE APORTACIONES
 
 ###### ARTÍCULO 145.
 
@@ -4933,11 +4955,13 @@ A) Para la Infraestructura Social Municipal y las Demarcaciones Territoriales de
 
 B) Para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales de la Ciudad de México.
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES
+### CAPÍTULO ÚNICO. FINANCIAMIENTO INTERNO
 
 ###### ARTÍCULO 146.
 
 Son los ingresos que recibe el Estado derivados de convenios de coordinación, colaboración, reasignación o descentralización según corresponda, los cuales se acuerdan entre la Federación y el Estado.
+
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES
 
 ###### ARTÍCULO 147.
 
@@ -5088,3 +5112,23 @@ P.O. 28 DE MAYO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 359.- SE ADICIONA UN PÁRRAFO TERCERO A LA FRACCIÓN VIII DEL ARTÍCULO 127 DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 362.- SE ADICIONA AL TÍTULO CUARTO DE LOS DERECHOS, EL CAPÍTULO XXI DENOMINADO SERVICIOS URGENTES Y EXTRAURGENTES, EL CUAL CONTENDRÁ EL ARTÍCULO 132 BIS, A LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular (sic) la Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán de Ocampo, para su conocimiento y los efectos conducentes.
