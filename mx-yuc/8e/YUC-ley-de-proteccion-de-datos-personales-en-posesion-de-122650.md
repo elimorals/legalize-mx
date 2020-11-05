@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-de-datos-personales-en-posesion-de-122650"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-17"
-last_updated: "2017-07-17"
+last_updated: "2020-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el lunes 17 de julio de 2017.
 
@@ -781,13 +781,13 @@ La unidad de transparencia podrá exceptuar el pago de reproducción y envío at
 
 El responsable no podrá establecer para la presentación de las solicitudes del ejercicio de los derechos ARCO, algún servicio o medio que implique un costo al titular.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 100/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA “O BIEN CUANDO SEAN PROPIOS DEL PUEBLO MAYA” DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 56.
 
 Auxilio y orientación
 
-La unidad de transparencia del responsable deberá auxiliar y orientar al titular en la elaboración de las solicitudes para el ejercicio de los derechos ARCO, en particular en aquellos casos en que el titular no sepa leer ni escribir; O BIEN CUANDO SEAN PROPIOS DEL PUEBLO MAYA.
+La unidad de transparencia del responsable deberá auxiliar y orientar al titular en la elaboración de las solicitudes para el ejercicio de los derechos ARCO, en particular en aquellos casos en que el titular no sepa leer ni escribir.
 
 ###### Artículo 57.
 
@@ -1083,9 +1083,9 @@ Oficial de protección de datos personales
 
 Los responsables que en el ejercicio de sus funciones sustantivas lleven a cabo tratamientos de datos personales relevantes o intensivos, podrán designar a un oficial de protección de datos personales, especializado en la materia, quien realizará las atribuciones mencionadas en este capítulo y formará parte de la unidad de transparencia.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 100/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-LOS RESPONSABLES PROMOVERÁN ACUERDOS CON INSTITUCIONES PÚBLICAS ESPECIALIZADAS QUE PUDIERAN AUXILIARLES A LA RECEPCIÓN, TRÁMITE Y ENTREGA DE LAS RESPUESTAS A SOLICITUDES DE INFORMACIÓN, EN LA LENGUA MAYA, BRAILLE O CUALQUIER FORMATO ACCESIBLE CORRESPONDIENTE, EN FORMA MÁS EFICIENTE.
+Los responsables promoverán acuerdos con instituciones públicas especializadas que pudieran auxiliarles a la recepción, trámite y entrega de las respuestas a solicitudes de información, en lenguas indígenas, braille o cualquier formato accesible correspondiente, en forma más eficiente.
 
 ###### Artículo 84.
 
@@ -1545,9 +1545,7 @@ Procedimiento de verificación
 
 La verificación iniciará mediante una orden escrita que funde y motive la procedencia de la actuación por parte del instituto, la cual tiene por objeto requerir al responsable la documentación e información necesaria vinculada con la presunta violación o realizar visitas a las oficinas o instalaciones del responsable, o en su caso, en el lugar donde estén ubicadas las bases de datos personales respectivas.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 100/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-LA VERIFICACIÓN EN INSTANCIAS DE SEGURIDAD PÚBLICA, SÓLO PROCEDERÁ MEDIANTE ORDEN JUDICIAL QUE FUNDE Y MOTIVE LA CAUSA DEL PROCEDIMIENTO Y NECESIDAD DE SABER, DEBIÉNDOSE ASEGURAR LA INFORMACIÓN SÓLO PARA USO EXCLUSIVO DE LA AUTORIDAD.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 El procedimiento de verificación deberá tener una duración máxima de cincuenta días.
 
@@ -1794,3 +1792,13 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 291/2020 POR EL QUE SE MODIFICA LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE YUCATÁN”.]
+
+Articulo único. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
