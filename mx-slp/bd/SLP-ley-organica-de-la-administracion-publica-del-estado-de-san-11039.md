@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2020-09-03"
+last_updated: "2020-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -1455,7 +1455,9 @@ XXXI. Suspender de acuerdo a lo establecido en la normatividad aplicable, en el 
 
 XXXII. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Ejecutivo Estatal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal y de la Fiscalía General del Estado, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes las acciones que procedan para corregir las irregularidades detectadas;
 
-XXXIII. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+XXXIII. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal, promoviendo el ahorro en consumibles e insumos, fomentando, a su vez, el uso de cero papeles;
 
 XXXIV. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
 
@@ -2086,3 +2088,11 @@ OCTAVO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo del E
 Los asuntos que aún quedaran pendientes después del término de tres años a que se refiere el párrafo anterior, serán concentrados en una sola mesa que subsistirá hasta que concluya de manera definitiva con el último de los mismos.
 
 NOVENO. Se derogan todas las disposiciones que se oponga a este Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0795.- SE REFORMA EL ARTÍCULO 44 EN SU FRACCIÓN XXXIII, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
