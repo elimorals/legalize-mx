@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2018-11-14"
+last_updated: "2020-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -2593,13 +2593,21 @@ Operación, evaluación y certificación para los Centros de Atención de Emerge
 
 La Secretaría establecerá los modelos de operación, evaluación y certificación para los Centros de Atención de Emergencias Municipales 9-1-1.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Sanciones por el uso Irresponsable del Servicio de Emergencias 9-1-1
+Sanciones por el uso irresponsable del Servicio de Emergencias 9-1-1
 
 ###### Artículo 154.
 
 El Estado y los municipios establecerán los mecanismos para sancionar a las personas que hacen un uso irresponsable del Servicio de Emergencias 9-1-1.
+
+Para efecto del párrafo anterior, se sancionará con multa a quien, a través de teléfono fijo o celular, realice solicitudes de auxilio y reportes falsos al servicio de llamadas de emergencia, si por la conducta se distraen o movilizan las autoridades de la seguridad o los servicios de emergencia, además de la multa, responderá por los daños y perjuicios ocasionados.
+
+En caso de reincidencia en la conducta señalada en el párrafo anterior se aplicará el arresto administrativo de veinte a treinta y seis horas.
+
+Si la llamada la realizara un menor, quienes ejerzan la patria potestad, los tutores o quienes los tengan bajo su cuidado, deberán responder por los daños y perjuicios ocasionados.
+
+El Estado y los municipios deberán realizar campañas y medidas sobre el uso correcto del Servicio de Emergencias 9-1-1, así como establecer en sus reglamentos las sanciones referidas en el presente artículo.
 
 ### Capítulo V. Servicio Estatal de Denuncia Anónima
 
@@ -3256,3 +3264,9 @@ Artículo Sexto. En el marco de la aprobación de la Ley del Presupuesto General
 Derogación de disposiciones contrarias
 
 Artículo Séptimo. Se derogan todas las disposiciones que se opongan a lo preceptuado por el presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 233 POR EL QUE SE REFORMA EL ARTÍCULO 154, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
