@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cultura-fisica-y-deporte-del-estado-de-guanajuato-124178
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-03"
-last_updated: "2020-07-22"
+last_updated: "2020-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Cuarta Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 3 de noviembre de 2017.
 
@@ -335,11 +335,15 @@ III. (DEROGADA, P.O. 22 DE JULIO DE 2020)
 
 IV. La CODE;
 
-V. Los organismos municipales;
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-VI. Las asociaciones y sociedades deportivas; y
+V. El Instituto Guanajuatense para las Personas con Discapacidad;
 
-VII. El COEDE.
+VI. Los organismos municipales;
+
+VII. Las asociaciones y sociedades deportivas; y
+
+VIII. El COEDE.
 
 La CODE a través del Registro auxiliará al Sistema para otorgar los registros relativos a las asociaciones y sociedades deportivas que cumplan con los requisitos de la ley y demás ordenamientos aplicables para su integración como parte del Sistema Estatal.
 
@@ -1564,3 +1568,9 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 234 POR EL QUE SE ADICIONA UNA FRACCIÓN V, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 13, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
