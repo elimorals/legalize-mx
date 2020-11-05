@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2020-10-06"
+last_updated: "2020-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -237,23 +237,43 @@ XIII. Los derechos sociales que a continuación se enuncian:
 
 3.- Los niños, las niñas y los adolescentes tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación. En condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulguen para tal efecto, deben de atender al interés superior del menor.
 
-4.- Todo individuo tiene derecho a recibir educación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+4.- Toda persona tiene derecho a recibir educación.
 
-a) El Estado y los Municipios están obligados a impartir la educación preescolar, primaria, secundaria y media superior, y los padres de familia o tutores a enviar a sus hijos para que la reciban.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-b) La educación que se imparta será integral, gratuita, laica, científica, democrática y fortalecerá la identidad nacional y local, impulsará la formación de valores y promoverá el desarrollo humano.
+a) El Estado y los Municipios están obligados a impartir y garantizar la educación básica, media superior y superior, y los padres de familia o tutores a enviar a sus hijos para que la reciban. La educación inicial, preescolar, primaria y secundaria, conforman la educación básica; ésta y la media superior serán obligatorias.
+
+La educación superior será obligatoria en términos de la fracción X del artículo 3o de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+b) La educación que se imparta será obligatoria, universal, inclusiva, pública, gratuita y laica. Fortalecerá la identidad nacional y local, impulsará la formación de valores y promoverá el desarrollo humano, además, se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza (sic) aprendizaje.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 c) Corresponde al estado fortalecer y promover la educación inicial y superior.
 
-d) En los planes y programas oficiales se promoverá la incorporación de contenidos regionales para difundir la cultura nacional y local así como la educación bilingüe e intercultural de los grupos étnicos de la entidad permitiendo el combate al rezago educativo.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-e) Los alumnos de todos los niveles de educación impartida por el estado y los municipios tendrán derecho a un sistema de becas en los términos que disponga la ley.
+d) Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, se incluirán en ellos el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente. Se incluirán contenidos regionales para difundir la cultura nacional y local así como la educación bilingüe e intercultural de los grupos étnicos de la entidad permitiendo el combate al rezago educativo.
 
-f) El estado reconoce la ciencia y la tecnología, como bases fundamentales del desarrollo estatal. Toda persona tiene derecho al conocimiento científico y tecnológico, así como al respeto de su diversidad cultural y a participar libremente en la vida cultural y artística de la comunidad.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+e) El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además, será democrático, nacional, contribuirá a la mejor convivencia humana, equitativo, inclusivo, intercultural, integral, y de excelencia, de conformidad con lo dispuesto en la fracción II, del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+f) En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales.
+
+Los alumnos de todos los niveles de educación impartida por el estado y los municipios tendrán derecho a un sistema de becas en los términos que disponga la ley.
+
+En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+g) El estado reconoce la ciencia y la tecnología, como bases fundamentales del desarrollo estatal. Toda persona tiene derecho al conocimiento científico y tecnológico, así como al respeto de su diversidad cultural y a participar libremente en la vida cultural y artística de la comunidad. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de nuestra cultura.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -365,9 +385,9 @@ I. Respetar y observar el estricto cumplimiento de la Constitución General de l
 
 II. A prestar auxilio a las autoridades cuando para ello sean legalmente requeridos.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-III. Recibir la educación preescolar, primaria, secundaria y media superior haciendo que sus hijos o pupilos concurran a las escuelas públicas o privadas en la forma prevenida por las Leyes y conforme a los planes y programas que de acuerdo con ellas se expidan.
+III. Recibir la educación inicial, preescolar, primaria, secundaria y media superior haciendo que sus hijos o pupilos menores de dieciocho años concurran a las escuelas públicas o privadas en la forma prevenida por las Leyes y conforme a los planes y programas que de acuerdo con ellas se expidan, y, en su caso, reciban la militar, en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo.
 
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -4250,3 +4270,13 @@ TERCERO.- La observancia del principio de paridad de género a que se refiere el
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 CUARTO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA EL NUMERAL 4 DE LA FRACCIÓN XIII DEL ARTÍCULO 7 Y LA FRACCIÓN III DEL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
+
+TERCERO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la Entidad.
