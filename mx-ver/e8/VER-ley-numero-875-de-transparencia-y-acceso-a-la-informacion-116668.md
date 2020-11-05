@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-875-de-transparencia-y-acceso-a-la-informacion-11666
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-29"
-last_updated: "2018-11-16"
+last_updated: "2020-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 29 de septiembre de 2016.
 
@@ -641,7 +641,9 @@ XVII. La descripción del proceso legislativo y de las atribuciones del Congreso
 
 Además de lo señalado en el artículo 15 de la presente Ley, el Poder Judicial deberá poner a disposición del público y actualizar la siguiente información:
 
-I. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, G.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+I. Las versiones públicas de todas las sentencias, laudos y resoluciones que le pongan fin a los juicios emitidos;
 
 II. Las tesis y ejecutorias publicadas en la gaceta del Poder Judicial o, en su caso, del tribunal correspondiente, incluyendo tesis jurisprudenciales y aisladas;
 
@@ -3916,3 +3918,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 603 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 18 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. El Poder Judicial del Estado contará con un plazo de 180 días para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas, contado a partir de la entrada en vigor del Decreto por el que se reforma la fracción II del artículo 73 de la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación de fecha 13 de agosto de 2020, en los términos de sus artículos Primero y Segundo Transitorios.
+
+TERCERO. El Poder Judicial del Estado deberá realizar las adecuaciones normativas y tecnológicas necesarias para cumplir con lo previsto en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
