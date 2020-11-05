@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-5955"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-11"
-last_updated: "2016-12-29"
+last_updated: "2020-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLE (SIC) DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el jueves 11 de junio de 1998.
 
@@ -273,9 +273,11 @@ Las resoluciones que emita el Comité, con base en este artículo, se aplicarán
 
 El Comité podrá eximir de la obligación de inscribirse previamente en el Padrón de Proveedores de la Administración Pública Estatal y de registrar los precios máximos de venta, a las personas físicas o morales que provean artículos perecederos, o cuando se trate de adquisiciones de carácter urgente, debidamente comprobado.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 22.
 
-En las adquisiciones de mercancías, materias primas, bienes muebles, se preferirá como proveedores, en igualdad de circunstancias, a las entidades públicas estatales, municipales y federales, a las empresas del sector social de la economía como son las sociedades cooperativas y las empresas ejidales y a las personas físicas o morales establecidas en el Estado.
+En las adquisiciones de mercancías, materias primas y bienes muebles, tanto de las dependencias del Poder Ejecutivo del Estado, de los ayuntamientos y demás sujetos obligados de esta Ley, preferirán como proveedores, en igualdad de circunstancias, a las empresas del sector social de la economía local, tales como las micro, pequeñas y medianas empresas, sociedades cooperativas, empresas ejidales y personas físicas, establecidas en el Estado.
 
 ###### ARTICULO 23.
 
@@ -572,3 +574,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 363 POR EL QUE “SE REFORMA EL ARTÍCULO 22 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
