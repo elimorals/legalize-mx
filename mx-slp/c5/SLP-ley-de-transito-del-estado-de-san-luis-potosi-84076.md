@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2020-09-04"
+last_updated: "2020-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -471,7 +471,9 @@ II. Folio consecutivo para su otorgamiento (números grandes);
 
 III. Datos del vehículo (marca, modelo, tipo, color, número de serie, número de motor y registro NIV);
 
-IV. Datos del propietario (nombre y domicilio);
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
+IV. Datos del propietario (nombre y domicilio), los cuales deberán precisarse y/o estamparse en el reverso del permiso;
 
 V. Número de folio del recibo del pago;
 
@@ -1794,3 +1796,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Al entrar en vigor este Decreto, se otorga el plazo de ciento veinte días naturales a efecto de que los 58 municipios del Estado de San Luis Potosí, realicen las modificaciones a sus reglamentos correspondientes.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0797.- SE REFORMA EL ARTÍCULO 21 EN SU FRACCIÓN IV, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
