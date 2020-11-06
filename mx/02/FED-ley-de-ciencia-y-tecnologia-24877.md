@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2015-12-08"
+last_updated: "2020-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -77,9 +77,9 @@ VI. Apoyar la capacidad y el fortalecimiento de los grupos de investigación cie
 
 VII. Determinar las bases para que las entidades paraestatales que realicen actividades de investigación científica y tecnológica sean reconocidas como centros públicos de investigación, para los efectos precisados en esta Ley;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-VIII. Regular la aplicación de recursos autogenerados por los Centros Públicos de Investigación científica y los que aporten terceras personas, para la creación de fondos de investigación científica y desarrollo tecnológico, y
+VIII. Regular la aplicación de recursos autogenerados por los Centros Públicos de Investigación científica y los que aporten terceras personas, y
 
 > <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -435,7 +435,7 @@ V. Vincular la educación científica y tecnológica con los sectores productivo
 
 VI. Apoyar la capacidad y el fortalecimiento de las actividades de investigación científica y tecnológica que lleven a cabo las instituciones públicas de educación superior, las que realizarán sus fines de acuerdo a los principios, planes, programas y normas internas que dispongan sus ordenamientos específicos;
 
-VII. La creación, el financiamiento y la operación de los fondos a que se refiere esta Ley, y
+VII. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -459,7 +459,9 @@ En la medida de lo posible, el sistema deberá incluir información de manera di
 
 Las dependencias y las entidades de la Administración Pública Federal colaborarán con el CONACyT en la conformación y operación del sistema integrado de información a que se refiere el artículo anterior. Asimismo se podrá convenir con los gobiernos de las entidades federativas, de los municipios, así como con las instituciones de educación superior públicas, su colaboración para la integración y actualización de dicho Sistema.
 
-Las personas o instituciones públicas o privadas que reciban apoyo de cualquiera de los fondos, proveerán la información básica que se les requiera, señalando aquélla que por derechos de propiedad intelectual o por alguna otra razón fundada deba reservarse.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+Las personas o instituciones públicas o privadas que reciban los apoyos a los que se refiere este artículo proveerán la información básica que se les requiera, señalando aquélla que por derechos de propiedad intelectual o por alguna otra razón fundada deba reservarse.
 
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -477,7 +479,9 @@ Deberán inscribirse en el registro a que se refiere el artículo anterior:
 
 I. Las instituciones, centros, organismos y empresas públicas que sistemáticamente realicen actividades de investigación científica, desarrollo tecnológico, innovación y producción de ingeniería básica, y
 
-II. Las instituciones, centros, organismos, empresas o personas físicas de los sectores social y privado que estén interesados en recibir los beneficios o estímulos de cualquier tipo que se deriven de los ordenamientos federales aplicables para actividades de investigación científica y tecnológica. El registro será un prerrequisito para tal efecto. En el caso de esta fracción y en el marco de la Red Nacional de Grupos y Centros de Investigación a que se refiere esta Ley, el CONACyT establecerá los criterios y estándares que permitan que en las bases de organización y funcionamiento del Sistema Integrado de Información Científica y Tecnológica y en las reglas de operación de la comisión interna de evaluación del Registro se incluyan clasificaciones conforme a las cuales se identifique la calidad y nivel de desarrollo institucional de cada sujeto inscrito, mismas que serán tomadas en cuenta en el proceso de selección de beneficiarios de los fondos a que se refiere esta Ley.
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+II. Las instituciones, centros, organismos, empresas o personas físicas de los sectores social y privado que estén interesados en recibir los beneficios o estímulos de cualquier tipo que se deriven de los ordenamientos federales aplicables para actividades de investigación científica y tecnológica. El registro será un prerrequisito para tal efecto. En el caso de esta fracción y en el marco de la Red Nacional de Grupos y Centros de Investigación a que se refiere esta Ley, el CONACyT establecerá los criterios y estándares que permitan que en las bases de organización y funcionamiento del Sistema Integrado de Información Científica y Tecnológica y en las reglas de operación de la comisión interna de evaluación del Registro se incluyan clasificaciones conforme a las cuales se identifique la calidad y nivel de desarrollo institucional de cada sujeto inscrito, mismas que serán tomadas en cuenta en el proceso de selección de beneficiarios de los recursos para actividades de investigación científica y desarrollo tecnológico a que se refiere esta Ley.
 
 ###### Artículo 18.
 
@@ -533,9 +537,9 @@ f) Descentralización y desarrollo regional, y
 
 g) Seguimiento y evaluación.
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-III. Las políticas, contenido, acciones y metas de la investigación científica, el desarrollo tecnológico y la innovación que realicen dependencias y entidades de la Administración Pública Federal, así como de los fondos que podrán crearse conforme a esta Ley;
+III. Las políticas, contenido, acciones y metas de la investigación científica, el desarrollo tecnológico y la innovación que realicen dependencias y entidades de la Administración Pública Federal;
 
 > <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -555,123 +559,35 @@ V. El programa a que se refiere el artículo 29 de la Ley de Bioseguridad de los
 
 Para la ejecución anual del Programa Especial de Ciencia, Tecnología e Innovación, las dependencias y entidades de la Administración Pública Federal formularán sus anteproyectos de programa y presupuesto para realizar actividades y apoyar la investigación científica, el desarrollo tecnológico, la innovación, la competitividad y la productividad, tomando en cuenta las prioridades y los criterios para la asignación del gasto en ciencia, tecnología e innovación que apruebe el Consejo General, en los que se determinarán las áreas estratégicas, y los programas prioritarios de atención, y apoyo presupuestal especial, lo que incluirá las nuevas plazas para investigadores y la nueva infraestructura para la ciencia, la tecnología y la innovación, así como los temas de bioseguridad y biotecnologías relevantes. Con base en lo anterior, el CONACyT y la Secretaría de Hacienda y Crédito Público consolidarán la información programática y presupuestal de dichos anteproyectos para su revisión y análisis integral y de congruencia global para su presentación y aprobación por el Consejo General. En el proyecto de Presupuesto de Egresos de la Federación se consignará el presupuesto consolidado destinado a ciencia, tecnología e innovación que apruebe el Consejo General.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 #### SECCIÓN IV. Fondos
 
 ###### Artículo 23.
 
-Podrán constituirse dos tipos de fondos: Fondos CONACyT y Fondos de Investigación Científica y Desarrollo Tecnológico. Los Fondos CONACyT, cuyo soporte operativo estará a cargo del CONACyT, se crearán y operarán con arreglo a lo dispuesto por este ordenamiento y podrán tener las siguientes modalidades:
-
-I. Los institucionales que se establecerán y operarán conforme a los artículos 24 y 26 de esta Ley;
-
-II. Los sectoriales que se establezcan y operen conforme a los artículos 25 y 26 de esta Ley;
-
-III. Los de cooperación internacional que se establezcan y operen conforme a los artículos 24 y 26 de esta Ley y a los términos de los convenios que se celebren en cada caso, y
-
-> <small>(F. DE E., D.O.F. 2 DE JULIO DE 2002)</small>
-
-IV. Los mixtos que se convengan con los gobiernos de las entidades federativas a que se refiere los artículos 26 y 35 de esta Ley.
-
-Los Fondos de Investigación Científica y Desarrollo Tecnológico, cuyo soporte operativo estará a cargo de los centros públicos de investigación, se establecerán y operarán conforme a las disposiciones de esta Ley.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 24.
 
-El establecimiento y operación de los Fondos Institucionales del CONACyT se sujetará a las siguientes bases:
-
-I. Estos Fondos serán constituidos y administrados mediante la figura del fideicomiso;
-
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-II. Serán los beneficiarios de estos fondos las instituciones, universidades públicas y particulares, centros, laboratorios, empresas públicas y privadas o personas dedicadas a la investigación científica, el desarrollo tecnológico y la innovación que se encuentren inscritos en el registro, conforme se establezca en los respectivos contratos y en las reglas de operación de cada fideicomiso. En ninguno de estos contratos el CONACyT podrá ser fideicomisario;
-
-III. El fideicomitente será el CONACyT, pudiendo estos fondos recibir aportaciones del Gobierno Federal y de terceras personas, así como contribuciones que las leyes determinen se destinen a estos fondos;
-
-IV. El CONACyT, por conducto de su órgano de gobierno, determinará el objeto de cada uno de los fondos, establecerá sus reglas de operación y aprobará los contratos respectivos. Dichos contratos no requerirán de ninguna otra aprobación y una vez celebrados se procederá a su registro en la Secretaría de Hacienda y Crédito Público.
-
-En las reglas de operación se precisarán los objetivos de los programas de apoyo, los criterios, los procesos e instancias de decisión para el otorgamiento de apoyos y su seguimiento y evaluación.
-
-Los fondos contarán con un Comité Técnico y de Administración, el que será presidido por un representante del CONACyT. El CONACyT llevará a cabo el seguimiento científico, tecnológico y administrativo, y
-
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-V. El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo de la investigación científica y tecnológica; becas y formación de recursos humanos especializados; realización de proyectos específicos de investigación científica, desarrollo tecnológico, innovación y modernización tecnológica; el registro nacional o internacional de los derechos de propiedad intelectual que se generen; la vinculación de la ciencia y la tecnología con los sectores productivos y de servicios; la divulgación de la ciencia, la tecnología y la innovación; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como para otorgar estímulos y reconocimientos a investigadores y tecnólogos, en ambos casos asociados a la evaluación de sus actividades y resultados.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 25.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
-Las Secretarías de Estado y las entidades de la Administración Pública Federal, podrán celebrar convenios con el CONACyT, cuyo propósito sea determinar el establecimiento de fondos sectoriales CONACyT que se destinen a la realización de investigaciones científicas, desarrollo tecnológico, innovación, el registro nacional o internacional de propiedad intelectual, y la formación de recursos humanos especializados, becas, creación, fortalecimiento de grupos o cuerpos académicos o profesionales de investigación, desarrollo tecnológico e innovación, divulgación científica, tecnológica e innovación y de la infraestructura que requiera el sector de que se trate, en cada caso. Dichos convenios se celebrarán y los fondos se constituirán y operarán con apego a las bases establecidas en las fracciones I y III del artículo 24 y las fracciones I, III, IV, V, VI, VII, VIII y IX del artículo 26 de esta Ley y a las bases específicas siguientes:
-
-I. En los convenios antes mencionados se determinará el objeto de cada fondo, se establecerán sus reglas de operación y se aprobarán los elementos fundamentales que contengan los contratos respectivos. En las reglas de operación se precisarán los objetivos de los proyectos, los criterios, los procesos e instancias de decisión para la realización de los proyectos y su seguimiento y evaluación. El fideicomitente en los fondos sectoriales será el CONACyT;
-
-II. Solamente las universidades e instituciones de educación superior públicas y particulares, centros, laboratorios, empresas públicas y privadas y demás personas que se inscriban en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas que establece la Ley podrán ser, mediante concurso y bajo las modalidades que expresamente determine el Comité Técnico y de Administración, con apego a las reglas de operación del Fideicomiso, beneficiarios de los Fondos a que se refiere este artículo y, por tanto, ejecutores de los proyectos que se realice con recursos de esos fondos;
-
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-III. Los recursos de estos fondos deberán provenir del presupuesto autorizado de la dependencia o entidad interesada, o de contribuciones que las leyes determinen se destinen a un fondo específico. Dichos recursos no tendrán el carácter de regularizables. Las secretarías o entidades aportarán directamente los recursos al fideicomiso en calidad de aportantes, informando a la Secretaría de Hacienda y Crédito Público de dichas aportaciones. Asimismo, podrán integrase (sic) con aportaciones complementarias de terceros, en particular empresas de los sectores productivos y de servicios y organismos internacionales;
-
-IV. La celebración de los convenios, por parte del CONACyT, requerirá de la previa notificación a su órgano de gobierno, y
-
-V. Los Fondos a que se refiere este artículo contarán en todos los casos con un Comité Técnico y de Administración integrado por servidores públicos de la Secretaría o entidad a la que corresponda el Fondo, uno de los cuales lo presidirá; y por un representante del CONACyT. Asimismo, se invitará a participar en dicho Comité a personas de reconocido prestigio de los sectores científico, tecnológico y académico, público, social y privado, correspondientes a los ramos de investigación objeto del fondo.
-
-Para la evaluación técnica y científica de los proyectos se integrará una comisión de evaluación en la que participarán investigadores científicos y tecnólogos del sector correspondiente designados de común acuerdo entre la entidad y el CONACyT.
-
-Para apoyar las funciones administrativas del Comité, la Secretaría o entidad, designará un secretario administrativo, y al CONACyT corresponderá el apoyo a la comisión de evaluación por conducto del secretario técnico que designe.
-
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-Artículo 25 BIS.
-
-Las Secretarías de Estado y las entidades de la Administración Pública Federal podrán celebrar convenios con el CONACyT, conforme a lo dispuesto en los artículos 25 y 26 de la presente Ley, para establecer fondos sectoriales de innovación, que tendrán por objeto otorgar apoyos para:
-
-I. La conformación y desarrollo de redes y/o alianzas regionales tecnológicas y/o de innovación, empresas y actividades de base tecnológica, unidades de vinculación y transferencia de conocimiento, redes y/o alianzas tecnológicas, asociaciones estratégicas, consorcios, agrupaciones de empresas o nuevas empresas generadoras de innovación;
-
-II. Las actividades de vinculación entre generadores de ciencia, tecnología e innovación y los sectores productivos y de servicios;
-
-III. La conformación de empresas o asociaciones cuyo propósito sea la creación de redes científicas y tecnológicas y de vinculación entre los generadores de ciencia, tecnología e innovación y los sectores productivos y de servicios;
-
-IV. La realización de proyectos de innovación para el desarrollo regional identificados y definidos como prioritarios por las redes y/o alianzas regionales de innovación;
-
-V. El establecimiento de sistemas de gestión de la tecnología en las empresas;
-
-VI. La creación de fondos semilla y de capital de riesgo para la formación de empresas basadas en el conocimiento;
-
-VII. La creación y consolidación de parques científicos y tecnológicos;
-
-VIII. La conformación de instrumentos de capital de riesgo para la innovación, y
-
-IX. Los demás destinos establecidos en el artículo 25 de la presente Ley y los que se determinen para el fomento y desarrollo de la innovación en el programa de ciencia, tecnología e innovación.
+Artículo 25 BIS. (DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 26.
 
-Los Fondos se sujetarán a las siguientes disposiciones comunes:
-
-I. El fiduciario será la institución de crédito que elija el fideicomitente en cada caso;
-
-II. Los fondos contarán en todos los casos con un Comité Técnico y de Administración integrado por servidores públicos del CONACyT o del centro público de investigación, según corresponda. Asimismo, se invitará a participar en dicho Comité a personas de reconocido prestigio de los sectores científico, tecnológico y académico, público, privado y social, correspondientes a los ramos de investigación objeto del fondo;
-
-III. En los criterios de selección de beneficiarios, se tomará en cuenta la clasificación que se establezca en el Registro conforme a lo señalado en el artículo 17 de esta Ley;
-
-IV. Los recursos de los fondos se canalizarán invariablemente a la finalidad a la que hayan sido afectados, su inversión será siempre en renta fija y tendrán su propia contabilidad;
-
-V. A partir de la suscripción de los contratos de fideicomiso correspondientes, cualquier canalización o aportación de recursos a los fondos se considerarán erogaciones devengadas del Presupuesto de Egresos de la Federación; por lo tanto, el ejercicio de los recursos deberá realizarse conforme a los contratos correspondientes y a sus reglas de operación, las que para su validez requerirán exclusivamente de su inscripción en el Sistema Integrado de Información sobre Investigación Científica y Tecnológica;
-
-VI. El Órgano de Gobierno del CONACyT o del centro público de investigación de que se trate será la instancia competente para aprobar la constitución, modificación o extinción de los Fondos, actos que solamente requieren su correspondiente registro en la Secretaría de Hacienda y Crédito Público y será informado trimestralmente acerca del estado y movimiento de los respectivos Fondos;
-
-VII. No serán considerados entidades de la administración pública paraestatal, puesto que no contarán con estructura orgánica ni con personal propios para su funcionamiento;
-
-VIII. Estarán sujetos a las medidas de control y auditoría gubernamental de acuerdo con las características que esta Ley establece para los fondos, y
-
-IX. Los recursos de origen fiscal, autogenerados, de terceros o cualesquiera otros, que ingresen a los Fondos que se establezcan conforme a lo dispuesto en esta Ley no se revertirán en ningún caso al Gobierno Federal; y a la terminación del contrato de fideicomiso por cualquier causa legal o contractual, los recursos que se encuentren en el mismo pasarán al patrimonio del fideicomitente.
-
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 27.
 
-Las entidades paraestatales que no sean reconocidas como Centros Públicos de Investigación, los órganos desconcentrados, las instituciones de educación superior públicas reconocidas como tales por la Secretaría de Educación Pública, que no gocen de autonomía en los términos de la fracción VII del artículo 3o. de la Constitución, que realicen investigación científica o presten servicios de desarrollo tecnológico o innovación podrán constituir fondos de investigación científica y desarrollo tecnológico en los términos de lo dispuesto por el artículo 50 de esta Ley. La dependencia a la que corresponda la coordinación de la entidad, órgano desconcentrado o institución y el CONACyT dictaminarán el procedimiento de la creación de dichos fondos en los cuales podrá ser fideicomitente la propia entidad, órgano desconcentrado o institución.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ###### Artículo 28.
 
-Las aportaciones que realicen las personas físicas y morales incluyendo las entidades paraestatales, a los Fondos a que se refiere esta Ley serán deducibles para efectos del Impuesto sobre la Renta, y de acuerdo con las leyes fiscales aplicables.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 #### SECCIÓN V. Estímulos Fiscales
 
@@ -737,9 +653,9 @@ El Ejecutivo Federal, por conducto de las Secretarías de Hacienda y Crédito P�
 
 En los convenios a que se refiere el párrafo anterior se determinarán, además de los objetivos comunes y las obligaciones de las partes, los compromisos concretos de financiamiento y de aplicación de los principios que se establecen en el artículo 12 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-Asimismo, se podrá prever que las acciones de coordinación contemplen el desarrollo de proyectos en los que participen los Centros Públicos de Investigación en apoyo de los gobiernos de las entidades federativas, mediante la prestación de servicios, la creación de unidades de vinculación y transferencia de conocimiento o la asociación que convengan ambas partes. Podrán ser materia de los convenios la colaboración y coordinación en proyectos de investigación de interés regional, estatal o municipal con universidades u otras instituciones locales y nacionales, cuando las mismas sean parte en la celebración de los convenios. Para este efecto podrán constituirse fondos a los que se refieren los artículos 25, 25 Bis y 26 de esta Ley.
+Asimismo, se podrá prever que las acciones de coordinación contemplen el desarrollo de proyectos en los que participen los Centros Públicos de Investigación en apoyo de los gobiernos de las entidades federativas, mediante la prestación de servicios, la creación de unidades de vinculación y transferencia de conocimiento o la asociación que convengan ambas partes. Podrán ser materia de los convenios la colaboración y coordinación en proyectos de investigación de interés regional, estatal o municipal con universidades u otras instituciones locales y nacionales, cuando las mismas sean parte en la celebración de los convenios.
 
 ###### Artículo 34.
 
@@ -761,33 +677,7 @@ VI. Los demás aspectos necesarios relacionados con lo anterior.
 
 ###### Artículo 35.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-El CONACyT podrá convenir con los gobiernos de las entidades federativas y de los municipios, el establecimiento y operación de fondos mixtos de carácter regional, estatal y municipal de apoyo a la investigación científica, el desarrollo tecnológico y la innovación, que podrán incluir la formación de recursos humanos de alta especialidad, los cuales se integrarán y desarrollarán con aportaciones de las partes en la proporción que en cada caso se determine. Las partes de los convenios serán fideicomitentes. A dichos fondos le será aplicable lo siguiente:
-
-I. Lo dispuesto por la fracción I del artículo 24 y las fracciones I, III, IV, V, VI, VII, VIII y IX del artículo 26 de esta Ley, en lo conducente;
-
-II. En estos convenios se determinará el objeto del Fondo a constituirse, se establecerán las reglas de su operación y se aprobarán los elementos fundamentales se deberá contener el contrato respectivo, conforme a los principios que establece el artículo 12 de esta Ley. En las reglas de operación y tomando en cuenta los planes, programas y proyectos de la entidad federativa o del municipio correspondiente, se precisarán los objetivos específicos de los proyectos, los criterios, los procesos e instancias de decisión para la realización de los proyectos y de su seguimiento;
-
-III. Solamente las universidades e instituciones de educación superior, públicas y particulares, centros, laboratorios, empresas públicas y privadas y demás personas que se inscriban en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas que establece la Ley podrán ser, mediante concurso y bajo las modalidades que expresamente determine el Comité Técnico y de Administración con apego a las reglas de operación del Fideicomiso, beneficiarios de los Fondos a que se refiere este artículo y, por tanto, ejecutores de los proyectos que se realice con recursos de esos fondos;
-
-IV. Los recursos de estos Fondos deberán provenir tanto de recursos del presupuesto autorizado del CONACyT, como de recursos de las entidades federativas y de los municipios de que se trate en cada caso, en la proporción que en cada convenio se establezca. Los recursos de origen federal que se destinen a esos Fondos serán aplicables y no tendrán el carácter de regularizables. Asimismo, podrán integrarse con aportaciones complementarias de instituciones, organismos, o empresas de los sectores público, social y privado;
-
-V. La celebración de los convenios, por parte del CONACyT, requerirá de la previa notificación a su Órgano de Gobierno y a las demás instancias que correspondan;
-
-VI. Los Fondos a que se refiere este artículo contarán en todos los casos con un Comité Técnico y de Administración integrado por servidores públicos de la entidad federativa, en su caso por representantes del municipio y por un representante del CONACyT. Un representante del gobierno de la entidad federativa lo presidirá. Asimismo, se invitará a participar en dicho Comité a representantes de instituciones y a personas de reconocido prestigio de los sectores científico y académico, público y privado, de la entidad federativa de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-La selección de los representantes de los sectores científico o tecnológico, académico y productivo corresponderá conjuntamente a la entidad federativa o municipio de que se trate y al CONACyT. Los representantes que se designen podrán ser propuestos por los diferentes sectores, procurando la representatividad de los mismos en la operación y funcionamiento de los fondos mixtos.
-
-Para la evaluación técnica y científica de los proyectos se integrará una comisión de evaluación en la que participarán investigadores científicos y tecnólogos preferentemente de la entidad correspondiente designados de común acuerdo entre la entidad y el CONACyT.
-
-Para apoyar las funciones administrativas del Comité, la entidad federativa, y en su caso municipio, designará un secretario administrativo y al CONACyT corresponderá el apoyo a la comisión de evaluación por conducto del secretario técnico que designe, y
-
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-VII. Se concederá prioridad a los proyectos científicos, tecnológicos y de innovación cuyo propósito principal se oriente a la atención de problemas y necesidades o al aprovechamiento de oportunidades que contribuyan al desarrollo económico y social sustentable de las regiones, de las entidades federativas y de los municipios, a la vinculación, incremento de la productividad y competitividad de los sectores productivos y de servicios.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ### CAPÍTULO VI. Participación
 
@@ -907,7 +797,7 @@ I. Aprobar el programa de innovación e informar al Consejo General;
 
 II. Aplicar los recursos que se hayan aprobado al programa de innovación en el Presupuesto de Egresos de la Federación;
 
-III. Establecer las reglas de operación de los fondos sectoriales de innovación que se financien con recursos del programa de innovación;
+III. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 IV. Proponer al Consejo General y a las dependencias de la Administración Pública Federal las recomendaciones que considere pertinentes en materia de normalización y derechos de propiedad intelectual, a fin de promover la innovación;
 
@@ -991,25 +881,7 @@ Los Centros Públicos de Investigación, de acuerdo con su objeto, colaborarán 
 
 ###### Artículo 50.
 
-El establecimiento y operación de los Fondos de Investigación Científica y Desarrollo Tecnológico se sujetará a las siguientes bases:
-
-I. Serán constituidos y administrados mediante la figura de fideicomiso. El fideicomitente será la entidad reconocida como centro público de investigación;
-
-II. Se constituirán con los recursos autogenerados del propio centro público de investigación de que se trate, pudiendo recibir aportaciones de terceros;
-
-III. El beneficiario del fondo será el centro público de investigación que lo hubiere constituido;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-IV. El objeto del fondo será financiar o complementar financiamiento de proyectos específicos de investigación, de desarrollo tecnológico y de innovación, la creación y mantenimiento de instalaciones de investigación, su equipamiento, el suministro de materiales, el otorgamiento de becas y formación de recursos humanos especializados, la generación de propiedad intelectual y de inversión asociada para su potencial explotación comercial, la creación y apoyo de las unidades de vinculación y transferencia de conocimiento, el otorgamiento de incentivos extraordinarios a los investigadores que participen en los proyectos, y otros propósitos directamente vinculados para proyectos científicos, tecnológicos o de innovación aprobados. Asimismo, podrá financiarse la contratación de personal por tiempo determinado para proyectos científicos, tecnológicos o de innovación, siempre que no se regularice dicha contratación posteriormente. En ningún caso los recursos podrán afectarse para gastos fijos de la administración de la entidad. Los bienes adquiridos, patentes, derechos de autor y obras realizadas con recursos de los fondos formarán parte del patrimonio del propio centro. La contratación de las adquisiciones, arrendamientos y servicios con cargo a los recursos autogenerados de los fondos, será conforme a las reglas de operación de dichos fondos; a los criterios, procedimientos y mecanismos que en estas materias expidan los órganos de gobierno de los centros, así como a las disposiciones administrativas que, en su caso, estime necesario expedir la Secretaría de la Función Pública o la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, administrando dichos recursos con eficiencia, eficacia y honradez, para satisfacer los objetivos a los que estén destinados y asegurar al centro las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
-
-> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
-
-El ejercicio de los recursos a que se refiere el párrafo anterior, será objeto de fiscalización por parte de la Secretaría de la Función Pública y por la Auditoría Superior de la Federación, en el ámbito de sus respectivas competencias;
-
-V. El centro público de investigación, por conducto de su órgano de gobierno, establecerá las reglas de operación del fondo, en las cuales se precisarán los tipos de proyectos que recibirán los apoyos, los procesos e instancias de decisión para su otorgamiento, seguimiento y evaluación, y
-
-VI. La cuantía o la disponibilidad de recursos en los Fondos, incluyendo capital e intereses y los recursos autogenerados a que se refiere la presente Sección, no darán lugar a la disminución, limitación o compensación de las asignaciones presupuestales normales, autorizadas conforme al Presupuesto de Egresos de la Federación para los centros públicos de investigación, que, de conformidad con esta Ley, cuenten con dichos Fondos.
+(DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -1055,9 +927,11 @@ Las constancias, diplomas, reconocimientos, certificados y títulos y grados aca
 
 Los centros públicos de investigación se regirán por esta Ley y por sus instrumentos de creación. En lo no previsto en estos ordenamientos se aplicará supletoriamente la Ley Federal de las Entidades Paraestatales, siempre y cuando sea para fortalecer su autonomía técnica, operativa y administrativa.
 
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 54.
 
-Los ingresos que generen los centros públicos de investigación derivados de los servicios, bienes y productos de investigación y desarrollo tecnológico, incluyendo la capacitación para la formación de recursos humanos calificados, que presten o produzcan directamente o en colaboración con otras entidades públicas o privadas, serán destinados a los proyectos autorizados por sus órganos de gobierno en términos del artículo 50 de esta Ley.
+Los ingresos que generen los centros públicos de investigación derivados de los servicios, bienes y productos de investigación y desarrollo tecnológico, incluyendo la capacitación para la formación de recursos humanos calificados, que presten o produzcan directamente o en colaboración con otras entidades públicas o privadas, serán destinados a los proyectos autorizados por sus órganos de gobierno.
 
 ###### Artículo 55.
 
@@ -1075,9 +949,9 @@ II. Aprobar la distribución del presupuesto anual definitivo de la entidad y el
 
 III. Aprobar, sin que se requiera autorización de la Secretaría de Hacienda y Crédito Público, las adecuaciones presupuestarias a sus programas que no impliquen la afectación de su monto total autorizado, recursos de inversión, proyectos financiados con crédito externo, ni el cumplimiento de los objetivos y metas comprometidas;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-IV. Decidir el uso y destino de recursos autogenerados obtenidos a través de la enajenación de bienes o la prestación de servicios, por la participación en asociaciones, alianzas o nuevas empresas de base tecnológica, comercialización de propiedad intelectual e industrial, donativos o por cualquier otro concepto que pudiera generar beneficios al centro conforme a esta Ley, ya sea dentro del presupuesto de la entidad o canalizando éstos al fondo de investigación científica, desarrollo tecnológico e innovación; así como establecer los criterios para el uso y destino de los recursos autogenerados que se obtengan en exceso a lo programado, informando a la Secretaría de Hacienda y Crédito Público sobre el origen, monto, destino y criterios de aplicación de sus recursos autogenerados, de conformidad con las disposiciones aplicables, y para efectos de los informes trimestrales y Cuenta Pública;
+IV. Decidir el uso y destino de recursos autogenerados obtenidos a través de la enajenación de bienes o la prestación de servicios, por la participación en asociaciones, alianzas o nuevas empresas de base tecnológica, comercialización de propiedad intelectual e industrial, donativos o por cualquier otro concepto que pudiera generar beneficios al centro conforme a esta Ley; así como establecer los criterios para el uso y destino de los recursos autogenerados que se obtengan en exceso a lo programado, informando a la Secretaría de Hacienda y Crédito Público sobre el origen, monto, destino y criterios de aplicación de sus recursos autogenerados, de conformidad con las disposiciones aplicables, y para efectos de los informes trimestrales y Cuenta Pública;
 
 V. Autorizar la apertura de cuentas de inversión financiera, las que siempre serán de renta fija o de rendimiento garantizado;
 
@@ -1085,9 +959,7 @@ V. Autorizar la apertura de cuentas de inversión financiera, las que siempre se
 
 VI. Autorizar en lo general el programa y los criterios para la celebración de convenios y contratos de prestación de servicios de investigación para la realización de proyectos específicos de investigación, desarrollo tecnológico, innovación o prestación de servicios técnicos, así como aprobar las asociaciones estratégicas y los proyectos, convenios o contratos que tengan la finalidad de establecer empresas de base tecnológica con o sin la aportación del centro en su capital social;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-VII. Expedir las reglas de operación de los fondos de investigación científica, desarrollo tecnológico e innovación y aprobar el contenido de los contratos de fideicomiso y cualesquiera modificaciones a éstos, así como la reglamentación interna, o sus modificaciones, que le proponga el titular del centro para la instrumentación de los programas sustantivos;
+VII. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 > <small>(REFORMADA, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
@@ -1257,7 +1129,9 @@ Los investigadores, tecnólogos, académicos y estudiantes de maestría, doctora
 
 El CONACyT operará el Repositorio Nacional de conformidad con los lineamientos, bases de organización y demás disposiciones aplicables a fin de dar certeza a los contenidos y seguridad a los procesos de diseminación del conocimiento.
 
-La principal función del Repositorio Nacional será el acopio, preservación, gestión y acceso electrónico de información y contenidos de calidad, incluyendo aquellos de interés social y cultural que se producen en México con fondos públicos.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+La principal función del Repositorio Nacional será el acopio, preservación, gestión y acceso electrónico de información y contenidos de calidad, incluyendo aquellos de interés social y cultural que se producen en México con recursos públicos.
 
 El repositorio operará mediante el uso de estándares internacionales que permitan buscar, leer, descargar textos completos, reproducir, distribuir, importar, exportar, identificar, almacenar, preservar y recuperar la información que se reúna.
 
@@ -1392,3 +1266,83 @@ D.O.F. 8 DE DICIEMBRE DE 2015.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las instituciones de educación, centros y entidades referidas en el contenido del presente Decreto que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica deberán emitir y hacer pública su normatividad institucional en un plazo no mayor de 180 días, contado a partir de la publicación del presente Decreto.
+
+D.O.F. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS; DE LA LEY DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO; DE LA LEY DE HIDROCARBUROS; DE LA LEY DE LA INDUSTRIA ELÉCTRICA; DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA; DE LA LEY GENERAL DE PROTECCIÓN CIVIL; DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO; DE LA LEY DE CIENCIA Y TECNOLOGÍA; DE LA LEY ADUANERA; DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE; DE LA LEY FEDERAL DE CINEMATOGRAFÍA; DE LA LEY FEDERAL DE DERECHOS; DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO; DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS; DE LA LEY GENERAL DE CAMBIO CLIMÁTICO; DE LA LEY GENERAL DE VÍCTIMAS Y SE ABROGA LA LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARÁ EL FONDO DE APOYO SOCIAL PARA EX TRABAJADORES MIGRATORIOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+
+Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+
+A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
+
+Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+
+Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
+
+Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+
+Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
+
+El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
+
+Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
+
+En caso de que los Centros Públicos de Investigación cuenten con fideicomisos que integren el cumplimiento de obligaciones de carácter laboral o en materia de seguridad social y otras obligaciones de distinta naturaleza en un solo instrumento, deberán llevar a cabo la modificación a los mismos dentro de un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de que dichos fideicomisos públicos conserven únicamente aquellas obligaciones de carácter laboral o en materia de seguridad social, y concentren los recursos no relacionados con dichos fines en términos del primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
+
+A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de Energía-Hidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
+
+Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
+
+Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
+
+Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+
+Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+
+Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+
+Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+
+Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+
+Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
+
+Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+
+Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
+
+A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
+
+Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el transitorio Cuarto del presente Decreto.
+
+Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en (sic) Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
+
+Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+
+Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará (sic) parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+
+Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+
+A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
