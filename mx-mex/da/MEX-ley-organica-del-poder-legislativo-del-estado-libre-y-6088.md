@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2020-07-07"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -313,11 +313,11 @@ La Convocatoria será aprobada por el Pleno de la Legislatura a propuesta de la 
 
 La Legislatura recibirá, dentro del mes de septiembre, un informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional del Gobernador del Estado, que deberá recibirse dentro de los primeros quince días del mes de septiembre. Lo anterior, en los términos y de conformidad con lo dispuesto por el artículo 77 fracción XVIII de la Constitución Política del Estado Libre y Soberano de México.
 
-> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 35.
 
-La Legislatura recibirá anualmente para su revisión las cuentas de gastos del Estado, correspondiente al año inmediato anterior, a más tardar el 15 de mayo, y de los municipios, dentro de los primeros quince días naturales del mes de marzo.
+La Legislatura recibirá anualmente para su revisión las cuentas de gastos del Estado, correspondiente (sic) al año inmediato anterior, a más tardar el 30 de abril, y de los municipios, dentro de los primeros quince días naturales del mes de marzo. Si el día del vencimiento de los plazos señalados, corresponde a un día inhábil, se podrá recibir al día hábil inmediato siguiente.
 
 > <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
@@ -355,13 +355,21 @@ Corresponde a la Legislatura interpretar y declarar si una resolución suya es l
 
 Artículo 38 BIS.- Una vez que hayan sido publicadas las leyes y disposiciones de carácter general en el Periódico Oficial "Gaceta del Gobierno", la Legislatura dispondrá su traducción al braille y a las lenguas originarias del Estado de México a saber, otomí, mazahua, matlazinca, nahua y tlahuica y proveerá lo necesario para su difusión.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE NOVIEMBRE DE 2020)</small>
+
+### CAPITULO IV BIS. DEL PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO, G.G. 6 DE NOVIEMBRE DE 2020)</small>
+
+Artículo 38 TER.- La Legislatura y sus órganos, en el ejercicio de sus funciones y, particularmente, en el proceso legislativo, favorecerán mecanismos de Parlamento Abierto.
+
+Para este propósito se guiarán por los principios de transparencia y acceso a la información, rendición de cuentas, evaluación legislativa, participación ciudadana y uso de las tecnologías de la información y comunicación. Las Diputadas y los Diputados fomentarán agendas de apertura e interacción con la sociedad.
+
+Con el objeto de promover una democracia participativa, la Legislatura, de conformidad con sus atribuciones, impulsará la aplicación de los principios de Parlamento Abierto en el ámbito estatal y municipal.
+
 ### CAPITULO V. DE LA ASAMBLEA
 
 ### CAPITULO I. DE LOS ORGANOS DE LA LEGISLATURA
-
-### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 39.
 
@@ -383,7 +391,9 @@ Corresponderá a la Junta de Coordinación Política determinar la realización 
 
 ## TITULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA LEGISLATURA
 
-### CAPITULO III. DE LA DIPUTACION PERMANENTE
+### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 41.
 
@@ -405,9 +415,7 @@ V. (DEROGADA, G.G. 2 DE FEBRERO DE 2010)
 
 Los órganos de la Legislatura serán integrados por diputados de diversos grupos parlamentarios.
 
-### CAPITULO IV. DE LA JUNTA DE COORDINACION POLITICA
-
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+### CAPITULO III. DE LA DIPUTACION PERMANENTE
 
 ###### Artículo 42.
 
@@ -577,57 +585,9 @@ La asistencia, la verificación del quórum, el cómputo y registro de la votaci
 
 En caso de que no se pueda utilizar el sistema electrónico, la asistencia, la verificación del quórum y la votación se realizará de conformidad con lo señalado en el Reglamento del Poder Legislativo.
 
-### CAPITULO V. DE LOS GRUPOS PARLAMENTARIOS
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS.- Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
-
-(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
-
-Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
-
-a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
-
-b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido como coordinador del grupo parlamentario y los nombres de quienes desempeñen otras actividades directivas.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
+### CAPITULO IV. DE LA JUNTA DE COORDINACION POLITICA
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
-
-Artículo 67 BIS-4.- El coordinador propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
-
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
-
-Artículo 67 BIS-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá el presupuesto para cada Grupo Parlamentario.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
-
-> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
-
-Artículo 67 BIS-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 51.
 
@@ -703,9 +663,57 @@ En el ejercicio de sus funciones, la Directiva de la Diputación Permanente obse
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE ABRIL DE 2004)</small>
 
-### CAPITULO VI. DE LAS COMISIONES Y COMITÉS
+### CAPITULO V. DE LOS GRUPOS PARLAMENTARIOS
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS.- Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
+
+(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+
+Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
+
+a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
+
+b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido como coordinador del grupo parlamentario y los nombres de quienes desempeñen otras actividades directivas.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Artículo 67 BIS-4.- El coordinador propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Artículo 67 BIS-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá el presupuesto para cada Grupo Parlamentario.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
+
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
+Artículo 67 BIS-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 60.
 
@@ -963,11 +971,11 @@ II. Las que les encomiende la Junta de Coordinación Política o su Presidente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DEL 2003)</small>
 
+### CAPITULO VI. DE LAS COMISIONES Y COMITÉS
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
 ### CAPITULO VII. DEL PROCESO LEGISLATIVO
-
-### CAPÍTULO I. DE LAS DEPENDENCIAS Y ORGANOS TECNICOS
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1999)</small>
 
 ###### Artículo 68.
 
@@ -1259,9 +1267,9 @@ Los integrantes de las comisiones o comités sólo podrán ser sustituidos por c
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
-### CAPÍTULO II. DE LA MESA TECNICA DE LA LEGISLATURA
+### CAPÍTULO I. DE LAS DEPENDENCIAS Y ORGANOS TECNICOS
 
-(ADICIONADO, G.G. 30 DE AGOSTO DE 2012) (F. DE E., G.G. 27 DE SEPTIEMBRE DE 2012)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1999)</small>
 
 ###### Artículo 78.
 
@@ -1405,7 +1413,9 @@ La falta de respuesta de los ayuntamientos en el término indicado, será consid
 
 > <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN, G.G. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
+### CAPÍTULO II. DE LA MESA TECNICA DE LA LEGISLATURA
+
+(ADICIONADO, G.G. 30 DE AGOSTO DE 2012) (F. DE E., G.G. 27 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 94.
 
@@ -1475,7 +1485,7 @@ La Secretaría de Asuntos Parlamentarios, contará dentro de su estructura con e
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO II. DEL JURADO DE PROCEDENCIA
+### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
 
 ###### Artículo 96 Bis.
 
@@ -1497,7 +1507,7 @@ El Presidente de la Junta de Coordinación Política, procurará que los miembro
 
 ## TITULO CUARTO. DEL JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
-### CAPITULO UNICO. DE LA COMISION DE INSTRUCCION Y DICTAMEN
+### CAPITULO II. DEL JURADO DE PROCEDENCIA
 
 ###### Artículo 97.
 
@@ -1518,6 +1528,8 @@ La Sección Instructora del Gran Jurado se integrará por cinco diputados insacu
 ###### Artículo 100.
 
 Para substanciar el procedimiento de juicio político, se procederá de conformidad con las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+### CAPITULO UNICO. DE LA COMISION DE INSTRUCCION Y DICTAMEN
 
 ###### Artículo 101.
 
@@ -2292,3 +2304,27 @@ TERCERO. Todos los expedientes, archivos, acervos y demás documentación, en cu
 CUARTO. Se abroga el Decreto número 8, por el que se integra el Consejo Consultivo de Valoración Salarial publicado en el Periódico Oficial “Gaceta del Gobierno”, el 14 de noviembre de 2018.
 
 QUINTO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 200.- POR EL QUE (SIC) POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO EL (SIC) ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 201.- POR EL QUE SE ADICIONA EL CAPÍTULO CUARTO BIS "DEL PARLAMENTO ABIERTO", AL TÍTULO PRIMERO CON EL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Cuando se apliquen mecanismos de Parlamento Abierto, la Junta de Coordinación Política emitirá los lineamientos correspondientes.
