@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2019-01-18"
+last_updated: "2020-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -111,39 +111,67 @@ De los Bienes de Dominio Público.
 
 Los bienes de dominio público del Estado son inalienables, imprescriptibles e inembargables y no están sujetos mientras no varíe su situación jurídica a acción reivindicatoria o de posesión definitiva o interina por parte de terceros. Los particulares y las entidades públicas sólo podrán adquirir sobre el uso o aprovechamiento de estos bienes, los derechos regulados en esta Ley u otras que dicte la Legislatura del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 10.
 
 Corresponden al Ejecutivo del Estado, las facultades siguientes:
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+
 I.- Vigilar, administrar y controlar el correcto uso y aprovechamiento de los bienes del Estado;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
 
 II.- Dictar las reglas o normas para la vigilancia, aprovechamiento y preservación de los bienes del Estado;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+
 III.- Otorgar concesiones y, en su caso, permisos o autorizaciones para la explotación, uso y aprovechamiento de los bienes sujetos al régimen de dominio público;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
 
 IV.- Emitir la declaratoria por la que el Estado recupere el dominio de los bienes del Estado afectos a las concesiones, permisos o autorizaciones;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+
 V.- Vigilar el uso y aprovechamiento de los inmuebles donados por el Estado y, en caso procedente, ejercer el derecho de reversión sobre los mismos;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
 
 VI. - Emitir el acuerdo administrativo de destino o asignación de inmuebles a cargo de la administración pública estatal, mismo que deberá publicarse en el Periódico Oficial del Estado;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+
 VII.- Declarar, cuando ello sea preciso, que un bien determinado forma parte del dominio público del Estado, por estar comprendido en alguna de las disposiciones de esta Ley;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
 
 VIII.- Decretar la incorporación al dominio público, de un bien que forme parte del dominio privado Estatal, siempre que su posesión corresponda al Estado;
 
 Los bienes inmuebles donados al Estado, por concepto de autorización de fraccionamientos, por ese solo hecho quedarán incorporados al dominio público;
 
-IX.- Solicitar de la Legislatura del Estado, la desincorporación del dominio público, en los casos en que la Ley lo permita, un bien que haya dejado de utilizarse en el fin respectivo;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+IX.- Solicitar de la Legislatura del Estado, la desincorporación del dominio público, para transmitir la propiedad o uso de sus bienes mediante la enajenación, permuta, donación, dación en pago, o cualesquiera otras formas reconocidas por el derecho civil para transferir la propiedad, en los casos en que la Ley lo permita, un bien que haya dejado de utilizarse en el fin respectivo;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
 
 X.- Instaurar los procedimientos administrativos encaminados a retener o recuperar la posesión de los inmuebles del Estado, así como remover cualquier obstáculo creado natural o artificialmente para su uso o destino, siempre y cuando no se afecten derechos de terceros. Con esta finalidad, también podrán declarar administrativamente la nulidad, revocación y caducidad de los acuerdos, concesiones, permisos, autorizaciones o cualquier otro acto jurídico unilateral celebrado respecto a bienes del Estado, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga, en los casos y términos previstos en el Capítulo VI de esta Ley;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+
 XI.- Presentar y ratificar denuncias y querellas relativas a los bienes del Estado, así como otorgar el perdón judicial en los casos en que sea procedente;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
 
 XII.- Dictar las disposiciones necesarias para la aplicación y cumplimiento de esta Ley; y
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+
 XIII.- Las demás que les confieran esta Ley u otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 El titular del Ejecutivo del Estado por conducto de la Oficialía Mayor de Gobierno, dará cumplimiento y ejecución a las facultades señaladas en este artículo, sin perjuicio de que, en caso de considerarlo conveniente, el titular del Ejecutivo del Estado las ejecute directamente.
 
@@ -185,21 +213,31 @@ En la declaratoria de rescate se establecerán las bases generales que servirán
 
 Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviere conforme, el importe de la indemnización se determinará por la autoridad judicial, a petición del interesado, quien deberá formularla dentro del plazo de 15 días contados a partir de la fecha en que se le notifique la resolución que determine el monto de la indemnización.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 16.
 
-Los bienes de dominio público podrán ser enajenados, previo Decreto de desincorporación que expida la Legislatura del Estado, cuando por algún motivo dejen de servir para el fin respectivo.
+Los bienes de dominio público podrán ser enajenados permutados, donados, trasmitidos en dación en pago, o cualesquiera otras formas reconocidas por el derecho civil para transferir la propiedad, previo Decreto de desincorporación que expida la Legislatura del Estado, cuando por algún motivo dejen de servir para el fin respectivo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
 La solicitud deberá presentarse al Congreso del Estado, mediante Iniciativa de Decreto del Ejecutivo del Estado, a la cual acompañará tratándose de inmuebles:
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+
 I.- Un Dictamen Técnico que justifique la desincorporación;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 II.- Un plano de localización de los mismos, así como un deslinde en el que se señale la superficie total del inmueble, y sus medidas y colindancias;
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
+
 III.- La especificación de que su aprovechamiento es compatible con las correspondientes declaratorias de provisiones, reservas, usos y destinos que señalen los planes y programas de desarrollo urbano;
 
-La Iniciativa de Decreto especificará el aprovechamiento que se le dará al bien y el uso que se le dará al producto que se obtenga de la enajenación en su caso, debiendo acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+La Iniciativa de Decreto especificará el aprovechamiento que se le dará al bien y el uso que se le dará al producto que se obtenga de la enajenación, trasmisión de dación en pago, o cualesquiera otras formas reconocidas por el derecho civil para transferir la propiedad que haya solicitado en su caso, debiendo acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
 
 ###### ARTICULO 17.
 
@@ -351,27 +389,27 @@ Los inmuebles de dominio privado se destinarán preferentemente, al servicio de 
 
 La posesión, conservación y administración de los bienes del Estado, corresponden por regla general, y a falta de prevención en contrario, a la Oficialía Mayor de Gobierno, lo mismo que el conocimiento y la resolución de todos los asuntos referentes a contratos y ocupaciones de que sean objeto dichos inmuebles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 33.
 
-Los inmuebles de dominio privado que no sean adecuados o aprovechables para destinarlos a los fines a que se refiere el Artículo anterior, se podrán enajenar, previo Decreto del Congreso del Estado, cuando corresponda:
+Los inmuebles de dominio privado que no sean adecuados o aprovechables para destinarlos a los fines a que se refiere el Artículo anterior, se podrán enajenar, trasmitir en dación en pago, o cualesquiera otras formas reconocidas por el derecho civil para transferir la propiedad, previo Decreto del Congreso del Estado, cuando corresponda:
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
 I.- En favor de las Entidades oficiales dedicadas a la urbanización de terrenos y construcción de vivienda para atender necesidades colectivas, o bien a favor de particulares beneficiarios de los programas de regularización de la tenencia del suelo que promueva el Ejecutivo Estatal;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-II.- Para disponer del importe de su enajenación, en la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de las dependencias del Gobierno del Estado;
+II.- Para disponer del importe de su enajenación y/o dación en pago, en la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de las dependencias del Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2019)</small>
 
 III.- En favor de personas de derecho privado que requieran disponer indispensablemente del inmueble, por razón de su ubicación u otras características, para el desarrollo de un proyecto de carácter económico, turístico, educativo, cultural o social, en beneficio de la colectividad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-IV.- Permuta con las dependencias y entidades de la administración pública central o paraestatal del gobierno federal, estatal, o municipal o con los particulares, respecto de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes;
+IV.- Permuta, trasmisión en dación en pago, o cualesquiera otras formas reconocidas por el derecho civil para transferir la propiedad con las dependencias y entidades de la administración pública central o paraestatal del gobierno federal, estatal, o municipal o con los particulares, respecto de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades o cubran obligaciones entre las partes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2019)</small>
 
@@ -381,17 +419,21 @@ V.- Dar cumplimiento con la trasmisión del bien o bienes, a resoluciones o conv
 
 VI.- Para disponer del importe de su enajenación para el pago de obligaciones contraídas por la administración pública estatal cuyo incumplimiento pudiera provocar pérdidas o costos adicionales importantes al erario, debidamente justificados. Dichas obligaciones deben ser distintas a las contempladas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-VII.- En los demás casos en que la enajenación se justifique por razones de interés general o de beneficio colectivo.
+VII.- Para el pago de obligaciones contraídas por la administración pública estatal cuyo incumplimiento pudiera provocar pérdidas o costos adicionales importantes al erario, debidamente justificados en donde el acreedor haya aceptado la dación en pago; y.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-No podrán ser enajenados inmuebles de dominio privado del Estado, a favor de ningún funcionario federal, estatal o municipal, sus cónyuges, sus parientes consanguíneos en línea recta, sin limitación de grado, los colaterales hasta el cuarto y los afines hasta el segundo. Las enajenaciones que se efectúen en contravención de esta prohibición, serán nulas de pleno derecho.
+VIII.- En los demás casos en que la enajenación se justifique por razones de interés general o de beneficio colectivo.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-La iniciativa de Decreto por la que se solicite la autorización previa del Congreso del Estado para la enajenación de bienes, estipulará el destino que se le dará al producto que se obtenga de la enajenación, y deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
+No podrán ser enajenados y/o transmitidos en dación en pago inmuebles de dominio privado del Estado, a favor de ningún funcionario federal, estatal o municipal, sus cónyuges, sus parientes consanguíneos en línea recta, sin limitación de grado, los colaterales hasta el cuarto y los afines hasta el segundo. Las enajenaciones que se efectúen en contravención de esta prohibición serán nulas de pleno derecho.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
+La iniciativa de Decreto por la que se solicite la autorización previa del Congreso del Estado para la enajenación de bienes trasmisión en dación en pago, o cualesquiera otras formas reconocidas por el derecho civil para transferir la propiedad, estipulará el destino que se le dará al producto que se obtenga de la enajenación o en su caso el adeudo o adeudos que se cubrirán y los beneficios que se pretenden para la administración, y deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
@@ -417,13 +459,15 @@ Si el Municipio, asociación, dependencia o institución no utilizaren el bien e
 
 Los instrumentos o documentos mediante los cuales se realicen las operaciones de enajenación a que se refiere el presente artículo, no requerirán de la intervención del Notario Público, y tendrán el carácter de escritura pública, por lo que deberán inscribirse en el Registro Público de la Propiedad y de Comercio, previo el cumplimiento de los requisitos legales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### ARTICULO 37.
 
-Salvo lo dispuesto en el Artículo anterior cualquier otra clase de enajenación de bienes se hará en la forma ordinaria con sujeción a las reglas del derecho común en lo que respecta a condiciones esenciales y seguridades, pero con la clara obligación por parte del Gobierno de salvaguardar, en cada caso concreto, los intereses generales, dándole siempre a las enajenaciones un sentido práctico en beneficio de la colectividad.
+Salvo lo dispuesto en el artículo anterior cualquier otra clase de enajenación de bienes, se hará en la forma ordinaria con sujeción a las reglas del derecho común en lo que respecta a condiciones esenciales y seguridades, pero con la clara obligación por parte del Gobierno de salvaguardar, en cada caso concreto, los intereses generales, dándole siempre a las enajenaciones o daciones en pago un sentido práctico en beneficio de la colectividad.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
-Para enajenar los inmuebles de dominio privado a que se refieren las fracciones II, VI y VII del artículo 33, se sujetaran al procedimiento previsto por el artículo 19 de esta Ley, salvo en el caso de que ésta no sea idónea para asegurar las mejores condiciones para la transmisión de la propiedad, supuesto que deberá acreditarse en la iniciativa de autorización correspondiente.
+Para enajenar o dar en pago los inmuebles de dominio privado a que se refieren las fracciones II, VI y VII del artículo 33, se sujetaran al procedimiento previsto por el artículo 19 de esta Ley, salvo en el caso de que ésta no sea idónea para asegurar las mejores condiciones para la transmisión de la propiedad, supuesto que deberá acreditarse en la iniciativa de autorización correspondiente.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2019)</small>
 
@@ -441,11 +485,13 @@ Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobr
 
 En los contratos respectivos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este Artículo, dará origen a la rescisión del contrato, a cuyo efecto se transcribirá textualmente este Artículo en su clausulado.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
 ###### ARTICULO 40.
 
-Cuando se trate de adquisiciones, enajenaciones o permutas en que el Gobierno del Estado sea parte, los títulos que le representen acciones, o los bienes objeto de la operación se valuarán por la Comisión Estatal de Avalúos. Respecto de las permutas, la diferencia que resulte a favor del erario, se cubrirá en efectivo precisamente en el momento de la operación.
+Cuando se trate de adquisiciones, enajenaciones, dación en pago o permutas en que el Gobierno del Estado sea parte, los títulos que le representen acciones, o los bienes objeto de la operación se valuarán por la Comisión Estatal de Avalúos o por valuador que este avale. Respecto de las daciones en pago y permutas, la diferencia que resulte a favor del erario se cubrirá en efectivo precisamente en el momento de la operación.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1997)</small>
 
 Las ventas de acciones a que se refiere el párrafo anterior no podrán ser de tal número que el Estado pierda su carácter de accionista.
 
@@ -960,3 +1006,9 @@ P.O. 18 DE ENERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 135 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 10, 16, 33, 37 Y 40 DE LA LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
